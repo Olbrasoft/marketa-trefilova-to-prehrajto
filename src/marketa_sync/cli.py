@@ -144,9 +144,73 @@ def followup_report(root: Path):
     atomic_write(root / "reports/subtitle-followup.md", "\n".join(lines) + "\n")
 
 
+def checkpoint_paths(root: Path, mode: str) -> tuple[Path, ...]:
+    # Preparation and uploads run concurrently and must never publish stale
+    # copies of each other's files during a checkpoint rebase.
+    if mode in {"import", "titles", "prepare"}:
+        relative = ["variants/cz/manifests/selected-sources.jsonl",
+                    "variants/en/manifests/selected-sources.jsonl",
+                    "state/english-titles.json", "variants/en/state/discovery.json",
+                    "variants/en/state/candidate-scans.json"]
+    else:
+        relative = ["variants/cz/state/sync.json", "variants/en/state/sync.json",
+                    "variants/en/plans/subtitle-followup.jsonl", "reports/subtitle-followup.md",
+                    "reports/subtitle-backfill.md", "variants/en/state/subtitle-backfill.json"]
+    return tuple(root / path for path in relative)
+
+
+def run_subtitles(root, source, target, persist, limit, runtime_minutes):
+    lane = root / "variants/en"
+    backfill = Backfill(SubtitleTarget(target), source, lane,
+                        lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
+                        persist=persist)
+    backfill.run(max_pages=2, max_sources=limit, limit=limit, runtime_minutes=runtime_minutes)
+    followup_report(root)
+    if persist:
+        persist(lane / "state/subtitle-backfill.json", "flush")
+
+
+def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
+                continuous=False, refresh=None, subtitles=None,
+                clock=time.monotonic, sleep=time.sleep):
+    deadline = clock() + runtime_minutes * 60
+    counts = {"planned": 0, "uploaded": 0, "processing": 0, "failed": 0}
+    while clock() < deadline:
+        if refresh:
+            films = refresh()
+        plans = ordered_plans(pipelines, films, limit)
+        if not plans:
+            if not continuous:
+                break
+            print("upload_queue=empty waiting_for_preparation=true", flush=True)
+            sleep(min(30, max(0, deadline - clock())))
+            continue
+        for variant, row in plans:
+            if clock() >= deadline:
+                break
+            pipeline = pipelines[variant]
+            pipeline.execute([row])
+            counts["planned"] += 1
+            checkpoint = pipeline.state.snapshot(row["film"]["cr_film_id"])
+            counts["uploaded" if checkpoint.get("upload") else "processing" if checkpoint.get("prepared") else "failed"] += 1
+            followup_report(root)
+            if persist:
+                persist(pipeline.state.path, "flush")
+        print(json.dumps(counts), flush=True)
+        remaining_minutes = int((deadline - clock()) / 60)
+        if subtitles and remaining_minutes > 0:
+            try:
+                subtitles(min(10, remaining_minutes))
+            except Exception as error:
+                print(f"subtitle_followup_deferred={type(error).__name__}", flush=True)
+        if not continuous:
+            break
+    return counts
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("mode", choices=["import", "titles", "plan", "prepare", "upload", "subtitles"])
+    parser.add_argument("mode", choices=["import", "titles", "plan", "prepare", "upload", "continuous", "subtitles"])
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--upstream", type=Path)
     parser.add_argument("--limit", type=int, default=2)
@@ -156,13 +220,8 @@ def main():
     if not 1 <= args.limit <= 200 or not 1 <= args.runtime_minutes <= 330:
         parser.error("limit must be 1..200; runtime-minutes must be 1..330")
     root = args.root.resolve()
-    extra = [root / "variants/cz/manifests/selected-sources.jsonl",
-             root / "variants/en/manifests/selected-sources.jsonl",
-             root / "variants/en/plans/subtitle-followup.jsonl", root / "state/english-titles.json",
-             root / "reports/subtitle-followup.md", root / "reports/subtitle-backfill.md",
-             root / "variants/en/state/subtitle-backfill.json"]
-    extra.append(root / "variants/en/state/candidate-scans.json")
-    persist = GitStatePersister(root, tuple(extra)) if args.persist_git_state else None
+    extra = checkpoint_paths(root, args.mode)
+    persist = GitStatePersister(root, extra) if args.persist_git_state else None
     if args.mode == "import":
         if args.upstream is None:
             parser.error("import requires --upstream")
@@ -182,41 +241,40 @@ def main():
         prepare(root, films, names, args.limit, persist, args.runtime_minutes)
         return 0
     if args.mode == "subtitles":
-        lane = root / "variants/en"
-        backfill = Backfill(SubtitleTarget(target_session()), source_session(), lane,
-                            lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
-                            persist=persist)
-        backfill.run(max_pages=2, max_sources=args.limit, limit=args.limit,
-                     runtime_minutes=args.runtime_minutes)
-        followup_report(root)
-        if persist:
-            persist(lane / "state/subtitle-backfill.json", "flush")
+        run_subtitles(root, source_session(), target_session(), persist, args.limit, args.runtime_minutes)
         return 0
-    source, target = (source_session(), target_session()) if args.mode == "upload" else (None, None)
+    source, target = (source_session(), target_session()) if args.mode in {"upload", "continuous"} else (None, None)
     pipelines = {variant: make_pipeline(root, variant, names, source, target, persist=persist)
                  for variant in ("cz", "en")}
     for pipeline in pipelines.values():
         pipeline.state.release_claims_from_other_run(os.environ.get("GITHUB_RUN_ID"))
-    plans = ordered_plans(pipelines, films, args.limit)
     if args.mode == "plan":
+        plans = ordered_plans(pipelines, films, args.limit)
         for variant, row in plans:
             print(json.dumps({"variant": variant, "title": row["display_name"],
                               "source": row["selected"]["url"],
                               "width": row["selected"]["width"], "height": row["selected"]["height"]}, ensure_ascii=False))
         return 0
-    deadline = time.monotonic() + args.runtime_minutes * 60
-    counts = {"uploaded": 0, "processing": 0, "failed": 0}
-    for variant, row in plans:
-        if time.monotonic() >= deadline:
-            break
-        pipeline = pipelines[variant]
-        pipeline.execute([row])
-        checkpoint = pipeline.state.snapshot(row["film"]["cr_film_id"])
-        counts["uploaded" if checkpoint.get("upload") else "processing" if checkpoint.get("prepared") else "failed"] += 1
-        followup_report(root)
+    def refresh():
         if persist:
-            persist(pipeline.state.path, "flush")
-    print(json.dumps({"planned": len(plans), **counts}), flush=True)
+            for variant, pipeline in pipelines.items():
+                payload = persist.read_remote_file(f"variants/{variant}/manifests/selected-sources.jsonl")
+                pipeline.selected_sources.merge_jsonl(payload)
+            titles.rows = json.loads(persist.read_remote_file("state/english-titles.json"))
+        refreshed_films, refreshed_names = named_films(rows, titles)
+        names.update(refreshed_names)
+        return refreshed_films
+
+    def subtitles(remaining_minutes):
+        if any(row.get("upload") for row in pipelines["en"].state.data["films"].values()):
+            run_subtitles(root, source, target, persist, 20, remaining_minutes)
+
+    continuous = args.mode == "continuous"
+    counts = drain_queue(root, pipelines, films, limit=args.limit,
+                         runtime_minutes=args.runtime_minutes, persist=persist,
+                         continuous=continuous, refresh=refresh if continuous else None,
+                         subtitles=subtitles if continuous else None)
+    print(json.dumps(counts), flush=True)
     return int(counts["failed"] > 0)
 
 

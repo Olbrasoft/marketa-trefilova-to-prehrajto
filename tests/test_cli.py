@@ -44,7 +44,8 @@ def test_upload_rejects_workers_outside_limit(monkeypatch, workers, via_env, mod
 
 def test_marketa_operations_share_concurrency():
     content = (Path(__file__).parents[1] / ".github/workflows/sync.yml").read_text()
-    assert "group: marketa-target-and-state" in content
+    assert "'marketa-target-and-state'" in content
+    assert "'marketa-source-preparation'" in content
     assert "cancel-in-progress: false" in content
 
 

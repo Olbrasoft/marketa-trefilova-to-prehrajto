@@ -56,19 +56,31 @@ Zdroj metadata API: [Wikibase API](https://www.mediawiki.org/wiki/Wikibase/API).
 
 ## GitHub Actions
 
-Workflow `marketa-sync` běží každou hodinu, pokud je repository variable
-`AUTOMATION_ENABLED=true`. Ruční spuštění nabízí:
+Automatika má dva nezávislé procesy, zapnuté proměnnou `AUTOMATION_ENABLED=true`:
+
+- `continuous-upload`: hodinový start, jeden běh průběžně nahrává až 330 minut.
+  Po každé dílčí dávce ihned vybírá další filmy a načítá nové zdroje z Gitu.
+  Prázdnou frontu znovu kontroluje po 30 sekundách. Hodinové starty zajistí
+  navázání dalšího běhu po skončení runneru, nikoli přestávku mezi dávkami.
+- `prepare-sources`: samostatný hodinový běh doplňuje názvy, české zdroje
+  a vyhledává anglické varianty. Jeho kontrola zdrojů nezdržuje uploader.
+
+Workflow `marketa-sync` poskytuje společný runtime a ruční operace:
 
 - `plan`: vypíše příští názvy a zdroje, nic nenahrává.
 - `prepare`: vyhledá anglické zdroje, ověří identitu, délku, skutečné rozlišení,
   jazyk originálního zvuku pomocí Whisperu a české titulkové stopy.
 - `upload`: postupně nahraje připravené varianty v pořadí backlogu.
+- `continuous`: opakuje nahrávání dílčích dávek po dobu až 330 minut.
 - `subtitles`: doplní existující české textové titulky z přesného původního zdroje.
-- `cycle`: příprava, upload a následná kontrola titulků.
 
-Všechny operace mají společnou concurrency skupinu. Současně probíhá nejvýše
-jeden upload. Výchozí dávka jsou dvě varianty; ručně lze nastavit `limit`.
-Každý běh obnoví české zdroje a doplní až 100 anglických názvů.
+Uploady a titulkové operace mají společnou concurrency skupinu; současně
+probíhá nejvýše jeden upload. Příprava má vlastní skupinu a zapisuje oddělené
+stavové soubory. Plánovací kontrola je nezávislá a nic neposílá na cílový účet.
+Výchozí dílčí dávka jsou dvě varianty; v průběžném režimu jde o velikost jedné
+iterace, nikoli o omezení celého běhu. Uploader mezi dávkami také doplňuje
+titulky dokončených anglických videí. Přípravný běh obnoví české zdroje a doplní
+až 100 anglických názvů.
 
 GitHub Secrets: `SDILEJ_EMAIL`, `SDILEJ_PASSWORD`, `PREHRAJTO_EMAIL`,
 `PREHRAJTO_PASSWORD`; `TMDB_API_KEY` pro doplnění chybějících původních názvů.

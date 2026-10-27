@@ -95,7 +95,8 @@ def import_sources(root: Path, upstream: Path) -> dict:
         if row.get("match_tier") not in {"solid", "strong"}:
             continue
         existing = store.get(film_id)
-        if existing or target_state.get(str(film_id)):
+        transfer = target_state.get(str(film_id), {})
+        if existing or any(transfer.get(key) for key in ("upload", "prepared", "previous_target_id", "claim")):
             continue
         candidate = source_candidate(row)
         clean = candidate.to_dict()

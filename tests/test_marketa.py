@@ -6,7 +6,7 @@ from types import SimpleNamespace
 import pytest
 
 from marketa_sync.catalog import EnglishTitles, VariantSourceStore, combined_title, import_sources, named_films
-from marketa_sync.cli import make_pipeline, ordered_plans, followup_report
+from marketa_sync.cli import make_pipeline, ordered_plans, followup_report, drain_queue, checkpoint_paths
 from marketa_sync.discovery import choose_english, display_name, POLICY, EnglishProvider
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.prehrajto import _uploaded_video_id_from_html, login, PrehrajtoError
@@ -254,3 +254,65 @@ def test_missing_original_is_filled_only_from_matching_database_identity(tmp_pat
     if accepted:
         assert titles.rows["1"]["original_source"] == "https://www.themoviedb.org/movie/12"
         assert titles.original({**film, "original_title": "Exported Original"}) == "Exported Original"
+
+
+class FakeClock:
+    def __init__(self):
+        self.seconds = 0
+        self.waits = []
+
+    def __call__(self):
+        return self.seconds
+
+    def sleep(self, seconds):
+        self.waits.append(seconds)
+        self.seconds += seconds
+
+
+@pytest.mark.parametrize("continuous,expected", [(False, [1]), (True, [1, 2, 3])])
+def test_continuous_upload_drains_more_than_one_batch(tmp_path, monkeypatch, continuous, expected):
+    pipeline, first = seed_source(tmp_path, "cz", 1, candidate(language="cs"))
+    films = [replace(first, cr_film_id=i, priority_rank=i) for i in [1, 2, 3]]
+    pipeline.name_builder = lambda film, _: f"Film {film.cr_film_id} CZ Dabing"
+    for film in films[1:]:
+        pipeline._record_verified_source(film, candidate(str(100 + film.cr_film_id), language="cs"), "Film")
+    executed = []
+    clock = FakeClock()
+    def execute(plan):
+        film_id = plan[0]["film"]["cr_film_id"]
+        executed.append(film_id)
+        pipeline.state.record_success(film_id, {"target_video_id": str(700 + film_id)})
+        clock.seconds += 1
+    monkeypatch.setattr(pipeline, "execute", execute)
+    counts = drain_queue(tmp_path, {"cz": pipeline}, films, limit=1, runtime_minutes=1,
+                         continuous=continuous, clock=clock, sleep=clock.sleep)
+    assert executed == expected
+    assert counts["uploaded"] == len(expected)
+    assert counts["failed"] == 0
+
+
+def test_continuous_upload_waits_for_newly_prepared_sources(tmp_path, monkeypatch):
+    pipeline = make_pipeline(tmp_path, "cz", {1: "The Film"})
+    film = Film(1, "film", "Film", "The Film", 2000, 120, "en", priority_rank=1)
+    clock = FakeClock()
+    refreshed = []
+    def refresh():
+        refreshed.append(clock.seconds)
+        if clock.seconds >= 30 and not pipeline.selected_sources.candidate(1):
+            pipeline._record_verified_source(film, candidate(language="cs"), "The Film CZ Dabing")
+        return [film]
+    monkeypatch.setattr(pipeline, "execute", lambda _: pipeline.state.record_success(1, {"target_video_id": "777"}))
+    counts = drain_queue(tmp_path, {"cz": pipeline}, [film], limit=1, runtime_minutes=1,
+                         continuous=True, refresh=refresh, clock=clock, sleep=clock.sleep)
+    assert counts["uploaded"] == 1
+    assert refreshed[:2] == [0, 30]
+    assert clock.seconds == 60
+
+
+def test_producer_and_uploader_checkpoint_files_do_not_overlap(tmp_path):
+    producer = set(checkpoint_paths(tmp_path, "prepare"))
+    uploader = set(checkpoint_paths(tmp_path, "continuous"))
+    assert producer.isdisjoint(uploader)
+    assert tmp_path / "state/english-titles.json" in producer
+    assert tmp_path / "variants/cz/state/sync.json" in uploader
+    assert tmp_path / "variants/en/plans/subtitle-followup.jsonl" in uploader

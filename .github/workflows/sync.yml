@@ -1,21 +1,27 @@
 name: marketa-sync
 on:
-  schedule:
-    - cron: "17 * * * *"
+  workflow_call:
+    inputs:
+      mode:
+        type: string
+        required: true
+      limit:
+        type: number
+        default: 2
   workflow_dispatch:
     inputs:
       mode:
         description: "Operation"
         type: choice
         default: plan
-        options: [plan, prepare, upload, subtitles, cycle]
+        options: [plan, prepare, upload, continuous, subtitles]
       limit:
         description: "Maximum items per operation"
         type: number
         default: 2
 
 concurrency:
-  group: marketa-target-and-state
+  group: ${{ inputs.mode == 'prepare' && 'marketa-source-preparation' || inputs.mode == 'plan' && 'marketa-read-only-plans' || 'marketa-target-and-state' }}
   cancel-in-progress: false
 
 permissions:
@@ -27,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     env:
-      MODE: ${{ inputs.mode || 'cycle' }}
+      MODE: ${{ inputs.mode }}
       BATCH_LIMIT: ${{ inputs.limit || '2' }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
@@ -46,6 +52,7 @@ jobs:
           python-version: "3.12"
           cache: pip
       - uses: actions/checkout@v4
+        if: inputs.mode == 'prepare'
         with:
           repository: Olbrasoft/sdilej-to-prehrajto
           path: .upstream-runtime
@@ -57,12 +64,12 @@ jobs:
       - name: Install runtime
         run: |
           pip install .
-          if [[ "$MODE" == prepare || "$MODE" == cycle || "$MODE" == subtitles ]]; then
+          if [[ "$MODE" == prepare || "$MODE" == continuous || "$MODE" == subtitles ]]; then
             sudo python3 scripts/configure_ubuntu_mirrors.py
             sudo apt-get -o Acquire::Retries=2 -o Acquire::http::Timeout=30 -o Acquire::https::Timeout=30 update
             sudo apt-get -o Acquire::Retries=2 install -y --no-install-recommends ffmpeg
           fi
-          if [[ "$MODE" == prepare || "$MODE" == cycle ]]; then
+          if [[ "$MODE" == prepare ]]; then
             pip install '.[whisper]'
             python scripts/check_whisper_runtime.py
           fi
@@ -71,21 +78,26 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
       - name: Resolve English titles
+        if: env.MODE == 'prepare'
         continue-on-error: true
         run: marketa-sync titles --limit 100 --persist-git-state
       - name: Import newly verified Czech sources
+        if: env.MODE == 'prepare'
         run: marketa-sync import --upstream .upstream-runtime --persist-git-state
       - name: Show next uploads
         if: env.MODE == 'plan'
         run: marketa-sync plan --limit "$BATCH_LIMIT"
       - name: Prepare English sources
-        if: env.MODE == 'prepare' || env.MODE == 'cycle'
+        if: env.MODE == 'prepare'
         run: marketa-sync prepare --limit "$BATCH_LIMIT" --runtime-minutes 40 --persist-git-state
       - name: Transfer variants with one worker
-        if: env.MODE == 'upload' || env.MODE == 'cycle'
+        if: env.MODE == 'upload'
         run: marketa-sync upload --limit "$BATCH_LIMIT" --runtime-minutes 240 --persist-git-state
+      - name: Continuously drain prepared films and follow up subtitles
+        if: env.MODE == 'continuous'
+        run: marketa-sync continuous --limit "$BATCH_LIMIT" --runtime-minutes 330 --persist-git-state
       - name: Attach subtitles after processing
-        if: env.MODE == 'subtitles' || env.MODE == 'cycle'
+        if: env.MODE == 'subtitles'
         run: marketa-sync subtitles --limit 20 --runtime-minutes 35 --persist-git-state
       - name: Preserve diagnostics
         if: always()
