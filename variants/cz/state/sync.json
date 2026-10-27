@@ -266,7 +266,15 @@
       }
     },
     "18": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21646047",
+          "reason": "Request failed for https://sdilej.cz/21646047/1966-hodny-zly-a-osklivy-1080p-h264-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-27T20:50:12.933289+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21646047",
         "display_name": "The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo) CZ Dabing",
@@ -1719,5 +1727,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T20:49:25.673170+00:00"
+  "updated_at": "2026-10-27T20:50:12.933308+00:00"
 }
