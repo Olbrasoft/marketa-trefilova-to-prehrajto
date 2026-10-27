@@ -227,7 +227,15 @@
       }
     },
     "19": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32836678",
+          "reason": "Request failed for https://sdilej.cz/32836678/pulp-fiction-1994-2160p-hdr-cz-dabing-dts-hd-en-dts-hd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-27T20:35:52.581563+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32836678",
         "display_name": "Pulp Fiction CZ Dabing",
@@ -1696,5 +1704,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T20:35:04.551795+00:00"
+  "updated_at": "2026-10-27T20:35:52.581584+00:00"
 }
