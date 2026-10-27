@@ -14,4 +14,3 @@ jobs:
           cache: pip
       - run: pip install '.[test]'
       - run: pytest
-
