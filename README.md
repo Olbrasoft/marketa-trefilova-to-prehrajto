@@ -15,6 +15,13 @@ Na jeden film nejvýše dvě varianty, každá s vlastním stavem a cílovým ID
 | Ověřený anglický zvuk a doložené české titulky | The Shawshank Redemption CZ Titulky |
 | Anglický zvuk, české titulky nenalezeny | The Shawshank Redemption |
 
+Pokud se anglický a původní název liší, uvedou se oba, v pořadí
+`Anglický název (Původní název)`. Jazykový dodatek je až na konci, například
+`The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo) CZ Dabing`.
+Shodné názvy, včetně rozdílů pouze ve velikosti písmen, se neopakují.
+Každý název se při hledání zdrojů ověřuje samostatně; sloučený název slouží
+pro pojmenování cílového videa.
+
 Anglická varianta s českými titulky má přednost i před vyšším rozlišením bez
 titulků. Bez titulků se vybírá pouze po dokončení kontroly nalezených kandidátů.
 Uvnitř této preference se vybírá nejvyšší ověřené rozlišení a následně nejmenší
@@ -36,6 +43,12 @@ Není to žebříček počtu přehrání. Pořadí se nemění.
 
 Anglické názvy se ověřují podle IMDb ID (případně TMDB ID) proti anglickým
 štítkům Wikidat. Původní název se automaticky nepovažuje za anglický.
+Původní název se přebírá z `original_title` v exportu původního repozitáře
+(databázový sloupec `films.original_title`). Pokud chybí, doplní se z pole
+`original_title` v [detailu filmu TMDB](https://developer.themoviedb.org/reference/movie-details)
+podle uloženého TMDB ID, s kontrolou IMDb ID, pokud je dostupné. Všechny názvy
+jsou převzaté databázové údaje; žádné názvy se nepřekládají ani negenerují.
+Nedohledaný původní název se do závorky nedoplňuje odhadem.
 Chybějící nebo nejednoznačné názvy čekají na doplnění v
 `config/english-titles.json`, například `{"5": {"title": "The Shawshank Redemption"}}`.
 U známých filmů se stejným anglickým názvem se přidává rok pro rozlišení remaků.
@@ -58,7 +71,8 @@ jeden upload. Výchozí dávka jsou dvě varianty; ručně lze nastavit `limit`.
 Každý běh obnoví české zdroje a doplní až 100 anglických názvů.
 
 GitHub Secrets: `SDILEJ_EMAIL`, `SDILEJ_PASSWORD`, `PREHRAJTO_EMAIL`,
-`PREHRAJTO_PASSWORD`. Cílový klient odmítne jiné přihlašovací jméno než
+`PREHRAJTO_PASSWORD`; `TMDB_API_KEY` pro doplnění chybějících původních názvů.
+Cílový klient odmítne jiné přihlašovací jméno než
 `marketa-trefilova@seznam.cz`.
 
 Před odesláním dat se uloží přidělené cílové ID do Gitu. Přerušení ani čekání na

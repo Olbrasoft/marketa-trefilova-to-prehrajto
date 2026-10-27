@@ -53,6 +53,8 @@ class Response:
     ('Film (2000) 4K CZ Dabing', 'Film (2000) 4K CZ Dabing.avi', 'Film'),
     ('„Pane, vy jste vdova!“ (1971) 1080p CZ Dabing', '„Pane, vy jste vdova (1971) 1080p CZ Dabing.avi', 'vy jste vdova'),
     ('A.I. Umělá inteligence (2001) 4K CZ Dabing', 'A.I Umělá inteligence (2001) 4K CZ Dabing.mkv', 'Umělá inteligence'),
+    ('English Film (A Much Longer Original Film Title) CZ Dabing', 'English Film (A Much Longer Original Film Title) CZ Dabing.mkv', 'English Film'),
+    ('Spirited Away (千と千尋の神隠し) CZ Titulky', 'Spirited Away () CZ Titulky.mkv', 'Spirited Away'),
 ])
 def test_lookup_recognizes_target_sanitized_names(wanted, visible, query):
     class Session:

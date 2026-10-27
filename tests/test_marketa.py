@@ -5,7 +5,7 @@ from types import SimpleNamespace
 
 import pytest
 
-from marketa_sync.catalog import EnglishTitles, VariantSourceStore, import_sources, named_films
+from marketa_sync.catalog import EnglishTitles, VariantSourceStore, combined_title, import_sources, named_films
 from marketa_sync.cli import make_pipeline, ordered_plans, followup_report
 from marketa_sync.discovery import choose_english, display_name, POLICY, EnglishProvider
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
@@ -199,3 +199,58 @@ def test_processing_reconciliation_is_not_starved_by_fresh_films(tmp_path):
     pipeline.state.record_prepared(10,"777",100)
     plans=ordered_plans({"cz":pipeline},[first,later],2)
     assert [row["film"]["cr_film_id"] for _,row in plans]==[10,1]
+
+
+@pytest.mark.parametrize("english,original,expected", [
+    ("The Shawshank Redemption", "The Shawshank Redemption", "The Shawshank Redemption"),
+    ("Goodfellas", "GoodFellas", "Goodfellas"),
+    ("The Film", "  the   film  ", "The Film"),
+    ("Seven", "Se7en", "Seven (Se7en)"),
+    ("Spirited Away", "千と千尋の神隠し", "Spirited Away (千と千尋の神隠し)"),
+    ("The Film", None, "The Film"),
+])
+def test_combined_names_preserve_both_database_values_without_duplicates(english, original, expected):
+    assert combined_title(english, original) == expected
+
+
+def test_all_variants_use_both_titles_before_language_suffix():
+    title = combined_title("The Good, the Bad and the Ugly", "Il buono, il brutto, il cattivo")
+    assert display_name(title, "cz", candidate(language="cs")) == title + " CZ Dabing"
+    assert display_name(title, "en", candidate(subtitles=True)) == title + " CZ Titulky"
+    assert display_name(title, "en", candidate()) == title
+
+
+def test_display_names_do_not_replace_individual_search_names(tmp_path, monkeypatch):
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config/english-titles.json").write_text(json.dumps({"1": {"title": "English Film"}}))
+    titles = EnglishTitles(tmp_path)
+    rows = [{"cr_film_id": 1, "title": "Cesky Film", "original_title": "Original Film", "year": 2000, "runtime_min": 120}]
+    films, names = named_films(rows, titles)
+    assert names[1] == "English Film (Original Film)"
+    assert films[0].original_title == "Original Film"
+    queries = []
+    provider = EnglishProvider(None, None, english_titles={1: titles.get(rows[0])})
+    monkeypatch.setattr(provider, "search_by_quality", lambda query: queries.append(query) or [])
+    assert provider.discover(films[0]) == []
+    assert {"English Film", "Original Film", "Cesky Film"}.issubset(queries)
+    assert not any("English Film (Original Film)" in query for query in queries)
+    for title in ("English Film 2000", "Original Film 2000", "Cesky Film 2000"):
+        assert provider._match(films[0], title, 7200).tier in {MatchTier.STRONG, MatchTier.SOLID}
+    assert provider._match(films[0], "Original Film 2001", 7200).tier == MatchTier.REJECT
+
+
+@pytest.mark.parametrize("response_id,response_imdb,accepted", [(12,"tt0000012",True),(13,"tt0000012",False),(12,"tt0000013",False)])
+def test_missing_original_is_filled_only_from_matching_database_identity(tmp_path, monkeypatch, response_id, response_imdb, accepted):
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config/english-titles.json").write_text(json.dumps({"1": {"title": "English Film"}}))
+    monkeypatch.setenv("TMDB_API_KEY", "test-secret")
+    data = {"id": response_id, "imdb_id": response_imdb, "original_title": "Original Film"}
+    session = SimpleNamespace(headers={}, get=lambda *_args, **_kwargs: SimpleNamespace(raise_for_status=lambda: None, json=lambda: data))
+    titles = EnglishTitles(tmp_path, session=session)
+    film = {"cr_film_id": 1, "tmdb_id": 12, "imdb_id": "tt0000012"}
+    assert titles.fill_originals([film], 10) == int(accepted)
+    assert titles.original(film) == ("Original Film" if accepted else None)
+    assert "test-secret" not in titles.path.read_text()
+    if accepted:
+        assert titles.rows["1"]["original_source"] == "https://www.themoviedb.org/movie/12"
+        assert titles.original({**film, "original_title": "Exported Original"}) == "Exported Original"

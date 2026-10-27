@@ -72,7 +72,9 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
     session = source_session()
     detector = WhisperLanguageDetector()
     detector.audio_stream = "0:a:0"
-    provider = EnglishProvider(session, detector, english_titles=names,
+    title_catalog = EnglishTitles(root)
+    search_titles = {film.cr_film_id: title_catalog.get(film.to_dict()) for film in films}
+    provider = EnglishProvider(session, detector, english_titles=search_titles,
                                cache_path=root / "variants/en/state/candidate-scans.json",
                                discovery_timeout_seconds=900, max_candidates=None)
     pipeline = make_pipeline(root, "en", names, source=session, provider=provider)

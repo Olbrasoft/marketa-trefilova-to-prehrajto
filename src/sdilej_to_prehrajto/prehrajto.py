@@ -301,6 +301,9 @@ def _uploaded_video_id_from_html(
 def uploaded_video_id_by_name(session: requests.Session, display_name: str, *, include_processing: bool = True) -> str | None:
     """Search punctuation-tolerantly, then compare complete normalized names."""
     title = re.split(r"\s*\(\d{4}\)", display_name, maxsplit=1)[0]
+    # The alternate database title is appended in parentheses. Search using
+    # the leading name; the target may strip non-Latin alternate characters.
+    title = title.split(" (", 1)[0]
     fragments = re.findall(r"[\w\s]+", title)
     query = max((part.strip() for part in fragments), key=len, default="")
     if not query:

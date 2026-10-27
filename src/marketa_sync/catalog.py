@@ -5,8 +5,10 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 import gzip
 import json
+import os
 from pathlib import Path
 import re
+import unicodedata
 from urllib.parse import urlsplit
 
 import requests
@@ -123,6 +125,48 @@ class EnglishTitles:
         cached = self.rows.get(str(film["cr_film_id"]), {})
         return cached.get("title")
 
+    def original(self, film: dict) -> str | None:
+        # Prefer the existing database export; only fill gaps from another
+        # database record with the same movie identity.
+        for title in (film.get("original_title"), self.rows.get(str(film["cr_film_id"]), {}).get("original_title")):
+            if isinstance(title, str) and title.strip():
+                return title.strip()
+        return None
+
+    def fill_originals(self, films: list[dict], limit: int) -> int:
+        api_key = os.environ.get("TMDB_API_KEY")
+        if not api_key:
+            return 0
+        now = datetime.now(timezone.utc)
+        pending = [film for film in films if self.get(film) and not self.original(film)
+                   and str(film.get("tmdb_id") or "").isdigit()
+                   and self.rows.get(str(film["cr_film_id"]), {}).get("original_retry_after", "") <= now.isoformat()][:limit]
+        resolved = 0
+        for film in pending:
+            tmdb_id = int(film["tmdb_id"])
+            cached = self.rows.setdefault(str(film["cr_film_id"]), {})
+            try:
+                response = self.session.get(f"https://api.themoviedb.org/3/movie/{tmdb_id}",
+                                            params={"api_key": api_key, "language": "en-US"}, timeout=30)
+                response.raise_for_status()
+                data = response.json()
+                if data.get("id") != tmdb_id or (film.get("imdb_id") and data.get("imdb_id")
+                                                and film["imdb_id"] != data["imdb_id"]):
+                    raise ValueError("Movie identity mismatch")
+                title = data.get("original_title")
+                if not isinstance(title, str) or not title.strip():
+                    raise ValueError("Original title missing")
+                cached.update(original_title=title.strip(),
+                              original_source=f"https://www.themoviedb.org/movie/{tmdb_id}")
+                cached.pop("original_retry_after", None)
+                resolved += 1
+            except (requests.RequestException, ValueError):
+                # Request exception strings may include the API key.
+                cached["original_retry_after"] = (now + timedelta(hours=6)).isoformat()
+        if pending:
+            self.save()
+        return resolved
+
     def resolve(self, films: list[dict], limit=100) -> int:
         now = datetime.now(timezone.utc)
         pending = [film for film in films if not self.get(film)
@@ -162,10 +206,22 @@ class EnglishTitles:
                     self.rows[key] = {"status": "missing_or_ambiguous",
                                       "retry_after": (now + timedelta(days=7)).isoformat()}
             self.save()
+        self.fill_originals(films, limit)
         return sum(bool(self.get(film)) for film in pending)
 
     def save(self):
         atomic_write(self.path, json.dumps(self.rows, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
+
+
+def combined_title(english_title: str, original_title: str | None) -> str:
+    """Combine database names verbatim; never translate or synthesize a title."""
+    english_title = english_title.strip()
+    original_title = (original_title or "").strip()
+    def identity(value: str) -> str:
+        return " ".join(unicodedata.normalize("NFKC", value).casefold().split())
+    if not original_title or identity(english_title) == identity(original_title):
+        return english_title
+    return f"{english_title} ({original_title})"
 
 
 def named_films(rows: list[dict], titles: EnglishTitles) -> tuple[list[Film], dict[int, str]]:
@@ -176,9 +232,11 @@ def named_films(rows: list[dict], titles: EnglishTitles) -> tuple[list[Film], di
     for row, title in known:
         if not title:
             continue
-        film = Film.from_dict(row)
-        # Preserve the requested short name; distinguish known remakes by year.
-        name = f"{title} ({film.year})" if counts[title.casefold()] > 1 and film.year else title
+        film = Film.from_dict({**row, "original_title": titles.original(row)})
+        # Keep both recorded names searchable; disambiguate remakes separately.
+        name = combined_title(title, film.original_title)
+        if counts[title.casefold()] > 1 and film.year:
+            name = f"{name} ({film.year})"
         if counts[title.casefold()] > 1 and (not film.year or year_counts[title.casefold(), film.year] > 1):
             name = f"{name} [ID {film.cr_film_id}]"
         names[film.cr_film_id] = name

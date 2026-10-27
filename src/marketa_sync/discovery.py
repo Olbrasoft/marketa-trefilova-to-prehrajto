@@ -10,10 +10,10 @@ import time
 from bs4 import BeautifulSoup
 
 from sdilej_to_prehrajto.language import LanguageDetectionError
-from sdilej_to_prehrajto.matching import classify_candidate
+from sdilej_to_prehrajto.matching import classify_candidate, normalize_title
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.ranking import quality_acceptable, resolution_rank
-from sdilej_to_prehrajto.sdilej import SdilejProvider, SdilejError, parse_detail_html
+from sdilej_to_prehrajto.sdilej import SdilejProvider, SdilejError, parse_detail_html, slugify
 from sdilej_to_prehrajto.subtitle_media import choose_stream, run_media, SubtitleUnavailable, is_czech
 from sdilej_to_prehrajto.subtitle_backfill import atomic_write
 
@@ -52,6 +52,17 @@ class EnglishProvider(SdilejProvider):
         self.cache_path = cache_path
         self.cache = json.loads(cache_path.read_text()) if cache_path and cache_path.exists() else {}
 
+    def _match(self, film: Film, title: str, duration_sec: int | None):
+        aliases = dict.fromkeys(alias for alias in (
+            self.english_titles[film.cr_film_id], film.original_title, film.title,
+        ) if alias and normalize_title(alias))
+        if not aliases:
+            raise SdilejError("No searchable database title")
+        matches = [classify_candidate(replace(film, title=alias, original_title=None),
+                                      title, duration_sec=duration_sec) for alias in aliases]
+        tiers = {MatchTier.REJECT: 0, MatchTier.AMBIGUOUS: 1, MatchTier.SOLID: 2, MatchTier.STRONG: 3}
+        return max(matches, key=lambda match: (tiers[match.tier], match.score))
+
     def verify_english(self, film: Film, candidate: Candidate) -> Candidate | None:
         html = self._get(candidate.url).text
         detail = parse_detail_html(html, candidate)
@@ -70,7 +81,7 @@ class EnglishProvider(SdilejProvider):
         detail.width, detail.height = int(video["width"]), int(video["height"])
         detail.video_codec = {"hevc": "h265", "avc": "h264"}.get(video.get("codec_name"), video.get("codec_name"))
         detail.duration_sec = int(float(payload.get("format", {}).get("duration") or detail.duration_sec or 0))
-        match = classify_candidate(film, detail.title, duration_sec=detail.duration_sec)
+        match = self._match(film, detail.title, detail.duration_sec)
         detail.match_tier, detail.match_evidence = match.tier, match.evidence
         if match.tier not in {MatchTier.STRONG, MatchTier.SOLID} or not quality_acceptable(detail):
             return None
@@ -109,17 +120,20 @@ class EnglishProvider(SdilejProvider):
 
     def discover(self, film: Film) -> list[Candidate]:
         deadline = time.monotonic() + self.discovery_timeout_seconds
-        film = replace(film, original_title=self.english_titles[film.cr_film_id])
+        english_title = self.english_titles[film.cr_film_id]
         candidates = {}
         queries = []
-        for title in dict.fromkeys([film.original_title, film.title]):
+        for title in dict.fromkeys([english_title, film.original_title, film.title]):
+            if not title or not slugify(title):
+                continue
             queries.extend([f"{title} {film.year}" if film.year else title, title])
-        queries.extend(f"{film.original_title} {suffix}" for suffix in ("en", "eng", "cz titulky", "cz tit"))
+        if slugify(english_title):
+            queries.extend(f"{english_title} {suffix}" for suffix in ("en", "eng", "cz titulky", "cz tit"))
         for query in dict.fromkeys(queries):
             if time.monotonic() >= deadline:
                 raise SdilejError("English search incomplete; fallback deferred")
             for candidate in self.search_by_quality(query):
-                match = classify_candidate(film, candidate.title, duration_sec=candidate.duration_sec)
+                match = self._match(film, candidate.title, candidate.duration_sec)
                 if match.tier in {MatchTier.STRONG, MatchTier.SOLID}:
                     candidates[candidate.source_id] = candidate
         resolved = []

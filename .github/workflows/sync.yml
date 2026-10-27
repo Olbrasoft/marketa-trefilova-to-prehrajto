@@ -33,6 +33,7 @@ jobs:
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
       PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+      TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       HF_HOME: /tmp/huggingface
       WHISPER_CPU_THREADS: "2"
       WHISPER_NUM_WORKERS: "1"
