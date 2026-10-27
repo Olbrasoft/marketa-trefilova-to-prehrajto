@@ -1,6 +1,7 @@
 import json
 from dataclasses import replace
 from pathlib import Path
+from types import SimpleNamespace
 
 import pytest
 
@@ -170,3 +171,31 @@ def test_resume_processing_upload_preserves_subtitle_provenance(tmp_path, monkey
     queue=json.loads((tmp_path/"variants/en/plans/subtitle-followup.jsonl").read_text())
     assert queue["source_binding_verified"] is True
     assert source_map(tmp_path/"variants/en")["777"]["source_id"]=="123"
+
+
+@pytest.mark.parametrize("codec", ["subrip", "hdmv_pgs_subtitle"])
+def test_original_czech_tracks_are_preferred_even_when_manual_conversion_is_needed(monkeypatch, codec):
+    film=Film(1,"film","The Film","The Film",2000,120,"en")
+    detector=SimpleNamespace(detect_consensus=lambda *_args,**_kwargs: ("en",0.99))
+    payload={"format":{"duration":"7200"},"streams":[
+        {"codec_type":"video","width":1920,"height":1080,"codec_name":"h264"},
+        {"codec_type":"audio","tags":{"language":"eng"}},
+        {"codec_type":"subtitle","index":2,"codec_name":codec,"tags":{"language":"ces"}},
+    ]}
+    provider=EnglishProvider(None,detector,english_titles={1:"The Film"},probe=lambda _: payload)
+    monkeypatch.setattr(provider,"_get",lambda _: SimpleNamespace(text="<html></html>"))
+    monkeypatch.setattr("marketa_sync.discovery.parse_detail_html",lambda *_: candidate())
+    result=provider.verify_english(film,candidate())
+    assert result.match_evidence["marketa"]["czech_subtitles"] is True
+    assert result.match_evidence["marketa"]["subtitle_codec"]==codec
+
+
+def test_processing_reconciliation_is_not_starved_by_fresh_films(tmp_path):
+    pipeline,first=seed_source(tmp_path,"cz",1,candidate(language="cs"))
+    later=replace(first,cr_film_id=10,priority_rank=10)
+    pipeline._record_verified_source(later,candidate("456",language="cs"),"Later CZ Dabing")
+    pipeline.name_builder=lambda film,_: f"Film {film.cr_film_id} CZ Dabing"
+    pipeline.state.record_plan(10,{"selected":{"source_id":"456"},"display_name":"Later CZ Dabing"})
+    pipeline.state.record_prepared(10,"777",100)
+    plans=ordered_plans({"cz":pipeline},[first,later],2)
+    assert [row["film"]["cr_film_id"] for _,row in plans]==[10,1]

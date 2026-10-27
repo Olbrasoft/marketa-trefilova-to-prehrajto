@@ -80,8 +80,10 @@ k ručnímu doplnění. Titulky se automaticky nepřekládají a nepřebírají 
 filmu. Nejasný výsledek odeslání titulků se pouze ověřuje, odeslání se neopakuje.
 Název bez dodatku se po ručním doplnění titulků zatím automaticky nepřejmenovává.
 
-Natvrdo vložené a obrazové titulky nemají automatické ověření ani převod.
-Zdroj označený českými titulky bez dohledatelné textové stopy se odloží k ověření.
+Obrazové české stopy mají při výběru také přednost, jejich převod a doplnění
+však vyžadují ruční práci a zůstávají v titulkovém přehledu. Natvrdo vložené
+titulky nemají automatické ověření. Zdroj označený českými titulky bez
+dohledatelné stopy se odloží k ověření.
 Pouhá zmínka EN v názvu vícezvukového souboru nestačí: první i výchozí zvuková
 stopa nesmějí být označené jiným jazykem a původní první stopu ověřuje Whisper.
 

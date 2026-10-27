@@ -85,12 +85,18 @@ class EnglishProvider(SdilejProvider):
         detail.language_tier = LanguageTier.FOREIGN_AUDIO
         detail.language_evidence = "whisper_original_multisample"
         subtitles = [s for s in payload["streams"] if s.get("codec_type") == "subtitle"]
+        full_czech = [s for s in subtitles if is_czech(s.get("tags", {}).get("language", ""))
+                      and not s.get("disposition", {}).get("forced")
+                      and not re.search(r"forced|vynucen|commentary|komentář", s.get("tags", {}).get("title", ""), re.I)]
         try:
             stream = choose_stream(subtitles)
             evidence = {"czech_subtitles": True, "subtitle_stream_index": stream["index"],
                         "subtitle_codec": stream["codec_name"]}
         except SubtitleUnavailable:
-            evidence = {"czech_subtitles": False}
+            evidence = {"czech_subtitles": bool(full_czech), "subtitle_attachable": False}
+            if full_czech:
+                evidence.update(subtitle_stream_index=full_czech[0]["index"],
+                                subtitle_codec=full_czech[0].get("codec_name"))
         page_tracks = BeautifulSoup(html, "html.parser").select("video track[src]")
         if any(is_czech(t.get("srclang", "")) and t.get("kind", "subtitles") in {"subtitles", "captions"}
                and not re.search(r"forced|vynucen|commentary", t.get("label", ""), re.I)

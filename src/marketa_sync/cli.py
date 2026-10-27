@@ -53,9 +53,18 @@ def make_pipeline(root, variant, names, source=None, target=None, provider=None,
 def ordered_plans(pipelines, films, limit):
     plans = []
     for variant, pipeline in pipelines.items():
-        for row in pipeline.build_plan(films, limit, verified_only=True):
+        pending = [film for film in films if pipeline.state.pending_prepared(film.cr_film_id)]
+        pending_ids = {film.cr_film_id for film in pending}
+        fresh = [film for film in films if film.cr_film_id not in pending_ids]
+        # Reserve one due reconciliation per lane so subtitle work does not
+        # wait behind thousands of films that have never been transferred.
+        rows = pipeline.build_plan(pending, 1, verified_only=True)
+        rows += pipeline.build_plan(fresh, limit, verified_only=True)
+        for row in rows:
             plans.append((variant, row))
-    plans.sort(key=lambda item: (item[1]["film"].get("priority_rank") or 10**9, item[0] != "cz"))
+    plans.sort(key=lambda item: (
+        not pipelines[item[0]].state.pending_prepared(item[1]["film"]["cr_film_id"]),
+        item[1]["film"].get("priority_rank") or 10**9, item[0] != "cz"))
     return plans[:limit]
 
 
