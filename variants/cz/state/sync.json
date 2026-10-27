@@ -204,17 +204,19 @@
       }
     },
     "21": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34851835",
+          "target_video_id": "30571832",
+          "permanent": false,
+          "attempted_at": "2026-10-27T20:35:04.551777+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34851835",
         "display_name": "Fight Club CZ Dabing",
         "planned_at": "2026-10-27T17:12:34.607071+00:00"
-      },
-      "claim": {
-        "worker_id": "ea7fb33fa1524cc0a197771a63748c19-shard-0",
-        "claimed_at": "2026-10-27T20:26:42.095902+00:00",
-        "lease_expires_at": "2026-10-28T02:26:42.095902+00:00",
-        "run_id": "40548290377"
       },
       "previous_target_id": "30571832",
       "prepared": {
@@ -1694,5 +1696,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T20:26:46.019831+00:00"
+  "updated_at": "2026-10-27T20:35:04.551795+00:00"
 }
