@@ -308,17 +308,19 @@
       }
     },
     "26": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33673365",
+          "target_video_id": "30572289",
+          "permanent": false,
+          "attempted_at": "2026-10-27T22:46:31.527895+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33673365",
         "display_name": "The Matrix CZ Dabing",
         "planned_at": "2026-10-27T17:12:34.618192+00:00"
-      },
-      "claim": {
-        "worker_id": "e45a92b94e744b06a41558c5be187347-shard-0",
-        "claimed_at": "2026-10-27T21:02:39.884099+00:00",
-        "lease_expires_at": "2026-10-28T03:02:39.884099+00:00",
-        "run_id": "40548290377"
       },
       "previous_target_id": "30572289",
       "prepared": {
@@ -1755,5 +1757,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T21:02:43.879764+00:00"
+  "updated_at": "2026-10-27T22:46:31.527912+00:00"
 }
