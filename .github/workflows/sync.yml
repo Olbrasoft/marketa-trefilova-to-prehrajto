@@ -95,7 +95,9 @@ jobs:
         run: marketa-sync upload --limit "$BATCH_LIMIT" --runtime-minutes 240 --persist-git-state
       - name: Continuously drain prepared films and follow up subtitles
         if: env.MODE == 'continuous'
-        run: marketa-sync continuous --limit "$BATCH_LIMIT" --runtime-minutes 330 --persist-git-state
+        # Stop starting transfers before the runner deadline so a large file
+        # can finish before the queued successor takes over.
+        run: marketa-sync continuous --limit "$BATCH_LIMIT" --runtime-minutes 240 --persist-git-state
       - name: Attach subtitles after processing
         if: env.MODE == 'subtitles'
         run: marketa-sync subtitles --limit 20 --runtime-minutes 35 --persist-git-state

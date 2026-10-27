@@ -58,7 +58,8 @@ Zdroj metadata API: [Wikibase API](https://www.mediawiki.org/wiki/Wikibase/API).
 
 Automatika má dva nezávislé procesy, zapnuté proměnnou `AUTOMATION_ENABLED=true`:
 
-- `continuous-upload`: hodinový start, jeden běh průběžně nahrává až 330 minut.
+- `continuous-upload`: hodinový start, jeden běh zahajuje nové přenosy po dobu
+  240 minut. Rozběhnutému přenosu ponechává rezervu před limitem runneru.
   Po každé dílčí dávce ihned vybírá další filmy a načítá nové zdroje z Gitu.
   Prázdnou frontu znovu kontroluje po 30 sekundách. Hodinové starty zajistí
   navázání dalšího běhu po skončení runneru, nikoli přestávku mezi dávkami.
@@ -71,7 +72,8 @@ Workflow `marketa-sync` poskytuje společný runtime a ruční operace:
 - `prepare`: vyhledá anglické zdroje, ověří identitu, délku, skutečné rozlišení,
   jazyk originálního zvuku pomocí Whisperu a české titulkové stopy.
 - `upload`: postupně nahraje připravené varianty v pořadí backlogu.
-- `continuous`: opakuje nahrávání dílčích dávek po dobu až 330 minut.
+- `continuous`: opakuje nahrávání dílčích dávek po zadanou dobu (v automatice
+  240 minut), rozběhnutý přenos nechá doběhnout.
 - `subtitles`: doplní existující české textové titulky z přesného původního zdroje.
 
 Uploady a titulkové operace mají společnou concurrency skupinu; současně
