@@ -158,17 +158,19 @@
       }
     },
     "17": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20853921",
+          "target_video_id": "30570629",
+          "permanent": false,
+          "attempted_at": "2026-10-27T19:35:17.738406+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20853921",
         "display_name": "The Lord of the Rings: The Fellowship of the Ring CZ Dabing",
         "planned_at": "2026-10-27T17:12:34.602572+00:00"
-      },
-      "claim": {
-        "worker_id": "6742a15efaaa4182825aa4ffd2a28117-shard-0",
-        "claimed_at": "2026-10-27T19:13:00.235286+00:00",
-        "lease_expires_at": "2026-10-28T01:13:00.235286+00:00",
-        "run_id": "40548290377"
       },
       "previous_target_id": "30570629",
       "prepared": {
@@ -1664,5 +1666,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T19:13:04.338399+00:00"
+  "updated_at": "2026-10-27T19:35:17.738421+00:00"
 }
