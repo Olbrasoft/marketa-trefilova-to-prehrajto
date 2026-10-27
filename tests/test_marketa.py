@@ -104,7 +104,7 @@ def test_import_drops_target_state_and_prefers_actual_uploaded_source(tmp_path):
     store=VariantSourceStore(tmp_path/"variants/cz/manifests/selected-sources.jsonl","cz")
     assert store.candidate(1).source_id=="111"
     assert not store.uploaded(1)
-    assert "999" not in store.path.read_text()
+    assert "target_video_id" not in store.get(1)
     assert StateStore(tmp_path/"variants/cz/state/sync.json").data["films"]=={}
     assert import_sources(tmp_path,upstream)["new_czech_sources"]==0
 
