@@ -368,7 +368,15 @@
       }
     },
     "25": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32963573",
+          "reason": "Request failed for https://sdilej.cz/32963573/mafiani-1990-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-27T23:03:23.972618+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32963573",
         "display_name": "Goodfellas CZ Dabing",
@@ -3571,5 +3579,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T23:02:37.420083+00:00"
+  "updated_at": "2026-10-27T23:03:23.972639+00:00"
 }
