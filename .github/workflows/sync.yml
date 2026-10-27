@@ -1,0 +1,92 @@
+name: marketa-sync
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Operation"
+        type: choice
+        default: plan
+        options: [plan, prepare, upload, subtitles, cycle]
+      limit:
+        description: "Maximum items per operation"
+        type: number
+        default: 2
+
+concurrency:
+  group: marketa-target-and-state
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.event_name == 'workflow_dispatch' || vars.AUTOMATION_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      MODE: ${{ inputs.mode || 'cycle' }}
+      BATCH_LIMIT: ${{ inputs.limit || '2' }}
+      SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
+      SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
+      PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
+      PREHRAJTO_PASSWORD: ${{ secrets.PREHRAJTO_PASSWORD }}
+      HF_HOME: /tmp/huggingface
+      WHISPER_CPU_THREADS: "2"
+      WHISPER_NUM_WORKERS: "1"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/checkout@v4
+        with:
+          repository: Olbrasoft/sdilej-to-prehrajto
+          path: .upstream-runtime
+          persist-credentials: false
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HF_HOME }}
+          key: whisper-small-${{ runner.os }}-v1
+      - name: Install runtime
+        run: |
+          sudo python3 scripts/configure_ubuntu_mirrors.py
+          sudo apt-get -o Acquire::Retries=2 update
+          sudo apt-get install -y --no-install-recommends ffmpeg
+          pip install '.[whisper]'
+      - name: Configure durable checkpoints
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Resolve English titles
+        continue-on-error: true
+        run: marketa-sync titles --limit 100 --persist-git-state
+      - name: Import newly verified Czech sources
+        run: marketa-sync import --upstream .upstream-runtime --persist-git-state
+      - name: Show next uploads
+        if: env.MODE == 'plan'
+        run: marketa-sync plan --limit "$BATCH_LIMIT"
+      - name: Prepare English sources
+        if: env.MODE == 'prepare' || env.MODE == 'cycle'
+        run: marketa-sync prepare --limit "$BATCH_LIMIT" --runtime-minutes 40 --persist-git-state
+      - name: Transfer variants with one worker
+        if: env.MODE == 'upload' || env.MODE == 'cycle'
+        run: marketa-sync upload --limit "$BATCH_LIMIT" --runtime-minutes 240 --persist-git-state
+      - name: Attach subtitles after processing
+        if: env.MODE == 'subtitles' || env.MODE == 'cycle'
+        run: marketa-sync subtitles --limit 20 --runtime-minutes 35 --persist-git-state
+      - name: Preserve diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: marketa-state-${{ github.run_id }}
+          path: |
+            variants/*/state/
+            variants/*/plans/
+            reports/
+          if-no-files-found: ignore

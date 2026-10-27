@@ -1,0 +1,201 @@
+"""Durable, single-uploader orchestration with independent language variants."""
+from __future__ import annotations
+
+import argparse
+from datetime import datetime, timedelta, timezone
+import json
+import os
+from pathlib import Path
+import time
+
+from sdilej_to_prehrajto.git_state import GitStatePersister
+from sdilej_to_prehrajto.language import WhisperLanguageDetector
+from sdilej_to_prehrajto.pipeline import SyncPipeline, write_plan
+from sdilej_to_prehrajto.prehrajto import login as target_login
+from sdilej_to_prehrajto.sdilej import login as source_login, SdilejProvider, PremiumRequiredError
+from sdilej_to_prehrajto.state import StateStore
+from sdilej_to_prehrajto.subtitle_backfill import Backfill, atomic_write
+from sdilej_to_prehrajto.subtitle_target import SubtitleTarget
+from sdilej_to_prehrajto.subtitles import SubtitleQueue
+
+from .catalog import EnglishTitles, VariantSourceStore, import_sources, named_films, read_rows
+from .discovery import EnglishProvider, display_name
+
+
+def required_env(name):
+    value = os.environ.get(name)
+    if not value:
+        raise ValueError(f"{name} is required")
+    return value
+
+
+def source_session():
+    return source_login(required_env("SDILEJ_EMAIL"), required_env("SDILEJ_PASSWORD"))
+
+
+def target_session():
+    return target_login(required_env("PREHRAJTO_EMAIL"), required_env("PREHRAJTO_PASSWORD"))
+
+
+def make_pipeline(root, variant, names, source=None, target=None, provider=None, persist=None):
+    lane = root / "variants" / variant
+    return SyncPipeline(
+        source_provider=provider or SdilejProvider(source, None),
+        source_session=source, target_session=target,
+        state=StateStore(lane / "state/sync.json", on_persist=persist),
+        selected_sources=VariantSourceStore(lane / "manifests/selected-sources.jsonl", variant),
+        subtitle_queue=SubtitleQueue(lane / "plans/subtitle-followup.jsonl"),
+        name_builder=lambda film, candidate: display_name(names[film.cr_film_id], variant, candidate),
+    )
+
+
+def ordered_plans(pipelines, films, limit):
+    plans = []
+    for variant, pipeline in pipelines.items():
+        for row in pipeline.build_plan(films, limit, verified_only=True):
+            plans.append((variant, row))
+    plans.sort(key=lambda item: (item[1]["film"].get("priority_rank") or 10**9, item[0] != "cz"))
+    return plans[:limit]
+
+
+def prepare(root, films, names, limit, persist, runtime_minutes):
+    session = source_session()
+    detector = WhisperLanguageDetector()
+    detector.audio_stream = "0:a:0"
+    provider = EnglishProvider(session, detector, english_titles=names,
+                               cache_path=root / "variants/en/state/candidate-scans.json",
+                               discovery_timeout_seconds=900, max_candidates=None)
+    pipeline = make_pipeline(root, "en", names, source=session, provider=provider)
+    scan_path = root / "variants/en/state/discovery.json"
+    scanned = json.loads(scan_path.read_text()) if scan_path.exists() else {}
+    attempted = 0
+    deadline = time.monotonic() + runtime_minutes * 60
+    for film in films:
+        if attempted >= limit or time.monotonic() >= deadline:
+            break
+        key = str(film.cr_film_id)
+        if pipeline.selected_sources.candidate(film.cr_film_id) or pipeline.state.uploaded(film.cr_film_id):
+            continue
+        now = datetime.now(timezone.utc)
+        if scanned.get(key, {}).get("retry_after", "") > now.isoformat():
+            continue
+        attempted += 1
+        try:
+            selected = provider.discover(film)
+            if selected:
+                candidate = selected[0]
+                pipeline._record_verified_source(film, candidate, display_name(names[film.cr_film_id], "en", candidate))
+                status, days = "verified", 0
+            else:
+                status, days = "no_verified_english_source", 7
+        except PremiumRequiredError:
+            raise
+        except Exception as error:
+            # Do not serialize request URLs, media commands, or response bodies.
+            status, days = type(error).__name__, 1 / 24
+        scanned[key] = {"status": status, "checked_at": now.isoformat(),
+                        "retry_after": (now + timedelta(days=days)).isoformat()}
+        pipeline.selected_sources.compact()
+        atomic_write(scan_path, json.dumps(scanned, indent=2, sort_keys=True) + "\n")
+        if persist:
+            persist(scan_path, "flush")
+        print(f"english_film={key} status={status}", flush=True)
+
+
+def followup_report(root: Path):
+    lane = root / "variants/en"
+    sources = VariantSourceStore(lane / "manifests/selected-sources.jsonl", "en")
+    state = StateStore(lane / "state/sync.json")
+    lines = ["# Czech subtitle follow-up", "", "Attach subtitles only after target processing has finished.", "",
+             "| Film | Target ID | Source | Action |", "| --- | --- | --- | --- |"]
+    for film_id, entry in state.data.get("films", {}).items():
+        upload = entry.get("upload") or {}
+        pending = entry.get("prepared") or {}
+        if not upload and not pending:
+            continue
+        plan = entry.get("last_plan") or {}
+        source = sources.get(int(film_id)) or {}
+        title = upload.get("display_name") or plan.get("display_name") or film_id
+        subtitle_evidence = source.get("match_evidence", {}).get("marketa", {})
+        action = "Extract Czech track from exact source after processing" if subtitle_evidence.get("czech_subtitles") else "Find and add matching Czech subtitles after processing"
+        video_id = upload.get("target_video_id") or pending.get("target_video_id")
+        lines.append(f"| {title.replace('|', '/')} | {video_id} | {source.get('source_url', '')} | {action} |")
+    atomic_write(root / "reports/subtitle-followup.md", "\n".join(lines) + "\n")
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("mode", choices=["import", "titles", "plan", "prepare", "upload", "subtitles"])
+    parser.add_argument("--root", type=Path, default=Path.cwd())
+    parser.add_argument("--upstream", type=Path)
+    parser.add_argument("--limit", type=int, default=2)
+    parser.add_argument("--runtime-minutes", type=int, default=45)
+    parser.add_argument("--persist-git-state", action="store_true")
+    args = parser.parse_args()
+    if not 1 <= args.limit <= 200 or not 1 <= args.runtime_minutes <= 330:
+        parser.error("limit must be 1..200; runtime-minutes must be 1..330")
+    root = args.root.resolve()
+    extra = [root / "variants/cz/manifests/selected-sources.jsonl",
+             root / "variants/en/manifests/selected-sources.jsonl",
+             root / "variants/en/plans/subtitle-followup.jsonl", root / "state/english-titles.json",
+             root / "reports/subtitle-followup.md", root / "reports/subtitle-backfill.md",
+             root / "variants/en/state/subtitle-backfill.json"]
+    extra.append(root / "variants/en/state/candidate-scans.json")
+    persist = GitStatePersister(root, tuple(extra)) if args.persist_git_state else None
+    if args.mode == "import":
+        if args.upstream is None:
+            parser.error("import requires --upstream")
+        print(json.dumps(import_sources(root, args.upstream)))
+        if persist:
+            persist(extra[0], "flush")
+        return 0
+    rows = read_rows(root / "backlog/films.jsonl.gz")
+    titles = EnglishTitles(root)
+    if args.mode == "titles":
+        print(f"resolved_titles={titles.resolve(rows, args.limit)}")
+        if persist:
+            persist(titles.path, "flush")
+        return 0
+    films, names = named_films(rows, titles)
+    if args.mode == "prepare":
+        prepare(root, films, names, args.limit, persist, args.runtime_minutes)
+        return 0
+    if args.mode == "subtitles":
+        lane = root / "variants/en"
+        backfill = Backfill(SubtitleTarget(target_session()), source_session(), lane,
+                            lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
+                            persist=persist)
+        backfill.run(max_pages=2, max_sources=args.limit, limit=args.limit,
+                     runtime_minutes=args.runtime_minutes)
+        return 0
+    source, target = (source_session(), target_session()) if args.mode == "upload" else (None, None)
+    pipelines = {variant: make_pipeline(root, variant, names, source, target, persist=persist)
+                 for variant in ("cz", "en")}
+    for pipeline in pipelines.values():
+        pipeline.state.release_claims_from_other_run(os.environ.get("GITHUB_RUN_ID"))
+    plans = ordered_plans(pipelines, films, args.limit)
+    if args.mode == "plan":
+        for variant, row in plans:
+            print(json.dumps({"variant": variant, "title": row["display_name"],
+                              "source": row["selected"]["url"],
+                              "width": row["selected"]["width"], "height": row["selected"]["height"]}, ensure_ascii=False))
+        return 0
+    deadline = time.monotonic() + args.runtime_minutes * 60
+    for variant, row in plans:
+        if time.monotonic() >= deadline:
+            break
+        pipeline = pipelines[variant]
+        pipeline.execute([row])
+        followup_report(root)
+        if persist:
+            persist(pipeline.state.path, "flush")
+    print(f"planned={len(plans)}", flush=True)
+    return 0
+
+
+if __name__ == "__main__":
+    try:
+        raise SystemExit(main())
+    except Exception as error:
+        print(f"failed={type(error).__name__}", flush=True)
+        raise SystemExit(1) from None

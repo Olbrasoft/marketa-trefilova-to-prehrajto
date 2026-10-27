@@ -1,0 +1,356 @@
+from __future__ import annotations
+
+import json
+import os
+import tempfile
+import threading
+from copy import deepcopy
+from datetime import UTC, datetime, timedelta
+from pathlib import Path
+from typing import Any, Callable
+
+
+def now_iso() -> str:
+    return datetime.now(UTC).isoformat()
+
+
+class StateStore:
+    def __init__(
+        self,
+        path: Path,
+        *,
+        on_persist: Callable[[Path, str], None] | None = None,
+    ):
+        self.path = path
+        self.on_persist = on_persist
+        self._lock = threading.RLock()
+        self.data = self._load()
+
+    def _load(self) -> dict[str, Any]:
+        if not self.path.exists():
+            return {"schema_version": 1, "films": {}}
+        data = json.loads(self.path.read_text(encoding="utf-8"))
+        if data.get("schema_version") != 1:
+            raise ValueError("Unsupported state schema version")
+        data.setdefault("films", {})
+        return data
+
+    def save(self, event: str) -> None:
+        with self._lock:
+            self.data["updated_at"] = now_iso()
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            fd, temporary_name = tempfile.mkstemp(
+                prefix=self.path.name, dir=self.path.parent
+            )
+            try:
+                with os.fdopen(fd, "w", encoding="utf-8") as handle:
+                    json.dump(self.data, handle, ensure_ascii=False, indent=2)
+                    handle.write("\n")
+                    handle.flush()
+                    os.fsync(handle.fileno())
+                os.replace(temporary_name, self.path)
+            finally:
+                if os.path.exists(temporary_name):
+                    os.unlink(temporary_name)
+            if self.on_persist:
+                self.on_persist(self.path, event)
+
+    def film(self, film_id: int) -> dict[str, Any]:
+        return self.data["films"].setdefault(str(film_id), {"attempts": []})
+
+    def tracked_films(self) -> int:
+        with self._lock:
+            return len(self.data["films"])
+
+    def uploaded(self, film_id: int) -> bool:
+        with self._lock:
+            return bool(self.film(film_id).get("upload", {}).get("target_video_id"))
+
+    def pending_prepared(self, film_id: int) -> bool:
+        with self._lock:
+            row = self.film(film_id)
+            return bool(row.get("prepared") and not row.get("upload"))
+
+    def actively_claimed(
+        self,
+        film_id: int,
+        *,
+        at: datetime | None = None,
+    ) -> bool:
+        """Return whether another upload attempt still owns a live lease."""
+        with self._lock:
+            claim = self.film(film_id).get("claim")
+            if not claim or not claim.get("lease_expires_at"):
+                return False
+            expires_at = datetime.fromisoformat(claim["lease_expires_at"])
+            return expires_at > (at or datetime.now(UTC))
+
+    def snapshot(self, film_id: int) -> dict[str, Any]:
+        with self._lock:
+            return deepcopy(self.film(film_id))
+
+    def claim_upload(
+        self,
+        film_id: int,
+        worker_id: str,
+        *,
+        lease: timedelta = timedelta(hours=6),
+        at: datetime | None = None,
+    ) -> bool:
+        with self._lock:
+            now = at or datetime.now(UTC)
+            row = self.film(film_id)
+            if row.get("upload", {}).get("target_video_id"):
+                return False
+            existing = row.get("claim")
+            if existing:
+                expires_at = datetime.fromisoformat(existing["lease_expires_at"])
+                if expires_at > now:
+                    return False
+            row["claim"] = {
+                "worker_id": worker_id,
+                "claimed_at": now.isoformat(),
+                "lease_expires_at": (now + lease).isoformat(),
+            }
+            if run_id := os.environ.get("GITHUB_RUN_ID"):
+                row["claim"]["run_id"] = run_id
+            self.save("claim")
+            return True
+
+    def release_claims_from_other_run(self, current_run_id: str | None) -> int:
+        """Release leases left by a completed Actions runner.
+
+        The upload workflow has a repository-wide concurrency lock, so once a
+        new run starts no previous uploader can still own a live transfer.
+        Claims without a run ID predate this ownership marker and are orphaned
+        as well.
+        """
+        if not current_run_id:
+            return 0
+        with self._lock:
+            released = 0
+            for row in self.data["films"].values():
+                claim = row.get("claim")
+                if claim and claim.get("run_id") != current_run_id:
+                    row.pop("claim", None)
+                    released += 1
+            if released:
+                self.save("orphan_claims")
+            return released
+
+    def deferred(
+        self,
+        film_id: int,
+        *,
+        source_id: str | None = None,
+        selection_policy: str | None = None,
+        at: datetime | None = None,
+    ) -> bool:
+        with self._lock:
+            attempts = self.film(film_id).get("attempts", [])
+            if not attempts:
+                return False
+            latest = attempts[-1]
+            if latest.get("status") == "target_requires_review":
+                return True
+            if source_id is not None and latest.get("source_id") != source_id:
+                return False
+            if (
+                selection_policy is not None
+                and latest.get("selection_policy") != selection_policy
+            ):
+                return False
+            if latest.get("status") in {
+                "source_deep_scan_needed",
+                "source_deep_scan_failed",
+            }:
+                return True
+            if latest.get("permanent"):
+                return True
+            timestamp = latest.get("attempted_at")
+            if not timestamp:
+                return False
+            attempted_at = datetime.fromisoformat(timestamp)
+            status = latest.get("status")
+            if status == "target_lookup_failed":
+                cooldown = timedelta(minutes=5)
+            elif status == "no_acceptable_source":
+                # Older discovery code used the same status for a genuinely
+                # empty search and for interrupted candidate verification.
+                # Retry those ambiguous legacy records once; new records carry
+                # an explicit proof that discovery completed.
+                if not latest.get("discovery_complete"):
+                    return False
+                # Sdilej.cz is a live catalog. A complete empty result is
+                # trustworthy for the current scan, but treating it as final
+                # for a month leaves the uploader starved when a source is
+                # added later the same day.
+                cooldown = timedelta(hours=6)
+            elif status in {
+                "source_discovery_failed",
+                "source_refresh_failed",
+                "stale_prepared_released",
+                "target_processing",
+                "upload_failed",
+            }:
+                # Discovery and transfer failures are usually temporary remote
+                # faults. Retry them promptly; reconciliation and leases keep
+                # repeated transfer attempts safe.
+                cooldown = timedelta(minutes=30)
+            else:
+                cooldown = timedelta(hours=6)
+            return (at or datetime.now(UTC)) < attempted_at + cooldown
+
+    def deep_scan_ready(
+        self,
+        film_id: int,
+        *,
+        selection_policy: str,
+        at: datetime | None = None,
+    ) -> bool:
+        """Return whether a film is waiting for the dedicated deep lane."""
+        with self._lock:
+            row = self.data["films"].get(str(film_id), {})
+            attempts = row.get("attempts", [])
+            if not attempts:
+                return False
+            latest = attempts[-1]
+            if latest.get("selection_policy") != selection_policy:
+                return False
+            status = latest.get("status")
+            if status == "source_deep_scan_needed":
+                return True
+            if (
+                status == "no_acceptable_source"
+                and not latest.get("search_response_validated")
+                and any(
+                    attempt.get("selection_policy") == selection_policy
+                    and attempt.get("status", "").startswith("source_deep_scan_")
+                    for attempt in attempts[:-1]
+                )
+            ):
+                # Older deep workers incorrectly turned failed verification
+                # or unrecognized search pages into conclusive empty results.
+                return True
+            if status != "source_deep_scan_failed":
+                return False
+            timestamp = latest.get("attempted_at")
+            if not timestamp:
+                return True
+            attempted_at = datetime.fromisoformat(timestamp)
+            return (at or datetime.now(UTC)) >= attempted_at + timedelta(minutes=30)
+
+    def record_plan(self, film_id: int, plan: dict) -> None:
+        with self._lock:
+            self.film(film_id)["last_plan"] = {
+                "source_id": plan["selected"]["source_id"],
+                "display_name": plan["display_name"],
+                "planned_at": now_iso(),
+            }
+            self.save("plan")
+
+    def persist_external(self, event: str) -> None:
+        with self._lock:
+            if self.on_persist:
+                self.on_persist(self.path, event)
+
+    def record_prepared(self, film_id: int, video_id: str, size: int) -> None:
+        with self._lock:
+            self.film(film_id)["previous_target_id"] = video_id
+            self.film(film_id)["prepared"] = {
+                "target_video_id": video_id,
+                "size_bytes": size,
+                "prepared_at": now_iso(),
+                "relay_source_id": self.film(film_id).get("last_plan", {}).get("source_id"),
+            }
+            self.save("prepared")
+
+    def record_attempt(self, film_id: int, attempt: dict) -> None:
+        with self._lock:
+            row = self.film(film_id)
+            if attempt.get("status") == "target_lookup_failed":
+                # Lookup can fail before or after a transfer. Release the lease,
+                # but never discard the
+                # prepared target or durable previous-ID duplicate guard.
+                row.pop("claim", None)
+            # Migrate the historical ID before bounded attempt history drops it.
+            previous_id = attempt.get("target_video_id") or next((
+                item.get("target_video_id") for item in reversed(row.get("attempts", []))
+                if item.get("target_video_id")
+            ), None)
+            if previous_id:
+                row["previous_target_id"] = previous_id
+            self.film(film_id).setdefault("attempts", []).append(
+                {**attempt, "attempted_at": now_iso()}
+            )
+            self.film(film_id)["attempts"] = self.film(film_id)["attempts"][-3:]
+            event = (
+                "deep_scan"
+                if attempt.get("status", "").startswith("source_deep_scan_")
+                else "attempt"
+            )
+            self.save(event)
+
+    def record_upload_failure(self, film_id: int, attempt: dict) -> None:
+        with self._lock:
+            row = self.film(film_id)
+            previous_id = attempt.get("target_video_id") or row.get("prepared", {}).get("target_video_id")
+            if previous_id:
+                row["previous_target_id"] = previous_id
+            row.setdefault("attempts", []).append(
+                {**attempt, "attempted_at": now_iso()}
+            )
+            row["attempts"] = row["attempts"][-3:]
+            row.pop("prepared", None)
+            row.pop("claim", None)
+            self.save("failure")
+
+    def record_target_processing(
+        self,
+        film_id: int,
+        *,
+        video_id: str,
+        size: int,
+        source_id: str,
+    ) -> None:
+        """Keep an accepted upload pending until target processing finishes."""
+        with self._lock:
+            row = self.film(film_id)
+            prepared_at = row.get("prepared", {}).get("prepared_at") or now_iso()
+            last_attempt = (row.get("attempts") or [{}])[-1]
+            repeated = (
+                row.get("prepared", {}).get("target_video_id") == video_id
+                and last_attempt.get("status") == "target_processing"
+                and last_attempt.get("target_video_id") == video_id
+            )
+            row["previous_target_id"] = video_id
+            row["prepared"] = {
+                **row.get("prepared", {}),
+                "target_video_id": video_id,
+                "size_bytes": size,
+                "prepared_at": prepared_at,
+            }
+            row.setdefault("attempts", []).append(
+                {
+                    "status": "target_processing",
+                    "source_id": source_id,
+                    "target_video_id": video_id,
+                    "permanent": False,
+                    "attempted_at": now_iso(),
+                }
+            )
+            row["attempts"] = row["attempts"][-3:]
+            row.pop("claim", None)
+            self.save("processing_refresh" if repeated else "processing")
+
+    def record_success(self, film_id: int, upload: dict) -> None:
+        with self._lock:
+            row = self.film(film_id)
+            row["upload"] = {
+                **upload,
+                "uploaded_at": now_iso(),
+            }
+            row.pop("last_plan", None)
+            row.pop("prepared", None)
+            row.pop("claim", None)
+            self.save("success")

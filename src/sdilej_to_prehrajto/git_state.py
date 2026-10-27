@@ -1,0 +1,234 @@
+from __future__ import annotations
+
+import subprocess
+import re
+import random
+import time
+import threading
+from pathlib import Path
+
+
+class GitStateError(RuntimeError):
+    pass
+
+
+class GitPushContentionError(GitStateError):
+    """A committed checkpoint repeatedly lost a race to another writer."""
+
+
+class GitStatePersister:
+    """Commit durable transfer checkpoints from an Actions runner."""
+
+    MAX_TRACKED_FILE_BYTES = 90 * 1024 * 1024
+    PUSH_ATTEMPTS = 12
+    INITIAL_SOURCE_CHECKPOINTS = 4
+    INITIAL_DEEP_CHECKPOINTS = 1
+    DEFERABLE_EVENTS = {"source", "attempt", "deep_scan", "processing_refresh"}
+    # Publish one upload-shard-sized source batch at a time. Keeping 25 sources
+    # only inside a producer runner starves the six upload workers for too long.
+    # Negative discovery results are cheap and common during a full backlog
+    # rescan. Persist them in larger batches so six preparation workers do not
+    # create a bot commit every few seconds. Verified sources and uploads still
+    # use small batches because those checkpoints feed the live upload queue.
+    # Transfer checkpoints are written immediately: losing a prepared target
+    # ID can duplicate a multi-gigabyte upload after a runner restart.
+    CHECKPOINT_INTERVALS = {
+        "source": 4,
+        "attempt": 250,
+        "deep_scan": 10,
+        "prepared": 1,
+        "processing": 1,
+        # Rechecking an already durable processing ID changes no transfer
+        # ownership. Batch these refreshes to avoid starving the producer's
+        # concurrent pushes; first acceptance and prepared IDs stay immediate.
+        "processing_refresh": 25,
+        "failure": 1,
+        "success": 1,
+    }
+
+    def __init__(self, repo_root: Path, extra_paths: tuple[Path, ...] = ()):
+        self.repo_root = repo_root.resolve()
+        self.extra_paths = extra_paths
+        self._lock = threading.RLock()
+        self._pending: dict[str, int] = {}
+        self._source_checkpoints = 0
+        self._deep_checkpoints = 0
+
+    def _run(self, *args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
+        result = subprocess.run(
+            ["git", *args],
+            cwd=self.repo_root,
+            text=True,
+            capture_output=True,
+            check=False,
+        )
+        if check and result.returncode:
+            raise GitStateError(f"git {args[0]} failed")
+        return result
+
+    def __call__(self, state_path: Path, event: str) -> None:
+        with self._lock:
+            if event == "flush":
+                self._persist(state_path, event)
+                self._pending.clear()
+                return
+            interval = self.CHECKPOINT_INTERVALS.get(event)
+            if interval is None:
+                return
+            if (
+                event == "source"
+                and self._source_checkpoints < self.INITIAL_SOURCE_CHECKPOINTS
+            ):
+                if not self._publish_checkpoint(state_path, event):
+                    return
+                self._source_checkpoints += 1
+                self._pending.clear()
+                return
+            if (
+                event == "deep_scan"
+                and self._deep_checkpoints < self.INITIAL_DEEP_CHECKPOINTS
+            ):
+                # Publish one diagnostic result immediately after startup;
+                # subsequent deep results remain batched to protect history.
+                if not self._publish_checkpoint(state_path, event):
+                    return
+                self._deep_checkpoints += 1
+                self._pending.clear()
+                return
+            self._pending[event] = self._pending.get(event, 0) + 1
+            if self._pending[event] < interval:
+                return
+            if not self._publish_checkpoint(state_path, event):
+                return
+            self._pending.clear()
+
+    def _publish_checkpoint(self, state_path: Path, event: str) -> bool:
+        try:
+            self._persist(state_path, event)
+        except GitPushContentionError:
+            if event not in self.DEFERABLE_EVENTS:
+                raise
+            # The commit stays in this runner and the next checkpoint retries
+            # publishing it. Never relax the prepared-ID durability boundary or
+            # the final flush, and never hide auth, disk, or rebase failures.
+            print(f"checkpoint_publish_deferred={event} reason=concurrent_updates", flush=True)
+            return False
+        return True
+
+    def read_remote_file(self, relative_path: str) -> str:
+        """Read a fresh origin/main file while serializing local git operations."""
+        if relative_path.startswith("/") or ".." in Path(relative_path).parts:
+            raise GitStateError("Remote path must stay inside the repository")
+        with self._lock:
+            fetched = self._run("fetch", "origin", "main", check=False)
+            if fetched.returncode != 0:
+                raise GitStateError(
+                    "git fetch failed while refreshing queue: "
+                    + self._failure_detail(fetched)
+                )
+            shown = self._run("show", f"FETCH_HEAD:{relative_path}", check=False)
+            if shown.returncode != 0:
+                raise GitStateError(
+                    "git show failed while refreshing queue: "
+                    + self._failure_detail(shown)
+                )
+            return shown.stdout
+
+    def _persist(self, state_path: Path, event: str) -> None:
+        paths = [state_path, *self.extra_paths]
+        relative_paths: list[str] = []
+        for path in paths:
+            try:
+                relative_paths.append(str(path.resolve().relative_to(self.repo_root)))
+            except ValueError as error:
+                raise GitStateError("State path is outside the repository") from error
+        existing = [path for path in relative_paths if (self.repo_root / path).exists()]
+        if not existing:
+            return
+        oversized = [
+            path
+            for path in existing
+            if (self.repo_root / path).is_file()
+            and (self.repo_root / path).stat().st_size > self.MAX_TRACKED_FILE_BYTES
+        ]
+        if oversized:
+            raise GitStateError(
+                f"Refusing to persist files above 90 MiB: {', '.join(oversized)}"
+            )
+        self._run("add", "--", *existing)
+        if self._run("diff", "--cached", "--quiet", check=False).returncode != 0:
+            self._run("commit", "-m", f"chore(sync): persist {event} checkpoint")
+        # A previous push may have failed after committing. An unchanged
+        # worktree does not mean the durable checkpoint reached the remote.
+        last_error = "concurrent update"
+        contention_only = True
+        for attempt in range(self.PUSH_ATTEMPTS):
+            pushed = self._run("push", "origin", "HEAD:main", check=False)
+            if pushed.returncode == 0:
+                return
+            last_error = self._failure_detail(pushed)
+            contention_only = contention_only and bool(re.search(
+                r"\[rejected\].*\((?:fetch first|non-fast-forward)\)"
+                r"|\[remote rejected\].*\(cannot lock ref 'refs/heads/main': "
+                r"is at [0-9a-f]{40,64} but expected [0-9a-f]{40,64}\)",
+                (pushed.stderr or pushed.stdout),
+            ))
+            if attempt + 1 < self.PUSH_ATTEMPTS:
+                # Competing workers must not repeatedly retry in lockstep.
+                # Wait before fetching so the rebase uses a fresh remote tip.
+                time.sleep(min(2 ** attempt, 30) + random.uniform(0, 2))
+                rebased, detail = self._rebase_checkpoint(relative_paths)
+                if not rebased:
+                    contention_only = False
+                    last_error = "push: " + last_error + "; rebase: " + detail
+        error_type = GitPushContentionError if contention_only else GitStateError
+        raise error_type(
+            "git push failed after concurrent update retries: " + last_error
+        )
+
+    def _rebase_checkpoint(self, checkpoint_paths: list[str]) -> tuple[bool, str]:
+        # A killed retry must not poison a later checkpoint in the same runner.
+        self._run("rebase", "--abort", check=False)
+        fetched = self._run("fetch", "origin", "main", check=False)
+        if fetched.returncode != 0:
+            return False, self._failure_detail(fetched)
+
+        rebased = self._run("rebase", "--autostash", "origin/main", check=False)
+        if rebased.returncode == 0:
+            return True, ""
+
+        # More than one unpublished checkpoint can conflict during replay.
+        # Resolve each owned checkpoint, not just the first commit.
+        detail = self._failure_detail(rebased)
+        for _ in range(100):
+            conflicts_result = self._run(
+                "diff", "--name-only", "--diff-filter=U", check=False
+            )
+            conflicts = [
+                path.strip() for path in conflicts_result.stdout.splitlines() if path.strip()
+            ]
+            if not conflicts or not set(conflicts).issubset(checkpoint_paths):
+                break
+            # During a rebase, "theirs" is the checkpoint commit being replayed.
+            restored = self._run("checkout", "--theirs", "--", *conflicts, check=False)
+            if restored.returncode == 0:
+                self._run("add", "--", *conflicts)
+                continued = self._run(
+                    "-c", "core.editor=true", "rebase", "--continue", check=False
+                )
+                if continued.returncode == 0:
+                    return True, ""
+                detail = self._failure_detail(continued)
+            else:
+                detail = self._failure_detail(restored)
+                break
+
+        self._run("rebase", "--abort", check=False)
+        return False, detail
+
+    @staticmethod
+    def _failure_detail(result: subprocess.CompletedProcess[str]) -> str:
+        detail = (result.stderr or result.stdout).strip().splitlines()
+        # The final line often only says "failed to push some refs", hiding
+        # the actual remote rejection. Never include authenticated URLs.
+        return re.sub(r"https?://\S+", "[remote]", " | ".join(detail[-8:])) if detail else "unknown git error"

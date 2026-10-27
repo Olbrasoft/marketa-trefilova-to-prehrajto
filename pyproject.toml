@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "marketa-trefilova-to-prehrajto"
+version = "0.1.0"
+description = "English-titled Czech and English film variants for the Marketa account"
+requires-python = ">=3.12"
+dependencies = [
+  "beautifulsoup4>=4.12",
+  "psycopg2-binary>=2.9",
+  "requests>=2.32",
+  "requests-toolbelt>=1.0",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+# PyAV 19 removed metadata_errors, which faster-whisper 1.2.1 still passes
+# while decoding every WAV. Keep the verified pair until upgraded together.
+whisper = ["faster-whisper==1.2.1", "av==18.1.0"]
+
+[project.scripts]
+marketa-sync = "marketa_sync.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]

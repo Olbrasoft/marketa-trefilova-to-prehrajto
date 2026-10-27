@@ -1,0 +1,322 @@
+import subprocess
+import pytest
+from sdilej_to_prehrajto.state import StateStore
+
+from sdilej_to_prehrajto.git_state import GitStatePersister
+from sdilej_to_prehrajto.git_state import GitStateError, GitPushContentionError
+
+
+@pytest.mark.parametrize("event", ["source", "attempt", "deep_scan", "processing_refresh"])
+def test_contention_defers_noncritical_checkpoint_then_retries(tmp_path, monkeypatch, event):
+    persister = GitStatePersister(tmp_path)
+    persister.CHECKPOINT_INTERVALS = {event: 1}
+    calls = []
+    def persist(_path, _event):
+        calls.append(_event)
+        if len(calls) == 1:
+            raise GitPushContentionError("concurrent update")
+    monkeypatch.setattr(persister, "_persist", persist)
+    persister(tmp_path / "state.json", event)
+    persister(tmp_path / "state.json", event)
+    assert calls == [event, event]
+    assert persister._pending == {}
+
+
+@pytest.mark.parametrize("event", ["prepared", "processing", "failure", "success", "flush"])
+def test_contention_never_relaxes_transfer_durability(tmp_path, monkeypatch, event):
+    persister = GitStatePersister(tmp_path)
+    def fail(*_args):
+        raise GitPushContentionError("concurrent update")
+    monkeypatch.setattr(persister, "_persist", fail)
+    with pytest.raises(GitPushContentionError):
+        persister(tmp_path / "state.json", event)
+
+
+def test_non_contention_source_failure_still_stops_worker(tmp_path, monkeypatch):
+    persister = GitStatePersister(tmp_path)
+    def fail(*_args):
+        raise GitStateError("authentication failed")
+    monkeypatch.setattr(persister, "_persist", fail)
+    with pytest.raises(GitStateError):
+        persister(tmp_path / "state.json", "source")
+
+
+@pytest.mark.parametrize("rebase_ok", [False, True])
+@pytest.mark.parametrize("rejection,is_contention", [
+    ("[rejected] HEAD -> main (fetch first)", True),
+    ("[remote rejected] HEAD -> main (cannot lock ref 'refs/heads/main': is at " + "a" * 40 + " but expected " + "b" * 40 + ")", True),
+    ("[remote rejected] HEAD -> main (cannot lock ref 'refs/heads/main': permission denied)", False),
+    ("permission denied", False),
+])
+def test_only_pure_push_contention_can_be_deferred(tmp_path, monkeypatch, rebase_ok, rejection, is_contention):
+    state = tmp_path / "state.json"
+    state.write_text("{}")
+    persister = GitStatePersister(tmp_path)
+    persister.PUSH_ATTEMPTS = 2
+    monkeypatch.setattr(persister, "_run", lambda *args, **kwargs:
+        subprocess.CompletedProcess(args, 1 if args[0] == "push" else 0, "", rejection))
+    monkeypatch.setattr(persister, "_rebase_checkpoint", lambda *_: (rebase_ok, "rebase failed"))
+    expected = GitPushContentionError if rebase_ok and is_contention else GitStateError
+    with pytest.raises(GitStateError) as caught:
+        persister._persist(state, "source")
+    assert type(caught.value) is expected
+
+
+def test_repeated_processing_batches_but_new_target_persists_immediately(tmp_path, monkeypatch):
+    persister = GitStatePersister(tmp_path)
+    events = []
+    monkeypatch.setattr(persister, '_persist', lambda path, event: events.append(event))
+    state = StateStore(tmp_path / 'state.json', on_persist=persister)
+    state.record_prepared(1, '777', 100)
+    state.record_target_processing(1, video_id='777', size=100, source_id='10')
+    assert events == ['prepared', 'processing']
+    for _ in range(24):
+        state.record_target_processing(1, video_id='777', size=100, source_id='10')
+    assert events == ['prepared', 'processing']
+    state.record_target_processing(1, video_id='777', size=100, source_id='10')
+    assert events[-1] == 'processing_refresh'
+    state.record_target_processing(1, video_id='888', size=100, source_id='10')
+    assert events[-1] == 'processing'
+    state.record_target_processing(1, video_id='888', size=100, source_id='10')
+    state.persist_external('flush')
+    assert events[-1] == 'flush'
+    assert StateStore(state.path).snapshot(1)['previous_target_id'] == '888'
+
+
+@pytest.fixture(autouse=True)
+def no_retry_sleep(monkeypatch):
+    monkeypatch.setattr("sdilej_to_prehrajto.git_state.time.sleep", lambda _seconds: None)
+
+
+def test_push_survives_more_than_five_concurrent_updates(tmp_path, monkeypatch):
+    state = tmp_path / "state.json"
+    state.write_text("{}")
+    persister = GitStatePersister(tmp_path)
+    pushes, waits = [], []
+    def run(*args, **_kwargs):
+        code = 0
+        if args[0] == "push":
+            pushes.append(args)
+            code = int(len(pushes) <= 6)
+        return subprocess.CompletedProcess(args, code, "", "cannot lock ref" if code else "")
+    monkeypatch.setattr(persister, "_run", run)
+    monkeypatch.setattr("sdilej_to_prehrajto.git_state.time.sleep", waits.append)
+    monkeypatch.setattr("sdilej_to_prehrajto.git_state.random.uniform", lambda *_args: 1)
+    persister(state, "flush")
+    assert len(pushes) == 7
+    assert waits == [2, 3, 5, 9, 17, 31]
+
+
+def test_flush_retries_push_when_checkpoint_is_already_committed(tmp_path, monkeypatch):
+    (tmp_path / "state.json").write_text("{}")
+    persister = GitStatePersister(tmp_path)
+    commands = []
+    def run(*args, **kwargs):
+        commands.append(args)
+        return subprocess.CompletedProcess(args, 0, "", "")
+    monkeypatch.setattr(persister, "_run", run)
+    persister(tmp_path / "state.json", "flush")
+    assert ("push", "origin", "HEAD:main") in commands
+    assert not any(args[0] == "commit" for args in commands)
+
+
+def test_rebase_resolves_multiple_owned_checkpoints(tmp_path, monkeypatch):
+    persister = GitStatePersister(tmp_path)
+    continuations = []
+    def run(*args, **kwargs):
+        code, out = 0, ""
+        if args[:2] == ("rebase", "--autostash"):
+            code = 1
+        if args[:2] == ("diff", "--name-only"):
+            out = "state.json\n"
+        if "--continue" in args:
+            continuations.append(args)
+            code = int(len(continuations) == 1)
+        return subprocess.CompletedProcess(args, code, out, "conflict" if code else "")
+    monkeypatch.setattr(persister, "_run", run)
+    assert persister._rebase_checkpoint(["state.json"]) == (True, "")
+    assert len(continuations) == 2
+
+
+def test_push_diagnostics_keep_cause_and_redact_urls():
+    result = subprocess.CompletedProcess([], 1, "", "remote: rejected oversized file\nerror: failed to push https://user:secret@example.com/repo")
+    detail = GitStatePersister._failure_detail(result)
+    assert "oversized file" in detail
+    assert "secret" not in detail
+
+
+def test_git_checkpoints_batch_sources_and_persist_transfers(tmp_path, monkeypatch) -> None:
+    persister = GitStatePersister(tmp_path)
+    persisted = []
+    monkeypatch.setattr(
+        persister,
+        "_persist",
+        lambda state_path, event: persisted.append((state_path, event)),
+    )
+    state_path = tmp_path / "state.json"
+
+    for _index in range(100):
+        persister(state_path, "claim")
+    for _index in range(4):
+        persister(state_path, "source")
+    assert persisted == [(state_path, "source")] * 4
+
+    for _index in range(3):
+        persister(state_path, "source")
+    assert persisted == [(state_path, "source")] * 4
+
+    persister(state_path, "source")
+    assert persisted == [(state_path, "source")] * 5
+
+    persister(state_path, "prepared")
+    persister(state_path, "processing")
+    persister(state_path, "failure")
+    persister(state_path, "success")
+    assert persisted == [(state_path, "source")] * 5 + [
+        (state_path, "prepared"),
+        (state_path, "processing"),
+        (state_path, "failure"),
+        (state_path, "success"),
+    ]
+
+
+def test_git_checkpoints_batch_negative_discovery_results(tmp_path, monkeypatch) -> None:
+    persister = GitStatePersister(tmp_path)
+    persisted = []
+    monkeypatch.setattr(
+        persister,
+        "_persist",
+        lambda state_path, event: persisted.append((state_path, event)),
+    )
+    state_path = tmp_path / "state.json"
+
+    for _index in range(249):
+        persister(state_path, "attempt")
+    assert persisted == []
+
+    persister(state_path, "attempt")
+    assert persisted == [(state_path, "attempt")]
+
+    persister(state_path, "deep_scan")
+    assert persisted == [(state_path, "attempt"), (state_path, "deep_scan")]
+
+    for _index in range(9):
+        persister(state_path, "deep_scan")
+    assert persisted == [(state_path, "attempt"), (state_path, "deep_scan")]
+
+    persister(state_path, "deep_scan")
+    assert persisted == [
+        (state_path, "attempt"),
+        (state_path, "deep_scan"),
+        (state_path, "deep_scan"),
+    ]
+
+
+def test_git_flush_persists_final_partial_batch(tmp_path, monkeypatch) -> None:
+    persister = GitStatePersister(tmp_path)
+    persisted = []
+    monkeypatch.setattr(
+        persister,
+        "_persist",
+        lambda state_path, event: persisted.append((state_path, event)),
+    )
+    state_path = tmp_path / "state.json"
+
+    persister(state_path, "attempt")
+    persister(state_path, "flush")
+    assert persisted == [(state_path, "flush")]
+
+
+def test_git_state_reads_fresh_remote_file_without_touching_worktree(
+    tmp_path, monkeypatch
+) -> None:
+    persister = GitStatePersister(tmp_path)
+    commands = []
+
+    def fake_run(*args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
+        commands.append(args)
+        stdout = '{"cr_film_id": 1}\n' if args[0] == "show" else ""
+        return subprocess.CompletedProcess(args, 0, stdout, "")
+
+    monkeypatch.setattr(persister, "_run", fake_run)
+
+    payload = persister.read_remote_file("manifests/selected-sources.jsonl")
+
+    assert payload == '{"cr_film_id": 1}\n'
+    assert commands == [
+        ("fetch", "origin", "main"),
+        ("show", "FETCH_HEAD:manifests/selected-sources.jsonl"),
+    ]
+
+
+def test_git_checkpoint_rejects_file_near_github_hard_limit(
+    tmp_path, monkeypatch
+) -> None:
+    state_path = tmp_path / "state.json"
+    state_path.write_bytes(b"x" * 101)
+    persister = GitStatePersister(tmp_path)
+    monkeypatch.setattr(persister, "MAX_TRACKED_FILE_BYTES", 100)
+
+    try:
+        persister(state_path, "flush")
+    except GitStateError as error:
+        assert "above 90 MiB" in str(error)
+    else:
+        raise AssertionError("oversized checkpoint was accepted")
+
+
+def test_git_checkpoint_retries_after_failed_rebase(tmp_path, monkeypatch) -> None:
+    state_path = tmp_path / "state.json"
+    state_path.write_text('{"successes": 25}')
+    persister = GitStatePersister(tmp_path)
+    commands = []
+    push_results = iter([1, 1, 0])
+    rebase_results = iter([1, 0])
+
+    def fake_run(*args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
+        commands.append(args)
+        returncode = 0
+        stderr = ""
+        if args[0] == "push":
+            returncode = next(push_results)
+            stderr = "non-fast-forward" if returncode else ""
+        elif args[:3] == ("diff", "--cached", "--quiet"):
+            returncode = 1
+        elif args[:3] == ("rebase", "--autostash", "origin/main"):
+            returncode = next(rebase_results)
+            stderr = "temporary rebase failure" if returncode else ""
+        elif args[:3] == ("diff", "--name-only", "--diff-filter=U"):
+            return subprocess.CompletedProcess(args, 0, "", "")
+        return subprocess.CompletedProcess(args, returncode, "", stderr)
+
+    monkeypatch.setattr(persister, "_run", fake_run)
+
+    persister(state_path, "flush")
+
+    assert commands.count(("rebase", "--abort")) == 3
+    assert commands.count(("fetch", "origin", "main")) == 2
+    assert commands.count(("rebase", "--autostash", "origin/main")) == 2
+
+
+def test_git_checkpoint_resolves_owned_rebase_conflict(
+    tmp_path, monkeypatch
+) -> None:
+    persister = GitStatePersister(tmp_path)
+    commands = []
+
+    def fake_run(*args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
+        commands.append(args)
+        if args[:3] == ("rebase", "--autostash", "origin/main"):
+            return subprocess.CompletedProcess(args, 1, "", "conflict")
+        if args[:3] == ("diff", "--name-only", "--diff-filter=U"):
+            return subprocess.CompletedProcess(args, 0, "state/sync.json\n", "")
+        return subprocess.CompletedProcess(args, 0, "", "")
+
+    monkeypatch.setattr(persister, "_run", fake_run)
+
+    rebased, detail = persister._rebase_checkpoint(["state/sync.json"])
+
+    assert rebased is True
+    assert detail == ""
+    assert ("checkout", "--theirs", "--", "state/sync.json") in commands
+    assert ("-c", "core.editor=true", "rebase", "--continue") in commands
