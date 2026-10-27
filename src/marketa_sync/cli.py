@@ -101,7 +101,8 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
         except PremiumRequiredError:
             raise
         except SubtitleUnavailable as error:
-            status, days = str(error), 1
+            status = str(error)
+            days = 1 if status == "burned_in_or_external_subtitles_require_review" else 1 / 24
         except Exception as error:
             # Do not serialize request URLs, media commands, or response bodies.
             failures = scanned.get(key, {}).get("failures", 0) + 1
