@@ -142,7 +142,15 @@
       }
     },
     "10755": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14312092",
+          "reason": "Request failed for https://sdilej.cz/14312092/dvanact-rozhnevanych-muzu-12-angry-men-1957-en-cz-tit-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-27T19:12:58.302462+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14312092",
         "display_name": "12 Angry Men (1957) CZ Dabing",
@@ -1643,5 +1651,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T19:12:11.059263+00:00"
+  "updated_at": "2026-10-27T19:12:58.302479+00:00"
 }
