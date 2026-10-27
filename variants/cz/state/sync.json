@@ -243,17 +243,19 @@
       }
     },
     "20": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11053188",
+          "target_video_id": "30571968",
+          "permanent": false,
+          "attempted_at": "2026-10-27T20:49:25.673154+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11053188",
         "display_name": "The Lord of the Rings: The Two Towers CZ Dabing",
         "planned_at": "2026-10-27T17:12:34.611530+00:00"
-      },
-      "claim": {
-        "worker_id": "025dd5424ce3445da6185f6dd47858ad-shard-0",
-        "claimed_at": "2026-10-27T20:35:54.144682+00:00",
-        "lease_expires_at": "2026-10-28T02:35:54.144682+00:00",
-        "run_id": "40548290377"
       },
       "previous_target_id": "30571968",
       "prepared": {
@@ -1717,5 +1719,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T20:35:58.271335+00:00"
+  "updated_at": "2026-10-27T20:49:25.673170+00:00"
 }
