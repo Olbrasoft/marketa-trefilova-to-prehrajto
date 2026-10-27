@@ -181,17 +181,19 @@
       }
     },
     "24": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33034946",
+          "target_video_id": "30571043",
+          "permanent": false,
+          "attempted_at": "2026-10-27T20:26:36.378506+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33034946",
         "display_name": "Inception CZ Dabing",
         "planned_at": "2026-10-27T17:12:34.604819+00:00"
-      },
-      "claim": {
-        "worker_id": "2d0815b69aab48daa7c1158b47d3285c-shard-0",
-        "claimed_at": "2026-10-27T19:35:23.024233+00:00",
-        "lease_expires_at": "2026-10-28T01:35:23.024233+00:00",
-        "run_id": "40548290377"
       },
       "previous_target_id": "30571043",
       "prepared": {
@@ -1679,5 +1681,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-27T19:35:27.048964+00:00"
+  "updated_at": "2026-10-27T20:26:36.378524+00:00"
 }
