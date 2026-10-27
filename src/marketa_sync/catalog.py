@@ -138,6 +138,10 @@ class EnglishTitles:
                 elif tmdb.isdigit():
                     values.append(f'({film["cr_film_id"]} wdt:P4947 "{tmdb}")')
             if not values:
+                for film in batch:
+                    self.rows[str(film["cr_film_id"])] = {"status": "missing_external_id",
+                        "retry_after": (now + timedelta(days=7)).isoformat()}
+                self.save()
                 continue
             query = ('SELECT ?id ?item ?title WHERE { VALUES (?id ?property ?external) { '
                      + " ".join(values) + ' } ?item ?property ?external; rdfs:label ?title . '

@@ -10,12 +10,13 @@ import time
 
 from sdilej_to_prehrajto.git_state import GitStatePersister
 from sdilej_to_prehrajto.language import WhisperLanguageDetector
-from sdilej_to_prehrajto.pipeline import SyncPipeline, write_plan
+from sdilej_to_prehrajto.pipeline import SyncPipeline
 from sdilej_to_prehrajto.prehrajto import login as target_login
 from sdilej_to_prehrajto.sdilej import login as source_login, SdilejProvider, PremiumRequiredError
 from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.subtitle_backfill import Backfill, atomic_write
 from sdilej_to_prehrajto.subtitle_target import SubtitleTarget
+from sdilej_to_prehrajto.subtitle_media import SubtitleUnavailable
 from sdilej_to_prehrajto.subtitles import SubtitleQueue
 
 from .catalog import EnglishTitles, VariantSourceStore, import_sources, named_films, read_rows
@@ -90,10 +91,14 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
                 status, days = "no_verified_english_source", 7
         except PremiumRequiredError:
             raise
+        except SubtitleUnavailable as error:
+            status, days = str(error), 1
         except Exception as error:
             # Do not serialize request URLs, media commands, or response bodies.
-            status, days = type(error).__name__, 1 / 24
+            failures = scanned.get(key, {}).get("failures", 0) + 1
+            status, days = type(error).__name__, min(24, 2 ** (failures - 1)) / 24
         scanned[key] = {"status": status, "checked_at": now.isoformat(),
+                        "failures": 0 if status == "verified" else scanned.get(key, {}).get("failures", 0) + 1,
                         "retry_after": (now + timedelta(days=days)).isoformat()}
         pipeline.selected_sources.compact()
         atomic_write(scan_path, json.dumps(scanned, indent=2, sort_keys=True) + "\n")
@@ -106,6 +111,8 @@ def followup_report(root: Path):
     lane = root / "variants/en"
     sources = VariantSourceStore(lane / "manifests/selected-sources.jsonl", "en")
     state = StateStore(lane / "state/sync.json")
+    backfill_path = lane / "state/subtitle-backfill.json"
+    backfill = json.loads(backfill_path.read_text()).get("videos", {}) if backfill_path.exists() else {}
     lines = ["# Czech subtitle follow-up", "", "Attach subtitles only after target processing has finished.", "",
              "| Film | Target ID | Source | Action |", "| --- | --- | --- | --- |"]
     for film_id, entry in state.data.get("films", {}).items():
@@ -119,6 +126,8 @@ def followup_report(root: Path):
         subtitle_evidence = source.get("match_evidence", {}).get("marketa", {})
         action = "Extract Czech track from exact source after processing" if subtitle_evidence.get("czech_subtitles") else "Find and add matching Czech subtitles after processing"
         video_id = upload.get("target_video_id") or pending.get("target_video_id")
+        if backfill.get(str(video_id), {}).get("status") in {"attached_verified", "already_has_czech"}:
+            action = "Complete: Czech subtitles verified"
         lines.append(f"| {title.replace('|', '/')} | {video_id} | {source.get('source_url', '')} | {action} |")
     atomic_write(root / "reports/subtitle-followup.md", "\n".join(lines) + "\n")
 
@@ -167,6 +176,9 @@ def main():
                             persist=persist)
         backfill.run(max_pages=2, max_sources=args.limit, limit=args.limit,
                      runtime_minutes=args.runtime_minutes)
+        followup_report(root)
+        if persist:
+            persist(lane / "state/subtitle-backfill.json", "flush")
         return 0
     source, target = (source_session(), target_session()) if args.mode == "upload" else (None, None)
     pipelines = {variant: make_pipeline(root, variant, names, source, target, persist=persist)
@@ -181,16 +193,19 @@ def main():
                               "width": row["selected"]["width"], "height": row["selected"]["height"]}, ensure_ascii=False))
         return 0
     deadline = time.monotonic() + args.runtime_minutes * 60
+    counts = {"uploaded": 0, "processing": 0, "failed": 0}
     for variant, row in plans:
         if time.monotonic() >= deadline:
             break
         pipeline = pipelines[variant]
         pipeline.execute([row])
+        checkpoint = pipeline.state.snapshot(row["film"]["cr_film_id"])
+        counts["uploaded" if checkpoint.get("upload") else "processing" if checkpoint.get("prepared") else "failed"] += 1
         followup_report(root)
         if persist:
             persist(pipeline.state.path, "flush")
-    print(f"planned={len(plans)}", flush=True)
-    return 0
+    print(json.dumps({"planned": len(plans), **counts}), flush=True)
+    return int(counts["failed"] > 0)
 
 
 if __name__ == "__main__":
