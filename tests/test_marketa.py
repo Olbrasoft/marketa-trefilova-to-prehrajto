@@ -154,3 +154,19 @@ def test_source_timeout_never_selects_an_unsubtitled_fallback(monkeypatch):
         return item
     monkeypatch.setattr(provider,"verify_english",verify)
     with pytest.raises(SdilejError): provider.discover(film)
+
+
+def test_resume_processing_upload_preserves_subtitle_provenance(tmp_path, monkeypatch):
+    pipeline,film=seed_source(tmp_path,"en",1,candidate(subtitles=True))
+    plan=pipeline.build_plan([film],1,verified_only=True)
+    pipeline.state.record_prepared(1,"777",5_000_000_000)
+    pipeline.state.record_target_processing(1,video_id="777",size=5_000_000_000,source_id="123")
+    monkeypatch.setattr(pipeline,"_target_id_by_name",lambda *_: "777")
+    monkeypatch.setattr(pipeline,"_existing_target_complete",lambda *_: True)
+    monkeypatch.setattr("sdilej_to_prehrajto.pipeline.relay_upload",lambda *_args,**_kwargs: pytest.fail("No second relay"))
+    pipeline.execute(plan)
+    upload=pipeline.state.snapshot(1)["upload"]
+    assert upload["completion_evidence"]=="reconciled_owned_prepared"
+    queue=json.loads((tmp_path/"variants/en/plans/subtitle-followup.jsonl").read_text())
+    assert queue["source_binding_verified"] is True
+    assert source_map(tmp_path/"variants/en")["777"]["source_id"]=="123"

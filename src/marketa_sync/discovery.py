@@ -105,12 +105,17 @@ class EnglishProvider(SdilejProvider):
         deadline = time.monotonic() + self.discovery_timeout_seconds
         film = replace(film, original_title=self.english_titles[film.cr_film_id])
         candidates = {}
+        queries = []
         for title in dict.fromkeys([film.original_title, film.title]):
-            for query in dict.fromkeys([f"{title} {film.year}" if film.year else title, title]):
-                for candidate in self.search_by_quality(query):
-                    match = classify_candidate(film, candidate.title, duration_sec=candidate.duration_sec)
-                    if match.tier in {MatchTier.STRONG, MatchTier.SOLID}:
-                        candidates[candidate.source_id] = candidate
+            queries.extend([f"{title} {film.year}" if film.year else title, title])
+        queries.extend(f"{film.original_title} {suffix}" for suffix in ("en", "eng", "cz titulky", "cz tit"))
+        for query in dict.fromkeys(queries):
+            if time.monotonic() >= deadline:
+                raise SdilejError("English search incomplete; fallback deferred")
+            for candidate in self.search_by_quality(query):
+                match = classify_candidate(film, candidate.title, duration_sec=candidate.duration_sec)
+                if match.tier in {MatchTier.STRONG, MatchTier.SOLID}:
+                    candidates[candidate.source_id] = candidate
         resolved = []
         cached = self.cache.setdefault(str(film.cr_film_id), {})
         for candidate in sorted(candidates.values(), key=lambda c: (
