@@ -171,6 +171,7 @@ class EnglishTitles:
 def named_films(rows: list[dict], titles: EnglishTitles) -> tuple[list[Film], dict[int, str]]:
     known = [(row, titles.get(row)) for row in rows]
     counts = Counter((title or row.get("original_title") or "").casefold() for row, title in known)
+    year_counts = Counter(((title or row.get("original_title") or "").casefold(), row.get("year")) for row, title in known)
     films, names = [], {}
     for row, title in known:
         if not title:
@@ -178,6 +179,8 @@ def named_films(rows: list[dict], titles: EnglishTitles) -> tuple[list[Film], di
         film = Film.from_dict(row)
         # Preserve the requested short name; distinguish known remakes by year.
         name = f"{title} ({film.year})" if counts[title.casefold()] > 1 and film.year else title
+        if counts[title.casefold()] > 1 and (not film.year or year_counts[title.casefold(), film.year] > 1):
+            name = f"{name} [ID {film.cr_film_id}]"
         names[film.cr_film_id] = name
         films.append(film)
     return films, names

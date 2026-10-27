@@ -92,7 +92,8 @@ class EnglishProvider(SdilejProvider):
         except SubtitleUnavailable:
             evidence = {"czech_subtitles": False}
         page_tracks = BeautifulSoup(html, "html.parser").select("video track[src]")
-        if any(is_czech(t.get("srclang", "")) and not re.search(r"forced|vynucen|commentary", t.get("label", ""), re.I)
+        if any(is_czech(t.get("srclang", "")) and t.get("kind", "subtitles") in {"subtitles", "captions"}
+               and not re.search(r"forced|vynucen|commentary", t.get("label", ""), re.I)
                for t in page_tracks):
             evidence = {"czech_subtitles": True, "subtitle_method": "original_page_track"}
         if not evidence["czech_subtitles"] and re.search(r"\b(?:cz|ceske|české)[ ._-]*(?:tit|titulky|subs?)\b", detail.title, re.I):

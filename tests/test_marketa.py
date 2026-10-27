@@ -131,3 +131,26 @@ def test_unverified_english_manifest_is_not_uploadable(tmp_path):
     store.record({"cr_film_id":1,"source_id":"123","source_url":"https://sdilej.cz/123/film.mkv",
                   "audio_language":"en","match_tier":"strong"})
     assert store.candidate(1) is None
+
+
+def test_identical_english_titles_and_years_get_distinct_target_names(tmp_path):
+    (tmp_path/"config").mkdir()
+    (tmp_path/"config/english-titles.json").write_text(json.dumps({
+        "1":{"title":"The Film"},"2":{"title":"The Film"}}))
+    films=[{"cr_film_id":i,"title":"Film","year":2000} for i in [1,2]]
+    _,names=named_films(films,EnglishTitles(tmp_path))
+    assert names[1]!=names[2]
+
+
+def test_source_timeout_never_selects_an_unsubtitled_fallback(monkeypatch):
+    from sdilej_to_prehrajto.sdilej import SdilejError
+    film=Film(1,"film","The Film","The Film",2000,120,"en")
+    provider=EnglishProvider(None,None,english_titles={1:"The Film"},discovery_timeout_seconds=900)
+    plain=candidate("123",width=3840)
+    unknown=candidate("456",width=1920)
+    monkeypatch.setattr(provider,"search_by_quality",lambda _: [plain,unknown])
+    def verify(_film, item):
+        if item.source_id=="456": raise SdilejError("unavailable")
+        return item
+    monkeypatch.setattr(provider,"verify_english",verify)
+    with pytest.raises(SdilejError): provider.discover(film)
