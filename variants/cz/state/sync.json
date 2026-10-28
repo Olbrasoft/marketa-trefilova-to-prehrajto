@@ -590,7 +590,15 @@
       }
     },
     "35": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20924456",
+          "reason": "Request failed for https://sdilej.cz/20924456/prelet-nad-kukaccim-hnizdem-1975-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T02:34:20.892936+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20924456",
         "display_name": "One Flew Over the Cuckoo's Nest CZ Dabing",
@@ -4930,5 +4938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T02:33:34.033329+00:00"
+  "updated_at": "2026-10-28T02:34:20.892955+00:00"
 }
