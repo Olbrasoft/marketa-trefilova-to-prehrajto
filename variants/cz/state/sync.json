@@ -1855,17 +1855,19 @@
       }
     },
     "21408": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34390594",
+          "target_video_id": "30592877",
+          "permanent": false,
+          "attempted_at": "2026-10-28T19:52:40.722956+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34390594",
         "display_name": "Rear Window (1954) CZ Dabing",
         "planned_at": "2026-10-28T19:03:24.755008+00:00"
-      },
-      "claim": {
-        "worker_id": "c62c4b98678f4025a99b56f10c502212-shard-0",
-        "claimed_at": "2026-10-28T19:03:24.791638+00:00",
-        "lease_expires_at": "2026-10-29T01:03:24.791638+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30592877",
       "prepared": {
@@ -11060,5 +11062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T19:03:28.646301+00:00"
+  "updated_at": "2026-10-28T19:52:40.722970+00:00"
 }
