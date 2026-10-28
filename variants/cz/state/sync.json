@@ -2105,17 +2105,19 @@
       }
     },
     "26873": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29087884",
+          "target_video_id": "30595909",
+          "permanent": false,
+          "attempted_at": "2026-10-28T21:59:45.122733+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29087884",
         "display_name": "The Cove CZ Dabing",
         "planned_at": "2026-10-28T21:50:57.314017+00:00"
-      },
-      "claim": {
-        "worker_id": "146bc0517c35442b8d4f2255e5e9d203-shard-0",
-        "claimed_at": "2026-10-28T21:50:57.358205+00:00",
-        "lease_expires_at": "2026-10-29T03:50:57.358205+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30595909",
       "prepared": {
@@ -12153,5 +12155,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:51:00.328324+00:00"
+  "updated_at": "2026-10-28T21:59:45.122749+00:00"
 }
