@@ -9,3 +9,4 @@ Attach subtitles only after target processing has finished.
 | The Lord of the Rings: The Fellowship of the Ring CZ Titulky | 30582771 | https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv | Extract Czech track from exact source after processing |
 | Inception CZ Titulky | 30582836 | https://sdilej.cz/34401564/inception.2010.blu-ray.remux.1080p.vc-1.dts-hd.ma.5.1-eng-ac3-5.1-cze.mkv | Extract Czech track from exact source after processing |
 | Pulp Fiction CZ Titulky | 30583711 | https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
+| The Lord of the Rings: The Two Towers CZ Titulky | 30583875 | https://sdilej.cz/23272546/the-lord-of-the-rings-the-two-towers-2002-extended-2160p-bluray-x265-10bit-hdr-tigole-.mkv | Extract Czech track from exact source after processing |
