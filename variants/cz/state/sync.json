@@ -1833,11 +1833,19 @@
       }
     },
     "86": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34058706",
+          "reason": "Request failed for https://sdilej.cz/34058706/coco-2017-uhdr-2160p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T19:03:16.737155+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34058706",
         "display_name": "Coco CZ Dabing",
-        "planned_at": "2026-10-28T18:53:22.518766+00:00"
+        "planned_at": "2026-10-28T19:02:31.105519+00:00"
       }
     },
     "21408": {
@@ -11028,5 +11036,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:53:22.518777+00:00"
+  "updated_at": "2026-10-28T19:03:16.737175+00:00"
 }
