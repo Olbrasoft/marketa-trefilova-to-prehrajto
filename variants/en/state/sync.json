@@ -1462,17 +1462,19 @@
       "attempts": []
     },
     "72": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34430978",
+          "target_video_id": "30595748",
+          "permanent": false,
+          "attempted_at": "2026-10-28T22:13:28.352875+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34430978",
         "display_name": "I Swear CZ Titulky",
         "planned_at": "2026-10-28T21:44:04.857564+00:00"
-      },
-      "claim": {
-        "worker_id": "76bdb81dc14a4bdeba440c338e775cf2-shard-0",
-        "claimed_at": "2026-10-28T21:44:04.869774+00:00",
-        "lease_expires_at": "2026-10-29T03:44:04.869774+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30595748",
       "prepared": {
@@ -11534,5 +11536,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T22:02:00.762639+00:00"
+  "updated_at": "2026-10-28T22:13:28.352891+00:00"
 }
