@@ -1062,17 +1062,19 @@
       }
     },
     "66": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31422314",
+          "target_video_id": "30579926",
+          "permanent": false,
+          "attempted_at": "2026-10-28T06:45:30.540994+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31422314",
         "display_name": "Whiplash CZ Dabing",
         "planned_at": "2026-10-28T06:39:47.880180+00:00"
-      },
-      "claim": {
-        "worker_id": "519c77162ee542beb0262f41af33b9c9-shard-0",
-        "claimed_at": "2026-10-28T06:39:49.883329+00:00",
-        "lease_expires_at": "2026-10-28T12:39:49.883329+00:00",
-        "run_id": "40621166053"
       },
       "previous_target_id": "30579926",
       "prepared": {
@@ -6531,5 +6533,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T06:39:53.619859+00:00"
+  "updated_at": "2026-10-28T06:45:30.541009+00:00"
 }
