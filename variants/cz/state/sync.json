@@ -859,17 +859,19 @@
       }
     },
     "54": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-10-28T05:17:49.067068+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed CZ Dabing",
         "planned_at": "2026-10-28T05:04:25.828561+00:00"
-      },
-      "claim": {
-        "worker_id": "37d5dc3f50044512b5bb641be99d7ab8-shard-0",
-        "claimed_at": "2026-10-28T05:04:28.050016+00:00",
-        "lease_expires_at": "2026-10-28T11:04:28.050016+00:00",
-        "run_id": "40621166053"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -5764,5 +5766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T05:04:31.749156+00:00"
+  "updated_at": "2026-10-28T05:17:49.067085+00:00"
 }
