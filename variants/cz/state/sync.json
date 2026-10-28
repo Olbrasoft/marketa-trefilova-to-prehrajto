@@ -2134,11 +2134,19 @@
       "attempts": []
     },
     "105": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31774126",
+          "reason": "Request failed for https://sdilej.cz/31774126/joker-2019-uhdr-dv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T22:01:56.225131+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31774126",
         "display_name": "Joker CZ Dabing",
-        "planned_at": "2026-10-28T22:01:08.860560+00:00"
+        "planned_at": "2026-10-28T22:01:10.768510+00:00"
       }
     },
     "121": {
@@ -12160,5 +12168,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T22:01:08.860573+00:00"
+  "updated_at": "2026-10-28T22:01:56.225149+00:00"
 }
