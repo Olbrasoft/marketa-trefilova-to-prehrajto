@@ -1096,11 +1096,19 @@
       "attempts": []
     },
     "76": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30657861",
+          "reason": "Request failed for https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T17:38:21.217201+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30657861",
         "display_name": "Memento CZ Titulky",
-        "planned_at": "2026-10-28T17:37:29.850401+00:00"
+        "planned_at": "2026-10-28T17:37:35.857265+00:00"
       }
     },
     "93": {
@@ -10036,5 +10044,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T17:37:29.850409+00:00"
+  "updated_at": "2026-10-28T17:38:21.217220+00:00"
 }
