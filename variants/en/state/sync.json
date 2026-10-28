@@ -1606,17 +1606,19 @@
       "attempts": []
     },
     "126": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6716239",
+          "target_video_id": "30597712",
+          "permanent": false,
+          "attempted_at": "2026-10-28T23:44:55.640755+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6716239",
         "display_name": "Eternal Sunshine of the Spotless Mind CZ Titulky",
         "planned_at": "2026-10-28T23:35:11.382287+00:00"
-      },
-      "claim": {
-        "worker_id": "acabdb5f24d345ba80ae6baf0240e9a0-shard-0",
-        "claimed_at": "2026-10-28T23:35:11.397108+00:00",
-        "lease_expires_at": "2026-10-29T05:35:11.397108+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30597712",
       "prepared": {
@@ -12220,5 +12222,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T23:38:11.736763+00:00"
+  "updated_at": "2026-10-28T23:44:55.640778+00:00"
 }
