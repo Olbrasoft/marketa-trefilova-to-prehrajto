@@ -859,7 +859,20 @@
       }
     },
     "59": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13383178",
+          "reason": "Request failed for https://sdilej.cz/13383178/nedotknutelni-2011.1080p.bdrip.ac3.dd.5.1.cz.dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T16:36:06.632565+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "13383178",
+        "display_name": "The Intouchables (Intouchables) CZ Titulky",
+        "planned_at": "2026-10-28T16:36:06.242437+00:00"
+      }
     },
     "69": {
       "attempts": []
@@ -9548,5 +9561,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:36:01.332741+00:00"
+  "updated_at": "2026-10-28T16:36:06.632577+00:00"
 }
