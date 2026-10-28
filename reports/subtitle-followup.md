@@ -27,7 +27,7 @@ Attach subtitles only after target processing has finished.
 | American History X CZ Titulky | 30589993 | https://sdilej.cz/28055213/kult-hakoveho-krize-cz.mkv | Extract Czech track from exact source after processing |
 | The Usual Suspects CZ Titulky | 30590050 | https://sdilej.cz/35170968/the.usual.suspects.1995.open.matte.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Whiplash CZ Titulky | 30590258 | https://sdilej.cz/22962577/whiplash-2014-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
-| Casablanca CZ Titulky | 30590340 | https://sdilej.cz/17447327/casablanca.1942.1080p.bluray.dl.ac3.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Casablanca CZ Titulky | 30590340 | https://sdilej.cz/17447327/casablanca.1942.1080p.bluray.dl.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | Spider-Man: Across the Spider-Verse CZ Titulky | 30590630 | https://sdilej.cz/26637017/spider-man.across.the.spider-verse.2023.1080p.10bit.webrip.6ch.x265.hevc-psa-cztit.mkv | Extract Czech track from exact source after processing |
 | The Odyssey CZ Titulky | 30590842 | https://sdilej.cz/34822736/the-odyssey-the-making-of-an-epic-2026-cz-titulky.mp4 | Extract Czech track from exact source after processing |
-| Grave of the Fireflies (Hotaru no haka) CZ Titulky | 30590877 | https://sdilej.cz/21922146/hrob-svetlusek-bluray-1988-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Grave of the Fireflies (Hotaru no haka) CZ Titulky | 30590877 | https://sdilej.cz/21922146/hrob-svetlusek-bluray-1988-cz-tit.mkv | Complete: Czech subtitles verified |
