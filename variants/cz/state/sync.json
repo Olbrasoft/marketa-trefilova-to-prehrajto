@@ -2089,11 +2089,19 @@
       "attempts": []
     },
     "31549": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27718695",
+          "reason": "Request failed for https://sdilej.cz/27718695/home.webrip.720p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T21:50:52.789741+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27718695",
         "display_name": "Home (2009) CZ Dabing",
-        "planned_at": "2026-10-28T21:44:04.828418+00:00"
+        "planned_at": "2026-10-28T21:50:07.398755+00:00"
       }
     },
     "26873": {
@@ -12127,5 +12135,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:44:04.828429+00:00"
+  "updated_at": "2026-10-28T21:50:52.789760+00:00"
 }
