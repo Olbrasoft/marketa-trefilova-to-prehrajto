@@ -2203,17 +2203,19 @@
       }
     },
     "114": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33850803",
+          "target_video_id": "30596621",
+          "permanent": false,
+          "attempted_at": "2026-10-28T22:45:28.655521+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33850803",
         "display_name": "Up CZ Dabing",
         "planned_at": "2026-10-28T22:38:35.902393+00:00"
-      },
-      "claim": {
-        "worker_id": "02c193d31ce6460785a6a4fe274a12e2-shard-0",
-        "claimed_at": "2026-10-28T22:38:35.945270+00:00",
-        "lease_expires_at": "2026-10-29T04:38:35.945270+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30596621",
       "prepared": {
@@ -12530,5 +12532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T22:38:39.195875+00:00"
+  "updated_at": "2026-10-28T22:45:28.655536+00:00"
 }
