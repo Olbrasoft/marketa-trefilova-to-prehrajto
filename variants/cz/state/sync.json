@@ -1264,17 +1264,19 @@
       "attempts": []
     },
     "10984": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32998781",
+          "target_video_id": "30581554",
+          "permanent": false,
+          "attempted_at": "2026-10-28T08:24:40.456658+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32998781",
         "display_name": "Once Upon a Time in the West (C'era una volta il West) CZ Dabing",
         "planned_at": "2026-10-28T08:15:33.496726+00:00"
-      },
-      "claim": {
-        "worker_id": "2ce0bf6a648246a28fb95eb0d30f931d-shard-0",
-        "claimed_at": "2026-10-28T08:15:35.408205+00:00",
-        "lease_expires_at": "2026-10-28T14:15:35.408205+00:00",
-        "run_id": "40644737040"
       },
       "previous_target_id": "30581554",
       "prepared": {
@@ -7009,5 +7011,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T08:15:39.377794+00:00"
+  "updated_at": "2026-10-28T08:24:40.456676+00:00"
 }
