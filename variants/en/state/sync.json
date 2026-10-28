@@ -565,17 +565,19 @@
       "attempts": []
     },
     "17674": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20966262",
+          "target_video_id": "30588171",
+          "permanent": false,
+          "attempted_at": "2026-10-28T14:32:30.042039+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20966262",
         "display_name": "Seven Samurai (Shichinin no samurai) CZ Titulky",
         "planned_at": "2026-10-28T14:20:17.328253+00:00"
-      },
-      "claim": {
-        "worker_id": "64b9297816c046ed9fc2bff7d744fec8-shard-0",
-        "claimed_at": "2026-10-28T14:20:17.336938+00:00",
-        "lease_expires_at": "2026-10-28T20:20:17.336938+00:00",
-        "run_id": "40671831072"
       },
       "previous_target_id": "30588171",
       "prepared": {
@@ -8726,5 +8728,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T14:20:20.893969+00:00"
+  "updated_at": "2026-10-28T14:32:30.042063+00:00"
 }
