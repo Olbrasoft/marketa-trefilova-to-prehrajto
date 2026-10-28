@@ -316,17 +316,19 @@
       "attempts": []
     },
     "25": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12646320",
+          "target_video_id": "30584304",
+          "permanent": false,
+          "attempted_at": "2026-10-28T12:15:04.578186+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12646320",
         "display_name": "Goodfellas CZ Titulky",
         "planned_at": "2026-10-28T11:17:49.217232+00:00"
-      },
-      "claim": {
-        "worker_id": "752ed5fe4d13469b8a7e1ad4002d643c-shard-0",
-        "claimed_at": "2026-10-28T11:17:49.225114+00:00",
-        "lease_expires_at": "2026-10-28T17:17:49.225114+00:00",
-        "run_id": "40671831072"
       },
       "previous_target_id": "30584304",
       "prepared": {
@@ -7665,5 +7667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T11:49:11.534681+00:00"
+  "updated_at": "2026-10-28T12:15:04.578223+00:00"
 }
