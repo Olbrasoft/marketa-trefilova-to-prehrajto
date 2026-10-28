@@ -79,17 +79,19 @@
       }
     },
     "17": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-10-28T09:40:13.264864+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26227362",
         "display_name": "The Lord of the Rings: The Fellowship of the Ring CZ Titulky",
         "planned_at": "2026-10-28T09:35:19.810926+00:00"
-      },
-      "claim": {
-        "worker_id": "e9d0bd15f3d74dcb94b42610af017981-shard-0",
-        "claimed_at": "2026-10-28T09:35:21.680764+00:00",
-        "lease_expires_at": "2026-10-28T15:35:21.680764+00:00",
-        "run_id": "40644737040"
       },
       "previous_target_id": "30582771",
       "prepared": {
@@ -6853,5 +6855,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T09:35:24.990935+00:00"
+  "updated_at": "2026-10-28T09:40:13.264881+00:00"
 }
