@@ -2025,17 +2025,19 @@
       }
     },
     "30134": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34580496",
+          "target_video_id": "30595404",
+          "permanent": false,
+          "attempted_at": "2026-10-28T21:34:11.763140+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34580496",
         "display_name": "Witness for the Prosecution CZ Dabing",
         "planned_at": "2026-10-28T21:26:47.157430+00:00"
-      },
-      "claim": {
-        "worker_id": "0dbd8c18a72b4dfb87022b62266f5806-shard-0",
-        "claimed_at": "2026-10-28T21:26:47.197563+00:00",
-        "lease_expires_at": "2026-10-29T03:26:47.197563+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30595404",
       "prepared": {
@@ -12099,5 +12101,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:32:30.234233+00:00"
+  "updated_at": "2026-10-28T21:34:11.763156+00:00"
 }
