@@ -292,17 +292,19 @@
       }
     },
     "31398": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34899142",
+          "target_video_id": "30584536",
+          "permanent": false,
+          "attempted_at": "2026-10-28T11:47:52.673038+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34899142",
         "display_name": "12th Fail (12वीं फेल) CZ Titulky",
         "planned_at": "2026-10-28T11:32:27.003670+00:00"
-      },
-      "claim": {
-        "worker_id": "645691c363644c668ce57cfed7b24ad0-shard-0",
-        "claimed_at": "2026-10-28T11:32:27.010483+00:00",
-        "lease_expires_at": "2026-10-28T17:32:27.010483+00:00",
-        "run_id": "40671831072"
       },
       "previous_target_id": "30584536",
       "prepared": {
@@ -7613,5 +7615,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T11:32:30.463431+00:00"
+  "updated_at": "2026-10-28T11:47:52.673065+00:00"
 }
