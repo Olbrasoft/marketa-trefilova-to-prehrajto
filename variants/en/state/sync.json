@@ -4,17 +4,19 @@
       "attempts": []
     },
     "6": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32106032",
+          "target_video_id": "30594653",
+          "permanent": false,
+          "attempted_at": "2026-10-28T20:53:10.632603+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32106032",
         "display_name": "The Godfather CZ Titulky",
         "planned_at": "2026-10-28T20:44:35.538769+00:00"
-      },
-      "claim": {
-        "worker_id": "a2173b30361c4870bc633a81d0beed93-shard-0",
-        "claimed_at": "2026-10-28T20:44:35.576491+00:00",
-        "lease_expires_at": "2026-10-29T02:44:35.576491+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30594653",
       "prepared": {
@@ -11053,5 +11055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T20:44:41.869603+00:00"
+  "updated_at": "2026-10-28T20:53:10.632618+00:00"
 }
