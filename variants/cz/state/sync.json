@@ -561,17 +561,19 @@
       }
     },
     "40": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32908776",
+          "target_video_id": "30575872",
+          "permanent": false,
+          "attempted_at": "2026-10-28T02:33:26.906392+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32908776",
         "display_name": "Terminator 2: Judgment Day CZ Dabing",
         "planned_at": "2026-10-28T02:01:42.978603+00:00"
-      },
-      "claim": {
-        "worker_id": "cceac42c065d4439b773478dfc7e417b-shard-0",
-        "claimed_at": "2026-10-28T02:01:45.008331+00:00",
-        "lease_expires_at": "2026-10-28T08:01:45.008331+00:00",
-        "run_id": "40594340506"
       },
       "previous_target_id": "30575872",
       "prepared": {
@@ -4620,5 +4622,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T02:01:49.158073+00:00"
+  "updated_at": "2026-10-28T02:33:26.906410+00:00"
 }
