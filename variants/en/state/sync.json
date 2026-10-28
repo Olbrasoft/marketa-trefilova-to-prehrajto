@@ -820,11 +820,19 @@
       }
     },
     "56": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27736094",
+          "reason": "Request failed for https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T16:30:55.016637+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27736094",
         "display_name": "Parasite (기생충) (2019) CZ Titulky",
-        "planned_at": "2026-10-28T16:30:06.993499+00:00"
+        "planned_at": "2026-10-28T16:30:08.975157+00:00"
       }
     },
     "66": {
@@ -9520,5 +9528,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:30:07.585796+00:00"
+  "updated_at": "2026-10-28T16:30:55.016657+00:00"
 }
