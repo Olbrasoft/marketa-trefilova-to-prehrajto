@@ -526,17 +526,19 @@
       "attempts": []
     },
     "42": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27594175",
+          "target_video_id": "30587002",
+          "permanent": false,
+          "attempted_at": "2026-10-28T15:13:24.587726+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27594175",
         "display_name": "The Green Mile CZ Titulky",
         "planned_at": "2026-10-28T13:16:40.853372+00:00"
-      },
-      "claim": {
-        "worker_id": "3b86e94cc7c14170869a6d4b9d88b10a-shard-0",
-        "claimed_at": "2026-10-28T13:16:40.860476+00:00",
-        "lease_expires_at": "2026-10-28T19:16:40.860476+00:00",
-        "run_id": "40671831072"
       },
       "previous_target_id": "30587002",
       "prepared": {
@@ -8746,5 +8748,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T14:32:38.099349+00:00"
+  "updated_at": "2026-10-28T15:13:24.587749+00:00"
 }
