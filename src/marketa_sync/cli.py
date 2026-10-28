@@ -1,12 +1,14 @@
-"""Durable, single-uploader orchestration with independent language variants."""
+"""Durable parallel uploads with independent language variants."""
 from __future__ import annotations
 
 import argparse
 from collections import deque
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from datetime import datetime, timedelta, timezone
 import json
 import os
 from pathlib import Path
+import threading
 import time
 
 from sdilej_to_prehrajto.git_state import GitStatePersister
@@ -39,24 +41,26 @@ def target_session():
     return target_login(required_env("PREHRAJTO_EMAIL"), required_env("PREHRAJTO_PASSWORD"))
 
 
-def make_pipeline(root, variant, names, source=None, target=None, provider=None, persist=None):
+def make_pipeline(root, variant, names, source=None, target=None, provider=None, persist=None,
+                  checkpoint_lock=None):
     lane = root / "variants" / variant
     return SyncPipeline(
         source_provider=provider or SdilejProvider(source, None),
         source_session=source, target_session=target,
-        state=StateStore(lane / "state/sync.json", on_persist=persist),
+        state=StateStore(lane / "state/sync.json", on_persist=persist, checkpoint_lock=checkpoint_lock),
         selected_sources=VariantSourceStore(lane / "manifests/selected-sources.jsonl", variant),
         subtitle_queue=SubtitleQueue(lane / "plans/subtitle-followup.jsonl"),
         name_builder=lambda film, candidate: display_name(names[film.cr_film_id], variant, candidate),
     )
 
 
-def ordered_plans(pipelines, films, limit):
+def ordered_plans(pipelines, films, limit, *, excluded=()):
     plans = []
     for variant, pipeline in pipelines.items():
-        pending = [film for film in films if pipeline.state.pending_prepared(film.cr_film_id)]
+        available = [film for film in films if (variant, film.cr_film_id) not in excluded]
+        pending = [film for film in available if pipeline.state.pending_prepared(film.cr_film_id)]
         pending_ids = {film.cr_film_id for film in pending}
-        fresh = [film for film in films if film.cr_film_id not in pending_ids]
+        fresh = [film for film in available if film.cr_film_id not in pending_ids]
         # Reserve one due reconciliation per lane so subtitle work does not
         # wait behind thousands of films that have never been transferred.
         rows = pipeline.build_plan(pending, 1, verified_only=True)
@@ -172,52 +176,104 @@ def checkpoint_paths(root: Path, mode: str) -> tuple[Path, ...]:
     return tuple(root / path for path in relative)
 
 
-def run_subtitles(root, source, target, persist, limit, runtime_minutes):
+def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpoint_lock=None):
+    lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
     lane = root / "variants/en"
     backfill = Backfill(SubtitleTarget(target), source, lane,
                         lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
-                        persist=persist)
+                        persist=persist, checkpoint_lock=lock)
     backfill.run(max_pages=2, max_sources=limit, limit=limit, runtime_minutes=runtime_minutes)
-    followup_report(root)
-    if persist:
-        persist(lane / "state/subtitle-backfill.json", "flush")
+    with lock:
+        followup_report(root)
+        if persist:
+            persist(lane / "state/subtitle-backfill.json", "flush")
 
 
 def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
                 continuous=False, refresh=None, subtitles=None,
+                session_pairs=None, poll_interval_seconds=15,
+                checkpoint_lock=None,
                 clock=time.monotonic, sleep=time.sleep):
     deadline = clock() + runtime_minutes * 60
     counts = {"planned": 0, "uploaded": 0, "processing": 0, "failed": 0}
-    while clock() < deadline:
-        if refresh:
-            films = refresh()
-        plans = ordered_plans(pipelines, films, limit)
-        if not plans:
-            if not continuous:
-                break
-            print("upload_queue=empty waiting_for_preparation=true", flush=True)
-            sleep(min(30, max(0, deadline - clock())))
-            continue
-        for variant, row in plans:
-            if clock() >= deadline:
-                break
-            pipeline = pipelines[variant]
+    pairs = session_pairs or [None]
+    lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
+    free_slots = deque(range(len(pairs)))
+    pending = {}
+    reserved = set()
+    next_refresh = clock()
+    next_subtitles = clock()
+    subtitle_count = 0
+    subtitle_future = None
+    print(f"upload_workers={len(pairs)}", flush=True)
+
+    def execute(variant, row, slot):
+        pipeline = pipelines[variant]
+        print(f"upload_task_started variant={variant} cr_film_id={row['film']['cr_film_id']} worker={slot + 1}", flush=True)
+        if pairs[slot] is None:
             pipeline.execute([row])
-            counts["planned"] += 1
-            checkpoint = pipeline.state.snapshot(row["film"]["cr_film_id"])
-            counts["uploaded" if checkpoint.get("upload") else "processing" if checkpoint.get("prepared") else "failed"] += 1
-            followup_report(root)
-            if persist:
-                persist(pipeline.state.path, "flush")
-        print(json.dumps(counts), flush=True)
-        remaining_minutes = int((deadline - clock()) / 60)
-        if subtitles and remaining_minutes > 0:
-            try:
-                subtitles(min(10, remaining_minutes))
-            except Exception as error:
-                print(f"subtitle_followup_deferred={type(error).__name__}", flush=True)
-        if not continuous:
-            break
+        else:
+            pipeline.execute([row], session_pairs=[pairs[slot]])
+
+    # One shared pool caps transfers across both variants. Keep subtitle work
+    # separate so it cannot hold an otherwise available transfer slot.
+    with ThreadPoolExecutor(max_workers=len(pairs)) as transfers, ThreadPoolExecutor(max_workers=1) as maintenance:
+        while True:
+            for future in list(pending):
+                if not future.done():
+                    continue
+                variant, row, slot = pending.pop(future)
+                future.result()
+                film_id = row["film"]["cr_film_id"]
+                reserved.remove((variant, film_id))
+                free_slots.append(slot)
+                counts["planned"] += 1
+                pipeline = pipelines[variant]
+                checkpoint = pipeline.state.snapshot(film_id)
+                counts["uploaded" if checkpoint.get("upload") else "processing" if checkpoint.get("prepared") else "failed"] += 1
+                with lock:
+                    followup_report(root)
+                    if persist:
+                        persist(pipeline.state.path, "flush")
+                print(json.dumps(counts), flush=True)
+            if subtitle_future is not None and subtitle_future.done():
+                try:
+                    subtitle_future.result()
+                except Exception as error:
+                    print(f"subtitle_followup_deferred={type(error).__name__}", flush=True)
+                subtitle_future = None
+                next_subtitles = clock() + 600
+
+            plans = []
+            if clock() < deadline:
+                if refresh and clock() >= next_refresh:
+                    films = refresh()
+                    next_refresh = clock() + poll_interval_seconds
+                remaining = limit if continuous else max(0, limit - counts["planned"] - len(pending))
+                capacity = min(len(free_slots), remaining)
+                if capacity:
+                    plans = ordered_plans(pipelines, films, capacity, excluded=reserved)
+                for variant, row in plans:
+                    if clock() >= deadline:
+                        break
+                    slot = free_slots.popleft()
+                    reserved.add((variant, row["film"]["cr_film_id"]))
+                    future = transfers.submit(execute, variant, row, slot)
+                    pending[future] = (variant, row, slot)
+                remaining_minutes = int((deadline - clock()) / 60)
+                if (subtitles and subtitle_future is None and clock() >= next_subtitles
+                        and counts["planned"] > subtitle_count and remaining_minutes > 0):
+                    subtitle_count = counts["planned"]
+                    subtitle_future = maintenance.submit(subtitles, min(10, remaining_minutes))
+
+            active = [*pending, *([subtitle_future] if subtitle_future is not None else [])]
+            if active:
+                wait(active, timeout=poll_interval_seconds, return_when=FIRST_COMPLETED)
+            elif continuous and clock() < deadline:
+                print("upload_queue=empty waiting_for_preparation=true", flush=True)
+                sleep(min(30, max(0, deadline - clock())))
+            else:
+                break
     return counts
 
 
@@ -228,10 +284,11 @@ def main():
     parser.add_argument("--upstream", type=Path)
     parser.add_argument("--limit", type=int, default=2)
     parser.add_argument("--runtime-minutes", type=int, default=45)
+    parser.add_argument("--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "2")))
     parser.add_argument("--persist-git-state", action="store_true")
     args = parser.parse_args()
-    if not 1 <= args.limit <= 200 or not 1 <= args.runtime_minutes <= 330:
-        parser.error("limit must be 1..200; runtime-minutes must be 1..330")
+    if not 1 <= args.limit <= 200 or not 1 <= args.runtime_minutes <= 330 or not 1 <= args.workers <= 6:
+        parser.error("limit must be 1..200; runtime-minutes must be 1..330; workers must be 1..6")
     root = args.root.resolve()
     extra = checkpoint_paths(root, args.mode)
     persist = GitStatePersister(root, extra) if args.persist_git_state else None
@@ -257,7 +314,9 @@ def main():
         run_subtitles(root, source_session(), target_session(), persist, args.limit, args.runtime_minutes)
         return 0
     source, target = (source_session(), target_session()) if args.mode in {"upload", "continuous"} else (None, None)
-    pipelines = {variant: make_pipeline(root, variant, names, source, target, persist=persist)
+    checkpoint_lock = threading.RLock()
+    pipelines = {variant: make_pipeline(root, variant, names, source, target, persist=persist,
+                                       checkpoint_lock=checkpoint_lock)
                  for variant in ("cz", "en")}
     for pipeline in pipelines.values():
         pipeline.state.release_claims_from_other_run(os.environ.get("GITHUB_RUN_ID"))
@@ -268,6 +327,11 @@ def main():
                               "source": row["selected"]["url"],
                               "width": row["selected"]["width"], "height": row["selected"]["height"]}, ensure_ascii=False))
         return 0
+    # Requests sessions are private to a transfer slot; sharing cookie jars
+    # across concurrent logins and uploads is not safe.
+    pairs = [(source, target)]
+    for _ in range(1, args.workers):
+        pairs.append((source_session(), target_session()))
     def refresh():
         if persist:
             for variant, pipeline in pipelines.items():
@@ -278,15 +342,21 @@ def main():
         names.update(refreshed_names)
         return refreshed_films
 
+    subtitle_sessions = None
     def subtitles(remaining_minutes):
-        if any(row.get("upload") for row in pipelines["en"].state.data["films"].values()):
-            run_subtitles(root, source, target, persist, 20, remaining_minutes)
+        nonlocal subtitle_sessions
+        if any(pipelines["en"].state.uploaded(film.cr_film_id) for film in films):
+            if subtitle_sessions is None:
+                subtitle_sessions = (source_session(), target_session())
+            run_subtitles(root, *subtitle_sessions, persist, 20, remaining_minutes,
+                          checkpoint_lock=checkpoint_lock)
 
     continuous = args.mode == "continuous"
     counts = drain_queue(root, pipelines, films, limit=args.limit,
                          runtime_minutes=args.runtime_minutes, persist=persist,
                          continuous=continuous, refresh=refresh if continuous else None,
-                         subtitles=subtitles if continuous else None)
+                         subtitles=subtitles if continuous else None, session_pairs=pairs,
+                         checkpoint_lock=checkpoint_lock)
     print(json.dumps(counts), flush=True)
     return int(counts["failed"] > 0)
 

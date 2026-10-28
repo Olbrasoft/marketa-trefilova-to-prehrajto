@@ -10,6 +10,7 @@ import os
 import re
 from pathlib import Path
 import tempfile
+import threading
 import time
 from urllib.parse import urlsplit
 
@@ -153,21 +154,23 @@ def report_markdown(state: dict) -> str:
 
 class Backfill:
     def __init__(self, target, source_session, root: Path, state_path: Path, report_path: Path,
-                 persist=None, dry_run=False):
+                 persist=None, dry_run=False, checkpoint_lock=None):
         self.target, self.source_session = target, source_session
         self.root, self.state_path, self.report_path = root, state_path, report_path
         self.persist, self.dry_run = persist, dry_run
+        self.checkpoint_lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
         self.deadline = None
         self.state = json.loads(state_path.read_text()) if state_path.exists() else {"schema_version": 1, "videos": {}, "next_page": 0}
         self.sources = source_map(root)
 
     def save(self, publish=True):
-        self.state["updated_at"] = now().isoformat()
-        atomic_write(self.state_path, json.dumps(self.state, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
-        atomic_write(self.report_path, report_markdown(self.state))
-        if self.persist and publish:
-            # An upload intent MUST reach the remote repository before POST.
-            self.persist(self.state_path, "flush")
+        with self.checkpoint_lock:
+            self.state["updated_at"] = now().isoformat()
+            atomic_write(self.state_path, json.dumps(self.state, ensure_ascii=False, indent=2, sort_keys=True) + "\n")
+            atomic_write(self.report_path, report_markdown(self.state))
+            if self.persist and publish:
+                # An upload intent MUST reach the remote repository before POST.
+                self.persist(self.state_path, "flush")
 
     def status(self, row, status, hours=0):
         row.update(status=status, checked_at=now().isoformat(), retry_after=(now() + timedelta(hours=hours)).isoformat())

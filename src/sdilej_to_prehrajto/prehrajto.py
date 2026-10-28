@@ -81,6 +81,7 @@ class RemoteReader:
         total: int,
         *,
         progress_interval: int = 256 * 1024 * 1024,
+        target_video_id: str | None = None,
     ):
         self.response = response
         self.total = total
@@ -88,6 +89,7 @@ class RemoteReader:
         self.started_at = time.monotonic()
         self.last_progress_at = self.started_at
         self.progress_interval = progress_interval
+        self.target_video_id = target_video_id
         self._next_progress = progress_interval
 
     @property
@@ -115,7 +117,8 @@ class RemoteReader:
             percent = self.position * 100 / self.total
             print(
                 f"relay_progress={self.position}/{self.total} "
-                f"percent={percent:.1f} speed_mib_s={speed_mib:.2f}",
+                f"percent={percent:.1f} speed_mib_s={speed_mib:.2f}"
+                + (f" target_video_id={self.target_video_id}" if self.target_video_id else ""),
                 flush=True,
             )
             self._next_progress = self.position + self.progress_interval
@@ -450,7 +453,7 @@ def relay_upload(
         if on_prepared:
             on_prepared(video_id, size)
 
-        reader = RemoteReader(source_response, size)
+        reader = RemoteReader(source_response, size, target_video_id=video_id)
         encoder = MultipartEncoder(
             fields=[
                 ("files", (upload_name, reader, mime_type)),

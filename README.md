@@ -87,7 +87,12 @@ Workflow `marketa-sync` poskytuje společný runtime a ruční operace:
 - `subtitles`: doplní existující české textové titulky z přesného původního zdroje.
 
 Uploady a titulkové operace mají společnou concurrency skupinu; současně
-probíhá nejvýše jeden upload. Příprava má vlastní skupinu a zapisuje oddělené
+běží jeden uploadovací proces se dvěma souběžnými přenosy filmů. Po dokončení
+jednoho přenosu uvolněný worker ihned převezme další film, i když druhý přenos
+ještě běží. Souběh lze nastavit parametrem `--workers` nebo `UPLOAD_WORKERS`
+v rozsahu 1 až 6. Každý worker má vlastní přihlášené relace; česká a původní
+varianta sdílejí jeden společný limit přenosů. Titulky se doplňují samostatnou
+relací na pozadí. Příprava má vlastní skupinu a zapisuje oddělené
 stavové soubory. Plánovací kontrola je nezávislá a nic neposílá na cílový účet.
 Výchozí dílčí dávka jsou dvě varianty; v průběžném režimu jde o velikost jedné
 iterace, nikoli o omezení celého běhu. Uploader mezi dávkami také doplňuje

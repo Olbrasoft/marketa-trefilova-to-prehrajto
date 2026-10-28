@@ -20,10 +20,13 @@ class StateStore:
         path: Path,
         *,
         on_persist: Callable[[Path, str], None] | None = None,
+        checkpoint_lock=None,
     ):
         self.path = path
         self.on_persist = on_persist
-        self._lock = threading.RLock()
+        # Variant files share a Git checkout. Serialize their writes with
+        # checkpoint rebases so another file cannot change during autostash.
+        self._lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
         self.data = self._load()
 
     def _load(self) -> dict[str, Any]:

@@ -8,6 +8,9 @@ on:
       limit:
         type: number
         default: 2
+      workers:
+        type: number
+        default: 2
   workflow_dispatch:
     inputs:
       mode:
@@ -17,6 +20,10 @@ on:
         options: [plan, prepare, upload, continuous, subtitles]
       limit:
         description: "Maximum items per operation"
+        type: number
+        default: 2
+      workers:
+        description: "Simultaneous film transfers (1 to 6)"
         type: number
         default: 2
 
@@ -35,6 +42,7 @@ jobs:
     env:
       MODE: ${{ inputs.mode }}
       BATCH_LIMIT: ${{ inputs.limit || '2' }}
+      UPLOAD_WORKERS: ${{ inputs.workers || '2' }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
@@ -90,14 +98,14 @@ jobs:
       - name: Prepare English and original-language sources
         if: env.MODE == 'prepare'
         run: marketa-sync prepare --limit "$BATCH_LIMIT" --runtime-minutes 40 --persist-git-state
-      - name: Transfer variants with one worker
+      - name: Transfer variants with parallel workers
         if: env.MODE == 'upload'
-        run: marketa-sync upload --limit "$BATCH_LIMIT" --runtime-minutes 240 --persist-git-state
+        run: marketa-sync upload --limit "$BATCH_LIMIT" --workers "$UPLOAD_WORKERS" --runtime-minutes 240 --persist-git-state
       - name: Continuously drain prepared films and follow up subtitles
         if: env.MODE == 'continuous'
         # Stop starting transfers before the runner deadline so a large file
         # can finish before the queued successor takes over.
-        run: marketa-sync continuous --limit "$BATCH_LIMIT" --runtime-minutes 240 --persist-git-state
+        run: marketa-sync continuous --limit "$BATCH_LIMIT" --workers "$UPLOAD_WORKERS" --runtime-minutes 240 --persist-git-state
       - name: Attach subtitles after processing
         if: env.MODE == 'subtitles'
         run: marketa-sync subtitles --limit 20 --runtime-minutes 35 --persist-git-state
