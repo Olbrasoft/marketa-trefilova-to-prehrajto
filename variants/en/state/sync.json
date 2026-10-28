@@ -1564,17 +1564,19 @@
       "attempts": []
     },
     "19393": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35355567",
+          "target_video_id": "30596759",
+          "permanent": false,
+          "attempted_at": "2026-10-28T23:27:01.968741+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35355567",
         "display_name": "Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky",
         "planned_at": "2026-10-28T22:46:23.153185+00:00"
-      },
-      "claim": {
-        "worker_id": "bbfe7e1a58424d588bac4888f90df8be-shard-0",
-        "claimed_at": "2026-10-28T22:46:23.166110+00:00",
-        "lease_expires_at": "2026-10-29T04:46:23.166110+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30596759",
       "prepared": {
@@ -11888,5 +11890,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T22:46:26.273177+00:00"
+  "updated_at": "2026-10-28T23:27:01.968756+00:00"
 }
