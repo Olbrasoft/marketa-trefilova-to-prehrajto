@@ -643,17 +643,19 @@
       }
     },
     "46": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28069228",
+          "target_video_id": "30576490",
+          "permanent": false,
+          "attempted_at": "2026-10-28T03:23:49.686193+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28069228",
         "display_name": "City of God (Cidade de Deus) CZ Dabing",
         "planned_at": "2026-10-28T02:51:41.355538+00:00"
-      },
-      "claim": {
-        "worker_id": "9de3abc6f213456da9c6c648fcc1242b-shard-0",
-        "claimed_at": "2026-10-28T02:51:43.666313+00:00",
-        "lease_expires_at": "2026-10-28T08:51:43.666313+00:00",
-        "run_id": "40621166053"
       },
       "previous_target_id": "30576490",
       "prepared": {
@@ -4990,5 +4992,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T02:51:47.132424+00:00"
+  "updated_at": "2026-10-28T03:23:49.686211+00:00"
 }
