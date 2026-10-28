@@ -1942,17 +1942,19 @@
       "attempts": []
     },
     "11503": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33218305",
+          "target_video_id": "30594655",
+          "permanent": false,
+          "attempted_at": "2026-10-28T21:05:40.285977+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33218305",
         "display_name": "Amadeus CZ Dabing",
         "planned_at": "2026-10-28T20:44:41.838832+00:00"
-      },
-      "claim": {
-        "worker_id": "28c1b200c5c64589ad065b25d96ed3ac-shard-0",
-        "claimed_at": "2026-10-28T20:44:41.885956+00:00",
-        "lease_expires_at": "2026-10-29T02:44:41.885956+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30594655",
       "prepared": {
@@ -11734,5 +11736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T20:53:12.449311+00:00"
+  "updated_at": "2026-10-28T21:05:40.285992+00:00"
 }
