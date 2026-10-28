@@ -70,7 +70,7 @@
       "last_plan": {
         "source_id": "32109264",
         "display_name": "The Godfather CZ Dabing",
-        "planned_at": "2026-10-28T18:52:08.991674+00:00"
+        "planned_at": "2026-10-28T20:43:27.986650+00:00"
       },
       "previous_target_id": "30568614",
       "prepared": {
@@ -78,6 +78,12 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
+      },
+      "claim": {
+        "worker_id": "2dd38c9e27934ef18bdd64469d815bca-shard-0",
+        "claimed_at": "2026-10-28T20:43:28.060029+00:00",
+        "lease_expires_at": "2026-10-29T02:43:28.060029+00:00",
+        "run_id": "40765552834"
       }
     },
     "9": {
@@ -1452,17 +1458,23 @@
           "attempted_at": "2026-10-28T18:52:07.511940+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27780896",
-        "display_name": "Spider-Man: Across the Spider-Verse CZ Dabing",
-        "planned_at": "2026-10-28T20:43:25.423802+00:00"
-      },
       "previous_target_id": "30581072",
-      "prepared": {
+      "upload": {
         "target_video_id": "30581072",
+        "display_name": "Spider-Man: Across the Spider-Verse CZ Dabing",
+        "source_id": "27780896",
+        "source_url": "https://sdilej.cz/27780896/spider-man-napric-paralelnimy-svety-2023-cz.mkv",
+        "source_filename": "Spider_Man_Napric_paralelnimy_svety_2023_CZ.mkv",
         "size_bytes": 9800000000,
-        "prepared_at": "2026-10-28T07:42:21.456191+00:00",
-        "relay_source_id": "27780896"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9195018410682678,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/spider-man-across-the-spider-verse-cz-dabing-mkv/d01577159d8d2440",
+        "uploaded_at": "2026-10-28T20:43:28.539600+00:00"
       }
     },
     "37208": {
@@ -1909,7 +1921,7 @@
       "last_plan": {
         "source_id": "33218305",
         "display_name": "Amadeus CZ Dabing",
-        "planned_at": "2026-10-28T20:43:25.448103+00:00"
+        "planned_at": "2026-10-28T20:43:28.010181+00:00"
       }
     },
     "25321": {
@@ -11684,5 +11696,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T20:43:25.448121+00:00"
+  "updated_at": "2026-10-28T20:43:28.539616+00:00"
 }
