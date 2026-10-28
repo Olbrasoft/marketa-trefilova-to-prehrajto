@@ -1965,11 +1965,19 @@
       }
     },
     "25321": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28154591",
+          "reason": "Request failed for https://sdilej.cz/28154591/zivoty-tech-druhych-2006--794-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T21:06:30.226327+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28154591",
         "display_name": "The Lives of Others CZ Dabing",
-        "planned_at": "2026-10-28T20:53:12.449294+00:00"
+        "planned_at": "2026-10-28T21:05:44.613676+00:00"
       }
     },
     "20746": {
@@ -11736,5 +11744,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:05:40.285992+00:00"
+  "updated_at": "2026-10-28T21:06:30.226347+00:00"
 }
