@@ -1208,17 +1208,19 @@
       "attempts": []
     },
     "75": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28655217",
+          "target_video_id": "30592690",
+          "permanent": false,
+          "attempted_at": "2026-10-28T20:06:21.363933+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28655217",
         "display_name": "Dune: Part Two CZ Titulky",
         "planned_at": "2026-10-28T18:53:22.546562+00:00"
-      },
-      "claim": {
-        "worker_id": "bc9613079e6f4f2d894b357b35576b99-shard-0",
-        "claimed_at": "2026-10-28T18:53:22.559570+00:00",
-        "lease_expires_at": "2026-10-29T00:53:22.559570+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30592690",
       "prepared": {
@@ -10424,5 +10426,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T19:03:24.780585+00:00"
+  "updated_at": "2026-10-28T20:06:21.363948+00:00"
 }
