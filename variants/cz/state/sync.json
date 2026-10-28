@@ -1758,11 +1758,19 @@
       }
     },
     "81": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30994248",
+          "reason": "Request failed for https://sdilej.cz/30994248/votrelec-2-vetrelci-aliens-1986-en-cz-dabing-uhdr-dv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T18:33:25.371259+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30994248",
         "display_name": "Aliens CZ Dabing",
-        "planned_at": "2026-10-28T18:23:05.341685+00:00"
+        "planned_at": "2026-10-28T18:32:39.937257+00:00"
       }
     },
     "84": {
@@ -10962,5 +10970,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:32:34.675377+00:00"
+  "updated_at": "2026-10-28T18:33:25.371282+00:00"
 }
