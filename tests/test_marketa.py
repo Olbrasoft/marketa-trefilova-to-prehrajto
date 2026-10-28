@@ -1,4 +1,5 @@
 import json
+import threading
 from dataclasses import replace
 from pathlib import Path
 from types import SimpleNamespace
@@ -436,3 +437,88 @@ def test_existing_verified_english_source_remains_uploadable_after_policy_upgrad
     row["match_evidence"]["marketa"]["policy"] = LEGACY_POLICY
     pipeline.selected_sources.record(row)
     assert pipeline.selected_sources.candidate(1).source_id == "123"
+
+
+def test_both_variants_can_transfer_concurrently_with_private_sessions(tmp_path, monkeypatch):
+    cz, film = seed_source(tmp_path, "cz", 1, candidate(language="cs"))
+    en, _ = seed_source(tmp_path, "en", 1, candidate(subtitles=True))
+    barrier = threading.Barrier(2)
+    sessions = []
+    lock = threading.Lock()
+    for variant, pipeline in (("cz", cz), ("en", en)):
+        def execute(plan, *, session_pairs, pipeline=pipeline, variant=variant):
+            with lock:
+                sessions.append((variant, session_pairs[0]))
+            barrier.wait(timeout=3)
+            pipeline.state.record_success(1, {"target_video_id": variant + "777"})
+        monkeypatch.setattr(pipeline, "execute", execute)
+    counts = drain_queue(tmp_path, {"cz": cz, "en": en}, [film], limit=2, runtime_minutes=1,
+                         session_pairs=[("source-1", "target-1"), ("source-2", "target-2")])
+    assert counts["uploaded"] == 2
+    assert {pair for _, pair in sessions} == {("source-1", "target-1"), ("source-2", "target-2")}
+
+
+def test_fast_slot_refills_before_a_slow_transfer_finishes(tmp_path, monkeypatch):
+    pipeline, first = seed_source(tmp_path, "cz", 1, candidate(language="cs"))
+    films = [replace(first, cr_film_id=i, priority_rank=i) for i in (1, 2, 3)]
+    pipeline.name_builder = lambda film, _: f"Film {film.cr_film_id} CZ Dabing"
+    for film in films[1:]:
+        pipeline._record_verified_source(film, candidate(str(film.cr_film_id), language="cs"), "Film")
+    third_started = threading.Event()
+    lock = threading.Lock()
+    calls, completed, sessions = [], [], {}
+    active = maximum_active = 0
+    def execute(plan, *, session_pairs):
+        nonlocal active, maximum_active
+        film_id = plan[0]["film"]["cr_film_id"]
+        with lock:
+            calls.append(film_id)
+            sessions[film_id] = session_pairs[0]
+            active += 1
+            maximum_active = max(maximum_active, active)
+        try:
+            if film_id == 1:
+                assert third_started.wait(3), "A slow transfer blocked the free slot"
+            elif film_id == 3:
+                third_started.set()
+            pipeline.state.record_success(film_id, {"target_video_id": str(700 + film_id)})
+            with lock:
+                completed.append(film_id)
+        finally:
+            with lock:
+                active -= 1
+    monkeypatch.setattr(pipeline, "execute", execute)
+    counts = drain_queue(tmp_path, {"cz": pipeline}, films, limit=3, runtime_minutes=1,
+                         session_pairs=[("source-1", "target-1"), ("source-2", "target-2")])
+    assert sorted(calls) == [1, 2, 3]
+    assert maximum_active == 2
+    assert completed.index(2) < completed.index(1)
+    assert sessions[2] == sessions[3] != sessions[1]
+    assert counts["uploaded"] == 3
+
+
+def test_idle_slot_polls_new_sources_while_another_transfer_is_running(tmp_path, monkeypatch):
+    pipeline, first = seed_source(tmp_path, "cz", 1, candidate(language="cs"))
+    second = replace(first, cr_film_id=2, priority_rank=2)
+    pipeline.name_builder = lambda film, _: f"Film {film.cr_film_id} CZ Dabing"
+    first_started, second_started = threading.Event(), threading.Event()
+    calls = []
+    def refresh():
+        if first_started.is_set() and not pipeline.selected_sources.candidate(2):
+            pipeline._record_verified_source(second, candidate("456", language="cs"), "Film 2 CZ Dabing")
+        return [first, second]
+    def execute(plan, *, session_pairs):
+        film_id = plan[0]["film"]["cr_film_id"]
+        calls.append(film_id)
+        if film_id == 1:
+            first_started.set()
+            assert second_started.wait(3), "New sources were not polled during the slow transfer"
+        else:
+            second_started.set()
+        pipeline.state.record_success(film_id, {"target_video_id": str(700 + film_id)})
+    monkeypatch.setattr(pipeline, "execute", execute)
+    counts = drain_queue(tmp_path, {"cz": pipeline}, [first, second], limit=2, runtime_minutes=1,
+                         refresh=refresh, poll_interval_seconds=0.01,
+                         session_pairs=[("source-1", "target-1"), ("source-2", "target-2")])
+    assert sorted(calls) == [1, 2]
+    assert counts["uploaded"] == 2
