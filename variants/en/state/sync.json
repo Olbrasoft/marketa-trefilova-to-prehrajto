@@ -1551,17 +1551,19 @@
       "attempts": []
     },
     "105": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33794368",
+          "target_video_id": "30596090",
+          "permanent": false,
+          "attempted_at": "2026-10-28T23:38:07.818523+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33794368",
         "display_name": "Joker CZ Titulky",
         "planned_at": "2026-10-28T22:01:57.588550+00:00"
-      },
-      "claim": {
-        "worker_id": "2b04b5aa53ea4979b2285c06b02e6c16-shard-0",
-        "claimed_at": "2026-10-28T22:01:57.603284+00:00",
-        "lease_expires_at": "2026-10-29T04:01:57.603284+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30596090",
       "prepared": {
@@ -12213,5 +12215,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T23:35:14.709246+00:00"
+  "updated_at": "2026-10-28T23:38:07.818539+00:00"
 }
