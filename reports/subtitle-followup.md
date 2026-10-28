@@ -19,3 +19,4 @@ Attach subtitles only after target processing has finished.
 | The Silence of the Lambs CZ Titulky | 30586048 | https://sdilej.cz/32633356/the-silence-of-the-lambs-mlceni-jehnatek-1991-2160p-cz-ac3-5.1-en-eac3-5.1.mkv | Extract Czech track from exact source after processing |
 | Saving Private Ryan CZ Titulky | 30586078 | https://sdilej.cz/32919223/zachrante-vojina-ryana-1998-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
 | The Green Mile CZ Titulky | 30587002 | https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv | Extract Czech track from exact source after processing |
+| Seven Samurai (Shichinin no samurai) CZ Titulky | 30588171 | https://sdilej.cz/20966262/seven-samurai-criterion-1954-bluray-1080p-x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
