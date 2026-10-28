@@ -1121,17 +1121,19 @@
       }
     },
     "69": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32975076",
+          "target_video_id": "30580272",
+          "permanent": false,
+          "attempted_at": "2026-10-28T07:08:33.053210+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32975076",
         "display_name": "The Pianist CZ Dabing",
         "planned_at": "2026-10-28T06:57:59.269304+00:00"
-      },
-      "claim": {
-        "worker_id": "48f8783a56684f5193641213e1a2d60d-shard-0",
-        "claimed_at": "2026-10-28T06:58:01.513928+00:00",
-        "lease_expires_at": "2026-10-28T12:58:01.513928+00:00",
-        "run_id": "40644737040"
       },
       "previous_target_id": "30580272",
       "prepared": {
@@ -6584,5 +6586,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T06:58:05.241758+00:00"
+  "updated_at": "2026-10-28T07:08:33.053228+00:00"
 }
