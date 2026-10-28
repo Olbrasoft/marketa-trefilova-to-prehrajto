@@ -43,3 +43,4 @@ Attach subtitles only after target processing has finished.
 | I Swear CZ Titulky | 30595748 | https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Joker CZ Titulky | 30596090 | https://sdilej.cz/33794368/joker-2019-.mkv | Extract Czech track from exact source after processing |
 | Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky | 30596759 | https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv | Extract Czech track from exact source after processing |
+| Eternal Sunshine of the Spotless Mind CZ Titulky | 30597712 | https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
