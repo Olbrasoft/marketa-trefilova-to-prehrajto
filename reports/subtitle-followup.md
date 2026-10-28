@@ -25,3 +25,4 @@ Attach subtitles only after target processing has finished.
 | The Prestige CZ Titulky | 30589328 | https://sdilej.cz/34429623/the-prestige-2006-.mkv | Extract Czech track from exact source after processing |
 | The Departed CZ Titulky | 30589626 | https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
 | American History X CZ Titulky | 30589993 | https://sdilej.cz/28055213/kult-hakoveho-krize-cz.mkv | Extract Czech track from exact source after processing |
+| The Usual Suspects CZ Titulky | 30590050 | https://sdilej.cz/35170968/the.usual.suspects.1995.open.matte.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
