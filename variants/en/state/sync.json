@@ -391,17 +391,19 @@
       "attempts": []
     },
     "41": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23150049",
+          "target_video_id": "30585843",
+          "permanent": false,
+          "attempted_at": "2026-10-28T12:29:06.286160+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23150049",
         "display_name": "Seven (Se7en) CZ Titulky",
         "planned_at": "2026-10-28T12:15:09.416460+00:00"
-      },
-      "claim": {
-        "worker_id": "5730af12fb8940c9abe0b547c258c553-shard-0",
-        "claimed_at": "2026-10-28T12:15:09.426275+00:00",
-        "lease_expires_at": "2026-10-28T18:15:09.426275+00:00",
-        "run_id": "40671831072"
       },
       "previous_target_id": "30585843",
       "prepared": {
@@ -8015,5 +8017,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T12:26:55.901890+00:00"
+  "updated_at": "2026-10-28T12:29:06.286198+00:00"
 }
