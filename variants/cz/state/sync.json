@@ -1209,17 +1209,19 @@
       }
     },
     "55": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27780896",
+          "target_video_id": "30581072",
+          "permanent": false,
+          "attempted_at": "2026-10-28T07:55:22.812134+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27780896",
         "display_name": "Spider-Man: Across the Spider-Verse CZ Dabing",
         "planned_at": "2026-10-28T07:42:16.176092+00:00"
-      },
-      "claim": {
-        "worker_id": "a405fda3f24e45428952fbe54a283bf8-shard-0",
-        "claimed_at": "2026-10-28T07:42:18.063620+00:00",
-        "lease_expires_at": "2026-10-28T13:42:18.063620+00:00",
-        "run_id": "40644737040"
       },
       "previous_target_id": "30581072",
       "prepared": {
@@ -6963,5 +6965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T07:42:21.456208+00:00"
+  "updated_at": "2026-10-28T07:55:22.812150+00:00"
 }
