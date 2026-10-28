@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-28T22:04:22.782416+00:00
+Poslední aktualizace (UTC): 2026-10-28T22:05:12.003331+00:00
 
 Zkontrolováno videí: 6. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 4, `pending`: 1, `source_czech_full_text_unsupported`: 1
+Stavy: `already_has_czech`: 4, `source_czech_full_text_unsupported`: 1, `source_unavailable`: 1
 
 ## Poslední dávka
 
@@ -22,6 +22,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | source_unavailable | 2026-10-28T22:05:12.002059+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
