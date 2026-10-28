@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+from collections import deque
 from datetime import datetime, timedelta, timezone
 import json
 import os
@@ -82,9 +83,17 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
     scanned = json.loads(scan_path.read_text()) if scan_path.exists() else {}
     attempted = 0
     deadline = time.monotonic() + runtime_minutes * 60
-    # A pair of repeatedly failing early films used to consume every hourly
-    # run. Prepare fresh films first, then revisit the oldest due attempts.
-    for film in sorted(films, key=lambda film: scanned.get(str(film.cr_film_id), {}).get("checked_at", "")):
+    # Keep fresh films moving without starving resumable older scans when
+    # title resolution continuously introduces more films into the catalog.
+    fresh = deque(film for film in films if str(film.cr_film_id) not in scanned)
+    retries = deque(sorted((film for film in films if str(film.cr_film_id) in scanned),
+                           key=lambda film: scanned[str(film.cr_film_id)].get("checked_at", "")))
+    ordered = []
+    while fresh or retries:
+        ordered.extend(fresh.popleft() for _ in range(min(4, len(fresh))))
+        if retries:
+            ordered.append(retries.popleft())
+    for film in ordered:
         if attempted >= limit or time.monotonic() >= deadline:
             break
         key = str(film.cr_film_id)

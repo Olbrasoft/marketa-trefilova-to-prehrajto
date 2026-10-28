@@ -69,8 +69,9 @@ Automatika má dva nezávislé procesy, zapnuté proměnnou `AUTOMATION_ENABLED=
   Prázdnou frontu znovu kontroluje po 30 sekundách. Hodinové starty zajistí
   navázání dalšího běhu po skončení runneru, nikoli přestávku mezi dávkami.
 - `prepare-sources`: samostatný hodinový běh doplňuje názvy, české zdroje
-  a vyhledává anglické a původní varianty. Za nejvýše 40 minut připravuje až
-  200 filmů; dosud nezkoušené filmy mají přednost před opakováním chyb.
+  a vyhledává anglické a původní varianty. S časovým rozpočtem 40 minut připravuje
+  až 200 filmů; po čtyřech dosud nezkoušených filmech zařadí nejstarší opakovanou
+  kontrolu, aby průběžně dokončoval i dříve přerušená hledání.
   Každý film má dílčí časový limit a dokončené kontroly zdrojů se ukládají.
   Chybný kandidát nezastaví kontrolu dalších kandidátů stejného filmu.
   Jeho kontrola zdrojů nezdržuje uploader.

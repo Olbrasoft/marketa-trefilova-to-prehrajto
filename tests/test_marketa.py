@@ -413,19 +413,20 @@ def test_original_language_metadata_is_filled_even_when_original_title_exists(tm
     assert titles.fill_originals([film], 10) == 0
 
 
-def test_preparation_reaches_fresh_films_before_retrying_failed_early_films(tmp_path, monkeypatch):
+@pytest.mark.parametrize("limit,expected", [(2, [3, 4]), (7, [3, 4, 5, 6, 1, 7, 2])])
+def test_preparation_balances_fresh_films_and_resumable_early_failures(tmp_path, monkeypatch, limit, expected):
     (tmp_path / "config").mkdir()
     (tmp_path / "config/english-titles.json").write_text('{}')
     state_path = tmp_path / "variants/en/state/discovery.json"
     state_path.parent.mkdir(parents=True)
     state_path.write_text(json.dumps({str(i): {"checked_at": "2000-01-01T00:00:00+00:00", "failures": 9} for i in (1, 2)}))
     first = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
-    films = [replace(first, cr_film_id=i) for i in (1, 2, 3, 4)]
+    films = [replace(first, cr_film_id=i) for i in range(1, 8)]
     calls = []
     monkeypatch.setattr("marketa_sync.cli.source_session", lambda: None)
     monkeypatch.setattr(EnglishProvider, "discover", lambda self, film: calls.append(film.cr_film_id) or [])
-    prepare(tmp_path, films, {i: "The Film" for i in (1, 2, 3, 4)}, 2, None, 40)
-    assert calls == [3, 4]
+    prepare(tmp_path, films, {i: "The Film" for i in range(1, 8)}, limit, None, 40)
+    assert calls == expected
 
 
 def test_existing_verified_english_source_remains_uploadable_after_policy_upgrade(tmp_path):
