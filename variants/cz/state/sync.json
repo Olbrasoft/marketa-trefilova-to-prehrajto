@@ -1817,11 +1817,19 @@
       }
     },
     "75": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29814029",
+          "reason": "Request failed for https://sdilej.cz/29814029/duna-cast-druha-2024-cz-dabing-4k-2160p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T18:53:21.141779+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29814029",
         "display_name": "Dune: Part Two CZ Dabing",
-        "planned_at": "2026-10-28T18:52:32.152764+00:00"
+        "planned_at": "2026-10-28T18:52:35.563301+00:00"
       }
     },
     "86": {
@@ -11015,5 +11023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:52:32.152777+00:00"
+  "updated_at": "2026-10-28T18:53:21.141797+00:00"
 }
