@@ -33,3 +33,4 @@ Attach subtitles only after target processing has finished.
 | Grave of the Fireflies (Hotaru no haka) CZ Titulky | 30590877 | https://sdilej.cz/21922146/hrob-svetlusek-bluray-1988-cz-tit.mkv | Complete: Czech subtitles verified |
 | The Shining CZ Titulky | 30592125 | https://sdilej.cz/26233632/the-shining-1980-.mkv | Extract Czech track from exact source after processing |
 | Alien CZ Titulky | 30592207 | https://sdilej.cz/34445474/vetrelec-romulus.mkv | Extract Czech track from exact source after processing |
+| Dune: Part Two CZ Titulky | 30592690 | https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
