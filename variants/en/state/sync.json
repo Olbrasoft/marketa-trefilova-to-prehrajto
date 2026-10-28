@@ -599,17 +599,19 @@
       "attempts": []
     },
     "68": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33138453",
+          "target_video_id": "30588424",
+          "permanent": false,
+          "attempted_at": "2026-10-28T15:27:26.263786+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33138453",
         "display_name": "Django Unchained CZ Titulky",
         "planned_at": "2026-10-28T14:32:34.277848+00:00"
-      },
-      "claim": {
-        "worker_id": "e913b26bdd254705acc15048a29ea121-shard-0",
-        "claimed_at": "2026-10-28T14:32:34.285338+00:00",
-        "lease_expires_at": "2026-10-28T20:32:34.285338+00:00",
-        "run_id": "40671831072"
       },
       "previous_target_id": "30588424",
       "prepared": {
@@ -8748,5 +8750,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T15:13:24.587749+00:00"
+  "updated_at": "2026-10-28T15:27:26.263810+00:00"
 }
