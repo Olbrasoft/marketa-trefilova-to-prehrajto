@@ -1091,17 +1091,19 @@
       }
     },
     "59": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33179354",
+          "target_video_id": "30580039",
+          "permanent": false,
+          "attempted_at": "2026-10-28T06:56:58.918142+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33179354",
         "display_name": "The Intouchables (Intouchables) CZ Dabing",
         "planned_at": "2026-10-28T06:45:33.746274+00:00"
-      },
-      "claim": {
-        "worker_id": "ea250c4ad3dc42c998a3c8c4580be3a6-shard-0",
-        "claimed_at": "2026-10-28T06:45:36.081639+00:00",
-        "lease_expires_at": "2026-10-28T12:45:36.081639+00:00",
-        "run_id": "40621166053"
       },
       "previous_target_id": "30580039",
       "prepared": {
@@ -6557,5 +6559,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T06:45:39.890777+00:00"
+  "updated_at": "2026-10-28T06:56:58.918158+00:00"
 }
