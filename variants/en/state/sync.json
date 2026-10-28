@@ -19,17 +19,19 @@
       "attempts": []
     },
     "13": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28589101",
+          "target_video_id": "30580910",
+          "permanent": false,
+          "attempted_at": "2026-10-28T07:42:12.583232+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28589101",
         "display_name": "The Godfather Part II CZ Titulky",
         "planned_at": "2026-10-28T07:35:40.119144+00:00"
-      },
-      "claim": {
-        "worker_id": "fc210b97e2b440cbbc0af311f5baaf51-shard-0",
-        "claimed_at": "2026-10-28T07:35:42.466658+00:00",
-        "lease_expires_at": "2026-10-28T13:35:42.466658+00:00",
-        "run_id": "40644737040"
       },
       "previous_target_id": "30580910",
       "prepared": {
@@ -5906,5 +5908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T07:35:45.666161+00:00"
+  "updated_at": "2026-10-28T07:42:12.583248+00:00"
 }
