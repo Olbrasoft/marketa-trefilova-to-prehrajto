@@ -1577,17 +1577,19 @@
       }
     },
     "90": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33204499",
+          "target_video_id": "30590965",
+          "permanent": false,
+          "attempted_at": "2026-10-28T17:11:01.677035+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33204499",
         "display_name": "Inglourious Basterds CZ Dabing",
         "planned_at": "2026-10-28T17:05:49.492194+00:00"
-      },
-      "claim": {
-        "worker_id": "c4e553b22d644c6c96bcb90cbb002f3b-shard-0",
-        "claimed_at": "2026-10-28T17:05:49.528467+00:00",
-        "lease_expires_at": "2026-10-28T23:05:49.528467+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30590965",
       "prepared": {
@@ -10260,5 +10262,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T17:10:01.956241+00:00"
+  "updated_at": "2026-10-28T17:11:01.677049+00:00"
 }
