@@ -757,17 +757,19 @@
       "attempts": []
     },
     "65": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28055213",
+          "target_video_id": "30589993",
+          "permanent": false,
+          "attempted_at": "2026-10-28T16:19:12.320915+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28055213",
         "display_name": "American History X CZ Titulky",
         "planned_at": "2026-10-28T16:15:47.529784+00:00"
-      },
-      "claim": {
-        "worker_id": "c6630c2ec9b244c99a2e87bc78640890-shard-0",
-        "claimed_at": "2026-10-28T16:15:47.540723+00:00",
-        "lease_expires_at": "2026-10-28T22:15:47.540723+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30589993",
       "prepared": {
@@ -9185,5 +9187,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:16:04.728906+00:00"
+  "updated_at": "2026-10-28T16:19:12.320930+00:00"
 }
