@@ -6,8 +6,8 @@ from types import SimpleNamespace
 import pytest
 
 from marketa_sync.catalog import EnglishTitles, VariantSourceStore, combined_title, import_sources, named_films
-from marketa_sync.cli import make_pipeline, ordered_plans, followup_report, drain_queue, checkpoint_paths
-from marketa_sync.discovery import choose_english, display_name, POLICY, EnglishProvider
+from marketa_sync.cli import make_pipeline, ordered_plans, followup_report, drain_queue, checkpoint_paths, prepare
+from marketa_sync.discovery import choose_english, display_name, POLICY, LEGACY_POLICY, EnglishProvider
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.prehrajto import _uploaded_video_id_from_html, login, PrehrajtoError
 from sdilej_to_prehrajto.state import StateStore
@@ -316,3 +316,121 @@ def test_producer_and_uploader_checkpoint_files_do_not_overlap(tmp_path):
     assert tmp_path / "state/english-titles.json" in producer
     assert tmp_path / "variants/cz/state/sync.json" in uploader
     assert tmp_path / "variants/en/plans/subtitle-followup.jsonl" in uploader
+
+
+@pytest.mark.parametrize("original,tag,detected,accepted", [
+    ("ja", "jpn", "ja", True), ("de", "ger", "de", True),
+    ("ja", "eng", "en", True), ("ja", "ger", "de", False),
+    (None, "ger", "de", False), ("ja", "ces", "cs", False),
+])
+def test_original_audio_is_verified_against_the_movie_language(monkeypatch, original, tag, detected, accepted):
+    film = Film(1, "film", "The Film", "The Film", 2000, 120, original)
+    detector = SimpleNamespace(detect_consensus=lambda *args, **kwargs: (detected, 0.99))
+    payload = {"format": {"duration": "7200"}, "streams": [
+        {"codec_type": "video", "width": 1920, "height": 1080, "codec_name": "h264"},
+        {"codec_type": "audio", "tags": {"language": tag}},
+        {"codec_type": "subtitle", "index": 2, "codec_name": "subrip", "tags": {"language": "ces"}},
+    ]}
+    provider = EnglishProvider(None, detector, english_titles={1: "The Film"}, probe=lambda _: payload)
+    monkeypatch.setattr(provider, "_get", lambda _: SimpleNamespace(text="<html></html>"))
+    monkeypatch.setattr("marketa_sync.discovery.parse_detail_html", lambda *_: candidate())
+    result = provider.verify_english(film, candidate())
+    assert (result is not None) == accepted
+    if accepted:
+        assert result.audio_language == detected
+        assert display_name("The Film", "en", result) == "The Film CZ Titulky"
+        assert choose_english([result]) is result
+
+
+def test_broken_candidate_does_not_prevent_verifying_and_resuming_later_candidates(tmp_path, monkeypatch):
+    from sdilej_to_prehrajto.sdilej import SdilejError
+    film = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
+    cache_path = tmp_path / "cache.json"
+    provider = EnglishProvider(None, None, english_titles={1: "The Film"}, cache_path=cache_path)
+    broken, good = candidate("broken", width=3840), candidate("good")
+    monkeypatch.setattr(provider, "search_by_quality", lambda _: [broken, good])
+    calls = []
+    def verify(_film, item):
+        calls.append(item.source_id)
+        if item.source_id == "broken":
+            raise SdilejError("unavailable https://example.test/private-token")
+        return item
+    monkeypatch.setattr(provider, "verify_english", verify)
+    with pytest.raises(SdilejError):
+        provider.discover(film)
+    assert calls == ["broken", "good"]
+    assert "private-token" not in cache_path.read_text()
+    assert provider.cache["1"]["good"]["candidate"]["source_id"] == "good"
+    calls.clear()
+    with pytest.raises(SdilejError):
+        provider.discover(film)
+    assert calls == []
+    provider.cache["1"]["broken"]["retry_after"] = "2000-01-01T00:00:00+00:00"
+    monkeypatch.setattr(provider, "verify_english", lambda *_: None)
+    assert provider.discover(film)[0].source_id == "good"
+
+
+def test_verified_subtitled_source_remains_usable_when_another_candidate_fails(monkeypatch):
+    from sdilej_to_prehrajto.sdilej import SdilejError
+    film = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
+    provider = EnglishProvider(None, None, english_titles={1: "The Film"})
+    broken, good = candidate("broken", width=3840), candidate("good", subtitles=True)
+    monkeypatch.setattr(provider, "search_by_quality", lambda _: [broken, good])
+    def verify(_film, item):
+        if item.source_id == "broken":
+            raise SdilejError("unavailable")
+        return item
+    monkeypatch.setattr(provider, "verify_english", verify)
+    assert provider.discover(film)[0].source_id == "good"
+
+
+def test_cached_subtitles_remain_available_when_new_verification_exhausts_the_deadline(monkeypatch):
+    from sdilej_to_prehrajto.sdilej import SdilejError
+    clock = FakeClock()
+    monkeypatch.setattr("marketa_sync.discovery.time.monotonic", clock)
+    film = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
+    provider = EnglishProvider(None, None, english_titles={1: "The Film"}, discovery_timeout_seconds=1)
+    broken, good = candidate("broken", width=3840), candidate("good", subtitles=True)
+    provider.cache = {"1": {"good": {"policy": POLICY, "original_language": "en", "candidate": good.to_dict()}}}
+    monkeypatch.setattr(provider, "search_by_quality", lambda _: [broken, good])
+    def verify(*_):
+        clock.seconds = 2
+        raise SdilejError("unavailable")
+    monkeypatch.setattr(provider, "verify_english", verify)
+    assert provider.discover(film)[0].source_id == "good"
+
+
+def test_original_language_metadata_is_filled_even_when_original_title_exists(tmp_path, monkeypatch):
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config/english-titles.json").write_text(json.dumps({"1": {"title": "The Film"}}))
+    monkeypatch.setenv("TMDB_API_KEY", "test-secret")
+    data = {"id": 12, "imdb_id": "tt0000012", "original_title": "Original Film", "original_language": "ja"}
+    session = SimpleNamespace(headers={}, get=lambda *args, **kwargs: SimpleNamespace(raise_for_status=lambda: None, json=lambda: data))
+    titles = EnglishTitles(tmp_path, session=session)
+    film = {"cr_film_id": 1, "title": "The Film", "original_title": "Original Film", "tmdb_id": 12, "imdb_id": "tt0000012"}
+    assert titles.fill_originals([film], 10) == 1
+    assert named_films([film], titles)[0][0].original_language == "ja"
+    assert titles.fill_originals([film], 10) == 0
+
+
+def test_preparation_reaches_fresh_films_before_retrying_failed_early_films(tmp_path, monkeypatch):
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config/english-titles.json").write_text('{}')
+    state_path = tmp_path / "variants/en/state/discovery.json"
+    state_path.parent.mkdir(parents=True)
+    state_path.write_text(json.dumps({str(i): {"checked_at": "2000-01-01T00:00:00+00:00", "failures": 9} for i in (1, 2)}))
+    first = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
+    films = [replace(first, cr_film_id=i) for i in (1, 2, 3, 4)]
+    calls = []
+    monkeypatch.setattr("marketa_sync.cli.source_session", lambda: None)
+    monkeypatch.setattr(EnglishProvider, "discover", lambda self, film: calls.append(film.cr_film_id) or [])
+    prepare(tmp_path, films, {i: "The Film" for i in (1, 2, 3, 4)}, 2, None, 40)
+    assert calls == [3, 4]
+
+
+def test_existing_verified_english_source_remains_uploadable_after_policy_upgrade(tmp_path):
+    pipeline, film = seed_source(tmp_path, "en", 1, candidate(subtitles=True))
+    row = pipeline.selected_sources.get(1)
+    row["match_evidence"]["marketa"]["policy"] = LEGACY_POLICY
+    pipeline.selected_sources.record(row)
+    assert pipeline.selected_sources.candidate(1).source_id == "123"

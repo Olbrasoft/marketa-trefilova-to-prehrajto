@@ -12,8 +12,8 @@ Na jeden film nejvýše dvě varianty, každá s vlastním stavem a cílovým ID
 | Zdroj | Název na Přehraj.to |
 | --- | --- |
 | Ověřený český zvuk | The Shawshank Redemption CZ Dabing |
-| Ověřený anglický zvuk a doložené české titulky | The Shawshank Redemption CZ Titulky |
-| Anglický zvuk, české titulky nenalezeny | The Shawshank Redemption |
+| Ověřený anglický nebo původní zvuk a doložené české titulky | The Shawshank Redemption CZ Titulky |
+| Anglický nebo původní zvuk, české titulky nenalezeny | The Shawshank Redemption |
 
 Pokud se anglický a původní název liší, uvedou se oba, v pořadí
 `Anglický název (Původní název)`. Jazykový dodatek je až na konci, například
@@ -22,12 +22,17 @@ Shodné názvy, včetně rozdílů pouze ve velikosti písmen, se neopakují.
 Každý název se při hledání zdrojů ověřuje samostatně; sloučený název slouží
 pro pojmenování cílového videa.
 
-Anglická varianta s českými titulky má přednost i před vyšším rozlišením bez
-titulků. Bez titulků se vybírá pouze po dokončení kontroly nalezených kandidátů.
+Varianta v angličtině nebo původním znění s českými titulky má přednost i před
+vyšším rozlišením bez titulků. Bez titulků se vybírá pouze po dokončení kontroly
+nalezených kandidátů.
 Uvnitř této preference se vybírá nejvyšší ověřené rozlišení a následně nejmenší
 soubor splňující původní minimální datový tok pro daný kodek. Chyba při kontrole
-kandidáta není důkaz, že titulkový zdroj neexistuje; hledání se odloží a výsledky
-dokončených kontrol se uchovají pro další běh.
+kandidáta není důkaz, že titulkový zdroj neexistuje; výběr bez titulků se odloží
+a výsledky dokončených kontrol se uchovají pro další běh. Pokud už byl ověřen
+titulkový zdroj, lze použít nejlepší z ověřených titulkových zdrojů i při chybě
+jiného kandidáta.
+Původní jazyk se přebírá z ověřených metadat filmu, nikdy se neodhaduje podle
+názvu souboru. Pokud údaj chybí, druhá varianta zatím přijímá pouze angličtinu.
 
 České zdroje se znovu nevyhledávají. Import používá
 `Olbrasoft/sdilej-to-prehrajto`: doložený zdroj dokončeného uploadu má přednost
@@ -64,7 +69,11 @@ Automatika má dva nezávislé procesy, zapnuté proměnnou `AUTOMATION_ENABLED=
   Prázdnou frontu znovu kontroluje po 30 sekundách. Hodinové starty zajistí
   navázání dalšího běhu po skončení runneru, nikoli přestávku mezi dávkami.
 - `prepare-sources`: samostatný hodinový běh doplňuje názvy, české zdroje
-  a vyhledává anglické varianty. Jeho kontrola zdrojů nezdržuje uploader.
+  a vyhledává anglické a původní varianty. Za nejvýše 40 minut připravuje až
+  200 filmů; dosud nezkoušené filmy mají přednost před opakováním chyb.
+  Každý film má dílčí časový limit a dokončené kontroly zdrojů se ukládají.
+  Chybný kandidát nezastaví kontrolu dalších kandidátů stejného filmu.
+  Jeho kontrola zdrojů nezdržuje uploader.
 
 Workflow `marketa-sync` poskytuje společný runtime a ruční operace:
 

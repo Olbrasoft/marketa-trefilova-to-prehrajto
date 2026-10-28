@@ -1,23 +1,45 @@
-"""Select English audio, preferring verified Czech subtitles over resolution."""
+"""Select English or original audio, preferring verified Czech subtitles."""
 from __future__ import annotations
 
 from dataclasses import replace
+from datetime import datetime, timedelta, timezone
 import json
 from pathlib import Path
 import re
 import time
 
 from bs4 import BeautifulSoup
+import requests
 
 from sdilej_to_prehrajto.language import LanguageDetectionError
 from sdilej_to_prehrajto.matching import classify_candidate, normalize_title
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.ranking import quality_acceptable, resolution_rank
-from sdilej_to_prehrajto.sdilej import SdilejProvider, SdilejError, parse_detail_html, slugify
+from sdilej_to_prehrajto.sdilej import SdilejProvider, SdilejError, PremiumRequiredError, parse_detail_html, slugify
 from sdilej_to_prehrajto.subtitle_media import choose_stream, run_media, SubtitleUnavailable, is_czech
 from sdilej_to_prehrajto.subtitle_backfill import atomic_write
 
-POLICY = "english-subtitles-first-v1"
+LEGACY_POLICY = "english-subtitles-first-v1"
+POLICY = "original-subtitles-first-v2"
+
+LANGUAGE_CODES = {
+    "eng": "en", "english": "en", "ces": "cs", "cze": "cs", "cz": "cs",
+    "jpn": "ja", "kor": "ko", "zho": "zh", "chi": "zh", "cmn": "zh",
+    "deu": "de", "ger": "de", "fra": "fr", "fre": "fr", "ita": "it",
+    "spa": "es", "rus": "ru", "por": "pt", "hin": "hi", "ara": "ar",
+    "nld": "nl", "dut": "nl", "pol": "pl", "swe": "sv", "dan": "da",
+    "nor": "no", "fin": "fi", "tur": "tr", "slk": "sk", "slo": "sk",
+}
+
+
+def audio_language(value: str | None) -> str:
+    value = (value or "").lower().split("-")[0]
+    return LANGUAGE_CODES.get(value, value)
+
+
+def allowed_audio(candidate: Candidate) -> bool:
+    original = candidate.match_evidence.get("marketa", {}).get("original_language")
+    return bool(candidate.audio_language and candidate.audio_language in {"en", original})
 
 
 def has_subtitles(candidate: Candidate) -> bool:
@@ -25,7 +47,7 @@ def has_subtitles(candidate: Candidate) -> bool:
 
 
 def choose_english(candidates: list[Candidate]) -> Candidate | None:
-    acceptable = [c for c in candidates if c.audio_language == "en"
+    acceptable = [c for c in candidates if allowed_audio(c)
                   and c.match_tier in {MatchTier.STRONG, MatchTier.SOLID}
                   and quality_acceptable(c)]
     return min(acceptable, key=lambda c: (
@@ -70,12 +92,13 @@ class EnglishProvider(SdilejProvider):
         audio = [s for s in payload["streams"] if s.get("codec_type") == "audio"]
         if not audio:
             return None
-        # A Czech first/default track must never be relabeled as English merely
-        # because the same container also includes an English secondary track.
+        # Verify the first/default audio that the relayed file actually plays;
+        # a secondary original track cannot prove the default audio language.
         defaults = [s for s in audio if s.get("disposition", {}).get("default")]
+        languages = {"en", film.original_language} - {None, ""}
         for stream in [audio[0], *defaults]:
-            language = stream.get("tags", {}).get("language", "").lower()
-            if language and language not in {"en", "eng", "english", "und"}:
+            language = audio_language(stream.get("tags", {}).get("language"))
+            if language and language not in languages | {"und"}:
                 return None
         video = next(s for s in payload["streams"] if s.get("codec_type") == "video")
         detail.width, detail.height = int(video["width"]), int(video["height"])
@@ -87,10 +110,10 @@ class EnglishProvider(SdilejProvider):
             return None
         # Sample the original that will be relayed, not a possibly different preview.
         language, probability = self.language_detector.detect_consensus(
-            detail.download_url, detail.duration_sec, preferred_language="en")
+            detail.download_url, detail.duration_sec, preferred_language=film.original_language or "en")
         if probability < self.minimum_language_probability:
             raise LanguageDetectionError("Original audio language is uncertain")
-        if language != "en":
+        if language not in languages:
             return None
         detail.audio_language, detail.language_probability = language, probability
         detail.language_tier = LanguageTier.FOREIGN_AUDIO
@@ -115,7 +138,7 @@ class EnglishProvider(SdilejProvider):
             evidence = {"czech_subtitles": True, "subtitle_method": "original_page_track"}
         if not evidence["czech_subtitles"] and re.search(r"\b(?:cz|ceske|české)[ ._-]*(?:tit|titulky|subs?)\b", detail.title, re.I):
             raise SubtitleUnavailable("burned_in_or_external_subtitles_require_review")
-        detail.match_evidence["marketa"] = {"policy": POLICY, **evidence}
+        detail.match_evidence["marketa"] = {"policy": POLICY, "original_language": film.original_language, **evidence}
         return detail
 
     def discover(self, film: Film) -> list[Candidate]:
@@ -137,24 +160,55 @@ class EnglishProvider(SdilejProvider):
                 if match.tier in {MatchTier.STRONG, MatchTier.SOLID}:
                     candidates[candidate.source_id] = candidate
         resolved = []
+        incomplete = False
         cached = self.cache.setdefault(str(film.cr_film_id), {})
+        # Visit unchecked candidates before retrying failures from a previous
+        # run. A broken high-resolution file must not hide all later sources.
         for candidate in sorted(candidates.values(), key=lambda c: (
+            not bool(cached.get(c.source_id, {}).get("candidate")),
+            bool(cached.get(c.source_id, {}).get("error")),
             -resolution_rank(c.width, c.height), c.size_bytes or 0, c.source_id)):
             if time.monotonic() >= deadline:
-                raise SdilejError("English discovery incomplete; subtitle-free fallback deferred")
+                incomplete = True
+                break
             # Any unresolved candidate can contain Czech subtitles. Never treat a
             # timeout as evidence that the subtitle-free fallback is the best option.
             record = cached.get(candidate.source_id)
-            if record is not None and record.get("policy") == POLICY:
+            current = record is not None and (
+                record.get("policy") == POLICY and record.get("original_language") == film.original_language
+                or record.get("policy") == LEGACY_POLICY and film.original_language in {None, "en"})
+            if current and record.get("error") and record.get("retry_after", "") > datetime.now(timezone.utc).isoformat():
+                incomplete = True
+                continue
+            if current and "candidate" in record:
                 verified = Candidate.from_dict(record["candidate"]) if record.get("candidate") else None
             else:
-                verified = self.verify_english(film, candidate)
-                cached[candidate.source_id] = {"policy": POLICY, "candidate": verified.to_dict() if verified else None}
+                try:
+                    verified = self.verify_english(film, candidate)
+                except PremiumRequiredError:
+                    raise
+                except (SdilejError, LanguageDetectionError, SubtitleUnavailable, requests.RequestException, TimeoutError) as error:
+                    incomplete = True
+                    cached[candidate.source_id] = {
+                        "policy": POLICY, "original_language": film.original_language,
+                        "error": type(error).__name__,
+                        "retry_after": (datetime.now(timezone.utc) + timedelta(hours=1)).isoformat(),
+                    }
+                    if self.cache_path:
+                        atomic_write(self.cache_path, json.dumps(self.cache, ensure_ascii=False, sort_keys=True) + "\n")
+                    continue
+                cached[candidate.source_id] = {"policy": POLICY, "original_language": film.original_language,
+                                               "candidate": verified.to_dict() if verified else None}
                 if self.cache_path:
                     atomic_write(self.cache_path, json.dumps(self.cache, ensure_ascii=False, sort_keys=True) + "\n")
             if verified:
                 resolved.append(verified)
         selected = choose_english(resolved)
+        # A verified subtitled source satisfies the preference even when some
+        # other files are unavailable. Only a subtitle-free fallback requires
+        # a complete scan proving that no subtitled candidate was overlooked.
+        if incomplete and (selected is None or not has_subtitles(selected)):
+            raise SdilejError("Original source verification incomplete; selection deferred")
         return [selected] if selected else []
 
 
@@ -163,6 +217,6 @@ def display_name(english_title: str, variant: str, candidate: Candidate) -> str:
         if candidate.audio_language != "cs":
             raise ValueError("Czech dubbing requires verified Czech audio")
         return f"{english_title} CZ Dabing"
-    if candidate.audio_language != "en":
-        raise ValueError("English variant requires verified English audio")
+    if not allowed_audio(candidate):
+        raise ValueError("Original variant requires verified English or original audio")
     return f"{english_title} CZ Titulky" if has_subtitles(candidate) else english_title

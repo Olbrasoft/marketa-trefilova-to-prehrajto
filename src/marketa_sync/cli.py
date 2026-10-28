@@ -82,7 +82,9 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
     scanned = json.loads(scan_path.read_text()) if scan_path.exists() else {}
     attempted = 0
     deadline = time.monotonic() + runtime_minutes * 60
-    for film in films:
+    # A pair of repeatedly failing early films used to consume every hourly
+    # run. Prepare fresh films first, then revisit the oldest due attempts.
+    for film in sorted(films, key=lambda film: scanned.get(str(film.cr_film_id), {}).get("checked_at", "")):
         if attempted >= limit or time.monotonic() >= deadline:
             break
         key = str(film.cr_film_id)
@@ -92,6 +94,7 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
         if scanned.get(key, {}).get("retry_after", "") > now.isoformat():
             continue
         attempted += 1
+        provider.discovery_timeout_seconds = min(300, max(1, deadline - time.monotonic()))
         try:
             selected = provider.discover(film)
             if selected:
@@ -109,6 +112,7 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
             # Do not serialize request URLs, media commands, or response bodies.
             failures = scanned.get(key, {}).get("failures", 0) + 1
             status, days = type(error).__name__, min(24, 2 ** (failures - 1)) / 24
+        now = datetime.now(timezone.utc)
         scanned[key] = {"status": status, "checked_at": now.isoformat(),
                         "failures": 0 if status == "verified" else scanned.get(key, {}).get("failures", 0) + 1,
                         "retry_after": (now + timedelta(days=days)).isoformat()}

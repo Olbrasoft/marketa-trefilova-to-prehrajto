@@ -11,5 +11,5 @@ jobs:
     uses: ./.github/workflows/sync.yml
     with:
       mode: prepare
-      limit: 2
+      limit: 200
     secrets: inherit

@@ -16,6 +16,7 @@ import requests
 from sdilej_to_prehrajto.models import Candidate, Film
 from sdilej_to_prehrajto.sources import SelectedSourceStore
 from sdilej_to_prehrajto.subtitle_backfill import atomic_write
+from .discovery import POLICY, LEGACY_POLICY, allowed_audio
 
 USER_AGENT = "MarketaFilmCatalog/0.1 (https://github.com/Olbrasoft/marketa-trefilova-to-prehrajto)"
 
@@ -58,12 +59,13 @@ class VariantSourceStore(SelectedSourceStore):
         row = self.get(film_id)
         if not row or not stable_source(row) or row.get("match_tier") not in {"solid", "strong"}:
             return None
-        expected = "cs" if self.variant == "cz" else "en"
-        if row.get("audio_language") != expected:
+        candidate = source_candidate(row)
+        if self.variant == "cz" and candidate.audio_language != "cs":
             return None
-        if self.variant == "en" and row.get("match_evidence", {}).get("marketa", {}).get("policy") != "english-subtitles-first-v1":
+        if self.variant == "en" and (not allowed_audio(candidate) or
+                row.get("match_evidence", {}).get("marketa", {}).get("policy") not in {POLICY, LEGACY_POLICY}):
             return None
-        return source_candidate(row)
+        return candidate
 
 
 def import_sources(root: Path, upstream: Path) -> dict:
@@ -134,12 +136,19 @@ class EnglishTitles:
                 return title.strip()
         return None
 
+    def original_language(self, film: dict) -> str | None:
+        for language in (film.get("original_language"), self.rows.get(str(film["cr_film_id"]), {}).get("original_language")):
+            if isinstance(language, str) and re.fullmatch(r"[a-z]{2}", language):
+                return language
+        return None
+
     def fill_originals(self, films: list[dict], limit: int) -> int:
         api_key = os.environ.get("TMDB_API_KEY")
         if not api_key:
             return 0
         now = datetime.now(timezone.utc)
-        pending = [film for film in films if self.get(film) and not self.original(film)
+        pending = [film for film in films if self.get(film)
+                   and (not self.original(film) or not self.original_language(film))
                    and str(film.get("tmdb_id") or "").isdigit()
                    and self.rows.get(str(film["cr_film_id"]), {}).get("original_retry_after", "") <= now.isoformat()][:limit]
         resolved = 0
@@ -159,6 +168,9 @@ class EnglishTitles:
                     raise ValueError("Original title missing")
                 cached.update(original_title=title.strip(),
                               original_source=f"https://www.themoviedb.org/movie/{tmdb_id}")
+                language = data.get("original_language")
+                if isinstance(language, str) and re.fullmatch(r"[a-z]{2}", language):
+                    cached["original_language"] = language
                 cached.pop("original_retry_after", None)
                 resolved += 1
             except (requests.RequestException, ValueError):
@@ -233,7 +245,8 @@ def named_films(rows: list[dict], titles: EnglishTitles) -> tuple[list[Film], di
     for row, title in known:
         if not title:
             continue
-        film = Film.from_dict({**row, "original_title": titles.original(row)})
+        film = Film.from_dict({**row, "original_title": titles.original(row),
+                              "original_language": titles.original_language(row)})
         # Keep both recorded names searchable; disambiguate remakes separately.
         name = combined_title(title, film.original_title)
         if counts[title.casefold()] > 1 and film.year:
