@@ -20,3 +20,4 @@ Attach subtitles only after target processing has finished.
 | Saving Private Ryan CZ Titulky | 30586078 | https://sdilej.cz/32919223/zachrante-vojina-ryana-1998-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
 | The Green Mile CZ Titulky | 30587002 | https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv | Extract Czech track from exact source after processing |
 | Seven Samurai (Shichinin no samurai) CZ Titulky | 30588171 | https://sdilej.cz/20966262/seven-samurai-criterion-1954-bluray-1080p-x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
+| Django Unchained CZ Titulky | 30588424 | https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
