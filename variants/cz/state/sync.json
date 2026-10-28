@@ -771,17 +771,19 @@
       "attempts": []
     },
     "68": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34608254",
+          "target_video_id": "30577512",
+          "permanent": false,
+          "attempted_at": "2026-10-28T04:36:43.677324+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34608254",
         "display_name": "Django Unchained CZ Dabing",
         "planned_at": "2026-10-28T04:15:56.415707+00:00"
-      },
-      "claim": {
-        "worker_id": "b91b93429960409d91524a3fa9003966-shard-0",
-        "claimed_at": "2026-10-28T04:15:58.296336+00:00",
-        "lease_expires_at": "2026-10-28T10:15:58.296336+00:00",
-        "run_id": "40621166053"
       },
       "previous_target_id": "30577512",
       "prepared": {
@@ -5394,5 +5396,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T04:16:02.211830+00:00"
+  "updated_at": "2026-10-28T04:36:43.677340+00:00"
 }
