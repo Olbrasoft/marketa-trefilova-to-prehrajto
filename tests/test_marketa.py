@@ -338,6 +338,7 @@ def test_original_audio_is_verified_against_the_movie_language(monkeypatch, orig
     assert (result is not None) == accepted
     if accepted:
         assert result.audio_language == detected
+        assert result.match_evidence["marketa"]["policy"] == (LEGACY_POLICY if detected == "en" else POLICY)
         assert display_name("The Film", "en", result) == "The Film CZ Titulky"
         assert choose_english([result]) is result
 

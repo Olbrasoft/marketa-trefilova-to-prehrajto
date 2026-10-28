@@ -138,7 +138,13 @@ class EnglishProvider(SdilejProvider):
             evidence = {"czech_subtitles": True, "subtitle_method": "original_page_track"}
         if not evidence["czech_subtitles"] and re.search(r"\b(?:cz|ceske|české)[ ._-]*(?:tit|titulky|subs?)\b", detail.title, re.I):
             raise SubtitleUnavailable("burned_in_or_external_subtitles_require_review")
-        detail.match_evidence["marketa"] = {"policy": POLICY, "original_language": film.original_language, **evidence}
+        # The active uploader refreshes manifests without reloading its code.
+        # Keep new English sources readable by that runner; only non-English
+        # originals require the expanded policy used by its successor.
+        detail.match_evidence["marketa"] = {
+            "policy": LEGACY_POLICY if language == "en" else POLICY,
+            "original_language": film.original_language, **evidence,
+        }
         return detail
 
     def discover(self, film: Film) -> list[Candidate]:
