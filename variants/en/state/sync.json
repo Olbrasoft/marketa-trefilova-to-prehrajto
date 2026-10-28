@@ -836,17 +836,19 @@
       }
     },
     "66": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22962577",
+          "target_video_id": "30590258",
+          "permanent": false,
+          "attempted_at": "2026-10-28T16:36:01.332726+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22962577",
         "display_name": "Whiplash CZ Titulky",
         "planned_at": "2026-10-28T16:31:03.175806+00:00"
-      },
-      "claim": {
-        "worker_id": "79a2568f454948d7b0d5c39ccbe28bf3-shard-0",
-        "claimed_at": "2026-10-28T16:31:03.185825+00:00",
-        "lease_expires_at": "2026-10-28T22:31:03.185825+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30590258",
       "prepared": {
@@ -9546,5 +9548,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:31:06.853613+00:00"
+  "updated_at": "2026-10-28T16:36:01.332741+00:00"
 }
