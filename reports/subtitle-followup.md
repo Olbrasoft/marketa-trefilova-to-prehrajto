@@ -31,3 +31,4 @@ Attach subtitles only after target processing has finished.
 | Spider-Man: Across the Spider-Verse CZ Titulky | 30590630 | https://sdilej.cz/26637017/spider-man.across.the.spider-verse.2023.1080p.10bit.webrip.6ch.x265.hevc-psa-cztit.mkv | Extract Czech track from exact source after processing |
 | The Odyssey CZ Titulky | 30590842 | https://sdilej.cz/34822736/the-odyssey-the-making-of-an-epic-2026-cz-titulky.mp4 | Extract Czech track from exact source after processing |
 | Grave of the Fireflies (Hotaru no haka) CZ Titulky | 30590877 | https://sdilej.cz/21922146/hrob-svetlusek-bluray-1988-cz-tit.mkv | Complete: Czech subtitles verified |
+| The Shining CZ Titulky | 30592125 | https://sdilej.cz/26233632/the-shining-1980-.mkv | Extract Czech track from exact source after processing |
