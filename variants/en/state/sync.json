@@ -7,17 +7,19 @@
       "attempts": []
     },
     "9": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12980181",
+          "target_video_id": "30585161",
+          "permanent": false,
+          "attempted_at": "2026-10-28T12:25:49.952414+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12980181",
         "display_name": "The Dark Knight CZ Titulky",
         "planned_at": "2026-10-28T11:49:02.954945+00:00"
-      },
-      "claim": {
-        "worker_id": "21f6279cb37e4769a8e469470cc087eb-shard-0",
-        "claimed_at": "2026-10-28T11:49:02.961913+00:00",
-        "lease_expires_at": "2026-10-28T17:49:02.961913+00:00",
-        "run_id": "40671831072"
       },
       "previous_target_id": "30585161",
       "prepared": {
@@ -7687,5 +7689,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T12:15:14.042858+00:00"
+  "updated_at": "2026-10-28T12:25:49.952439+00:00"
 }
