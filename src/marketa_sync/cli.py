@@ -8,6 +8,7 @@ from datetime import datetime, timedelta, timezone
 import json
 import os
 from pathlib import Path
+import threading
 import time
 
 from sdilej_to_prehrajto.git_state import GitStatePersister
@@ -40,12 +41,13 @@ def target_session():
     return target_login(required_env("PREHRAJTO_EMAIL"), required_env("PREHRAJTO_PASSWORD"))
 
 
-def make_pipeline(root, variant, names, source=None, target=None, provider=None, persist=None):
+def make_pipeline(root, variant, names, source=None, target=None, provider=None, persist=None,
+                  checkpoint_lock=None):
     lane = root / "variants" / variant
     return SyncPipeline(
         source_provider=provider or SdilejProvider(source, None),
         source_session=source, target_session=target,
-        state=StateStore(lane / "state/sync.json", on_persist=persist),
+        state=StateStore(lane / "state/sync.json", on_persist=persist, checkpoint_lock=checkpoint_lock),
         selected_sources=VariantSourceStore(lane / "manifests/selected-sources.jsonl", variant),
         subtitle_queue=SubtitleQueue(lane / "plans/subtitle-followup.jsonl"),
         name_builder=lambda film, candidate: display_name(names[film.cr_film_id], variant, candidate),
@@ -174,24 +176,28 @@ def checkpoint_paths(root: Path, mode: str) -> tuple[Path, ...]:
     return tuple(root / path for path in relative)
 
 
-def run_subtitles(root, source, target, persist, limit, runtime_minutes):
+def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpoint_lock=None):
+    lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
     lane = root / "variants/en"
     backfill = Backfill(SubtitleTarget(target), source, lane,
                         lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
-                        persist=persist)
+                        persist=persist, checkpoint_lock=lock)
     backfill.run(max_pages=2, max_sources=limit, limit=limit, runtime_minutes=runtime_minutes)
-    followup_report(root)
-    if persist:
-        persist(lane / "state/subtitle-backfill.json", "flush")
+    with lock:
+        followup_report(root)
+        if persist:
+            persist(lane / "state/subtitle-backfill.json", "flush")
 
 
 def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
                 continuous=False, refresh=None, subtitles=None,
                 session_pairs=None, poll_interval_seconds=15,
+                checkpoint_lock=None,
                 clock=time.monotonic, sleep=time.sleep):
     deadline = clock() + runtime_minutes * 60
     counts = {"planned": 0, "uploaded": 0, "processing": 0, "failed": 0}
     pairs = session_pairs or [None]
+    lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
     free_slots = deque(range(len(pairs)))
     pending = {}
     reserved = set()
@@ -225,9 +231,10 @@ def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
                 pipeline = pipelines[variant]
                 checkpoint = pipeline.state.snapshot(film_id)
                 counts["uploaded" if checkpoint.get("upload") else "processing" if checkpoint.get("prepared") else "failed"] += 1
-                followup_report(root)
-                if persist:
-                    persist(pipeline.state.path, "flush")
+                with lock:
+                    followup_report(root)
+                    if persist:
+                        persist(pipeline.state.path, "flush")
                 print(json.dumps(counts), flush=True)
             if subtitle_future is not None and subtitle_future.done():
                 try:
@@ -307,7 +314,9 @@ def main():
         run_subtitles(root, source_session(), target_session(), persist, args.limit, args.runtime_minutes)
         return 0
     source, target = (source_session(), target_session()) if args.mode in {"upload", "continuous"} else (None, None)
-    pipelines = {variant: make_pipeline(root, variant, names, source, target, persist=persist)
+    checkpoint_lock = threading.RLock()
+    pipelines = {variant: make_pipeline(root, variant, names, source, target, persist=persist,
+                                       checkpoint_lock=checkpoint_lock)
                  for variant in ("cz", "en")}
     for pipeline in pipelines.values():
         pipeline.state.release_claims_from_other_run(os.environ.get("GITHUB_RUN_ID"))
@@ -339,13 +348,15 @@ def main():
         if any(pipelines["en"].state.uploaded(film.cr_film_id) for film in films):
             if subtitle_sessions is None:
                 subtitle_sessions = (source_session(), target_session())
-            run_subtitles(root, *subtitle_sessions, persist, 20, remaining_minutes)
+            run_subtitles(root, *subtitle_sessions, persist, 20, remaining_minutes,
+                          checkpoint_lock=checkpoint_lock)
 
     continuous = args.mode == "continuous"
     counts = drain_queue(root, pipelines, films, limit=args.limit,
                          runtime_minutes=args.runtime_minutes, persist=persist,
                          continuous=continuous, refresh=refresh if continuous else None,
-                         subtitles=subtitles if continuous else None, session_pairs=pairs)
+                         subtitles=subtitles if continuous else None, session_pairs=pairs,
+                         checkpoint_lock=checkpoint_lock)
     print(json.dumps(counts), flush=True)
     return int(counts["failed"] > 0)
 

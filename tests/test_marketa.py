@@ -1,5 +1,6 @@
 import json
 import threading
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeout
 from dataclasses import replace
 from pathlib import Path
 from types import SimpleNamespace
@@ -12,7 +13,7 @@ from marketa_sync.discovery import choose_english, display_name, POLICY, LEGACY_
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.prehrajto import _uploaded_video_id_from_html, login, PrehrajtoError
 from sdilej_to_prehrajto.state import StateStore
-from sdilej_to_prehrajto.subtitle_backfill import source_map
+from sdilej_to_prehrajto.subtitle_backfill import Backfill, source_map
 
 
 def candidate(source_id="123", language="en", width=1920, subtitles=False):
@@ -522,3 +523,46 @@ def test_idle_slot_polls_new_sources_while_another_transfer_is_running(tmp_path,
                          session_pairs=[("source-1", "target-1"), ("source-2", "target-2")])
     assert sorted(calls) == [1, 2]
     assert counts["uploaded"] == 2
+
+
+def test_variant_and_subtitle_files_cannot_change_during_another_checkpoint(tmp_path):
+    lock = threading.RLock()
+    publishing, release = threading.Event(), threading.Event()
+    en_attempted, subtitles_attempted = threading.Event(), threading.Event()
+    def persist(path, event):
+        if path.parts[-3] == "cz" and event == "prepared":
+            publishing.set()
+            assert release.wait(3)
+    cz = make_pipeline(tmp_path, "cz", {1: "The Film"}, persist=persist, checkpoint_lock=lock)
+    en = make_pipeline(tmp_path, "en", {1: "The Film"}, persist=persist, checkpoint_lock=lock)
+    en.state.save("initial")
+    lane = tmp_path / "variants/en"
+    subtitles = Backfill(None, None, lane, lane / "state/subtitle-backfill.json",
+                         tmp_path / "reports/subtitle-backfill.md", checkpoint_lock=lock)
+    def save_en():
+        en_attempted.set()
+        en.state.record_prepared(1, "222", 100)
+    def save_subtitles():
+        subtitles_attempted.set()
+        subtitles.save()
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        first = executor.submit(cz.state.record_prepared, 1, "111", 100)
+        assert publishing.wait(3)
+        second = executor.submit(save_en)
+        third = executor.submit(save_subtitles)
+        try:
+            assert en_attempted.wait(3) and subtitles_attempted.wait(3)
+            with pytest.raises(FutureTimeout):
+                second.result(timeout=0.05)
+            with pytest.raises(FutureTimeout):
+                third.result(timeout=0.05)
+            assert json.loads(en.state.path.read_text())["films"] == {}
+            assert not subtitles.state_path.exists()
+        finally:
+            release.set()
+        first.result(timeout=3)
+        second.result(timeout=3)
+        third.result(timeout=3)
+    assert json.loads(cz.state.path.read_text())["films"]["1"]["prepared"]["target_video_id"] == "111"
+    assert json.loads(en.state.path.read_text())["films"]["1"]["prepared"]["target_video_id"] == "222"
+    assert subtitles.state_path.is_file()
