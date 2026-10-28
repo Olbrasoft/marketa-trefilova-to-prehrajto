@@ -1318,17 +1318,19 @@
       }
     },
     "25321": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27490020",
+          "target_video_id": "30595036",
+          "permanent": false,
+          "attempted_at": "2026-10-28T21:23:33.458604+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27490020",
         "display_name": "The Lives of Others",
         "planned_at": "2026-10-28T21:07:09.052078+00:00"
-      },
-      "claim": {
-        "worker_id": "eee089c7c3964a20aa54f00d708e5b33-shard-0",
-        "claimed_at": "2026-10-28T21:07:09.065221+00:00",
-        "lease_expires_at": "2026-10-29T03:07:09.065221+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30595036",
       "prepared": {
@@ -11120,5 +11122,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:22:24.656676+00:00"
+  "updated_at": "2026-10-28T21:23:33.458619+00:00"
 }
