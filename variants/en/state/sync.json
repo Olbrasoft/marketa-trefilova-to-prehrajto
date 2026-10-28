@@ -925,17 +925,19 @@
       }
     },
     "55": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26637017",
+          "target_video_id": "30590630",
+          "permanent": false,
+          "attempted_at": "2026-10-28T17:00:02.629667+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26637017",
         "display_name": "Spider-Man: Across the Spider-Verse CZ Titulky",
         "planned_at": "2026-10-28T16:51:51.578170+00:00"
-      },
-      "claim": {
-        "worker_id": "4b8a09430dd14a57b0faf531e7ce6445-shard-0",
-        "claimed_at": "2026-10-28T16:51:51.589987+00:00",
-        "lease_expires_at": "2026-10-28T22:51:51.589987+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30590630",
       "prepared": {
@@ -9620,5 +9622,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:51:55.305463+00:00"
+  "updated_at": "2026-10-28T17:00:02.629684+00:00"
 }
