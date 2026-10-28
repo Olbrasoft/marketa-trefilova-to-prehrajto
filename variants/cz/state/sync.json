@@ -2162,17 +2162,19 @@
       }
     },
     "121": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22783773",
+          "target_video_id": "30596301",
+          "permanent": false,
+          "attempted_at": "2026-10-28T22:37:15.316523+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22783773",
         "display_name": "American Beauty CZ Dabing",
         "planned_at": "2026-10-28T22:13:38.420893+00:00"
-      },
-      "claim": {
-        "worker_id": "9f4ae075f3094b88bead762d481c1fef-shard-0",
-        "claimed_at": "2026-10-28T22:13:38.471399+00:00",
-        "lease_expires_at": "2026-10-29T04:13:38.471399+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30596301",
       "prepared": {
@@ -12198,5 +12200,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T22:13:41.965584+00:00"
+  "updated_at": "2026-10-28T22:37:15.316538+00:00"
 }
