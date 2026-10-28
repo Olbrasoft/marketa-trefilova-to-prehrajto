@@ -23,3 +23,4 @@ Attach subtitles only after target processing has finished.
 | Django Unchained CZ Titulky | 30588424 | https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
 | Gladiator (2000) CZ Titulky | 30589321 | https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
 | The Prestige CZ Titulky | 30589328 | https://sdilej.cz/34429623/the-prestige-2006-.mkv | Extract Czech track from exact source after processing |
+| The Departed CZ Titulky | 30589626 | https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
