@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+from collections import deque
 from datetime import datetime, timedelta, timezone
 import json
 import os
@@ -82,7 +83,17 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
     scanned = json.loads(scan_path.read_text()) if scan_path.exists() else {}
     attempted = 0
     deadline = time.monotonic() + runtime_minutes * 60
-    for film in films:
+    # Keep fresh films moving without starving resumable older scans when
+    # title resolution continuously introduces more films into the catalog.
+    fresh = deque(film for film in films if str(film.cr_film_id) not in scanned)
+    retries = deque(sorted((film for film in films if str(film.cr_film_id) in scanned),
+                           key=lambda film: scanned[str(film.cr_film_id)].get("checked_at", "")))
+    ordered = []
+    while fresh or retries:
+        ordered.extend(fresh.popleft() for _ in range(min(4, len(fresh))))
+        if retries:
+            ordered.append(retries.popleft())
+    for film in ordered:
         if attempted >= limit or time.monotonic() >= deadline:
             break
         key = str(film.cr_film_id)
@@ -92,6 +103,7 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
         if scanned.get(key, {}).get("retry_after", "") > now.isoformat():
             continue
         attempted += 1
+        provider.discovery_timeout_seconds = min(300, max(1, deadline - time.monotonic()))
         try:
             selected = provider.discover(film)
             if selected:
@@ -109,6 +121,7 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
             # Do not serialize request URLs, media commands, or response bodies.
             failures = scanned.get(key, {}).get("failures", 0) + 1
             status, days = type(error).__name__, min(24, 2 ** (failures - 1)) / 24
+        now = datetime.now(timezone.utc)
         scanned[key] = {"status": status, "checked_at": now.isoformat(),
                         "failures": 0 if status == "verified" else scanned.get(key, {}).get("failures", 0) + 1,
                         "retry_after": (now + timedelta(days=days)).isoformat()}

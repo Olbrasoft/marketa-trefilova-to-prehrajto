@@ -87,7 +87,7 @@ jobs:
       - name: Show next uploads
         if: env.MODE == 'plan'
         run: marketa-sync plan --limit "$BATCH_LIMIT"
-      - name: Prepare English sources
+      - name: Prepare English and original-language sources
         if: env.MODE == 'prepare'
         run: marketa-sync prepare --limit "$BATCH_LIMIT" --runtime-minutes 40 --persist-git-state
       - name: Transfer variants with one worker
