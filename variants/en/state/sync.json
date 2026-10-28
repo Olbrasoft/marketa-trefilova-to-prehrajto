@@ -170,6 +170,13 @@
           "target_video_id": "30583711",
           "permanent": false,
           "attempted_at": "2026-10-28T10:37:58.765541+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32925539",
+          "target_video_id": "30583711",
+          "permanent": false,
+          "attempted_at": "2026-10-28T11:13:12.797226+00:00"
         }
       ],
       "last_plan": {
@@ -180,15 +187,9 @@
       "previous_target_id": "30583711",
       "prepared": {
         "target_video_id": "30583711",
-        "size_bytes": 10327972409,
+        "size_bytes": 10300000000,
         "prepared_at": "2026-10-28T10:25:39.014286+00:00",
         "relay_source_id": "32925539"
-      },
-      "claim": {
-        "worker_id": "7dd3b5ac5cc04cef8119d817049ff0e7-shard-0",
-        "claimed_at": "2026-10-28T11:13:10.961368+00:00",
-        "lease_expires_at": "2026-10-28T17:13:10.961368+00:00",
-        "run_id": "40671831072"
       }
     },
     "20": {
@@ -219,7 +220,7 @@
       "last_plan": {
         "source_id": "20633615",
         "display_name": "The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo) CZ Titulky",
-        "planned_at": "2026-10-28T11:13:10.954851+00:00"
+        "planned_at": "2026-10-28T11:13:12.834231+00:00"
       }
     },
     "18003": {
@@ -7255,5 +7256,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T11:13:11.515939+00:00"
+  "updated_at": "2026-10-28T11:13:12.834241+00:00"
 }
