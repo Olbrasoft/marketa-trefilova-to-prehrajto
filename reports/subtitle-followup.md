@@ -6,7 +6,7 @@ Attach subtitles only after target processing has finished.
 | --- | --- | --- | --- |
 | The Godfather CZ Titulky | 30594653 | https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4 | Extract Czech track from exact source after processing |
 | The Dark Knight CZ Titulky | 30585161 | https://sdilej.cz/12980181/batman-temny-ritir-2008-fullhd-1080p-cz-dabing.mkv | Extract Czech track from exact source after processing |
-| The Godfather Part II CZ Titulky | 30580910 | https://sdilej.cz/28589101/kmotr-ii.-1974-fhd-1080p--cz-cz-pl-eng-.mkv | Extract Czech track from exact source after processing |
+| The Godfather Part II CZ Titulky | 30580910 | https://sdilej.cz/28589101/kmotr-ii.-1974-fhd-1080p--cz-cz-pl-eng-.mkv | Complete: Czech subtitles verified |
 | 12 Angry Men (1957) CZ Titulky | 30582493 | https://sdilej.cz/34471608/dvanact-rozhnevanych-muzu-12-angry-men-1957-4k-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | The Lord of the Rings: The Fellowship of the Ring CZ Titulky | 30582771 | https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv | Extract Czech track from exact source after processing |
 | Inception CZ Titulky | 30582836 | https://sdilej.cz/34401564/inception.2010.blu-ray.remux.1080p.vc-1.dts-hd.ma.5.1-eng-ac3-5.1-cze.mkv | Extract Czech track from exact source after processing |
@@ -42,3 +42,4 @@ Attach subtitles only after target processing has finished.
 | Capernaum (کفرناحوم) CZ Titulky | 30595560 | https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv | Extract Czech track from exact source after processing |
 | I Swear CZ Titulky | 30595748 | https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Joker CZ Titulky | 30596090 | https://sdilej.cz/33794368/joker-2019-.mkv | Extract Czech track from exact source after processing |
+| Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky | 30596759 | https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv | Extract Czech track from exact source after processing |
