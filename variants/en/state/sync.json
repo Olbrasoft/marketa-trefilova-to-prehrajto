@@ -962,17 +962,19 @@
       }
     },
     "37208": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34822736",
+          "target_video_id": "30590842",
+          "permanent": false,
+          "attempted_at": "2026-10-28T17:01:36.265728+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34822736",
         "display_name": "The Odyssey CZ Titulky",
         "planned_at": "2026-10-28T17:00:33.560592+00:00"
-      },
-      "claim": {
-        "worker_id": "400d540de9c141e4a625099194a6c958-shard-0",
-        "claimed_at": "2026-10-28T17:00:33.574129+00:00",
-        "lease_expires_at": "2026-10-28T23:00:33.574129+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30590842",
       "prepared": {
@@ -9654,5 +9656,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T17:00:36.798007+00:00"
+  "updated_at": "2026-10-28T17:01:36.265741+00:00"
 }
