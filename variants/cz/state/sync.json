@@ -1774,17 +1774,19 @@
       }
     },
     "84": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32528639",
+          "target_video_id": "30592413",
+          "permanent": false,
+          "attempted_at": "2026-10-28T18:50:40.489498+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32528639",
         "display_name": "Spider-Man: Into the Spider-Verse CZ Dabing",
         "planned_at": "2026-10-28T18:33:28.319179+00:00"
-      },
-      "claim": {
-        "worker_id": "ad85beb9a33c4a25a778e79303cfe922-shard-0",
-        "claimed_at": "2026-10-28T18:33:28.357160+00:00",
-        "lease_expires_at": "2026-10-29T00:33:28.357160+00:00",
-        "run_id": "40715628746"
       },
       "previous_target_id": "30592413",
       "prepared": {
@@ -10988,5 +10990,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T18:33:32.953004+00:00"
+  "updated_at": "2026-10-28T18:50:40.489515+00:00"
 }
