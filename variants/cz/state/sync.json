@@ -1003,17 +1003,19 @@
       "previous_target_id": "30578855"
     },
     "50": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31645891",
+          "target_video_id": "30579162",
+          "permanent": false,
+          "attempted_at": "2026-10-28T06:10:57.895776+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31645891",
         "display_name": "The Usual Suspects CZ Dabing",
         "planned_at": "2026-10-28T06:06:33.820709+00:00"
-      },
-      "claim": {
-        "worker_id": "21350c3b751745ee999410478bee4483-shard-0",
-        "claimed_at": "2026-10-28T06:06:35.742127+00:00",
-        "lease_expires_at": "2026-10-28T12:06:35.742127+00:00",
-        "run_id": "40621166053"
       },
       "previous_target_id": "30579162",
       "prepared": {
@@ -6181,5 +6183,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T06:06:40.140559+00:00"
+  "updated_at": "2026-10-28T06:10:57.895792+00:00"
 }
