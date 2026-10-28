@@ -102,17 +102,19 @@
       }
     },
     "24": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34401564",
+          "target_video_id": "30582836",
+          "permanent": false,
+          "attempted_at": "2026-10-28T10:25:10.070943+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34401564",
         "display_name": "Inception CZ Titulky",
         "planned_at": "2026-10-28T09:40:19.780317+00:00"
-      },
-      "claim": {
-        "worker_id": "3c42ae16daeb4ac08da1bb98dec1c2bd-shard-0",
-        "claimed_at": "2026-10-28T09:40:21.644145+00:00",
-        "lease_expires_at": "2026-10-28T15:40:21.644145+00:00",
-        "run_id": "40644737040"
       },
       "previous_target_id": "30582836",
       "prepared": {
@@ -6873,5 +6875,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T09:40:25.088570+00:00"
+  "updated_at": "2026-10-28T10:25:10.070960+00:00"
 }
