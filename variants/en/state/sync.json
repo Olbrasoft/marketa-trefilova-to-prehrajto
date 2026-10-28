@@ -47,11 +47,19 @@
       "attempts": []
     },
     "11": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14676847",
+          "reason": "Request failed for https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-28T16:15:45.767246+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14676847",
         "display_name": "The Lord of the Rings: The Return of the King CZ Titulky",
-        "planned_at": "2026-10-28T16:14:58.463419+00:00"
+        "planned_at": "2026-10-28T16:15:00.403239+00:00"
       }
     },
     "12": {
@@ -9159,5 +9167,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:14:58.463426+00:00"
+  "updated_at": "2026-10-28T16:15:45.767266+00:00"
 }
