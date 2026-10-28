@@ -783,7 +783,25 @@
       "attempts": []
     },
     "50": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35170968",
+        "display_name": "The Usual Suspects CZ Titulky",
+        "planned_at": "2026-10-28T16:19:17.244081+00:00"
+      },
+      "claim": {
+        "worker_id": "ef3c6d50a39744d8bf46518ba4fe5a08-shard-0",
+        "claimed_at": "2026-10-28T16:19:17.256616+00:00",
+        "lease_expires_at": "2026-10-28T22:19:17.256616+00:00",
+        "run_id": "40715628746"
+      },
+      "previous_target_id": "30590050",
+      "prepared": {
+        "target_video_id": "30590050",
+        "size_bytes": 7130363983,
+        "prepared_at": "2026-10-28T16:19:20.437292+00:00",
+        "relay_source_id": "35170968"
+      }
     },
     "56": {
       "attempts": []
@@ -9187,5 +9205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T16:19:12.320930+00:00"
+  "updated_at": "2026-10-28T16:19:20.437309+00:00"
 }
