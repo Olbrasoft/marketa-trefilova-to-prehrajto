@@ -1281,17 +1281,19 @@
       "attempts": []
     },
     "11503": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33819226",
+          "target_video_id": "30594798",
+          "permanent": false,
+          "attempted_at": "2026-10-28T21:20:51.794718+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33819226",
         "display_name": "Amadeus CZ Titulky",
         "planned_at": "2026-10-28T20:53:12.477488+00:00"
-      },
-      "claim": {
-        "worker_id": "22d14a4f6522411b917f1ba36f18349b-shard-0",
-        "claimed_at": "2026-10-28T20:53:12.491052+00:00",
-        "lease_expires_at": "2026-10-29T02:53:12.491052+00:00",
-        "run_id": "40765552834"
       },
       "previous_target_id": "30594798",
       "prepared": {
@@ -11086,5 +11088,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:07:12.675766+00:00"
+  "updated_at": "2026-10-28T21:20:51.794734+00:00"
 }
