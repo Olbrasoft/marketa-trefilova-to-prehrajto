@@ -889,17 +889,19 @@
       }
     },
     "52": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34059158",
+          "target_video_id": "30578429",
+          "permanent": false,
+          "attempted_at": "2026-10-28T05:33:59.097601+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34059158",
         "display_name": "Back to the Future CZ Dabing",
         "planned_at": "2026-10-28T05:17:54.674561+00:00"
-      },
-      "claim": {
-        "worker_id": "617236cc9545483dabc9a6e4b9c09ee5-shard-0",
-        "claimed_at": "2026-10-28T05:17:56.653789+00:00",
-        "lease_expires_at": "2026-10-28T11:17:56.653789+00:00",
-        "run_id": "40621166053"
       },
       "previous_target_id": "30578429",
       "prepared": {
@@ -6079,5 +6081,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-28T05:18:00.360642+00:00"
+  "updated_at": "2026-10-28T05:33:59.097617+00:00"
 }
