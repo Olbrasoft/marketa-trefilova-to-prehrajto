@@ -3513,17 +3513,19 @@
       "attempts": []
     },
     "245": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35171736",
+          "target_video_id": "30620452",
+          "permanent": false,
+          "attempted_at": "2026-10-29T22:53:46.453984+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35171736",
         "display_name": "The Help 1080p CZ Titulky",
         "planned_at": "2026-10-29T22:17:51.008249+00:00"
-      },
-      "claim": {
-        "worker_id": "09b2eda445084b48ab364604b7b91c99-shard-0",
-        "claimed_at": "2026-10-29T22:17:51.034746+00:00",
-        "lease_expires_at": "2026-10-30T04:17:51.034746+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30620452",
       "prepared": {
@@ -20689,5 +20691,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T22:50:15.180813+00:00"
+  "updated_at": "2026-10-29T22:53:46.454001+00:00"
 }
