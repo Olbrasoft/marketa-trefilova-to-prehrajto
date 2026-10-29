@@ -2242,17 +2242,19 @@
       "attempts": []
     },
     "134": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28679022",
+          "target_video_id": "30608676",
+          "permanent": false,
+          "attempted_at": "2026-10-29T10:51:54.455721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28679022",
         "display_name": "Full Metal Jacket CZ Titulky",
         "planned_at": "2026-10-29T10:43:10.061284+00:00"
-      },
-      "claim": {
-        "worker_id": "9d860b02de1644e3899b0067176fec5e-shard-0",
-        "claimed_at": "2026-10-29T10:43:10.078664+00:00",
-        "lease_expires_at": "2026-10-29T16:43:10.078664+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30608676",
       "prepared": {
@@ -16120,5 +16122,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:48:39.802452+00:00"
+  "updated_at": "2026-10-29T10:51:54.455737+00:00"
 }
