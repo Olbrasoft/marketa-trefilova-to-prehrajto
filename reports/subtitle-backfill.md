@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T16:08:47.307186+00:00
+Poslední aktualizace (UTC): 2026-10-29T16:08:50.939952+00:00
 
 Zkontrolováno videí: 63. Další stránka kontroly: 0.
 
@@ -39,7 +39,7 @@ Kontrol: 14; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Braveheart CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T15:08:13.288127+00:00 |
 | [Casino CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T15:59:01.243308+00:00 |
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | target_unavailable | 2026-10-29T15:59:55.983090+00:00 |
-| [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/eternal-sunshine-of-the-spotless-mind-cz-titulky-mkv/ce0b9818feb2a529) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-29T15:08:09.772221+00:00 |
+| [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/eternal-sunshine-of-the-spotless-mind-cz-titulky-mkv/ce0b9818feb2a529) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-29T16:08:50.939844+00:00 |
 | [Green Book](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T15:58:57.489970+00:00 |
 | [Heat CZ Titulky](https://prehraj.to/heat-cz-titulky-mkv/fbe2ea57b0788734) (ID 30602067) | [Sdílej 6486240](https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-29T15:59:48.807895+00:00 |
 | [I Swear CZ Titulky](https://prehraj.to/i-swear-cz-titulky-mkv/7f546ffba3d36b44) (ID 30595748) | [Sdílej 34430978](https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv) | target_unavailable | 2026-10-29T15:18:12.881642+00:00 |
