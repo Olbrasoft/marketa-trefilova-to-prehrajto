@@ -79,7 +79,7 @@ def classify_samples(samples: list[list[str]], *, detector=None) -> dict:
         return {**evidence, "visual_status": "no_text_detected"}
     text = " ".join(unique)
     if (len(unique) < 3 or evidence["visual_text_samples"] < 3
-            or len(re.sub(r"\W", "", text)) < 90):
+            or len(re.sub(r"\W", "", text)) < 60):
         return {**evidence, "visual_status": "uncertain"}
     values = (detector or language_detector()).compute_language_confidence_values(text)
     if not values or values[0].value < 0.9 or len(values) < 2 or values[0].value - values[1].value < 0.2:
