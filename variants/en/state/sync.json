@@ -2305,11 +2305,19 @@
       "attempts": []
     },
     "139": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31102503",
+          "reason": "Request failed for https://sdilej.cz/31102503/faunuv-labyrint-2006-cz-1080p-h265.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T11:08:10.525494+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31102503",
         "display_name": "Pan's Labyrinth (El laberinto del fauno) CZ Titulky",
-        "planned_at": "2026-10-29T11:07:22.910052+00:00"
+        "planned_at": "2026-10-29T11:07:24.982506+00:00"
       }
     },
     "150": {
@@ -16408,5 +16416,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T11:07:23.590371+00:00"
+  "updated_at": "2026-10-29T11:08:10.525514+00:00"
 }
