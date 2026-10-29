@@ -2990,17 +2990,19 @@
       "attempts": []
     },
     "193": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32858384",
+          "target_video_id": "30613867",
+          "permanent": false,
+          "attempted_at": "2026-10-29T17:08:17.843443+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32858384",
         "display_name": "V for Vendetta 4K CZ Titulky",
         "planned_at": "2026-10-29T16:18:33.444498+00:00"
-      },
-      "claim": {
-        "worker_id": "6577f34feb66405daa5a871323065d7d-shard-0",
-        "claimed_at": "2026-10-29T16:18:33.466003+00:00",
-        "lease_expires_at": "2026-10-29T22:18:33.466003+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30613867",
       "prepared": {
@@ -3050,7 +3052,7 @@
       "last_plan": {
         "source_id": "32638360",
         "display_name": "The Grand Budapest Hotel (2014) [ID 15708] 1080p CZ Titulky",
-        "planned_at": "2026-10-29T17:08:12.254838+00:00"
+        "planned_at": "2026-10-29T17:08:16.219478+00:00"
       }
     },
     "224": {
@@ -18850,5 +18852,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T17:08:12.254853+00:00"
+  "updated_at": "2026-10-29T17:08:17.843461+00:00"
 }
