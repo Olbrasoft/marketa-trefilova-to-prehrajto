@@ -4652,13 +4652,6 @@
           "source_id": "32461058",
           "target_video_id": "30615829",
           "permanent": false,
-          "attempted_at": "2026-10-29T21:44:17.508356+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32461058",
-          "target_video_id": "30615829",
-          "permanent": false,
           "attempted_at": "2026-10-29T22:16:55.939688+00:00"
         },
         {
@@ -4667,6 +4660,13 @@
           "target_video_id": "30615829",
           "permanent": false,
           "attempted_at": "2026-10-29T22:48:44.712438+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32461058",
+          "target_video_id": "30615829",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:30:03.731095+00:00"
         }
       ],
       "last_plan": {
@@ -4680,12 +4680,6 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-10-29T17:59:34.632657+00:00",
         "relay_source_id": "32461058"
-      },
-      "claim": {
-        "worker_id": "9ee6274afda4417da52243e4db18056b-shard-0",
-        "claimed_at": "2026-10-29T23:30:01.433870+00:00",
-        "lease_expires_at": "2026-10-30T05:30:01.433870+00:00",
-        "run_id": "40957299535"
       }
     },
     "250": {
@@ -4715,7 +4709,7 @@
       "last_plan": {
         "source_id": "15052978",
         "display_name": "Gran Torino 1080p CZ Dabing",
-        "planned_at": "2026-10-29T22:48:45.922214+00:00"
+        "planned_at": "2026-10-29T23:30:03.134057+00:00"
       },
       "previous_target_id": "30616096",
       "prepared": {
@@ -4723,6 +4717,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T18:13:23.182086+00:00",
         "relay_source_id": "15052978"
+      },
+      "claim": {
+        "worker_id": "85f5d48cfbbf474d893d739a5f2756c8-shard-0",
+        "claimed_at": "2026-10-29T23:30:03.280814+00:00",
+        "lease_expires_at": "2026-10-30T05:30:03.280814+00:00",
+        "run_id": "40957299535"
       }
     },
     "214": {
@@ -5381,7 +5381,7 @@
       "last_plan": {
         "source_id": "32815181",
         "display_name": "Hachi: A Dog's Tale 1080p CZ Dabing",
-        "planned_at": "2026-10-29T23:30:01.332076+00:00"
+        "planned_at": "2026-10-29T23:30:03.180998+00:00"
       }
     },
     "209": {
@@ -22494,5 +22494,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:30:01.758986+00:00"
+  "updated_at": "2026-10-29T23:30:03.731114+00:00"
 }
