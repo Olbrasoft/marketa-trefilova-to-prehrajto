@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T12:06:22.029135+00:00
+Poslední aktualizace (UTC): 2026-10-29T12:06:25.891829+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 2, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 12, `target_unavailable`: 10, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 1, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 12, `target_unavailable`: 11, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -46,6 +46,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain)](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T11:46:29.343203+00:00 |
 | [Casino CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T11:46:37.440169+00:00 |
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | target_unavailable | 2026-10-29T11:56:26.085594+00:00 |
+| [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/eternal-sunshine-of-the-spotless-mind-cz-titulky-mkv/ce0b9818feb2a529) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-29T12:06:25.891760+00:00 |
 | [Green Book](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T11:46:33.291435+00:00 |
 | [Heat CZ Titulky](https://prehraj.to/heat-cz-titulky-mkv/fbe2ea57b0788734) (ID 30602067) | [Sdílej 6486240](https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-29T11:56:18.448115+00:00 |
 | [Lawrence of Arabia CZ Titulky](https://prehraj.to/lawrence-of-arabia-cz-titulky-mkv/afd2055797b2e4e8) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | target_unavailable | 2026-10-29T11:56:30.078122+00:00 |
