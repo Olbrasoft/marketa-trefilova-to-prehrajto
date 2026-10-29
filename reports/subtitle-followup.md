@@ -18,7 +18,7 @@ Attach subtitles only after target processing has finished.
 | 12th Fail (12वीं फेल) CZ Titulky | 30584536 | https://sdilej.cz/34899142/12th-fail-2023-.mkv | Complete: Czech subtitles verified |
 | Seven (Se7en) CZ Titulky | 30585843 | https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv | Extract Czech track from exact source after processing |
 | The Silence of the Lambs CZ Titulky | 30586048 | https://sdilej.cz/32633356/the-silence-of-the-lambs-mlceni-jehnatek-1991-2160p-cz-ac3-5.1-en-eac3-5.1.mkv | Extract Czech track from exact source after processing |
-| Saving Private Ryan CZ Titulky | 30586078 | https://sdilej.cz/32919223/zachrante-vojina-ryana-1998-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
+| Saving Private Ryan CZ Titulky | 30586078 | https://sdilej.cz/32919223/zachrante-vojina-ryana-1998-cz-en-radecek.mkv | Complete: Czech subtitles verified |
 | The Green Mile CZ Titulky | 30587002 | https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv | Extract Czech track from exact source after processing |
 | Seven Samurai (Shichinin no samurai) CZ Titulky | 30588171 | https://sdilej.cz/20966262/seven-samurai-criterion-1954-bluray-1080p-x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Django Unchained CZ Titulky | 30588424 | https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
