@@ -2745,17 +2745,19 @@
       }
     },
     "10807": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34793226",
+          "target_video_id": "30603985",
+          "permanent": false,
+          "attempted_at": "2026-10-29T05:47:40.203927+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34793226",
         "display_name": "Judgment at Nuremberg CZ Dabing",
         "planned_at": "2026-10-29T05:23:02.868140+00:00"
-      },
-      "claim": {
-        "worker_id": "d860aa522ace49ce89e195a489fbe4ea-shard-0",
-        "claimed_at": "2026-10-29T05:23:02.924694+00:00",
-        "lease_expires_at": "2026-10-29T11:23:02.924694+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30603985",
       "prepared": {
@@ -15010,5 +15012,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T05:39:03.190852+00:00"
+  "updated_at": "2026-10-29T05:47:40.203944+00:00"
 }
