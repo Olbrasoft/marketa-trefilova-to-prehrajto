@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T12:26:30.195358+00:00
+Poslední aktualizace (UTC): 2026-10-29T12:26:32.346502+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 5, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 4, `target_unavailable`: 15, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 4, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 4, `target_unavailable`: 16, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -35,6 +35,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [Alien CZ Titulky](https://prehraj.to/alien-cz-titulky-mkv/111b49c963aaf8e2) (ID 30592207) | [Sdílej 34445474](https://sdilej.cz/34445474/vetrelec-romulus.mkv) | target_unavailable | 2026-10-29T12:26:32.346426+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain)](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T11:46:29.343203+00:00 |
 | [Braveheart CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T12:06:29.326137+00:00 |
 | [Capernaum (کفرناحوم) CZ Titulky](https://prehraj.to/capernaum-cz-titulky-mkv/9347d2e0829bf266) (ID 30595560) | [Sdílej 12275995](https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv) | target_unavailable | 2026-10-29T12:16:22.897544+00:00 |
