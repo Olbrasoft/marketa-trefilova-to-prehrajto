@@ -1791,17 +1791,19 @@
       "attempts": []
     },
     "100": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-10-29T03:30:53.653367+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) CZ Titulky",
         "planned_at": "2026-10-29T03:25:18.556452+00:00"
-      },
-      "claim": {
-        "worker_id": "d41ef1d676b74237a516a8224cf37080-shard-0",
-        "claimed_at": "2026-10-29T03:25:18.572527+00:00",
-        "lease_expires_at": "2026-10-29T09:25:18.572527+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -13507,5 +13509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T03:25:21.372747+00:00"
+  "updated_at": "2026-10-29T03:30:53.653384+00:00"
 }
