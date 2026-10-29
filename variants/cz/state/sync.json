@@ -4031,23 +4031,23 @@
           "attempted_at": "2026-10-29T15:02:12.533407+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32367992",
-        "display_name": "Inside Job SD CZ Dabing",
-        "planned_at": "2026-10-29T16:16:22.138246+00:00"
-      },
       "previous_target_id": "30612580",
-      "prepared": {
+      "upload": {
         "target_video_id": "30612580",
-        "size_bytes": 2280868999,
-        "prepared_at": "2026-10-29T14:54:39.266736+00:00",
-        "relay_source_id": "32367992"
-      },
-      "claim": {
-        "worker_id": "fc47631a8b2947feb3b9c0febfd73767-shard-0",
-        "claimed_at": "2026-10-29T16:16:22.262226+00:00",
-        "lease_expires_at": "2026-10-29T22:16:22.262226+00:00",
-        "run_id": "40901233364"
+        "display_name": "Inside Job SD CZ Dabing",
+        "source_id": "32367992",
+        "source_url": "https://sdilej.cz/32367992/financni-krize.inside-job.2010.cz.dabing.mkv",
+        "source_filename": "Financni krize.Inside Job.2010.CZ.DABING.mkv",
+        "size_bytes": 2300000000,
+        "width": 720,
+        "height": 576,
+        "audio_language": "cs",
+        "language_probability": 0.9801607728004456,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/inside-job-cz-dabing-mkv/414021f53526eaeb",
+        "uploaded_at": "2026-10-29T16:16:29.259323+00:00"
       }
     },
     "29801": {
@@ -4071,8 +4071,8 @@
       ],
       "last_plan": {
         "source_id": "15184772",
-        "display_name": "Searching for Sugar Man CZ Dabing",
-        "planned_at": "2026-10-29T15:02:24.156404+00:00"
+        "display_name": "Searching for Sugar Man SD CZ Dabing",
+        "planned_at": "2026-10-29T16:16:28.921411+00:00"
       },
       "previous_target_id": "30612680",
       "prepared": {
@@ -4080,6 +4080,12 @@
         "size_bytes": 1756309890,
         "prepared_at": "2026-10-29T15:02:28.288643+00:00",
         "relay_source_id": "15184772"
+      },
+      "claim": {
+        "worker_id": "2cdc08c252524058833336f988fd9e62-shard-0",
+        "claimed_at": "2026-10-29T16:16:29.054020+00:00",
+        "lease_expires_at": "2026-10-29T22:16:29.054020+00:00",
+        "run_id": "40901233364"
       }
     },
     "10760": {
@@ -4246,7 +4252,7 @@
       "last_plan": {
         "source_id": "23578186",
         "display_name": "Mad Max: Fury Road 4K CZ Dabing",
-        "planned_at": "2026-10-29T16:16:22.178614+00:00"
+        "planned_at": "2026-10-29T16:16:28.960971+00:00"
       }
     },
     "237": {
@@ -19805,5 +19811,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:16:27.696957+00:00"
+  "updated_at": "2026-10-29T16:16:29.259340+00:00"
 }
