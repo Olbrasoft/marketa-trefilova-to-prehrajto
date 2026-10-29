@@ -4118,17 +4118,19 @@
       "attempts": []
     },
     "158": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31765062",
+          "target_video_id": "30612918",
+          "permanent": false,
+          "attempted_at": "2026-10-29T15:22:34.061108+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31765062",
         "display_name": "Temple Grandin CZ Dabing",
         "planned_at": "2026-10-29T15:18:24.237095+00:00"
-      },
-      "claim": {
-        "worker_id": "2b74754112454591a187c974b4d46270-shard-0",
-        "claimed_at": "2026-10-29T15:18:24.293011+00:00",
-        "lease_expires_at": "2026-10-29T21:18:24.293011+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30612918",
       "prepared": {
@@ -19710,5 +19712,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T15:18:27.904579+00:00"
+  "updated_at": "2026-10-29T15:22:34.061125+00:00"
 }
