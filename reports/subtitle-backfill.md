@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T18:08:08.740849+00:00
+Poslední aktualizace (UTC): 2026-10-29T18:08:19.272753+00:00
 
 Zkontrolováno videí: 70. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `source_czech_text_missing`: 3, `target_unavailable`: 25, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 10, `source_czech_text_missing`: 3, `target_unavailable`: 24, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -18,6 +18,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | --- | --- | --- | --- |
 | [A Clockwork Orange 4K CZ Titulky](https://prehraj.to/a-clockwork-orange-cz-titulky-mkv/4aea1f812e06a3cb) (ID 30608273) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T11:46:21.088640+00:00 |
 | [Django Unchained 4K CZ Titulky](https://prehraj.to/django-unchained-cz-titulky-mkv/8f93dd558c6bce9a) (ID 30588424) | [Sdílej 33138453](https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T09:59:37.956241+00:00 |
+| [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T18:08:19.272590+00:00 |
 | [Gladiator (2000) 4K CZ Titulky](https://prehraj.to/gladiator-2000-cz-titulky-mkv/5ab06a3385e9b8ad) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T12:47:26.246856+00:00 |
 | [Goodfellas 4K CZ Titulky](https://prehraj.to/goodfellas-cz-titulky-mkv/a65ae78cae07f027) (ID 30584304) | [Sdílej 12646320](https://sdilej.cz/12646320/goodfellas.1990.multi.uhd.blu-ray.2160p.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T05:42:20.089219+00:00 |
 | [Inception 1080p CZ Titulky](https://prehraj.to/inception-cz-titulky-mkv/cd15cbc3a2cf875e) (ID 30582836) | [Sdílej 34401564](https://sdilej.cz/34401564/inception.2010.blu-ray.remux.1080p.vc-1.dts-hd.ma.5.1-eng-ac3-5.1-cze.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T02:43:24.015291+00:00 |
@@ -39,7 +40,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | target_unavailable | 2026-10-29T18:07:22.461583+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T17:17:13.565099+00:00 |
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T18:07:47.965941+00:00 |
-| [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | target_unavailable | 2026-10-29T17:08:00.185265+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T18:07:44.269249+00:00 |
 | [Heat 1080p CZ Titulky](https://prehraj.to/heat-cz-titulky-mkv/fbe2ea57b0788734) (ID 30602067) | [Sdílej 6486240](https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-29T18:08:05.234768+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-29T18:07:17.497541+00:00 |
