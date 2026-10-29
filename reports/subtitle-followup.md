@@ -61,3 +61,4 @@ Attach subtitles only after target processing has finished.
 | The Secret in Their Eyes CZ Titulky | 30611733 | https://sdilej.cz/30945511/the.secret.in.their.eyes-2009-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Klaus CZ Titulky | 30612211 | https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv | Extract Czech track from exact source after processing |
 | Dave Chappelle: Sticks & Stones CZ Titulky | 30612332 | https://sdilej.cz/12213943/dave.chappelle.sticks.and.stones.2019.1080p.cz.sub.ddp5.1.hevc.mkv | Extract Czech track from exact source after processing |
+| Ran (乱) | 30612365 | https://sdilej.cz/33590630/ran-1985-tit.mp4 | Find and add matching Czech subtitles after processing |
