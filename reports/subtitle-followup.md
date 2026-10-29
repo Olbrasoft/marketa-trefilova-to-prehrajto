@@ -53,3 +53,4 @@ Attach subtitles only after target processing has finished.
 | Taxi Driver CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
 | A Clockwork Orange CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
 | Full Metal Jacket CZ Titulky | 30608676 | https://sdilej.cz/28679022/olovena-vesta-cztit.mkv | Extract Czech track from exact source after processing |
+| Amélie (Le Fabuleux Destin d'Amélie Poulain) | 30608820 | https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv | Find and add matching Czech subtitles after processing |
