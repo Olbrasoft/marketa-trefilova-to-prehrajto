@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T18:08:05.234860+00:00
+Poslední aktualizace (UTC): 2026-10-29T18:08:08.740849+00:00
 
 Zkontrolováno videí: 70. Další stránka kontroly: 0.
 
@@ -48,7 +48,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Lawrence of Arabia 1080p CZ Titulky](https://prehraj.to/lawrence-of-arabia-cz-titulky-mkv/afd2055797b2e4e8) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | target_unavailable | 2026-10-29T17:08:03.835508+00:00 |
 | [Logan 1080p CZ Titulky](https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0) (ID 30615338) | [Sdílej 7273334](https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv) | target_unavailable | 2026-10-29T17:36:59.967858+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-10-29T17:47:09.433159+00:00 |
-| [Oldboy (올드보이) (2003) 1080p CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T17:07:56.288280+00:00 |
+| [Oldboy (올드보이) (2003) 1080p CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T18:08:08.740708+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T18:07:32.936190+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T18:07:26.988233+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-29T17:17:02.604667+00:00 |
