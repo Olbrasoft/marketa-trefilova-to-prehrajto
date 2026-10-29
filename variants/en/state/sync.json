@@ -10,13 +10,6 @@
           "source_id": "32106032",
           "target_video_id": "30594653",
           "permanent": false,
-          "attempted_at": "2026-10-29T04:28:45.480909+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32106032",
-          "target_video_id": "30594653",
-          "permanent": false,
           "attempted_at": "2026-10-29T05:02:14.940546+00:00"
         },
         {
@@ -25,6 +18,13 @@
           "target_video_id": "30594653",
           "permanent": false,
           "attempted_at": "2026-10-29T05:38:30.678866+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32106032",
+          "target_video_id": "30594653",
+          "permanent": false,
+          "attempted_at": "2026-10-29T07:22:59.203313+00:00"
         }
       ],
       "last_plan": {
@@ -1594,7 +1594,7 @@
       "last_plan": {
         "source_id": "34430978",
         "display_name": "I Swear CZ Titulky",
-        "planned_at": "2026-10-29T05:38:31.838568+00:00"
+        "planned_at": "2026-10-29T07:22:58.604787+00:00"
       },
       "previous_target_id": "30595748",
       "prepared": {
@@ -1602,6 +1602,12 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-10-28T21:44:08.167815+00:00",
         "relay_source_id": "34430978"
+      },
+      "claim": {
+        "worker_id": "cb09071c849c42a6b92a647c92d40d82-shard-0",
+        "claimed_at": "2026-10-29T07:22:58.649907+00:00",
+        "lease_expires_at": "2026-10-29T13:22:58.649907+00:00",
+        "run_id": "40830099169"
       }
     },
     "31549": {
@@ -2045,7 +2051,7 @@
       "last_plan": {
         "source_id": "16781576",
         "display_name": "Jurassic Park CZ Titulky",
-        "planned_at": "2026-10-29T07:22:56.319537+00:00"
+        "planned_at": "2026-10-29T07:22:58.634374+00:00"
       }
     },
     "102": {
@@ -14841,5 +14847,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T07:22:56.319545+00:00"
+  "updated_at": "2026-10-29T07:22:59.203329+00:00"
 }
