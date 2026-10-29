@@ -48,7 +48,7 @@ Attach subtitles only after target processing has finished.
 | Heat 1080p CZ Titulky | 30602067 | https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Oldboy (올드보이) (2003) 1080p CZ Titulky | 30602237 | https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv | Complete: Czech subtitles verified |
 | Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky | 30602497 | https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4 | Extract Czech track from exact source after processing |
-| Lawrence of Arabia 1080p CZ Titulky | 30603287 | https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv | Extract Czech track from exact source after processing |
+| Lawrence of Arabia 1080p CZ Titulky | 30603287 | https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv | Complete: Czech subtitles verified |
 | Oppenheimer 4K CZ Titulky | 30606867 | https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv | Extract Czech track from exact source after processing |
 | Taxi Driver 1080p CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
 | A Clockwork Orange 4K CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
