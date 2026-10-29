@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T22:53:38.046344+00:00
+Poslední aktualizace (UTC): 2026-10-29T22:53:41.484622+00:00
 
 Zkontrolováno videí: 77. Další stránka kontroly: 0.
 
@@ -50,7 +50,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-29T22:13:08.523311+00:00 |
 | [Klaus 1080p CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-29T21:53:08.689665+00:00 |
 | [Logan 1080p CZ Titulky](https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0) (ID 30615338) | [Sdílej 7273334](https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv) | target_unavailable | 2026-10-29T22:43:32.981490+00:00 |
-| [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-10-29T21:53:02.289956+00:00 |
+| [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-10-29T22:53:41.484517+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T22:13:19.263863+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T22:13:15.850840+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | target_unavailable | 2026-10-29T22:53:34.666293+00:00 |
