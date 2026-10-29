@@ -5100,17 +5100,19 @@
       "attempts": []
     },
     "234": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22687989",
+          "target_video_id": "30620324",
+          "permanent": false,
+          "attempted_at": "2026-10-29T22:48:00.814222+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22687989",
         "display_name": "Warrior 1080p CZ Dabing",
         "planned_at": "2026-10-29T22:06:59.737994+00:00"
-      },
-      "claim": {
-        "worker_id": "f19ade7c3ca245a1919f6d0dca05a343-shard-0",
-        "claimed_at": "2026-10-29T22:06:59.819551+00:00",
-        "lease_expires_at": "2026-10-30T04:06:59.819551+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30620324",
       "prepared": {
@@ -22325,5 +22327,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T22:44:30.360462+00:00"
+  "updated_at": "2026-10-29T22:48:00.814239+00:00"
 }
