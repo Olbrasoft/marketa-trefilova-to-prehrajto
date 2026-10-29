@@ -242,6 +242,11 @@ class SubtitleTarget:
     def upload(self, target: Target, filename: str, content: bytes):
         if not target.ready or target.has_czech or target.unknown_tracks or not trusted_action(target.action, "uploadSubtitles"):
             raise TargetUnavailable("target_not_safe_to_attach")
+        if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9._-]*\.srt", filename):
+            raise TargetUnavailable("subtitle_filename_invalid")
+        # Enforce the same canonical bytes at the HTTP boundary that the
+        # durable intent hashes and the returned VTT track are checked against.
+        content = normalize_srt(content)
         self.throttle()
         response = http_request(lambda: self.session.post(target.action, data={"video": target.video_id},
                                      files={"files[]": (filename, content, "application/x-subrip")},

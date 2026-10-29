@@ -16,8 +16,9 @@ from sdilej_to_prehrajto.matching import classify_candidate, normalize_title
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.ranking import quality_acceptable, resolution_rank
 from sdilej_to_prehrajto.sdilej import SdilejProvider, SdilejError, PremiumRequiredError, parse_detail_html, slugify
-from sdilej_to_prehrajto.subtitle_media import choose_stream, run_media, SubtitleUnavailable, is_czech
+from sdilej_to_prehrajto.subtitle_media import choose_stream, run_media, SubtitleUnavailable, is_czech, TEXT_CODECS
 from sdilej_to_prehrajto.subtitle_backfill import atomic_write
+from .subtitle_visual import inspect_burned_in, VISUAL_POLICY
 
 LEGACY_POLICY = "english-subtitles-first-v1"
 POLICY = "original-subtitles-first-v2"
@@ -46,12 +47,21 @@ def has_subtitles(candidate: Candidate) -> bool:
     return candidate.match_evidence.get("marketa", {}).get("czech_subtitles") is True
 
 
+def bitmap_subtitles(candidate: Candidate) -> bool:
+    evidence = candidate.match_evidence.get("marketa", {})
+    codec = evidence.get("subtitle_codec")
+    return (evidence.get("subtitle_method") == "original_embedded_bitmap"
+            or bool(codec and codec not in TEXT_CODECS and evidence.get("subtitle_attachable") is False))
+
+
 def choose_english(candidates: list[Candidate]) -> Candidate | None:
     acceptable = [c for c in candidates if allowed_audio(c)
                   and c.match_tier in {MatchTier.STRONG, MatchTier.SOLID}
                   and quality_acceptable(c)]
     return min(acceptable, key=lambda c: (
-        not has_subtitles(c), -resolution_rank(c.width, c.height),
+        not has_subtitles(c),
+        bitmap_subtitles(c),
+        -resolution_rank(c.width, c.height),
         c.size_bytes or 0, c.source_id,
     ), default=None)
 
@@ -67,10 +77,12 @@ def probe_original(url: str) -> dict:
 
 
 class EnglishProvider(SdilejProvider):
-    def __init__(self, *args, english_titles: dict[int, str], probe=probe_original, cache_path=None, **kwargs):
+    def __init__(self, *args, english_titles: dict[int, str], probe=probe_original, cache_path=None,
+                 visual_inspector=None, **kwargs):
         super().__init__(*args, **kwargs)
         self.english_titles = english_titles
         self.probe_original = probe
+        self.visual_inspector = visual_inspector or inspect_burned_in
         self.cache_path = cache_path
         self.cache = json.loads(cache_path.read_text()) if cache_path and cache_path.exists() else {}
 
@@ -125,19 +137,30 @@ class EnglishProvider(SdilejProvider):
         try:
             stream = choose_stream(subtitles)
             evidence = {"czech_subtitles": True, "subtitle_stream_index": stream["index"],
-                        "subtitle_codec": stream["codec_name"]}
+                        "subtitle_codec": stream["codec_name"], "subtitle_attachable": True,
+                        "subtitle_method": "original_embedded_text"}
         except SubtitleUnavailable:
             evidence = {"czech_subtitles": bool(full_czech), "subtitle_attachable": False}
             if full_czech:
                 evidence.update(subtitle_stream_index=full_czech[0]["index"],
-                                subtitle_codec=full_czech[0].get("codec_name"))
+                                subtitle_codec=full_czech[0].get("codec_name"),
+                                subtitle_method="original_embedded_bitmap")
         page_tracks = BeautifulSoup(html, "html.parser").select("video track[src]")
         if any(is_czech(t.get("srclang", "")) and t.get("kind", "subtitles") in {"subtitles", "captions"}
                and not re.search(r"forced|vynucen|commentary", t.get("label", ""), re.I)
                for t in page_tracks):
             evidence = {"czech_subtitles": True, "subtitle_method": "original_page_track"}
-        if not evidence["czech_subtitles"] and re.search(r"\b(?:cz|ceske|české)[ ._-]*(?:tit|titulky|subs?)\b", detail.title, re.I):
-            raise SubtitleUnavailable("burned_in_or_external_subtitles_require_review")
+        if not evidence["czech_subtitles"]:
+            visual = self.visual_inspector(detail.download_url, detail.duration_sec,
+                                           deadline=getattr(self, "discovery_deadline", None))
+            evidence.update(visual)
+            if visual["visual_status"] == "czech_burned_in_verified":
+                evidence.update(czech_subtitles=True, subtitle_method="burned_in_ocr_verified",
+                                subtitle_attachable=False)
+            elif (visual["visual_status"] == "uncertain" or re.search(
+                    r"\b(?:cz|ceske|české)[ ._-]*(?:tit|titulky|subs?)\b", detail.title, re.I)):
+                # A filename hint or a failed visual check is not language proof.
+                raise SubtitleUnavailable("burned_in_or_external_subtitles_require_review")
         # The active uploader refreshes manifests without reloading its code.
         # Keep new English sources readable by that runner; only non-English
         # originals require the expanded policy used by its successor.
@@ -149,6 +172,7 @@ class EnglishProvider(SdilejProvider):
 
     def discover(self, film: Film) -> list[Candidate]:
         deadline = time.monotonic() + self.discovery_timeout_seconds
+        self.discovery_deadline = deadline
         english_title = self.english_titles[film.cr_film_id]
         candidates = {}
         queries = []
@@ -183,6 +207,10 @@ class EnglishProvider(SdilejProvider):
             current = record is not None and (
                 record.get("policy") == POLICY and record.get("original_language") == film.original_language
                 or record.get("policy") == LEGACY_POLICY and film.original_language in {None, "en"})
+            if current and record.get("candidate"):
+                evidence = record["candidate"].get("match_evidence", {}).get("marketa", {})
+                if not evidence.get("czech_subtitles") and evidence.get("visual_policy") != VISUAL_POLICY:
+                    current = False
             if current and record.get("error") and record.get("retry_after", "") > datetime.now(timezone.utc).isoformat():
                 incomplete = True
                 continue

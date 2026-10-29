@@ -119,6 +119,26 @@ def test_vtt_conversion_preserves_czech_text_and_timing():
     assert b"\n" not in result.replace(b"\r\n", b"")
 
 
+def test_upload_sends_canonical_srt_with_the_right_filename_and_mime():
+    session = Mock()
+    session.post.return_value.status_code = 200
+    target = parse_listing(listing())[0][0]
+    payload = "WEBVTT\n\n00:01.000 --> 00:02.500\nPříliš žluťoučký kůň.\n".encode()
+    SubtitleTarget(session, 0).upload(target, "cs-42-test.srt", payload)
+    assert session.post.call_args.kwargs["files"]["files[]"] == (
+        "cs-42-test.srt", normalize_srt(SRT), "application/x-subrip")
+
+
+@pytest.mark.parametrize("filename,payload", [("cs-42.ass", SRT), ("../cs-42.srt", SRT),
+                                               ("cs-42.srt", b"<html>not subtitles</html>")])
+def test_invalid_subtitle_format_never_reaches_the_server(filename, payload):
+    session = Mock()
+    target = parse_listing(listing())[0][0]
+    with pytest.raises((TargetUnavailable, SubtitleUnavailable)):
+        SubtitleTarget(session, 0).upload(target, filename, payload)
+    session.post.assert_not_called()
+
+
 @pytest.mark.parametrize("payload", [b"<html>login</html>", b"WEBVTT", b"1\n00:02.000 --> 00:01.000\nx", b"1\n00:62.000 --> 01:03.000\nx", b"1\n00:01.000 --> 00:02.000\n", b"\xff"])
 def test_rejects_invalid_subtitles(payload):
     with pytest.raises(SubtitleUnavailable):
@@ -173,6 +193,48 @@ def test_source_mapping_rejects_later_reselection_and_unrelated_queue_target(tmp
 def test_source_mapping_accepts_exact_historical_source(tmp_path):
     prepare_root(tmp_path)
     assert source_map(tmp_path)["42"]["source_id"] == "123"
+
+
+def test_processed_prepared_target_does_not_wait_for_upload_reconciliation(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    (tmp_path / "state/sync.json").write_text(json.dumps({"films": {"1": {
+        "prepared": {"target_video_id": "42", "relay_source_id": "123"},
+        "last_plan": {"source_id": "123", "display_name": "Film CZ Titulky"}}}}))
+    worker.sources = source_map(tmp_path)
+    assert worker.sources["42"]["source_id"] == "123"
+    worker.inventory(0)
+    worker.process(row)
+    target.upload.assert_called_once()
+
+
+def test_prepared_target_cannot_use_a_different_reselected_source(tmp_path):
+    prepare_root(tmp_path)
+    (tmp_path / "state/sync.json").write_text(json.dumps({"films": {"1": {
+        "prepared": {"target_video_id": "42", "relay_source_id": "999"}}}}))
+    assert source_map(tmp_path) == {}
+
+
+def test_processing_video_is_retried_in_ten_minutes_without_extraction(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    target.refresh.return_value.ready = False
+    assert not worker.process(row)
+    assert row["status"] == "target_processing"
+    from datetime import datetime
+    delay = datetime.fromisoformat(row["retry_after"]) - datetime.fromisoformat(row["checked_at"])
+    assert 599 <= delay.total_seconds() <= 601
+    worker_module.extract_original.assert_not_called()
+    target.upload.assert_not_called()
+
+
+def test_verified_burned_in_subtitles_are_not_extracted_or_generated(tmp_path, monkeypatch):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    row["source"]["burned_in_czech_verified"] = True
+    worker.on_verified = Mock()
+    assert not worker.process(row)
+    assert row["status"] == "burned_in_czech_verified"
+    worker.on_verified.assert_called_once_with(row)
+    worker_module.extract_original.assert_not_called()
+    target.upload.assert_not_called()
 
 
 def test_name_reconciliation_is_not_source_provenance(tmp_path):

@@ -7,6 +7,7 @@ from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from datetime import datetime, timedelta, timezone
 import json
 import os
+import re
 from pathlib import Path
 import threading
 import time
@@ -15,6 +16,7 @@ from sdilej_to_prehrajto.git_state import GitStatePersister
 from sdilej_to_prehrajto.language import WhisperLanguageDetector
 from sdilej_to_prehrajto.pipeline import SyncPipeline
 from sdilej_to_prehrajto.prehrajto import login as target_login
+from sdilej_to_prehrajto.prehrajto import rename_video, uploaded_video_confirmed, PrehrajtoError
 from sdilej_to_prehrajto.sdilej import login as source_login, SdilejProvider, PremiumRequiredError
 from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.subtitle_backfill import Backfill, atomic_write
@@ -23,7 +25,8 @@ from sdilej_to_prehrajto.subtitle_media import SubtitleUnavailable
 from sdilej_to_prehrajto.subtitles import SubtitleQueue
 
 from .catalog import EnglishTitles, VariantSourceStore, import_sources, named_films, read_rows
-from .discovery import EnglishProvider, display_name
+from .discovery import EnglishProvider, display_name, has_subtitles
+from .subtitle_visual import VISUAL_POLICY
 
 
 def required_env(name):
@@ -97,11 +100,20 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
         ordered.extend(fresh.popleft() for _ in range(min(4, len(fresh))))
         if retries:
             ordered.append(retries.popleft())
+    visual_reviews = []
+    for film in films:
+        candidate = pipeline.selected_sources.candidate(film.cr_film_id)
+        if candidate and not has_subtitles(candidate) and candidate.match_evidence["marketa"].get("visual_policy") != VISUAL_POLICY:
+            visual_reviews.append(film)
+    review_ids = {film.cr_film_id for film in visual_reviews}
+    ordered = visual_reviews + [film for film in ordered if film.cr_film_id not in review_ids]
     for film in ordered:
         if attempted >= limit or time.monotonic() >= deadline:
             break
         key = str(film.cr_film_id)
-        if pipeline.selected_sources.candidate(film.cr_film_id) or pipeline.state.uploaded(film.cr_film_id):
+        existing = pipeline.selected_sources.candidate(film.cr_film_id)
+        visual_review = film.cr_film_id in review_ids
+        if not visual_review and (existing or pipeline.state.uploaded(film.cr_film_id)):
             continue
         now = datetime.now(timezone.utc)
         if scanned.get(key, {}).get("retry_after", "") > now.isoformat():
@@ -109,7 +121,14 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
         attempted += 1
         provider.discovery_timeout_seconds = min(300, max(1, deadline - time.monotonic()))
         try:
-            selected = provider.discover(film)
+            if visual_review:
+                # Review the exact file already uploaded/prepared, never
+                # replace its source while learning whether pixels have text.
+                provider.discovery_deadline = min(deadline, time.monotonic() + provider.discovery_timeout_seconds)
+                checked = provider.verify_english(film, existing)
+                selected = [checked] if checked else []
+            else:
+                selected = provider.discover(film)
             if selected:
                 candidate = selected[0]
                 pipeline._record_verified_source(film, candidate, display_name(names[film.cr_film_id], "en", candidate))
@@ -176,25 +195,56 @@ def checkpoint_paths(root: Path, mode: str) -> tuple[Path, ...]:
     return tuple(root / path for path in relative)
 
 
-def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpoint_lock=None):
+def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpoint_lock=None,
+                  state_store=None):
     lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
     lane = root / "variants/en"
-    backfill = Backfill(SubtitleTarget(target), source, lane,
-                        lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
-                        persist=persist, checkpoint_lock=lock)
-    backfill.run(max_pages=2, max_sources=limit, limit=limit, runtime_minutes=runtime_minutes)
+    store = state_store or StateStore(lane / "state/sync.json", on_persist=persist, checkpoint_lock=lock)
+
+    def confirm_name(row):
+        with lock:
+            film_id = row.get("source", {}).get("cr_film_id")
+            if film_id is None:
+                return
+            entry = store.snapshot(film_id)
+            upload = entry.get("upload") or {}
+            prepared = entry.get("prepared") or {}
+            record = upload or (prepared if row.get("source", {}).get("burned_in_czech_verified") else {})
+            title = upload.get("display_name") or (entry.get("last_plan") or {}).get("display_name", "")
+            if (str(record.get("target_video_id")) != row["target_video_id"] or not title
+                    or re.search(r"CZ\s+(?:Titulky|Dabing)$", title, re.I)):
+                return
+            wanted = title + " CZ Titulky"
+            if not uploaded_video_confirmed(target, row["target_video_id"], wanted):
+                rename_video(target, row["target_video_id"], wanted)
+                if not uploaded_video_confirmed(target, row["target_video_id"], wanted):
+                    raise PrehrajtoError("Subtitle name change unconfirmed")
+            if upload:
+                store.film(film_id)["upload"]["display_name"] = wanted
+            if entry.get("last_plan"):
+                store.film(film_id)["last_plan"]["display_name"] = wanted
+            store.save("success")
+            row["title"] = wanted
+
+    with lock:
+        backfill = Backfill(SubtitleTarget(target), source, lane,
+                            lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
+                            persist=persist, checkpoint_lock=lock, on_verified=confirm_name)
+    result = backfill.run(max_pages=2, max_sources=limit, limit=limit, runtime_minutes=runtime_minutes)
     with lock:
         followup_report(root)
         if persist:
             persist(lane / "state/subtitle-backfill.json", "flush")
+    return result
 
 
 def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
                 continuous=False, refresh=None, subtitles=None,
                 session_pairs=None, poll_interval_seconds=15,
-                checkpoint_lock=None,
+                checkpoint_lock=None, subtitle_drain_minutes=0,
                 clock=time.monotonic, sleep=time.sleep):
     deadline = clock() + runtime_minutes * 60
+    subtitle_deadline = deadline + subtitle_drain_minutes * 60
     counts = {"planned": 0, "uploaded": 0, "processing": 0, "failed": 0}
     pairs = session_pairs or [None]
     lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
@@ -203,7 +253,6 @@ def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
     reserved = set()
     next_refresh = clock()
     next_subtitles = clock()
-    subtitle_count = 0
     subtitle_future = None
     print(f"upload_workers={len(pairs)}", flush=True)
 
@@ -242,7 +291,6 @@ def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
                 except Exception as error:
                     print(f"subtitle_followup_deferred={type(error).__name__}", flush=True)
                 subtitle_future = None
-                next_subtitles = clock() + 600
 
             plans = []
             if clock() < deadline:
@@ -260,11 +308,14 @@ def drain_queue(root, pipelines, films, *, limit, runtime_minutes, persist=None,
                     reserved.add((variant, row["film"]["cr_film_id"]))
                     future = transfers.submit(execute, variant, row, slot)
                     pending[future] = (variant, row, slot)
-                remaining_minutes = int((deadline - clock()) / 60)
-                if (subtitles and subtitle_future is None and clock() >= next_subtitles
-                        and counts["planned"] > subtitle_count and remaining_minutes > 0):
-                    subtitle_count = counts["planned"]
-                    subtitle_future = maintenance.submit(subtitles, min(10, remaining_minutes))
+            remaining_minutes = int((subtitle_deadline - clock()) / 60)
+            if (subtitles and subtitle_future is None and clock() >= next_subtitles
+                    and remaining_minutes > 0 and (clock() < deadline or pending)):
+                # Processing can finish while every transfer slot is busy,
+                # including the graceful drain after the upload deadline.
+                next_subtitles = clock() + 600
+                print("subtitle_followup_started interval_seconds=600", flush=True)
+                subtitle_future = maintenance.submit(subtitles, min(10, remaining_minutes))
 
             active = [*pending, *([subtitle_future] if subtitle_future is not None else [])]
             if active:
@@ -334,10 +385,11 @@ def main():
         pairs.append((source_session(), target_session()))
     def refresh():
         if persist:
-            for variant, pipeline in pipelines.items():
-                payload = persist.read_remote_file(f"variants/{variant}/manifests/selected-sources.jsonl")
-                pipeline.selected_sources.merge_jsonl(payload)
-            titles.rows = json.loads(persist.read_remote_file("state/english-titles.json"))
+            with checkpoint_lock:
+                for variant, pipeline in pipelines.items():
+                    payload = persist.read_remote_file(f"variants/{variant}/manifests/selected-sources.jsonl")
+                    pipeline.selected_sources.merge_jsonl(payload)
+                titles.rows = json.loads(persist.read_remote_file("state/english-titles.json"))
         refreshed_films, refreshed_names = named_films(rows, titles)
         names.update(refreshed_names)
         return refreshed_films
@@ -345,18 +397,22 @@ def main():
     subtitle_sessions = None
     def subtitles(remaining_minutes):
         nonlocal subtitle_sessions
-        if any(pipelines["en"].state.uploaded(film.cr_film_id) for film in films):
+        with checkpoint_lock:
+            has_targets = any(entry.get("upload") or entry.get("prepared")
+                              for entry in pipelines["en"].state.data["films"].values())
+        if has_targets:
             if subtitle_sessions is None:
                 subtitle_sessions = (source_session(), target_session())
             run_subtitles(root, *subtitle_sessions, persist, 20, remaining_minutes,
-                          checkpoint_lock=checkpoint_lock)
+                          checkpoint_lock=checkpoint_lock, state_store=pipelines["en"].state)
 
     continuous = args.mode == "continuous"
     counts = drain_queue(root, pipelines, films, limit=args.limit,
                          runtime_minutes=args.runtime_minutes, persist=persist,
                          continuous=continuous, refresh=refresh if continuous else None,
                          subtitles=subtitles if continuous else None, session_pairs=pairs,
-                         checkpoint_lock=checkpoint_lock)
+                         checkpoint_lock=checkpoint_lock,
+                         subtitle_drain_minutes=max(0, 330 - args.runtime_minutes) if continuous else 0)
     print(json.dumps(counts), flush=True)
     return int(counts["failed"] > 0)
 

@@ -8,12 +8,13 @@ from types import SimpleNamespace
 import pytest
 
 from marketa_sync.catalog import EnglishTitles, VariantSourceStore, combined_title, import_sources, named_films
-from marketa_sync.cli import make_pipeline, ordered_plans, followup_report, drain_queue, checkpoint_paths, prepare
+from marketa_sync.cli import make_pipeline, ordered_plans, followup_report, drain_queue, checkpoint_paths, prepare, run_subtitles
 from marketa_sync.discovery import choose_english, display_name, POLICY, LEGACY_POLICY, EnglishProvider
 from sdilej_to_prehrajto.models import Candidate, Film, LanguageTier, MatchTier
 from sdilej_to_prehrajto.prehrajto import _uploaded_video_id_from_html, login, PrehrajtoError
 from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.subtitle_backfill import Backfill, source_map
+from sdilej_to_prehrajto.subtitle_media import SubtitleUnavailable
 
 
 def candidate(source_id="123", language="en", width=1920, subtitles=False):
@@ -192,6 +193,38 @@ def test_original_czech_tracks_are_preferred_even_when_manual_conversion_is_need
     assert result.match_evidence["marketa"]["subtitle_codec"]==codec
 
 
+@pytest.mark.parametrize("visual_status,expected", [
+    ("czech_burned_in_verified", "The Film CZ Titulky"),
+    ("no_text_detected", "The Film"),
+    ("foreign_text_detected", "The Film"),
+    ("uncertain", None),
+])
+def test_visual_evidence_controls_names_and_unknown_results_are_deferred(monkeypatch, visual_status, expected):
+    film = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
+    detector = SimpleNamespace(detect_consensus=lambda *_args, **_kwargs: ("en", 0.99))
+    payload = {"format": {"duration": "7200"}, "streams": [
+        {"codec_type": "video", "width": 1920, "height": 1080, "codec_name": "h264"},
+        {"codec_type": "audio", "tags": {"language": "eng"}}]}
+    provider = EnglishProvider(None, detector, english_titles={1: "The Film"}, probe=lambda _: payload,
+                               visual_inspector=lambda *_args, **_kwargs: {"visual_status": visual_status})
+    monkeypatch.setattr(provider, "_get", lambda _: SimpleNamespace(text="<html></html>"))
+    monkeypatch.setattr("marketa_sync.discovery.parse_detail_html", lambda *_: candidate())
+    if expected is None:
+        with pytest.raises(SubtitleUnavailable, match="burned_in_or_external_subtitles_require_review"):
+            provider.verify_english(film, candidate())
+    else:
+        result = provider.verify_english(film, candidate())
+        assert display_name("The Film", "en", result) == expected
+
+
+def test_attachable_text_is_preferred_over_a_higher_resolution_bitmap_track():
+    bitmap = candidate("bitmap", width=3840, subtitles=True)
+    bitmap.match_evidence["marketa"]["subtitle_method"] = "original_embedded_bitmap"
+    text = candidate("text", width=1920, subtitles=True)
+    text.match_evidence["marketa"]["subtitle_method"] = "original_embedded_text"
+    assert choose_english([bitmap, text]).source_id == "text"
+
+
 def test_processing_reconciliation_is_not_starved_by_fresh_films(tmp_path):
     pipeline,first=seed_source(tmp_path,"cz",1,candidate(language="cs"))
     later=replace(first,cr_film_id=10,priority_rank=10)
@@ -357,6 +390,7 @@ def test_broken_candidate_does_not_prevent_verifying_and_resuming_later_candidat
         calls.append(item.source_id)
         if item.source_id == "broken":
             raise SdilejError("unavailable https://example.test/private-token")
+        item.match_evidence["marketa"]["visual_policy"] = "burned-in-czech-v1"
         return item
     monkeypatch.setattr(provider, "verify_english", verify)
     with pytest.raises(SdilejError):
@@ -566,3 +600,86 @@ def test_variant_and_subtitle_files_cannot_change_during_another_checkpoint(tmp_
     assert json.loads(cz.state.path.read_text())["films"]["1"]["prepared"]["target_video_id"] == "111"
     assert json.loads(en.state.path.read_text())["films"]["1"]["prepared"]["target_video_id"] == "222"
     assert subtitles.state_path.is_file()
+
+
+def test_subtitle_polling_starts_immediately_and_repeats_without_any_uploads(tmp_path):
+    pipeline = make_pipeline(tmp_path, "cz", {})
+    clock = FakeClock()
+    calls = []
+    counts = drain_queue(tmp_path, {"cz": pipeline}, [], limit=3, runtime_minutes=22,
+                         continuous=True, subtitles=lambda _: calls.append(clock()),
+                         clock=clock, sleep=clock.sleep)
+    assert calls == [0, 600, 1200]
+    assert counts["planned"] == 0
+
+
+@pytest.mark.parametrize("fail_first", [False, True])
+@pytest.mark.parametrize("runtime,drain", [(20, 0), (10, 10)])
+def test_subtitles_repeat_while_a_transfer_is_busy_and_recover_after_failure(tmp_path, monkeypatch, fail_first, runtime, drain):
+    pipeline, film = seed_source(tmp_path, "cz", 1, candidate(language="cs"))
+    clock = FakeClock()
+    started, release = threading.Event(), threading.Event()
+    calls = []
+    def execute(_):
+        started.set()
+        assert release.wait(3), "Subtitle polling depended on upload completion"
+        pipeline.state.record_success(1, {"target_video_id": "777"})
+    def subtitles(_):
+        assert started.wait(3)
+        assert not pipeline.state.uploaded(1)
+        calls.append(clock())
+        clock.seconds += 600
+        if len(calls) == 1 and fail_first:
+            raise RuntimeError("temporary subtitle failure")
+        if len(calls) == 2:
+            release.set()
+    monkeypatch.setattr(pipeline, "execute", execute)
+    counts = drain_queue(tmp_path, {"cz": pipeline}, [film], limit=1, runtime_minutes=runtime,
+                         continuous=True, subtitles=subtitles, poll_interval_seconds=0.01,
+                         clock=clock, sleep=clock.sleep, subtitle_drain_minutes=drain)
+    assert calls == [0, 600]
+    assert counts["uploaded"] == 1
+
+
+def test_old_unsubtitled_source_is_visually_reviewed_without_reselecting_the_uploaded_file(tmp_path, monkeypatch):
+    (tmp_path / "config").mkdir()
+    (tmp_path / "config/english-titles.json").write_text('{}')
+    pipeline, film = seed_source(tmp_path, "en", 1, candidate())
+    pipeline.state.record_success(1, {"target_video_id": "777"})
+    calls = []
+    def verify(self, movie, source):
+        calls.append((movie.cr_film_id, source.source_id))
+        source.match_evidence["marketa"].update(czech_subtitles=True,
+            subtitle_method="burned_in_ocr_verified", visual_policy="burned-in-czech-v1")
+        return source
+    monkeypatch.setattr("marketa_sync.cli.source_session", lambda: None)
+    monkeypatch.setattr(EnglishProvider, "verify_english", verify)
+    monkeypatch.setattr(EnglishProvider, "discover", lambda *_: pytest.fail("The uploaded source must not be reselected"))
+    prepare(tmp_path, [film], {1: "The Film"}, 1, None, 5)
+    stored = VariantSourceStore(tmp_path / "variants/en/manifests/selected-sources.jsonl", "en").candidate(1)
+    assert calls == [(1, "123")]
+    assert display_name("The Film", "en", stored) == "The Film CZ Titulky"
+    assert pipeline.state.snapshot(1)["upload"]["target_video_id"] == "777"
+
+
+@pytest.mark.parametrize("confirmed_target,old_name,expected", [
+    ("777", "The Film", "The Film CZ Titulky"),
+    ("wrong", "The Film", "The Film"),
+    ("777", "The Film CZ Dabing", "The Film CZ Dabing"),
+    ("777", "The Film CZ Titulky", "The Film CZ Titulky"),
+])
+def test_confirmed_subtitles_rename_only_the_owned_original_and_update_the_live_store(tmp_path, monkeypatch, confirmed_target, old_name, expected):
+    pipeline, _ = seed_source(tmp_path, "en", 1, candidate(subtitles=True))
+    pipeline.state.record_success(1, {"target_video_id": "777", "display_name": old_name})
+    row = {"target_video_id": confirmed_target, "source": {"cr_film_id": 1}}
+    rename_calls = []
+    confirmations = iter([False, True])
+    monkeypatch.setattr("marketa_sync.cli.rename_video", lambda _session, video, name: rename_calls.append((video, name)))
+    monkeypatch.setattr("marketa_sync.cli.uploaded_video_confirmed", lambda *_: next(confirmations))
+    def backfill(*_args, on_verified, **_kwargs):
+        return SimpleNamespace(run=lambda **_: on_verified(row))
+    monkeypatch.setattr("marketa_sync.cli.Backfill", backfill)
+    run_subtitles(tmp_path, None, None, None, 20, 10, state_store=pipeline.state)
+    assert pipeline.state.snapshot(1)["upload"]["display_name"] == expected
+    assert StateStore(pipeline.state.path).snapshot(1)["upload"]["display_name"] == expected
+    assert rename_calls == ([("777", expected)] if expected != old_name else [])

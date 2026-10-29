@@ -91,8 +91,13 @@ běží jeden uploadovací proces se třemi souběžnými přenosy filmů. Po do
 jednoho přenosu uvolněný worker ihned převezme další film, i když ostatní přenosy
 ještě běží. Souběh lze nastavit parametrem `--workers` nebo `UPLOAD_WORKERS`
 v rozsahu 1 až 6. Každý worker má vlastní přihlášené relace; česká a původní
-varianta sdílejí jeden společný limit přenosů. Titulky se doplňují samostatnou
-relací na pozadí. Příprava má vlastní skupinu a zapisuje oddělené
+varianta sdílejí jeden společný limit přenosů. Titulky kontroluje samostatná
+relace na pozadí hned po startu a následně každých deset minut, i když je
+uploadovací fronta prázdná nebo jsou všechny přenosy stále rozběhnuté.
+Jedna kontrola má nejvýše deset minut; delší dávka naváže bez další prodlevy.
+Kontrola pokračuje i při doběhu velkých přenosů po čtyřhodinovém uploadovacím
+limitu, nejvýše do 330. minuty běhu, aby zůstala rezerva před limitem runneru.
+Příprava má vlastní skupinu a zapisuje oddělené
 stavové soubory. Plánovací kontrola je nezávislá a nic neposílá na cílový účet.
 Průběžný workflow používá dílčí dávky po třech variantách; ruční operace mají
 výchozí limit dvě varianty. V průběžném režimu jde o velikost jedné iterace,
@@ -119,15 +124,39 @@ vazbu na zdroj pro pozdější titulky. Stav se odděluje v `variants/cz` a `var
 - `state/english-titles.json`: ověřené názvy a nedohledané názvy.
 
 Existující české textové stopy se po zpracování videa automaticky extrahují
-z jeho přesného zdroje a připojí. Bez titulkové stopy zůstane film v přehledu
+z jeho přesného zdroje a připojí. Kontrola zahrnuje i přidělená cílová ID, která
+web již dokončil, ale uploader je ještě znovu nezkontroloval. Rozpracované video
+se znovu ověřuje po deseti minutách. Před odesláním se titulky validují a převádějí
+na soubor `.srt` v UTF-8 s CRLF, průběžným číslováním a platným časováním.
+WebVTT a ASS/SSA se převádějí bez překladu a změny časů. Přijetí se ověřuje
+podle skutečné české stopy v přehrávači a shody obsahu, nikoli podle HTTP 200.
+Bez titulkové stopy zůstane film v přehledu
 k ručnímu doplnění. Titulky se automaticky nepřekládají a nepřebírají z jiné verze
 filmu. Nejasný výsledek odeslání titulků se pouze ověřuje, odeslání se neopakuje.
-Název bez dodatku se po ručním doplnění titulků zatím automaticky nepřejmenovává.
+Po potvrzeném doplnění českých titulků dostane dokončená původní verze dodatek
+`CZ Titulky`; změna se ověří na webu a zapíše do společného uploadovacího stavu.
 
 Obrazové české stopy mají při výběru také přednost, jejich převod a doplnění
 však vyžadují ruční práci a zůstávají v titulkovém přehledu. Natvrdo vložené
 titulky nemají automatické ověření. Zdroj označený českými titulky bez
 dohledatelné stopy se odloží k ověření.
+
+Vypálené titulky se neposuzují podle názvu zdroje. Když chybí samostatná česká
+stopa, příprava kontroluje šest snímků rozmístěných mezi 12 a 82 procenty filmu.
+FFmpeg čte pouze obraz bez vykreslení samostatných stop. Tesseract s českým a
+anglickým modelem čte spodní část obrazu; Lingua ověřuje jazyk souhrnu nejméně
+tří různých čitelných textů ze tří snímků. Potvrzená čeština s dostatečnou
+jazykovou jistotou dovolí název `CZ Titulky` s důkazem `burned_in_ocr_verified`.
+OCR zde slouží pouze k detekci, nikdy k vytváření ani převodu titulků.
+Stejnou kontrolou projdou i dříve vybrané zdroje bez ověřených českých titulků;
+prověřuje se jejich původní soubor, nikoli nově vyhledaná náhrada.
+Nečitelný nebo jazykově nejasný výsledek se odloží. Pokud se české titulky
+nepodaří ověřit, název nedostane český titulkový dodatek; výslovné tvrzení
+zdroje o českých titulcích s neúspěšnou kontrolou vyžaduje ověření. Žádný text
+ve vzorcích není důkazem absence titulků v celém filmu. Důkazy obsahují pouze
+časy, počty, jazyk a otisky snímků, nikoli přístupové URL, snímky či dialogy.
+Textové české stopy a potvrzené vypálené titulky mají přednost před samostatnou
+obrazovou stopou PGS, kterou nelze automaticky připojit jako textový SRT.
 Pouhá zmínka EN v názvu vícezvukového souboru nestačí: první i výchozí zvuková
 stopa nesmějí být označené jiným jazykem a původní první stopu ověřuje Whisper.
 
@@ -135,11 +164,12 @@ stopa nesmějí být označené jiným jazykem a původní první stopu ověřuj
 
 ```bash
 python3 -m venv .venv
-.venv/bin/pip install -e '.[test]'
+.venv/bin/pip install -e '.[test,visual]'
 .venv/bin/pytest
 .venv/bin/marketa-sync plan --limit 5
 ```
 
-Pro vyhledávání je potřeba FFmpeg a instalace `.[whisper]`. Přenosový a titulkový
+Pro vyhledávání je potřeba FFmpeg, Tesseract s modely `ces` a `eng` a instalace
+`.[whisper,visual]`. Přenosový a titulkový
 klient vychází z původního repozitáře; výchozí revize je v `upstream/revision.txt`.
 Původní pracovní adresář se neupravuje.

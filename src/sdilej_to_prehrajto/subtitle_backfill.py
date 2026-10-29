@@ -58,6 +58,16 @@ def source_map(root: Path) -> dict[str, dict]:
     for film_id, row in films.items():
         upload = row.get("upload") or {}
         target_id = str(upload.get("target_video_id", ""))
+        prepared = row.get("prepared") or {}
+        if not target_id and prepared.get("target_video_id"):
+            target_id = str(prepared["target_video_id"])
+            selected = manifests.get(film_id, {})
+            if not prepared.get("relay_source_id") or str(selected.get("source_id")) != str(prepared["relay_source_id"]):
+                continue
+            # The immutable source ID bound before relay is sufficient even
+            # before the uploader has revisited this now-processed target.
+            upload = {**selected, "target_video_id": target_id,
+                      "completion_evidence": "prepared_relay_source"}
         if not target_id:
             continue
         if upload.get("completion_evidence") == "reconciled_existing_film":
@@ -65,7 +75,7 @@ def source_map(root: Path) -> dict[str, dict]:
         if queue.get(target_id, {}).get("source_binding_verified") is False:
             continue
         source = upload
-        evidence = "upload_snapshot"
+        evidence = "prepared_relay_source" if upload.get("completion_evidence") == "prepared_relay_source" else "upload_snapshot"
         if not source.get("source_url"):
             queued = queue.get(target_id, {})
             source = queued if str(queued.get("cr_film_id")) == film_id else {}
@@ -88,6 +98,12 @@ def source_map(root: Path) -> dict[str, dict]:
         mapped[target_id] = {"cr_film_id": int(film_id), "source_id": source_id,
                              "source_url": url, "source_filename": source.get("source_filename", ""),
                              "provenance": evidence}
+        selected = manifests.get(film_id, {})
+        if str(selected.get("source_id")) == source_id:
+            subtitle_evidence = selected.get("match_evidence", {}).get("marketa", {})
+            if (subtitle_evidence.get("subtitle_method") == "burned_in_ocr_verified"
+                    and subtitle_evidence.get("visual_status") == "czech_burned_in_verified"):
+                mapped[target_id]["burned_in_czech_verified"] = True
     return mapped
 
 
@@ -108,7 +124,7 @@ MANUAL_REASONS = {
 
 INVENTORY_ONLY_STATUSES = {
     "attached_verified", "already_has_czech", "source_provenance_missing",
-    "existing_tracks_uncertain",
+    "existing_tracks_uncertain", "burned_in_czech_verified",
 }
 
 
@@ -154,10 +170,11 @@ def report_markdown(state: dict) -> str:
 
 class Backfill:
     def __init__(self, target, source_session, root: Path, state_path: Path, report_path: Path,
-                 persist=None, dry_run=False, checkpoint_lock=None):
+                 persist=None, dry_run=False, checkpoint_lock=None, on_verified=None):
         self.target, self.source_session = target, source_session
         self.root, self.state_path, self.report_path = root, state_path, report_path
         self.persist, self.dry_run = persist, dry_run
+        self.on_verified = on_verified
         self.checkpoint_lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
         self.deadline = None
         self.state = json.loads(state_path.read_text()) if state_path.exists() else {"schema_version": 1, "videos": {}, "next_page": 0}
@@ -190,7 +207,7 @@ class Backfill:
         elif target.unknown_tracks:
             self.status(row, "existing_tracks_uncertain", 24)
         elif not target.ready:
-            self.status(row, "target_processing", 1)
+            self.status(row, "target_processing", 1 / 6)
         elif row["status"] in {"target_processing", "already_has_czech", "existing_tracks_uncertain"}:
             self.status(row, "pending")
         if target.ready and not target.has_czech and not target.unknown_tracks and not row.get("source"):
@@ -200,8 +217,11 @@ class Backfill:
     def inventory(self, max_pages):
         # The local ledger determines work. The remote listing is only an
         # optional, bounded recovery index for missing public detail links.
-        uploads = [row.get("upload", {}) for row in json.loads((self.root / "state/sync.json").read_text())["films"].values()]
-        queued = list(jsonl(self.root / "plans/subtitle-followup.jsonl"))
+        with self.checkpoint_lock:
+            transfers = list(json.loads((self.root / "state/sync.json").read_text())["films"].values())
+            uploads = [row.get("upload") or {**(row.get("prepared") or {}), **(row.get("last_plan") or {})}
+                       for row in transfers]
+            queued = list(jsonl(self.root / "plans/subtitle-followup.jsonl"))
         candidates = [row for row in uploads if row.get("needs_czech_subtitles") or re.search(r"CZ\s+Titulky", row.get("display_name", ""), re.I)] + queued
         for candidate in candidates:
             video_id = str(candidate.get("target_video_id", ""))
@@ -265,6 +285,7 @@ class Backfill:
                 return False
             intent.update(subtitle_id=own[0]["id"], language_confirmed=True)
             self.status(row, "attached_verified", 24)
+            self.confirm_name(row)
             return True
         stem = Path(intent["filename"]).stem
         own = [track for track in target.tracks if track["id"] not in intent["before_ids"]
@@ -292,13 +313,24 @@ class Backfill:
                 return False
             intent["language_confirmed"] = True
         self.status(row, "attached_verified", 24)
+        self.confirm_name(row)
         return True
+
+    def confirm_name(self, row):
+        if self.on_verified and not self.dry_run:
+            self.on_verified(row)
 
     def process(self, row):
         if row.get("intent"):
             return self.reconcile(row)
         target = self.refresh(row)
         self.inspect(target)
+        if target.ready and target.has_czech:
+            self.confirm_name(row)
+        if target.ready and row.get("source", {}).get("burned_in_czech_verified"):
+            self.status(row, "burned_in_czech_verified", 24)
+            self.confirm_name(row)
+            return False
         if not target.ready or target.has_czech or target.unknown_tracks or not row.get("source"):
             return False
         print(f"subtitle_extract_start target={target.video_id} source={row['source']['source_id']}", flush=True)
