@@ -3241,17 +3241,19 @@
       "attempts": []
     },
     "214": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26744950",
+          "target_video_id": "30616407",
+          "permanent": false,
+          "attempted_at": "2026-10-29T18:38:09.756273+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26744950",
         "display_name": "Fargo 1080p CZ Titulky",
         "planned_at": "2026-10-29T18:25:45.035114+00:00"
-      },
-      "claim": {
-        "worker_id": "c67854d7501c451f8929396b02dbf25e-shard-0",
-        "claimed_at": "2026-10-29T18:25:45.059987+00:00",
-        "lease_expires_at": "2026-10-30T00:25:45.059987+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30616407",
       "prepared": {
@@ -19549,5 +19551,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T18:33:55.083569+00:00"
+  "updated_at": "2026-10-29T18:38:09.756294+00:00"
 }
