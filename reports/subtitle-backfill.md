@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:48:26.335083+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:48:31.093821+00:00
 
 Zkontrolováno videí: 63. Další stránka kontroly: 0.
 
@@ -47,7 +47,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Lawrence of Arabia CZ Titulky](https://prehraj.to/lawrence-of-arabia-cz-titulky-mkv/afd2055797b2e4e8) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | target_unavailable | 2026-10-29T14:58:14.685564+00:00 |
 | [Oldboy (올드보이) (2003) CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T14:58:07.370881+00:00 |
 | [Oppenheimer CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T14:48:02.927813+00:00 |
-| [Ran (乱)](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T14:47:51.875292+00:00 |
+| [Ran (乱)](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T15:48:31.093745+00:00 |
 | [Searching for Sugar Man](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-29T15:07:58.195363+00:00 |
 | [Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky](https://prehraj.to/star-wars-episode-vi-return-of-the-jedi-star-wars-episode-vi-return-of-the-jedi-cz-titulky-mkv/e784a2c3f85b6b4b) (ID 30596759) | [Sdílej 35355567](https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv) | target_unavailable | 2026-10-29T15:08:06.274950+00:00 |
 | [Taxi Driver CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T14:48:06.435113+00:00 |
