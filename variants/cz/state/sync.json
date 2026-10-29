@@ -5491,21 +5491,34 @@
       }
     },
     "17741": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27914352",
+          "reason": "Request failed for https://sdilej.cz/27914352/zelezny-obor-zelezny-obr-the-iron-giant-1999-1080p-sk-cz-en-sub.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:58:40.986745+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27914352",
         "display_name": "The Iron Giant 1080p CZ Dabing",
         "planned_at": "2026-10-29T23:57:55.033469+00:00"
-      },
-      "claim": {
-        "worker_id": "b240df9827bc450cb8656f7125a8c410-shard-0",
-        "claimed_at": "2026-10-29T23:57:55.112940+00:00",
-        "lease_expires_at": "2026-10-30T05:57:55.112940+00:00",
-        "run_id": "40957299535"
       }
     },
     "243": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34232610",
+        "display_name": "The Bridge on the River Kwai 4K CZ Dabing",
+        "planned_at": "2026-10-29T23:58:04.589140+00:00"
+      },
+      "claim": {
+        "worker_id": "54fda10edf9c49dcb31210c8f0acea85-shard-0",
+        "claimed_at": "2026-10-29T23:58:04.669623+00:00",
+        "lease_expires_at": "2026-10-30T05:58:04.669623+00:00",
+        "run_id": "40957299535"
+      }
     },
     "21022": {
       "attempts": []
@@ -22594,5 +22607,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:57:55.112963+00:00"
+  "updated_at": "2026-10-29T23:58:40.986763+00:00"
 }
