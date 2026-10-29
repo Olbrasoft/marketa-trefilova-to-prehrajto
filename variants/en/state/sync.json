@@ -3091,17 +3091,19 @@
       "attempts": []
     },
     "216": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7273334",
+          "target_video_id": "30615338",
+          "permanent": false,
+          "attempted_at": "2026-10-29T17:38:29.435971+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7273334",
         "display_name": "Logan 1080p CZ Titulky",
         "planned_at": "2026-10-29T17:31:04.141041+00:00"
-      },
-      "claim": {
-        "worker_id": "c0a1bc8f6beb485bafad2662cc63f3aa-shard-0",
-        "claimed_at": "2026-10-29T17:31:04.163119+00:00",
-        "lease_expires_at": "2026-10-29T23:31:04.163119+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30615338",
       "prepared": {
@@ -19166,5 +19168,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T17:31:08.728185+00:00"
+  "updated_at": "2026-10-29T17:38:29.435989+00:00"
 }
