@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T03:19:56.395106+00:00
+Poslední aktualizace (UTC): 2026-10-29T03:20:43.358393+00:00
 
 Zkontrolováno videí: 15. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 9, `existing_tracks_uncertain`: 1, `pending`: 1, `source_czech_full_text_unsupported`: 3, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 9, `existing_tracks_uncertain`: 1, `source_czech_full_text_unsupported`: 3, `source_unavailable`: 1, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -25,6 +25,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [The Lord of the Rings: The Two Towers CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-two-towers-cz-titulky-mkv/6eac0a68b244fbe3) (ID 30583875) | [Sdílej 23272546](https://sdilej.cz/23272546/the-lord-of-the-rings-the-two-towers-2002-extended-2160p-bluray-x265-10bit-hdr-tigole-.mkv) | source_unavailable | 2026-10-29T03:20:43.358330+00:00 |
 | [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-29T02:33:03.503198+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
