@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T22:13:19.263939+00:00
+Poslední aktualizace (UTC): 2026-10-29T22:13:30.428647+00:00
 
 Zkontrolováno videí: 75. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 31, `attached_verified`: 2, `existing_tracks_uncertain`: 3, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 23, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 31, `attached_verified`: 2, `existing_tracks_uncertain`: 3, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 3, `target_unavailable`: 22, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -25,6 +25,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Interstellar 4K CZ Titulky](https://prehraj.to/interstellar-cz-titulky-mkv/dac891fa777f1c66) (ID 30584268) | [Sdílej 32920949](https://sdilej.cz/32920949/interstellar-2014-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-28T17:45:36.209340+00:00 |
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
 | [Seven (Se7en) 1080p CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:48.283303+00:00 |
+| [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T22:13:30.428521+00:00 |
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T18:47:50.035910+00:00 |
 | [The Departed 1080p CZ Titulky](https://prehraj.to/the-departed-cz-titulky-mkv/4eb25d96aefc80ce) (ID 30589626) | [Sdílej 23098497](https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T10:32:16.364862+00:00 |
 | [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T18:17:24.586510+00:00 |
@@ -55,7 +56,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T22:13:15.850840+00:00 |
 | [Rush (2013) 1080p CZ Titulky](https://prehraj.to/rush-2013-1080p-cz-titulky-mkv/8a9dc01628f423ad) (ID 30620144) | [Sdílej 29629993](https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv) | target_unavailable | 2026-10-29T22:03:01.217119+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-29T21:19:44.502040+00:00 |
-| [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T21:09:55.420549+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-29T21:40:10.664460+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-29T21:19:55.214772+00:00 |
 | [The Sting 1080p CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-29T21:53:12.179132+00:00 |
