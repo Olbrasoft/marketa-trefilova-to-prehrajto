@@ -2534,17 +2534,19 @@
       }
     },
     "124": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18329991",
+          "target_video_id": "30602749",
+          "permanent": false,
+          "attempted_at": "2026-10-29T04:27:49.973809+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18329991",
         "display_name": "Once Upon a Time in America CZ Dabing",
         "planned_at": "2026-10-29T04:08:24.401597+00:00"
-      },
-      "claim": {
-        "worker_id": "1397c2ef034147c5bbe5156e6239ed0c-shard-0",
-        "claimed_at": "2026-10-29T04:08:24.451934+00:00",
-        "lease_expires_at": "2026-10-29T10:08:24.451934+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30602749",
       "prepared": {
@@ -14238,5 +14240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T04:08:27.497898+00:00"
+  "updated_at": "2026-10-29T04:27:49.973825+00:00"
 }
