@@ -2898,17 +2898,19 @@
       }
     },
     "171": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34059528",
+          "target_video_id": "30605831",
+          "permanent": false,
+          "attempted_at": "2026-10-29T08:06:32.163375+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34059528",
         "display_name": "The Truman Show CZ Dabing",
         "planned_at": "2026-10-29T07:48:34.995812+00:00"
-      },
-      "claim": {
-        "worker_id": "e026a6b3df20481cb388c4eefb36c13a-shard-0",
-        "claimed_at": "2026-10-29T07:48:35.048080+00:00",
-        "lease_expires_at": "2026-10-29T13:48:35.048080+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30605831",
       "prepared": {
@@ -15736,5 +15738,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T07:49:53.686919+00:00"
+  "updated_at": "2026-10-29T08:06:32.163392+00:00"
 }
