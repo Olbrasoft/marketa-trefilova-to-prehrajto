@@ -46,3 +46,4 @@ Attach subtitles only after target processing has finished.
 | Eternal Sunshine of the Spotless Mind CZ Titulky | 30597712 | https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Braveheart CZ Titulky | 30597835 | https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv | Extract Czech track from exact source after processing |
 | Heat CZ Titulky | 30602067 | https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Oldboy (올드보이) (2003) CZ Titulky | 30602237 | https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv | Extract Czech track from exact source after processing |
