@@ -78,7 +78,8 @@ jobs:
             sudo apt-get -o Acquire::Retries=2 install -y --no-install-recommends ffmpeg
           fi
           if [[ "$MODE" == prepare ]]; then
-            pip install '.[whisper]'
+            sudo apt-get -o Acquire::Retries=2 install -y --no-install-recommends tesseract-ocr tesseract-ocr-ces tesseract-ocr-eng
+            pip install --timeout 90 --retries 5 '.[whisper,visual]'
             python scripts/check_whisper_runtime.py
           fi
       - name: Configure durable checkpoints

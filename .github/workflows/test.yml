@@ -12,7 +12,11 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
-      - run: pip install '.[test]'
+      - run: |
+          sudo python3 scripts/configure_ubuntu_mirrors.py
+          sudo apt-get -o Acquire::Retries=2 update
+          sudo apt-get -o Acquire::Retries=2 install -y --no-install-recommends ffmpeg tesseract-ocr tesseract-ocr-ces tesseract-ocr-eng fonts-dejavu-core
+          pip install --timeout 90 --retries 5 '.[test,visual]'
       - run: pytest
   whisper-runtime:
     runs-on: ubuntu-latest
