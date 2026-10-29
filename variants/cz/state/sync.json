@@ -2633,17 +2633,19 @@
       }
     },
     "21354": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32370575",
+          "target_video_id": "30603301",
+          "permanent": false,
+          "attempted_at": "2026-10-29T05:01:19.918160+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32370575",
         "display_name": "Singin' in the Rain CZ Dabing",
         "planned_at": "2026-10-29T04:43:34.309208+00:00"
-      },
-      "claim": {
-        "worker_id": "44b9fdd27712436ba84fbe044943da7a-shard-0",
-        "claimed_at": "2026-10-29T04:43:34.360435+00:00",
-        "lease_expires_at": "2026-10-29T10:43:34.360435+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30603301",
       "prepared": {
@@ -14607,5 +14609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T04:43:37.352265+00:00"
+  "updated_at": "2026-10-29T05:01:19.918176+00:00"
 }
