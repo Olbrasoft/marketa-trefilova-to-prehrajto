@@ -4163,17 +4163,19 @@
       "attempts": []
     },
     "240": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-10-29T16:14:56.533056+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl CZ Dabing",
         "planned_at": "2026-10-29T15:22:41.629323+00:00"
-      },
-      "claim": {
-        "worker_id": "cbc42092de8748a895acab582da090c9-shard-0",
-        "claimed_at": "2026-10-29T15:22:41.682389+00:00",
-        "lease_expires_at": "2026-10-29T21:22:41.682389+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -19763,5 +19765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T15:38:27.438735+00:00"
+  "updated_at": "2026-10-29T16:14:56.533075+00:00"
 }
