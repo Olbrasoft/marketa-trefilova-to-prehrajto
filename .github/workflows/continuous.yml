@@ -11,6 +11,6 @@ jobs:
     uses: ./.github/workflows/sync.yml
     with:
       mode: continuous
-      limit: 2
-      workers: 2
+      limit: 3
+      workers: 3
     secrets: inherit

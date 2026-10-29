@@ -284,7 +284,7 @@ def main():
     parser.add_argument("--upstream", type=Path)
     parser.add_argument("--limit", type=int, default=2)
     parser.add_argument("--runtime-minutes", type=int, default=45)
-    parser.add_argument("--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "2")))
+    parser.add_argument("--workers", type=int, default=int(os.environ.get("UPLOAD_WORKERS", "3")))
     parser.add_argument("--persist-git-state", action="store_true")
     args = parser.parse_args()
     if not 1 <= args.limit <= 200 or not 1 <= args.runtime_minutes <= 330 or not 1 <= args.workers <= 6:

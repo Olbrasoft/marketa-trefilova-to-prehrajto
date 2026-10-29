@@ -10,7 +10,7 @@ on:
         default: 2
       workers:
         type: number
-        default: 2
+        default: 3
   workflow_dispatch:
     inputs:
       mode:
@@ -25,7 +25,7 @@ on:
       workers:
         description: "Simultaneous film transfers (1 to 6)"
         type: number
-        default: 2
+        default: 3
 
 concurrency:
   group: ${{ inputs.mode == 'prepare' && 'marketa-source-preparation' || inputs.mode == 'plan' && 'marketa-read-only-plans' || 'marketa-target-and-state' }}
@@ -42,7 +42,7 @@ jobs:
     env:
       MODE: ${{ inputs.mode }}
       BATCH_LIMIT: ${{ inputs.limit || '2' }}
-      UPLOAD_WORKERS: ${{ inputs.workers || '2' }}
+      UPLOAD_WORKERS: ${{ inputs.workers || '3' }}
       SDILEJ_EMAIL: ${{ secrets.SDILEJ_EMAIL }}
       SDILEJ_PASSWORD: ${{ secrets.SDILEJ_PASSWORD }}
       PREHRAJTO_EMAIL: ${{ secrets.PREHRAJTO_EMAIL }}
