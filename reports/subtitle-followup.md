@@ -74,3 +74,4 @@ Attach subtitles only after target processing has finished.
 | The Big Lebowski 1080p CZ Titulky | 30615547 | https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv | Extract Czech track from exact source after processing |
 | How to Train Your Dragon (2010) 4K CZ Titulky | 30615827 | https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv | Extract Czech track from exact source after processing |
 | Blade Runner 4K CZ Titulky | 30615943 | https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv | Extract Czech track from exact source after processing |
+| Fargo 1080p CZ Titulky | 30616407 | https://sdilej.cz/26744950/fargo-1996-fhd-1080p--cz-vhs-cz-ctv-sk-pl-eng-dts-.mkv | Extract Czech track from exact source after processing |
