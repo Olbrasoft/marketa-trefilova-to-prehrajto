@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T14:27:20.967456+00:00
+Poslední aktualizace (UTC): 2026-10-29T14:27:24.976463+00:00
 
 Zkontrolováno videí: 55. Další stránka kontroly: 0.
 
@@ -32,7 +32,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [Alien CZ Titulky](https://prehraj.to/alien-cz-titulky-mkv/111b49c963aaf8e2) (ID 30592207) | [Sdílej 34445474](https://sdilej.cz/34445474/vetrelec-romulus.mkv) | target_unavailable | 2026-10-29T13:26:52.329357+00:00 |
+| [Alien CZ Titulky](https://prehraj.to/alien-cz-titulky-mkv/111b49c963aaf8e2) (ID 30592207) | [Sdílej 34445474](https://sdilej.cz/34445474/vetrelec-romulus.mkv) | target_unavailable | 2026-10-29T14:27:24.976370+00:00 |
 | [Amadeus CZ Titulky](https://prehraj.to/amadeus-cz-titulky-mkv/cc58190a90174c0c) (ID 30594798) | [Sdílej 33819226](https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv) | target_unavailable | 2026-10-29T13:27:03.250437+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain)](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T13:47:06.843448+00:00 |
 | [Braveheart CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T14:07:27.621641+00:00 |
