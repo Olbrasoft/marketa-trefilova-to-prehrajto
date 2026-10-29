@@ -3649,17 +3649,19 @@
       }
     },
     "10830": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29663362",
+          "target_video_id": "30611176",
+          "permanent": false,
+          "attempted_at": "2026-10-29T13:28:09.186150+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29663362",
         "display_name": "To Kill a Mockingbird CZ Dabing",
         "planned_at": "2026-10-29T13:16:54.195023+00:00"
-      },
-      "claim": {
-        "worker_id": "9f453e2cad434663a926790ace66d7b7-shard-0",
-        "claimed_at": "2026-10-29T13:16:54.289366+00:00",
-        "lease_expires_at": "2026-10-29T19:16:54.289366+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30611176",
       "prepared": {
@@ -18857,5 +18859,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:26:58.735645+00:00"
+  "updated_at": "2026-10-29T13:28:09.186166+00:00"
 }
