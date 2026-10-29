@@ -3081,13 +3081,6 @@
           "source_id": "27782789",
           "target_video_id": "30614354",
           "permanent": false,
-          "attempted_at": "2026-10-29T18:33:04.934861+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27782789",
-          "target_video_id": "30614354",
-          "permanent": false,
           "attempted_at": "2026-10-29T19:09:14.862226+00:00"
         },
         {
@@ -3096,6 +3089,13 @@
           "target_video_id": "30614354",
           "permanent": false,
           "attempted_at": "2026-10-29T19:42:56.013926+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27782789",
+          "target_video_id": "30614354",
+          "permanent": false,
+          "attempted_at": "2026-10-29T21:44:04.231325+00:00"
         }
       ],
       "last_plan": {
@@ -3109,12 +3109,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-29T16:43:21.693622+00:00",
         "relay_source_id": "27782789"
-      },
-      "claim": {
-        "worker_id": "efcf7193eb7843d6aa7d03e0b44be89e-shard-0",
-        "claimed_at": "2026-10-29T21:43:56.286203+00:00",
-        "lease_expires_at": "2026-10-30T03:43:56.286203+00:00",
-        "run_id": "40957299535"
       }
     },
     "236": {
@@ -3351,7 +3345,7 @@
       "last_plan": {
         "source_id": "31885004",
         "display_name": "12 Years a Slave SD",
-        "planned_at": "2026-10-29T20:01:39.868285+00:00"
+        "planned_at": "2026-10-29T21:44:02.549277+00:00"
       },
       "previous_target_id": "30616683",
       "prepared": {
@@ -3359,6 +3353,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T18:38:15.526356+00:00",
         "relay_source_id": "31885004"
+      },
+      "claim": {
+        "worker_id": "b4706938678b4079a900256ed3865805-shard-0",
+        "claimed_at": "2026-10-29T21:44:02.615275+00:00",
+        "lease_expires_at": "2026-10-30T03:44:02.615275+00:00",
+        "run_id": "40957299535"
       }
     },
     "230": {
@@ -3446,7 +3446,7 @@
       "last_plan": {
         "source_id": "29629993",
         "display_name": "Rush (2013) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T21:43:59.488465+00:00"
+        "planned_at": "2026-10-29T21:44:02.590563+00:00"
       }
     },
     "208": {
@@ -20411,5 +20411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:44:01.161299+00:00"
+  "updated_at": "2026-10-29T21:44:04.231341+00:00"
 }
