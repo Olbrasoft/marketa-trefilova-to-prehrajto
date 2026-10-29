@@ -2373,17 +2373,19 @@
       }
     },
     "106": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34062386",
+          "target_video_id": "30601362",
+          "permanent": false,
+          "attempted_at": "2026-10-29T04:41:43.431172+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34062386",
         "display_name": "Toy Story 3 CZ Dabing",
         "planned_at": "2026-10-29T02:33:16.898349+00:00"
-      },
-      "claim": {
-        "worker_id": "f4ccc1599ac0490cb7a6ddd45908a603-shard-0",
-        "claimed_at": "2026-10-29T02:33:17.001552+00:00",
-        "lease_expires_at": "2026-10-29T08:33:17.001552+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30601362",
       "prepared": {
@@ -14553,5 +14555,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T04:30:04.743718+00:00"
+  "updated_at": "2026-10-29T04:41:43.431197+00:00"
 }
