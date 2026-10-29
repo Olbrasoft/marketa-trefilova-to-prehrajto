@@ -2703,17 +2703,19 @@
       "attempts": []
     },
     "29340": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30862544",
+          "target_video_id": "30612406",
+          "permanent": false,
+          "attempted_at": "2026-10-29T15:45:20.883453+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30862544",
         "display_name": "A Silent Voice (A Silent Voice: The Movie) CZ Titulky",
         "planned_at": "2026-10-29T14:41:29.032928+00:00"
-      },
-      "claim": {
-        "worker_id": "56e8db4630104b7d9f5c8078bdc698f4-shard-0",
-        "claimed_at": "2026-10-29T14:41:29.048756+00:00",
-        "lease_expires_at": "2026-10-29T20:41:29.048756+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30612406",
       "prepared": {
@@ -18452,5 +18454,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T15:23:05.038547+00:00"
+  "updated_at": "2026-10-29T15:45:20.883469+00:00"
 }
