@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:28:15.648195+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:28:19.459623+00:00
 
 Zkontrolováno videí: 63. Další stránka kontroly: 0.
 
@@ -54,7 +54,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Taxi Driver CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T14:48:06.435113+00:00 |
 | [The Godfather CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | target_unavailable | 2026-10-29T15:28:12.063039+00:00 |
 | [The Green Mile CZ Titulky](https://prehraj.to/the-green-mile-cz-titulky-mkv/88f77837c39b1463) (ID 30587002) | [Sdílej 27594175](https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv) | target_unavailable | 2026-10-29T14:48:30.393070+00:00 |
-| [The Lives of Others](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-29T14:27:41.753057+00:00 |
+| [The Lives of Others](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-29T15:28:19.332801+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-29T15:08:16.906838+00:00 |
 | [The Sting CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-29T14:37:41.114712+00:00 |
 | [They Shall Not Grow Old CZ Titulky](https://prehraj.to/they-shall-not-grow-old-cz-titulky-mkv/a8d107aceffaaba8) (ID 30612837) | [Sdílej 10958085](https://sdilej.cz/10958085/they-shall-not-grow-old-1080p-x264-cz-tit.mkv) | target_unavailable | 2026-10-29T15:18:01.904955+00:00 |
