@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:36:23.230323+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:36:26.451782+00:00
 
 Zkontrolováno videí: 51. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 16, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 9, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 15, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 10, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -18,6 +18,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | --- | --- | --- | --- |
 | [Alien CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30592207) | [Sdílej 34445474](https://sdilej.cz/34445474/vetrelec-romulus.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:09.882491+00:00 |
 | [Amadeus CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30594798) | [Sdílej 33819226](https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:19.976753+00:00 |
+| [Capernaum (کفرناحوم) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30595560) | [Sdílej 12275995](https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:26.451725+00:00 |
 | [Django Unchained CZ Titulky](https://prehraj.to/django-unchained-cz-titulky-mkv/8f93dd558c6bce9a) (ID 30588424) | [Sdílej 33138453](https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T09:59:37.956241+00:00 |
 | [Dune: Part Two CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30592690) | [Sdílej 28655217](https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:13.474516+00:00 |
 | [Gladiator (2000) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:02.784887+00:00 |
