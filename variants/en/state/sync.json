@@ -1857,13 +1857,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-10-29T18:32:28.482334+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-10-29T19:08:53.519903+00:00"
         },
         {
@@ -1872,12 +1865,19 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-10-29T19:42:37.243402+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-10-29T21:43:22.870764+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33013175",
         "display_name": "Braveheart 4K CZ Titulky",
-        "planned_at": "2026-10-29T19:42:35.959893+00:00"
+        "planned_at": "2026-10-29T21:43:21.091043+00:00"
       },
       "previous_target_id": "30597835",
       "prepared": {
@@ -2095,6 +2095,12 @@
         "size_bytes": 10500000000,
         "prepared_at": "2026-10-29T04:42:48.781234+00:00",
         "relay_source_id": "15748784"
+      },
+      "claim": {
+        "worker_id": "d27951c36e744e6fb9f09798a36875cb-shard-0",
+        "claimed_at": "2026-10-29T21:43:20.986793+00:00",
+        "lease_expires_at": "2026-10-30T03:43:20.986793+00:00",
+        "run_id": "40957299535"
       }
     },
     "11368": {
@@ -3427,7 +3433,7 @@
       "last_plan": {
         "source_id": "29629993",
         "display_name": "Rush (2013) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T21:43:19.832456+00:00"
+        "planned_at": "2026-10-29T21:43:21.131381+00:00"
       }
     },
     "208": {
@@ -20392,5 +20398,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:43:19.832467+00:00"
+  "updated_at": "2026-10-29T21:43:22.870779+00:00"
 }
