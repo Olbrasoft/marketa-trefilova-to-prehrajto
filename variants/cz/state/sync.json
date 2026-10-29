@@ -4733,17 +4733,19 @@
       }
     },
     "230": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33014372",
+          "target_video_id": "30616757",
+          "permanent": false,
+          "attempted_at": "2026-10-29T18:53:58.808692+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33014372",
         "display_name": "Trainspotting 4K CZ Dabing",
         "planned_at": "2026-10-29T18:42:42.067729+00:00"
-      },
-      "claim": {
-        "worker_id": "957b38b889de4661af2f1049fabbff1f-shard-0",
-        "claimed_at": "2026-10-29T18:42:42.141232+00:00",
-        "lease_expires_at": "2026-10-30T00:42:42.141232+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30616757",
       "prepared": {
@@ -21048,5 +21050,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T18:48:23.091500+00:00"
+  "updated_at": "2026-10-29T18:53:58.808744+00:00"
 }
