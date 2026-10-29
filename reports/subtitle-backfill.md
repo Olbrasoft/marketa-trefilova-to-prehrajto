@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:28:03.358276+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:28:08.437976+00:00
 
 Zkontrolováno videí: 63. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 20, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `target_unavailable`: 30, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 21, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `target_unavailable`: 29, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -33,7 +33,6 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [A Silent Voice (A Silent Voice: The Movie) CZ Titulky](https://prehraj.to/a-silent-voice-a-silent-voice-the-movie-cz-titulky-mkv/41c3ce56606456c1) (ID 30612406) | [Sdílej 30862544](https://sdilej.cz/30862544/koe-no-katachi-a-silent-voice-bd-3840x2160-x265-10bit-dts-hdma-flac-.mkv) | target_unavailable | 2026-10-29T14:47:55.874156+00:00 |
-| [Alien CZ Titulky](https://prehraj.to/alien-cz-titulky-mkv/111b49c963aaf8e2) (ID 30592207) | [Sdílej 34445474](https://sdilej.cz/34445474/vetrelec-romulus.mkv) | target_unavailable | 2026-10-29T14:27:24.976370+00:00 |
 | [Amadeus CZ Titulky](https://prehraj.to/amadeus-cz-titulky-mkv/cc58190a90174c0c) (ID 30594798) | [Sdílej 33819226](https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv) | target_unavailable | 2026-10-29T14:27:37.588212+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain)](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T14:48:10.589861+00:00 |
 | [Braveheart CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T15:08:13.288127+00:00 |
