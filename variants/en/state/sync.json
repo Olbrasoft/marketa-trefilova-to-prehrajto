@@ -3050,13 +3050,6 @@
           "source_id": "32858384",
           "target_video_id": "30613867",
           "permanent": false,
-          "attempted_at": "2026-10-29T21:44:09.085106+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32858384",
-          "target_video_id": "30613867",
-          "permanent": false,
           "attempted_at": "2026-10-29T22:16:13.789085+00:00"
         },
         {
@@ -3065,6 +3058,13 @@
           "target_video_id": "30613867",
           "permanent": false,
           "attempted_at": "2026-10-29T22:50:07.313041+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32858384",
+          "target_video_id": "30613867",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:29:35.866824+00:00"
         }
       ],
       "last_plan": {
@@ -3294,7 +3294,7 @@
       "last_plan": {
         "source_id": "33672679",
         "display_name": "Blade Runner 4K CZ Titulky",
-        "planned_at": "2026-10-29T22:50:08.613037+00:00"
+        "planned_at": "2026-10-29T23:29:34.818882+00:00"
       },
       "previous_target_id": "30615943",
       "prepared": {
@@ -3302,6 +3302,12 @@
         "size_bytes": 52300000000,
         "prepared_at": "2026-10-29T18:02:51.633617+00:00",
         "relay_source_id": "33672679"
+      },
+      "claim": {
+        "worker_id": "fef7c544c1db47b8881b4abf36638a63-shard-0",
+        "claimed_at": "2026-10-29T23:29:34.886253+00:00",
+        "lease_expires_at": "2026-10-30T05:29:34.886253+00:00",
+        "run_id": "40957299535"
       }
     },
     "250": {
@@ -3632,7 +3638,7 @@
       "last_plan": {
         "source_id": "17328714",
         "display_name": "Memories of Murder (살인의 추억) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T23:29:33.559596+00:00"
+        "planned_at": "2026-10-29T23:29:34.862166+00:00"
       }
     },
     "10782": {
@@ -20736,5 +20742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:29:33.559609+00:00"
+  "updated_at": "2026-10-29T23:29:35.866847+00:00"
 }
