@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:36:26.451782+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:36:29.788388+00:00
 
 Zkontrolováno videí: 51. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 15, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 10, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 14, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 11, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -23,6 +23,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dune: Part Two CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30592690) | [Sdílej 28655217](https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:13.474516+00:00 |
 | [Gladiator (2000) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:02.784887+00:00 |
 | [Goodfellas CZ Titulky](https://prehraj.to/goodfellas-cz-titulky-mkv/a65ae78cae07f027) (ID 30584304) | [Sdílej 12646320](https://sdilej.cz/12646320/goodfellas.1990.multi.uhd.blu-ray.2160p.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T05:42:20.089219+00:00 |
+| [I Swear CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30595748) | [Sdílej 34430978](https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:29.788335+00:00 |
 | [Inception CZ Titulky](https://prehraj.to/inception-cz-titulky-mkv/cd15cbc3a2cf875e) (ID 30582836) | [Sdílej 34401564](https://sdilej.cz/34401564/inception.2010.blu-ray.remux.1080p.vc-1.dts-hd.ma.5.1-eng-ac3-5.1-cze.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T02:43:24.015291+00:00 |
 | [Interstellar CZ Titulky](https://prehraj.to/interstellar-cz-titulky-mkv/dac891fa777f1c66) (ID 30584268) | [Sdílej 32920949](https://sdilej.cz/32920949/interstellar-2014-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-28T17:45:36.209340+00:00 |
 | [Pulp Fiction CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
