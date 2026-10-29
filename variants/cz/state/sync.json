@@ -4042,17 +4042,19 @@
       "attempts": []
     },
     "20096": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15184772",
+          "target_video_id": "30612680",
+          "permanent": false,
+          "attempted_at": "2026-10-29T15:07:36.684122+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15184772",
         "display_name": "Searching for Sugar Man CZ Dabing",
         "planned_at": "2026-10-29T15:02:24.156404+00:00"
-      },
-      "claim": {
-        "worker_id": "f52b8c39a0bf46c4bb01694d29b607c8-shard-0",
-        "claimed_at": "2026-10-29T15:02:24.307894+00:00",
-        "lease_expires_at": "2026-10-29T21:02:24.307894+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30612680",
       "prepared": {
@@ -19405,5 +19407,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T15:06:58.428718+00:00"
+  "updated_at": "2026-10-29T15:07:36.684140+00:00"
 }
