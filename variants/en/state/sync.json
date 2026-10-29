@@ -2101,17 +2101,19 @@
       "attempts": []
     },
     "132": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32915178",
+          "target_video_id": "30606867",
+          "permanent": false,
+          "attempted_at": "2026-10-29T09:38:45.166502+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32915178",
         "display_name": "Oppenheimer CZ Titulky",
         "planned_at": "2026-10-29T09:02:05.005957+00:00"
-      },
-      "claim": {
-        "worker_id": "f10c3a37aba34ee29f42884cd957c016-shard-0",
-        "claimed_at": "2026-10-29T09:02:05.022248+00:00",
-        "lease_expires_at": "2026-10-29T15:02:05.022248+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30606867",
       "prepared": {
@@ -15473,5 +15475,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T09:25:43.237317+00:00"
+  "updated_at": "2026-10-29T09:38:45.166521+00:00"
 }
