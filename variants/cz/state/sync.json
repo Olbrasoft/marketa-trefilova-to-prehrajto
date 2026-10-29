@@ -3597,17 +3597,19 @@
       }
     },
     "181": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29291192",
+          "target_video_id": "30610954",
+          "permanent": false,
+          "attempted_at": "2026-10-29T13:16:48.106556+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29291192",
         "display_name": "Downfall (Der Untergang) CZ Dabing",
         "planned_at": "2026-10-29T13:04:16.199878+00:00"
-      },
-      "claim": {
-        "worker_id": "f19b342628bb44229136e2859bd74f1c-shard-0",
-        "claimed_at": "2026-10-29T13:04:16.299502+00:00",
-        "lease_expires_at": "2026-10-29T19:04:16.299502+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30610954",
       "prepared": {
@@ -18523,5 +18525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:10:51.301876+00:00"
+  "updated_at": "2026-10-29T13:16:48.106567+00:00"
 }
