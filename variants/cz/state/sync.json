@@ -3877,17 +3877,19 @@
       "attempts": []
     },
     "149": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12642250",
+          "target_video_id": "30612030",
+          "permanent": false,
+          "attempted_at": "2026-10-29T14:35:30.102663+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12642250",
         "display_name": "Klaus CZ Dabing",
         "planned_at": "2026-10-29T14:14:13.611912+00:00"
-      },
-      "claim": {
-        "worker_id": "c4bc2b22f5b54bad87da151ea4706cd2-shard-0",
-        "claimed_at": "2026-10-29T14:14:13.672048+00:00",
-        "lease_expires_at": "2026-10-29T20:14:13.672048+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30612030",
       "prepared": {
@@ -19306,5 +19308,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T14:35:04.348318+00:00"
+  "updated_at": "2026-10-29T14:35:30.102685+00:00"
 }
