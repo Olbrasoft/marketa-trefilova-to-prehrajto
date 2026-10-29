@@ -29,8 +29,8 @@ Attach subtitles only after target processing has finished.
 | The Usual Suspects CZ Titulky | 30590050 | https://sdilej.cz/35170968/the.usual.suspects.1995.open.matte.1080p.bluray.dl.eac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | Whiplash CZ Titulky | 30590258 | https://sdilej.cz/22962577/whiplash-2014-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
 | Casablanca CZ Titulky | 30590340 | https://sdilej.cz/17447327/casablanca.1942.1080p.bluray.dl.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
-| Spider-Man: Across the Spider-Verse CZ Titulky | 30590630 | https://sdilej.cz/26637017/spider-man.across.the.spider-verse.2023.1080p.10bit.webrip.6ch.x265.hevc-psa-cztit.mkv | Extract Czech track from exact source after processing |
-| The Odyssey CZ Titulky | 30590842 | https://sdilej.cz/34822736/the-odyssey-the-making-of-an-epic-2026-cz-titulky.mp4 | Extract Czech track from exact source after processing |
+| Spider-Man: Across the Spider-Verse CZ Titulky | 30590630 | https://sdilej.cz/26637017/spider-man.across.the.spider-verse.2023.1080p.10bit.webrip.6ch.x265.hevc-psa-cztit.mkv | Complete: Czech subtitles verified |
+| The Odyssey CZ Titulky | 30590842 | https://sdilej.cz/34822736/the-odyssey-the-making-of-an-epic-2026-cz-titulky.mp4 | Complete: Czech subtitles verified |
 | Grave of the Fireflies (Hotaru no haka) CZ Titulky | 30590877 | https://sdilej.cz/21922146/hrob-svetlusek-bluray-1988-cz-tit.mkv | Complete: Czech subtitles verified |
 | The Shining CZ Titulky | 30592125 | https://sdilej.cz/26233632/the-shining-1980-.mkv | Extract Czech track from exact source after processing |
 | Alien CZ Titulky | 30592207 | https://sdilej.cz/34445474/vetrelec-romulus.mkv | Extract Czech track from exact source after processing |
@@ -50,3 +50,4 @@ Attach subtitles only after target processing has finished.
 | Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky | 30602497 | https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4 | Extract Czech track from exact source after processing |
 | Lawrence of Arabia CZ Titulky | 30603287 | https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv | Extract Czech track from exact source after processing |
 | Oppenheimer CZ Titulky | 30606867 | https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv | Extract Czech track from exact source after processing |
+| Taxi Driver CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
