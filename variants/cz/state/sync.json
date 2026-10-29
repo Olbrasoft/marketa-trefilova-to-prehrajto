@@ -4953,7 +4953,25 @@
       }
     },
     "202": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31900173",
+        "display_name": "Three Billboards Outside Ebbing, Missouri 4K CZ Dabing",
+        "planned_at": "2026-10-29T19:43:52.850562+00:00"
+      },
+      "claim": {
+        "worker_id": "6081fb61f04d4d8399ab05b23ada4579-shard-0",
+        "claimed_at": "2026-10-29T19:43:52.928970+00:00",
+        "lease_expires_at": "2026-10-30T01:43:52.928970+00:00",
+        "run_id": "40901233364"
+      },
+      "previous_target_id": "30617855",
+      "prepared": {
+        "target_video_id": "30617855",
+        "size_bytes": 5478993487,
+        "prepared_at": "2026-10-29T19:43:56.441303+00:00",
+        "relay_source_id": "31900173"
+      }
     },
     "11147": {
       "attempts": []
@@ -21454,5 +21472,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T19:43:44.594661+00:00"
+  "updated_at": "2026-10-29T19:43:56.441323+00:00"
 }
