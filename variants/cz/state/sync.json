@@ -3730,17 +3730,19 @@
       }
     },
     "128": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32564618",
+          "target_video_id": "30611504",
+          "permanent": false,
+          "attempted_at": "2026-10-29T13:45:58.022073+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32564618",
         "display_name": "For a Few Dollars More (Per qualche dollaro in più) CZ Dabing",
         "planned_at": "2026-10-29T13:36:54.126935+00:00"
-      },
-      "claim": {
-        "worker_id": "f64ab268987f4daebca777244580ea08-shard-0",
-        "claimed_at": "2026-10-29T13:36:54.177475+00:00",
-        "lease_expires_at": "2026-10-29T19:36:54.177475+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30611504",
       "prepared": {
@@ -18929,5 +18931,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:37:01.375260+00:00"
+  "updated_at": "2026-10-29T13:45:58.022091+00:00"
 }
