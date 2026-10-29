@@ -66,3 +66,4 @@ Attach subtitles only after target processing has finished.
 | Yojimbo (用心棒) | 30612474 | https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv | Find and add matching Czech subtitles after processing |
 | Uri: The Surgical Strike | 30612576 | https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi | Find and add matching Czech subtitles after processing |
 | Searching for Sugar Man | 30612744 | https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv | Find and add matching Czech subtitles after processing |
+| They Shall Not Grow Old CZ Titulky | 30612837 | https://sdilej.cz/10958085/they-shall-not-grow-old-1080p-x264-cz-tit.mkv | Extract Czech track from exact source after processing |
