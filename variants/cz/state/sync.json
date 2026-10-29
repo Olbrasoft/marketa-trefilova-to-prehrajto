@@ -5405,17 +5405,19 @@
       }
     },
     "209": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22341135",
+          "target_video_id": "30621379",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:32:53.811889+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22341135",
         "display_name": "Before Sunset SD CZ Dabing",
         "planned_at": "2026-10-29T23:30:16.765647+00:00"
-      },
-      "claim": {
-        "worker_id": "ec133873977b44108c67d040670c83a8-shard-0",
-        "claimed_at": "2026-10-29T23:30:16.847782+00:00",
-        "lease_expires_at": "2026-10-30T05:30:16.847782+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30621379",
       "prepared": {
@@ -22527,5 +22529,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:30:22.150385+00:00"
+  "updated_at": "2026-10-29T23:32:53.811905+00:00"
 }
