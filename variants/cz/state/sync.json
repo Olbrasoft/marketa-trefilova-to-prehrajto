@@ -3454,17 +3454,19 @@
       }
     },
     "176": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32700015",
+          "target_video_id": "30609721",
+          "permanent": false,
+          "attempted_at": "2026-10-29T12:59:36.896951+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32700015",
         "display_name": "The Thing (1982) CZ Dabing",
         "planned_at": "2026-10-29T11:48:10.846220+00:00"
-      },
-      "claim": {
-        "worker_id": "9fe6e1181b0e4fd3bfef524dc2decb06-shard-0",
-        "claimed_at": "2026-10-29T11:48:10.890195+00:00",
-        "lease_expires_at": "2026-10-29T17:48:10.890195+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30609721",
       "prepared": {
@@ -18471,5 +18473,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T12:44:47.351651+00:00"
+  "updated_at": "2026-10-29T12:59:36.896973+00:00"
 }
