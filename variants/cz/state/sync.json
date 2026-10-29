@@ -3782,17 +3782,19 @@
       }
     },
     "21692": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30010995",
+          "target_video_id": "30611638",
+          "permanent": false,
+          "attempted_at": "2026-10-29T13:52:02.383513+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30010995",
         "display_name": "The Great Escape CZ Dabing",
         "planned_at": "2026-10-29T13:46:06.429779+00:00"
-      },
-      "claim": {
-        "worker_id": "b1b9338d09084ccbbfdec6424d18db31-shard-0",
-        "claimed_at": "2026-10-29T13:46:06.478733+00:00",
-        "lease_expires_at": "2026-10-29T19:46:06.478733+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30611638",
       "prepared": {
@@ -18975,5 +18977,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:48:24.950606+00:00"
+  "updated_at": "2026-10-29T13:52:02.383532+00:00"
 }
