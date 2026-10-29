@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:36:32.993106+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:36:36.209814+00:00
 
 Zkontrolováno videí: 51. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 13, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 12, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 12, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 13, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -29,6 +29,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Joker CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30596090) | [Sdílej 33794368](https://sdilej.cz/33794368/joker-2019-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:32.993052+00:00 |
 | [Pulp Fiction CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
 | [Seven (Se7en) CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:48.283303+00:00 |
+| [Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30596759) | [Sdílej 35355567](https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:36.209758+00:00 |
 | [The Departed CZ Titulky](https://prehraj.to/the-departed-cz-titulky-mkv/4eb25d96aefc80ce) (ID 30589626) | [Sdílej 23098497](https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T10:32:16.364862+00:00 |
 | [The Godfather CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:16.736215+00:00 |
 | [The Green Mile CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30587002) | [Sdílej 27594175](https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:35:59.334612+00:00 |
