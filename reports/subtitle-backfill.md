@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:46:33.732073+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:46:37.440230+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 1, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 19, `target_unavailable`: 4, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 19, `target_unavailable`: 5, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -51,6 +51,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain)](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T11:46:29.343203+00:00 |
+| [Casino CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T11:46:37.440169+00:00 |
 | [Green Book](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T11:46:33.291435+00:00 |
 | [Oppenheimer CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T11:36:59.688197+00:00 |
 | [Taxi Driver CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T11:46:09.200179+00:00 |
