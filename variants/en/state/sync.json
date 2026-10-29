@@ -1923,17 +1923,19 @@
       "attempts": []
     },
     "21662": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15748784",
+          "target_video_id": "30603287",
+          "permanent": false,
+          "attempted_at": "2026-10-29T05:23:01.395707+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15748784",
         "display_name": "Lawrence of Arabia CZ Titulky",
         "planned_at": "2026-10-29T04:42:44.418963+00:00"
-      },
-      "claim": {
-        "worker_id": "10eb559f805c4cec9f78ee63dd2f554c-shard-0",
-        "claimed_at": "2026-10-29T04:42:45.583640+00:00",
-        "lease_expires_at": "2026-10-29T10:42:45.583640+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30603287",
       "prepared": {
@@ -14221,5 +14223,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T05:17:53.941531+00:00"
+  "updated_at": "2026-10-29T05:23:01.395723+00:00"
 }
