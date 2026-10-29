@@ -2221,13 +2221,6 @@
           "source_id": "33850803",
           "target_video_id": "30596621",
           "permanent": false,
-          "attempted_at": "2026-10-29T14:14:03.499712+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33850803",
-          "target_video_id": "30596621",
-          "permanent": false,
           "attempted_at": "2026-10-29T14:44:50.938871+00:00"
         },
         {
@@ -2236,6 +2229,13 @@
           "target_video_id": "30596621",
           "permanent": false,
           "attempted_at": "2026-10-29T15:16:54.636536+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33850803",
+          "target_video_id": "30596621",
+          "permanent": false,
+          "attempted_at": "2026-10-29T16:18:17.860762+00:00"
         }
       ],
       "last_plan": {
@@ -2293,8 +2293,8 @@
       ],
       "last_plan": {
         "source_id": "34923394",
-        "display_name": "Toy Story CZ Dabing",
-        "planned_at": "2026-10-29T15:17:00.640515+00:00"
+        "display_name": "Toy Story 1080p CZ Dabing",
+        "planned_at": "2026-10-29T16:18:16.730755+00:00"
       },
       "previous_target_id": "30597604",
       "prepared": {
@@ -2302,6 +2302,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-10-28T23:28:59.610892+00:00",
         "relay_source_id": "34923394"
+      },
+      "claim": {
+        "worker_id": "5fb9144864eb4bdebdee87192089c50b-shard-0",
+        "claimed_at": "2026-10-29T16:18:16.857008+00:00",
+        "lease_expires_at": "2026-10-29T22:18:16.857008+00:00",
+        "run_id": "40901233364"
       }
     },
     "126": {
@@ -4259,7 +4265,7 @@
       "last_plan": {
         "source_id": "23578186",
         "display_name": "Mad Max: Fury Road 4K CZ Dabing",
-        "planned_at": "2026-10-29T16:18:15.157236+00:00"
+        "planned_at": "2026-10-29T16:18:16.772138+00:00"
       }
     },
     "237": {
@@ -19818,5 +19824,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:18:15.157249+00:00"
+  "updated_at": "2026-10-29T16:18:17.860780+00:00"
 }
