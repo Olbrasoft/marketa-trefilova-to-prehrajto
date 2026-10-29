@@ -3626,17 +3626,19 @@
       }
     },
     "10684": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32323793",
+          "target_video_id": "30611060",
+          "permanent": false,
+          "attempted_at": "2026-10-29T13:26:53.557353+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32323793",
         "display_name": "Gone with the Wind CZ Dabing",
         "planned_at": "2026-10-29T13:10:47.790556+00:00"
-      },
-      "claim": {
-        "worker_id": "f03917d9b217418f900a670c25c5aee7-shard-0",
-        "claimed_at": "2026-10-29T13:10:47.841560+00:00",
-        "lease_expires_at": "2026-10-29T19:10:47.841560+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30611060",
       "prepared": {
@@ -18549,5 +18551,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:16:59.021347+00:00"
+  "updated_at": "2026-10-29T13:26:53.557369+00:00"
 }
