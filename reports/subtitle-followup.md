@@ -62,7 +62,7 @@ Attach subtitles only after target processing has finished.
 | Klaus CZ Titulky | 30612211 | https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv | Extract Czech track from exact source after processing |
 | Dave Chappelle: Sticks & Stones CZ Titulky | 30612332 | https://sdilej.cz/12213943/dave.chappelle.sticks.and.stones.2019.1080p.cz.sub.ddp5.1.hevc.mkv | Complete: Czech subtitles verified |
 | Ran (乱) | 30612365 | https://sdilej.cz/33590630/ran-1985-tit.mp4 | Find and add matching Czech subtitles after processing |
-| A Silent Voice (A Silent Voice: The Movie) CZ Titulky | 30612406 | https://sdilej.cz/30862544/koe-no-katachi-a-silent-voice-bd-3840x2160-x265-10bit-dts-hdma-flac-.mkv | Extract Czech track from exact source after processing |
+| A Silent Voice (A Silent Voice: The Movie) CZ Titulky | 30612406 | https://sdilej.cz/30862544/koe-no-katachi-a-silent-voice-bd-3840x2160-x265-10bit-dts-hdma-flac-.mkv | Complete: Czech subtitles verified |
 | Yojimbo (用心棒) | 30612474 | https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv | Find and add matching Czech subtitles after processing |
 | Uri: The Surgical Strike | 30612576 | https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi | Find and add matching Czech subtitles after processing |
 | Searching for Sugar Man | 30612744 | https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv | Find and add matching Czech subtitles after processing |
