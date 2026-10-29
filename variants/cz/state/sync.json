@@ -3326,17 +3326,19 @@
       "attempts": []
     },
     "139": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32946424",
+          "target_video_id": "30608887",
+          "permanent": false,
+          "attempted_at": "2026-10-29T11:17:59.716652+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32946424",
         "display_name": "Pan's Labyrinth (El laberinto del fauno) CZ Dabing",
         "planned_at": "2026-10-29T10:56:33.114072+00:00"
-      },
-      "claim": {
-        "worker_id": "6f7e7e2329e647bdb6dc52d5cfa1dcfc-shard-0",
-        "claimed_at": "2026-10-29T10:56:33.173680+00:00",
-        "lease_expires_at": "2026-10-29T16:56:33.173680+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30608887",
       "prepared": {
@@ -17460,5 +17462,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T11:08:15.981170+00:00"
+  "updated_at": "2026-10-29T11:17:59.716668+00:00"
 }
