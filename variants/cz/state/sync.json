@@ -2599,11 +2599,19 @@
       }
     },
     "21662": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32451825",
+          "reason": "Request failed for https://sdilej.cz/32451825/lawrence-z-arabie-1962-4k-h265-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T04:42:40.843485+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32451825",
         "display_name": "Lawrence of Arabia CZ Dabing",
-        "planned_at": "2026-10-29T04:41:53.061792+00:00"
+        "planned_at": "2026-10-29T04:41:55.169084+00:00"
       }
     },
     "11368": {
@@ -14566,5 +14574,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T04:41:53.770067+00:00"
+  "updated_at": "2026-10-29T04:42:40.843501+00:00"
 }
