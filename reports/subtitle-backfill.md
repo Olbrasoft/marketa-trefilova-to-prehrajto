@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T12:47:03.295056+00:00
+Poslední aktualizace (UTC): 2026-10-29T12:47:11.793265+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
@@ -53,7 +53,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Godfather CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | target_unavailable | 2026-10-29T12:26:39.812423+00:00 |
 | [The Lives of Others](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-29T12:26:48.103282+00:00 |
 | [The Shining CZ Titulky](https://prehraj.to/the-shining-cz-titulky-mkv/f2eeaf2363a376ca) (ID 30592125) | [Sdílej 26233632](https://sdilej.cz/26233632/the-shining-1980-.mkv) | target_unavailable | 2026-10-29T12:36:52.249343+00:00 |
-| [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-29T11:46:45.982079+00:00 |
+| [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-29T12:47:11.793215+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
