@@ -3413,17 +3413,19 @@
       }
     },
     "167": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17449174",
+          "target_video_id": "30609485",
+          "permanent": false,
+          "attempted_at": "2026-10-29T11:49:54.968929+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17449174",
         "display_name": "Casino CZ Dabing",
         "planned_at": "2026-10-29T11:35:57.351411+00:00"
-      },
-      "claim": {
-        "worker_id": "22457be2c3fd4a4bb0a0df9428f522bc-shard-0",
-        "claimed_at": "2026-10-29T11:35:58.801436+00:00",
-        "lease_expires_at": "2026-10-29T17:35:58.801436+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30609485",
       "prepared": {
@@ -17778,5 +17780,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T11:48:14.205445+00:00"
+  "updated_at": "2026-10-29T11:49:54.968949+00:00"
 }
