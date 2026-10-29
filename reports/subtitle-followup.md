@@ -64,3 +64,4 @@ Attach subtitles only after target processing has finished.
 | Ran (乱) | 30612365 | https://sdilej.cz/33590630/ran-1985-tit.mp4 | Find and add matching Czech subtitles after processing |
 | A Silent Voice (A Silent Voice: The Movie) CZ Titulky | 30612406 | https://sdilej.cz/30862544/koe-no-katachi-a-silent-voice-bd-3840x2160-x265-10bit-dts-hdma-flac-.mkv | Extract Czech track from exact source after processing |
 | Yojimbo (用心棒) | 30612474 | https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv | Find and add matching Czech subtitles after processing |
+| Uri: The Surgical Strike | 30612576 | https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi | Find and add matching Czech subtitles after processing |
