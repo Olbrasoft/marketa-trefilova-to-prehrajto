@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T17:07:29.775468+00:00
+Poslední aktualizace (UTC): 2026-10-29T17:07:33.347092+00:00
 
 Zkontrolováno videí: 65. Další stránka kontroly: 0.
 
@@ -40,7 +40,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T15:59:01.243308+00:00 |
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | target_unavailable | 2026-10-29T15:59:55.983090+00:00 |
 | [Eternal Sunshine of the Spotless Mind 1080p CZ Titulky](https://prehraj.to/eternal-sunshine-of-the-spotless-mind-cz-titulky-mkv/ce0b9818feb2a529) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-29T16:08:50.939844+00:00 |
-| [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T15:58:57.489970+00:00 |
+| [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T17:07:33.347010+00:00 |
 | [Heat 1080p CZ Titulky](https://prehraj.to/heat-cz-titulky-mkv/fbe2ea57b0788734) (ID 30602067) | [Sdílej 6486240](https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-29T15:59:48.807895+00:00 |
 | [Joker 4K CZ Titulky](https://prehraj.to/joker-cz-titulky-mkv/74cf3c08e4ffb448) (ID 30596090) | [Sdílej 33794368](https://sdilej.cz/33794368/joker-2019-.mkv) | target_unavailable | 2026-10-29T16:29:12.330107+00:00 |
 | [Klaus 1080p CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-29T16:47:01.094494+00:00 |
