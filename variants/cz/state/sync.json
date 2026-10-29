@@ -4786,17 +4786,19 @@
       }
     },
     "192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31398040",
+          "target_video_id": "30616952",
+          "permanent": false,
+          "attempted_at": "2026-10-29T19:07:55.017654+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31398040",
         "display_name": "Jaws 4K CZ Dabing",
         "planned_at": "2026-10-29T18:54:08.242949+00:00"
-      },
-      "claim": {
-        "worker_id": "90e3b0905bf94b75a65a3d77aab4bd37-shard-0",
-        "claimed_at": "2026-10-29T18:54:08.317147+00:00",
-        "lease_expires_at": "2026-10-30T00:54:08.317147+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30616952",
       "prepared": {
@@ -21095,5 +21097,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T19:00:42.780437+00:00"
+  "updated_at": "2026-10-29T19:07:55.017674+00:00"
 }
