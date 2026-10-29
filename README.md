@@ -11,13 +11,20 @@ Na jeden film nejvýše dvě varianty, každá s vlastním stavem a cílovým ID
 
 | Zdroj | Název na Přehraj.to |
 | --- | --- |
-| Ověřený český zvuk | The Shawshank Redemption CZ Dabing |
-| Ověřený anglický nebo původní zvuk a doložené české titulky | The Shawshank Redemption CZ Titulky |
-| Anglický nebo původní zvuk, české titulky nenalezeny | The Shawshank Redemption |
+| Ověřený český zvuk | The Shawshank Redemption 1080p CZ Dabing |
+| Ověřený anglický nebo původní zvuk a doložené české titulky | The Shawshank Redemption 1080p CZ Titulky |
+| Anglický nebo původní zvuk, české titulky nenalezeny | The Shawshank Redemption 1080p |
 
 Pokud se anglický a původní název liší, uvedou se oba, v pořadí
 `Anglický název (Původní název)`. Jazykový dodatek je až na konci, například
-`The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo) CZ Dabing`.
+`The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo) 4K CZ Dabing`.
+Rozlišení se přebírá z ověřených rozměrů nahrávaného souboru, ne z jeho názvu.
+Používají se značky `8K`, `4K`, `1440p`, `1080p`, `720p` a `SD`; například
+širokoúhlé rozměry 1920×800 odpovídají třídě `1080p`. Neznámé rozměry se
+neodhadují. Starší dokončená videa s doloženou vazbou na zdroj automatika
+postupně přejmenuje podle jejich uložených rozměrů. Přidání titulků zachová
+rozlišení před jazykovým dodatkem. Rozpracované starší názvy se rozpoznají
+podle cílového ID a zdroje, aby změna názvu nezpůsobila nový upload.
 Shodné názvy, včetně rozdílů pouze ve velikosti písmen, se neopakují.
 Každý název se při hledání zdrojů ověřuje samostatně; sloučený název slouží
 pro pojmenování cílového videa.

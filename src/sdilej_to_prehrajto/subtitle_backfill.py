@@ -97,7 +97,7 @@ def source_map(root: Path) -> dict[str, dict]:
             continue
         mapped[target_id] = {"cr_film_id": int(film_id), "source_id": source_id,
                              "source_url": url, "source_filename": source.get("source_filename", ""),
-                             "provenance": evidence}
+                             "provenance": evidence, "width": source.get("width", 0), "height": source.get("height", 0)}
         selected = manifests.get(film_id, {})
         if str(selected.get("source_id")) == source_id:
             subtitle_evidence = selected.get("match_evidence", {}).get("marketa", {})

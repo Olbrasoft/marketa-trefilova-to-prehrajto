@@ -40,9 +40,9 @@ def test_only_english_can_be_an_english_variant():
 
 
 @pytest.mark.parametrize("variant,language,subtitles,title", [
-    ("cz","cs",False,"The Film CZ Dabing"),
-    ("en","en",True,"The Film CZ Titulky"),
-    ("en","en",False,"The Film"),
+    ("cz","cs",False,"The Film 1080p CZ Dabing"),
+    ("en","en",True,"The Film 1080p CZ Titulky"),
+    ("en","en",False,"The Film 1080p"),
 ])
 def test_exact_names(variant,language,subtitles,title):
     assert display_name("The Film", variant, candidate(language=language,subtitles=subtitles)) == title
@@ -196,13 +196,13 @@ def test_only_text_tracks_or_verified_pixels_justify_the_subtitle_label(monkeypa
     result=provider.verify_english(film,candidate())
     assert result.match_evidence["marketa"]["czech_subtitles"] is subtitled
     assert result.match_evidence["marketa"]["subtitle_codec"]==codec
-    assert display_name("The Film", "en", result) == ("The Film CZ Titulky" if subtitled else "The Film")
+    assert display_name("The Film", "en", result) == ("The Film 1080p CZ Titulky" if subtitled else "The Film 1080p")
 
 
 @pytest.mark.parametrize("visual_status,expected", [
-    ("czech_burned_in_verified", "The Film CZ Titulky"),
-    ("no_text_detected", "The Film"),
-    ("foreign_text_detected", "The Film"),
+    ("czech_burned_in_verified", "The Film 1080p CZ Titulky"),
+    ("no_text_detected", "The Film 1080p"),
+    ("foreign_text_detected", "The Film 1080p"),
     ("uncertain", None),
 ])
 def test_visual_evidence_controls_names_and_unknown_results_are_deferred(monkeypatch, visual_status, expected):
@@ -276,9 +276,9 @@ def test_combined_names_preserve_both_database_values_without_duplicates(english
 
 def test_all_variants_use_both_titles_before_language_suffix():
     title = combined_title("The Good, the Bad and the Ugly", "Il buono, il brutto, il cattivo")
-    assert display_name(title, "cz", candidate(language="cs")) == title + " CZ Dabing"
-    assert display_name(title, "en", candidate(subtitles=True)) == title + " CZ Titulky"
-    assert display_name(title, "en", candidate()) == title
+    assert display_name(title, "cz", candidate(language="cs")) == title + " 1080p CZ Dabing"
+    assert display_name(title, "en", candidate(subtitles=True)) == title + " 1080p CZ Titulky"
+    assert display_name(title, "en", candidate()) == title + " 1080p"
 
 
 def test_display_names_do_not_replace_individual_search_names(tmp_path, monkeypatch):
@@ -400,7 +400,7 @@ def test_original_audio_is_verified_against_the_movie_language(monkeypatch, orig
     if accepted:
         assert result.audio_language == detected
         assert result.match_evidence["marketa"]["policy"] == (LEGACY_POLICY if detected == "en" else POLICY)
-        assert display_name("The Film", "en", result) == "The Film CZ Titulky"
+        assert display_name("The Film", "en", result) == "The Film 1080p CZ Titulky"
         assert choose_english([result]) is result
 
 
@@ -684,7 +684,7 @@ def test_old_unsubtitled_source_is_visually_reviewed_without_reselecting_the_upl
     prepare(tmp_path, [film], {1: "The Film"}, 1, None, 5)
     stored = VariantSourceStore(tmp_path / "variants/en/manifests/selected-sources.jsonl", "en").candidate(1)
     assert calls == [(1, "123")]
-    assert display_name("The Film", "en", stored) == "The Film CZ Titulky"
+    assert display_name("The Film", "en", stored) == "The Film 1080p CZ Titulky"
     assert pipeline.state.snapshot(1)["upload"]["target_video_id"] == "777"
 
 
@@ -752,4 +752,4 @@ def test_cached_bitmap_metadata_cannot_bypass_visual_verification(monkeypatch):
     monkeypatch.setattr(provider, "verify_english", verify)
     selected = provider.discover(film)[0]
     assert calls == ["bitmap"]
-    assert display_name("The Film", "en", selected) == "The Film"
+    assert display_name("The Film", "en", selected) == "The Film 1080p"

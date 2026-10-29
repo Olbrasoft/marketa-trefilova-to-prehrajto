@@ -14,7 +14,6 @@ import time
 
 from sdilej_to_prehrajto.git_state import GitStatePersister
 from sdilej_to_prehrajto.language import WhisperLanguageDetector
-from sdilej_to_prehrajto.pipeline import SyncPipeline
 from sdilej_to_prehrajto.prehrajto import login as target_login
 from sdilej_to_prehrajto.prehrajto import rename_video, uploaded_video_confirmed, PrehrajtoError
 from sdilej_to_prehrajto.sdilej import login as source_login, SdilejProvider, PremiumRequiredError
@@ -27,6 +26,7 @@ from sdilej_to_prehrajto.subtitles import SubtitleQueue
 from .catalog import EnglishTitles, VariantSourceStore, import_sources, named_films, read_rows
 from .discovery import EnglishProvider, display_name, has_subtitles, bitmap_subtitles
 from .subtitle_visual import VISUAL_POLICY
+from .naming import MarketaPipeline, with_resolution, reconcile_resolution_names
 
 
 def required_env(name):
@@ -47,7 +47,7 @@ def target_session():
 def make_pipeline(root, variant, names, source=None, target=None, provider=None, persist=None,
                   checkpoint_lock=None):
     lane = root / "variants" / variant
-    return SyncPipeline(
+    return MarketaPipeline(
         source_provider=provider or SdilejProvider(source, None),
         source_session=source, target_session=target,
         state=StateStore(lane / "state/sync.json", on_persist=persist, checkpoint_lock=checkpoint_lock),
@@ -219,6 +219,8 @@ def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpo
                 return
             base = re.sub(r"\s+CZ\s+Titulky$", "", title, flags=re.I)
             wanted = base + " CZ Titulky" if has_czech else base
+            wanted = with_resolution(wanted, record.get("width") or source_evidence.get("width", 0),
+                                     record.get("height") or source_evidence.get("height", 0))
             if wanted == title:
                 row["title"] = wanted
                 return
@@ -412,9 +414,12 @@ def main():
         with checkpoint_lock:
             has_targets = any(entry.get("upload") or entry.get("prepared")
                               for entry in pipelines["en"].state.data["films"].values())
-        if has_targets:
-            if subtitle_sessions is None:
-                subtitle_sessions = (source_session(), target_session())
+        if subtitle_sessions is None:
+            subtitle_sessions = (source_session(), target_session())
+        deadline = time.monotonic() + remaining_minutes * 60
+        reconcile_resolution_names(pipelines, subtitle_sessions[1], deadline=deadline)
+        remaining_minutes = int((deadline - time.monotonic()) / 60)
+        if has_targets and remaining_minutes > 0:
             run_subtitles(root, *subtitle_sessions, persist, 20, remaining_minutes,
                           checkpoint_lock=checkpoint_lock, state_store=pipelines["en"].state)
 
