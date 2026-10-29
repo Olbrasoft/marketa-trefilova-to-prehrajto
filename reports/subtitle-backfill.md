@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T18:37:42.004984+00:00
+Poslední aktualizace (UTC): 2026-10-29T18:37:47.939862+00:00
 
 Zkontrolováno videí: 71. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 24, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 23, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -56,7 +56,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-29T18:17:28.169438+00:00 |
 | [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T18:07:37.085198+00:00 |
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | target_unavailable | 2026-10-29T17:47:05.586115+00:00 |
-| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | target_unavailable | 2026-10-29T17:37:08.512751+00:00 |
+| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-29T18:37:47.939822+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-29T18:17:41.747355+00:00 |
 | [The Sting 1080p CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-29T17:47:16.506310+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-10-29T18:27:35.469594+00:00 |
