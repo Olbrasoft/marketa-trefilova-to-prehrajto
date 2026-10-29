@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:18:00.200368+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:18:01.905042+00:00
 
 Zkontrolováno videí: 63. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 19, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 1, `source_czech_full_text_unsupported`: 9, `target_unavailable`: 30, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 19, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `target_unavailable`: 31, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -59,6 +59,7 @@ Kontrol: 6; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Lives of Others](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-29T14:27:41.753057+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-29T15:08:16.906838+00:00 |
 | [The Sting CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-29T14:37:41.114712+00:00 |
+| [They Shall Not Grow Old CZ Titulky](https://prehraj.to/they-shall-not-grow-old-cz-titulky-mkv/a8d107aceffaaba8) (ID 30612837) | [Sdílej 10958085](https://sdilej.cz/10958085/they-shall-not-grow-old-1080p-x264-cz-tit.mkv) | target_unavailable | 2026-10-29T15:18:01.904955+00:00 |
 | [Uri: The Surgical Strike](https://prehraj.to/uri-the-surgical-strike-avi/6991f89a009a62db) (ID 30612576) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | target_unavailable | 2026-10-29T14:57:55.971836+00:00 |
 | [Vertigo](https://prehraj.to/vertigo-mkv/6d7a10962df621d4) (ID 30610902) | [Sdílej 14187973](https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv) | target_unavailable | 2026-10-29T15:08:01.784125+00:00 |
 | [Yojimbo (用心棒)](https://prehraj.to/yojimbo-mkv/55395580edc6d422) (ID 30612474) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | target_unavailable | 2026-10-29T14:47:59.447719+00:00 |
