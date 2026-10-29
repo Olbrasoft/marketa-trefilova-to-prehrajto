@@ -59,9 +59,13 @@ def test_owned_legacy_prepared_target_is_not_uploaded_again(tmp_path, monkeypatc
 
 def test_untracked_legacy_target_blocks_duplicates_without_inventing_resolution(tmp_path, monkeypatch):
     pipeline = make_pipeline(tmp_path, "cz", {1: "The Film"})
+    source = Candidate("123", "https://sdilej.cz/123/film.mkv", "Film", width=1920, height=1080)
+    pipeline._selected[1] = source
+    pipeline.state.record_plan(1, {"selected": source.to_dict(), "display_name": "The Film 1080p CZ Dabing"})
     monkeypatch.setattr("sdilej_to_prehrajto.pipeline.uploaded_video_id_by_name", lambda _session, name, **_: "777" if name == "The Film CZ Dabing" else None)
     with pytest.raises(PrehrajtoError, match="verified resolution binding"):
         pipeline._target_id_by_name(None, "The Film 1080p CZ Dabing")
+    assert pipeline.state.snapshot(1)["previous_target_id"] == "777"
 
 
 @pytest.mark.parametrize("confirmed", [False, True])

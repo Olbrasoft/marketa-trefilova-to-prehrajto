@@ -54,6 +54,14 @@ class MarketaPipeline(SyncPipeline):
         if found and not self.owns_prepared_source(found):
             # A legacy title alone cannot prove the resolution of the selected
             # source. Block duplicates without relabelling somebody else's file.
+            for film_id, source in list(self._selected.items()):
+                plan = self.state.snapshot(film_id).get("last_plan") or {}
+                if plan.get("display_name") == name:
+                    self.state.record_attempt(film_id, {
+                        "status": "target_requires_review", "source_id": source.source_id,
+                        "target_video_id": found, "permanent": False,
+                        "reason": "Legacy target resolution binding requires verification"})
+                    self.state.persist_external("failure")
             raise PrehrajtoError("Existing legacy target needs verified resolution binding")
         return found
 
