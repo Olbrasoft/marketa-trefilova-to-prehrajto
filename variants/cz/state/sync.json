@@ -5160,17 +5160,19 @@
       }
     },
     "187": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33565489",
+          "reason": "Request failed for https://sdilej.cz/33565489/stuj-pri-mne-stand-by-me-1986-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T22:44:24.484277+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33565489",
         "display_name": "Stand by Me 1080p CZ Dabing",
         "planned_at": "2026-10-29T22:43:38.519708+00:00"
-      },
-      "claim": {
-        "worker_id": "438bee8cc0c14bd1a24e4fe73cb40e3b-shard-0",
-        "claimed_at": "2026-10-29T22:43:38.599932+00:00",
-        "lease_expires_at": "2026-10-30T04:43:38.599932+00:00",
-        "run_id": "40957299535"
       }
     },
     "227": {
@@ -22305,5 +22307,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T22:43:38.599955+00:00"
+  "updated_at": "2026-10-29T22:44:24.484295+00:00"
 }
