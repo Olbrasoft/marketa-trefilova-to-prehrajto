@@ -2394,17 +2394,19 @@
       }
     },
     "125": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32990300",
+          "target_video_id": "30601375",
+          "permanent": false,
+          "attempted_at": "2026-10-29T02:59:26.286702+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32990300",
         "display_name": "Requiem for a Dream CZ Dabing",
         "planned_at": "2026-10-29T02:34:11.737836+00:00"
-      },
-      "claim": {
-        "worker_id": "3bccaf5120664bc4a89dc4e194cf4a89-shard-0",
-        "claimed_at": "2026-10-29T02:34:11.784597+00:00",
-        "lease_expires_at": "2026-10-29T08:34:11.784597+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30601375",
       "prepared": {
@@ -13849,5 +13851,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T02:34:14.644396+00:00"
+  "updated_at": "2026-10-29T02:59:26.286720+00:00"
 }
