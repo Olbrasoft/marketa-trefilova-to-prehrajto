@@ -3264,17 +3264,19 @@
       }
     },
     "235": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31885004",
+          "target_video_id": "30616683",
+          "permanent": false,
+          "attempted_at": "2026-10-29T18:42:37.033657+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31885004",
         "display_name": "12 Years a Slave SD",
         "planned_at": "2026-10-29T18:38:11.629907+00:00"
-      },
-      "claim": {
-        "worker_id": "c6f9f22f2c2f425e84db422452811c17-shard-0",
-        "claimed_at": "2026-10-29T18:38:11.653487+00:00",
-        "lease_expires_at": "2026-10-30T00:38:11.653487+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30616683",
       "prepared": {
@@ -19564,5 +19566,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T18:38:15.526374+00:00"
+  "updated_at": "2026-10-29T18:42:37.033675+00:00"
 }
