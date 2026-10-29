@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T19:58:48.917469+00:00
+Poslední aktualizace (UTC): 2026-10-29T20:08:54.889334+00:00
 
-Zkontrolováno videí: 73. Další stránka kontroly: 0.
+Zkontrolováno videí: 74. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 30, `attached_verified`: 2, `existing_tracks_uncertain`: 3, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 22, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 30, `attached_verified`: 2, `existing_tracks_uncertain`: 3, `pending`: 1, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 22, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
