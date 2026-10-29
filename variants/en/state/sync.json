@@ -2275,7 +2275,7 @@
       "last_plan": {
         "source_id": "21206285",
         "display_name": "Taxi Driver 1080p CZ Titulky",
-        "planned_at": "2026-10-29T19:42:29.335611+00:00"
+        "planned_at": "2026-10-29T21:43:12.629091+00:00"
       },
       "previous_target_id": "30607270",
       "prepared": {
@@ -2283,6 +2283,12 @@
         "size_bytes": 21100000000,
         "prepared_at": "2026-10-29T09:25:43.237300+00:00",
         "relay_source_id": "21206285"
+      },
+      "claim": {
+        "worker_id": "bc41e163c97c4dc29438175097b22347-shard-0",
+        "claimed_at": "2026-10-29T21:43:12.691328+00:00",
+        "lease_expires_at": "2026-10-30T03:43:12.691328+00:00",
+        "run_id": "40957299535"
       }
     },
     "177": {
@@ -2405,23 +2411,23 @@
           "attempted_at": "2026-10-29T19:42:27.990689+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33203988",
-        "display_name": "Amélie (Le Fabuleux Destin d'Amélie Poulain) SD",
-        "planned_at": "2026-10-29T21:43:10.942567+00:00"
-      },
       "previous_target_id": "30608820",
-      "prepared": {
+      "upload": {
         "target_video_id": "30608820",
+        "display_name": "Amélie (Le Fabuleux Destin d'Amélie Poulain) SD",
+        "source_id": "33203988",
+        "source_url": "https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv",
+        "source_filename": "Amelie [Amélie Poulain].2001.BRRip.x264.AAC[5.1]-VLiS.mkv",
         "size_bytes": 1500000000,
-        "prepared_at": "2026-10-29T10:52:10.857450+00:00",
-        "relay_source_id": "33203988"
-      },
-      "claim": {
-        "worker_id": "916d5ea145094a1694ac046013408388-shard-0",
-        "claimed_at": "2026-10-29T21:43:11.003823+00:00",
-        "lease_expires_at": "2026-10-30T03:43:11.003823+00:00",
-        "run_id": "40957299535"
+        "width": 720,
+        "height": 304,
+        "audio_language": "fr",
+        "language_probability": 0.9789560437202454,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602",
+        "uploaded_at": "2026-10-29T21:43:15.020526+00:00"
       }
     },
     "146": {
@@ -3421,7 +3427,7 @@
       "last_plan": {
         "source_id": "29629993",
         "display_name": "Rush (2013) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T21:43:10.982865+00:00"
+        "planned_at": "2026-10-29T21:43:12.669838+00:00"
       }
     },
     "208": {
@@ -20386,5 +20392,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:43:11.308317+00:00"
+  "updated_at": "2026-10-29T21:43:15.020538+00:00"
 }
