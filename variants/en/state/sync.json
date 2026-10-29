@@ -2534,7 +2534,7 @@
       "last_plan": {
         "source_id": "34395592",
         "display_name": "Casino 1080p CZ Titulky",
-        "planned_at": "2026-10-29T23:29:01.019915+00:00"
+        "planned_at": "2026-10-29T23:59:05.225862+00:00"
       },
       "previous_target_id": "30609486",
       "prepared": {
@@ -2542,6 +2542,12 @@
         "size_bytes": 34500000000,
         "prepared_at": "2026-10-29T11:36:04.536833+00:00",
         "relay_source_id": "34395592"
+      },
+      "claim": {
+        "worker_id": "467d5980b5e94385954ae1d034c1c2f7-shard-0",
+        "claimed_at": "2026-10-29T23:59:05.291370+00:00",
+        "lease_expires_at": "2026-10-30T05:59:05.291370+00:00",
+        "run_id": "40957299535"
       }
     },
     "176": {
@@ -2696,13 +2702,6 @@
           "source_id": "12614295",
           "target_video_id": "30612211",
           "permanent": false,
-          "attempted_at": "2026-10-29T22:15:18.931354+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12614295",
-          "target_video_id": "30612211",
-          "permanent": false,
           "attempted_at": "2026-10-29T22:49:14.800534+00:00"
         },
         {
@@ -2711,6 +2710,13 @@
           "target_video_id": "30612211",
           "permanent": false,
           "attempted_at": "2026-10-29T23:28:57.885149+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12614295",
+          "target_video_id": "30612211",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:59:06.238235+00:00"
         }
       ],
       "last_plan": {
@@ -2724,12 +2730,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T14:28:07.087530+00:00",
         "relay_source_id": "12614295"
-      },
-      "claim": {
-        "worker_id": "d55c4b7fdabe43928a14997a30388ee1-shard-0",
-        "claimed_at": "2026-10-29T23:59:03.077623+00:00",
-        "lease_expires_at": "2026-10-30T05:59:03.077623+00:00",
-        "run_id": "40957299535"
       }
     },
     "21173": {
@@ -3697,7 +3697,7 @@
       "last_plan": {
         "source_id": "29907177",
         "display_name": "The Wild Robot 4K CZ Titulky",
-        "planned_at": "2026-10-29T23:59:03.054963+00:00"
+        "planned_at": "2026-10-29T23:59:05.269244+00:00"
       }
     },
     "185": {
@@ -20778,5 +20778,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:59:03.731095+00:00"
+  "updated_at": "2026-10-29T23:59:06.238254+00:00"
 }
