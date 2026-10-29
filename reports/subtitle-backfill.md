@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T18:47:42.023531+00:00
+Poslední aktualizace (UTC): 2026-10-29T18:47:46.279202+00:00
 
 Zkontrolováno videí: 72. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `pending`: 1, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 23, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 24, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -37,6 +37,7 @@ Kontrol: 3; odesláno: 1; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-10-29T18:47:46.279100+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain) SD](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T18:07:40.551362+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | target_unavailable | 2026-10-29T18:07:22.461583+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T18:17:38.422484+00:00 |
