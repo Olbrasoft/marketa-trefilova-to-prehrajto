@@ -136,10 +136,14 @@ filmu. Nejasný výsledek odeslání titulků se pouze ověřuje, odeslání se 
 Po potvrzeném doplnění českých titulků dostane dokončená původní verze dodatek
 `CZ Titulky`; změna se ověří na webu a zapíše do společného uploadovacího stavu.
 
-Obrazové české stopy mají při výběru také přednost, jejich převod a doplnění
-však vyžadují ruční práci a zůstávají v titulkovém přehledu. Natvrdo vložené
-titulky nemají automatické ověření. Zdroj označený českými titulky bez
-dohledatelné stopy se odloží k ověření.
+Samostatné obrazové stopy PGS nejsou titulky vypálené do obrazu. Jejich převod
+a doplnění vyžadují ruční práci a zůstávají v titulkovém přehledu. Samotná PGS
+stopa neopravňuje k dodatku `CZ Titulky`: bez textové stopy nebo potvrzených
+českých titulků v obrazu dostane video název bez dodatku. Starší takto označená
+videa se po kontrole obrazu a nepřítomnosti české stopy v přehrávači přejmenují;
+existující české textové titulky mají vždy přednost před záporným vizuálním
+nálezem. Kontrola nemění vazbu na původní soubor. Nevyjasněné tvrzení zdroje
+o českých titulcích se odloží k ověření.
 
 Vypálené titulky se neposuzují podle názvu zdroje. Když chybí samostatná česká
 stopa, příprava kontroluje šest snímků rozmístěných mezi 12 a 82 procenty filmu.

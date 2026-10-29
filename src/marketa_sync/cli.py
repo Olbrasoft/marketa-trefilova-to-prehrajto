@@ -20,12 +20,12 @@ from sdilej_to_prehrajto.prehrajto import rename_video, uploaded_video_confirmed
 from sdilej_to_prehrajto.sdilej import login as source_login, SdilejProvider, PremiumRequiredError
 from sdilej_to_prehrajto.state import StateStore
 from sdilej_to_prehrajto.subtitle_backfill import Backfill, atomic_write
-from sdilej_to_prehrajto.subtitle_target import SubtitleTarget
+from sdilej_to_prehrajto.subtitle_target import SubtitleTarget, trusted_detail
 from sdilej_to_prehrajto.subtitle_media import SubtitleUnavailable
 from sdilej_to_prehrajto.subtitles import SubtitleQueue
 
 from .catalog import EnglishTitles, VariantSourceStore, import_sources, named_films, read_rows
-from .discovery import EnglishProvider, display_name, has_subtitles
+from .discovery import EnglishProvider, display_name, has_subtitles, bitmap_subtitles
 from .subtitle_visual import VISUAL_POLICY
 
 
@@ -103,7 +103,8 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
     visual_reviews = []
     for film in films:
         candidate = pipeline.selected_sources.candidate(film.cr_film_id)
-        if candidate and not has_subtitles(candidate) and candidate.match_evidence["marketa"].get("visual_policy") != VISUAL_POLICY:
+        if (candidate and (not has_subtitles(candidate) or bitmap_subtitles(candidate))
+                and candidate.match_evidence["marketa"].get("visual_policy") != VISUAL_POLICY):
             visual_reviews.append(film)
     review_ids = {film.cr_film_id for film in visual_reviews}
     ordered = visual_reviews + [film for film in ordered if film.cr_film_id not in review_ids]
@@ -201,7 +202,7 @@ def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpo
     lane = root / "variants/en"
     store = state_store or StateStore(lane / "state/sync.json", on_persist=persist, checkpoint_lock=lock)
 
-    def confirm_name(row):
+    def confirm_name(row, has_czech=True):
         with lock:
             film_id = row.get("source", {}).get("cr_film_id")
             if film_id is None:
@@ -209,12 +210,17 @@ def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpo
             entry = store.snapshot(film_id)
             upload = entry.get("upload") or {}
             prepared = entry.get("prepared") or {}
-            record = upload or (prepared if row.get("source", {}).get("burned_in_czech_verified") else {})
+            source_evidence = row.get("source", {})
+            record = upload or (prepared if source_evidence.get("visual_subtitle_status") else {})
             title = upload.get("display_name") or (entry.get("last_plan") or {}).get("display_name", "")
             if (str(record.get("target_video_id")) != row["target_video_id"] or not title
-                    or re.search(r"CZ\s+(?:Titulky|Dabing)$", title, re.I)):
+                    or re.search(r"CZ\s+Dabing$", title, re.I)):
                 return
-            wanted = title + " CZ Titulky"
+            base = re.sub(r"\s+CZ\s+Titulky$", "", title, flags=re.I)
+            wanted = base + " CZ Titulky" if has_czech else base
+            if wanted == title:
+                row["title"] = wanted
+                return
             if not uploaded_video_confirmed(target, row["target_video_id"], wanted):
                 rename_video(target, row["target_video_id"], wanted)
                 if not uploaded_video_confirmed(target, row["target_video_id"], wanted):
@@ -223,13 +229,18 @@ def run_subtitles(root, source, target, persist, limit, runtime_minutes, checkpo
                 store.film(film_id)["upload"]["display_name"] = wanted
             if entry.get("last_plan"):
                 store.film(film_id)["last_plan"]["display_name"] = wanted
+            detail = getattr(target, "_prehrajto_detail_urls", {}).get(row["target_video_id"], "")
+            if trusted_detail(detail):
+                row["detail_url"] = detail
+                store.film(film_id)["upload" if upload else "prepared"]["detail_url"] = detail
             store.save("success")
             row["title"] = wanted
 
     with lock:
         backfill = Backfill(SubtitleTarget(target), source, lane,
                             lane / "state/subtitle-backfill.json", root / "reports/subtitle-backfill.md",
-                            persist=persist, checkpoint_lock=lock, on_verified=confirm_name)
+                            persist=persist, checkpoint_lock=lock, on_verified=confirm_name,
+                            on_no_subtitles=lambda row: confirm_name(row, False))
     result = backfill.run(max_pages=2, max_sources=limit, limit=limit, runtime_minutes=runtime_minutes)
     with lock:
         followup_report(root)

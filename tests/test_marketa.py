@@ -176,8 +176,12 @@ def test_resume_processing_upload_preserves_subtitle_provenance(tmp_path, monkey
     assert source_map(tmp_path/"variants/en")["777"]["source_id"]=="123"
 
 
-@pytest.mark.parametrize("codec", ["subrip", "hdmv_pgs_subtitle"])
-def test_original_czech_tracks_are_preferred_even_when_manual_conversion_is_needed(monkeypatch, codec):
+@pytest.mark.parametrize("codec,visual_status,subtitled", [
+    ("subrip", "no_text_detected", True),
+    ("hdmv_pgs_subtitle", "no_text_detected", False),
+    ("hdmv_pgs_subtitle", "czech_burned_in_verified", True),
+])
+def test_only_text_tracks_or_verified_pixels_justify_the_subtitle_label(monkeypatch, codec, visual_status, subtitled):
     film=Film(1,"film","The Film","The Film",2000,120,"en")
     detector=SimpleNamespace(detect_consensus=lambda *_args,**_kwargs: ("en",0.99))
     payload={"format":{"duration":"7200"},"streams":[
@@ -185,12 +189,14 @@ def test_original_czech_tracks_are_preferred_even_when_manual_conversion_is_need
         {"codec_type":"audio","tags":{"language":"eng"}},
         {"codec_type":"subtitle","index":2,"codec_name":codec,"tags":{"language":"ces"}},
     ]}
-    provider=EnglishProvider(None,detector,english_titles={1:"The Film"},probe=lambda _: payload)
+    provider=EnglishProvider(None,detector,english_titles={1:"The Film"},probe=lambda _: payload,
+        visual_inspector=lambda *_args, **_kwargs: {"visual_policy": "burned-in-czech-v1", "visual_status": visual_status})
     monkeypatch.setattr(provider,"_get",lambda _: SimpleNamespace(text="<html></html>"))
     monkeypatch.setattr("marketa_sync.discovery.parse_detail_html",lambda *_: candidate())
     result=provider.verify_english(film,candidate())
-    assert result.match_evidence["marketa"]["czech_subtitles"] is True
+    assert result.match_evidence["marketa"]["czech_subtitles"] is subtitled
     assert result.match_evidence["marketa"]["subtitle_codec"]==codec
+    assert display_name("The Film", "en", result) == ("The Film CZ Titulky" if subtitled else "The Film")
 
 
 @pytest.mark.parametrize("visual_status,expected", [
@@ -683,3 +689,29 @@ def test_confirmed_subtitles_rename_only_the_owned_original_and_update_the_live_
     assert pipeline.state.snapshot(1)["upload"]["display_name"] == expected
     assert StateStore(pipeline.state.path).snapshot(1)["upload"]["display_name"] == expected
     assert rename_calls == ([("777", expected)] if expected != old_name else [])
+
+
+@pytest.mark.parametrize("prepared", [False, True])
+@pytest.mark.parametrize("owned", [False, True])
+def test_visually_reviewed_video_without_visible_czech_subtitles_loses_only_its_suffix(tmp_path, monkeypatch, prepared, owned):
+    pipeline, _ = seed_source(tmp_path, "en", 1, candidate(subtitles=True))
+    pipeline.state.record_plan(1, {"selected": {"source_id": "123"}, "display_name": "The Film CZ Titulky"})
+    if prepared:
+        pipeline.state.record_prepared(1, "777", 100)
+    else:
+        pipeline.state.record_success(1, {"target_video_id": "777", "display_name": "The Film CZ Titulky"})
+    row = {"target_video_id": "777" if owned else "888", "source": {
+        "cr_film_id": 1, "visual_subtitle_status": "no_text_detected"}}
+    calls = []
+    confirmations = iter([False, True])
+    monkeypatch.setattr("marketa_sync.cli.rename_video", lambda _session, video, name: calls.append((video, name)))
+    monkeypatch.setattr("marketa_sync.cli.uploaded_video_confirmed", lambda *_: next(confirmations))
+    monkeypatch.setattr("marketa_sync.cli.Backfill", lambda *args, on_no_subtitles, **kwargs:
+                        SimpleNamespace(run=lambda **_: on_no_subtitles(row)))
+    run_subtitles(tmp_path, None, None, None, 20, 10, state_store=pipeline.state)
+    expected = "The Film" if owned else "The Film CZ Titulky"
+    entry = pipeline.state.snapshot(1)
+    assert entry["last_plan" if prepared else "upload"]["display_name"] == expected
+    assert (entry.get("upload") or entry["prepared"])["target_video_id"] == "777"
+    assert bool(entry.get("upload")) is not prepared
+    assert calls == ([("777", "The Film")] if owned else [])

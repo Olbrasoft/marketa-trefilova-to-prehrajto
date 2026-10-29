@@ -101,6 +101,8 @@ def source_map(root: Path) -> dict[str, dict]:
         selected = manifests.get(film_id, {})
         if str(selected.get("source_id")) == source_id:
             subtitle_evidence = selected.get("match_evidence", {}).get("marketa", {})
+            if subtitle_evidence.get("visual_policy") == "burned-in-czech-v1":
+                mapped[target_id]["visual_subtitle_status"] = subtitle_evidence.get("visual_status")
             if (subtitle_evidence.get("subtitle_method") == "burned_in_ocr_verified"
                     and subtitle_evidence.get("visual_status") == "czech_burned_in_verified"):
                 mapped[target_id]["burned_in_czech_verified"] = True
@@ -170,11 +172,12 @@ def report_markdown(state: dict) -> str:
 
 class Backfill:
     def __init__(self, target, source_session, root: Path, state_path: Path, report_path: Path,
-                 persist=None, dry_run=False, checkpoint_lock=None, on_verified=None):
+                 persist=None, dry_run=False, checkpoint_lock=None, on_verified=None, on_no_subtitles=None):
         self.target, self.source_session = target, source_session
         self.root, self.state_path, self.report_path = root, state_path, report_path
         self.persist, self.dry_run = persist, dry_run
         self.on_verified = on_verified
+        self.on_no_subtitles = on_no_subtitles
         self.checkpoint_lock = checkpoint_lock if checkpoint_lock is not None else threading.RLock()
         self.deadline = None
         self.state = json.loads(state_path.read_text()) if state_path.exists() else {"schema_version": 1, "videos": {}, "next_page": 0}
@@ -222,7 +225,8 @@ class Backfill:
             uploads = [row.get("upload") or {**(row.get("prepared") or {}), **(row.get("last_plan") or {})}
                        for row in transfers]
             queued = list(jsonl(self.root / "plans/subtitle-followup.jsonl"))
-        candidates = [row for row in uploads if row.get("needs_czech_subtitles") or re.search(r"CZ\s+Titulky", row.get("display_name", ""), re.I)] + queued
+        candidates = queued + [row for row in uploads if row.get("needs_czech_subtitles") or re.search(r"CZ\s+Titulky", row.get("display_name", ""), re.I)
+                               or str(row.get("target_video_id", "")) in self.sources]
         for candidate in candidates:
             video_id = str(candidate.get("target_video_id", ""))
             if not video_id.isdigit():
@@ -234,13 +238,20 @@ class Backfill:
                 row["detail_url"] = candidate["detail_url"]
         for video_id, row in self.state["videos"].items():
             if video_id in self.sources:
+                previous_visual = row.get("source", {}).get("visual_subtitle_status")
                 row["source"] = self.sources[video_id]
+                if (row["source"].get("visual_subtitle_status") != previous_visual
+                        and not row.get("intent") and row.get("status") not in {"already_has_czech", "attached_verified"}):
+                    row.update(status="pending", retry_after="")
                 if row.get("status") == "source_provenance_missing":
                     row.update(status="pending", retry_after="")
             if self.state.get("inventory_mode") != "local-detail-v1" and row.get("status") == "existing_tracks_uncertain":
                 row.update(status="pending", retry_after="")
             if not row.get("source") and not row.get("intent") and row.get("status") not in {"already_has_czech", "attached_verified"}:
                 self.status(row, "source_provenance_missing", 24)
+            if (row.get("status") == "already_has_czech" and row.get("source")
+                    and not re.search(r"CZ\s+(?:Titulky|Dabing)$", row.get("title", ""), re.I)):
+                row.update(status="pending", retry_after="")
         self.state.update(inventory_mode="local-detail-v1", next_page=0)
         missing = {key for key, row in self.state["videos"].items()
                    if not trusted_detail(row.get("detail_url", "")) and (row.get("source") or row.get("intent"))}
@@ -327,6 +338,10 @@ class Backfill:
         self.inspect(target)
         if target.ready and target.has_czech:
             self.confirm_name(row)
+        if (target.ready and not target.has_czech and not target.unknown_tracks
+                and row.get("source", {}).get("visual_subtitle_status") in {"no_text_detected", "foreign_text_detected"}
+                and self.on_no_subtitles and not self.dry_run):
+            self.on_no_subtitles(row)
         if target.ready and row.get("source", {}).get("burned_in_czech_verified"):
             self.status(row, "burned_in_czech_verified", 24)
             self.confirm_name(row)
