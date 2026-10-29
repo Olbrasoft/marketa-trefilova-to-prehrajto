@@ -82,3 +82,4 @@ Attach subtitles only after target processing has finished.
 | The Help 1080p CZ Titulky | 30620452 | https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Room 1080p CZ Titulky | 30620863 | https://sdilej.cz/14738718/doom.mkv | Extract Czech track from exact source after processing |
 | My Neighbor Totoro (となりのトトロ) 1080p | 30620967 | https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv | Find and add matching Czech subtitles after processing |
+| Memories of Murder (살인의 추억) 1080p CZ Titulky | 30621421 | https://sdilej.cz/17328714/memories-of-murder.2003.bdrip-1080p-hevc-eac3.cz.tit.mkv | Extract Czech track from exact source after processing |
