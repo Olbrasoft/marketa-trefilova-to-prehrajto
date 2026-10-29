@@ -715,3 +715,21 @@ def test_visually_reviewed_video_without_visible_czech_subtitles_loses_only_its_
     assert (entry.get("upload") or entry["prepared"])["target_video_id"] == "777"
     assert bool(entry.get("upload")) is not prepared
     assert calls == ([("777", "The Film")] if owned else [])
+
+
+def test_cached_bitmap_metadata_cannot_bypass_visual_verification(monkeypatch):
+    film = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
+    old = candidate("bitmap", subtitles=True)
+    old.match_evidence["marketa"].update(subtitle_codec="hdmv_pgs_subtitle", subtitle_attachable=False)
+    provider = EnglishProvider(None, None, english_titles={1: "The Film"})
+    provider.cache = {"1": {"bitmap": {"policy": POLICY, "original_language": "en", "candidate": old.to_dict()}}}
+    monkeypatch.setattr(provider, "search_by_quality", lambda _: [old])
+    calls = []
+    def verify(_film, source):
+        calls.append(source.source_id)
+        source.match_evidence["marketa"].update(czech_subtitles=False, visual_policy="burned-in-czech-v1", visual_status="no_text_detected")
+        return source
+    monkeypatch.setattr(provider, "verify_english", verify)
+    selected = provider.discover(film)[0]
+    assert calls == ["bitmap"]
+    assert display_name("The Film", "en", selected) == "The Film"

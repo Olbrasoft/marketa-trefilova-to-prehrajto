@@ -212,7 +212,9 @@ class EnglishProvider(SdilejProvider):
                 or record.get("policy") == LEGACY_POLICY and film.original_language in {None, "en"})
             if current and record.get("candidate"):
                 evidence = record["candidate"].get("match_evidence", {}).get("marketa", {})
-                if not evidence.get("czech_subtitles") and evidence.get("visual_policy") != VISUAL_POLICY:
+                needs_visual = (not evidence.get("czech_subtitles")
+                                or bitmap_subtitles(Candidate.from_dict(record["candidate"])))
+                if needs_visual and evidence.get("visual_policy") != VISUAL_POLICY:
                     current = False
             if current and record.get("error") and record.get("retry_after", "") > datetime.now(timezone.utc).isoformat():
                 incomplete = True
