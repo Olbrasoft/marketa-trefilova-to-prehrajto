@@ -47,3 +47,4 @@ Attach subtitles only after target processing has finished.
 | Braveheart CZ Titulky | 30597835 | https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv | Extract Czech track from exact source after processing |
 | Heat CZ Titulky | 30602067 | https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Oldboy (올드보이) (2003) CZ Titulky | 30602237 | https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv | Extract Czech track from exact source after processing |
+| Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky | 30602497 | https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4 | Extract Czech track from exact source after processing |
