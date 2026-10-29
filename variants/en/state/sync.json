@@ -3347,17 +3347,19 @@
       "attempts": []
     },
     "191": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30572762",
+          "target_video_id": "30617562",
+          "permanent": false,
+          "attempted_at": "2026-10-29T19:43:50.129532+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30572762",
         "display_name": "Dead Poets Society 1080p",
         "planned_at": "2026-10-29T19:25:54.117137+00:00"
-      },
-      "claim": {
-        "worker_id": "659291bc9d85401b8b7815d139880405-shard-0",
-        "claimed_at": "2026-10-29T19:25:54.141308+00:00",
-        "lease_expires_at": "2026-10-30T01:25:54.141308+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30617562",
       "prepared": {
@@ -19877,5 +19879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T19:43:40.188202+00:00"
+  "updated_at": "2026-10-29T19:43:50.129553+00:00"
 }
