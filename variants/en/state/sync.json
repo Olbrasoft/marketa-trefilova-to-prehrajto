@@ -2216,17 +2216,19 @@
       }
     },
     "175": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21028004",
+          "target_video_id": "30608273",
+          "permanent": false,
+          "attempted_at": "2026-10-29T10:43:06.398248+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21028004",
         "display_name": "A Clockwork Orange CZ Titulky",
         "planned_at": "2026-10-29T10:22:55.284657+00:00"
-      },
-      "claim": {
-        "worker_id": "e12181af4bf24204a1c409c1c7c87597-shard-0",
-        "claimed_at": "2026-10-29T10:22:55.302138+00:00",
-        "lease_expires_at": "2026-10-29T16:22:55.302138+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30608273",
       "prepared": {
@@ -16100,5 +16102,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:30:41.273198+00:00"
+  "updated_at": "2026-10-29T10:43:06.398263+00:00"
 }
