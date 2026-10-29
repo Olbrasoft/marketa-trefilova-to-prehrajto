@@ -1725,13 +1725,6 @@
           "source_id": "33794368",
           "target_video_id": "30596090",
           "permanent": false,
-          "attempted_at": "2026-10-29T18:32:41.261767+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33794368",
-          "target_video_id": "30596090",
-          "permanent": false,
           "attempted_at": "2026-10-29T19:08:59.902688+00:00"
         },
         {
@@ -1740,6 +1733,13 @@
           "target_video_id": "30596090",
           "permanent": false,
           "attempted_at": "2026-10-29T19:42:43.319936+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33794368",
+          "target_video_id": "30596090",
+          "permanent": false,
+          "attempted_at": "2026-10-29T21:43:29.857482+00:00"
         }
       ],
       "last_plan": {
@@ -1753,12 +1753,6 @@
         "size_bytes": 20300000000,
         "prepared_at": "2026-10-28T22:02:00.762611+00:00",
         "relay_source_id": "33794368"
-      },
-      "claim": {
-        "worker_id": "ac40aff1c9004fd98e756fb43abfa061-shard-0",
-        "claimed_at": "2026-10-29T21:43:26.899890+00:00",
-        "lease_expires_at": "2026-10-30T03:43:26.899890+00:00",
-        "run_id": "40957299535"
       }
     },
     "121": {
@@ -1988,7 +1982,7 @@
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T19:42:44.685728+00:00"
+        "planned_at": "2026-10-29T21:43:28.958695+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -1996,6 +1990,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "84a23cd2d5384dc89782e3f6c3bfef7f-shard-0",
+        "claimed_at": "2026-10-29T21:43:29.021018+00:00",
+        "lease_expires_at": "2026-10-30T03:43:29.021018+00:00",
+        "run_id": "40957299535"
       }
     },
     "21690": {
@@ -3439,7 +3439,7 @@
       "last_plan": {
         "source_id": "29629993",
         "display_name": "Rush (2013) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T21:43:26.878538+00:00"
+        "planned_at": "2026-10-29T21:43:28.999174+00:00"
       }
     },
     "208": {
@@ -20404,5 +20404,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:43:27.374010+00:00"
+  "updated_at": "2026-10-29T21:43:29.857500+00:00"
 }
