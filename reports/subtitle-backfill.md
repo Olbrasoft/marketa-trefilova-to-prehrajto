@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T16:46:57.311198+00:00
+Poslední aktualizace (UTC): 2026-10-29T16:47:01.094591+00:00
 
 Zkontrolováno videí: 65. Další stránka kontroly: 0.
 
@@ -43,7 +43,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T15:58:57.489970+00:00 |
 | [Heat 1080p CZ Titulky](https://prehraj.to/heat-cz-titulky-mkv/fbe2ea57b0788734) (ID 30602067) | [Sdílej 6486240](https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-29T15:59:48.807895+00:00 |
 | [Joker 4K CZ Titulky](https://prehraj.to/joker-cz-titulky-mkv/74cf3c08e4ffb448) (ID 30596090) | [Sdílej 33794368](https://sdilej.cz/33794368/joker-2019-.mkv) | target_unavailable | 2026-10-29T16:29:12.330107+00:00 |
-| [Klaus 1080p CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-29T15:38:21.726598+00:00 |
+| [Klaus 1080p CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-29T16:47:01.094494+00:00 |
 | [Lawrence of Arabia 1080p CZ Titulky](https://prehraj.to/lawrence-of-arabia-cz-titulky-mkv/afd2055797b2e4e8) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | target_unavailable | 2026-10-29T15:59:59.598476+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-10-29T16:46:57.311051+00:00 |
 | [Oldboy (올드보이) (2003) 1080p CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T15:59:52.293912+00:00 |
