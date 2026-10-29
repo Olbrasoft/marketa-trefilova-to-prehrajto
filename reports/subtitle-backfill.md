@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T16:29:16.050781+00:00
+Poslední aktualizace (UTC): 2026-10-29T16:29:19.681087+00:00
 
 Zkontrolováno videí: 64. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 25, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `source_czech_text_missing`: 2, `target_unavailable`: 23, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 26, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `source_czech_text_missing`: 2, `target_unavailable`: 22, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -34,7 +34,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [Amadeus 1080p CZ Titulky](https://prehraj.to/amadeus-cz-titulky-mkv/cc58190a90174c0c) (ID 30594798) | [Sdílej 33819226](https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv) | target_unavailable | 2026-10-29T15:28:15.648112+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain) SD](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T15:58:53.871150+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T16:08:55.504747+00:00 |
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T15:59:01.243308+00:00 |
