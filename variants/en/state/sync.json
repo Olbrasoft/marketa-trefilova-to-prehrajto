@@ -672,13 +672,6 @@
           "source_id": "27594175",
           "target_video_id": "30587002",
           "permanent": false,
-          "attempted_at": "2026-10-29T14:13:09.761155+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27594175",
-          "target_video_id": "30587002",
-          "permanent": false,
           "attempted_at": "2026-10-29T14:45:35.348783+00:00"
         },
         {
@@ -687,6 +680,13 @@
           "target_video_id": "30587002",
           "permanent": false,
           "attempted_at": "2026-10-29T15:17:50.795691+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27594175",
+          "target_video_id": "30587002",
+          "permanent": false,
+          "attempted_at": "2026-10-29T16:17:31.840727+00:00"
         }
       ],
       "last_plan": {
@@ -1515,8 +1515,8 @@
       ],
       "last_plan": {
         "source_id": "27490020",
-        "display_name": "The Lives of Others",
-        "planned_at": "2026-10-29T15:17:53.363377+00:00"
+        "display_name": "The Lives of Others 1080p",
+        "planned_at": "2026-10-29T16:17:29.208485+00:00"
       },
       "previous_target_id": "30595036",
       "prepared": {
@@ -1524,6 +1524,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-10-28T21:07:12.675750+00:00",
         "relay_source_id": "27490020"
+      },
+      "claim": {
+        "worker_id": "352a88e740f647b489f8c23e0f22706d-shard-0",
+        "claimed_at": "2026-10-29T16:17:29.264249+00:00",
+        "lease_expires_at": "2026-10-29T22:17:29.264249+00:00",
+        "run_id": "40901233364"
       }
     },
     "20746": {
@@ -2950,7 +2956,7 @@
       "last_plan": {
         "source_id": "32858384",
         "display_name": "V for Vendetta 4K CZ Titulky",
-        "planned_at": "2026-10-29T16:17:27.859256+00:00"
+        "planned_at": "2026-10-29T16:17:29.244637+00:00"
       }
     },
     "189": {
@@ -18517,5 +18523,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:17:27.859268+00:00"
+  "updated_at": "2026-10-29T16:17:31.840746+00:00"
 }

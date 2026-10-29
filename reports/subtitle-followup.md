@@ -36,7 +36,7 @@ Attach subtitles only after target processing has finished.
 | Alien CZ Titulky | 30592207 | https://sdilej.cz/34445474/vetrelec-romulus.mkv | Complete: Czech subtitles verified |
 | Dune: Part Two CZ Titulky | 30592690 | https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Amadeus 1080p CZ Titulky | 30594798 | https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
-| The Lives of Others | 30595036 | https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
+| The Lives of Others 1080p | 30595036 | https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
 | Your Name (Kimi no na wa.) CZ Titulky | 30595306 | https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | Witness for the Prosecution CZ Titulky | 30595529 | https://sdilej.cz/28723968/svedek-obzaloby-1957-a.christie-witness-for-the-prosecution-marlene-dietrich-eng-cz-dab.-eng-cz-ttl..mkv | Complete: Czech subtitles verified |
 | Capernaum (کفرناحوم) CZ Titulky | 30595560 | https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv | Complete: Czech subtitles verified |
