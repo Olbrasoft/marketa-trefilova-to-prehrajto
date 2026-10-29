@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:46:09.200245+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:46:21.088767+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 5, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 19, `target_unavailable`: 2, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 4, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 19, `target_unavailable`: 2, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -16,6 +16,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [A Clockwork Orange CZ Titulky](https://prehraj.to/a-clockwork-orange-cz-titulky-mkv/4aea1f812e06a3cb) (ID 30608273) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T11:46:21.088640+00:00 |
 | [Alien CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30592207) | [Sdílej 34445474](https://sdilej.cz/34445474/vetrelec-romulus.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:09.882491+00:00 |
 | [Amadeus CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30594798) | [Sdílej 33819226](https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:19.976753+00:00 |
 | [Braveheart CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:42.767188+00:00 |
