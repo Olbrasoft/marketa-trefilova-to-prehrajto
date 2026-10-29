@@ -2140,17 +2140,19 @@
       "attempts": []
     },
     "135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21206285",
+          "target_video_id": "30607270",
+          "permanent": false,
+          "attempted_at": "2026-10-29T10:29:01.715569+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21206285",
         "display_name": "Taxi Driver CZ Titulky",
         "planned_at": "2026-10-29T09:25:39.162193+00:00"
-      },
-      "claim": {
-        "worker_id": "2f549e1777904c2d87da5e94d682434b-shard-0",
-        "claimed_at": "2026-10-29T09:25:39.179715+00:00",
-        "lease_expires_at": "2026-10-29T15:25:39.179715+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30607270",
       "prepared": {
@@ -16075,5 +16077,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:22:59.009438+00:00"
+  "updated_at": "2026-10-29T10:29:01.715585+00:00"
 }
