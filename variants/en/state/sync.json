@@ -2500,17 +2500,19 @@
       "attempts": []
     },
     "11126": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8659765",
+          "target_video_id": "30611497",
+          "permanent": false,
+          "attempted_at": "2026-10-29T14:34:58.703062+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8659765",
         "display_name": "The Sting CZ Titulky",
         "planned_at": "2026-10-29T13:36:31.911591+00:00"
-      },
-      "claim": {
-        "worker_id": "e5a0ba57c81f4e9e82dfa7e3c3a8b6ed-shard-0",
-        "claimed_at": "2026-10-29T13:36:31.940376+00:00",
-        "lease_expires_at": "2026-10-29T19:36:31.940376+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30611497",
       "prepared": {
@@ -17983,5 +17985,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T14:28:07.087549+00:00"
+  "updated_at": "2026-10-29T14:34:58.703080+00:00"
 }
