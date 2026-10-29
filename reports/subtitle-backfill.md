@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T18:07:57.749636+00:00
+Poslední aktualizace (UTC): 2026-10-29T18:08:01.492328+00:00
 
 Zkontrolováno videí: 70. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 27, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `source_czech_text_missing`: 3, `target_unavailable`: 26, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `source_czech_text_missing`: 3, `target_unavailable`: 25, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -56,7 +56,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | target_unavailable | 2026-10-29T17:47:05.586115+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | target_unavailable | 2026-10-29T17:37:08.512751+00:00 |
 | [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | target_unavailable | 2026-10-29T17:16:59.057847+00:00 |
-| [The Green Mile 4K CZ Titulky](https://prehraj.to/the-green-mile-cz-titulky-mkv/88f77837c39b1463) (ID 30587002) | [Sdílej 27594175](https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv) | target_unavailable | 2026-10-29T17:07:49.162186+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-29T17:17:17.075266+00:00 |
 | [The Sting 1080p CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-29T17:47:16.506310+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-10-29T17:26:52.066281+00:00 |
