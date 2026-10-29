@@ -81,3 +81,4 @@ Attach subtitles only after target processing has finished.
 | Rush (2013) 1080p CZ Titulky | 30620144 | https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | The Help 1080p CZ Titulky | 30620452 | https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Room 1080p CZ Titulky | 30620863 | https://sdilej.cz/14738718/doom.mkv | Extract Czech track from exact source after processing |
+| My Neighbor Totoro (となりのトトロ) 1080p | 30620967 | https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv | Find and add matching Czech subtitles after processing |
