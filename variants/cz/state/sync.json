@@ -3096,7 +3096,20 @@
       }
     },
     "132": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34240636",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-29T09:02:03.663364+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34240636",
+        "display_name": "Oppenheimer CZ Dabing",
+        "planned_at": "2026-10-29T09:01:43.464067+00:00"
+      }
     },
     "179": {
       "attempts": []
@@ -16159,5 +16172,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T09:01:42.059178+00:00"
+  "updated_at": "2026-10-29T09:02:03.663381+00:00"
 }
