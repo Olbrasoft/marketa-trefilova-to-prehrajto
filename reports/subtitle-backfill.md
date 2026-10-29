@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T14:58:03.708844+00:00
+Poslední aktualizace (UTC): 2026-10-29T14:58:07.371024+00:00
 
 Zkontrolováno videí: 61. Další stránka kontroly: 0.
 
@@ -48,7 +48,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Joker CZ Titulky](https://prehraj.to/joker-cz-titulky-mkv/74cf3c08e4ffb448) (ID 30596090) | [Sdílej 33794368](https://sdilej.cz/33794368/joker-2019-.mkv) | target_unavailable | 2026-10-29T14:17:24.378106+00:00 |
 | [Klaus CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-29T14:37:33.838475+00:00 |
 | [Lawrence of Arabia CZ Titulky](https://prehraj.to/lawrence-of-arabia-cz-titulky-mkv/afd2055797b2e4e8) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | target_unavailable | 2026-10-29T13:57:18.195176+00:00 |
-| [Oldboy (올드보이) (2003) CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T13:57:11.019393+00:00 |
+| [Oldboy (올드보이) (2003) CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T14:58:07.370881+00:00 |
 | [Oppenheimer CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T14:48:02.927813+00:00 |
 | [Ran (乱)](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T14:47:51.875292+00:00 |
 | [Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky](https://prehraj.to/star-wars-episode-vi-return-of-the-jedi-star-wars-episode-vi-return-of-the-jedi-cz-titulky-mkv/e784a2c3f85b6b4b) (ID 30596759) | [Sdílej 35355567](https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv) | target_unavailable | 2026-10-29T14:07:19.213638+00:00 |
