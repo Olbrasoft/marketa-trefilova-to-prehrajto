@@ -2227,13 +2227,6 @@
           "source_id": "32915178",
           "target_video_id": "30606867",
           "permanent": false,
-          "attempted_at": "2026-10-29T21:43:11.308301+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32915178",
-          "target_video_id": "30606867",
-          "permanent": false,
           "attempted_at": "2026-10-29T22:15:32.553384+00:00"
         },
         {
@@ -2242,12 +2235,19 @@
           "target_video_id": "30606867",
           "permanent": false,
           "attempted_at": "2026-10-29T22:49:27.297883+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32915178",
+          "target_video_id": "30606867",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:29:07.743235+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32915178",
         "display_name": "Oppenheimer 4K CZ Titulky",
-        "planned_at": "2026-10-29T22:49:25.788921+00:00"
+        "planned_at": "2026-10-29T23:29:05.932755+00:00"
       },
       "previous_target_id": "30606867",
       "prepared": {
@@ -2496,6 +2496,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T11:18:07.912284+00:00",
         "relay_source_id": "31912774"
+      },
+      "claim": {
+        "worker_id": "06c5e8f2dab94f5e9a57d21fb34f3f04-shard-0",
+        "claimed_at": "2026-10-29T23:29:05.823209+00:00",
+        "lease_expires_at": "2026-10-30T05:29:05.823209+00:00",
+        "run_id": "40957299535"
       }
     },
     "12383": {
@@ -3626,7 +3632,7 @@
       "last_plan": {
         "source_id": "17328714",
         "display_name": "Memories of Murder (살인의 추억) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T23:29:04.528312+00:00"
+        "planned_at": "2026-10-29T23:29:05.980236+00:00"
       }
     },
     "10782": {
@@ -20725,5 +20731,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:29:04.528328+00:00"
+  "updated_at": "2026-10-29T23:29:07.743255+00:00"
 }
