@@ -1690,13 +1690,6 @@
           "source_id": "25251343",
           "target_video_id": "30591042",
           "permanent": false,
-          "attempted_at": "2026-10-29T11:47:55.131730+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25251343",
-          "target_video_id": "30591042",
-          "permanent": false,
           "attempted_at": "2026-10-29T12:25:19.269057+00:00"
         },
         {
@@ -1705,6 +1698,13 @@
           "target_video_id": "30591042",
           "permanent": false,
           "attempted_at": "2026-10-29T13:01:17.447498+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25251343",
+          "target_video_id": "30591042",
+          "permanent": false,
+          "attempted_at": "2026-10-29T13:36:43.040092+00:00"
         }
       ],
       "last_plan": {
@@ -2241,7 +2241,7 @@
       "last_plan": {
         "source_id": "33850803",
         "display_name": "Up CZ Dabing",
-        "planned_at": "2026-10-29T13:01:20.035350+00:00"
+        "planned_at": "2026-10-29T13:36:42.434917+00:00"
       },
       "previous_target_id": "30596621",
       "prepared": {
@@ -2249,6 +2249,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-10-28T22:38:39.195858+00:00",
         "relay_source_id": "33850803"
+      },
+      "claim": {
+        "worker_id": "09b5d779a2914c178a81d79e762677e9-shard-0",
+        "claimed_at": "2026-10-29T13:36:42.558775+00:00",
+        "lease_expires_at": "2026-10-29T19:36:42.558775+00:00",
+        "run_id": "40864950180"
       }
     },
     "19393": {
@@ -3728,7 +3734,7 @@
       "last_plan": {
         "source_id": "32564618",
         "display_name": "For a Few Dollars More (Per qualche dollaro in più) CZ Dabing",
-        "planned_at": "2026-10-29T13:36:41.020753+00:00"
+        "planned_at": "2026-10-29T13:36:42.465015+00:00"
       }
     },
     "22503": {
@@ -18897,5 +18903,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:36:41.020764+00:00"
+  "updated_at": "2026-10-29T13:36:43.040112+00:00"
 }
