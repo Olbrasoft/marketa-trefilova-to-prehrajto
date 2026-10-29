@@ -2947,17 +2947,19 @@
       }
     },
     "131": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30626986",
+          "target_video_id": "30605846",
+          "permanent": false,
+          "attempted_at": "2026-10-29T08:47:26.715375+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30626986",
         "display_name": "Kill Bill: Volume 1 (Kill Bill: Vol. 1) CZ Dabing",
         "planned_at": "2026-10-29T07:49:50.345107+00:00"
-      },
-      "claim": {
-        "worker_id": "0eb7a1927bff408b8523792989783757-shard-0",
-        "claimed_at": "2026-10-29T07:49:50.395143+00:00",
-        "lease_expires_at": "2026-10-29T13:49:50.395143+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30605846",
       "prepared": {
@@ -16104,5 +16106,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T08:36:25.306774+00:00"
+  "updated_at": "2026-10-29T08:47:26.715392+00:00"
 }
