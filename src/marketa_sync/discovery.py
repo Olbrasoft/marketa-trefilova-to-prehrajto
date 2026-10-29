@@ -80,13 +80,24 @@ def probe_original(url: str) -> dict:
 
 class EnglishProvider(SdilejProvider):
     def __init__(self, *args, english_titles: dict[int, str], probe=probe_original, cache_path=None,
-                 visual_inspector=None, **kwargs):
+                 visual_inspector=None, visual_report_path=None, **kwargs):
         super().__init__(*args, **kwargs)
         self.english_titles = english_titles
         self.probe_original = probe
         self.visual_inspector = visual_inspector or inspect_burned_in
+        self.visual_report_path = visual_report_path
+        self.visual_results = json.loads(visual_report_path.read_text()) if visual_report_path and visual_report_path.exists() else {}
         self.cache_path = cache_path
         self.cache = json.loads(cache_path.read_text()) if cache_path and cache_path.exists() else {}
+
+    def record_visual(self, film, candidate, evidence):
+        if self.visual_report_path:
+            # Keep the latest inspection per film; a full candidate history
+            # would make this checkpoint grow beyond repository file limits.
+            self.visual_results[str(film.cr_film_id)] = {
+                "cr_film_id": film.cr_film_id, "source_id": candidate.source_id,
+                "checked_at": datetime.now(timezone.utc).isoformat(), **evidence}
+            atomic_write(self.visual_report_path, json.dumps(self.visual_results, sort_keys=True, indent=2) + "\n")
 
     def _match(self, film: Film, title: str, duration_sec: int | None):
         aliases = dict.fromkeys(alias for alias in (
@@ -154,8 +165,13 @@ class EnglishProvider(SdilejProvider):
                for t in page_tracks):
             evidence = {"czech_subtitles": True, "subtitle_method": "original_page_track", "subtitle_attachable": True}
         if not evidence["czech_subtitles"]:
-            visual = self.visual_inspector(detail.download_url, detail.duration_sec,
-                                           deadline=getattr(self, "discovery_deadline", None))
+            try:
+                visual = self.visual_inspector(detail.download_url, detail.duration_sec,
+                                               deadline=getattr(self, "discovery_deadline", None))
+            except SubtitleUnavailable:
+                self.record_visual(film, candidate, {"visual_policy": VISUAL_POLICY, "visual_status": "inspection_failed"})
+                raise
+            self.record_visual(film, candidate, visual)
             evidence.update(visual)
             if visual["visual_status"] == "czech_burned_in_verified":
                 evidence.update(czech_subtitles=True, subtitle_method="burned_in_ocr_verified",

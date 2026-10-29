@@ -98,7 +98,7 @@ def inspect_burned_in(url: str, duration_sec: int, *, deadline=None) -> dict:
         raise SubtitleUnavailable("visual_subtitle_duration_unknown")
     if deadline is None:
         deadline = time.monotonic() + 180
-    samples, hashes, positions = [], [], []
+    samples, hashes, positions, uncertain_samples = [], [], [], 0
     with tempfile.TemporaryDirectory(prefix="subtitle-visual-") as directory:
         for fraction in SAMPLE_FRACTIONS:
             position = round(duration_sec * fraction, 3)
@@ -116,8 +116,20 @@ def inspect_burned_in(url: str, duration_sec: int, *, deadline=None) -> dict:
             hashes.append(hashlib.sha256(image.read_bytes()).hexdigest())
             tsv = run_private(["tesseract", str(image), "stdout", "-l", "ces+eng",
                                "--oem", "1", "--psm", "6", "tsv"], extraction_timeout(15, deadline))
-            samples.append(readable_lines(tsv.decode("utf-8")))
+            try:
+                samples.append(readable_lines(tsv.decode("utf-8")))
+            except SubtitleUnavailable as error:
+                if str(error) != "visual_subtitle_ocr_uncertain":
+                    raise
+                # Scene texture can resemble illegible text. Keep collecting
+                # independent observations rather than abandoning the film.
+                samples.append([])
+                uncertain_samples += 1
             positions.append(position)
     # Persist counts and hashes, never signed URLs, images or dialogue text.
-    return {**classify_samples(samples), "visual_sample_seconds": positions,
-            "visual_frame_sha256": hashes}
+    result = classify_samples(samples)
+    if uncertain_samples and result["visual_status"] != "czech_burned_in_verified":
+        # A noisy observation must never become evidence of subtitle absence.
+        result["visual_status"] = "uncertain"
+    return {**result, "visual_uncertain_samples": uncertain_samples,
+            "visual_sample_seconds": positions, "visual_frame_sha256": hashes}
