@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:36:13.474574+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:36:16.736274+00:00
 
 Zkontrolováno videí: 51. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 19, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 6, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 18, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 7, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -26,6 +26,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Pulp Fiction CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
 | [Seven (Se7en) CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:48.283303+00:00 |
 | [The Departed CZ Titulky](https://prehraj.to/the-departed-cz-titulky-mkv/4eb25d96aefc80ce) (ID 30589626) | [Sdílej 23098497](https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T10:32:16.364862+00:00 |
+| [The Godfather CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:16.736215+00:00 |
 | [The Green Mile CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30587002) | [Sdílej 27594175](https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:35:59.334612+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:35:56.063723+00:00 |
 | [The Lord of the Rings: The Two Towers CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-two-towers-cz-titulky-mkv/6eac0a68b244fbe3) (ID 30583875) | [Sdílej 23272546](https://sdilej.cz/23272546/the-lord-of-the-rings-the-two-towers-2002-extended-2160p-bluray-x265-10bit-hdr-tigole-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T04:28:00.440701+00:00 |
