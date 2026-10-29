@@ -3537,17 +3537,19 @@
       }
     },
     "169": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34472870",
+          "target_video_id": "30610392",
+          "permanent": false,
+          "attempted_at": "2026-10-29T12:44:39.562623+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34472870",
         "display_name": "Unforgiven CZ Dabing",
         "planned_at": "2026-10-29T12:25:37.780839+00:00"
-      },
-      "claim": {
-        "worker_id": "f890fd686e8141118f78969365b3e1e6-shard-0",
-        "claimed_at": "2026-10-29T12:25:37.936394+00:00",
-        "lease_expires_at": "2026-10-29T18:25:37.936394+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30610392",
       "prepared": {
@@ -18160,5 +18162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T12:25:44.111259+00:00"
+  "updated_at": "2026-10-29T12:44:39.562639+00:00"
 }
