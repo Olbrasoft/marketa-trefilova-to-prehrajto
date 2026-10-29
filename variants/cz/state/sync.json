@@ -3378,17 +3378,19 @@
       }
     },
     "12383": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24661078",
+          "target_video_id": "30609481",
+          "permanent": false,
+          "attempted_at": "2026-10-29T11:46:40.441280+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24661078",
         "display_name": "L.A. Confidential CZ Dabing",
         "planned_at": "2026-10-29T11:35:45.500418+00:00"
-      },
-      "claim": {
-        "worker_id": "5dda9d030a084e25a32996ce1171cdb7-shard-0",
-        "claimed_at": "2026-10-29T11:35:45.805744+00:00",
-        "lease_expires_at": "2026-10-29T17:35:45.805744+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30609481",
       "prepared": {
@@ -17511,5 +17513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T11:36:02.131025+00:00"
+  "updated_at": "2026-10-29T11:46:40.441296+00:00"
 }
