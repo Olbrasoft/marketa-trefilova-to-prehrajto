@@ -39,7 +39,7 @@ Attach subtitles only after target processing has finished.
 | The Lives of Others | 30595036 | https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
 | Your Name (Kimi no na wa.) CZ Titulky | 30595306 | https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | Witness for the Prosecution CZ Titulky | 30595529 | https://sdilej.cz/28723968/svedek-obzaloby-1957-a.christie-witness-for-the-prosecution-marlene-dietrich-eng-cz-dab.-eng-cz-ttl..mkv | Complete: Czech subtitles verified |
-| Capernaum (کفرناحوم) CZ Titulky | 30595560 | https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv | Extract Czech track from exact source after processing |
+| Capernaum (کفرناحوم) CZ Titulky | 30595560 | https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv | Complete: Czech subtitles verified |
 | I Swear CZ Titulky | 30595748 | https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Joker CZ Titulky | 30596090 | https://sdilej.cz/33794368/joker-2019-.mkv | Extract Czech track from exact source after processing |
 | Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky | 30596759 | https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv | Extract Czech track from exact source after processing |
