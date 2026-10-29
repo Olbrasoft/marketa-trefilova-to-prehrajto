@@ -33,7 +33,7 @@ Attach subtitles only after target processing has finished.
 | The Odyssey CZ Titulky | 30590842 | https://sdilej.cz/34822736/the-odyssey-the-making-of-an-epic-2026-cz-titulky.mp4 | Complete: Czech subtitles verified |
 | Grave of the Fireflies (Hotaru no haka) CZ Titulky | 30590877 | https://sdilej.cz/21922146/hrob-svetlusek-bluray-1988-cz-tit.mkv | Complete: Czech subtitles verified |
 | The Shining CZ Titulky | 30592125 | https://sdilej.cz/26233632/the-shining-1980-.mkv | Complete: Czech subtitles verified |
-| Alien CZ Titulky | 30592207 | https://sdilej.cz/34445474/vetrelec-romulus.mkv | Extract Czech track from exact source after processing |
+| Alien CZ Titulky | 30592207 | https://sdilej.cz/34445474/vetrelec-romulus.mkv | Complete: Czech subtitles verified |
 | Dune: Part Two CZ Titulky | 30592690 | https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Amadeus CZ Titulky | 30594798 | https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
 | The Lives of Others | 30595036 | https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
