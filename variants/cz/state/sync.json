@@ -2878,13 +2878,6 @@
           "source_id": "32311777",
           "target_video_id": "30604279",
           "permanent": false,
-          "attempted_at": "2026-10-29T21:43:39.159007+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311777",
-          "target_video_id": "30604279",
-          "permanent": false,
           "attempted_at": "2026-10-29T22:16:24.116337+00:00"
         },
         {
@@ -2893,6 +2886,13 @@
           "target_video_id": "30604279",
           "permanent": false,
           "attempted_at": "2026-10-29T22:48:12.359364+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311777",
+          "target_video_id": "30604279",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:29:43.263457+00:00"
         }
       ],
       "last_plan": {
@@ -2906,12 +2906,6 @@
         "size_bytes": 24900000000,
         "prepared_at": "2026-10-29T05:47:55.485914+00:00",
         "relay_source_id": "32311777"
-      },
-      "claim": {
-        "worker_id": "d9c14c46b17445aea8efc505c5a0a7a5-shard-0",
-        "claimed_at": "2026-10-29T23:29:40.691668+00:00",
-        "lease_expires_at": "2026-10-30T05:29:40.691668+00:00",
-        "run_id": "40957299535"
       }
     },
     "182": {
@@ -4151,7 +4145,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-10-29T22:48:13.549134+00:00"
+        "planned_at": "2026-10-29T23:29:42.457687+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4159,6 +4153,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "1efdc98d034a499c908ac62afae64dfb-shard-0",
+        "claimed_at": "2026-10-29T23:29:42.605913+00:00",
+        "lease_expires_at": "2026-10-30T05:29:42.605913+00:00",
+        "run_id": "40957299535"
       }
     },
     "37290": {
@@ -5375,7 +5375,7 @@
       "last_plan": {
         "source_id": "32815181",
         "display_name": "Hachi: A Dog's Tale 1080p CZ Dabing",
-        "planned_at": "2026-10-29T23:29:40.590944+00:00"
+        "planned_at": "2026-10-29T23:29:42.503777+00:00"
       }
     },
     "209": {
@@ -22488,5 +22488,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:29:41.166072+00:00"
+  "updated_at": "2026-10-29T23:29:43.263477+00:00"
 }
