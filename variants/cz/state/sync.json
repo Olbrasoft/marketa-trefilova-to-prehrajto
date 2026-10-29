@@ -5053,17 +5053,19 @@
       }
     },
     "213": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32449066",
+          "target_video_id": "30619998",
+          "permanent": false,
+          "attempted_at": "2026-10-29T22:06:55.785667+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32449066",
         "display_name": "Rush (2013) 4K CZ Dabing",
         "planned_at": "2026-10-29T21:44:22.256909+00:00"
-      },
-      "claim": {
-        "worker_id": "c1a1750ad3f540e8960ed898b4b46d37-shard-0",
-        "claimed_at": "2026-10-29T21:44:22.327617+00:00",
-        "lease_expires_at": "2026-10-30T03:44:22.327617+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30619998",
       "prepared": {
@@ -22030,5 +22032,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:53:50.719471+00:00"
+  "updated_at": "2026-10-29T22:06:55.785683+00:00"
 }
