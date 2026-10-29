@@ -2070,11 +2070,19 @@
       }
     },
     "102": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "12652876",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-10-29T09:01:20.520116+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12652876",
         "display_name": "Reservoir Dogs CZ Titulky",
-        "planned_at": "2026-10-29T08:49:51.698413+00:00"
+        "planned_at": "2026-10-29T09:01:00.361325+00:00"
       }
     },
     "155": {
@@ -15144,5 +15152,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T08:49:51.698421+00:00"
+  "updated_at": "2026-10-29T09:01:20.520136+00:00"
 }
