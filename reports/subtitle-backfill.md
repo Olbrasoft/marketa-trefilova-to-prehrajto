@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T18:17:16.116220+00:00
+Poslední aktualizace (UTC): 2026-10-29T18:17:24.586774+00:00
 
 Zkontrolováno videí: 70. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 10, `source_czech_text_missing`: 3, `target_unavailable`: 24, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 28, `attached_verified`: 2, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 11, `source_czech_text_missing`: 3, `target_unavailable`: 23, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -26,6 +26,7 @@ Kontrol: 14; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
 | [Seven (Se7en) 1080p CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:48.283303+00:00 |
 | [The Departed 1080p CZ Titulky](https://prehraj.to/the-departed-cz-titulky-mkv/4eb25d96aefc80ce) (ID 30589626) | [Sdílej 23098497](https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T10:32:16.364862+00:00 |
+| [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T18:17:24.586510+00:00 |
 | [The Lives of Others 1080p](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T16:29:33.376948+00:00 |
 | [The Lord of the Rings: The Two Towers 4K CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-two-towers-cz-titulky-mkv/6eac0a68b244fbe3) (ID 30583875) | [Sdílej 23272546](https://sdilej.cz/23272546/the-lord-of-the-rings-the-two-towers-2002-extended-2160p-bluray-x265-10bit-hdr-tigole-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T04:28:00.440701+00:00 |
 | [The Silence of the Lambs 4K CZ Titulky](https://prehraj.to/the-silence-of-the-lambs-cz-titulky-mkv/c3103c9b8e9a9c8a) (ID 30586048) | [Sdílej 32633356](https://sdilej.cz/32633356/the-silence-of-the-lambs-mlceni-jehnatek-1991-2160p-cz-ac3-5.1-en-eac3-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T08:36:30.017244+00:00 |
@@ -55,7 +56,6 @@ Kontrol: 14; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T18:07:37.085198+00:00 |
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | target_unavailable | 2026-10-29T17:47:05.586115+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | target_unavailable | 2026-10-29T17:37:08.512751+00:00 |
-| [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | target_unavailable | 2026-10-29T17:16:59.057847+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-29T17:17:17.075266+00:00 |
 | [The Sting 1080p CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-29T17:47:16.506310+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-10-29T17:26:52.066281+00:00 |
