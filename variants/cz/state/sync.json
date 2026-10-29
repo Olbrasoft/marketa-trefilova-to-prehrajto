@@ -4874,17 +4874,19 @@
       }
     },
     "218": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30696996",
+          "target_video_id": "30617252",
+          "permanent": false,
+          "attempted_at": "2026-10-29T19:41:46.780658+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30696996",
         "display_name": "Hacksaw Ridge 4K CZ Dabing",
         "planned_at": "2026-10-29T19:09:59.920060+00:00"
-      },
-      "claim": {
-        "worker_id": "c2d6f8cfce694a9d925c3547bd5d98c7-shard-0",
-        "claimed_at": "2026-10-29T19:09:59.994763+00:00",
-        "lease_expires_at": "2026-10-30T01:09:59.994763+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30617252",
       "prepared": {
@@ -21427,5 +21429,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T19:25:54.067674+00:00"
+  "updated_at": "2026-10-29T19:41:46.780679+00:00"
 }
