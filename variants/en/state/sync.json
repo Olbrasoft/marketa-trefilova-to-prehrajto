@@ -3382,17 +3382,19 @@
       "attempts": []
     },
     "202": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12642371",
+          "target_video_id": "30618166",
+          "permanent": false,
+          "attempted_at": "2026-10-29T21:26:28.497042+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12642371",
         "display_name": "Three Billboards Outside Ebbing, Missouri 4K CZ Titulky",
         "planned_at": "2026-10-29T20:02:04.013100+00:00"
-      },
-      "claim": {
-        "worker_id": "cbd449cdfd34404092cbeefb4a520b07-shard-0",
-        "claimed_at": "2026-10-29T20:02:04.037141+00:00",
-        "lease_expires_at": "2026-10-30T02:02:04.037141+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30618166",
       "prepared": {
@@ -19901,5 +19903,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T20:40:45.409269+00:00"
+  "updated_at": "2026-10-29T21:26:28.497063+00:00"
 }
