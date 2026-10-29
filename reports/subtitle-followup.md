@@ -68,3 +68,4 @@ Attach subtitles only after target processing has finished.
 | Searching for Sugar Man 720p | 30612744 | https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv | Find and add matching Czech subtitles after processing |
 | They Shall Not Grow Old 1080p CZ Titulky | 30612837 | https://sdilej.cz/10958085/they-shall-not-grow-old-1080p-x264-cz-tit.mkv | Complete: Czech subtitles verified |
 | V for Vendetta 4K CZ Titulky | 30613867 | https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv | Extract Czech track from exact source after processing |
+| Monsters, Inc. 1080p CZ Titulky | 30614354 | https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv | Extract Czech track from exact source after processing |
