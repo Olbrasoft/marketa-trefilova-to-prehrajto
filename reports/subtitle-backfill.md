@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:36:49.199695+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:36:52.509724+00:00
 
 Zkontrolováno videí: 51. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 8, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 17, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 15, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 7, `source_czech_full_text_unsupported`: 7, `target_detail_url_missing`: 18, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -21,6 +21,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Braveheart CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:42.767188+00:00 |
 | [Capernaum (کفرناحوم) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30595560) | [Sdílej 12275995](https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:26.451725+00:00 |
 | [Django Unchained CZ Titulky](https://prehraj.to/django-unchained-cz-titulky-mkv/8f93dd558c6bce9a) (ID 30588424) | [Sdílej 33138453](https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T09:59:37.956241+00:00 |
+| [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:52.509673+00:00 |
 | [Dune: Part Two CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30592690) | [Sdílej 28655217](https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:13.474516+00:00 |
 | [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:39.471335+00:00 |
 | [Gladiator (2000) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:02.784887+00:00 |
