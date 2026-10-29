@@ -4292,17 +4292,19 @@
       }
     },
     "237": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12902823",
+          "target_video_id": "30614108",
+          "permanent": false,
+          "attempted_at": "2026-10-29T16:43:06.886763+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12902823",
         "display_name": "Gone Girl 1080p CZ Dabing",
         "planned_at": "2026-10-29T16:32:52.511663+00:00"
-      },
-      "claim": {
-        "worker_id": "aef33d92e08448ae97d2b9e7d702054c-shard-0",
-        "claimed_at": "2026-10-29T16:32:52.581312+00:00",
-        "lease_expires_at": "2026-10-29T22:32:52.581312+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30614108",
       "prepared": {
@@ -20139,5 +20141,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:36:49.234665+00:00"
+  "updated_at": "2026-10-29T16:43:06.886781+00:00"
 }
