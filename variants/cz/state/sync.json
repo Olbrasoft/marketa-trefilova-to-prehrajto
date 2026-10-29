@@ -2465,17 +2465,19 @@
       }
     },
     "21690": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30836489",
+          "target_video_id": "30602311",
+          "permanent": false,
+          "attempted_at": "2026-10-29T03:47:27.379720+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30836489",
         "display_name": "Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Dabing",
         "planned_at": "2026-10-29T03:31:10.150653+00:00"
-      },
-      "claim": {
-        "worker_id": "0153a0b3e39a4e1db4440592b96af84f-shard-0",
-        "claimed_at": "2026-10-29T03:31:10.199400+00:00",
-        "lease_expires_at": "2026-10-29T09:31:10.199400+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30602311",
       "prepared": {
@@ -14178,5 +14180,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T03:31:13.187034+00:00"
+  "updated_at": "2026-10-29T03:47:27.379738+00:00"
 }
