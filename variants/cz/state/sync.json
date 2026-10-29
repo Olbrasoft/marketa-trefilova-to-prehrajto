@@ -3300,17 +3300,19 @@
       "attempts": []
     },
     "101": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34959804",
+          "target_video_id": "30608762",
+          "permanent": false,
+          "attempted_at": "2026-10-29T11:06:03.007953+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34959804",
         "display_name": "Amélie (Le Fabuleux Destin d'Amélie Poulain) CZ Dabing",
         "planned_at": "2026-10-29T10:48:39.763566+00:00"
-      },
-      "claim": {
-        "worker_id": "fb742bf806074d5d951712d40f8c8a1e-shard-0",
-        "claimed_at": "2026-10-29T10:48:39.819917+00:00",
-        "lease_expires_at": "2026-10-29T16:48:39.819917+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30608762",
       "prepared": {
@@ -17188,5 +17190,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:56:36.595140+00:00"
+  "updated_at": "2026-10-29T11:06:03.007970+00:00"
 }
