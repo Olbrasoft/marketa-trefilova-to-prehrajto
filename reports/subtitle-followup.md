@@ -23,9 +23,9 @@ Attach subtitles only after target processing has finished.
 | Seven Samurai (Shichinin no samurai) CZ Titulky | 30588171 | https://sdilej.cz/20966262/seven-samurai-criterion-1954-bluray-1080p-x264-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Django Unchained CZ Titulky | 30588424 | https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
 | Gladiator (2000) CZ Titulky | 30589321 | https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
-| The Prestige CZ Titulky | 30589328 | https://sdilej.cz/34429623/the-prestige-2006-.mkv | Extract Czech track from exact source after processing |
+| The Prestige CZ Titulky | 30589328 | https://sdilej.cz/34429623/the-prestige-2006-.mkv | Complete: Czech subtitles verified |
 | The Departed CZ Titulky | 30589626 | https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
-| American History X CZ Titulky | 30589993 | https://sdilej.cz/28055213/kult-hakoveho-krize-cz.mkv | Extract Czech track from exact source after processing |
+| American History X CZ Titulky | 30589993 | https://sdilej.cz/28055213/kult-hakoveho-krize-cz.mkv | Complete: Czech subtitles verified |
 | The Usual Suspects CZ Titulky | 30590050 | https://sdilej.cz/35170968/the.usual.suspects.1995.open.matte.1080p.bluray.dl.eac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | Whiplash CZ Titulky | 30590258 | https://sdilej.cz/22962577/whiplash-2014-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
 | Casablanca CZ Titulky | 30590340 | https://sdilej.cz/17447327/casablanca.1942.1080p.bluray.dl.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
