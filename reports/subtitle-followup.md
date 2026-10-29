@@ -75,3 +75,4 @@ Attach subtitles only after target processing has finished.
 | How to Train Your Dragon (2010) 4K CZ Titulky | 30615827 | https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv | Extract Czech track from exact source after processing |
 | Blade Runner 4K CZ Titulky | 30615943 | https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv | Extract Czech track from exact source after processing |
 | Fargo 1080p CZ Titulky | 30616407 | https://sdilej.cz/26744950/fargo-1996-fhd-1080p--cz-vhs-cz-ctv-sk-pl-eng-dts-.mkv | Extract Czech track from exact source after processing |
+| 12 Years a Slave SD | 30616683 | https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv | Find and add matching Czech subtitles after processing |
