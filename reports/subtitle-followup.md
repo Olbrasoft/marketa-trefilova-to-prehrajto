@@ -37,13 +37,13 @@ Attach subtitles only after target processing has finished.
 | Dune: Part Two 4K CZ Titulky | 30592690 | https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Amadeus 1080p CZ Titulky | 30594798 | https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv | Complete: Czech subtitles verified |
 | The Lives of Others 1080p | 30595036 | https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
-| Your Name (Kimi no na wa.) CZ Titulky | 30595306 | https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv | Extract Czech track from exact source after processing |
-| Witness for the Prosecution CZ Titulky | 30595529 | https://sdilej.cz/28723968/svedek-obzaloby-1957-a.christie-witness-for-the-prosecution-marlene-dietrich-eng-cz-dab.-eng-cz-ttl..mkv | Complete: Czech subtitles verified |
+| Your Name (Kimi no na wa.) 1080p CZ Titulky | 30595306 | https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv | Extract Czech track from exact source after processing |
+| Witness for the Prosecution 1080p CZ Titulky | 30595529 | https://sdilej.cz/28723968/svedek-obzaloby-1957-a.christie-witness-for-the-prosecution-marlene-dietrich-eng-cz-dab.-eng-cz-ttl..mkv | Complete: Czech subtitles verified |
 | Capernaum (کفرناحوم) CZ Titulky | 30595560 | https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv | Complete: Czech subtitles verified |
 | I Swear 1440p CZ Titulky | 30595748 | https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Joker 4K CZ Titulky | 30596090 | https://sdilej.cz/33794368/joker-2019-.mkv | Extract Czech track from exact source after processing |
 | Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) 720p CZ Titulky | 30596759 | https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv | Complete: Czech subtitles verified |
-| Eternal Sunshine of the Spotless Mind 1080p CZ Titulky | 30597712 | https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Eternal Sunshine of the Spotless Mind 1080p CZ Titulky | 30597712 | https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Braveheart 4K CZ Titulky | 30597835 | https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv | Extract Czech track from exact source after processing |
 | Heat 1080p CZ Titulky | 30602067 | https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Oldboy (올드보이) (2003) 1080p CZ Titulky | 30602237 | https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv | Extract Czech track from exact source after processing |
@@ -51,16 +51,16 @@ Attach subtitles only after target processing has finished.
 | Lawrence of Arabia 1080p CZ Titulky | 30603287 | https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv | Extract Czech track from exact source after processing |
 | Oppenheimer 4K CZ Titulky | 30606867 | https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv | Extract Czech track from exact source after processing |
 | Taxi Driver 1080p CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
-| A Clockwork Orange CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
-| Full Metal Jacket CZ Titulky | 30608676 | https://sdilej.cz/28679022/olovena-vesta-cztit.mkv | Complete: Czech subtitles verified |
+| A Clockwork Orange 4K CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
+| Full Metal Jacket 1080p CZ Titulky | 30608676 | https://sdilej.cz/28679022/olovena-vesta-cztit.mkv | Complete: Czech subtitles verified |
 | Amélie (Le Fabuleux Destin d'Amélie Poulain) SD | 30608820 | https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv | Find and add matching Czech subtitles after processing |
 | Green Book 1080p | 30609217 | https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4 | Find and add matching Czech subtitles after processing |
 | Casino 1080p CZ Titulky | 30609486 | https://sdilej.cz/34395592/casino-1995-fhd.mkv | Extract Czech track from exact source after processing |
 | Vertigo 720p | 30610902 | https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv | Find and add matching Czech subtitles after processing |
 | The Sting 1080p CZ Titulky | 30611497 | https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv | Extract Czech track from exact source after processing |
-| The Secret in Their Eyes CZ Titulky | 30611733 | https://sdilej.cz/30945511/the.secret.in.their.eyes-2009-cz.tit.mkv | Complete: Czech subtitles verified |
+| The Secret in Their Eyes 1080p CZ Titulky | 30611733 | https://sdilej.cz/30945511/the.secret.in.their.eyes-2009-cz.tit.mkv | Complete: Czech subtitles verified |
 | Klaus 1080p CZ Titulky | 30612211 | https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv | Extract Czech track from exact source after processing |
-| Dave Chappelle: Sticks & Stones CZ Titulky | 30612332 | https://sdilej.cz/12213943/dave.chappelle.sticks.and.stones.2019.1080p.cz.sub.ddp5.1.hevc.mkv | Complete: Czech subtitles verified |
+| Dave Chappelle: Sticks & Stones 1080p CZ Titulky | 30612332 | https://sdilej.cz/12213943/dave.chappelle.sticks.and.stones.2019.1080p.cz.sub.ddp5.1.hevc.mkv | Complete: Czech subtitles verified |
 | Ran (乱) SD | 30612365 | https://sdilej.cz/33590630/ran-1985-tit.mp4 | Find and add matching Czech subtitles after processing |
 | A Silent Voice (A Silent Voice: The Movie) 4K CZ Titulky | 30612406 | https://sdilej.cz/30862544/koe-no-katachi-a-silent-voice-bd-3840x2160-x265-10bit-dts-hdma-flac-.mkv | Complete: Czech subtitles verified |
 | Yojimbo (用心棒) 1080p | 30612474 | https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv | Find and add matching Czech subtitles after processing |
