@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T14:07:15.674587+00:00
+Poslední aktualizace (UTC): 2026-10-29T14:07:19.213714+00:00
 
 Zkontrolováno videí: 55. Další stránka kontroly: 0.
 
@@ -48,7 +48,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Lawrence of Arabia CZ Titulky](https://prehraj.to/lawrence-of-arabia-cz-titulky-mkv/afd2055797b2e4e8) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | target_unavailable | 2026-10-29T13:57:18.195176+00:00 |
 | [Oldboy (올드보이) (2003) CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T13:57:11.019393+00:00 |
 | [Oppenheimer CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T13:46:59.685531+00:00 |
-| [Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky](https://prehraj.to/star-wars-episode-vi-return-of-the-jedi-star-wars-episode-vi-return-of-the-jedi-cz-titulky-mkv/e784a2c3f85b6b4b) (ID 30596759) | [Sdílej 35355567](https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv) | target_unavailable | 2026-10-29T13:06:50.581438+00:00 |
+| [Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky](https://prehraj.to/star-wars-episode-vi-return-of-the-jedi-star-wars-episode-vi-return-of-the-jedi-cz-titulky-mkv/e784a2c3f85b6b4b) (ID 30596759) | [Sdílej 35355567](https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv) | target_unavailable | 2026-10-29T14:07:19.213638+00:00 |
 | [Taxi Driver CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T13:47:03.365279+00:00 |
 | [The Godfather CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | target_unavailable | 2026-10-29T13:26:59.358015+00:00 |
 | [The Green Mile CZ Titulky](https://prehraj.to/the-green-mile-cz-titulky-mkv/88f77837c39b1463) (ID 30587002) | [Sdílej 27594175](https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv) | target_unavailable | 2026-10-29T13:47:27.284341+00:00 |
