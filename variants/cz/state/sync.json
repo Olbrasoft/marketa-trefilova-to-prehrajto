@@ -2716,17 +2716,19 @@
       "attempts": []
     },
     "11627": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21113365",
+          "target_video_id": "30603913",
+          "permanent": false,
+          "attempted_at": "2026-10-29T05:37:39.067456+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21113365",
         "display_name": "Come and See (Иди и смотри) CZ Dabing",
         "planned_at": "2026-10-29T05:17:53.905974+00:00"
-      },
-      "claim": {
-        "worker_id": "efac062f1b904e878b249412715621a1-shard-0",
-        "claimed_at": "2026-10-29T05:17:53.959876+00:00",
-        "lease_expires_at": "2026-10-29T11:17:53.959876+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30603913",
       "prepared": {
@@ -14984,5 +14986,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T05:23:05.858110+00:00"
+  "updated_at": "2026-10-29T05:37:39.067474+00:00"
 }
