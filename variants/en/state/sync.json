@@ -3450,17 +3450,19 @@
       "attempts": []
     },
     "213": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29629993",
+          "target_video_id": "30620144",
+          "permanent": false,
+          "attempted_at": "2026-10-29T22:14:58.269440+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29629993",
         "display_name": "Rush (2013) 1080p CZ Titulky",
         "planned_at": "2026-10-29T21:53:50.770143+00:00"
-      },
-      "claim": {
-        "worker_id": "fc7775bb0ec14a1fbb8854ed6a6da866-shard-0",
-        "claimed_at": "2026-10-29T21:53:50.795948+00:00",
-        "lease_expires_at": "2026-10-30T03:53:50.795948+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30620144",
       "prepared": {
@@ -20432,5 +20434,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T22:06:59.794572+00:00"
+  "updated_at": "2026-10-29T22:14:58.269457+00:00"
 }
