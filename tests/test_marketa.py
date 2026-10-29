@@ -223,6 +223,26 @@ def test_visual_evidence_controls_names_and_unknown_results_are_deferred(monkeyp
         assert display_name("The Film", "en", result) == expected
 
 
+def test_uncertain_visual_result_is_reported_without_selecting_the_source(tmp_path, monkeypatch):
+    film = Film(1, "film", "The Film", "The Film", 2000, 120, "en")
+    detector = SimpleNamespace(detect_consensus=lambda *_args, **_kwargs: ("en", 0.99))
+    payload = {"format": {"duration": "7200"}, "streams": [
+        {"codec_type": "video", "width": 1920, "height": 1080, "codec_name": "h264"},
+        {"codec_type": "audio", "tags": {"language": "eng"}}]}
+    report = tmp_path / "visual.json"
+    evidence = {"visual_status": "uncertain", "visual_samples": 6, "visual_uncertain_samples": 2}
+    provider = EnglishProvider(None, detector, english_titles={1: "The Film"}, probe=lambda _: payload,
+                               visual_inspector=lambda *_args, **_kwargs: evidence, visual_report_path=report)
+    monkeypatch.setattr(provider, "_get", lambda _: SimpleNamespace(text="<html></html>"))
+    monkeypatch.setattr("marketa_sync.discovery.parse_detail_html", lambda *_: candidate())
+    with pytest.raises(SubtitleUnavailable):
+        provider.verify_english(film, candidate())
+    saved = json.loads(report.read_text())["1"]
+    assert saved["visual_samples"] == 6 and saved["visual_uncertain_samples"] == 2
+    assert saved["source_id"] == "123" and saved["visual_status"] == "uncertain"
+    assert "https://" not in report.read_text()
+
+
 def test_attachable_text_is_preferred_over_a_higher_resolution_bitmap_track():
     bitmap = candidate("bitmap", width=3840, subtitles=True)
     bitmap.match_evidence["marketa"]["subtitle_method"] = "original_embedded_bitmap"

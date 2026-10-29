@@ -84,6 +84,7 @@ def prepare(root, films, names, limit, persist, runtime_minutes):
     search_titles = {film.cr_film_id: title_catalog.get(film.to_dict()) for film in films}
     provider = EnglishProvider(session, detector, english_titles=search_titles,
                                cache_path=root / "variants/en/state/candidate-scans.json",
+                               visual_report_path=root / "variants/en/state/visual-subtitles.json",
                                discovery_timeout_seconds=900, max_candidates=None)
     pipeline = make_pipeline(root, "en", names, source=session, provider=provider)
     scan_path = root / "variants/en/state/discovery.json"
@@ -188,7 +189,7 @@ def checkpoint_paths(root: Path, mode: str) -> tuple[Path, ...]:
         relative = ["variants/cz/manifests/selected-sources.jsonl",
                     "variants/en/manifests/selected-sources.jsonl",
                     "state/english-titles.json", "variants/en/state/discovery.json",
-                    "variants/en/state/candidate-scans.json"]
+                    "variants/en/state/candidate-scans.json", "variants/en/state/visual-subtitles.json"]
     else:
         relative = ["variants/cz/state/sync.json", "variants/en/state/sync.json",
                     "variants/en/plans/subtitle-followup.jsonl", "reports/subtitle-followup.md",

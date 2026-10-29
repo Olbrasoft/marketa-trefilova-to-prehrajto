@@ -62,8 +62,39 @@ def test_inspection_errors_never_expose_signed_source_urls(monkeypatch):
         run_private(["ffmpeg"], 1)
 
 
+@pytest.mark.parametrize("readings,expected", [
+    (["noise", *CZECH_LINES, "empty", "empty"], "czech_burned_in_verified"),
+    (["noise", "empty", "empty", "empty", "empty", "empty"], "uncertain"),
+    (["noise"] * 6, "uncertain"),
+])
+def test_one_noisy_scene_does_not_abort_the_other_frames_or_prove_absence(monkeypatch, readings, expected):
+    pytest.importorskip("lingua")
+    samples = iter(readings)
+    calls = []
+    header = "level\tpage_num\tblock_num\tpar_num\tline_num\tconf\ttext\n"
+    def run(arguments, timeout):
+        calls.append(arguments[0])
+        if arguments[0] == "ffmpeg":
+            Path(arguments[-1]).write_bytes(b"private test frame")
+            return b""
+        text = next(samples)
+        if text == "empty":
+            return header.encode()
+        if text == "noise":
+            return (header + "5\t1\t1\t1\t1\t12\ttexture\n").encode()
+        return (header + "".join(f"5\t1\t1\t1\t1\t95\t{word}\n" for word in text.split())).encode()
+    monkeypatch.setattr("marketa_sync.subtitle_visual.run_private", run)
+    result = inspect_burned_in("https://private.example/file?token=secret", 7200)
+    assert result["visual_status"] == expected
+    assert result["visual_samples"] == 6
+    assert result["visual_uncertain_samples"] == readings.count("noise")
+    assert calls.count("ffmpeg") == calls.count("tesseract") == 6
+    assert "secret" not in str(result) and "texture" not in str(result)
+
+
 @pytest.mark.skipif(not shutil.which("ffmpeg") or not shutil.which("tesseract"), reason="media/OCR tools unavailable")
-def test_real_video_pixels_distinguish_burned_in_from_a_separate_text_track(tmp_path):
+@pytest.mark.parametrize("background", ["color=black:s=1280x720:r=1:d=12", "testsrc2=s=1280x720:r=1:d=12"])
+def test_real_video_pixels_distinguish_burned_in_from_a_separate_text_track(tmp_path, background):
     pytest.importorskip("lingua")
     languages = subprocess.run(["tesseract", "--list-langs"], capture_output=True, text=True, check=True).stdout
     if "ces" not in languages.splitlines():
@@ -75,10 +106,10 @@ def test_real_video_pixels_distinguish_burned_in_from_a_separate_text_track(tmp_
     for index,line in enumerate(CZECH_LINES):
         text = tmp_path / f"line-{index}.txt"
         text.write_text(line)
-        filters.append(f"drawtext=fontfile={font}:textfile={text}:fontcolor=white:fontsize=30:"
+        filters.append(f"drawtext=fontfile={font}:textfile={text}:fontcolor=white:fontsize=30:borderw=2:bordercolor=black:"
                        f"x=(w-text_w)/2:y=h-100:enable='between(t,{index*4},{index*4+3.9})'")
     burned = tmp_path / "burned.mkv"
-    subprocess.run(["ffmpeg", "-v", "error", "-f", "lavfi", "-i", "color=black:s=1280x720:r=1:d=12",
+    subprocess.run(["ffmpeg", "-v", "error", "-f", "lavfi", "-i", background,
                     "-vf", ",".join(filters), "-c:v", "libx264", "-preset", "ultrafast", str(burned)],
                    capture_output=True, check=True, timeout=30)
     evidence = inspect_burned_in(str(burned), 12)

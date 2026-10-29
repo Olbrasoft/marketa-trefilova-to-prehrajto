@@ -121,6 +121,7 @@ vazbu na zdroj pro pozdější titulky. Stav se odděluje v `variants/cz` a `var
 - `reports/subtitle-backfill.md`: skutečný výsledek kontrol a doplnění titulků.
 - `variants/en/plans/subtitle-followup.jsonl`: trvalá fronta s cílovým ID a zdrojem.
 - `variants/en/state/discovery.json`: nedohledané zdroje a termíny opakování.
+- `variants/en/state/visual-subtitles.json`: poslední kontrola obrazu každého filmu, včetně nejasných výsledků a počtu nečitelných vzorků.
 - `state/english-titles.json`: ověřené názvy a nedohledané názvy.
 
 Existující české textové stopy se po zpracování videa automaticky extrahují
@@ -152,6 +153,10 @@ anglickým modelem čte spodní část obrazu; Lingua ověřuje jazyk souhrnu ne
 tří různých čitelných textů ze tří snímků. Potvrzená čeština s dostatečnou
 jazykovou jistotou dovolí název `CZ Titulky` s důkazem `burned_in_ocr_verified`.
 OCR zde slouží pouze k detekci, nikdy k vytváření ani převodu titulků.
+Nečitelný jednotlivý snímek nezastaví kontrolu ostatních pěti snímků. Češtinu
+mohou potvrdit jiné tři čitelné ukázky; pokud se ji potvrdit nepodaří, nečitelný
+vzorek brání označení výsledku jako obrazu bez zjištěného textu. Počty a časy
+kontrol se ukládají i pro nejasné výsledky, které se do uploadovací fronty nezařadí.
 Stejnou kontrolou projdou i dříve vybrané zdroje bez ověřených českých titulků;
 prověřuje se jejich původní soubor, nikoli nově vyhledaná náhrada.
 Nečitelný nebo jazykově nejasný výsledek se odloží. Pokud se české titulky
