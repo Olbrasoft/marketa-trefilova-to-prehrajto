@@ -19,6 +19,7 @@ from sdilej_to_prehrajto.sdilej import SdilejProvider, SdilejError, PremiumRequi
 from sdilej_to_prehrajto.subtitle_media import choose_stream, run_media, SubtitleUnavailable, is_czech, TEXT_CODECS
 from sdilej_to_prehrajto.subtitle_backfill import atomic_write
 from .subtitle_visual import inspect_burned_in, VISUAL_POLICY
+from .naming import with_resolution
 
 LEGACY_POLICY = "english-subtitles-first-v1"
 POLICY = "original-subtitles-first-v2"
@@ -271,7 +272,8 @@ def display_name(english_title: str, variant: str, candidate: Candidate) -> str:
     if variant == "cz":
         if candidate.audio_language != "cs":
             raise ValueError("Czech dubbing requires verified Czech audio")
-        return f"{english_title} CZ Dabing"
+        return with_resolution(f"{english_title} CZ Dabing", candidate.width, candidate.height)
     if not allowed_audio(candidate):
         raise ValueError("Original variant requires verified English or original audio")
-    return f"{english_title} CZ Titulky" if has_subtitles(candidate) else english_title
+    title = f"{english_title} CZ Titulky" if has_subtitles(candidate) else english_title
+    return with_resolution(title, candidate.width, candidate.height)
