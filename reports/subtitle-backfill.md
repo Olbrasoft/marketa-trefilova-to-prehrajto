@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T14:37:33.838558+00:00
+Poslední aktualizace (UTC): 2026-10-29T14:37:37.691593+00:00
 
 Zkontrolováno videí: 57. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 18, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 1, `source_czech_full_text_unsupported`: 9, `target_unavailable`: 25, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 18, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 9, `target_unavailable`: 26, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -38,6 +38,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Braveheart CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T14:07:27.621641+00:00 |
 | [Capernaum (کفرناحوم) CZ Titulky](https://prehraj.to/capernaum-cz-titulky-mkv/9347d2e0829bf266) (ID 30595560) | [Sdílej 12275995](https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv) | target_unavailable | 2026-10-29T14:17:17.177395+00:00 |
 | [Casino CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T13:47:15.248883+00:00 |
+| [Dave Chappelle: Sticks & Stones CZ Titulky](https://prehraj.to/dave-chappelle-sticks-stones-cz-titulky-mkv/fb6b845aa7d8287a) (ID 30612332) | [Sdílej 12213943](https://sdilej.cz/12213943/dave.chappelle.sticks.and.stones.2019.1080p.cz.sub.ddp5.1.hevc.mkv) | target_unavailable | 2026-10-29T14:37:37.691507+00:00 |
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | target_unavailable | 2026-10-29T13:57:14.693532+00:00 |
 | [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/eternal-sunshine-of-the-spotless-mind-cz-titulky-mkv/ce0b9818feb2a529) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-29T14:07:22.856708+00:00 |
 | [Green Book](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T13:47:10.460751+00:00 |
