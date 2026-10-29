@@ -5507,17 +5507,19 @@
       }
     },
     "243": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34232610",
+          "reason": "Request failed for https://sdilej.cz/34232610/most-pres-reku-kwai-1957-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:58:50.764368+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34232610",
         "display_name": "The Bridge on the River Kwai 4K CZ Dabing",
         "planned_at": "2026-10-29T23:58:04.589140+00:00"
-      },
-      "claim": {
-        "worker_id": "54fda10edf9c49dcb31210c8f0acea85-shard-0",
-        "claimed_at": "2026-10-29T23:58:04.669623+00:00",
-        "lease_expires_at": "2026-10-30T05:58:04.669623+00:00",
-        "run_id": "40957299535"
       }
     },
     "21022": {
@@ -22612,5 +22614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:58:48.244381+00:00"
+  "updated_at": "2026-10-29T23:58:50.764388+00:00"
 }
