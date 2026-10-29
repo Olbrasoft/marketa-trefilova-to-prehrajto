@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T11:46:47.286699+00:00
+Poslední aktualizace (UTC): 2026-10-29T11:56:13.730765+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 19, `target_unavailable`: 5, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 4, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 15, `target_unavailable`: 5, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -22,18 +22,14 @@ Kontrol: 7; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Braveheart CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:42.767188+00:00 |
 | [Capernaum (کفرناحوم) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30595560) | [Sdílej 12275995](https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:26.451725+00:00 |
 | [Django Unchained CZ Titulky](https://prehraj.to/django-unchained-cz-titulky-mkv/8f93dd558c6bce9a) (ID 30588424) | [Sdílej 33138453](https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T09:59:37.956241+00:00 |
-| [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:52.509673+00:00 |
 | [Dune: Part Two CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30592690) | [Sdílej 28655217](https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:13.474516+00:00 |
 | [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:39.471335+00:00 |
 | [Gladiator (2000) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:02.784887+00:00 |
 | [Goodfellas CZ Titulky](https://prehraj.to/goodfellas-cz-titulky-mkv/a65ae78cae07f027) (ID 30584304) | [Sdílej 12646320](https://sdilej.cz/12646320/goodfellas.1990.multi.uhd.blu-ray.2160p.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T05:42:20.089219+00:00 |
-| [Heat CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30602067) | [Sdílej 6486240](https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:45.982398+00:00 |
 | [I Swear CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30595748) | [Sdílej 34430978](https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:29.788335+00:00 |
 | [Inception CZ Titulky](https://prehraj.to/inception-cz-titulky-mkv/cd15cbc3a2cf875e) (ID 30582836) | [Sdílej 34401564](https://sdilej.cz/34401564/inception.2010.blu-ray.remux.1080p.vc-1.dts-hd.ma.5.1-eng-ac3-5.1-cze.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T02:43:24.015291+00:00 |
 | [Interstellar CZ Titulky](https://prehraj.to/interstellar-cz-titulky-mkv/dac891fa777f1c66) (ID 30584268) | [Sdílej 32920949](https://sdilej.cz/32920949/interstellar-2014-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-28T17:45:36.209340+00:00 |
 | [Joker CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30596090) | [Sdílej 33794368](https://sdilej.cz/33794368/joker-2019-.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:32.993052+00:00 |
-| [Lawrence of Arabia CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:55.852298+00:00 |
-| [Oldboy (올드보이) (2003) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:49.199639+00:00 |
 | [Pulp Fiction CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
 | [Seven (Se7en) CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:48.283303+00:00 |
 | [Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30596759) | [Sdílej 35355567](https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-10-29T11:36:36.209758+00:00 |
