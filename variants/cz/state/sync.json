@@ -3223,17 +3223,19 @@
       }
     },
     "19772": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32198849",
+          "target_video_id": "30607842",
+          "permanent": false,
+          "attempted_at": "2026-10-29T10:21:52.862816+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32198849",
         "display_name": "Prisoners CZ Dabing",
         "planned_at": "2026-10-29T09:57:17.450528+00:00"
-      },
-      "claim": {
-        "worker_id": "a814b3b1024749c38f7d55b66859a9e6-shard-0",
-        "claimed_at": "2026-10-29T09:57:17.504393+00:00",
-        "lease_expires_at": "2026-10-29T15:57:17.504393+00:00",
-        "run_id": "40830099169"
       },
       "previous_target_id": "30607842",
       "prepared": {
@@ -16562,5 +16564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T09:57:21.745975+00:00"
+  "updated_at": "2026-10-29T10:21:52.862831+00:00"
 }
