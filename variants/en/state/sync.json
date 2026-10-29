@@ -3074,17 +3074,19 @@
       "attempts": []
     },
     "15708": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32638360",
+          "target_video_id": "30614794",
+          "permanent": false,
+          "attempted_at": "2026-10-29T18:01:47.412420+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32638360",
         "display_name": "The Grand Budapest Hotel (2014) [ID 15708] 1080p CZ Titulky",
         "planned_at": "2026-10-29T17:08:19.619864+00:00"
-      },
-      "claim": {
-        "worker_id": "abda34cc1e854247b971f5fb55045838-shard-0",
-        "claimed_at": "2026-10-29T17:08:19.641487+00:00",
-        "lease_expires_at": "2026-10-29T23:08:19.641487+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30614794",
       "prepared": {
@@ -19218,5 +19220,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T17:59:32.832693+00:00"
+  "updated_at": "2026-10-29T18:01:47.412439+00:00"
 }
