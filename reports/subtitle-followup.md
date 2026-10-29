@@ -59,3 +59,4 @@ Attach subtitles only after target processing has finished.
 | Vertigo | 30610902 | https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv | Find and add matching Czech subtitles after processing |
 | The Sting CZ Titulky | 30611497 | https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv | Extract Czech track from exact source after processing |
 | The Secret in Their Eyes CZ Titulky | 30611733 | https://sdilej.cz/30945511/the.secret.in.their.eyes-2009-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Klaus CZ Titulky | 30612211 | https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv | Extract Czech track from exact source after processing |
