@@ -3521,11 +3521,19 @@
       }
     },
     "36596": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34040749",
+          "reason": "Source detail has no authenticated download link; source_id=34040749",
+          "permanent": false,
+          "attempted_at": "2026-10-29T12:25:36.288542+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34040749",
         "display_name": "Citizen Kane CZ Dabing",
-        "planned_at": "2026-10-29T12:25:29.884724+00:00"
+        "planned_at": "2026-10-29T12:25:34.382785+00:00"
       }
     },
     "169": {
@@ -18134,5 +18142,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T12:25:31.530830+00:00"
+  "updated_at": "2026-10-29T12:25:36.288559+00:00"
 }
