@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T12:47:11.793265+00:00
+Poslední aktualizace (UTC): 2026-10-29T12:47:15.643313+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 2, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 16, `attached_verified`: 1, `existing_tracks_uncertain`: 2, `pending`: 1, `source_czech_full_text_unsupported`: 8, `target_detail_url_missing`: 1, `target_unavailable`: 22, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -51,6 +51,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) CZ Titulky](https://prehraj.to/star-wars-episode-vi-return-of-the-jedi-star-wars-episode-vi-return-of-the-jedi-cz-titulky-mkv/e784a2c3f85b6b4b) (ID 30596759) | [Sdílej 35355567](https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv) | target_unavailable | 2026-10-29T12:06:22.029068+00:00 |
 | [Taxi Driver CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-10-29T12:46:48.653278+00:00 |
 | [The Godfather CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | target_unavailable | 2026-10-29T12:26:39.812423+00:00 |
+| [The Green Mile CZ Titulky](https://prehraj.to/the-green-mile-cz-titulky-mkv/88f77837c39b1463) (ID 30587002) | [Sdílej 27594175](https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv) | target_unavailable | 2026-10-29T12:47:15.643227+00:00 |
 | [The Lives of Others](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-29T12:26:48.103282+00:00 |
 | [The Shining CZ Titulky](https://prehraj.to/the-shining-cz-titulky-mkv/f2eeaf2363a376ca) (ID 30592125) | [Sdílej 26233632](https://sdilej.cz/26233632/the-shining-1980-.mkv) | target_unavailable | 2026-10-29T12:36:52.249343+00:00 |
 | [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-29T12:47:11.793215+00:00 |
