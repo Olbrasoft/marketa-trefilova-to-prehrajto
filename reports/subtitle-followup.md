@@ -4,7 +4,7 @@ Attach subtitles only after target processing has finished.
 
 | Film | Target ID | Source | Action |
 | --- | --- | --- | --- |
-| The Godfather CZ Titulky | 30594653 | https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4 | Extract Czech track from exact source after processing |
+| The Godfather 1080p CZ Titulky | 30594653 | https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4 | Extract Czech track from exact source after processing |
 | The Dark Knight CZ Titulky | 30585161 | https://sdilej.cz/12980181/batman-temny-ritir-2008-fullhd-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
 | The Godfather Part II CZ Titulky | 30580910 | https://sdilej.cz/28589101/kmotr-ii.-1974-fhd-1080p--cz-cz-pl-eng-.mkv | Complete: Czech subtitles verified |
 | 12 Angry Men (1957) CZ Titulky | 30582493 | https://sdilej.cz/34471608/dvanact-rozhnevanych-muzu-12-angry-men-1957-4k-en-cz-tit.mkv | Complete: Czech subtitles verified |
