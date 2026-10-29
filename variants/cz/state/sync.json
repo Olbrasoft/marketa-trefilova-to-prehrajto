@@ -5320,17 +5320,19 @@
       }
     },
     "186": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "16375702",
+          "reason": "Request failed for https://sdilej.cz/16375702/pred.usvitom.1995.cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:15:00.178440+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16375702",
         "display_name": "Before Sunrise SD CZ Dabing",
         "planned_at": "2026-10-29T23:14:11.147633+00:00"
-      },
-      "claim": {
-        "worker_id": "c7c9d6882bd043108a8e6926d1ea2df6-shard-0",
-        "claimed_at": "2026-10-29T23:14:12.317794+00:00",
-        "lease_expires_at": "2026-10-30T05:14:12.317794+00:00",
-        "run_id": "40957299535"
       }
     },
     "11137": {
@@ -22444,5 +22446,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:14:12.317811+00:00"
+  "updated_at": "2026-10-29T23:15:00.178458+00:00"
 }
