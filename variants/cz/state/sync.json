@@ -4627,17 +4627,19 @@
       }
     },
     "250": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15052978",
+          "target_video_id": "30616096",
+          "permanent": false,
+          "attempted_at": "2026-10-29T18:20:21.086947+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15052978",
         "display_name": "Gran Torino 1080p CZ Dabing",
         "planned_at": "2026-10-29T18:13:19.292615+00:00"
-      },
-      "claim": {
-        "worker_id": "b345eacb5687421e84f91de2268a67c8-shard-0",
-        "claimed_at": "2026-10-29T18:13:19.362642+00:00",
-        "lease_expires_at": "2026-10-30T00:13:19.362642+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30616096",
       "prepared": {
@@ -20687,5 +20689,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T18:13:23.182104+00:00"
+  "updated_at": "2026-10-29T18:20:21.086966+00:00"
 }
