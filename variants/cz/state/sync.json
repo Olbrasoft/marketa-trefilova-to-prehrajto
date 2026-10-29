@@ -5107,11 +5107,19 @@
       }
     },
     "245": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28121374",
+          "reason": "Request failed for https://sdilej.cz/28121374/cernobily-svet-2011-757-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T22:17:49.448151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28121374",
         "display_name": "The Help 1080p CZ Dabing",
-        "planned_at": "2026-10-29T22:17:01.120089+00:00"
+        "planned_at": "2026-10-29T22:17:03.461337+00:00"
       }
     },
     "11107": {
@@ -22252,5 +22260,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T22:17:02.338592+00:00"
+  "updated_at": "2026-10-29T22:17:49.448171+00:00"
 }
