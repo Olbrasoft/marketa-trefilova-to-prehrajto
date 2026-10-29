@@ -2522,17 +2522,19 @@
       "attempts": []
     },
     "30080": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30945511",
+          "target_video_id": "30611733",
+          "permanent": false,
+          "attempted_at": "2026-10-29T14:12:36.070769+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30945511",
         "display_name": "The Secret in Their Eyes CZ Titulky",
         "planned_at": "2026-10-29T13:52:04.145263+00:00"
-      },
-      "claim": {
-        "worker_id": "10ada0725a4644ada4e0cfa667f8fc42-shard-0",
-        "claimed_at": "2026-10-29T13:52:04.162641+00:00",
-        "lease_expires_at": "2026-10-29T19:52:04.162641+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30611733",
       "prepared": {
@@ -17688,5 +17690,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T13:52:08.429879+00:00"
+  "updated_at": "2026-10-29T14:12:36.070787+00:00"
 }
