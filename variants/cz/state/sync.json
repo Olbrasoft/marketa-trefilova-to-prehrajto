@@ -5039,17 +5039,19 @@
       }
     },
     "203": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13100159",
+          "target_video_id": "30619997",
+          "permanent": false,
+          "attempted_at": "2026-10-29T22:22:29.669948+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13100159",
         "display_name": "Ford v Ferrari 4K CZ Dabing",
         "planned_at": "2026-10-29T21:44:21.031025+00:00"
-      },
-      "claim": {
-        "worker_id": "307c3b03a4ff4d389bad63ac5acf8808-shard-0",
-        "claimed_at": "2026-10-29T21:44:22.203394+00:00",
-        "lease_expires_at": "2026-10-30T03:44:22.203394+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30619997",
       "prepared": {
@@ -22265,5 +22267,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T22:17:50.932591+00:00"
+  "updated_at": "2026-10-29T22:22:29.669965+00:00"
 }
