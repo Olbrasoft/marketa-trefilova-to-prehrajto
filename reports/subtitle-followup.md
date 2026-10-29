@@ -20,7 +20,7 @@ Attach subtitles only after target processing has finished.
 | The Silence of the Lambs CZ Titulky | 30586048 | https://sdilej.cz/32633356/the-silence-of-the-lambs-mlceni-jehnatek-1991-2160p-cz-ac3-5.1-en-eac3-5.1.mkv | Extract Czech track from exact source after processing |
 | Saving Private Ryan CZ Titulky | 30586078 | https://sdilej.cz/32919223/zachrante-vojina-ryana-1998-cz-en-radecek.mkv | Complete: Czech subtitles verified |
 | The Green Mile CZ Titulky | 30587002 | https://sdilej.cz/27594175/zelena-mile-the-green-mile-1999-2160p-hdr-hevc-ch-sk-en-dabing.mkv | Extract Czech track from exact source after processing |
-| Seven Samurai (Shichinin no samurai) CZ Titulky | 30588171 | https://sdilej.cz/20966262/seven-samurai-criterion-1954-bluray-1080p-x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
+| Seven Samurai (Shichinin no samurai) CZ Titulky | 30588171 | https://sdilej.cz/20966262/seven-samurai-criterion-1954-bluray-1080p-x264-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Django Unchained CZ Titulky | 30588424 | https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
 | Gladiator (2000) CZ Titulky | 30589321 | https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv | Extract Czech track from exact source after processing |
 | The Prestige CZ Titulky | 30589328 | https://sdilej.cz/34429623/the-prestige-2006-.mkv | Extract Czech track from exact source after processing |
