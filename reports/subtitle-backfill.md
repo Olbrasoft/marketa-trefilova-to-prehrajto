@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T14:17:17.177478+00:00
+Poslední aktualizace (UTC): 2026-10-29T14:17:20.674644+00:00
 
 Zkontrolováno videí: 55. Další stránka kontroly: 0.
 
@@ -43,7 +43,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/eternal-sunshine-of-the-spotless-mind-cz-titulky-mkv/ce0b9818feb2a529) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-29T14:07:22.856708+00:00 |
 | [Green Book](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T13:47:10.460751+00:00 |
 | [Heat CZ Titulky](https://prehraj.to/heat-cz-titulky-mkv/fbe2ea57b0788734) (ID 30602067) | [Sdílej 6486240](https://sdilej.cz/6486240/heat-1995-bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-29T13:57:07.177464+00:00 |
-| [I Swear CZ Titulky](https://prehraj.to/i-swear-cz-titulky-mkv/7f546ffba3d36b44) (ID 30595748) | [Sdílej 34430978](https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv) | target_unavailable | 2026-10-29T13:16:52.923063+00:00 |
+| [I Swear CZ Titulky](https://prehraj.to/i-swear-cz-titulky-mkv/7f546ffba3d36b44) (ID 30595748) | [Sdílej 34430978](https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv) | target_unavailable | 2026-10-29T14:17:20.674558+00:00 |
 | [Joker CZ Titulky](https://prehraj.to/joker-cz-titulky-mkv/74cf3c08e4ffb448) (ID 30596090) | [Sdílej 33794368](https://sdilej.cz/33794368/joker-2019-.mkv) | target_unavailable | 2026-10-29T13:16:56.682257+00:00 |
 | [Lawrence of Arabia CZ Titulky](https://prehraj.to/lawrence-of-arabia-cz-titulky-mkv/afd2055797b2e4e8) (ID 30603287) | [Sdílej 15748784](https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv) | target_unavailable | 2026-10-29T13:57:18.195176+00:00 |
 | [Oldboy (올드보이) (2003) CZ Titulky](https://prehraj.to/oldboy-2003-cz-titulky-mkv/341889fe395c086d) (ID 30602237) | [Sdílej 32311338](https://sdilej.cz/32311338/oldboy-2003-min-sik-choi-kor-dab.-cz-ttl..mkv) | target_unavailable | 2026-10-29T13:57:11.019393+00:00 |
