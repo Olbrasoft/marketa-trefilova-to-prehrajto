@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T21:52:58.790693+00:00
+Poslední aktualizace (UTC): 2026-10-29T21:53:02.290020+00:00
 
 Zkontrolováno videí: 74. Další stránka kontroly: 0.
 
@@ -50,7 +50,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Joker 4K CZ Titulky](https://prehraj.to/joker-cz-titulky-mkv/74cf3c08e4ffb448) (ID 30596090) | [Sdílej 33794368](https://sdilej.cz/33794368/joker-2019-.mkv) | target_unavailable | 2026-10-29T21:40:02.161879+00:00 |
 | [Klaus 1080p CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-29T20:49:33.374709+00:00 |
 | [Logan 1080p CZ Titulky](https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0) (ID 30615338) | [Sdílej 7273334](https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv) | target_unavailable | 2026-10-29T21:39:58.734380+00:00 |
-| [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-10-29T20:49:29.946804+00:00 |
+| [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-10-29T21:53:02.289956+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T21:09:51.989248+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T21:09:48.363117+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-29T21:19:44.502040+00:00 |
