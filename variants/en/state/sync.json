@@ -2716,7 +2716,7 @@
       "last_plan": {
         "source_id": "12614295",
         "display_name": "Klaus 1080p CZ Titulky",
-        "planned_at": "2026-10-29T23:28:54.703872+00:00"
+        "planned_at": "2026-10-29T23:59:03.011447+00:00"
       },
       "previous_target_id": "30612211",
       "prepared": {
@@ -2724,6 +2724,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T14:28:07.087530+00:00",
         "relay_source_id": "12614295"
+      },
+      "claim": {
+        "worker_id": "d55c4b7fdabe43928a14997a30388ee1-shard-0",
+        "claimed_at": "2026-10-29T23:59:03.077623+00:00",
+        "lease_expires_at": "2026-10-30T05:59:03.077623+00:00",
+        "run_id": "40957299535"
       }
     },
     "21173": {
@@ -2846,13 +2852,6 @@
           "source_id": "29080724",
           "target_video_id": "30612474",
           "permanent": false,
-          "attempted_at": "2026-10-29T22:15:08.124620+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29080724",
-          "target_video_id": "30612474",
-          "permanent": false,
           "attempted_at": "2026-10-29T22:49:04.946586+00:00"
         },
         {
@@ -2861,6 +2860,13 @@
           "target_video_id": "30612474",
           "permanent": false,
           "attempted_at": "2026-10-29T23:28:53.060895+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29080724",
+          "target_video_id": "30612474",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:59:03.731077+00:00"
         }
       ],
       "last_plan": {
@@ -2874,12 +2880,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
-      },
-      "claim": {
-        "worker_id": "b127d73f72e7464bafc4af9534601743-shard-0",
-        "claimed_at": "2026-10-29T23:58:59.567986+00:00",
-        "lease_expires_at": "2026-10-30T05:58:59.567986+00:00",
-        "run_id": "40957299535"
       }
     },
     "31551": {
@@ -3697,7 +3697,7 @@
       "last_plan": {
         "source_id": "29907177",
         "display_name": "The Wild Robot 4K CZ Titulky",
-        "planned_at": "2026-10-29T23:58:59.716653+00:00"
+        "planned_at": "2026-10-29T23:59:03.054963+00:00"
       }
     },
     "185": {
@@ -20778,5 +20778,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:59:01.662860+00:00"
+  "updated_at": "2026-10-29T23:59:03.731095+00:00"
 }
