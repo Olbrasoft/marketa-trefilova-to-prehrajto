@@ -4246,17 +4246,19 @@
       }
     },
     "193": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33525848",
+          "target_video_id": "30613820",
+          "permanent": false,
+          "attempted_at": "2026-10-29T16:32:49.957152+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33525848",
         "display_name": "V for Vendetta 4K CZ Dabing",
         "planned_at": "2026-10-29T16:15:47.582947+00:00"
-      },
-      "claim": {
-        "worker_id": "8d1fe7afc66e4eaaacd24d971226c17a-shard-0",
-        "claimed_at": "2026-10-29T16:15:48.881558+00:00",
-        "lease_expires_at": "2026-10-29T22:15:48.881558+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30613820",
       "prepared": {
@@ -19843,5 +19845,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:26:33.700256+00:00"
+  "updated_at": "2026-10-29T16:32:49.957171+00:00"
 }
