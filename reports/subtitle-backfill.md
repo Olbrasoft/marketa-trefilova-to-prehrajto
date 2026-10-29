@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T19:48:33.792858+00:00
+Poslední aktualizace (UTC): 2026-10-29T19:48:38.805919+00:00
 
 Zkontrolováno videí: 73. Další stránka kontroly: 0.
 
@@ -38,7 +38,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-10-29T18:47:46.279100+00:00 |
+| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-10-29T19:48:38.805839+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain) SD](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | target_unavailable | 2026-10-29T19:08:09.823076+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | target_unavailable | 2026-10-29T19:07:53.380023+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T19:18:11.994194+00:00 |
