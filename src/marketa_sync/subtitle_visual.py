@@ -35,7 +35,11 @@ def run_private(arguments, timeout):
 def readable_lines(tsv: str) -> list[str]:
     lines = {}
     saw_text = False
-    for word in csv.DictReader(io.StringIO(tsv), delimiter="\t"):
+    reader = csv.DictReader(io.StringIO(tsv), delimiter="\t")
+    required = {"level", "page_num", "block_num", "par_num", "line_num", "conf", "text"}
+    if not required.issubset(reader.fieldnames or []):
+        raise SubtitleUnavailable("visual_subtitle_ocr_invalid")
+    for word in reader:
         try:
             if int(word["level"]) != 5:
                 continue
@@ -47,7 +51,7 @@ def readable_lines(tsv: str) -> list[str]:
                 continue
             key = tuple(word[field] for field in ("page_num", "block_num", "par_num", "line_num"))
             lines.setdefault(key, []).append(text)
-        except (KeyError, ValueError, TypeError):
+        except (KeyError, ValueError, TypeError, AttributeError):
             raise SubtitleUnavailable("visual_subtitle_ocr_invalid") from None
     result = [" ".join(words) for words in lines.values() if len(words) >= 3]
     # Credit lists and large blocks of scene text are not subtitle evidence.

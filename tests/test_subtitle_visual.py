@@ -49,6 +49,12 @@ def test_ocr_discards_low_confidence_noise():
     assert readable_lines(header + rows) == ["Tady jsme včera byli."]
 
 
+@pytest.mark.parametrize("payload", ["", "unexpected OCR output", "level\ttext\n5\tTady jsme byli\n"])
+def test_invalid_ocr_output_is_not_treated_as_a_video_without_text(payload):
+    with pytest.raises(SubtitleUnavailable, match="visual_subtitle_ocr_invalid"):
+        readable_lines(payload)
+
+
 def test_inspection_errors_never_expose_signed_source_urls(monkeypatch):
     monkeypatch.setattr(subprocess, "run", Mock(side_effect=subprocess.TimeoutExpired(
         ["ffmpeg", "https://private.example/file?token=secret"], 1)))
