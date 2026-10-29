@@ -4662,17 +4662,19 @@
       }
     },
     "214": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33249929",
+          "target_video_id": "30616269",
+          "permanent": false,
+          "attempted_at": "2026-10-29T18:31:38.821238+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33249929",
         "display_name": "Fargo 4K CZ Dabing",
         "planned_at": "2026-10-29T18:20:32.080272+00:00"
-      },
-      "claim": {
-        "worker_id": "41663532b08d46019f050690814f428f-shard-0",
-        "claimed_at": "2026-10-29T18:20:32.158553+00:00",
-        "lease_expires_at": "2026-10-30T00:20:32.158553+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30616269",
       "prepared": {
@@ -20970,5 +20972,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T18:25:44.981306+00:00"
+  "updated_at": "2026-10-29T18:31:38.821257+00:00"
 }
