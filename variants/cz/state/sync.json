@@ -2417,17 +2417,19 @@
       }
     },
     "107": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26592290",
+          "target_video_id": "30601892",
+          "permanent": false,
+          "attempted_at": "2026-10-29T03:11:03.118836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26592290",
         "display_name": "Heat CZ Dabing",
         "planned_at": "2026-10-29T03:00:17.900523+00:00"
-      },
-      "claim": {
-        "worker_id": "c8b9555523654f8fb456b52a950b4450-shard-0",
-        "claimed_at": "2026-10-29T03:00:17.950334+00:00",
-        "lease_expires_at": "2026-10-29T09:00:17.950334+00:00",
-        "run_id": "40806595932"
       },
       "previous_target_id": "30601892",
       "prepared": {
@@ -13869,5 +13871,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T03:00:20.873447+00:00"
+  "updated_at": "2026-10-29T03:11:03.118854+00:00"
 }
