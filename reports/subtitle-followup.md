@@ -35,12 +35,12 @@ Attach subtitles only after target processing has finished.
 | The Shining CZ Titulky | 30592125 | https://sdilej.cz/26233632/the-shining-1980-.mkv | Complete: Czech subtitles verified |
 | Alien CZ Titulky | 30592207 | https://sdilej.cz/34445474/vetrelec-romulus.mkv | Complete: Czech subtitles verified |
 | Dune: Part Two CZ Titulky | 30592690 | https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
-| Amadeus 1080p CZ Titulky | 30594798 | https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
+| Amadeus 1080p CZ Titulky | 30594798 | https://sdilej.cz/33819226/amadeus-1984-1080p-en-cz.mkv | Complete: Czech subtitles verified |
 | The Lives of Others 1080p | 30595036 | https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
 | Your Name (Kimi no na wa.) CZ Titulky | 30595306 | https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | Witness for the Prosecution CZ Titulky | 30595529 | https://sdilej.cz/28723968/svedek-obzaloby-1957-a.christie-witness-for-the-prosecution-marlene-dietrich-eng-cz-dab.-eng-cz-ttl..mkv | Complete: Czech subtitles verified |
 | Capernaum (کفرناحوم) CZ Titulky | 30595560 | https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv | Complete: Czech subtitles verified |
-| I Swear 1440p CZ Titulky | 30595748 | https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| I Swear 1440p CZ Titulky | 30595748 | https://sdilej.cz/34430978/i-swear-2025-2160p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Joker 4K CZ Titulky | 30596090 | https://sdilej.cz/33794368/joker-2019-.mkv | Extract Czech track from exact source after processing |
 | Star Wars: Episode VI – Return of the Jedi (Star Wars: Episode VI - Return of the Jedi) 720p CZ Titulky | 30596759 | https://sdilej.cz/35355567/star.wars.episode.vi.return.of.the.jedi.1983.multi.720p.dsnp.web-dl.ddp5.1.h.264-cmrg.mkv | Complete: Czech subtitles verified |
 | Eternal Sunshine of the Spotless Mind 1080p CZ Titulky | 30597712 | https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
@@ -66,4 +66,5 @@ Attach subtitles only after target processing has finished.
 | Yojimbo (用心棒) 1080p | 30612474 | https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv | Find and add matching Czech subtitles after processing |
 | Uri: The Surgical Strike 1080p | 30612576 | https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi | Find and add matching Czech subtitles after processing |
 | Searching for Sugar Man 720p | 30612744 | https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv | Find and add matching Czech subtitles after processing |
-| They Shall Not Grow Old 1080p CZ Titulky | 30612837 | https://sdilej.cz/10958085/they-shall-not-grow-old-1080p-x264-cz-tit.mkv | Extract Czech track from exact source after processing |
+| They Shall Not Grow Old 1080p CZ Titulky | 30612837 | https://sdilej.cz/10958085/they-shall-not-grow-old-1080p-x264-cz-tit.mkv | Complete: Czech subtitles verified |
+| V for Vendetta 4K CZ Titulky | 30613867 | https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv | Extract Czech track from exact source after processing |
