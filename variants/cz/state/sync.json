@@ -4315,17 +4315,19 @@
       }
     },
     "223": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34814926",
+          "target_video_id": "30614154",
+          "permanent": false,
+          "attempted_at": "2026-10-29T16:49:42.994957+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34814926",
         "display_name": "Monsters, Inc. 4K CZ Dabing",
         "planned_at": "2026-10-29T16:34:43.794899+00:00"
-      },
-      "claim": {
-        "worker_id": "515d10a5078947c9997e1bfafb382d13-shard-0",
-        "claimed_at": "2026-10-29T16:34:43.859046+00:00",
-        "lease_expires_at": "2026-10-29T22:34:43.859046+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30614154",
       "prepared": {
@@ -20146,5 +20148,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T16:46:53.663339+00:00"
+  "updated_at": "2026-10-29T16:49:42.994976+00:00"
 }
