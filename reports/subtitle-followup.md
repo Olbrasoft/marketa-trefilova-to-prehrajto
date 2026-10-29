@@ -53,7 +53,7 @@ Attach subtitles only after target processing has finished.
 | Taxi Driver CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
 | A Clockwork Orange CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
 | Full Metal Jacket CZ Titulky | 30608676 | https://sdilej.cz/28679022/olovena-vesta-cztit.mkv | Complete: Czech subtitles verified |
-| Amélie (Le Fabuleux Destin d'Amélie Poulain) | 30608820 | https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv | Find and add matching Czech subtitles after processing |
+| Amélie (Le Fabuleux Destin d'Amélie Poulain) SD | 30608820 | https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv | Find and add matching Czech subtitles after processing |
 | Green Book 1080p | 30609217 | https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4 | Find and add matching Czech subtitles after processing |
 | Casino 1080p CZ Titulky | 30609486 | https://sdilej.cz/34395592/casino-1995-fhd.mkv | Extract Czech track from exact source after processing |
 | Vertigo 720p | 30610902 | https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv | Find and add matching Czech subtitles after processing |
