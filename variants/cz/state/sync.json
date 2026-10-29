@@ -3207,17 +3207,24 @@
           "target_video_id": "30607511",
           "reason": "Target reconciliation unavailable; retry deferred",
           "attempted_at": "2026-10-29T09:54:36.161560+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746115",
+          "target_video_id": "30607511",
+          "permanent": false,
+          "attempted_at": "2026-10-29T10:22:03.243712+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33746115",
         "display_name": "Snatch CZ Dabing",
-        "planned_at": "2026-10-29T10:21:57.948263+00:00"
+        "planned_at": "2026-10-29T10:22:02.469129+00:00"
       },
       "previous_target_id": "30607511",
       "prepared": {
         "target_video_id": "30607511",
-        "size_bytes": 4954135479,
+        "size_bytes": 5000000000,
         "prepared_at": "2026-10-29T09:39:45.460500+00:00",
         "relay_source_id": "33746115"
       }
@@ -3253,7 +3260,7 @@
       "last_plan": {
         "source_id": "33202485",
         "display_name": "Indiana Jones and the Last Crusade CZ Dabing",
-        "planned_at": "2026-10-29T10:21:57.982372+00:00"
+        "planned_at": "2026-10-29T10:22:02.507430+00:00"
       }
     },
     "134": {
@@ -17112,5 +17119,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T10:21:57.982386+00:00"
+  "updated_at": "2026-10-29T10:22:03.243729+00:00"
 }
