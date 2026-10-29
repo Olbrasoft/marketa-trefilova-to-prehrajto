@@ -2617,17 +2617,19 @@
       }
     },
     "11368": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30793920",
+          "reason": "Request failed for https://sdilej.cz/30793920/ponorka-hraji-jurgen-prochnow-1981-cz-dab-leg.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T04:43:31.090324+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30793920",
         "display_name": "Das Boot CZ Dabing",
         "planned_at": "2026-10-29T04:42:45.618403+00:00"
-      },
-      "claim": {
-        "worker_id": "3b1d88c3b5404f1ea36b421465901cfb-shard-0",
-        "claimed_at": "2026-10-29T04:42:45.666872+00:00",
-        "lease_expires_at": "2026-10-29T10:42:45.666872+00:00",
-        "run_id": "40806595932"
       }
     },
     "21354": {
@@ -14587,5 +14589,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T04:42:45.666888+00:00"
+  "updated_at": "2026-10-29T04:43:31.090343+00:00"
 }
