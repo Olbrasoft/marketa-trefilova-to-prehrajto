@@ -4367,13 +4367,6 @@
           "source_id": "12902823",
           "target_video_id": "30614108",
           "permanent": false,
-          "attempted_at": "2026-10-29T21:44:20.980524+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12902823",
-          "target_video_id": "30614108",
-          "permanent": false,
           "attempted_at": "2026-10-29T22:17:02.338576+00:00"
         },
         {
@@ -4382,6 +4375,13 @@
           "target_video_id": "30614108",
           "permanent": false,
           "attempted_at": "2026-10-29T22:48:49.835494+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12902823",
+          "target_video_id": "30614108",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:30:08.847761+00:00"
         }
       ],
       "last_plan": {
@@ -4395,12 +4395,6 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-10-29T16:32:56.043846+00:00",
         "relay_source_id": "12902823"
-      },
-      "claim": {
-        "worker_id": "6c8b6558b7bd4040ad9eb1a2f2a60582-shard-0",
-        "claimed_at": "2026-10-29T23:30:05.270929+00:00",
-        "lease_expires_at": "2026-10-30T05:30:05.270929+00:00",
-        "run_id": "40957299535"
       }
     },
     "223": {
@@ -5083,7 +5077,7 @@
       "last_plan": {
         "source_id": "13100159",
         "display_name": "Ford v Ferrari 4K CZ Dabing",
-        "planned_at": "2026-10-29T22:53:50.667959+00:00"
+        "planned_at": "2026-10-29T23:30:08.493293+00:00"
       },
       "previous_target_id": "30619997",
       "prepared": {
@@ -5091,6 +5085,12 @@
         "size_bytes": 9200000000,
         "prepared_at": "2026-10-29T21:44:26.158133+00:00",
         "relay_source_id": "13100159"
+      },
+      "claim": {
+        "worker_id": "d07b183002314008abd9173c6a10a315-shard-0",
+        "claimed_at": "2026-10-29T23:30:08.643935+00:00",
+        "lease_expires_at": "2026-10-30T05:30:08.643935+00:00",
+        "run_id": "40957299535"
       }
     },
     "213": {
@@ -5381,7 +5381,7 @@
       "last_plan": {
         "source_id": "32815181",
         "display_name": "Hachi: A Dog's Tale 1080p CZ Dabing",
-        "planned_at": "2026-10-29T23:30:05.169774+00:00"
+        "planned_at": "2026-10-29T23:30:08.542139+00:00"
       }
     },
     "209": {
@@ -22494,5 +22494,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:30:05.568570+00:00"
+  "updated_at": "2026-10-29T23:30:08.847781+00:00"
 }
