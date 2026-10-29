@@ -70,3 +70,4 @@ Attach subtitles only after target processing has finished.
 | V for Vendetta 4K CZ Titulky | 30613867 | https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv | Extract Czech track from exact source after processing |
 | Monsters, Inc. 1080p CZ Titulky | 30614354 | https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv | Extract Czech track from exact source after processing |
 | The Grand Budapest Hotel (2014) [ID 15708] 1080p CZ Titulky | 30614794 | https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv | Extract Czech track from exact source after processing |
+| Logan 1080p CZ Titulky | 30615338 | https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv | Extract Czech track from exact source after processing |
