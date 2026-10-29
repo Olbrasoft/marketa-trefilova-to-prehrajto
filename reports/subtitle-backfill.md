@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T12:56:53.368683+00:00
+Poslední aktualizace (UTC): 2026-10-29T12:56:57.745122+00:00
 
 Zkontrolováno videí: 52. Další stránka kontroly: 0.
 
@@ -39,7 +39,7 @@ Kontrol: 8; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Braveheart CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-29T12:06:29.326137+00:00 |
 | [Capernaum (کفرناحوم) CZ Titulky](https://prehraj.to/capernaum-cz-titulky-mkv/9347d2e0829bf266) (ID 30595560) | [Sdílej 12275995](https://sdilej.cz/12275995/capernaum-2018.fullhd.6ch.cz-titulky-3k-.mkv) | target_unavailable | 2026-10-29T12:16:22.897544+00:00 |
 | [Casino CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-29T12:47:03.294985+00:00 |
-| [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | target_unavailable | 2026-10-29T11:56:26.085594+00:00 |
+| [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | target_unavailable | 2026-10-29T12:56:56.947341+00:00 |
 | [Dune: Part Two CZ Titulky](https://prehraj.to/dune-part-two-cz-titulky-mkv/d8985a493db01e5a) (ID 30592690) | [Sdílej 28655217](https://sdilej.cz/28655217/dune.part.two-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-29T12:26:36.162766+00:00 |
 | [Eternal Sunshine of the Spotless Mind CZ Titulky](https://prehraj.to/eternal-sunshine-of-the-spotless-mind-cz-titulky-mkv/ce0b9818feb2a529) (ID 30597712) | [Sdílej 6716239](https://sdilej.cz/6716239/vecny-svit-neposkvrnene-mysli-eternal-sunshine-of-the-spotless-mind-2004-.1080p.bluray.x264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-29T12:06:25.891760+00:00 |
 | [Green Book](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-10-29T12:46:55.713552+00:00 |
