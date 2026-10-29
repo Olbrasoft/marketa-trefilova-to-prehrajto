@@ -3238,17 +3238,19 @@
       }
     },
     "11423": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33672679",
+          "target_video_id": "30615943",
+          "permanent": false,
+          "attempted_at": "2026-10-29T20:40:45.409251+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33672679",
         "display_name": "Blade Runner 4K CZ Titulky",
         "planned_at": "2026-10-29T18:02:48.088871+00:00"
-      },
-      "claim": {
-        "worker_id": "c491655e4c3442d7a2f31d8319931539-shard-0",
-        "claimed_at": "2026-10-29T18:02:48.112801+00:00",
-        "lease_expires_at": "2026-10-30T00:02:48.112801+00:00",
-        "run_id": "40901233364"
       },
       "previous_target_id": "30615943",
       "prepared": {
@@ -19899,5 +19901,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T20:02:07.649450+00:00"
+  "updated_at": "2026-10-29T20:40:45.409269+00:00"
 }
