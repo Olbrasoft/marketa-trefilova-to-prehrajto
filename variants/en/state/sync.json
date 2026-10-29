@@ -3542,17 +3542,19 @@
       "attempts": []
     },
     "227": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14738718",
+          "target_video_id": "30620863",
+          "permanent": false,
+          "attempted_at": "2026-10-29T23:28:10.692869+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14738718",
         "display_name": "Room 1080p CZ Titulky",
         "planned_at": "2026-10-29T22:50:11.001376+00:00"
-      },
-      "claim": {
-        "worker_id": "ebaa71ee97294add968a0d1dfd322323-shard-0",
-        "claimed_at": "2026-10-29T22:50:11.025749+00:00",
-        "lease_expires_at": "2026-10-30T04:50:11.025749+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30620863",
       "prepared": {
@@ -20716,5 +20718,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T23:15:01.600296+00:00"
+  "updated_at": "2026-10-29T23:28:10.692886+00:00"
 }
