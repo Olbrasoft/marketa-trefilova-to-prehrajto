@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T15:59:01.243376+00:00
+Poslední aktualizace (UTC): 2026-10-29T15:59:11.660856+00:00
 
 Zkontrolováno videí: 63. Další stránka kontroly: 0.
 
@@ -59,7 +59,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 14. Důvod
 | [They Shall Not Grow Old CZ Titulky](https://prehraj.to/they-shall-not-grow-old-cz-titulky-mkv/a8d107aceffaaba8) (ID 30612837) | [Sdílej 10958085](https://sdilej.cz/10958085/they-shall-not-grow-old-1080p-x264-cz-tit.mkv) | target_unavailable | 2026-10-29T15:18:01.904955+00:00 |
 | [Uri: The Surgical Strike](https://prehraj.to/uri-the-surgical-strike-avi/6991f89a009a62db) (ID 30612576) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | target_unavailable | 2026-10-29T14:57:55.971836+00:00 |
 | [Vertigo](https://prehraj.to/vertigo-mkv/6d7a10962df621d4) (ID 30610902) | [Sdílej 14187973](https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv) | target_unavailable | 2026-10-29T15:08:01.784125+00:00 |
-| [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-29T14:48:26.794378+00:00 |
+| [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-29T15:59:11.660808+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
