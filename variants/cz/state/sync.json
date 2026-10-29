@@ -3912,17 +3912,19 @@
       "attempts": []
     },
     "22820": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34786686",
+          "target_video_id": "30612338",
+          "permanent": false,
+          "attempted_at": "2026-10-29T14:41:22.583377+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786686",
         "display_name": "Ran (乱) CZ Dabing",
         "planned_at": "2026-10-29T14:35:35.865142+00:00"
-      },
-      "claim": {
-        "worker_id": "48422bd30db24133837f94dc40e2c4de-shard-0",
-        "claimed_at": "2026-10-29T14:35:35.915987+00:00",
-        "lease_expires_at": "2026-10-29T20:35:35.915987+00:00",
-        "run_id": "40864950180"
       },
       "previous_target_id": "30612338",
       "prepared": {
@@ -19326,5 +19328,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T14:37:52.712686+00:00"
+  "updated_at": "2026-10-29T14:41:22.583398+00:00"
 }
