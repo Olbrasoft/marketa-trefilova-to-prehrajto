@@ -2235,7 +2235,7 @@
       "last_plan": {
         "source_id": "32915178",
         "display_name": "Oppenheimer 4K CZ Titulky",
-        "planned_at": "2026-10-29T19:42:24.007787+00:00"
+        "planned_at": "2026-10-29T21:43:08.869883+00:00"
       },
       "previous_target_id": "30606867",
       "prepared": {
@@ -2243,6 +2243,12 @@
         "size_bytes": 11800000000,
         "prepared_at": "2026-10-29T09:02:22.031801+00:00",
         "relay_source_id": "32915178"
+      },
+      "claim": {
+        "worker_id": "e91c0f5a002c43a2b13db49f17be779a-shard-0",
+        "claimed_at": "2026-10-29T21:43:08.934631+00:00",
+        "lease_expires_at": "2026-10-30T03:43:08.934631+00:00",
+        "run_id": "40957299535"
       }
     },
     "179": {
@@ -2444,13 +2450,6 @@
           "source_id": "31912774",
           "target_video_id": "30609217",
           "permanent": false,
-          "attempted_at": "2026-10-29T18:32:13.891965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31912774",
-          "target_video_id": "30609217",
-          "permanent": false,
           "attempted_at": "2026-10-29T19:08:32.308731+00:00"
         },
         {
@@ -2459,6 +2458,13 @@
           "target_video_id": "30609217",
           "permanent": false,
           "attempted_at": "2026-10-29T19:42:22.671176+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31912774",
+          "target_video_id": "30609217",
+          "permanent": false,
+          "attempted_at": "2026-10-29T21:43:09.681905+00:00"
         }
       ],
       "last_plan": {
@@ -2472,12 +2478,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T11:18:07.912284+00:00",
         "relay_source_id": "31912774"
-      },
-      "claim": {
-        "worker_id": "04ce66be79ab493fb534f7d87fa0ea79-shard-0",
-        "claimed_at": "2026-10-29T21:43:07.088569+00:00",
-        "lease_expires_at": "2026-10-30T03:43:07.088569+00:00",
-        "run_id": "40957299535"
       }
     },
     "12383": {
@@ -3421,7 +3421,7 @@
       "last_plan": {
         "source_id": "29629993",
         "display_name": "Rush (2013) 1080p CZ Titulky",
-        "planned_at": "2026-10-29T21:43:07.065803+00:00"
+        "planned_at": "2026-10-29T21:43:08.912119+00:00"
       }
     },
     "208": {
@@ -20386,5 +20386,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:43:07.697045+00:00"
+  "updated_at": "2026-10-29T21:43:09.681922+00:00"
 }
