@@ -3126,11 +3126,19 @@
       }
     },
     "179": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31102322",
+          "reason": "Request failed for https://sdilej.cz/31102322/cista-duse-2001-bluray-dts-dxva-xander-h265.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-29T09:07:14.010111+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31102322",
         "display_name": "A Beautiful Mind CZ Dabing",
-        "planned_at": "2026-10-29T09:06:24.321097+00:00"
+        "planned_at": "2026-10-29T09:06:28.512365+00:00"
       }
     },
     "135": {
@@ -16191,5 +16199,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-29T09:06:25.630732+00:00"
+  "updated_at": "2026-10-29T09:07:14.010130+00:00"
 }
