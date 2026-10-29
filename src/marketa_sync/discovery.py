@@ -49,6 +49,8 @@ def has_subtitles(candidate: Candidate) -> bool:
 
 def bitmap_subtitles(candidate: Candidate) -> bool:
     evidence = candidate.match_evidence.get("marketa", {})
+    if evidence.get("subtitle_method") == "burned_in_ocr_verified":
+        return False
     codec = evidence.get("subtitle_codec")
     return (evidence.get("subtitle_method") == "original_embedded_bitmap"
             or bool(codec and codec not in TEXT_CODECS and evidence.get("subtitle_attachable") is False))
@@ -140,16 +142,17 @@ class EnglishProvider(SdilejProvider):
                         "subtitle_codec": stream["codec_name"], "subtitle_attachable": True,
                         "subtitle_method": "original_embedded_text"}
         except SubtitleUnavailable:
-            evidence = {"czech_subtitles": bool(full_czech), "subtitle_attachable": False}
+            evidence = {"czech_subtitles": False, "subtitle_attachable": False}
             if full_czech:
                 evidence.update(subtitle_stream_index=full_czech[0]["index"],
                                 subtitle_codec=full_czech[0].get("codec_name"),
+                                source_czech_bitmap=True,
                                 subtitle_method="original_embedded_bitmap")
         page_tracks = BeautifulSoup(html, "html.parser").select("video track[src]")
         if any(is_czech(t.get("srclang", "")) and t.get("kind", "subtitles") in {"subtitles", "captions"}
                and not re.search(r"forced|vynucen|commentary", t.get("label", ""), re.I)
                for t in page_tracks):
-            evidence = {"czech_subtitles": True, "subtitle_method": "original_page_track"}
+            evidence = {"czech_subtitles": True, "subtitle_method": "original_page_track", "subtitle_attachable": True}
         if not evidence["czech_subtitles"]:
             visual = self.visual_inspector(detail.download_url, detail.duration_sec,
                                            deadline=getattr(self, "discovery_deadline", None))
@@ -157,8 +160,8 @@ class EnglishProvider(SdilejProvider):
             if visual["visual_status"] == "czech_burned_in_verified":
                 evidence.update(czech_subtitles=True, subtitle_method="burned_in_ocr_verified",
                                 subtitle_attachable=False)
-            elif (visual["visual_status"] == "uncertain" or re.search(
-                    r"\b(?:cz|ceske|české)[ ._-]*(?:tit|titulky|subs?)\b", detail.title, re.I)):
+            elif (visual["visual_status"] == "uncertain" or (not evidence.get("source_czech_bitmap") and re.search(
+                    r"\b(?:cz|ceske|české)[ ._-]*(?:tit|titulky|subs?)\b", detail.title, re.I))):
                 # A filename hint or a failed visual check is not language proof.
                 raise SubtitleUnavailable("burned_in_or_external_subtitles_require_review")
         # The active uploader refreshes manifests without reloading its code.

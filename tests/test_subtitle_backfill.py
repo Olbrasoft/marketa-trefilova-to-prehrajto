@@ -237,6 +237,37 @@ def test_verified_burned_in_subtitles_are_not_extracted_or_generated(tmp_path, m
     target.upload.assert_not_called()
 
 
+@pytest.mark.parametrize("has_czech,unknown,expected", [(True, False, 0), (False, True, 0), (False, False, 1)])
+def test_visible_existing_czech_or_unknown_tracks_prevent_a_negative_name_correction(tmp_path, monkeypatch, has_czech, unknown, expected):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    row["source"]["visual_subtitle_status"] = "no_text_detected"
+    target.refresh.return_value.tracks = [{"id": "7", "czech": True}] if has_czech else []
+    target.refresh.return_value.unknown_tracks = unknown
+    worker.on_no_subtitles = Mock()
+    monkeypatch.setattr(worker_module, "extract_original", Mock(side_effect=SubtitleUnavailable("source_czech_full_text_unsupported")))
+    if expected:
+        with pytest.raises(SubtitleUnavailable):
+            worker.process(row)
+    else:
+        assert not worker.process(row)
+    assert worker.on_no_subtitles.call_count == expected
+
+
+@pytest.mark.parametrize("intent", [False, True])
+def test_new_visual_evidence_revisits_manual_rows_without_resetting_post_intents(tmp_path, monkeypatch, intent):
+    worker, row, target = make_worker(tmp_path, monkeypatch)
+    row.update(status="upload_unconfirmed" if intent else "source_czech_full_text_unsupported",
+               retry_after="2999-01-01T00:00:00+00:00")
+    if intent:
+        row["intent"] = {"filename": "cs-owned.srt"}
+    worker.sources = {"42": {**row["source"], "visual_subtitle_status": "no_text_detected"}}
+    worker.inventory(0)
+    assert row["status"] == ("upload_unconfirmed" if intent else "pending")
+    assert bool(row.get("intent")) is intent
+    if not intent:
+        assert row["retry_after"] == ""
+
+
 def test_name_reconciliation_is_not_source_provenance(tmp_path):
     prepare_root(tmp_path)
     (tmp_path / "plans/subtitle-followup.jsonl").write_text(json.dumps({"cr_film_id": 1, "target_video_id": "42", "source_id": "123", "source_url": "https://sdilej.cz/123/original.mkv", "source_binding_verified": False}))
