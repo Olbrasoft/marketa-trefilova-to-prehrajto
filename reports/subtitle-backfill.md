@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-29T04:38:17.354057+00:00
+Poslední aktualizace (UTC): 2026-10-29T04:39:06.629934+00:00
 
 Zkontrolováno videí: 16. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 9, `existing_tracks_uncertain`: 1, `pending`: 1, `source_czech_full_text_unsupported`: 4, `upload_unconfirmed`: 1
+Stavy: `already_has_czech`: 9, `existing_tracks_uncertain`: 1, `source_czech_full_text_unsupported`: 4, `source_unavailable`: 1, `upload_unconfirmed`: 1
 
 ## Poslední dávka
 
@@ -26,6 +26,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [Goodfellas CZ Titulky](https://prehraj.to/goodfellas-cz-titulky-mkv/a65ae78cae07f027) (ID 30584304) | [Sdílej 12646320](https://sdilej.cz/12646320/goodfellas.1990.multi.uhd.blu-ray.2160p.dts-hdma.5.1.hevc-ddr.mkv) | source_unavailable | 2026-10-29T04:39:06.629877+00:00 |
 | [Your Name (Kimi no na wa.) CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-29T03:41:25.458297+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
