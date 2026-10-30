@@ -11140,17 +11140,19 @@
       "attempts": []
     },
     "27520": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34478058",
+          "target_video_id": "30644026",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:34:18.835295+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34478058",
         "display_name": "The Normal Heart 1080p CZ Dabing",
         "planned_at": "2026-10-30T20:23:38.103112+00:00"
-      },
-      "claim": {
-        "worker_id": "61ba2448a9a746758a83ae25dfd91dd6-shard-0",
-        "claimed_at": "2026-10-30T20:23:38.290360+00:00",
-        "lease_expires_at": "2026-10-31T02:23:38.290360+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30644026",
       "prepared": {
@@ -31126,5 +31128,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:31:35.518816+00:00"
+  "updated_at": "2026-10-30T20:34:18.835310+00:00"
 }
