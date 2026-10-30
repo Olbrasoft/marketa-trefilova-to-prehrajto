@@ -5104,6 +5104,12 @@
         "size_bytes": 9200000000,
         "prepared_at": "2026-10-29T21:44:26.158133+00:00",
         "relay_source_id": "13100159"
+      },
+      "claim": {
+        "worker_id": "734f25a8cc984322ac0859bc142d4d75-shard-0",
+        "claimed_at": "2026-10-30T05:31:21.705178+00:00",
+        "lease_expires_at": "2026-10-30T11:31:21.705178+00:00",
+        "run_id": "40985687737"
       }
     },
     "213": {
@@ -5951,13 +5957,6 @@
           "source_id": "35294815",
           "target_video_id": "30622524",
           "permanent": false,
-          "attempted_at": "2026-10-30T03:45:05.961232+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35294815",
-          "target_video_id": "30622524",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:17:53.325133+00:00"
         },
         {
@@ -5966,12 +5965,19 @@
           "target_video_id": "30622524",
           "permanent": false,
           "attempted_at": "2026-10-30T04:58:01.096319+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35294815",
+          "target_video_id": "30622524",
+          "permanent": false,
+          "attempted_at": "2026-10-30T05:31:22.674929+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35294815",
         "display_name": "The Wages of Fear (Le Salaire de la peur) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T04:57:59.233885+00:00"
+        "planned_at": "2026-10-30T05:31:21.731131+00:00"
       },
       "previous_target_id": "30622524",
       "prepared": {
@@ -6839,7 +6845,7 @@
       "last_plan": {
         "source_id": "33466256",
         "display_name": "12 Monkeys (Twelve Monkeys) 4K CZ Dabing",
-        "planned_at": "2026-10-30T05:31:20.592626+00:00"
+        "planned_at": "2026-10-30T05:31:21.769902+00:00"
       }
     },
     "18607": {
@@ -24558,5 +24564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:31:20.592638+00:00"
+  "updated_at": "2026-10-30T05:31:22.674949+00:00"
 }
