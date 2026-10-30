@@ -1968,13 +1968,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:30:53.008446+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:15:21.742789+00:00"
         },
         {
@@ -1983,6 +1976,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-10-30T22:47:03.031155+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:31:24.085855+00:00"
         }
       ],
       "last_plan": {
@@ -1996,12 +1996,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "35ac0309005e4eff9395063b900e8886-shard-0",
-        "claimed_at": "2026-10-30T23:31:21.607129+00:00",
-        "lease_expires_at": "2026-10-31T05:31:21.607129+00:00",
-        "run_id": "41144016453"
       }
     },
     "21690": {
@@ -4417,7 +4411,7 @@
       "last_plan": {
         "source_id": "12594213",
         "display_name": "Apollo 11 4K CZ Titulky",
-        "planned_at": "2026-10-30T22:47:07.469599+00:00"
+        "planned_at": "2026-10-30T23:31:23.960897+00:00"
       },
       "previous_target_id": "30624527",
       "prepared": {
@@ -4425,6 +4419,12 @@
         "size_bytes": 22400000000,
         "prepared_at": "2026-10-30T02:57:32.293638+00:00",
         "relay_source_id": "12594213"
+      },
+      "claim": {
+        "worker_id": "f0bfe2f086c54ae88719cd220399e20f-shard-0",
+        "claimed_at": "2026-10-30T23:31:24.115591+00:00",
+        "lease_expires_at": "2026-10-31T05:31:24.115591+00:00",
+        "run_id": "41144016453"
       }
     },
     "304": {
@@ -6877,7 +6877,7 @@
       "last_plan": {
         "source_id": "12685665",
         "display_name": "The Irishman 720p CZ Titulky",
-        "planned_at": "2026-10-30T23:31:21.796964+00:00"
+        "planned_at": "2026-10-30T23:31:24.019149+00:00"
       }
     },
     "11559": {
@@ -26836,5 +26836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:31:22.725976+00:00"
+  "updated_at": "2026-10-30T23:31:24.115614+00:00"
 }
