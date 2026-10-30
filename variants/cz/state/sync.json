@@ -6857,7 +6857,7 @@
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-10-30T13:43:08.475696+00:00"
+        "planned_at": "2026-10-30T15:03:02.173789+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -6865,6 +6865,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "c17a49f627fa44fa91dc4109ad22f620-shard-0",
+        "claimed_at": "2026-10-30T15:03:02.351288+00:00",
+        "lease_expires_at": "2026-10-30T21:03:02.351288+00:00",
+        "run_id": "41071477533"
       }
     },
     "321": {
@@ -8370,13 +8376,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-10-30T12:31:22.202059+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-10-30T13:01:48.565399+00:00"
         },
         {
@@ -8385,6 +8384,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-10-30T13:42:55.506704+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:03:02.988800+00:00"
         }
       ],
       "last_plan": {
@@ -8398,12 +8404,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "5bdb4501d91845b3b21149df6c1fa3cf-shard-0",
-        "claimed_at": "2026-10-30T15:02:44.424239+00:00",
-        "lease_expires_at": "2026-10-30T21:02:44.424239+00:00",
-        "run_id": "41071477533"
       }
     },
     "29922": {
@@ -9492,7 +9492,7 @@
       "last_plan": {
         "source_id": "32934317",
         "display_name": "Big Fish 4K CZ Dabing",
-        "planned_at": "2026-10-30T15:02:59.170840+00:00"
+        "planned_at": "2026-10-30T15:03:02.230635+00:00"
       }
     },
     "352": {
@@ -29278,5 +29278,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:03:00.974357+00:00"
+  "updated_at": "2026-10-30T15:03:02.988817+00:00"
 }
