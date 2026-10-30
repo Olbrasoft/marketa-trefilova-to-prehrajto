@@ -78,6 +78,12 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
+      },
+      "claim": {
+        "worker_id": "c45918977ad142618aed4168121455c5-shard-0",
+        "claimed_at": "2026-10-30T20:21:55.005796+00:00",
+        "lease_expires_at": "2026-10-31T02:21:55.005796+00:00",
+        "run_id": "41106549738"
       }
     },
     "9": {
@@ -4255,13 +4261,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-10-30T18:43:07.688113+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-10-30T19:13:38.104924+00:00"
         },
         {
@@ -4270,6 +4269,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-10-30T19:47:36.857412+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:21:55.373666+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4289,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "d1fa0b45a79e4736a3fa8c6af7619ef5-shard-0",
-        "claimed_at": "2026-10-30T20:21:52.087921+00:00",
-        "lease_expires_at": "2026-10-31T02:21:52.087921+00:00",
-        "run_id": "41106549738"
       }
     },
     "229": {
@@ -8420,7 +8420,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-10-30T19:47:40.637863+00:00"
+        "planned_at": "2026-10-30T20:21:55.056329+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -11058,7 +11058,7 @@
       "last_plan": {
         "source_id": "33563386",
         "display_name": "Sleuth (1972) SD CZ Dabing",
-        "planned_at": "2026-10-30T20:21:53.693655+00:00"
+        "planned_at": "2026-10-30T20:21:55.116512+00:00"
       }
     },
     "397": {
@@ -31003,5 +31003,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:21:53.693672+00:00"
+  "updated_at": "2026-10-30T20:21:55.373685+00:00"
 }
