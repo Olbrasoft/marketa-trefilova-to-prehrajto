@@ -10383,7 +10383,20 @@
       "attempts": []
     },
     "15147": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29218710",
+          "reason": "Request failed for https://sdilej.cz/29218710/laska.amour.webrip.cz.fr.2012.720p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:53:33.987610+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29218710",
+        "display_name": "Amour 720p CZ Dabing",
+        "planned_at": "2026-10-30T18:52:48.244574+00:00"
+      }
     },
     "20258": {
       "attempts": []
@@ -30316,5 +30329,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:52:45.181011+00:00"
+  "updated_at": "2026-10-30T18:53:33.987629+00:00"
 }
