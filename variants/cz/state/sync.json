@@ -12146,17 +12146,19 @@
       }
     },
     "492": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:27:01.933189+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32043793",
         "display_name": "American Gangster 4K CZ Dabing",
         "planned_at": "2026-10-30T23:09:02.128721+00:00"
-      },
-      "claim": {
-        "worker_id": "30dd123a0cfd4e2b98bdf6eb7cb7ad65-shard-0",
-        "claimed_at": "2026-10-30T23:09:02.248920+00:00",
-        "lease_expires_at": "2026-10-31T05:09:02.248920+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30647758",
       "prepared": {
@@ -32019,5 +32021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:15:01.688252+00:00"
+  "updated_at": "2026-10-30T23:27:01.933206+00:00"
 }
