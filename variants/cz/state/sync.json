@@ -9239,17 +9239,19 @@
       "attempts": []
     },
     "390": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28170900",
+          "target_video_id": "30634970",
+          "permanent": false,
+          "attempted_at": "2026-10-30T13:16:47.382013+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28170900",
         "display_name": "The Perks of Being a Wallflower 1080p CZ Dabing",
         "planned_at": "2026-10-30T13:12:08.406149+00:00"
-      },
-      "claim": {
-        "worker_id": "8b55f64e63e44d7ebde653c477d5c800-shard-0",
-        "claimed_at": "2026-10-30T13:12:08.572889+00:00",
-        "lease_expires_at": "2026-10-30T19:12:08.572889+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30634970",
       "prepared": {
@@ -28641,5 +28643,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:12:12.061599+00:00"
+  "updated_at": "2026-10-30T13:16:47.382031+00:00"
 }
