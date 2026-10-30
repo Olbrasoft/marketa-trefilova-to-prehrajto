@@ -4375,7 +4375,7 @@
       "last_plan": {
         "source_id": "12594213",
         "display_name": "Apollo 11 4K CZ Titulky",
-        "planned_at": "2026-10-30T19:49:58.675719+00:00"
+        "planned_at": "2026-10-30T20:21:20.521044+00:00"
       },
       "previous_target_id": "30624527",
       "prepared": {
@@ -4383,6 +4383,12 @@
         "size_bytes": 22400000000,
         "prepared_at": "2026-10-30T02:57:32.293638+00:00",
         "relay_source_id": "12594213"
+      },
+      "claim": {
+        "worker_id": "25ef43396a8e468892599ec48213f73f-shard-0",
+        "claimed_at": "2026-10-30T20:21:20.612582+00:00",
+        "lease_expires_at": "2026-10-31T02:21:20.612582+00:00",
+        "run_id": "41106549738"
       }
     },
     "304": {
@@ -4507,13 +4513,6 @@
           "source_id": "25502477",
           "target_video_id": "30626361",
           "permanent": false,
-          "attempted_at": "2026-10-30T18:41:56.438777+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25502477",
-          "target_video_id": "30626361",
-          "permanent": false,
           "attempted_at": "2026-10-30T19:12:32.186729+00:00"
         },
         {
@@ -4522,6 +4521,13 @@
           "target_video_id": "30626361",
           "permanent": false,
           "attempted_at": "2026-10-30T19:49:57.468264+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25502477",
+          "target_video_id": "30626361",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:21:21.335566+00:00"
         }
       ],
       "last_plan": {
@@ -6348,7 +6354,7 @@
       "last_plan": {
         "source_id": "34483131",
         "display_name": "Fitzcarraldo 720p CZ Titulky",
-        "planned_at": "2026-10-30T20:21:19.274873+00:00"
+        "planned_at": "2026-10-30T20:21:20.580201+00:00"
       }
     },
     "30204": {
@@ -26278,5 +26284,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:21:19.274891+00:00"
+  "updated_at": "2026-10-30T20:21:21.335585+00:00"
 }
