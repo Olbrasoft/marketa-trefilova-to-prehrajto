@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T21:44:28.744973+00:00
+Poslední aktualizace (UTC): 2026-10-30T21:44:36.790243+00:00
 
 Zkontrolováno videí: 134. Další stránka kontroly: 0.
 
@@ -86,7 +86,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Strangers on a Train 1080p CZ Titulky](https://prehraj.to/strangers-on-a-train-1080p-cz-titulky-mkv/13df8be22e67b465) (ID 30641584) | [Sdílej 18087403](https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv) | source_unavailable | 2026-10-30T21:43:55.076248+00:00 |
 | [Taegukgi (태극기 휘날리며) 720p CZ Titulky](https://prehraj.to/taegukgi-720p-cz-titulky-mkv/4a834c4e3076e2d5) (ID 30631676) | [Sdílej 15397067](https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv) | target_unavailable | 2026-10-30T21:44:21.959274+00:00 |
 | [The Ascent 1080p CZ Titulky](https://prehraj.to/the-ascent-1080p-cz-titulky-mp4/1336557402a4a4bf) (ID 30631012) | [Sdílej 33856188](https://sdilej.cz/33856188/300-vzestup-rise.mp4) | target_unavailable | 2026-10-30T20:52:43.776289+00:00 |
-| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T20:33:50.755499+00:00 |
+| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T21:44:36.790194+00:00 |
 | [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T20:53:34.143582+00:00 |
 | [The Hobbit: An Unexpected Journey 4K CZ Titulky](https://prehraj.to/the-hobbit-an-unexpected-journey-4k-cz-titulky-mkv/49b464246249a900) (ID 30644749) | [Sdílej 32025992](https://sdilej.cz/32025992/hobit-1-neocekavana-cesta-2012-cz-dabing-2160p-ultra-hd-4k.mkv) | target_unavailable | 2026-10-30T21:02:37.624681+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T21:12:54.097234+00:00 |
