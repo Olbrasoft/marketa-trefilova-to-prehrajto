@@ -10549,17 +10549,19 @@
       }
     },
     "21988": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26861102",
+          "target_video_id": "30642674",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:26:41.148738+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26861102",
         "display_name": "The Wild Bunch 1080p CZ Dabing",
         "planned_at": "2026-10-30T19:12:28.856865+00:00"
-      },
-      "claim": {
-        "worker_id": "b39739fa15a34f06ae58f1365bc188fb-shard-0",
-        "claimed_at": "2026-10-30T19:12:29.070898+00:00",
-        "lease_expires_at": "2026-10-31T01:12:29.070898+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30642674",
       "prepared": {
@@ -30479,5 +30481,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:14:58.504045+00:00"
+  "updated_at": "2026-10-30T19:26:41.148757+00:00"
 }
