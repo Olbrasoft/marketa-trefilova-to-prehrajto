@@ -8568,17 +8568,19 @@
       "attempts": []
     },
     "10821": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30774077",
+          "target_video_id": "30631567",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:10:28.791385+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30774077",
         "display_name": "Ivan's Childhood (Иваново детство) 1080p CZ Dabing",
         "planned_at": "2026-10-30T11:02:16.601368+00:00"
-      },
-      "claim": {
-        "worker_id": "3446fa7cdead49699b3a4591d783de3a-shard-0",
-        "claimed_at": "2026-10-30T11:02:16.652613+00:00",
-        "lease_expires_at": "2026-10-30T17:02:16.652613+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631567",
       "prepared": {
@@ -27537,5 +27539,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:08:50.685235+00:00"
+  "updated_at": "2026-10-30T11:10:28.791403+00:00"
 }
