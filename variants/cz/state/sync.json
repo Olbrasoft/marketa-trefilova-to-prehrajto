@@ -4379,13 +4379,6 @@
           "source_id": "12902823",
           "target_video_id": "30614108",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:48.816997+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12902823",
-          "target_video_id": "30614108",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:57:56.718938+00:00"
         },
         {
@@ -4394,6 +4387,13 @@
           "target_video_id": "30614108",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:20.530447+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12902823",
+          "target_video_id": "30614108",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:03:12.726203+00:00"
         }
       ],
       "last_plan": {
@@ -4407,12 +4407,6 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-10-29T16:32:56.043846+00:00",
         "relay_source_id": "12902823"
-      },
-      "claim": {
-        "worker_id": "e287f4bd037f479fa4951013c51acc25-shard-0",
-        "claimed_at": "2026-10-30T06:03:10.759544+00:00",
-        "lease_expires_at": "2026-10-30T12:03:10.759544+00:00",
-        "run_id": "41008254453"
       }
     },
     "223": {
@@ -5977,7 +5971,7 @@
       "last_plan": {
         "source_id": "35294815",
         "display_name": "The Wages of Fear (Le Salaire de la peur) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T05:31:21.731131+00:00"
+        "planned_at": "2026-10-30T06:03:12.287644+00:00"
       },
       "previous_target_id": "30622524",
       "prepared": {
@@ -5985,6 +5979,12 @@
         "size_bytes": 6800000000,
         "prepared_at": "2026-10-30T00:46:06.861060+00:00",
         "relay_source_id": "35294815"
+      },
+      "claim": {
+        "worker_id": "2f273f42e3694e13be597302c1b69ae4-shard-0",
+        "claimed_at": "2026-10-30T06:03:12.402082+00:00",
+        "lease_expires_at": "2026-10-30T12:03:12.402082+00:00",
+        "run_id": "41008254453"
       }
     },
     "21394": {
@@ -7000,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:03:10.687495+00:00"
+        "planned_at": "2026-10-30T06:03:12.332585+00:00"
       }
     },
     "33811": {
@@ -24707,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:11.047472+00:00"
+  "updated_at": "2026-10-30T06:03:12.726223+00:00"
 }
