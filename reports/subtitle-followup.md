@@ -105,3 +105,4 @@ Attach subtitles only after target processing has finished.
 | The Princess Bride 1080p CZ Titulky | 30627890 | https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv | Extract Czech track from exact source after processing |
 | Magnolia 1080p CZ Titulky | 30628484 | https://sdilej.cz/9846860/magnolia-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Spider-Man: Brand New Day 1440p CZ Titulky | 30628930 | https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| Rosemary's Baby 4K CZ Titulky | 30629227 | https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv | Extract Czech track from exact source after processing |
