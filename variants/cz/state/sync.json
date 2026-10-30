@@ -9925,17 +9925,19 @@
       }
     },
     "29914": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7416051",
+          "target_video_id": "30640624",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:35:14.076814+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7416051",
         "display_name": "Hero (2002) 720p CZ Dabing",
         "planned_at": "2026-10-30T17:25:37.440212+00:00"
-      },
-      "claim": {
-        "worker_id": "136a16a82fa8470ca615a16603b81707-shard-0",
-        "claimed_at": "2026-10-30T17:25:37.548875+00:00",
-        "lease_expires_at": "2026-10-30T23:25:37.548875+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30640624",
       "prepared": {
@@ -29852,5 +29854,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:33:47.191115+00:00"
+  "updated_at": "2026-10-30T17:35:14.076830+00:00"
 }
