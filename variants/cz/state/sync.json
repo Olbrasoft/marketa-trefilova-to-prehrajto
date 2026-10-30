@@ -6564,17 +6564,19 @@
       }
     },
     "282": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34223546",
+          "target_video_id": "30626030",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:38:34.437103+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34223546",
         "display_name": "The Imitation Game 1080p CZ Dabing",
         "planned_at": "2026-10-30T04:31:59.465443+00:00"
-      },
-      "claim": {
-        "worker_id": "712b4b59dd63466ea7c228b26aaeb325-shard-0",
-        "claimed_at": "2026-10-30T04:31:59.532450+00:00",
-        "lease_expires_at": "2026-10-30T10:31:59.532450+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30626030",
       "prepared": {
@@ -24136,5 +24138,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:32:02.457739+00:00"
+  "updated_at": "2026-10-30T04:38:34.437119+00:00"
 }
