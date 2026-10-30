@@ -5318,17 +5318,19 @@
       "attempts": []
     },
     "401": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35296917",
+          "target_video_id": "30632045",
+          "permanent": false,
+          "attempted_at": "2026-10-30T12:18:36.721891+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35296917",
         "display_name": "Iron Man 1080p CZ Titulky",
         "planned_at": "2026-10-30T11:29:16.881598+00:00"
-      },
-      "claim": {
-        "worker_id": "0dc3045e8b5f4f34a35a6c05b6bac811-shard-0",
-        "claimed_at": "2026-10-30T11:29:16.895630+00:00",
-        "lease_expires_at": "2026-10-30T17:29:16.895630+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30632045",
       "prepared": {
@@ -24558,5 +24560,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T12:07:40.720503+00:00"
+  "updated_at": "2026-10-30T12:18:36.721910+00:00"
 }
