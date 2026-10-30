@@ -10361,17 +10361,19 @@
       }
     },
     "22017": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34909726",
+          "target_video_id": "30642194",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:03:40.434976+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34909726",
         "display_name": "Patton 1080p CZ Dabing",
         "planned_at": "2026-10-30T18:48:03.887111+00:00"
-      },
-      "claim": {
-        "worker_id": "470cb8d63bf342659b64df754f9799e0-shard-0",
-        "claimed_at": "2026-10-30T18:48:03.985608+00:00",
-        "lease_expires_at": "2026-10-31T00:48:03.985608+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30642194",
       "prepared": {
@@ -30407,5 +30409,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:01:11.452165+00:00"
+  "updated_at": "2026-10-30T19:03:40.434993+00:00"
 }
