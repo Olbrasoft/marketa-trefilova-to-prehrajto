@@ -2514,13 +2514,6 @@
           "source_id": "34395592",
           "target_video_id": "30609486",
           "permanent": false,
-          "attempted_at": "2026-10-30T00:29:45.945992+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34395592",
-          "target_video_id": "30609486",
-          "permanent": false,
           "attempted_at": "2026-10-30T01:00:29.516635+00:00"
         },
         {
@@ -2529,6 +2522,13 @@
           "target_video_id": "30609486",
           "permanent": false,
           "attempted_at": "2026-10-30T01:34:34.724859+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34395592",
+          "target_video_id": "30609486",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:17:02.160541+00:00"
         }
       ],
       "last_plan": {
@@ -2791,7 +2791,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-10-30T01:34:35.971738+00:00"
+        "planned_at": "2026-10-30T02:17:00.949294+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -2799,6 +2799,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "6786848d77e04cb7a6b866f657b06141-shard-0",
+        "claimed_at": "2026-10-30T02:17:01.001089+00:00",
+        "lease_expires_at": "2026-10-30T08:17:01.001089+00:00",
+        "run_id": "40985687737"
       }
     },
     "21312": {
@@ -4198,7 +4204,7 @@
       "last_plan": {
         "source_id": "27579007",
         "display_name": "Guardians of the Galaxy 4K CZ Titulky",
-        "planned_at": "2026-10-30T02:16:59.740822+00:00"
+        "planned_at": "2026-10-30T02:17:00.983239+00:00"
       }
     },
     "303": {
@@ -21424,5 +21430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:16:59.740836+00:00"
+  "updated_at": "2026-10-30T02:17:02.160558+00:00"
 }
