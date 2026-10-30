@@ -11745,11 +11745,19 @@
       }
     },
     "512": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34809804",
+          "reason": "Request failed for https://sdilej.cz/34809804/podivuhodny-pripad-benjamina-buttona.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T22:17:16.018659+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34809804",
         "display_name": "The Curious Case of Benjamin Button 4K CZ Dabing",
-        "planned_at": "2026-10-30T22:16:27.929645+00:00"
+        "planned_at": "2026-10-30T22:16:30.243888+00:00"
       }
     },
     "484": {
@@ -31662,5 +31670,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T22:16:27.929668+00:00"
+  "updated_at": "2026-10-30T22:17:16.018677+00:00"
 }
