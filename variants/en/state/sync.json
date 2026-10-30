@@ -2821,7 +2821,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-10-30T13:41:37.770155+00:00"
+        "planned_at": "2026-10-30T15:03:57.404911+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -2829,6 +2829,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "a712e0065fb247c4939c5cf3757557fd-shard-0",
+        "claimed_at": "2026-10-30T15:03:57.481665+00:00",
+        "lease_expires_at": "2026-10-30T21:03:57.481665+00:00",
+        "run_id": "41071477533"
       }
     },
     "21312": {
@@ -2876,13 +2882,6 @@
           "source_id": "29080724",
           "target_video_id": "30612474",
           "permanent": false,
-          "attempted_at": "2026-10-30T12:33:28.075288+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29080724",
-          "target_video_id": "30612474",
-          "permanent": false,
           "attempted_at": "2026-10-30T13:03:44.990381+00:00"
         },
         {
@@ -2891,6 +2890,13 @@
           "target_video_id": "30612474",
           "permanent": false,
           "attempted_at": "2026-10-30T13:41:36.187342+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29080724",
+          "target_video_id": "30612474",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:03:59.407422+00:00"
         }
       ],
       "last_plan": {
@@ -2904,12 +2910,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
-      },
-      "claim": {
-        "worker_id": "ccb22fa381d64bd2b84bd3362a52b33f-shard-0",
-        "claimed_at": "2026-10-30T15:03:55.960022+00:00",
-        "lease_expires_at": "2026-10-30T21:03:55.960022+00:00",
-        "run_id": "41071477533"
       }
     },
     "31551": {
@@ -5601,7 +5601,7 @@
       "last_plan": {
         "source_id": "26457098",
         "display_name": "Guardians of the Galaxy Vol. 3 4K CZ Titulky",
-        "planned_at": "2026-10-30T15:03:55.933564+00:00"
+        "planned_at": "2026-10-30T15:03:57.454811+00:00"
       }
     },
     "13259": {
@@ -25395,5 +25395,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:03:56.168775+00:00"
+  "updated_at": "2026-10-30T15:03:59.407436+00:00"
 }
