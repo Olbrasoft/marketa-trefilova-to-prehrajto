@@ -3756,6 +3756,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-10-30T00:10:44.322962+00:00",
         "relay_source_id": "29907177"
+      },
+      "claim": {
+        "worker_id": "7d73e821768946e3b6c2716ff489b41a-shard-0",
+        "claimed_at": "2026-10-30T02:16:38.180040+00:00",
+        "lease_expires_at": "2026-10-30T08:16:38.180040+00:00",
+        "run_id": "40985687737"
       }
     },
     "185": {
@@ -3985,12 +3991,19 @@
           "target_video_id": "30622539",
           "permanent": false,
           "attempted_at": "2026-10-30T01:33:56.464246+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34845555",
+          "target_video_id": "30622539",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:16:39.323668+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34845555",
         "display_name": "The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky",
-        "planned_at": "2026-10-30T01:33:55.051935+00:00"
+        "planned_at": "2026-10-30T02:16:38.267289+00:00"
       },
       "previous_target_id": "30622539",
       "prepared": {
@@ -4191,7 +4204,7 @@
       "last_plan": {
         "source_id": "27579007",
         "display_name": "Guardians of the Galaxy 4K CZ Titulky",
-        "planned_at": "2026-10-30T02:16:37.084190+00:00"
+        "planned_at": "2026-10-30T02:16:38.300195+00:00"
       }
     },
     "303": {
@@ -21417,5 +21430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:16:37.084201+00:00"
+  "updated_at": "2026-10-30T02:16:39.323693+00:00"
 }
