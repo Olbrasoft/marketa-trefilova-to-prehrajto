@@ -11987,17 +11987,19 @@
       }
     },
     "17832": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34697165",
+          "target_video_id": "30647499",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:06:55.537102+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34697165",
         "display_name": "Little Miss Sunshine 720p CZ Dabing",
         "planned_at": "2026-10-30T22:57:55.438944+00:00"
-      },
-      "claim": {
-        "worker_id": "afde9d53facd4c8fbaaa545e7fca9e0e-shard-0",
-        "claimed_at": "2026-10-30T22:57:55.552035+00:00",
-        "lease_expires_at": "2026-10-31T04:57:55.552035+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30647499",
       "prepared": {
@@ -12045,7 +12047,18 @@
       }
     },
     "410": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "16495859",
+        "display_name": "The Girl with the Dragon Tattoo (2011) 1080p CZ Dabing",
+        "planned_at": "2026-10-30T23:06:26.782170+00:00"
+      },
+      "claim": {
+        "worker_id": "100da5c571cd40ad91c90ec7616a7b9b-shard-0",
+        "claimed_at": "2026-10-30T23:06:26.886480+00:00",
+        "lease_expires_at": "2026-10-31T05:06:26.886480+00:00",
+        "run_id": "41106549738"
+      }
     },
     "443": {
       "attempts": []
@@ -31918,5 +31931,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:06:25.322927+00:00"
+  "updated_at": "2026-10-30T23:06:55.537119+00:00"
 }
