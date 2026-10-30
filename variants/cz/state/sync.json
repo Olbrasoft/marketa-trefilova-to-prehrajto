@@ -6666,13 +6666,6 @@
           "source_id": "32455047",
           "target_video_id": "30625836",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:32:43.389576+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32455047",
-          "target_video_id": "30625836",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:13:50.061337+00:00"
         },
         {
@@ -6681,6 +6674,13 @@
           "target_video_id": "30625836",
           "permanent": false,
           "attempted_at": "2026-10-30T22:49:00.276307+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32455047",
+          "target_video_id": "30625836",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:32:40.029452+00:00"
         }
       ],
       "last_plan": {
@@ -7984,7 +7984,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-10-30T22:49:01.476983+00:00"
+        "planned_at": "2026-10-30T23:32:39.101997+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -7992,6 +7992,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "d69dcf4501434f188326522c0f7e3b1a-shard-0",
+        "claimed_at": "2026-10-30T23:32:39.256616+00:00",
+        "lease_expires_at": "2026-10-31T05:32:39.256616+00:00",
+        "run_id": "41144016453"
       }
     },
     "10690": {
@@ -12206,7 +12212,7 @@
       "last_plan": {
         "source_id": "32643161",
         "display_name": "The Irishman 4K CZ Dabing",
-        "planned_at": "2026-10-30T23:32:37.895688+00:00"
+        "planned_at": "2026-10-30T23:32:39.162328+00:00"
       }
     },
     "11559": {
@@ -32160,5 +32166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:32:37.895707+00:00"
+  "updated_at": "2026-10-30T23:32:40.029470+00:00"
 }
