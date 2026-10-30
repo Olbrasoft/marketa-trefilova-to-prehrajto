@@ -5957,6 +5957,13 @@
           "target_video_id": "30641259",
           "permanent": false,
           "attempted_at": "2026-10-30T18:34:02.144831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30774032",
+          "target_video_id": "30641259",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:11:36.174801+00:00"
         }
       ],
       "last_plan": {
@@ -5967,15 +5974,9 @@
       "previous_target_id": "30641259",
       "prepared": {
         "target_video_id": "30641259",
-        "size_bytes": 16165953558,
+        "size_bytes": 16200000000,
         "prepared_at": "2026-10-30T17:50:03.996977+00:00",
         "relay_source_id": "30774032"
-      },
-      "claim": {
-        "worker_id": "1e22481ce52a46d79eb18c75ef1cc441-shard-0",
-        "claimed_at": "2026-10-30T19:11:33.064665+00:00",
-        "lease_expires_at": "2026-10-31T01:11:33.064665+00:00",
-        "run_id": "41106549738"
       }
     },
     "25423": {
@@ -5997,7 +5998,7 @@
       "last_plan": {
         "source_id": "18087403",
         "display_name": "Strangers on a Train 1080p CZ Titulky",
-        "planned_at": "2026-10-30T18:10:17.226389+00:00"
+        "planned_at": "2026-10-30T19:11:35.937177+00:00"
       },
       "previous_target_id": "30641584",
       "prepared": {
@@ -6005,6 +6006,12 @@
         "size_bytes": 11189064304,
         "prepared_at": "2026-10-30T18:10:20.231229+00:00",
         "relay_source_id": "18087403"
+      },
+      "claim": {
+        "worker_id": "d96352c45eb44ef980521503c507eed3-shard-0",
+        "claimed_at": "2026-10-30T19:11:36.017217+00:00",
+        "lease_expires_at": "2026-10-31T01:11:36.017217+00:00",
+        "run_id": "41106549738"
       }
     },
     "384": {
@@ -6137,7 +6144,7 @@
       "last_plan": {
         "source_id": "30773956",
         "display_name": "Rio Bravo 720p CZ Titulky",
-        "planned_at": "2026-10-30T19:11:32.980889+00:00"
+        "planned_at": "2026-10-30T19:11:35.989916+00:00"
       }
     },
     "28372": {
@@ -26009,5 +26016,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:11:33.064690+00:00"
+  "updated_at": "2026-10-30T19:11:36.174819+00:00"
 }
