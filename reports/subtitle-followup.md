@@ -109,3 +109,4 @@ Attach subtitles only after target processing has finished.
 | CODA 4K CZ Titulky | 30629619 | https://sdilej.cz/23547476/coda-2021-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv | Complete: Czech subtitles verified |
 | Stalker (Сталкер) (1979) 1080p CZ Titulky | 30630550 | https://sdilej.cz/29472972/stalker-1979-rus.-cz-titulky-remaster..mkv | Extract Czech track from exact source after processing |
 | Elite Squad: The Enemy Within 1080p CZ Titulky | 30630934 | https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv | Extract Czech track from exact source after processing |
+| The Ascent 1080p CZ Titulky | 30631012 | https://sdilej.cz/33856188/300-vzestup-rise.mp4 | Extract Czech track from exact source after processing |
