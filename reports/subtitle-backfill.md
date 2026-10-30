@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T02:19:57.692377+00:00
+Poslední aktualizace (UTC): 2026-10-30T02:20:05.820843+00:00
 
 Zkontrolováno videí: 89. Další stránka kontroly: 0.
 
@@ -74,7 +74,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | target_unavailable | 2026-10-30T02:19:40.782412+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-10-30T01:36:07.214457+00:00 |
 | [Vertigo (1958) 720p](https://prehraj.to/vertigo-mkv/6d7a10962df621d4) (ID 30610902) | [Sdílej 14187973](https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv) | target_unavailable | 2026-10-30T01:26:03.158974+00:00 |
-| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-30T01:16:24.865531+00:00 |
+| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-30T02:20:05.820798+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
