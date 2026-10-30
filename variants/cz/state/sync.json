@@ -5494,17 +5494,19 @@
       }
     },
     "10782": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33914201",
+          "target_video_id": "30621490",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:11:26.904822+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33914201",
         "display_name": "Ben-Hur (1959) 4K CZ Dabing",
         "planned_at": "2026-10-29T23:36:43.384911+00:00"
-      },
-      "claim": {
-        "worker_id": "8886df6add594e1e8aaadc437fa75968-shard-0",
-        "claimed_at": "2026-10-29T23:36:43.457783+00:00",
-        "lease_expires_at": "2026-10-30T05:36:43.457783+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30621490",
       "prepared": {
@@ -22676,5 +22678,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:10:40.279072+00:00"
+  "updated_at": "2026-10-30T00:11:26.904840+00:00"
 }
