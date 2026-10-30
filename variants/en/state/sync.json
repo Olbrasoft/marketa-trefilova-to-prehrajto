@@ -3592,13 +3592,6 @@
           "source_id": "35171736",
           "target_video_id": "30620452",
           "permanent": false,
-          "attempted_at": "2026-10-30T12:34:00.295570+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35171736",
-          "target_video_id": "30620452",
-          "permanent": false,
           "attempted_at": "2026-10-30T13:04:16.167922+00:00"
         },
         {
@@ -3607,6 +3600,13 @@
           "target_video_id": "30620452",
           "permanent": false,
           "attempted_at": "2026-10-30T13:42:04.118484+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35171736",
+          "target_video_id": "30620452",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:04:15.372534+00:00"
         }
       ],
       "last_plan": {
@@ -4199,7 +4199,7 @@
       "last_plan": {
         "source_id": "32450707",
         "display_name": "Raise the Red Lantern (大红灯笼高高挂) 1080p",
-        "planned_at": "2026-10-30T13:42:05.413963+00:00"
+        "planned_at": "2026-10-30T15:04:14.562498+00:00"
       },
       "previous_target_id": "30623110",
       "prepared": {
@@ -4207,6 +4207,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-30T01:19:12.391970+00:00",
         "relay_source_id": "32450707"
+      },
+      "claim": {
+        "worker_id": "7a99445116d34787a06b475c98bedde6-shard-0",
+        "claimed_at": "2026-10-30T15:04:14.641329+00:00",
+        "lease_expires_at": "2026-10-30T21:04:14.641329+00:00",
+        "run_id": "41071477533"
       }
     },
     "29612": {
@@ -5595,7 +5601,7 @@
       "last_plan": {
         "source_id": "26457098",
         "display_name": "Guardians of the Galaxy Vol. 3 4K CZ Titulky",
-        "planned_at": "2026-10-30T15:04:13.137149+00:00"
+        "planned_at": "2026-10-30T15:04:14.613016+00:00"
       }
     },
     "13259": {
@@ -25389,5 +25395,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:04:13.137158+00:00"
+  "updated_at": "2026-10-30T15:04:15.372551+00:00"
 }
