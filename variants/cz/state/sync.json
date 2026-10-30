@@ -5076,13 +5076,6 @@
           "source_id": "13100159",
           "target_video_id": "30619997",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:51.115073+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13100159",
-          "target_video_id": "30619997",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:57:59.471509+00:00"
         },
         {
@@ -5091,6 +5084,13 @@
           "target_video_id": "30619997",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:23.853288+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13100159",
+          "target_video_id": "30619997",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:03:16.231280+00:00"
         }
       ],
       "last_plan": {
@@ -5104,12 +5104,6 @@
         "size_bytes": 9200000000,
         "prepared_at": "2026-10-29T21:44:26.158133+00:00",
         "relay_source_id": "13100159"
-      },
-      "claim": {
-        "worker_id": "536c0701510142d8a169856b26b58b68-shard-0",
-        "claimed_at": "2026-10-30T06:03:14.183925+00:00",
-        "lease_expires_at": "2026-10-30T12:03:14.183925+00:00",
-        "run_id": "41008254453"
       }
     },
     "213": {
@@ -6067,7 +6061,7 @@
       "last_plan": {
         "source_id": "27954124",
         "display_name": "Wolf Children Ame and Yuki (おおかみこどもの雨と雪) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T05:31:23.878282+00:00"
+        "planned_at": "2026-10-30T06:03:15.646164+00:00"
       },
       "previous_target_id": "30622643",
       "prepared": {
@@ -6075,6 +6069,12 @@
         "size_bytes": 17000000000,
         "prepared_at": "2026-10-30T00:57:02.003208+00:00",
         "relay_source_id": "27954124"
+      },
+      "claim": {
+        "worker_id": "481282e918a24b5a8fd4a35039591b6a-shard-0",
+        "claimed_at": "2026-10-30T06:03:15.758454+00:00",
+        "lease_expires_at": "2026-10-30T12:03:15.758454+00:00",
+        "run_id": "41008254453"
       }
     },
     "16125": {
@@ -7000,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:03:14.114463+00:00"
+        "planned_at": "2026-10-30T06:03:15.689256+00:00"
       }
     },
     "33811": {
@@ -24707,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:14.481203+00:00"
+  "updated_at": "2026-10-30T06:03:16.231302+00:00"
 }
