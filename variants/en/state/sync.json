@@ -4457,13 +4457,6 @@
           "source_id": "32668635",
           "target_video_id": "30625425",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:31:02.698900+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32668635",
-          "target_video_id": "30625425",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:15:32.481169+00:00"
         },
         {
@@ -4472,6 +4465,13 @@
           "target_video_id": "30625425",
           "permanent": false,
           "attempted_at": "2026-10-30T22:47:13.479814+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32668635",
+          "target_video_id": "30625425",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:31:28.603759+00:00"
         }
       ],
       "last_plan": {
@@ -4485,12 +4485,6 @@
         "size_bytes": 15800000000,
         "prepared_at": "2026-10-30T04:00:58.545262+00:00",
         "relay_source_id": "32668635"
-      },
-      "claim": {
-        "worker_id": "1a7dd5389b6446e1806b8ee54fa052c7-shard-0",
-        "claimed_at": "2026-10-30T23:31:26.939396+00:00",
-        "lease_expires_at": "2026-10-31T05:31:26.939396+00:00",
-        "run_id": "41144016453"
       }
     },
     "320": {
@@ -4526,7 +4520,7 @@
       "last_plan": {
         "source_id": "34794426",
         "display_name": "Black Swan 1080p CZ Titulky",
-        "planned_at": "2026-10-30T22:47:14.829588+00:00"
+        "planned_at": "2026-10-30T23:31:28.348470+00:00"
       },
       "previous_target_id": "30625850",
       "prepared": {
@@ -4534,6 +4528,12 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-10-30T04:25:00.177448+00:00",
         "relay_source_id": "34794426"
+      },
+      "claim": {
+        "worker_id": "5ec8a2b06aa8467b9408eb50f0250ba0-shard-0",
+        "claimed_at": "2026-10-30T23:31:28.429988+00:00",
+        "lease_expires_at": "2026-10-31T05:31:28.429988+00:00",
+        "run_id": "41144016453"
       }
     },
     "282": {
@@ -6877,7 +6877,7 @@
       "last_plan": {
         "source_id": "12685665",
         "display_name": "The Irishman 720p CZ Titulky",
-        "planned_at": "2026-10-30T23:31:26.911116+00:00"
+        "planned_at": "2026-10-30T23:31:28.402158+00:00"
       }
     },
     "11559": {
@@ -26836,5 +26836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:31:27.054993+00:00"
+  "updated_at": "2026-10-30T23:31:28.603776+00:00"
 }
