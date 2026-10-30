@@ -135,3 +135,4 @@ Attach subtitles only after target processing has finished.
 | Fitzcarraldo 720p CZ Titulky | 30644027 | https://sdilej.cz/34483131/fitzcarraldo-n-peru-1982-werner-herzog-bluray.720p.hevc.en.ger.aac.en.cz.sub.mkv | Complete: Czech subtitles verified |
 | Ne Zha 2 1080p CZ Titulky | 30644398 | https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | The Hobbit: An Unexpected Journey 4K CZ Titulky | 30644749 | https://sdilej.cz/32025992/hobit-1-neocekavana-cesta-2012-cz-dabing-2160p-ultra-hd-4k.mkv | Extract Czech track from exact source after processing |
+| The Social Network 1080p CZ Titulky | 30645401 | https://sdilej.cz/33551158/socialni-sit-the-social-network-2010-1080p-bluray-cz-dabing.mkv | Extract Czech track from exact source after processing |
