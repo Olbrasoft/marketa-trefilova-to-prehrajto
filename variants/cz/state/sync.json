@@ -6473,17 +6473,19 @@
       }
     },
     "320": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28181909",
+          "target_video_id": "30625549",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:15:41.398091+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28181909",
         "display_name": "The Incredibles 1080p CZ Dabing",
         "planned_at": "2026-10-30T04:09:31.032236+00:00"
-      },
-      "claim": {
-        "worker_id": "d5c615cce8d24d709300bb1160126b5d-shard-0",
-        "claimed_at": "2026-10-30T04:09:31.092899+00:00",
-        "lease_expires_at": "2026-10-30T10:09:31.092899+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30625549",
       "prepared": {
@@ -23934,5 +23936,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:09:34.337908+00:00"
+  "updated_at": "2026-10-30T04:15:41.398108+00:00"
 }
