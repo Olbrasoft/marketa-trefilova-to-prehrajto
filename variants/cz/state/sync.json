@@ -7517,17 +7517,19 @@
       }
     },
     "328": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30294410",
+          "target_video_id": "30629451",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:32:33.215779+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30294410",
         "display_name": "Ip Man (葉問) 4K CZ Dabing",
         "planned_at": "2026-10-30T08:20:40.332098+00:00"
-      },
-      "claim": {
-        "worker_id": "2c63a3ccad8d49709a111a9ea694110f-shard-0",
-        "claimed_at": "2026-10-30T08:20:40.403196+00:00",
-        "lease_expires_at": "2026-10-30T14:20:40.403196+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30629451",
       "prepared": {
@@ -26094,5 +26096,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:32:03.369182+00:00"
+  "updated_at": "2026-10-30T08:32:33.215799+00:00"
 }
