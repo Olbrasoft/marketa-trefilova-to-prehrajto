@@ -12006,11 +12006,19 @@
       }
     },
     "499": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27752035",
+          "reason": "Request failed for https://sdilej.cz/27752035/velka-sestka-2014-1080p-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:01:16.639072+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27752035",
         "display_name": "Big Hero 6 1080p CZ Dabing",
-        "planned_at": "2026-10-30T23:00:27.896489+00:00"
+        "planned_at": "2026-10-30T23:00:30.400679+00:00"
       }
     },
     "486": {
@@ -31890,5 +31898,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:00:28.944576+00:00"
+  "updated_at": "2026-10-30T23:01:16.639092+00:00"
 }
