@@ -1863,13 +1863,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:30:35.163533+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:15:06.820891+00:00"
         },
         {
@@ -1878,6 +1871,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-10-30T22:46:49.798565+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:31:14.973259+00:00"
         }
       ],
       "last_plan": {
@@ -2821,7 +2821,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-10-30T22:46:51.068207+00:00"
+        "planned_at": "2026-10-30T23:31:13.989472+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -2829,6 +2829,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "a1217855fcfd4b778f2dd0f68dfae2ca-shard-0",
+        "claimed_at": "2026-10-30T23:31:14.078700+00:00",
+        "lease_expires_at": "2026-10-31T05:31:14.078700+00:00",
+        "run_id": "41144016453"
       }
     },
     "21312": {
@@ -6871,7 +6877,7 @@
       "last_plan": {
         "source_id": "12685665",
         "display_name": "The Irishman 720p CZ Titulky",
-        "planned_at": "2026-10-30T23:31:12.686709+00:00"
+        "planned_at": "2026-10-30T23:31:14.047689+00:00"
       }
     },
     "11559": {
@@ -26830,5 +26836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:31:12.686726+00:00"
+  "updated_at": "2026-10-30T23:31:14.973277+00:00"
 }
