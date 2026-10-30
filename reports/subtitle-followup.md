@@ -123,3 +123,4 @@ Attach subtitles only after target processing has finished.
 | Big Fish 1080p CZ Titulky | 30638440 | https://sdilej.cz/35402034/big.fish.2003.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Marriage Story 1080p CZ Titulky | 30639527 | https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Annie Hall 720p CZ Titulky | 30640109 | https://sdilej.cz/29266712/annie-hall-1977-diane-keaton-woody-allen-eng.-cz-ttl..mkv | Extract Czech track from exact source after processing |
+| True Romance 1080p CZ Titulky | 30640322 | https://sdilej.cz/30979686/pravdiva-romance-1993-cz-dab1080p-bluray.mkv | Extract Czech track from exact source after processing |
