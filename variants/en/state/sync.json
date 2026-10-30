@@ -4551,17 +4551,19 @@
       "attempts": []
     },
     "33811": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35036692",
+          "target_video_id": "30627689",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:18:32.836037+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35036692",
         "display_name": "Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky",
         "planned_at": "2026-10-30T06:09:15.929714+00:00"
-      },
-      "claim": {
-        "worker_id": "c083e17e22c949a9988402bfa3979104-shard-0",
-        "claimed_at": "2026-10-30T06:09:15.951112+00:00",
-        "lease_expires_at": "2026-10-30T12:09:15.951112+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30627689",
       "prepared": {
@@ -22290,5 +22292,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:18:15.183105+00:00"
+  "updated_at": "2026-10-30T06:18:32.836057+00:00"
 }
