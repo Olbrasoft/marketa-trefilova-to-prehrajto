@@ -6874,17 +6874,19 @@
       }
     },
     "310": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33466256",
+          "target_video_id": "30627110",
+          "permanent": false,
+          "attempted_at": "2026-10-30T05:46:18.283942+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33466256",
         "display_name": "12 Monkeys (Twelve Monkeys) 4K CZ Dabing",
         "planned_at": "2026-10-30T05:31:31.322011+00:00"
-      },
-      "claim": {
-        "worker_id": "723f1f4cc41b42cfbbaccecba717245d-shard-0",
-        "claimed_at": "2026-10-30T05:31:31.460642+00:00",
-        "lease_expires_at": "2026-10-30T11:31:31.460642+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30627110",
       "prepared": {
@@ -24630,5 +24632,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:45:31.618029+00:00"
+  "updated_at": "2026-10-30T05:46:18.283959+00:00"
 }
