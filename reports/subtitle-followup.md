@@ -86,3 +86,4 @@ Attach subtitles only after target processing has finished.
 | The Wild Robot 4K CZ Titulky | 30622026 | https://sdilej.cz/29907177/the.wild.robot-2024-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | PK (पीके) SD | 30622086 | https://sdilej.cz/34714281/pk-2014-cz.mp4 | Find and add matching Czech subtitles after processing |
 | Paris, Texas 1080p CZ Titulky | 30622275 | https://sdilej.cz/15641041/paris-texas-1984-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
+| The Grapes of Wrath 1080p | 30622415 | https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4 | Find and add matching Czech subtitles after processing |
