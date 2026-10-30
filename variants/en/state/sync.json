@@ -4810,17 +4810,19 @@
       "attempts": []
     },
     "263": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23547476",
+          "target_video_id": "30629619",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:47:16.469320+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23547476",
         "display_name": "CODA 4K CZ Titulky",
         "planned_at": "2026-10-30T08:32:34.753244+00:00"
-      },
-      "claim": {
-        "worker_id": "38f5362d79bb42e08a80e326b866996d-shard-0",
-        "claimed_at": "2026-10-30T08:32:34.776081+00:00",
-        "lease_expires_at": "2026-10-30T14:32:34.776081+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30629619",
       "prepared": {
@@ -23365,5 +23367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:47:11.486465+00:00"
+  "updated_at": "2026-10-30T08:47:16.469343+00:00"
 }
