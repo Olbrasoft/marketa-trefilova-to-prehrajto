@@ -4664,13 +4664,6 @@
           "source_id": "32461058",
           "target_video_id": "30615829",
           "permanent": false,
-          "attempted_at": "2026-10-30T07:21:58.198203+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32461058",
-          "target_video_id": "30615829",
-          "permanent": false,
           "attempted_at": "2026-10-30T08:04:57.752866+00:00"
         },
         {
@@ -4679,6 +4672,13 @@
           "target_video_id": "30615829",
           "permanent": false,
           "attempted_at": "2026-10-30T08:46:43.755715+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32461058",
+          "target_video_id": "30615829",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:19:39.159406+00:00"
         }
       ],
       "last_plan": {
@@ -4692,12 +4692,6 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-10-29T17:59:34.632657+00:00",
         "relay_source_id": "32461058"
-      },
-      "claim": {
-        "worker_id": "bb511d6ee11c4216aebbf89dd37cc9d6-shard-0",
-        "claimed_at": "2026-10-30T09:19:37.268266+00:00",
-        "lease_expires_at": "2026-10-30T15:19:37.268266+00:00",
-        "run_id": "41008254453"
       }
     },
     "250": {
@@ -4727,7 +4721,7 @@
       "last_plan": {
         "source_id": "15052978",
         "display_name": "Gran Torino 1080p CZ Dabing",
-        "planned_at": "2026-10-30T08:46:45.029203+00:00"
+        "planned_at": "2026-10-30T09:19:38.770725+00:00"
       },
       "previous_target_id": "30616096",
       "prepared": {
@@ -4735,6 +4729,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T18:13:23.182086+00:00",
         "relay_source_id": "15052978"
+      },
+      "claim": {
+        "worker_id": "8c7cdc708f9c48dbaadcfb265b6b0132-shard-0",
+        "claimed_at": "2026-10-30T09:19:38.911618+00:00",
+        "lease_expires_at": "2026-10-30T15:19:38.911618+00:00",
+        "run_id": "41008254453"
       }
     },
     "214": {
@@ -7747,7 +7747,7 @@
       "last_plan": {
         "source_id": "32946845",
         "display_name": "Cool Hand Luke 4K CZ Dabing",
-        "planned_at": "2026-10-30T09:19:37.173893+00:00"
+        "planned_at": "2026-10-30T09:19:38.816524+00:00"
       }
     },
     "23785": {
@@ -26556,5 +26556,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:19:37.526726+00:00"
+  "updated_at": "2026-10-30T09:19:39.159426+00:00"
 }
