@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T22:54:47.760776+00:00
+Poslední aktualizace (UTC): 2026-10-30T22:54:51.140077+00:00
 
 Zkontrolováno videí: 135. Další stránka kontroly: 0.
 
@@ -61,7 +61,7 @@ Kontrol: 16; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Aladdin (1992) 1080p CZ Titulky](https://prehraj.to/aladdin-1992-1080p-cz-titulky-mkv/9fd03179f8b28213) (ID 30627809) | [Sdílej 15881813](https://sdilej.cz/15881813/aladdin.1992-cz.mkv) | target_unavailable | 2026-10-30T22:54:14.400549+00:00 |
 | [Apollo 11 4K CZ Titulky](https://prehraj.to/apollo-11-4k-cz-titulky-mkv/07ad92fc5ce0455a) (ID 30624527) | [Sdílej 12594213](https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv) | target_unavailable | 2026-10-30T22:45:26.226822+00:00 |
 | [Big Fish 1080p CZ Titulky](https://prehraj.to/big-fish-1080p-cz-titulky-mkv/ca6137a41e883493) (ID 30638440) | [Sdílej 35402034](https://sdilej.cz/35402034/big.fish.2003.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-30T22:44:51.319583+00:00 |
-| [Black Swan 1080p CZ Titulky](https://prehraj.to/black-swan-1080p-cz-titulky-mkv/34449af02c0418ac) (ID 30625850) | [Sdílej 34794426](https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv) | target_unavailable | 2026-10-30T21:54:25.436565+00:00 |
+| [Black Swan 1080p CZ Titulky](https://prehraj.to/black-swan-1080p-cz-titulky-mkv/34449af02c0418ac) (ID 30625850) | [Sdílej 34794426](https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv) | target_unavailable | 2026-10-30T22:54:51.139993+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-30T22:13:37.031641+00:00 |
 | [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-30T22:54:00.784463+00:00 |
 | [Donnie Darko 4K CZ Titulky](https://prehraj.to/donnie-darko-4k-cz-titulky-mkv/2e2a0f583f318abe) (ID 30625425) | [Sdílej 32668635](https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv) | target_unavailable | 2026-10-30T22:54:17.789783+00:00 |
