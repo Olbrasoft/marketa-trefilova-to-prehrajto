@@ -8603,17 +8603,19 @@
       "attempts": []
     },
     "326": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28474479",
+          "target_video_id": "30631639",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:15:23.557001+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28474479",
         "display_name": "Taegukgi (태극기 휘날리며) 1080p CZ Dabing",
         "planned_at": "2026-10-30T11:06:52.759496+00:00"
-      },
-      "claim": {
-        "worker_id": "39df763649b14564a4d7bd74cb2982b3-shard-0",
-        "claimed_at": "2026-10-30T11:06:52.807451+00:00",
-        "lease_expires_at": "2026-10-30T17:06:52.807451+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631639",
       "prepared": {
@@ -27578,5 +27580,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:14:31.529606+00:00"
+  "updated_at": "2026-10-30T11:15:23.557018+00:00"
 }
