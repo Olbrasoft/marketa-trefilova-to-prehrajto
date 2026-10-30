@@ -4911,17 +4911,19 @@
       "attempts": []
     },
     "22488": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29472972",
+          "target_video_id": "30630550",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:04:12.456944+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29472972",
         "display_name": "Stalker (Сталкер) (1979) 1080p CZ Titulky",
         "planned_at": "2026-10-30T09:51:45.135222+00:00"
-      },
-      "claim": {
-        "worker_id": "1e489210e41146be93ad84f0e5154491-shard-0",
-        "claimed_at": "2026-10-30T09:51:45.213813+00:00",
-        "lease_expires_at": "2026-10-30T15:51:45.213813+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30630550",
       "prepared": {
@@ -23718,5 +23720,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:59:06.745157+00:00"
+  "updated_at": "2026-10-30T10:04:12.456966+00:00"
 }
