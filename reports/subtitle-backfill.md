@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T21:54:07.266811+00:00
+Poslední aktualizace (UTC): 2026-10-30T21:54:10.668645+00:00
 
 Zkontrolováno videí: 135. Další stránka kontroly: 0.
 
@@ -90,7 +90,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T20:53:34.143582+00:00 |
 | [The Hobbit: An Unexpected Journey 4K CZ Titulky](https://prehraj.to/the-hobbit-an-unexpected-journey-4k-cz-titulky-mkv/49b464246249a900) (ID 30644749) | [Sdílej 32025992](https://sdilej.cz/32025992/hobit-1-neocekavana-cesta-2012-cz-dabing-2160p-ultra-hd-4k.mkv) | target_unavailable | 2026-10-30T21:02:37.624681+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T21:12:54.097234+00:00 |
-| [The Miracle Worker 1080p CZ Titulky](https://prehraj.to/the-miracle-worker-1080p-cz-titulky-mkv/ed71e6073aebb02d) (ID 30631145) | [Sdílej 27658195](https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv) | target_unavailable | 2026-10-30T20:53:11.309603+00:00 |
+| [The Miracle Worker 1080p CZ Titulky](https://prehraj.to/the-miracle-worker-1080p-cz-titulky-mkv/ed71e6073aebb02d) (ID 30631145) | [Sdílej 27658195](https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv) | target_unavailable | 2026-10-30T21:54:10.668563+00:00 |
 | [The Mirror (Mirror) 1080p CZ Titulky](https://prehraj.to/the-mirror-mirror-1080p-cz-titulky-mkv/722aca69512f2375) (ID 30643725) | [Sdílej 30440919](https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv) | target_unavailable | 2026-10-30T21:12:39.282494+00:00 |
 | [The Princess Bride 1080p CZ Titulky](https://prehraj.to/the-princess-bride-1080p-cz-titulky-mkv/015727ef8d52425b) (ID 30627890) | [Sdílej 13533126](https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv) | target_unavailable | 2026-10-30T20:53:14.797838+00:00 |
 | [The Social Network 1080p CZ Titulky](https://prehraj.to/the-social-network-1080p-cz-titulky-mkv/51e32338898fc295) (ID 30645401) | [Sdílej 33551158](https://sdilej.cz/33551158/socialni-sit-the-social-network-2010-1080p-bluray-cz-dabing.mkv) | target_unavailable | 2026-10-30T21:22:50.399195+00:00 |
