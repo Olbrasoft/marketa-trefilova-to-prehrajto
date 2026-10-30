@@ -11894,17 +11894,19 @@
       }
     },
     "418": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31206412",
+          "target_video_id": "30647082",
+          "permanent": false,
+          "attempted_at": "2026-10-30T22:56:59.656661+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31206412",
         "display_name": "Back to the Future Part II 4K CZ Dabing",
         "planned_at": "2026-10-30T22:41:53.316136+00:00"
-      },
-      "claim": {
-        "worker_id": "53a455bcf6524136ac2bbe39914d74c6-shard-0",
-        "claimed_at": "2026-10-30T22:41:53.431659+00:00",
-        "lease_expires_at": "2026-10-31T04:41:53.431659+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30647082",
       "prepared": {
@@ -31837,5 +31839,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T22:50:38.649740+00:00"
+  "updated_at": "2026-10-30T22:56:59.656678+00:00"
 }
