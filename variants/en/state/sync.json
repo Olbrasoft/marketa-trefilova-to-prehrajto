@@ -1996,6 +1996,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "bde0dd32e3b54d73941610834592e7e8-shard-0",
+        "claimed_at": "2026-10-30T12:33:53.133835+00:00",
+        "lease_expires_at": "2026-10-30T18:33:53.133835+00:00",
+        "run_id": "41033346199"
       }
     },
     "21690": {
@@ -3227,17 +3233,23 @@
           "attempted_at": "2026-10-30T12:00:37.350192+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "7273334",
-        "display_name": "Logan 1080p CZ Titulky",
-        "planned_at": "2026-10-30T12:00:36.272386+00:00"
-      },
       "previous_target_id": "30615338",
-      "prepared": {
+      "upload": {
         "target_video_id": "30615338",
+        "display_name": "Logan 1080p CZ Titulky",
+        "source_id": "7273334",
+        "source_url": "https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv",
+        "source_filename": "Logan.2017.1080p.KORSUB.HDRip.x264.CZTIT.mkv",
         "size_bytes": 3100000000,
-        "prepared_at": "2026-10-29T17:31:08.728166+00:00",
-        "relay_source_id": "7273334"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "en",
+        "language_probability": 0.98439621925354,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0",
+        "uploaded_at": "2026-10-30T12:33:54.114539+00:00"
       }
     },
     "225": {
@@ -5440,7 +5452,7 @@
       "last_plan": {
         "source_id": "32925438",
         "display_name": "Harry Potter and the Prisoner of Azkaban 4K CZ Titulky",
-        "planned_at": "2026-10-30T12:33:51.850776+00:00"
+        "planned_at": "2026-10-30T12:33:53.219364+00:00"
       }
     },
     "383": {
@@ -24852,5 +24864,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T12:33:51.850788+00:00"
+  "updated_at": "2026-10-30T12:33:54.114548+00:00"
 }
