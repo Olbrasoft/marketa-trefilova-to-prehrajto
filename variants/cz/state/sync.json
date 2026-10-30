@@ -7828,17 +7828,19 @@
       }
     },
     "254": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34485246",
+          "target_video_id": "30630272",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:51:35.468752+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34485246",
         "display_name": "JFK 4K CZ Dabing",
         "planned_at": "2026-10-30T09:25:04.168699+00:00"
-      },
-      "claim": {
-        "worker_id": "6a10ccc816e2495eb33ebd51fdfd324f-shard-0",
-        "claimed_at": "2026-10-30T09:25:04.244613+00:00",
-        "lease_expires_at": "2026-10-30T15:25:04.244613+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30630272",
       "prepared": {
@@ -26721,5 +26723,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:51:32.915694+00:00"
+  "updated_at": "2026-10-30T09:51:35.468773+00:00"
 }
