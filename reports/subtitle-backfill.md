@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T22:03:16.683237+00:00
+Poslední aktualizace (UTC): 2026-10-30T22:03:19.794929+00:00
 
 Zkontrolováno videí: 135. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 54, `attached_verified`: 2, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 13, `source_unavailable`: 1, `target_unavailable`: 39, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 55, `attached_verified`: 2, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 13, `source_unavailable`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -87,7 +87,6 @@ Kontrol: 18; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Taegukgi (태극기 휘날리며) 720p CZ Titulky](https://prehraj.to/taegukgi-720p-cz-titulky-mkv/4a834c4e3076e2d5) (ID 30631676) | [Sdílej 15397067](https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv) | target_unavailable | 2026-10-30T21:44:21.959274+00:00 |
 | [The Ascent 1080p CZ Titulky](https://prehraj.to/the-ascent-1080p-cz-titulky-mp4/1336557402a4a4bf) (ID 30631012) | [Sdílej 33856188](https://sdilej.cz/33856188/300-vzestup-rise.mp4) | target_unavailable | 2026-10-30T21:53:35.184588+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T21:44:36.790194+00:00 |
-| [The Hobbit: An Unexpected Journey 4K CZ Titulky](https://prehraj.to/the-hobbit-an-unexpected-journey-4k-cz-titulky-mkv/49b464246249a900) (ID 30644749) | [Sdílej 32025992](https://sdilej.cz/32025992/hobit-1-neocekavana-cesta-2012-cz-dabing-2160p-ultra-hd-4k.mkv) | target_unavailable | 2026-10-30T21:02:37.624681+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T21:12:54.097234+00:00 |
 | [The Miracle Worker 1080p CZ Titulky](https://prehraj.to/the-miracle-worker-1080p-cz-titulky-mkv/ed71e6073aebb02d) (ID 30631145) | [Sdílej 27658195](https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv) | target_unavailable | 2026-10-30T21:54:10.668563+00:00 |
 | [The Mirror (Mirror) 1080p CZ Titulky](https://prehraj.to/the-mirror-mirror-1080p-cz-titulky-mkv/722aca69512f2375) (ID 30643725) | [Sdílej 30440919](https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv) | target_unavailable | 2026-10-30T21:12:39.282494+00:00 |
