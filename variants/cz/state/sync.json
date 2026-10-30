@@ -9399,17 +9399,19 @@
       }
     },
     "388": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32999497",
+          "target_video_id": "30637234",
+          "permanent": false,
+          "attempted_at": "2026-10-30T14:06:50.132198+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32999497",
         "display_name": "In Bruges 4K CZ Dabing",
         "planned_at": "2026-10-30T13:53:51.250602+00:00"
-      },
-      "claim": {
-        "worker_id": "b3f647b4845e4d4d94f39ab3e89496d2-shard-0",
-        "claimed_at": "2026-10-30T13:53:51.303146+00:00",
-        "lease_expires_at": "2026-10-30T19:53:51.303146+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30637234",
       "prepared": {
@@ -29044,5 +29046,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:53:54.593382+00:00"
+  "updated_at": "2026-10-30T14:06:50.132215+00:00"
 }
