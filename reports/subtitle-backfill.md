@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T23:14:14.835554+00:00
+Poslední aktualizace (UTC): 2026-10-30T23:14:19.199621+00:00
 
 Zkontrolováno videí: 135. Další stránka kontroly: 0.
 
@@ -89,7 +89,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Miracle Worker 1080p CZ Titulky](https://prehraj.to/the-miracle-worker-1080p-cz-titulky-mkv/ed71e6073aebb02d) (ID 30631145) | [Sdílej 27658195](https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv) | target_unavailable | 2026-10-30T22:54:36.325380+00:00 |
 | [The Mirror (Mirror) 1080p CZ Titulky](https://prehraj.to/the-mirror-mirror-1080p-cz-titulky-mkv/722aca69512f2375) (ID 30643725) | [Sdílej 30440919](https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv) | target_unavailable | 2026-10-30T23:14:11.499387+00:00 |
 | [The Princess Bride 1080p CZ Titulky](https://prehraj.to/the-princess-bride-1080p-cz-titulky-mkv/015727ef8d52425b) (ID 30627890) | [Sdílej 13533126](https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv) | target_unavailable | 2026-10-30T22:54:39.749006+00:00 |
-| [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-30T22:13:29.773798+00:00 |
+| [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-30T23:14:19.199535+00:00 |
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-30T23:04:05.946116+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-30T22:45:32.994327+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-30T22:54:47.760721+00:00 |
