@@ -92,5 +92,5 @@ Attach subtitles only after target processing has finished.
 | Talvar SD | 30622823 | https://sdilej.cz/34775753/rezavy-mec-2015-.mp4 | Find and add matching Czech subtitles after processing |
 | Raise the Red Lantern (大红灯笼高高挂) 1080p | 30623110 | https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv | Find and add matching Czech subtitles after processing |
 | Pocket Hercules: Naim Süleymanoglu (Cep Herkülü: Naim Süleymanoglu) 720p CZ Titulky | 30623185 | https://sdilej.cz/14004254/cep-herkulu-naim-suleymanoglu-tur-vlozene-titulky-2019-zivotopisny-drama.mkv | Complete: Czech subtitles verified |
-| Guardians of the Galaxy 4K CZ Titulky | 30623940 | https://sdilej.cz/27579007/strazci-galaxie-1-2014-2160p.mkv | Extract Czech track from exact source after processing |
+| Guardians of the Galaxy 4K CZ Titulky | 30623940 | https://sdilej.cz/27579007/strazci-galaxie-1-2014-2160p.mkv | Complete: Czech subtitles verified |
 | Apollo 11 4K CZ Titulky | 30624527 | https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv | Extract Czech track from exact source after processing |
