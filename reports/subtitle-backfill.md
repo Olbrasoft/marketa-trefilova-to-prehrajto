@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T01:25:48.893696+00:00
+Poslední aktualizace (UTC): 2026-10-30T01:25:52.294044+00:00
 
 Zkontrolováno videí: 88. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 32, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `pending`: 1, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 6, `target_unavailable`: 29, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 32, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 6, `target_unavailable`: 30, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -58,6 +58,7 @@ Kontrol: 10; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-30T01:16:02.443036+00:00 |
 | [Ordet 1080p](https://prehraj.to/ordet-1080p-mkv/7699c14594ec8709) (ID 30622762) | [Sdílej 30646256](https://sdilej.cz/30646256/ordet.1955.mkv) | target_unavailable | 2026-10-30T01:05:24.212972+00:00 |
 | [Paris, Texas 1080p CZ Titulky](https://prehraj.to/paris-texas-1080p-cz-titulky-mkv/28574980ae20fd5d) (ID 30622275) | [Sdílej 15641041](https://sdilej.cz/15641041/paris-texas-1984-1080p-cz-titl.mkv) | target_unavailable | 2026-10-30T00:34:45.886430+00:00 |
+| [Pocket Hercules: Naim Süleymanoglu (Cep Herkülü: Naim Süleymanoglu) 720p CZ Titulky](https://prehraj.to/pocket-hercules-naim-sueleymanoglu-cep-herkuelue-naim-sueleymanoglu-720p-cz-titulky-mkv/c4c3813db3ce03fa) (ID 30623185) | [Sdílej 14004254](https://sdilej.cz/14004254/cep-herkulu-naim-suleymanoglu-tur-vlozene-titulky-2019-zivotopisny-drama.mkv) | target_unavailable | 2026-10-30T01:25:52.293982+00:00 |
 | [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | target_unavailable | 2026-10-30T01:25:48.893630+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-30T01:15:57.794985+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | target_unavailable | 2026-10-30T00:55:17.371113+00:00 |
