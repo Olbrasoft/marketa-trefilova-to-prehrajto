@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T02:29:52.596079+00:00
+Poslední aktualizace (UTC): 2026-10-30T02:29:55.968912+00:00
 
 Zkontrolováno videí: 89. Další stránka kontroly: 0.
 
@@ -65,7 +65,7 @@ Kontrol: 9; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-30T01:25:59.770753+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T01:46:52.771932+00:00 |
 | [The Grapes of Wrath 1080p](https://prehraj.to/the-grapes-of-wrath-1080p-mp4/5407d3be76b4fb11) (ID 30622415) | [Sdílej 34770809](https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4) | source_unavailable | 2026-10-30T01:46:40.329356+00:00 |
-| [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T01:25:55.737496+00:00 |
+| [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T02:29:55.968849+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T01:26:10.056521+00:00 |
 | [The Sting 1080p CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-30T01:59:37.176437+00:00 |
 | [The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky](https://prehraj.to/the-voice-of-hind-rajab-1080p-cz-titulky-mkv/e21354a981f1936f) (ID 30622539) | [Sdílej 34845555](https://sdilej.cz/34845555/the-voice-of-hind-rajab-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-10-30T01:59:20.720092+00:00 |
