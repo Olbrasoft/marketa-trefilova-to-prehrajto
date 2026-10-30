@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:43:54.782758+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:43:58.185909+00:00
 
 Zkontrolováno videí: 118. Další stránka kontroly: 0.
 
@@ -77,7 +77,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Sin City 1080p CZ Titulky](https://prehraj.to/sin-city-1080p-cz-titulky-mkv/5f3291cc82332fef) (ID 30626361) | [Sdílej 25502477](https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv) | target_unavailable | 2026-10-30T16:23:49.114556+00:00 |
 | [Spider-Man: Brand New Day 1440p CZ Titulky](https://prehraj.to/spider-man-brand-new-day-1440p-cz-titulky-mkv/95c954bea7a30666) (ID 30628930) | [Sdílej 35246502](https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-30T16:13:45.697396+00:00 |
 | [Taegukgi (태극기 휘날리며) 720p CZ Titulky](https://prehraj.to/taegukgi-720p-cz-titulky-mkv/4a834c4e3076e2d5) (ID 30631676) | [Sdílej 15397067](https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv) | target_unavailable | 2026-10-30T16:23:40.195325+00:00 |
-| [The Ascent 1080p CZ Titulky](https://prehraj.to/the-ascent-1080p-cz-titulky-mp4/1336557402a4a4bf) (ID 30631012) | [Sdílej 33856188](https://sdilej.cz/33856188/300-vzestup-rise.mp4) | target_unavailable | 2026-10-30T15:43:09.752254+00:00 |
+| [The Ascent 1080p CZ Titulky](https://prehraj.to/the-ascent-1080p-cz-titulky-mp4/1336557402a4a4bf) (ID 30631012) | [Sdílej 33856188](https://sdilej.cz/33856188/300-vzestup-rise.mp4) | target_unavailable | 2026-10-30T16:43:58.185824+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T16:23:58.299436+00:00 |
 | [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T15:44:13.483757+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T16:03:41.648177+00:00 |
