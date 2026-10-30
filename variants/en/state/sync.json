@@ -5837,17 +5837,19 @@
       "attempts": []
     },
     "362": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8625620",
+          "target_video_id": "30640621",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:32:42.042757+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8625620",
         "display_name": "Wonder 1080p CZ Titulky",
         "planned_at": "2026-10-30T17:25:16.384655+00:00"
-      },
-      "claim": {
-        "worker_id": "22742b3d610d439da5285ab4b8280ea6-shard-0",
-        "claimed_at": "2026-10-30T17:25:16.414822+00:00",
-        "lease_expires_at": "2026-10-30T23:25:16.414822+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30640621",
       "prepared": {
@@ -25754,5 +25756,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:25:37.517859+00:00"
+  "updated_at": "2026-10-30T17:32:42.042779+00:00"
 }
