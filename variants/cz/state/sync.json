@@ -10178,17 +10178,19 @@
       }
     },
     "384": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34850708",
+          "target_video_id": "30641671",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:35:24.084991+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34850708",
         "display_name": "The Raid 2 (The Raid 2: Berandal) 4K CZ Dabing",
         "planned_at": "2026-10-30T18:15:16.222766+00:00"
-      },
-      "claim": {
-        "worker_id": "3c1a680eb6d54cc2abc8ad220424663e-shard-0",
-        "claimed_at": "2026-10-30T18:15:16.335878+00:00",
-        "lease_expires_at": "2026-10-31T00:15:16.335878+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30641671",
       "prepared": {
@@ -30180,5 +30182,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:34:14.726588+00:00"
+  "updated_at": "2026-10-30T18:35:24.085000+00:00"
 }
