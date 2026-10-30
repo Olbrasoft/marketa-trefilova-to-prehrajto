@@ -6614,17 +6614,19 @@
       "attempts": []
     },
     "31096": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21918113",
+          "target_video_id": "30645461",
+          "permanent": false,
+          "attempted_at": "2026-10-30T21:29:48.654754+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21918113",
         "display_name": "Kiss the Ground 1080p CZ Titulky",
         "planned_at": "2026-10-30T21:21:23.184517+00:00"
-      },
-      "claim": {
-        "worker_id": "57b8b3d6f5794e79b247463a80bd1133-shard-0",
-        "claimed_at": "2026-10-30T21:21:23.218156+00:00",
-        "lease_expires_at": "2026-10-31T03:21:23.218156+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30645461",
       "prepared": {
@@ -26451,5 +26453,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:21:26.187380+00:00"
+  "updated_at": "2026-10-30T21:29:48.654770+00:00"
 }
