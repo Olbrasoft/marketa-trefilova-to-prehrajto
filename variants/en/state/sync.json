@@ -5176,17 +5176,19 @@
       "attempts": []
     },
     "20578": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6560926",
+          "target_video_id": "30631572",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:08:49.259768+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6560926",
         "display_name": "Going Clear: Scientology, Hollywood, and the Prison of Belief (Going Clear: Scientology and the Prison of Belief) 720p CZ Titulky",
         "planned_at": "2026-10-30T11:02:30.691105+00:00"
-      },
-      "claim": {
-        "worker_id": "3dd0ab332cc140ddb239dda5e63158c3-shard-0",
-        "claimed_at": "2026-10-30T11:02:30.706376+00:00",
-        "lease_expires_at": "2026-10-30T17:02:30.706376+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631572",
       "prepared": {
@@ -24121,5 +24123,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:06:52.792897+00:00"
+  "updated_at": "2026-10-30T11:08:49.259789+00:00"
 }
