@@ -8047,6 +8047,13 @@
           "target_video_id": "30630815",
           "permanent": false,
           "attempted_at": "2026-10-30T10:16:03.554880+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29402034",
+          "target_video_id": "30630815",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:48:41.646443+00:00"
         }
       ],
       "last_plan": {
@@ -8057,7 +8064,7 @@
       "previous_target_id": "30630815",
       "prepared": {
         "target_video_id": "30630815",
-        "size_bytes": 2165513074,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-10-30T10:10:26.243503+00:00",
         "relay_source_id": "29402034"
       }
@@ -8366,6 +8373,12 @@
         "source_id": "30780457",
         "display_name": "Le Samouraï 1080p CZ Dabing",
         "planned_at": "2026-10-30T10:48:39.491777+00:00"
+      },
+      "claim": {
+        "worker_id": "ff3ed9625ce148cfb48162bb031178dd-shard-0",
+        "claimed_at": "2026-10-30T10:48:40.764400+00:00",
+        "lease_expires_at": "2026-10-30T16:48:40.764400+00:00",
+        "run_id": "41033346199"
       }
     },
     "28874": {
@@ -8376,7 +8389,13 @@
       "last_plan": {
         "source_id": "33598219",
         "display_name": "Underground (Подземље) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T10:48:39.506671+00:00"
+        "planned_at": "2026-10-30T10:48:40.814835+00:00"
+      },
+      "claim": {
+        "worker_id": "4982317b3f1c41c3a3e2a7a5918c77ae-shard-0",
+        "claimed_at": "2026-10-30T10:48:40.860289+00:00",
+        "lease_expires_at": "2026-10-30T16:48:40.860289+00:00",
+        "run_id": "41033346199"
       }
     },
     "33076": {
@@ -27356,5 +27375,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:48:39.506678+00:00"
+  "updated_at": "2026-10-30T10:48:41.646460+00:00"
 }
