@@ -6450,17 +6450,19 @@
       }
     },
     "305": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33823304",
+          "target_video_id": "30625320",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:09:29.751473+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33823304",
         "display_name": "Donnie Darko 4K CZ Dabing",
         "planned_at": "2026-10-30T03:55:24.656083+00:00"
-      },
-      "claim": {
-        "worker_id": "f3d75874038d4461a388051d658df460-shard-0",
-        "claimed_at": "2026-10-30T03:55:24.715257+00:00",
-        "lease_expires_at": "2026-10-30T09:55:24.715257+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30625320",
       "prepared": {
@@ -23919,5 +23921,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:00:54.235429+00:00"
+  "updated_at": "2026-10-30T04:09:29.751489+00:00"
 }
