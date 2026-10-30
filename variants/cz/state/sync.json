@@ -7662,17 +7662,19 @@
       }
     },
     "281": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34355636",
+          "target_video_id": "30629933",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:17:23.044261+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355636",
         "display_name": "Cinderella Man 4K CZ Dabing",
         "planned_at": "2026-10-30T08:58:27.517167+00:00"
-      },
-      "claim": {
-        "worker_id": "df52c64955f34fd5acbbf6e6395a07bd-shard-0",
-        "claimed_at": "2026-10-30T08:58:27.588831+00:00",
-        "lease_expires_at": "2026-10-30T14:58:27.588831+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30629933",
       "prepared": {
@@ -26238,5 +26240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:14:20.284870+00:00"
+  "updated_at": "2026-10-30T09:17:23.044281+00:00"
 }
