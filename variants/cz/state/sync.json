@@ -9754,24 +9754,31 @@
       }
     },
     "12356": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29658934",
+          "reason": "Request failed for https://sdilej.cz/29658934/boogie.nights.1997.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T16:56:58.317366+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29658934",
         "display_name": "Boogie Nights 1080p CZ Dabing",
         "planned_at": "2026-10-30T16:56:12.583940+00:00"
-      },
-      "claim": {
-        "worker_id": "0746fcb0cb7e4cd2a48b30d8dfee9fb5-shard-0",
-        "claimed_at": "2026-10-30T16:56:12.674418+00:00",
-        "lease_expires_at": "2026-10-30T22:56:12.674418+00:00",
-        "run_id": "41071477533"
       }
     },
     "31836": {
       "attempts": []
     },
     "334": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29005098",
+        "display_name": "The Holdovers 4K CZ Dabing",
+        "planned_at": "2026-10-30T16:56:57.535961+00:00"
+      }
     },
     "12117": {
       "attempts": []
@@ -29569,5 +29576,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T16:56:56.039024+00:00"
+  "updated_at": "2026-10-30T16:56:58.317385+00:00"
 }
