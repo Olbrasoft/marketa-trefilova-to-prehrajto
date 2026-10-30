@@ -6346,17 +6346,19 @@
       "attempts": []
     },
     "22625": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34483131",
+          "target_video_id": "30644027",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:30:53.875562+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34483131",
         "display_name": "Fitzcarraldo 720p CZ Titulky",
         "planned_at": "2026-10-30T20:23:38.204942+00:00"
-      },
-      "claim": {
-        "worker_id": "7bc3f5f152db455ca1fb2173f57ce18e-shard-0",
-        "claimed_at": "2026-10-30T20:23:38.261831+00:00",
-        "lease_expires_at": "2026-10-31T02:23:38.261831+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30644027",
       "prepared": {
@@ -26293,5 +26295,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:28:55.156322+00:00"
+  "updated_at": "2026-10-30T20:30:53.875578+00:00"
 }
