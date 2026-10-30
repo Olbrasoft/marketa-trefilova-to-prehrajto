@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-10-30T16:48:24.855128+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-10-30T17:22:31.056687+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-10-30T18:08:52.808714+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:43:39.392448+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "fe54068336d34d04a01cae51cdd1b100-shard-0",
-        "claimed_at": "2026-10-30T18:43:37.070327+00:00",
-        "lease_expires_at": "2026-10-31T00:43:37.070327+00:00",
-        "run_id": "41071477533"
       }
     },
     "37290": {
@@ -5126,7 +5120,7 @@
       "last_plan": {
         "source_id": "13100159",
         "display_name": "Ford v Ferrari 4K CZ Dabing",
-        "planned_at": "2026-10-30T18:08:52.851244+00:00"
+        "planned_at": "2026-10-30T18:43:39.077357+00:00"
       },
       "previous_target_id": "30619997",
       "prepared": {
@@ -5134,6 +5128,12 @@
         "size_bytes": 9200000000,
         "prepared_at": "2026-10-29T21:44:26.158133+00:00",
         "relay_source_id": "13100159"
+      },
+      "claim": {
+        "worker_id": "ceef00c514b347c284b99dc28aa85ec6-shard-0",
+        "claimed_at": "2026-10-30T18:43:39.233507+00:00",
+        "lease_expires_at": "2026-10-31T00:43:39.233507+00:00",
+        "run_id": "41071477533"
       }
     },
     "213": {
@@ -10279,7 +10279,7 @@
       "last_plan": {
         "source_id": "33251603",
         "display_name": "Talk to Her 1080p CZ Dabing",
-        "planned_at": "2026-10-30T18:43:36.976078+00:00"
+        "planned_at": "2026-10-30T18:43:39.137186+00:00"
       }
     },
     "21340": {
@@ -30231,5 +30231,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:43:37.880347+00:00"
+  "updated_at": "2026-10-30T18:43:39.392461+00:00"
 }
