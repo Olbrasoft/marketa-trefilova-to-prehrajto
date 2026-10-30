@@ -4353,17 +4353,19 @@
       "attempts": []
     },
     "317": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34794426",
+          "target_video_id": "30625850",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:43:32.407379+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34794426",
         "display_name": "Black Swan 1080p CZ Titulky",
         "planned_at": "2026-10-30T04:24:57.154976+00:00"
-      },
-      "claim": {
-        "worker_id": "aeff91df67424641bd828407b5e05e63-shard-0",
-        "claimed_at": "2026-10-30T04:24:57.174557+00:00",
-        "lease_expires_at": "2026-10-30T10:24:57.174557+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30625850",
       "prepared": {
@@ -21933,5 +21935,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:41:59.735218+00:00"
+  "updated_at": "2026-10-30T04:43:32.407394+00:00"
 }
