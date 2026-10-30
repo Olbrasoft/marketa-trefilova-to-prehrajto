@@ -118,3 +118,4 @@ Attach subtitles only after target processing has finished.
 | Knives Out 1080p CZ Titulky | 30632412 | https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Arrival 1080p CZ Titulky | 30632569 | https://sdilej.cz/34955871/prvy-kontakt-arrival-2016-en.cz.sk-bdrip-hevc-1080p-nmk.mkv | Complete: Czech subtitles verified |
 | Harry Potter and the Prisoner of Azkaban 4K CZ Titulky | 30633152 | https://sdilej.cz/32925438/harry-potter-a-vezen-z-azkabanu-cz-sk-en-radecek.mkv | Extract Czech track from exact source after processing |
+| Taylor Swift: The Eras Tour (TAYLOR SWIFT / THE ERAS TOUR) 1080p CZ Titulky | 30635414 | https://sdilej.cz/28373728/taylor.swift.the.eras.tour.2023.taylor-s.version.1080p.10bit.webrip.6ch.x265.hevc-psa-sk-a-cz-titulky.mkv | Extract Czech track from exact source after processing |
