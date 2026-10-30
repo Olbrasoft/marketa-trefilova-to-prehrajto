@@ -9879,11 +9879,19 @@
       }
     },
     "425": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29009742",
+          "reason": "Source detail has no authenticated download link; source_id=29009742",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:25:11.153841+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29009742",
         "display_name": "Puss in Boots: The Last Wish 4K CZ Dabing",
-        "planned_at": "2026-10-30T17:25:01.819366+00:00"
+        "planned_at": "2026-10-30T17:25:08.633814+00:00"
       }
     },
     "362": {
@@ -29781,5 +29789,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:25:01.819382+00:00"
+  "updated_at": "2026-10-30T17:25:11.153860+00:00"
 }
