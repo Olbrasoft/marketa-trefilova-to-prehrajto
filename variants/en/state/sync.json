@@ -4215,17 +4215,19 @@
       "attempts": []
     },
     "302": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27579007",
+          "target_video_id": "30623940",
+          "permanent": false,
+          "attempted_at": "2026-10-30T03:08:01.636456+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27579007",
         "display_name": "Guardians of the Galaxy 4K CZ Titulky",
         "planned_at": "2026-10-30T02:17:35.167258+00:00"
-      },
-      "claim": {
-        "worker_id": "1c208edea6464bca8d301b0335371971-shard-0",
-        "claimed_at": "2026-10-30T02:17:35.185158+00:00",
-        "lease_expires_at": "2026-10-30T08:17:35.185158+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30623940",
       "prepared": {
@@ -21588,5 +21590,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:57:32.293654+00:00"
+  "updated_at": "2026-10-30T03:08:01.636473+00:00"
 }
