@@ -6541,17 +6541,19 @@
       }
     },
     "317": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32455047",
+          "target_video_id": "30625836",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:31:53.670339+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32455047",
         "display_name": "Black Swan 1080p CZ Dabing",
         "planned_at": "2026-10-30T04:24:20.695219+00:00"
-      },
-      "claim": {
-        "worker_id": "57e68941c7384aa283010943c37910f4-shard-0",
-        "claimed_at": "2026-10-30T04:24:20.756640+00:00",
-        "lease_expires_at": "2026-10-30T10:24:20.756640+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30625836",
       "prepared": {
@@ -24121,5 +24123,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:24:57.111882+00:00"
+  "updated_at": "2026-10-30T04:31:53.670354+00:00"
 }
