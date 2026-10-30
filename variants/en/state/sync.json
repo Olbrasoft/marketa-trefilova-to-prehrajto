@@ -5795,17 +5795,19 @@
       "attempts": []
     },
     "12117": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30979686",
+          "target_video_id": "30640322",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:14:04.093341+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30979686",
         "display_name": "True Romance 1080p CZ Titulky",
         "planned_at": "2026-10-30T17:08:28.319318+00:00"
-      },
-      "claim": {
-        "worker_id": "89a4522ec2674a67a417ae19cb46fdeb-shard-0",
-        "claimed_at": "2026-10-30T17:08:28.347462+00:00",
-        "lease_expires_at": "2026-10-30T23:08:28.347462+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30640322",
       "prepared": {
@@ -25608,5 +25610,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:08:31.619704+00:00"
+  "updated_at": "2026-10-30T17:14:04.093357+00:00"
 }
