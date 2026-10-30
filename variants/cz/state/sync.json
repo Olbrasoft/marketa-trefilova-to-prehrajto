@@ -6244,17 +6244,19 @@
       }
     },
     "312": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32449184",
+          "target_video_id": "30623525",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:15:58.471478+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32449184",
         "display_name": "Titanic (1997) 4K CZ Dabing",
         "planned_at": "2026-10-30T01:49:24.600709+00:00"
-      },
-      "claim": {
-        "worker_id": "79d9d408973e4fffb568cf61b0e9f712-shard-0",
-        "claimed_at": "2026-10-30T01:49:24.659563+00:00",
-        "lease_expires_at": "2026-10-30T07:49:24.659563+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30623525",
       "prepared": {
@@ -23498,5 +23500,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T01:58:28.890979+00:00"
+  "updated_at": "2026-10-30T02:15:58.471494+00:00"
 }
