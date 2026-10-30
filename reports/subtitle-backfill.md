@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T20:02:01.171980+00:00
+Poslední aktualizace (UTC): 2026-10-30T20:02:04.543189+00:00
 
 Zkontrolováno videí: 127. Další stránka kontroly: 0.
 
@@ -77,7 +77,7 @@ Kontrol: 19; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | target_unavailable | 2026-10-30T19:32:19.284648+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-30T19:42:00.391537+00:00 |
 | [Sin City 1080p CZ Titulky](https://prehraj.to/sin-city-1080p-cz-titulky-mkv/5f3291cc82332fef) (ID 30626361) | [Sdílej 25502477](https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv) | target_unavailable | 2026-10-30T19:32:00.000805+00:00 |
-| [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-30T18:55:49.855796+00:00 |
+| [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-30T20:02:04.543117+00:00 |
 | [Spider-Man: Brand New Day 1440p CZ Titulky](https://prehraj.to/spider-man-brand-new-day-1440p-cz-titulky-mkv/95c954bea7a30666) (ID 30628930) | [Sdílej 35246502](https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-30T19:22:49.453078+00:00 |
 | [Strangers on a Train 1080p CZ Titulky](https://prehraj.to/strangers-on-a-train-1080p-cz-titulky-mkv/13df8be22e67b465) (ID 30641584) | [Sdílej 18087403](https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv) | source_unavailable | 2026-10-30T19:22:32.483642+00:00 |
 | [Taegukgi (태극기 휘날리며) 720p CZ Titulky](https://prehraj.to/taegukgi-720p-cz-titulky-mkv/4a834c4e3076e2d5) (ID 30631676) | [Sdílej 15397067](https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv) | target_unavailable | 2026-10-30T19:31:52.931570+00:00 |
