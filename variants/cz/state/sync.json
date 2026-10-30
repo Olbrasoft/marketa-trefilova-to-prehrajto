@@ -11677,11 +11677,19 @@
       }
     },
     "475": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33589416",
+          "reason": "Request failed for https://sdilej.cz/33589416/rogue-one-star-wars-story-2016-cz-dabing-2160p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T21:46:01.225999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33589416",
         "display_name": "Rogue One: A Star Wars Story 4K CZ Dabing",
-        "planned_at": "2026-10-30T21:45:13.157550+00:00"
+        "planned_at": "2026-10-30T21:45:15.270496+00:00"
       }
     },
     "423": {
@@ -31489,5 +31497,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:45:14.114021+00:00"
+  "updated_at": "2026-10-30T21:46:01.226018+00:00"
 }
