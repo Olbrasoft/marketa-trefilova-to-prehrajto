@@ -11452,17 +11452,19 @@
       }
     },
     "466": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31966965",
+          "target_video_id": "30644706",
+          "permanent": false,
+          "attempted_at": "2026-10-30T21:13:39.227981+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31966965",
         "display_name": "Captain America: Civil War 4K CZ Dabing",
         "planned_at": "2026-10-30T20:55:29.609453+00:00"
-      },
-      "claim": {
-        "worker_id": "5a67f01032904a76b929acf17b7ec4d6-shard-0",
-        "claimed_at": "2026-10-30T20:55:29.799901+00:00",
-        "lease_expires_at": "2026-10-31T02:55:29.799901+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30644706",
       "prepared": {
@@ -31304,5 +31306,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:57:25.154082+00:00"
+  "updated_at": "2026-10-30T21:13:39.227997+00:00"
 }
