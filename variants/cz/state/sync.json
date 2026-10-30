@@ -11473,11 +11473,19 @@
       }
     },
     "422": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32025992",
+          "reason": "Request failed for https://sdilej.cz/32025992/hobit-1-neocekavana-cesta-2012-cz-dabing-2160p-ultra-hd-4k.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:57:23.649418+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32025992",
         "display_name": "The Hobbit: An Unexpected Journey 4K CZ Dabing",
-        "planned_at": "2026-10-30T20:56:35.535990+00:00"
+        "planned_at": "2026-10-30T20:56:37.887671+00:00"
       }
     },
     "450": {
@@ -31291,5 +31299,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:56:36.614853+00:00"
+  "updated_at": "2026-10-30T20:57:23.649437+00:00"
 }
