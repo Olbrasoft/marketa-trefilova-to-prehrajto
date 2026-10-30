@@ -11821,17 +11821,19 @@
       }
     },
     "496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19445104",
+          "target_video_id": "30646629",
+          "permanent": false,
+          "attempted_at": "2026-10-30T22:30:13.138113+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19445104",
         "display_name": "Nightcrawler 1080p CZ Dabing",
         "planned_at": "2026-10-30T22:23:14.510801+00:00"
-      },
-      "claim": {
-        "worker_id": "1603f9a4a8234c8eb2a1616ca987da3d-shard-0",
-        "claimed_at": "2026-10-30T22:23:14.614734+00:00",
-        "lease_expires_at": "2026-10-31T04:23:14.614734+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30646629",
       "prepared": {
@@ -31739,5 +31741,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T22:23:17.868472+00:00"
+  "updated_at": "2026-10-30T22:30:13.138130+00:00"
 }
