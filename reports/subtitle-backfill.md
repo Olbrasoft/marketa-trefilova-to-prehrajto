@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T07:02:29.867284+00:00
+Poslední aktualizace (UTC): 2026-10-30T07:02:33.420813+00:00
 
 Zkontrolováno videí: 99. Další stránka kontroly: 0.
 
@@ -61,7 +61,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky](https://prehraj.to/gintama-the-final-the-final-1080p-cz-titulky-mkv/8cd41d921a5921c1) (ID 30627689) | [Sdílej 35036692](https://sdilej.cz/35036692/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo.mkv) | target_unavailable | 2026-10-30T06:11:50.353882+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-30T06:22:24.145980+00:00 |
 | [Into the Wild 1080p CZ Titulky](https://prehraj.to/into-the-wild-1080p-cz-titulky-mkv/fc7e275ee0f35cc1) (ID 30626855) | [Sdílej 28447536](https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv) | target_unavailable | 2026-10-30T06:22:13.748285+00:00 |
-| [Logan 1080p CZ Titulky](https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0) (ID 30615338) | [Sdílej 7273334](https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv) | target_unavailable | 2026-10-30T05:52:52.593737+00:00 |
+| [Logan 1080p CZ Titulky](https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0) (ID 30615338) | [Sdílej 7273334](https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv) | target_unavailable | 2026-10-30T07:02:33.420734+00:00 |
 | [Memories of Murder (살인의 추억) 1080p CZ Titulky](https://prehraj.to/memories-of-murder-1080p-cz-titulky-mkv/ffbfcc59dffdab26) (ID 30621421) | [Sdílej 17328714](https://sdilej.cz/17328714/memories-of-murder.2003.bdrip-1080p-hevc-eac3.cz.tit.mkv) | target_unavailable | 2026-10-30T06:52:21.352228+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-10-30T06:02:04.197466+00:00 |
 | [My Neighbor Totoro (となりのトトロ) 1080p](https://prehraj.to/my-neighbor-totoro-1080p-mkv/39fb70e4a11a0914) (ID 30620967) | [Sdílej 32534147](https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv) | target_unavailable | 2026-10-30T06:22:06.464997+00:00 |
