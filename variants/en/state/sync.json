@@ -2566,13 +2566,6 @@
           "source_id": "14187973",
           "target_video_id": "30610902",
           "permanent": false,
-          "attempted_at": "2026-10-30T00:29:30.553021+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14187973",
-          "target_video_id": "30610902",
-          "permanent": false,
           "attempted_at": "2026-10-30T01:00:14.762355+00:00"
         },
         {
@@ -2581,6 +2574,13 @@
           "target_video_id": "30610902",
           "permanent": false,
           "attempted_at": "2026-10-30T01:34:20.332419+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14187973",
+          "target_video_id": "30610902",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:16:52.736382+00:00"
         }
       ],
       "last_plan": {
@@ -2594,12 +2594,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-10-29T13:01:32.391089+00:00",
         "relay_source_id": "14187973"
-      },
-      "claim": {
-        "worker_id": "308536696a594360af831903cca27fa5-shard-0",
-        "claimed_at": "2026-10-30T02:16:50.982048+00:00",
-        "lease_expires_at": "2026-10-30T08:16:50.982048+00:00",
-        "run_id": "40985687737"
       }
     },
     "181": {
@@ -2641,7 +2635,7 @@
       "last_plan": {
         "source_id": "8659765",
         "display_name": "The Sting 1080p CZ Titulky",
-        "planned_at": "2026-10-30T01:34:21.447470+00:00"
+        "planned_at": "2026-10-30T02:16:52.423407+00:00"
       },
       "previous_target_id": "30611497",
       "prepared": {
@@ -2649,6 +2643,12 @@
         "size_bytes": 16600000000,
         "prepared_at": "2026-10-29T13:36:35.946178+00:00",
         "relay_source_id": "8659765"
+      },
+      "claim": {
+        "worker_id": "d29f30e4d7c1411bb5d7aaa8d9a1b985-shard-0",
+        "claimed_at": "2026-10-30T02:16:52.475027+00:00",
+        "lease_expires_at": "2026-10-30T08:16:52.475027+00:00",
+        "run_id": "40985687737"
       }
     },
     "128": {
@@ -4204,7 +4204,7 @@
       "last_plan": {
         "source_id": "27579007",
         "display_name": "Guardians of the Galaxy 4K CZ Titulky",
-        "planned_at": "2026-10-30T02:16:50.964074+00:00"
+        "planned_at": "2026-10-30T02:16:52.456030+00:00"
       }
     },
     "303": {
@@ -21430,5 +21430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:16:51.195125+00:00"
+  "updated_at": "2026-10-30T02:16:52.736399+00:00"
 }
