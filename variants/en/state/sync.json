@@ -5604,17 +5604,19 @@
       "attempts": []
     },
     "341": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26457098",
+          "target_video_id": "30638438",
+          "permanent": false,
+          "attempted_at": "2026-10-30T16:21:34.305522+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26457098",
         "display_name": "Guardians of the Galaxy Vol. 3 4K CZ Titulky",
         "planned_at": "2026-10-30T15:05:07.586973+00:00"
-      },
-      "claim": {
-        "worker_id": "a70cd7908b854746bf1d2c7dd0924006-shard-0",
-        "claimed_at": "2026-10-30T15:05:07.671259+00:00",
-        "lease_expires_at": "2026-10-30T21:05:07.671259+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30638438",
       "prepared": {
@@ -25457,5 +25459,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T16:17:59.950829+00:00"
+  "updated_at": "2026-10-30T16:21:34.305540+00:00"
 }
