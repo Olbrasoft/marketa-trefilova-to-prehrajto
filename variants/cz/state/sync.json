@@ -11275,17 +11275,19 @@
       }
     },
     "11018": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34672885",
+          "target_video_id": "30644234",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:41:46.691585+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34672885",
         "display_name": "Le Cercle rouge 1080p CZ Dabing",
         "planned_at": "2026-10-30T20:34:21.450152+00:00"
-      },
-      "claim": {
-        "worker_id": "2da31d4335214fe0b9665519dccd099c-shard-0",
-        "claimed_at": "2026-10-30T20:34:21.565384+00:00",
-        "lease_expires_at": "2026-10-31T02:34:21.565384+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30644234",
       "prepared": {
@@ -11345,7 +11347,7 @@
       "last_plan": {
         "source_id": "34470265",
         "display_name": "The Cremator (Spalovač mrtvol) 720p CZ Dabing",
-        "planned_at": "2026-10-30T20:41:26.920147+00:00"
+        "planned_at": "2026-10-30T20:41:29.850117+00:00"
       }
     },
     "32953": {
@@ -31192,5 +31194,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:41:28.568221+00:00"
+  "updated_at": "2026-10-30T20:41:46.691602+00:00"
 }
