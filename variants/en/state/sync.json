@@ -4607,17 +4607,19 @@
       }
     },
     "257": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13533126",
+          "target_video_id": "30627890",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:47:17.631344+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13533126",
         "display_name": "The Princess Bride 1080p CZ Titulky",
         "planned_at": "2026-10-30T06:24:40.798147+00:00"
-      },
-      "claim": {
-        "worker_id": "f3965bfa0cc44563963c3d639bb7351b-shard-0",
-        "claimed_at": "2026-10-30T06:24:40.821594+00:00",
-        "lease_expires_at": "2026-10-30T12:24:40.821594+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30627890",
       "prepared": {
@@ -22619,5 +22621,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:30:25.568429+00:00"
+  "updated_at": "2026-10-30T06:47:17.631363+00:00"
 }
