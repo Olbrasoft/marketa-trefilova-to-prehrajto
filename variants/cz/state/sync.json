@@ -9306,17 +9306,19 @@
       }
     },
     "386": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25932899",
+          "target_video_id": "30636649",
+          "permanent": false,
+          "attempted_at": "2026-10-30T13:40:59.011248+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25932899",
         "display_name": "Dallas Buyers Club 720p CZ Dabing",
         "planned_at": "2026-10-30T13:30:48.623727+00:00"
-      },
-      "claim": {
-        "worker_id": "f6c7cde84f59474a8abfb93653dde65e-shard-0",
-        "claimed_at": "2026-10-30T13:30:48.677128+00:00",
-        "lease_expires_at": "2026-10-30T19:30:48.677128+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30636649",
       "prepared": {
@@ -28960,5 +28962,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:30:52.667662+00:00"
+  "updated_at": "2026-10-30T13:40:59.011266+00:00"
 }
