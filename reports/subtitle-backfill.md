@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T01:15:30.620350+00:00
+Poslední aktualizace (UTC): 2026-10-30T01:15:40.214617+00:00
 
 Zkontrolováno videí: 86. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 32, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `pending`: 1, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 4, `source_unavailable`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 32, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 5, `source_unavailable`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -27,6 +27,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [PK (पीके) SD](https://prehraj.to/pk-sd-mp4/9e12e2312e1b1970) (ID 30622086) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T00:24:43.694667+00:00 |
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
 | [Seven (Se7en) 1080p CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:48.283303+00:00 |
+| [Talvar SD](https://prehraj.to/talvar-sd-mp4/f17e203bdb92af8d) (ID 30622823) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:15:40.214453+00:00 |
 | [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T22:13:30.428521+00:00 |
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T18:47:50.035910+00:00 |
 | [The Departed 1080p CZ Titulky](https://prehraj.to/the-departed-cz-titulky-mkv/4eb25d96aefc80ce) (ID 30589626) | [Sdílej 23098497](https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T10:32:16.364862+00:00 |
