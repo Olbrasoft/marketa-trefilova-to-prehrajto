@@ -10000,17 +10000,19 @@
       }
     },
     "12244": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31003254",
+          "target_video_id": "30641107",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:49:08.914174+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31003254",
         "display_name": "Ghost in the Shell (1995) 720p CZ Dabing",
         "planned_at": "2026-10-30T17:40:15.361392+00:00"
-      },
-      "claim": {
-        "worker_id": "c8e84d7fcf4a4633829590b82f0dfc11-shard-0",
-        "claimed_at": "2026-10-30T17:40:15.460365+00:00",
-        "lease_expires_at": "2026-10-30T23:40:15.460365+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30641107",
       "prepared": {
@@ -10048,7 +10050,7 @@
       "last_plan": {
         "source_id": "32983044",
         "display_name": "Rope 4K CZ Dabing",
-        "planned_at": "2026-10-30T17:49:05.061010+00:00"
+        "planned_at": "2026-10-30T17:49:07.421467+00:00"
       }
     },
     "10800": {
@@ -29925,5 +29927,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:49:05.061023+00:00"
+  "updated_at": "2026-10-30T17:49:08.914191+00:00"
 }
