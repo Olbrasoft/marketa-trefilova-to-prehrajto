@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T21:44:45.516497+00:00
+Poslední aktualizace (UTC): 2026-10-30T21:44:49.359590+00:00
 
 Zkontrolováno videí: 134. Další stránka kontroly: 0.
 
@@ -78,7 +78,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Ne Zha 2 1080p CZ Titulky](https://prehraj.to/ne-zha-2-1080p-cz-titulky-mkv/6705cff8d5b1f440) (ID 30644398) | [Sdílej 32387424](https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv) | target_unavailable | 2026-10-30T20:52:33.605527+00:00 |
 | [Ordet 1080p](https://prehraj.to/ordet-1080p-mkv/7699c14594ec8709) (ID 30622762) | [Sdílej 30646256](https://sdilej.cz/30646256/ordet.1955.mkv) | target_unavailable | 2026-10-30T20:52:57.321980+00:00 |
 | [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | target_unavailable | 2026-10-30T20:53:30.767197+00:00 |
-| [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-30T20:42:23.670183+00:00 |
+| [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-30T21:44:48.917737+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-30T20:42:31.560240+00:00 |
 | [Sin City 1080p CZ Titulky](https://prehraj.to/sin-city-1080p-cz-titulky-mkv/5f3291cc82332fef) (ID 30626361) | [Sdílej 25502477](https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv) | target_unavailable | 2026-10-30T21:44:28.744889+00:00 |
 | [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-30T21:02:49.254500+00:00 |
