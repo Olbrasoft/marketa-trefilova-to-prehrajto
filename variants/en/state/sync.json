@@ -1883,7 +1883,7 @@
       "last_plan": {
         "source_id": "33013175",
         "display_name": "Braveheart 4K CZ Titulky",
-        "planned_at": "2026-10-30T18:41:29.130885+00:00"
+        "planned_at": "2026-10-30T19:12:12.350573+00:00"
       },
       "previous_target_id": "30597835",
       "prepared": {
@@ -1891,6 +1891,12 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
+      },
+      "claim": {
+        "worker_id": "af25f81248834cfb9fdf57269a8b736e-shard-0",
+        "claimed_at": "2026-10-30T19:12:12.452965+00:00",
+        "lease_expires_at": "2026-10-31T01:12:12.452965+00:00",
+        "run_id": "41106549738"
       }
     },
     "108": {
@@ -2801,13 +2807,6 @@
           "source_id": "33590630",
           "target_video_id": "30612365",
           "permanent": false,
-          "attempted_at": "2026-10-30T17:23:46.238966+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33590630",
-          "target_video_id": "30612365",
-          "permanent": false,
           "attempted_at": "2026-10-30T18:07:15.090262+00:00"
         },
         {
@@ -2816,6 +2815,13 @@
           "target_video_id": "30612365",
           "permanent": false,
           "attempted_at": "2026-10-30T18:41:24.153677+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33590630",
+          "target_video_id": "30612365",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:12:12.629034+00:00"
         }
       ],
       "last_plan": {
@@ -2829,12 +2835,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
-      },
-      "claim": {
-        "worker_id": "1dc0908fd6a5407fb19e972cf6bf3207-shard-0",
-        "claimed_at": "2026-10-30T19:12:05.997782+00:00",
-        "lease_expires_at": "2026-10-31T01:12:05.997782+00:00",
-        "run_id": "41106549738"
       }
     },
     "21312": {
@@ -6150,7 +6150,7 @@
       "last_plan": {
         "source_id": "30773956",
         "display_name": "Rio Bravo 720p CZ Titulky",
-        "planned_at": "2026-10-30T19:12:09.340171+00:00"
+        "planned_at": "2026-10-30T19:12:12.405156+00:00"
       }
     },
     "28372": {
@@ -26022,5 +26022,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:12:11.034313+00:00"
+  "updated_at": "2026-10-30T19:12:12.629053+00:00"
 }
