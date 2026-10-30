@@ -4483,17 +4483,19 @@
       "attempts": []
     },
     "321": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28447536",
+          "target_video_id": "30626855",
+          "permanent": false,
+          "attempted_at": "2026-10-30T05:59:40.867351+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28447536",
         "display_name": "Into the Wild 1080p CZ Titulky",
         "planned_at": "2026-10-30T05:16:01.710336+00:00"
-      },
-      "claim": {
-        "worker_id": "e5dce5949b1b4e74b64453bcdf559d5c-shard-0",
-        "claimed_at": "2026-10-30T05:16:01.730764+00:00",
-        "lease_expires_at": "2026-10-30T11:16:01.730764+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30626855",
       "prepared": {
@@ -22243,5 +22245,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:46:27.619645+00:00"
+  "updated_at": "2026-10-30T05:59:40.867367+00:00"
 }
