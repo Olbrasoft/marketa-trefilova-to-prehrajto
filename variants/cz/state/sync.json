@@ -11396,17 +11396,19 @@
       "attempts": []
     },
     "21124": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19757279",
+          "target_video_id": "30644410",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:53:02.632489+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19757279",
         "display_name": "The Big Country 720p CZ Dabing",
         "planned_at": "2026-10-30T20:42:59.461472+00:00"
-      },
-      "claim": {
-        "worker_id": "529e4e1ee24343308c6bbbeb7ad6a9f1-shard-0",
-        "claimed_at": "2026-10-30T20:42:59.565899+00:00",
-        "lease_expires_at": "2026-10-31T02:42:59.565899+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30644410",
       "prepared": {
@@ -31260,5 +31262,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:45:14.373864+00:00"
+  "updated_at": "2026-10-30T20:53:02.632513+00:00"
 }
