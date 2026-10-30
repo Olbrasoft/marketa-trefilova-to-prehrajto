@@ -9023,17 +9023,19 @@
       }
     },
     "379": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32478689",
+          "target_video_id": "30632802",
+          "permanent": false,
+          "attempted_at": "2026-10-30T12:33:50.586033+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32478689",
         "display_name": "Edge of Tomorrow 4K CZ Dabing",
         "planned_at": "2026-10-30T12:19:08.640962+00:00"
-      },
-      "claim": {
-        "worker_id": "86ed7bbfaaf84303acd60b00cbfbcd48-shard-0",
-        "claimed_at": "2026-10-30T12:19:08.689181+00:00",
-        "lease_expires_at": "2026-10-30T18:19:08.689181+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30632802",
       "prepared": {
@@ -28463,5 +28465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T12:33:47.993301+00:00"
+  "updated_at": "2026-10-30T12:33:50.586056+00:00"
 }
