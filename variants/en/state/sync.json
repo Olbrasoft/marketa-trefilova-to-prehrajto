@@ -5328,17 +5328,19 @@
       "attempts": []
     },
     "367": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22765537",
+          "target_video_id": "30632260",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:51:55.626348+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22765537",
         "display_name": "Thor: Ragnarok 1080p CZ Titulky",
         "planned_at": "2026-10-30T11:43:23.586991+00:00"
-      },
-      "claim": {
-        "worker_id": "f939a84f287147dba20c2470a2b3e973-shard-0",
-        "claimed_at": "2026-10-30T11:43:23.601150+00:00",
-        "lease_expires_at": "2026-10-30T17:43:23.601150+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30632260",
       "prepared": {
@@ -24504,5 +24506,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:45:14.136370+00:00"
+  "updated_at": "2026-10-30T11:51:55.626366+00:00"
 }
