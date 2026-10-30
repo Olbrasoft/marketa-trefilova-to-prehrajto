@@ -2615,13 +2615,6 @@
           "source_id": "8659765",
           "target_video_id": "30611497",
           "permanent": false,
-          "attempted_at": "2026-10-30T00:29:33.439302+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8659765",
-          "target_video_id": "30611497",
-          "permanent": false,
           "attempted_at": "2026-10-30T01:00:19.051957+00:00"
         },
         {
@@ -2630,6 +2623,13 @@
           "target_video_id": "30611497",
           "permanent": false,
           "attempted_at": "2026-10-30T01:34:22.964944+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8659765",
+          "target_video_id": "30611497",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:16:54.711078+00:00"
         }
       ],
       "last_plan": {
@@ -2643,12 +2643,6 @@
         "size_bytes": 16600000000,
         "prepared_at": "2026-10-29T13:36:35.946178+00:00",
         "relay_source_id": "8659765"
-      },
-      "claim": {
-        "worker_id": "d29f30e4d7c1411bb5d7aaa8d9a1b985-shard-0",
-        "claimed_at": "2026-10-30T02:16:52.475027+00:00",
-        "lease_expires_at": "2026-10-30T08:16:52.475027+00:00",
-        "run_id": "40985687737"
       }
     },
     "128": {
@@ -2872,7 +2866,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-10-30T01:34:25.512673+00:00"
+        "planned_at": "2026-10-30T02:16:53.902401+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -2880,6 +2874,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "0c4ce6b2e71949e1af4d83d7863c405a-shard-0",
+        "claimed_at": "2026-10-30T02:16:53.953970+00:00",
+        "lease_expires_at": "2026-10-30T08:16:53.953970+00:00",
+        "run_id": "40985687737"
       }
     },
     "31551": {
@@ -4204,7 +4204,7 @@
       "last_plan": {
         "source_id": "27579007",
         "display_name": "Guardians of the Galaxy 4K CZ Titulky",
-        "planned_at": "2026-10-30T02:16:52.456030+00:00"
+        "planned_at": "2026-10-30T02:16:53.935112+00:00"
       }
     },
     "303": {
@@ -21430,5 +21430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:16:52.736399+00:00"
+  "updated_at": "2026-10-30T02:16:54.711097+00:00"
 }
