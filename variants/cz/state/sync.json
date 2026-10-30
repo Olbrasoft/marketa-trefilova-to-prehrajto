@@ -8624,17 +8624,19 @@
       "attempts": []
     },
     "21203": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29878171",
+          "target_video_id": "30631695",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:14:07.495242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29878171",
         "display_name": "La Grande Illusion (Grand Illusion) SD CZ Dabing",
         "planned_at": "2026-10-30T11:10:31.079608+00:00"
-      },
-      "claim": {
-        "worker_id": "7864e30b312a4ac8898d7ceb0aaa6f1b-shard-0",
-        "claimed_at": "2026-10-30T11:10:31.125614+00:00",
-        "lease_expires_at": "2026-10-30T17:10:31.125614+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631695",
       "prepared": {
@@ -27552,5 +27554,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:10:34.562900+00:00"
+  "updated_at": "2026-10-30T11:14:07.495260+00:00"
 }
