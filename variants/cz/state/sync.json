@@ -9384,17 +9384,19 @@
       }
     },
     "29948": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18595816",
+          "target_video_id": "30637113",
+          "permanent": false,
+          "attempted_at": "2026-10-30T14:21:11.460421+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18595816",
         "display_name": "Manon des Sources (Manon of the Spring) 1080p CZ Dabing",
         "planned_at": "2026-10-30T13:44:21.639590+00:00"
-      },
-      "claim": {
-        "worker_id": "76ed9e4655b14e90841ed2987742aaf3-shard-0",
-        "claimed_at": "2026-10-30T13:44:21.687888+00:00",
-        "lease_expires_at": "2026-10-30T19:44:21.687888+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30637113",
       "prepared": {
@@ -29070,5 +29072,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T14:07:25.471466+00:00"
+  "updated_at": "2026-10-30T14:21:11.460438+00:00"
 }
