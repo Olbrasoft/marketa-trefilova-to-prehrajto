@@ -6649,17 +6649,19 @@
       }
     },
     "319": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32263952",
+          "target_video_id": "30626329",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:59:26.004734+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32263952",
         "display_name": "Sin City 4K CZ Dabing",
         "planned_at": "2026-10-30T04:41:59.693392+00:00"
-      },
-      "claim": {
-        "worker_id": "92dd776cabde4ed4b57bf1c90a249095-shard-0",
-        "claimed_at": "2026-10-30T04:41:59.753047+00:00",
-        "lease_expires_at": "2026-10-30T10:41:59.753047+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30626329",
       "prepared": {
@@ -24251,5 +24253,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:58:14.482588+00:00"
+  "updated_at": "2026-10-30T04:59:26.004750+00:00"
 }
