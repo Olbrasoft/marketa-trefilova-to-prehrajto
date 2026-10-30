@@ -4274,17 +4274,19 @@
       }
     },
     "304": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22183177",
+          "target_video_id": "30625206",
+          "permanent": false,
+          "attempted_at": "2026-10-30T03:55:20.522634+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22183177",
         "display_name": "The Revenant 720p CZ Titulky",
         "planned_at": "2026-10-30T03:45:14.704200+00:00"
-      },
-      "claim": {
-        "worker_id": "777ac044d4d54e6ab1ed664506e0d5a8-shard-0",
-        "claimed_at": "2026-10-30T03:45:14.721881+00:00",
-        "lease_expires_at": "2026-10-30T09:45:14.721881+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30625206",
       "prepared": {
@@ -21741,5 +21743,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T03:45:17.614411+00:00"
+  "updated_at": "2026-10-30T03:55:20.522651+00:00"
 }
