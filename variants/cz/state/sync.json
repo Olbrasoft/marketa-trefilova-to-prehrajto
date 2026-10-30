@@ -6016,17 +6016,19 @@
       "attempts": []
     },
     "33617": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27954124",
+          "target_video_id": "30622643",
+          "permanent": false,
+          "attempted_at": "2026-10-30T01:46:45.161458+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27954124",
         "display_name": "Wolf Children Ame and Yuki (おおかみこどもの雨と雪) 1080p CZ Dabing",
         "planned_at": "2026-10-30T00:56:57.576566+00:00"
-      },
-      "claim": {
-        "worker_id": "ee17ef0c8add4c019f51c5b1b14f2c4f-shard-0",
-        "claimed_at": "2026-10-30T00:56:57.663103+00:00",
-        "lease_expires_at": "2026-10-30T06:56:57.663103+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622643",
       "prepared": {
@@ -23416,5 +23418,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T01:43:32.899921+00:00"
+  "updated_at": "2026-10-30T01:46:45.161470+00:00"
 }
