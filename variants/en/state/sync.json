@@ -3304,13 +3304,6 @@
           "source_id": "33672679",
           "target_video_id": "30615943",
           "permanent": false,
-          "attempted_at": "2026-10-30T03:44:04.046555+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33672679",
-          "target_video_id": "30615943",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:16:47.527412+00:00"
         },
         {
@@ -3319,6 +3312,13 @@
           "target_video_id": "30615943",
           "permanent": false,
           "attempted_at": "2026-10-30T04:56:57.692729+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33672679",
+          "target_video_id": "30615943",
+          "permanent": false,
+          "attempted_at": "2026-10-30T05:30:40.163039+00:00"
         }
       ],
       "last_plan": {
@@ -3582,7 +3582,7 @@
       "last_plan": {
         "source_id": "35171736",
         "display_name": "The Help 1080p CZ Titulky",
-        "planned_at": "2026-10-30T04:56:58.968040+00:00"
+        "planned_at": "2026-10-30T05:30:38.921874+00:00"
       },
       "previous_target_id": "30620452",
       "prepared": {
@@ -3590,6 +3590,12 @@
         "size_bytes": 9900000000,
         "prepared_at": "2026-10-29T22:17:55.214145+00:00",
         "relay_source_id": "35171736"
+      },
+      "claim": {
+        "worker_id": "07072a143b0748cc9ce107036abc8932-shard-0",
+        "claimed_at": "2026-10-30T05:30:38.976099+00:00",
+        "lease_expires_at": "2026-10-30T11:30:38.976099+00:00",
+        "run_id": "40985687737"
       }
     },
     "11107": {
@@ -4493,7 +4499,7 @@
       "last_plan": {
         "source_id": "33063690",
         "display_name": "Zootopia 1080p CZ Titulky",
-        "planned_at": "2026-10-30T05:30:37.658085+00:00"
+        "planned_at": "2026-10-30T05:30:38.957381+00:00"
       }
     },
     "325": {
@@ -22204,5 +22210,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:30:37.658097+00:00"
+  "updated_at": "2026-10-30T05:30:40.163057+00:00"
 }
