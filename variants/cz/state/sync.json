@@ -10137,17 +10137,19 @@
       }
     },
     "21339": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29569828",
+          "target_video_id": "30641571",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:15:08.037748+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29569828",
         "display_name": "Strangers on a Train 1080p CZ Dabing",
         "planned_at": "2026-10-30T18:09:26.570896+00:00"
-      },
-      "claim": {
-        "worker_id": "3c4b971647f748fbba7deb8516510ca0-shard-0",
-        "claimed_at": "2026-10-30T18:09:26.730912+00:00",
-        "lease_expires_at": "2026-10-31T00:09:26.730912+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30641571",
       "prepared": {
@@ -30024,5 +30026,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:10:17.149240+00:00"
+  "updated_at": "2026-10-30T18:15:08.037765+00:00"
 }
