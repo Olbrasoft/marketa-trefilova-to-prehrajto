@@ -10328,17 +10328,19 @@
       }
     },
     "21544": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10524039",
+          "target_video_id": "30642146",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:47:55.468311+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10524039",
         "display_name": "Touch of Evil SD CZ Dabing",
         "planned_at": "2026-10-30T18:44:42.042419+00:00"
-      },
-      "claim": {
-        "worker_id": "c17ad0d2fa2d4169ad8a19f15b7ed56c-shard-0",
-        "claimed_at": "2026-10-30T18:44:42.137988+00:00",
-        "lease_expires_at": "2026-10-31T00:44:42.137988+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30642146",
       "prepared": {
@@ -30288,5 +30290,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:44:45.180446+00:00"
+  "updated_at": "2026-10-30T18:47:55.468326+00:00"
 }
