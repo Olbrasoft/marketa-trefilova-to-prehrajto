@@ -3848,17 +3848,19 @@
       "attempts": []
     },
     "21156": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34770809",
+          "target_video_id": "30622415",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:46:08.151983+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34770809",
         "display_name": "The Grapes of Wrath 1080p",
         "planned_at": "2026-10-30T00:36:16.122558+00:00"
-      },
-      "claim": {
-        "worker_id": "7b0a5c66ff914fdf8787f036d446cf3f-shard-0",
-        "claimed_at": "2026-10-30T00:36:16.144617+00:00",
-        "lease_expires_at": "2026-10-30T06:36:16.144617+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622415",
       "prepared": {
@@ -21071,5 +21073,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:46:02.701622+00:00"
+  "updated_at": "2026-10-30T00:46:08.152003+00:00"
 }
