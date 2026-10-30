@@ -9570,17 +9570,19 @@
       }
     },
     "387": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34848214",
+          "target_video_id": "30638987",
+          "permanent": false,
+          "attempted_at": "2026-10-30T16:00:19.816359+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34848214",
         "display_name": "E.T. the Extra-Terrestrial 4K CZ Dabing",
         "planned_at": "2026-10-30T15:41:24.143009+00:00"
-      },
-      "claim": {
-        "worker_id": "608abca65f6a45859d1f1e7b80f59427-shard-0",
-        "claimed_at": "2026-10-30T15:41:24.245796+00:00",
-        "lease_expires_at": "2026-10-30T21:41:24.245796+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30638987",
       "prepared": {
@@ -29362,5 +29364,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:41:27.396788+00:00"
+  "updated_at": "2026-10-30T16:00:19.816376+00:00"
 }
