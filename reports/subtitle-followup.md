@@ -88,3 +88,4 @@ Attach subtitles only after target processing has finished.
 | Paris, Texas 1080p CZ Titulky | 30622275 | https://sdilej.cz/15641041/paris-texas-1984-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
 | The Grapes of Wrath 1080p | 30622415 | https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4 | Find and add matching Czech subtitles after processing |
 | The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky | 30622539 | https://sdilej.cz/34845555/the-voice-of-hind-rajab-2025-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Ordet 1080p | 30622762 | https://sdilej.cz/30646256/ordet.1955.mkv | Find and add matching Czech subtitles after processing |
