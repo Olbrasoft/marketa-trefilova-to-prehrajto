@@ -7206,17 +7206,19 @@
       }
     },
     "280": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30529268",
+          "target_video_id": "30628195",
+          "permanent": false,
+          "attempted_at": "2026-10-30T07:09:34.274259+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30529268",
         "display_name": "Monty Python’s Life of Brian (Life of Brian) 1080p CZ Dabing",
         "planned_at": "2026-10-30T06:50:22.518127+00:00"
-      },
-      "claim": {
-        "worker_id": "fc07d9d9274045e3b9017a771130f7ea-shard-0",
-        "claimed_at": "2026-10-30T06:50:22.587051+00:00",
-        "lease_expires_at": "2026-10-30T12:50:22.587051+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30628195",
       "prepared": {
@@ -25204,5 +25206,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:50:26.766952+00:00"
+  "updated_at": "2026-10-30T07:09:34.274279+00:00"
 }
