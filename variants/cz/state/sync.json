@@ -9659,17 +9659,19 @@
       }
     },
     "30270": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32842128",
+          "target_video_id": "30639443",
+          "permanent": false,
+          "attempted_at": "2026-10-30T16:56:07.427466+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32842128",
         "display_name": "Boyhood 720p CZ Dabing",
         "planned_at": "2026-10-30T16:17:59.888122+00:00"
-      },
-      "claim": {
-        "worker_id": "bf4b94d8f26a47ef8afcb3e288a99041-shard-0",
-        "claimed_at": "2026-10-30T16:17:59.980227+00:00",
-        "lease_expires_at": "2026-10-30T22:17:59.980227+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30639443",
       "prepared": {
@@ -29543,5 +29545,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T16:56:06.348805+00:00"
+  "updated_at": "2026-10-30T16:56:07.427483+00:00"
 }
