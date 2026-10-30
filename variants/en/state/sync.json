@@ -5487,17 +5487,19 @@
       "attempts": []
     },
     "381": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32925438",
+          "target_video_id": "30633152",
+          "permanent": false,
+          "attempted_at": "2026-10-30T13:10:24.888811+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32925438",
         "display_name": "Harry Potter and the Prisoner of Azkaban 4K CZ Titulky",
         "planned_at": "2026-10-30T12:47:58.307083+00:00"
-      },
-      "claim": {
-        "worker_id": "e9bdf419b5324e3cbc384b853899a7af-shard-0",
-        "claimed_at": "2026-10-30T12:47:58.323556+00:00",
-        "lease_expires_at": "2026-10-30T18:47:58.323556+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30633152",
       "prepared": {
@@ -24921,5 +24923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:05:35.928263+00:00"
+  "updated_at": "2026-10-30T13:10:24.888829+00:00"
 }
