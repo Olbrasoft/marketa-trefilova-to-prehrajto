@@ -7013,17 +7013,19 @@
       }
     },
     "33811": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28673748",
+          "target_video_id": "30627593",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:10:21.038899+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28673748",
         "display_name": "Gintama: The Final (銀魂 THE FINAL) 1080p CZ Dabing",
         "planned_at": "2026-10-30T06:03:27.114725+00:00"
-      },
-      "claim": {
-        "worker_id": "9c8c4ddd2be1407096cdf511b891f308-shard-0",
-        "claimed_at": "2026-10-30T06:03:27.183669+00:00",
-        "lease_expires_at": "2026-10-30T12:03:27.183669+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30627593",
       "prepared": {
@@ -24734,5 +24736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:09:15.880976+00:00"
+  "updated_at": "2026-10-30T06:10:21.038920+00:00"
 }
