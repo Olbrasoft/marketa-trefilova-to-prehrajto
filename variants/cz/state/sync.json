@@ -6092,11 +6092,19 @@
       "attempts": []
     },
     "10795": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34672016",
+          "reason": "Request failed for https://sdilej.cz/34672016/kdo-seje-vitr-1960-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T01:22:15.439787+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34672016",
         "display_name": "Inherit the Wind 1080p CZ Dabing",
-        "planned_at": "2026-10-30T01:19:08.122007+00:00"
+        "planned_at": "2026-10-30T01:21:29.114754+00:00"
       }
     },
     "23036": {
@@ -23186,5 +23194,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T01:19:08.122022+00:00"
+  "updated_at": "2026-10-30T01:22:15.439806+00:00"
 }
