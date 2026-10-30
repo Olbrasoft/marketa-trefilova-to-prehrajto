@@ -5631,7 +5631,7 @@
       "last_plan": {
         "source_id": "31582964",
         "display_name": "The Wild Robot 4K CZ Dabing",
-        "planned_at": "2026-10-30T05:31:27.574371+00:00"
+        "planned_at": "2026-10-30T06:03:19.172953+00:00"
       },
       "previous_target_id": "30621872",
       "prepared": {
@@ -5639,17 +5639,16 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-10-30T00:00:47.149153+00:00",
         "relay_source_id": "31582964"
+      },
+      "claim": {
+        "worker_id": "22746349b3d54188aebe0027961cd0ac-shard-0",
+        "claimed_at": "2026-10-30T06:03:19.287139+00:00",
+        "lease_expires_at": "2026-10-30T12:03:19.287139+00:00",
+        "run_id": "41008254453"
       }
     },
     "185": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34355434",
-          "target_video_id": "30622038",
-          "permanent": false,
-          "attempted_at": "2026-10-30T04:17:58.319710+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34355434",
@@ -5663,6 +5662,13 @@
           "target_video_id": "30622038",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:27.547207+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34355434",
+          "target_video_id": "30622038",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:03:19.551767+00:00"
         }
       ],
       "last_plan": {
@@ -5676,12 +5682,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-30T00:11:36.003756+00:00",
         "relay_source_id": "34355434"
-      },
-      "claim": {
-        "worker_id": "a462bc1b47a54c2da54578ac11c80822-shard-0",
-        "claimed_at": "2026-10-30T06:03:17.715727+00:00",
-        "lease_expires_at": "2026-10-30T12:03:17.715727+00:00",
-        "run_id": "41008254453"
       }
     },
     "31759": {
@@ -7000,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:03:17.647900+00:00"
+        "planned_at": "2026-10-30T06:03:19.214763+00:00"
       }
     },
     "33811": {
@@ -24707,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:17.975649+00:00"
+  "updated_at": "2026-10-30T06:03:19.551789+00:00"
 }
