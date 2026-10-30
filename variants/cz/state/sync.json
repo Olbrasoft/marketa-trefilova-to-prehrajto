@@ -6316,13 +6316,6 @@
           "source_id": "25249216",
           "target_video_id": "30623524",
           "permanent": false,
-          "attempted_at": "2026-10-30T18:43:52.298493+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25249216",
-          "target_video_id": "30623524",
-          "permanent": false,
           "attempted_at": "2026-10-30T19:14:33.063754+00:00"
         },
         {
@@ -6331,6 +6324,13 @@
           "target_video_id": "30623524",
           "permanent": false,
           "attempted_at": "2026-10-30T19:48:29.925679+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25249216",
+          "target_video_id": "30623524",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:22:33.830315+00:00"
         }
       ],
       "last_plan": {
@@ -6656,7 +6656,7 @@
       "last_plan": {
         "source_id": "32455047",
         "display_name": "Black Swan 1080p CZ Dabing",
-        "planned_at": "2026-10-30T19:48:31.193878+00:00"
+        "planned_at": "2026-10-30T20:22:32.908848+00:00"
       },
       "previous_target_id": "30625836",
       "prepared": {
@@ -6664,6 +6664,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-30T04:24:24.048654+00:00",
         "relay_source_id": "32455047"
+      },
+      "claim": {
+        "worker_id": "a1ae0664ba9940cdbe39c5f634ecf6a2-shard-0",
+        "claimed_at": "2026-10-30T20:22:33.176552+00:00",
+        "lease_expires_at": "2026-10-31T02:22:33.176552+00:00",
+        "run_id": "41106549738"
       }
     },
     "282": {
@@ -11052,7 +11058,7 @@
       "last_plan": {
         "source_id": "33563386",
         "display_name": "Sleuth (1972) SD CZ Dabing",
-        "planned_at": "2026-10-30T20:22:31.409571+00:00"
+        "planned_at": "2026-10-30T20:22:32.968375+00:00"
       }
     },
     "397": {
@@ -11060,7 +11066,7 @@
       "last_plan": {
         "source_id": "34940811",
         "display_name": "No Man's Land 1080p CZ Dabing",
-        "planned_at": "2026-10-30T20:22:29.060127+00:00"
+        "planned_at": "2026-10-30T20:22:33.000366+00:00"
       }
     },
     "30656": {
@@ -30997,5 +31003,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:22:31.409589+00:00"
+  "updated_at": "2026-10-30T20:22:33.830333+00:00"
 }
