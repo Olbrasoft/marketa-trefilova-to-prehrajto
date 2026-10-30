@@ -6771,11 +6771,19 @@
       "attempts": []
     },
     "496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35011160",
+          "reason": "Request failed for https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T22:31:03.719775+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35011160",
         "display_name": "Nightcrawler 1080p CZ Titulky",
-        "planned_at": "2026-10-30T22:23:14.581336+00:00"
+        "planned_at": "2026-10-30T22:30:17.055551+00:00"
       }
     },
     "503": {
@@ -26676,5 +26684,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T22:23:14.581352+00:00"
+  "updated_at": "2026-10-30T22:31:03.719794+00:00"
 }
