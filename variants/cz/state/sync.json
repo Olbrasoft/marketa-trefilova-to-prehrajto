@@ -10921,7 +10921,20 @@
       }
     },
     "13432": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34721927",
+          "reason": "Request failed for https://sdilej.cz/34721927/neco-co-stvoril-buh-2004-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:01:28.677129+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34721927",
+        "display_name": "Something the Lord Made 1080p CZ Dabing",
+        "planned_at": "2026-10-30T20:00:42.937400+00:00"
+      }
     },
     "33172": {
       "attempts": []
@@ -30800,5 +30813,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:00:41.349790+00:00"
+  "updated_at": "2026-10-30T20:01:28.677148+00:00"
 }
