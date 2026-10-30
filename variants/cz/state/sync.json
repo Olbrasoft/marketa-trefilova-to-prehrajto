@@ -5611,13 +5611,6 @@
           "source_id": "31582964",
           "target_video_id": "30621872",
           "permanent": false,
-          "attempted_at": "2026-10-30T06:03:21.902842+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31582964",
-          "target_video_id": "30621872",
-          "permanent": false,
           "attempted_at": "2026-10-30T06:48:21.410106+00:00"
         },
         {
@@ -5626,6 +5619,13 @@
           "target_video_id": "30621872",
           "permanent": false,
           "attempted_at": "2026-10-30T07:22:15.679370+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31582964",
+          "target_video_id": "30621872",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:05:12.842071+00:00"
         }
       ],
       "last_plan": {
@@ -6583,7 +6583,7 @@
       "last_plan": {
         "source_id": "30315464",
         "display_name": "Slumdog Millionaire 1080p CZ Dabing",
-        "planned_at": "2026-10-30T07:22:16.889291+00:00"
+        "planned_at": "2026-10-30T08:05:11.872600+00:00"
       },
       "previous_target_id": "30625677",
       "prepared": {
@@ -6591,6 +6591,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-30T04:18:05.375453+00:00",
         "relay_source_id": "30315464"
+      },
+      "claim": {
+        "worker_id": "9a5741cf7b804dbda4f06edecb7b1def-shard-0",
+        "claimed_at": "2026-10-30T08:05:11.989049+00:00",
+        "lease_expires_at": "2026-10-30T14:05:11.989049+00:00",
+        "run_id": "41008254453"
       }
     },
     "317": {
@@ -7451,7 +7457,7 @@
       "last_plan": {
         "source_id": "33504052",
         "display_name": "Rosemary's Baby 4K CZ Dabing",
-        "planned_at": "2026-10-30T08:05:10.560993+00:00"
+        "planned_at": "2026-10-30T08:05:11.916714+00:00"
       }
     },
     "17688": {
@@ -25699,5 +25705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:05:10.561008+00:00"
+  "updated_at": "2026-10-30T08:05:12.842092+00:00"
 }
