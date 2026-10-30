@@ -6200,17 +6200,19 @@
       }
     },
     "21939": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31451349",
+          "target_video_id": "30623520",
+          "permanent": false,
+          "attempted_at": "2026-10-30T01:58:17.602396+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31451349",
         "display_name": "Army of Shadows 1080p CZ Dabing",
         "planned_at": "2026-10-30T01:49:11.137945+00:00"
-      },
-      "claim": {
-        "worker_id": "0872f69b9d9e4d67a0c17af5e8773b0e-shard-0",
-        "claimed_at": "2026-10-30T01:49:12.660522+00:00",
-        "lease_expires_at": "2026-10-30T07:49:12.660522+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30623520",
       "prepared": {
@@ -23478,5 +23480,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T01:49:28.564299+00:00"
+  "updated_at": "2026-10-30T01:58:17.602412+00:00"
 }
