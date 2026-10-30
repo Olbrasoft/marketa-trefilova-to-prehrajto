@@ -4684,7 +4684,7 @@
       "last_plan": {
         "source_id": "32461058",
         "display_name": "Blade Runner 4K CZ Dabing",
-        "planned_at": "2026-10-30T05:31:14.245552+00:00"
+        "planned_at": "2026-10-30T06:03:07.547625+00:00"
       },
       "previous_target_id": "30615829",
       "prepared": {
@@ -4692,6 +4692,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-10-29T17:59:34.632657+00:00",
         "relay_source_id": "32461058"
+      },
+      "claim": {
+        "worker_id": "355ebf9e28d1473aac636b192454c7ab-shard-0",
+        "claimed_at": "2026-10-30T06:03:07.661684+00:00",
+        "lease_expires_at": "2026-10-30T12:03:07.661684+00:00",
+        "run_id": "41008254453"
       }
     },
     "250": {
@@ -4767,13 +4773,6 @@
           "source_id": "30250364",
           "target_video_id": "30616606",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:42.355323+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30250364",
-          "target_video_id": "30616606",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:57:50.509929+00:00"
         },
         {
@@ -4782,6 +4781,13 @@
           "target_video_id": "30616606",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:13.056234+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30250364",
+          "target_video_id": "30616606",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:03:07.928044+00:00"
         }
       ],
       "last_plan": {
@@ -4795,12 +4801,6 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-10-29T18:33:59.034874+00:00",
         "relay_source_id": "30250364"
-      },
-      "claim": {
-        "worker_id": "e7aba66a2394485e979c4fc6dea53fcf-shard-0",
-        "claimed_at": "2026-10-30T06:03:05.506213+00:00",
-        "lease_expires_at": "2026-10-30T12:03:05.506213+00:00",
-        "run_id": "41008254453"
       }
     },
     "230": {
@@ -7000,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:03:05.397225+00:00"
+        "planned_at": "2026-10-30T06:03:07.591016+00:00"
       }
     },
     "33811": {
@@ -24707,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:05.992918+00:00"
+  "updated_at": "2026-10-30T06:03:07.928065+00:00"
 }
