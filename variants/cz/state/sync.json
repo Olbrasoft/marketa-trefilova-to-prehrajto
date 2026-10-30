@@ -10812,17 +10812,19 @@
       }
     },
     "300": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33097615",
+          "target_video_id": "30643370",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:57:05.118425+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33097615",
         "display_name": "Prayers for Bobby 1080p CZ Dabing",
         "planned_at": "2026-10-30T19:50:42.771196+00:00"
-      },
-      "claim": {
-        "worker_id": "702fb0c20f5446a3bf18fd9925b408fe-shard-0",
-        "claimed_at": "2026-10-30T19:50:42.871665+00:00",
-        "lease_expires_at": "2026-10-31T01:50:42.871665+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30643370",
       "prepared": {
@@ -30745,5 +30747,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:50:45.970991+00:00"
+  "updated_at": "2026-10-30T19:57:05.118442+00:00"
 }
