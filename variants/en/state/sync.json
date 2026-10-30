@@ -6008,17 +6008,19 @@
       "attempts": []
     },
     "23035": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20929657",
+          "target_video_id": "30642017",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:43:20.836862+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20929657",
         "display_name": "Do the Right Thing 1080p CZ Titulky",
         "planned_at": "2026-10-30T18:36:14.325975+00:00"
-      },
-      "claim": {
-        "worker_id": "e87a0c2551444b5f98d0f7c4bad36a8c-shard-0",
-        "claimed_at": "2026-10-30T18:36:14.358128+00:00",
-        "lease_expires_at": "2026-10-31T00:36:14.358128+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30642017",
       "prepared": {
@@ -6129,7 +6131,7 @@
       "last_plan": {
         "source_id": "30773956",
         "display_name": "Rio Bravo 720p CZ Titulky",
-        "planned_at": "2026-10-30T18:43:05.921984+00:00"
+        "planned_at": "2026-10-30T18:43:09.275105+00:00"
       }
     },
     "28372": {
@@ -25991,5 +25993,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:43:05.921996+00:00"
+  "updated_at": "2026-10-30T18:43:20.836879+00:00"
 }
