@@ -6750,7 +6750,7 @@
       "last_plan": {
         "source_id": "33508342",
         "display_name": "Casino Royale 4K CZ Dabing",
-        "planned_at": "2026-10-30T07:21:13.515864+00:00"
+        "planned_at": "2026-10-30T08:04:27.939027+00:00"
       },
       "previous_target_id": "30626596",
       "prepared": {
@@ -6758,6 +6758,12 @@
         "size_bytes": 6800000000,
         "prepared_at": "2026-10-30T04:58:13.444999+00:00",
         "relay_source_id": "33508342"
+      },
+      "claim": {
+        "worker_id": "bd4db0cd9c0f41cd8b099fcbc401fe31-shard-0",
+        "claimed_at": "2026-10-30T08:04:28.056246+00:00",
+        "lease_expires_at": "2026-10-30T14:04:28.056246+00:00",
+        "run_id": "41008254453"
       }
     },
     "260": {
@@ -7316,17 +7322,23 @@
           "attempted_at": "2026-10-30T07:21:07.399088+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24576777",
-        "display_name": "Magnolia 1080p CZ Dabing",
-        "planned_at": "2026-10-30T08:04:26.482641+00:00"
-      },
       "previous_target_id": "30628433",
-      "prepared": {
+      "upload": {
         "target_video_id": "30628433",
-        "size_bytes": 3424221423,
-        "prepared_at": "2026-10-30T07:09:55.523763+00:00",
-        "relay_source_id": "24576777"
+        "display_name": "Magnolia 1080p CZ Dabing",
+        "source_id": "24576777",
+        "source_url": "https://sdilej.cz/24576777/magnolia.1999.1080p.bluray.x265.cz-rbg.mkv",
+        "source_filename": "Magnolia.1999.1080p.BluRay.x265.CZ-RBG.mkv",
+        "size_bytes": 3400000000,
+        "width": 1920,
+        "height": 800,
+        "audio_language": "cs",
+        "language_probability": 0.9303529262542725,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/magnolia-1080p-cz-dabing-mkv/53fff2c5b1b33e57",
+        "uploaded_at": "2026-10-30T08:04:28.591124+00:00"
       }
     },
     "11876": {
@@ -7445,7 +7457,7 @@
       "last_plan": {
         "source_id": "33504052",
         "display_name": "Rosemary's Baby 4K CZ Dabing",
-        "planned_at": "2026-10-30T08:04:26.527159+00:00"
+        "planned_at": "2026-10-30T08:04:27.984596+00:00"
       }
     },
     "17688": {
@@ -25693,5 +25705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:04:26.527177+00:00"
+  "updated_at": "2026-10-30T08:04:28.591142+00:00"
 }
