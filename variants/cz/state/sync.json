@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-10-30T03:44:44.320473+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:17:31.981176+00:00"
         },
         {
@@ -1036,12 +1029,19 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-10-30T04:57:38.981167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-10-30T05:31:06.490084+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-10-30T04:57:37.866190+00:00"
+        "planned_at": "2026-10-30T05:31:05.172127+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "7cd73898d8174c4b8fca8026c12f57f9-shard-0",
+        "claimed_at": "2026-10-30T05:31:05.143789+00:00",
+        "lease_expires_at": "2026-10-30T11:31:05.143789+00:00",
+        "run_id": "40985687737"
       }
     },
     "37290": {
@@ -6839,7 +6845,7 @@
       "last_plan": {
         "source_id": "33466256",
         "display_name": "12 Monkeys (Twelve Monkeys) 4K CZ Dabing",
-        "planned_at": "2026-10-30T05:31:03.879147+00:00"
+        "planned_at": "2026-10-30T05:31:05.209954+00:00"
       }
     },
     "18607": {
@@ -24553,5 +24559,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:31:03.879160+00:00"
+  "updated_at": "2026-10-30T05:31:06.490105+00:00"
 }
