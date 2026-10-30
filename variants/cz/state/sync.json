@@ -5668,7 +5668,7 @@
       "last_plan": {
         "source_id": "34355434",
         "display_name": "La Haine 1080p CZ Dabing",
-        "planned_at": "2026-10-30T04:17:57.352075+00:00"
+        "planned_at": "2026-10-30T04:58:02.130737+00:00"
       },
       "previous_target_id": "30622038",
       "prepared": {
@@ -5676,6 +5676,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-30T00:11:36.003756+00:00",
         "relay_source_id": "34355434"
+      },
+      "claim": {
+        "worker_id": "f527cb633bc5419a8a8257e279bd9455-shard-0",
+        "claimed_at": "2026-10-30T04:58:02.229719+00:00",
+        "lease_expires_at": "2026-10-30T10:58:02.229719+00:00",
+        "run_id": "40985687737"
       }
     },
     "31759": {
@@ -6041,13 +6047,6 @@
           "source_id": "27954124",
           "target_video_id": "30622643",
           "permanent": false,
-          "attempted_at": "2026-10-30T02:57:25.288770+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27954124",
-          "target_video_id": "30622643",
-          "permanent": false,
           "attempted_at": "2026-10-30T03:45:09.036924+00:00"
         },
         {
@@ -6056,6 +6055,13 @@
           "target_video_id": "30622643",
           "permanent": false,
           "attempted_at": "2026-10-30T04:17:55.452239+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27954124",
+          "target_video_id": "30622643",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:58:02.471719+00:00"
         }
       ],
       "last_plan": {
@@ -6069,12 +6075,6 @@
         "size_bytes": 17000000000,
         "prepared_at": "2026-10-30T00:57:02.003208+00:00",
         "relay_source_id": "27954124"
-      },
-      "claim": {
-        "worker_id": "1b458ca736aa4f95affe16073f98e19a-shard-0",
-        "claimed_at": "2026-10-30T04:58:00.714610+00:00",
-        "lease_expires_at": "2026-10-30T10:58:00.714610+00:00",
-        "run_id": "40985687737"
       }
     },
     "16125": {
@@ -6672,7 +6672,7 @@
       "last_plan": {
         "source_id": "33508342",
         "display_name": "Casino Royale 4K CZ Dabing",
-        "planned_at": "2026-10-30T04:58:00.655767+00:00"
+        "planned_at": "2026-10-30T04:58:02.168910+00:00"
       }
     },
     "260": {
@@ -24212,5 +24212,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:58:01.096338+00:00"
+  "updated_at": "2026-10-30T04:58:02.471740+00:00"
 }
