@@ -5631,7 +5631,7 @@
       "last_plan": {
         "source_id": "31582964",
         "display_name": "The Wild Robot 4K CZ Dabing",
-        "planned_at": "2026-10-30T04:17:59.347340+00:00"
+        "planned_at": "2026-10-30T04:58:03.546611+00:00"
       },
       "previous_target_id": "30621872",
       "prepared": {
@@ -5639,17 +5639,16 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-10-30T00:00:47.149153+00:00",
         "relay_source_id": "31582964"
+      },
+      "claim": {
+        "worker_id": "0bb6106560ed475f870e89a2fed3a72d-shard-0",
+        "claimed_at": "2026-10-30T04:58:03.644789+00:00",
+        "lease_expires_at": "2026-10-30T10:58:03.644789+00:00",
+        "run_id": "40985687737"
       }
     },
     "185": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34355434",
-          "target_video_id": "30622038",
-          "permanent": false,
-          "attempted_at": "2026-10-30T03:08:13.351406+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34355434",
@@ -5663,6 +5662,13 @@
           "target_video_id": "30622038",
           "permanent": false,
           "attempted_at": "2026-10-30T04:17:58.319710+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34355434",
+          "target_video_id": "30622038",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:58:03.896208+00:00"
         }
       ],
       "last_plan": {
@@ -5676,12 +5682,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-30T00:11:36.003756+00:00",
         "relay_source_id": "34355434"
-      },
-      "claim": {
-        "worker_id": "f527cb633bc5419a8a8257e279bd9455-shard-0",
-        "claimed_at": "2026-10-30T04:58:02.229719+00:00",
-        "lease_expires_at": "2026-10-30T10:58:02.229719+00:00",
-        "run_id": "40985687737"
       }
     },
     "31759": {
@@ -6672,7 +6672,7 @@
       "last_plan": {
         "source_id": "33508342",
         "display_name": "Casino Royale 4K CZ Dabing",
-        "planned_at": "2026-10-30T04:58:02.168910+00:00"
+        "planned_at": "2026-10-30T04:58:03.583760+00:00"
       }
     },
     "260": {
@@ -24212,5 +24212,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:58:02.471740+00:00"
+  "updated_at": "2026-10-30T04:58:03.896226+00:00"
 }
