@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T11:11:32.076866+00:00
+Poslední aktualizace (UTC): 2026-10-30T11:11:35.616494+00:00
 
 Zkontrolováno videí: 109. Další stránka kontroly: 0.
 
@@ -51,7 +51,7 @@ Kontrol: 6; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | --- | --- | --- | --- |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T10:04:50.639084+00:00 |
 | [Aladdin (1992) 1080p CZ Titulky](https://prehraj.to/aladdin-1992-1080p-cz-titulky-mkv/9fd03179f8b28213) (ID 30627809) | [Sdílej 15881813](https://sdilej.cz/15881813/aladdin.1992-cz.mkv) | target_unavailable | 2026-10-30T10:30:45.763637+00:00 |
-| [Apollo 11 4K CZ Titulky](https://prehraj.to/apollo-11-4k-cz-titulky-mkv/07ad92fc5ce0455a) (ID 30624527) | [Sdílej 12594213](https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv) | target_unavailable | 2026-10-30T10:04:40.222882+00:00 |
+| [Apollo 11 4K CZ Titulky](https://prehraj.to/apollo-11-4k-cz-titulky-mkv/07ad92fc5ce0455a) (ID 30624527) | [Sdílej 12594213](https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv) | target_unavailable | 2026-10-30T11:11:35.494937+00:00 |
 | [Black Swan 1080p CZ Titulky](https://prehraj.to/black-swan-1080p-cz-titulky-mkv/34449af02c0418ac) (ID 30625850) | [Sdílej 34794426](https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv) | target_unavailable | 2026-10-30T10:41:02.933011+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | target_unavailable | 2026-10-30T10:31:18.298338+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-30T10:50:59.699159+00:00 |
