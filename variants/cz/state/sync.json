@@ -4163,7 +4163,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T20:55:43.638583+00:00"
+        "planned_at": "2026-10-30T21:32:23.111913+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "62ca8e81eb7d494abe6c7528f140efcc-shard-0",
+        "claimed_at": "2026-10-30T21:32:23.273902+00:00",
+        "lease_expires_at": "2026-10-31T03:32:23.273902+00:00",
+        "run_id": "41106549738"
       }
     },
     "37290": {
@@ -5701,17 +5707,23 @@
           "attempted_at": "2026-10-30T20:55:42.488686+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34355434",
-        "display_name": "La Haine 1080p CZ Dabing",
-        "planned_at": "2026-10-30T21:32:20.679958+00:00"
-      },
       "previous_target_id": "30622038",
-      "prepared": {
+      "upload": {
         "target_video_id": "30622038",
+        "display_name": "La Haine 1080p CZ Dabing",
+        "source_id": "34355434",
+        "source_url": "https://sdilej.cz/34355434/nenavist-la-haine-1995-cz-fr-h264-ezio.mkv",
+        "source_filename": "Nenavist - La Haine 1995 CZ,FR H264 Ezio.mkv",
         "size_bytes": 1800000000,
-        "prepared_at": "2026-10-30T00:11:36.003756+00:00",
-        "relay_source_id": "34355434"
+        "width": 1904,
+        "height": 1024,
+        "audio_language": "cs",
+        "language_probability": 0.9854660034179688,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/la-haine-1080p-cz-dabing-mkv/7f76bd1b4e7b9933",
+        "uploaded_at": "2026-10-30T21:32:23.959501+00:00"
       }
     },
     "31759": {
@@ -11619,7 +11631,7 @@
       "last_plan": {
         "source_id": "14820817",
         "display_name": "Skyfall 4K CZ Dabing",
-        "planned_at": "2026-10-30T21:32:20.740652+00:00"
+        "planned_at": "2026-10-30T21:32:23.172773+00:00"
       }
     },
     "488": {
@@ -31433,5 +31445,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:32:20.959075+00:00"
+  "updated_at": "2026-10-30T21:32:23.959517+00:00"
 }
