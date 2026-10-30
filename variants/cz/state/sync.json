@@ -8368,17 +8368,19 @@
       }
     },
     "21873": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30780457",
+          "target_video_id": "30631390",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:54:46.614430+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30780457",
         "display_name": "Le Samouraï 1080p CZ Dabing",
         "planned_at": "2026-10-30T10:48:39.491777+00:00"
-      },
-      "claim": {
-        "worker_id": "ff3ed9625ce148cfb48162bb031178dd-shard-0",
-        "claimed_at": "2026-10-30T10:48:40.764400+00:00",
-        "lease_expires_at": "2026-10-30T16:48:40.764400+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631390",
       "prepared": {
@@ -27407,5 +27409,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:48:46.640274+00:00"
+  "updated_at": "2026-10-30T10:54:46.614448+00:00"
 }
