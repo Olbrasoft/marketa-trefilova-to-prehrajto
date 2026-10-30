@@ -115,3 +115,4 @@ Attach subtitles only after target processing has finished.
 | Taegukgi (태극기 휘날리며) 720p CZ Titulky | 30631676 | https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Iron Man 1080p CZ Titulky | 30632045 | https://sdilej.cz/35296917/iron-man.mkv | Extract Czech track from exact source after processing |
 | Thor: Ragnarok 1080p CZ Titulky | 30632260 | https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv | Extract Czech track from exact source after processing |
+| Knives Out 1080p CZ Titulky | 30632412 | https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
