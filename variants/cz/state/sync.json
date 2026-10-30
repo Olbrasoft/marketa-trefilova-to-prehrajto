@@ -4664,13 +4664,6 @@
           "source_id": "32461058",
           "target_video_id": "30615829",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:44.393876+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32461058",
-          "target_video_id": "30615829",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:57:52.492330+00:00"
         },
         {
@@ -4679,6 +4672,13 @@
           "target_video_id": "30615829",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:16.575917+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32461058",
+          "target_video_id": "30615829",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:03:09.440014+00:00"
         }
       ],
       "last_plan": {
@@ -4692,12 +4692,6 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-10-29T17:59:34.632657+00:00",
         "relay_source_id": "32461058"
-      },
-      "claim": {
-        "worker_id": "355ebf9e28d1473aac636b192454c7ab-shard-0",
-        "claimed_at": "2026-10-30T06:03:07.661684+00:00",
-        "lease_expires_at": "2026-10-30T12:03:07.661684+00:00",
-        "run_id": "41008254453"
       }
     },
     "250": {
@@ -4727,7 +4721,7 @@
       "last_plan": {
         "source_id": "15052978",
         "display_name": "Gran Torino 1080p CZ Dabing",
-        "planned_at": "2026-10-30T05:31:16.511949+00:00"
+        "planned_at": "2026-10-30T06:03:09.084778+00:00"
       },
       "previous_target_id": "30616096",
       "prepared": {
@@ -4735,6 +4729,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T18:13:23.182086+00:00",
         "relay_source_id": "15052978"
+      },
+      "claim": {
+        "worker_id": "d689001bc3cc4f24bf50561aa385ba6c-shard-0",
+        "claimed_at": "2026-10-30T06:03:09.198745+00:00",
+        "lease_expires_at": "2026-10-30T12:03:09.198745+00:00",
+        "run_id": "41008254453"
       }
     },
     "214": {
@@ -7000,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:03:07.591016+00:00"
+        "planned_at": "2026-10-30T06:03:09.127803+00:00"
       }
     },
     "33811": {
@@ -24707,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:07.928065+00:00"
+  "updated_at": "2026-10-30T06:03:09.440035+00:00"
 }
