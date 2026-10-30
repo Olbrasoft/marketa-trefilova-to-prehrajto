@@ -12126,7 +12126,20 @@
       }
     },
     "509": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31043951",
+          "reason": "Request failed for https://sdilej.cz/31043951/predator-1987-en-cz-dabing-uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:08:59.578177+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "31043951",
+        "display_name": "Predator 4K CZ Dabing",
+        "planned_at": "2026-10-30T23:08:13.765856+00:00"
+      }
     },
     "492": {
       "attempts": []
@@ -31984,5 +31997,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:08:12.397089+00:00"
+  "updated_at": "2026-10-30T23:08:59.578197+00:00"
 }
