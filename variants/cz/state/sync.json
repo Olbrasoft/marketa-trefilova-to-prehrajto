@@ -9002,17 +9002,19 @@
       }
     },
     "342": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28965561",
+          "target_video_id": "30632643",
+          "permanent": false,
+          "attempted_at": "2026-10-30T12:47:50.271710+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28965561",
         "display_name": "Shrek 1080p CZ Dabing",
         "planned_at": "2026-10-30T12:07:40.685616+00:00"
-      },
-      "claim": {
-        "worker_id": "3bcd2828a8314eeb84152cc5ef42f5ec-shard-0",
-        "claimed_at": "2026-10-30T12:07:40.734656+00:00",
-        "lease_expires_at": "2026-10-30T18:07:40.734656+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30632643",
       "prepared": {
@@ -28496,5 +28498,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T12:34:29.922864+00:00"
+  "updated_at": "2026-10-30T12:47:50.271729+00:00"
 }
