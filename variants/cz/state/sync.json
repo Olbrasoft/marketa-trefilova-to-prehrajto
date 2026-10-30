@@ -5596,17 +5596,19 @@
       }
     },
     "185": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34355434",
+          "target_video_id": "30622038",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:16:46.359686+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355434",
         "display_name": "La Haine 1080p CZ Dabing",
         "planned_at": "2026-10-30T00:11:30.212599+00:00"
-      },
-      "claim": {
-        "worker_id": "182b028782c149d78771217a3783e99a-shard-0",
-        "claimed_at": "2026-10-30T00:11:30.299268+00:00",
-        "lease_expires_at": "2026-10-30T06:11:30.299268+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622038",
       "prepared": {
@@ -22691,5 +22693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:11:36.003773+00:00"
+  "updated_at": "2026-10-30T00:16:46.359708+00:00"
 }
