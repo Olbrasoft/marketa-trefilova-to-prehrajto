@@ -6492,7 +6492,7 @@
       "last_plan": {
         "source_id": "33707658",
         "display_name": "Dune (2021) 4K CZ Dabing",
-        "planned_at": "2026-10-30T22:48:14.637365+00:00"
+        "planned_at": "2026-10-30T23:32:13.587377+00:00"
       },
       "previous_target_id": "30624153",
       "prepared": {
@@ -6500,6 +6500,12 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-10-30T02:33:09.819801+00:00",
         "relay_source_id": "33707658"
+      },
+      "claim": {
+        "worker_id": "3cc53a1590fd4467a851aa021dca6379-shard-0",
+        "claimed_at": "2026-10-30T23:32:13.747402+00:00",
+        "lease_expires_at": "2026-10-31T05:32:13.747402+00:00",
+        "run_id": "41144016453"
       }
     },
     "306": {
@@ -6796,13 +6802,6 @@
           "source_id": "33508342",
           "target_video_id": "30626596",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:31:54.972159+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33508342",
-          "target_video_id": "30626596",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:12:52.839870+00:00"
         },
         {
@@ -6811,6 +6810,13 @@
           "target_video_id": "30626596",
           "permanent": false,
           "attempted_at": "2026-10-30T22:48:12.381887+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33508342",
+          "target_video_id": "30626596",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:32:13.925105+00:00"
         }
       ],
       "last_plan": {
@@ -6824,12 +6830,6 @@
         "size_bytes": 6800000000,
         "prepared_at": "2026-10-30T04:58:13.444999+00:00",
         "relay_source_id": "33508342"
-      },
-      "claim": {
-        "worker_id": "e46ff42a3dec4dc190460ff4a1e39a9e-shard-0",
-        "claimed_at": "2026-10-30T23:32:12.208172+00:00",
-        "lease_expires_at": "2026-10-31T05:32:12.208172+00:00",
-        "run_id": "41144016453"
       }
     },
     "260": {
@@ -12212,7 +12212,7 @@
       "last_plan": {
         "source_id": "32643161",
         "display_name": "The Irishman 4K CZ Dabing",
-        "planned_at": "2026-10-30T23:32:12.112497+00:00"
+        "planned_at": "2026-10-30T23:32:13.649921+00:00"
       }
     },
     "11559": {
@@ -32166,5 +32166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:32:12.399762+00:00"
+  "updated_at": "2026-10-30T23:32:13.925121+00:00"
 }
