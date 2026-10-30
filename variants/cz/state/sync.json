@@ -8093,6 +8093,12 @@
         "size_bytes": 3764783571,
         "prepared_at": "2026-10-30T10:10:44.294704+00:00",
         "relay_source_id": "26234037"
+      },
+      "claim": {
+        "worker_id": "dbdd52c7357843108f266cd45d72b66f-shard-0",
+        "claimed_at": "2026-10-30T10:56:13.411016+00:00",
+        "lease_expires_at": "2026-10-30T16:56:13.411016+00:00",
+        "run_id": "41033346199"
       }
     },
     "20538": {
@@ -8111,17 +8117,23 @@
           "attempted_at": "2026-10-30T10:25:42.369708+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31866652",
-        "display_name": "The Straight Story 4K CZ Dabing",
-        "planned_at": "2026-10-30T10:10:41.856226+00:00"
-      },
       "previous_target_id": "30630820",
-      "prepared": {
+      "upload": {
         "target_video_id": "30630820",
-        "size_bytes": 5367678732,
-        "prepared_at": "2026-10-30T10:10:45.680249+00:00",
-        "relay_source_id": "31866652"
+        "display_name": "The Straight Story 4K CZ Dabing",
+        "source_id": "31866652",
+        "source_url": "https://sdilej.cz/31866652/pribeh-alvina-straighta-the-straight-story-1999.2160p.4k.bluray.x265.10bit.aac5.1.cz.dabing.mkv",
+        "source_filename": "Příběh Alvina Straighta - The Straight Story 1999.2160p.4K.BluRay.x265.10bit.AAC5.1.CZ.Dabing.mkv",
+        "size_bytes": 5400000000,
+        "width": 3840,
+        "height": 1608,
+        "audio_language": "cs",
+        "language_probability": 0.9267210960388184,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-straight-story-4k-cz-dabing-mkv/a8e4dc4cc18b0345",
+        "uploaded_at": "2026-10-30T10:56:14.224608+00:00"
       }
     },
     "25915": {
@@ -8472,7 +8484,7 @@
       "last_plan": {
         "source_id": "34176337",
         "display_name": "The Heiress 1080p CZ Dabing",
-        "planned_at": "2026-10-30T10:56:11.836422+00:00"
+        "planned_at": "2026-10-30T10:56:13.460367+00:00"
       }
     },
     "26350": {
@@ -27422,5 +27434,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:56:11.836430+00:00"
+  "updated_at": "2026-10-30T10:56:14.224625+00:00"
 }
