@@ -6969,17 +6969,19 @@
       }
     },
     "327": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29679336",
+          "target_video_id": "30627558",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:09:14.332078+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29679336",
         "display_name": "The Pursuit of Happyness 1080p CZ Dabing",
         "planned_at": "2026-10-30T06:01:37.370917+00:00"
-      },
-      "claim": {
-        "worker_id": "684444527cbb436cbefbc509a1094107-shard-0",
-        "claimed_at": "2026-10-30T06:01:37.563489+00:00",
-        "lease_expires_at": "2026-10-30T12:01:37.563489+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30627558",
       "prepared": {
@@ -24727,5 +24729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:31.840635+00:00"
+  "updated_at": "2026-10-30T06:09:14.332103+00:00"
 }
