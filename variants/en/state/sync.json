@@ -5091,13 +5091,6 @@
           "source_id": "22723021",
           "target_video_id": "30630934",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:30:02.981542+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22723021",
-          "target_video_id": "30630934",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:14:36.762002+00:00"
         },
         {
@@ -5106,6 +5099,13 @@
           "target_video_id": "30630934",
           "permanent": false,
           "attempted_at": "2026-10-30T22:46:22.275251+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22723021",
+          "target_video_id": "30630934",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:30:55.885836+00:00"
         }
       ],
       "last_plan": {
@@ -5119,12 +5119,6 @@
         "size_bytes": 9300000000,
         "prepared_at": "2026-10-30T10:20:33.882788+00:00",
         "relay_source_id": "22723021"
-      },
-      "claim": {
-        "worker_id": "3b28ec18a7584143a182bd4201315b84-shard-0",
-        "claimed_at": "2026-10-30T23:30:53.897055+00:00",
-        "lease_expires_at": "2026-10-31T05:30:53.897055+00:00",
-        "run_id": "41144016453"
       }
     },
     "13389": {
@@ -5516,7 +5510,7 @@
       "last_plan": {
         "source_id": "35402754",
         "display_name": "Knives Out 1080p CZ Titulky",
-        "planned_at": "2026-10-30T22:46:23.657006+00:00"
+        "planned_at": "2026-10-30T23:30:55.621365+00:00"
       },
       "previous_target_id": "30632412",
       "prepared": {
@@ -5524,6 +5518,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-30T11:52:35.551755+00:00",
         "relay_source_id": "35402754"
+      },
+      "claim": {
+        "worker_id": "bb1b5bc68a664f7aa1de68c43f118c07-shard-0",
+        "claimed_at": "2026-10-30T23:30:55.709933+00:00",
+        "lease_expires_at": "2026-10-31T05:30:55.709933+00:00",
+        "run_id": "41144016453"
       }
     },
     "375": {
@@ -6877,7 +6877,7 @@
       "last_plan": {
         "source_id": "12685665",
         "display_name": "The Irishman 720p CZ Titulky",
-        "planned_at": "2026-10-30T23:30:53.867767+00:00"
+        "planned_at": "2026-10-30T23:30:55.680094+00:00"
       }
     },
     "11559": {
@@ -26836,5 +26836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:30:54.104881+00:00"
+  "updated_at": "2026-10-30T23:30:55.885851+00:00"
 }
