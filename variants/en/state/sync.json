@@ -5473,7 +5473,7 @@
       "last_plan": {
         "source_id": "22765537",
         "display_name": "Thor: Ragnarok 1080p CZ Titulky",
-        "planned_at": "2026-10-30T22:46:18.634215+00:00"
+        "planned_at": "2026-10-30T23:30:51.885890+00:00"
       },
       "previous_target_id": "30632260",
       "prepared": {
@@ -5481,6 +5481,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-30T11:43:27.057409+00:00",
         "relay_source_id": "22765537"
+      },
+      "claim": {
+        "worker_id": "c2c39f2be62d42ce960b01ca219cb965-shard-0",
+        "claimed_at": "2026-10-30T23:30:51.965396+00:00",
+        "lease_expires_at": "2026-10-31T05:30:51.965396+00:00",
+        "run_id": "41144016453"
       }
     },
     "356": {
@@ -5791,13 +5797,6 @@
           "source_id": "18188633",
           "target_video_id": "30639527",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:29:58.320508+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18188633",
-          "target_video_id": "30639527",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:14:31.948942+00:00"
         },
         {
@@ -5806,6 +5805,13 @@
           "target_video_id": "30639527",
           "permanent": false,
           "attempted_at": "2026-10-30T22:46:17.335473+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18188633",
+          "target_video_id": "30639527",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:30:52.129233+00:00"
         }
       ],
       "last_plan": {
@@ -5819,12 +5825,6 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T16:22:29.263211+00:00",
         "relay_source_id": "18188633"
-      },
-      "claim": {
-        "worker_id": "680c17b09d374ca2a5cc69e0180e4ce9-shard-0",
-        "claimed_at": "2026-10-30T23:30:50.517935+00:00",
-        "lease_expires_at": "2026-10-31T05:30:50.517935+00:00",
-        "run_id": "41144016453"
       }
     },
     "442": {
@@ -6877,7 +6877,7 @@
       "last_plan": {
         "source_id": "12685665",
         "display_name": "The Irishman 720p CZ Titulky",
-        "planned_at": "2026-10-30T23:30:49.288847+00:00"
+        "planned_at": "2026-10-30T23:30:51.938440+00:00"
       }
     },
     "11559": {
@@ -26836,5 +26836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:30:50.517964+00:00"
+  "updated_at": "2026-10-30T23:30:52.129251+00:00"
 }
