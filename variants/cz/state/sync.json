@@ -8501,17 +8501,19 @@
       }
     },
     "21304": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34176337",
+          "target_video_id": "30631503",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:06:45.056672+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34176337",
         "display_name": "The Heiress 1080p CZ Dabing",
         "planned_at": "2026-10-30T10:56:48.770383+00:00"
-      },
-      "claim": {
-        "worker_id": "91d571d0541340a6a6888fd399a765d6-shard-0",
-        "claimed_at": "2026-10-30T10:56:48.861863+00:00",
-        "lease_expires_at": "2026-10-30T16:56:48.861863+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631503",
       "prepared": {
@@ -27511,5 +27513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:02:30.656486+00:00"
+  "updated_at": "2026-10-30T11:06:45.056690+00:00"
 }
