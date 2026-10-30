@@ -114,3 +114,4 @@ Attach subtitles only after target processing has finished.
 | Going Clear: Scientology, Hollywood, and the Prison of Belief (Going Clear: Scientology and the Prison of Belief) 720p CZ Titulky | 30631572 | https://sdilej.cz/6560926/going-clear-scientology-and-the-prison-of-belief-2015-.720p.hdtv.x264-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Taegukgi (태극기 휘날리며) 720p CZ Titulky | 30631676 | https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Iron Man 1080p CZ Titulky | 30632045 | https://sdilej.cz/35296917/iron-man.mkv | Extract Czech track from exact source after processing |
+| Thor: Ragnarok 1080p CZ Titulky | 30632260 | https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv | Extract Czech track from exact source after processing |
