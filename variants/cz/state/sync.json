@@ -9212,17 +9212,19 @@
       }
     },
     "360": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13255406",
+          "target_video_id": "30634289",
+          "permanent": false,
+          "attempted_at": "2026-10-30T13:30:45.727166+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13255406",
         "display_name": "Bohemian Rhapsody 4K CZ Dabing",
         "planned_at": "2026-10-30T13:05:35.877179+00:00"
-      },
-      "claim": {
-        "worker_id": "b7da5cfef5ee4b019e2d19556ab23ef2-shard-0",
-        "claimed_at": "2026-10-30T13:05:35.944969+00:00",
-        "lease_expires_at": "2026-10-30T19:05:35.944969+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30634289",
       "prepared": {
@@ -28940,5 +28942,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:30:36.547898+00:00"
+  "updated_at": "2026-10-30T13:30:45.727183+00:00"
 }
