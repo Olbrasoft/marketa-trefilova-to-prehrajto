@@ -4399,7 +4399,7 @@
       "last_plan": {
         "source_id": "12902823",
         "display_name": "Gone Girl 1080p CZ Dabing",
-        "planned_at": "2026-10-30T05:31:18.111167+00:00"
+        "planned_at": "2026-10-30T06:03:10.639123+00:00"
       },
       "previous_target_id": "30614108",
       "prepared": {
@@ -4407,6 +4407,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-10-29T16:32:56.043846+00:00",
         "relay_source_id": "12902823"
+      },
+      "claim": {
+        "worker_id": "e287f4bd037f479fa4951013c51acc25-shard-0",
+        "claimed_at": "2026-10-30T06:03:10.759544+00:00",
+        "lease_expires_at": "2026-10-30T12:03:10.759544+00:00",
+        "run_id": "41008254453"
       }
     },
     "223": {
@@ -4701,13 +4707,6 @@
           "source_id": "15052978",
           "target_video_id": "30616096",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:46.752977+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15052978",
-          "target_video_id": "30616096",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:57:54.586144+00:00"
         },
         {
@@ -4716,6 +4715,13 @@
           "target_video_id": "30616096",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:18.875437+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15052978",
+          "target_video_id": "30616096",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:03:11.047450+00:00"
         }
       ],
       "last_plan": {
@@ -4729,12 +4735,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T18:13:23.182086+00:00",
         "relay_source_id": "15052978"
-      },
-      "claim": {
-        "worker_id": "d689001bc3cc4f24bf50561aa385ba6c-shard-0",
-        "claimed_at": "2026-10-30T06:03:09.198745+00:00",
-        "lease_expires_at": "2026-10-30T12:03:09.198745+00:00",
-        "run_id": "41008254453"
       }
     },
     "214": {
@@ -7000,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:03:09.127803+00:00"
+        "planned_at": "2026-10-30T06:03:10.687495+00:00"
       }
     },
     "33811": {
@@ -24707,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:09.440035+00:00"
+  "updated_at": "2026-10-30T06:03:11.047472+00:00"
 }
