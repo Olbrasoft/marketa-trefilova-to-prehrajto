@@ -6636,13 +6636,6 @@
           "source_id": "32455047",
           "target_video_id": "30625836",
           "permanent": false,
-          "attempted_at": "2026-10-30T18:43:55.822485+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32455047",
-          "target_video_id": "30625836",
-          "permanent": false,
           "attempted_at": "2026-10-30T19:14:36.493563+00:00"
         },
         {
@@ -6651,6 +6644,13 @@
           "target_video_id": "30625836",
           "permanent": false,
           "attempted_at": "2026-10-30T19:48:32.463840+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32455047",
+          "target_video_id": "30625836",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:22:35.348668+00:00"
         }
       ],
       "last_plan": {
@@ -6664,12 +6664,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-30T04:24:24.048654+00:00",
         "relay_source_id": "32455047"
-      },
-      "claim": {
-        "worker_id": "a1ae0664ba9940cdbe39c5f634ecf6a2-shard-0",
-        "claimed_at": "2026-10-30T20:22:33.176552+00:00",
-        "lease_expires_at": "2026-10-31T02:22:33.176552+00:00",
-        "run_id": "41106549738"
       }
     },
     "282": {
@@ -7960,7 +7954,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-10-30T19:48:34.740510+00:00"
+        "planned_at": "2026-10-30T20:22:34.975093+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -7968,6 +7962,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "77fc658df1b64739a8439aef464a74d0-shard-0",
+        "claimed_at": "2026-10-30T20:22:35.162555+00:00",
+        "lease_expires_at": "2026-10-31T02:22:35.162555+00:00",
+        "run_id": "41106549738"
       }
     },
     "10690": {
@@ -11058,7 +11058,7 @@
       "last_plan": {
         "source_id": "33563386",
         "display_name": "Sleuth (1972) SD CZ Dabing",
-        "planned_at": "2026-10-30T20:22:32.968375+00:00"
+        "planned_at": "2026-10-30T20:22:35.036071+00:00"
       }
     },
     "397": {
@@ -31003,5 +31003,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:22:33.830333+00:00"
+  "updated_at": "2026-10-30T20:22:35.348686+00:00"
 }
