@@ -6630,13 +6630,6 @@
           "source_id": "32455047",
           "target_video_id": "30625836",
           "permanent": false,
-          "attempted_at": "2026-10-30T16:48:46.187016+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32455047",
-          "target_video_id": "30625836",
-          "permanent": false,
           "attempted_at": "2026-10-30T17:22:54.206284+00:00"
         },
         {
@@ -6645,12 +6638,19 @@
           "target_video_id": "30625836",
           "permanent": false,
           "attempted_at": "2026-10-30T18:09:11.659811+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32455047",
+          "target_video_id": "30625836",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:43:55.822485+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32455047",
         "display_name": "Black Swan 1080p CZ Dabing",
-        "planned_at": "2026-10-30T18:09:09.470203+00:00"
+        "planned_at": "2026-10-30T18:43:54.719863+00:00"
       },
       "previous_target_id": "30625836",
       "prepared": {
@@ -10279,11 +10279,22 @@
       "last_plan": {
         "source_id": "33251603",
         "display_name": "Talk to Her 1080p CZ Dabing",
-        "planned_at": "2026-10-30T18:43:50.869856+00:00"
+        "planned_at": "2026-10-30T18:43:54.779063+00:00"
+      },
+      "claim": {
+        "worker_id": "88343e82c9e6434db35ba053bf5eb425-shard-0",
+        "claimed_at": "2026-10-30T18:43:54.944078+00:00",
+        "lease_expires_at": "2026-10-31T00:43:54.944078+00:00",
+        "run_id": "41071477533"
       }
     },
     "21340": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34041005",
+        "display_name": "A Streetcar Named Desire 720p CZ Dabing",
+        "planned_at": "2026-10-30T18:43:54.816612+00:00"
+      }
     },
     "21347": {
       "attempts": []
@@ -30231,5 +30242,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:43:52.298513+00:00"
+  "updated_at": "2026-10-30T18:43:55.822502+00:00"
 }
