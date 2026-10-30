@@ -112,3 +112,4 @@ Attach subtitles only after target processing has finished.
 | The Ascent 1080p CZ Titulky | 30631012 | https://sdilej.cz/33856188/300-vzestup-rise.mp4 | Extract Czech track from exact source after processing |
 | The Miracle Worker 1080p CZ Titulky | 30631145 | https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv | Extract Czech track from exact source after processing |
 | Going Clear: Scientology, Hollywood, and the Prison of Belief (Going Clear: Scientology and the Prison of Belief) 720p CZ Titulky | 30631572 | https://sdilej.cz/6560926/going-clear-scientology-and-the-prison-of-belief-2015-.720p.hdtv.x264-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Taegukgi (태극기 휘날리며) 720p CZ Titulky | 30631676 | https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv | Extract Czech track from exact source after processing |
