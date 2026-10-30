@@ -4324,17 +4324,19 @@
       }
     },
     "305": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32668635",
+          "target_video_id": "30625425",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:41:56.455412+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32668635",
         "display_name": "Donnie Darko 4K CZ Titulky",
         "planned_at": "2026-10-30T04:00:54.279930+00:00"
-      },
-      "claim": {
-        "worker_id": "7be2526f073b4175a2e7c8a3f6869dbb-shard-0",
-        "claimed_at": "2026-10-30T04:00:54.299571+00:00",
-        "lease_expires_at": "2026-10-30T10:00:54.299571+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30625425",
       "prepared": {
@@ -21931,5 +21933,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:38:38.156828+00:00"
+  "updated_at": "2026-10-30T04:41:56.455428+00:00"
 }
