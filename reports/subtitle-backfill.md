@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T03:20:13.331757+00:00
+Poslední aktualizace (UTC): 2026-10-30T03:20:17.236669+00:00
 
 Zkontrolováno videí: 90. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 34, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 7, `target_unavailable`: 29, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 35, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 7, `target_unavailable`: 28, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -51,7 +51,6 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-30T02:19:57.692257+00:00 |
 | [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-30T02:39:53.752624+00:00 |
 | [Fargo 1080p CZ Titulky](https://prehraj.to/fargo-1080p-cz-titulky-mkv/ea6f1d334ff98e8e) (ID 30616407) | [Sdílej 26744950](https://sdilej.cz/26744950/fargo-1996-fhd-1080p--cz-vhs-cz-ctv-sk-pl-eng-dts-.mkv) | target_unavailable | 2026-10-30T02:39:56.978108+00:00 |
-| [Guardians of the Galaxy 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-4k-cz-titulky-mkv/602452cb0abfb3f1) (ID 30623940) | [Sdílej 27579007](https://sdilej.cz/27579007/strazci-galaxie-1-2014-2160p.mkv) | target_unavailable | 2026-10-30T02:19:34.158090+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-30T02:19:44.129943+00:00 |
 | [Klaus 1080p CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-30T03:00:17.685043+00:00 |
 | [Logan 1080p CZ Titulky](https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0) (ID 30615338) | [Sdílej 7273334](https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv) | target_unavailable | 2026-10-30T02:50:05.218695+00:00 |
