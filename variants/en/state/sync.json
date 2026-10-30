@@ -5867,11 +5867,19 @@
       }
     },
     "29914": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "17206386",
+          "reason": "Request failed for https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:33:41.415002+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17206386",
         "display_name": "Hero (2002) 1080p CZ Titulky",
-        "planned_at": "2026-10-30T17:32:51.044473+00:00"
+        "planned_at": "2026-10-30T17:32:55.552575+00:00"
       }
     },
     "20132": {
@@ -25763,5 +25771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:32:51.044489+00:00"
+  "updated_at": "2026-10-30T17:33:41.415022+00:00"
 }
