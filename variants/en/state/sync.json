@@ -3665,7 +3665,7 @@
       "last_plan": {
         "source_id": "32534147",
         "display_name": "My Neighbor Totoro (となりのトトロ) 1080p",
-        "planned_at": "2026-10-30T05:30:46.371012+00:00"
+        "planned_at": "2026-10-30T06:02:27.773801+00:00"
       },
       "previous_target_id": "30620967",
       "prepared": {
@@ -3673,6 +3673,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-10-29T22:58:10.816505+00:00",
         "relay_source_id": "32534147"
+      },
+      "claim": {
+        "worker_id": "edc8661b180b4259adfbdd481e0de13e-shard-0",
+        "claimed_at": "2026-10-30T06:02:27.833620+00:00",
+        "lease_expires_at": "2026-10-30T12:02:27.833620+00:00",
+        "run_id": "41008254453"
       }
     },
     "29934": {
@@ -4149,13 +4155,6 @@
           "source_id": "32450707",
           "target_video_id": "30623110",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:03.038927+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32450707",
-          "target_video_id": "30623110",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:57:11.578940+00:00"
         },
         {
@@ -4164,6 +4163,13 @@
           "target_video_id": "30623110",
           "permanent": false,
           "attempted_at": "2026-10-30T05:30:45.124156+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32450707",
+          "target_video_id": "30623110",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:02:28.124509+00:00"
         }
       ],
       "last_plan": {
@@ -4177,12 +4183,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-30T01:19:12.391970+00:00",
         "relay_source_id": "32450707"
-      },
-      "claim": {
-        "worker_id": "6584c2f1fa944babb8912c15e85df8cd-shard-0",
-        "claimed_at": "2026-10-30T06:02:26.177990+00:00",
-        "lease_expires_at": "2026-10-30T12:02:26.177990+00:00",
-        "run_id": "41008254453"
       }
     },
     "29612": {
@@ -4554,7 +4554,7 @@
       "last_plan": {
         "source_id": "35036692",
         "display_name": "Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky",
-        "planned_at": "2026-10-30T06:02:26.156181+00:00"
+        "planned_at": "2026-10-30T06:02:27.812256+00:00"
       }
     },
     "23172": {
@@ -22263,5 +22263,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:02:26.473169+00:00"
+  "updated_at": "2026-10-30T06:02:28.124540+00:00"
 }
