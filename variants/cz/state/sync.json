@@ -7094,17 +7094,19 @@
       }
     },
     "257": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29858844",
+          "target_video_id": "30627814",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:24:35.662297+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29858844",
         "display_name": "The Princess Bride 1080p CZ Dabing",
         "planned_at": "2026-10-30T06:18:35.149841+00:00"
-      },
-      "claim": {
-        "worker_id": "bb563b0328b543af87fa9fe65cf7d0db-shard-0",
-        "claimed_at": "2026-10-30T06:18:35.222878+00:00",
-        "lease_expires_at": "2026-10-30T12:18:35.222878+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30627814",
       "prepared": {
@@ -24801,5 +24803,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:18:39.082265+00:00"
+  "updated_at": "2026-10-30T06:24:35.662317+00:00"
 }
