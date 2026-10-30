@@ -8724,17 +8724,19 @@
       "attempts": []
     },
     "20410": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31343982",
+          "target_video_id": "30631763",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:26:45.882481+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31343982",
         "display_name": "Ocean with David Attenborough 1080p CZ Dabing",
         "planned_at": "2026-10-30T11:15:27.118139+00:00"
-      },
-      "claim": {
-        "worker_id": "d466773d266a4158b4e9e3127091c71d-shard-0",
-        "claimed_at": "2026-10-30T11:15:27.165776+00:00",
-        "lease_expires_at": "2026-10-30T17:15:27.165776+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631763",
       "prepared": {
@@ -27943,5 +27945,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:20:14.026171+00:00"
+  "updated_at": "2026-10-30T11:26:45.882498+00:00"
 }
