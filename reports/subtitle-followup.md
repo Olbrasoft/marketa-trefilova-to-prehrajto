@@ -133,3 +133,4 @@ Attach subtitles only after target processing has finished.
 | Icarus (2017) 1080p CZ Titulky | 30643582 | https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv | Extract Czech track from exact source after processing |
 | The Mirror (Mirror) 1080p CZ Titulky | 30643725 | https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv | Extract Czech track from exact source after processing |
 | Fitzcarraldo 720p CZ Titulky | 30644027 | https://sdilej.cz/34483131/fitzcarraldo-n-peru-1982-werner-herzog-bluray.720p.hevc.en.ger.aac.en.cz.sub.mkv | Complete: Czech subtitles verified |
+| Ne Zha 2 1080p CZ Titulky | 30644398 | https://sdilej.cz/32387424/ne-zha-2-2025-cz-titulky-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
