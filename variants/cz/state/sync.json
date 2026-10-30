@@ -5651,17 +5651,19 @@
       "attempts": []
     },
     "21395": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32726554",
+          "target_video_id": "30622147",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:27:33.964698+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32726554",
         "display_name": "Dial M for Murder 1080p CZ Dabing",
         "planned_at": "2026-10-30T00:21:41.053608+00:00"
-      },
-      "claim": {
-        "worker_id": "add0ab4df45841368c0dfe623868a856-shard-0",
-        "claimed_at": "2026-10-30T00:21:41.130878+00:00",
-        "lease_expires_at": "2026-10-30T06:21:41.130878+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622147",
       "prepared": {
@@ -22762,5 +22764,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:25:09.890590+00:00"
+  "updated_at": "2026-10-30T00:27:33.964716+00:00"
 }
