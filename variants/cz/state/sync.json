@@ -10467,17 +10467,19 @@
       "attempts": []
     },
     "21189": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31554723",
+          "target_video_id": "30642374",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:06:11.240822+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31554723",
         "display_name": "King Kong (1933) 1080p CZ Dabing",
         "planned_at": "2026-10-30T18:57:45.531167+00:00"
-      },
-      "claim": {
-        "worker_id": "5fc382bc2b144fc2a067c966fe0f925e-shard-0",
-        "claimed_at": "2026-10-30T18:57:45.629452+00:00",
-        "lease_expires_at": "2026-10-31T00:57:45.629452+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30642374",
       "prepared": {
@@ -30409,5 +30411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:03:40.434993+00:00"
+  "updated_at": "2026-10-30T19:06:11.240831+00:00"
 }
