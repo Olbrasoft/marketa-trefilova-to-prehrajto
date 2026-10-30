@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-10-30T07:21:40.334572+00:00"
+        "planned_at": "2026-10-30T08:04:46.239648+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "74a65cc7610b4b0dbfa602e44c426e8e-shard-0",
+        "claimed_at": "2026-10-30T08:04:46.359369+00:00",
+        "lease_expires_at": "2026-10-30T14:04:46.359369+00:00",
+        "run_id": "41008254453"
       }
     },
     "10755": {
@@ -1021,13 +1027,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-10-30T06:02:58.477650+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-10-30T06:47:46.298592+00:00"
         },
         {
@@ -1036,6 +1035,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-10-30T07:21:39.053126+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:04:46.980212+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1055,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "4ac50da2cac042b6bda56b05c4957a7d-shard-0",
-        "claimed_at": "2026-10-30T08:04:44.536735+00:00",
-        "lease_expires_at": "2026-10-30T14:04:44.536735+00:00",
-        "run_id": "41008254453"
       }
     },
     "54": {
@@ -7457,7 +7457,7 @@
       "last_plan": {
         "source_id": "33504052",
         "display_name": "Rosemary's Baby 4K CZ Dabing",
-        "planned_at": "2026-10-30T08:04:44.462912+00:00"
+        "planned_at": "2026-10-30T08:04:46.285171+00:00"
       }
     },
     "17688": {
@@ -25705,5 +25705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:04:44.890810+00:00"
+  "updated_at": "2026-10-30T08:04:46.980233+00:00"
 }
