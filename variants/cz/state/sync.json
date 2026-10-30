@@ -11653,17 +11653,19 @@
       "attempts": []
     },
     "495": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14820817",
+          "target_video_id": "30645740",
+          "permanent": false,
+          "attempted_at": "2026-10-30T22:23:13.111338+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14820817",
         "display_name": "Skyfall 4K CZ Dabing",
         "planned_at": "2026-10-30T21:32:59.484273+00:00"
-      },
-      "claim": {
-        "worker_id": "10562f25aa0849e398c17db54aff3ff0-shard-0",
-        "claimed_at": "2026-10-30T21:33:00.690581+00:00",
-        "lease_expires_at": "2026-10-31T03:33:00.690581+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30645740",
       "prepared": {
@@ -31719,5 +31721,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T22:22:03.728475+00:00"
+  "updated_at": "2026-10-30T22:23:13.111354+00:00"
 }
