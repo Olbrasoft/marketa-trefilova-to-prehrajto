@@ -4728,7 +4728,7 @@
       "last_plan": {
         "source_id": "13533126",
         "display_name": "The Princess Bride 1080p CZ Titulky",
-        "planned_at": "2026-10-30T19:48:57.710851+00:00"
+        "planned_at": "2026-10-30T20:20:39.912344+00:00"
       },
       "previous_target_id": "30627890",
       "prepared": {
@@ -4736,6 +4736,12 @@
         "size_bytes": 8500000000,
         "prepared_at": "2026-10-30T06:24:44.611238+00:00",
         "relay_source_id": "13533126"
+      },
+      "claim": {
+        "worker_id": "815d454882734087a883a3f152826daf-shard-0",
+        "claimed_at": "2026-10-30T20:20:39.993621+00:00",
+        "lease_expires_at": "2026-10-31T02:20:39.993621+00:00",
+        "run_id": "41106549738"
       }
     },
     "239": {
@@ -6282,17 +6288,19 @@
       }
     },
     "22230": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30440919",
+          "target_video_id": "30643725",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:20:40.087067+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30440919",
         "display_name": "The Mirror (Mirror) 1080p CZ Titulky",
         "planned_at": "2026-10-30T20:09:28.312434+00:00"
-      },
-      "claim": {
-        "worker_id": "33ec79781e8145648d5de86db6c5a677-shard-0",
-        "claimed_at": "2026-10-30T20:09:28.342247+00:00",
-        "lease_expires_at": "2026-10-31T02:09:28.342247+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30643725",
       "prepared": {
@@ -6334,7 +6342,7 @@
       "last_plan": {
         "source_id": "34483131",
         "display_name": "Fitzcarraldo 720p CZ Titulky",
-        "planned_at": "2026-10-30T20:20:37.441631+00:00"
+        "planned_at": "2026-10-30T20:20:39.965506+00:00"
       }
     },
     "30204": {
@@ -26259,5 +26267,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:20:38.623083+00:00"
+  "updated_at": "2026-10-30T20:20:40.087083+00:00"
 }
