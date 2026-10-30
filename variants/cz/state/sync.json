@@ -6494,7 +6494,7 @@
       "last_plan": {
         "source_id": "10335034",
         "display_name": "The Revenant 1080p CZ Dabing",
-        "planned_at": "2026-10-30T09:51:02.942073+00:00"
+        "planned_at": "2026-10-30T10:25:53.161215+00:00"
       },
       "previous_target_id": "30624671",
       "prepared": {
@@ -6502,6 +6502,12 @@
         "size_bytes": 12000000000,
         "prepared_at": "2026-10-30T03:08:20.350816+00:00",
         "relay_source_id": "10335034"
+      },
+      "claim": {
+        "worker_id": "1ddd8c1157334db5b34cb64040c437d8-shard-0",
+        "claimed_at": "2026-10-30T10:25:53.233580+00:00",
+        "lease_expires_at": "2026-10-30T16:25:53.233580+00:00",
+        "run_id": "41033346199"
       }
     },
     "305": {
@@ -8131,17 +8137,19 @@
       "attempts": []
     },
     "22326": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12919155",
+          "target_video_id": "30630938",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:25:53.526999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12919155",
         "display_name": "The Ascent SD CZ Dabing",
         "planned_at": "2026-10-30T10:20:51.626101+00:00"
-      },
-      "claim": {
-        "worker_id": "0ebf568888584b45a9f41f64884aa0c9-shard-0",
-        "claimed_at": "2026-10-30T10:20:51.671466+00:00",
-        "lease_expires_at": "2026-10-30T16:20:51.671466+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30630938",
       "prepared": {
@@ -8165,7 +8173,7 @@
       "last_plan": {
         "source_id": "33155666",
         "display_name": "Ballad of a Soldier 720p CZ Dabing",
-        "planned_at": "2026-10-30T10:25:50.883491+00:00"
+        "planned_at": "2026-10-30T10:25:53.189304+00:00"
       }
     },
     "32461": {
@@ -27184,5 +27192,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:25:51.940714+00:00"
+  "updated_at": "2026-10-30T10:25:53.527015+00:00"
 }
