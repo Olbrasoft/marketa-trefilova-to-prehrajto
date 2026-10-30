@@ -7767,17 +7767,19 @@
       "attempts": []
     },
     "22310": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21069316",
+          "target_video_id": "30630194",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:25:02.677437+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21069316",
         "display_name": "Network 1080p CZ Dabing",
         "planned_at": "2026-10-30T09:20:03.064872+00:00"
-      },
-      "claim": {
-        "worker_id": "f0c88d94bd14497891a273d55cca0fb9-shard-0",
-        "claimed_at": "2026-10-30T09:20:03.140100+00:00",
-        "lease_expires_at": "2026-10-30T15:20:03.140100+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30630194",
       "prepared": {
@@ -26587,5 +26589,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:20:09.527228+00:00"
+  "updated_at": "2026-10-30T09:25:02.677456+00:00"
 }
