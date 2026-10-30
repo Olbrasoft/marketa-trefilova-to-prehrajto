@@ -110,3 +110,4 @@ Attach subtitles only after target processing has finished.
 | Stalker (Сталкер) (1979) 1080p CZ Titulky | 30630550 | https://sdilej.cz/29472972/stalker-1979-rus.-cz-titulky-remaster..mkv | Extract Czech track from exact source after processing |
 | Elite Squad: The Enemy Within 1080p CZ Titulky | 30630934 | https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv | Extract Czech track from exact source after processing |
 | The Ascent 1080p CZ Titulky | 30631012 | https://sdilej.cz/33856188/300-vzestup-rise.mp4 | Extract Czech track from exact source after processing |
+| The Miracle Worker 1080p CZ Titulky | 30631145 | https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv | Extract Czech track from exact source after processing |
