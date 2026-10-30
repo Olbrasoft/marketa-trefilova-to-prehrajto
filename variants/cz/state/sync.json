@@ -11370,17 +11370,19 @@
       "attempts": []
     },
     "18215": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11694705",
+          "target_video_id": "30644395",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:45:06.294231+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11694705",
         "display_name": "Racing Extinction SD CZ Dabing",
         "planned_at": "2026-10-30T20:42:17.272695+00:00"
-      },
-      "claim": {
-        "worker_id": "719e54574d174da49fc3d6d8ef0d9ecf-shard-0",
-        "claimed_at": "2026-10-30T20:42:17.379624+00:00",
-        "lease_expires_at": "2026-10-31T02:42:17.379624+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30644395",
       "prepared": {
@@ -31240,5 +31242,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:43:02.754122+00:00"
+  "updated_at": "2026-10-30T20:45:06.294248+00:00"
 }
