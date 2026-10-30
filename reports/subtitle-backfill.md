@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T21:44:49.359590+00:00
+Poslední aktualizace (UTC): 2026-10-30T21:44:52.910066+00:00
 
 Zkontrolováno videí: 134. Další stránka kontroly: 0.
 
@@ -97,7 +97,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-30T21:12:47.192601+00:00 |
 | [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | target_unavailable | 2026-10-30T20:53:04.123981+00:00 |
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-30T21:02:41.322281+00:00 |
-| [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-30T20:42:28.186514+00:00 |
+| [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-30T21:44:52.909983+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-30T20:53:23.798392+00:00 |
 | [Zootopia 1080p CZ Titulky](https://prehraj.to/zootopia-1080p-cz-titulky-mkv/56616e1801d6278d) (ID 30627325) | [Sdílej 33063690](https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv) | target_unavailable | 2026-10-30T21:44:25.395657+00:00 |
 
