@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:03:28.928559+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:03:32.349380+00:00
 
 Zkontrolováno videí: 117. Další stránka kontroly: 0.
 
@@ -84,7 +84,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Princess Bride 1080p CZ Titulky](https://prehraj.to/the-princess-bride-1080p-cz-titulky-mkv/015727ef8d52425b) (ID 30627890) | [Sdílej 13533126](https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv) | target_unavailable | 2026-10-30T15:43:55.111782+00:00 |
 | [The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky](https://prehraj.to/the-voice-of-hind-rajab-1080p-cz-titulky-mkv/e21354a981f1936f) (ID 30622539) | [Sdílej 34845555](https://sdilej.cz/34845555/the-voice-of-hind-rajab-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-10-30T15:23:18.914201+00:00 |
 | [The Wild Robot 4K CZ Titulky](https://prehraj.to/the-wild-robot-4k-cz-titulky-mkv/e2774f937391eb9e) (ID 30622026) | [Sdílej 29907177](https://sdilej.cz/29907177/the.wild.robot-2024-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-30T15:43:38.068933+00:00 |
-| [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-30T14:53:43.125717+00:00 |
+| [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-30T16:03:32.349297+00:00 |
 | [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | target_unavailable | 2026-10-30T15:43:41.479553+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-10-30T15:13:06.700793+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-30T15:44:03.101312+00:00 |
