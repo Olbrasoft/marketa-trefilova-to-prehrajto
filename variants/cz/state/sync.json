@@ -11579,11 +11579,19 @@
       }
     },
     "19010": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32526955",
+          "reason": "Request failed for https://sdilej.cz/32526955/dunkerk-2017-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T21:21:20.570799+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32526955",
         "display_name": "Dunkirk 1080p CZ Dabing",
-        "planned_at": "2026-10-30T21:19:17.345615+00:00"
+        "planned_at": "2026-10-30T21:20:34.724786+00:00"
       }
     },
     "31096": {
@@ -31388,5 +31396,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:20:29.138319+00:00"
+  "updated_at": "2026-10-30T21:21:20.570819+00:00"
 }
