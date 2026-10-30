@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T02:30:02.571453+00:00
+Poslední aktualizace (UTC): 2026-10-30T02:30:05.939352+00:00
 
 Zkontrolováno videí: 89. Další stránka kontroly: 0.
 
@@ -45,7 +45,7 @@ Kontrol: 9; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | --- | --- | --- | --- |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T01:59:27.313423+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | target_unavailable | 2026-10-30T02:19:47.751974+00:00 |
-| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-30T01:26:06.652422+00:00 |
+| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-30T02:30:05.939289+00:00 |
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-30T02:19:57.692257+00:00 |
 | [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-30T01:35:55.676085+00:00 |
 | [Fargo 1080p CZ Titulky](https://prehraj.to/fargo-1080p-cz-titulky-mkv/ea6f1d334ff98e8e) (ID 30616407) | [Sdílej 26744950](https://sdilej.cz/26744950/fargo-1996-fhd-1080p--cz-vhs-cz-ctv-sk-pl-eng-dts-.mkv) | target_unavailable | 2026-10-30T01:36:03.507114+00:00 |
