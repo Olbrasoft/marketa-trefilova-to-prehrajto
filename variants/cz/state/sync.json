@@ -8199,17 +8199,19 @@
       }
     },
     "32461": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24023259",
+          "target_video_id": "30631088",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:35:45.017277+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24023259",
         "display_name": "Who's Afraid of Virginia Woolf? SD CZ Dabing",
         "planned_at": "2026-10-30T10:31:58.567833+00:00"
-      },
-      "claim": {
-        "worker_id": "093f2c1cddc64e9ba26e6e5a925ea1c7-shard-0",
-        "claimed_at": "2026-10-30T10:31:58.614725+00:00",
-        "lease_expires_at": "2026-10-30T16:31:58.614725+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631088",
       "prepared": {
@@ -27237,5 +27239,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:35:41.492941+00:00"
+  "updated_at": "2026-10-30T10:35:45.017300+00:00"
 }
