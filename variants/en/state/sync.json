@@ -4709,17 +4709,19 @@
       "attempts": []
     },
     "24247": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9846860",
+          "target_video_id": "30628484",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:04:21.534728+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9846860",
         "display_name": "Magnolia 1080p CZ Titulky",
         "planned_at": "2026-10-30T07:13:03.749375+00:00"
-      },
-      "claim": {
-        "worker_id": "fb780f265133462e8619329f481d455d-shard-0",
-        "claimed_at": "2026-10-30T07:13:03.771317+00:00",
-        "lease_expires_at": "2026-10-30T13:13:03.771317+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30628484",
       "prepared": {
@@ -23018,5 +23020,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:04:20.318282+00:00"
+  "updated_at": "2026-10-30T08:04:21.534750+00:00"
 }
