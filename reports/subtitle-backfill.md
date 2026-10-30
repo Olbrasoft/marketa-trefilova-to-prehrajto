@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T16:13:49.091563+00:00
+Poslední aktualizace (UTC): 2026-10-30T16:14:37.767474+00:00
 
 Zkontrolováno videí: 117. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 47, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 15, `source_czech_text_missing`: 11, `target_unavailable`: 36, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 47, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 15, `source_czech_text_missing`: 11, `source_unavailable`: 1, `target_unavailable`: 35, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -57,7 +57,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Black Swan 1080p CZ Titulky](https://prehraj.to/black-swan-1080p-cz-titulky-mkv/34449af02c0418ac) (ID 30625850) | [Sdílej 34794426](https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv) | target_unavailable | 2026-10-30T15:44:06.770020+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | target_unavailable | 2026-10-30T15:43:48.382144+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-30T16:03:37.001743+00:00 |
-| [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-30T15:13:03.136750+00:00 |
+| [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | source_unavailable | 2026-10-30T16:14:37.736512+00:00 |
 | [Donnie Darko 4K CZ Titulky](https://prehraj.to/donnie-darko-4k-cz-titulky-mkv/2e2a0f583f318abe) (ID 30625425) | [Sdílej 32668635](https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv) | target_unavailable | 2026-10-30T15:43:20.869321+00:00 |
 | [Elite Squad: The Enemy Within 1080p CZ Titulky](https://prehraj.to/elite-squad-the-enemy-within-1080p-cz-titulky-mkv/8cc4007d4f15a04f) (ID 30630934) | [Sdílej 22723021](https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv) | target_unavailable | 2026-10-30T15:43:06.345693+00:00 |
 | [Guardians of the Galaxy Vol. 3 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-vol-3-4k-cz-titulky-mkv/134396bccaf3cde2) (ID 30638438) | [Sdílej 26457098](https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-30T16:13:34.985459+00:00 |
