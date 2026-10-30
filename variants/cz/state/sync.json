@@ -11231,17 +11231,19 @@
       "attempts": []
     },
     "21513": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28411248",
+          "target_video_id": "30644176",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:35:50.810221+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28411248",
         "display_name": "Elevator to the Gallows SD CZ Dabing",
         "planned_at": "2026-10-30T20:31:32.162967+00:00"
-      },
-      "claim": {
-        "worker_id": "9be1b39c648147f6a3fa219ac87ca85b-shard-0",
-        "claimed_at": "2026-10-30T20:31:32.264919+00:00",
-        "lease_expires_at": "2026-10-31T02:31:32.264919+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30644176",
       "prepared": {
@@ -31146,5 +31148,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:34:25.307849+00:00"
+  "updated_at": "2026-10-30T20:35:50.810238+00:00"
 }
