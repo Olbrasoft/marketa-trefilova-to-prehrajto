@@ -7543,17 +7543,19 @@
       "attempts": []
     },
     "21943": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17360108",
+          "target_video_id": "30629612",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:44:22.689205+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17360108",
         "display_name": "Butch Cassidy and the Sundance Kid 1080p CZ Dabing",
         "planned_at": "2026-10-30T08:31:59.235697+00:00"
-      },
-      "claim": {
-        "worker_id": "b301248760314dde9331657a09a2083d-shard-0",
-        "claimed_at": "2026-10-30T08:31:59.311040+00:00",
-        "lease_expires_at": "2026-10-30T14:31:59.311040+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30629612",
       "prepared": {
@@ -26101,5 +26103,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:32:34.702975+00:00"
+  "updated_at": "2026-10-30T08:44:22.689225+00:00"
 }
