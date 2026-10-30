@@ -5769,17 +5769,19 @@
       "attempts": []
     },
     "31836": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29266712",
+          "target_video_id": "30640109",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:08:26.888984+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29266712",
         "display_name": "Annie Hall 720p CZ Titulky",
         "planned_at": "2026-10-30T16:56:57.606207+00:00"
-      },
-      "claim": {
-        "worker_id": "59d693a4a2d14e34b1d071d73280157c-shard-0",
-        "claimed_at": "2026-10-30T16:56:57.636100+00:00",
-        "lease_expires_at": "2026-10-30T22:56:57.636100+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30640109",
       "prepared": {
@@ -25593,5 +25595,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:05:05.886685+00:00"
+  "updated_at": "2026-10-30T17:08:26.889001+00:00"
 }
