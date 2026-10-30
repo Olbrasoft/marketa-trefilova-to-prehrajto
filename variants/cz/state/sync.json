@@ -8336,17 +8336,19 @@
       }
     },
     "270": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:48:36.518949+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17777440",
         "display_name": "Friends: The Reunion 1080p CZ Dabing",
         "planned_at": "2026-10-30T10:45:47.260640+00:00"
-      },
-      "claim": {
-        "worker_id": "5691b1f22fd54a7880aba8f39f12809e-shard-0",
-        "claimed_at": "2026-10-30T10:45:47.306638+00:00",
-        "lease_expires_at": "2026-10-30T16:45:47.306638+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631282",
       "prepared": {
@@ -27342,5 +27344,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:48:35.237221+00:00"
+  "updated_at": "2026-10-30T10:48:36.518970+00:00"
 }
