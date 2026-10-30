@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T15:44:10.031637+00:00
+Poslední aktualizace (UTC): 2026-10-30T15:44:13.483826+00:00
 
 Zkontrolováno videí: 117. Další stránka kontroly: 0.
 
@@ -78,7 +78,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Taegukgi (태극기 휘날리며) 720p CZ Titulky](https://prehraj.to/taegukgi-720p-cz-titulky-mkv/4a834c4e3076e2d5) (ID 30631676) | [Sdílej 15397067](https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv) | target_unavailable | 2026-10-30T15:22:56.189500+00:00 |
 | [The Ascent 1080p CZ Titulky](https://prehraj.to/the-ascent-1080p-cz-titulky-mp4/1336557402a4a4bf) (ID 30631012) | [Sdílej 33856188](https://sdilej.cz/33856188/300-vzestup-rise.mp4) | target_unavailable | 2026-10-30T15:43:09.752254+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T15:23:11.492711+00:00 |
-| [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T14:43:58.380979+00:00 |
+| [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T15:44:13.483757+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T14:53:50.531246+00:00 |
 | [The Miracle Worker 1080p CZ Titulky](https://prehraj.to/the-miracle-worker-1080p-cz-titulky-mkv/ed71e6073aebb02d) (ID 30631145) | [Sdílej 27658195](https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv) | target_unavailable | 2026-10-30T15:43:51.775615+00:00 |
 | [The Princess Bride 1080p CZ Titulky](https://prehraj.to/the-princess-bride-1080p-cz-titulky-mkv/015727ef8d52425b) (ID 30627890) | [Sdílej 13533126](https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv) | target_unavailable | 2026-10-30T15:43:55.111782+00:00 |
