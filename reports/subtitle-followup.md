@@ -119,3 +119,4 @@ Attach subtitles only after target processing has finished.
 | Arrival 1080p CZ Titulky | 30632569 | https://sdilej.cz/34955871/prvy-kontakt-arrival-2016-en.cz.sk-bdrip-hevc-1080p-nmk.mkv | Complete: Czech subtitles verified |
 | Harry Potter and the Prisoner of Azkaban 4K CZ Titulky | 30633152 | https://sdilej.cz/32925438/harry-potter-a-vezen-z-azkabanu-cz-sk-en-radecek.mkv | Extract Czech track from exact source after processing |
 | Taylor Swift: The Eras Tour (TAYLOR SWIFT / THE ERAS TOUR) 1080p CZ Titulky | 30635414 | https://sdilej.cz/28373728/taylor.swift.the.eras.tour.2023.taylor-s.version.1080p.10bit.webrip.6ch.x265.hevc-psa-sk-a-cz-titulky.mkv | Complete: Czech subtitles verified |
+| Guardians of the Galaxy Vol. 3 4K CZ Titulky | 30638438 | https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
