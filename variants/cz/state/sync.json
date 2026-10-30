@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-10-30T12:31:59.175378+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-10-30T13:02:16.390499+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-10-30T13:43:29.316204+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:03:16.401096+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "2c59b61c6dfd47ef94580f12e04d4de0-shard-0",
-        "claimed_at": "2026-10-30T15:03:14.121465+00:00",
-        "lease_expires_at": "2026-10-30T21:03:14.121465+00:00",
-        "run_id": "41071477533"
       }
     },
     "9": {
@@ -231,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-10-30T13:43:34.522466+00:00"
+        "planned_at": "2026-10-30T15:03:15.531847+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -239,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "90d197f91b9045e284f440b5c7f7290c-shard-0",
+        "claimed_at": "2026-10-30T15:03:15.707030+00:00",
+        "lease_expires_at": "2026-10-30T21:03:15.707030+00:00",
+        "run_id": "41071477533"
       }
     },
     "10755": {
@@ -9492,7 +9492,7 @@
       "last_plan": {
         "source_id": "32934317",
         "display_name": "Big Fish 4K CZ Dabing",
-        "planned_at": "2026-10-30T15:03:14.003869+00:00"
+        "planned_at": "2026-10-30T15:03:15.590769+00:00"
       }
     },
     "352": {
@@ -29278,5 +29278,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:03:14.287651+00:00"
+  "updated_at": "2026-10-30T15:03:16.401112+00:00"
 }
