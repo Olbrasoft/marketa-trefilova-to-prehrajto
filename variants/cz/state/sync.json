@@ -10663,17 +10663,19 @@
       }
     },
     "21748": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33768207",
+          "reason": "Request failed for https://sdilej.cz/33768207/doktor-zivago-1965-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:32:25.951185+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33768207",
         "display_name": "Doctor Zhivago 1080p CZ Dabing",
         "planned_at": "2026-10-30T19:31:40.104721+00:00"
-      },
-      "claim": {
-        "worker_id": "ed07d4baeeab4daf9b9ffbf44a6b2241-shard-0",
-        "claimed_at": "2026-10-30T19:31:40.222493+00:00",
-        "lease_expires_at": "2026-10-31T01:31:40.222493+00:00",
-        "run_id": "41106549738"
       }
     },
     "21473": {
@@ -30619,5 +30621,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:31:40.222513+00:00"
+  "updated_at": "2026-10-30T19:32:25.951207+00:00"
 }
