@@ -9510,17 +9510,19 @@
       }
     },
     "341": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27112677",
+          "target_video_id": "30638409",
+          "permanent": false,
+          "attempted_at": "2026-10-30T16:14:22.080038+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27112677",
         "display_name": "Guardians of the Galaxy Vol. 3 4K CZ Dabing",
         "planned_at": "2026-10-30T15:02:35.210658+00:00"
-      },
-      "claim": {
-        "worker_id": "ca3e9994a920422cbb98bc1c4f84abc9-shard-0",
-        "claimed_at": "2026-10-30T15:02:35.492378+00:00",
-        "lease_expires_at": "2026-10-30T21:02:35.492378+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30638409",
       "prepared": {
@@ -29395,5 +29397,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T16:01:16.841615+00:00"
+  "updated_at": "2026-10-30T16:14:22.080071+00:00"
 }
