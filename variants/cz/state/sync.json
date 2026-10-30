@@ -9349,17 +9349,19 @@
       }
     },
     "345": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25803543",
+          "target_video_id": "30637112",
+          "permanent": false,
+          "attempted_at": "2026-10-30T13:53:44.278969+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25803543",
         "display_name": "Mystic River 1080p CZ Dabing",
         "planned_at": "2026-10-30T13:44:19.183378+00:00"
-      },
-      "claim": {
-        "worker_id": "ee933ed1c5ec4c629bde9e42c0a8eaf1-shard-0",
-        "claimed_at": "2026-10-30T13:44:19.276586+00:00",
-        "lease_expires_at": "2026-10-30T19:44:19.276586+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30637112",
       "prepared": {
@@ -29018,5 +29020,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:44:25.355080+00:00"
+  "updated_at": "2026-10-30T13:53:44.278987+00:00"
 }
