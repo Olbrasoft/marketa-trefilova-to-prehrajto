@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T20:53:00.742608+00:00
+Poslední aktualizace (UTC): 2026-10-30T20:53:04.156023+00:00
 
 Zkontrolováno videí: 130. Další stránka kontroly: 0.
 
@@ -92,7 +92,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Princess Bride 1080p CZ Titulky](https://prehraj.to/the-princess-bride-1080p-cz-titulky-mkv/015727ef8d52425b) (ID 30627890) | [Sdílej 13533126](https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv) | target_unavailable | 2026-10-30T19:52:52.440015+00:00 |
 | [The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky](https://prehraj.to/the-voice-of-hind-rajab-1080p-cz-titulky-mkv/e21354a981f1936f) (ID 30622539) | [Sdílej 34845555](https://sdilej.cz/34845555/the-voice-of-hind-rajab-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-10-30T20:33:57.547062+00:00 |
 | [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-30T20:12:08.523629+00:00 |
-| [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | target_unavailable | 2026-10-30T19:52:28.852017+00:00 |
+| [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | target_unavailable | 2026-10-30T20:53:04.123981+00:00 |
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-30T20:01:57.781998+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-30T20:42:28.186514+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-30T19:53:01.271880+00:00 |
