@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T06:01:57.314928+00:00
+Poslední aktualizace (UTC): 2026-10-30T06:02:00.737250+00:00
 
 Zkontrolováno videí: 96. Další stránka kontroly: 0.
 
@@ -49,7 +49,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T05:01:56.012280+00:00 |
+| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T06:02:00.737082+00:00 |
 | [Apollo 11 4K CZ Titulky](https://prehraj.to/apollo-11-4k-cz-titulky-mkv/07ad92fc5ce0455a) (ID 30624527) | [Sdílej 12594213](https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv) | target_unavailable | 2026-10-30T06:01:48.015298+00:00 |
 | [Black Swan 1080p CZ Titulky](https://prehraj.to/black-swan-1080p-cz-titulky-mkv/34449af02c0418ac) (ID 30625850) | [Sdílej 34794426](https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv) | target_unavailable | 2026-10-30T05:32:14.048128+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | target_unavailable | 2026-10-30T05:22:16.627379+00:00 |
