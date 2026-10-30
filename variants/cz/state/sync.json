@@ -5532,17 +5532,19 @@
       "attempts": []
     },
     "205": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19601151",
+          "target_video_id": "30621853",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:10:28.954261+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19601151",
         "display_name": "Wild Tales (Relatos salvajes) 1080p CZ Dabing",
         "planned_at": "2026-10-29T23:59:19.656852+00:00"
-      },
-      "claim": {
-        "worker_id": "d2b55526d4704df1af7ba0381a364f84-shard-0",
-        "claimed_at": "2026-10-29T23:59:19.733688+00:00",
-        "lease_expires_at": "2026-10-30T05:59:19.733688+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30621853",
       "prepared": {
@@ -22651,5 +22653,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:00:47.149169+00:00"
+  "updated_at": "2026-10-30T00:10:28.954282+00:00"
 }
