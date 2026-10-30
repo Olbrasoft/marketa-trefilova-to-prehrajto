@@ -3322,13 +3322,6 @@
           "source_id": "33672679",
           "target_video_id": "30615943",
           "permanent": false,
-          "attempted_at": "2026-10-30T17:23:56.093549+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33672679",
-          "target_video_id": "30615943",
-          "permanent": false,
           "attempted_at": "2026-10-30T18:07:27.147415+00:00"
         },
         {
@@ -3337,6 +3330,13 @@
           "target_video_id": "30615943",
           "permanent": false,
           "attempted_at": "2026-10-30T18:41:34.864110+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33672679",
+          "target_video_id": "30615943",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:12:18.072024+00:00"
         }
       ],
       "last_plan": {
@@ -3624,7 +3624,7 @@
       "last_plan": {
         "source_id": "35171736",
         "display_name": "The Help 1080p CZ Titulky",
-        "planned_at": "2026-10-30T18:41:36.193239+00:00"
+        "planned_at": "2026-10-30T19:12:17.315131+00:00"
       },
       "previous_target_id": "30620452",
       "prepared": {
@@ -3632,6 +3632,12 @@
         "size_bytes": 9900000000,
         "prepared_at": "2026-10-29T22:17:55.214145+00:00",
         "relay_source_id": "35171736"
+      },
+      "claim": {
+        "worker_id": "fb195c1f72de46168196e5722ee8d4f2-shard-0",
+        "claimed_at": "2026-10-30T19:12:17.394357+00:00",
+        "lease_expires_at": "2026-10-31T01:12:17.394357+00:00",
+        "run_id": "41106549738"
       }
     },
     "11107": {
@@ -6144,7 +6150,7 @@
       "last_plan": {
         "source_id": "30773956",
         "display_name": "Rio Bravo 720p CZ Titulky",
-        "planned_at": "2026-10-30T19:12:15.995743+00:00"
+        "planned_at": "2026-10-30T19:12:17.367001+00:00"
       }
     },
     "28372": {
@@ -26016,5 +26022,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:12:15.995761+00:00"
+  "updated_at": "2026-10-30T19:12:18.072043+00:00"
 }
