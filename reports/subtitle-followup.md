@@ -107,3 +107,4 @@ Attach subtitles only after target processing has finished.
 | Spider-Man: Brand New Day 1440p CZ Titulky | 30628930 | https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Rosemary's Baby 4K CZ Titulky | 30629227 | https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv | Extract Czech track from exact source after processing |
 | CODA 4K CZ Titulky | 30629619 | https://sdilej.cz/23547476/coda-2021-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv | Complete: Czech subtitles verified |
+| Stalker (Сталкер) (1979) 1080p CZ Titulky | 30630550 | https://sdilej.cz/29472972/stalker-1979-rus.-cz-titulky-remaster..mkv | Extract Czech track from exact source after processing |
