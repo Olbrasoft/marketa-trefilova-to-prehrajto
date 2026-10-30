@@ -5672,17 +5672,19 @@
       }
     },
     "29959": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34609395",
+          "reason": "Request failed for https://sdilej.cz/34609395/ve-jmenu-otce-in-the-name-of-the-father-1993-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:25:00.875713+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34609395",
         "display_name": "In the Name of the Father SD CZ Dabing",
         "planned_at": "2026-10-30T00:24:14.937032+00:00"
-      },
-      "claim": {
-        "worker_id": "58470d1396a6486ab954475df933b66a-shard-0",
-        "claimed_at": "2026-10-30T00:24:15.021576+00:00",
-        "lease_expires_at": "2026-10-30T06:24:15.021576+00:00",
-        "run_id": "40957299535"
       }
     },
     "17889": {
@@ -22742,5 +22744,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:24:15.021593+00:00"
+  "updated_at": "2026-10-30T00:25:00.875731+00:00"
 }
