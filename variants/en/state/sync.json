@@ -3746,7 +3746,20 @@
       }
     },
     "21502": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30698168",
+          "reason": "Request failed for https://sdilej.cz/30698168/the-seventh-seal-1957-blu-ray-2160p-4k-hdr-full-movie-cz-eng-sub-best-quality.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:19:07.987737+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30698168",
+        "display_name": "The Seventh Seal 4K CZ Titulky",
+        "planned_at": "2026-10-30T00:18:21.078266+00:00"
+      }
     },
     "20544": {
       "attempts": []
@@ -20817,5 +20830,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:16:51.994087+00:00"
+  "updated_at": "2026-10-30T00:19:07.987754+00:00"
 }
