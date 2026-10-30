@@ -6413,17 +6413,19 @@
       "attempts": []
     },
     "304": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10335034",
+          "target_video_id": "30624671",
+          "permanent": false,
+          "attempted_at": "2026-10-30T03:42:59.305752+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10335034",
         "display_name": "The Revenant 1080p CZ Dabing",
         "planned_at": "2026-10-30T03:08:16.512359+00:00"
-      },
-      "claim": {
-        "worker_id": "bc30cbfb8225431bb6cf59423bc1a1ae-shard-0",
-        "claimed_at": "2026-10-30T03:08:16.571442+00:00",
-        "lease_expires_at": "2026-10-30T09:08:16.571442+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30624671",
       "prepared": {
@@ -23748,5 +23750,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T03:08:20.350833+00:00"
+  "updated_at": "2026-10-30T03:42:59.305769+00:00"
 }
