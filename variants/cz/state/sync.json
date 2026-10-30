@@ -12200,17 +12200,19 @@
       }
     },
     "11516": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31218016",
+          "target_video_id": "30648408",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:43:50.540523+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31218016",
         "display_name": "Ghostbusters (1984) 4K CZ Dabing",
         "planned_at": "2026-10-30T23:30:45.930823+00:00"
-      },
-      "claim": {
-        "worker_id": "3d2c8936347f4094aa1e088f82b38149-shard-0",
-        "claimed_at": "2026-10-30T23:30:46.236129+00:00",
-        "lease_expires_at": "2026-10-31T05:30:46.236129+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30648408",
       "prepared": {
@@ -32192,5 +32194,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:33:15.661501+00:00"
+  "updated_at": "2026-10-30T23:43:50.540544+00:00"
 }
