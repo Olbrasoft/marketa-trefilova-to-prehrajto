@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-10-30T08:46:39.017701+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-10-30T09:19:35.666965+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-10-30T09:51:27.862838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:26:10.889713+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "5780264d63a14e1dafb1594322d68511-shard-0",
-        "claimed_at": "2026-10-30T10:26:08.202674+00:00",
-        "lease_expires_at": "2026-10-30T16:26:08.202674+00:00",
-        "run_id": "41033346199"
       }
     },
     "37290": {
@@ -4799,7 +4793,7 @@
       "last_plan": {
         "source_id": "30250364",
         "display_name": "12 Years a Slave 720p CZ Dabing",
-        "planned_at": "2026-10-30T09:51:29.145054+00:00"
+        "planned_at": "2026-10-30T10:26:10.747308+00:00"
       },
       "previous_target_id": "30616606",
       "prepared": {
@@ -4807,6 +4801,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-10-29T18:33:59.034874+00:00",
         "relay_source_id": "30250364"
+      },
+      "claim": {
+        "worker_id": "f149620c3ec3443db902dbc5d50c6ab0-shard-0",
+        "claimed_at": "2026-10-30T10:26:10.820695+00:00",
+        "lease_expires_at": "2026-10-30T16:26:10.820695+00:00",
+        "run_id": "41033346199"
       }
     },
     "230": {
@@ -8173,7 +8173,7 @@
       "last_plan": {
         "source_id": "33155666",
         "display_name": "Ballad of a Soldier 720p CZ Dabing",
-        "planned_at": "2026-10-30T10:26:08.157445+00:00"
+        "planned_at": "2026-10-30T10:26:10.775696+00:00"
       }
     },
     "32461": {
@@ -27192,5 +27192,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:26:09.544011+00:00"
+  "updated_at": "2026-10-30T10:26:10.889732+00:00"
 }
