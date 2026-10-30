@@ -102,3 +102,4 @@ Attach subtitles only after target processing has finished.
 | Zootopia 1080p CZ Titulky | 30627325 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Extract Czech track from exact source after processing |
 | Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky | 30627689 | https://sdilej.cz/35036692/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo.mkv | Extract Czech track from exact source after processing |
 | Aladdin (1992) 1080p CZ Titulky | 30627809 | https://sdilej.cz/15881813/aladdin.1992-cz.mkv | Extract Czech track from exact source after processing |
+| The Princess Bride 1080p CZ Titulky | 30627890 | https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv | Extract Czech track from exact source after processing |
