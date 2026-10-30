@@ -3106,7 +3106,7 @@
       "last_plan": {
         "source_id": "32858384",
         "display_name": "V for Vendetta 4K CZ Titulky",
-        "planned_at": "2026-10-30T13:41:53.666161+00:00"
+        "planned_at": "2026-10-30T15:04:07.559832+00:00"
       },
       "previous_target_id": "30613867",
       "prepared": {
@@ -3114,6 +3114,12 @@
         "size_bytes": 17300000000,
         "prepared_at": "2026-10-29T16:18:37.260162+00:00",
         "relay_source_id": "32858384"
+      },
+      "claim": {
+        "worker_id": "213cbe3a95bb4bcc8a560b34ff9d14aa-shard-0",
+        "claimed_at": "2026-10-30T15:04:07.639858+00:00",
+        "lease_expires_at": "2026-10-30T21:04:07.639858+00:00",
+        "run_id": "41071477533"
       }
     },
     "189": {
@@ -3466,13 +3472,6 @@
           "source_id": "30572762",
           "target_video_id": "30617562",
           "permanent": false,
-          "attempted_at": "2026-10-30T12:33:45.564535+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30572762",
-          "target_video_id": "30617562",
-          "permanent": false,
           "attempted_at": "2026-10-30T13:04:01.700884+00:00"
         },
         {
@@ -3481,6 +3480,13 @@
           "target_video_id": "30617562",
           "permanent": false,
           "attempted_at": "2026-10-30T13:41:52.436976+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30572762",
+          "target_video_id": "30617562",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:04:07.848422+00:00"
         }
       ],
       "last_plan": {
@@ -3494,12 +3500,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-29T19:25:57.440638+00:00",
         "relay_source_id": "30572762"
-      },
-      "claim": {
-        "worker_id": "2fa43af5ddaf419e80a7fda347460997-shard-0",
-        "claimed_at": "2026-10-30T15:04:05.685796+00:00",
-        "lease_expires_at": "2026-10-30T21:04:05.685796+00:00",
-        "run_id": "41071477533"
       }
     },
     "249": {
@@ -5601,7 +5601,7 @@
       "last_plan": {
         "source_id": "26457098",
         "display_name": "Guardians of the Galaxy Vol. 3 4K CZ Titulky",
-        "planned_at": "2026-10-30T15:04:05.658915+00:00"
+        "planned_at": "2026-10-30T15:04:07.611216+00:00"
       }
     },
     "13259": {
@@ -25395,5 +25395,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:04:06.135215+00:00"
+  "updated_at": "2026-10-30T15:04:07.848440+00:00"
 }
