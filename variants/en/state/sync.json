@@ -4391,13 +4391,6 @@
           "source_id": "12594213",
           "target_video_id": "30624527",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:30:58.017038+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12594213",
-          "target_video_id": "30624527",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:15:27.633345+00:00"
         },
         {
@@ -4406,6 +4399,13 @@
           "target_video_id": "30624527",
           "permanent": false,
           "attempted_at": "2026-10-30T22:47:08.489959+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12594213",
+          "target_video_id": "30624527",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:31:25.565371+00:00"
         }
       ],
       "last_plan": {
@@ -4419,12 +4419,6 @@
         "size_bytes": 22400000000,
         "prepared_at": "2026-10-30T02:57:32.293638+00:00",
         "relay_source_id": "12594213"
-      },
-      "claim": {
-        "worker_id": "f0bfe2f086c54ae88719cd220399e20f-shard-0",
-        "claimed_at": "2026-10-30T23:31:24.115591+00:00",
-        "lease_expires_at": "2026-10-31T05:31:24.115591+00:00",
-        "run_id": "41144016453"
       }
     },
     "304": {
@@ -4837,7 +4831,7 @@
       "last_plan": {
         "source_id": "9846860",
         "display_name": "Magnolia 1080p CZ Titulky",
-        "planned_at": "2026-10-30T22:47:09.805735+00:00"
+        "planned_at": "2026-10-30T23:31:25.336553+00:00"
       },
       "previous_target_id": "30628484",
       "prepared": {
@@ -4845,6 +4839,12 @@
         "size_bytes": 17700000000,
         "prepared_at": "2026-10-30T07:13:07.542441+00:00",
         "relay_source_id": "9846860"
+      },
+      "claim": {
+        "worker_id": "5cc9af01ded948139fc934c57c47c5a1-shard-0",
+        "claimed_at": "2026-10-30T23:31:25.420412+00:00",
+        "lease_expires_at": "2026-10-31T05:31:25.420412+00:00",
+        "run_id": "41144016453"
       }
     },
     "11876": {
@@ -6877,7 +6877,7 @@
       "last_plan": {
         "source_id": "12685665",
         "display_name": "The Irishman 720p CZ Titulky",
-        "planned_at": "2026-10-30T23:31:24.019149+00:00"
+        "planned_at": "2026-10-30T23:31:25.391996+00:00"
       }
     },
     "11559": {
@@ -26836,5 +26836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:31:24.115614+00:00"
+  "updated_at": "2026-10-30T23:31:25.565388+00:00"
 }
