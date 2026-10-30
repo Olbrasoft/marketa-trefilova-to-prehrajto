@@ -5575,17 +5575,19 @@
       }
     },
     "130": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31582964",
+          "target_video_id": "30621872",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:18:18.999596+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31582964",
         "display_name": "The Wild Robot 4K CZ Dabing",
         "planned_at": "2026-10-30T00:00:43.091999+00:00"
-      },
-      "claim": {
-        "worker_id": "a8e147a6ffb149a397616f82cf0b8bcb-shard-0",
-        "claimed_at": "2026-10-30T00:00:43.175897+00:00",
-        "lease_expires_at": "2026-10-30T06:00:43.175897+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30621872",
       "prepared": {
@@ -22698,5 +22700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:16:47.806174+00:00"
+  "updated_at": "2026-10-30T00:18:18.999613+00:00"
 }
