@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T00:04:23.298946+00:00
+Poslední aktualizace (UTC): 2026-10-30T00:04:26.600713+00:00
 
 Zkontrolováno videí: 79. Další stránka kontroly: 0.
 
@@ -56,7 +56,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-29T23:14:11.185325+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-29T23:14:07.025961+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | target_unavailable | 2026-10-29T23:54:24.272980+00:00 |
-| [Rush (2013) 1080p CZ Titulky](https://prehraj.to/rush-2013-1080p-cz-titulky-mkv/8a9dc01628f423ad) (ID 30620144) | [Sdílej 29629993](https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv) | target_unavailable | 2026-10-29T23:03:46.083827+00:00 |
+| [Rush (2013) 1080p CZ Titulky](https://prehraj.to/rush-2013-1080p-cz-titulky-mkv/8a9dc01628f423ad) (ID 30620144) | [Sdílej 29629993](https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T00:04:26.600641+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-29T23:24:02.727066+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-29T23:44:23.355606+00:00 |
 | [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-29T23:23:59.049245+00:00 |
