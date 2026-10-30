@@ -3086,13 +3086,6 @@
           "source_id": "32858384",
           "target_video_id": "30613867",
           "permanent": false,
-          "attempted_at": "2026-10-30T16:15:21.564933+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32858384",
-          "target_video_id": "30613867",
-          "permanent": false,
           "attempted_at": "2026-10-30T16:46:20.279801+00:00"
         },
         {
@@ -3101,6 +3094,13 @@
           "target_video_id": "30613867",
           "permanent": false,
           "attempted_at": "2026-10-30T17:23:53.552402+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32858384",
+          "target_video_id": "30613867",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:07:25.899668+00:00"
         }
       ],
       "last_plan": {
@@ -3342,7 +3342,7 @@
       "last_plan": {
         "source_id": "33672679",
         "display_name": "Blade Runner 4K CZ Titulky",
-        "planned_at": "2026-10-30T17:23:55.007445+00:00"
+        "planned_at": "2026-10-30T18:07:25.066406+00:00"
       },
       "previous_target_id": "30615943",
       "prepared": {
@@ -3350,6 +3350,12 @@
         "size_bytes": 52300000000,
         "prepared_at": "2026-10-29T18:02:51.633617+00:00",
         "relay_source_id": "33672679"
+      },
+      "claim": {
+        "worker_id": "38c7d026622f43568decbe7e353295e8-shard-0",
+        "claimed_at": "2026-10-30T18:07:25.145851+00:00",
+        "lease_expires_at": "2026-10-31T00:07:25.145851+00:00",
+        "run_id": "41071477533"
       }
     },
     "250": {
@@ -5961,7 +5967,7 @@
       "last_plan": {
         "source_id": "18087403",
         "display_name": "Strangers on a Train 1080p CZ Titulky",
-        "planned_at": "2026-10-30T18:07:23.680535+00:00"
+        "planned_at": "2026-10-30T18:07:25.118665+00:00"
       }
     },
     "384": {
@@ -25826,5 +25832,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:07:23.680543+00:00"
+  "updated_at": "2026-10-30T18:07:25.899687+00:00"
 }
