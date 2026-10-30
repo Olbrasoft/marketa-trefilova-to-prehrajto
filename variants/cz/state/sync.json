@@ -9800,17 +9800,19 @@
       "attempts": []
     },
     "334": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29005098",
+          "target_video_id": "30640112",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:06:28.427640+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29005098",
         "display_name": "The Holdovers 4K CZ Dabing",
         "planned_at": "2026-10-30T16:57:02.222525+00:00"
-      },
-      "claim": {
-        "worker_id": "34fb4550c56a4b498e36274268320f77-shard-0",
-        "claimed_at": "2026-10-30T16:57:02.317124+00:00",
-        "lease_expires_at": "2026-10-30T22:57:02.317124+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30640112",
       "prepared": {
@@ -29958,5 +29960,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:49:59.933032+00:00"
+  "updated_at": "2026-10-30T18:06:28.427656+00:00"
 }
