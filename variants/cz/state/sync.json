@@ -4399,7 +4399,7 @@
       "last_plan": {
         "source_id": "12902823",
         "display_name": "Gone Girl 1080p CZ Dabing",
-        "planned_at": "2026-10-30T08:46:47.389217+00:00"
+        "planned_at": "2026-10-30T09:19:40.442969+00:00"
       },
       "previous_target_id": "30614108",
       "prepared": {
@@ -4407,6 +4407,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-10-29T16:32:56.043846+00:00",
         "relay_source_id": "12902823"
+      },
+      "claim": {
+        "worker_id": "e0985f0376e442569c0f52e8211274d3-shard-0",
+        "claimed_at": "2026-10-30T09:19:40.590076+00:00",
+        "lease_expires_at": "2026-10-30T15:19:40.590076+00:00",
+        "run_id": "41008254453"
       }
     },
     "223": {
@@ -4701,13 +4707,6 @@
           "source_id": "15052978",
           "target_video_id": "30616096",
           "permanent": false,
-          "attempted_at": "2026-10-30T07:22:00.426885+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15052978",
-          "target_video_id": "30616096",
-          "permanent": false,
           "attempted_at": "2026-10-30T08:05:00.139772+00:00"
         },
         {
@@ -4716,6 +4715,13 @@
           "target_video_id": "30616096",
           "permanent": false,
           "attempted_at": "2026-10-30T08:46:46.112353+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15052978",
+          "target_video_id": "30616096",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:19:40.809538+00:00"
         }
       ],
       "last_plan": {
@@ -4729,12 +4735,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T18:13:23.182086+00:00",
         "relay_source_id": "15052978"
-      },
-      "claim": {
-        "worker_id": "8c7cdc708f9c48dbaadcfb265b6b0132-shard-0",
-        "claimed_at": "2026-10-30T09:19:38.911618+00:00",
-        "lease_expires_at": "2026-10-30T15:19:38.911618+00:00",
-        "run_id": "41008254453"
       }
     },
     "214": {
@@ -7747,7 +7747,7 @@
       "last_plan": {
         "source_id": "32946845",
         "display_name": "Cool Hand Luke 4K CZ Dabing",
-        "planned_at": "2026-10-30T09:19:38.816524+00:00"
+        "planned_at": "2026-10-30T09:19:40.490884+00:00"
       }
     },
     "23785": {
@@ -26556,5 +26556,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:19:39.159426+00:00"
+  "updated_at": "2026-10-30T09:19:40.809561+00:00"
 }
