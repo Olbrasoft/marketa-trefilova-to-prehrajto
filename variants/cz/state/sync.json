@@ -5951,13 +5951,6 @@
           "source_id": "35294815",
           "target_video_id": "30622524",
           "permanent": false,
-          "attempted_at": "2026-10-30T02:57:23.252408+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35294815",
-          "target_video_id": "30622524",
-          "permanent": false,
           "attempted_at": "2026-10-30T03:45:05.961232+00:00"
         },
         {
@@ -5966,6 +5959,13 @@
           "target_video_id": "30622524",
           "permanent": false,
           "attempted_at": "2026-10-30T04:17:53.325133+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35294815",
+          "target_video_id": "30622524",
+          "permanent": false,
+          "attempted_at": "2026-10-30T04:58:01.096319+00:00"
         }
       ],
       "last_plan": {
@@ -5979,12 +5979,6 @@
         "size_bytes": 6800000000,
         "prepared_at": "2026-10-30T00:46:06.861060+00:00",
         "relay_source_id": "35294815"
-      },
-      "claim": {
-        "worker_id": "d04619e450de48809c428596a93e5edc-shard-0",
-        "claimed_at": "2026-10-30T04:57:59.491862+00:00",
-        "lease_expires_at": "2026-10-30T10:57:59.491862+00:00",
-        "run_id": "40985687737"
       }
     },
     "21394": {
@@ -6067,7 +6061,7 @@
       "last_plan": {
         "source_id": "27954124",
         "display_name": "Wolf Children Ame and Yuki (おおかみこどもの雨と雪) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T04:17:54.452673+00:00"
+        "planned_at": "2026-10-30T04:58:00.619857+00:00"
       },
       "previous_target_id": "30622643",
       "prepared": {
@@ -6075,6 +6069,12 @@
         "size_bytes": 17000000000,
         "prepared_at": "2026-10-30T00:57:02.003208+00:00",
         "relay_source_id": "27954124"
+      },
+      "claim": {
+        "worker_id": "1b458ca736aa4f95affe16073f98e19a-shard-0",
+        "claimed_at": "2026-10-30T04:58:00.714610+00:00",
+        "lease_expires_at": "2026-10-30T10:58:00.714610+00:00",
+        "run_id": "40985687737"
       }
     },
     "16125": {
@@ -6672,7 +6672,7 @@
       "last_plan": {
         "source_id": "33508342",
         "display_name": "Casino Royale 4K CZ Dabing",
-        "planned_at": "2026-10-30T04:57:59.271126+00:00"
+        "planned_at": "2026-10-30T04:58:00.655767+00:00"
       }
     },
     "260": {
@@ -24212,5 +24212,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T04:57:59.491882+00:00"
+  "updated_at": "2026-10-30T04:58:01.096338+00:00"
 }
