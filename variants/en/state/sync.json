@@ -3945,17 +3945,19 @@
       "attempts": []
     },
     "35767": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34845555",
+          "target_video_id": "30622539",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:59:49.577391+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34845555",
         "display_name": "The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky",
         "planned_at": "2026-10-30T00:47:02.556601+00:00"
-      },
-      "claim": {
-        "worker_id": "97601e1bd84d4f79b3bf5663511b8d79-shard-0",
-        "claimed_at": "2026-10-30T00:47:02.584678+00:00",
-        "lease_expires_at": "2026-10-30T06:47:02.584678+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622539",
       "prepared": {
@@ -21117,5 +21119,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:56:57.636303+00:00"
+  "updated_at": "2026-10-30T00:59:49.577444+00:00"
 }
