@@ -6373,7 +6373,7 @@
       "last_plan": {
         "source_id": "32449184",
         "display_name": "Titanic (1997) 4K CZ Dabing",
-        "planned_at": "2026-10-30T19:47:33.238012+00:00"
+        "planned_at": "2026-10-30T20:21:50.349227+00:00"
       },
       "previous_target_id": "30623525",
       "prepared": {
@@ -6381,6 +6381,12 @@
         "size_bytes": 8300000000,
         "prepared_at": "2026-10-30T01:49:28.564284+00:00",
         "relay_source_id": "32449184"
+      },
+      "claim": {
+        "worker_id": "b858301e5ffb42ec9f260037181f07b5-shard-0",
+        "claimed_at": "2026-10-30T20:21:50.589007+00:00",
+        "lease_expires_at": "2026-10-31T02:21:50.589007+00:00",
+        "run_id": "41106549738"
       }
     },
     "302": {
@@ -6504,13 +6510,6 @@
           "source_id": "10335034",
           "target_video_id": "30624671",
           "permanent": false,
-          "attempted_at": "2026-10-30T18:42:59.363234+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10335034",
-          "target_video_id": "30624671",
-          "permanent": false,
           "attempted_at": "2026-10-30T19:13:29.840859+00:00"
         },
         {
@@ -6519,6 +6518,13 @@
           "target_video_id": "30624671",
           "permanent": false,
           "attempted_at": "2026-10-30T19:47:31.973225+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10335034",
+          "target_video_id": "30624671",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:21:50.715854+00:00"
         }
       ],
       "last_plan": {
@@ -6532,12 +6538,6 @@
         "size_bytes": 12000000000,
         "prepared_at": "2026-10-30T03:08:20.350816+00:00",
         "relay_source_id": "10335034"
-      },
-      "claim": {
-        "worker_id": "e7d7b8002502424f840a88c7905fbb01-shard-0",
-        "claimed_at": "2026-10-30T20:21:49.238153+00:00",
-        "lease_expires_at": "2026-10-31T02:21:49.238153+00:00",
-        "run_id": "41106549738"
       }
     },
     "305": {
@@ -11058,7 +11058,7 @@
       "last_plan": {
         "source_id": "33563386",
         "display_name": "Sleuth (1972) SD CZ Dabing",
-        "planned_at": "2026-10-30T20:21:47.931947+00:00"
+        "planned_at": "2026-10-30T20:21:50.410073+00:00"
       }
     },
     "397": {
@@ -11066,7 +11066,7 @@
       "last_plan": {
         "source_id": "34940811",
         "display_name": "No Man's Land 1080p CZ Dabing",
-        "planned_at": "2026-10-30T20:21:40.864852+00:00"
+        "planned_at": "2026-10-30T20:21:50.441919+00:00"
       }
     },
     "30656": {
@@ -31003,5 +31003,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:21:49.238177+00:00"
+  "updated_at": "2026-10-30T20:21:50.715876+00:00"
 }
