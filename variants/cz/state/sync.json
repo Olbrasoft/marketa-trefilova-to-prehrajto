@@ -9430,17 +9430,19 @@
       }
     },
     "357": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13322794",
+          "target_video_id": "30637436",
+          "permanent": false,
+          "attempted_at": "2026-10-30T14:58:28.230514+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13322794",
         "display_name": "Jojo Rabbit 4K CZ Dabing",
         "planned_at": "2026-10-30T14:07:21.569531+00:00"
-      },
-      "claim": {
-        "worker_id": "5abfd1b1352c42b0ad551003c1b3f85c-shard-0",
-        "claimed_at": "2026-10-30T14:07:21.622340+00:00",
-        "lease_expires_at": "2026-10-30T20:07:21.622340+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30637436",
       "prepared": {
@@ -29072,5 +29074,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T14:21:11.460438+00:00"
+  "updated_at": "2026-10-30T14:58:28.230530+00:00"
 }
