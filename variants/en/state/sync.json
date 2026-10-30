@@ -5713,13 +5713,6 @@
           "source_id": "35402034",
           "target_video_id": "30638440",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:31:30.477468+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35402034",
-          "target_video_id": "30638440",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:16:03.377845+00:00"
         },
         {
@@ -5728,6 +5721,13 @@
           "target_video_id": "30638440",
           "permanent": false,
           "attempted_at": "2026-10-30T22:47:43.268059+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35402034",
+          "target_video_id": "30638440",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:31:50.493113+00:00"
         }
       ],
       "last_plan": {
@@ -5955,7 +5955,7 @@
       "last_plan": {
         "source_id": "8625620",
         "display_name": "Wonder 1080p CZ Titulky",
-        "planned_at": "2026-10-30T22:47:44.552550+00:00"
+        "planned_at": "2026-10-30T23:31:49.484801+00:00"
       },
       "previous_target_id": "30640621",
       "prepared": {
@@ -5963,6 +5963,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-10-30T17:25:19.677523+00:00",
         "relay_source_id": "8625620"
+      },
+      "claim": {
+        "worker_id": "b618ad12122b48818c2c3b2420cedb71-shard-0",
+        "claimed_at": "2026-10-30T23:31:49.571320+00:00",
+        "lease_expires_at": "2026-10-31T05:31:49.571320+00:00",
+        "run_id": "41144016453"
       }
     },
     "29914": {
@@ -6871,7 +6877,7 @@
       "last_plan": {
         "source_id": "12685665",
         "display_name": "The Irishman 720p CZ Titulky",
-        "planned_at": "2026-10-30T23:31:48.120962+00:00"
+        "planned_at": "2026-10-30T23:31:49.540723+00:00"
       }
     },
     "11559": {
@@ -26830,5 +26836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:31:48.120976+00:00"
+  "updated_at": "2026-10-30T23:31:50.493130+00:00"
 }
