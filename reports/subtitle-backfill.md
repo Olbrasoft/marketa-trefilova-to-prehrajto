@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T21:53:35.184686+00:00
+Poslední aktualizace (UTC): 2026-10-30T21:53:38.565274+00:00
 
 Zkontrolováno videí: 135. Další stránka kontroly: 0.
 
@@ -73,7 +73,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Into the Wild 1080p CZ Titulky](https://prehraj.to/into-the-wild-1080p-cz-titulky-mkv/fc7e275ee0f35cc1) (ID 30626855) | [Sdílej 28447536](https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv) | target_unavailable | 2026-10-30T20:53:00.742524+00:00 |
 | [Kiss the Ground 1080p CZ Titulky](https://prehraj.to/kiss-the-ground-1080p-cz-titulky-mkv/2121e74ae7f09efc) (ID 30645461) | [Sdílej 21918113](https://sdilej.cz/21918113/sklonit-se-k-zemi-2020-en-cz-tit.mkv) | target_unavailable | 2026-10-30T21:22:54.234941+00:00 |
 | [Knives Out 1080p CZ Titulky](https://prehraj.to/knives-out-1080p-cz-titulky-mkv/c61fc5ac1bbc40b7) (ID 30632412) | [Sdílej 35402754](https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-30T21:44:08.526866+00:00 |
-| [Magnolia 1080p CZ Titulky](https://prehraj.to/magnolia-1080p-cz-titulky-mkv/febecb20d8966533) (ID 30628484) | [Sdílej 9846860](https://sdilej.cz/9846860/magnolia-cz-dabing.mkv) | target_unavailable | 2026-10-30T20:52:47.141950+00:00 |
+| [Magnolia 1080p CZ Titulky](https://prehraj.to/magnolia-1080p-cz-titulky-mkv/febecb20d8966533) (ID 30628484) | [Sdílej 9846860](https://sdilej.cz/9846860/magnolia-cz-dabing.mkv) | target_unavailable | 2026-10-30T21:53:38.565199+00:00 |
 | [Marriage Story 1080p CZ Titulky](https://prehraj.to/marriage-story-1080p-cz-titulky-mkv/bee26de64107771c) (ID 30639527) | [Sdílej 18188633](https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv) | target_unavailable | 2026-10-30T21:44:18.598753+00:00 |
 | [Memories of Murder (살인의 추억) 1080p CZ Titulky](https://prehraj.to/memories-of-murder-1080p-cz-titulky-mkv/ffbfcc59dffdab26) (ID 30621421) | [Sdílej 17328714](https://sdilej.cz/17328714/memories-of-murder.2003.bdrip-1080p-hevc-eac3.cz.tit.mkv) | target_unavailable | 2026-10-30T21:44:15.255927+00:00 |
 | [Ordet 1080p](https://prehraj.to/ordet-1080p-mkv/7699c14594ec8709) (ID 30622762) | [Sdílej 30646256](https://sdilej.cz/30646256/ordet.1955.mkv) | target_unavailable | 2026-10-30T20:52:57.321980+00:00 |
