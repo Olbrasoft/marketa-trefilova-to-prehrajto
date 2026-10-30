@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T12:32:12.543128+00:00
+Poslední aktualizace (UTC): 2026-10-30T12:32:16.123852+00:00
 
 Zkontrolováno videí: 113. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 43, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 15, `source_czech_text_missing`: 10, `target_unavailable`: 37, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 44, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 15, `source_czech_text_missing`: 10, `target_unavailable`: 36, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -63,7 +63,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Fargo 1080p CZ Titulky](https://prehraj.to/fargo-1080p-cz-titulky-mkv/ea6f1d334ff98e8e) (ID 30616407) | [Sdílej 26744950](https://sdilej.cz/26744950/fargo-1996-fhd-1080p--cz-vhs-cz-ctv-sk-pl-eng-dts-.mkv) | target_unavailable | 2026-10-30T12:02:06.068990+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-30T11:32:14.748768+00:00 |
 | [Into the Wild 1080p CZ Titulky](https://prehraj.to/into-the-wild-1080p-cz-titulky-mkv/fc7e275ee0f35cc1) (ID 30626855) | [Sdílej 28447536](https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv) | target_unavailable | 2026-10-30T11:32:04.268237+00:00 |
-| [Iron Man 1080p CZ Titulky](https://prehraj.to/iron-man-1080p-cz-titulky-mkv/7e1ae5887c5e980e) (ID 30632045) | [Sdílej 35296917](https://sdilej.cz/35296917/iron-man.mkv) | target_unavailable | 2026-10-30T11:31:31.926009+00:00 |
 | [Knives Out 1080p CZ Titulky](https://prehraj.to/knives-out-1080p-cz-titulky-mkv/c61fc5ac1bbc40b7) (ID 30632412) | [Sdílej 35402754](https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-30T12:01:50.362785+00:00 |
 | [Magnolia 1080p CZ Titulky](https://prehraj.to/magnolia-1080p-cz-titulky-mkv/febecb20d8966533) (ID 30628484) | [Sdílej 9846860](https://sdilej.cz/9846860/magnolia-cz-dabing.mkv) | target_unavailable | 2026-10-30T11:31:42.926383+00:00 |
 | [Memories of Murder (살인의 추억) 1080p CZ Titulky](https://prehraj.to/memories-of-murder-1080p-cz-titulky-mkv/ffbfcc59dffdab26) (ID 30621421) | [Sdílej 17328714](https://sdilej.cz/17328714/memories-of-murder.2003.bdrip-1080p-hevc-eac3.cz.tit.mkv) | target_unavailable | 2026-10-30T12:01:57.781949+00:00 |
