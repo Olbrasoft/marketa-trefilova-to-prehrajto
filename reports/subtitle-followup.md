@@ -94,6 +94,7 @@ Attach subtitles only after target processing has finished.
 | Pocket Hercules: Naim Süleymanoglu (Cep Herkülü: Naim Süleymanoglu) 720p CZ Titulky | 30623185 | https://sdilej.cz/14004254/cep-herkulu-naim-suleymanoglu-tur-vlozene-titulky-2019-zivotopisny-drama.mkv | Complete: Czech subtitles verified |
 | Guardians of the Galaxy 4K CZ Titulky | 30623940 | https://sdilej.cz/27579007/strazci-galaxie-1-2014-2160p.mkv | Complete: Czech subtitles verified |
 | Apollo 11 4K CZ Titulky | 30624527 | https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv | Extract Czech track from exact source after processing |
-| The Revenant 720p CZ Titulky | 30625206 | https://sdilej.cz/22183177/the-revenant-2015-720p-en-cz-titulky-marcelcu.mkv | Extract Czech track from exact source after processing |
+| The Revenant 720p CZ Titulky | 30625206 | https://sdilej.cz/22183177/the-revenant-2015-720p-en-cz-titulky-marcelcu.mkv | Complete: Czech subtitles verified |
 | Donnie Darko 4K CZ Titulky | 30625425 | https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Black Swan 1080p CZ Titulky | 30625850 | https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv | Extract Czech track from exact source after processing |
+| Sin City 1080p CZ Titulky | 30626361 | https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv | Extract Czech track from exact source after processing |
