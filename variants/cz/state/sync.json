@@ -11013,17 +11013,19 @@
       }
     },
     "10766": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33769746",
+          "target_video_id": "30643809",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:20:21.578995+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33769746",
         "display_name": "Cat on a Hot Tin Roof 1080p CZ Dabing",
         "planned_at": "2026-10-30T20:13:20.164698+00:00"
-      },
-      "claim": {
-        "worker_id": "aa4ea574b4784879b4dfdd988033a3b6-shard-0",
-        "claimed_at": "2026-10-30T20:13:20.270868+00:00",
-        "lease_expires_at": "2026-10-31T02:13:20.270868+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30643809",
       "prepared": {
@@ -30898,5 +30900,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:13:23.628200+00:00"
+  "updated_at": "2026-10-30T20:20:21.579011+00:00"
 }
