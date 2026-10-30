@@ -5774,17 +5774,19 @@
       "attempts": []
     },
     "21192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27976346",
+          "target_video_id": "30622335",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:39:23.299476+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27976346",
         "display_name": "It Happened One Night 1080p CZ Dabing",
         "planned_at": "2026-10-30T00:31:20.932465+00:00"
-      },
-      "claim": {
-        "worker_id": "6c22c0a45251429b8ed009a8b926f7c4-shard-0",
-        "claimed_at": "2026-10-30T00:31:21.020016+00:00",
-        "lease_expires_at": "2026-10-30T06:31:21.020016+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622335",
       "prepared": {
@@ -22836,5 +22838,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:36:16.071848+00:00"
+  "updated_at": "2026-10-30T00:39:23.299498+00:00"
 }
