@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T21:53:25.066500+00:00
+Poslední aktualizace (UTC): 2026-10-30T21:53:28.333296+00:00
 
 Zkontrolováno videí: 135. Další stránka kontroly: 0.
 
@@ -61,7 +61,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Big Fish 1080p CZ Titulky](https://prehraj.to/big-fish-1080p-cz-titulky-mkv/ca6137a41e883493) (ID 30638440) | [Sdílej 35402034](https://sdilej.cz/35402034/big.fish.2003.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-30T21:44:05.147980+00:00 |
 | [Black Swan 1080p CZ Titulky](https://prehraj.to/black-swan-1080p-cz-titulky-mkv/34449af02c0418ac) (ID 30625850) | [Sdílej 34794426](https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv) | target_unavailable | 2026-10-30T20:53:27.302680+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-30T21:12:50.610101+00:00 |
-| [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-30T20:52:36.956188+00:00 |
+| [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-30T21:53:28.333213+00:00 |
 | [Donnie Darko 4K CZ Titulky](https://prehraj.to/donnie-darko-4k-cz-titulky-mkv/2e2a0f583f318abe) (ID 30625425) | [Sdílej 32668635](https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv) | target_unavailable | 2026-10-30T20:52:53.928871+00:00 |
 | [Drive (2011) 1080p CZ Titulky](https://prehraj.to/drive-2011-1080p-cz-titulky-mkv/3c13585985cfa844) (ID 30645764) | [Sdílej 30970586](https://sdilej.cz/30970586/drive.2011.open.matte.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-10-30T21:43:06.763323+00:00 |
 | [Elite Squad: The Enemy Within 1080p CZ Titulky](https://prehraj.to/elite-squad-the-enemy-within-1080p-cz-titulky-mkv/8cc4007d4f15a04f) (ID 30630934) | [Sdílej 22723021](https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv) | target_unavailable | 2026-10-30T20:52:40.370227+00:00 |
