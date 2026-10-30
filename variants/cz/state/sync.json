@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:31.981176+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:57:38.981167+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:06.490084+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:02:58.477650+00:00"
         }
       ],
       "last_plan": {
@@ -4163,7 +4163,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T05:31:03.841719+00:00"
+        "planned_at": "2026-10-30T06:02:57.279636+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "4235861517774308bf12620f1dbae7dc-shard-0",
+        "claimed_at": "2026-10-30T06:02:57.390080+00:00",
+        "lease_expires_at": "2026-10-30T12:02:57.390080+00:00",
+        "run_id": "41008254453"
       }
     },
     "37290": {
@@ -6994,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:02:55.942487+00:00"
+        "planned_at": "2026-10-30T06:02:57.321723+00:00"
       }
     },
     "33811": {
@@ -24701,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:02:55.942505+00:00"
+  "updated_at": "2026-10-30T06:02:58.477671+00:00"
 }
