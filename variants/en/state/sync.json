@@ -4828,13 +4828,6 @@
           "source_id": "32726297",
           "target_video_id": "30629227",
           "permanent": false,
-          "attempted_at": "2026-10-30T12:52:47.900609+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32726297",
-          "target_video_id": "30629227",
-          "permanent": false,
           "attempted_at": "2026-10-30T13:29:57.276854+00:00"
         },
         {
@@ -4843,6 +4836,13 @@
           "target_video_id": "30629227",
           "permanent": false,
           "attempted_at": "2026-10-30T14:07:07.748493+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32726297",
+          "target_video_id": "30629227",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:04:44.749673+00:00"
         }
       ],
       "last_plan": {
@@ -4856,12 +4856,6 @@
         "size_bytes": 31000000000,
         "prepared_at": "2026-10-30T08:05:27.416130+00:00",
         "relay_source_id": "32726297"
-      },
-      "claim": {
-        "worker_id": "919115df4ee54829a64feabb9692e72e-shard-0",
-        "claimed_at": "2026-10-30T15:04:43.013895+00:00",
-        "lease_expires_at": "2026-10-30T21:04:43.013895+00:00",
-        "run_id": "41071477533"
       }
     },
     "17688": {
@@ -5085,7 +5079,7 @@
       "last_plan": {
         "source_id": "33856188",
         "display_name": "The Ascent 1080p CZ Titulky",
-        "planned_at": "2026-10-30T14:07:08.947368+00:00"
+        "planned_at": "2026-10-30T15:04:44.525574+00:00"
       },
       "previous_target_id": "30631012",
       "prepared": {
@@ -5093,6 +5087,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-30T10:26:26.755317+00:00",
         "relay_source_id": "33856188"
+      },
+      "claim": {
+        "worker_id": "a457da5d854543ac820e9591befc02a2-shard-0",
+        "claimed_at": "2026-10-30T15:04:44.607280+00:00",
+        "lease_expires_at": "2026-10-30T21:04:44.607280+00:00",
+        "run_id": "41071477533"
       }
     },
     "17689": {
@@ -5608,7 +5608,7 @@
       "last_plan": {
         "source_id": "26457098",
         "display_name": "Guardians of the Galaxy Vol. 3 4K CZ Titulky",
-        "planned_at": "2026-10-30T15:04:42.988215+00:00"
+        "planned_at": "2026-10-30T15:04:44.576881+00:00"
       }
     },
     "13259": {
@@ -25402,5 +25402,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:04:43.166999+00:00"
+  "updated_at": "2026-10-30T15:04:44.749684+00:00"
 }
