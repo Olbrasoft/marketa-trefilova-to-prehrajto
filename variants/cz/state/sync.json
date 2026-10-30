@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-10-30T08:46:34.097983+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-10-30T09:19:33.990330+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-10-30T09:51:23.896925+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:26:09.543993+00:00"
         }
       ],
       "last_plan": {
@@ -4163,7 +4163,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T09:51:25.208297+00:00"
+        "planned_at": "2026-10-30T10:26:08.129124+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "5780264d63a14e1dafb1594322d68511-shard-0",
+        "claimed_at": "2026-10-30T10:26:08.202674+00:00",
+        "lease_expires_at": "2026-10-30T16:26:08.202674+00:00",
+        "run_id": "41033346199"
       }
     },
     "37290": {
@@ -8167,7 +8173,7 @@
       "last_plan": {
         "source_id": "33155666",
         "display_name": "Ballad of a Soldier 720p CZ Dabing",
-        "planned_at": "2026-10-30T10:26:06.903817+00:00"
+        "planned_at": "2026-10-30T10:26:08.157445+00:00"
       }
     },
     "32461": {
@@ -27186,5 +27192,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:26:06.903824+00:00"
+  "updated_at": "2026-10-30T10:26:09.544011+00:00"
 }
