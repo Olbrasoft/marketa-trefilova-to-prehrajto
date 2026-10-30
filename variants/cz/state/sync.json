@@ -10490,17 +10490,19 @@
       }
     },
     "33402": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24747227",
+          "target_video_id": "30642438",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:09:21.831840+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24747227",
         "display_name": "Shoplifters (万引き家族) 720p CZ Dabing",
         "planned_at": "2026-10-30T19:01:08.169878+00:00"
-      },
-      "claim": {
-        "worker_id": "d46cdd6416c64da0a93e8be95bfabed6-shard-0",
-        "claimed_at": "2026-10-30T19:01:08.272990+00:00",
-        "lease_expires_at": "2026-10-31T01:01:08.272990+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30642438",
       "prepared": {
@@ -30411,5 +30413,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:06:11.240831+00:00"
+  "updated_at": "2026-10-30T19:09:21.831854+00:00"
 }
