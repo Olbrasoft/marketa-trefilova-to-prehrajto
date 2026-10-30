@@ -130,3 +130,4 @@ Attach subtitles only after target processing has finished.
 | Do the Right Thing 1080p CZ Titulky | 30642017 | https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Rio Bravo 720p CZ Titulky | 30643106 | https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
 | Togo 1080p CZ Titulky | 30643515 | https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv | Extract Czech track from exact source after processing |
+| Icarus (2017) 1080p CZ Titulky | 30643582 | https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv | Extract Czech track from exact source after processing |
