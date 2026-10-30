@@ -7683,17 +7683,19 @@
       }
     },
     "34052": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33725309",
+          "target_video_id": "30630009",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:14:15.121590+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33725309",
         "display_name": "Castle in the Sky (天空の城ラピュタ) 1080p CZ Dabing",
         "planned_at": "2026-10-30T09:05:14.795121+00:00"
-      },
-      "claim": {
-        "worker_id": "62ac21b108134f6282f3bfc2ba9c1b82-shard-0",
-        "claimed_at": "2026-10-30T09:05:14.867277+00:00",
-        "lease_expires_at": "2026-10-30T15:05:14.867277+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30630009",
       "prepared": {
@@ -26218,5 +26220,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:05:18.490155+00:00"
+  "updated_at": "2026-10-30T09:14:15.121612+00:00"
 }
