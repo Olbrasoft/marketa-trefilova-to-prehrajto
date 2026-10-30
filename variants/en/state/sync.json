@@ -4834,13 +4834,6 @@
           "source_id": "32726297",
           "target_video_id": "30629227",
           "permanent": false,
-          "attempted_at": "2026-10-30T16:15:59.070217+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32726297",
-          "target_video_id": "30629227",
-          "permanent": false,
           "attempted_at": "2026-10-30T16:46:57.499777+00:00"
         },
         {
@@ -4849,6 +4842,13 @@
           "target_video_id": "30629227",
           "permanent": false,
           "attempted_at": "2026-10-30T17:24:46.460386+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32726297",
+          "target_video_id": "30629227",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:07:59.589755+00:00"
         }
       ],
       "last_plan": {
@@ -5085,7 +5085,7 @@
       "last_plan": {
         "source_id": "33856188",
         "display_name": "The Ascent 1080p CZ Titulky",
-        "planned_at": "2026-10-30T17:24:44.338360+00:00"
+        "planned_at": "2026-10-30T18:07:58.836674+00:00"
       },
       "previous_target_id": "30631012",
       "prepared": {
@@ -5093,6 +5093,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-30T10:26:26.755317+00:00",
         "relay_source_id": "33856188"
+      },
+      "claim": {
+        "worker_id": "7aab2aa8238b4734933d7351069fa64e-shard-0",
+        "claimed_at": "2026-10-30T18:07:58.915540+00:00",
+        "lease_expires_at": "2026-10-31T00:07:58.915540+00:00",
+        "run_id": "41071477533"
       }
     },
     "17689": {
@@ -5961,7 +5967,7 @@
       "last_plan": {
         "source_id": "18087403",
         "display_name": "Strangers on a Train 1080p CZ Titulky",
-        "planned_at": "2026-10-30T18:07:56.292133+00:00"
+        "planned_at": "2026-10-30T18:07:58.889345+00:00"
       }
     },
     "384": {
@@ -25831,5 +25837,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:07:56.292144+00:00"
+  "updated_at": "2026-10-30T18:07:59.589773+00:00"
 }
