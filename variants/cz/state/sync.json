@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "4aa3b27f52df475e8375b449207ad252-shard-0",
+        "claimed_at": "2026-10-30T21:32:18.208970+00:00",
+        "lease_expires_at": "2026-10-31T03:32:18.208970+00:00",
+        "run_id": "41106549738"
       }
     },
     "52": {
@@ -6004,17 +6010,23 @@
           "attempted_at": "2026-10-30T20:55:40.321587+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35294815",
-        "display_name": "The Wages of Fear (Le Salaire de la peur) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T20:55:38.911959+00:00"
-      },
       "previous_target_id": "30622524",
-      "prepared": {
+      "upload": {
         "target_video_id": "30622524",
+        "display_name": "The Wages of Fear (Le Salaire de la peur) 1080p CZ Dabing",
+        "source_id": "35294815",
+        "source_url": "https://sdilej.cz/35294815/mzda-strachu-1953-cz-dabing.mp4",
+        "source_filename": "Mzda strachu (1953) cz dabing.mp4",
         "size_bytes": 6800000000,
-        "prepared_at": "2026-10-30T00:46:06.861060+00:00",
-        "relay_source_id": "35294815"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9767228960990906,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-wages-of-fear-le-salaire-de-la-peur-1080p-cz-dabing-mp4/1feea1fedb5fde44",
+        "uploaded_at": "2026-10-30T21:32:19.289448+00:00"
       }
     },
     "21394": {
@@ -11613,7 +11625,7 @@
       "last_plan": {
         "source_id": "14820817",
         "display_name": "Skyfall 4K CZ Dabing",
-        "planned_at": "2026-10-30T21:32:16.808148+00:00"
+        "planned_at": "2026-10-30T21:32:18.311615+00:00"
       }
     },
     "488": {
@@ -31427,5 +31439,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:32:16.808164+00:00"
+  "updated_at": "2026-10-30T21:32:19.289465+00:00"
 }
