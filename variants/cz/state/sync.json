@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-10-30T09:19:30.073126+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-10-30T09:51:21.158167+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-10-30T10:26:05.637318+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:56:36.955845+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "28ab64d215404fd5a5e2c29705e59c7d-shard-0",
-        "claimed_at": "2026-10-30T10:56:34.607784+00:00",
-        "lease_expires_at": "2026-10-30T16:56:34.607784+00:00",
-        "run_id": "41033346199"
       }
     },
     "10755": {
@@ -1047,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-10-30T10:26:03.115677+00:00"
+        "planned_at": "2026-10-30T10:56:36.296332+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1055,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "6e00c87124234fd5be0055522c6a7313-shard-0",
+        "claimed_at": "2026-10-30T10:56:36.376156+00:00",
+        "lease_expires_at": "2026-10-30T16:56:36.376156+00:00",
+        "run_id": "41033346199"
       }
     },
     "54": {
@@ -8496,7 +8496,7 @@
       "last_plan": {
         "source_id": "34176337",
         "display_name": "The Heiress 1080p CZ Dabing",
-        "planned_at": "2026-10-30T10:56:34.562312+00:00"
+        "planned_at": "2026-10-30T10:56:36.327869+00:00"
       }
     },
     "26350": {
@@ -27446,5 +27446,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:56:35.147818+00:00"
+  "updated_at": "2026-10-30T10:56:36.955862+00:00"
 }
