@@ -8237,17 +8237,19 @@
       "attempts": []
     },
     "10824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32307964",
+          "target_video_id": "30631144",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:41:59.051484+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32307964",
         "display_name": "The Miracle Worker 720p CZ Dabing",
         "planned_at": "2026-10-30T10:35:46.409453+00:00"
-      },
-      "claim": {
-        "worker_id": "89d0720af8ab46d6af423cdb060cf62a-shard-0",
-        "claimed_at": "2026-10-30T10:35:47.627025+00:00",
-        "lease_expires_at": "2026-10-30T16:35:47.627025+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631144",
       "prepared": {
@@ -27282,5 +27284,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:41:57.661912+00:00"
+  "updated_at": "2026-10-30T10:41:59.051501+00:00"
 }
