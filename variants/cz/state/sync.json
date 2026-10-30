@@ -10222,17 +10222,19 @@
       }
     },
     "23035": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20913739",
+          "reason": "Request failed for https://sdilej.cz/20913739/jednej-spravne-1989-1080p-cz-en-tit.cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:36:12.402843+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20913739",
         "display_name": "Do the Right Thing 1080p CZ Dabing",
         "planned_at": "2026-10-30T18:35:26.648644+00:00"
-      },
-      "claim": {
-        "worker_id": "b26a3aa6f4c344afa0fdc88d7fc7fcb5-shard-0",
-        "claimed_at": "2026-10-30T18:35:26.747935+00:00",
-        "lease_expires_at": "2026-10-31T00:35:26.747935+00:00",
-        "run_id": "41071477533"
       }
     },
     "12681": {
@@ -30193,5 +30195,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:35:26.747958+00:00"
+  "updated_at": "2026-10-30T18:36:12.402861+00:00"
 }
