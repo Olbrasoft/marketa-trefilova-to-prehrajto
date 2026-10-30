@@ -4709,7 +4709,7 @@
       "last_plan": {
         "source_id": "15052978",
         "display_name": "Gran Torino 1080p CZ Dabing",
-        "planned_at": "2026-10-30T01:36:16.093017+00:00"
+        "planned_at": "2026-10-30T02:16:28.403073+00:00"
       },
       "previous_target_id": "30616096",
       "prepared": {
@@ -4717,6 +4717,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T18:13:23.182086+00:00",
         "relay_source_id": "15052978"
+      },
+      "claim": {
+        "worker_id": "a948d84c431e42799f2e99157a455a77-shard-0",
+        "claimed_at": "2026-10-30T02:16:28.513920+00:00",
+        "lease_expires_at": "2026-10-30T08:16:28.513920+00:00",
+        "run_id": "40985687737"
       }
     },
     "214": {
@@ -6267,17 +6273,19 @@
       }
     },
     "302": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34847973",
+          "target_video_id": "30623665",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:16:29.184842+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34847973",
         "display_name": "Guardians of the Galaxy 4K CZ Dabing",
         "planned_at": "2026-10-30T01:58:25.694605+00:00"
-      },
-      "claim": {
-        "worker_id": "079709fb91494554b00c840a5875ed9c-shard-0",
-        "claimed_at": "2026-10-30T01:58:25.760808+00:00",
-        "lease_expires_at": "2026-10-30T07:58:25.760808+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30623665",
       "prepared": {
@@ -6292,7 +6300,7 @@
       "last_plan": {
         "source_id": "31004463",
         "display_name": "Deadpool 4K CZ Dabing",
-        "planned_at": "2026-10-30T02:16:26.417555+00:00"
+        "planned_at": "2026-10-30T02:16:28.439997+00:00"
       }
     },
     "267": {
@@ -23505,5 +23513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:16:27.345967+00:00"
+  "updated_at": "2026-10-30T02:16:29.184855+00:00"
 }
