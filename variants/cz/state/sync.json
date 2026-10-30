@@ -5716,17 +5716,19 @@
       "attempts": []
     },
     "21117": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27623949",
+          "reason": "Request failed for https://sdilej.cz/27623949/treti-muz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:28:21.697605+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27623949",
         "display_name": "The Third Man 1080p CZ Dabing",
         "planned_at": "2026-10-30T00:27:35.281863+00:00"
-      },
-      "claim": {
-        "worker_id": "ae8b64c3210e491b9a396e0929623bd0-shard-0",
-        "claimed_at": "2026-10-30T00:27:35.363014+00:00",
-        "lease_expires_at": "2026-10-30T06:27:35.363014+00:00",
-        "run_id": "40957299535"
       }
     },
     "184": {
@@ -22777,5 +22779,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:28:20.603059+00:00"
+  "updated_at": "2026-10-30T00:28:21.697624+00:00"
 }
