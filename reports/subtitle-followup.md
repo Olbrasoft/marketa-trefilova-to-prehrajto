@@ -107,7 +107,7 @@ Attach subtitles only after target processing has finished.
 | Spider-Man: Brand New Day 1440p CZ Titulky | 30628930 | https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Rosemary's Baby 4K CZ Titulky | 30629227 | https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv | Extract Czech track from exact source after processing |
 | CODA 4K CZ Titulky | 30629619 | https://sdilej.cz/23547476/coda-2021-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv | Complete: Czech subtitles verified |
-| Stalker (Сталкер) (1979) 1080p CZ Titulky | 30630550 | https://sdilej.cz/29472972/stalker-1979-rus.-cz-titulky-remaster..mkv | Extract Czech track from exact source after processing |
+| Stalker (Сталкер) (1979) 1080p CZ Titulky | 30630550 | https://sdilej.cz/29472972/stalker-1979-rus.-cz-titulky-remaster..mkv | Complete: Czech subtitles verified |
 | Elite Squad: The Enemy Within 1080p CZ Titulky | 30630934 | https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv | Extract Czech track from exact source after processing |
 | The Ascent 1080p CZ Titulky | 30631012 | https://sdilej.cz/33856188/300-vzestup-rise.mp4 | Extract Czech track from exact source after processing |
 | The Miracle Worker 1080p CZ Titulky | 30631145 | https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv | Extract Czech track from exact source after processing |
