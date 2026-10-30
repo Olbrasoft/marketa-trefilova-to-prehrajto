@@ -5731,17 +5731,19 @@
       "attempts": []
     },
     "19284": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29927079",
+          "reason": "Request failed for https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T16:49:37.082526+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29927079",
         "display_name": "Ricky Gervais: Humanity 1080p CZ Titulky",
         "planned_at": "2026-10-30T16:48:51.185870+00:00"
-      },
-      "claim": {
-        "worker_id": "c7a33d867959400eaae5603e0b678247-shard-0",
-        "claimed_at": "2026-10-30T16:48:51.277905+00:00",
-        "lease_expires_at": "2026-10-30T22:48:51.277905+00:00",
-        "run_id": "41071477533"
       }
     },
     "31037": {
@@ -25566,5 +25568,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T16:48:56.098317+00:00"
+  "updated_at": "2026-10-30T16:49:37.082544+00:00"
 }
