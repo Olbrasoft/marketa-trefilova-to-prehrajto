@@ -5619,17 +5619,19 @@
       }
     },
     "13259": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402034",
+          "target_video_id": "30638440",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:11:13.259342+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402034",
         "display_name": "Big Fish 1080p CZ Titulky",
         "planned_at": "2026-10-30T15:05:22.840828+00:00"
-      },
-      "claim": {
-        "worker_id": "2b0eba92a66e4621a87302a6dd337195-shard-0",
-        "claimed_at": "2026-10-30T15:05:22.872436+00:00",
-        "lease_expires_at": "2026-10-30T21:05:22.872436+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30638440",
       "prepared": {
@@ -25422,5 +25424,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:05:25.673947+00:00"
+  "updated_at": "2026-10-30T15:11:13.259357+00:00"
 }
