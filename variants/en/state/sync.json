@@ -4428,13 +4428,6 @@
           "source_id": "34794426",
           "target_video_id": "30625850",
           "permanent": false,
-          "attempted_at": "2026-10-30T12:34:21.191807+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34794426",
-          "target_video_id": "30625850",
-          "permanent": false,
           "attempted_at": "2026-10-30T13:04:35.947902+00:00"
         },
         {
@@ -4443,6 +4436,13 @@
           "target_video_id": "30625850",
           "permanent": false,
           "attempted_at": "2026-10-30T13:42:24.051376+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34794426",
+          "target_video_id": "30625850",
+          "permanent": false,
+          "attempted_at": "2026-10-30T15:04:39.393101+00:00"
         }
       ],
       "last_plan": {
@@ -4456,12 +4456,6 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-10-30T04:25:00.177448+00:00",
         "relay_source_id": "34794426"
-      },
-      "claim": {
-        "worker_id": "328d64267d81488693935c65f10ad1c1-shard-0",
-        "claimed_at": "2026-10-30T15:04:36.758117+00:00",
-        "lease_expires_at": "2026-10-30T21:04:36.758117+00:00",
-        "run_id": "41071477533"
       }
     },
     "282": {
@@ -5290,7 +5284,7 @@
       "last_plan": {
         "source_id": "15397067",
         "display_name": "Taegukgi (태극기 휘날리며) 720p CZ Titulky",
-        "planned_at": "2026-10-30T13:42:25.291183+00:00"
+        "planned_at": "2026-10-30T15:04:38.804936+00:00"
       },
       "previous_target_id": "30631676",
       "prepared": {
@@ -5298,6 +5292,12 @@
         "size_bytes": 7500000000,
         "prepared_at": "2026-10-30T11:08:54.420969+00:00",
         "relay_source_id": "15397067"
+      },
+      "claim": {
+        "worker_id": "d7fed9b43490413c9d67b21d30142255-shard-0",
+        "claimed_at": "2026-10-30T15:04:38.883727+00:00",
+        "lease_expires_at": "2026-10-30T21:04:38.883727+00:00",
+        "run_id": "41071477533"
       }
     },
     "31875": {
@@ -5601,7 +5601,7 @@
       "last_plan": {
         "source_id": "26457098",
         "display_name": "Guardians of the Galaxy Vol. 3 4K CZ Titulky",
-        "planned_at": "2026-10-30T15:04:36.729504+00:00"
+        "planned_at": "2026-10-30T15:04:38.855715+00:00"
       }
     },
     "13259": {
@@ -25395,5 +25395,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:04:37.346679+00:00"
+  "updated_at": "2026-10-30T15:04:39.393117+00:00"
 }
