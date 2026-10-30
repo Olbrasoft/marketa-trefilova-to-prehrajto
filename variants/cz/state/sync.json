@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-10-30T07:21:49.712340+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-10-30T08:04:51.403353+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-10-30T08:46:34.097983+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:19:33.990330+00:00"
         }
       ],
       "last_plan": {
@@ -4163,7 +4163,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T08:46:35.383216+00:00"
+        "planned_at": "2026-10-30T09:19:32.770053+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "b72c6d7e2c134a8aa053bfd972a0d092-shard-0",
+        "claimed_at": "2026-10-30T09:19:32.911579+00:00",
+        "lease_expires_at": "2026-10-30T15:19:32.911579+00:00",
+        "run_id": "41008254453"
       }
     },
     "37290": {
@@ -7741,7 +7747,7 @@
       "last_plan": {
         "source_id": "32946845",
         "display_name": "Cool Hand Luke 4K CZ Dabing",
-        "planned_at": "2026-10-30T09:19:31.409857+00:00"
+        "planned_at": "2026-10-30T09:19:32.815299+00:00"
       }
     },
     "23785": {
@@ -26550,5 +26556,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:19:31.409876+00:00"
+  "updated_at": "2026-10-30T09:19:33.990351+00:00"
 }
