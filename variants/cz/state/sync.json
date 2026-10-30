@@ -4131,13 +4131,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-10-30T00:00:14.373587+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-10-30T00:30:49.946531+00:00"
         },
         {
@@ -4146,12 +4139,19 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-10-30T01:01:43.155915+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-10-30T01:35:43.905653+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T01:01:39.487262+00:00"
+        "planned_at": "2026-10-30T01:35:40.119655+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -6143,11 +6143,22 @@
       "last_plan": {
         "source_id": "34699151",
         "display_name": "Before the Flood 1080p CZ Dabing",
-        "planned_at": "2026-10-30T01:35:37.026157+00:00"
+        "planned_at": "2026-10-30T01:35:40.165861+00:00"
+      },
+      "claim": {
+        "worker_id": "10f2845d74214a8085bb97e096f9ac05-shard-0",
+        "claimed_at": "2026-10-30T01:35:40.312006+00:00",
+        "lease_expires_at": "2026-10-30T07:35:40.312006+00:00",
+        "run_id": "40957299535"
       }
     },
     "11628": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33494074",
+        "display_name": "Jean de Florette 1080p CZ Dabing",
+        "planned_at": "2026-10-30T01:35:40.189631+00:00"
+      }
     },
     "21939": {
       "attempts": []
@@ -23374,5 +23385,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T01:35:38.703250+00:00"
+  "updated_at": "2026-10-30T01:35:43.905669+00:00"
 }
