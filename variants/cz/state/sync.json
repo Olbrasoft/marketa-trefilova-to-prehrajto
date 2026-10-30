@@ -10879,11 +10879,19 @@
       "attempts": []
     },
     "21376": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33878268",
+          "reason": "Source detail has no authenticated download link; source_id=33878268",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:59:02.561501+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33878268",
         "display_name": "Stalag 17 SD CZ Dabing",
-        "planned_at": "2026-10-30T19:57:59.040605+00:00"
+        "planned_at": "2026-10-30T19:59:00.803618+00:00"
       }
     },
     "26461": {
@@ -30772,5 +30780,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:57:59.040620+00:00"
+  "updated_at": "2026-10-30T19:59:02.561520+00:00"
 }
