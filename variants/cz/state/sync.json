@@ -5096,7 +5096,7 @@
       "last_plan": {
         "source_id": "13100159",
         "display_name": "Ford v Ferrari 4K CZ Dabing",
-        "planned_at": "2026-10-30T05:31:20.556336+00:00"
+        "planned_at": "2026-10-30T06:03:14.071794+00:00"
       },
       "previous_target_id": "30619997",
       "prepared": {
@@ -5104,6 +5104,12 @@
         "size_bytes": 9200000000,
         "prepared_at": "2026-10-29T21:44:26.158133+00:00",
         "relay_source_id": "13100159"
+      },
+      "claim": {
+        "worker_id": "536c0701510142d8a169856b26b58b68-shard-0",
+        "claimed_at": "2026-10-30T06:03:14.183925+00:00",
+        "lease_expires_at": "2026-10-30T12:03:14.183925+00:00",
+        "run_id": "41008254453"
       }
     },
     "213": {
@@ -5951,13 +5957,6 @@
           "source_id": "35294815",
           "target_video_id": "30622524",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:17:53.325133+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35294815",
-          "target_video_id": "30622524",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:58:01.096319+00:00"
         },
         {
@@ -5966,6 +5965,13 @@
           "target_video_id": "30622524",
           "permanent": false,
           "attempted_at": "2026-10-30T05:31:22.674929+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35294815",
+          "target_video_id": "30622524",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:03:14.481182+00:00"
         }
       ],
       "last_plan": {
@@ -5979,12 +5985,6 @@
         "size_bytes": 6800000000,
         "prepared_at": "2026-10-30T00:46:06.861060+00:00",
         "relay_source_id": "35294815"
-      },
-      "claim": {
-        "worker_id": "2f273f42e3694e13be597302c1b69ae4-shard-0",
-        "claimed_at": "2026-10-30T06:03:12.402082+00:00",
-        "lease_expires_at": "2026-10-30T12:03:12.402082+00:00",
-        "run_id": "41008254453"
       }
     },
     "21394": {
@@ -7000,7 +7000,7 @@
       "last_plan": {
         "source_id": "32448862",
         "display_name": "Rain Man 4K CZ Dabing",
-        "planned_at": "2026-10-30T06:03:12.332585+00:00"
+        "planned_at": "2026-10-30T06:03:14.114463+00:00"
       }
     },
     "33811": {
@@ -24707,5 +24707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:03:12.726223+00:00"
+  "updated_at": "2026-10-30T06:03:14.481203+00:00"
 }
