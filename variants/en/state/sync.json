@@ -6909,17 +6909,19 @@
       "attempts": []
     },
     "19577": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34732235",
+          "reason": "Request failed for https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:58:07.289733+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34732235",
         "display_name": "The Fighter 1080p CZ Titulky",
         "planned_at": "2026-10-30T23:57:21.588117+00:00"
-      },
-      "claim": {
-        "worker_id": "21701f49b00d4118b77e48945f52cf6c-shard-0",
-        "claimed_at": "2026-10-30T23:57:21.618571+00:00",
-        "lease_expires_at": "2026-10-31T05:57:21.618571+00:00",
-        "run_id": "41144016453"
       }
     },
     "507": {
@@ -26858,5 +26860,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:57:38.611032+00:00"
+  "updated_at": "2026-10-30T23:58:07.289753+00:00"
 }
