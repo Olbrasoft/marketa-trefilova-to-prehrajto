@@ -83,7 +83,7 @@ Attach subtitles only after target processing has finished.
 | Room 1080p CZ Titulky | 30620863 | https://sdilej.cz/14738718/doom.mkv | Extract Czech track from exact source after processing |
 | My Neighbor Totoro (となりのトトロ) 1080p | 30620967 | https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv | Find and add matching Czech subtitles after processing |
 | Memories of Murder (살인의 추억) 1080p CZ Titulky | 30621421 | https://sdilej.cz/17328714/memories-of-murder.2003.bdrip-1080p-hevc-eac3.cz.tit.mkv | Extract Czech track from exact source after processing |
-| The Wild Robot 4K CZ Titulky | 30622026 | https://sdilej.cz/29907177/the.wild.robot-2024-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| The Wild Robot 4K CZ Titulky | 30622026 | https://sdilej.cz/29907177/the.wild.robot-2024-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | PK (पीके) SD | 30622086 | https://sdilej.cz/34714281/pk-2014-cz.mp4 | Find and add matching Czech subtitles after processing |
 | Paris, Texas 1080p CZ Titulky | 30622275 | https://sdilej.cz/15641041/paris-texas-1984-1080p-cz-titl.mkv | Complete: Czech subtitles verified |
 | The Grapes of Wrath 1080p | 30622415 | https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4 | Find and add matching Czech subtitles after processing |
