@@ -2633,13 +2633,6 @@
           "source_id": "8659765",
           "target_video_id": "30611497",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:16:07.389076+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8659765",
-          "target_video_id": "30611497",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:56:16.514852+00:00"
         },
         {
@@ -2648,6 +2641,13 @@
           "target_video_id": "30611497",
           "permanent": false,
           "attempted_at": "2026-10-30T05:30:02.940797+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8659765",
+          "target_video_id": "30611497",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:01:58.775713+00:00"
         }
       ],
       "last_plan": {
@@ -2661,12 +2661,6 @@
         "size_bytes": 16600000000,
         "prepared_at": "2026-10-29T13:36:35.946178+00:00",
         "relay_source_id": "8659765"
-      },
-      "claim": {
-        "worker_id": "737e8eb4e2f34fcd95f9c335eda2ea82-shard-0",
-        "claimed_at": "2026-10-30T06:01:55.954764+00:00",
-        "lease_expires_at": "2026-10-30T12:01:55.954764+00:00",
-        "run_id": "41008254453"
       }
     },
     "128": {
@@ -2896,7 +2890,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-10-30T05:30:04.789257+00:00"
+        "planned_at": "2026-10-30T06:01:58.480292+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -2904,6 +2898,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "2a611480c3984869b501b4381bb53acb-shard-0",
+        "claimed_at": "2026-10-30T06:01:58.540610+00:00",
+        "lease_expires_at": "2026-10-30T12:01:58.540610+00:00",
+        "run_id": "41008254453"
       }
     },
     "31551": {
@@ -4554,7 +4554,7 @@
       "last_plan": {
         "source_id": "35036692",
         "display_name": "Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky",
-        "planned_at": "2026-10-30T06:01:55.933921+00:00"
+        "planned_at": "2026-10-30T06:01:58.519343+00:00"
       }
     },
     "23172": {
@@ -22263,5 +22263,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:01:56.069216+00:00"
+  "updated_at": "2026-10-30T06:01:58.775735+00:00"
 }
