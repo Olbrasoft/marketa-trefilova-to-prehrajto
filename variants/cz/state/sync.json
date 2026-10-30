@@ -6472,13 +6472,6 @@
           "source_id": "33707658",
           "target_video_id": "30624153",
           "permanent": false,
-          "attempted_at": "2026-10-30T21:31:57.374178+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33707658",
-          "target_video_id": "30624153",
-          "permanent": false,
           "attempted_at": "2026-10-30T22:12:55.884879+00:00"
         },
         {
@@ -6487,6 +6480,13 @@
           "target_video_id": "30624153",
           "permanent": false,
           "attempted_at": "2026-10-30T22:48:15.969297+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33707658",
+          "target_video_id": "30624153",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:32:15.471911+00:00"
         }
       ],
       "last_plan": {
@@ -6500,12 +6500,6 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-10-30T02:33:09.819801+00:00",
         "relay_source_id": "33707658"
-      },
-      "claim": {
-        "worker_id": "3cc53a1590fd4467a851aa021dca6379-shard-0",
-        "claimed_at": "2026-10-30T23:32:13.747402+00:00",
-        "lease_expires_at": "2026-10-31T05:32:13.747402+00:00",
-        "run_id": "41144016453"
       }
     },
     "306": {
@@ -6917,7 +6911,7 @@
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-10-30T22:48:17.194972+00:00"
+        "planned_at": "2026-10-30T23:32:15.094297+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -6925,6 +6919,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "f7ead57abbcc4a38b33d68985eb82565-shard-0",
+        "claimed_at": "2026-10-30T23:32:15.253688+00:00",
+        "lease_expires_at": "2026-10-31T05:32:15.253688+00:00",
+        "run_id": "41144016453"
       }
     },
     "321": {
@@ -12212,7 +12212,7 @@
       "last_plan": {
         "source_id": "32643161",
         "display_name": "The Irishman 4K CZ Dabing",
-        "planned_at": "2026-10-30T23:32:13.649921+00:00"
+        "planned_at": "2026-10-30T23:32:15.155336+00:00"
       }
     },
     "11559": {
@@ -32166,5 +32166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:32:13.925121+00:00"
+  "updated_at": "2026-10-30T23:32:15.471928+00:00"
 }
