@@ -95,3 +95,4 @@ Attach subtitles only after target processing has finished.
 | Guardians of the Galaxy 4K CZ Titulky | 30623940 | https://sdilej.cz/27579007/strazci-galaxie-1-2014-2160p.mkv | Complete: Czech subtitles verified |
 | Apollo 11 4K CZ Titulky | 30624527 | https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv | Extract Czech track from exact source after processing |
 | The Revenant 720p CZ Titulky | 30625206 | https://sdilej.cz/22183177/the-revenant-2015-720p-en-cz-titulky-marcelcu.mkv | Extract Czech track from exact source after processing |
+| Donnie Darko 4K CZ Titulky | 30625425 | https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv | Extract Czech track from exact source after processing |
