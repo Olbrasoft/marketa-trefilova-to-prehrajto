@@ -127,3 +127,4 @@ Attach subtitles only after target processing has finished.
 | Wonder 1080p CZ Titulky | 30640621 | https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Spartacus (1960) 1080p CZ Titulky | 30641259 | https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv | Extract Czech track from exact source after processing |
 | Strangers on a Train 1080p CZ Titulky | 30641584 | https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| Do the Right Thing 1080p CZ Titulky | 30642017 | https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv | Extract Czech track from exact source after processing |
