@@ -79,7 +79,7 @@ Attach subtitles only after target processing has finished.
 | Dead Poets Society 1080p | 30617562 | https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
 | Three Billboards Outside Ebbing, Missouri 4K CZ Titulky | 30618166 | https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv | Extract Czech track from exact source after processing |
 | Rush (2013) 1080p CZ Titulky | 30620144 | https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv | Complete: Czech subtitles verified |
-| The Help 1080p CZ Titulky | 30620452 | https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
+| The Help 1080p CZ Titulky | 30620452 | https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | Room 1080p CZ Titulky | 30620863 | https://sdilej.cz/14738718/doom.mkv | Extract Czech track from exact source after processing |
 | My Neighbor Totoro (となりのトトロ) 1080p | 30620967 | https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv | Find and add matching Czech subtitles after processing |
 | Memories of Murder (살인의 추억) 1080p CZ Titulky | 30621421 | https://sdilej.cz/17328714/memories-of-murder.2003.bdrip-1080p-hevc-eac3.cz.tit.mkv | Extract Czech track from exact source after processing |
@@ -138,3 +138,4 @@ Attach subtitles only after target processing has finished.
 | The Social Network 1080p CZ Titulky | 30645401 | https://sdilej.cz/33551158/socialni-sit-the-social-network-2010-1080p-bluray-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Kiss the Ground 1080p CZ Titulky | 30645461 | https://sdilej.cz/21918113/sklonit-se-k-zemi-2020-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Drive (2011) 1080p CZ Titulky | 30645764 | https://sdilej.cz/30970586/drive.2011.open.matte.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Home Alone 1080p CZ Titulky | 30646078 | https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv | Extract Czech track from exact source after processing |
