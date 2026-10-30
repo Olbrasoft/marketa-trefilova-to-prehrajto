@@ -9149,7 +9149,7 @@
       "last_plan": {
         "source_id": "15316697",
         "display_name": "District 9 4K CZ Dabing",
-        "planned_at": "2026-10-30T12:53:02.492641+00:00"
+        "planned_at": "2026-10-30T13:44:15.475427+00:00"
       },
       "previous_target_id": "30633214",
       "prepared": {
@@ -9157,6 +9157,12 @@
         "size_bytes": 5154580059,
         "prepared_at": "2026-10-30T12:53:06.149143+00:00",
         "relay_source_id": "15316697"
+      },
+      "claim": {
+        "worker_id": "8077e76fde16477cab33cc05b26a972d-shard-0",
+        "claimed_at": "2026-10-30T13:44:15.556284+00:00",
+        "lease_expires_at": "2026-10-30T19:44:15.556284+00:00",
+        "run_id": "41033346199"
       }
     },
     "34707": {
@@ -9291,17 +9297,19 @@
       "attempts": []
     },
     "364": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34799503",
+          "target_video_id": "30636618",
+          "permanent": false,
+          "attempted_at": "2026-10-30T13:44:15.852642+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34799503",
         "display_name": "Children of Men 4K CZ Dabing",
         "planned_at": "2026-10-30T13:30:32.812777+00:00"
-      },
-      "claim": {
-        "worker_id": "4136b6deac6c4fbf9e7598940ff1f5a4-shard-0",
-        "claimed_at": "2026-10-30T13:30:32.864239+00:00",
-        "lease_expires_at": "2026-10-30T19:30:32.864239+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30636618",
       "prepared": {
@@ -9339,7 +9347,7 @@
       "last_plan": {
         "source_id": "25803543",
         "display_name": "Mystic River 1080p CZ Dabing",
-        "planned_at": "2026-10-30T13:44:13.020613+00:00"
+        "planned_at": "2026-10-30T13:44:15.506645+00:00"
       }
     },
     "29948": {
@@ -28973,5 +28981,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:44:14.024089+00:00"
+  "updated_at": "2026-10-30T13:44:15.852660+00:00"
 }
