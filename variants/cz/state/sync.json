@@ -10046,21 +10046,34 @@
       }
     },
     "21296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32983044",
+          "reason": "Request failed for https://sdilej.cz/32983044/provaz-1948-uhdr-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T17:49:56.154486+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32983044",
         "display_name": "Rope 4K CZ Dabing",
         "planned_at": "2026-10-30T17:49:10.330232+00:00"
-      },
-      "claim": {
-        "worker_id": "4cddcc4145cb4cae8f903b1b7591a5f7-shard-0",
-        "claimed_at": "2026-10-30T17:49:10.423982+00:00",
-        "lease_expires_at": "2026-10-30T23:49:10.423982+00:00",
-        "run_id": "41071477533"
       }
     },
     "10800": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24178394",
+        "display_name": "Spartacus (1960) 1080p CZ Dabing",
+        "planned_at": "2026-10-30T17:49:54.654135+00:00"
+      },
+      "claim": {
+        "worker_id": "54c9693fcda4489288abfa3e3ebc9668-shard-0",
+        "claimed_at": "2026-10-30T17:49:54.746975+00:00",
+        "lease_expires_at": "2026-10-30T23:49:54.746975+00:00",
+        "run_id": "41071477533"
+      }
     },
     "25423": {
       "attempts": []
@@ -29933,5 +29946,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T17:49:10.424002+00:00"
+  "updated_at": "2026-10-30T17:49:56.154506+00:00"
 }
