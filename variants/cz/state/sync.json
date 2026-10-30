@@ -7942,7 +7942,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-10-30T14:06:51.502185+00:00"
+        "planned_at": "2026-10-30T15:04:58.200598+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -7950,6 +7950,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "e82dc8848b4d4215b7e978e9ece72484-shard-0",
+        "claimed_at": "2026-10-30T15:04:58.352179+00:00",
+        "lease_expires_at": "2026-10-30T21:04:58.352179+00:00",
+        "run_id": "41071477533"
       }
     },
     "10690": {
@@ -9448,17 +9454,23 @@
           "attempted_at": "2026-10-30T14:06:50.132198+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32999497",
-        "display_name": "In Bruges 4K CZ Dabing",
-        "planned_at": "2026-10-30T15:04:56.858906+00:00"
-      },
       "previous_target_id": "30637234",
-      "prepared": {
+      "upload": {
         "target_video_id": "30637234",
-        "size_bytes": 5027442096,
-        "prepared_at": "2026-10-30T13:53:54.593365+00:00",
-        "relay_source_id": "32999497"
+        "display_name": "In Bruges 4K CZ Dabing",
+        "source_id": "32999497",
+        "source_url": "https://sdilej.cz/32999497/v-bruggach-2008-uhdrdv-cz-en.mkv",
+        "source_filename": "V Bruggách (2008) UHDRDV cz en.mkv",
+        "size_bytes": 5000000000,
+        "width": 3840,
+        "height": 1608,
+        "audio_language": "cs",
+        "language_probability": 0.8920434713363647,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/in-bruges-4k-cz-dabing-mkv/f0878657334fedbd",
+        "uploaded_at": "2026-10-30T15:04:59.004475+00:00"
       }
     },
     "357": {
@@ -9510,7 +9522,7 @@
       "last_plan": {
         "source_id": "32934317",
         "display_name": "Big Fish 4K CZ Dabing",
-        "planned_at": "2026-10-30T15:04:56.919761+00:00"
+        "planned_at": "2026-10-30T15:04:58.260315+00:00"
       }
     },
     "352": {
@@ -29296,5 +29308,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T15:04:56.919770+00:00"
+  "updated_at": "2026-10-30T15:04:59.004487+00:00"
 }
