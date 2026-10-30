@@ -3151,6 +3151,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-29T16:43:21.693622+00:00",
         "relay_source_id": "27782789"
+      },
+      "claim": {
+        "worker_id": "ac1156f670e447f2acc933dd3e51872c-shard-0",
+        "claimed_at": "2026-10-30T05:30:43.287514+00:00",
+        "lease_expires_at": "2026-10-30T11:30:43.287514+00:00",
+        "run_id": "40985687737"
       }
     },
     "236": {
@@ -4149,13 +4155,6 @@
           "source_id": "32450707",
           "target_video_id": "30623110",
           "permanent": false,
-          "attempted_at": "2026-10-30T03:44:17.710077+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32450707",
-          "target_video_id": "30623110",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:17:03.038927+00:00"
         },
         {
@@ -4164,12 +4163,19 @@
           "target_video_id": "30623110",
           "permanent": false,
           "attempted_at": "2026-10-30T04:57:11.578940+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32450707",
+          "target_video_id": "30623110",
+          "permanent": false,
+          "attempted_at": "2026-10-30T05:30:45.124156+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32450707",
         "display_name": "Raise the Red Lantern (大红灯笼高高挂) 1080p",
-        "planned_at": "2026-10-30T04:57:10.532208+00:00"
+        "planned_at": "2026-10-30T05:30:43.575752+00:00"
       },
       "previous_target_id": "30623110",
       "prepared": {
@@ -4493,7 +4499,7 @@
       "last_plan": {
         "source_id": "33063690",
         "display_name": "Zootopia 1080p CZ Titulky",
-        "planned_at": "2026-10-30T05:30:41.420124+00:00"
+        "planned_at": "2026-10-30T05:30:43.610147+00:00"
       }
     },
     "325": {
@@ -22204,5 +22210,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:30:41.420138+00:00"
+  "updated_at": "2026-10-30T05:30:45.124173+00:00"
 }
