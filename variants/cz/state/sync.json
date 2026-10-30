@@ -10559,17 +10559,19 @@
       "attempts": []
     },
     "21267": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29622009",
+          "target_video_id": "30642653",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:33:50.310890+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29622009",
         "display_name": "The Big Sleep 1080p CZ Dabing",
         "planned_at": "2026-10-30T19:11:32.825368+00:00"
-      },
-      "claim": {
-        "worker_id": "7991d206b0ca4ce885442f90abbab495-shard-0",
-        "claimed_at": "2026-10-30T19:11:33.093014+00:00",
-        "lease_expires_at": "2026-10-31T01:11:33.093014+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30642653",
       "prepared": {
@@ -30639,5 +30641,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T19:32:30.701285+00:00"
+  "updated_at": "2026-10-30T19:33:50.310905+00:00"
 }
