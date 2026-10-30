@@ -4367,13 +4367,6 @@
           "source_id": "12902823",
           "target_video_id": "30614108",
           "permanent": false,
-          "attempted_at": "2026-10-30T00:31:14.752851+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12902823",
-          "target_video_id": "30614108",
-          "permanent": false,
           "attempted_at": "2026-10-30T01:02:09.374843+00:00"
         },
         {
@@ -4382,6 +4375,13 @@
           "target_video_id": "30614108",
           "permanent": false,
           "attempted_at": "2026-10-30T01:36:20.047648+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12902823",
+          "target_video_id": "30614108",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:16:32.102425+00:00"
         }
       ],
       "last_plan": {
@@ -4395,12 +4395,6 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-10-29T16:32:56.043846+00:00",
         "relay_source_id": "12902823"
-      },
-      "claim": {
-        "worker_id": "8ec23cced56e4c5a9483421c7ce918f8-shard-0",
-        "claimed_at": "2026-10-30T02:16:30.613894+00:00",
-        "lease_expires_at": "2026-10-30T08:16:30.613894+00:00",
-        "run_id": "40985687737"
       }
     },
     "223": {
@@ -5090,7 +5084,7 @@
       "last_plan": {
         "source_id": "13100159",
         "display_name": "Ford v Ferrari 4K CZ Dabing",
-        "planned_at": "2026-10-30T01:36:21.109713+00:00"
+        "planned_at": "2026-10-30T02:16:31.759408+00:00"
       },
       "previous_target_id": "30619997",
       "prepared": {
@@ -5098,6 +5092,12 @@
         "size_bytes": 9200000000,
         "prepared_at": "2026-10-29T21:44:26.158133+00:00",
         "relay_source_id": "13100159"
+      },
+      "claim": {
+        "worker_id": "ab20c77849bb4f0aa0dd33052e257e95-shard-0",
+        "claimed_at": "2026-10-30T02:16:31.872900+00:00",
+        "lease_expires_at": "2026-10-30T08:16:31.872900+00:00",
+        "run_id": "40985687737"
       }
     },
     "213": {
@@ -6300,7 +6300,7 @@
       "last_plan": {
         "source_id": "31004463",
         "display_name": "Deadpool 4K CZ Dabing",
-        "planned_at": "2026-10-30T02:16:30.539463+00:00"
+        "planned_at": "2026-10-30T02:16:31.796791+00:00"
       }
     },
     "267": {
@@ -23513,5 +23513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:16:30.677251+00:00"
+  "updated_at": "2026-10-30T02:16:32.102442+00:00"
 }
