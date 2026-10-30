@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T08:03:17.973916+00:00
+Poslední aktualizace (UTC): 2026-10-30T08:03:27.397104+00:00
 
 Zkontrolováno videí: 101. Další stránka kontroly: 0.
 
@@ -71,7 +71,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Rush (2013) 1080p CZ Titulky](https://prehraj.to/rush-2013-1080p-cz-titulky-mkv/8a9dc01628f423ad) (ID 30620144) | [Sdílej 29629993](https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T07:23:04.655004+00:00 |
 | [Sin City 1080p CZ Titulky](https://prehraj.to/sin-city-1080p-cz-titulky-mkv/5f3291cc82332fef) (ID 30626361) | [Sdílej 25502477](https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv) | target_unavailable | 2026-10-30T08:03:13.810851+00:00 |
 | [Spider-Man: Brand New Day 1440p CZ Titulky](https://prehraj.to/spider-man-brand-new-day-1440p-cz-titulky-mkv/95c954bea7a30666) (ID 30628930) | [Sdílej 35246502](https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-30T07:53:10.636929+00:00 |
-| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T07:02:41.910081+00:00 |
+| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T08:03:26.462115+00:00 |
 | [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T07:33:03.735389+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T07:43:03.013583+00:00 |
 | [The Princess Bride 1080p CZ Titulky](https://prehraj.to/the-princess-bride-1080p-cz-titulky-mkv/015727ef8d52425b) (ID 30627890) | [Sdílej 13533126](https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv) | target_unavailable | 2026-10-30T07:32:45.099660+00:00 |
