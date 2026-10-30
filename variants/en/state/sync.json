@@ -2653,7 +2653,7 @@
       "last_plan": {
         "source_id": "8659765",
         "display_name": "The Sting 1080p CZ Titulky",
-        "planned_at": "2026-10-30T05:30:01.780179+00:00"
+        "planned_at": "2026-10-30T06:01:55.895466+00:00"
       },
       "previous_target_id": "30611497",
       "prepared": {
@@ -2661,6 +2661,12 @@
         "size_bytes": 16600000000,
         "prepared_at": "2026-10-29T13:36:35.946178+00:00",
         "relay_source_id": "8659765"
+      },
+      "claim": {
+        "worker_id": "737e8eb4e2f34fcd95f9c335eda2ea82-shard-0",
+        "claimed_at": "2026-10-30T06:01:55.954764+00:00",
+        "lease_expires_at": "2026-10-30T12:01:55.954764+00:00",
+        "run_id": "41008254453"
       }
     },
     "128": {
@@ -3267,13 +3273,6 @@
           "source_id": "11053464",
           "target_video_id": "30615827",
           "permanent": false,
-          "attempted_at": "2026-10-30T04:15:58.626141+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11053464",
-          "target_video_id": "30615827",
-          "permanent": false,
           "attempted_at": "2026-10-30T04:56:10.484240+00:00"
         },
         {
@@ -3282,6 +3281,13 @@
           "target_video_id": "30615827",
           "permanent": false,
           "attempted_at": "2026-10-30T05:29:59.669208+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11053464",
+          "target_video_id": "30615827",
+          "permanent": false,
+          "attempted_at": "2026-10-30T06:01:56.069196+00:00"
         }
       ],
       "last_plan": {
@@ -3295,12 +3301,6 @@
         "size_bytes": 10100000000,
         "prepared_at": "2026-10-29T17:59:32.832675+00:00",
         "relay_source_id": "11053464"
-      },
-      "claim": {
-        "worker_id": "cceee91421fa46e2b4c89393a9cc0703-shard-0",
-        "claimed_at": "2026-10-30T06:01:51.841734+00:00",
-        "lease_expires_at": "2026-10-30T12:01:51.841734+00:00",
-        "run_id": "41008254453"
       }
     },
     "11423": {
@@ -4554,7 +4554,7 @@
       "last_plan": {
         "source_id": "35036692",
         "display_name": "Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky",
-        "planned_at": "2026-10-30T06:01:51.820636+00:00"
+        "planned_at": "2026-10-30T06:01:55.933921+00:00"
       }
     },
     "23172": {
@@ -22263,5 +22263,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:01:52.227952+00:00"
+  "updated_at": "2026-10-30T06:01:56.069216+00:00"
 }
