@@ -78,7 +78,7 @@ Attach subtitles only after target processing has finished.
 | 12 Years a Slave SD | 30616683 | https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv | Find and add matching Czech subtitles after processing |
 | Dead Poets Society 1080p | 30617562 | https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv | Find and add matching Czech subtitles after processing |
 | Three Billboards Outside Ebbing, Missouri 4K CZ Titulky | 30618166 | https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv | Extract Czech track from exact source after processing |
-| Rush (2013) 1080p CZ Titulky | 30620144 | https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| Rush (2013) 1080p CZ Titulky | 30620144 | https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv | Complete: Czech subtitles verified |
 | The Help 1080p CZ Titulky | 30620452 | https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Room 1080p CZ Titulky | 30620863 | https://sdilej.cz/14738718/doom.mkv | Extract Czech track from exact source after processing |
 | My Neighbor Totoro (となりのトトロ) 1080p | 30620967 | https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv | Find and add matching Czech subtitles after processing |
