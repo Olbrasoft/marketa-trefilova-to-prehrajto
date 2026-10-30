@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T04:21:29.936288+00:00
+Poslední aktualizace (UTC): 2026-10-30T04:21:38.614891+00:00
 
 Zkontrolováno videí: 92. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 35, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 7, `target_unavailable`: 30, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 35, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 8, `target_unavailable`: 29, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -27,6 +27,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Interstellar 4K CZ Titulky](https://prehraj.to/interstellar-cz-titulky-mkv/dac891fa777f1c66) (ID 30584268) | [Sdílej 32920949](https://sdilej.cz/32920949/interstellar-2014-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-28T17:45:36.209340+00:00 |
 | [PK (पीके) SD](https://prehraj.to/pk-sd-mp4/9e12e2312e1b1970) (ID 30622086) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T00:24:43.694667+00:00 |
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
+| [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:21:38.614771+00:00 |
 | [Seven (Se7en) 1080p CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:48.283303+00:00 |
 | [Talvar SD](https://prehraj.to/talvar-sd-mp4/f17e203bdb92af8d) (ID 30622823) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:15:40.214453+00:00 |
 | [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T22:13:30.428521+00:00 |
@@ -61,7 +62,6 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-10-30T03:20:37.117008+00:00 |
 | [Ordet 1080p](https://prehraj.to/ordet-1080p-mkv/7699c14594ec8709) (ID 30622762) | [Sdílej 30646256](https://sdilej.cz/30646256/ordet.1955.mkv) | target_unavailable | 2026-10-30T04:11:15.476768+00:00 |
 | [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | target_unavailable | 2026-10-30T03:30:31.881534+00:00 |
-| [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-30T03:20:33.750315+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | target_unavailable | 2026-10-30T04:01:09.901722+00:00 |
 | [Rush (2013) 1080p CZ Titulky](https://prehraj.to/rush-2013-1080p-cz-titulky-mkv/8a9dc01628f423ad) (ID 30620144) | [Sdílej 29629993](https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T04:11:22.445447+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-30T03:30:38.325140+00:00 |
