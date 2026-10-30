@@ -100,3 +100,4 @@ Attach subtitles only after target processing has finished.
 | Sin City 1080p CZ Titulky | 30626361 | https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv | Extract Czech track from exact source after processing |
 | Into the Wild 1080p CZ Titulky | 30626855 | https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv | Extract Czech track from exact source after processing |
 | Zootopia 1080p CZ Titulky | 30627325 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Extract Czech track from exact source after processing |
+| Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky | 30627689 | https://sdilej.cz/35036692/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo.mkv | Extract Czech track from exact source after processing |
