@@ -11059,6 +11059,13 @@
         "claimed_at": "2026-10-30T20:22:44.598972+00:00",
         "lease_expires_at": "2026-10-31T02:22:44.598972+00:00",
         "run_id": "41106549738"
+      },
+      "previous_target_id": "30644007",
+      "prepared": {
+        "target_video_id": "30644007",
+        "size_bytes": 2265010616,
+        "prepared_at": "2026-10-30T20:22:49.126622+00:00",
+        "relay_source_id": "33563386"
       }
     },
     "397": {
@@ -11082,7 +11089,18 @@
       "attempts": []
     },
     "29927": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28717871",
+        "display_name": "Out of the Past 720p CZ Dabing",
+        "planned_at": "2026-10-30T20:22:46.318756+00:00"
+      },
+      "claim": {
+        "worker_id": "6c3ee041dfc1447480ef9c63501fb5ec-shard-0",
+        "claimed_at": "2026-10-30T20:22:46.412615+00:00",
+        "lease_expires_at": "2026-10-31T02:22:46.412615+00:00",
+        "run_id": "41106549738"
+      }
     },
     "22625": {
       "attempts": []
@@ -31009,5 +31027,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:22:44.757741+00:00"
+  "updated_at": "2026-10-30T20:22:49.126641+00:00"
 }
