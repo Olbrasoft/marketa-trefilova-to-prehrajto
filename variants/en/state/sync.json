@@ -5213,17 +5213,19 @@
       }
     },
     "326": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15397067",
+          "target_video_id": "30631676",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:28:53.066385+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15397067",
         "display_name": "Taegukgi (태극기 휘날리며) 720p CZ Titulky",
         "planned_at": "2026-10-30T11:08:51.058360+00:00"
-      },
-      "claim": {
-        "worker_id": "ac4e683d0a6844ff8eb7f6e864845648-shard-0",
-        "claimed_at": "2026-10-30T11:08:51.073192+00:00",
-        "lease_expires_at": "2026-10-30T17:08:51.073192+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631676",
       "prepared": {
@@ -24446,5 +24448,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:28:50.704873+00:00"
+  "updated_at": "2026-10-30T11:28:53.066404+00:00"
 }
