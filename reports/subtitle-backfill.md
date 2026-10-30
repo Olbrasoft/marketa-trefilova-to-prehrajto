@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T04:01:20.057183+00:00
+Poslední aktualizace (UTC): 2026-10-30T04:01:23.437058+00:00
 
 Zkontrolováno videí: 91. Další stránka kontroly: 0.
 
@@ -68,7 +68,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Help 1080p CZ Titulky](https://prehraj.to/the-help-1080p-cz-titulky-mkv/cde4e5ee6aca4b96) (ID 30620452) | [Sdílej 35171736](https://sdilej.cz/35171736/the.help.2011.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-10-30T03:30:35.135395+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-30T03:30:48.275092+00:00 |
 | [The Revenant 720p CZ Titulky](https://prehraj.to/the-revenant-720p-cz-titulky-mkv/e1451dd18e224608) (ID 30625206) | [Sdílej 22183177](https://sdilej.cz/22183177/the-revenant-2015-720p-en-cz-titulky-marcelcu.mkv) | target_unavailable | 2026-10-30T03:50:57.581121+00:00 |
-| [The Sting 1080p CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-30T03:00:21.033976+00:00 |
+| [The Sting 1080p CZ Titulky](https://prehraj.to/the-sting-cz-titulky-mkv/0fadb89ba74d7b89) (ID 30611497) | [Sdílej 8659765](https://sdilej.cz/8659765/podraz-the-sting-1973-1080p-bluray-en-dts-x264-cz-titulky-zdroj-ctrlhd-.mkv) | target_unavailable | 2026-10-30T04:01:23.436988+00:00 |
 | [The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky](https://prehraj.to/the-voice-of-hind-rajab-1080p-cz-titulky-mkv/e21354a981f1936f) (ID 30622539) | [Sdílej 34845555](https://sdilej.cz/34845555/the-voice-of-hind-rajab-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-10-30T04:01:03.029106+00:00 |
 | [The Wild Robot 4K CZ Titulky](https://prehraj.to/the-wild-robot-4k-cz-titulky-mkv/e2774f937391eb9e) (ID 30622026) | [Sdílej 29907177](https://sdilej.cz/29907177/the.wild.robot-2024-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-30T03:20:20.514298+00:00 |
 | [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | target_unavailable | 2026-10-30T03:20:23.744082+00:00 |
