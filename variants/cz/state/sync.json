@@ -12026,17 +12026,19 @@
       }
     },
     "486": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27620344",
+          "target_video_id": "30647576",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:08:12.397072+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27620344",
         "display_name": "The Big Short 1080p CZ Dabing",
         "planned_at": "2026-10-30T23:01:19.101961+00:00"
-      },
-      "claim": {
-        "worker_id": "20ea481188864607b29f7aec9c0a3602-shard-0",
-        "claimed_at": "2026-10-30T23:01:19.204030+00:00",
-        "lease_expires_at": "2026-10-31T05:01:19.204030+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30647576",
       "prepared": {
@@ -31982,5 +31984,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:07:50.355005+00:00"
+  "updated_at": "2026-10-30T23:08:12.397089+00:00"
 }
