@@ -8664,17 +8664,19 @@
       "attempts": []
     },
     "307": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28481854",
+          "target_video_id": "30631747",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:19:36.425871+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28481854",
         "display_name": "The Abominable Bride (Sherlock: The Abominable Bride) 1080p CZ Dabing",
         "planned_at": "2026-10-30T11:14:27.945914+00:00"
-      },
-      "claim": {
-        "worker_id": "6ceb14c42bfc427ab17c4184cc0454ae-shard-0",
-        "claimed_at": "2026-10-30T11:14:27.997468+00:00",
-        "lease_expires_at": "2026-10-30T17:14:27.997468+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631747",
       "prepared": {
@@ -27895,5 +27897,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:15:30.861894+00:00"
+  "updated_at": "2026-10-30T11:19:36.425889+00:00"
 }
