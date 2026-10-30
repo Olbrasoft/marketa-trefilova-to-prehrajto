@@ -10404,17 +10404,19 @@
       "attempts": []
     },
     "21436": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34026295",
+          "target_video_id": "30642300",
+          "permanent": false,
+          "attempted_at": "2026-10-30T19:01:05.371865+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34026295",
         "display_name": "The Night of the Hunter 1080p CZ Dabing",
         "planned_at": "2026-10-30T18:53:35.517932+00:00"
-      },
-      "claim": {
-        "worker_id": "cbf9c7ff745748e38ce3c88fed9035df-shard-0",
-        "claimed_at": "2026-10-30T18:53:35.621577+00:00",
-        "lease_expires_at": "2026-10-31T00:53:35.621577+00:00",
-        "run_id": "41071477533"
       },
       "previous_target_id": "30642300",
       "prepared": {
@@ -30387,5 +30389,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:57:48.645310+00:00"
+  "updated_at": "2026-10-30T19:01:05.371883+00:00"
 }
