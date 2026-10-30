@@ -8847,17 +8847,19 @@
       }
     },
     "22153": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32241689",
+          "target_video_id": "30632178",
+          "permanent": false,
+          "attempted_at": "2026-10-30T11:44:53.946764+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32241689",
         "display_name": "Day for Night 1080p CZ Dabing",
         "planned_at": "2026-10-30T11:38:57.547770+00:00"
-      },
-      "claim": {
-        "worker_id": "6a76c92eb22b4b98b0c45713de991075-shard-0",
-        "claimed_at": "2026-10-30T11:38:57.597531+00:00",
-        "lease_expires_at": "2026-10-30T17:38:57.597531+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30632178",
       "prepared": {
@@ -28039,5 +28041,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T11:43:23.551910+00:00"
+  "updated_at": "2026-10-30T11:44:53.946783+00:00"
 }
