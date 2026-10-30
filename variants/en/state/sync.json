@@ -5298,6 +5298,12 @@
         "size_bytes": 7500000000,
         "prepared_at": "2026-10-30T11:08:54.420969+00:00",
         "relay_source_id": "15397067"
+      },
+      "claim": {
+        "worker_id": "ca8b667a8d5742c69de149ec3ce26dc1-shard-0",
+        "claimed_at": "2026-10-30T18:07:53.792151+00:00",
+        "lease_expires_at": "2026-10-31T00:07:53.792151+00:00",
+        "run_id": "41071477533"
       }
     },
     "31875": {
@@ -5499,13 +5505,6 @@
           "source_id": "32925438",
           "target_video_id": "30633152",
           "permanent": false,
-          "attempted_at": "2026-10-30T16:15:56.767102+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32925438",
-          "target_video_id": "30633152",
-          "permanent": false,
           "attempted_at": "2026-10-30T16:46:55.141176+00:00"
         },
         {
@@ -5514,12 +5513,19 @@
           "target_video_id": "30633152",
           "permanent": false,
           "attempted_at": "2026-10-30T17:24:39.278406+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32925438",
+          "target_video_id": "30633152",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:07:54.814516+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32925438",
         "display_name": "Harry Potter and the Prisoner of Azkaban 4K CZ Titulky",
-        "planned_at": "2026-10-30T17:24:38.258652+00:00"
+        "planned_at": "2026-10-30T18:07:53.928739+00:00"
       },
       "previous_target_id": "30633152",
       "prepared": {
@@ -5961,7 +5967,7 @@
       "last_plan": {
         "source_id": "18087403",
         "display_name": "Strangers on a Train 1080p CZ Titulky",
-        "planned_at": "2026-10-30T18:07:52.596781+00:00"
+        "planned_at": "2026-10-30T18:07:53.980514+00:00"
       }
     },
     "384": {
@@ -25831,5 +25837,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:07:52.596791+00:00"
+  "updated_at": "2026-10-30T18:07:54.814532+00:00"
 }
