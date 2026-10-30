@@ -7604,17 +7604,19 @@
       }
     },
     "296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30543051",
+          "target_video_id": "30629806",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:58:24.819047+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30543051",
         "display_name": "The Invisible Guest (Contratiempo) 1080p CZ Dabing",
         "planned_at": "2026-10-30T08:47:17.953262+00:00"
-      },
-      "claim": {
-        "worker_id": "822571affcb6464ebe8469e990d02a95-shard-0",
-        "claimed_at": "2026-10-30T08:47:18.024489+00:00",
-        "lease_expires_at": "2026-10-30T14:47:18.024489+00:00",
-        "run_id": "41008254453"
       },
       "previous_target_id": "30629806",
       "prepared": {
@@ -7629,7 +7631,13 @@
       "last_plan": {
         "source_id": "31649140",
         "display_name": "Planet of the Apes (1968) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T08:58:17.561875+00:00"
+        "planned_at": "2026-10-30T08:58:21.000781+00:00"
+      },
+      "claim": {
+        "worker_id": "029db274cf8a47dfb1fce48598f9c3ae-shard-0",
+        "claimed_at": "2026-10-30T08:58:21.076556+00:00",
+        "lease_expires_at": "2026-10-30T14:58:21.076556+00:00",
+        "run_id": "41008254453"
       }
     },
     "281": {
@@ -26153,5 +26161,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:58:18.293738+00:00"
+  "updated_at": "2026-10-30T08:58:24.819066+00:00"
 }
