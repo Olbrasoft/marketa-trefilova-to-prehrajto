@@ -5001,7 +5001,7 @@
       "last_plan": {
         "source_id": "27796282",
         "display_name": "Lock, Stock and Two Smoking Barrels 1080p CZ Dabing",
-        "planned_at": "2026-10-30T07:21:25.939291+00:00"
+        "planned_at": "2026-10-30T08:04:39.042229+00:00"
       },
       "previous_target_id": "30617854",
       "prepared": {
@@ -5009,6 +5009,12 @@
         "size_bytes": 28900000000,
         "prepared_at": "2026-10-29T19:43:44.594642+00:00",
         "relay_source_id": "27796282"
+      },
+      "claim": {
+        "worker_id": "650546f897e54b0d9cb3b2032bc9c628-shard-0",
+        "claimed_at": "2026-10-30T08:04:39.162090+00:00",
+        "lease_expires_at": "2026-10-30T14:04:39.162090+00:00",
+        "run_id": "41008254453"
       }
     },
     "202": {
@@ -6317,13 +6323,6 @@
           "source_id": "32449184",
           "target_video_id": "30623525",
           "permanent": false,
-          "attempted_at": "2026-10-30T06:02:50.648282+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32449184",
-          "target_video_id": "30623525",
-          "permanent": false,
           "attempted_at": "2026-10-30T06:47:34.654956+00:00"
         },
         {
@@ -6332,6 +6331,13 @@
           "target_video_id": "30623525",
           "permanent": false,
           "attempted_at": "2026-10-30T07:21:24.717379+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32449184",
+          "target_video_id": "30623525",
+          "permanent": false,
+          "attempted_at": "2026-10-30T08:04:39.442833+00:00"
         }
       ],
       "last_plan": {
@@ -6345,12 +6351,6 @@
         "size_bytes": 8300000000,
         "prepared_at": "2026-10-30T01:49:28.564284+00:00",
         "relay_source_id": "32449184"
-      },
-      "claim": {
-        "worker_id": "f4b9cd4a71d348fcb22df905e2734ef5-shard-0",
-        "claimed_at": "2026-10-30T08:04:36.724639+00:00",
-        "lease_expires_at": "2026-10-30T14:04:36.724639+00:00",
-        "run_id": "41008254453"
       }
     },
     "302": {
@@ -7457,7 +7457,7 @@
       "last_plan": {
         "source_id": "33504052",
         "display_name": "Rosemary's Baby 4K CZ Dabing",
-        "planned_at": "2026-10-30T08:04:36.651606+00:00"
+        "planned_at": "2026-10-30T08:04:39.088432+00:00"
       }
     },
     "17688": {
@@ -25705,5 +25705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T08:04:37.700130+00:00"
+  "updated_at": "2026-10-30T08:04:39.442854+00:00"
 }
