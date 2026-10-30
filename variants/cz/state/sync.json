@@ -11720,11 +11720,19 @@
       }
     },
     "411": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34059408",
+          "reason": "Request failed for https://sdilej.cz/34059408/sam-doma-1-1990-4k-2160p-uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T21:52:37.330228+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34059408",
         "display_name": "Home Alone 4K CZ Dabing",
-        "planned_at": "2026-10-30T21:51:49.518437+00:00"
+        "planned_at": "2026-10-30T21:51:51.561971+00:00"
       }
     },
     "512": {
@@ -31526,5 +31534,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:51:50.201162+00:00"
+  "updated_at": "2026-10-30T21:52:37.330245+00:00"
 }
