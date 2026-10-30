@@ -11091,17 +11091,19 @@
       "attempts": []
     },
     "29927": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28717871",
+          "reason": "Request failed for https://sdilej.cz/28717871/pryc-od-minulosti-1947-out-of-the-past-jane-greer-robert-mitchum-rhonda-fleming-kirk-douglas-eng-cz-dab.-eng-cz-ttl..mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:23:35.468125+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28717871",
         "display_name": "Out of the Past 720p CZ Dabing",
         "planned_at": "2026-10-30T20:22:46.318756+00:00"
-      },
-      "claim": {
-        "worker_id": "6c3ee041dfc1447480ef9c63501fb5ec-shard-0",
-        "claimed_at": "2026-10-30T20:22:46.412615+00:00",
-        "lease_expires_at": "2026-10-31T02:22:46.412615+00:00",
-        "run_id": "41106549738"
       }
     },
     "22625": {
@@ -31029,5 +31031,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:23:31.326221+00:00"
+  "updated_at": "2026-10-30T20:23:35.468143+00:00"
 }
