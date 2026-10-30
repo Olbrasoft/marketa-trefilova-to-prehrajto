@@ -3725,17 +3725,19 @@
       "attempts": []
     },
     "31759": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34714281",
+          "target_video_id": "30622086",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:21:39.621846+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34714281",
         "display_name": "PK (पीके) SD",
         "planned_at": "2026-10-30T00:16:47.860589+00:00"
-      },
-      "claim": {
-        "worker_id": "9dd8aae46928455292e21c0fc021ec41-shard-0",
-        "claimed_at": "2026-10-30T00:16:47.886215+00:00",
-        "lease_expires_at": "2026-10-30T06:16:47.886215+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622086",
       "prepared": {
@@ -20835,5 +20837,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:19:10.755498+00:00"
+  "updated_at": "2026-10-30T00:21:39.621863+00:00"
 }
