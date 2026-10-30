@@ -11343,17 +11343,19 @@
       "attempts": []
     },
     "10975": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34470265",
+          "reason": "Request failed for https://sdilej.cz/34470265/spalovac-mrtvol-1969-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-30T20:42:34.574594+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34470265",
         "display_name": "The Cremator (Spalovač mrtvol) 720p CZ Dabing",
         "planned_at": "2026-10-30T20:41:48.165100+00:00"
-      },
-      "claim": {
-        "worker_id": "1e1920bcd7c74f15b543f80dc5dd4a5e-shard-0",
-        "claimed_at": "2026-10-30T20:41:48.268801+00:00",
-        "lease_expires_at": "2026-10-31T02:41:48.268801+00:00",
-        "run_id": "41106549738"
       }
     },
     "32953": {
@@ -31218,5 +31220,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:42:20.841400+00:00"
+  "updated_at": "2026-10-30T20:42:34.574613+00:00"
 }
