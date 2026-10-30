@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T01:05:27.917130+00:00
+Poslední aktualizace (UTC): 2026-10-30T01:05:31.545907+00:00
 
 Zkontrolováno videí: 85. Další stránka kontroly: 0.
 
@@ -59,7 +59,7 @@ Kontrol: 6; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Paris, Texas 1080p CZ Titulky](https://prehraj.to/paris-texas-1080p-cz-titulky-mkv/28574980ae20fd5d) (ID 30622275) | [Sdílej 15641041](https://sdilej.cz/15641041/paris-texas-1984-1080p-cz-titl.mkv) | target_unavailable | 2026-10-30T00:34:45.886430+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | target_unavailable | 2026-10-30T00:14:51.230482+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | target_unavailable | 2026-10-30T00:55:17.371113+00:00 |
-| [Rush (2013) 1080p CZ Titulky](https://prehraj.to/rush-2013-1080p-cz-titulky-mkv/8a9dc01628f423ad) (ID 30620144) | [Sdílej 29629993](https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T00:04:26.600641+00:00 |
+| [Rush (2013) 1080p CZ Titulky](https://prehraj.to/rush-2013-1080p-cz-titulky-mkv/8a9dc01628f423ad) (ID 30620144) | [Sdílej 29629993](https://sdilej.cz/29629993/rivalove-rush-2013-cz-dabing.mkv) | target_unavailable | 2026-10-30T01:05:31.545842+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | target_unavailable | 2026-10-30T00:24:51.170754+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-30T00:45:14.044660+00:00 |
 | [The Grapes of Wrath 1080p](https://prehraj.to/the-grapes-of-wrath-1080p-mp4/5407d3be76b4fb11) (ID 30622415) | [Sdílej 34770809](https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4) | target_unavailable | 2026-10-30T00:45:02.045817+00:00 |
