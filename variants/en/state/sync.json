@@ -6671,17 +6671,19 @@
       "attempts": []
     },
     "488": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30970586",
+          "target_video_id": "30645764",
+          "permanent": false,
+          "attempted_at": "2026-10-30T21:51:44.039268+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30970586",
         "display_name": "Drive (2011) 1080p CZ Titulky",
         "planned_at": "2026-10-30T21:33:49.535410+00:00"
-      },
-      "claim": {
-        "worker_id": "7eee39816b584c06935252203af91eca-shard-0",
-        "claimed_at": "2026-10-30T21:33:49.568166+00:00",
-        "lease_expires_at": "2026-10-31T03:33:49.568166+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30645764",
       "prepared": {
@@ -26504,5 +26506,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T21:46:03.880885+00:00"
+  "updated_at": "2026-10-30T21:51:44.039286+00:00"
 }
