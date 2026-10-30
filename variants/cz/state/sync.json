@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-10-30T16:17:18.683043+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-10-30T16:48:21.361833+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-10-30T17:22:27.654349+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-10-30T18:08:47.857285+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "34e07be69cea4ea6b88d4727533d9ad4-shard-0",
-        "claimed_at": "2026-10-30T18:08:45.391085+00:00",
-        "lease_expires_at": "2026-10-31T00:08:45.391085+00:00",
-        "run_id": "41071477533"
       }
     },
     "52": {
@@ -4169,7 +4163,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T17:22:28.777219+00:00"
+        "planned_at": "2026-10-30T18:08:47.136415+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4177,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "97f519e7f50a48f6b7c522f00ed863e2-shard-0",
+        "claimed_at": "2026-10-30T18:08:47.328771+00:00",
+        "lease_expires_at": "2026-10-31T00:08:47.328771+00:00",
+        "run_id": "41071477533"
       }
     },
     "37290": {
@@ -10106,7 +10106,7 @@
       "last_plan": {
         "source_id": "34705177",
         "display_name": "The Little Fox 1080p CZ Dabing",
-        "planned_at": "2026-10-30T18:08:45.264445+00:00"
+        "planned_at": "2026-10-30T18:08:47.195624+00:00"
       }
     },
     "21339": {
@@ -29979,5 +29979,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T18:08:45.826433+00:00"
+  "updated_at": "2026-10-30T18:08:47.857304+00:00"
 }
