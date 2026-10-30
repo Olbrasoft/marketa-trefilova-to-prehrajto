@@ -4735,6 +4735,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-29T18:13:23.182086+00:00",
         "relay_source_id": "15052978"
+      },
+      "claim": {
+        "worker_id": "d8e9dc2536f147e99f6eb0598920c7bc-shard-0",
+        "claimed_at": "2026-10-30T09:51:38.239562+00:00",
+        "lease_expires_at": "2026-10-30T15:51:38.239562+00:00",
+        "run_id": "41008254453"
       }
     },
     "214": {
@@ -5957,13 +5963,6 @@
           "source_id": "35294815",
           "target_video_id": "30622524",
           "permanent": false,
-          "attempted_at": "2026-10-30T08:05:03.718292+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35294815",
-          "target_video_id": "30622524",
-          "permanent": false,
           "attempted_at": "2026-10-30T08:46:52.520552+00:00"
         },
         {
@@ -5972,12 +5971,19 @@
           "target_video_id": "30622524",
           "permanent": false,
           "attempted_at": "2026-10-30T09:19:45.588623+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35294815",
+          "target_video_id": "30622524",
+          "permanent": false,
+          "attempted_at": "2026-10-30T09:51:39.530241+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35294815",
         "display_name": "The Wages of Fear (Le Salaire de la peur) 1080p CZ Dabing",
-        "planned_at": "2026-10-30T09:19:43.219228+00:00"
+        "planned_at": "2026-10-30T09:51:38.274011+00:00"
       },
       "previous_target_id": "30622524",
       "prepared": {
@@ -7944,7 +7950,7 @@
       "last_plan": {
         "source_id": "32448804",
         "display_name": "Papillon (1973) 4K CZ Dabing",
-        "planned_at": "2026-10-30T09:51:36.896865+00:00"
+        "planned_at": "2026-10-30T09:51:38.321266+00:00"
       }
     },
     "25000": {
@@ -26723,5 +26729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T09:51:36.896883+00:00"
+  "updated_at": "2026-10-30T09:51:39.530263+00:00"
 }
