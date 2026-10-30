@@ -2586,7 +2586,7 @@
       "last_plan": {
         "source_id": "14187973",
         "display_name": "Vertigo (1958) 720p",
-        "planned_at": "2026-10-30T01:34:17.332344+00:00"
+        "planned_at": "2026-10-30T02:16:50.931442+00:00"
       },
       "previous_target_id": "30610902",
       "prepared": {
@@ -2594,6 +2594,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-10-29T13:01:32.391089+00:00",
         "relay_source_id": "14187973"
+      },
+      "claim": {
+        "worker_id": "308536696a594360af831903cca27fa5-shard-0",
+        "claimed_at": "2026-10-30T02:16:50.982048+00:00",
+        "lease_expires_at": "2026-10-30T08:16:50.982048+00:00",
+        "run_id": "40985687737"
       }
     },
     "181": {
@@ -2942,13 +2948,6 @@
           "source_id": "28991356",
           "target_video_id": "30612744",
           "permanent": false,
-          "attempted_at": "2026-10-30T00:29:27.527024+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28991356",
-          "target_video_id": "30612744",
-          "permanent": false,
           "attempted_at": "2026-10-30T01:00:11.866961+00:00"
         },
         {
@@ -2957,6 +2956,13 @@
           "target_video_id": "30612744",
           "permanent": false,
           "attempted_at": "2026-10-30T01:34:16.117647+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28991356",
+          "target_video_id": "30612744",
+          "permanent": false,
+          "attempted_at": "2026-10-30T02:16:51.195107+00:00"
         }
       ],
       "last_plan": {
@@ -2970,12 +2976,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-10-29T15:07:01.805515+00:00",
         "relay_source_id": "28991356"
-      },
-      "claim": {
-        "worker_id": "71beed10e7424cc38d52188423d9427a-shard-0",
-        "claimed_at": "2026-10-30T02:16:48.882943+00:00",
-        "lease_expires_at": "2026-10-30T08:16:48.882943+00:00",
-        "run_id": "40985687737"
       }
     },
     "10760": {
@@ -4204,7 +4204,7 @@
       "last_plan": {
         "source_id": "27579007",
         "display_name": "Guardians of the Galaxy 4K CZ Titulky",
-        "planned_at": "2026-10-30T02:16:48.864929+00:00"
+        "planned_at": "2026-10-30T02:16:50.964074+00:00"
       }
     },
     "303": {
@@ -21430,5 +21430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T02:16:49.710080+00:00"
+  "updated_at": "2026-10-30T02:16:51.195125+00:00"
 }
