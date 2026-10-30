@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-30T01:16:02.443138+00:00
+Poslední aktualizace (UTC): 2026-10-30T01:16:12.952932+00:00
 
 Zkontrolováno videí: 86. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 32, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 5, `source_unavailable`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 32, `attached_verified`: 2, `existing_tracks_uncertain`: 4, `source_czech_full_text_unsupported`: 12, `source_czech_text_missing`: 6, `target_unavailable`: 28, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -22,6 +22,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T18:08:19.272590+00:00 |
 | [Gladiator (2000) 4K CZ Titulky](https://prehraj.to/gladiator-2000-cz-titulky-mkv/5ab06a3385e9b8ad) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T12:47:26.246856+00:00 |
 | [Goodfellas 4K CZ Titulky](https://prehraj.to/goodfellas-cz-titulky-mkv/a65ae78cae07f027) (ID 30584304) | [Sdílej 12646320](https://sdilej.cz/12646320/goodfellas.1990.multi.uhd.blu-ray.2160p.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T05:42:20.089219+00:00 |
+| [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:16:12.952792+00:00 |
 | [Inception 1080p CZ Titulky](https://prehraj.to/inception-cz-titulky-mkv/cd15cbc3a2cf875e) (ID 30582836) | [Sdílej 34401564](https://sdilej.cz/34401564/inception.2010.blu-ray.remux.1080p.vc-1.dts-hd.ma.5.1-eng-ac3-5.1-cze.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T02:43:24.015291+00:00 |
 | [Interstellar 4K CZ Titulky](https://prehraj.to/interstellar-cz-titulky-mkv/dac891fa777f1c66) (ID 30584268) | [Sdílej 32920949](https://sdilej.cz/32920949/interstellar-2014-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-28T17:45:36.209340+00:00 |
 | [PK (पीके) SD](https://prehraj.to/pk-sd-mp4/9e12e2312e1b1970) (ID 30622086) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T00:24:43.694667+00:00 |
@@ -48,7 +49,6 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | target_unavailable | 2026-10-30T00:15:46.706473+00:00 |
 | [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | target_unavailable | 2026-10-30T00:34:53.586651+00:00 |
 | [Fargo 1080p CZ Titulky](https://prehraj.to/fargo-1080p-cz-titulky-mkv/ea6f1d334ff98e8e) (ID 30616407) | [Sdílej 26744950](https://sdilej.cz/26744950/fargo-1996-fhd-1080p--cz-vhs-cz-ctv-sk-pl-eng-dts-.mkv) | target_unavailable | 2026-10-30T00:34:57.290223+00:00 |
-| [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | source_unavailable | 2026-10-30T00:15:43.135666+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-30T01:15:50.920615+00:00 |
 | [Klaus 1080p CZ Titulky](https://prehraj.to/klaus-cz-titulky-mkv/5e71042193626e04) (ID 30612211) | [Sdílej 12614295](https://sdilej.cz/12614295/klaus.2019.1080p.nf.webrip.dd5.1.x264-fgt.mkv) | target_unavailable | 2026-10-30T00:55:28.282831+00:00 |
 | [Logan 1080p CZ Titulky](https://prehraj.to/logan-1080p-cz-titulky-mkv/28d8281e6b99ecf0) (ID 30615338) | [Sdílej 7273334](https://sdilej.cz/7273334/logan.2017.1080p.korsub.hdrip.x264.cztit.mkv) | target_unavailable | 2026-10-30T00:45:05.543249+00:00 |
