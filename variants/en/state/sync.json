@@ -5060,17 +5060,19 @@
       "attempts": []
     },
     "10824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27658195",
+          "target_video_id": "30631145",
+          "permanent": false,
+          "attempted_at": "2026-10-30T10:41:34.702027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27658195",
         "display_name": "The Miracle Worker 1080p CZ Titulky",
         "planned_at": "2026-10-30T10:35:47.691060+00:00"
-      },
-      "claim": {
-        "worker_id": "c2bbc91bc9f24aaa9728b1c3b3fe8b7d-shard-0",
-        "claimed_at": "2026-10-30T10:35:47.704760+00:00",
-        "lease_expires_at": "2026-10-30T16:35:47.704760+00:00",
-        "run_id": "41033346199"
       },
       "previous_target_id": "30631145",
       "prepared": {
@@ -24087,5 +24089,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T10:35:52.741564+00:00"
+  "updated_at": "2026-10-30T10:41:34.702045+00:00"
 }
