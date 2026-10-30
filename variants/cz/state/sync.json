@@ -11948,17 +11948,19 @@
       }
     },
     "452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33564706",
+          "target_video_id": "30647304",
+          "permanent": false,
+          "attempted_at": "2026-10-30T23:06:25.322909+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33564706",
         "display_name": "Hot Fuzz 4K CZ Dabing",
         "planned_at": "2026-10-30T22:50:35.053883+00:00"
-      },
-      "claim": {
-        "worker_id": "077b4dac98d4436b8d640a4667842d71-shard-0",
-        "claimed_at": "2026-10-30T22:50:35.173924+00:00",
-        "lease_expires_at": "2026-10-31T04:50:35.173924+00:00",
-        "run_id": "41106549738"
       },
       "previous_target_id": "30647304",
       "prepared": {
@@ -31916,5 +31918,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T23:01:22.504396+00:00"
+  "updated_at": "2026-10-30T23:06:25.322927+00:00"
 }
