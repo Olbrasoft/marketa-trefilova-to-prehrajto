@@ -6926,17 +6926,19 @@
       }
     },
     "325": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-10-30T05:52:36.517479+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Blood Diamond 1080p CZ Dabing",
         "planned_at": "2026-10-30T05:46:27.575391+00:00"
-      },
-      "claim": {
-        "worker_id": "7fc7ed04345d4bedace2bf36f4a21bc8-shard-0",
-        "claimed_at": "2026-10-30T05:46:27.642348+00:00",
-        "lease_expires_at": "2026-10-30T11:46:27.642348+00:00",
-        "run_id": "40985687737"
       },
       "previous_target_id": "30627346",
       "prepared": {
@@ -24651,5 +24653,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T05:46:31.102001+00:00"
+  "updated_at": "2026-10-30T05:52:36.517495+00:00"
 }
