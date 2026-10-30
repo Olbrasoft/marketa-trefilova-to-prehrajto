@@ -3804,17 +3804,19 @@
       "attempts": []
     },
     "22748": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15641041",
+          "target_video_id": "30622275",
+          "permanent": false,
+          "attempted_at": "2026-10-30T00:45:53.575861+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15641041",
         "display_name": "Paris, Texas 1080p CZ Titulky",
         "planned_at": "2026-10-30T00:28:30.002935+00:00"
-      },
-      "claim": {
-        "worker_id": "a6b0f9cea9874c5aabad160ebb8b8a3c-shard-0",
-        "claimed_at": "2026-10-30T00:28:30.029367+00:00",
-        "lease_expires_at": "2026-10-30T06:28:30.029367+00:00",
-        "run_id": "40957299535"
       },
       "previous_target_id": "30622275",
       "prepared": {
@@ -20889,5 +20891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-30T00:39:25.304978+00:00"
+  "updated_at": "2026-10-30T00:45:53.575880+00:00"
 }
