@@ -16364,6 +16364,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-10-31T11:40:42.704029+00:00",
         "relay_source_id": "17372524"
+      },
+      "claim": {
+        "worker_id": "cc3d4daeac68482893f9bb0bc8a3d758-shard-0",
+        "claimed_at": "2026-10-31T17:41:49.841270+00:00",
+        "lease_expires_at": "2026-10-31T23:41:49.841270+00:00",
+        "run_id": "41219330327"
       }
     },
     "12430": {
@@ -17024,13 +17030,6 @@
           "source_id": "27010128",
           "target_video_id": "30668689",
           "permanent": false,
-          "attempted_at": "2026-10-31T15:24:53.055179+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27010128",
-          "target_video_id": "30668689",
-          "permanent": false,
           "attempted_at": "2026-10-31T16:02:35.464715+00:00"
         },
         {
@@ -17039,6 +17038,13 @@
           "target_video_id": "30668689",
           "permanent": false,
           "attempted_at": "2026-10-31T17:05:30.755044+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27010128",
+          "target_video_id": "30668689",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:41:50.233124+00:00"
         }
       ],
       "last_plan": {
@@ -17052,12 +17058,6 @@
         "size_bytes": 15200000000,
         "prepared_at": "2026-10-31T13:35:36.426536+00:00",
         "relay_source_id": "27010128"
-      },
-      "claim": {
-        "worker_id": "e73d584922414ef28c3fca60926a862d-shard-0",
-        "claimed_at": "2026-10-31T17:41:48.493645+00:00",
-        "lease_expires_at": "2026-10-31T23:41:48.493645+00:00",
-        "run_id": "41219330327"
       }
     },
     "11046": {
@@ -17676,7 +17676,7 @@
       "last_plan": {
         "source_id": "34355715",
         "display_name": "Bonnie and Clyde 4K CZ Dabing",
-        "planned_at": "2026-10-31T17:05:47.804003+00:00"
+        "planned_at": "2026-10-31T17:41:49.874211+00:00"
       },
       "previous_target_id": "30671846",
       "prepared": {
@@ -17684,6 +17684,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-31T15:46:01.909668+00:00",
         "relay_source_id": "34355715"
+      },
+      "claim": {
+        "worker_id": "cd48cfc1848a4fc1a9b41e78b65a5d35-shard-0",
+        "claimed_at": "2026-10-31T17:41:49.988783+00:00",
+        "lease_expires_at": "2026-10-31T23:41:49.988783+00:00",
+        "run_id": "41219330327"
       }
     },
     "11701": {
@@ -18067,7 +18073,7 @@
       "last_plan": {
         "source_id": "35010444",
         "display_name": "Open Your Eyes SD CZ Dabing",
-        "planned_at": "2026-10-31T17:41:48.567778+00:00"
+        "planned_at": "2026-10-31T17:41:49.921083+00:00"
       }
     },
     "10694": {
@@ -40196,5 +40202,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:41:48.567796+00:00"
+  "updated_at": "2026-10-31T17:41:50.233146+00:00"
 }
