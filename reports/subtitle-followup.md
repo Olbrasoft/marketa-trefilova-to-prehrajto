@@ -181,3 +181,4 @@ Attach subtitles only after target processing has finished.
 | Poor Things 1080p CZ Titulky | 30664033 | https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Gattaca 1080p CZ Titulky | 30664643 | https://sdilej.cz/35402244/gattaca.1997.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Mr. Nobody 1080p CZ Titulky | 30665814 | https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv | Extract Czech track from exact source after processing |
+| Blue Velvet 1080p CZ Titulky | 30665932 | https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
