@@ -185,3 +185,4 @@ Attach subtitles only after target processing has finished.
 | The Trial of the Chicago 7 1080p CZ Titulky | 30668595 | https://sdilej.cz/14351127/the.trial.of.the.chicago.7.2020.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | Ray 1080p CZ Titulky | 30668869 | https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
 | Kubo and the Two Strings 1080p CZ Titulky | 30669852 | https://sdilej.cz/35402327/kubo.and.the.two.strings.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| How to Train Your Dragon (2025) 4K CZ Titulky | 30670866 | https://sdilej.cz/31527189/how.to.train.your.dragon-2025-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
