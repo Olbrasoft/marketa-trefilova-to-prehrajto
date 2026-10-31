@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T01:02:54.220520+00:00
+Poslední aktualizace (UTC): 2026-10-31T01:02:57.580045+00:00
 
 Zkontrolováno videí: 138. Další stránka kontroly: 0.
 
@@ -72,7 +72,7 @@ Kontrol: 14; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Home Alone 1080p CZ Titulky](https://prehraj.to/home-alone-1080p-cz-titulky-mkv/e4f27f42d5eda74c) (ID 30646078) | [Sdílej 23025299](https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv) | target_unavailable | 2026-10-31T01:02:31.456657+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-31T00:01:52.295700+00:00 |
 | [Icarus (2017) 1080p CZ Titulky](https://prehraj.to/icarus-2017-1080p-cz-titulky-mkv/8c5d17dd3359cee4) (ID 30643582) | [Sdílej 11690436](https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv) | target_unavailable | 2026-10-31T00:11:42.735138+00:00 |
-| [Into the Wild 1080p CZ Titulky](https://prehraj.to/into-the-wild-1080p-cz-titulky-mkv/fc7e275ee0f35cc1) (ID 30626855) | [Sdílej 28447536](https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv) | target_unavailable | 2026-10-31T00:01:48.698360+00:00 |
+| [Into the Wild 1080p CZ Titulky](https://prehraj.to/into-the-wild-1080p-cz-titulky-mkv/fc7e275ee0f35cc1) (ID 30626855) | [Sdílej 28447536](https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv) | target_unavailable | 2026-10-31T01:02:57.579940+00:00 |
 | [Knives Out 1080p CZ Titulky](https://prehraj.to/knives-out-1080p-cz-titulky-mkv/c61fc5ac1bbc40b7) (ID 30632412) | [Sdílej 35402754](https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T00:53:18.836461+00:00 |
 | [Magnolia 1080p CZ Titulky](https://prehraj.to/magnolia-1080p-cz-titulky-mkv/febecb20d8966533) (ID 30628484) | [Sdílej 9846860](https://sdilej.cz/9846860/magnolia-cz-dabing.mkv) | target_unavailable | 2026-10-31T01:02:45.256710+00:00 |
 | [Marriage Story 1080p CZ Titulky](https://prehraj.to/marriage-story-1080p-cz-titulky-mkv/bee26de64107771c) (ID 30639527) | [Sdílej 18188633](https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv) | target_unavailable | 2026-10-31T00:53:25.749296+00:00 |
