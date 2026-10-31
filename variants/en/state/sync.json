@@ -10081,17 +10081,19 @@
       }
     },
     "19787": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34982939",
+          "target_video_id": "30675715",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:15:17.843837+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34982939",
         "display_name": "14 Peaks: Nothing Is Impossible 1080p CZ Titulky",
         "planned_at": "2026-10-31T19:04:04.822015+00:00"
-      },
-      "claim": {
-        "worker_id": "2b327175a235435b89c2996d029fbc91-shard-0",
-        "claimed_at": "2026-10-31T19:04:04.842116+00:00",
-        "lease_expires_at": "2026-11-01T01:04:04.842116+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30675715",
       "prepared": {
@@ -32510,5 +32512,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:15:16.524750+00:00"
+  "updated_at": "2026-10-31T19:15:17.843857+00:00"
 }
