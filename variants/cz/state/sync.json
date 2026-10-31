@@ -18910,17 +18910,19 @@
       "attempts": []
     },
     "17776": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12648631",
+          "target_video_id": "30676259",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:35:13.379005+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12648631",
         "display_name": "The Magdalene Sisters SD CZ Dabing",
         "planned_at": "2026-10-31T19:31:52.742316+00:00"
-      },
-      "claim": {
-        "worker_id": "1938afd7e65e499d9769d85ee3a94607-shard-0",
-        "claimed_at": "2026-10-31T19:31:52.812380+00:00",
-        "lease_expires_at": "2026-11-01T01:31:52.812380+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30676259",
       "prepared": {
@@ -41324,5 +41326,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:31:56.728601+00:00"
+  "updated_at": "2026-10-31T19:35:13.379024+00:00"
 }
