@@ -8889,17 +8889,19 @@
       }
     },
     "532": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28240998",
+          "target_video_id": "30664033",
+          "permanent": false,
+          "attempted_at": "2026-10-31T11:23:04.514487+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28240998",
         "display_name": "Poor Things 1080p CZ Titulky",
         "planned_at": "2026-10-31T11:06:17.558519+00:00"
-      },
-      "claim": {
-        "worker_id": "41cb8e79340a4643b4721708a3fef016-shard-0",
-        "claimed_at": "2026-10-31T11:06:17.597449+00:00",
-        "lease_expires_at": "2026-10-31T17:06:17.597449+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30664033",
       "prepared": {
@@ -30006,5 +30008,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T11:16:40.271568+00:00"
+  "updated_at": "2026-10-31T11:23:04.514503+00:00"
 }
