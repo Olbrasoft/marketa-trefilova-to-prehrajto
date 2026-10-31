@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T00:02:11.598083+00:00
+Poslední aktualizace (UTC): 2026-10-31T00:02:18.829570+00:00
 
 Zkontrolováno videí: 136. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 59, `attached_verified`: 2, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 13, `source_unavailable`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 59, `attached_verified`: 2, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -35,6 +35,7 @@ Kontrol: 14; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Ordet 1080p](https://prehraj.to/ordet-1080p-mkv/7699c14594ec8709) (ID 30622762) | [Sdílej 30646256](https://sdilej.cz/30646256/ordet.1955.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T21:53:57.111765+00:00 |
 | [PK (पीके) SD](https://prehraj.to/pk-sd-mp4/9e12e2312e1b1970) (ID 30622086) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T00:24:43.694667+00:00 |
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T02:43:32.916900+00:00 |
+| [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-31T00:02:18.695674+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:21:38.614771+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T20:34:07.366437+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:32:26.980497+00:00 |
@@ -75,7 +76,6 @@ Kontrol: 14; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Knives Out 1080p CZ Titulky](https://prehraj.to/knives-out-1080p-cz-titulky-mkv/c61fc5ac1bbc40b7) (ID 30632412) | [Sdílej 35402754](https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-30T23:52:09.023394+00:00 |
 | [Magnolia 1080p CZ Titulky](https://prehraj.to/magnolia-1080p-cz-titulky-mkv/febecb20d8966533) (ID 30628484) | [Sdílej 9846860](https://sdilej.cz/9846860/magnolia-cz-dabing.mkv) | target_unavailable | 2026-10-31T00:01:38.095624+00:00 |
 | [Marriage Story 1080p CZ Titulky](https://prehraj.to/marriage-story-1080p-cz-titulky-mkv/bee26de64107771c) (ID 30639527) | [Sdílej 18188633](https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv) | target_unavailable | 2026-10-30T23:52:17.783770+00:00 |
-| [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | target_unavailable | 2026-10-30T22:54:54.508779+00:00 |
 | [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-30T23:52:43.423125+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-30T23:52:50.367172+00:00 |
 | [Sin City 1080p CZ Titulky](https://prehraj.to/sin-city-1080p-cz-titulky-mkv/5f3291cc82332fef) (ID 30626361) | [Sdílej 25502477](https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv) | target_unavailable | 2026-10-30T23:52:27.807307+00:00 |
