@@ -17634,17 +17634,19 @@
       "attempts": []
     },
     "621": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28172041",
+          "target_video_id": "30672233",
+          "permanent": false,
+          "attempted_at": "2026-10-31T16:09:41.735288+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28172041",
         "display_name": "Detachment 1080p CZ Dabing",
         "planned_at": "2026-10-31T16:02:38.505716+00:00"
-      },
-      "claim": {
-        "worker_id": "d84ab871bef149b9ac1b128d14204d34-shard-0",
-        "claimed_at": "2026-10-31T16:02:38.635658+00:00",
-        "lease_expires_at": "2026-10-31T22:02:38.635658+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30672233",
       "prepared": {
@@ -39403,5 +39405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T16:07:38.330834+00:00"
+  "updated_at": "2026-10-31T16:09:41.735307+00:00"
 }
