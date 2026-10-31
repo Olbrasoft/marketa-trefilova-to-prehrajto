@@ -9454,17 +9454,19 @@
       "attempts": []
     },
     "10863": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24371035",
+          "target_video_id": "30673478",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:13:52.825632+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24371035",
         "display_name": "My Fair Lady 1080p CZ Titulky",
         "planned_at": "2026-10-31T17:03:44.196441+00:00"
-      },
-      "claim": {
-        "worker_id": "98ab125e8ac844178b761329a4e41377-shard-0",
-        "claimed_at": "2026-10-31T17:03:44.256598+00:00",
-        "lease_expires_at": "2026-10-31T23:03:44.256598+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30673478",
       "prepared": {
@@ -31656,5 +31658,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:12:36.815209+00:00"
+  "updated_at": "2026-10-31T17:13:52.825650+00:00"
 }
