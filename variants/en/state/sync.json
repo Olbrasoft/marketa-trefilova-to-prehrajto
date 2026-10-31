@@ -1099,7 +1099,7 @@
       "last_plan": {
         "source_id": "27736094",
         "display_name": "Parasite (기생충) (2019) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T20:49:22.089484+00:00"
+        "planned_at": "2026-10-31T21:38:15.471657+00:00"
       },
       "previous_target_id": "30675758",
       "prepared": {
@@ -1107,6 +1107,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-10-31T19:06:06.640651+00:00",
         "relay_source_id": "27736094"
+      },
+      "claim": {
+        "worker_id": "d017db73d96342c7811b58ac2b162b9d-shard-0",
+        "claimed_at": "2026-10-31T21:38:15.583372+00:00",
+        "lease_expires_at": "2026-11-01T03:38:15.583372+00:00",
+        "run_id": "41243223179"
       }
     },
     "66": {
@@ -2364,13 +2370,6 @@
     "102": {
       "attempts": [
         {
-          "status": "target_lookup_failed",
-          "permanent": false,
-          "source_id": "12652876",
-          "reason": "Existing target lookup failed; upload deferred",
-          "attempted_at": "2026-10-29T09:01:20.520116+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "12652876",
           "target_video_id": "30677150",
@@ -2383,6 +2382,13 @@
           "target_video_id": "30677150",
           "permanent": false,
           "attempted_at": "2026-10-31T20:49:20.711388+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12652876",
+          "target_video_id": "30677150",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:38:16.396418+00:00"
         }
       ],
       "last_plan": {
@@ -10684,7 +10690,7 @@
       "last_plan": {
         "source_id": "27530102",
         "display_name": "Despicable Me 4K CZ Titulky",
-        "planned_at": "2026-10-31T21:38:14.208196+00:00"
+        "planned_at": "2026-10-31T21:38:15.543864+00:00"
       }
     },
     "817": {
@@ -33199,5 +33205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:38:14.208211+00:00"
+  "updated_at": "2026-10-31T21:38:16.396435+00:00"
 }
