@@ -19193,17 +19193,19 @@
       "attempts": []
     },
     "34103": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34717532",
+          "target_video_id": "30679421",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:42:38.253035+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34717532",
         "display_name": "The Twelve Tasks of Asterix (Les 12 travaux d'Astérix) 1080p CZ Dabing",
         "planned_at": "2026-10-31T21:38:24.425225+00:00"
-      },
-      "claim": {
-        "worker_id": "41eb0c784008472da4a985fb9138df82-shard-0",
-        "claimed_at": "2026-10-31T21:38:24.568958+00:00",
-        "lease_expires_at": "2026-11-01T03:38:24.568958+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679421",
       "prepared": {
@@ -41817,5 +41819,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:42:29.463648+00:00"
+  "updated_at": "2026-10-31T21:42:38.253050+00:00"
 }
