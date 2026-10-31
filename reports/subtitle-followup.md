@@ -175,3 +175,4 @@ Attach subtitles only after target processing has finished.
 | Ex Machina 1080p CZ Titulky | 30662878 | https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Lost in Translation 1080p CZ Titulky | 30663086 | https://sdilej.cz/31550871/lost.in.translation.2003.1080p.bluray.hevc.10bit.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Star Trek Into Darkness 1080p CZ Titulky | 30663442 | https://sdilej.cz/14848573/star-trek-do-temnoty-2013-1080p-cz.mkv | Extract Czech track from exact source after processing |
+| Crash (2004) 1080p CZ Titulky | 30663753 | https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
