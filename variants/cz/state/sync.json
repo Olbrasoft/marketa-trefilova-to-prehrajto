@@ -15536,11 +15536,19 @@
       }
     },
     "650": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26216933",
+          "reason": "Request failed for https://sdilej.cz/26216933/96-hodin-2008-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:21:28.043167+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26216933",
         "display_name": "Taken 1080p CZ Dabing",
-        "planned_at": "2026-10-31T09:20:38.450242+00:00"
+        "planned_at": "2026-10-31T09:20:42.172668+00:00"
       }
     },
     "635": {
@@ -36314,5 +36322,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:20:38.450254+00:00"
+  "updated_at": "2026-10-31T09:21:28.043187+00:00"
 }
