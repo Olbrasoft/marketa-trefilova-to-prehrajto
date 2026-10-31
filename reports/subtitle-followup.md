@@ -192,3 +192,4 @@ Attach subtitles only after target processing has finished.
 | Sentimental Value 1080p CZ Titulky | 30673875 | https://sdilej.cz/33852285/sentimental-value-citova-hodnota-2025-cz-titulky-aac-5.1-1080p.mkv | Extract Czech track from exact source after processing |
 | Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky | 30674419 | https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv | Extract Czech track from exact source after processing |
 | A Man Called Ove (En man som heter Ove) 1080p CZ Titulky | 30674421 | https://sdilej.cz/28441861/muz-jmenem-ove.mkv | Extract Czech track from exact source after processing |
+| System Crasher (Systemsprenger) SD CZ Titulky | 30674476 | https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4 | Extract Czech track from exact source after processing |
