@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-10-31T05:01:26.396295+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-10-31T05:32:26.468145+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-10-31T06:10:19.672546+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-10-31T06:42:29.750651+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "9640242508a34cd898f16c4593cf1a38-shard-0",
-        "claimed_at": "2026-10-31T06:42:26.329430+00:00",
-        "lease_expires_at": "2026-10-31T12:42:26.329430+00:00",
-        "run_id": "41164110278"
       }
     },
     "9": {
@@ -231,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-10-31T06:10:21.148860+00:00"
+        "planned_at": "2026-10-31T06:42:29.497897+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -239,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "a58e040167b74bfeb81095f273ac4126-shard-0",
+        "claimed_at": "2026-10-31T06:42:29.636546+00:00",
+        "lease_expires_at": "2026-10-31T12:42:29.636546+00:00",
+        "run_id": "41164110278"
       }
     },
     "10755": {
@@ -14565,7 +14565,7 @@
       "last_plan": {
         "source_id": "33524107",
         "display_name": "Earth 4K CZ Dabing",
-        "planned_at": "2026-10-31T06:42:26.250874+00:00"
+        "planned_at": "2026-10-31T06:42:29.552136+00:00"
       }
     },
     "22442": {
@@ -34994,5 +34994,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:42:26.655822+00:00"
+  "updated_at": "2026-10-31T06:42:29.750668+00:00"
 }
