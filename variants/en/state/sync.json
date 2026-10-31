@@ -9017,13 +9017,6 @@
           "source_id": "26494658",
           "target_video_id": "30663976",
           "permanent": false,
-          "attempted_at": "2026-10-31T17:03:21.639775+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26494658",
-          "target_video_id": "30663976",
-          "permanent": false,
           "attempted_at": "2026-10-31T17:40:12.681426+00:00"
         },
         {
@@ -9032,12 +9025,19 @@
           "target_video_id": "30663976",
           "permanent": false,
           "attempted_at": "2026-10-31T18:10:37.637431+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26494658",
+          "target_video_id": "30663976",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:43:43.499569+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26494658",
         "display_name": "Mission: Impossible – Fallout (Mission: Impossible - Fallout) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T18:10:35.955866+00:00"
+        "planned_at": "2026-10-31T18:43:42.548362+00:00"
       },
       "previous_target_id": "30663976",
       "prepared": {
@@ -9082,6 +9082,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
+      },
+      "claim": {
+        "worker_id": "28678658cbc04e3ab7000b636da1de99-shard-0",
+        "claimed_at": "2026-10-31T18:43:42.454198+00:00",
+        "lease_expires_at": "2026-11-01T00:43:42.454198+00:00",
+        "run_id": "41219330327"
       }
     },
     "601": {
@@ -9904,7 +9910,7 @@
       "last_plan": {
         "source_id": "34694735",
         "display_name": "The Promised Land (Bastarden) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T18:43:41.153181+00:00"
+        "planned_at": "2026-10-31T18:43:42.582379+00:00"
       }
     },
     "33295": {
@@ -32144,5 +32150,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:43:41.153188+00:00"
+  "updated_at": "2026-10-31T18:43:43.499585+00:00"
 }
