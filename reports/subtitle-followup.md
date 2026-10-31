@@ -60,6 +60,7 @@ Attach subtitles only after target processing has finished.
 | Reservoir Dogs 720p CZ Titulky | 30677150 | https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Oppenheimer 4K CZ Titulky | 30606867 | https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv | Extract Czech track from exact source after processing |
 | Taxi Driver 1080p CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
+| Snatch 1080p CZ Titulky | 30677522 | https://sdilej.cz/30945062/snatch-podfuck-2000-en-cz-dabing-1080p.mkv | Extract Czech track from exact source after processing |
 | A Clockwork Orange 4K CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
 | Full Metal Jacket 1080p CZ Titulky | 30608676 | https://sdilej.cz/28679022/olovena-vesta-cztit.mkv | Complete: Czech subtitles verified |
 | Amélie (Le Fabuleux Destin d'Amélie Poulain) SD | 30608820 | https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv | Find and add matching Czech subtitles after processing |
