@@ -155,7 +155,8 @@ Attach subtitles only after target processing has finished.
 | Thirteen Lives 1080p CZ Titulky | 30654980 | https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv | Extract Czech track from exact source after processing |
 | Aguirre, the Wrath of God 1080p CZ Titulky | 30655121 | https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv | Extract Czech track from exact source after processing |
 | Loving Vincent 1080p CZ Titulky | 30655366 | https://sdilej.cz/29326786/s-laskou-vincent.mkv | Extract Czech track from exact source after processing |
-| His Girl Friday 1080p CZ Titulky | 30655432 | https://sdilej.cz/14593714/jeho-divka-patek-his-girl-friday-1940-1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| His Girl Friday 1080p CZ Titulky | 30655432 | https://sdilej.cz/14593714/jeho-divka-patek-his-girl-friday-1940-1080p-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Gangubai Kathiawadi 1080p CZ Titulky | 30655605 | https://sdilej.cz/21628063/gangubai-kathiawadi-2022-sktit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | The Alpinist 1080p CZ Titulky | 30656167 | https://sdilej.cz/19248743/the-alpinist-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
 | Stagecoach (1939) 1080p CZ Titulky | 30656542 | https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv | Extract Czech track from exact source after processing |
+| Bride of Frankenstein 1080p CZ Titulky | 30656545 | https://sdilej.cz/32991026/bride-of-frankenstein-r.1935-engdab-cztit-1080p-.mkv | Extract Czech track from exact source after processing |
