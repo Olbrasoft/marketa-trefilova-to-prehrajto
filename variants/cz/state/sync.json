@@ -15208,17 +15208,19 @@
       }
     },
     "20007": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31984051",
+          "target_video_id": "30661035",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:31:47.562761+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31984051",
         "display_name": "Captain America: The Winter Soldier 4K CZ Dabing",
         "planned_at": "2026-10-31T08:12:32.660231+00:00"
-      },
-      "claim": {
-        "worker_id": "4c5bffb0214f4ae49c7aa8d531182fe5-shard-0",
-        "claimed_at": "2026-10-31T08:12:32.775463+00:00",
-        "lease_expires_at": "2026-10-31T14:12:32.775463+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30661035",
       "prepared": {
@@ -35901,5 +35903,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:30:17.439707+00:00"
+  "updated_at": "2026-10-31T08:31:47.562780+00:00"
 }
