@@ -6403,7 +6403,7 @@
       "last_plan": {
         "source_id": "32449184",
         "display_name": "Titanic (1997) 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:18:03.662713+00:00"
+        "planned_at": "2026-10-31T02:50:46.903674+00:00"
       },
       "previous_target_id": "30623525",
       "prepared": {
@@ -6411,6 +6411,12 @@
         "size_bytes": 8300000000,
         "prepared_at": "2026-10-30T01:49:28.564284+00:00",
         "relay_source_id": "32449184"
+      },
+      "claim": {
+        "worker_id": "09c7506a25d249768597cc2d29883f1d-shard-0",
+        "claimed_at": "2026-10-31T02:50:47.064602+00:00",
+        "lease_expires_at": "2026-10-31T08:50:47.064602+00:00",
+        "run_id": "41144016453"
       }
     },
     "302": {
@@ -11559,13 +11565,6 @@
           "source_id": "24001495",
           "target_video_id": "30644453",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:11:59.999715+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24001495",
-          "target_video_id": "30644453",
-          "permanent": false,
           "attempted_at": "2026-10-31T01:47:26.306946+00:00"
         },
         {
@@ -11574,6 +11573,13 @@
           "target_video_id": "30644453",
           "permanent": false,
           "attempted_at": "2026-10-31T02:18:02.429812+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24001495",
+          "target_video_id": "30644453",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:50:47.832794+00:00"
         }
       ],
       "last_plan": {
@@ -13418,7 +13424,7 @@
       "last_plan": {
         "source_id": "29464604",
         "display_name": "Dawn of the Dead (1978) 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:50:45.680247+00:00"
+        "planned_at": "2026-10-31T02:50:46.965931+00:00"
       }
     },
     "11475": {
@@ -33577,5 +33583,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:50:45.680263+00:00"
+  "updated_at": "2026-10-31T02:50:47.832812+00:00"
 }
