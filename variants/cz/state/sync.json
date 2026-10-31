@@ -9387,7 +9387,7 @@
       "last_plan": {
         "source_id": "34379531",
         "display_name": "Star Trek 4K CZ Dabing",
-        "planned_at": "2026-10-31T06:09:57.574877+00:00"
+        "planned_at": "2026-10-31T06:42:09.264926+00:00"
       },
       "previous_target_id": "30634802",
       "prepared": {
@@ -9395,6 +9395,12 @@
         "size_bytes": 42900000000,
         "prepared_at": "2026-10-30T13:10:34.211458+00:00",
         "relay_source_id": "34379531"
+      },
+      "claim": {
+        "worker_id": "322703ce6e7e4ffca00e19d52f9d47b5-shard-0",
+        "claimed_at": "2026-10-31T06:42:09.404987+00:00",
+        "lease_expires_at": "2026-10-31T12:42:09.404987+00:00",
+        "run_id": "41164110278"
       }
     },
     "32992": {
@@ -14125,17 +14131,23 @@
           "attempted_at": "2026-10-31T06:08:45.015403+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "6031990",
-        "display_name": "Pride 1080p CZ Dabing",
-        "planned_at": "2026-10-31T06:42:07.894358+00:00"
-      },
       "previous_target_id": "30655835",
-      "prepared": {
+      "upload": {
         "target_video_id": "30655835",
-        "size_bytes": 16303717257,
-        "prepared_at": "2026-10-31T05:16:12.102076+00:00",
-        "relay_source_id": "6031990"
+        "display_name": "Pride 1080p CZ Dabing",
+        "source_id": "6031990",
+        "source_url": "https://sdilej.cz/6031990/pride-2014-1080p-cz-dabing.mkv",
+        "source_filename": "Pride (2014) 1080p CZ Dabing.mkv",
+        "size_bytes": 16300000000,
+        "width": 1920,
+        "height": 804,
+        "audio_language": "cs",
+        "language_probability": 0.9043130874633789,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/pride-1080p-cz-dabing-mkv/f682ce68bddeaff7",
+        "uploaded_at": "2026-10-31T06:42:10.032934+00:00"
       }
     },
     "23352": {
@@ -14547,7 +14559,7 @@
       "last_plan": {
         "source_id": "33524107",
         "display_name": "Earth 4K CZ Dabing",
-        "planned_at": "2026-10-31T06:42:07.948847+00:00"
+        "planned_at": "2026-10-31T06:42:09.321077+00:00"
       }
     },
     "22442": {
@@ -34976,5 +34988,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:42:07.948864+00:00"
+  "updated_at": "2026-10-31T06:42:10.032950+00:00"
 }
