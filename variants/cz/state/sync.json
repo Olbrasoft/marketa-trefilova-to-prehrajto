@@ -16431,13 +16431,6 @@
           "source_id": "32043882",
           "target_video_id": "30664667",
           "permanent": false,
-          "attempted_at": "2026-10-31T15:24:43.309883+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043882",
-          "target_video_id": "30664667",
-          "permanent": false,
           "attempted_at": "2026-10-31T16:02:28.930378+00:00"
         },
         {
@@ -16446,6 +16439,13 @@
           "target_video_id": "30664667",
           "permanent": false,
           "attempted_at": "2026-10-31T17:05:26.071572+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043882",
+          "target_video_id": "30664667",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:41:45.791744+00:00"
         }
       ],
       "last_plan": {
@@ -16459,12 +16459,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-10-31T11:53:53.244431+00:00",
         "relay_source_id": "32043882"
-      },
-      "claim": {
-        "worker_id": "46a382c576b34528b324e9cb9e3de021-shard-0",
-        "claimed_at": "2026-10-31T17:41:43.890488+00:00",
-        "lease_expires_at": "2026-10-31T23:41:43.890488+00:00",
-        "run_id": "41219330327"
       }
     },
     "533": {
@@ -16700,7 +16694,7 @@
       "last_plan": {
         "source_id": "30184441",
         "display_name": "Little Women (2019) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T17:05:27.379675+00:00"
+        "planned_at": "2026-10-31T17:41:45.393898+00:00"
       },
       "previous_target_id": "30665410",
       "prepared": {
@@ -16708,6 +16702,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-10-31T12:30:58.497171+00:00",
         "relay_source_id": "30184441"
+      },
+      "claim": {
+        "worker_id": "b9256939cbac4f549514ef94d0d07775-shard-0",
+        "claimed_at": "2026-10-31T17:41:45.506675+00:00",
+        "lease_expires_at": "2026-10-31T23:41:45.506675+00:00",
+        "run_id": "41219330327"
       }
     },
     "641": {
@@ -18067,7 +18067,7 @@
       "last_plan": {
         "source_id": "35010444",
         "display_name": "Open Your Eyes SD CZ Dabing",
-        "planned_at": "2026-10-31T17:41:43.764542+00:00"
+        "planned_at": "2026-10-31T17:41:45.438306+00:00"
       }
     },
     "10694": {
@@ -40196,5 +40196,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:41:44.062920+00:00"
+  "updated_at": "2026-10-31T17:41:45.791766+00:00"
 }
