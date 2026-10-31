@@ -12797,11 +12797,19 @@
       }
     },
     "11907": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32689558",
+          "reason": "Request failed for https://sdilej.cz/32689558/misery-nechce-zemrit-1990-cz-en-4k.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:24:10.575914+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32689558",
         "display_name": "Misery 4K CZ Dabing",
-        "planned_at": "2026-10-31T01:23:22.677593+00:00"
+        "planned_at": "2026-10-31T01:23:24.728612+00:00"
       }
     },
     "10899": {
@@ -32936,5 +32944,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:23:23.394143+00:00"
+  "updated_at": "2026-10-31T01:24:10.575933+00:00"
 }
