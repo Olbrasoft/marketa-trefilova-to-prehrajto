@@ -10764,17 +10764,19 @@
       "attempts": []
     },
     "805": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402243",
+          "target_video_id": "30680601",
+          "permanent": false,
+          "attempted_at": "2026-10-31T23:22:49.017702+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402243",
         "display_name": "Fury (2014) 1080p CZ Titulky",
         "planned_at": "2026-10-31T23:13:08.150219+00:00"
-      },
-      "claim": {
-        "worker_id": "80bebf647ec143278eca6ca58b8a53f0-shard-0",
-        "claimed_at": "2026-10-31T23:13:08.189942+00:00",
-        "lease_expires_at": "2026-11-01T05:13:08.189942+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30680601",
       "prepared": {
@@ -33669,5 +33671,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T23:18:58.627589+00:00"
+  "updated_at": "2026-10-31T23:22:49.017716+00:00"
 }
