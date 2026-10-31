@@ -12958,17 +12958,19 @@
       }
     },
     "14215": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33085640",
+          "target_video_id": "30651366",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:49:15.921363+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33085640",
         "display_name": "The Girl with the Dragon Tattoo (Män som hatar kvinnor) (2009) 1080p CZ Dabing",
         "planned_at": "2026-10-31T01:39:24.414927+00:00"
-      },
-      "claim": {
-        "worker_id": "184266d119c04f3c8c85dbcc663073fe-shard-0",
-        "claimed_at": "2026-10-31T01:39:24.515255+00:00",
-        "lease_expires_at": "2026-10-31T07:39:24.515255+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30651366",
       "prepared": {
@@ -12989,7 +12991,13 @@
       "last_plan": {
         "source_id": "30074417",
         "display_name": "Brazil 1080p CZ Dabing",
-        "planned_at": "2026-10-31T01:48:19.860702+00:00"
+        "planned_at": "2026-10-31T01:48:47.652762+00:00"
+      },
+      "claim": {
+        "worker_id": "e2e1e73a45fb42c8bb80db20ffcfabee-shard-0",
+        "claimed_at": "2026-10-31T01:48:47.763140+00:00",
+        "lease_expires_at": "2026-10-31T07:48:47.763140+00:00",
+        "run_id": "41144016453"
       }
     },
     "19554": {
@@ -33091,5 +33099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:48:44.358421+00:00"
+  "updated_at": "2026-10-31T01:49:15.921379+00:00"
 }
