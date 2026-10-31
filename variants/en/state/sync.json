@@ -5766,13 +5766,6 @@
           "source_id": "26457098",
           "target_video_id": "30638438",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:46:51.589122+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26457098",
-          "target_video_id": "30638438",
-          "permanent": false,
           "attempted_at": "2026-10-31T02:17:25.540534+00:00"
         },
         {
@@ -5781,6 +5774,13 @@
           "target_video_id": "30638438",
           "permanent": false,
           "attempted_at": "2026-10-31T02:50:21.409085+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26457098",
+          "target_video_id": "30638438",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:22:28.598482+00:00"
         }
       ],
       "last_plan": {
@@ -5794,12 +5794,6 @@
         "size_bytes": 24100000000,
         "prepared_at": "2026-10-30T15:05:10.848974+00:00",
         "relay_source_id": "26457098"
-      },
-      "claim": {
-        "worker_id": "0ee0396e9b394fcab90169a7202cbb5c-shard-0",
-        "claimed_at": "2026-10-31T03:22:26.241434+00:00",
-        "lease_expires_at": "2026-10-31T09:22:26.241434+00:00",
-        "run_id": "41144016453"
       }
     },
     "13259": {
@@ -6210,7 +6204,7 @@
       "last_plan": {
         "source_id": "20929657",
         "display_name": "Do the Right Thing 1080p CZ Titulky",
-        "planned_at": "2026-10-31T02:50:20.519596+00:00"
+        "planned_at": "2026-10-31T03:22:28.134888+00:00"
       },
       "previous_target_id": "30642017",
       "prepared": {
@@ -6218,6 +6212,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-10-30T18:36:18.026732+00:00",
         "relay_source_id": "20929657"
+      },
+      "claim": {
+        "worker_id": "923e73c3fef64bcf9dc65ec5db8bb793-shard-0",
+        "claimed_at": "2026-10-31T03:22:28.224356+00:00",
+        "lease_expires_at": "2026-10-31T09:22:28.224356+00:00",
+        "run_id": "41144016453"
       }
     },
     "12681": {
@@ -7526,7 +7526,7 @@
       "last_plan": {
         "source_id": "22124732",
         "display_name": "The Wind Rises (Kaze tachinu) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T03:22:26.210467+00:00"
+        "planned_at": "2026-10-31T03:22:28.195486+00:00"
       }
     },
     "23977": {
@@ -27733,5 +27733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:22:26.893796+00:00"
+  "updated_at": "2026-10-31T03:22:28.598501+00:00"
 }
