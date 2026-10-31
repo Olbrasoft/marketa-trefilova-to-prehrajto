@@ -19219,17 +19219,19 @@
       "attempts": []
     },
     "20217": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27490449",
+          "target_video_id": "30679450",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:43:03.526467+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27490449",
         "display_name": "Meru SD CZ Dabing",
         "planned_at": "2026-10-31T21:40:34.053087+00:00"
-      },
-      "claim": {
-        "worker_id": "19f9e12191c048f594c1dbd3ffe8408d-shard-0",
-        "claimed_at": "2026-10-31T21:40:34.200983+00:00",
-        "lease_expires_at": "2026-11-01T03:40:34.200983+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679450",
       "prepared": {
@@ -41837,5 +41839,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:42:45.365219+00:00"
+  "updated_at": "2026-10-31T21:43:03.526484+00:00"
 }
