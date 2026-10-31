@@ -15838,17 +15838,19 @@
       }
     },
     "643": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31292023",
+          "target_video_id": "30663311",
+          "permanent": false,
+          "attempted_at": "2026-10-31T10:31:01.936838+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31292023",
         "display_name": "Star Trek Into Darkness 4K CZ Dabing",
         "planned_at": "2026-10-31T10:12:55.431021+00:00"
-      },
-      "claim": {
-        "worker_id": "2bdf4f9a493e46f1bbc53437cb965862-shard-0",
-        "claimed_at": "2026-10-31T10:12:55.548721+00:00",
-        "lease_expires_at": "2026-10-31T16:12:55.548721+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30663311",
       "prepared": {
@@ -36801,5 +36803,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T10:26:16.284351+00:00"
+  "updated_at": "2026-10-31T10:31:01.936856+00:00"
 }
