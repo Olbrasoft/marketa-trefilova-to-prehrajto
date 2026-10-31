@@ -188,3 +188,4 @@ Attach subtitles only after target processing has finished.
 | How to Train Your Dragon (2025) 4K CZ Titulky | 30670866 | https://sdilej.cz/31527189/how.to.train.your.dragon-2025-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Malcolm X 1080p CZ Titulky | 30672234 | https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | My Fair Lady 1080p CZ Titulky | 30673478 | https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv | Extract Czech track from exact source after processing |
+| Beasts of No Nation 1080p CZ Titulky | 30673675 | https://sdilej.cz/14060782/beasts-of-no-nation-2015-1080p-ddp5.1-x265-en-dab-cz-tit.mkv | Extract Czech track from exact source after processing |
