@@ -18971,17 +18971,19 @@
       "attempts": []
     },
     "575": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33071623",
+          "target_video_id": "30676400",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:47:24.343339+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33071623",
         "display_name": "Never Look Away (Werk ohne Autor) 1080p CZ Dabing",
         "planned_at": "2026-10-31T19:39:39.146107+00:00"
-      },
-      "claim": {
-        "worker_id": "24bedd9f1bc84769af971f6503fbdfed-shard-0",
-        "claimed_at": "2026-10-31T19:39:39.218314+00:00",
-        "lease_expires_at": "2026-11-01T01:39:39.218314+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30676400",
       "prepared": {
@@ -41370,5 +41372,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:39:43.394441+00:00"
+  "updated_at": "2026-10-31T19:47:24.343356+00:00"
 }
