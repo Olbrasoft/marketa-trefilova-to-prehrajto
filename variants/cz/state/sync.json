@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-10-31T06:10:07.056337+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-10-31T06:42:21.122743+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-10-31T07:14:26.837827+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:02:42.500533+00:00"
         }
       ],
       "last_plan": {
@@ -6955,12 +6955,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "e84de3945e44483197b19746e29204d7-shard-0",
-        "claimed_at": "2026-10-31T08:02:40.692050+00:00",
-        "lease_expires_at": "2026-10-31T14:02:40.692050+00:00",
-        "run_id": "41180338554"
       }
     },
     "321": {
@@ -11609,7 +11603,7 @@
       "last_plan": {
         "source_id": "24001495",
         "display_name": "The Batman 4K CZ Dabing",
-        "planned_at": "2026-10-31T07:14:27.889428+00:00"
+        "planned_at": "2026-10-31T08:02:42.112934+00:00"
       },
       "previous_target_id": "30644453",
       "prepared": {
@@ -11617,6 +11611,12 @@
         "size_bytes": 19800000000,
         "prepared_at": "2026-10-30T20:45:14.373825+00:00",
         "relay_source_id": "24001495"
+      },
+      "claim": {
+        "worker_id": "ca7fa7d3d96a4dacb5595112ba1c103b-shard-0",
+        "claimed_at": "2026-10-31T08:02:42.321315+00:00",
+        "lease_expires_at": "2026-10-31T14:02:42.321315+00:00",
+        "run_id": "41180338554"
       }
     },
     "466": {
@@ -15104,7 +15104,7 @@
       "last_plan": {
         "source_id": "31433415",
         "display_name": "The Train 1080p CZ Dabing",
-        "planned_at": "2026-10-31T08:02:40.552894+00:00"
+        "planned_at": "2026-10-31T08:02:42.182801+00:00"
       }
     },
     "30098": {
@@ -35550,5 +35550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:02:40.881088+00:00"
+  "updated_at": "2026-10-31T08:02:42.500551+00:00"
 }
