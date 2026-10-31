@@ -8480,7 +8480,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-10-31T03:23:35.754436+00:00"
+        "planned_at": "2026-10-31T03:57:44.753854+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8488,6 +8488,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "20fa5dc9852e44c7a490e1c61031353b-shard-0",
+        "claimed_at": "2026-10-31T03:57:44.885608+00:00",
+        "lease_expires_at": "2026-10-31T09:57:44.885608+00:00",
+        "run_id": "41164110278"
       }
     },
     "29922": {
@@ -13703,17 +13709,19 @@
       }
     },
     "14412": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21437900",
+          "target_video_id": "30654016",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:58:03.877815+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21437900",
         "display_name": "A Prophet (Un prophète) 1080p CZ Dabing",
         "planned_at": "2026-10-31T03:46:34.768606+00:00"
-      },
-      "claim": {
-        "worker_id": "a57190e2dbd64517ac53831891c92293-shard-0",
-        "claimed_at": "2026-10-31T03:46:35.012326+00:00",
-        "lease_expires_at": "2026-10-31T09:46:35.012326+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30654016",
       "prepared": {
@@ -13795,7 +13803,7 @@
       "last_plan": {
         "source_id": "34253511",
         "display_name": "The Remains of the Day 4K CZ Dabing",
-        "planned_at": "2026-10-31T03:57:42.065356+00:00"
+        "planned_at": "2026-10-31T03:57:44.806419+00:00"
       }
     },
     "11208": {
@@ -33981,5 +33989,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:57:43.596289+00:00"
+  "updated_at": "2026-10-31T03:58:03.877831+00:00"
 }
