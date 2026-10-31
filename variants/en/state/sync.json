@@ -9405,17 +9405,19 @@
       "attempts": []
     },
     "35060": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26808273",
+          "target_video_id": "30672234",
+          "permanent": false,
+          "attempted_at": "2026-10-31T16:18:52.526863+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26808273",
         "display_name": "Malcolm X 1080p CZ Titulky",
         "planned_at": "2026-10-31T16:02:40.058703+00:00"
-      },
-      "claim": {
-        "worker_id": "c1392177361945a6be516f54c837530c-shard-0",
-        "claimed_at": "2026-10-31T16:02:40.078183+00:00",
-        "lease_expires_at": "2026-10-31T22:02:40.078183+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30672234",
       "prepared": {
@@ -31158,5 +31160,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T16:09:43.464722+00:00"
+  "updated_at": "2026-10-31T16:18:52.526882+00:00"
 }
