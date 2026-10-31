@@ -13533,11 +13533,19 @@
       }
     },
     "406": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26659084",
+          "reason": "Request failed for https://sdilej.cz/26659084/the-fall-webrip-cz-2006-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:12:19.294094+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26659084",
         "display_name": "The Fall 1080p CZ Dabing",
-        "planned_at": "2026-10-31T03:11:30.806044+00:00"
+        "planned_at": "2026-10-31T03:11:33.124304+00:00"
       }
     },
     "11766": {
@@ -33684,5 +33692,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:11:31.957022+00:00"
+  "updated_at": "2026-10-31T03:12:19.294114+00:00"
 }
