@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T04:17:06.501664+00:00
+Poslední aktualizace (UTC): 2026-10-31T04:17:10.020333+00:00
 
 Zkontrolováno videí: 147. Další stránka kontroly: 0.
 
@@ -76,7 +76,7 @@ Kontrol: 7; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-31T03:57:17.228094+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-31T03:57:25.356187+00:00 |
 | [Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky](https://prehraj.to/society-of-the-snow-la-sociedad-de-la-nieve-1080p-cz-titulky-mkv/1f528cd767b13fc5) (ID 30652651) | [Sdílej 27805228](https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv) | target_unavailable | 2026-10-31T03:35:03.310597+00:00 |
-| [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-31T03:14:44.303194+00:00 |
+| [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-31T04:17:10.020192+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-31T03:57:12.992155+00:00 |
 | [The Irishman 720p CZ Titulky](https://prehraj.to/the-irishman-720p-cz-titulky-mkv/c70ac834645aae57) (ID 30648488) | [Sdílej 12685665](https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv) | target_unavailable | 2026-10-31T03:45:05.816574+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-31T03:25:11.487401+00:00 |
