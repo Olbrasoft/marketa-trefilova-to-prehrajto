@@ -13209,17 +13209,19 @@
       }
     },
     "11869": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14643765",
+          "target_video_id": "30652453",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:27:09.167274+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14643765",
         "display_name": "Awakenings 1080p CZ Dabing",
         "planned_at": "2026-10-31T02:20:42.918817+00:00"
-      },
-      "claim": {
-        "worker_id": "5fd9a5dbba8045138a5dce9e76e5836b-shard-0",
-        "claimed_at": "2026-10-31T02:20:43.024101+00:00",
-        "lease_expires_at": "2026-10-31T08:20:43.024101+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30652453",
       "prepared": {
@@ -33442,5 +33444,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:24:04.697324+00:00"
+  "updated_at": "2026-10-31T02:27:09.167300+00:00"
 }
