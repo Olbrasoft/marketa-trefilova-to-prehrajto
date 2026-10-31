@@ -9082,17 +9082,19 @@
       "attempts": []
     },
     "19547": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26730074",
+          "target_video_id": "30665814",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:01:50.015615+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26730074",
         "display_name": "Mr. Nobody 1080p CZ Titulky",
         "planned_at": "2026-10-31T12:54:53.219687+00:00"
-      },
-      "claim": {
-        "worker_id": "ffbaf600a0604114aae2a9de59ab03ac-shard-0",
-        "claimed_at": "2026-10-31T12:54:53.239156+00:00",
-        "lease_expires_at": "2026-10-31T18:54:53.239156+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30665814",
       "prepared": {
@@ -30315,5 +30317,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:55:03.114011+00:00"
+  "updated_at": "2026-10-31T13:01:50.015632+00:00"
 }
