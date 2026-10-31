@@ -28,6 +28,7 @@ Attach subtitles only after target processing has finished.
 | The Departed 1080p CZ Titulky | 30589626 | https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
 | American History X 1080p CZ Titulky | 30589993 | https://sdilej.cz/28055213/kult-hakoveho-krize-cz.mkv | Complete: Czech subtitles verified |
 | The Usual Suspects 1080p CZ Titulky | 30590050 | https://sdilej.cz/35170968/the.usual.suspects.1995.open.matte.1080p.bluray.dl.eac3.x264-majo.mkv | Complete: Czech subtitles verified |
+| Parasite (기생충) (2019) 1080p CZ Titulky | 30675758 | https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Whiplash 1080p CZ Titulky | 30590258 | https://sdilej.cz/22962577/whiplash-2014-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
 | Casablanca 1080p CZ Titulky | 30590340 | https://sdilej.cz/17447327/casablanca.1942.1080p.bluray.dl.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | Spider-Man: Across the Spider-Verse 1080p CZ Titulky | 30590630 | https://sdilej.cz/26637017/spider-man.across.the.spider-verse.2023.1080p.10bit.webrip.6ch.x265.hevc-psa-cztit.mkv | Complete: Czech subtitles verified |
