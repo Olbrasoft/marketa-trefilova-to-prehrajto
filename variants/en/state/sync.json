@@ -7523,17 +7523,19 @@
       "attempts": []
     },
     "18349": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22124732",
+          "target_video_id": "30653654",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:42:07.122035+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22124732",
         "display_name": "The Wind Rises (Kaze tachinu) 1080p CZ Titulky",
         "planned_at": "2026-10-31T03:23:50.558632+00:00"
-      },
-      "claim": {
-        "worker_id": "97dda7d56a12466bac11702d47e8388e-shard-0",
-        "claimed_at": "2026-10-31T03:23:50.591519+00:00",
-        "lease_expires_at": "2026-10-31T09:23:50.591519+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30653654",
       "prepared": {
@@ -27752,5 +27754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:24:57.042517+00:00"
+  "updated_at": "2026-10-31T03:42:07.122060+00:00"
 }
