@@ -15798,7 +15798,20 @@
       }
     },
     "24530": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20979521",
+          "reason": "Request failed for https://sdilej.cz/20979521/wit-vtip-2001-1080p-h264-cz-en-tit.cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T10:10:43.741933+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "20979521",
+        "display_name": "Wit 1080p CZ Dabing",
+        "planned_at": "2026-10-31T10:09:57.719260+00:00"
+      }
     },
     "643": {
       "attempts": []
@@ -36538,5 +36551,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T10:08:11.486914+00:00"
+  "updated_at": "2026-10-31T10:10:43.741948+00:00"
 }
