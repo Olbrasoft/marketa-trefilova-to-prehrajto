@@ -15507,17 +15507,19 @@
       }
     },
     "651": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24661348",
+          "target_video_id": "30662279",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:19:52.733204+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24661348",
         "display_name": "Ocean's Eleven (2001) 1080p CZ Dabing",
         "planned_at": "2026-10-31T09:12:06.024635+00:00"
-      },
-      "claim": {
-        "worker_id": "16f5f0de8caf411f8323d8283d3d7663-shard-0",
-        "claimed_at": "2026-10-31T09:12:06.149449+00:00",
-        "lease_expires_at": "2026-10-31T15:12:06.149449+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30662279",
       "prepared": {
@@ -36112,5 +36114,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:12:10.224264+00:00"
+  "updated_at": "2026-10-31T09:19:52.733219+00:00"
 }
