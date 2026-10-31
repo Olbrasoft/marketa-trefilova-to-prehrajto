@@ -13238,17 +13238,19 @@
       }
     },
     "19553": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34698185",
+          "target_video_id": "30652550",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:31:27.204303+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34698185",
         "display_name": "Letters from Iwo Jima 1080p CZ Dabing",
         "planned_at": "2026-10-31T02:23:59.844383+00:00"
-      },
-      "claim": {
-        "worker_id": "e256b3abe12f423d894bfa7d952fa857-shard-0",
-        "claimed_at": "2026-10-31T02:24:01.032615+00:00",
-        "lease_expires_at": "2026-10-31T08:24:01.032615+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30652550",
       "prepared": {
@@ -33468,5 +33470,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:28:06.864714+00:00"
+  "updated_at": "2026-10-31T02:31:27.204319+00:00"
 }
