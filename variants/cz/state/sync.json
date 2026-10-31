@@ -14891,17 +14891,19 @@
       "attempts": []
     },
     "22339": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16780959",
+          "target_video_id": "30659725",
+          "permanent": false,
+          "attempted_at": "2026-10-31T07:25:11.069840+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16780959",
         "display_name": "That Obscure Object of Desire 1080p CZ Dabing",
         "planned_at": "2026-10-31T07:19:58.740526+00:00"
-      },
-      "claim": {
-        "worker_id": "e80671a994cb4077b73df7eb5d49c045-shard-0",
-        "claimed_at": "2026-10-31T07:19:58.820488+00:00",
-        "lease_expires_at": "2026-10-31T13:19:58.820488+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30659725",
       "prepared": {
@@ -35409,5 +35411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T07:24:17.378958+00:00"
+  "updated_at": "2026-10-31T07:25:11.069856+00:00"
 }
