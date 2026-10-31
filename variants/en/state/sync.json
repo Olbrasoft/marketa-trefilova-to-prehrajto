@@ -7091,17 +7091,19 @@
       }
     },
     "13343": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6489245",
+          "target_video_id": "30650875",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:30:45.649174+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6489245",
         "display_name": "Walk the Line 1080p CZ Titulky",
         "planned_at": "2026-10-31T01:20:39.435150+00:00"
-      },
-      "claim": {
-        "worker_id": "bf45041640fa47b0b6318fceea35c0a9-shard-0",
-        "claimed_at": "2026-10-31T01:20:39.464267+00:00",
-        "lease_expires_at": "2026-10-31T07:20:39.464267+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30650875",
       "prepared": {
@@ -27251,5 +27253,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:24:16.562179+00:00"
+  "updated_at": "2026-10-31T01:30:45.649189+00:00"
 }
