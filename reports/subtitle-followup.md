@@ -166,5 +166,6 @@ Attach subtitles only after target processing has finished.
 | Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky | 30659487 | https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4 | Complete: Czech subtitles verified |
 | Brother (Брат) (1997) 1080p CZ Titulky | 30659607 | https://sdilej.cz/34880521/brat-1997-.mkv | Complete: Czech subtitles verified |
 | Memoir of a Snail 1080p CZ Titulky | 30659818 | https://sdilej.cz/30147702/memoir.of.a.snail-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
-| The Boy, the Mole, the Fox and the Horse 1080p CZ Titulky | 30660056 | https://sdilej.cz/28481101/the-boy-the-mole-the-fox-and-the-horse-2022-1080p-web-h264-naisu-.mkv | Extract Czech track from exact source after processing |
+| The Boy, the Mole, the Fox and the Horse 1080p CZ Titulky | 30660056 | https://sdilej.cz/28481101/the-boy-the-mole-the-fox-and-the-horse-2022-1080p-web-h264-naisu-.mkv | Complete: Czech subtitles verified |
 | Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky | 30661597 | https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv | Extract Czech track from exact source after processing |
+| Gravity 1080p CZ Titulky | 30661712 | https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
