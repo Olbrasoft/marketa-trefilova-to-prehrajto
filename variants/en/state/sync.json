@@ -9162,17 +9162,19 @@
       "attempts": []
     },
     "570": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14351127",
+          "target_video_id": "30668595",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:43:50.214576+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14351127",
         "display_name": "The Trial of the Chicago 7 1080p CZ Titulky",
         "planned_at": "2026-10-31T13:31:42.816210+00:00"
-      },
-      "claim": {
-        "worker_id": "518ba6c1598249d4b366dd4a3b4e8794-shard-0",
-        "claimed_at": "2026-10-31T13:31:42.883228+00:00",
-        "lease_expires_at": "2026-10-31T19:31:42.883228+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30668595",
       "prepared": {
@@ -9202,7 +9204,7 @@
       "last_plan": {
         "source_id": "22988860",
         "display_name": "Ray 1080p CZ Titulky",
-        "planned_at": "2026-10-31T13:43:47.196212+00:00"
+        "planned_at": "2026-10-31T13:43:50.018276+00:00"
       }
     },
     "11136": {
@@ -30597,5 +30599,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:43:47.196219+00:00"
+  "updated_at": "2026-10-31T13:43:50.214592+00:00"
 }
