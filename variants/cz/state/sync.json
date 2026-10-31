@@ -17660,17 +17660,19 @@
       "attempts": []
     },
     "21224": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33180020",
+          "target_video_id": "30672365",
+          "permanent": false,
+          "attempted_at": "2026-10-31T16:58:17.812285+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33180020",
         "display_name": "Fantasia 1080p CZ Dabing",
         "planned_at": "2026-10-31T16:07:34.288582+00:00"
-      },
-      "claim": {
-        "worker_id": "6411b6749ab141caac5572f73e0b662e-shard-0",
-        "claimed_at": "2026-10-31T16:07:34.357282+00:00",
-        "lease_expires_at": "2026-10-31T22:07:34.357282+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30672365",
       "prepared": {
@@ -39425,5 +39427,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T16:25:18.233400+00:00"
+  "updated_at": "2026-10-31T16:58:17.812302+00:00"
 }
