@@ -12537,17 +12537,19 @@
       "attempts": []
     },
     "518": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32832168",
+          "target_video_id": "30649588",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:00:56.735271+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32832168",
         "display_name": "The Untouchables 4K CZ Dabing",
         "planned_at": "2026-10-31T00:11:00.332230+00:00"
-      },
-      "claim": {
-        "worker_id": "e49303a440a2488fa340664a6ee80cbe-shard-0",
-        "claimed_at": "2026-10-31T00:11:00.437837+00:00",
-        "lease_expires_at": "2026-10-31T06:11:00.437837+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30649588",
       "prepared": {
@@ -32717,5 +32719,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:53:24.417230+00:00"
+  "updated_at": "2026-10-31T01:00:56.735288+00:00"
 }
