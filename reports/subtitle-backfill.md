@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T02:03:53.273399+00:00
+Poslední aktualizace (UTC): 2026-10-31T02:04:01.338683+00:00
 
 Zkontrolováno videí: 141. Další stránka kontroly: 0.
 
@@ -93,7 +93,7 @@ Kontrol: 14; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 0. Důvod
 | [Tombstone 1080p CZ Titulky](https://prehraj.to/tombstone-1080p-cz-titulky-mkv/0d023d7d46f2af9c) (ID 30651900) | [Sdílej 23077133](https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv) | target_unavailable | 2026-10-31T02:03:19.716666+00:00 |
 | [Walk the Line 1080p CZ Titulky](https://prehraj.to/walk-the-line-1080p-cz-titulky-mkv/0ffc5079d005c129) (ID 30650875) | [Sdílej 6489245](https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-31T01:22:44.639425+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-31T01:54:15.487962+00:00 |
-| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-31T01:03:15.816787+00:00 |
+| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-31T02:04:01.338634+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
