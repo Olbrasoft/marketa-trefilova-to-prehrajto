@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T08:12:47.344487+00:00
+Poslední aktualizace (UTC): 2026-10-31T08:12:51.111802+00:00
 
 Zkontrolováno videí: 163. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 78, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 39, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 79, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -67,7 +67,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 38. Důvod
 | [Brother (Брат) (1997) 1080p CZ Titulky](https://prehraj.to/brother-1997-1080p-cz-titulky-mkv/78afd949917dbaa9) (ID 30659607) | [Sdílej 34880521](https://sdilej.cz/34880521/brat-1997-.mkv) | target_unavailable | 2026-10-31T07:19:51.804592+00:00 |
 | [Castaway on the Moon (김씨 표류기) 1080p CZ Titulky](https://prehraj.to/castaway-on-the-moon-1080p-cz-titulky-mkv/daaa1b9d9e299127) (ID 30652792) | [Sdílej 30614687](https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv) | target_unavailable | 2026-10-31T05:48:06.264569+00:00 |
 | [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-31T05:07:35.504363+00:00 |
-| [Gangubai Kathiawadi 1080p CZ Titulky](https://prehraj.to/gangubai-kathiawadi-1080p-cz-titulky-mkv/e9150528cec251fb) (ID 30655605) | [Sdílej 21628063](https://sdilej.cz/21628063/gangubai-kathiawadi-2022-sktit-v-obraze-1080p.mkv) | target_unavailable | 2026-10-31T05:07:21.792504+00:00 |
 | [Guardians of the Galaxy Vol. 3 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-vol-3-4k-cz-titulky-mkv/134396bccaf3cde2) (ID 30638438) | [Sdílej 26457098](https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T05:58:21.981852+00:00 |
 | [Hamnet 1080p CZ Titulky](https://prehraj.to/hamnet-1080p-cz-titulky-mkv/d04bd01b32c76a4c) (ID 30653249) | [Sdílej 32963361](https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv) | target_unavailable | 2026-10-31T05:07:28.923660+00:00 |
 | [Harold and Maude 1080p CZ Titulky](https://prehraj.to/harold-and-maude-1080p-cz-titulky-mkv/4d09d179c66d370a) (ID 30654323) | [Sdílej 35402272](https://sdilej.cz/35402272/harold.and.maude.1971.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T05:07:25.557897+00:00 |
