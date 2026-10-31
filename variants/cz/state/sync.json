@@ -13054,17 +13054,19 @@
       }
     },
     "21729": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25224839",
+          "target_video_id": "30651802",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:59:54.841357+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25224839",
         "display_name": "Mary Poppins SD CZ Dabing",
         "planned_at": "2026-10-31T01:55:34.677635+00:00"
-      },
-      "claim": {
-        "worker_id": "815303610b3e49c6bf33248908c47ca9-shard-0",
-        "claimed_at": "2026-10-31T01:55:34.780730+00:00",
-        "lease_expires_at": "2026-10-31T07:55:34.780730+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30651802",
       "prepared": {
@@ -33182,5 +33184,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:55:45.443162+00:00"
+  "updated_at": "2026-10-31T01:59:54.841373+00:00"
 }
