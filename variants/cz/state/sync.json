@@ -12863,17 +12863,19 @@
       }
     },
     "480": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22658787",
+          "target_video_id": "30651141",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:38:31.511843+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22658787",
         "display_name": "Captain Fantastic 1080p CZ Dabing",
         "planned_at": "2026-10-31T01:31:39.460918+00:00"
-      },
-      "claim": {
-        "worker_id": "b7404ccb0c6d4621b973ea8bff8bbf64-shard-0",
-        "claimed_at": "2026-10-31T01:31:39.562219+00:00",
-        "lease_expires_at": "2026-10-31T07:31:39.562219+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30651141",
       "prepared": {
@@ -33052,5 +33054,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:34:07.933506+00:00"
+  "updated_at": "2026-10-31T01:38:31.511859+00:00"
 }
