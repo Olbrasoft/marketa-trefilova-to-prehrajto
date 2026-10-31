@@ -6184,13 +6184,6 @@
           "source_id": "20929657",
           "target_video_id": "30642017",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:46:53.989703+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20929657",
-          "target_video_id": "30642017",
-          "permanent": false,
           "attempted_at": "2026-10-31T02:17:27.955406+00:00"
         },
         {
@@ -6199,6 +6192,13 @@
           "target_video_id": "30642017",
           "permanent": false,
           "attempted_at": "2026-10-31T02:50:22.497596+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20929657",
+          "target_video_id": "30642017",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:22:30.126697+00:00"
         }
       ],
       "last_plan": {
@@ -6212,12 +6212,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-10-30T18:36:18.026732+00:00",
         "relay_source_id": "20929657"
-      },
-      "claim": {
-        "worker_id": "923e73c3fef64bcf9dc65ec5db8bb793-shard-0",
-        "claimed_at": "2026-10-31T03:22:28.224356+00:00",
-        "lease_expires_at": "2026-10-31T09:22:28.224356+00:00",
-        "run_id": "41144016453"
       }
     },
     "12681": {
@@ -6343,7 +6337,7 @@
       "last_plan": {
         "source_id": "30773956",
         "display_name": "Rio Bravo 720p CZ Titulky",
-        "planned_at": "2026-10-31T02:50:22.647083+00:00"
+        "planned_at": "2026-10-31T03:22:29.876302+00:00"
       },
       "previous_target_id": "30643106",
       "prepared": {
@@ -6351,6 +6345,12 @@
         "size_bytes": 7200000000,
         "prepared_at": "2026-10-30T19:39:15.976482+00:00",
         "relay_source_id": "30773956"
+      },
+      "claim": {
+        "worker_id": "7b5d05adc9074bdf972f7db213dc3087-shard-0",
+        "claimed_at": "2026-10-31T03:22:29.964087+00:00",
+        "lease_expires_at": "2026-10-31T09:22:29.964087+00:00",
+        "run_id": "41144016453"
       }
     },
     "28372": {
@@ -7526,7 +7526,7 @@
       "last_plan": {
         "source_id": "22124732",
         "display_name": "The Wind Rises (Kaze tachinu) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T03:22:28.195486+00:00"
+        "planned_at": "2026-10-31T03:22:29.934584+00:00"
       }
     },
     "23977": {
@@ -27733,5 +27733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:22:28.598501+00:00"
+  "updated_at": "2026-10-31T03:22:30.126715+00:00"
 }
