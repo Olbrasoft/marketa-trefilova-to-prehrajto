@@ -17871,17 +17871,19 @@
       "attempts": []
     },
     "21334": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28680406",
+          "target_video_id": "30673705",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:21:16.247699+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28680406",
         "display_name": "The Day the Earth Stood Still (1951) SD CZ Dabing",
         "planned_at": "2026-10-31T17:15:10.738244+00:00"
-      },
-      "claim": {
-        "worker_id": "dd7f1ada8eaa4cceb6229fcc853ec1f3-shard-0",
-        "claimed_at": "2026-10-31T17:15:10.811562+00:00",
-        "lease_expires_at": "2026-10-31T23:15:10.811562+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30673705",
       "prepared": {
@@ -40063,5 +40065,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:18:18.969570+00:00"
+  "updated_at": "2026-10-31T17:21:16.247712+00:00"
 }
