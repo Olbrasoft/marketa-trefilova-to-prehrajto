@@ -19733,17 +19733,19 @@
       "attempts": []
     },
     "805": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30149277",
+          "target_video_id": "30680528",
+          "permanent": false,
+          "attempted_at": "2026-10-31T23:43:54.871055+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30149277",
         "display_name": "Fury (2014) 4K CZ Dabing",
         "planned_at": "2026-10-31T23:04:37.613758+00:00"
-      },
-      "claim": {
-        "worker_id": "c5ddec6e2109400a95a5da14dbf73bf2-shard-0",
-        "claimed_at": "2026-10-31T23:04:37.762884+00:00",
-        "lease_expires_at": "2026-11-01T05:04:37.762884+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30680528",
       "prepared": {
@@ -42671,5 +42673,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T23:30:33.725763+00:00"
+  "updated_at": "2026-10-31T23:43:54.871076+00:00"
 }
