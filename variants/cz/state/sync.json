@@ -15724,17 +15724,19 @@
       }
     },
     "598": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34646961",
+          "target_video_id": "30663076",
+          "permanent": false,
+          "attempted_at": "2026-10-31T10:01:55.347141+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34646961",
         "display_name": "Lost in Translation 1080p CZ Dabing",
         "planned_at": "2026-10-31T09:56:52.969889+00:00"
-      },
-      "claim": {
-        "worker_id": "c7cb3e8c9d3c42b49bfb559a8e1b32a7-shard-0",
-        "claimed_at": "2026-10-31T09:56:53.153713+00:00",
-        "lease_expires_at": "2026-10-31T15:56:53.153713+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30663076",
       "prepared": {
@@ -36496,5 +36498,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:57:40.228669+00:00"
+  "updated_at": "2026-10-31T10:01:55.347157+00:00"
 }
