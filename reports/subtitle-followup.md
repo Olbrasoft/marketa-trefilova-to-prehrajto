@@ -160,3 +160,4 @@ Attach subtitles only after target processing has finished.
 | The Alpinist 1080p CZ Titulky | 30656167 | https://sdilej.cz/19248743/the-alpinist-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
 | Stagecoach (1939) 1080p CZ Titulky | 30656542 | https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv | Extract Czech track from exact source after processing |
 | Bride of Frankenstein 1080p CZ Titulky | 30656545 | https://sdilej.cz/32991026/bride-of-frankenstein-r.1935-engdab-cztit-1080p-.mkv | Extract Czech track from exact source after processing |
+| The Lost Weekend 1080p CZ Titulky | 30658842 | https://sdilej.cz/33703234/the.lost.weekend.1945.1080p.bluray.dts-hd.ma.x264-majo.mkv | Extract Czech track from exact source after processing |
