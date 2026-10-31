@@ -114,7 +114,7 @@ Attach subtitles only after target processing has finished.
 | Going Clear: Scientology, Hollywood, and the Prison of Belief (Going Clear: Scientology and the Prison of Belief) 720p CZ Titulky | 30631572 | https://sdilej.cz/6560926/going-clear-scientology-and-the-prison-of-belief-2015-.720p.hdtv.x264-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Taegukgi (태극기 휘날리며) 720p CZ Titulky | 30631676 | https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Iron Man 1080p CZ Titulky | 30632045 | https://sdilej.cz/35296917/iron-man.mkv | Complete: Czech subtitles verified |
-| Thor: Ragnarok 1080p CZ Titulky | 30632260 | https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv | Extract Czech track from exact source after processing |
+| Thor: Ragnarok 1080p CZ Titulky | 30632260 | https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv | Complete: Czech subtitles verified |
 | Knives Out 1080p CZ Titulky | 30632412 | https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Arrival 1080p CZ Titulky | 30632569 | https://sdilej.cz/34955871/prvy-kontakt-arrival-2016-en.cz.sk-bdrip-hevc-1080p-nmk.mkv | Complete: Czech subtitles verified |
 | Harry Potter and the Prisoner of Azkaban 4K CZ Titulky | 30633152 | https://sdilej.cz/32925438/harry-potter-a-vezen-z-azkabanu-cz-sk-en-radecek.mkv | Extract Czech track from exact source after processing |
