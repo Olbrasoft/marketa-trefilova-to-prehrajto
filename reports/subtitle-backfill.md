@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T13:06:54.373037+00:00
+Poslední aktualizace (UTC): 2026-10-31T13:06:56.136859+00:00
 
 Zkontrolováno videí: 178. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 41, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 42, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -62,6 +62,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 | [Aguirre, the Wrath of God 1080p CZ Titulky](https://prehraj.to/aguirre-the-wrath-of-god-1080p-cz-titulky-mkv/d85609b64aedbda5) (ID 30655121) | [Sdílej 28087307](https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv) | target_unavailable | 2026-10-31T11:04:45.517689+00:00 |
 | [All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky](https://prehraj.to/all-quiet-on-the-western-front-im-westen-nichts-neues-2022-1080p-cz-titulky-mkv/7fa567a093769446) (ID 30649851) | [Sdílej 23592768](https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv) | target_unavailable | 2026-10-31T11:04:42.031631+00:00 |
 | [Black Hawk Down 720p CZ Titulky](https://prehraj.to/black-hawk-down-720p-cz-titulky-mkv/b71b33da4bb6f0fa) (ID 30663831) | [Sdílej 32084108](https://sdilej.cz/32084108/cerny-jestrab-sestrelen-black-hawk-down.2001.720p.bluray.cz.dabing.mkv) | target_unavailable | 2026-10-31T11:55:21.762906+00:00 |
+| [Blue Velvet 1080p CZ Titulky](https://prehraj.to/blue-velvet-1080p-cz-titulky-mkv/4c0ba8378ef8c032) (ID 30665932) | [Sdílej 6725476](https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-31T13:06:56.136793+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T10:56:16.674570+00:00 |
 | [Castaway on the Moon (김씨 표류기) 1080p CZ Titulky](https://prehraj.to/castaway-on-the-moon-1080p-cz-titulky-mkv/daaa1b9d9e299127) (ID 30652792) | [Sdílej 30614687](https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv) | target_unavailable | 2026-10-31T11:04:49.012195+00:00 |
 | [Crash (2004) 1080p CZ Titulky](https://prehraj.to/crash-2004-1080p-cz-titulky-mkv/270785241291972e) (ID 30663753) | [Sdílej 35402143](https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:45:05.834022+00:00 |
