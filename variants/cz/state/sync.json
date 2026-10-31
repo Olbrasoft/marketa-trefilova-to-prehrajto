@@ -18164,17 +18164,19 @@
       }
     },
     "30075": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32235448",
+          "target_video_id": "30674579",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:57:30.930524+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32235448",
         "display_name": "The Hill SD CZ Dabing",
         "planned_at": "2026-10-31T17:53:36.362555+00:00"
-      },
-      "claim": {
-        "worker_id": "5747a573ee50412695f903daa2c090b8-shard-0",
-        "claimed_at": "2026-10-31T17:53:36.440511+00:00",
-        "lease_expires_at": "2026-10-31T23:53:36.440511+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674579",
       "prepared": {
@@ -40305,5 +40307,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:56:42.685799+00:00"
+  "updated_at": "2026-10-31T17:57:30.930543+00:00"
 }
