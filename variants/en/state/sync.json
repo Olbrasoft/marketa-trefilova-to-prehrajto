@@ -3045,6 +3045,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "21708f951b05493da359d7a3e69c163c-shard-0",
+        "claimed_at": "2026-10-31T21:36:01.987955+00:00",
+        "lease_expires_at": "2026-11-01T03:36:01.987955+00:00",
+        "run_id": "41243223179"
       }
     },
     "21312": {
@@ -9476,17 +9482,23 @@
           "attempted_at": "2026-10-31T20:21:32.488006+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35402244",
-        "display_name": "Gattaca 1080p CZ Titulky",
-        "planned_at": "2026-10-31T20:21:31.435448+00:00"
-      },
       "previous_target_id": "30664643",
-      "prepared": {
+      "upload": {
         "target_video_id": "30664643",
+        "display_name": "Gattaca 1080p CZ Titulky",
+        "source_id": "35402244",
+        "source_url": "https://sdilej.cz/35402244/gattaca.1997.1080p.bluray.h264.aac-rarbg.cz.sub.mkv",
+        "source_filename": "Gattaca.1997.1080p.BluRay.H264.AAC-RARBG.CZ.Sub.mkv",
         "size_bytes": 2200000000,
-        "prepared_at": "2026-10-31T11:52:22.084766+00:00",
-        "relay_source_id": "35402244"
+        "width": 1920,
+        "height": 800,
+        "audio_language": "en",
+        "language_probability": 0.9809850454330444,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/gattaca-1080p-cz-titulky-mkv/a6a7f8792fe863fb",
+        "uploaded_at": "2026-10-31T21:36:03.085014+00:00"
       }
     },
     "11264": {
@@ -10640,7 +10652,7 @@
       "last_plan": {
         "source_id": "27530102",
         "display_name": "Despicable Me 4K CZ Titulky",
-        "planned_at": "2026-10-31T21:36:00.749825+00:00"
+        "planned_at": "2026-10-31T21:36:02.236777+00:00"
       }
     },
     "817": {
@@ -33155,5 +33167,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:36:00.749836+00:00"
+  "updated_at": "2026-10-31T21:36:03.085028+00:00"
 }
