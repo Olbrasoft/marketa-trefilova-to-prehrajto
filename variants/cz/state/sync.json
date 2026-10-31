@@ -15376,17 +15376,19 @@
       }
     },
     "654": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33550232",
+          "target_video_id": "30661878",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:57:02.787061+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33550232",
         "display_name": "Silver Linings Playbook 1080p CZ Dabing",
         "planned_at": "2026-10-31T08:50:51.677758+00:00"
-      },
-      "claim": {
-        "worker_id": "6812e16e96c24618be0697f659bbb419-shard-0",
-        "claimed_at": "2026-10-31T08:50:51.792911+00:00",
-        "lease_expires_at": "2026-10-31T14:50:51.792911+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30661878",
       "prepared": {
@@ -36027,5 +36029,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:54:49.891668+00:00"
+  "updated_at": "2026-10-31T08:57:02.787078+00:00"
 }
