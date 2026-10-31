@@ -1863,13 +1863,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-10-31T11:15:41.535791+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-10-31T11:47:29.906960+00:00"
         },
         {
@@ -1878,6 +1871,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-10-31T12:27:24.738687+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:02:11.159482+00:00"
         }
       ],
       "last_plan": {
@@ -2896,7 +2896,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-10-31T12:27:26.269820+00:00"
+        "planned_at": "2026-10-31T13:02:10.114061+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -2904,6 +2904,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "b26e871f4c9c44ef89827e73b703b8b9-shard-0",
+        "claimed_at": "2026-10-31T13:02:10.170100+00:00",
+        "lease_expires_at": "2026-10-31T19:02:10.170100+00:00",
+        "run_id": "41196554990"
       }
     },
     "31551": {
@@ -9109,7 +9115,7 @@
       "last_plan": {
         "source_id": "6725476",
         "display_name": "Blue Velvet 1080p CZ Titulky",
-        "planned_at": "2026-10-31T13:02:08.649974+00:00"
+        "planned_at": "2026-10-31T13:02:10.152049+00:00"
       }
     },
     "12137": {
@@ -30317,5 +30323,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:02:08.649995+00:00"
+  "updated_at": "2026-10-31T13:02:11.159502+00:00"
 }
