@@ -10712,17 +10712,19 @@
       "attempts": []
     },
     "803": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27530102",
+          "target_video_id": "30680025",
+          "permanent": false,
+          "attempted_at": "2026-10-31T23:13:06.690747+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27530102",
         "display_name": "Despicable Me 4K CZ Titulky",
         "planned_at": "2026-10-31T22:24:00.420025+00:00"
-      },
-      "claim": {
-        "worker_id": "4a3f8700a88547d0941d27ab3a35e1ac-shard-0",
-        "claimed_at": "2026-10-31T22:24:00.465007+00:00",
-        "lease_expires_at": "2026-11-01T04:24:00.465007+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30680025",
       "prepared": {
@@ -33436,5 +33438,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T23:04:37.723325+00:00"
+  "updated_at": "2026-10-31T23:13:06.690761+00:00"
 }
