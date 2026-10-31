@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T04:57:05.650018+00:00
+Poslední aktualizace (UTC): 2026-10-31T04:57:09.793897+00:00
 
 Zkontrolováno videí: 152. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 76, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 29, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 76, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 30, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -72,6 +72,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-31T04:07:02.265922+00:00 |
 | [Icarus (2017) 1080p CZ Titulky](https://prehraj.to/icarus-2017-1080p-cz-titulky-mkv/8c5d17dd3359cee4) (ID 30643582) | [Sdílej 11690436](https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv) | target_unavailable | 2026-10-31T04:17:06.501606+00:00 |
 | [Isle of Dogs 1080p CZ Titulky](https://prehraj.to/isle-of-dogs-1080p-cz-titulky-mkv/84f1f6d5bd834f13) (ID 30651670) | [Sdílej 35402300](https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T03:56:43.525926+00:00 |
+| [Loving Vincent 1080p CZ Titulky](https://prehraj.to/loving-vincent-1080p-cz-titulky-mkv/c033099af660674a) (ID 30655366) | [Sdílej 29326786](https://sdilej.cz/29326786/s-laskou-vincent.mkv) | target_unavailable | 2026-10-31T04:57:09.793821+00:00 |
 | [Marriage Story 1080p CZ Titulky](https://prehraj.to/marriage-story-1080p-cz-titulky-mkv/bee26de64107771c) (ID 30639527) | [Sdílej 18188633](https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv) | target_unavailable | 2026-10-31T03:56:59.401471+00:00 |
 | [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-31T03:57:17.228094+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-31T03:57:25.356187+00:00 |
