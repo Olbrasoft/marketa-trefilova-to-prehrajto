@@ -2332,18 +2332,19 @@
           "reason": "Request failed for https://sdilej.cz/16781576/jursky-park.1993.2160p-cz-dabing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-29T08:49:45.241891+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16781576",
+          "target_video_id": "30677093",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:04:41.464002+00:00"
         }
       ],
       "last_plan": {
         "source_id": "16781576",
         "display_name": "Jurassic Park 4K CZ Titulky",
         "planned_at": "2026-10-31T20:08:52.788560+00:00"
-      },
-      "claim": {
-        "worker_id": "19ec9228b75546d28c44f6deef9a8e7d-shard-0",
-        "claimed_at": "2026-10-31T20:08:52.808927+00:00",
-        "lease_expires_at": "2026-11-01T02:08:52.808927+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30677093",
       "prepared": {
@@ -33047,5 +33048,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T20:50:15.060795+00:00"
+  "updated_at": "2026-10-31T21:04:41.464016+00:00"
 }
