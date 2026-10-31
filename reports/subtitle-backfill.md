@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T10:03:35.391898+00:00
+Poslední aktualizace (UTC): 2026-10-31T10:03:37.239597+00:00
 
 Zkontrolováno videí: 170. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 86, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 35, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 86, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 36, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -75,6 +75,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-31T09:34:01.475496+00:00 |
 | [Icarus (2017) 1080p CZ Titulky](https://prehraj.to/icarus-2017-1080p-cz-titulky-mkv/8c5d17dd3359cee4) (ID 30643582) | [Sdílej 11690436](https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv) | target_unavailable | 2026-10-31T09:34:20.027122+00:00 |
 | [Isle of Dogs 1080p CZ Titulky](https://prehraj.to/isle-of-dogs-1080p-cz-titulky-mkv/84f1f6d5bd834f13) (ID 30651670) | [Sdílej 35402300](https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T09:43:46.078505+00:00 |
+| [Lost in Translation 1080p CZ Titulky](https://prehraj.to/lost-in-translation-1080p-cz-titulky-mkv/64ddc86b5977d45c) (ID 30663086) | [Sdílej 31550871](https://sdilej.cz/31550871/lost.in.translation.2003.1080p.bluray.hevc.10bit.dl.dts.x265-majo.mkv) | target_unavailable | 2026-10-31T10:03:37.239502+00:00 |
 | [Loving Vincent 1080p CZ Titulky](https://prehraj.to/loving-vincent-1080p-cz-titulky-mkv/c033099af660674a) (ID 30655366) | [Sdílej 29326786](https://sdilej.cz/29326786/s-laskou-vincent.mkv) | target_unavailable | 2026-10-31T09:43:42.660064+00:00 |
 | [Marriage Story 1080p CZ Titulky](https://prehraj.to/marriage-story-1080p-cz-titulky-mkv/bee26de64107771c) (ID 30639527) | [Sdílej 18188633](https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv) | target_unavailable | 2026-10-31T09:43:53.943807+00:00 |
 | [Monster (怪物) (2023) 1080p CZ Titulky](https://prehraj.to/monster-2023-1080p-cz-titulky-mkv/bee076193ab30033) (ID 30658860) | [Sdílej 26523244](https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv) | target_unavailable | 2026-10-31T09:44:12.064982+00:00 |
