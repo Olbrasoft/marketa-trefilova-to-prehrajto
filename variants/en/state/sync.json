@@ -1946,13 +1946,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-10-31T22:12:12.901352+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-10-31T22:50:46.012067+00:00"
         },
         {
@@ -1961,6 +1954,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-10-31T23:23:07.789299+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-10-31T23:54:49.911580+00:00"
         }
       ],
       "last_plan": {
@@ -1974,12 +1974,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "5c8ebc6e159e4ab4893ee8244b4bb326-shard-0",
-        "claimed_at": "2026-10-31T23:54:47.491644+00:00",
-        "lease_expires_at": "2026-11-01T05:54:47.491644+00:00",
-        "run_id": "41243223179"
       }
     },
     "108": {
@@ -3151,7 +3145,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-10-31T23:23:09.063954+00:00"
+        "planned_at": "2026-10-31T23:54:49.192284+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3159,6 +3153,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "d44c5b09f7cd4e78b29f0175983ed9f4-shard-0",
+        "claimed_at": "2026-10-31T23:54:49.303131+00:00",
+        "lease_expires_at": "2026-11-01T05:54:49.303131+00:00",
+        "run_id": "41243223179"
       }
     },
     "31551": {
@@ -10859,7 +10859,7 @@
       "last_plan": {
         "source_id": "27106738",
         "display_name": "Saw (2004) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T23:54:47.453886+00:00"
+        "planned_at": "2026-10-31T23:54:49.265022+00:00"
       }
     },
     "755": {
@@ -33724,5 +33724,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T23:54:47.759507+00:00"
+  "updated_at": "2026-10-31T23:54:49.911596+00:00"
 }
