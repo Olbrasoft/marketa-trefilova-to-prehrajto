@@ -16579,17 +16579,19 @@
       }
     },
     "446": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30184441",
+          "target_video_id": "30665410",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:40:13.985347+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30184441",
         "display_name": "Little Women (2019) 1080p CZ Dabing",
         "planned_at": "2026-10-31T12:30:54.686487+00:00"
-      },
-      "claim": {
-        "worker_id": "20ee81c5a92143fb9b3d131c95d147d4-shard-0",
-        "claimed_at": "2026-10-31T12:30:54.759653+00:00",
-        "lease_expires_at": "2026-10-31T18:30:54.759653+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30665410",
       "prepared": {
@@ -37838,5 +37840,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:37:27.850867+00:00"
+  "updated_at": "2026-10-31T12:40:13.985362+00:00"
 }
