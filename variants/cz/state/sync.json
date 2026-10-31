@@ -12845,17 +12845,19 @@
       "attempts": []
     },
     "519": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13138718",
+          "reason": "Request failed for https://sdilej.cz/13138718/vzpominka-na-titany-remember-the-titans-2000-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:31:35.998226+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13138718",
         "display_name": "Remember the Titans SD CZ Dabing",
         "planned_at": "2026-10-31T01:30:49.752208+00:00"
-      },
-      "claim": {
-        "worker_id": "fc1082ce26554292b1ff5e184fa003cd-shard-0",
-        "claimed_at": "2026-10-31T01:30:49.857040+00:00",
-        "lease_expires_at": "2026-10-31T07:30:49.857040+00:00",
-        "run_id": "41144016453"
       }
     },
     "480": {
@@ -32986,5 +32988,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:31:34.873675+00:00"
+  "updated_at": "2026-10-31T01:31:35.998246+00:00"
 }
