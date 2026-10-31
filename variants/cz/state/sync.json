@@ -10561,13 +10561,6 @@
           "source_id": "28727379",
           "target_video_id": "30642304",
           "permanent": false,
-          "attempted_at": "2026-10-31T03:57:37.770020+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28727379",
-          "target_video_id": "30642304",
-          "permanent": false,
           "attempted_at": "2026-10-31T04:28:20.201639+00:00"
         },
         {
@@ -10576,6 +10569,13 @@
           "target_video_id": "30642304",
           "permanent": false,
           "attempted_at": "2026-10-31T05:01:58.012303+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28727379",
+          "target_video_id": "30642304",
+          "permanent": false,
+          "attempted_at": "2026-10-31T05:33:25.550192+00:00"
         }
       ],
       "last_plan": {
@@ -10589,12 +10589,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-10-30T18:53:53.431357+00:00",
         "relay_source_id": "28727379"
-      },
-      "claim": {
-        "worker_id": "f9cbed20d96649e68e64d5d1fa04b9cd-shard-0",
-        "claimed_at": "2026-10-31T05:33:24.095230+00:00",
-        "lease_expires_at": "2026-10-31T11:33:24.095230+00:00",
-        "run_id": "41164110278"
       }
     },
     "28772": {
@@ -10805,7 +10799,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-10-31T05:01:59.063975+00:00"
+        "planned_at": "2026-10-31T05:33:25.236475+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10813,6 +10807,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "436a0bc68a714ba1a2014742bc2ea96a-shard-0",
+        "claimed_at": "2026-10-31T05:33:25.388792+00:00",
+        "lease_expires_at": "2026-10-31T11:33:25.388792+00:00",
+        "run_id": "41164110278"
       }
     },
     "21748": {
@@ -14213,7 +14213,7 @@
       "last_plan": {
         "source_id": "26235503",
         "display_name": "Cosy Dens (Pelíšky) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T05:33:23.984717+00:00"
+        "planned_at": "2026-10-31T05:33:25.286570+00:00"
       }
     },
     "37489": {
@@ -34602,5 +34602,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T05:33:24.186741+00:00"
+  "updated_at": "2026-10-31T05:33:25.550210+00:00"
 }
