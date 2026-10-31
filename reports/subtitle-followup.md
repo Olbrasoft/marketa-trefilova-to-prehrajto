@@ -146,3 +146,4 @@ Attach subtitles only after target processing has finished.
 | Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Tombstone 1080p CZ Titulky | 30651900 | https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv | Extract Czech track from exact source after processing |
 | Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky | 30652651 | https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv | Extract Czech track from exact source after processing |
+| Castaway on the Moon (김씨 표류기) 1080p CZ Titulky | 30652792 | https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
