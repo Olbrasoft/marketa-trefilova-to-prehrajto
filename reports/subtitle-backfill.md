@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T20:15:03.031864+00:00
+Poslední aktualizace (UTC): 2026-10-31T20:15:06.482537+00:00
 
 Zkontrolováno videí: 205. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 90, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 64, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 90, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 65, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -86,6 +86,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 59. Důvod
 | [How to Train Your Dragon (2025) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2025-4k-cz-titulky-mkv/72c9c8b558b8b553) (ID 30670866) | [Sdílej 31527189](https://sdilej.cz/31527189/how.to.train.your.dragon-2025-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T15:09:01.945784+00:00 |
 | [Icarus (2017) 1080p CZ Titulky](https://prehraj.to/icarus-2017-1080p-cz-titulky-mkv/8c5d17dd3359cee4) (ID 30643582) | [Sdílej 11690436](https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv) | target_unavailable | 2026-10-31T10:55:52.404055+00:00 |
 | [Isle of Dogs 1080p CZ Titulky](https://prehraj.to/isle-of-dogs-1080p-cz-titulky-mkv/84f1f6d5bd834f13) (ID 30651670) | [Sdílej 35402300](https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:05:07.757086+00:00 |
+| [Jurassic Park 4K CZ Titulky](https://prehraj.to/jurassic-park-4k-cz-titulky-mkv/a055332f03f157f1) (ID 30677093) | [Sdílej 16781576](https://sdilej.cz/16781576/jursky-park.1993.2160p-cz-dabing.mkv) | target_unavailable | 2026-10-31T20:15:06.482484+00:00 |
 | [Kubo and the Two Strings 1080p CZ Titulky](https://prehraj.to/kubo-and-the-two-strings-1080p-cz-titulky-mkv/c6f8ce7090bacf3e) (ID 30669852) | [Sdílej 35402327](https://sdilej.cz/35402327/kubo.and.the.two.strings.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T14:38:21.817600+00:00 |
 | [Loving Vincent 1080p CZ Titulky](https://prehraj.to/loving-vincent-1080p-cz-titulky-mkv/c033099af660674a) (ID 30655366) | [Sdílej 29326786](https://sdilej.cz/29326786/s-laskou-vincent.mkv) | target_unavailable | 2026-10-31T11:05:04.132658+00:00 |
 | [Malcolm X 1080p CZ Titulky](https://prehraj.to/malcolm-x-1080p-cz-titulky-mkv/9319f14b90c3f912) (ID 30672234) | [Sdílej 26808273](https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv) | target_unavailable | 2026-10-31T16:10:08.190258+00:00 |
