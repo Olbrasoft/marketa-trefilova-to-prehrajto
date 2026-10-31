@@ -15725,13 +15725,6 @@
           "source_id": "32277009",
           "target_video_id": "30662658",
           "permanent": false,
-          "attempted_at": "2026-10-31T19:48:11.058384+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32277009",
-          "target_video_id": "30662658",
-          "permanent": false,
           "attempted_at": "2026-10-31T20:19:52.001436+00:00"
         },
         {
@@ -15740,6 +15733,13 @@
           "target_video_id": "30662658",
           "permanent": false,
           "attempted_at": "2026-10-31T20:49:59.138070+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32277009",
+          "target_video_id": "30662658",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:37:42.666855+00:00"
         }
       ],
       "last_plan": {
@@ -15885,17 +15885,23 @@
           "attempted_at": "2026-10-31T20:50:02.719917+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34441350",
-        "display_name": "Birdman of Alcatraz 1080p CZ Dabing",
-        "planned_at": "2026-10-31T20:50:01.702399+00:00"
-      },
       "previous_target_id": "30663153",
-      "prepared": {
+      "upload": {
         "target_video_id": "30663153",
+        "display_name": "Birdman of Alcatraz 1080p CZ Dabing",
+        "source_id": "34441350",
+        "source_url": "https://sdilej.cz/34441350/ptacnik-z-alcatrazu-1962-juraison-.mkv",
+        "source_filename": "Ptáčník z Alcatrazu (1962) [juraison+].mkv",
         "size_bytes": 2600000000,
-        "prepared_at": "2026-10-31T10:02:12.062136+00:00",
-        "relay_source_id": "34441350"
+        "width": 1792,
+        "height": 1072,
+        "audio_language": "cs",
+        "language_probability": 0.983651876449585,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/birdman-of-alcatraz-1080p-cz-dabing-mkv/bd7c5cd41304f45f",
+        "uploaded_at": "2026-10-31T21:37:42.773686+00:00"
       }
     },
     "631": {
@@ -19160,7 +19166,7 @@
       "last_plan": {
         "source_id": "34780455",
         "display_name": "Top Gear: Bolivia Special (Top Gear: The Great Adventures 3) 720p CZ Dabing",
-        "planned_at": "2026-10-31T21:37:40.180241+00:00"
+        "planned_at": "2026-10-31T21:37:41.705662+00:00"
       }
     },
     "22039": {
@@ -41745,5 +41751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:37:40.180254+00:00"
+  "updated_at": "2026-10-31T21:37:42.773698+00:00"
 }
