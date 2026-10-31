@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T00:21:53.502484+00:00
+Poslední aktualizace (UTC): 2026-10-31T00:21:55.425573+00:00
 
 Zkontrolováno videí: 137. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 59, `attached_verified`: 2, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 59, `attached_verified`: 2, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -90,6 +90,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Miracle Worker 1080p CZ Titulky](https://prehraj.to/the-miracle-worker-1080p-cz-titulky-mkv/ed71e6073aebb02d) (ID 30631145) | [Sdílej 27658195](https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv) | target_unavailable | 2026-10-31T00:01:55.736444+00:00 |
 | [The Mirror (Mirror) 1080p CZ Titulky](https://prehraj.to/the-mirror-mirror-1080p-cz-titulky-mkv/722aca69512f2375) (ID 30643725) | [Sdílej 30440919](https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv) | target_unavailable | 2026-10-30T23:14:11.499387+00:00 |
 | [The Princess Bride 1080p CZ Titulky](https://prehraj.to/the-princess-bride-1080p-cz-titulky-mkv/015727ef8d52425b) (ID 30627890) | [Sdílej 13533126](https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv) | target_unavailable | 2026-10-31T00:01:59.201126+00:00 |
+| [The Untouchables 1080p CZ Titulky](https://prehraj.to/the-untouchables-1080p-cz-titulky-mkv/93d037ed0feaff05) (ID 30649618) | [Sdílej 30833257](https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv) | target_unavailable | 2026-10-31T00:21:55.425494+00:00 |
 | [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-30T23:14:19.199535+00:00 |
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-31T00:11:39.265928+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-30T23:52:46.936257+00:00 |
