@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T16:10:06.259892+00:00
+Poslední aktualizace (UTC): 2026-10-31T16:10:08.190348+00:00
 
 Zkontrolováno videí: 183. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -82,6 +82,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 49. Důvod
 | [Isle of Dogs 1080p CZ Titulky](https://prehraj.to/isle-of-dogs-1080p-cz-titulky-mkv/84f1f6d5bd834f13) (ID 30651670) | [Sdílej 35402300](https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:05:07.757086+00:00 |
 | [Kubo and the Two Strings 1080p CZ Titulky](https://prehraj.to/kubo-and-the-two-strings-1080p-cz-titulky-mkv/c6f8ce7090bacf3e) (ID 30669852) | [Sdílej 35402327](https://sdilej.cz/35402327/kubo.and.the.two.strings.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T14:38:21.817600+00:00 |
 | [Loving Vincent 1080p CZ Titulky](https://prehraj.to/loving-vincent-1080p-cz-titulky-mkv/c033099af660674a) (ID 30655366) | [Sdílej 29326786](https://sdilej.cz/29326786/s-laskou-vincent.mkv) | target_unavailable | 2026-10-31T11:05:04.132658+00:00 |
+| [Malcolm X 1080p CZ Titulky](https://prehraj.to/malcolm-x-1080p-cz-titulky-mkv/9319f14b90c3f912) (ID 30672234) | [Sdílej 26808273](https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv) | target_unavailable | 2026-10-31T16:10:08.190258+00:00 |
 | [Mission: Impossible – Fallout (Mission: Impossible - Fallout) 1080p CZ Titulky](https://prehraj.to/mission-impossible-fallout-mission-impossible-fallout-1080p-cz-titulky-mkv/2b71d2b5e581498a) (ID 30663976) | [Sdílej 26494658](https://sdilej.cz/26494658/mission-impossible-6-fallout-2018-cz.sub.1080p.dd5.1.h264.mkv) | target_unavailable | 2026-10-31T11:04:31.790403+00:00 |
 | [Monster (怪物) (2023) 1080p CZ Titulky](https://prehraj.to/monster-2023-1080p-cz-titulky-mkv/bee076193ab30033) (ID 30658860) | [Sdílej 26523244](https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv) | target_unavailable | 2026-10-31T11:05:36.747801+00:00 |
 | [Mr. Nobody 1080p CZ Titulky](https://prehraj.to/mr-nobody-1080p-cz-titulky-mkv/c504a5cd2cfbe29b) (ID 30665814) | [Sdílej 26730074](https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv) | target_unavailable | 2026-10-31T12:56:42.217867+00:00 |
