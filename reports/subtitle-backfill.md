@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T11:05:43.623357+00:00
+Poslední aktualizace (UTC): 2026-10-31T11:05:47.241918+00:00
 
 Zkontrolováno videí: 174. Další stránka kontroly: 0.
 
@@ -67,7 +67,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [Crash (2004) 1080p CZ Titulky](https://prehraj.to/crash-2004-1080p-cz-titulky-mkv/270785241291972e) (ID 30663753) | [Sdílej 35402143](https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T10:44:12.329092+00:00 |
 | [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-31T10:55:30.524101+00:00 |
 | [Everything Everywhere All at Once 4K CZ Titulky](https://prehraj.to/everything-everywhere-all-at-once-4k-cz-titulky-mkv/c195cfe4ad1f051f) (ID 30662730) | [Sdílej 33396424](https://sdilej.cz/33396424/everything-everywhere-all-at-once-2022-.2160p-cz.tit.mkv) | target_unavailable | 2026-10-31T11:04:38.613704+00:00 |
-| [Ex Machina 1080p CZ Titulky](https://prehraj.to/ex-machina-1080p-cz-titulky-mkv/aeea5faf86a96d92) (ID 30662878) | [Sdílej 31631191](https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv) | target_unavailable | 2026-10-31T09:53:28.901807+00:00 |
+| [Ex Machina 1080p CZ Titulky](https://prehraj.to/ex-machina-1080p-cz-titulky-mkv/aeea5faf86a96d92) (ID 30662878) | [Sdílej 31631191](https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv) | target_unavailable | 2026-10-31T11:05:47.241841+00:00 |
 | [Gravity 1080p CZ Titulky](https://prehraj.to/gravity-1080p-cz-titulky-mkv/9c2c54a4072ed8f0) (ID 30661712) | [Sdílej 35402264](https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:05:43.623298+00:00 |
 | [Guardians of the Galaxy Vol. 3 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-vol-3-4k-cz-titulky-mkv/134396bccaf3cde2) (ID 30638438) | [Sdílej 26457098](https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T11:05:11.144858+00:00 |
 | [Hamnet 1080p CZ Titulky](https://prehraj.to/hamnet-1080p-cz-titulky-mkv/d04bd01b32c76a4c) (ID 30653249) | [Sdílej 32963361](https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv) | target_unavailable | 2026-10-31T10:55:23.679713+00:00 |
