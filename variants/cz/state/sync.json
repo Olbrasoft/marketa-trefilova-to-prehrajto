@@ -18242,17 +18242,19 @@
       "attempts": []
     },
     "510": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32198824",
+          "target_video_id": "30674641",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:10:04.442526+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32198824",
         "display_name": "The World's Fastest Indian 4K CZ Dabing",
         "planned_at": "2026-10-31T17:57:36.319696+00:00"
-      },
-      "claim": {
-        "worker_id": "7f3a3af0e3e8476c8f620fa57bd85c71-shard-0",
-        "claimed_at": "2026-10-31T17:57:36.390291+00:00",
-        "lease_expires_at": "2026-10-31T23:57:36.390291+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674641",
       "prepared": {
@@ -40409,5 +40411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:09:28.955284+00:00"
+  "updated_at": "2026-10-31T18:10:04.442546+00:00"
 }
