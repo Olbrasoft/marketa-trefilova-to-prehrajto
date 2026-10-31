@@ -17172,17 +17172,19 @@
       }
     },
     "23132": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18059353",
+          "target_video_id": "30669608",
+          "permanent": false,
+          "attempted_at": "2026-10-31T14:36:48.542557+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18059353",
         "display_name": "Miller's Crossing 1080p CZ Dabing",
         "planned_at": "2026-10-31T14:28:04.365502+00:00"
-      },
-      "claim": {
-        "worker_id": "56dcdfbb6cee46678c4292ed65ab9cbb-shard-0",
-        "claimed_at": "2026-10-31T14:28:04.442880+00:00",
-        "lease_expires_at": "2026-10-31T20:28:04.442880+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30669608",
       "prepared": {
@@ -38788,5 +38790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T14:35:40.074198+00:00"
+  "updated_at": "2026-10-31T14:36:48.542574+00:00"
 }
