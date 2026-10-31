@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T11:04:42.031729+00:00
+Poslední aktualizace (UTC): 2026-10-31T11:04:45.517792+00:00
 
 Zkontrolováno videí: 174. Další stránka kontroly: 0.
 
@@ -59,7 +59,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [Aguirre, the Wrath of God 1080p CZ Titulky](https://prehraj.to/aguirre-the-wrath-of-god-1080p-cz-titulky-mkv/d85609b64aedbda5) (ID 30655121) | [Sdílej 28087307](https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv) | target_unavailable | 2026-10-31T09:43:24.038573+00:00 |
+| [Aguirre, the Wrath of God 1080p CZ Titulky](https://prehraj.to/aguirre-the-wrath-of-god-1080p-cz-titulky-mkv/d85609b64aedbda5) (ID 30655121) | [Sdílej 28087307](https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv) | target_unavailable | 2026-10-31T11:04:45.517689+00:00 |
 | [All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky](https://prehraj.to/all-quiet-on-the-western-front-im-westen-nichts-neues-2022-1080p-cz-titulky-mkv/7fa567a093769446) (ID 30649851) | [Sdílej 23592768](https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv) | target_unavailable | 2026-10-31T11:04:42.031631+00:00 |
 | [Black Hawk Down 720p CZ Titulky](https://prehraj.to/black-hawk-down-720p-cz-titulky-mkv/b71b33da4bb6f0fa) (ID 30663831) | [Sdílej 32084108](https://sdilej.cz/32084108/cerny-jestrab-sestrelen-black-hawk-down.2001.720p.bluray.cz.dabing.mkv) | target_unavailable | 2026-10-31T10:54:28.270582+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T10:56:16.674570+00:00 |
