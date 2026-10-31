@@ -149,3 +149,4 @@ Attach subtitles only after target processing has finished.
 | Castaway on the Moon (김씨 표류기) 1080p CZ Titulky | 30652792 | https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Hamnet 1080p CZ Titulky | 30653249 | https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv | Extract Czech track from exact source after processing |
 | The Wind Rises (Kaze tachinu) 1080p CZ Titulky | 30653654 | https://sdilej.cz/22124732/-dragsterps-kaze-tachinu-1080p-multi-audio-multi-subs-h264-aac-21ec96d7-.mkv | Extract Czech track from exact source after processing |
+| Harold and Maude 1080p CZ Titulky | 30654323 | https://sdilej.cz/35402272/harold.and.maude.1971.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
