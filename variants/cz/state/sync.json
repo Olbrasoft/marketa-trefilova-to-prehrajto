@@ -13110,17 +13110,19 @@
       }
     },
     "12115": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29819195",
+          "target_video_id": "30651806",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:23:04.998697+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29819195",
         "display_name": "Tombstone 4K CZ Dabing",
         "planned_at": "2026-10-31T01:55:42.484444+00:00"
-      },
-      "claim": {
-        "worker_id": "d8d6c07a3ec94beb92af530006b8faf2-shard-0",
-        "claimed_at": "2026-10-31T01:55:42.595915+00:00",
-        "lease_expires_at": "2026-10-31T07:55:42.595915+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30651806",
       "prepared": {
@@ -33422,5 +33424,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:20:46.187726+00:00"
+  "updated_at": "2026-10-31T02:23:04.998712+00:00"
 }
