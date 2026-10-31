@@ -12429,17 +12429,19 @@
       "attempts": []
     },
     "25372": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32930924",
+          "reason": "Request failed for https://sdilej.cz/32930924/pycha-a-predsudek-2005-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T00:01:32.377531+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32930924",
         "display_name": "Pride & Prejudice 4K CZ Dabing",
         "planned_at": "2026-10-31T00:00:45.916515+00:00"
-      },
-      "claim": {
-        "worker_id": "4c8c0cfc72814b21887f2bfbe4f5dc89-shard-0",
-        "claimed_at": "2026-10-31T00:00:46.012519+00:00",
-        "lease_expires_at": "2026-10-31T06:00:46.012519+00:00",
-        "run_id": "41144016453"
       }
     },
     "464": {
@@ -32361,5 +32363,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:00:46.012536+00:00"
+  "updated_at": "2026-10-31T00:01:32.377545+00:00"
 }
