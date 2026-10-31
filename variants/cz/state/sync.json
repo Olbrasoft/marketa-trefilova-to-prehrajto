@@ -12390,17 +12390,19 @@
       }
     },
     "507": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23285296",
+          "target_video_id": "30649266",
+          "permanent": false,
+          "attempted_at": "2026-10-31T00:26:26.798150+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23285296",
         "display_name": "How to Train Your Dragon 2 4K CZ Dabing",
         "planned_at": "2026-10-30T23:57:38.541727+00:00"
-      },
-      "claim": {
-        "worker_id": "44ae405d38c545aa8c35f1e5339bb19b-shard-0",
-        "claimed_at": "2026-10-30T23:57:38.640212+00:00",
-        "lease_expires_at": "2026-10-31T05:57:38.640212+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30649266",
       "prepared": {
@@ -32414,5 +32416,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:13:14.271970+00:00"
+  "updated_at": "2026-10-31T00:26:26.798166+00:00"
 }
