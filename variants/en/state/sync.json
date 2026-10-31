@@ -9118,17 +9118,19 @@
       }
     },
     "11610": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6725476",
+          "target_video_id": "30665932",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:31:33.353706+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6725476",
         "display_name": "Blue Velvet 1080p CZ Titulky",
         "planned_at": "2026-10-31T13:03:01.276170+00:00"
-      },
-      "claim": {
-        "worker_id": "2da18933c7184b3187b5ab996451a0eb-shard-0",
-        "claimed_at": "2026-10-31T13:03:01.332276+00:00",
-        "lease_expires_at": "2026-10-31T19:03:01.332276+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30665932",
       "prepared": {
@@ -30571,5 +30573,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:31:30.921453+00:00"
+  "updated_at": "2026-10-31T13:31:33.353723+00:00"
 }
