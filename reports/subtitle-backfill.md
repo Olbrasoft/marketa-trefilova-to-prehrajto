@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T09:34:40.370654+00:00
+Poslední aktualizace (UTC): 2026-10-31T09:34:43.740729+00:00
 
 Zkontrolováno videí: 167. Další stránka kontroly: 0.
 
@@ -61,7 +61,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 33. Důvod
 | --- | --- | --- | --- |
 | [Aguirre, the Wrath of God 1080p CZ Titulky](https://prehraj.to/aguirre-the-wrath-of-god-1080p-cz-titulky-mkv/d85609b64aedbda5) (ID 30655121) | [Sdílej 28087307](https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv) | target_unavailable | 2026-10-31T08:22:12.643268+00:00 |
 | [All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky](https://prehraj.to/all-quiet-on-the-western-front-im-westen-nichts-neues-2022-1080p-cz-titulky-mkv/7fa567a093769446) (ID 30649851) | [Sdílej 23592768](https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv) | target_unavailable | 2026-10-31T08:22:09.166802+00:00 |
-| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T08:13:53.181626+00:00 |
+| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T09:34:43.740627+00:00 |
 | [Castaway on the Moon (김씨 표류기) 1080p CZ Titulky](https://prehraj.to/castaway-on-the-moon-1080p-cz-titulky-mkv/daaa1b9d9e299127) (ID 30652792) | [Sdílej 30614687](https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv) | target_unavailable | 2026-10-31T08:22:16.083019+00:00 |
 | [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-31T09:33:58.081644+00:00 |
 | [Gravity 1080p CZ Titulky](https://prehraj.to/gravity-1080p-cz-titulky-mkv/9c2c54a4072ed8f0) (ID 30661712) | [Sdílej 35402264](https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T08:42:25.166161+00:00 |
