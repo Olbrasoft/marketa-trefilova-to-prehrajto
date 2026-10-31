@@ -7439,11 +7439,19 @@
       "attempts": []
     },
     "10997": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30649562",
+          "reason": "Request failed for https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:54:11.575292+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30649562",
         "display_name": "Midnight Cowboy 1080p CZ Titulky",
-        "planned_at": "2026-10-31T02:53:23.538878+00:00"
+        "planned_at": "2026-10-31T02:53:25.817187+00:00"
       }
     },
     "405": {
@@ -27596,5 +27604,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:53:23.538895+00:00"
+  "updated_at": "2026-10-31T02:54:11.575310+00:00"
 }
