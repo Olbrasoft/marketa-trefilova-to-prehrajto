@@ -15264,13 +15264,6 @@
           "source_id": "31822813",
           "target_video_id": "30661006",
           "permanent": false,
-          "attempted_at": "2026-10-31T17:40:49.824144+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31822813",
-          "target_video_id": "30661006",
-          "permanent": false,
           "attempted_at": "2026-10-31T18:11:20.329017+00:00"
         },
         {
@@ -15279,6 +15272,13 @@
           "target_video_id": "30661006",
           "permanent": false,
           "attempted_at": "2026-10-31T18:44:18.026441+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31822813",
+          "target_video_id": "30661006",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:16:51.691723+00:00"
         }
       ],
       "last_plan": {
@@ -15292,12 +15292,6 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-10-31T08:11:42.896977+00:00",
         "relay_source_id": "31822813"
-      },
-      "claim": {
-        "worker_id": "8424989b066e4727a905f7fc1e1e214c-shard-0",
-        "claimed_at": "2026-10-31T19:16:49.815390+00:00",
-        "lease_expires_at": "2026-11-01T01:16:49.815390+00:00",
-        "run_id": "41219330327"
       }
     },
     "20007": {
@@ -16766,7 +16760,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-10-31T18:44:17.034942+00:00"
+        "planned_at": "2026-10-31T19:16:51.307944+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16774,6 +16768,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "02f55af5e7c9465ca2727b8ae9c8c39d-shard-0",
+        "claimed_at": "2026-10-31T19:16:51.451350+00:00",
+        "lease_expires_at": "2026-11-01T01:16:51.451350+00:00",
+        "run_id": "41219330327"
       }
     },
     "614": {
@@ -18863,7 +18863,7 @@
       "last_plan": {
         "source_id": "27954124",
         "display_name": "Eega (ఈగ) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T19:16:49.722951+00:00"
+        "planned_at": "2026-10-31T19:16:51.359412+00:00"
       }
     },
     "30936": {
@@ -41266,5 +41266,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:16:50.022654+00:00"
+  "updated_at": "2026-10-31T19:16:51.691745+00:00"
 }
