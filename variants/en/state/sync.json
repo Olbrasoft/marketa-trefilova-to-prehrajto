@@ -3527,7 +3527,7 @@
       "last_plan": {
         "source_id": "11053464",
         "display_name": "How to Train Your Dragon (2010) 4K CZ Titulky",
-        "planned_at": "2026-10-31T20:21:03.540126+00:00"
+        "planned_at": "2026-10-31T21:35:43.101254+00:00"
       },
       "previous_target_id": "30615827",
       "prepared": {
@@ -3535,6 +3535,12 @@
         "size_bytes": 10100000000,
         "prepared_at": "2026-10-29T17:59:32.832675+00:00",
         "relay_source_id": "11053464"
+      },
+      "claim": {
+        "worker_id": "06b13b2d6a6e4fb6ba02147b063894de-shard-0",
+        "claimed_at": "2026-10-31T21:35:43.206758+00:00",
+        "lease_expires_at": "2026-11-01T03:35:43.206758+00:00",
+        "run_id": "41243223179"
       }
     },
     "11423": {
@@ -9055,17 +9061,23 @@
           "attempted_at": "2026-10-31T20:21:02.177128+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30805641",
-        "display_name": "Zodiac (2007) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T21:35:41.727972+00:00"
-      },
       "previous_target_id": "30662259",
-      "prepared": {
+      "upload": {
         "target_video_id": "30662259",
+        "display_name": "Zodiac (2007) 1080p CZ Titulky",
+        "source_id": "30805641",
+        "source_url": "https://sdilej.cz/30805641/zodiac-2007-director-s-cut-en-cs-sk-en-de-cs-1080p23.976-.mkv",
+        "source_filename": "Zodiac (2007) (Director's Cut) EN CS SK EN DE CS (1080p23.976).mkv",
         "size_bytes": 7700000000,
-        "prepared_at": "2026-10-31T09:11:15.434888+00:00",
-        "relay_source_id": "30805641"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "en",
+        "language_probability": 0.9970107078552246,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/zodiac-2007-1080p-cz-titulky-mkv/973f944847e92f74",
+        "uploaded_at": "2026-10-31T21:35:43.802259+00:00"
       }
     },
     "651": {
@@ -10628,7 +10640,7 @@
       "last_plan": {
         "source_id": "27530102",
         "display_name": "Despicable Me 4K CZ Titulky",
-        "planned_at": "2026-10-31T21:35:41.798173+00:00"
+        "planned_at": "2026-10-31T21:35:43.171746+00:00"
       }
     },
     "817": {
@@ -33143,5 +33155,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:35:41.798182+00:00"
+  "updated_at": "2026-10-31T21:35:43.802279+00:00"
 }
