@@ -218,3 +218,4 @@ Attach subtitles only after target processing has finished.
 | Corpus Christi (Boże Ciało) 1080p CZ Titulky | 30676979 | https://sdilej.cz/27515642/corpus.christi.2019.1080p.cz-sk-sub.mkv | Extract Czech track from exact source after processing |
 | Despicable Me 4K CZ Titulky | 30680025 | https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv | Extract Czech track from exact source after processing |
 | Minority Report 1080p CZ Titulky | 30680415 | https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Fury (2014) 1080p CZ Titulky | 30680601 | https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
