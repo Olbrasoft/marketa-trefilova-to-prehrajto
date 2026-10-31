@@ -15702,7 +15702,7 @@
       "last_plan": {
         "source_id": "33266274",
         "display_name": "Argo 1080p CZ Dabing",
-        "planned_at": "2026-10-31T18:44:10.933556+00:00"
+        "planned_at": "2026-10-31T19:16:46.446259+00:00"
       },
       "previous_target_id": "30662445",
       "prepared": {
@@ -15710,6 +15710,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-31T09:23:13.457914+00:00",
         "relay_source_id": "33266274"
+      },
+      "claim": {
+        "worker_id": "bc3d73f9b80b42cfbfe16903364e14e1-shard-0",
+        "claimed_at": "2026-10-31T19:16:46.597077+00:00",
+        "lease_expires_at": "2026-11-01T01:16:46.597077+00:00",
+        "run_id": "41219330327"
       }
     },
     "555": {
@@ -16076,13 +16082,6 @@
           "source_id": "34269610",
           "target_video_id": "30663755",
           "permanent": false,
-          "attempted_at": "2026-10-31T17:40:40.699678+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34269610",
-          "target_video_id": "30663755",
-          "permanent": false,
           "attempted_at": "2026-10-31T18:11:08.851862+00:00"
         },
         {
@@ -16091,6 +16090,13 @@
           "target_video_id": "30663755",
           "permanent": false,
           "attempted_at": "2026-10-31T18:44:06.911970+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34269610",
+          "target_video_id": "30663755",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:16:46.676687+00:00"
         }
       ],
       "last_plan": {
@@ -16104,12 +16110,6 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-10-31T10:43:35.930482+00:00",
         "relay_source_id": "34269610"
-      },
-      "claim": {
-        "worker_id": "a48dff8b32b648a2b17c5fe0ab4e3e51-shard-0",
-        "claimed_at": "2026-10-31T19:16:43.609336+00:00",
-        "lease_expires_at": "2026-11-01T01:16:43.609336+00:00",
-        "run_id": "41219330327"
       }
     },
     "35365": {
@@ -18863,7 +18863,7 @@
       "last_plan": {
         "source_id": "27954124",
         "display_name": "Eega (ఈగ) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T19:16:43.518422+00:00"
+        "planned_at": "2026-10-31T19:16:46.497042+00:00"
       }
     },
     "30936": {
@@ -41266,5 +41266,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:16:43.863524+00:00"
+  "updated_at": "2026-10-31T19:16:46.676711+00:00"
 }
