@@ -8158,17 +8158,19 @@
       "attempts": []
     },
     "35325": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30611137",
+          "target_video_id": "30659023",
+          "permanent": false,
+          "attempted_at": "2026-10-31T06:56:54.146140+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30611137",
         "display_name": "Earth 1080p CZ Titulky",
         "planned_at": "2026-10-31T06:51:22.921120+00:00"
-      },
-      "claim": {
-        "worker_id": "8724f37472a8456ea95fa00328a0f255-shard-0",
-        "claimed_at": "2026-10-31T06:51:22.946420+00:00",
-        "lease_expires_at": "2026-10-31T12:51:22.946420+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30659023",
       "prepared": {
@@ -28604,5 +28606,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:51:27.005529+00:00"
+  "updated_at": "2026-10-31T06:56:54.146155+00:00"
 }
