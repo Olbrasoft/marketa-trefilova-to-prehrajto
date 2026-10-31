@@ -19385,17 +19385,19 @@
       "attempts": []
     },
     "731": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34799642",
+          "target_video_id": "30679593",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:11:20.188046+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34799642",
         "display_name": "Once Upon a Time in Hollywood (Once Upon a Time... in Hollywood) 4K CZ Dabing",
         "planned_at": "2026-10-31T21:50:22.215948+00:00"
-      },
-      "claim": {
-        "worker_id": "d7b39ce71a3b4fe2afed6573a0578cc3-shard-0",
-        "claimed_at": "2026-10-31T21:50:22.351378+00:00",
-        "lease_expires_at": "2026-11-01T03:50:22.351378+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679593",
       "prepared": {
@@ -41970,5 +41972,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:04:41.864528+00:00"
+  "updated_at": "2026-10-31T22:11:20.188062+00:00"
 }
