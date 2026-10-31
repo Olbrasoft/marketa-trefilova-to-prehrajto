@@ -1075,13 +1075,6 @@
     "56": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "27736094",
-          "reason": "Request failed for https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-28T16:30:55.016637+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "27736094",
           "target_video_id": "30675758",
@@ -1094,12 +1087,19 @@
           "target_video_id": "30675758",
           "permanent": false,
           "attempted_at": "2026-10-31T19:47:27.031155+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27736094",
+          "target_video_id": "30675758",
+          "permanent": false,
+          "attempted_at": "2026-10-31T20:19:06.975792+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27736094",
         "display_name": "Parasite (기생충) (2019) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T19:47:25.934940+00:00"
+        "planned_at": "2026-10-31T20:19:06.031878+00:00"
       },
       "previous_target_id": "30675758",
       "prepared": {
@@ -2476,8 +2476,8 @@
       ],
       "last_plan": {
         "source_id": "30945062",
-        "display_name": "Snatch CZ Titulky",
-        "planned_at": "2026-10-29T09:56:30.325215+00:00"
+        "display_name": "Snatch 1080p CZ Titulky",
+        "planned_at": "2026-10-31T20:19:06.083953+00:00"
       }
     },
     "19772": {
@@ -32738,5 +32738,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T20:19:04.278975+00:00"
+  "updated_at": "2026-10-31T20:19:06.975808+00:00"
 }
