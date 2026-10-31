@@ -18417,17 +18417,19 @@
       "attempts": []
     },
     "22260": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29788946",
+          "target_video_id": "30674971",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:29:25.165241+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29788946",
         "display_name": "The Man Who Would Be King 1080p CZ Dabing",
         "planned_at": "2026-10-31T18:20:50.728623+00:00"
-      },
-      "claim": {
-        "worker_id": "1c81322f93cf4fab91daa4d9ea739181-shard-0",
-        "claimed_at": "2026-10-31T18:20:50.790023+00:00",
-        "lease_expires_at": "2026-11-01T00:20:50.790023+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674971",
       "prepared": {
@@ -40761,5 +40763,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:23:40.318429+00:00"
+  "updated_at": "2026-10-31T18:29:25.165253+00:00"
 }
