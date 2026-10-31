@@ -15445,17 +15445,19 @@
       }
     },
     "634": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34454761",
+          "target_video_id": "30662000",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:08:24.373027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34454761",
         "display_name": "Birdman (Birdman or (The Unexpected Virtue of Ignorance)) 1080p CZ Dabing",
         "planned_at": "2026-10-31T08:57:07.935506+00:00"
-      },
-      "claim": {
-        "worker_id": "48fc077399824923822c346b25587631-shard-0",
-        "claimed_at": "2026-10-31T08:57:08.052320+00:00",
-        "lease_expires_at": "2026-10-31T14:57:08.052320+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30662000",
       "prepared": {
@@ -36074,5 +36076,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:00:39.619956+00:00"
+  "updated_at": "2026-10-31T09:08:24.373044+00:00"
 }
