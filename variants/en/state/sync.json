@@ -9219,17 +9219,19 @@
       "attempts": []
     },
     "589": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22988860",
+          "target_video_id": "30668869",
+          "permanent": false,
+          "attempted_at": "2026-10-31T14:35:30.446283+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22988860",
         "display_name": "Ray 1080p CZ Titulky",
         "planned_at": "2026-10-31T13:43:53.567659+00:00"
-      },
-      "claim": {
-        "worker_id": "34a9cdb336fa442fb7c08cf7aef38151-shard-0",
-        "claimed_at": "2026-10-31T13:43:53.585271+00:00",
-        "lease_expires_at": "2026-10-31T19:43:53.585271+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30668869",
       "prepared": {
@@ -30840,5 +30842,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T14:28:04.423039+00:00"
+  "updated_at": "2026-10-31T14:35:30.446300+00:00"
 }
