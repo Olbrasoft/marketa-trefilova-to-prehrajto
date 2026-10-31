@@ -6317,13 +6317,6 @@
           "source_id": "30773956",
           "target_video_id": "30643106",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:46:56.444563+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30773956",
-          "target_video_id": "30643106",
-          "permanent": false,
           "attempted_at": "2026-10-31T02:17:30.283759+00:00"
         },
         {
@@ -6332,6 +6325,13 @@
           "target_video_id": "30643106",
           "permanent": false,
           "attempted_at": "2026-10-31T02:50:24.810984+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30773956",
+          "target_video_id": "30643106",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:22:31.657453+00:00"
         }
       ],
       "last_plan": {
@@ -6345,12 +6345,6 @@
         "size_bytes": 7200000000,
         "prepared_at": "2026-10-30T19:39:15.976482+00:00",
         "relay_source_id": "30773956"
-      },
-      "claim": {
-        "worker_id": "7b5d05adc9074bdf972f7db213dc3087-shard-0",
-        "claimed_at": "2026-10-31T03:22:29.964087+00:00",
-        "lease_expires_at": "2026-10-31T09:22:29.964087+00:00",
-        "run_id": "41144016453"
       }
     },
     "28372": {
@@ -6404,7 +6398,7 @@
       "last_plan": {
         "source_id": "12845023",
         "display_name": "Togo 1080p CZ Titulky",
-        "planned_at": "2026-10-31T02:50:24.056144+00:00"
+        "planned_at": "2026-10-31T03:22:31.402972+00:00"
       },
       "previous_target_id": "30643515",
       "prepared": {
@@ -6412,6 +6406,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-10-30T19:58:02.071577+00:00",
         "relay_source_id": "12845023"
+      },
+      "claim": {
+        "worker_id": "205cbbe254c14bb98492131793b602c9-shard-0",
+        "claimed_at": "2026-10-31T03:22:31.490360+00:00",
+        "lease_expires_at": "2026-10-31T09:22:31.490360+00:00",
+        "run_id": "41144016453"
       }
     },
     "18694": {
@@ -7526,7 +7526,7 @@
       "last_plan": {
         "source_id": "22124732",
         "display_name": "The Wind Rises (Kaze tachinu) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T03:22:29.934584+00:00"
+        "planned_at": "2026-10-31T03:22:31.460925+00:00"
       }
     },
     "23977": {
@@ -27733,5 +27733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:22:30.126715+00:00"
+  "updated_at": "2026-10-31T03:22:31.657470+00:00"
 }
