@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T11:05:25.520588+00:00
+Poslední aktualizace (UTC): 2026-10-31T11:05:29.716825+00:00
 
 Zkontrolováno videí: 174. Další stránka kontroly: 0.
 
@@ -81,7 +81,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [Loving Vincent 1080p CZ Titulky](https://prehraj.to/loving-vincent-1080p-cz-titulky-mkv/c033099af660674a) (ID 30655366) | [Sdílej 29326786](https://sdilej.cz/29326786/s-laskou-vincent.mkv) | target_unavailable | 2026-10-31T11:05:04.132658+00:00 |
 | [Mission: Impossible – Fallout (Mission: Impossible - Fallout) 1080p CZ Titulky](https://prehraj.to/mission-impossible-fallout-mission-impossible-fallout-1080p-cz-titulky-mkv/2b71d2b5e581498a) (ID 30663976) | [Sdílej 26494658](https://sdilej.cz/26494658/mission-impossible-6-fallout-2018-cz.sub.1080p.dd5.1.h264.mkv) | target_unavailable | 2026-10-31T11:04:31.790403+00:00 |
 | [Monster (怪物) (2023) 1080p CZ Titulky](https://prehraj.to/monster-2023-1080p-cz-titulky-mkv/bee076193ab30033) (ID 30658860) | [Sdílej 26523244](https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv) | target_unavailable | 2026-10-31T09:44:12.064982+00:00 |
-| [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-31T09:44:05.361188+00:00 |
+| [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-31T11:05:29.716737+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-10-31T10:55:16.817843+00:00 |
 | [Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky](https://prehraj.to/society-of-the-snow-la-sociedad-de-la-nieve-1080p-cz-titulky-mkv/1f528cd767b13fc5) (ID 30652651) | [Sdílej 27805228](https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv) | target_unavailable | 2026-10-31T11:04:35.176075+00:00 |
 | [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-31T10:55:55.986959+00:00 |
