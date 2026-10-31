@@ -19359,17 +19359,19 @@
       }
     },
     "19051": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14606682",
+          "target_video_id": "30679592",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:04:34.857522+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14606682",
         "display_name": "Diego Maradona 1080p CZ Dabing",
         "planned_at": "2026-10-31T21:50:19.218451+00:00"
-      },
-      "claim": {
-        "worker_id": "42319a9e47404875b477a03a34f49d3b-shard-0",
-        "claimed_at": "2026-10-31T21:50:20.725966+00:00",
-        "lease_expires_at": "2026-11-01T03:50:20.725966+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679592",
       "prepared": {
@@ -41950,5 +41952,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:53:44.468162+00:00"
+  "updated_at": "2026-10-31T22:04:34.857536+00:00"
 }
