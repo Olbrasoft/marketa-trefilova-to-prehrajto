@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T01:53:51.229958+00:00
+Poslední aktualizace (UTC): 2026-10-31T01:53:54.794617+00:00
 
 Zkontrolováno videí: 140. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 61, `attached_verified`: 3, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 35, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 62, `attached_verified`: 3, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 34, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -95,7 +95,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Walk the Line 1080p CZ Titulky](https://prehraj.to/walk-the-line-1080p-cz-titulky-mkv/0ffc5079d005c129) (ID 30650875) | [Sdílej 6489245](https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-31T01:22:44.639425+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-31T00:53:53.982626+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-31T01:03:15.816787+00:00 |
-| [Zootopia 1080p CZ Titulky](https://prehraj.to/zootopia-1080p-cz-titulky-mkv/56616e1801d6278d) (ID 30627325) | [Sdílej 33063690](https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv) | target_unavailable | 2026-10-31T00:53:32.435856+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
