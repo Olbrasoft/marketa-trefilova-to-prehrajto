@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T00:53:53.982703+00:00
+Poslední aktualizace (UTC): 2026-10-31T00:53:57.421283+00:00
 
 Zkontrolováno videí: 138. Další stránka kontroly: 0.
 
@@ -78,7 +78,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Magnolia 1080p CZ Titulky](https://prehraj.to/magnolia-1080p-cz-titulky-mkv/febecb20d8966533) (ID 30628484) | [Sdílej 9846860](https://sdilej.cz/9846860/magnolia-cz-dabing.mkv) | target_unavailable | 2026-10-31T00:01:38.095624+00:00 |
 | [Marriage Story 1080p CZ Titulky](https://prehraj.to/marriage-story-1080p-cz-titulky-mkv/bee26de64107771c) (ID 30639527) | [Sdílej 18188633](https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv) | target_unavailable | 2026-10-31T00:53:25.749296+00:00 |
 | [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-31T00:53:50.503832+00:00 |
-| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-30T23:52:50.367172+00:00 |
+| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-31T00:53:57.421208+00:00 |
 | [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-31T00:11:46.274984+00:00 |
 | [Spider-Man: Brand New Day 1440p CZ Titulky](https://prehraj.to/spider-man-brand-new-day-1440p-cz-titulky-mkv/95c954bea7a30666) (ID 30628930) | [Sdílej 35246502](https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T00:53:22.285233+00:00 |
 | [Strangers on a Train 1080p CZ Titulky](https://prehraj.to/strangers-on-a-train-1080p-cz-titulky-mkv/13df8be22e67b465) (ID 30641584) | [Sdílej 18087403](https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv) | source_unavailable | 2026-10-31T00:53:08.224152+00:00 |
