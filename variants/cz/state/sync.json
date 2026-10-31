@@ -8474,7 +8474,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-10-31T02:18:48.632434+00:00"
+        "planned_at": "2026-10-31T02:51:16.512861+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8482,6 +8482,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "745ffb68ecff40a9a1bb068372daa5ce-shard-0",
+        "claimed_at": "2026-10-31T02:51:16.683448+00:00",
+        "lease_expires_at": "2026-10-31T08:51:16.683448+00:00",
+        "run_id": "41144016453"
       }
     },
     "29922": {
@@ -11708,13 +11714,6 @@
           "source_id": "14820817",
           "target_video_id": "30645740",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:13:02.931953+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14820817",
-          "target_video_id": "30645740",
-          "permanent": false,
           "attempted_at": "2026-10-31T01:48:18.640155+00:00"
         },
         {
@@ -11723,6 +11722,13 @@
           "target_video_id": "30645740",
           "permanent": false,
           "attempted_at": "2026-10-31T02:18:47.533415+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14820817",
+          "target_video_id": "30645740",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:51:16.930767+00:00"
         }
       ],
       "last_plan": {
@@ -11736,12 +11742,6 @@
         "size_bytes": 17200000000,
         "prepared_at": "2026-10-30T21:33:04.586295+00:00",
         "relay_source_id": "14820817"
-      },
-      "claim": {
-        "worker_id": "7775fad4e3774b559019e41ba392b0b4-shard-0",
-        "claimed_at": "2026-10-31T02:51:15.207310+00:00",
-        "lease_expires_at": "2026-10-31T08:51:15.207310+00:00",
-        "run_id": "41144016453"
       }
     },
     "488": {
@@ -13424,7 +13424,7 @@
       "last_plan": {
         "source_id": "29464604",
         "display_name": "Dawn of the Dead (1978) 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:51:15.097081+00:00"
+        "planned_at": "2026-10-31T02:51:16.581178+00:00"
       }
     },
     "11475": {
@@ -33583,5 +33583,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:51:15.413330+00:00"
+  "updated_at": "2026-10-31T02:51:16.930784+00:00"
 }
