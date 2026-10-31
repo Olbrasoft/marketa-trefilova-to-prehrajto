@@ -13154,21 +13154,34 @@
       }
     },
     "23064": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33786339",
+          "reason": "Request failed for https://sdilej.cz/33786339/kiki-s-delivery-service-dorucovaci-sluzba-carodejky-kiki-4k-uhd-jap-en-cz-dab-rebelant.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:20:07.342453+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33786339",
         "display_name": "Kiki's Delivery Service 4K CZ Dabing",
         "planned_at": "2026-10-31T02:19:21.530698+00:00"
-      },
-      "claim": {
-        "worker_id": "1180ab8e80944e158609b198c4e22a43-shard-0",
-        "claimed_at": "2026-10-31T02:19:21.645430+00:00",
-        "lease_expires_at": "2026-10-31T08:19:21.645430+00:00",
-        "run_id": "41144016453"
       }
     },
     "23493": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32925655",
+        "display_name": "Ed Wood 1080p CZ Dabing",
+        "planned_at": "2026-10-31T02:19:55.675760+00:00"
+      },
+      "claim": {
+        "worker_id": "1ae211ef559049fab04a5fdf3bb476d8-shard-0",
+        "claimed_at": "2026-10-31T02:19:55.776838+00:00",
+        "lease_expires_at": "2026-10-31T08:19:55.776838+00:00",
+        "run_id": "41144016453"
+      }
     },
     "478": {
       "attempts": []
@@ -33371,5 +33384,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:19:51.530767+00:00"
+  "updated_at": "2026-10-31T02:20:07.342471+00:00"
 }
