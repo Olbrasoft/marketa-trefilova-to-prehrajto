@@ -13555,17 +13555,19 @@
       }
     },
     "11766": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33687168",
+          "target_video_id": "30653457",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:21:25.179444+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33687168",
         "display_name": "Mississippi Burning 1080p CZ Dabing",
         "planned_at": "2026-10-31T03:12:21.730955+00:00"
-      },
-      "claim": {
-        "worker_id": "a1f5ef4d918e4416bba835f52701dafe-shard-0",
-        "claimed_at": "2026-10-31T03:12:21.841997+00:00",
-        "lease_expires_at": "2026-10-31T09:12:21.841997+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30653457",
       "prepared": {
@@ -33734,5 +33736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:15:41.843365+00:00"
+  "updated_at": "2026-10-31T03:21:25.179464+00:00"
 }
