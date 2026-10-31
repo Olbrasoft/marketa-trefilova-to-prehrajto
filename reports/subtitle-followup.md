@@ -95,10 +95,10 @@ Attach subtitles only after target processing has finished.
 | Guardians of the Galaxy 4K CZ Titulky | 30623940 | https://sdilej.cz/27579007/strazci-galaxie-1-2014-2160p.mkv | Complete: Czech subtitles verified |
 | Apollo 11 4K CZ Titulky | 30624527 | https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv | Complete: Czech subtitles verified |
 | The Revenant 720p CZ Titulky | 30625206 | https://sdilej.cz/22183177/the-revenant-2015-720p-en-cz-titulky-marcelcu.mkv | Complete: Czech subtitles verified |
-| Donnie Darko 4K CZ Titulky | 30625425 | https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| Donnie Darko 4K CZ Titulky | 30625425 | https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv | Complete: Czech subtitles verified |
 | Black Swan 1080p CZ Titulky | 30625850 | https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv | Extract Czech track from exact source after processing |
 | Sin City 1080p CZ Titulky | 30626361 | https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv | Complete: Czech subtitles verified |
-| Into the Wild 1080p CZ Titulky | 30626855 | https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv | Extract Czech track from exact source after processing |
+| Into the Wild 1080p CZ Titulky | 30626855 | https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv | Complete: Czech subtitles verified |
 | Zootopia 1080p CZ Titulky | 30627325 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Complete: Czech subtitles verified |
 | Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky | 30627689 | https://sdilej.cz/35036692/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo.mkv | Complete: Czech subtitles verified |
 | Aladdin (1992) 1080p CZ Titulky | 30627809 | https://sdilej.cz/15881813/aladdin.1992-cz.mkv | Complete: Czech subtitles verified |
@@ -108,9 +108,9 @@ Attach subtitles only after target processing has finished.
 | Rosemary's Baby 4K CZ Titulky | 30629227 | https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv | Extract Czech track from exact source after processing |
 | CODA 4K CZ Titulky | 30629619 | https://sdilej.cz/23547476/coda-2021-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv | Complete: Czech subtitles verified |
 | Stalker (Сталкер) (1979) 1080p CZ Titulky | 30630550 | https://sdilej.cz/29472972/stalker-1979-rus.-cz-titulky-remaster..mkv | Complete: Czech subtitles verified |
-| Elite Squad: The Enemy Within 1080p CZ Titulky | 30630934 | https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv | Extract Czech track from exact source after processing |
-| The Ascent 1080p CZ Titulky | 30631012 | https://sdilej.cz/33856188/300-vzestup-rise.mp4 | Extract Czech track from exact source after processing |
-| The Miracle Worker 1080p CZ Titulky | 30631145 | https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv | Extract Czech track from exact source after processing |
+| Elite Squad: The Enemy Within 1080p CZ Titulky | 30630934 | https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv | Complete: Czech subtitles verified |
+| The Ascent 1080p CZ Titulky | 30631012 | https://sdilej.cz/33856188/300-vzestup-rise.mp4 | Complete: Czech subtitles verified |
+| The Miracle Worker 1080p CZ Titulky | 30631145 | https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv | Complete: Czech subtitles verified |
 | Going Clear: Scientology, Hollywood, and the Prison of Belief (Going Clear: Scientology and the Prison of Belief) 720p CZ Titulky | 30631572 | https://sdilej.cz/6560926/going-clear-scientology-and-the-prison-of-belief-2015-.720p.hdtv.x264-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Taegukgi (태극기 휘날리며) 720p CZ Titulky | 30631676 | https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Iron Man 1080p CZ Titulky | 30632045 | https://sdilej.cz/35296917/iron-man.mkv | Complete: Czech subtitles verified |
@@ -144,6 +144,7 @@ Attach subtitles only after target processing has finished.
 | All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Walk the Line 1080p CZ Titulky | 30650875 | https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Tombstone 1080p CZ Titulky | 30651900 | https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv | Extract Czech track from exact source after processing |
+| Tombstone 1080p CZ Titulky | 30651900 | https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
 | Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky | 30652651 | https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv | Extract Czech track from exact source after processing |
 | Castaway on the Moon (김씨 표류기) 1080p CZ Titulky | 30652792 | https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Hamnet 1080p CZ Titulky | 30653249 | https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv | Extract Czech track from exact source after processing |
