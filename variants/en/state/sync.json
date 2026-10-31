@@ -8256,17 +8256,19 @@
       "attempts": []
     },
     "14987": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35372610",
+          "target_video_id": "30659487",
+          "permanent": false,
+          "attempted_at": "2026-10-31T07:24:09.738857+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35372610",
         "display_name": "Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky",
         "planned_at": "2026-10-31T07:11:19.199870+00:00"
-      },
-      "claim": {
-        "worker_id": "f5958dd1608f4f4784072517165db6fe-shard-0",
-        "claimed_at": "2026-10-31T07:11:19.224850+00:00",
-        "lease_expires_at": "2026-10-31T13:11:19.224850+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30659487",
       "prepared": {
@@ -28818,5 +28820,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T07:24:00.702232+00:00"
+  "updated_at": "2026-10-31T07:24:09.738873+00:00"
 }
