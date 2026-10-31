@@ -182,3 +182,4 @@ Attach subtitles only after target processing has finished.
 | Gattaca 1080p CZ Titulky | 30664643 | https://sdilej.cz/35402244/gattaca.1997.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Mr. Nobody 1080p CZ Titulky | 30665814 | https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv | Extract Czech track from exact source after processing |
 | Blue Velvet 1080p CZ Titulky | 30665932 | https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| The Trial of the Chicago 7 1080p CZ Titulky | 30668595 | https://sdilej.cz/14351127/the.trial.of.the.chicago.7.2020.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
