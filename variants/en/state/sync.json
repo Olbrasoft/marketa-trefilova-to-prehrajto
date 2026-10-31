@@ -2801,13 +2801,6 @@
           "source_id": "33590630",
           "target_video_id": "30612365",
           "permanent": false,
-          "attempted_at": "2026-10-31T14:41:08.381479+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33590630",
-          "target_video_id": "30612365",
-          "permanent": false,
           "attempted_at": "2026-10-31T15:21:23.692119+00:00"
         },
         {
@@ -2816,6 +2809,13 @@
           "target_video_id": "30612365",
           "permanent": false,
           "attempted_at": "2026-10-31T16:00:29.593629+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33590630",
+          "target_video_id": "30612365",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:03:06.246162+00:00"
         }
       ],
       "last_plan": {
@@ -2829,12 +2829,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
-      },
-      "claim": {
-        "worker_id": "eab49cbe53ca4c41a81645b4a4b40cd1-shard-0",
-        "claimed_at": "2026-10-31T17:02:59.279587+00:00",
-        "lease_expires_at": "2026-10-31T23:02:59.279587+00:00",
-        "run_id": "41219330327"
       }
     },
     "21312": {
@@ -7185,7 +7179,7 @@
       "last_plan": {
         "source_id": "23592768",
         "display_name": "All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T16:00:36.396347+00:00"
+        "planned_at": "2026-10-31T17:03:05.052558+00:00"
       },
       "previous_target_id": "30649851",
       "prepared": {
@@ -7193,6 +7187,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-10-31T00:30:58.176253+00:00",
         "relay_source_id": "23592768"
+      },
+      "claim": {
+        "worker_id": "ba4717d0c21243ddaadb578fd9fcede7-shard-0",
+        "claimed_at": "2026-10-31T17:03:05.110147+00:00",
+        "lease_expires_at": "2026-10-31T23:03:05.110147+00:00",
+        "run_id": "41219330327"
       }
     },
     "37492": {
@@ -9450,7 +9450,7 @@
       "last_plan": {
         "source_id": "24371035",
         "display_name": "My Fair Lady 1080p CZ Titulky",
-        "planned_at": "2026-10-31T17:03:00.986028+00:00"
+        "planned_at": "2026-10-31T17:03:05.090936+00:00"
       }
     },
     "28204": {
@@ -31416,5 +31416,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:03:02.165656+00:00"
+  "updated_at": "2026-10-31T17:03:06.246182+00:00"
 }
