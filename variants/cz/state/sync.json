@@ -19164,17 +19164,19 @@
       "attempts": []
     },
     "27344": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34780455",
+          "target_video_id": "30679420",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:42:23.621555+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34780455",
         "display_name": "Top Gear: Bolivia Special (Top Gear: The Great Adventures 3) 720p CZ Dabing",
         "planned_at": "2026-10-31T21:38:22.679431+00:00"
-      },
-      "claim": {
-        "worker_id": "6111f732d4f948c0832e43f0cb3890c5-shard-0",
-        "claimed_at": "2026-10-31T21:38:22.820343+00:00",
-        "lease_expires_at": "2026-11-01T03:38:22.820343+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679420",
       "prepared": {
@@ -41797,5 +41799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:40:38.693924+00:00"
+  "updated_at": "2026-10-31T21:42:23.621569+00:00"
 }
