@@ -16754,17 +16754,19 @@
       "attempts": []
     },
     "11610": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32964795",
+          "target_video_id": "30665818",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:08:53.387939+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32964795",
         "display_name": "Blue Velvet 4K CZ Dabing",
         "planned_at": "2026-10-31T12:55:03.063852+00:00"
-      },
-      "claim": {
-        "worker_id": "69c9045a9d554b809f7961c7439a8a74-shard-0",
-        "claimed_at": "2026-10-31T12:55:03.132209+00:00",
-        "lease_expires_at": "2026-10-31T18:55:03.132209+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30665818",
       "prepared": {
@@ -37997,5 +37999,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:04:07.755239+00:00"
+  "updated_at": "2026-10-31T13:08:53.387959+00:00"
 }
