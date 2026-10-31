@@ -6161,13 +6161,6 @@
     "352": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30673514",
-          "reason": "Request failed for https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-30T15:41:19.011333+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30673514",
           "target_video_id": "30678189",
@@ -6180,12 +6173,19 @@
           "target_video_id": "30678189",
           "permanent": false,
           "attempted_at": "2026-10-31T21:53:38.064982+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30673514",
+          "target_video_id": "30678189",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:23:49.471414+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30673514",
         "display_name": "Zack Snyder's Justice League 1080p CZ Titulky",
-        "planned_at": "2026-10-31T21:53:36.844800+00:00"
+        "planned_at": "2026-10-31T22:23:48.198882+00:00"
       },
       "previous_target_id": "30678189",
       "prepared": {
@@ -10710,7 +10710,7 @@
       "last_plan": {
         "source_id": "27530102",
         "display_name": "Despicable Me 4K CZ Titulky",
-        "planned_at": "2026-10-31T22:18:11.710588+00:00"
+        "planned_at": "2026-10-31T22:23:48.281961+00:00"
       }
     },
     "817": {
@@ -33402,5 +33402,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:18:11.710620+00:00"
+  "updated_at": "2026-10-31T22:23:49.471431+00:00"
 }
