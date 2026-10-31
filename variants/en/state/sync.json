@@ -1961,18 +1961,19 @@
           "reason": "Request failed for https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-29T03:00:16.520207+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:26:50.088700+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22817696",
         "display_name": "Requiem for a Dream 1080p CZ Titulky",
         "planned_at": "2026-10-31T19:23:33.756555+00:00"
-      },
-      "claim": {
-        "worker_id": "7055ea5237fc48c0a02788fe5d5444e3-shard-0",
-        "claimed_at": "2026-10-31T19:23:33.777640+00:00",
-        "lease_expires_at": "2026-11-01T01:23:33.777640+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30676098",
       "prepared": {
@@ -32583,5 +32584,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:23:37.195566+00:00"
+  "updated_at": "2026-10-31T19:26:50.088718+00:00"
 }
