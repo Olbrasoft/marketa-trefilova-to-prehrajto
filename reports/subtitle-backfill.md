@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T13:47:31.006000+00:00
+Poslední aktualizace (UTC): 2026-10-31T13:47:32.648979+00:00
 
 Zkontrolováno videí: 180. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 43, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 44, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -84,6 +84,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 | [Monster (怪物) (2023) 1080p CZ Titulky](https://prehraj.to/monster-2023-1080p-cz-titulky-mkv/bee076193ab30033) (ID 30658860) | [Sdílej 26523244](https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv) | target_unavailable | 2026-10-31T11:05:36.747801+00:00 |
 | [Mr. Nobody 1080p CZ Titulky](https://prehraj.to/mr-nobody-1080p-cz-titulky-mkv/c504a5cd2cfbe29b) (ID 30665814) | [Sdílej 26730074](https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv) | target_unavailable | 2026-10-31T12:56:42.217867+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-10-31T11:14:36.884513+00:00 |
+| [Ray 1080p CZ Titulky](https://prehraj.to/ray-1080p-cz-titulky-mkv/d61b67232a83b5aa) (ID 30668869) | [Sdílej 22988860](https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv) | target_unavailable | 2026-10-31T13:47:32.648879+00:00 |
 | [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-31T11:05:29.716737+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-10-31T10:55:16.817843+00:00 |
 | [Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky](https://prehraj.to/society-of-the-snow-la-sociedad-de-la-nieve-1080p-cz-titulky-mkv/1f528cd767b13fc5) (ID 30652651) | [Sdílej 27805228](https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv) | target_unavailable | 2026-10-31T11:04:35.176075+00:00 |
