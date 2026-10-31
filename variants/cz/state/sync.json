@@ -15247,17 +15247,19 @@
       }
     },
     "653": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30990947",
+          "target_video_id": "30661225",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:35:00.773040+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30990947",
         "display_name": "The Hangover 4K CZ Dabing",
         "planned_at": "2026-10-31T08:20:18.605268+00:00"
-      },
-      "claim": {
-        "worker_id": "91538f3f495e4520af285c80cb4f4b7a-shard-0",
-        "claimed_at": "2026-10-31T08:20:18.719528+00:00",
-        "lease_expires_at": "2026-10-31T14:20:18.719528+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30661225",
       "prepared": {
@@ -35908,5 +35910,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:34:44.029552+00:00"
+  "updated_at": "2026-10-31T08:35:00.773058+00:00"
 }
