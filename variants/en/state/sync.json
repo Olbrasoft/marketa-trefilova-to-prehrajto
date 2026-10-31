@@ -1354,13 +1354,6 @@
     "76": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30657861",
-          "reason": "Request failed for https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-28T17:38:21.217201+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30657861",
           "target_video_id": "30676003",
@@ -1373,12 +1366,19 @@
           "target_video_id": "30676003",
           "permanent": false,
           "attempted_at": "2026-10-31T20:03:11.156245+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30657861",
+          "target_video_id": "30676003",
+          "permanent": false,
+          "attempted_at": "2026-10-31T20:34:21.902186+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30657861",
         "display_name": "Memento 1080p CZ Titulky",
-        "planned_at": "2026-10-31T20:03:10.137460+00:00"
+        "planned_at": "2026-10-31T20:34:20.845824+00:00"
       },
       "previous_target_id": "30676003",
       "prepared": {
@@ -2650,7 +2650,7 @@
       "last_plan": {
         "source_id": "31102503",
         "display_name": "Pan's Labyrinth (El laberinto del fauno) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T20:34:18.628674+00:00"
+        "planned_at": "2026-10-31T20:34:20.901298+00:00"
       }
     },
     "150": {
@@ -32958,5 +32958,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T20:34:19.276936+00:00"
+  "updated_at": "2026-10-31T20:34:21.902206+00:00"
 }
