@@ -16959,17 +16959,19 @@
       }
     },
     "11046": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34672969",
+          "target_video_id": "30668725",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:43:35.824991+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34672969",
         "display_name": "Dirty Harry 1080p CZ Dabing",
         "planned_at": "2026-10-31T13:37:21.648127+00:00"
-      },
-      "claim": {
-        "worker_id": "52896c2a732248db92e7f34ffae27203-shard-0",
-        "claimed_at": "2026-10-31T13:37:21.713620+00:00",
-        "lease_expires_at": "2026-10-31T19:37:21.713620+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30668725",
       "prepared": {
@@ -38377,5 +38379,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:37:26.240644+00:00"
+  "updated_at": "2026-10-31T13:43:35.825010+00:00"
 }
