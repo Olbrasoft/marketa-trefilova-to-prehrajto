@@ -17569,17 +17569,19 @@
       }
     },
     "21843": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34355715",
+          "target_video_id": "30671846",
+          "permanent": false,
+          "attempted_at": "2026-10-31T16:07:21.445953+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355715",
         "display_name": "Bonnie and Clyde 4K CZ Dabing",
         "planned_at": "2026-10-31T15:45:58.063916+00:00"
-      },
-      "claim": {
-        "worker_id": "40e0393ff9db43a6a8fab46bfa604dd9-shard-0",
-        "claimed_at": "2026-10-31T15:45:58.138434+00:00",
-        "lease_expires_at": "2026-10-31T21:45:58.138434+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30671846",
       "prepared": {
@@ -39375,5 +39377,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T16:02:43.280969+00:00"
+  "updated_at": "2026-10-31T16:07:21.445974+00:00"
 }
