@@ -120,7 +120,7 @@ Attach subtitles only after target processing has finished.
 | Harry Potter and the Prisoner of Azkaban 4K CZ Titulky | 30633152 | https://sdilej.cz/32925438/harry-potter-a-vezen-z-azkabanu-cz-sk-en-radecek.mkv | Complete: Czech subtitles verified |
 | Taylor Swift: The Eras Tour (TAYLOR SWIFT / THE ERAS TOUR) 1080p CZ Titulky | 30635414 | https://sdilej.cz/28373728/taylor.swift.the.eras.tour.2023.taylor-s.version.1080p.10bit.webrip.6ch.x265.hevc-psa-sk-a-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Guardians of the Galaxy Vol. 3 4K CZ Titulky | 30638438 | https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
-| Big Fish 1080p CZ Titulky | 30638440 | https://sdilej.cz/35402034/big.fish.2003.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Big Fish 1080p CZ Titulky | 30638440 | https://sdilej.cz/35402034/big.fish.2003.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Marriage Story 1080p CZ Titulky | 30639527 | https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Annie Hall 720p CZ Titulky | 30640109 | https://sdilej.cz/29266712/annie-hall-1977-diane-keaton-woody-allen-eng.-cz-ttl..mkv | Complete: Czech subtitles verified |
 | True Romance 1080p CZ Titulky | 30640322 | https://sdilej.cz/30979686/pravdiva-romance-1993-cz-dab1080p-bluray.mkv | Complete: Czech subtitles verified |
@@ -159,11 +159,11 @@ Attach subtitles only after target processing has finished.
 | Gangubai Kathiawadi 1080p CZ Titulky | 30655605 | https://sdilej.cz/21628063/gangubai-kathiawadi-2022-sktit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | The Alpinist 1080p CZ Titulky | 30656167 | https://sdilej.cz/19248743/the-alpinist-1080p-2021-vlozene-cz-titulky-kst.mkv | Complete: Czech subtitles verified |
 | Stagecoach (1939) 1080p CZ Titulky | 30656542 | https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv | Extract Czech track from exact source after processing |
-| Bride of Frankenstein 1080p CZ Titulky | 30656545 | https://sdilej.cz/32991026/bride-of-frankenstein-r.1935-engdab-cztit-1080p-.mkv | Extract Czech track from exact source after processing |
-| The Lost Weekend 1080p CZ Titulky | 30658842 | https://sdilej.cz/33703234/the.lost.weekend.1945.1080p.bluray.dts-hd.ma.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Bride of Frankenstein 1080p CZ Titulky | 30656545 | https://sdilej.cz/32991026/bride-of-frankenstein-r.1935-engdab-cztit-1080p-.mkv | Complete: Czech subtitles verified |
+| The Lost Weekend 1080p CZ Titulky | 30658842 | https://sdilej.cz/33703234/the.lost.weekend.1945.1080p.bluray.dts-hd.ma.x264-majo.mkv | Complete: Czech subtitles verified |
 | Monster (怪物) (2023) 1080p CZ Titulky | 30658860 | https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv | Extract Czech track from exact source after processing |
 | Earth 1080p CZ Titulky | 30659023 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Complete: Czech subtitles verified |
-| Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky | 30659487 | https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4 | Extract Czech track from exact source after processing |
-| Brother (Брат) (1997) 1080p CZ Titulky | 30659607 | https://sdilej.cz/34880521/brat-1997-.mkv | Extract Czech track from exact source after processing |
+| Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky | 30659487 | https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4 | Complete: Czech subtitles verified |
+| Brother (Брат) (1997) 1080p CZ Titulky | 30659607 | https://sdilej.cz/34880521/brat-1997-.mkv | Complete: Czech subtitles verified |
 | Memoir of a Snail 1080p CZ Titulky | 30659818 | https://sdilej.cz/30147702/memoir.of.a.snail-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | The Boy, the Mole, the Fox and the Horse 1080p CZ Titulky | 30660056 | https://sdilej.cz/28481101/the-boy-the-mole-the-fox-and-the-horse-2022-1080p-web-h264-naisu-.mkv | Extract Czech track from exact source after processing |
