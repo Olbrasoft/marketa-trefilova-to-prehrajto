@@ -9779,17 +9779,19 @@
       "attempts": []
     },
     "624": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34298232",
+          "target_video_id": "30674858",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:23:02.471716+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34298232",
         "display_name": "Adam's Apples (Adams æbler) 1080p CZ Titulky",
         "planned_at": "2026-10-31T18:13:22.282820+00:00"
-      },
-      "claim": {
-        "worker_id": "5b4edfa180864656a72610159812b9c7-shard-0",
-        "claimed_at": "2026-10-31T18:13:22.301823+00:00",
-        "lease_expires_at": "2026-11-01T00:13:22.301823+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674858",
       "prepared": {
@@ -32099,5 +32101,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:20:50.772402+00:00"
+  "updated_at": "2026-10-31T18:23:02.471733+00:00"
 }
