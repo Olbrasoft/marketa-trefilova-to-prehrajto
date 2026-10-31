@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-10-31T17:04:26.219650+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-10-31T17:41:09.699081+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-10-31T18:11:41.271719+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:44:33.545772+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "df8aa0145e3b4284bc3be5a28c61947a-shard-0",
-        "claimed_at": "2026-10-31T18:44:30.414156+00:00",
-        "lease_expires_at": "2026-11-01T00:44:30.414156+00:00",
-        "run_id": "41219330327"
       }
     },
     "9": {
@@ -231,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-10-31T18:11:42.589993+00:00"
+        "planned_at": "2026-10-31T18:44:33.274685+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -239,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "75e5b4a1954c455bbdecb8b9e6176854-shard-0",
+        "claimed_at": "2026-10-31T18:44:33.385583+00:00",
+        "lease_expires_at": "2026-11-01T00:44:33.385583+00:00",
+        "run_id": "41219330327"
       }
     },
     "10755": {
@@ -18678,7 +18678,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-10-31T18:44:30.344001+00:00"
+        "planned_at": "2026-10-31T18:44:33.320532+00:00"
       }
     },
     "29695": {
@@ -40897,5 +40897,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:44:30.740357+00:00"
+  "updated_at": "2026-10-31T18:44:33.545783+00:00"
 }
