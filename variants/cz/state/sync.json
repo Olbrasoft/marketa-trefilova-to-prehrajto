@@ -13441,7 +13441,20 @@
       }
     },
     "11475": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34502211",
+          "reason": "Request failed for https://sdilej.cz/34502211/1982-kral-komedie-komedie-79-robert-de-niro.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:52:31.100105+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34502211",
+        "display_name": "The King of Comedy 720p CZ Dabing",
+        "planned_at": "2026-10-31T02:51:45.263536+00:00"
+      }
     },
     "10997": {
       "attempts": []
@@ -33596,5 +33609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:51:44.016592+00:00"
+  "updated_at": "2026-10-31T02:52:31.100126+00:00"
 }
