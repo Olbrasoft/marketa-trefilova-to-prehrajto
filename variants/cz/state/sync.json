@@ -15126,17 +15126,19 @@
       "attempts": []
     },
     "21779": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31433415",
+          "target_video_id": "30660738",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:19:27.223296+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31433415",
         "display_name": "The Train 1080p CZ Dabing",
         "planned_at": "2026-10-31T08:03:44.790067+00:00"
-      },
-      "claim": {
-        "worker_id": "96bb09a7893c461797a7489fadf04662-shard-0",
-        "claimed_at": "2026-10-31T08:03:45.260239+00:00",
-        "lease_expires_at": "2026-10-31T14:03:45.260239+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30660738",
       "prepared": {
@@ -35640,5 +35642,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:12:36.448213+00:00"
+  "updated_at": "2026-10-31T08:19:27.223317+00:00"
 }
