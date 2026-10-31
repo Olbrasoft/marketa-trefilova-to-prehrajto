@@ -93,7 +93,7 @@ Attach subtitles only after target processing has finished.
 | Raise the Red Lantern (大红灯笼高高挂) 1080p | 30623110 | https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv | Find and add matching Czech subtitles after processing |
 | Pocket Hercules: Naim Süleymanoglu (Cep Herkülü: Naim Süleymanoglu) 720p CZ Titulky | 30623185 | https://sdilej.cz/14004254/cep-herkulu-naim-suleymanoglu-tur-vlozene-titulky-2019-zivotopisny-drama.mkv | Complete: Czech subtitles verified |
 | Guardians of the Galaxy 4K CZ Titulky | 30623940 | https://sdilej.cz/27579007/strazci-galaxie-1-2014-2160p.mkv | Complete: Czech subtitles verified |
-| Apollo 11 4K CZ Titulky | 30624527 | https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv | Extract Czech track from exact source after processing |
+| Apollo 11 4K CZ Titulky | 30624527 | https://sdilej.cz/12594213/apollo.11.2019.2160p.uhd.bluray.x265-scotluhd-cz-sk-tit.mkv | Complete: Czech subtitles verified |
 | The Revenant 720p CZ Titulky | 30625206 | https://sdilej.cz/22183177/the-revenant-2015-720p-en-cz-titulky-marcelcu.mkv | Complete: Czech subtitles verified |
 | Donnie Darko 4K CZ Titulky | 30625425 | https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Black Swan 1080p CZ Titulky | 30625850 | https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv | Extract Czech track from exact source after processing |
@@ -104,7 +104,7 @@ Attach subtitles only after target processing has finished.
 | Aladdin (1992) 1080p CZ Titulky | 30627809 | https://sdilej.cz/15881813/aladdin.1992-cz.mkv | Complete: Czech subtitles verified |
 | The Princess Bride 1080p CZ Titulky | 30627890 | https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv | Complete: Czech subtitles verified |
 | Magnolia 1080p CZ Titulky | 30628484 | https://sdilej.cz/9846860/magnolia-cz-dabing.mkv | Complete: Czech subtitles verified |
-| Spider-Man: Brand New Day 1440p CZ Titulky | 30628930 | https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| Spider-Man: Brand New Day 1440p CZ Titulky | 30628930 | https://sdilej.cz/35246502/spider-man.brand.new.day-2026-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Rosemary's Baby 4K CZ Titulky | 30629227 | https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv | Extract Czech track from exact source after processing |
 | CODA 4K CZ Titulky | 30629619 | https://sdilej.cz/23547476/coda-2021-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv | Complete: Czech subtitles verified |
 | Stalker (Сталкер) (1979) 1080p CZ Titulky | 30630550 | https://sdilej.cz/29472972/stalker-1979-rus.-cz-titulky-remaster..mkv | Complete: Czech subtitles verified |
