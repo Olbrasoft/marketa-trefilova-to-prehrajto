@@ -18385,17 +18385,19 @@
       }
     },
     "23033": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33493001",
+          "target_video_id": "30674923",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:20:44.013284+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33493001",
         "display_name": "The Killer (1989) 1080p CZ Dabing",
         "planned_at": "2026-10-31T18:17:45.738978+00:00"
-      },
-      "claim": {
-        "worker_id": "04828fc0b82342459f5f874b6ad59702-shard-0",
-        "claimed_at": "2026-10-31T18:17:45.820370+00:00",
-        "lease_expires_at": "2026-11-01T00:17:45.820370+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674923",
       "prepared": {
@@ -40469,5 +40471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:17:49.083413+00:00"
+  "updated_at": "2026-10-31T18:20:44.013307+00:00"
 }
