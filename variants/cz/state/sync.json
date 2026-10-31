@@ -13359,17 +13359,19 @@
       }
     },
     "22479": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32217282",
+          "target_video_id": "30652897",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:43:25.664043+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32217282",
         "display_name": "Manhattan SD CZ Dabing",
         "planned_at": "2026-10-31T02:38:59.274924+00:00"
-      },
-      "claim": {
-        "worker_id": "d1caee9af3d644ed9ac4bd3e0fb24343-shard-0",
-        "claimed_at": "2026-10-31T02:38:59.387928+00:00",
-        "lease_expires_at": "2026-10-31T08:38:59.387928+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30652897",
       "prepared": {
@@ -33544,5 +33546,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:39:02.949797+00:00"
+  "updated_at": "2026-10-31T02:43:25.664064+00:00"
 }
