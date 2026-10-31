@@ -17511,17 +17511,19 @@
       "attempts": []
     },
     "13997": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24487377",
+          "target_video_id": "30671730",
+          "permanent": false,
+          "attempted_at": "2026-10-31T15:44:22.663638+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24487377",
         "display_name": "The Worst Person in the World (Verdens verste menneske) 1080p CZ Dabing",
         "planned_at": "2026-10-31T15:39:49.404947+00:00"
-      },
-      "claim": {
-        "worker_id": "56e42f7b7fb64c04a2c7ddfe05a2780d-shard-0",
-        "claimed_at": "2026-10-31T15:39:49.469442+00:00",
-        "lease_expires_at": "2026-10-31T21:39:49.469442+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30671730",
       "prepared": {
@@ -39280,5 +39282,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T15:39:53.162117+00:00"
+  "updated_at": "2026-10-31T15:44:22.663656+00:00"
 }
