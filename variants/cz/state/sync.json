@@ -15719,13 +15719,6 @@
           "source_id": "32277009",
           "target_video_id": "30662658",
           "permanent": false,
-          "attempted_at": "2026-10-31T16:01:34.852507+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32277009",
-          "target_video_id": "30662658",
-          "permanent": false,
           "attempted_at": "2026-10-31T17:04:10.527431+00:00"
         },
         {
@@ -15734,12 +15727,19 @@
           "target_video_id": "30662658",
           "permanent": false,
           "attempted_at": "2026-10-31T17:40:58.036002+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32277009",
+          "target_video_id": "30662658",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:11:26.677434+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32277009",
         "display_name": "Everything Everywhere All at Once 1080p CZ Dabing",
-        "planned_at": "2026-10-31T17:40:55.884118+00:00"
+        "planned_at": "2026-10-31T18:11:25.571521+00:00"
       },
       "previous_target_id": "30662658",
       "prepared": {
@@ -18354,11 +18354,22 @@
       "last_plan": {
         "source_id": "33614502",
         "display_name": "Adam's Apples (Adams æbler) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T18:11:22.987819+00:00"
+        "planned_at": "2026-10-31T18:11:25.620574+00:00"
+      },
+      "claim": {
+        "worker_id": "515d3f165f7c4daaa91b141a41a19586-shard-0",
+        "claimed_at": "2026-10-31T18:11:25.765203+00:00",
+        "lease_expires_at": "2026-11-01T00:11:25.765203+00:00",
+        "run_id": "41219330327"
       }
     },
     "23033": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33493001",
+        "display_name": "The Killer (1989) 1080p CZ Dabing",
+        "planned_at": "2026-10-31T18:11:25.646974+00:00"
+      }
     },
     "34639": {
       "attempts": []
@@ -40424,5 +40435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:11:24.053682+00:00"
+  "updated_at": "2026-10-31T18:11:26.677455+00:00"
 }
