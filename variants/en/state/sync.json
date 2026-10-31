@@ -2539,13 +2539,6 @@
     "19772": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "21302909",
-          "reason": "Request failed for https://sdilej.cz/21302909/zmizeni.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-29T10:22:50.285949+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "21302909",
           "target_video_id": "30677653",
@@ -2558,12 +2551,19 @@
           "target_video_id": "30677653",
           "permanent": false,
           "attempted_at": "2026-10-31T21:37:50.202054+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21302909",
+          "target_video_id": "30677653",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:14:20.979422+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21302909",
         "display_name": "Prisoners 1080p CZ Titulky",
-        "planned_at": "2026-10-31T21:37:47.604965+00:00"
+        "planned_at": "2026-10-31T22:14:19.246562+00:00"
       },
       "previous_target_id": "30677653",
       "prepared": {
@@ -10142,13 +10142,6 @@
           "source_id": "28441861",
           "target_video_id": "30674421",
           "permanent": false,
-          "attempted_at": "2026-10-31T19:57:07.797667+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28441861",
-          "target_video_id": "30674421",
-          "permanent": false,
           "attempted_at": "2026-10-31T20:28:20.076588+00:00"
         },
         {
@@ -10157,6 +10150,13 @@
           "target_video_id": "30674421",
           "permanent": false,
           "attempted_at": "2026-10-31T21:37:47.416361+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28441861",
+          "target_video_id": "30674421",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:14:20.840056+00:00"
         }
       ],
       "last_plan": {
@@ -10710,7 +10710,7 @@
       "last_plan": {
         "source_id": "27530102",
         "display_name": "Despicable Me 4K CZ Titulky",
-        "planned_at": "2026-10-31T22:14:17.696330+00:00"
+        "planned_at": "2026-10-31T22:14:19.314748+00:00"
       }
     },
     "817": {
@@ -33225,5 +33225,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:14:17.696347+00:00"
+  "updated_at": "2026-10-31T22:14:20.979444+00:00"
 }
