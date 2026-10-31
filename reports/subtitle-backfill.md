@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T04:37:04.474792+00:00
+Poslední aktualizace (UTC): 2026-10-31T04:37:06.332098+00:00
 
 Zkontrolováno videí: 149. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 76, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 27, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 76, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 28, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -83,6 +83,7 @@ Kontrol: 8; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Mirror (Mirror) 1080p CZ Titulky](https://prehraj.to/the-mirror-mirror-1080p-cz-titulky-mkv/722aca69512f2375) (ID 30643725) | [Sdílej 30440919](https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv) | target_unavailable | 2026-10-31T04:27:14.412015+00:00 |
 | [The Untouchables 1080p CZ Titulky](https://prehraj.to/the-untouchables-1080p-cz-titulky-mkv/93d037ed0feaff05) (ID 30649618) | [Sdílej 30833257](https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv) | target_unavailable | 2026-10-31T04:27:10.733759+00:00 |
 | [The Wind Rises (Kaze tachinu) 1080p CZ Titulky](https://prehraj.to/the-wind-rises-kaze-tachinu-1080p-cz-titulky-mkv/343065e0c684db5b) (ID 30653654) | [Sdílej 22124732](https://sdilej.cz/22124732/-dragsterps-kaze-tachinu-1080p-multi-audio-multi-subs-h264-aac-21ec96d7-.mkv) | target_unavailable | 2026-10-31T04:27:03.371129+00:00 |
+| [Thirteen Lives 1080p CZ Titulky](https://prehraj.to/thirteen-lives-1080p-cz-titulky-mkv/702fb47ed407e6ae) (ID 30654980) | [Sdílej 22401923](https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv) | target_unavailable | 2026-10-31T04:37:06.332026+00:00 |
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-31T04:17:02.816381+00:00 |
 | [Walk the Line 1080p CZ Titulky](https://prehraj.to/walk-the-line-1080p-cz-titulky-mkv/0ffc5079d005c129) (ID 30650875) | [Sdílej 6489245](https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-31T04:27:07.052622+00:00 |
 | [Whisper of the Heart (耳をすませば) 1080p CZ Titulky](https://prehraj.to/whisper-of-the-heart-1080p-cz-titulky-mkv/bcf952f83d294208) (ID 30654463) | [Sdílej 34140580](https://sdilej.cz/34140580/sepot-srdce-whisper-of-the-heart-1995--tt0113824--en-es-fr-de-it-tr-sv-fi-no-ru-cs-id-vi-th-ko-zh-ja-.webdl-1080p.h265-aac-2.0.mkv) | target_unavailable | 2026-10-31T04:16:59.231561+00:00 |
