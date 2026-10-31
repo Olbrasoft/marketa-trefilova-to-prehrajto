@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T19:14:04.226504+00:00
+Poslední aktualizace (UTC): 2026-10-31T19:14:07.620838+00:00
 
 Zkontrolováno videí: 197. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 90, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 57, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 90, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 58, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -93,6 +93,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvod
 | [Mr. Nobody 1080p CZ Titulky](https://prehraj.to/mr-nobody-1080p-cz-titulky-mkv/c504a5cd2cfbe29b) (ID 30665814) | [Sdílej 26730074](https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv) | target_unavailable | 2026-10-31T12:56:42.217867+00:00 |
 | [My Fair Lady 1080p CZ Titulky](https://prehraj.to/my-fair-lady-1080p-cz-titulky-mkv/3cb9003e3f45f64a) (ID 30673478) | [Sdílej 24371035](https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv) | target_unavailable | 2026-10-31T17:12:09.962534+00:00 |
 | [My Hero Academia: Heroes Rising 1080p CZ Titulky](https://prehraj.to/my-hero-academia-heroes-rising-1080p-cz-titulky-mkv/ec8ffdecc428e9dc) (ID 30675522) | [Sdílej 18318002](https://sdilej.cz/18318002/my-hero-academia-heroes-rising-2019-cz-titulky.mkv) | target_unavailable | 2026-10-31T19:03:48.066953+00:00 |
+| [Parasite (기생충) (2019) 1080p CZ Titulky](https://prehraj.to/parasite-2019-1080p-cz-titulky-mkv/fd9b47f1dadd9eaf) (ID 30675758) | [Sdílej 27736094](https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv) | target_unavailable | 2026-10-31T19:14:07.620660+00:00 |
 | [Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky](https://prehraj.to/perfect-strangers-perfetti-sconosciuti-2016-720p-cz-titulky-mkv/0011fb81bff6601c) (ID 30674419) | [Sdílej 27404887](https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv) | target_unavailable | 2026-10-31T17:42:34.281566+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-10-31T11:14:36.884513+00:00 |
 | [Ray 1080p CZ Titulky](https://prehraj.to/ray-1080p-cz-titulky-mkv/d61b67232a83b5aa) (ID 30668869) | [Sdílej 22988860](https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv) | target_unavailable | 2026-10-31T13:47:32.648879+00:00 |
