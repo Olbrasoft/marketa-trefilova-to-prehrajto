@@ -16299,13 +16299,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-10-31T15:24:40.715893+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-10-31T16:02:26.157172+00:00"
         },
         {
@@ -16314,6 +16307,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-10-31T17:05:23.516339+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:41:44.062899+00:00"
         }
       ],
       "last_plan": {
@@ -16327,12 +16327,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
-      },
-      "claim": {
-        "worker_id": "35c5866b9c6d42a1a4fd8a9e8bf38379-shard-0",
-        "claimed_at": "2026-10-31T17:41:42.491844+00:00",
-        "lease_expires_at": "2026-10-31T23:41:42.491844+00:00",
-        "run_id": "41219330327"
       }
     },
     "12843": {
@@ -16457,7 +16451,7 @@
       "last_plan": {
         "source_id": "32043882",
         "display_name": "Halloween (1978) 4K CZ Dabing",
-        "planned_at": "2026-10-31T17:05:24.796256+00:00"
+        "planned_at": "2026-10-31T17:41:43.713766+00:00"
       },
       "previous_target_id": "30664667",
       "prepared": {
@@ -16465,6 +16459,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-10-31T11:53:53.244431+00:00",
         "relay_source_id": "32043882"
+      },
+      "claim": {
+        "worker_id": "46a382c576b34528b324e9cb9e3de021-shard-0",
+        "claimed_at": "2026-10-31T17:41:43.890488+00:00",
+        "lease_expires_at": "2026-10-31T23:41:43.890488+00:00",
+        "run_id": "41219330327"
       }
     },
     "533": {
@@ -18067,7 +18067,7 @@
       "last_plan": {
         "source_id": "35010444",
         "display_name": "Open Your Eyes SD CZ Dabing",
-        "planned_at": "2026-10-31T17:41:41.205337+00:00"
+        "planned_at": "2026-10-31T17:41:43.764542+00:00"
       }
     },
     "10694": {
@@ -18080,7 +18080,12 @@
       "attempts": []
     },
     "331": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34646736",
+        "display_name": "Young Hearts (2024) 1080p CZ Dabing",
+        "planned_at": "2026-10-31T17:41:43.787187+00:00"
+      }
     },
     "29933": {
       "attempts": []
@@ -40191,5 +40196,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:41:42.491869+00:00"
+  "updated_at": "2026-10-31T17:41:44.062920+00:00"
 }
