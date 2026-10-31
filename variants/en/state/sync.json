@@ -6956,17 +6956,19 @@
       "attempts": []
     },
     "518": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30833257",
+          "target_video_id": "30649618",
+          "permanent": false,
+          "attempted_at": "2026-10-31T00:30:48.722863+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30833257",
         "display_name": "The Untouchables 1080p CZ Titulky",
         "planned_at": "2026-10-31T00:13:14.339184+00:00"
-      },
-      "claim": {
-        "worker_id": "6cdb6f4a15c541069eb27650e759925e-shard-0",
-        "claimed_at": "2026-10-31T00:13:14.370497+00:00",
-        "lease_expires_at": "2026-10-31T06:13:14.370497+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30649618",
       "prepared": {
@@ -26891,5 +26893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:27:29.291751+00:00"
+  "updated_at": "2026-10-31T00:30:48.722878+00:00"
 }
