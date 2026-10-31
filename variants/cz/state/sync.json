@@ -16185,17 +16185,19 @@
       }
     },
     "17734": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34064909",
+          "target_video_id": "30664403",
+          "permanent": false,
+          "attempted_at": "2026-10-31T11:41:42.476131+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34064909",
         "display_name": "Being John Malkovich 1080p CZ Dabing",
         "planned_at": "2026-10-31T11:32:28.313770+00:00"
-      },
-      "claim": {
-        "worker_id": "a8ea827821a643fdbe6ce2034353bbc7-shard-0",
-        "claimed_at": "2026-10-31T11:32:28.426614+00:00",
-        "lease_expires_at": "2026-10-31T17:32:28.426614+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30664403",
       "prepared": {
@@ -37318,5 +37320,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T11:40:42.704045+00:00"
+  "updated_at": "2026-10-31T11:41:42.476145+00:00"
 }
