@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T05:37:52.731412+00:00
+Poslední aktualizace (UTC): 2026-10-31T05:37:57.640661+00:00
 
 Zkontrolováno videí: 154. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 76, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 32, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 76, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 33, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -80,6 +80,7 @@ Kontrol: 7; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-10-31T04:57:45.761532+00:00 |
 | [Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky](https://prehraj.to/society-of-the-snow-la-sociedad-de-la-nieve-1080p-cz-titulky-mkv/1f528cd767b13fc5) (ID 30652651) | [Sdílej 27805228](https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv) | target_unavailable | 2026-10-31T04:37:09.898493+00:00 |
 | [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-31T05:17:47.810546+00:00 |
+| [The Alpinist 1080p CZ Titulky](https://prehraj.to/the-alpinist-1080p-cz-titulky-mkv/649813f4666964a2) (ID 30656167) | [Sdílej 19248743](https://sdilej.cz/19248743/the-alpinist-1080p-2021-vlozene-cz-titulky-kst.mkv) | target_unavailable | 2026-10-31T05:37:57.640604+00:00 |
 | [The Chaser (추격자) 1080p CZ Titulky](https://prehraj.to/the-chaser-1080p-cz-titulky-mkv/83e5d18549327f1f) (ID 30654751) | [Sdílej 13703315](https://sdilej.cz/13703315/bile-maso-the-chaser-chugyeogja-2008-titulky-cz.mkv) | target_unavailable | 2026-10-31T05:27:41.618461+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-31T04:57:34.845263+00:00 |
 | [The Irishman 720p CZ Titulky](https://prehraj.to/the-irishman-720p-cz-titulky-mkv/c70ac834645aae57) (ID 30648488) | [Sdílej 12685665](https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv) | target_unavailable | 2026-10-31T04:47:15.763796+00:00 |
