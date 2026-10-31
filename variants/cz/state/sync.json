@@ -19263,17 +19263,19 @@
       }
     },
     "632": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20899223",
+          "target_video_id": "30679487",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:47:16.009527+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20899223",
         "display_name": "The Bear (L'Ours) 1080p CZ Dabing",
         "planned_at": "2026-10-31T21:42:41.137256+00:00"
-      },
-      "claim": {
-        "worker_id": "db1ceb0e0e3047b987da0a9f72358f9e-shard-0",
-        "claimed_at": "2026-10-31T21:42:41.284684+00:00",
-        "lease_expires_at": "2026-11-01T03:42:41.284684+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679487",
       "prepared": {
@@ -41857,5 +41859,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:43:08.718031+00:00"
+  "updated_at": "2026-10-31T21:47:16.009543+00:00"
 }
