@@ -17775,17 +17775,19 @@
       }
     },
     "10863": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34672435",
+          "target_video_id": "30673440",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:12:31.200670+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34672435",
         "display_name": "My Fair Lady 1080p CZ Dabing",
         "planned_at": "2026-10-31T17:01:54.972150+00:00"
-      },
-      "claim": {
-        "worker_id": "b371fe907b9a4cb6834b46c44742ceb7-shard-0",
-        "claimed_at": "2026-10-31T17:01:55.147953+00:00",
-        "lease_expires_at": "2026-10-31T23:01:55.147953+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30673440",
       "prepared": {
@@ -39786,5 +39788,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:11:35.537940+00:00"
+  "updated_at": "2026-10-31T17:12:31.200689+00:00"
 }
