@@ -172,3 +172,4 @@ Attach subtitles only after target processing has finished.
 | Harry Potter and the Goblet of Fire 1080p CZ Titulky | 30661955 | https://sdilej.cz/22875915/harry-potter-4-a-ohnivy-pohar-2005-dobrodruzny-drama-rodinny-fantasy-cz-dab.-hevc-fullhd-1080p-.mkv | Extract Czech track from exact source after processing |
 | Zodiac (2007) 1080p CZ Titulky | 30662259 | https://sdilej.cz/30805641/zodiac-2007-director-s-cut-en-cs-sk-en-de-cs-1080p23.976-.mkv | Extract Czech track from exact source after processing |
 | Everything Everywhere All at Once 4K CZ Titulky | 30662730 | https://sdilej.cz/33396424/everything-everywhere-all-at-once-2022-.2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Ex Machina 1080p CZ Titulky | 30662878 | https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv | Extract Czech track from exact source after processing |
