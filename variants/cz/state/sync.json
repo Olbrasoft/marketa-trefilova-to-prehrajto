@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-10-31T21:36:21.732113+00:00"
+        "planned_at": "2026-10-31T22:13:31.908009+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "6efb112c594546419d231f9fb93fbbd5-shard-0",
+        "claimed_at": "2026-10-31T22:13:32.182982+00:00",
+        "lease_expires_at": "2026-11-01T04:13:32.182982+00:00",
+        "run_id": "41243223179"
       }
     },
     "29922": {
@@ -19435,17 +19441,19 @@
       }
     },
     "688": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34374972",
+          "target_video_id": "30679787",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:13:45.212276+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34374972",
         "display_name": "American Psycho 4K CZ Dabing",
         "planned_at": "2026-10-31T22:04:37.633705+00:00"
-      },
-      "claim": {
-        "worker_id": "99bea72762654257a29e24fc7f90cce7-shard-0",
-        "claimed_at": "2026-10-31T22:04:37.774361+00:00",
-        "lease_expires_at": "2026-11-01T04:04:37.774361+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679787",
       "prepared": {
@@ -19460,7 +19468,7 @@
       "last_plan": {
         "source_id": "33021649",
         "display_name": "Guardians of the Galaxy Vol. 2 4K CZ Dabing",
-        "planned_at": "2026-10-31T22:13:06.632986+00:00"
+        "planned_at": "2026-10-31T22:13:32.001475+00:00"
       }
     },
     "748": {
@@ -41983,5 +41991,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:13:30.534653+00:00"
+  "updated_at": "2026-10-31T22:13:45.212292+00:00"
 }
