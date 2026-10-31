@@ -15575,17 +15575,19 @@
       }
     },
     "612": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33266274",
+          "target_video_id": "30662445",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:31:44.607111+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33266274",
         "display_name": "Argo 1080p CZ Dabing",
         "planned_at": "2026-10-31T09:23:10.054425+00:00"
-      },
-      "claim": {
-        "worker_id": "2ff2a08fa11a4a29841827adc0157dcc-shard-0",
-        "claimed_at": "2026-10-31T09:23:10.168507+00:00",
-        "lease_expires_at": "2026-10-31T15:23:10.168507+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30662445",
       "prepared": {
@@ -36360,5 +36362,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:23:13.457932+00:00"
+  "updated_at": "2026-10-31T09:31:44.607128+00:00"
 }
