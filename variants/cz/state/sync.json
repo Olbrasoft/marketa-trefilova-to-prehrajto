@@ -6403,7 +6403,7 @@
       "last_plan": {
         "source_id": "32449184",
         "display_name": "Titanic (1997) 4K CZ Dabing",
-        "planned_at": "2026-10-31T03:22:51.585544+00:00"
+        "planned_at": "2026-10-31T03:57:01.512478+00:00"
       },
       "previous_target_id": "30623525",
       "prepared": {
@@ -6411,6 +6411,12 @@
         "size_bytes": 8300000000,
         "prepared_at": "2026-10-30T01:49:28.564284+00:00",
         "relay_source_id": "32449184"
+      },
+      "claim": {
+        "worker_id": "44ce6ec3dd49496eb5fdb9a617f0753e-shard-0",
+        "claimed_at": "2026-10-31T03:57:01.642302+00:00",
+        "lease_expires_at": "2026-10-31T09:57:01.642302+00:00",
+        "run_id": "41164110278"
       }
     },
     "302": {
@@ -11565,13 +11571,6 @@
           "source_id": "24001495",
           "target_video_id": "30644453",
           "permanent": false,
-          "attempted_at": "2026-10-31T02:18:02.429812+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24001495",
-          "target_video_id": "30644453",
-          "permanent": false,
           "attempted_at": "2026-10-31T02:50:47.832794+00:00"
         },
         {
@@ -11580,6 +11579,13 @@
           "target_video_id": "30644453",
           "permanent": false,
           "attempted_at": "2026-10-31T03:22:52.601968+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24001495",
+          "target_video_id": "30644453",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:57:02.083343+00:00"
         }
       ],
       "last_plan": {
@@ -11593,12 +11599,6 @@
         "size_bytes": 19800000000,
         "prepared_at": "2026-10-30T20:45:14.373825+00:00",
         "relay_source_id": "24001495"
-      },
-      "claim": {
-        "worker_id": "490ac6871dfe473496d902beccda7ddf-shard-0",
-        "claimed_at": "2026-10-31T03:56:58.806072+00:00",
-        "lease_expires_at": "2026-10-31T09:56:58.806072+00:00",
-        "run_id": "41164110278"
       }
     },
     "466": {
@@ -13780,7 +13780,7 @@
       "last_plan": {
         "source_id": "32661450",
         "display_name": "Charade SD CZ Dabing",
-        "planned_at": "2026-10-31T03:56:58.727830+00:00"
+        "planned_at": "2026-10-31T03:57:01.562754+00:00"
       }
     },
     "23421": {
@@ -33969,5 +33969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:56:59.157213+00:00"
+  "updated_at": "2026-10-31T03:57:02.083362+00:00"
 }
