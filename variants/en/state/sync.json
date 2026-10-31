@@ -7538,13 +7538,6 @@
           "source_id": "32963361",
           "target_video_id": "30653249",
           "permanent": false,
-          "attempted_at": "2026-10-31T10:25:50.981225+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32963361",
-          "target_video_id": "30653249",
-          "permanent": false,
           "attempted_at": "2026-10-31T11:00:12.304868+00:00"
         },
         {
@@ -7553,6 +7546,13 @@
           "target_video_id": "30653249",
           "permanent": false,
           "attempted_at": "2026-10-31T11:32:24.303117+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32963361",
+          "target_video_id": "30653249",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:16:44.745012+00:00"
         }
       ],
       "last_plan": {
@@ -7566,12 +7566,6 @@
         "size_bytes": 5500000000,
         "prepared_at": "2026-10-31T03:00:21.322613+00:00",
         "relay_source_id": "32963361"
-      },
-      "claim": {
-        "worker_id": "52e7b6f77242432a842ed76b1294878d-shard-0",
-        "claimed_at": "2026-10-31T12:16:42.567599+00:00",
-        "lease_expires_at": "2026-10-31T18:16:42.567599+00:00",
-        "run_id": "41196554990"
       }
     },
     "406": {
@@ -8722,7 +8716,7 @@
       "last_plan": {
         "source_id": "31631191",
         "display_name": "Ex Machina 1080p CZ Titulky",
-        "planned_at": "2026-10-31T11:32:25.619665+00:00"
+        "planned_at": "2026-10-31T12:16:44.265878+00:00"
       },
       "previous_target_id": "30662878",
       "prepared": {
@@ -8730,6 +8724,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-10-31T09:43:37.649027+00:00",
         "relay_source_id": "31631191"
+      },
+      "claim": {
+        "worker_id": "5f0f66423af648c89ce37d54b8509307-shard-0",
+        "claimed_at": "2026-10-31T12:16:44.317520+00:00",
+        "lease_expires_at": "2026-10-31T18:16:44.317520+00:00",
+        "run_id": "41196554990"
       }
     },
     "22179": {
@@ -9065,7 +9065,7 @@
       "last_plan": {
         "source_id": "26730074",
         "display_name": "Mr. Nobody 1080p CZ Titulky",
-        "planned_at": "2026-10-31T12:16:42.549220+00:00"
+        "planned_at": "2026-10-31T12:16:44.300302+00:00"
       }
     },
     "11610": {
@@ -30095,5 +30095,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:16:42.812152+00:00"
+  "updated_at": "2026-10-31T12:16:44.745040+00:00"
 }
