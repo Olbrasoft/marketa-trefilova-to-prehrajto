@@ -17905,17 +17905,19 @@
       "attempts": []
     },
     "10706": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32713320",
+          "target_video_id": "30673792",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:28:30.502274+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32713320",
         "display_name": "The African Queen 1080p CZ Dabing",
         "planned_at": "2026-10-31T17:18:15.553060+00:00"
-      },
-      "claim": {
-        "worker_id": "2030c778733e4baf89e1bc1f14b0b6fb-shard-0",
-        "claimed_at": "2026-10-31T17:18:15.618418+00:00",
-        "lease_expires_at": "2026-10-31T23:18:15.618418+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30673792",
       "prepared": {
@@ -40109,5 +40111,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:28:26.446983+00:00"
+  "updated_at": "2026-10-31T17:28:30.502294+00:00"
 }
