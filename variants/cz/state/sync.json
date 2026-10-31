@@ -14488,17 +14488,19 @@
       }
     },
     "456": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22469671",
+          "target_video_id": "30658037",
+          "permanent": false,
+          "attempted_at": "2026-10-31T06:40:55.327463+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22469671",
         "display_name": "Land of Mine (Under sandet) 1080p CZ Dabing",
         "planned_at": "2026-10-31T06:32:52.243015+00:00"
-      },
-      "claim": {
-        "worker_id": "c0fc386fb6874b538beb03932cb5c345-shard-0",
-        "claimed_at": "2026-10-31T06:32:52.324207+00:00",
-        "lease_expires_at": "2026-10-31T12:32:52.324207+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30658037",
       "prepared": {
@@ -34967,5 +34969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:32:56.152180+00:00"
+  "updated_at": "2026-10-31T06:40:55.327479+00:00"
 }
