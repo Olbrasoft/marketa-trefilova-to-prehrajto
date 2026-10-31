@@ -13003,17 +13003,19 @@
       }
     },
     "19554": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34416192",
+          "reason": "Request failed for https://sdilej.cz/34416192/pozemstan-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:50:03.771823+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34416192",
         "display_name": "The Man from Earth 1080p CZ Dabing",
         "planned_at": "2026-10-31T01:49:17.307444+00:00"
-      },
-      "claim": {
-        "worker_id": "c29ea67d6809450a995f944fac42a6fb-shard-0",
-        "claimed_at": "2026-10-31T01:49:17.404865+00:00",
-        "lease_expires_at": "2026-10-31T07:49:17.404865+00:00",
-        "run_id": "41144016453"
       }
     },
     "458": {
@@ -33130,5 +33132,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:49:38.631028+00:00"
+  "updated_at": "2026-10-31T01:50:03.771843+00:00"
 }
