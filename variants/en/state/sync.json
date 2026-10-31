@@ -10018,17 +10018,19 @@
       "attempts": []
     },
     "32936": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35010233",
+          "target_video_id": "30675517",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:05:58.516079+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35010233",
         "display_name": "Hana-bi 720p CZ Titulky",
         "planned_at": "2026-10-31T18:54:14.550564+00:00"
-      },
-      "claim": {
-        "worker_id": "e85223659e164db0bd2539e2b4b355ca-shard-0",
-        "claimed_at": "2026-10-31T18:54:14.569594+00:00",
-        "lease_expires_at": "2026-11-01T00:54:14.569594+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30675517",
       "prepared": {
@@ -32257,5 +32259,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:04:23.144611+00:00"
+  "updated_at": "2026-10-31T19:05:58.516115+00:00"
 }
