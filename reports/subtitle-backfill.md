@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T03:04:33.481118+00:00
+Poslední aktualizace (UTC): 2026-10-31T03:04:36.784417+00:00
 
 Zkontrolováno videí: 144. Další stránka kontroly: 0.
 
@@ -64,7 +64,7 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Black Swan 1080p CZ Titulky](https://prehraj.to/black-swan-1080p-cz-titulky-mkv/34449af02c0418ac) (ID 30625850) | [Sdílej 34794426](https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv) | target_unavailable | 2026-10-31T02:04:04.607508+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T02:24:07.083236+00:00 |
 | [Castaway on the Moon (김씨 표류기) 1080p CZ Titulky](https://prehraj.to/castaway-on-the-moon-1080p-cz-titulky-mkv/daaa1b9d9e299127) (ID 30652792) | [Sdílej 30614687](https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv) | target_unavailable | 2026-10-31T02:44:09.545926+00:00 |
-| [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-31T02:03:26.351629+00:00 |
+| [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-31T03:04:36.784354+00:00 |
 | [Donnie Darko 4K CZ Titulky](https://prehraj.to/donnie-darko-4k-cz-titulky-mkv/2e2a0f583f318abe) (ID 30625425) | [Sdílej 32668635](https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv) | target_unavailable | 2026-10-31T02:03:39.815062+00:00 |
 | [Elite Squad: The Enemy Within 1080p CZ Titulky](https://prehraj.to/elite-squad-the-enemy-within-1080p-cz-titulky-mkv/8cc4007d4f15a04f) (ID 30630934) | [Sdílej 22723021](https://sdilej.cz/22723021/elitni-jednotka-2-vnitrni-nepritel-2010-akcni-krimi-drama-thriller-cz-tit.-fullhd-1080p-.mkv) | target_unavailable | 2026-10-31T02:03:29.642888+00:00 |
 | [Guardians of the Galaxy Vol. 3 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-vol-3-4k-cz-titulky-mkv/134396bccaf3cde2) (ID 30638438) | [Sdílej 26457098](https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T02:54:24.929762+00:00 |
