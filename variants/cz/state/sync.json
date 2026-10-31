@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:12:11.893953+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-10-31T01:47:37.661997+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-10-31T02:18:13.671127+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:50:55.395442+00:00"
         }
       ],
       "last_plan": {
@@ -1041,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:18:14.758759+00:00"
+        "planned_at": "2026-10-31T02:50:54.192664+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1049,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "43a39cefd39d475781080141aa27b9ad-shard-0",
+        "claimed_at": "2026-10-31T02:50:54.364334+00:00",
+        "lease_expires_at": "2026-10-31T08:50:54.364334+00:00",
+        "run_id": "41144016453"
       }
     },
     "54": {
@@ -13418,7 +13424,7 @@
       "last_plan": {
         "source_id": "29464604",
         "display_name": "Dawn of the Dead (1978) 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:50:52.985713+00:00"
+        "planned_at": "2026-10-31T02:50:54.259084+00:00"
       }
     },
     "11475": {
@@ -33577,5 +33583,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:50:52.985730+00:00"
+  "updated_at": "2026-10-31T02:50:55.395461+00:00"
 }
