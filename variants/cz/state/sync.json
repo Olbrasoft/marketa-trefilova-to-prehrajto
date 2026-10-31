@@ -12962,17 +12962,19 @@
       }
     },
     "494": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24683812",
+          "target_video_id": "30651204",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:16:10.763064+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24683812",
         "display_name": "Straight Outta Compton 1080p CZ Dabing",
         "planned_at": "2026-10-31T01:34:04.609327+00:00"
-      },
-      "claim": {
-        "worker_id": "491beb695e504a2c9896e7ce402c9068-shard-0",
-        "claimed_at": "2026-10-31T01:34:04.717159+00:00",
-        "lease_expires_at": "2026-10-31T07:34:04.717159+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30651204",
       "prepared": {
@@ -33215,5 +33217,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:06:19.070652+00:00"
+  "updated_at": "2026-10-31T02:16:10.763079+00:00"
 }
