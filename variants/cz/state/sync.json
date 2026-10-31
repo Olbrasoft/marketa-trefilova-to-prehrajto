@@ -18356,17 +18356,19 @@
       }
     },
     "624": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33614502",
+          "target_video_id": "30674831",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:17:34.841664+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33614502",
         "display_name": "Adam's Apples (Adams æbler) 1080p CZ Dabing",
         "planned_at": "2026-10-31T18:11:25.620574+00:00"
-      },
-      "claim": {
-        "worker_id": "515d3f165f7c4daaa91b141a41a19586-shard-0",
-        "claimed_at": "2026-10-31T18:11:25.765203+00:00",
-        "lease_expires_at": "2026-11-01T00:11:25.765203+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674831",
       "prepared": {
@@ -40448,5 +40450,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:13:22.235094+00:00"
+  "updated_at": "2026-10-31T18:17:34.841684+00:00"
 }
