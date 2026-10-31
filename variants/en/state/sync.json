@@ -8856,13 +8856,6 @@
           "source_id": "35402143",
           "target_video_id": "30663753",
           "permanent": false,
-          "attempted_at": "2026-10-31T14:41:41.317213+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35402143",
-          "target_video_id": "30663753",
-          "permanent": false,
           "attempted_at": "2026-10-31T15:22:02.163374+00:00"
         },
         {
@@ -8871,6 +8864,13 @@
           "target_video_id": "30663753",
           "permanent": false,
           "attempted_at": "2026-10-31T16:01:23.204952+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35402143",
+          "target_video_id": "30663753",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:03:23.401118+00:00"
         }
       ],
       "last_plan": {
@@ -8884,12 +8884,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-31T10:43:28.744328+00:00",
         "relay_source_id": "35402143"
-      },
-      "claim": {
-        "worker_id": "ad5666b581154cc8a6e77dffcc6ff7a0-shard-0",
-        "claimed_at": "2026-10-31T17:03:21.490076+00:00",
-        "lease_expires_at": "2026-10-31T23:03:21.490076+00:00",
-        "run_id": "41219330327"
       }
     },
     "642": {
@@ -9063,7 +9057,7 @@
       "last_plan": {
         "source_id": "35402244",
         "display_name": "Gattaca 1080p CZ Titulky",
-        "planned_at": "2026-10-31T16:01:24.842180+00:00"
+        "planned_at": "2026-10-31T17:03:22.973658+00:00"
       },
       "previous_target_id": "30664643",
       "prepared": {
@@ -9071,6 +9065,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T11:52:22.084766+00:00",
         "relay_source_id": "35402244"
+      },
+      "claim": {
+        "worker_id": "a36661b0f88f4fa7a79c8d1e2f8ab153-shard-0",
+        "claimed_at": "2026-10-31T17:03:23.031169+00:00",
+        "lease_expires_at": "2026-10-31T23:03:23.031169+00:00",
+        "run_id": "41219330327"
       }
     },
     "11264": {
@@ -9450,7 +9450,7 @@
       "last_plan": {
         "source_id": "24371035",
         "display_name": "My Fair Lady 1080p CZ Titulky",
-        "planned_at": "2026-10-31T17:03:21.472012+00:00"
+        "planned_at": "2026-10-31T17:03:23.009855+00:00"
       }
     },
     "28204": {
@@ -31416,5 +31416,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:03:21.639788+00:00"
+  "updated_at": "2026-10-31T17:03:23.401139+00:00"
 }
