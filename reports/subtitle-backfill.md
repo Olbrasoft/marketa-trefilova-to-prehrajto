@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T03:04:40.295361+00:00
+Poslední aktualizace (UTC): 2026-10-31T03:05:11.069820+00:00
 
 Zkontrolováno videí: 144. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 68, `attached_verified`: 3, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 32, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 68, `attached_verified`: 3, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 31, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -81,7 +81,7 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky](https://prehraj.to/society-of-the-snow-la-sociedad-de-la-nieve-1080p-cz-titulky-mkv/1f528cd767b13fc5) (ID 30652651) | [Sdílej 27805228](https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv) | target_unavailable | 2026-10-31T02:33:57.158497+00:00 |
 | [Spartacus (1960) 1080p CZ Titulky](https://prehraj.to/spartacus-1960-1080p-cz-titulky-mkv/cf501ae8f0ca4907) (ID 30641259) | [Sdílej 30774032](https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv) | target_unavailable | 2026-10-31T02:13:41.686947+00:00 |
 | [Taegukgi (태극기 휘날리며) 720p CZ Titulky](https://prehraj.to/taegukgi-720p-cz-titulky-mkv/4a834c4e3076e2d5) (ID 30631676) | [Sdílej 15397067](https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv) | target_unavailable | 2026-10-31T02:54:42.055299+00:00 |
-| [The Ascent 1080p CZ Titulky](https://prehraj.to/the-ascent-1080p-cz-titulky-mp4/1336557402a4a4bf) (ID 30631012) | [Sdílej 33856188](https://sdilej.cz/33856188/300-vzestup-rise.mp4) | target_unavailable | 2026-10-31T02:03:32.974671+00:00 |
+| [The Ascent 1080p CZ Titulky](https://prehraj.to/the-ascent-1080p-cz-titulky-mp4/1336557402a4a4bf) (ID 30631012) | [Sdílej 33856188](https://sdilej.cz/33856188/300-vzestup-rise.mp4) | upload_unconfirmed | 2026-10-31T03:05:11.069779+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-31T02:54:53.610611+00:00 |
 | [The Irishman 720p CZ Titulky](https://prehraj.to/the-irishman-720p-cz-titulky-mkv/c70ac834645aae57) (ID 30648488) | [Sdílej 12685665](https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv) | target_unavailable | 2026-10-31T02:44:13.194343+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-31T02:24:10.486802+00:00 |
