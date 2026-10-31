@@ -17195,17 +17195,19 @@
       }
     },
     "607": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13623742",
+          "target_video_id": "30669819",
+          "permanent": false,
+          "attempted_at": "2026-10-31T14:39:35.009695+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13623742",
         "display_name": "Kubo and the Two Strings 1080p CZ Dabing",
         "planned_at": "2026-10-31T14:35:35.247707+00:00"
-      },
-      "claim": {
-        "worker_id": "3dc669fa036a44b98aa451e1ea074b6b-shard-0",
-        "claimed_at": "2026-10-31T14:35:35.313664+00:00",
-        "lease_expires_at": "2026-10-31T20:35:35.313664+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30669819",
       "prepared": {
@@ -38795,5 +38797,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T14:36:50.113590+00:00"
+  "updated_at": "2026-10-31T14:39:35.009710+00:00"
 }
