@@ -15707,17 +15707,19 @@
       "attempts": []
     },
     "587": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15340998",
+          "target_video_id": "30663060",
+          "permanent": false,
+          "attempted_at": "2026-10-31T10:25:13.191724+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15340998",
         "display_name": "Tangled 4K CZ Dabing",
         "planned_at": "2026-10-31T09:56:01.730535+00:00"
-      },
-      "claim": {
-        "worker_id": "7404817818fa45d78d0427277cce1ea0-shard-0",
-        "claimed_at": "2026-10-31T09:56:01.859600+00:00",
-        "lease_expires_at": "2026-10-31T15:56:01.859600+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30663060",
       "prepared": {
@@ -36766,5 +36768,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T10:22:14.800914+00:00"
+  "updated_at": "2026-10-31T10:25:13.191741+00:00"
 }
