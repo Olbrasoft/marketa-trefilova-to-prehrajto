@@ -6347,13 +6347,6 @@
           "source_id": "30773956",
           "target_video_id": "30643106",
           "permanent": false,
-          "attempted_at": "2026-10-31T06:09:37.491143+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30773956",
-          "target_video_id": "30643106",
-          "permanent": false,
           "attempted_at": "2026-10-31T06:41:53.371941+00:00"
         },
         {
@@ -6362,6 +6355,13 @@
           "target_video_id": "30643106",
           "permanent": false,
           "attempted_at": "2026-10-31T07:14:00.300305+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30773956",
+          "target_video_id": "30643106",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:02:23.147249+00:00"
         }
       ],
       "last_plan": {
@@ -6375,12 +6375,6 @@
         "size_bytes": 7200000000,
         "prepared_at": "2026-10-30T19:39:15.976482+00:00",
         "relay_source_id": "30773956"
-      },
-      "claim": {
-        "worker_id": "f221861dfce646158025277100426b73-shard-0",
-        "claimed_at": "2026-10-31T08:02:20.718092+00:00",
-        "lease_expires_at": "2026-10-31T14:02:20.718092+00:00",
-        "run_id": "41180338554"
       }
     },
     "28372": {
@@ -6434,7 +6428,7 @@
       "last_plan": {
         "source_id": "12845023",
         "display_name": "Togo 1080p CZ Titulky",
-        "planned_at": "2026-10-31T07:14:01.568794+00:00"
+        "planned_at": "2026-10-31T08:02:22.744307+00:00"
       },
       "previous_target_id": "30643515",
       "prepared": {
@@ -6442,6 +6436,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-10-30T19:58:02.071577+00:00",
         "relay_source_id": "12845023"
+      },
+      "claim": {
+        "worker_id": "967064c96b9d40af94963bf12e490f58-shard-0",
+        "claimed_at": "2026-10-31T08:02:22.839195+00:00",
+        "lease_expires_at": "2026-10-31T14:02:22.839195+00:00",
+        "run_id": "41180338554"
       }
     },
     "18694": {
@@ -8448,7 +8448,7 @@
       "last_plan": {
         "source_id": "29667772",
         "display_name": "Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T08:02:20.687475+00:00"
+        "planned_at": "2026-10-31T08:02:22.808205+00:00"
       }
     },
     "655": {
@@ -28881,5 +28881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:02:21.460384+00:00"
+  "updated_at": "2026-10-31T08:02:23.147268+00:00"
 }
