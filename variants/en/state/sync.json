@@ -8530,17 +8530,19 @@
       "attempts": []
     },
     "628": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22875915",
+          "target_video_id": "30661955",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:12:03.709527+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22875915",
         "display_name": "Harry Potter and the Goblet of Fire 1080p CZ Titulky",
         "planned_at": "2026-10-31T08:54:49.977909+00:00"
-      },
-      "claim": {
-        "worker_id": "d4b0ee975986484e84071757b6487f21-shard-0",
-        "claimed_at": "2026-10-31T08:54:50.016215+00:00",
-        "lease_expires_at": "2026-10-31T14:54:50.016215+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30661955",
       "prepared": {
@@ -29162,5 +29164,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:11:15.434904+00:00"
+  "updated_at": "2026-10-31T09:12:03.709545+00:00"
 }
