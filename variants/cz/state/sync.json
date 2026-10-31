@@ -16250,17 +16250,19 @@
       }
     },
     "12430": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27866326",
+          "target_video_id": "30664516",
+          "permanent": false,
+          "attempted_at": "2026-10-31T11:47:06.299904+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27866326",
         "display_name": "Mulan (1998) 1080p CZ Dabing",
         "planned_at": "2026-10-31T11:41:43.811500+00:00"
-      },
-      "claim": {
-        "worker_id": "ceb3d58e1aae486b9eb76cec6e26b108-shard-0",
-        "claimed_at": "2026-10-31T11:41:43.926038+00:00",
-        "lease_expires_at": "2026-10-31T17:41:43.926038+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30664516",
       "prepared": {
@@ -37338,5 +37340,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T11:41:47.624428+00:00"
+  "updated_at": "2026-10-31T11:47:06.299920+00:00"
 }
