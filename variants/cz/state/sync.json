@@ -13581,17 +13581,19 @@
       "attempts": []
     },
     "12116": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34675260",
+          "target_video_id": "30653507",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:22:20.950737+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34675260",
         "display_name": "Three Colours: Blue (Trois couleurs : Bleu) 720p CZ Dabing",
         "planned_at": "2026-10-31T03:15:38.708263+00:00"
-      },
-      "claim": {
-        "worker_id": "41bfac3a23e247e0bdd97afb3cbe320a-shard-0",
-        "claimed_at": "2026-10-31T03:15:38.817885+00:00",
-        "lease_expires_at": "2026-10-31T09:15:38.817885+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30653507",
       "prepared": {
@@ -33819,5 +33821,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:22:18.015116+00:00"
+  "updated_at": "2026-10-31T03:22:20.950754+00:00"
 }
