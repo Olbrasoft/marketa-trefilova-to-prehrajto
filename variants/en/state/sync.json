@@ -2801,13 +2801,6 @@
           "source_id": "33590630",
           "target_video_id": "30612365",
           "permanent": false,
-          "attempted_at": "2026-10-31T11:16:04.151756+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33590630",
-          "target_video_id": "30612365",
-          "permanent": false,
           "attempted_at": "2026-10-31T11:47:51.724932+00:00"
         },
         {
@@ -2816,6 +2809,13 @@
           "target_video_id": "30612365",
           "permanent": false,
           "attempted_at": "2026-10-31T12:27:46.685634+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33590630",
+          "target_video_id": "30612365",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:02:25.583039+00:00"
         }
       ],
       "last_plan": {
@@ -2829,12 +2829,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
-      },
-      "claim": {
-        "worker_id": "008fc2eec81244b699f9536570cf41c0-shard-0",
-        "claimed_at": "2026-10-31T13:02:18.346482+00:00",
-        "lease_expires_at": "2026-10-31T19:02:18.346482+00:00",
-        "run_id": "41196554990"
       }
     },
     "21312": {
@@ -6258,7 +6252,7 @@
       "last_plan": {
         "source_id": "20929657",
         "display_name": "Do the Right Thing 1080p CZ Titulky",
-        "planned_at": "2026-10-31T12:27:53.422933+00:00"
+        "planned_at": "2026-10-31T13:02:24.854452+00:00"
       },
       "previous_target_id": "30642017",
       "prepared": {
@@ -6266,6 +6260,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-10-30T18:36:18.026732+00:00",
         "relay_source_id": "20929657"
+      },
+      "claim": {
+        "worker_id": "e4db117573a540a29ac8690b61b5c863-shard-0",
+        "claimed_at": "2026-10-31T13:02:24.910574+00:00",
+        "lease_expires_at": "2026-10-31T19:02:24.910574+00:00",
+        "run_id": "41196554990"
       }
     },
     "12681": {
@@ -9121,7 +9121,7 @@
       "last_plan": {
         "source_id": "6725476",
         "display_name": "Blue Velvet 1080p CZ Titulky",
-        "planned_at": "2026-10-31T13:02:20.981298+00:00"
+        "planned_at": "2026-10-31T13:02:24.892136+00:00"
       }
     },
     "12137": {
@@ -30329,5 +30329,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:02:21.667986+00:00"
+  "updated_at": "2026-10-31T13:02:25.583061+00:00"
 }
