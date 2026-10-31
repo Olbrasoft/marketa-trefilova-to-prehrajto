@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "0bd80045134e4269863ba5ebc70e87e4-shard-0",
+        "claimed_at": "2026-10-31T08:03:16.457270+00:00",
+        "lease_expires_at": "2026-10-31T14:03:16.457270+00:00",
+        "run_id": "41180338554"
       }
     },
     "29922": {
@@ -14861,17 +14867,23 @@
           "attempted_at": "2026-10-31T07:16:04.735771+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "28920825",
-        "display_name": "The Asphalt Jungle 1080p CZ Dabing",
-        "planned_at": "2026-10-31T07:08:21.433681+00:00"
-      },
       "previous_target_id": "30659422",
-      "prepared": {
+      "upload": {
         "target_video_id": "30659422",
-        "size_bytes": 2514658475,
-        "prepared_at": "2026-10-31T07:08:25.972948+00:00",
-        "relay_source_id": "28920825"
+        "display_name": "The Asphalt Jungle 1080p CZ Dabing",
+        "source_id": "28920825",
+        "source_url": "https://sdilej.cz/28920825/asfaltova-dzungle-the-asphalt-jungle-1950-hd-cz-dabing.mkv",
+        "source_filename": "Asfaltova dzungle The Asphalt Jungle 1950 HD CZ Dabing.mkv",
+        "size_bytes": 2500000000,
+        "width": 1488,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9597935676574707,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-asphalt-jungle-1080p-cz-dabing-mkv/fe708238175b2375",
+        "uploaded_at": "2026-10-31T08:03:17.404754+00:00"
       }
     },
     "30757": {
@@ -15098,7 +15110,7 @@
       "last_plan": {
         "source_id": "31433415",
         "display_name": "The Train 1080p CZ Dabing",
-        "planned_at": "2026-10-31T08:03:14.904518+00:00"
+        "planned_at": "2026-10-31T08:03:16.586305+00:00"
       }
     },
     "30098": {
@@ -35544,5 +35556,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:03:14.904537+00:00"
+  "updated_at": "2026-10-31T08:03:17.404777+00:00"
 }
