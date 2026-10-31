@@ -19615,17 +19615,19 @@
       }
     },
     "817": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34016693",
+          "target_video_id": "30680123",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:50:22.712133+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34016693",
         "display_name": "Minority Report 4K CZ Dabing",
         "planned_at": "2026-10-31T22:31:21.193397+00:00"
-      },
-      "claim": {
-        "worker_id": "118e6cf1b26b4588b96b8f2f3b0547bd-shard-0",
-        "claimed_at": "2026-10-31T22:31:21.328226+00:00",
-        "lease_expires_at": "2026-11-01T04:31:21.328226+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30680123",
       "prepared": {
@@ -42311,5 +42313,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:31:25.479322+00:00"
+  "updated_at": "2026-10-31T22:50:22.712148+00:00"
 }
