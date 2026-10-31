@@ -100,6 +100,7 @@ Attach subtitles only after target processing has finished.
 | The Seventh Seal 4K CZ Titulky | 30677858 | https://sdilej.cz/30698168/the-seventh-seal-1957-blu-ray-2160p-4k-hdr-full-movie-cz-eng-sub-best-quality.mkv | Extract Czech track from exact source after processing |
 | Paris, Texas 1080p CZ Titulky | 30622275 | https://sdilej.cz/15641041/paris-texas-1984-1080p-cz-titl.mkv | Complete: Czech subtitles verified |
 | The Grapes of Wrath 1080p | 30622415 | https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4 | Find and add matching Czech subtitles after processing |
+| My Octopus Teacher 1080p CZ Titulky | 30678128 | https://sdilej.cz/14581505/moje-ucitelka-chobotnice-my-octopus-teacher-2020-1080p-webrip-ac3-5.1-eng-cz-sub.mkv | Extract Czech track from exact source after processing |
 | The Voice of Hind Rajab (صوت هند رجب) 1080p CZ Titulky | 30622539 | https://sdilej.cz/34845555/the-voice-of-hind-rajab-2025-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Ordet 1080p | 30622762 | https://sdilej.cz/30646256/ordet.1955.mkv | Find and add matching Czech subtitles after processing |
 | Talvar SD | 30622823 | https://sdilej.cz/34775753/rezavy-mec-2015-.mp4 | Find and add matching Czech subtitles after processing |
