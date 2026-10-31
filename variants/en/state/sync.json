@@ -8980,17 +8980,19 @@
       "attempts": []
     },
     "606": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402244",
+          "target_video_id": "30664643",
+          "permanent": false,
+          "attempted_at": "2026-10-31T11:59:27.736064+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402244",
         "display_name": "Gattaca 1080p CZ Titulky",
         "planned_at": "2026-10-31T11:52:18.653152+00:00"
-      },
-      "claim": {
-        "worker_id": "6902a13aab9d4ce6a8f6ff25453b40b5-shard-0",
-        "claimed_at": "2026-10-31T11:52:18.690815+00:00",
-        "lease_expires_at": "2026-10-31T17:52:18.690815+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30664643",
       "prepared": {
@@ -30070,5 +30072,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T11:58:38.365002+00:00"
+  "updated_at": "2026-10-31T11:59:27.736077+00:00"
 }
