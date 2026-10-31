@@ -6,6 +6,7 @@ Attach subtitles only after target processing has finished.
 | --- | --- | --- | --- |
 | The Godfather 1080p CZ Titulky | 30594653 | https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4 | Extract Czech track from exact source after processing |
 | The Dark Knight 1080p CZ Titulky | 30585161 | https://sdilej.cz/12980181/batman-temny-ritir-2008-fullhd-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
+| The Lord of the Rings: The Return of the King 1080p CZ Titulky | 30675719 | https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv | Extract Czech track from exact source after processing |
 | The Godfather Part II 1080p CZ Titulky | 30580910 | https://sdilej.cz/28589101/kmotr-ii.-1974-fhd-1080p--cz-cz-pl-eng-.mkv | Complete: Czech subtitles verified |
 | 12 Angry Men (1957) 4K CZ Titulky | 30582493 | https://sdilej.cz/34471608/dvanact-rozhnevanych-muzu-12-angry-men-1957-4k-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky | 30582771 | https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv | Extract Czech track from exact source after processing |
