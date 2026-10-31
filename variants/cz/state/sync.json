@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-10-31T17:04:28.676483+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-10-31T17:41:11.470924+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-10-31T18:11:44.040312+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:44:35.573735+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "75e5b4a1954c455bbdecb8b9e6176854-shard-0",
-        "claimed_at": "2026-10-31T18:44:33.385583+00:00",
-        "lease_expires_at": "2026-11-01T00:44:33.385583+00:00",
-        "run_id": "41219330327"
       }
     },
     "10755": {
@@ -8032,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-10-31T18:11:45.346590+00:00"
+        "planned_at": "2026-10-31T18:44:34.739084+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8040,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "d5fd1429c0474f37bc4ea24c6bab5be8-shard-0",
+        "claimed_at": "2026-10-31T18:44:34.843643+00:00",
+        "lease_expires_at": "2026-11-01T00:44:34.843643+00:00",
+        "run_id": "41219330327"
       }
     },
     "10690": {
@@ -18678,7 +18678,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-10-31T18:44:33.320532+00:00"
+        "planned_at": "2026-10-31T18:44:34.780974+00:00"
       }
     },
     "29695": {
@@ -40897,5 +40897,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:44:33.545783+00:00"
+  "updated_at": "2026-10-31T18:44:35.573748+00:00"
 }
