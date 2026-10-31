@@ -15292,6 +15292,12 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-10-31T08:11:42.896977+00:00",
         "relay_source_id": "31822813"
+      },
+      "claim": {
+        "worker_id": "54d7cd740d574ff4b1ba4aaaa11554c6-shard-0",
+        "claimed_at": "2026-10-31T18:11:17.678053+00:00",
+        "lease_expires_at": "2026-11-01T00:11:17.678053+00:00",
+        "run_id": "41219330327"
       }
     },
     "20007": {
@@ -18092,17 +18098,23 @@
           "attempted_at": "2026-10-31T17:40:51.083533+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32252274",
-        "display_name": "The Man from Nowhere (아저씨) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T17:31:31.181078+00:00"
-      },
       "previous_target_id": "30674165",
-      "prepared": {
+      "upload": {
         "target_video_id": "30674165",
-        "size_bytes": 3923600652,
-        "prepared_at": "2026-10-31T17:31:34.729911+00:00",
-        "relay_source_id": "32252274"
+        "display_name": "The Man from Nowhere (아저씨) 1080p CZ Dabing",
+        "source_id": "32252274",
+        "source_url": "https://sdilej.cz/32252274/muz-odnikud-cz.mkv",
+        "source_filename": "Muž odnikud-cz.mkv",
+        "size_bytes": 3900000000,
+        "width": 1920,
+        "height": 816,
+        "audio_language": "cs",
+        "language_probability": 0.8236558437347412,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-man-from-nowhere-1080p-cz-dabing-mkv/7088fc8c1aa84b5a",
+        "uploaded_at": "2026-10-31T18:11:19.064575+00:00"
       }
     },
     "605": {
@@ -18348,7 +18360,7 @@
       "last_plan": {
         "source_id": "33614502",
         "display_name": "Adam's Apples (Adams æbler) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T18:11:16.277965+00:00"
+        "planned_at": "2026-10-31T18:11:17.788444+00:00"
       }
     },
     "23033": {
@@ -40418,5 +40430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:11:16.277984+00:00"
+  "updated_at": "2026-10-31T18:11:19.064593+00:00"
 }
