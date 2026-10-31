@@ -2829,6 +2829,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "2c775e5547cf4e179641d5978085b98a-shard-0",
+        "claimed_at": "2026-10-31T08:02:04.800458+00:00",
+        "lease_expires_at": "2026-10-31T14:02:04.800458+00:00",
+        "run_id": "41180338554"
       }
     },
     "21312": {
@@ -6457,13 +6463,6 @@
           "source_id": "11690436",
           "target_video_id": "30643582",
           "permanent": false,
-          "attempted_at": "2026-10-31T06:09:20.839506+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11690436",
-          "target_video_id": "30643582",
-          "permanent": false,
           "attempted_at": "2026-10-31T06:41:38.802626+00:00"
         },
         {
@@ -6472,12 +6471,19 @@
           "target_video_id": "30643582",
           "permanent": false,
           "attempted_at": "2026-10-31T07:13:43.855187+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11690436",
+          "target_video_id": "30643582",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:02:06.579593+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11690436",
         "display_name": "Icarus (2017) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T07:13:42.653458+00:00"
+        "planned_at": "2026-10-31T08:02:04.960700+00:00"
       },
       "previous_target_id": "30643582",
       "prepared": {
@@ -8436,7 +8442,7 @@
       "last_plan": {
         "source_id": "29667772",
         "display_name": "Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T08:02:03.622351+00:00"
+        "planned_at": "2026-10-31T08:02:05.027608+00:00"
       }
     },
     "655": {
@@ -28869,5 +28875,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:02:03.622392+00:00"
+  "updated_at": "2026-10-31T08:02:06.579612+00:00"
 }
