@@ -55,6 +55,7 @@ Attach subtitles only after target processing has finished.
 | Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky | 30602497 | https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4 | Extract Czech track from exact source after processing |
 | Once Upon a Time in America 1080p CZ Titulky | 30677049 | https://sdilej.cz/16198758/tenkrat-v-americe-once.upon.a.time.in.america.1984.extended.1080p.bluray.x264-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Lawrence of Arabia 1080p CZ Titulky | 30603287 | https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv | Complete: Czech subtitles verified |
+| Singin' in the Rain SD | 30677056 | https://sdilej.cz/15908236/zpivani-v-desti-czdab.mp4 | Find and add matching Czech subtitles after processing |
 | Oppenheimer 4K CZ Titulky | 30606867 | https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv | Extract Czech track from exact source after processing |
 | Taxi Driver 1080p CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
 | A Clockwork Orange 4K CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
