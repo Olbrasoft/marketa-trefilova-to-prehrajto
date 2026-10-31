@@ -19488,17 +19488,19 @@
       }
     },
     "776": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33021649",
+          "reason": "Request failed for https://sdilej.cz/33021649/strazci-galaxie-vol.-2.mkv (HTTP 520)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:15:31.567103+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33021649",
         "display_name": "Guardians of the Galaxy Vol. 2 4K CZ Dabing",
         "planned_at": "2026-10-31T22:15:28.180695+00:00"
-      },
-      "claim": {
-        "worker_id": "a274ae99c5c0469589821ad54bb6e7f2-shard-0",
-        "claimed_at": "2026-10-31T22:15:28.380376+00:00",
-        "lease_expires_at": "2026-11-01T04:15:28.380376+00:00",
-        "run_id": "41243223179"
       }
     },
     "748": {
@@ -42034,5 +42036,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:15:30.155747+00:00"
+  "updated_at": "2026-10-31T22:15:31.567119+00:00"
 }
