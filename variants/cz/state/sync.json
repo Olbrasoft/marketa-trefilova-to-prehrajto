@@ -11243,13 +11243,6 @@
           "source_id": "34478058",
           "target_video_id": "30644026",
           "permanent": false,
-          "attempted_at": "2026-10-31T02:18:38.384769+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34478058",
-          "target_video_id": "30644026",
-          "permanent": false,
           "attempted_at": "2026-10-31T02:51:12.345638+00:00"
         },
         {
@@ -11258,12 +11251,19 @@
           "target_video_id": "30644026",
           "permanent": false,
           "attempted_at": "2026-10-31T03:23:26.171234+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34478058",
+          "target_video_id": "30644026",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:57:35.224166+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34478058",
         "display_name": "The Normal Heart 1080p CZ Dabing",
-        "planned_at": "2026-10-31T03:23:24.976270+00:00"
+        "planned_at": "2026-10-31T03:57:33.927908+00:00"
       },
       "previous_target_id": "30644026",
       "prepared": {
@@ -13774,11 +13774,22 @@
       "last_plan": {
         "source_id": "32661450",
         "display_name": "Charade SD CZ Dabing",
-        "planned_at": "2026-10-31T03:57:31.466172+00:00"
+        "planned_at": "2026-10-31T03:57:33.977566+00:00"
+      },
+      "claim": {
+        "worker_id": "38e1d015dc99466bba143c54a0319e44-shard-0",
+        "claimed_at": "2026-10-31T03:57:34.132736+00:00",
+        "lease_expires_at": "2026-10-31T09:57:34.132736+00:00",
+        "run_id": "41164110278"
       }
     },
     "23421": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34253511",
+        "display_name": "The Remains of the Day 4K CZ Dabing",
+        "planned_at": "2026-10-31T03:57:34.004314+00:00"
+      }
     },
     "11208": {
       "attempts": []
@@ -33963,5 +33974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:57:32.637124+00:00"
+  "updated_at": "2026-10-31T03:57:35.224184+00:00"
 }
