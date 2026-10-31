@@ -11756,13 +11756,6 @@
           "source_id": "14820817",
           "target_video_id": "30645740",
           "permanent": false,
-          "attempted_at": "2026-10-31T14:13:45.163354+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14820817",
-          "target_video_id": "30645740",
-          "permanent": false,
           "attempted_at": "2026-10-31T14:44:20.361929+00:00"
         },
         {
@@ -11771,6 +11764,13 @@
           "target_video_id": "30645740",
           "permanent": false,
           "attempted_at": "2026-10-31T15:24:19.194255+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14820817",
+          "target_video_id": "30645740",
+          "permanent": false,
+          "attempted_at": "2026-10-31T16:02:23.357032+00:00"
         }
       ],
       "last_plan": {
@@ -16332,7 +16332,7 @@
       "last_plan": {
         "source_id": "17372524",
         "display_name": "O Brother, Where Art Thou? 1080p CZ Dabing",
-        "planned_at": "2026-10-31T15:24:20.526692+00:00"
+        "planned_at": "2026-10-31T16:02:22.244170+00:00"
       },
       "previous_target_id": "30664503",
       "prepared": {
@@ -16340,6 +16340,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-10-31T11:40:42.704029+00:00",
         "relay_source_id": "17372524"
+      },
+      "claim": {
+        "worker_id": "9ef5d2ece0f2485da5b582bcd22979db-shard-0",
+        "claimed_at": "2026-10-31T16:02:22.418142+00:00",
+        "lease_expires_at": "2026-10-31T22:02:22.418142+00:00",
+        "run_id": "41196554990"
       }
     },
     "12430": {
@@ -17623,7 +17629,7 @@
       "last_plan": {
         "source_id": "28172041",
         "display_name": "Detachment 1080p CZ Dabing",
-        "planned_at": "2026-10-31T16:02:20.825107+00:00"
+        "planned_at": "2026-10-31T16:02:22.347852+00:00"
       }
     },
     "35060": {
@@ -39362,5 +39368,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T16:02:20.825127+00:00"
+  "updated_at": "2026-10-31T16:02:23.357057+00:00"
 }
