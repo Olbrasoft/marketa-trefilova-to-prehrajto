@@ -15933,17 +15933,19 @@
       }
     },
     "571": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33199632",
+          "target_video_id": "30663587",
+          "permanent": false,
+          "attempted_at": "2026-10-31T10:49:30.045166+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33199632",
         "display_name": "The Game 4K CZ Dabing",
         "planned_at": "2026-10-31T10:31:13.228188+00:00"
-      },
-      "claim": {
-        "worker_id": "b51ca57b705a4fa08a079aa7424285fa-shard-0",
-        "claimed_at": "2026-10-31T10:31:13.340926+00:00",
-        "lease_expires_at": "2026-10-31T16:31:13.340926+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30663587",
       "prepared": {
@@ -36894,5 +36896,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T10:43:35.930504+00:00"
+  "updated_at": "2026-10-31T10:49:30.045190+00:00"
 }
