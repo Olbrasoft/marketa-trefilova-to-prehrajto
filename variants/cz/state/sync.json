@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-10-31T05:01:31.836179+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-10-31T05:32:33.048997+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-10-31T06:10:25.534085+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-10-31T06:42:34.437326+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "689134f5f8f7464aaace96cd97c5cf73-shard-0",
-        "claimed_at": "2026-10-31T06:42:31.375721+00:00",
-        "lease_expires_at": "2026-10-31T12:42:31.375721+00:00",
-        "run_id": "41164110278"
       }
     },
     "54": {
@@ -9764,7 +9758,7 @@
       "last_plan": {
         "source_id": "32940690",
         "display_name": "The Nightmare Before Christmas 4K CZ Dabing",
-        "planned_at": "2026-10-31T06:10:26.844762+00:00"
+        "planned_at": "2026-10-31T06:42:33.343625+00:00"
       },
       "previous_target_id": "30639237",
       "prepared": {
@@ -9772,6 +9766,12 @@
         "size_bytes": 14200000000,
         "prepared_at": "2026-10-30T16:01:16.841593+00:00",
         "relay_source_id": "32940690"
+      },
+      "claim": {
+        "worker_id": "a2b450e0fd1c44ce86f38b6e2663d9c8-shard-0",
+        "claimed_at": "2026-10-31T06:42:33.476735+00:00",
+        "lease_expires_at": "2026-10-31T12:42:33.476735+00:00",
+        "run_id": "41164110278"
       }
     },
     "30270": {
@@ -14565,7 +14565,7 @@
       "last_plan": {
         "source_id": "33524107",
         "display_name": "Earth 4K CZ Dabing",
-        "planned_at": "2026-10-31T06:42:31.294886+00:00"
+        "planned_at": "2026-10-31T06:42:33.396450+00:00"
       }
     },
     "22442": {
@@ -34994,5 +34994,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:42:32.007418+00:00"
+  "updated_at": "2026-10-31T06:42:34.437344+00:00"
 }
