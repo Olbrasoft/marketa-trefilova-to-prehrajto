@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T08:13:39.101826+00:00
+Poslední aktualizace (UTC): 2026-10-31T08:13:42.845681+00:00
 
 Zkontrolováno videí: 163. Další stránka kontroly: 0.
 
@@ -96,7 +96,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 38. Důvod
 | [The Wind Rises (Kaze tachinu) 1080p CZ Titulky](https://prehraj.to/the-wind-rises-kaze-tachinu-1080p-cz-titulky-mkv/343065e0c684db5b) (ID 30653654) | [Sdílej 22124732](https://sdilej.cz/22124732/-dragsterps-kaze-tachinu-1080p-multi-audio-multi-subs-h264-aac-21ec96d7-.mkv) | target_unavailable | 2026-10-31T08:13:38.306547+00:00 |
 | [Thirteen Lives 1080p CZ Titulky](https://prehraj.to/thirteen-lives-1080p-cz-titulky-mkv/702fb47ed407e6ae) (ID 30654980) | [Sdílej 22401923](https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv) | target_unavailable | 2026-10-31T05:38:01.502453+00:00 |
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-31T08:13:24.276402+00:00 |
-| [Walk the Line 1080p CZ Titulky](https://prehraj.to/walk-the-line-1080p-cz-titulky-mkv/0ffc5079d005c129) (ID 30650875) | [Sdílej 6489245](https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-31T05:27:48.814545+00:00 |
+| [Walk the Line 1080p CZ Titulky](https://prehraj.to/walk-the-line-1080p-cz-titulky-mkv/0ffc5079d005c129) (ID 30650875) | [Sdílej 6489245](https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-31T08:13:42.845595+00:00 |
 | [Whisper of the Heart (耳をすませば) 1080p CZ Titulky](https://prehraj.to/whisper-of-the-heart-1080p-cz-titulky-mkv/bcf952f83d294208) (ID 30654463) | [Sdílej 34140580](https://sdilej.cz/34140580/sepot-srdce-whisper-of-the-heart-1995--tt0113824--en-es-fr-de-it-tr-sv-fi-no-ru-cs-id-vi-th-ko-zh-ja-.webdl-1080p.h265-aac-2.0.mkv) | target_unavailable | 2026-10-31T08:13:20.802620+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-31T05:58:44.769693+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-10-31T08:13:17.459227+00:00 |
