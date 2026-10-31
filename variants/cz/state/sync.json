@@ -17232,17 +17232,19 @@
       }
     },
     "11124": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34922153",
+          "target_video_id": "30670091",
+          "permanent": false,
+          "attempted_at": "2026-10-31T14:52:09.594282+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34922153",
         "display_name": "Serpico 1080p CZ Dabing",
         "planned_at": "2026-10-31T14:42:19.848343+00:00"
-      },
-      "claim": {
-        "worker_id": "c5f736f6cb9947d998bd7c2167ff34bd-shard-0",
-        "claimed_at": "2026-10-31T14:42:19.918237+00:00",
-        "lease_expires_at": "2026-10-31T20:42:19.918237+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30670091",
       "prepared": {
@@ -38860,5 +38862,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T14:44:50.589679+00:00"
+  "updated_at": "2026-10-31T14:52:09.594304+00:00"
 }
