@@ -9234,7 +9234,7 @@
       "last_plan": {
         "source_id": "14848573",
         "display_name": "Star Trek Into Darkness 1080p CZ Titulky",
-        "planned_at": "2026-10-31T20:20:57.465297+00:00"
+        "planned_at": "2026-10-31T21:35:39.163984+00:00"
       },
       "previous_target_id": "30663442",
       "prepared": {
@@ -9242,6 +9242,12 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-10-31T10:22:18.626336+00:00",
         "relay_source_id": "14848573"
+      },
+      "claim": {
+        "worker_id": "4f20675044354367a059554240aaa31e-shard-0",
+        "claimed_at": "2026-10-31T21:35:39.267704+00:00",
+        "lease_expires_at": "2026-11-01T03:35:39.267704+00:00",
+        "run_id": "41243223179"
       }
     },
     "633": {
@@ -9575,17 +9581,23 @@
           "attempted_at": "2026-10-31T20:20:56.134066+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "6725476",
-        "display_name": "Blue Velvet 1080p CZ Titulky",
-        "planned_at": "2026-10-31T21:35:37.787996+00:00"
-      },
       "previous_target_id": "30665932",
-      "prepared": {
+      "upload": {
         "target_video_id": "30665932",
+        "display_name": "Blue Velvet 1080p CZ Titulky",
+        "source_id": "6725476",
+        "source_url": "https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv",
+        "source_filename": "Modrý samet--Blue Velvet (1986).1080p.H264.DTS-české titulky.mkv",
         "size_bytes": 11300000000,
-        "prepared_at": "2026-10-31T13:03:07.110457+00:00",
-        "relay_source_id": "6725476"
+        "width": 1920,
+        "height": 814,
+        "audio_language": "en",
+        "language_probability": 0.9835577607154846,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/blue-velvet-1080p-cz-titulky-mkv/4c0ba8378ef8c032",
+        "uploaded_at": "2026-10-31T21:35:40.026221+00:00"
       }
     },
     "12137": {
@@ -10622,7 +10634,7 @@
       "last_plan": {
         "source_id": "27530102",
         "display_name": "Despicable Me 4K CZ Titulky",
-        "planned_at": "2026-10-31T21:35:37.857236+00:00"
+        "planned_at": "2026-10-31T21:35:39.230298+00:00"
       }
     },
     "817": {
@@ -33137,5 +33149,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:35:37.857246+00:00"
+  "updated_at": "2026-10-31T21:35:40.026235+00:00"
 }
