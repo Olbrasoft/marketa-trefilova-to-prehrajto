@@ -16639,17 +16639,19 @@
       }
     },
     "576": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33402050",
+          "target_video_id": "30665578",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:54:51.177922+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
         "planned_at": "2026-10-31T12:40:15.614677+00:00"
-      },
-      "claim": {
-        "worker_id": "d89e34553c554c6ab9d88c6163910a83-shard-0",
-        "claimed_at": "2026-10-31T12:40:15.677991+00:00",
-        "lease_expires_at": "2026-10-31T18:40:15.677991+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16710,7 +16712,13 @@
       "last_plan": {
         "source_id": "33648588",
         "display_name": "What's Eating Gilbert Grape 1080p CZ Dabing",
-        "planned_at": "2026-10-31T12:54:47.803062+00:00"
+        "planned_at": "2026-10-31T12:54:50.380593+00:00"
+      },
+      "claim": {
+        "worker_id": "12f64bc8c0ac45edbf3c22d24ce5ed5f-shard-0",
+        "claimed_at": "2026-10-31T12:54:50.438895+00:00",
+        "lease_expires_at": "2026-10-31T18:54:50.438895+00:00",
+        "run_id": "41196554990"
       }
     },
     "19547": {
@@ -37919,5 +37927,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:54:48.942179+00:00"
+  "updated_at": "2026-10-31T12:54:51.177937+00:00"
 }
