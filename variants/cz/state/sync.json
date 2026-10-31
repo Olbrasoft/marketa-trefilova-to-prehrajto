@@ -16106,17 +16106,19 @@
       }
     },
     "601": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21366993",
+          "target_video_id": "30664157",
+          "permanent": false,
+          "attempted_at": "2026-10-31T11:30:52.150327+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21366993",
         "display_name": "Brokeback Mountain 1080p CZ Dabing",
         "planned_at": "2026-10-31T11:16:40.186377+00:00"
-      },
-      "claim": {
-        "worker_id": "d75b98bacb814399a04fb70e492f4402-shard-0",
-        "claimed_at": "2026-10-31T11:16:40.304240+00:00",
-        "lease_expires_at": "2026-10-31T17:16:40.304240+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30664157",
       "prepared": {
@@ -37251,5 +37253,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T11:23:20.637646+00:00"
+  "updated_at": "2026-10-31T11:30:52.150343+00:00"
 }
