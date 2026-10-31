@@ -169,3 +169,4 @@ Attach subtitles only after target processing has finished.
 | The Boy, the Mole, the Fox and the Horse 1080p CZ Titulky | 30660056 | https://sdilej.cz/28481101/the-boy-the-mole-the-fox-and-the-horse-2022-1080p-web-h264-naisu-.mkv | Complete: Czech subtitles verified |
 | Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky | 30661597 | https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv | Extract Czech track from exact source after processing |
 | Gravity 1080p CZ Titulky | 30661712 | https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Harry Potter and the Goblet of Fire 1080p CZ Titulky | 30661955 | https://sdilej.cz/22875915/harry-potter-4-a-ohnivy-pohar-2005-dobrodruzny-drama-rodinny-fantasy-cz-dab.-hevc-fullhd-1080p-.mkv | Extract Czech track from exact source after processing |
