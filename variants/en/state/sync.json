@@ -6039,7 +6039,7 @@
       "last_plan": {
         "source_id": "8625620",
         "display_name": "Wonder 1080p CZ Titulky",
-        "planned_at": "2026-10-31T02:17:21.751969+00:00"
+        "planned_at": "2026-10-31T02:50:17.046327+00:00"
       },
       "previous_target_id": "30640621",
       "prepared": {
@@ -6047,6 +6047,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-10-30T17:25:19.677523+00:00",
         "relay_source_id": "8625620"
+      },
+      "claim": {
+        "worker_id": "912ca24117bc4e47a26c2b563450a633-shard-0",
+        "claimed_at": "2026-10-31T02:50:17.141850+00:00",
+        "lease_expires_at": "2026-10-31T08:50:17.141850+00:00",
+        "run_id": "41144016453"
       }
     },
     "29914": {
@@ -7396,17 +7402,19 @@
       }
     },
     "33410": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30614687",
+          "target_video_id": "30652792",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:50:17.597848+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30614687",
         "display_name": "Castaway on the Moon (김씨 표류기) 1080p CZ Titulky",
         "planned_at": "2026-10-31T02:34:20.999947+00:00"
-      },
-      "claim": {
-        "worker_id": "4f98b4a3c7a84343a07f36fe7eb9c25d-shard-0",
-        "claimed_at": "2026-10-31T02:34:21.032473+00:00",
-        "lease_expires_at": "2026-10-31T08:34:21.032473+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30652792",
       "prepared": {
@@ -7439,7 +7447,7 @@
       "last_plan": {
         "source_id": "30649562",
         "display_name": "Midnight Cowboy 1080p CZ Titulky",
-        "planned_at": "2026-10-31T02:50:14.787781+00:00"
+        "planned_at": "2026-10-31T02:50:17.104990+00:00"
       }
     },
     "405": {
@@ -27592,5 +27600,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:50:15.768626+00:00"
+  "updated_at": "2026-10-31T02:50:17.597863+00:00"
 }
