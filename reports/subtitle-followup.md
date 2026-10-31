@@ -97,7 +97,7 @@ Attach subtitles only after target processing has finished.
 | The Revenant 720p CZ Titulky | 30625206 | https://sdilej.cz/22183177/the-revenant-2015-720p-en-cz-titulky-marcelcu.mkv | Complete: Czech subtitles verified |
 | Donnie Darko 4K CZ Titulky | 30625425 | https://sdilej.cz/32668635/donnie-darko-2001-dc-ai4k-bluray-hevc-10bit-hdr-aac-5.1-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Black Swan 1080p CZ Titulky | 30625850 | https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv | Extract Czech track from exact source after processing |
-| Sin City 1080p CZ Titulky | 30626361 | https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv | Extract Czech track from exact source after processing |
+| Sin City 1080p CZ Titulky | 30626361 | https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv | Complete: Czech subtitles verified |
 | Into the Wild 1080p CZ Titulky | 30626855 | https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv | Extract Czech track from exact source after processing |
 | Zootopia 1080p CZ Titulky | 30627325 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Extract Czech track from exact source after processing |
 | Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky | 30627689 | https://sdilej.cz/35036692/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo.mkv | Complete: Czech subtitles verified |
