@@ -12688,17 +12688,19 @@
       }
     },
     "515": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31652212",
+          "target_video_id": "30650206",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:09:56.643512+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31652212",
         "display_name": "Coraline 4K CZ Dabing",
         "planned_at": "2026-10-31T00:53:21.265376+00:00"
-      },
-      "claim": {
-        "worker_id": "d83d0d2138bc49759dfd186a0cae4a1c-shard-0",
-        "claimed_at": "2026-10-31T00:53:21.367474+00:00",
-        "lease_expires_at": "2026-10-31T06:53:21.367474+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30650206",
       "prepared": {
@@ -32763,5 +32765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:02:11.966672+00:00"
+  "updated_at": "2026-10-31T01:09:56.643527+00:00"
 }
