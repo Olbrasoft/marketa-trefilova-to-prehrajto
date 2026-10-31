@@ -18294,17 +18294,19 @@
       }
     },
     "11351": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32970590",
+          "target_video_id": "30674686",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:11:10.145672+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32970590",
         "display_name": "Ordinary People 1080p CZ Dabing",
         "planned_at": "2026-10-31T18:00:53.250874+00:00"
-      },
-      "claim": {
-        "worker_id": "490a7e7eb37b451b85ab3472cde232ee-shard-0",
-        "claimed_at": "2026-10-31T18:00:53.321366+00:00",
-        "lease_expires_at": "2026-11-01T00:00:53.321366+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674686",
       "prepared": {
@@ -40416,5 +40418,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:11:08.851879+00:00"
+  "updated_at": "2026-10-31T18:11:10.145691+00:00"
 }
