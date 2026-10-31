@@ -19138,17 +19138,19 @@
       "attempts": []
     },
     "21642": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27978328",
+          "target_video_id": "30679366",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:40:28.401186+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27978328",
         "display_name": "Splendor in the Grass 1080p CZ Dabing",
         "planned_at": "2026-10-31T21:34:56.453080+00:00"
-      },
-      "claim": {
-        "worker_id": "351c3f233cd9494bbef5fd39bb316fb1-shard-0",
-        "claimed_at": "2026-10-31T21:34:56.800300+00:00",
-        "lease_expires_at": "2026-11-01T03:34:56.800300+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679366",
       "prepared": {
@@ -41777,5 +41779,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:38:28.823537+00:00"
+  "updated_at": "2026-10-31T21:40:28.401200+00:00"
 }
