@@ -18155,17 +18155,19 @@
       }
     },
     "29933": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20378399",
+          "target_video_id": "30674529",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:00:51.759074+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20378399",
         "display_name": "The Bridge (1959) 1080p CZ Dabing",
         "planned_at": "2026-10-31T17:50:45.809920+00:00"
-      },
-      "claim": {
-        "worker_id": "9875b5575b4a40ef954884ae6e1c6157-shard-0",
-        "claimed_at": "2026-10-31T17:50:45.896135+00:00",
-        "lease_expires_at": "2026-10-31T23:50:45.896135+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674529",
       "prepared": {
@@ -40357,5 +40359,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:59:43.815262+00:00"
+  "updated_at": "2026-10-31T18:00:51.759093+00:00"
 }
