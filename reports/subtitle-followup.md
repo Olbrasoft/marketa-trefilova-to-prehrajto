@@ -204,3 +204,4 @@ Attach subtitles only after target processing has finished.
 | Hana-bi 720p CZ Titulky | 30675517 | https://sdilej.cz/35010233/1997-ohnostroj-krimi-drama-thriller-81-cz-sub.mkv | Extract Czech track from exact source after processing |
 | My Hero Academia: Heroes Rising 1080p CZ Titulky | 30675522 | https://sdilej.cz/18318002/my-hero-academia-heroes-rising-2019-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | 14 Peaks: Nothing Is Impossible 1080p CZ Titulky | 30675715 | https://sdilej.cz/34982939/14-vrcholu-nic-neni-nemozne-2021-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| Corpus Christi (Boże Ciało) 1080p CZ Titulky | 30676979 | https://sdilej.cz/27515642/corpus.christi.2019.1080p.cz-sk-sub.mkv | Extract Czech track from exact source after processing |
