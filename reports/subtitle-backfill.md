@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T15:09:00.226697+00:00
+Poslední aktualizace (UTC): 2026-10-31T15:09:01.945951+00:00
 
 Zkontrolováno videí: 182. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 45, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 88, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -77,6 +77,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvod
 | [Harry Potter and the Goblet of Fire 1080p CZ Titulky](https://prehraj.to/harry-potter-and-the-goblet-of-fire-1080p-cz-titulky-mkv/12cc5d1f1cb736f6) (ID 30661955) | [Sdílej 22875915](https://sdilej.cz/22875915/harry-potter-4-a-ohnivy-pohar-2005-dobrodruzny-drama-rodinny-fantasy-cz-dab.-hevc-fullhd-1080p-.mkv) | target_unavailable | 2026-10-31T11:14:40.375591+00:00 |
 | [Home Alone 1080p CZ Titulky](https://prehraj.to/home-alone-1080p-cz-titulky-mkv/e4f27f42d5eda74c) (ID 30646078) | [Sdílej 23025299](https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv) | target_unavailable | 2026-10-31T10:55:27.077422+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-31T10:55:33.934871+00:00 |
+| [How to Train Your Dragon (2025) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2025-4k-cz-titulky-mkv/72c9c8b558b8b553) (ID 30670866) | [Sdílej 31527189](https://sdilej.cz/31527189/how.to.train.your.dragon-2025-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T15:09:01.945784+00:00 |
 | [Icarus (2017) 1080p CZ Titulky](https://prehraj.to/icarus-2017-1080p-cz-titulky-mkv/8c5d17dd3359cee4) (ID 30643582) | [Sdílej 11690436](https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv) | target_unavailable | 2026-10-31T10:55:52.404055+00:00 |
 | [Isle of Dogs 1080p CZ Titulky](https://prehraj.to/isle-of-dogs-1080p-cz-titulky-mkv/84f1f6d5bd834f13) (ID 30651670) | [Sdílej 35402300](https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:05:07.757086+00:00 |
 | [Kubo and the Two Strings 1080p CZ Titulky](https://prehraj.to/kubo-and-the-two-strings-1080p-cz-titulky-mkv/c6f8ce7090bacf3e) (ID 30669852) | [Sdílej 35402327](https://sdilej.cz/35402327/kubo.and.the.two.strings.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T14:38:21.817600+00:00 |
