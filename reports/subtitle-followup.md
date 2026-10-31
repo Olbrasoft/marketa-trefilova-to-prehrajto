@@ -195,3 +195,4 @@ Attach subtitles only after target processing has finished.
 | System Crasher (Systemsprenger) SD CZ Titulky | 30674476 | https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4 | Extract Czech track from exact source after processing |
 | Adam's Apples (Adams æbler) 1080p CZ Titulky | 30674858 | https://sdilej.cz/34298232/adam-s-apples-2005-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Promised Land (Bastarden) 1080p CZ Titulky | 30675383 | https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
+| Joint Security Area SD CZ Titulky | 30675386 | https://sdilej.cz/14310949/pohranicni-pasmo-2000-cz-titl.mkv | Extract Czech track from exact source after processing |
