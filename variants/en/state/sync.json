@@ -7593,13 +7593,6 @@
           "source_id": "22124732",
           "target_video_id": "30653654",
           "permanent": false,
-          "attempted_at": "2026-10-31T10:25:31.290414+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22124732",
-          "target_video_id": "30653654",
-          "permanent": false,
           "attempted_at": "2026-10-31T10:59:45.404097+00:00"
         },
         {
@@ -7608,6 +7601,13 @@
           "target_video_id": "30653654",
           "permanent": false,
           "attempted_at": "2026-10-31T11:32:04.827715+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22124732",
+          "target_video_id": "30653654",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:16:30.592117+00:00"
         }
       ],
       "last_plan": {
@@ -7621,12 +7621,6 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-10-31T03:23:54.607316+00:00",
         "relay_source_id": "22124732"
-      },
-      "claim": {
-        "worker_id": "00c4f8b870fa463c950575c1f16526e4-shard-0",
-        "claimed_at": "2026-10-31T12:16:27.875951+00:00",
-        "lease_expires_at": "2026-10-31T18:16:27.875951+00:00",
-        "run_id": "41196554990"
       }
     },
     "23977": {
@@ -7843,7 +7837,7 @@
       "last_plan": {
         "source_id": "28087307",
         "display_name": "Aguirre, the Wrath of God 1080p CZ Titulky",
-        "planned_at": "2026-10-31T11:32:06.296884+00:00"
+        "planned_at": "2026-10-31T12:16:30.220442+00:00"
       },
       "previous_target_id": "30655121",
       "prepared": {
@@ -7851,6 +7845,12 @@
         "size_bytes": 5500000000,
         "prepared_at": "2026-10-31T04:38:12.022934+00:00",
         "relay_source_id": "28087307"
+      },
+      "claim": {
+        "worker_id": "b679cd9c2a47492ca795cd1be066b8f7-shard-0",
+        "claimed_at": "2026-10-31T12:16:30.273549+00:00",
+        "lease_expires_at": "2026-10-31T18:16:30.273549+00:00",
+        "run_id": "41196554990"
       }
     },
     "459": {
@@ -9065,7 +9065,7 @@
       "last_plan": {
         "source_id": "26730074",
         "display_name": "Mr. Nobody 1080p CZ Titulky",
-        "planned_at": "2026-10-31T12:16:27.856793+00:00"
+        "planned_at": "2026-10-31T12:16:30.255859+00:00"
       }
     },
     "11610": {
@@ -30095,5 +30095,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:16:28.815481+00:00"
+  "updated_at": "2026-10-31T12:16:30.592139+00:00"
 }
