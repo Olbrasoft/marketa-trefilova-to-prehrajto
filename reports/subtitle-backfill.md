@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T10:44:10.582590+00:00
+Poslední aktualizace (UTC): 2026-10-31T10:44:12.329147+00:00
 
 Zkontrolováno videí: 172. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 86, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 86, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -63,6 +63,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 20. Důvod
 | [All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky](https://prehraj.to/all-quiet-on-the-western-front-im-westen-nichts-neues-2022-1080p-cz-titulky-mkv/7fa567a093769446) (ID 30649851) | [Sdílej 23592768](https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv) | target_unavailable | 2026-10-31T09:43:20.645846+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T09:34:43.740627+00:00 |
 | [Castaway on the Moon (김씨 표류기) 1080p CZ Titulky](https://prehraj.to/castaway-on-the-moon-1080p-cz-titulky-mkv/daaa1b9d9e299127) (ID 30652792) | [Sdílej 30614687](https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv) | target_unavailable | 2026-10-31T09:43:27.508909+00:00 |
+| [Crash (2004) 1080p CZ Titulky](https://prehraj.to/crash-2004-1080p-cz-titulky-mkv/270785241291972e) (ID 30663753) | [Sdílej 35402143](https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T10:44:12.329092+00:00 |
 | [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-31T09:33:58.081644+00:00 |
 | [Everything Everywhere All at Once 4K CZ Titulky](https://prehraj.to/everything-everywhere-all-at-once-4k-cz-titulky-mkv/c195cfe4ad1f051f) (ID 30662730) | [Sdílej 33396424](https://sdilej.cz/33396424/everything-everywhere-all-at-once-2022-.2160p-cz.tit.mkv) | target_unavailable | 2026-10-31T09:43:16.922939+00:00 |
 | [Ex Machina 1080p CZ Titulky](https://prehraj.to/ex-machina-1080p-cz-titulky-mkv/aeea5faf86a96d92) (ID 30662878) | [Sdílej 31631191](https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv) | target_unavailable | 2026-10-31T09:53:28.901807+00:00 |
