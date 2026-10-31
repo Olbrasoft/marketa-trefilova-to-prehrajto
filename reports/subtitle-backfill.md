@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T10:56:06.224179+00:00
+Poslední aktualizace (UTC): 2026-10-31T10:56:09.736253+00:00
 
 Zkontrolováno videí: 173. Další stránka kontroly: 0.
 
@@ -93,7 +93,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvod
 | [The Irishman 720p CZ Titulky](https://prehraj.to/the-irishman-720p-cz-titulky-mkv/c70ac834645aae57) (ID 30648488) | [Sdílej 12685665](https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv) | target_unavailable | 2026-10-31T09:43:31.132414+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-31T09:34:47.166589+00:00 |
 | [The Mirror (Mirror) 1080p CZ Titulky](https://prehraj.to/the-mirror-mirror-1080p-cz-titulky-mkv/722aca69512f2375) (ID 30643725) | [Sdílej 30440919](https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv) | target_unavailable | 2026-10-31T09:34:40.370572+00:00 |
-| [The Untouchables 1080p CZ Titulky](https://prehraj.to/the-untouchables-1080p-cz-titulky-mkv/93d037ed0feaff05) (ID 30649618) | [Sdílej 30833257](https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv) | target_unavailable | 2026-10-31T09:34:36.981276+00:00 |
+| [The Untouchables 1080p CZ Titulky](https://prehraj.to/the-untouchables-1080p-cz-titulky-mkv/93d037ed0feaff05) (ID 30649618) | [Sdílej 30833257](https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv) | target_unavailable | 2026-10-31T10:56:09.736183+00:00 |
 | [The Wind Rises (Kaze tachinu) 1080p CZ Titulky](https://prehraj.to/the-wind-rises-kaze-tachinu-1080p-cz-titulky-mkv/343065e0c684db5b) (ID 30653654) | [Sdílej 22124732](https://sdilej.cz/22124732/-dragsterps-kaze-tachinu-1080p-multi-audio-multi-subs-h264-aac-21ec96d7-.mkv) | target_unavailable | 2026-10-31T10:56:02.896414+00:00 |
 | [Thirteen Lives 1080p CZ Titulky](https://prehraj.to/thirteen-lives-1080p-cz-titulky-mkv/702fb47ed407e6ae) (ID 30654980) | [Sdílej 22401923](https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv) | target_unavailable | 2026-10-31T09:34:50.613982+00:00 |
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-31T10:55:48.796719+00:00 |
