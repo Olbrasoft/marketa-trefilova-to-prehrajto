@@ -17824,17 +17824,19 @@
       }
     },
     "13044": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34659015",
+          "target_video_id": "30673622",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:15:05.209193+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34659015",
         "display_name": "Das Experiment SD CZ Dabing",
         "planned_at": "2026-10-31T17:11:31.196620+00:00"
-      },
-      "claim": {
-        "worker_id": "c1e2fcfabfe74d0f9f0037a98a5a3a5b-shard-0",
-        "claimed_at": "2026-10-31T17:11:31.261009+00:00",
-        "lease_expires_at": "2026-10-31T23:11:31.261009+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30673622",
       "prepared": {
@@ -40030,5 +40032,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:13:54.330548+00:00"
+  "updated_at": "2026-10-31T17:15:05.209211+00:00"
 }
