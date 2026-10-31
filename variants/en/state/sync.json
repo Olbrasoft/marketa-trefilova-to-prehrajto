@@ -8469,17 +8469,19 @@
       "attempts": []
     },
     "578": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29667772",
+          "target_video_id": "30661597",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:00:26.967825+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29667772",
         "display_name": "Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky",
         "planned_at": "2026-10-31T08:34:44.123170+00:00"
-      },
-      "claim": {
-        "worker_id": "e45b030f7897464fbb30381cc97dba50-shard-0",
-        "claimed_at": "2026-10-31T08:34:44.157957+00:00",
-        "lease_expires_at": "2026-10-31T14:34:44.157957+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30661597",
       "prepared": {
@@ -29147,5 +29149,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:57:08.019514+00:00"
+  "updated_at": "2026-10-31T09:00:26.967843+00:00"
 }
