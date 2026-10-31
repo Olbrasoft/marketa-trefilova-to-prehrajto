@@ -14433,17 +14433,19 @@
       }
     },
     "21858": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32500310",
+          "target_video_id": "30657182",
+          "permanent": false,
+          "attempted_at": "2026-10-31T06:29:17.870783+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
         "planned_at": "2026-10-31T06:23:10.768377+00:00"
-      },
-      "claim": {
-        "worker_id": "0f0ef79644164d188b129450286fc12c-shard-0",
-        "claimed_at": "2026-10-31T06:23:10.892389+00:00",
-        "lease_expires_at": "2026-10-31T12:23:10.892389+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -34921,5 +34923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:23:14.737361+00:00"
+  "updated_at": "2026-10-31T06:29:17.870800+00:00"
 }
