@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T09:43:20.645931+00:00
+Poslední aktualizace (UTC): 2026-10-31T09:43:24.038653+00:00
 
 Zkontrolováno videí: 168. Další stránka kontroly: 0.
 
@@ -59,7 +59,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 13. Důvo
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [Aguirre, the Wrath of God 1080p CZ Titulky](https://prehraj.to/aguirre-the-wrath-of-god-1080p-cz-titulky-mkv/d85609b64aedbda5) (ID 30655121) | [Sdílej 28087307](https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv) | target_unavailable | 2026-10-31T08:22:12.643268+00:00 |
+| [Aguirre, the Wrath of God 1080p CZ Titulky](https://prehraj.to/aguirre-the-wrath-of-god-1080p-cz-titulky-mkv/d85609b64aedbda5) (ID 30655121) | [Sdílej 28087307](https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv) | target_unavailable | 2026-10-31T09:43:24.038573+00:00 |
 | [All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky](https://prehraj.to/all-quiet-on-the-western-front-im-westen-nichts-neues-2022-1080p-cz-titulky-mkv/7fa567a093769446) (ID 30649851) | [Sdílej 23592768](https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv) | target_unavailable | 2026-10-31T09:43:20.645846+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T09:34:43.740627+00:00 |
 | [Castaway on the Moon (김씨 표류기) 1080p CZ Titulky](https://prehraj.to/castaway-on-the-moon-1080p-cz-titulky-mkv/daaa1b9d9e299127) (ID 30652792) | [Sdílej 30614687](https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv) | target_unavailable | 2026-10-31T08:22:16.083019+00:00 |
