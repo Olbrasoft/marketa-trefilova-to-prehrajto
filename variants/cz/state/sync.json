@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-10-31T19:17:07.151008+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-10-31T19:48:27.009354+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-10-31T20:20:15.991927+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:35:06.845334+00:00"
         }
       ],
       "last_plan": {
@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-10-31T20:20:17.307038+00:00"
+        "planned_at": "2026-10-31T21:35:05.139379+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "4448e47d5e824a63afc6b9273f61b100-shard-0",
+        "claimed_at": "2026-10-31T21:35:05.419503+00:00",
+        "lease_expires_at": "2026-11-01T03:35:05.419503+00:00",
+        "run_id": "41243223179"
       }
     },
     "10755": {
@@ -19154,7 +19160,7 @@
       "last_plan": {
         "source_id": "34780455",
         "display_name": "Top Gear: Bolivia Special (Top Gear: The Great Adventures 3) 720p CZ Dabing",
-        "planned_at": "2026-10-31T21:35:03.560140+00:00"
+        "planned_at": "2026-10-31T21:35:05.218034+00:00"
       }
     },
     "22039": {
@@ -41739,5 +41745,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:35:03.560157+00:00"
+  "updated_at": "2026-10-31T21:35:06.845352+00:00"
 }
