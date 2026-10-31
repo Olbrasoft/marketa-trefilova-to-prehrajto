@@ -19571,17 +19571,19 @@
       "attempts": []
     },
     "799": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31030944",
+          "target_video_id": "30679916",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:31:18.074558+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31030944",
         "display_name": "Harry Potter and the Half-Blood Prince 4K CZ Dabing",
         "planned_at": "2026-10-31T22:15:34.641228+00:00"
-      },
-      "claim": {
-        "worker_id": "91f62bcf9ed348bbaf5c6fb48e1b8378-shard-0",
-        "claimed_at": "2026-10-31T22:15:34.762438+00:00",
-        "lease_expires_at": "2026-11-01T04:15:34.762438+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679916",
       "prepared": {
@@ -42296,5 +42298,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:24:00.310956+00:00"
+  "updated_at": "2026-10-31T22:31:18.074575+00:00"
 }
