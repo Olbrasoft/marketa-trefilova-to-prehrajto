@@ -19288,17 +19288,19 @@
       }
     },
     "21845": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32991824",
+          "target_video_id": "30679493",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:50:18.094524+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32991824",
         "display_name": "Prescription: Murder 1080p CZ Dabing",
         "planned_at": "2026-10-31T21:43:04.903324+00:00"
-      },
-      "claim": {
-        "worker_id": "41f29d85b4684762a0960344caced7fa-shard-0",
-        "claimed_at": "2026-10-31T21:43:05.035922+00:00",
-        "lease_expires_at": "2026-11-01T03:43:05.035922+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679493",
       "prepared": {
@@ -41892,5 +41894,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:50:16.261014+00:00"
+  "updated_at": "2026-10-31T21:50:18.094540+00:00"
 }
