@@ -9900,17 +9900,19 @@
       "attempts": []
     },
     "544": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694735",
+          "target_video_id": "30675383",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:49:24.664783+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694735",
         "display_name": "The Promised Land (Bastarden) 1080p CZ Titulky",
         "planned_at": "2026-10-31T18:45:18.284968+00:00"
-      },
-      "claim": {
-        "worker_id": "a641d88c61ac41b6a98eab9c1f36499c-shard-0",
-        "claimed_at": "2026-10-31T18:45:18.303927+00:00",
-        "lease_expires_at": "2026-11-01T00:45:18.303927+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30675383",
       "prepared": {
@@ -32177,5 +32179,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:48:36.259790+00:00"
+  "updated_at": "2026-10-31T18:49:24.664808+00:00"
 }
