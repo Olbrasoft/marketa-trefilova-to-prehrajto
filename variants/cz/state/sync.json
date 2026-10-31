@@ -16032,17 +16032,19 @@
       "attempts": []
     },
     "602": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32966014",
+          "target_video_id": "30663861",
+          "permanent": false,
+          "attempted_at": "2026-10-31T11:14:09.644290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32966014",
         "display_name": "Man on Fire 4K CZ Dabing",
         "planned_at": "2026-10-31T10:51:55.011694+00:00"
-      },
-      "claim": {
-        "worker_id": "6f5da11dd3e84fe1a004fad2d6e1ea6f-shard-0",
-        "claimed_at": "2026-10-31T10:51:55.127707+00:00",
-        "lease_expires_at": "2026-10-31T16:51:55.127707+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30663861",
       "prepared": {
@@ -36971,5 +36973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T11:06:17.478653+00:00"
+  "updated_at": "2026-10-31T11:14:09.644307+00:00"
 }
