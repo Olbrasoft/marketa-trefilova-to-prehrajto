@@ -1968,13 +1968,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-10-31T03:55:53.995432+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-10-31T04:26:23.175908+00:00"
         },
         {
@@ -1983,12 +1976,19 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-10-31T05:00:21.117945+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-10-31T05:33:12.535144+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T05:00:17.925139+00:00"
+        "planned_at": "2026-10-31T05:33:08.451143+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -2829,6 +2829,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "54972353f4b045d2b187cd5a7842afaa-shard-0",
+        "claimed_at": "2026-10-31T05:33:08.333631+00:00",
+        "lease_expires_at": "2026-10-31T11:33:08.333631+00:00",
+        "run_id": "41164110278"
       }
     },
     "21312": {
@@ -7915,7 +7921,7 @@
       "last_plan": {
         "source_id": "19248743",
         "display_name": "The Alpinist 1080p CZ Titulky",
-        "planned_at": "2026-10-31T05:33:07.371629+00:00"
+        "planned_at": "2026-10-31T05:33:08.495719+00:00"
       }
     },
     "25036": {
@@ -28310,5 +28316,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T05:33:07.371641+00:00"
+  "updated_at": "2026-10-31T05:33:12.535161+00:00"
 }
