@@ -153,3 +153,4 @@ Attach subtitles only after target processing has finished.
 | Whisper of the Heart (耳をすませば) 1080p CZ Titulky | 30654463 | https://sdilej.cz/34140580/sepot-srdce-whisper-of-the-heart-1995--tt0113824--en-es-fr-de-it-tr-sv-fi-no-ru-cs-id-vi-th-ko-zh-ja-.webdl-1080p.h265-aac-2.0.mkv | Extract Czech track from exact source after processing |
 | The Chaser (추격자) 1080p CZ Titulky | 30654751 | https://sdilej.cz/13703315/bile-maso-the-chaser-chugyeogja-2008-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Thirteen Lives 1080p CZ Titulky | 30654980 | https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv | Extract Czech track from exact source after processing |
+| Aguirre, the Wrath of God 1080p CZ Titulky | 30655121 | https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv | Extract Czech track from exact source after processing |
