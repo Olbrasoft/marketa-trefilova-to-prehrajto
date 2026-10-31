@@ -56,6 +56,7 @@ Attach subtitles only after target processing has finished.
 | Once Upon a Time in America 1080p CZ Titulky | 30677049 | https://sdilej.cz/16198758/tenkrat-v-americe-once.upon.a.time.in.america.1984.extended.1080p.bluray.x264-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Lawrence of Arabia 1080p CZ Titulky | 30603287 | https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv | Complete: Czech subtitles verified |
 | Singin' in the Rain SD | 30677056 | https://sdilej.cz/15908236/zpivani-v-desti-czdab.mp4 | Find and add matching Czech subtitles after processing |
+| Jurassic Park 4K CZ Titulky | 30677093 | https://sdilej.cz/16781576/jursky-park.1993.2160p-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Oppenheimer 4K CZ Titulky | 30606867 | https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv | Extract Czech track from exact source after processing |
 | Taxi Driver 1080p CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
 | A Clockwork Orange 4K CZ Titulky | 30608273 | https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv | Extract Czech track from exact source after processing |
