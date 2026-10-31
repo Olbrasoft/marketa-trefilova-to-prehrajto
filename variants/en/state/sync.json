@@ -7546,7 +7546,7 @@
       "last_plan": {
         "source_id": "32963361",
         "display_name": "Hamnet 1080p CZ Titulky",
-        "planned_at": "2026-10-31T07:01:20.054890+00:00"
+        "planned_at": "2026-10-31T07:38:16.440319+00:00"
       },
       "previous_target_id": "30653249",
       "prepared": {
@@ -7554,6 +7554,12 @@
         "size_bytes": 5500000000,
         "prepared_at": "2026-10-31T03:00:21.322613+00:00",
         "relay_source_id": "32963361"
+      },
+      "claim": {
+        "worker_id": "9d2a460d4cf34f4ab7ae59e9d6f76046-shard-0",
+        "claimed_at": "2026-10-31T07:38:16.512147+00:00",
+        "lease_expires_at": "2026-10-31T13:38:16.512147+00:00",
+        "run_id": "41164110278"
       }
     },
     "406": {
@@ -8335,17 +8341,19 @@
       "attempts": []
     },
     "20173": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30147702",
+          "target_video_id": "30659818",
+          "permanent": false,
+          "attempted_at": "2026-10-31T07:38:17.464604+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30147702",
         "display_name": "Memoir of a Snail 1080p CZ Titulky",
         "planned_at": "2026-10-31T07:23:56.921161+00:00"
-      },
-      "claim": {
-        "worker_id": "0c5c1b025c4d46f0be4f20b602a62485-shard-0",
-        "claimed_at": "2026-10-31T07:23:56.953512+00:00",
-        "lease_expires_at": "2026-10-31T13:23:56.953512+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30659818",
       "prepared": {
@@ -8381,7 +8389,7 @@
       "last_plan": {
         "source_id": "28481101",
         "display_name": "The Boy, the Mole, the Fox and the Horse 1080p CZ Titulky",
-        "planned_at": "2026-10-31T07:38:13.659997+00:00"
+        "planned_at": "2026-10-31T07:38:16.486712+00:00"
       }
     },
     "23011": {
@@ -28837,5 +28845,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T07:38:15.165490+00:00"
+  "updated_at": "2026-10-31T07:38:17.464619+00:00"
 }
