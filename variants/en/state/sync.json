@@ -9633,17 +9633,19 @@
       "attempts": []
     },
     "605": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27404887",
+          "target_video_id": "30674419",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:56:37.485127+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27404887",
         "display_name": "Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky",
         "planned_at": "2026-10-31T17:42:04.755058+00:00"
-      },
-      "claim": {
-        "worker_id": "cfaa86804afc4d9799ac565f881c8f34-shard-0",
-        "claimed_at": "2026-10-31T17:42:06.117963+00:00",
-        "lease_expires_at": "2026-10-31T23:42:06.117963+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674419",
       "prepared": {
@@ -31825,5 +31827,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:53:36.420986+00:00"
+  "updated_at": "2026-10-31T17:56:37.485148+00:00"
 }
