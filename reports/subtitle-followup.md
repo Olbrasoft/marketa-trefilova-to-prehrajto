@@ -183,3 +183,4 @@ Attach subtitles only after target processing has finished.
 | Mr. Nobody 1080p CZ Titulky | 30665814 | https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv | Extract Czech track from exact source after processing |
 | Blue Velvet 1080p CZ Titulky | 30665932 | https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | The Trial of the Chicago 7 1080p CZ Titulky | 30668595 | https://sdilej.cz/14351127/the.trial.of.the.chicago.7.2020.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
+| Ray 1080p CZ Titulky | 30668869 | https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
