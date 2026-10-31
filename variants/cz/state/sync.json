@@ -6478,13 +6478,6 @@
           "source_id": "33707658",
           "target_video_id": "30624153",
           "permanent": false,
-          "attempted_at": "2026-10-31T02:17:57.308293+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33707658",
-          "target_video_id": "30624153",
-          "permanent": false,
           "attempted_at": "2026-10-31T02:50:43.306682+00:00"
         },
         {
@@ -6493,6 +6486,13 @@
           "target_video_id": "30624153",
           "permanent": false,
           "attempted_at": "2026-10-31T03:22:49.147721+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33707658",
+          "target_video_id": "30624153",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:56:59.157194+00:00"
         }
       ],
       "last_plan": {
@@ -6506,12 +6506,6 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-10-30T02:33:09.819801+00:00",
         "relay_source_id": "33707658"
-      },
-      "claim": {
-        "worker_id": "ad29ec9a467e47f7860e8e26aa23d28e-shard-0",
-        "claimed_at": "2026-10-31T03:56:57.102061+00:00",
-        "lease_expires_at": "2026-10-31T09:56:57.102061+00:00",
-        "run_id": "41164110278"
       }
     },
     "306": {
@@ -11591,7 +11585,7 @@
       "last_plan": {
         "source_id": "24001495",
         "display_name": "The Batman 4K CZ Dabing",
-        "planned_at": "2026-10-31T03:22:50.229599+00:00"
+        "planned_at": "2026-10-31T03:56:58.678415+00:00"
       },
       "previous_target_id": "30644453",
       "prepared": {
@@ -11599,6 +11593,12 @@
         "size_bytes": 19800000000,
         "prepared_at": "2026-10-30T20:45:14.373825+00:00",
         "relay_source_id": "24001495"
+      },
+      "claim": {
+        "worker_id": "490ac6871dfe473496d902beccda7ddf-shard-0",
+        "claimed_at": "2026-10-31T03:56:58.806072+00:00",
+        "lease_expires_at": "2026-10-31T09:56:58.806072+00:00",
+        "run_id": "41164110278"
       }
     },
     "466": {
@@ -13780,7 +13780,7 @@
       "last_plan": {
         "source_id": "32661450",
         "display_name": "Charade SD CZ Dabing",
-        "planned_at": "2026-10-31T03:56:57.023424+00:00"
+        "planned_at": "2026-10-31T03:56:58.727830+00:00"
       }
     },
     "23421": {
@@ -33969,5 +33969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:56:57.314856+00:00"
+  "updated_at": "2026-10-31T03:56:59.157213+00:00"
 }
