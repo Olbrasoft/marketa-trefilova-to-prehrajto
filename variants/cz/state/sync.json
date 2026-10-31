@@ -19242,17 +19242,19 @@
       }
     },
     "21900": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29549468",
+          "target_video_id": "30679480",
+          "permanent": false,
+          "attempted_at": "2026-10-31T21:50:12.326402+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29549468",
         "display_name": "The Great Silence 1080p CZ Dabing",
         "planned_at": "2026-10-31T21:42:25.104364+00:00"
-      },
-      "claim": {
-        "worker_id": "86dcc461318e49408f568e63190180cf-shard-0",
-        "claimed_at": "2026-10-31T21:42:25.251448+00:00",
-        "lease_expires_at": "2026-11-01T03:42:25.251448+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679480",
       "prepared": {
@@ -41877,5 +41879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T21:47:24.620950+00:00"
+  "updated_at": "2026-10-31T21:50:12.326420+00:00"
 }
