@@ -12515,11 +12515,19 @@
       }
     },
     "500": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33846131",
+          "reason": "Request failed for https://sdilej.cz/33846131/uprchlik-1993-cz-en-uhdr-dv-2160p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T00:27:22.221701+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33846131",
         "display_name": "The Fugitive 4K CZ Dabing",
-        "planned_at": "2026-10-31T00:26:34.050960+00:00"
+        "planned_at": "2026-10-31T00:26:36.398276+00:00"
       }
     },
     "430": {
@@ -32429,5 +32437,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T00:26:35.172716+00:00"
+  "updated_at": "2026-10-31T00:27:22.221720+00:00"
 }
