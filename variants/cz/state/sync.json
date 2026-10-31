@@ -14710,7 +14710,20 @@
       }
     },
     "21907": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34061066",
+          "reason": "Source detail has no authenticated download link; source_id=34061066",
+          "permanent": false,
+          "attempted_at": "2026-10-31T07:02:38.805324+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34061066",
+        "display_name": "The Lion in Winter 720p CZ Dabing",
+        "planned_at": "2026-10-31T07:02:36.581784+00:00"
+      }
     },
     "35484": {
       "attempts": []
@@ -35105,5 +35118,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T07:02:35.077777+00:00"
+  "updated_at": "2026-10-31T07:02:38.805341+00:00"
 }
