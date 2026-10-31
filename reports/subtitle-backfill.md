@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T03:05:34.446888+00:00
+Poslední aktualizace (UTC): 2026-10-31T03:05:37.761347+00:00
 
 Zkontrolováno videí: 144. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 70, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 29, `upload_unconfirmed`: 2
+Stavy: `already_has_czech`: 71, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `target_unavailable`: 28, `upload_unconfirmed`: 2
 
 ## Poslední dávka
 
@@ -82,7 +82,6 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-31T02:54:53.610611+00:00 |
 | [The Irishman 720p CZ Titulky](https://prehraj.to/the-irishman-720p-cz-titulky-mkv/c70ac834645aae57) (ID 30648488) | [Sdílej 12685665](https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv) | target_unavailable | 2026-10-31T02:44:13.194343+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-31T02:24:10.486802+00:00 |
-| [The Miracle Worker 1080p CZ Titulky](https://prehraj.to/the-miracle-worker-1080p-cz-titulky-mkv/ed71e6073aebb02d) (ID 30631145) | [Sdílej 27658195](https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv) | target_unavailable | 2026-10-31T02:03:49.887274+00:00 |
 | [The Mirror (Mirror) 1080p CZ Titulky](https://prehraj.to/the-mirror-mirror-1080p-cz-titulky-mkv/722aca69512f2375) (ID 30643725) | [Sdílej 30440919](https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv) | target_unavailable | 2026-10-31T02:23:56.414568+00:00 |
 | [The Untouchables 1080p CZ Titulky](https://prehraj.to/the-untouchables-1080p-cz-titulky-mkv/93d037ed0feaff05) (ID 30649618) | [Sdílej 30833257](https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv) | target_unavailable | 2026-10-31T02:23:53.095956+00:00 |
 | [Thor: Ragnarok 1080p CZ Titulky](https://prehraj.to/thor-ragnarok-1080p-cz-titulky-mkv/ac0f564f374ff553) (ID 30632260) | [Sdílej 22765537](https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv) | target_unavailable | 2026-10-31T02:24:03.283343+00:00 |
