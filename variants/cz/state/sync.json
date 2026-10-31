@@ -15719,13 +15719,6 @@
           "source_id": "32277009",
           "target_video_id": "30662658",
           "permanent": false,
-          "attempted_at": "2026-10-31T17:40:58.036002+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32277009",
-          "target_video_id": "30662658",
-          "permanent": false,
           "attempted_at": "2026-10-31T18:11:26.677434+00:00"
         },
         {
@@ -15734,6 +15727,13 @@
           "target_video_id": "30662658",
           "permanent": false,
           "attempted_at": "2026-10-31T18:44:21.772096+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32277009",
+          "target_video_id": "30662658",
+          "permanent": false,
+          "attempted_at": "2026-10-31T19:16:55.251980+00:00"
         }
       ],
       "last_plan": {
@@ -15747,12 +15747,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-31T09:32:07.154226+00:00",
         "relay_source_id": "32277009"
-      },
-      "claim": {
-        "worker_id": "cb40f01b48954846ae23af852c8efdb6-shard-0",
-        "claimed_at": "2026-10-31T19:16:53.218565+00:00",
-        "lease_expires_at": "2026-11-01T01:16:53.218565+00:00",
-        "run_id": "41219330327"
       }
     },
     "620": {
@@ -15888,7 +15882,7 @@
       "last_plan": {
         "source_id": "34441350",
         "display_name": "Birdman of Alcatraz 1080p CZ Dabing",
-        "planned_at": "2026-10-31T18:44:19.307194+00:00"
+        "planned_at": "2026-10-31T19:16:54.900839+00:00"
       },
       "previous_target_id": "30663153",
       "prepared": {
@@ -15896,6 +15890,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-10-31T10:02:12.062136+00:00",
         "relay_source_id": "34441350"
+      },
+      "claim": {
+        "worker_id": "8cedb9d86d094467bbcb4c074a4ce1dc-shard-0",
+        "claimed_at": "2026-10-31T19:16:55.038118+00:00",
+        "lease_expires_at": "2026-11-01T01:16:55.038118+00:00",
+        "run_id": "41219330327"
       }
     },
     "631": {
@@ -18863,7 +18863,7 @@
       "last_plan": {
         "source_id": "27954124",
         "display_name": "Eega (ఈగ) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T19:16:53.120179+00:00"
+        "planned_at": "2026-10-31T19:16:54.948762+00:00"
       }
     },
     "30936": {
@@ -41266,5 +41266,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:16:53.581891+00:00"
+  "updated_at": "2026-10-31T19:16:55.252003+00:00"
 }
