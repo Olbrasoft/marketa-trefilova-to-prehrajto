@@ -164,3 +164,4 @@ Attach subtitles only after target processing has finished.
 | Monster (怪物) (2023) 1080p CZ Titulky | 30658860 | https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv | Extract Czech track from exact source after processing |
 | Earth 1080p CZ Titulky | 30659023 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Complete: Czech subtitles verified |
 | Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky | 30659487 | https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4 | Extract Czech track from exact source after processing |
+| Brother (Брат) (1997) 1080p CZ Titulky | 30659607 | https://sdilej.cz/34880521/brat-1997-.mkv | Extract Czech track from exact source after processing |
