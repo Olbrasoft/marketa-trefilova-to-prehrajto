@@ -2502,18 +2502,19 @@
           "reason": "Request failed for https://sdilej.cz/21302909/zmizeni.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-29T10:22:50.285949+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21302909",
+          "target_video_id": "30677653",
+          "permanent": false,
+          "attempted_at": "2026-10-31T20:34:17.134606+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21302909",
         "display_name": "Prisoners 1080p CZ Titulky",
         "planned_at": "2026-10-31T20:28:28.790853+00:00"
-      },
-      "claim": {
-        "worker_id": "6cf2c1df10f04d6aa5a11679ef4b6875-shard-0",
-        "claimed_at": "2026-10-31T20:28:28.810287+00:00",
-        "lease_expires_at": "2026-11-01T02:28:28.810287+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30677653",
       "prepared": {
@@ -32951,5 +32952,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T20:28:32.778566+00:00"
+  "updated_at": "2026-10-31T20:34:17.134625+00:00"
 }
