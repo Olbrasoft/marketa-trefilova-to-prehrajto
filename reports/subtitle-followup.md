@@ -196,3 +196,4 @@ Attach subtitles only after target processing has finished.
 | Adam's Apples (Adams æbler) 1080p CZ Titulky | 30674858 | https://sdilej.cz/34298232/adam-s-apples-2005-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Promised Land (Bastarden) 1080p CZ Titulky | 30675383 | https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
 | Joint Security Area SD CZ Titulky | 30675386 | https://sdilej.cz/14310949/pohranicni-pasmo-2000-cz-titl.mkv | Complete: Czech subtitles verified |
+| Hana-bi 720p CZ Titulky | 30675517 | https://sdilej.cz/35010233/1997-ohnostroj-krimi-drama-thriller-81-cz-sub.mkv | Extract Czech track from exact source after processing |
