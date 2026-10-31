@@ -19527,17 +19527,19 @@
       "attempts": []
     },
     "17875": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33564670",
+          "target_video_id": "30679914",
+          "permanent": false,
+          "attempted_at": "2026-10-31T22:23:43.780714+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33564670",
         "display_name": "Superbad 1080p CZ Dabing",
         "planned_at": "2026-10-31T22:15:33.039374+00:00"
-      },
-      "claim": {
-        "worker_id": "76a7ca4765264bc380eab67f988392f6-shard-0",
-        "claimed_at": "2026-10-31T22:15:34.449345+00:00",
-        "lease_expires_at": "2026-11-01T04:15:34.449345+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30679914",
       "prepared": {
@@ -42271,5 +42273,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T22:18:15.637352+00:00"
+  "updated_at": "2026-10-31T22:23:43.780730+00:00"
 }
