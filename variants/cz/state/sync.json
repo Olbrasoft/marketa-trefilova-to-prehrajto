@@ -16434,17 +16434,19 @@
       }
     },
     "526": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34574761",
+          "target_video_id": "30665081",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:26:00.427362+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34574761",
         "display_name": "The Goonies 1080p CZ Dabing",
         "planned_at": "2026-10-31T12:15:46.225425+00:00"
-      },
-      "claim": {
-        "worker_id": "72263d5af560428d9ad84c456d36e33f-shard-0",
-        "claimed_at": "2026-10-31T12:15:46.403284+00:00",
-        "lease_expires_at": "2026-10-31T18:15:46.403284+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30665081",
       "prepared": {
@@ -37553,5 +37555,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:17:16.420022+00:00"
+  "updated_at": "2026-10-31T12:26:00.427381+00:00"
 }
