@@ -15784,17 +15784,19 @@
       }
     },
     "631": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33822186",
+          "target_video_id": "30663231",
+          "permanent": false,
+          "attempted_at": "2026-10-31T10:21:32.375941+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33822186",
         "display_name": "The Bourne Supremacy 4K CZ Dabing",
         "planned_at": "2026-10-31T10:08:08.090594+00:00"
-      },
-      "claim": {
-        "worker_id": "702aa80bfde4427ba8701ec464298d98-shard-0",
-        "claimed_at": "2026-10-31T10:08:08.209342+00:00",
-        "lease_expires_at": "2026-10-31T16:08:08.209342+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30663231",
       "prepared": {
@@ -36576,5 +36578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T10:12:58.969196+00:00"
+  "updated_at": "2026-10-31T10:21:32.375957+00:00"
 }
