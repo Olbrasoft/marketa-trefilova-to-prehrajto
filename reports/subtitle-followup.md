@@ -157,3 +157,4 @@ Attach subtitles only after target processing has finished.
 | Loving Vincent 1080p CZ Titulky | 30655366 | https://sdilej.cz/29326786/s-laskou-vincent.mkv | Extract Czech track from exact source after processing |
 | His Girl Friday 1080p CZ Titulky | 30655432 | https://sdilej.cz/14593714/jeho-divka-patek-his-girl-friday-1940-1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Gangubai Kathiawadi 1080p CZ Titulky | 30655605 | https://sdilej.cz/21628063/gangubai-kathiawadi-2022-sktit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| The Alpinist 1080p CZ Titulky | 30656167 | https://sdilej.cz/19248743/the-alpinist-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
