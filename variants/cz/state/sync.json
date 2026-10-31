@@ -15708,17 +15708,19 @@
       }
     },
     "623": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31484810",
+          "reason": "Request failed for https://sdilej.cz/31484810/sicario-najemny-vrah-2015-akcni-usa-czdab-uhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:57:38.871657+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31484810",
         "display_name": "Sicario 4K CZ Dabing",
         "planned_at": "2026-10-31T09:56:52.932485+00:00"
-      },
-      "claim": {
-        "worker_id": "d4090e21975c4b928075d204e657d767-shard-0",
-        "claimed_at": "2026-10-31T09:56:53.115866+00:00",
-        "lease_expires_at": "2026-10-31T15:56:53.115866+00:00",
-        "run_id": "41180338554"
       }
     },
     "598": {
@@ -36489,5 +36491,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:56:56.605711+00:00"
+  "updated_at": "2026-10-31T09:57:38.871674+00:00"
 }
