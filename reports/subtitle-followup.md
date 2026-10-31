@@ -190,3 +190,5 @@ Attach subtitles only after target processing has finished.
 | My Fair Lady 1080p CZ Titulky | 30673478 | https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv | Extract Czech track from exact source after processing |
 | Beasts of No Nation 1080p CZ Titulky | 30673675 | https://sdilej.cz/14060782/beasts-of-no-nation-2015-1080p-ddp5.1-x265-en-dab-cz-tit.mkv | Complete: Czech subtitles verified |
 | Sentimental Value 1080p CZ Titulky | 30673875 | https://sdilej.cz/33852285/sentimental-value-citova-hodnota-2025-cz-titulky-aac-5.1-1080p.mkv | Extract Czech track from exact source after processing |
+| Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky | 30674419 | https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv | Extract Czech track from exact source after processing |
+| A Man Called Ove (En man som heter Ove) 1080p CZ Titulky | 30674421 | https://sdilej.cz/28441861/muz-jmenem-ove.mkv | Extract Czech track from exact source after processing |
