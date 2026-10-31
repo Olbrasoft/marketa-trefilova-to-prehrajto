@@ -14203,17 +14203,19 @@
       "attempts": []
     },
     "188": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26235503",
+          "target_video_id": "30656168",
+          "permanent": false,
+          "attempted_at": "2026-10-31T05:41:32.498296+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26235503",
         "display_name": "Cosy Dens (Pelíšky) 1080p CZ Dabing",
         "planned_at": "2026-10-31T05:34:01.441835+00:00"
-      },
-      "claim": {
-        "worker_id": "996fdaf32418417dbe628769d9e6d25c-shard-0",
-        "claimed_at": "2026-10-31T05:34:01.532447+00:00",
-        "lease_expires_at": "2026-10-31T11:34:01.532447+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30656168",
       "prepared": {
@@ -34609,5 +34611,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T05:34:05.476970+00:00"
+  "updated_at": "2026-10-31T05:41:32.498311+00:00"
 }
