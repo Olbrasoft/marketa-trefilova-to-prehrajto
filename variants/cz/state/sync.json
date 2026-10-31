@@ -15025,13 +15025,6 @@
           "source_id": "13366421",
           "target_video_id": "30659837",
           "permanent": false,
-          "attempted_at": "2026-10-31T10:34:33.373408+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13366421",
-          "target_video_id": "30659837",
-          "permanent": false,
           "attempted_at": "2026-10-31T11:05:27.793639+00:00"
         },
         {
@@ -15040,12 +15033,19 @@
           "target_video_id": "30659837",
           "permanent": false,
           "attempted_at": "2026-10-31T11:39:56.057390+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13366421",
+          "target_video_id": "30659837",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:16:59.840729+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13366421",
         "display_name": "One, Two, Three 1080p CZ Dabing",
-        "planned_at": "2026-10-31T11:39:54.796065+00:00"
+        "planned_at": "2026-10-31T12:16:58.263681+00:00"
       },
       "previous_target_id": "30659837",
       "prepared": {
@@ -15250,6 +15250,12 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-10-31T08:11:42.896977+00:00",
         "relay_source_id": "31822813"
+      },
+      "claim": {
+        "worker_id": "a6541d6848d24dedb8e8ab819efff0b6-shard-0",
+        "claimed_at": "2026-10-31T12:16:58.233827+00:00",
+        "lease_expires_at": "2026-10-31T18:16:58.233827+00:00",
+        "run_id": "41196554990"
       }
     },
     "20007": {
@@ -16441,7 +16447,7 @@
       "last_plan": {
         "source_id": "35179247",
         "display_name": "Wind River 1080p CZ Dabing",
-        "planned_at": "2026-10-31T12:16:56.736412+00:00"
+        "planned_at": "2026-10-31T12:16:58.308681+00:00"
       }
     },
     "616": {
@@ -37496,5 +37502,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:16:56.736430+00:00"
+  "updated_at": "2026-10-31T12:16:59.840744+00:00"
 }
