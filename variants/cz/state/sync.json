@@ -15617,17 +15617,19 @@
       }
     },
     "555": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32277009",
+          "target_video_id": "30662658",
+          "permanent": false,
+          "attempted_at": "2026-10-31T09:40:17.758002+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32277009",
         "display_name": "Everything Everywhere All at Once 1080p CZ Dabing",
         "planned_at": "2026-10-31T09:32:03.491955+00:00"
-      },
-      "claim": {
-        "worker_id": "e4ae08f976ef4dca8a5be7758de7f35a-shard-0",
-        "claimed_at": "2026-10-31T09:32:03.603981+00:00",
-        "lease_expires_at": "2026-10-31T15:32:03.603981+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30662658",
       "prepared": {
@@ -36404,5 +36406,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T09:35:49.324266+00:00"
+  "updated_at": "2026-10-31T09:40:17.758018+00:00"
 }
