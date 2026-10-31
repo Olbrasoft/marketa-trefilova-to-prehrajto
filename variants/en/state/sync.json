@@ -9267,17 +9267,19 @@
       "attempts": []
     },
     "607": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402327",
+          "target_video_id": "30669852",
+          "permanent": false,
+          "attempted_at": "2026-10-31T14:42:53.373975+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402327",
         "display_name": "Kubo and the Two Strings 1080p CZ Titulky",
         "planned_at": "2026-10-31T14:36:50.165315+00:00"
-      },
-      "claim": {
-        "worker_id": "4bf0489da450491a976804d4591368d9-shard-0",
-        "claimed_at": "2026-10-31T14:36:50.186822+00:00",
-        "lease_expires_at": "2026-10-31T20:36:50.186822+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30669852",
       "prepared": {
@@ -30867,5 +30869,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T14:42:37.188844+00:00"
+  "updated_at": "2026-10-31T14:42:53.373994+00:00"
 }
