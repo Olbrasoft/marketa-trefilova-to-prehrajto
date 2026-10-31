@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:47:37.661997+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-10-31T02:18:13.671127+00:00"
         },
         {
@@ -220,12 +213,19 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-10-31T02:50:55.395442+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:23:01.379463+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:50:52.921613+00:00"
+        "planned_at": "2026-10-31T03:22:59.506606+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -13617,14 +13617,25 @@
       "last_plan": {
         "source_id": "26245114",
         "display_name": "Paddington 2 1080p CZ Dabing",
-        "planned_at": "2026-10-31T03:22:55.263417+00:00"
+        "planned_at": "2026-10-31T03:22:59.575934+00:00"
+      },
+      "claim": {
+        "worker_id": "4319dfb632e848bcbab1cf5d410ff35d-shard-0",
+        "claimed_at": "2026-10-31T03:22:59.778982+00:00",
+        "lease_expires_at": "2026-10-31T09:22:59.778982+00:00",
+        "run_id": "41144016453"
       }
     },
     "18349": {
       "attempts": []
     },
     "23977": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29122747",
+        "display_name": "October Sky 1080p CZ Dabing",
+        "planned_at": "2026-10-31T03:22:59.614035+00:00"
+      }
     },
     "24303": {
       "attempts": []
@@ -33827,5 +33838,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:22:56.630204+00:00"
+  "updated_at": "2026-10-31T03:23:01.379481+00:00"
 }
