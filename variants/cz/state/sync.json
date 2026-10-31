@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "f89a31877a384a359978396e2343977c-shard-0",
+        "claimed_at": "2026-10-31T02:51:02.767537+00:00",
+        "lease_expires_at": "2026-10-31T08:51:02.767537+00:00",
+        "run_id": "41144016453"
       }
     },
     "37290": {
@@ -7994,13 +8000,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:12:36.546951+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-10-31T01:47:55.670549+00:00"
         },
         {
@@ -8009,12 +8008,19 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-10-31T02:18:28.006920+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:51:04.141996+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-10-31T02:18:26.673937+00:00"
+        "planned_at": "2026-10-31T02:51:02.951950+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -13418,7 +13424,7 @@
       "last_plan": {
         "source_id": "29464604",
         "display_name": "Dawn of the Dead (1978) 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:51:00.625550+00:00"
+        "planned_at": "2026-10-31T02:51:03.020653+00:00"
       }
     },
     "11475": {
@@ -33577,5 +33583,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:51:00.625568+00:00"
+  "updated_at": "2026-10-31T02:51:04.142015+00:00"
 }
