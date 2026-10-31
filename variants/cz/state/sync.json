@@ -14296,17 +14296,19 @@
       "attempts": []
     },
     "13123": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27938981",
+          "target_video_id": "30656853",
+          "permanent": false,
+          "attempted_at": "2026-10-31T06:20:41.307661+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27938981",
         "display_name": "Cowboy Bebop: The Movie (カウボーイビバップ 天国の扉) 720p CZ Dabing",
         "planned_at": "2026-10-31T06:11:28.815358+00:00"
-      },
-      "claim": {
-        "worker_id": "382fa80726af4e30befa6a990262d86f-shard-0",
-        "claimed_at": "2026-10-31T06:11:28.896281+00:00",
-        "lease_expires_at": "2026-10-31T12:11:28.896281+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30656853",
       "prepared": {
@@ -34738,5 +34740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T06:17:16.749703+00:00"
+  "updated_at": "2026-10-31T06:20:41.307677+00:00"
 }
