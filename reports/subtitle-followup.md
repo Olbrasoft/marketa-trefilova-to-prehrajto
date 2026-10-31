@@ -141,3 +141,4 @@ Attach subtitles only after target processing has finished.
 | Home Alone 1080p CZ Titulky | 30646078 | https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv | Extract Czech track from exact source after processing |
 | The Irishman 720p CZ Titulky | 30648488 | https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv | Extract Czech track from exact source after processing |
 | The Untouchables 1080p CZ Titulky | 30649618 | https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv | Extract Czech track from exact source after processing |
+| All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Extract Czech track from exact source after processing |
