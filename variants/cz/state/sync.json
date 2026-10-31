@@ -9393,7 +9393,7 @@
       "last_plan": {
         "source_id": "34379531",
         "display_name": "Star Trek 4K CZ Dabing",
-        "planned_at": "2026-10-31T07:14:17.312678+00:00"
+        "planned_at": "2026-10-31T08:02:33.904834+00:00"
       },
       "previous_target_id": "30634802",
       "prepared": {
@@ -9401,6 +9401,12 @@
         "size_bytes": 42900000000,
         "prepared_at": "2026-10-30T13:10:34.211458+00:00",
         "relay_source_id": "34379531"
+      },
+      "claim": {
+        "worker_id": "f294e72d909b4a87ad24a9c7fd59b954-shard-0",
+        "claimed_at": "2026-10-31T08:02:34.119210+00:00",
+        "lease_expires_at": "2026-10-31T14:02:34.119210+00:00",
+        "run_id": "41180338554"
       }
     },
     "32992": {
@@ -14803,17 +14809,23 @@
           "attempted_at": "2026-10-31T07:13:22.704835+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33767924",
-        "display_name": "C.R.A.Z.Y. 1080p CZ Dabing",
-        "planned_at": "2026-10-31T08:02:32.467890+00:00"
-      },
       "previous_target_id": "30659297",
-      "prepared": {
+      "upload": {
         "target_video_id": "30659297",
-        "size_bytes": 3065319862,
-        "prepared_at": "2026-10-31T07:03:19.725564+00:00",
-        "relay_source_id": "33767924"
+        "display_name": "C.R.A.Z.Y. 1080p CZ Dabing",
+        "source_id": "33767924",
+        "source_url": "https://sdilej.cz/33767924/dar-od-boha-2005-1080p-cz.mp4",
+        "source_filename": "Dar od boha (2005) 1080p, cz.mp4",
+        "size_bytes": 3100000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9263855218887329,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/c-r-a-z-y-1080p-cz-dabing-mp4/d862592dfb5104d0",
+        "uploaded_at": "2026-10-31T08:02:35.207561+00:00"
       }
     },
     "15739": {
@@ -15092,7 +15104,7 @@
       "last_plan": {
         "source_id": "31433415",
         "display_name": "The Train 1080p CZ Dabing",
-        "planned_at": "2026-10-31T08:02:32.541082+00:00"
+        "planned_at": "2026-10-31T08:02:33.973437+00:00"
       }
     },
     "30098": {
@@ -35538,5 +35550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:02:32.541099+00:00"
+  "updated_at": "2026-10-31T08:02:35.207578+00:00"
 }
