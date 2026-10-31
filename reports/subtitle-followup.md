@@ -99,7 +99,7 @@ Attach subtitles only after target processing has finished.
 | Black Swan 1080p CZ Titulky | 30625850 | https://sdilej.cz/34794426/black.swan.2010.1080p.bluray.10bit.av1-majo.mkv | Extract Czech track from exact source after processing |
 | Sin City 1080p CZ Titulky | 30626361 | https://sdilej.cz/25502477/sin-city-mesto-hrichu-2005-hevc-cz-dab-super-kvalita.mkv | Complete: Czech subtitles verified |
 | Into the Wild 1080p CZ Titulky | 30626855 | https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv | Extract Czech track from exact source after processing |
-| Zootopia 1080p CZ Titulky | 30627325 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Extract Czech track from exact source after processing |
+| Zootopia 1080p CZ Titulky | 30627325 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Complete: Czech subtitles verified |
 | Gintama: The Final (銀魂 THE FINAL) 1080p CZ Titulky | 30627689 | https://sdilej.cz/35036692/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo.mkv | Complete: Czech subtitles verified |
 | Aladdin (1992) 1080p CZ Titulky | 30627809 | https://sdilej.cz/15881813/aladdin.1992-cz.mkv | Complete: Czech subtitles verified |
 | The Princess Bride 1080p CZ Titulky | 30627890 | https://sdilej.cz/13533126/princezna-nevesta-the-princess-bride-1987-.brrip.h264.dts-5.1.tit.cz.mkv | Extract Czech track from exact source after processing |
@@ -126,7 +126,7 @@ Attach subtitles only after target processing has finished.
 | True Romance 1080p CZ Titulky | 30640322 | https://sdilej.cz/30979686/pravdiva-romance-1993-cz-dab1080p-bluray.mkv | Complete: Czech subtitles verified |
 | Wonder 1080p CZ Titulky | 30640621 | https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Spartacus (1960) 1080p CZ Titulky | 30641259 | https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv | Extract Czech track from exact source after processing |
-| Strangers on a Train 1080p CZ Titulky | 30641584 | https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| Strangers on a Train 1080p CZ Titulky | 30641584 | https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Do the Right Thing 1080p CZ Titulky | 30642017 | https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Rio Bravo 720p CZ Titulky | 30643106 | https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
 | Togo 1080p CZ Titulky | 30643515 | https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv | Extract Czech track from exact source after processing |
@@ -143,3 +143,4 @@ Attach subtitles only after target processing has finished.
 | The Untouchables 1080p CZ Titulky | 30649618 | https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv | Extract Czech track from exact source after processing |
 | All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Walk the Line 1080p CZ Titulky | 30650875 | https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
