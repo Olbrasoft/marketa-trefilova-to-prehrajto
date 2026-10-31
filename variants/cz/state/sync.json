@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-10-31T15:23:51.539597+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-10-31T16:01:57.007222+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-10-31T17:04:28.676483+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:41:11.470924+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "e92b396efd5c42f89ce7c2c9de0762cb-shard-0",
-        "claimed_at": "2026-10-31T17:41:09.089758+00:00",
-        "lease_expires_at": "2026-10-31T23:41:09.089758+00:00",
-        "run_id": "41219330327"
       }
     },
     "10755": {
@@ -8498,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-10-31T17:04:29.935745+00:00"
+        "planned_at": "2026-10-31T17:41:11.101188+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8506,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "fd619944c202475c80ff178fbd3ab3e7-shard-0",
+        "claimed_at": "2026-10-31T17:41:11.242183+00:00",
+        "lease_expires_at": "2026-10-31T23:41:11.242183+00:00",
+        "run_id": "41219330327"
       }
     },
     "29922": {
@@ -18053,7 +18053,7 @@
       "last_plan": {
         "source_id": "35010444",
         "display_name": "Open Your Eyes SD CZ Dabing",
-        "planned_at": "2026-10-31T17:41:09.001212+00:00"
+        "planned_at": "2026-10-31T17:41:11.149002+00:00"
       }
     },
     "10694": {
@@ -40177,5 +40177,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:41:09.699101+00:00"
+  "updated_at": "2026-10-31T17:41:11.470946+00:00"
 }
