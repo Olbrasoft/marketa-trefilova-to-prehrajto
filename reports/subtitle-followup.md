@@ -216,3 +216,4 @@ Attach subtitles only after target processing has finished.
 | My Hero Academia: Heroes Rising 1080p CZ Titulky | 30675522 | https://sdilej.cz/18318002/my-hero-academia-heroes-rising-2019-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | 14 Peaks: Nothing Is Impossible 1080p CZ Titulky | 30675715 | https://sdilej.cz/34982939/14-vrcholu-nic-neni-nemozne-2021-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Corpus Christi (Boże Ciało) 1080p CZ Titulky | 30676979 | https://sdilej.cz/27515642/corpus.christi.2019.1080p.cz-sk-sub.mkv | Extract Czech track from exact source after processing |
+| Despicable Me 4K CZ Titulky | 30680025 | https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv | Extract Czech track from exact source after processing |
