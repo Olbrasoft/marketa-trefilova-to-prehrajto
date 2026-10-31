@@ -112,7 +112,7 @@ Attach subtitles only after target processing has finished.
 | The Ascent 1080p CZ Titulky | 30631012 | https://sdilej.cz/33856188/300-vzestup-rise.mp4 | Complete: Czech subtitles verified |
 | The Miracle Worker 1080p CZ Titulky | 30631145 | https://sdilej.cz/27658195/the-miracle-worker-divotvu-rkyne-1962-en-sub-cz-en.mkv | Complete: Czech subtitles verified |
 | Going Clear: Scientology, Hollywood, and the Prison of Belief (Going Clear: Scientology and the Prison of Belief) 720p CZ Titulky | 30631572 | https://sdilej.cz/6560926/going-clear-scientology-and-the-prison-of-belief-2015-.720p.hdtv.x264-ceske-titulky.mkv | Complete: Czech subtitles verified |
-| Taegukgi (태극기 휘날리며) 720p CZ Titulky | 30631676 | https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| Taegukgi (태극기 휘날리며) 720p CZ Titulky | 30631676 | https://sdilej.cz/15397067/pouta-valky-the-brotherhood-of-war-2004-hd-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Iron Man 1080p CZ Titulky | 30632045 | https://sdilej.cz/35296917/iron-man.mkv | Complete: Czech subtitles verified |
 | Thor: Ragnarok 1080p CZ Titulky | 30632260 | https://sdilej.cz/22765537/thor-3-ragnarok-cz-1080p.mkv | Complete: Czech subtitles verified |
 | Knives Out 1080p CZ Titulky | 30632412 | https://sdilej.cz/35402754/knives.out.2019.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
