@@ -204,13 +204,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-10-31T14:40:43.247487+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-10-31T15:20:57.411646+00:00"
         },
         {
@@ -219,6 +212,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-10-31T15:59:52.691466+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:02:49.940302+00:00"
         }
       ],
       "last_plan": {
@@ -232,12 +232,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "ba7afffeeb8344c2b15c5abff1d81d29-shard-0",
-        "claimed_at": "2026-10-31T17:02:46.267050+00:00",
-        "lease_expires_at": "2026-10-31T23:02:46.267050+00:00",
-        "run_id": "41219330327"
       }
     },
     "24": {
@@ -1889,7 +1883,7 @@
       "last_plan": {
         "source_id": "33013175",
         "display_name": "Braveheart 4K CZ Titulky",
-        "planned_at": "2026-10-31T15:59:54.179826+00:00"
+        "planned_at": "2026-10-31T17:02:48.774554+00:00"
       },
       "previous_target_id": "30597835",
       "prepared": {
@@ -1897,6 +1891,12 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
+      },
+      "claim": {
+        "worker_id": "079947b8e2a74d0db2a0ab891e42ff6a-shard-0",
+        "claimed_at": "2026-10-31T17:02:48.834311+00:00",
+        "lease_expires_at": "2026-10-31T23:02:48.834311+00:00",
+        "run_id": "41219330327"
       }
     },
     "108": {
@@ -9450,7 +9450,7 @@
       "last_plan": {
         "source_id": "24371035",
         "display_name": "My Fair Lady 1080p CZ Titulky",
-        "planned_at": "2026-10-31T17:02:46.203828+00:00"
+        "planned_at": "2026-10-31T17:02:48.813811+00:00"
       }
     },
     "28204": {
@@ -31416,5 +31416,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:02:46.267074+00:00"
+  "updated_at": "2026-10-31T17:02:49.940325+00:00"
 }
