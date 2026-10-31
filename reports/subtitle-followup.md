@@ -176,3 +176,4 @@ Attach subtitles only after target processing has finished.
 | Lost in Translation 1080p CZ Titulky | 30663086 | https://sdilej.cz/31550871/lost.in.translation.2003.1080p.bluray.hevc.10bit.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Star Trek Into Darkness 1080p CZ Titulky | 30663442 | https://sdilej.cz/14848573/star-trek-do-temnoty-2013-1080p-cz.mkv | Extract Czech track from exact source after processing |
 | Crash (2004) 1080p CZ Titulky | 30663753 | https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Black Hawk Down 720p CZ Titulky | 30663831 | https://sdilej.cz/32084108/cerny-jestrab-sestrelen-black-hawk-down.2001.720p.bluray.cz.dabing.mkv | Extract Czech track from exact source after processing |
