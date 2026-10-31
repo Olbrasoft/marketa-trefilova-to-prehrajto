@@ -13019,17 +13019,19 @@
       }
     },
     "458": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30195217",
+          "target_video_id": "30651652",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:55:29.110623+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30195217",
         "display_name": "Isle of Dogs 1080p CZ Dabing",
         "planned_at": "2026-10-31T01:49:35.158772+00:00"
-      },
-      "claim": {
-        "worker_id": "b9dda93a87fb4beba6901482fad58d2a-shard-0",
-        "claimed_at": "2026-10-31T01:49:35.257230+00:00",
-        "lease_expires_at": "2026-10-31T07:49:35.257230+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30651652",
       "prepared": {
@@ -33137,5 +33139,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:50:05.045758+00:00"
+  "updated_at": "2026-10-31T01:55:29.110639+00:00"
 }
