@@ -16982,17 +16982,19 @@
       "attempts": []
     },
     "566": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27010128",
+          "target_video_id": "30668689",
+          "permanent": false,
+          "attempted_at": "2026-10-31T14:20:33.524781+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27010128",
         "display_name": "Sound of Metal 1080p CZ Dabing",
         "planned_at": "2026-10-31T13:35:32.479756+00:00"
-      },
-      "claim": {
-        "worker_id": "bf494049a25a48a48abb1f52db04e8e4-shard-0",
-        "claimed_at": "2026-10-31T13:35:32.559529+00:00",
-        "lease_expires_at": "2026-10-31T19:35:32.559529+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30668689",
       "prepared": {
@@ -38691,5 +38693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T14:14:28.743704+00:00"
+  "updated_at": "2026-10-31T14:20:33.524801+00:00"
 }
