@@ -18487,17 +18487,19 @@
       }
     },
     "10817": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30732165",
+          "target_video_id": "30674998",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:34:29.641597+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30732165",
         "display_name": "Days of Wine and Roses 1080p CZ Dabing",
         "planned_at": "2026-10-31T18:23:36.682643+00:00"
-      },
-      "claim": {
-        "worker_id": "efd800c0b16f47a3bb56cf5dd0138b3d-shard-0",
-        "claimed_at": "2026-10-31T18:23:36.745707+00:00",
-        "lease_expires_at": "2026-11-01T00:23:36.745707+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674998",
       "prepared": {
@@ -40819,5 +40821,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:32:38.535178+00:00"
+  "updated_at": "2026-10-31T18:34:29.641616+00:00"
 }
