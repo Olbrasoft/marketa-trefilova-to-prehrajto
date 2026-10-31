@@ -18689,17 +18689,19 @@
       "attempts": []
     },
     "10702": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:54:25.054916+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
         "planned_at": "2026-10-31T18:46:03.745380+00:00"
-      },
-      "claim": {
-        "worker_id": "a6fc0bf61e4c495ab038599312585297-shard-0",
-        "claimed_at": "2026-10-31T18:46:03.813969+00:00",
-        "lease_expires_at": "2026-11-01T00:46:03.813969+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -40963,5 +40965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:54:14.501189+00:00"
+  "updated_at": "2026-10-31T18:54:25.054935+00:00"
 }
