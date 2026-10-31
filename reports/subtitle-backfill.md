@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T19:03:42.858301+00:00
+Poslední aktualizace (UTC): 2026-10-31T19:03:44.660675+00:00
 
 Zkontrolováno videí: 194. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 90, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 53, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 90, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 54, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -76,6 +76,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvod
 | [Gravity 1080p CZ Titulky](https://prehraj.to/gravity-1080p-cz-titulky-mkv/9c2c54a4072ed8f0) (ID 30661712) | [Sdílej 35402264](https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:05:43.623298+00:00 |
 | [Guardians of the Galaxy Vol. 3 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-vol-3-4k-cz-titulky-mkv/134396bccaf3cde2) (ID 30638438) | [Sdílej 26457098](https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T11:05:11.144858+00:00 |
 | [Hamnet 1080p CZ Titulky](https://prehraj.to/hamnet-1080p-cz-titulky-mkv/d04bd01b32c76a4c) (ID 30653249) | [Sdílej 32963361](https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv) | target_unavailable | 2026-10-31T10:55:23.679713+00:00 |
+| [Hana-bi 720p CZ Titulky](https://prehraj.to/hana-bi-720p-cz-titulky-mkv/556f73c0602db29f) (ID 30675517) | [Sdílej 35010233](https://sdilej.cz/35010233/1997-ohnostroj-krimi-drama-thriller-81-cz-sub.mkv) | target_unavailable | 2026-10-31T19:03:44.660616+00:00 |
 | [Harold and Maude 1080p CZ Titulky](https://prehraj.to/harold-and-maude-1080p-cz-titulky-mkv/4d09d179c66d370a) (ID 30654323) | [Sdílej 35402272](https://sdilej.cz/35402272/harold.and.maude.1971.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T10:55:20.261654+00:00 |
 | [Harry Potter and the Goblet of Fire 1080p CZ Titulky](https://prehraj.to/harry-potter-and-the-goblet-of-fire-1080p-cz-titulky-mkv/12cc5d1f1cb736f6) (ID 30661955) | [Sdílej 22875915](https://sdilej.cz/22875915/harry-potter-4-a-ohnivy-pohar-2005-dobrodruzny-drama-rodinny-fantasy-cz-dab.-hevc-fullhd-1080p-.mkv) | target_unavailable | 2026-10-31T11:14:40.375591+00:00 |
 | [Home Alone 1080p CZ Titulky](https://prehraj.to/home-alone-1080p-cz-titulky-mkv/e4f27f42d5eda74c) (ID 30646078) | [Sdílej 23025299](https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv) | target_unavailable | 2026-10-31T10:55:27.077422+00:00 |
