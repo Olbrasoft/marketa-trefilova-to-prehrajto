@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T10:55:55.987045+00:00
+Poslední aktualizace (UTC): 2026-10-31T10:55:59.441955+00:00
 
 Zkontrolováno videí: 173. Další stránka kontroly: 0.
 
@@ -88,7 +88,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvod
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-10-31T09:43:39.367590+00:00 |
 | [Star Trek Into Darkness 1080p CZ Titulky](https://prehraj.to/star-trek-into-darkness-1080p-cz-titulky-mkv/3885a01342b31d6f) (ID 30663442) | [Sdílej 14848573](https://sdilej.cz/14848573/star-trek-do-temnoty-2013-1080p-cz.mkv) | target_unavailable | 2026-10-31T10:24:01.150176+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-10-31T09:44:15.803943+00:00 |
-| [The Chaser (추격자) 1080p CZ Titulky](https://prehraj.to/the-chaser-1080p-cz-titulky-mkv/83e5d18549327f1f) (ID 30654751) | [Sdílej 13703315](https://sdilej.cz/13703315/bile-maso-the-chaser-chugyeogja-2008-titulky-cz.mkv) | target_unavailable | 2026-10-31T09:34:26.933304+00:00 |
+| [The Chaser (추격자) 1080p CZ Titulky](https://prehraj.to/the-chaser-1080p-cz-titulky-mkv/83e5d18549327f1f) (ID 30654751) | [Sdílej 13703315](https://sdilej.cz/13703315/bile-maso-the-chaser-chugyeogja-2008-titulky-cz.mkv) | target_unavailable | 2026-10-31T10:55:59.441886+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-10-31T09:44:01.953084+00:00 |
 | [The Irishman 720p CZ Titulky](https://prehraj.to/the-irishman-720p-cz-titulky-mkv/c70ac834645aae57) (ID 30648488) | [Sdílej 12685665](https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv) | target_unavailable | 2026-10-31T09:43:31.132414+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-10-31T09:34:47.166589+00:00 |
