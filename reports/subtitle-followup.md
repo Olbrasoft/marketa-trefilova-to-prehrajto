@@ -154,3 +154,4 @@ Attach subtitles only after target processing has finished.
 | The Chaser (추격자) 1080p CZ Titulky | 30654751 | https://sdilej.cz/13703315/bile-maso-the-chaser-chugyeogja-2008-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Thirteen Lives 1080p CZ Titulky | 30654980 | https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv | Extract Czech track from exact source after processing |
 | Aguirre, the Wrath of God 1080p CZ Titulky | 30655121 | https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv | Extract Czech track from exact source after processing |
+| Loving Vincent 1080p CZ Titulky | 30655366 | https://sdilej.cz/29326786/s-laskou-vincent.mkv | Extract Czech track from exact source after processing |
