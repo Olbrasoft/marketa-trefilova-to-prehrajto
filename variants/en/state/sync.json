@@ -1136,7 +1136,7 @@
       "last_plan": {
         "source_id": "13383178",
         "display_name": "The Intouchables (Intouchables) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T19:15:26.712994+00:00"
+        "planned_at": "2026-10-31T19:15:28.245669+00:00"
       }
     },
     "69": {
@@ -7340,6 +7340,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-31T01:20:43.427184+00:00",
         "relay_source_id": "6489245"
+      },
+      "claim": {
+        "worker_id": "fa132f20ab89476fa663f1dc852ff46a-shard-0",
+        "claimed_at": "2026-10-31T19:15:28.067988+00:00",
+        "lease_expires_at": "2026-11-01T01:15:28.067988+00:00",
+        "run_id": "41219330327"
       }
     },
     "11907": {
@@ -7672,17 +7678,23 @@
           "attempted_at": "2026-10-31T18:43:02.125635+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32963361",
-        "display_name": "Hamnet 1080p CZ Titulky",
-        "planned_at": "2026-10-31T18:43:00.039242+00:00"
-      },
       "previous_target_id": "30653249",
-      "prepared": {
+      "upload": {
         "target_video_id": "30653249",
+        "display_name": "Hamnet 1080p CZ Titulky",
+        "source_id": "32963361",
+        "source_url": "https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv",
+        "source_filename": "Hamnet (2025) 1080p ENG CZ tit vloženy.mkv",
         "size_bytes": 5500000000,
-        "prepared_at": "2026-10-31T03:00:21.322613+00:00",
-        "relay_source_id": "32963361"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "en",
+        "language_probability": 0.9765148162841797,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/hamnet-1080p-cz-titulky-mkv/d04bd01b32c76a4c",
+        "uploaded_at": "2026-10-31T19:15:28.871176+00:00"
       }
     },
     "406": {
@@ -32518,5 +32530,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:15:26.713008+00:00"
+  "updated_at": "2026-10-31T19:15:28.871185+00:00"
 }
