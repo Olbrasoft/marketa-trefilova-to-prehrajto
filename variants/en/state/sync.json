@@ -6214,13 +6214,6 @@
           "source_id": "20929657",
           "target_video_id": "30642017",
           "permanent": false,
-          "attempted_at": "2026-10-31T06:09:33.544175+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20929657",
-          "target_video_id": "30642017",
-          "permanent": false,
           "attempted_at": "2026-10-31T06:41:50.954711+00:00"
         },
         {
@@ -6229,6 +6222,13 @@
           "target_video_id": "30642017",
           "permanent": false,
           "attempted_at": "2026-10-31T07:13:57.920751+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20929657",
+          "target_video_id": "30642017",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:02:21.460349+00:00"
         }
       ],
       "last_plan": {
@@ -6367,7 +6367,7 @@
       "last_plan": {
         "source_id": "30773956",
         "display_name": "Rio Bravo 720p CZ Titulky",
-        "planned_at": "2026-10-31T07:13:59.031288+00:00"
+        "planned_at": "2026-10-31T08:02:20.623195+00:00"
       },
       "previous_target_id": "30643106",
       "prepared": {
@@ -6375,6 +6375,12 @@
         "size_bytes": 7200000000,
         "prepared_at": "2026-10-30T19:39:15.976482+00:00",
         "relay_source_id": "30773956"
+      },
+      "claim": {
+        "worker_id": "f221861dfce646158025277100426b73-shard-0",
+        "claimed_at": "2026-10-31T08:02:20.718092+00:00",
+        "lease_expires_at": "2026-10-31T14:02:20.718092+00:00",
+        "run_id": "41180338554"
       }
     },
     "28372": {
@@ -8442,7 +8448,7 @@
       "last_plan": {
         "source_id": "29667772",
         "display_name": "Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T08:02:19.131822+00:00"
+        "planned_at": "2026-10-31T08:02:20.687475+00:00"
       }
     },
     "655": {
@@ -28875,5 +28881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:02:19.131839+00:00"
+  "updated_at": "2026-10-31T08:02:21.460384+00:00"
 }
