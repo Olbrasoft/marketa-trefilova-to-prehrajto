@@ -8934,13 +8934,6 @@
           "source_id": "35402143",
           "target_video_id": "30663753",
           "permanent": false,
-          "attempted_at": "2026-10-31T17:03:23.401118+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35402143",
-          "target_video_id": "30663753",
-          "permanent": false,
           "attempted_at": "2026-10-31T17:40:15.195970+00:00"
         },
         {
@@ -8949,6 +8942,13 @@
           "target_video_id": "30663753",
           "permanent": false,
           "attempted_at": "2026-10-31T18:10:40.622880+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35402143",
+          "target_video_id": "30663753",
+          "permanent": false,
+          "attempted_at": "2026-10-31T18:43:47.264274+00:00"
         }
       ],
       "last_plan": {
@@ -9135,7 +9135,7 @@
       "last_plan": {
         "source_id": "35402244",
         "display_name": "Gattaca 1080p CZ Titulky",
-        "planned_at": "2026-10-31T18:10:41.943488+00:00"
+        "planned_at": "2026-10-31T18:43:46.321673+00:00"
       },
       "previous_target_id": "30664643",
       "prepared": {
@@ -9143,6 +9143,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T11:52:22.084766+00:00",
         "relay_source_id": "35402244"
+      },
+      "claim": {
+        "worker_id": "3c0352c5d00d4b7ea30de5fd1248b174-shard-0",
+        "claimed_at": "2026-10-31T18:43:46.381252+00:00",
+        "lease_expires_at": "2026-11-01T00:43:46.381252+00:00",
+        "run_id": "41219330327"
       }
     },
     "11264": {
@@ -9904,7 +9910,7 @@
       "last_plan": {
         "source_id": "34694735",
         "display_name": "The Promised Land (Bastarden) 1080p CZ Titulky",
-        "planned_at": "2026-10-31T18:43:44.924093+00:00"
+        "planned_at": "2026-10-31T18:43:46.363281+00:00"
       }
     },
     "33295": {
@@ -32144,5 +32150,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T18:43:44.924100+00:00"
+  "updated_at": "2026-10-31T18:43:47.264289+00:00"
 }
