@@ -10733,17 +10733,19 @@
       }
     },
     "817": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402382",
+          "target_video_id": "30680415",
+          "permanent": false,
+          "attempted_at": "2026-10-31T23:04:35.768836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402382",
         "display_name": "Minority Report 1080p CZ Titulky",
         "planned_at": "2026-10-31T22:55:04.707381+00:00"
-      },
-      "claim": {
-        "worker_id": "13aabc2d740446988bcab32fe167a910-shard-0",
-        "claimed_at": "2026-10-31T22:55:04.750193+00:00",
-        "lease_expires_at": "2026-11-01T04:55:04.750193+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30680415",
       "prepared": {
@@ -33434,5 +33436,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T23:04:14.480878+00:00"
+  "updated_at": "2026-10-31T23:04:35.768852+00:00"
 }
