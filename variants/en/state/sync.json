@@ -8490,17 +8490,19 @@
       }
     },
     "655": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402264",
+          "target_video_id": "30661712",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:44:36.369803+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402264",
         "display_name": "Gravity 1080p CZ Titulky",
         "planned_at": "2026-10-31T08:40:17.482329+00:00"
-      },
-      "claim": {
-        "worker_id": "82f21222612f4895a3e3636d5fc66e73-shard-0",
-        "claimed_at": "2026-10-31T08:40:17.520091+00:00",
-        "lease_expires_at": "2026-10-31T14:40:17.520091+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30661712",
       "prepared": {
@@ -29127,5 +29129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:40:20.888488+00:00"
+  "updated_at": "2026-10-31T08:44:36.369821+00:00"
 }
