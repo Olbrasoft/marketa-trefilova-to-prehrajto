@@ -14766,17 +14766,19 @@
       }
     },
     "15739": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13645584",
+          "target_video_id": "30659349",
+          "permanent": false,
+          "attempted_at": "2026-10-31T07:10:56.963201+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13645584",
         "display_name": "My Life as a Zucchini (Ma vie de courgette) 1080p CZ Dabing",
         "planned_at": "2026-10-31T07:05:19.985706+00:00"
-      },
-      "claim": {
-        "worker_id": "50807079608a4e6bb35ef26ad25826a7-shard-0",
-        "claimed_at": "2026-10-31T07:05:20.071167+00:00",
-        "lease_expires_at": "2026-10-31T13:05:20.071167+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30659349",
       "prepared": {
@@ -35182,5 +35184,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T07:08:25.972963+00:00"
+  "updated_at": "2026-10-31T07:10:56.963217+00:00"
 }
