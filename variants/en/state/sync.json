@@ -7109,7 +7109,7 @@
       "last_plan": {
         "source_id": "30833257",
         "display_name": "The Untouchables 1080p CZ Titulky",
-        "planned_at": "2026-10-31T11:32:16.580942+00:00"
+        "planned_at": "2026-10-31T12:16:39.091212+00:00"
       },
       "previous_target_id": "30649618",
       "prepared": {
@@ -7117,6 +7117,12 @@
         "size_bytes": 7100000000,
         "prepared_at": "2026-10-31T00:13:17.647067+00:00",
         "relay_source_id": "30833257"
+      },
+      "claim": {
+        "worker_id": "4511dacd1d384db09a8fc05f7457380e-shard-0",
+        "claimed_at": "2026-10-31T12:16:39.151663+00:00",
+        "lease_expires_at": "2026-10-31T18:16:39.151663+00:00",
+        "run_id": "41196554990"
       }
     },
     "500": {
@@ -7213,13 +7219,6 @@
           "source_id": "6489245",
           "target_video_id": "30650875",
           "permanent": false,
-          "attempted_at": "2026-10-31T10:25:42.092677+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6489245",
-          "target_video_id": "30650875",
-          "permanent": false,
           "attempted_at": "2026-10-31T10:59:57.190801+00:00"
         },
         {
@@ -7228,6 +7227,13 @@
           "target_video_id": "30650875",
           "permanent": false,
           "attempted_at": "2026-10-31T11:32:15.264303+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6489245",
+          "target_video_id": "30650875",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:16:39.337046+00:00"
         }
       ],
       "last_plan": {
@@ -7241,12 +7247,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-31T01:20:43.427184+00:00",
         "relay_source_id": "6489245"
-      },
-      "claim": {
-        "worker_id": "a4177eb0c6fe401ab29203eabc10427d-shard-0",
-        "claimed_at": "2026-10-31T12:16:35.932953+00:00",
-        "lease_expires_at": "2026-10-31T18:16:35.932953+00:00",
-        "run_id": "41196554990"
       }
     },
     "11907": {
@@ -9065,7 +9065,7 @@
       "last_plan": {
         "source_id": "26730074",
         "display_name": "Mr. Nobody 1080p CZ Titulky",
-        "planned_at": "2026-10-31T12:16:35.913496+00:00"
+        "planned_at": "2026-10-31T12:16:39.126450+00:00"
       }
     },
     "11610": {
@@ -30095,5 +30095,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:16:36.206655+00:00"
+  "updated_at": "2026-10-31T12:16:39.337067+00:00"
 }
