@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T08:42:21.644501+00:00
+Poslední aktualizace (UTC): 2026-10-31T08:42:25.166244+00:00
 
 Zkontrolováno videí: 165. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 85, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 85, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -64,6 +64,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-10-31T08:13:53.181626+00:00 |
 | [Castaway on the Moon (김씨 표류기) 1080p CZ Titulky](https://prehraj.to/castaway-on-the-moon-1080p-cz-titulky-mkv/daaa1b9d9e299127) (ID 30652792) | [Sdílej 30614687](https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv) | target_unavailable | 2026-10-31T08:22:16.083019+00:00 |
 | [Do the Right Thing 1080p CZ Titulky](https://prehraj.to/do-the-right-thing-1080p-cz-titulky-mkv/749db7b5154e4aa3) (ID 30642017) | [Sdílej 20929657](https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv) | target_unavailable | 2026-10-31T08:13:05.128817+00:00 |
+| [Gravity 1080p CZ Titulky](https://prehraj.to/gravity-1080p-cz-titulky-mkv/9c2c54a4072ed8f0) (ID 30661712) | [Sdílej 35402264](https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T08:42:25.166161+00:00 |
 | [Guardians of the Galaxy Vol. 3 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-vol-3-4k-cz-titulky-mkv/134396bccaf3cde2) (ID 30638438) | [Sdílej 26457098](https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T08:22:52.856610+00:00 |
 | [Hamnet 1080p CZ Titulky](https://prehraj.to/hamnet-1080p-cz-titulky-mkv/d04bd01b32c76a4c) (ID 30653249) | [Sdílej 32963361](https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv) | target_unavailable | 2026-10-31T08:12:58.072589+00:00 |
 | [Harold and Maude 1080p CZ Titulky](https://prehraj.to/harold-and-maude-1080p-cz-titulky-mkv/4d09d179c66d370a) (ID 30654323) | [Sdílej 35402272](https://sdilej.cz/35402272/harold.and.maude.1971.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T08:12:54.559593+00:00 |
