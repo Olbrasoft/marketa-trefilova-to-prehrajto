@@ -18005,17 +18005,19 @@
       }
     },
     "13438": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16107258",
+          "target_video_id": "30674080",
+          "permanent": false,
+          "attempted_at": "2026-10-31T17:41:29.972585+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16107258",
         "display_name": "Black Book (Zwartboek) 1080p CZ Dabing",
         "planned_at": "2026-10-31T17:28:32.171124+00:00"
-      },
-      "claim": {
-        "worker_id": "523ff414c3c241738f52252808a900ca-shard-0",
-        "claimed_at": "2026-10-31T17:28:32.241771+00:00",
-        "lease_expires_at": "2026-10-31T23:28:32.241771+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30674080",
       "prepared": {
@@ -40183,5 +40185,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:41:28.720850+00:00"
+  "updated_at": "2026-10-31T17:41:29.972604+00:00"
 }
