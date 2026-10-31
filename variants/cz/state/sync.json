@@ -16906,17 +16906,19 @@
       }
     },
     "10857": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31263799",
+          "target_video_id": "30666331",
+          "permanent": false,
+          "attempted_at": "2026-10-31T13:37:14.611907+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31263799",
         "display_name": "Goldfinger 4K CZ Dabing",
         "planned_at": "2026-10-31T13:22:30.987996+00:00"
-      },
-      "claim": {
-        "worker_id": "77695f2d398c4e3fba1a1bc21e816d63-shard-0",
-        "claimed_at": "2026-10-31T13:22:31.053484+00:00",
-        "lease_expires_at": "2026-10-31T19:22:31.053484+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30666331",
       "prepared": {
@@ -38362,5 +38364,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:35:36.426557+00:00"
+  "updated_at": "2026-10-31T13:37:14.611925+00:00"
 }
