@@ -10563,7 +10563,7 @@
       "last_plan": {
         "source_id": "28727379",
         "display_name": "The Killing 1080p CZ Dabing",
-        "planned_at": "2026-10-31T02:18:39.431708+00:00"
+        "planned_at": "2026-10-31T02:51:11.949308+00:00"
       },
       "previous_target_id": "30642304",
       "prepared": {
@@ -10571,6 +10571,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-10-30T18:53:53.431357+00:00",
         "relay_source_id": "28727379"
+      },
+      "claim": {
+        "worker_id": "55f9eab66fe242af848ee7a7692d17d1-shard-0",
+        "claimed_at": "2026-10-31T02:51:12.123889+00:00",
+        "lease_expires_at": "2026-10-31T08:51:12.123889+00:00",
+        "run_id": "41144016453"
       }
     },
     "28772": {
@@ -11237,13 +11243,6 @@
           "source_id": "34478058",
           "target_video_id": "30644026",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:12:54.877920+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34478058",
-          "target_video_id": "30644026",
-          "permanent": false,
           "attempted_at": "2026-10-31T01:48:09.782576+00:00"
         },
         {
@@ -11252,6 +11251,13 @@
           "target_video_id": "30644026",
           "permanent": false,
           "attempted_at": "2026-10-31T02:18:38.384769+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34478058",
+          "target_video_id": "30644026",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:51:12.345638+00:00"
         }
       ],
       "last_plan": {
@@ -11265,12 +11271,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T20:23:41.662669+00:00",
         "relay_source_id": "34478058"
-      },
-      "claim": {
-        "worker_id": "e319fac6dfc44e87a7785b40b9f923e0-shard-0",
-        "claimed_at": "2026-10-31T02:51:10.473744+00:00",
-        "lease_expires_at": "2026-10-31T08:51:10.473744+00:00",
-        "run_id": "41144016453"
       }
     },
     "403": {
@@ -13424,7 +13424,7 @@
       "last_plan": {
         "source_id": "29464604",
         "display_name": "Dawn of the Dead (1978) 4K CZ Dabing",
-        "planned_at": "2026-10-31T02:51:10.363225+00:00"
+        "planned_at": "2026-10-31T02:51:12.012991+00:00"
       }
     },
     "11475": {
@@ -33583,5 +33583,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:51:10.768499+00:00"
+  "updated_at": "2026-10-31T02:51:12.345656+00:00"
 }
