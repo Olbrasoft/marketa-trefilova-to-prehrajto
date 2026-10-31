@@ -17342,17 +17342,19 @@
       }
     },
     "527": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32277811",
+          "target_video_id": "30670865",
+          "permanent": false,
+          "attempted_at": "2026-10-31T15:19:44.935920+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32277811",
         "display_name": "How to Train Your Dragon (2025) 4K CZ Dabing",
         "planned_at": "2026-10-31T15:04:31.726631+00:00"
-      },
-      "claim": {
-        "worker_id": "86da4f83b68b415daee7e826079d96c7-shard-0",
-        "claimed_at": "2026-10-31T15:04:31.854021+00:00",
-        "lease_expires_at": "2026-10-31T21:04:31.854021+00:00",
-        "run_id": "41196554990"
       },
       "previous_target_id": "30670865",
       "prepared": {
@@ -38927,5 +38929,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T15:04:36.621502+00:00"
+  "updated_at": "2026-10-31T15:19:44.935936+00:00"
 }
