@@ -17104,7 +17104,20 @@
       }
     },
     "529": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34911390",
+          "reason": "Source detail has no authenticated download link; source_id=34911390",
+          "permanent": false,
+          "attempted_at": "2026-10-31T14:20:43.773389+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34911390",
+        "display_name": "The Count of Monte Cristo (2002) 720p CZ Dabing",
+        "planned_at": "2026-10-31T14:20:40.142946+00:00"
+      }
     },
     "13212": {
       "attempts": []
@@ -38693,5 +38706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T14:20:33.524801+00:00"
+  "updated_at": "2026-10-31T14:20:43.773485+00:00"
 }
