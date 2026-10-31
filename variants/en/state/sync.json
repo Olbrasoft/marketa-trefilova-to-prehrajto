@@ -2472,18 +2472,19 @@
           "reason": "Request failed for https://sdilej.cz/30945062/snatch-podfuck-2000-en-cz-dabing-1080p.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-29T09:57:15.771181+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30945062",
+          "target_video_id": "30677522",
+          "permanent": false,
+          "attempted_at": "2026-10-31T20:28:03.527877+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30945062",
         "display_name": "Snatch 1080p CZ Titulky",
         "planned_at": "2026-10-31T20:22:52.465639+00:00"
-      },
-      "claim": {
-        "worker_id": "08b94ed2df154079b2e69da44b9c7ab9-shard-0",
-        "claimed_at": "2026-10-31T20:22:52.487639+00:00",
-        "lease_expires_at": "2026-11-01T02:22:52.487639+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30677522",
       "prepared": {
@@ -32769,5 +32770,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T20:22:55.869098+00:00"
+  "updated_at": "2026-10-31T20:28:03.527897+00:00"
 }
