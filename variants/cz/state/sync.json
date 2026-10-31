@@ -1049,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "9d88d3ad45d54908ad4cac1a8542b05c-shard-0",
+        "claimed_at": "2026-10-31T16:02:01.535044+00:00",
+        "lease_expires_at": "2026-10-31T22:02:01.535044+00:00",
+        "run_id": "41196554990"
       }
     },
     "54": {
@@ -8006,13 +8012,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-10-31T14:13:11.854254+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-10-31T14:43:53.982485+00:00"
         },
         {
@@ -8021,12 +8020,19 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-10-31T15:23:56.888296+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-10-31T16:02:02.768517+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-10-31T15:23:55.802706+00:00"
+        "planned_at": "2026-10-31T16:02:01.679842+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -17617,7 +17623,7 @@
       "last_plan": {
         "source_id": "28172041",
         "display_name": "Detachment 1080p CZ Dabing",
-        "planned_at": "2026-10-31T16:01:58.495512+00:00"
+        "planned_at": "2026-10-31T16:02:01.727923+00:00"
       }
     },
     "35060": {
@@ -39356,5 +39362,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T16:01:58.495534+00:00"
+  "updated_at": "2026-10-31T16:02:02.768540+00:00"
 }
