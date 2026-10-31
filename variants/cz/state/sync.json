@@ -17259,6 +17259,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "bff1d6828ae340c681d267a65d8321eb-shard-0",
+        "claimed_at": "2026-10-31T17:42:00.422885+00:00",
+        "lease_expires_at": "2026-10-31T23:42:00.422885+00:00",
+        "run_id": "41219330327"
       }
     },
     "23132": {
@@ -17854,17 +17860,23 @@
           "attempted_at": "2026-10-31T17:11:29.575629+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29796456",
-        "display_name": "The Color Purple (1985) 1080p CZ Dabing",
-        "planned_at": "2026-10-31T17:05:59.297214+00:00"
-      },
       "previous_target_id": "30673531",
-      "prepared": {
+      "upload": {
         "target_video_id": "30673531",
-        "size_bytes": 2845849201,
-        "prepared_at": "2026-10-31T17:06:02.676652+00:00",
-        "relay_source_id": "29796456"
+        "display_name": "The Color Purple (1985) 1080p CZ Dabing",
+        "source_id": "29796456",
+        "source_url": "https://sdilej.cz/29796456/purpurova-barva-1985-2114-.mkv",
+        "source_filename": "Purpurová Barva 1985 (2114).mkv",
+        "size_bytes": 2800000000,
+        "width": 1920,
+        "height": 1040,
+        "audio_language": "cs",
+        "language_probability": 0.9692521691322327,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-color-purple-1985-1080p-cz-dabing-mkv/b57e04aa97fcd3ff",
+        "uploaded_at": "2026-10-31T17:42:01.935717+00:00"
       }
     },
     "13044": {
@@ -18074,7 +18086,7 @@
       "last_plan": {
         "source_id": "35010444",
         "display_name": "Open Your Eyes SD CZ Dabing",
-        "planned_at": "2026-10-31T17:41:55.281440+00:00"
+        "planned_at": "2026-10-31T17:42:00.568144+00:00"
       }
     },
     "10694": {
@@ -40203,5 +40215,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T17:41:55.281460+00:00"
+  "updated_at": "2026-10-31T17:42:01.935736+00:00"
 }
