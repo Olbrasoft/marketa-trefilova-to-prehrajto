@@ -12630,17 +12630,19 @@
       }
     },
     "37492": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-10-31T01:31:22.399624+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34846817",
         "display_name": "Obsession (2026) 4K CZ Dabing",
         "planned_at": "2026-10-31T00:38:34.647537+00:00"
-      },
-      "claim": {
-        "worker_id": "426b557c887645708c42d5e7287f54e8-shard-0",
-        "claimed_at": "2026-10-31T00:38:34.841247+00:00",
-        "lease_expires_at": "2026-10-31T06:38:34.841247+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30649962",
       "prepared": {
@@ -12837,7 +12839,18 @@
       "attempts": []
     },
     "519": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13138718",
+        "display_name": "Remember the Titans SD CZ Dabing",
+        "planned_at": "2026-10-31T01:30:49.752208+00:00"
+      },
+      "claim": {
+        "worker_id": "fc1082ce26554292b1ff5e184fa003cd-shard-0",
+        "claimed_at": "2026-10-31T01:30:49.857040+00:00",
+        "lease_expires_at": "2026-10-31T07:30:49.857040+00:00",
+        "run_id": "41144016453"
+      }
     },
     "480": {
       "attempts": []
@@ -32962,5 +32975,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T01:24:19.745058+00:00"
+  "updated_at": "2026-10-31T01:31:22.399640+00:00"
 }
