@@ -13650,17 +13650,19 @@
       }
     },
     "24303": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25948267",
+          "target_video_id": "30653669",
+          "permanent": false,
+          "attempted_at": "2026-10-31T03:44:57.832473+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25948267",
         "display_name": "All About My Mother 1080p CZ Dabing",
         "planned_at": "2026-10-31T03:24:56.961645+00:00"
-      },
-      "claim": {
-        "worker_id": "04cd962af60e424ba50285262e234acf-shard-0",
-        "claimed_at": "2026-10-31T03:24:57.078844+00:00",
-        "lease_expires_at": "2026-10-31T09:24:57.078844+00:00",
-        "run_id": "41144016453"
       },
       "previous_target_id": "30653669",
       "prepared": {
@@ -33868,5 +33870,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T03:41:30.561574+00:00"
+  "updated_at": "2026-10-31T03:44:57.832491+00:00"
 }
