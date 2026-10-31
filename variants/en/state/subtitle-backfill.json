@@ -13,7 +13,7 @@
   "missing_detail_urls": 0,
   "next_page": 0,
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:23:24.708927+00:00",
+  "updated_at": "2026-10-31T08:26:29.095246+00:00",
   "videos": {
     "30580910": {
       "checked_at": "2026-10-28T22:47:29.080648+00:00",
@@ -2960,9 +2960,25 @@
       "title": "Earth 1080p CZ Titulky"
     },
     "30659487": {
-      "checked_at": "2026-10-31T07:19:48.083742+00:00",
+      "checked_at": "2026-10-31T08:26:29.095207+00:00",
       "detail_url": "https://prehraj.to/life-of-crime-1984-2020-life-of-crime-1984-2020-1080p-cz-titulky-mp4/ec9c715a160ec721",
-      "retry_after": "2026-10-31T08:19:48.083757+00:00",
+      "extraction": {
+        "bytes": 127263,
+        "format": "utf8_srt_crlf",
+        "method": "original_embedded_track",
+        "sha256": "d7d506732d00753ea1feddb951652b981742ec75ea48939e9f71df3c7d6ca509",
+        "source_codec": "mov_text",
+        "source_id": "35372610",
+        "stream_index": 2
+      },
+      "intent": {
+        "before_ids": [],
+        "created_at": "2026-10-31T08:26:29.095202+00:00",
+        "filename": "cs-30659487-d7d506732d.srt",
+        "sha256": "d7d506732d00753ea1feddb951652b981742ec75ea48939e9f71df3c7d6ca509"
+      },
+      "retry_after": "2026-10-31T09:26:29.095209+00:00",
+      "seen_at": "2026-10-31T08:26:29.095172+00:00",
       "source": {
         "cr_film_id": 14987,
         "height": 1080,
@@ -2972,7 +2988,7 @@
         "source_url": "https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4",
         "width": 1920
       },
-      "status": "target_unavailable",
+      "status": "upload_unconfirmed",
       "target_video_id": "30659487",
       "title": "Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky"
     },

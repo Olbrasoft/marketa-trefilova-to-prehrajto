@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T08:23:24.708927+00:00
+Poslední aktualizace (UTC): 2026-10-31T08:26:29.095246+00:00
 
 Zkontrolováno videí: 163. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 83, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 83, `attached_verified`: 4, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -72,7 +72,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvo
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-31T08:13:09.319056+00:00 |
 | [Icarus (2017) 1080p CZ Titulky](https://prehraj.to/icarus-2017-1080p-cz-titulky-mkv/8c5d17dd3359cee4) (ID 30643582) | [Sdílej 11690436](https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv) | target_unavailable | 2026-10-31T08:13:27.796354+00:00 |
 | [Isle of Dogs 1080p CZ Titulky](https://prehraj.to/isle-of-dogs-1080p-cz-titulky-mkv/84f1f6d5bd834f13) (ID 30651670) | [Sdílej 35402300](https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T08:22:49.164659+00:00 |
-| [Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky](https://prehraj.to/life-of-crime-1984-2020-life-of-crime-1984-2020-1080p-cz-titulky-mp4/ec9c715a160ec721) (ID 30659487) | [Sdílej 35372610](https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4) | target_unavailable | 2026-10-31T07:19:48.083742+00:00 |
+| [Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky](https://prehraj.to/life-of-crime-1984-2020-life-of-crime-1984-2020-1080p-cz-titulky-mp4/ec9c715a160ec721) (ID 30659487) | [Sdílej 35372610](https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4) | upload_unconfirmed | 2026-10-31T08:26:29.095207+00:00 |
 | [Loving Vincent 1080p CZ Titulky](https://prehraj.to/loving-vincent-1080p-cz-titulky-mkv/c033099af660674a) (ID 30655366) | [Sdílej 29326786](https://sdilej.cz/29326786/s-laskou-vincent.mkv) | target_unavailable | 2026-10-31T08:22:45.729059+00:00 |
 | [Marriage Story 1080p CZ Titulky](https://prehraj.to/marriage-story-1080p-cz-titulky-mkv/bee26de64107771c) (ID 30639527) | [Sdílej 18188633](https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv) | target_unavailable | 2026-10-31T08:22:59.810955+00:00 |
 | [Memoir of a Snail 1080p CZ Titulky](https://prehraj.to/memoir-of-a-snail-1080p-cz-titulky-mkv/04e482ae45ff35e1) (ID 30659818) | [Sdílej 30147702](https://sdilej.cz/30147702/memoir.of.a.snail-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-10-31T07:30:00.237980+00:00 |
