@@ -8532,7 +8532,7 @@
       "last_plan": {
         "source_id": "21842659",
         "display_name": "Song of the Sea 1080p CZ Dabing",
-        "planned_at": "2026-10-31T07:14:22.095129+00:00"
+        "planned_at": "2026-10-31T08:02:38.694791+00:00"
       },
       "previous_target_id": "30631275",
       "prepared": {
@@ -8540,17 +8540,16 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
+      },
+      "claim": {
+        "worker_id": "7073a5b79c5f464bbfb92baf94cf7137-shard-0",
+        "claimed_at": "2026-10-31T08:02:38.909985+00:00",
+        "lease_expires_at": "2026-10-31T14:02:38.909985+00:00",
+        "run_id": "41180338554"
       }
     },
     "270": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
-          "attempted_at": "2026-10-31T06:10:04.435385+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "17777440",
@@ -8564,6 +8563,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-10-31T07:14:20.910025+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-10-31T08:02:39.225042+00:00"
         }
       ],
       "last_plan": {
@@ -8577,12 +8583,6 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
-      },
-      "claim": {
-        "worker_id": "832772b1aba34d34851ba548a8ce7ffb-shard-0",
-        "claimed_at": "2026-10-31T08:02:37.035825+00:00",
-        "lease_expires_at": "2026-10-31T14:02:37.035825+00:00",
-        "run_id": "41180338554"
       }
     },
     "21873": {
@@ -15104,7 +15104,7 @@
       "last_plan": {
         "source_id": "31433415",
         "display_name": "The Train 1080p CZ Dabing",
-        "planned_at": "2026-10-31T08:02:36.884745+00:00"
+        "planned_at": "2026-10-31T08:02:38.762934+00:00"
       }
     },
     "30098": {
@@ -35550,5 +35550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T08:02:37.320814+00:00"
+  "updated_at": "2026-10-31T08:02:39.225061+00:00"
 }
