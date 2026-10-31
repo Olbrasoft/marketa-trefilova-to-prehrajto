@@ -19064,17 +19064,19 @@
       "attempts": []
     },
     "21601": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34700046",
+          "target_video_id": "30676827",
+          "permanent": false,
+          "attempted_at": "2026-10-31T20:07:01.740652+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34700046",
         "display_name": "Purple Noon 1080p CZ Dabing",
         "planned_at": "2026-10-31T19:57:16.006250+00:00"
-      },
-      "claim": {
-        "worker_id": "0838ca38674348d3ac8e454eb6a0c8b2-shard-0",
-        "claimed_at": "2026-10-31T19:57:16.076405+00:00",
-        "lease_expires_at": "2026-11-01T01:57:16.076405+00:00",
-        "run_id": "41219330327"
       },
       "previous_target_id": "30676827",
       "prepared": {
@@ -41450,5 +41452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T20:06:33.842083+00:00"
+  "updated_at": "2026-10-31T20:07:01.740666+00:00"
 }
