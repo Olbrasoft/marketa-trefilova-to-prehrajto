@@ -16455,17 +16455,19 @@
       }
     },
     "20754": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35179247",
+          "reason": "Source detail has no authenticated download link; source_id=35179247",
+          "permanent": false,
+          "attempted_at": "2026-10-31T12:17:08.978429+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35179247",
         "display_name": "Wind River 1080p CZ Dabing",
         "planned_at": "2026-10-31T12:17:06.725311+00:00"
-      },
-      "claim": {
-        "worker_id": "2b06d24b165943af86db3578379d7b8a-shard-0",
-        "claimed_at": "2026-10-31T12:17:06.850359+00:00",
-        "lease_expires_at": "2026-10-31T18:17:06.850359+00:00",
-        "run_id": "41196554990"
       }
     },
     "616": {
@@ -37520,5 +37522,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T12:17:07.565123+00:00"
+  "updated_at": "2026-10-31T12:17:08.978451+00:00"
 }
