@@ -15883,17 +15883,19 @@
       }
     },
     "640": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24790329",
+          "target_video_id": "30663506",
+          "permanent": false,
+          "attempted_at": "2026-10-31T10:34:18.972754+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24790329",
         "display_name": "Wreck-It Ralph 1080p CZ Dabing",
         "planned_at": "2026-10-31T10:26:12.690499+00:00"
-      },
-      "claim": {
-        "worker_id": "bd08ac8790094ce7aa41e9f47f70f7c6-shard-0",
-        "claimed_at": "2026-10-31T10:26:12.812853+00:00",
-        "lease_expires_at": "2026-10-31T16:26:12.812853+00:00",
-        "run_id": "41180338554"
       },
       "previous_target_id": "30663506",
       "prepared": {
@@ -36827,5 +36829,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T10:31:16.903856+00:00"
+  "updated_at": "2026-10-31T10:34:18.972771+00:00"
 }
