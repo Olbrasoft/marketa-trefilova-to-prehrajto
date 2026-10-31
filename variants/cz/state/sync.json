@@ -19701,17 +19701,19 @@
       }
     },
     "17903": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31324664",
+          "target_video_id": "30680520",
+          "permanent": false,
+          "attempted_at": "2026-10-31T23:18:56.598535+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31324664",
         "display_name": "(500) Days of Summer 4K CZ Dabing",
         "planned_at": "2026-10-31T23:04:14.383364+00:00"
-      },
-      "claim": {
-        "worker_id": "fdfbac0db1ee41fa9d239eb540a0a637-shard-0",
-        "claimed_at": "2026-10-31T23:04:14.529492+00:00",
-        "lease_expires_at": "2026-11-01T05:04:14.529492+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30680520",
       "prepared": {
@@ -42417,5 +42419,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T23:13:08.041722+00:00"
+  "updated_at": "2026-10-31T23:18:56.598557+00:00"
 }
