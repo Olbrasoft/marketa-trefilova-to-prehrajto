@@ -7633,17 +7633,19 @@
       }
     },
     "12249": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34140580",
+          "target_video_id": "30654463",
+          "permanent": false,
+          "attempted_at": "2026-10-31T04:21:22.051475+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34140580",
         "display_name": "Whisper of the Heart (耳をすませば) 1080p CZ Titulky",
         "planned_at": "2026-10-31T04:09:40.063192+00:00"
-      },
-      "claim": {
-        "worker_id": "63e62f310ab34efd9361875ce342eed9-shard-0",
-        "claimed_at": "2026-10-31T04:09:40.085239+00:00",
-        "lease_expires_at": "2026-10-31T10:09:40.085239+00:00",
-        "run_id": "41164110278"
       },
       "previous_target_id": "30654463",
       "prepared": {
@@ -27832,5 +27834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T04:16:00.210726+00:00"
+  "updated_at": "2026-10-31T04:21:22.051490+00:00"
 }
