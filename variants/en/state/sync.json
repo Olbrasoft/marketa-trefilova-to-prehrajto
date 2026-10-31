@@ -6311,13 +6311,6 @@
           "source_id": "30773956",
           "target_video_id": "30643106",
           "permanent": false,
-          "attempted_at": "2026-10-31T01:11:37.593157+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30773956",
-          "target_video_id": "30643106",
-          "permanent": false,
           "attempted_at": "2026-10-31T01:46:56.444563+00:00"
         },
         {
@@ -6326,6 +6319,13 @@
           "target_video_id": "30643106",
           "permanent": false,
           "attempted_at": "2026-10-31T02:17:30.283759+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30773956",
+          "target_video_id": "30643106",
+          "permanent": false,
+          "attempted_at": "2026-10-31T02:50:24.810984+00:00"
         }
       ],
       "last_plan": {
@@ -6392,7 +6392,7 @@
       "last_plan": {
         "source_id": "12845023",
         "display_name": "Togo 1080p CZ Titulky",
-        "planned_at": "2026-10-31T02:17:31.568476+00:00"
+        "planned_at": "2026-10-31T02:50:24.056144+00:00"
       },
       "previous_target_id": "30643515",
       "prepared": {
@@ -6400,6 +6400,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-10-30T19:58:02.071577+00:00",
         "relay_source_id": "12845023"
+      },
+      "claim": {
+        "worker_id": "a2a1af5fe1a3432b982ef115071c581f-shard-0",
+        "claimed_at": "2026-10-31T02:50:24.144073+00:00",
+        "lease_expires_at": "2026-10-31T08:50:24.144073+00:00",
+        "run_id": "41144016453"
       }
     },
     "18694": {
@@ -7441,7 +7447,7 @@
       "last_plan": {
         "source_id": "30649562",
         "display_name": "Midnight Cowboy 1080p CZ Titulky",
-        "planned_at": "2026-10-31T02:50:22.702036+00:00"
+        "planned_at": "2026-10-31T02:50:24.113176+00:00"
       }
     },
     "405": {
@@ -27594,5 +27600,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-10-31T02:50:22.702066+00:00"
+  "updated_at": "2026-10-31T02:50:24.811017+00:00"
 }
