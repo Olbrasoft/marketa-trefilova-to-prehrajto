@@ -166,3 +166,4 @@ Attach subtitles only after target processing has finished.
 | Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky | 30659487 | https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4 | Extract Czech track from exact source after processing |
 | Brother (Брат) (1997) 1080p CZ Titulky | 30659607 | https://sdilej.cz/34880521/brat-1997-.mkv | Extract Czech track from exact source after processing |
 | Memoir of a Snail 1080p CZ Titulky | 30659818 | https://sdilej.cz/30147702/memoir.of.a.snail-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| The Boy, the Mole, the Fox and the Horse 1080p CZ Titulky | 30660056 | https://sdilej.cz/28481101/the-boy-the-mole-the-fox-and-the-horse-2022-1080p-web-h264-naisu-.mkv | Extract Czech track from exact source after processing |
