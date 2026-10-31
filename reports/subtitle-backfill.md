@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-10-31T03:04:30.146167+00:00
+Poslední aktualizace (UTC): 2026-10-31T03:04:33.481118+00:00
 
 Zkontrolováno videí: 144. Další stránka kontroly: 0.
 
@@ -70,7 +70,7 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Guardians of the Galaxy Vol. 3 4K CZ Titulky](https://prehraj.to/guardians-of-the-galaxy-vol-3-4k-cz-titulky-mkv/134396bccaf3cde2) (ID 30638438) | [Sdílej 26457098](https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-10-31T02:54:24.929762+00:00 |
 | [Hamnet 1080p CZ Titulky](https://prehraj.to/hamnet-1080p-cz-titulky-mkv/d04bd01b32c76a4c) (ID 30653249) | [Sdílej 32963361](https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv) | target_unavailable | 2026-10-31T03:04:26.601396+00:00 |
 | [Harry Potter and the Prisoner of Azkaban 4K CZ Titulky](https://prehraj.to/harry-potter-and-the-prisoner-of-azkaban-4k-cz-titulky-mkv/38b2a9c8bd1eaeeb) (ID 30633152) | [Sdílej 32925438](https://sdilej.cz/32925438/harry-potter-a-vezen-z-azkabanu-cz-sk-en-radecek.mkv) | target_unavailable | 2026-10-31T02:23:59.880956+00:00 |
-| [Home Alone 1080p CZ Titulky](https://prehraj.to/home-alone-1080p-cz-titulky-mkv/e4f27f42d5eda74c) (ID 30646078) | [Sdílej 23025299](https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv) | target_unavailable | 2026-10-31T02:03:22.977219+00:00 |
+| [Home Alone 1080p CZ Titulky](https://prehraj.to/home-alone-1080p-cz-titulky-mkv/e4f27f42d5eda74c) (ID 30646078) | [Sdílej 23025299](https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv) | target_unavailable | 2026-10-31T03:04:33.481023+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-10-31T02:03:46.556529+00:00 |
 | [Icarus (2017) 1080p CZ Titulky](https://prehraj.to/icarus-2017-1080p-cz-titulky-mkv/8c5d17dd3359cee4) (ID 30643582) | [Sdílej 11690436](https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv) | target_unavailable | 2026-10-31T02:13:38.231287+00:00 |
 | [Into the Wild 1080p CZ Titulky](https://prehraj.to/into-the-wild-1080p-cz-titulky-mkv/fc7e275ee0f35cc1) (ID 30626855) | [Sdílej 28447536](https://sdilej.cz/28447536/utek-do-divociny-2007-.mkv) | target_unavailable | 2026-10-31T02:03:43.208855+00:00 |
