@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T21:32:32.234285+00:00
+Poslední aktualizace (UTC): 2026-11-01T21:32:34.104517+00:00
 
 Zkontrolováno videí: 264. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 61, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 62, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -63,6 +63,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 64. Důvod
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [3:10 to Yuma (2007) 1080p CZ Titulky](https://prehraj.to/3-10-to-yuma-2007-1080p-cz-titulky-mkv/ee8aaa6153e5b651) (ID 30683719) | [Sdílej 13380014](https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv) | target_unavailable | 2026-11-01T06:52:43.699942+00:00 |
+| [Baby Driver 1080p CZ Titulky](https://prehraj.to/baby-driver-1080p-cz-titulky-mkv/659fa4bba5746da5) (ID 30707542) | [Sdílej 34641510](https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-01T21:32:34.104430+00:00 |
 | [Barton Fink 1080p CZ Titulky](https://prehraj.to/barton-fink-1080p-cz-titulky-mkv/0bb11979fbb055f9) (ID 30693626) | [Sdílej 33846511](https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv) | target_unavailable | 2026-11-01T11:30:23.232140+00:00 |
 | [Bloody Sunday 1080p CZ Titulky](https://prehraj.to/bloody-sunday-1080p-cz-titulky-mkv/8874c850999be4e8) (ID 30704538) | [Sdílej 27438732](https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv) | target_unavailable | 2026-11-01T19:21:11.167820+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-01T06:43:03.080013+00:00 |
