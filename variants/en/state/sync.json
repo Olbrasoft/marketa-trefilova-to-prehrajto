@@ -11867,17 +11867,19 @@
       "attempts": []
     },
     "19345": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18607027",
+          "target_video_id": "30695103",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:13:52.991724+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18607027",
         "display_name": "Dark Waters 1080p CZ Titulky",
         "planned_at": "2026-11-01T12:57:26.097548+00:00"
-      },
-      "claim": {
-        "worker_id": "d49691cda0054cff8e736665f62232f3-shard-0",
-        "claimed_at": "2026-11-01T12:57:26.131142+00:00",
-        "lease_expires_at": "2026-11-01T18:57:26.131142+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695103",
       "prepared": {
@@ -37775,5 +37777,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:09:36.094520+00:00"
+  "updated_at": "2026-11-01T13:13:52.991740+00:00"
 }
