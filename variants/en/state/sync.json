@@ -11159,7 +11159,7 @@
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:15:15.883487+00:00"
+        "planned_at": "2026-11-01T07:47:26.043312+00:00"
       },
       "previous_target_id": "30683719",
       "prepared": {
@@ -11167,6 +11167,12 @@
         "size_bytes": 11300000000,
         "prepared_at": "2026-11-01T03:42:25.687095+00:00",
         "relay_source_id": "13380014"
+      },
+      "claim": {
+        "worker_id": "a4d078ef6d814bbcb7edd8801cf9a999-shard-0",
+        "claimed_at": "2026-11-01T07:47:26.138205+00:00",
+        "lease_expires_at": "2026-11-01T13:47:26.138205+00:00",
+        "run_id": "41284517775"
       }
     },
     "36656": {
@@ -11286,13 +11292,6 @@
           "source_id": "25373993",
           "target_video_id": "30685795",
           "permanent": false,
-          "attempted_at": "2026-11-01T06:09:04.939239+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25373993",
-          "target_video_id": "30685795",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:39:16.171895+00:00"
         },
         {
@@ -11301,6 +11300,13 @@
           "target_video_id": "30685795",
           "permanent": false,
           "attempted_at": "2026-11-01T07:15:14.567607+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25373993",
+          "target_video_id": "30685795",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:47:26.316483+00:00"
         }
       ],
       "last_plan": {
@@ -11314,12 +11320,6 @@
         "size_bytes": 9100000000,
         "prepared_at": "2026-11-01T05:35:27.853121+00:00",
         "relay_source_id": "25373993"
-      },
-      "claim": {
-        "worker_id": "faf1a34a3151424f97bfd669146f7676-shard-0",
-        "claimed_at": "2026-11-01T07:47:24.490336+00:00",
-        "lease_expires_at": "2026-11-01T13:47:24.490336+00:00",
-        "run_id": "41284517775"
       }
     },
     "836": {
@@ -11421,7 +11421,7 @@
       "last_plan": {
         "source_id": "35072040",
         "display_name": "Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:47:24.444506+00:00"
+        "planned_at": "2026-11-01T07:47:26.104370+00:00"
       }
     },
     "22858": {
@@ -36099,5 +36099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:47:24.490362+00:00"
+  "updated_at": "2026-11-01T07:47:26.316501+00:00"
 }
