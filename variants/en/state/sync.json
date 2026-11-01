@@ -6510,13 +6510,6 @@
     "29914": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "17206386",
-          "reason": "Request failed for https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-30T17:33:41.415002+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "17206386",
           "target_video_id": "30705057",
@@ -6529,12 +6522,19 @@
           "target_video_id": "30705057",
           "permanent": false,
           "attempted_at": "2026-11-01T20:21:04.060747+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17206386",
+          "target_video_id": "30705057",
+          "permanent": false,
+          "attempted_at": "2026-11-01T20:53:51.705584+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17206386",
         "display_name": "Hero (2002) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T20:21:02.872526+00:00"
+        "planned_at": "2026-11-01T20:53:50.280994+00:00"
       },
       "previous_target_id": "30705057",
       "prepared": {
@@ -13283,7 +13283,7 @@
       "last_plan": {
         "source_id": "32925478",
         "display_name": "Harry Potter and the Chamber of Secrets 4K CZ Titulky",
-        "planned_at": "2026-11-01T20:53:47.328311+00:00"
+        "planned_at": "2026-11-01T20:53:50.354725+00:00"
       }
     },
     "1051": {
@@ -40255,5 +40255,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T20:53:48.683623+00:00"
+  "updated_at": "2026-11-01T20:53:51.705606+00:00"
 }
