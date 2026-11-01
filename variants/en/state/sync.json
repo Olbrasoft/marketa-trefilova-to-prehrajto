@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-01T18:34:18.101523+00:00"
+        "planned_at": "2026-11-01T19:06:09.221384+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "3f28b4934efc40e1951567f3c23c28c4-shard-0",
+        "claimed_at": "2026-11-01T19:06:09.331572+00:00",
+        "lease_expires_at": "2026-11-02T01:06:09.331572+00:00",
+        "run_id": "41331089141"
       }
     },
     "21312": {
@@ -11908,13 +11914,6 @@
           "source_id": "34917405",
           "target_video_id": "30695040",
           "permanent": false,
-          "attempted_at": "2026-11-01T16:30:10.921835+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34917405",
-          "target_video_id": "30695040",
-          "permanent": false,
           "attempted_at": "2026-11-01T18:00:45.130237+00:00"
         },
         {
@@ -11923,6 +11922,13 @@
           "target_video_id": "30695040",
           "permanent": false,
           "attempted_at": "2026-11-01T18:34:25.157874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34917405",
+          "target_video_id": "30695040",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:06:10.111967+00:00"
         }
       ],
       "last_plan": {
@@ -12802,7 +12808,7 @@
       "last_plan": {
         "source_id": "27438732",
         "display_name": "Bloody Sunday 1080p CZ Titulky",
-        "planned_at": "2026-11-01T19:06:06.056425+00:00"
+        "planned_at": "2026-11-01T19:06:09.294051+00:00"
       }
     },
     "20919": {
@@ -39645,5 +39651,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:06:06.056442+00:00"
+  "updated_at": "2026-11-01T19:06:10.111984+00:00"
 }
