@@ -11792,13 +11792,6 @@
           "source_id": "12801217",
           "target_video_id": "30693196",
           "permanent": false,
-          "attempted_at": "2026-11-01T16:30:05.046613+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12801217",
-          "target_video_id": "30693196",
-          "permanent": false,
           "attempted_at": "2026-11-01T18:00:35.943453+00:00"
         },
         {
@@ -11807,6 +11800,13 @@
           "target_video_id": "30693196",
           "permanent": false,
           "attempted_at": "2026-11-01T18:34:11.953986+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12801217",
+          "target_video_id": "30693196",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:06:03.100549+00:00"
         }
       ],
       "last_plan": {
@@ -11861,7 +11861,7 @@
       "last_plan": {
         "source_id": "33846511",
         "display_name": "Barton Fink 1080p CZ Titulky",
-        "planned_at": "2026-11-01T18:34:13.716144+00:00"
+        "planned_at": "2026-11-01T19:06:02.325689+00:00"
       },
       "previous_target_id": "30693626",
       "prepared": {
@@ -11869,6 +11869,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-01T11:24:47.763117+00:00",
         "relay_source_id": "33846511"
+      },
+      "claim": {
+        "worker_id": "e47091c0b9a44a75bb60504f400452f0-shard-0",
+        "claimed_at": "2026-11-01T19:06:02.481309+00:00",
+        "lease_expires_at": "2026-11-02T01:06:02.481309+00:00",
+        "run_id": "41331089141"
       }
     },
     "699": {
@@ -12796,7 +12802,7 @@
       "last_plan": {
         "source_id": "27438732",
         "display_name": "Bloody Sunday 1080p CZ Titulky",
-        "planned_at": "2026-11-01T19:06:00.621475+00:00"
+        "planned_at": "2026-11-01T19:06:02.396073+00:00"
       }
     },
     "20919": {
@@ -39639,5 +39645,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:06:00.621493+00:00"
+  "updated_at": "2026-11-01T19:06:03.100569+00:00"
 }
