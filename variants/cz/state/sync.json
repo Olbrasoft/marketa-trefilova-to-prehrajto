@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-01T00:32:33.065938+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-01T01:05:26.293071+00:00"
         },
         {
@@ -12324,6 +12317,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-01T03:31:46.192601+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:26:05.024204+00:00"
         }
       ],
       "last_plan": {
@@ -16814,7 +16814,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-01T03:31:45.824007+00:00"
+        "planned_at": "2026-11-01T04:26:04.005802+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16822,6 +16822,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "8d1a013430444c4382c8d9c64661fdba-shard-0",
+        "claimed_at": "2026-11-01T04:26:04.237623+00:00",
+        "lease_expires_at": "2026-11-01T10:26:04.237623+00:00",
+        "run_id": "41265153510"
       }
     },
     "614": {
@@ -20537,7 +20543,7 @@
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Dabing",
-        "planned_at": "2026-11-01T04:26:02.583086+00:00"
+        "planned_at": "2026-11-01T04:26:04.097950+00:00"
       }
     },
     "733": {
@@ -44527,5 +44533,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:26:02.583096+00:00"
+  "updated_at": "2026-11-01T04:26:05.024221+00:00"
 }
