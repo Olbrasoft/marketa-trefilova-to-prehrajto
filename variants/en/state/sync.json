@@ -2007,13 +2007,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-01T10:04:53.558690+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-01T10:40:10.657744+00:00"
         },
         {
@@ -2022,6 +2015,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-01T11:18:59.244561+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-01T12:55:16.859703+00:00"
         }
       ],
       "last_plan": {
@@ -2193,17 +2193,23 @@
           "attempted_at": "2026-11-01T11:19:01.878320+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "16198758",
-        "display_name": "Once Upon a Time in America 1080p CZ Titulky",
-        "planned_at": "2026-11-01T11:19:00.734703+00:00"
-      },
       "previous_target_id": "30677049",
-      "prepared": {
+      "upload": {
         "target_video_id": "30677049",
+        "display_name": "Once Upon a Time in America 1080p CZ Titulky",
+        "source_id": "16198758",
+        "source_url": "https://sdilej.cz/16198758/tenkrat-v-americe-once.upon.a.time.in.america.1984.extended.1080p.bluray.x264-cz-dabing.mkv",
+        "source_filename": "Tenkrat v Americe - Once.Upon.a.Time.in.America.1984.EXTENDED.1080p.BluRay.x264-CZ Dabing.mkv",
         "size_bytes": 16300000000,
-        "prepared_at": "2026-10-31T20:06:37.337939+00:00",
-        "relay_source_id": "16198758"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "en",
+        "language_probability": 0.9922447800636292,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/once-upon-a-time-in-america-1080p-cz-titulky-mkv/10c52457278170da",
+        "uploaded_at": "2026-11-01T12:55:16.893576+00:00"
       }
     },
     "21566": {
@@ -11845,7 +11851,7 @@
       "last_plan": {
         "source_id": "18607027",
         "display_name": "Dark Waters 1080p CZ Titulky",
-        "planned_at": "2026-11-01T12:55:14.313441+00:00"
+        "planned_at": "2026-11-01T12:55:16.000553+00:00"
       }
     },
     "786": {
@@ -37736,5 +37742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T12:55:14.313455+00:00"
+  "updated_at": "2026-11-01T12:55:16.893589+00:00"
 }
