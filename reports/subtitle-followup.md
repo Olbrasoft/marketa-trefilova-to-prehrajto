@@ -159,6 +159,8 @@ Attach subtitles only after target processing has finished.
 | Kiss the Ground 1080p CZ Titulky | 30645461 | https://sdilej.cz/21918113/sklonit-se-k-zemi-2020-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Drive (2011) 1080p CZ Titulky | 30645764 | https://sdilej.cz/30970586/drive.2011.open.matte.1080p.bluray.multi.x264-majo.mkv | Complete: Czech subtitles verified |
 | Home Alone 1080p CZ Titulky | 30646078 | https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv | Complete: Czech subtitles verified |
+| Nightcrawler 1080p CZ Titulky | 30705872 | https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Shaun of the Dead 720p CZ Titulky | 30705871 | https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Irishman 720p CZ Titulky | 30648488 | https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv | Complete: Czech subtitles verified |
 | The Untouchables 1080p CZ Titulky | 30649618 | https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv | Complete: Czech subtitles verified |
 | All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Complete: Czech subtitles verified |
