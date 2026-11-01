@@ -247,3 +247,4 @@ Attach subtitles only after target processing has finished.
 | Rental Family 1080p CZ Titulky | 30699789 | https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4 | Extract Czech track from exact source after processing |
 | The Boy Who Harnessed the Wind 1080p CZ Titulky | 30700677 | https://sdilej.cz/11300206/the-boy-who-harnessed-the-wind-2019-1080p.-titul.cz-.mkv | Extract Czech track from exact source after processing |
 | Ludo (लूडो) 1080p CZ Titulky | 30702951 | https://sdilej.cz/14638598/ludo-2020-1080p-webrip-x265-10bit-.cz.tit.mkv | Extract Czech track from exact source after processing |
+| Three Identical Strangers 1080p CZ Titulky | 30703041 | https://sdilej.cz/11774276/three-identical-strangers-2018-cz-titulky-bluray-1080p-h264-.mkv | Extract Czech track from exact source after processing |
