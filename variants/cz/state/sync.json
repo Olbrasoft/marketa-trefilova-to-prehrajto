@@ -20652,7 +20652,20 @@
       }
     },
     "711": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27685302",
+          "reason": "Request failed for https://sdilej.cz/27685302/vlak-do-busanu-2-cz-by-karol.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:39:15.384025+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "27685302",
+        "display_name": "Train to Busan (부산행) 1080p CZ Dabing",
+        "planned_at": "2026-11-01T04:38:29.512581+00:00"
+      }
     },
     "745": {
       "attempts": []
@@ -44626,5 +44639,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:38:24.646173+00:00"
+  "updated_at": "2026-11-01T04:39:15.384044+00:00"
 }
