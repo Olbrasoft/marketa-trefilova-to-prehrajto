@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T06:52:22.242741+00:00
+Poslední aktualizace (UTC): 2026-11-01T06:52:26.147090+00:00
 
 Zkontrolováno videí: 224. Další stránka kontroly: 0.
 
@@ -66,7 +66,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 10. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-01T06:43:03.080013+00:00 |
 | [Creed 1080p CZ Titulky](https://prehraj.to/creed-1080p-cz-titulky-mkv/f4c965cf679ac2cc) (ID 30683763) | [Sdílej 30294354](https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv) | target_unavailable | 2026-11-01T05:51:25.162167+00:00 |
 | [Despicable Me 4K CZ Titulky](https://prehraj.to/despicable-me-4k-cz-titulky-mkv/1a941e411137635d) (ID 30680025) | [Sdílej 27530102](https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv) | target_unavailable | 2026-11-01T06:52:14.262323+00:00 |
-| [Fury (2014) 1080p CZ Titulky](https://prehraj.to/fury-2014-1080p-cz-titulky-mkv/715aa2f20fa91bf5) (ID 30680601) | [Sdílej 35402243](https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T05:41:21.982231+00:00 |
+| [Fury (2014) 1080p CZ Titulky](https://prehraj.to/fury-2014-1080p-cz-titulky-mkv/715aa2f20fa91bf5) (ID 30680601) | [Sdílej 35402243](https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T06:52:25.567012+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-01T06:42:51.525315+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-01T05:41:35.383432+00:00 |
 | [Jurassic Park 4K CZ Titulky](https://prehraj.to/jurassic-park-4k-cz-titulky-mkv/a055332f03f157f1) (ID 30677093) | [Sdílej 16781576](https://sdilej.cz/16781576/jursky-park.1993.2160p-cz-dabing.mkv) | target_unavailable | 2026-11-01T06:44:12.082343+00:00 |
