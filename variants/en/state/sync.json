@@ -7915,13 +7915,6 @@
     "494": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "5724266",
-          "reason": "Request failed for https://sdilej.cz/5724266/straight-outta-compton-2015-cz-tit.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-31T01:39:21.884515+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "5724266",
           "target_video_id": "30707982",
@@ -7934,12 +7927,19 @@
           "target_video_id": "30707982",
           "permanent": false,
           "attempted_at": "2026-11-01T22:40:14.243222+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5724266",
+          "target_video_id": "30707982",
+          "permanent": false,
+          "attempted_at": "2026-11-01T23:22:36.549181+00:00"
         }
       ],
       "last_plan": {
         "source_id": "5724266",
         "display_name": "Straight Outta Compton 1080p CZ Titulky",
-        "planned_at": "2026-11-01T22:40:13.214667+00:00"
+        "planned_at": "2026-11-01T23:22:35.443668+00:00"
       },
       "previous_target_id": "30707982",
       "prepared": {
@@ -13481,7 +13481,7 @@
       "last_plan": {
         "source_id": "35168701",
         "display_name": "Love Actually 4K CZ Titulky",
-        "planned_at": "2026-11-01T23:22:32.924212+00:00"
+        "planned_at": "2026-11-01T23:22:35.497805+00:00"
       }
     },
     "1035": {
@@ -41131,5 +41131,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T23:22:33.995067+00:00"
+  "updated_at": "2026-11-01T23:22:36.549203+00:00"
 }
