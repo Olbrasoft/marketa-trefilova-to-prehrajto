@@ -12460,17 +12460,19 @@
       "attempts": []
     },
     "19274": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11774276",
+          "target_video_id": "30703041",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:19:40.880838+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11774276",
         "display_name": "Three Identical Strangers 1080p CZ Titulky",
         "planned_at": "2026-11-01T18:16:30.904161+00:00"
-      },
-      "claim": {
-        "worker_id": "70ad2405decc4320bb964768bdbf0722-shard-0",
-        "claimed_at": "2026-11-01T18:16:30.941297+00:00",
-        "lease_expires_at": "2026-11-02T00:16:30.941297+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703041",
       "prepared": {
@@ -12506,7 +12508,7 @@
       "last_plan": {
         "source_id": "6115976",
         "display_name": "Fantastic Planet SD CZ Titulky",
-        "planned_at": "2026-11-01T18:18:22.325086+00:00"
+        "planned_at": "2026-11-01T18:19:38.617252+00:00"
       }
     },
     "30019": {
@@ -39538,5 +39540,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:18:22.325100+00:00"
+  "updated_at": "2026-11-01T18:19:40.880854+00:00"
 }
