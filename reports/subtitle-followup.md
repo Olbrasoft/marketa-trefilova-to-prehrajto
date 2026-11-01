@@ -235,3 +235,4 @@ Attach subtitles only after target processing has finished.
 | The Last of the Mohicans 4K CZ Titulky | 30690429 | https://sdilej.cz/33753721/the.last.of.the.mohicans.1992.directors.definitive.cut.2160p.hdr.dv.bluray.hevc.10bit.dl.eac3.-265.mkv | Extract Czech track from exact source after processing |
 | Roma (2018) 1080p CZ Titulky | 30691634 | https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Two Popes 1080p CZ Titulky | 30693196 | https://sdilej.cz/12801217/the.two.popes.2019.internal.1080p.web.x264-amrap.mkv | Extract Czech track from exact source after processing |
+| Barton Fink 1080p CZ Titulky | 30693626 | https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
