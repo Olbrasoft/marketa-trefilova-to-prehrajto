@@ -12504,17 +12504,19 @@
       "attempts": []
     },
     "22160": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6115976",
+          "target_video_id": "30703255",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:25:53.927407+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6115976",
         "display_name": "Fantastic Planet SD CZ Titulky",
         "planned_at": "2026-11-01T18:23:41.288073+00:00"
-      },
-      "claim": {
-        "worker_id": "af471fb7027a45deab09e2be90ba2965-shard-0",
-        "claimed_at": "2026-11-01T18:23:41.325832+00:00",
-        "lease_expires_at": "2026-11-02T00:23:41.325832+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703255",
       "prepared": {
@@ -39553,5 +39555,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:23:44.960329+00:00"
+  "updated_at": "2026-11-01T18:25:53.927425+00:00"
 }
