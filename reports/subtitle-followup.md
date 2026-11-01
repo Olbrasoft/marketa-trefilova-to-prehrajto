@@ -232,3 +232,4 @@ Attach subtitles only after target processing has finished.
 | Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky | 30688969 | https://sdilej.cz/35072040/godzilla.minus.one.a.k.a.gojira.-1.0.2023.japanese.1080p.10bit.bluray.8ch.x265.hevc-psa-cztitulky-.mkv | Extract Czech track from exact source after processing |
 | What We Do in the Shadows 1080p CZ Titulky | 30689658 | https://sdilej.cz/13336214/what-we-do-in-the.shadows-en-vlozene-titulky-2014-horror-1080p-pg-.mkv | Extract Czech track from exact source after processing |
 | Rushmore 1080p CZ Titulky | 30690305 | https://sdilej.cz/26981215/rushmore.1998.1080p.bluray.h264.aac.en.cz.mkv | Extract Czech track from exact source after processing |
+| The Last of the Mohicans 4K CZ Titulky | 30690429 | https://sdilej.cz/33753721/the.last.of.the.mohicans.1992.directors.definitive.cut.2160p.hdr.dv.bluray.hevc.10bit.dl.eac3.-265.mkv | Extract Czech track from exact source after processing |
