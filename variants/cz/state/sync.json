@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-01T05:33:21.485248+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:10:54.142591+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-01T06:52:17.216502+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:46:54.338851+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "5763684292d44b9e8a29835c1fa67d31-shard-0",
-        "claimed_at": "2026-11-01T07:46:50.961564+00:00",
-        "lease_expires_at": "2026-11-01T13:46:50.961564+00:00",
-        "run_id": "41284517775"
       }
     },
     "229": {
@@ -8032,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-01T06:52:19.549616+00:00"
+        "planned_at": "2026-11-01T07:46:53.908545+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8040,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "32250afa06e641168ec600d789e36c19-shard-0",
+        "claimed_at": "2026-11-01T07:46:54.163788+00:00",
+        "lease_expires_at": "2026-11-01T13:46:54.163788+00:00",
+        "run_id": "41284517775"
       }
     },
     "10690": {
@@ -21180,7 +21180,7 @@
       "last_plan": {
         "source_id": "34716070",
         "display_name": "The Raid (Serbuan Maut) 1080p CZ Dabing",
-        "planned_at": "2026-11-01T07:46:50.823833+00:00"
+        "planned_at": "2026-11-01T07:46:54.018737+00:00"
       }
     },
     "679": {
@@ -45856,5 +45856,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:46:52.759830+00:00"
+  "updated_at": "2026-11-01T07:46:54.338869+00:00"
 }
