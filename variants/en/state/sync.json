@@ -11854,17 +11854,19 @@
       "attempts": []
     },
     "10812": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34917405",
+          "target_video_id": "30695040",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:37:03.983040+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34917405",
         "display_name": "West Side Story (1961) 1080p CZ Titulky",
         "planned_at": "2026-11-01T12:54:37.707556+00:00"
-      },
-      "claim": {
-        "worker_id": "cb61f7d500514fa3be4f622a5b13bf12-shard-0",
-        "claimed_at": "2026-11-01T12:54:37.969239+00:00",
-        "lease_expires_at": "2026-11-01T18:54:37.969239+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695040",
       "prepared": {
@@ -38043,5 +38045,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:36:22.010452+00:00"
+  "updated_at": "2026-11-01T13:37:03.983057+00:00"
 }
