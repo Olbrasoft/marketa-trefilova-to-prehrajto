@@ -1358,13 +1358,6 @@
           "source_id": "30657861",
           "target_video_id": "30676003",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:24:07.093299+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30657861",
-          "target_video_id": "30676003",
-          "permanent": false,
           "attempted_at": "2026-10-31T23:56:07.894282+00:00"
         },
         {
@@ -1373,6 +1366,13 @@
           "target_video_id": "30676003",
           "permanent": false,
           "attempted_at": "2026-11-01T00:30:01.366535+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30657861",
+          "target_video_id": "30676003",
+          "permanent": false,
+          "attempted_at": "2026-11-01T01:03:58.219413+00:00"
         }
       ],
       "last_plan": {
@@ -2178,7 +2178,7 @@
       "last_plan": {
         "source_id": "16198758",
         "display_name": "Once Upon a Time in America 1080p CZ Titulky",
-        "planned_at": "2026-11-01T00:30:02.663900+00:00"
+        "planned_at": "2026-11-01T01:03:56.664732+00:00"
       },
       "previous_target_id": "30677049",
       "prepared": {
@@ -2186,6 +2186,12 @@
         "size_bytes": 16300000000,
         "prepared_at": "2026-10-31T20:06:37.337939+00:00",
         "relay_source_id": "16198758"
+      },
+      "claim": {
+        "worker_id": "53b15bac5911428aabfb5b1a0107f288-shard-0",
+        "claimed_at": "2026-11-01T01:03:56.772575+00:00",
+        "lease_expires_at": "2026-11-01T07:03:56.772575+00:00",
+        "run_id": "41243223179"
       }
     },
     "21566": {
@@ -10978,7 +10984,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-01T01:03:55.188148+00:00"
+        "planned_at": "2026-11-01T01:03:56.735726+00:00"
       }
     },
     "834": {
@@ -34044,5 +34050,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T01:03:55.188161+00:00"
+  "updated_at": "2026-11-01T01:03:58.219429+00:00"
 }
