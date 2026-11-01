@@ -21689,17 +21689,19 @@
       }
     },
     "22913": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34908475",
+          "target_video_id": "30690972",
+          "permanent": false,
+          "attempted_at": "2026-11-01T09:54:03.493110+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34908475",
         "display_name": "Evil Dead II 4K CZ Dabing",
         "planned_at": "2026-11-01T09:29:10.550870+00:00"
-      },
-      "claim": {
-        "worker_id": "8e4244027f3c4c83a5a8be5082eae3ed-shard-0",
-        "claimed_at": "2026-11-01T09:29:10.664918+00:00",
-        "lease_expires_at": "2026-11-01T15:29:10.664918+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30690972",
       "prepared": {
@@ -46890,5 +46892,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T09:40:37.230681+00:00"
+  "updated_at": "2026-11-01T09:54:03.493126+00:00"
 }
