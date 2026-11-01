@@ -22146,17 +22146,19 @@
       }
     },
     "712": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29225028",
+          "target_video_id": "30693227",
+          "permanent": false,
+          "attempted_at": "2026-11-01T11:05:16.281560+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29225028",
         "display_name": "The Mitchells vs. The Machines 1080p CZ Dabing",
         "planned_at": "2026-11-01T10:57:07.950161+00:00"
-      },
-      "claim": {
-        "worker_id": "a083993294b643d780719ed994fe509b-shard-0",
-        "claimed_at": "2026-11-01T10:57:08.071406+00:00",
-        "lease_expires_at": "2026-11-01T16:57:08.071406+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30693227",
       "prepared": {
@@ -47521,5 +47523,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:57:11.336022+00:00"
+  "updated_at": "2026-11-01T11:05:16.281576+00:00"
 }
