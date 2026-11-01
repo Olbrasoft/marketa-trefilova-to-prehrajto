@@ -236,3 +236,4 @@ Attach subtitles only after target processing has finished.
 | Roma (2018) 1080p CZ Titulky | 30691634 | https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Two Popes 1080p CZ Titulky | 30693196 | https://sdilej.cz/12801217/the.two.popes.2019.internal.1080p.web.x264-amrap.mkv | Extract Czech track from exact source after processing |
 | Barton Fink 1080p CZ Titulky | 30693626 | https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
+| West Side Story (1961) 1080p CZ Titulky | 30695040 | https://sdilej.cz/34917405/west.side.story.1961.1080p.bluray.ddp.7.1.x265-edge2020.mkv | Extract Czech track from exact source after processing |
