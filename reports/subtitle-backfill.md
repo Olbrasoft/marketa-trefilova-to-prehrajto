@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T20:12:07.812495+00:00
+Poslední aktualizace (UTC): 2026-11-01T20:12:10.061555+00:00
 
 Zkontrolováno videí: 259. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 4, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 53, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 3, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 54, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -71,6 +71,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Důvod
 | [Creed 1080p CZ Titulky](https://prehraj.to/creed-1080p-cz-titulky-mkv/f4c965cf679ac2cc) (ID 30683763) | [Sdílej 30294354](https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv) | target_unavailable | 2026-11-01T06:52:47.273645+00:00 |
 | [Dark Waters 1080p CZ Titulky](https://prehraj.to/dark-waters-1080p-cz-titulky-mkv/08b6b6cfae49a2d0) (ID 30695103) | [Sdílej 18607027](https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv) | target_unavailable | 2026-11-01T13:04:53.899189+00:00 |
 | [Despicable Me 4K CZ Titulky](https://prehraj.to/despicable-me-4k-cz-titulky-mkv/1a941e411137635d) (ID 30680025) | [Sdílej 27530102](https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv) | target_unavailable | 2026-11-01T06:52:14.262323+00:00 |
+| [Doctor Strange 1080p CZ Titulky](https://prehraj.to/doctor-strange-1080p-cz-titulky-mkv/6396e1fdac7387be) (ID 30705687) | [Sdílej 35402193](https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T20:12:10.061363+00:00 |
 | [Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky](https://prehraj.to/ein-lied-von-liebe-und-tod-gloomy-sunday-1080p-cz-titulky-mkv/31703440b053ba3c) (ID 30695912) | [Sdílej 34622854](https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv) | target_unavailable | 2026-11-01T13:55:42.820163+00:00 |
 | [Fantastic Planet SD CZ Titulky](https://prehraj.to/fantastic-planet-sd-cz-titulky-mkv/1542e588982d3b2c) (ID 30703255) | [Sdílej 6115976](https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv) | target_unavailable | 2026-11-01T18:30:14.733782+00:00 |
 | [Fury (2014) 1080p CZ Titulky](https://prehraj.to/fury-2014-1080p-cz-titulky-mkv/715aa2f20fa91bf5) (ID 30680601) | [Sdílej 35402243](https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T06:52:25.567012+00:00 |
