@@ -20421,17 +20421,19 @@
       }
     },
     "796": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "5546877",
+          "target_video_id": "30683680",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:46:00.253153+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5546877",
         "display_name": "50/50 720p CZ Dabing",
         "planned_at": "2026-11-01T03:38:44.735005+00:00"
-      },
-      "claim": {
-        "worker_id": "69c706563af14fb8b535f55584dea9dd-shard-0",
-        "claimed_at": "2026-11-01T03:38:44.884130+00:00",
-        "lease_expires_at": "2026-11-01T09:38:44.884130+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30683680",
       "prepared": {
@@ -20465,7 +20467,13 @@
       "last_plan": {
         "source_id": "5692013",
         "display_name": "Bridge of Spies 1080p CZ Dabing",
-        "planned_at": "2026-11-01T03:42:22.036527+00:00"
+        "planned_at": "2026-11-01T03:45:19.205522+00:00"
+      },
+      "claim": {
+        "worker_id": "e31a238cc93a4864909fde9bd1c1729b-shard-0",
+        "claimed_at": "2026-11-01T03:45:19.349277+00:00",
+        "lease_expires_at": "2026-11-01T09:45:19.349277+00:00",
+        "run_id": "41265153510"
       }
     },
     "793": {
@@ -44224,5 +44232,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:45:12.998192+00:00"
+  "updated_at": "2026-11-01T03:46:00.253169+00:00"
 }
