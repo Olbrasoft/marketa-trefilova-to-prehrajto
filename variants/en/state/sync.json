@@ -12428,17 +12428,19 @@
       "attempts": []
     },
     "29610": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14638598",
+          "target_video_id": "30702951",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:18:18.547682+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14638598",
         "display_name": "Ludo (लूडो) 1080p CZ Titulky",
         "planned_at": "2026-11-01T18:13:31.575244+00:00"
-      },
-      "claim": {
-        "worker_id": "7e71563c009d4d2abdf5a6d0ea9e2416-shard-0",
-        "claimed_at": "2026-11-01T18:13:31.609014+00:00",
-        "lease_expires_at": "2026-11-02T00:13:31.609014+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30702951",
       "prepared": {
@@ -39536,5 +39538,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:16:56.098589+00:00"
+  "updated_at": "2026-11-01T18:18:18.547703+00:00"
 }
