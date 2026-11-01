@@ -22439,17 +22439,19 @@
       "attempts": []
     },
     "786": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22727179",
+          "target_video_id": "30695335",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:30:26.433470+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22727179",
         "display_name": "The Wave (Die Welle) (2008) 1080p CZ Dabing",
         "planned_at": "2026-11-01T13:09:36.008282+00:00"
-      },
-      "claim": {
-        "worker_id": "0211e4a2029f4646bf7d031f622cd530-shard-0",
-        "claimed_at": "2026-11-01T13:09:36.127982+00:00",
-        "lease_expires_at": "2026-11-01T19:09:36.127982+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695335",
       "prepared": {
@@ -48357,5 +48359,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:13:59.129716+00:00"
+  "updated_at": "2026-11-01T13:30:26.433487+00:00"
 }
