@@ -25206,17 +25206,19 @@
       }
     },
     "22806": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34526304",
+          "target_video_id": "30705333",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:52:28.298118+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34526304",
         "display_name": "My Life as a Dog SD CZ Dabing",
         "planned_at": "2026-11-01T19:50:19.772011+00:00"
-      },
-      "claim": {
-        "worker_id": "cfa6a66a37b14f6fb27b3efa7e027f4e-shard-0",
-        "claimed_at": "2026-11-01T19:50:19.909093+00:00",
-        "lease_expires_at": "2026-11-02T01:50:19.909093+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705333",
       "prepared": {
@@ -52246,5 +52248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:50:23.670760+00:00"
+  "updated_at": "2026-11-01T19:52:28.298134+00:00"
 }
