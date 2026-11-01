@@ -133,18 +133,18 @@ Attach subtitles only after target processing has finished.
 | Arrival 1080p CZ Titulky | 30632569 | https://sdilej.cz/34955871/prvy-kontakt-arrival-2016-en.cz.sk-bdrip-hevc-1080p-nmk.mkv | Complete: Czech subtitles verified |
 | Harry Potter and the Prisoner of Azkaban 4K CZ Titulky | 30633152 | https://sdilej.cz/32925438/harry-potter-a-vezen-z-azkabanu-cz-sk-en-radecek.mkv | Complete: Czech subtitles verified |
 | Taylor Swift: The Eras Tour (TAYLOR SWIFT / THE ERAS TOUR) 1080p CZ Titulky | 30635414 | https://sdilej.cz/28373728/taylor.swift.the.eras.tour.2023.taylor-s.version.1080p.10bit.webrip.6ch.x265.hevc-psa-sk-a-cz-titulky.mkv | Complete: Czech subtitles verified |
-| Guardians of the Galaxy Vol. 3 4K CZ Titulky | 30638438 | https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| Guardians of the Galaxy Vol. 3 4K CZ Titulky | 30638438 | https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Big Fish 1080p CZ Titulky | 30638440 | https://sdilej.cz/35402034/big.fish.2003.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Zack Snyder's Justice League 1080p CZ Titulky | 30678189 | https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv | Extract Czech track from exact source after processing |
 | Boyhood 720p CZ Titulky | 30678252 | https://sdilej.cz/32842128/chlapectvi-2014-drama-usa-czdab-bluray.hd.mkv | Extract Czech track from exact source after processing |
 | Marriage Story 1080p CZ Titulky | 30639527 | https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Annie Hall 720p CZ Titulky | 30640109 | https://sdilej.cz/29266712/annie-hall-1977-diane-keaton-woody-allen-eng.-cz-ttl..mkv | Complete: Czech subtitles verified |
 | True Romance 1080p CZ Titulky | 30640322 | https://sdilej.cz/30979686/pravdiva-romance-1993-cz-dab1080p-bluray.mkv | Complete: Czech subtitles verified |
-| Wonder 1080p CZ Titulky | 30640621 | https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Wonder 1080p CZ Titulky | 30640621 | https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Spartacus (1960) 1080p CZ Titulky | 30641259 | https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv | Complete: Czech subtitles verified |
 | Strangers on a Train 1080p CZ Titulky | 30641584 | https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Do the Right Thing 1080p CZ Titulky | 30642017 | https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv | Complete: Czech subtitles verified |
-| Rio Bravo 720p CZ Titulky | 30643106 | https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
+| Rio Bravo 720p CZ Titulky | 30643106 | https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv | Complete: Czech subtitles verified |
 | Togo 1080p CZ Titulky | 30643515 | https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv | Complete: Czech subtitles verified |
 | Icarus (2017) 1080p CZ Titulky | 30643582 | https://sdilej.cz/11690436/icarus.2017.1080p.web-dl.dd5.1.x264.cz.titulky-ntb.mkv | Complete: Czech subtitles verified |
 | The Mirror (Mirror) 1080p CZ Titulky | 30643725 | https://sdilej.cz/30440919/tarkovskij-the-mirror-1975-1080p-bluray-sub-sk-cz-en.mkv | Complete: Czech subtitles verified |
@@ -155,40 +155,40 @@ Attach subtitles only after target processing has finished.
 | Kiss the Ground 1080p CZ Titulky | 30645461 | https://sdilej.cz/21918113/sklonit-se-k-zemi-2020-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Drive (2011) 1080p CZ Titulky | 30645764 | https://sdilej.cz/30970586/drive.2011.open.matte.1080p.bluray.multi.x264-majo.mkv | Complete: Czech subtitles verified |
 | Home Alone 1080p CZ Titulky | 30646078 | https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv | Complete: Czech subtitles verified |
-| The Irishman 720p CZ Titulky | 30648488 | https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv | Extract Czech track from exact source after processing |
+| The Irishman 720p CZ Titulky | 30648488 | https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv | Complete: Czech subtitles verified |
 | The Untouchables 1080p CZ Titulky | 30649618 | https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv | Complete: Czech subtitles verified |
-| All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Walk the Line 1080p CZ Titulky | 30650875 | https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Complete: Czech subtitles verified |
-| Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Tombstone 1080p CZ Titulky | 30651900 | https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
-| Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky | 30652651 | https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv | Extract Czech track from exact source after processing |
-| Castaway on the Moon (김씨 표류기) 1080p CZ Titulky | 30652792 | https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky | 30652651 | https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv | Complete: Czech subtitles verified |
+| Castaway on the Moon (김씨 표류기) 1080p CZ Titulky | 30652792 | https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Hamnet 1080p CZ Titulky | 30653249 | https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv | Complete: Czech subtitles verified |
 | The Wind Rises (Kaze tachinu) 1080p CZ Titulky | 30653654 | https://sdilej.cz/22124732/-dragsterps-kaze-tachinu-1080p-multi-audio-multi-subs-h264-aac-21ec96d7-.mkv | Complete: Czech subtitles verified |
 | Harold and Maude 1080p CZ Titulky | 30654323 | https://sdilej.cz/35402272/harold.and.maude.1971.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Whisper of the Heart (耳をすませば) 1080p CZ Titulky | 30654463 | https://sdilej.cz/34140580/sepot-srdce-whisper-of-the-heart-1995--tt0113824--en-es-fr-de-it-tr-sv-fi-no-ru-cs-id-vi-th-ko-zh-ja-.webdl-1080p.h265-aac-2.0.mkv | Complete: Czech subtitles verified |
 | The Chaser (추격자) 1080p CZ Titulky | 30654751 | https://sdilej.cz/13703315/bile-maso-the-chaser-chugyeogja-2008-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Thirteen Lives 1080p CZ Titulky | 30654980 | https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv | Complete: Czech subtitles verified |
-| Aguirre, the Wrath of God 1080p CZ Titulky | 30655121 | https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv | Extract Czech track from exact source after processing |
-| Loving Vincent 1080p CZ Titulky | 30655366 | https://sdilej.cz/29326786/s-laskou-vincent.mkv | Extract Czech track from exact source after processing |
+| Aguirre, the Wrath of God 1080p CZ Titulky | 30655121 | https://sdilej.cz/28087307/aguirre-hnev-bozi.mkv | Complete: Czech subtitles verified |
+| Loving Vincent 1080p CZ Titulky | 30655366 | https://sdilej.cz/29326786/s-laskou-vincent.mkv | Complete: Czech subtitles verified |
 | His Girl Friday 1080p CZ Titulky | 30655432 | https://sdilej.cz/14593714/jeho-divka-patek-his-girl-friday-1940-1080p-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Gangubai Kathiawadi 1080p CZ Titulky | 30655605 | https://sdilej.cz/21628063/gangubai-kathiawadi-2022-sktit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | The Alpinist 1080p CZ Titulky | 30656167 | https://sdilej.cz/19248743/the-alpinist-1080p-2021-vlozene-cz-titulky-kst.mkv | Complete: Czech subtitles verified |
 | Stagecoach (1939) 1080p CZ Titulky | 30656542 | https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv | Extract Czech track from exact source after processing |
 | Bride of Frankenstein 1080p CZ Titulky | 30656545 | https://sdilej.cz/32991026/bride-of-frankenstein-r.1935-engdab-cztit-1080p-.mkv | Complete: Czech subtitles verified |
 | The Lost Weekend 1080p CZ Titulky | 30658842 | https://sdilej.cz/33703234/the.lost.weekend.1945.1080p.bluray.dts-hd.ma.x264-majo.mkv | Complete: Czech subtitles verified |
-| Monster (怪物) (2023) 1080p CZ Titulky | 30658860 | https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv | Extract Czech track from exact source after processing |
+| Monster (怪物) (2023) 1080p CZ Titulky | 30658860 | https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv | Complete: Czech subtitles verified |
 | Earth 1080p CZ Titulky | 30659023 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Complete: Czech subtitles verified |
 | Life of Crime 1984-2020 (Life of Crime: 1984-2020) 1080p CZ Titulky | 30659487 | https://sdilej.cz/35372610/zivot-zlocinu-2021-.mp4 | Complete: Czech subtitles verified |
 | Brother (Брат) (1997) 1080p CZ Titulky | 30659607 | https://sdilej.cz/34880521/brat-1997-.mkv | Complete: Czech subtitles verified |
 | Memoir of a Snail 1080p CZ Titulky | 30659818 | https://sdilej.cz/30147702/memoir.of.a.snail-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | The Boy, the Mole, the Fox and the Horse 1080p CZ Titulky | 30660056 | https://sdilej.cz/28481101/the-boy-the-mole-the-fox-and-the-horse-2022-1080p-web-h264-naisu-.mkv | Complete: Czech subtitles verified |
 | Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky | 30661597 | https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv | Extract Czech track from exact source after processing |
-| Gravity 1080p CZ Titulky | 30661712 | https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Harry Potter and the Goblet of Fire 1080p CZ Titulky | 30661955 | https://sdilej.cz/22875915/harry-potter-4-a-ohnivy-pohar-2005-dobrodruzny-drama-rodinny-fantasy-cz-dab.-hevc-fullhd-1080p-.mkv | Extract Czech track from exact source after processing |
-| Zodiac (2007) 1080p CZ Titulky | 30662259 | https://sdilej.cz/30805641/zodiac-2007-director-s-cut-en-cs-sk-en-de-cs-1080p23.976-.mkv | Extract Czech track from exact source after processing |
-| Everything Everywhere All at Once 4K CZ Titulky | 30662730 | https://sdilej.cz/33396424/everything-everywhere-all-at-once-2022-.2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
-| Ex Machina 1080p CZ Titulky | 30662878 | https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Gravity 1080p CZ Titulky | 30661712 | https://sdilej.cz/35402264/gravity.2013.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
+| Harry Potter and the Goblet of Fire 1080p CZ Titulky | 30661955 | https://sdilej.cz/22875915/harry-potter-4-a-ohnivy-pohar-2005-dobrodruzny-drama-rodinny-fantasy-cz-dab.-hevc-fullhd-1080p-.mkv | Complete: Czech subtitles verified |
+| Zodiac (2007) 1080p CZ Titulky | 30662259 | https://sdilej.cz/30805641/zodiac-2007-director-s-cut-en-cs-sk-en-de-cs-1080p23.976-.mkv | Complete: Czech subtitles verified |
+| Everything Everywhere All at Once 4K CZ Titulky | 30662730 | https://sdilej.cz/33396424/everything-everywhere-all-at-once-2022-.2160p-cz.tit.mkv | Complete: Czech subtitles verified |
+| Ex Machina 1080p CZ Titulky | 30662878 | https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv | Complete: Czech subtitles verified |
 | Lost in Translation 1080p CZ Titulky | 30663086 | https://sdilej.cz/31550871/lost.in.translation.2003.1080p.bluray.hevc.10bit.dl.dts.x265-majo.mkv | Complete: Czech subtitles verified |
 | Star Trek Into Darkness 1080p CZ Titulky | 30663442 | https://sdilej.cz/14848573/star-trek-do-temnoty-2013-1080p-cz.mkv | Extract Czech track from exact source after processing |
 | Crash (2004) 1080p CZ Titulky | 30663753 | https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
