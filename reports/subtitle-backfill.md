@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T05:22:37.277310+00:00
+Poslední aktualizace (UTC): 2026-11-01T05:22:40.561531+00:00
 
 Zkontrolováno videí: 222. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 142, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 143, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 27, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -89,7 +89,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 9. Důvod 
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-01T05:22:20.291007+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T05:22:04.439576+00:00 |
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T04:30:32.789910+00:00 |
-| [The Promised Land (Bastarden) 1080p CZ Titulky](https://prehraj.to/the-promised-land-bastarden-1080p-cz-titulky-mkv/22e2335148025873) (ID 30675383) | [Sdílej 34694735](https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-01T04:21:30.175223+00:00 |
 | [Watchmen 1080p CZ Titulky](https://prehraj.to/watchmen-1080p-cz-titulky-mkv/eedbb6c4ff193bf4) (ID 30680780) | [Sdílej 30659521](https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T04:40:31.040091+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-01T05:21:57.904873+00:00 |
 | [Zack Snyder's Justice League 1080p CZ Titulky](https://prehraj.to/zack-snyder-s-justice-league-1080p-cz-titulky-mkv/2773fc50054d7025) (ID 30678189) | [Sdílej 30673514](https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv) | target_unavailable | 2026-11-01T04:31:42.572381+00:00 |
