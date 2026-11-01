@@ -3070,7 +3070,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-01T01:03:25.312798+00:00"
+        "planned_at": "2026-11-01T03:30:12.231879+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3078,6 +3078,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "6632bdf779764eb9a85ad22d37cd26f4-shard-0",
+        "claimed_at": "2026-11-01T03:30:12.348619+00:00",
+        "lease_expires_at": "2026-11-01T09:30:12.348619+00:00",
+        "run_id": "41265153510"
       }
     },
     "21312": {
@@ -9946,13 +9952,6 @@
           "source_id": "26808273",
           "target_video_id": "30672234",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:55:41.165485+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26808273",
-          "target_video_id": "30672234",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:29:37.832705+00:00"
         },
         {
@@ -9961,6 +9960,13 @@
           "target_video_id": "30672234",
           "permanent": false,
           "attempted_at": "2026-11-01T01:03:36.588799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26808273",
+          "target_video_id": "30672234",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:30:12.465926+00:00"
         }
       ],
       "last_plan": {
@@ -9974,12 +9980,6 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-10-31T16:02:44.626497+00:00",
         "relay_source_id": "26808273"
-      },
-      "claim": {
-        "worker_id": "86800055d14b46efadd04fef465c4ad3-shard-0",
-        "claimed_at": "2026-11-01T03:30:10.484836+00:00",
-        "lease_expires_at": "2026-11-01T09:30:10.484836+00:00",
-        "run_id": "41265153510"
       }
     },
     "21224": {
@@ -11029,7 +11029,7 @@
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T03:30:10.443435+00:00"
+        "planned_at": "2026-11-01T03:30:12.312625+00:00"
       }
     },
     "36656": {
@@ -34804,5 +34804,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:30:10.911732+00:00"
+  "updated_at": "2026-11-01T03:30:12.465943+00:00"
 }
