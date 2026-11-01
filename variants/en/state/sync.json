@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "9570add0bea74bcf9de18ebb93f974d4-shard-0",
+        "claimed_at": "2026-11-01T18:00:23.561835+00:00",
+        "lease_expires_at": "2026-11-02T00:00:23.561835+00:00",
+        "run_id": "41331089141"
       }
     },
     "21690": {
@@ -11141,13 +11147,6 @@
           "source_id": "26167173",
           "target_video_id": "30682158",
           "permanent": false,
-          "attempted_at": "2026-11-01T15:28:01.421822+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26167173",
-          "target_video_id": "30682158",
-          "permanent": false,
           "attempted_at": "2026-11-01T15:58:19.535976+00:00"
         },
         {
@@ -11156,12 +11155,19 @@
           "target_video_id": "30682158",
           "permanent": false,
           "attempted_at": "2026-11-01T16:29:43.922245+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26167173",
+          "target_video_id": "30682158",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:00:28.411514+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-01T16:29:42.872800+00:00"
+        "planned_at": "2026-11-01T18:00:23.739160+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -12412,7 +12418,7 @@
       "last_plan": {
         "source_id": "14638598",
         "display_name": "Ludo (लूडो) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T18:00:22.150769+00:00"
+        "planned_at": "2026-11-01T18:00:23.807120+00:00"
       }
     },
     "11499": {
@@ -39262,5 +39268,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:00:22.150788+00:00"
+  "updated_at": "2026-11-01T18:00:28.411533+00:00"
 }
