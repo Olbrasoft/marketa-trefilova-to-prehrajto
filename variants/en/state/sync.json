@@ -1989,13 +1989,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:55:54.204055+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:29:48.819246+00:00"
         },
         {
@@ -2004,6 +1997,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-01T01:03:48.873449+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:30:25.621202+00:00"
         }
       ],
       "last_plan": {
@@ -2017,12 +2017,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
-      },
-      "claim": {
-        "worker_id": "4aff9da685534da9857340923bca585e-shard-0",
-        "claimed_at": "2026-11-01T03:30:23.870272+00:00",
-        "lease_expires_at": "2026-11-01T09:30:23.870272+00:00",
-        "run_id": "41265153510"
       }
     },
     "107": {
@@ -10300,7 +10294,7 @@
       "last_plan": {
         "source_id": "34298232",
         "display_name": "Adam's Apples (Adams æbler) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T01:03:47.184595+00:00"
+        "planned_at": "2026-11-01T03:30:25.389479+00:00"
       },
       "previous_target_id": "30674858",
       "prepared": {
@@ -10308,6 +10302,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-10-31T18:13:25.924034+00:00",
         "relay_source_id": "34298232"
+      },
+      "claim": {
+        "worker_id": "edc4c682bb29421bab34dc4ad81b9495-shard-0",
+        "claimed_at": "2026-11-01T03:30:25.507231+00:00",
+        "lease_expires_at": "2026-11-01T09:30:25.507231+00:00",
+        "run_id": "41265153510"
       }
     },
     "23033": {
@@ -11029,7 +11029,7 @@
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T03:30:23.832076+00:00"
+        "planned_at": "2026-11-01T03:30:25.463642+00:00"
       }
     },
     "36656": {
@@ -34804,5 +34804,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:30:24.020605+00:00"
+  "updated_at": "2026-11-01T03:30:25.621220+00:00"
 }
