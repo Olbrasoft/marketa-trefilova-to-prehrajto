@@ -11476,17 +11476,19 @@
       "attempts": []
     },
     "800": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13336214",
+          "target_video_id": "30689658",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:37:21.265878+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13336214",
         "display_name": "What We Do in the Shadows 1080p CZ Titulky",
         "planned_at": "2026-11-01T08:30:20.773652+00:00"
-      },
-      "claim": {
-        "worker_id": "09b2ea9fc6c644468de0bed6b555a59e-shard-0",
-        "claimed_at": "2026-11-01T08:30:20.808129+00:00",
-        "lease_expires_at": "2026-11-01T14:30:20.808129+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30689658",
       "prepared": {
@@ -36403,5 +36405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:34:33.481425+00:00"
+  "updated_at": "2026-11-01T08:37:21.265902+00:00"
 }
