@@ -25156,17 +25156,19 @@
       "attempts": []
     },
     "22974": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34177065",
+          "target_video_id": "30705256",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:50:10.566770+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34177065",
         "display_name": "The Hound of the Baskervilles (1988) 1080p CZ Dabing",
         "planned_at": "2026-11-01T19:46:15.813567+00:00"
-      },
-      "claim": {
-        "worker_id": "6903170df197459db606ab9d3ff69c9a-shard-0",
-        "claimed_at": "2026-11-01T19:46:15.942487+00:00",
-        "lease_expires_at": "2026-11-02T01:46:15.942487+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705256",
       "prepared": {
@@ -52220,5 +52222,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:49:44.621768+00:00"
+  "updated_at": "2026-11-01T19:50:10.566786+00:00"
 }
