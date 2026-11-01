@@ -24797,17 +24797,19 @@
       "attempts": []
     },
     "21415": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30218913",
+          "target_video_id": "30704529",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:16:29.781333+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30218913",
         "display_name": "Bad Day at Black Rock 720p CZ Dabing",
         "planned_at": "2026-11-01T19:13:25.717901+00:00"
-      },
-      "claim": {
-        "worker_id": "64ad0faa67584456bba995bc1044ae41-shard-0",
-        "claimed_at": "2026-11-01T19:13:25.861939+00:00",
-        "lease_expires_at": "2026-11-02T01:13:25.861939+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30704529",
       "prepared": {
@@ -51665,5 +51667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:13:44.160841+00:00"
+  "updated_at": "2026-11-01T19:16:29.781357+00:00"
 }
