@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:20:52.142391+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:20:55.829924+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 128, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 43, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 129, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 42, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -88,7 +88,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 43. Důvo
 | [Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky](https://prehraj.to/perfect-strangers-perfetti-sconosciuti-2016-720p-cz-titulky-mkv/0011fb81bff6601c) (ID 30674419) | [Sdílej 27404887](https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv) | target_unavailable | 2026-10-31T17:42:34.281566+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-01T04:11:50.885185+00:00 |
 | [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-10-31T20:35:20.071785+00:00 |
-| [Ray 1080p CZ Titulky](https://prehraj.to/ray-1080p-cz-titulky-mkv/d61b67232a83b5aa) (ID 30668869) | [Sdílej 22988860](https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv) | target_unavailable | 2026-10-31T13:47:32.648879+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-10-31T19:24:04.812906+00:00 |
 | [Reservoir Dogs 720p CZ Titulky](https://prehraj.to/reservoir-dogs-720p-cz-titulky-mkv/2895fce48a6f84ff) (ID 30677150) | [Sdílej 12652876](https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv) | target_unavailable | 2026-10-31T20:15:10.033464+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-01T04:00:56.471856+00:00 |
