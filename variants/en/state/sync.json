@@ -12168,17 +12168,19 @@
       "attempts": []
     },
     "34435": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30039022",
+          "target_video_id": "30699593",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:01:34.938056+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30039022",
         "display_name": "Transformers One 1080p CZ Titulky",
         "planned_at": "2026-11-01T15:52:07.610585+00:00"
-      },
-      "claim": {
-        "worker_id": "69a2fbfebd35405d847467f55600471f-shard-0",
-        "claimed_at": "2026-11-01T15:52:07.643802+00:00",
-        "lease_expires_at": "2026-11-01T21:52:07.643802+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699593",
       "prepared": {
@@ -38692,5 +38694,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:01:18.829454+00:00"
+  "updated_at": "2026-11-01T16:01:34.938074+00:00"
 }
