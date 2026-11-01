@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-01T00:30:42.653816+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-01T01:04:29.363295+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-01T03:31:06.720413+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:25:32.879324+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "131377fff3cc40d08d4f64c42e4a6ce2-shard-0",
-        "claimed_at": "2026-11-01T04:25:31.011576+00:00",
-        "lease_expires_at": "2026-11-01T10:25:31.011576+00:00",
-        "run_id": "41265153510"
       }
     },
     "10755": {
@@ -1047,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-01T03:31:06.289720+00:00"
+        "planned_at": "2026-11-01T04:25:32.092129+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1055,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "f48135cfce274575ba79be79d7c7800d-shard-0",
+        "claimed_at": "2026-11-01T04:25:32.480584+00:00",
+        "lease_expires_at": "2026-11-01T10:25:32.480584+00:00",
+        "run_id": "41265153510"
       }
     },
     "54": {
@@ -20519,7 +20519,7 @@
       "last_plan": {
         "source_id": "28564420",
         "display_name": "The Royal Tenenbaums 1080p CZ Dabing",
-        "planned_at": "2026-11-01T04:25:29.645365+00:00"
+        "planned_at": "2026-11-01T04:25:32.173650+00:00"
       }
     },
     "31321": {
@@ -20530,7 +20530,7 @@
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Dabing",
-        "planned_at": "2026-11-01T04:25:26.875162+00:00"
+        "planned_at": "2026-11-01T04:25:32.217585+00:00"
       }
     },
     "733": {
@@ -44520,5 +44520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:25:31.011604+00:00"
+  "updated_at": "2026-11-01T04:25:32.879338+00:00"
 }
