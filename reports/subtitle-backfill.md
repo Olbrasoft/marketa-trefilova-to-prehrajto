@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T19:21:09.282749+00:00
+Poslední aktualizace (UTC): 2026-11-01T19:21:11.167911+00:00
 
 Zkontrolováno videí: 250. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -64,6 +64,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 46. Důvod
 | --- | --- | --- | --- |
 | [3:10 to Yuma (2007) 1080p CZ Titulky](https://prehraj.to/3-10-to-yuma-2007-1080p-cz-titulky-mkv/ee8aaa6153e5b651) (ID 30683719) | [Sdílej 13380014](https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv) | target_unavailable | 2026-11-01T06:52:43.699942+00:00 |
 | [Barton Fink 1080p CZ Titulky](https://prehraj.to/barton-fink-1080p-cz-titulky-mkv/0bb11979fbb055f9) (ID 30693626) | [Sdílej 33846511](https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv) | target_unavailable | 2026-11-01T11:30:23.232140+00:00 |
+| [Bloody Sunday 1080p CZ Titulky](https://prehraj.to/bloody-sunday-1080p-cz-titulky-mkv/8874c850999be4e8) (ID 30704538) | [Sdílej 27438732](https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv) | target_unavailable | 2026-11-01T19:21:11.167820+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-01T06:43:03.080013+00:00 |
 | [City of Life and Death (Nanjing! Nanjing!) 1080p CZ Titulky](https://prehraj.to/city-of-life-and-death-nanjing-nanjing-1080p-cz-titulky-mkv/e5b0c940a56637db) (ID 30703611) | [Sdílej 27751348](https://sdilej.cz/27751348/nanking-nanking-cina-2009-chuan-lu-bluray.1080p.dts.en.cz.sub.mkv) | target_unavailable | 2026-11-01T18:40:27.435249+00:00 |
 | [Creed 1080p CZ Titulky](https://prehraj.to/creed-1080p-cz-titulky-mkv/f4c965cf679ac2cc) (ID 30683763) | [Sdílej 30294354](https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv) | target_unavailable | 2026-11-01T06:52:47.273645+00:00 |
