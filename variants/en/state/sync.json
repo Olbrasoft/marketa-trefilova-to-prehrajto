@@ -8052,18 +8052,19 @@
           "reason": "Request failed for https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T02:23:57.467468+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35402008",
+          "target_video_id": "30708294",
+          "permanent": false,
+          "attempted_at": "2026-11-01T22:08:21.244329+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35402008",
         "display_name": "Awakenings 1080p CZ Titulky",
         "planned_at": "2026-11-01T22:02:40.798667+00:00"
-      },
-      "claim": {
-        "worker_id": "63f1391019c84b859431fa53f355602a-shard-0",
-        "claimed_at": "2026-11-01T22:02:40.850956+00:00",
-        "lease_expires_at": "2026-11-02T04:02:40.850956+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30708294",
       "prepared": {
@@ -40602,5 +40603,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T22:03:44.477043+00:00"
+  "updated_at": "2026-11-01T22:08:21.244346+00:00"
 }
