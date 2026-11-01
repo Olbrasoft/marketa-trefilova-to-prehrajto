@@ -10855,17 +10855,19 @@
       "attempts": []
     },
     "829": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27106738",
+          "target_video_id": "30681152",
+          "permanent": false,
+          "attempted_at": "2026-11-01T00:19:40.605843+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27106738",
         "display_name": "Saw (2004) 1080p CZ Titulky",
         "planned_at": "2026-11-01T00:00:30.918842+00:00"
-      },
-      "claim": {
-        "worker_id": "7bc5902a3f60428c83fc80c20fcbbcc2-shard-0",
-        "claimed_at": "2026-11-01T00:00:30.958896+00:00",
-        "lease_expires_at": "2026-11-01T06:00:30.958896+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30681152",
       "prepared": {
@@ -33742,5 +33744,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T00:10:21.653971+00:00"
+  "updated_at": "2026-11-01T00:19:40.605859+00:00"
 }
