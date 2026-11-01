@@ -19918,17 +19918,19 @@
       }
     },
     "755": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32959345",
+          "target_video_id": "30681286",
+          "permanent": false,
+          "attempted_at": "2026-11-01T00:19:41.801787+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32959345",
         "display_name": "Moneyball 1080p CZ Dabing",
         "planned_at": "2026-11-01T00:09:59.850294+00:00"
-      },
-      "claim": {
-        "worker_id": "5752436a207f498eba3054f44fc20529-shard-0",
-        "claimed_at": "2026-11-01T00:09:59.982154+00:00",
-        "lease_expires_at": "2026-11-01T06:09:59.982154+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30681286",
       "prepared": {
@@ -42815,5 +42817,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T00:10:26.006322+00:00"
+  "updated_at": "2026-11-01T00:19:41.801805+00:00"
 }
