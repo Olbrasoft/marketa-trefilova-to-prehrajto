@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:11:47.279977+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:11:50.885258+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
@@ -92,7 +92,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 63. Důvo
 | [Pan's Labyrinth (El laberinto del fauno) 1080p CZ Titulky](https://prehraj.to/pan-s-labyrinth-el-laberinto-del-fauno-1080p-cz-titulky-mkv/bd071a4027ba776d) (ID 30677816) | [Sdílej 31102503](https://sdilej.cz/31102503/faunuv-labyrint-2006-cz-1080p-h265.mkv) | target_unavailable | 2026-10-31T20:35:23.542549+00:00 |
 | [Parasite (기생충) (2019) 1080p CZ Titulky](https://prehraj.to/parasite-2019-1080p-cz-titulky-mkv/fd9b47f1dadd9eaf) (ID 30675758) | [Sdílej 27736094](https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv) | target_unavailable | 2026-10-31T19:14:07.620660+00:00 |
 | [Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky](https://prehraj.to/perfect-strangers-perfetti-sconosciuti-2016-720p-cz-titulky-mkv/0011fb81bff6601c) (ID 30674419) | [Sdílej 27404887](https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv) | target_unavailable | 2026-10-31T17:42:34.281566+00:00 |
-| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-10-31T11:14:36.884513+00:00 |
+| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-01T04:11:50.885185+00:00 |
 | [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-10-31T20:35:20.071785+00:00 |
 | [Ray 1080p CZ Titulky](https://prehraj.to/ray-1080p-cz-titulky-mkv/d61b67232a83b5aa) (ID 30668869) | [Sdílej 22988860](https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv) | target_unavailable | 2026-10-31T13:47:32.648879+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-10-31T19:24:04.812906+00:00 |
