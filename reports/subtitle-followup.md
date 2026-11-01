@@ -190,31 +190,31 @@ Attach subtitles only after target processing has finished.
 | Everything Everywhere All at Once 4K CZ Titulky | 30662730 | https://sdilej.cz/33396424/everything-everywhere-all-at-once-2022-.2160p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Ex Machina 1080p CZ Titulky | 30662878 | https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv | Complete: Czech subtitles verified |
 | Lost in Translation 1080p CZ Titulky | 30663086 | https://sdilej.cz/31550871/lost.in.translation.2003.1080p.bluray.hevc.10bit.dl.dts.x265-majo.mkv | Complete: Czech subtitles verified |
-| Star Trek Into Darkness 1080p CZ Titulky | 30663442 | https://sdilej.cz/14848573/star-trek-do-temnoty-2013-1080p-cz.mkv | Extract Czech track from exact source after processing |
-| Crash (2004) 1080p CZ Titulky | 30663753 | https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Black Hawk Down 720p CZ Titulky | 30663831 | https://sdilej.cz/32084108/cerny-jestrab-sestrelen-black-hawk-down.2001.720p.bluray.cz.dabing.mkv | Extract Czech track from exact source after processing |
+| Star Trek Into Darkness 1080p CZ Titulky | 30663442 | https://sdilej.cz/14848573/star-trek-do-temnoty-2013-1080p-cz.mkv | Complete: Czech subtitles verified |
+| Crash (2004) 1080p CZ Titulky | 30663753 | https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
+| Black Hawk Down 720p CZ Titulky | 30663831 | https://sdilej.cz/32084108/cerny-jestrab-sestrelen-black-hawk-down.2001.720p.bluray.cz.dabing.mkv | Complete: Czech subtitles verified |
 | Mission: Impossible – Fallout (Mission: Impossible - Fallout) 1080p CZ Titulky | 30663976 | https://sdilej.cz/26494658/mission-impossible-6-fallout-2018-cz.sub.1080p.dd5.1.h264.mkv | Complete: Czech subtitles verified |
 | Poor Things 1080p CZ Titulky | 30664033 | https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
-| Gattaca 1080p CZ Titulky | 30664643 | https://sdilej.cz/35402244/gattaca.1997.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Mr. Nobody 1080p CZ Titulky | 30665814 | https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv | Extract Czech track from exact source after processing |
-| Blue Velvet 1080p CZ Titulky | 30665932 | https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv | Extract Czech track from exact source after processing |
-| The Trial of the Chicago 7 1080p CZ Titulky | 30668595 | https://sdilej.cz/14351127/the.trial.of.the.chicago.7.2020.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
-| Ray 1080p CZ Titulky | 30668869 | https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
-| Kubo and the Two Strings 1080p CZ Titulky | 30669852 | https://sdilej.cz/35402327/kubo.and.the.two.strings.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| How to Train Your Dragon (2025) 4K CZ Titulky | 30670866 | https://sdilej.cz/31527189/how.to.train.your.dragon-2025-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| Gattaca 1080p CZ Titulky | 30664643 | https://sdilej.cz/35402244/gattaca.1997.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
+| Mr. Nobody 1080p CZ Titulky | 30665814 | https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv | Complete: Czech subtitles verified |
+| Blue Velvet 1080p CZ Titulky | 30665932 | https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv | Complete: Czech subtitles verified |
+| The Trial of the Chicago 7 1080p CZ Titulky | 30668595 | https://sdilej.cz/14351127/the.trial.of.the.chicago.7.2020.1080p.web.h264.cz.tit.mkv | Complete: Czech subtitles verified |
+| Ray 1080p CZ Titulky | 30668869 | https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv | Complete: Czech subtitles verified |
+| Kubo and the Two Strings 1080p CZ Titulky | 30669852 | https://sdilej.cz/35402327/kubo.and.the.two.strings.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
+| How to Train Your Dragon (2025) 4K CZ Titulky | 30670866 | https://sdilej.cz/31527189/how.to.train.your.dragon-2025-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Malcolm X 1080p CZ Titulky | 30672234 | https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | My Fair Lady 1080p CZ Titulky | 30673478 | https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv | Extract Czech track from exact source after processing |
 | Beasts of No Nation 1080p CZ Titulky | 30673675 | https://sdilej.cz/14060782/beasts-of-no-nation-2015-1080p-ddp5.1-x265-en-dab-cz-tit.mkv | Complete: Czech subtitles verified |
-| Sentimental Value 1080p CZ Titulky | 30673875 | https://sdilej.cz/33852285/sentimental-value-citova-hodnota-2025-cz-titulky-aac-5.1-1080p.mkv | Extract Czech track from exact source after processing |
-| Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky | 30674419 | https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv | Extract Czech track from exact source after processing |
+| Sentimental Value 1080p CZ Titulky | 30673875 | https://sdilej.cz/33852285/sentimental-value-citova-hodnota-2025-cz-titulky-aac-5.1-1080p.mkv | Complete: Czech subtitles verified |
+| Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky | 30674419 | https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv | Complete: Czech subtitles verified |
 | A Man Called Ove (En man som heter Ove) 1080p CZ Titulky | 30674421 | https://sdilej.cz/28441861/muz-jmenem-ove.mkv | Extract Czech track from exact source after processing |
 | System Crasher (Systemsprenger) SD CZ Titulky | 30674476 | https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4 | Extract Czech track from exact source after processing |
-| Adam's Apples (Adams æbler) 1080p CZ Titulky | 30674858 | https://sdilej.cz/34298232/adam-s-apples-2005-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Adam's Apples (Adams æbler) 1080p CZ Titulky | 30674858 | https://sdilej.cz/34298232/adam-s-apples-2005-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | The Promised Land (Bastarden) 1080p CZ Titulky | 30675383 | https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
 | Joint Security Area SD CZ Titulky | 30675386 | https://sdilej.cz/14310949/pohranicni-pasmo-2000-cz-titl.mkv | Complete: Czech subtitles verified |
-| Hana-bi 720p CZ Titulky | 30675517 | https://sdilej.cz/35010233/1997-ohnostroj-krimi-drama-thriller-81-cz-sub.mkv | Extract Czech track from exact source after processing |
-| My Hero Academia: Heroes Rising 1080p CZ Titulky | 30675522 | https://sdilej.cz/18318002/my-hero-academia-heroes-rising-2019-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| 14 Peaks: Nothing Is Impossible 1080p CZ Titulky | 30675715 | https://sdilej.cz/34982939/14-vrcholu-nic-neni-nemozne-2021-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| Hana-bi 720p CZ Titulky | 30675517 | https://sdilej.cz/35010233/1997-ohnostroj-krimi-drama-thriller-81-cz-sub.mkv | Complete: Czech subtitles verified |
+| My Hero Academia: Heroes Rising 1080p CZ Titulky | 30675522 | https://sdilej.cz/18318002/my-hero-academia-heroes-rising-2019-cz-titulky.mkv | Complete: Czech subtitles verified |
+| 14 Peaks: Nothing Is Impossible 1080p CZ Titulky | 30675715 | https://sdilej.cz/34982939/14-vrcholu-nic-neni-nemozne-2021-cz-titulky-.mkv | Complete: Czech subtitles verified |
 | Corpus Christi (Boże Ciało) 1080p CZ Titulky | 30676979 | https://sdilej.cz/27515642/corpus.christi.2019.1080p.cz-sk-sub.mkv | Extract Czech track from exact source after processing |
 | Despicable Me 4K CZ Titulky | 30680025 | https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv | Extract Czech track from exact source after processing |
 | Minority Report 1080p CZ Titulky | 30680415 | https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
