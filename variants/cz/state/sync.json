@@ -20098,17 +20098,19 @@
       }
     },
     "523": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32434119",
+          "target_video_id": "30681593",
+          "permanent": false,
+          "attempted_at": "2026-11-01T00:49:59.795929+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32434119",
         "display_name": "One Battle After Another 4K CZ Dabing",
         "planned_at": "2026-11-01T00:32:57.923437+00:00"
-      },
-      "claim": {
-        "worker_id": "6659712071bf4df1a6abd4af993ab5c2-shard-0",
-        "claimed_at": "2026-11-01T00:32:58.065633+00:00",
-        "lease_expires_at": "2026-11-01T06:32:58.065633+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30681593",
       "prepared": {
@@ -42974,5 +42976,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T00:42:27.443698+00:00"
+  "updated_at": "2026-11-01T00:49:59.795944+00:00"
 }
