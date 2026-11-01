@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T16:08:02.307871+00:00
+Poslední aktualizace (UTC): 2026-11-01T16:08:05.929414+00:00
 
 Zkontrolováno videí: 242. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 148, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 40, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 148, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 41, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -83,6 +83,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 41. Důvod
 | [Only the Brave SD CZ Titulky](https://prehraj.to/only-the-brave-sd-cz-titulky-mkv/82fcc9106bf29184) (ID 30697852) | [Sdílej 8588496](https://sdilej.cz/8588496/only-the-brave-2017-titulky.cz.mkv) | target_unavailable | 2026-11-01T14:56:31.454285+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-01T06:43:28.867201+00:00 |
 | [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-11-01T06:52:07.148921+00:00 |
+| [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | target_unavailable | 2026-11-01T16:08:05.929343+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-01T06:43:56.292829+00:00 |
 | [Roma (2018) 1080p CZ Titulky](https://prehraj.to/roma-2018-1080p-cz-titulky-mkv/2a0ee45e8062349f) (ID 30691634) | [Sdílej 16152424](https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv) | target_unavailable | 2026-11-01T10:09:18.390946+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-01T06:42:48.129724+00:00 |
