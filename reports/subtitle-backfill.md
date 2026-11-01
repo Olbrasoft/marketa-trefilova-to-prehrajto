@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T20:12:13.687812+00:00
+Poslední aktualizace (UTC): 2026-11-01T20:12:17.504079+00:00
 
 Zkontrolováno videí: 259. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 55, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 56, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -98,6 +98,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Důvod
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-01T06:42:48.129724+00:00 |
 | [Rushmore 1080p CZ Titulky](https://prehraj.to/rushmore-1080p-cz-titulky-mkv/fc686d09c5231058) (ID 30690305) | [Sdílej 26981215](https://sdilej.cz/26981215/rushmore.1998.1080p.bluray.h264.aac.en.cz.mkv) | target_unavailable | 2026-11-01T09:07:58.050544+00:00 |
 | [Saw (2004) 1080p CZ Titulky](https://prehraj.to/saw-2004-1080p-cz-titulky-mkv/919ec29c99bd8c47) (ID 30681152) | [Sdílej 27106738](https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv) | target_unavailable | 2026-11-01T06:52:32.873059+00:00 |
+| [Shaun of the Dead 720p CZ Titulky](https://prehraj.to/shaun-of-the-dead-720p-cz-titulky-mkv/03af392ee4a8870a) (ID 30705871) | [Sdílej 30657982](https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T20:12:17.503845+00:00 |
 | [Snow White and the Seven Dwarfs 1080p CZ Titulky](https://prehraj.to/snow-white-and-the-seven-dwarfs-1080p-cz-titulky-mkv/90ee8bf2b875d6c0) (ID 30688075) | [Sdílej 30770863](https://sdilej.cz/30770863/snehurka-a-sedm-trpasliku-animovany-1937-cz-dab-leg.mkv) | target_unavailable | 2026-11-01T07:12:17.638700+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-01T06:43:14.276436+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-01T06:43:25.503338+00:00 |
