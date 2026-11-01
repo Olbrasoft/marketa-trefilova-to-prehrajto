@@ -26031,17 +26031,19 @@
       }
     },
     "1035": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34827547",
+          "target_video_id": "30709967",
+          "permanent": false,
+          "attempted_at": "2026-11-01T23:41:31.565479+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34827547",
         "display_name": "Indiana Jones and the Temple of Doom 4K CZ Dabing",
         "planned_at": "2026-11-01T23:26:31.489698+00:00"
-      },
-      "claim": {
-        "worker_id": "e33717c28cf04fe292d68054526c08a7-shard-0",
-        "claimed_at": "2026-11-01T23:26:31.596287+00:00",
-        "lease_expires_at": "2026-11-02T05:26:31.596287+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30709967",
       "prepared": {
@@ -53700,5 +53702,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T23:26:35.238518+00:00"
+  "updated_at": "2026-11-01T23:41:31.565499+00:00"
 }
