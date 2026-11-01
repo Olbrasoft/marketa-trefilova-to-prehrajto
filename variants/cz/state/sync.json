@@ -17285,13 +17285,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-01T00:31:19.206674+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-01T01:04:53.590642+00:00"
         },
         {
@@ -17300,6 +17293,13 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-01T03:31:33.957409+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:25:53.064356+00:00"
         }
       ],
       "last_plan": {
@@ -17313,12 +17313,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
-      },
-      "claim": {
-        "worker_id": "15757c77fba44701915fa6eb887ca5e2-shard-0",
-        "claimed_at": "2026-11-01T04:25:51.171498+00:00",
-        "lease_expires_at": "2026-11-01T10:25:51.171498+00:00",
-        "run_id": "41265153510"
       }
     },
     "23132": {
@@ -18856,7 +18850,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-01T03:31:36.894436+00:00"
+        "planned_at": "2026-11-01T04:25:52.785537+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18864,6 +18858,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "b134784b68f9455f9f93f009fd12a9d9-shard-0",
+        "claimed_at": "2026-11-01T04:25:53.110215+00:00",
+        "lease_expires_at": "2026-11-01T10:25:53.110215+00:00",
+        "run_id": "41265153510"
       }
     },
     "29695": {
@@ -20536,7 +20536,7 @@
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Dabing",
-        "planned_at": "2026-11-01T04:25:51.011556+00:00"
+        "planned_at": "2026-11-01T04:25:52.867115+00:00"
       }
     },
     "733": {
@@ -44526,5 +44526,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:25:51.589577+00:00"
+  "updated_at": "2026-11-01T04:25:53.110233+00:00"
 }
