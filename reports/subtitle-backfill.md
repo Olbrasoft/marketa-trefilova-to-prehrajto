@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:10:26.004771+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:10:29.458988+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 107, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 65, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 108, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 64, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -75,7 +75,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 63. Důvo
 | [Crash (2004) 1080p CZ Titulky](https://prehraj.to/crash-2004-1080p-cz-titulky-mkv/270785241291972e) (ID 30663753) | [Sdílej 35402143](https://sdilej.cz/35402143/crash.2004.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:45:05.834022+00:00 |
 | [Creed 1080p CZ Titulky](https://prehraj.to/creed-1080p-cz-titulky-mkv/f4c965cf679ac2cc) (ID 30683763) | [Sdílej 30294354](https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv) | target_unavailable | 2026-11-01T03:50:02.395620+00:00 |
 | [Despicable Me 4K CZ Titulky](https://prehraj.to/despicable-me-4k-cz-titulky-mkv/1a941e411137635d) (ID 30680025) | [Sdílej 27530102](https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv) | target_unavailable | 2026-10-31T22:25:38.139483+00:00 |
-| [Everything Everywhere All at Once 4K CZ Titulky](https://prehraj.to/everything-everywhere-all-at-once-4k-cz-titulky-mkv/c195cfe4ad1f051f) (ID 30662730) | [Sdílej 33396424](https://sdilej.cz/33396424/everything-everywhere-all-at-once-2022-.2160p-cz.tit.mkv) | target_unavailable | 2026-10-31T11:04:38.613704+00:00 |
 | [Ex Machina 1080p CZ Titulky](https://prehraj.to/ex-machina-1080p-cz-titulky-mkv/aeea5faf86a96d92) (ID 30662878) | [Sdílej 31631191](https://sdilej.cz/31631191/ex-machina-2014-cz.tit.mkv) | target_unavailable | 2026-10-31T11:05:47.241841+00:00 |
 | [Fury (2014) 1080p CZ Titulky](https://prehraj.to/fury-2014-1080p-cz-titulky-mkv/715aa2f20fa91bf5) (ID 30680601) | [Sdílej 35402243](https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T23:16:21.337449+00:00 |
 | [Gattaca 1080p CZ Titulky](https://prehraj.to/gattaca-1080p-cz-titulky-mkv/a6a7f8792fe863fb) (ID 30664643) | [Sdílej 35402244](https://sdilej.cz/35402244/gattaca.1997.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T11:55:18.224572+00:00 |
