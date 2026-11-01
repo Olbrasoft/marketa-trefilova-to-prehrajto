@@ -22915,17 +22915,19 @@
       }
     },
     "13376": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34681006",
+          "target_video_id": "30698042",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:05:41.620811+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34681006",
         "display_name": "Mysterious Skin 1080p CZ Dabing",
         "planned_at": "2026-11-01T14:57:05.569025+00:00"
-      },
-      "claim": {
-        "worker_id": "0851406021b245f286f34fbd127ddd87-shard-0",
-        "claimed_at": "2026-11-01T14:57:05.689793+00:00",
-        "lease_expires_at": "2026-11-01T20:57:05.689793+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30698042",
       "prepared": {
@@ -49265,5 +49267,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:05:16.558843+00:00"
+  "updated_at": "2026-11-01T15:05:41.620828+00:00"
 }
