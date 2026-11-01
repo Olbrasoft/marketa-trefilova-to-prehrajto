@@ -7506,7 +7506,7 @@
       "last_plan": {
         "source_id": "30657982",
         "display_name": "Shaun of the Dead 720p CZ Titulky",
-        "planned_at": "2026-11-01T21:25:43.147926+00:00"
+        "planned_at": "2026-11-01T22:03:37.238251+00:00"
       },
       "previous_target_id": "30705871",
       "prepared": {
@@ -7514,6 +7514,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-01T20:11:30.555308+00:00",
         "relay_source_id": "30657982"
+      },
+      "claim": {
+        "worker_id": "80b1294dba2a4bab9b58e00e64ad9dff-shard-0",
+        "claimed_at": "2026-11-01T22:03:37.305379+00:00",
+        "lease_expires_at": "2026-11-02T04:03:37.305379+00:00",
+        "run_id": "41351617669"
       }
     },
     "418": {
@@ -7762,13 +7768,6 @@
     "37492": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34596026",
-          "reason": "Request failed for https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-31T00:39:58.684889+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34596026",
           "target_video_id": "30705956",
@@ -7781,6 +7780,13 @@
           "target_video_id": "30705956",
           "permanent": false,
           "attempted_at": "2026-11-01T21:25:41.569466+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34596026",
+          "target_video_id": "30705956",
+          "permanent": false,
+          "attempted_at": "2026-11-01T22:03:37.522439+00:00"
         }
       ],
       "last_plan": {
@@ -7794,12 +7800,6 @@
         "size_bytes": 21800000000,
         "prepared_at": "2026-11-01T20:15:50.197719+00:00",
         "relay_source_id": "34596026"
-      },
-      "claim": {
-        "worker_id": "32a8c30c29dc47ee9e04a2c7dc480f4f-shard-0",
-        "claimed_at": "2026-11-01T22:03:35.490766+00:00",
-        "lease_expires_at": "2026-11-02T04:03:35.490766+00:00",
-        "run_id": "41351617669"
       }
     },
     "516": {
@@ -13424,7 +13424,7 @@
       "last_plan": {
         "source_id": "29803826",
         "display_name": "Deadpool & Wolverine 4K CZ Titulky",
-        "planned_at": "2026-11-01T22:03:35.467769+00:00"
+        "planned_at": "2026-11-01T22:03:37.282968+00:00"
       }
     },
     "1030": {
@@ -40608,5 +40608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T22:03:35.817335+00:00"
+  "updated_at": "2026-11-01T22:03:37.522461+00:00"
 }
