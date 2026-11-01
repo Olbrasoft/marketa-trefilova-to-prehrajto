@@ -3114,6 +3114,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "f4ce428c8291473ea0685a1450f0e1bc-shard-0",
+        "claimed_at": "2026-11-01T08:24:45.312106+00:00",
+        "lease_expires_at": "2026-11-01T14:24:45.312106+00:00",
+        "run_id": "41284517775"
       }
     },
     "21312": {
@@ -11200,13 +11206,6 @@
           "source_id": "30294354",
           "target_video_id": "30683763",
           "permanent": false,
-          "attempted_at": "2026-11-01T06:40:22.712977+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30294354",
-          "target_video_id": "30683763",
-          "permanent": false,
           "attempted_at": "2026-11-01T07:16:22.281995+00:00"
         },
         {
@@ -11215,12 +11214,19 @@
           "target_video_id": "30683763",
           "permanent": false,
           "attempted_at": "2026-11-01T07:48:07.583052+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30294354",
+          "target_video_id": "30683763",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:24:46.825872+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30294354",
         "display_name": "Creed 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:48:05.317732+00:00"
+        "planned_at": "2026-11-01T08:24:45.711703+00:00"
       },
       "previous_target_id": "30683763",
       "prepared": {
@@ -11480,7 +11486,7 @@
       "last_plan": {
         "source_id": "13336214",
         "display_name": "What We Do in the Shadows 1080p CZ Titulky",
-        "planned_at": "2026-11-01T08:24:43.153445+00:00"
+        "planned_at": "2026-11-01T08:24:45.773353+00:00"
       }
     },
     "10938": {
@@ -36390,5 +36396,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:24:43.153459+00:00"
+  "updated_at": "2026-11-01T08:24:46.825892+00:00"
 }
