@@ -7482,13 +7482,6 @@
     "503": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "30657982",
-          "reason": "Request failed for https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-30T22:41:50.649357+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "30657982",
           "target_video_id": "30705871",
@@ -7501,12 +7494,19 @@
           "target_video_id": "30705871",
           "permanent": false,
           "attempted_at": "2026-11-01T20:53:48.683603+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30657982",
+          "target_video_id": "30705871",
+          "permanent": false,
+          "attempted_at": "2026-11-01T21:25:44.754121+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30657982",
         "display_name": "Shaun of the Dead 720p CZ Titulky",
-        "planned_at": "2026-11-01T20:53:47.253635+00:00"
+        "planned_at": "2026-11-01T21:25:43.147926+00:00"
       },
       "previous_target_id": "30705871",
       "prepared": {
@@ -13337,7 +13337,7 @@
       "last_plan": {
         "source_id": "34641510",
         "display_name": "Baby Driver 1080p CZ Titulky",
-        "planned_at": "2026-11-01T21:25:40.351991+00:00"
+        "planned_at": "2026-11-01T21:25:43.218690+00:00"
       }
     },
     "957": {
@@ -40537,5 +40537,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T21:25:41.569483+00:00"
+  "updated_at": "2026-11-01T21:25:44.754139+00:00"
 }
