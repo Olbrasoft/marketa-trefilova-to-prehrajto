@@ -23106,17 +23106,19 @@
       "attempts": []
     },
     "25025": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31018756",
+          "target_video_id": "30699221",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:52:03.794003+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31018756",
         "display_name": "A Very Long Engagement 720p CZ Dabing",
         "planned_at": "2026-11-01T15:34:51.808653+00:00"
-      },
-      "claim": {
-        "worker_id": "601295f01017459b95877b67a546f6c0-shard-0",
-        "claimed_at": "2026-11-01T15:34:51.941071+00:00",
-        "lease_expires_at": "2026-11-01T21:34:51.941071+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699221",
       "prepared": {
@@ -49695,5 +49697,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:50:26.087256+00:00"
+  "updated_at": "2026-11-01T15:52:03.794019+00:00"
 }
