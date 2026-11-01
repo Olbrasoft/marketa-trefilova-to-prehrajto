@@ -10814,13 +10814,6 @@
           "source_id": "27530102",
           "target_video_id": "30680025",
           "permanent": false,
-          "attempted_at": "2026-11-01T06:09:15.752798+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27530102",
-          "target_video_id": "30680025",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:39:28.345142+00:00"
         },
         {
@@ -10829,6 +10822,13 @@
           "target_video_id": "30680025",
           "permanent": false,
           "attempted_at": "2026-11-01T07:15:25.759016+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27530102",
+          "target_video_id": "30680025",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:47:34.751025+00:00"
         }
       ],
       "last_plan": {
@@ -10842,12 +10842,6 @@
         "size_bytes": 16000000000,
         "prepared_at": "2026-10-31T22:24:04.458971+00:00",
         "relay_source_id": "27530102"
-      },
-      "claim": {
-        "worker_id": "80619d22af0540ae8298ad863cf81c03-shard-0",
-        "claimed_at": "2026-11-01T07:47:32.471830+00:00",
-        "lease_expires_at": "2026-11-01T13:47:32.471830+00:00",
-        "run_id": "41284517775"
       }
     },
     "817": {
@@ -10957,7 +10951,7 @@
       "last_plan": {
         "source_id": "30659521",
         "display_name": "Watchmen 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:15:27.135165+00:00"
+        "planned_at": "2026-11-01T07:47:34.503324+00:00"
       },
       "previous_target_id": "30680780",
       "prepared": {
@@ -10965,6 +10959,12 @@
         "size_bytes": 11200000000,
         "prepared_at": "2026-10-31T23:27:10.746091+00:00",
         "relay_source_id": "30659521"
+      },
+      "claim": {
+        "worker_id": "1c1c315c85bf4abeacf63f8f1ed92677-shard-0",
+        "claimed_at": "2026-11-01T07:47:34.605932+00:00",
+        "lease_expires_at": "2026-11-01T13:47:34.605932+00:00",
+        "run_id": "41284517775"
       }
     },
     "830": {
@@ -11421,7 +11421,7 @@
       "last_plan": {
         "source_id": "35072040",
         "display_name": "Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:47:32.442249+00:00"
+        "planned_at": "2026-11-01T07:47:34.560937+00:00"
       }
     },
     "22858": {
@@ -36099,5 +36099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:47:33.064318+00:00"
+  "updated_at": "2026-11-01T07:47:34.751044+00:00"
 }
