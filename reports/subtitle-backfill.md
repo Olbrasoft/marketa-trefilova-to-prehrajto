@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T18:30:11.098730+00:00
+Poslední aktualizace (UTC): 2026-11-01T18:30:14.733962+00:00
 
 Zkontrolováno videí: 246. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 43, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 44, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -69,6 +69,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 46. Důvod
 | [Dark Waters 1080p CZ Titulky](https://prehraj.to/dark-waters-1080p-cz-titulky-mkv/08b6b6cfae49a2d0) (ID 30695103) | [Sdílej 18607027](https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv) | target_unavailable | 2026-11-01T13:04:53.899189+00:00 |
 | [Despicable Me 4K CZ Titulky](https://prehraj.to/despicable-me-4k-cz-titulky-mkv/1a941e411137635d) (ID 30680025) | [Sdílej 27530102](https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv) | target_unavailable | 2026-11-01T06:52:14.262323+00:00 |
 | [Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky](https://prehraj.to/ein-lied-von-liebe-und-tod-gloomy-sunday-1080p-cz-titulky-mkv/31703440b053ba3c) (ID 30695912) | [Sdílej 34622854](https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv) | target_unavailable | 2026-11-01T13:55:42.820163+00:00 |
+| [Fantastic Planet SD CZ Titulky](https://prehraj.to/fantastic-planet-sd-cz-titulky-mkv/1542e588982d3b2c) (ID 30703255) | [Sdílej 6115976](https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv) | target_unavailable | 2026-11-01T18:30:14.733782+00:00 |
 | [Fury (2014) 1080p CZ Titulky](https://prehraj.to/fury-2014-1080p-cz-titulky-mkv/715aa2f20fa91bf5) (ID 30680601) | [Sdílej 35402243](https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T06:52:25.567012+00:00 |
 | [Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky](https://prehraj.to/godzilla-minus-one-1-0-1080p-cz-titulky-mkv/71f6dbfe82e8ae70) (ID 30688969) | [Sdílej 35072040](https://sdilej.cz/35072040/godzilla.minus.one.a.k.a.gojira.-1.0.2023.japanese.1080p.10bit.bluray.8ch.x265.hevc-psa-cztitulky-.mkv) | target_unavailable | 2026-11-01T08:06:53.205676+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-01T06:42:51.525315+00:00 |
