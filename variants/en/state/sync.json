@@ -11040,17 +11040,19 @@
       "attempts": []
     },
     "13416": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13380014",
+          "target_video_id": "30683719",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:23:37.817343+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
         "planned_at": "2026-11-01T03:42:22.137745+00:00"
-      },
-      "claim": {
-        "worker_id": "950bd013110940368598bf265d5e5be9-shard-0",
-        "claimed_at": "2026-11-01T03:42:22.179519+00:00",
-        "lease_expires_at": "2026-11-01T09:42:22.179519+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30683719",
       "prepared": {
@@ -34845,5 +34847,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:46:12.672193+00:00"
+  "updated_at": "2026-11-01T04:23:37.817360+00:00"
 }
