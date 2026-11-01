@@ -23550,17 +23550,19 @@
       "attempts": []
     },
     "21364": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15390142",
+          "target_video_id": "30700584",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:36:55.771794+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15390142",
         "display_name": "From Here to Eternity SD CZ Dabing",
         "planned_at": "2026-11-01T16:32:47.532497+00:00"
-      },
-      "claim": {
-        "worker_id": "39ab92bcd86246bd8a205c8457e8e84f-shard-0",
-        "claimed_at": "2026-11-01T16:32:47.659273+00:00",
-        "lease_expires_at": "2026-11-01T22:32:47.659273+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30700584",
       "prepared": {
@@ -50227,5 +50229,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:32:51.476715+00:00"
+  "updated_at": "2026-11-01T16:36:55.771815+00:00"
 }
