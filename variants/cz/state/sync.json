@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-01T10:05:40.245655+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-01T10:41:06.413276+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-01T11:19:53.375323+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-01T12:55:53.199485+00:00"
         }
       ],
       "last_plan": {
@@ -1041,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-01T11:19:59.352216+00:00"
+        "planned_at": "2026-11-01T12:55:50.196016+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1049,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "adbe24f9133c4aed9ae20b426a35edfb-shard-0",
+        "claimed_at": "2026-11-01T12:55:50.412496+00:00",
+        "lease_expires_at": "2026-11-01T18:55:50.412496+00:00",
+        "run_id": "41306377044"
       }
     },
     "54": {
@@ -22364,7 +22370,7 @@
       "last_plan": {
         "source_id": "18934288",
         "display_name": "Glengarry Glen Ross 1080p CZ Dabing",
-        "planned_at": "2026-11-01T12:55:48.619930+00:00"
+        "planned_at": "2026-11-01T12:55:50.270322+00:00"
       }
     },
     "30958": {
@@ -48266,5 +48272,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T12:55:48.619945+00:00"
+  "updated_at": "2026-11-01T12:55:53.199500+00:00"
 }
