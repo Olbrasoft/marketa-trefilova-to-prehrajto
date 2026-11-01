@@ -25339,17 +25339,19 @@
       "attempts": []
     },
     "11276": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27752605",
+          "target_video_id": "30705504",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:59:42.156131+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27752605",
         "display_name": "The 36th Chamber of Shaolin (少林三十六房) 1080p CZ Dabing",
         "planned_at": "2026-11-01T19:55:55.573730+00:00"
-      },
-      "claim": {
-        "worker_id": "d8c9ae0e78a6482eb31c1f993400d6b7-shard-0",
-        "claimed_at": "2026-11-01T19:55:55.711280+00:00",
-        "lease_expires_at": "2026-11-02T01:55:55.711280+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705504",
       "prepared": {
@@ -52367,5 +52369,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:58:22.785251+00:00"
+  "updated_at": "2026-11-01T19:59:42.156148+00:00"
 }
