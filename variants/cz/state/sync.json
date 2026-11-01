@@ -21325,17 +21325,19 @@
       }
     },
     "23366": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30750186",
+          "target_video_id": "30689308",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:12:13.133244+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30750186",
         "display_name": "Dazed and Confused SD CZ Dabing",
         "planned_at": "2026-11-01T08:10:40.857811+00:00"
-      },
-      "claim": {
-        "worker_id": "7c8372b6658144838f17c49982701931-shard-0",
-        "claimed_at": "2026-11-01T08:10:40.976049+00:00",
-        "lease_expires_at": "2026-11-01T14:10:40.976049+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30689308",
       "prepared": {
@@ -45998,5 +46000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:10:44.367878+00:00"
+  "updated_at": "2026-11-01T08:12:13.133262+00:00"
 }
