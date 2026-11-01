@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-01T15:28:35.325214+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-01T15:59:02.531723+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-01T16:30:33.810995+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:00:53.342030+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "c697bd37c6154c8fb16d5759c8a39091-shard-0",
-        "claimed_at": "2026-11-01T18:00:50.962188+00:00",
-        "lease_expires_at": "2026-11-02T00:00:50.962188+00:00",
-        "run_id": "41331089141"
       }
     },
     "229": {
@@ -8032,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-01T16:30:37.075774+00:00"
+        "planned_at": "2026-11-01T18:00:52.689275+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8040,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "718f15ad58324cfb827f37d991fd5644-shard-0",
+        "claimed_at": "2026-11-01T18:00:52.932141+00:00",
+        "lease_expires_at": "2026-11-02T00:00:52.932141+00:00",
+        "run_id": "41331089141"
       }
     },
     "10690": {
@@ -23789,7 +23789,7 @@
       "last_plan": {
         "source_id": "28518031",
         "display_name": "Radical 1080p CZ Dabing",
-        "planned_at": "2026-11-01T18:00:50.802523+00:00"
+        "planned_at": "2026-11-01T18:00:52.771269+00:00"
       }
     },
     "37214": {
@@ -50652,5 +50652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:00:51.257394+00:00"
+  "updated_at": "2026-11-01T18:00:53.342049+00:00"
 }
