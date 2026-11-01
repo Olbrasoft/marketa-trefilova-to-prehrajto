@@ -8054,13 +8054,6 @@
     "11869": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35402008",
-          "reason": "Request failed for https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-31T02:23:57.467468+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "35402008",
           "target_video_id": "30708294",
@@ -8073,12 +8066,19 @@
           "target_video_id": "30708294",
           "permanent": false,
           "attempted_at": "2026-11-01T22:41:31.422540+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35402008",
+          "target_video_id": "30708294",
+          "permanent": false,
+          "attempted_at": "2026-11-01T23:24:00.118820+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35402008",
         "display_name": "Awakenings 1080p CZ Titulky",
-        "planned_at": "2026-11-01T22:41:30.127763+00:00"
+        "planned_at": "2026-11-01T23:23:59.125422+00:00"
       },
       "previous_target_id": "30708294",
       "prepared": {
@@ -13481,7 +13481,7 @@
       "last_plan": {
         "source_id": "35168701",
         "display_name": "Love Actually 4K CZ Titulky",
-        "planned_at": "2026-11-01T23:23:56.187537+00:00"
+        "planned_at": "2026-11-01T23:23:59.175036+00:00"
       }
     },
     "1035": {
@@ -41131,5 +41131,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T23:23:57.673544+00:00"
+  "updated_at": "2026-11-01T23:24:00.118842+00:00"
 }
