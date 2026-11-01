@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T06:42:59.757959+00:00
+Poslední aktualizace (UTC): 2026-11-01T06:43:03.080114+00:00
 
 Zkontrolováno videí: 224. Další stránka kontroly: 0.
 
@@ -62,7 +62,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 23. Důvod
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [3:10 to Yuma (2007) 1080p CZ Titulky](https://prehraj.to/3-10-to-yuma-2007-1080p-cz-titulky-mkv/ee8aaa6153e5b651) (ID 30683719) | [Sdílej 13380014](https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv) | target_unavailable | 2026-11-01T05:51:21.914792+00:00 |
-| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-01T05:22:01.226688+00:00 |
+| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-01T06:43:03.080013+00:00 |
 | [Creed 1080p CZ Titulky](https://prehraj.to/creed-1080p-cz-titulky-mkv/f4c965cf679ac2cc) (ID 30683763) | [Sdílej 30294354](https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv) | target_unavailable | 2026-11-01T05:51:25.162167+00:00 |
 | [Despicable Me 4K CZ Titulky](https://prehraj.to/despicable-me-4k-cz-titulky-mkv/1a941e411137635d) (ID 30680025) | [Sdílej 27530102](https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv) | target_unavailable | 2026-11-01T05:31:54.681844+00:00 |
 | [Fury (2014) 1080p CZ Titulky](https://prehraj.to/fury-2014-1080p-cz-titulky-mkv/715aa2f20fa91bf5) (ID 30680601) | [Sdílej 35402243](https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T05:41:21.982231+00:00 |
