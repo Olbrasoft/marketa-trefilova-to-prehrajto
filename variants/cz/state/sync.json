@@ -20540,17 +20540,19 @@
       }
     },
     "13088": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28564420",
+          "target_video_id": "30684270",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:37:06.536091+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28564420",
         "display_name": "The Royal Tenenbaums 1080p CZ Dabing",
         "planned_at": "2026-11-01T04:25:50.967543+00:00"
-      },
-      "claim": {
-        "worker_id": "8de515af981d451391685dc0291437da-shard-0",
-        "claimed_at": "2026-11-01T04:25:51.215635+00:00",
-        "lease_expires_at": "2026-11-01T10:25:51.215635+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30684270",
       "prepared": {
@@ -44604,5 +44606,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:32:11.478979+00:00"
+  "updated_at": "2026-11-01T04:37:06.536113+00:00"
 }
