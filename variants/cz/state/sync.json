@@ -10809,13 +10809,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-01T13:31:58.107156+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-01T14:13:30.177723+00:00"
         },
         {
@@ -10824,6 +10817,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-01T14:49:17.144608+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:28:49.600799+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10837,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "c97c96b156d84533bac31199d227ff90-shard-0",
-        "claimed_at": "2026-11-01T15:28:47.346435+00:00",
-        "lease_expires_at": "2026-11-01T21:28:47.346435+00:00",
-        "run_id": "41306377044"
       }
     },
     "21748": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-01T14:49:18.564642+00:00"
+        "planned_at": "2026-11-01T15:28:49.190555+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "773bcf312fe94e4fbda48e3f215fdb14-shard-0",
+        "claimed_at": "2026-11-01T15:28:49.513417+00:00",
+        "lease_expires_at": "2026-11-01T21:28:49.513417+00:00",
+        "run_id": "41306377044"
       }
     },
     "12843": {
@@ -23055,7 +23055,7 @@
       "last_plan": {
         "source_id": "34823294",
         "display_name": "All of Us Strangers 1080p CZ Dabing",
-        "planned_at": "2026-11-01T15:28:47.208030+00:00"
+        "planned_at": "2026-11-01T15:28:49.272143+00:00"
       }
     },
     "20033": {
@@ -49585,5 +49585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:28:47.526325+00:00"
+  "updated_at": "2026-11-01T15:28:49.600819+00:00"
 }
