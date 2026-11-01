@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-01T16:29:52.694730+00:00"
+        "planned_at": "2026-11-01T18:00:32.838008+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "c893c4113a644b78a70470e70702d32a-shard-0",
+        "claimed_at": "2026-11-01T18:00:32.934000+00:00",
+        "lease_expires_at": "2026-11-02T00:00:32.934000+00:00",
+        "run_id": "41331089141"
       }
     },
     "21312": {
@@ -11092,13 +11098,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-01T15:28:04.886944+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-01T15:58:22.335696+00:00"
         },
         {
@@ -11107,6 +11106,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-01T16:29:48.317284+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:00:33.097923+00:00"
         }
       ],
       "last_plan": {
@@ -11120,12 +11126,6 @@
         "size_bytes": 18100000000,
         "prepared_at": "2026-11-01T00:33:09.657864+00:00",
         "relay_source_id": "32388547"
-      },
-      "claim": {
-        "worker_id": "abe0a6a9b79247e9b295904a057dfcac-shard-0",
-        "claimed_at": "2026-11-01T18:00:30.135920+00:00",
-        "lease_expires_at": "2026-11-02T00:00:30.135920+00:00",
-        "run_id": "41331089141"
       }
     },
     "822": {
@@ -12418,7 +12418,7 @@
       "last_plan": {
         "source_id": "14638598",
         "display_name": "Ludo (लूडो) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T18:00:30.101184+00:00"
+        "planned_at": "2026-11-01T18:00:32.901508+00:00"
       }
     },
     "11499": {
@@ -39268,5 +39268,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:00:31.274057+00:00"
+  "updated_at": "2026-11-01T18:00:33.097944+00:00"
 }
