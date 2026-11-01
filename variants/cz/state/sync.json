@@ -24134,17 +24134,19 @@
       "attempts": []
     },
     "10969": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32024191",
+          "target_video_id": "30703362",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:33:29.887742+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32024191",
         "display_name": "The Odd Couple 1080p CZ Dabing",
         "planned_at": "2026-11-01T18:27:40.093616+00:00"
-      },
-      "claim": {
-        "worker_id": "441169447be34113ab5647e46fc562b1-shard-0",
-        "claimed_at": "2026-11-01T18:27:40.228114+00:00",
-        "lease_expires_at": "2026-11-02T00:27:40.228114+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703362",
       "prepared": {
@@ -51168,5 +51170,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:27:44.203764+00:00"
+  "updated_at": "2026-11-01T18:33:29.887764+00:00"
 }
