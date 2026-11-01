@@ -19857,13 +19857,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-01T13:31:29.990728+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-01T14:12:57.943240+00:00"
         },
         {
@@ -19872,6 +19865,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-01T14:48:38.792876+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:28:26.227609+00:00"
         }
       ],
       "last_plan": {
@@ -20265,17 +20265,23 @@
           "attempted_at": "2026-11-01T14:48:41.554294+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31791788",
-        "display_name": "The Others 4K CZ Dabing",
-        "planned_at": "2026-11-01T14:48:40.340692+00:00"
-      },
       "previous_target_id": "30681783",
-      "prepared": {
+      "upload": {
         "target_video_id": "30681783",
+        "display_name": "The Others 4K CZ Dabing",
+        "source_id": "31791788",
+        "source_url": "https://sdilej.cz/31791788/ti-druzi-the-others-2001-4k-h265-cz-en.mkv",
+        "source_filename": "Ti druzí (The Others 2001) 4K h265 CZ EN.mkv",
         "size_bytes": 4099999999,
-        "prepared_at": "2026-11-01T00:50:25.767901+00:00",
-        "relay_source_id": "31791788"
+        "width": 3840,
+        "height": 2076,
+        "audio_language": "cs",
+        "language_probability": 0.9861884713172913,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-others-4k-cz-dabing-mkv/51d59c5d307176c6",
+        "uploaded_at": "2026-11-01T15:28:26.306815+00:00"
       }
     },
     "828": {
@@ -23043,7 +23049,7 @@
       "last_plan": {
         "source_id": "34823294",
         "display_name": "All of Us Strangers 1080p CZ Dabing",
-        "planned_at": "2026-11-01T15:28:23.596967+00:00"
+        "planned_at": "2026-11-01T15:28:25.390652+00:00"
       }
     },
     "20033": {
@@ -49573,5 +49579,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:28:23.596985+00:00"
+  "updated_at": "2026-11-01T15:28:26.306833+00:00"
 }
