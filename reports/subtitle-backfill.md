@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T05:31:40.183067+00:00
+Poslední aktualizace (UTC): 2026-11-01T05:31:43.763838+00:00
 
 Zkontrolováno videí: 222. Další stránka kontroly: 0.
 
@@ -80,7 +80,7 @@ Kontrol: 13; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-01T05:22:26.890139+00:00 |
 | [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-11-01T04:31:31.635388+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-01T05:31:28.842623+00:00 |
-| [Reservoir Dogs 720p CZ Titulky](https://prehraj.to/reservoir-dogs-720p-cz-titulky-mkv/2895fce48a6f84ff) (ID 30677150) | [Sdílej 12652876](https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv) | target_unavailable | 2026-11-01T04:31:20.719504+00:00 |
+| [Reservoir Dogs 720p CZ Titulky](https://prehraj.to/reservoir-dogs-720p-cz-titulky-mkv/2895fce48a6f84ff) (ID 30677150) | [Sdílej 12652876](https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv) | target_unavailable | 2026-11-01T05:31:43.763761+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-01T05:21:46.597706+00:00 |
 | [Saw (2004) 1080p CZ Titulky](https://prehraj.to/saw-2004-1080p-cz-titulky-mkv/919ec29c99bd8c47) (ID 30681152) | [Sdílej 27106738](https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv) | target_unavailable | 2026-11-01T04:40:35.209656+00:00 |
 | [Singin' in the Rain SD](https://prehraj.to/singin-in-the-rain-sd-mp4/2de17edf2d52a7eb) (ID 30677056) | [Sdílej 15908236](https://sdilej.cz/15908236/zpivani-v-desti-czdab.mp4) | target_unavailable | 2026-11-01T05:31:36.247386+00:00 |
