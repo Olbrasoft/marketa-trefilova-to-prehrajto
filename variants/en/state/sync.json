@@ -12620,17 +12620,19 @@
       "attempts": []
     },
     "23581": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29771115",
+          "target_video_id": "30703801",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:53:12.205273+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29771115",
         "display_name": "The Cure (1995) 1080p CZ Titulky",
         "planned_at": "2026-11-01T18:44:55.381674+00:00"
-      },
-      "claim": {
-        "worker_id": "0f2b237856b4459cb93cf3b056a05ea5-shard-0",
-        "claimed_at": "2026-11-01T18:44:55.421459+00:00",
-        "lease_expires_at": "2026-11-02T00:44:55.421459+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703801",
       "prepared": {
@@ -39608,5 +39610,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:52:58.162138+00:00"
+  "updated_at": "2026-11-01T18:53:12.205292+00:00"
 }
