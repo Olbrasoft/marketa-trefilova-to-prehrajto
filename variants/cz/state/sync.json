@@ -23849,17 +23849,19 @@
       }
     },
     "14859": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28518031",
+          "target_video_id": "30702725",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:13:28.064983+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28518031",
         "display_name": "Radical 1080p CZ Dabing",
         "planned_at": "2026-11-01T18:01:20.929104+00:00"
-      },
-      "claim": {
-        "worker_id": "445f0d35fdf64304bdc214cbe6bf49fb-shard-0",
-        "claimed_at": "2026-11-01T18:01:21.180391+00:00",
-        "lease_expires_at": "2026-11-02T00:01:21.180391+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30702725",
       "prepared": {
@@ -50780,5 +50782,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:13:26.234684+00:00"
+  "updated_at": "2026-11-01T18:13:28.065000+00:00"
 }
