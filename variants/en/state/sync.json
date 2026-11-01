@@ -11379,17 +11379,19 @@
       "attempts": []
     },
     "10683": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30770863",
+          "target_video_id": "30688075",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:45:38.374239+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30770863",
         "display_name": "Snow White and the Seven Dwarfs 1080p CZ Titulky",
         "planned_at": "2026-11-01T07:08:06.166853+00:00"
-      },
-      "claim": {
-        "worker_id": "8c7301549b1842ab9a54a20f76225cda-shard-0",
-        "claimed_at": "2026-11-01T07:08:06.207648+00:00",
-        "lease_expires_at": "2026-11-01T13:08:06.207648+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30688075",
       "prepared": {
@@ -36081,5 +36083,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:16:37.777750+00:00"
+  "updated_at": "2026-11-01T07:45:38.374257+00:00"
 }
