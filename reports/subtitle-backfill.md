@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:01:21.842581+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:01:28.809830+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 95, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 77, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 96, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 76, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -136,7 +136,6 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 83. Důvod
 | [Togo 1080p CZ Titulky](https://prehraj.to/togo-1080p-cz-titulky-mkv/679dca849fe6afa3) (ID 30643515) | [Sdílej 12845023](https://sdilej.cz/12845023/togo.2019.1080p.webrip.dd-5.1.h.264-evo.cz.titulky.mkv) | target_unavailable | 2026-10-31T10:55:48.796719+00:00 |
 | [Walk the Line 1080p CZ Titulky](https://prehraj.to/walk-the-line-1080p-cz-titulky-mkv/0ffc5079d005c129) (ID 30650875) | [Sdílej 6489245](https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv) | target_unavailable | 2026-10-31T10:56:06.224119+00:00 |
 | [Watchmen 1080p CZ Titulky](https://prehraj.to/watchmen-1080p-cz-titulky-mkv/eedbb6c4ff193bf4) (ID 30680780) | [Sdílej 30659521](https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-10-31T23:36:33.072538+00:00 |
-| [Whisper of the Heart (耳をすませば) 1080p CZ Titulky](https://prehraj.to/whisper-of-the-heart-1080p-cz-titulky-mkv/bcf952f83d294208) (ID 30654463) | [Sdílej 34140580](https://sdilej.cz/34140580/sepot-srdce-whisper-of-the-heart-1995--tt0113824--en-es-fr-de-it-tr-sv-fi-no-ru-cs-id-vi-th-ko-zh-ja-.webdl-1080p.h265-aac-2.0.mkv) | target_unavailable | 2026-10-31T10:55:45.381577+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-31T11:05:33.328831+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-01T04:01:21.842513+00:00 |
 | [Zack Snyder's Justice League 1080p CZ Titulky](https://prehraj.to/zack-snyder-s-justice-league-1080p-cz-titulky-mkv/2773fc50054d7025) (ID 30678189) | [Sdílej 30673514](https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv) | target_unavailable | 2026-10-31T20:55:51.358004+00:00 |
