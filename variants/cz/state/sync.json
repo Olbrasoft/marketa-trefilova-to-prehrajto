@@ -22865,17 +22865,19 @@
       }
     },
     "753": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34563578",
+          "target_video_id": "30697156",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:05:07.893113+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34563578",
         "display_name": "Only the Brave 4K CZ Dabing",
         "planned_at": "2026-11-01T14:39:28.917683+00:00"
-      },
-      "claim": {
-        "worker_id": "7e0b6c6cea2040a09e470488c056a797-shard-0",
-        "claimed_at": "2026-11-01T14:39:29.036227+00:00",
-        "lease_expires_at": "2026-11-01T20:39:29.036227+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30697156",
       "prepared": {
@@ -49239,5 +49241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:57:09.894909+00:00"
+  "updated_at": "2026-11-01T15:05:07.893131+00:00"
 }
