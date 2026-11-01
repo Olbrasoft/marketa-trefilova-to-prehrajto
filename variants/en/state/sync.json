@@ -11237,13 +11237,6 @@
           "source_id": "27023564",
           "target_video_id": "30684282",
           "permanent": false,
-          "attempted_at": "2026-11-01T06:21:55.661900+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27023564",
-          "target_video_id": "30684282",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:51:57.592942+00:00"
         },
         {
@@ -11252,6 +11245,13 @@
           "target_video_id": "30684282",
           "permanent": false,
           "attempted_at": "2026-11-01T07:46:42.326848+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27023564",
+          "target_video_id": "30684282",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:24:02.809282+00:00"
         }
       ],
       "last_plan": {
@@ -11318,7 +11318,7 @@
       "last_plan": {
         "source_id": "25373993",
         "display_name": "The Whale 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:47:24.375569+00:00"
+        "planned_at": "2026-11-01T08:24:01.814859+00:00"
       },
       "previous_target_id": "30685795",
       "prepared": {
@@ -11326,6 +11326,12 @@
         "size_bytes": 9100000000,
         "prepared_at": "2026-11-01T05:35:27.853121+00:00",
         "relay_source_id": "25373993"
+      },
+      "claim": {
+        "worker_id": "5b807c28676343eba83498f747c420df-shard-0",
+        "claimed_at": "2026-11-01T08:24:01.911389+00:00",
+        "lease_expires_at": "2026-11-01T14:24:01.911389+00:00",
+        "run_id": "41284517775"
       }
     },
     "836": {
@@ -11474,7 +11480,7 @@
       "last_plan": {
         "source_id": "13336214",
         "display_name": "What We Do in the Shadows 1080p CZ Titulky",
-        "planned_at": "2026-11-01T08:24:00.372853+00:00"
+        "planned_at": "2026-11-01T08:24:01.876366+00:00"
       }
     },
     "10938": {
@@ -36384,5 +36390,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:24:00.372869+00:00"
+  "updated_at": "2026-11-01T08:24:02.809311+00:00"
 }
