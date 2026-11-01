@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T05:31:47.290423+00:00
+Poslední aktualizace (UTC): 2026-11-01T05:31:51.065700+00:00
 
 Zkontrolováno videí: 222. Další stránka kontroly: 0.
 
@@ -91,7 +91,7 @@ Kontrol: 13; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T05:31:17.318014+00:00 |
 | [Watchmen 1080p CZ Titulky](https://prehraj.to/watchmen-1080p-cz-titulky-mkv/eedbb6c4ff193bf4) (ID 30680780) | [Sdílej 30659521](https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T04:40:31.040091+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-01T05:21:57.904873+00:00 |
-| [Zack Snyder's Justice League 1080p CZ Titulky](https://prehraj.to/zack-snyder-s-justice-league-1080p-cz-titulky-mkv/2773fc50054d7025) (ID 30678189) | [Sdílej 30673514](https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv) | target_unavailable | 2026-11-01T04:31:42.572381+00:00 |
+| [Zack Snyder's Justice League 1080p CZ Titulky](https://prehraj.to/zack-snyder-s-justice-league-1080p-cz-titulky-mkv/2773fc50054d7025) (ID 30678189) | [Sdílej 30673514](https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv) | target_unavailable | 2026-11-01T05:31:51.065628+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
