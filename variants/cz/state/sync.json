@@ -21625,17 +21625,19 @@
       }
     },
     "12023": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34357634",
+          "target_video_id": "30690374",
+          "permanent": false,
+          "attempted_at": "2026-11-01T09:33:08.337802+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34357634",
         "display_name": "The Last of the Mohicans 4K CZ Dabing",
         "planned_at": "2026-11-01T09:07:01.283797+00:00"
-      },
-      "claim": {
-        "worker_id": "f9de478da63e471b887b8d38a4a41762-shard-0",
-        "claimed_at": "2026-11-01T09:07:01.467640+00:00",
-        "lease_expires_at": "2026-11-01T15:07:01.467640+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30690374",
       "prepared": {
@@ -46834,5 +46836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T09:29:14.674720+00:00"
+  "updated_at": "2026-11-01T09:33:08.337820+00:00"
 }
