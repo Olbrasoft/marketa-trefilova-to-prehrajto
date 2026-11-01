@@ -23605,17 +23605,19 @@
       }
     },
     "10919": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34689582",
+          "target_video_id": "30700660",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:45:39.849740+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34689582",
         "display_name": "Belle de Jour 1080p CZ Dabing",
         "planned_at": "2026-11-01T16:37:05.763235+00:00"
-      },
-      "claim": {
-        "worker_id": "6958a430a79c442c992b9920312877bf-shard-0",
-        "claimed_at": "2026-11-01T16:37:05.935894+00:00",
-        "lease_expires_at": "2026-11-01T22:37:05.935894+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30700660",
       "prepared": {
@@ -50281,5 +50283,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:38:18.014938+00:00"
+  "updated_at": "2026-11-01T16:45:39.849757+00:00"
 }
