@@ -224,3 +224,4 @@ Attach subtitles only after target processing has finished.
 | One Battle After Another 4K CZ Titulky | 30681595 | https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv | Extract Czech track from exact source after processing |
 | John Wick: Chapter 4 1440p CZ Titulky | 30682158 | https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv | Extract Czech track from exact source after processing |
 | 3:10 to Yuma (2007) 1080p CZ Titulky | 30683719 | https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv | Extract Czech track from exact source after processing |
+| Creed 1080p CZ Titulky | 30683763 | https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv | Extract Czech track from exact source after processing |
