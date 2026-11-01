@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:55:03.854902+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:30:42.653816+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-01T01:04:29.363295+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:31:06.720413+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "fe239fa9af1446bd98291e29784c6759-shard-0",
-        "claimed_at": "2026-11-01T03:31:04.038051+00:00",
-        "lease_expires_at": "2026-11-01T09:31:04.038051+00:00",
-        "run_id": "41265153510"
       }
     },
     "10755": {
@@ -1047,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-01T01:04:28.869538+00:00"
+        "planned_at": "2026-11-01T03:31:06.289720+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1055,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "9c714f54d5b44cceb702a07e2642bfb0-shard-0",
+        "claimed_at": "2026-11-01T03:31:06.553882+00:00",
+        "lease_expires_at": "2026-11-01T09:31:06.553882+00:00",
+        "run_id": "41265153510"
       }
     },
     "54": {
@@ -20342,7 +20342,7 @@
       "last_plan": {
         "source_id": "32046868",
         "display_name": "F1 1080p CZ Dabing",
-        "planned_at": "2026-11-01T03:31:03.879717+00:00"
+        "planned_at": "2026-11-01T03:31:06.382010+00:00"
       }
     },
     "809": {
@@ -44124,5 +44124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:31:05.021730+00:00"
+  "updated_at": "2026-11-01T03:31:06.720427+00:00"
 }
