@@ -21974,17 +21974,19 @@
       "attempts": []
     },
     "778": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10243180",
+          "target_video_id": "30692041",
+          "permanent": false,
+          "attempted_at": "2026-11-01T10:39:31.784258+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10243180",
         "display_name": "Gifted 1080p CZ Dabing",
         "planned_at": "2026-11-01T10:17:27.884689+00:00"
-      },
-      "claim": {
-        "worker_id": "7ef90831f1ab4a92af45e36fcd6b0960-shard-0",
-        "claimed_at": "2026-11-01T10:17:27.999681+00:00",
-        "lease_expires_at": "2026-11-01T16:17:27.999681+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30692041",
       "prepared": {
@@ -47423,5 +47425,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:34:14.336357+00:00"
+  "updated_at": "2026-11-01T10:39:31.784274+00:00"
 }
