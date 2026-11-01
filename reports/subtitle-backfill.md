@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T08:37:28.815607+00:00
+Poslední aktualizace (UTC): 2026-11-01T08:37:31.172922+00:00
 
 Zkontrolováno videí: 227. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 148, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 25, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 148, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 26, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -89,6 +89,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T06:43:42.717587+00:00 |
 | [The Whale 1080p CZ Titulky](https://prehraj.to/the-whale-1080p-cz-titulky-mkv/a54c07509185b1d4) (ID 30685795) | [Sdílej 25373993](https://sdilej.cz/25373993/velryba-the-whale-2022-1080p-cz-titulky.mkv) | target_unavailable | 2026-11-01T06:52:18.314948+00:00 |
 | [Watchmen 1080p CZ Titulky](https://prehraj.to/watchmen-1080p-cz-titulky-mkv/eedbb6c4ff193bf4) (ID 30680780) | [Sdílej 30659521](https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T06:52:29.393099+00:00 |
+| [What We Do in the Shadows 1080p CZ Titulky](https://prehraj.to/what-we-do-in-the-shadows-1080p-cz-titulky-mkv/86a3ef8254aa97b5) (ID 30689658) | [Sdílej 13336214](https://sdilej.cz/13336214/what-we-do-in-the.shadows-en-vlozene-titulky-2014-horror-1080p-pg-.mkv) | target_unavailable | 2026-11-01T08:37:30.609028+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-01T06:42:59.757638+00:00 |
 | [Zack Snyder's Justice League 1080p CZ Titulky](https://prehraj.to/zack-snyder-s-justice-league-1080p-cz-titulky-mkv/2773fc50054d7025) (ID 30678189) | [Sdílej 30673514](https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv) | target_unavailable | 2026-11-01T06:52:10.684115+00:00 |
 
