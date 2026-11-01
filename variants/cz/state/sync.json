@@ -19980,17 +19980,19 @@
       "attempts": []
     },
     "814": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33767328",
+          "target_video_id": "30681419",
+          "permanent": false,
+          "attempted_at": "2026-11-01T00:23:52.625399+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767328",
         "display_name": "Midnight in Paris 1080p CZ Dabing",
         "planned_at": "2026-11-01T00:19:54.086069+00:00"
-      },
-      "claim": {
-        "worker_id": "1a766a4525a845de95978270419973ad-shard-0",
-        "claimed_at": "2026-11-01T00:19:55.385730+00:00",
-        "lease_expires_at": "2026-11-01T06:19:55.385730+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30681419",
       "prepared": {
@@ -42886,5 +42888,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T00:20:23.414216+00:00"
+  "updated_at": "2026-11-01T00:23:52.625414+00:00"
 }
