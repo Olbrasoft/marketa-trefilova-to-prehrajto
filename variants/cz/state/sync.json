@@ -16794,13 +16794,6 @@
           "source_id": "33402050",
           "target_video_id": "30665578",
           "permanent": false,
-          "attempted_at": "2026-11-01T04:57:37.846595+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33402050",
-          "target_video_id": "30665578",
-          "permanent": false,
           "attempted_at": "2026-11-01T05:34:16.099659+00:00"
         },
         {
@@ -16809,12 +16802,19 @@
           "target_video_id": "30665578",
           "permanent": false,
           "attempted_at": "2026-11-01T06:11:48.726413+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33402050",
+          "target_video_id": "30665578",
+          "permanent": false,
+          "attempted_at": "2026-11-01T06:53:17.664873+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-01T06:11:47.507832+00:00"
+        "planned_at": "2026-11-01T06:53:16.271204+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -20983,11 +20983,22 @@
       "last_plan": {
         "source_id": "27048649",
         "display_name": "The Reader 1080p CZ Dabing",
-        "planned_at": "2026-11-01T06:53:13.547286+00:00"
+        "planned_at": "2026-11-01T06:53:16.356956+00:00"
+      },
+      "claim": {
+        "worker_id": "83d9bf1ce5ee49479e64936736365fcb-shard-0",
+        "claimed_at": "2026-11-01T06:53:16.623047+00:00",
+        "lease_expires_at": "2026-11-01T12:53:16.623047+00:00",
+        "run_id": "41265153510"
       }
     },
     "781": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "6420587",
+        "display_name": "The Boondock Saints SD CZ Dabing",
+        "planned_at": "2026-11-01T06:53:16.405653+00:00"
+      }
     },
     "821": {
       "attempts": []
@@ -45417,5 +45428,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T06:53:14.749502+00:00"
+  "updated_at": "2026-11-01T06:53:17.664889+00:00"
 }
