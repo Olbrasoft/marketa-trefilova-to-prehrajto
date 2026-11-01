@@ -7753,18 +7753,19 @@
           "reason": "Request failed for https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T00:39:58.684889+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34596026",
+          "target_video_id": "30705956",
+          "permanent": false,
+          "attempted_at": "2026-11-01T20:53:45.283939+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34596026",
         "display_name": "Obsession (2026) 4K CZ Titulky",
         "planned_at": "2026-11-01T20:15:44.340501+00:00"
-      },
-      "claim": {
-        "worker_id": "af9ff15d58d247529f5fae905a6b83b0-shard-0",
-        "claimed_at": "2026-11-01T20:15:44.381561+00:00",
-        "lease_expires_at": "2026-11-02T02:15:44.381561+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705956",
       "prepared": {
@@ -40247,5 +40248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T20:47:37.383813+00:00"
+  "updated_at": "2026-11-01T20:53:45.283973+00:00"
 }
