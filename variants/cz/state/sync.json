@@ -24269,17 +24269,19 @@
       "attempts": []
     },
     "21920": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32183061",
+          "target_video_id": "30703728",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:47:25.258694+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32183061",
         "display_name": "Romeo and Juliet (1968) 1080p CZ Dabing",
         "planned_at": "2026-11-01T18:42:49.044532+00:00"
-      },
-      "claim": {
-        "worker_id": "307bc25bbefb4d9999f3ec4446def421-shard-0",
-        "claimed_at": "2026-11-01T18:42:49.175358+00:00",
-        "lease_expires_at": "2026-11-02T00:42:49.175358+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703728",
       "prepared": {
@@ -51275,5 +51277,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:44:55.287858+00:00"
+  "updated_at": "2026-11-01T18:47:25.258712+00:00"
 }
