@@ -238,3 +238,4 @@ Attach subtitles only after target processing has finished.
 | Barton Fink 1080p CZ Titulky | 30693626 | https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
 | West Side Story (1961) 1080p CZ Titulky | 30695040 | https://sdilej.cz/34917405/west.side.story.1961.1080p.bluray.ddp.7.1.x265-edge2020.mkv | Extract Czech track from exact source after processing |
 | Dark Waters 1080p CZ Titulky | 30695103 | https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv | Extract Czech track from exact source after processing |
+| Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky | 30695912 | https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv | Extract Czech track from exact source after processing |
