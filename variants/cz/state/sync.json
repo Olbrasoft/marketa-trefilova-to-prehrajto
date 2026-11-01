@@ -24014,17 +24014,19 @@
       "attempts": []
     },
     "33520": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15059122",
+          "target_video_id": "30703104",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:25:49.268543+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15059122",
         "display_name": "Peeping Tom 1080p CZ Dabing",
         "planned_at": "2026-11-01T18:18:22.235733+00:00"
-      },
-      "claim": {
-        "worker_id": "f21d88f8a0734bdeb9528eca65d825ab-shard-0",
-        "claimed_at": "2026-11-01T18:18:22.363214+00:00",
-        "lease_expires_at": "2026-11-02T00:18:22.363214+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703104",
       "prepared": {
@@ -51115,5 +51117,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:23:41.191312+00:00"
+  "updated_at": "2026-11-01T18:25:49.268560+00:00"
 }
