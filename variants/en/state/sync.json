@@ -6534,7 +6534,7 @@
       "last_plan": {
         "source_id": "17206386",
         "display_name": "Hero (2002) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T21:25:46.335451+00:00"
+        "planned_at": "2026-11-01T22:03:38.986230+00:00"
       },
       "previous_target_id": "30705057",
       "prepared": {
@@ -6542,6 +6542,12 @@
         "size_bytes": 9200000000,
         "prepared_at": "2026-11-01T19:35:25.260680+00:00",
         "relay_source_id": "17206386"
+      },
+      "claim": {
+        "worker_id": "62c316ebbd2d43a5b544e3a3e7982191-shard-0",
+        "claimed_at": "2026-11-01T22:03:39.052115+00:00",
+        "lease_expires_at": "2026-11-02T04:03:39.052115+00:00",
+        "run_id": "41351617669"
       }
     },
     "20132": {
@@ -7486,13 +7492,6 @@
           "source_id": "30657982",
           "target_video_id": "30705871",
           "permanent": false,
-          "attempted_at": "2026-11-01T20:21:00.286157+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30657982",
-          "target_video_id": "30705871",
-          "permanent": false,
           "attempted_at": "2026-11-01T20:53:48.683603+00:00"
         },
         {
@@ -7501,6 +7500,13 @@
           "target_video_id": "30705871",
           "permanent": false,
           "attempted_at": "2026-11-01T21:25:44.754121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30657982",
+          "target_video_id": "30705871",
+          "permanent": false,
+          "attempted_at": "2026-11-01T22:03:39.385331+00:00"
         }
       ],
       "last_plan": {
@@ -7514,12 +7520,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-01T20:11:30.555308+00:00",
         "relay_source_id": "30657982"
-      },
-      "claim": {
-        "worker_id": "80b1294dba2a4bab9b58e00e64ad9dff-shard-0",
-        "claimed_at": "2026-11-01T22:03:37.305379+00:00",
-        "lease_expires_at": "2026-11-02T04:03:37.305379+00:00",
-        "run_id": "41351617669"
       }
     },
     "418": {
@@ -13424,7 +13424,7 @@
       "last_plan": {
         "source_id": "29803826",
         "display_name": "Deadpool & Wolverine 4K CZ Titulky",
-        "planned_at": "2026-11-01T22:03:37.282968+00:00"
+        "planned_at": "2026-11-01T22:03:39.030154+00:00"
       }
     },
     "1030": {
@@ -40608,5 +40608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T22:03:37.522461+00:00"
+  "updated_at": "2026-11-01T22:03:39.385351+00:00"
 }
