@@ -21528,17 +21528,19 @@
       }
     },
     "24656": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32937848",
+          "target_video_id": "30689912",
+          "permanent": false,
+          "attempted_at": "2026-11-01T09:04:15.250127+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32937848",
         "display_name": "Adaptation (Adaptation.) 4K CZ Dabing",
         "planned_at": "2026-11-01T08:44:39.377556+00:00"
-      },
-      "claim": {
-        "worker_id": "f551f95824ac491f9efd31c0e7663198-shard-0",
-        "claimed_at": "2026-11-01T08:44:39.486091+00:00",
-        "lease_expires_at": "2026-11-01T14:44:39.486091+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30689912",
       "prepared": {
@@ -46477,5 +46479,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T09:02:35.075839+00:00"
+  "updated_at": "2026-11-01T09:04:15.250145+00:00"
 }
