@@ -12201,17 +12201,19 @@
       "attempts": []
     },
     "581": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9356262",
+          "target_video_id": "30699780",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:15:48.858870+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9356262",
         "display_name": "The Unknown Soldier (Tuntematon sotilas) 1080p CZ Titulky",
         "planned_at": "2026-11-01T16:01:14.880100+00:00"
-      },
-      "claim": {
-        "worker_id": "6746daf93bd94782a45907f03c77e6e0-shard-0",
-        "claimed_at": "2026-11-01T16:01:14.914987+00:00",
-        "lease_expires_at": "2026-11-01T22:01:14.914987+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699780",
       "prepared": {
@@ -38726,5 +38728,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:11:33.690300+00:00"
+  "updated_at": "2026-11-01T16:15:48.858887+00:00"
 }
