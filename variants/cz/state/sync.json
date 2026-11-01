@@ -20564,17 +20564,19 @@
       "attempts": []
     },
     "690": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31222883",
+          "reason": "Request failed for https://sdilej.cz/31222883/mission-impossible-7-odplata-prvni-cast-2023-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:27:20.535676+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Dabing",
         "planned_at": "2026-11-01T04:26:33.696893+00:00"
-      },
-      "claim": {
-        "worker_id": "efd387a12e224c57bc2b6dd44590dc31-shard-0",
-        "claimed_at": "2026-11-01T04:26:34.208491+00:00",
-        "lease_expires_at": "2026-11-01T10:26:34.208491+00:00",
-        "run_id": "41265153510"
       }
     },
     "733": {
@@ -44569,5 +44571,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:27:04.556695+00:00"
+  "updated_at": "2026-11-01T04:27:20.535703+00:00"
 }
