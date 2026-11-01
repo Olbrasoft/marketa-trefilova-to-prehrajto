@@ -2338,13 +2338,6 @@
           "source_id": "16781576",
           "target_video_id": "30677093",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:57:26.973264+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16781576",
-          "target_video_id": "30677093",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:30:22.912092+00:00"
         },
         {
@@ -2353,6 +2346,13 @@
           "target_video_id": "30677093",
           "permanent": false,
           "attempted_at": "2026-11-01T01:04:13.860446+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16781576",
+          "target_video_id": "30677093",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:30:49.891054+00:00"
         }
       ],
       "last_plan": {
@@ -6185,7 +6185,7 @@
       "last_plan": {
         "source_id": "30673514",
         "display_name": "Zack Snyder's Justice League 1080p CZ Titulky",
-        "planned_at": "2026-11-01T01:04:13.539587+00:00"
+        "planned_at": "2026-11-01T03:30:49.115759+00:00"
       },
       "previous_target_id": "30678189",
       "prepared": {
@@ -6193,6 +6193,12 @@
         "size_bytes": 20200000000,
         "prepared_at": "2026-10-31T20:47:50.848770+00:00",
         "relay_source_id": "30673514"
+      },
+      "claim": {
+        "worker_id": "b0a4e98a46ab40659ecc31915458d2dd-shard-0",
+        "claimed_at": "2026-11-01T03:30:49.232386+00:00",
+        "lease_expires_at": "2026-11-01T09:30:49.232386+00:00",
+        "run_id": "41265153510"
       }
     },
     "387": {
@@ -11029,7 +11035,7 @@
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T03:30:47.610893+00:00"
+        "planned_at": "2026-11-01T03:30:49.186244+00:00"
       }
     },
     "36656": {
@@ -34804,5 +34810,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:30:47.610909+00:00"
+  "updated_at": "2026-11-01T03:30:49.891075+00:00"
 }
