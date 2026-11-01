@@ -21088,17 +21088,19 @@
       }
     },
     "10683": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34671690",
+          "target_video_id": "30688040",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:15:11.915648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34671690",
         "display_name": "Snow White and the Seven Dwarfs 1080p CZ Dabing",
         "planned_at": "2026-11-01T07:05:31.389484+00:00"
-      },
-      "claim": {
-        "worker_id": "85623615701445c1b38be71bbf835c10-shard-0",
-        "claimed_at": "2026-11-01T07:05:31.523849+00:00",
-        "lease_expires_at": "2026-11-01T13:05:31.523849+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30688040",
       "prepared": {
@@ -45532,5 +45534,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:08:06.063383+00:00"
+  "updated_at": "2026-11-01T07:15:11.915664+00:00"
 }
