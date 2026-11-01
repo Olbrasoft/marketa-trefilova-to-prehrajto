@@ -20463,21 +20463,34 @@
       "attempts": []
     },
     "751": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "5692013",
+          "reason": "Request failed for https://sdilej.cz/5692013/most-spionov-cz-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:46:05.141185+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5692013",
         "display_name": "Bridge of Spies 1080p CZ Dabing",
         "planned_at": "2026-11-01T03:45:19.205522+00:00"
-      },
-      "claim": {
-        "worker_id": "e31a238cc93a4864909fde9bd1c1729b-shard-0",
-        "claimed_at": "2026-11-01T03:45:19.349277+00:00",
-        "lease_expires_at": "2026-11-01T09:45:19.349277+00:00",
-        "run_id": "41265153510"
       }
     },
     "793": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32275060",
+        "display_name": "Creed 4K CZ Dabing",
+        "planned_at": "2026-11-01T03:46:01.775618+00:00"
+      },
+      "claim": {
+        "worker_id": "9d03602909c4402cb22de27a8805343b-shard-0",
+        "claimed_at": "2026-11-01T03:46:01.904526+00:00",
+        "lease_expires_at": "2026-11-01T09:46:01.904526+00:00",
+        "run_id": "41265153510"
+      }
     },
     "13088": {
       "attempts": []
@@ -44232,5 +44245,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:46:00.253169+00:00"
+  "updated_at": "2026-11-01T03:46:05.141202+00:00"
 }
