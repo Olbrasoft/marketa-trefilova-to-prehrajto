@@ -10809,13 +10809,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-01T05:33:39.528814+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:11:10.959822+00:00"
         },
         {
@@ -10824,6 +10817,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-01T06:52:41.500481+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:47:08.117201+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10837,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "8826c8858a414461b35028c82d84238b-shard-0",
-        "claimed_at": "2026-11-01T07:47:05.379776+00:00",
-        "lease_expires_at": "2026-11-01T13:47:05.379776+00:00",
-        "run_id": "41284517775"
       }
     },
     "21748": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-01T06:52:42.632736+00:00"
+        "planned_at": "2026-11-01T07:47:07.760911+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "f50d766954a04970ba240f4889a94fc9-shard-0",
+        "claimed_at": "2026-11-01T07:47:07.973635+00:00",
+        "lease_expires_at": "2026-11-01T13:47:07.973635+00:00",
+        "run_id": "41284517775"
       }
     },
     "12843": {
@@ -21180,7 +21180,7 @@
       "last_plan": {
         "source_id": "34716070",
         "display_name": "The Raid (Serbuan Maut) 1080p CZ Dabing",
-        "planned_at": "2026-11-01T07:47:05.240672+00:00"
+        "planned_at": "2026-11-01T07:47:07.833557+00:00"
       }
     },
     "679": {
@@ -45856,5 +45856,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:47:06.588028+00:00"
+  "updated_at": "2026-11-01T07:47:08.117219+00:00"
 }
