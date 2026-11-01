@@ -23263,17 +23263,19 @@
       "attempts": []
     },
     "25191": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34486914",
+          "target_video_id": "30699804",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:05:56.800575+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34486914",
         "display_name": "Cocaine Cowboys 1080p CZ Dabing",
         "planned_at": "2026-11-01T16:02:27.682459+00:00"
-      },
-      "claim": {
-        "worker_id": "9feafd48876f4b4dbd94a2c0a9039ac1-shard-0",
-        "claimed_at": "2026-11-01T16:02:27.820503+00:00",
-        "lease_expires_at": "2026-11-01T22:02:27.820503+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699804",
       "prepared": {
@@ -49751,5 +49753,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:02:31.343478+00:00"
+  "updated_at": "2026-11-01T16:05:56.800591+00:00"
 }
