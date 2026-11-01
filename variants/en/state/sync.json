@@ -7814,13 +7814,6 @@
     "472": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "34903912",
-          "reason": "Request failed for https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-31T01:14:23.713501+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "34903912",
           "target_video_id": "30706154",
@@ -7833,6 +7826,13 @@
           "target_video_id": "30706154",
           "permanent": false,
           "attempted_at": "2026-11-01T21:18:20.793752+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34903912",
+          "target_video_id": "30706154",
+          "permanent": false,
+          "attempted_at": "2026-11-01T22:02:49.783482+00:00"
         }
       ],
       "last_plan": {
@@ -7846,12 +7846,6 @@
         "size_bytes": 11600000000,
         "prepared_at": "2026-11-01T20:21:19.360155+00:00",
         "relay_source_id": "34903912"
-      },
-      "claim": {
-        "worker_id": "4d456b322bc74a74895ae4c173702bdc-shard-0",
-        "claimed_at": "2026-11-01T22:02:47.214874+00:00",
-        "lease_expires_at": "2026-11-02T04:02:47.214874+00:00",
-        "run_id": "41351617669"
       }
     },
     "13343": {
@@ -40608,5 +40602,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T22:02:47.214885+00:00"
+  "updated_at": "2026-11-01T22:02:49.783500+00:00"
 }
