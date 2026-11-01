@@ -24363,17 +24363,19 @@
       "attempts": []
     },
     "25422": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30242485",
+          "target_video_id": "30704005",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:52:51.210450+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30242485",
         "display_name": "Joyeux Noël (Joyeux Noel) SD CZ Dabing",
         "planned_at": "2026-11-01T18:51:16.388037+00:00"
-      },
-      "claim": {
-        "worker_id": "0954ba46990a42beb31e206667013099-shard-0",
-        "claimed_at": "2026-11-01T18:51:16.612532+00:00",
-        "lease_expires_at": "2026-11-02T00:51:16.612532+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30704005",
       "prepared": {
@@ -51334,5 +51336,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:51:20.181419+00:00"
+  "updated_at": "2026-11-01T18:52:51.210473+00:00"
 }
