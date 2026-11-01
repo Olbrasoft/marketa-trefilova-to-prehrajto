@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:00:10.140909+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:00:56.471907+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
@@ -114,7 +114,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 83. Důvod
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-10-31T19:24:04.812906+00:00 |
 | [Reservoir Dogs 720p CZ Titulky](https://prehraj.to/reservoir-dogs-720p-cz-titulky-mkv/2895fce48a6f84ff) (ID 30677150) | [Sdílej 12652876](https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv) | target_unavailable | 2026-10-31T20:15:10.033464+00:00 |
 | [Rio Bravo 720p CZ Titulky](https://prehraj.to/rio-bravo-720p-cz-titulky-mkv/f213292620b59351) (ID 30643106) | [Sdílej 30773956](https://sdilej.cz/30773956/rio-bravo-hraji-john-wayne-dean-martin-1959-cz-dab-leg.mkv) | target_unavailable | 2026-10-31T11:05:29.716737+00:00 |
-| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-10-31T10:55:16.817843+00:00 |
+| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-01T04:00:56.471856+00:00 |
 | [Saw (2004) 1080p CZ Titulky](https://prehraj.to/saw-2004-1080p-cz-titulky-mkv/919ec29c99bd8c47) (ID 30681152) | [Sdílej 27106738](https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv) | target_unavailable | 2026-11-01T00:07:00.267102+00:00 |
 | [Sentimental Value 1080p CZ Titulky](https://prehraj.to/sentimental-value-1080p-cz-titulky-mkv/621e38a6d8b86c05) (ID 30673875) | [Sdílej 33852285](https://sdilej.cz/33852285/sentimental-value-citova-hodnota-2025-cz-titulky-aac-5.1-1080p.mkv) | target_unavailable | 2026-10-31T17:22:19.801115+00:00 |
 | [Singin' in the Rain SD](https://prehraj.to/singin-in-the-rain-sd-mp4/2de17edf2d52a7eb) (ID 30677056) | [Sdílej 15908236](https://sdilej.cz/15908236/zpivani-v-desti-czdab.mp4) | target_unavailable | 2026-10-31T20:15:03.031792+00:00 |
