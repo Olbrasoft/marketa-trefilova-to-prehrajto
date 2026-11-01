@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-01T00:30:53.640008+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-01T01:04:36.500563+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-01T03:31:13.821301+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:25:39.628639+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "ce8b3d6564424673a05f421599110e11-shard-0",
-        "claimed_at": "2026-11-01T04:25:37.282635+00:00",
-        "lease_expires_at": "2026-11-01T10:25:37.282635+00:00",
-        "run_id": "41265153510"
       }
     },
     "52": {
@@ -10843,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "a914b169b5f1429c97135e143b7877c6-shard-0",
+        "claimed_at": "2026-11-01T04:25:38.754495+00:00",
+        "lease_expires_at": "2026-11-01T10:25:38.754495+00:00",
+        "run_id": "41265153510"
       }
     },
     "21748": {
@@ -16367,7 +16367,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-01T03:31:15.107027+00:00"
+        "planned_at": "2026-11-01T04:25:38.810580+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16375,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "c20073a2e7b04888b630acf369a51575-shard-0",
+        "claimed_at": "2026-11-01T04:25:39.052849+00:00",
+        "lease_expires_at": "2026-11-01T10:25:39.052849+00:00",
+        "run_id": "41265153510"
       }
     },
     "12843": {
@@ -20519,7 +20525,7 @@
       "last_plan": {
         "source_id": "28564420",
         "display_name": "The Royal Tenenbaums 1080p CZ Dabing",
-        "planned_at": "2026-11-01T04:25:37.417077+00:00"
+        "planned_at": "2026-11-01T04:25:38.891520+00:00"
       }
     },
     "31321": {
@@ -44520,5 +44526,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:25:37.417086+00:00"
+  "updated_at": "2026-11-01T04:25:39.628656+00:00"
 }
