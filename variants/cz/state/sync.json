@@ -21319,17 +21319,19 @@
       }
     },
     "10832": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32144820",
+          "target_video_id": "30689289",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:30:15.039534+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32144820",
         "display_name": "The Birds 4K CZ Dabing",
         "planned_at": "2026-11-01T08:10:03.792107+00:00"
-      },
-      "claim": {
-        "worker_id": "e70de88d6c874d81a13ce3273df1439d-shard-0",
-        "claimed_at": "2026-11-01T08:10:03.909934+00:00",
-        "lease_expires_at": "2026-11-01T14:10:03.909934+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30689289",
       "prepared": {
@@ -46329,5 +46331,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:25:02.804316+00:00"
+  "updated_at": "2026-11-01T08:30:15.039553+00:00"
 }
