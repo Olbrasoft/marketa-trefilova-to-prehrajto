@@ -22560,17 +22560,19 @@
       }
     },
     "790": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33199731",
+          "target_video_id": "30695785",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:50:46.616746+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33199731",
         "display_name": "United 93 1080p CZ Dabing",
         "planned_at": "2026-11-01T13:39:22.295936+00:00"
-      },
-      "claim": {
-        "worker_id": "30bd3a65549a4f669bcc3ddd7fc0cd1b-shard-0",
-        "claimed_at": "2026-11-01T13:39:22.420557+00:00",
-        "lease_expires_at": "2026-11-01T19:39:22.420557+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695785",
       "prepared": {
@@ -48720,5 +48722,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:46:26.434586+00:00"
+  "updated_at": "2026-11-01T13:50:46.616763+00:00"
 }
