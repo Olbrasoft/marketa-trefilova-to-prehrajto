@@ -20382,17 +20382,19 @@
       }
     },
     "809": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27522937",
+          "target_video_id": "30683608",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:45:12.998175+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27522937",
         "display_name": "True Grit (2010) 1080p CZ Dabing",
         "planned_at": "2026-11-01T03:32:53.828670+00:00"
-      },
-      "claim": {
-        "worker_id": "b866d76c244340f893e81b34b1c3590c-shard-0",
-        "claimed_at": "2026-11-01T03:32:53.976013+00:00",
-        "lease_expires_at": "2026-11-01T09:32:53.976013+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30683608",
       "prepared": {
@@ -44222,5 +44224,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:42:22.036541+00:00"
+  "updated_at": "2026-11-01T03:45:12.998192+00:00"
 }
