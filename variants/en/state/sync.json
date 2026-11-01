@@ -1958,13 +1958,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-01T06:09:33.769178+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:39:46.409938+00:00"
         },
         {
@@ -1973,6 +1966,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-01T07:15:43.498146+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:47:48.032520+00:00"
         }
       ],
       "last_plan": {
@@ -1986,12 +1986,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "10d40f80a2c64224be463a0ef04bf81c-shard-0",
-        "claimed_at": "2026-11-01T07:47:43.711920+00:00",
-        "lease_expires_at": "2026-11-01T13:47:43.711920+00:00",
-        "run_id": "41284517775"
       }
     },
     "108": {
@@ -9536,7 +9530,7 @@
       "last_plan": {
         "source_id": "28240998",
         "display_name": "Poor Things 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:15:44.841201+00:00"
+        "planned_at": "2026-11-01T07:47:47.554060+00:00"
       },
       "previous_target_id": "30664033",
       "prepared": {
@@ -9544,6 +9538,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
+      },
+      "claim": {
+        "worker_id": "49f0f1c398d64c4fafadd8554888e459-shard-0",
+        "claimed_at": "2026-11-01T07:47:47.642156+00:00",
+        "lease_expires_at": "2026-11-01T13:47:47.642156+00:00",
+        "run_id": "41284517775"
       }
     },
     "601": {
@@ -11421,7 +11421,7 @@
       "last_plan": {
         "source_id": "35072040",
         "display_name": "Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:47:43.681049+00:00"
+        "planned_at": "2026-11-01T07:47:47.611993+00:00"
       }
     },
     "22858": {
@@ -36099,5 +36099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:47:44.953230+00:00"
+  "updated_at": "2026-11-01T07:47:48.032538+00:00"
 }
