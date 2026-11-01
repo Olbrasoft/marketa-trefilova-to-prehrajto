@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:24:49.495978+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-10-31T23:55:03.854902+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-01T00:30:42.653816+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-01T01:04:29.363295+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "b4e59ca7f3264809956a44922f390d99-shard-0",
-        "claimed_at": "2026-11-01T01:04:26.289091+00:00",
-        "lease_expires_at": "2026-11-01T07:04:26.289091+00:00",
-        "run_id": "41243223179"
       }
     },
     "10755": {
@@ -1047,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-01T00:30:44.213878+00:00"
+        "planned_at": "2026-11-01T01:04:28.869538+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1055,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "e7ffbe98b9434dfd982104a94ca53c85-shard-0",
+        "claimed_at": "2026-11-01T01:04:29.081925+00:00",
+        "lease_expires_at": "2026-11-01T07:04:29.081925+00:00",
+        "run_id": "41243223179"
       }
     },
     "54": {
@@ -20231,7 +20231,7 @@
       "last_plan": {
         "source_id": "28904611",
         "display_name": "The Fault in Our Stars 1080p CZ Dabing",
-        "planned_at": "2026-11-01T01:04:26.157925+00:00"
+        "planned_at": "2026-11-01T01:04:28.953261+00:00"
       }
     },
     "692": {
@@ -43300,5 +43300,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T01:04:27.334677+00:00"
+  "updated_at": "2026-11-01T01:04:29.363312+00:00"
 }
