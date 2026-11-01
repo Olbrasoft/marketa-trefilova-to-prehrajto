@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:11:29.705328+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:11:33.120928+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 115, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 56, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 116, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 55, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -116,7 +116,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 63. Důvo
 | [The Seventh Seal 4K CZ Titulky](https://prehraj.to/the-seventh-seal-4k-cz-titulky-mkv/1be8b13048c728c8) (ID 30677858) | [Sdílej 30698168](https://sdilej.cz/30698168/the-seventh-seal-1957-blu-ray-2160p-4k-hdr-full-movie-cz-eng-sub-best-quality.mkv) | target_unavailable | 2026-10-31T20:45:34.164915+00:00 |
 | [The Trial of the Chicago 7 1080p CZ Titulky](https://prehraj.to/the-trial-of-the-chicago-7-1080p-cz-titulky-mkv/901a1f07a7c9f6ad) (ID 30668595) | [Sdílej 14351127](https://sdilej.cz/14351127/the.trial.of.the.chicago.7.2020.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-10-31T13:37:30.114708+00:00 |
 | [Watchmen 1080p CZ Titulky](https://prehraj.to/watchmen-1080p-cz-titulky-mkv/eedbb6c4ff193bf4) (ID 30680780) | [Sdílej 30659521](https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-10-31T23:36:33.072538+00:00 |
-| [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-31T11:05:33.328831+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-01T04:01:21.842513+00:00 |
 | [Zack Snyder's Justice League 1080p CZ Titulky](https://prehraj.to/zack-snyder-s-justice-league-1080p-cz-titulky-mkv/2773fc50054d7025) (ID 30678189) | [Sdílej 30673514](https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv) | target_unavailable | 2026-10-31T20:55:51.358004+00:00 |
 | [Zodiac (2007) 1080p CZ Titulky](https://prehraj.to/zodiac-2007-1080p-cz-titulky-mkv/973f944847e92f74) (ID 30662259) | [Sdílej 30805641](https://sdilej.cz/30805641/zodiac-2007-director-s-cut-en-cs-sk-en-de-cs-1080p23.976-.mkv) | target_unavailable | 2026-10-31T11:14:44.223770+00:00 |
