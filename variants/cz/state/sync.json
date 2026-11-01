@@ -23228,17 +23228,19 @@
       }
     },
     "11012": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10827668",
+          "target_video_id": "30699637",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:02:23.601188+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10827668",
         "display_name": "Where Eagles Dare 1080p CZ Dabing",
         "planned_at": "2026-11-01T15:54:01.722879+00:00"
-      },
-      "claim": {
-        "worker_id": "4a6201c14bab48ccb1970728edb4ac3b-shard-0",
-        "claimed_at": "2026-11-01T15:54:01.858705+00:00",
-        "lease_expires_at": "2026-11-01T21:54:01.858705+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699637",
       "prepared": {
@@ -49736,5 +49738,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:01:37.301849+00:00"
+  "updated_at": "2026-11-01T16:02:23.601220+00:00"
 }
