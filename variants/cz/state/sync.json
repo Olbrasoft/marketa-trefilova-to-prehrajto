@@ -20234,17 +20234,19 @@
       }
     },
     "824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28904611",
+          "target_video_id": "30681992",
+          "permanent": false,
+          "attempted_at": "2026-11-01T01:19:35.110332+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28904611",
         "display_name": "The Fault in Our Stars 1080p CZ Dabing",
         "planned_at": "2026-11-01T01:05:49.998036+00:00"
-      },
-      "claim": {
-        "worker_id": "f4538d35c70c46419fdff57e40486095-shard-0",
-        "claimed_at": "2026-11-01T01:05:50.132281+00:00",
-        "lease_expires_at": "2026-11-01T07:05:50.132281+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30681992",
       "prepared": {
@@ -43338,5 +43340,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T01:05:57.272377+00:00"
+  "updated_at": "2026-11-01T01:19:35.110347+00:00"
 }
