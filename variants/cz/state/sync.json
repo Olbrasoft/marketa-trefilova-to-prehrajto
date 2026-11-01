@@ -21059,17 +21059,19 @@
       }
     },
     "820": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33205499",
+          "target_video_id": "30687977",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:08:02.406763+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33205499",
         "display_name": "Match Point 1080p CZ Dabing",
         "planned_at": "2026-11-01T07:00:46.881630+00:00"
-      },
-      "claim": {
-        "worker_id": "4ae56fc52bdb4ed0acb63704b3e21979-shard-0",
-        "claimed_at": "2026-11-01T07:00:47.027810+00:00",
-        "lease_expires_at": "2026-11-01T13:00:47.027810+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30687977",
       "prepared": {
@@ -45519,5 +45521,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:05:36.349940+00:00"
+  "updated_at": "2026-11-01T07:08:02.406781+00:00"
 }
