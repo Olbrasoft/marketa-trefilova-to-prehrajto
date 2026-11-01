@@ -20401,17 +20401,19 @@
       }
     },
     "832": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34013840",
+          "reason": "Request failed for https://sdilej.cz/34013840/obchodnik-se-smrti-2005-cz-dabing-2160p-ultra-hd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:38:42.338109+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34013840",
         "display_name": "Lord of War 4K CZ Dabing",
         "planned_at": "2026-11-01T03:37:56.438520+00:00"
-      },
-      "claim": {
-        "worker_id": "23bf0f3e630848dd8494df7bbefa57cf-shard-0",
-        "claimed_at": "2026-11-01T03:37:56.580575+00:00",
-        "lease_expires_at": "2026-11-01T09:37:56.580575+00:00",
-        "run_id": "41265153510"
       }
     },
     "796": {
@@ -44182,5 +44184,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:37:56.580600+00:00"
+  "updated_at": "2026-11-01T03:38:42.338132+00:00"
 }
