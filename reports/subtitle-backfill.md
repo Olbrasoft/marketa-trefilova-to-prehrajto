@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:20:37.612351+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:20:40.985919+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 124, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 125, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -64,7 +64,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 43. Důvo
 | [3:10 to Yuma (2007) 1080p CZ Titulky](https://prehraj.to/3-10-to-yuma-2007-1080p-cz-titulky-mkv/ee8aaa6153e5b651) (ID 30683719) | [Sdílej 13380014](https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv) | target_unavailable | 2026-11-01T03:49:58.772078+00:00 |
 | [A Man Called Ove (En man som heter Ove) 1080p CZ Titulky](https://prehraj.to/a-man-called-ove-en-man-som-heter-ove-1080p-cz-titulky-mkv/c2845d929d2d9149) (ID 30674421) | [Sdílej 28441861](https://sdilej.cz/28441861/muz-jmenem-ove.mkv) | target_unavailable | 2026-10-31T17:42:37.681384+00:00 |
 | [Adam's Apples (Adams æbler) 1080p CZ Titulky](https://prehraj.to/adam-s-apples-adams-aebler-1080p-cz-titulky-mkv/7f544f235f0fd9e1) (ID 30674858) | [Sdílej 34298232](https://sdilej.cz/34298232/adam-s-apples-2005-1080p-cz.tit.mkv) | target_unavailable | 2026-10-31T18:23:10.091609+00:00 |
-| [Black Hawk Down 720p CZ Titulky](https://prehraj.to/black-hawk-down-720p-cz-titulky-mkv/b71b33da4bb6f0fa) (ID 30663831) | [Sdílej 32084108](https://sdilej.cz/32084108/cerny-jestrab-sestrelen-black-hawk-down.2001.720p.bluray.cz.dabing.mkv) | target_unavailable | 2026-10-31T11:55:21.762906+00:00 |
 | [Blue Velvet 1080p CZ Titulky](https://prehraj.to/blue-velvet-1080p-cz-titulky-mkv/4c0ba8378ef8c032) (ID 30665932) | [Sdílej 6725476](https://sdilej.cz/6725476/modry-samet-blue-velvet-1986-.1080p.h264.dts-ceske-titulky.mkv) | target_unavailable | 2026-10-31T13:06:56.136793+00:00 |
 | [Boyhood 720p CZ Titulky](https://prehraj.to/boyhood-720p-cz-titulky-mkv/79660e5c4be4e821) (ID 30678252) | [Sdílej 32842128](https://sdilej.cz/32842128/chlapectvi-2014-drama-usa-czdab-bluray.hd.mkv) | target_unavailable | 2026-10-31T20:55:54.844052+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-01T04:02:01.220731+00:00 |
