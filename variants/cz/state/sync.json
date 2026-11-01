@@ -22485,17 +22485,19 @@
       }
     },
     "718": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32607723",
+          "target_video_id": "30695700",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:39:20.628677+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32607723",
         "display_name": "The Peanut Butter Falcon 1080p CZ Dabing",
         "planned_at": "2026-11-01T13:34:04.053465+00:00"
-      },
-      "claim": {
-        "worker_id": "a36428d30d814a3489ff29817bd33ee2-shard-0",
-        "claimed_at": "2026-11-01T13:34:04.169223+00:00",
-        "lease_expires_at": "2026-11-01T19:34:04.169223+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695700",
       "prepared": {
@@ -48667,5 +48669,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:37:09.707737+00:00"
+  "updated_at": "2026-11-01T13:39:20.628692+00:00"
 }
