@@ -11999,17 +11999,19 @@
       "attempts": []
     },
     "720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30672538",
+          "target_video_id": "30696907",
+          "permanent": false,
+          "attempted_at": "2026-11-01T14:39:27.222102+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30672538",
         "display_name": "The Social Dilemma 1080p CZ Titulky",
         "planned_at": "2026-11-01T14:25:16.197956+00:00"
-      },
-      "claim": {
-        "worker_id": "a26c705af4454378a2fb202a0fca88a2-shard-0",
-        "claimed_at": "2026-11-01T14:25:16.230849+00:00",
-        "lease_expires_at": "2026-11-01T20:25:16.230849+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30696907",
       "prepared": {
@@ -38348,5 +38350,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:28:40.962241+00:00"
+  "updated_at": "2026-11-01T14:39:27.222118+00:00"
 }
