@@ -207,10 +207,10 @@ Attach subtitles only after target processing has finished.
 | Beasts of No Nation 1080p CZ Titulky | 30673675 | https://sdilej.cz/14060782/beasts-of-no-nation-2015-1080p-ddp5.1-x265-en-dab-cz-tit.mkv | Complete: Czech subtitles verified |
 | Sentimental Value 1080p CZ Titulky | 30673875 | https://sdilej.cz/33852285/sentimental-value-citova-hodnota-2025-cz-titulky-aac-5.1-1080p.mkv | Complete: Czech subtitles verified |
 | Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky | 30674419 | https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv | Complete: Czech subtitles verified |
-| A Man Called Ove (En man som heter Ove) 1080p CZ Titulky | 30674421 | https://sdilej.cz/28441861/muz-jmenem-ove.mkv | Extract Czech track from exact source after processing |
+| A Man Called Ove (En man som heter Ove) 1080p CZ Titulky | 30674421 | https://sdilej.cz/28441861/muz-jmenem-ove.mkv | Complete: Czech subtitles verified |
 | System Crasher (Systemsprenger) SD CZ Titulky | 30674476 | https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4 | Extract Czech track from exact source after processing |
 | Adam's Apples (Adams æbler) 1080p CZ Titulky | 30674858 | https://sdilej.cz/34298232/adam-s-apples-2005-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
-| The Promised Land (Bastarden) 1080p CZ Titulky | 30675383 | https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
+| The Promised Land (Bastarden) 1080p CZ Titulky | 30675383 | https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv | Complete: Czech subtitles verified |
 | Joint Security Area SD CZ Titulky | 30675386 | https://sdilej.cz/14310949/pohranicni-pasmo-2000-cz-titl.mkv | Complete: Czech subtitles verified |
 | Hana-bi 720p CZ Titulky | 30675517 | https://sdilej.cz/35010233/1997-ohnostroj-krimi-drama-thriller-81-cz-sub.mkv | Complete: Czech subtitles verified |
 | My Hero Academia: Heroes Rising 1080p CZ Titulky | 30675522 | https://sdilej.cz/18318002/my-hero-academia-heroes-rising-2019-cz-titulky.mkv | Complete: Czech subtitles verified |
