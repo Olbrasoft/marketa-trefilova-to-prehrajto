@@ -138,6 +138,7 @@ Attach subtitles only after target processing has finished.
 | Zack Snyder's Justice League 1080p CZ Titulky | 30678189 | https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv | Extract Czech track from exact source after processing |
 | Boyhood 720p CZ Titulky | 30678252 | https://sdilej.cz/32842128/chlapectvi-2014-drama-usa-czdab-bluray.hd.mkv | Complete: Czech subtitles verified |
 | Marriage Story 1080p CZ Titulky | 30639527 | https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv | Complete: Czech subtitles verified |
+| Ricky Gervais: Humanity 1080p CZ Titulky | 30704846 | https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv | Extract Czech track from exact source after processing |
 | Annie Hall 720p CZ Titulky | 30640109 | https://sdilej.cz/29266712/annie-hall-1977-diane-keaton-woody-allen-eng.-cz-ttl..mkv | Complete: Czech subtitles verified |
 | True Romance 1080p CZ Titulky | 30640322 | https://sdilej.cz/30979686/pravdiva-romance-1993-cz-dab1080p-bluray.mkv | Complete: Czech subtitles verified |
 | Wonder 1080p CZ Titulky | 30640621 | https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
@@ -253,3 +254,4 @@ Attach subtitles only after target processing has finished.
 | The Cure (1995) 1080p CZ Titulky | 30703801 | https://sdilej.cz/29771115/the-cure-1995-1080p-hdtv-ac3-x264-majo.mkv | Extract Czech track from exact source after processing |
 | Nirvanna the Band the Show the Movie SD CZ Titulky | 30704201 | https://sdilej.cz/33745604/nirvanna-the-band-the-show-the-movie-2025-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Bloody Sunday 1080p CZ Titulky | 30704538 | https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv | Extract Czech track from exact source after processing |
+| Carandiru 720p CZ Titulky | 30704838 | https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv | Extract Czech track from exact source after processing |
