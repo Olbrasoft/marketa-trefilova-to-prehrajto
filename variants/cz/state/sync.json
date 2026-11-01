@@ -22691,17 +22691,19 @@
       }
     },
     "28273": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11763714",
+          "target_video_id": "30696646",
+          "permanent": false,
+          "attempted_at": "2026-11-01T14:22:57.879454+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11763714",
         "display_name": "Philomena 1080p CZ Dabing",
         "planned_at": "2026-11-01T14:13:11.028082+00:00"
-      },
-      "claim": {
-        "worker_id": "ec47a4511e8348369c355a7339dbc096-shard-0",
-        "claimed_at": "2026-11-01T14:13:11.391388+00:00",
-        "lease_expires_at": "2026-11-01T20:13:11.391388+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30696646",
       "prepared": {
@@ -49089,5 +49091,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:16:34.530763+00:00"
+  "updated_at": "2026-11-01T14:22:57.879470+00:00"
 }
