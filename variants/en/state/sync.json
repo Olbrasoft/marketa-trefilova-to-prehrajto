@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-01T20:10:38.976719+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-01T20:46:42.852980+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-01T21:21:14.179436+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-01T22:03:09.874453+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "a7ea422f81c2405a8f726ebcad769743-shard-0",
-        "claimed_at": "2026-11-01T22:03:07.754998+00:00",
-        "lease_expires_at": "2026-11-02T04:03:07.754998+00:00",
-        "run_id": "41351617669"
       }
     },
     "108": {
@@ -2033,7 +2027,7 @@
       "last_plan": {
         "source_id": "22817696",
         "display_name": "Requiem for a Dream 1080p CZ Titulky",
-        "planned_at": "2026-11-01T21:21:15.743635+00:00"
+        "planned_at": "2026-11-01T22:03:09.368536+00:00"
       },
       "previous_target_id": "30676098",
       "prepared": {
@@ -2041,6 +2035,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
+      },
+      "claim": {
+        "worker_id": "46098b8559954bf1a1f1255cbdf3648c-shard-0",
+        "claimed_at": "2026-11-01T22:03:09.437554+00:00",
+        "lease_expires_at": "2026-11-02T04:03:09.437554+00:00",
+        "run_id": "41351617669"
       }
     },
     "107": {
@@ -13424,7 +13424,7 @@
       "last_plan": {
         "source_id": "29803826",
         "display_name": "Deadpool & Wolverine 4K CZ Titulky",
-        "planned_at": "2026-11-01T22:03:07.732467+00:00"
+        "planned_at": "2026-11-01T22:03:09.414998+00:00"
       }
     },
     "1030": {
@@ -40608,5 +40608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T22:03:07.962340+00:00"
+  "updated_at": "2026-11-01T22:03:09.874464+00:00"
 }
