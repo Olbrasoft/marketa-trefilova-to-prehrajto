@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:02:08.252134+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:02:11.842054+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 105, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 106, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -93,7 +93,6 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 83. Důvod
 | [Malcolm X 1080p CZ Titulky](https://prehraj.to/malcolm-x-1080p-cz-titulky-mkv/9319f14b90c3f912) (ID 30672234) | [Sdílej 26808273](https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv) | target_unavailable | 2026-10-31T16:10:08.190258+00:00 |
 | [Memento 1080p CZ Titulky](https://prehraj.to/memento-1080p-cz-titulky-mkv/c57ecead896aa1dc) (ID 30676003) | [Sdílej 30657861](https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-10-31T19:24:01.295478+00:00 |
 | [Minority Report 1080p CZ Titulky](https://prehraj.to/minority-report-1080p-cz-titulky-mkv/660ee20de4351d2d) (ID 30680415) | [Sdílej 35402382](https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T22:56:04.129440+00:00 |
-| [Mission: Impossible – Fallout (Mission: Impossible - Fallout) 1080p CZ Titulky](https://prehraj.to/mission-impossible-fallout-mission-impossible-fallout-1080p-cz-titulky-mkv/2b71d2b5e581498a) (ID 30663976) | [Sdílej 26494658](https://sdilej.cz/26494658/mission-impossible-6-fallout-2018-cz.sub.1080p.dd5.1.h264.mkv) | target_unavailable | 2026-10-31T11:04:31.790403+00:00 |
 | [Monster (怪物) (2023) 1080p CZ Titulky](https://prehraj.to/monster-2023-1080p-cz-titulky-mkv/bee076193ab30033) (ID 30658860) | [Sdílej 26523244](https://sdilej.cz/26523244/589.transformers-probuzeni-monster-akcni-dobrodruzny-sci-fi-2023-cz-tit..mkv) | target_unavailable | 2026-10-31T11:05:36.747801+00:00 |
 | [Mr. Nobody 1080p CZ Titulky](https://prehraj.to/mr-nobody-1080p-cz-titulky-mkv/c504a5cd2cfbe29b) (ID 30665814) | [Sdílej 26730074](https://sdilej.cz/26730074/pan-nikdo-2009-cztit-fhd-h265-deadinside.mkv) | target_unavailable | 2026-10-31T12:56:42.217867+00:00 |
 | [My Fair Lady 1080p CZ Titulky](https://prehraj.to/my-fair-lady-1080p-cz-titulky-mkv/3cb9003e3f45f64a) (ID 30673478) | [Sdílej 24371035](https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv) | target_unavailable | 2026-10-31T17:12:09.962534+00:00 |
