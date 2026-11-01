@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-01T15:27:51.707058+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-01T15:58:04.167059+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-01T16:29:30.001276+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:00:06.485735+00:00"
         }
       ],
       "last_plan": {
@@ -3193,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-01T16:29:31.584792+00:00"
+        "planned_at": "2026-11-01T18:00:04.354994+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "c560cb5ec0bb4ee78de7add7f11a53a1-shard-0",
+        "claimed_at": "2026-11-01T18:00:04.457961+00:00",
+        "lease_expires_at": "2026-11-02T00:00:04.457961+00:00",
+        "run_id": "41331089141"
       }
     },
     "31551": {
@@ -12412,7 +12418,7 @@
       "last_plan": {
         "source_id": "14638598",
         "display_name": "Ludo (लूडो) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T18:00:02.727960+00:00"
+        "planned_at": "2026-11-01T18:00:04.421210+00:00"
       }
     },
     "11499": {
@@ -39262,5 +39268,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:00:02.727978+00:00"
+  "updated_at": "2026-11-01T18:00:06.485759+00:00"
 }
