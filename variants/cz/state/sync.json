@@ -23344,17 +23344,19 @@
       }
     },
     "804": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10458319",
+          "target_video_id": "30699979",
+          "permanent": false,
+          "attempted_at": "2026-11-01T16:17:09.463401+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10458319",
         "display_name": "Leviathan (Левиафан) (2014) 720p CZ Dabing",
         "planned_at": "2026-11-01T16:09:42.309310+00:00"
-      },
-      "claim": {
-        "worker_id": "7150cdec4800407fbc3d3f7ee10eb899-shard-0",
-        "claimed_at": "2026-11-01T16:09:42.428060+00:00",
-        "lease_expires_at": "2026-11-01T22:09:42.428060+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699979",
       "prepared": {
@@ -50090,5 +50092,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T16:16:00.593544+00:00"
+  "updated_at": "2026-11-01T16:17:09.463418+00:00"
 }
