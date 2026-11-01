@@ -2110,7 +2110,7 @@
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T23:23:19.486910+00:00"
+        "planned_at": "2026-11-01T23:53:31.520569+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "c856563b1a134fcb8aa59749adf442fe-shard-0",
+        "claimed_at": "2026-11-01T23:53:31.594043+00:00",
+        "lease_expires_at": "2026-11-02T05:53:31.594043+00:00",
+        "run_id": "41351617669"
       }
     },
     "21690": {
@@ -8154,18 +8160,19 @@
           "reason": "Request failed for https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-31T02:34:19.452443+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23193408",
+          "target_video_id": "30709933",
+          "permanent": false,
+          "attempted_at": "2026-11-01T23:53:32.053988+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23193408",
         "display_name": "Hunt for the Wilderpeople 1080p CZ Titulky",
         "planned_at": "2026-11-01T23:25:21.576039+00:00"
-      },
-      "claim": {
-        "worker_id": "ba5558f1aa994815b4d678397153b66b-shard-0",
-        "claimed_at": "2026-11-01T23:25:21.636070+00:00",
-        "lease_expires_at": "2026-11-02T05:25:21.636070+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30709933",
       "prepared": {
@@ -13532,7 +13539,7 @@
       "last_plan": {
         "source_id": "31188853",
         "display_name": "Sinners 4K CZ Titulky",
-        "planned_at": "2026-11-01T23:53:29.195806+00:00"
+        "planned_at": "2026-11-01T23:53:31.570422+00:00"
       }
     },
     "877": {
@@ -41164,5 +41171,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T23:53:30.112512+00:00"
+  "updated_at": "2026-11-01T23:53:32.054007+00:00"
 }
