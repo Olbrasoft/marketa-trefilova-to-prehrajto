@@ -24087,17 +24087,19 @@
       "attempts": []
     },
     "760": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25840929",
+          "target_video_id": "30703322",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:27:38.416833+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25840929",
         "display_name": "God's Own Country 720p CZ Dabing",
         "planned_at": "2026-11-01T18:25:58.180048+00:00"
-      },
-      "claim": {
-        "worker_id": "32f97d3bc4a54bc587c219036ecc29d6-shard-0",
-        "claimed_at": "2026-11-01T18:25:58.378563+00:00",
-        "lease_expires_at": "2026-11-02T00:25:58.378563+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703322",
       "prepared": {
@@ -51148,5 +51150,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:26:03.277542+00:00"
+  "updated_at": "2026-11-01T18:27:38.416849+00:00"
 }
