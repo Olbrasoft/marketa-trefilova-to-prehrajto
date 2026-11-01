@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T06:43:25.503670+00:00
+Poslední aktualizace (UTC): 2026-11-01T06:43:28.867304+00:00
 
 Zkontrolováno videí: 224. Další stránka kontroly: 0.
 
@@ -77,7 +77,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 23. Důvod
 | [Once Upon a Time in America 1080p CZ Titulky](https://prehraj.to/once-upon-a-time-in-america-1080p-cz-titulky-mkv/10c52457278170da) (ID 30677049) | [Sdílej 16198758](https://sdilej.cz/16198758/tenkrat-v-americe-once.upon.a.time.in.america.1984.extended.1080p.bluray.x264-cz-dabing.mkv) | target_unavailable | 2026-11-01T05:31:32.322794+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-01T05:41:32.002098+00:00 |
 | [Parasite (기생충) (2019) 1080p CZ Titulky](https://prehraj.to/parasite-2019-1080p-cz-titulky-mkv/fd9b47f1dadd9eaf) (ID 30675758) | [Sdílej 27736094](https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv) | target_unavailable | 2026-11-01T05:31:21.427040+00:00 |
-| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-01T05:22:26.890139+00:00 |
+| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-01T06:43:28.867201+00:00 |
 | [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-11-01T05:31:47.290335+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-01T05:31:28.842623+00:00 |
 | [Reservoir Dogs 720p CZ Titulky](https://prehraj.to/reservoir-dogs-720p-cz-titulky-mkv/2895fce48a6f84ff) (ID 30677150) | [Sdílej 12652876](https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv) | target_unavailable | 2026-11-01T05:31:43.763761+00:00 |
