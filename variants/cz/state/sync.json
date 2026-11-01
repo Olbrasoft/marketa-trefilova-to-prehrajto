@@ -25949,17 +25949,19 @@
       }
     },
     "1030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32221030",
+          "target_video_id": "30708694",
+          "permanent": false,
+          "attempted_at": "2026-11-01T22:40:07.013433+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32221030",
         "display_name": "Source Code 4K CZ Dabing",
         "planned_at": "2026-11-01T22:23:12.778723+00:00"
-      },
-      "claim": {
-        "worker_id": "d68f8b03c5b1488a93d8885fd04f6b14-shard-0",
-        "claimed_at": "2026-11-01T22:23:12.871394+00:00",
-        "lease_expires_at": "2026-11-02T04:23:12.871394+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30708694",
       "prepared": {
@@ -53373,5 +53375,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T22:23:16.146051+00:00"
+  "updated_at": "2026-11-01T22:40:07.013454+00:00"
 }
