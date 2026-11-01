@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-01T15:27:58.076227+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-01T15:58:16.790434+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-01T16:29:41.285422+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:00:31.274038+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "9570add0bea74bcf9de18ebb93f974d4-shard-0",
-        "claimed_at": "2026-11-01T18:00:23.561835+00:00",
-        "lease_expires_at": "2026-11-02T00:00:23.561835+00:00",
-        "run_id": "41331089141"
       }
     },
     "21690": {
@@ -11118,7 +11112,7 @@
       "last_plan": {
         "source_id": "32388547",
         "display_name": "One Battle After Another 4K CZ Titulky",
-        "planned_at": "2026-11-01T16:29:47.005762+00:00"
+        "planned_at": "2026-11-01T18:00:30.037564+00:00"
       },
       "previous_target_id": "30681595",
       "prepared": {
@@ -11126,6 +11120,12 @@
         "size_bytes": 18100000000,
         "prepared_at": "2026-11-01T00:33:09.657864+00:00",
         "relay_source_id": "32388547"
+      },
+      "claim": {
+        "worker_id": "abe0a6a9b79247e9b295904a057dfcac-shard-0",
+        "claimed_at": "2026-11-01T18:00:30.135920+00:00",
+        "lease_expires_at": "2026-11-02T00:00:30.135920+00:00",
+        "run_id": "41331089141"
       }
     },
     "822": {
@@ -12418,7 +12418,7 @@
       "last_plan": {
         "source_id": "14638598",
         "display_name": "Ludo (लूडो) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T18:00:23.807120+00:00"
+        "planned_at": "2026-11-01T18:00:30.101184+00:00"
       }
     },
     "11499": {
@@ -39268,5 +39268,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:00:28.411533+00:00"
+  "updated_at": "2026-11-01T18:00:31.274057+00:00"
 }
