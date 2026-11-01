@@ -21283,17 +21283,19 @@
       }
     },
     "664": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33192442",
+          "target_video_id": "30689266",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:21:50.207995+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33192442",
         "display_name": "The Naked Gun: From the Files of Police Squad! 4K CZ Dabing",
         "planned_at": "2026-11-01T08:09:14.919064+00:00"
-      },
-      "claim": {
-        "worker_id": "2b21fdf1292e4d298bdc005934d14217-shard-0",
-        "claimed_at": "2026-11-01T08:09:15.039111+00:00",
-        "lease_expires_at": "2026-11-01T14:09:15.039111+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30689266",
       "prepared": {
@@ -46018,5 +46020,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:12:18.299186+00:00"
+  "updated_at": "2026-11-01T08:21:50.208011+00:00"
 }
