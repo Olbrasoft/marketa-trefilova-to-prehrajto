@@ -19367,13 +19367,6 @@
           "source_id": "20899223",
           "target_video_id": "30679487",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:58:10.423061+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20899223",
-          "target_video_id": "30679487",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:32:52.533277+00:00"
         },
         {
@@ -19382,6 +19375,13 @@
           "target_video_id": "30679487",
           "permanent": false,
           "attempted_at": "2026-11-01T01:05:45.232220+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20899223",
+          "target_video_id": "30679487",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:31:56.439922+00:00"
         }
       ],
       "last_plan": {
@@ -19395,12 +19395,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-10-31T21:42:45.365203+00:00",
         "relay_source_id": "20899223"
-      },
-      "claim": {
-        "worker_id": "55a8cbd4b6fa443f8465671bfcedbf98-shard-0",
-        "claimed_at": "2026-11-01T03:31:53.679613+00:00",
-        "lease_expires_at": "2026-11-01T09:31:53.679613+00:00",
-        "run_id": "41265153510"
       }
     },
     "21845": {
@@ -19931,7 +19925,7 @@
       "last_plan": {
         "source_id": "33551906",
         "display_name": "The Butterfly Effect 4K CZ Dabing",
-        "planned_at": "2026-11-01T01:05:46.643174+00:00"
+        "planned_at": "2026-11-01T03:31:55.226984+00:00"
       },
       "previous_target_id": "30681035",
       "prepared": {
@@ -19939,6 +19933,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-10-31T23:49:03.748420+00:00",
         "relay_source_id": "33551906"
+      },
+      "claim": {
+        "worker_id": "4691838f656042d4b936aac92e343a81-shard-0",
+        "claimed_at": "2026-11-01T03:31:55.480297+00:00",
+        "lease_expires_at": "2026-11-01T09:31:55.480297+00:00",
+        "run_id": "41265153510"
       }
     },
     "816": {
@@ -20354,7 +20354,7 @@
       "last_plan": {
         "source_id": "32046868",
         "display_name": "F1 1080p CZ Dabing",
-        "planned_at": "2026-11-01T03:31:53.513130+00:00"
+        "planned_at": "2026-11-01T03:31:55.315786+00:00"
       }
     },
     "809": {
@@ -44136,5 +44136,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:31:53.933375+00:00"
+  "updated_at": "2026-11-01T03:31:56.439938+00:00"
 }
