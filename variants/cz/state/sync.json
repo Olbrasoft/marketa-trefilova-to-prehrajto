@@ -23148,17 +23148,19 @@
       }
     },
     "743": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33065571",
+          "target_video_id": "30699381",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:50:15.426108+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33065571",
         "display_name": "The Little Prince (2015) 1080p CZ Dabing",
         "planned_at": "2026-11-01T15:42:21.100832+00:00"
-      },
-      "claim": {
-        "worker_id": "c2c1a551cd9b47599cf4b2674bf47d38-shard-0",
-        "claimed_at": "2026-11-01T15:42:21.229729+00:00",
-        "lease_expires_at": "2026-11-01T21:42:21.229729+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699381",
       "prepared": {
@@ -49669,5 +49671,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:42:24.730145+00:00"
+  "updated_at": "2026-11-01T15:50:15.426125+00:00"
 }
