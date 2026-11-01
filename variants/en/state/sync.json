@@ -2072,13 +2072,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:54:55.184114+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:29:13.819792+00:00"
         },
         {
@@ -2087,6 +2080,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-01T01:03:25.128350+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:30:08.836627+00:00"
         }
       ],
       "last_plan": {
@@ -2100,12 +2100,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "64548419682d48698ebcadddc5b46763-shard-0",
-        "claimed_at": "2026-11-01T03:30:04.186074+00:00",
-        "lease_expires_at": "2026-11-01T09:30:04.186074+00:00",
-        "run_id": "41265153510"
       }
     },
     "21690": {
@@ -9896,7 +9890,7 @@
       "last_plan": {
         "source_id": "31527189",
         "display_name": "How to Train Your Dragon (2025) 4K CZ Titulky",
-        "planned_at": "2026-11-01T01:03:31.977887+00:00"
+        "planned_at": "2026-11-01T03:30:08.147907+00:00"
       },
       "previous_target_id": "30670866",
       "prepared": {
@@ -9904,6 +9898,12 @@
         "size_bytes": 6000000000,
         "prepared_at": "2026-10-31T15:04:37.969787+00:00",
         "relay_source_id": "31527189"
+      },
+      "claim": {
+        "worker_id": "b020fce6e89f4929903335eb72ae37d8-shard-0",
+        "claimed_at": "2026-11-01T03:30:08.263880+00:00",
+        "lease_expires_at": "2026-11-01T09:30:08.263880+00:00",
+        "run_id": "41265153510"
       }
     },
     "652": {
@@ -11029,7 +11029,7 @@
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T03:30:05.730087+00:00"
+        "planned_at": "2026-11-01T03:30:08.224658+00:00"
       }
     },
     "36656": {
@@ -34804,5 +34804,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:30:06.496677+00:00"
+  "updated_at": "2026-11-01T03:30:08.836645+00:00"
 }
