@@ -12913,17 +12913,19 @@
       "attempts": []
     },
     "24784": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16980032",
+          "target_video_id": "30704838",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:35:46.569589+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16980032",
         "display_name": "Carandiru 720p CZ Titulky",
         "planned_at": "2026-11-01T19:28:24.329332+00:00"
-      },
-      "claim": {
-        "worker_id": "8935c95bd6e34c0cb643381f26d99978-shard-0",
-        "claimed_at": "2026-11-01T19:28:24.365025+00:00",
-        "lease_expires_at": "2026-11-02T01:28:24.365025+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30704838",
       "prepared": {
@@ -39989,5 +39991,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:35:26.750652+00:00"
+  "updated_at": "2026-11-01T19:35:46.569608+00:00"
 }
