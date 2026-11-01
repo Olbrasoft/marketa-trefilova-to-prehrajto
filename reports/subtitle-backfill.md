@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:21:37.600253+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:21:41.634103+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 136, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 35, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 137, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -60,7 +60,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 43. Důvo
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [14 Peaks: Nothing Is Impossible 1080p CZ Titulky](https://prehraj.to/14-peaks-nothing-is-impossible-1080p-cz-titulky-mkv/567627d76cd3e87e) (ID 30675715) | [Sdílej 34982939](https://sdilej.cz/34982939/14-vrcholu-nic-neni-nemozne-2021-cz-titulky-.mkv) | target_unavailable | 2026-10-31T19:14:00.591373+00:00 |
 | [3:10 to Yuma (2007) 1080p CZ Titulky](https://prehraj.to/3-10-to-yuma-2007-1080p-cz-titulky-mkv/ee8aaa6153e5b651) (ID 30683719) | [Sdílej 13380014](https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv) | target_unavailable | 2026-11-01T03:49:58.772078+00:00 |
 | [A Man Called Ove (En man som heter Ove) 1080p CZ Titulky](https://prehraj.to/a-man-called-ove-en-man-som-heter-ove-1080p-cz-titulky-mkv/c2845d929d2d9149) (ID 30674421) | [Sdílej 28441861](https://sdilej.cz/28441861/muz-jmenem-ove.mkv) | target_unavailable | 2026-11-01T04:21:22.725455+00:00 |
 | [Boyhood 720p CZ Titulky](https://prehraj.to/boyhood-720p-cz-titulky-mkv/79660e5c4be4e821) (ID 30678252) | [Sdílej 32842128](https://sdilej.cz/32842128/chlapectvi-2014-drama-usa-czdab-bluray.hd.mkv) | target_unavailable | 2026-10-31T20:55:54.844052+00:00 |
