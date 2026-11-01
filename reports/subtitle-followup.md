@@ -252,3 +252,4 @@ Attach subtitles only after target processing has finished.
 | City of Life and Death (Nanjing! Nanjing!) 1080p CZ Titulky | 30703611 | https://sdilej.cz/27751348/nanking-nanking-cina-2009-chuan-lu-bluray.1080p.dts.en.cz.sub.mkv | Extract Czech track from exact source after processing |
 | The Cure (1995) 1080p CZ Titulky | 30703801 | https://sdilej.cz/29771115/the-cure-1995-1080p-hdtv-ac3-x264-majo.mkv | Extract Czech track from exact source after processing |
 | Nirvanna the Band the Show the Movie SD CZ Titulky | 30704201 | https://sdilej.cz/33745604/nirvanna-the-band-the-show-the-movie-2025-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Bloody Sunday 1080p CZ Titulky | 30704538 | https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv | Extract Czech track from exact source after processing |
