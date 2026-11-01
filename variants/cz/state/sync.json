@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-01T16:00:06.762411+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-01T16:31:39.556529+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-01T18:01:54.626001+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:35:22.941287+00:00"
         }
       ],
       "last_plan": {
@@ -6955,12 +6955,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "1a9882f200914a54b144f711a9775ded-shard-0",
-        "claimed_at": "2026-11-01T18:35:20.285138+00:00",
-        "lease_expires_at": "2026-11-02T00:35:20.285138+00:00",
-        "run_id": "41331089141"
       }
     },
     "321": {
@@ -22188,7 +22182,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-01T18:01:56.053859+00:00"
+        "planned_at": "2026-11-01T18:35:22.552130+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22196,6 +22190,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "2538f666460b4045940e453d5bea1e14-shard-0",
+        "claimed_at": "2026-11-01T18:35:22.796877+00:00",
+        "lease_expires_at": "2026-11-02T00:35:22.796877+00:00",
+        "run_id": "41331089141"
       }
     },
     "730": {
@@ -24169,7 +24169,7 @@
       "last_plan": {
         "source_id": "30780685",
         "display_name": "Jeremiah Johnson 1080p CZ Dabing",
-        "planned_at": "2026-11-01T18:35:20.118812+00:00"
+        "planned_at": "2026-11-01T18:35:22.637724+00:00"
       }
     },
     "27935": {
@@ -51188,5 +51188,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:35:21.111630+00:00"
+  "updated_at": "2026-11-01T18:35:22.941305+00:00"
 }
