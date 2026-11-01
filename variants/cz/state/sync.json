@@ -25386,17 +25386,19 @@
       "attempts": []
     },
     "21434": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31576262",
+          "target_video_id": "30705552",
+          "permanent": false,
+          "attempted_at": "2026-11-01T20:00:31.766095+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31576262",
         "display_name": "Mister Roberts SD CZ Dabing",
         "planned_at": "2026-11-01T19:58:19.262497+00:00"
-      },
-      "claim": {
-        "worker_id": "9d163f748fc14758ab8158617b2fd2f8-shard-0",
-        "claimed_at": "2026-11-01T19:58:19.395398+00:00",
-        "lease_expires_at": "2026-11-02T01:58:19.395398+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705552",
       "prepared": {
@@ -52399,5 +52401,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:59:52.685297+00:00"
+  "updated_at": "2026-11-01T20:00:31.766112+00:00"
 }
