@@ -244,3 +244,4 @@ Attach subtitles only after target processing has finished.
 | The Station Agent 1080p CZ Titulky | 30699097 | https://sdilej.cz/33555723/the-station-agent-2003-1080p-web-dl-x265-10bit-aac-5.1-afm72-.mkv | Extract Czech track from exact source after processing |
 | Transformers One 1080p CZ Titulky | 30699593 | https://sdilej.cz/30039022/transformers.one.web-dl.en.5.1.titulky.cz.2024.1080p.mkv | Extract Czech track from exact source after processing |
 | The Unknown Soldier (Tuntematon sotilas) 1080p CZ Titulky | 30699780 | https://sdilej.cz/9356262/neznamy-vojak-tuntematon-sotilas-2017-titulky.cz-1080p-hd.mkv | Extract Czech track from exact source after processing |
+| Rental Family 1080p CZ Titulky | 30699789 | https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4 | Extract Czech track from exact source after processing |
