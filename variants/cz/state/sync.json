@@ -25284,17 +25284,19 @@
       "attempts": []
     },
     "21400": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34133651",
+          "target_video_id": "30705489",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:58:14.418607+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34133651",
         "display_name": "Johnny Guitar 720p CZ Dabing",
         "planned_at": "2026-11-01T19:55:10.141042+00:00"
-      },
-      "claim": {
-        "worker_id": "63a75330a70548b5a57dce525fef1ab7-shard-0",
-        "claimed_at": "2026-11-01T19:55:11.899260+00:00",
-        "lease_expires_at": "2026-11-02T01:55:11.899260+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705489",
       "prepared": {
@@ -52352,5 +52354,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:57:31.756289+00:00"
+  "updated_at": "2026-11-01T19:58:14.418625+00:00"
 }
