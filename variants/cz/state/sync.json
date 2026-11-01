@@ -23924,17 +23924,19 @@
       "attempts": []
     },
     "770": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26416604",
+          "target_video_id": "30702945",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:16:29.102818+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26416604",
         "display_name": "Le Dîner de Cons 1080p CZ Dabing",
         "planned_at": "2026-11-01T18:13:22.511415+00:00"
-      },
-      "claim": {
-        "worker_id": "21e34efd26d74d23a2d80d4803c98b91-shard-0",
-        "claimed_at": "2026-11-01T18:13:22.656011+00:00",
-        "lease_expires_at": "2026-11-02T00:13:22.656011+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30702945",
       "prepared": {
@@ -51030,5 +51032,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:15:50.643593+00:00"
+  "updated_at": "2026-11-01T18:16:29.102835+00:00"
 }
