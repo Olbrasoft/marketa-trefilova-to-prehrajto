@@ -22583,17 +22583,19 @@
       }
     },
     "736": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34118752",
+          "target_video_id": "30695893",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:52:35.383579+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34118752",
         "display_name": "Volver 1080p CZ Dabing",
         "planned_at": "2026-11-01T13:45:46.514045+00:00"
-      },
-      "claim": {
-        "worker_id": "c55f924f42f345268aff3fd57af3e6b6-shard-0",
-        "claimed_at": "2026-11-01T13:45:46.636448+00:00",
-        "lease_expires_at": "2026-11-01T19:45:46.636448+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695893",
       "prepared": {
@@ -48735,5 +48737,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:50:57.258693+00:00"
+  "updated_at": "2026-11-01T13:52:35.383595+00:00"
 }
