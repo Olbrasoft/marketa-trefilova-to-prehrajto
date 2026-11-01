@@ -22410,17 +22410,19 @@
       "attempts": []
     },
     "737": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18934288",
+          "target_video_id": "30695100",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:09:34.359619+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18934288",
         "display_name": "Glengarry Glen Ross 1080p CZ Dabing",
         "planned_at": "2026-11-01T12:57:22.821311+00:00"
-      },
-      "claim": {
-        "worker_id": "defce781ac6c4ff18215bbc58a4a1b9d-shard-0",
-        "claimed_at": "2026-11-01T12:57:23.055502+00:00",
-        "lease_expires_at": "2026-11-01T18:57:23.055502+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695100",
       "prepared": {
@@ -48329,5 +48331,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T12:57:27.204463+00:00"
+  "updated_at": "2026-11-01T13:09:34.359636+00:00"
 }
