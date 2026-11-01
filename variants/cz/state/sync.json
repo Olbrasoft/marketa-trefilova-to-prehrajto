@@ -21254,17 +21254,19 @@
       }
     },
     "22858": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34468439",
+          "target_video_id": "30689189",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:10:36.939095+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34468439",
         "display_name": "The Fly (1986) 1080p CZ Dabing",
         "planned_at": "2026-11-01T08:06:13.078370+00:00"
-      },
-      "claim": {
-        "worker_id": "d87d421e6ff54349a28e2ac6c3da8d68-shard-0",
-        "claimed_at": "2026-11-01T08:06:13.187881+00:00",
-        "lease_expires_at": "2026-11-01T14:06:13.187881+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30689189",
       "prepared": {
@@ -45972,5 +45974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:10:07.187221+00:00"
+  "updated_at": "2026-11-01T08:10:36.939114+00:00"
 }
