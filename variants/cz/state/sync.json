@@ -23885,17 +23885,19 @@
       }
     },
     "10717": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11848709",
+          "target_video_id": "30702891",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:13:17.968663+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11848709",
         "display_name": "Shane (1953) SD CZ Dabing",
         "planned_at": "2026-11-01T18:11:18.116174+00:00"
-      },
-      "claim": {
-        "worker_id": "22f147b16ed3430eb2a9e8c3a18ef631-shard-0",
-        "claimed_at": "2026-11-01T18:11:18.245238+00:00",
-        "lease_expires_at": "2026-11-02T00:11:18.245238+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30702891",
       "prepared": {
@@ -50754,5 +50756,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:11:22.421597+00:00"
+  "updated_at": "2026-11-01T18:13:17.968681+00:00"
 }
