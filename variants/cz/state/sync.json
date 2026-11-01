@@ -22894,17 +22894,19 @@
       }
     },
     "11047": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33563669",
+          "target_video_id": "30697979",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:10:57.391118+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33563669",
         "display_name": "Duel 4K CZ Dabing",
         "planned_at": "2026-11-01T14:55:09.897303+00:00"
-      },
-      "claim": {
-        "worker_id": "a5baf282d03240bea8d8c3a17619ff27-shard-0",
-        "claimed_at": "2026-11-01T14:55:10.017161+00:00",
-        "lease_expires_at": "2026-11-01T20:55:10.017161+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30697979",
       "prepared": {
@@ -49285,5 +49287,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:05:47.382175+00:00"
+  "updated_at": "2026-11-01T15:10:57.391144+00:00"
 }
