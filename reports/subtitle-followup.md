@@ -168,6 +168,7 @@ Attach subtitles only after target processing has finished.
 | Obsession (2026) 4K CZ Titulky | 30705956 | https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv | Extract Czech track from exact source after processing |
 | Hidden Figures 1080p CZ Titulky | 30706154 | https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Walk the Line 1080p CZ Titulky | 30650875 | https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Complete: Czech subtitles verified |
+| Straight Outta Compton 1080p CZ Titulky | 30707982 | https://sdilej.cz/5724266/straight-outta-compton-2015-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Tombstone 1080p CZ Titulky | 30651900 | https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
 | Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky | 30652651 | https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv | Complete: Czech subtitles verified |
