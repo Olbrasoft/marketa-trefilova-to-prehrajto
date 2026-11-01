@@ -20580,17 +20580,19 @@
       }
     },
     "733": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30820698",
+          "target_video_id": "30684288",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:32:06.085501+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30820698",
         "display_name": "Toy Story 4 1080p CZ Dabing",
         "planned_at": "2026-11-01T04:27:23.084978+00:00"
-      },
-      "claim": {
-        "worker_id": "5ca8c6b627404da1ac5f3cf02536e37d-shard-0",
-        "claimed_at": "2026-11-01T04:27:23.226728+00:00",
-        "lease_expires_at": "2026-11-01T10:27:23.226728+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30684288",
       "prepared": {
@@ -44584,5 +44586,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:27:26.209996+00:00"
+  "updated_at": "2026-11-01T04:32:06.085517+00:00"
 }
