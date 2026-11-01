@@ -6547,18 +6547,19 @@
           "reason": "Request failed for https://sdilej.cz/29249134/maltezsky-sokol-the-maltese-falcon-1941-bluray-cz-daing.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-30T17:49:53.200898+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29249134",
+          "target_video_id": "30705059",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:43:29.676469+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29249134",
         "display_name": "The Maltese Falcon 1080p CZ Titulky",
         "planned_at": "2026-11-01T19:35:22.122948+00:00"
-      },
-      "claim": {
-        "worker_id": "35ca57f3bea440dbaefbf62337e02aa4-shard-0",
-        "claimed_at": "2026-11-01T19:35:22.157636+00:00",
-        "lease_expires_at": "2026-11-02T01:35:22.157636+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705059",
       "prepared": {
@@ -40002,5 +40003,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:41:11.411530+00:00"
+  "updated_at": "2026-11-01T19:43:29.676487+00:00"
 }
