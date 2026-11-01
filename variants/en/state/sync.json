@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-01T14:47:56.052202+00:00"
+        "planned_at": "2026-11-01T15:28:03.112525+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "9537788f52344d84883b9e0504ece239-shard-0",
+        "claimed_at": "2026-11-01T15:28:03.214683+00:00",
+        "lease_expires_at": "2026-11-01T21:28:03.214683+00:00",
+        "run_id": "41306377044"
       }
     },
     "21312": {
@@ -11092,13 +11098,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-01T13:31:12.767088+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-01T14:12:15.762570+00:00"
         },
         {
@@ -11107,6 +11106,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-01T14:47:54.434499+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:28:04.886944+00:00"
         }
       ],
       "last_plan": {
@@ -12101,7 +12107,7 @@
       "last_plan": {
         "source_id": "33555723",
         "display_name": "The Station Agent 1080p CZ Titulky",
-        "planned_at": "2026-11-01T15:28:01.533517+00:00"
+        "planned_at": "2026-11-01T15:28:03.178565+00:00"
       }
     },
     "684": {
@@ -38629,5 +38635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:28:01.533536+00:00"
+  "updated_at": "2026-11-01T15:28:04.886963+00:00"
 }
