@@ -25758,17 +25758,19 @@
       "attempts": []
     },
     "977": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34399557",
+          "target_video_id": "30707489",
+          "permanent": false,
+          "attempted_at": "2026-11-01T21:45:15.617243+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34399557",
         "display_name": "Baby Driver 4K CZ Dabing",
         "planned_at": "2026-11-01T21:23:08.588206+00:00"
-      },
-      "claim": {
-        "worker_id": "2da8e81c1f394e048f87edc0c0587b59-shard-0",
-        "claimed_at": "2026-11-01T21:23:08.726660+00:00",
-        "lease_expires_at": "2026-11-02T03:23:08.726660+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30707489",
       "prepared": {
@@ -52980,5 +52982,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T21:45:14.306875+00:00"
+  "updated_at": "2026-11-01T21:45:15.617261+00:00"
 }
