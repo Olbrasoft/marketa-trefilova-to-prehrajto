@@ -21797,17 +21797,19 @@
       "attempts": []
     },
     "811": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26239608",
+          "target_video_id": "30691545",
+          "permanent": false,
+          "attempted_at": "2026-11-01T10:04:09.210520+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26239608",
         "display_name": "The Skin I Live In (La piel que habito) 1080p CZ Dabing",
         "planned_at": "2026-11-01T09:57:06.215930+00:00"
-      },
-      "claim": {
-        "worker_id": "f9fab209f8154b7e9b782b9471b0b122-shard-0",
-        "claimed_at": "2026-11-01T09:57:06.326770+00:00",
-        "lease_expires_at": "2026-11-01T15:57:06.326770+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30691545",
       "prepared": {
@@ -46970,5 +46972,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:00:30.136251+00:00"
+  "updated_at": "2026-11-01T10:04:09.210539+00:00"
 }
