@@ -6556,13 +6556,6 @@
     "21234": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "29249134",
-          "reason": "Request failed for https://sdilej.cz/29249134/maltezsky-sokol-the-maltese-falcon-1941-bluray-cz-daing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-30T17:49:53.200898+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "29249134",
           "target_video_id": "30705059",
@@ -6575,12 +6568,19 @@
           "target_video_id": "30705059",
           "permanent": false,
           "attempted_at": "2026-11-01T20:13:51.727712+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29249134",
+          "target_video_id": "30705059",
+          "permanent": false,
+          "attempted_at": "2026-11-01T20:47:32.984331+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29249134",
         "display_name": "The Maltese Falcon 1080p CZ Titulky",
-        "planned_at": "2026-11-01T20:13:50.661685+00:00"
+        "planned_at": "2026-11-01T20:47:31.382401+00:00"
       },
       "previous_target_id": "30705059",
       "prepared": {
@@ -13268,7 +13268,7 @@
       "last_plan": {
         "source_id": "32925478",
         "display_name": "Harry Potter and the Chamber of Secrets 4K CZ Titulky",
-        "planned_at": "2026-11-01T20:47:26.924369+00:00"
+        "planned_at": "2026-11-01T20:47:31.449037+00:00"
       }
     },
     "1051": {
@@ -40240,5 +40240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T20:47:27.780251+00:00"
+  "updated_at": "2026-11-01T20:47:32.984351+00:00"
 }
