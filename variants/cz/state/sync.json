@@ -24594,17 +24594,19 @@
       }
     },
     "13091": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26427341",
+          "target_video_id": "30704241",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:05:25.487507+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26427341",
         "display_name": "Conspiracy (2001) 1080p CZ Dabing",
         "planned_at": "2026-11-01T19:02:31.447510+00:00"
-      },
-      "claim": {
-        "worker_id": "16845ab1ed3740968349605a1adbc70d-shard-0",
-        "claimed_at": "2026-11-01T19:02:31.582995+00:00",
-        "lease_expires_at": "2026-11-02T01:02:31.582995+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30704241",
       "prepared": {
@@ -51508,5 +51510,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:02:35.596200+00:00"
+  "updated_at": "2026-11-01T19:05:25.487526+00:00"
 }
