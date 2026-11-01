@@ -3153,6 +3153,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "12828980456145e69493f00c688f32fb-shard-0",
+        "claimed_at": "2026-11-01T03:30:01.450926+00:00",
+        "lease_expires_at": "2026-11-01T09:30:01.450926+00:00",
+        "run_id": "41265153510"
       }
     },
     "31551": {
@@ -9480,13 +9486,6 @@
           "source_id": "28240998",
           "target_video_id": "30664033",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:55:11.697467+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28240998",
-          "target_video_id": "30664033",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:29:16.522447+00:00"
         },
         {
@@ -9495,12 +9494,19 @@
           "target_video_id": "30664033",
           "permanent": false,
           "attempted_at": "2026-11-01T01:03:23.843960+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28240998",
+          "target_video_id": "30664033",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:30:02.775949+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28240998",
         "display_name": "Poor Things 1080p CZ Titulky",
-        "planned_at": "2026-11-01T01:03:22.371425+00:00"
+        "planned_at": "2026-11-01T03:30:01.650537+00:00"
       },
       "previous_target_id": "30664033",
       "prepared": {
@@ -11017,7 +11023,7 @@
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T03:30:00.185193+00:00"
+        "planned_at": "2026-11-01T03:30:01.723162+00:00"
       }
     },
     "36656": {
@@ -34792,5 +34798,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:30:00.185209+00:00"
+  "updated_at": "2026-11-01T03:30:02.775969+00:00"
 }
