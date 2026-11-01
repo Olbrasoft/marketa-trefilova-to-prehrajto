@@ -230,3 +230,4 @@ Attach subtitles only after target processing has finished.
 | Stardust 1080p CZ Titulky | 30686497 | https://sdilej.cz/29920789/stardust.2007.1080p.bluray.x265.en-cz.mkv | Complete: Czech subtitles verified |
 | Snow White and the Seven Dwarfs 1080p CZ Titulky | 30688075 | https://sdilej.cz/30770863/snehurka-a-sedm-trpasliku-animovany-1937-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
 | Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky | 30688969 | https://sdilej.cz/35072040/godzilla.minus.one.a.k.a.gojira.-1.0.2023.japanese.1080p.10bit.bluray.8ch.x265.hevc-psa-cztitulky-.mkv | Extract Czech track from exact source after processing |
+| What We Do in the Shadows 1080p CZ Titulky | 30689658 | https://sdilej.cz/13336214/what-we-do-in-the.shadows-en-vlozene-titulky-2014-horror-1080p-pg-.mkv | Extract Czech track from exact source after processing |
