@@ -22989,17 +22989,19 @@
       }
     },
     "21310": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25404711",
+          "target_video_id": "30698483",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:27:47.422424+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25404711",
         "display_name": "Twelve O'Clock High 1080p CZ Dabing",
         "planned_at": "2026-11-01T15:11:02.118253+00:00"
-      },
-      "claim": {
-        "worker_id": "6b083187177c4a90b4e8207411f069e6-shard-0",
-        "claimed_at": "2026-11-01T15:11:02.266373+00:00",
-        "lease_expires_at": "2026-11-01T21:11:02.266373+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30698483",
       "prepared": {
@@ -49560,5 +49562,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:27:44.687848+00:00"
+  "updated_at": "2026-11-01T15:27:47.422445+00:00"
 }
