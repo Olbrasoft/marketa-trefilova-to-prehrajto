@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-01T00:30:33.165650+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-01T01:04:22.883636+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-01T03:31:02.302124+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:25:28.061263+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "799838e1c4fc448a8323e4b874157f1e-shard-0",
-        "claimed_at": "2026-11-01T04:25:25.577658+00:00",
-        "lease_expires_at": "2026-11-01T10:25:25.577658+00:00",
-        "run_id": "41265153510"
       }
     },
     "229": {
@@ -8032,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-01T03:31:02.355062+00:00"
+        "planned_at": "2026-11-01T04:25:26.740620+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8040,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "e81676bb8fa049f993c14d53ff51647c-shard-0",
+        "claimed_at": "2026-11-01T04:25:27.071467+00:00",
+        "lease_expires_at": "2026-11-01T10:25:27.071467+00:00",
+        "run_id": "41265153510"
       }
     },
     "10690": {
@@ -20519,7 +20519,7 @@
       "last_plan": {
         "source_id": "28564420",
         "display_name": "The Royal Tenenbaums 1080p CZ Dabing",
-        "planned_at": "2026-11-01T04:25:24.243788+00:00"
+        "planned_at": "2026-11-01T04:25:26.831330+00:00"
       }
     },
     "31321": {
@@ -20530,7 +20530,7 @@
       "last_plan": {
         "source_id": "31222883",
         "display_name": "Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Dabing",
-        "planned_at": "2026-11-01T04:25:19.544865+00:00"
+        "planned_at": "2026-11-01T04:25:26.875162+00:00"
       }
     },
     "733": {
@@ -44520,5 +44520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:25:25.577692+00:00"
+  "updated_at": "2026-11-01T04:25:28.061280+00:00"
 }
