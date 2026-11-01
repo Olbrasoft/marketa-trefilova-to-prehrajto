@@ -24694,17 +24694,19 @@
       }
     },
     "574": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30853841",
+          "target_video_id": "30704395",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:13:21.280220+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30853841",
         "display_name": "Steven Universe: The Movie 1080p CZ Dabing",
         "planned_at": "2026-11-01T19:08:40.063798+00:00"
-      },
-      "claim": {
-        "worker_id": "608c55e7d93b448386af385104d8396c-shard-0",
-        "claimed_at": "2026-11-01T19:08:40.199974+00:00",
-        "lease_expires_at": "2026-11-02T01:08:40.199974+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30704395",
       "prepared": {
@@ -51632,5 +51634,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:11:25.820100+00:00"
+  "updated_at": "2026-11-01T19:13:21.280238+00:00"
 }
