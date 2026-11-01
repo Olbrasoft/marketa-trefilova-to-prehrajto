@@ -21897,17 +21897,19 @@
       }
     },
     "20192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34698747",
+          "target_video_id": "30691804",
+          "permanent": false,
+          "attempted_at": "2026-11-01T10:15:35.094836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34698747",
         "display_name": "The Deepest Breath 1080p CZ Dabing",
         "planned_at": "2026-11-01T10:07:16.104702+00:00"
-      },
-      "claim": {
-        "worker_id": "5936ac444fc84098abc09f9245e37812-shard-0",
-        "claimed_at": "2026-11-01T10:07:16.231131+00:00",
-        "lease_expires_at": "2026-11-01T16:07:16.231131+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30691804",
       "prepared": {
@@ -47029,5 +47031,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:07:19.783681+00:00"
+  "updated_at": "2026-11-01T10:15:35.094852+00:00"
 }
