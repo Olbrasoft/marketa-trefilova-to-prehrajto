@@ -2104,7 +2104,7 @@
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:15:53.122261+00:00"
+        "planned_at": "2026-11-01T07:47:51.235584+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -2112,6 +2112,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "0744d641a9b94715beab36bdcd278be8-shard-0",
+        "claimed_at": "2026-11-01T07:47:51.329974+00:00",
+        "lease_expires_at": "2026-11-01T13:47:51.329974+00:00",
+        "run_id": "41284517775"
       }
     },
     "21690": {
@@ -3155,13 +3161,6 @@
           "source_id": "29080724",
           "target_video_id": "30612474",
           "permanent": false,
-          "attempted_at": "2026-11-01T06:09:40.041957+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29080724",
-          "target_video_id": "30612474",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:39:53.101053+00:00"
         },
         {
@@ -3170,6 +3169,13 @@
           "target_video_id": "30612474",
           "permanent": false,
           "attempted_at": "2026-11-01T07:15:50.670676+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29080724",
+          "target_video_id": "30612474",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:47:53.185041+00:00"
         }
       ],
       "last_plan": {
@@ -3183,12 +3189,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
-      },
-      "claim": {
-        "worker_id": "a4a69150849042788b87c7aa6df60240-shard-0",
-        "claimed_at": "2026-11-01T07:47:49.561971+00:00",
-        "lease_expires_at": "2026-11-01T13:47:49.561971+00:00",
-        "run_id": "41284517775"
       }
     },
     "31551": {
@@ -11421,7 +11421,7 @@
       "last_plan": {
         "source_id": "35072040",
         "display_name": "Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:47:49.531154+00:00"
+        "planned_at": "2026-11-01T07:47:51.299390+00:00"
       }
     },
     "22858": {
@@ -36099,5 +36099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:47:49.725159+00:00"
+  "updated_at": "2026-11-01T07:47:53.185102+00:00"
 }
