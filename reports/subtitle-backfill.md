@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:30:27.295587+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:30:29.202119+00:00
 
 Zkontrolováno videí: 222. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 137, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 137, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 35, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -74,6 +74,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 23. Důvo
 | [Malcolm X 1080p CZ Titulky](https://prehraj.to/malcolm-x-1080p-cz-titulky-mkv/9319f14b90c3f912) (ID 30672234) | [Sdílej 26808273](https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv) | target_unavailable | 2026-11-01T04:21:07.571069+00:00 |
 | [Memento 1080p CZ Titulky](https://prehraj.to/memento-1080p-cz-titulky-mkv/c57ecead896aa1dc) (ID 30676003) | [Sdílej 30657861](https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-10-31T19:24:01.295478+00:00 |
 | [Minority Report 1080p CZ Titulky](https://prehraj.to/minority-report-1080p-cz-titulky-mkv/660ee20de4351d2d) (ID 30680415) | [Sdílej 35402382](https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T22:56:04.129440+00:00 |
+| [Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Titulky](https://prehraj.to/mission-impossible-dead-reckoning-part-one-mission-impossible-dead-reckoning-part-one-4k-cz-titulky-mkv/f7c4fa7a213a7542) (ID 30684282) | [Sdílej 27023564](https://sdilej.cz/27023564/mission.impossible.dead.reckoning.part.one-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-01T04:30:29.202048+00:00 |
 | [My Fair Lady 1080p CZ Titulky](https://prehraj.to/my-fair-lady-1080p-cz-titulky-mkv/3cb9003e3f45f64a) (ID 30673478) | [Sdílej 24371035](https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv) | target_unavailable | 2026-11-01T04:21:11.753509+00:00 |
 | [Once Upon a Time in America 1080p CZ Titulky](https://prehraj.to/once-upon-a-time-in-america-1080p-cz-titulky-mkv/10c52457278170da) (ID 30677049) | [Sdílej 16198758](https://sdilej.cz/16198758/tenkrat-v-americe-once.upon.a.time.in.america.1984.extended.1080p.bluray.x264-cz-dabing.mkv) | target_unavailable | 2026-10-31T20:14:59.130537+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-01T00:37:44.792140+00:00 |
