@@ -21231,17 +21231,19 @@
       }
     },
     "679": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31553486",
+          "target_video_id": "30688780",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:10:01.083485+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31553486",
         "display_name": "Godzilla Minus One (ゴジラ-1.0) 4K CZ Dabing",
         "planned_at": "2026-11-01T07:49:15.211787+00:00"
-      },
-      "claim": {
-        "worker_id": "99caf5081cda4558b64087a3e42f7588-shard-0",
-        "claimed_at": "2026-11-01T07:49:15.328650+00:00",
-        "lease_expires_at": "2026-11-01T13:49:15.328650+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30688780",
       "prepared": {
@@ -45952,5 +45954,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:09:18.167558+00:00"
+  "updated_at": "2026-11-01T08:10:01.083503+00:00"
 }
