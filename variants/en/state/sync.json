@@ -11540,17 +11540,19 @@
       "attempts": []
     },
     "12472": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26981215",
+          "target_video_id": "30690305",
+          "permanent": false,
+          "attempted_at": "2026-11-01T09:12:48.777103+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26981215",
         "display_name": "Rushmore 1080p CZ Titulky",
         "planned_at": "2026-11-01T09:04:17.049422+00:00"
-      },
-      "claim": {
-        "worker_id": "36828e9f436344d096ccfe189248ea45-shard-0",
-        "claimed_at": "2026-11-01T09:04:17.082480+00:00",
-        "lease_expires_at": "2026-11-01T15:04:17.082480+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30690305",
       "prepared": {
@@ -36462,5 +36464,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T09:08:53.571685+00:00"
+  "updated_at": "2026-11-01T09:12:48.777120+00:00"
 }
