@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-01T16:30:33.810995+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-01T18:00:53.342030+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-01T18:34:37.604485+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:06:36.557912+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "8b09286df43e403a854aebf7de78ba0e-shard-0",
-        "claimed_at": "2026-11-01T19:06:33.637330+00:00",
-        "lease_expires_at": "2026-11-02T01:06:33.637330+00:00",
-        "run_id": "41331089141"
       }
     },
     "229": {
@@ -8032,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-01T18:34:36.416405+00:00"
+        "planned_at": "2026-11-01T19:06:36.139429+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8040,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "b762d35b3cbe48fbae919c5d17b8b152-shard-0",
+        "claimed_at": "2026-11-01T19:06:36.349457+00:00",
+        "lease_expires_at": "2026-11-02T01:06:36.349457+00:00",
+        "run_id": "41331089141"
       }
     },
     "10690": {
@@ -24644,7 +24644,7 @@
       "last_plan": {
         "source_id": "28981696",
         "display_name": "Walkabout 1080p CZ Dabing",
-        "planned_at": "2026-11-01T19:06:33.512720+00:00"
+        "planned_at": "2026-11-01T19:06:36.218983+00:00"
       }
     },
     "13541": {
@@ -51535,5 +51535,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:06:34.496247+00:00"
+  "updated_at": "2026-11-01T19:06:36.557932+00:00"
 }
