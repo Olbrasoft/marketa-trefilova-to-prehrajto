@@ -2001,13 +2001,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-01T06:10:04.392003+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-01T06:40:12.979680+00:00"
         },
         {
@@ -2016,12 +2009,19 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-01T07:16:12.606042+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:47:57.418453+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22817696",
         "display_name": "Requiem for a Dream 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:16:11.473360+00:00"
+        "planned_at": "2026-11-01T07:47:56.119694+00:00"
       },
       "previous_target_id": "30676098",
       "prepared": {
@@ -3108,6 +3108,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "8ac9a54db5b44814bb1f7a66ee73db6f-shard-0",
+        "claimed_at": "2026-11-01T07:47:55.961701+00:00",
+        "lease_expires_at": "2026-11-01T13:47:55.961701+00:00",
+        "run_id": "41284517775"
       }
     },
     "21312": {
@@ -11415,7 +11421,7 @@
       "last_plan": {
         "source_id": "35072040",
         "display_name": "Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T07:47:54.727068+00:00"
+        "planned_at": "2026-11-01T07:47:56.178331+00:00"
       }
     },
     "22858": {
@@ -36093,5 +36099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:47:54.727082+00:00"
+  "updated_at": "2026-11-01T07:47:57.418468+00:00"
 }
