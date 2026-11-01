@@ -22514,17 +22514,19 @@
       }
     },
     "15110": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24036317",
+          "target_video_id": "30695738",
+          "permanent": false,
+          "attempted_at": "2026-11-01T13:46:21.871140+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24036317",
         "display_name": "Arrietty (借りぐらしのアリエッティ) 720p CZ Dabing",
         "planned_at": "2026-11-01T13:36:21.926092+00:00"
-      },
-      "claim": {
-        "worker_id": "c078916830d341b6b7c443798f559014-shard-0",
-        "claimed_at": "2026-11-01T13:36:22.045330+00:00",
-        "lease_expires_at": "2026-11-01T19:36:22.045330+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30695738",
       "prepared": {
@@ -48713,5 +48715,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:45:50.106175+00:00"
+  "updated_at": "2026-11-01T13:46:21.871158+00:00"
 }
