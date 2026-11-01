@@ -23071,17 +23071,19 @@
       }
     },
     "684": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34823294",
+          "target_video_id": "30699109",
+          "permanent": false,
+          "attempted_at": "2026-11-01T15:42:16.693340+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34823294",
         "display_name": "All of Us Strangers 1080p CZ Dabing",
         "planned_at": "2026-11-01T15:30:08.307573+00:00"
-      },
-      "claim": {
-        "worker_id": "58089dab65944e77837c871c038349f7-shard-0",
-        "claimed_at": "2026-11-01T15:30:08.455532+00:00",
-        "lease_expires_at": "2026-11-01T21:30:08.455532+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30699109",
       "prepared": {
@@ -49649,5 +49651,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:41:14.238543+00:00"
+  "updated_at": "2026-11-01T15:42:16.693362+00:00"
 }
