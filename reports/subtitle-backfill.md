@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:30:36.740986+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:30:42.241183+00:00
 
 Zkontrolováno videí: 222. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 137, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 35, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 137, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -91,7 +91,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 23. Důvo
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-01T04:10:52.255422+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-01T04:11:40.133365+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-01T04:11:26.132778+00:00 |
-| [The Intouchables (Intouchables) 1080p CZ Titulky](https://prehraj.to/the-intouchables-intouchables-1080p-cz-titulky-mkv/625d26c3d3cedb1c) (ID 30675969) | [Sdílej 13383178](https://sdilej.cz/13383178/nedotknutelni-2011.1080p.bdrip.ac3.dd.5.1.cz.dabing.mkv) | target_unavailable | 2026-10-31T19:23:57.965800+00:00 |
+| [The Intouchables (Intouchables) 1080p CZ Titulky](https://prehraj.to/the-intouchables-intouchables-1080p-cz-titulky-mkv/625d26c3d3cedb1c) (ID 30675969) | [Sdílej 13383178](https://sdilej.cz/13383178/nedotknutelni-2011.1080p.bdrip.ac3.dd.5.1.cz.dabing.mkv) | upload_unconfirmed | 2026-11-01T04:30:42.241142+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T04:02:04.577365+00:00 |
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T04:30:32.789910+00:00 |
 | [The Promised Land (Bastarden) 1080p CZ Titulky](https://prehraj.to/the-promised-land-bastarden-1080p-cz-titulky-mkv/22e2335148025873) (ID 30675383) | [Sdílej 34694735](https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-01T04:21:30.175223+00:00 |
