@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-01T21:19:34.037127+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-01T21:58:41.148349+00:00"
         },
         {
@@ -12324,6 +12317,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-01T22:42:33.750520+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-01T23:25:13.025414+00:00"
         }
       ],
       "last_plan": {
@@ -16814,7 +16814,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-01T22:42:35.129382+00:00"
+        "planned_at": "2026-11-01T23:25:11.888921+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16822,6 +16822,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "b89ae774e9b047698b5d15b24da28c86-shard-0",
+        "claimed_at": "2026-11-01T23:25:12.114580+00:00",
+        "lease_expires_at": "2026-11-02T05:25:12.114580+00:00",
+        "run_id": "41351617669"
       }
     },
     "614": {
@@ -26035,11 +26041,16 @@
       "last_plan": {
         "source_id": "34827547",
         "display_name": "Indiana Jones and the Temple of Doom 4K CZ Dabing",
-        "planned_at": "2026-11-01T23:25:10.071635+00:00"
+        "planned_at": "2026-11-01T23:25:11.946341+00:00"
       }
     },
     "1036": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34355444",
+        "display_name": "Ice Age 4K CZ Dabing",
+        "planned_at": "2026-11-01T23:25:11.976263+00:00"
+      }
     },
     "700": {
       "attempts": []
@@ -53682,5 +53693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T23:25:10.071655+00:00"
+  "updated_at": "2026-11-01T23:25:13.025437+00:00"
 }
