@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:21:33.869366+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:21:37.600253+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 135, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 36, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 136, `attached_verified`: 6, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 35, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -76,7 +76,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 43. Důvo
 | [Memento 1080p CZ Titulky](https://prehraj.to/memento-1080p-cz-titulky-mkv/c57ecead896aa1dc) (ID 30676003) | [Sdílej 30657861](https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-10-31T19:24:01.295478+00:00 |
 | [Minority Report 1080p CZ Titulky](https://prehraj.to/minority-report-1080p-cz-titulky-mkv/660ee20de4351d2d) (ID 30680415) | [Sdílej 35402382](https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-10-31T22:56:04.129440+00:00 |
 | [My Fair Lady 1080p CZ Titulky](https://prehraj.to/my-fair-lady-1080p-cz-titulky-mkv/3cb9003e3f45f64a) (ID 30673478) | [Sdílej 24371035](https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv) | target_unavailable | 2026-11-01T04:21:11.753509+00:00 |
-| [My Hero Academia: Heroes Rising 1080p CZ Titulky](https://prehraj.to/my-hero-academia-heroes-rising-1080p-cz-titulky-mkv/ec8ffdecc428e9dc) (ID 30675522) | [Sdílej 18318002](https://sdilej.cz/18318002/my-hero-academia-heroes-rising-2019-cz-titulky.mkv) | target_unavailable | 2026-10-31T19:03:48.066953+00:00 |
 | [Once Upon a Time in America 1080p CZ Titulky](https://prehraj.to/once-upon-a-time-in-america-1080p-cz-titulky-mkv/10c52457278170da) (ID 30677049) | [Sdílej 16198758](https://sdilej.cz/16198758/tenkrat-v-americe-once.upon.a.time.in.america.1984.extended.1080p.bluray.x264-cz-dabing.mkv) | target_unavailable | 2026-10-31T20:14:59.130537+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-01T00:37:44.792140+00:00 |
 | [Pan's Labyrinth (El laberinto del fauno) 1080p CZ Titulky](https://prehraj.to/pan-s-labyrinth-el-laberinto-del-fauno-1080p-cz-titulky-mkv/bd071a4027ba776d) (ID 30677816) | [Sdílej 31102503](https://sdilej.cz/31102503/faunuv-labyrint-2006-cz-1080p-h265.mkv) | target_unavailable | 2026-10-31T20:35:23.542549+00:00 |
