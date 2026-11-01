@@ -28,7 +28,7 @@ Attach subtitles only after target processing has finished.
 | The Departed 1080p CZ Titulky | 30589626 | https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
 | American History X 1080p CZ Titulky | 30589993 | https://sdilej.cz/28055213/kult-hakoveho-krize-cz.mkv | Complete: Czech subtitles verified |
 | The Usual Suspects 1080p CZ Titulky | 30590050 | https://sdilej.cz/35170968/the.usual.suspects.1995.open.matte.1080p.bluray.dl.eac3.x264-majo.mkv | Complete: Czech subtitles verified |
-| Parasite (기생충) (2019) 1080p CZ Titulky | 30675758 | https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Parasite (기생충) (2019) 1080p CZ Titulky | 30675758 | https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv | Complete: Czech subtitles verified |
 | Whiplash 1080p CZ Titulky | 30590258 | https://sdilej.cz/22962577/whiplash-2014-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
 | The Intouchables (Intouchables) 1080p CZ Titulky | 30675969 | https://sdilej.cz/13383178/nedotknutelni-2011.1080p.bdrip.ac3.dd.5.1.cz.dabing.mkv | Complete: Czech subtitles verified |
 | Casablanca 1080p CZ Titulky | 30590340 | https://sdilej.cz/17447327/casablanca.1942.1080p.bluray.dl.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
@@ -57,7 +57,7 @@ Attach subtitles only after target processing has finished.
 | Lawrence of Arabia 1080p CZ Titulky | 30603287 | https://sdilej.cz/15748784/lawrence-z-arabie-1962.mkv | Complete: Czech subtitles verified |
 | Singin' in the Rain SD | 30677056 | https://sdilej.cz/15908236/zpivani-v-desti-czdab.mp4 | Find and add matching Czech subtitles after processing |
 | Jurassic Park 4K CZ Titulky | 30677093 | https://sdilej.cz/16781576/jursky-park.1993.2160p-cz-dabing.mkv | Extract Czech track from exact source after processing |
-| Reservoir Dogs 720p CZ Titulky | 30677150 | https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| Reservoir Dogs 720p CZ Titulky | 30677150 | https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Oppenheimer 4K CZ Titulky | 30606867 | https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv | Extract Czech track from exact source after processing |
 | Taxi Driver 1080p CZ Titulky | 30607270 | https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
 | Snatch 1080p CZ Titulky | 30677522 | https://sdilej.cz/30945062/snatch-podfuck-2000-en-cz-dabing-1080p.mkv | Extract Czech track from exact source after processing |
@@ -202,8 +202,8 @@ Attach subtitles only after target processing has finished.
 | Ray 1080p CZ Titulky | 30668869 | https://sdilej.cz/22988860/ray.2004.1080p.hd.cz.mkv | Complete: Czech subtitles verified |
 | Kubo and the Two Strings 1080p CZ Titulky | 30669852 | https://sdilej.cz/35402327/kubo.and.the.two.strings.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | How to Train Your Dragon (2025) 4K CZ Titulky | 30670866 | https://sdilej.cz/31527189/how.to.train.your.dragon-2025-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
-| Malcolm X 1080p CZ Titulky | 30672234 | https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| My Fair Lady 1080p CZ Titulky | 30673478 | https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv | Extract Czech track from exact source after processing |
+| Malcolm X 1080p CZ Titulky | 30672234 | https://sdilej.cz/26808273/malcolm-x.-1992-drama-zivotopisny-historicky-1080p.-bdrip.-en-cz-titulky.mkv | Complete: Czech subtitles verified |
+| My Fair Lady 1080p CZ Titulky | 30673478 | https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv | Complete: Czech subtitles verified |
 | Beasts of No Nation 1080p CZ Titulky | 30673675 | https://sdilej.cz/14060782/beasts-of-no-nation-2015-1080p-ddp5.1-x265-en-dab-cz-tit.mkv | Complete: Czech subtitles verified |
 | Sentimental Value 1080p CZ Titulky | 30673875 | https://sdilej.cz/33852285/sentimental-value-citova-hodnota-2025-cz-titulky-aac-5.1-1080p.mkv | Complete: Czech subtitles verified |
 | Perfect Strangers (Perfetti sconosciuti) (2016) 720p CZ Titulky | 30674419 | https://sdilej.cz/27404887/perfetti.sconosciuti.2016.italian.bluray.720p.x264-hdi.mkv | Complete: Czech subtitles verified |
