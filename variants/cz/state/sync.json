@@ -21771,17 +21771,19 @@
       }
     },
     "724": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6470476",
+          "target_video_id": "30691497",
+          "permanent": false,
+          "attempted_at": "2026-11-01T10:00:24.005723+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6470476",
         "display_name": "25th Hour SD CZ Dabing",
         "planned_at": "2026-11-01T09:54:12.050258+00:00"
-      },
-      "claim": {
-        "worker_id": "8c1cbbf2b7f247ce801c38b7f5fcff84-shard-0",
-        "claimed_at": "2026-11-01T09:54:12.227796+00:00",
-        "lease_expires_at": "2026-11-01T15:54:12.227796+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30691497",
       "prepared": {
@@ -46950,5 +46952,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:00:22.649484+00:00"
+  "updated_at": "2026-11-01T10:00:24.005740+00:00"
 }
