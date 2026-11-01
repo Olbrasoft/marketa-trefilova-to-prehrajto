@@ -12050,17 +12050,19 @@
       "attempts": []
     },
     "753": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8588496",
+          "target_video_id": "30697852",
+          "permanent": false,
+          "attempted_at": "2026-11-01T14:57:00.800783+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8588496",
         "display_name": "Only the Brave SD CZ Titulky",
         "planned_at": "2026-11-01T14:51:00.555298+00:00"
-      },
-      "claim": {
-        "worker_id": "746c341659f244b990668a2e017b078b-shard-0",
-        "claimed_at": "2026-11-01T14:51:00.589190+00:00",
-        "lease_expires_at": "2026-11-01T20:51:00.589190+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30697852",
       "prepared": {
@@ -38393,5 +38395,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:55:09.983380+00:00"
+  "updated_at": "2026-11-01T14:57:00.800799+00:00"
 }
