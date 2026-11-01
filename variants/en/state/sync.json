@@ -9870,13 +9870,6 @@
           "source_id": "31527189",
           "target_video_id": "30670866",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:55:32.957398+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31527189",
-          "target_video_id": "30670866",
-          "permanent": false,
           "attempted_at": "2026-11-01T00:29:33.412211+00:00"
         },
         {
@@ -9885,6 +9878,13 @@
           "target_video_id": "30670866",
           "permanent": false,
           "attempted_at": "2026-11-01T01:03:33.796118+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31527189",
+          "target_video_id": "30670866",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:30:10.911713+00:00"
         }
       ],
       "last_plan": {
@@ -9898,12 +9898,6 @@
         "size_bytes": 6000000000,
         "prepared_at": "2026-10-31T15:04:37.969787+00:00",
         "relay_source_id": "31527189"
-      },
-      "claim": {
-        "worker_id": "b020fce6e89f4929903335eb72ae37d8-shard-0",
-        "claimed_at": "2026-11-01T03:30:08.263880+00:00",
-        "lease_expires_at": "2026-11-01T09:30:08.263880+00:00",
-        "run_id": "41265153510"
       }
     },
     "652": {
@@ -9972,7 +9966,7 @@
       "last_plan": {
         "source_id": "26808273",
         "display_name": "Malcolm X 1080p CZ Titulky",
-        "planned_at": "2026-11-01T01:03:35.256068+00:00"
+        "planned_at": "2026-11-01T03:30:10.369090+00:00"
       },
       "previous_target_id": "30672234",
       "prepared": {
@@ -9980,6 +9974,12 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-10-31T16:02:44.626497+00:00",
         "relay_source_id": "26808273"
+      },
+      "claim": {
+        "worker_id": "86800055d14b46efadd04fef465c4ad3-shard-0",
+        "claimed_at": "2026-11-01T03:30:10.484836+00:00",
+        "lease_expires_at": "2026-11-01T09:30:10.484836+00:00",
+        "run_id": "41265153510"
       }
     },
     "21224": {
@@ -11029,7 +11029,7 @@
       "last_plan": {
         "source_id": "13380014",
         "display_name": "3:10 to Yuma (2007) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T03:30:08.224658+00:00"
+        "planned_at": "2026-11-01T03:30:10.443435+00:00"
       }
     },
     "36656": {
@@ -34804,5 +34804,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:30:08.836645+00:00"
+  "updated_at": "2026-11-01T03:30:10.911732+00:00"
 }
