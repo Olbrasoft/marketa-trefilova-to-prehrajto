@@ -20045,17 +20045,19 @@
       }
     },
     "13348": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28392052",
+          "target_video_id": "30681481",
+          "permanent": false,
+          "attempted_at": "2026-11-01T00:28:40.705145+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28392052",
         "display_name": "The Machinist 1080p CZ Dabing",
         "planned_at": "2026-11-01T00:23:54.163406+00:00"
-      },
-      "claim": {
-        "worker_id": "bb30c352433c43b69d2b7ef1cee5aad6-shard-0",
-        "claimed_at": "2026-11-01T00:23:54.315207+00:00",
-        "lease_expires_at": "2026-11-01T06:23:54.315207+00:00",
-        "run_id": "41243223179"
       },
       "previous_target_id": "30681481",
       "prepared": {
@@ -42906,5 +42908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T00:23:58.111359+00:00"
+  "updated_at": "2026-11-01T00:28:40.705160+00:00"
 }
