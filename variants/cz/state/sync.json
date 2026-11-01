@@ -20336,17 +20336,19 @@
       }
     },
     "834": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12008147",
+          "target_video_id": "30683562",
+          "permanent": false,
+          "attempted_at": "2026-11-01T03:37:52.302395+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12008147",
         "display_name": "The Blind Side SD CZ Dabing",
         "planned_at": "2026-11-01T03:29:26.172363+00:00"
-      },
-      "claim": {
-        "worker_id": "e8890f8ed42a44da87bef9bb93571c97-shard-0",
-        "claimed_at": "2026-11-01T03:29:27.410819+00:00",
-        "lease_expires_at": "2026-11-01T09:29:27.410819+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30683562",
       "prepared": {
@@ -44169,5 +44171,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T03:32:57.427858+00:00"
+  "updated_at": "2026-11-01T03:37:52.302412+00:00"
 }
