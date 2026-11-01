@@ -24159,17 +24159,19 @@
       }
     },
     "21162": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30780685",
+          "target_video_id": "30703554",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:40:13.740076+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30780685",
         "display_name": "Jeremiah Johnson 1080p CZ Dabing",
         "planned_at": "2026-11-01T18:35:47.646029+00:00"
-      },
-      "claim": {
-        "worker_id": "da6306cd77054e19a5ea90231b449704-shard-0",
-        "claimed_at": "2026-11-01T18:35:47.822772+00:00",
-        "lease_expires_at": "2026-11-02T00:35:47.822772+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703554",
       "prepared": {
@@ -51215,5 +51217,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:38:38.033831+00:00"
+  "updated_at": "2026-11-01T18:40:13.740092+00:00"
 }
