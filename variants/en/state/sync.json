@@ -6348,18 +6348,19 @@
           "reason": "Request failed for https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-10-30T16:49:37.082526+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29927079",
+          "target_video_id": "30704846",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:35:13.814299+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29927079",
         "display_name": "Ricky Gervais: Humanity 1080p CZ Titulky",
         "planned_at": "2026-11-01T19:28:29.626561+00:00"
-      },
-      "claim": {
-        "worker_id": "dcf421ff6a70485bba4cdc767133bcbb-shard-0",
-        "claimed_at": "2026-11-01T19:28:29.661131+00:00",
-        "lease_expires_at": "2026-11-02T01:28:29.661131+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30704846",
       "prepared": {
@@ -6513,7 +6514,7 @@
       "last_plan": {
         "source_id": "17206386",
         "display_name": "Hero (2002) 1080p CZ Titulky",
-        "planned_at": "2026-11-01T19:35:09.135415+00:00"
+        "planned_at": "2026-11-01T19:35:13.571999+00:00"
       }
     },
     "20132": {
@@ -12735,7 +12736,7 @@
       "last_plan": {
         "source_id": "33745604",
         "display_name": "Nirvanna the Band the Show the Movie SD CZ Titulky",
-        "planned_at": "2026-11-01T19:35:09.033976+00:00"
+        "planned_at": "2026-11-01T19:35:13.465037+00:00"
       },
       "previous_target_id": "30704201",
       "prepared": {
@@ -12743,6 +12744,12 @@
         "size_bytes": 1778903621,
         "prepared_at": "2026-11-01T18:59:50.159777+00:00",
         "relay_source_id": "33745604"
+      },
+      "claim": {
+        "worker_id": "89d15b3316c647d994ea0b845db44eed-shard-0",
+        "claimed_at": "2026-11-01T19:35:13.605579+00:00",
+        "lease_expires_at": "2026-11-02T01:35:13.605579+00:00",
+        "run_id": "41331089141"
       }
     },
     "28216": {
@@ -39956,5 +39963,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:35:09.135429+00:00"
+  "updated_at": "2026-11-01T19:35:13.814317+00:00"
 }
