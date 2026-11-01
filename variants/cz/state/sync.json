@@ -23985,17 +23985,19 @@
       "attempts": []
     },
     "21618": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33514490",
+          "target_video_id": "30703056",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:19:36.824590+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33514490",
         "display_name": "Le Doulos 720p CZ Dabing",
         "planned_at": "2026-11-01T18:16:55.999295+00:00"
-      },
-      "claim": {
-        "worker_id": "3110bca966154034ae28d8d621ad9af7-shard-0",
-        "claimed_at": "2026-11-01T18:16:56.137544+00:00",
-        "lease_expires_at": "2026-11-02T00:16:56.137544+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703056",
       "prepared": {
@@ -51070,5 +51072,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:18:26.029420+00:00"
+  "updated_at": "2026-11-01T18:19:36.824606+00:00"
 }
