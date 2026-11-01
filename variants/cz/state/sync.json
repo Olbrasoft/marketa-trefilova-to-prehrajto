@@ -25421,17 +25421,19 @@
       "attempts": []
     },
     "33312": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31555644",
+          "target_video_id": "30705590",
+          "permanent": false,
+          "attempted_at": "2026-11-01T20:05:05.472448+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31555644",
         "display_name": "War and Peace, Part III: The Year 1812 (Война и Мир 3: 1812 год) 1080p CZ Dabing",
         "planned_at": "2026-11-01T19:59:49.274279+00:00"
-      },
-      "claim": {
-        "worker_id": "8a92bbaae2804726b6e7c09fa366b3f9-shard-0",
-        "claimed_at": "2026-11-01T19:59:49.415555+00:00",
-        "lease_expires_at": "2026-11-02T01:59:49.415555+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705590",
       "prepared": {
@@ -52444,5 +52446,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T20:04:21.736188+00:00"
+  "updated_at": "2026-11-01T20:05:05.472466+00:00"
 }
