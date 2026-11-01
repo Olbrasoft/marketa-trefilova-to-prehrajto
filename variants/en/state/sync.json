@@ -99,13 +99,6 @@
           "source_id": "14676847",
           "target_video_id": "30675719",
           "permanent": false,
-          "attempted_at": "2026-10-31T23:23:46.676090+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14676847",
-          "target_video_id": "30675719",
-          "permanent": false,
           "attempted_at": "2026-10-31T23:55:44.298482+00:00"
         },
         {
@@ -114,6 +107,13 @@
           "target_video_id": "30675719",
           "permanent": false,
           "attempted_at": "2026-11-01T00:29:40.592060+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14676847",
+          "target_video_id": "30675719",
+          "permanent": false,
+          "attempted_at": "2026-11-01T01:03:40.859178+00:00"
         }
       ],
       "last_plan": {
@@ -10003,7 +10003,7 @@
       "last_plan": {
         "source_id": "24371035",
         "display_name": "My Fair Lady 1080p CZ Titulky",
-        "planned_at": "2026-11-01T00:29:41.898063+00:00"
+        "planned_at": "2026-11-01T01:03:39.645014+00:00"
       },
       "previous_target_id": "30673478",
       "prepared": {
@@ -10011,6 +10011,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T17:03:48.827013+00:00",
         "relay_source_id": "24371035"
+      },
+      "claim": {
+        "worker_id": "e7a9ebc9af89448ba79a410ee58f1d59-shard-0",
+        "claimed_at": "2026-11-01T01:03:39.755339+00:00",
+        "lease_expires_at": "2026-11-01T07:03:39.755339+00:00",
+        "run_id": "41243223179"
       }
     },
     "28204": {
@@ -10978,7 +10984,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-01T01:03:38.289015+00:00"
+        "planned_at": "2026-11-01T01:03:39.719529+00:00"
       }
     },
     "834": {
@@ -34044,5 +34050,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T01:03:38.289028+00:00"
+  "updated_at": "2026-11-01T01:03:40.859194+00:00"
 }
