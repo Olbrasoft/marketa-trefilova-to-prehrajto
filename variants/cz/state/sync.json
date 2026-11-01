@@ -24228,17 +24228,19 @@
       "attempts": []
     },
     "22590": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33787959",
+          "target_video_id": "30703657",
+          "permanent": false,
+          "attempted_at": "2026-11-01T18:44:45.135009+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33787959",
         "display_name": "On Golden Pond 1080p CZ Dabing",
         "planned_at": "2026-11-01T18:40:17.730098+00:00"
-      },
-      "claim": {
-        "worker_id": "6a161b2994674631b8e3bd9309428c3a-shard-0",
-        "claimed_at": "2026-11-01T18:40:17.868065+00:00",
-        "lease_expires_at": "2026-11-02T00:40:17.868065+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30703657",
       "prepared": {
@@ -51256,5 +51258,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:42:53.052714+00:00"
+  "updated_at": "2026-11-01T18:44:45.135026+00:00"
 }
