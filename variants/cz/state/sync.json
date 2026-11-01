@@ -25100,17 +25100,19 @@
       }
     },
     "21328": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30759124",
+          "target_video_id": "30705189",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:46:09.454308+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30759124",
         "display_name": "Winchester '73 SD CZ Dabing",
         "planned_at": "2026-11-01T19:43:41.162111+00:00"
-      },
-      "claim": {
-        "worker_id": "bcb0fa0fdb7745c6968ae3dad850b0e9-shard-0",
-        "claimed_at": "2026-11-01T19:43:41.310512+00:00",
-        "lease_expires_at": "2026-11-02T01:43:41.310512+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30705189",
       "prepared": {
@@ -52176,5 +52178,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:44:21.226817+00:00"
+  "updated_at": "2026-11-01T19:46:09.454326+00:00"
 }
