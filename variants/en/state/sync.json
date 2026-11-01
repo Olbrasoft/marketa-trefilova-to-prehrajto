@@ -11423,17 +11423,19 @@
       "attempts": []
     },
     "679": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35072040",
+          "target_video_id": "30688969",
+          "permanent": false,
+          "attempted_at": "2026-11-01T08:09:13.429939+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35072040",
         "display_name": "Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky",
         "planned_at": "2026-11-01T07:57:38.658071+00:00"
-      },
-      "claim": {
-        "worker_id": "4f091865860347d08c0ae438f6063c10-shard-0",
-        "claimed_at": "2026-11-01T07:57:38.688120+00:00",
-        "lease_expires_at": "2026-11-01T13:57:38.688120+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30688969",
       "prepared": {
@@ -36118,5 +36120,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:06:13.155166+00:00"
+  "updated_at": "2026-11-01T08:09:13.429953+00:00"
 }
