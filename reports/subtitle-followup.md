@@ -162,6 +162,7 @@ Attach subtitles only after target processing has finished.
 | Nightcrawler 1080p CZ Titulky | 30705872 | https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Shaun of the Dead 720p CZ Titulky | 30705871 | https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Irishman 720p CZ Titulky | 30648488 | https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv | Complete: Czech subtitles verified |
+| The Fighter 1080p CZ Titulky | 30705917 | https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv | Extract Czech track from exact source after processing |
 | The Untouchables 1080p CZ Titulky | 30649618 | https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv | Complete: Czech subtitles verified |
 | All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Walk the Line 1080p CZ Titulky | 30650875 | https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Complete: Czech subtitles verified |
