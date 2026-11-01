@@ -21206,17 +21206,19 @@
       }
     },
     "33041": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716070",
+          "target_video_id": "30688772",
+          "permanent": false,
+          "attempted_at": "2026-11-01T07:57:37.157523+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716070",
         "display_name": "The Raid (Serbuan Maut) 1080p CZ Dabing",
         "planned_at": "2026-11-01T07:48:48.820154+00:00"
-      },
-      "claim": {
-        "worker_id": "4c08b87f097a44f98f6018ca041491d6-shard-0",
-        "claimed_at": "2026-11-01T07:48:48.958395+00:00",
-        "lease_expires_at": "2026-11-01T13:48:48.958395+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30688772",
       "prepared": {
@@ -45912,5 +45914,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T07:49:18.652908+00:00"
+  "updated_at": "2026-11-01T07:57:37.157541+00:00"
 }
