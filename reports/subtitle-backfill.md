@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T04:01:50.299995+00:00
+Poslední aktualizace (UTC): 2026-11-01T04:01:54.036714+00:00
 
 Zkontrolováno videí: 221. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 102, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 70, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 103, `attached_verified`: 5, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 69, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -127,7 +127,6 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 83. Důvod
 | [The Promised Land (Bastarden) 1080p CZ Titulky](https://prehraj.to/the-promised-land-bastarden-1080p-cz-titulky-mkv/22e2335148025873) (ID 30675383) | [Sdílej 34694735](https://sdilej.cz/34694735/bastard-bastarden-2023-dk-cz-titulky-1080p.mkv) | target_unavailable | 2026-10-31T18:53:33.152184+00:00 |
 | [The Seventh Seal 4K CZ Titulky](https://prehraj.to/the-seventh-seal-4k-cz-titulky-mkv/1be8b13048c728c8) (ID 30677858) | [Sdílej 30698168](https://sdilej.cz/30698168/the-seventh-seal-1957-blu-ray-2160p-4k-hdr-full-movie-cz-eng-sub-best-quality.mkv) | target_unavailable | 2026-10-31T20:45:34.164915+00:00 |
 | [The Trial of the Chicago 7 1080p CZ Titulky](https://prehraj.to/the-trial-of-the-chicago-7-1080p-cz-titulky-mkv/901a1f07a7c9f6ad) (ID 30668595) | [Sdílej 14351127](https://sdilej.cz/14351127/the.trial.of.the.chicago.7.2020.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-10-31T13:37:30.114708+00:00 |
-| [The Untouchables 1080p CZ Titulky](https://prehraj.to/the-untouchables-1080p-cz-titulky-mkv/93d037ed0feaff05) (ID 30649618) | [Sdílej 30833257](https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv) | target_unavailable | 2026-10-31T10:56:09.736183+00:00 |
 | [Thirteen Lives 1080p CZ Titulky](https://prehraj.to/thirteen-lives-1080p-cz-titulky-mkv/702fb47ed407e6ae) (ID 30654980) | [Sdílej 22401923](https://sdilej.cz/22401923/trinact-zivotu-2022-cz-titulky-hd-1080p.mkv) | target_unavailable | 2026-10-31T10:56:23.581517+00:00 |
 | [Watchmen 1080p CZ Titulky](https://prehraj.to/watchmen-1080p-cz-titulky-mkv/eedbb6c4ff193bf4) (ID 30680780) | [Sdílej 30659521](https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-10-31T23:36:33.072538+00:00 |
 | [Wonder 1080p CZ Titulky](https://prehraj.to/wonder-1080p-cz-titulky-mkv/e26940c42aba6ad9) (ID 30640621) | [Sdílej 8625620](https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-10-31T11:05:33.328831+00:00 |
