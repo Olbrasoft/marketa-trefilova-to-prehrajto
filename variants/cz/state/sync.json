@@ -22609,17 +22609,19 @@
       "attempts": []
     },
     "604": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33120198",
+          "target_video_id": "30696032",
+          "permanent": false,
+          "attempted_at": "2026-11-01T14:11:30.592176+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33120198",
         "display_name": "Flipped 1080p CZ Dabing",
         "planned_at": "2026-11-01T13:50:53.068862+00:00"
-      },
-      "claim": {
-        "worker_id": "aefb8570296740398cd6c1de92281ef2-shard-0",
-        "claimed_at": "2026-11-01T13:50:53.191582+00:00",
-        "lease_expires_at": "2026-11-01T19:50:53.191582+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30696032",
       "prepared": {
@@ -48755,5 +48757,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T13:52:43.645735+00:00"
+  "updated_at": "2026-11-01T14:11:30.592193+00:00"
 }
