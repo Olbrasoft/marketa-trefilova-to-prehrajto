@@ -20668,17 +20668,19 @@
       }
     },
     "745": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28301385",
+          "target_video_id": "30684453",
+          "permanent": false,
+          "attempted_at": "2026-11-01T04:55:05.056808+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28301385",
         "display_name": "Gone Baby Gone 1080p CZ Dabing",
         "planned_at": "2026-11-01T04:39:17.985351+00:00"
-      },
-      "claim": {
-        "worker_id": "1573c817c2294ad2ae08c1323f72e374-shard-0",
-        "claimed_at": "2026-11-01T04:39:18.131429+00:00",
-        "lease_expires_at": "2026-11-01T10:39:18.131429+00:00",
-        "run_id": "41265153510"
       },
       "previous_target_id": "30684453",
       "prepared": {
@@ -44657,5 +44659,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T04:39:22.091892+00:00"
+  "updated_at": "2026-11-01T04:55:05.056825+00:00"
 }
