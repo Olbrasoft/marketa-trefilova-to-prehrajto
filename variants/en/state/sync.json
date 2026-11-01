@@ -2007,13 +2007,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-01T20:10:41.639785+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-01T20:46:45.471823+00:00"
         },
         {
@@ -2022,6 +2015,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-01T21:21:16.892167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-01T22:03:11.635753+00:00"
         }
       ],
       "last_plan": {
@@ -2035,12 +2035,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
-      },
-      "claim": {
-        "worker_id": "46098b8559954bf1a1f1255cbdf3648c-shard-0",
-        "claimed_at": "2026-11-01T22:03:09.437554+00:00",
-        "lease_expires_at": "2026-11-02T04:03:09.437554+00:00",
-        "run_id": "41351617669"
       }
     },
     "107": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-01T21:21:20.152481+00:00"
+        "planned_at": "2026-11-01T22:03:11.348241+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "30ba957f3f0848b4a64299fb313f0409-shard-0",
+        "claimed_at": "2026-11-01T22:03:11.423357+00:00",
+        "lease_expires_at": "2026-11-02T04:03:11.423357+00:00",
+        "run_id": "41351617669"
       }
     },
     "31551": {
@@ -13424,7 +13424,7 @@
       "last_plan": {
         "source_id": "29803826",
         "display_name": "Deadpool & Wolverine 4K CZ Titulky",
-        "planned_at": "2026-11-01T22:03:09.414998+00:00"
+        "planned_at": "2026-11-01T22:03:11.396063+00:00"
       }
     },
     "1030": {
@@ -40608,5 +40608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T22:03:09.874464+00:00"
+  "updated_at": "2026-11-01T22:03:11.635762+00:00"
 }
