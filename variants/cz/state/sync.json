@@ -21876,17 +21876,19 @@
       }
     },
     "698": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27550615",
+          "target_video_id": "30691797",
+          "permanent": false,
+          "attempted_at": "2026-11-01T10:17:26.444661+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27550615",
         "display_name": "Guillermo del Toro's Pinocchio 1080p CZ Dabing",
         "planned_at": "2026-11-01T10:06:50.547048+00:00"
-      },
-      "claim": {
-        "worker_id": "28f80a52d667468f9da7af28e5eeb387-shard-0",
-        "claimed_at": "2026-11-01T10:06:50.873032+00:00",
-        "lease_expires_at": "2026-11-01T16:06:50.873032+00:00",
-        "run_id": "41284517775"
       },
       "previous_target_id": "30691797",
       "prepared": {
@@ -47319,5 +47321,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:15:48.463100+00:00"
+  "updated_at": "2026-11-01T10:17:26.444678+00:00"
 }
