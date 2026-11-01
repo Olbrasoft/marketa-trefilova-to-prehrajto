@@ -258,3 +258,4 @@ Attach subtitles only after target processing has finished.
 | Bloody Sunday 1080p CZ Titulky | 30704538 | https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv | Extract Czech track from exact source after processing |
 | Carandiru 720p CZ Titulky | 30704838 | https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Tell Me Who I Am 1080p CZ Titulky | 30705536 | https://sdilej.cz/33293335/tell.me.who.i.am.2019.1080p.nf.web-dl.dd.5.1.x264-ika.mkv | Extract Czech track from exact source after processing |
+| Doctor Strange 1080p CZ Titulky | 30705687 | https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
