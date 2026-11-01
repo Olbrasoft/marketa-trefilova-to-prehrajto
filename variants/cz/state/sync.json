@@ -24843,17 +24843,19 @@
       "attempts": []
     },
     "10965": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30779802",
+          "target_video_id": "30704597",
+          "permanent": false,
+          "attempted_at": "2026-11-01T19:22:43.588062+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30779802",
         "display_name": "Marketa Lazarová 720p CZ Dabing",
         "planned_at": "2026-11-01T19:16:35.245198+00:00"
-      },
-      "claim": {
-        "worker_id": "c13fe04f76b541b2a3f14179a63eb33d-shard-0",
-        "claimed_at": "2026-11-01T19:16:35.388611+00:00",
-        "lease_expires_at": "2026-11-02T01:16:35.388611+00:00",
-        "run_id": "41331089141"
       },
       "previous_target_id": "30704597",
       "prepared": {
@@ -51971,5 +51973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T19:20:16.850947+00:00"
+  "updated_at": "2026-11-01T19:22:43.588082+00:00"
 }
