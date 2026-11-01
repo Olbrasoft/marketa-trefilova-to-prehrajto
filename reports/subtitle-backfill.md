@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T06:43:32.243148+00:00
+Poslední aktualizace (UTC): 2026-11-01T06:43:35.864887+00:00
 
 Zkontrolováno videí: 224. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 144, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 145, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 27, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -72,7 +72,6 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 23. Důvod
 | [Memento 1080p CZ Titulky](https://prehraj.to/memento-1080p-cz-titulky-mkv/c57ecead896aa1dc) (ID 30676003) | [Sdílej 30657861](https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T05:31:24.985205+00:00 |
 | [Minority Report 1080p CZ Titulky](https://prehraj.to/minority-report-1080p-cz-titulky-mkv/660ee20de4351d2d) (ID 30680415) | [Sdílej 35402382](https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T05:41:17.876779+00:00 |
 | [Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Titulky](https://prehraj.to/mission-impossible-dead-reckoning-part-one-mission-impossible-dead-reckoning-part-one-4k-cz-titulky-mkv/f7c4fa7a213a7542) (ID 30684282) | [Sdílej 27023564](https://sdilej.cz/27023564/mission.impossible.dead.reckoning.part.one-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-01T05:31:13.369103+00:00 |
-| [My Fair Lady 1080p CZ Titulky](https://prehraj.to/my-fair-lady-1080p-cz-titulky-mkv/3cb9003e3f45f64a) (ID 30673478) | [Sdílej 24371035](https://sdilej.cz/24371035/my-fair-lady-1964-en-cz-en-tit.mkv) | target_unavailable | 2026-11-01T05:22:33.895556+00:00 |
 | [Once Upon a Time in America 1080p CZ Titulky](https://prehraj.to/once-upon-a-time-in-america-1080p-cz-titulky-mkv/10c52457278170da) (ID 30677049) | [Sdílej 16198758](https://sdilej.cz/16198758/tenkrat-v-americe-once.upon.a.time.in.america.1984.extended.1080p.bluray.x264-cz-dabing.mkv) | target_unavailable | 2026-11-01T05:31:32.322794+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-01T05:41:32.002098+00:00 |
 | [Parasite (기생충) (2019) 1080p CZ Titulky](https://prehraj.to/parasite-2019-1080p-cz-titulky-mkv/fd9b47f1dadd9eaf) (ID 30675758) | [Sdílej 27736094](https://sdilej.cz/27736094/parazit-gisaengchung---parasite-2019-kor-en-tit-cz-tit.mkv) | target_unavailable | 2026-11-01T05:31:21.427040+00:00 |
