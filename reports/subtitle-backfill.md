@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T13:04:51.994524+00:00
+Poslední aktualizace (UTC): 2026-11-01T13:04:53.899315+00:00
 
 Zkontrolováno videí: 235. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 148, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 148, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -66,6 +66,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvod
 | [Barton Fink 1080p CZ Titulky](https://prehraj.to/barton-fink-1080p-cz-titulky-mkv/0bb11979fbb055f9) (ID 30693626) | [Sdílej 33846511](https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv) | target_unavailable | 2026-11-01T11:30:23.232140+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-01T06:43:03.080013+00:00 |
 | [Creed 1080p CZ Titulky](https://prehraj.to/creed-1080p-cz-titulky-mkv/f4c965cf679ac2cc) (ID 30683763) | [Sdílej 30294354](https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv) | target_unavailable | 2026-11-01T06:52:47.273645+00:00 |
+| [Dark Waters 1080p CZ Titulky](https://prehraj.to/dark-waters-1080p-cz-titulky-mkv/08b6b6cfae49a2d0) (ID 30695103) | [Sdílej 18607027](https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv) | target_unavailable | 2026-11-01T13:04:53.899189+00:00 |
 | [Despicable Me 4K CZ Titulky](https://prehraj.to/despicable-me-4k-cz-titulky-mkv/1a941e411137635d) (ID 30680025) | [Sdílej 27530102](https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv) | target_unavailable | 2026-11-01T06:52:14.262323+00:00 |
 | [Fury (2014) 1080p CZ Titulky](https://prehraj.to/fury-2014-1080p-cz-titulky-mkv/715aa2f20fa91bf5) (ID 30680601) | [Sdílej 35402243](https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T06:52:25.567012+00:00 |
 | [Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky](https://prehraj.to/godzilla-minus-one-1-0-1080p-cz-titulky-mkv/71f6dbfe82e8ae70) (ID 30688969) | [Sdílej 35072040](https://sdilej.cz/35072040/godzilla.minus.one.a.k.a.gojira.-1.0.2023.japanese.1080p.10bit.bluray.8ch.x265.hevc-psa-cztitulky-.mkv) | target_unavailable | 2026-11-01T08:06:53.205676+00:00 |
