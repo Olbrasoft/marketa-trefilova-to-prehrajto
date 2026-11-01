@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-01T06:44:12.082459+00:00
+Poslední aktualizace (UTC): 2026-11-01T06:44:15.779268+00:00
 
 Zkontrolováno videí: 224. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 146, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 25, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 147, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 24, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -78,7 +78,6 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 23. Důvod
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-01T06:43:28.867201+00:00 |
 | [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-11-01T05:31:47.290335+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-01T06:43:56.292829+00:00 |
-| [Reservoir Dogs 720p CZ Titulky](https://prehraj.to/reservoir-dogs-720p-cz-titulky-mkv/2895fce48a6f84ff) (ID 30677150) | [Sdílej 12652876](https://sdilej.cz/12652876/gauneri-1992-cz-dabing.mkv) | target_unavailable | 2026-11-01T05:31:43.763761+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-01T06:42:48.129724+00:00 |
 | [Saw (2004) 1080p CZ Titulky](https://prehraj.to/saw-2004-1080p-cz-titulky-mkv/919ec29c99bd8c47) (ID 30681152) | [Sdílej 27106738](https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv) | target_unavailable | 2026-11-01T05:41:28.690110+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-01T06:43:14.276436+00:00 |
