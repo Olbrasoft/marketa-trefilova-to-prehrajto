@@ -22730,17 +22730,19 @@
       "attempts": []
     },
     "10737": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34083075",
+          "target_video_id": "30696703",
+          "permanent": false,
+          "attempted_at": "2026-11-01T14:28:36.575775+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34083075",
         "display_name": "Rebel Without a Cause 1080p CZ Dabing",
         "planned_at": "2026-11-01T14:15:11.116254+00:00"
-      },
-      "claim": {
-        "worker_id": "b6e54b8957894c22b84dbec646f9cfc5-shard-0",
-        "claimed_at": "2026-11-01T14:15:11.230550+00:00",
-        "lease_expires_at": "2026-11-01T20:15:11.230550+00:00",
-        "run_id": "41306377044"
       },
       "previous_target_id": "30696703",
       "prepared": {
@@ -49129,5 +49131,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-01T14:25:16.117058+00:00"
+  "updated_at": "2026-11-01T14:28:36.575791+00:00"
 }
