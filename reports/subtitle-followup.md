@@ -294,3 +294,4 @@ Attach subtitles only after target processing has finished.
 | The Life of David Gale 1080p CZ Titulky | 30721346 | https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv | Extract Czech track from exact source after processing |
 | The Iron Claw 1080p CZ Titulky | 30722014 | https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
 | The Warriors 1080p CZ Titulky | 30722061 | https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
+| Train Dreams 720p CZ Titulky | 30722369 | https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv | Extract Czech track from exact source after processing |
