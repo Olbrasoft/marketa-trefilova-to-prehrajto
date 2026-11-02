@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T13:03:15.432839+00:00
+Poslední aktualizace (UTC): 2026-11-02T13:03:17.455455+00:00
 
 Zkontrolováno videí: 297. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 36, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -105,6 +105,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Důvod
 | [Train Dreams 720p CZ Titulky](https://prehraj.to/train-dreams-720p-cz-titulky-mkv/ca29fd2437535374) (ID 30722369) | [Sdílej 35402890](https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv) | target_unavailable | 2026-11-02T09:05:01.907390+00:00 |
 | [Upgrade 1080p CZ Titulky](https://prehraj.to/upgrade-1080p-cz-titulky-mkv/61aa85554a69d030) (ID 30715573) | [Sdílej 12991788](https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv) | target_unavailable | 2026-11-02T06:20:32.793859+00:00 |
 | [Val 1080p CZ Titulky](https://prehraj.to/val-1080p-cz-titulky-mp4/8968bbc5a9668d0a) (ID 30713783) | [Sdílej 35179337](https://sdilej.cz/35179337/val-2021-cz-titulky.mp4) | target_unavailable | 2026-11-02T06:20:04.243026+00:00 |
+| [Victoria 1080p CZ Titulky](https://prehraj.to/victoria-1080p-cz-titulky-mkv/0c712c1d442c157a) (ID 30731842) | [Sdílej 32445048](https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T13:03:17.455391+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T06:19:26.466413+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
