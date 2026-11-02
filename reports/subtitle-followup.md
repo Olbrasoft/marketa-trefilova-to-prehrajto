@@ -273,7 +273,7 @@ Attach subtitles only after target processing has finished.
 | Baby Driver 1080p CZ Titulky | 30707542 | https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv | Complete: Czech subtitles verified |
 | Deadpool & Wolverine 4K CZ Titulky | 30708571 | https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv | Complete: Czech subtitles verified |
 | Love Actually 4K CZ Titulky | 30709925 | https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv | Complete: Czech subtitles verified |
-| Sinners 4K CZ Titulky | 30710776 | https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv | Extract Czech track from exact source after processing |
+| Sinners 4K CZ Titulky | 30710776 | https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv | Complete: Czech subtitles verified |
 | Eyes Wide Shut 1080p CZ Titulky | 30711541 | https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv | Complete: Czech subtitles verified |
 | Moonage Daydream SD CZ Titulky | 30712437 | https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv | Complete: Czech subtitles verified |
 | Les Misérables (2012) 1080p CZ Titulky | 30712563 | https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv | Complete: Czech subtitles verified |
@@ -290,9 +290,9 @@ Attach subtitles only after target processing has finished.
 | A Fish Called Wanda 1080p CZ Titulky | 30720594 | https://sdilej.cz/20836545/a-fish-called-wanda-1988-hevc-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
 | The Book Thief 1080p CZ Titulky | 30720612 | https://sdilej.cz/27726753/zlodejka-knih-1080p-hd-.mp4 | Extract Czech track from exact source after processing |
 | Leaving Las Vegas 1080p CZ Titulky | 30720705 | https://sdilej.cz/35401844/leaving.las.vegas.1995.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Complete: Czech subtitles verified |
-| The Fabelmans 1080p CZ Titulky | 30721132 | https://sdilej.cz/25866863/fabelmanovi.mkv | Extract Czech track from exact source after processing |
+| The Fabelmans 1080p CZ Titulky | 30721132 | https://sdilej.cz/25866863/fabelmanovi.mkv | Complete: Czech subtitles verified |
 | The Life of David Gale 1080p CZ Titulky | 30721346 | https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv | Complete: Czech subtitles verified |
-| The Iron Claw 1080p CZ Titulky | 30722014 | https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
+| The Iron Claw 1080p CZ Titulky | 30722014 | https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv | Complete: Czech subtitles verified |
 | The Warriors 1080p CZ Titulky | 30722061 | https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv | Complete: Czech subtitles verified |
 | Train Dreams 720p CZ Titulky | 30722369 | https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv | Complete: Czech subtitles verified |
 | Disconnect 1080p CZ Titulky | 30726802 | https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv | Complete: Czech subtitles verified |
