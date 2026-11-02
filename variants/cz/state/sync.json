@@ -31986,17 +31986,19 @@
       "attempts": []
     },
     "35607": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34083588",
+          "target_video_id": "30732878",
+          "permanent": false,
+          "attempted_at": "2026-11-02T13:48:29.978252+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34083588",
         "display_name": "Bogowie 1080p CZ Dabing",
         "planned_at": "2026-11-02T13:40:37.283281+00:00"
-      },
-      "claim": {
-        "worker_id": "1aa434ba9edb405d847ca723cfa0fb8e-shard-0",
-        "claimed_at": "2026-11-02T13:40:37.418772+00:00",
-        "lease_expires_at": "2026-11-02T19:40:37.418772+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30732878",
       "prepared": {
@@ -62325,5 +62327,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:44:56.186458+00:00"
+  "updated_at": "2026-11-02T13:48:29.978268+00:00"
 }
