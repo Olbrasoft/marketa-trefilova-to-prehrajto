@@ -313,3 +313,4 @@ Attach subtitles only after target processing has finished.
 | Waves 720p CZ Titulky | 30739690 | https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv | Extract Czech track from exact source after processing |
 | And Now for Something Completely Different 1080p CZ Titulky | 30741124 | https://sdilej.cz/24008691/monty-python-a-ted-neco-uplne-jineho-cztit.-h.265-hevc-ntp-.mkv | Extract Czech track from exact source after processing |
 | Wuthering Heights (1939) 1080p CZ Titulky | 30742707 | https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv | Extract Czech track from exact source after processing |
+| Songs from the Second Floor 1080p CZ Titulky | 30742820 | https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
