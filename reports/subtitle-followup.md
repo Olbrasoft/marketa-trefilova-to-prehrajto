@@ -297,3 +297,4 @@ Attach subtitles only after target processing has finished.
 | Train Dreams 720p CZ Titulky | 30722369 | https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv | Extract Czech track from exact source after processing |
 | Disconnect 1080p CZ Titulky | 30726802 | https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv | Extract Czech track from exact source after processing |
 | Drive My Car (Doraibu mai kâ) 1080p CZ Titulky | 30727014 | https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky | 30728908 | https://sdilej.cz/32616287/neni-jina-moznost-2025-komedie-thriller-ko-eac3-2.0-titulky-cz-en-h265-1080p.mkv | Extract Czech track from exact source after processing |
