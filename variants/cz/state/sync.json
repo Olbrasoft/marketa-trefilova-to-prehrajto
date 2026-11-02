@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-02T14:54:12.383189+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-02T15:27:19.144111+00:00"
         },
         {
@@ -4270,12 +4263,19 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-02T15:58:57.269925+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-02T16:32:08.892909+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-02T15:58:52.732067+00:00"
+        "planned_at": "2026-11-02T16:32:06.186626+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -33299,11 +33299,22 @@
       "last_plan": {
         "source_id": "19713445",
         "display_name": "Me Before You 1080p CZ Dabing",
-        "planned_at": "2026-11-02T16:32:02.972932+00:00"
+        "planned_at": "2026-11-02T16:32:06.323225+00:00"
+      },
+      "claim": {
+        "worker_id": "500a9b788fcb4fd0b14b97e63e277e16-shard-0",
+        "claimed_at": "2026-11-02T16:32:06.657583+00:00",
+        "lease_expires_at": "2026-11-02T22:32:06.657583+00:00",
+        "run_id": "41471188833"
       }
     },
     "1214": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "16384318",
+        "display_name": "Nocturnal Animals 1080p CZ Dabing",
+        "planned_at": "2026-11-02T16:32:06.396723+00:00"
+      }
     },
     "1231": {
       "attempts": []
@@ -64126,5 +64137,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:32:04.418717+00:00"
+  "updated_at": "2026-11-02T16:32:08.892939+00:00"
 }
