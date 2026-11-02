@@ -37595,17 +37595,19 @@
       }
     },
     "22341": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27925296",
+          "target_video_id": "30744821",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:32:26.279399+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27925296",
         "display_name": "The Duellists SD CZ Dabing",
         "planned_at": "2026-11-02T23:30:58.209435+00:00"
-      },
-      "claim": {
-        "worker_id": "fbb33444146045e1b0ba0174004b45d9-shard-0",
-        "claimed_at": "2026-11-02T23:30:58.336204+00:00",
-        "lease_expires_at": "2026-11-03T05:30:58.336204+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744821",
       "prepared": {
@@ -69375,5 +69377,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:31:03.199314+00:00"
+  "updated_at": "2026-11-02T23:32:26.279420+00:00"
 }
