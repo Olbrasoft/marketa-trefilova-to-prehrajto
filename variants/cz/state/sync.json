@@ -37116,7 +37116,25 @@
       "attempts": []
     },
     "23642": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32911247",
+        "display_name": "Smoke SD CZ Dabing",
+        "planned_at": "2026-11-02T23:03:21.336489+00:00"
+      },
+      "claim": {
+        "worker_id": "6382f516c94347c891acfa5cd7112e12-shard-0",
+        "claimed_at": "2026-11-02T23:03:21.467234+00:00",
+        "lease_expires_at": "2026-11-03T05:03:21.467234+00:00",
+        "run_id": "41509256577"
+      },
+      "previous_target_id": "30744341",
+      "prepared": {
+        "target_video_id": "30744341",
+        "size_bytes": 1566056448,
+        "prepared_at": "2026-11-02T23:03:26.249212+00:00",
+        "relay_source_id": "32911247"
+      }
     },
     "16495": {
       "attempts": []
@@ -68770,5 +68788,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:03:19.593207+00:00"
+  "updated_at": "2026-11-02T23:03:26.249234+00:00"
 }
