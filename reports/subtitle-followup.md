@@ -282,3 +282,4 @@ Attach subtitles only after target processing has finished.
 | Val 1080p CZ Titulky | 30713783 | https://sdilej.cz/35179337/val-2021-cz-titulky.mp4 | Extract Czech track from exact source after processing |
 | Promising Young Woman 720p CZ Titulky | 30714870 | https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv | Extract Czech track from exact source after processing |
 | Erin Brockovich 1080p CZ Titulky | 30715404 | https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv | Extract Czech track from exact source after processing |
+| Upgrade 1080p CZ Titulky | 30715573 | https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv | Extract Czech track from exact source after processing |
