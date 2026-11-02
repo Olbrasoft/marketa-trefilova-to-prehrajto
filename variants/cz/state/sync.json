@@ -33628,17 +33628,19 @@
       }
     },
     "1151": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20922479",
+          "reason": "Request failed for https://sdilej.cz/20922479/dejiny-nasili-2005-krimi-thriller-drama-mysteriozni-1080p.-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T17:27:06.287633+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20922479",
         "display_name": "A History of Violence 1080p CZ Dabing",
         "planned_at": "2026-11-02T17:26:20.048007+00:00"
-      },
-      "claim": {
-        "worker_id": "07dc6deb7e3a48a08150d76aced1756a-shard-0",
-        "claimed_at": "2026-11-02T17:26:20.256182+00:00",
-        "lease_expires_at": "2026-11-02T23:26:20.256182+00:00",
-        "run_id": "41471188833"
       }
     },
     "1159": {
@@ -64672,5 +64674,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T17:26:20.256205+00:00"
+  "updated_at": "2026-11-02T17:27:06.287651+00:00"
 }
