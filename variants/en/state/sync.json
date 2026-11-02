@@ -15227,17 +15227,19 @@
       "attempts": []
     },
     "33397": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33222569",
+          "target_video_id": "30735890",
+          "permanent": false,
+          "attempted_at": "2026-11-02T16:11:25.278133+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33222569",
         "display_name": "A Hard Day's Night 1080p CZ Titulky",
         "planned_at": "2026-11-02T16:05:40.317597+00:00"
-      },
-      "claim": {
-        "worker_id": "1089cdba2ac442cf882ebb033d3c3e5b-shard-0",
-        "claimed_at": "2026-11-02T16:05:40.380651+00:00",
-        "lease_expires_at": "2026-11-02T22:05:40.380651+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30735890",
       "prepared": {
@@ -46404,5 +46406,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:05:44.247883+00:00"
+  "updated_at": "2026-11-02T16:11:25.278149+00:00"
 }
