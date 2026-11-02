@@ -32890,17 +32890,19 @@
       }
     },
     "1236": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31842872",
+          "target_video_id": "30735068",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:29:25.835631+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31842872",
         "display_name": "Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 4K CZ Dabing",
         "planned_at": "2026-11-02T15:18:36.771242+00:00"
-      },
-      "claim": {
-        "worker_id": "8bd095d55af946bb973353740c96c055-shard-0",
-        "claimed_at": "2026-11-02T15:18:37.028870+00:00",
-        "lease_expires_at": "2026-11-02T21:18:37.028870+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30735068",
       "prepared": {
@@ -63563,5 +63565,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:28:41.158582+00:00"
+  "updated_at": "2026-11-02T15:29:25.835654+00:00"
 }
