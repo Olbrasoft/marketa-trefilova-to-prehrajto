@@ -32826,17 +32826,19 @@
       "attempts": []
     },
     "12556": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31021335",
+          "target_video_id": "30735019",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:25:46.792427+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31021335",
         "display_name": "10 Things I Hate About You 4K CZ Dabing",
         "planned_at": "2026-11-02T15:16:03.040867+00:00"
-      },
-      "claim": {
-        "worker_id": "c1044e6d2da542b3a6d8ba4b630c3eef-shard-0",
-        "claimed_at": "2026-11-02T15:16:03.163748+00:00",
-        "lease_expires_at": "2026-11-02T21:16:03.163748+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30735019",
       "prepared": {
@@ -63256,5 +63258,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:18:42.044692+00:00"
+  "updated_at": "2026-11-02T15:25:46.792441+00:00"
 }
