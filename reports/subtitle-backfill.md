@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:28:01.534535+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:28:05.404190+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
@@ -106,7 +106,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T02:27:46.456088+00:00 |
 | [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-11-01T06:52:07.148921+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | target_unavailable | 2026-11-01T16:08:05.929343+00:00 |
-| [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-01T06:43:56.292829+00:00 |
+| [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-02T02:28:05.404120+00:00 |
 | [Ricky Gervais: Humanity 1080p CZ Titulky](https://prehraj.to/ricky-gervais-humanity-1080p-cz-titulky-mkv/c3d11d6c39a9ef0b) (ID 30704846) | [Sdílej 29927079](https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv) | target_unavailable | 2026-11-01T19:31:30.361252+00:00 |
 | [Roma (2018) 1080p CZ Titulky](https://prehraj.to/roma-2018-1080p-cz-titulky-mkv/2a0ee45e8062349f) (ID 30691634) | [Sdílej 16152424](https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv) | target_unavailable | 2026-11-01T10:09:18.390946+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-02T02:27:02.005831+00:00 |
