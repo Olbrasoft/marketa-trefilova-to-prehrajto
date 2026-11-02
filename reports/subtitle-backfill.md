@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T11:52:42.148856+00:00
+Poslední aktualizace (UTC): 2026-11-02T11:52:44.008604+00:00
 
 Zkontrolováno videí: 294. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -69,6 +69,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 38. Důvod
 | [BlacKkKlansman 1080p CZ Titulky](https://prehraj.to/blackkklansman-1080p-cz-titulky-mkv/55432ccf5b5a0aa2) (ID 30713447) | [Sdílej 11006824](https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-02T07:00:34.253068+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T06:19:30.082431+00:00 |
 | [Disconnect 1080p CZ Titulky](https://prehraj.to/disconnect-1080p-cz-titulky-mkv/b3f83b9a614ab11b) (ID 30726802) | [Sdílej 33085256](https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv) | target_unavailable | 2026-11-02T11:42:41.360931+00:00 |
+| [Drive My Car (Doraibu mai kâ) 1080p CZ Titulky](https://prehraj.to/drive-my-car-doraibu-mai-ka-1080p-cz-titulky-mkv/ee7b449f7eace391) (ID 30727014) | [Sdílej 20536962](https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv) | target_unavailable | 2026-11-02T11:52:44.008526+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T07:00:40.858772+00:00 |
 | [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T07:00:20.895299+00:00 |
 | [Hidden Figures 1080p CZ Titulky](https://prehraj.to/hidden-figures-1080p-cz-titulky-mkv/27916ef0f8406632) (ID 30706154) | [Sdílej 34903912](https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T06:59:56.112902+00:00 |
