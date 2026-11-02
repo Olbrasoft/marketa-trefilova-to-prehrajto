@@ -14278,17 +14278,19 @@
       "attempts": []
     },
     "11748": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20836545",
+          "reason": "Request failed for https://sdilej.cz/20836545/a-fish-called-wanda-1988-hevc-1080p-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T06:03:58.911982+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20836545",
         "display_name": "A Fish Called Wanda 1080p CZ Titulky",
         "planned_at": "2026-11-02T06:03:13.211655+00:00"
-      },
-      "claim": {
-        "worker_id": "40a6b1ba0a7f4031b09a4ec3789f92a2-shard-0",
-        "claimed_at": "2026-11-02T06:03:13.268687+00:00",
-        "lease_expires_at": "2026-11-02T12:03:13.268687+00:00",
-        "run_id": "41372098637"
       }
     },
     "1053": {
@@ -43192,5 +43194,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T06:03:13.268711+00:00"
+  "updated_at": "2026-11-02T06:03:58.912002+00:00"
 }
