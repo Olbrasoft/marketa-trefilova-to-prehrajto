@@ -36242,17 +36242,19 @@
       "attempts": []
     },
     "13125": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29468697",
+          "target_video_id": "30743256",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:12:50.600736+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29468697",
         "display_name": "Bad Education (La mala educación) (2004) 1080p CZ Dabing",
         "planned_at": "2026-11-02T22:08:14.320002+00:00"
-      },
-      "claim": {
-        "worker_id": "ee925c8846854df68e7c6f5129fe0dd8-shard-0",
-        "claimed_at": "2026-11-02T22:08:14.425800+00:00",
-        "lease_expires_at": "2026-11-03T04:08:14.425800+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743256",
       "prepared": {
@@ -67842,5 +67844,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:12:11.473916+00:00"
+  "updated_at": "2026-11-02T22:12:50.600760+00:00"
 }
