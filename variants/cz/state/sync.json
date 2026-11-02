@@ -29541,17 +29541,19 @@
       }
     },
     "23311": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33687565",
+          "target_video_id": "30722766",
+          "permanent": false,
+          "attempted_at": "2026-11-02T09:28:17.636144+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33687565",
         "display_name": "The Player 1080p CZ Dabing",
         "planned_at": "2026-11-02T09:18:49.675961+00:00"
-      },
-      "claim": {
-        "worker_id": "41331cea6ce646bf86f7133e813aa898-shard-0",
-        "claimed_at": "2026-11-02T09:18:49.859584+00:00",
-        "lease_expires_at": "2026-11-02T15:18:49.859584+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30722766",
       "prepared": {
@@ -59029,5 +59031,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T09:18:53.388429+00:00"
+  "updated_at": "2026-11-02T09:28:17.636163+00:00"
 }
