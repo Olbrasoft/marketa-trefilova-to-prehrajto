@@ -36876,17 +36876,19 @@
       }
     },
     "23621": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11725725",
+          "target_video_id": "30744004",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:52:24.408714+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11725725",
         "display_name": "Mr. Holland's Opus 1080p CZ Dabing",
         "planned_at": "2026-11-02T22:47:47.526096+00:00"
-      },
-      "claim": {
-        "worker_id": "dfa7fc25e5ef4f679eace5fee7f5f2f8-shard-0",
-        "claimed_at": "2026-11-02T22:47:47.633335+00:00",
-        "lease_expires_at": "2026-11-03T04:47:47.633335+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744004",
       "prepared": {
@@ -68587,5 +68589,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:47:51.313993+00:00"
+  "updated_at": "2026-11-02T22:52:24.408737+00:00"
 }
