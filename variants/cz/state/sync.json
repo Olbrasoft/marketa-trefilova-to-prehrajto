@@ -37047,17 +37047,19 @@
       }
     },
     "18658": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14552387",
+          "target_video_id": "30744275",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:03:41.283470+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14552387",
         "display_name": "Batman: Assault on Arkham 720p CZ Dabing",
         "planned_at": "2026-11-02T23:00:37.388661+00:00"
-      },
-      "claim": {
-        "worker_id": "04a00d5121cf4395b12bf45cc49e2b4e-shard-0",
-        "claimed_at": "2026-11-02T23:00:37.510323+00:00",
-        "lease_expires_at": "2026-11-03T05:00:37.510323+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744275",
       "prepared": {
@@ -68788,5 +68790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:03:26.249234+00:00"
+  "updated_at": "2026-11-02T23:03:41.283493+00:00"
 }
