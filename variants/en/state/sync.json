@@ -13845,17 +13845,19 @@
       "attempts": []
     },
     "881": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27446866",
+          "target_video_id": "30713681",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:12:48.900348+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27446866",
         "display_name": "Killers of the Flower Moon 4K CZ Titulky",
         "planned_at": "2026-11-02T02:25:09.911125+00:00"
-      },
-      "claim": {
-        "worker_id": "22f8c1872c4b4b9b9027c22022fb83d1-shard-0",
-        "claimed_at": "2026-11-02T02:25:09.959089+00:00",
-        "lease_expires_at": "2026-11-02T08:25:09.959089+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30713681",
       "prepared": {
@@ -42181,5 +42183,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:11:55.663229+00:00"
+  "updated_at": "2026-11-02T03:12:48.900364+00:00"
 }
