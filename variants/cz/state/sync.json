@@ -26099,17 +26099,19 @@
       "attempts": []
     },
     "1029": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31965987",
+          "target_video_id": "30710485",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:07:12.962014+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31965987",
         "display_name": "28 Days Later 4K CZ Dabing",
         "planned_at": "2026-11-01T23:53:46.423523+00:00"
-      },
-      "claim": {
-        "worker_id": "5a0dec02032540d3a7a9ccb9bc571f18-shard-0",
-        "claimed_at": "2026-11-01T23:53:47.815370+00:00",
-        "lease_expires_at": "2026-11-02T05:53:47.815370+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30710485",
       "prepared": {
@@ -53797,5 +53799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:06:20.624437+00:00"
+  "updated_at": "2026-11-02T00:07:12.962033+00:00"
 }
