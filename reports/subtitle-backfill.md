@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T01:04:59.734591+00:00
+Poslední aktualizace (UTC): 2026-11-02T01:05:03.319201+00:00
 
 Zkontrolováno videí: 272. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 69, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 70, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -90,6 +90,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 71. Důvod
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-01T11:40:26.594278+00:00 |
 | [Love Actually 4K CZ Titulky](https://prehraj.to/love-actually-4k-cz-titulky-mkv/9c4cc8281243a3e9) (ID 30709925) | [Sdílej 35168701](https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv) | target_unavailable | 2026-11-01T23:33:42.701621+00:00 |
 | [Memento 1080p CZ Titulky](https://prehraj.to/memento-1080p-cz-titulky-mkv/c57ecead896aa1dc) (ID 30676003) | [Sdílej 30657861](https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T06:43:53.016365+00:00 |
+| [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T01:05:03.319086+00:00 |
 | [Minority Report 1080p CZ Titulky](https://prehraj.to/minority-report-1080p-cz-titulky-mkv/660ee20de4351d2d) (ID 30680415) | [Sdílej 35402382](https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T06:52:21.857622+00:00 |
 | [Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Titulky](https://prehraj.to/mission-impossible-dead-reckoning-part-one-mission-impossible-dead-reckoning-part-one-4k-cz-titulky-mkv/f7c4fa7a213a7542) (ID 30684282) | [Sdílej 27023564](https://sdilej.cz/27023564/mission.impossible.dead.reckoning.part.one-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-01T06:43:39.451898+00:00 |
 | [My Mom Jayne 1080p CZ Titulky](https://prehraj.to/my-mom-jayne-1080p-cz-titulky-mkv/f2c42d24be6019db) (ID 30705710) | [Sdílej 34393497](https://sdilej.cz/34393497/my-mom-jayne-2025-1080p-hulu-web-dl-h264-sdr-ddp-5-1-english-hone.mkv) | target_unavailable | 2026-11-01T20:12:13.687710+00:00 |
