@@ -159,7 +159,7 @@ Attach subtitles only after target processing has finished.
 | Kiss the Ground 1080p CZ Titulky | 30645461 | https://sdilej.cz/21918113/sklonit-se-k-zemi-2020-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Drive (2011) 1080p CZ Titulky | 30645764 | https://sdilej.cz/30970586/drive.2011.open.matte.1080p.bluray.multi.x264-majo.mkv | Complete: Czech subtitles verified |
 | Home Alone 1080p CZ Titulky | 30646078 | https://sdilej.cz/23025299/sam-doma-1990-fhd-1080p--cz-cz-pl-eng-eng-dts-.mkv | Complete: Czech subtitles verified |
-| Nightcrawler 1080p CZ Titulky | 30705872 | https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Nightcrawler 1080p CZ Titulky | 30705872 | https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Shaun of the Dead 720p CZ Titulky | 30705871 | https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Irishman 720p CZ Titulky | 30648488 | https://sdilej.cz/12685665/the.irishman.2019.720p.cz.sub.webrip.ddp5.1.atmos.x264.mkv | Complete: Czech subtitles verified |
 | The Fighter 1080p CZ Titulky | 30705917 | https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv | Extract Czech track from exact source after processing |
