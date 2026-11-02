@@ -16479,13 +16479,6 @@
           "source_id": "32043882",
           "target_video_id": "30664667",
           "permanent": false,
-          "attempted_at": "2026-11-02T00:04:41.691914+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043882",
-          "target_video_id": "30664667",
-          "permanent": false,
           "attempted_at": "2026-11-02T00:41:25.483838+00:00"
         },
         {
@@ -16494,6 +16487,13 @@
           "target_video_id": "30664667",
           "permanent": false,
           "attempted_at": "2026-11-02T01:17:52.361906+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043882",
+          "target_video_id": "30664667",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:56:22.813554+00:00"
         }
       ],
       "last_plan": {
@@ -16507,12 +16507,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-10-31T11:53:53.244431+00:00",
         "relay_source_id": "32043882"
-      },
-      "claim": {
-        "worker_id": "c76fd4a3e27e43a7a4e9c4cfb320e36d-shard-0",
-        "claimed_at": "2026-11-02T01:56:20.687865+00:00",
-        "lease_expires_at": "2026-11-02T07:56:20.687865+00:00",
-        "run_id": "41351617669"
       }
     },
     "533": {
@@ -17311,7 +17305,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-02T01:17:55.022623+00:00"
+        "planned_at": "2026-11-02T01:56:22.384716+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17319,6 +17313,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "c4609bad988f4e9e98c836983489b460-shard-0",
+        "claimed_at": "2026-11-02T01:56:22.565766+00:00",
+        "lease_expires_at": "2026-11-02T07:56:22.565766+00:00",
+        "run_id": "41351617669"
       }
     },
     "23132": {
@@ -26655,7 +26655,7 @@
       "last_plan": {
         "source_id": "32953356",
         "display_name": "Hugo 4K CZ Dabing",
-        "planned_at": "2026-11-02T01:56:20.575914+00:00"
+        "planned_at": "2026-11-02T01:56:22.449713+00:00"
       }
     },
     "10790": {
@@ -54710,5 +54710,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:56:21.065214+00:00"
+  "updated_at": "2026-11-02T01:56:22.813575+00:00"
 }
