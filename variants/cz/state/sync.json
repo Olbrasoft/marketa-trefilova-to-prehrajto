@@ -30735,17 +30735,19 @@
       }
     },
     "36631": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34720781",
+          "target_video_id": "30725571",
+          "permanent": false,
+          "attempted_at": "2026-11-02T11:02:40.438380+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34720781",
         "display_name": "The Pawnbroker 720p CZ Dabing",
         "planned_at": "2026-11-02T10:57:03.748829+00:00"
-      },
-      "claim": {
-        "worker_id": "da28f06f95ae481db633e0648b5fa003-shard-0",
-        "claimed_at": "2026-11-02T10:57:03.892080+00:00",
-        "lease_expires_at": "2026-11-02T16:57:03.892080+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30725571",
       "prepared": {
@@ -60541,5 +60543,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:01:02.373484+00:00"
+  "updated_at": "2026-11-02T11:02:40.438399+00:00"
 }
