@@ -277,3 +277,4 @@ Attach subtitles only after target processing has finished.
 | Eyes Wide Shut 1080p CZ Titulky | 30711541 | https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv | Extract Czech track from exact source after processing |
 | Moonage Daydream SD CZ Titulky | 30712437 | https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Les Misérables (2012) 1080p CZ Titulky | 30712563 | https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv | Extract Czech track from exact source after processing |
+| BlacKkKlansman 1080p CZ Titulky | 30713447 | https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
