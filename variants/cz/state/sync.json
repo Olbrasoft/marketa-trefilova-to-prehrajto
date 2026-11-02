@@ -10809,13 +10809,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:19:26.608423+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-02T13:50:45.448001+00:00"
         },
         {
@@ -10824,6 +10817,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-02T14:22:02.449985+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:54:24.287554+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10837,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "be3c7b42700a42aca59ddd67042f622b-shard-0",
-        "claimed_at": "2026-11-02T14:54:22.371856+00:00",
-        "lease_expires_at": "2026-11-02T20:54:22.371856+00:00",
-        "run_id": "41436275458"
       }
     },
     "21748": {
@@ -16505,7 +16499,7 @@
       "last_plan": {
         "source_id": "32043882",
         "display_name": "Halloween (1978) 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:22:03.841544+00:00"
+        "planned_at": "2026-11-02T14:54:23.845547+00:00"
       },
       "previous_target_id": "30664667",
       "prepared": {
@@ -16513,6 +16507,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-10-31T11:53:53.244431+00:00",
         "relay_source_id": "32043882"
+      },
+      "claim": {
+        "worker_id": "a8367eec6ab648eab06fc4ffffb61eba-shard-0",
+        "claimed_at": "2026-11-02T14:54:24.055640+00:00",
+        "lease_expires_at": "2026-11-02T20:54:24.055640+00:00",
+        "run_id": "41436275458"
       }
     },
     "533": {
@@ -32614,7 +32614,7 @@
       "last_plan": {
         "source_id": "31222996",
         "display_name": "John Wick: Chapter 2 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:54:22.249613+00:00"
+        "planned_at": "2026-11-02T14:54:23.935450+00:00"
       }
     },
     "1252": {
@@ -63021,5 +63021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:54:22.600529+00:00"
+  "updated_at": "2026-11-02T14:54:24.287571+00:00"
 }
