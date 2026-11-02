@@ -30141,17 +30141,19 @@
       }
     },
     "11444": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33745962",
+          "target_video_id": "30724799",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:25:26.908839+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33745962",
         "display_name": "Sophie's Choice 1080p CZ Dabing",
         "planned_at": "2026-11-02T10:16:29.841863+00:00"
-      },
-      "claim": {
-        "worker_id": "2a56e84a6fc642f99dd6a97af886d65d-shard-0",
-        "claimed_at": "2026-11-02T10:16:29.996077+00:00",
-        "lease_expires_at": "2026-11-02T16:16:29.996077+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30724799",
       "prepared": {
@@ -30262,7 +30264,18 @@
       }
     },
     "18011": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34730952",
+        "display_name": "The Damned United 1080p CZ Dabing",
+        "planned_at": "2026-11-02T10:25:23.241560+00:00"
+      },
+      "claim": {
+        "worker_id": "e35fa4654c4049c697f5bd1f9a61e6fa-shard-0",
+        "claimed_at": "2026-11-02T10:25:23.395569+00:00",
+        "lease_expires_at": "2026-11-02T16:25:23.395569+00:00",
+        "run_id": "41401248142"
+      }
     },
     "1040": {
       "attempts": []
@@ -60086,5 +60099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:25:20.132923+00:00"
+  "updated_at": "2026-11-02T10:25:26.908856+00:00"
 }
