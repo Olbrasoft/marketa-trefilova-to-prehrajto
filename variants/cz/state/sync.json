@@ -28102,17 +28102,19 @@
       }
     },
     "953": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34968616",
+          "reason": "Request failed for https://sdilej.cz/34968616/hodiny-2002-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:32:06.539304+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34968616",
         "display_name": "The Hours 1080p CZ Dabing",
         "planned_at": "2026-11-02T05:31:20.657485+00:00"
-      },
-      "claim": {
-        "worker_id": "2df9dbe33f834d599bc8b5c61ce4a6fe-shard-0",
-        "claimed_at": "2026-11-02T05:31:20.837835+00:00",
-        "lease_expires_at": "2026-11-02T11:31:20.837835+00:00",
-        "run_id": "41372098637"
       }
     },
     "848": {
@@ -56986,5 +56988,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:31:22.034386+00:00"
+  "updated_at": "2026-11-02T05:32:06.539322+00:00"
 }
