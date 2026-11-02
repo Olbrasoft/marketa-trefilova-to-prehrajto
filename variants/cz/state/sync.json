@@ -28736,7 +28736,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-02T08:56:51.359111+00:00"
+        "planned_at": "2026-11-02T08:56:54.236852+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28744,6 +28744,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "e776dff06fa640c1b9a721d5834d5840-shard-0",
+        "claimed_at": "2026-11-02T08:56:54.483916+00:00",
+        "lease_expires_at": "2026-11-02T14:56:54.483916+00:00",
+        "run_id": "41401248142"
       }
     },
     "23584": {
@@ -29211,17 +29217,19 @@
       }
     },
     "11741": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33771184",
+          "target_video_id": "30722171",
+          "permanent": false,
+          "attempted_at": "2026-11-02T08:56:54.583282+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33771184",
         "display_name": "Dangerous Liaisons (1988) 1080p CZ Dabing",
         "planned_at": "2026-11-02T08:46:22.492941+00:00"
-      },
-      "claim": {
-        "worker_id": "7cc1a39e15d4491ea55e323bf5947c2a-shard-0",
-        "claimed_at": "2026-11-02T08:46:22.614610+00:00",
-        "lease_expires_at": "2026-11-02T14:46:22.614610+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30722171",
       "prepared": {
@@ -29257,7 +29265,7 @@
       "last_plan": {
         "source_id": "34704544",
         "display_name": "Quiz Show 1080p CZ Dabing",
-        "planned_at": "2026-11-02T08:56:51.451424+00:00"
+        "planned_at": "2026-11-02T08:56:54.329369+00:00"
       }
     },
     "18108": {
@@ -58767,5 +58775,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:56:51.451443+00:00"
+  "updated_at": "2026-11-02T08:56:54.583302+00:00"
 }
