@@ -27001,17 +27001,19 @@
       }
     },
     "940": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11432030",
+          "reason": "Request failed for https://sdilej.cz/11432030/the.favourite.2018.1080p.bluray.cz.dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:46:35.032966+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11432030",
         "display_name": "The Favourite 1080p CZ Dabing",
         "planned_at": "2026-11-02T02:45:48.339549+00:00"
-      },
-      "claim": {
-        "worker_id": "7e4748a4efa1423db0eb4b8ab1720060-shard-0",
-        "claimed_at": "2026-11-02T02:45:48.513010+00:00",
-        "lease_expires_at": "2026-11-02T08:45:48.513010+00:00",
-        "run_id": "41372098637"
       }
     },
     "865": {
@@ -55258,5 +55260,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:45:48.513045+00:00"
+  "updated_at": "2026-11-02T02:46:35.032987+00:00"
 }
