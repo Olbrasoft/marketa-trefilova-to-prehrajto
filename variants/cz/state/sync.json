@@ -35954,17 +35954,19 @@
       }
     },
     "21794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33563756",
+          "target_video_id": "30742950",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:48:17.747257+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33563756",
         "display_name": "Blowup (Blow-Up) SD CZ Dabing",
         "planned_at": "2026-11-02T21:46:17.750489+00:00"
-      },
-      "claim": {
-        "worker_id": "ee8714d1e3c844b0ba9d5dbe78561dc8-shard-0",
-        "claimed_at": "2026-11-02T21:46:17.908454+00:00",
-        "lease_expires_at": "2026-11-03T03:46:17.908454+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742950",
       "prepared": {
@@ -67581,5 +67583,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:46:22.084784+00:00"
+  "updated_at": "2026-11-02T21:48:17.747280+00:00"
 }
