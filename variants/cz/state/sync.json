@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-02T04:59:00.571786+00:00"
+        "planned_at": "2026-11-02T05:30:14.013346+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "0a8ada8a40ac4d7fbf1a1edd51aeaef2-shard-0",
+        "claimed_at": "2026-11-02T05:30:14.292411+00:00",
+        "lease_expires_at": "2026-11-02T11:30:14.292411+00:00",
+        "run_id": "41372098637"
       }
     },
     "29922": {
@@ -28015,17 +28021,19 @@
       }
     },
     "18713": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31181462",
+          "target_video_id": "30717548",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:31:07.273952+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31181462",
         "display_name": "Still Alice 1080p CZ Dabing",
         "planned_at": "2026-11-02T05:24:05.854389+00:00"
-      },
-      "claim": {
-        "worker_id": "5da83f6f6e1b4384b884e6c3573d0a6e-shard-0",
-        "claimed_at": "2026-11-02T05:24:06.029043+00:00",
-        "lease_expires_at": "2026-11-02T11:24:06.029043+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30717548",
       "prepared": {
@@ -28073,7 +28081,12 @@
       }
     },
     "1055": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24127771",
+        "display_name": "The Book Thief 1080p CZ Dabing",
+        "planned_at": "2026-11-02T05:30:14.127272+00:00"
+      }
     },
     "953": {
       "attempts": []
@@ -56949,5 +56962,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:30:12.627494+00:00"
+  "updated_at": "2026-11-02T05:31:07.273968+00:00"
 }
