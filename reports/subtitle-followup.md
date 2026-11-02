@@ -278,3 +278,4 @@ Attach subtitles only after target processing has finished.
 | Moonage Daydream SD CZ Titulky | 30712437 | https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Les Misérables (2012) 1080p CZ Titulky | 30712563 | https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv | Extract Czech track from exact source after processing |
 | BlacKkKlansman 1080p CZ Titulky | 30713447 | https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
+| Killers of the Flower Moon 4K CZ Titulky | 30713681 | https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
