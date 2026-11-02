@@ -10809,13 +10809,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-02T00:04:36.728835+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-02T00:41:19.330591+00:00"
         },
         {
@@ -10824,6 +10817,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-02T01:17:46.919241+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:56:19.127915+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10837,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "e09dbb47804641e398978977cb1d6971-shard-0",
-        "claimed_at": "2026-11-02T01:56:16.472267+00:00",
-        "lease_expires_at": "2026-11-02T07:56:16.472267+00:00",
-        "run_id": "41351617669"
       }
     },
     "21748": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-02T01:17:48.380264+00:00"
+        "planned_at": "2026-11-02T01:56:18.584854+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "5a931da15cba47898749086c1545a223-shard-0",
+        "claimed_at": "2026-11-02T01:56:18.759110+00:00",
+        "lease_expires_at": "2026-11-02T07:56:18.759110+00:00",
+        "run_id": "41351617669"
       }
     },
     "12843": {
@@ -26655,7 +26655,7 @@
       "last_plan": {
         "source_id": "32953356",
         "display_name": "Hugo 4K CZ Dabing",
-        "planned_at": "2026-11-02T01:56:16.361628+00:00"
+        "planned_at": "2026-11-02T01:56:18.648080+00:00"
       }
     },
     "10790": {
@@ -54710,5 +54710,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:56:17.310843+00:00"
+  "updated_at": "2026-11-02T01:56:19.127927+00:00"
 }
