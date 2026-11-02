@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-02T08:24:49.257568+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-02T08:55:27.245448+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-02T09:30:25.248059+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:03:20.007024+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "edafb5ec93fc4dc88c662a0b81514182-shard-0",
-        "claimed_at": "2026-11-02T10:03:17.470638+00:00",
-        "lease_expires_at": "2026-11-02T16:03:17.470638+00:00",
-        "run_id": "41401248142"
       }
     },
     "9": {
@@ -8032,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-02T09:30:26.554849+00:00"
+        "planned_at": "2026-11-02T10:03:19.506475+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8040,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "597b0787686245e5b21e50c7d82de8e3-shard-0",
+        "claimed_at": "2026-11-02T10:03:19.894090+00:00",
+        "lease_expires_at": "2026-11-02T16:03:19.894090+00:00",
+        "run_id": "41401248142"
       }
     },
     "10690": {
@@ -29886,7 +29886,7 @@
       "last_plan": {
         "source_id": "29677483",
         "display_name": "Roman Polanski: Odd Man Out (Odd Man Out) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T10:03:17.107644+00:00"
+        "planned_at": "2026-11-02T10:03:19.604993+00:00"
       }
     },
     "23459": {
@@ -59557,5 +59557,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:03:18.116631+00:00"
+  "updated_at": "2026-11-02T10:03:20.007049+00:00"
 }
