@@ -27338,7 +27338,20 @@
       }
     },
     "24282": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13411795",
+          "reason": "Request failed for https://sdilej.cz/13411795/traffic-nadvlada-gangu-traffic-2000-1080p-audio-cz-2xeng-subtitles-cz-sk-pol-eng.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:32:15.799949+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "13411795",
+        "display_name": "Traffic 1080p CZ Dabing",
+        "planned_at": "2026-11-02T03:31:29.657446+00:00"
+      }
     },
     "963": {
       "attempts": []
@@ -55791,5 +55804,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:31:27.966841+00:00"
+  "updated_at": "2026-11-02T03:32:15.799968+00:00"
 }
