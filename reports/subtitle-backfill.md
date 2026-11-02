@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:48:20.498336+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:48:24.136688+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 182, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 183, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -67,7 +67,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 37. Důvo
 | [Awakenings 1080p CZ Titulky](https://prehraj.to/awakenings-1080p-cz-titulky-mkv/782ece4b2bb318f6) (ID 30708294) | [Sdílej 35402008](https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T22:02:55.392397+00:00 |
 | [Baby Driver 1080p CZ Titulky](https://prehraj.to/baby-driver-1080p-cz-titulky-mkv/659fa4bba5746da5) (ID 30707542) | [Sdílej 34641510](https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-01T21:32:34.104430+00:00 |
 | [BlacKkKlansman 1080p CZ Titulky](https://prehraj.to/blackkklansman-1080p-cz-titulky-mkv/55432ccf5b5a0aa2) (ID 30713447) | [Sdílej 11006824](https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-02T02:26:10.166002+00:00 |
-| [Bloody Sunday 1080p CZ Titulky](https://prehraj.to/bloody-sunday-1080p-cz-titulky-mkv/8874c850999be4e8) (ID 30704538) | [Sdílej 27438732](https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv) | target_unavailable | 2026-11-01T19:21:11.167820+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T02:27:17.545998+00:00 |
 | [Carandiru 720p CZ Titulky](https://prehraj.to/carandiru-720p-cz-titulky-mkv/44db5579185dc4ba) (ID 30704838) | [Sdílej 16980032](https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv) | target_unavailable | 2026-11-01T19:31:26.751016+00:00 |
 | [Deadpool & Wolverine 4K CZ Titulky](https://prehraj.to/deadpool-wolverine-4k-cz-titulky-mkv/f421d0df60f84742) (ID 30708571) | [Sdílej 29803826](https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv) | target_unavailable | 2026-11-01T22:23:08.083857+00:00 |
