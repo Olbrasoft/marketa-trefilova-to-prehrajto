@@ -165,17 +165,17 @@ Attach subtitles only after target processing has finished.
 | The Fighter 1080p CZ Titulky | 30705917 | https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv | Extract Czech track from exact source after processing |
 | The Untouchables 1080p CZ Titulky | 30649618 | https://sdilej.cz/30833257/neuplatni-1987-hraji-k.-costner-r.-de-niro-s.-connery-full-hd-cz-dab.mkv | Complete: Czech subtitles verified |
 | All Quiet on the Western Front (Im Westen nichts Neues) (2022) 1080p CZ Titulky | 30649851 | https://sdilej.cz/23592768/all.quiet.on.the.western.front.2022.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.h.265-cz-titulky.mkv | Complete: Czech subtitles verified |
-| Obsession (2026) 4K CZ Titulky | 30705956 | https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv | Extract Czech track from exact source after processing |
-| Hidden Figures 1080p CZ Titulky | 30706154 | https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Obsession (2026) 4K CZ Titulky | 30705956 | https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv | Complete: Czech subtitles verified |
+| Hidden Figures 1080p CZ Titulky | 30706154 | https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv | Complete: Czech subtitles verified |
 | Walk the Line 1080p CZ Titulky | 30650875 | https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Straight Outta Compton 1080p CZ Titulky | 30707982 | https://sdilej.cz/5724266/straight-outta-compton-2015-cz-tit.mkv | Complete: Czech subtitles verified |
 | Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Tombstone 1080p CZ Titulky | 30651900 | https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
-| Awakenings 1080p CZ Titulky | 30708294 | https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Awakenings 1080p CZ Titulky | 30708294 | https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky | 30652651 | https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv | Complete: Czech subtitles verified |
-| Hunt for the Wilderpeople 1080p CZ Titulky | 30709933 | https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
+| Hunt for the Wilderpeople 1080p CZ Titulky | 30709933 | https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv | Complete: Czech subtitles verified |
 | Castaway on the Moon (김씨 표류기) 1080p CZ Titulky | 30652792 | https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv | Complete: Czech subtitles verified |
-| Midnight Cowboy 1080p CZ Titulky | 30711546 | https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Midnight Cowboy 1080p CZ Titulky | 30711546 | https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Hamnet 1080p CZ Titulky | 30653249 | https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv | Complete: Czech subtitles verified |
 | The Wind Rises (Kaze tachinu) 1080p CZ Titulky | 30653654 | https://sdilej.cz/22124732/-dragsterps-kaze-tachinu-1080p-multi-audio-multi-subs-h264-aac-21ec96d7-.mkv | Complete: Czech subtitles verified |
 | Harold and Maude 1080p CZ Titulky | 30654323 | https://sdilej.cz/35402272/harold.and.maude.1971.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
@@ -270,17 +270,17 @@ Attach subtitles only after target processing has finished.
 | Tell Me Who I Am 1080p CZ Titulky | 30705536 | https://sdilej.cz/33293335/tell.me.who.i.am.2019.1080p.nf.web-dl.dd.5.1.x264-ika.mkv | Complete: Czech subtitles verified |
 | Doctor Strange 1080p CZ Titulky | 30705687 | https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Harry Potter and the Chamber of Secrets 4K CZ Titulky | 30706996 | https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv | Complete: Czech subtitles verified |
-| Baby Driver 1080p CZ Titulky | 30707542 | https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Baby Driver 1080p CZ Titulky | 30707542 | https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv | Complete: Czech subtitles verified |
 | Deadpool & Wolverine 4K CZ Titulky | 30708571 | https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv | Complete: Czech subtitles verified |
 | Love Actually 4K CZ Titulky | 30709925 | https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv | Complete: Czech subtitles verified |
 | Sinners 4K CZ Titulky | 30710776 | https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv | Extract Czech track from exact source after processing |
-| Eyes Wide Shut 1080p CZ Titulky | 30711541 | https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv | Extract Czech track from exact source after processing |
-| Moonage Daydream SD CZ Titulky | 30712437 | https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| Eyes Wide Shut 1080p CZ Titulky | 30711541 | https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv | Complete: Czech subtitles verified |
+| Moonage Daydream SD CZ Titulky | 30712437 | https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv | Complete: Czech subtitles verified |
 | Les Misérables (2012) 1080p CZ Titulky | 30712563 | https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv | Complete: Czech subtitles verified |
-| BlacKkKlansman 1080p CZ Titulky | 30713447 | https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
-| Killers of the Flower Moon 4K CZ Titulky | 30713681 | https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| BlacKkKlansman 1080p CZ Titulky | 30713447 | https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv | Complete: Czech subtitles verified |
+| Killers of the Flower Moon 4K CZ Titulky | 30713681 | https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Val 1080p CZ Titulky | 30713783 | https://sdilej.cz/35179337/val-2021-cz-titulky.mp4 | Complete: Czech subtitles verified |
-| Promising Young Woman 720p CZ Titulky | 30714870 | https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv | Extract Czech track from exact source after processing |
+| Promising Young Woman 720p CZ Titulky | 30714870 | https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv | Complete: Czech subtitles verified |
 | Sleepers 1080p CZ Titulky | 30716443 | https://sdilej.cz/21679927/spaci-sleepers.1996.bluray.1080p.dts-hd.x264-cz-sk-dabing.mkv | Complete: Czech subtitles verified |
 | Erin Brockovich 1080p CZ Titulky | 30715404 | https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv | Extract Czech track from exact source after processing |
 | Upgrade 1080p CZ Titulky | 30715573 | https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv | Complete: Czech subtitles verified |
@@ -289,9 +289,9 @@ Attach subtitles only after target processing has finished.
 | King Richard SD | 30720567 | https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4 | Find and add matching Czech subtitles after processing |
 | A Fish Called Wanda 1080p CZ Titulky | 30720594 | https://sdilej.cz/20836545/a-fish-called-wanda-1988-hevc-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
 | The Book Thief 1080p CZ Titulky | 30720612 | https://sdilej.cz/27726753/zlodejka-knih-1080p-hd-.mp4 | Extract Czech track from exact source after processing |
-| Leaving Las Vegas 1080p CZ Titulky | 30720705 | https://sdilej.cz/35401844/leaving.las.vegas.1995.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Extract Czech track from exact source after processing |
+| Leaving Las Vegas 1080p CZ Titulky | 30720705 | https://sdilej.cz/35401844/leaving.las.vegas.1995.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Complete: Czech subtitles verified |
 | The Fabelmans 1080p CZ Titulky | 30721132 | https://sdilej.cz/25866863/fabelmanovi.mkv | Extract Czech track from exact source after processing |
-| The Life of David Gale 1080p CZ Titulky | 30721346 | https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv | Extract Czech track from exact source after processing |
+| The Life of David Gale 1080p CZ Titulky | 30721346 | https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv | Complete: Czech subtitles verified |
 | The Iron Claw 1080p CZ Titulky | 30722014 | https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
 | The Warriors 1080p CZ Titulky | 30722061 | https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Train Dreams 720p CZ Titulky | 30722369 | https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv | Extract Czech track from exact source after processing |
