@@ -34962,17 +34962,19 @@
       }
     },
     "11448": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33527395",
+          "target_video_id": "30741162",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:26:42.643509+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33527395",
         "display_name": "Tootsie 4K CZ Dabing",
         "planned_at": "2026-11-02T20:19:41.322368+00:00"
-      },
-      "claim": {
-        "worker_id": "dd697520735b43899a4c2323c92b2212-shard-0",
-        "claimed_at": "2026-11-02T20:19:42.968694+00:00",
-        "lease_expires_at": "2026-11-03T02:19:42.968694+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30741162",
       "prepared": {
@@ -35106,7 +35108,13 @@
       "last_plan": {
         "source_id": "26157587",
         "display_name": "Tár 1080p CZ Dabing",
-        "planned_at": "2026-11-02T20:26:34.598251+00:00"
+        "planned_at": "2026-11-02T20:26:39.471096+00:00"
+      },
+      "claim": {
+        "worker_id": "77e68943583e4db49fc48002c6bf7317-shard-0",
+        "claimed_at": "2026-11-02T20:26:39.591077+00:00",
+        "lease_expires_at": "2026-11-03T02:26:39.591077+00:00",
+        "run_id": "41509256577"
       }
     },
     "1080": {
@@ -66701,5 +66709,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:26:35.383455+00:00"
+  "updated_at": "2026-11-02T20:26:42.643530+00:00"
 }
