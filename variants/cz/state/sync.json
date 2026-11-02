@@ -36832,17 +36832,19 @@
       }
     },
     "32302": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "30743906",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:47:45.195696+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
         "planned_at": "2026-11-02T22:43:25.685914+00:00"
-      },
-      "claim": {
-        "worker_id": "138ee539585a48fca29707a28acc1885-shard-0",
-        "claimed_at": "2026-11-02T22:43:25.819569+00:00",
-        "lease_expires_at": "2026-11-03T04:43:25.819569+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -68567,5 +68569,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:46:58.347031+00:00"
+  "updated_at": "2026-11-02T22:47:45.195729+00:00"
 }
