@@ -32826,13 +32826,6 @@
           "source_id": "31902649",
           "target_video_id": "30734776",
           "permanent": false,
-          "attempted_at": "2026-11-02T20:15:23.138439+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31902649",
-          "target_video_id": "30734776",
-          "permanent": false,
           "attempted_at": "2026-11-02T20:47:04.416637+00:00"
         },
         {
@@ -32841,6 +32834,13 @@
           "target_video_id": "30734776",
           "permanent": false,
           "attempted_at": "2026-11-02T21:18:36.053203+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31902649",
+          "target_video_id": "30734776",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:49:29.241624+00:00"
         }
       ],
       "last_plan": {
@@ -32886,7 +32886,7 @@
       "last_plan": {
         "source_id": "27441829",
         "display_name": "John Wick: Chapter 3 – Parabellum (John Wick: Chapter 3 - Parabellum) 4K CZ Dabing",
-        "planned_at": "2026-11-02T21:18:37.675330+00:00"
+        "planned_at": "2026-11-02T21:49:28.077504+00:00"
       },
       "previous_target_id": "30734840",
       "prepared": {
@@ -32894,6 +32894,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-02T15:07:35.190615+00:00",
         "relay_source_id": "27441829"
+      },
+      "claim": {
+        "worker_id": "250a3c199c8d4be08eceb855ca7613d2-shard-0",
+        "claimed_at": "2026-11-02T21:49:28.282640+00:00",
+        "lease_expires_at": "2026-11-03T03:49:28.282640+00:00",
+        "run_id": "41509256577"
       }
     },
     "1136": {
@@ -35994,7 +36000,7 @@
       "last_plan": {
         "source_id": "35012193",
         "display_name": "Downton Abbey 1080p CZ Dabing",
-        "planned_at": "2026-11-02T21:49:26.575031+00:00"
+        "planned_at": "2026-11-02T21:49:28.160642+00:00"
       }
     },
     "17893": {
@@ -67600,5 +67606,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:49:26.575061+00:00"
+  "updated_at": "2026-11-02T21:49:29.241651+00:00"
 }
