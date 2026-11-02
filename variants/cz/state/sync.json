@@ -36348,17 +36348,19 @@
       "attempts": []
     },
     "18943": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34697747",
+          "target_video_id": "30743387",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:18:26.037089+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34697747",
         "display_name": "Looking: The Movie (Looking) 1080p CZ Dabing",
         "planned_at": "2026-11-02T22:15:40.489692+00:00"
-      },
-      "claim": {
-        "worker_id": "e0b46f5e82c9483e92fcf3e4495a6c55-shard-0",
-        "claimed_at": "2026-11-02T22:15:40.614771+00:00",
-        "lease_expires_at": "2026-11-03T04:15:40.614771+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743387",
       "prepared": {
@@ -68143,5 +68145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:15:44.482394+00:00"
+  "updated_at": "2026-11-02T22:18:26.037112+00:00"
 }
