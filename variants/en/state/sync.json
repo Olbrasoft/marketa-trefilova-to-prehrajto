@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-02T04:34:18.094951+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-02T05:07:39.647810+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-02T05:43:18.796507+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-02T07:14:27.446542+00:00"
         }
       ],
       "last_plan": {
@@ -259,12 +259,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "d659558ea527450da382eee16337f56c-shard-0",
-        "claimed_at": "2026-11-02T07:14:24.594317+00:00",
-        "lease_expires_at": "2026-11-02T13:14:24.594317+00:00",
-        "run_id": "41401248142"
       }
     },
     "24": {
@@ -1990,7 +1984,7 @@
       "last_plan": {
         "source_id": "33013175",
         "display_name": "Braveheart 4K CZ Titulky",
-        "planned_at": "2026-11-02T05:43:21.578328+00:00"
+        "planned_at": "2026-11-02T07:14:27.207040+00:00"
       },
       "previous_target_id": "30597835",
       "prepared": {
@@ -1998,6 +1992,12 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
+      },
+      "claim": {
+        "worker_id": "9f56737282e041c9a1c5d18fc2cac42b-shard-0",
+        "claimed_at": "2026-11-02T07:14:27.314259+00:00",
+        "lease_expires_at": "2026-11-02T13:14:27.314259+00:00",
+        "run_id": "41401248142"
       }
     },
     "108": {
@@ -14365,7 +14365,7 @@
       "last_plan": {
         "source_id": "27726753",
         "display_name": "The Book Thief 1080p CZ Titulky",
-        "planned_at": "2026-11-02T07:14:24.556341+00:00"
+        "planned_at": "2026-11-02T07:14:27.276813+00:00"
       }
     },
     "953": {
@@ -43509,5 +43509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T07:14:25.620646+00:00"
+  "updated_at": "2026-11-02T07:14:27.446570+00:00"
 }
