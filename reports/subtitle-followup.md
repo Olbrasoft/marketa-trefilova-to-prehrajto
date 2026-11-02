@@ -293,14 +293,14 @@ Attach subtitles only after target processing has finished.
 | The Fabelmans 1080p CZ Titulky | 30721132 | https://sdilej.cz/25866863/fabelmanovi.mkv | Extract Czech track from exact source after processing |
 | The Life of David Gale 1080p CZ Titulky | 30721346 | https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv | Complete: Czech subtitles verified |
 | The Iron Claw 1080p CZ Titulky | 30722014 | https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
-| The Warriors 1080p CZ Titulky | 30722061 | https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
-| Train Dreams 720p CZ Titulky | 30722369 | https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv | Extract Czech track from exact source after processing |
-| Disconnect 1080p CZ Titulky | 30726802 | https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv | Extract Czech track from exact source after processing |
-| Drive My Car (Doraibu mai kâ) 1080p CZ Titulky | 30727014 | https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky | 30728908 | https://sdilej.cz/32616287/neni-jina-moznost-2025-komedie-thriller-ko-eac3-2.0-titulky-cz-en-h265-1080p.mkv | Extract Czech track from exact source after processing |
+| The Warriors 1080p CZ Titulky | 30722061 | https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv | Complete: Czech subtitles verified |
+| Train Dreams 720p CZ Titulky | 30722369 | https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv | Complete: Czech subtitles verified |
+| Disconnect 1080p CZ Titulky | 30726802 | https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv | Complete: Czech subtitles verified |
+| Drive My Car (Doraibu mai kâ) 1080p CZ Titulky | 30727014 | https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv | Complete: Czech subtitles verified |
+| No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky | 30728908 | https://sdilej.cz/32616287/neni-jina-moznost-2025-komedie-thriller-ko-eac3-2.0-titulky-cz-en-h265-1080p.mkv | Complete: Czech subtitles verified |
 | The Guilty (Den skyldige) (2018) 1080p CZ Titulky | 30731596 | https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv | Extract Czech track from exact source after processing |
 | Victoria 1080p CZ Titulky | 30731842 | https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
-| Chaplin 1080p CZ Titulky | 30732524 | https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv | Extract Czech track from exact source after processing |
+| Chaplin 1080p CZ Titulky | 30732524 | https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv | Complete: Czech subtitles verified |
 | The Invite 4K CZ Titulky | 30735713 | https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | The Tenant (1976) 1080p CZ Titulky | 30735788 | https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv | Extract Czech track from exact source after processing |
 | A Hard Day's Night 1080p CZ Titulky | 30735890 | https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv | Extract Czech track from exact source after processing |
