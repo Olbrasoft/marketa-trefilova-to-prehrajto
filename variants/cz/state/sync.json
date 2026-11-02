@@ -28060,17 +28060,19 @@
       }
     },
     "26091": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14895931",
+          "target_video_id": "30717649",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:35:31.543298+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14895931",
         "display_name": "Doubt 1080p CZ Dabing",
         "planned_at": "2026-11-02T05:29:27.637876+00:00"
-      },
-      "claim": {
-        "worker_id": "91dfddc24cfc478d9e78197ecb9bd26c-shard-0",
-        "claimed_at": "2026-11-02T05:29:27.783296+00:00",
-        "lease_expires_at": "2026-11-02T11:29:27.783296+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30717649",
       "prepared": {
@@ -57006,5 +57008,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:32:12.293449+00:00"
+  "updated_at": "2026-11-02T05:35:31.543314+00:00"
 }
