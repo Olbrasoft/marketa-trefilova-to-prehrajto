@@ -14093,13 +14093,6 @@
           "source_id": "19346570",
           "target_video_id": "30715404",
           "permanent": false,
-          "attempted_at": "2026-11-02T04:57:26.777113+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19346570",
-          "target_video_id": "30715404",
-          "permanent": false,
           "attempted_at": "2026-11-02T05:28:25.728421+00:00"
         },
         {
@@ -14108,6 +14101,13 @@
           "target_video_id": "30715404",
           "permanent": false,
           "attempted_at": "2026-11-02T06:00:25.160438+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19346570",
+          "target_video_id": "30715404",
+          "permanent": false,
+          "attempted_at": "2026-11-02T07:15:07.863532+00:00"
         }
       ],
       "last_plan": {
@@ -14121,12 +14121,6 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-02T03:41:03.364348+00:00",
         "relay_source_id": "19346570"
-      },
-      "claim": {
-        "worker_id": "1c3a9abd8c224ee2960180a7a4978e6c-shard-0",
-        "claimed_at": "2026-11-02T07:15:05.354216+00:00",
-        "lease_expires_at": "2026-11-02T13:15:05.354216+00:00",
-        "run_id": "41401248142"
       }
     },
     "880": {
@@ -14162,7 +14156,7 @@
       "last_plan": {
         "source_id": "12991788",
         "display_name": "Upgrade 1080p CZ Titulky",
-        "planned_at": "2026-11-02T06:00:28.026856+00:00"
+        "planned_at": "2026-11-02T07:15:07.633469+00:00"
       },
       "previous_target_id": "30715573",
       "prepared": {
@@ -14170,6 +14164,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-02T03:48:54.760013+00:00",
         "relay_source_id": "12991788"
+      },
+      "claim": {
+        "worker_id": "fe33d3654fbb4adfa89ed9f326066d8c-shard-0",
+        "claimed_at": "2026-11-02T07:15:07.742381+00:00",
+        "lease_expires_at": "2026-11-02T13:15:07.742381+00:00",
+        "run_id": "41401248142"
       }
     },
     "17824": {
@@ -14371,7 +14371,7 @@
       "last_plan": {
         "source_id": "27726753",
         "display_name": "The Book Thief 1080p CZ Titulky",
-        "planned_at": "2026-11-02T07:15:05.313092+00:00"
+        "planned_at": "2026-11-02T07:15:07.702793+00:00"
       }
     },
     "953": {
@@ -43515,5 +43515,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T07:15:05.354234+00:00"
+  "updated_at": "2026-11-02T07:15:07.863557+00:00"
 }
