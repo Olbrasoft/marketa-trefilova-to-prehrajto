@@ -34733,17 +34733,19 @@
       }
     },
     "22420": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26735241",
+          "target_video_id": "30740747",
+          "permanent": false,
+          "attempted_at": "2026-11-02T19:55:38.042773+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26735241",
         "display_name": "Animal House 1080p CZ Dabing",
         "planned_at": "2026-11-02T19:45:44.454566+00:00"
-      },
-      "claim": {
-        "worker_id": "0d2019e2a73145e4ada78da678094b55-shard-0",
-        "claimed_at": "2026-11-02T19:45:44.655318+00:00",
-        "lease_expires_at": "2026-11-03T01:45:44.655318+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30740747",
       "prepared": {
@@ -66150,5 +66152,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:50:15.015025+00:00"
+  "updated_at": "2026-11-02T19:55:38.042788+00:00"
 }
