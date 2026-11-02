@@ -309,3 +309,4 @@ Attach subtitles only after target processing has finished.
 | Hair 1080p CZ Titulky | 30738024 | https://sdilej.cz/29035963/vlasy.mkv | Extract Czech track from exact source after processing |
 | Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky | 30738340 | https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | One Life 1080p CZ Titulky | 30739164 | https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| Cure 1080p CZ Titulky | 30739372 | https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv | Extract Czech track from exact source after processing |
