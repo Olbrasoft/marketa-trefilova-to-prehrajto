@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:56:41.261463+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:56:44.891933+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
@@ -91,7 +91,7 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 19. Důvo
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | source_unavailable | 2026-11-02T02:47:41.585912+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-02T02:28:05.404120+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-02T02:27:02.005831+00:00 |
-| [Shaun of the Dead 720p CZ Titulky](https://prehraj.to/shaun-of-the-dead-720p-cz-titulky-mkv/03af392ee4a8870a) (ID 30705871) | [Sdílej 30657982](https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T20:12:17.503845+00:00 |
+| [Shaun of the Dead 720p CZ Titulky](https://prehraj.to/shaun-of-the-dead-720p-cz-titulky-mkv/03af392ee4a8870a) (ID 30705871) | [Sdílej 30657982](https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-02T02:56:44.891852+00:00 |
 | [Sinners 4K CZ Titulky](https://prehraj.to/sinners-4k-cz-titulky-mkv/ebd12fa5922bca2f) (ID 30710776) | [Sdílej 31188853](https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv) | target_unavailable | 2026-11-02T00:14:15.347410+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-02T02:27:29.855594+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-02T02:27:42.559312+00:00 |
