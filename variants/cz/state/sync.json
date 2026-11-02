@@ -32402,17 +32402,19 @@
       "attempts": []
     },
     "1255": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33347475",
+          "target_video_id": "30733822",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:36:24.319176+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33347475",
         "display_name": "Pirates of the Caribbean: Dead Man's Chest 4K CZ Dabing",
         "planned_at": "2026-11-02T14:23:01.003980+00:00"
-      },
-      "claim": {
-        "worker_id": "3111875b7eb44c7fb781d3593c13bbf0-shard-0",
-        "claimed_at": "2026-11-02T14:23:01.130322+00:00",
-        "lease_expires_at": "2026-11-02T20:23:01.130322+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30733822",
       "prepared": {
@@ -32513,7 +32515,13 @@
       "last_plan": {
         "source_id": "25411039",
         "display_name": "Crazy, Stupid, Love. 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:36:12.388804+00:00"
+        "planned_at": "2026-11-02T14:36:14.770056+00:00"
+      },
+      "claim": {
+        "worker_id": "9ec7f186719641a99828e37c1edc97e8-shard-0",
+        "claimed_at": "2026-11-02T14:36:14.896221+00:00",
+        "lease_expires_at": "2026-11-02T20:36:14.896221+00:00",
+        "run_id": "41436275458"
       }
     },
     "1107": {
@@ -62929,5 +62937,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:36:13.288061+00:00"
+  "updated_at": "2026-11-02T14:36:24.319198+00:00"
 }
