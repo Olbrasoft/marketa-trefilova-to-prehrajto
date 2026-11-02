@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:57:03.256851+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:57:06.780157+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 210, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 211, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -77,7 +77,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | [King Richard SD](https://prehraj.to/king-richard-sd-mp4/99fdf9d28d271972) (ID 30720567) | [Sdílej 18887803](https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4) | target_unavailable | 2026-11-02T07:13:59.086854+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T16:19:43.921009+00:00 |
 | [Leaving Las Vegas 1080p CZ Titulky](https://prehraj.to/leaving-las-vegas-1080p-cz-titulky-mkv/a8dd1374faa8d897) (ID 30720705) | [Sdílej 35401844](https://sdilej.cz/35401844/leaving.las.vegas.1995.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-02T07:34:08.080304+00:00 |
-| [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T07:00:27.594345+00:00 |
 | [No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky](https://prehraj.to/no-other-choice-eojjeolsuga-eobsda-1080p-cz-titulky-mkv/cd4b7c942a1dd790) (ID 30728908) | [Sdílej 32616287](https://sdilej.cz/32616287/neni-jina-moznost-2025-komedie-thriller-ko-eac3-2.0-titulky-cz-en-h265-1080p.mkv) | target_unavailable | 2026-11-02T12:02:43.113946+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-02T16:19:36.903433+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T16:17:04.320007+00:00 |
