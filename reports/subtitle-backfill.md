@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T03:57:20.283845+00:00
+Poslední aktualizace (UTC): 2026-11-02T03:57:23.920830+00:00
 
 Zkontrolováno videí: 280. Další stránka kontroly: 0.
 
@@ -82,7 +82,7 @@ Kontrol: 19; odesláno: 1; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T03:48:49.625438+00:00 |
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T03:08:08.671567+00:00 |
 | [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T03:08:12.393576+00:00 |
-| [Nightcrawler 1080p CZ Titulky](https://prehraj.to/nightcrawler-1080p-cz-titulky-mkv/e990a68c9d3b618a) (ID 30705872) | [Sdílej 35011160](https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T02:56:48.624594+00:00 |
+| [Nightcrawler 1080p CZ Titulky](https://prehraj.to/nightcrawler-1080p-cz-titulky-mkv/e990a68c9d3b618a) (ID 30705872) | [Sdílej 35011160](https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T03:57:23.920761+00:00 |
 | [Obsession (2026) 4K CZ Titulky](https://prehraj.to/obsession-2026-4k-cz-titulky-mkv/6412dae282b5a0f6) (ID 30705956) | [Sdílej 34596026](https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv) | target_unavailable | 2026-11-02T03:07:27.227625+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-02T03:48:41.887910+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T03:48:31.075413+00:00 |
