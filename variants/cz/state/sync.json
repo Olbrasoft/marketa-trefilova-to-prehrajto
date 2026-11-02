@@ -27054,17 +27054,19 @@
       }
     },
     "945": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32448779",
+          "target_video_id": "30714411",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:09:00.775784+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32448779",
         "display_name": "Master and Commander: The Far Side of the World 4K CZ Dabing",
         "planned_at": "2026-11-02T02:50:16.245733+00:00"
-      },
-      "claim": {
-        "worker_id": "c6004016db5f4640ad1fba19b3d6799f-shard-0",
-        "claimed_at": "2026-11-02T02:50:16.420058+00:00",
-        "lease_expires_at": "2026-11-02T08:50:16.420058+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30714411",
       "prepared": {
@@ -55330,5 +55332,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:58:37.809083+00:00"
+  "updated_at": "2026-11-02T03:09:00.775800+00:00"
 }
