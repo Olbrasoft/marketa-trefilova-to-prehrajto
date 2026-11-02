@@ -35187,17 +35187,19 @@
       }
     },
     "22983": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25605923",
+          "target_video_id": "30741362",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:35:42.001516+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25605923",
         "display_name": "The Land Before Time SD CZ Dabing",
         "planned_at": "2026-11-02T20:34:30.927299+00:00"
-      },
-      "claim": {
-        "worker_id": "6848b5d57a654111b89a08835a252197-shard-0",
-        "claimed_at": "2026-11-02T20:34:31.047123+00:00",
-        "lease_expires_at": "2026-11-03T02:34:31.047123+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30741362",
       "prepared": {
@@ -66787,5 +66789,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:34:34.192653+00:00"
+  "updated_at": "2026-11-02T20:35:42.001537+00:00"
 }
