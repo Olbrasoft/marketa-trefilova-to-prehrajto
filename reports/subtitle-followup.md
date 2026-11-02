@@ -281,7 +281,7 @@ Attach subtitles only after target processing has finished.
 | Killers of the Flower Moon 4K CZ Titulky | 30713681 | https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Val 1080p CZ Titulky | 30713783 | https://sdilej.cz/35179337/val-2021-cz-titulky.mp4 | Extract Czech track from exact source after processing |
 | Promising Young Woman 720p CZ Titulky | 30714870 | https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv | Extract Czech track from exact source after processing |
-| Sleepers 1080p CZ Titulky | 30716443 | https://sdilej.cz/21679927/spaci-sleepers.1996.bluray.1080p.dts-hd.x264-cz-sk-dabing.mkv | Extract Czech track from exact source after processing |
+| Sleepers 1080p CZ Titulky | 30716443 | https://sdilej.cz/21679927/spaci-sleepers.1996.bluray.1080p.dts-hd.x264-cz-sk-dabing.mkv | Complete: Czech subtitles verified |
 | Erin Brockovich 1080p CZ Titulky | 30715404 | https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv | Extract Czech track from exact source after processing |
 | Upgrade 1080p CZ Titulky | 30715573 | https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv | Extract Czech track from exact source after processing |
 | Falling Down 1080p CZ Titulky | 30717138 | https://sdilej.cz/23077616/volny-pad-1993-fhd-1080p--cz-pl-pl-eng-eng-true-hd-.mkv | Extract Czech track from exact source after processing |
