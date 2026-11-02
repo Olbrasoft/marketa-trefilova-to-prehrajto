@@ -28122,17 +28122,19 @@
       }
     },
     "848": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33860617",
+          "target_video_id": "30717702",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:42:14.180084+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33860617",
         "display_name": "The Omen (1976) 4K CZ Dabing",
         "planned_at": "2026-11-02T05:32:08.032941+00:00"
-      },
-      "claim": {
-        "worker_id": "f4c81094ed274e2ab0eb605e8b923722-shard-0",
-        "claimed_at": "2026-11-02T05:32:08.219834+00:00",
-        "lease_expires_at": "2026-11-02T11:32:08.219834+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30717702",
       "prepared": {
@@ -57059,5 +57061,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:36:29.931784+00:00"
+  "updated_at": "2026-11-02T05:42:14.180101+00:00"
 }
