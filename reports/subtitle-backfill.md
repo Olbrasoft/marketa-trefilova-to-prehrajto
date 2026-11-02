@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T17:06:08.016849+00:00
+Poslední aktualizace (UTC): 2026-11-02T17:06:11.923044+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 220, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 22, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 221, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -72,7 +72,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 9. Důvod
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-02T16:19:40.492953+00:00 |
 | [King Richard SD](https://prehraj.to/king-richard-sd-mp4/99fdf9d28d271972) (ID 30720567) | [Sdílej 18887803](https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4) | target_unavailable | 2026-11-02T16:57:26.133121+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T16:19:43.921009+00:00 |
-| [No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky](https://prehraj.to/no-other-choice-eojjeolsuga-eobsda-1080p-cz-titulky-mkv/cd4b7c942a1dd790) (ID 30728908) | [Sdílej 32616287](https://sdilej.cz/32616287/neni-jina-moznost-2025-komedie-thriller-ko-eac3-2.0-titulky-cz-en-h265-1080p.mkv) | target_unavailable | 2026-11-02T12:02:43.113946+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-02T16:19:36.903433+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T16:17:04.320007+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-02T16:19:52.704057+00:00 |
