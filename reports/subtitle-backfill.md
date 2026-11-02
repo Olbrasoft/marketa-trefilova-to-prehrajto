@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:57:18.665179+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:57:22.268365+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
@@ -69,7 +69,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | [Chaplin 1080p CZ Titulky](https://prehraj.to/chaplin-1080p-cz-titulky-mkv/e9d5387686fa032e) (ID 30732524) | [Sdílej 14793770](https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv) | target_unavailable | 2026-11-02T13:33:38.650196+00:00 |
 | [Disconnect 1080p CZ Titulky](https://prehraj.to/disconnect-1080p-cz-titulky-mkv/b3f83b9a614ab11b) (ID 30726802) | [Sdílej 33085256](https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv) | target_unavailable | 2026-11-02T11:42:41.360931+00:00 |
 | [Drive My Car (Doraibu mai kâ) 1080p CZ Titulky](https://prehraj.to/drive-my-car-doraibu-mai-ka-1080p-cz-titulky-mkv/ee7b449f7eace391) (ID 30727014) | [Sdílej 20536962](https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv) | target_unavailable | 2026-11-02T11:52:44.008526+00:00 |
-| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T07:00:40.858772+00:00 |
+| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T16:57:22.268283+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-02T16:16:23.758802+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-02T16:19:40.492953+00:00 |
 | [King Richard SD](https://prehraj.to/king-richard-sd-mp4/99fdf9d28d271972) (ID 30720567) | [Sdílej 18887803](https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4) | target_unavailable | 2026-11-02T07:13:59.086854+00:00 |
