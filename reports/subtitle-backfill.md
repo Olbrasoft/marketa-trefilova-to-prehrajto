@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T01:45:56.043737+00:00
+Poslední aktualizace (UTC): 2026-11-02T01:45:57.879102+00:00
 
 Zkontrolováno videí: 274. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 70, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 71, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -93,6 +93,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 72. Důvod
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T01:05:03.319086+00:00 |
 | [Minority Report 1080p CZ Titulky](https://prehraj.to/minority-report-1080p-cz-titulky-mkv/660ee20de4351d2d) (ID 30680415) | [Sdílej 35402382](https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T06:52:21.857622+00:00 |
 | [Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Titulky](https://prehraj.to/mission-impossible-dead-reckoning-part-one-mission-impossible-dead-reckoning-part-one-4k-cz-titulky-mkv/f7c4fa7a213a7542) (ID 30684282) | [Sdílej 27023564](https://sdilej.cz/27023564/mission.impossible.dead.reckoning.part.one-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-01T06:43:39.451898+00:00 |
+| [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T01:45:57.879017+00:00 |
 | [My Mom Jayne 1080p CZ Titulky](https://prehraj.to/my-mom-jayne-1080p-cz-titulky-mkv/f2c42d24be6019db) (ID 30705710) | [Sdílej 34393497](https://sdilej.cz/34393497/my-mom-jayne-2025-1080p-hulu-web-dl-h264-sdr-ddp-5-1-english-hone.mkv) | target_unavailable | 2026-11-01T20:12:13.687710+00:00 |
 | [Nightcrawler 1080p CZ Titulky](https://prehraj.to/nightcrawler-1080p-cz-titulky-mkv/e990a68c9d3b618a) (ID 30705872) | [Sdílej 35011160](https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-01T20:12:21.153310+00:00 |
 | [Nirvanna the Band the Show the Movie SD CZ Titulky](https://prehraj.to/nirvanna-the-band-the-show-the-movie-sd-cz-titulky-mkv/697f70f2819fb4b5) (ID 30704201) | [Sdílej 33745604](https://sdilej.cz/33745604/nirvanna-the-band-the-show-the-movie-2025-cz.tit.mkv) | target_unavailable | 2026-11-01T19:01:00.822006+00:00 |
