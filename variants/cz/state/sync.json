@@ -37389,17 +37389,19 @@
       "attempts": []
     },
     "1086": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33598934",
+          "target_video_id": "30744604",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:21:17.613988+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33598934",
         "display_name": "The Teachers' Lounge (Das Lehrerzimmer) 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:17:37.962063+00:00"
-      },
-      "claim": {
-        "worker_id": "2bf94041db5c421296fbe215a83d7237-shard-0",
-        "claimed_at": "2026-11-02T23:17:38.103120+00:00",
-        "lease_expires_at": "2026-11-03T05:17:38.103120+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744604",
       "prepared": {
@@ -69211,5 +69213,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:17:42.129005+00:00"
+  "updated_at": "2026-11-02T23:21:17.614023+00:00"
 }
