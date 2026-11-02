@@ -31307,17 +31307,19 @@
       }
     },
     "29897": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34255452",
+          "target_video_id": "30730921",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:22:23.368176+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34255452",
         "display_name": "The Barbarian Invasions 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:19:23.039420+00:00"
-      },
-      "claim": {
-        "worker_id": "71387b9a71a446128446e45c93a4e32a-shard-0",
-        "claimed_at": "2026-11-02T12:19:23.173891+00:00",
-        "lease_expires_at": "2026-11-02T18:19:23.173891+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30730921",
       "prepared": {
@@ -61221,5 +61223,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:19:27.654718+00:00"
+  "updated_at": "2026-11-02T12:22:23.368193+00:00"
 }
