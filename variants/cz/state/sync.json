@@ -27356,17 +27356,19 @@
       }
     },
     "963": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33109525",
+          "target_video_id": "30715251",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:39:39.366252+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33109525",
         "display_name": "Falling Down 4K CZ Dabing",
         "planned_at": "2026-11-02T03:32:18.434680+00:00"
-      },
-      "claim": {
-        "worker_id": "0e65a2c25bf148f2b3a9c069e1f29ef8-shard-0",
-        "claimed_at": "2026-11-02T03:32:18.609252+00:00",
-        "lease_expires_at": "2026-11-02T09:32:18.609252+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30715251",
       "prepared": {
@@ -55842,5 +55844,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:35:27.534778+00:00"
+  "updated_at": "2026-11-02T03:39:39.366269+00:00"
 }
