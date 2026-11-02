@@ -27712,17 +27712,19 @@
       }
     },
     "994": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33853105",
+          "target_video_id": "30716818",
+          "permanent": false,
+          "attempted_at": "2026-11-02T04:48:55.128954+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33853105",
         "display_name": "The Assassination of Jesse James by the Coward Robert Ford SD CZ Dabing",
         "planned_at": "2026-11-02T04:45:51.225441+00:00"
-      },
-      "claim": {
-        "worker_id": "06d2a711a836448dbae928a48a5edc0d-shard-0",
-        "claimed_at": "2026-11-02T04:45:51.388592+00:00",
-        "lease_expires_at": "2026-11-02T10:45:51.388592+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30716818",
       "prepared": {
@@ -56420,5 +56422,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T04:48:35.179438+00:00"
+  "updated_at": "2026-11-02T04:48:55.128976+00:00"
 }
