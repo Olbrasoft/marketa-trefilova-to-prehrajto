@@ -32826,13 +32826,6 @@
           "source_id": "31902649",
           "target_video_id": "30734776",
           "permanent": false,
-          "attempted_at": "2026-11-02T21:49:29.241624+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31902649",
-          "target_video_id": "30734776",
-          "permanent": false,
           "attempted_at": "2026-11-02T22:20:18.899758+00:00"
         },
         {
@@ -32841,6 +32834,13 @@
           "target_video_id": "30734776",
           "permanent": false,
           "attempted_at": "2026-11-02T22:54:24.833334+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31902649",
+          "target_video_id": "30734776",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:25:38.391085+00:00"
         }
       ],
       "last_plan": {
@@ -32886,7 +32886,7 @@
       "last_plan": {
         "source_id": "27441829",
         "display_name": "John Wick: Chapter 3 – Parabellum (John Wick: Chapter 3 - Parabellum) 4K CZ Dabing",
-        "planned_at": "2026-11-02T22:54:26.371658+00:00"
+        "planned_at": "2026-11-02T23:25:37.296984+00:00"
       },
       "previous_target_id": "30734840",
       "prepared": {
@@ -32894,6 +32894,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-02T15:07:35.190615+00:00",
         "relay_source_id": "27441829"
+      },
+      "claim": {
+        "worker_id": "f5554a5ce4974a0cbe68308cdf8fd136-shard-0",
+        "claimed_at": "2026-11-02T23:25:37.505283+00:00",
+        "lease_expires_at": "2026-11-03T05:25:37.505283+00:00",
+        "run_id": "41509256577"
       }
     },
     "1136": {
@@ -37498,7 +37504,7 @@
       "last_plan": {
         "source_id": "28691178",
         "display_name": "The King and I 1080p CZ Dabing",
-        "planned_at": "2026-11-02T23:25:34.670991+00:00"
+        "planned_at": "2026-11-02T23:25:37.378920+00:00"
       }
     },
     "34629": {
@@ -69279,5 +69285,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:25:34.671012+00:00"
+  "updated_at": "2026-11-02T23:25:38.391108+00:00"
 }
