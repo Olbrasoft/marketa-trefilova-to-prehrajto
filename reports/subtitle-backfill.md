@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T18:27:49.195119+00:00
+Poslední aktualizace (UTC): 2026-11-02T18:27:53.837547+00:00
 
 Zkontrolováno videí: 305. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 223, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 22, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 224, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -81,7 +81,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvod
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-02T17:37:46.787430+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-02T17:38:02.156345+00:00 |
 | [The Book Thief 1080p CZ Titulky](https://prehraj.to/the-book-thief-1080p-cz-titulky-mp4-marco/869ce63af8f39b12) (ID 30720612) | [Sdílej 27726753](https://sdilej.cz/27726753/zlodejka-knih-1080p-hd-.mp4) | target_unavailable | 2026-11-02T18:27:47.418111+00:00 |
-| [The Fabelmans 1080p CZ Titulky](https://prehraj.to/the-fabelmans-1080p-cz-titulky-mkv/0db4eeec0e851b9d) (ID 30721132) | [Sdílej 25866863](https://sdilej.cz/25866863/fabelmanovi.mkv) | target_unavailable | 2026-11-02T16:57:50.026662+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-02T18:27:24.367819+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T17:37:58.338829+00:00 |
 | [The Guilty (Den skyldige) (2018) 1080p CZ Titulky](https://prehraj.to/the-guilty-den-skyldige-2018-1080p-cz-titulky-mkv/5f88cd31cdce9aa4) (ID 30731596) | [Sdílej 22087227](https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv) | target_unavailable | 2026-11-02T17:06:15.780751+00:00 |
