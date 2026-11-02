@@ -34619,17 +34619,19 @@
       }
     },
     "21880": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30542167",
+          "target_video_id": "30740561",
+          "permanent": false,
+          "attempted_at": "2026-11-02T19:35:01.380664+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30542167",
         "display_name": "War and Peace, Part IV: Pierre Bezukhov SD CZ Dabing",
         "planned_at": "2026-11-02T19:32:14.088729+00:00"
-      },
-      "claim": {
-        "worker_id": "6031a5d4bf404259bf1a81faa2c76d79-shard-0",
-        "claimed_at": "2026-11-02T19:32:14.289728+00:00",
-        "lease_expires_at": "2026-11-03T01:32:14.289728+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30740561",
       "prepared": {
@@ -66051,5 +66053,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:33:36.526937+00:00"
+  "updated_at": "2026-11-02T19:35:01.380682+00:00"
 }
