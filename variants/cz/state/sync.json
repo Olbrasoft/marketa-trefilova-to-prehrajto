@@ -31444,17 +31444,19 @@
       }
     },
     "29988": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34900497",
+          "target_video_id": "30731341",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:46:15.122322+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34900497",
         "display_name": "Cyrano de Bergerac 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:36:13.008868+00:00"
-      },
-      "claim": {
-        "worker_id": "186726c6b0544bae90327b89cafb6d25-shard-0",
-        "claimed_at": "2026-11-02T12:36:13.129709+00:00",
-        "lease_expires_at": "2026-11-02T18:36:13.129709+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30731341",
       "prepared": {
@@ -61612,5 +61614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:44:55.901385+00:00"
+  "updated_at": "2026-11-02T12:46:15.122339+00:00"
 }
