@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T19:06:52.671782+00:00
+Poslední aktualizace (UTC): 2026-11-02T19:06:57.165374+00:00
 
 Zkontrolováno videí: 308. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 226, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 226, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 22, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -91,6 +91,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Tenant (1976) 1080p CZ Titulky](https://prehraj.to/the-tenant-1976-1080p-cz-titulky-mkv/b0018beec69c3105) (ID 30735788) | [Sdílej 35056653](https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv) | target_unavailable | 2026-11-02T18:28:14.161973+00:00 |
 | [Victoria 1080p CZ Titulky](https://prehraj.to/victoria-1080p-cz-titulky-mkv/0c712c1d442c157a) (ID 30731842) | [Sdílej 32445048](https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T18:28:05.904797+00:00 |
 | [Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky](https://prehraj.to/wallace-and-gromit-vengeance-most-fowl-wallace-gromit-vengeance-most-fowl-1080p-cz-titulky-mkv/53d49c0924afc741) (ID 30738340) | [Sdílej 30394661](https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T18:56:47.340279+00:00 |
+| [Waves 720p CZ Titulky](https://prehraj.to/waves-720p-cz-titulky-mkv/fefadfe33caf5373) (ID 30739690) | [Sdílej 21075601](https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv) | target_unavailable | 2026-11-02T19:06:57.165285+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T18:47:48.557385+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
