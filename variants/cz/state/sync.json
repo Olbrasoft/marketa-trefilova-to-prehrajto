@@ -10829,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:22:00.945141+00:00"
+        "planned_at": "2026-11-02T14:54:22.159552+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10837,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "be3c7b42700a42aca59ddd67042f622b-shard-0",
+        "claimed_at": "2026-11-02T14:54:22.371856+00:00",
+        "lease_expires_at": "2026-11-02T20:54:22.371856+00:00",
+        "run_id": "41436275458"
       }
     },
     "21748": {
@@ -16341,13 +16347,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:19:23.974097+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-02T13:50:42.726602+00:00"
         },
         {
@@ -16356,6 +16355,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-02T14:21:59.418219+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:54:22.600511+00:00"
         }
       ],
       "last_plan": {
@@ -16369,12 +16375,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
-      },
-      "claim": {
-        "worker_id": "36613a9ab8eb49138ad823eea9a303dc-shard-0",
-        "claimed_at": "2026-11-02T14:54:20.251543+00:00",
-        "lease_expires_at": "2026-11-02T20:54:20.251543+00:00",
-        "run_id": "41436275458"
       }
     },
     "12843": {
@@ -32614,7 +32614,7 @@
       "last_plan": {
         "source_id": "31222996",
         "display_name": "John Wick: Chapter 2 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:54:20.124301+00:00"
+        "planned_at": "2026-11-02T14:54:22.249613+00:00"
       }
     },
     "1252": {
@@ -63021,5 +63021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:54:20.799005+00:00"
+  "updated_at": "2026-11-02T14:54:22.600529+00:00"
 }
