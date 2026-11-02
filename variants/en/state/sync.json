@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-02T10:02:13.257147+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-02T10:33:48.396283+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-02T11:04:55.859136+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-02T11:42:58.158690+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "305d08c9dfc7452d9e5a89388ba10f8e-shard-0",
-        "claimed_at": "2026-11-02T11:42:55.804304+00:00",
-        "lease_expires_at": "2026-11-02T17:42:55.804304+00:00",
-        "run_id": "41436275458"
       }
     },
     "108": {
@@ -2033,7 +2027,7 @@
       "last_plan": {
         "source_id": "22817696",
         "display_name": "Requiem for a Dream 1080p CZ Titulky",
-        "planned_at": "2026-11-02T11:04:57.486092+00:00"
+        "planned_at": "2026-11-02T11:42:57.417645+00:00"
       },
       "previous_target_id": "30676098",
       "prepared": {
@@ -2041,6 +2035,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
+      },
+      "claim": {
+        "worker_id": "631b8b7872384b519b61fade8171fb42-shard-0",
+        "claimed_at": "2026-11-02T11:42:57.553080+00:00",
+        "lease_expires_at": "2026-11-02T17:42:57.553080+00:00",
+        "run_id": "41436275458"
       }
     },
     "107": {
@@ -14828,7 +14828,7 @@
       "last_plan": {
         "source_id": "20536962",
         "display_name": "Drive My Car (Doraibu mai kâ) 1080p CZ Titulky",
-        "planned_at": "2026-11-02T11:42:55.763641+00:00"
+        "planned_at": "2026-11-02T11:42:57.515044+00:00"
       }
     },
     "920": {
@@ -45112,5 +45112,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:42:55.998444+00:00"
+  "updated_at": "2026-11-02T11:42:58.158708+00:00"
 }
