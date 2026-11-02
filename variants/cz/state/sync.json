@@ -25646,13 +25646,6 @@
           "source_id": "34914873",
           "target_video_id": "30706696",
           "permanent": false,
-          "attempted_at": "2026-11-02T03:41:01.316757+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34914873",
-          "target_video_id": "30706696",
-          "permanent": false,
           "attempted_at": "2026-11-02T04:22:19.980189+00:00"
         },
         {
@@ -25661,6 +25654,13 @@
           "target_video_id": "30706696",
           "permanent": false,
           "attempted_at": "2026-11-02T04:58:59.462517+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34914873",
+          "target_video_id": "30706696",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:29:26.371540+00:00"
         }
       ],
       "last_plan": {
@@ -25674,12 +25674,6 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-01T20:47:41.343431+00:00",
         "relay_source_id": "34914873"
-      },
-      "claim": {
-        "worker_id": "cc4139873d7245978ee54837d3964fe2-shard-0",
-        "claimed_at": "2026-11-02T05:29:24.783266+00:00",
-        "lease_expires_at": "2026-11-02T11:29:24.783266+00:00",
-        "run_id": "41372098637"
       }
     },
     "1037": {
@@ -28046,7 +28040,13 @@
       "last_plan": {
         "source_id": "17629602",
         "display_name": "The Big Sick 1080p CZ Dabing",
-        "planned_at": "2026-11-02T05:29:24.637108+00:00"
+        "planned_at": "2026-11-02T05:29:26.083697+00:00"
+      },
+      "claim": {
+        "worker_id": "b6954c28eb1b480f855532b061caa667-shard-0",
+        "claimed_at": "2026-11-02T05:29:26.243127+00:00",
+        "lease_expires_at": "2026-11-02T11:29:26.243127+00:00",
+        "run_id": "41372098637"
       }
     },
     "26091": {
@@ -56934,5 +56934,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:29:24.948265+00:00"
+  "updated_at": "2026-11-02T05:29:26.371554+00:00"
 }
