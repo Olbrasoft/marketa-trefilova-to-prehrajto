@@ -32625,17 +32625,19 @@
       }
     },
     "1202": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31222996",
+          "target_video_id": "30734464",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:05:14.414117+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31222996",
         "display_name": "John Wick: Chapter 2 4K CZ Dabing",
         "planned_at": "2026-11-02T14:54:30.009053+00:00"
-      },
-      "claim": {
-        "worker_id": "d531d95fa2e44fa3ac0d07ef2d016e37-shard-0",
-        "claimed_at": "2026-11-02T14:54:30.178510+00:00",
-        "lease_expires_at": "2026-11-02T20:54:30.178510+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30734464",
       "prepared": {
@@ -63118,5 +63120,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:01:13.072744+00:00"
+  "updated_at": "2026-11-02T15:05:14.414134+00:00"
 }
