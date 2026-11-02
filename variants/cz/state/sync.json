@@ -28855,13 +28855,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-02T16:00:35.942045+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-02T16:33:26.029450+00:00"
         },
         {
@@ -28870,12 +28863,19 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-02T17:13:32.054462+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-02T17:50:20.943133+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28442451",
         "display_name": "Synecdoche, New York SD CZ Dabing",
-        "planned_at": "2026-11-02T17:13:30.422239+00:00"
+        "planned_at": "2026-11-02T17:50:18.132758+00:00"
       },
       "previous_target_id": "30721408",
       "prepared": {
@@ -33712,11 +33712,22 @@
       "last_plan": {
         "source_id": "32448658",
         "display_name": "Bram Stoker's Dracula 4K CZ Dabing",
-        "planned_at": "2026-11-02T17:50:14.284531+00:00"
+        "planned_at": "2026-11-02T17:50:18.264701+00:00"
+      },
+      "claim": {
+        "worker_id": "4a247adf0b9d468dadb74ec98734c101-shard-0",
+        "claimed_at": "2026-11-02T17:50:18.519404+00:00",
+        "lease_expires_at": "2026-11-02T23:50:18.519404+00:00",
+        "run_id": "41471188833"
       }
     },
     "23929": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27867225",
+        "display_name": "The Emperor's New Groove 1080p CZ Dabing",
+        "planned_at": "2026-11-02T17:50:18.338437+00:00"
+      }
     },
     "24110": {
       "attempts": []
@@ -64734,5 +64745,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T17:50:16.571555+00:00"
+  "updated_at": "2026-11-02T17:50:20.943151+00:00"
 }
