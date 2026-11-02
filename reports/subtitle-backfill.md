@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T18:36:45.213022+00:00
+Poslední aktualizace (UTC): 2026-11-02T18:36:49.033321+00:00
 
 Zkontrolováno videí: 306. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 225, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 226, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 20, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -88,7 +88,6 @@ Kontrol: 12; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [The Invite 4K CZ Titulky](https://prehraj.to/the-invite-4k-cz-titulky-mkv/e2d629aa23d3e528) (ID 30735713) | [Sdílej 34864644](https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv) | target_unavailable | 2026-11-02T18:28:10.227289+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T17:37:37.446291+00:00 |
 | [The Tenant (1976) 1080p CZ Titulky](https://prehraj.to/the-tenant-1976-1080p-cz-titulky-mkv/b0018beec69c3105) (ID 30735788) | [Sdílej 35056653](https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv) | target_unavailable | 2026-11-02T18:28:14.161973+00:00 |
-| [The Time Machine (1960) SD CZ Titulky](https://prehraj.to/the-time-machine-1960-sd-cz-titulky-mkv/0e29c66726ba6612) (ID 30737947) | [Sdílej 21019707](https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv) | target_unavailable | 2026-11-02T17:36:27.031591+00:00 |
 | [Victoria 1080p CZ Titulky](https://prehraj.to/victoria-1080p-cz-titulky-mkv/0c712c1d442c157a) (ID 30731842) | [Sdílej 32445048](https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T18:28:05.904797+00:00 |
 | [Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky](https://prehraj.to/wallace-and-gromit-vengeance-most-fowl-wallace-gromit-vengeance-most-fowl-1080p-cz-titulky-mkv/53d49c0924afc741) (ID 30738340) | [Sdílej 30394661](https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T17:56:35.417911+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T17:37:27.411358+00:00 |
