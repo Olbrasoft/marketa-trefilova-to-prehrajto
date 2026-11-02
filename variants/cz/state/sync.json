@@ -35298,6 +35298,12 @@
         "source_id": "35001441",
         "display_name": "The Sheep Detectives 4K CZ Dabing",
         "planned_at": "2026-11-02T20:47:08.852627+00:00"
+      },
+      "claim": {
+        "worker_id": "41931262b3114e41ace608b84086a9d5-shard-0",
+        "claimed_at": "2026-11-02T20:47:10.486081+00:00",
+        "lease_expires_at": "2026-11-03T02:47:10.486081+00:00",
+        "run_id": "41509256577"
       }
     },
     "33118": {
@@ -35307,7 +35313,20 @@
       "attempts": []
     },
     "25536": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26604590",
+          "reason": "Request failed for https://sdilej.cz/26604590/barevny-zavoj-2006-drama-romanticky-bdrip.-en-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:47:12.663359+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "26604590",
+        "display_name": "The Painted Veil 1080p CZ Dabing",
+        "planned_at": "2026-11-02T20:47:11.891226+00:00"
+      }
     },
     "1157": {
       "attempts": []
@@ -66868,5 +66887,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:47:08.852645+00:00"
+  "updated_at": "2026-11-02T20:47:12.663376+00:00"
 }
