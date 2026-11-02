@@ -261,7 +261,7 @@ Attach subtitles only after target processing has finished.
 | The Boy Who Harnessed the Wind 1080p CZ Titulky | 30700677 | https://sdilej.cz/11300206/the-boy-who-harnessed-the-wind-2019-1080p.-titul.cz-.mkv | Complete: Czech subtitles verified |
 | Ludo (लूडो) 1080p CZ Titulky | 30702951 | https://sdilej.cz/14638598/ludo-2020-1080p-webrip-x265-10bit-.cz.tit.mkv | Complete: Czech subtitles verified |
 | Three Identical Strangers 1080p CZ Titulky | 30703041 | https://sdilej.cz/11774276/three-identical-strangers-2018-cz-titulky-bluray-1080p-h264-.mkv | Complete: Czech subtitles verified |
-| Fantastic Planet SD CZ Titulky | 30703255 | https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Fantastic Planet SD CZ Titulky | 30703255 | https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | City of Life and Death (Nanjing! Nanjing!) 1080p CZ Titulky | 30703611 | https://sdilej.cz/27751348/nanking-nanking-cina-2009-chuan-lu-bluray.1080p.dts.en.cz.sub.mkv | Complete: Czech subtitles verified |
 | The Cure (1995) 1080p CZ Titulky | 30703801 | https://sdilej.cz/29771115/the-cure-1995-1080p-hdtv-ac3-x264-majo.mkv | Complete: Czech subtitles verified |
 | Nirvanna the Band the Show the Movie SD CZ Titulky | 30704201 | https://sdilej.cz/33745604/nirvanna-the-band-the-show-the-movie-2025-cz.tit.mkv | Complete: Czech subtitles verified |
