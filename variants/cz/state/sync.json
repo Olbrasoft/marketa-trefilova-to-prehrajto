@@ -27666,17 +27666,19 @@
       }
     },
     "841": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32097186",
+          "target_video_id": "30716655",
+          "permanent": false,
+          "attempted_at": "2026-11-02T04:45:46.714999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32097186",
         "display_name": "Battle Royale (バトル・ロワイアル) 4K CZ Dabing",
         "planned_at": "2026-11-02T04:34:59.253687+00:00"
-      },
-      "claim": {
-        "worker_id": "ce8a2c43e032457b98679a276300b79c-shard-0",
-        "claimed_at": "2026-11-02T04:34:59.426933+00:00",
-        "lease_expires_at": "2026-11-02T10:34:59.426933+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30716655",
       "prepared": {
@@ -56380,5 +56382,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T04:44:25.865437+00:00"
+  "updated_at": "2026-11-02T04:45:46.715016+00:00"
 }
