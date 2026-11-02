@@ -32664,17 +32664,19 @@
       }
     },
     "1209": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31842811",
+          "target_video_id": "30734486",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:07:17.552612+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31842811",
         "display_name": "Mission: Impossible – Ghost Protocol (Mission: Impossible - Ghost Protocol) 4K CZ Dabing",
         "planned_at": "2026-11-02T14:55:11.699722+00:00"
-      },
-      "claim": {
-        "worker_id": "6fba1bc13c6848718b25e9778405e7f9-shard-0",
-        "claimed_at": "2026-11-02T14:55:12.948209+00:00",
-        "lease_expires_at": "2026-11-02T20:55:12.948209+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30734486",
       "prepared": {
@@ -63138,5 +63140,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:05:22.938034+00:00"
+  "updated_at": "2026-11-02T15:07:17.552626+00:00"
 }
