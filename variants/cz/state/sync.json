@@ -36700,17 +36700,19 @@
       }
     },
     "24642": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34619080",
+          "target_video_id": "30743773",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:39:05.132166+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34619080",
         "display_name": "Life as a House 720p CZ Dabing",
         "planned_at": "2026-11-02T22:36:22.338950+00:00"
-      },
-      "claim": {
-        "worker_id": "3483f27f0b10424c96e8bcf3b0f22d7d-shard-0",
-        "claimed_at": "2026-11-02T22:36:22.465014+00:00",
-        "lease_expires_at": "2026-11-03T04:36:22.465014+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743773",
       "prepared": {
@@ -68456,5 +68458,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:38:14.865025+00:00"
+  "updated_at": "2026-11-02T22:39:05.132188+00:00"
 }
