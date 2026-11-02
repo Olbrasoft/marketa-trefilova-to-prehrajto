@@ -27195,13 +27195,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-02T16:33:15.817749+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-02T17:13:16.482397+00:00"
         },
         {
@@ -27210,6 +27203,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-02T17:50:05.272632+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:22:43.050756+00:00"
         }
       ],
       "last_plan": {
@@ -28767,7 +28767,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-02T17:50:06.626890+00:00"
+        "planned_at": "2026-11-02T18:22:41.952373+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28775,6 +28775,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "4ab17b2df64c4bba89865c50d8e20c66-shard-0",
+        "claimed_at": "2026-11-02T18:22:42.279317+00:00",
+        "lease_expires_at": "2026-11-03T00:22:42.279317+00:00",
+        "run_id": "41471188833"
       }
     },
     "23584": {
@@ -34006,7 +34012,7 @@
       "last_plan": {
         "source_id": "20341662",
         "display_name": "The Judge 1080p CZ Dabing",
-        "planned_at": "2026-11-02T18:22:40.513920+00:00"
+        "planned_at": "2026-11-02T18:22:42.085734+00:00"
       }
     },
     "1257": {
@@ -64989,5 +64995,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:22:40.513938+00:00"
+  "updated_at": "2026-11-02T18:22:43.050778+00:00"
 }
