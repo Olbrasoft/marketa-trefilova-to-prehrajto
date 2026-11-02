@@ -28855,13 +28855,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:20:31.733446+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-02T13:51:49.664762+00:00"
         },
         {
@@ -28870,6 +28863,13 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-02T14:22:56.857291+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:55:08.085280+00:00"
         }
       ],
       "last_plan": {
@@ -32631,7 +32631,13 @@
       "last_plan": {
         "source_id": "28314931",
         "display_name": "Juno 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:55:05.293642+00:00"
+        "planned_at": "2026-11-02T14:55:06.747825+00:00"
+      },
+      "claim": {
+        "worker_id": "7cf116921c674369923509fba345e1c8-shard-0",
+        "claimed_at": "2026-11-02T14:55:06.869832+00:00",
+        "lease_expires_at": "2026-11-02T20:55:06.869832+00:00",
+        "run_id": "41436275458"
       }
     },
     "1209": {
@@ -63035,5 +63041,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:55:05.293673+00:00"
+  "updated_at": "2026-11-02T14:55:08.085297+00:00"
 }
