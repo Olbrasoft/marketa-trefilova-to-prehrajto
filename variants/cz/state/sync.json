@@ -35049,17 +35049,19 @@
       }
     },
     "29987": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34094951",
+          "target_video_id": "30741237",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:26:32.883091+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34094951",
         "display_name": "Following SD CZ Dabing",
         "planned_at": "2026-11-02T20:24:37.207549+00:00"
-      },
-      "claim": {
-        "worker_id": "de123352548145a38a534bb38311e602-shard-0",
-        "claimed_at": "2026-11-02T20:24:37.306338+00:00",
-        "lease_expires_at": "2026-11-03T02:24:37.306338+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30741237",
       "prepared": {
@@ -66688,5 +66690,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:25:35.161268+00:00"
+  "updated_at": "2026-11-02T20:26:32.883112+00:00"
 }
