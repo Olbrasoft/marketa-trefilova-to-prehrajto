@@ -34836,7 +34836,7 @@
       "last_plan": {
         "source_id": "34040589",
         "display_name": "A League of Their Own 4K CZ Dabing",
-        "planned_at": "2026-11-02T19:50:10.562004+00:00"
+        "planned_at": "2026-11-02T20:34:23.144751+00:00"
       },
       "previous_target_id": "30740802",
       "prepared": {
@@ -34844,6 +34844,12 @@
         "size_bytes": 5643748428,
         "prepared_at": "2026-11-02T19:50:15.015009+00:00",
         "relay_source_id": "34040589"
+      },
+      "claim": {
+        "worker_id": "446f7ac48f184f4f9f1b6dbc18bc463f-shard-0",
+        "claimed_at": "2026-11-02T20:34:23.338799+00:00",
+        "lease_expires_at": "2026-11-03T02:34:23.338799+00:00",
+        "run_id": "41509256577"
       }
     },
     "1128": {
@@ -35083,17 +35089,19 @@
       "attempts": []
     },
     "23959": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32961542",
+          "target_video_id": "30741248",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:34:23.837232+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32961542",
         "display_name": "Elizabeth 4K CZ Dabing",
         "planned_at": "2026-11-02T20:25:30.919598+00:00"
-      },
-      "claim": {
-        "worker_id": "dd508ca48ecd4f1eae0ec6bac82836e0-shard-0",
-        "claimed_at": "2026-11-02T20:25:31.024159+00:00",
-        "lease_expires_at": "2026-11-03T02:25:31.024159+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30741248",
       "prepared": {
@@ -35151,7 +35159,12 @@
       "attempts": []
     },
     "1212": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28138710",
+        "display_name": "The Cider House Rules 1080p CZ Dabing",
+        "planned_at": "2026-11-02T20:34:23.223685+00:00"
+      }
     },
     "22983": {
       "attempts": []
@@ -66736,5 +66749,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:34:18.484941+00:00"
+  "updated_at": "2026-11-02T20:34:23.837253+00:00"
 }
