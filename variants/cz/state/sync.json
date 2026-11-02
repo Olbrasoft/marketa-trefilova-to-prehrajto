@@ -30295,17 +30295,19 @@
       }
     },
     "1040": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31773434",
+          "target_video_id": "30724911",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:33:03.875668+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31773434",
         "display_name": "The Counterfeiters (Die Fälscher) 1080p CZ Dabing",
         "planned_at": "2026-11-02T10:25:29.781196+00:00"
-      },
-      "claim": {
-        "worker_id": "3e65e7968c8c482f953e0dd956a1a30e-shard-0",
-        "claimed_at": "2026-11-02T10:25:29.929226+00:00",
-        "lease_expires_at": "2026-11-02T16:25:29.929226+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30724911",
       "prepared": {
@@ -60170,5 +60172,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:30:42.172334+00:00"
+  "updated_at": "2026-11-02T10:33:03.875688+00:00"
 }
