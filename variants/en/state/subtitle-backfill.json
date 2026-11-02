@@ -13,7 +13,7 @@
   "missing_detail_urls": 0,
   "next_page": 0,
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:48:50.207974+00:00",
+  "updated_at": "2026-11-02T03:48:56.082984+00:00",
   "videos": {
     "30580910": {
       "checked_at": "2026-10-28T22:47:29.080648+00:00",
@@ -4505,10 +4505,23 @@
       "title": "The Unknown Soldier (Tuntematon sotilas) 1080p CZ Titulky"
     },
     "30699789": {
-      "checked_at": "2026-11-02T02:47:41.585912+00:00",
+      "checked_at": "2026-11-02T03:48:55.841519+00:00",
       "detail_url": "https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c",
-      "retry_after": "2026-11-02T03:47:41.585930+00:00",
-      "seen_at": "2026-11-02T02:46:56.539123+00:00",
+      "extraction": {
+        "bytes": 80081,
+        "format": "utf8_srt_crlf",
+        "method": "original_page_track",
+        "sha256": "0a2f1fda4cabd19f2690b0ba43e76164b459b8c8c293c50c5ab4117035b0e4a3",
+        "source_id": "33092843"
+      },
+      "intent": {
+        "before_ids": [],
+        "created_at": "2026-11-02T03:48:55.841514+00:00",
+        "filename": "cs-30699789-0a2f1fda4c.srt",
+        "sha256": "0a2f1fda4cabd19f2690b0ba43e76164b459b8c8c293c50c5ab4117035b0e4a3"
+      },
+      "retry_after": "2026-11-02T04:48:55.841521+00:00",
+      "seen_at": "2026-11-02T03:48:55.841487+00:00",
       "source": {
         "cr_film_id": 657,
         "height": 960,
@@ -4518,7 +4531,7 @@
         "source_url": "https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4",
         "width": 1920
       },
-      "status": "source_unavailable",
+      "status": "upload_unconfirmed",
       "target_video_id": "30699789",
       "title": "Rental Family 1080p CZ Titulky"
     },
