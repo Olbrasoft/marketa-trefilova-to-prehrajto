@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-02T03:40:13.293475+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-02T04:21:14.829477+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-02T04:57:54.673327+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:28:48.040548+00:00"
         }
       ],
       "last_plan": {
@@ -7100,7 +7100,7 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Blood Diamond 1080p CZ Dabing",
-        "planned_at": "2026-11-02T04:57:56.276623+00:00"
+        "planned_at": "2026-11-02T05:28:46.825800+00:00"
       },
       "previous_target_id": "30627346",
       "prepared": {
@@ -7108,6 +7108,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
+      },
+      "claim": {
+        "worker_id": "6c55b501323243d9b226d82f41036561-shard-0",
+        "claimed_at": "2026-11-02T05:28:47.116301+00:00",
+        "lease_expires_at": "2026-11-02T11:28:47.116301+00:00",
+        "run_id": "41372098637"
       }
     },
     "327": {
@@ -28040,7 +28046,7 @@
       "last_plan": {
         "source_id": "17629602",
         "display_name": "The Big Sick 1080p CZ Dabing",
-        "planned_at": "2026-11-02T05:28:45.434380+00:00"
+        "planned_at": "2026-11-02T05:28:46.946852+00:00"
       }
     },
     "26091": {
@@ -56928,5 +56934,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:28:45.434394+00:00"
+  "updated_at": "2026-11-02T05:28:48.040565+00:00"
 }
