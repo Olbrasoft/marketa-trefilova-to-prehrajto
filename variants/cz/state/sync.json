@@ -27936,11 +27936,19 @@
       }
     },
     "1009": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35046517",
+          "reason": "Request failed for https://sdilej.cz/35046517/brooklyn-2015-cz.-dab.-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:20:15.900974+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35046517",
         "display_name": "Brooklyn 1080p CZ Dabing",
-        "planned_at": "2026-11-02T05:19:27.714890+00:00"
+        "planned_at": "2026-11-02T05:19:29.987504+00:00"
       }
     },
     "875": {
@@ -56838,5 +56846,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:19:28.574611+00:00"
+  "updated_at": "2026-11-02T05:20:15.900995+00:00"
 }
