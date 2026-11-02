@@ -19857,13 +19857,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-02T00:04:13.000429+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-02T00:40:55.288039+00:00"
         },
         {
@@ -19872,6 +19865,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-02T01:17:23.392470+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:55:59.525780+00:00"
         }
       ],
       "last_plan": {
@@ -26622,17 +26622,19 @@
       "attempts": []
     },
     "968": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31322205",
+          "target_video_id": "30712665",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:55:59.580772+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31322205",
         "display_name": "The Greatest Showman 4K CZ Dabing",
         "planned_at": "2026-11-02T01:46:18.206549+00:00"
-      },
-      "claim": {
-        "worker_id": "4c3172b9ccaa4346a309cadccc374777-shard-0",
-        "claimed_at": "2026-11-02T01:46:18.306614+00:00",
-        "lease_expires_at": "2026-11-02T07:46:18.306614+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30712665",
       "prepared": {
@@ -26647,7 +26649,7 @@
       "last_plan": {
         "source_id": "32953356",
         "display_name": "Hugo 4K CZ Dabing",
-        "planned_at": "2026-11-02T01:55:53.350544+00:00"
+        "planned_at": "2026-11-02T01:55:58.106170+00:00"
       }
     },
     "10790": {
@@ -54702,5 +54704,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:55:56.583467+00:00"
+  "updated_at": "2026-11-02T01:55:59.580787+00:00"
 }
