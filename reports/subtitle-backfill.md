@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:36:35.123652+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:36:38.433744+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 159, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 63, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 160, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 62, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -106,7 +106,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 56. Důvo
 | [Roma (2018) 1080p CZ Titulky](https://prehraj.to/roma-2018-1080p-cz-titulky-mkv/2a0ee45e8062349f) (ID 30691634) | [Sdílej 16152424](https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv) | target_unavailable | 2026-11-01T10:09:18.390946+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-02T02:27:02.005831+00:00 |
 | [Rushmore 1080p CZ Titulky](https://prehraj.to/rushmore-1080p-cz-titulky-mkv/fc686d09c5231058) (ID 30690305) | [Sdílej 26981215](https://sdilej.cz/26981215/rushmore.1998.1080p.bluray.h264.aac.en.cz.mkv) | target_unavailable | 2026-11-01T09:07:58.050544+00:00 |
-| [Saw (2004) 1080p CZ Titulky](https://prehraj.to/saw-2004-1080p-cz-titulky-mkv/919ec29c99bd8c47) (ID 30681152) | [Sdílej 27106738](https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv) | target_unavailable | 2026-11-01T06:52:32.873059+00:00 |
 | [Shaun of the Dead 720p CZ Titulky](https://prehraj.to/shaun-of-the-dead-720p-cz-titulky-mkv/03af392ee4a8870a) (ID 30705871) | [Sdílej 30657982](https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T20:12:17.503845+00:00 |
 | [Sinners 4K CZ Titulky](https://prehraj.to/sinners-4k-cz-titulky-mkv/ebd12fa5922bca2f) (ID 30710776) | [Sdílej 31188853](https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv) | target_unavailable | 2026-11-02T00:14:15.347410+00:00 |
 | [Snow White and the Seven Dwarfs 1080p CZ Titulky](https://prehraj.to/snow-white-and-the-seven-dwarfs-1080p-cz-titulky-mkv/90ee8bf2b875d6c0) (ID 30688075) | [Sdílej 30770863](https://sdilej.cz/30770863/snehurka-a-sedm-trpasliku-animovany-1937-cz-dab-leg.mkv) | target_unavailable | 2026-11-01T07:12:17.638700+00:00 |
