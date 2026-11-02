@@ -37845,17 +37845,19 @@
       }
     },
     "30219": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29199124",
+          "target_video_id": "30745050",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:46:33.494724+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29199124",
         "display_name": "La bataille de Tchernobyl (The Battle of Chernobyl) 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:42:32.855545+00:00"
-      },
-      "claim": {
-        "worker_id": "b5a95fa30b22434780fbb3796b1bc0e5-shard-0",
-        "claimed_at": "2026-11-02T23:42:32.980356+00:00",
-        "lease_expires_at": "2026-11-03T05:42:32.980356+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30745050",
       "prepared": {
@@ -69611,5 +69613,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:44:59.796944+00:00"
+  "updated_at": "2026-11-02T23:46:33.494746+00:00"
 }
