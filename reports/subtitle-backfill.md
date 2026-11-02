@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T03:07:53.884882+00:00
+Poslední aktualizace (UTC): 2026-11-02T03:07:57.574029+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
@@ -75,7 +75,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 15. Důvod
 | [Hero (2002) 1080p CZ Titulky](https://prehraj.to/hero-2002-1080p-cz-titulky-mkv/cee9beac817762a0) (ID 30705057) | [Sdílej 17206386](https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv) | target_unavailable | 2026-11-02T02:48:35.005259+00:00 |
 | [Hidden Figures 1080p CZ Titulky](https://prehraj.to/hidden-figures-1080p-cz-titulky-mkv/27916ef0f8406632) (ID 30706154) | [Sdílej 34903912](https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T03:07:30.935530+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-02T02:27:05.451703+00:00 |
-| [Hunt for the Wilderpeople 1080p CZ Titulky](https://prehraj.to/hunt-for-the-wilderpeople-1080p-cz-titulky-mkv/2287f76a76043fa0) (ID 30709933) | [Sdílej 23193408](https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv) | target_unavailable | 2026-11-01T23:33:46.161081+00:00 |
+| [Hunt for the Wilderpeople 1080p CZ Titulky](https://prehraj.to/hunt-for-the-wilderpeople-1080p-cz-titulky-mkv/2287f76a76043fa0) (ID 30709933) | [Sdílej 23193408](https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv) | target_unavailable | 2026-11-02T03:07:57.573963+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-02T02:36:45.260278+00:00 |
 | [Killers of the Flower Moon 4K CZ Titulky](https://prehraj.to/killers-of-the-flower-moon-4k-cz-titulky-mkv/d87a6252c4f3a3e2) (ID 30713681) | [Sdílej 27446866](https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-02T02:26:13.565578+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T02:37:24.905330+00:00 |
