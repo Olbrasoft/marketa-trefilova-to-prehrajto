@@ -26475,17 +26475,19 @@
       "attempts": []
     },
     "1034": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32963103",
+          "target_video_id": "30712055",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:31:39.554980+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32963103",
         "display_name": "The Aviator (2004) 1080p CZ Dabing",
         "planned_at": "2026-11-02T01:23:27.930535+00:00"
-      },
-      "claim": {
-        "worker_id": "01e3dd17ad7645eea8231da71f041372-shard-0",
-        "claimed_at": "2026-11-02T01:23:28.020515+00:00",
-        "lease_expires_at": "2026-11-02T07:23:28.020515+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30712055",
       "prepared": {
@@ -54396,5 +54398,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:29:16.210447+00:00"
+  "updated_at": "2026-11-02T01:31:39.555007+00:00"
 }
