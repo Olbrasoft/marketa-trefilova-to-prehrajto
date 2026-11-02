@@ -8149,13 +8149,6 @@
     "481": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "23193408",
-          "reason": "Request failed for https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-10-31T02:34:19.452443+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "23193408",
           "target_video_id": "30709933",
@@ -8168,12 +8161,19 @@
           "target_video_id": "30709933",
           "permanent": false,
           "attempted_at": "2026-11-02T00:23:46.807898+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23193408",
+          "target_video_id": "30709933",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:56:42.213648+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23193408",
         "display_name": "Hunt for the Wilderpeople 1080p CZ Titulky",
-        "planned_at": "2026-11-02T00:23:45.769283+00:00"
+        "planned_at": "2026-11-02T00:56:40.300178+00:00"
       },
       "previous_target_id": "30709933",
       "prepared": {
@@ -13605,7 +13605,7 @@
       "last_plan": {
         "source_id": "29866047",
         "display_name": "Eyes Wide Shut 1080p CZ Titulky",
-        "planned_at": "2026-11-02T00:56:37.693051+00:00"
+        "planned_at": "2026-11-02T00:56:40.346839+00:00"
       }
     },
     "882": {
@@ -41465,5 +41465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:56:38.778236+00:00"
+  "updated_at": "2026-11-02T00:56:42.213664+00:00"
 }
