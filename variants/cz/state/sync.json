@@ -29466,17 +29466,19 @@
       }
     },
     "11600": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27642369",
+          "target_video_id": "30722613",
+          "permanent": false,
+          "attempted_at": "2026-11-02T09:17:05.821874+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27642369",
         "display_name": "My Sweet Little Village (Vesničko má středisková) 1080p CZ Dabing",
         "planned_at": "2026-11-02T09:11:11.771976+00:00"
-      },
-      "claim": {
-        "worker_id": "fa24e3433a624122af8fbe56179c4838-shard-0",
-        "claimed_at": "2026-11-02T09:11:11.919519+00:00",
-        "lease_expires_at": "2026-11-02T15:11:11.919519+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30722613",
       "prepared": {
@@ -58963,5 +58965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T09:11:15.274374+00:00"
+  "updated_at": "2026-11-02T09:17:05.821894+00:00"
 }
