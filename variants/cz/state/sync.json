@@ -26570,17 +26570,19 @@
       }
     },
     "946": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13478351",
+          "target_video_id": "30712228",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:55:21.030876+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13478351",
         "display_name": "Incredibles 2 4K CZ Dabing",
         "planned_at": "2026-11-02T01:31:44.380145+00:00"
-      },
-      "claim": {
-        "worker_id": "25f056078c5f422c9db60705c669b03b-shard-0",
-        "claimed_at": "2026-11-02T01:31:44.474984+00:00",
-        "lease_expires_at": "2026-11-02T07:31:44.474984+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30712228",
       "prepared": {
@@ -54695,5 +54697,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:46:21.891492+00:00"
+  "updated_at": "2026-11-02T01:55:21.030890+00:00"
 }
