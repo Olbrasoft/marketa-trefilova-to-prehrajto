@@ -34447,7 +34447,20 @@
       }
     },
     "31702": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34475061",
+          "reason": "Request failed for https://sdilej.cz/34475061/michael-2026-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T19:20:33.455869+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34475061",
+        "display_name": "Michael (2026) 4K CZ Dabing",
+        "planned_at": "2026-11-02T19:19:47.411380+00:00"
+      }
     },
     "33830": {
       "attempts": []
@@ -65867,5 +65880,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:16:45.237062+00:00"
+  "updated_at": "2026-11-02T19:20:33.455889+00:00"
 }
