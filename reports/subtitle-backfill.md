@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T03:16:41.974547+00:00
+Poslední aktualizace (UTC): 2026-11-02T03:16:43.725195+00:00
 
 Zkontrolováno videí: 278. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 190, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_unavailable`: 29, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 190, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -85,6 +85,7 @@ Kontrol: 15; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Obsession (2026) 4K CZ Titulky](https://prehraj.to/obsession-2026-4k-cz-titulky-mkv/6412dae282b5a0f6) (ID 30705956) | [Sdílej 34596026](https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv) | target_unavailable | 2026-11-02T03:07:27.227625+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-02T02:36:41.829113+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T02:27:46.456088+00:00 |
+| [Promising Young Woman 720p CZ Titulky](https://prehraj.to/promising-young-woman-720p-cz-titulky-mkv/e2ed7d05142855db) (ID 30714870) | [Sdílej 15439640](https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv) | target_unavailable | 2026-11-02T03:16:43.725123+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | source_unavailable | 2026-11-02T02:47:41.585912+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-02T02:28:05.404120+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-02T02:27:02.005831+00:00 |
