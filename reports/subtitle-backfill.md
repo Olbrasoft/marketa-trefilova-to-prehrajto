@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:26:10.166075+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:26:13.565654+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 73, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 74, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -88,6 +88,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [Hunt for the Wilderpeople 1080p CZ Titulky](https://prehraj.to/hunt-for-the-wilderpeople-1080p-cz-titulky-mkv/2287f76a76043fa0) (ID 30709933) | [Sdílej 23193408](https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv) | target_unavailable | 2026-11-01T23:33:46.161081+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-01T06:52:39.884172+00:00 |
 | [Jurassic Park 4K CZ Titulky](https://prehraj.to/jurassic-park-4k-cz-titulky-mkv/a055332f03f157f1) (ID 30677093) | [Sdílej 16781576](https://sdilej.cz/16781576/jursky-park.1993.2160p-cz-dabing.mkv) | target_unavailable | 2026-11-01T06:44:12.082343+00:00 |
+| [Killers of the Flower Moon 4K CZ Titulky](https://prehraj.to/killers-of-the-flower-moon-4k-cz-titulky-mkv/d87a6252c4f3a3e2) (ID 30713681) | [Sdílej 27446866](https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-02T02:26:13.565578+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-01T11:40:26.594278+00:00 |
 | [Les Misérables (2012) 1080p CZ Titulky](https://prehraj.to/les-miserables-2012-1080p-cz-titulky-mkv/e333cd68c756d11b) (ID 30712563) | [Sdílej 30727271](https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv) | target_unavailable | 2026-11-02T01:46:01.416500+00:00 |
 | [Love Actually 4K CZ Titulky](https://prehraj.to/love-actually-4k-cz-titulky-mkv/9c4cc8281243a3e9) (ID 30709925) | [Sdílej 35168701](https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv) | target_unavailable | 2026-11-01T23:33:42.701621+00:00 |
