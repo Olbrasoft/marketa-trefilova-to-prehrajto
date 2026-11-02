@@ -29768,17 +29768,19 @@
       }
     },
     "13274": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34137691",
+          "target_video_id": "30723390",
+          "permanent": false,
+          "attempted_at": "2026-11-02T09:57:49.805519+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34137691",
         "display_name": "Secondhand Lions 1080p CZ Dabing",
         "planned_at": "2026-11-02T09:51:39.872562+00:00"
-      },
-      "claim": {
-        "worker_id": "bd2a5fb0a292456ca260b0f02f5b05c8-shard-0",
-        "claimed_at": "2026-11-02T09:51:40.035089+00:00",
-        "lease_expires_at": "2026-11-02T15:51:40.035089+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30723390",
       "prepared": {
@@ -59511,5 +59513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T09:53:49.298441+00:00"
+  "updated_at": "2026-11-02T09:57:49.805541+00:00"
 }
