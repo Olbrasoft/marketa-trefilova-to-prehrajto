@@ -26980,17 +26980,19 @@
       }
     },
     "961": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30148577",
+          "target_video_id": "30714265",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:50:12.196405+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30148577",
         "display_name": "I, Tonya 1080p CZ Dabing",
         "planned_at": "2026-11-02T02:44:59.379054+00:00"
-      },
-      "claim": {
-        "worker_id": "5102c9c04686477b99e7f2b7c849560d-shard-0",
-        "claimed_at": "2026-11-02T02:44:59.540924+00:00",
-        "lease_expires_at": "2026-11-02T08:44:59.540924+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30714265",
       "prepared": {
@@ -55278,5 +55280,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:46:50.263048+00:00"
+  "updated_at": "2026-11-02T02:50:12.196421+00:00"
 }
