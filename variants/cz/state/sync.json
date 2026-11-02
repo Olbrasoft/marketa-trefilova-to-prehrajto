@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-02T06:00:53.804243+00:00"
+        "planned_at": "2026-11-02T07:15:37.141368+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "bcc79a1522e241eca04f51a2602a6866-shard-0",
+        "claimed_at": "2026-11-02T07:15:37.392432+00:00",
+        "lease_expires_at": "2026-11-02T13:15:37.392432+00:00",
+        "run_id": "41401248142"
       }
     },
     "10755": {
@@ -8006,13 +8012,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-11-02T04:57:50.862225+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-11-02T05:28:44.961798+00:00"
         },
         {
@@ -8021,6 +8020,13 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-11-02T06:00:52.554387+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-11-02T07:15:37.545475+00:00"
         }
       ],
       "last_plan": {
@@ -8034,12 +8040,6 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
-      },
-      "claim": {
-        "worker_id": "910267eee099454b84b8c101a1ecd29b-shard-0",
-        "claimed_at": "2026-11-02T07:15:35.196155+00:00",
-        "lease_expires_at": "2026-11-02T13:15:35.196155+00:00",
-        "run_id": "41401248142"
       }
     },
     "10690": {
@@ -28553,7 +28553,7 @@
       "last_plan": {
         "source_id": "32468284",
         "display_name": "Ip Man 2 (葉問2) 4K CZ Dabing",
-        "planned_at": "2026-11-02T07:15:35.056167+00:00"
+        "planned_at": "2026-11-02T07:15:37.230911+00:00"
       }
     },
     "21663": {
@@ -57644,5 +57644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T07:15:35.725734+00:00"
+  "updated_at": "2026-11-02T07:15:37.545493+00:00"
 }
