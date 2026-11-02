@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:54:10.304042+00:00"
+        "planned_at": "2026-11-02T15:27:18.519106+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "4c07af921943475eacb8d8fee8279fff-shard-0",
+        "claimed_at": "2026-11-02T15:27:18.746956+00:00",
+        "lease_expires_at": "2026-11-02T21:27:18.746956+00:00",
+        "run_id": "41436275458"
       }
     },
     "10755": {
@@ -4255,13 +4261,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:50:26.886203+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-02T14:21:40.502233+00:00"
         },
         {
@@ -4270,6 +4269,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-02T14:54:12.383189+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:27:19.144111+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4289,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "d4abcf303de545769f40b9a0fba711b7-shard-0",
-        "claimed_at": "2026-11-02T15:27:15.667428+00:00",
-        "lease_expires_at": "2026-11-02T21:27:15.667428+00:00",
-        "run_id": "41436275458"
       }
     },
     "229": {
@@ -32915,7 +32915,7 @@
       "last_plan": {
         "source_id": "14020496",
         "display_name": "The Nice Guys 1080p CZ Dabing",
-        "planned_at": "2026-11-02T15:27:15.545351+00:00"
+        "planned_at": "2026-11-02T15:27:18.623961+00:00"
       }
     },
     "11735": {
@@ -63532,5 +63532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:27:16.513123+00:00"
+  "updated_at": "2026-11-02T15:27:19.144127+00:00"
 }
