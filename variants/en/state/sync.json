@@ -13789,17 +13789,19 @@
       "attempts": []
     },
     "918": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11006824",
+          "target_video_id": "30713447",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:25:05.279589+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11006824",
         "display_name": "BlacKkKlansman 1080p CZ Titulky",
         "planned_at": "2026-11-02T02:16:12.891966+00:00"
-      },
-      "claim": {
-        "worker_id": "2964103d146847468824987d89f4c8ab-shard-0",
-        "claimed_at": "2026-11-02T02:16:14.905940+00:00",
-        "lease_expires_at": "2026-11-02T08:16:14.905940+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30713447",
       "prepared": {
@@ -41862,5 +41864,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:18:09.026971+00:00"
+  "updated_at": "2026-11-02T02:25:05.279605+00:00"
 }
