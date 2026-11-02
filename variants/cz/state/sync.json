@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "62f53f81b86d4bc5b4884f9040e18971-shard-0",
+        "claimed_at": "2026-11-02T14:54:11.983246+00:00",
+        "lease_expires_at": "2026-11-02T20:54:11.983246+00:00",
+        "run_id": "41436275458"
       }
     },
     "10755": {
@@ -4255,13 +4261,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:19:07.295122+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-02T13:50:26.886203+00:00"
         },
         {
@@ -4270,6 +4269,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-02T14:21:40.502233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:54:12.383189+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4289,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "36b3671979254f3ea9497020a46d02f7-shard-0",
-        "claimed_at": "2026-11-02T14:54:06.042721+00:00",
-        "lease_expires_at": "2026-11-02T20:54:06.042721+00:00",
-        "run_id": "41436275458"
       }
     },
     "229": {
@@ -32614,7 +32614,7 @@
       "last_plan": {
         "source_id": "31222996",
         "display_name": "John Wick: Chapter 2 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:54:05.916819+00:00"
+        "planned_at": "2026-11-02T14:54:11.853953+00:00"
       }
     },
     "1252": {
@@ -63021,5 +63021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:54:10.304054+00:00"
+  "updated_at": "2026-11-02T14:54:12.383205+00:00"
 }
