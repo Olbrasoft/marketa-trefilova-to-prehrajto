@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:27:57.941588+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:28:01.534535+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 150, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 72, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 151, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 71, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -93,7 +93,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-01T11:40:26.594278+00:00 |
 | [Les Misérables (2012) 1080p CZ Titulky](https://prehraj.to/les-miserables-2012-1080p-cz-titulky-mkv/e333cd68c756d11b) (ID 30712563) | [Sdílej 30727271](https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv) | target_unavailable | 2026-11-02T01:46:01.416500+00:00 |
 | [Love Actually 4K CZ Titulky](https://prehraj.to/love-actually-4k-cz-titulky-mkv/9c4cc8281243a3e9) (ID 30709925) | [Sdílej 35168701](https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv) | target_unavailable | 2026-11-01T23:33:42.701621+00:00 |
-| [Memento 1080p CZ Titulky](https://prehraj.to/memento-1080p-cz-titulky-mkv/c57ecead896aa1dc) (ID 30676003) | [Sdílej 30657861](https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T06:43:53.016365+00:00 |
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T01:05:03.319086+00:00 |
 | [Minority Report 1080p CZ Titulky](https://prehraj.to/minority-report-1080p-cz-titulky-mkv/660ee20de4351d2d) (ID 30680415) | [Sdílej 35402382](https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T06:52:21.857622+00:00 |
 | [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T01:45:57.879017+00:00 |
