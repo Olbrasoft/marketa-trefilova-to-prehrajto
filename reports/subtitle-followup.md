@@ -289,3 +289,4 @@ Attach subtitles only after target processing has finished.
 | King Richard SD | 30720567 | https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4 | Find and add matching Czech subtitles after processing |
 | A Fish Called Wanda 1080p CZ Titulky | 30720594 | https://sdilej.cz/20836545/a-fish-called-wanda-1988-hevc-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
 | The Book Thief 1080p CZ Titulky | 30720612 | https://sdilej.cz/27726753/zlodejka-knih-1080p-hd-.mp4 | Extract Czech track from exact source after processing |
+| Leaving Las Vegas 1080p CZ Titulky | 30720705 | https://sdilej.cz/35401844/leaving.las.vegas.1995.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Extract Czech track from exact source after processing |
