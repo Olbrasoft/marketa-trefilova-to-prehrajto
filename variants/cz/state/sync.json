@@ -31262,17 +31262,19 @@
       }
     },
     "969": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34095213",
+          "target_video_id": "30730896",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:23:47.175905+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34095213",
         "display_name": "You Don't Know Jack 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:18:01.312946+00:00"
-      },
-      "claim": {
-        "worker_id": "722e01cee8c0430ca25997ffb7a68a64-shard-0",
-        "claimed_at": "2026-11-02T12:18:01.440621+00:00",
-        "lease_expires_at": "2026-11-02T18:18:01.440621+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30730896",
       "prepared": {
@@ -61247,5 +61249,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:22:32.997480+00:00"
+  "updated_at": "2026-11-02T12:23:47.175924+00:00"
 }
