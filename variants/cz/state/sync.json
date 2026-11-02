@@ -33530,17 +33530,19 @@
       "attempts": []
     },
     "1141": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30327098",
+          "target_video_id": "30737403",
+          "permanent": false,
+          "attempted_at": "2026-11-02T17:19:02.211394+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30327098",
         "display_name": "The Lighthouse 1080p CZ Dabing",
         "planned_at": "2026-11-02T17:14:51.145541+00:00"
-      },
-      "claim": {
-        "worker_id": "545af2534c07497bbd6143a2bfa957c7-shard-0",
-        "claimed_at": "2026-11-02T17:14:51.323637+00:00",
-        "lease_expires_at": "2026-11-02T23:14:51.323637+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30737403",
       "prepared": {
@@ -64593,5 +64595,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T17:14:55.699100+00:00"
+  "updated_at": "2026-11-02T17:19:02.211413+00:00"
 }
