@@ -31205,17 +31205,19 @@
       "attempts": []
     },
     "10901": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30697749",
+          "target_video_id": "30730204",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:15:55.955284+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30697749",
         "display_name": "How to Steal a Million 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:09:43.105774+00:00"
-      },
-      "claim": {
-        "worker_id": "b7337ca4e2f74aa79cef7c3c3a4e1e2f-shard-0",
-        "claimed_at": "2026-11-02T12:09:43.229301+00:00",
-        "lease_expires_at": "2026-11-02T18:09:43.229301+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30730204",
       "prepared": {
@@ -61161,5 +61163,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:14:33.049536+00:00"
+  "updated_at": "2026-11-02T12:15:55.955300+00:00"
 }
