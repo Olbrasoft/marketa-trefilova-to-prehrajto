@@ -32010,17 +32010,19 @@
       "attempts": []
     },
     "23432": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34894167",
+          "target_video_id": "30732883",
+          "permanent": false,
+          "attempted_at": "2026-11-02T13:44:45.382589+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34894167",
         "display_name": "Iron Monkey 1080p CZ Dabing",
         "planned_at": "2026-11-02T13:40:56.051115+00:00"
-      },
-      "claim": {
-        "worker_id": "9d77a4d99f66403ea7b665a3ebd7ff6b-shard-0",
-        "claimed_at": "2026-11-02T13:40:56.190209+00:00",
-        "lease_expires_at": "2026-11-02T19:40:56.190209+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30732883",
       "prepared": {
@@ -62305,5 +62307,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:40:59.957741+00:00"
+  "updated_at": "2026-11-02T13:44:45.382604+00:00"
 }
