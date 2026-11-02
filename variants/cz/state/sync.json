@@ -34136,17 +34136,19 @@
       }
     },
     "1168": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28568939",
+          "target_video_id": "30739141",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:52:28.962213+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28568939",
         "display_name": "The English Patient 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:29:51.488189+00:00"
-      },
-      "claim": {
-        "worker_id": "e09b4c8cf366454ba69404b87f5494d7-shard-0",
-        "claimed_at": "2026-11-02T18:29:51.696579+00:00",
-        "lease_expires_at": "2026-11-03T00:29:51.696579+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30739141",
       "prepared": {
@@ -65472,5 +65474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:43:59.850187+00:00"
+  "updated_at": "2026-11-02T18:52:28.962230+00:00"
 }
