@@ -3193,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-02T05:43:33.118676+00:00"
+        "planned_at": "2026-11-02T07:14:33.862447+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "1c4678d5a861434eb99221cb9b418d53-shard-0",
+        "claimed_at": "2026-11-02T07:14:33.978386+00:00",
+        "lease_expires_at": "2026-11-02T13:14:33.978386+00:00",
+        "run_id": "41401248142"
       }
     },
     "31551": {
@@ -11435,13 +11441,6 @@
           "source_id": "26167173",
           "target_video_id": "30682158",
           "permanent": false,
-          "attempted_at": "2026-11-02T04:34:28.529992+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26167173",
-          "target_video_id": "30682158",
-          "permanent": false,
           "attempted_at": "2026-11-02T05:07:48.084338+00:00"
         },
         {
@@ -11450,6 +11449,13 @@
           "target_video_id": "30682158",
           "permanent": false,
           "attempted_at": "2026-11-02T05:43:31.606648+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26167173",
+          "target_video_id": "30682158",
+          "permanent": false,
+          "attempted_at": "2026-11-02T07:14:34.098603+00:00"
         }
       ],
       "last_plan": {
@@ -11463,12 +11469,6 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
-      },
-      "claim": {
-        "worker_id": "475fe382aca5483b8beca1a8ecad1e33-shard-0",
-        "claimed_at": "2026-11-02T07:14:32.182240+00:00",
-        "lease_expires_at": "2026-11-02T13:14:32.182240+00:00",
-        "run_id": "41401248142"
       }
     },
     "834": {
@@ -14365,7 +14365,7 @@
       "last_plan": {
         "source_id": "27726753",
         "display_name": "The Book Thief 1080p CZ Titulky",
-        "planned_at": "2026-11-02T07:14:32.143311+00:00"
+        "planned_at": "2026-11-02T07:14:33.935207+00:00"
       }
     },
     "953": {
@@ -43509,5 +43509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T07:14:32.309523+00:00"
+  "updated_at": "2026-11-02T07:14:34.098620+00:00"
 }
