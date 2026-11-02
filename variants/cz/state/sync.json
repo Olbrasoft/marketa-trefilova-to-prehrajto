@@ -36723,17 +36723,19 @@
       }
     },
     "10972": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30099272",
+          "target_video_id": "30743815",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:39:48.860689+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30099272",
         "display_name": "The Party (1968) SD CZ Dabing",
         "planned_at": "2026-11-02T22:38:11.297028+00:00"
-      },
-      "claim": {
-        "worker_id": "c67f903b5cb84442ba257a159fbfbbe4-shard-0",
-        "claimed_at": "2026-11-02T22:38:11.412623+00:00",
-        "lease_expires_at": "2026-11-03T04:38:11.412623+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743815",
       "prepared": {
@@ -68476,5 +68478,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:39:17.085227+00:00"
+  "updated_at": "2026-11-02T22:39:48.860710+00:00"
 }
