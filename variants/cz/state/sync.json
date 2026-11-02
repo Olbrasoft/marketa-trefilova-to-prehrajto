@@ -36124,7 +36124,20 @@
       }
     },
     "11221": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "18158712",
+          "reason": "Request failed for https://sdilej.cz/18158712/prilis-vzdaleny-most-1977-1080p-fhd-hevc-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:01:40.296638+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "18158712",
+        "display_name": "A Bridge Too Far 1080p CZ Dabing",
+        "planned_at": "2026-11-02T22:01:39.472039+00:00"
+      }
     },
     "18431": {
       "attempts": []
@@ -67706,5 +67719,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:01:36.616337+00:00"
+  "updated_at": "2026-11-02T22:01:40.296654+00:00"
 }
