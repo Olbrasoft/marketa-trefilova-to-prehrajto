@@ -168,7 +168,7 @@ Attach subtitles only after target processing has finished.
 | Obsession (2026) 4K CZ Titulky | 30705956 | https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv | Extract Czech track from exact source after processing |
 | Hidden Figures 1080p CZ Titulky | 30706154 | https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Walk the Line 1080p CZ Titulky | 30650875 | https://sdilej.cz/6489245/walk-the-line-2005-.bdrip-1080p-x265-ac3-d3fil3r-ceske-titulky.mkv | Complete: Czech subtitles verified |
-| Straight Outta Compton 1080p CZ Titulky | 30707982 | https://sdilej.cz/5724266/straight-outta-compton-2015-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Straight Outta Compton 1080p CZ Titulky | 30707982 | https://sdilej.cz/5724266/straight-outta-compton-2015-cz-tit.mkv | Complete: Czech subtitles verified |
 | Isle of Dogs 1080p CZ Titulky | 30651670 | https://sdilej.cz/35402300/isle.of.dogs.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Tombstone 1080p CZ Titulky | 30651900 | https://sdilej.cz/23077133/tombstone-1993-bdrip-1080p-hevc-en-cz.mkv | Complete: Czech subtitles verified |
 | Awakenings 1080p CZ Titulky | 30708294 | https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
@@ -269,7 +269,7 @@ Attach subtitles only after target processing has finished.
 | Carandiru 720p CZ Titulky | 30704838 | https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Tell Me Who I Am 1080p CZ Titulky | 30705536 | https://sdilej.cz/33293335/tell.me.who.i.am.2019.1080p.nf.web-dl.dd.5.1.x264-ika.mkv | Complete: Czech subtitles verified |
 | Doctor Strange 1080p CZ Titulky | 30705687 | https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
-| Harry Potter and the Chamber of Secrets 4K CZ Titulky | 30706996 | https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv | Extract Czech track from exact source after processing |
+| Harry Potter and the Chamber of Secrets 4K CZ Titulky | 30706996 | https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv | Complete: Czech subtitles verified |
 | Baby Driver 1080p CZ Titulky | 30707542 | https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Deadpool & Wolverine 4K CZ Titulky | 30708571 | https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv | Complete: Czech subtitles verified |
 | Love Actually 4K CZ Titulky | 30709925 | https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv | Complete: Czech subtitles verified |
