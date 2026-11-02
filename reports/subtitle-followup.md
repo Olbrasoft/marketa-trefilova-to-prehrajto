@@ -292,3 +292,4 @@ Attach subtitles only after target processing has finished.
 | Leaving Las Vegas 1080p CZ Titulky | 30720705 | https://sdilej.cz/35401844/leaving.las.vegas.1995.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Fabelmans 1080p CZ Titulky | 30721132 | https://sdilej.cz/25866863/fabelmanovi.mkv | Extract Czech track from exact source after processing |
 | The Life of David Gale 1080p CZ Titulky | 30721346 | https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv | Extract Czech track from exact source after processing |
+| The Iron Claw 1080p CZ Titulky | 30722014 | https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
