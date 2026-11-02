@@ -138,7 +138,7 @@ Attach subtitles only after target processing has finished.
 | Zack Snyder's Justice League 1080p CZ Titulky | 30678189 | https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv | Complete: Czech subtitles verified |
 | Boyhood 720p CZ Titulky | 30678252 | https://sdilej.cz/32842128/chlapectvi-2014-drama-usa-czdab-bluray.hd.mkv | Complete: Czech subtitles verified |
 | Marriage Story 1080p CZ Titulky | 30639527 | https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv | Complete: Czech subtitles verified |
-| Ricky Gervais: Humanity 1080p CZ Titulky | 30704846 | https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv | Extract Czech track from exact source after processing |
+| Ricky Gervais: Humanity 1080p CZ Titulky | 30704846 | https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv | Complete: Czech subtitles verified |
 | Annie Hall 720p CZ Titulky | 30640109 | https://sdilej.cz/29266712/annie-hall-1977-diane-keaton-woody-allen-eng.-cz-ttl..mkv | Complete: Czech subtitles verified |
 | True Romance 1080p CZ Titulky | 30640322 | https://sdilej.cz/30979686/pravdiva-romance-1993-cz-dab1080p-bluray.mkv | Complete: Czech subtitles verified |
 | Wonder 1080p CZ Titulky | 30640621 | https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
@@ -254,20 +254,20 @@ Attach subtitles only after target processing has finished.
 | Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky | 30695912 | https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv | Complete: Czech subtitles verified |
 | The Social Dilemma 1080p CZ Titulky | 30696907 | https://sdilej.cz/30672538/the-social-dilemma-2020-cz-titulky-1080p.mkv | Complete: Czech subtitles verified |
 | Only the Brave SD CZ Titulky | 30697852 | https://sdilej.cz/8588496/only-the-brave-2017-titulky.cz.mkv | Complete: Czech subtitles verified |
-| The Station Agent 1080p CZ Titulky | 30699097 | https://sdilej.cz/33555723/the-station-agent-2003-1080p-web-dl-x265-10bit-aac-5.1-afm72-.mkv | Extract Czech track from exact source after processing |
-| Transformers One 1080p CZ Titulky | 30699593 | https://sdilej.cz/30039022/transformers.one.web-dl.en.5.1.titulky.cz.2024.1080p.mkv | Extract Czech track from exact source after processing |
-| The Unknown Soldier (Tuntematon sotilas) 1080p CZ Titulky | 30699780 | https://sdilej.cz/9356262/neznamy-vojak-tuntematon-sotilas-2017-titulky.cz-1080p-hd.mkv | Extract Czech track from exact source after processing |
+| The Station Agent 1080p CZ Titulky | 30699097 | https://sdilej.cz/33555723/the-station-agent-2003-1080p-web-dl-x265-10bit-aac-5.1-afm72-.mkv | Complete: Czech subtitles verified |
+| Transformers One 1080p CZ Titulky | 30699593 | https://sdilej.cz/30039022/transformers.one.web-dl.en.5.1.titulky.cz.2024.1080p.mkv | Complete: Czech subtitles verified |
+| The Unknown Soldier (Tuntematon sotilas) 1080p CZ Titulky | 30699780 | https://sdilej.cz/9356262/neznamy-vojak-tuntematon-sotilas-2017-titulky.cz-1080p-hd.mkv | Complete: Czech subtitles verified |
 | Rental Family 1080p CZ Titulky | 30699789 | https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4 | Extract Czech track from exact source after processing |
-| The Boy Who Harnessed the Wind 1080p CZ Titulky | 30700677 | https://sdilej.cz/11300206/the-boy-who-harnessed-the-wind-2019-1080p.-titul.cz-.mkv | Extract Czech track from exact source after processing |
+| The Boy Who Harnessed the Wind 1080p CZ Titulky | 30700677 | https://sdilej.cz/11300206/the-boy-who-harnessed-the-wind-2019-1080p.-titul.cz-.mkv | Complete: Czech subtitles verified |
 | Ludo (लूडो) 1080p CZ Titulky | 30702951 | https://sdilej.cz/14638598/ludo-2020-1080p-webrip-x265-10bit-.cz.tit.mkv | Complete: Czech subtitles verified |
-| Three Identical Strangers 1080p CZ Titulky | 30703041 | https://sdilej.cz/11774276/three-identical-strangers-2018-cz-titulky-bluray-1080p-h264-.mkv | Extract Czech track from exact source after processing |
+| Three Identical Strangers 1080p CZ Titulky | 30703041 | https://sdilej.cz/11774276/three-identical-strangers-2018-cz-titulky-bluray-1080p-h264-.mkv | Complete: Czech subtitles verified |
 | Fantastic Planet SD CZ Titulky | 30703255 | https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv | Extract Czech track from exact source after processing |
-| City of Life and Death (Nanjing! Nanjing!) 1080p CZ Titulky | 30703611 | https://sdilej.cz/27751348/nanking-nanking-cina-2009-chuan-lu-bluray.1080p.dts.en.cz.sub.mkv | Extract Czech track from exact source after processing |
-| The Cure (1995) 1080p CZ Titulky | 30703801 | https://sdilej.cz/29771115/the-cure-1995-1080p-hdtv-ac3-x264-majo.mkv | Extract Czech track from exact source after processing |
-| Nirvanna the Band the Show the Movie SD CZ Titulky | 30704201 | https://sdilej.cz/33745604/nirvanna-the-band-the-show-the-movie-2025-cz.tit.mkv | Extract Czech track from exact source after processing |
-| Bloody Sunday 1080p CZ Titulky | 30704538 | https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv | Extract Czech track from exact source after processing |
-| Carandiru 720p CZ Titulky | 30704838 | https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv | Extract Czech track from exact source after processing |
-| Tell Me Who I Am 1080p CZ Titulky | 30705536 | https://sdilej.cz/33293335/tell.me.who.i.am.2019.1080p.nf.web-dl.dd.5.1.x264-ika.mkv | Extract Czech track from exact source after processing |
+| City of Life and Death (Nanjing! Nanjing!) 1080p CZ Titulky | 30703611 | https://sdilej.cz/27751348/nanking-nanking-cina-2009-chuan-lu-bluray.1080p.dts.en.cz.sub.mkv | Complete: Czech subtitles verified |
+| The Cure (1995) 1080p CZ Titulky | 30703801 | https://sdilej.cz/29771115/the-cure-1995-1080p-hdtv-ac3-x264-majo.mkv | Complete: Czech subtitles verified |
+| Nirvanna the Band the Show the Movie SD CZ Titulky | 30704201 | https://sdilej.cz/33745604/nirvanna-the-band-the-show-the-movie-2025-cz.tit.mkv | Complete: Czech subtitles verified |
+| Bloody Sunday 1080p CZ Titulky | 30704538 | https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv | Complete: Czech subtitles verified |
+| Carandiru 720p CZ Titulky | 30704838 | https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv | Complete: Czech subtitles verified |
+| Tell Me Who I Am 1080p CZ Titulky | 30705536 | https://sdilej.cz/33293335/tell.me.who.i.am.2019.1080p.nf.web-dl.dd.5.1.x264-ika.mkv | Complete: Czech subtitles verified |
 | Doctor Strange 1080p CZ Titulky | 30705687 | https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Harry Potter and the Chamber of Secrets 4K CZ Titulky | 30706996 | https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv | Extract Czech track from exact source after processing |
 | Baby Driver 1080p CZ Titulky | 30707542 | https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
