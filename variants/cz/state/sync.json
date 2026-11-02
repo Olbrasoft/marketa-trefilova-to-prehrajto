@@ -28191,17 +28191,19 @@
       "attempts": []
     },
     "23044": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34922737",
+          "target_video_id": "30717810",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:45:25.653109+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34922737",
         "display_name": "Field of Dreams 1080p CZ Dabing",
         "planned_at": "2026-11-02T05:36:25.223585+00:00"
-      },
-      "claim": {
-        "worker_id": "8f2fcf5b403446e19291a23558b36c76-shard-0",
-        "claimed_at": "2026-11-02T05:36:25.449493+00:00",
-        "lease_expires_at": "2026-11-02T11:36:25.449493+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30717810",
       "prepared": {
@@ -57085,5 +57087,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:44:54.424595+00:00"
+  "updated_at": "2026-11-02T05:45:25.653126+00:00"
 }
