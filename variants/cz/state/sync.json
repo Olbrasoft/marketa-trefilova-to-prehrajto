@@ -26414,17 +26414,19 @@
       }
     },
     "882": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31089199",
+          "target_video_id": "30711669",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:25:56.278651+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31089199",
         "display_name": "Batman 4K CZ Dabing",
         "planned_at": "2026-11-02T01:03:39.572395+00:00"
-      },
-      "claim": {
-        "worker_id": "88183230ade64e50befb750f0451f323-shard-0",
-        "claimed_at": "2026-11-02T01:03:39.669226+00:00",
-        "lease_expires_at": "2026-11-02T07:03:39.669226+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30711669",
       "prepared": {
@@ -54344,5 +54346,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:24:06.296685+00:00"
+  "updated_at": "2026-11-02T01:25:56.278671+00:00"
 }
