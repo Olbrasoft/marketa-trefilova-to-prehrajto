@@ -14138,18 +14138,19 @@
           "reason": "Request failed for https://sdilej.cz/23077616/volny-pad-1993-fhd-1080p--cz-pl-pl-eng-eng-true-hd-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-02T04:24:25.364993+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23077616",
+          "target_video_id": "30717138",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:14:59.043968+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23077616",
         "display_name": "Falling Down 1080p CZ Titulky",
         "planned_at": "2026-11-02T05:00:36.788154+00:00"
-      },
-      "claim": {
-        "worker_id": "626b736264d440fea53a915d4b663585-shard-0",
-        "claimed_at": "2026-11-02T05:00:36.841067+00:00",
-        "lease_expires_at": "2026-11-02T11:00:36.841067+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30717138",
       "prepared": {
@@ -42880,5 +42881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:08:10.510135+00:00"
+  "updated_at": "2026-11-02T05:14:59.043986+00:00"
 }
