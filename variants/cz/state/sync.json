@@ -35817,17 +35817,19 @@
       }
     },
     "12218": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32543985",
+          "target_video_id": "30742603",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:31:47.694275+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32543985",
         "display_name": "The City of Lost Children (La Cité des enfants perdus) 4K CZ Dabing",
         "planned_at": "2026-11-02T21:24:38.223252+00:00"
-      },
-      "claim": {
-        "worker_id": "bea598b99f87467cb83e5d292eba2419-shard-0",
-        "claimed_at": "2026-11-02T21:24:38.358155+00:00",
-        "lease_expires_at": "2026-11-03T03:24:38.358155+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742603",
       "prepared": {
@@ -67474,5 +67476,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:28:34.287696+00:00"
+  "updated_at": "2026-11-02T21:31:47.694307+00:00"
 }
