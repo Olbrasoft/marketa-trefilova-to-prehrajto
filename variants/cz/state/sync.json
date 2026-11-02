@@ -31529,17 +31529,19 @@
       "attempts": []
     },
     "17718": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20610314",
+          "target_video_id": "30731860",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:59:11.100533+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20610314",
         "display_name": "Fist of Legend (Jing wu ying xiong) 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:55:04.370903+00:00"
-      },
-      "claim": {
-        "worker_id": "29468eca61cc4197aa823db9f1c4a2f1-shard-0",
-        "claimed_at": "2026-11-02T12:55:04.603782+00:00",
-        "lease_expires_at": "2026-11-02T18:55:04.603782+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30731860",
       "prepared": {
@@ -61698,5 +61700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:57:58.037482+00:00"
+  "updated_at": "2026-11-02T12:59:11.100550+00:00"
 }
