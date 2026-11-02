@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T18:27:53.837547+00:00
+Poslední aktualizace (UTC): 2026-11-02T18:27:57.457134+00:00
 
 Zkontrolováno videí: 305. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 224, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 225, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 20, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -85,7 +85,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvod
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T17:37:58.338829+00:00 |
 | [The Guilty (Den skyldige) (2018) 1080p CZ Titulky](https://prehraj.to/the-guilty-den-skyldige-2018-1080p-cz-titulky-mkv/5f88cd31cdce9aa4) (ID 30731596) | [Sdílej 22087227](https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv) | target_unavailable | 2026-11-02T17:06:15.780751+00:00 |
 | [The Invite 4K CZ Titulky](https://prehraj.to/the-invite-4k-cz-titulky-mkv/e2d629aa23d3e528) (ID 30735713) | [Sdílej 34864644](https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv) | target_unavailable | 2026-11-02T17:06:27.665868+00:00 |
-| [The Iron Claw 1080p CZ Titulky](https://prehraj.to/the-iron-claw-1080p-cz-titulky-mkv/6d54406b8e3b80a9) (ID 30722014) | [Sdílej 29179076](https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv) | target_unavailable | 2026-11-02T16:57:57.676742+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T17:37:37.446291+00:00 |
 | [The Tenant (1976) 1080p CZ Titulky](https://prehraj.to/the-tenant-1976-1080p-cz-titulky-mkv/b0018beec69c3105) (ID 30735788) | [Sdílej 35056653](https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv) | target_unavailable | 2026-11-02T17:06:31.434084+00:00 |
 | [The Time Machine (1960) SD CZ Titulky](https://prehraj.to/the-time-machine-1960-sd-cz-titulky-mkv/0e29c66726ba6612) (ID 30737947) | [Sdílej 21019707](https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv) | target_unavailable | 2026-11-02T17:36:27.031591+00:00 |
