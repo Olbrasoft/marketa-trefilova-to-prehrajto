@@ -13681,13 +13681,6 @@
           "source_id": "31188853",
           "target_video_id": "30710776",
           "permanent": false,
-          "attempted_at": "2026-11-02T10:02:57.555509+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31188853",
-          "target_video_id": "30710776",
-          "permanent": false,
           "attempted_at": "2026-11-02T10:34:26.895468+00:00"
         },
         {
@@ -13696,6 +13689,13 @@
           "target_video_id": "30710776",
           "permanent": false,
           "attempted_at": "2026-11-02T11:05:35.102627+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31188853",
+          "target_video_id": "30710776",
+          "permanent": false,
+          "attempted_at": "2026-11-02T11:43:32.091738+00:00"
         }
       ],
       "last_plan": {
@@ -13709,12 +13709,6 @@
         "size_bytes": 25800000000,
         "prepared_at": "2026-11-02T00:06:24.448715+00:00",
         "relay_source_id": "31188853"
-      },
-      "claim": {
-        "worker_id": "5a6ae051dd2148c3a0f26b2577d6c636-shard-0",
-        "claimed_at": "2026-11-02T11:43:29.125956+00:00",
-        "lease_expires_at": "2026-11-02T17:43:29.125956+00:00",
-        "run_id": "41436275458"
       }
     },
     "877": {
@@ -14149,7 +14143,7 @@
       "last_plan": {
         "source_id": "19346570",
         "display_name": "Erin Brockovich 1080p CZ Titulky",
-        "planned_at": "2026-11-02T11:05:39.284069+00:00"
+        "planned_at": "2026-11-02T11:43:31.613866+00:00"
       },
       "previous_target_id": "30715404",
       "prepared": {
@@ -14157,6 +14151,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-02T03:41:03.364348+00:00",
         "relay_source_id": "19346570"
+      },
+      "claim": {
+        "worker_id": "3c01a2706b6e42f888230a1220bcf41b-shard-0",
+        "claimed_at": "2026-11-02T11:43:31.723153+00:00",
+        "lease_expires_at": "2026-11-02T17:43:31.723153+00:00",
+        "run_id": "41436275458"
       }
     },
     "880": {
@@ -14828,7 +14828,7 @@
       "last_plan": {
         "source_id": "20536962",
         "display_name": "Drive My Car (Doraibu mai kâ) 1080p CZ Titulky",
-        "planned_at": "2026-11-02T11:43:29.085211+00:00"
+        "planned_at": "2026-11-02T11:43:31.685247+00:00"
       }
     },
     "920": {
@@ -45112,5 +45112,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:43:29.890822+00:00"
+  "updated_at": "2026-11-02T11:43:32.091757+00:00"
 }
