@@ -31570,17 +31570,19 @@
       "attempts": []
     },
     "847": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31582764",
+          "target_video_id": "30731906",
+          "permanent": false,
+          "attempted_at": "2026-11-02T13:09:17.101924+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31582764",
         "display_name": "The Beasts (As bestas) 4K CZ Dabing",
         "planned_at": "2026-11-02T12:57:54.026380+00:00"
-      },
-      "claim": {
-        "worker_id": "150a3ca99d8a415486c08bb2c5b602fd-shard-0",
-        "claimed_at": "2026-11-02T12:57:54.147312+00:00",
-        "lease_expires_at": "2026-11-02T18:57:54.147312+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30731906",
       "prepared": {
@@ -61808,5 +61810,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:08:54.356590+00:00"
+  "updated_at": "2026-11-02T13:09:17.101940+00:00"
 }
