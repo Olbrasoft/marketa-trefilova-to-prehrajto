@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T06:59:52.530652+00:00
+Poslední aktualizace (UTC): 2026-11-02T06:59:56.112969+00:00
 
 Zkontrolováno videí: 283. Další stránka kontroly: 0.
 
@@ -71,7 +71,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvod
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T05:48:11.096316+00:00 |
 | [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T05:39:22.056158+00:00 |
 | [Harry Potter and the Chamber of Secrets 4K CZ Titulky](https://prehraj.to/harry-potter-and-the-chamber-of-secrets-4k-cz-titulky-mkv/04c052d0ff591558) (ID 30706996) | [Sdílej 32925478](https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv) | target_unavailable | 2026-11-02T05:39:02.082455+00:00 |
-| [Hidden Figures 1080p CZ Titulky](https://prehraj.to/hidden-figures-1080p-cz-titulky-mkv/27916ef0f8406632) (ID 30706154) | [Sdílej 34903912](https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T05:38:58.593100+00:00 |
+| [Hidden Figures 1080p CZ Titulky](https://prehraj.to/hidden-figures-1080p-cz-titulky-mkv/27916ef0f8406632) (ID 30706154) | [Sdílej 34903912](https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T06:59:56.112902+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-02T06:19:18.409136+00:00 |
 | [Hunt for the Wilderpeople 1080p CZ Titulky](https://prehraj.to/hunt-for-the-wilderpeople-1080p-cz-titulky-mkv/2287f76a76043fa0) (ID 30709933) | [Sdílej 23193408](https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv) | target_unavailable | 2026-11-02T05:39:15.404605+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-02T06:20:11.202495+00:00 |
