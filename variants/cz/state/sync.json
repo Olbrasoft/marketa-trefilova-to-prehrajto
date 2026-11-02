@@ -16361,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-02T10:03:34.886081+00:00"
+        "planned_at": "2026-11-02T10:35:39.196587+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16369,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "899509badd804650b684b074e0137073-shard-0",
+        "claimed_at": "2026-11-02T10:35:39.470992+00:00",
+        "lease_expires_at": "2026-11-02T16:35:39.470992+00:00",
+        "run_id": "41401248142"
       }
     },
     "12843": {
@@ -30333,17 +30339,19 @@
       "attempts": []
     },
     "1031": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20984352",
+          "target_video_id": "30724940",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:35:39.736949+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20984352",
         "display_name": "Lust, Caution (色‧戒) SD CZ Dabing",
         "planned_at": "2026-11-02T10:28:37.433683+00:00"
-      },
-      "claim": {
-        "worker_id": "04fa2b3fd76548d8a6f6e75252ff27ea-shard-0",
-        "claimed_at": "2026-11-02T10:28:37.568750+00:00",
-        "lease_expires_at": "2026-11-02T16:28:37.568750+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30724940",
       "prepared": {
@@ -30388,7 +30396,7 @@
       "last_plan": {
         "source_id": "34530630",
         "display_name": "Police Story (警察故事) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T10:35:35.270702+00:00"
+        "planned_at": "2026-11-02T10:35:39.320059+00:00"
       }
     },
     "22267": {
@@ -60189,5 +60197,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:35:37.691835+00:00"
+  "updated_at": "2026-11-02T10:35:39.736967+00:00"
 }
