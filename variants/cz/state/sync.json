@@ -26801,17 +26801,19 @@
       }
     },
     "24373": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33443762",
+          "target_video_id": "30713480",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:26:42.138365+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33443762",
         "display_name": "Moulin Rouge! 4K CZ Dabing",
         "planned_at": "2026-11-02T02:18:08.892969+00:00"
-      },
-      "claim": {
-        "worker_id": "a85bf100031a42a49d948871dae34fe8-shard-0",
-        "claimed_at": "2026-11-02T02:18:09.081779+00:00",
-        "lease_expires_at": "2026-11-02T08:18:09.081779+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30713480",
       "prepared": {
@@ -55100,5 +55102,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:25:09.781590+00:00"
+  "updated_at": "2026-11-02T02:26:42.138383+00:00"
 }
