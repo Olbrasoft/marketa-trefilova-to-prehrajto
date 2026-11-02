@@ -27582,17 +27582,19 @@
       }
     },
     "895": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34390646",
+          "target_video_id": "30715907",
+          "permanent": false,
+          "attempted_at": "2026-11-02T04:20:29.944386+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34390646",
         "display_name": "The Abyss 4K CZ Dabing",
         "planned_at": "2026-11-02T04:02:45.319790+00:00"
-      },
-      "claim": {
-        "worker_id": "c598ac17466846edbcb34810cfc76176-shard-0",
-        "claimed_at": "2026-11-02T04:02:45.486530+00:00",
-        "lease_expires_at": "2026-11-02T10:02:45.486530+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30715907",
       "prepared": {
@@ -56026,5 +56028,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T04:02:48.978228+00:00"
+  "updated_at": "2026-11-02T04:20:29.944404+00:00"
 }
