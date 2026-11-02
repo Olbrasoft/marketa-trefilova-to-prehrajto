@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:56:37.504761+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:56:41.261463+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 186, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 187, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -84,7 +84,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 19. Důvo
 | [Love Actually 4K CZ Titulky](https://prehraj.to/love-actually-4k-cz-titulky-mkv/9c4cc8281243a3e9) (ID 30709925) | [Sdílej 35168701](https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv) | target_unavailable | 2026-11-01T23:33:42.701621+00:00 |
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T01:05:03.319086+00:00 |
 | [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T01:45:57.879017+00:00 |
-| [My Mom Jayne 1080p CZ Titulky](https://prehraj.to/my-mom-jayne-1080p-cz-titulky-mkv/f2c42d24be6019db) (ID 30705710) | [Sdílej 34393497](https://sdilej.cz/34393497/my-mom-jayne-2025-1080p-hulu-web-dl-h264-sdr-ddp-5-1-english-hone.mkv) | target_unavailable | 2026-11-01T20:12:13.687710+00:00 |
 | [Nightcrawler 1080p CZ Titulky](https://prehraj.to/nightcrawler-1080p-cz-titulky-mkv/e990a68c9d3b618a) (ID 30705872) | [Sdílej 35011160](https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-01T20:12:21.153310+00:00 |
 | [Obsession (2026) 4K CZ Titulky](https://prehraj.to/obsession-2026-4k-cz-titulky-mkv/6412dae282b5a0f6) (ID 30705956) | [Sdílej 34596026](https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv) | target_unavailable | 2026-11-01T20:22:15.879154+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-02T02:36:41.829113+00:00 |
