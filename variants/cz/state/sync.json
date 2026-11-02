@@ -6947,7 +6947,7 @@
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-11-02T21:10:23.314281+00:00"
+        "planned_at": "2026-11-02T21:44:32.561380+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -6955,6 +6955,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "660a5a4c8a434a0fb551cf62465803c1-shard-0",
+        "claimed_at": "2026-11-02T21:44:32.779504+00:00",
+        "lease_expires_at": "2026-11-03T03:44:32.779504+00:00",
+        "run_id": "41509256577"
       }
     },
     "321": {
@@ -8512,13 +8518,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-02T20:09:16.414063+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-02T20:39:51.051177+00:00"
         },
         {
@@ -8527,6 +8526,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-02T21:10:21.926009+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:44:32.950773+00:00"
         }
       ],
       "last_plan": {
@@ -8540,12 +8546,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
-      },
-      "claim": {
-        "worker_id": "63f82a9bcaa845298cf6d66383e277e5-shard-0",
-        "claimed_at": "2026-11-02T21:44:31.041749+00:00",
-        "lease_expires_at": "2026-11-03T03:44:31.041749+00:00",
-        "run_id": "41509256577"
       }
     },
     "270": {
@@ -35958,7 +35958,7 @@
       "last_plan": {
         "source_id": "33563756",
         "display_name": "Blowup (Blow-Up) SD CZ Dabing",
-        "planned_at": "2026-11-02T21:44:30.921150+00:00"
+        "planned_at": "2026-11-02T21:44:32.648626+00:00"
       }
     },
     "26538": {
@@ -67568,5 +67568,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:44:31.186907+00:00"
+  "updated_at": "2026-11-02T21:44:32.950796+00:00"
 }
