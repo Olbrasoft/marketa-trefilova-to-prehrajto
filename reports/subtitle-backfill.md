@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T04:18:50.922012+00:00
+Poslední aktualizace (UTC): 2026-11-02T04:18:54.249309+00:00
 
 Zkontrolováno videí: 280. Další stránka kontroly: 0.
 
@@ -81,7 +81,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Killers of the Flower Moon 4K CZ Titulky](https://prehraj.to/killers-of-the-flower-moon-4k-cz-titulky-mkv/d87a6252c4f3a3e2) (ID 30713681) | [Sdílej 27446866](https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-02T03:26:49.418587+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T03:48:49.625438+00:00 |
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T04:18:50.921936+00:00 |
-| [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T03:08:12.393576+00:00 |
+| [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T04:18:54.249220+00:00 |
 | [Nightcrawler 1080p CZ Titulky](https://prehraj.to/nightcrawler-1080p-cz-titulky-mkv/e990a68c9d3b618a) (ID 30705872) | [Sdílej 35011160](https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T03:57:23.920761+00:00 |
 | [Obsession (2026) 4K CZ Titulky](https://prehraj.to/obsession-2026-4k-cz-titulky-mkv/6412dae282b5a0f6) (ID 30705956) | [Sdílej 34596026](https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv) | target_unavailable | 2026-11-02T04:18:18.131873+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-02T03:48:41.887910+00:00 |
