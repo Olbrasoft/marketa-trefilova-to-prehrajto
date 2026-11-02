@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T06:20:32.793953+00:00
+Poslední aktualizace (UTC): 2026-11-02T06:20:36.302888+00:00
 
 Zkontrolováno videí: 283. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 195, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 196, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 29, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -68,7 +68,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 22. Důvod
 | [Baby Driver 1080p CZ Titulky](https://prehraj.to/baby-driver-1080p-cz-titulky-mkv/659fa4bba5746da5) (ID 30707542) | [Sdílej 34641510](https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T05:39:05.405131+00:00 |
 | [BlacKkKlansman 1080p CZ Titulky](https://prehraj.to/blackkklansman-1080p-cz-titulky-mkv/55432ccf5b5a0aa2) (ID 30713447) | [Sdílej 11006824](https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-02T05:39:38.910226+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T06:19:30.082431+00:00 |
-| [Doctor Strange 1080p CZ Titulky](https://prehraj.to/doctor-strange-1080p-cz-titulky-mkv/6396e1fdac7387be) (ID 30705687) | [Sdílej 35402193](https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-02T05:00:13.805652+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T05:48:11.096316+00:00 |
 | [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T05:39:22.056158+00:00 |
 | [Falling Down 1080p CZ Titulky](https://prehraj.to/falling-down-1080p-cz-titulky-mkv/31bb112259b2fcaa) (ID 30717138) | [Sdílej 23077616](https://sdilej.cz/23077616/volny-pad-1993-fhd-1080p--cz-pl-pl-eng-eng-true-hd-.mkv) | target_unavailable | 2026-11-02T05:08:03.546221+00:00 |
