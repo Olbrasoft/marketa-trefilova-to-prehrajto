@@ -299,3 +299,4 @@ Attach subtitles only after target processing has finished.
 | Drive My Car (Doraibu mai kâ) 1080p CZ Titulky | 30727014 | https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky | 30728908 | https://sdilej.cz/32616287/neni-jina-moznost-2025-komedie-thriller-ko-eac3-2.0-titulky-cz-en-h265-1080p.mkv | Extract Czech track from exact source after processing |
 | The Guilty (Den skyldige) (2018) 1080p CZ Titulky | 30731596 | https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv | Extract Czech track from exact source after processing |
+| Victoria 1080p CZ Titulky | 30731842 | https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
