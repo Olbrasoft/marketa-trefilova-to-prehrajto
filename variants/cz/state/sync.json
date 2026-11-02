@@ -4163,7 +4163,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:22:41.343945+00:00"
+        "planned_at": "2026-11-02T14:54:55.243307+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "b4c6fb52b56f442798f66912759b51bd-shard-0",
+        "claimed_at": "2026-11-02T14:54:55.463089+00:00",
+        "lease_expires_at": "2026-11-02T20:54:55.463089+00:00",
+        "run_id": "41436275458"
       }
     },
     "37290": {
@@ -21530,13 +21536,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:20:08.954064+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-02T13:51:28.715232+00:00"
         },
         {
@@ -21545,6 +21544,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-02T14:22:40.231796+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:54:55.718615+00:00"
         }
       ],
       "last_plan": {
@@ -21558,12 +21564,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
-      },
-      "claim": {
-        "worker_id": "1626981fee534a988da37a88ec799932-shard-0",
-        "claimed_at": "2026-11-02T14:54:53.018709+00:00",
-        "lease_expires_at": "2026-11-02T20:54:53.018709+00:00",
-        "run_id": "41436275458"
       }
     },
     "677": {
@@ -32637,7 +32637,7 @@
       "last_plan": {
         "source_id": "28314931",
         "display_name": "Juno 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:54:52.894356+00:00"
+        "planned_at": "2026-11-02T14:54:55.338115+00:00"
       }
     },
     "1209": {
@@ -63041,5 +63041,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:54:53.897340+00:00"
+  "updated_at": "2026-11-02T14:54:55.718629+00:00"
 }
