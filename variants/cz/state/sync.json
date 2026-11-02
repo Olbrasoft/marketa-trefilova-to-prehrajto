@@ -27545,17 +27545,19 @@
       }
     },
     "891": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32825509",
+          "target_video_id": "30715462",
+          "permanent": false,
+          "attempted_at": "2026-11-02T04:33:12.767027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32825509",
         "display_name": "A Man Called Otto 4K CZ Dabing",
         "planned_at": "2026-11-02T03:43:34.797643+00:00"
-      },
-      "claim": {
-        "worker_id": "3026580b0dd24e469ab493fd97c24f80-shard-0",
-        "claimed_at": "2026-11-02T03:43:34.970099+00:00",
-        "lease_expires_at": "2026-11-02T09:43:34.970099+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30715462",
       "prepared": {
@@ -56332,5 +56334,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T04:24:28.085595+00:00"
+  "updated_at": "2026-11-02T04:33:12.767043+00:00"
 }
