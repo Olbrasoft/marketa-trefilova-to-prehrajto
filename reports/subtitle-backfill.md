@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:26:13.565654+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:27:02.033389+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
@@ -110,7 +110,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-01T06:43:56.292829+00:00 |
 | [Ricky Gervais: Humanity 1080p CZ Titulky](https://prehraj.to/ricky-gervais-humanity-1080p-cz-titulky-mkv/c3d11d6c39a9ef0b) (ID 30704846) | [Sdílej 29927079](https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv) | target_unavailable | 2026-11-01T19:31:30.361252+00:00 |
 | [Roma (2018) 1080p CZ Titulky](https://prehraj.to/roma-2018-1080p-cz-titulky-mkv/2a0ee45e8062349f) (ID 30691634) | [Sdílej 16152424](https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv) | target_unavailable | 2026-11-01T10:09:18.390946+00:00 |
-| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-01T06:42:48.129724+00:00 |
+| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-02T02:27:02.005831+00:00 |
 | [Rushmore 1080p CZ Titulky](https://prehraj.to/rushmore-1080p-cz-titulky-mkv/fc686d09c5231058) (ID 30690305) | [Sdílej 26981215](https://sdilej.cz/26981215/rushmore.1998.1080p.bluray.h264.aac.en.cz.mkv) | target_unavailable | 2026-11-01T09:07:58.050544+00:00 |
 | [Saw (2004) 1080p CZ Titulky](https://prehraj.to/saw-2004-1080p-cz-titulky-mkv/919ec29c99bd8c47) (ID 30681152) | [Sdílej 27106738](https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv) | target_unavailable | 2026-11-01T06:52:32.873059+00:00 |
 | [Shaun of the Dead 720p CZ Titulky](https://prehraj.to/shaun-of-the-dead-720p-cz-titulky-mkv/03af392ee4a8870a) (ID 30705871) | [Sdílej 30657982](https://sdilej.cz/30657982/shaun-of-the-dead-2004-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T20:12:17.503845+00:00 |
