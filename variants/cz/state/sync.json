@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-02T00:05:30.133381+00:00"
+        "planned_at": "2026-11-02T00:42:15.010894+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "29bc2e77e1e44cfb9e7e3886ffc5ef08-shard-0",
+        "claimed_at": "2026-11-02T00:42:15.167089+00:00",
+        "lease_expires_at": "2026-11-02T06:42:15.167089+00:00",
+        "run_id": "41351617669"
       }
     },
     "29922": {
@@ -26303,17 +26309,19 @@
       }
     },
     "17877": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32908038",
+          "target_video_id": "30711107",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:42:38.517125+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32908038",
         "display_name": "The Town 4K CZ Dabing",
         "planned_at": "2026-11-02T00:28:33.983612+00:00"
-      },
-      "claim": {
-        "worker_id": "b92dc49b95b64999b3985554e6479fd9-shard-0",
-        "claimed_at": "2026-11-02T00:28:34.086963+00:00",
-        "lease_expires_at": "2026-11-02T06:28:34.086963+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30711107",
       "prepared": {
@@ -26328,7 +26336,7 @@
       "last_plan": {
         "source_id": "33479696",
         "display_name": "The Devil's Advocate 4K CZ Dabing",
-        "planned_at": "2026-11-02T00:42:11.043228+00:00"
+        "planned_at": "2026-11-02T00:42:15.072321+00:00"
       }
     },
     "23893": {
@@ -53930,5 +53938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:42:12.135987+00:00"
+  "updated_at": "2026-11-02T00:42:38.517162+00:00"
 }
