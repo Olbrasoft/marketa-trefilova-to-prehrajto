@@ -27735,17 +27735,19 @@
       }
     },
     "23515": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31329611",
+          "target_video_id": "30716857",
+          "permanent": false,
+          "attempted_at": "2026-11-02T04:57:04.906968+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31329611",
         "display_name": "Legends of the Fall 1080p CZ Dabing",
         "planned_at": "2026-11-02T04:48:31.833324+00:00"
-      },
-      "claim": {
-        "worker_id": "1ec2201ccc5942a08910472a016b5e93-shard-0",
-        "claimed_at": "2026-11-02T04:48:31.999626+00:00",
-        "lease_expires_at": "2026-11-02T10:48:31.999626+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30716857",
       "prepared": {
@@ -56440,5 +56442,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T04:49:00.224918+00:00"
+  "updated_at": "2026-11-02T04:57:04.906984+00:00"
 }
