@@ -35390,6 +35390,13 @@
         "claimed_at": "2026-11-02T20:51:19.160830+00:00",
         "lease_expires_at": "2026-11-03T02:51:19.160830+00:00",
         "run_id": "41509256577"
+      },
+      "previous_target_id": "30741798",
+      "prepared": {
+        "target_video_id": "30741798",
+        "size_bytes": 34464126256,
+        "prepared_at": "2026-11-02T20:51:22.315004+00:00",
+        "relay_source_id": "29946370"
       }
     },
     "26904": {
@@ -35399,7 +35406,18 @@
       "attempts": []
     },
     "1098": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26898722",
+        "display_name": "The Wonderful Story of Henry Sugar 1080p CZ Dabing",
+        "planned_at": "2026-11-02T20:51:22.114574+00:00"
+      },
+      "claim": {
+        "worker_id": "e5320310f57640099de8f393695134f0-shard-0",
+        "claimed_at": "2026-11-02T20:51:22.234505+00:00",
+        "lease_expires_at": "2026-11-03T02:51:22.234505+00:00",
+        "run_id": "41509256577"
+      }
     },
     "25634": {
       "attempts": []
@@ -66945,5 +66963,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:51:20.348484+00:00"
+  "updated_at": "2026-11-02T20:51:22.315025+00:00"
 }
