@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-02T03:40:22.696390+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-02T04:21:28.550903+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-02T04:58:04.683418+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:28:54.023418+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "acc48a9a6aa444e1a2311097004d8976-shard-0",
-        "claimed_at": "2026-11-02T05:28:51.166883+00:00",
-        "lease_expires_at": "2026-11-02T11:28:51.166883+00:00",
-        "run_id": "41372098637"
       }
     },
     "52": {
@@ -10835,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-02T04:58:05.948085+00:00"
+        "planned_at": "2026-11-02T05:28:53.584571+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10843,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "53c5ee8843d54ce584b5ca9790b9073a-shard-0",
+        "claimed_at": "2026-11-02T05:28:53.864187+00:00",
+        "lease_expires_at": "2026-11-02T11:28:53.864187+00:00",
+        "run_id": "41372098637"
       }
     },
     "21748": {
@@ -28046,7 +28046,7 @@
       "last_plan": {
         "source_id": "17629602",
         "display_name": "The Big Sick 1080p CZ Dabing",
-        "planned_at": "2026-11-02T05:28:51.004789+00:00"
+        "planned_at": "2026-11-02T05:28:53.696192+00:00"
       }
     },
     "26091": {
@@ -56934,5 +56934,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:28:52.327078+00:00"
+  "updated_at": "2026-11-02T05:28:54.023439+00:00"
 }
