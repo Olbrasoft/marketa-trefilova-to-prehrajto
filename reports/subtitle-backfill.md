@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T01:45:57.879102+00:00
+Poslední aktualizace (UTC): 2026-11-02T01:46:01.416568+00:00
 
 Zkontrolováno videí: 274. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 71, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 149, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 72, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -88,6 +88,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 72. Důvod
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-01T06:52:39.884172+00:00 |
 | [Jurassic Park 4K CZ Titulky](https://prehraj.to/jurassic-park-4k-cz-titulky-mkv/a055332f03f157f1) (ID 30677093) | [Sdílej 16781576](https://sdilej.cz/16781576/jursky-park.1993.2160p-cz-dabing.mkv) | target_unavailable | 2026-11-01T06:44:12.082343+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-01T11:40:26.594278+00:00 |
+| [Les Misérables (2012) 1080p CZ Titulky](https://prehraj.to/les-miserables-2012-1080p-cz-titulky-mkv/e333cd68c756d11b) (ID 30712563) | [Sdílej 30727271](https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv) | target_unavailable | 2026-11-02T01:46:01.416500+00:00 |
 | [Love Actually 4K CZ Titulky](https://prehraj.to/love-actually-4k-cz-titulky-mkv/9c4cc8281243a3e9) (ID 30709925) | [Sdílej 35168701](https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv) | target_unavailable | 2026-11-01T23:33:42.701621+00:00 |
 | [Memento 1080p CZ Titulky](https://prehraj.to/memento-1080p-cz-titulky-mkv/c57ecead896aa1dc) (ID 30676003) | [Sdílej 30657861](https://sdilej.cz/30657861/memento-2000-remastered-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T06:43:53.016365+00:00 |
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T01:05:03.319086+00:00 |
