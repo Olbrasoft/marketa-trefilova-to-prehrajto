@@ -13695,7 +13695,7 @@
       "last_plan": {
         "source_id": "31188853",
         "display_name": "Sinners 4K CZ Titulky",
-        "planned_at": "2026-11-02T09:29:42.382887+00:00"
+        "planned_at": "2026-11-02T10:02:53.592707+00:00"
       },
       "previous_target_id": "30710776",
       "prepared": {
@@ -13703,6 +13703,12 @@
         "size_bytes": 25800000000,
         "prepared_at": "2026-11-02T00:06:24.448715+00:00",
         "relay_source_id": "31188853"
+      },
+      "claim": {
+        "worker_id": "90be19b3df814152826440cf85fd0dae-shard-0",
+        "claimed_at": "2026-11-02T10:02:53.695516+00:00",
+        "lease_expires_at": "2026-11-02T16:02:53.695516+00:00",
+        "run_id": "41401248142"
       }
     },
     "877": {
@@ -13806,13 +13812,6 @@
           "source_id": "29053388",
           "target_video_id": "30712437",
           "permanent": false,
-          "attempted_at": "2026-11-02T08:24:19.240742+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29053388",
-          "target_video_id": "30712437",
-          "permanent": false,
           "attempted_at": "2026-11-02T08:54:45.787195+00:00"
         },
         {
@@ -13821,6 +13820,13 @@
           "target_video_id": "30712437",
           "permanent": false,
           "attempted_at": "2026-11-02T09:29:40.789958+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29053388",
+          "target_video_id": "30712437",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:02:55.590243+00:00"
         }
       ],
       "last_plan": {
@@ -13834,12 +13840,6 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-02T01:39:26.923055+00:00",
         "relay_source_id": "29053388"
-      },
-      "claim": {
-        "worker_id": "6a03f2c25c764affa4fc166d00344552-shard-0",
-        "claimed_at": "2026-11-02T10:02:48.992890+00:00",
-        "lease_expires_at": "2026-11-02T16:02:48.992890+00:00",
-        "run_id": "41401248142"
       }
     },
     "34891": {
@@ -44560,5 +44560,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:02:50.438696+00:00"
+  "updated_at": "2026-11-02T10:02:55.590263+00:00"
 }
