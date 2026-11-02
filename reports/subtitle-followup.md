@@ -175,6 +175,7 @@ Attach subtitles only after target processing has finished.
 | Society of the Snow (La sociedad de la nieve) 1080p CZ Titulky | 30652651 | https://sdilej.cz/27805228/society.of.the.snow.2023.1080p.web.h264-edith.mkv | Complete: Czech subtitles verified |
 | Hunt for the Wilderpeople 1080p CZ Titulky | 30709933 | https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv | Extract Czech track from exact source after processing |
 | Castaway on the Moon (김씨 표류기) 1080p CZ Titulky | 30652792 | https://sdilej.cz/30614687/castaway.on.the.moon.2009.bluray.1080p.korean.dts.x264-majo.mkv | Complete: Czech subtitles verified |
+| Midnight Cowboy 1080p CZ Titulky | 30711546 | https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Hamnet 1080p CZ Titulky | 30653249 | https://sdilej.cz/32963361/hamnet-2025-1080p-eng-cz-tit-vlozeny.mkv | Complete: Czech subtitles verified |
 | The Wind Rises (Kaze tachinu) 1080p CZ Titulky | 30653654 | https://sdilej.cz/22124732/-dragsterps-kaze-tachinu-1080p-multi-audio-multi-subs-h264-aac-21ec96d7-.mkv | Complete: Czech subtitles verified |
 | Harold and Maude 1080p CZ Titulky | 30654323 | https://sdilej.cz/35402272/harold.and.maude.1971.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
