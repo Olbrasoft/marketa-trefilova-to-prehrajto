@@ -29247,17 +29247,19 @@
       }
     },
     "947": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26737308",
+          "target_video_id": "30722236",
+          "permanent": false,
+          "attempted_at": "2026-11-02T09:06:02.702346+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26737308",
         "display_name": "Disconnect 1080p CZ Dabing",
         "planned_at": "2026-11-02T08:50:07.952106+00:00"
-      },
-      "claim": {
-        "worker_id": "f0da5893f1da4a70a70b146fceb804ac-shard-0",
-        "claimed_at": "2026-11-02T08:50:08.092045+00:00",
-        "lease_expires_at": "2026-11-02T14:50:08.092045+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30722236",
       "prepared": {
@@ -58846,5 +58848,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T09:02:06.553109+00:00"
+  "updated_at": "2026-11-02T09:06:02.702364+00:00"
 }
