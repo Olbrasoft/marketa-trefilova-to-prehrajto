@@ -142,8 +142,8 @@ Attach subtitles only after target processing has finished.
 | Annie Hall 720p CZ Titulky | 30640109 | https://sdilej.cz/29266712/annie-hall-1977-diane-keaton-woody-allen-eng.-cz-ttl..mkv | Complete: Czech subtitles verified |
 | True Romance 1080p CZ Titulky | 30640322 | https://sdilej.cz/30979686/pravdiva-romance-1993-cz-dab1080p-bluray.mkv | Complete: Czech subtitles verified |
 | Wonder 1080p CZ Titulky | 30640621 | https://sdilej.cz/8625620/wonder-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
-| Hero (2002) 1080p CZ Titulky | 30705057 | https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv | Extract Czech track from exact source after processing |
-| The Maltese Falcon 1080p CZ Titulky | 30705059 | https://sdilej.cz/29249134/maltezsky-sokol-the-maltese-falcon-1941-bluray-cz-daing.mkv | Extract Czech track from exact source after processing |
+| Hero (2002) 1080p CZ Titulky | 30705057 | https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv | Complete: Czech subtitles verified |
+| The Maltese Falcon 1080p CZ Titulky | 30705059 | https://sdilej.cz/29249134/maltezsky-sokol-the-maltese-falcon-1941-bluray-cz-daing.mkv | Complete: Czech subtitles verified |
 | Spartacus (1960) 1080p CZ Titulky | 30641259 | https://sdilej.cz/30774032/spartakus-hraji-kirk-douglas-l.-olivier-1960-cz-dab.mkv | Complete: Czech subtitles verified |
 | Strangers on a Train 1080p CZ Titulky | 30641584 | https://sdilej.cz/18087403/cizinci-ve-vlaku-strangers.on.a.train.1951.1080p.bluray.x264.dts-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Do the Right Thing 1080p CZ Titulky | 30642017 | https://sdilej.cz/20929657/do.the.right.thing.1989.remastered.1080p.bluray.h264.aac-rarbg-titulky-cz.mkv | Complete: Czech subtitles verified |
@@ -268,7 +268,7 @@ Attach subtitles only after target processing has finished.
 | Bloody Sunday 1080p CZ Titulky | 30704538 | https://sdilej.cz/27438732/bloody.sunday.2002.1080p.mkv | Complete: Czech subtitles verified |
 | Carandiru 720p CZ Titulky | 30704838 | https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Tell Me Who I Am 1080p CZ Titulky | 30705536 | https://sdilej.cz/33293335/tell.me.who.i.am.2019.1080p.nf.web-dl.dd.5.1.x264-ika.mkv | Complete: Czech subtitles verified |
-| Doctor Strange 1080p CZ Titulky | 30705687 | https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Doctor Strange 1080p CZ Titulky | 30705687 | https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Harry Potter and the Chamber of Secrets 4K CZ Titulky | 30706996 | https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv | Extract Czech track from exact source after processing |
 | Baby Driver 1080p CZ Titulky | 30707542 | https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Deadpool & Wolverine 4K CZ Titulky | 30708571 | https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv | Complete: Czech subtitles verified |
@@ -285,4 +285,4 @@ Attach subtitles only after target processing has finished.
 | Erin Brockovich 1080p CZ Titulky | 30715404 | https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv | Extract Czech track from exact source after processing |
 | Upgrade 1080p CZ Titulky | 30715573 | https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv | Extract Czech track from exact source after processing |
 | Falling Down 1080p CZ Titulky | 30717138 | https://sdilej.cz/23077616/volny-pad-1993-fhd-1080p--cz-pl-pl-eng-eng-true-hd-.mkv | Extract Czech track from exact source after processing |
-| The Abyss 4K CZ Titulky | 30717125 | https://sdilej.cz/26562713/the-abyss-director-s-cut-1989-2160p-cz-sub.mkv | Extract Czech track from exact source after processing |
+| The Abyss 4K CZ Titulky | 30717125 | https://sdilej.cz/26562713/the-abyss-director-s-cut-1989-2160p-cz-sub.mkv | Complete: Czech subtitles verified |
