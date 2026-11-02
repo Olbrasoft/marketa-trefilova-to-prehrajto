@@ -33405,17 +33405,19 @@
       }
     },
     "19527": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33900734",
+          "reason": "Request failed for https://sdilej.cz/33900734/babel-2006-bluray-1080p-x265.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T16:44:41.567787+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33900734",
         "display_name": "Babel 1080p CZ Dabing",
         "planned_at": "2026-11-02T16:43:55.424273+00:00"
-      },
-      "claim": {
-        "worker_id": "ff054197b93d4ce986735de1ff54bd7d-shard-0",
-        "claimed_at": "2026-11-02T16:43:55.609887+00:00",
-        "lease_expires_at": "2026-11-02T22:43:55.609887+00:00",
-        "run_id": "41471188833"
       }
     },
     "1192": {
@@ -64227,5 +64229,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:43:55.609910+00:00"
+  "updated_at": "2026-11-02T16:44:41.567804+00:00"
 }
