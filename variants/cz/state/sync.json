@@ -28775,17 +28775,19 @@
       }
     },
     "25213": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-02T08:03:28.310467+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28442451",
         "display_name": "Synecdoche, New York SD CZ Dabing",
         "planned_at": "2026-11-02T07:58:09.077663+00:00"
-      },
-      "claim": {
-        "worker_id": "feef9486007142d2b975b597c1686b6c-shard-0",
-        "claimed_at": "2026-11-02T07:58:09.217593+00:00",
-        "lease_expires_at": "2026-11-02T13:58:09.217593+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30721408",
       "prepared": {
@@ -58131,5 +58133,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:01:40.725986+00:00"
+  "updated_at": "2026-11-02T08:03:28.310486+00:00"
 }
