@@ -31091,17 +31091,19 @@
       }
     },
     "10928": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34483060",
+          "target_video_id": "30728781",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:03:34.098989+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34483060",
         "display_name": "El Dorado (1966) 1080p CZ Dabing",
         "planned_at": "2026-11-02T11:58:42.225012+00:00"
-      },
-      "claim": {
-        "worker_id": "6ae6de8516d54a33baa04a11864d23de-shard-0",
-        "claimed_at": "2026-11-02T11:58:42.347201+00:00",
-        "lease_expires_at": "2026-11-02T17:58:42.347201+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30728781",
       "prepared": {
@@ -61064,5 +61066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:59:51.314203+00:00"
+  "updated_at": "2026-11-02T12:03:34.099006+00:00"
 }
