@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T18:28:06.244017+00:00
+Poslední aktualizace (UTC): 2026-11-02T18:28:10.227388+00:00
 
 Zkontrolováno videí: 305. Další stránka kontroly: 0.
 
@@ -84,7 +84,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvod
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-02T18:27:24.367819+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T17:37:58.338829+00:00 |
 | [The Guilty (Den skyldige) (2018) 1080p CZ Titulky](https://prehraj.to/the-guilty-den-skyldige-2018-1080p-cz-titulky-mkv/5f88cd31cdce9aa4) (ID 30731596) | [Sdílej 22087227](https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv) | target_unavailable | 2026-11-02T18:28:02.108332+00:00 |
-| [The Invite 4K CZ Titulky](https://prehraj.to/the-invite-4k-cz-titulky-mkv/e2d629aa23d3e528) (ID 30735713) | [Sdílej 34864644](https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv) | target_unavailable | 2026-11-02T17:06:27.665868+00:00 |
+| [The Invite 4K CZ Titulky](https://prehraj.to/the-invite-4k-cz-titulky-mkv/e2d629aa23d3e528) (ID 30735713) | [Sdílej 34864644](https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv) | target_unavailable | 2026-11-02T18:28:10.227289+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T17:37:37.446291+00:00 |
 | [The Tenant (1976) 1080p CZ Titulky](https://prehraj.to/the-tenant-1976-1080p-cz-titulky-mkv/b0018beec69c3105) (ID 30735788) | [Sdílej 35056653](https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv) | target_unavailable | 2026-11-02T17:06:31.434084+00:00 |
 | [The Time Machine (1960) SD CZ Titulky](https://prehraj.to/the-time-machine-1960-sd-cz-titulky-mkv/0e29c66726ba6612) (ID 30737947) | [Sdílej 21019707](https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv) | target_unavailable | 2026-11-02T17:36:27.031591+00:00 |
