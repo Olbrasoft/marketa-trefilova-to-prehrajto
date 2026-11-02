@@ -26547,17 +26547,19 @@
       }
     },
     "960": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35062219",
+          "target_video_id": "30712158",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:42:09.200177+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35062219",
         "display_name": "Interview with the Vampire 4K CZ Dabing",
         "planned_at": "2026-11-02T01:29:12.533389+00:00"
-      },
-      "claim": {
-        "worker_id": "0f071f51cfcc4851a90b8a2771acf012-shard-0",
-        "claimed_at": "2026-11-02T01:29:12.618234+00:00",
-        "lease_expires_at": "2026-11-02T07:29:12.618234+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30712158",
       "prepared": {
@@ -54660,5 +54662,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:39:22.744731+00:00"
+  "updated_at": "2026-11-02T01:42:09.200198+00:00"
 }
