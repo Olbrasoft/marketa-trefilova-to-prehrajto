@@ -32343,17 +32343,19 @@
       "attempts": []
     },
     "1256": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34194769",
+          "target_video_id": "30733633",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:25:20.353648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34194769",
         "display_name": "Spider-Man 4K CZ Dabing",
         "planned_at": "2026-11-02T14:13:37.414106+00:00"
-      },
-      "claim": {
-        "worker_id": "12a528e428044df38dd048e74c89527b-shard-0",
-        "claimed_at": "2026-11-02T14:13:37.541383+00:00",
-        "lease_expires_at": "2026-11-02T20:13:37.541383+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30733633",
       "prepared": {
@@ -62560,5 +62562,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:23:06.228344+00:00"
+  "updated_at": "2026-11-02T14:25:20.353664+00:00"
 }
