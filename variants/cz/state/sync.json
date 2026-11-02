@@ -34850,17 +34850,19 @@
       }
     },
     "11897": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33690094",
+          "target_video_id": "30741026",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:14:22.233889+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33690094",
         "display_name": "Jacob's Ladder 1080p CZ Dabing",
         "planned_at": "2026-11-02T20:10:14.848135+00:00"
-      },
-      "claim": {
-        "worker_id": "006407fc12c041fca40004c3e43e8794-shard-0",
-        "claimed_at": "2026-11-02T20:10:15.040703+00:00",
-        "lease_expires_at": "2026-11-03T02:10:15.040703+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30741026",
       "prepared": {
@@ -66258,5 +66260,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:10:34.519082+00:00"
+  "updated_at": "2026-11-02T20:14:22.233910+00:00"
 }
