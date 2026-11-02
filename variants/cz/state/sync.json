@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "cd3caad530714ca2a0b8809525a6fb0d-shard-0",
+        "claimed_at": "2026-11-02T18:22:46.146467+00:00",
+        "lease_expires_at": "2026-11-03T00:22:46.146467+00:00",
+        "run_id": "41471188833"
       }
     },
     "37290": {
@@ -33749,17 +33755,23 @@
           "attempted_at": "2026-11-02T17:50:15.381067+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33492597",
-        "display_name": "The Karate Kid (1984) 4K CZ Dabing",
-        "planned_at": "2026-11-02T17:36:31.608008+00:00"
-      },
       "previous_target_id": "30738011",
-      "prepared": {
+      "upload": {
         "target_video_id": "30738011",
-        "size_bytes": 6132371960,
-        "prepared_at": "2026-11-02T17:36:37.090808+00:00",
-        "relay_source_id": "33492597"
+        "display_name": "The Karate Kid (1984) 4K CZ Dabing",
+        "source_id": "33492597",
+        "source_url": "https://sdilej.cz/33492597/karate-kid-1984-uhdrdv-cz-en.mkv",
+        "source_filename": "Karate Kid (1984) UHDRDV cz en.mkv",
+        "size_bytes": 6100000000,
+        "width": 3840,
+        "height": 2076,
+        "audio_language": "cs",
+        "language_probability": 0.9787094593048096,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-karate-kid-1984-4k-cz-dabing-mkv/85cd9e1d4ad568fc",
+        "uploaded_at": "2026-11-02T18:22:47.741169+00:00"
       }
     },
     "17979": {
@@ -34006,7 +34018,7 @@
       "last_plan": {
         "source_id": "20341662",
         "display_name": "The Judge 1080p CZ Dabing",
-        "planned_at": "2026-11-02T18:22:44.756803+00:00"
+        "planned_at": "2026-11-02T18:22:46.370502+00:00"
       }
     },
     "1257": {
@@ -64989,5 +65001,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:22:44.756822+00:00"
+  "updated_at": "2026-11-02T18:22:47.741186+00:00"
 }
