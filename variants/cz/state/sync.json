@@ -34063,17 +34063,19 @@
       "attempts": []
     },
     "1121": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25400576",
+          "target_video_id": "30739069",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:29:49.696135+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25400576",
         "display_name": "Palm Springs 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:25:54.166685+00:00"
-      },
-      "claim": {
-        "worker_id": "37690755478f4861a008d8b32e8cdd06-shard-0",
-        "claimed_at": "2026-11-02T18:25:54.372657+00:00",
-        "lease_expires_at": "2026-11-03T00:25:54.372657+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30739069",
       "prepared": {
@@ -65321,5 +65323,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:27:01.021626+00:00"
+  "updated_at": "2026-11-02T18:29:49.696153+00:00"
 }
