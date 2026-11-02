@@ -34177,17 +34177,19 @@
       }
     },
     "21835": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32676884",
+          "target_video_id": "30739184",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:40:53.513268+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32676884",
         "display_name": "A Man and a Woman 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:33:21.331174+00:00"
-      },
-      "claim": {
-        "worker_id": "1bdffda81014490c9263f2744869bdfb-shard-0",
-        "claimed_at": "2026-11-02T18:33:21.546090+00:00",
-        "lease_expires_at": "2026-11-03T00:33:21.546090+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30739184",
       "prepared": {
@@ -65433,5 +65435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:37:59.942679+00:00"
+  "updated_at": "2026-11-02T18:40:53.513285+00:00"
 }
