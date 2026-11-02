@@ -279,11 +279,11 @@ Attach subtitles only after target processing has finished.
 | Les Misérables (2012) 1080p CZ Titulky | 30712563 | https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv | Complete: Czech subtitles verified |
 | BlacKkKlansman 1080p CZ Titulky | 30713447 | https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
 | Killers of the Flower Moon 4K CZ Titulky | 30713681 | https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
-| Val 1080p CZ Titulky | 30713783 | https://sdilej.cz/35179337/val-2021-cz-titulky.mp4 | Extract Czech track from exact source after processing |
+| Val 1080p CZ Titulky | 30713783 | https://sdilej.cz/35179337/val-2021-cz-titulky.mp4 | Complete: Czech subtitles verified |
 | Promising Young Woman 720p CZ Titulky | 30714870 | https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv | Extract Czech track from exact source after processing |
 | Sleepers 1080p CZ Titulky | 30716443 | https://sdilej.cz/21679927/spaci-sleepers.1996.bluray.1080p.dts-hd.x264-cz-sk-dabing.mkv | Complete: Czech subtitles verified |
 | Erin Brockovich 1080p CZ Titulky | 30715404 | https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv | Extract Czech track from exact source after processing |
-| Upgrade 1080p CZ Titulky | 30715573 | https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv | Extract Czech track from exact source after processing |
+| Upgrade 1080p CZ Titulky | 30715573 | https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv | Complete: Czech subtitles verified |
 | Falling Down 1080p CZ Titulky | 30717138 | https://sdilej.cz/23077616/volny-pad-1993-fhd-1080p--cz-pl-pl-eng-eng-true-hd-.mkv | Complete: Czech subtitles verified |
 | The Abyss 4K CZ Titulky | 30717125 | https://sdilej.cz/26562713/the-abyss-director-s-cut-1989-2160p-cz-sub.mkv | Complete: Czech subtitles verified |
 | King Richard SD | 30720567 | https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4 | Find and add matching Czech subtitles after processing |
