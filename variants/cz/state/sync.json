@@ -36752,17 +36752,19 @@
       "attempts": []
     },
     "20084": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6467441",
+          "target_video_id": "30743830",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:42:42.653767+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6467441",
         "display_name": "McFarland, USA SD CZ Dabing",
         "planned_at": "2026-11-02T22:39:13.191269+00:00"
-      },
-      "claim": {
-        "worker_id": "abb3a7f258aa43b5bbe9024ea1e428f5-shard-0",
-        "claimed_at": "2026-11-02T22:39:13.308412+00:00",
-        "lease_expires_at": "2026-11-03T04:39:13.308412+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743830",
       "prepared": {
@@ -68496,5 +68498,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:39:56.432448+00:00"
+  "updated_at": "2026-11-02T22:42:42.653789+00:00"
 }
