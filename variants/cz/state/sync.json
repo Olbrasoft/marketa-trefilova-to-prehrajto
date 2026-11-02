@@ -12329,7 +12329,7 @@
       "last_plan": {
         "source_id": "32043793",
         "display_name": "American Gangster 4K CZ Dabing",
-        "planned_at": "2026-11-02T15:59:40.030449+00:00"
+        "planned_at": "2026-11-02T16:32:52.292635+00:00"
       },
       "previous_target_id": "30647758",
       "prepared": {
@@ -12337,6 +12337,12 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-10-30T23:09:05.633345+00:00",
         "relay_source_id": "32043793"
+      },
+      "claim": {
+        "worker_id": "d6b9178929844c98a4833e27ddeb9e76-shard-0",
+        "claimed_at": "2026-11-02T16:32:52.623047+00:00",
+        "lease_expires_at": "2026-11-02T22:32:52.623047+00:00",
+        "run_id": "41471188833"
       }
     },
     "11516": {
@@ -33295,17 +33301,19 @@
       }
     },
     "1224": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "19713445",
+          "reason": "Request failed for https://sdilej.cz/19713445/nez-jsem-te-poznala.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T16:32:52.929287+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19713445",
         "display_name": "Me Before You 1080p CZ Dabing",
         "planned_at": "2026-11-02T16:32:06.323225+00:00"
-      },
-      "claim": {
-        "worker_id": "500a9b788fcb4fd0b14b97e63e277e16-shard-0",
-        "claimed_at": "2026-11-02T16:32:06.657583+00:00",
-        "lease_expires_at": "2026-11-02T22:32:06.657583+00:00",
-        "run_id": "41471188833"
       }
     },
     "1214": {
@@ -33313,7 +33321,7 @@
       "last_plan": {
         "source_id": "16384318",
         "display_name": "Nocturnal Animals 1080p CZ Dabing",
-        "planned_at": "2026-11-02T16:32:48.161738+00:00"
+        "planned_at": "2026-11-02T16:32:52.428179+00:00"
       }
     },
     "1231": {
@@ -64137,5 +64145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:32:49.581208+00:00"
+  "updated_at": "2026-11-02T16:32:52.929305+00:00"
 }
