@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-02T06:01:00.636045+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-02T07:15:44.506876+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-02T07:50:45.859890+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-02T08:25:02.161670+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-02T07:50:47.190668+00:00"
+        "planned_at": "2026-11-02T08:25:00.948117+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "fd4c6379c5d8461db2d778d1a50a46e3-shard-0",
+        "claimed_at": "2026-11-02T08:25:01.199189+00:00",
+        "lease_expires_at": "2026-11-02T14:25:01.199189+00:00",
+        "run_id": "41401248142"
       }
     },
     "52": {
@@ -28990,7 +28996,7 @@
       "last_plan": {
         "source_id": "34849021",
         "display_name": "A Perfect World 1080p CZ Dabing",
-        "planned_at": "2026-11-02T08:24:59.416806+00:00"
+        "planned_at": "2026-11-02T08:25:01.039187+00:00"
       }
     },
     "19528": {
@@ -58263,5 +58269,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:24:59.416823+00:00"
+  "updated_at": "2026-11-02T08:25:02.161689+00:00"
 }
