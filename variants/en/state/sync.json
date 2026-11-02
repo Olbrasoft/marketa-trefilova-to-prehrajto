@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "7bfe73b0860b400b8f8b4171d5d2f2c5-shard-0",
+        "claimed_at": "2026-11-02T15:26:36.128420+00:00",
+        "lease_expires_at": "2026-11-02T21:26:36.128420+00:00",
+        "run_id": "41436275458"
       }
     },
     "21690": {
@@ -13687,13 +13693,6 @@
           "source_id": "31188853",
           "target_video_id": "30710776",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:49:35.152021+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31188853",
-          "target_video_id": "30710776",
-          "permanent": false,
           "attempted_at": "2026-11-02T14:20:41.607066+00:00"
         },
         {
@@ -13702,12 +13701,19 @@
           "target_video_id": "30710776",
           "permanent": false,
           "attempted_at": "2026-11-02T14:53:13.862134+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31188853",
+          "target_video_id": "30710776",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:26:37.883103+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31188853",
         "display_name": "Sinners 4K CZ Titulky",
-        "planned_at": "2026-11-02T14:53:12.498476+00:00"
+        "planned_at": "2026-11-02T15:26:36.336509+00:00"
       },
       "previous_target_id": "30710776",
       "prepared": {
@@ -46350,5 +46356,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:26:34.707841+00:00"
+  "updated_at": "2026-11-02T15:26:37.883120+00:00"
 }
