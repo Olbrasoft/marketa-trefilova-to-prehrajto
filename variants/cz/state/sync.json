@@ -10837,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "a632c5f12fba46e4bd8f7b366150490e-shard-0",
+        "claimed_at": "2026-11-02T15:27:34.319902+00:00",
+        "lease_expires_at": "2026-11-02T21:27:34.319902+00:00",
+        "run_id": "41436275458"
       }
     },
     "21748": {
@@ -32554,17 +32560,23 @@
           "attempted_at": "2026-11-02T14:54:25.507562+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34846875",
-        "display_name": "Looper 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:29:44.343674+00:00"
-      },
       "previous_target_id": "30733923",
-      "prepared": {
+      "upload": {
         "target_video_id": "30733923",
-        "size_bytes": 11754257810,
-        "prepared_at": "2026-11-02T14:29:48.462668+00:00",
-        "relay_source_id": "34846875"
+        "display_name": "Looper 4K CZ Dabing",
+        "source_id": "34846875",
+        "source_url": "https://sdilej.cz/34846875/looper-najemny-zabijak-2012-cz-dabing-2160p-uhd.mkv",
+        "source_filename": "Looper - Nájemný zabiják 2012 CZ dabing 2160p UHD.mkv",
+        "size_bytes": 11800000000,
+        "width": 3840,
+        "height": 1606,
+        "audio_language": "cs",
+        "language_probability": 0.9424830675125122,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/looper-4k-cz-dabing-mkv/c5a7cbd690a1d617",
+        "uploaded_at": "2026-11-02T15:27:35.459312+00:00"
       }
     },
     "1172": {
@@ -32909,7 +32921,7 @@
       "last_plan": {
         "source_id": "14020496",
         "display_name": "The Nice Guys 1080p CZ Dabing",
-        "planned_at": "2026-11-02T15:27:32.701074+00:00"
+        "planned_at": "2026-11-02T15:27:34.472772+00:00"
       }
     },
     "11735": {
@@ -63526,5 +63538,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:27:32.701090+00:00"
+  "updated_at": "2026-11-02T15:27:35.459325+00:00"
 }
