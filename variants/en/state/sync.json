@@ -14166,13 +14166,6 @@
           "source_id": "12991788",
           "target_video_id": "30715573",
           "permanent": false,
-          "attempted_at": "2026-11-02T10:03:07.769457+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12991788",
-          "target_video_id": "30715573",
-          "permanent": false,
           "attempted_at": "2026-11-02T10:34:32.632158+00:00"
         },
         {
@@ -14181,6 +14174,13 @@
           "target_video_id": "30715573",
           "permanent": false,
           "attempted_at": "2026-11-02T11:05:47.526247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12991788",
+          "target_video_id": "30715573",
+          "permanent": false,
+          "attempted_at": "2026-11-02T11:43:35.621697+00:00"
         }
       ],
       "last_plan": {
@@ -14194,12 +14194,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-02T03:48:54.760013+00:00",
         "relay_source_id": "12991788"
-      },
-      "claim": {
-        "worker_id": "2da5bd1a0867429f8af861c2ebf8783f-shard-0",
-        "claimed_at": "2026-11-02T11:43:33.767602+00:00",
-        "lease_expires_at": "2026-11-02T17:43:33.767602+00:00",
-        "run_id": "41436275458"
       }
     },
     "17824": {
@@ -14339,7 +14333,7 @@
       "last_plan": {
         "source_id": "18887803",
         "display_name": "King Richard SD",
-        "planned_at": "2026-11-02T11:05:49.058795+00:00"
+        "planned_at": "2026-11-02T11:43:35.297301+00:00"
       },
       "previous_target_id": "30720567",
       "prepared": {
@@ -14347,6 +14341,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-02T07:13:44.274948+00:00",
         "relay_source_id": "18887803"
+      },
+      "claim": {
+        "worker_id": "8beb460431dd49c5aeea208fec50853b-shard-0",
+        "claimed_at": "2026-11-02T11:43:35.413638+00:00",
+        "lease_expires_at": "2026-11-02T17:43:35.413638+00:00",
+        "run_id": "41436275458"
       }
     },
     "24845": {
@@ -14828,7 +14828,7 @@
       "last_plan": {
         "source_id": "20536962",
         "display_name": "Drive My Car (Doraibu mai kâ) 1080p CZ Titulky",
-        "planned_at": "2026-11-02T11:43:33.727378+00:00"
+        "planned_at": "2026-11-02T11:43:35.373440+00:00"
       }
     },
     "920": {
@@ -45112,5 +45112,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:43:33.863079+00:00"
+  "updated_at": "2026-11-02T11:43:35.621714+00:00"
 }
