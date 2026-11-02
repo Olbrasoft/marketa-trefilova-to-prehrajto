@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T04:59:42.206789+00:00
+Poslední aktualizace (UTC): 2026-11-02T04:59:45.580656+00:00
 
 Zkontrolováno videí: 281. Další stránka kontroly: 0.
 
@@ -79,7 +79,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvod
 | [Hunt for the Wilderpeople 1080p CZ Titulky](https://prehraj.to/hunt-for-the-wilderpeople-1080p-cz-titulky-mkv/2287f76a76043fa0) (ID 30709933) | [Sdílej 23193408](https://sdilej.cz/23193408/hon.na.pracloveky.2016.1080p.hd.cz.mkv) | target_unavailable | 2026-11-02T04:18:40.875923+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-02T04:59:42.206602+00:00 |
 | [Killers of the Flower Moon 4K CZ Titulky](https://prehraj.to/killers-of-the-flower-moon-4k-cz-titulky-mkv/d87a6252c4f3a3e2) (ID 30713681) | [Sdílej 27446866](https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-02T04:27:42.964828+00:00 |
-| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T03:48:49.625438+00:00 |
+| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T04:59:45.580593+00:00 |
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T04:18:50.921936+00:00 |
 | [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T04:18:54.249220+00:00 |
 | [Nightcrawler 1080p CZ Titulky](https://prehraj.to/nightcrawler-1080p-cz-titulky-mkv/e990a68c9d3b618a) (ID 30705872) | [Sdílej 35011160](https://sdilej.cz/35011160/nightcrawler-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T03:57:23.920761+00:00 |
