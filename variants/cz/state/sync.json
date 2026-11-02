@@ -21530,13 +21530,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-02T14:54:55.718615+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-02T15:28:17.048162+00:00"
         },
         {
@@ -21545,6 +21538,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-02T16:00:01.219737+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-02T16:33:14.074684+00:00"
         }
       ],
       "last_plan": {
@@ -21558,12 +21558,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
-      },
-      "claim": {
-        "worker_id": "6c812e08ac3846bea4f49197b47bdf53-shard-0",
-        "claimed_at": "2026-11-02T16:33:11.384015+00:00",
-        "lease_expires_at": "2026-11-02T22:33:11.384015+00:00",
-        "run_id": "41471188833"
       }
     },
     "677": {
@@ -27221,7 +27215,7 @@
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
-        "planned_at": "2026-11-02T16:00:02.533718+00:00"
+        "planned_at": "2026-11-02T16:33:13.597330+00:00"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -27229,6 +27223,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
+      },
+      "claim": {
+        "worker_id": "574a0e6b1a2b43f5b4e7b5021b333a1d-shard-0",
+        "claimed_at": "2026-11-02T16:33:13.910705+00:00",
+        "lease_expires_at": "2026-11-02T22:33:13.910705+00:00",
+        "run_id": "41471188833"
       }
     },
     "12333": {
@@ -33321,7 +33321,7 @@
       "last_plan": {
         "source_id": "16384318",
         "display_name": "Nocturnal Animals 1080p CZ Dabing",
-        "planned_at": "2026-11-02T16:33:11.198629+00:00"
+        "planned_at": "2026-11-02T16:33:13.723879+00:00"
       }
     },
     "1231": {
@@ -64145,5 +64145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:33:12.268937+00:00"
+  "updated_at": "2026-11-02T16:33:14.074700+00:00"
 }
