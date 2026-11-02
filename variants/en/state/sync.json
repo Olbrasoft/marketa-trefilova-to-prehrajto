@@ -15940,17 +15940,19 @@
       "attempts": []
     },
     "23871": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34431723",
+          "target_video_id": "30742820",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:49:00.258792+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34431723",
         "display_name": "Songs from the Second Floor 1080p CZ Titulky",
         "planned_at": "2026-11-02T21:38:08.901289+00:00"
-      },
-      "claim": {
-        "worker_id": "3e7027c8210843d69310b8bf3857b101-shard-0",
-        "claimed_at": "2026-11-02T21:38:08.935357+00:00",
-        "lease_expires_at": "2026-11-03T03:38:08.935357+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742820",
       "prepared": {
@@ -48223,5 +48225,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:48:57.426762+00:00"
+  "updated_at": "2026-11-02T21:49:00.258815+00:00"
 }
