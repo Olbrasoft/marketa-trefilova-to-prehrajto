@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:57:50.026743+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:57:53.696564+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 215, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 27, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 216, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 26, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -90,7 +90,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | [The Guilty (Den skyldige) (2018) 1080p CZ Titulky](https://prehraj.to/the-guilty-den-skyldige-2018-1080p-cz-titulky-mkv/5f88cd31cdce9aa4) (ID 30731596) | [Sdílej 22087227](https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv) | target_unavailable | 2026-11-02T12:53:14.606891+00:00 |
 | [The Invite 4K CZ Titulky](https://prehraj.to/the-invite-4k-cz-titulky-mkv/e2d629aa23d3e528) (ID 30735713) | [Sdílej 34864644](https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv) | target_unavailable | 2026-11-02T15:55:17.378400+00:00 |
 | [The Iron Claw 1080p CZ Titulky](https://prehraj.to/the-iron-claw-1080p-cz-titulky-mkv/6d54406b8e3b80a9) (ID 30722014) | [Sdílej 29179076](https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv) | target_unavailable | 2026-11-02T08:44:40.536617+00:00 |
-| [The Life of David Gale 1080p CZ Titulky](https://prehraj.to/the-life-of-david-gale-1080p-cz-titulky-mkv/5e6beaa71c804877) (ID 30721346) | [Sdílej 24966073](https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv) | target_unavailable | 2026-11-02T07:54:17.264636+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T16:16:39.725584+00:00 |
 | [The Tenant (1976) 1080p CZ Titulky](https://prehraj.to/the-tenant-1976-1080p-cz-titulky-mkv/b0018beec69c3105) (ID 30735788) | [Sdílej 35056653](https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv) | target_unavailable | 2026-11-02T16:05:21.849561+00:00 |
 | [The Warriors 1080p CZ Titulky](https://prehraj.to/the-warriors-1080p-cz-titulky-mkv/33adb011640ee3a7) (ID 30722061) | [Sdílej 13765482](https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv) | target_unavailable | 2026-11-02T08:44:44.064851+00:00 |
