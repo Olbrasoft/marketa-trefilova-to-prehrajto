@@ -15969,17 +15969,19 @@
       "attempts": []
     },
     "21775": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33595691",
+          "target_video_id": "30742933",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:52:50.117855+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33595691",
         "display_name": "The Spy Who Came in from the Cold 1080p CZ Titulky",
         "planned_at": "2026-11-02T21:45:14.917484+00:00"
-      },
-      "claim": {
-        "worker_id": "09794455383047ad990eff42e4480e03-shard-0",
-        "claimed_at": "2026-11-02T21:45:14.947387+00:00",
-        "lease_expires_at": "2026-11-03T03:45:14.947387+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742933",
       "prepared": {
@@ -48232,5 +48234,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:49:35.355935+00:00"
+  "updated_at": "2026-11-02T21:52:50.117883+00:00"
 }
