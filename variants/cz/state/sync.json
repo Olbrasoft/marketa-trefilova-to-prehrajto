@@ -29315,7 +29315,20 @@
       }
     },
     "13890": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27932233",
+          "reason": "Source detail has no authenticated download link; source_id=27932233",
+          "permanent": false,
+          "attempted_at": "2026-11-02T09:01:59.809793+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "27932233",
+        "display_name": "Hunger (2008) SD CZ Dabing",
+        "planned_at": "2026-11-02T09:01:57.032826+00:00"
+      }
     },
     "24440": {
       "attempts": []
@@ -58815,5 +58828,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T09:01:55.363540+00:00"
+  "updated_at": "2026-11-02T09:01:59.809814+00:00"
 }
