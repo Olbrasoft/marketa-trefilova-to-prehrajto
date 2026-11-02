@@ -28083,17 +28083,19 @@
       }
     },
     "1055": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24127771",
+          "target_video_id": "30717684",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:36:21.329828+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24127771",
         "display_name": "The Book Thief 1080p CZ Dabing",
         "planned_at": "2026-11-02T05:31:17.528108+00:00"
-      },
-      "claim": {
-        "worker_id": "82b7fa2744014ef98db08d7f435d9ad3-shard-0",
-        "claimed_at": "2026-11-02T05:31:17.685597+00:00",
-        "lease_expires_at": "2026-11-02T11:31:17.685597+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30717684",
       "prepared": {
@@ -28141,7 +28143,18 @@
       }
     },
     "840": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "14308852",
+        "display_name": "Leaving Las Vegas 720p CZ Dabing",
+        "planned_at": "2026-11-02T05:35:36.333155+00:00"
+      },
+      "claim": {
+        "worker_id": "707cfdaf4ba1434e9442c48bf640193e-shard-0",
+        "claimed_at": "2026-11-02T05:35:36.497991+00:00",
+        "lease_expires_at": "2026-11-02T11:35:36.497991+00:00",
+        "run_id": "41372098637"
+      }
     },
     "12438": {
       "attempts": []
@@ -57008,5 +57021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:35:31.543314+00:00"
+  "updated_at": "2026-11-02T05:36:21.329844+00:00"
 }
