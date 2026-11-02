@@ -32092,17 +32092,19 @@
       }
     },
     "21826": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29297028",
+          "target_video_id": "30732946",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:26:28.577371+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29297028",
         "display_name": "The Sand Pebbles 1080p CZ Dabing",
         "planned_at": "2026-11-02T13:44:51.843439+00:00"
-      },
-      "claim": {
-        "worker_id": "248ba6ff9aa34a1ebea8278074bc2f39-shard-0",
-        "claimed_at": "2026-11-02T13:44:51.967215+00:00",
-        "lease_expires_at": "2026-11-02T19:44:51.967215+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30732946",
       "prepared": {
@@ -62857,5 +62859,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:25:40.489181+00:00"
+  "updated_at": "2026-11-02T14:26:28.577385+00:00"
 }
