@@ -35846,17 +35846,19 @@
       }
     },
     "22099": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34796291",
+          "target_video_id": "30742654",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:33:10.310161+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34796291",
         "display_name": "High Plains Drifter 1080p CZ Dabing",
         "planned_at": "2026-11-02T21:28:29.813994+00:00"
-      },
-      "claim": {
-        "worker_id": "9452cfa192d04d58aefeab59a39a0b60-shard-0",
-        "claimed_at": "2026-11-02T21:28:29.918094+00:00",
-        "lease_expires_at": "2026-11-03T03:28:29.918094+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742654",
       "prepared": {
@@ -67487,5 +67489,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:31:55.555544+00:00"
+  "updated_at": "2026-11-02T21:33:10.310183+00:00"
 }
