@@ -33117,17 +33117,19 @@
       }
     },
     "1150": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22212331",
+          "target_video_id": "30735718",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:58:30.295381+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22212331",
         "display_name": "Up in the Air SD CZ Dabing",
         "planned_at": "2026-11-02T15:55:14.551848+00:00"
-      },
-      "claim": {
-        "worker_id": "9e586ddfa8ee44898f6a43b0b1995e6c-shard-0",
-        "claimed_at": "2026-11-02T15:55:14.994847+00:00",
-        "lease_expires_at": "2026-11-02T21:55:14.994847+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30735718",
       "prepared": {
@@ -63737,5 +63739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:58:28.917804+00:00"
+  "updated_at": "2026-11-02T15:58:30.295397+00:00"
 }
