@@ -32173,17 +32173,19 @@
       }
     },
     "713": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29493661",
+          "target_video_id": "30733128",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:02:31.196284+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29493661",
         "display_name": "Volhynia (Wołyń) 1080p CZ Dabing",
         "planned_at": "2026-11-02T13:55:29.274826+00:00"
-      },
-      "claim": {
-        "worker_id": "dc6560aa3a3d450cbdbb9da491bf2855-shard-0",
-        "claimed_at": "2026-11-02T13:55:29.401779+00:00",
-        "lease_expires_at": "2026-11-02T19:55:29.401779+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30733128",
       "prepared": {
@@ -62423,5 +62425,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:01:22.551216+00:00"
+  "updated_at": "2026-11-02T14:02:31.196301+00:00"
 }
