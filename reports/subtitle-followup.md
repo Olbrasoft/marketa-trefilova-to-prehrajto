@@ -300,3 +300,4 @@ Attach subtitles only after target processing has finished.
 | No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky | 30728908 | https://sdilej.cz/32616287/neni-jina-moznost-2025-komedie-thriller-ko-eac3-2.0-titulky-cz-en-h265-1080p.mkv | Extract Czech track from exact source after processing |
 | The Guilty (Den skyldige) (2018) 1080p CZ Titulky | 30731596 | https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv | Extract Czech track from exact source after processing |
 | Victoria 1080p CZ Titulky | 30731842 | https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Chaplin 1080p CZ Titulky | 30732524 | https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv | Extract Czech track from exact source after processing |
