@@ -34019,10 +34019,28 @@
         "claimed_at": "2026-11-02T18:23:05.123404+00:00",
         "lease_expires_at": "2026-11-03T00:23:05.123404+00:00",
         "run_id": "41471188833"
+      },
+      "previous_target_id": "30739021",
+      "prepared": {
+        "target_video_id": "30739021",
+        "size_bytes": 3368101912,
+        "prepared_at": "2026-11-02T18:23:09.905364+00:00",
+        "relay_source_id": "20341662"
       }
     },
     "1257": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "22330958",
+        "display_name": "Rec ([REC]) 1080p CZ Dabing",
+        "planned_at": "2026-11-02T18:23:07.485020+00:00"
+      },
+      "claim": {
+        "worker_id": "e37f9baa80ec4d118c9544df984414f3-shard-0",
+        "claimed_at": "2026-11-02T18:23:07.712171+00:00",
+        "lease_expires_at": "2026-11-03T00:23:07.712171+00:00",
+        "run_id": "41471188833"
+      }
     },
     "23087": {
       "attempts": []
@@ -65001,5 +65019,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:23:06.127457+00:00"
+  "updated_at": "2026-11-02T18:23:09.905384+00:00"
 }
