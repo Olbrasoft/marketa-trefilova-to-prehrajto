@@ -33644,17 +33644,19 @@
       }
     },
     "1159": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29122992",
+          "target_video_id": "30737810",
+          "permanent": false,
+          "attempted_at": "2026-11-02T17:31:44.183414+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29122992",
         "display_name": "The Talented Mr. Ripley 1080p CZ Dabing",
         "planned_at": "2026-11-02T17:27:07.999809+00:00"
-      },
-      "claim": {
-        "worker_id": "174a720d8c2c419794cd2fde16986d27-shard-0",
-        "claimed_at": "2026-11-02T17:27:08.193762+00:00",
-        "lease_expires_at": "2026-11-02T23:27:08.193762+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30737810",
       "prepared": {
@@ -64692,5 +64694,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T17:27:12.521079+00:00"
+  "updated_at": "2026-11-02T17:31:44.183430+00:00"
 }
