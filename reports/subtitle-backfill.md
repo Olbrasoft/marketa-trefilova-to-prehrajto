@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:56:45.556589+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:56:49.186585+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 206, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 36, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 207, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 35, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -65,7 +65,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-02T16:15:22.177830+00:00 |
-| [Awakenings 1080p CZ Titulky](https://prehraj.to/awakenings-1080p-cz-titulky-mkv/782ece4b2bb318f6) (ID 30708294) | [Sdílej 35402008](https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-02T07:00:10.836236+00:00 |
 | [BlacKkKlansman 1080p CZ Titulky](https://prehraj.to/blackkklansman-1080p-cz-titulky-mkv/55432ccf5b5a0aa2) (ID 30713447) | [Sdílej 11006824](https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-02T07:00:34.253068+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T16:16:36.177586+00:00 |
 | [Chaplin 1080p CZ Titulky](https://prehraj.to/chaplin-1080p-cz-titulky-mkv/e9d5387686fa032e) (ID 30732524) | [Sdílej 14793770](https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv) | target_unavailable | 2026-11-02T13:33:38.650196+00:00 |
