@@ -37032,17 +37032,19 @@
       }
     },
     "21768": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29317573",
+          "target_video_id": "30744273",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:07:01.287192+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29317573",
         "display_name": "Pierrot le Fou 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:00:35.180582+00:00"
-      },
-      "claim": {
-        "worker_id": "ed4910be6a6948e280f2d28819acc79e-shard-0",
-        "claimed_at": "2026-11-02T23:00:35.299693+00:00",
-        "lease_expires_at": "2026-11-03T05:00:35.299693+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744273",
       "prepared": {
@@ -68847,5 +68849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:05:31.494089+00:00"
+  "updated_at": "2026-11-02T23:07:01.287212+00:00"
 }
