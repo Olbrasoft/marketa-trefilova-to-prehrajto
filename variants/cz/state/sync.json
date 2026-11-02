@@ -27317,17 +27317,19 @@
       }
     },
     "864": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28358406",
+          "target_video_id": "30715203",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:35:22.479071+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28358406",
         "display_name": "The Crow (1994) 1080p CZ Dabing",
         "planned_at": "2026-11-02T03:30:31.927189+00:00"
-      },
-      "claim": {
-        "worker_id": "f2dc6518cd8e4325a2b0ce6ca940d8d0-shard-0",
-        "claimed_at": "2026-11-02T03:30:32.088220+00:00",
-        "lease_expires_at": "2026-11-02T09:30:32.088220+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30715203",
       "prepared": {
@@ -55822,5 +55824,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:32:23.036583+00:00"
+  "updated_at": "2026-11-02T03:35:22.479088+00:00"
 }
