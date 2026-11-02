@@ -27225,17 +27225,19 @@
       }
     },
     "941": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33493834",
+          "target_video_id": "30714996",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:25:45.371021+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33493834",
         "display_name": "Stranger than Fiction 4K CZ Dabing",
         "planned_at": "2026-11-02T03:18:38.360128+00:00"
-      },
-      "claim": {
-        "worker_id": "fc8201bde6cf49d6b268c44b7f36107e-shard-0",
-        "claimed_at": "2026-11-02T03:18:38.530613+00:00",
-        "lease_expires_at": "2026-11-02T09:18:38.530613+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30714996",
       "prepared": {
@@ -55483,5 +55485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:25:28.056458+00:00"
+  "updated_at": "2026-11-02T03:25:45.371039+00:00"
 }
