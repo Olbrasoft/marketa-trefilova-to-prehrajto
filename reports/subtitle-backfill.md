@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:36:21.255023+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:36:24.548255+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 155, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 156, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -127,7 +127,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 56. Důvo
 | [The Station Agent 1080p CZ Titulky](https://prehraj.to/the-station-agent-1080p-cz-titulky-mkv/f72fed889a36f009) (ID 30699097) | [Sdílej 33555723](https://sdilej.cz/33555723/the-station-agent-2003-1080p-web-dl-x265-10bit-aac-5.1-afm72-.mkv) | target_unavailable | 2026-11-01T15:37:17.321788+00:00 |
 | [The Two Popes 1080p CZ Titulky](https://prehraj.to/the-two-popes-1080p-cz-titulky-mkv/3e4b35000c7cd39a) (ID 30693196) | [Sdílej 12801217](https://sdilej.cz/12801217/the.two.popes.2019.internal.1080p.web.x264-amrap.mkv) | target_unavailable | 2026-11-01T11:00:25.402917+00:00 |
 | [The Unknown Soldier (Tuntematon sotilas) 1080p CZ Titulky](https://prehraj.to/the-unknown-soldier-tuntematon-sotilas-1080p-cz-titulky-mkv/b8ed3a198a9ae99e) (ID 30699780) | [Sdílej 9356262](https://sdilej.cz/9356262/neznamy-vojak-tuntematon-sotilas-2017-titulky.cz-1080p-hd.mkv) | target_unavailable | 2026-11-01T16:08:01.629402+00:00 |
-| [The Whale 1080p CZ Titulky](https://prehraj.to/the-whale-1080p-cz-titulky-mkv/a54c07509185b1d4) (ID 30685795) | [Sdílej 25373993](https://sdilej.cz/25373993/velryba-the-whale-2022-1080p-cz-titulky.mkv) | target_unavailable | 2026-11-01T06:52:18.314948+00:00 |
 | [Three Identical Strangers 1080p CZ Titulky](https://prehraj.to/three-identical-strangers-1080p-cz-titulky-mkv/88de642f79fc8783) (ID 30703041) | [Sdílej 11774276](https://sdilej.cz/11774276/three-identical-strangers-2018-cz-titulky-bluray-1080p-h264-.mkv) | target_unavailable | 2026-11-01T18:20:18.980398+00:00 |
 | [Transformers One 1080p CZ Titulky](https://prehraj.to/transformers-one-1080p-cz-titulky-mkv/345a1660f129696a) (ID 30699593) | [Sdílej 30039022](https://sdilej.cz/30039022/transformers.one.web-dl.en.5.1.titulky.cz.2024.1080p.mkv) | target_unavailable | 2026-11-01T15:57:48.808936+00:00 |
 | [Val 1080p CZ Titulky](https://prehraj.to/val-1080p-cz-titulky-mp4/8968bbc5a9668d0a) (ID 30713783) | [Sdílej 35179337](https://sdilej.cz/35179337/val-2021-cz-titulky.mp4) | target_unavailable | 2026-11-02T02:36:21.254939+00:00 |
