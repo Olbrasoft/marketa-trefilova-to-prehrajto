@@ -34016,17 +34016,19 @@
       }
     },
     "1249": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20341662",
+          "target_video_id": "30739021",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:30:31.176659+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20341662",
         "display_name": "The Judge 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:23:04.922763+00:00"
-      },
-      "claim": {
-        "worker_id": "604ee0448305427f9681b2a801356c36-shard-0",
-        "claimed_at": "2026-11-02T18:23:05.123404+00:00",
-        "lease_expires_at": "2026-11-03T00:23:05.123404+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30739021",
       "prepared": {
@@ -65341,5 +65343,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:29:55.907204+00:00"
+  "updated_at": "2026-11-02T18:30:31.176677+00:00"
 }
