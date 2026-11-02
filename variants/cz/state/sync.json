@@ -38010,17 +38010,19 @@
       "attempts": []
     },
     "27321": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11183496",
+          "target_video_id": "30745272",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:56:31.214784+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11183496",
         "display_name": "Restrepo SD CZ Dabing",
         "planned_at": "2026-11-02T23:55:04.873185+00:00"
-      },
-      "claim": {
-        "worker_id": "d9de696be3f74c5a8af96008eee38ffc-shard-0",
-        "claimed_at": "2026-11-02T23:55:04.984393+00:00",
-        "lease_expires_at": "2026-11-03T05:55:04.984393+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30745272",
       "prepared": {
@@ -69703,5 +69705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:55:08.335404+00:00"
+  "updated_at": "2026-11-02T23:56:31.214806+00:00"
 }
