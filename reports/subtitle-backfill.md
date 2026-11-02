@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T17:37:49.140310+00:00
+Poslední aktualizace (UTC): 2026-11-02T17:37:58.338884+00:00
 
 Zkontrolováno videí: 302. Další stránka kontroly: 0.
 
@@ -82,7 +82,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 14. Důvod
 | [The Book Thief 1080p CZ Titulky](https://prehraj.to/the-book-thief-1080p-cz-titulky-mp4-marco/869ce63af8f39b12) (ID 30720612) | [Sdílej 27726753](https://sdilej.cz/27726753/zlodejka-knih-1080p-hd-.mp4) | target_unavailable | 2026-11-02T16:57:29.988976+00:00 |
 | [The Fabelmans 1080p CZ Titulky](https://prehraj.to/the-fabelmans-1080p-cz-titulky-mkv/0db4eeec0e851b9d) (ID 30721132) | [Sdílej 25866863](https://sdilej.cz/25866863/fabelmanovi.mkv) | target_unavailable | 2026-11-02T16:57:50.026662+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-02T16:56:33.786765+00:00 |
-| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T16:16:57.154060+00:00 |
+| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T17:37:58.338829+00:00 |
 | [The Guilty (Den skyldige) (2018) 1080p CZ Titulky](https://prehraj.to/the-guilty-den-skyldige-2018-1080p-cz-titulky-mkv/5f88cd31cdce9aa4) (ID 30731596) | [Sdílej 22087227](https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv) | target_unavailable | 2026-11-02T17:06:15.780751+00:00 |
 | [The Invite 4K CZ Titulky](https://prehraj.to/the-invite-4k-cz-titulky-mkv/e2d629aa23d3e528) (ID 30735713) | [Sdílej 34864644](https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv) | target_unavailable | 2026-11-02T17:06:27.665868+00:00 |
 | [The Iron Claw 1080p CZ Titulky](https://prehraj.to/the-iron-claw-1080p-cz-titulky-mkv/6d54406b8e3b80a9) (ID 30722014) | [Sdílej 29179076](https://sdilej.cz/29179076/the.iron.claw.2023.1080p.bluray.ddp5.1.x265.10bit-leon.-en-subs-cz-en-.mkv) | target_unavailable | 2026-11-02T16:57:57.676742+00:00 |
