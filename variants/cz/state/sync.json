@@ -17285,13 +17285,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-02T00:04:45.458120+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-02T00:41:28.412315+00:00"
         },
         {
@@ -17300,6 +17293,13 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-02T01:17:56.262750+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:56:24.496046+00:00"
         }
       ],
       "last_plan": {
@@ -17313,12 +17313,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
-      },
-      "claim": {
-        "worker_id": "c4609bad988f4e9e98c836983489b460-shard-0",
-        "claimed_at": "2026-11-02T01:56:22.565766+00:00",
-        "lease_expires_at": "2026-11-02T07:56:22.565766+00:00",
-        "run_id": "41351617669"
       }
     },
     "23132": {
@@ -18868,7 +18862,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-02T01:17:57.614381+00:00"
+        "planned_at": "2026-11-02T01:56:24.149211+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18876,6 +18870,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "761fb7c93c9347c1b5fde7ab2c8fa675-shard-0",
+        "claimed_at": "2026-11-02T01:56:24.341186+00:00",
+        "lease_expires_at": "2026-11-02T07:56:24.341186+00:00",
+        "run_id": "41351617669"
       }
     },
     "29695": {
@@ -26655,7 +26655,7 @@
       "last_plan": {
         "source_id": "32953356",
         "display_name": "Hugo 4K CZ Dabing",
-        "planned_at": "2026-11-02T01:56:22.449713+00:00"
+        "planned_at": "2026-11-02T01:56:24.217403+00:00"
       }
     },
     "10790": {
@@ -54710,5 +54710,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:56:22.813575+00:00"
+  "updated_at": "2026-11-02T01:56:24.496064+00:00"
 }
