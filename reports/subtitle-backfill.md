@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T05:08:00.036536+00:00
+Poslední aktualizace (UTC): 2026-11-02T05:08:03.546306+00:00
 
 Zkontrolováno videí: 283. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 191, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 191, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -71,6 +71,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 2. Důvod
 | [Doctor Strange 1080p CZ Titulky](https://prehraj.to/doctor-strange-1080p-cz-titulky-mkv/6396e1fdac7387be) (ID 30705687) | [Sdílej 35402193](https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-02T05:00:13.805652+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T04:47:54.825475+00:00 |
 | [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T04:18:47.543239+00:00 |
+| [Falling Down 1080p CZ Titulky](https://prehraj.to/falling-down-1080p-cz-titulky-mkv/31bb112259b2fcaa) (ID 30717138) | [Sdílej 23077616](https://sdilej.cz/23077616/volny-pad-1993-fhd-1080p--cz-pl-pl-eng-eng-true-hd-.mkv) | target_unavailable | 2026-11-02T05:08:03.546221+00:00 |
 | [Harry Potter and the Chamber of Secrets 4K CZ Titulky](https://prehraj.to/harry-potter-and-the-chamber-of-secrets-4k-cz-titulky-mkv/04c052d0ff591558) (ID 30706996) | [Sdílej 32925478](https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv) | target_unavailable | 2026-11-02T04:18:27.507073+00:00 |
 | [Hero (2002) 1080p CZ Titulky](https://prehraj.to/hero-2002-1080p-cz-titulky-mkv/cee9beac817762a0) (ID 30705057) | [Sdílej 17206386](https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv) | target_unavailable | 2026-11-02T05:00:00.836378+00:00 |
 | [Hidden Figures 1080p CZ Titulky](https://prehraj.to/hidden-figures-1080p-cz-titulky-mkv/27916ef0f8406632) (ID 30706154) | [Sdílej 34903912](https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T04:18:24.085480+00:00 |
