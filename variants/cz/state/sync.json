@@ -37217,17 +37217,19 @@
       "attempts": []
     },
     "11290": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27532704",
+          "target_video_id": "30744352",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:15:03.232931+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27532704",
         "display_name": "The China Syndrome 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:03:45.644525+00:00"
-      },
-      "claim": {
-        "worker_id": "38ec8da3534a436c89798314ac5386d8-shard-0",
-        "claimed_at": "2026-11-02T23:03:45.772627+00:00",
-        "lease_expires_at": "2026-11-03T05:03:45.772627+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744352",
       "prepared": {
@@ -69185,5 +69187,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:14:21.654485+00:00"
+  "updated_at": "2026-11-02T23:15:03.232955+00:00"
 }
