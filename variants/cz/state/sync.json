@@ -31919,17 +31919,19 @@
       "attempts": []
     },
     "21292": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27051591",
+          "target_video_id": "30732785",
+          "permanent": false,
+          "attempted_at": "2026-11-02T13:40:54.496057+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27051591",
         "display_name": "Hamlet (1948) SD CZ Dabing",
         "planned_at": "2026-11-02T13:33:48.395365+00:00"
-      },
-      "claim": {
-        "worker_id": "65b9932460524e2c859f66a395e5f9de-shard-0",
-        "claimed_at": "2026-11-02T13:33:48.524655+00:00",
-        "lease_expires_at": "2026-11-02T19:33:48.524655+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30732785",
       "prepared": {
@@ -62285,5 +62287,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:40:41.367383+00:00"
+  "updated_at": "2026-11-02T13:40:54.496073+00:00"
 }
