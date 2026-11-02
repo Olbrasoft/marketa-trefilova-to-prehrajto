@@ -230,26 +230,26 @@ Attach subtitles only after target processing has finished.
 | 14 Peaks: Nothing Is Impossible 1080p CZ Titulky | 30675715 | https://sdilej.cz/34982939/14-vrcholu-nic-neni-nemozne-2021-cz-titulky-.mkv | Complete: Czech subtitles verified |
 | Corpus Christi (Boże Ciało) 1080p CZ Titulky | 30676979 | https://sdilej.cz/27515642/corpus.christi.2019.1080p.cz-sk-sub.mkv | Complete: Czech subtitles verified |
 | Despicable Me 4K CZ Titulky | 30680025 | https://sdilej.cz/27530102/ja-padouch-1-2010-2160p.mkv | Complete: Czech subtitles verified |
-| Minority Report 1080p CZ Titulky | 30680415 | https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Fury (2014) 1080p CZ Titulky | 30680601 | https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Watchmen 1080p CZ Titulky | 30680780 | https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
-| Saw (2004) 1080p CZ Titulky | 30681152 | https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv | Extract Czech track from exact source after processing |
+| Minority Report 1080p CZ Titulky | 30680415 | https://sdilej.cz/35402382/minority.report.2002.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
+| Fury (2014) 1080p CZ Titulky | 30680601 | https://sdilej.cz/35402243/fury.2014.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
+| Watchmen 1080p CZ Titulky | 30680780 | https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv | Complete: Czech subtitles verified |
+| Saw (2004) 1080p CZ Titulky | 30681152 | https://sdilej.cz/27106738/saw-hra-o-preziti-2004-cz-cz-fhd-h265-deadinside.mkv | Complete: Czech subtitles verified |
 | One Battle After Another 4K CZ Titulky | 30681595 | https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv | Extract Czech track from exact source after processing |
 | John Wick: Chapter 4 1440p CZ Titulky | 30682158 | https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv | Extract Czech track from exact source after processing |
-| 3:10 to Yuma (2007) 1080p CZ Titulky | 30683719 | https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv | Extract Czech track from exact source after processing |
-| Creed 1080p CZ Titulky | 30683763 | https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv | Extract Czech track from exact source after processing |
+| 3:10 to Yuma (2007) 1080p CZ Titulky | 30683719 | https://sdilej.cz/13380014/3.10-vlak-do-yumy-.2007.1080p.bluray.dts.x264.mkv | Complete: Czech subtitles verified |
+| Creed 1080p CZ Titulky | 30683763 | https://sdilej.cz/30294354/rocky-7-creed-2015-.mkv | Complete: Czech subtitles verified |
 | Mission: Impossible – Dead Reckoning Part One (Mission: Impossible - Dead Reckoning Part One) 4K CZ Titulky | 30684282 | https://sdilej.cz/27023564/mission.impossible.dead.reckoning.part.one-2023-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
-| The Whale 1080p CZ Titulky | 30685795 | https://sdilej.cz/25373993/velryba-the-whale-2022-1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Whale 1080p CZ Titulky | 30685795 | https://sdilej.cz/25373993/velryba-the-whale-2022-1080p-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Stardust 1080p CZ Titulky | 30686497 | https://sdilej.cz/29920789/stardust.2007.1080p.bluray.x265.en-cz.mkv | Complete: Czech subtitles verified |
-| Snow White and the Seven Dwarfs 1080p CZ Titulky | 30688075 | https://sdilej.cz/30770863/snehurka-a-sedm-trpasliku-animovany-1937-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
-| Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky | 30688969 | https://sdilej.cz/35072040/godzilla.minus.one.a.k.a.gojira.-1.0.2023.japanese.1080p.10bit.bluray.8ch.x265.hevc-psa-cztitulky-.mkv | Extract Czech track from exact source after processing |
-| What We Do in the Shadows 1080p CZ Titulky | 30689658 | https://sdilej.cz/13336214/what-we-do-in-the.shadows-en-vlozene-titulky-2014-horror-1080p-pg-.mkv | Extract Czech track from exact source after processing |
-| Rushmore 1080p CZ Titulky | 30690305 | https://sdilej.cz/26981215/rushmore.1998.1080p.bluray.h264.aac.en.cz.mkv | Extract Czech track from exact source after processing |
-| The Last of the Mohicans 4K CZ Titulky | 30690429 | https://sdilej.cz/33753721/the.last.of.the.mohicans.1992.directors.definitive.cut.2160p.hdr.dv.bluray.hevc.10bit.dl.eac3.-265.mkv | Extract Czech track from exact source after processing |
-| Roma (2018) 1080p CZ Titulky | 30691634 | https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv | Extract Czech track from exact source after processing |
-| The Two Popes 1080p CZ Titulky | 30693196 | https://sdilej.cz/12801217/the.two.popes.2019.internal.1080p.web.x264-amrap.mkv | Extract Czech track from exact source after processing |
-| Barton Fink 1080p CZ Titulky | 30693626 | https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
-| West Side Story (1961) 1080p CZ Titulky | 30695040 | https://sdilej.cz/34917405/west.side.story.1961.1080p.bluray.ddp.7.1.x265-edge2020.mkv | Extract Czech track from exact source after processing |
+| Snow White and the Seven Dwarfs 1080p CZ Titulky | 30688075 | https://sdilej.cz/30770863/snehurka-a-sedm-trpasliku-animovany-1937-cz-dab-leg.mkv | Complete: Czech subtitles verified |
+| Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky | 30688969 | https://sdilej.cz/35072040/godzilla.minus.one.a.k.a.gojira.-1.0.2023.japanese.1080p.10bit.bluray.8ch.x265.hevc-psa-cztitulky-.mkv | Complete: Czech subtitles verified |
+| What We Do in the Shadows 1080p CZ Titulky | 30689658 | https://sdilej.cz/13336214/what-we-do-in-the.shadows-en-vlozene-titulky-2014-horror-1080p-pg-.mkv | Complete: Czech subtitles verified |
+| Rushmore 1080p CZ Titulky | 30690305 | https://sdilej.cz/26981215/rushmore.1998.1080p.bluray.h264.aac.en.cz.mkv | Complete: Czech subtitles verified |
+| The Last of the Mohicans 4K CZ Titulky | 30690429 | https://sdilej.cz/33753721/the.last.of.the.mohicans.1992.directors.definitive.cut.2160p.hdr.dv.bluray.hevc.10bit.dl.eac3.-265.mkv | Complete: Czech subtitles verified |
+| Roma (2018) 1080p CZ Titulky | 30691634 | https://sdilej.cz/16152424/roma.2018.1080p.bluray.h264.aac.cz.tit.mkv | Complete: Czech subtitles verified |
+| The Two Popes 1080p CZ Titulky | 30693196 | https://sdilej.cz/12801217/the.two.popes.2019.internal.1080p.web.x264-amrap.mkv | Complete: Czech subtitles verified |
+| Barton Fink 1080p CZ Titulky | 30693626 | https://sdilej.cz/33846511/barton-fink-1991-1080p-en-cz.mkv | Complete: Czech subtitles verified |
+| West Side Story (1961) 1080p CZ Titulky | 30695040 | https://sdilej.cz/34917405/west.side.story.1961.1080p.bluray.ddp.7.1.x265-edge2020.mkv | Complete: Czech subtitles verified |
 | Dark Waters 1080p CZ Titulky | 30695103 | https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv | Extract Czech track from exact source after processing |
 | Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky | 30695912 | https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv | Extract Czech track from exact source after processing |
 | The Social Dilemma 1080p CZ Titulky | 30696907 | https://sdilej.cz/30672538/the-social-dilemma-2020-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
