@@ -280,3 +280,4 @@ Attach subtitles only after target processing has finished.
 | BlacKkKlansman 1080p CZ Titulky | 30713447 | https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
 | Killers of the Flower Moon 4K CZ Titulky | 30713681 | https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Val 1080p CZ Titulky | 30713783 | https://sdilej.cz/35179337/val-2021-cz-titulky.mp4 | Extract Czech track from exact source after processing |
+| Promising Young Woman 720p CZ Titulky | 30714870 | https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv | Extract Czech track from exact source after processing |
