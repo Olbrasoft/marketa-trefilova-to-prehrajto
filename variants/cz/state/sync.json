@@ -27989,7 +27989,20 @@
       }
     },
     "22162": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13041257",
+          "reason": "Request failed for https://sdilej.cz/13041257/robin-hood-1973-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:24:03.145966+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "13041257",
+        "display_name": "Robin Hood (1973) 1080p CZ Dabing",
+        "planned_at": "2026-11-02T05:23:16.955034+00:00"
+      }
     },
     "18713": {
       "attempts": []
@@ -56877,5 +56890,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:20:25.654191+00:00"
+  "updated_at": "2026-11-02T05:24:03.145987+00:00"
 }
