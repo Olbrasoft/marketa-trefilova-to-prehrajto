@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:47:41.585967+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:47:49.505781+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 178, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 43, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 178, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 42, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -103,7 +103,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 37. Důvo
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-02T02:27:42.559312+00:00 |
 | [Straight Outta Compton 1080p CZ Titulky](https://prehraj.to/straight-outta-compton-1080p-cz-titulky-mkv/1da554e9cd740dd2) (ID 30707982) | [Sdílej 5724266](https://sdilej.cz/5724266/straight-outta-compton-2015-cz-tit.mkv) | target_unavailable | 2026-11-01T21:52:38.699663+00:00 |
 | [Tell Me Who I Am 1080p CZ Titulky](https://prehraj.to/tell-me-who-i-am-1080p-cz-titulky-mkv/24e95dd36d8f8365) (ID 30705536) | [Sdílej 33293335](https://sdilej.cz/33293335/tell.me.who.i.am.2019.1080p.nf.web-dl.dd.5.1.x264-ika.mkv) | target_unavailable | 2026-11-01T20:02:09.821562+00:00 |
-| [The Boy Who Harnessed the Wind 1080p CZ Titulky](https://prehraj.to/the-boy-who-harnessed-the-wind-1080p-cz-titulky-mkv/70dbe4ffec87c9ce) (ID 30700677) | [Sdílej 11300206](https://sdilej.cz/11300206/the-boy-who-harnessed-the-wind-2019-1080p.-titul.cz-.mkv) | target_unavailable | 2026-11-01T16:38:43.829037+00:00 |
+| [The Boy Who Harnessed the Wind 1080p CZ Titulky](https://prehraj.to/the-boy-who-harnessed-the-wind-1080p-cz-titulky-mkv/70dbe4ffec87c9ce) (ID 30700677) | [Sdílej 11300206](https://sdilej.cz/11300206/the-boy-who-harnessed-the-wind-2019-1080p.-titul.cz-.mkv) | upload_unconfirmed | 2026-11-02T02:47:49.505741+00:00 |
 | [The Cure (1995) 1080p CZ Titulky](https://prehraj.to/the-cure-1995-1080p-cz-titulky-mkv/f1a6e91d5653e91f) (ID 30703801) | [Sdílej 29771115](https://sdilej.cz/29771115/the-cure-1995-1080p-hdtv-ac3-x264-majo.mkv) | target_unavailable | 2026-11-01T18:50:43.856145+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | target_unavailable | 2026-11-01T20:22:12.165843+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T02:27:38.231626+00:00 |
