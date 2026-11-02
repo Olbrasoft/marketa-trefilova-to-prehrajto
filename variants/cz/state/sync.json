@@ -37565,17 +37565,19 @@
       "attempts": []
     },
     "31639": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34103339",
+          "target_video_id": "30744767",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:35:41.130420+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34103339",
         "display_name": "A Better Tomorrow 4K CZ Dabing",
         "planned_at": "2026-11-02T23:27:11.368405+00:00"
-      },
-      "claim": {
-        "worker_id": "66bf8cbd17e241bab840c54c2e1c40d5-shard-0",
-        "claimed_at": "2026-11-02T23:27:11.504449+00:00",
-        "lease_expires_at": "2026-11-03T05:27:11.504449+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744767",
       "prepared": {
@@ -69433,5 +69435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:35:39.920566+00:00"
+  "updated_at": "2026-11-02T23:35:41.130446+00:00"
 }
