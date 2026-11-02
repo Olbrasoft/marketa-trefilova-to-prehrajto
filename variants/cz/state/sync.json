@@ -31004,17 +31004,19 @@
       "attempts": []
     },
     "26645": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22695560",
+          "target_video_id": "30727511",
+          "permanent": false,
+          "attempted_at": "2026-11-02T11:49:53.474504+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22695560",
         "display_name": "Tyrannosaur SD CZ Dabing",
         "planned_at": "2026-11-02T11:47:26.701242+00:00"
-      },
-      "claim": {
-        "worker_id": "3842a6c1c55949c6b3c20e5cfb4c2ce6-shard-0",
-        "claimed_at": "2026-11-02T11:47:26.818467+00:00",
-        "lease_expires_at": "2026-11-02T17:47:26.818467+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30727511",
       "prepared": {
@@ -60997,5 +60999,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:47:31.371500+00:00"
+  "updated_at": "2026-11-02T11:49:53.474529+00:00"
 }
