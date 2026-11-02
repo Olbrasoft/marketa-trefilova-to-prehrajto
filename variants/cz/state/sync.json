@@ -37816,17 +37816,19 @@
       "attempts": []
     },
     "12217": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33771954",
+          "target_video_id": "30744981",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:44:25.974632+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33771954",
         "display_name": "Citizen X 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:39:59.892358+00:00"
-      },
-      "claim": {
-        "worker_id": "953d42e7d8714883a80fa32f39c65cc7-shard-0",
-        "claimed_at": "2026-11-02T23:40:00.025837+00:00",
-        "lease_expires_at": "2026-11-03T05:40:00.025837+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744981",
       "prepared": {
@@ -69572,5 +69574,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:42:36.346812+00:00"
+  "updated_at": "2026-11-02T23:44:25.974653+00:00"
 }
