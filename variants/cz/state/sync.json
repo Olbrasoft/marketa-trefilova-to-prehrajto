@@ -26226,17 +26226,19 @@
       }
     },
     "1043": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22599124",
+          "target_video_id": "30710994",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:28:28.305892+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22599124",
         "display_name": "The Hurt Locker 1080p CZ Dabing",
         "planned_at": "2026-11-02T00:20:28.899285+00:00"
-      },
-      "claim": {
-        "worker_id": "daf888ffcc6e4401a7f7257b451f0e1e-shard-0",
-        "claimed_at": "2026-11-02T00:20:28.989984+00:00",
-        "lease_expires_at": "2026-11-02T06:20:28.989984+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30710994",
       "prepared": {
@@ -53884,5 +53886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:24:11.595675+00:00"
+  "updated_at": "2026-11-02T00:28:28.305934+00:00"
 }
