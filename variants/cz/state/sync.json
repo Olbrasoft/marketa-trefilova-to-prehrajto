@@ -27248,17 +27248,19 @@
       }
     },
     "944": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13533791",
+          "target_video_id": "30715099",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:28:55.807824+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13533791",
         "display_name": "Upgrade 1080p CZ Dabing",
         "planned_at": "2026-11-02T03:25:24.550762+00:00"
-      },
-      "claim": {
-        "worker_id": "653c2105cad24deea21728bc41fa7148-shard-0",
-        "claimed_at": "2026-11-02T03:25:24.717247+00:00",
-        "lease_expires_at": "2026-11-02T09:25:24.717247+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30715099",
       "prepared": {
@@ -55516,5 +55518,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:26:39.518295+00:00"
+  "updated_at": "2026-11-02T03:28:55.807843+00:00"
 }
