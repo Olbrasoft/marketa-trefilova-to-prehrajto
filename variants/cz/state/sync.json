@@ -35677,17 +35677,19 @@
       }
     },
     "24279": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25619955",
+          "target_video_id": "30742390",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:12:23.583672+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25619955",
         "display_name": "Kirikou and the Sorceress SD CZ Dabing",
         "planned_at": "2026-11-02T21:11:00.042234+00:00"
-      },
-      "claim": {
-        "worker_id": "24a94055035042148f1b2867141c16f2-shard-0",
-        "claimed_at": "2026-11-02T21:11:00.174442+00:00",
-        "lease_expires_at": "2026-11-03T03:11:00.174442+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742390",
       "prepared": {
@@ -67205,5 +67207,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:11:03.985267+00:00"
+  "updated_at": "2026-11-02T21:12:23.583692+00:00"
 }
