@@ -33824,11 +33824,19 @@
       }
     },
     "1213": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13059529",
+          "reason": "Request failed for https://sdilej.cz/13059529/lilo-a-stitch-1-2002-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:09:07.167887+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13059529",
         "display_name": "Lilo & Stitch (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T18:08:18.067290+00:00"
+        "planned_at": "2026-11-02T18:08:21.118122+00:00"
       }
     },
     "1169": {
@@ -64838,5 +64846,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:08:19.414993+00:00"
+  "updated_at": "2026-11-02T18:09:07.167907+00:00"
 }
