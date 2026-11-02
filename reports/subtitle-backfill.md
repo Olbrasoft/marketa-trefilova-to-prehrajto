@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:15:20.062445+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:15:22.177912+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 40, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 41, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -64,6 +64,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-02T16:15:22.177830+00:00 |
 | [Awakenings 1080p CZ Titulky](https://prehraj.to/awakenings-1080p-cz-titulky-mkv/782ece4b2bb318f6) (ID 30708294) | [Sdílej 35402008](https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-02T07:00:10.836236+00:00 |
 | [Baby Driver 1080p CZ Titulky](https://prehraj.to/baby-driver-1080p-cz-titulky-mkv/659fa4bba5746da5) (ID 30707542) | [Sdílej 34641510](https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T07:00:03.535809+00:00 |
 | [BlacKkKlansman 1080p CZ Titulky](https://prehraj.to/blackkklansman-1080p-cz-titulky-mkv/55432ccf5b5a0aa2) (ID 30713447) | [Sdílej 11006824](https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-02T07:00:34.253068+00:00 |
