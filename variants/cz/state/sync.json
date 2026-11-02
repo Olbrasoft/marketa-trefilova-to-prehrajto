@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-02T19:27:59.262697+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-02T20:09:04.968056+00:00"
         },
         {
@@ -12324,12 +12317,19 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-02T20:39:41.593845+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:10:10.306646+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32043793",
         "display_name": "American Gangster 4K CZ Dabing",
-        "planned_at": "2026-11-02T20:39:40.521289+00:00"
+        "planned_at": "2026-11-02T21:10:09.021703+00:00"
       },
       "previous_target_id": "30647758",
       "prepared": {
@@ -35660,11 +35660,22 @@
       "last_plan": {
         "source_id": "26787845",
         "display_name": "Bullitt 4K CZ Dabing",
-        "planned_at": "2026-11-02T21:10:06.038931+00:00"
+        "planned_at": "2026-11-02T21:10:09.093950+00:00"
+      },
+      "claim": {
+        "worker_id": "1ac95418126245dea5834f8cfd51b83f-shard-0",
+        "claimed_at": "2026-11-02T21:10:09.294142+00:00",
+        "lease_expires_at": "2026-11-03T03:10:09.294142+00:00",
+        "run_id": "41509256577"
       }
     },
     "24279": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "25619955",
+        "display_name": "Kirikou and the Sorceress SD CZ Dabing",
+        "planned_at": "2026-11-02T21:10:09.144912+00:00"
+      }
     },
     "32707": {
       "attempts": []
@@ -67174,5 +67185,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:10:07.147020+00:00"
+  "updated_at": "2026-11-02T21:10:10.306670+00:00"
 }
