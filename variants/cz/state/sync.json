@@ -29124,17 +29124,19 @@
       }
     },
     "12407": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33821217",
+          "target_video_id": "30722015",
+          "permanent": false,
+          "attempted_at": "2026-11-02T08:39:53.315157+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33821217",
         "display_name": "A Simple Plan SD CZ Dabing",
         "planned_at": "2026-11-02T08:35:48.068590+00:00"
-      },
-      "claim": {
-        "worker_id": "9fe190ed0d424f6e8b4f628170a0efe2-shard-0",
-        "claimed_at": "2026-11-02T08:35:48.212240+00:00",
-        "lease_expires_at": "2026-11-02T14:35:48.212240+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30722015",
       "prepared": {
@@ -58671,5 +58673,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:38:20.179975+00:00"
+  "updated_at": "2026-11-02T08:39:53.315179+00:00"
 }
