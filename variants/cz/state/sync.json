@@ -37705,17 +37705,19 @@
       "attempts": []
     },
     "1072": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27464717",
+          "target_video_id": "30744891",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:39:57.012141+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27464717",
         "display_name": "Stargate: Continuum 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:35:42.734281+00:00"
-      },
-      "claim": {
-        "worker_id": "3b46934065cf4544bd37bdc7fe4838f1-shard-0",
-        "claimed_at": "2026-11-02T23:35:42.863972+00:00",
-        "lease_expires_at": "2026-11-03T05:35:42.863972+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744891",
       "prepared": {
@@ -69526,5 +69528,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:38:38.294088+00:00"
+  "updated_at": "2026-11-02T23:39:57.012163+00:00"
 }
