@@ -14647,17 +14647,19 @@
       "attempts": []
     },
     "837": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402890",
+          "target_video_id": "30722369",
+          "permanent": false,
+          "attempted_at": "2026-11-02T09:01:22.266620+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402890",
         "display_name": "Train Dreams 720p CZ Titulky",
         "planned_at": "2026-11-02T08:56:58.360429+00:00"
-      },
-      "claim": {
-        "worker_id": "7d00e54b326c49e5aa7fdb18224a3c0f-shard-0",
-        "claimed_at": "2026-11-02T08:56:58.395766+00:00",
-        "lease_expires_at": "2026-11-02T14:56:58.395766+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30722369",
       "prepared": {
@@ -44258,5 +44260,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:57:01.948378+00:00"
+  "updated_at": "2026-11-02T09:01:22.266638+00:00"
 }
