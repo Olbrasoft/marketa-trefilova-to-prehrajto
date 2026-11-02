@@ -15310,11 +15310,19 @@
       }
     },
     "21606": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21019707",
+          "reason": "Request failed for https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T17:00:10.671011+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21019707",
         "display_name": "The Time Machine (1960) SD CZ Titulky",
-        "planned_at": "2026-11-02T16:59:21.785835+00:00"
+        "planned_at": "2026-11-02T16:59:24.641087+00:00"
       }
     },
     "849": {
@@ -46696,5 +46704,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:59:21.785851+00:00"
+  "updated_at": "2026-11-02T17:00:10.671035+00:00"
 }
