@@ -21530,13 +21530,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-02T00:05:23.562225+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-02T00:42:04.184349+00:00"
         },
         {
@@ -21545,6 +21538,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-02T01:18:33.101224+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:56:50.769874+00:00"
         }
       ],
       "last_plan": {
@@ -23351,7 +23351,7 @@
       "last_plan": {
         "source_id": "34486914",
         "display_name": "Cocaine Cowboys 1080p CZ Dabing",
-        "planned_at": "2026-11-02T01:18:34.455439+00:00"
+        "planned_at": "2026-11-02T01:56:49.775688+00:00"
       },
       "previous_target_id": "30699804",
       "prepared": {
@@ -23359,6 +23359,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-01T16:02:31.343454+00:00",
         "relay_source_id": "34486914"
+      },
+      "claim": {
+        "worker_id": "d9f9fe60195243cfb0240120a8bb1286-shard-0",
+        "claimed_at": "2026-11-02T01:56:49.940112+00:00",
+        "lease_expires_at": "2026-11-02T07:56:49.940112+00:00",
+        "run_id": "41351617669"
       }
     },
     "21593": {
@@ -26649,7 +26655,7 @@
       "last_plan": {
         "source_id": "32953356",
         "display_name": "Hugo 4K CZ Dabing",
-        "planned_at": "2026-11-02T01:56:48.253953+00:00"
+        "planned_at": "2026-11-02T01:56:49.830843+00:00"
       }
     },
     "10790": {
@@ -54704,5 +54710,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:56:48.253962+00:00"
+  "updated_at": "2026-11-02T01:56:50.769887+00:00"
 }
