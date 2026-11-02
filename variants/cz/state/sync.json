@@ -34448,17 +34448,19 @@
       "attempts": []
     },
     "1148": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32455798",
+          "target_video_id": "30740237",
+          "permanent": false,
+          "attempted_at": "2026-11-02T19:30:21.576877+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32455798",
         "display_name": "How to Train Your Dragon: The Hidden World 4K CZ Dabing",
         "planned_at": "2026-11-02T19:16:40.636619+00:00"
-      },
-      "claim": {
-        "worker_id": "fc2a2f76a4e449e3a558645607bd815d-shard-0",
-        "claimed_at": "2026-11-02T19:16:40.837767+00:00",
-        "lease_expires_at": "2026-11-03T01:16:40.837767+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30740237",
       "prepared": {
@@ -65978,5 +65980,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:29:08.011195+00:00"
+  "updated_at": "2026-11-02T19:30:21.576893+00:00"
 }
