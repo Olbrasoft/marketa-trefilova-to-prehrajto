@@ -26664,17 +26664,19 @@
       }
     },
     "993": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32953356",
+          "target_video_id": "30713041",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:10:35.339905+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32953356",
         "display_name": "Hugo 4K CZ Dabing",
         "planned_at": "2026-11-02T01:58:09.164559+00:00"
-      },
-      "claim": {
-        "worker_id": "b9a4111f3b984948818eeb3f4b630071-shard-0",
-        "claimed_at": "2026-11-02T01:58:09.252633+00:00",
-        "lease_expires_at": "2026-11-02T07:58:09.252633+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30713041",
       "prepared": {
@@ -54776,5 +54778,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:06:54.889165+00:00"
+  "updated_at": "2026-11-02T02:10:35.339919+00:00"
 }
