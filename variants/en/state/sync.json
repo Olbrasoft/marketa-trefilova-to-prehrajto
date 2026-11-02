@@ -1992,6 +1992,12 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
+      },
+      "claim": {
+        "worker_id": "15000f53e21e4796a4681b6fe29c46dc-shard-0",
+        "claimed_at": "2026-11-02T22:20:08.274906+00:00",
+        "lease_expires_at": "2026-11-03T04:20:08.274906+00:00",
+        "run_id": "41509256577"
       }
     },
     "108": {
@@ -15949,17 +15955,23 @@
           "attempted_at": "2026-11-02T21:49:00.258792+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34431723",
-        "display_name": "Songs from the Second Floor 1080p CZ Titulky",
-        "planned_at": "2026-11-02T21:38:08.901289+00:00"
-      },
       "previous_target_id": "30742820",
-      "prepared": {
+      "upload": {
         "target_video_id": "30742820",
-        "size_bytes": 6193834505,
-        "prepared_at": "2026-11-02T21:38:12.501698+00:00",
-        "relay_source_id": "34431723"
+        "display_name": "Songs from the Second Floor 1080p CZ Titulky",
+        "source_id": "34431723",
+        "source_url": "https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv",
+        "source_filename": "Songs.From.The.Second.Floor.2000.1080p.BluRay.SWEDiSH.DTS.x264-MAJO.mkv",
+        "size_bytes": 6200000000,
+        "width": 1808,
+        "height": 1080,
+        "audio_language": "sv",
+        "language_probability": 0.9237009882926941,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/songs-from-the-second-floor-1080p-cz-titulky-mkv/72e10409a7631ddb",
+        "uploaded_at": "2026-11-02T22:20:09.426274+00:00"
       }
     },
     "32871": {
@@ -48517,5 +48529,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:20:06.419832+00:00"
+  "updated_at": "2026-11-02T22:20:09.426284+00:00"
 }
