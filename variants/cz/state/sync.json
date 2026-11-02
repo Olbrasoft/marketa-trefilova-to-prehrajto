@@ -31881,17 +31881,19 @@
       }
     },
     "868": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29338520",
+          "target_video_id": "30732137",
+          "permanent": false,
+          "attempted_at": "2026-11-02T13:51:52.587062+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29338520",
         "display_name": "Young Woman and the Sea 4K CZ Dabing",
         "planned_at": "2026-11-02T13:09:40.070161+00:00"
-      },
-      "claim": {
-        "worker_id": "9c5ce377440c44f28130315628d48ea9-shard-0",
-        "claimed_at": "2026-11-02T13:09:40.193316+00:00",
-        "lease_expires_at": "2026-11-02T19:09:40.193316+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30732137",
       "prepared": {
@@ -32120,7 +32122,13 @@
       "last_plan": {
         "source_id": "33873682",
         "display_name": "Sexmission (Seksmisja) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T13:51:48.365057+00:00"
+        "planned_at": "2026-11-02T13:51:50.977821+00:00"
+      },
+      "claim": {
+        "worker_id": "d4918684b8534bd2b3369d75bcf129e8-shard-0",
+        "claimed_at": "2026-11-02T13:51:51.171757+00:00",
+        "lease_expires_at": "2026-11-02T19:51:51.171757+00:00",
+        "run_id": "41436275458"
       }
     },
     "29343": {
@@ -62344,5 +62352,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:51:49.664792+00:00"
+  "updated_at": "2026-11-02T13:51:52.587079+00:00"
 }
