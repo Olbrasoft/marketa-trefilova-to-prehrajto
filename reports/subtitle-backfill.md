@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T07:34:06.284343+00:00
+Poslední aktualizace (UTC): 2026-11-02T07:34:08.080382+00:00
 
 Zkontrolováno videí: 287. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 26, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 27, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -77,6 +77,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvod
 | [Killers of the Flower Moon 4K CZ Titulky](https://prehraj.to/killers-of-the-flower-moon-4k-cz-titulky-mkv/d87a6252c4f3a3e2) (ID 30713681) | [Sdílej 27446866](https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-02T07:00:37.570538+00:00 |
 | [King Richard SD](https://prehraj.to/king-richard-sd-mp4/99fdf9d28d271972) (ID 30720567) | [Sdílej 18887803](https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4) | target_unavailable | 2026-11-02T07:13:59.086854+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T06:20:14.457181+00:00 |
+| [Leaving Las Vegas 1080p CZ Titulky](https://prehraj.to/leaving-las-vegas-1080p-cz-titulky-mkv/a8dd1374faa8d897) (ID 30720705) | [Sdílej 35401844](https://sdilej.cz/35401844/leaving.las.vegas.1995.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-02T07:34:08.080304+00:00 |
 | [Midnight Cowboy 1080p CZ Titulky](https://prehraj.to/midnight-cowboy-1080p-cz-titulky-mkv/9e93339996891026) (ID 30711546) | [Sdílej 30649562](https://sdilej.cz/30649562/midnight.cowboy.1969.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T07:00:24.256647+00:00 |
 | [Moonage Daydream SD CZ Titulky](https://prehraj.to/moonage-daydream-sd-cz-titulky-mkv/50732f82ed9624e5) (ID 30712437) | [Sdílej 29053388](https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv) | target_unavailable | 2026-11-02T07:00:27.594345+00:00 |
 | [Obsession (2026) 4K CZ Titulky](https://prehraj.to/obsession-2026-4k-cz-titulky-mkv/6412dae282b5a0f6) (ID 30705956) | [Sdílej 34596026](https://sdilej.cz/34596026/obsession.2026.2160p.web-dl.hdr10-.h.265-cz-tit-by-trx.mkv) | target_unavailable | 2026-11-02T06:59:52.530570+00:00 |
