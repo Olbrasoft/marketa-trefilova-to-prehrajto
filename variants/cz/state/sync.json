@@ -34222,17 +34222,19 @@
       }
     },
     "1234": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31839614",
+          "target_video_id": "30739257",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:43:41.606088+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31839614",
         "display_name": "K-PAX 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:37:54.665409+00:00"
-      },
-      "claim": {
-        "worker_id": "dc1cfb5c198f4350b930a91304988e1e-shard-0",
-        "claimed_at": "2026-11-02T18:37:54.856304+00:00",
-        "lease_expires_at": "2026-11-03T00:37:54.856304+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30739257",
       "prepared": {
@@ -65459,5 +65461,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:41:09.158407+00:00"
+  "updated_at": "2026-11-02T18:43:41.606107+00:00"
 }
