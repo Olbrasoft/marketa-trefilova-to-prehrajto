@@ -17285,13 +17285,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:19:31.735265+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-02T13:50:52.327672+00:00"
         },
         {
@@ -17300,6 +17293,13 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-02T14:22:07.678163+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:54:30.986706+00:00"
         }
       ],
       "last_plan": {
@@ -18862,7 +18862,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:22:10.436632+00:00"
+        "planned_at": "2026-11-02T14:54:29.919910+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18870,6 +18870,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "8676373a4f8f4d03b7aa7f6c4d1b651a-shard-0",
+        "claimed_at": "2026-11-02T14:54:30.227546+00:00",
+        "lease_expires_at": "2026-11-02T20:54:30.227546+00:00",
+        "run_id": "41436275458"
       }
     },
     "29695": {
@@ -32610,11 +32616,22 @@
       "last_plan": {
         "source_id": "31222996",
         "display_name": "John Wick: Chapter 2 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:54:28.300565+00:00"
+        "planned_at": "2026-11-02T14:54:30.009053+00:00"
+      },
+      "claim": {
+        "worker_id": "d531d95fa2e44fa3ac0d07ef2d016e37-shard-0",
+        "claimed_at": "2026-11-02T14:54:30.178510+00:00",
+        "lease_expires_at": "2026-11-02T20:54:30.178510+00:00",
+        "run_id": "41436275458"
       }
     },
     "1252": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28314931",
+        "display_name": "Juno 1080p CZ Dabing",
+        "planned_at": "2026-11-02T14:54:30.057987+00:00"
+      }
     },
     "1209": {
       "attempts": []
@@ -63017,5 +63034,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:54:28.300614+00:00"
+  "updated_at": "2026-11-02T14:54:30.986721+00:00"
 }
