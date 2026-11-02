@@ -33252,17 +33252,19 @@
       }
     },
     "1246": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24536034",
+          "target_video_id": "30736274",
+          "permanent": false,
+          "attempted_at": "2026-11-02T16:28:42.747458+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24536034",
         "display_name": "Zero Dark Thirty 1080p CZ Dabing",
         "planned_at": "2026-11-02T16:21:43.895025+00:00"
-      },
-      "claim": {
-        "worker_id": "eaa079201d5b4ee8a796eb6a16050d19-shard-0",
-        "claimed_at": "2026-11-02T16:21:44.080541+00:00",
-        "lease_expires_at": "2026-11-02T22:21:44.080541+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30736274",
       "prepared": {
@@ -64099,5 +64101,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:21:48.900681+00:00"
+  "updated_at": "2026-11-02T16:28:42.747474+00:00"
 }
