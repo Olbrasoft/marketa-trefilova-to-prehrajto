@@ -14868,17 +14868,19 @@
       "attempts": []
     },
     "19865": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32616287",
+          "target_video_id": "30728908",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:04:48.283661+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32616287",
         "display_name": "No Other Choice (Eojjeolsuga eobsda) 1080p CZ Titulky",
         "planned_at": "2026-11-02T11:59:51.415015+00:00"
-      },
-      "claim": {
-        "worker_id": "86508e342bd84a09adb6ebc26521e5bc-shard-0",
-        "claimed_at": "2026-11-02T11:59:51.456369+00:00",
-        "lease_expires_at": "2026-11-02T17:59:51.456369+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30728908",
       "prepared": {
@@ -45139,5 +45141,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:59:55.178636+00:00"
+  "updated_at": "2026-11-02T12:04:48.283680+00:00"
 }
