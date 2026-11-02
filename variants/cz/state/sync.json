@@ -37664,17 +37664,19 @@
       "attempts": []
     },
     "11504": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34786786",
+          "target_video_id": "30744889",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:36:27.763060+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786786",
         "display_name": "Broadway Danny Rose SD CZ Dabing",
         "planned_at": "2026-11-02T23:35:36.150700+00:00"
-      },
-      "claim": {
-        "worker_id": "d102142e9a6e4ccaba520adb7f5aa382-shard-0",
-        "claimed_at": "2026-11-02T23:35:36.299147+00:00",
-        "lease_expires_at": "2026-11-03T05:35:36.299147+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744889",
       "prepared": {
@@ -69453,5 +69455,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:35:46.943010+00:00"
+  "updated_at": "2026-11-02T23:36:27.763085+00:00"
 }
