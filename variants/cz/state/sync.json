@@ -31123,17 +31123,19 @@
       "attempts": []
     },
     "933": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34879340",
+          "target_video_id": "30729389",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:12:41.792298+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34879340",
         "display_name": "A Dog's Journey 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:03:40.773562+00:00"
-      },
-      "claim": {
-        "worker_id": "642f79ccc5b940fe991a0e931d98d1b0-shard-0",
-        "claimed_at": "2026-11-02T12:03:40.907549+00:00",
-        "lease_expires_at": "2026-11-02T18:03:40.907549+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30729389",
       "prepared": {
@@ -61141,5 +61143,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:09:47.783875+00:00"
+  "updated_at": "2026-11-02T12:12:41.792314+00:00"
 }
