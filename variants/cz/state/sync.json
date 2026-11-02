@@ -33803,17 +33803,19 @@
       "attempts": []
     },
     "1152": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32969995",
+          "target_video_id": "30738650",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:12:47.581373+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32969995",
         "display_name": "Kiss Kiss Bang Bang 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:06:20.645671+00:00"
-      },
-      "claim": {
-        "worker_id": "85fa694ef79f4f25be82a4e657e43413-shard-0",
-        "claimed_at": "2026-11-02T18:06:20.844004+00:00",
-        "lease_expires_at": "2026-11-03T00:06:20.844004+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30738650",
       "prepared": {
@@ -64895,5 +64897,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:12:12.197638+00:00"
+  "updated_at": "2026-11-02T18:12:47.581397+00:00"
 }
