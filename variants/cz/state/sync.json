@@ -26279,7 +26279,20 @@
       "attempts": []
     },
     "962": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32183571",
+          "reason": "Source detail has no authenticated download link; source_id=32183571",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:28:32.307886+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32183571",
+        "display_name": "The Godfather Part III 1080p CZ Dabing",
+        "planned_at": "2026-11-02T00:28:30.129659+00:00"
+      }
     },
     "17877": {
       "attempts": []
@@ -53886,5 +53899,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:28:28.305934+00:00"
+  "updated_at": "2026-11-02T00:28:32.307908+00:00"
 }
