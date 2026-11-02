@@ -26957,17 +26957,19 @@
       }
     },
     "964": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32590008",
+          "target_video_id": "30713976",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:45:45.864914+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32590008",
         "display_name": "The Impossible 1080p CZ Dabing",
         "planned_at": "2026-11-02T02:40:11.402945+00:00"
-      },
-      "claim": {
-        "worker_id": "4593c0e973b5466fb142ed683c222c4a-shard-0",
-        "claimed_at": "2026-11-02T02:40:11.562212+00:00",
-        "lease_expires_at": "2026-11-02T08:40:11.562212+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30713976",
       "prepared": {
@@ -55245,5 +55247,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:45:02.558204+00:00"
+  "updated_at": "2026-11-02T02:45:45.864930+00:00"
 }
