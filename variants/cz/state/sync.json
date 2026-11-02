@@ -29706,7 +29706,7 @@
       "last_plan": {
         "source_id": "34850732",
         "display_name": "The Mauritanian 1080p CZ Dabing",
-        "planned_at": "2026-11-02T17:13:25.970279+00:00"
+        "planned_at": "2026-11-02T17:50:14.158542+00:00"
       },
       "previous_target_id": "30723078",
       "prepared": {
@@ -29714,6 +29714,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-02T09:31:48.716182+00:00",
         "relay_source_id": "34850732"
+      },
+      "claim": {
+        "worker_id": "9383434fad094fec902a2e9f1a69c45a-shard-0",
+        "claimed_at": "2026-11-02T17:50:14.469207+00:00",
+        "lease_expires_at": "2026-11-02T23:50:14.469207+00:00",
+        "run_id": "41471188833"
       }
     },
     "888": {
@@ -33682,17 +33688,19 @@
       }
     },
     "11522": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33492597",
+          "target_video_id": "30738011",
+          "permanent": false,
+          "attempted_at": "2026-11-02T17:50:15.381067+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33492597",
         "display_name": "The Karate Kid (1984) 4K CZ Dabing",
         "planned_at": "2026-11-02T17:36:31.608008+00:00"
-      },
-      "claim": {
-        "worker_id": "af70966ec747472698db9ac0b11b8f95-shard-0",
-        "claimed_at": "2026-11-02T17:36:31.793725+00:00",
-        "lease_expires_at": "2026-11-02T23:36:31.793725+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30738011",
       "prepared": {
@@ -33710,7 +33718,7 @@
       "last_plan": {
         "source_id": "32448658",
         "display_name": "Bram Stoker's Dracula 4K CZ Dabing",
-        "planned_at": "2026-11-02T17:50:09.513542+00:00"
+        "planned_at": "2026-11-02T17:50:14.284531+00:00"
       }
     },
     "23929": {
@@ -64732,5 +64740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T17:50:12.801397+00:00"
+  "updated_at": "2026-11-02T17:50:15.381084+00:00"
 }
