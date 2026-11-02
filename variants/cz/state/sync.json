@@ -28895,17 +28895,19 @@
       }
     },
     "11957": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29118131",
+          "target_video_id": "30721601",
+          "permanent": false,
+          "attempted_at": "2026-11-02T08:16:48.318832+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29118131",
         "display_name": "The Fisher King 1080p CZ Dabing",
         "planned_at": "2026-11-02T08:07:17.584029+00:00"
-      },
-      "claim": {
-        "worker_id": "67a5bc697df6412f896301aa7f502160-shard-0",
-        "claimed_at": "2026-11-02T08:07:17.714397+00:00",
-        "lease_expires_at": "2026-11-02T14:07:17.714397+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30721601",
       "prepared": {
@@ -58197,5 +58199,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:07:21.201644+00:00"
+  "updated_at": "2026-11-02T08:16:48.318850+00:00"
 }
