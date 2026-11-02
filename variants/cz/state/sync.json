@@ -31147,17 +31147,19 @@
       "attempts": []
     },
     "13729": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34683039",
+          "target_video_id": "30729629",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:09:41.246596+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34683039",
         "display_name": "Death Note (デスノート) (2006) 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:04:50.156620+00:00"
-      },
-      "claim": {
-        "worker_id": "7614ff2483d9480daef6d98dad1916ed-shard-0",
-        "claimed_at": "2026-11-02T12:04:50.359078+00:00",
-        "lease_expires_at": "2026-11-02T18:04:50.359078+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30729629",
       "prepared": {
@@ -61121,5 +61123,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:05:33.166861+00:00"
+  "updated_at": "2026-11-02T12:09:41.246613+00:00"
 }
