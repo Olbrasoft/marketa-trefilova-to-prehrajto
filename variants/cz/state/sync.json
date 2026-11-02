@@ -29584,17 +29584,19 @@
       }
     },
     "915": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34850732",
+          "target_video_id": "30723078",
+          "permanent": false,
+          "attempted_at": "2026-11-02T09:37:17.181164+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34850732",
         "display_name": "The Mauritanian 1080p CZ Dabing",
         "planned_at": "2026-11-02T09:31:43.669499+00:00"
-      },
-      "claim": {
-        "worker_id": "a0fca4e08c604d3ba60f5438045d74d2-shard-0",
-        "claimed_at": "2026-11-02T09:31:43.954834+00:00",
-        "lease_expires_at": "2026-11-02T15:31:43.954834+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30723078",
       "prepared": {
@@ -59348,5 +59350,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T09:32:57.223661+00:00"
+  "updated_at": "2026-11-02T09:37:17.181183+00:00"
 }
