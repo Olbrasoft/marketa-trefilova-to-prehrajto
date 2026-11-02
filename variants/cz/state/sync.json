@@ -32417,17 +32417,19 @@
       "attempts": []
     },
     "28135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27480235",
+          "target_video_id": "30733861",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:29:38.887206+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27480235",
         "display_name": "Frozen 1080p CZ Dabing",
         "planned_at": "2026-11-02T14:25:35.678416+00:00"
-      },
-      "claim": {
-        "worker_id": "05070d33768d47bfa73ddf555cd62ef4-shard-0",
-        "claimed_at": "2026-11-02T14:25:35.802505+00:00",
-        "lease_expires_at": "2026-11-02T20:25:35.802505+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30733861",
       "prepared": {
@@ -62877,5 +62879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:26:34.078632+00:00"
+  "updated_at": "2026-11-02T14:29:38.887221+00:00"
 }
