@@ -275,3 +275,4 @@ Attach subtitles only after target processing has finished.
 | Love Actually 4K CZ Titulky | 30709925 | https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv | Extract Czech track from exact source after processing |
 | Sinners 4K CZ Titulky | 30710776 | https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv | Extract Czech track from exact source after processing |
 | Eyes Wide Shut 1080p CZ Titulky | 30711541 | https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv | Extract Czech track from exact source after processing |
+| Moonage Daydream SD CZ Titulky | 30712437 | https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv | Extract Czech track from exact source after processing |
