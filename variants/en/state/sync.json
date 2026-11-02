@@ -14794,17 +14794,19 @@
       "attempts": []
     },
     "947": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33085256",
+          "target_video_id": "30726802",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:05:27.339663+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33085256",
         "display_name": "Disconnect 1080p CZ Titulky",
         "planned_at": "2026-11-02T11:42:25.202514+00:00"
-      },
-      "claim": {
-        "worker_id": "6e700f7a3bac414ba131f13cda3ed58f-shard-0",
-        "claimed_at": "2026-11-02T11:42:25.342730+00:00",
-        "lease_expires_at": "2026-11-02T17:42:25.342730+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30726802",
       "prepared": {
@@ -45141,5 +45143,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:04:48.283680+00:00"
+  "updated_at": "2026-11-02T12:05:27.339679+00:00"
 }
