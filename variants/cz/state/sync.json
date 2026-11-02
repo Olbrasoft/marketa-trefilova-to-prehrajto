@@ -10829,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-02T10:03:37.231641+00:00"
+        "planned_at": "2026-11-02T10:35:41.554364+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10837,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "6cd2de9f6b764e5cb4ddecf54780cbdd-shard-0",
+        "claimed_at": "2026-11-02T10:35:41.861890+00:00",
+        "lease_expires_at": "2026-11-02T16:35:41.861890+00:00",
+        "run_id": "41401248142"
       }
     },
     "21748": {
@@ -16341,13 +16347,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-02T08:55:51.012988+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-02T09:30:47.255260+00:00"
         },
         {
@@ -16356,6 +16355,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-02T10:03:37.651489+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:35:42.002166+00:00"
         }
       ],
       "last_plan": {
@@ -16369,12 +16375,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
-      },
-      "claim": {
-        "worker_id": "899509badd804650b684b074e0137073-shard-0",
-        "claimed_at": "2026-11-02T10:35:39.470992+00:00",
-        "lease_expires_at": "2026-11-02T16:35:39.470992+00:00",
-        "run_id": "41401248142"
       }
     },
     "12843": {
@@ -30396,7 +30396,7 @@
       "last_plan": {
         "source_id": "34530630",
         "display_name": "Police Story (警察故事) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T10:35:39.320059+00:00"
+        "planned_at": "2026-11-02T10:35:41.724093+00:00"
       }
     },
     "22267": {
@@ -60197,5 +60197,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:35:39.736967+00:00"
+  "updated_at": "2026-11-02T10:35:42.002187+00:00"
 }
