@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:27:51.106342+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:27:57.941588+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 150, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 73, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 150, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 72, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -50,6 +50,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T18:17:24.586510+00:00 |
 | [The Grapes of Wrath 1080p](https://prehraj.to/the-grapes-of-wrath-1080p-mp4/5407d3be76b4fb11) (ID 30622415) | [Sdílej 34770809](https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T02:50:01.828495+00:00 |
 | [The Lives of Others 1080p](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T16:29:33.376948+00:00 |
+| [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-02T02:27:57.941453+00:00 |
 | [The Lord of the Rings: The Two Towers 4K CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-two-towers-cz-titulky-mkv/6eac0a68b244fbe3) (ID 30583875) | [Sdílej 23272546](https://sdilej.cz/23272546/the-lord-of-the-rings-the-two-towers-2002-extended-2160p-bluray-x265-10bit-hdr-tigole-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T04:28:00.440701+00:00 |
 | [The Silence of the Lambs 4K CZ Titulky](https://prehraj.to/the-silence-of-the-lambs-cz-titulky-mkv/c3103c9b8e9a9c8a) (ID 30586048) | [Sdílej 32633356](https://sdilej.cz/32633356/the-silence-of-the-lambs-mlceni-jehnatek-1991-2160p-cz-ac3-5.1-en-eac3-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T08:36:30.017244+00:00 |
 | [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T22:54:29.458484+00:00 |
@@ -125,7 +126,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T02:27:38.231626+00:00 |
 | [The Last of the Mohicans 4K CZ Titulky](https://prehraj.to/the-last-of-the-mohicans-4k-cz-titulky-mkv/e4b11cec43f7e0f1) (ID 30690429) | [Sdílej 33753721](https://sdilej.cz/33753721/the.last.of.the.mohicans.1992.directors.definitive.cut.2160p.hdr.dv.bluray.hevc.10bit.dl.eac3.-265.mkv) | target_unavailable | 2026-11-01T09:18:11.861665+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T02:27:21.461840+00:00 |
-| [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T06:43:42.717587+00:00 |
 | [The Maltese Falcon 1080p CZ Titulky](https://prehraj.to/the-maltese-falcon-1080p-cz-titulky-mkv/f3dce9c4a680beec) (ID 30705059) | [Sdílej 29249134](https://sdilej.cz/29249134/maltezsky-sokol-the-maltese-falcon-1941-bluray-cz-daing.mkv) | target_unavailable | 2026-11-01T19:41:40.195274+00:00 |
 | [The Social Dilemma 1080p CZ Titulky](https://prehraj.to/the-social-dilemma-1080p-cz-titulky-mkv/41f9442284b7ebb1) (ID 30696907) | [Sdílej 30672538](https://sdilej.cz/30672538/the-social-dilemma-2020-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-01T14:26:15.502358+00:00 |
 | [The Station Agent 1080p CZ Titulky](https://prehraj.to/the-station-agent-1080p-cz-titulky-mkv/f72fed889a36f009) (ID 30699097) | [Sdílej 33555723](https://sdilej.cz/33555723/the-station-agent-2003-1080p-web-dl-x265-10bit-aac-5.1-afm72-.mkv) | target_unavailable | 2026-11-01T15:37:17.321788+00:00 |
