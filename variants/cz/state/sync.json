@@ -33933,17 +33933,19 @@
       }
     },
     "24975": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33940574",
+          "target_video_id": "30738844",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:18:23.324199+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33940574",
         "display_name": "Garden State 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:13:40.027661+00:00"
-      },
-      "claim": {
-        "worker_id": "5686f2f548f34e8a990e1437757589ec-shard-0",
-        "claimed_at": "2026-11-02T18:13:40.233886+00:00",
-        "lease_expires_at": "2026-11-03T00:13:40.233886+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30738844",
       "prepared": {
@@ -64960,5 +64962,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:17:33.597640+00:00"
+  "updated_at": "2026-11-02T18:18:23.324216+00:00"
 }
