@@ -31436,17 +31436,19 @@
       "attempts": []
     },
     "10768": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20398979",
+          "target_video_id": "30731102",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:53:56.691981+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20398979",
         "display_name": "It Happened in Broad Daylight (Es geschah am hellichten Tag) 1080p CZ Dabing",
         "planned_at": "2026-11-02T12:28:01.582122+00:00"
-      },
-      "claim": {
-        "worker_id": "1f1485781b9b4f1b9f0e55682dd59c3a-shard-0",
-        "claimed_at": "2026-11-02T12:28:01.875582+00:00",
-        "lease_expires_at": "2026-11-02T18:28:01.875582+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30731102",
       "prepared": {
@@ -61640,5 +61642,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:48:30.583156+00:00"
+  "updated_at": "2026-11-02T12:53:56.691996+00:00"
 }
