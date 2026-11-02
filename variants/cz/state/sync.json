@@ -34161,11 +34161,19 @@
       }
     },
     "1071": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31966350",
+          "reason": "Request failed for https://sdilej.cz/31966350/superman-1-1978-4k-h265-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:33:19.247810+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31966350",
         "display_name": "Superman (1978) 4K CZ Dabing",
-        "planned_at": "2026-11-02T18:31:31.398561+00:00"
+        "planned_at": "2026-11-02T18:32:33.076409+00:00"
       }
     },
     "21835": {
@@ -65376,5 +65384,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:32:30.699690+00:00"
+  "updated_at": "2026-11-02T18:33:19.247828+00:00"
 }
