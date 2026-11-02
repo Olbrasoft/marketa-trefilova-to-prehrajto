@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:28:21.470838+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:28:25.273646+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 153, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 68, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 154, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -135,7 +135,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [West Side Story (1961) 1080p CZ Titulky](https://prehraj.to/west-side-story-1961-1080p-cz-titulky-mkv/7d267cc2ed04c470) (ID 30695040) | [Sdílej 34917405](https://sdilej.cz/34917405/west.side.story.1961.1080p.bluray.ddp.7.1.x265-edge2020.mkv) | target_unavailable | 2026-11-01T12:54:55.633931+00:00 |
 | [What We Do in the Shadows 1080p CZ Titulky](https://prehraj.to/what-we-do-in-the-shadows-1080p-cz-titulky-mkv/86a3ef8254aa97b5) (ID 30689658) | [Sdílej 13336214](https://sdilej.cz/13336214/what-we-do-in-the.shadows-en-vlozene-titulky-2014-horror-1080p-pg-.mkv) | target_unavailable | 2026-11-01T08:37:30.609028+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T02:27:13.970702+00:00 |
-| [Zack Snyder's Justice League 1080p CZ Titulky](https://prehraj.to/zack-snyder-s-justice-league-1080p-cz-titulky-mkv/2773fc50054d7025) (ID 30678189) | [Sdílej 30673514](https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv) | target_unavailable | 2026-11-01T06:52:10.684115+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
