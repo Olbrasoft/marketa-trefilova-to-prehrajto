@@ -28167,17 +28167,19 @@
       }
     },
     "12438": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34706477",
+          "target_video_id": "30717811",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:52:22.476789+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34706477",
         "display_name": "Pleasantville 4K CZ Dabing",
         "planned_at": "2026-11-02T05:36:25.150929+00:00"
-      },
-      "claim": {
-        "worker_id": "f167bd1192904ce4aa47c00bda3d8931-shard-0",
-        "claimed_at": "2026-11-02T05:36:25.382714+00:00",
-        "lease_expires_at": "2026-11-02T11:36:25.382714+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30717811",
       "prepared": {
@@ -57105,5 +57107,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:45:36.281128+00:00"
+  "updated_at": "2026-11-02T05:52:22.476807+00:00"
 }
