@@ -33075,6 +33075,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-02T15:28:41.158568+00:00",
         "relay_source_id": "34444695"
+      },
+      "claim": {
+        "worker_id": "9c138840fbe747e9b90b930f1dd5629b-shard-0",
+        "claimed_at": "2026-11-02T20:10:02.463134+00:00",
+        "lease_expires_at": "2026-11-03T02:10:02.463134+00:00",
+        "run_id": "41509256577"
       }
     },
     "1126": {
@@ -34550,17 +34556,23 @@
           "attempted_at": "2026-11-02T19:29:00.217278+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30201049",
-        "display_name": "Pinocchio (1940) 720p CZ Dabing",
-        "planned_at": "2026-11-02T19:24:21.714333+00:00"
-      },
       "previous_target_id": "30740371",
-      "prepared": {
+      "upload": {
         "target_video_id": "30740371",
-        "size_bytes": 2036452004,
-        "prepared_at": "2026-11-02T19:24:26.387191+00:00",
-        "relay_source_id": "30201049"
+        "display_name": "Pinocchio (1940) 720p CZ Dabing",
+        "source_id": "30201049",
+        "source_url": "https://sdilej.cz/30201049/pinocchio-1940-720p-cz-eng.mkv",
+        "source_filename": "Pinocchio (1940) 720p Cz Eng.mkv",
+        "size_bytes": 2000000000,
+        "width": 968,
+        "height": 720,
+        "audio_language": "cs",
+        "language_probability": 0.9728071093559265,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/pinocchio-1940-720p-cz-dabing-mkv/637721d843082bcc",
+        "uploaded_at": "2026-11-02T20:10:03.370937+00:00"
       }
     },
     "1248": {
@@ -34818,7 +34830,7 @@
       "last_plan": {
         "source_id": "33690094",
         "display_name": "Jacob's Ladder 1080p CZ Dabing",
-        "planned_at": "2026-11-02T20:09:58.884487+00:00"
+        "planned_at": "2026-11-02T20:10:02.595102+00:00"
       }
     },
     "1112": {
@@ -66196,5 +66208,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:09:58.884511+00:00"
+  "updated_at": "2026-11-02T20:10:03.370958+00:00"
 }
