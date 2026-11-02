@@ -32913,17 +32913,19 @@
       }
     },
     "1221": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14020496",
+          "target_video_id": "30735208",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:32:45.780475+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14020496",
         "display_name": "The Nice Guys 1080p CZ Dabing",
         "planned_at": "2026-11-02T15:27:44.591208+00:00"
-      },
-      "claim": {
-        "worker_id": "de280bc6aa6d43d1933d45e023b50810-shard-0",
-        "claimed_at": "2026-11-02T15:27:44.824290+00:00",
-        "lease_expires_at": "2026-11-02T21:27:44.824290+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30735208",
       "prepared": {
@@ -63583,5 +63585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:29:32.353633+00:00"
+  "updated_at": "2026-11-02T15:32:45.780488+00:00"
 }
