@@ -31764,17 +31764,19 @@
       "attempts": []
     },
     "30266": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15249998",
+          "target_video_id": "30732132",
+          "permanent": false,
+          "attempted_at": "2026-11-02T13:09:38.553990+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15249998",
         "display_name": "Tangled Ever After SD CZ Dabing",
         "planned_at": "2026-11-02T13:09:18.670503+00:00"
-      },
-      "claim": {
-        "worker_id": "af9b2697d51348beabdfd15691a8cdbe-shard-0",
-        "claimed_at": "2026-11-02T13:09:18.802085+00:00",
-        "lease_expires_at": "2026-11-02T19:09:18.802085+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30732132",
       "prepared": {
@@ -61828,5 +61830,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:09:24.082275+00:00"
+  "updated_at": "2026-11-02T13:09:38.554006+00:00"
 }
