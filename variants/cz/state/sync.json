@@ -35488,17 +35488,19 @@
       }
     },
     "19669": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29946370",
+          "target_video_id": "30741798",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:42:41.526504+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29946370",
         "display_name": "Biutiful 1080p CZ Dabing",
         "planned_at": "2026-11-02T20:51:19.037148+00:00"
-      },
-      "claim": {
-        "worker_id": "4d79e075efbd4b02a105a7d773d9447f-shard-0",
-        "claimed_at": "2026-11-02T20:51:19.160830+00:00",
-        "lease_expires_at": "2026-11-03T02:51:19.160830+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30741798",
       "prepared": {
@@ -67548,5 +67550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:38:08.817190+00:00"
+  "updated_at": "2026-11-02T21:42:41.526525+00:00"
 }
