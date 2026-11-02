@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:50:20.637282+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-02T14:21:32.345621+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-02T14:54:01.091698+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:27:09.734708+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "22f6588e46c641d3b3ad14a847f36926-shard-0",
-        "claimed_at": "2026-11-02T15:27:05.717812+00:00",
-        "lease_expires_at": "2026-11-02T21:27:05.717812+00:00",
-        "run_id": "41436275458"
       }
     },
     "9": {
@@ -32644,7 +32638,7 @@
       "last_plan": {
         "source_id": "34273751",
         "display_name": "X2 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:44:15.094807+00:00"
+        "planned_at": "2026-11-02T15:27:09.393412+00:00"
       },
       "previous_target_id": "30734242",
       "prepared": {
@@ -32652,6 +32646,12 @@
         "size_bytes": 5656352036,
         "prepared_at": "2026-11-02T14:44:19.217688+00:00",
         "relay_source_id": "34273751"
+      },
+      "claim": {
+        "worker_id": "76a24a6bb2bc4094be5758a0aa8fbebc-shard-0",
+        "claimed_at": "2026-11-02T15:27:09.619996+00:00",
+        "lease_expires_at": "2026-11-02T21:27:09.619996+00:00",
+        "run_id": "41436275458"
       }
     },
     "1202": {
@@ -32909,7 +32909,7 @@
       "last_plan": {
         "source_id": "14020496",
         "display_name": "The Nice Guys 1080p CZ Dabing",
-        "planned_at": "2026-11-02T15:27:05.590704+00:00"
+        "planned_at": "2026-11-02T15:27:09.489764+00:00"
       }
     },
     "11735": {
@@ -63526,5 +63526,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:27:06.489451+00:00"
+  "updated_at": "2026-11-02T15:27:09.734724+00:00"
 }
