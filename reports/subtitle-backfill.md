@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T05:38:02.486120+00:00
+Poslední aktualizace (UTC): 2026-11-02T05:38:48.943981+00:00
 
 Zkontrolováno videí: 283. Další stránka kontroly: 0.
 
@@ -96,7 +96,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvod
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-02T04:59:24.869235+00:00 |
 | [Straight Outta Compton 1080p CZ Titulky](https://prehraj.to/straight-outta-compton-1080p-cz-titulky-mkv/1da554e9cd740dd2) (ID 30707982) | [Sdílej 5724266](https://sdilej.cz/5724266/straight-outta-compton-2015-cz-tit.mkv) | target_unavailable | 2026-11-02T04:18:34.160895+00:00 |
 | [The Abyss 4K CZ Titulky](https://prehraj.to/the-abyss-4k-cz-titulky-mkv/ea4e4d0946fdf6b4) (ID 30717125) | [Sdílej 26562713](https://sdilej.cz/26562713/the-abyss-director-s-cut-1989-2160p-cz-sub.mkv) | target_unavailable | 2026-11-02T05:07:59.984803+00:00 |
-| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-02T04:18:14.719923+00:00 |
+| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-02T05:38:48.943927+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T04:59:18.160958+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T04:59:01.632745+00:00 |
 | [The Maltese Falcon 1080p CZ Titulky](https://prehraj.to/the-maltese-falcon-1080p-cz-titulky-mkv/f3dce9c4a680beec) (ID 30705059) | [Sdílej 29249134](https://sdilej.cz/29249134/maltezsky-sokol-the-maltese-falcon-1941-bluray-cz-daing.mkv) | target_unavailable | 2026-11-02T05:00:05.979230+00:00 |
