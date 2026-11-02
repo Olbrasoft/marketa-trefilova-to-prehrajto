@@ -33903,7 +33903,20 @@
       }
     },
     "11183": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34673337",
+          "reason": "Request failed for https://sdilej.cz/34673337/carrie-1976-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:13:36.667811+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34673337",
+        "display_name": "Carrie (1976) 1080p CZ Dabing",
+        "planned_at": "2026-11-02T18:12:49.211041+00:00"
+      }
     },
     "24975": {
       "attempts": []
@@ -64897,5 +64910,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:12:47.581397+00:00"
+  "updated_at": "2026-11-02T18:13:36.667832+00:00"
 }
