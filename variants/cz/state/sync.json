@@ -32258,17 +32258,19 @@
       }
     },
     "938": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11519953",
+          "target_video_id": "30733280",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:13:30.449703+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11519953",
         "display_name": "Ballon 1080p CZ Dabing",
         "planned_at": "2026-11-02T14:02:56.180904+00:00"
-      },
-      "claim": {
-        "worker_id": "23dee0d9831247cabc8ba89696caf197-shard-0",
-        "claimed_at": "2026-11-02T14:02:56.307772+00:00",
-        "lease_expires_at": "2026-11-02T20:02:56.307772+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30733280",
       "prepared": {
@@ -62490,5 +62492,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:09:58.330835+00:00"
+  "updated_at": "2026-11-02T14:13:30.449723+00:00"
 }
