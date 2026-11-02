@@ -135,7 +135,7 @@ Attach subtitles only after target processing has finished.
 | Taylor Swift: The Eras Tour (TAYLOR SWIFT / THE ERAS TOUR) 1080p CZ Titulky | 30635414 | https://sdilej.cz/28373728/taylor.swift.the.eras.tour.2023.taylor-s.version.1080p.10bit.webrip.6ch.x265.hevc-psa-sk-a-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Guardians of the Galaxy Vol. 3 4K CZ Titulky | 30638438 | https://sdilej.cz/26457098/guardians.of.the.galaxy.vol.3-2023-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Big Fish 1080p CZ Titulky | 30638440 | https://sdilej.cz/35402034/big.fish.2003.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
-| Zack Snyder's Justice League 1080p CZ Titulky | 30678189 | https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv | Extract Czech track from exact source after processing |
+| Zack Snyder's Justice League 1080p CZ Titulky | 30678189 | https://sdilej.cz/30673514/liga-spravedlnosti-zacka-snydera-2021-hd-cz.mkv | Complete: Czech subtitles verified |
 | Boyhood 720p CZ Titulky | 30678252 | https://sdilej.cz/32842128/chlapectvi-2014-drama-usa-czdab-bluray.hd.mkv | Complete: Czech subtitles verified |
 | Marriage Story 1080p CZ Titulky | 30639527 | https://sdilej.cz/18188633/marriage-story-2019-1080p-bluray-x265-10bit-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Ricky Gervais: Humanity 1080p CZ Titulky | 30704846 | https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv | Extract Czech track from exact source after processing |
