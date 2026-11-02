@@ -37050,17 +37050,19 @@
       }
     },
     "27888": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26655736",
+          "target_video_id": "30744278",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:03:05.347013+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26655736",
         "display_name": "Justice League: Doom 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:00:46.465834+00:00"
-      },
-      "claim": {
-        "worker_id": "c5f96e46bd424333b0b853c2dbc70307-shard-0",
-        "claimed_at": "2026-11-02T23:00:46.607277+00:00",
-        "lease_expires_at": "2026-11-03T05:00:46.607277+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744278",
       "prepared": {
@@ -68737,5 +68739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:00:49.907192+00:00"
+  "updated_at": "2026-11-02T23:03:05.347037+00:00"
 }
