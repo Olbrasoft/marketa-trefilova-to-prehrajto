@@ -35788,17 +35788,19 @@
       }
     },
     "11203": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32963850",
+          "target_video_id": "30742557",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:28:23.617689+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32963850",
         "display_name": "Marathon Man 4K CZ Dabing",
         "planned_at": "2026-11-02T21:21:48.019690+00:00"
-      },
-      "claim": {
-        "worker_id": "2c0f96ecd456461580220875f47de010-shard-0",
-        "claimed_at": "2026-11-02T21:21:48.139381+00:00",
-        "lease_expires_at": "2026-11-03T03:21:48.139381+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742557",
       "prepared": {
@@ -67448,5 +67450,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:24:41.856545+00:00"
+  "updated_at": "2026-11-02T21:28:23.617709+00:00"
 }
