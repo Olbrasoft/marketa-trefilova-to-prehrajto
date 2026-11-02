@@ -305,3 +305,4 @@ Attach subtitles only after target processing has finished.
 | The Tenant (1976) 1080p CZ Titulky | 30735788 | https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv | Extract Czech track from exact source after processing |
 | A Hard Day's Night 1080p CZ Titulky | 30735890 | https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | The Time Machine (1960) SD CZ Titulky | 30737947 | https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Hair 1080p CZ Titulky | 30738024 | https://sdilej.cz/29035963/vlasy.mkv | Extract Czech track from exact source after processing |
