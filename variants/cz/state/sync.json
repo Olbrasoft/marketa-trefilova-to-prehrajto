@@ -29147,17 +29147,19 @@
       }
     },
     "13060": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29715834",
+          "target_video_id": "30722089",
+          "permanent": false,
+          "attempted_at": "2026-11-02T08:46:18.958242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29715834",
         "display_name": "The Piano Teacher (La Pianiste) SD CZ Dabing",
         "planned_at": "2026-11-02T08:39:55.770139+00:00"
-      },
-      "claim": {
-        "worker_id": "e9d128a3677f4197af51b4f75b0f9c7c-shard-0",
-        "claimed_at": "2026-11-02T08:39:56.006745+00:00",
-        "lease_expires_at": "2026-11-02T14:39:56.006745+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30722089",
       "prepared": {
@@ -58704,5 +58706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T08:44:51.778464+00:00"
+  "updated_at": "2026-11-02T08:46:18.958259+00:00"
 }
