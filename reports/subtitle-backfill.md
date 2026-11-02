@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:46:28.140540+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:46:30.096260+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 171, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 51, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 172, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 50, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -71,7 +71,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 37. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T02:27:17.545998+00:00 |
 | [Carandiru 720p CZ Titulky](https://prehraj.to/carandiru-720p-cz-titulky-mkv/44db5579185dc4ba) (ID 30704838) | [Sdílej 16980032](https://sdilej.cz/16980032/carandiru.2003.720p.web-dl.aac2.0.h264-titulky-cz.mkv) | target_unavailable | 2026-11-01T19:31:26.751016+00:00 |
 | [City of Life and Death (Nanjing! Nanjing!) 1080p CZ Titulky](https://prehraj.to/city-of-life-and-death-nanjing-nanjing-1080p-cz-titulky-mkv/e5b0c940a56637db) (ID 30703611) | [Sdílej 27751348](https://sdilej.cz/27751348/nanking-nanking-cina-2009-chuan-lu-bluray.1080p.dts.en.cz.sub.mkv) | target_unavailable | 2026-11-01T18:40:27.435249+00:00 |
-| [Dark Waters 1080p CZ Titulky](https://prehraj.to/dark-waters-1080p-cz-titulky-mkv/08b6b6cfae49a2d0) (ID 30695103) | [Sdílej 18607027](https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv) | target_unavailable | 2026-11-01T13:04:53.899189+00:00 |
 | [Deadpool & Wolverine 4K CZ Titulky](https://prehraj.to/deadpool-wolverine-4k-cz-titulky-mkv/f421d0df60f84742) (ID 30708571) | [Sdílej 29803826](https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv) | target_unavailable | 2026-11-01T22:23:08.083857+00:00 |
 | [Doctor Strange 1080p CZ Titulky](https://prehraj.to/doctor-strange-1080p-cz-titulky-mkv/6396e1fdac7387be) (ID 30705687) | [Sdílej 35402193](https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T20:12:10.061363+00:00 |
 | [Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky](https://prehraj.to/ein-lied-von-liebe-und-tod-gloomy-sunday-1080p-cz-titulky-mkv/31703440b053ba3c) (ID 30695912) | [Sdílej 34622854](https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv) | target_unavailable | 2026-11-01T13:55:42.820163+00:00 |
