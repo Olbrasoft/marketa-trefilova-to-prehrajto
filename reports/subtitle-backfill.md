@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:27:29.855650+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:27:39.178413+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
@@ -123,7 +123,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [The Boy Who Harnessed the Wind 1080p CZ Titulky](https://prehraj.to/the-boy-who-harnessed-the-wind-1080p-cz-titulky-mkv/70dbe4ffec87c9ce) (ID 30700677) | [Sdílej 11300206](https://sdilej.cz/11300206/the-boy-who-harnessed-the-wind-2019-1080p.-titul.cz-.mkv) | target_unavailable | 2026-11-01T16:38:43.829037+00:00 |
 | [The Cure (1995) 1080p CZ Titulky](https://prehraj.to/the-cure-1995-1080p-cz-titulky-mkv/f1a6e91d5653e91f) (ID 30703801) | [Sdílej 29771115](https://sdilej.cz/29771115/the-cure-1995-1080p-hdtv-ac3-x264-majo.mkv) | target_unavailable | 2026-11-01T18:50:43.856145+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | target_unavailable | 2026-11-01T20:22:12.165843+00:00 |
-| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-01T06:43:22.185051+00:00 |
+| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T02:27:38.231626+00:00 |
 | [The Last of the Mohicans 4K CZ Titulky](https://prehraj.to/the-last-of-the-mohicans-4k-cz-titulky-mkv/e4b11cec43f7e0f1) (ID 30690429) | [Sdílej 33753721](https://sdilej.cz/33753721/the.last.of.the.mohicans.1992.directors.definitive.cut.2160p.hdr.dv.bluray.hevc.10bit.dl.eac3.-265.mkv) | target_unavailable | 2026-11-01T09:18:11.861665+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T02:27:21.461840+00:00 |
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-01T06:43:42.717587+00:00 |
