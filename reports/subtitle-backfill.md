@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:36:19.449296+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:36:21.255023+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 155, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 155, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -130,6 +130,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 56. Důvo
 | [The Whale 1080p CZ Titulky](https://prehraj.to/the-whale-1080p-cz-titulky-mkv/a54c07509185b1d4) (ID 30685795) | [Sdílej 25373993](https://sdilej.cz/25373993/velryba-the-whale-2022-1080p-cz-titulky.mkv) | target_unavailable | 2026-11-01T06:52:18.314948+00:00 |
 | [Three Identical Strangers 1080p CZ Titulky](https://prehraj.to/three-identical-strangers-1080p-cz-titulky-mkv/88de642f79fc8783) (ID 30703041) | [Sdílej 11774276](https://sdilej.cz/11774276/three-identical-strangers-2018-cz-titulky-bluray-1080p-h264-.mkv) | target_unavailable | 2026-11-01T18:20:18.980398+00:00 |
 | [Transformers One 1080p CZ Titulky](https://prehraj.to/transformers-one-1080p-cz-titulky-mkv/345a1660f129696a) (ID 30699593) | [Sdílej 30039022](https://sdilej.cz/30039022/transformers.one.web-dl.en.5.1.titulky.cz.2024.1080p.mkv) | target_unavailable | 2026-11-01T15:57:48.808936+00:00 |
+| [Val 1080p CZ Titulky](https://prehraj.to/val-1080p-cz-titulky-mp4/8968bbc5a9668d0a) (ID 30713783) | [Sdílej 35179337](https://sdilej.cz/35179337/val-2021-cz-titulky.mp4) | target_unavailable | 2026-11-02T02:36:21.254939+00:00 |
 | [Watchmen 1080p CZ Titulky](https://prehraj.to/watchmen-1080p-cz-titulky-mkv/eedbb6c4ff193bf4) (ID 30680780) | [Sdílej 30659521](https://sdilej.cz/30659521/watchmen-2009-ultimate-cut-1080p-bluray-dts-x264-majo.mkv) | target_unavailable | 2026-11-01T06:52:29.393099+00:00 |
 | [West Side Story (1961) 1080p CZ Titulky](https://prehraj.to/west-side-story-1961-1080p-cz-titulky-mkv/7d267cc2ed04c470) (ID 30695040) | [Sdílej 34917405](https://sdilej.cz/34917405/west.side.story.1961.1080p.bluray.ddp.7.1.x265-edge2020.mkv) | target_unavailable | 2026-11-01T12:54:55.633931+00:00 |
 | [What We Do in the Shadows 1080p CZ Titulky](https://prehraj.to/what-we-do-in-the-shadows-1080p-cz-titulky-mkv/86a3ef8254aa97b5) (ID 30689658) | [Sdílej 13336214](https://sdilej.cz/13336214/what-we-do-in-the.shadows-en-vlozene-titulky-2014-horror-1080p-pg-.mkv) | target_unavailable | 2026-11-01T08:37:30.609028+00:00 |
