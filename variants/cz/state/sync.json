@@ -28485,17 +28485,19 @@
       "attempts": []
     },
     "1042": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32936975",
+          "target_video_id": "30718670",
+          "permanent": false,
+          "attempted_at": "2026-11-02T06:21:56.879765+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32936975",
         "display_name": "House of Flying Daggers (十面埋伏) 4K CZ Dabing",
         "planned_at": "2026-11-02T06:11:19.139116+00:00"
-      },
-      "claim": {
-        "worker_id": "2ab89d916f7f416caca528f034524367-shard-0",
-        "claimed_at": "2026-11-02T06:11:19.307177+00:00",
-        "lease_expires_at": "2026-11-02T12:11:19.307177+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30718670",
       "prepared": {
@@ -57319,5 +57321,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T06:11:22.778480+00:00"
+  "updated_at": "2026-11-02T06:21:56.879780+00:00"
 }
