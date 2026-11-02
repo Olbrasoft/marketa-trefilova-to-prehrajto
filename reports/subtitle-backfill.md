@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:16:32.494563+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:16:36.177676+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
@@ -68,7 +68,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 | [Awakenings 1080p CZ Titulky](https://prehraj.to/awakenings-1080p-cz-titulky-mkv/782ece4b2bb318f6) (ID 30708294) | [Sdílej 35402008](https://sdilej.cz/35402008/awakenings.1990.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-02T07:00:10.836236+00:00 |
 | [Baby Driver 1080p CZ Titulky](https://prehraj.to/baby-driver-1080p-cz-titulky-mkv/659fa4bba5746da5) (ID 30707542) | [Sdílej 34641510](https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-02T07:00:03.535809+00:00 |
 | [BlacKkKlansman 1080p CZ Titulky](https://prehraj.to/blackkklansman-1080p-cz-titulky-mkv/55432ccf5b5a0aa2) (ID 30713447) | [Sdílej 11006824](https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-02T07:00:34.253068+00:00 |
-| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T06:19:30.082431+00:00 |
+| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T16:16:36.177586+00:00 |
 | [Chaplin 1080p CZ Titulky](https://prehraj.to/chaplin-1080p-cz-titulky-mkv/e9d5387686fa032e) (ID 30732524) | [Sdílej 14793770](https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv) | target_unavailable | 2026-11-02T13:33:38.650196+00:00 |
 | [Disconnect 1080p CZ Titulky](https://prehraj.to/disconnect-1080p-cz-titulky-mkv/b3f83b9a614ab11b) (ID 30726802) | [Sdílej 33085256](https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv) | target_unavailable | 2026-11-02T11:42:41.360931+00:00 |
 | [Drive My Car (Doraibu mai kâ) 1080p CZ Titulky](https://prehraj.to/drive-my-car-doraibu-mai-ka-1080p-cz-titulky-mkv/ee7b449f7eace391) (ID 30727014) | [Sdílej 20536962](https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv) | target_unavailable | 2026-11-02T11:52:44.008526+00:00 |
