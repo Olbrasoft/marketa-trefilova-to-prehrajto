@@ -302,3 +302,4 @@ Attach subtitles only after target processing has finished.
 | Victoria 1080p CZ Titulky | 30731842 | https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Chaplin 1080p CZ Titulky | 30732524 | https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv | Extract Czech track from exact source after processing |
 | The Invite 4K CZ Titulky | 30735713 | https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Tenant (1976) 1080p CZ Titulky | 30735788 | https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv | Extract Czech track from exact source after processing |
