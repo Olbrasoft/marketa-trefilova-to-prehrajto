@@ -35508,11 +35508,19 @@
       }
     },
     "1232": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34647555",
+          "reason": "Request failed for https://sdilej.cz/34647555/trumbo-2015-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:58:53.683463+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34647555",
         "display_name": "Trumbo 1080p CZ Dabing",
-        "planned_at": "2026-11-02T20:58:49.967684+00:00"
+        "planned_at": "2026-11-02T20:58:52.409165+00:00"
       }
     },
     "34979": {
@@ -67047,5 +67055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:58:50.808357+00:00"
+  "updated_at": "2026-11-02T20:58:53.683479+00:00"
 }
