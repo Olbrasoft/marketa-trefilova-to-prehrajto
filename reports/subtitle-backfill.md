@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:46:30.096260+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:46:33.704860+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 172, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 50, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 173, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 49, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -73,7 +73,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 37. Důvo
 | [City of Life and Death (Nanjing! Nanjing!) 1080p CZ Titulky](https://prehraj.to/city-of-life-and-death-nanjing-nanjing-1080p-cz-titulky-mkv/e5b0c940a56637db) (ID 30703611) | [Sdílej 27751348](https://sdilej.cz/27751348/nanking-nanking-cina-2009-chuan-lu-bluray.1080p.dts.en.cz.sub.mkv) | target_unavailable | 2026-11-01T18:40:27.435249+00:00 |
 | [Deadpool & Wolverine 4K CZ Titulky](https://prehraj.to/deadpool-wolverine-4k-cz-titulky-mkv/f421d0df60f84742) (ID 30708571) | [Sdílej 29803826](https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv) | target_unavailable | 2026-11-01T22:23:08.083857+00:00 |
 | [Doctor Strange 1080p CZ Titulky](https://prehraj.to/doctor-strange-1080p-cz-titulky-mkv/6396e1fdac7387be) (ID 30705687) | [Sdílej 35402193](https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-01T20:12:10.061363+00:00 |
-| [Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky](https://prehraj.to/ein-lied-von-liebe-und-tod-gloomy-sunday-1080p-cz-titulky-mkv/31703440b053ba3c) (ID 30695912) | [Sdílej 34622854](https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv) | target_unavailable | 2026-11-01T13:55:42.820163+00:00 |
 | [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T01:04:59.734519+00:00 |
 | [Fantastic Planet SD CZ Titulky](https://prehraj.to/fantastic-planet-sd-cz-titulky-mkv/1542e588982d3b2c) (ID 30703255) | [Sdílej 6115976](https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv) | target_unavailable | 2026-11-01T18:30:14.733782+00:00 |
 | [Harry Potter and the Chamber of Secrets 4K CZ Titulky](https://prehraj.to/harry-potter-and-the-chamber-of-secrets-4k-cz-titulky-mkv/04c052d0ff591558) (ID 30706996) | [Sdílej 32925478](https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv) | target_unavailable | 2026-11-01T21:12:20.297693+00:00 |
