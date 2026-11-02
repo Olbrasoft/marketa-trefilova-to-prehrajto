@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:56:56.225747+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:56:59.732859+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 208, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 209, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -71,7 +71,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | [Disconnect 1080p CZ Titulky](https://prehraj.to/disconnect-1080p-cz-titulky-mkv/b3f83b9a614ab11b) (ID 30726802) | [Sdílej 33085256](https://sdilej.cz/33085256/disconnect-2012-1080p-cz-sk-en.mkv) | target_unavailable | 2026-11-02T11:42:41.360931+00:00 |
 | [Drive My Car (Doraibu mai kâ) 1080p CZ Titulky](https://prehraj.to/drive-my-car-doraibu-mai-ka-1080p-cz-titulky-mkv/ee7b449f7eace391) (ID 30727014) | [Sdílej 20536962](https://sdilej.cz/20536962/drive-my-car-1080p-2021-vlozene-cz-titulky.mkv) | target_unavailable | 2026-11-02T11:52:44.008526+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T07:00:40.858772+00:00 |
-| [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T07:00:20.895299+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-02T16:16:23.758802+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-02T16:19:40.492953+00:00 |
 | [Killers of the Flower Moon 4K CZ Titulky](https://prehraj.to/killers-of-the-flower-moon-4k-cz-titulky-mkv/d87a6252c4f3a3e2) (ID 30713681) | [Sdílej 27446866](https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-02T07:00:37.570538+00:00 |
