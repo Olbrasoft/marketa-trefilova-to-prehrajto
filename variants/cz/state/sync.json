@@ -36271,17 +36271,19 @@
       }
     },
     "26688": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34709490",
+          "target_video_id": "30743308",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:13:33.750142+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34709490",
         "display_name": "In the Loop SD CZ Dabing",
         "planned_at": "2026-11-02T22:12:07.375667+00:00"
-      },
-      "claim": {
-        "worker_id": "7f4e79f870ec4cfc9a3843e7256dff3e-shard-0",
-        "claimed_at": "2026-11-02T22:12:07.497142+00:00",
-        "lease_expires_at": "2026-11-03T04:12:07.497142+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743308",
       "prepared": {
@@ -67868,5 +67870,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:13:21.105998+00:00"
+  "updated_at": "2026-11-02T22:13:33.750167+00:00"
 }
