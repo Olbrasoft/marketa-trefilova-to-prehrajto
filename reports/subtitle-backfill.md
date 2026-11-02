@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T06:20:29.440799+00:00
+Poslední aktualizace (UTC): 2026-11-02T06:20:32.793953+00:00
 
 Zkontrolováno videí: 283. Další stránka kontroly: 0.
 
@@ -97,7 +97,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 22. Důvod
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-02T05:38:48.943927+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-02T06:19:49.526780+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T06:19:33.500322+00:00 |
-| [Upgrade 1080p CZ Titulky](https://prehraj.to/upgrade-1080p-cz-titulky-mkv/61aa85554a69d030) (ID 30715573) | [Sdílej 12991788](https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv) | target_unavailable | 2026-11-02T05:00:09.633492+00:00 |
+| [Upgrade 1080p CZ Titulky](https://prehraj.to/upgrade-1080p-cz-titulky-mkv/61aa85554a69d030) (ID 30715573) | [Sdílej 12991788](https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv) | target_unavailable | 2026-11-02T06:20:32.793859+00:00 |
 | [Val 1080p CZ Titulky](https://prehraj.to/val-1080p-cz-titulky-mp4/8968bbc5a9668d0a) (ID 30713783) | [Sdílej 35179337](https://sdilej.cz/35179337/val-2021-cz-titulky.mp4) | target_unavailable | 2026-11-02T06:20:04.243026+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T06:19:26.466413+00:00 |
 
