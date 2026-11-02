@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "3ba76bfd459f449cbe15beeae76668a1-shard-0",
+        "claimed_at": "2026-11-02T01:57:58.249503+00:00",
+        "lease_expires_at": "2026-11-02T07:57:58.249503+00:00",
+        "run_id": "41351617669"
       }
     },
     "21690": {
@@ -6560,13 +6566,6 @@
           "source_id": "29249134",
           "target_video_id": "30705059",
           "permanent": false,
-          "attempted_at": "2026-11-02T00:24:00.235167+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29249134",
-          "target_video_id": "30705059",
-          "permanent": false,
           "attempted_at": "2026-11-02T00:56:55.779230+00:00"
         },
         {
@@ -6575,12 +6574,19 @@
           "target_video_id": "30705059",
           "permanent": false,
           "attempted_at": "2026-11-02T01:27:02.429452+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29249134",
+          "target_video_id": "30705059",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:58:01.327158+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29249134",
         "display_name": "The Maltese Falcon 1080p CZ Titulky",
-        "planned_at": "2026-11-02T01:27:00.915740+00:00"
+        "planned_at": "2026-11-02T01:57:59.835465+00:00"
       },
       "previous_target_id": "30705059",
       "prepared": {
@@ -13783,7 +13789,7 @@
       "last_plan": {
         "source_id": "11006824",
         "display_name": "BlacKkKlansman 1080p CZ Titulky",
-        "planned_at": "2026-11-02T01:57:56.925891+00:00"
+        "planned_at": "2026-11-02T01:57:59.889704+00:00"
       }
     },
     "999": {
@@ -41834,5 +41840,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:57:56.925904+00:00"
+  "updated_at": "2026-11-02T01:58:01.327174+00:00"
 }
