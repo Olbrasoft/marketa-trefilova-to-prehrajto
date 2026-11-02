@@ -34312,17 +34312,19 @@
       }
     },
     "1198": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26231457",
+          "reason": "Request failed for https://sdilej.cz/26231457/coach-carter-2005.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:57:28.281909+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26231457",
         "display_name": "Coach Carter 1080p CZ Dabing",
         "planned_at": "2026-11-02T18:56:41.685532+00:00"
-      },
-      "claim": {
-        "worker_id": "084b51276a9f49b39ba2c50598b47ed4-shard-0",
-        "claimed_at": "2026-11-02T18:56:41.890757+00:00",
-        "lease_expires_at": "2026-11-03T00:56:41.890757+00:00",
-        "run_id": "41471188833"
       }
     },
     "1074": {
@@ -65512,5 +65514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:56:41.890781+00:00"
+  "updated_at": "2026-11-02T18:57:28.281931+00:00"
 }
