@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T04:18:44.224190+00:00
+Poslední aktualizace (UTC): 2026-11-02T04:18:47.543568+00:00
 
 Zkontrolováno videí: 280. Další stránka kontroly: 0.
 
@@ -70,7 +70,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T03:48:00.345308+00:00 |
 | [Doctor Strange 1080p CZ Titulky](https://prehraj.to/doctor-strange-1080p-cz-titulky-mkv/6396e1fdac7387be) (ID 30705687) | [Sdílej 35402193](https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-02T03:57:16.781549+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T03:46:56.425397+00:00 |
-| [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T03:08:04.940887+00:00 |
+| [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T04:18:47.543239+00:00 |
 | [Fantastic Planet SD CZ Titulky](https://prehraj.to/fantastic-planet-sd-cz-titulky-mkv/1542e588982d3b2c) (ID 30703255) | [Sdílej 6115976](https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv) | target_unavailable | 2026-11-02T03:49:12.768259+00:00 |
 | [Harry Potter and the Chamber of Secrets 4K CZ Titulky](https://prehraj.to/harry-potter-and-the-chamber-of-secrets-4k-cz-titulky-mkv/04c052d0ff591558) (ID 30706996) | [Sdílej 32925478](https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv) | target_unavailable | 2026-11-02T04:18:27.507073+00:00 |
 | [Hero (2002) 1080p CZ Titulky](https://prehraj.to/hero-2002-1080p-cz-titulky-mkv/cee9beac817762a0) (ID 30705057) | [Sdílej 17206386](https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv) | target_unavailable | 2026-11-02T03:49:16.206501+00:00 |
