@@ -18842,13 +18842,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:50:55.502781+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-02T14:22:12.069169+00:00"
         },
         {
@@ -18857,12 +18850,19 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-02T14:54:32.327013+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:27:45.894058+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:54:29.919910+00:00"
+        "planned_at": "2026-11-02T15:27:44.493945+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -32915,11 +32915,22 @@
       "last_plan": {
         "source_id": "14020496",
         "display_name": "The Nice Guys 1080p CZ Dabing",
-        "planned_at": "2026-11-02T15:27:40.390612+00:00"
+        "planned_at": "2026-11-02T15:27:44.591208+00:00"
+      },
+      "claim": {
+        "worker_id": "de280bc6aa6d43d1933d45e023b50810-shard-0",
+        "claimed_at": "2026-11-02T15:27:44.824290+00:00",
+        "lease_expires_at": "2026-11-02T21:27:44.824290+00:00",
+        "run_id": "41436275458"
       }
     },
     "11735": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34444695",
+        "display_name": "Beetlejuice 4K CZ Dabing",
+        "planned_at": "2026-11-02T15:27:44.644486+00:00"
+      }
     },
     "1126": {
       "attempts": []
@@ -63532,5 +63543,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:27:41.583579+00:00"
+  "updated_at": "2026-11-02T15:27:45.894077+00:00"
 }
