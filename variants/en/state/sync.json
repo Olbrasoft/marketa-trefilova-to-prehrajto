@@ -12157,14 +12157,28 @@
           "permanent": false,
           "target_video_id": "30693817",
           "attempted_at": "2026-11-01T12:49:47.904824+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "25989515",
+          "target_video_id": "30693817",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-02T01:03:38.256534+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25989515",
         "display_name": "Kolya (Kolja) 4K CZ Titulky",
-        "planned_at": "2026-11-02T01:03:34.815900+00:00"
+        "planned_at": "2026-11-02T01:03:37.550872+00:00"
       },
-      "previous_target_id": "30693817"
+      "previous_target_id": "30693817",
+      "claim": {
+        "worker_id": "12499dbe10ce4ab7b5584da927e73968-shard-0",
+        "claimed_at": "2026-11-02T01:03:37.576702+00:00",
+        "lease_expires_at": "2026-11-02T07:03:37.576702+00:00",
+        "run_id": "41351617669"
+      }
     },
     "22088": {
       "attempts": []
@@ -41505,5 +41519,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:03:34.815914+00:00"
+  "updated_at": "2026-11-02T01:03:38.256554+00:00"
 }
