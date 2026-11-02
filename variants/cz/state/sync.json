@@ -31843,17 +31843,19 @@
       "attempts": []
     },
     "10767": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32514790",
+          "target_video_id": "30732399",
+          "permanent": false,
+          "attempted_at": "2026-11-02T13:24:35.459798+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32514790",
         "display_name": "The Defiant Ones SD CZ Dabing",
         "planned_at": "2026-11-02T13:20:33.110530+00:00"
-      },
-      "claim": {
-        "worker_id": "a9dedde21834497d8117990319bc7434-shard-0",
-        "claimed_at": "2026-11-02T13:20:33.242149+00:00",
-        "lease_expires_at": "2026-11-02T19:20:33.242149+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30732399",
       "prepared": {
@@ -62177,5 +62179,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:20:37.535691+00:00"
+  "updated_at": "2026-11-02T13:24:35.459815+00:00"
 }
