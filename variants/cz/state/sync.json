@@ -27575,17 +27575,19 @@
       }
     },
     "521": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34937578",
+          "target_video_id": "30715635",
+          "permanent": false,
+          "attempted_at": "2026-11-02T04:44:16.753762+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34937578",
         "display_name": "Marty Supreme 1440p CZ Dabing",
         "planned_at": "2026-11-02T03:51:57.043733+00:00"
-      },
-      "claim": {
-        "worker_id": "f03d9d19b83b4b7f845c23b3da7c4372-shard-0",
-        "claimed_at": "2026-11-02T03:51:57.212197+00:00",
-        "lease_expires_at": "2026-11-02T09:51:57.212197+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30715635",
       "prepared": {
@@ -56360,5 +56362,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T04:35:03.180397+00:00"
+  "updated_at": "2026-11-02T04:44:16.753786+00:00"
 }
