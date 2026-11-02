@@ -15373,18 +15373,19 @@
           "reason": "Request failed for https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-02T17:22:49.034605+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17861075",
+          "target_video_id": "30738514",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:11:17.632392+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17861075",
         "display_name": "A Bittersweet Life (달콤한 인생) 1080p CZ Titulky",
         "planned_at": "2026-11-02T18:01:12.480339+00:00"
-      },
-      "claim": {
-        "worker_id": "d309b254cfb04dcabd2be251cbb45b8a-shard-0",
-        "claimed_at": "2026-11-02T18:01:12.541592+00:00",
-        "lease_expires_at": "2026-11-03T00:01:12.541592+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30738514",
       "prepared": {
@@ -47104,5 +47105,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:08:14.538283+00:00"
+  "updated_at": "2026-11-02T18:11:17.632411+00:00"
 }
