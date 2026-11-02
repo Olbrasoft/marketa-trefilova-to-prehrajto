@@ -26151,17 +26151,19 @@
       }
     },
     "853": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31266699",
+          "target_video_id": "30710760",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:20:27.307215+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31266699",
         "display_name": "Sinners 4K CZ Dabing",
         "planned_at": "2026-11-02T00:05:41.863221+00:00"
-      },
-      "claim": {
-        "worker_id": "a863f86d98ac43cbabc88ac3a70b717b-shard-0",
-        "claimed_at": "2026-11-02T00:05:42.071677+00:00",
-        "lease_expires_at": "2026-11-02T06:05:42.071677+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30710760",
       "prepared": {
@@ -53838,5 +53840,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:16:15.862061+00:00"
+  "updated_at": "2026-11-02T00:20:27.307230+00:00"
 }
