@@ -15463,17 +15463,19 @@
       "attempts": []
     },
     "15252": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30394661",
+          "target_video_id": "30738340",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:04:49.567040+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30394661",
         "display_name": "Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky",
         "planned_at": "2026-11-02T17:53:50.370988+00:00"
-      },
-      "claim": {
-        "worker_id": "d95b345972ad428fb5aa77b8cc867927-shard-0",
-        "claimed_at": "2026-11-02T17:53:50.432053+00:00",
-        "lease_expires_at": "2026-11-02T23:53:50.432053+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30738340",
       "prepared": {
@@ -47078,5 +47080,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:01:17.521602+00:00"
+  "updated_at": "2026-11-02T18:04:49.567057+00:00"
 }
