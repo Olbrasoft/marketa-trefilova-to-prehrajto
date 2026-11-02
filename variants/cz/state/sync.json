@@ -30656,17 +30656,19 @@
       }
     },
     "866": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29437013",
+          "target_video_id": "30725471",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:56:52.917303+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29437013",
         "display_name": "One Life 1080p CZ Dabing",
         "planned_at": "2026-11-02T10:52:25.862667+00:00"
-      },
-      "claim": {
-        "worker_id": "a720323ba11e4eec896fa557c34476c4-shard-0",
-        "claimed_at": "2026-11-02T10:52:26.008485+00:00",
-        "lease_expires_at": "2026-11-02T16:52:26.008485+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30725471",
       "prepared": {
@@ -60450,5 +60452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:54:41.850649+00:00"
+  "updated_at": "2026-11-02T10:56:52.917332+00:00"
 }
