@@ -26757,17 +26757,19 @@
       }
     },
     "918": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26220258",
+          "target_video_id": "30713444",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:18:05.942076+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26220258",
         "display_name": "BlacKkKlansman 1080p CZ Dabing",
         "planned_at": "2026-11-02T02:15:58.347521+00:00"
-      },
-      "claim": {
-        "worker_id": "0e8b461d4ec34abda17d1f4c17ee991b-shard-0",
-        "claimed_at": "2026-11-02T02:15:58.845224+00:00",
-        "lease_expires_at": "2026-11-02T08:15:58.845224+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30713444",
       "prepared": {
@@ -54843,5 +54845,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:16:21.808432+00:00"
+  "updated_at": "2026-11-02T02:18:05.942094+00:00"
 }
