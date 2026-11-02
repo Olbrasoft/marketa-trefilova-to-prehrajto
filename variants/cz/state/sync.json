@@ -34533,17 +34533,19 @@
       }
     },
     "1248": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17402813",
+          "target_video_id": "30740449",
+          "permanent": false,
+          "attempted_at": "2026-11-02T19:32:09.436762+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17402813",
         "display_name": "Green Street (Green Street Hooligans) SD CZ Dabing",
         "planned_at": "2026-11-02T19:28:58.412232+00:00"
-      },
-      "claim": {
-        "worker_id": "b356f921ff3646bb976086ff201fe7a1-shard-0",
-        "claimed_at": "2026-11-02T19:28:58.600956+00:00",
-        "lease_expires_at": "2026-11-03T01:28:58.600956+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30740449",
       "prepared": {
@@ -66011,5 +66013,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:31:15.779730+00:00"
+  "updated_at": "2026-11-02T19:32:09.436779+00:00"
 }
