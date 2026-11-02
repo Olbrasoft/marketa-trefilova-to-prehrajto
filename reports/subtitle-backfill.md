@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:36:55.553504+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:36:59.765419+00:00
 
 Zkontrolováno videí: 277. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 163, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 59, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 164, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 58, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -78,7 +78,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 56. Důvo
 | [Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky](https://prehraj.to/ein-lied-von-liebe-und-tod-gloomy-sunday-1080p-cz-titulky-mkv/31703440b053ba3c) (ID 30695912) | [Sdílej 34622854](https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv) | target_unavailable | 2026-11-01T13:55:42.820163+00:00 |
 | [Eyes Wide Shut 1080p CZ Titulky](https://prehraj.to/eyes-wide-shut-1080p-cz-titulky-1-cz-sk-en-ru-subtitles/849aaa1116505a91) (ID 30711541) | [Sdílej 29866047](https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv) | target_unavailable | 2026-11-02T01:04:59.734519+00:00 |
 | [Fantastic Planet SD CZ Titulky](https://prehraj.to/fantastic-planet-sd-cz-titulky-mkv/1542e588982d3b2c) (ID 30703255) | [Sdílej 6115976](https://sdilej.cz/6115976/divoka-planeta-la-planete-sauvage-1973-ceske-titulky.mkv) | target_unavailable | 2026-11-01T18:30:14.733782+00:00 |
-| [Godzilla Minus One (ゴジラ-1.0) 1080p CZ Titulky](https://prehraj.to/godzilla-minus-one-1-0-1080p-cz-titulky-mkv/71f6dbfe82e8ae70) (ID 30688969) | [Sdílej 35072040](https://sdilej.cz/35072040/godzilla.minus.one.a.k.a.gojira.-1.0.2023.japanese.1080p.10bit.bluray.8ch.x265.hevc-psa-cztitulky-.mkv) | target_unavailable | 2026-11-01T08:06:53.205676+00:00 |
 | [Harry Potter and the Chamber of Secrets 4K CZ Titulky](https://prehraj.to/harry-potter-and-the-chamber-of-secrets-4k-cz-titulky-mkv/04c052d0ff591558) (ID 30706996) | [Sdílej 32925478](https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv) | target_unavailable | 2026-11-01T21:12:20.297693+00:00 |
 | [Hero (2002) 1080p CZ Titulky](https://prehraj.to/hero-2002-1080p-cz-titulky-mkv/cee9beac817762a0) (ID 30705057) | [Sdílej 17206386](https://sdilej.cz/17206386/hero-2002-1080p-bluray-x264-dtshd-5.1-ddr-cz-zh-titulky-cz-eng.mkv) | target_unavailable | 2026-11-01T19:41:36.620688+00:00 |
 | [Hidden Figures 1080p CZ Titulky](https://prehraj.to/hidden-figures-1080p-cz-titulky-mkv/27916ef0f8406632) (ID 30706154) | [Sdílej 34903912](https://sdilej.cz/34903912/hidden.figures.2016.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-01T20:22:19.468976+00:00 |
