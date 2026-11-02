@@ -29966,17 +29966,19 @@
       "attempts": []
     },
     "21623": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16347852",
+          "target_video_id": "30724659",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:13:55.720564+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16347852",
         "display_name": "The Guns of Navarone 720p CZ Dabing",
         "planned_at": "2026-11-02T10:07:33.490302+00:00"
-      },
-      "claim": {
-        "worker_id": "8633fed6367840c8bf4337a3a79318af-shard-0",
-        "claimed_at": "2026-11-02T10:07:33.658410+00:00",
-        "lease_expires_at": "2026-11-02T16:07:33.658410+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30724659",
       "prepared": {
@@ -59670,5 +59672,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:08:41.704589+00:00"
+  "updated_at": "2026-11-02T10:13:55.720583+00:00"
 }
