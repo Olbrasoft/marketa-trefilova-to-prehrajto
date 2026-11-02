@@ -26350,17 +26350,19 @@
       }
     },
     "1041": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33479696",
+          "target_video_id": "30711367",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:57:11.729386+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33479696",
         "display_name": "The Devil's Advocate 4K CZ Dabing",
         "planned_at": "2026-11-02T00:42:43.220800+00:00"
-      },
-      "claim": {
-        "worker_id": "f12f44b8c9a84379abc8dfe8ef7ab893-shard-0",
-        "claimed_at": "2026-11-02T00:42:43.315679+00:00",
-        "lease_expires_at": "2026-11-02T06:42:43.315679+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30711367",
       "prepared": {
@@ -26398,7 +26400,7 @@
       "last_plan": {
         "source_id": "31089199",
         "display_name": "Batman 4K CZ Dabing",
-        "planned_at": "2026-11-02T00:57:05.197249+00:00"
+        "planned_at": "2026-11-02T00:57:09.113613+00:00"
       }
     },
     "1010": {
@@ -54255,5 +54257,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:57:06.204230+00:00"
+  "updated_at": "2026-11-02T00:57:11.729403+00:00"
 }
