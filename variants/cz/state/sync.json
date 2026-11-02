@@ -33882,17 +33882,19 @@
       }
     },
     "34873": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33598266",
+          "target_video_id": "30738813",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:16:58.382424+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33598266",
         "display_name": "Life Is a Miracle SD CZ Dabing",
         "planned_at": "2026-11-02T18:12:07.563411+00:00"
-      },
-      "claim": {
-        "worker_id": "2700c5d2c5884b17ac8f761842b4a574-shard-0",
-        "claimed_at": "2026-11-02T18:12:07.769034+00:00",
-        "lease_expires_at": "2026-11-03T00:12:07.769034+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30738813",
       "prepared": {
@@ -64928,5 +64930,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:13:44.505533+00:00"
+  "updated_at": "2026-11-02T18:16:58.382441+00:00"
 }
