@@ -27179,17 +27179,19 @@
       }
     },
     "958": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:25:18.948179+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32448687",
         "display_name": "Erin Brockovich 4K CZ Dabing",
         "planned_at": "2026-11-02T03:14:07.590355+00:00"
-      },
-      "claim": {
-        "worker_id": "970ea9c06081470e96bb2f28a7abcc5a-shard-0",
-        "claimed_at": "2026-11-02T03:14:07.738006+00:00",
-        "lease_expires_at": "2026-11-02T09:14:07.738006+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30714914",
       "prepared": {
@@ -55456,5 +55458,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:18:41.957981+00:00"
+  "updated_at": "2026-11-02T03:25:18.948197+00:00"
 }
