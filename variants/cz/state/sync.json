@@ -30773,17 +30773,19 @@
       "attempts": []
     },
     "22045": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29355844",
+          "target_video_id": "30725572",
+          "permanent": false,
+          "attempted_at": "2026-11-02T11:11:49.485623+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29355844",
         "display_name": "Duck, You Sucker! (Duck, You Sucker) 1080p CZ Dabing",
         "planned_at": "2026-11-02T10:57:05.998980+00:00"
-      },
-      "claim": {
-        "worker_id": "cd1dbf5e9bbd47599f9db92219d7a306-shard-0",
-        "claimed_at": "2026-11-02T10:57:06.136501+00:00",
-        "lease_expires_at": "2026-11-02T16:57:06.136501+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30725572",
       "prepared": {
@@ -60586,5 +60588,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:09:11.923724+00:00"
+  "updated_at": "2026-11-02T11:11:49.485642+00:00"
 }
