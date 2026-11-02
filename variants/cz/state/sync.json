@@ -28647,17 +28647,19 @@
       }
     },
     "1020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15269364",
+          "target_video_id": "30720940",
+          "permanent": false,
+          "attempted_at": "2026-11-02T07:41:05.867390+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15269364",
         "display_name": "Headhunters (Hodejegerne) 1080p CZ Dabing",
         "planned_at": "2026-11-02T07:34:31.590554+00:00"
-      },
-      "claim": {
-        "worker_id": "fd9fa82b67ee4cf1af7ef3357ab2bea7-shard-0",
-        "claimed_at": "2026-11-02T07:34:31.711869+00:00",
-        "lease_expires_at": "2026-11-02T13:34:31.711869+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30720940",
       "prepared": {
@@ -57985,5 +57987,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T07:34:35.190801+00:00"
+  "updated_at": "2026-11-02T07:41:05.867408+00:00"
 }
