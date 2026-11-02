@@ -33056,17 +33056,19 @@
       "attempts": []
     },
     "18993": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16396653",
+          "target_video_id": "30735435",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:42:18.304914+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16396653",
         "display_name": "Lady Bird 720p CZ Dabing",
         "planned_at": "2026-11-02T15:38:43.861730+00:00"
-      },
-      "claim": {
-        "worker_id": "925f3a7b862546ba8e49ead398f93175-shard-0",
-        "claimed_at": "2026-11-02T15:38:44.065389+00:00",
-        "lease_expires_at": "2026-11-02T21:38:44.065389+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30735435",
       "prepared": {
@@ -63669,5 +63671,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:38:47.894505+00:00"
+  "updated_at": "2026-11-02T15:42:18.304929+00:00"
 }
