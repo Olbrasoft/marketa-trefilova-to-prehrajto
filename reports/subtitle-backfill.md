@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:17:04.320096+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:17:07.933905+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
@@ -90,7 +90,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T16:17:04.320007+00:00 |
 | [Promising Young Woman 720p CZ Titulky](https://prehraj.to/promising-young-woman-720p-cz-titulky-mkv/e2ed7d05142855db) (ID 30714870) | [Sdílej 15439640](https://sdilej.cz/15439640/promising.young.woman.2020.720p.webscr.dd2.0.x264.cz.sk.tit.mkv) | target_unavailable | 2026-11-02T07:00:30.923236+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-02T06:20:22.585162+00:00 |
-| [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-02T06:19:59.598818+00:00 |
+| [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-02T16:17:07.933823+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-02T16:16:11.139789+00:00 |
 | [Sinners 4K CZ Titulky](https://prehraj.to/sinners-4k-cz-titulky-mkv/ebd12fa5922bca2f) (ID 30710776) | [Sdílej 31188853](https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv) | target_unavailable | 2026-11-02T07:00:17.490589+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-02T16:16:48.347431+00:00 |
