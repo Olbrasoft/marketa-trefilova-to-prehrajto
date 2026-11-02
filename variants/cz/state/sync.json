@@ -32866,13 +32866,6 @@
           "source_id": "27441829",
           "target_video_id": "30734840",
           "permanent": false,
-          "attempted_at": "2026-11-02T19:09:09.070234+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27441829",
-          "target_video_id": "30734840",
-          "permanent": false,
           "attempted_at": "2026-11-02T19:44:51.724782+00:00"
         },
         {
@@ -32881,12 +32874,19 @@
           "target_video_id": "30734840",
           "permanent": false,
           "attempted_at": "2026-11-02T20:15:27.692548+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27441829",
+          "target_video_id": "30734840",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:47:07.004513+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27441829",
         "display_name": "John Wick: Chapter 3 – Parabellum (John Wick: Chapter 3 - Parabellum) 4K CZ Dabing",
-        "planned_at": "2026-11-02T20:15:24.810007+00:00"
+        "planned_at": "2026-11-02T20:47:05.774205+00:00"
       },
       "previous_target_id": "30734840",
       "prepared": {
@@ -35270,17 +35270,19 @@
       }
     },
     "13711": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34587802",
+          "target_video_id": "30741569",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:47:07.075093+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34587802",
         "display_name": "Reign Over Me 1080p CZ Dabing",
         "planned_at": "2026-11-02T20:43:22.006987+00:00"
-      },
-      "claim": {
-        "worker_id": "4707cddb691c441db6e10550c0f901b6-shard-0",
-        "claimed_at": "2026-11-02T20:43:22.112323+00:00",
-        "lease_expires_at": "2026-11-03T02:43:22.112323+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30741569",
       "prepared": {
@@ -35295,7 +35297,7 @@
       "last_plan": {
         "source_id": "35001441",
         "display_name": "The Sheep Detectives 4K CZ Dabing",
-        "planned_at": "2026-11-02T20:47:03.426062+00:00"
+        "planned_at": "2026-11-02T20:47:05.847003+00:00"
       }
     },
     "33118": {
@@ -66866,5 +66868,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:47:04.416700+00:00"
+  "updated_at": "2026-11-02T20:47:07.075117+00:00"
 }
