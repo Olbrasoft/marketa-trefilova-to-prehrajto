@@ -34130,7 +34130,20 @@
       }
     },
     "12059": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30973758",
+          "reason": "Request failed for https://sdilej.cz/30973758/armada-temnot-1992-bruce-campbell-cz-dab-uhdrdv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T18:31:19.191120+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30973758",
+        "display_name": "Army of Darkness 4K CZ Dabing",
+        "planned_at": "2026-11-02T18:30:32.853884+00:00"
+      }
     },
     "1071": {
       "attempts": []
@@ -65343,5 +65356,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T18:30:31.176677+00:00"
+  "updated_at": "2026-11-02T18:31:19.191141+00:00"
 }
