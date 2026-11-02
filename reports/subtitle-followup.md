@@ -287,3 +287,4 @@ Attach subtitles only after target processing has finished.
 | Falling Down 1080p CZ Titulky | 30717138 | https://sdilej.cz/23077616/volny-pad-1993-fhd-1080p--cz-pl-pl-eng-eng-true-hd-.mkv | Complete: Czech subtitles verified |
 | The Abyss 4K CZ Titulky | 30717125 | https://sdilej.cz/26562713/the-abyss-director-s-cut-1989-2160p-cz-sub.mkv | Complete: Czech subtitles verified |
 | King Richard SD | 30720567 | https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4 | Find and add matching Czech subtitles after processing |
+| A Fish Called Wanda 1080p CZ Titulky | 30720594 | https://sdilej.cz/20836545/a-fish-called-wanda-1988-hevc-1080p-cz-dabing.mkv | Extract Czech track from exact source after processing |
