@@ -30803,7 +30803,20 @@
       }
     },
     "11035": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30149612",
+          "reason": "Source detail has no authenticated download link; source_id=30149612",
+          "permanent": false,
+          "attempted_at": "2026-11-02T11:04:14.378527+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30149612",
+        "display_name": "Tora! Tora! Tora! 1080p CZ Dabing",
+        "planned_at": "2026-11-02T11:02:42.311230+00:00"
+      }
     },
     "30736": {
       "attempts": []
@@ -60543,5 +60556,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T11:02:40.438399+00:00"
+  "updated_at": "2026-11-02T11:04:14.378566+00:00"
 }
