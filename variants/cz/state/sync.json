@@ -34402,17 +34402,19 @@
       }
     },
     "22271": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32125145",
+          "target_video_id": "30740041",
+          "permanent": false,
+          "attempted_at": "2026-11-02T19:22:40.597729+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32125145",
         "display_name": "The Rocky Horror Picture Show 4K CZ Dabing",
         "planned_at": "2026-11-02T19:09:10.372448+00:00"
-      },
-      "claim": {
-        "worker_id": "8387a5bd537c4b44bd6a74dee90e82ed-shard-0",
-        "claimed_at": "2026-11-02T19:09:10.563932+00:00",
-        "lease_expires_at": "2026-11-03T01:09:10.563932+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30740041",
       "prepared": {
@@ -65898,5 +65900,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:20:44.453230+00:00"
+  "updated_at": "2026-11-02T19:22:40.597746+00:00"
 }
