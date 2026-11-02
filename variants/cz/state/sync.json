@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-02T22:18:29.250287+00:00"
+        "planned_at": "2026-11-02T22:53:55.075952+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "a447416288bf4835829673c5b49b9bee-shard-0",
+        "claimed_at": "2026-11-02T22:53:55.297610+00:00",
+        "lease_expires_at": "2026-11-03T04:53:55.297610+00:00",
+        "run_id": "41509256577"
       }
     },
     "29922": {
@@ -36867,17 +36873,19 @@
       }
     },
     "35068": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34210184",
+          "target_video_id": "30743983",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:54:14.374571+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34210184",
         "display_name": "Body Heat 4K CZ Dabing",
         "planned_at": "2026-11-02T22:46:54.536740+00:00"
-      },
-      "claim": {
-        "worker_id": "7b85886e15f8496fbda746d0c92e9ec6-shard-0",
-        "claimed_at": "2026-11-02T22:46:54.656300+00:00",
-        "lease_expires_at": "2026-11-03T04:46:54.656300+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743983",
       "prepared": {
@@ -36915,7 +36923,7 @@
       "last_plan": {
         "source_id": "32343286",
         "display_name": "Monsieur Klein (Mr. Klein) SD CZ Dabing",
-        "planned_at": "2026-11-02T22:53:52.169843+00:00"
+        "planned_at": "2026-11-02T22:53:55.163556+00:00"
       }
     },
     "23173": {
@@ -68606,5 +68614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:53:53.079255+00:00"
+  "updated_at": "2026-11-02T22:54:14.374589+00:00"
 }
