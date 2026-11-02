@@ -26493,17 +26493,19 @@
       "attempts": []
     },
     "988": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29047889",
+          "target_video_id": "30712062",
+          "permanent": false,
+          "attempted_at": "2026-11-02T01:29:08.504966+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29047889",
         "display_name": "The Illusionist (2006) 1080p CZ Dabing",
         "planned_at": "2026-11-02T01:24:02.571452+00:00"
-      },
-      "claim": {
-        "worker_id": "4624efb1d60b4e89bed2449ad4f9ee9d-shard-0",
-        "claimed_at": "2026-11-02T01:24:02.653040+00:00",
-        "lease_expires_at": "2026-11-02T07:24:02.653040+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30712062",
       "prepared": {
@@ -54370,5 +54372,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T01:27:13.907036+00:00"
+  "updated_at": "2026-11-02T01:29:08.504985+00:00"
 }
