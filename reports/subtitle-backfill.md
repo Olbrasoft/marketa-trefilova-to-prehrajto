@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T09:05:00.056791+00:00
+Poslední aktualizace (UTC): 2026-11-02T09:05:01.907475+00:00
 
 Zkontrolováno videí: 292. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 202, `attached_verified`: 8, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -98,6 +98,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 35. Důvod
 | [The Life of David Gale 1080p CZ Titulky](https://prehraj.to/the-life-of-david-gale-1080p-cz-titulky-mkv/5e6beaa71c804877) (ID 30721346) | [Sdílej 24966073](https://sdilej.cz/24966073/zivot.davida.galea.2003.en.cz.mkv) | target_unavailable | 2026-11-02T07:54:17.264636+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T06:19:33.500322+00:00 |
 | [The Warriors 1080p CZ Titulky](https://prehraj.to/the-warriors-1080p-cz-titulky-mkv/33adb011640ee3a7) (ID 30722061) | [Sdílej 13765482](https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv) | target_unavailable | 2026-11-02T08:44:44.064851+00:00 |
+| [Train Dreams 720p CZ Titulky](https://prehraj.to/train-dreams-720p-cz-titulky-mkv/ca29fd2437535374) (ID 30722369) | [Sdílej 35402890](https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv) | target_unavailable | 2026-11-02T09:05:01.907390+00:00 |
 | [Upgrade 1080p CZ Titulky](https://prehraj.to/upgrade-1080p-cz-titulky-mkv/61aa85554a69d030) (ID 30715573) | [Sdílej 12991788](https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv) | target_unavailable | 2026-11-02T06:20:32.793859+00:00 |
 | [Val 1080p CZ Titulky](https://prehraj.to/val-1080p-cz-titulky-mp4/8968bbc5a9668d0a) (ID 30713783) | [Sdílej 35179337](https://sdilej.cz/35179337/val-2021-cz-titulky.mp4) | target_unavailable | 2026-11-02T06:20:04.243026+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T06:19:26.466413+00:00 |
