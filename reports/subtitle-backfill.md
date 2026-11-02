@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T16:19:52.704128+00:00
+Poslední aktualizace (UTC): 2026-11-02T16:19:56.289549+00:00
 
 Zkontrolováno videí: 301. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 202, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 40, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 203, `attached_verified`: 9, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 39, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -107,7 +107,6 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 | [The Tenant (1976) 1080p CZ Titulky](https://prehraj.to/the-tenant-1976-1080p-cz-titulky-mkv/b0018beec69c3105) (ID 30735788) | [Sdílej 35056653](https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv) | target_unavailable | 2026-11-02T16:05:21.849561+00:00 |
 | [The Warriors 1080p CZ Titulky](https://prehraj.to/the-warriors-1080p-cz-titulky-mkv/33adb011640ee3a7) (ID 30722061) | [Sdílej 13765482](https://sdilej.cz/13765482/valecnici-warriors-1979-1080p-cz-titl.mkv) | target_unavailable | 2026-11-02T08:44:44.064851+00:00 |
 | [Train Dreams 720p CZ Titulky](https://prehraj.to/train-dreams-720p-cz-titulky-mkv/ca29fd2437535374) (ID 30722369) | [Sdílej 35402890](https://sdilej.cz/35402890/train.dreams.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-cz.sub.mkv) | target_unavailable | 2026-11-02T09:05:01.907390+00:00 |
-| [Upgrade 1080p CZ Titulky](https://prehraj.to/upgrade-1080p-cz-titulky-mkv/61aa85554a69d030) (ID 30715573) | [Sdílej 12991788](https://sdilej.cz/12991788/upgrade-scifi-2018-ab-cz-titl..mkv) | target_unavailable | 2026-11-02T06:20:32.793859+00:00 |
 | [Victoria 1080p CZ Titulky](https://prehraj.to/victoria-1080p-cz-titulky-mkv/0c712c1d442c157a) (ID 30731842) | [Sdílej 32445048](https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T13:03:17.455391+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T16:16:32.494518+00:00 |
 
