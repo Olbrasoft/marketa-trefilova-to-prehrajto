@@ -273,3 +273,4 @@ Attach subtitles only after target processing has finished.
 | Deadpool & Wolverine 4K CZ Titulky | 30708571 | https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv | Extract Czech track from exact source after processing |
 | Love Actually 4K CZ Titulky | 30709925 | https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv | Extract Czech track from exact source after processing |
 | Sinners 4K CZ Titulky | 30710776 | https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv | Extract Czech track from exact source after processing |
+| Eyes Wide Shut 1080p CZ Titulky | 30711541 | https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv | Extract Czech track from exact source after processing |
