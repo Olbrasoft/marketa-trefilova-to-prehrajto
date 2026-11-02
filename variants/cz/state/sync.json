@@ -30168,17 +30168,19 @@
       "attempts": []
     },
     "19720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11003551",
+          "target_video_id": "30724879",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:25:20.132905+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11003551",
         "display_name": "A Royal Affair (En kongelig affære) SD CZ Dabing",
         "planned_at": "2026-11-02T10:23:03.291109+00:00"
-      },
-      "claim": {
-        "worker_id": "670780f696d74592a075b4d480fad0c5-shard-0",
-        "claimed_at": "2026-11-02T10:23:03.435292+00:00",
-        "lease_expires_at": "2026-11-02T16:23:03.435292+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30724879",
       "prepared": {
@@ -60084,5 +60086,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:25:16.070890+00:00"
+  "updated_at": "2026-11-02T10:25:20.132923+00:00"
 }
