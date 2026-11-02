@@ -36140,17 +36140,19 @@
       }
     },
     "18431": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34488272",
+          "target_video_id": "30743158",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:04:35.732896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34488272",
         "display_name": "Calvary 1080p CZ Dabing",
         "planned_at": "2026-11-02T22:01:42.802446+00:00"
-      },
-      "claim": {
-        "worker_id": "dd93649ff8734ba5a2496c06687a4f93-shard-0",
-        "claimed_at": "2026-11-02T22:01:42.946084+00:00",
-        "lease_expires_at": "2026-11-03T04:01:42.946084+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743158",
       "prepared": {
@@ -67737,5 +67739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:01:46.969349+00:00"
+  "updated_at": "2026-11-02T22:04:35.732914+00:00"
 }
