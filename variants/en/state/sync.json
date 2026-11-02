@@ -16019,17 +16019,19 @@
       "attempts": []
     },
     "868": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29910483",
+          "target_video_id": "30743095",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:58:53.500354+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29910483",
         "display_name": "Young Woman and the Sea 1080p CZ Titulky",
         "planned_at": "2026-11-02T21:55:46.656474+00:00"
-      },
-      "claim": {
-        "worker_id": "ee421e2f33a54aada0bdc136d4645646-shard-0",
-        "claimed_at": "2026-11-02T21:55:46.693195+00:00",
-        "lease_expires_at": "2026-11-03T03:55:46.693195+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743095",
       "prepared": {
@@ -48252,5 +48254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:55:49.734113+00:00"
+  "updated_at": "2026-11-02T21:58:53.500374+00:00"
 }
