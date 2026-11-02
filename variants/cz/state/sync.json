@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-02T04:57:47.458019+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-02T05:28:42.774335+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-02T06:00:49.943204+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-02T07:15:35.725715+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "6f36a805aaee4a23b207cd05bd14336e-shard-0",
-        "claimed_at": "2026-11-02T07:15:33.034080+00:00",
-        "lease_expires_at": "2026-11-02T13:15:33.034080+00:00",
-        "run_id": "41401248142"
       }
     },
     "229": {
@@ -8032,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-02T06:00:51.328159+00:00"
+        "planned_at": "2026-11-02T07:15:34.961139+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8040,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "910267eee099454b84b8c101a1ecd29b-shard-0",
+        "claimed_at": "2026-11-02T07:15:35.196155+00:00",
+        "lease_expires_at": "2026-11-02T13:15:35.196155+00:00",
+        "run_id": "41401248142"
       }
     },
     "10690": {
@@ -28553,7 +28553,7 @@
       "last_plan": {
         "source_id": "32468284",
         "display_name": "Ip Man 2 (葉問2) 4K CZ Dabing",
-        "planned_at": "2026-11-02T07:15:32.895251+00:00"
+        "planned_at": "2026-11-02T07:15:35.056167+00:00"
       }
     },
     "21663": {
@@ -57644,5 +57644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T07:15:33.503511+00:00"
+  "updated_at": "2026-11-02T07:15:35.725734+00:00"
 }
