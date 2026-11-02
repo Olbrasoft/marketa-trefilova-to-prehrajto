@@ -15182,17 +15182,19 @@
       "attempts": []
     },
     "37525": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34864644",
+          "target_video_id": "30735713",
+          "permanent": false,
+          "attempted_at": "2026-11-02T16:31:29.155804+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34864644",
         "display_name": "The Invite 4K CZ Titulky",
         "planned_at": "2026-11-02T15:54:54.910455+00:00"
-      },
-      "claim": {
-        "worker_id": "8fcfc91f59ae4c9a96cea63555d0529a-shard-0",
-        "claimed_at": "2026-11-02T15:54:55.066398+00:00",
-        "lease_expires_at": "2026-11-02T21:54:55.066398+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30735713",
       "prepared": {
@@ -46661,5 +46663,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T16:30:27.402520+00:00"
+  "updated_at": "2026-11-02T16:31:29.155849+00:00"
 }
