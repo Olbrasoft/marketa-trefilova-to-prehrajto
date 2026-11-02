@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T19:59:26.526331+00:00
+Poslední aktualizace (UTC): 2026-11-02T19:59:30.034598+00:00
 
 Zkontrolováno videí: 308. Další stránka kontroly: 0.
 
@@ -70,7 +70,7 @@ Kontrol: 11; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 15. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-02T19:58:36.080669+00:00 |
 | [Cure 1080p CZ Titulky](https://prehraj.to/cure-1080p-cz-titulky-mkv/8df011eb0bbe689a) (ID 30739372) | [Sdílej 34063553](https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv) | target_unavailable | 2026-11-02T19:49:56.912871+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-02T19:48:13.270630+00:00 |
-| [Hair 1080p CZ Titulky](https://prehraj.to/hair-1080p-cz-titulky-mkv/2650ea184e92a66d) (ID 30738024) | [Sdílej 29035963](https://sdilej.cz/29035963/vlasy.mkv) | target_unavailable | 2026-11-02T18:48:50.543177+00:00 |
+| [Hair 1080p CZ Titulky](https://prehraj.to/hair-1080p-cz-titulky-mkv/2650ea184e92a66d) (ID 30738024) | [Sdílej 29035963](https://sdilej.cz/29035963/vlasy.mkv) | target_unavailable | 2026-11-02T19:59:30.034511+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-02T19:58:24.148225+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-02T19:59:14.748277+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-02T19:59:18.045231+00:00 |
