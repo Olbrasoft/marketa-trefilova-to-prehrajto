@@ -271,12 +271,12 @@ Attach subtitles only after target processing has finished.
 | Doctor Strange 1080p CZ Titulky | 30705687 | https://sdilej.cz/35402193/doctor.strange.2016.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Harry Potter and the Chamber of Secrets 4K CZ Titulky | 30706996 | https://sdilej.cz/32925478/harry-potter-a-tajemna-komnata-cz-sk-en-radecek.mkv | Extract Czech track from exact source after processing |
 | Baby Driver 1080p CZ Titulky | 30707542 | https://sdilej.cz/34641510/baby.driver.2017.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
-| Deadpool & Wolverine 4K CZ Titulky | 30708571 | https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv | Extract Czech track from exact source after processing |
-| Love Actually 4K CZ Titulky | 30709925 | https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv | Extract Czech track from exact source after processing |
+| Deadpool & Wolverine 4K CZ Titulky | 30708571 | https://sdilej.cz/29803826/deadpool-a-wolverine-deadpool-wolverine-2024--tt6263850--en-cs-.webdl-2160p.h265-eac3-atmos-5.1.mkv | Complete: Czech subtitles verified |
+| Love Actually 4K CZ Titulky | 30709925 | https://sdilej.cz/35168701/laska-nebeska-2003-h264-4k.mkv | Complete: Czech subtitles verified |
 | Sinners 4K CZ Titulky | 30710776 | https://sdilej.cz/31188853/sinners-2025-2160p-it-web-dl-hybrid-h265-dv-hdr10-ddp-atmos-5.1-english-hone-.mkv | Extract Czech track from exact source after processing |
 | Eyes Wide Shut 1080p CZ Titulky | 30711541 | https://sdilej.cz/29866047/eyes-wide-shut-1999-eyes-wide-shut-159-min-fhd-x265m-10b-5.1-en-.mkv | Extract Czech track from exact source after processing |
 | Moonage Daydream SD CZ Titulky | 30712437 | https://sdilej.cz/29053388/david-bowie-moonage.daydream.2022.720p.web.h264-kdoc-cz-titulky-.mkv | Extract Czech track from exact source after processing |
-| Les Misérables (2012) 1080p CZ Titulky | 30712563 | https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv | Extract Czech track from exact source after processing |
+| Les Misérables (2012) 1080p CZ Titulky | 30712563 | https://sdilej.cz/30727271/les.miserables.2012.1080p.bluray.hevc.10bit.x265-r.i.h.mkv | Complete: Czech subtitles verified |
 | BlacKkKlansman 1080p CZ Titulky | 30713447 | https://sdilej.cz/11006824/blackkklansman-2018-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
 | Killers of the Flower Moon 4K CZ Titulky | 30713681 | https://sdilej.cz/27446866/killers.of.the.flower.moon-2023-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Val 1080p CZ Titulky | 30713783 | https://sdilej.cz/35179337/val-2021-cz-titulky.mp4 | Extract Czech track from exact source after processing |
