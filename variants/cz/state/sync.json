@@ -33017,17 +33017,19 @@
       "attempts": []
     },
     "1069": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32919314",
+          "target_video_id": "30735323",
+          "permanent": false,
+          "attempted_at": "2026-11-02T15:50:06.389551+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32919314",
         "display_name": "Weapons 4K CZ Dabing",
         "planned_at": "2026-11-02T15:32:56.275142+00:00"
-      },
-      "claim": {
-        "worker_id": "edee273aa6b443b9bb4681e17db90e31-shard-0",
-        "claimed_at": "2026-11-02T15:32:56.399341+00:00",
-        "lease_expires_at": "2026-11-02T21:32:56.399341+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30735323",
       "prepared": {
@@ -63684,5 +63686,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T15:48:54.280671+00:00"
+  "updated_at": "2026-11-02T15:50:06.389566+00:00"
 }
