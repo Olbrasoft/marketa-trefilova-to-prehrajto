@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-02T13:19:19.915470+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-02T13:50:40.151782+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-02T14:21:55.685488+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-02T14:54:20.798987+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "e513ac38f0fc46698d1522c8e82cf023-shard-0",
-        "claimed_at": "2026-11-02T14:54:18.122414+00:00",
-        "lease_expires_at": "2026-11-02T20:54:18.122414+00:00",
-        "run_id": "41436275458"
       }
     },
     "52": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-02T14:21:58.088663+00:00"
+        "planned_at": "2026-11-02T14:54:20.026762+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "36613a9ab8eb49138ad823eea9a303dc-shard-0",
+        "claimed_at": "2026-11-02T14:54:20.251543+00:00",
+        "lease_expires_at": "2026-11-02T20:54:20.251543+00:00",
+        "run_id": "41436275458"
       }
     },
     "12843": {
@@ -32614,7 +32614,7 @@
       "last_plan": {
         "source_id": "31222996",
         "display_name": "John Wick: Chapter 2 4K CZ Dabing",
-        "planned_at": "2026-11-02T14:54:17.991517+00:00"
+        "planned_at": "2026-11-02T14:54:20.124301+00:00"
       }
     },
     "1252": {
@@ -63021,5 +63021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:54:18.604600+00:00"
+  "updated_at": "2026-11-02T14:54:20.799005+00:00"
 }
