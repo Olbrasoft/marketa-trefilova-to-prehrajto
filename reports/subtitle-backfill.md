@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T21:38:49.731266+00:00
+Poslední aktualizace (UTC): 2026-11-02T21:38:51.629446+00:00
 
 Zkontrolováno videí: 311. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 226, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 22, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 226, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 23, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -92,6 +92,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | [Victoria 1080p CZ Titulky](https://prehraj.to/victoria-1080p-cz-titulky-mkv/0c712c1d442c157a) (ID 30731842) | [Sdílej 32445048](https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T19:49:35.757892+00:00 |
 | [Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky](https://prehraj.to/wallace-and-gromit-vengeance-most-fowl-wallace-gromit-vengeance-most-fowl-1080p-cz-titulky-mkv/53d49c0924afc741) (ID 30738340) | [Sdílej 30394661](https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T19:59:33.474150+00:00 |
 | [Waves 720p CZ Titulky](https://prehraj.to/waves-720p-cz-titulky-mkv/fefadfe33caf5373) (ID 30739690) | [Sdílej 21075601](https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv) | target_unavailable | 2026-11-02T20:08:00.813286+00:00 |
+| [Wuthering Heights (1939) 1080p CZ Titulky](https://prehraj.to/wuthering-heights-1939-1080p-cz-titulky-mkv/7c53c4ff7968a72b) (ID 30742707) | [Sdílej 34936247](https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv) | target_unavailable | 2026-11-02T21:38:51.629366+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-02T19:58:32.529685+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
