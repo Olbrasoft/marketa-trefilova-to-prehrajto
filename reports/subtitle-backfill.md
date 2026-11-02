@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-02T02:28:17.937095+00:00
+Poslední aktualizace (UTC): 2026-11-02T02:28:21.470838+00:00
 
 Zkontrolováno videí: 276. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 152, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 69, `upload_unconfirmed`: 3
+Stavy: `already_has_czech`: 153, `attached_verified`: 7, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 68, `upload_unconfirmed`: 3
 
 ## Poslední dávka
 
@@ -103,7 +103,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-01T06:52:36.376164+00:00 |
 | [Only the Brave SD CZ Titulky](https://prehraj.to/only-the-brave-sd-cz-titulky-mkv/82fcc9106bf29184) (ID 30697852) | [Sdílej 8588496](https://sdilej.cz/8588496/only-the-brave-2017-titulky.cz.mkv) | target_unavailable | 2026-11-01T14:56:31.454285+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T02:27:46.456088+00:00 |
-| [Prisoners 1080p CZ Titulky](https://prehraj.to/prisoners-1080p-cz-titulky-mkv/35c13d7a16fbe4f8) (ID 30677653) | [Sdílej 21302909](https://sdilej.cz/21302909/zmizeni.mkv) | target_unavailable | 2026-11-01T06:52:07.148921+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | target_unavailable | 2026-11-01T16:08:05.929343+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-02T02:28:05.404120+00:00 |
 | [Ricky Gervais: Humanity 1080p CZ Titulky](https://prehraj.to/ricky-gervais-humanity-1080p-cz-titulky-mkv/c3d11d6c39a9ef0b) (ID 30704846) | [Sdílej 29927079](https://sdilej.cz/29927079/ricky-gervais-humanity-komedie-2018.1080p.x264.s.cz.titulky..mkv) | target_unavailable | 2026-11-01T19:31:30.361252+00:00 |
