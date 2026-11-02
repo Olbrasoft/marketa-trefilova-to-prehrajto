@@ -26166,17 +26166,19 @@
       }
     },
     "877": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28299354",
+          "target_video_id": "30710787",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:16:07.899083+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28299354",
         "display_name": "Gangs of New York 1080p CZ Dabing",
         "planned_at": "2026-11-02T00:07:15.183771+00:00"
-      },
-      "claim": {
-        "worker_id": "87df191a08da402e896251d676c57e99-shard-0",
-        "claimed_at": "2026-11-02T00:07:15.276410+00:00",
-        "lease_expires_at": "2026-11-02T06:07:15.276410+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30710787",
       "prepared": {
@@ -53812,5 +53814,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:07:18.472004+00:00"
+  "updated_at": "2026-11-02T00:16:07.899097+00:00"
 }
