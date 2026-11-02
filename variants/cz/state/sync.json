@@ -35759,17 +35759,19 @@
       }
     },
     "10749": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34915851",
+          "target_video_id": "30742516",
+          "permanent": false,
+          "attempted_at": "2026-11-02T21:24:28.098261+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34915851",
         "display_name": "The Man Who Knew Too Much 1080p CZ Dabing",
         "planned_at": "2026-11-02T21:18:46.593089+00:00"
-      },
-      "claim": {
-        "worker_id": "9f6052fff3fb4df29809e7645baa3160-shard-0",
-        "claimed_at": "2026-11-02T21:18:46.736172+00:00",
-        "lease_expires_at": "2026-11-03T03:18:46.736172+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30742516",
       "prepared": {
@@ -67422,5 +67424,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:21:51.471700+00:00"
+  "updated_at": "2026-11-02T21:24:28.098283+00:00"
 }
