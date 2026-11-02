@@ -36101,17 +36101,19 @@
       }
     },
     "22067": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28666723",
+          "target_video_id": "30743140",
+          "permanent": false,
+          "attempted_at": "2026-11-02T22:01:36.616320+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28666723",
         "display_name": "Straw Dogs (1971) SD CZ Dabing",
         "planned_at": "2026-11-02T21:59:44.610002+00:00"
-      },
-      "claim": {
-        "worker_id": "24785ce7be5c4f3f885d3112d337c9af-shard-0",
-        "claimed_at": "2026-11-02T21:59:44.721481+00:00",
-        "lease_expires_at": "2026-11-03T03:59:44.721481+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30743140",
       "prepared": {
@@ -67704,5 +67706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:59:47.941606+00:00"
+  "updated_at": "2026-11-02T22:01:36.616337+00:00"
 }
