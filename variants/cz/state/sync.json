@@ -8532,7 +8532,7 @@
       "last_plan": {
         "source_id": "21842659",
         "display_name": "Song of the Sea 1080p CZ Dabing",
-        "planned_at": "2026-11-02T10:04:09.269535+00:00"
+        "planned_at": "2026-11-02T10:36:02.784269+00:00"
       },
       "previous_target_id": "30631275",
       "prepared": {
@@ -8540,17 +8540,16 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
+      },
+      "claim": {
+        "worker_id": "134ed96383f846a88fc2ed206bb3bdb0-shard-0",
+        "claimed_at": "2026-11-02T10:36:03.023663+00:00",
+        "lease_expires_at": "2026-11-02T16:36:03.023663+00:00",
+        "run_id": "41401248142"
       }
     },
     "270": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
-          "attempted_at": "2026-11-02T08:56:22.303785+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "17777440",
@@ -8564,6 +8563,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-02T10:04:09.200932+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:36:03.127986+00:00"
         }
       ],
       "last_plan": {
@@ -8577,12 +8583,6 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
-      },
-      "claim": {
-        "worker_id": "482d2bab55784bc9b1e21321aa2d7ada-shard-0",
-        "claimed_at": "2026-11-02T10:36:01.259844+00:00",
-        "lease_expires_at": "2026-11-02T16:36:01.259844+00:00",
-        "run_id": "41401248142"
       }
     },
     "21873": {
@@ -30396,7 +30396,7 @@
       "last_plan": {
         "source_id": "34530630",
         "display_name": "Police Story (警察故事) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T10:36:01.076433+00:00"
+        "planned_at": "2026-11-02T10:36:02.884107+00:00"
       }
     },
     "22267": {
@@ -60197,5 +60197,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:36:01.536670+00:00"
+  "updated_at": "2026-11-02T10:36:03.128007+00:00"
 }
