@@ -27025,17 +27025,19 @@
       }
     },
     "865": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29719575",
+          "target_video_id": "30714314",
+          "permanent": false,
+          "attempted_at": "2026-11-02T02:57:01.616842+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29719575",
         "display_name": "Inside Out 2 4K CZ Dabing",
         "planned_at": "2026-11-02T02:46:46.688790+00:00"
-      },
-      "claim": {
-        "worker_id": "70f35b3c66de4b77b04449535a6170bb-shard-0",
-        "claimed_at": "2026-11-02T02:46:46.848157+00:00",
-        "lease_expires_at": "2026-11-02T08:46:46.848157+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30714314",
       "prepared": {
@@ -55304,5 +55306,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T02:50:19.853061+00:00"
+  "updated_at": "2026-11-02T02:57:01.616857+00:00"
 }
