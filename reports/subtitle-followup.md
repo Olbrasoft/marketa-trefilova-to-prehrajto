@@ -252,7 +252,7 @@ Attach subtitles only after target processing has finished.
 | West Side Story (1961) 1080p CZ Titulky | 30695040 | https://sdilej.cz/34917405/west.side.story.1961.1080p.bluray.ddp.7.1.x265-edge2020.mkv | Complete: Czech subtitles verified |
 | Dark Waters 1080p CZ Titulky | 30695103 | https://sdilej.cz/18607027/dark.waters.2019.1080p.bluray.dd.5.1.h264-titulky-cz-sk-eng.mkv | Complete: Czech subtitles verified |
 | Ein Lied von Liebe und Tod (Gloomy Sunday) 1080p CZ Titulky | 30695912 | https://sdilej.cz/34622854/gloomy.sunday.1999.aka.ein.lied.von.liebe.und.tod.1080p.bluray.10bit.av1.opus.5.1.multi.subs.rfranklin.mkv | Complete: Czech subtitles verified |
-| The Social Dilemma 1080p CZ Titulky | 30696907 | https://sdilej.cz/30672538/the-social-dilemma-2020-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
+| The Social Dilemma 1080p CZ Titulky | 30696907 | https://sdilej.cz/30672538/the-social-dilemma-2020-cz-titulky-1080p.mkv | Complete: Czech subtitles verified |
 | Only the Brave SD CZ Titulky | 30697852 | https://sdilej.cz/8588496/only-the-brave-2017-titulky.cz.mkv | Extract Czech track from exact source after processing |
 | The Station Agent 1080p CZ Titulky | 30699097 | https://sdilej.cz/33555723/the-station-agent-2003-1080p-web-dl-x265-10bit-aac-5.1-afm72-.mkv | Extract Czech track from exact source after processing |
 | Transformers One 1080p CZ Titulky | 30699593 | https://sdilej.cz/30039022/transformers.one.web-dl.en.5.1.titulky.cz.2024.1080p.mkv | Extract Czech track from exact source after processing |
