@@ -26197,17 +26197,19 @@
       }
     },
     "867": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28201044",
+          "target_video_id": "30710931",
+          "permanent": false,
+          "attempted_at": "2026-11-02T00:22:55.862784+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28201044",
         "display_name": "Scott Pilgrim vs. the World 1080p CZ Dabing",
         "planned_at": "2026-11-02T00:16:11.951605+00:00"
-      },
-      "claim": {
-        "worker_id": "1a5d2a3fb20b46a0ac4014fa17ac8ebc-shard-0",
-        "claimed_at": "2026-11-02T00:16:12.037495+00:00",
-        "lease_expires_at": "2026-11-02T06:16:12.037495+00:00",
-        "run_id": "41351617669"
       },
       "previous_target_id": "30710931",
       "prepared": {
@@ -53858,5 +53860,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T00:20:32.571965+00:00"
+  "updated_at": "2026-11-02T00:22:55.862803+00:00"
 }
