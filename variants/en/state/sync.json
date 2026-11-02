@@ -14235,11 +14235,19 @@
       "attempts": []
     },
     "906": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "18887803",
+          "reason": "Request failed for https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-02T05:44:48.250335+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18887803",
         "display_name": "King Richard SD",
-        "planned_at": "2026-11-02T05:43:59.739343+00:00"
+        "planned_at": "2026-11-02T05:44:02.272300+00:00"
       }
     },
     "24845": {
@@ -43161,5 +43169,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T05:43:59.739357+00:00"
+  "updated_at": "2026-11-02T05:44:48.250353+00:00"
 }
