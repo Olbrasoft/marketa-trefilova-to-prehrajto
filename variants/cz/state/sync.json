@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-02T11:46:09.814473+00:00"
+        "planned_at": "2026-11-02T12:17:35.465734+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "cafd04b9de674499a4d155589ee29671-shard-0",
+        "claimed_at": "2026-11-02T12:17:35.682601+00:00",
+        "lease_expires_at": "2026-11-02T18:17:35.682601+00:00",
+        "run_id": "41436275458"
       }
     },
     "29922": {
@@ -31231,17 +31237,19 @@
       "attempts": []
     },
     "909": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30817922",
+          "target_video_id": "30730640",
+          "permanent": false,
+          "attempted_at": "2026-11-02T12:17:54.197868+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30817922",
         "display_name": "Evangelion: 1.0 You Are (Not) Alone (ヱヴァンゲリヲン新劇場版：序) 720p CZ Dabing",
         "planned_at": "2026-11-02T12:14:29.364200+00:00"
-      },
-      "claim": {
-        "worker_id": "da5e399935a74fd0b213275f1670fce8-shard-0",
-        "claimed_at": "2026-11-02T12:14:29.492262+00:00",
-        "lease_expires_at": "2026-11-02T18:14:29.492262+00:00",
-        "run_id": "41436275458"
       },
       "previous_target_id": "30730640",
       "prepared": {
@@ -31256,7 +31264,7 @@
       "last_plan": {
         "source_id": "34095213",
         "display_name": "You Don't Know Jack 1080p CZ Dabing",
-        "planned_at": "2026-11-02T12:17:32.933656+00:00"
+        "planned_at": "2026-11-02T12:17:35.560332+00:00"
       }
     },
     "21683": {
@@ -61168,5 +61176,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T12:17:34.375326+00:00"
+  "updated_at": "2026-11-02T12:17:54.197894+00:00"
 }
