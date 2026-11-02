@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-02T18:36:07.955401+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-02T19:08:14.703326+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-02T19:43:57.099075+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-02T20:14:56.433388+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "40cbed6594334f76aa0214fa95d86e0b-shard-0",
-        "claimed_at": "2026-11-02T20:14:53.416778+00:00",
-        "lease_expires_at": "2026-11-03T02:14:53.416778+00:00",
-        "run_id": "41509256577"
       }
     },
     "108": {
@@ -3124,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-02T19:43:59.210202+00:00"
+        "planned_at": "2026-11-02T20:14:55.616491+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3132,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "e825966dbed6441197ad7b15652a0dca-shard-0",
+        "claimed_at": "2026-11-02T20:14:55.694490+00:00",
+        "lease_expires_at": "2026-11-03T02:14:55.694490+00:00",
+        "run_id": "41509256577"
       }
     },
     "21312": {
@@ -47751,5 +47751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T20:14:53.805846+00:00"
+  "updated_at": "2026-11-02T20:14:56.433410+00:00"
 }
