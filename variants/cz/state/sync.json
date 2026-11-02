@@ -30001,17 +30001,19 @@
       "attempts": []
     },
     "11752": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33770176",
+          "target_video_id": "30724669",
+          "permanent": false,
+          "attempted_at": "2026-11-02T10:16:20.153771+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33770176",
         "display_name": "The Big Blue (Le Grand Bleu) 1080p CZ Dabing",
         "planned_at": "2026-11-02T10:08:00.697519+00:00"
-      },
-      "claim": {
-        "worker_id": "439bf1d797514763829261b40d510415-shard-0",
-        "claimed_at": "2026-11-02T10:08:00.840405+00:00",
-        "lease_expires_at": "2026-11-02T16:08:00.840405+00:00",
-        "run_id": "41401248142"
       },
       "previous_target_id": "30724669",
       "prepared": {
@@ -59729,5 +59731,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T10:15:33.763955+00:00"
+  "updated_at": "2026-11-02T10:16:20.153789+00:00"
 }
