@@ -37640,17 +37640,19 @@
       }
     },
     "11054": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33684547",
+          "target_video_id": "30744879",
+          "permanent": false,
+          "attempted_at": "2026-11-02T23:38:25.741843+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33684547",
         "display_name": "They Call Me Trinity (Lo chiamavano Trinità...) 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:35:02.988940+00:00"
-      },
-      "claim": {
-        "worker_id": "03c1e4d3474846519299cf780cddf6f7-shard-0",
-        "claimed_at": "2026-11-02T23:35:03.122667+00:00",
-        "lease_expires_at": "2026-11-03T05:35:03.122667+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30744879",
       "prepared": {
@@ -69475,5 +69477,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:38:23.328927+00:00"
+  "updated_at": "2026-11-02T23:38:25.741873+00:00"
 }
