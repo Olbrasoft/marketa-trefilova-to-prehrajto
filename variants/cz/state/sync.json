@@ -34556,17 +34556,19 @@
       }
     },
     "1258": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34389501",
+          "target_video_id": "30740456",
+          "permanent": false,
+          "attempted_at": "2026-11-02T19:33:27.812195+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34389501",
         "display_name": "The Orphanage (El orfanato) 1080p CZ Dabing",
         "planned_at": "2026-11-02T19:29:02.127120+00:00"
-      },
-      "claim": {
-        "worker_id": "603959b62dda489caa4cfe5d196c3b05-shard-0",
-        "claimed_at": "2026-11-02T19:29:02.317467+00:00",
-        "lease_expires_at": "2026-11-03T01:29:02.317467+00:00",
-        "run_id": "41471188833"
       },
       "previous_target_id": "30740456",
       "prepared": {
@@ -66031,5 +66033,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T19:32:18.353595+00:00"
+  "updated_at": "2026-11-02T19:33:27.812211+00:00"
 }
