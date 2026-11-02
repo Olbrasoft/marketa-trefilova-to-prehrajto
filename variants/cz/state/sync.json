@@ -27107,17 +27107,19 @@
       }
     },
     "910": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-02T03:13:18.536240+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
         "planned_at": "2026-11-02T02:58:34.758575+00:00"
-      },
-      "claim": {
-        "worker_id": "807903ce41324be485ff760e56fa5724-shard-0",
-        "claimed_at": "2026-11-02T02:58:34.945289+00:00",
-        "lease_expires_at": "2026-11-02T08:58:34.945289+00:00",
-        "run_id": "41372098637"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -27132,7 +27134,13 @@
       "last_plan": {
         "source_id": "33994929",
         "display_name": "Sleepers 4K CZ Dabing",
-        "planned_at": "2026-11-02T03:11:52.369077+00:00"
+        "planned_at": "2026-11-02T03:12:51.041014+00:00"
+      },
+      "claim": {
+        "worker_id": "aec18fe943014d61bb84f040376d0093-shard-0",
+        "claimed_at": "2026-11-02T03:12:51.248795+00:00",
+        "lease_expires_at": "2026-11-02T09:12:51.248795+00:00",
+        "run_id": "41372098637"
       }
     },
     "13489": {
@@ -55367,5 +55375,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T03:11:52.369094+00:00"
+  "updated_at": "2026-11-02T03:13:18.536256+00:00"
 }
