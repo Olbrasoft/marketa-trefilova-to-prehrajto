@@ -45921,17 +45921,19 @@
       "attempts": []
     },
     "1302": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34355147",
+          "target_video_id": "30770017",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:54:32.988419+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355147",
         "display_name": "Are You There God? It's Me, Margaret (Are You There God? It's Me, Margaret.) 1080p CZ Dabing",
         "planned_at": "2026-11-03T17:44:37.647218+00:00"
-      },
-      "claim": {
-        "worker_id": "10cebae46e954358979971bf9af79055-shard-0",
-        "claimed_at": "2026-11-03T17:44:38.028590+00:00",
-        "lease_expires_at": "2026-11-03T23:44:38.028590+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30770017",
       "prepared": {
@@ -81094,5 +81096,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:53:58.872854+00:00"
+  "updated_at": "2026-11-03T17:54:32.988437+00:00"
 }
