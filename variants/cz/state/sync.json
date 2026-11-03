@@ -45382,13 +45382,6 @@
           "source_id": "35185753",
           "target_video_id": "30767680",
           "permanent": false,
-          "attempted_at": "2026-11-03T18:47:50.644891+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35185753",
-          "target_video_id": "30767680",
-          "permanent": false,
           "attempted_at": "2026-11-03T19:33:50.183129+00:00"
         },
         {
@@ -45397,6 +45390,13 @@
           "target_video_id": "30767680",
           "permanent": false,
           "attempted_at": "2026-11-03T20:19:17.521254+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35185753",
+          "target_video_id": "30767680",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:57:05.068444+00:00"
         }
       ],
       "last_plan": {
@@ -45882,7 +45882,7 @@
       "last_plan": {
         "source_id": "29488534",
         "display_name": "C'mon C'mon 1080p CZ Dabing",
-        "planned_at": "2026-11-03T20:20:03.193060+00:00"
+        "planned_at": "2026-11-03T20:57:04.093564+00:00"
       },
       "previous_target_id": "30769491",
       "prepared": {
@@ -45890,6 +45890,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-03T17:25:50.946408+00:00",
         "relay_source_id": "29488534"
+      },
+      "claim": {
+        "worker_id": "aad5c1ab12994e48a4030b0e3dd8025a-shard-0",
+        "claimed_at": "2026-11-03T20:57:04.469298+00:00",
+        "lease_expires_at": "2026-11-04T02:57:04.469298+00:00",
+        "run_id": "41693337041"
       }
     },
     "20501": {
@@ -46829,7 +46835,7 @@
       "last_plan": {
         "source_id": "34647730",
         "display_name": "Deadwood: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-03T20:56:56.629706+00:00"
+        "planned_at": "2026-11-03T20:57:04.256866+00:00"
       }
     },
     "1416": {
@@ -82598,5 +82604,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T20:56:56.629724+00:00"
+  "updated_at": "2026-11-03T20:57:05.068466+00:00"
 }
