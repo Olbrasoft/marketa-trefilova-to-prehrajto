@@ -39343,17 +39343,19 @@
       "attempts": []
     },
     "25456": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31218431",
+          "target_video_id": "30746864",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:23:31.913366+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31218431",
         "display_name": "The Secret Life of Words 720p CZ Dabing",
         "planned_at": "2026-11-03T01:16:41.186854+00:00"
-      },
-      "claim": {
-        "worker_id": "c41c1b21609840f3a5d07b35e6215a51-shard-0",
-        "claimed_at": "2026-11-03T01:16:41.396354+00:00",
-        "lease_expires_at": "2026-11-03T07:16:41.396354+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746864",
       "prepared": {
@@ -71286,5 +71288,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:18:31.112001+00:00"
+  "updated_at": "2026-11-03T01:23:31.913379+00:00"
 }
