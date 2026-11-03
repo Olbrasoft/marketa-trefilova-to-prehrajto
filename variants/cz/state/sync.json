@@ -45445,7 +45445,7 @@
       "last_plan": {
         "source_id": "29278461",
         "display_name": "She Said 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:12:24.808805+00:00"
+        "planned_at": "2026-11-03T23:42:56.185798+00:00"
       },
       "previous_target_id": "30767691",
       "prepared": {
@@ -45453,17 +45453,16 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-03T16:25:09.305146+00:00",
         "relay_source_id": "29278461"
+      },
+      "claim": {
+        "worker_id": "b3600f352bf440809fdbe558a0405492-shard-0",
+        "claimed_at": "2026-11-03T23:42:56.389669+00:00",
+        "lease_expires_at": "2026-11-04T05:42:56.389669+00:00",
+        "run_id": "41730144184"
       }
     },
     "22832": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "33747143",
-          "target_video_id": "30767726",
-          "permanent": false,
-          "attempted_at": "2026-11-03T22:04:06.464065+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "33747143",
@@ -45477,6 +45476,13 @@
           "target_video_id": "30767726",
           "permanent": false,
           "attempted_at": "2026-11-03T23:12:23.291698+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33747143",
+          "target_video_id": "30767726",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:42:56.594971+00:00"
         }
       ],
       "last_plan": {
@@ -45490,12 +45496,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-03T16:26:48.543132+00:00",
         "relay_source_id": "33747143"
-      },
-      "claim": {
-        "worker_id": "46410af1313b4c39bf91465db82e2f06-shard-0",
-        "claimed_at": "2026-11-03T23:42:54.735995+00:00",
-        "lease_expires_at": "2026-11-04T05:42:54.735995+00:00",
-        "run_id": "41730144184"
       }
     },
     "12090": {
@@ -48878,7 +48878,7 @@
       "last_plan": {
         "source_id": "29753393",
         "display_name": "Tiger Bay 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:42:54.622280+00:00"
+        "planned_at": "2026-11-03T23:42:56.273739+00:00"
       }
     },
     "20593": {
@@ -84816,5 +84816,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:42:54.736011+00:00"
+  "updated_at": "2026-11-03T23:42:56.594982+00:00"
 }
