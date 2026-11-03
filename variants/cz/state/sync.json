@@ -44708,17 +44708,19 @@
       "attempts": []
     },
     "23080": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32970601",
+          "target_video_id": "30765797",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:30:00.403259+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32970601",
         "display_name": "Steel Magnolias 4K CZ Dabing",
         "planned_at": "2026-11-03T15:21:36.032048+00:00"
-      },
-      "claim": {
-        "worker_id": "92872a2e9579468e8d7e3c7875a43c0e-shard-0",
-        "claimed_at": "2026-11-03T15:21:36.232097+00:00",
-        "lease_expires_at": "2026-11-03T21:21:36.232097+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30765797",
       "prepared": {
@@ -79525,5 +79527,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:29:07.423759+00:00"
+  "updated_at": "2026-11-03T15:30:00.403275+00:00"
 }
