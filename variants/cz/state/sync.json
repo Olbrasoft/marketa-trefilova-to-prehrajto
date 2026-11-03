@@ -40188,17 +40188,19 @@
       }
     },
     "1528": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22352566",
+          "target_video_id": "30749072",
+          "permanent": false,
+          "attempted_at": "2026-11-03T02:53:15.838734+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22352566",
         "display_name": "Dumb and Dumber 1080p CZ Dabing",
         "planned_at": "2026-11-03T02:49:33.307917+00:00"
-      },
-      "claim": {
-        "worker_id": "5fb659ba63b1491284ebfb543c305a4a-shard-0",
-        "claimed_at": "2026-11-03T02:49:33.515019+00:00",
-        "lease_expires_at": "2026-11-03T08:49:33.515019+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30749072",
       "prepared": {
@@ -72235,5 +72237,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:53:14.606337+00:00"
+  "updated_at": "2026-11-03T02:53:15.838752+00:00"
 }
