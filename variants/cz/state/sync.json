@@ -37181,13 +37181,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-03T22:08:02.173083+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-03T22:40:49.234179+00:00"
         },
         {
@@ -37196,6 +37189,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-03T23:12:52.288926+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:43:12.857195+00:00"
         }
       ],
       "last_plan": {
@@ -37209,12 +37209,6 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-02T22:56:31.304569+00:00",
         "relay_source_id": "35376993"
-      },
-      "claim": {
-        "worker_id": "f6bb6644070e4e349c9891aeef5a6eff-shard-0",
-        "claimed_at": "2026-11-03T23:43:10.898619+00:00",
-        "lease_expires_at": "2026-11-04T05:43:10.898619+00:00",
-        "run_id": "41730144184"
       }
     },
     "21768": {
@@ -40976,7 +40970,7 @@
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-03T23:12:54.814696+00:00"
+        "planned_at": "2026-11-03T23:43:12.453545+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -40984,6 +40978,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-03T03:58:27.242114+00:00",
         "relay_source_id": "34826023"
+      },
+      "claim": {
+        "worker_id": "c5f579785e554f739b2e1c39a192637e-shard-0",
+        "claimed_at": "2026-11-03T23:43:12.656910+00:00",
+        "lease_expires_at": "2026-11-04T05:43:12.656910+00:00",
+        "run_id": "41730144184"
       }
     },
     "34337": {
@@ -48878,7 +48878,7 @@
       "last_plan": {
         "source_id": "29753393",
         "display_name": "Tiger Bay 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:43:10.782066+00:00"
+        "planned_at": "2026-11-03T23:43:12.542861+00:00"
       }
     },
     "20593": {
@@ -84816,5 +84816,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:43:11.119257+00:00"
+  "updated_at": "2026-11-03T23:43:12.857206+00:00"
 }
