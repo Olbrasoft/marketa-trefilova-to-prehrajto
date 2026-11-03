@@ -16387,17 +16387,19 @@
       "attempts": []
     },
     "1260": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19161782",
+          "target_video_id": "30746833",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:26:01.310251+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19161782",
         "display_name": "Looper 1080p CZ Titulky",
         "planned_at": "2026-11-03T01:15:38.681355+00:00"
-      },
-      "claim": {
-        "worker_id": "03272f79ea4343af98d9d8710d5ff938-shard-0",
-        "claimed_at": "2026-11-03T01:15:38.751428+00:00",
-        "lease_expires_at": "2026-11-03T07:15:38.751428+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746833",
       "prepared": {
@@ -49472,5 +49474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:23:49.344657+00:00"
+  "updated_at": "2026-11-03T01:26:01.310268+00:00"
 }
