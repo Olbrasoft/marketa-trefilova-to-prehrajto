@@ -41537,17 +41537,19 @@
       }
     },
     "14192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34685886",
+          "target_video_id": "30754582",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:40:39.781552+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34685886",
         "display_name": "Blue Valentine 1080p CZ Dabing",
         "planned_at": "2026-11-03T06:35:50.142533+00:00"
-      },
-      "claim": {
-        "worker_id": "47d1b78d849c44669a005a07be460b46-shard-0",
-        "claimed_at": "2026-11-03T06:35:50.262250+00:00",
-        "lease_expires_at": "2026-11-03T12:35:50.262250+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754582",
       "prepared": {
@@ -74451,5 +74453,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:35:54.131388+00:00"
+  "updated_at": "2026-11-03T06:40:39.781572+00:00"
 }
