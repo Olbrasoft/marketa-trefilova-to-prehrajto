@@ -38165,17 +38165,19 @@
       "attempts": []
     },
     "1093": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32331445",
+          "target_video_id": "30745409",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:10:42.113780+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32331445",
         "display_name": "Ordinary Angels 1080p CZ Dabing",
         "planned_at": "2026-11-03T00:04:23.107755+00:00"
-      },
-      "claim": {
-        "worker_id": "d2f38bcbfacc4ae1991725fea9e169a8-shard-0",
-        "claimed_at": "2026-11-03T00:04:23.229465+00:00",
-        "lease_expires_at": "2026-11-03T06:04:23.229465+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30745409",
       "prepared": {
@@ -69867,5 +69869,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:10:39.265375+00:00"
+  "updated_at": "2026-11-03T00:10:42.113800+00:00"
 }
