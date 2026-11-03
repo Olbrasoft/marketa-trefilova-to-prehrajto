@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-03T00:23:28.348973+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-03T00:53:32.329598+00:00"
         },
         {
@@ -4158,12 +4151,19 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-03T01:25:59.838885+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-03T02:00:38.524573+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T01:25:56.418037+00:00"
+        "planned_at": "2026-11-03T02:00:34.724306+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -39862,7 +39862,13 @@
       "last_plan": {
         "source_id": "32449260",
         "display_name": "Troy 4K CZ Dabing",
-        "planned_at": "2026-11-03T02:00:29.683046+00:00"
+        "planned_at": "2026-11-03T02:00:34.875608+00:00"
+      },
+      "claim": {
+        "worker_id": "f4283b135daf4d4e9aa855c01250be1b-shard-0",
+        "claimed_at": "2026-11-03T02:00:35.264572+00:00",
+        "lease_expires_at": "2026-11-03T08:00:35.264572+00:00",
+        "run_id": "41544835219"
       }
     },
     "1452": {
@@ -39870,7 +39876,7 @@
       "last_plan": {
         "source_id": "31759042",
         "display_name": "Split 4K CZ Dabing",
-        "planned_at": "2026-11-03T01:59:16.129728+00:00"
+        "planned_at": "2026-11-03T02:00:34.966901+00:00"
       }
     },
     "1515": {
@@ -71654,5 +71660,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:00:31.542489+00:00"
+  "updated_at": "2026-11-03T02:00:38.524592+00:00"
 }
