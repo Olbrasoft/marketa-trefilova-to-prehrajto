@@ -41672,17 +41672,19 @@
       }
     },
     "1546": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33163105",
+          "target_video_id": "30754790",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:59:30.687706+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33163105",
         "display_name": "The Next Three Days 1080p CZ Dabing",
         "planned_at": "2026-11-03T06:52:08.274526+00:00"
-      },
-      "claim": {
-        "worker_id": "241937cf34c2494eb78b1ff0dd3b60ad-shard-0",
-        "claimed_at": "2026-11-03T06:52:08.406734+00:00",
-        "lease_expires_at": "2026-11-03T12:52:08.406734+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754790",
       "prepared": {
@@ -74589,5 +74591,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:54:34.773757+00:00"
+  "updated_at": "2026-11-03T06:59:30.687727+00:00"
 }
