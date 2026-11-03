@@ -17285,13 +17285,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-03T18:39:01.595077+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-03T19:23:22.379827+00:00"
         },
         {
@@ -17300,6 +17293,13 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-03T19:56:55.868082+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:28:23.062733+00:00"
         }
       ],
       "last_plan": {
@@ -18862,7 +18862,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:56:54.939805+00:00"
+        "planned_at": "2026-11-03T20:28:22.181417+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18870,6 +18870,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "6ea168bb24004d9fbe88780f426f2b8e-shard-0",
+        "claimed_at": "2026-11-03T20:28:22.808280+00:00",
+        "lease_expires_at": "2026-11-04T02:28:22.808280+00:00",
+        "run_id": "41693337041"
       }
     },
     "29695": {
@@ -46718,6 +46724,12 @@
         "source_id": "34842863",
         "display_name": "My Name is Nobody (Il mio nome è Nessuno) 1080p CZ Dabing",
         "planned_at": "2026-11-03T20:28:18.570144+00:00"
+      },
+      "claim": {
+        "worker_id": "7e8df06b765a4a11aeceee2a80287405-shard-0",
+        "claimed_at": "2026-11-03T20:28:22.077434+00:00",
+        "lease_expires_at": "2026-11-04T02:28:22.077434+00:00",
+        "run_id": "41693337041"
       }
     },
     "11131": {
@@ -46728,7 +46740,7 @@
       "last_plan": {
         "source_id": "18632085",
         "display_name": "Demain tout commence 1080p CZ Dabing",
-        "planned_at": "2026-11-03T20:28:18.651959+00:00"
+        "planned_at": "2026-11-03T20:28:22.333101+00:00"
       }
     },
     "1276": {
@@ -82501,5 +82513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T20:28:18.651976+00:00"
+  "updated_at": "2026-11-03T20:28:23.062755+00:00"
 }
