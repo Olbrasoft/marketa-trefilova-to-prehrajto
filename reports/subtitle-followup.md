@@ -322,3 +322,4 @@ Attach subtitles only after target processing has finished.
 | Ballon 1080p CZ Titulky | 30745387 | https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Spider-Man 1080p CZ Titulky | 30746380 | https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv | Extract Czech track from exact source after processing |
 | Scum 1080p CZ Titulky | 30746417 | https://sdilej.cz/32101301/scum.1979.1080p.bluray.flac.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Looper 1080p CZ Titulky | 30746833 | https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv | Extract Czech track from exact source after processing |
