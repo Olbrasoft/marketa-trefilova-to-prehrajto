@@ -42629,17 +42629,19 @@
       }
     },
     "23913": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34705089",
+          "target_video_id": "30756197",
+          "permanent": false,
+          "attempted_at": "2026-11-03T08:31:06.281141+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34705089",
         "display_name": "The Prince of Egypt 1080p CZ Dabing",
         "planned_at": "2026-11-03T08:27:29.495753+00:00"
-      },
-      "claim": {
-        "worker_id": "689f2ad3d05143a0ab9eaf4667763e35-shard-0",
-        "claimed_at": "2026-11-03T08:27:29.625047+00:00",
-        "lease_expires_at": "2026-11-03T14:27:29.625047+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30756197",
       "prepared": {
@@ -75954,5 +75956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:27:33.396124+00:00"
+  "updated_at": "2026-11-03T08:31:06.281162+00:00"
 }
