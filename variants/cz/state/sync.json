@@ -47310,17 +47310,19 @@
       }
     },
     "1405": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11362465",
+          "target_video_id": "30773793",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:56:11.317516+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11362465",
         "display_name": "The Ultimate Gift 1080p CZ Dabing",
         "planned_at": "2026-11-03T21:52:52.198138+00:00"
-      },
-      "claim": {
-        "worker_id": "0f06610c8833469985e458c09d594711-shard-0",
-        "claimed_at": "2026-11-03T21:52:52.436234+00:00",
-        "lease_expires_at": "2026-11-04T03:52:52.436234+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773793",
       "prepared": {
@@ -83301,5 +83303,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:56:00.860561+00:00"
+  "updated_at": "2026-11-03T21:56:11.317536+00:00"
 }
