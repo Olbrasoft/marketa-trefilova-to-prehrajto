@@ -17208,18 +17208,19 @@
           "reason": "Request failed for https://sdilej.cz/14524461/frekvence.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-03T10:47:43.664114+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14524461",
+          "target_video_id": "30759792",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:03:26.369466+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14524461",
         "display_name": "Frequency 1080p CZ Titulky",
         "planned_at": "2026-11-03T11:18:37.328324+00:00"
-      },
-      "claim": {
-        "worker_id": "81d1b19667c340babd4c912b682c4c55-shard-0",
-        "claimed_at": "2026-11-03T11:18:37.389491+00:00",
-        "lease_expires_at": "2026-11-03T17:18:37.389491+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30759792",
       "prepared": {
@@ -52517,5 +52518,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T11:18:41.058638+00:00"
+  "updated_at": "2026-11-03T12:03:26.369482+00:00"
 }
