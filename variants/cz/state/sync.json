@@ -44877,17 +44877,19 @@
       }
     },
     "24030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28393777",
+          "target_video_id": "30766266",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:44:06.839947+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28393777",
         "display_name": "Thirteen Days 1080p CZ Dabing",
         "planned_at": "2026-11-03T15:37:11.360234+00:00"
-      },
-      "claim": {
-        "worker_id": "a1ced5e610ed49d5b0ec1a6c710bef94-shard-0",
-        "claimed_at": "2026-11-03T15:37:11.579083+00:00",
-        "lease_expires_at": "2026-11-03T21:37:11.579083+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30766266",
       "prepared": {
@@ -79642,5 +79644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:41:25.868958+00:00"
+  "updated_at": "2026-11-03T15:44:06.839962+00:00"
 }
