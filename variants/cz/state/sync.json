@@ -45827,6 +45827,13 @@
           "target_video_id": "30769491",
           "permanent": false,
           "attempted_at": "2026-11-03T17:34:38.649848+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29488534",
+          "target_video_id": "30769491",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:28:52.052166+00:00"
         }
       ],
       "last_plan": {
@@ -45837,7 +45844,7 @@
       "previous_target_id": "30769491",
       "prepared": {
         "target_video_id": "30769491",
-        "size_bytes": 3491262064,
+        "size_bytes": 3500000000,
         "prepared_at": "2026-11-03T17:25:50.946408+00:00",
         "relay_source_id": "29488534"
       }
@@ -46110,7 +46117,7 @@
       "last_plan": {
         "source_id": "22347741",
         "display_name": "Broadcast News SD CZ Dabing",
-        "planned_at": "2026-11-03T18:28:37.610079+00:00"
+        "planned_at": "2026-11-03T18:28:51.421364+00:00"
       }
     },
     "15428": {
@@ -80915,7 +80922,7 @@
       "last_plan": {
         "source_id": "32030448",
         "display_name": "Spider-Man: No Way Home 4K CZ Dabing",
-        "planned_at": "2026-11-03T17:22:59.176865+00:00"
+        "planned_at": "2026-11-03T18:28:51.256713+00:00"
       },
       "previous_target_id": "30769402",
       "prepared": {
@@ -80923,6 +80930,12 @@
         "size_bytes": 6987549987,
         "prepared_at": "2026-11-03T17:23:06.008350+00:00",
         "relay_source_id": "32030448"
+      },
+      "claim": {
+        "worker_id": "788217d667a84e2f90153f421f188cca-shard-0",
+        "claimed_at": "2026-11-03T18:28:51.669949+00:00",
+        "lease_expires_at": "2026-11-04T00:28:51.669949+00:00",
+        "run_id": "41693337041"
       }
     },
     "16844": {
@@ -81425,5 +81438,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:28:37.610100+00:00"
+  "updated_at": "2026-11-03T18:28:52.052189+00:00"
 }
