@@ -14171,13 +14171,6 @@
           "source_id": "19346570",
           "target_video_id": "30715404",
           "permanent": false,
-          "attempted_at": "2026-11-03T06:41:50.346685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19346570",
-          "target_video_id": "30715404",
-          "permanent": false,
           "attempted_at": "2026-11-03T07:12:30.750547+00:00"
         },
         {
@@ -14186,6 +14179,13 @@
           "target_video_id": "30715404",
           "permanent": false,
           "attempted_at": "2026-11-03T07:43:55.296735+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19346570",
+          "target_video_id": "30715404",
+          "permanent": false,
+          "attempted_at": "2026-11-03T08:14:43.014722+00:00"
         }
       ],
       "last_plan": {
@@ -16394,7 +16394,7 @@
       "last_plan": {
         "source_id": "16303284",
         "display_name": "Spider-Man 1080p CZ Titulky",
-        "planned_at": "2026-11-03T07:43:56.773808+00:00"
+        "planned_at": "2026-11-03T08:14:41.997052+00:00"
       },
       "previous_target_id": "30746380",
       "prepared": {
@@ -16402,6 +16402,12 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-11-03T00:51:44.832304+00:00",
         "relay_source_id": "16303284"
+      },
+      "claim": {
+        "worker_id": "817ab2570049407295f07f3dd6a8bb7a-shard-0",
+        "claimed_at": "2026-11-03T08:14:42.090303+00:00",
+        "lease_expires_at": "2026-11-03T14:14:42.090303+00:00",
+        "run_id": "41577832824"
       }
     },
     "22485": {
@@ -51442,5 +51448,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:14:40.329868+00:00"
+  "updated_at": "2026-11-03T08:14:43.014748+00:00"
 }
