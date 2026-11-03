@@ -311,8 +311,8 @@ Attach subtitles only after target processing has finished.
 | One Life 1080p CZ Titulky | 30739164 | https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Cure 1080p CZ Titulky | 30739372 | https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv | Extract Czech track from exact source after processing |
 | Waves 720p CZ Titulky | 30739690 | https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv | Extract Czech track from exact source after processing |
-| And Now for Something Completely Different 1080p CZ Titulky | 30741124 | https://sdilej.cz/24008691/monty-python-a-ted-neco-uplne-jineho-cztit.-h.265-hevc-ntp-.mkv | Extract Czech track from exact source after processing |
-| Wuthering Heights (1939) 1080p CZ Titulky | 30742707 | https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv | Extract Czech track from exact source after processing |
+| And Now for Something Completely Different 1080p CZ Titulky | 30741124 | https://sdilej.cz/24008691/monty-python-a-ted-neco-uplne-jineho-cztit.-h.265-hevc-ntp-.mkv | Complete: Czech subtitles verified |
+| Wuthering Heights (1939) 1080p CZ Titulky | 30742707 | https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv | Complete: Czech subtitles verified |
 | Songs from the Second Floor 1080p CZ Titulky | 30742820 | https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Spy Who Came in from the Cold 1080p CZ Titulky | 30742933 | https://sdilej.cz/33595691/the-spy-who-came-in-from-the-cold-1965-criterion-1080p-bluray-x265-hevc-10bit-aac-2.0-tigole-.mkv | Extract Czech track from exact source after processing |
 | The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky | 30743003 | https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
