@@ -42918,17 +42918,19 @@
       }
     },
     "18305": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30837411",
+          "target_video_id": "30757176",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:16:45.145079+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30837411",
         "display_name": "The Edge of Seventeen 1080p CZ Dabing",
         "planned_at": "2026-11-03T09:12:36.773317+00:00"
-      },
-      "claim": {
-        "worker_id": "93d8f602403c47829fa3752d5f335153-shard-0",
-        "claimed_at": "2026-11-03T09:12:38.252236+00:00",
-        "lease_expires_at": "2026-11-03T15:12:38.252236+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30757176",
       "prepared": {
@@ -76252,5 +76254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:16:33.766816+00:00"
+  "updated_at": "2026-11-03T09:16:45.145101+00:00"
 }
