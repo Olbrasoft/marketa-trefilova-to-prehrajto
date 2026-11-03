@@ -45322,17 +45322,19 @@
       }
     },
     "22832": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33747143",
+          "target_video_id": "30767726",
+          "permanent": false,
+          "attempted_at": "2026-11-03T16:34:57.061413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33747143",
         "display_name": "To Live and Die in L.A. 1080p CZ Dabing",
         "planned_at": "2026-11-03T16:26:44.990989+00:00"
-      },
-      "claim": {
-        "worker_id": "f55ded85e74147b6844b4506770f5864-shard-0",
-        "claimed_at": "2026-11-03T16:26:45.200356+00:00",
-        "lease_expires_at": "2026-11-03T22:26:45.200356+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30767726",
       "prepared": {
@@ -80261,5 +80263,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T16:26:48.543147+00:00"
+  "updated_at": "2026-11-03T16:34:57.061429+00:00"
 }
