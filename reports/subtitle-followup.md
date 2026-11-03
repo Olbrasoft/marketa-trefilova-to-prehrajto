@@ -310,7 +310,7 @@ Attach subtitles only after target processing has finished.
 | Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky | 30738340 | https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | One Life 1080p CZ Titulky | 30739164 | https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Cure 1080p CZ Titulky | 30739372 | https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv | Extract Czech track from exact source after processing |
-| Waves 720p CZ Titulky | 30739690 | https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv | Extract Czech track from exact source after processing |
+| Waves 720p CZ Titulky | 30739690 | https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv | Complete: Czech subtitles verified |
 | And Now for Something Completely Different 1080p CZ Titulky | 30741124 | https://sdilej.cz/24008691/monty-python-a-ted-neco-uplne-jineho-cztit.-h.265-hevc-ntp-.mkv | Complete: Czech subtitles verified |
 | Wuthering Heights (1939) 1080p CZ Titulky | 30742707 | https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv | Complete: Czech subtitles verified |
 | Songs from the Second Floor 1080p CZ Titulky | 30742820 | https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv | Complete: Czech subtitles verified |
