@@ -335,3 +335,4 @@ Attach subtitles only after target processing has finished.
 | Army of Darkness 1080p CZ Titulky | 30755736 | https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Coach Carter 1080p CZ Titulky | 30756369 | https://sdilej.cz/26231457/coach-carter-2005.mkv | Complete: Czech subtitles verified |
 | The Rocky Horror Picture Show 1080p CZ Titulky | 30756513 | https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv | Extract Czech track from exact source after processing |
+| Frequency 1080p CZ Titulky | 30759792 | https://sdilej.cz/14524461/frekvence.mkv | Extract Czech track from exact source after processing |
