@@ -39767,11 +39767,19 @@
       }
     },
     "1415": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32241153",
+          "reason": "Request failed for https://sdilej.cz/32241153/to-2017-1080p-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:50:18.214644+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32241153",
         "display_name": "It 1080p CZ Dabing",
-        "planned_at": "2026-11-03T01:49:28.747419+00:00"
+        "planned_at": "2026-11-03T01:49:31.757346+00:00"
       }
     },
     "1495": {
@@ -71570,5 +71578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:49:30.025366+00:00"
+  "updated_at": "2026-11-03T01:50:18.214663+00:00"
 }
