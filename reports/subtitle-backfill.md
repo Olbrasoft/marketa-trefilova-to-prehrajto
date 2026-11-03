@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T08:48:53.975868+00:00
+Poslední aktualizace (UTC): 2026-11-03T08:48:57.468786+00:00
 
 Zkontrolováno videí: 332. Další stránka kontroly: 0.
 
@@ -69,7 +69,7 @@ Kontrol: 19; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T07:47:45.812785+00:00 |
 | [Anora 4K CZ Titulky](https://prehraj.to/anora-4k-cz-titulky-mkv/9ff154c1166c44e3) (ID 30753012) | [Sdílej 30450437](https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T08:28:15.725636+00:00 |
 | [Army of Darkness 1080p CZ Titulky](https://prehraj.to/army-of-darkness-1080p-cz-titulky-mkv/de829709c7cdc288) (ID 30755736) | [Sdílej 35401994](https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-03T07:57:47.300943+00:00 |
-| [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T07:47:38.748519+00:00 |
+| [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T08:48:57.468605+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T08:38:52.078700+00:00 |
 | [Coach Carter 1080p CZ Titulky](https://prehraj.to/coach-carter-1080p-cz-titulky-mkv/507997b1392fe239) (ID 30756369) | [Sdílej 26231457](https://sdilej.cz/26231457/coach-carter-2005.mkv) | target_unavailable | 2026-11-03T08:48:45.768201+00:00 |
 | [Cure 1080p CZ Titulky](https://prehraj.to/cure-1080p-cz-titulky-mkv/8df011eb0bbe689a) (ID 30739372) | [Sdílej 34063553](https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv) | target_unavailable | 2026-11-03T07:47:52.737836+00:00 |
