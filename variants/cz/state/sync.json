@@ -39994,17 +39994,19 @@
       "attempts": []
     },
     "1335": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26484933",
+          "target_video_id": "30748156",
+          "permanent": false,
+          "attempted_at": "2026-11-03T02:21:41.278487+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26484933",
         "display_name": "Shang-Chi and the Legend of the Ten Rings 1080p CZ Dabing",
         "planned_at": "2026-11-03T02:16:38.552899+00:00"
-      },
-      "claim": {
-        "worker_id": "3954e93a436a4b2383c64ffdc11ce96d-shard-0",
-        "claimed_at": "2026-11-03T02:16:38.775022+00:00",
-        "lease_expires_at": "2026-11-03T08:16:38.775022+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30748156",
       "prepared": {
@@ -71777,5 +71779,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:16:42.686175+00:00"
+  "updated_at": "2026-11-03T02:21:41.278504+00:00"
 }
