@@ -46243,17 +46243,19 @@
       "attempts": []
     },
     "21697": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31774038",
+          "target_video_id": "30771203",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:58:04.506557+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31774038",
         "display_name": "Jason and the Argonauts 1080p CZ Dabing",
         "planned_at": "2026-11-03T18:53:55.801630+00:00"
-      },
-      "claim": {
-        "worker_id": "136d9938d9e546e1aaa7b6a08d89cf2b-shard-0",
-        "claimed_at": "2026-11-03T18:53:56.114474+00:00",
-        "lease_expires_at": "2026-11-04T00:53:56.114474+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30771203",
       "prepared": {
@@ -81617,5 +81619,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:57:51.727345+00:00"
+  "updated_at": "2026-11-03T18:58:04.506579+00:00"
 }
