@@ -47222,17 +47222,19 @@
       }
     },
     "12549": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31754175",
+          "target_video_id": "30773766",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:52:39.968969+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31754175",
         "display_name": "Angela's Ashes SD CZ Dabing",
         "planned_at": "2026-11-03T21:50:55.155534+00:00"
-      },
-      "claim": {
-        "worker_id": "b2e0f8a82d28457784aa06736c76f257-shard-0",
-        "claimed_at": "2026-11-03T21:50:55.367529+00:00",
-        "lease_expires_at": "2026-11-04T03:50:55.367529+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773766",
       "prepared": {
@@ -83255,5 +83257,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:52:33.248119+00:00"
+  "updated_at": "2026-11-03T21:52:39.968991+00:00"
 }
