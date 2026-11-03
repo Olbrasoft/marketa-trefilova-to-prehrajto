@@ -40478,17 +40478,19 @@
       }
     },
     "1555": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31312806",
+          "target_video_id": "30750654",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:37:57.124303+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31312806",
         "display_name": "The Simpsons Movie 1080p CZ Dabing",
         "planned_at": "2026-11-03T03:35:10.561064+00:00"
-      },
-      "claim": {
-        "worker_id": "cd26cb1affb849c78847800e98f7c1ee-shard-0",
-        "claimed_at": "2026-11-03T03:35:10.749880+00:00",
-        "lease_expires_at": "2026-11-03T09:35:10.749880+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30750654",
       "prepared": {
@@ -72768,5 +72770,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:35:30.997117+00:00"
+  "updated_at": "2026-11-03T03:37:57.124338+00:00"
 }
