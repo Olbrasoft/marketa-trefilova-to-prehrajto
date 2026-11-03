@@ -41254,17 +41254,19 @@
       }
     },
     "1285": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32448634",
+          "target_video_id": "30753796",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:06:29.169716+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32448634",
         "display_name": "Wicked 4K CZ Dabing",
         "planned_at": "2026-11-03T05:54:55.193727+00:00"
-      },
-      "claim": {
-        "worker_id": "d2ba1fefef0645798776525dffbe827d-shard-0",
-        "claimed_at": "2026-11-03T05:54:55.329606+00:00",
-        "lease_expires_at": "2026-11-03T11:54:55.329606+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30753796",
       "prepared": {
@@ -73952,5 +73954,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:00:12.167632+00:00"
+  "updated_at": "2026-11-03T06:06:29.169735+00:00"
 }
