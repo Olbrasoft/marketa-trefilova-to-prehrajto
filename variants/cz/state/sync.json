@@ -42843,17 +42843,19 @@
       }
     },
     "13434": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33421966",
+          "target_video_id": "30756612",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:05:42.492509+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33421966",
         "display_name": "The Constant Gardener 1080p CZ Dabing",
         "planned_at": "2026-11-03T09:00:19.117866+00:00"
-      },
-      "claim": {
-        "worker_id": "9f7abdbe777a4f6898c83e05e6df17ae-shard-0",
-        "claimed_at": "2026-11-03T09:00:19.240014+00:00",
-        "lease_expires_at": "2026-11-03T15:00:19.240014+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30756612",
       "prepared": {
@@ -76150,5 +76152,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:00:22.817527+00:00"
+  "updated_at": "2026-11-03T09:05:42.492529+00:00"
 }
