@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-03T03:12:42.484313+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-03T03:42:49.941209+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-03T04:16:47.497362+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:05:51.940280+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "7a997eded1c04f6385d7b7a0d4de1f61-shard-0",
-        "claimed_at": "2026-11-03T05:05:49.623801+00:00",
-        "lease_expires_at": "2026-11-03T11:05:49.623801+00:00",
-        "run_id": "41577832824"
       }
     },
     "108": {
@@ -11497,7 +11491,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-03T04:16:49.270866+00:00"
+        "planned_at": "2026-11-03T05:05:51.308772+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -11505,6 +11499,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "ea26e4530e6e4c44b2f433aeba0883a8-shard-0",
+        "claimed_at": "2026-11-03T05:05:51.406864+00:00",
+        "lease_expires_at": "2026-11-03T11:05:51.406864+00:00",
+        "run_id": "41577832824"
       }
     },
     "834": {
@@ -16703,7 +16703,7 @@
       "last_plan": {
         "source_id": "32911115",
         "display_name": "Furiosa: A Mad Max Saga 4K CZ Titulky",
-        "planned_at": "2026-11-03T05:05:49.588847+00:00"
+        "planned_at": "2026-11-03T05:05:51.374376+00:00"
       }
     },
     "1135": {
@@ -50455,5 +50455,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:05:49.785644+00:00"
+  "updated_at": "2026-11-03T05:05:51.940302+00:00"
 }
