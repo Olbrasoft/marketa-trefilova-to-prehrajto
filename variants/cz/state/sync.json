@@ -44231,17 +44231,19 @@
       "attempts": []
     },
     "1448": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29381556",
+          "target_video_id": "30763941",
+          "permanent": false,
+          "attempted_at": "2026-11-03T14:31:29.578292+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29381556",
         "display_name": "A Dog's Purpose 1080p CZ Dabing",
         "planned_at": "2026-11-03T14:27:45.450199+00:00"
-      },
-      "claim": {
-        "worker_id": "694556c2456444448f8d6c5f43fdf802-shard-0",
-        "claimed_at": "2026-11-03T14:27:45.655063+00:00",
-        "lease_expires_at": "2026-11-03T20:27:45.655063+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30763941",
       "prepared": {
@@ -78836,5 +78838,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T14:28:31.144587+00:00"
+  "updated_at": "2026-11-03T14:31:29.578309+00:00"
 }
