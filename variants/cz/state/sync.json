@@ -18842,13 +18842,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-03T22:14:46.467225+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-03T22:47:55.978608+00:00"
         },
         {
@@ -18857,12 +18850,19 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-03T23:21:57.071147+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:52:47.652961+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:21:55.772210+00:00"
+        "planned_at": "2026-11-03T23:52:46.303036+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -49096,11 +49096,22 @@
       "last_plan": {
         "source_id": "26752497",
         "display_name": "Ragtime 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:52:43.614383+00:00"
+        "planned_at": "2026-11-03T23:52:46.387081+00:00"
+      },
+      "claim": {
+        "worker_id": "16355f96bc7d48608697124665628f87-shard-0",
+        "claimed_at": "2026-11-03T23:52:46.584935+00:00",
+        "lease_expires_at": "2026-11-04T05:52:46.584935+00:00",
+        "run_id": "41730144184"
       }
     },
     "1422": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19349635",
+        "display_name": "In Darkness (W ciemności) (2011) SD CZ Dabing",
+        "planned_at": "2026-11-03T23:52:46.435879+00:00"
+      }
     },
     "28076": {
       "attempts": []
@@ -84968,5 +84979,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:52:44.690184+00:00"
+  "updated_at": "2026-11-03T23:52:47.652975+00:00"
 }
