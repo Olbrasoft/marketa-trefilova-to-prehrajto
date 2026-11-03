@@ -40758,17 +40758,19 @@
       }
     },
     "1290": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29847300",
+          "target_video_id": "30751559",
+          "permanent": false,
+          "attempted_at": "2026-11-03T04:22:56.958186+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29847300",
         "display_name": "True Lies 4K CZ Dabing",
         "planned_at": "2026-11-03T03:54:55.441486+00:00"
-      },
-      "claim": {
-        "worker_id": "820c10a2ad44420da82a522cc6555fb6-shard-0",
-        "claimed_at": "2026-11-03T03:54:55.658080+00:00",
-        "lease_expires_at": "2026-11-03T09:54:55.658080+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30751559",
       "prepared": {
@@ -73334,5 +73336,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T04:20:46.710356+00:00"
+  "updated_at": "2026-11-03T04:22:56.958203+00:00"
 }
