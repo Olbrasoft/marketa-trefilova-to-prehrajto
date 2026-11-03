@@ -47743,17 +47743,19 @@
       "attempts": []
     },
     "29143": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33566303",
+          "target_video_id": "30774277",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:22:34.758261+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33566303",
         "display_name": "Taxi (2015) SD CZ Dabing",
         "planned_at": "2026-11-03T22:21:41.720562+00:00"
-      },
-      "claim": {
-        "worker_id": "ebcf20ad7d2f461abc5fb04d504ae4a7-shard-0",
-        "claimed_at": "2026-11-03T22:21:41.944125+00:00",
-        "lease_expires_at": "2026-11-04T04:21:41.944125+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30774277",
       "prepared": {
@@ -83659,5 +83661,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:21:46.769791+00:00"
+  "updated_at": "2026-11-03T22:22:34.758280+00:00"
 }
