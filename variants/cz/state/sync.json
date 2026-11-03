@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-03T19:22:03.030309+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-03T19:55:30.516394+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-03T20:27:53.252629+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:00:25.526309+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "3018a54eee0249e79277e8fcaaa617e3-shard-0",
-        "claimed_at": "2026-11-03T21:00:18.981746+00:00",
-        "lease_expires_at": "2026-11-04T03:00:18.981746+00:00",
-        "run_id": "41693337041"
       }
     },
     "52": {
@@ -16505,7 +16499,7 @@
       "last_plan": {
         "source_id": "32043882",
         "display_name": "Halloween (1978) 4K CZ Dabing",
-        "planned_at": "2026-11-03T20:27:51.782424+00:00"
+        "planned_at": "2026-11-03T21:00:24.462674+00:00"
       },
       "previous_target_id": "30664667",
       "prepared": {
@@ -16513,6 +16507,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-10-31T11:53:53.244431+00:00",
         "relay_source_id": "32043882"
+      },
+      "claim": {
+        "worker_id": "621bcf95605746a98320ec4baed53edd-shard-0",
+        "claimed_at": "2026-11-03T21:00:24.826996+00:00",
+        "lease_expires_at": "2026-11-04T03:00:24.826996+00:00",
+        "run_id": "41693337041"
       }
     },
     "533": {
@@ -46842,7 +46842,7 @@
       "last_plan": {
         "source_id": "34647730",
         "display_name": "Deadwood: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-03T21:00:18.765472+00:00"
+        "planned_at": "2026-11-03T21:00:24.617983+00:00"
       }
     },
     "1416": {
@@ -82611,5 +82611,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:00:22.371261+00:00"
+  "updated_at": "2026-11-03T21:00:25.526330+00:00"
 }
