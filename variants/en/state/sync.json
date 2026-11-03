@@ -18107,17 +18107,19 @@
       "attempts": []
     },
     "21701": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29423074",
+          "target_video_id": "30773730",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:51:21.022584+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29423074",
         "display_name": "Contempt 720p CZ Titulky",
         "planned_at": "2026-11-03T21:45:49.549698+00:00"
-      },
-      "claim": {
-        "worker_id": "943a0b54ab7c4401906400f0ab17ac24-shard-0",
-        "claimed_at": "2026-11-03T21:45:55.109872+00:00",
-        "lease_expires_at": "2026-11-04T03:45:55.109872+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773730",
       "prepared": {
@@ -55746,5 +55748,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:46:19.581428+00:00"
+  "updated_at": "2026-11-03T21:51:21.022611+00:00"
 }
