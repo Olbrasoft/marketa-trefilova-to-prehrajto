@@ -16742,13 +16742,6 @@
           "source_id": "32911115",
           "target_video_id": "30752813",
           "permanent": false,
-          "attempted_at": "2026-11-03T10:44:49.422537+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32911115",
-          "target_video_id": "30752813",
-          "permanent": false,
           "attempted_at": "2026-11-03T11:15:38.122339+00:00"
         },
         {
@@ -16757,6 +16750,13 @@
           "target_video_id": "30752813",
           "permanent": false,
           "attempted_at": "2026-11-03T12:05:17.547362+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32911115",
+          "target_video_id": "30752813",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:48:47.351131+00:00"
         }
       ],
       "last_plan": {
@@ -16912,7 +16912,7 @@
       "last_plan": {
         "source_id": "28282423",
         "display_name": "The Talented Mr. Ripley 1080p CZ Titulky",
-        "planned_at": "2026-11-03T12:05:19.309612+00:00"
+        "planned_at": "2026-11-03T12:48:46.580494+00:00"
       },
       "previous_target_id": "30753582",
       "prepared": {
@@ -16920,6 +16920,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-03T05:45:26.935565+00:00",
         "relay_source_id": "28282423"
+      },
+      "claim": {
+        "worker_id": "df0fabdf3f7a47918501ed931b4472b2-shard-0",
+        "claimed_at": "2026-11-03T12:48:46.808777+00:00",
+        "lease_expires_at": "2026-11-03T18:48:46.808777+00:00",
+        "run_id": "41603185604"
       }
     },
     "11522": {
@@ -17340,7 +17346,7 @@
       "last_plan": {
         "source_id": "26884588",
         "display_name": "The Wonderful Story of Henry Sugar 1080p CZ Titulky",
-        "planned_at": "2026-11-03T12:48:44.787310+00:00"
+        "planned_at": "2026-11-03T12:48:46.689790+00:00"
       }
     },
     "25634": {
@@ -52828,5 +52834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:48:44.787327+00:00"
+  "updated_at": "2026-11-03T12:48:47.351147+00:00"
 }
