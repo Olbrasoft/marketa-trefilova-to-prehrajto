@@ -46219,17 +46219,19 @@
       }
     },
     "21143": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33346663",
+          "target_video_id": "30771171",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:59:32.121777+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33346663",
         "display_name": "Live Flesh 1080p CZ Dabing",
         "planned_at": "2026-11-03T18:51:08.136262+00:00"
-      },
-      "claim": {
-        "worker_id": "b9e2c7d737d249e9830922e96022fc29-shard-0",
-        "claimed_at": "2026-11-03T18:51:08.524213+00:00",
-        "lease_expires_at": "2026-11-04T00:51:08.524213+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30771171",
       "prepared": {
@@ -81619,5 +81621,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:58:04.506579+00:00"
+  "updated_at": "2026-11-03T18:59:32.121802+00:00"
 }
