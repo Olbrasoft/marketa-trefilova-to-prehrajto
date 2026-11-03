@@ -48775,17 +48775,19 @@
       }
     },
     "11543": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33902525",
+          "target_video_id": "30775053",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:37:42.045679+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33902525",
         "display_name": "Ronia, the Robber's Daughter (Ronja Rövardotter) 1080p CZ Dabing",
         "planned_at": "2026-11-03T23:33:56.616478+00:00"
-      },
-      "claim": {
-        "worker_id": "f39f0065ce154f67add21f27ea675fee-shard-0",
-        "claimed_at": "2026-11-03T23:33:56.734354+00:00",
-        "lease_expires_at": "2026-11-04T05:33:56.734354+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775053",
       "prepared": {
@@ -84763,5 +84765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:35:39.267782+00:00"
+  "updated_at": "2026-11-03T23:37:42.045699+00:00"
 }
