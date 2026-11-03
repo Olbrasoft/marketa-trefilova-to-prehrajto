@@ -38223,17 +38223,19 @@
       }
     },
     "1156": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10999276",
+          "target_video_id": "30745461",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:10:39.265356+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10999276",
         "display_name": "The Rider 720p CZ Dabing",
         "planned_at": "2026-11-03T00:07:24.004664+00:00"
-      },
-      "claim": {
-        "worker_id": "b9816a23ed164318b41a086b4f05fbbd-shard-0",
-        "claimed_at": "2026-11-03T00:07:24.132820+00:00",
-        "lease_expires_at": "2026-11-03T06:07:24.132820+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30745461",
       "prepared": {
@@ -69865,5 +69867,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:07:27.912848+00:00"
+  "updated_at": "2026-11-03T00:10:39.265375+00:00"
 }
