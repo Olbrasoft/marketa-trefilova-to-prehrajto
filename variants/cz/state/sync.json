@@ -42708,17 +42708,19 @@
       }
     },
     "22933": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11536557",
+          "target_video_id": "30756343",
+          "permanent": false,
+          "attempted_at": "2026-11-03T08:42:22.646610+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11536557",
         "display_name": "Raising Arizona SD CZ Dabing",
         "planned_at": "2026-11-03T08:40:24.136856+00:00"
-      },
-      "claim": {
-        "worker_id": "7e7fe4360260473aa720bd986f579784-shard-0",
-        "claimed_at": "2026-11-03T08:40:24.311144+00:00",
-        "lease_expires_at": "2026-11-03T14:40:24.311144+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30756343",
       "prepared": {
@@ -76045,5 +76047,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:40:29.193933+00:00"
+  "updated_at": "2026-11-03T08:42:22.646628+00:00"
 }
