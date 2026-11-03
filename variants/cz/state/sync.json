@@ -42193,17 +42193,19 @@
       }
     },
     "17925": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28364590",
+          "target_video_id": "30755613",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:52:20.347931+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28364590",
         "display_name": "Invictus 1080p CZ Dabing",
         "planned_at": "2026-11-03T07:46:27.174526+00:00"
-      },
-      "claim": {
-        "worker_id": "e9583a84289a4f429a7ef20ca9ab6585-shard-0",
-        "claimed_at": "2026-11-03T07:46:27.311599+00:00",
-        "lease_expires_at": "2026-11-03T13:46:27.311599+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755613",
       "prepared": {
@@ -75320,5 +75322,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:51:40.381289+00:00"
+  "updated_at": "2026-11-03T07:52:20.347956+00:00"
 }
