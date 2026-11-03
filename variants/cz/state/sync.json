@@ -45679,17 +45679,19 @@
       "attempts": []
     },
     "27135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32236593",
+          "target_video_id": "30769342",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:22:44.135426+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32236593",
         "display_name": "A Town Called Panic SD CZ Dabing",
         "planned_at": "2026-11-03T17:20:52.161033+00:00"
-      },
-      "claim": {
-        "worker_id": "1205fbcd7be140a39ba9cd54bf86b6b8-shard-0",
-        "claimed_at": "2026-11-03T17:20:52.385758+00:00",
-        "lease_expires_at": "2026-11-03T23:20:52.385758+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30769342",
       "prepared": {
@@ -80555,5 +80557,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:20:56.406915+00:00"
+  "updated_at": "2026-11-03T17:22:44.135442+00:00"
 }
