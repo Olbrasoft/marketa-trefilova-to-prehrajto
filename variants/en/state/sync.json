@@ -17456,7 +17456,7 @@
       "last_plan": {
         "source_id": "26884588",
         "display_name": "The Wonderful Story of Henry Sugar 1080p CZ Titulky",
-        "planned_at": "2026-11-03T18:27:52.351596+00:00"
+        "planned_at": "2026-11-03T18:59:40.383537+00:00"
       },
       "previous_target_id": "30763706",
       "prepared": {
@@ -17464,6 +17464,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-03T14:21:30.247466+00:00",
         "relay_source_id": "26884588"
+      },
+      "claim": {
+        "worker_id": "ff9cabd4bfab45449f096402c38f5899-shard-0",
+        "claimed_at": "2026-11-03T18:59:40.557890+00:00",
+        "lease_expires_at": "2026-11-04T00:59:40.557890+00:00",
+        "run_id": "41693337041"
       }
     },
     "25634": {
@@ -17563,13 +17569,6 @@
           "source_id": "7674339",
           "target_video_id": "30763383",
           "permanent": false,
-          "attempted_at": "2026-11-03T17:09:57.345801+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7674339",
-          "target_video_id": "30763383",
-          "permanent": false,
           "attempted_at": "2026-11-03T17:40:57.422643+00:00"
         },
         {
@@ -17578,6 +17577,13 @@
           "target_video_id": "30763383",
           "permanent": false,
           "attempted_at": "2026-11-03T18:27:52.031386+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7674339",
+          "target_video_id": "30763383",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:59:41.503261+00:00"
         }
       ],
       "last_plan": {
@@ -54732,5 +54738,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:59:36.692618+00:00"
+  "updated_at": "2026-11-03T18:59:41.503284+00:00"
 }
