@@ -41335,17 +41335,19 @@
       }
     },
     "1516": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13388400",
+          "target_video_id": "30754180",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:23:00.190260+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13388400",
         "display_name": "Chef 1080p CZ Dabing",
         "planned_at": "2026-11-03T06:11:32.166494+00:00"
-      },
-      "claim": {
-        "worker_id": "f7b02bc954a44bb58b73030e5cce5c8c-shard-0",
-        "claimed_at": "2026-11-03T06:11:32.372261+00:00",
-        "lease_expires_at": "2026-11-03T12:11:32.372261+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754180",
       "prepared": {
@@ -74042,5 +74044,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:15:15.635549+00:00"
+  "updated_at": "2026-11-03T06:23:00.190281+00:00"
 }
