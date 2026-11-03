@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T01:31:35.013309+00:00
+Poslední aktualizace (UTC): 2026-11-03T01:32:21.691551+00:00
 
 Zkontrolováno videí: 320. Další stránka kontroly: 0.
 
@@ -82,7 +82,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Důvod
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T19:59:03.971497+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-02T19:59:26.526278+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-02T19:59:07.635853+00:00 |
-| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-02T19:58:20.489767+00:00 |
+| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-03T01:32:21.691350+00:00 |
 | [Scum 1080p CZ Titulky](https://prehraj.to/scum-1080p-cz-titulky-mkv/2102106d4292332f) (ID 30746417) | [Sdílej 32101301](https://sdilej.cz/32101301/scum.1979.1080p.bluray.flac.x264-majo.mkv) | target_unavailable | 2026-11-03T01:01:27.236335+00:00 |
 | [Songs from the Second Floor 1080p CZ Titulky](https://prehraj.to/songs-from-the-second-floor-1080p-cz-titulky-mkv/72e10409a7631ddb) (ID 30742820) | [Sdílej 34431723](https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv) | target_unavailable | 2026-11-02T21:38:55.161310+00:00 |
 | [Spider-Man 1080p CZ Titulky](https://prehraj.to/spider-man-1080p-cz-titulky-mkv/c795893d39e127b0) (ID 30746380) | [Sdílej 16303284](https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv) | target_unavailable | 2026-11-03T01:01:22.938303+00:00 |
