@@ -41391,17 +41391,19 @@
       }
     },
     "1370": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31914426",
+          "target_video_id": "30754259",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:29:18.760330+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31914426",
         "display_name": "Doctor Sleep 4K CZ Dabing",
         "planned_at": "2026-11-03T06:15:11.732298+00:00"
-      },
-      "claim": {
-        "worker_id": "e4bfd08ad0b64daaa71ba7e2dd63583d-shard-0",
-        "claimed_at": "2026-11-03T06:15:11.836053+00:00",
-        "lease_expires_at": "2026-11-03T12:15:11.836053+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754259",
       "prepared": {
@@ -74089,5 +74091,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:23:35.323281+00:00"
+  "updated_at": "2026-11-03T06:29:18.760350+00:00"
 }
