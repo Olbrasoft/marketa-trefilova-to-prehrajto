@@ -320,3 +320,4 @@ Attach subtitles only after target processing has finished.
 | Twin Peaks: The Missing Pieces 1080p CZ Titulky | 30744845 | https://sdilej.cz/33200807/twin-peaks-the-missing-pieces-2014-fhd-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Volhynia (Wołyń) 720p CZ Titulky | 30745166 | https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Ballon 1080p CZ Titulky | 30745387 | https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
+| Spider-Man 1080p CZ Titulky | 30746380 | https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv | Extract Czech track from exact source after processing |
