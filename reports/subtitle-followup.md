@@ -324,4 +324,5 @@ Attach subtitles only after target processing has finished.
 | Scum 1080p CZ Titulky | 30746417 | https://sdilej.cz/32101301/scum.1979.1080p.bluray.flac.x264-majo.mkv | Complete: Czech subtitles verified |
 | Looper 1080p CZ Titulky | 30746833 | https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv | Extract Czech track from exact source after processing |
 | Juno 1080p CZ Titulky | 30747251 | https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv | Extract Czech track from exact source after processing |
+| Ready Player One 1080p CZ Titulky | 30750049 | https://sdilej.cz/14502469/ready-player-one-hra-zacina-2018-m1080p-web-dl-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky | 30749326 | https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv | Extract Czech track from exact source after processing |
