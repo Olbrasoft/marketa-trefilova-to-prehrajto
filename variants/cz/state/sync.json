@@ -41514,17 +41514,19 @@
       }
     },
     "1502": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16777313",
+          "target_video_id": "30754538",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:52:04.829453+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16777313",
         "display_name": "A Walk to Remember 1080p CZ Dabing",
         "planned_at": "2026-11-03T06:33:11.612095+00:00"
-      },
-      "claim": {
-        "worker_id": "2d1afb23aae14641a1648ea862dc3d8c-shard-0",
-        "claimed_at": "2026-11-03T06:33:11.738241+00:00",
-        "lease_expires_at": "2026-11-03T12:33:11.738241+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754538",
       "prepared": {
@@ -74530,5 +74532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:48:42.444801+00:00"
+  "updated_at": "2026-11-03T06:52:04.829476+00:00"
 }
