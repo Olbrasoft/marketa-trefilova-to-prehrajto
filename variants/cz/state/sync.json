@@ -46499,17 +46499,19 @@
       }
     },
     "32281": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35147292",
+          "target_video_id": "30771541",
+          "permanent": false,
+          "attempted_at": "2026-11-03T19:28:54.711130+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
         "planned_at": "2026-11-03T19:20:42.861705+00:00"
-      },
-      "claim": {
-        "worker_id": "04861a6960b3485889c513f9181ca14a-shard-0",
-        "claimed_at": "2026-11-03T19:20:43.256464+00:00",
-        "lease_expires_at": "2026-11-04T01:20:43.256464+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -82054,5 +82056,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:27:35.592570+00:00"
+  "updated_at": "2026-11-03T19:28:54.711151+00:00"
 }
