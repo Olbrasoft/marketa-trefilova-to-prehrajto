@@ -39059,17 +39059,19 @@
       "attempts": []
     },
     "22750": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33787081",
+          "target_video_id": "30746618",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:09:16.517385+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33787081",
         "display_name": "Places in the Heart 1080p CZ Dabing",
         "planned_at": "2026-11-03T01:05:35.706558+00:00"
-      },
-      "claim": {
-        "worker_id": "2d557ad92eb6485d961673cb75b10ea4-shard-0",
-        "claimed_at": "2026-11-03T01:05:36.150450+00:00",
-        "lease_expires_at": "2026-11-03T07:05:36.150450+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746618",
       "prepared": {
@@ -70870,5 +70872,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:08:17.925263+00:00"
+  "updated_at": "2026-11-03T01:09:16.517403+00:00"
 }
