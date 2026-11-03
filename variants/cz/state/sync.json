@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-03T06:43:33.409596+00:00"
+        "planned_at": "2026-11-03T07:13:53.277727+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "75f4e7d3ad2647078bea45fb068e8802-shard-0",
+        "claimed_at": "2026-11-03T07:13:53.476850+00:00",
+        "lease_expires_at": "2026-11-03T13:13:53.476850+00:00",
+        "run_id": "41577832824"
       }
     },
     "52": {
@@ -10809,13 +10815,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-03T05:40:12.682743+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-03T06:12:37.484635+00:00"
         },
         {
@@ -10824,6 +10823,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-03T06:43:32.129093+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:13:53.849601+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10843,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "cdec570755e74e2ca7b3b4400fd7ffc5-shard-0",
-        "claimed_at": "2026-11-03T07:13:51.603376+00:00",
-        "lease_expires_at": "2026-11-03T13:13:51.603376+00:00",
-        "run_id": "41577832824"
       }
     },
     "21748": {
@@ -41863,7 +41863,7 @@
       "last_plan": {
         "source_id": "34699967",
         "display_name": "One Hundred and One Dalmatians 1080p CZ Dabing",
-        "planned_at": "2026-11-03T07:13:51.485343+00:00"
+        "planned_at": "2026-11-03T07:13:53.361324+00:00"
       }
     },
     "18872": {
@@ -74727,5 +74727,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:13:51.774121+00:00"
+  "updated_at": "2026-11-03T07:13:53.849623+00:00"
 }
