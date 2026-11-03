@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T02:02:49.653324+00:00
+Poslední aktualizace (UTC): 2026-11-03T02:02:53.217472+00:00
 
 Zkontrolováno videí: 321. Další stránka kontroly: 0.
 
@@ -66,7 +66,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [A Bittersweet Life (달콤한 인생) 1080p CZ Titulky](https://prehraj.to/a-bittersweet-life-1080p-cz-titulky-mkv/13fed60fbc75a424) (ID 30738514) | [Sdílej 17861075](https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv) | target_unavailable | 2026-11-03T01:33:42.447246+00:00 |
-| [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T00:32:20.732540+00:00 |
+| [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T02:02:53.217360+00:00 |
 | [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T01:42:02.501513+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T01:32:37.046541+00:00 |
 | [Cure 1080p CZ Titulky](https://prehraj.to/cure-1080p-cz-titulky-mkv/8df011eb0bbe689a) (ID 30739372) | [Sdílej 34063553](https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv) | target_unavailable | 2026-11-03T00:32:28.209257+00:00 |
