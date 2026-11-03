@@ -40148,17 +40148,19 @@
       "previous_target_id": "30748255"
     },
     "1469": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33961134",
+          "target_video_id": "30748897",
+          "permanent": false,
+          "attempted_at": "2026-11-03T02:57:05.679351+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33961134",
         "display_name": "Unbreakable 4K CZ Dabing",
         "planned_at": "2026-11-03T02:45:05.340624+00:00"
-      },
-      "claim": {
-        "worker_id": "cb312458ace542aeb55a3cadb2bcb735-shard-0",
-        "claimed_at": "2026-11-03T02:45:05.543598+00:00",
-        "lease_expires_at": "2026-11-03T08:45:05.543598+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30748897",
       "prepared": {
@@ -72255,5 +72257,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:53:24.015495+00:00"
+  "updated_at": "2026-11-03T02:57:05.679368+00:00"
 }
