@@ -39188,17 +39188,19 @@
       "attempts": []
     },
     "24377": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12786925",
+          "target_video_id": "30746672",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:13:23.962338+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12786925",
         "display_name": "The Princess and the Warrior SD CZ Dabing",
         "planned_at": "2026-11-03T01:09:18.308330+00:00"
-      },
-      "claim": {
-        "worker_id": "020fca5de0d743639aa07e15f569d3f9-shard-0",
-        "claimed_at": "2026-11-03T01:09:18.534853+00:00",
-        "lease_expires_at": "2026-11-03T07:09:18.534853+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746672",
       "prepared": {
@@ -70890,5 +70892,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:09:21.951970+00:00"
+  "updated_at": "2026-11-03T01:13:23.962355+00:00"
 }
