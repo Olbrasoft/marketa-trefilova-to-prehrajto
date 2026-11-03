@@ -45712,17 +45712,19 @@
       "attempts": []
     },
     "1338": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30603203",
+          "target_video_id": "30769406",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:26:15.538167+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30603203",
         "display_name": "The Three Burials of Melquiades Estrada SD CZ Dabing",
         "planned_at": "2026-11-03T17:23:02.791669+00:00"
-      },
-      "claim": {
-        "worker_id": "5c50b79f99694fed98fb4e4c14b1918b-shard-0",
-        "claimed_at": "2026-11-03T17:23:02.994860+00:00",
-        "lease_expires_at": "2026-11-03T23:23:02.994860+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30769406",
       "prepared": {
@@ -80864,5 +80866,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:25:50.946425+00:00"
+  "updated_at": "2026-11-03T17:26:15.538182+00:00"
 }
