@@ -42421,17 +42421,19 @@
       }
     },
     "12433": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11905778",
+          "target_video_id": "30755968",
+          "permanent": false,
+          "attempted_at": "2026-11-03T08:11:08.874534+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11905778",
         "display_name": "The Negotiator 1080p CZ Dabing",
         "planned_at": "2026-11-03T08:07:23.137611+00:00"
-      },
-      "claim": {
-        "worker_id": "ead29d103899473fa472d1071036eaa7-shard-0",
-        "claimed_at": "2026-11-03T08:07:23.267648+00:00",
-        "lease_expires_at": "2026-11-03T14:07:23.267648+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755968",
       "prepared": {
@@ -75503,5 +75505,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:09:01.767425+00:00"
+  "updated_at": "2026-11-03T08:11:08.874555+00:00"
 }
