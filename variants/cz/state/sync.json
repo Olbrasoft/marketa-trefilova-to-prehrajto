@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-03T20:59:45.419547+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-03T21:41:15.433301+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-03T22:13:12.797781+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:47:25.937586+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "19ebcb12e80c408d9a9982be0a3a6ac5-shard-0",
-        "claimed_at": "2026-11-03T22:47:23.348447+00:00",
-        "lease_expires_at": "2026-11-04T04:47:23.348447+00:00",
-        "run_id": "41730144184"
       }
     },
     "10755": {
@@ -7106,7 +7100,7 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Blood Diamond 1080p CZ Dabing",
-        "planned_at": "2026-11-03T22:13:15.765569+00:00"
+        "planned_at": "2026-11-03T22:47:25.151729+00:00"
       },
       "previous_target_id": "30627346",
       "prepared": {
@@ -7114,6 +7108,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
+      },
+      "claim": {
+        "worker_id": "44f3438a91a145c088213bbe4627a6ae-shard-0",
+        "claimed_at": "2026-11-03T22:47:25.341514+00:00",
+        "lease_expires_at": "2026-11-04T04:47:25.341514+00:00",
+        "run_id": "41730144184"
       }
     },
     "327": {
@@ -48055,7 +48055,7 @@
       "last_plan": {
         "source_id": "23749695",
         "display_name": "The Silent Revolution (Das schweigende Klassenzimmer) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T22:47:23.245500+00:00"
+        "planned_at": "2026-11-03T22:47:25.232006+00:00"
       }
     },
     "1292": {
@@ -83891,5 +83891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:47:23.597828+00:00"
+  "updated_at": "2026-11-03T22:47:25.937602+00:00"
 }
