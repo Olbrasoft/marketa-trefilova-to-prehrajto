@@ -41759,17 +41759,19 @@
       }
     },
     "1535": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31192349",
+          "target_video_id": "30754906",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:08:45.706168+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31192349",
         "display_name": "Lethal Weapon 2 4K CZ Dabing",
         "planned_at": "2026-11-03T07:00:52.566353+00:00"
-      },
-      "claim": {
-        "worker_id": "41670f2929dc4b2dae66a4234bb296d9-shard-0",
-        "claimed_at": "2026-11-03T07:00:52.689964+00:00",
-        "lease_expires_at": "2026-11-03T13:00:52.689964+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754906",
       "prepared": {
@@ -74667,5 +74669,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:03:37.907041+00:00"
+  "updated_at": "2026-11-03T07:08:45.706188+00:00"
 }
