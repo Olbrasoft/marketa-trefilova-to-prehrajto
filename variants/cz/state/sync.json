@@ -39553,17 +39553,19 @@
       "attempts": []
     },
     "18415": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34697530",
+          "target_video_id": "30747126",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:35:56.856022+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34697530",
         "display_name": "The Redeem Team 1080p CZ Dabing",
         "planned_at": "2026-11-03T01:28:24.236617+00:00"
-      },
-      "claim": {
-        "worker_id": "41aa5e5c91c344b8b1f7ada9f8cb9abb-shard-0",
-        "claimed_at": "2026-11-03T01:28:24.440508+00:00",
-        "lease_expires_at": "2026-11-03T07:28:24.440508+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30747126",
       "prepared": {
@@ -71433,5 +71435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:31:52.790762+00:00"
+  "updated_at": "2026-11-03T01:35:56.856039+00:00"
 }
