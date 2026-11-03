@@ -45856,13 +45856,6 @@
           "source_id": "29488534",
           "target_video_id": "30769491",
           "permanent": false,
-          "attempted_at": "2026-11-03T17:34:38.649848+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29488534",
-          "target_video_id": "30769491",
-          "permanent": false,
           "attempted_at": "2026-11-03T18:28:52.052166+00:00"
         },
         {
@@ -45871,12 +45864,19 @@
           "target_video_id": "30769491",
           "permanent": false,
           "attempted_at": "2026-11-03T18:59:48.237779+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29488534",
+          "target_video_id": "30769491",
+          "permanent": false,
+          "attempted_at": "2026-11-03T19:37:29.928778+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29488534",
         "display_name": "C'mon C'mon 1080p CZ Dabing",
-        "planned_at": "2026-11-03T18:59:44.111082+00:00"
+        "planned_at": "2026-11-03T19:37:28.221346+00:00"
       },
       "previous_target_id": "30769491",
       "prepared": {
@@ -46570,7 +46570,13 @@
       "last_plan": {
         "source_id": "34192154",
         "display_name": "Song Sung Blue 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:36:10.657604+00:00"
+        "planned_at": "2026-11-03T19:37:28.392268+00:00"
+      },
+      "claim": {
+        "worker_id": "887de1d2d17647988bb582aae23a7fe6-shard-0",
+        "claimed_at": "2026-11-03T19:37:28.780686+00:00",
+        "lease_expires_at": "2026-11-04T01:37:28.780686+00:00",
+        "run_id": "41693337041"
       }
     },
     "18335": {
@@ -46581,7 +46587,7 @@
       "last_plan": {
         "source_id": "34219793",
         "display_name": "Max Manus: Man of War (Max Manus) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:33:10.127767+00:00"
+        "planned_at": "2026-11-03T19:37:28.479068+00:00"
       }
     },
     "16445": {
@@ -82093,5 +82099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:36:25.314341+00:00"
+  "updated_at": "2026-11-03T19:37:29.928800+00:00"
 }
