@@ -44057,17 +44057,19 @@
       }
     },
     "18076": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33095161",
+          "target_video_id": "30760759",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:29:53.919916+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33095161",
         "display_name": "Four Lions 720p CZ Dabing",
         "planned_at": "2026-11-03T12:25:00.189382+00:00"
-      },
-      "claim": {
-        "worker_id": "cb15af71be5d457ea1d92314bc4dff1d-shard-0",
-        "claimed_at": "2026-11-03T12:25:00.411047+00:00",
-        "lease_expires_at": "2026-11-03T18:25:00.411047+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30760759",
       "prepared": {
@@ -78168,5 +78170,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:27:54.912626+00:00"
+  "updated_at": "2026-11-03T12:29:53.919932+00:00"
 }
