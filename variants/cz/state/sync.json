@@ -40438,17 +40438,19 @@
       }
     },
     "1553": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32925217",
+          "target_video_id": "30750610",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:49:32.845737+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32925217",
         "display_name": "Cloud Atlas 4K CZ Dabing",
         "planned_at": "2026-11-03T03:32:48.456918+00:00"
-      },
-      "claim": {
-        "worker_id": "e9387b147c0b43d1beabeaaa8349c492-shard-0",
-        "claimed_at": "2026-11-03T03:32:48.674513+00:00",
-        "lease_expires_at": "2026-11-03T09:32:48.674513+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30750610",
       "prepared": {
@@ -72873,5 +72875,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:48:17.429585+00:00"
+  "updated_at": "2026-11-03T03:49:32.845760+00:00"
 }
