@@ -36950,13 +36950,6 @@
           "source_id": "12181949",
           "target_video_id": "30743906",
           "permanent": false,
-          "attempted_at": "2026-11-02T23:52:30.305611+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "30743906",
-          "permanent": false,
           "attempted_at": "2026-11-03T00:23:58.846053+00:00"
         },
         {
@@ -36965,6 +36958,13 @@
           "target_video_id": "30743906",
           "permanent": false,
           "attempted_at": "2026-11-03T00:57:13.916842+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "30743906",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:27:48.568568+00:00"
         }
       ],
       "last_plan": {
@@ -36978,12 +36978,6 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
-      },
-      "claim": {
-        "worker_id": "ed03b8a0c6814443b5141a6dcaab8c5f-shard-0",
-        "claimed_at": "2026-11-03T01:27:45.699961+00:00",
-        "lease_expires_at": "2026-11-03T07:27:45.699961+00:00",
-        "run_id": "41544835219"
       }
     },
     "35068": {
@@ -39531,7 +39525,13 @@
       "last_plan": {
         "source_id": "34155742",
         "display_name": "The Specials (Hors Normes) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T01:27:45.508871+00:00"
+        "planned_at": "2026-11-03T01:27:48.141943+00:00"
+      },
+      "claim": {
+        "worker_id": "9ae84d017e4e468e9f3907c8ece850b6-shard-0",
+        "claimed_at": "2026-11-03T01:27:48.347887+00:00",
+        "lease_expires_at": "2026-11-03T07:27:48.347887+00:00",
+        "run_id": "41544835219"
       }
     },
     "35413": {
@@ -71374,5 +71374,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:27:45.699993+00:00"
+  "updated_at": "2026-11-03T01:27:48.568585+00:00"
 }
