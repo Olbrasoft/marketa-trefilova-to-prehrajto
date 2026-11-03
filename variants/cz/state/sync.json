@@ -46184,17 +46184,19 @@
       }
     },
     "15428": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35185749",
+          "target_video_id": "30771083",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:53:10.981902+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35185749",
         "display_name": "In the House (Dans la maison) 1080p CZ Dabing",
         "planned_at": "2026-11-03T18:45:03.797473+00:00"
-      },
-      "claim": {
-        "worker_id": "8a4a01445b3e43ef83bf898d6b6ffe41-shard-0",
-        "claimed_at": "2026-11-03T18:45:04.181250+00:00",
-        "lease_expires_at": "2026-11-04T00:45:04.181250+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30771083",
       "prepared": {
@@ -81532,5 +81534,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:52:18.074429+00:00"
+  "updated_at": "2026-11-03T18:53:10.981931+00:00"
 }
