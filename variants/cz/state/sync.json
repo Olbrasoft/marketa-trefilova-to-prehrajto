@@ -1041,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-03T12:07:02.430799+00:00"
+        "planned_at": "2026-11-03T12:49:51.907043+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1049,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "8891c69356fc4d7c97cbadeb94b2e035-shard-0",
+        "claimed_at": "2026-11-03T12:49:52.432301+00:00",
+        "lease_expires_at": "2026-11-03T18:49:52.432301+00:00",
+        "run_id": "41603185604"
       }
     },
     "54": {
@@ -7080,13 +7086,6 @@
           "source_id": "26239565",
           "target_video_id": "30627346",
           "permanent": false,
-          "attempted_at": "2026-11-03T10:28:44.008861+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "30627346",
-          "permanent": false,
           "attempted_at": "2026-11-03T11:00:19.957298+00:00"
         },
         {
@@ -7095,6 +7094,13 @@
           "target_video_id": "30627346",
           "permanent": false,
           "attempted_at": "2026-11-03T12:07:00.999028+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:49:52.351853+00:00"
         }
       ],
       "last_plan": {
@@ -7108,12 +7114,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
-      },
-      "claim": {
-        "worker_id": "2a5efe3bc311424eb100a52c7aa4a1a2-shard-0",
-        "claimed_at": "2026-11-03T12:49:49.903108+00:00",
-        "lease_expires_at": "2026-11-03T18:49:49.903108+00:00",
-        "run_id": "41603185604"
       }
     },
     "327": {
@@ -44160,7 +44160,7 @@
       "last_plan": {
         "source_id": "29381556",
         "display_name": "A Dog's Purpose 1080p CZ Dabing",
-        "planned_at": "2026-11-03T12:49:49.625224+00:00"
+        "planned_at": "2026-11-03T12:49:52.057065+00:00"
       }
     },
     "1396": {
@@ -78208,5 +78208,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:49:50.386357+00:00"
+  "updated_at": "2026-11-03T12:49:52.432330+00:00"
 }
