@@ -48212,17 +48212,19 @@
       }
     },
     "11692": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34674597",
+          "target_video_id": "30774696",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:57:04.855705+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674597",
         "display_name": "Hope and Glory 720p CZ Dabing",
         "planned_at": "2026-11-03T22:54:34.023283+00:00"
-      },
-      "claim": {
-        "worker_id": "04d3acb7aaf94370ac8277b94189a600-shard-0",
-        "claimed_at": "2026-11-03T22:54:34.223088+00:00",
-        "lease_expires_at": "2026-11-04T04:54:34.223088+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30774696",
       "prepared": {
@@ -84047,5 +84049,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:55:05.922505+00:00"
+  "updated_at": "2026-11-03T22:57:04.855722+00:00"
 }
