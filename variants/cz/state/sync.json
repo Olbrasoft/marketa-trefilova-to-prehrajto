@@ -48870,17 +48870,19 @@
       "attempts": []
     },
     "32767": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29753393",
+          "target_video_id": "30775176",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:46:36.907753+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29753393",
         "display_name": "Tiger Bay 1080p CZ Dabing",
         "planned_at": "2026-11-03T23:43:22.799881+00:00"
-      },
-      "claim": {
-        "worker_id": "0257fe287f9d4976a26405776d47a5e9-shard-0",
-        "claimed_at": "2026-11-03T23:43:22.917325+00:00",
-        "lease_expires_at": "2026-11-04T05:43:22.917325+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775176",
       "prepared": {
@@ -84861,5 +84863,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:44:15.796305+00:00"
+  "updated_at": "2026-11-03T23:46:36.907766+00:00"
 }
