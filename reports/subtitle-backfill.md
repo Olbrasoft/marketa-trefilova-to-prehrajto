@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T01:33:42.447340+00:00
+Poslední aktualizace (UTC): 2026-11-03T01:33:45.983416+00:00
 
 Zkontrolováno videí: 320. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 229, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 230, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 29, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -67,7 +67,6 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 26. Důvod
 | --- | --- | --- | --- |
 | [A Bittersweet Life (달콤한 인생) 1080p CZ Titulky](https://prehraj.to/a-bittersweet-life-1080p-cz-titulky-mkv/13fed60fbc75a424) (ID 30738514) | [Sdílej 17861075](https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv) | target_unavailable | 2026-11-03T01:33:42.447246+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T00:32:20.732540+00:00 |
-| [And Now for Something Completely Different 1080p CZ Titulky](https://prehraj.to/and-now-for-something-completely-different-1080p-cz-titulky-mkv/10f6c1a41fa1220c) (ID 30741124) | [Sdílej 24008691](https://sdilej.cz/24008691/monty-python-a-ted-neco-uplne-jineho-cztit.-h.265-hevc-ntp-.mkv) | target_unavailable | 2026-11-02T20:18:02.317678+00:00 |
 | [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T00:10:52.239927+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T01:32:37.046541+00:00 |
 | [Cure 1080p CZ Titulky](https://prehraj.to/cure-1080p-cz-titulky-mkv/8df011eb0bbe689a) (ID 30739372) | [Sdílej 34063553](https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv) | target_unavailable | 2026-11-03T00:32:28.209257+00:00 |
