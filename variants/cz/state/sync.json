@@ -43773,17 +43773,19 @@
       }
     },
     "1284": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32117056",
+          "reason": "Request failed for https://sdilej.cz/32117056/je-to-i-muj-zivot-2009-drama-usa-cameron-diaz-czdab-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T11:16:51.213674+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32117056",
         "display_name": "My Sister's Keeper 1080p CZ Dabing",
         "planned_at": "2026-11-03T11:16:05.161418+00:00"
-      },
-      "claim": {
-        "worker_id": "28bb68f3b9a5422f973eedaf49a41e42-shard-0",
-        "claimed_at": "2026-11-03T11:16:05.367820+00:00",
-        "lease_expires_at": "2026-11-03T17:16:05.367820+00:00",
-        "run_id": "41603185604"
       }
     },
     "1328": {
@@ -77634,5 +77636,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T11:16:13.723417+00:00"
+  "updated_at": "2026-11-03T11:16:51.213692+00:00"
 }
