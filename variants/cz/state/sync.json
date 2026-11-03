@@ -41596,17 +41596,19 @@
       }
     },
     "1549": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28191262",
+          "target_video_id": "30754672",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:46:11.993144+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28191262",
         "display_name": "Blue Jasmine 1080p CZ Dabing",
         "planned_at": "2026-11-03T06:43:58.799760+00:00"
-      },
-      "claim": {
-        "worker_id": "3b5d479a2f524e469579417889732545-shard-0",
-        "claimed_at": "2026-11-03T06:43:58.923891+00:00",
-        "lease_expires_at": "2026-11-03T12:43:58.923891+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754672",
       "prepared": {
@@ -74504,5 +74506,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:44:02.779249+00:00"
+  "updated_at": "2026-11-03T06:46:11.993165+00:00"
 }
