@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-02T23:16:32.263507+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-02T23:47:51.898079+00:00"
         },
         {
@@ -12324,6 +12317,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-03T00:22:50.834375+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:52:59.309731+00:00"
         }
       ],
       "last_plan": {
@@ -16814,7 +16814,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-03T00:22:53.464011+00:00"
+        "planned_at": "2026-11-03T00:52:57.883464+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16822,6 +16822,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "d546ec6415f047edb1fa49c456244f47-shard-0",
+        "claimed_at": "2026-11-03T00:52:58.216205+00:00",
+        "lease_expires_at": "2026-11-03T06:52:58.216205+00:00",
+        "run_id": "41544835219"
       }
     },
     "614": {
@@ -38905,7 +38911,7 @@
       "last_plan": {
         "source_id": "31652050",
         "display_name": "Ride the High Country SD CZ Dabing",
-        "planned_at": "2026-11-03T00:52:54.806229+00:00"
+        "planned_at": "2026-11-03T00:52:58.019933+00:00"
       }
     },
     "520": {
@@ -70638,5 +70644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:52:54.806247+00:00"
+  "updated_at": "2026-11-03T00:52:59.309749+00:00"
 }
