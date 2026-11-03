@@ -47662,17 +47662,19 @@
       "attempts": []
     },
     "14333": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34686143",
+          "target_video_id": "30774143",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:17:59.266245+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34686143",
         "display_name": "The Teacher Who Promised the Sea (El maestro que prometió el mar) 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:15:08.936719+00:00"
-      },
-      "claim": {
-        "worker_id": "7d42b2aa95724f938c6389ee837c0a59-shard-0",
-        "claimed_at": "2026-11-03T22:15:09.151496+00:00",
-        "lease_expires_at": "2026-11-04T04:15:09.151496+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30774143",
       "prepared": {
@@ -83527,5 +83529,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:15:14.286804+00:00"
+  "updated_at": "2026-11-03T22:17:59.266264+00:00"
 }
