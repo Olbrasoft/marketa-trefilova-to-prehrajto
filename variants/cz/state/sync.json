@@ -44917,17 +44917,19 @@
       "attempts": []
     },
     "23819": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33725355",
+          "target_video_id": "30766400",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:50:39.001805+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33725355",
         "display_name": "The Ice Storm 1080p CZ Dabing",
         "planned_at": "2026-11-03T15:41:22.434006+00:00"
-      },
-      "claim": {
-        "worker_id": "5191b9edd633407495bdd4d6a93a6f5a-shard-0",
-        "claimed_at": "2026-11-03T15:41:22.641782+00:00",
-        "lease_expires_at": "2026-11-03T21:41:22.641782+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30766400",
       "prepared": {
@@ -79714,5 +79716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:50:36.473438+00:00"
+  "updated_at": "2026-11-03T15:50:39.001823+00:00"
 }
