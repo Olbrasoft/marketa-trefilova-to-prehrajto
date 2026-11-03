@@ -330,3 +330,4 @@ Attach subtitles only after target processing has finished.
 | Furiosa: A Mad Max Saga 4K CZ Titulky | 30752813 | https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
 | Anora 4K CZ Titulky | 30753012 | https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Conclave 4K CZ Titulky | 30753456 | https://sdilej.cz/30205491/conclave-2024-cztit-2160p.mkv | Extract Czech track from exact source after processing |
+| A History of Violence 1080p CZ Titulky | 30753470 | https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv | Extract Czech track from exact source after processing |
