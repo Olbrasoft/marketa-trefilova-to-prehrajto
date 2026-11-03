@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-03T05:06:03.459989+00:00"
+        "planned_at": "2026-11-03T05:38:41.519754+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "b4d5da10f1014b97b5d7a9fb990c4499-shard-0",
+        "claimed_at": "2026-11-03T05:38:41.605590+00:00",
+        "lease_expires_at": "2026-11-03T11:38:41.605590+00:00",
+        "run_id": "41577832824"
       }
     },
     "21312": {
@@ -15679,13 +15685,6 @@
           "source_id": "21075601",
           "target_video_id": "30739690",
           "permanent": false,
-          "attempted_at": "2026-11-03T03:44:50.575585+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21075601",
-          "target_video_id": "30739690",
-          "permanent": false,
           "attempted_at": "2026-11-03T04:17:39.521507+00:00"
         },
         {
@@ -15694,6 +15693,13 @@
           "target_video_id": "30739690",
           "permanent": false,
           "attempted_at": "2026-11-03T05:06:15.249275+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21075601",
+          "target_video_id": "30739690",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:38:41.743181+00:00"
         }
       ],
       "last_plan": {
@@ -15707,12 +15713,6 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-11-02T18:57:41.448088+00:00",
         "relay_source_id": "21075601"
-      },
-      "claim": {
-        "worker_id": "3b63544bf93c42389954d82e034b1f57-shard-0",
-        "claimed_at": "2026-11-03T05:38:39.675038+00:00",
-        "lease_expires_at": "2026-11-03T11:38:39.675038+00:00",
-        "run_id": "41577832824"
       }
     },
     "35348": {
@@ -16774,7 +16774,7 @@
       "last_plan": {
         "source_id": "30205491",
         "display_name": "Conclave 4K CZ Titulky",
-        "planned_at": "2026-11-03T05:38:39.644717+00:00"
+        "planned_at": "2026-11-03T05:38:41.576814+00:00"
       }
     },
     "1151": {
@@ -50754,5 +50754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:38:40.032727+00:00"
+  "updated_at": "2026-11-03T05:38:41.743199+00:00"
 }
