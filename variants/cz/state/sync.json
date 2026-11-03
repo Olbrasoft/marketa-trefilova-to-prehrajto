@@ -44747,17 +44747,19 @@
       }
     },
     "23517": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13149044",
+          "target_video_id": "30765899",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:34:09.537480+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13149044",
         "display_name": "Little Women (1994) 1080p CZ Dabing",
         "planned_at": "2026-11-03T15:26:13.455100+00:00"
-      },
-      "claim": {
-        "worker_id": "812b3b7e586c44aabe67c9734403c46a-shard-0",
-        "claimed_at": "2026-11-03T15:26:13.689955+00:00",
-        "lease_expires_at": "2026-11-03T21:26:13.689955+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30765899",
       "prepared": {
@@ -79545,5 +79547,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:30:16.124896+00:00"
+  "updated_at": "2026-11-03T15:34:09.537498+00:00"
 }
