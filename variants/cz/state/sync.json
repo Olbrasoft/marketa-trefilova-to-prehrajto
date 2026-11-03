@@ -44806,17 +44806,19 @@
       "attempts": []
     },
     "1506": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20908518",
+          "target_video_id": "30766004",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:37:02.990069+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20908518",
         "display_name": "The Woman in Gold (Woman in Gold) 1080p CZ Dabing",
         "planned_at": "2026-11-03T15:30:12.284842+00:00"
-      },
-      "claim": {
-        "worker_id": "32b243d29715430b8030252b542cb951-shard-0",
-        "claimed_at": "2026-11-03T15:30:12.509433+00:00",
-        "lease_expires_at": "2026-11-03T21:30:12.509433+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30766004",
       "prepared": {
@@ -79577,5 +79579,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:34:27.494379+00:00"
+  "updated_at": "2026-11-03T15:37:02.990084+00:00"
 }
