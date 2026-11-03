@@ -29519,7 +29519,7 @@
       "last_plan": {
         "source_id": "21165095",
         "display_name": "Rudy 1080p CZ Dabing",
-        "planned_at": "2026-11-03T05:07:15.929561+00:00"
+        "planned_at": "2026-11-03T05:39:22.359496+00:00"
       },
       "previous_target_id": "30722559",
       "prepared": {
@@ -29527,6 +29527,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
+      },
+      "claim": {
+        "worker_id": "c1b74c552aa84c01842314945aa8fb2e-shard-0",
+        "claimed_at": "2026-11-03T05:39:22.555168+00:00",
+        "lease_expires_at": "2026-11-03T11:39:22.555168+00:00",
+        "run_id": "41577832824"
       }
     },
     "25113": {
@@ -34866,13 +34872,6 @@
           "source_id": "34040589",
           "target_video_id": "30740802",
           "permanent": false,
-          "attempted_at": "2026-11-03T03:45:18.272148+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34040589",
-          "target_video_id": "30740802",
-          "permanent": false,
           "attempted_at": "2026-11-03T04:18:07.354013+00:00"
         },
         {
@@ -34881,6 +34880,13 @@
           "target_video_id": "30740802",
           "permanent": false,
           "attempted_at": "2026-11-03T05:07:14.520847+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34040589",
+          "target_video_id": "30740802",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:39:22.741029+00:00"
         }
       ],
       "last_plan": {
@@ -34894,12 +34900,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-02T19:50:15.015009+00:00",
         "relay_source_id": "34040589"
-      },
-      "claim": {
-        "worker_id": "50cf7ac9ada74833ad7eb0dec32d54f2-shard-0",
-        "claimed_at": "2026-11-03T05:39:20.082950+00:00",
-        "lease_expires_at": "2026-11-03T11:39:20.082950+00:00",
-        "run_id": "41577832824"
       }
     },
     "1128": {
@@ -41180,7 +41180,7 @@
       "last_plan": {
         "source_id": "33648195",
         "display_name": "The Adventures of Tintin 1080p CZ Dabing",
-        "planned_at": "2026-11-03T05:39:19.962853+00:00"
+        "planned_at": "2026-11-03T05:39:22.435275+00:00"
       }
     },
     "1270": {
@@ -73849,5 +73849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:39:20.855303+00:00"
+  "updated_at": "2026-11-03T05:39:22.741048+00:00"
 }
