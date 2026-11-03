@@ -33674,7 +33674,7 @@
       "last_plan": {
         "source_id": "34192844",
         "display_name": "A Nightmare on Elm Street (1984) 4K CZ Dabing",
-        "planned_at": "2026-11-03T01:27:01.693081+00:00"
+        "planned_at": "2026-11-03T01:27:04.814144+00:00"
       },
       "previous_target_id": "30737580",
       "prepared": {
@@ -39505,17 +39505,19 @@
       "attempts": []
     },
     "14612": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34686675",
+          "reason": "Request failed for https://sdilej.cz/34686675/stuj-pri-mne-doraemone-2-2020-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:27:05.595184+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34686675",
         "display_name": "Stand by Me Doraemon 2 (STAND BY ME ドラえもん2) 1080p CZ Dabing",
         "planned_at": "2026-11-03T01:26:19.453271+00:00"
-      },
-      "claim": {
-        "worker_id": "56bfe24fa7a640609383785ce608eaaa-shard-0",
-        "claimed_at": "2026-11-03T01:26:19.685504+00:00",
-        "lease_expires_at": "2026-11-03T07:26:19.685504+00:00",
-        "run_id": "41544835219"
       }
     },
     "1137": {
@@ -39523,7 +39525,7 @@
       "last_plan": {
         "source_id": "34155742",
         "display_name": "The Specials (Hors Normes) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T01:27:01.909840+00:00"
+        "planned_at": "2026-11-03T01:27:04.959708+00:00"
       }
     },
     "35413": {
@@ -71361,5 +71363,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:27:01.909856+00:00"
+  "updated_at": "2026-11-03T01:27:05.595202+00:00"
 }
