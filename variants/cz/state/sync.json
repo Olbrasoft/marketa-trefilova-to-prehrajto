@@ -13932,13 +13932,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-03T05:40:29.993451+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-03T06:12:51.487195+00:00"
         },
         {
@@ -13947,12 +13940,19 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-03T06:43:46.806879+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:14:03.750385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-03T06:43:45.464168+00:00"
+        "planned_at": "2026-11-03T07:14:02.522227+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -41857,11 +41857,22 @@
       "last_plan": {
         "source_id": "34699967",
         "display_name": "One Hundred and One Dalmatians 1080p CZ Dabing",
-        "planned_at": "2026-11-03T07:13:59.772644+00:00"
+        "planned_at": "2026-11-03T07:14:02.608738+00:00"
+      },
+      "claim": {
+        "worker_id": "8e86b41a1b404a9cabccfbb6ecec5c9f-shard-0",
+        "claimed_at": "2026-11-03T07:14:02.826591+00:00",
+        "lease_expires_at": "2026-11-03T13:14:02.826591+00:00",
+        "run_id": "41577832824"
       }
     },
     "18872": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34626570",
+        "display_name": "The Lego Batman Movie 4K CZ Dabing",
+        "planned_at": "2026-11-03T07:14:02.655066+00:00"
+      }
     },
     "11442": {
       "attempts": []
@@ -74721,5 +74732,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:14:00.886425+00:00"
+  "updated_at": "2026-11-03T07:14:03.750408+00:00"
 }
