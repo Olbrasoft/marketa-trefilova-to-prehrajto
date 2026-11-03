@@ -16341,13 +16341,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-03T21:00:12.770333+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-03T21:42:48.743404+00:00"
         },
         {
@@ -16356,6 +16349,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-03T22:13:33.313392+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:47:38.720015+00:00"
         }
       ],
       "last_plan": {
@@ -16369,12 +16369,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
-      },
-      "claim": {
-        "worker_id": "057f25de53704986b025167912a56cce-shard-0",
-        "claimed_at": "2026-11-03T22:47:36.302929+00:00",
-        "lease_expires_at": "2026-11-04T04:47:36.302929+00:00",
-        "run_id": "41730144184"
       }
     },
     "12843": {
@@ -47657,7 +47651,7 @@
       "last_plan": {
         "source_id": "30805105",
         "display_name": "The Professionals 720p CZ Dabing",
-        "planned_at": "2026-11-03T22:08:27.600044+00:00"
+        "planned_at": "2026-11-03T22:47:38.322305+00:00"
       },
       "previous_target_id": "30773994",
       "prepared": {
@@ -47665,6 +47659,12 @@
         "size_bytes": 3472968040,
         "prepared_at": "2026-11-03T22:08:31.532699+00:00",
         "relay_source_id": "30805105"
+      },
+      "claim": {
+        "worker_id": "998258c8bf8e4b7286c000a8c6827269-shard-0",
+        "claimed_at": "2026-11-03T22:47:38.503763+00:00",
+        "lease_expires_at": "2026-11-04T04:47:38.503763+00:00",
+        "run_id": "41730144184"
       }
     },
     "20401": {
@@ -48055,7 +48055,7 @@
       "last_plan": {
         "source_id": "23749695",
         "display_name": "The Silent Revolution (Das schweigende Klassenzimmer) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T22:47:33.597188+00:00"
+        "planned_at": "2026-11-03T22:47:38.403207+00:00"
       }
     },
     "1292": {
@@ -83891,5 +83891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:47:36.302961+00:00"
+  "updated_at": "2026-11-03T22:47:38.720024+00:00"
 }
