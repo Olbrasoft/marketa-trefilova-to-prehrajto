@@ -8532,7 +8532,7 @@
       "last_plan": {
         "source_id": "21842659",
         "display_name": "Song of the Sea 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:27:10.681268+00:00"
+        "planned_at": "2026-11-03T19:58:03.755311+00:00"
       },
       "previous_target_id": "30631275",
       "prepared": {
@@ -8540,17 +8540,16 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
+      },
+      "claim": {
+        "worker_id": "45d5db0d48114d2897d07e50c5ceb3d0-shard-0",
+        "claimed_at": "2026-11-03T19:58:04.323757+00:00",
+        "lease_expires_at": "2026-11-04T01:58:04.323757+00:00",
+        "run_id": "41693337041"
       }
     },
     "270": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
-          "attempted_at": "2026-11-03T17:44:10.772712+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "17777440",
@@ -8564,6 +8563,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-03T19:27:08.097692+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-03T19:58:04.228621+00:00"
         }
       ],
       "last_plan": {
@@ -8577,12 +8583,6 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
-      },
-      "claim": {
-        "worker_id": "f71d82cc557f4b72a77fd7f22cb21aeb-shard-0",
-        "claimed_at": "2026-11-03T19:57:59.321918+00:00",
-        "lease_expires_at": "2026-11-04T01:57:59.321918+00:00",
-        "run_id": "41693337041"
       }
     },
     "21873": {
@@ -46653,7 +46653,7 @@
       "last_plan": {
         "source_id": "30326838",
         "display_name": "The Bélier Family (La Famille Bélier) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:57:58.938311+00:00"
+        "planned_at": "2026-11-03T19:58:03.922306+00:00"
       }
     },
     "15498": {
@@ -82162,5 +82162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:57:59.321947+00:00"
+  "updated_at": "2026-11-03T19:58:04.323788+00:00"
 }
