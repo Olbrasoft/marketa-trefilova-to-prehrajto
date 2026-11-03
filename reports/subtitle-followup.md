@@ -349,3 +349,4 @@ Attach subtitles only after target processing has finished.
 | Everything Is Illuminated 720p CZ Titulky | 30770852 | https://sdilej.cz/28421392/naprosto-osvetleno-2005-everything-is-illuminated-eng-dab.-eng-cz-ttl..mkv | Extract Czech track from exact source after processing |
 | Zatōichi (座頭市) 1080p CZ Titulky | 30771751 | https://sdilej.cz/20752549/samuraj-the-blind-swordsman-zatoichi-2003-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Kill 4K CZ Titulky | 30771978 | https://sdilej.cz/29236159/boy-kills-world-2023-hd-2160p-sdr-dd-5.1-ang-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Tesis (Thesis) 720p CZ Titulky | 30772601 | https://sdilej.cz/34938075/1996-diplomova-prace-thriller-drama-horor-mysteriozni-74-ana-torrent-cz.-tit..mkv | Extract Czech track from exact source after processing |
