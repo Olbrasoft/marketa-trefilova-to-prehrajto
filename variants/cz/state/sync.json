@@ -47405,17 +47405,19 @@
       "attempts": []
     },
     "1369": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13025056",
+          "target_video_id": "30773856",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:25:18.132470+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13025056",
         "display_name": "The Best of Enemies 1080p CZ Dabing",
         "planned_at": "2026-11-03T21:58:25.975187+00:00"
-      },
-      "claim": {
-        "worker_id": "82605f8a961a4fdcba2c929eb966fba3-shard-0",
-        "claimed_at": "2026-11-03T21:58:26.412662+00:00",
-        "lease_expires_at": "2026-11-04T03:58:26.412662+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773856",
       "prepared": {
@@ -83711,5 +83713,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:24:06.002155+00:00"
+  "updated_at": "2026-11-03T22:25:18.132491+00:00"
 }
