@@ -16736,13 +16736,6 @@
           "source_id": "32911115",
           "target_video_id": "30752813",
           "permanent": false,
-          "attempted_at": "2026-11-03T07:27:41.611181+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32911115",
-          "target_video_id": "30752813",
-          "permanent": false,
           "attempted_at": "2026-11-03T08:01:36.799239+00:00"
         },
         {
@@ -16751,6 +16744,13 @@
           "target_video_id": "30752813",
           "permanent": false,
           "attempted_at": "2026-11-03T08:40:00.613153+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32911115",
+          "target_video_id": "30752813",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:12:18.498547+00:00"
         }
       ],
       "last_plan": {
@@ -16906,7 +16906,7 @@
       "last_plan": {
         "source_id": "28282423",
         "display_name": "The Talented Mr. Ripley 1080p CZ Titulky",
-        "planned_at": "2026-11-03T08:40:02.481001+00:00"
+        "planned_at": "2026-11-03T09:12:17.337297+00:00"
       },
       "previous_target_id": "30753582",
       "prepared": {
@@ -16914,6 +16914,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-03T05:45:26.935565+00:00",
         "relay_source_id": "28282423"
+      },
+      "claim": {
+        "worker_id": "5ad285be5cea4a2d899f0d741f7141b3-shard-0",
+        "claimed_at": "2026-11-03T09:12:17.757596+00:00",
+        "lease_expires_at": "2026-11-03T15:12:17.757596+00:00",
+        "run_id": "41603185604"
       }
     },
     "11522": {
@@ -51784,5 +51790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:12:14.015374+00:00"
+  "updated_at": "2026-11-03T09:12:18.498564+00:00"
 }
