@@ -40213,17 +40213,19 @@
       }
     },
     "1501": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31041312",
+          "target_video_id": "30749185",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:01:52.623573+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31041312",
         "display_name": "Fast Five 4K CZ Dabing",
         "planned_at": "2026-11-03T02:53:10.567013+00:00"
-      },
-      "claim": {
-        "worker_id": "7a57d3e4c6c64bef8f80dc6735e93728-shard-0",
-        "claimed_at": "2026-11-03T02:53:10.790374+00:00",
-        "lease_expires_at": "2026-11-03T08:53:10.790374+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30749185",
       "prepared": {
@@ -72262,5 +72264,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:57:07.367602+00:00"
+  "updated_at": "2026-11-03T03:01:52.623590+00:00"
 }
