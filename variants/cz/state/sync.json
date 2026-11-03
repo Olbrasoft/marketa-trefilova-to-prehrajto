@@ -47356,17 +47356,19 @@
       }
     },
     "21464": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11268888",
+          "target_video_id": "30773833",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:58:13.594789+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11268888",
         "display_name": "Moby Dick SD CZ Dabing",
         "planned_at": "2026-11-03T21:56:21.862071+00:00"
-      },
-      "claim": {
-        "worker_id": "99a7fbf257484327b13180197a2b7a04-shard-0",
-        "claimed_at": "2026-11-03T21:56:22.110677+00:00",
-        "lease_expires_at": "2026-11-04T03:56:22.110677+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773833",
       "prepared": {
@@ -83328,5 +83330,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:58:09.380711+00:00"
+  "updated_at": "2026-11-03T21:58:13.594815+00:00"
 }
