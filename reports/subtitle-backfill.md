@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T08:39:19.374437+00:00
+Poslední aktualizace (UTC): 2026-11-03T08:39:23.065276+00:00
 
 Zkontrolováno videí: 331. Další stránka kontroly: 0.
 
@@ -86,7 +86,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T08:39:19.374319+00:00 |
 | [Ready Player One 1080p CZ Titulky](https://prehraj.to/ready-player-one-1080p-cz-titulky-mkv/2c55f30281f91b95) (ID 30750049) | [Sdílej 14502469](https://sdilej.cz/14502469/ready-player-one-hra-zacina-2018-m1080p-web-dl-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-03T08:28:19.200685+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-03T07:38:40.811192+00:00 |
-| [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-03T07:38:22.289604+00:00 |
+| [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-03T08:39:23.065208+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-03T08:38:36.625576+00:00 |
 | [Spider-Man 1080p CZ Titulky](https://prehraj.to/spider-man-1080p-cz-titulky-mkv/c795893d39e127b0) (ID 30746380) | [Sdílej 16303284](https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv) | target_unavailable | 2026-11-03T07:47:56.244779+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-03T08:39:03.895803+00:00 |
