@@ -47715,6 +47715,12 @@
         "source_id": "10403819",
         "display_name": "Brigsby Bear 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:21:34.934439+00:00"
+      },
+      "claim": {
+        "worker_id": "9fefcb35b159457a8d58372798ed3950-shard-0",
+        "claimed_at": "2026-11-03T22:21:41.532569+00:00",
+        "lease_expires_at": "2026-11-04T04:21:41.532569+00:00",
+        "run_id": "41693337041"
       }
     },
     "20632": {
@@ -47730,7 +47736,25 @@
       "attempts": []
     },
     "29143": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33566303",
+        "display_name": "Taxi (2015) SD CZ Dabing",
+        "planned_at": "2026-11-03T22:21:41.720562+00:00"
+      },
+      "claim": {
+        "worker_id": "ebcf20ad7d2f461abc5fb04d504ae4a7-shard-0",
+        "claimed_at": "2026-11-03T22:21:41.944125+00:00",
+        "lease_expires_at": "2026-11-04T04:21:41.944125+00:00",
+        "run_id": "41693337041"
+      },
+      "previous_target_id": "30774277",
+      "prepared": {
+        "target_video_id": "30774277",
+        "size_bytes": 789628204,
+        "prepared_at": "2026-11-03T22:21:45.220193+00:00",
+        "relay_source_id": "33566303"
+      }
     },
     "28041": {
       "attempts": []
@@ -83628,5 +83652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:21:34.934462+00:00"
+  "updated_at": "2026-11-03T22:21:45.220214+00:00"
 }
