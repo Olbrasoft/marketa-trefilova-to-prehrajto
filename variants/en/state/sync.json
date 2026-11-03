@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-03T17:37:54.286509+00:00"
+        "planned_at": "2026-11-03T18:13:03.537370+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "ddb58c6100ff426785958602cc256903-shard-0",
+        "claimed_at": "2026-11-03T18:13:03.763314+00:00",
+        "lease_expires_at": "2026-11-04T00:13:03.763314+00:00",
+        "run_id": "41643804131"
       }
     },
     "21312": {
@@ -17517,13 +17523,6 @@
           "source_id": "10716235",
           "target_video_id": "30761347",
           "permanent": false,
-          "attempted_at": "2026-11-03T16:21:24.460214+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10716235",
-          "target_video_id": "30761347",
-          "permanent": false,
           "attempted_at": "2026-11-03T16:59:32.630739+00:00"
         },
         {
@@ -17532,6 +17531,13 @@
           "target_video_id": "30761347",
           "permanent": false,
           "attempted_at": "2026-11-03T17:38:00.481206+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10716235",
+          "target_video_id": "30761347",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:13:04.493421+00:00"
         }
       ],
       "last_plan": {
@@ -54445,5 +54451,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:12:54.601373+00:00"
+  "updated_at": "2026-11-03T18:13:04.493439+00:00"
 }
