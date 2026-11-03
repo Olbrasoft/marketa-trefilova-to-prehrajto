@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-03T10:26:46.482481+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-03T10:58:10.073120+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-03T12:04:29.939308+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:48:11.664371+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "5288de9888bd4bdf9a0a2039c7ef5e1c-shard-0",
-        "claimed_at": "2026-11-03T12:48:07.378411+00:00",
-        "lease_expires_at": "2026-11-03T18:48:07.378411+00:00",
-        "run_id": "41603185604"
       }
     },
     "108": {
@@ -2116,7 +2110,7 @@
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-11-03T12:04:31.712896+00:00"
+        "planned_at": "2026-11-03T12:48:09.636068+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -2124,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "e59f30d60bd4459892b16088844cb096-shard-0",
+        "claimed_at": "2026-11-03T12:48:09.977407+00:00",
+        "lease_expires_at": "2026-11-03T18:48:09.977407+00:00",
+        "run_id": "41603185604"
       }
     },
     "21690": {
@@ -17346,7 +17346,7 @@
       "last_plan": {
         "source_id": "26884588",
         "display_name": "The Wonderful Story of Henry Sugar 1080p CZ Titulky",
-        "planned_at": "2026-11-03T12:48:07.323934+00:00"
+        "planned_at": "2026-11-03T12:48:09.744472+00:00"
       }
     },
     "25634": {
@@ -52834,5 +52834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:48:08.015167+00:00"
+  "updated_at": "2026-11-03T12:48:11.664389+00:00"
 }
