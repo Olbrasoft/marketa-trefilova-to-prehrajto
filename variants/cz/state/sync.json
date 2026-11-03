@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-02T23:47:11.160513+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-03T00:22:07.994799+00:00"
         },
         {
@@ -220,12 +213,19 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-03T00:52:14.858953+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:24:31.505555+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-03T00:52:12.643200+00:00"
+        "planned_at": "2026-11-03T01:24:29.425139+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -39451,14 +39451,25 @@
       "last_plan": {
         "source_id": "33499177",
         "display_name": "Marriage Italian-Style (Marriage Italian Style) 4K CZ Dabing",
-        "planned_at": "2026-11-03T01:24:25.707240+00:00"
+        "planned_at": "2026-11-03T01:24:29.579133+00:00"
+      },
+      "claim": {
+        "worker_id": "6df194f53f8141a7a054a6745fa3f25c-shard-0",
+        "claimed_at": "2026-11-03T01:24:29.979277+00:00",
+        "lease_expires_at": "2026-11-03T07:24:29.979277+00:00",
+        "run_id": "41544835219"
       }
     },
     "31978": {
       "attempts": []
     },
     "35785": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34147860",
+        "display_name": "Mr. Nobody Against Putin 1080p CZ Dabing",
+        "planned_at": "2026-11-03T01:24:29.669806+00:00"
+      }
     },
     "19283": {
       "attempts": []
@@ -71307,5 +71318,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:24:27.758246+00:00"
+  "updated_at": "2026-11-03T01:24:31.505574+00:00"
 }
