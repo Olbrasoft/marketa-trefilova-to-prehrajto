@@ -8532,7 +8532,7 @@
       "last_plan": {
         "source_id": "21842659",
         "display_name": "Song of the Sea 1080p CZ Dabing",
-        "planned_at": "2026-11-03T09:27:47.810639+00:00"
+        "planned_at": "2026-11-03T09:58:32.364069+00:00"
       },
       "previous_target_id": "30631275",
       "prepared": {
@@ -8540,17 +8540,16 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
+      },
+      "claim": {
+        "worker_id": "32669727668e46eeaaae4abc68af8828-shard-0",
+        "claimed_at": "2026-11-03T09:58:32.703064+00:00",
+        "lease_expires_at": "2026-11-03T15:58:32.703064+00:00",
+        "run_id": "41603185604"
       }
     },
     "270": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
-          "attempted_at": "2026-11-03T08:20:23.218758+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "17777440",
@@ -8564,6 +8563,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-03T09:27:43.439193+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:58:32.851437+00:00"
         }
       ],
       "last_plan": {
@@ -8577,12 +8583,6 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
-      },
-      "claim": {
-        "worker_id": "a804db4be255448dbccdf519b3380c1e-shard-0",
-        "claimed_at": "2026-11-03T09:58:30.316171+00:00",
-        "lease_expires_at": "2026-11-03T15:58:30.316171+00:00",
-        "run_id": "41603185604"
       }
     },
     "21873": {
@@ -43227,7 +43227,7 @@
       "last_plan": {
         "source_id": "33159582",
         "display_name": "National Lampoon's Vacation 4K CZ Dabing",
-        "planned_at": "2026-11-03T09:58:30.118257+00:00"
+        "planned_at": "2026-11-03T09:58:32.514380+00:00"
       }
     },
     "1459": {
@@ -76736,5 +76736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:58:31.080211+00:00"
+  "updated_at": "2026-11-03T09:58:32.851455+00:00"
 }
