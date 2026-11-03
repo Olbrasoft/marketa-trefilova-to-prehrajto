@@ -42761,17 +42761,19 @@
       }
     },
     "10835": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31012333",
+          "target_video_id": "30756344",
+          "permanent": false,
+          "attempted_at": "2026-11-03T08:53:18.499812+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31012333",
         "display_name": "From Russia with Love 4K CZ Dabing",
         "planned_at": "2026-11-03T08:40:24.192463+00:00"
-      },
-      "claim": {
-        "worker_id": "7b33e356e47b4e0eb9fe74b128a55e7e-shard-0",
-        "claimed_at": "2026-11-03T08:40:24.355205+00:00",
-        "lease_expires_at": "2026-11-03T14:40:24.355205+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30756344",
       "prepared": {
@@ -76082,5 +76084,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:53:14.067442+00:00"
+  "updated_at": "2026-11-03T08:53:18.499837+00:00"
 }
