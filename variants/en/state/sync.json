@@ -14171,13 +14171,6 @@
           "source_id": "19346570",
           "target_video_id": "30715404",
           "permanent": false,
-          "attempted_at": "2026-11-03T03:43:10.603335+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19346570",
-          "target_video_id": "30715404",
-          "permanent": false,
           "attempted_at": "2026-11-03T04:17:08.984806+00:00"
         },
         {
@@ -14186,6 +14179,13 @@
           "target_video_id": "30715404",
           "permanent": false,
           "attempted_at": "2026-11-03T05:06:04.695131+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19346570",
+          "target_video_id": "30715404",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:38:36.477854+00:00"
         }
       ],
       "last_plan": {
@@ -16364,7 +16364,7 @@
       "last_plan": {
         "source_id": "16303284",
         "display_name": "Spider-Man 1080p CZ Titulky",
-        "planned_at": "2026-11-03T05:06:06.229613+00:00"
+        "planned_at": "2026-11-03T05:38:35.536809+00:00"
       },
       "previous_target_id": "30746380",
       "prepared": {
@@ -16372,6 +16372,12 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-11-03T00:51:44.832304+00:00",
         "relay_source_id": "16303284"
+      },
+      "claim": {
+        "worker_id": "dd7f6fec006742c0ac160ea34f53f7e1-shard-0",
+        "claimed_at": "2026-11-03T05:38:35.627935+00:00",
+        "lease_expires_at": "2026-11-03T11:38:35.627935+00:00",
+        "run_id": "41577832824"
       }
     },
     "22485": {
@@ -16768,7 +16774,7 @@
       "last_plan": {
         "source_id": "30205491",
         "display_name": "Conclave 4K CZ Titulky",
-        "planned_at": "2026-11-03T05:38:34.006820+00:00"
+        "planned_at": "2026-11-03T05:38:35.597104+00:00"
       }
     },
     "1151": {
@@ -50748,5 +50754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:38:34.006835+00:00"
+  "updated_at": "2026-11-03T05:38:36.477872+00:00"
 }
