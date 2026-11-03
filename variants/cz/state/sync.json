@@ -39783,17 +39783,19 @@
       }
     },
     "1495": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34273591",
+          "target_video_id": "30747494",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:56:43.896169+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34273591",
         "display_name": "X-Men 4K CZ Dabing",
         "planned_at": "2026-11-03T01:50:23.753141+00:00"
-      },
-      "claim": {
-        "worker_id": "1904d05763494c778afa6cfd4fcc850b-shard-0",
-        "claimed_at": "2026-11-03T01:50:23.970472+00:00",
-        "lease_expires_at": "2026-11-03T07:50:23.970472+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30747494",
       "prepared": {
@@ -71627,5 +71629,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:51:55.610794+00:00"
+  "updated_at": "2026-11-03T01:56:43.896185+00:00"
 }
