@@ -38668,17 +38668,19 @@
       }
     },
     "19786": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25606821",
+          "target_video_id": "30746165",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:44:26.247378+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25606821",
         "display_name": "Wrinkles (Arrugas) SD CZ Dabing",
         "planned_at": "2026-11-03T00:40:52.786907+00:00"
-      },
-      "claim": {
-        "worker_id": "a1a36b8a00214578a91487d95aa1ff5e-shard-0",
-        "claimed_at": "2026-11-03T00:40:52.989549+00:00",
-        "lease_expires_at": "2026-11-03T06:40:52.989549+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746165",
       "prepared": {
@@ -70515,5 +70517,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:41:58.603649+00:00"
+  "updated_at": "2026-11-03T00:44:26.247396+00:00"
 }
