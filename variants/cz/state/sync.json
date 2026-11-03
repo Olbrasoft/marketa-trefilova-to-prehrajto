@@ -45157,17 +45157,19 @@
       "attempts": []
     },
     "19421": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32105744",
+          "target_video_id": "30767068",
+          "permanent": false,
+          "attempted_at": "2026-11-03T16:19:16.390178+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32105744",
         "display_name": "Pusher (1996) 720p CZ Dabing",
         "planned_at": "2026-11-03T16:05:31.260203+00:00"
-      },
-      "claim": {
-        "worker_id": "632b581bce274a7d9c9c753963598631-shard-0",
-        "claimed_at": "2026-11-03T16:05:31.483971+00:00",
-        "lease_expires_at": "2026-11-03T22:05:31.483971+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30767068",
       "prepared": {
@@ -79888,5 +79890,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T16:16:01.333774+00:00"
+  "updated_at": "2026-11-03T16:19:16.390194+00:00"
 }
