@@ -43896,17 +43896,19 @@
       }
     },
     "12424": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26803672",
+          "target_video_id": "30760480",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:16:34.317648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26803672",
         "display_name": "Frida SD CZ Dabing",
         "planned_at": "2026-11-03T12:11:03.568601+00:00"
-      },
-      "claim": {
-        "worker_id": "eb1aa1f47c4742bc90de7b06659848c5-shard-0",
-        "claimed_at": "2026-11-03T12:11:03.784405+00:00",
-        "lease_expires_at": "2026-11-03T18:11:03.784405+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30760480",
       "prepared": {
@@ -77755,5 +77757,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:13:20.188969+00:00"
+  "updated_at": "2026-11-03T12:16:34.317664+00:00"
 }
