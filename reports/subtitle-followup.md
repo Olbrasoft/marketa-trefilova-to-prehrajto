@@ -306,7 +306,7 @@ Attach subtitles only after target processing has finished.
 | A Hard Day's Night 1080p CZ Titulky | 30735890 | https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | A Bittersweet Life (달콤한 인생) 1080p CZ Titulky | 30738514 | https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv | Complete: Czech subtitles verified |
 | The Time Machine (1960) SD CZ Titulky | 30737947 | https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv | Complete: Czech subtitles verified |
-| Hair 1080p CZ Titulky | 30738024 | https://sdilej.cz/29035963/vlasy.mkv | Extract Czech track from exact source after processing |
+| Hair 1080p CZ Titulky | 30738024 | https://sdilej.cz/29035963/vlasy.mkv | Complete: Czech subtitles verified |
 | Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky | 30738340 | https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | One Life 1080p CZ Titulky | 30739164 | https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | Cure 1080p CZ Titulky | 30739372 | https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv | Complete: Czech subtitles verified |
@@ -333,5 +333,5 @@ Attach subtitles only after target processing has finished.
 | A History of Violence 1080p CZ Titulky | 30753470 | https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv | Complete: Czech subtitles verified |
 | The Talented Mr. Ripley 1080p CZ Titulky | 30753582 | https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
 | Army of Darkness 1080p CZ Titulky | 30755736 | https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Coach Carter 1080p CZ Titulky | 30756369 | https://sdilej.cz/26231457/coach-carter-2005.mkv | Extract Czech track from exact source after processing |
+| Coach Carter 1080p CZ Titulky | 30756369 | https://sdilej.cz/26231457/coach-carter-2005.mkv | Complete: Czech subtitles verified |
 | The Rocky Horror Picture Show 1080p CZ Titulky | 30756513 | https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv | Extract Czech track from exact source after processing |
