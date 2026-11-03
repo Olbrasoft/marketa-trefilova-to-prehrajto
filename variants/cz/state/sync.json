@@ -46213,17 +46213,23 @@
           "attempted_at": "2026-11-03T18:36:48.114197+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "22347741",
-        "display_name": "Broadcast News SD CZ Dabing",
-        "planned_at": "2026-11-03T18:33:55.890631+00:00"
-      },
       "previous_target_id": "30770956",
-      "prepared": {
+      "upload": {
         "target_video_id": "30770956",
-        "size_bytes": 1373394254,
-        "prepared_at": "2026-11-03T18:34:05.270246+00:00",
-        "relay_source_id": "22347741"
+        "display_name": "Broadcast News SD CZ Dabing",
+        "source_id": "22347741",
+        "source_url": "https://sdilej.cz/22347741/vysilame-zpravy-1987-czdab.avi",
+        "source_filename": "Vysíláme zprávy (1987)CZdab.avi",
+        "size_bytes": 1400000000,
+        "width": 640,
+        "height": 346,
+        "audio_language": "cs",
+        "language_probability": 0.9567767381668091,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/broadcast-news-sd-cz-dabing-avi/79cee7e900763aa9",
+        "uploaded_at": "2026-11-03T19:20:43.851777+00:00"
       }
     },
     "15428": {
@@ -46497,7 +46503,13 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:20:38.311178+00:00"
+        "planned_at": "2026-11-03T19:20:42.861705+00:00"
+      },
+      "claim": {
+        "worker_id": "04861a6960b3485889c513f9181ca14a-shard-0",
+        "claimed_at": "2026-11-03T19:20:43.256464+00:00",
+        "lease_expires_at": "2026-11-04T01:20:43.256464+00:00",
+        "run_id": "41693337041"
       }
     },
     "20013": {
@@ -46513,7 +46525,12 @@
       "attempts": []
     },
     "18639": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34192154",
+        "display_name": "Song Sung Blue 1080p CZ Dabing",
+        "planned_at": "2026-11-03T19:20:42.953345+00:00"
+      }
     },
     "18335": {
       "attempts": []
@@ -82030,5 +82047,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:20:39.743944+00:00"
+  "updated_at": "2026-11-03T19:20:43.851799+00:00"
 }
