@@ -338,3 +338,4 @@ Attach subtitles only after target processing has finished.
 | Frequency 1080p CZ Titulky | 30759792 | https://sdilej.cz/14524461/frekvence.mkv | Extract Czech track from exact source after processing |
 | Tetris 4K CZ Titulky | 30761160 | https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Mid90s 720p CZ Titulky | 30761152 | https://sdilej.cz/31920680/mid90s-2018-cz-titulky-brdrip.720p.dd5.1.x264-mg.okay-.mkv | Extract Czech track from exact source after processing |
+| Burning (Beoning) (2018) 720p CZ Titulky | 30761347 | https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv | Extract Czech track from exact source after processing |
