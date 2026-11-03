@@ -48059,17 +48059,19 @@
       }
     },
     "1164": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23749695",
+          "target_video_id": "30774636",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:54:06.327169+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23749695",
         "display_name": "The Silent Revolution (Das schweigende Klassenzimmer) 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:48:04.951640+00:00"
-      },
-      "claim": {
-        "worker_id": "d9ce7b805ead4e229914fc7027b53343-shard-0",
-        "claimed_at": "2026-11-03T22:48:05.079281+00:00",
-        "lease_expires_at": "2026-11-04T04:48:05.079281+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30774636",
       "prepared": {
@@ -83963,5 +83965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:54:01.778914+00:00"
+  "updated_at": "2026-11-03T22:54:06.327185+00:00"
 }
