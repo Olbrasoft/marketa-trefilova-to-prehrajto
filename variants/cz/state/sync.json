@@ -43515,17 +43515,19 @@
       }
     },
     "12051": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33200790",
+          "target_video_id": "30759267",
+          "permanent": false,
+          "attempted_at": "2026-11-03T10:53:15.593958+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33200790",
         "display_name": "Twin Peaks: Fire Walk with Me 1080p CZ Dabing",
         "planned_at": "2026-11-03T10:47:48.684282+00:00"
-      },
-      "claim": {
-        "worker_id": "ca5d0393fdc74206913aa2096a0f34bb-shard-0",
-        "claimed_at": "2026-11-03T10:47:48.874337+00:00",
-        "lease_expires_at": "2026-11-03T16:47:48.874337+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30759267",
       "prepared": {
@@ -77216,5 +77218,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T10:48:59.689417+00:00"
+  "updated_at": "2026-11-03T10:53:15.593976+00:00"
 }
