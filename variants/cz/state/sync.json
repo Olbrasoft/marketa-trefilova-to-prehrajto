@@ -47853,17 +47853,19 @@
       "attempts": []
     },
     "21471": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30807313",
+          "target_video_id": "30774369",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:27:17.235391+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30807313",
         "display_name": "Seven Men from Now (7 Men from Now) 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:25:42.311022+00:00"
-      },
-      "claim": {
-        "worker_id": "e83f366409174416bc8e343c3f2276c4-shard-0",
-        "claimed_at": "2026-11-03T22:25:42.549531+00:00",
-        "lease_expires_at": "2026-11-04T04:25:42.549531+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30774369",
       "prepared": {
@@ -83744,5 +83746,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:27:12.583075+00:00"
+  "updated_at": "2026-11-03T22:27:17.235410+00:00"
 }
