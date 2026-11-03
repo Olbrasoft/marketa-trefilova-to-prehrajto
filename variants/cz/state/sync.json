@@ -42375,17 +42375,19 @@
       }
     },
     "1551": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32479186",
+          "target_video_id": "30755879",
+          "permanent": false,
+          "attempted_at": "2026-11-03T08:08:56.093882+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32479186",
         "display_name": "The NeverEnding Story (Die unendliche Geschichte) 4K CZ Dabing",
         "planned_at": "2026-11-03T08:01:52.961153+00:00"
-      },
-      "claim": {
-        "worker_id": "ce3d3f326b44484e93cd1cfe89ab2314-shard-0",
-        "claimed_at": "2026-11-03T08:01:53.089929+00:00",
-        "lease_expires_at": "2026-11-03T14:01:53.089929+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755879",
       "prepared": {
@@ -75483,5 +75485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:07:26.998630+00:00"
+  "updated_at": "2026-11-03T08:08:56.093922+00:00"
 }
