@@ -47333,17 +47333,19 @@
       }
     },
     "11535": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34786796",
+          "target_video_id": "30773829",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:57:50.600946+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786796",
         "display_name": "A Passage to India SD CZ Dabing",
         "planned_at": "2026-11-03T21:55:57.473485+00:00"
-      },
-      "claim": {
-        "worker_id": "8213687723144718a7628a40efc48716-shard-0",
-        "claimed_at": "2026-11-03T21:55:57.715358+00:00",
-        "lease_expires_at": "2026-11-04T03:55:57.715358+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773829",
       "prepared": {
@@ -83321,5 +83323,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:56:25.599267+00:00"
+  "updated_at": "2026-11-03T21:57:50.600967+00:00"
 }
