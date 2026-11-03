@@ -40949,17 +40949,19 @@
       }
     },
     "1272": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33768493",
+          "target_video_id": "30752830",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:12:39.991333+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33768493",
         "display_name": "Gremlins 1080p CZ Dabing",
         "planned_at": "2026-11-03T05:09:29.814121+00:00"
-      },
-      "claim": {
-        "worker_id": "4a39122b959347f9a45893942d8c5989-shard-0",
-        "claimed_at": "2026-11-03T05:09:29.925688+00:00",
-        "lease_expires_at": "2026-11-03T11:09:29.925688+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30752830",
       "prepared": {
@@ -73436,5 +73438,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:12:04.783941+00:00"
+  "updated_at": "2026-11-03T05:12:39.991356+00:00"
 }
