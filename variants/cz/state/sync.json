@@ -43277,17 +43277,19 @@
       }
     },
     "1397": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26257479",
+          "target_video_id": "30758393",
+          "permanent": false,
+          "attempted_at": "2026-11-03T10:10:43.998704+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26257479",
         "display_name": "The Death of Stalin 1080p CZ Dabing",
         "planned_at": "2026-11-03T09:59:49.628531+00:00"
-      },
-      "claim": {
-        "worker_id": "049eeba03a964941a33fed0c016aed3b-shard-0",
-        "claimed_at": "2026-11-03T09:59:49.909511+00:00",
-        "lease_expires_at": "2026-11-03T15:59:49.909511+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30758393",
       "prepared": {
@@ -76794,5 +76796,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:59:54.933271+00:00"
+  "updated_at": "2026-11-03T10:10:43.998750+00:00"
 }
