@@ -16626,13 +16626,6 @@
     "1069": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "31764637",
-          "reason": "Request failed for https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-11-03T04:09:10.372426+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "31764637",
           "target_video_id": "30752783",
@@ -16645,12 +16638,19 @@
           "target_video_id": "30752783",
           "permanent": false,
           "attempted_at": "2026-11-03T05:45:16.956536+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31764637",
+          "target_video_id": "30752783",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:23:02.972230+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31764637",
         "display_name": "Weapons 1440p CZ Titulky",
-        "planned_at": "2026-11-03T05:45:15.953303+00:00"
+        "planned_at": "2026-11-03T06:23:01.926763+00:00"
       },
       "previous_target_id": "30752783",
       "prepared": {
@@ -50829,5 +50829,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:15:10.034382+00:00"
+  "updated_at": "2026-11-03T06:23:02.972254+00:00"
 }
