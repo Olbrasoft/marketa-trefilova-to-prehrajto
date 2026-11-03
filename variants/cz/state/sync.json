@@ -41975,17 +41975,19 @@
       }
     },
     "1294": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33875074",
+          "target_video_id": "30755262",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:27:35.978131+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33875074",
         "display_name": "The Zone of Interest 1080p CZ Dabing",
         "planned_at": "2026-11-03T07:23:01.788161+00:00"
-      },
-      "claim": {
-        "worker_id": "10ba5cc6343f4489a3126a136badb19a-shard-0",
-        "claimed_at": "2026-11-03T07:23:02.062406+00:00",
-        "lease_expires_at": "2026-11-03T13:23:02.062406+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755262",
       "prepared": {
@@ -75105,5 +75107,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:23:24.818526+00:00"
+  "updated_at": "2026-11-03T07:27:35.978151+00:00"
 }
