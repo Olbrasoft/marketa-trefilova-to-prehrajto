@@ -40446,21 +40446,34 @@
       }
     },
     "25820": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34557704",
+          "reason": "Request failed for https://sdilej.cz/34557704/grey-gardens-drew-barrymore-jeanne-tripplehorn-2009-drama-zivotopisny-bdrip.-1080p.-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:35:05.794638+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34557704",
         "display_name": "Grey Gardens SD CZ Dabing",
         "planned_at": "2026-11-03T03:33:51.563571+00:00"
-      },
-      "claim": {
-        "worker_id": "69f247306d1f487494f66a400e3c6392-shard-0",
-        "claimed_at": "2026-11-03T03:33:51.749639+00:00",
-        "lease_expires_at": "2026-11-03T09:33:51.749639+00:00",
-        "run_id": "41544835219"
       }
     },
     "1402": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33758506",
+        "display_name": "The Secret Life of Walter Mitty 1080p CZ Dabing",
+        "planned_at": "2026-11-03T03:34:25.353611+00:00"
+      },
+      "claim": {
+        "worker_id": "672f592c551d4946a35348341e1b80d8-shard-0",
+        "claimed_at": "2026-11-03T03:34:25.557371+00:00",
+        "lease_expires_at": "2026-11-03T09:34:25.557371+00:00",
+        "run_id": "41544835219"
+      }
     },
     "1555": {
       "attempts": []
@@ -72717,5 +72730,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:34:22.346923+00:00"
+  "updated_at": "2026-11-03T03:35:05.794659+00:00"
 }
