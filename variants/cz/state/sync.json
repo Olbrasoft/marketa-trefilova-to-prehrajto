@@ -43635,17 +43635,19 @@
       }
     },
     "22838": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33794372",
+          "reason": "Request failed for https://sdilej.cz/33794372/svedek-1985-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T11:02:23.310003+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33794372",
         "display_name": "Witness 1080p CZ Dabing",
         "planned_at": "2026-11-03T11:01:37.207524+00:00"
-      },
-      "claim": {
-        "worker_id": "cfca2c237112468d9e9df5110f646367-shard-0",
-        "claimed_at": "2026-11-03T11:01:37.429027+00:00",
-        "lease_expires_at": "2026-11-03T17:01:37.429027+00:00",
-        "run_id": "41603185604"
       }
     },
     "36635": {
@@ -43659,7 +43661,13 @@
       "last_plan": {
         "source_id": "34253924",
         "display_name": "Scent of a Woman (1974) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T11:01:46.575532+00:00"
+        "planned_at": "2026-11-03T11:01:49.436614+00:00"
+      },
+      "claim": {
+        "worker_id": "0d02f9ae3f6a4b659e0e336928f608d0-shard-0",
+        "claimed_at": "2026-11-03T11:01:49.635233+00:00",
+        "lease_expires_at": "2026-11-03T17:01:49.635233+00:00",
+        "run_id": "41603185604"
       }
     },
     "1492": {
@@ -77282,5 +77290,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T11:01:48.039521+00:00"
+  "updated_at": "2026-11-03T11:02:23.310020+00:00"
 }
