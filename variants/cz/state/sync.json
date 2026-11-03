@@ -29499,13 +29499,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-03T22:09:38.346936+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-03T22:41:14.028328+00:00"
         },
         {
@@ -29514,6 +29507,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-03T23:13:12.862535+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:43:23.134080+00:00"
         }
       ],
       "last_plan": {
@@ -29527,12 +29527,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
-      },
-      "claim": {
-        "worker_id": "44f81bc6b46144308a3194c121aa450c-shard-0",
-        "claimed_at": "2026-11-03T23:43:21.242940+00:00",
-        "lease_expires_at": "2026-11-04T05:43:21.242940+00:00",
-        "run_id": "41730144184"
       }
     },
     "25113": {
@@ -48878,7 +48872,13 @@
       "last_plan": {
         "source_id": "29753393",
         "display_name": "Tiger Bay 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:43:21.132900+00:00"
+        "planned_at": "2026-11-03T23:43:22.799881+00:00"
+      },
+      "claim": {
+        "worker_id": "0257fe287f9d4976a26405776d47a5e9-shard-0",
+        "claimed_at": "2026-11-03T23:43:22.917325+00:00",
+        "lease_expires_at": "2026-11-04T05:43:22.917325+00:00",
+        "run_id": "41730144184"
       }
     },
     "20593": {
@@ -84816,5 +84816,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:43:21.476180+00:00"
+  "updated_at": "2026-11-03T23:43:23.134091+00:00"
 }
