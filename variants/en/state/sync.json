@@ -16319,17 +16319,19 @@
       "attempts": []
     },
     "1256": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16303284",
+          "target_video_id": "30746380",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:01:15.257429+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16303284",
         "display_name": "Spider-Man 1080p CZ Titulky",
         "planned_at": "2026-11-03T00:51:38.878228+00:00"
-      },
-      "claim": {
-        "worker_id": "f63c6f42019a454e88562a3899a4039c-shard-0",
-        "claimed_at": "2026-11-03T00:51:38.933326+00:00",
-        "lease_expires_at": "2026-11-03T06:51:38.933326+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746380",
       "prepared": {
@@ -49191,5 +49193,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:57:48.580729+00:00"
+  "updated_at": "2026-11-03T01:01:15.257446+00:00"
 }
