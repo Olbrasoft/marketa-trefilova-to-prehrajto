@@ -37042,7 +37042,7 @@
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T17:47:07.206632+00:00"
+        "planned_at": "2026-11-03T18:44:53.445176+00:00"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -37050,6 +37050,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
+      },
+      "claim": {
+        "worker_id": "4aa8e07eef17461087d2fb0aa5675a18-shard-0",
+        "claimed_at": "2026-11-03T18:44:53.854368+00:00",
+        "lease_expires_at": "2026-11-04T00:44:53.854368+00:00",
+        "run_id": "41693337041"
       }
     },
     "35068": {
@@ -42962,17 +42968,23 @@
           "attempted_at": "2026-11-03T17:47:08.392355+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26245118",
-        "display_name": "Paddington 1080p CZ Dabing",
-        "planned_at": "2026-11-03T18:44:50.648621+00:00"
-      },
       "previous_target_id": "30756548",
-      "prepared": {
+      "upload": {
         "target_video_id": "30756548",
+        "display_name": "Paddington 1080p CZ Dabing",
+        "source_id": "26245118",
+        "source_url": "https://sdilej.cz/26245118/paddington-2014.mkv",
+        "source_filename": "Paddington 2014.mkv",
         "size_bytes": 2100000000,
-        "prepared_at": "2026-11-03T08:54:54.551577+00:00",
-        "relay_source_id": "26245118"
+        "width": 1920,
+        "height": 808,
+        "audio_language": "cs",
+        "language_probability": 0.9874348044395447,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/paddington-1080p-cz-dabing-mkv/04f20071e70b620c",
+        "uploaded_at": "2026-11-03T18:44:54.507141+00:00"
       }
     },
     "13434": {
@@ -46152,7 +46164,7 @@
       "last_plan": {
         "source_id": "35185749",
         "display_name": "In the House (Dans la maison) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T18:44:50.800668+00:00"
+        "planned_at": "2026-11-03T18:44:53.596947+00:00"
       }
     },
     "21143": {
@@ -81465,5 +81477,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:44:50.800690+00:00"
+  "updated_at": "2026-11-03T18:44:54.507162+00:00"
 }
