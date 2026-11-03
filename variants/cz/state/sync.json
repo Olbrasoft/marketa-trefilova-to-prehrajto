@@ -41237,7 +41237,7 @@
       "last_plan": {
         "source_id": "27495088",
         "display_name": "Elvis (2022) [ID 16523] 4K CZ Dabing",
-        "planned_at": "2026-11-03T16:24:51.129410+00:00"
+        "planned_at": "2026-11-03T17:03:52.640755+00:00"
       },
       "previous_target_id": "30752999",
       "prepared": {
@@ -41245,6 +41245,12 @@
         "size_bytes": 15600000000,
         "prepared_at": "2026-11-03T05:21:05.610738+00:00",
         "relay_source_id": "27495088"
+      },
+      "claim": {
+        "worker_id": "0300262a518f4a85bcdc6a6bca655a5d-shard-0",
+        "claimed_at": "2026-11-03T17:03:53.048206+00:00",
+        "lease_expires_at": "2026-11-03T23:03:53.048206+00:00",
+        "run_id": "41643804131"
       }
     },
     "1287": {
@@ -42134,17 +42140,23 @@
           "attempted_at": "2026-11-03T16:24:51.621341+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33875074",
-        "display_name": "The Zone of Interest 1080p CZ Dabing",
-        "planned_at": "2026-11-03T17:03:50.143385+00:00"
-      },
       "previous_target_id": "30755262",
-      "prepared": {
+      "upload": {
         "target_video_id": "30755262",
+        "display_name": "The Zone of Interest 1080p CZ Dabing",
+        "source_id": "33875074",
+        "source_url": "https://sdilej.cz/33875074/zona-zajmu-2023-cz-dab-1080p.mkv",
+        "source_filename": "Zóna zájmu 2023 CZ dab 1080p.mkv",
         "size_bytes": 3000000000,
-        "prepared_at": "2026-11-03T07:23:05.508725+00:00",
-        "relay_source_id": "33875074"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9539581537246704,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-zone-of-interest-1080p-cz-dabing-mkv/2411be7704320694",
+        "uploaded_at": "2026-11-03T17:03:53.379822+00:00"
       }
     },
     "1350": {
@@ -45558,7 +45570,7 @@
       "last_plan": {
         "source_id": "32573536",
         "display_name": "Death on the Nile (1978) 4K CZ Dabing",
-        "planned_at": "2026-11-03T17:03:50.291920+00:00"
+        "planned_at": "2026-11-03T17:03:52.786991+00:00"
       }
     },
     "23427": {
@@ -80432,5 +80444,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:03:50.291936+00:00"
+  "updated_at": "2026-11-03T17:03:53.379834+00:00"
 }
