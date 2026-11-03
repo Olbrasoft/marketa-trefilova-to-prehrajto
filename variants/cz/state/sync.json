@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "3515fc6118d8454081b94e51b9009bc2-shard-0",
+        "claimed_at": "2026-11-03T20:20:02.732040+00:00",
+        "lease_expires_at": "2026-11-04T02:20:02.732040+00:00",
+        "run_id": "41693337041"
       }
     },
     "29922": {
@@ -45856,13 +45862,6 @@
           "source_id": "29488534",
           "target_video_id": "30769491",
           "permanent": false,
-          "attempted_at": "2026-11-03T18:28:52.052166+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29488534",
-          "target_video_id": "30769491",
-          "permanent": false,
           "attempted_at": "2026-11-03T18:59:48.237779+00:00"
         },
         {
@@ -45871,12 +45870,19 @@
           "target_video_id": "30769491",
           "permanent": false,
           "attempted_at": "2026-11-03T19:37:29.928778+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29488534",
+          "target_video_id": "30769491",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:20:05.292794+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29488534",
         "display_name": "C'mon C'mon 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:37:28.221346+00:00"
+        "planned_at": "2026-11-03T20:20:03.193060+00:00"
       },
       "previous_target_id": "30769491",
       "prepared": {
@@ -46683,7 +46689,7 @@
       "last_plan": {
         "source_id": "35148593",
         "display_name": "Gift of the Night Fury (Dragons: Gift of the Night Fury) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T20:19:17.797060+00:00"
+        "planned_at": "2026-11-03T20:20:03.357270+00:00"
       }
     },
     "27915": {
@@ -82468,5 +82474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T20:19:17.797077+00:00"
+  "updated_at": "2026-11-03T20:20:05.292814+00:00"
 }
