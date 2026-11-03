@@ -48524,17 +48524,19 @@
       }
     },
     "21351": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26200097",
+          "target_video_id": "30774875",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:20:34.311366+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26200097",
         "display_name": "The Naked Spur 1080p CZ Dabing",
         "planned_at": "2026-11-03T23:16:14.857891+00:00"
-      },
-      "claim": {
-        "worker_id": "b88b5585bff245f38760253f3b0755f5-shard-0",
-        "claimed_at": "2026-11-03T23:16:15.008610+00:00",
-        "lease_expires_at": "2026-11-04T05:16:15.008610+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30774875",
       "prepared": {
@@ -84536,5 +84538,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:20:33.055101+00:00"
+  "updated_at": "2026-11-03T23:20:34.311387+00:00"
 }
