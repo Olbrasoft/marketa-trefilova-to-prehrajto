@@ -17544,17 +17544,19 @@
       "attempts": []
     },
     "22099": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26121857",
+          "target_video_id": "30763637",
+          "permanent": false,
+          "attempted_at": "2026-11-03T14:45:03.548578+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26121857",
         "display_name": "High Plains Drifter 1080p CZ Titulky",
         "planned_at": "2026-11-03T14:19:33.873006+00:00"
-      },
-      "claim": {
-        "worker_id": "55f80575911d4dd3b6cf64dea588311d-shard-0",
-        "claimed_at": "2026-11-03T14:19:33.941487+00:00",
-        "lease_expires_at": "2026-11-03T20:19:33.941487+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30763637",
       "prepared": {
@@ -53512,5 +53514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T14:28:23.349249+00:00"
+  "updated_at": "2026-11-03T14:45:03.548595+00:00"
 }
