@@ -45262,21 +45262,34 @@
       }
     },
     "19513": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20038930",
+          "reason": "Source detail has no authenticated download link; source_id=20038930",
+          "permanent": false,
+          "attempted_at": "2026-11-03T16:24:58.137663+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20038930",
         "display_name": "Red Cliff (Chi bi) 1080p CZ Dabing",
         "planned_at": "2026-11-03T16:24:53.812013+00:00"
-      },
-      "claim": {
-        "worker_id": "c7adeaa73c134dee9565890644f9efa8-shard-0",
-        "claimed_at": "2026-11-03T16:24:54.063874+00:00",
-        "lease_expires_at": "2026-11-03T22:24:54.063874+00:00",
-        "run_id": "41643804131"
       }
     },
     "37391": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35185753",
+        "display_name": "Voicemails for Isabelle 4K CZ Dabing",
+        "planned_at": "2026-11-03T16:24:56.814886+00:00"
+      },
+      "claim": {
+        "worker_id": "7baf9f41c7d34252b19c68ce828dc7be-shard-0",
+        "claimed_at": "2026-11-03T16:24:57.005853+00:00",
+        "lease_expires_at": "2026-11-03T22:24:57.005853+00:00",
+        "run_id": "41643804131"
+      }
     },
     "14191": {
       "attempts": []
@@ -80203,5 +80216,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T16:24:54.811460+00:00"
+  "updated_at": "2026-11-03T16:24:58.137680+00:00"
 }
