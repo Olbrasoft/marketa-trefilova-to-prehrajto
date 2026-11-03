@@ -43429,17 +43429,19 @@
       }
     },
     "1441": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31098481",
+          "target_video_id": "30758905",
+          "permanent": false,
+          "attempted_at": "2026-11-03T10:57:12.189414+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31098481",
         "display_name": "Patriots Day 4K CZ Dabing",
         "planned_at": "2026-11-03T10:29:37.571127+00:00"
-      },
-      "claim": {
-        "worker_id": "8784efeeac584df580702590842a3f5d-shard-0",
-        "claimed_at": "2026-11-03T10:29:37.767610+00:00",
-        "lease_expires_at": "2026-11-03T16:29:37.767610+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30758905",
       "prepared": {
@@ -77236,5 +77238,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T10:53:26.217250+00:00"
+  "updated_at": "2026-11-03T10:57:12.189430+00:00"
 }
