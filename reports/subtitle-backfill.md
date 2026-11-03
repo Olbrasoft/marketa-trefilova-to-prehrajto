@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T13:25:17.504774+00:00
+Poslední aktualizace (UTC): 2026-11-03T13:25:23.242273+00:00
 
 Zkontrolováno videí: 338. Další stránka kontroly: 0.
 
@@ -73,7 +73,7 @@ Kontrol: 14; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T13:06:08.649171+00:00 |
 | [Burning (Beoning) (2018) 720p CZ Titulky](https://prehraj.to/burning-beoning-2018-720p-cz-titulky-mkv/8e80d707ebd16ea7) (ID 30761347) | [Sdílej 10716235](https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv) | target_unavailable | 2026-11-03T13:04:57.059442+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T13:15:20.974510+00:00 |
-| [Frequency 1080p CZ Titulky](https://prehraj.to/frequency-1080p-cz-titulky-mkv/9247d4d3775759d1) (ID 30759792) | [Sdílej 14524461](https://sdilej.cz/14524461/frekvence.mkv) | target_unavailable | 2026-11-03T12:24:42.851900+00:00 |
+| [Frequency 1080p CZ Titulky](https://prehraj.to/frequency-1080p-cz-titulky-mkv/9247d4d3775759d1) (ID 30759792) | [Sdílej 14524461](https://sdilej.cz/14524461/frekvence.mkv) | target_unavailable | 2026-11-03T13:25:23.242203+00:00 |
 | [Furiosa: A Mad Max Saga 4K CZ Titulky](https://prehraj.to/furiosa-a-mad-max-saga-4k-cz-titulky-mkv/46e117960f31a77b) (ID 30752813) | [Sdílej 32911115](https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv) | target_unavailable | 2026-11-03T13:15:48.976453+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-03T13:05:55.881581+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-03T13:06:49.827071+00:00 |
