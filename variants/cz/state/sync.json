@@ -41937,17 +41937,19 @@
       }
     },
     "11442": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32980443",
+          "target_video_id": "30755201",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:28:43.422388+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32980443",
         "display_name": "Poltergeist (1982) 4K CZ Dabing",
         "planned_at": "2026-11-03T07:19:24.340863+00:00"
-      },
-      "claim": {
-        "worker_id": "7b4564617b8e491ab292a4d360c47a4e-shard-0",
-        "claimed_at": "2026-11-03T07:19:24.567877+00:00",
-        "lease_expires_at": "2026-11-03T13:19:24.567877+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755201",
       "prepared": {
@@ -75133,5 +75135,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:28:40.032791+00:00"
+  "updated_at": "2026-11-03T07:28:43.422406+00:00"
 }
