@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-03T22:47:59.479456+00:00"
+        "planned_at": "2026-11-03T23:22:04.857847+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "be20616f4032466381cbb2a7d57254f0-shard-0",
+        "claimed_at": "2026-11-03T23:22:05.103868+00:00",
+        "lease_expires_at": "2026-11-04T05:22:05.103868+00:00",
+        "run_id": "41730144184"
       }
     },
     "29922": {
@@ -48559,17 +48565,19 @@
       }
     },
     "25622": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14819578",
+          "target_video_id": "30774920",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:23:28.351242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14819578",
         "display_name": "Pierrepoint (Pierrepoint: The Last Hangman) 1080p CZ Dabing",
         "planned_at": "2026-11-03T23:20:36.311057+00:00"
-      },
-      "claim": {
-        "worker_id": "1f4a95adaa104484943d91e107fd9028-shard-0",
-        "claimed_at": "2026-11-03T23:20:36.562398+00:00",
-        "lease_expires_at": "2026-11-04T05:20:36.562398+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30774920",
       "prepared": {
@@ -48587,7 +48595,7 @@
       "last_plan": {
         "source_id": "30088808",
         "display_name": "United 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:22:02.078749+00:00"
+        "planned_at": "2026-11-03T23:22:04.960852+00:00"
       }
     },
     "28738": {
@@ -84573,5 +84581,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:22:03.420538+00:00"
+  "updated_at": "2026-11-03T23:23:28.351270+00:00"
 }
