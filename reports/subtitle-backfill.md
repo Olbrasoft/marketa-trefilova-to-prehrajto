@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T06:46:44.011775+00:00
+Poslední aktualizace (UTC): 2026-11-03T06:46:45.960888+00:00
 
 Zkontrolováno videí: 329. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 238, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 239, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -71,7 +71,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Anora 4K CZ Titulky](https://prehraj.to/anora-4k-cz-titulky-mkv/9ff154c1166c44e3) (ID 30753012) | [Sdílej 30450437](https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T06:26:27.764008+00:00 |
 | [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T05:46:03.677920+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T06:36:51.019783+00:00 |
-| [Conclave 4K CZ Titulky](https://prehraj.to/conclave-4k-cz-titulky-mkv/a5fc17583e031a44) (ID 30753456) | [Sdílej 30205491](https://sdilej.cz/30205491/conclave-2024-cztit-2160p.mkv) | target_unavailable | 2026-11-03T05:45:50.134208+00:00 |
 | [Cure 1080p CZ Titulky](https://prehraj.to/cure-1080p-cz-titulky-mkv/8df011eb0bbe689a) (ID 30739372) | [Sdílej 34063553](https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv) | target_unavailable | 2026-11-03T05:46:21.061480+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T05:46:07.293159+00:00 |
 | [Furiosa: A Mad Max Saga 4K CZ Titulky](https://prehraj.to/furiosa-a-mad-max-saga-4k-cz-titulky-mkv/46e117960f31a77b) (ID 30752813) | [Sdílej 32911115](https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv) | target_unavailable | 2026-11-03T06:16:10.246062+00:00 |
