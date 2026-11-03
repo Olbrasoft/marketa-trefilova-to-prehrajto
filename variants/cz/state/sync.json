@@ -41202,17 +41202,19 @@
       }
     },
     "17892": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33648195",
+          "target_video_id": "30753716",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:54:53.583533+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33648195",
         "display_name": "The Adventures of Tintin 1080p CZ Dabing",
         "planned_at": "2026-11-03T05:51:40.537000+00:00"
-      },
-      "claim": {
-        "worker_id": "18a4be9475c942368eccca2a46659181-shard-0",
-        "claimed_at": "2026-11-03T05:51:40.679439+00:00",
-        "lease_expires_at": "2026-11-03T11:51:40.679439+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30753716",
       "prepared": {
@@ -73906,5 +73908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:53:19.498238+00:00"
+  "updated_at": "2026-11-03T05:54:53.583578+00:00"
 }
