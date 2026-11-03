@@ -45485,17 +45485,19 @@
       }
     },
     "23428": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29827231",
+          "target_video_id": "30768128",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:14:21.743082+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29827231",
         "display_name": "The Secret Garden (1993) 1080p CZ Dabing",
         "planned_at": "2026-11-03T16:41:19.424526+00:00"
-      },
-      "claim": {
-        "worker_id": "7e397712e3ce47fdbc7ce9166c37f0b2-shard-0",
-        "claimed_at": "2026-11-03T16:41:19.644420+00:00",
-        "lease_expires_at": "2026-11-03T22:41:19.644420+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30768128",
       "prepared": {
@@ -80496,5 +80498,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:11:50.442279+00:00"
+  "updated_at": "2026-11-03T17:14:21.743099+00:00"
 }
