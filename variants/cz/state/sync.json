@@ -42089,7 +42089,7 @@
       "last_plan": {
         "source_id": "33875074",
         "display_name": "The Zone of Interest 1080p CZ Dabing",
-        "planned_at": "2026-11-03T08:40:10.098539+00:00"
+        "planned_at": "2026-11-03T09:12:26.062926+00:00"
       },
       "previous_target_id": "30755262",
       "prepared": {
@@ -42097,6 +42097,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-03T07:23:05.508725+00:00",
         "relay_source_id": "33875074"
+      },
+      "claim": {
+        "worker_id": "2acda3bb23184f408c8fdb2c8ee70703-shard-0",
+        "claimed_at": "2026-11-03T09:12:26.410600+00:00",
+        "lease_expires_at": "2026-11-03T15:12:26.410600+00:00",
+        "run_id": "41603185604"
       }
     },
     "1350": {
@@ -42693,17 +42699,23 @@
           "attempted_at": "2026-11-03T08:40:07.279226+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "15438872",
-        "display_name": "Irréversible 1080p CZ Dabing",
-        "planned_at": "2026-11-03T09:12:22.227391+00:00"
-      },
       "previous_target_id": "30756181",
-      "prepared": {
+      "upload": {
         "target_video_id": "30756181",
-        "size_bytes": 7479799400,
-        "prepared_at": "2026-11-03T08:26:03.008697+00:00",
-        "relay_source_id": "15438872"
+        "display_name": "Irréversible 1080p CZ Dabing",
+        "source_id": "15438872",
+        "source_url": "https://sdilej.cz/15438872/zvraceny-irreversible-1080p-ac3-5.1-cz-dab-2002.mkv",
+        "source_filename": "Zvrácený Irreversible 1080p AC3 5.1 CZ dab 2002.mkv",
+        "size_bytes": 7500000000,
+        "width": 1920,
+        "height": 856,
+        "audio_language": "cs",
+        "language_probability": 0.9884903430938721,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/irreversible-1080p-cz-dabing-mkv/5fd16c4f3682246d",
+        "uploaded_at": "2026-11-03T09:12:26.716382+00:00"
       }
     },
     "23913": {
@@ -42908,7 +42920,7 @@
       "last_plan": {
         "source_id": "30837411",
         "display_name": "The Edge of Seventeen 1080p CZ Dabing",
-        "planned_at": "2026-11-03T09:12:22.549958+00:00"
+        "planned_at": "2026-11-03T09:12:26.211532+00:00"
       }
     },
     "1060": {
@@ -76194,5 +76206,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:12:22.697927+00:00"
+  "updated_at": "2026-11-03T09:12:26.716396+00:00"
 }
