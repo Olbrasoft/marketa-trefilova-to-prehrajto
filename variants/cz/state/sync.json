@@ -39483,17 +39483,19 @@
       "attempts": []
     },
     "35785": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34147860",
+          "reason": "Request failed for https://sdilej.cz/34147860/pan-nikdo-proti-putinovi-mr.-nobody-against-putin-2025--tt34965515--cs-ru-.webdl-1080p.h265-aac-2.0.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:26:56.440372+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34147860",
         "display_name": "Mr. Nobody Against Putin 1080p CZ Dabing",
         "planned_at": "2026-11-03T01:26:10.197101+00:00"
-      },
-      "claim": {
-        "worker_id": "56b818d0942444a98552f2d329cc6738-shard-0",
-        "claimed_at": "2026-11-03T01:26:10.391580+00:00",
-        "lease_expires_at": "2026-11-03T07:26:10.391580+00:00",
-        "run_id": "41544835219"
       }
     },
     "19283": {
@@ -39507,7 +39509,13 @@
       "last_plan": {
         "source_id": "34686675",
         "display_name": "Stand by Me Doraemon 2 (STAND BY ME ドラえもん2) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T01:26:16.693315+00:00"
+        "planned_at": "2026-11-03T01:26:19.453271+00:00"
+      },
+      "claim": {
+        "worker_id": "56bfe24fa7a640609383785ce608eaaa-shard-0",
+        "claimed_at": "2026-11-03T01:26:19.685504+00:00",
+        "lease_expires_at": "2026-11-03T07:26:19.685504+00:00",
+        "run_id": "41544835219"
       }
     },
     "1137": {
@@ -71348,5 +71356,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:26:18.101514+00:00"
+  "updated_at": "2026-11-03T01:26:56.440389+00:00"
 }
