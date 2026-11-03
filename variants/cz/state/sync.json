@@ -43146,11 +43146,19 @@
       }
     },
     "12207": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29122678",
+          "reason": "Request failed for https://sdilej.cz/29122678/rvacuv-denik-1995-1821-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:42:26.039271+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29122678",
         "display_name": "The Basketball Diaries 1080p CZ Dabing",
-        "planned_at": "2026-11-03T09:41:37.334455+00:00"
+        "planned_at": "2026-11-03T09:41:39.979236+00:00"
       }
     },
     "686": {
@@ -76671,5 +76679,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:41:38.399014+00:00"
+  "updated_at": "2026-11-03T09:42:26.039292+00:00"
 }
