@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-03T12:04:52.443199+00:00"
+        "planned_at": "2026-11-03T12:48:29.609660+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "f9692da9a7b44fe48200efa47a3d3649-shard-0",
+        "claimed_at": "2026-11-03T12:48:29.781274+00:00",
+        "lease_expires_at": "2026-11-03T18:48:29.781274+00:00",
+        "run_id": "41603185604"
       }
     },
     "21312": {
@@ -16331,13 +16337,6 @@
           "source_id": "11542524",
           "target_video_id": "30745387",
           "permanent": false,
-          "attempted_at": "2026-11-03T10:27:10.413542+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11542524",
-          "target_video_id": "30745387",
-          "permanent": false,
           "attempted_at": "2026-11-03T10:58:29.608108+00:00"
         },
         {
@@ -16346,6 +16345,13 @@
           "target_video_id": "30745387",
           "permanent": false,
           "attempted_at": "2026-11-03T12:04:50.721397+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11542524",
+          "target_video_id": "30745387",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:48:30.334676+00:00"
         }
       ],
       "last_plan": {
@@ -16359,12 +16365,6 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T00:02:15.187541+00:00",
         "relay_source_id": "11542524"
-      },
-      "claim": {
-        "worker_id": "13d5828056b041039b44e7650cc7c312-shard-0",
-        "claimed_at": "2026-11-03T12:48:23.058409+00:00",
-        "lease_expires_at": "2026-11-03T18:48:23.058409+00:00",
-        "run_id": "41603185604"
       }
     },
     "31916": {
@@ -17346,7 +17346,7 @@
       "last_plan": {
         "source_id": "26884588",
         "display_name": "The Wonderful Story of Henry Sugar 1080p CZ Titulky",
-        "planned_at": "2026-11-03T12:48:22.921303+00:00"
+        "planned_at": "2026-11-03T12:48:29.726294+00:00"
       }
     },
     "25634": {
@@ -52834,5 +52834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:48:23.652758+00:00"
+  "updated_at": "2026-11-03T12:48:30.334694+00:00"
 }
