@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T00:32:05.848523+00:00
+Poslední aktualizace (UTC): 2026-11-03T00:32:09.569179+00:00
 
 Zkontrolováno videí: 317. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 228, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 229, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 27, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -92,7 +92,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 33. Důvod
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-02T19:58:39.498734+00:00 |
 | [The Spy Who Came in from the Cold 1080p CZ Titulky](https://prehraj.to/the-spy-who-came-in-from-the-cold-1080p-cz-titulky-mkv/f136c556e1bc0e61) (ID 30742933) | [Sdílej 33595691](https://sdilej.cz/33595691/the-spy-who-came-in-from-the-cold-1965-criterion-1080p-bluray-x265-hevc-10bit-aac-2.0-tigole-.mkv) | target_unavailable | 2026-11-02T21:48:57.607478+00:00 |
 | [The Tenant (1976) 1080p CZ Titulky](https://prehraj.to/the-tenant-1976-1080p-cz-titulky-mkv/b0018beec69c3105) (ID 30735788) | [Sdílej 35056653](https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv) | target_unavailable | 2026-11-02T19:49:42.861742+00:00 |
-| [Victoria 1080p CZ Titulky](https://prehraj.to/victoria-1080p-cz-titulky-mkv/0c712c1d442c157a) (ID 30731842) | [Sdílej 32445048](https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv) | target_unavailable | 2026-11-02T19:49:35.757892+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-02T23:50:48.316067+00:00 |
 | [Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky](https://prehraj.to/wallace-and-gromit-vengeance-most-fowl-wallace-gromit-vengeance-most-fowl-1080p-cz-titulky-mkv/53d49c0924afc741) (ID 30738340) | [Sdílej 30394661](https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-02T19:59:33.474150+00:00 |
 | [Waves 720p CZ Titulky](https://prehraj.to/waves-720p-cz-titulky-mkv/fefadfe33caf5373) (ID 30739690) | [Sdílej 21075601](https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv) | target_unavailable | 2026-11-02T20:08:00.813286+00:00 |
