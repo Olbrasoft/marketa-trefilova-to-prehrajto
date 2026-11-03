@@ -42135,17 +42135,19 @@
       }
     },
     "1494": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34346004",
+          "target_video_id": "30755464",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:49:28.035606+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34346004",
         "display_name": "13 Hours: The Secret Soldiers of Benghazi 4K CZ Dabing",
         "planned_at": "2026-11-03T07:34:35.767850+00:00"
-      },
-      "claim": {
-        "worker_id": "13bdc5bbeb8a4f579156be7bf25b0504-shard-0",
-        "claimed_at": "2026-11-03T07:34:35.894220+00:00",
-        "lease_expires_at": "2026-11-03T13:34:35.894220+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755464",
       "prepared": {
@@ -75288,5 +75290,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:46:33.105724+00:00"
+  "updated_at": "2026-11-03T07:49:28.035628+00:00"
 }
