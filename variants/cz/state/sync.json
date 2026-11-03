@@ -44385,17 +44385,19 @@
       "attempts": []
     },
     "10987": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34672772",
+          "target_video_id": "30764895",
+          "permanent": false,
+          "attempted_at": "2026-11-03T14:57:19.029157+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34672772",
         "display_name": "Le clan des siciliens 720p CZ Dabing",
         "planned_at": "2026-11-03T14:51:49.940447+00:00"
-      },
-      "claim": {
-        "worker_id": "0066bddd6b724e3ca08aed0d105de245-shard-0",
-        "claimed_at": "2026-11-03T14:51:50.133174+00:00",
-        "lease_expires_at": "2026-11-03T20:51:50.133174+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30764895",
       "prepared": {
@@ -78982,5 +78984,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T14:55:55.297333+00:00"
+  "updated_at": "2026-11-03T14:57:19.029173+00:00"
 }
