@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T20:43:35.644414+00:00
+Poslední aktualizace (UTC): 2026-11-03T20:43:40.190371+00:00
 
 Zkontrolováno videí: 348. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 247, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 39, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 247, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 40, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -97,6 +97,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 | [Spider-Man 1080p CZ Titulky](https://prehraj.to/spider-man-1080p-cz-titulky-mkv/c795893d39e127b0) (ID 30746380) | [Sdílej 16303284](https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv) | target_unavailable | 2026-11-03T13:15:27.951805+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-03T13:06:20.262289+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-03T13:06:33.678697+00:00 |
+| [Tesis (Thesis) 720p CZ Titulky](https://prehraj.to/tesis-thesis-720p-cz-titulky-mkv/f1b641cfa5bd6f4a) (ID 30772601) | [Sdílej 34938075](https://sdilej.cz/34938075/1996-diplomova-prace-thriller-drama-horor-mysteriozni-74-ana-torrent-cz.-tit..mkv) | target_unavailable | 2026-11-03T20:43:40.190290+00:00 |
 | [Tetris 4K CZ Titulky](https://prehraj.to/tetris-4k-cz-titulky-mkv/58b60079ca64385b) (ID 30761160) | [Sdílej 25659411](https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv) | target_unavailable | 2026-11-03T13:55:36.746821+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-03T13:05:45.545397+00:00 |
 | [The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky](https://prehraj.to/the-girl-with-the-needle-pigen-med-nalen-1440p-cz-titulky-mkv/0138f4cdc3431178) (ID 30743003) | [Sdílej 30632726](https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:07:08.087248+00:00 |
