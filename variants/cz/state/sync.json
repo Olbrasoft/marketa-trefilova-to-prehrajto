@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-03T08:53:05.510755+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-03T09:27:37.788692+00:00"
         },
         {
@@ -12324,6 +12317,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-03T09:58:28.194487+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-03T10:29:09.452136+00:00"
         }
       ],
       "last_plan": {
@@ -12337,12 +12337,6 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-10-30T23:09:05.633345+00:00",
         "relay_source_id": "32043793"
-      },
-      "claim": {
-        "worker_id": "78110df6d6ff499e99d52cdf53bee10a-shard-0",
-        "claimed_at": "2026-11-03T10:29:07.469956+00:00",
-        "lease_expires_at": "2026-11-03T16:29:07.469956+00:00",
-        "run_id": "41603185604"
       }
     },
     "11516": {
@@ -16820,7 +16814,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-03T09:58:28.290556+00:00"
+        "planned_at": "2026-11-03T10:29:08.940253+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16828,6 +16822,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "47070fdacdef47b29d12068a0240202e-shard-0",
+        "claimed_at": "2026-11-03T10:29:09.292182+00:00",
+        "lease_expires_at": "2026-11-03T16:29:09.292182+00:00",
+        "run_id": "41603185604"
       }
     },
     "614": {
@@ -43396,7 +43396,7 @@
       "last_plan": {
         "source_id": "32681445",
         "display_name": "Before the Devil Knows You're Dead SD CZ Dabing",
-        "planned_at": "2026-11-03T10:29:07.273818+00:00"
+        "planned_at": "2026-11-03T10:29:09.087808+00:00"
       }
     },
     "1441": {
@@ -77067,5 +77067,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T10:29:07.651950+00:00"
+  "updated_at": "2026-11-03T10:29:09.452156+00:00"
 }
