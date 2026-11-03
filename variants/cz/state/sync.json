@@ -47821,17 +47821,19 @@
       "attempts": []
     },
     "14020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20159030",
+          "target_video_id": "30774328",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:26:58.025159+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20159030",
         "display_name": "Séraphine 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:24:02.379941+00:00"
-      },
-      "claim": {
-        "worker_id": "1c557fcabde246208550d67fa3de72da-shard-0",
-        "claimed_at": "2026-11-03T22:24:02.611879+00:00",
-        "lease_expires_at": "2026-11-04T04:24:02.611879+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30774328",
       "prepared": {
@@ -83737,5 +83739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:25:45.851095+00:00"
+  "updated_at": "2026-11-03T22:26:58.025184+00:00"
 }
