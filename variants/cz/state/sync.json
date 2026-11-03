@@ -48303,17 +48303,19 @@
       "attempts": []
     },
     "1358": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31527486",
+          "target_video_id": "30774718",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:16:09.614368+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31527486",
         "display_name": "The Collini Case (Der Fall Collini) 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:57:37.320408+00:00"
-      },
-      "claim": {
-        "worker_id": "1040509b0a5f4267948cfc81a7da42ab-shard-0",
-        "claimed_at": "2026-11-03T22:57:37.438111+00:00",
-        "lease_expires_at": "2026-11-04T04:57:37.438111+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30774718",
       "prepared": {
@@ -84232,5 +84234,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:13:18.873225+00:00"
+  "updated_at": "2026-11-03T23:16:09.614390+00:00"
 }
