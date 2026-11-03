@@ -353,3 +353,4 @@ Attach subtitles only after target processing has finished.
 | La Belle Noiseuse SD CZ Titulky | 30773633 | https://sdilej.cz/11485764/krasna-hasterilka-la-belle-noiseuse-1991-titulky.cz.mkv | Complete: Czech subtitles verified |
 | Contempt 720p CZ Titulky | 30773730 | https://sdilej.cz/29423074/pohrdani-1963-le-mepris-brigitte-bardot-fra.-cz-eng-ttl..mkv | Extract Czech track from exact source after processing |
 | Yellow Submarine 1080p CZ Titulky | 30774956 | https://sdilej.cz/33236644/the-beatles-yellow-submarine-1968-fhd-en-cz-sub.mkv | Complete: Czech subtitles verified |
+| Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky | 30775107 | https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv | Extract Czech track from exact source after processing |
