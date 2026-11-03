@@ -38115,17 +38115,19 @@
       }
     },
     "10941": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33552774",
+          "target_video_id": "30745391",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:04:25.862093+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33552774",
         "display_name": "Oscar (1967) 1080p CZ Dabing",
         "planned_at": "2026-11-03T00:02:25.082621+00:00"
-      },
-      "claim": {
-        "worker_id": "0104e511855a46ab965afe8321993186-shard-0",
-        "claimed_at": "2026-11-03T00:02:25.227768+00:00",
-        "lease_expires_at": "2026-11-03T06:02:25.227768+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30745391",
       "prepared": {
@@ -38149,7 +38151,13 @@
       "last_plan": {
         "source_id": "32331445",
         "display_name": "Ordinary Angels 1080p CZ Dabing",
-        "planned_at": "2026-11-03T00:04:20.636626+00:00"
+        "planned_at": "2026-11-03T00:04:23.107755+00:00"
+      },
+      "claim": {
+        "worker_id": "d2f38bcbfacc4ae1991725fea9e169a8-shard-0",
+        "claimed_at": "2026-11-03T00:04:23.229465+00:00",
+        "lease_expires_at": "2026-11-03T06:04:23.229465+00:00",
+        "run_id": "41509256577"
       }
     },
     "1140": {
@@ -69783,5 +69791,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:04:21.492583+00:00"
+  "updated_at": "2026-11-03T00:04:25.862113+00:00"
 }
