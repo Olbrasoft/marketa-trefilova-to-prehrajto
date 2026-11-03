@@ -41583,17 +41583,19 @@
       }
     },
     "1340": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34863599",
+          "target_video_id": "30754657",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:54:11.792730+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34863599",
         "display_name": "Nomadland 4K CZ Dabing",
         "planned_at": "2026-11-03T06:42:23.697989+00:00"
-      },
-      "claim": {
-        "worker_id": "c6fc254e1cf745cea344ed1fa3bd77a4-shard-0",
-        "claimed_at": "2026-11-03T06:42:23.905829+00:00",
-        "lease_expires_at": "2026-11-03T12:42:23.905829+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754657",
       "prepared": {
@@ -74550,5 +74552,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:52:11.841176+00:00"
+  "updated_at": "2026-11-03T06:54:11.792753+00:00"
 }
