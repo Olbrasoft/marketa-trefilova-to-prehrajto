@@ -27277,13 +27277,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-02T22:43:19.599017+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-02T23:14:08.811545+00:00"
         },
         {
@@ -27292,6 +27285,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-02T23:44:51.027891+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:21:32.308188+00:00"
         }
       ],
       "last_plan": {
@@ -37967,17 +37967,23 @@
           "attempted_at": "2026-11-02T23:46:33.494724+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29199124",
-        "display_name": "La bataille de Tchernobyl (The Battle of Chernobyl) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T23:42:32.855545+00:00"
-      },
       "previous_target_id": "30745050",
-      "prepared": {
+      "upload": {
         "target_video_id": "30745050",
-        "size_bytes": 2850925903,
-        "prepared_at": "2026-11-02T23:42:36.346791+00:00",
-        "relay_source_id": "29199124"
+        "display_name": "La bataille de Tchernobyl (The Battle of Chernobyl) 1080p CZ Dabing",
+        "source_id": "29199124",
+        "source_url": "https://sdilej.cz/29199124/bitva-o-cernobyl.mkv",
+        "source_filename": "Bitva o Černobyl.mkv",
+        "size_bytes": 2900000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9376152157783508,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/la-bataille-de-tchernobyl-the-battle-of-chernobyl-1080p-cz-dabing-mkv/5b4f5e5a9af69b21",
+        "uploaded_at": "2026-11-03T00:21:32.427649+00:00"
       }
     },
     "26496": {
@@ -38314,7 +38320,7 @@
       "last_plan": {
         "source_id": "25230092",
         "display_name": "Fort Apache SD CZ Dabing",
-        "planned_at": "2026-11-03T00:21:28.903365+00:00"
+        "planned_at": "2026-11-03T00:21:30.674138+00:00"
       }
     },
     "35778": {
@@ -69929,5 +69935,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:21:29.040801+00:00"
+  "updated_at": "2026-11-03T00:21:32.427664+00:00"
 }
