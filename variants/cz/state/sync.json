@@ -38988,17 +38988,19 @@
       "attempts": []
     },
     "1113": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28479072",
+          "target_video_id": "30746555",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:06:38.094177+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28479072",
         "display_name": "20th Century Girl (20세기 소녀) 1080p CZ Dabing",
         "planned_at": "2026-11-03T01:01:17.111076+00:00"
-      },
-      "claim": {
-        "worker_id": "55f65d1f10024977bd12bbc379fea779-shard-0",
-        "claimed_at": "2026-11-03T01:01:17.303488+00:00",
-        "lease_expires_at": "2026-11-03T07:01:17.303488+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746555",
       "prepared": {
@@ -39072,7 +39074,18 @@
       }
     },
     "27690": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34102722",
+        "display_name": "Phineas and Ferb the Movie: Across the 2nd Dimension 1080p CZ Dabing",
+        "planned_at": "2026-11-03T01:06:03.149785+00:00"
+      },
+      "claim": {
+        "worker_id": "352125edcb6d414284af4555738e5189-shard-0",
+        "claimed_at": "2026-11-03T01:06:03.363646+00:00",
+        "lease_expires_at": "2026-11-03T07:06:03.363646+00:00",
+        "run_id": "41544835219"
+      }
     },
     "33333": {
       "attempts": []
@@ -70780,5 +70793,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:06:01.618285+00:00"
+  "updated_at": "2026-11-03T01:06:38.094195+00:00"
 }
