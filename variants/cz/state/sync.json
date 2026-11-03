@@ -43162,17 +43162,19 @@
       }
     },
     "686": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27700113",
+          "target_video_id": "30758101",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:55:36.500657+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27700113",
         "display_name": "Fireworks (Stranizza d'amuri) 1080p CZ Dabing",
         "planned_at": "2026-11-03T09:42:50.215022+00:00"
-      },
-      "claim": {
-        "worker_id": "101aa156cd134b4491d9fba8832292ad-shard-0",
-        "claimed_at": "2026-11-03T09:42:50.448386+00:00",
-        "lease_expires_at": "2026-11-03T15:42:50.448386+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30758101",
       "prepared": {
@@ -76697,5 +76699,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:42:53.741943+00:00"
+  "updated_at": "2026-11-03T09:55:36.500673+00:00"
 }
