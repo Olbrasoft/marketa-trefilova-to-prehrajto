@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-03T15:53:04.650570+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-03T16:24:37.804111+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-03T17:03:40.717686+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:47:34.574407+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "3fb9bd79bcca4a5a9e47a3445503ef2f-shard-0",
-        "claimed_at": "2026-11-03T17:47:17.558365+00:00",
-        "lease_expires_at": "2026-11-03T23:47:17.558365+00:00",
-        "run_id": "41643804131"
       }
     },
     "37290": {
@@ -38564,7 +38558,7 @@
       "last_plan": {
         "source_id": "34784954",
         "display_name": "The Taste of Things 1080p CZ Dabing",
-        "planned_at": "2026-11-03T17:03:43.588011+00:00"
+        "planned_at": "2026-11-03T17:47:33.426308+00:00"
       },
       "previous_target_id": "30745770",
       "prepared": {
@@ -38572,6 +38566,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-03T00:24:04.738396+00:00",
         "relay_source_id": "34784954"
+      },
+      "claim": {
+        "worker_id": "d1df62818c0d47bc825fd9ae0490d5c7-shard-0",
+        "claimed_at": "2026-11-03T17:47:33.897329+00:00",
+        "lease_expires_at": "2026-11-03T23:47:33.897329+00:00",
+        "run_id": "41643804131"
       }
     },
     "17605": {
@@ -45903,7 +45903,7 @@
       "last_plan": {
         "source_id": "34714118",
         "display_name": "Howards End SD CZ Dabing",
-        "planned_at": "2026-11-03T17:47:17.351414+00:00"
+        "planned_at": "2026-11-03T17:47:33.663639+00:00"
       }
     },
     "33600": {
@@ -80977,5 +80977,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:47:18.589315+00:00"
+  "updated_at": "2026-11-03T17:47:34.574426+00:00"
 }
