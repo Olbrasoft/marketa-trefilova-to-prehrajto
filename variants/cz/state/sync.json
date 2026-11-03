@@ -27277,13 +27277,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-03T22:09:33.853661+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-03T22:41:10.192241+00:00"
         },
         {
@@ -27292,6 +27285,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-03T23:13:09.735930+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:43:21.476167+00:00"
         }
       ],
       "last_plan": {
@@ -27305,12 +27305,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-02T03:14:11.037750+00:00",
         "relay_source_id": "32448687"
-      },
-      "claim": {
-        "worker_id": "c9abfc65eeda4ff8a7c1b73d264b9d2b-shard-0",
-        "claimed_at": "2026-11-03T23:43:19.548979+00:00",
-        "lease_expires_at": "2026-11-04T05:43:19.548979+00:00",
-        "run_id": "41730144184"
       }
     },
     "880": {
@@ -29525,7 +29519,7 @@
       "last_plan": {
         "source_id": "21165095",
         "display_name": "Rudy 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:13:11.135607+00:00"
+        "planned_at": "2026-11-03T23:43:21.045702+00:00"
       },
       "previous_target_id": "30722559",
       "prepared": {
@@ -29533,6 +29527,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
+      },
+      "claim": {
+        "worker_id": "44f81bc6b46144308a3194c121aa450c-shard-0",
+        "claimed_at": "2026-11-03T23:43:21.242940+00:00",
+        "lease_expires_at": "2026-11-04T05:43:21.242940+00:00",
+        "run_id": "41730144184"
       }
     },
     "25113": {
@@ -48878,7 +48878,7 @@
       "last_plan": {
         "source_id": "29753393",
         "display_name": "Tiger Bay 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:43:19.435896+00:00"
+        "planned_at": "2026-11-03T23:43:21.132900+00:00"
       }
     },
     "20593": {
@@ -84816,5 +84816,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:43:19.755096+00:00"
+  "updated_at": "2026-11-03T23:43:21.476180+00:00"
 }
