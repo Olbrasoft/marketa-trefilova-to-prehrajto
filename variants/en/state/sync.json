@@ -16624,13 +16624,6 @@
           "source_id": "31764637",
           "reason": "Request failed for https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-11-03T03:33:48.863002+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "31764637",
-          "reason": "Request failed for https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-11-03T04:09:10.372426+00:00"
         },
         {
@@ -16639,17 +16632,24 @@
           "target_video_id": "30752783",
           "permanent": false,
           "attempted_at": "2026-11-03T05:11:58.441612+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31764637",
+          "target_video_id": "30752783",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:45:16.956536+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31764637",
         "display_name": "Weapons 1440p CZ Titulky",
-        "planned_at": "2026-11-03T05:05:02.818841+00:00"
+        "planned_at": "2026-11-03T05:45:15.953303+00:00"
       },
       "previous_target_id": "30752783",
       "prepared": {
         "target_video_id": "30752783",
-        "size_bytes": 6154178824,
+        "size_bytes": 6200000000,
         "prepared_at": "2026-11-03T05:05:06.238047+00:00",
         "relay_source_id": "31764637"
       }
@@ -16808,7 +16808,12 @@
       }
     },
     "1159": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28282423",
+        "display_name": "The Talented Mr. Ripley 1080p CZ Titulky",
+        "planned_at": "2026-11-03T05:45:16.010572+00:00"
+      }
     },
     "11522": {
       "attempts": []
@@ -50781,5 +50786,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:45:08.894157+00:00"
+  "updated_at": "2026-11-03T05:45:16.956554+00:00"
 }
