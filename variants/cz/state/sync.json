@@ -38695,17 +38695,19 @@
       "attempts": []
     },
     "24944": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30470355",
+          "reason": "Request failed for https://sdilej.cz/30470355/jama-io-non-ho-paura-2003-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:41:51.277512+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30470355",
         "display_name": "I'm Not Scared SD CZ Dabing",
         "planned_at": "2026-11-03T00:41:04.944770+00:00"
-      },
-      "claim": {
-        "worker_id": "2811531d3e474da39a5ffb088e9f1881-shard-0",
-        "claimed_at": "2026-11-03T00:41:05.137438+00:00",
-        "lease_expires_at": "2026-11-03T06:41:05.137438+00:00",
-        "run_id": "41544835219"
       }
     },
     "19017": {
@@ -70495,5 +70497,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:41:05.137459+00:00"
+  "updated_at": "2026-11-03T00:41:51.277533+00:00"
 }
