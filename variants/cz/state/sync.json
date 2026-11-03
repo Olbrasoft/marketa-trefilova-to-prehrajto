@@ -40564,17 +40564,19 @@
       "attempts": []
     },
     "1537": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35203879",
+          "reason": "Request failed for https://sdilej.cz/35203879/starship-troopers-1997-cz-en-2160p-hdr-dv-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:40:44.670449+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35203879",
         "display_name": "Starship Troopers 4K CZ Dabing",
         "planned_at": "2026-11-03T03:38:50.097154+00:00"
-      },
-      "claim": {
-        "worker_id": "f72a9ebca8ae443d90afd5f54bc38559-shard-0",
-        "claimed_at": "2026-11-03T03:38:50.281661+00:00",
-        "lease_expires_at": "2026-11-03T09:38:50.281661+00:00",
-        "run_id": "41544835219"
       }
     },
     "1485": {
@@ -72814,5 +72816,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:40:29.556740+00:00"
+  "updated_at": "2026-11-03T03:40:44.670467+00:00"
 }
