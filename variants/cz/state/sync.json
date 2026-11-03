@@ -36752,6 +36752,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T22:32:45.768224+00:00",
         "relay_source_id": "29388321"
+      },
+      "claim": {
+        "worker_id": "94a8b371b5ae42028e991a7aee03f2f9-shard-0",
+        "claimed_at": "2026-11-03T00:21:09.814782+00:00",
+        "lease_expires_at": "2026-11-03T06:21:09.814782+00:00",
+        "run_id": "41544835219"
       }
     },
     "31331": {
@@ -37813,17 +37819,23 @@
           "attempted_at": "2026-11-02T23:39:57.012141+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "27464717",
-        "display_name": "Stargate: Continuum 1080p CZ Dabing",
-        "planned_at": "2026-11-02T23:35:42.734281+00:00"
-      },
       "previous_target_id": "30744891",
-      "prepared": {
+      "upload": {
         "target_video_id": "30744891",
-        "size_bytes": 2070500266,
-        "prepared_at": "2026-11-02T23:35:46.942987+00:00",
-        "relay_source_id": "27464717"
+        "display_name": "Stargate: Continuum 1080p CZ Dabing",
+        "source_id": "27464717",
+        "source_url": "https://sdilej.cz/27464717/hvezdna-brana-navrat-2008-.mkv",
+        "source_filename": "Hvězdná brána - Návrat (2008).mkv",
+        "size_bytes": 2100000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.8877386450767517,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/stargate-continuum-1080p-cz-dabing-mkv/33c2f4534710bcb8",
+        "uploaded_at": "2026-11-03T00:21:11.468577+00:00"
       }
     },
     "19383": {
@@ -38296,7 +38308,7 @@
       "last_plan": {
         "source_id": "25230092",
         "display_name": "Fort Apache SD CZ Dabing",
-        "planned_at": "2026-11-03T00:21:08.180118+00:00"
+        "planned_at": "2026-11-03T00:21:10.064950+00:00"
       }
     },
     "35778": {
@@ -69911,5 +69923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:21:08.180134+00:00"
+  "updated_at": "2026-11-03T00:21:11.468594+00:00"
 }
