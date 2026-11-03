@@ -44578,17 +44578,19 @@
       }
     },
     "1084": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30176699",
+          "target_video_id": "30765342",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:09:49.302829+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30176699",
         "display_name": "The Children's Train (Il treno dei bambini) 1080p CZ Dabing",
         "planned_at": "2026-11-03T15:05:56.194255+00:00"
-      },
-      "claim": {
-        "worker_id": "f86a6fda948546fea3a5be5866abde2f-shard-0",
-        "claimed_at": "2026-11-03T15:05:56.418017+00:00",
-        "lease_expires_at": "2026-11-03T21:05:56.418017+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30765342",
       "prepared": {
@@ -79121,5 +79123,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:08:06.366339+00:00"
+  "updated_at": "2026-11-03T15:09:49.302853+00:00"
 }
