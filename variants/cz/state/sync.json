@@ -39684,17 +39684,19 @@
       }
     },
     "1178": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12596559",
+          "target_video_id": "30747344",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:47:03.548242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12596559",
         "display_name": "See You Up There (Au revoir là-haut) 1080p CZ Dabing",
         "planned_at": "2026-11-03T01:43:31.229532+00:00"
-      },
-      "claim": {
-        "worker_id": "55f38637d81b446da602d03405e86a3e-shard-0",
-        "claimed_at": "2026-11-03T01:43:31.452423+00:00",
-        "lease_expires_at": "2026-11-03T07:43:31.452423+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30747344",
       "prepared": {
@@ -71512,5 +71514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:43:34.905715+00:00"
+  "updated_at": "2026-11-03T01:47:03.548260+00:00"
 }
