@@ -43953,17 +43953,19 @@
       }
     },
     "11662": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31258097",
+          "target_video_id": "30760609",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:26:57.534844+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31258097",
         "display_name": "Star Trek IV: The Voyage Home 4K CZ Dabing",
         "planned_at": "2026-11-03T12:16:35.971672+00:00"
-      },
-      "claim": {
-        "worker_id": "1d9e8baaa4c54937bce472fbef27a65f-shard-0",
-        "claimed_at": "2026-11-03T12:16:36.197093+00:00",
-        "lease_expires_at": "2026-11-03T18:16:36.197093+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30760609",
       "prepared": {
@@ -78148,5 +78150,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:25:38.344932+00:00"
+  "updated_at": "2026-11-03T12:26:57.534859+00:00"
 }
