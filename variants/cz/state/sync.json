@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-03T05:40:15.765129+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-03T06:12:40.301732+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-03T06:43:35.163144+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:13:55.627623+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "75f4e7d3ad2647078bea45fb068e8802-shard-0",
-        "claimed_at": "2026-11-03T07:13:53.476850+00:00",
-        "lease_expires_at": "2026-11-03T13:13:53.476850+00:00",
-        "run_id": "41577832824"
       }
     },
     "52": {
@@ -16505,7 +16499,7 @@
       "last_plan": {
         "source_id": "32043882",
         "display_name": "Halloween (1978) 4K CZ Dabing",
-        "planned_at": "2026-11-03T06:43:36.403526+00:00"
+        "planned_at": "2026-11-03T07:13:55.063656+00:00"
       },
       "previous_target_id": "30664667",
       "prepared": {
@@ -16513,6 +16507,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-10-31T11:53:53.244431+00:00",
         "relay_source_id": "32043882"
+      },
+      "claim": {
+        "worker_id": "baed10d7e5fb46f9a83f817acd2595b4-shard-0",
+        "claimed_at": "2026-11-03T07:13:55.260796+00:00",
+        "lease_expires_at": "2026-11-03T13:13:55.260796+00:00",
+        "run_id": "41577832824"
       }
     },
     "533": {
@@ -41863,7 +41863,7 @@
       "last_plan": {
         "source_id": "34699967",
         "display_name": "One Hundred and One Dalmatians 1080p CZ Dabing",
-        "planned_at": "2026-11-03T07:13:53.361324+00:00"
+        "planned_at": "2026-11-03T07:13:55.145363+00:00"
       }
     },
     "18872": {
@@ -74727,5 +74727,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:13:53.849623+00:00"
+  "updated_at": "2026-11-03T07:13:55.627645+00:00"
 }
