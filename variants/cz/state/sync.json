@@ -45502,17 +45502,19 @@
       }
     },
     "11418": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33264198",
+          "target_video_id": "30768237",
+          "permanent": false,
+          "attempted_at": "2026-11-03T16:57:18.024036+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33264198",
         "display_name": "All My Friends Part 2 (Amici miei - Atto II°) 1080p CZ Dabing",
         "planned_at": "2026-11-03T16:44:33.853462+00:00"
-      },
-      "claim": {
-        "worker_id": "1529bcb5500e45efbd3e9c1ef9fedd8c-shard-0",
-        "claimed_at": "2026-11-03T16:44:34.058287+00:00",
-        "lease_expires_at": "2026-11-03T22:44:34.058287+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30768237",
       "prepared": {
@@ -80399,5 +80401,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T16:44:37.990862+00:00"
+  "updated_at": "2026-11-03T16:57:18.024052+00:00"
 }
