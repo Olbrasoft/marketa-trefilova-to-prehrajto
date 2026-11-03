@@ -43657,17 +43657,19 @@
       "attempts": []
     },
     "34751": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34253924",
+          "reason": "Request failed for https://sdilej.cz/34253924/vune-zeny-1974-fhd-cz-it.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T11:02:35.632123+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34253924",
         "display_name": "Scent of a Woman (1974) 1080p CZ Dabing",
         "planned_at": "2026-11-03T11:01:49.436614+00:00"
-      },
-      "claim": {
-        "worker_id": "0d02f9ae3f6a4b659e0e336928f608d0-shard-0",
-        "claimed_at": "2026-11-03T11:01:49.635233+00:00",
-        "lease_expires_at": "2026-11-03T17:01:49.635233+00:00",
-        "run_id": "41603185604"
       }
     },
     "1492": {
@@ -77308,5 +77310,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T11:02:29.042065+00:00"
+  "updated_at": "2026-11-03T11:02:35.632142+00:00"
 }
