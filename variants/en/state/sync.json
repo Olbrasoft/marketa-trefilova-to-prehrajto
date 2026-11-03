@@ -17325,18 +17325,19 @@
           "reason": "Request failed for https://sdilej.cz/33807503/kvileni-2016-1080p-cz-titulky-.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-03T12:27:48.908078+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33807503",
+          "target_video_id": "30761483",
+          "permanent": false,
+          "attempted_at": "2026-11-03T13:17:17.133554+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33807503",
         "display_name": "The Wailing (Gokseong) 1080p CZ Titulky",
         "planned_at": "2026-11-03T13:08:06.212366+00:00"
-      },
-      "claim": {
-        "worker_id": "0c489038ccb442f7900ae416f13a2fbb-shard-0",
-        "claimed_at": "2026-11-03T13:08:06.275965+00:00",
-        "lease_expires_at": "2026-11-03T19:08:06.275965+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30761483",
       "prepared": {
@@ -52897,5 +52898,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T13:08:09.519385+00:00"
+  "updated_at": "2026-11-03T13:17:17.133570+00:00"
 }
