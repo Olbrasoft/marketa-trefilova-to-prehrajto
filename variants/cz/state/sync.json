@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-03T20:27:15.469550+00:00"
+        "planned_at": "2026-11-03T21:00:18.598027+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "3018a54eee0249e79277e8fcaaa617e3-shard-0",
+        "claimed_at": "2026-11-03T21:00:18.981746+00:00",
+        "lease_expires_at": "2026-11-04T03:00:18.981746+00:00",
+        "run_id": "41693337041"
       }
     },
     "52": {
@@ -10809,13 +10815,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-03T19:21:06.247704+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-03T19:54:23.556770+00:00"
         },
         {
@@ -10824,6 +10823,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-03T20:26:53.428494+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:00:22.371238+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10843,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "5129fd73eb7e4de9a075471a619de197-shard-0",
-        "claimed_at": "2026-11-03T21:00:10.513182+00:00",
-        "lease_expires_at": "2026-11-04T03:00:10.513182+00:00",
-        "run_id": "41693337041"
       }
     },
     "21748": {
@@ -46842,7 +46842,7 @@
       "last_plan": {
         "source_id": "34647730",
         "display_name": "Deadwood: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-03T21:00:10.289254+00:00"
+        "planned_at": "2026-11-03T21:00:18.765472+00:00"
       }
     },
     "1416": {
@@ -82611,5 +82611,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:00:12.770356+00:00"
+  "updated_at": "2026-11-03T21:00:22.371261+00:00"
 }
