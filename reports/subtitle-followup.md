@@ -302,7 +302,7 @@ Attach subtitles only after target processing has finished.
 | Victoria 1080p CZ Titulky | 30731842 | https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Chaplin 1080p CZ Titulky | 30732524 | https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv | Complete: Czech subtitles verified |
 | The Invite 4K CZ Titulky | 30735713 | https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv | Complete: Czech subtitles verified |
-| The Tenant (1976) 1080p CZ Titulky | 30735788 | https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv | Extract Czech track from exact source after processing |
+| The Tenant (1976) 1080p CZ Titulky | 30735788 | https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv | Complete: Czech subtitles verified |
 | A Hard Day's Night 1080p CZ Titulky | 30735890 | https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | A Bittersweet Life (달콤한 인생) 1080p CZ Titulky | 30738514 | https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | The Time Machine (1960) SD CZ Titulky | 30737947 | https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv | Complete: Czech subtitles verified |
@@ -331,3 +331,4 @@ Attach subtitles only after target processing has finished.
 | Anora 4K CZ Titulky | 30753012 | https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Conclave 4K CZ Titulky | 30753456 | https://sdilej.cz/30205491/conclave-2024-cztit-2160p.mkv | Extract Czech track from exact source after processing |
 | A History of Violence 1080p CZ Titulky | 30753470 | https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv | Extract Czech track from exact source after processing |
+| The Talented Mr. Ripley 1080p CZ Titulky | 30753582 | https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
