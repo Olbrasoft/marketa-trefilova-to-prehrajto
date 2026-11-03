@@ -43757,17 +43757,19 @@
       }
     },
     "11846": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33504364",
+          "reason": "Request failed for https://sdilej.cz/33504364/say.anything...1989.1080p.czaud-enaud-entit.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T11:16:07.795089+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33504364",
         "display_name": "Say Anything... 1080p CZ Dabing",
         "planned_at": "2026-11-03T11:14:36.467778+00:00"
-      },
-      "claim": {
-        "worker_id": "5ab1a572375b4689a3773607af7a077f-shard-0",
-        "claimed_at": "2026-11-03T11:14:36.687407+00:00",
-        "lease_expires_at": "2026-11-03T17:14:36.687407+00:00",
-        "run_id": "41603185604"
       }
     },
     "1284": {
@@ -43775,7 +43777,13 @@
       "last_plan": {
         "source_id": "32117056",
         "display_name": "My Sister's Keeper 1080p CZ Dabing",
-        "planned_at": "2026-11-03T11:16:02.483784+00:00"
+        "planned_at": "2026-11-03T11:16:05.161418+00:00"
+      },
+      "claim": {
+        "worker_id": "28bb68f3b9a5422f973eedaf49a41e42-shard-0",
+        "claimed_at": "2026-11-03T11:16:05.367820+00:00",
+        "lease_expires_at": "2026-11-03T17:16:05.367820+00:00",
+        "run_id": "41603185604"
       }
     },
     "1328": {
@@ -77608,5 +77616,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T11:16:03.789328+00:00"
+  "updated_at": "2026-11-03T11:16:07.795110+00:00"
 }
