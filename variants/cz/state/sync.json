@@ -38540,17 +38540,19 @@
       }
     },
     "36716": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22393278",
+          "target_video_id": "30746043",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:40:43.685347+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22393278",
         "display_name": "Rudderless 720p CZ Dabing",
         "planned_at": "2026-11-03T00:35:01.157114+00:00"
-      },
-      "claim": {
-        "worker_id": "ac5f72631a57454ab434b01a63a58d8c-shard-0",
-        "claimed_at": "2026-11-03T00:35:01.367121+00:00",
-        "lease_expires_at": "2026-11-03T06:35:01.367121+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746043",
       "prepared": {
@@ -70449,5 +70451,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:38:08.458021+00:00"
+  "updated_at": "2026-11-03T00:40:43.685363+00:00"
 }
