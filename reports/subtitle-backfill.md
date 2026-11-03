@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T04:33:45.609189+00:00
+Poslední aktualizace (UTC): 2026-11-03T04:33:49.054308+00:00
 
 Zkontrolováno videí: 323. Další stránka kontroly: 0.
 
@@ -68,7 +68,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [A Bittersweet Life (달콤한 인생) 1080p CZ Titulky](https://prehraj.to/a-bittersweet-life-1080p-cz-titulky-mkv/13fed60fbc75a424) (ID 30738514) | [Sdílej 17861075](https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv) | target_unavailable | 2026-11-03T03:24:48.829204+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T03:33:57.073159+00:00 |
 | [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T03:32:41.456554+00:00 |
-| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T03:23:39.413445+00:00 |
+| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T04:33:49.054149+00:00 |
 | [Cure 1080p CZ Titulky](https://prehraj.to/cure-1080p-cz-titulky-mkv/8df011eb0bbe689a) (ID 30739372) | [Sdílej 34063553](https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv) | target_unavailable | 2026-11-03T03:34:04.170469+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T03:33:45.708604+00:00 |
 | [Hair 1080p CZ Titulky](https://prehraj.to/hair-1080p-cz-titulky-mkv/2650ea184e92a66d) (ID 30738024) | [Sdílej 29035963](https://sdilej.cz/29035963/vlasy.mkv) | target_unavailable | 2026-11-03T03:24:38.321368+00:00 |
