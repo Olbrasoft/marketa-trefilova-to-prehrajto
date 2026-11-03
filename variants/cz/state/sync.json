@@ -42093,17 +42093,19 @@
       }
     },
     "1375": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35005353",
+          "target_video_id": "30755453",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:42:42.037621+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35005353",
         "display_name": "The King 1080p CZ Dabing",
         "planned_at": "2026-11-03T07:33:11.487922+00:00"
-      },
-      "claim": {
-        "worker_id": "dfada5a076134f3a85fb6ad5994133a5-shard-0",
-        "claimed_at": "2026-11-03T07:33:11.605252+00:00",
-        "lease_expires_at": "2026-11-03T13:33:11.605252+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755453",
       "prepared": {
@@ -75229,5 +75231,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:34:50.014585+00:00"
+  "updated_at": "2026-11-03T07:42:42.037643+00:00"
 }
