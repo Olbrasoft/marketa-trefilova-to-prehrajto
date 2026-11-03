@@ -301,7 +301,7 @@ Attach subtitles only after target processing has finished.
 | The Guilty (Den skyldige) (2018) 1080p CZ Titulky | 30731596 | https://sdilej.cz/22087227/tisnove-volani-2018-krimi-thriller-drama-cz-dab.-fullhd-1080p-hdlover-.mkv | Complete: Czech subtitles verified |
 | Victoria 1080p CZ Titulky | 30731842 | https://sdilej.cz/32445048/victoria-2015-german-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Chaplin 1080p CZ Titulky | 30732524 | https://sdilej.cz/14793770/chaplin-1992-hd-cz.mkv | Complete: Czech subtitles verified |
-| The Invite 4K CZ Titulky | 30735713 | https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Invite 4K CZ Titulky | 30735713 | https://sdilej.cz/34864644/pozvani-the-invite-2026-2160p-ma-web-dl-dv-hdr10-ddp5.1-en-cz-titulky.mkv | Complete: Czech subtitles verified |
 | The Tenant (1976) 1080p CZ Titulky | 30735788 | https://sdilej.cz/35056653/najemnik-the-tenant-le-locataire-1976-.mkv | Extract Czech track from exact source after processing |
 | A Hard Day's Night 1080p CZ Titulky | 30735890 | https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | A Bittersweet Life (달콤한 인생) 1080p CZ Titulky | 30738514 | https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv | Extract Czech track from exact source after processing |
