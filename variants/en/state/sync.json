@@ -17469,17 +17469,19 @@
       "attempts": []
     },
     "10956": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7674339",
+          "target_video_id": "30763383",
+          "permanent": false,
+          "attempted_at": "2026-11-03T14:21:24.057486+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
         "planned_at": "2026-11-03T14:13:49.751626+00:00"
-      },
-      "claim": {
-        "worker_id": "bb00e40fd7fe4942bc683e5a86f6870d-shard-0",
-        "claimed_at": "2026-11-03T14:13:50.041164+00:00",
-        "lease_expires_at": "2026-11-03T20:13:50.041164+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -53233,5 +53235,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T14:19:38.111504+00:00"
+  "updated_at": "2026-11-03T14:21:24.057505+00:00"
 }
