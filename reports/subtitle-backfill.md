@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T05:45:50.134267+00:00
+Poslední aktualizace (UTC): 2026-11-03T05:45:53.527065+00:00
 
 Zkontrolováno videí: 329. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 236, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 236, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -67,6 +67,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | --- | --- | --- | --- |
 | [A Bittersweet Life (달콤한 인생) 1080p CZ Titulky](https://prehraj.to/a-bittersweet-life-1080p-cz-titulky-mkv/13fed60fbc75a424) (ID 30738514) | [Sdílej 17861075](https://sdilej.cz/17861075/a.bittersweet.life.2005.1080p.bluray.x265.hevc.eac3-titulky-cz.mkv) | target_unavailable | 2026-11-03T05:36:54.950802+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T04:43:49.432559+00:00 |
+| [A History of Violence 1080p CZ Titulky](https://prehraj.to/a-history-of-violence-1080p-cz-titulky-mkv/3affbc79e802af72) (ID 30753470) | [Sdílej 31347470](https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv) | target_unavailable | 2026-11-03T05:45:53.526965+00:00 |
 | [Anora 4K CZ Titulky](https://prehraj.to/anora-4k-cz-titulky-mkv/9ff154c1166c44e3) (ID 30753012) | [Sdílej 30450437](https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T05:25:29.522201+00:00 |
 | [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T04:43:35.372630+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T05:35:51.891955+00:00 |
