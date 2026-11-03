@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T13:06:46.101012+00:00
+Poslední aktualizace (UTC): 2026-11-03T13:06:49.827144+00:00
 
 Zkontrolováno videí: 337. Další stránka kontroly: 0.
 
@@ -76,7 +76,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 32. Důvod
 | [Frequency 1080p CZ Titulky](https://prehraj.to/frequency-1080p-cz-titulky-mkv/9247d4d3775759d1) (ID 30759792) | [Sdílej 14524461](https://sdilej.cz/14524461/frekvence.mkv) | target_unavailable | 2026-11-03T12:24:42.851900+00:00 |
 | [Furiosa: A Mad Max Saga 4K CZ Titulky](https://prehraj.to/furiosa-a-mad-max-saga-4k-cz-titulky-mkv/46e117960f31a77b) (ID 30752813) | [Sdílej 32911115](https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv) | target_unavailable | 2026-11-03T11:44:36.943521+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-03T13:05:55.881581+00:00 |
-| [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-03T11:35:41.697686+00:00 |
+| [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-03T13:06:49.827071+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-03T11:35:56.901145+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-03T11:35:44.926267+00:00 |
 | [Looper 1080p CZ Titulky](https://prehraj.to/looper-1080p-cz-titulky-mkv/7c39ad7aa9f0ee8e) (ID 30746833) | [Sdílej 19161782](https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv) | target_unavailable | 2026-11-03T11:44:19.574322+00:00 |
