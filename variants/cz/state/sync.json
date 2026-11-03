@@ -17285,13 +17285,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-03T10:29:00.227775+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-03T11:00:39.564781+00:00"
         },
         {
@@ -17300,6 +17293,13 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-03T12:07:20.809545+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:50:06.282747+00:00"
         }
       ],
       "last_plan": {
@@ -17313,12 +17313,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
-      },
-      "claim": {
-        "worker_id": "d283b0e5529f41e3ab2067c42a1a844d-shard-0",
-        "claimed_at": "2026-11-03T12:50:04.311623+00:00",
-        "lease_expires_at": "2026-11-03T18:50:04.311623+00:00",
-        "run_id": "41603185604"
       }
     },
     "23132": {
@@ -18868,7 +18862,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-03T12:07:23.615803+00:00"
+        "planned_at": "2026-11-03T12:50:05.849420+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18876,6 +18870,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "54c81c7e81be401ba4fdc9db85a8165b-shard-0",
+        "claimed_at": "2026-11-03T12:50:06.368228+00:00",
+        "lease_expires_at": "2026-11-03T18:50:06.368228+00:00",
+        "run_id": "41603185604"
       }
     },
     "29695": {
@@ -44160,7 +44160,7 @@
       "last_plan": {
         "source_id": "29381556",
         "display_name": "A Dog's Purpose 1080p CZ Dabing",
-        "planned_at": "2026-11-03T12:50:03.928028+00:00"
+        "planned_at": "2026-11-03T12:50:06.003149+00:00"
       }
     },
     "1396": {
@@ -78208,5 +78208,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:50:04.311649+00:00"
+  "updated_at": "2026-11-03T12:50:06.368249+00:00"
 }
