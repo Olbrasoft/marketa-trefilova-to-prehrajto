@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T13:07:04.619992+00:00
+Poslední aktualizace (UTC): 2026-11-03T13:07:08.087339+00:00
 
 Zkontrolováno videí: 337. Další stránka kontroly: 0.
 
@@ -93,7 +93,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 32. Důvod
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-03T13:06:33.678697+00:00 |
 | [Tetris 4K CZ Titulky](https://prehraj.to/tetris-4k-cz-titulky-mkv/58b60079ca64385b) (ID 30761160) | [Sdílej 25659411](https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv) | target_unavailable | 2026-11-03T12:54:58.377126+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-03T13:05:45.545397+00:00 |
-| [The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky](https://prehraj.to/the-girl-with-the-needle-pigen-med-nalen-1440p-cz-titulky-mkv/0138f4cdc3431178) (ID 30743003) | [Sdílej 30632726](https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T11:36:00.304838+00:00 |
+| [The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky](https://prehraj.to/the-girl-with-the-needle-pigen-med-nalen-1440p-cz-titulky-mkv/0138f4cdc3431178) (ID 30743003) | [Sdílej 30632726](https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:07:08.087248+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-03T13:06:30.232201+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-03T13:06:12.079515+00:00 |
 | [The Rocky Horror Picture Show 1080p CZ Titulky](https://prehraj.to/the-rocky-horror-picture-show-1080p-cz-titulky-mkv/16dc8ba232615912) (ID 30756513) | [Sdílej 34912169](https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv) | target_unavailable | 2026-11-03T11:44:23.094275+00:00 |
