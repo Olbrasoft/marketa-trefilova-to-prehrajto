@@ -47251,17 +47251,19 @@
       }
     },
     "21694": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33405756",
+          "target_video_id": "30773775",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:55:15.618023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33405756",
         "display_name": "Irma la Douce 1080p CZ Dabing",
         "planned_at": "2026-11-03T21:51:37.367261+00:00"
-      },
-      "claim": {
-        "worker_id": "ff5d46b4f41d4f179555922af33b66b2-shard-0",
-        "claimed_at": "2026-11-03T21:51:37.596753+00:00",
-        "lease_expires_at": "2026-11-04T03:51:37.596753+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773775",
       "prepared": {
@@ -83281,5 +83283,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:52:57.152345+00:00"
+  "updated_at": "2026-11-03T21:55:15.618057+00:00"
 }
