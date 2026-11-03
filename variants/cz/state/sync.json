@@ -40052,7 +40052,20 @@
       }
     },
     "20782": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32999326",
+          "reason": "Request failed for https://sdilej.cz/32999326/tvar-vody-2017-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T02:22:58.639303+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32999326",
+        "display_name": "The Shape of Water 4K CZ Dabing",
+        "planned_at": "2026-11-03T02:22:12.328140+00:00"
+      }
     },
     "1401": {
       "attempts": []
@@ -72078,5 +72091,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:22:07.764468+00:00"
+  "updated_at": "2026-11-03T02:22:58.639320+00:00"
 }
