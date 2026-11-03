@@ -313,13 +313,14 @@ Attach subtitles only after target processing has finished.
 | Waves 720p CZ Titulky | 30739690 | https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv | Extract Czech track from exact source after processing |
 | And Now for Something Completely Different 1080p CZ Titulky | 30741124 | https://sdilej.cz/24008691/monty-python-a-ted-neco-uplne-jineho-cztit.-h.265-hevc-ntp-.mkv | Complete: Czech subtitles verified |
 | Wuthering Heights (1939) 1080p CZ Titulky | 30742707 | https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv | Complete: Czech subtitles verified |
-| Songs from the Second Floor 1080p CZ Titulky | 30742820 | https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
-| The Spy Who Came in from the Cold 1080p CZ Titulky | 30742933 | https://sdilej.cz/33595691/the-spy-who-came-in-from-the-cold-1965-criterion-1080p-bluray-x265-hevc-10bit-aac-2.0-tigole-.mkv | Extract Czech track from exact source after processing |
+| Songs from the Second Floor 1080p CZ Titulky | 30742820 | https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv | Complete: Czech subtitles verified |
+| The Spy Who Came in from the Cold 1080p CZ Titulky | 30742933 | https://sdilej.cz/33595691/the-spy-who-came-in-from-the-cold-1965-criterion-1080p-bluray-x265-hevc-10bit-aac-2.0-tigole-.mkv | Complete: Czech subtitles verified |
 | The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky | 30743003 | https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
-| Young Woman and the Sea 1080p CZ Titulky | 30743095 | https://sdilej.cz/29910483/young-woman-and-the-sea-2024-divka-a-more-128-min-fhd-x265-10b-5.1-en-.mkv | Extract Czech track from exact source after processing |
+| Young Woman and the Sea 1080p CZ Titulky | 30743095 | https://sdilej.cz/29910483/young-woman-and-the-sea-2024-divka-a-more-128-min-fhd-x265-10b-5.1-en-.mkv | Complete: Czech subtitles verified |
 | Twin Peaks: The Missing Pieces 1080p CZ Titulky | 30744845 | https://sdilej.cz/33200807/twin-peaks-the-missing-pieces-2014-fhd-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Volhynia (Wołyń) 720p CZ Titulky | 30745166 | https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Ballon 1080p CZ Titulky | 30745387 | https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Spider-Man 1080p CZ Titulky | 30746380 | https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv | Extract Czech track from exact source after processing |
 | Scum 1080p CZ Titulky | 30746417 | https://sdilej.cz/32101301/scum.1979.1080p.bluray.flac.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Looper 1080p CZ Titulky | 30746833 | https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv | Extract Czech track from exact source after processing |
+| Juno 1080p CZ Titulky | 30747251 | https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv | Extract Czech track from exact source after processing |
