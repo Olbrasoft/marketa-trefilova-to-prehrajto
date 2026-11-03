@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-03T11:16:53.046670+00:00"
+        "planned_at": "2026-11-03T12:08:59.306823+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "0f43af4d285c40b7abb06376a409aa97-shard-0",
+        "claimed_at": "2026-11-03T12:08:59.688752+00:00",
+        "lease_expires_at": "2026-11-03T18:08:59.688752+00:00",
+        "run_id": "41603185604"
       }
     },
     "29922": {
@@ -43640,17 +43646,19 @@
       "attempts": []
     },
     "1059": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33849008",
+          "target_video_id": "30759284",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:10:03.811571+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33849008",
         "display_name": "Nuremberg 4K CZ Dabing",
         "planned_at": "2026-11-03T10:48:55.567230+00:00"
-      },
-      "claim": {
-        "worker_id": "8e670a46e65a490c9e7c93ed14ae3a94-shard-0",
-        "claimed_at": "2026-11-03T10:48:55.775561+00:00",
-        "lease_expires_at": "2026-11-03T16:48:55.775561+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30759284",
       "prepared": {
@@ -43875,7 +43883,7 @@
       "last_plan": {
         "source_id": "33675413",
         "display_name": "The Guard (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T12:08:56.285591+00:00"
+        "planned_at": "2026-11-03T12:08:59.462787+00:00"
       }
     },
     "12424": {
@@ -77702,5 +77710,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:08:57.745511+00:00"
+  "updated_at": "2026-11-03T12:10:03.811587+00:00"
 }
