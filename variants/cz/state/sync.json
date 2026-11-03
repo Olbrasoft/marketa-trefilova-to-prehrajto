@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-03T09:26:55.568402+00:00"
+        "planned_at": "2026-11-03T09:57:58.320710+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "d5d3d89bc41c42bdaabfea0d45d36bf5-shard-0",
+        "claimed_at": "2026-11-03T09:57:58.680891+00:00",
+        "lease_expires_at": "2026-11-03T15:57:58.680891+00:00",
+        "run_id": "41603185604"
       }
     },
     "10755": {
@@ -4255,13 +4261,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-03T08:15:57.058890+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-03T08:52:22.391855+00:00"
         },
         {
@@ -4270,6 +4269,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-03T09:26:54.210809+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:57:59.346021+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4289,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "dcf24a6d50df464688ca6c8df275d8eb-shard-0",
-        "claimed_at": "2026-11-03T09:57:56.100482+00:00",
-        "lease_expires_at": "2026-11-03T15:57:56.100482+00:00",
-        "run_id": "41603185604"
       }
     },
     "229": {
@@ -43227,7 +43227,7 @@
       "last_plan": {
         "source_id": "33159582",
         "display_name": "National Lampoon's Vacation 4K CZ Dabing",
-        "planned_at": "2026-11-03T09:57:55.904567+00:00"
+        "planned_at": "2026-11-03T09:57:58.474182+00:00"
       }
     },
     "1459": {
@@ -76736,5 +76736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:57:56.879826+00:00"
+  "updated_at": "2026-11-03T09:57:59.346037+00:00"
 }
