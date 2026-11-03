@@ -48943,17 +48943,19 @@
       "attempts": []
     },
     "21445": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30772597",
+          "target_video_id": "30775190",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:52:28.726633+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30772597",
         "display_name": "We're No Angels (1955) 1080p CZ Dabing",
         "planned_at": "2026-11-03T23:44:11.841816+00:00"
-      },
-      "claim": {
-        "worker_id": "727afdeda124451bb0654118b2ce5046-shard-0",
-        "claimed_at": "2026-11-03T23:44:11.962148+00:00",
-        "lease_expires_at": "2026-11-04T05:44:11.962148+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775190",
       "prepared": {
@@ -84966,5 +84968,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:52:27.480170+00:00"
+  "updated_at": "2026-11-03T23:52:28.726647+00:00"
 }
