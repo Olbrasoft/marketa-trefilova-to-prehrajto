@@ -346,3 +346,4 @@ Attach subtitles only after target processing has finished.
 | High Plains Drifter 1080p CZ Titulky | 30763637 | https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv | Extract Czech track from exact source after processing |
 | 5 Centimeters Per Second (Byôsoku 5 senchimêtoru) 1080p CZ Titulky | 30768804 | https://sdilej.cz/27114239/5-centimeters-per-second-2007-1080p-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Predator: Killer of Killers 4K CZ Titulky | 30770514 | https://sdilej.cz/31244377/predator-zabijak-zabijaku-2025-akcni-animovany-usa-cztit-2160p.mkv | Extract Czech track from exact source after processing |
+| Everything Is Illuminated 720p CZ Titulky | 30770852 | https://sdilej.cz/28421392/naprosto-osvetleno-2005-everything-is-illuminated-eng-dab.-eng-cz-ttl..mkv | Extract Czech track from exact source after processing |
