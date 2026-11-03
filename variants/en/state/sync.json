@@ -16732,17 +16732,19 @@
       "attempts": []
     },
     "1081": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30450437",
+          "target_video_id": "30753012",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:31:18.743238+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30450437",
         "display_name": "Anora 4K CZ Titulky",
         "planned_at": "2026-11-03T05:21:29.997589+00:00"
-      },
-      "claim": {
-        "worker_id": "26e2d6c55bc840cc892378d480ed0b04-shard-0",
-        "claimed_at": "2026-11-03T05:21:30.032732+00:00",
-        "lease_expires_at": "2026-11-03T11:21:30.032732+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30753012",
       "prepared": {
@@ -50735,5 +50737,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:21:33.619469+00:00"
+  "updated_at": "2026-11-03T05:31:18.743255+00:00"
 }
