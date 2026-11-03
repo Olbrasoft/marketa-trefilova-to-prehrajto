@@ -43711,17 +43711,19 @@
       }
     },
     "1447": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34701158",
+          "target_video_id": "30759553",
+          "permanent": false,
+          "attempted_at": "2026-11-03T11:15:24.955129+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34701158",
         "display_name": "The People vs. Larry Flynt 4K CZ Dabing",
         "planned_at": "2026-11-03T11:02:38.763519+00:00"
-      },
-      "claim": {
-        "worker_id": "ed9a0ba7dbd64d74ab27eea51c0019e2-shard-0",
-        "claimed_at": "2026-11-03T11:02:38.982888+00:00",
-        "lease_expires_at": "2026-11-03T17:02:38.982888+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30759553",
       "prepared": {
@@ -43759,7 +43761,13 @@
       "last_plan": {
         "source_id": "33504364",
         "display_name": "Say Anything... 1080p CZ Dabing",
-        "planned_at": "2026-11-03T11:14:32.580373+00:00"
+        "planned_at": "2026-11-03T11:14:36.467778+00:00"
+      },
+      "claim": {
+        "worker_id": "5ab1a572375b4689a3773607af7a077f-shard-0",
+        "claimed_at": "2026-11-03T11:14:36.687407+00:00",
+        "lease_expires_at": "2026-11-03T17:14:36.687407+00:00",
+        "run_id": "41603185604"
       }
     },
     "1284": {
@@ -77367,5 +77375,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T11:14:33.548402+00:00"
+  "updated_at": "2026-11-03T11:15:24.955145+00:00"
 }
