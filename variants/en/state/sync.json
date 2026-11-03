@@ -16988,17 +16988,19 @@
       "attempts": []
     },
     "12059": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35401994",
+          "target_video_id": "30755736",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:57:00.541350+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35401994",
         "display_name": "Army of Darkness 1080p CZ Titulky",
         "planned_at": "2026-11-03T07:54:15.478794+00:00"
-      },
-      "claim": {
-        "worker_id": "98180b8ae6394d449ef914624257e824-shard-0",
-        "claimed_at": "2026-11-03T07:54:15.513234+00:00",
-        "lease_expires_at": "2026-11-03T13:54:15.513234+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755736",
       "prepared": {
@@ -51426,5 +51428,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:54:18.404593+00:00"
+  "updated_at": "2026-11-03T07:57:00.541372+00:00"
 }
