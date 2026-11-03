@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T18:29:50.573695+00:00
+Poslední aktualizace (UTC): 2026-11-03T18:30:48.946185+00:00
 
 Zkontrolováno videí: 345. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 247, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 36, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 247, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -75,6 +75,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 41. Důvod
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-03T14:14:13.285915+00:00 |
 | [Burning (Beoning) (2018) 720p CZ Titulky](https://prehraj.to/burning-beoning-2018-720p-cz-titulky-mkv/8e80d707ebd16ea7) (ID 30761347) | [Sdílej 10716235](https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv) | target_unavailable | 2026-11-03T14:05:42.870242+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T13:15:20.974510+00:00 |
+| [Everything Is Illuminated 720p CZ Titulky](https://prehraj.to/everything-is-illuminated-720p-cz-titulky-mkv/0933c16c5cf44f5d) (ID 30770852) | [Sdílej 28421392](https://sdilej.cz/28421392/naprosto-osvetleno-2005-everything-is-illuminated-eng-dab.-eng-cz-ttl..mkv) | target_unavailable | 2026-11-03T18:30:02.407165+00:00 |
 | [Frequency 1080p CZ Titulky](https://prehraj.to/frequency-1080p-cz-titulky-mkv/9247d4d3775759d1) (ID 30759792) | [Sdílej 14524461](https://sdilej.cz/14524461/frekvence.mkv) | target_unavailable | 2026-11-03T13:25:23.242203+00:00 |
 | [Furiosa: A Mad Max Saga 4K CZ Titulky](https://prehraj.to/furiosa-a-mad-max-saga-4k-cz-titulky-mkv/46e117960f31a77b) (ID 30752813) | [Sdílej 32911115](https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv) | target_unavailable | 2026-11-03T13:15:48.976453+00:00 |
 | [High Plains Drifter 1080p CZ Titulky](https://prehraj.to/high-plains-drifter-1080p-cz-titulky-mkv/d6261d51ecde1e75) (ID 30763637) | [Sdílej 26121857](https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv) | target_unavailable | 2026-11-03T14:24:22.795111+00:00 |
