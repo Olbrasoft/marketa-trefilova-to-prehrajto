@@ -46113,17 +46113,19 @@
       }
     },
     "22904": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22347741",
+          "target_video_id": "30770956",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:36:48.114197+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22347741",
         "display_name": "Broadcast News SD CZ Dabing",
         "planned_at": "2026-11-03T18:33:55.890631+00:00"
-      },
-      "claim": {
-        "worker_id": "bf1cfbe3d8844a7596de08f340f49aee-shard-0",
-        "claimed_at": "2026-11-03T18:33:58.686610+00:00",
-        "lease_expires_at": "2026-11-04T00:33:58.686610+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30770956",
       "prepared": {
@@ -81451,5 +81453,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:36:34.504394+00:00"
+  "updated_at": "2026-11-03T18:36:48.114219+00:00"
 }
