@@ -2007,13 +2007,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-03T10:57:59.290974+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-03T12:04:15.712745+00:00"
         },
         {
@@ -2022,6 +2015,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-03T12:48:02.267453+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-03T14:14:36.372937+00:00"
         }
       ],
       "last_plan": {
@@ -2035,12 +2035,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
-      },
-      "claim": {
-        "worker_id": "c8a5ae2413a54eca8b9430ed61918c96-shard-0",
-        "claimed_at": "2026-11-03T14:14:33.697447+00:00",
-        "lease_expires_at": "2026-11-03T20:14:33.697447+00:00",
-        "run_id": "41643804131"
       }
     },
     "107": {
@@ -11497,7 +11491,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-03T12:48:02.603133+00:00"
+        "planned_at": "2026-11-03T14:14:36.143703+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -11505,6 +11499,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "c2b99baa6ff74892a5321d84d221e24c-shard-0",
+        "claimed_at": "2026-11-03T14:14:36.432927+00:00",
+        "lease_expires_at": "2026-11-03T20:14:36.432927+00:00",
+        "run_id": "41643804131"
       }
     },
     "834": {
@@ -17493,7 +17493,7 @@
       "last_plan": {
         "source_id": "20877545",
         "display_name": "Marathon Man 1080p CZ Titulky",
-        "planned_at": "2026-11-03T14:14:33.632213+00:00"
+        "planned_at": "2026-11-03T14:14:36.252633+00:00"
       }
     },
     "12218": {
@@ -53194,5 +53194,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T14:14:34.137501+00:00"
+  "updated_at": "2026-11-03T14:14:36.432962+00:00"
 }
