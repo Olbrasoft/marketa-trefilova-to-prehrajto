@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "1b6b05262a35465a83ac37096e3508c2-shard-0",
+        "claimed_at": "2026-11-03T19:30:34.087847+00:00",
+        "lease_expires_at": "2026-11-04T01:30:34.087847+00:00",
+        "run_id": "41693337041"
       }
     },
     "37290": {
@@ -46478,17 +46484,19 @@
       }
     },
     "1368": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35209785",
+          "target_video_id": "30771535",
+          "permanent": false,
+          "attempted_at": "2026-11-03T19:31:19.001747+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35209785",
         "display_name": "12th Man (Den 12. mann) (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-03T19:20:17.706752+00:00"
-      },
-      "claim": {
-        "worker_id": "3b5c1dad359a4c90912d3c0c50000e0d-shard-0",
-        "claimed_at": "2026-11-03T19:20:18.622821+00:00",
-        "lease_expires_at": "2026-11-04T01:20:18.622821+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30771535",
       "prepared": {
@@ -82056,5 +82064,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:30:29.692153+00:00"
+  "updated_at": "2026-11-03T19:31:19.001775+00:00"
 }
