@@ -47994,17 +47994,19 @@
       "attempts": []
     },
     "11334": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33741675",
+          "target_video_id": "30774556",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:49:47.724376+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33741675",
         "display_name": "The Last Metro (Le Dernier Métro) 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:39:40.786987+00:00"
-      },
-      "claim": {
-        "worker_id": "3326fe1f8eeb40a298233fb081b292a9-shard-0",
-        "claimed_at": "2026-11-03T22:39:40.978147+00:00",
-        "lease_expires_at": "2026-11-04T04:39:40.978147+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30774556",
       "prepared": {
@@ -48112,7 +48114,18 @@
       "attempts": []
     },
     "16216": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34471702",
+        "display_name": "Twinless 1080p CZ Dabing",
+        "planned_at": "2026-11-03T22:49:47.452168+00:00"
+      },
+      "claim": {
+        "worker_id": "757c5770ec0648f88543d25d555d0135-shard-0",
+        "claimed_at": "2026-11-03T22:49:47.556228+00:00",
+        "lease_expires_at": "2026-11-04T04:49:47.556228+00:00",
+        "run_id": "41730144184"
+      }
     },
     "29011": {
       "attempts": []
@@ -83923,5 +83936,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:49:41.045781+00:00"
+  "updated_at": "2026-11-03T22:49:47.724386+00:00"
 }
