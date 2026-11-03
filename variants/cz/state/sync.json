@@ -43048,17 +43048,19 @@
       "attempts": []
     },
     "1493": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33758503",
+          "target_video_id": "30757907",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:32:39.718014+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33758503",
         "display_name": "I Origins 1080p CZ Dabing",
         "planned_at": "2026-11-03T09:28:24.379516+00:00"
-      },
-      "claim": {
-        "worker_id": "0bb68a9b27264171b26af798693a26d5-shard-0",
-        "claimed_at": "2026-11-03T09:28:24.587155+00:00",
-        "lease_expires_at": "2026-11-03T15:28:24.587155+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30757907",
       "prepared": {
@@ -76598,5 +76600,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:28:28.494332+00:00"
+  "updated_at": "2026-11-03T09:32:39.718030+00:00"
 }
