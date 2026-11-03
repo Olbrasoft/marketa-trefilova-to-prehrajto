@@ -40402,17 +40402,19 @@
       }
     },
     "1547": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29907951",
+          "target_video_id": "30750400",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:34:22.346906+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29907951",
         "display_name": "Flight 1080p CZ Dabing",
         "planned_at": "2026-11-03T03:27:16.812751+00:00"
-      },
-      "claim": {
-        "worker_id": "d4a86b45f54a403ab69d3052759c9424-shard-0",
-        "claimed_at": "2026-11-03T03:27:17.051971+00:00",
-        "lease_expires_at": "2026-11-03T09:27:17.051971+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30750400",
       "prepared": {
@@ -72715,5 +72717,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:34:05.704068+00:00"
+  "updated_at": "2026-11-03T03:34:22.346923+00:00"
 }
