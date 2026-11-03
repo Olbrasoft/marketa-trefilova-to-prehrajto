@@ -42047,17 +42047,19 @@
       }
     },
     "21316": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34577799",
+          "target_video_id": "30755374",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:34:43.873346+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34577799",
         "display_name": "Cinderella (1950) 1080p CZ Dabing",
         "planned_at": "2026-11-03T07:28:36.151742+00:00"
-      },
-      "claim": {
-        "worker_id": "51561ae4360c48268f00f8bb9511b868-shard-0",
-        "claimed_at": "2026-11-03T07:28:36.294252+00:00",
-        "lease_expires_at": "2026-11-03T13:28:36.294252+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30755374",
       "prepared": {
@@ -75209,5 +75211,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:34:39.540607+00:00"
+  "updated_at": "2026-11-03T07:34:43.873370+00:00"
 }
