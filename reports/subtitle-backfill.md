@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T19:41:12.293870+00:00
+Poslední aktualizace (UTC): 2026-11-03T19:41:59.834285+00:00
 
 Zkontrolováno videí: 346. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 247, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 247, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -108,6 +108,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 43. Důvod
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-03T13:15:13.932077+00:00 |
 | [Weapons 1440p CZ Titulky](https://prehraj.to/weapons-1440p-cz-titulky-mkv/c6e59521c995e5a2) (ID 30752783) | [Sdílej 31764637](https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:15:45.484515+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-03T13:06:04.956615+00:00 |
+| [Zatōichi (座頭市) 1080p CZ Titulky](https://prehraj.to/zatoichi-1080p-cz-titulky-mkv/7a2817778f1435f2) (ID 30771751) | [Sdílej 20752549](https://sdilej.cz/20752549/samuraj-the-blind-swordsman-zatoichi-2003-1080p-cz-titl.mkv) | target_unavailable | 2026-11-03T19:41:25.198773+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
