@@ -40764,17 +40764,19 @@
       }
     },
     "1394": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34826023",
+          "target_video_id": "30751591",
+          "permanent": false,
+          "attempted_at": "2026-11-03T04:03:29.086398+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
         "planned_at": "2026-11-03T03:58:07.206678+00:00"
-      },
-      "claim": {
-        "worker_id": "506567dba33647b698854a595e7d19c9-shard-0",
-        "claimed_at": "2026-11-03T03:58:07.433155+00:00",
-        "lease_expires_at": "2026-11-03T09:58:07.433155+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -72991,5 +72993,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:58:27.242139+00:00"
+  "updated_at": "2026-11-03T04:03:29.086414+00:00"
 }
