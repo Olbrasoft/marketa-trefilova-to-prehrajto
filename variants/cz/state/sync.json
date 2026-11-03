@@ -41368,17 +41368,19 @@
       "attempts": []
     },
     "23179": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33730694",
+          "target_video_id": "30754257",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:23:26.973305+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33730694",
         "display_name": "Cape Fear (1991) 1080p CZ Dabing",
         "planned_at": "2026-11-03T06:15:07.582258+00:00"
-      },
-      "claim": {
-        "worker_id": "4debb124c92f409ba213dc859934f2fa-shard-0",
-        "claimed_at": "2026-11-03T06:15:08.912152+00:00",
-        "lease_expires_at": "2026-11-03T12:15:08.912152+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754257",
       "prepared": {
@@ -74069,5 +74071,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:23:13.515918+00:00"
+  "updated_at": "2026-11-03T06:23:26.973328+00:00"
 }
