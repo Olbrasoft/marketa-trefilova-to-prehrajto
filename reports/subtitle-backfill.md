@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T08:39:23.065276+00:00
+Poslední aktualizace (UTC): 2026-11-03T08:39:26.702358+00:00
 
 Zkontrolováno videí: 331. Další stránka kontroly: 0.
 
@@ -81,7 +81,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-03T07:38:32.486011+00:00 |
 | [Looper 1080p CZ Titulky](https://prehraj.to/looper-1080p-cz-titulky-mkv/7c39ad7aa9f0ee8e) (ID 30746833) | [Sdílej 19161782](https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv) | target_unavailable | 2026-11-03T07:47:59.763067+00:00 |
 | [Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky](https://prehraj.to/mission-impossible-rogue-nation-mission-impossible-rogue-nation-1080p-cz-titulky-mkv/3e9675d878ecb622) (ID 30749326) | [Sdílej 18594920](https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv) | target_unavailable | 2026-11-03T08:07:53.203244+00:00 |
-| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T07:38:25.733724+00:00 |
+| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T08:39:26.702250+00:00 |
 | [One Life 1080p CZ Titulky](https://prehraj.to/one-life-1080p-cz-titulky-mkv/c2d7448541f4a3aa) (ID 30739164) | [Sdílej 28233529](https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T07:47:49.290393+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T08:39:19.374319+00:00 |
 | [Ready Player One 1080p CZ Titulky](https://prehraj.to/ready-player-one-1080p-cz-titulky-mkv/2c55f30281f91b95) (ID 30750049) | [Sdílej 14502469](https://sdilej.cz/14502469/ready-player-one-hra-zacina-2018-m1080p-web-dl-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-03T08:28:19.200685+00:00 |
