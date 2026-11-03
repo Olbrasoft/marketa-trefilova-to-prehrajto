@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-03T19:46:39.158228+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-03T20:17:10.219531+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-03T20:53:11.600434+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:28:34.222085+00:00"
         }
       ],
       "last_plan": {
@@ -2110,7 +2110,7 @@
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-11-03T20:53:11.308562+00:00"
+        "planned_at": "2026-11-03T21:28:33.355872+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "a4c3233293124d91957e4262884b2474-shard-0",
+        "claimed_at": "2026-11-03T21:28:33.597615+00:00",
+        "lease_expires_at": "2026-11-04T03:28:33.597615+00:00",
+        "run_id": "41693337041"
       }
     },
     "21690": {
@@ -18060,7 +18066,7 @@
       "last_plan": {
         "source_id": "11485764",
         "display_name": "La Belle Noiseuse SD CZ Titulky",
-        "planned_at": "2026-11-03T21:28:26.028278+00:00"
+        "planned_at": "2026-11-03T21:28:33.532137+00:00"
       }
     },
     "23476": {
@@ -55706,5 +55712,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:28:26.028298+00:00"
+  "updated_at": "2026-11-03T21:28:34.222106+00:00"
 }
