@@ -16435,17 +16435,19 @@
       "attempts": []
     },
     "1252": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33537783",
+          "target_video_id": "30747251",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:51:02.293676+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
         "planned_at": "2026-11-03T01:38:21.548385+00:00"
-      },
-      "claim": {
-        "worker_id": "45d8f53bce51405c8ddff403df6a6d36-shard-0",
-        "claimed_at": "2026-11-03T01:38:21.605576+00:00",
-        "lease_expires_at": "2026-11-03T07:38:21.605576+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -49505,5 +49507,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:38:25.775642+00:00"
+  "updated_at": "2026-11-03T01:51:02.293718+00:00"
 }
