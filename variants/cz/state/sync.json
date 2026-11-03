@@ -10829,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-03T15:51:48.908812+00:00"
+        "planned_at": "2026-11-03T16:23:23.102123+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10837,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "10ba986c54ce41f5b5e578a91af3c534-shard-0",
+        "claimed_at": "2026-11-03T16:23:23.444067+00:00",
+        "lease_expires_at": "2026-11-03T22:23:23.444067+00:00",
+        "run_id": "41643804131"
       }
     },
     "21748": {
@@ -16341,13 +16347,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-03T14:48:40.604282+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-03T15:19:40.257313+00:00"
         },
         {
@@ -16356,6 +16355,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-03T15:51:49.848431+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-03T16:23:23.593879+00:00"
         }
       ],
       "last_plan": {
@@ -16369,12 +16375,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
-      },
-      "claim": {
-        "worker_id": "39d51cbbeb204329ba1484d50cac68f2-shard-0",
-        "claimed_at": "2026-11-03T16:23:19.489570+00:00",
-        "lease_expires_at": "2026-11-03T22:23:19.489570+00:00",
-        "run_id": "41643804131"
       }
     },
     "12843": {
@@ -45272,7 +45272,7 @@
       "last_plan": {
         "source_id": "20038930",
         "display_name": "Red Cliff (Chi bi) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T16:23:19.236870+00:00"
+        "planned_at": "2026-11-03T16:23:23.251507+00:00"
       }
     },
     "37391": {
@@ -80203,5 +80203,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T16:23:20.005687+00:00"
+  "updated_at": "2026-11-03T16:23:23.593898+00:00"
 }
