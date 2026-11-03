@@ -40555,17 +40555,19 @@
       }
     },
     "1496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34357752",
+          "target_video_id": "30750820",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:54:18.519258+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34357752",
         "display_name": "Kingdom of Heaven 4K CZ Dabing",
         "planned_at": "2026-11-03T03:38:40.012494+00:00"
-      },
-      "claim": {
-        "worker_id": "3888d8cdaf114964b2482908c39921b9-shard-0",
-        "claimed_at": "2026-11-03T03:38:40.222259+00:00",
-        "lease_expires_at": "2026-11-03T09:38:40.222259+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30750820",
       "prepared": {
@@ -40684,7 +40686,13 @@
       "last_plan": {
         "source_id": "12488068",
         "display_name": "The Place Beyond the Pines SD CZ Dabing",
-        "planned_at": "2026-11-03T03:54:05.515386+00:00"
+        "planned_at": "2026-11-03T03:54:08.559138+00:00"
+      },
+      "claim": {
+        "worker_id": "5c967afbe92b491791449deccf8ac353-shard-0",
+        "claimed_at": "2026-11-03T03:54:08.779590+00:00",
+        "lease_expires_at": "2026-11-03T09:54:08.779590+00:00",
+        "run_id": "41544835219"
       }
     },
     "1490": {
@@ -72906,5 +72914,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:54:05.515406+00:00"
+  "updated_at": "2026-11-03T03:54:18.519276+00:00"
 }
