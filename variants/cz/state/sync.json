@@ -17285,13 +17285,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-03T17:42:53.525020+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-03T18:39:01.595077+00:00"
         },
         {
@@ -17300,6 +17293,13 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-03T19:23:22.379827+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-03T19:56:55.868082+00:00"
         }
       ],
       "last_plan": {
@@ -18862,7 +18862,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:24:12.177136+00:00"
+        "planned_at": "2026-11-03T19:56:54.939805+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18870,6 +18870,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "b6d3f7393a2a42a3a7b733f3d3de6d85-shard-0",
+        "claimed_at": "2026-11-03T19:56:55.346608+00:00",
+        "lease_expires_at": "2026-11-04T01:56:55.346608+00:00",
+        "run_id": "41693337041"
       }
     },
     "29695": {
@@ -46647,7 +46653,7 @@
       "last_plan": {
         "source_id": "30326838",
         "display_name": "The Bélier Family (La Famille Bélier) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:56:43.485918+00:00"
+        "planned_at": "2026-11-03T19:56:55.110420+00:00"
       }
     },
     "15498": {
@@ -82156,5 +82162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:56:43.485939+00:00"
+  "updated_at": "2026-11-03T19:56:55.868106+00:00"
 }
