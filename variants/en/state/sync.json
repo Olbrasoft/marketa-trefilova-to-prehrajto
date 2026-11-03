@@ -17947,17 +17947,19 @@
       "attempts": []
     },
     "1090": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29236159",
+          "target_video_id": "30771978",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:19:05.032023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29236159",
         "display_name": "Kill 4K CZ Titulky",
         "planned_at": "2026-11-03T19:59:06.853395+00:00"
-      },
-      "claim": {
-        "worker_id": "4640f607789f41b693afa55ec4b69be2-shard-0",
-        "claimed_at": "2026-11-03T19:59:06.954965+00:00",
-        "lease_expires_at": "2026-11-04T01:59:06.954965+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30771978",
       "prepared": {
@@ -55355,5 +55357,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T20:18:27.071160+00:00"
+  "updated_at": "2026-11-03T20:19:05.032052+00:00"
 }
