@@ -41019,17 +41019,19 @@
       }
     },
     "19681": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30855275",
+          "target_video_id": "30752895",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:17:56.889472+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30855275",
         "display_name": "The Lincoln Lawyer 1080p CZ Dabing",
         "planned_at": "2026-11-03T05:14:44.800549+00:00"
-      },
-      "claim": {
-        "worker_id": "302d1b0860da43a587147ba00ff2909d-shard-0",
-        "claimed_at": "2026-11-03T05:14:44.917038+00:00",
-        "lease_expires_at": "2026-11-03T11:14:44.917038+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30752895",
       "prepared": {
@@ -73471,5 +73473,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:14:48.554257+00:00"
+  "updated_at": "2026-11-03T05:17:56.889502+00:00"
 }
