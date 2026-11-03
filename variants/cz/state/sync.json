@@ -41703,17 +41703,19 @@
       }
     },
     "1379": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33503715",
+          "target_video_id": "30754820",
+          "permanent": false,
+          "attempted_at": "2026-11-03T07:03:26.566181+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33503715",
         "display_name": "Rocketman 4K CZ Dabing",
         "planned_at": "2026-11-03T06:54:30.875816+00:00"
-      },
-      "claim": {
-        "worker_id": "e493324d2eb04172aa6f4d2b06bb6f0b-shard-0",
-        "claimed_at": "2026-11-03T06:54:31.012568+00:00",
-        "lease_expires_at": "2026-11-03T12:54:31.012568+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30754820",
       "prepared": {
@@ -74635,5 +74637,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T07:00:56.221861+00:00"
+  "updated_at": "2026-11-03T07:03:26.566204+00:00"
 }
