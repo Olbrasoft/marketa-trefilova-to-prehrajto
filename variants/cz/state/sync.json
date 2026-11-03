@@ -46038,17 +46038,19 @@
       }
     },
     "1444": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26835667",
+          "target_video_id": "30770304",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:00:35.601376+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26835667",
         "display_name": "A Street Cat Named Bob 1080p CZ Dabing",
         "planned_at": "2026-11-03T17:55:08.474637+00:00"
-      },
-      "claim": {
-        "worker_id": "2ec8b71b971d447d88b8e156c5077f62-shard-0",
-        "claimed_at": "2026-11-03T17:55:08.678924+00:00",
-        "lease_expires_at": "2026-11-03T23:55:08.678924+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30770304",
       "prepared": {
@@ -81114,5 +81116,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:55:12.285600+00:00"
+  "updated_at": "2026-11-03T18:00:35.601390+00:00"
 }
