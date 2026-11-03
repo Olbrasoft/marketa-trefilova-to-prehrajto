@@ -41111,17 +41111,19 @@
       }
     },
     "1287": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34206725",
+          "target_video_id": "30753164",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:37:40.815338+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34206725",
         "display_name": "Big 4K CZ Dabing",
         "planned_at": "2026-11-03T05:27:48.894324+00:00"
-      },
-      "claim": {
-        "worker_id": "79acb81f749d4ec3bf3a1a2f8ab9745b-shard-0",
-        "claimed_at": "2026-11-03T05:27:49.007510+00:00",
-        "lease_expires_at": "2026-11-03T11:27:49.007510+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30753164",
       "prepared": {
@@ -73821,5 +73823,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:31:26.639931+00:00"
+  "updated_at": "2026-11-03T05:37:40.815356+00:00"
 }
