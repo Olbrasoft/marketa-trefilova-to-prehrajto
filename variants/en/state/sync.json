@@ -15581,13 +15581,6 @@
           "source_id": "28233529",
           "target_video_id": "30739164",
           "permanent": false,
-          "attempted_at": "2026-11-03T03:42:15.735336+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28233529",
-          "target_video_id": "30739164",
-          "permanent": false,
           "attempted_at": "2026-11-03T04:16:16.784155+00:00"
         },
         {
@@ -15596,6 +15589,13 @@
           "target_video_id": "30739164",
           "permanent": false,
           "attempted_at": "2026-11-03T05:05:35.308381+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28233529",
+          "target_video_id": "30739164",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:38:09.072829+00:00"
         }
       ],
       "last_plan": {
@@ -16063,7 +16063,7 @@
       "last_plan": {
         "source_id": "30632726",
         "display_name": "The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky",
-        "planned_at": "2026-11-03T05:05:38.029780+00:00"
+        "planned_at": "2026-11-03T05:38:08.334046+00:00"
       },
       "previous_target_id": "30743003",
       "prepared": {
@@ -16071,6 +16071,12 @@
         "size_bytes": 19100000000,
         "prepared_at": "2026-11-02T21:49:35.355913+00:00",
         "relay_source_id": "30632726"
+      },
+      "claim": {
+        "worker_id": "158c59d7e2e24d8fb8cdf3ed3c2a6ef5-shard-0",
+        "claimed_at": "2026-11-03T05:38:08.421490+00:00",
+        "lease_expires_at": "2026-11-03T11:38:08.421490+00:00",
+        "run_id": "41577832824"
       }
     },
     "30266": {
@@ -16768,7 +16774,7 @@
       "last_plan": {
         "source_id": "30205491",
         "display_name": "Conclave 4K CZ Titulky",
-        "planned_at": "2026-11-03T05:38:06.825921+00:00"
+        "planned_at": "2026-11-03T05:38:08.391608+00:00"
       }
     },
     "1151": {
@@ -50748,5 +50754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:38:06.825931+00:00"
+  "updated_at": "2026-11-03T05:38:09.072849+00:00"
 }
