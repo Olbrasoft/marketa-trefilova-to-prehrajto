@@ -328,3 +328,4 @@ Attach subtitles only after target processing has finished.
 | Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky | 30749326 | https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv | Extract Czech track from exact source after processing |
 | Weapons 1440p CZ Titulky | 30752783 | https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Furiosa: A Mad Max Saga 4K CZ Titulky | 30752813 | https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
+| Anora 4K CZ Titulky | 30753012 | https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
