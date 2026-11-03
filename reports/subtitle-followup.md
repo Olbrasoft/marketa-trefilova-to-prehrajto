@@ -345,3 +345,4 @@ Attach subtitles only after target processing has finished.
 | Marathon Man 1080p CZ Titulky | 30763573 | https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv | Extract Czech track from exact source after processing |
 | High Plains Drifter 1080p CZ Titulky | 30763637 | https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv | Extract Czech track from exact source after processing |
 | 5 Centimeters Per Second (Byôsoku 5 senchimêtoru) 1080p CZ Titulky | 30768804 | https://sdilej.cz/27114239/5-centimeters-per-second-2007-1080p-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Predator: Killer of Killers 4K CZ Titulky | 30770514 | https://sdilej.cz/31244377/predator-zabijak-zabijaku-2025-akcni-animovany-usa-cztit-2160p.mkv | Extract Czech track from exact source after processing |
