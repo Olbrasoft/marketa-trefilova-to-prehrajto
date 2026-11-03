@@ -46584,17 +46584,19 @@
       "attempts": []
     },
     "18639": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34192154",
+          "target_video_id": "30771800",
+          "permanent": false,
+          "attempted_at": "2026-11-03T19:47:48.978000+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34192154",
         "display_name": "Song Sung Blue 1080p CZ Dabing",
         "planned_at": "2026-11-03T19:37:28.392268+00:00"
-      },
-      "claim": {
-        "worker_id": "887de1d2d17647988bb582aae23a7fe6-shard-0",
-        "claimed_at": "2026-11-03T19:37:28.780686+00:00",
-        "lease_expires_at": "2026-11-04T01:37:28.780686+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30771800",
       "prepared": {
@@ -82124,5 +82126,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:47:38.042229+00:00"
+  "updated_at": "2026-11-03T19:47:48.978022+00:00"
 }
