@@ -44254,17 +44254,19 @@
       }
     },
     "1396": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33258512",
+          "target_video_id": "30763975",
+          "permanent": false,
+          "attempted_at": "2026-11-03T14:37:07.510389+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33258512",
         "display_name": "Eighth Grade 1080p CZ Dabing",
         "planned_at": "2026-11-03T14:28:25.028546+00:00"
-      },
-      "claim": {
-        "worker_id": "630911fad9814d648c4f2afffa658d8b-shard-0",
-        "claimed_at": "2026-11-03T14:28:25.239071+00:00",
-        "lease_expires_at": "2026-11-03T20:28:25.239071+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30763975",
       "prepared": {
@@ -78851,5 +78853,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T14:31:34.550957+00:00"
+  "updated_at": "2026-11-03T14:37:07.510405+00:00"
 }
