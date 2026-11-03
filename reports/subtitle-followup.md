@@ -332,5 +332,4 @@ Attach subtitles only after target processing has finished.
 | Conclave 4K CZ Titulky | 30753456 | https://sdilej.cz/30205491/conclave-2024-cztit-2160p.mkv | Complete: Czech subtitles verified |
 | A History of Violence 1080p CZ Titulky | 30753470 | https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv | Complete: Czech subtitles verified |
 | The Talented Mr. Ripley 1080p CZ Titulky | 30753582 | https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
-| Bugonia 1080p CZ Titulky | 30755358 | https://sdilej.cz/32837902/bugonia-2025-1080p-10bit-bluray-8ch-x265-hevc-psa.mkv | Extract Czech track from exact source after processing |
 | Army of Darkness 1080p CZ Titulky | 30755736 | https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
