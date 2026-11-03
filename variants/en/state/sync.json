@@ -17378,13 +17378,6 @@
     "1098": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "26884588",
-          "reason": "Request failed for https://sdilej.cz/26884588/the.wonderful.story.of.henry.sugar.2023.1080p.web.h264-ethel-cz-titulky.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-11-03T12:52:25.464855+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "26884588",
           "target_video_id": "30763706",
@@ -17397,12 +17390,19 @@
           "target_video_id": "30763706",
           "permanent": false,
           "attempted_at": "2026-11-03T14:59:04.815662+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26884588",
+          "target_video_id": "30763706",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:30:08.697403+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26884588",
         "display_name": "The Wonderful Story of Henry Sugar 1080p CZ Titulky",
-        "planned_at": "2026-11-03T14:59:03.034859+00:00"
+        "planned_at": "2026-11-03T15:30:06.904768+00:00"
       },
       "previous_target_id": "30763706",
       "prepared": {
@@ -53821,5 +53821,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:25:58.343838+00:00"
+  "updated_at": "2026-11-03T15:30:08.697422+00:00"
 }
