@@ -344,3 +344,4 @@ Attach subtitles only after target processing has finished.
 | Bullitt 720p CZ Titulky | 30763383 | https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv | Extract Czech track from exact source after processing |
 | Marathon Man 1080p CZ Titulky | 30763573 | https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv | Extract Czech track from exact source after processing |
 | High Plains Drifter 1080p CZ Titulky | 30763637 | https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv | Extract Czech track from exact source after processing |
+| 5 Centimeters Per Second (Byôsoku 5 senchimêtoru) 1080p CZ Titulky | 30768804 | https://sdilej.cz/27114239/5-centimeters-per-second-2007-1080p-cz-tit.mkv | Extract Czech track from exact source after processing |
