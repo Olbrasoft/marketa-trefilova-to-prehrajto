@@ -44134,17 +44134,19 @@
       }
     },
     "1478": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33559871",
+          "target_video_id": "30760774",
+          "permanent": false,
+          "attempted_at": "2026-11-03T14:09:24.200210+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33559871",
         "display_name": "The Animatrix 4K CZ Dabing",
         "planned_at": "2026-11-03T12:25:34.536219+00:00"
-      },
-      "claim": {
-        "worker_id": "bf8a954a8c2d48709900641b9b66b014-shard-0",
-        "claimed_at": "2026-11-03T12:25:34.740755+00:00",
-        "lease_expires_at": "2026-11-03T18:25:34.740755+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30760774",
       "prepared": {
@@ -78256,5 +78258,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T13:08:06.006211+00:00"
+  "updated_at": "2026-11-03T14:09:24.200227+00:00"
 }
