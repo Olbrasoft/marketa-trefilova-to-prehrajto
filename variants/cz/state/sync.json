@@ -38423,17 +38423,19 @@
       "attempts": []
     },
     "1250": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30648578",
+          "reason": "Request failed for https://sdilej.cz/30648578/zlate-ruce-pribeh-bena-carsona.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:28:25.490078+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30648578",
         "display_name": "Gifted Hands: The Ben Carson Story 1080p CZ Dabing",
         "planned_at": "2026-11-03T00:27:38.648534+00:00"
-      },
-      "claim": {
-        "worker_id": "82e6abb54df24b738abfc2ea2ceb0edc-shard-0",
-        "claimed_at": "2026-11-03T00:27:38.854628+00:00",
-        "lease_expires_at": "2026-11-03T06:27:38.854628+00:00",
-        "run_id": "41544835219"
       }
     },
     "29669": {
@@ -70046,5 +70048,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:27:45.237656+00:00"
+  "updated_at": "2026-11-03T00:28:25.490098+00:00"
 }
