@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T01:41:38.110164+00:00
+Poslední aktualizace (UTC): 2026-11-03T01:41:39.636101+00:00
 
 Zkontrolováno videí: 321. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 231, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 231, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 29, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -74,6 +74,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 13. Důvo
 | [Hair 1080p CZ Titulky](https://prehraj.to/hair-1080p-cz-titulky-mkv/2650ea184e92a66d) (ID 30738024) | [Sdílej 29035963](https://sdilej.cz/29035963/vlasy.mkv) | target_unavailable | 2026-11-03T01:33:31.867180+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-03T01:32:25.368090+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-03T01:33:16.433456+00:00 |
+| [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-03T01:41:39.636005+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-03T01:33:19.649555+00:00 |
 | [Looper 1080p CZ Titulky](https://prehraj.to/looper-1080p-cz-titulky-mkv/7c39ad7aa9f0ee8e) (ID 30746833) | [Sdílej 19161782](https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv) | target_unavailable | 2026-11-03T01:21:31.521814+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T01:33:12.923510+00:00 |
