@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T07:47:35.182984+00:00
+Poslední aktualizace (UTC): 2026-11-03T07:47:38.748624+00:00
 
 Zkontrolováno videí: 330. Další stránka kontroly: 0.
 
@@ -68,7 +68,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | --- | --- | --- | --- |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T06:47:08.973926+00:00 |
 | [Anora 4K CZ Titulky](https://prehraj.to/anora-4k-cz-titulky-mkv/9ff154c1166c44e3) (ID 30753012) | [Sdílej 30450437](https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T07:27:23.574725+00:00 |
-| [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T06:47:01.845057+00:00 |
+| [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T07:47:38.748519+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T07:37:49.419940+00:00 |
 | [Cure 1080p CZ Titulky](https://prehraj.to/cure-1080p-cz-titulky-mkv/8df011eb0bbe689a) (ID 30739372) | [Sdílej 34063553](https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv) | target_unavailable | 2026-11-03T06:47:16.182463+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T06:47:05.484103+00:00 |
