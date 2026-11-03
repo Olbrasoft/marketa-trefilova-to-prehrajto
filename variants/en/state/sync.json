@@ -17056,13 +17056,6 @@
           "source_id": "35401994",
           "target_video_id": "30755736",
           "permanent": false,
-          "attempted_at": "2026-11-03T15:49:28.277327+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35401994",
-          "target_video_id": "30755736",
-          "permanent": false,
           "attempted_at": "2026-11-03T16:20:46.426056+00:00"
         },
         {
@@ -17071,6 +17064,13 @@
           "target_video_id": "30755736",
           "permanent": false,
           "attempted_at": "2026-11-03T16:58:57.899020+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35401994",
+          "target_video_id": "30755736",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:37:28.866501+00:00"
         }
       ],
       "last_plan": {
@@ -17169,7 +17169,7 @@
       "last_plan": {
         "source_id": "34912169",
         "display_name": "The Rocky Horror Picture Show 1080p CZ Titulky",
-        "planned_at": "2026-11-03T16:59:00.075984+00:00"
+        "planned_at": "2026-11-03T17:37:28.179136+00:00"
       },
       "previous_target_id": "30756513",
       "prepared": {
@@ -17177,6 +17177,12 @@
         "size_bytes": 7800000000,
         "prepared_at": "2026-11-03T08:53:31.735331+00:00",
         "relay_source_id": "34912169"
+      },
+      "claim": {
+        "worker_id": "d458a58a16ee4462babc2826077b01d2-shard-0",
+        "claimed_at": "2026-11-03T17:37:28.396992+00:00",
+        "lease_expires_at": "2026-11-03T23:37:28.396992+00:00",
+        "run_id": "41643804131"
       }
     },
     "26722": {
@@ -54408,5 +54414,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:37:01.042990+00:00"
+  "updated_at": "2026-11-03T17:37:28.866519+00:00"
 }
