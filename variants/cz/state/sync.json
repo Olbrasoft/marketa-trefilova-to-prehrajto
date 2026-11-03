@@ -45049,17 +45049,19 @@
       "attempts": []
     },
     "1104": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26990219",
+          "target_video_id": "30766701",
+          "permanent": false,
+          "attempted_at": "2026-11-03T16:05:24.493785+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26990219",
         "display_name": "Spoiler Alert 720p CZ Dabing",
         "planned_at": "2026-11-03T15:52:32.992541+00:00"
-      },
-      "claim": {
-        "worker_id": "03a122f2ac644501a9da752aa59614a1-shard-0",
-        "claimed_at": "2026-11-03T15:52:33.355078+00:00",
-        "lease_expires_at": "2026-11-03T21:52:33.355078+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30766701",
       "prepared": {
@@ -79798,5 +79800,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T16:02:18.937582+00:00"
+  "updated_at": "2026-11-03T16:05:24.493798+00:00"
 }
