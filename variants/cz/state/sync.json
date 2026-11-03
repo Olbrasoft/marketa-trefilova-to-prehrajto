@@ -48955,17 +48955,19 @@
       "attempts": []
     },
     "19480": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12727400",
+          "target_video_id": "30775218",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:48:39.138272+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12727400",
         "display_name": "The Snow Walker SD CZ Dabing",
         "planned_at": "2026-11-03T23:46:45.781127+00:00"
-      },
-      "claim": {
-        "worker_id": "958c4cf0fcdd4fb0bf982d1e338ca3ca-shard-0",
-        "claimed_at": "2026-11-03T23:46:45.892383+00:00",
-        "lease_expires_at": "2026-11-04T05:46:45.892383+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775218",
       "prepared": {
@@ -84907,5 +84909,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:47:40.505183+00:00"
+  "updated_at": "2026-11-03T23:48:39.138288+00:00"
 }
