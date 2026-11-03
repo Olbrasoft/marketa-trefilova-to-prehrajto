@@ -40844,11 +40844,19 @@
       "attempts": []
     },
     "23814": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31646008",
+          "reason": "Source detail has no authenticated download link; source_id=31646008",
+          "permanent": false,
+          "attempted_at": "2026-11-03T04:11:42.042248+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31646008",
         "display_name": "Hercules (1997) [ID 23814] 1080p CZ Dabing",
-        "planned_at": "2026-11-03T04:09:12.278339+00:00"
+        "planned_at": "2026-11-03T04:09:16.657503+00:00"
       }
     },
     "1507": {
@@ -73049,5 +73057,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T04:09:13.506231+00:00"
+  "updated_at": "2026-11-03T04:11:42.042265+00:00"
 }
