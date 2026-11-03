@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T09:08:57.449111+00:00
+Poslední aktualizace (UTC): 2026-11-03T09:09:00.932476+00:00
 
 Zkontrolováno videí: 333. Další stránka kontroly: 0.
 
@@ -97,7 +97,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Rocky Horror Picture Show 1080p CZ Titulky](https://prehraj.to/the-rocky-horror-picture-show-1080p-cz-titulky-mkv/16dc8ba232615912) (ID 30756513) | [Sdílej 34912169](https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv) | target_unavailable | 2026-11-03T08:58:50.230944+00:00 |
 | [The Talented Mr. Ripley 1080p CZ Titulky](https://prehraj.to/the-talented-mr-ripley-1080p-cz-titulky-mkv/5cd3df435c4a2460) (ID 30753582) | [Sdílej 28282423](https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv) | target_unavailable | 2026-11-03T08:48:50.525929+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-03T08:48:53.975776+00:00 |
-| [Weapons 1440p CZ Titulky](https://prehraj.to/weapons-1440p-cz-titulky-mkv/c6e59521c995e5a2) (ID 30752783) | [Sdílej 31764637](https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T08:07:56.728718+00:00 |
+| [Weapons 1440p CZ Titulky](https://prehraj.to/weapons-1440p-cz-titulky-mkv/c6e59521c995e5a2) (ID 30752783) | [Sdílej 31764637](https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T09:09:00.932346+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-03T08:38:48.414443+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
