@@ -39804,17 +39804,19 @@
       }
     },
     "1378": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31089335",
+          "reason": "Request failed for https://sdilej.cz/31089335/spider-man-daleko-od-domova-2019-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:51:50.108888+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31089335",
         "display_name": "Spider-Man: Far From Home 4K CZ Dabing",
         "planned_at": "2026-11-03T01:51:03.879382+00:00"
-      },
-      "claim": {
-        "worker_id": "30b01870b83b4197830a68cd10c42f2c-shard-0",
-        "claimed_at": "2026-11-03T01:51:04.087757+00:00",
-        "lease_expires_at": "2026-11-03T07:51:04.087757+00:00",
-        "run_id": "41544835219"
       }
     },
     "1511": {
@@ -71607,5 +71609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:51:04.087786+00:00"
+  "updated_at": "2026-11-03T01:51:50.108907+00:00"
 }
