@@ -47486,17 +47486,19 @@
       }
     },
     "1275": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34647604",
+          "target_video_id": "30773940",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:09:13.512819+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34647604",
         "display_name": "Pusher 3 (Pusher III) 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:04:29.479709+00:00"
-      },
-      "claim": {
-        "worker_id": "206f903b271d4f82ae89104284a3b9ca-shard-0",
-        "claimed_at": "2026-11-03T22:04:29.695452+00:00",
-        "lease_expires_at": "2026-11-04T04:04:29.695452+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773940",
       "prepared": {
@@ -83461,5 +83463,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:08:31.532719+00:00"
+  "updated_at": "2026-11-03T22:09:13.512839+00:00"
 }
