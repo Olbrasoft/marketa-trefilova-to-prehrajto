@@ -43972,7 +43972,20 @@
       }
     },
     "1468": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33771966",
+          "reason": "Source detail has no authenticated download link; source_id=33771966",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:16:47.068256+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33771966",
+        "display_name": "Eye in the Sky 1080p CZ Dabing",
+        "planned_at": "2026-11-03T12:16:44.720231+00:00"
+      }
     },
     "33010": {
       "attempts": []
@@ -77777,5 +77790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:16:42.974467+00:00"
+  "updated_at": "2026-11-03T12:16:47.068273+00:00"
 }
