@@ -28861,13 +28861,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-03T10:29:30.337009+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-03T11:01:26.999350+00:00"
         },
         {
@@ -28876,6 +28869,13 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-03T12:08:11.696062+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:50:44.912114+00:00"
         }
       ],
       "last_plan": {
@@ -28889,12 +28889,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-02T07:58:12.679475+00:00",
         "relay_source_id": "28442451"
-      },
-      "claim": {
-        "worker_id": "c7db0e88f31c4fcf96d3f87ab03b5c89-shard-0",
-        "claimed_at": "2026-11-03T12:50:41.706044+00:00",
-        "lease_expires_at": "2026-11-03T18:50:41.706044+00:00",
-        "run_id": "41603185604"
       }
     },
     "22988": {
@@ -42414,7 +42408,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-03T12:08:14.867709+00:00"
+        "planned_at": "2026-11-03T12:50:44.037712+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42422,6 +42416,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "88bbc8dfa6f848bebd2ea12a9521a401-shard-0",
+        "claimed_at": "2026-11-03T12:50:44.414342+00:00",
+        "lease_expires_at": "2026-11-03T18:50:44.414342+00:00",
+        "run_id": "41603185604"
       }
     },
     "1395": {
@@ -44160,7 +44160,7 @@
       "last_plan": {
         "source_id": "29381556",
         "display_name": "A Dog's Purpose 1080p CZ Dabing",
-        "planned_at": "2026-11-03T12:50:41.411587+00:00"
+        "planned_at": "2026-11-03T12:50:44.199692+00:00"
       }
     },
     "1396": {
@@ -78208,5 +78208,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:50:42.545264+00:00"
+  "updated_at": "2026-11-03T12:50:44.912131+00:00"
 }
