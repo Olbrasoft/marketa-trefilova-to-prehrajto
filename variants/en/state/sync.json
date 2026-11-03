@@ -16342,17 +16342,19 @@
       }
     },
     "22485": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32101301",
+          "target_video_id": "30746417",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:04:08.883938+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32101301",
         "display_name": "Scum 1080p CZ Titulky",
         "planned_at": "2026-11-03T00:53:05.284149+00:00"
-      },
-      "claim": {
-        "worker_id": "f9571bba0930490691c348e5508b4bf4-shard-0",
-        "claimed_at": "2026-11-03T00:53:05.335634+00:00",
-        "lease_expires_at": "2026-11-03T06:53:05.335634+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746417",
       "prepared": {
@@ -49193,5 +49195,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:01:15.257446+00:00"
+  "updated_at": "2026-11-03T01:04:08.883954+00:00"
 }
