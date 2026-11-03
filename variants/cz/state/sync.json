@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-03T00:22:50.834375+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-03T00:52:59.309731+00:00"
         },
         {
@@ -12324,6 +12317,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-03T01:25:22.559574+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-03T02:00:12.556226+00:00"
         }
       ],
       "last_plan": {
@@ -12337,12 +12337,6 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-10-30T23:09:05.633345+00:00",
         "relay_source_id": "32043793"
-      },
-      "claim": {
-        "worker_id": "cdfd03a7736a4830b3d2d1ffddcca3d8-shard-0",
-        "claimed_at": "2026-11-03T02:00:10.477898+00:00",
-        "lease_expires_at": "2026-11-03T08:00:10.477898+00:00",
-        "run_id": "41544835219"
       }
     },
     "11516": {
@@ -16820,7 +16814,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-03T01:25:24.090178+00:00"
+        "planned_at": "2026-11-03T02:00:12.036188+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16828,6 +16822,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "e1bc76f045914c9f8c9cd2a77f358ddd-shard-0",
+        "claimed_at": "2026-11-03T02:00:12.385134+00:00",
+        "lease_expires_at": "2026-11-03T08:00:12.385134+00:00",
+        "run_id": "41544835219"
       }
     },
     "614": {
@@ -39868,7 +39868,7 @@
       "last_plan": {
         "source_id": "32449260",
         "display_name": "Troy 4K CZ Dabing",
-        "planned_at": "2026-11-03T02:00:10.272912+00:00"
+        "planned_at": "2026-11-03T02:00:12.174370+00:00"
       }
     },
     "1452": {
@@ -71660,5 +71660,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T02:00:10.699675+00:00"
+  "updated_at": "2026-11-03T02:00:12.556251+00:00"
 }
