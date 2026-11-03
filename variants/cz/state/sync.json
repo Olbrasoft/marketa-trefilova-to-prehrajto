@@ -38949,17 +38949,19 @@
       }
     },
     "520": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22034379",
+          "target_video_id": "30746514",
+          "permanent": false,
+          "attempted_at": "2026-11-03T01:01:31.374831+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22034379",
         "display_name": "Witchhammer (Kladivo na čarodějnice) 1080p CZ Dabing",
         "planned_at": "2026-11-03T00:58:12.139540+00:00"
-      },
-      "claim": {
-        "worker_id": "48c0e2d1558d4d67b33b514055afaad5-shard-0",
-        "claimed_at": "2026-11-03T00:58:12.337659+00:00",
-        "lease_expires_at": "2026-11-03T06:58:12.337659+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746514",
       "prepared": {
@@ -70714,5 +70716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T01:01:22.550384+00:00"
+  "updated_at": "2026-11-03T01:01:31.374848+00:00"
 }
