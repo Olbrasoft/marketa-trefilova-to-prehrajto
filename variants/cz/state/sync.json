@@ -38812,17 +38812,19 @@
       "attempts": []
     },
     "30086": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34712898",
+          "target_video_id": "30746220",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:45:31.291944+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34712898",
         "display_name": "Prep & Landing 1080p CZ Dabing",
         "planned_at": "2026-11-03T00:44:54.951598+00:00"
-      },
-      "claim": {
-        "worker_id": "cf90a8a02dfb47bd9e2e645010adb8de-shard-0",
-        "claimed_at": "2026-11-03T00:44:55.158171+00:00",
-        "lease_expires_at": "2026-11-03T06:44:55.158171+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746220",
       "prepared": {
@@ -70607,5 +70609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:45:24.947266+00:00"
+  "updated_at": "2026-11-03T00:45:31.291961+00:00"
 }
