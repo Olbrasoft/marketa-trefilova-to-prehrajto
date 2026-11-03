@@ -45823,17 +45823,19 @@
       "attempts": []
     },
     "27505": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28187937",
+          "target_video_id": "30769878",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:43:04.493164+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28187937",
         "display_name": "Batman: Year One 720p CZ Dabing",
         "planned_at": "2026-11-03T17:39:12.773584+00:00"
-      },
-      "claim": {
-        "worker_id": "372e3291e0fa41e692d613842c4d2177-shard-0",
-        "claimed_at": "2026-11-03T17:39:13.168196+00:00",
-        "lease_expires_at": "2026-11-03T23:39:13.168196+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30769878",
       "prepared": {
@@ -80943,5 +80945,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:43:00.750044+00:00"
+  "updated_at": "2026-11-03T17:43:04.493184+00:00"
 }
