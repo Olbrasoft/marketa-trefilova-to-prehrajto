@@ -342,3 +342,4 @@ Attach subtitles only after target processing has finished.
 | Burning (Beoning) (2018) 720p CZ Titulky | 30761347 | https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv | Extract Czech track from exact source after processing |
 | Bullitt 720p CZ Titulky | 30763383 | https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv | Extract Czech track from exact source after processing |
 | Marathon Man 1080p CZ Titulky | 30763573 | https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv | Extract Czech track from exact source after processing |
+| High Plains Drifter 1080p CZ Titulky | 30763637 | https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv | Extract Czech track from exact source after processing |
