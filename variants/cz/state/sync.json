@@ -46720,17 +46720,19 @@
       "attempts": []
     },
     "1281": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34842863",
+          "target_video_id": "30772452",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:32:54.636939+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34842863",
         "display_name": "My Name is Nobody (Il mio nome è Nessuno) 1080p CZ Dabing",
         "planned_at": "2026-11-03T20:28:18.570144+00:00"
-      },
-      "claim": {
-        "worker_id": "7e8df06b765a4a11aeceee2a80287405-shard-0",
-        "claimed_at": "2026-11-03T20:28:22.077434+00:00",
-        "lease_expires_at": "2026-11-04T02:28:22.077434+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30772452",
       "prepared": {
@@ -82552,5 +82554,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T20:29:37.759765+00:00"
+  "updated_at": "2026-11-03T20:32:54.636959+00:00"
 }
