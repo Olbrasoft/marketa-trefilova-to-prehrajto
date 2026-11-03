@@ -336,4 +336,5 @@ Attach subtitles only after target processing has finished.
 | Coach Carter 1080p CZ Titulky | 30756369 | https://sdilej.cz/26231457/coach-carter-2005.mkv | Complete: Czech subtitles verified |
 | The Rocky Horror Picture Show 1080p CZ Titulky | 30756513 | https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Frequency 1080p CZ Titulky | 30759792 | https://sdilej.cz/14524461/frekvence.mkv | Extract Czech track from exact source after processing |
+| Tetris 4K CZ Titulky | 30761160 | https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Mid90s 720p CZ Titulky | 30761152 | https://sdilej.cz/31920680/mid90s-2018-cz-titulky-brdrip.720p.dd5.1.x264-mg.okay-.mkv | Extract Czech track from exact source after processing |
