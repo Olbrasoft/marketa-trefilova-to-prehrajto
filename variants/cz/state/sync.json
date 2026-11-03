@@ -36970,7 +36970,7 @@
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-02T23:52:28.901365+00:00"
+        "planned_at": "2026-11-03T00:23:55.233537+00:00"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -36978,6 +36978,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
+      },
+      "claim": {
+        "worker_id": "9949d9a14b8e48819e3ff7ff9e99c4cb-shard-0",
+        "claimed_at": "2026-11-03T00:23:55.587076+00:00",
+        "lease_expires_at": "2026-11-03T06:23:55.587076+00:00",
+        "run_id": "41544835219"
       }
     },
     "35068": {
@@ -38335,17 +38341,19 @@
       "attempts": []
     },
     "21291": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25230092",
+          "target_video_id": "30745714",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:23:55.822222+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25230092",
         "display_name": "Fort Apache SD CZ Dabing",
         "planned_at": "2026-11-03T00:21:34.459464+00:00"
-      },
-      "claim": {
-        "worker_id": "5f384f4dc1614d308c0707baa0a3ff65-shard-0",
-        "claimed_at": "2026-11-03T00:21:34.799519+00:00",
-        "lease_expires_at": "2026-11-03T06:21:34.799519+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30745714",
       "prepared": {
@@ -38360,7 +38368,7 @@
       "last_plan": {
         "source_id": "34784954",
         "display_name": "The Taste of Things 1080p CZ Dabing",
-        "planned_at": "2026-11-03T00:23:51.799365+00:00"
+        "planned_at": "2026-11-03T00:23:55.372319+00:00"
       }
     },
     "17605": {
@@ -69967,5 +69975,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:23:53.570476+00:00"
+  "updated_at": "2026-11-03T00:23:55.822240+00:00"
 }
