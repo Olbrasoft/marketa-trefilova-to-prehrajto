@@ -27129,13 +27129,6 @@
           "source_id": "29719575",
           "target_video_id": "30714314",
           "permanent": false,
-          "attempted_at": "2026-11-03T14:16:18.052815+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29719575",
-          "target_video_id": "30714314",
-          "permanent": false,
           "attempted_at": "2026-11-03T14:48:05.063159+00:00"
         },
         {
@@ -27144,6 +27137,13 @@
           "target_video_id": "30714314",
           "permanent": false,
           "attempted_at": "2026-11-03T15:18:59.031169+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29719575",
+          "target_video_id": "30714314",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:51:13.765124+00:00"
         }
       ],
       "last_plan": {
@@ -27157,12 +27157,6 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-11-02T02:46:50.263035+00:00",
         "relay_source_id": "29719575"
-      },
-      "claim": {
-        "worker_id": "d4f8cba03e1a47648e5d20b20797f480-shard-0",
-        "claimed_at": "2026-11-03T15:51:10.314359+00:00",
-        "lease_expires_at": "2026-11-03T21:51:10.314359+00:00",
-        "run_id": "41643804131"
       }
     },
     "945": {
@@ -33971,7 +33965,7 @@
       "last_plan": {
         "source_id": "35087204",
         "display_name": "Darkest Hour 4K CZ Dabing",
-        "planned_at": "2026-11-03T15:19:02.340520+00:00"
+        "planned_at": "2026-11-03T15:51:13.104949+00:00"
       },
       "previous_target_id": "30738724",
       "prepared": {
@@ -33979,6 +33973,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-02T18:09:12.961107+00:00",
         "relay_source_id": "35087204"
+      },
+      "claim": {
+        "worker_id": "2d60f33ab13f47a8956833092365a315-shard-0",
+        "claimed_at": "2026-11-03T15:51:13.624936+00:00",
+        "lease_expires_at": "2026-11-03T21:51:13.624936+00:00",
+        "run_id": "41643804131"
       }
     },
     "36749": {
@@ -45013,7 +45013,7 @@
       "last_plan": {
         "source_id": "35168536",
         "display_name": "Detroit 1080p CZ Dabing",
-        "planned_at": "2026-11-03T15:51:10.077290+00:00"
+        "planned_at": "2026-11-03T15:51:13.256791+00:00"
       }
     },
     "18406": {
@@ -79722,5 +79722,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:51:10.441587+00:00"
+  "updated_at": "2026-11-03T15:51:13.765145+00:00"
 }
