@@ -46031,17 +46031,19 @@
       "attempts": []
     },
     "22098": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34700754",
+          "target_video_id": "30770261",
+          "permanent": false,
+          "attempted_at": "2026-11-03T18:03:59.219820+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34700754",
         "display_name": "The Getaway (1972) 1080p CZ Dabing",
         "planned_at": "2026-11-03T17:53:54.404266+00:00"
-      },
-      "claim": {
-        "worker_id": "e78bcb78abbc4945abe9f8d292ff42f5-shard-0",
-        "claimed_at": "2026-11-03T17:53:54.615969+00:00",
-        "lease_expires_at": "2026-11-03T23:53:54.615969+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30770261",
       "prepared": {
@@ -81153,5 +81155,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T18:03:22.206854+00:00"
+  "updated_at": "2026-11-03T18:03:59.219851+00:00"
 }
