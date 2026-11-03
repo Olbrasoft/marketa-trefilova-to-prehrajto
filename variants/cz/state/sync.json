@@ -43245,7 +43245,7 @@
       "last_plan": {
         "source_id": "34841408",
         "display_name": "The Walk 4K CZ Dabing",
-        "planned_at": "2026-11-03T16:59:44.873366+00:00"
+        "planned_at": "2026-11-03T17:38:27.517147+00:00"
       },
       "previous_target_id": "30757982",
       "prepared": {
@@ -43253,6 +43253,12 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-03T09:34:30.038588+00:00",
         "relay_source_id": "34841408"
+      },
+      "claim": {
+        "worker_id": "95dd3c3135d5420ab3c45e7279946004-shard-0",
+        "claimed_at": "2026-11-03T17:38:28.008190+00:00",
+        "lease_expires_at": "2026-11-03T23:38:28.008190+00:00",
+        "run_id": "41643804131"
       }
     },
     "1077": {
@@ -44234,13 +44240,6 @@
           "source_id": "28005884",
           "target_video_id": "30760851",
           "permanent": false,
-          "attempted_at": "2026-11-03T15:50:15.781560+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28005884",
-          "target_video_id": "30760851",
-          "permanent": false,
           "attempted_at": "2026-11-03T16:21:30.825079+00:00"
         },
         {
@@ -44249,6 +44248,13 @@
           "target_video_id": "30760851",
           "permanent": false,
           "attempted_at": "2026-11-03T16:59:43.084474+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28005884",
+          "target_video_id": "30760851",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:38:28.538925+00:00"
         }
       ],
       "last_plan": {
@@ -45797,14 +45803,25 @@
       "last_plan": {
         "source_id": "34468281",
         "display_name": "The Baader Meinhof Complex 1080p CZ Dabing",
-        "planned_at": "2026-11-03T17:38:23.552814+00:00"
+        "planned_at": "2026-11-03T17:38:27.670007+00:00"
+      },
+      "claim": {
+        "worker_id": "e39995f5c7694c618bd65de3a2db8215-shard-0",
+        "claimed_at": "2026-11-03T17:38:28.105011+00:00",
+        "lease_expires_at": "2026-11-03T23:38:28.105011+00:00",
+        "run_id": "41643804131"
       }
     },
     "18867": {
       "attempts": []
     },
     "27505": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28187937",
+        "display_name": "Batman: Year One 720p CZ Dabing",
+        "planned_at": "2026-11-03T17:38:27.751355+00:00"
+      }
     },
     "31732": {
       "attempts": []
@@ -80901,5 +80918,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:38:23.552831+00:00"
+  "updated_at": "2026-11-03T17:38:28.538944+00:00"
 }
