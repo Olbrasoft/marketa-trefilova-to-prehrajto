@@ -37989,17 +37989,19 @@
       "attempts": []
     },
     "33303": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33748730",
+          "target_video_id": "30745263",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:01:48.226024+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33748730",
         "display_name": "The Postman Always Rings Twice (1946) 1080p CZ Dabing",
         "planned_at": "2026-11-02T23:54:32.570713+00:00"
-      },
-      "claim": {
-        "worker_id": "a5ef420e46ed4842b0488493ec15f07b-shard-0",
-        "claimed_at": "2026-11-02T23:54:32.682494+00:00",
-        "lease_expires_at": "2026-11-03T05:54:32.682494+00:00",
-        "run_id": "41509256577"
       },
       "previous_target_id": "30745263",
       "prepared": {
@@ -69729,5 +69731,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-02T23:58:36.646979+00:00"
+  "updated_at": "2026-11-03T00:01:48.226073+00:00"
 }
