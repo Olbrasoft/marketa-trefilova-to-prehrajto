@@ -45654,17 +45654,19 @@
       }
     },
     "11022": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30860529",
+          "target_video_id": "30769146",
+          "permanent": false,
+          "attempted_at": "2026-11-03T17:25:33.996444+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30860529",
         "display_name": "Five Easy Pieces SD CZ Dabing",
         "planned_at": "2026-11-03T17:14:42.138239+00:00"
-      },
-      "claim": {
-        "worker_id": "c88f3853940c4cab9a1335a71bcfba14-shard-0",
-        "claimed_at": "2026-11-03T17:14:42.343932+00:00",
-        "lease_expires_at": "2026-11-03T23:14:42.343932+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30769146",
       "prepared": {
@@ -80844,5 +80846,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T17:23:09.423859+00:00"
+  "updated_at": "2026-11-03T17:25:33.996473+00:00"
 }
