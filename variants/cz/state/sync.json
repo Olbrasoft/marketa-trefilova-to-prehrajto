@@ -43852,17 +43852,19 @@
       }
     },
     "1328": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26314149",
+          "target_video_id": "30759744",
+          "permanent": false,
+          "attempted_at": "2026-11-03T12:13:14.381881+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26314149",
         "display_name": "Sing 2 4K CZ Dabing",
         "planned_at": "2026-11-03T11:16:09.710924+00:00"
-      },
-      "claim": {
-        "worker_id": "4c4255a1e77f4f48b75e7da93d0e2ffa-shard-0",
-        "claimed_at": "2026-11-03T11:16:09.909144+00:00",
-        "lease_expires_at": "2026-11-03T17:16:09.909144+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30759744",
       "prepared": {
@@ -77735,5 +77737,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T12:11:07.625675+00:00"
+  "updated_at": "2026-11-03T12:13:14.381900+00:00"
 }
