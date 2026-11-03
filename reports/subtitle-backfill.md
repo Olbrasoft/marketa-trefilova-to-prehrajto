@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T02:03:03.877393+00:00
+Poslední aktualizace (UTC): 2026-11-03T02:03:07.751127+00:00
 
 Zkontrolováno videí: 321. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 234, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 26, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 235, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_unavailable`: 25, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -83,7 +83,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 7. Důvod 
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-03T01:33:28.103479+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-03T01:33:09.306160+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | source_unavailable | 2026-11-03T01:32:21.691350+00:00 |
-| [Scum 1080p CZ Titulky](https://prehraj.to/scum-1080p-cz-titulky-mkv/2102106d4292332f) (ID 30746417) | [Sdílej 32101301](https://sdilej.cz/32101301/scum.1979.1080p.bluray.flac.x264-majo.mkv) | target_unavailable | 2026-11-03T01:01:27.236335+00:00 |
 | [Spider-Man 1080p CZ Titulky](https://prehraj.to/spider-man-1080p-cz-titulky-mkv/c795893d39e127b0) (ID 30746380) | [Sdílej 16303284](https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv) | target_unavailable | 2026-11-03T02:03:03.877293+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-03T01:32:50.171132+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-03T01:33:02.056022+00:00 |
