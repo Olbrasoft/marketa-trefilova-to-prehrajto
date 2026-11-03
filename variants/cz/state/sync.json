@@ -37177,7 +37177,7 @@
       "last_plan": {
         "source_id": "35376993",
         "display_name": "The First Day of the Rest of Your Life (Le Premier Jour du reste de ta vie) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T09:57:02.345853+00:00"
+        "planned_at": "2026-11-03T10:27:44.917466+00:00"
       },
       "previous_target_id": "30744174",
       "prepared": {
@@ -37185,6 +37185,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-02T22:56:31.304569+00:00",
         "relay_source_id": "35376993"
+      },
+      "claim": {
+        "worker_id": "edfa9c1ce6f64065a1dbc4f76af60a32-shard-0",
+        "claimed_at": "2026-11-03T10:27:45.311619+00:00",
+        "lease_expires_at": "2026-11-03T16:27:45.311619+00:00",
+        "run_id": "41603185604"
       }
     },
     "21768": {
@@ -43340,17 +43346,19 @@
       }
     },
     "11561": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32797927",
+          "target_video_id": "30758608",
+          "permanent": false,
+          "attempted_at": "2026-11-03T10:27:45.918518+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32797927",
         "display_name": "Clue 4K CZ Dabing",
         "planned_at": "2026-11-03T10:13:04.921392+00:00"
-      },
-      "claim": {
-        "worker_id": "183052e891104784a67f4af8dbd004c3-shard-0",
-        "claimed_at": "2026-11-03T10:13:06.347995+00:00",
-        "lease_expires_at": "2026-11-03T16:13:06.347995+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30758608",
       "prepared": {
@@ -43388,7 +43396,7 @@
       "last_plan": {
         "source_id": "32681445",
         "display_name": "Before the Devil Knows You're Dead SD CZ Dabing",
-        "planned_at": "2026-11-03T10:27:40.857424+00:00"
+        "planned_at": "2026-11-03T10:27:45.088306+00:00"
       }
     },
     "1441": {
@@ -77059,5 +77067,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T10:27:42.306941+00:00"
+  "updated_at": "2026-11-03T10:27:45.918535+00:00"
 }
