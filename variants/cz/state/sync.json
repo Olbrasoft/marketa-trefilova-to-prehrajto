@@ -40501,17 +40501,19 @@
       }
     },
     "1361": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26234114",
+          "target_video_id": "30750653",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:38:47.102068+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26234114",
         "display_name": "Equilibrium 1080p CZ Dabing",
         "planned_at": "2026-11-03T03:35:13.178887+00:00"
-      },
-      "claim": {
-        "worker_id": "77ab6231516a4b6fa75f232386ac84f3-shard-0",
-        "claimed_at": "2026-11-03T03:35:13.372242+00:00",
-        "lease_expires_at": "2026-11-03T09:35:13.372242+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30750653",
       "prepared": {
@@ -40538,7 +40540,18 @@
       }
     },
     "1496": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34357752",
+        "display_name": "Kingdom of Heaven 4K CZ Dabing",
+        "planned_at": "2026-11-03T03:38:40.012494+00:00"
+      },
+      "claim": {
+        "worker_id": "3888d8cdaf114964b2482908c39921b9-shard-0",
+        "claimed_at": "2026-11-03T03:38:40.222259+00:00",
+        "lease_expires_at": "2026-11-03T09:38:40.222259+00:00",
+        "run_id": "41544835219"
+      }
     },
     "1376": {
       "attempts": []
@@ -72783,5 +72796,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:38:38.221324+00:00"
+  "updated_at": "2026-11-03T03:38:47.102085+00:00"
 }
