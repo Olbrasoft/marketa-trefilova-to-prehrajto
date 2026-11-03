@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-03T19:52:37.234799+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-03T20:22:57.878156+00:00"
         },
         {
@@ -220,12 +213,19 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-03T20:59:45.419547+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:41:15.433301+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-03T20:59:32.019413+00:00"
+        "planned_at": "2026-11-03T21:41:13.058188+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "be09bd98888243328f3156143a9253b0-shard-0",
+        "claimed_at": "2026-11-03T21:41:12.953289+00:00",
+        "lease_expires_at": "2026-11-04T03:41:12.953289+00:00",
+        "run_id": "41693337041"
       }
     },
     "29922": {
@@ -47135,7 +47141,7 @@
       "last_plan": {
         "source_id": "34061209",
         "display_name": "In China They Eat Dogs 1080p CZ Dabing",
-        "planned_at": "2026-11-03T21:41:07.730160+00:00"
+        "planned_at": "2026-11-03T21:41:13.210388+00:00"
       }
     },
     "12549": {
@@ -83123,5 +83129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:41:07.730181+00:00"
+  "updated_at": "2026-11-03T21:41:15.433323+00:00"
 }
