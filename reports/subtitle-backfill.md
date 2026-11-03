@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T04:43:49.432637+00:00
+Poslední aktualizace (UTC): 2026-11-03T04:43:52.945355+00:00
 
 Zkontrolováno videí: 323. Další stránka kontroly: 0.
 
@@ -79,7 +79,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 10. Důvo
 | [Looper 1080p CZ Titulky](https://prehraj.to/looper-1080p-cz-titulky-mkv/7c39ad7aa9f0ee8e) (ID 30746833) | [Sdílej 19161782](https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv) | target_unavailable | 2026-11-03T03:34:11.819426+00:00 |
 | [Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky](https://prehraj.to/mission-impossible-rogue-nation-mission-impossible-rogue-nation-1080p-cz-titulky-mkv/3e9675d878ecb622) (ID 30749326) | [Sdílej 18594920](https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv) | target_unavailable | 2026-11-03T04:02:59.236295+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T04:34:23.232342+00:00 |
-| [One Life 1080p CZ Titulky](https://prehraj.to/one-life-1080p-cz-titulky-mkv/c2d7448541f4a3aa) (ID 30739164) | [Sdílej 28233529](https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T03:34:00.585250+00:00 |
+| [One Life 1080p CZ Titulky](https://prehraj.to/one-life-1080p-cz-titulky-mkv/c2d7448541f4a3aa) (ID 30739164) | [Sdílej 28233529](https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T04:43:52.945274+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T04:34:16.247724+00:00 |
 | [Ready Player One 1080p CZ Titulky](https://prehraj.to/ready-player-one-1080p-cz-titulky-mkv/2c55f30281f91b95) (ID 30750049) | [Sdílej 14502469](https://sdilej.cz/14502469/ready-player-one-hra-zacina-2018-m1080p-web-dl-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-03T04:23:14.907587+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-03T04:34:38.238537+00:00 |
