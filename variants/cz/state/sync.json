@@ -10829,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-03T09:27:09.566192+00:00"
+        "planned_at": "2026-11-03T09:58:08.609835+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10837,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "6c0bbd21aa6f45179c177bd26f758de1-shard-0",
+        "claimed_at": "2026-11-03T09:58:08.994614+00:00",
+        "lease_expires_at": "2026-11-03T15:58:08.994614+00:00",
+        "run_id": "41603185604"
       }
     },
     "21748": {
@@ -16341,13 +16347,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-03T08:16:10.727109+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-03T08:52:36.566600+00:00"
         },
         {
@@ -16356,6 +16355,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-03T09:27:08.247163+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:58:09.123222+00:00"
         }
       ],
       "last_plan": {
@@ -16369,12 +16375,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
-      },
-      "claim": {
-        "worker_id": "2e1e4a3b31e442eba198452468d8d7f8-shard-0",
-        "claimed_at": "2026-11-03T09:58:06.544186+00:00",
-        "lease_expires_at": "2026-11-03T15:58:06.544186+00:00",
-        "run_id": "41603185604"
       }
     },
     "12843": {
@@ -43227,7 +43227,7 @@
       "last_plan": {
         "source_id": "33159582",
         "display_name": "National Lampoon's Vacation 4K CZ Dabing",
-        "planned_at": "2026-11-03T09:58:06.344609+00:00"
+        "planned_at": "2026-11-03T09:58:08.758815+00:00"
       }
     },
     "1459": {
@@ -76736,5 +76736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:58:07.277343+00:00"
+  "updated_at": "2026-11-03T09:58:09.123239+00:00"
 }
