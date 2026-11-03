@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T13:15:24.487953+00:00
+Poslední aktualizace (UTC): 2026-11-03T13:15:27.951867+00:00
 
 Zkontrolováno videí: 338. Další stránka kontroly: 0.
 
@@ -88,7 +88,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 13. Důvo
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-03T13:07:01.068900+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-03T13:06:41.594166+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-03T13:05:52.276326+00:00 |
-| [Spider-Man 1080p CZ Titulky](https://prehraj.to/spider-man-1080p-cz-titulky-mkv/c795893d39e127b0) (ID 30746380) | [Sdílej 16303284](https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv) | target_unavailable | 2026-11-03T11:44:16.155243+00:00 |
+| [Spider-Man 1080p CZ Titulky](https://prehraj.to/spider-man-1080p-cz-titulky-mkv/c795893d39e127b0) (ID 30746380) | [Sdílej 16303284](https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv) | target_unavailable | 2026-11-03T13:15:27.951805+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-03T13:06:20.262289+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-03T13:06:33.678697+00:00 |
 | [Tetris 4K CZ Titulky](https://prehraj.to/tetris-4k-cz-titulky-mkv/58b60079ca64385b) (ID 30761160) | [Sdílej 25659411](https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv) | target_unavailable | 2026-11-03T12:54:58.377126+00:00 |
