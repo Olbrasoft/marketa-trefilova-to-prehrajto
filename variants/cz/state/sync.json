@@ -43006,17 +43006,19 @@
       }
     },
     "17820": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28312428",
+          "target_video_id": "30757731",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:23:47.529312+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28312428",
         "display_name": "Clerks II 1080p CZ Dabing",
         "planned_at": "2026-11-03T09:18:43.220978+00:00"
-      },
-      "claim": {
-        "worker_id": "3a7a33d15bec40f59fef8e599c4ea524-shard-0",
-        "claimed_at": "2026-11-03T09:18:43.430423+00:00",
-        "lease_expires_at": "2026-11-03T15:18:43.430423+00:00",
-        "run_id": "41603185604"
       },
       "previous_target_id": "30757731",
       "prepared": {
@@ -76292,5 +76294,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:18:47.155795+00:00"
+  "updated_at": "2026-11-03T09:23:47.529329+00:00"
 }
