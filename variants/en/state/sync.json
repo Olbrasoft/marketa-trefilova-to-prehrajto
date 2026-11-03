@@ -16954,20 +16954,22 @@
           "target_video_id": "30755358",
           "permanent": false,
           "attempted_at": "2026-11-03T07:33:01.081837+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "32837902",
+          "target_video_id": "30755358",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-03T08:04:04.795971+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32837902",
         "display_name": "Bugonia 1080p CZ Titulky",
-        "planned_at": "2026-11-03T07:27:52.789931+00:00"
+        "planned_at": "2026-11-03T08:04:01.552179+00:00"
       },
-      "previous_target_id": "30755358",
-      "prepared": {
-        "target_video_id": "30755358",
-        "size_bytes": 2349488636,
-        "prepared_at": "2026-11-03T07:27:56.141175+00:00",
-        "relay_source_id": "32837902"
-      }
+      "previous_target_id": "30755358"
     },
     "1249": {
       "attempts": []
@@ -51428,5 +51430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T08:01:41.363889+00:00"
+  "updated_at": "2026-11-03T08:04:04.795995+00:00"
 }
