@@ -47722,17 +47722,24 @@
           "target_video_id": "30774141",
           "permanent": false,
           "attempted_at": "2026-11-03T22:20:42.854843+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34359341",
+          "target_video_id": "30774141",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:54:11.553325+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34359341",
         "display_name": "Downton Abbey: The Grand Finale 1080p CZ Dabing",
-        "planned_at": "2026-11-03T22:15:03.877808+00:00"
+        "planned_at": "2026-11-03T22:54:10.152212+00:00"
       },
       "previous_target_id": "30774141",
       "prepared": {
         "target_video_id": "30774141",
-        "size_bytes": 3408014226,
+        "size_bytes": 3400000000,
         "prepared_at": "2026-11-03T22:15:09.759325+00:00",
         "relay_source_id": "34359341"
       }
@@ -48163,10 +48170,26 @@
       "attempts": []
     },
     "22394": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30657915",
+        "display_name": "Coming Home 1080p CZ Dabing",
+        "planned_at": "2026-11-03T22:54:10.244879+00:00"
+      },
+      "claim": {
+        "worker_id": "2edfe421c8ed4e6f820de0749181468a-shard-0",
+        "claimed_at": "2026-11-03T22:54:10.452331+00:00",
+        "lease_expires_at": "2026-11-04T04:54:10.452331+00:00",
+        "run_id": "41730144184"
+      }
     },
     "11692": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34674597",
+        "display_name": "Hope and Glory 720p CZ Dabing",
+        "planned_at": "2026-11-03T22:54:10.291121+00:00"
+      }
     },
     "30456": {
       "attempts": []
@@ -83965,5 +83988,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:54:06.327185+00:00"
+  "updated_at": "2026-11-03T22:54:11.553337+00:00"
 }
