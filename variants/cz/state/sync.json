@@ -13952,7 +13952,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-03T00:22:39.793206+00:00"
+        "planned_at": "2026-11-03T00:52:47.033088+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -13960,6 +13960,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "24f46f562f174aaca27bb64f2f4ec03d-shard-0",
+        "claimed_at": "2026-11-03T00:52:47.436564+00:00",
+        "lease_expires_at": "2026-11-03T06:52:47.436564+00:00",
+        "run_id": "41544835219"
       }
     },
     "22047": {
@@ -38837,17 +38843,19 @@
       }
     },
     "25794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26384815",
+          "target_video_id": "30746228",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:52:47.862983+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26384815",
         "display_name": "The Unknown Woman 1080p CZ Dabing",
         "planned_at": "2026-11-03T00:45:21.026211+00:00"
-      },
-      "claim": {
-        "worker_id": "9b76e43dd8e44d2e93e48ddce31f8ea3-shard-0",
-        "claimed_at": "2026-11-03T00:45:21.230971+00:00",
-        "lease_expires_at": "2026-11-03T06:45:21.230971+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30746228",
       "prepared": {
@@ -38903,7 +38911,7 @@
       "last_plan": {
         "source_id": "31652050",
         "display_name": "Ride the High Country SD CZ Dabing",
-        "planned_at": "2026-11-03T00:52:44.009038+00:00"
+        "planned_at": "2026-11-03T00:52:47.169819+00:00"
       }
     },
     "520": {
@@ -70636,5 +70644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:52:45.522857+00:00"
+  "updated_at": "2026-11-03T00:52:47.863001+00:00"
 }
