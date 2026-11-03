@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "a9142c1f7beb4cbab51d806d2448ec79-shard-0",
+        "claimed_at": "2026-11-03T19:33:54.490288+00:00",
+        "lease_expires_at": "2026-11-04T01:33:54.490288+00:00",
+        "run_id": "41693337041"
       }
     },
     "29922": {
@@ -46242,17 +46248,23 @@
           "attempted_at": "2026-11-03T18:53:10.981902+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35185749",
-        "display_name": "In the House (Dans la maison) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T18:45:03.797473+00:00"
-      },
       "previous_target_id": "30771083",
-      "prepared": {
+      "upload": {
         "target_video_id": "30771083",
-        "size_bytes": 4640249430,
-        "prepared_at": "2026-11-03T18:45:12.340333+00:00",
-        "relay_source_id": "35185749"
+        "display_name": "In the House (Dans la maison) 1080p CZ Dabing",
+        "source_id": "35185749",
+        "source_url": "https://sdilej.cz/35185749/v-dome-dans-la-maison-2012-cz-web-dl-1080p-.mp4",
+        "source_filename": "V domě - Dans la maison (2012)(CZ)[WEB-DL][1080p].mp4",
+        "size_bytes": 4600000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.98002028465271,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/in-the-house-dans-la-maison-1080p-cz-dabing-mp4/2c6732ee18875359",
+        "uploaded_at": "2026-11-03T19:33:56.191006+00:00"
       }
     },
     "21143": {
@@ -46540,7 +46552,7 @@
       "last_plan": {
         "source_id": "34192154",
         "display_name": "Song Sung Blue 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:33:50.818354+00:00"
+        "planned_at": "2026-11-03T19:33:54.747461+00:00"
       }
     },
     "18335": {
@@ -82063,5 +82075,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:33:50.818375+00:00"
+  "updated_at": "2026-11-03T19:33:56.191026+00:00"
 }
