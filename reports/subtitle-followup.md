@@ -308,8 +308,8 @@ Attach subtitles only after target processing has finished.
 | The Time Machine (1960) SD CZ Titulky | 30737947 | https://sdilej.cz/21019707/the-time-machine-1960-remastered-hevc-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Hair 1080p CZ Titulky | 30738024 | https://sdilej.cz/29035963/vlasy.mkv | Extract Czech track from exact source after processing |
 | Wallace and Gromit: Vengeance Most Fowl (Wallace & Gromit: Vengeance Most Fowl) 1080p CZ Titulky | 30738340 | https://sdilej.cz/30394661/wallace.and.gromit.vengeance.most.fowl-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
-| One Life 1080p CZ Titulky | 30739164 | https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
-| Cure 1080p CZ Titulky | 30739372 | https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv | Extract Czech track from exact source after processing |
+| One Life 1080p CZ Titulky | 30739164 | https://sdilej.cz/28233529/one.life-2023-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
+| Cure 1080p CZ Titulky | 30739372 | https://sdilej.cz/34063553/cure-1997-cz-titulky-1080p-hevc.mkv | Complete: Czech subtitles verified |
 | Waves 720p CZ Titulky | 30739690 | https://sdilej.cz/21075601/waves.2019.720p.bluray.x264-aaa-titulky-cz-sk.mkv | Complete: Czech subtitles verified |
 | And Now for Something Completely Different 1080p CZ Titulky | 30741124 | https://sdilej.cz/24008691/monty-python-a-ted-neco-uplne-jineho-cztit.-h.265-hevc-ntp-.mkv | Complete: Czech subtitles verified |
 | Wuthering Heights (1939) 1080p CZ Titulky | 30742707 | https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv | Complete: Czech subtitles verified |
@@ -333,3 +333,4 @@ Attach subtitles only after target processing has finished.
 | A History of Violence 1080p CZ Titulky | 30753470 | https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv | Complete: Czech subtitles verified |
 | The Talented Mr. Ripley 1080p CZ Titulky | 30753582 | https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
 | Army of Darkness 1080p CZ Titulky | 30755736 | https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Coach Carter 1080p CZ Titulky | 30756369 | https://sdilej.cz/26231457/coach-carter-2005.mkv | Extract Czech track from exact source after processing |
