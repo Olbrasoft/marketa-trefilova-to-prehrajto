@@ -16815,17 +16815,19 @@
       }
     },
     "1159": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28282423",
+          "target_video_id": "30753582",
+          "permanent": false,
+          "attempted_at": "2026-11-03T05:53:13.817144+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28282423",
         "display_name": "The Talented Mr. Ripley 1080p CZ Titulky",
         "planned_at": "2026-11-03T05:45:23.583491+00:00"
-      },
-      "claim": {
-        "worker_id": "fff6bcdb943b4981ba2999d652dce6f4-shard-0",
-        "claimed_at": "2026-11-03T05:45:23.613078+00:00",
-        "lease_expires_at": "2026-11-03T11:45:23.613078+00:00",
-        "run_id": "41577832824"
       },
       "previous_target_id": "30753582",
       "prepared": {
@@ -50806,5 +50808,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T05:51:31.138950+00:00"
+  "updated_at": "2026-11-03T05:53:13.817166+00:00"
 }
