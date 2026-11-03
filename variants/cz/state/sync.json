@@ -44835,17 +44835,19 @@
       }
     },
     "34880": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33699351",
+          "target_video_id": "30766155",
+          "permanent": false,
+          "attempted_at": "2026-11-03T15:41:06.640537+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33699351",
         "display_name": "The Ear 1080p CZ Dabing",
         "planned_at": "2026-11-03T15:34:23.318998+00:00"
-      },
-      "claim": {
-        "worker_id": "d4714b124a7b4359a355e0551e6b2db3-shard-0",
-        "claimed_at": "2026-11-03T15:34:23.534565+00:00",
-        "lease_expires_at": "2026-11-03T21:34:23.534565+00:00",
-        "run_id": "41643804131"
       },
       "previous_target_id": "30766155",
       "prepared": {
@@ -79603,5 +79605,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T15:37:15.204899+00:00"
+  "updated_at": "2026-11-03T15:41:06.640553+00:00"
 }
