@@ -18304,17 +18304,19 @@
       "attempts": []
     },
     "12947": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33306409",
+          "target_video_id": "30775107",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:41:42.545106+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33306409",
         "display_name": "Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky",
         "planned_at": "2026-11-03T23:37:54.106254+00:00"
-      },
-      "claim": {
-        "worker_id": "402b5d828aff462ab56e4d8b8073e0e2-shard-0",
-        "claimed_at": "2026-11-03T23:37:54.142559+00:00",
-        "lease_expires_at": "2026-11-04T05:37:54.142559+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775107",
       "prepared": {
@@ -56165,5 +56167,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:37:57.477528+00:00"
+  "updated_at": "2026-11-03T23:41:42.545121+00:00"
 }
