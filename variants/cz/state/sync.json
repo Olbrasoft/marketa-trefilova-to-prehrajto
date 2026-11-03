@@ -46937,17 +46937,19 @@
       "attempts": []
     },
     "17685": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31423321",
+          "target_video_id": "30773034",
+          "permanent": false,
+          "attempted_at": "2026-11-03T21:15:31.413458+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31423321",
         "display_name": "Pumping Iron 1080p CZ Dabing",
         "planned_at": "2026-11-03T21:05:43.942585+00:00"
-      },
-      "claim": {
-        "worker_id": "6f9f5c79df804764a44bcf96209284a4-shard-0",
-        "claimed_at": "2026-11-03T21:05:44.168358+00:00",
-        "lease_expires_at": "2026-11-04T03:05:44.168358+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30773034",
       "prepared": {
@@ -82770,5 +82772,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:13:04.903306+00:00"
+  "updated_at": "2026-11-03T21:15:31.413490+00:00"
 }
