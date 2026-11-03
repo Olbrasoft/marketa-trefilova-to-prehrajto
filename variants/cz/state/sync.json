@@ -40319,13 +40319,6 @@
           "source_id": "32817568",
           "target_video_id": "30749191",
           "permanent": false,
-          "attempted_at": "2026-11-03T04:03:32.336257+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32817568",
-          "target_video_id": "30749191",
-          "permanent": false,
           "attempted_at": "2026-11-03T05:06:42.890952+00:00"
         },
         {
@@ -40334,12 +40327,19 @@
           "target_video_id": "30749191",
           "permanent": false,
           "attempted_at": "2026-11-03T05:39:08.767503+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32817568",
+          "target_video_id": "30749191",
+          "permanent": false,
+          "attempted_at": "2026-11-03T06:11:33.428165+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32817568",
         "display_name": "Face/Off 4K CZ Dabing",
-        "planned_at": "2026-11-03T05:39:05.017639+00:00"
+        "planned_at": "2026-11-03T06:11:32.083295+00:00"
       },
       "previous_target_id": "30749191",
       "prepared": {
@@ -41337,14 +41337,25 @@
       "last_plan": {
         "source_id": "13388400",
         "display_name": "Chef 1080p CZ Dabing",
-        "planned_at": "2026-11-03T06:11:28.087356+00:00"
+        "planned_at": "2026-11-03T06:11:32.166494+00:00"
+      },
+      "claim": {
+        "worker_id": "f7b02bc954a44bb58b73030e5cce5c8c-shard-0",
+        "claimed_at": "2026-11-03T06:11:32.372261+00:00",
+        "lease_expires_at": "2026-11-03T12:11:32.372261+00:00",
+        "run_id": "41577832824"
       }
     },
     "19657": {
       "attempts": []
     },
     "23179": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33730694",
+        "display_name": "Cape Fear (1991) 1080p CZ Dabing",
+        "planned_at": "2026-11-03T06:11:32.211176+00:00"
+      }
     },
     "1370": {
       "attempts": []
@@ -73991,5 +74002,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T06:11:29.327886+00:00"
+  "updated_at": "2026-11-03T06:11:33.428187+00:00"
 }
