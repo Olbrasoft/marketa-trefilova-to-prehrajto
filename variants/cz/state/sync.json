@@ -40629,17 +40629,19 @@
       }
     },
     "1293": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30692767",
+          "target_video_id": "30751236",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:57:08.398990+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30692767",
         "display_name": "Alita: Battle Angel 4K CZ Dabing",
         "planned_at": "2026-11-03T03:48:02.739903+00:00"
-      },
-      "claim": {
-        "worker_id": "6858dd968c914b6fb50a2dfd75281260-shard-0",
-        "claimed_at": "2026-11-03T03:48:02.955635+00:00",
-        "lease_expires_at": "2026-11-03T09:48:02.955635+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30751236",
       "prepared": {
@@ -40719,7 +40721,18 @@
       }
     },
     "1290": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29847300",
+        "display_name": "True Lies 4K CZ Dabing",
+        "planned_at": "2026-11-03T03:54:55.441486+00:00"
+      },
+      "claim": {
+        "worker_id": "820c10a2ad44420da82a522cc6555fb6-shard-0",
+        "claimed_at": "2026-11-03T03:54:55.658080+00:00",
+        "lease_expires_at": "2026-11-03T09:54:55.658080+00:00",
+        "run_id": "41544835219"
+      }
     },
     "1344": {
       "attempts": []
@@ -72934,5 +72947,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:54:53.728314+00:00"
+  "updated_at": "2026-11-03T03:57:08.399006+00:00"
 }
