@@ -42460,13 +42460,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-03T21:07:02.603906+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-03T21:50:02.615268+00:00"
         },
         {
@@ -42475,12 +42468,19 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-03T22:21:17.391309+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:54:35.430004+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-03T22:21:15.145231+00:00"
+        "planned_at": "2026-11-03T22:54:33.936867+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -48197,7 +48197,13 @@
       "last_plan": {
         "source_id": "34674597",
         "display_name": "Hope and Glory 720p CZ Dabing",
-        "planned_at": "2026-11-03T22:54:30.515389+00:00"
+        "planned_at": "2026-11-03T22:54:34.023283+00:00"
+      },
+      "claim": {
+        "worker_id": "04d3acb7aaf94370ac8277b94189a600-shard-0",
+        "claimed_at": "2026-11-03T22:54:34.223088+00:00",
+        "lease_expires_at": "2026-11-04T04:54:34.223088+00:00",
+        "run_id": "41730144184"
       }
     },
     "30456": {
@@ -48213,7 +48219,12 @@
       "attempts": []
     },
     "1274": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "22031073",
+        "display_name": "Watch Out, We're Mad! (...altrimenti ci arrabbiamo!) 1080p CZ Dabing",
+        "planned_at": "2026-11-03T22:54:34.067655+00:00"
+      }
     },
     "1454": {
       "attempts": []
@@ -83997,5 +84008,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:54:31.574692+00:00"
+  "updated_at": "2026-11-03T22:54:35.430018+00:00"
 }
