@@ -40648,11 +40648,19 @@
       }
     },
     "1520": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31309992",
+          "reason": "Request failed for https://sdilej.cz/31309992/rango-2011-cz-sk.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-03T03:51:55.730881+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31309992",
         "display_name": "Rango 1080p CZ Dabing",
-        "planned_at": "2026-11-03T03:49:34.677247+00:00"
+        "planned_at": "2026-11-03T03:51:09.612495+00:00"
       }
     },
     "12310": {
@@ -72880,5 +72888,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:51:08.126937+00:00"
+  "updated_at": "2026-11-03T03:51:55.730901+00:00"
 }
