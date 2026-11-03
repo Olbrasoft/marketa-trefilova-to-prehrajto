@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-03T10:15:01.180348+00:00
+Poslední aktualizace (UTC): 2026-11-03T10:15:04.882345+00:00
 
 Zkontrolováno videí: 333. Další stránka kontroly: 0.
 
@@ -76,7 +76,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 31. Důvod
 | [Furiosa: A Mad Max Saga 4K CZ Titulky](https://prehraj.to/furiosa-a-mad-max-saga-4k-cz-titulky-mkv/46e117960f31a77b) (ID 30752813) | [Sdílej 32911115](https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv) | target_unavailable | 2026-11-03T09:22:31.506403+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-03T10:13:54.589142+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-03T10:14:46.188269+00:00 |
-| [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-03T08:39:52.778655+00:00 |
+| [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-03T10:15:04.882254+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-03T10:14:49.340357+00:00 |
 | [Looper 1080p CZ Titulky](https://prehraj.to/looper-1080p-cz-titulky-mkv/7c39ad7aa9f0ee8e) (ID 30746833) | [Sdílej 19161782](https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv) | target_unavailable | 2026-11-03T08:49:18.241761+00:00 |
 | [Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky](https://prehraj.to/mission-impossible-rogue-nation-mission-impossible-rogue-nation-1080p-cz-titulky-mkv/3e9675d878ecb622) (ID 30749326) | [Sdílej 18594920](https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv) | target_unavailable | 2026-11-03T09:08:56.808595+00:00 |
