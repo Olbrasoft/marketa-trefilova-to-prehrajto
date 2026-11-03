@@ -47722,17 +47722,19 @@
       }
     },
     "1423": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10403819",
+          "target_video_id": "30774278",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:23:59.592703+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10403819",
         "display_name": "Brigsby Bear 1080p CZ Dabing",
         "planned_at": "2026-11-03T22:21:34.934439+00:00"
-      },
-      "claim": {
-        "worker_id": "9fefcb35b159457a8d58372798ed3950-shard-0",
-        "claimed_at": "2026-11-03T22:21:41.532569+00:00",
-        "lease_expires_at": "2026-11-04T04:21:41.532569+00:00",
-        "run_id": "41693337041"
       },
       "previous_target_id": "30774278",
       "prepared": {
@@ -83691,5 +83693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:22:56.097895+00:00"
+  "updated_at": "2026-11-03T22:23:59.592724+00:00"
 }
