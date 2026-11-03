@@ -352,3 +352,4 @@ Attach subtitles only after target processing has finished.
 | Tesis (Thesis) 720p CZ Titulky | 30772601 | https://sdilej.cz/34938075/1996-diplomova-prace-thriller-drama-horor-mysteriozni-74-ana-torrent-cz.-tit..mkv | Extract Czech track from exact source after processing |
 | La Belle Noiseuse SD CZ Titulky | 30773633 | https://sdilej.cz/11485764/krasna-hasterilka-la-belle-noiseuse-1991-titulky.cz.mkv | Complete: Czech subtitles verified |
 | Contempt 720p CZ Titulky | 30773730 | https://sdilej.cz/29423074/pohrdani-1963-le-mepris-brigitte-bardot-fra.-cz-eng-ttl..mkv | Extract Czech track from exact source after processing |
+| Yellow Submarine 1080p CZ Titulky | 30774956 | https://sdilej.cz/33236644/the-beatles-yellow-submarine-1968-fhd-en-cz-sub.mkv | Extract Czech track from exact source after processing |
