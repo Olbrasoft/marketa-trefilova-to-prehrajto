@@ -2007,13 +2007,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-03T20:51:22.924149+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-03T21:27:08.304309+00:00"
         },
         {
@@ -2022,6 +2015,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-03T21:58:23.185866+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-03T22:38:53.884728+00:00"
         }
       ],
       "last_plan": {
@@ -11491,7 +11491,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-03T21:58:26.174847+00:00"
+        "planned_at": "2026-11-03T22:38:53.106015+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -11499,6 +11499,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "4a98e4bc499c44508aeb7baac243782f-shard-0",
+        "claimed_at": "2026-11-03T22:38:53.185528+00:00",
+        "lease_expires_at": "2026-11-04T04:38:53.185528+00:00",
+        "run_id": "41730144184"
       }
     },
     "834": {
@@ -55845,5 +55851,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T22:38:47.601936+00:00"
+  "updated_at": "2026-11-03T22:38:53.884741+00:00"
 }
