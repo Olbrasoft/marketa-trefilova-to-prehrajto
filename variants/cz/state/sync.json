@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-03T18:38:13.326665+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-03T19:20:49.546602+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-03T19:52:55.423387+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-03T20:24:44.287044+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "fd63c7426be14941922e7884a305e724-shard-0",
-        "claimed_at": "2026-11-03T20:24:01.577778+00:00",
-        "lease_expires_at": "2026-11-04T02:24:01.577778+00:00",
-        "run_id": "41693337041"
       }
     },
     "54": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-03T19:52:54.617577+00:00"
+        "planned_at": "2026-11-03T20:24:44.082746+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -46697,14 +46691,19 @@
       "last_plan": {
         "source_id": "35148593",
         "display_name": "Gift of the Night Fury (Dragons: Gift of the Night Fury) 1080p CZ Dabing",
-        "planned_at": "2026-11-03T20:23:48.691113+00:00"
+        "planned_at": "2026-11-03T20:24:44.386529+00:00"
       }
     },
     "27915": {
       "attempts": []
     },
     "1281": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34842863",
+        "display_name": "My Name is Nobody (Il mio nome è Nessuno) 1080p CZ Dabing",
+        "planned_at": "2026-11-03T20:24:44.467942+00:00"
+      }
     },
     "11131": {
       "attempts": []
@@ -82482,5 +82481,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T20:24:01.577806+00:00"
+  "updated_at": "2026-11-03T20:24:44.467959+00:00"
 }
