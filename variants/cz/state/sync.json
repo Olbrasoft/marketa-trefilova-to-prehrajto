@@ -27195,13 +27195,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-03T08:20:37.720570+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-03T08:53:31.682781+00:00"
         },
         {
@@ -27210,6 +27203,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-03T09:28:04.585820+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-03T09:58:44.189500+00:00"
         }
       ],
       "last_plan": {
@@ -27223,12 +27223,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
-      },
-      "claim": {
-        "worker_id": "e6c27f90407b43baaac8315e3eb284b4-shard-0",
-        "claimed_at": "2026-11-03T09:58:41.985685+00:00",
-        "lease_expires_at": "2026-11-03T15:58:41.985685+00:00",
-        "run_id": "41603185604"
       }
     },
     "12333": {
@@ -28773,7 +28767,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-03T09:28:06.001341+00:00"
+        "planned_at": "2026-11-03T09:58:43.715838+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28781,6 +28775,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "c947a2de9276417dbaedbf8b063229f6-shard-0",
+        "claimed_at": "2026-11-03T09:58:44.045172+00:00",
+        "lease_expires_at": "2026-11-03T15:58:44.045172+00:00",
+        "run_id": "41603185604"
       }
     },
     "23584": {
@@ -43227,7 +43227,7 @@
       "last_plan": {
         "source_id": "33159582",
         "display_name": "National Lampoon's Vacation 4K CZ Dabing",
-        "planned_at": "2026-11-03T09:58:41.785565+00:00"
+        "planned_at": "2026-11-03T09:58:43.859306+00:00"
       }
     },
     "1459": {
@@ -76736,5 +76736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:58:42.293760+00:00"
+  "updated_at": "2026-11-03T09:58:44.189518+00:00"
 }
