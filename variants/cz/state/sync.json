@@ -35440,7 +35440,7 @@
       "last_plan": {
         "source_id": "35001441",
         "display_name": "The Sheep Detectives 4K CZ Dabing",
-        "planned_at": "2026-11-02T23:42:23.517929+00:00"
+        "planned_at": "2026-11-03T00:21:15.686048+00:00"
       },
       "previous_target_id": "30741679",
       "prepared": {
@@ -35448,6 +35448,12 @@
         "size_bytes": 13300000000,
         "prepared_at": "2026-11-02T20:47:14.278455+00:00",
         "relay_source_id": "35001441"
+      },
+      "claim": {
+        "worker_id": "9424ac52afd64e2688e84f77cabab370-shard-0",
+        "claimed_at": "2026-11-03T00:21:16.005361+00:00",
+        "lease_expires_at": "2026-11-03T06:21:16.005361+00:00",
+        "run_id": "41544835219"
       }
     },
     "33118": {
@@ -37871,17 +37877,23 @@
           "attempted_at": "2026-11-02T23:42:18.514959+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "18211530",
-        "display_name": "Schumacher 1080p CZ Dabing",
-        "planned_at": "2026-11-03T00:21:14.066497+00:00"
-      },
       "previous_target_id": "30744941",
-      "prepared": {
+      "upload": {
         "target_video_id": "30744941",
-        "size_bytes": 2390146254,
-        "prepared_at": "2026-11-02T23:38:36.962575+00:00",
-        "relay_source_id": "18211530"
+        "display_name": "Schumacher 1080p CZ Dabing",
+        "source_id": "18211530",
+        "source_url": "https://sdilej.cz/18211530/schumacher-2021-cz-dabing.avi",
+        "source_filename": "Schumacher 2021 CZ DABING.avi",
+        "size_bytes": 2400000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9335923194885254,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/schumacher-1080p-cz-dabing-avi/019a79ada10311b9",
+        "uploaded_at": "2026-11-03T00:21:16.622890+00:00"
       }
     },
     "35602": {
@@ -38302,7 +38314,7 @@
       "last_plan": {
         "source_id": "25230092",
         "display_name": "Fort Apache SD CZ Dabing",
-        "planned_at": "2026-11-03T00:21:14.199847+00:00"
+        "planned_at": "2026-11-03T00:21:15.826038+00:00"
       }
     },
     "35778": {
@@ -69917,5 +69929,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:21:14.199863+00:00"
+  "updated_at": "2026-11-03T00:21:16.622907+00:00"
 }
