@@ -340,3 +340,4 @@ Attach subtitles only after target processing has finished.
 | The Wailing (Gokseong) 1080p CZ Titulky | 30761483 | https://sdilej.cz/33807503/kvileni-2016-1080p-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Mid90s 720p CZ Titulky | 30761152 | https://sdilej.cz/31920680/mid90s-2018-cz-titulky-brdrip.720p.dd5.1.x264-mg.okay-.mkv | Complete: Czech subtitles verified |
 | Burning (Beoning) (2018) 720p CZ Titulky | 30761347 | https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv | Extract Czech track from exact source after processing |
+| Bullitt 720p CZ Titulky | 30763383 | https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv | Extract Czech track from exact source after processing |
