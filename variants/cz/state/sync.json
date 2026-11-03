@@ -38516,17 +38516,19 @@
       "attempts": []
     },
     "34151": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30407046",
+          "target_video_id": "30745890",
+          "permanent": false,
+          "attempted_at": "2026-11-03T00:41:02.001103+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30407046",
         "display_name": "La Reine Margot 1080p CZ Dabing",
         "planned_at": "2026-11-03T00:28:27.229323+00:00"
-      },
-      "claim": {
-        "worker_id": "935f7fdbc2734e71b24a03e309b2312f-shard-0",
-        "claimed_at": "2026-11-03T00:28:27.429436+00:00",
-        "lease_expires_at": "2026-11-03T06:28:27.429436+00:00",
-        "run_id": "41544835219"
       },
       "previous_target_id": "30745890",
       "prepared": {
@@ -70482,5 +70484,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:40:56.953086+00:00"
+  "updated_at": "2026-11-03T00:41:02.001120+00:00"
 }
