@@ -48905,17 +48905,19 @@
       "attempts": []
     },
     "879": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32712192",
+          "target_video_id": "30775177",
+          "permanent": false,
+          "attempted_at": "2026-11-03T23:47:34.772092+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32712192",
         "display_name": "Milli Vanilli 1080p CZ Dabing",
         "planned_at": "2026-11-03T23:43:26.066509+00:00"
-      },
-      "claim": {
-        "worker_id": "d926810637e04fee9706a2d9cb67be67-shard-0",
-        "claimed_at": "2026-11-03T23:43:26.187048+00:00",
-        "lease_expires_at": "2026-11-04T05:43:26.187048+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775177",
       "prepared": {
@@ -84887,5 +84889,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:46:49.387619+00:00"
+  "updated_at": "2026-11-03T23:47:34.772110+00:00"
 }
