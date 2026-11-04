@@ -37181,13 +37181,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-03T23:12:52.288926+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-03T23:43:12.857195+00:00"
         },
         {
@@ -37196,12 +37189,19 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-04T00:15:05.426930+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:49:32.093916+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35376993",
         "display_name": "The First Day of the Rest of Your Life (Le Premier Jour du reste de ta vie) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T00:15:02.592829+00:00"
+        "planned_at": "2026-11-04T00:49:30.733955+00:00"
       },
       "previous_target_id": "30744174",
       "prepared": {
@@ -49946,11 +49946,22 @@
       "last_plan": {
         "source_id": "32030746",
         "display_name": "Mission: Impossible 4K CZ Dabing",
-        "planned_at": "2026-11-04T00:49:25.718686+00:00"
+        "planned_at": "2026-11-04T00:49:30.825364+00:00"
+      },
+      "claim": {
+        "worker_id": "811a0de49e1f42b882f6de08514b970b-shard-0",
+        "claimed_at": "2026-11-04T00:49:31.039643+00:00",
+        "lease_expires_at": "2026-11-04T06:49:31.039643+00:00",
+        "run_id": "41730144184"
       }
     },
     "1708": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32921002",
+        "display_name": "American Hustle 4K CZ Dabing",
+        "planned_at": "2026-11-04T00:49:30.873662+00:00"
+      }
     },
     "1780": {
       "attempts": []
@@ -85929,5 +85940,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:49:26.854707+00:00"
+  "updated_at": "2026-11-04T00:49:32.093937+00:00"
 }
