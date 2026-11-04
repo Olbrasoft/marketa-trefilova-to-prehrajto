@@ -377,3 +377,4 @@ Attach subtitles only after target processing has finished.
 | El Camino: A Breaking Bad Movie 1080p CZ Titulky | 30784985 | https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Alita: Battle Angel 4K CZ Titulky | 30785611 | https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv | Extract Czech track from exact source after processing |
 | Identity 1080p CZ Titulky | 30786647 | https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv | Extract Czech track from exact source after processing |
+| The Lincoln Lawyer 1080p CZ Titulky | 30787804 | https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
