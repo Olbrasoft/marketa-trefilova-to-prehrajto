@@ -57401,17 +57401,19 @@
       }
     },
     "23189": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34658360",
+          "target_video_id": "30788011",
+          "permanent": false,
+          "attempted_at": "2026-11-04T15:06:24.251198+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34658360",
         "display_name": "Defending Your Life 1080p CZ Dabing",
         "planned_at": "2026-11-04T14:40:48.736343+00:00"
-      },
-      "claim": {
-        "worker_id": "7fe5a72f77e94717a49fd9fb967bd1cc-shard-0",
-        "claimed_at": "2026-11-04T14:40:48.969048+00:00",
-        "lease_expires_at": "2026-11-04T20:40:48.969048+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30788011",
       "prepared": {
@@ -96344,5 +96346,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T15:04:39.266189+00:00"
+  "updated_at": "2026-11-04T15:06:24.251237+00:00"
 }
