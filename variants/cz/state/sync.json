@@ -52405,17 +52405,19 @@
       }
     },
     "19445": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34158257",
+          "target_video_id": "30779675",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:10:05.497812+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34158257",
         "display_name": "Men of Honor 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:07:01.085677+00:00"
-      },
-      "claim": {
-        "worker_id": "dd77dfdd684445c0bf47fe68d09e3ef1-shard-0",
-        "claimed_at": "2026-11-04T05:07:01.211962+00:00",
-        "lease_expires_at": "2026-11-04T11:07:01.211962+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779675",
       "prepared": {
@@ -89239,5 +89241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:08:20.213417+00:00"
+  "updated_at": "2026-11-04T05:10:05.497832+00:00"
 }
