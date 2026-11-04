@@ -57843,17 +57843,19 @@
       "attempts": []
     },
     "19135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35159894",
+          "target_video_id": "30789647",
+          "permanent": false,
+          "attempted_at": "2026-11-04T16:30:45.861635+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35159894",
         "display_name": "M. and Mme Adelman (Mr & Mme Adelman) SD CZ Dabing",
         "planned_at": "2026-11-04T16:25:12.539225+00:00"
-      },
-      "claim": {
-        "worker_id": "11373328d02c4796b79e692c6acfe8ec-shard-0",
-        "claimed_at": "2026-11-04T16:25:12.770194+00:00",
-        "lease_expires_at": "2026-11-04T22:25:12.770194+00:00",
-        "run_id": "41857105355"
       },
       "previous_target_id": "30789647",
       "prepared": {
@@ -97180,5 +97182,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T16:28:55.890595+00:00"
+  "updated_at": "2026-11-04T16:30:45.861661+00:00"
 }
