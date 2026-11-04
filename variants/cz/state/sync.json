@@ -55811,17 +55811,19 @@
       }
     },
     "20351": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7328376",
+          "target_video_id": "30785105",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:05:37.647917+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7328376",
         "display_name": "Justice League: War 720p CZ Dabing",
         "planned_at": "2026-11-04T12:03:21.182524+00:00"
-      },
-      "claim": {
-        "worker_id": "8892db48e6ab4a1a94776fef7dd57e60-shard-0",
-        "claimed_at": "2026-11-04T12:03:21.418387+00:00",
-        "lease_expires_at": "2026-11-04T18:03:21.418387+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785105",
       "prepared": {
@@ -94058,5 +94060,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:03:25.302102+00:00"
+  "updated_at": "2026-11-04T12:05:37.647938+00:00"
 }
