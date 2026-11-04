@@ -35910,13 +35910,6 @@
           "source_id": "11952213",
           "target_video_id": "30742444",
           "permanent": false,
-          "attempted_at": "2026-11-04T16:56:32.651541+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11952213",
-          "target_video_id": "30742444",
-          "permanent": false,
           "attempted_at": "2026-11-04T17:30:53.118614+00:00"
         },
         {
@@ -35925,6 +35918,13 @@
           "target_video_id": "30742444",
           "permanent": false,
           "attempted_at": "2026-11-04T18:10:22.598026+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11952213",
+          "target_video_id": "30742444",
+          "permanent": false,
+          "attempted_at": "2026-11-04T22:30:33.322276+00:00"
         }
       ],
       "last_plan": {
@@ -35938,12 +35938,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T21:13:53.287139+00:00",
         "relay_source_id": "11952213"
-      },
-      "claim": {
-        "worker_id": "240ecf3b56304477a3dcaf60e86eada4-shard-0",
-        "claimed_at": "2026-11-04T22:30:31.163664+00:00",
-        "lease_expires_at": "2026-11-05T04:30:31.163664+00:00",
-        "run_id": "41924666202"
       }
     },
     "10749": {
@@ -42492,7 +42486,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-04T18:10:25.882473+00:00"
+        "planned_at": "2026-11-04T22:30:32.809559+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42500,6 +42494,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "43c4aff16e4941a288daaa11d71fce2e-shard-0",
+        "claimed_at": "2026-11-04T22:30:33.177043+00:00",
+        "lease_expires_at": "2026-11-05T04:30:33.177043+00:00",
+        "run_id": "41924666202"
       }
     },
     "1395": {
@@ -58533,7 +58533,7 @@
       "last_plan": {
         "source_id": "27053108",
         "display_name": "The Dark House (Dom zły) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T22:30:30.952436+00:00"
+        "planned_at": "2026-11-04T22:30:32.973604+00:00"
       }
     },
     "23813": {
@@ -99311,5 +99311,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T22:30:31.305574+00:00"
+  "updated_at": "2026-11-04T22:30:33.322315+00:00"
 }
