@@ -19385,17 +19385,19 @@
       "attempts": []
     },
     "1332": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673696",
+          "target_video_id": "30782648",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:06:36.767142+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673696",
         "display_name": "No Time to Die 4K CZ Titulky",
         "planned_at": "2026-11-04T08:52:52.923437+00:00"
-      },
-      "claim": {
-        "worker_id": "8594aaa7fb6a4d238d286394e7142f70-shard-0",
-        "claimed_at": "2026-11-04T08:52:52.964688+00:00",
-        "lease_expires_at": "2026-11-04T14:52:52.964688+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30782648",
       "prepared": {
@@ -59172,5 +59174,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:03:43.211969+00:00"
+  "updated_at": "2026-11-04T09:06:36.767163+00:00"
 }
