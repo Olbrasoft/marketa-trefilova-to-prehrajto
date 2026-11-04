@@ -57934,11 +57934,19 @@
       "attempts": []
     },
     "11453": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33743749",
+          "reason": "Request failed for https://sdilej.cz/33743749/project-a-1983-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-04T16:35:23.719800+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33743749",
         "display_name": "Project A (A計劃) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T16:35:17.738697+00:00"
+        "planned_at": "2026-11-04T16:35:22.689099+00:00"
       }
     },
     "13949": {
@@ -97215,5 +97223,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T16:35:17.738709+00:00"
+  "updated_at": "2026-11-04T16:35:23.719816+00:00"
 }
