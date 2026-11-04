@@ -17747,7 +17747,7 @@
       "last_plan": {
         "source_id": "27114239",
         "display_name": "5 Centimeters Per Second (Byôsoku 5 senchimêtoru) 1080p CZ Titulky",
-        "planned_at": "2026-11-04T00:14:24.044077+00:00"
+        "planned_at": "2026-11-04T00:48:39.515640+00:00"
       },
       "previous_target_id": "30768804",
       "prepared": {
@@ -17755,6 +17755,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-03T17:04:05.999058+00:00",
         "relay_source_id": "27114239"
+      },
+      "claim": {
+        "worker_id": "30a38f59bff545248517cec83b5f9911-shard-0",
+        "claimed_at": "2026-11-04T00:48:39.602183+00:00",
+        "lease_expires_at": "2026-11-04T06:48:39.602183+00:00",
+        "run_id": "41730144184"
       }
     },
     "22711": {
@@ -17984,13 +17990,6 @@
           "source_id": "29236159",
           "target_video_id": "30771978",
           "permanent": false,
-          "attempted_at": "2026-11-03T23:11:30.215468+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29236159",
-          "target_video_id": "30771978",
-          "permanent": false,
           "attempted_at": "2026-11-03T23:42:25.471768+00:00"
         },
         {
@@ -17999,6 +17998,13 @@
           "target_video_id": "30771978",
           "permanent": false,
           "attempted_at": "2026-11-04T00:14:23.876192+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29236159",
+          "target_video_id": "30771978",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:48:39.885830+00:00"
         }
       ],
       "last_plan": {
@@ -18012,12 +18018,6 @@
         "size_bytes": 10200000000,
         "prepared_at": "2026-11-03T19:59:17.338855+00:00",
         "relay_source_id": "29236159"
-      },
-      "claim": {
-        "worker_id": "971cc91c363b443089e18c9d41907698-shard-0",
-        "claimed_at": "2026-11-04T00:48:37.950291+00:00",
-        "lease_expires_at": "2026-11-04T06:48:37.950291+00:00",
-        "run_id": "41730144184"
       }
     },
     "24642": {
@@ -56475,5 +56475,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:48:38.023965+00:00"
+  "updated_at": "2026-11-04T00:48:39.885849+00:00"
 }
