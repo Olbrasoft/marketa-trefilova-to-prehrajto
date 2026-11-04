@@ -52834,17 +52834,19 @@
       }
     },
     "15250": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11680626",
+          "target_video_id": "30780303",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:51:26.082580+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11680626",
         "display_name": "Only Lovers Left Alive SD CZ Dabing",
         "planned_at": "2026-11-04T05:49:16.130162+00:00"
-      },
-      "claim": {
-        "worker_id": "46eabacb02ed4a8ba5b44fca434bf15d-shard-0",
-        "claimed_at": "2026-11-04T05:49:16.241917+00:00",
-        "lease_expires_at": "2026-11-04T11:49:16.241917+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780303",
       "prepared": {
@@ -89866,5 +89868,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:50:38.986720+00:00"
+  "updated_at": "2026-11-04T05:51:26.082596+00:00"
 }
