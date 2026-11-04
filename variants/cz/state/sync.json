@@ -52055,17 +52055,19 @@
       "attempts": []
     },
     "31554": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6077612",
+          "target_video_id": "30779358",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:48:40.494347+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6077612",
         "display_name": "Chasing Amy SD CZ Dabing",
         "planned_at": "2026-11-04T04:45:50.209845+00:00"
-      },
-      "claim": {
-        "worker_id": "8bd1ba1f60024cb4a58867d3c86b34da-shard-0",
-        "claimed_at": "2026-11-04T04:45:50.386377+00:00",
-        "lease_expires_at": "2026-11-04T10:45:50.386377+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779358",
       "prepared": {
@@ -88931,5 +88933,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:48:07.711287+00:00"
+  "updated_at": "2026-11-04T04:48:40.494360+00:00"
 }
