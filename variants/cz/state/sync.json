@@ -51853,17 +51853,19 @@
       }
     },
     "21372": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13032426",
+          "target_video_id": "30779148",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:32:45.401912+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13032426",
         "display_name": "Peter Pan (1953) 1080p CZ Dabing",
         "planned_at": "2026-11-04T04:28:12.369958+00:00"
-      },
-      "claim": {
-        "worker_id": "74b28e427c47480c940075b553078505-shard-0",
-        "claimed_at": "2026-11-04T04:28:12.527898+00:00",
-        "lease_expires_at": "2026-11-04T10:28:12.527898+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779148",
       "prepared": {
@@ -88744,5 +88746,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:30:38.852205+00:00"
+  "updated_at": "2026-11-04T04:32:45.401989+00:00"
 }
