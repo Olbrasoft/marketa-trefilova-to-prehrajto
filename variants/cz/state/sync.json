@@ -49714,17 +49714,19 @@
       }
     },
     "1835": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31832266",
+          "target_video_id": "30775836",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:37:26.246824+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31832266",
         "display_name": "Now You See Me 4K CZ Dabing",
         "planned_at": "2026-11-04T00:27:43.677840+00:00"
-      },
-      "claim": {
-        "worker_id": "1f8f5cfa95ae48438e8d2b212d89fc0f-shard-0",
-        "claimed_at": "2026-11-04T00:27:43.878996+00:00",
-        "lease_expires_at": "2026-11-04T06:27:43.878996+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775836",
       "prepared": {
@@ -85510,5 +85512,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:28:01.494696+00:00"
+  "updated_at": "2026-11-04T00:37:26.246840+00:00"
 }
