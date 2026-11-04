@@ -54587,17 +54587,19 @@
       }
     },
     "1673": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34145473",
+          "target_video_id": "30783119",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:34:01.127958+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34145473",
         "display_name": "Dolemite Is My Name 1080p CZ Dabing",
         "planned_at": "2026-11-04T09:28:23.142426+00:00"
-      },
-      "claim": {
-        "worker_id": "d0ee0aa62a384e6d955a18b8e5759a09-shard-0",
-        "claimed_at": "2026-11-04T09:28:23.321838+00:00",
-        "lease_expires_at": "2026-11-04T15:28:23.321838+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783119",
       "prepared": {
@@ -92504,5 +92506,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:32:46.995055+00:00"
+  "updated_at": "2026-11-04T09:34:01.127984+00:00"
 }
