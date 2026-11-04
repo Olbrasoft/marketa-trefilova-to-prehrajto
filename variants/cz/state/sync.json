@@ -54031,17 +54031,19 @@
       }
     },
     "1619": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32341539",
+          "target_video_id": "30781829",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:56:23.448173+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32341539",
         "display_name": "The Courier (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-04T07:54:03.631328+00:00"
-      },
-      "claim": {
-        "worker_id": "5660d5e1bbff4eacbf83948887165214-shard-0",
-        "claimed_at": "2026-11-04T07:54:03.774022+00:00",
-        "lease_expires_at": "2026-11-04T13:54:03.774022+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30781829",
       "prepared": {
@@ -91432,5 +91434,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:54:07.221788+00:00"
+  "updated_at": "2026-11-04T07:56:23.448239+00:00"
 }
