@@ -18780,17 +18780,19 @@
       "attempts": []
     },
     "13788": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6111113",
+          "target_video_id": "30778473",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:42:40.036933+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6111113",
         "display_name": "North Face (Nordwand) 720p CZ Titulky",
         "planned_at": "2026-11-04T03:35:36.708029+00:00"
-      },
-      "claim": {
-        "worker_id": "7a7ffd65b1a844d68b6d38c251077236-shard-0",
-        "claimed_at": "2026-11-04T03:35:36.744543+00:00",
-        "lease_expires_at": "2026-11-04T09:35:36.744543+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778473",
       "prepared": {
@@ -57460,5 +57462,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:35:39.882204+00:00"
+  "updated_at": "2026-11-04T03:42:40.036957+00:00"
 }
