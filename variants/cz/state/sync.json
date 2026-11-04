@@ -27195,13 +27195,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-04T15:43:48.518208+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-04T16:23:01.357696+00:00"
         },
         {
@@ -27210,12 +27203,19 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-04T16:56:01.731120+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-04T17:30:30.117266+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
-        "planned_at": "2026-11-04T16:56:00.253890+00:00"
+        "planned_at": "2026-11-04T17:30:28.755572+00:00"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -58105,7 +58105,13 @@
       "last_plan": {
         "source_id": "33167181",
         "display_name": "The Cincinnati Kid 1080p CZ Dabing",
-        "planned_at": "2026-11-04T17:30:20.667555+00:00"
+        "planned_at": "2026-11-04T17:30:28.877823+00:00"
+      },
+      "claim": {
+        "worker_id": "bc0e68084acb43efb8fe2e7ad86fa187-shard-0",
+        "claimed_at": "2026-11-04T17:30:29.181607+00:00",
+        "lease_expires_at": "2026-11-04T23:30:29.181607+00:00",
+        "run_id": "41857105355"
       }
     },
     "30065": {
@@ -58118,7 +58124,12 @@
       "attempts": []
     },
     "10825": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26733205",
+        "display_name": "Mutiny on the Bounty SD CZ Dabing",
+        "planned_at": "2026-11-04T17:30:28.951640+00:00"
+      }
     },
     "37011": {
       "attempts": []
@@ -97637,5 +97648,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T17:30:22.132072+00:00"
+  "updated_at": "2026-11-04T17:30:30.117282+00:00"
 }
