@@ -51143,17 +51143,19 @@
       }
     },
     "1610": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25506189",
+          "target_video_id": "30778347",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:26:24.685527+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25506189",
         "display_name": "Triangle of Sadness 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:22:56.016414+00:00"
-      },
-      "claim": {
-        "worker_id": "e062a11f478a4fb1a333b4360d91c44e-shard-0",
-        "claimed_at": "2026-11-04T03:22:56.140809+00:00",
-        "lease_expires_at": "2026-11-04T09:22:56.140809+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778347",
       "prepared": {
@@ -87863,5 +87865,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:23:51.073907+00:00"
+  "updated_at": "2026-11-04T03:26:24.685543+00:00"
 }
