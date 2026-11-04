@@ -57889,11 +57889,19 @@
       }
     },
     "26092": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14492051",
+          "reason": "Request failed for https://sdilej.cz/14492051/plamen.a.citron-flammen.-.citronen-2008-.720p.cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-04T16:30:55.862060+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14492051",
         "display_name": "Flame & Citron 720p CZ Dabing",
-        "planned_at": "2026-11-04T16:28:55.890580+00:00"
+        "planned_at": "2026-11-04T16:30:54.902666+00:00"
       }
     },
     "24624": {
@@ -97182,5 +97190,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T16:30:45.861661+00:00"
+  "updated_at": "2026-11-04T16:30:55.862076+00:00"
 }
