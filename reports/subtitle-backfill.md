@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T01:10:47.660230+00:00
+Poslední aktualizace (UTC): 2026-11-04T01:10:52.570954+00:00
 
 Zkontrolováno videí: 354. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 250, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 42, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 250, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 43, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -88,6 +88,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvod
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-03T13:06:53.117771+00:00 |
 | [Looper 1080p CZ Titulky](https://prehraj.to/looper-1080p-cz-titulky-mkv/7c39ad7aa9f0ee8e) (ID 30746833) | [Sdílej 19161782](https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv) | target_unavailable | 2026-11-03T13:15:31.384401+00:00 |
 | [Marathon Man 1080p CZ Titulky](https://prehraj.to/marathon-man-1080p-cz-titulky-mkv/0a907ba24f3e8f97) (ID 30763573) | [Sdílej 20877545](https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv) | target_unavailable | 2026-11-03T14:24:18.994403+00:00 |
+| [Miss Americana 1080p CZ Titulky](https://prehraj.to/miss-americana-1080p-cz-titulky-mkv/ca4f884d8573558e) (ID 30776455) | [Sdílej 13059506](https://sdilej.cz/13059506/taylor-swift-miss-americana-2020-1080p-cz-tit..mkv) | target_unavailable | 2026-11-04T01:10:51.793874+00:00 |
 | [Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky](https://prehraj.to/mission-impossible-rogue-nation-mission-impossible-rogue-nation-1080p-cz-titulky-mkv/3e9675d878ecb622) (ID 30749326) | [Sdílej 18594920](https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv) | target_unavailable | 2026-11-03T13:15:41.878475+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T13:06:46.100930+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T13:06:37.230787+00:00 |
