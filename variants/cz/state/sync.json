@@ -50116,17 +50116,19 @@
       }
     },
     "1573": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34472976",
+          "target_video_id": "30776456",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:15:07.101650+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34472976",
         "display_name": "The Substance 4K CZ Dabing",
         "planned_at": "2026-11-04T01:05:33.951100+00:00"
-      },
-      "claim": {
-        "worker_id": "ee01e98d2b4b4ec092d7b9e50aef023c-shard-0",
-        "claimed_at": "2026-11-04T01:05:34.059842+00:00",
-        "lease_expires_at": "2026-11-04T07:05:34.059842+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30776456",
       "prepared": {
@@ -86127,5 +86129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:14:50.947577+00:00"
+  "updated_at": "2026-11-04T01:15:07.101678+00:00"
 }
