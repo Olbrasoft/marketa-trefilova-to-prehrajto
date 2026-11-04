@@ -58768,17 +58768,19 @@
       "attempts": []
     },
     "25405": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6075565",
+          "target_video_id": "30796356",
+          "permanent": false,
+          "attempted_at": "2026-11-04T22:59:56.051230+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6075565",
         "display_name": "Summer Storm SD CZ Dabing",
         "planned_at": "2026-11-04T22:56:53.383081+00:00"
-      },
-      "claim": {
-        "worker_id": "c9185a9c05b34ca1a218e54c9e3edcba-shard-0",
-        "claimed_at": "2026-11-04T22:56:53.632249+00:00",
-        "lease_expires_at": "2026-11-05T04:56:53.632249+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30796356",
       "prepared": {
@@ -99499,5 +99501,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T22:56:57.945961+00:00"
+  "updated_at": "2026-11-04T22:59:56.051250+00:00"
 }
