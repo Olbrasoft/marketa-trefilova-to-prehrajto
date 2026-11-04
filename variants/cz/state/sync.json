@@ -51014,17 +51014,19 @@
       }
     },
     "24807": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33493935",
+          "target_video_id": "30778287",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:20:31.346202+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33493935",
         "display_name": "Chicago 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:17:09.054392+00:00"
-      },
-      "claim": {
-        "worker_id": "e29fb2d979614bfaae40d2ab32b044c6-shard-0",
-        "claimed_at": "2026-11-04T03:17:09.168455+00:00",
-        "lease_expires_at": "2026-11-04T09:17:09.168455+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778287",
       "prepared": {
@@ -87803,5 +87805,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:19:10.474409+00:00"
+  "updated_at": "2026-11-04T03:20:31.346218+00:00"
 }
