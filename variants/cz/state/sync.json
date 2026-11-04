@@ -50292,17 +50292,19 @@
       }
     },
     "1578": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26253424",
+          "target_video_id": "30776752",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:31:35.534834+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26253424",
         "display_name": "School of Rock 1080p CZ Dabing",
         "planned_at": "2026-11-04T01:28:36.088871+00:00"
-      },
-      "claim": {
-        "worker_id": "9de001075e4c40a4a9f3918f0d4c75ce-shard-0",
-        "claimed_at": "2026-11-04T01:28:36.248124+00:00",
-        "lease_expires_at": "2026-11-04T07:28:36.248124+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30776752",
       "prepared": {
@@ -86532,5 +86534,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:28:39.370075+00:00"
+  "updated_at": "2026-11-04T01:31:35.534848+00:00"
 }
