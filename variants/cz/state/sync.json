@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:48:01.582639+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-04T06:19:42.886192+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-04T06:52:04.021668+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:37:52.531308+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "8eb7fc3532544f73be3d3c6264d3fa99-shard-0",
-        "claimed_at": "2026-11-04T07:37:50.027521+00:00",
-        "lease_expires_at": "2026-11-04T13:37:50.027521+00:00",
-        "run_id": "41791915876"
       }
     },
     "10755": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-04T06:52:06.623842+00:00"
+        "planned_at": "2026-11-04T07:37:51.650408+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "312b0b0877234cefaf21f35a09026b05-shard-0",
+        "claimed_at": "2026-11-04T07:37:51.891759+00:00",
+        "lease_expires_at": "2026-11-04T13:37:51.891759+00:00",
+        "run_id": "41791915876"
       }
     },
     "12843": {
@@ -53818,7 +53818,7 @@
       "last_plan": {
         "source_id": "34378972",
         "display_name": "The Outfit (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-04T07:37:49.897696+00:00"
+        "planned_at": "2026-11-04T07:37:51.754336+00:00"
       }
     },
     "24266": {
@@ -91236,5 +91236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:37:50.341895+00:00"
+  "updated_at": "2026-11-04T07:37:52.531330+00:00"
 }
