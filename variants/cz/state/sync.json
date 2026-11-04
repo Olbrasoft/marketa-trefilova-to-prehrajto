@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-04T01:42:10.412210+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-04T02:12:26.984304+00:00"
         },
         {
@@ -6942,12 +6935,19 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-04T03:13:34.841335+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:45:08.033603+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-11-04T03:13:33.155125+00:00"
+        "planned_at": "2026-11-04T03:45:06.437570+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -51369,11 +51369,22 @@
       "last_plan": {
         "source_id": "31269099",
         "display_name": "Dr. No 4K CZ Dabing",
-        "planned_at": "2026-11-04T03:44:59.990945+00:00"
+        "planned_at": "2026-11-04T03:45:06.538744+00:00"
+      },
+      "claim": {
+        "worker_id": "4bd6d0cb36024c04aee3cb491a9cd714-shard-0",
+        "claimed_at": "2026-11-04T03:45:06.789494+00:00",
+        "lease_expires_at": "2026-11-04T09:45:06.789494+00:00",
+        "run_id": "41760503575"
       }
     },
     "1663": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "16713233",
+        "display_name": "Bridge to Terabithia 1080p CZ Dabing",
+        "planned_at": "2026-11-04T03:45:06.597665+00:00"
+      }
     },
     "17853": {
       "attempts": []
@@ -88018,5 +88029,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:45:01.190611+00:00"
+  "updated_at": "2026-11-04T03:45:08.033638+00:00"
 }
