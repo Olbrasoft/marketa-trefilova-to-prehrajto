@@ -55880,17 +55880,19 @@
       }
     },
     "11789": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33344290",
+          "target_video_id": "30785246",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:22:29.927836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33344290",
         "display_name": "The Unbearable Lightness of Being 1080p CZ Dabing",
         "planned_at": "2026-11-04T12:13:01.640807+00:00"
-      },
-      "claim": {
-        "worker_id": "37954ecafb77444faf1a096c8640fe1f-shard-0",
-        "claimed_at": "2026-11-04T12:13:01.876989+00:00",
-        "lease_expires_at": "2026-11-04T18:13:01.876989+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785246",
       "prepared": {
@@ -94170,5 +94172,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:22:16.556769+00:00"
+  "updated_at": "2026-11-04T12:22:29.927855+00:00"
 }
