@@ -55254,17 +55254,19 @@
       "attempts": []
     },
     "18021": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28182099",
+          "target_video_id": "30784287",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:10:56.194216+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28182099",
         "display_name": "Conviction 1080p CZ Dabing",
         "planned_at": "2026-11-04T11:07:47.395422+00:00"
-      },
-      "claim": {
-        "worker_id": "2f22efd0890941d09c3ee5328b58519c-shard-0",
-        "claimed_at": "2026-11-04T11:07:47.690905+00:00",
-        "lease_expires_at": "2026-11-04T17:07:47.690905+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30784287",
       "prepared": {
@@ -93314,5 +93316,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:10:45.656666+00:00"
+  "updated_at": "2026-11-04T11:10:56.194235+00:00"
 }
