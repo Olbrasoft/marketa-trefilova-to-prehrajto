@@ -52520,17 +52520,19 @@
       }
     },
     "10852": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33879927",
+          "target_video_id": "30779830",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:20:49.083289+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33879927",
         "display_name": "The Sucker (Le Corniaud) 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:17:27.920731+00:00"
-      },
-      "claim": {
-        "worker_id": "0cbc1f4532974aa3a1cb08a4099e6391-shard-0",
-        "claimed_at": "2026-11-04T05:17:29.344182+00:00",
-        "lease_expires_at": "2026-11-04T11:17:29.344182+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779830",
       "prepared": {
@@ -89324,5 +89326,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:17:34.406119+00:00"
+  "updated_at": "2026-11-04T05:20:49.083309+00:00"
 }
