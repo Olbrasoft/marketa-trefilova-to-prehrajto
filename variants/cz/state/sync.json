@@ -52926,17 +52926,19 @@
       }
     },
     "11496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34621783",
+          "target_video_id": "30780332",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:09:35.064405+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34621783",
         "display_name": "Videodrome 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:50:35.195663+00:00"
-      },
-      "claim": {
-        "worker_id": "ebb62ac8abf64c0a95e6a59b9867585f-shard-0",
-        "claimed_at": "2026-11-04T05:50:35.315376+00:00",
-        "lease_expires_at": "2026-11-04T11:50:35.315376+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780332",
       "prepared": {
@@ -89991,5 +89993,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:09:31.702410+00:00"
+  "updated_at": "2026-11-04T06:09:35.064424+00:00"
 }
