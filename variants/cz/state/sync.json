@@ -57144,17 +57144,19 @@
       }
     },
     "1643": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32598535",
+          "target_video_id": "30787559",
+          "permanent": false,
+          "attempted_at": "2026-11-04T14:26:55.591007+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32598535",
         "display_name": "Minamata 1080p CZ Dabing",
         "planned_at": "2026-11-04T14:17:17.531129+00:00"
-      },
-      "claim": {
-        "worker_id": "c86d31bc5de1416aae90898bb4625e65-shard-0",
-        "claimed_at": "2026-11-04T14:17:17.762118+00:00",
-        "lease_expires_at": "2026-11-04T20:17:17.762118+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787559",
       "prepared": {
@@ -96015,5 +96017,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T14:17:21.256416+00:00"
+  "updated_at": "2026-11-04T14:26:55.591026+00:00"
 }
