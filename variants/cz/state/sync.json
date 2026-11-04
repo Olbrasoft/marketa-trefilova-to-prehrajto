@@ -56945,17 +56945,19 @@
       }
     },
     "37268": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34237142",
+          "target_video_id": "30787212",
+          "permanent": false,
+          "attempted_at": "2026-11-04T14:05:06.051171+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34237142",
         "display_name": "Gary 1080p CZ Dabing",
         "planned_at": "2026-11-04T14:00:54.960316+00:00"
-      },
-      "claim": {
-        "worker_id": "53b112e365ea4864982e28d495db8a93-shard-0",
-        "claimed_at": "2026-11-04T14:00:55.195235+00:00",
-        "lease_expires_at": "2026-11-04T20:00:55.195235+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787212",
       "prepared": {
@@ -95613,5 +95615,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T14:02:04.543385+00:00"
+  "updated_at": "2026-11-04T14:05:06.051191+00:00"
 }
