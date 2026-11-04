@@ -54187,17 +54187,19 @@
       }
     },
     "11705": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33790460",
+          "target_video_id": "30782165",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:22:55.238006+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33790460",
         "display_name": "Moonstruck 1080p CZ Dabing",
         "planned_at": "2026-11-04T08:20:11.481161+00:00"
-      },
-      "claim": {
-        "worker_id": "d8dd9e2f4159447899a19038597642ce-shard-0",
-        "claimed_at": "2026-11-04T08:20:11.636197+00:00",
-        "lease_expires_at": "2026-11-04T14:20:11.636197+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30782165",
       "prepared": {
@@ -91882,5 +91884,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:21:32.837628+00:00"
+  "updated_at": "2026-11-04T08:22:55.238026+00:00"
 }
