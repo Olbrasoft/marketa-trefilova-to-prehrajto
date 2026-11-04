@@ -53024,17 +53024,19 @@
       }
     },
     "27708": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33816089",
+          "target_video_id": "30780564",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:15:21.110284+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33816089",
         "display_name": "Ruby Sparks 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:09:27.945881+00:00"
-      },
-      "claim": {
-        "worker_id": "fae298f585b940a7b7f3ced8f2ce9ada-shard-0",
-        "claimed_at": "2026-11-04T06:09:28.074900+00:00",
-        "lease_expires_at": "2026-11-04T12:09:28.074900+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780564",
       "prepared": {
@@ -90055,5 +90057,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:14:39.410098+00:00"
+  "updated_at": "2026-11-04T06:15:21.110302+00:00"
 }
