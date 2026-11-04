@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T07:56:55.068640+00:00
+Poslední aktualizace (UTC): 2026-11-04T07:56:58.445887+00:00
 
 Zkontrolováno videí: 368. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 55, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 56, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -68,6 +68,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 58. Důvod
 | --- | --- | --- | --- |
 | [5 Centimeters Per Second (Byôsoku 5 senchimêtoru) 1080p CZ Titulky](https://prehraj.to/5-centimeters-per-second-byosoku-5-senchimetoru-1080p-cz-titulky-mkv/0d7c133d5b489913) (ID 30768804) | [Sdílej 27114239](https://sdilej.cz/27114239/5-centimeters-per-second-2007-1080p-cz-tit.mkv) | target_unavailable | 2026-11-03T17:05:14.383368+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-03T13:15:24.487522+00:00 |
+| [American Sniper 1080p CZ Titulky](https://prehraj.to/american-sniper-1080p-cz-titulky-mkv/931c810618b87a12) (ID 30781858) | [Sdílej 34809887](https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-04T07:56:58.445531+00:00 |
 | [Anora 4K CZ Titulky](https://prehraj.to/anora-4k-cz-titulky-mkv/9ff154c1166c44e3) (ID 30753012) | [Sdílej 30450437](https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:15:52.736668+00:00 |
 | [Army of Darkness 1080p CZ Titulky](https://prehraj.to/army-of-darkness-1080p-cz-titulky-mkv/de829709c7cdc288) (ID 30755736) | [Sdílej 35401994](https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-03T13:15:38.177570+00:00 |
 | [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T13:15:17.494327+00:00 |
