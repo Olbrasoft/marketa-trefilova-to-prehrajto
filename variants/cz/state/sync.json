@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "ffed5c336a09486a9fefd30d46a992da-shard-0",
+        "claimed_at": "2026-11-04T05:17:25.185618+00:00",
+        "lease_expires_at": "2026-11-04T11:17:25.185618+00:00",
+        "run_id": "41760503575"
       }
     },
     "37290": {
@@ -48001,13 +48007,6 @@
           "source_id": "20159030",
           "target_video_id": "30774328",
           "permanent": false,
-          "attempted_at": "2026-11-04T03:46:13.495991+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20159030",
-          "target_video_id": "30774328",
-          "permanent": false,
           "attempted_at": "2026-11-04T04:16:36.815797+00:00"
         },
         {
@@ -48016,12 +48015,19 @@
           "target_video_id": "30774328",
           "permanent": false,
           "attempted_at": "2026-11-04T04:46:40.036800+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20159030",
+          "target_video_id": "30774328",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:17:26.533996+00:00"
         }
       ],
       "last_plan": {
         "source_id": "20159030",
         "display_name": "Séraphine 1080p CZ Dabing",
-        "planned_at": "2026-11-04T04:46:38.758958+00:00"
+        "planned_at": "2026-11-04T05:17:25.248829+00:00"
       },
       "previous_target_id": "30774328",
       "prepared": {
@@ -52524,7 +52530,7 @@
       "last_plan": {
         "source_id": "33879927",
         "display_name": "The Sucker (Le Corniaud) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T05:17:23.831578+00:00"
+        "planned_at": "2026-11-04T05:17:25.350238+00:00"
       }
     },
     "15878": {
@@ -89293,5 +89299,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:17:23.831593+00:00"
+  "updated_at": "2026-11-04T05:17:26.534014+00:00"
 }
