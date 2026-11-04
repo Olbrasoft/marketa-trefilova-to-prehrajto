@@ -51339,17 +51339,19 @@
       }
     },
     "1785": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23949647",
+          "target_video_id": "30778486",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:44:23.423349+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23949647",
         "display_name": "The Bank Job 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:37:25.889533+00:00"
-      },
-      "claim": {
-        "worker_id": "45622cbb92c74016ae7faff1175ce5cb-shard-0",
-        "claimed_at": "2026-11-04T03:37:26.025889+00:00",
-        "lease_expires_at": "2026-11-04T09:37:26.025889+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778486",
       "prepared": {
@@ -88016,5 +88018,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:44:19.697944+00:00"
+  "updated_at": "2026-11-04T03:44:23.423381+00:00"
 }
