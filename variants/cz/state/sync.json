@@ -52811,17 +52811,19 @@
       "attempts": []
     },
     "1750": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33071906",
+          "target_video_id": "30780185",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:50:30.654396+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33071906",
         "display_name": "Rescue Dawn 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:42:30.062925+00:00"
-      },
-      "claim": {
-        "worker_id": "c4811f67241f4ec88e6453f57dc193df-shard-0",
-        "claimed_at": "2026-11-04T05:42:30.217424+00:00",
-        "lease_expires_at": "2026-11-04T11:42:30.217424+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780185",
       "prepared": {
@@ -89846,5 +89848,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:49:25.682248+00:00"
+  "updated_at": "2026-11-04T05:50:30.654411+00:00"
 }
