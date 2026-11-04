@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:09:01.105888+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-04T08:48:29.003875+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-04T09:19:49.307931+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:04:39.554290+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "4b889ff5bf4c46fa93d6f871742406e9-shard-0",
-        "claimed_at": "2026-11-04T10:04:32.185390+00:00",
-        "lease_expires_at": "2026-11-04T16:04:32.185390+00:00",
-        "run_id": "41791915876"
       }
     },
     "10755": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-04T09:19:50.674479+00:00"
+        "planned_at": "2026-11-04T10:04:38.809091+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "0345f53615594127b97739626678d641-shard-0",
+        "claimed_at": "2026-11-04T10:04:39.145855+00:00",
+        "lease_expires_at": "2026-11-04T16:04:39.145855+00:00",
+        "run_id": "41791915876"
       }
     },
     "12843": {
@@ -54880,7 +54880,7 @@
       "last_plan": {
         "source_id": "33775175",
         "display_name": "Quills 1080p CZ Dabing",
-        "planned_at": "2026-11-04T10:04:31.999667+00:00"
+        "planned_at": "2026-11-04T10:04:38.914896+00:00"
       }
     },
     "23617": {
@@ -92701,5 +92701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:04:32.870565+00:00"
+  "updated_at": "2026-11-04T10:04:39.554313+00:00"
 }
