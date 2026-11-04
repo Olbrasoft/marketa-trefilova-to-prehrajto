@@ -49291,17 +49291,19 @@
       "attempts": []
     },
     "12918": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27463859",
+          "target_video_id": "30775413",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:03:20.331279+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27463859",
         "display_name": "Loners (Samotáři) 1080p CZ Dabing",
         "planned_at": "2026-11-04T00:00:47.902638+00:00"
-      },
-      "claim": {
-        "worker_id": "726519074d2d45a1ac64a5227e9c3550-shard-0",
-        "claimed_at": "2026-11-04T00:00:48.028277+00:00",
-        "lease_expires_at": "2026-11-04T06:00:48.028277+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775413",
       "prepared": {
@@ -85144,5 +85146,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:02:22.495723+00:00"
+  "updated_at": "2026-11-04T00:03:20.331298+00:00"
 }
