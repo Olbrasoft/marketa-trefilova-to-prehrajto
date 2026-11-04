@@ -13,7 +13,7 @@
   "missing_detail_urls": 1,
   "next_page": 0,
   "schema_version": 1,
-  "updated_at": "2026-11-04T22:38:42.485578+00:00",
+  "updated_at": "2026-11-04T22:39:36.439967+00:00",
   "videos": {
     "30580910": {
       "checked_at": "2026-10-28T22:47:29.080648+00:00",
@@ -7077,9 +7077,25 @@
       "title": "Dogma 1080p CZ Titulky"
     },
     "30790802": {
-      "checked_at": "2026-11-04T21:24:12.124007+00:00",
+      "checked_at": "2026-11-04T22:39:36.439872+00:00",
       "detail_url": "https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621",
-      "retry_after": "2026-11-04T22:24:12.124024+00:00",
+      "extraction": {
+        "bytes": 182053,
+        "format": "utf8_srt_crlf",
+        "method": "original_embedded_track",
+        "sha256": "e534d1ceabd4454c3d5dcdf0b0639c89e296c257d9bb885e200cb404d5efe8ea",
+        "source_codec": "mov_text",
+        "source_id": "22631501",
+        "stream_index": 2
+      },
+      "intent": {
+        "before_ids": [],
+        "created_at": "2026-11-04T22:39:36.439868+00:00",
+        "filename": "cs-30790802-e534d1ceab.srt",
+        "sha256": "e534d1ceabd4454c3d5dcdf0b0639c89e296c257d9bb885e200cb404d5efe8ea"
+      },
+      "retry_after": "2026-11-04T23:39:36.439874+00:00",
+      "seen_at": "2026-11-04T22:39:36.439836+00:00",
       "source": {
         "cr_film_id": 1549,
         "height": 796,
@@ -7089,7 +7105,7 @@
         "source_url": "https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4",
         "width": 1920
       },
-      "status": "target_unavailable",
+      "status": "upload_unconfirmed",
       "target_video_id": "30790802",
       "title": "Blue Jasmine 1080p CZ Titulky"
     },
