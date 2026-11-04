@@ -51422,13 +51422,6 @@
           "source_id": "34041025",
           "target_video_id": "30778434",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:30:39.974151+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34041025",
-          "target_video_id": "30778434",
-          "permanent": false,
           "attempted_at": "2026-11-04T06:02:51.586545+00:00"
         },
         {
@@ -51437,6 +51430,13 @@
           "target_video_id": "30778434",
           "permanent": false,
           "attempted_at": "2026-11-04T06:37:13.978585+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34041025",
+          "target_video_id": "30778434",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:09:37.605220+00:00"
         }
       ],
       "last_plan": {
@@ -51627,7 +51627,7 @@
       "last_plan": {
         "source_id": "33776734",
         "display_name": "Steve Jobs 1080p CZ Dabing",
-        "planned_at": "2026-11-04T06:37:13.550279+00:00"
+        "planned_at": "2026-11-04T07:09:36.281302+00:00"
       },
       "previous_target_id": "30778704",
       "prepared": {
@@ -51635,6 +51635,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-04T03:57:26.902562+00:00",
         "relay_source_id": "33776734"
+      },
+      "claim": {
+        "worker_id": "d06bb26581bc4e799d63fe0bb5885a03-shard-0",
+        "claimed_at": "2026-11-04T07:09:36.532480+00:00",
+        "lease_expires_at": "2026-11-04T13:09:36.532480+00:00",
+        "run_id": "41760503575"
       }
     },
     "29932": {
@@ -53752,7 +53758,7 @@
       "last_plan": {
         "source_id": "30721603",
         "display_name": "The Hudsucker Proxy 1080p CZ Dabing",
-        "planned_at": "2026-11-04T07:09:34.666948+00:00"
+        "planned_at": "2026-11-04T07:09:36.385283+00:00"
       }
     },
     "12267": {
@@ -90884,5 +90890,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:09:34.666967+00:00"
+  "updated_at": "2026-11-04T07:09:37.605243+00:00"
 }
