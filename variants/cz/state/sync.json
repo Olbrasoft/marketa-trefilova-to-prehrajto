@@ -40252,7 +40252,7 @@
       "last_plan": {
         "source_id": "26440330",
         "display_name": "No Time to Die 4K CZ Dabing",
-        "planned_at": "2026-11-04T03:48:09.135067+00:00"
+        "planned_at": "2026-11-04T04:22:04.593017+00:00"
       },
       "previous_target_id": "30748229",
       "prepared": {
@@ -40260,6 +40260,12 @@
         "size_bytes": 6900000000,
         "prepared_at": "2026-11-03T02:22:06.543825+00:00",
         "relay_source_id": "26440330"
+      },
+      "claim": {
+        "worker_id": "c1c657186a6f48af80b2af4da5f2f0b0-shard-0",
+        "claimed_at": "2026-11-04T04:22:04.834842+00:00",
+        "lease_expires_at": "2026-11-04T10:22:04.834842+00:00",
+        "run_id": "41760503575"
       }
     },
     "20782": {
@@ -51637,17 +51643,19 @@
       }
     },
     "1588": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16415846",
+          "target_video_id": "30778787",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:22:04.886368+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16415846",
         "display_name": "The Lost Boys (1987) 1080p CZ Dabing",
         "planned_at": "2026-11-04T04:05:20.663113+00:00"
-      },
-      "claim": {
-        "worker_id": "18d13a4e0be94755a5faabe5b7488a16-shard-0",
-        "claimed_at": "2026-11-04T04:05:20.796169+00:00",
-        "lease_expires_at": "2026-11-04T10:05:20.796169+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778787",
       "prepared": {
@@ -51717,7 +51725,7 @@
       "last_plan": {
         "source_id": "14098030",
         "display_name": "War Horse 1080p CZ Dabing",
-        "planned_at": "2026-11-04T04:22:02.938210+00:00"
+        "planned_at": "2026-11-04T04:22:04.684534+00:00"
       }
     },
     "1700": {
@@ -88588,5 +88596,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:22:03.282205+00:00"
+  "updated_at": "2026-11-04T04:22:04.886387+00:00"
 }
