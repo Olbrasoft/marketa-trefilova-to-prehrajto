@@ -58044,17 +58044,19 @@
       }
     },
     "17912": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22049334",
+          "target_video_id": "30790169",
+          "permanent": false,
+          "attempted_at": "2026-11-04T17:20:37.535941+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22049334",
         "display_name": "Black Box (Boîte noire) (2021) 1080p CZ Dabing",
         "planned_at": "2026-11-04T17:12:37.559709+00:00"
-      },
-      "claim": {
-        "worker_id": "4f6260389b9f46ba9f8dd95fb1390ac7-shard-0",
-        "claimed_at": "2026-11-04T17:12:37.721911+00:00",
-        "lease_expires_at": "2026-11-04T23:12:37.721911+00:00",
-        "run_id": "41857105355"
       },
       "previous_target_id": "30790169",
       "prepared": {
@@ -97323,5 +97325,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T17:12:41.154131+00:00"
+  "updated_at": "2026-11-04T17:20:37.535966+00:00"
 }
