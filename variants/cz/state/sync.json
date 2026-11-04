@@ -50822,7 +50822,20 @@
       }
     },
     "1682": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33477342",
+          "reason": "Source detail has no authenticated download link; source_id=33477342",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:33:02.439213+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33477342",
+        "display_name": "The Descent 4K CZ Dabing",
+        "planned_at": "2026-11-04T02:33:00.765458+00:00"
+      }
     },
     "19570": {
       "attempts": []
@@ -87254,5 +87267,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T02:32:59.096962+00:00"
+  "updated_at": "2026-11-04T02:33:02.439226+00:00"
 }
