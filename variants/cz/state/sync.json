@@ -51822,17 +51822,19 @@
       }
     },
     "22848": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32999727",
+          "target_video_id": "30779101",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:34:18.908334+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32999727",
         "display_name": "Big Trouble in Little China 4K CZ Dabing",
         "planned_at": "2026-11-04T04:24:55.859947+00:00"
-      },
-      "claim": {
-        "worker_id": "1ccb013fdbc34d358e3a950aa9a55654-shard-0",
-        "claimed_at": "2026-11-04T04:24:55.996852+00:00",
-        "lease_expires_at": "2026-11-04T10:24:55.996852+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779101",
       "prepared": {
@@ -88777,5 +88779,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:32:57.877670+00:00"
+  "updated_at": "2026-11-04T04:34:18.908355+00:00"
 }
