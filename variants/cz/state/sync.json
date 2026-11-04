@@ -49968,17 +49968,19 @@
       }
     },
     "1572": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32030746",
+          "target_video_id": "30776194",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:54:54.434313+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32030746",
         "display_name": "Mission: Impossible 4K CZ Dabing",
         "planned_at": "2026-11-04T00:49:30.825364+00:00"
-      },
-      "claim": {
-        "worker_id": "811a0de49e1f42b882f6de08514b970b-shard-0",
-        "claimed_at": "2026-11-04T00:49:31.039643+00:00",
-        "lease_expires_at": "2026-11-04T06:49:31.039643+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30776194",
       "prepared": {
@@ -86004,5 +86006,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:51:39.158420+00:00"
+  "updated_at": "2026-11-04T00:54:54.434327+00:00"
 }
