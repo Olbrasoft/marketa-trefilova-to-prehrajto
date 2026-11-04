@@ -53590,17 +53590,19 @@
       }
     },
     "11583": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31823281",
+          "target_video_id": "30781039",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:06:00.135023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31823281",
         "display_name": "Out of Africa 4K CZ Dabing",
         "planned_at": "2026-11-04T06:52:51.967177+00:00"
-      },
-      "claim": {
-        "worker_id": "4b73b80c35654721884185837cd516dc-shard-0",
-        "claimed_at": "2026-11-04T06:52:52.213056+00:00",
-        "lease_expires_at": "2026-11-04T12:52:52.213056+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30781039",
       "prepared": {
@@ -90836,5 +90838,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:03:51.673423+00:00"
+  "updated_at": "2026-11-04T07:06:00.135042+00:00"
 }
