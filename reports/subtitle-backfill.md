@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T21:23:14.151919+00:00
+Poslední aktualizace (UTC): 2026-11-04T21:23:18.053002+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 289, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 6, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 290, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 6, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -69,7 +69,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 35. Důvo
 | --- | --- | --- | --- |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-04T19:24:14.587763+00:00 |
 | [Alita: Battle Angel 4K CZ Titulky](https://prehraj.to/alita-battle-angel-4k-cz-titulky-mkv/e97938c4437f9141) (ID 30785611) | [Sdílej 12025390](https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv) | target_unavailable | 2026-11-04T12:40:28.137026+00:00 |
-| [American Sniper 1080p CZ Titulky](https://prehraj.to/american-sniper-1080p-cz-titulky-mkv/931c810618b87a12) (ID 30781858) | [Sdílej 34809887](https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-04T07:56:58.445531+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | target_unavailable | 2026-11-04T18:03:41.220564+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-04T18:46:53.167140+00:00 |
 | [Bullet Train 4K CZ Titulky](https://prehraj.to/bullet-train-4k-cz-titulky-mkv/95fe5c110bdf5dec) (ID 30782256) | [Sdílej 26997444](https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv) | target_unavailable | 2026-11-04T08:27:19.962269+00:00 |
