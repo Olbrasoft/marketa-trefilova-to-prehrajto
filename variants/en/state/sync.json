@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "4a6a71edbfc848c7b837960f02d60c99-shard-0",
+        "claimed_at": "2026-11-04T11:03:56.898816+00:00",
+        "lease_expires_at": "2026-11-04T17:03:56.898816+00:00",
+        "run_id": "41791915876"
       }
     },
     "31551": {
@@ -19231,13 +19237,6 @@
           "source_id": "14854574",
           "target_video_id": "30781288",
           "permanent": false,
-          "attempted_at": "2026-11-04T09:19:07.301492+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14854574",
-          "target_video_id": "30781288",
-          "permanent": false,
           "attempted_at": "2026-11-04T10:00:32.641087+00:00"
         },
         {
@@ -19246,12 +19245,19 @@
           "target_video_id": "30781288",
           "permanent": false,
           "attempted_at": "2026-11-04T10:32:51.272978+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14854574",
+          "target_video_id": "30781288",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:03:59.582291+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14854574",
         "display_name": "Tenet 1080p CZ Titulky",
-        "planned_at": "2026-11-04T10:32:44.265770+00:00"
+        "planned_at": "2026-11-04T11:03:57.416840+00:00"
       },
       "previous_target_id": "30781288",
       "prepared": {
@@ -59833,5 +59839,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:03:15.402119+00:00"
+  "updated_at": "2026-11-04T11:03:59.582312+00:00"
 }
