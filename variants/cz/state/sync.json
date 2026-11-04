@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-04T22:31:04.075453+00:00"
+        "planned_at": "2026-11-04T23:03:47.994119+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "92ace69ca8004183b4400d94a18f6daa-shard-0",
+        "claimed_at": "2026-11-04T23:03:48.398455+00:00",
+        "lease_expires_at": "2026-11-05T05:03:48.398455+00:00",
+        "run_id": "41924666202"
       }
     },
     "29922": {
@@ -58738,17 +58744,19 @@
       }
     },
     "10801": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28418195",
+          "target_video_id": "30796107",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:04:52.182213+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28418195",
         "display_name": "Vyšší princip 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:48:56.602628+00:00"
-      },
-      "claim": {
-        "worker_id": "b778123c9e394a70868dc121b5afa112-shard-0",
-        "claimed_at": "2026-11-04T22:48:56.820989+00:00",
-        "lease_expires_at": "2026-11-05T04:48:56.820989+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30796107",
       "prepared": {
@@ -58798,7 +58806,7 @@
       "last_plan": {
         "source_id": "6917654",
         "display_name": "King's Game SD CZ Dabing",
-        "planned_at": "2026-11-04T23:03:45.040612+00:00"
+        "planned_at": "2026-11-04T23:03:48.168548+00:00"
       }
     },
     "11599": {
@@ -99506,5 +99514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:03:46.467802+00:00"
+  "updated_at": "2026-11-04T23:04:52.182235+00:00"
 }
