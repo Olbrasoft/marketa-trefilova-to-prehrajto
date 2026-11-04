@@ -29499,13 +29499,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:52:35.946648+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-04T09:26:28.139633+00:00"
         },
         {
@@ -29514,6 +29507,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-04T10:32:50.961270+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:16:16.016175+00:00"
         }
       ],
       "last_plan": {
@@ -29527,12 +29527,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
-      },
-      "claim": {
-        "worker_id": "c4e6b20e1530427ebb3290da3f60ef25-shard-0",
-        "claimed_at": "2026-11-04T11:16:07.304528+00:00",
-        "lease_expires_at": "2026-11-04T17:16:07.304528+00:00",
-        "run_id": "41791915876"
       }
     },
     "25113": {
@@ -50430,7 +50424,7 @@
       "last_plan": {
         "source_id": "34359010",
         "display_name": "Shooter 4K CZ Dabing",
-        "planned_at": "2026-11-04T10:33:05.756048+00:00"
+        "planned_at": "2026-11-04T11:16:15.612016+00:00"
       },
       "previous_target_id": "30776630",
       "prepared": {
@@ -50438,6 +50432,12 @@
         "size_bytes": 6000000000,
         "prepared_at": "2026-11-04T01:22:44.134076+00:00",
         "relay_source_id": "34359010"
+      },
+      "claim": {
+        "worker_id": "733a09418721486ca913786fcda7135e-shard-0",
+        "claimed_at": "2026-11-04T11:16:15.833721+00:00",
+        "lease_expires_at": "2026-11-04T17:16:15.833721+00:00",
+        "run_id": "41791915876"
       }
     },
     "1693": {
@@ -55333,7 +55333,7 @@
       "last_plan": {
         "source_id": "32711732",
         "display_name": "Bitter Moon 1080p CZ Dabing",
-        "planned_at": "2026-11-04T11:16:07.172961+00:00"
+        "planned_at": "2026-11-04T11:16:15.711750+00:00"
       }
     },
     "31278": {
@@ -93341,5 +93341,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:16:07.526056+00:00"
+  "updated_at": "2026-11-04T11:16:16.016191+00:00"
 }
