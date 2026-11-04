@@ -382,3 +382,4 @@ Attach subtitles only after target processing has finished.
 | Wicked 4K CZ Titulky | 30788407 | https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv | Extract Czech track from exact source after processing |
 | The Evil Dead 1080p CZ Titulky | 30789688 | https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv | Extract Czech track from exact source after processing |
 | Doctor Sleep 1080p CZ Titulky | 30790059 | https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv | Extract Czech track from exact source after processing |
+| Dogma 1080p CZ Titulky | 30790077 | https://sdilej.cz/15676655/dogma.mkv | Extract Czech track from exact source after processing |
