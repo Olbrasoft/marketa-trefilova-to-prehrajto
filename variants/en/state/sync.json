@@ -18679,17 +18679,19 @@
       "attempts": []
     },
     "34151": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34130894",
+          "target_video_id": "30778234",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:15:27.368583+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34130894",
         "display_name": "La Reine Margot 720p CZ Titulky",
         "planned_at": "2026-11-04T03:11:34.537117+00:00"
-      },
-      "claim": {
-        "worker_id": "e2f5264c01cf462ab3d23fc8e3b66c55-shard-0",
-        "claimed_at": "2026-11-04T03:11:34.676241+00:00",
-        "lease_expires_at": "2026-11-04T09:11:34.676241+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778234",
       "prepared": {
@@ -57155,5 +57157,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:12:58.368127+00:00"
+  "updated_at": "2026-11-04T03:15:27.368603+00:00"
 }
