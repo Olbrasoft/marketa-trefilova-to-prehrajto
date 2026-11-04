@@ -56109,17 +56109,19 @@
       "attempts": []
     },
     "22103": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32874911",
+          "target_video_id": "30785498",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:41:55.007731+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32874911",
         "display_name": "Fist of Fury 4K CZ Dabing",
         "planned_at": "2026-11-04T12:30:09.831686+00:00"
-      },
-      "claim": {
-        "worker_id": "e1a6dac21d054f73a3465b39a7a35b9d-shard-0",
-        "claimed_at": "2026-11-04T12:30:10.068728+00:00",
-        "lease_expires_at": "2026-11-04T18:30:10.068728+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785498",
       "prepared": {
@@ -94722,5 +94724,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:39:39.447945+00:00"
+  "updated_at": "2026-11-04T12:41:55.007751+00:00"
 }
