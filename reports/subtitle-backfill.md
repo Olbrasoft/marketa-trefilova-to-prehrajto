@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T20:24:38.618596+00:00
+Poslední aktualizace (UTC): 2026-11-04T20:24:42.430245+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -102,7 +102,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvo
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-04T19:24:02.120532+00:00 |
 | [Wake Up Dead Man (Wake Up Dead Man: A Knives Out Mystery) 4K CZ Titulky](https://prehraj.to/wake-up-dead-man-wake-up-dead-man-a-knives-out-mystery-4k-cz-titulky-mkv/322e5a1411a31e6f) (ID 30788177) | [Sdílej 32607681](https://sdilej.cz/32607681/wake.up.dead.man.a.knives.out.mystery.2025.2160p.nf.web-dl.ddp5.1.atmos.dv.hdr.h.265-byndr.mkv) | target_unavailable | 2026-11-04T15:01:53.381954+00:00 |
 | [Wicked 4K CZ Titulky](https://prehraj.to/wicked-4k-cz-titulky-mkv/3d47570d0ba0bcbd) (ID 30788407) | [Sdílej 32839401](https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv) | target_unavailable | 2026-11-04T15:11:49.101846+00:00 |
-| [X-Men 4K CZ Titulky](https://prehraj.to/x-men-4k-cz-titulky-mkv/ac789202f375f576) (ID 30781619) | [Sdílej 28350650](https://sdilej.cz/28350650/-uhd-x-men-i.-2000-.mkv) | target_unavailable | 2026-11-04T07:36:49.665057+00:00 |
+| [X-Men 4K CZ Titulky](https://prehraj.to/x-men-4k-cz-titulky-mkv/ac789202f375f576) (ID 30781619) | [Sdílej 28350650](https://sdilej.cz/28350650/-uhd-x-men-i.-2000-.mkv) | target_unavailable | 2026-11-04T20:24:42.430170+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-04T18:46:49.665744+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
