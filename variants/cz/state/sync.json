@@ -8026,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-04T22:33:36.939017+00:00"
+        "planned_at": "2026-11-04T23:06:04.810095+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8034,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "20a231bf328143c4bcf0663be688f88d-shard-0",
+        "claimed_at": "2026-11-04T23:06:05.203065+00:00",
+        "lease_expires_at": "2026-11-05T05:06:05.203065+00:00",
+        "run_id": "41924666202"
       }
     },
     "10690": {
@@ -19857,13 +19863,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-04T17:33:35.244353+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-04T18:13:05.322193+00:00"
         },
         {
@@ -19872,6 +19871,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-04T22:33:35.405161+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:06:05.348542+00:00"
         }
       ],
       "last_plan": {
@@ -19885,12 +19891,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
-      },
-      "claim": {
-        "worker_id": "65667dd9af864f88b6d508fadbf9d752-shard-0",
-        "claimed_at": "2026-11-04T23:06:03.203892+00:00",
-        "lease_expires_at": "2026-11-05T05:06:03.203892+00:00",
-        "run_id": "41924666202"
       }
     },
     "835": {
@@ -58806,7 +58806,7 @@
       "last_plan": {
         "source_id": "6917654",
         "display_name": "King's Game SD CZ Dabing",
-        "planned_at": "2026-11-04T23:06:02.972131+00:00"
+        "planned_at": "2026-11-04T23:06:04.979317+00:00"
       }
     },
     "11599": {
@@ -99514,5 +99514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:06:03.347346+00:00"
+  "updated_at": "2026-11-04T23:06:05.348572+00:00"
 }
