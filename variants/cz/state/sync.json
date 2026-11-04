@@ -52659,17 +52659,19 @@
       }
     },
     "1609": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22613559",
+          "target_video_id": "30779993",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:35:47.946342+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22613559",
         "display_name": "In the Line of Fire 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:30:45.607590+00:00"
-      },
-      "claim": {
-        "worker_id": "351c32a586ae4bff982c4b0a0d15e4f7-shard-0",
-        "claimed_at": "2026-11-04T05:30:45.754698+00:00",
-        "lease_expires_at": "2026-11-04T11:30:45.754698+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779993",
       "prepared": {
@@ -89691,5 +89693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:30:51.716579+00:00"
+  "updated_at": "2026-11-04T05:35:47.946361+00:00"
 }
