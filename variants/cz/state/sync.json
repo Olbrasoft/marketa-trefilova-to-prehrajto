@@ -52599,13 +52599,6 @@
           "source_id": "30665907",
           "target_video_id": "30779695",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:16:57.283703+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30665907",
-          "target_video_id": "30779695",
-          "permanent": false,
           "attempted_at": "2026-11-04T05:48:46.303385+00:00"
         },
         {
@@ -52614,12 +52607,19 @@
           "target_video_id": "30779695",
           "permanent": false,
           "attempted_at": "2026-11-04T06:20:47.458880+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30665907",
+          "target_video_id": "30779695",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:52:53.201610+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30665907",
         "display_name": "April and the Twisted World (Avril et le monde truqué) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T06:20:46.096153+00:00"
+        "planned_at": "2026-11-04T06:52:51.866939+00:00"
       },
       "previous_target_id": "30779695",
       "prepared": {
@@ -53537,11 +53537,22 @@
       "last_plan": {
         "source_id": "31823281",
         "display_name": "Out of Africa 4K CZ Dabing",
-        "planned_at": "2026-11-04T06:52:48.991018+00:00"
+        "planned_at": "2026-11-04T06:52:51.967177+00:00"
+      },
+      "claim": {
+        "worker_id": "4b73b80c35654721884185837cd516dc-shard-0",
+        "claimed_at": "2026-11-04T06:52:52.213056+00:00",
+        "lease_expires_at": "2026-11-04T12:52:52.213056+00:00",
+        "run_id": "41760503575"
       }
     },
     "11640": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34721498",
+        "display_name": "Manhunter 1080p CZ Dabing",
+        "planned_at": "2026-11-04T06:52:52.020649+00:00"
+      }
     },
     "23852": {
       "attempts": []
@@ -90690,5 +90701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:52:50.029743+00:00"
+  "updated_at": "2026-11-04T06:52:53.201641+00:00"
 }
