@@ -59194,17 +59194,19 @@
       }
     },
     "1709": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34334800",
+          "target_video_id": "30797250",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:56:53.784569+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34334800",
         "display_name": "Salyut 7 (Салют-7) 4K CZ Dabing",
         "planned_at": "2026-11-04T23:44:27.776708+00:00"
-      },
-      "claim": {
-        "worker_id": "739292cf879e4500b02740eb08f6427c-shard-0",
-        "claimed_at": "2026-11-04T23:44:27.999628+00:00",
-        "lease_expires_at": "2026-11-05T05:44:27.999628+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797250",
       "prepared": {
@@ -100089,5 +100091,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:52:23.601680+00:00"
+  "updated_at": "2026-11-04T23:56:53.784589+00:00"
 }
