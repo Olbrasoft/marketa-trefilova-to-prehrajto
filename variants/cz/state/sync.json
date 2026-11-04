@@ -49843,17 +49843,19 @@
       }
     },
     "1830": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33736105",
+          "target_video_id": "30775998",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:40:49.108370+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33736105",
         "display_name": "21 Jump Street 1080p CZ Dabing",
         "planned_at": "2026-11-04T00:38:20.462939+00:00"
-      },
-      "claim": {
-        "worker_id": "f8d4027d5655448a8eb90bf4010e0e84-shard-0",
-        "claimed_at": "2026-11-04T00:38:20.579962+00:00",
-        "lease_expires_at": "2026-11-04T06:38:20.579962+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775998",
       "prepared": {
@@ -85876,5 +85878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:39:56.014677+00:00"
+  "updated_at": "2026-11-04T00:40:49.108385+00:00"
 }
