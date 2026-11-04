@@ -50578,17 +50578,19 @@
       }
     },
     "1640": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33077978",
+          "target_video_id": "30777300",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:13:04.882799+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33077978",
         "display_name": "A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Dabing",
         "planned_at": "2026-11-04T02:06:10.642738+00:00"
-      },
-      "claim": {
-        "worker_id": "5abc238d100f4d55b09de5adb1d9d2a9-shard-0",
-        "claimed_at": "2026-11-04T02:06:10.769151+00:00",
-        "lease_expires_at": "2026-11-04T08:06:10.769151+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30777300",
       "prepared": {
@@ -86799,5 +86801,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T02:13:03.571956+00:00"
+  "updated_at": "2026-11-04T02:13:04.882813+00:00"
 }
