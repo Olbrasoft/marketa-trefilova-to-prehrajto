@@ -58445,17 +58445,19 @@
       }
     },
     "10805": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_premium_required",
+          "source_id": "25621867",
+          "reason": "Authenticated fast download link is unavailable; premium login is required",
+          "permanent": false,
+          "attempted_at": "2026-11-04T19:23:46.858175+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25621867",
         "display_name": "El Cid 1080p CZ Dabing",
         "planned_at": "2026-11-04T19:23:43.299524+00:00"
-      },
-      "claim": {
-        "worker_id": "eecdceb12e7845c3ba37acd79a66ca76-shard-0",
-        "claimed_at": "2026-11-04T19:23:43.839860+00:00",
-        "lease_expires_at": "2026-11-05T01:23:43.839860+00:00",
-        "run_id": "41896263637"
       }
     },
     "33059": {
@@ -98441,5 +98443,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T19:23:45.084026+00:00"
+  "updated_at": "2026-11-04T19:23:46.858197+00:00"
 }
