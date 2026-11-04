@@ -56597,17 +56597,19 @@
       "attempts": []
     },
     "1622": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33768148",
+          "target_video_id": "30786177",
+          "permanent": false,
+          "attempted_at": "2026-11-04T13:20:06.110775+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33768148",
         "display_name": "Dogman (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-04T13:09:55.500041+00:00"
-      },
-      "claim": {
-        "worker_id": "cfbafbc110f241e9a2871df71ad7b21a-shard-0",
-        "claimed_at": "2026-11-04T13:09:55.729368+00:00",
-        "lease_expires_at": "2026-11-04T19:09:55.729368+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30786177",
       "prepared": {
@@ -95048,5 +95050,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T13:15:58.107059+00:00"
+  "updated_at": "2026-11-04T13:20:06.110799+00:00"
 }
