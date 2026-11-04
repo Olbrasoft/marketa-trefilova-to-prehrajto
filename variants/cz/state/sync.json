@@ -51468,17 +51468,19 @@
       }
     },
     "17853": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33070897",
+          "target_video_id": "30778690",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:58:54.843138+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33070897",
         "display_name": "The Princess and the Frog 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:55:54.183907+00:00"
-      },
-      "claim": {
-        "worker_id": "d13be90b1bd74c53b3949fb6564198eb-shard-0",
-        "claimed_at": "2026-11-04T03:55:54.302057+00:00",
-        "lease_expires_at": "2026-11-04T09:55:54.302057+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778690",
       "prepared": {
@@ -88146,5 +88148,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:57:26.902580+00:00"
+  "updated_at": "2026-11-04T03:58:54.843159+00:00"
 }
