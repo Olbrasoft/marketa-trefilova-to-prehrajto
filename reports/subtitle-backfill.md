@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T19:25:00.963293+00:00
+Poslední aktualizace (UTC): 2026-11-04T19:25:04.980356+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -73,7 +73,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvo
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | target_unavailable | 2026-11-04T18:03:41.220564+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-04T18:46:53.167140+00:00 |
 | [Bullet Train 4K CZ Titulky](https://prehraj.to/bullet-train-4k-cz-titulky-mkv/95fe5c110bdf5dec) (ID 30782256) | [Sdílej 26997444](https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv) | target_unavailable | 2026-11-04T08:27:19.962269+00:00 |
-| [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-03T14:14:13.285915+00:00 |
+| [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-04T19:25:04.980264+00:00 |
 | [Caught in the Net (V síti) 1080p CZ Titulky](https://prehraj.to/caught-in-the-net-v-siti-1080p-cz-titulky-mkv/05bb8abb52945318) (ID 30780491) | [Sdílej 31920665](https://sdilej.cz/31920665/v-siti-2020-cz.mkv) | target_unavailable | 2026-11-04T06:03:47.287721+00:00 |
 | [Contempt 720p CZ Titulky](https://prehraj.to/contempt-720p-cz-titulky-mkv/8811a8061b244296) (ID 30773730) | [Sdílej 29423074](https://sdilej.cz/29423074/pohrdani-1963-le-mepris-brigitte-bardot-fra.-cz-eng-ttl..mkv) | target_unavailable | 2026-11-03T21:48:16.712801+00:00 |
 | [Despicable Me 2 4K CZ Titulky](https://prehraj.to/despicable-me-2-4k-cz-titulky-mkv/6c17bbef278fd93a) (ID 30782803) | [Sdílej 27530340](https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv) | target_unavailable | 2026-11-04T09:07:32.781143+00:00 |
