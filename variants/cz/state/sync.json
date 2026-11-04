@@ -53327,7 +53327,7 @@
       "last_plan": {
         "source_id": "33925810",
         "display_name": "The Doors 4K CZ Dabing",
-        "planned_at": "2026-11-04T14:06:34.750743+00:00"
+        "planned_at": "2026-11-04T14:38:18.651009+00:00"
       },
       "previous_target_id": "30780604",
       "prepared": {
@@ -53335,6 +53335,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-04T06:13:57.574294+00:00",
         "relay_source_id": "33925810"
+      },
+      "claim": {
+        "worker_id": "57c5f7eb67c54f72991cce1350e5acdb-shard-0",
+        "claimed_at": "2026-11-04T14:38:19.140730+00:00",
+        "lease_expires_at": "2026-11-04T20:38:19.140730+00:00",
+        "run_id": "41820326732"
       }
     },
     "1790": {
@@ -57288,17 +57294,19 @@
       "attempts": []
     },
     "22964": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34703798",
+          "target_video_id": "30787911",
+          "permanent": false,
+          "attempted_at": "2026-11-04T14:38:19.565464+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34703798",
         "display_name": "Eight Men Out SD CZ Dabing",
         "planned_at": "2026-11-04T14:34:22.986649+00:00"
-      },
-      "claim": {
-        "worker_id": "271cf0309ea94a75939c5651b31ca046-shard-0",
-        "claimed_at": "2026-11-04T14:34:23.239555+00:00",
-        "lease_expires_at": "2026-11-04T20:34:23.239555+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787911",
       "prepared": {
@@ -57313,7 +57321,7 @@
       "last_plan": {
         "source_id": "34328378",
         "display_name": "Tri veteráni (Tři veteráni) SD CZ Dabing",
-        "planned_at": "2026-11-04T14:38:14.994845+00:00"
+        "planned_at": "2026-11-04T14:38:18.849706+00:00"
       }
     },
     "13194": {
@@ -96140,5 +96148,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T14:38:16.298525+00:00"
+  "updated_at": "2026-11-04T14:38:19.565483+00:00"
 }
