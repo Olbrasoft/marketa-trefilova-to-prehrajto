@@ -54016,17 +54016,19 @@
       }
     },
     "28364": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34160734",
+          "target_video_id": "30781821",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:17:47.683906+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34160734",
         "display_name": "Hoppers 4K CZ Dabing",
         "planned_at": "2026-11-04T07:52:56.582383+00:00"
-      },
-      "claim": {
-        "worker_id": "39ab7fa4e5ff41028b0793f05dcfd6a3-shard-0",
-        "claimed_at": "2026-11-04T07:52:56.721999+00:00",
-        "lease_expires_at": "2026-11-04T13:52:56.721999+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30781821",
       "prepared": {
@@ -91485,5 +91487,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:17:46.440684+00:00"
+  "updated_at": "2026-11-04T08:17:47.683935+00:00"
 }
