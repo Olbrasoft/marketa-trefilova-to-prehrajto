@@ -50038,17 +50038,19 @@
       }
     },
     "1780": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31299345",
+          "target_video_id": "30776233",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:05:24.969567+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31299345",
         "display_name": "King Kong (2005) 4K CZ Dabing",
         "planned_at": "2026-11-04T00:51:35.338857+00:00"
-      },
-      "claim": {
-        "worker_id": "0e94edc02f5443d6b7853ca27c5bb7bb-shard-0",
-        "claimed_at": "2026-11-04T00:51:35.469212+00:00",
-        "lease_expires_at": "2026-11-04T06:51:35.469212+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30776233",
       "prepared": {
@@ -86057,5 +86059,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:05:23.425715+00:00"
+  "updated_at": "2026-11-04T01:05:24.969585+00:00"
 }
