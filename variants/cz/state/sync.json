@@ -59302,17 +59302,19 @@
       "attempts": []
     },
     "20381": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33015205",
+          "target_video_id": "30797357",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:58:15.167919+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33015205",
         "display_name": "Apollo 13: Survival 1080p CZ Dabing",
         "planned_at": "2026-11-04T23:52:18.627524+00:00"
-      },
-      "claim": {
-        "worker_id": "609237579cb94c63aae63d065811da66-shard-0",
-        "claimed_at": "2026-11-04T23:52:18.851536+00:00",
-        "lease_expires_at": "2026-11-05T05:52:18.851536+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797357",
       "prepared": {
@@ -100141,5 +100143,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:57:19.122796+00:00"
+  "updated_at": "2026-11-04T23:58:15.167939+00:00"
 }
