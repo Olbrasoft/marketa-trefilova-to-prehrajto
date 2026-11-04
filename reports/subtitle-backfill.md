@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T21:24:12.124096+00:00
+Poslední aktualizace (UTC): 2026-11-04T21:24:15.316372+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -20,7 +20,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 35. Důvo
 | [A Clockwork Orange 4K CZ Titulky](https://prehraj.to/a-clockwork-orange-cz-titulky-mkv/4aea1f812e06a3cb) (ID 30608273) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T11:46:21.088640+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain) SD](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T22:13:34.022856+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T19:52:42.154078+00:00 |
-| [Bugonia 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30755358) | [Sdílej 32837902](https://sdilej.cz/32837902/bugonia-2025-1080p-10bit-bluray-8ch-x265-hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-04T18:46:34.006149+00:00 |
+| [Bugonia 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30755358) | [Sdílej 32837902](https://sdilej.cz/32837902/bugonia-2025-1080p-10bit-bluray-8ch-x265-hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-04T21:24:15.316301+00:00 |
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T04:21:50.715215+00:00 |
 | [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:24:23.170084+00:00 |
 | [Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky](https://prehraj.to/divided-we-fall-musime-si-pomahat-1080p-cz-titulky-mkv/1f0ad966ebe3ad14) (ID 30775107) | [Sdílej 33306409](https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-04T20:23:57.382149+00:00 |
