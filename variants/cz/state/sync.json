@@ -46647,7 +46647,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T11:59:04.989186+00:00"
+        "planned_at": "2026-11-04T12:29:57.220376+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -46655,6 +46655,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "42150d32335e44859584e42720be3a6d-shard-0",
+        "claimed_at": "2026-11-04T12:29:57.662823+00:00",
+        "lease_expires_at": "2026-11-04T18:29:57.662823+00:00",
+        "run_id": "41820326732"
       }
     },
     "20013": {
@@ -55792,17 +55798,23 @@
           "attempted_at": "2026-11-04T11:58:31.096048+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "8582217",
-        "display_name": "Soul Kitchen 1080p CZ Dabing",
-        "planned_at": "2026-11-04T12:29:55.392459+00:00"
-      },
       "previous_target_id": "30784967",
-      "prepared": {
+      "upload": {
         "target_video_id": "30784967",
-        "size_bytes": 2158961608,
-        "prepared_at": "2026-11-04T11:55:30.443238+00:00",
-        "relay_source_id": "8582217"
+        "display_name": "Soul Kitchen 1080p CZ Dabing",
+        "source_id": "8582217",
+        "source_url": "https://sdilej.cz/8582217/soul-kitchen-2009-bdrip-cz.mkv",
+        "source_filename": "Soul-Kitchen-2009-BDrip-CZ.mkv",
+        "size_bytes": 2200000000,
+        "width": 1920,
+        "height": 1038,
+        "audio_language": "cs",
+        "language_probability": 0.9604721069335938,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/soul-kitchen-1080p-cz-dabing-mkv/dab7f223f65acd19",
+        "uploaded_at": "2026-11-04T12:29:58.018956+00:00"
       }
     },
     "10763": {
@@ -56086,7 +56098,7 @@
       "last_plan": {
         "source_id": "32874911",
         "display_name": "Fist of Fury 4K CZ Dabing",
-        "planned_at": "2026-11-04T12:29:55.558995+00:00"
+        "planned_at": "2026-11-04T12:29:57.385190+00:00"
       }
     },
     "11592": {
@@ -94559,5 +94571,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:29:55.559013+00:00"
+  "updated_at": "2026-11-04T12:29:58.018973+00:00"
 }
