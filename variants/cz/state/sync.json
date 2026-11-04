@@ -58248,17 +58248,19 @@
       "attempts": []
     },
     "25417": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24652343",
+          "target_video_id": "30790833",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:14:34.891756+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24652343",
         "display_name": "Warm Springs 720p CZ Dabing",
         "planned_at": "2026-11-04T17:57:08.646244+00:00"
-      },
-      "claim": {
-        "worker_id": "1a92bf6421ef4764a3513130dfcba181-shard-0",
-        "claimed_at": "2026-11-04T17:57:08.801800+00:00",
-        "lease_expires_at": "2026-11-04T23:57:08.801800+00:00",
-        "run_id": "41857105355"
       },
       "previous_target_id": "30790833",
       "prepared": {
@@ -97779,5 +97781,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T18:13:53.258182+00:00"
+  "updated_at": "2026-11-04T18:14:34.891781+00:00"
 }
