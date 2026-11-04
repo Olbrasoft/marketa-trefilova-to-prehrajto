@@ -27277,13 +27277,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:52:34.458119+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-04T09:26:23.776074+00:00"
         },
         {
@@ -27292,6 +27285,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-04T10:32:44.442715+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:16:07.526036+00:00"
         }
       ],
       "last_plan": {
@@ -29519,7 +29519,7 @@
       "last_plan": {
         "source_id": "21165095",
         "display_name": "Rudy 1080p CZ Dabing",
-        "planned_at": "2026-11-04T10:32:36.172500+00:00"
+        "planned_at": "2026-11-04T11:16:07.039003+00:00"
       },
       "previous_target_id": "30722559",
       "prepared": {
@@ -29527,6 +29527,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
+      },
+      "claim": {
+        "worker_id": "c4e6b20e1530427ebb3290da3f60ef25-shard-0",
+        "claimed_at": "2026-11-04T11:16:07.304528+00:00",
+        "lease_expires_at": "2026-11-04T17:16:07.304528+00:00",
+        "run_id": "41791915876"
       }
     },
     "25113": {
@@ -55327,7 +55333,7 @@
       "last_plan": {
         "source_id": "32711732",
         "display_name": "Bitter Moon 1080p CZ Dabing",
-        "planned_at": "2026-11-04T11:15:28.876962+00:00"
+        "planned_at": "2026-11-04T11:16:07.172961+00:00"
       }
     },
     "31278": {
@@ -93335,5 +93341,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:15:28.876976+00:00"
+  "updated_at": "2026-11-04T11:16:07.526056+00:00"
 }
