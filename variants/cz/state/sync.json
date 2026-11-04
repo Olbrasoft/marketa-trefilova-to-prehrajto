@@ -56259,17 +56259,19 @@
       "attempts": []
     },
     "22803": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32840831",
+          "target_video_id": "30785596",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:43:07.606447+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32840831",
         "display_name": "Mask 1080p CZ Dabing",
         "planned_at": "2026-11-04T12:38:28.095338+00:00"
-      },
-      "claim": {
-        "worker_id": "389fe8c77ef64dc5ad3de118af58bc03-shard-0",
-        "claimed_at": "2026-11-04T12:38:28.337135+00:00",
-        "lease_expires_at": "2026-11-04T18:38:28.337135+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785596",
       "prepared": {
@@ -94737,5 +94739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:42:02.176944+00:00"
+  "updated_at": "2026-11-04T12:43:07.606467+00:00"
 }
