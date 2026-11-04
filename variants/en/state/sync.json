@@ -18831,17 +18831,19 @@
       "attempts": []
     },
     "27030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19264172",
+          "target_video_id": "30778607",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:53:36.541376+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19264172",
         "display_name": "The Wisdom of Trauma 1080p CZ Titulky",
         "planned_at": "2026-11-04T03:48:34.860204+00:00"
-      },
-      "claim": {
-        "worker_id": "ec3e76897eae44d08167da5fd009520b-shard-0",
-        "claimed_at": "2026-11-04T03:48:34.897439+00:00",
-        "lease_expires_at": "2026-11-04T09:48:34.897439+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778607",
       "prepared": {
@@ -57511,5 +57513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:50:00.349099+00:00"
+  "updated_at": "2026-11-04T03:53:36.541391+00:00"
 }
