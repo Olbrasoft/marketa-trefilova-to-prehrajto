@@ -59157,17 +59157,19 @@
       "attempts": []
     },
     "34025": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716907",
+          "target_video_id": "30797245",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:45:43.381585+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716907",
         "display_name": "Sunflower (I girasoli) (1970) SD CZ Dabing",
         "planned_at": "2026-11-04T23:43:53.296502+00:00"
-      },
-      "claim": {
-        "worker_id": "56df9e55e9b9457da3851771df8300e1-shard-0",
-        "claimed_at": "2026-11-04T23:43:53.518037+00:00",
-        "lease_expires_at": "2026-11-05T05:43:53.518037+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797245",
       "prepared": {
@@ -100017,5 +100019,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:44:31.913175+00:00"
+  "updated_at": "2026-11-04T23:45:43.381605+00:00"
 }
