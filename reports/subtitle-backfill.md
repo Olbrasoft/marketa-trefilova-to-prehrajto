@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T18:47:24.261387+00:00
+Poslední aktualizace (UTC): 2026-11-04T18:47:27.978103+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -106,7 +106,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 75. Důvod
 | [Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky](https://prehraj.to/mission-impossible-rogue-nation-mission-impossible-rogue-nation-1080p-cz-titulky-mkv/3e9675d878ecb622) (ID 30749326) | [Sdílej 18594920](https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv) | target_unavailable | 2026-11-03T13:15:41.878475+00:00 |
 | [No Time to Die 4K CZ Titulky](https://prehraj.to/no-time-to-die-4k-cz-titulky-mkv/444aed957ec611d7) (ID 30782648) | [Sdílej 34673696](https://sdilej.cz/34673696/james-bond-neni-cas-zemrit-2021-uhd.mkv) | target_unavailable | 2026-11-04T08:57:28.629622+00:00 |
 | [North Face (Nordwand) 720p CZ Titulky](https://prehraj.to/north-face-nordwand-720p-cz-titulky-mkv/62f0d8df805960ed) (ID 30778473) | [Sdílej 6111113](https://sdilej.cz/6111113/nordwand-north-face-2008-.brrip.h264.aac-ceske-titulky.mkv) | target_unavailable | 2026-11-04T03:42:19.186557+00:00 |
-| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T13:06:46.100930+00:00 |
+| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-04T18:47:27.978028+00:00 |
 | [Ordinary Angels 1440p CZ Titulky](https://prehraj.to/ordinary-angels-1440p-cz-titulky-mkv/7d575aeef6e5c288) (ID 30777016) | [Sdílej 28887116](https://sdilej.cz/28887116/ordinary-angels-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-04T01:51:03.732033+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-04T18:47:20.516119+00:00 |
 | [Predator: Killer of Killers 4K CZ Titulky](https://prehraj.to/predator-killer-of-killers-4k-cz-titulky-mkv/74e3a04253b71303) (ID 30770514) | [Sdílej 31244377](https://sdilej.cz/31244377/predator-zabijak-zabijaku-2025-akcni-animovany-usa-cztit-2160p.mkv) | target_unavailable | 2026-11-03T18:06:15.866283+00:00 |
