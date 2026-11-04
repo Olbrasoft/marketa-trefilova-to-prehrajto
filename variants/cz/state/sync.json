@@ -50870,17 +50870,19 @@
       }
     },
     "12173": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34103481",
+          "target_video_id": "30777718",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:39:32.619314+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34103481",
         "display_name": "Natural Born Killers 1080p CZ Dabing",
         "planned_at": "2026-11-04T02:35:29.271357+00:00"
-      },
-      "claim": {
-        "worker_id": "fabb178a2f134ec49110dd79c8b0b20d-shard-0",
-        "claimed_at": "2026-11-04T02:35:29.387622+00:00",
-        "lease_expires_at": "2026-11-04T08:35:29.387622+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30777718",
       "prepared": {
@@ -87319,5 +87321,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T02:38:15.038583+00:00"
+  "updated_at": "2026-11-04T02:39:32.619330+00:00"
 }
