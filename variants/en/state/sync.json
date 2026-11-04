@@ -18559,17 +18559,19 @@
       "attempts": []
     },
     "1093": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28887116",
+          "target_video_id": "30777016",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:11:01.385766+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28887116",
         "display_name": "Ordinary Angels 1440p CZ Titulky",
         "planned_at": "2026-11-04T01:44:49.766258+00:00"
-      },
-      "claim": {
-        "worker_id": "da43e1222cf54bda92ce05e50e7e0818-shard-0",
-        "claimed_at": "2026-11-04T01:44:49.796075+00:00",
-        "lease_expires_at": "2026-11-04T07:44:49.796075+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30777016",
       "prepared": {
@@ -56845,5 +56847,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T02:05:59.539647+00:00"
+  "updated_at": "2026-11-04T02:11:01.385776+00:00"
 }
