@@ -50753,17 +50753,19 @@
       }
     },
     "1812": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34159102",
+          "target_video_id": "30777553",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:32:48.927884+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34159102",
         "display_name": "Sunshine 4K CZ Dabing",
         "planned_at": "2026-11-04T02:26:42.931963+00:00"
-      },
-      "claim": {
-        "worker_id": "36eba6f599b54a27b88f623824651421-shard-0",
-        "claimed_at": "2026-11-04T02:26:43.045995+00:00",
-        "lease_expires_at": "2026-11-04T08:26:43.045995+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30777553",
       "prepared": {
@@ -87233,5 +87235,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T02:31:05.379150+00:00"
+  "updated_at": "2026-11-04T02:32:48.927896+00:00"
 }
