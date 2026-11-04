@@ -51241,17 +51241,19 @@
       }
     },
     "13394": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34037753",
+          "target_video_id": "30778403",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:30:51.403776+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34037753",
         "display_name": "Layer Cake 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:27:56.335084+00:00"
-      },
-      "claim": {
-        "worker_id": "d312a70174af437ba38561818bf6ac2a-shard-0",
-        "claimed_at": "2026-11-04T03:27:56.475146+00:00",
-        "lease_expires_at": "2026-11-04T09:27:56.475146+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778403",
       "prepared": {
@@ -87943,5 +87945,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:28:35.238032+00:00"
+  "updated_at": "2026-11-04T03:30:51.403798+00:00"
 }
