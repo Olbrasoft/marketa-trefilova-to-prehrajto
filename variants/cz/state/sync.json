@@ -55790,17 +55790,19 @@
       }
     },
     "16373": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30700155",
+          "target_video_id": "30785072",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:12:49.657463+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30700155",
         "display_name": "Stan and Ollie (Stan & Ollie) 1080p CZ Dabing",
         "planned_at": "2026-11-04T12:01:34.164851+00:00"
-      },
-      "claim": {
-        "worker_id": "e1a02c518a1f4883b1abddf2270488a7-shard-0",
-        "claimed_at": "2026-11-04T12:01:34.394788+00:00",
-        "lease_expires_at": "2026-11-04T18:01:34.394788+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785072",
       "prepared": {
@@ -94078,5 +94080,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:05:43.292706+00:00"
+  "updated_at": "2026-11-04T12:12:49.657483+00:00"
 }
