@@ -53634,17 +53634,19 @@
       }
     },
     "23852": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13400647",
+          "target_video_id": "30781126",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:03:45.433318+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13400647",
         "display_name": "The Rainmaker (1997) 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:59:10.700722+00:00"
-      },
-      "claim": {
-        "worker_id": "f1be7746d485403b93b5d4f6606373d7-shard-0",
-        "claimed_at": "2026-11-04T06:59:10.882612+00:00",
-        "lease_expires_at": "2026-11-04T12:59:10.882612+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30781126",
       "prepared": {
@@ -90816,5 +90818,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:02:02.324157+00:00"
+  "updated_at": "2026-11-04T07:03:45.433338+00:00"
 }
