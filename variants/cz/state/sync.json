@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-04T18:09:11.434262+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-04T18:46:20.052318+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-04T22:34:40.327489+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:06:38.840331+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "2a83a15ccebf4b77a695c1c3b5d6ee87-shard-0",
-        "claimed_at": "2026-11-04T23:06:35.992691+00:00",
-        "lease_expires_at": "2026-11-05T05:06:35.992691+00:00",
-        "run_id": "41924666202"
       }
     },
     "54": {
@@ -17311,7 +17305,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-04T22:34:41.832412+00:00"
+        "planned_at": "2026-11-04T23:06:37.661292+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17319,6 +17313,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "c39f5eed57c343609f8b3429a756be44-shard-0",
+        "claimed_at": "2026-11-04T23:06:38.067014+00:00",
+        "lease_expires_at": "2026-11-05T05:06:38.067014+00:00",
+        "run_id": "41924666202"
       }
     },
     "23132": {
@@ -58806,7 +58806,7 @@
       "last_plan": {
         "source_id": "6917654",
         "display_name": "King's Game SD CZ Dabing",
-        "planned_at": "2026-11-04T23:06:35.764143+00:00"
+        "planned_at": "2026-11-04T23:06:37.843103+00:00"
       }
     },
     "11599": {
@@ -99514,5 +99514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:06:36.136157+00:00"
+  "updated_at": "2026-11-04T23:06:38.840353+00:00"
 }
