@@ -319,31 +319,31 @@ Attach subtitles only after target processing has finished.
 | Young Woman and the Sea 1080p CZ Titulky | 30743095 | https://sdilej.cz/29910483/young-woman-and-the-sea-2024-divka-a-more-128-min-fhd-x265-10b-5.1-en-.mkv | Complete: Czech subtitles verified |
 | Twin Peaks: The Missing Pieces 1080p CZ Titulky | 30744845 | https://sdilej.cz/33200807/twin-peaks-the-missing-pieces-2014-fhd-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Volhynia (Wołyń) 720p CZ Titulky | 30745166 | https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv | Extract Czech track from exact source after processing |
-| Ballon 1080p CZ Titulky | 30745387 | https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
-| Spider-Man 1080p CZ Titulky | 30746380 | https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv | Extract Czech track from exact source after processing |
+| Ballon 1080p CZ Titulky | 30745387 | https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Complete: Czech subtitles verified |
+| Spider-Man 1080p CZ Titulky | 30746380 | https://sdilej.cz/16303284/spider-man-cz-2002-4k-remastered-1080p-bluray.mkv | Complete: Czech subtitles verified |
 | Scum 1080p CZ Titulky | 30746417 | https://sdilej.cz/32101301/scum.1979.1080p.bluray.flac.x264-majo.mkv | Complete: Czech subtitles verified |
-| Looper 1080p CZ Titulky | 30746833 | https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv | Extract Czech track from exact source after processing |
+| Looper 1080p CZ Titulky | 30746833 | https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv | Complete: Czech subtitles verified |
 | Juno 1080p CZ Titulky | 30747251 | https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv | Extract Czech track from exact source after processing |
-| Ready Player One 1080p CZ Titulky | 30750049 | https://sdilej.cz/14502469/ready-player-one-hra-zacina-2018-m1080p-web-dl-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky | 30749326 | https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv | Extract Czech track from exact source after processing |
-| Weapons 1440p CZ Titulky | 30752783 | https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
-| Furiosa: A Mad Max Saga 4K CZ Titulky | 30752813 | https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
-| Anora 4K CZ Titulky | 30753012 | https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| Ready Player One 1080p CZ Titulky | 30750049 | https://sdilej.cz/14502469/ready-player-one-hra-zacina-2018-m1080p-web-dl-dd5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
+| Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky | 30749326 | https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv | Complete: Czech subtitles verified |
+| Weapons 1440p CZ Titulky | 30752783 | https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
+| Furiosa: A Mad Max Saga 4K CZ Titulky | 30752813 | https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv | Complete: Czech subtitles verified |
+| Anora 4K CZ Titulky | 30753012 | https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Conclave 4K CZ Titulky | 30753456 | https://sdilej.cz/30205491/conclave-2024-cztit-2160p.mkv | Complete: Czech subtitles verified |
 | A History of Violence 1080p CZ Titulky | 30753470 | https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv | Complete: Czech subtitles verified |
 | The Talented Mr. Ripley 1080p CZ Titulky | 30753582 | https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv | Complete: Czech subtitles verified |
-| Army of Darkness 1080p CZ Titulky | 30755736 | https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Army of Darkness 1080p CZ Titulky | 30755736 | https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Coach Carter 1080p CZ Titulky | 30756369 | https://sdilej.cz/26231457/coach-carter-2005.mkv | Complete: Czech subtitles verified |
-| The Rocky Horror Picture Show 1080p CZ Titulky | 30756513 | https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv | Extract Czech track from exact source after processing |
-| Frequency 1080p CZ Titulky | 30759792 | https://sdilej.cz/14524461/frekvence.mkv | Extract Czech track from exact source after processing |
-| Tetris 4K CZ Titulky | 30761160 | https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| The Rocky Horror Picture Show 1080p CZ Titulky | 30756513 | https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv | Complete: Czech subtitles verified |
+| Frequency 1080p CZ Titulky | 30759792 | https://sdilej.cz/14524461/frekvence.mkv | Complete: Czech subtitles verified |
+| Tetris 4K CZ Titulky | 30761160 | https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv | Complete: Czech subtitles verified |
 | The Wailing (Gokseong) 1080p CZ Titulky | 30761483 | https://sdilej.cz/33807503/kvileni-2016-1080p-cz-titulky-.mkv | Complete: Czech subtitles verified |
-| The Wonderful Story of Henry Sugar 1080p CZ Titulky | 30763706 | https://sdilej.cz/26884588/the.wonderful.story.of.henry.sugar.2023.1080p.web.h264-ethel-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Wonderful Story of Henry Sugar 1080p CZ Titulky | 30763706 | https://sdilej.cz/26884588/the.wonderful.story.of.henry.sugar.2023.1080p.web.h264-ethel-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Mid90s 720p CZ Titulky | 30761152 | https://sdilej.cz/31920680/mid90s-2018-cz-titulky-brdrip.720p.dd5.1.x264-mg.okay-.mkv | Complete: Czech subtitles verified |
-| Burning (Beoning) (2018) 720p CZ Titulky | 30761347 | https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv | Extract Czech track from exact source after processing |
+| Burning (Beoning) (2018) 720p CZ Titulky | 30761347 | https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv | Complete: Czech subtitles verified |
 | Bullitt 720p CZ Titulky | 30763383 | https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv | Extract Czech track from exact source after processing |
-| Marathon Man 1080p CZ Titulky | 30763573 | https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv | Extract Czech track from exact source after processing |
-| High Plains Drifter 1080p CZ Titulky | 30763637 | https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv | Extract Czech track from exact source after processing |
+| Marathon Man 1080p CZ Titulky | 30763573 | https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv | Complete: Czech subtitles verified |
+| High Plains Drifter 1080p CZ Titulky | 30763637 | https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv | Complete: Czech subtitles verified |
 | 5 Centimeters Per Second (Byôsoku 5 senchimêtoru) 1080p CZ Titulky | 30768804 | https://sdilej.cz/27114239/5-centimeters-per-second-2007-1080p-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Predator: Killer of Killers 4K CZ Titulky | 30770514 | https://sdilej.cz/31244377/predator-zabijak-zabijaku-2025-akcni-animovany-usa-cztit-2160p.mkv | Extract Czech track from exact source after processing |
 | Everything Is Illuminated 720p CZ Titulky | 30770852 | https://sdilej.cz/28421392/naprosto-osvetleno-2005-everything-is-illuminated-eng-dab.-eng-cz-ttl..mkv | Extract Czech track from exact source after processing |
