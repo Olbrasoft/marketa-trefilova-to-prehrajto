@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T03:11:55.342216+00:00
+Poslední aktualizace (UTC): 2026-11-04T03:11:57.145279+00:00
 
 Zkontrolováno videí: 358. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 45, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -86,6 +86,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Důvod
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-03T13:07:04.619920+00:00 |
 | [Kill 4K CZ Titulky](https://prehraj.to/kill-4k-cz-titulky-mkv/57d1bd1d32d58816) (ID 30771978) | [Sdílej 29236159](https://sdilej.cz/29236159/boy-kills-world-2023-hd-2160p-sdr-dd-5.1-ang-cz-tit.mkv) | target_unavailable | 2026-11-03T20:01:45.277348+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-03T13:06:53.117771+00:00 |
+| [La Reine Margot 720p CZ Titulky](https://prehraj.to/la-reine-margot-720p-cz-titulky-mkv/f43030d73dea7b35) (ID 30778234) | [Sdílej 34130894](https://sdilej.cz/34130894/kralovna-margot-1994-queen-margot-czsubs-bluray-c7d3a6.mkv) | target_unavailable | 2026-11-04T03:11:57.145170+00:00 |
 | [Looper 1080p CZ Titulky](https://prehraj.to/looper-1080p-cz-titulky-mkv/7c39ad7aa9f0ee8e) (ID 30746833) | [Sdílej 19161782](https://sdilej.cz/19161782/looper-2012-1080p.bluray-dts.x264-dabing-cz-eng-titulky-cz-eng.mkv) | target_unavailable | 2026-11-03T13:15:31.384401+00:00 |
 | [Marathon Man 1080p CZ Titulky](https://prehraj.to/marathon-man-1080p-cz-titulky-mkv/0a907ba24f3e8f97) (ID 30763573) | [Sdílej 20877545](https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv) | target_unavailable | 2026-11-03T14:24:18.994403+00:00 |
 | [Miss Americana 1080p CZ Titulky](https://prehraj.to/miss-americana-1080p-cz-titulky-mkv/ca4f884d8573558e) (ID 30776455) | [Sdílej 13059506](https://sdilej.cz/13059506/taylor-swift-miss-americana-2020-1080p-cz-tit..mkv) | target_unavailable | 2026-11-04T01:10:51.793874+00:00 |
