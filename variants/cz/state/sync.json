@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-04T10:49:27.763932+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-04T11:24:17.001759+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-04T11:54:27.501815+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:25:34.406682+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "90d47948fb0f4bbd89c699cf6757a546-shard-0",
-        "claimed_at": "2026-11-04T12:25:31.422895+00:00",
-        "lease_expires_at": "2026-11-04T18:25:31.422895+00:00",
-        "run_id": "41820326732"
       }
     },
     "54": {
@@ -1092,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "f61bba443825464a9fffaf3476e6aadc-shard-0",
+        "claimed_at": "2026-11-04T12:25:33.568456+00:00",
+        "lease_expires_at": "2026-11-04T18:25:33.568456+00:00",
+        "run_id": "41820326732"
       }
     },
     "52": {
@@ -17311,7 +17311,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-04T11:54:33.467612+00:00"
+        "planned_at": "2026-11-04T12:25:33.676048+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17319,6 +17319,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "96b8b71b31dd4f92a042173c6f8bba3e-shard-0",
+        "claimed_at": "2026-11-04T12:25:34.240707+00:00",
+        "lease_expires_at": "2026-11-04T18:25:34.240707+00:00",
+        "run_id": "41820326732"
       }
     },
     "23132": {
@@ -56004,7 +56010,7 @@
       "last_plan": {
         "source_id": "17856177",
         "display_name": "Wish Dragon 1080p CZ Dabing",
-        "planned_at": "2026-11-04T12:25:31.783937+00:00"
+        "planned_at": "2026-11-04T12:25:33.840276+00:00"
       }
     },
     "21440": {
@@ -94495,5 +94501,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:25:31.783955+00:00"
+  "updated_at": "2026-11-04T12:25:34.406701+00:00"
 }
