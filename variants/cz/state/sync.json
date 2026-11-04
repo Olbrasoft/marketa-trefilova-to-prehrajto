@@ -8549,13 +8549,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-03T23:56:27.817706+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-04T00:26:56.643488+00:00"
         },
         {
@@ -8564,12 +8557,19 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-04T01:04:40.400252+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:42:02.798936+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17777440",
         "display_name": "Friends: The Reunion 1080p CZ Dabing",
-        "planned_at": "2026-11-04T01:04:37.731915+00:00"
+        "planned_at": "2026-11-04T01:42:01.548134+00:00"
       },
       "previous_target_id": "30631282",
       "prepared": {
@@ -50381,14 +50381,36 @@
       "last_plan": {
         "source_id": "30656179",
         "display_name": "Insomnia 1080p CZ Dabing",
-        "planned_at": "2026-11-04T01:41:56.627530+00:00"
+        "planned_at": "2026-11-04T01:42:01.636253+00:00"
+      },
+      "claim": {
+        "worker_id": "f99b31f1433f407c853073cee9ac66e2-shard-0",
+        "claimed_at": "2026-11-04T01:42:01.892167+00:00",
+        "lease_expires_at": "2026-11-04T07:42:01.892167+00:00",
+        "run_id": "41730144184"
       }
     },
     "1803": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32908053",
+        "display_name": "A.I. Artificial Intelligence 4K CZ Dabing",
+        "planned_at": "2026-11-04T01:42:01.681671+00:00"
+      },
+      "claim": {
+        "worker_id": "927317cdaa8946d595fd059ba219bcb3-shard-0",
+        "claimed_at": "2026-11-04T01:42:01.938568+00:00",
+        "lease_expires_at": "2026-11-04T07:42:01.938568+00:00",
+        "run_id": "41730144184"
+      }
     },
     "1814": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29132979",
+        "display_name": "A Bug's Life 1080p CZ Dabing",
+        "planned_at": "2026-11-04T01:42:01.730304+00:00"
+      }
     },
     "1763": {
       "attempts": []
@@ -86595,5 +86617,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:41:59.606919+00:00"
+  "updated_at": "2026-11-04T01:42:02.798950+00:00"
 }
