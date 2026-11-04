@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-04T15:40:47.137413+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-04T16:22:04.603239+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-04T16:54:41.188576+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-04T17:29:40.162400+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "beee9a8d22724cd7b038fd6103997bce-shard-0",
-        "claimed_at": "2026-11-04T17:29:37.149485+00:00",
-        "lease_expires_at": "2026-11-04T23:29:37.149485+00:00",
-        "run_id": "41857105355"
       }
     },
     "108": {
@@ -2116,7 +2110,7 @@
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-11-04T16:54:42.997893+00:00"
+        "planned_at": "2026-11-04T17:29:39.824319+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -2124,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "17304cedf3f9444d8c5f73c4638db755-shard-0",
+        "claimed_at": "2026-11-04T17:29:39.934147+00:00",
+        "lease_expires_at": "2026-11-04T23:29:39.934147+00:00",
+        "run_id": "41857105355"
       }
     },
     "21690": {
@@ -62118,5 +62118,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T17:29:37.861733+00:00"
+  "updated_at": "2026-11-04T17:29:40.162411+00:00"
 }
