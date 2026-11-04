@@ -373,3 +373,4 @@ Attach subtitles only after target processing has finished.
 | Bullet Train 4K CZ Titulky | 30782256 | https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv | Extract Czech track from exact source after processing |
 | No Time to Die 4K CZ Titulky | 30782648 | https://sdilej.cz/34673696/james-bond-neni-cas-zemrit-2021-uhd.mkv | Extract Czech track from exact source after processing |
 | Despicable Me 2 4K CZ Titulky | 30782803 | https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv | Extract Czech track from exact source after processing |
+| Fast Five 1080p CZ Titulky | 30783150 | https://sdilej.cz/27635276/rychle-a-zbesile-5-hd.mkv | Extract Czech track from exact source after processing |
