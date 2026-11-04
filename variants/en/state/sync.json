@@ -17847,13 +17847,6 @@
           "source_id": "28421392",
           "target_video_id": "30770852",
           "permanent": false,
-          "attempted_at": "2026-11-04T01:14:11.833987+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28421392",
-          "target_video_id": "30770852",
-          "permanent": false,
           "attempted_at": "2026-11-04T01:44:20.516761+00:00"
         },
         {
@@ -17862,6 +17855,13 @@
           "target_video_id": "30770852",
           "permanent": false,
           "attempted_at": "2026-11-04T02:21:01.250839+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28421392",
+          "target_video_id": "30770852",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:12:02.383932+00:00"
         }
       ],
       "last_plan": {
@@ -17940,7 +17940,7 @@
       "last_plan": {
         "source_id": "20752549",
         "display_name": "Zatōichi (座頭市) 1080p CZ Titulky",
-        "planned_at": "2026-11-04T02:21:02.969975+00:00"
+        "planned_at": "2026-11-04T03:12:01.617697+00:00"
       },
       "previous_target_id": "30771751",
       "prepared": {
@@ -17948,6 +17948,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-03T19:33:18.817678+00:00",
         "relay_source_id": "20752549"
+      },
+      "claim": {
+        "worker_id": "44d70af9183349b9862a00346d353ea6-shard-0",
+        "claimed_at": "2026-11-04T03:12:01.713614+00:00",
+        "lease_expires_at": "2026-11-04T09:12:01.713614+00:00",
+        "run_id": "41760503575"
       }
     },
     "32857": {
@@ -57155,5 +57161,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:11:59.970150+00:00"
+  "updated_at": "2026-11-04T03:12:02.383955+00:00"
 }
