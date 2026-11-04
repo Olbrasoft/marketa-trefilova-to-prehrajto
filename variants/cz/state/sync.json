@@ -50840,17 +50840,19 @@
       }
     },
     "19570": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26231098",
+          "target_video_id": "30777668",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:38:03.800595+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26231098",
         "display_name": "The Road 1080p CZ Dabing",
         "planned_at": "2026-11-04T02:33:04.096042+00:00"
-      },
-      "claim": {
-        "worker_id": "0b176de16927481ca3ce5079a1ed0267-shard-0",
-        "claimed_at": "2026-11-04T02:33:04.214060+00:00",
-        "lease_expires_at": "2026-11-04T08:33:04.214060+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30777668",
       "prepared": {
@@ -87305,5 +87307,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T02:35:33.147076+00:00"
+  "updated_at": "2026-11-04T02:38:03.800609+00:00"
 }
