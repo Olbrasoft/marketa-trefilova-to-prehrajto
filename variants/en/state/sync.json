@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-04T01:21:39.498744+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-04T01:53:54.403550+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-04T02:25:26.367121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:12:35.206851+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "328500f6d3084cd98c7a01db1ba2f9fa-shard-0",
-        "claimed_at": "2026-11-04T03:12:32.839286+00:00",
-        "lease_expires_at": "2026-11-04T09:12:32.839286+00:00",
-        "run_id": "41760503575"
       }
     },
     "108": {
@@ -18016,7 +18010,7 @@
       "last_plan": {
         "source_id": "29236159",
         "display_name": "Kill 4K CZ Titulky",
-        "planned_at": "2026-11-04T02:25:27.907001+00:00"
+        "planned_at": "2026-11-04T03:12:34.671361+00:00"
       },
       "previous_target_id": "30771978",
       "prepared": {
@@ -18024,6 +18018,12 @@
         "size_bytes": 10200000000,
         "prepared_at": "2026-11-03T19:59:17.338855+00:00",
         "relay_source_id": "29236159"
+      },
+      "claim": {
+        "worker_id": "abbb922707eb42a5b816b54ef51bfcb2-shard-0",
+        "claimed_at": "2026-11-04T03:12:34.770617+00:00",
+        "lease_expires_at": "2026-11-04T09:12:34.770617+00:00",
+        "run_id": "41760503575"
       }
     },
     "24642": {
@@ -57161,5 +57161,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:12:32.939294+00:00"
+  "updated_at": "2026-11-04T03:12:35.206873+00:00"
 }
