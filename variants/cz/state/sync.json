@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-04T03:13:21.132099+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-04T03:44:55.701229+00:00"
         },
         {
@@ -12324,6 +12317,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-04T04:15:31.606163+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:45:39.064921+00:00"
         }
       ],
       "last_plan": {
@@ -12337,12 +12337,6 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-10-30T23:09:05.633345+00:00",
         "relay_source_id": "32043793"
-      },
-      "claim": {
-        "worker_id": "8dcc6593ce35424c9c43893f045b1355-shard-0",
-        "claimed_at": "2026-11-04T04:45:37.089085+00:00",
-        "lease_expires_at": "2026-11-04T10:45:37.089085+00:00",
-        "run_id": "41760503575"
       }
     },
     "11516": {
@@ -16820,7 +16814,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-04T04:15:32.884137+00:00"
+        "planned_at": "2026-11-04T04:45:38.526396+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16828,6 +16822,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "e3cde85c31794b358a11aad505b91b52-shard-0",
+        "claimed_at": "2026-11-04T04:45:38.739258+00:00",
+        "lease_expires_at": "2026-11-04T10:45:38.739258+00:00",
+        "run_id": "41760503575"
       }
     },
     "614": {
@@ -52063,7 +52063,7 @@
       "last_plan": {
         "source_id": "6077612",
         "display_name": "Chasing Amy SD CZ Dabing",
-        "planned_at": "2026-11-04T04:45:36.970521+00:00"
+        "planned_at": "2026-11-04T04:45:38.620356+00:00"
       }
     },
     "23779": {
@@ -88886,5 +88886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:45:37.289323+00:00"
+  "updated_at": "2026-11-04T04:45:39.064943+00:00"
 }
