@@ -52866,17 +52866,19 @@
       "attempts": []
     },
     "1802": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34477177",
+          "target_video_id": "30780305",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:53:55.876904+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34477177",
         "display_name": "St. Vincent 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:49:21.974081+00:00"
-      },
-      "claim": {
-        "worker_id": "be1d7f1304df49089fa3777ae337f979-shard-0",
-        "claimed_at": "2026-11-04T05:49:22.092508+00:00",
-        "lease_expires_at": "2026-11-04T11:49:22.092508+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780305",
       "prepared": {
@@ -89892,5 +89894,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:51:37.860705+00:00"
+  "updated_at": "2026-11-04T05:53:55.876925+00:00"
 }
