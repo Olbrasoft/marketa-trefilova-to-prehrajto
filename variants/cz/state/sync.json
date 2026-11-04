@@ -57905,17 +57905,19 @@
       }
     },
     "24624": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6163463",
+          "target_video_id": "30789715",
+          "permanent": false,
+          "attempted_at": "2026-11-04T16:35:15.357999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6163463",
         "display_name": "Lantana SD CZ Dabing",
         "planned_at": "2026-11-04T16:30:57.672569+00:00"
-      },
-      "claim": {
-        "worker_id": "adb98f022d0045b692103f24c3e1c38d-shard-0",
-        "claimed_at": "2026-11-04T16:30:57.828567+00:00",
-        "lease_expires_at": "2026-11-04T22:30:57.828567+00:00",
-        "run_id": "41857105355"
       },
       "previous_target_id": "30789715",
       "prepared": {
@@ -97208,5 +97210,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T16:31:01.729557+00:00"
+  "updated_at": "2026-11-04T16:35:15.358015+00:00"
 }
