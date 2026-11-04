@@ -19269,17 +19269,19 @@
       "attempts": []
     },
     "1452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7325671",
+          "target_video_id": "30781802",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:54:01.658266+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7325671",
         "display_name": "Split 1080p CZ Titulky",
         "planned_at": "2026-11-04T07:51:16.679993+00:00"
-      },
-      "claim": {
-        "worker_id": "eccc80f8c2bf49a486e02fc57055e3e1-shard-0",
-        "claimed_at": "2026-11-04T07:51:16.717803+00:00",
-        "lease_expires_at": "2026-11-04T13:51:16.717803+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30781802",
       "prepared": {
@@ -58765,5 +58767,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:51:20.292866+00:00"
+  "updated_at": "2026-11-04T07:54:01.658294+00:00"
 }
