@@ -56655,17 +56655,19 @@
       }
     },
     "27231": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30820606",
+          "target_video_id": "30786343",
+          "permanent": false,
+          "attempted_at": "2026-11-04T13:33:22.504142+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30820606",
         "display_name": "Justice League: Crisis on Two Earths 1080p CZ Dabing",
         "planned_at": "2026-11-04T13:15:54.479949+00:00"
-      },
-      "claim": {
-        "worker_id": "c932c8fca95743959a3a32f6e17a1a60-shard-0",
-        "claimed_at": "2026-11-04T13:15:54.741172+00:00",
-        "lease_expires_at": "2026-11-04T19:15:54.741172+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30786343",
       "prepared": {
@@ -95372,5 +95374,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T13:30:31.381941+00:00"
+  "updated_at": "2026-11-04T13:33:22.504163+00:00"
 }
