@@ -49822,17 +49822,19 @@
       }
     },
     "1837": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32455120",
+          "target_video_id": "30775842",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:42:25.782751+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32455120",
         "display_name": "The Matrix Reloaded 4K CZ Dabing",
         "planned_at": "2026-11-04T00:27:57.259809+00:00"
-      },
-      "claim": {
-        "worker_id": "acff6d6f430d4a1483c35722c787e23c-shard-0",
-        "claimed_at": "2026-11-04T00:27:57.370438+00:00",
-        "lease_expires_at": "2026-11-04T06:27:57.370438+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775842",
       "prepared": {
@@ -85883,5 +85885,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:40:52.883859+00:00"
+  "updated_at": "2026-11-04T00:42:25.782765+00:00"
 }
