@@ -55649,17 +55649,19 @@
       }
     },
     "11041": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32960670",
+          "target_video_id": "30784898",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:56:58.084024+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32960670",
         "display_name": "The Andromeda Strain 4K CZ Dabing",
         "planned_at": "2026-11-04T11:49:46.350619+00:00"
-      },
-      "claim": {
-        "worker_id": "bccaf525ca4b49dca62b17d82eafc721-shard-0",
-        "claimed_at": "2026-11-04T11:49:47.366967+00:00",
-        "lease_expires_at": "2026-11-04T17:49:47.366967+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30784898",
       "prepared": {
@@ -93973,5 +93975,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:55:30.443260+00:00"
+  "updated_at": "2026-11-04T11:56:58.084044+00:00"
 }
