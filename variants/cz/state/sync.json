@@ -54156,17 +54156,19 @@
       }
     },
     "12533": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8723918",
+          "target_video_id": "30782139",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:20:06.979035+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8723918",
         "display_name": "Go SD CZ Dabing",
         "planned_at": "2026-11-04T08:18:06.583573+00:00"
-      },
-      "claim": {
-        "worker_id": "47130fd204f44125a7c8d1e783a4d7dd-shard-0",
-        "claimed_at": "2026-11-04T08:18:06.733486+00:00",
-        "lease_expires_at": "2026-11-04T14:18:06.733486+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30782139",
       "prepared": {
@@ -91542,5 +91544,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:18:10.446841+00:00"
+  "updated_at": "2026-11-04T08:20:06.979053+00:00"
 }
