@@ -360,3 +360,4 @@ Attach subtitles only after target processing has finished.
 | Ordinary Angels 1440p CZ Titulky | 30777016 | https://sdilej.cz/28887116/ordinary-angels-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | La Belle Époque 1080p CZ Titulky | 30777247 | https://sdilej.cz/13471729/tenkrat-podruhe-la-belle-epoque-fullhd-cz-titulky.mkv | Complete: Czech subtitles verified |
 | La Reine Margot 720p CZ Titulky | 30778234 | https://sdilej.cz/34130894/kralovna-margot-1994-queen-margot-czsubs-bluray-c7d3a6.mkv | Extract Czech track from exact source after processing |
+| North Face (Nordwand) 720p CZ Titulky | 30778473 | https://sdilej.cz/6111113/nordwand-north-face-2008-.brrip.h264.aac-ceske-titulky.mkv | Extract Czech track from exact source after processing |
