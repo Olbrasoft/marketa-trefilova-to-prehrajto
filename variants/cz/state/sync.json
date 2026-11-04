@@ -52621,17 +52621,19 @@
       "attempts": []
     },
     "1769": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15461040",
+          "target_video_id": "30779918",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:28:17.117179+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15461040",
         "display_name": "The Butler 720p CZ Dabing",
         "planned_at": "2026-11-04T05:24:27.090322+00:00"
-      },
-      "claim": {
-        "worker_id": "c3842d490cdf4906a6cd1fb7cf35d49a-shard-0",
-        "claimed_at": "2026-11-04T05:24:27.236807+00:00",
-        "lease_expires_at": "2026-11-04T11:24:27.236807+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779918",
       "prepared": {
@@ -89638,5 +89640,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:24:30.952504+00:00"
+  "updated_at": "2026-11-04T05:28:17.117199+00:00"
 }
