@@ -49412,17 +49412,19 @@
       }
     },
     "21554": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34919027",
+          "target_video_id": "30775529",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:13:44.760170+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34919027",
         "display_name": "Classe tous risques (The Big Risk) 1080p CZ Dabing",
         "planned_at": "2026-11-04T00:07:30.497595+00:00"
-      },
-      "claim": {
-        "worker_id": "e04e82158f514d37a7e02cf466ae2525-shard-0",
-        "claimed_at": "2026-11-04T00:07:30.611533+00:00",
-        "lease_expires_at": "2026-11-04T06:07:30.611533+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775529",
       "prepared": {
@@ -85250,5 +85252,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:08:24.799716+00:00"
+  "updated_at": "2026-11-04T00:13:44.760184+00:00"
 }
