@@ -367,7 +367,7 @@ Attach subtitles only after target processing has finished.
 | Rurouni Kenshin: The Beginning (るろうに剣心 最終章 The Beginning) 1080p CZ Titulky | 30780492 | https://sdilej.cz/17628651/rurouni.kenshin.the.beginning.part.2.2021.1080p..webrip.ddp5.1.x264-jp-eng-titulky-cz-eng.mkv | Complete: Czech subtitles verified |
 | Fantastic Fungi 1080p CZ Titulky | 30780850 | https://sdilej.cz/31754403/zazracne-houby-fantastic-fungi-2019-en-dab-cz-tit-.mkv | Complete: Czech subtitles verified |
 | Tenet 1080p CZ Titulky | 30781288 | https://sdilej.cz/14854574/tenet.2020.cz.sub.imax.1080p.bluray.h264.aac-rarbg.mkv | Complete: Czech subtitles verified |
-| X-Men 4K CZ Titulky | 30781619 | https://sdilej.cz/28350650/-uhd-x-men-i.-2000-.mkv | Extract Czech track from exact source after processing |
+| X-Men 4K CZ Titulky | 30781619 | https://sdilej.cz/28350650/-uhd-x-men-i.-2000-.mkv | Complete: Czech subtitles verified |
 | Split 1080p CZ Titulky | 30781802 | https://sdilej.cz/7325671/rozpolceny-split-2016-brrip-cz.titulky.mkv | Complete: Czech subtitles verified |
 | American Sniper 1080p CZ Titulky | 30781858 | https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Bullet Train 4K CZ Titulky | 30782256 | https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv | Complete: Czech subtitles verified |
