@@ -58476,17 +58476,19 @@
       "attempts": []
     },
     "1720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_premium_required",
+          "source_id": "34648028",
+          "reason": "Authenticated fast download link is unavailable; premium login is required",
+          "permanent": false,
+          "attempted_at": "2026-11-04T20:23:15.648226+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34648028",
         "display_name": "The Outlaws (범죄도시) 1080p CZ Dabing",
         "planned_at": "2026-11-04T20:23:11.364025+00:00"
-      },
-      "claim": {
-        "worker_id": "955c1f0aec784d6dbe809d0332e3e4a2-shard-0",
-        "claimed_at": "2026-11-04T20:23:12.017130+00:00",
-        "lease_expires_at": "2026-11-05T02:23:12.017130+00:00",
-        "run_id": "41905917597"
       }
     },
     "21498": {
@@ -98727,5 +98729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T20:23:13.747124+00:00"
+  "updated_at": "2026-11-04T20:23:15.648250+00:00"
 }
