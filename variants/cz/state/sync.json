@@ -53572,17 +53572,19 @@
       }
     },
     "11640": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34721498",
+          "target_video_id": "30781050",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:58:53.364009+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34721498",
         "display_name": "Manhunter 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:53:51.361343+00:00"
-      },
-      "claim": {
-        "worker_id": "23b567cdc96041189bec57cc64f714d7-shard-0",
-        "claimed_at": "2026-11-04T06:53:51.512773+00:00",
-        "lease_expires_at": "2026-11-04T12:53:51.512773+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30781050",
       "prepared": {
@@ -90739,5 +90741,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:53:55.564258+00:00"
+  "updated_at": "2026-11-04T06:58:53.364032+00:00"
 }
