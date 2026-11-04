@@ -27195,13 +27195,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-04T03:45:24.531182+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-04T04:15:56.997339+00:00"
         },
         {
@@ -27210,6 +27203,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-04T04:46:01.833222+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:17:00.043801+00:00"
         }
       ],
       "last_plan": {
@@ -46647,7 +46647,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T04:46:03.265793+00:00"
+        "planned_at": "2026-11-04T05:16:59.028307+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -46655,6 +46655,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "25f246d53e3f449ba93db7edef61f057-shard-0",
+        "claimed_at": "2026-11-04T05:16:59.256790+00:00",
+        "lease_expires_at": "2026-11-04T11:16:59.256790+00:00",
+        "run_id": "41760503575"
       }
     },
     "20013": {
@@ -52524,7 +52530,7 @@
       "last_plan": {
         "source_id": "33879927",
         "display_name": "The Sucker (Le Corniaud) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T05:16:57.199360+00:00"
+        "planned_at": "2026-11-04T05:16:59.126031+00:00"
       }
     },
     "15878": {
@@ -89293,5 +89299,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:16:57.283725+00:00"
+  "updated_at": "2026-11-04T05:17:00.043821+00:00"
 }
