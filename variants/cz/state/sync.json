@@ -49799,17 +49799,19 @@
       }
     },
     "1823": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33349886",
+          "target_video_id": "30775839",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:39:50.485140+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33349886",
         "display_name": "Pirates of the Caribbean: At World's End 4K CZ Dabing",
         "planned_at": "2026-11-04T00:27:51.296394+00:00"
-      },
-      "claim": {
-        "worker_id": "1051734a24eb44ecbf9ad38e5d56eaee-shard-0",
-        "claimed_at": "2026-11-04T00:27:51.421362+00:00",
-        "lease_expires_at": "2026-11-04T06:27:51.421362+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775839",
       "prepared": {
@@ -85856,5 +85858,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:38:24.348673+00:00"
+  "updated_at": "2026-11-04T00:39:50.485155+00:00"
 }
