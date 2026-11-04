@@ -54930,17 +54930,19 @@
       "attempts": []
     },
     "1645": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33875111",
+          "reason": "Source detail has no authenticated download link; source_id=33875111",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:22:35.061233+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33875111",
         "display_name": "The Report 1080p CZ Dabing",
         "planned_at": "2026-11-04T10:22:27.553588+00:00"
-      },
-      "claim": {
-        "worker_id": "6622bdddbc134f4fa04e35bf69521384-shard-0",
-        "claimed_at": "2026-11-04T10:22:29.919672+00:00",
-        "lease_expires_at": "2026-11-04T16:22:29.919672+00:00",
-        "run_id": "41791915876"
       }
     },
     "1638": {
@@ -93019,5 +93021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:22:31.204338+00:00"
+  "updated_at": "2026-11-04T10:22:35.061253+00:00"
 }
