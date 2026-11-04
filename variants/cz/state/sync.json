@@ -49206,17 +49206,19 @@
       "attempts": []
     },
     "24278": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34464583",
+          "target_video_id": "30775379",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:00:43.787832+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34464583",
         "display_name": "East/West SD CZ Dabing",
         "planned_at": "2026-11-03T23:59:01.699797+00:00"
-      },
-      "claim": {
-        "worker_id": "385607599e8d4b6c8cf040bf2d65ac1e-shard-0",
-        "claimed_at": "2026-11-03T23:59:01.820547+00:00",
-        "lease_expires_at": "2026-11-04T05:59:01.820547+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775379",
       "prepared": {
@@ -85098,5 +85100,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-03T23:59:16.108613+00:00"
+  "updated_at": "2026-11-04T00:00:43.787851+00:00"
 }
