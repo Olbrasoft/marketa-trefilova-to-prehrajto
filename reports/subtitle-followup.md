@@ -358,4 +358,4 @@ Attach subtitles only after target processing has finished.
 | Miss Americana 1080p CZ Titulky | 30776455 | https://sdilej.cz/13059506/taylor-swift-miss-americana-2020-1080p-cz-tit..mkv | Extract Czech track from exact source after processing |
 | The Ballad of Wallis Island 1080p CZ Titulky | 30776524 | https://sdilej.cz/32526153/the-ballad-of-wallis-island-2025-1080p-x264-5.1-cz-tit-komedie.mkv | Extract Czech track from exact source after processing |
 | Ordinary Angels 1440p CZ Titulky | 30777016 | https://sdilej.cz/28887116/ordinary-angels-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
-| La Belle Époque 1080p CZ Titulky | 30777247 | https://sdilej.cz/13471729/tenkrat-podruhe-la-belle-epoque-fullhd-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| La Belle Époque 1080p CZ Titulky | 30777247 | https://sdilej.cz/13471729/tenkrat-podruhe-la-belle-epoque-fullhd-cz-titulky.mkv | Complete: Czech subtitles verified |
