@@ -12309,13 +12309,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:09:37.784966+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-04T08:49:04.785642+00:00"
         },
         {
@@ -12324,6 +12317,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-04T09:20:29.189549+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:07:42.974372+00:00"
         }
       ],
       "last_plan": {
@@ -16814,7 +16814,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-04T09:20:30.588065+00:00"
+        "planned_at": "2026-11-04T10:07:41.804779+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16822,6 +16822,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "3f5bb3ac745244829933473f9851e341-shard-0",
+        "claimed_at": "2026-11-04T10:07:42.058314+00:00",
+        "lease_expires_at": "2026-11-04T16:07:42.058314+00:00",
+        "run_id": "41791915876"
       }
     },
     "614": {
@@ -54874,7 +54880,7 @@
       "last_plan": {
         "source_id": "33775175",
         "display_name": "Quills 1080p CZ Dabing",
-        "planned_at": "2026-11-04T10:07:35.342907+00:00"
+        "planned_at": "2026-11-04T10:07:41.911326+00:00"
       }
     },
     "23617": {
@@ -92695,5 +92701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:07:35.342928+00:00"
+  "updated_at": "2026-11-04T10:07:42.974394+00:00"
 }
