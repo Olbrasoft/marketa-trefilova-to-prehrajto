@@ -1041,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-04T04:15:04.973133+00:00"
+        "planned_at": "2026-11-04T04:45:21.585309+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1049,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "b195d274a61144e884b02028e380c69c-shard-0",
+        "claimed_at": "2026-11-04T04:45:21.793270+00:00",
+        "lease_expires_at": "2026-11-04T10:45:21.793270+00:00",
+        "run_id": "41760503575"
       }
     },
     "54": {
@@ -10809,13 +10815,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-04T03:12:55.911124+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-04T03:44:33.830372+00:00"
         },
         {
@@ -10824,6 +10823,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-04T04:15:03.706967+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:45:21.972244+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10843,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "04c945507fb1498c9dfbce2224693f90-shard-0",
-        "claimed_at": "2026-11-04T04:45:20.065775+00:00",
-        "lease_expires_at": "2026-11-04T10:45:20.065775+00:00",
-        "run_id": "41760503575"
       }
     },
     "21748": {
@@ -52063,7 +52063,7 @@
       "last_plan": {
         "source_id": "6077612",
         "display_name": "Chasing Amy SD CZ Dabing",
-        "planned_at": "2026-11-04T04:45:19.951588+00:00"
+        "planned_at": "2026-11-04T04:45:21.674561+00:00"
       }
     },
     "23779": {
@@ -88886,5 +88886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:45:20.294309+00:00"
+  "updated_at": "2026-11-04T04:45:21.972255+00:00"
 }
