@@ -58406,17 +58406,19 @@
       }
     },
     "1085": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30116104",
+          "target_video_id": "30791482",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:41:29.993633+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30116104",
         "display_name": "Out of My Mind 1080p CZ Dabing",
         "planned_at": "2026-11-04T18:33:49.502376+00:00"
-      },
-      "claim": {
-        "worker_id": "45eda2fd91e54314acbeb693b27cec1d-shard-0",
-        "claimed_at": "2026-11-04T18:33:49.654427+00:00",
-        "lease_expires_at": "2026-11-05T00:33:49.654427+00:00",
-        "run_id": "41857105355"
       },
       "previous_target_id": "30791482",
       "prepared": {
@@ -98134,5 +98136,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T18:39:06.555121+00:00"
+  "updated_at": "2026-11-04T18:41:29.993650+00:00"
 }
