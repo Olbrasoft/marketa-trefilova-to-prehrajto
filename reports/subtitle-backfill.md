@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T18:46:49.665795+00:00
+Poslední aktualizace (UTC): 2026-11-04T18:46:53.167214+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -74,7 +74,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 75. Důvod
 | [Army of Darkness 1080p CZ Titulky](https://prehraj.to/army-of-darkness-1080p-cz-titulky-mkv/de829709c7cdc288) (ID 30755736) | [Sdílej 35401994](https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-03T13:15:38.177570+00:00 |
 | [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T13:15:17.494327+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | target_unavailable | 2026-11-04T18:03:41.220564+00:00 |
-| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T13:06:08.649171+00:00 |
+| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-04T18:46:53.167140+00:00 |
 | [Bullet Train 4K CZ Titulky](https://prehraj.to/bullet-train-4k-cz-titulky-mkv/95fe5c110bdf5dec) (ID 30782256) | [Sdílej 26997444](https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv) | target_unavailable | 2026-11-04T08:27:19.962269+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-03T14:14:13.285915+00:00 |
 | [Burning (Beoning) (2018) 720p CZ Titulky](https://prehraj.to/burning-beoning-2018-720p-cz-titulky-mkv/8e80d707ebd16ea7) (ID 30761347) | [Sdílej 10716235](https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv) | target_unavailable | 2026-11-03T14:05:42.870242+00:00 |
