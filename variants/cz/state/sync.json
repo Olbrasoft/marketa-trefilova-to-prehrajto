@@ -51509,17 +51509,19 @@
       }
     },
     "18369": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33776734",
+          "target_video_id": "30778704",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:02:37.412274+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33776734",
         "display_name": "Steve Jobs 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:57:23.129556+00:00"
-      },
-      "claim": {
-        "worker_id": "2412957d10ec4ac5b2ac1d04aee2add6-shard-0",
-        "claimed_at": "2026-11-04T03:57:23.248514+00:00",
-        "lease_expires_at": "2026-11-04T09:57:23.248514+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778704",
       "prepared": {
@@ -88204,5 +88206,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:01:57.277514+00:00"
+  "updated_at": "2026-11-04T04:02:37.412294+00:00"
 }
