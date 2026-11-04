@@ -55500,17 +55500,19 @@
       }
     },
     "21236": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28179793",
+          "target_video_id": "30784598",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:32:06.982343+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28179793",
         "display_name": "Suspicion (1941) SD CZ Dabing",
         "planned_at": "2026-11-04T11:28:08.293895+00:00"
-      },
-      "claim": {
-        "worker_id": "abd1fa6b3c024589b704e9330d9a16cc-shard-0",
-        "claimed_at": "2026-11-04T11:28:08.412067+00:00",
-        "lease_expires_at": "2026-11-04T17:28:08.412067+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30784598",
       "prepared": {
@@ -93819,5 +93821,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:30:22.230152+00:00"
+  "updated_at": "2026-11-04T11:32:06.982367+00:00"
 }
