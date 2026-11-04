@@ -56111,17 +56111,19 @@
       }
     },
     "11592": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21414256",
+          "target_video_id": "30785506",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:32:35.581361+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21414256",
         "display_name": "Runaway Train 1080p CZ Dabing",
         "planned_at": "2026-11-04T12:30:12.109820+00:00"
-      },
-      "claim": {
-        "worker_id": "6288bd72271b4f0bb0cfed6a3850ec03-shard-0",
-        "claimed_at": "2026-11-04T12:30:13.749779+00:00",
-        "lease_expires_at": "2026-11-04T18:30:13.749779+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785506",
       "prepared": {
@@ -94616,5 +94618,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:30:52.288799+00:00"
+  "updated_at": "2026-11-04T12:32:35.581381+00:00"
 }
