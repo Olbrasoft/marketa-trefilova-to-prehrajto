@@ -50534,17 +50534,19 @@
       }
     },
     "1763": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32817651",
+          "target_video_id": "30777104",
+          "permanent": false,
+          "attempted_at": "2026-11-04T02:19:40.013222+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32817651",
         "display_name": "Finding Dory 4K CZ Dabing",
         "planned_at": "2026-11-04T01:49:06.611523+00:00"
-      },
-      "claim": {
-        "worker_id": "5cbcc5d775e64b19b30d3f660a9efd68-shard-0",
-        "claimed_at": "2026-11-04T01:49:06.731907+00:00",
-        "lease_expires_at": "2026-11-04T07:49:06.731907+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30777104",
       "prepared": {
@@ -86832,5 +86834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T02:13:17.877582+00:00"
+  "updated_at": "2026-11-04T02:19:40.013238+00:00"
 }
