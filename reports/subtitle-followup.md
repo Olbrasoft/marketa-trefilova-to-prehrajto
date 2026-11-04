@@ -369,3 +369,4 @@ Attach subtitles only after target processing has finished.
 | Tenet 1080p CZ Titulky | 30781288 | https://sdilej.cz/14854574/tenet.2020.cz.sub.imax.1080p.bluray.h264.aac-rarbg.mkv | Extract Czech track from exact source after processing |
 | X-Men 4K CZ Titulky | 30781619 | https://sdilej.cz/28350650/-uhd-x-men-i.-2000-.mkv | Extract Czech track from exact source after processing |
 | Split 1080p CZ Titulky | 30781802 | https://sdilej.cz/7325671/rozpolceny-split-2016-brrip-cz.titulky.mkv | Extract Czech track from exact source after processing |
+| American Sniper 1080p CZ Titulky | 30781858 | https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
