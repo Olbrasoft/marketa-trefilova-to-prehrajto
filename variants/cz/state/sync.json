@@ -16485,13 +16485,6 @@
           "source_id": "32043882",
           "target_video_id": "30664667",
           "permanent": false,
-          "attempted_at": "2026-11-04T10:48:40.790559+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043882",
-          "target_video_id": "30664667",
-          "permanent": false,
           "attempted_at": "2026-11-04T11:24:09.954020+00:00"
         },
         {
@@ -16500,6 +16493,13 @@
           "target_video_id": "30664667",
           "permanent": false,
           "attempted_at": "2026-11-04T11:54:21.155054+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043882",
+          "target_video_id": "30664667",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:25:26.772749+00:00"
         }
       ],
       "last_plan": {
@@ -18868,7 +18868,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-04T11:54:22.607940+00:00"
+        "planned_at": "2026-11-04T12:25:25.225778+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18876,6 +18876,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "30048ba2c6ad4b2eb58150a42c2a573f-shard-0",
+        "claimed_at": "2026-11-04T12:25:26.293060+00:00",
+        "lease_expires_at": "2026-11-04T18:25:26.293060+00:00",
+        "run_id": "41820326732"
       }
     },
     "29695": {
@@ -56004,7 +56010,7 @@
       "last_plan": {
         "source_id": "17856177",
         "display_name": "Wish Dragon 1080p CZ Dabing",
-        "planned_at": "2026-11-04T12:25:23.033731+00:00"
+        "planned_at": "2026-11-04T12:25:25.550273+00:00"
       }
     },
     "21440": {
@@ -94495,5 +94501,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:25:23.033748+00:00"
+  "updated_at": "2026-11-04T12:25:26.772768+00:00"
 }
