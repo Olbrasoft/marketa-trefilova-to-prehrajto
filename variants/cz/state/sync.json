@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "ac399353867149bfa72363b117f94d15-shard-0",
+        "claimed_at": "2026-11-04T03:44:43.325941+00:00",
+        "lease_expires_at": "2026-11-04T09:44:43.325941+00:00",
+        "run_id": "41760503575"
       }
     },
     "52": {
@@ -18842,13 +18848,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-04T01:41:45.369745+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-04T02:11:57.211563+00:00"
         },
         {
@@ -18857,12 +18856,19 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-04T03:13:08.680443+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:44:44.720270+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-04T03:13:07.363294+00:00"
+        "planned_at": "2026-11-04T03:44:43.410922+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -51369,7 +51375,7 @@
       "last_plan": {
         "source_id": "31269099",
         "display_name": "Dr. No 4K CZ Dabing",
-        "planned_at": "2026-11-04T03:44:41.977446+00:00"
+        "planned_at": "2026-11-04T03:44:43.508721+00:00"
       }
     },
     "1663": {
@@ -88018,5 +88024,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:44:41.977465+00:00"
+  "updated_at": "2026-11-04T03:44:44.720293+00:00"
 }
