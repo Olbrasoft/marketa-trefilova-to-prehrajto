@@ -53913,17 +53913,23 @@
           "attempted_at": "2026-11-04T07:44:58.077429+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26248537",
-        "display_name": "Ring (リング) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T07:42:10.447415+00:00"
-      },
       "previous_target_id": "30781685",
-      "prepared": {
+      "upload": {
         "target_video_id": "30781685",
-        "size_bytes": 3134385239,
-        "prepared_at": "2026-11-04T07:42:15.750375+00:00",
-        "relay_source_id": "26248537"
+        "display_name": "Ring (リング) 1080p CZ Dabing",
+        "source_id": "26248537",
+        "source_url": "https://sdilej.cz/26248537/ring-1998.mkv",
+        "source_filename": "Ring 1998.mkv",
+        "size_bytes": 3100000000,
+        "width": 1920,
+        "height": 1036,
+        "audio_language": "cs",
+        "language_probability": 0.9319917559623718,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/ring-1080p-cz-dabing-mkv/fe444fa1a9db4aef",
+        "uploaded_at": "2026-11-04T08:17:58.214283+00:00"
       }
     },
     "1787": {
@@ -54121,11 +54127,22 @@
       "last_plan": {
         "source_id": "34689188",
         "display_name": "My Christmas Family Tree 1080p CZ Dabing",
-        "planned_at": "2026-11-04T08:17:53.723359+00:00"
+        "planned_at": "2026-11-04T08:17:56.769366+00:00"
+      },
+      "claim": {
+        "worker_id": "ed5f0ee415cd496785b090ad1fe31655-shard-0",
+        "claimed_at": "2026-11-04T08:17:57.040544+00:00",
+        "lease_expires_at": "2026-11-04T14:17:57.040544+00:00",
+        "run_id": "41791915876"
       }
     },
     "12533": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "8723918",
+        "display_name": "Go SD CZ Dabing",
+        "planned_at": "2026-11-04T08:17:56.831103+00:00"
+      }
     },
     "11705": {
       "attempts": []
@@ -91493,5 +91510,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:17:54.702841+00:00"
+  "updated_at": "2026-11-04T08:17:58.214304+00:00"
 }
