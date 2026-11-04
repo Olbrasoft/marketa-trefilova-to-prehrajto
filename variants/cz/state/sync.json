@@ -58429,17 +58429,19 @@
       }
     },
     "21805": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_premium_required",
+          "source_id": "29486300",
+          "reason": "Authenticated fast download link is unavailable; premium login is required",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:46:14.781447+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29486300",
         "display_name": "The Fortune Cookie 720p CZ Dabing",
         "planned_at": "2026-11-04T18:46:10.833159+00:00"
-      },
-      "claim": {
-        "worker_id": "91bf3c52582b49b38c8cab4842c2f38e-shard-0",
-        "claimed_at": "2026-11-04T18:46:11.546073+00:00",
-        "lease_expires_at": "2026-11-05T00:46:11.546073+00:00",
-        "run_id": "41886763441"
       }
     },
     "10805": {
@@ -98152,5 +98154,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T18:46:12.949305+00:00"
+  "updated_at": "2026-11-04T18:46:14.781470+00:00"
 }
