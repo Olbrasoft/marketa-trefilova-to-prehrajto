@@ -53684,17 +53684,19 @@
       }
     },
     "20518": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22876516",
+          "target_video_id": "30781164",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:26:49.740725+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22876516",
         "display_name": "Dope 1080p CZ Dabing",
         "planned_at": "2026-11-04T07:01:59.063909+00:00"
-      },
-      "claim": {
-        "worker_id": "9afa94d0f69c4756afb7fe60c1b4cd50-shard-0",
-        "claimed_at": "2026-11-04T07:01:59.217086+00:00",
-        "lease_expires_at": "2026-11-04T13:01:59.217086+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30781164",
       "prepared": {
@@ -90905,5 +90907,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:14:18.704379+00:00"
+  "updated_at": "2026-11-04T07:26:49.740747+00:00"
 }
