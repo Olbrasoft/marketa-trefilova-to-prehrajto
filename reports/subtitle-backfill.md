@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T19:24:22.324874+00:00
+Poslední aktualizace (UTC): 2026-11-04T19:24:26.213341+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 257, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 64, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 258, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 63, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -125,7 +125,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvo
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-04T18:47:13.032221+00:00 |
 | [The Lincoln Lawyer 1080p CZ Titulky](https://prehraj.to/the-lincoln-lawyer-1080p-cz-titulky-mkv/75f1b153ea1b5936) (ID 30787804) | [Sdílej 20142205](https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-11-04T14:31:34.646803+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-04T18:46:56.840029+00:00 |
-| [The Rocky Horror Picture Show 1080p CZ Titulky](https://prehraj.to/the-rocky-horror-picture-show-1080p-cz-titulky-mkv/16dc8ba232615912) (ID 30756513) | [Sdílej 34912169](https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv) | target_unavailable | 2026-11-03T13:15:34.814650+00:00 |
 | [The Wisdom of Trauma 1080p CZ Titulky](https://prehraj.to/the-wisdom-of-trauma-1080p-cz-titulky-mkv/2420591902138a54) (ID 30778607) | [Sdílej 19264172](https://sdilej.cz/19264172/the-wisdom-of-trauma-1080p-2021-vlozene-cz-titulky-kst.mkv) | target_unavailable | 2026-11-04T03:52:20.128819+00:00 |
 | [The Wonderful Story of Henry Sugar 1080p CZ Titulky](https://prehraj.to/the-wonderful-story-of-henry-sugar-1080p-cz-titulky-mkv/58f3515f6180d6f8) (ID 30763706) | [Sdílej 26884588](https://sdilej.cz/26884588/the.wonderful.story.of.henry.sugar.2023.1080p.web.h264-ethel-cz-titulky.mkv) | target_unavailable | 2026-11-03T14:24:26.178201+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-04T19:24:02.120532+00:00 |
