@@ -54260,17 +54260,19 @@
       }
     },
     "890": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34121408",
+          "target_video_id": "30782220",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:27:03.817065+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34121408",
         "display_name": "Rose (2022) SD CZ Dabing",
         "planned_at": "2026-11-04T08:24:40.389703+00:00"
-      },
-      "claim": {
-        "worker_id": "eb27ca2952784cc598ec3aeef0f84fe2-shard-0",
-        "claimed_at": "2026-11-04T08:24:40.538810+00:00",
-        "lease_expires_at": "2026-11-04T14:24:40.538810+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30782220",
       "prepared": {
@@ -91928,5 +91930,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:24:44.666135+00:00"
+  "updated_at": "2026-11-04T08:27:03.817094+00:00"
 }
