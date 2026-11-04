@@ -51172,17 +51172,19 @@
       "attempts": []
     },
     "12989": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32944841",
+          "target_video_id": "30778353",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:27:11.337530+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32944841",
         "display_name": "Chocolat (2000) 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:23:47.282952+00:00"
-      },
-      "claim": {
-        "worker_id": "907ea3c3f2ed40d0a4b6e9ac72d97070-shard-0",
-        "claimed_at": "2026-11-04T03:23:47.406176+00:00",
-        "lease_expires_at": "2026-11-04T09:23:47.406176+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778353",
       "prepared": {
@@ -87883,5 +87885,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:26:33.673146+00:00"
+  "updated_at": "2026-11-04T03:27:11.337547+00:00"
 }
