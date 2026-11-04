@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T20:23:53.582402+00:00
+Poslední aktualizace (UTC): 2026-11-04T20:23:57.382197+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 277, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 44, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 277, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 6, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 43, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -23,6 +23,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvo
 | [Bugonia 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30755358) | [Sdílej 32837902](https://sdilej.cz/32837902/bugonia-2025-1080p-10bit-bluray-8ch-x265-hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-04T18:46:34.006149+00:00 |
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T04:21:50.715215+00:00 |
 | [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T17:24:23.170084+00:00 |
+| [Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky](https://prehraj.to/divided-we-fall-musime-si-pomahat-1080p-cz-titulky-mkv/1f0ad966ebe3ad14) (ID 30775107) | [Sdílej 33306409](https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-04T20:23:57.382149+00:00 |
 | [Django Unchained 4K CZ Titulky](https://prehraj.to/django-unchained-cz-titulky-mkv/8f93dd558c6bce9a) (ID 30588424) | [Sdílej 33138453](https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T09:59:37.956241+00:00 |
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T18:08:19.272590+00:00 |
 | [Gladiator (2000) 4K CZ Titulky](https://prehraj.to/gladiator-2000-cz-titulky-mkv/5ab06a3385e9b8ad) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T12:47:26.246856+00:00 |
@@ -75,7 +76,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvo
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-04T19:25:04.980264+00:00 |
 | [Caught in the Net (V síti) 1080p CZ Titulky](https://prehraj.to/caught-in-the-net-v-siti-1080p-cz-titulky-mkv/05bb8abb52945318) (ID 30780491) | [Sdílej 31920665](https://sdilej.cz/31920665/v-siti-2020-cz.mkv) | target_unavailable | 2026-11-04T06:03:47.287721+00:00 |
 | [Despicable Me 2 4K CZ Titulky](https://prehraj.to/despicable-me-2-4k-cz-titulky-mkv/6c17bbef278fd93a) (ID 30782803) | [Sdílej 27530340](https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv) | target_unavailable | 2026-11-04T09:07:32.781143+00:00 |
-| [Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky](https://prehraj.to/divided-we-fall-musime-si-pomahat-1080p-cz-titulky-mkv/1f0ad966ebe3ad14) (ID 30775107) | [Sdílej 33306409](https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv) | target_unavailable | 2026-11-03T23:39:18.093989+00:00 |
 | [Doctor Sleep 1080p CZ Titulky](https://prehraj.to/doctor-sleep-1080p-cz-titulky-mkv/491874405df58767) (ID 30790059) | [Sdílej 12781606](https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv) | target_unavailable | 2026-11-04T17:03:14.273709+00:00 |
 | [Dogma 1080p CZ Titulky](https://prehraj.to/dogma-1080p-cz-titulky-mkv/686b96f42c488069) (ID 30790077) | [Sdílej 15676655](https://sdilej.cz/15676655/dogma.mkv) | target_unavailable | 2026-11-04T17:03:18.458622+00:00 |
 | [El Camino: A Breaking Bad Movie 1080p CZ Titulky](https://prehraj.to/el-camino-a-breaking-bad-movie-1080p-cz-titulky-mkv/120dd6f4d1ef3235) (ID 30784985) | [Sdílej 12410253](https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv) | target_unavailable | 2026-11-04T12:00:10.652388+00:00 |
