@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T18:47:46.607672+00:00
+Poslední aktualizace (UTC): 2026-11-04T18:47:50.755738+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 70, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 252, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 69, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -125,7 +125,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 75. Důvod
 | [The Ballad of Wallis Island 1080p CZ Titulky](https://prehraj.to/the-ballad-of-wallis-island-1080p-cz-titulky-mkv/ae0b07560deb89a1) (ID 30776524) | [Sdílej 32526153](https://sdilej.cz/32526153/the-ballad-of-wallis-island-2025-1080p-x264-5.1-cz-tit-komedie.mkv) | target_unavailable | 2026-11-04T01:20:49.851178+00:00 |
 | [The Evil Dead 1080p CZ Titulky](https://prehraj.to/the-evil-dead-1080p-cz-titulky-mkv/0df3f994d333cdd5) (ID 30789688) | [Sdílej 35161536](https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv) | target_unavailable | 2026-11-04T16:33:01.428980+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-04T18:46:30.899024+00:00 |
-| [The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky](https://prehraj.to/the-girl-with-the-needle-pigen-med-nalen-1440p-cz-titulky-mkv/0138f4cdc3431178) (ID 30743003) | [Sdílej 30632726](https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:07:08.087248+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-04T18:47:13.032221+00:00 |
 | [The Lincoln Lawyer 1080p CZ Titulky](https://prehraj.to/the-lincoln-lawyer-1080p-cz-titulky-mkv/75f1b153ea1b5936) (ID 30787804) | [Sdílej 20142205](https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-11-04T14:31:34.646803+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-04T18:46:56.840029+00:00 |
