@@ -50139,17 +50139,19 @@
       }
     },
     "1834": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34914037",
+          "target_video_id": "30776461",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:17:32.594242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34914037",
         "display_name": "Monsters University 4K CZ Dabing",
         "planned_at": "2026-11-04T01:06:44.342476+00:00"
-      },
-      "claim": {
-        "worker_id": "bf9a7a57547443c7b76010c94ca9cc07-shard-0",
-        "claimed_at": "2026-11-04T01:06:44.507774+00:00",
-        "lease_expires_at": "2026-11-04T07:06:44.507774+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30776461",
       "prepared": {
@@ -86162,5 +86164,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:15:21.914181+00:00"
+  "updated_at": "2026-11-04T01:17:32.594258+00:00"
 }
