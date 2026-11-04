@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-04T06:52:20.189014+00:00"
+        "planned_at": "2026-11-04T07:38:02.851628+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "35cf1eada8b04ddfb3b99bf006ad01df-shard-0",
+        "claimed_at": "2026-11-04T07:38:03.077402+00:00",
+        "lease_expires_at": "2026-11-04T13:38:03.077402+00:00",
+        "run_id": "41791915876"
       }
     },
     "52": {
@@ -18842,13 +18848,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:48:15.959685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-04T06:20:00.724354+00:00"
         },
         {
@@ -18857,6 +18856,13 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-04T06:52:18.838268+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:38:03.214744+00:00"
         }
       ],
       "last_plan": {
@@ -18870,12 +18876,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
-      },
-      "claim": {
-        "worker_id": "baec932c34b04ace9bb35c5cc40e21d5-shard-0",
-        "claimed_at": "2026-11-04T07:38:01.076167+00:00",
-        "lease_expires_at": "2026-11-04T13:38:01.076167+00:00",
-        "run_id": "41791915876"
       }
     },
     "29695": {
@@ -53818,7 +53818,7 @@
       "last_plan": {
         "source_id": "34378972",
         "display_name": "The Outfit (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-04T07:38:00.940652+00:00"
+        "planned_at": "2026-11-04T07:38:02.952218+00:00"
       }
     },
     "24266": {
@@ -91236,5 +91236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:38:01.530206+00:00"
+  "updated_at": "2026-11-04T07:38:03.214777+00:00"
 }
