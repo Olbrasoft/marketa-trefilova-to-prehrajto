@@ -57008,17 +57008,19 @@
       }
     },
     "34647": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32922638",
+          "target_video_id": "30787232",
+          "permanent": false,
+          "attempted_at": "2026-11-04T14:05:40.208855+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32922638",
         "display_name": "The Parent Trap (1961) SD CZ Dabing",
         "planned_at": "2026-11-04T14:02:00.863845+00:00"
-      },
-      "claim": {
-        "worker_id": "2ddd097c8b1e4f9997e5fe58037588b5-shard-0",
-        "claimed_at": "2026-11-04T14:02:01.101591+00:00",
-        "lease_expires_at": "2026-11-04T20:02:01.101591+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787232",
       "prepared": {
@@ -95620,5 +95622,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T14:05:35.015380+00:00"
+  "updated_at": "2026-11-04T14:05:40.208881+00:00"
 }
