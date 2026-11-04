@@ -51653,6 +51653,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-04T03:57:26.902562+00:00",
         "relay_source_id": "33776734"
+      },
+      "claim": {
+        "worker_id": "ce930126a16c4dd19e43a9c548fe4d4d-shard-0",
+        "claimed_at": "2026-11-04T10:34:43.671426+00:00",
+        "lease_expires_at": "2026-11-04T16:34:43.671426+00:00",
+        "run_id": "41791915876"
       }
     },
     "29932": {
@@ -54560,17 +54566,23 @@
           "attempted_at": "2026-11-04T09:27:21.129684+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32362518",
-        "display_name": "Shallow Grave 1080p CZ Dabing",
-        "planned_at": "2026-11-04T09:22:09.459318+00:00"
-      },
       "previous_target_id": "30783043",
-      "prepared": {
+      "upload": {
         "target_video_id": "30783043",
-        "size_bytes": 3470617084,
-        "prepared_at": "2026-11-04T09:22:14.374768+00:00",
-        "relay_source_id": "32362518"
+        "display_name": "Shallow Grave 1080p CZ Dabing",
+        "source_id": "32362518",
+        "source_url": "https://sdilej.cz/32362518/melky-hrob-drama.thriller.vb.1994.tvrip.cz.mkv",
+        "source_filename": "Mělký hrob - drama.thriller.VB.1994.TVRip.CZ.mkv",
+        "size_bytes": 3500000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9473391771316528,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/shallow-grave-1080p-cz-dabing-mkv/5406a5d3e9fbf887",
+        "uploaded_at": "2026-11-04T10:34:44.706767+00:00"
       }
     },
     "25260": {
@@ -54988,7 +55000,7 @@
       "last_plan": {
         "source_id": "28711738",
         "display_name": "The Professor and the Madman 1080p CZ Dabing",
-        "planned_at": "2026-11-04T10:34:34.756288+00:00"
+        "planned_at": "2026-11-04T10:34:43.846775+00:00"
       }
     },
     "21046": {
@@ -93053,5 +93065,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:34:34.756309+00:00"
+  "updated_at": "2026-11-04T10:34:44.706783+00:00"
 }
