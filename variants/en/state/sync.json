@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-04T09:55:30.263885+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-04T10:26:40.439300+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-04T10:56:59.536115+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:27:55.143356+00:00"
         }
       ],
       "last_plan": {
@@ -259,12 +259,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "97e776df55ce465e95fddcf7a9c22f01-shard-0",
-        "claimed_at": "2026-11-04T11:27:52.319609+00:00",
-        "lease_expires_at": "2026-11-04T17:27:52.319609+00:00",
-        "run_id": "41791915876"
       }
     },
     "24": {
@@ -11497,7 +11491,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-04T10:57:16.231666+00:00"
+        "planned_at": "2026-11-04T11:27:54.757124+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -11505,6 +11499,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "f17375a2a82140fba1cd273772c8867e-shard-0",
+        "claimed_at": "2026-11-04T11:27:54.852973+00:00",
+        "lease_expires_at": "2026-11-04T17:27:54.852973+00:00",
+        "run_id": "41791915876"
       }
     },
     "834": {
@@ -60121,5 +60121,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:27:53.027038+00:00"
+  "updated_at": "2026-11-04T11:27:55.143375+00:00"
 }
