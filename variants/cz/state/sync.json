@@ -58339,17 +58339,19 @@
       }
     },
     "21567": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32044692",
+          "target_video_id": "30791216",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:31:01.472312+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32044692",
         "display_name": "Operation Petticoat 1080p CZ Dabing",
         "planned_at": "2026-11-04T18:20:19.206677+00:00"
-      },
-      "claim": {
-        "worker_id": "db973c46a2bb4ebca88e40b651e79e87-shard-0",
-        "claimed_at": "2026-11-04T18:20:19.374851+00:00",
-        "lease_expires_at": "2026-11-05T00:20:19.374851+00:00",
-        "run_id": "41857105355"
       },
       "previous_target_id": "30791216",
       "prepared": {
@@ -97825,5 +97827,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T18:20:23.915789+00:00"
+  "updated_at": "2026-11-04T18:31:01.472330+00:00"
 }
