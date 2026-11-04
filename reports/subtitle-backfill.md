@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T20:23:45.832277+00:00
+Poslední aktualizace (UTC): 2026-11-04T20:23:49.818284+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 275, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 276, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 45, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -104,7 +104,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvo
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-04T18:47:04.796770+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-04T18:47:16.786382+00:00 |
 | [Tenet 1080p CZ Titulky](https://prehraj.to/tenet-1080p-cz-titulky-mkv/99eb20350025a7bf) (ID 30781288) | [Sdílej 14854574](https://sdilej.cz/14854574/tenet.2020.cz.sub.imax.1080p.bluray.h264.aac-rarbg.mkv) | target_unavailable | 2026-11-04T07:14:04.781557+00:00 |
-| [Tesis (Thesis) 720p CZ Titulky](https://prehraj.to/tesis-thesis-720p-cz-titulky-mkv/f1b641cfa5bd6f4a) (ID 30772601) | [Sdílej 34938075](https://sdilej.cz/34938075/1996-diplomova-prace-thriller-drama-horor-mysteriozni-74-ana-torrent-cz.-tit..mkv) | target_unavailable | 2026-11-03T20:43:40.190290+00:00 |
 | [The Ballad of Wallis Island 1080p CZ Titulky](https://prehraj.to/the-ballad-of-wallis-island-1080p-cz-titulky-mkv/ae0b07560deb89a1) (ID 30776524) | [Sdílej 32526153](https://sdilej.cz/32526153/the-ballad-of-wallis-island-2025-1080p-x264-5.1-cz-tit-komedie.mkv) | target_unavailable | 2026-11-04T01:20:49.851178+00:00 |
 | [The Evil Dead 1080p CZ Titulky](https://prehraj.to/the-evil-dead-1080p-cz-titulky-mkv/0df3f994d333cdd5) (ID 30789688) | [Sdílej 35161536](https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv) | target_unavailable | 2026-11-04T16:33:01.428980+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-04T18:46:30.899024+00:00 |
