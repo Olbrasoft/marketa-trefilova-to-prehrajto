@@ -19053,17 +19053,19 @@
       "attempts": []
     },
     "31707": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31920665",
+          "target_video_id": "30780491",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:06:25.131337+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31920665",
         "display_name": "Caught in the Net (V síti) 1080p CZ Titulky",
         "planned_at": "2026-11-04T06:02:54.447873+00:00"
-      },
-      "claim": {
-        "worker_id": "4115413cb25f495abb7e4ab5d3c38e68-shard-0",
-        "claimed_at": "2026-11-04T06:02:55.867339+00:00",
-        "lease_expires_at": "2026-11-04T12:02:55.867339+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780491",
       "prepared": {
@@ -58105,5 +58107,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:03:00.782391+00:00"
+  "updated_at": "2026-11-04T06:06:25.131356+00:00"
 }
