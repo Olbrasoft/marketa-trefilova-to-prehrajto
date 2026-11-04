@@ -55178,17 +55178,19 @@
       "attempts": []
     },
     "11353": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33060765",
+          "target_video_id": "30784158",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:00:46.274216+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33060765",
         "display_name": "Cutting It Short (Postřižiny) 1080p CZ Dabing",
         "planned_at": "2026-11-04T10:57:27.340138+00:00"
-      },
-      "claim": {
-        "worker_id": "506e2a12616244fe96c7bfb1fec80fd2-shard-0",
-        "claimed_at": "2026-11-04T10:57:27.597677+00:00",
-        "lease_expires_at": "2026-11-04T16:57:27.597677+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30784158",
       "prepared": {
@@ -93238,5 +93240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:59:23.994824+00:00"
+  "updated_at": "2026-11-04T11:00:46.274239+00:00"
 }
