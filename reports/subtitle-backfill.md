@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T09:38:40.370959+00:00
+Poslední aktualizace (UTC): 2026-11-04T09:39:28.271752+00:00
 
 Zkontrolováno videí: 372. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 59, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 60, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -83,6 +83,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 63. Důvod
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T13:15:20.974510+00:00 |
 | [Everything Is Illuminated 720p CZ Titulky](https://prehraj.to/everything-is-illuminated-720p-cz-titulky-mkv/0933c16c5cf44f5d) (ID 30770852) | [Sdílej 28421392](https://sdilej.cz/28421392/naprosto-osvetleno-2005-everything-is-illuminated-eng-dab.-eng-cz-ttl..mkv) | target_unavailable | 2026-11-03T18:30:02.407165+00:00 |
 | [Fantastic Fungi 1080p CZ Titulky](https://prehraj.to/fantastic-fungi-1080p-cz-titulky-mkv/65df0ea6fb10a5fe) (ID 30780850) | [Sdílej 31754403](https://sdilej.cz/31754403/zazracne-houby-fantastic-fungi-2019-en-dab-cz-tit-.mkv) | target_unavailable | 2026-11-04T06:43:53.167513+00:00 |
+| [Fast Five 1080p CZ Titulky](https://prehraj.to/fast-five-1080p-cz-titulky-mkv/d1e48720781e0f0d) (ID 30783150) | [Sdílej 27635276](https://sdilej.cz/27635276/rychle-a-zbesile-5-hd.mkv) | target_unavailable | 2026-11-04T09:38:58.212617+00:00 |
 | [Frequency 1080p CZ Titulky](https://prehraj.to/frequency-1080p-cz-titulky-mkv/9247d4d3775759d1) (ID 30759792) | [Sdílej 14524461](https://sdilej.cz/14524461/frekvence.mkv) | target_unavailable | 2026-11-03T13:25:23.242203+00:00 |
 | [Furiosa: A Mad Max Saga 4K CZ Titulky](https://prehraj.to/furiosa-a-mad-max-saga-4k-cz-titulky-mkv/46e117960f31a77b) (ID 30752813) | [Sdílej 32911115](https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv) | target_unavailable | 2026-11-03T13:15:48.976453+00:00 |
 | [High Plains Drifter 1080p CZ Titulky](https://prehraj.to/high-plains-drifter-1080p-cz-titulky-mkv/d6261d51ecde1e75) (ID 30763637) | [Sdílej 26121857](https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv) | target_unavailable | 2026-11-03T14:24:22.795111+00:00 |
