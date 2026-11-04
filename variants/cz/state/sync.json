@@ -58796,17 +58796,19 @@
       "attempts": []
     },
     "25184": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6917654",
+          "target_video_id": "30796576",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:11:54.516997+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6917654",
         "display_name": "King's Game SD CZ Dabing",
         "planned_at": "2026-11-04T23:06:48.752721+00:00"
-      },
-      "claim": {
-        "worker_id": "2b307ce2123b438b98ebf6788d58301d-shard-0",
-        "claimed_at": "2026-11-04T23:06:48.973569+00:00",
-        "lease_expires_at": "2026-11-05T05:06:48.973569+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30796576",
       "prepared": {
@@ -99539,5 +99541,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:06:59.032331+00:00"
+  "updated_at": "2026-11-04T23:11:54.517025+00:00"
 }
