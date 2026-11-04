@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T20:23:28.992272+00:00
+Poslední aktualizace (UTC): 2026-11-04T20:23:30.880605+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 270, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 51, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 271, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 50, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -66,7 +66,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvo
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [5 Centimeters Per Second (Byôsoku 5 senchimêtoru) 1080p CZ Titulky](https://prehraj.to/5-centimeters-per-second-byosoku-5-senchimetoru-1080p-cz-titulky-mkv/0d7c133d5b489913) (ID 30768804) | [Sdílej 27114239](https://sdilej.cz/27114239/5-centimeters-per-second-2007-1080p-cz-tit.mkv) | target_unavailable | 2026-11-03T17:05:14.383368+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-04T19:24:14.587763+00:00 |
 | [Alita: Battle Angel 4K CZ Titulky](https://prehraj.to/alita-battle-angel-4k-cz-titulky-mkv/e97938c4437f9141) (ID 30785611) | [Sdílej 12025390](https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv) | target_unavailable | 2026-11-04T12:40:28.137026+00:00 |
 | [American Sniper 1080p CZ Titulky](https://prehraj.to/american-sniper-1080p-cz-titulky-mkv/931c810618b87a12) (ID 30781858) | [Sdílej 34809887](https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-04T07:56:58.445531+00:00 |
