@@ -374,3 +374,4 @@ Attach subtitles only after target processing has finished.
 | No Time to Die 4K CZ Titulky | 30782648 | https://sdilej.cz/34673696/james-bond-neni-cas-zemrit-2021-uhd.mkv | Extract Czech track from exact source after processing |
 | Despicable Me 2 4K CZ Titulky | 30782803 | https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv | Extract Czech track from exact source after processing |
 | Fast Five 1080p CZ Titulky | 30783150 | https://sdilej.cz/27635276/rychle-a-zbesile-5-hd.mkv | Extract Czech track from exact source after processing |
+| El Camino: A Breaking Bad Movie 1080p CZ Titulky | 30784985 | https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv | Extract Czech track from exact source after processing |
