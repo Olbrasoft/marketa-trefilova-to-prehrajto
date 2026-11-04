@@ -51980,17 +51980,19 @@
       "attempts": []
     },
     "1825": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34334555",
+          "target_video_id": "30779248",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:47:59.096367+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34334555",
         "display_name": "We Were Soldiers 4K CZ Dabing",
         "planned_at": "2026-11-04T04:36:09.806753+00:00"
-      },
-      "claim": {
-        "worker_id": "7d8b45ef7b4341a5b9691553268d175e-shard-0",
-        "claimed_at": "2026-11-04T04:36:09.966732+00:00",
-        "lease_expires_at": "2026-11-04T10:36:09.966732+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779248",
       "prepared": {
@@ -88911,5 +88913,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:46:44.974481+00:00"
+  "updated_at": "2026-11-04T04:47:59.096383+00:00"
 }
