@@ -53112,17 +53112,19 @@
       }
     },
     "30247": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7360350",
+          "target_video_id": "30780623",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:17:45.741700+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7360350",
         "display_name": "The Best Exotic Marigold Hotel SD CZ Dabing",
         "planned_at": "2026-11-04T06:15:23.031374+00:00"
-      },
-      "claim": {
-        "worker_id": "08c3a50dae1540feb68376fc649e224a-shard-0",
-        "claimed_at": "2026-11-04T06:15:23.161367+00:00",
-        "lease_expires_at": "2026-11-04T12:15:23.161367+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780623",
       "prepared": {
@@ -90075,5 +90077,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:15:26.981166+00:00"
+  "updated_at": "2026-11-04T06:17:45.741723+00:00"
 }
