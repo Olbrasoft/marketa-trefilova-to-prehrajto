@@ -355,3 +355,4 @@ Attach subtitles only after target processing has finished.
 | Yellow Submarine 1080p CZ Titulky | 30774956 | https://sdilej.cz/33236644/the-beatles-yellow-submarine-1968-fhd-en-cz-sub.mkv | Complete: Czech subtitles verified |
 | Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky | 30775107 | https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv | Extract Czech track from exact source after processing |
 | Schumacher 1080p CZ Titulky | 30776036 | https://sdilej.cz/18210193/schumacher-2021-cz-en-dabing.mkv | Complete: Czech subtitles verified |
+| Miss Americana 1080p CZ Titulky | 30776455 | https://sdilej.cz/13059506/taylor-swift-miss-americana-2020-1080p-cz-tit..mkv | Extract Czech track from exact source after processing |
