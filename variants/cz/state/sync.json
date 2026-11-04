@@ -53421,17 +53421,19 @@
       }
     },
     "1692": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34884602",
+          "target_video_id": "30780851",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:47:23.236901+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34884602",
         "display_name": "Stuck in Love 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:37:17.526998+00:00"
-      },
-      "claim": {
-        "worker_id": "66163c5fe5194da78b996347cdb27a0e-shard-0",
-        "claimed_at": "2026-11-04T06:37:17.658323+00:00",
-        "lease_expires_at": "2026-11-04T12:37:17.658323+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780851",
       "prepared": {
@@ -90642,5 +90644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:47:01.534903+00:00"
+  "updated_at": "2026-11-04T06:47:23.236916+00:00"
 }
