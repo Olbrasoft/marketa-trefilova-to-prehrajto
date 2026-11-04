@@ -375,7 +375,7 @@ Attach subtitles only after target processing has finished.
 | Despicable Me 2 4K CZ Titulky | 30782803 | https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv | Complete: Czech subtitles verified |
 | Fast Five 1080p CZ Titulky | 30783150 | https://sdilej.cz/27635276/rychle-a-zbesile-5-hd.mkv | Complete: Czech subtitles verified |
 | El Camino: A Breaking Bad Movie 1080p CZ Titulky | 30784985 | https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv | Complete: Czech subtitles verified |
-| Alita: Battle Angel 4K CZ Titulky | 30785611 | https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv | Extract Czech track from exact source after processing |
+| Alita: Battle Angel 4K CZ Titulky | 30785611 | https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv | Complete: Czech subtitles verified |
 | Identity 1080p CZ Titulky | 30786647 | https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv | Complete: Czech subtitles verified |
 | The Lincoln Lawyer 1080p CZ Titulky | 30787804 | https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv | Complete: Czech subtitles verified |
 | Wake Up Dead Man (Wake Up Dead Man: A Knives Out Mystery) 4K CZ Titulky | 30788177 | https://sdilej.cz/32607681/wake.up.dead.man.a.knives.out.mystery.2025.2160p.nf.web-dl.ddp5.1.atmos.dv.hdr.h.265-byndr.mkv | Complete: Czech subtitles verified |
