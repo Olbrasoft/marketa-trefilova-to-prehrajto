@@ -19076,17 +19076,19 @@
       }
     },
     "37165": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17628651",
+          "target_video_id": "30780492",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:13:49.464756+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17628651",
         "display_name": "Rurouni Kenshin: The Beginning (るろうに剣心 最終章 The Beginning) 1080p CZ Titulky",
         "planned_at": "2026-11-04T06:02:56.062789+00:00"
-      },
-      "claim": {
-        "worker_id": "57e73bb290ec494da2d2ed10b885b926-shard-0",
-        "claimed_at": "2026-11-04T06:02:56.098792+00:00",
-        "lease_expires_at": "2026-11-04T12:02:56.098792+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780492",
       "prepared": {
@@ -58107,5 +58109,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:06:25.131356+00:00"
+  "updated_at": "2026-11-04T06:13:49.464777+00:00"
 }
