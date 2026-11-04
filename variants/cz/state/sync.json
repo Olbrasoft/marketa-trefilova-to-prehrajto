@@ -54669,17 +54669,19 @@
       "attempts": []
     },
     "1722": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34853335",
+          "target_video_id": "30783192",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:36:29.067875+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34853335",
         "display_name": "The Light Between Oceans SD CZ Dabing",
         "planned_at": "2026-11-04T09:34:15.526593+00:00"
-      },
-      "claim": {
-        "worker_id": "93ab4e9923d94cf19850195ad15d9bda-shard-0",
-        "claimed_at": "2026-11-04T09:34:15.692240+00:00",
-        "lease_expires_at": "2026-11-04T15:34:15.692240+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783192",
       "prepared": {
@@ -92544,5 +92546,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:34:19.371924+00:00"
+  "updated_at": "2026-11-04T09:36:29.067898+00:00"
 }
