@@ -53689,17 +53689,19 @@
       "attempts": []
     },
     "1563": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34647906",
+          "target_video_id": "30781194",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:07:08.193214+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34647906",
         "display_name": "Swingers 1080p CZ Dabing",
         "planned_at": "2026-11-04T07:03:47.748546+00:00"
-      },
-      "claim": {
-        "worker_id": "aea2826678a649858eb1c8a31726bdea-shard-0",
-        "claimed_at": "2026-11-04T07:03:47.901737+00:00",
-        "lease_expires_at": "2026-11-04T13:03:47.901737+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30781194",
       "prepared": {
@@ -90862,5 +90864,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:06:08.655952+00:00"
+  "updated_at": "2026-11-04T07:07:08.193231+00:00"
 }
