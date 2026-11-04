@@ -57068,17 +57068,19 @@
       "attempts": []
     },
     "12674": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30971002",
+          "target_video_id": "30787329",
+          "permanent": false,
+          "attempted_at": "2026-11-04T14:15:15.753196+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30971002",
         "display_name": "Pirates of Silicon Valley 1080p CZ Dabing",
         "planned_at": "2026-11-04T14:07:20.096157+00:00"
-      },
-      "claim": {
-        "worker_id": "b32e683372e94cc9bc575db0a556026e-shard-0",
-        "claimed_at": "2026-11-04T14:07:20.513348+00:00",
-        "lease_expires_at": "2026-11-04T20:07:20.513348+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787329",
       "prepared": {
@@ -95684,5 +95686,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T14:08:10.429040+00:00"
+  "updated_at": "2026-11-04T14:15:15.753251+00:00"
 }
