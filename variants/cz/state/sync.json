@@ -21530,13 +21530,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:16:50.274277+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-04T05:48:38.716394+00:00"
         },
         {
@@ -21545,6 +21538,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-04T06:20:37.850720+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:52:49.949893+00:00"
         }
       ],
       "last_plan": {
@@ -48289,17 +48289,23 @@
           "attempted_at": "2026-11-04T06:20:40.793410+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34471702",
-        "display_name": "Twinless 1080p CZ Dabing",
-        "planned_at": "2026-11-04T06:20:39.206498+00:00"
-      },
       "previous_target_id": "30774657",
-      "prepared": {
+      "upload": {
         "target_video_id": "30774657",
+        "display_name": "Twinless 1080p CZ Dabing",
+        "source_id": "34471702",
+        "source_url": "https://sdilej.cz/34471702/bez-dvojcete-twinless-2025-1080p-h264-ac3-cz.mkv",
+        "source_filename": "Bez dvojčete (Twinless 2025) 1080p h264 AC3 CZ.mkv",
         "size_bytes": 3400000000,
-        "prepared_at": "2026-11-03T22:49:52.978429+00:00",
-        "relay_source_id": "34471702"
+        "width": 1920,
+        "height": 1032,
+        "audio_language": "cs",
+        "language_probability": 0.9901716113090515,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/twinless-1080p-cz-dabing-mkv/4a2519b2de1b9f39",
+        "uploaded_at": "2026-11-04T06:52:50.029722+00:00"
       }
     },
     "29011": {
@@ -53531,7 +53537,7 @@
       "last_plan": {
         "source_id": "31823281",
         "display_name": "Out of Africa 4K CZ Dabing",
-        "planned_at": "2026-11-04T06:52:47.421238+00:00"
+        "planned_at": "2026-11-04T06:52:48.991018+00:00"
       }
     },
     "11640": {
@@ -90684,5 +90690,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:52:47.421260+00:00"
+  "updated_at": "2026-11-04T06:52:50.029743+00:00"
 }
