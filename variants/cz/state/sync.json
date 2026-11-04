@@ -52229,17 +52229,19 @@
       }
     },
     "11794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32272019",
+          "target_video_id": "30779424",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:01:05.906698+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32272019",
         "display_name": "Willow 4K CZ Dabing",
         "planned_at": "2026-11-04T04:50:28.858869+00:00"
-      },
-      "claim": {
-        "worker_id": "03bf62e4c53f47d39f93fdd3e4cbd9d0-shard-0",
-        "claimed_at": "2026-11-04T04:50:28.992080+00:00",
-        "lease_expires_at": "2026-11-04T10:50:28.992080+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779424",
       "prepared": {
@@ -89081,5 +89083,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:00:52.196185+00:00"
+  "updated_at": "2026-11-04T05:01:05.906718+00:00"
 }
