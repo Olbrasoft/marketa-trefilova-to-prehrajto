@@ -53886,17 +53886,19 @@
       }
     },
     "24266": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26248537",
+          "target_video_id": "30781685",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:44:58.077429+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26248537",
         "display_name": "Ring (リング) 1080p CZ Dabing",
         "planned_at": "2026-11-04T07:42:10.447415+00:00"
-      },
-      "claim": {
-        "worker_id": "726465ccb3924b98b083765b6a749e71-shard-0",
-        "claimed_at": "2026-11-04T07:42:10.586693+00:00",
-        "lease_expires_at": "2026-11-04T13:42:10.586693+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30781685",
       "prepared": {
@@ -91326,5 +91328,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:42:54.661559+00:00"
+  "updated_at": "2026-11-04T07:44:58.077450+00:00"
 }
