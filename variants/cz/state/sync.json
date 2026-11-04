@@ -54135,17 +54135,19 @@
       "attempts": []
     },
     "15080": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34689188",
+          "target_video_id": "30782137",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:21:24.401983+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34689188",
         "display_name": "My Christmas Family Tree 1080p CZ Dabing",
         "planned_at": "2026-11-04T08:17:56.769366+00:00"
-      },
-      "claim": {
-        "worker_id": "ed5f0ee415cd496785b090ad1fe31655-shard-0",
-        "claimed_at": "2026-11-04T08:17:57.040544+00:00",
-        "lease_expires_at": "2026-11-04T14:17:57.040544+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30782137",
       "prepared": {
@@ -91562,5 +91564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:20:15.199431+00:00"
+  "updated_at": "2026-11-04T08:21:24.402003+00:00"
 }
