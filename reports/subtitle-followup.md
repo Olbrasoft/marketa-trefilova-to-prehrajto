@@ -378,3 +378,4 @@ Attach subtitles only after target processing has finished.
 | Alita: Battle Angel 4K CZ Titulky | 30785611 | https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv | Extract Czech track from exact source after processing |
 | Identity 1080p CZ Titulky | 30786647 | https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv | Extract Czech track from exact source after processing |
 | The Lincoln Lawyer 1080p CZ Titulky | 30787804 | https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
+| Wake Up Dead Man (Wake Up Dead Man: A Knives Out Mystery) 4K CZ Titulky | 30788177 | https://sdilej.cz/32607681/wake.up.dead.man.a.knives.out.mystery.2025.2160p.nf.web-dl.ddp5.1.atmos.dv.hdr.h.265-byndr.mkv | Extract Czech track from exact source after processing |
