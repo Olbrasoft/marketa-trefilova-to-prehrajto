@@ -16554,7 +16554,7 @@
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
-        "planned_at": "2026-11-04T03:43:25.692536+00:00"
+        "planned_at": "2026-11-04T04:13:49.316203+00:00"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -16562,6 +16562,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "46214df286f648fbbb7a683ad7f0ffc1-shard-0",
+        "claimed_at": "2026-11-04T04:13:49.406221+00:00",
+        "lease_expires_at": "2026-11-04T10:13:49.406221+00:00",
+        "run_id": "41760503575"
       }
     },
     "1209": {
@@ -18484,13 +18490,6 @@
           "source_id": "32526153",
           "target_video_id": "30776524",
           "permanent": false,
-          "attempted_at": "2026-11-04T02:24:48.427260+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32526153",
-          "target_video_id": "30776524",
-          "permanent": false,
           "attempted_at": "2026-11-04T03:12:09.288249+00:00"
         },
         {
@@ -18499,6 +18498,13 @@
           "target_video_id": "30776524",
           "permanent": false,
           "attempted_at": "2026-11-04T03:43:23.956798+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32526153",
+          "target_video_id": "30776524",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:13:50.477934+00:00"
         }
       ],
       "last_plan": {
@@ -57528,5 +57534,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:13:46.440306+00:00"
+  "updated_at": "2026-11-04T04:13:50.477955+00:00"
 }
