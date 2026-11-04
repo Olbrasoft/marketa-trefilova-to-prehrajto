@@ -28747,13 +28747,6 @@
           "source_id": "26168393",
           "target_video_id": "30721201",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:10:09.318358+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168393",
-          "target_video_id": "30721201",
-          "permanent": false,
           "attempted_at": "2026-11-04T08:49:40.837092+00:00"
         },
         {
@@ -28762,6 +28755,13 @@
           "target_video_id": "30721201",
           "permanent": false,
           "attempted_at": "2026-11-04T09:21:01.174361+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168393",
+          "target_video_id": "30721201",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:12:00.290516+00:00"
         }
       ],
       "last_plan": {
@@ -28775,12 +28775,6 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
-      },
-      "claim": {
-        "worker_id": "3e6d4ada0dd04d26889224e5e6961654-shard-0",
-        "claimed_at": "2026-11-04T10:11:45.550112+00:00",
-        "lease_expires_at": "2026-11-04T16:11:45.550112+00:00",
-        "run_id": "41791915876"
       }
     },
     "23584": {
@@ -29724,7 +29718,7 @@
       "last_plan": {
         "source_id": "34850732",
         "display_name": "The Mauritanian 1080p CZ Dabing",
-        "planned_at": "2026-11-04T09:21:02.543312+00:00"
+        "planned_at": "2026-11-04T10:11:59.889125+00:00"
       },
       "previous_target_id": "30723078",
       "prepared": {
@@ -29732,6 +29726,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-02T09:31:48.716182+00:00",
         "relay_source_id": "34850732"
+      },
+      "claim": {
+        "worker_id": "d97a36e5859940168e1f93338897fbf8-shard-0",
+        "claimed_at": "2026-11-04T10:12:00.148802+00:00",
+        "lease_expires_at": "2026-11-04T16:12:00.148802+00:00",
+        "run_id": "41791915876"
       }
     },
     "888": {
@@ -54903,7 +54903,7 @@
       "last_plan": {
         "source_id": "11186846",
         "display_name": "Les Misérables (Les Miserables) (1995) SD CZ Dabing",
-        "planned_at": "2026-11-04T10:11:45.401703+00:00"
+        "planned_at": "2026-11-04T10:12:00.003987+00:00"
       }
     },
     "928": {
@@ -92721,5 +92721,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:11:46.226158+00:00"
+  "updated_at": "2026-11-04T10:12:00.290537+00:00"
 }
