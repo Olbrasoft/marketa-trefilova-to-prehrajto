@@ -49383,17 +49383,19 @@
       }
     },
     "21487": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34699793",
+          "target_video_id": "30775522",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:08:15.092894+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34699793",
         "display_name": "Heaven Knows, Mr. Allison SD CZ Dabing",
         "planned_at": "2026-11-04T00:06:50.075229+00:00"
-      },
-      "claim": {
-        "worker_id": "6443910f713c4e66a35685110b835b38-shard-0",
-        "claimed_at": "2026-11-04T00:06:50.197705+00:00",
-        "lease_expires_at": "2026-11-04T06:06:50.197705+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775522",
       "prepared": {
@@ -85224,5 +85226,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:07:34.245558+00:00"
+  "updated_at": "2026-11-04T00:08:15.092908+00:00"
 }
