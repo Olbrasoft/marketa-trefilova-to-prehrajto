@@ -315,7 +315,7 @@ Attach subtitles only after target processing has finished.
 | Wuthering Heights (1939) 1080p CZ Titulky | 30742707 | https://sdilej.cz/34936247/wuthering-heights-1939-1080p-amzn-web-dl-ddp2-0-sdr-h-264-onlyweb.mkv | Complete: Czech subtitles verified |
 | Songs from the Second Floor 1080p CZ Titulky | 30742820 | https://sdilej.cz/34431723/songs.from.the.second.floor.2000.1080p.bluray.swedish.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | The Spy Who Came in from the Cold 1080p CZ Titulky | 30742933 | https://sdilej.cz/33595691/the-spy-who-came-in-from-the-cold-1965-criterion-1080p-bluray-x265-hevc-10bit-aac-2.0-tigole-.mkv | Complete: Czech subtitles verified |
-| The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky | 30743003 | https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky | 30743003 | https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Young Woman and the Sea 1080p CZ Titulky | 30743095 | https://sdilej.cz/29910483/young-woman-and-the-sea-2024-divka-a-more-128-min-fhd-x265-10b-5.1-en-.mkv | Complete: Czech subtitles verified |
 | Twin Peaks: The Missing Pieces 1080p CZ Titulky | 30744845 | https://sdilej.cz/33200807/twin-peaks-the-missing-pieces-2014-fhd-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Volhynia (Wołyń) 720p CZ Titulky | 30745166 | https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv | Extract Czech track from exact source after processing |
@@ -331,13 +331,13 @@ Attach subtitles only after target processing has finished.
 | Anora 4K CZ Titulky | 30753012 | https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Conclave 4K CZ Titulky | 30753456 | https://sdilej.cz/30205491/conclave-2024-cztit-2160p.mkv | Complete: Czech subtitles verified |
 | A History of Violence 1080p CZ Titulky | 30753470 | https://sdilej.cz/31347470/a.history.of.violence-2005-cz.tit.mkv | Complete: Czech subtitles verified |
-| The Talented Mr. Ripley 1080p CZ Titulky | 30753582 | https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
+| The Talented Mr. Ripley 1080p CZ Titulky | 30753582 | https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv | Complete: Czech subtitles verified |
 | Army of Darkness 1080p CZ Titulky | 30755736 | https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Coach Carter 1080p CZ Titulky | 30756369 | https://sdilej.cz/26231457/coach-carter-2005.mkv | Complete: Czech subtitles verified |
 | The Rocky Horror Picture Show 1080p CZ Titulky | 30756513 | https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Frequency 1080p CZ Titulky | 30759792 | https://sdilej.cz/14524461/frekvence.mkv | Extract Czech track from exact source after processing |
 | Tetris 4K CZ Titulky | 30761160 | https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
-| The Wailing (Gokseong) 1080p CZ Titulky | 30761483 | https://sdilej.cz/33807503/kvileni-2016-1080p-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| The Wailing (Gokseong) 1080p CZ Titulky | 30761483 | https://sdilej.cz/33807503/kvileni-2016-1080p-cz-titulky-.mkv | Complete: Czech subtitles verified |
 | The Wonderful Story of Henry Sugar 1080p CZ Titulky | 30763706 | https://sdilej.cz/26884588/the.wonderful.story.of.henry.sugar.2023.1080p.web.h264-ethel-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Mid90s 720p CZ Titulky | 30761152 | https://sdilej.cz/31920680/mid90s-2018-cz-titulky-brdrip.720p.dd5.1.x264-mg.okay-.mkv | Complete: Czech subtitles verified |
 | Burning (Beoning) (2018) 720p CZ Titulky | 30761347 | https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv | Extract Czech track from exact source after processing |
