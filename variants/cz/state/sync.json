@@ -53123,17 +53123,19 @@
       }
     },
     "1790": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32911686",
+          "target_video_id": "30780618",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:21:10.292241+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32911686",
         "display_name": "Angel Heart 4K CZ Dabing",
         "planned_at": "2026-11-04T06:14:35.793727+00:00"
-      },
-      "claim": {
-        "worker_id": "4bbc702255484e418fe7af2b5edd5994-shard-0",
-        "claimed_at": "2026-11-04T06:14:35.940832+00:00",
-        "lease_expires_at": "2026-11-04T12:14:35.940832+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780618",
       "prepared": {
@@ -90114,5 +90116,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:21:08.949438+00:00"
+  "updated_at": "2026-11-04T06:21:10.292264+00:00"
 }
