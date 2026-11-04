@@ -50262,17 +50262,19 @@
       }
     },
     "1693": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33107451",
+          "target_video_id": "30776631",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:28:28.775638+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33107451",
         "display_name": "From Dusk till Dawn 4K CZ Dabing",
         "planned_at": "2026-11-04T01:22:40.546887+00:00"
-      },
-      "claim": {
-        "worker_id": "5de316c92c8c49689fa3bc01cb6f9f11-shard-0",
-        "claimed_at": "2026-11-04T01:22:40.656754+00:00",
-        "lease_expires_at": "2026-11-04T07:22:40.656754+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30776631",
       "prepared": {
@@ -86232,5 +86234,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:22:45.364189+00:00"
+  "updated_at": "2026-11-04T01:28:28.775654+00:00"
 }
