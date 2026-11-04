@@ -52311,17 +52311,19 @@
       }
     },
     "24616": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34782632",
+          "target_video_id": "30779577",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:06:51.807165+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34782632",
         "display_name": "About Schmidt 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:01:07.555690+00:00"
-      },
-      "claim": {
-        "worker_id": "6818944d0b1f44ccba7f0dfea68c1393-shard-0",
-        "claimed_at": "2026-11-04T05:01:07.690645+00:00",
-        "lease_expires_at": "2026-11-04T11:01:07.690645+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779577",
       "prepared": {
@@ -89154,5 +89156,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:03:52.057949+00:00"
+  "updated_at": "2026-11-04T05:06:51.807182+00:00"
 }
