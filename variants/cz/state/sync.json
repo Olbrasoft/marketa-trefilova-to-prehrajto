@@ -14545,13 +14545,6 @@
           "source_id": "32500310",
           "target_video_id": "30657182",
           "permanent": false,
-          "attempted_at": "2026-11-04T16:55:28.188842+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500310",
-          "target_video_id": "30657182",
-          "permanent": false,
           "attempted_at": "2026-11-04T17:30:04.018994+00:00"
         },
         {
@@ -14560,6 +14553,13 @@
           "target_video_id": "30657182",
           "permanent": false,
           "attempted_at": "2026-11-04T18:09:24.571522+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32500310",
+          "target_video_id": "30657182",
+          "permanent": false,
+          "attempted_at": "2026-11-04T21:22:55.722111+00:00"
         }
       ],
       "last_plan": {
@@ -14573,12 +14573,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
-      },
-      "claim": {
-        "worker_id": "a8735d4d74d34c7782f9d23c34ff3daa-shard-0",
-        "claimed_at": "2026-11-04T21:22:52.334872+00:00",
-        "lease_expires_at": "2026-11-05T03:22:52.334872+00:00",
-        "run_id": "41915374983"
       }
     },
     "22177": {
@@ -58498,17 +58492,19 @@
       }
     },
     "21498": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_premium_required",
+          "source_id": "34788744",
+          "reason": "Authenticated fast download link is unavailable; premium login is required",
+          "permanent": false,
+          "attempted_at": "2026-11-04T21:22:55.821485+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34788744",
         "display_name": "Old Yeller 720p CZ Dabing",
         "planned_at": "2026-11-04T21:22:51.830592+00:00"
-      },
-      "claim": {
-        "worker_id": "53a362b962b440d7a1efa0fa21aecdbe-shard-0",
-        "claimed_at": "2026-11-04T21:22:52.497707+00:00",
-        "lease_expires_at": "2026-11-05T03:22:52.497707+00:00",
-        "run_id": "41915374983"
       }
     },
     "27366": {
@@ -99016,5 +99012,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T21:22:52.497735+00:00"
+  "updated_at": "2026-11-04T21:22:55.821505+00:00"
 }
