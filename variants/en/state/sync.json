@@ -18366,17 +18366,19 @@
       "attempts": []
     },
     "17910": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18210193",
+          "target_video_id": "30776036",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:48:22.817654+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18210193",
         "display_name": "Schumacher 1080p CZ Titulky",
         "planned_at": "2026-11-04T00:40:52.976999+00:00"
-      },
-      "claim": {
-        "worker_id": "ade8301e463a499ea410bd029df21a58-shard-0",
-        "claimed_at": "2026-11-04T00:40:53.011065+00:00",
-        "lease_expires_at": "2026-11-04T06:40:53.011065+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30776036",
       "prepared": {
@@ -56467,5 +56469,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:48:21.199766+00:00"
+  "updated_at": "2026-11-04T00:48:22.817668+00:00"
 }
