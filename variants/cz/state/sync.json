@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:48:17.673074+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-04T06:20:04.337097+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-04T06:52:21.927392+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:38:05.189146+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "35cf1eada8b04ddfb3b99bf006ad01df-shard-0",
-        "claimed_at": "2026-11-04T07:38:03.077402+00:00",
-        "lease_expires_at": "2026-11-04T13:38:03.077402+00:00",
-        "run_id": "41791915876"
       }
     },
     "52": {
@@ -53607,7 +53601,7 @@
       "last_plan": {
         "source_id": "30854892",
         "display_name": "Spirit: Stallion of the Cimarron 1080p CZ Dabing",
-        "planned_at": "2026-11-04T06:46:57.707528+00:00"
+        "planned_at": "2026-11-04T07:38:04.468195+00:00"
       },
       "previous_target_id": "30780979",
       "prepared": {
@@ -53615,6 +53609,12 @@
         "size_bytes": 3936758442,
         "prepared_at": "2026-11-04T06:47:01.534889+00:00",
         "relay_source_id": "30854892"
+      },
+      "claim": {
+        "worker_id": "1c2b5e080d184d31846ad2a3e88cac85-shard-0",
+        "claimed_at": "2026-11-04T07:38:04.703370+00:00",
+        "lease_expires_at": "2026-11-04T13:38:04.703370+00:00",
+        "run_id": "41791915876"
       }
     },
     "14482": {
@@ -53818,7 +53818,7 @@
       "last_plan": {
         "source_id": "34378972",
         "display_name": "The Outfit (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-04T07:38:02.952218+00:00"
+        "planned_at": "2026-11-04T07:38:04.572456+00:00"
       }
     },
     "24266": {
@@ -91236,5 +91236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:38:03.214777+00:00"
+  "updated_at": "2026-11-04T07:38:05.189166+00:00"
 }
