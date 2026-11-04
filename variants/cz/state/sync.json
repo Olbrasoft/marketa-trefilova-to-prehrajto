@@ -54633,17 +54633,19 @@
       "attempts": []
     },
     "1767": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18021367",
+          "target_video_id": "30783176",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:37:45.208566+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18021367",
         "display_name": "The Man Who Knew Infinity 1080p CZ Dabing",
         "planned_at": "2026-11-04T09:32:43.119301+00:00"
-      },
-      "claim": {
-        "worker_id": "49bb6d543da3496abf6f7ac049e37211-shard-0",
-        "claimed_at": "2026-11-04T09:32:43.280469+00:00",
-        "lease_expires_at": "2026-11-04T15:32:43.280469+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783176",
       "prepared": {
@@ -92546,5 +92548,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:36:29.067898+00:00"
+  "updated_at": "2026-11-04T09:37:45.208621+00:00"
 }
