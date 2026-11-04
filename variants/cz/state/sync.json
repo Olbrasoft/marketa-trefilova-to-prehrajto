@@ -52018,17 +52018,19 @@
       "attempts": []
     },
     "21233": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28179155",
+          "target_video_id": "30779303",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:43:44.904578+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28179155",
         "display_name": "Dumbo (1941) 1080p CZ Dabing",
         "planned_at": "2026-11-04T04:40:31.831066+00:00"
-      },
-      "claim": {
-        "worker_id": "f3d4cb9e4ccf4c26b3df63379ba27662-shard-0",
-        "claimed_at": "2026-11-04T04:40:31.961622+00:00",
-        "lease_expires_at": "2026-11-04T10:40:31.961622+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779303",
       "prepared": {
@@ -88864,5 +88866,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:40:35.976478+00:00"
+  "updated_at": "2026-11-04T04:43:44.904593+00:00"
 }
