@@ -18861,17 +18861,19 @@
       }
     },
     "32283": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34980965",
+          "target_video_id": "30778624",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:13:18.599616+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34980965",
         "display_name": "Jezebel 1080p CZ Titulky",
         "planned_at": "2026-11-04T03:49:56.900137+00:00"
-      },
-      "claim": {
-        "worker_id": "eebcfca5a15c46b9a14c0cae69753896-shard-0",
-        "claimed_at": "2026-11-04T03:49:56.932479+00:00",
-        "lease_expires_at": "2026-11-04T09:49:56.932479+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778624",
       "prepared": {
@@ -57520,5 +57522,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:13:16.102644+00:00"
+  "updated_at": "2026-11-04T04:13:18.599656+00:00"
 }
