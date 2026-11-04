@@ -53045,17 +53045,19 @@
       }
     },
     "1707": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34775687",
+          "target_video_id": "30780566",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:14:33.896557+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34775687",
         "display_name": "Hostiles SD CZ Dabing",
         "planned_at": "2026-11-04T06:09:38.063975+00:00"
-      },
-      "claim": {
-        "worker_id": "3cc78482e0d646cd82348fa2dfe82614-shard-0",
-        "claimed_at": "2026-11-04T06:09:38.221592+00:00",
-        "lease_expires_at": "2026-11-04T12:09:38.221592+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780566",
       "prepared": {
@@ -90035,5 +90037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:13:57.574314+00:00"
+  "updated_at": "2026-11-04T06:14:33.896581+00:00"
 }
