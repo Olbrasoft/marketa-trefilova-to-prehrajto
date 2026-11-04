@@ -58623,17 +58623,19 @@
       "attempts": []
     },
     "10953": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29306384",
+          "target_video_id": "30795904",
+          "permanent": false,
+          "attempted_at": "2026-11-04T22:42:39.731257+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29306384",
         "display_name": "Asterix and Cleopatra (Astérix et Cléopâtre) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:39:02.385961+00:00"
-      },
-      "claim": {
-        "worker_id": "1e41f6622e1c4829a48bf5c3e34de266-shard-0",
-        "claimed_at": "2026-11-04T22:39:02.610601+00:00",
-        "lease_expires_at": "2026-11-05T04:39:02.610601+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30795904",
       "prepared": {
@@ -99408,5 +99410,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T22:40:36.570126+00:00"
+  "updated_at": "2026-11-04T22:42:39.731277+00:00"
 }
