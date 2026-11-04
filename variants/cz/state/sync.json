@@ -53189,17 +53189,19 @@
       }
     },
     "13144": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32947696",
+          "target_video_id": "30780689",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:26:59.156466+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32947696",
         "display_name": "Gosford Park 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:21:37.762884+00:00"
-      },
-      "claim": {
-        "worker_id": "5a4b7bdc8b84473fab7b1940ab31b35f-shard-0",
-        "claimed_at": "2026-11-04T06:21:39.413274+00:00",
-        "lease_expires_at": "2026-11-04T12:21:39.413274+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780689",
       "prepared": {
@@ -90205,5 +90207,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:26:00.585360+00:00"
+  "updated_at": "2026-11-04T06:26:59.156485+00:00"
 }
