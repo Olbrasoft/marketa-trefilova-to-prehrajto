@@ -52161,17 +52161,19 @@
       }
     },
     "1630": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26500285",
+          "target_video_id": "30779412",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:56:05.592126+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26500285",
         "display_name": "Belfast 1080p CZ Dabing",
         "planned_at": "2026-11-04T04:49:50.793813+00:00"
-      },
-      "claim": {
-        "worker_id": "6dfc3b7371f64e399620b28c2cdc576f-shard-0",
-        "claimed_at": "2026-11-04T04:49:50.918564+00:00",
-        "lease_expires_at": "2026-11-04T10:49:50.918564+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779412",
       "prepared": {
@@ -88998,5 +89000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:50:32.483127+00:00"
+  "updated_at": "2026-11-04T04:56:05.592142+00:00"
 }
