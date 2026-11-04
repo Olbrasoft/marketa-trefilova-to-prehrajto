@@ -56140,17 +56140,19 @@
       "attempts": []
     },
     "24091": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6006226",
+          "target_video_id": "30785509",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:32:40.500604+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6006226",
         "display_name": "Sweet and Lowdown SD CZ Dabing",
         "planned_at": "2026-11-04T12:30:48.341418+00:00"
-      },
-      "claim": {
-        "worker_id": "2004ce937c714852a4b75628e10631fb-shard-0",
-        "claimed_at": "2026-11-04T12:30:48.587645+00:00",
-        "lease_expires_at": "2026-11-04T18:30:48.587645+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785509",
       "prepared": {
@@ -94623,5 +94625,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:32:37.499813+00:00"
+  "updated_at": "2026-11-04T12:32:40.500628+00:00"
 }
