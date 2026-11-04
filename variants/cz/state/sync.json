@@ -42767,13 +42767,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:11:07.403274+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-04T08:50:40.276501+00:00"
         },
         {
@@ -42782,6 +42775,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-04T09:21:54.947062+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:22:31.204317+00:00"
         }
       ],
       "last_plan": {
@@ -45599,7 +45599,7 @@
       "last_plan": {
         "source_id": "27568018",
         "display_name": "North Country SD CZ Dabing",
-        "planned_at": "2026-11-04T09:21:56.352428+00:00"
+        "planned_at": "2026-11-04T10:22:30.133024+00:00"
       },
       "previous_target_id": "30768107",
       "prepared": {
@@ -45607,6 +45607,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-03T16:40:17.731197+00:00",
         "relay_source_id": "27568018"
+      },
+      "claim": {
+        "worker_id": "92d4bb60a446472ca964cb8dd032219c-shard-0",
+        "claimed_at": "2026-11-04T10:22:30.637968+00:00",
+        "lease_expires_at": "2026-11-04T16:22:30.637968+00:00",
+        "run_id": "41791915876"
       }
     },
     "23428": {
@@ -54929,6 +54935,12 @@
         "source_id": "33875111",
         "display_name": "The Report 1080p CZ Dabing",
         "planned_at": "2026-11-04T10:22:27.553588+00:00"
+      },
+      "claim": {
+        "worker_id": "6622bdddbc134f4fa04e35bf69521384-shard-0",
+        "claimed_at": "2026-11-04T10:22:29.919672+00:00",
+        "lease_expires_at": "2026-11-04T16:22:29.919672+00:00",
+        "run_id": "41791915876"
       }
     },
     "1638": {
@@ -54936,7 +54948,7 @@
       "last_plan": {
         "source_id": "34721197",
         "display_name": "In the Heights 720p CZ Dabing",
-        "planned_at": "2026-11-04T10:22:27.607675+00:00"
+        "planned_at": "2026-11-04T10:22:30.469935+00:00"
       }
     },
     "1637": {
@@ -93007,5 +93019,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:22:27.607693+00:00"
+  "updated_at": "2026-11-04T10:22:31.204338+00:00"
 }
