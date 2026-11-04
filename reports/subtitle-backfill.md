@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T19:24:02.120605+00:00
+Poslední aktualizace (UTC): 2026-11-04T19:24:06.443660+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 254, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 255, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -72,7 +72,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvo
 | [American Sniper 1080p CZ Titulky](https://prehraj.to/american-sniper-1080p-cz-titulky-mkv/931c810618b87a12) (ID 30781858) | [Sdílej 34809887](https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv) | target_unavailable | 2026-11-04T07:56:58.445531+00:00 |
 | [Anora 4K CZ Titulky](https://prehraj.to/anora-4k-cz-titulky-mkv/9ff154c1166c44e3) (ID 30753012) | [Sdílej 30450437](https://sdilej.cz/30450437/anora-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:15:52.736668+00:00 |
 | [Army of Darkness 1080p CZ Titulky](https://prehraj.to/army-of-darkness-1080p-cz-titulky-mkv/de829709c7cdc288) (ID 30755736) | [Sdílej 35401994](https://sdilej.cz/35401994/army.of.darkness.1992.dc.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-03T13:15:38.177570+00:00 |
-| [Ballon 1080p CZ Titulky](https://prehraj.to/ballon-1080p-cz-titulky-mkv/c55092457687aa31) (ID 30745387) | [Sdílej 11542524](https://sdilej.cz/11542524/ballon.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-03T13:15:17.494327+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | target_unavailable | 2026-11-04T18:03:41.220564+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-04T18:46:53.167140+00:00 |
 | [Bullet Train 4K CZ Titulky](https://prehraj.to/bullet-train-4k-cz-titulky-mkv/95fe5c110bdf5dec) (ID 30782256) | [Sdílej 26997444](https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv) | target_unavailable | 2026-11-04T08:27:19.962269+00:00 |
