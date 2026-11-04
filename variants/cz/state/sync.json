@@ -56882,17 +56882,19 @@
       "attempts": []
     },
     "21870": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21855161",
+          "target_video_id": "30787173",
+          "permanent": false,
+          "attempted_at": "2026-11-04T13:59:15.503772+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21855161",
         "display_name": "Point Blank (1967) SD CZ Dabing",
         "planned_at": "2026-11-04T13:57:53.882345+00:00"
-      },
-      "claim": {
-        "worker_id": "d439c1c5920547dcbd0735e55efd2c8a-shard-0",
-        "claimed_at": "2026-11-04T13:57:54.124191+00:00",
-        "lease_expires_at": "2026-11-04T19:57:54.124191+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787173",
       "prepared": {
@@ -95507,5 +95509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T13:57:57.499980+00:00"
+  "updated_at": "2026-11-04T13:59:15.503797+00:00"
 }
