@@ -49360,17 +49360,19 @@
       "attempts": []
     },
     "21771": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31605868",
+          "target_video_id": "30775464",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:07:28.829687+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31605868",
         "display_name": "Shenandoah SD CZ Dabing",
         "planned_at": "2026-11-04T00:03:22.124670+00:00"
-      },
-      "claim": {
-        "worker_id": "b25746983f7f449ba3c3bbf66e0d84d6-shard-0",
-        "claimed_at": "2026-11-04T00:03:22.242835+00:00",
-        "lease_expires_at": "2026-11-04T06:03:22.242835+00:00",
-        "run_id": "41730144184"
       },
       "previous_target_id": "30775464",
       "prepared": {
@@ -85204,5 +85206,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:06:54.164294+00:00"
+  "updated_at": "2026-11-04T00:07:28.829706+00:00"
 }
