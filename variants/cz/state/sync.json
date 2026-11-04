@@ -55909,17 +55909,19 @@
       }
     },
     "1611": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26597010",
+          "target_video_id": "30785253",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:24:10.462146+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26597010",
         "display_name": "Living 1080p CZ Dabing",
         "planned_at": "2026-11-04T12:13:24.801750+00:00"
-      },
-      "claim": {
-        "worker_id": "a6862df5ea294ee5bea365da4c0a3b8c-shard-0",
-        "claimed_at": "2026-11-04T12:13:25.040795+00:00",
-        "lease_expires_at": "2026-11-04T18:13:25.040795+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785253",
       "prepared": {
@@ -94487,5 +94489,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:24:08.406841+00:00"
+  "updated_at": "2026-11-04T12:24:10.462174+00:00"
 }
