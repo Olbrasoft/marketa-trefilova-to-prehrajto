@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-04T13:50:45.713701+00:00"
+        "planned_at": "2026-11-04T14:27:10.964021+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "64317501e4eb4f1b9c71fe1b5b34f039-shard-0",
+        "claimed_at": "2026-11-04T14:27:11.391718+00:00",
+        "lease_expires_at": "2026-11-04T20:27:11.391718+00:00",
+        "run_id": "41820326732"
       }
     },
     "29922": {
@@ -57105,17 +57111,19 @@
       "attempts": []
     },
     "1571": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32826982",
+          "target_video_id": "30787339",
+          "permanent": false,
+          "attempted_at": "2026-11-04T14:27:50.402664+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32826982",
         "display_name": "Stargate: The Ark of Truth 4K CZ Dabing",
         "planned_at": "2026-11-04T14:08:06.646812+00:00"
-      },
-      "claim": {
-        "worker_id": "6dacc2a7e1374f7eaab7dbfd6c9c117b-shard-0",
-        "claimed_at": "2026-11-04T14:08:06.895432+00:00",
-        "lease_expires_at": "2026-11-04T20:08:06.895432+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787339",
       "prepared": {
@@ -57183,7 +57191,7 @@
       "last_plan": {
         "source_id": "33767356",
         "display_name": "Armour of God II: Operation Condor (飛鷹計劃) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T14:27:07.993557+00:00"
+        "planned_at": "2026-11-04T14:27:11.144187+00:00"
       }
     },
     "21635": {
@@ -96028,5 +96036,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T14:27:09.093341+00:00"
+  "updated_at": "2026-11-04T14:27:50.402685+00:00"
 }
