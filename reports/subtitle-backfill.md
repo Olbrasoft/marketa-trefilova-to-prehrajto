@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T18:47:16.786464+00:00
+Poslední aktualizace (UTC): 2026-11-04T18:47:20.516191+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -108,7 +108,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 75. Důvod
 | [North Face (Nordwand) 720p CZ Titulky](https://prehraj.to/north-face-nordwand-720p-cz-titulky-mkv/62f0d8df805960ed) (ID 30778473) | [Sdílej 6111113](https://sdilej.cz/6111113/nordwand-north-face-2008-.brrip.h264.aac-ceske-titulky.mkv) | target_unavailable | 2026-11-04T03:42:19.186557+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T13:06:46.100930+00:00 |
 | [Ordinary Angels 1440p CZ Titulky](https://prehraj.to/ordinary-angels-1440p-cz-titulky-mkv/7d575aeef6e5c288) (ID 30777016) | [Sdílej 28887116](https://sdilej.cz/28887116/ordinary-angels-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-04T01:51:03.732033+00:00 |
-| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T13:06:37.230787+00:00 |
+| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-04T18:47:20.516119+00:00 |
 | [Predator: Killer of Killers 4K CZ Titulky](https://prehraj.to/predator-killer-of-killers-4k-cz-titulky-mkv/74e3a04253b71303) (ID 30770514) | [Sdílej 31244377](https://sdilej.cz/31244377/predator-zabijak-zabijaku-2025-akcni-animovany-usa-cztit-2160p.mkv) | target_unavailable | 2026-11-03T18:06:15.866283+00:00 |
 | [Ready Player One 1080p CZ Titulky](https://prehraj.to/ready-player-one-1080p-cz-titulky-mkv/2c55f30281f91b95) (ID 30750049) | [Sdílej 14502469](https://sdilej.cz/14502469/ready-player-one-hra-zacina-2018-m1080p-web-dl-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-03T13:15:56.222318+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-03T13:07:01.068900+00:00 |
