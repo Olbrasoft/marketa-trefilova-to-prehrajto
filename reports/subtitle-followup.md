@@ -383,3 +383,4 @@ Attach subtitles only after target processing has finished.
 | The Evil Dead 1080p CZ Titulky | 30789688 | https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv | Extract Czech track from exact source after processing |
 | Doctor Sleep 1080p CZ Titulky | 30790059 | https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | Dogma 1080p CZ Titulky | 30790077 | https://sdilej.cz/15676655/dogma.mkv | Extract Czech track from exact source after processing |
+| Blue Jasmine 1080p CZ Titulky | 30790802 | https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4 | Extract Czech track from exact source after processing |
