@@ -55313,17 +55313,19 @@
       }
     },
     "21803": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "18581288",
+          "reason": "Request failed for https://sdilej.cz/18581288/451-stup-fahrenheita-1966-cz-dabing-sci-fi-drama.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:14:09.625687+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18581288",
         "display_name": "Fahrenheit 451 (1966) SD CZ Dabing",
         "planned_at": "2026-11-04T11:13:22.858195+00:00"
-      },
-      "claim": {
-        "worker_id": "bab54e0f68914652bf94ec38ff6c5256-shard-0",
-        "claimed_at": "2026-11-04T11:13:23.121495+00:00",
-        "lease_expires_at": "2026-11-04T17:13:23.121495+00:00",
-        "run_id": "41791915876"
       }
     },
     "12025": {
@@ -93339,5 +93341,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:13:23.121528+00:00"
+  "updated_at": "2026-11-04T11:14:09.625707+00:00"
 }
