@@ -54812,17 +54812,19 @@
       }
     },
     "11625": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32797927",
+          "target_video_id": "30783281",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:50:56.930421+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32797927",
         "display_name": "The Hitcher (1986) 4K CZ Dabing",
         "planned_at": "2026-11-04T09:44:40.233277+00:00"
-      },
-      "claim": {
-        "worker_id": "2f88317c0daa43f38d785d4d99756d3b-shard-0",
-        "claimed_at": "2026-11-04T09:44:40.378203+00:00",
-        "lease_expires_at": "2026-11-04T15:44:40.378203+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783281",
       "prepared": {
@@ -92662,5 +92664,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:50:38.104752+00:00"
+  "updated_at": "2026-11-04T09:50:56.930445+00:00"
 }
