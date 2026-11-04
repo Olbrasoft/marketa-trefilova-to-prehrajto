@@ -58694,17 +58694,19 @@
       "attempts": []
     },
     "1646": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34141924",
+          "target_video_id": "30795986",
+          "permanent": false,
+          "attempted_at": "2026-11-04T22:56:48.624687+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34141924",
         "display_name": "Heroic Losers (La odisea de los giles) 1080p CZ Dabing",
         "planned_at": "2026-11-04T22:44:01.963609+00:00"
-      },
-      "claim": {
-        "worker_id": "cc004d3fb14049188744b962305f83b2-shard-0",
-        "claimed_at": "2026-11-04T22:44:02.188629+00:00",
-        "lease_expires_at": "2026-11-05T04:44:02.188629+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30795986",
       "prepared": {
@@ -99479,5 +99481,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T22:49:01.130955+00:00"
+  "updated_at": "2026-11-04T22:56:48.624709+00:00"
 }
