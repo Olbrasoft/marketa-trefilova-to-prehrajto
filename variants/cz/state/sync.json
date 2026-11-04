@@ -27195,13 +27195,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-04T09:20:55.611173+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-04T10:11:21.181730+00:00"
         },
         {
@@ -27210,12 +27203,19 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-04T10:55:09.968095+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:25:12.881206+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
-        "planned_at": "2026-11-04T10:54:51.655479+00:00"
+        "planned_at": "2026-11-04T11:25:11.585301+00:00"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -55451,10 +55451,21 @@
         "source_id": "21642914",
         "display_name": "Dirty Pretty Things SD CZ Dabing",
         "planned_at": "2026-11-04T11:25:08.574650+00:00"
+      },
+      "claim": {
+        "worker_id": "5467052877a94c1c8866d27c9b39eaf2-shard-0",
+        "claimed_at": "2026-11-04T11:25:11.196634+00:00",
+        "lease_expires_at": "2026-11-04T17:25:11.196634+00:00",
+        "run_id": "41791915876"
       }
     },
     "11242": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29917878",
+        "display_name": "Slap Shot SD CZ Dabing",
+        "planned_at": "2026-11-04T11:25:11.690004+00:00"
+      }
     },
     "21236": {
       "attempts": []
@@ -93722,5 +93733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:25:08.574673+00:00"
+  "updated_at": "2026-11-04T11:25:12.881228+00:00"
 }
