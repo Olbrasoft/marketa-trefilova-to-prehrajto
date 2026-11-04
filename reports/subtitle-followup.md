@@ -368,19 +368,19 @@ Attach subtitles only after target processing has finished.
 | Fantastic Fungi 1080p CZ Titulky | 30780850 | https://sdilej.cz/31754403/zazracne-houby-fantastic-fungi-2019-en-dab-cz-tit-.mkv | Complete: Czech subtitles verified |
 | Tenet 1080p CZ Titulky | 30781288 | https://sdilej.cz/14854574/tenet.2020.cz.sub.imax.1080p.bluray.h264.aac-rarbg.mkv | Complete: Czech subtitles verified |
 | X-Men 4K CZ Titulky | 30781619 | https://sdilej.cz/28350650/-uhd-x-men-i.-2000-.mkv | Extract Czech track from exact source after processing |
-| Split 1080p CZ Titulky | 30781802 | https://sdilej.cz/7325671/rozpolceny-split-2016-brrip-cz.titulky.mkv | Extract Czech track from exact source after processing |
-| American Sniper 1080p CZ Titulky | 30781858 | https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
-| Bullet Train 4K CZ Titulky | 30782256 | https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv | Extract Czech track from exact source after processing |
-| No Time to Die 4K CZ Titulky | 30782648 | https://sdilej.cz/34673696/james-bond-neni-cas-zemrit-2021-uhd.mkv | Extract Czech track from exact source after processing |
-| Despicable Me 2 4K CZ Titulky | 30782803 | https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv | Extract Czech track from exact source after processing |
-| Fast Five 1080p CZ Titulky | 30783150 | https://sdilej.cz/27635276/rychle-a-zbesile-5-hd.mkv | Extract Czech track from exact source after processing |
-| El Camino: A Breaking Bad Movie 1080p CZ Titulky | 30784985 | https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Split 1080p CZ Titulky | 30781802 | https://sdilej.cz/7325671/rozpolceny-split-2016-brrip-cz.titulky.mkv | Complete: Czech subtitles verified |
+| American Sniper 1080p CZ Titulky | 30781858 | https://sdilej.cz/34809887/american-sniper-2014-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
+| Bullet Train 4K CZ Titulky | 30782256 | https://sdilej.cz/26997444/bullet-train-2022-cz-dabing-4k-uhd-2160p.mkv | Complete: Czech subtitles verified |
+| No Time to Die 4K CZ Titulky | 30782648 | https://sdilej.cz/34673696/james-bond-neni-cas-zemrit-2021-uhd.mkv | Complete: Czech subtitles verified |
+| Despicable Me 2 4K CZ Titulky | 30782803 | https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv | Complete: Czech subtitles verified |
+| Fast Five 1080p CZ Titulky | 30783150 | https://sdilej.cz/27635276/rychle-a-zbesile-5-hd.mkv | Complete: Czech subtitles verified |
+| El Camino: A Breaking Bad Movie 1080p CZ Titulky | 30784985 | https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv | Complete: Czech subtitles verified |
 | Alita: Battle Angel 4K CZ Titulky | 30785611 | https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv | Extract Czech track from exact source after processing |
-| Identity 1080p CZ Titulky | 30786647 | https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv | Extract Czech track from exact source after processing |
-| The Lincoln Lawyer 1080p CZ Titulky | 30787804 | https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv | Extract Czech track from exact source after processing |
-| Wake Up Dead Man (Wake Up Dead Man: A Knives Out Mystery) 4K CZ Titulky | 30788177 | https://sdilej.cz/32607681/wake.up.dead.man.a.knives.out.mystery.2025.2160p.nf.web-dl.ddp5.1.atmos.dv.hdr.h.265-byndr.mkv | Extract Czech track from exact source after processing |
+| Identity 1080p CZ Titulky | 30786647 | https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv | Complete: Czech subtitles verified |
+| The Lincoln Lawyer 1080p CZ Titulky | 30787804 | https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv | Complete: Czech subtitles verified |
+| Wake Up Dead Man (Wake Up Dead Man: A Knives Out Mystery) 4K CZ Titulky | 30788177 | https://sdilej.cz/32607681/wake.up.dead.man.a.knives.out.mystery.2025.2160p.nf.web-dl.ddp5.1.atmos.dv.hdr.h.265-byndr.mkv | Complete: Czech subtitles verified |
 | Wicked 4K CZ Titulky | 30788407 | https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv | Extract Czech track from exact source after processing |
-| The Evil Dead 1080p CZ Titulky | 30789688 | https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv | Extract Czech track from exact source after processing |
+| The Evil Dead 1080p CZ Titulky | 30789688 | https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv | Complete: Czech subtitles verified |
 | Doctor Sleep 1080p CZ Titulky | 30790059 | https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | Dogma 1080p CZ Titulky | 30790077 | https://sdilej.cz/15676655/dogma.mkv | Extract Czech track from exact source after processing |
 | Blue Jasmine 1080p CZ Titulky | 30790802 | https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4 | Extract Czech track from exact source after processing |
