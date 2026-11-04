@@ -21530,13 +21530,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-04T03:13:41.509060+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-04T03:45:14.672404+00:00"
         },
         {
@@ -21545,12 +21538,19 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-04T04:15:49.255492+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:45:51.448210+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T04:15:47.438016+00:00"
+        "planned_at": "2026-11-04T04:45:50.121186+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -52057,11 +52057,22 @@
       "last_plan": {
         "source_id": "6077612",
         "display_name": "Chasing Amy SD CZ Dabing",
-        "planned_at": "2026-11-04T04:45:47.296097+00:00"
+        "planned_at": "2026-11-04T04:45:50.209845+00:00"
+      },
+      "claim": {
+        "worker_id": "8bd1ba1f60024cb4a58867d3c86b34da-shard-0",
+        "claimed_at": "2026-11-04T04:45:50.386377+00:00",
+        "lease_expires_at": "2026-11-04T10:45:50.386377+00:00",
+        "run_id": "41760503575"
       }
     },
     "23779": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29163832",
+        "display_name": "Anastasia 1080p CZ Dabing",
+        "planned_at": "2026-11-04T04:45:50.265018+00:00"
+      }
     },
     "1392": {
       "attempts": []
@@ -88880,5 +88891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:45:48.459994+00:00"
+  "updated_at": "2026-11-04T04:45:51.448223+00:00"
 }
