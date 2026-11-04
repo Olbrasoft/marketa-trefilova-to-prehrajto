@@ -55082,17 +55082,19 @@
       "attempts": []
     },
     "11595": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22805169",
+          "target_video_id": "30783993",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:47:46.474650+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22805169",
         "display_name": "Silverado 1080p CZ Dabing",
         "planned_at": "2026-11-04T10:41:59.564818+00:00"
-      },
-      "claim": {
-        "worker_id": "01f1b13a8e4e4a36b2911ee9ea0dbac5-shard-0",
-        "claimed_at": "2026-11-04T10:41:59.821153+00:00",
-        "lease_expires_at": "2026-11-04T16:41:59.821153+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783993",
       "prepared": {
@@ -93160,5 +93162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:47:38.673991+00:00"
+  "updated_at": "2026-11-04T10:47:46.474678+00:00"
 }
