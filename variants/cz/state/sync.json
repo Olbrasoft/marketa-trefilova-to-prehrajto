@@ -56000,17 +56000,19 @@
       }
     },
     "1642": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17856177",
+          "target_video_id": "30785445",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:29:33.220053+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17856177",
         "display_name": "Wish Dragon 1080p CZ Dabing",
         "planned_at": "2026-11-04T12:26:04.405907+00:00"
-      },
-      "claim": {
-        "worker_id": "1a119741952f4a9a94f256fff5c95b54-shard-0",
-        "claimed_at": "2026-11-04T12:26:04.798110+00:00",
-        "lease_expires_at": "2026-11-04T18:26:04.798110+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785445",
       "prepared": {
@@ -94551,5 +94553,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:29:30.259288+00:00"
+  "updated_at": "2026-11-04T12:29:33.220077+00:00"
 }
