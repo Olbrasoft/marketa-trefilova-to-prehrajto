@@ -51410,17 +51410,19 @@
       "attempts": []
     },
     "10818": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31269099",
+          "target_video_id": "30778568",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:57:11.829871+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31269099",
         "display_name": "Dr. No 4K CZ Dabing",
         "planned_at": "2026-11-04T03:45:06.538744+00:00"
-      },
-      "claim": {
-        "worker_id": "4bd6d0cb36024c04aee3cb491a9cd714-shard-0",
-        "claimed_at": "2026-11-04T03:45:06.789494+00:00",
-        "lease_expires_at": "2026-11-04T09:45:06.789494+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778568",
       "prepared": {
@@ -88114,5 +88116,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:55:57.750240+00:00"
+  "updated_at": "2026-11-04T03:57:11.829890+00:00"
 }
