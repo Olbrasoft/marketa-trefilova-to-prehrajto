@@ -54878,17 +54878,19 @@
       }
     },
     "12798": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33775175",
+          "target_video_id": "30783612",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:16:04.771768+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33775175",
         "display_name": "Quills 1080p CZ Dabing",
         "planned_at": "2026-11-04T10:09:37.527397+00:00"
-      },
-      "claim": {
-        "worker_id": "914735b2bf5144058c1be2c73ca879cc-shard-0",
-        "claimed_at": "2026-11-04T10:09:37.856075+00:00",
-        "lease_expires_at": "2026-11-04T16:09:37.856075+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783612",
       "prepared": {
@@ -92721,5 +92723,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:15:17.518423+00:00"
+  "updated_at": "2026-11-04T10:16:04.771791+00:00"
 }
