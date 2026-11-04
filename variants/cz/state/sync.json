@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-04T16:56:47.218146+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-04T17:31:11.160324+00:00"
         },
         {
@@ -4158,12 +4151,19 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-04T18:10:38.183772+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-04T22:30:50.079510+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T18:10:35.534603+00:00"
+        "planned_at": "2026-11-04T22:30:46.789262+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -58527,7 +58527,13 @@
       "last_plan": {
         "source_id": "27053108",
         "display_name": "The Dark House (Dom zły) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T22:30:43.237411+00:00"
+        "planned_at": "2026-11-04T22:30:46.946417+00:00"
+      },
+      "claim": {
+        "worker_id": "a0844a099dd44a19a5d9e704f8407a89-shard-0",
+        "claimed_at": "2026-11-04T22:30:47.321987+00:00",
+        "lease_expires_at": "2026-11-05T04:30:47.321987+00:00",
+        "run_id": "41924666202"
       }
     },
     "23813": {
@@ -58544,7 +58550,7 @@
       "last_plan": {
         "source_id": "6048263",
         "display_name": "All the Way SD CZ Dabing",
-        "planned_at": "2026-11-04T22:28:09.139141+00:00"
+        "planned_at": "2026-11-04T22:30:47.029873+00:00"
       }
     },
     "20138": {
@@ -99305,5 +99311,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T22:30:44.935370+00:00"
+  "updated_at": "2026-11-04T22:30:50.079532+00:00"
 }
