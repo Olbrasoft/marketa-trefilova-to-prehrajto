@@ -58330,17 +58330,19 @@
       }
     },
     "11026": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30647124",
+          "target_video_id": "30791134",
+          "permanent": false,
+          "attempted_at": "2026-11-04T18:33:47.698341+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30647124",
         "display_name": "I Never Sang for My Father 1080p CZ Dabing",
         "planned_at": "2026-11-04T18:14:50.095765+00:00"
-      },
-      "claim": {
-        "worker_id": "23287a7bcdb54e00866e9af078a19dd6-shard-0",
-        "claimed_at": "2026-11-04T18:14:50.248198+00:00",
-        "lease_expires_at": "2026-11-05T00:14:50.248198+00:00",
-        "run_id": "41857105355"
       },
       "previous_target_id": "30791134",
       "prepared": {
@@ -98100,5 +98102,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T18:31:16.100887+00:00"
+  "updated_at": "2026-11-04T18:33:47.698350+00:00"
 }
