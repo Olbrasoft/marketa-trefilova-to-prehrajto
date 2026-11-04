@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T03:42:17.287821+00:00
+Poslední aktualizace (UTC): 2026-11-04T03:42:19.186823+00:00
 
 Zkontrolováno videí: 359. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -91,6 +91,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Důvod
 | [Marathon Man 1080p CZ Titulky](https://prehraj.to/marathon-man-1080p-cz-titulky-mkv/0a907ba24f3e8f97) (ID 30763573) | [Sdílej 20877545](https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv) | target_unavailable | 2026-11-03T14:24:18.994403+00:00 |
 | [Miss Americana 1080p CZ Titulky](https://prehraj.to/miss-americana-1080p-cz-titulky-mkv/ca4f884d8573558e) (ID 30776455) | [Sdílej 13059506](https://sdilej.cz/13059506/taylor-swift-miss-americana-2020-1080p-cz-tit..mkv) | target_unavailable | 2026-11-04T01:10:51.793874+00:00 |
 | [Mission: Impossible – Rogue Nation (Mission: Impossible - Rogue Nation) 1080p CZ Titulky](https://prehraj.to/mission-impossible-rogue-nation-mission-impossible-rogue-nation-1080p-cz-titulky-mkv/3e9675d878ecb622) (ID 30749326) | [Sdílej 18594920](https://sdilej.cz/18594920/mission-impossible-v-narod-grazlu-2015-en-cz-sk.mkv) | target_unavailable | 2026-11-03T13:15:41.878475+00:00 |
+| [North Face (Nordwand) 720p CZ Titulky](https://prehraj.to/north-face-nordwand-720p-cz-titulky-mkv/62f0d8df805960ed) (ID 30778473) | [Sdílej 6111113](https://sdilej.cz/6111113/nordwand-north-face-2008-.brrip.h264.aac-ceske-titulky.mkv) | target_unavailable | 2026-11-04T03:42:19.186557+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-03T13:06:46.100930+00:00 |
 | [Ordinary Angels 1440p CZ Titulky](https://prehraj.to/ordinary-angels-1440p-cz-titulky-mkv/7d575aeef6e5c288) (ID 30777016) | [Sdílej 28887116](https://sdilej.cz/28887116/ordinary-angels-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-04T01:51:03.732033+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-03T13:06:37.230787+00:00 |
