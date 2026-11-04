@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T16:32:57.449097+00:00
+Poslední aktualizace (UTC): 2026-11-04T16:33:01.429065+00:00
 
 Zkontrolováno videí: 379. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -120,6 +120,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 72. Důvod
 | [Tesis (Thesis) 720p CZ Titulky](https://prehraj.to/tesis-thesis-720p-cz-titulky-mkv/f1b641cfa5bd6f4a) (ID 30772601) | [Sdílej 34938075](https://sdilej.cz/34938075/1996-diplomova-prace-thriller-drama-horor-mysteriozni-74-ana-torrent-cz.-tit..mkv) | target_unavailable | 2026-11-03T20:43:40.190290+00:00 |
 | [Tetris 4K CZ Titulky](https://prehraj.to/tetris-4k-cz-titulky-mkv/58b60079ca64385b) (ID 30761160) | [Sdílej 25659411](https://sdilej.cz/25659411/tetris.2023.2160p.atvp.web-dl.ddp5.1.atmos.hdr.dv.hevc-cmrg-cz-titulky-.mkv) | target_unavailable | 2026-11-03T13:55:36.746821+00:00 |
 | [The Ballad of Wallis Island 1080p CZ Titulky](https://prehraj.to/the-ballad-of-wallis-island-1080p-cz-titulky-mkv/ae0b07560deb89a1) (ID 30776524) | [Sdílej 32526153](https://sdilej.cz/32526153/the-ballad-of-wallis-island-2025-1080p-x264-5.1-cz-tit-komedie.mkv) | target_unavailable | 2026-11-04T01:20:49.851178+00:00 |
+| [The Evil Dead 1080p CZ Titulky](https://prehraj.to/the-evil-dead-1080p-cz-titulky-mkv/0df3f994d333cdd5) (ID 30789688) | [Sdílej 35161536](https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv) | target_unavailable | 2026-11-04T16:33:01.428980+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-03T13:05:45.545397+00:00 |
 | [The Girl with the Needle (Pigen med nålen) 1440p CZ Titulky](https://prehraj.to/the-girl-with-the-needle-pigen-med-nalen-1440p-cz-titulky-mkv/0138f4cdc3431178) (ID 30743003) | [Sdílej 30632726](https://sdilej.cz/30632726/the.girl.with.the.needle-2024-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:07:08.087248+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-03T13:06:30.232201+00:00 |
