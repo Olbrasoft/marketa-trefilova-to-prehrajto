@@ -18855,7 +18855,7 @@
       "last_plan": {
         "source_id": "6111113",
         "display_name": "North Face (Nordwand) 720p CZ Titulky",
-        "planned_at": "2026-11-04T11:53:01.448986+00:00"
+        "planned_at": "2026-11-04T12:24:21.922098+00:00"
       },
       "previous_target_id": "30778473",
       "prepared": {
@@ -18863,6 +18863,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-04T03:35:39.882184+00:00",
         "relay_source_id": "6111113"
+      },
+      "claim": {
+        "worker_id": "eaab590f2b6643bcb933e95add5e5d28-shard-0",
+        "claimed_at": "2026-11-04T12:24:22.094828+00:00",
+        "lease_expires_at": "2026-11-04T18:24:22.094828+00:00",
+        "run_id": "41820326732"
       }
     },
     "25526": {
@@ -19178,17 +19184,23 @@
           "attempted_at": "2026-11-04T11:52:59.561778+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31754403",
-        "display_name": "Fantastic Fungi 1080p CZ Titulky",
-        "planned_at": "2026-11-04T12:24:19.262556+00:00"
-      },
       "previous_target_id": "30780850",
-      "prepared": {
+      "upload": {
         "target_video_id": "30780850",
+        "display_name": "Fantastic Fungi 1080p CZ Titulky",
+        "source_id": "31754403",
+        "source_url": "https://sdilej.cz/31754403/zazracne-houby-fantastic-fungi-2019-en-dab-cz-tit-.mkv",
+        "source_filename": "Zazracne houby (Fantastic Fungi 2019) [EN dab] [CZ tit].mkv",
         "size_bytes": 6900000000,
-        "prepared_at": "2026-11-04T06:37:20.113360+00:00",
-        "relay_source_id": "31754403"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "en",
+        "language_probability": 0.9953479170799255,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/fantastic-fungi-1080p-cz-titulky-mkv/65df0ea6fb10a5fe",
+        "uploaded_at": "2026-11-04T12:24:22.558653+00:00"
       }
     },
     "14612": {
@@ -60429,5 +60441,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:24:19.429098+00:00"
+  "updated_at": "2026-11-04T12:24:22.558670+00:00"
 }
