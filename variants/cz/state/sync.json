@@ -52574,17 +52574,19 @@
       }
     },
     "15878": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11763077",
+          "target_video_id": "30779831",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:24:21.653158+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11763077",
         "display_name": "Fences 1080p CZ Dabing",
         "planned_at": "2026-11-04T05:17:29.459025+00:00"
-      },
-      "claim": {
-        "worker_id": "e2bb54085fbb4d8ea9242386db3b82a6-shard-0",
-        "claimed_at": "2026-11-04T05:17:29.582490+00:00",
-        "lease_expires_at": "2026-11-04T11:17:29.582490+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779831",
       "prepared": {
@@ -89375,5 +89377,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:21:08.983186+00:00"
+  "updated_at": "2026-11-04T05:24:21.653177+00:00"
 }
