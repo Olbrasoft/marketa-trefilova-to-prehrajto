@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T06:03:42.120782+00:00
+Poslední aktualizace (UTC): 2026-11-04T06:03:47.855038+00:00
 
 Zkontrolováno videí: 363. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 49, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 50, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -74,6 +74,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvod
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-03T13:06:08.649171+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-03T14:14:13.285915+00:00 |
 | [Burning (Beoning) (2018) 720p CZ Titulky](https://prehraj.to/burning-beoning-2018-720p-cz-titulky-mkv/8e80d707ebd16ea7) (ID 30761347) | [Sdílej 10716235](https://sdilej.cz/10716235/vzplanuti-cz-titulky-hd-720p.mkv) | target_unavailable | 2026-11-03T14:05:42.870242+00:00 |
+| [Caught in the Net (V síti) 1080p CZ Titulky](https://prehraj.to/caught-in-the-net-v-siti-1080p-cz-titulky-mkv/05bb8abb52945318) (ID 30780491) | [Sdílej 31920665](https://sdilej.cz/31920665/v-siti-2020-cz.mkv) | target_unavailable | 2026-11-04T06:03:47.287721+00:00 |
 | [Contempt 720p CZ Titulky](https://prehraj.to/contempt-720p-cz-titulky-mkv/8811a8061b244296) (ID 30773730) | [Sdílej 29423074](https://sdilej.cz/29423074/pohrdani-1963-le-mepris-brigitte-bardot-fra.-cz-eng-ttl..mkv) | target_unavailable | 2026-11-03T21:48:16.712801+00:00 |
 | [Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky](https://prehraj.to/divided-we-fall-musime-si-pomahat-1080p-cz-titulky-mkv/1f0ad966ebe3ad14) (ID 30775107) | [Sdílej 33306409](https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv) | target_unavailable | 2026-11-03T23:39:18.093989+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T13:15:20.974510+00:00 |
