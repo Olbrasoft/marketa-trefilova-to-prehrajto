@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "a1460ca444be4c95973da66ec0c1b6fc-shard-0",
+        "claimed_at": "2026-11-04T09:59:15.405324+00:00",
+        "lease_expires_at": "2026-11-04T15:59:15.405324+00:00",
+        "run_id": "41791915876"
       }
     },
     "31551": {
@@ -17599,13 +17605,6 @@
           "source_id": "7674339",
           "target_video_id": "30763383",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:07:58.057930+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7674339",
-          "target_video_id": "30763383",
-          "permanent": false,
           "attempted_at": "2026-11-04T08:47:17.722598+00:00"
         },
         {
@@ -17614,6 +17613,13 @@
           "target_video_id": "30763383",
           "permanent": false,
           "attempted_at": "2026-11-04T09:18:35.585477+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7674339",
+          "target_video_id": "30763383",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:59:14.373815+00:00"
         }
       ],
       "last_plan": {
@@ -17627,12 +17633,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
-      },
-      "claim": {
-        "worker_id": "2a87fca17bda4bd5b8c8e1b534570e33-shard-0",
-        "claimed_at": "2026-11-04T09:58:32.128241+00:00",
-        "lease_expires_at": "2026-11-04T15:58:32.128241+00:00",
-        "run_id": "41791915876"
       }
     },
     "24279": {
@@ -19097,7 +19097,7 @@
       "last_plan": {
         "source_id": "31920665",
         "display_name": "Caught in the Net (V síti) 1080p CZ Titulky",
-        "planned_at": "2026-11-04T09:18:42.310950+00:00"
+        "planned_at": "2026-11-04T09:59:15.944132+00:00"
       },
       "previous_target_id": "30780491",
       "prepared": {
@@ -59514,5 +59514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:58:56.197642+00:00"
+  "updated_at": "2026-11-04T09:59:15.944145+00:00"
 }
