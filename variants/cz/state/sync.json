@@ -55117,17 +55117,19 @@
       "attempts": []
     },
     "1691": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32634701",
+          "target_video_id": "30784067",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:54:08.998217+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32634701",
         "display_name": "Mongol (Монгол) 1080p CZ Dabing",
         "planned_at": "2026-11-04T10:48:33.575281+00:00"
-      },
-      "claim": {
-        "worker_id": "e7cc4c0a33db42668f90256b823b14d8-shard-0",
-        "claimed_at": "2026-11-04T10:48:39.665190+00:00",
-        "lease_expires_at": "2026-11-04T16:48:39.665190+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30784067",
       "prepared": {
@@ -93186,5 +93188,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:53:30.935128+00:00"
+  "updated_at": "2026-11-04T10:54:08.998238+00:00"
 }
