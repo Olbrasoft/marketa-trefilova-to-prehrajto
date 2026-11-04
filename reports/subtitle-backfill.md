@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T19:25:04.980356+00:00
+Poslední aktualizace (UTC): 2026-11-04T19:25:08.969986+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 267, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 54, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 268, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 53, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -94,7 +94,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvo
 | [Kill 4K CZ Titulky](https://prehraj.to/kill-4k-cz-titulky-mkv/57d1bd1d32d58816) (ID 30771978) | [Sdílej 29236159](https://sdilej.cz/29236159/boy-kills-world-2023-hd-2160p-sdr-dd-5.1-ang-cz-tit.mkv) | target_unavailable | 2026-11-03T20:01:45.277348+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-04T18:47:34.667357+00:00 |
 | [La Reine Margot 720p CZ Titulky](https://prehraj.to/la-reine-margot-720p-cz-titulky-mkv/f43030d73dea7b35) (ID 30778234) | [Sdílej 34130894](https://sdilej.cz/34130894/kralovna-margot-1994-queen-margot-czsubs-bluray-c7d3a6.mkv) | target_unavailable | 2026-11-04T03:11:57.145170+00:00 |
-| [Marathon Man 1080p CZ Titulky](https://prehraj.to/marathon-man-1080p-cz-titulky-mkv/0a907ba24f3e8f97) (ID 30763573) | [Sdílej 20877545](https://sdilej.cz/20877545/maratonec.1976.en.cz.mkv) | target_unavailable | 2026-11-03T14:24:18.994403+00:00 |
 | [Miss Americana 1080p CZ Titulky](https://prehraj.to/miss-americana-1080p-cz-titulky-mkv/ca4f884d8573558e) (ID 30776455) | [Sdílej 13059506](https://sdilej.cz/13059506/taylor-swift-miss-americana-2020-1080p-cz-tit..mkv) | target_unavailable | 2026-11-04T01:10:51.793874+00:00 |
 | [No Time to Die 4K CZ Titulky](https://prehraj.to/no-time-to-die-4k-cz-titulky-mkv/444aed957ec611d7) (ID 30782648) | [Sdílej 34673696](https://sdilej.cz/34673696/james-bond-neni-cas-zemrit-2021-uhd.mkv) | target_unavailable | 2026-11-04T08:57:28.629622+00:00 |
 | [North Face (Nordwand) 720p CZ Titulky](https://prehraj.to/north-face-nordwand-720p-cz-titulky-mkv/62f0d8df805960ed) (ID 30778473) | [Sdílej 6111113](https://sdilej.cz/6111113/nordwand-north-face-2008-.brrip.h264.aac-ceske-titulky.mkv) | target_unavailable | 2026-11-04T03:42:19.186557+00:00 |
