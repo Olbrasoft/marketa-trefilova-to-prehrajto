@@ -54467,7 +54467,20 @@
       }
     },
     "11115": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30411389",
+          "reason": "Source detail has no authenticated download link; source_id=30411389",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:11:22.011172+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30411389",
+        "display_name": "Magnum Force 4K CZ Dabing",
+        "planned_at": "2026-11-04T09:11:19.612780+00:00"
+      }
     },
     "23319": {
       "attempts": []
@@ -92093,5 +92106,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:11:17.906602+00:00"
+  "updated_at": "2026-11-04T09:11:22.011200+00:00"
 }
