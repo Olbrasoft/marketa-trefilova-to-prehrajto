@@ -384,4 +384,4 @@ Attach subtitles only after target processing has finished.
 | Doctor Sleep 1080p CZ Titulky | 30790059 | https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | Dogma 1080p CZ Titulky | 30790077 | https://sdilej.cz/15676655/dogma.mkv | Extract Czech track from exact source after processing |
 | Blue Jasmine 1080p CZ Titulky | 30790802 | https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4 | Extract Czech track from exact source after processing |
-| The Lego Batman Movie 4K CZ Titulky | 30795500 | https://sdilej.cz/34626570/lego-batman-film-animovany-2017-czdab.uhd.bluray.mkv | Extract Czech track from exact source after processing |
+| The Lego Batman Movie 4K CZ Titulky | 30795500 | https://sdilej.cz/34626570/lego-batman-film-animovany-2017-czdab.uhd.bluray.mkv | Complete: Czech subtitles verified |
