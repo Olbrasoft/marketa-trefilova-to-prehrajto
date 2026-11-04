@@ -59133,17 +59133,19 @@
       "attempts": []
     },
     "11249": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31688406",
+          "target_video_id": "30797228",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:52:10.154216+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31688406",
         "display_name": "La Cage aux Folles 1080p CZ Dabing",
         "planned_at": "2026-11-04T23:41:14.690662+00:00"
-      },
-      "claim": {
-        "worker_id": "0b7b8c58a39749ecafcaae88668d3d7c-shard-0",
-        "claimed_at": "2026-11-04T23:41:14.908776+00:00",
-        "lease_expires_at": "2026-11-05T05:41:14.908776+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797228",
       "prepared": {
@@ -100057,5 +100059,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:50:28.660831+00:00"
+  "updated_at": "2026-11-04T23:52:10.154236+00:00"
 }
