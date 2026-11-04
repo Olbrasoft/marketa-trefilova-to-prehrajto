@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:48:22.690713+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-04T09:19:43.278174+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-04T10:04:29.283384+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:47:09.058232+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "f6159f9274444ae6adc5a61c81663512-shard-0",
-        "claimed_at": "2026-11-04T10:46:49.372728+00:00",
-        "lease_expires_at": "2026-11-04T16:46:49.372728+00:00",
-        "run_id": "41791915876"
       }
     },
     "229": {
@@ -7106,7 +7100,7 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Blood Diamond 1080p CZ Dabing",
-        "planned_at": "2026-11-04T10:04:29.352964+00:00"
+        "planned_at": "2026-11-04T10:47:08.538256+00:00"
       },
       "previous_target_id": "30627346",
       "prepared": {
@@ -7114,6 +7108,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
+      },
+      "claim": {
+        "worker_id": "4142a112cc1e49639a35c1687ecfe1f2-shard-0",
+        "claimed_at": "2026-11-04T10:47:08.834084+00:00",
+        "lease_expires_at": "2026-11-04T16:47:08.834084+00:00",
+        "run_id": "41791915876"
       }
     },
     "327": {
@@ -55119,7 +55119,7 @@
       "last_plan": {
         "source_id": "32634701",
         "display_name": "Mongol (Монгол) 1080p CZ Dabing",
-        "planned_at": "2026-11-04T10:46:49.216846+00:00"
+        "planned_at": "2026-11-04T10:47:08.656885+00:00"
       }
     },
     "25227": {
@@ -93166,5 +93166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:46:50.397730+00:00"
+  "updated_at": "2026-11-04T10:47:09.058252+00:00"
 }
