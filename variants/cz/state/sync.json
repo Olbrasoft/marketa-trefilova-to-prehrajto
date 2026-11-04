@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-04T03:13:00.908492+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-04T03:44:37.058528+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-04T04:15:06.630620+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-04T04:45:24.714152+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "b195d274a61144e884b02028e380c69c-shard-0",
-        "claimed_at": "2026-11-04T04:45:21.793270+00:00",
-        "lease_expires_at": "2026-11-04T10:45:21.793270+00:00",
-        "run_id": "41760503575"
       }
     },
     "54": {
@@ -16505,7 +16499,7 @@
       "last_plan": {
         "source_id": "32043882",
         "display_name": "Halloween (1978) 4K CZ Dabing",
-        "planned_at": "2026-11-04T04:15:07.957474+00:00"
+        "planned_at": "2026-11-04T04:45:24.407277+00:00"
       },
       "previous_target_id": "30664667",
       "prepared": {
@@ -16513,6 +16507,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-10-31T11:53:53.244431+00:00",
         "relay_source_id": "32043882"
+      },
+      "claim": {
+        "worker_id": "ced0eacefce64dcd9afaccba79986efa-shard-0",
+        "claimed_at": "2026-11-04T04:45:24.627876+00:00",
+        "lease_expires_at": "2026-11-04T10:45:24.627876+00:00",
+        "run_id": "41760503575"
       }
     },
     "533": {
@@ -52063,7 +52063,7 @@
       "last_plan": {
         "source_id": "6077612",
         "display_name": "Chasing Amy SD CZ Dabing",
-        "planned_at": "2026-11-04T04:45:21.674561+00:00"
+        "planned_at": "2026-11-04T04:45:24.501086+00:00"
       }
     },
     "23779": {
@@ -88886,5 +88886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T04:45:21.972255+00:00"
+  "updated_at": "2026-11-04T04:45:24.714164+00:00"
 }
