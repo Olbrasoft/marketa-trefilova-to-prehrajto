@@ -54342,13 +54342,6 @@
           "source_id": "31552655",
           "target_video_id": "30782181",
           "permanent": false,
-          "attempted_at": "2026-11-04T10:39:14.558903+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31552655",
-          "target_video_id": "30782181",
-          "permanent": false,
           "attempted_at": "2026-11-04T11:19:14.560944+00:00"
         },
         {
@@ -54357,6 +54350,13 @@
           "target_video_id": "30782181",
           "permanent": false,
           "attempted_at": "2026-11-04T11:53:22.986846+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31552655",
+          "target_video_id": "30782181",
+          "permanent": false,
+          "attempted_at": "2026-11-04T12:24:43.151247+00:00"
         }
       ],
       "last_plan": {
@@ -54370,12 +54370,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-04T08:21:32.837608+00:00",
         "relay_source_id": "31552655"
-      },
-      "claim": {
-        "worker_id": "f4e44f379af84295a50546c27a7c80ef-shard-0",
-        "claimed_at": "2026-11-04T12:24:40.486249+00:00",
-        "lease_expires_at": "2026-11-04T18:24:40.486249+00:00",
-        "run_id": "41820326732"
       }
     },
     "30404": {
@@ -54405,7 +54399,7 @@
       "last_plan": {
         "source_id": "29677244",
         "display_name": "Anomalisa 1080p CZ Dabing",
-        "planned_at": "2026-11-04T11:53:25.723667+00:00"
+        "planned_at": "2026-11-04T12:24:42.271699+00:00"
       },
       "previous_target_id": "30782195",
       "prepared": {
@@ -54413,6 +54407,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-04T08:23:03.715043+00:00",
         "relay_source_id": "29677244"
+      },
+      "claim": {
+        "worker_id": "c19eeab7bcb04aeeae49addfbafe5253-shard-0",
+        "claimed_at": "2026-11-04T12:24:42.667010+00:00",
+        "lease_expires_at": "2026-11-04T18:24:42.667010+00:00",
+        "run_id": "41820326732"
       }
     },
     "890": {
@@ -56010,7 +56010,7 @@
       "last_plan": {
         "source_id": "17856177",
         "display_name": "Wish Dragon 1080p CZ Dabing",
-        "planned_at": "2026-11-04T12:24:40.268843+00:00"
+        "planned_at": "2026-11-04T12:24:42.429796+00:00"
       }
     },
     "21440": {
@@ -94501,5 +94501,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T12:24:40.826052+00:00"
+  "updated_at": "2026-11-04T12:24:43.151266+00:00"
 }
