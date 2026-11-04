@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T18:46:41.439337+00:00
+Poslední aktualizace (UTC): 2026-11-04T18:46:49.665795+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -139,7 +139,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 75. Důvod
 | [Weapons 1440p CZ Titulky](https://prehraj.to/weapons-1440p-cz-titulky-mkv/c6e59521c995e5a2) (ID 30752783) | [Sdílej 31764637](https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:15:45.484515+00:00 |
 | [Wicked 4K CZ Titulky](https://prehraj.to/wicked-4k-cz-titulky-mkv/3d47570d0ba0bcbd) (ID 30788407) | [Sdílej 32839401](https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv) | target_unavailable | 2026-11-04T15:11:49.101846+00:00 |
 | [X-Men 4K CZ Titulky](https://prehraj.to/x-men-4k-cz-titulky-mkv/ac789202f375f576) (ID 30781619) | [Sdílej 28350650](https://sdilej.cz/28350650/-uhd-x-men-i.-2000-.mkv) | target_unavailable | 2026-11-04T07:36:49.665057+00:00 |
-| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-03T13:06:04.956615+00:00 |
+| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-04T18:46:49.665744+00:00 |
 | [Zatōichi (座頭市) 1080p CZ Titulky](https://prehraj.to/zatoichi-1080p-cz-titulky-mkv/7a2817778f1435f2) (ID 30771751) | [Sdílej 20752549](https://sdilej.cz/20752549/samuraj-the-blind-swordsman-zatoichi-2003-1080p-cz-titl.mkv) | target_unavailable | 2026-11-03T19:41:25.198773+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
