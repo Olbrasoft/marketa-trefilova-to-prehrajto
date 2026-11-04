@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:07:37.813367+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-04T08:46:56.718891+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-04T09:18:14.062783+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:55:30.263885+00:00"
         }
       ],
       "last_plan": {
@@ -259,12 +259,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "cf6414203dee4d9d8d98931d9a7e4b65-shard-0",
-        "claimed_at": "2026-11-04T09:55:16.802060+00:00",
-        "lease_expires_at": "2026-11-04T15:55:16.802060+00:00",
-        "run_id": "41791915876"
       }
     },
     "24": {
@@ -11505,6 +11499,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "746e4bd6705a4523a753334656b809e3-shard-0",
+        "claimed_at": "2026-11-04T09:55:29.634103+00:00",
+        "lease_expires_at": "2026-11-04T15:55:29.634103+00:00",
+        "run_id": "41791915876"
       }
     },
     "834": {
@@ -14197,7 +14197,7 @@
       "last_plan": {
         "source_id": "19346570",
         "display_name": "Erin Brockovich 1080p CZ Titulky",
-        "planned_at": "2026-11-04T09:18:18.788150+00:00"
+        "planned_at": "2026-11-04T09:55:29.876433+00:00"
       },
       "previous_target_id": "30715404",
       "prepared": {
@@ -14205,6 +14205,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-02T03:41:03.364348+00:00",
         "relay_source_id": "19346570"
+      },
+      "claim": {
+        "worker_id": "3e4c5402be81464c85b4e31fae05794c-shard-0",
+        "claimed_at": "2026-11-04T09:55:29.987071+00:00",
+        "lease_expires_at": "2026-11-04T15:55:29.987071+00:00",
+        "run_id": "41791915876"
       }
     },
     "880": {
@@ -59514,5 +59520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:55:18.464130+00:00"
+  "updated_at": "2026-11-04T09:55:30.263909+00:00"
 }
