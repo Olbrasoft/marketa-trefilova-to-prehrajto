@@ -19253,17 +19253,19 @@
       "attempts": []
     },
     "1495": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28350650",
+          "target_video_id": "30781619",
+          "permanent": false,
+          "attempted_at": "2026-11-04T08:46:13.396026+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28350650",
         "display_name": "X-Men 4K CZ Titulky",
         "planned_at": "2026-11-04T07:36:26.502822+00:00"
-      },
-      "claim": {
-        "worker_id": "2d39da04a6944107bf52e7242a28d833-shard-0",
-        "claimed_at": "2026-11-04T07:36:26.596914+00:00",
-        "lease_expires_at": "2026-11-04T13:36:26.596914+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30781619",
       "prepared": {
@@ -59127,5 +59129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T08:36:36.168112+00:00"
+  "updated_at": "2026-11-04T08:46:13.396047+00:00"
 }
