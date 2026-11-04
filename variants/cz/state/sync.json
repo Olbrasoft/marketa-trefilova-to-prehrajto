@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-03T23:52:15.090916+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-04T00:25:51.101667+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-04T01:03:36.788010+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:41:21.232758+00:00"
         }
       ],
       "last_plan": {
@@ -4275,7 +4275,7 @@
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-04T01:03:39.827579+00:00"
+        "planned_at": "2026-11-04T01:41:19.461187+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -4283,6 +4283,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
+      },
+      "claim": {
+        "worker_id": "b1ee6bcb8b264460b41a3d1b302da212-shard-0",
+        "claimed_at": "2026-11-04T01:41:19.671620+00:00",
+        "lease_expires_at": "2026-11-04T07:41:19.671620+00:00",
+        "run_id": "41730144184"
       }
     },
     "229": {
@@ -50373,7 +50379,7 @@
       "last_plan": {
         "source_id": "30656179",
         "display_name": "Insomnia 1080p CZ Dabing",
-        "planned_at": "2026-11-04T01:41:18.006638+00:00"
+        "planned_at": "2026-11-04T01:41:19.556469+00:00"
       }
     },
     "1803": {
@@ -86587,5 +86593,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:41:18.006649+00:00"
+  "updated_at": "2026-11-04T01:41:21.232772+00:00"
 }
