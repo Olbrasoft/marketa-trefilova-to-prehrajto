@@ -19469,17 +19469,19 @@
       "attempts": []
     },
     "1501": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27635276",
+          "target_video_id": "30783150",
+          "permanent": false,
+          "attempted_at": "2026-11-04T09:42:44.203974+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27635276",
         "display_name": "Fast Five 1080p CZ Titulky",
         "planned_at": "2026-11-04T09:31:01.953956+00:00"
-      },
-      "claim": {
-        "worker_id": "26fb511805d145fdb1012512a2cbc5ba-shard-0",
-        "claimed_at": "2026-11-04T09:31:01.995002+00:00",
-        "lease_expires_at": "2026-11-04T15:31:01.995002+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783150",
       "prepared": {
@@ -59493,5 +59495,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:38:08.838202+00:00"
+  "updated_at": "2026-11-04T09:42:44.203992+00:00"
 }
