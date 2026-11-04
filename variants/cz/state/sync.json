@@ -51648,17 +51648,23 @@
           "attempted_at": "2026-11-04T10:34:55.762556+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33776734",
-        "display_name": "Steve Jobs 1080p CZ Dabing",
-        "planned_at": "2026-11-04T11:18:56.712730+00:00"
-      },
       "previous_target_id": "30778704",
-      "prepared": {
+      "upload": {
         "target_video_id": "30778704",
+        "display_name": "Steve Jobs 1080p CZ Dabing",
+        "source_id": "33776734",
+        "source_url": "https://sdilej.cz/33776734/steve-jobs-2015-1080p-cz.mp4",
+        "source_filename": "Steve Jobs (2015) 1080p, cz.mp4",
         "size_bytes": 2900000000,
-        "prepared_at": "2026-11-04T03:57:26.902562+00:00",
-        "relay_source_id": "33776734"
+        "width": 1920,
+        "height": 800,
+        "audio_language": "cs",
+        "language_probability": 0.9079824090003967,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/steve-jobs-1080p-cz-dabing-mp4/7ccb65031763e0cd",
+        "uploaded_at": "2026-11-04T11:19:03.838097+00:00"
       }
     },
     "29932": {
@@ -55084,7 +55090,7 @@
       "last_plan": {
         "source_id": "17966545",
         "display_name": "The Witcher: Nightmare of the Wolf 1080p CZ Dabing",
-        "planned_at": "2026-11-04T10:33:39.163355+00:00"
+        "planned_at": "2026-11-04T11:19:02.812436+00:00"
       },
       "previous_target_id": "30783894",
       "prepared": {
@@ -55092,6 +55098,12 @@
         "size_bytes": 1817595636,
         "prepared_at": "2026-11-04T10:34:15.420795+00:00",
         "relay_source_id": "17966545"
+      },
+      "claim": {
+        "worker_id": "b044fd2e98114587a61656844ad3698d-shard-0",
+        "claimed_at": "2026-11-04T11:19:03.164702+00:00",
+        "lease_expires_at": "2026-11-04T17:19:03.164702+00:00",
+        "run_id": "41791915876"
       }
     },
     "1596": {
@@ -55329,7 +55341,13 @@
       "last_plan": {
         "source_id": "32711732",
         "display_name": "Bitter Moon 1080p CZ Dabing",
-        "planned_at": "2026-11-04T11:18:56.814613+00:00"
+        "planned_at": "2026-11-04T11:19:02.930436+00:00"
+      },
+      "claim": {
+        "worker_id": "8087aa404faa4d5e86294406535f1613-shard-0",
+        "claimed_at": "2026-11-04T11:19:03.113510+00:00",
+        "lease_expires_at": "2026-11-04T17:19:03.113510+00:00",
+        "run_id": "41791915876"
       }
     },
     "31278": {
@@ -55342,7 +55360,12 @@
       "attempts": []
     },
     "22309": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33563600",
+        "display_name": "Murder by Death 1080p CZ Dabing",
+        "planned_at": "2026-11-04T11:19:02.996631+00:00"
+      }
     },
     "1821": {
       "attempts": []
@@ -93337,5 +93360,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:18:56.814632+00:00"
+  "updated_at": "2026-11-04T11:19:03.838111+00:00"
 }
