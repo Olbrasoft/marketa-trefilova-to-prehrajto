@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T19:25:08.969986+00:00
+Poslední aktualizace (UTC): 2026-11-04T19:25:12.873334+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 268, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 53, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 269, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 52, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -85,7 +85,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvo
 | [Everything Is Illuminated 720p CZ Titulky](https://prehraj.to/everything-is-illuminated-720p-cz-titulky-mkv/0933c16c5cf44f5d) (ID 30770852) | [Sdílej 28421392](https://sdilej.cz/28421392/naprosto-osvetleno-2005-everything-is-illuminated-eng-dab.-eng-cz-ttl..mkv) | target_unavailable | 2026-11-03T18:30:02.407165+00:00 |
 | [Fantastic Fungi 1080p CZ Titulky](https://prehraj.to/fantastic-fungi-1080p-cz-titulky-mkv/65df0ea6fb10a5fe) (ID 30780850) | [Sdílej 31754403](https://sdilej.cz/31754403/zazracne-houby-fantastic-fungi-2019-en-dab-cz-tit-.mkv) | target_unavailable | 2026-11-04T06:43:53.167513+00:00 |
 | [Fast Five 1080p CZ Titulky](https://prehraj.to/fast-five-1080p-cz-titulky-mkv/d1e48720781e0f0d) (ID 30783150) | [Sdílej 27635276](https://sdilej.cz/27635276/rychle-a-zbesile-5-hd.mkv) | target_unavailable | 2026-11-04T09:38:58.212617+00:00 |
-| [High Plains Drifter 1080p CZ Titulky](https://prehraj.to/high-plains-drifter-1080p-cz-titulky-mkv/d6261d51ecde1e75) (ID 30763637) | [Sdílej 26121857](https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv) | target_unavailable | 2026-11-03T14:24:22.795111+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-04T18:46:41.439263+00:00 |
 | [Identity 1080p CZ Titulky](https://prehraj.to/identity-1080p-cz-titulky-mkv/c1baf90eb9ef4ad4) (ID 30786647) | [Sdílej 34851069](https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv) | target_unavailable | 2026-11-04T13:30:59.712780+00:00 |
 | [Jezebel 1080p CZ Titulky](https://prehraj.to/jezebel-1080p-cz-titulky-mkv/b82f1034dcdefe42) (ID 30778624) | [Sdílej 34980965](https://sdilej.cz/34980965/jezebel.1938.1080p.hmax.web.dl.ddp2.0.h.264.bloom.mkv) | target_unavailable | 2026-11-04T03:52:23.616917+00:00 |
