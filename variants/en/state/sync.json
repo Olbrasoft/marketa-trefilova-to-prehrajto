@@ -19661,17 +19661,19 @@
       "attempts": []
     },
     "1293": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12025390",
+          "target_video_id": "30785611",
+          "permanent": false,
+          "attempted_at": "2026-11-04T13:13:40.174559+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12025390",
         "display_name": "Alita: Battle Angel 4K CZ Titulky",
         "planned_at": "2026-11-04T12:39:39.628621+00:00"
-      },
-      "claim": {
-        "worker_id": "77a075b5861847608be7e1c6c01e0f5d-shard-0",
-        "claimed_at": "2026-11-04T12:39:39.687095+00:00",
-        "lease_expires_at": "2026-11-04T18:39:39.687095+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30785611",
       "prepared": {
@@ -60465,5 +60467,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T13:04:09.771698+00:00"
+  "updated_at": "2026-11-04T13:13:40.174585+00:00"
 }
