@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:48:13.279014+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-04T06:19:58.012943+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-04T06:52:16.322613+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:38:01.530185+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "c43c8bc32259429890018d64070451b7-shard-0",
-        "claimed_at": "2026-11-04T07:37:59.400469+00:00",
-        "lease_expires_at": "2026-11-04T13:37:59.400469+00:00",
-        "run_id": "41791915876"
       }
     },
     "54": {
@@ -18868,7 +18862,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-04T06:52:17.570107+00:00"
+        "planned_at": "2026-11-04T07:38:00.843429+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18876,6 +18870,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "baec932c34b04ace9bb35c5cc40e21d5-shard-0",
+        "claimed_at": "2026-11-04T07:38:01.076167+00:00",
+        "lease_expires_at": "2026-11-04T13:38:01.076167+00:00",
+        "run_id": "41791915876"
       }
     },
     "29695": {
@@ -53818,7 +53818,7 @@
       "last_plan": {
         "source_id": "34378972",
         "display_name": "The Outfit (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-04T07:37:59.264373+00:00"
+        "planned_at": "2026-11-04T07:38:00.940652+00:00"
       }
     },
     "24266": {
@@ -91236,5 +91236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:37:59.560313+00:00"
+  "updated_at": "2026-11-04T07:38:01.530206+00:00"
 }
