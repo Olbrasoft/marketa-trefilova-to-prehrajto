@@ -365,3 +365,4 @@ Attach subtitles only after target processing has finished.
 | Jezebel 1080p CZ Titulky | 30778624 | https://sdilej.cz/34980965/jezebel.1938.1080p.hmax.web.dl.ddp2.0.h.264.bloom.mkv | Extract Czech track from exact source after processing |
 | Caught in the Net (V síti) 1080p CZ Titulky | 30780491 | https://sdilej.cz/31920665/v-siti-2020-cz.mkv | Extract Czech track from exact source after processing |
 | Rurouni Kenshin: The Beginning (るろうに剣心 最終章 The Beginning) 1080p CZ Titulky | 30780492 | https://sdilej.cz/17628651/rurouni.kenshin.the.beginning.part.2.2021.1080p..webrip.ddp5.1.x264-jp-eng-titulky-cz-eng.mkv | Extract Czech track from exact source after processing |
+| Fantastic Fungi 1080p CZ Titulky | 30780850 | https://sdilej.cz/31754403/zazracne-houby-fantastic-fungi-2019-en-dab-cz-tit-.mkv | Extract Czech track from exact source after processing |
