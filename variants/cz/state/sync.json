@@ -37181,13 +37181,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-04T08:50:53.289756+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-04T09:22:08.008564+00:00"
         },
         {
@@ -37196,6 +37189,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-04T10:26:04.358336+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:13:10.104082+00:00"
         }
       ],
       "last_plan": {
@@ -55052,17 +55052,23 @@
           "attempted_at": "2026-11-04T10:27:47.585539+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34721197",
-        "display_name": "In the Heights 720p CZ Dabing",
-        "planned_at": "2026-11-04T10:23:24.469348+00:00"
-      },
       "previous_target_id": "30783768",
-      "prepared": {
+      "upload": {
         "target_video_id": "30783768",
-        "size_bytes": 3020315595,
-        "prepared_at": "2026-11-04T10:24:04.733981+00:00",
-        "relay_source_id": "34721197"
+        "display_name": "In the Heights 720p CZ Dabing",
+        "source_id": "34721197",
+        "source_url": "https://sdilej.cz/34721197/zivot-v-heights-2021-cz-dabing.mp4",
+        "source_filename": "Život v Heights (2021) CZ Dabing.mp4",
+        "size_bytes": 3000000000,
+        "width": 1728,
+        "height": 720,
+        "audio_language": "cs",
+        "language_probability": 0.7730936408042908,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/in-the-heights-720p-cz-dabing-mp4/2f59ba8530aa4446",
+        "uploaded_at": "2026-11-04T11:13:10.187367+00:00"
       }
     },
     "1637": {
@@ -55305,7 +55311,7 @@
       "last_plan": {
         "source_id": "18581288",
         "display_name": "Fahrenheit 451 (1966) SD CZ Dabing",
-        "planned_at": "2026-11-04T11:13:04.341209+00:00"
+        "planned_at": "2026-11-04T11:13:09.224448+00:00"
       }
     },
     "12025": {
@@ -93316,5 +93322,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:13:04.341229+00:00"
+  "updated_at": "2026-11-04T11:13:10.187387+00:00"
 }
