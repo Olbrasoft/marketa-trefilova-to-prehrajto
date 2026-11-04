@@ -52630,17 +52630,19 @@
       }
     },
     "23024": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34253800",
+          "target_video_id": "30779877",
+          "permanent": false,
+          "attempted_at": "2026-11-04T05:37:01.452873+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34253800",
         "display_name": "Born on the Fourth of July 4K CZ Dabing",
         "planned_at": "2026-11-04T05:21:05.359225+00:00"
-      },
-      "claim": {
-        "worker_id": "7b2706b5e5ab41588bf9c8152a1c3b5a-shard-0",
-        "claimed_at": "2026-11-04T05:21:05.498485+00:00",
-        "lease_expires_at": "2026-11-04T11:21:05.498485+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30779877",
       "prepared": {
@@ -89729,5 +89731,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T05:36:08.483925+00:00"
+  "updated_at": "2026-11-04T05:37:01.452893+00:00"
 }
