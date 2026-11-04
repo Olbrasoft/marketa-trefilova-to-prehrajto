@@ -56559,17 +56559,19 @@
       "attempts": []
     },
     "1326": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21573289",
+          "target_video_id": "30786074",
+          "permanent": false,
+          "attempted_at": "2026-11-04T13:15:44.942703+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21573289",
         "display_name": "Clergy (Kler) 1080p CZ Dabing",
         "planned_at": "2026-11-04T13:04:40.536253+00:00"
-      },
-      "claim": {
-        "worker_id": "652c1e4fecf44105bb38342d0374440c-shard-0",
-        "claimed_at": "2026-11-04T13:04:40.960528+00:00",
-        "lease_expires_at": "2026-11-04T19:04:40.960528+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30786074",
       "prepared": {
@@ -95016,5 +95018,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T13:13:56.572317+00:00"
+  "updated_at": "2026-11-04T13:15:44.942725+00:00"
 }
