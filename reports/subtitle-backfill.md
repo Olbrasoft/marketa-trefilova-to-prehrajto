@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T13:30:57.935387+00:00
+Poslední aktualizace (UTC): 2026-11-04T13:31:00.647646+00:00
 
 Zkontrolováno videí: 375. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 62, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 63, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -90,6 +90,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 67. Důvod
 | [Furiosa: A Mad Max Saga 4K CZ Titulky](https://prehraj.to/furiosa-a-mad-max-saga-4k-cz-titulky-mkv/46e117960f31a77b) (ID 30752813) | [Sdílej 32911115](https://sdilej.cz/32911115/furiosa-a-mad-max-saga-2024-cz-en-radecek.mkv) | target_unavailable | 2026-11-03T13:15:48.976453+00:00 |
 | [High Plains Drifter 1080p CZ Titulky](https://prehraj.to/high-plains-drifter-1080p-cz-titulky-mkv/d6261d51ecde1e75) (ID 30763637) | [Sdílej 26121857](https://sdilej.cz/26121857/tulak-z-sirych-plani-1973.mkv) | target_unavailable | 2026-11-03T14:24:22.795111+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-03T13:05:55.881581+00:00 |
+| [Identity 1080p CZ Titulky](https://prehraj.to/identity-1080p-cz-titulky-mkv/c1baf90eb9ef4ad4) (ID 30786647) | [Sdílej 34851069](https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv) | target_unavailable | 2026-11-04T13:30:59.712780+00:00 |
 | [Jezebel 1080p CZ Titulky](https://prehraj.to/jezebel-1080p-cz-titulky-mkv/b82f1034dcdefe42) (ID 30778624) | [Sdílej 34980965](https://sdilej.cz/34980965/jezebel.1938.1080p.hmax.web.dl.ddp2.0.h.264.bloom.mkv) | target_unavailable | 2026-11-04T03:52:23.616917+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-03T13:06:49.827071+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-03T13:07:04.619920+00:00 |
