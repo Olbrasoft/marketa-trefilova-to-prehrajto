@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T22:30:05.358067+00:00
+Poslední aktualizace (UTC): 2026-11-04T22:30:09.239535+00:00
 
 Zkontrolováno videí: 383. Další stránka kontroly: 0.
 
@@ -68,7 +68,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 16. Důvo
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-04T22:29:55.340141+00:00 |
-| [Alita: Battle Angel 4K CZ Titulky](https://prehraj.to/alita-battle-angel-4k-cz-titulky-mkv/e97938c4437f9141) (ID 30785611) | [Sdílej 12025390](https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv) | target_unavailable | 2026-11-04T21:23:41.212948+00:00 |
+| [Alita: Battle Angel 4K CZ Titulky](https://prehraj.to/alita-battle-angel-4k-cz-titulky-mkv/e97938c4437f9141) (ID 30785611) | [Sdílej 12025390](https://sdilej.cz/12025390/alita.battle.angel.2019.2160p.bluray.x265.10bit.hdr10-.dts.en.dd.cz.srt.cz.full.forced.mkv) | target_unavailable | 2026-11-04T22:30:09.234225+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | target_unavailable | 2026-11-04T21:24:12.124007+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-04T22:28:39.448655+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-04T22:29:59.438209+00:00 |
