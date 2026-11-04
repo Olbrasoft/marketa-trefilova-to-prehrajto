@@ -27277,13 +27277,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-03T22:41:10.192241+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-03T23:13:09.735930+00:00"
         },
         {
@@ -27292,6 +27285,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-03T23:43:21.476167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-04T00:15:13.909655+00:00"
         }
       ],
       "last_plan": {
@@ -27305,12 +27305,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-02T03:14:11.037750+00:00",
         "relay_source_id": "32448687"
-      },
-      "claim": {
-        "worker_id": "21efefa0c7c545ec920bc7eebc61fdac-shard-0",
-        "claimed_at": "2026-11-04T00:15:11.957710+00:00",
-        "lease_expires_at": "2026-11-04T06:15:11.957710+00:00",
-        "run_id": "41730144184"
       }
     },
     "880": {
@@ -29525,7 +29519,7 @@
       "last_plan": {
         "source_id": "21165095",
         "display_name": "Rudy 1080p CZ Dabing",
-        "planned_at": "2026-11-03T23:43:21.045702+00:00"
+        "planned_at": "2026-11-04T00:15:13.518335+00:00"
       },
       "previous_target_id": "30722559",
       "prepared": {
@@ -29533,6 +29527,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
+      },
+      "claim": {
+        "worker_id": "350a1e58ee514c34b77c2cbc28de7c74-shard-0",
+        "claimed_at": "2026-11-04T00:15:13.719594+00:00",
+        "lease_expires_at": "2026-11-04T06:15:13.719594+00:00",
+        "run_id": "41730144184"
       }
     },
     "25113": {
@@ -49530,7 +49530,7 @@
       "last_plan": {
         "source_id": "32990905",
         "display_name": "Shirley Valentine 1080p CZ Dabing",
-        "planned_at": "2026-11-04T00:15:11.849949+00:00"
+        "planned_at": "2026-11-04T00:15:13.604963+00:00"
       }
     },
     "32822": {
@@ -85297,5 +85297,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T00:15:12.279136+00:00"
+  "updated_at": "2026-11-04T00:15:13.909666+00:00"
 }
