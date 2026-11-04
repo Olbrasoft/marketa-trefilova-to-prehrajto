@@ -51264,17 +51264,19 @@
       }
     },
     "1744": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21019911",
+          "target_video_id": "30778411",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:32:11.362366+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21019911",
         "display_name": "The Founder 1080p CZ Dabing",
         "planned_at": "2026-11-04T03:28:31.488392+00:00"
-      },
-      "claim": {
-        "worker_id": "c8a1b3bde1ed4076bd2f307a6667693c-shard-0",
-        "claimed_at": "2026-11-04T03:28:31.631126+00:00",
-        "lease_expires_at": "2026-11-04T09:28:31.631126+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30778411",
       "prepared": {
@@ -87963,5 +87965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:30:56.991170+00:00"
+  "updated_at": "2026-11-04T03:32:11.362386+00:00"
 }
