@@ -54946,17 +54946,19 @@
       }
     },
     "1638": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34721197",
+          "target_video_id": "30783768",
+          "permanent": false,
+          "attempted_at": "2026-11-04T10:27:47.585539+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34721197",
         "display_name": "In the Heights 720p CZ Dabing",
         "planned_at": "2026-11-04T10:23:24.469348+00:00"
-      },
-      "claim": {
-        "worker_id": "74a522d3799a465fb1d0b2fbcf6c1774-shard-0",
-        "claimed_at": "2026-11-04T10:23:50.905696+00:00",
-        "lease_expires_at": "2026-11-04T16:23:50.905696+00:00",
-        "run_id": "41791915876"
       },
       "previous_target_id": "30783768",
       "prepared": {
@@ -93044,5 +93046,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T10:27:09.263069+00:00"
+  "updated_at": "2026-11-04T10:27:47.585568+00:00"
 }
