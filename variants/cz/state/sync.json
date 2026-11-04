@@ -53216,17 +53216,19 @@
       "attempts": []
     },
     "1683": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34648002",
+          "target_video_id": "30780690",
+          "permanent": false,
+          "attempted_at": "2026-11-04T06:25:55.196389+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34648002",
         "display_name": "Frailty 1080p CZ Dabing",
         "planned_at": "2026-11-04T06:21:39.525598+00:00"
-      },
-      "claim": {
-        "worker_id": "d566d5e379b5423ba1a8df697cee7f18-shard-0",
-        "claimed_at": "2026-11-04T06:21:39.712572+00:00",
-        "lease_expires_at": "2026-11-04T12:21:39.712572+00:00",
-        "run_id": "41760503575"
       },
       "previous_target_id": "30780690",
       "prepared": {
@@ -90185,5 +90187,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T06:24:25.095549+00:00"
+  "updated_at": "2026-11-04T06:25:55.196410+00:00"
 }
