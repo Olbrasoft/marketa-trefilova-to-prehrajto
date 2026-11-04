@@ -363,3 +363,5 @@ Attach subtitles only after target processing has finished.
 | North Face (Nordwand) 720p CZ Titulky | 30778473 | https://sdilej.cz/6111113/nordwand-north-face-2008-.brrip.h264.aac-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | The Wisdom of Trauma 1080p CZ Titulky | 30778607 | https://sdilej.cz/19264172/the-wisdom-of-trauma-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
 | Jezebel 1080p CZ Titulky | 30778624 | https://sdilej.cz/34980965/jezebel.1938.1080p.hmax.web.dl.ddp2.0.h.264.bloom.mkv | Extract Czech track from exact source after processing |
+| Caught in the Net (V síti) 1080p CZ Titulky | 30780491 | https://sdilej.cz/31920665/v-siti-2020-cz.mkv | Extract Czech track from exact source after processing |
+| Rurouni Kenshin: The Beginning (るろうに剣心 最終章 The Beginning) 1080p CZ Titulky | 30780492 | https://sdilej.cz/17628651/rurouni.kenshin.the.beginning.part.2.2021.1080p..webrip.ddp5.1.x264-jp-eng-titulky-cz-eng.mkv | Extract Czech track from exact source after processing |
