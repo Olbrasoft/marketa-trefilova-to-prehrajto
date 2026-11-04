@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T19:25:12.873334+00:00
+Poslední aktualizace (UTC): 2026-11-04T19:25:16.469098+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 269, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 52, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 270, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 51, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -116,7 +116,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 55. Důvo
 | [The Lincoln Lawyer 1080p CZ Titulky](https://prehraj.to/the-lincoln-lawyer-1080p-cz-titulky-mkv/75f1b153ea1b5936) (ID 30787804) | [Sdílej 20142205](https://sdilej.cz/20142205/the-lincoln-lawyer-2011-1080p.bluray.dts.x264-cz-en-tit.cz-en.mkv) | target_unavailable | 2026-11-04T14:31:34.646803+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-04T18:46:56.840029+00:00 |
 | [The Wisdom of Trauma 1080p CZ Titulky](https://prehraj.to/the-wisdom-of-trauma-1080p-cz-titulky-mkv/2420591902138a54) (ID 30778607) | [Sdílej 19264172](https://sdilej.cz/19264172/the-wisdom-of-trauma-1080p-2021-vlozene-cz-titulky-kst.mkv) | target_unavailable | 2026-11-04T03:52:20.128819+00:00 |
-| [The Wonderful Story of Henry Sugar 1080p CZ Titulky](https://prehraj.to/the-wonderful-story-of-henry-sugar-1080p-cz-titulky-mkv/58f3515f6180d6f8) (ID 30763706) | [Sdílej 26884588](https://sdilej.cz/26884588/the.wonderful.story.of.henry.sugar.2023.1080p.web.h264-ethel-cz-titulky.mkv) | target_unavailable | 2026-11-03T14:24:26.178201+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-04T19:24:02.120532+00:00 |
 | [Wake Up Dead Man (Wake Up Dead Man: A Knives Out Mystery) 4K CZ Titulky](https://prehraj.to/wake-up-dead-man-wake-up-dead-man-a-knives-out-mystery-4k-cz-titulky-mkv/322e5a1411a31e6f) (ID 30788177) | [Sdílej 32607681](https://sdilej.cz/32607681/wake.up.dead.man.a.knives.out.mystery.2025.2160p.nf.web-dl.ddp5.1.atmos.dv.hdr.h.265-byndr.mkv) | target_unavailable | 2026-11-04T15:01:53.381954+00:00 |
 | [Wicked 4K CZ Titulky](https://prehraj.to/wicked-4k-cz-titulky-mkv/3d47570d0ba0bcbd) (ID 30788407) | [Sdílej 32839401](https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv) | target_unavailable | 2026-11-04T15:11:49.101846+00:00 |
