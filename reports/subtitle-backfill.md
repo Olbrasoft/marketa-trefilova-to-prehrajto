@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T03:52:18.283318+00:00
+Poslední aktualizace (UTC): 2026-11-04T03:52:20.128936+00:00
 
 Zkontrolováno videí: 361. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 2, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -113,6 +113,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Důvod
 | [The Rocky Horror Picture Show 1080p CZ Titulky](https://prehraj.to/the-rocky-horror-picture-show-1080p-cz-titulky-mkv/16dc8ba232615912) (ID 30756513) | [Sdílej 34912169](https://sdilej.cz/34912169/the.rocky.horror.picture.show.1975.1080p.bluray.hevc.10bit.dl.eac3.x265-majo.mkv) | target_unavailable | 2026-11-03T13:15:34.814650+00:00 |
 | [The Talented Mr. Ripley 1080p CZ Titulky](https://prehraj.to/the-talented-mr-ripley-1080p-cz-titulky-mkv/5cd3df435c4a2460) (ID 30753582) | [Sdílej 28282423](https://sdilej.cz/28282423/the-talented-mr.-ripley-1999-1080p-bluray-x265-leon-en-subs-cz-en-.mkv) | target_unavailable | 2026-11-03T13:07:11.534922+00:00 |
 | [The Wailing (Gokseong) 1080p CZ Titulky](https://prehraj.to/the-wailing-gokseong-1080p-cz-titulky-mkv/104908f25bc13646) (ID 30761483) | [Sdílej 33807503](https://sdilej.cz/33807503/kvileni-2016-1080p-cz-titulky-.mkv) | target_unavailable | 2026-11-03T13:15:10.436136+00:00 |
+| [The Wisdom of Trauma 1080p CZ Titulky](https://prehraj.to/the-wisdom-of-trauma-1080p-cz-titulky-mkv/2420591902138a54) (ID 30778607) | [Sdílej 19264172](https://sdilej.cz/19264172/the-wisdom-of-trauma-1080p-2021-vlozene-cz-titulky-kst.mkv) | target_unavailable | 2026-11-04T03:52:20.128819+00:00 |
 | [The Wonderful Story of Henry Sugar 1080p CZ Titulky](https://prehraj.to/the-wonderful-story-of-henry-sugar-1080p-cz-titulky-mkv/58f3515f6180d6f8) (ID 30763706) | [Sdílej 26884588](https://sdilej.cz/26884588/the.wonderful.story.of.henry.sugar.2023.1080p.web.h264-ethel-cz-titulky.mkv) | target_unavailable | 2026-11-03T14:24:26.178201+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-03T13:15:13.932077+00:00 |
 | [Weapons 1440p CZ Titulky](https://prehraj.to/weapons-1440p-cz-titulky-mkv/c6e59521c995e5a2) (ID 30752783) | [Sdílej 31764637](https://sdilej.cz/31764637/weapons-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-03T13:15:45.484515+00:00 |
