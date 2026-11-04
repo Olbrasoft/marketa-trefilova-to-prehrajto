@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T21:23:33.367832+00:00
+Poslední aktualizace (UTC): 2026-11-04T21:23:37.155853+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 294, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 6, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 26, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 295, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 6, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 25, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -74,7 +74,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 35. Důvo
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-04T19:25:04.980264+00:00 |
 | [Doctor Sleep 1080p CZ Titulky](https://prehraj.to/doctor-sleep-1080p-cz-titulky-mkv/491874405df58767) (ID 30790059) | [Sdílej 12781606](https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv) | target_unavailable | 2026-11-04T17:03:14.273709+00:00 |
 | [Dogma 1080p CZ Titulky](https://prehraj.to/dogma-1080p-cz-titulky-mkv/686b96f42c488069) (ID 30790077) | [Sdílej 15676655](https://sdilej.cz/15676655/dogma.mkv) | target_unavailable | 2026-11-04T17:03:18.458622+00:00 |
-| [El Camino: A Breaking Bad Movie 1080p CZ Titulky](https://prehraj.to/el-camino-a-breaking-bad-movie-1080p-cz-titulky-mkv/120dd6f4d1ef3235) (ID 30784985) | [Sdílej 12410253](https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv) | target_unavailable | 2026-11-04T12:00:10.652388+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-04T19:24:10.566036+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-04T18:46:41.439263+00:00 |
 | [Identity 1080p CZ Titulky](https://prehraj.to/identity-1080p-cz-titulky-mkv/c1baf90eb9ef4ad4) (ID 30786647) | [Sdílej 34851069](https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv) | target_unavailable | 2026-11-04T13:30:59.712780+00:00 |
