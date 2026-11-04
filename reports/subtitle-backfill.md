@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T17:03:14.273806+00:00
+Poslední aktualizace (UTC): 2026-11-04T17:03:18.613270+00:00
 
 Zkontrolováno videí: 381. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 68, `upload_unconfirmed`: 4
+Stavy: `already_has_czech`: 251, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 5, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 69, `upload_unconfirmed`: 4
 
 ## Poslední dávka
 
@@ -82,6 +82,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 72. Důvod
 | [Despicable Me 2 4K CZ Titulky](https://prehraj.to/despicable-me-2-4k-cz-titulky-mkv/6c17bbef278fd93a) (ID 30782803) | [Sdílej 27530340](https://sdilej.cz/27530340/ja-padouch-2-2013-2160p.mkv) | target_unavailable | 2026-11-04T09:07:32.781143+00:00 |
 | [Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky](https://prehraj.to/divided-we-fall-musime-si-pomahat-1080p-cz-titulky-mkv/1f0ad966ebe3ad14) (ID 30775107) | [Sdílej 33306409](https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv) | target_unavailable | 2026-11-03T23:39:18.093989+00:00 |
 | [Doctor Sleep 1080p CZ Titulky](https://prehraj.to/doctor-sleep-1080p-cz-titulky-mkv/491874405df58767) (ID 30790059) | [Sdílej 12781606](https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv) | target_unavailable | 2026-11-04T17:03:14.273709+00:00 |
+| [Dogma 1080p CZ Titulky](https://prehraj.to/dogma-1080p-cz-titulky-mkv/686b96f42c488069) (ID 30790077) | [Sdílej 15676655](https://sdilej.cz/15676655/dogma.mkv) | target_unavailable | 2026-11-04T17:03:18.458622+00:00 |
 | [El Camino: A Breaking Bad Movie 1080p CZ Titulky](https://prehraj.to/el-camino-a-breaking-bad-movie-1080p-cz-titulky-mkv/120dd6f4d1ef3235) (ID 30784985) | [Sdílej 12410253](https://sdilej.cz/12410253/el.camino.a.breaking.bad.movie.2019.1080p.nf.webrip.dd5.1.x264-fgt-cz-tit.mkv) | target_unavailable | 2026-11-04T12:00:10.652388+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-03T13:15:20.974510+00:00 |
 | [Everything Is Illuminated 720p CZ Titulky](https://prehraj.to/everything-is-illuminated-720p-cz-titulky-mkv/0933c16c5cf44f5d) (ID 30770852) | [Sdílej 28421392](https://sdilej.cz/28421392/naprosto-osvetleno-2005-everything-is-illuminated-eng-dab.-eng-cz-ttl..mkv) | target_unavailable | 2026-11-03T18:30:02.407165+00:00 |
