@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-04T18:47:27.978103+00:00
+Poslední aktualizace (UTC): 2026-11-04T18:47:31.383314+00:00
 
 Zkontrolováno videí: 382. Další stránka kontroly: 0.
 
@@ -95,7 +95,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 75. Důvod
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-04T18:46:41.439263+00:00 |
 | [Identity 1080p CZ Titulky](https://prehraj.to/identity-1080p-cz-titulky-mkv/c1baf90eb9ef4ad4) (ID 30786647) | [Sdílej 34851069](https://sdilej.cz/34851069/identity.2003.1080p.bluray.hevc.10bit.multi.x265-majo.mkv) | target_unavailable | 2026-11-04T13:30:59.712780+00:00 |
 | [Jezebel 1080p CZ Titulky](https://prehraj.to/jezebel-1080p-cz-titulky-mkv/b82f1034dcdefe42) (ID 30778624) | [Sdílej 34980965](https://sdilej.cz/34980965/jezebel.1938.1080p.hmax.web.dl.ddp2.0.h.264.bloom.mkv) | target_unavailable | 2026-11-04T03:52:23.616917+00:00 |
-| [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-03T13:06:49.827071+00:00 |
+| [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-04T18:47:31.383230+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-03T13:07:04.619920+00:00 |
 | [Kill 4K CZ Titulky](https://prehraj.to/kill-4k-cz-titulky-mkv/57d1bd1d32d58816) (ID 30771978) | [Sdílej 29236159](https://sdilej.cz/29236159/boy-kills-world-2023-hd-2160p-sdr-dd-5.1-ang-cz-tit.mkv) | target_unavailable | 2026-11-03T20:01:45.277348+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-03T13:06:53.117771+00:00 |
