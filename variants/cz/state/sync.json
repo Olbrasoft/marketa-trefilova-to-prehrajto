@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-04T05:47:52.289144+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-04T06:19:31.144994+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-04T06:51:55.321388+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-04T07:37:46.486371+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "db2df913df724ca68ff8af26f0f87198-shard-0",
-        "claimed_at": "2026-11-04T07:37:44.475847+00:00",
-        "lease_expires_at": "2026-11-04T13:37:44.475847+00:00",
-        "run_id": "41791915876"
       }
     },
     "9": {
@@ -4281,7 +4275,7 @@
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-04T06:51:56.581766+00:00"
+        "planned_at": "2026-11-04T07:37:45.805295+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -4289,6 +4283,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
+      },
+      "claim": {
+        "worker_id": "51faaedf361247f5a7b0ec9567fc03fd-shard-0",
+        "claimed_at": "2026-11-04T07:37:46.030637+00:00",
+        "lease_expires_at": "2026-11-04T13:37:46.030637+00:00",
+        "run_id": "41791915876"
       }
     },
     "229": {
@@ -53818,7 +53818,7 @@
       "last_plan": {
         "source_id": "34378972",
         "display_name": "The Outfit (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-04T07:37:44.347529+00:00"
+        "planned_at": "2026-11-04T07:37:45.905989+00:00"
       }
     },
     "24266": {
@@ -91236,5 +91236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:37:44.566440+00:00"
+  "updated_at": "2026-11-04T07:37:46.486393+00:00"
 }
