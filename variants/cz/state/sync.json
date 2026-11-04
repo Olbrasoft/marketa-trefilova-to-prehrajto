@@ -55719,17 +55719,19 @@
       }
     },
     "14424": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8582217",
+          "target_video_id": "30784967",
+          "permanent": false,
+          "attempted_at": "2026-11-04T11:58:31.096048+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8582217",
         "display_name": "Soul Kitchen 1080p CZ Dabing",
         "planned_at": "2026-11-04T11:55:26.509671+00:00"
-      },
-      "claim": {
-        "worker_id": "976c9e8c9a89452b877934b62e264b72-shard-0",
-        "claimed_at": "2026-11-04T11:55:26.730018+00:00",
-        "lease_expires_at": "2026-11-04T17:55:26.730018+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30784967",
       "prepared": {
@@ -93980,5 +93982,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T11:57:02.187450+00:00"
+  "updated_at": "2026-11-04T11:58:31.096066+00:00"
 }
