@@ -21530,13 +21530,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-03T23:24:07.875001+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-03T23:56:39.096249+00:00"
         },
         {
@@ -21545,6 +21538,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-04T00:27:09.585684+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-04T01:04:48.998712+00:00"
         }
       ],
       "last_plan": {
@@ -21558,12 +21558,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
-      },
-      "claim": {
-        "worker_id": "bd22d8c3d8ff429bbf9af9aa31b43d0a-shard-0",
-        "claimed_at": "2026-11-04T01:04:46.266891+00:00",
-        "lease_expires_at": "2026-11-04T07:04:46.266891+00:00",
-        "run_id": "41730144184"
       }
     },
     "677": {
@@ -48250,7 +48244,7 @@
       "last_plan": {
         "source_id": "34471702",
         "display_name": "Twinless 1080p CZ Dabing",
-        "planned_at": "2026-11-04T00:27:10.879079+00:00"
+        "planned_at": "2026-11-04T01:04:48.530063+00:00"
       },
       "previous_target_id": "30774657",
       "prepared": {
@@ -48258,6 +48252,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-03T22:49:52.978429+00:00",
         "relay_source_id": "34471702"
+      },
+      "claim": {
+        "worker_id": "49d0a649478f478a8d4c9aacbbb1de20-shard-0",
+        "claimed_at": "2026-11-04T01:04:48.741105+00:00",
+        "lease_expires_at": "2026-11-04T07:04:48.741105+00:00",
+        "run_id": "41730144184"
       }
     },
     "29011": {
@@ -50080,7 +50080,7 @@
       "last_plan": {
         "source_id": "34472976",
         "display_name": "The Substance 4K CZ Dabing",
-        "planned_at": "2026-11-04T01:04:46.103340+00:00"
+        "planned_at": "2026-11-04T01:04:48.614469+00:00"
       }
     },
     "1834": {
@@ -86051,5 +86051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T01:04:47.036714+00:00"
+  "updated_at": "2026-11-04T01:04:48.998727+00:00"
 }
