@@ -59219,17 +59219,19 @@
       "attempts": []
     },
     "30428": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18627287",
+          "target_video_id": "30797264",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:50:22.655147+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18627287",
         "display_name": "The Club 1080p CZ Dabing",
         "planned_at": "2026-11-04T23:45:45.306027+00:00"
-      },
-      "claim": {
-        "worker_id": "8d625cb4cc6440358bfa7399c068c003-shard-0",
-        "claimed_at": "2026-11-04T23:45:45.535420+00:00",
-        "lease_expires_at": "2026-11-05T05:45:45.535420+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797264",
       "prepared": {
@@ -100037,5 +100039,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:45:49.472197+00:00"
+  "updated_at": "2026-11-04T23:50:22.655168+00:00"
 }
