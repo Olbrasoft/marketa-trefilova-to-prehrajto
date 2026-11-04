@@ -19794,17 +19794,19 @@
       "attempts": []
     },
     "19681": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20142205",
+          "target_video_id": "30787804",
+          "permanent": false,
+          "attempted_at": "2026-11-04T14:41:05.138760+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20142205",
         "display_name": "The Lincoln Lawyer 1080p CZ Titulky",
         "planned_at": "2026-11-04T14:28:47.552138+00:00"
-      },
-      "claim": {
-        "worker_id": "12159722d0c24bee85835a1a9a7db533-shard-0",
-        "claimed_at": "2026-11-04T14:28:47.830916+00:00",
-        "lease_expires_at": "2026-11-04T20:28:47.830916+00:00",
-        "run_id": "41820326732"
       },
       "previous_target_id": "30787804",
       "prepared": {
@@ -61111,5 +61113,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T14:38:05.348919+00:00"
+  "updated_at": "2026-11-04T14:41:05.138785+00:00"
 }
