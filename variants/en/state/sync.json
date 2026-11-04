@@ -3608,7 +3608,7 @@
       "last_plan": {
         "source_id": "11053464",
         "display_name": "How to Train Your Dragon (2010) 4K CZ Titulky",
-        "planned_at": "2026-11-04T02:25:01.668121+00:00"
+        "planned_at": "2026-11-04T03:12:17.539694+00:00"
       },
       "previous_target_id": "30615827",
       "prepared": {
@@ -3616,6 +3616,12 @@
         "size_bytes": 10100000000,
         "prepared_at": "2026-10-29T17:59:32.832675+00:00",
         "relay_source_id": "11053464"
+      },
+      "claim": {
+        "worker_id": "ede108dea3c84d5a81abbbb7ecb0203b-shard-0",
+        "claimed_at": "2026-11-04T03:12:17.636045+00:00",
+        "lease_expires_at": "2026-11-04T09:12:17.636045+00:00",
+        "run_id": "41760503575"
       }
     },
     "11423": {
@@ -9345,13 +9351,6 @@
           "source_id": "29667772",
           "target_video_id": "30661597",
           "permanent": false,
-          "attempted_at": "2026-11-04T01:21:11.000705+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29667772",
-          "target_video_id": "30661597",
-          "permanent": false,
           "attempted_at": "2026-11-04T01:53:28.030263+00:00"
         },
         {
@@ -9360,6 +9359,13 @@
           "target_video_id": "30661597",
           "permanent": false,
           "attempted_at": "2026-11-04T02:25:00.102360+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29667772",
+          "target_video_id": "30661597",
+          "permanent": false,
+          "attempted_at": "2026-11-04T03:12:17.810925+00:00"
         }
       ],
       "last_plan": {
@@ -9373,12 +9379,6 @@
         "size_bytes": 8700000000,
         "prepared_at": "2026-10-31T08:34:47.262597+00:00",
         "relay_source_id": "29667772"
-      },
-      "claim": {
-        "worker_id": "089d6ed2530b49e592fe3b74a9a35f5b-shard-0",
-        "claimed_at": "2026-11-04T03:12:15.850305+00:00",
-        "lease_expires_at": "2026-11-04T09:12:15.850305+00:00",
-        "run_id": "41760503575"
       }
     },
     "655": {
@@ -57161,5 +57161,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T03:12:15.951751+00:00"
+  "updated_at": "2026-11-04T03:12:17.810947+00:00"
 }
