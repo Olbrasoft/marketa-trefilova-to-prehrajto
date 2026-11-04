@@ -59008,17 +59008,19 @@
       "attempts": []
     },
     "10840": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30991186",
+          "target_video_id": "30796924",
+          "permanent": false,
+          "attempted_at": "2026-11-04T23:41:12.689716+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30991186",
         "display_name": "Any Number Can Win (Mélodie en sous-sol) 1080p CZ Dabing",
         "planned_at": "2026-11-04T23:25:24.726200+00:00"
-      },
-      "claim": {
-        "worker_id": "7d38485502e64544a0a7f2ccba8f3f81-shard-0",
-        "claimed_at": "2026-11-04T23:25:24.954454+00:00",
-        "lease_expires_at": "2026-11-05T05:25:24.954454+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30796924",
       "prepared": {
@@ -99945,5 +99947,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:40:52.131268+00:00"
+  "updated_at": "2026-11-04T23:41:12.689735+00:00"
 }
