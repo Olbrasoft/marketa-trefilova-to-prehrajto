@@ -27201,13 +27201,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-05T16:09:37.467806+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-05T16:42:20.926247+00:00"
         },
         {
@@ -27216,6 +27209,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-05T17:13:11.670095+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:46:44.268041+00:00"
         }
       ],
       "last_plan": {
@@ -27229,12 +27229,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
-      },
-      "claim": {
-        "worker_id": "bce9da12ca4d4cd1bfe69df10513fd31-shard-0",
-        "claimed_at": "2026-11-05T17:46:42.055212+00:00",
-        "lease_expires_at": "2026-11-05T23:46:42.055212+00:00",
-        "run_id": "42054291199"
       }
     },
     "12333": {
@@ -46659,7 +46653,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T17:13:13.186210+00:00"
+        "planned_at": "2026-11-05T17:46:43.649767+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -46667,6 +46661,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "36599a84ae5c419b8ab56800e090d197-shard-0",
+        "claimed_at": "2026-11-05T17:46:43.972286+00:00",
+        "lease_expires_at": "2026-11-05T23:46:43.972286+00:00",
+        "run_id": "42054291199"
       }
     },
     "20013": {
@@ -64963,7 +64963,7 @@
       "last_plan": {
         "source_id": "30755680",
         "display_name": "The Apprentice 1080p CZ Dabing",
-        "planned_at": "2026-11-05T17:46:41.826422+00:00"
+        "planned_at": "2026-11-05T17:46:43.792149+00:00"
       }
     },
     "25116": {
@@ -109337,5 +109337,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:46:42.189716+00:00"
+  "updated_at": "2026-11-05T17:46:44.268063+00:00"
 }
