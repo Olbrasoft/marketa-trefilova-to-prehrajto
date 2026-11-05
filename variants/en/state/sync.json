@@ -1984,7 +1984,7 @@
       "last_plan": {
         "source_id": "33013175",
         "display_name": "Braveheart 4K CZ Titulky",
-        "planned_at": "2026-11-05T04:04:13.121482+00:00"
+        "planned_at": "2026-11-05T04:39:02.154713+00:00"
       },
       "previous_target_id": "30597835",
       "prepared": {
@@ -1992,6 +1992,12 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
+      },
+      "claim": {
+        "worker_id": "001fb39e9751415ba8cef60fe06cb130-shard-0",
+        "claimed_at": "2026-11-05T04:39:02.371106+00:00",
+        "lease_expires_at": "2026-11-05T10:39:02.371106+00:00",
+        "run_id": "41955134709"
       }
     },
     "108": {
@@ -20622,17 +20628,23 @@
           "attempted_at": "2026-11-05T04:04:13.554518+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33063690",
-        "display_name": "Zootopia 2 1080p CZ Titulky",
-        "planned_at": "2026-11-05T04:39:00.083742+00:00"
-      },
       "previous_target_id": "30802402",
-      "prepared": {
+      "upload": {
         "target_video_id": "30802402",
-        "size_bytes": 5918616371,
-        "prepared_at": "2026-11-05T03:35:34.782957+00:00",
-        "relay_source_id": "33063690"
+        "display_name": "Zootopia 2 1080p CZ Titulky",
+        "source_id": "33063690",
+        "source_url": "https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv",
+        "source_filename": "Zotropolis_ Město zvířat 2 - Zotopia 2 [1080p] [CZ Titulky] EAC3.mkv",
+        "size_bytes": 5900000000,
+        "width": 1920,
+        "height": 800,
+        "audio_language": "en",
+        "language_probability": 0.9749440550804138,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/zootopia-2-1080p-cz-titulky-mkv/c9cd12ec4c1ca0f1",
+        "uploaded_at": "2026-11-05T04:39:02.597152+00:00"
       }
     },
     "1289": {
@@ -65326,5 +65338,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:39:00.083757+00:00"
+  "updated_at": "2026-11-05T04:39:02.597163+00:00"
 }
