@@ -21861,18 +21861,19 @@
           "reason": "Request failed for https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-05T14:57:13.469362+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34228623",
+          "target_video_id": "30822365",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:00:28.508826+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34228623",
         "display_name": "A Street Cat Named Bob 1080p CZ Titulky",
         "planned_at": "2026-11-05T15:48:04.664856+00:00"
-      },
-      "claim": {
-        "worker_id": "13630dd4072b45a9bb04f17fb9c56cfc-shard-0",
-        "claimed_at": "2026-11-05T15:48:04.772457+00:00",
-        "lease_expires_at": "2026-11-05T21:48:04.772457+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30822365",
       "prepared": {
@@ -68885,5 +68886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T15:54:20.461220+00:00"
+  "updated_at": "2026-11-05T16:00:28.508847+00:00"
 }
