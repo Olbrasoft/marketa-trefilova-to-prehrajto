@@ -8532,7 +8532,7 @@
       "last_plan": {
         "source_id": "21842659",
         "display_name": "Song of the Sea 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:47:24.277847+00:00"
+        "planned_at": "2026-11-05T13:20:25.642983+00:00"
       },
       "previous_target_id": "30631275",
       "prepared": {
@@ -8540,17 +8540,16 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
+      },
+      "claim": {
+        "worker_id": "d9ce85830b4a4b38bb714a15a2fceb0d-shard-0",
+        "claimed_at": "2026-11-05T13:20:26.187938+00:00",
+        "lease_expires_at": "2026-11-05T19:20:26.187938+00:00",
+        "run_id": "42018448939"
       }
     },
     "270": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
-          "attempted_at": "2026-11-05T11:39:15.770513+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "17777440",
@@ -8564,6 +8563,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-05T12:47:22.678012+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:20:26.342530+00:00"
         }
       ],
       "last_plan": {
@@ -8577,12 +8583,6 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
-      },
-      "claim": {
-        "worker_id": "200de3c1478f4a68a32f8752c4ff9275-shard-0",
-        "claimed_at": "2026-11-05T13:20:23.210303+00:00",
-        "lease_expires_at": "2026-11-05T19:20:23.210303+00:00",
-        "run_id": "42018448939"
       }
     },
     "21873": {
@@ -63460,7 +63460,7 @@
       "last_plan": {
         "source_id": "26359855",
         "display_name": "It's Kind of a Funny Story 1080p CZ Dabing",
-        "planned_at": "2026-11-05T13:20:22.848792+00:00"
+        "planned_at": "2026-11-05T13:20:25.855143+00:00"
       }
     },
     "1983": {
@@ -107069,5 +107069,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:20:23.881539+00:00"
+  "updated_at": "2026-11-05T13:20:26.342551+00:00"
 }
