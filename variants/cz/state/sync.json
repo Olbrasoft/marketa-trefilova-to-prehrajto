@@ -7080,13 +7080,6 @@
           "source_id": "26239565",
           "target_video_id": "30627346",
           "permanent": false,
-          "attempted_at": "2026-11-05T16:07:52.725852+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "30627346",
-          "permanent": false,
           "attempted_at": "2026-11-05T16:41:11.566150+00:00"
         },
         {
@@ -7095,6 +7088,13 @@
           "target_video_id": "30627346",
           "permanent": false,
           "attempted_at": "2026-11-05T17:12:06.004271+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:45:59.824106+00:00"
         }
       ],
       "last_plan": {
@@ -16361,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-05T17:12:07.467377+00:00"
+        "planned_at": "2026-11-05T17:45:58.835501+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16369,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "76ddc63c49bb4efabdc6cd617d097f3c-shard-0",
+        "claimed_at": "2026-11-05T17:45:59.140560+00:00",
+        "lease_expires_at": "2026-11-05T23:45:59.140560+00:00",
+        "run_id": "42054291199"
       }
     },
     "12843": {
@@ -64957,7 +64963,7 @@
       "last_plan": {
         "source_id": "30755680",
         "display_name": "The Apprentice 1080p CZ Dabing",
-        "planned_at": "2026-11-05T17:45:57.191912+00:00"
+        "planned_at": "2026-11-05T17:45:58.965197+00:00"
       }
     },
     "25116": {
@@ -109331,5 +109337,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:45:57.191942+00:00"
+  "updated_at": "2026-11-05T17:45:59.824128+00:00"
 }
