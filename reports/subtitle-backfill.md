@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T01:10:28.191892+00:00
+Poslední aktualizace (UTC): 2026-11-05T01:10:33.882779+00:00
 
 Zkontrolováno videí: 385. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 303, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 17, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 303, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 18, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -78,6 +78,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 6. Důvod 
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T00:30:33.308394+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-05T00:30:49.110027+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-05T00:30:36.723265+00:00 |
+| [Le vieux fusil (The Old Gun) 1080p CZ Titulky](https://prehraj.to/le-vieux-fusil-the-old-gun-1080p-cz-titulky-mkv/0698a63755fda2a9) (ID 30798810) | [Sdílej 30898170](https://sdilej.cz/30898170/le-vieux-fusil-1975-1080p.fr.x264.ac3.fr.subfr-cs.mkv) | target_unavailable | 2026-11-05T01:10:33.053342+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T00:30:29.741258+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T00:30:21.283887+00:00 |
 | [Punch-Drunk Love 1080p CZ Titulky](https://prehraj.to/punch-drunk-love-1080p-cz-titulky-mkv/0f604bcce858cc50) (ID 30798332) | [Sdílej 35071436](https://sdilej.cz/35071436/opili-laskou-2002-cz-dabing-1080p-fhd.mkv) | target_unavailable | 2026-11-05T00:50:20.695737+00:00 |
