@@ -64281,7 +64281,20 @@
       }
     },
     "2118": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34471078",
+          "reason": "Request failed for https://sdilej.cz/34471078/konkurs-1999-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T15:23:55.435955+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34471078",
+        "display_name": "Audition (オーディション) (1999) 1080p CZ Dabing",
+        "planned_at": "2026-11-05T15:23:09.272446+00:00"
+      }
     },
     "14656": {
       "attempts": []
@@ -108282,5 +108295,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T15:23:06.060215+00:00"
+  "updated_at": "2026-11-05T15:23:55.435973+00:00"
 }
