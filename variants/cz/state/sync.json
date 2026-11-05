@@ -61128,17 +61128,19 @@
       }
     },
     "13865": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33191259",
+          "target_video_id": "30806421",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:24:27.261143+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33191259",
         "display_name": "Tropic Thunder 4K CZ Dabing",
         "planned_at": "2026-11-05T06:04:47.972699+00:00"
-      },
-      "claim": {
-        "worker_id": "89481926d0b44a2a9a7834a2016d7933-shard-0",
-        "claimed_at": "2026-11-05T06:04:48.286827+00:00",
-        "lease_expires_at": "2026-11-05T12:04:48.286827+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30806421",
       "prepared": {
@@ -103049,5 +103051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T06:22:52.927996+00:00"
+  "updated_at": "2026-11-05T06:24:27.261157+00:00"
 }
