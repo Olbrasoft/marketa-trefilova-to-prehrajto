@@ -64614,17 +64614,19 @@
       }
     },
     "11463": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33756083",
+          "target_video_id": "30823281",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:38:33.040865+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33756083",
         "display_name": "The Dead Zone 4K CZ Dabing",
         "planned_at": "2026-11-05T16:23:35.573078+00:00"
-      },
-      "claim": {
-        "worker_id": "139a50f7fd7d44ce86c0905f02c80b7b-shard-0",
-        "claimed_at": "2026-11-05T16:23:35.728357+00:00",
-        "lease_expires_at": "2026-11-05T22:23:35.728357+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30823281",
       "prepared": {
@@ -108810,5 +108812,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:27:21.703976+00:00"
+  "updated_at": "2026-11-05T16:38:33.040886+00:00"
 }
