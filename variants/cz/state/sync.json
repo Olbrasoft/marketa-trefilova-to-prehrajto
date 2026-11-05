@@ -65232,17 +65232,19 @@
       }
     },
     "1948": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35213240",
+          "target_video_id": "30826697",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:24:17.605284+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35213240",
         "display_name": "First Reformed 720p CZ Dabing",
         "planned_at": "2026-11-05T18:13:48.934107+00:00"
-      },
-      "claim": {
-        "worker_id": "15df88e73ab8402f93829dc44e254639-shard-0",
-        "claimed_at": "2026-11-05T18:13:49.099834+00:00",
-        "lease_expires_at": "2026-11-06T00:13:49.099834+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30826697",
       "prepared": {
@@ -109596,5 +109598,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:19:47.318459+00:00"
+  "updated_at": "2026-11-05T18:24:17.605303+00:00"
 }
