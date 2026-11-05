@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-05T03:33:52.654769+00:00"
+        "planned_at": "2026-11-05T04:06:00.180911+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "725ff4e509ce48b2954ab45afc75630c-shard-0",
+        "claimed_at": "2026-11-05T04:06:00.768832+00:00",
+        "lease_expires_at": "2026-11-05T10:06:00.768832+00:00",
+        "run_id": "41955134709"
       }
     },
     "29922": {
@@ -60516,17 +60522,19 @@
       "attempts": []
     },
     "22718": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33723569",
+          "reason": "Request failed for https://sdilej.cz/33723569/konecne-nedele-1983-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:06:08.948970+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33723569",
         "display_name": "Confidentially Yours 1080p CZ Dabing",
         "planned_at": "2026-11-05T04:05:21.959643+00:00"
-      },
-      "claim": {
-        "worker_id": "76b514644fa4492f905cc329cbb1aa78-shard-0",
-        "claimed_at": "2026-11-05T04:05:22.442002+00:00",
-        "lease_expires_at": "2026-11-05T10:05:22.442002+00:00",
-        "run_id": "41955134709"
       }
     },
     "26698": {
@@ -60564,7 +60572,7 @@
       "last_plan": {
         "source_id": "27476888",
         "display_name": "Panna a netvor 1080p CZ Dabing",
-        "planned_at": "2026-11-05T04:05:57.278009+00:00"
+        "planned_at": "2026-11-05T04:06:00.400417+00:00"
       }
     },
     "28711": {
@@ -102010,5 +102018,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:05:58.571518+00:00"
+  "updated_at": "2026-11-05T04:06:08.948992+00:00"
 }
