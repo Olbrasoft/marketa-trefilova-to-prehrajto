@@ -388,14 +388,14 @@ Attach subtitles only after target processing has finished.
 | The Lego Batman Movie 4K CZ Titulky | 30795500 | https://sdilej.cz/34626570/lego-batman-film-animovany-2017-czdab.uhd.bluray.mkv | Complete: Czech subtitles verified |
 | Le vieux fusil (The Old Gun) 1080p CZ Titulky | 30798810 | https://sdilej.cz/30898170/le-vieux-fusil-1975-1080p.fr.x264.ac3.fr.subfr-cs.mkv | Complete: Czech subtitles verified |
 | Rounders 1080p CZ Titulky | 30799133 | https://sdilej.cz/30530252/hraci-hraji-matt-damon-edward-norton-1998-cz-dab-leg.mkv | Complete: Czech subtitles verified |
-| Good Morning, Vietnam 1080p CZ Titulky | 30799955 | https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Good Morning, Vietnam 1080p CZ Titulky | 30799955 | https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | Hustle 1080p CZ Titulky | 30799979 | https://sdilej.cz/21710623/hustle-2022-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | That Sugar Film 720p CZ Titulky | 30801243 | https://sdilej.cz/31729972/that.sugar.film.2014.720p.bluray.x264-cz.tit.mkv | Complete: Czech subtitles verified |
 | Good Time 1080p CZ Titulky | 30801660 | https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv | Complete: Czech subtitles verified |
 | Paddington 1080p CZ Titulky | 30801722 | https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv | Complete: Czech subtitles verified |
-| The Edge of Seventeen 1080p CZ Titulky | 30803408 | https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| The Edge of Seventeen 1080p CZ Titulky | 30803408 | https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Zootopia 2 1080p CZ Titulky | 30802402 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Complete: Czech subtitles verified |
-| The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky | 30802431 | https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky | 30802431 | https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | Okja 1080p CZ Titulky | 30802868 | https://sdilej.cz/34917918/okja-2017-.mkv | Complete: Czech subtitles verified |
 | The Way Back (2010) 1080p CZ Titulky | 30807154 | https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4 | Extract Czech track from exact source after processing |
 | The Death of Stalin 1080p CZ Titulky | 30805972 | https://sdilej.cz/18414247/the.death.of.stalin.2017.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
