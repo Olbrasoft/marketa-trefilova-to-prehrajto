@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T04:15:44.292017+00:00
+Poslední aktualizace (UTC): 2026-11-05T04:15:52.360757+00:00
 
 Zkontrolováno videí: 395. Další stránka kontroly: 0.
 
@@ -87,7 +87,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvod
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-05T03:05:39.125471+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-05T03:05:21.755334+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-05T04:15:24.820490+00:00 |
-| [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-05T03:05:03.443291+00:00 |
+| [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-05T04:15:52.360704+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-05T03:05:15.065072+00:00 |
 | [The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky](https://prehraj.to/the-boy-and-the-heron-1080p-cz-titulky-mkv/e536f7106b7626d5) (ID 30802431) | [Sdílej 29249237](https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T03:44:07.477766+00:00 |
 | [The Edge of Seventeen 1080p CZ Titulky](https://prehraj.to/the-edge-of-seventeen-1080p-cz-titulky-mkv/5482301ed4f173e4) (ID 30803408) | [Sdílej 23009992](https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv) | target_unavailable | 2026-11-05T04:14:20.466511+00:00 |
