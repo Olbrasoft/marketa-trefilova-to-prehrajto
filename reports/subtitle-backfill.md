@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T10:40:21.069667+00:00
+Poslední aktualizace (UTC): 2026-11-05T10:40:22.858000+00:00
 
 Zkontrolováno videí: 404. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 315, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 24, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 315, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 25, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -73,6 +73,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 12. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T10:31:30.852479+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T08:39:13.521041+00:00 |
 | [Clue 1080p CZ Titulky](https://prehraj.to/clue-1080p-cz-titulky-mkv/000da5597d6d2a44) (ID 30804709) | [Sdílej 33563795](https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-05T08:39:31.637852+00:00 |
+| [Decision to Leave (Heojil kyolshim) 4K CZ Titulky](https://prehraj.to/decision-to-leave-heojil-kyolshim-4k-cz-titulky-mkv/6b360a8a4142f441) (ID 30814513) | [Sdílej 33925676](https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv) | target_unavailable | 2026-11-05T10:40:22.857795+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T10:32:30.789495+00:00 |
 | [Good Morning, Vietnam 1080p CZ Titulky](https://prehraj.to/good-morning-vietnam-1080p-cz-titulky-mkv/1fbf3afa3ae1f33e) (ID 30799955) | [Sdílej 34617999](https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T08:39:17.229413+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T10:31:18.215268+00:00 |
