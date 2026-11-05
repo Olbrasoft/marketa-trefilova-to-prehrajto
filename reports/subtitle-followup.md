@@ -381,7 +381,7 @@ Attach subtitles only after target processing has finished.
 | Wake Up Dead Man (Wake Up Dead Man: A Knives Out Mystery) 4K CZ Titulky | 30788177 | https://sdilej.cz/32607681/wake.up.dead.man.a.knives.out.mystery.2025.2160p.nf.web-dl.ddp5.1.atmos.dv.hdr.h.265-byndr.mkv | Complete: Czech subtitles verified |
 | Wicked 4K CZ Titulky | 30788407 | https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv | Extract Czech track from exact source after processing |
 | The Evil Dead 1080p CZ Titulky | 30789688 | https://sdilej.cz/35161536/smrtelne-zlo-duch-lesa-1--1981-the-evil-dead.mkv | Complete: Czech subtitles verified |
-| Doctor Sleep 1080p CZ Titulky | 30790059 | https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv | Extract Czech track from exact source after processing |
+| Doctor Sleep 1080p CZ Titulky | 30790059 | https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv | Complete: Czech subtitles verified |
 | Dogma 1080p CZ Titulky | 30790077 | https://sdilej.cz/15676655/dogma.mkv | Complete: Czech subtitles verified |
 | Blue Jasmine 1080p CZ Titulky | 30790802 | https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4 | Extract Czech track from exact source after processing |
 | Punch-Drunk Love 1080p CZ Titulky | 30798332 | https://sdilej.cz/35071436/opili-laskou-2002-cz-dabing-1080p-fhd.mkv | Complete: Czech subtitles verified |
