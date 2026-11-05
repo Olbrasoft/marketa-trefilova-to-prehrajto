@@ -411,4 +411,4 @@ Attach subtitles only after target processing has finished.
 | Detroit SD CZ Titulky | 30816296 | https://sdilej.cz/11808687/detroit-cz.sub.mkv | Complete: Czech subtitles verified |
 | The Hand of God (È stata la mano di Dio) 1080p CZ Titulky | 30816443 | https://sdilej.cz/19193453/bozi-ruka-e-stata-la-mano-di-dio-1080p-2021-vlozene-cz-titulky-kst.mkv | Complete: Czech subtitles verified |
 | Nowhere Special 1080p CZ Titulky | 30818209 | https://sdilej.cz/18753727/nowhere.special.2020.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
-| Deconstructing Harry SD CZ Titulky | 30817729 | https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv | Extract Czech track from exact source after processing |
+| Deconstructing Harry SD CZ Titulky | 30817729 | https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv | Complete: Czech subtitles verified |
