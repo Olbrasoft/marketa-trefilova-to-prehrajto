@@ -22443,17 +22443,19 @@
       "attempts": []
     },
     "35536": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7474986",
+          "target_video_id": "30834760",
+          "permanent": false,
+          "attempted_at": "2026-11-05T22:46:52.010478+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7474986",
         "display_name": "I Am Heath Ledger SD CZ Titulky",
         "planned_at": "2026-11-05T22:34:03.280270+00:00"
-      },
-      "claim": {
-        "worker_id": "64715e4811c14138beff613a65465d5e-shard-0",
-        "claimed_at": "2026-11-05T22:34:03.347248+00:00",
-        "lease_expires_at": "2026-11-06T04:34:03.347248+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30834760",
       "prepared": {
@@ -70825,5 +70827,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T22:34:07.581280+00:00"
+  "updated_at": "2026-11-05T22:46:52.010507+00:00"
 }
