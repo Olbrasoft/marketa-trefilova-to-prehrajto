@@ -63362,17 +63362,19 @@
       }
     },
     "1916": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22855673",
+          "target_video_id": "30818352",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:27:38.374874+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22855673",
         "display_name": "Licorice Pizza 720p CZ Dabing",
         "planned_at": "2026-11-05T13:02:03.314545+00:00"
-      },
-      "claim": {
-        "worker_id": "9a92ee28400d4f1db157cfef612e0078-shard-0",
-        "claimed_at": "2026-11-05T13:02:03.622386+00:00",
-        "lease_expires_at": "2026-11-05T19:02:03.622386+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30818352",
       "prepared": {
@@ -107125,5 +107127,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:23:40.498062+00:00"
+  "updated_at": "2026-11-05T13:27:38.374889+00:00"
 }
