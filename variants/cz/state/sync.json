@@ -63616,11 +63616,19 @@
       }
     },
     "2120": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34648635",
+          "reason": "Request failed for https://sdilej.cz/34648635/snilci-2003-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:33:47.491984+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34648635",
         "display_name": "The Dreamers 1080p CZ Dabing",
-        "planned_at": "2026-11-05T13:32:58.337089+00:00"
+        "planned_at": "2026-11-05T13:33:01.390998+00:00"
       }
     },
     "2072": {
@@ -107208,5 +107216,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:32:59.481204+00:00"
+  "updated_at": "2026-11-05T13:33:47.492005+00:00"
 }
