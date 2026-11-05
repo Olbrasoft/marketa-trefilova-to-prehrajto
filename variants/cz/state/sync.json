@@ -65660,11 +65660,19 @@
       }
     },
     "11135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30001858",
+          "reason": "Request failed for https://sdilej.cz/30001858/cerne-vanoce-1974-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:17:54.211605+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30001858",
         "display_name": "Black Christmas (1974) SD CZ Dabing",
-        "planned_at": "2026-11-05T20:17:49.940895+00:00"
+        "planned_at": "2026-11-05T20:17:53.018120+00:00"
       }
     },
     "22928": {
@@ -110463,5 +110471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:17:51.179897+00:00"
+  "updated_at": "2026-11-05T20:17:54.211627+00:00"
 }
