@@ -60071,17 +60071,19 @@
       "attempts": []
     },
     "11081": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31420174",
+          "target_video_id": "30801242",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:57:31.881139+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31420174",
         "display_name": "The Tall Blond Man with One Black Shoe (Le Grand Blond avec une chaussure noire) 1080p CZ Dabing",
         "planned_at": "2026-11-05T02:42:57.680317+00:00"
-      },
-      "claim": {
-        "worker_id": "6afec4e1a9984339ace07f5131705852-shard-0",
-        "claimed_at": "2026-11-05T02:42:58.298332+00:00",
-        "lease_expires_at": "2026-11-05T08:42:58.298332+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30801242",
       "prepared": {
@@ -101449,5 +101451,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T02:45:30.670735+00:00"
+  "updated_at": "2026-11-05T02:57:31.881163+00:00"
 }
