@@ -22369,17 +22369,19 @@
       "attempts": []
     },
     "20951": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11769265",
+          "target_video_id": "30833864",
+          "permanent": false,
+          "attempted_at": "2026-11-05T22:49:17.740971+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11769265",
         "display_name": "Butterflies (Kelebekler) 1080p CZ Titulky",
         "planned_at": "2026-11-05T22:03:30.690382+00:00"
-      },
-      "claim": {
-        "worker_id": "457e753122bd4fd0b595576cea92f804-shard-0",
-        "claimed_at": "2026-11-05T22:03:30.787497+00:00",
-        "lease_expires_at": "2026-11-06T04:03:30.787497+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30833864",
       "prepared": {
@@ -70845,5 +70847,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T22:48:49.840081+00:00"
+  "updated_at": "2026-11-05T22:49:17.741022+00:00"
 }
