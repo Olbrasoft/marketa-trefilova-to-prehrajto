@@ -65836,17 +65836,19 @@
       "attempts": []
     },
     "19592": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14286407",
+          "target_video_id": "30831075",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:49:56.019836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14286407",
         "display_name": "Spread Your Wings (Donne-moi des ailes) 1080p CZ Dabing",
         "planned_at": "2026-11-05T20:38:14.635041+00:00"
-      },
-      "claim": {
-        "worker_id": "cd23cea7f3b0410b80b0c0ecfd4daa20-shard-0",
-        "claimed_at": "2026-11-05T20:38:14.904351+00:00",
-        "lease_expires_at": "2026-11-06T02:38:14.904351+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30831075",
       "prepared": {
@@ -110772,5 +110774,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:49:50.033101+00:00"
+  "updated_at": "2026-11-05T20:49:56.019860+00:00"
 }
