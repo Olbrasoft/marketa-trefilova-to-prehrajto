@@ -10809,13 +10809,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-05T05:03:01.104664+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-05T05:40:37.768075+00:00"
         },
         {
@@ -10824,6 +10817,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-05T06:19:44.028410+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:59:37.762360+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10837,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "6b4d39702bf14bd5a59a2ccf9fef6658-shard-0",
-        "claimed_at": "2026-11-05T06:59:35.401937+00:00",
-        "lease_expires_at": "2026-11-05T12:59:35.401937+00:00",
-        "run_id": "41981017097"
       }
     },
     "21748": {
@@ -57823,7 +57817,7 @@
       "last_plan": {
         "source_id": "34604458",
         "display_name": "Once Upon a Time in China 4K CZ Dabing",
-        "planned_at": "2026-11-05T06:20:21.420998+00:00"
+        "planned_at": "2026-11-05T06:59:37.166045+00:00"
       },
       "previous_target_id": "30789385",
       "prepared": {
@@ -57831,6 +57825,12 @@
         "size_bytes": 25600000000,
         "prepared_at": "2026-11-04T16:02:31.123690+00:00",
         "relay_source_id": "34604458"
+      },
+      "claim": {
+        "worker_id": "16a1985fff054813be8d47565a4e1c51-shard-0",
+        "claimed_at": "2026-11-05T06:59:37.611593+00:00",
+        "lease_expires_at": "2026-11-05T12:59:37.611593+00:00",
+        "run_id": "41981017097"
       }
     },
     "29761": {
@@ -61322,7 +61322,7 @@
       "last_plan": {
         "source_id": "34854442",
         "display_name": "Jumanji 4K CZ Dabing",
-        "planned_at": "2026-11-05T06:59:35.006763+00:00"
+        "planned_at": "2026-11-05T06:59:37.350375+00:00"
       }
     },
     "23968": {
@@ -103445,5 +103445,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T06:59:35.745082+00:00"
+  "updated_at": "2026-11-05T06:59:37.762372+00:00"
 }
