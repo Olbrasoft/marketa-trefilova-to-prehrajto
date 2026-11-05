@@ -65331,17 +65331,19 @@
       }
     },
     "22642": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33669582",
+          "target_video_id": "30827301",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:45:55.496667+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33669582",
         "display_name": "An Officer and a Gentleman 1080p CZ Dabing",
         "planned_at": "2026-11-05T18:35:48.543831+00:00"
-      },
-      "claim": {
-        "worker_id": "5c839fed74fe429baccc07e65c736026-shard-0",
-        "claimed_at": "2026-11-05T18:35:48.721139+00:00",
-        "lease_expires_at": "2026-11-06T00:35:48.721139+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30827301",
       "prepared": {
@@ -109962,5 +109964,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:41:04.467855+00:00"
+  "updated_at": "2026-11-05T18:45:55.496688+00:00"
 }
