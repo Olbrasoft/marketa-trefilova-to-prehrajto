@@ -27201,13 +27201,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-05T08:02:36.365141+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-05T08:38:11.405013+00:00"
         },
         {
@@ -27216,6 +27209,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-05T09:08:42.082723+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:43:15.133921+00:00"
         }
       ],
       "last_plan": {
@@ -27229,12 +27229,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
-      },
-      "claim": {
-        "worker_id": "299e10f04690404ca5aa8be446c05c82-shard-0",
-        "claimed_at": "2026-11-05T09:43:12.882052+00:00",
-        "lease_expires_at": "2026-11-05T15:43:12.882052+00:00",
-        "run_id": "41981017097"
       }
     },
     "12333": {
@@ -46659,7 +46653,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T09:08:43.565672+00:00"
+        "planned_at": "2026-11-05T09:43:14.470781+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -46667,6 +46661,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "3dccd5de88f74eed829aef2dd628db5c-shard-0",
+        "claimed_at": "2026-11-05T09:43:14.990552+00:00",
+        "lease_expires_at": "2026-11-05T15:43:14.990552+00:00",
+        "run_id": "41981017097"
       }
     },
     "20013": {
@@ -62024,7 +62024,7 @@
       "last_plan": {
         "source_id": "19540622",
         "display_name": "Seven Psychopaths 1080p CZ Dabing",
-        "planned_at": "2026-11-05T09:43:12.545127+00:00"
+        "planned_at": "2026-11-05T09:43:14.670927+00:00"
       }
     },
     "1967": {
@@ -104883,5 +104883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:43:13.034012+00:00"
+  "updated_at": "2026-11-05T09:43:15.133941+00:00"
 }
