@@ -21526,17 +21526,19 @@
       "attempts": []
     },
     "23799": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35114279",
+          "target_video_id": "30817729",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:37:52.514962+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35114279",
         "display_name": "Deconstructing Harry SD CZ Titulky",
         "planned_at": "2026-11-05T12:34:28.449220+00:00"
-      },
-      "claim": {
-        "worker_id": "642dd7d1fff24c7ca931c47851564194-shard-0",
-        "claimed_at": "2026-11-05T12:34:28.537708+00:00",
-        "lease_expires_at": "2026-11-05T18:34:28.537708+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30817729",
       "prepared": {
@@ -67889,5 +67891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:35:49.451984+00:00"
+  "updated_at": "2026-11-05T12:37:52.514979+00:00"
 }
