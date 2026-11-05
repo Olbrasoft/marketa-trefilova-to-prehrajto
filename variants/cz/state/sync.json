@@ -61447,11 +61447,19 @@
       }
     },
     "2150": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20008422",
+          "reason": "Request failed for https://sdilej.cz/20008422/ocelova.pest-real.steel.2011.1080p.bluray.h264.dd.5.1.cz.aac.5.1.en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:15:14.905553+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20008422",
         "display_name": "Real Steel 1080p CZ Dabing",
-        "planned_at": "2026-11-05T07:14:25.558114+00:00"
+        "planned_at": "2026-11-05T07:14:28.581838+00:00"
       }
     },
     "13813": {
@@ -103554,5 +103562,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:14:26.773106+00:00"
+  "updated_at": "2026-11-05T07:15:14.905570+00:00"
 }
