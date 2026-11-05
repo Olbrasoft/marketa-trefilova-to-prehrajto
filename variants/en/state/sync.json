@@ -21268,13 +21268,6 @@
     "22811": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "33673421",
-          "reason": "Request failed for https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-11-05T10:33:46.152476+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "33673421",
           "target_video_id": "30816243",
@@ -21287,12 +21280,19 @@
           "target_video_id": "30816243",
           "permanent": false,
           "attempted_at": "2026-11-05T12:12:58.652424+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33673421",
+          "target_video_id": "30816243",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:47:53.191513+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33673421",
         "display_name": "Pale Rider 1080p CZ Titulky",
-        "planned_at": "2026-11-05T12:47:45.296698+00:00"
+        "planned_at": "2026-11-05T12:47:51.259112+00:00"
       },
       "previous_target_id": "30816243",
       "prepared": {
@@ -67891,5 +67891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:47:45.296712+00:00"
+  "updated_at": "2026-11-05T12:47:53.191533+00:00"
 }
