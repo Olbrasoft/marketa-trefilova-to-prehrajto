@@ -64463,17 +64463,19 @@
       }
     },
     "19429": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33943928",
+          "reason": "Request failed for https://sdilej.cz/33943928/vrteti-psem-1997-1080p-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:07:46.460900+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33943928",
         "display_name": "Wag the Dog 1080p CZ Dabing",
         "planned_at": "2026-11-05T16:06:38.723013+00:00"
-      },
-      "claim": {
-        "worker_id": "ca9f80324e2346509f3c8ab5194a4ee4-shard-0",
-        "claimed_at": "2026-11-05T16:06:39.090676+00:00",
-        "lease_expires_at": "2026-11-05T22:06:39.090676+00:00",
-        "run_id": "42054291199"
       }
     },
     "11489": {
@@ -108450,5 +108452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:07:08.711840+00:00"
+  "updated_at": "2026-11-05T16:07:46.460922+00:00"
 }
