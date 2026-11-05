@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-05T18:15:20.118965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-05T18:46:21.279885+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-05T19:18:45.396523+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:12:36.695204+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "32b5cc6e92924f37be9950e70af7bef7-shard-0",
-        "claimed_at": "2026-11-05T20:12:30.160662+00:00",
-        "lease_expires_at": "2026-11-06T02:12:30.160662+00:00",
-        "run_id": "42093150935"
       }
     },
     "21690": {
@@ -16560,7 +16554,7 @@
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
-        "planned_at": "2026-11-05T19:18:51.873099+00:00"
+        "planned_at": "2026-11-05T20:12:36.468407+00:00"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -16568,6 +16562,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "6105a8a6b5d742759f5588b90e9fefb8-shard-0",
+        "claimed_at": "2026-11-05T20:12:36.757184+00:00",
+        "lease_expires_at": "2026-11-06T02:12:36.757184+00:00",
+        "run_id": "42093150935"
       }
     },
     "1209": {
@@ -22208,7 +22208,7 @@
       "last_plan": {
         "source_id": "14813697",
         "display_name": "Uncle Frank 1080p CZ Titulky",
-        "planned_at": "2026-11-05T20:12:30.096317+00:00"
+        "planned_at": "2026-11-05T20:12:36.598680+00:00"
       }
     },
     "23529": {
@@ -70009,5 +70009,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:12:31.474312+00:00"
+  "updated_at": "2026-11-05T20:12:36.757218+00:00"
 }
