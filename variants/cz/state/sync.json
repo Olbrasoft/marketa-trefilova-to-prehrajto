@@ -27201,13 +27201,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-05T14:22:02.122285+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-05T14:58:36.787013+00:00"
         },
         {
@@ -27216,6 +27209,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-05T15:32:01.270201+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:09:37.467806+00:00"
         }
       ],
       "last_plan": {
@@ -46653,7 +46653,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T15:32:03.030959+00:00"
+        "planned_at": "2026-11-05T16:09:36.460066+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -46661,6 +46661,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "c9560764aea948a185d911062526d24e-shard-0",
+        "claimed_at": "2026-11-05T16:09:36.730899+00:00",
+        "lease_expires_at": "2026-11-05T22:09:36.730899+00:00",
+        "run_id": "42054291199"
       }
     },
     "20013": {
@@ -64499,7 +64505,7 @@
       "last_plan": {
         "source_id": "34907966",
         "display_name": "In the Mouth of Madness 1080p CZ Dabing",
-        "planned_at": "2026-11-05T16:09:33.895797+00:00"
+        "planned_at": "2026-11-05T16:09:36.577666+00:00"
       }
     },
     "1953": {
@@ -108465,5 +108471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:09:33.895815+00:00"
+  "updated_at": "2026-11-05T16:09:37.467823+00:00"
 }
