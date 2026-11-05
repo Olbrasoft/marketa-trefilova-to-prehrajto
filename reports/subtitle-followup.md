@@ -392,7 +392,7 @@ Attach subtitles only after target processing has finished.
 | Hustle 1080p CZ Titulky | 30799979 | https://sdilej.cz/21710623/hustle-2022-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | That Sugar Film 720p CZ Titulky | 30801243 | https://sdilej.cz/31729972/that.sugar.film.2014.720p.bluray.x264-cz.tit.mkv | Complete: Czech subtitles verified |
 | Good Time 1080p CZ Titulky | 30801660 | https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv | Complete: Czech subtitles verified |
-| Paddington 1080p CZ Titulky | 30801722 | https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv | Extract Czech track from exact source after processing |
+| Paddington 1080p CZ Titulky | 30801722 | https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv | Complete: Czech subtitles verified |
 | The Edge of Seventeen 1080p CZ Titulky | 30803408 | https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Zootopia 2 1080p CZ Titulky | 30802402 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Complete: Czech subtitles verified |
 | The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky | 30802431 | https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
