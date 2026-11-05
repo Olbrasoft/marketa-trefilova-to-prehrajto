@@ -62934,17 +62934,19 @@
       }
     },
     "2005": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30408248",
+          "target_video_id": "30817751",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:40:12.109027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30408248",
         "display_name": "Definitely, Maybe 1080p CZ Dabing",
         "planned_at": "2026-11-05T12:35:16.314508+00:00"
-      },
-      "claim": {
-        "worker_id": "725b8ebfe22e4f1b89c5b8d0b6264583-shard-0",
-        "claimed_at": "2026-11-05T12:35:16.677407+00:00",
-        "lease_expires_at": "2026-11-05T18:35:16.677407+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30817751",
       "prepared": {
@@ -106373,5 +106375,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:40:10.541939+00:00"
+  "updated_at": "2026-11-05T12:40:12.109045+00:00"
 }
