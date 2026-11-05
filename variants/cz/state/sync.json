@@ -62642,17 +62642,19 @@
       "attempts": []
     },
     "2049": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7312336",
+          "target_video_id": "30816908",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:03:30.068421+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7312336",
         "display_name": "Sing 1080p CZ Dabing",
         "planned_at": "2026-11-05T12:00:19.873048+00:00"
-      },
-      "claim": {
-        "worker_id": "0c8f61d05eb04751a1ee324e11c5ffe6-shard-0",
-        "claimed_at": "2026-11-05T12:00:20.198253+00:00",
-        "lease_expires_at": "2026-11-05T18:00:20.198253+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30816908",
       "prepared": {
@@ -105903,5 +105905,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:01:39.106541+00:00"
+  "updated_at": "2026-11-05T12:03:30.068442+00:00"
 }
