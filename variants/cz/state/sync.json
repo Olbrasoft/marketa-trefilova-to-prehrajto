@@ -60296,17 +60296,19 @@
       "attempts": []
     },
     "11048": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33692518",
+          "target_video_id": "30801981",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:26:18.236088+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33692518",
         "display_name": "Delusions of Grandeur (La Folie des grandeurs) 1080p CZ Dabing",
         "planned_at": "2026-11-05T03:14:22.285856+00:00"
-      },
-      "claim": {
-        "worker_id": "78b4c9053c5243bb86ff691f25013dd9-shard-0",
-        "claimed_at": "2026-11-05T03:14:22.742683+00:00",
-        "lease_expires_at": "2026-11-05T09:14:22.742683+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30801981",
       "prepared": {
@@ -101612,5 +101614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T03:16:08.628894+00:00"
+  "updated_at": "2026-11-05T03:26:18.236105+00:00"
 }
