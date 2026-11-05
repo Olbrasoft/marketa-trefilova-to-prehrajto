@@ -64448,17 +64448,19 @@
       }
     },
     "21762": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25613860",
+          "target_video_id": "30822744",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:15:14.767299+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25613860",
         "display_name": "Mirage (1965) 1080p CZ Dabing",
         "planned_at": "2026-11-05T16:06:22.682516+00:00"
-      },
-      "claim": {
-        "worker_id": "583e0e18ad794babbf55dada45d25feb-shard-0",
-        "claimed_at": "2026-11-05T16:06:23.055755+00:00",
-        "lease_expires_at": "2026-11-05T22:06:23.055755+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30822744",
       "prepared": {
@@ -108502,5 +108504,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:13:05.206877+00:00"
+  "updated_at": "2026-11-05T16:15:14.767319+00:00"
 }
