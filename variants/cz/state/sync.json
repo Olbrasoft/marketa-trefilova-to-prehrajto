@@ -65046,17 +65046,19 @@
       }
     },
     "25041": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30667650",
+          "target_video_id": "30826220",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:57:58.661063+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30667650",
         "display_name": "The Cat Returns SD CZ Dabing",
         "planned_at": "2026-11-05T17:55:01.269397+00:00"
-      },
-      "claim": {
-        "worker_id": "5740e795f9334984bd2652a908f87e55-shard-0",
-        "claimed_at": "2026-11-05T17:55:01.436714+00:00",
-        "lease_expires_at": "2026-11-05T23:55:01.436714+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30826220",
       "prepared": {
@@ -109440,5 +109442,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:55:59.298508+00:00"
+  "updated_at": "2026-11-05T17:57:58.661079+00:00"
 }
