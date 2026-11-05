@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T07:08:13.882892+00:00
+Poslední aktualizace (UTC): 2026-11-05T07:09:00.915590+00:00
 
 Zkontrolováno videí: 400. Další stránka kontroly: 0.
 
@@ -93,7 +93,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvod
 | [The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky](https://prehraj.to/the-boy-and-the-heron-1080p-cz-titulky-mkv/e536f7106b7626d5) (ID 30802431) | [Sdílej 29249237](https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T04:44:48.473131+00:00 |
 | [The Death of Stalin 1080p CZ Titulky](https://prehraj.to/the-death-of-stalin-1080p-cz-titulky-mkv/626e49cb71c82ba8) (ID 30805972) | [Sdílej 18414247](https://sdilej.cz/18414247/the.death.of.stalin.2017.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-05T05:55:20.085883+00:00 |
 | [The Edge of Seventeen 1080p CZ Titulky](https://prehraj.to/the-edge-of-seventeen-1080p-cz-titulky-mkv/5482301ed4f173e4) (ID 30803408) | [Sdílej 23009992](https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv) | target_unavailable | 2026-11-05T05:14:58.081356+00:00 |
-| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T04:15:08.914490+00:00 |
+| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T07:09:00.915528+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T04:16:00.686469+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-05T04:15:44.291931+00:00 |
 | [The Way Back (2010) 1080p CZ Titulky](https://prehraj.to/the-way-back-2010-1080p-cz-titulky-mp4/5f0527c98763d5c2) (ID 30807154) | [Sdílej 35287106](https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4) | target_unavailable | 2026-11-05T06:45:53.735049+00:00 |
