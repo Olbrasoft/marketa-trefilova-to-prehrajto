@@ -59709,17 +59709,19 @@
       }
     },
     "23496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29345463",
+          "target_video_id": "30798672",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:08:42.929094+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29345463",
         "display_name": "Faust 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:01:03.239316+00:00"
-      },
-      "claim": {
-        "worker_id": "b1a4888e14684367b5e5f2982bac2a56-shard-0",
-        "claimed_at": "2026-11-05T01:01:03.487049+00:00",
-        "lease_expires_at": "2026-11-05T07:01:03.487049+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30798672",
       "prepared": {
@@ -100755,5 +100757,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:08:33.754747+00:00"
+  "updated_at": "2026-11-05T01:08:42.929116+00:00"
 }
