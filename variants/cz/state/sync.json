@@ -63773,11 +63773,19 @@
       }
     },
     "33013": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "18495695",
+          "reason": "Request failed for https://sdilej.cz/18495695/flags-of-our-fathers-2006.cz.1080p.brrip-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:49:07.623129+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18495695",
         "display_name": "Flags of Our Fathers 1080p CZ Dabing",
-        "planned_at": "2026-11-05T13:48:18.414554+00:00"
+        "planned_at": "2026-11-05T13:48:21.451071+00:00"
       }
     },
     "1884": {
@@ -107352,5 +107360,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:48:19.530447+00:00"
+  "updated_at": "2026-11-05T13:49:07.623148+00:00"
 }
