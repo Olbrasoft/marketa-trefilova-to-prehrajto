@@ -63413,17 +63413,19 @@
       }
     },
     "24593": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26238949",
+          "target_video_id": "30818631",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:19:47.176351+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26238949",
         "display_name": "John Q 1080p CZ Dabing",
         "planned_at": "2026-11-05T13:15:03.901836+00:00"
-      },
-      "claim": {
-        "worker_id": "3e123ffc1b9345e692293c04754bf42b-shard-0",
-        "claimed_at": "2026-11-05T13:15:06.878377+00:00",
-        "lease_expires_at": "2026-11-05T19:15:06.878377+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30818631",
       "prepared": {
@@ -106763,5 +106765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:15:10.787147+00:00"
+  "updated_at": "2026-11-05T13:19:47.176368+00:00"
 }
