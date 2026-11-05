@@ -40962,13 +40962,6 @@
           "source_id": "34826023",
           "target_video_id": "30751591",
           "permanent": false,
-          "attempted_at": "2026-11-05T17:14:11.958089+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34826023",
-          "target_video_id": "30751591",
-          "permanent": false,
           "attempted_at": "2026-11-05T17:47:58.190817+00:00"
         },
         {
@@ -40977,12 +40970,19 @@
           "target_video_id": "30751591",
           "permanent": false,
           "attempted_at": "2026-11-05T18:19:26.141034+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34826023",
+          "target_video_id": "30751591",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:49:39.859879+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-05T18:19:23.720702+00:00"
+        "planned_at": "2026-11-05T18:49:37.912154+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -65405,7 +65405,13 @@
       "last_plan": {
         "source_id": "20973465",
         "display_name": "Lords of Dogtown 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:49:34.158851+00:00"
+        "planned_at": "2026-11-05T18:49:38.154727+00:00"
+      },
+      "claim": {
+        "worker_id": "057886a0878047de8c2a187f21463eb1-shard-0",
+        "claimed_at": "2026-11-05T18:49:38.767673+00:00",
+        "lease_expires_at": "2026-11-06T00:49:38.767673+00:00",
+        "run_id": "42054291199"
       }
     },
     "23020": {
@@ -65413,7 +65419,7 @@
       "last_plan": {
         "source_id": "33652005",
         "display_name": "The Adventures of Baron Munchausen 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:47:04.687137+00:00"
+        "planned_at": "2026-11-05T18:49:38.220690+00:00"
       }
     },
     "20671": {
@@ -109994,5 +110000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:49:35.810327+00:00"
+  "updated_at": "2026-11-05T18:49:39.859902+00:00"
 }
