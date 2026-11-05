@@ -62301,17 +62301,19 @@
       }
     },
     "2029": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11493247",
+          "target_video_id": "30814882",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:23:21.636544+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11493247",
         "display_name": "Everest 4K CZ Dabing",
         "planned_at": "2026-11-05T10:47:30.909311+00:00"
-      },
-      "claim": {
-        "worker_id": "ccb8a43e06784257ba228ef103ad46bb-shard-0",
-        "claimed_at": "2026-11-05T10:47:31.163875+00:00",
-        "lease_expires_at": "2026-11-05T16:47:31.163875+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30814882",
       "prepared": {
@@ -105407,5 +105409,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T11:15:30.110446+00:00"
+  "updated_at": "2026-11-05T11:23:21.636560+00:00"
 }
