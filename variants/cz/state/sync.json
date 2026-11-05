@@ -35936,7 +35936,7 @@
       "last_plan": {
         "source_id": "11952213",
         "display_name": "Blow Out 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:18:28.248788+00:00"
+        "planned_at": "2026-11-05T18:49:00.894730+00:00"
       },
       "previous_target_id": "30742444",
       "prepared": {
@@ -35944,6 +35944,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T21:13:53.287139+00:00",
         "relay_source_id": "11952213"
+      },
+      "claim": {
+        "worker_id": "ddab6705eb3f4f328be535d3b53d2114-shard-0",
+        "claimed_at": "2026-11-05T18:49:01.221693+00:00",
+        "lease_expires_at": "2026-11-06T00:49:01.221693+00:00",
+        "run_id": "42054291199"
       }
     },
     "10749": {
@@ -55551,13 +55557,6 @@
           "source_id": "32042477",
           "target_video_id": "30784526",
           "permanent": false,
-          "attempted_at": "2026-11-05T17:13:32.036835+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32042477",
-          "target_video_id": "30784526",
-          "permanent": false,
           "attempted_at": "2026-11-05T17:47:00.302957+00:00"
         },
         {
@@ -55566,6 +55565,13 @@
           "target_video_id": "30784526",
           "permanent": false,
           "attempted_at": "2026-11-05T18:18:25.247295+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32042477",
+          "target_video_id": "30784526",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:49:01.332684+00:00"
         }
       ],
       "last_plan": {
@@ -55579,12 +55585,6 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
-      },
-      "claim": {
-        "worker_id": "c5c61d0f6a1c47f9867abf27a5d5e56f-shard-0",
-        "claimed_at": "2026-11-05T18:48:59.146769+00:00",
-        "lease_expires_at": "2026-11-06T00:48:59.146769+00:00",
-        "run_id": "42054291199"
       }
     },
     "24818": {
@@ -65411,7 +65411,7 @@
       "last_plan": {
         "source_id": "20973465",
         "display_name": "Lords of Dogtown 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:48:58.954917+00:00"
+        "planned_at": "2026-11-05T18:49:01.040067+00:00"
       }
     },
     "23020": {
@@ -110000,5 +110000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:48:59.263104+00:00"
+  "updated_at": "2026-11-05T18:49:01.332703+00:00"
 }
