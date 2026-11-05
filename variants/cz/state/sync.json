@@ -61685,17 +61685,19 @@
       }
     },
     "2126": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31788855",
+          "target_video_id": "30809651",
+          "permanent": false,
+          "attempted_at": "2026-11-05T08:17:05.414050+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31788855",
         "display_name": "Blade 4K CZ Dabing",
         "planned_at": "2026-11-05T08:04:56.327644+00:00"
-      },
-      "claim": {
-        "worker_id": "406f6aa92c2c4ff7aaeea1146e3f04fa-shard-0",
-        "claimed_at": "2026-11-05T08:04:56.616964+00:00",
-        "lease_expires_at": "2026-11-05T14:04:56.616964+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30809651",
       "prepared": {
@@ -104090,5 +104092,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T08:16:25.596482+00:00"
+  "updated_at": "2026-11-05T08:17:05.414066+00:00"
 }
