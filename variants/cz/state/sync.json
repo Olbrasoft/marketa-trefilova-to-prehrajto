@@ -61057,17 +61057,19 @@
       }
     },
     "2085": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32473038",
+          "target_video_id": "30805257",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:49:01.367725+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32473038",
         "display_name": "The Mummy (1999) 4K CZ Dabing",
         "planned_at": "2026-11-05T05:24:41.391476+00:00"
-      },
-      "claim": {
-        "worker_id": "1fa7f8273cc4420c8c3dfcba2686899f-shard-0",
-        "claimed_at": "2026-11-05T05:24:41.660329+00:00",
-        "lease_expires_at": "2026-11-05T11:24:41.660329+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30805257",
       "prepared": {
@@ -102951,5 +102953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T05:41:45.195817+00:00"
+  "updated_at": "2026-11-05T05:49:01.367742+00:00"
 }
