@@ -21396,17 +21396,19 @@
       "attempts": []
     },
     "1373": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11808687",
+          "target_video_id": "30816296",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:41:56.850479+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11808687",
         "display_name": "Detroit SD CZ Titulky",
         "planned_at": "2026-11-05T11:35:45.646383+00:00"
-      },
-      "claim": {
-        "worker_id": "516b3c9911da4c33b419d10d4f70cb93-shard-0",
-        "claimed_at": "2026-11-05T11:35:45.780834+00:00",
-        "lease_expires_at": "2026-11-05T17:35:45.780834+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30816296",
       "prepared": {
@@ -67606,5 +67608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T11:41:31.868196+00:00"
+  "updated_at": "2026-11-05T11:41:56.850495+00:00"
 }
