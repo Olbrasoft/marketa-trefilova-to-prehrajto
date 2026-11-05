@@ -389,7 +389,7 @@ Attach subtitles only after target processing has finished.
 | Le vieux fusil (The Old Gun) 1080p CZ Titulky | 30798810 | https://sdilej.cz/30898170/le-vieux-fusil-1975-1080p.fr.x264.ac3.fr.subfr-cs.mkv | Complete: Czech subtitles verified |
 | Rounders 1080p CZ Titulky | 30799133 | https://sdilej.cz/30530252/hraci-hraji-matt-damon-edward-norton-1998-cz-dab-leg.mkv | Complete: Czech subtitles verified |
 | Good Morning, Vietnam 1080p CZ Titulky | 30799955 | https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
-| Hustle 1080p CZ Titulky | 30799979 | https://sdilej.cz/21710623/hustle-2022-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| Hustle 1080p CZ Titulky | 30799979 | https://sdilej.cz/21710623/hustle-2022-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | That Sugar Film 720p CZ Titulky | 30801243 | https://sdilej.cz/31729972/that.sugar.film.2014.720p.bluray.x264-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Good Time 1080p CZ Titulky | 30801660 | https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv | Extract Czech track from exact source after processing |
 | Paddington 1080p CZ Titulky | 30801722 | https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv | Extract Czech track from exact source after processing |
