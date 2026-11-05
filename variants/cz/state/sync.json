@@ -62554,17 +62554,19 @@
       }
     },
     "25619": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24730190",
+          "target_video_id": "30816630",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:54:20.063228+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24730190",
         "display_name": "Enchanted 1080p CZ Dabing",
         "planned_at": "2026-11-05T11:50:10.410448+00:00"
-      },
-      "claim": {
-        "worker_id": "51c53552f32d4d92a9e2e49585cd7720-shard-0",
-        "claimed_at": "2026-11-05T11:50:10.745373+00:00",
-        "lease_expires_at": "2026-11-05T17:50:10.745373+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30816630",
       "prepared": {
@@ -62579,7 +62581,13 @@
       "last_plan": {
         "source_id": "34705031",
         "display_name": "Chicken Run 1080p CZ Dabing",
-        "planned_at": "2026-11-05T11:54:13.935867+00:00"
+        "planned_at": "2026-11-05T11:54:16.786638+00:00"
+      },
+      "claim": {
+        "worker_id": "378e4661f3e544ec9aba42b19e4d4c11-shard-0",
+        "claimed_at": "2026-11-05T11:54:17.100501+00:00",
+        "lease_expires_at": "2026-11-05T17:54:17.100501+00:00",
+        "run_id": "42018448939"
       }
     },
     "1873": {
@@ -105804,5 +105812,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T11:54:15.042788+00:00"
+  "updated_at": "2026-11-05T11:54:20.063245+00:00"
 }
