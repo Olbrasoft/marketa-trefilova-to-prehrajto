@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-05T02:58:11.938066+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-05T03:31:55.159492+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-05T04:04:19.184993+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:39:05.285469+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "001fb39e9751415ba8cef60fe06cb130-shard-0",
-        "claimed_at": "2026-11-05T04:39:02.371106+00:00",
-        "lease_expires_at": "2026-11-05T10:39:02.371106+00:00",
-        "run_id": "41955134709"
       }
     },
     "108": {
@@ -20413,7 +20407,7 @@
       "last_plan": {
         "source_id": "34617999",
         "display_name": "Good Morning, Vietnam 1080p CZ Titulky",
-        "planned_at": "2026-11-05T04:04:26.566897+00:00"
+        "planned_at": "2026-11-05T04:39:04.921866+00:00"
       },
       "previous_target_id": "30799955",
       "prepared": {
@@ -20421,6 +20415,12 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-05T01:54:19.564487+00:00",
         "relay_source_id": "34617999"
+      },
+      "claim": {
+        "worker_id": "c672c1b44f0a4c09b47721817b1ee2c2-shard-0",
+        "claimed_at": "2026-11-05T04:39:05.141838+00:00",
+        "lease_expires_at": "2026-11-05T10:39:05.141838+00:00",
+        "run_id": "41955134709"
       }
     },
     "31177": {
@@ -65338,5 +65338,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:39:02.597163+00:00"
+  "updated_at": "2026-11-05T04:39:05.285498+00:00"
 }
