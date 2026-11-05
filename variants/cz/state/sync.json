@@ -59922,17 +59922,19 @@
       "attempts": []
     },
     "31390": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28513233",
+          "target_video_id": "30799634",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:12:55.655853+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28513233",
         "display_name": "To End All War: Oppenheimer & the Atomic Bomb 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:42:37.017123+00:00"
-      },
-      "claim": {
-        "worker_id": "bc658370027745a0b7e42ab9f1c5964e-shard-0",
-        "claimed_at": "2026-11-05T01:42:37.263881+00:00",
-        "lease_expires_at": "2026-11-05T07:42:37.263881+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30799634",
       "prepared": {
@@ -101185,5 +101187,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:55:25.912038+00:00"
+  "updated_at": "2026-11-05T02:12:55.655873+00:00"
 }
