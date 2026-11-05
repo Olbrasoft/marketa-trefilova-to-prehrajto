@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T12:15:34.785032+00:00
+Poslední aktualizace (UTC): 2026-11-05T12:15:38.597115+00:00
 
 Zkontrolováno videí: 408. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 323, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 324, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 20, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -87,7 +87,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 9. Důvod
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-05T12:05:58.292411+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-05T12:06:27.695669+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-05T12:06:40.055557+00:00 |
-| [The Ear 1080p CZ Titulky](https://prehraj.to/the-ear-1080p-cz-titulky-mkv/fc09e066385d7f29) (ID 30814728) | [Sdílej 30099165](https://sdilej.cz/30099165/ucha.mkv) | target_unavailable | 2026-11-05T10:50:39.526010+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T12:05:42.504300+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T12:06:36.176680+00:00 |
 | [The Hand of God (È stata la mano di Dio) 1080p CZ Titulky](https://prehraj.to/the-hand-of-god-e-stata-la-mano-di-dio-1080p-cz-titulky-mkv/5fee086b7861023b) (ID 30816443) | [Sdílej 19193453](https://sdilej.cz/19193453/bozi-ruka-e-stata-la-mano-di-dio-1080p-2021-vlozene-cz-titulky-kst.mkv) | target_unavailable | 2026-11-05T11:44:46.013708+00:00 |
