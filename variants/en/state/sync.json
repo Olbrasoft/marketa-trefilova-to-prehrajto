@@ -20831,17 +20831,19 @@
       "attempts": []
     },
     "17969": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35401859",
+          "target_video_id": "30805701",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:49:21.711955+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35401859",
         "display_name": "Pirate Radio 1080p CZ Titulky",
         "planned_at": "2026-11-05T05:41:45.410184+00:00"
-      },
-      "claim": {
-        "worker_id": "2aaef0ba4bb049708ac3a2493142ff0a-shard-0",
-        "claimed_at": "2026-11-05T05:41:45.484321+00:00",
-        "lease_expires_at": "2026-11-05T11:41:45.484321+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30805701",
       "prepared": {
@@ -65718,5 +65720,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T05:49:20.190319+00:00"
+  "updated_at": "2026-11-05T05:49:21.711978+00:00"
 }
