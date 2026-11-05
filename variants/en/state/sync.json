@@ -21499,18 +21499,19 @@
           "reason": "Request failed for https://sdilej.cz/18753727/nowhere.special.2020.1080p.bluray.h264.aac-titulky-cz.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-05T12:24:28.844217+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18753727",
+          "target_video_id": "30818209",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:59:15.805252+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18753727",
         "display_name": "Nowhere Special 1080p CZ Titulky",
         "planned_at": "2026-11-05T12:56:40.468741+00:00"
-      },
-      "claim": {
-        "worker_id": "3b17292914bb45aa90fd69483fd4ac32-shard-0",
-        "claimed_at": "2026-11-05T12:56:40.556908+00:00",
-        "lease_expires_at": "2026-11-05T18:56:40.556908+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30818209",
       "prepared": {
@@ -67904,5 +67905,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:56:44.299873+00:00"
+  "updated_at": "2026-11-05T12:59:15.805271+00:00"
 }
