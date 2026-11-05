@@ -65147,17 +65147,19 @@
       "attempts": []
     },
     "11218": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33536066",
+          "target_video_id": "30826332",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:14:55.556674+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33536066",
         "display_name": "Dinner for Adele (Adéla ještě nevečeřela) 4K CZ Dabing",
         "planned_at": "2026-11-05T17:58:21.370526+00:00"
-      },
-      "claim": {
-        "worker_id": "e5c21ea5be264172a9f82c485026a62c-shard-0",
-        "claimed_at": "2026-11-05T17:58:21.527387+00:00",
-        "lease_expires_at": "2026-11-05T23:58:21.527387+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30826332",
       "prepared": {
@@ -109558,5 +109560,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:13:52.589405+00:00"
+  "updated_at": "2026-11-05T18:14:55.556703+00:00"
 }
