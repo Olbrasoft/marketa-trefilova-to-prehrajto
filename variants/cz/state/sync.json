@@ -61402,17 +61402,19 @@
       }
     },
     "2148": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33445029",
+          "reason": "Request failed for https://sdilej.cz/33445029/kruh-2002-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:09:11.436320+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33445029",
         "display_name": "The Ring (2002) 4K CZ Dabing",
         "planned_at": "2026-11-05T07:08:24.733472+00:00"
-      },
-      "claim": {
-        "worker_id": "966eb9bde8764b44a4b9fd511b1e09d2-shard-0",
-        "claimed_at": "2026-11-05T07:08:24.992146+00:00",
-        "lease_expires_at": "2026-11-05T13:08:24.992146+00:00",
-        "run_id": "41981017097"
       }
     },
     "19482": {
@@ -103521,5 +103523,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:08:24.992164+00:00"
+  "updated_at": "2026-11-05T07:09:11.436336+00:00"
 }
