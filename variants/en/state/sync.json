@@ -20375,17 +20375,19 @@
       "attempts": []
     },
     "11687": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34617999",
+          "target_video_id": "30799955",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:26:56.094394+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34617999",
         "display_name": "Good Morning, Vietnam 1080p CZ Titulky",
         "planned_at": "2026-11-05T01:54:15.649899+00:00"
-      },
-      "claim": {
-        "worker_id": "21b365696b454dedba35456f1c17193f-shard-0",
-        "claimed_at": "2026-11-05T01:54:15.769305+00:00",
-        "lease_expires_at": "2026-11-05T07:54:15.769305+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30799955",
       "prepared": {
@@ -64613,5 +64615,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T02:21:43.059782+00:00"
+  "updated_at": "2026-11-05T02:26:56.094415+00:00"
 }
