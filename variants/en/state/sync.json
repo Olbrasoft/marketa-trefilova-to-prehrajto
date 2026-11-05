@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-05T02:21:37.499944+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-05T02:58:11.938066+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-05T03:31:55.159492+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:04:19.184993+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "c9e74b73466c4b888566bf51df96fea1-shard-0",
-        "claimed_at": "2026-11-05T04:04:16.357407+00:00",
-        "lease_expires_at": "2026-11-05T10:04:16.357407+00:00",
-        "run_id": "41955134709"
       }
     },
     "108": {
@@ -20065,7 +20059,7 @@
       "last_plan": {
         "source_id": "12781606",
         "display_name": "Doctor Sleep 1080p CZ Titulky",
-        "planned_at": "2026-11-05T03:31:58.116156+00:00"
+        "planned_at": "2026-11-05T04:04:18.312450+00:00"
       },
       "previous_target_id": "30790059",
       "prepared": {
@@ -20073,6 +20067,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-04T17:00:27.077547+00:00",
         "relay_source_id": "12781606"
+      },
+      "claim": {
+        "worker_id": "d19eb26e043548bbb273d851a9cc0bbe-shard-0",
+        "claimed_at": "2026-11-05T04:04:18.518530+00:00",
+        "lease_expires_at": "2026-11-05T10:04:18.518530+00:00",
+        "run_id": "41955134709"
       }
     },
     "1432": {
@@ -65062,5 +65062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:04:16.357435+00:00"
+  "updated_at": "2026-11-05T04:04:19.185012+00:00"
 }
