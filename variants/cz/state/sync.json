@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-05T16:08:12.268653+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-05T16:41:39.302605+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-05T17:12:29.026610+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:46:17.755418+00:00"
         }
       ],
       "last_plan": {
@@ -63571,7 +63571,7 @@
       "last_plan": {
         "source_id": "26238949",
         "display_name": "John Q 1080p CZ Dabing",
-        "planned_at": "2026-11-05T17:12:32.049911+00:00"
+        "planned_at": "2026-11-05T17:46:16.089991+00:00"
       },
       "previous_target_id": "30818631",
       "prepared": {
@@ -63579,6 +63579,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-05T13:15:10.787130+00:00",
         "relay_source_id": "26238949"
+      },
+      "claim": {
+        "worker_id": "14e58952e17b48ae91eb626951fe3443-shard-0",
+        "claimed_at": "2026-11-05T17:46:16.414129+00:00",
+        "lease_expires_at": "2026-11-05T23:46:16.414129+00:00",
+        "run_id": "42054291199"
       }
     },
     "19557": {
@@ -64957,7 +64963,7 @@
       "last_plan": {
         "source_id": "30755680",
         "display_name": "The Apprentice 1080p CZ Dabing",
-        "planned_at": "2026-11-05T17:46:14.412688+00:00"
+        "planned_at": "2026-11-05T17:46:16.217630+00:00"
       }
     },
     "25116": {
@@ -109331,5 +109337,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:46:14.412709+00:00"
+  "updated_at": "2026-11-05T17:46:17.755439+00:00"
 }
