@@ -62260,17 +62260,19 @@
       "attempts": []
     },
     "2092": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34355399",
+          "reason": "Request failed for https://sdilej.cz/34355399/croodsovi-1-2013-4k-h265-cz-sk.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T10:41:46.805584+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355399",
         "display_name": "The Croods 4K CZ Dabing",
         "planned_at": "2026-11-05T10:41:00.220890+00:00"
-      },
-      "claim": {
-        "worker_id": "749ba7f57f074170b36f7e8082542785-shard-0",
-        "claimed_at": "2026-11-05T10:41:00.490533+00:00",
-        "lease_expires_at": "2026-11-05T16:41:00.490533+00:00",
-        "run_id": "41981017097"
       }
     },
     "2015": {
@@ -105294,5 +105296,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T10:41:00.490551+00:00"
+  "updated_at": "2026-11-05T10:41:46.805602+00:00"
 }
