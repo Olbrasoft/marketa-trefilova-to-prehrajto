@@ -251,7 +251,7 @@
       "last_plan": {
         "source_id": "26227362",
         "display_name": "The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky",
-        "planned_at": "2026-11-05T09:06:09.195410+00:00"
+        "planned_at": "2026-11-05T09:40:07.853982+00:00"
       },
       "previous_target_id": "30582771",
       "prepared": {
@@ -259,6 +259,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
+      },
+      "claim": {
+        "worker_id": "b294215d01e1425dbb6f736d1c90d7b8-shard-0",
+        "claimed_at": "2026-11-05T09:40:08.111526+00:00",
+        "lease_expires_at": "2026-11-05T15:40:08.111526+00:00",
+        "run_id": "41981017097"
       }
     },
     "24": {
@@ -21092,17 +21098,23 @@
           "attempted_at": "2026-11-05T09:06:09.509947+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "20609659",
-        "display_name": "Paterson 1080p CZ Titulky",
-        "planned_at": "2026-11-05T09:40:05.542297+00:00"
-      },
       "previous_target_id": "30811761",
-      "prepared": {
+      "upload": {
         "target_video_id": "30811761",
-        "size_bytes": 4790844922,
-        "prepared_at": "2026-11-05T08:57:24.976040+00:00",
-        "relay_source_id": "20609659"
+        "display_name": "Paterson 1080p CZ Titulky",
+        "source_id": "20609659",
+        "source_url": "https://sdilej.cz/20609659/paterson-2016-1080p-h.264-audio-en-subtitles-cz.mkv",
+        "source_filename": "Paterson (2016)_1080p_H.264_audio EN_subtitles CZ.mkv",
+        "size_bytes": 4800000000,
+        "width": 1916,
+        "height": 1076,
+        "audio_language": "en",
+        "language_probability": 0.9894108176231384,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/paterson-1080p-cz-titulky-mkv/beeaa2e1217df952",
+        "uploaded_at": "2026-11-05T09:40:08.461072+00:00"
       }
     },
     "1386": {
@@ -67017,5 +67029,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:40:05.643559+00:00"
+  "updated_at": "2026-11-05T09:40:08.461084+00:00"
 }
