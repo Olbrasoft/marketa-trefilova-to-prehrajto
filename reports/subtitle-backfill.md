@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T00:31:03.792600+00:00
+Poslední aktualizace (UTC): 2026-11-05T00:31:07.481633+00:00
 
 Zkontrolováno videí: 383. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 303, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 6, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 17, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 303, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 16, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -61,6 +61,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Uri: The Surgical Strike 1080p](https://prehraj.to/uri-the-surgical-strike-avi/6991f89a009a62db) (ID 30612576) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:59:45.329632+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T20:33:28.844834+00:00 |
 | [Vertigo (1958) 720p](https://prehraj.to/vertigo-mkv/6d7a10962df621d4) (ID 30610902) | [Sdílej 14187973](https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T04:31:42.769289+00:00 |
+| [Wicked 4K CZ Titulky](https://prehraj.to/wicked-4k-cz-titulky-mkv/3d47570d0ba0bcbd) (ID 30788407) | [Sdílej 32839401](https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-05T00:31:07.481257+00:00 |
 | [Yojimbo (用心棒) 1080p](https://prehraj.to/yojimbo-mkv/55395580edc6d422) (ID 30612474) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-29T15:58:42.056953+00:00 |
 
 ## Dočasné chyby a čekání na potvrzení
@@ -88,7 +89,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T00:30:13.936257+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-05T00:29:56.483205+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-05T00:30:52.798167+00:00 |
-| [Wicked 4K CZ Titulky](https://prehraj.to/wicked-4k-cz-titulky-mkv/3d47570d0ba0bcbd) (ID 30788407) | [Sdílej 32839401](https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv) | target_unavailable | 2026-11-04T23:30:55.831425+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-04T23:50:02.740890+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
