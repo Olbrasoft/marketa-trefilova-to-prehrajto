@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "4bc8fcb2040e46ffa55a08c048bd2042-shard-0",
+        "claimed_at": "2026-11-05T07:00:55.132887+00:00",
+        "lease_expires_at": "2026-11-05T13:00:55.132887+00:00",
+        "run_id": "41981017097"
       }
     },
     "37290": {
@@ -50321,13 +50327,6 @@
           "source_id": "32819081",
           "target_video_id": "30776530",
           "permanent": false,
-          "attempted_at": "2026-11-05T05:19:21.217124+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32819081",
-          "target_video_id": "30776530",
-          "permanent": false,
           "attempted_at": "2026-11-05T05:50:30.823275+00:00"
         },
         {
@@ -50336,12 +50335,19 @@
           "target_video_id": "30776530",
           "permanent": false,
           "attempted_at": "2026-11-05T06:22:12.262976+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32819081",
+          "target_video_id": "30776530",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:00:57.173511+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32819081",
         "display_name": "Die Hard 2 4K CZ Dabing",
-        "planned_at": "2026-11-05T06:22:10.605791+00:00"
+        "planned_at": "2026-11-05T07:00:55.253664+00:00"
       },
       "previous_target_id": "30776530",
       "prepared": {
@@ -61322,7 +61328,7 @@
       "last_plan": {
         "source_id": "34854442",
         "display_name": "Jumanji 4K CZ Dabing",
-        "planned_at": "2026-11-05T07:00:53.600743+00:00"
+        "planned_at": "2026-11-05T07:00:55.433487+00:00"
       }
     },
     "23968": {
@@ -103445,5 +103451,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:00:53.600754+00:00"
+  "updated_at": "2026-11-05T07:00:57.173524+00:00"
 }
