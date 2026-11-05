@@ -63550,11 +63550,19 @@
       }
     },
     "17962": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "9826328",
+          "reason": "Request failed for https://sdilej.cz/9826328/john-rabe-ctihodny-obcan-treti-rise-2009-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:28:39.782996+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9826328",
         "display_name": "John Rabe SD CZ Dabing",
-        "planned_at": "2026-11-05T13:27:50.362760+00:00"
+        "planned_at": "2026-11-05T13:27:53.230769+00:00"
       }
     },
     "21051": {
@@ -107151,5 +107159,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:27:51.451604+00:00"
+  "updated_at": "2026-11-05T13:28:39.783016+00:00"
 }
