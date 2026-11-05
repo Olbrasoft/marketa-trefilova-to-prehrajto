@@ -59424,17 +59424,19 @@
       }
     },
     "17131": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13153939",
+          "target_video_id": "30797422",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:59:39.762897+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13153939",
         "display_name": "The Conductor (De Dirigent) 1080p CZ Dabing",
         "planned_at": "2026-11-04T23:57:14.789112+00:00"
-      },
-      "claim": {
-        "worker_id": "63bf22ecf0444baf92da3304683167e7-shard-0",
-        "claimed_at": "2026-11-04T23:57:15.021474+00:00",
-        "lease_expires_at": "2026-11-05T05:57:15.021474+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797422",
       "prepared": {
@@ -100670,5 +100672,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:58:06.546191+00:00"
+  "updated_at": "2026-11-05T00:59:39.762918+00:00"
 }
