@@ -417,3 +417,4 @@ Attach subtitles only after target processing has finished.
 | 24 Hour Party People 720p CZ Titulky | 30821368 | https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv | Extract Czech track from exact source after processing |
 | The Sea Wolf 1080p CZ Titulky | 30820306 | https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
 | A Street Cat Named Bob 1080p CZ Titulky | 30822365 | https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv | Extract Czech track from exact source after processing |
+| 12th Man (Den 12. mann) (2017) 1080p CZ Titulky | 30822494 | https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
