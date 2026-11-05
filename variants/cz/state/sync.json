@@ -60698,17 +60698,19 @@
       "attempts": []
     },
     "10894": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25110317",
+          "reason": "Request failed for https://sdilej.cz/25110317/volani-divociny-1966-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:26:50.485020+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25110317",
         "display_name": "Born Free 1080p CZ Dabing",
         "planned_at": "2026-11-05T04:26:04.360803+00:00"
-      },
-      "claim": {
-        "worker_id": "3a75a9a40414496089cb46a7e759ee48-shard-0",
-        "claimed_at": "2026-11-05T04:26:04.619158+00:00",
-        "lease_expires_at": "2026-11-05T10:26:04.619158+00:00",
-        "run_id": "41955134709"
       }
     },
     "36793": {
@@ -102343,5 +102345,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:26:06.885618+00:00"
+  "updated_at": "2026-11-05T04:26:50.485040+00:00"
 }
