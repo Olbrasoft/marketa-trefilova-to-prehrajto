@@ -64384,17 +64384,19 @@
       "attempts": []
     },
     "2419": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32969570",
+          "target_video_id": "30822366",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:04:43.672290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32969570",
         "display_name": "The Longest Ride 4K CZ Dabing",
         "planned_at": "2026-11-05T15:48:04.342699+00:00"
-      },
-      "claim": {
-        "worker_id": "6f28ea2a70b1450f8ff73b82c1790abb-shard-0",
-        "claimed_at": "2026-11-05T15:48:04.814307+00:00",
-        "lease_expires_at": "2026-11-05T21:48:04.814307+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30822366",
       "prepared": {
@@ -108407,5 +108409,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:04:37.379894+00:00"
+  "updated_at": "2026-11-05T16:04:43.672309+00:00"
 }
