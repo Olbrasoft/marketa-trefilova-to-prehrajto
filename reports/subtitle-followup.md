@@ -392,3 +392,4 @@ Attach subtitles only after target processing has finished.
 | Hustle 1080p CZ Titulky | 30799979 | https://sdilej.cz/21710623/hustle-2022-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | That Sugar Film 720p CZ Titulky | 30801243 | https://sdilej.cz/31729972/that.sugar.film.2014.720p.bluray.x264-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Good Time 1080p CZ Titulky | 30801660 | https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv | Extract Czech track from exact source after processing |
+| Paddington 1080p CZ Titulky | 30801722 | https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv | Extract Czech track from exact source after processing |
