@@ -414,4 +414,5 @@ Attach subtitles only after target processing has finished.
 | Deconstructing Harry SD CZ Titulky | 30817729 | https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv | Complete: Czech subtitles verified |
 | Loveable (Elskling) 1080p CZ Titulky | 30819315 | https://sdilej.cz/35402811/loveable.2024.norwegian.nordic.1080p.web-dl.dd5.1.10bit.x265-gaut.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Nightingale 1080p CZ Titulky | 30820099 | https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv | Extract Czech track from exact source after processing |
+| 24 Hour Party People 720p CZ Titulky | 30821368 | https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv | Extract Czech track from exact source after processing |
 | The Sea Wolf 1080p CZ Titulky | 30820306 | https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
