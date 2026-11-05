@@ -65143,7 +65143,7 @@
       "last_plan": {
         "source_id": "27115841",
         "display_name": "Missing 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:46:44.416996+00:00"
+        "planned_at": "2026-11-05T18:46:48.073179+00:00"
       },
       "previous_target_id": "30826251",
       "prepared": {
@@ -65354,17 +65354,19 @@
       }
     },
     "23353": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32365195",
+          "target_video_id": "30827426",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:46:59.538059+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32365195",
         "display_name": "Benny & Joon 1080p CZ Dabing",
         "planned_at": "2026-11-05T18:41:00.310273+00:00"
-      },
-      "claim": {
-        "worker_id": "253f5d13c36a410c934f6977646d35a0-shard-0",
-        "claimed_at": "2026-11-05T18:41:00.502724+00:00",
-        "lease_expires_at": "2026-11-06T00:41:00.502724+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30827426",
       "prepared": {
@@ -65385,7 +65387,7 @@
       "last_plan": {
         "source_id": "20973465",
         "display_name": "Lords of Dogtown 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:46:44.557071+00:00"
+        "planned_at": "2026-11-05T18:46:48.219192+00:00"
       }
     },
     "23020": {
@@ -109969,5 +109971,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:46:44.557092+00:00"
+  "updated_at": "2026-11-05T18:46:59.538080+00:00"
 }
