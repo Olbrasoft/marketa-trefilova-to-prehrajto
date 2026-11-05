@@ -251,7 +251,7 @@
       "last_plan": {
         "source_id": "26227362",
         "display_name": "The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky",
-        "planned_at": "2026-11-05T15:29:37.117573+00:00"
+        "planned_at": "2026-11-05T16:05:41.183497+00:00"
       },
       "previous_target_id": "30582771",
       "prepared": {
@@ -259,6 +259,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
+      },
+      "claim": {
+        "worker_id": "ed4a134ac8a04ab0bb9cf67d039179c0-shard-0",
+        "claimed_at": "2026-11-05T16:05:41.377012+00:00",
+        "lease_expires_at": "2026-11-05T22:05:41.377012+00:00",
+        "run_id": "42054291199"
       }
     },
     "24": {
@@ -2007,13 +2013,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-05T14:19:39.381890+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-05T14:56:04.579230+00:00"
         },
         {
@@ -2022,6 +2021,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-05T15:29:35.177552+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:05:41.335011+00:00"
         }
       ],
       "last_plan": {
@@ -2035,12 +2041,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
-      },
-      "claim": {
-        "worker_id": "229a2c5750714b98b3022b42d5bd2dfe-shard-0",
-        "claimed_at": "2026-11-05T16:05:38.902490+00:00",
-        "lease_expires_at": "2026-11-05T22:05:38.902490+00:00",
-        "run_id": "42054291199"
       }
     },
     "107": {
@@ -68894,5 +68894,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:05:38.902522+00:00"
+  "updated_at": "2026-11-05T16:05:41.377039+00:00"
 }
