@@ -398,7 +398,7 @@ Attach subtitles only after target processing has finished.
 | The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky | 30802431 | https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Okja 1080p CZ Titulky | 30802868 | https://sdilej.cz/34917918/okja-2017-.mkv | Complete: Czech subtitles verified |
 | The Way Back (2010) 1080p CZ Titulky | 30807154 | https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4 | Extract Czech track from exact source after processing |
-| The Death of Stalin 1080p CZ Titulky | 30805972 | https://sdilej.cz/18414247/the.death.of.stalin.2017.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
+| The Death of Stalin 1080p CZ Titulky | 30805972 | https://sdilej.cz/18414247/the.death.of.stalin.2017.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Clue 1080p CZ Titulky | 30804709 | https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Pirate Radio 1080p CZ Titulky | 30805701 | https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Extract Czech track from exact source after processing |
 | Nuremberg 1080p CZ Titulky | 30807046 | https://sdilej.cz/35402835/nuremberg.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-.en.cz.tit.mkv | Extract Czech track from exact source after processing |
