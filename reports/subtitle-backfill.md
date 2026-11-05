@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T03:44:07.477851+00:00
+Poslední aktualizace (UTC): 2026-11-05T03:44:10.996762+00:00
 
 Zkontrolováno videí: 393. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 307, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 22, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 308, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -88,7 +88,6 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-05T03:04:37.282679+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-05T03:05:03.443291+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-05T03:05:15.065072+00:00 |
-| [That Sugar Film 720p CZ Titulky](https://prehraj.to/that-sugar-film-720p-cz-titulky-mkv/96f57f8d8f9838d9) (ID 30801243) | [Sdílej 31729972](https://sdilej.cz/31729972/that.sugar.film.2014.720p.bluray.x264-cz.tit.mkv) | target_unavailable | 2026-11-05T02:43:21.498973+00:00 |
 | [The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky](https://prehraj.to/the-boy-and-the-heron-1080p-cz-titulky-mkv/e536f7106b7626d5) (ID 30802431) | [Sdílej 29249237](https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T03:44:07.477766+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T03:04:21.407282+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T03:05:11.599045+00:00 |
