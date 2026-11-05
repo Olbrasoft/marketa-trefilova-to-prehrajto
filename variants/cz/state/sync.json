@@ -64874,17 +64874,19 @@
       }
     },
     "13681": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13243962",
+          "target_video_id": "30825296",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:44:42.629920+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13243962",
         "display_name": "In the Valley of Elah 1080p CZ Dabing",
         "planned_at": "2026-11-05T17:30:19.936118+00:00"
-      },
-      "claim": {
-        "worker_id": "605c25893de249d49dcfb7531ce3c5db-shard-0",
-        "claimed_at": "2026-11-05T17:30:20.097080+00:00",
-        "lease_expires_at": "2026-11-05T23:30:20.097080+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30825296",
       "prepared": {
@@ -109317,5 +109319,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:44:36.956829+00:00"
+  "updated_at": "2026-11-05T17:44:42.629963+00:00"
 }
