@@ -63231,17 +63231,19 @@
       }
     },
     "2119": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35077038",
+          "target_video_id": "30818325",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:02:00.193555+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35077038",
         "display_name": "The Time Traveler's Wife 1080p CZ Dabing",
         "planned_at": "2026-11-05T13:00:16.410148+00:00"
-      },
-      "claim": {
-        "worker_id": "68f19aa141ec469fa9c8ec4a84c99e3d-shard-0",
-        "claimed_at": "2026-11-05T13:00:16.730943+00:00",
-        "lease_expires_at": "2026-11-05T19:00:16.730943+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30818325",
       "prepared": {
@@ -106638,5 +106640,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:01:55.651346+00:00"
+  "updated_at": "2026-11-05T13:02:00.193573+00:00"
 }
