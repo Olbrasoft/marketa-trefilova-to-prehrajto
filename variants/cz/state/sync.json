@@ -64154,6 +64154,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-05T14:15:35.875478+00:00",
         "relay_source_id": "11088676"
+      },
+      "claim": {
+        "worker_id": "da3d1dc6427344fdb2f9a4a0196362d1-shard-0",
+        "claimed_at": "2026-11-05T20:16:05.314361+00:00",
+        "lease_expires_at": "2026-11-06T02:16:05.314361+00:00",
+        "run_id": "42093150935"
       }
     },
     "1582": {
@@ -65555,17 +65561,23 @@
           "attempted_at": "2026-11-05T19:31:39.656352+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29013241",
-        "display_name": "Parenthood 720p CZ Dabing",
-        "planned_at": "2026-11-05T19:10:32.462064+00:00"
-      },
       "previous_target_id": "30828289",
-      "prepared": {
+      "upload": {
         "target_video_id": "30828289",
-        "size_bytes": 4523681948,
-        "prepared_at": "2026-11-05T19:10:36.257782+00:00",
-        "relay_source_id": "29013241"
+        "display_name": "Parenthood 720p CZ Dabing",
+        "source_id": "29013241",
+        "source_url": "https://sdilej.cz/29013241/rodicovstvi-1989-.mkv",
+        "source_filename": "Rodičovství-(1989).mkv",
+        "size_bytes": 4500000000,
+        "width": 1280,
+        "height": 720,
+        "audio_language": "cs",
+        "language_probability": 0.9804596900939941,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/parenthood-720p-cz-dabing-mkv/cb9694ffdc628115",
+        "uploaded_at": "2026-11-05T20:16:06.823258+00:00"
       }
     },
     "1986": {
@@ -65619,7 +65631,7 @@
       "last_plan": {
         "source_id": "15012488",
         "display_name": "Far from the Madding Crowd 720p CZ Dabing",
-        "planned_at": "2026-11-05T20:16:03.658118+00:00"
+        "planned_at": "2026-11-05T20:16:05.642266+00:00"
       }
     },
     "11135": {
@@ -110426,5 +110438,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:16:03.658139+00:00"
+  "updated_at": "2026-11-05T20:16:06.823279+00:00"
 }
