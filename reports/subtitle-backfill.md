@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T12:07:18.306801+00:00
+Poslední aktualizace (UTC): 2026-11-05T12:07:23.270750+00:00
 
 Zkontrolováno videí: 408. Další stránka kontroly: 0.
 
@@ -74,7 +74,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 29. Důvod
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T10:40:38.985105+00:00 |
 | [Clue 1080p CZ Titulky](https://prehraj.to/clue-1080p-cz-titulky-mkv/000da5597d6d2a44) (ID 30804709) | [Sdílej 33563795](https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-05T10:40:49.468728+00:00 |
 | [Decision to Leave (Heojil kyolshim) 4K CZ Titulky](https://prehraj.to/decision-to-leave-heojil-kyolshim-4k-cz-titulky-mkv/6b360a8a4142f441) (ID 30814513) | [Sdílej 33925676](https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv) | target_unavailable | 2026-11-05T10:40:22.857795+00:00 |
-| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T10:32:30.789495+00:00 |
+| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T12:07:21.804414+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T12:06:01.772829+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T12:06:55.956909+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-05T12:07:11.983181+00:00 |
