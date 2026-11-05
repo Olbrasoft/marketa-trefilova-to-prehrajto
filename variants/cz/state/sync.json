@@ -59440,17 +59440,19 @@
       "attempts": []
     },
     "37389": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34526343",
+          "target_video_id": "30797687",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:19:44.113742+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34526343",
         "display_name": "Maternal Instinct (2026) 1080p CZ Dabing",
         "planned_at": "2026-11-05T00:12:36.107619+00:00"
-      },
-      "claim": {
-        "worker_id": "5ac5cb0f4f8b4c8288e6fa1c06cb03d8-shard-0",
-        "claimed_at": "2026-11-05T00:12:36.342895+00:00",
-        "lease_expires_at": "2026-11-05T06:12:36.342895+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797687",
       "prepared": {
@@ -100219,5 +100221,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:12:41.139788+00:00"
+  "updated_at": "2026-11-05T00:19:44.113763+00:00"
 }
