@@ -406,3 +406,4 @@ Attach subtitles only after target processing has finished.
 | Paterson 1080p CZ Titulky | 30811761 | https://sdilej.cz/20609659/paterson-2016-1080p-h.264-audio-en-subtitles-cz.mkv | Complete: Czech subtitles verified |
 | Prince of the City 1080p CZ Titulky | 30809179 | https://sdilej.cz/20090323/prince-of-the-city-1981-1080p.-x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Decision to Leave (Heojil kyolshim) 4K CZ Titulky | 30814513 | https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Ear 1080p CZ Titulky | 30814728 | https://sdilej.cz/30099165/ucha.mkv | Extract Czech track from exact source after processing |
