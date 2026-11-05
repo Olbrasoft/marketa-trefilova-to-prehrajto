@@ -62322,7 +62322,20 @@
       }
     },
     "2102": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32258736",
+          "reason": "Request failed for https://sdilej.cz/32258736/zakladni-instinkt-1992-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T10:49:11.677410+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32258736",
+        "display_name": "Basic Instinct 4K CZ Dabing",
+        "planned_at": "2026-11-05T10:48:25.360726+00:00"
+      }
     },
     "2130": {
       "attempts": []
@@ -105336,5 +105349,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T10:47:35.142792+00:00"
+  "updated_at": "2026-11-05T10:49:11.677425+00:00"
 }
