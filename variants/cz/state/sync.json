@@ -61976,17 +61976,19 @@
       }
     },
     "1844": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32924528",
+          "target_video_id": "30812395",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:39:14.578195+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32924528",
         "display_name": "Alien: Romulus 4K CZ Dabing",
         "planned_at": "2026-11-05T09:19:53.879191+00:00"
-      },
-      "claim": {
-        "worker_id": "ac3f3cef9f87419a96cf902e4b2523e3-shard-0",
-        "claimed_at": "2026-11-05T09:19:54.133261+00:00",
-        "lease_expires_at": "2026-11-05T15:19:54.133261+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30812395",
       "prepared": {
@@ -104855,5 +104857,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:19:57.910414+00:00"
+  "updated_at": "2026-11-05T09:39:14.578211+00:00"
 }
