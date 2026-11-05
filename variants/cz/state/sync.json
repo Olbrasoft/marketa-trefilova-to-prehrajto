@@ -60671,17 +60671,19 @@
       "attempts": []
     },
     "22662": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30529208",
+          "target_video_id": "30803813",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:32:48.150332+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30529208",
         "display_name": "The Prodigal Son SD CZ Dabing",
         "planned_at": "2026-11-05T04:25:59.774234+00:00"
-      },
-      "claim": {
-        "worker_id": "277f23215203439b8b7e96416d451c9d-shard-0",
-        "claimed_at": "2026-11-05T04:26:01.292301+00:00",
-        "lease_expires_at": "2026-11-05T10:26:01.292301+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30803813",
       "prepared": {
@@ -102365,5 +102367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:32:44.648869+00:00"
+  "updated_at": "2026-11-05T04:32:48.150350+00:00"
 }
