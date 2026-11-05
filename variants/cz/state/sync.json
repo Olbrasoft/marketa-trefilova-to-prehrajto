@@ -35916,13 +35916,6 @@
           "source_id": "11952213",
           "target_video_id": "30742444",
           "permanent": false,
-          "attempted_at": "2026-11-05T17:13:34.014528+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11952213",
-          "target_video_id": "30742444",
-          "permanent": false,
           "attempted_at": "2026-11-05T17:47:03.636795+00:00"
         },
         {
@@ -35931,6 +35924,13 @@
           "target_video_id": "30742444",
           "permanent": false,
           "attempted_at": "2026-11-05T18:18:29.480513+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11952213",
+          "target_video_id": "30742444",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:49:03.262381+00:00"
         }
       ],
       "last_plan": {
@@ -35944,12 +35944,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T21:13:53.287139+00:00",
         "relay_source_id": "11952213"
-      },
-      "claim": {
-        "worker_id": "ddab6705eb3f4f328be535d3b53d2114-shard-0",
-        "claimed_at": "2026-11-05T18:49:01.221693+00:00",
-        "lease_expires_at": "2026-11-06T00:49:01.221693+00:00",
-        "run_id": "42054291199"
       }
     },
     "10749": {
@@ -42498,7 +42492,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-05T18:18:30.948692+00:00"
+        "planned_at": "2026-11-05T18:49:02.820901+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42506,6 +42500,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "9ffd8b23726046ad8aed59d5c8875af0-shard-0",
+        "claimed_at": "2026-11-05T18:49:03.147565+00:00",
+        "lease_expires_at": "2026-11-06T00:49:03.147565+00:00",
+        "run_id": "42054291199"
       }
     },
     "1395": {
@@ -65411,7 +65411,7 @@
       "last_plan": {
         "source_id": "20973465",
         "display_name": "Lords of Dogtown 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:49:01.040067+00:00"
+        "planned_at": "2026-11-05T18:49:02.957135+00:00"
       }
     },
     "23020": {
@@ -110000,5 +110000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:49:01.332703+00:00"
+  "updated_at": "2026-11-05T18:49:03.262407+00:00"
 }
