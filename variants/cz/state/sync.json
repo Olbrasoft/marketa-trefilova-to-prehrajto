@@ -8026,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-05T20:45:23.193370+00:00"
+        "planned_at": "2026-11-05T21:28:28.940140+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8034,6 +8034,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "f5cd820dec88443bb90c3cb03d95427a-shard-0",
+        "claimed_at": "2026-11-05T21:28:29.566893+00:00",
+        "lease_expires_at": "2026-11-06T03:28:29.566893+00:00",
+        "run_id": "42093150935"
       }
     },
     "10690": {
@@ -33951,13 +33957,6 @@
           "source_id": "35087204",
           "target_video_id": "30738724",
           "permanent": false,
-          "attempted_at": "2026-11-05T19:20:29.587513+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35087204",
-          "target_video_id": "30738724",
-          "permanent": false,
           "attempted_at": "2026-11-05T20:13:46.295968+00:00"
         },
         {
@@ -33966,6 +33965,13 @@
           "target_video_id": "30738724",
           "permanent": false,
           "attempted_at": "2026-11-05T20:45:21.346212+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35087204",
+          "target_video_id": "30738724",
+          "permanent": false,
+          "attempted_at": "2026-11-05T21:28:29.459951+00:00"
         }
       ],
       "last_plan": {
@@ -33979,12 +33985,6 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-02T18:09:12.961107+00:00",
         "relay_source_id": "35087204"
-      },
-      "claim": {
-        "worker_id": "49fb1a8615ec443fa3e836244540b8bb-shard-0",
-        "claimed_at": "2026-11-05T21:28:27.466176+00:00",
-        "lease_expires_at": "2026-11-06T03:28:27.466176+00:00",
-        "run_id": "42093150935"
       }
     },
     "36749": {
@@ -66015,7 +66015,7 @@
       "last_plan": {
         "source_id": "33940325",
         "display_name": "Sleeper 1080p CZ Dabing",
-        "planned_at": "2026-11-05T21:28:27.038191+00:00"
+        "planned_at": "2026-11-05T21:28:29.147522+00:00"
       }
     },
     "25040": {
@@ -111130,5 +111130,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T21:28:27.466204+00:00"
+  "updated_at": "2026-11-05T21:28:29.566921+00:00"
 }
