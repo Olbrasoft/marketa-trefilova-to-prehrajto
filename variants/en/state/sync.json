@@ -20585,13 +20585,6 @@
     "18305": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "23009992",
-          "reason": "Request failed for https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-11-05T03:36:00.141004+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "23009992",
           "target_video_id": "30803408",
@@ -20604,12 +20597,19 @@
           "target_video_id": "30803408",
           "permanent": false,
           "attempted_at": "2026-11-05T05:02:12.487634+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23009992",
+          "target_video_id": "30803408",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:39:43.299289+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23009992",
         "display_name": "The Edge of Seventeen 1080p CZ Titulky",
-        "planned_at": "2026-11-05T05:02:11.102852+00:00"
+        "planned_at": "2026-11-05T05:39:41.688368+00:00"
       },
       "previous_target_id": "30803408",
       "prepared": {
@@ -20835,7 +20835,7 @@
       "last_plan": {
         "source_id": "35401859",
         "display_name": "Pirate Radio 1080p CZ Titulky",
-        "planned_at": "2026-11-05T05:39:38.066264+00:00"
+        "planned_at": "2026-11-05T05:39:41.836329+00:00"
       }
     },
     "13576": {
@@ -65705,5 +65705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T05:39:39.722236+00:00"
+  "updated_at": "2026-11-05T05:39:43.299309+00:00"
 }
