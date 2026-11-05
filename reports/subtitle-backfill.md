@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T22:44:06.529864+00:00
+Poslední aktualizace (UTC): 2026-11-05T22:44:10.137831+00:00
 
 Zkontrolováno videí: 425. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -79,6 +79,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 35. Důvod
 | [Butterflies (Kelebekler) 1080p CZ Titulky](https://prehraj.to/butterflies-kelebekler-1080p-cz-titulky-mkv/4e9d119255e543b1) (ID 30833864) | [Sdílej 11769265](https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv) | target_unavailable | 2026-11-05T22:03:44.780836+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T14:29:39.428793+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T14:28:27.736005+00:00 |
+| [I Am Heath Ledger SD CZ Titulky](https://prehraj.to/i-am-heath-ledger-sd-cz-titulky-mkv/fdac86fe4f062c00) (ID 30834760) | [Sdílej 7474986](https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv) | target_unavailable | 2026-11-05T22:44:10.137729+00:00 |
 | [Jin-Roh: The Wolf Brigade (人狼 JIN-ROH) SD CZ Titulky](https://prehraj.to/jin-roh-the-wolf-brigade-jin-roh-sd-cz-titulky-mkv/b95329e1ac6de419) (ID 30833915) | [Sdílej 34185179](https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv) | target_unavailable | 2026-11-05T22:13:49.057665+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T14:29:16.984982+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-05T14:29:31.811658+00:00 |
