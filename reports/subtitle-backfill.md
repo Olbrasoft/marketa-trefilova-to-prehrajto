@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T08:30:47.609834+00:00
+Poslední aktualizace (UTC): 2026-11-05T08:30:51.036354+00:00
 
 Zkontrolováno videí: 402. Další stránka kontroly: 0.
 
@@ -82,7 +82,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 29. Důvod
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-05T07:10:24.848660+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-05T07:10:12.842069+00:00 |
 | [Nuremberg 1080p CZ Titulky](https://prehraj.to/nuremberg-1080p-cz-titulky-mkv/2fdeb5bbfc5b38fe) (ID 30807046) | [Sdílej 35402835](https://sdilej.cz/35402835/nuremberg.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-.en.cz.tit.mkv) | target_unavailable | 2026-11-05T07:38:32.066820+00:00 |
-| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T07:10:06.271034+00:00 |
+| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T08:30:51.036274+00:00 |
 | [Paddington 1080p CZ Titulky](https://prehraj.to/paddington-1080p-cz-titulky-mkv/f01f3d5a5f10af2f) (ID 30801722) | [Sdílej 10458404](https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv) | target_unavailable | 2026-11-05T07:18:42.188417+00:00 |
 | [Pirate Radio 1080p CZ Titulky](https://prehraj.to/pirate-radio-1080p-cz-titulky-mkv/eb1b38296aba6f0f) (ID 30805701) | [Sdílej 35401859](https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-05T07:18:53.057236+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T08:30:44.123739+00:00 |
