@@ -62473,17 +62473,19 @@
       }
     },
     "17960": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31308346",
+          "target_video_id": "30816468",
+          "permanent": false,
+          "attempted_at": "2026-11-05T11:45:59.416103+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31308346",
         "display_name": "The Ides of March 1080p CZ Dabing",
         "planned_at": "2026-11-05T11:42:42.479712+00:00"
-      },
-      "claim": {
-        "worker_id": "cad6420e2f9645d7bf23fef0dcdb04ec-shard-0",
-        "claimed_at": "2026-11-05T11:42:42.781116+00:00",
-        "lease_expires_at": "2026-11-05T17:42:42.781116+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30816468",
       "prepared": {
@@ -105732,5 +105734,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T11:42:47.166714+00:00"
+  "updated_at": "2026-11-05T11:45:59.416121+00:00"
 }
