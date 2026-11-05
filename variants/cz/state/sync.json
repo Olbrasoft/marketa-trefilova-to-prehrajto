@@ -61715,17 +61715,19 @@
       }
     },
     "2045": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13727891",
+          "target_video_id": "30810159",
+          "permanent": false,
+          "attempted_at": "2026-11-05T08:19:36.121721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13727891",
         "display_name": "Don't Breathe 1080p CZ Dabing",
         "planned_at": "2026-11-05T08:16:18.688414+00:00"
-      },
-      "claim": {
-        "worker_id": "669746cae1ab485baa027dd3549eac1f-shard-0",
-        "claimed_at": "2026-11-05T08:16:18.952328+00:00",
-        "lease_expires_at": "2026-11-05T14:16:18.952328+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30810159",
       "prepared": {
@@ -61761,7 +61763,7 @@
       "last_plan": {
         "source_id": "33013914",
         "display_name": "Forgetting Sarah Marshall 1080p CZ Dabing",
-        "planned_at": "2026-11-05T08:18:52.670993+00:00"
+        "planned_at": "2026-11-05T08:18:56.564076+00:00"
       }
     },
     "12092": {
@@ -104104,5 +104106,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T08:18:54.701994+00:00"
+  "updated_at": "2026-11-05T08:19:36.121734+00:00"
 }
