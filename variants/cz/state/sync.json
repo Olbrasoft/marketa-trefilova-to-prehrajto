@@ -60615,17 +60615,19 @@
       "attempts": []
     },
     "505": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34190254",
+          "target_video_id": "30803661",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:25:42.182148+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34190254",
         "display_name": "How to Pull Out a Whale's Tooth (Jak vytrhnout velrybě stoličku) 4K CZ Dabing",
         "planned_at": "2026-11-05T04:16:34.629289+00:00"
-      },
-      "claim": {
-        "worker_id": "da7c1b55e2ea4628ab7cbd5249b7478c-shard-0",
-        "claimed_at": "2026-11-05T04:16:34.898221+00:00",
-        "lease_expires_at": "2026-11-05T10:16:34.898221+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30803661",
       "prepared": {
@@ -102299,5 +102301,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:25:37.577489+00:00"
+  "updated_at": "2026-11-05T04:25:42.182166+00:00"
 }
