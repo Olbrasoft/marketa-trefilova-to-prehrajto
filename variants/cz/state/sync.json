@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-05T03:00:05.259765+00:00"
+        "planned_at": "2026-11-05T03:33:52.654769+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "fab74f6c419043378d3bfe2eff00b121-shard-0",
+        "claimed_at": "2026-11-05T03:33:53.131698+00:00",
+        "lease_expires_at": "2026-11-05T09:33:53.131698+00:00",
+        "run_id": "41955134709"
       }
     },
     "29922": {
@@ -60363,17 +60369,19 @@
       "attempts": []
     },
     "32782": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31194511",
+          "target_video_id": "30802057",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:35:11.113898+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31194511",
         "display_name": "The Prize Winner of Defiance, Ohio 1080p CZ Dabing",
         "planned_at": "2026-11-05T03:16:04.217537+00:00"
-      },
-      "claim": {
-        "worker_id": "8386f733aa50410e8ef6d2cd14e54c04-shard-0",
-        "claimed_at": "2026-11-05T03:16:04.475119+00:00",
-        "lease_expires_at": "2026-11-05T09:16:04.475119+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30802057",
       "prepared": {
@@ -60461,7 +60469,7 @@
       "last_plan": {
         "source_id": "35186775",
         "display_name": "Breaking the Limits (Najlepszy) 4K CZ Dabing",
-        "planned_at": "2026-11-05T03:33:49.689889+00:00"
+        "planned_at": "2026-11-05T03:33:52.854167+00:00"
       }
     },
     "32503": {
@@ -101934,5 +101942,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T03:33:51.125388+00:00"
+  "updated_at": "2026-11-05T03:35:11.113914+00:00"
 }
