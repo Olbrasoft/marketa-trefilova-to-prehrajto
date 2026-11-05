@@ -427,3 +427,4 @@ Attach subtitles only after target processing has finished.
 | Butterflies (Kelebekler) 1080p CZ Titulky | 30833864 | https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Jin-Roh: The Wolf Brigade (人狼 JIN-ROH) SD CZ Titulky | 30833915 | https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv | Extract Czech track from exact source after processing |
 | I Am Heath Ledger SD CZ Titulky | 30834760 | https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv | Extract Czech track from exact source after processing |
+| Reprise SD CZ Titulky | 30835226 | https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv | Extract Czech track from exact source after processing |
