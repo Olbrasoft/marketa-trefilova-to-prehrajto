@@ -424,3 +424,4 @@ Attach subtitles only after target processing has finished.
 | Little Boy 1080p CZ Titulky | 30830196 | https://sdilej.cz/16573618/little.boy.2015.1080p.brrip.x264.ac3-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Uncle Frank 1080p CZ Titulky | 30831460 | https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Captain (Der Hauptmann) (2017) 1080p CZ Titulky | 30831408 | https://sdilej.cz/10699415/der-hauptmann-cz-titulky-fullhd-1080p.mkv | Extract Czech track from exact source after processing |
+| Butterflies (Kelebekler) 1080p CZ Titulky | 30833864 | https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv | Extract Czech track from exact source after processing |
