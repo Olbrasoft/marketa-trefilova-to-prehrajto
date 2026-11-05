@@ -409,5 +409,5 @@ Attach subtitles only after target processing has finished.
 | Decision to Leave (Heojil kyolshim) 4K CZ Titulky | 30814513 | https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
 | The Ear 1080p CZ Titulky | 30814728 | https://sdilej.cz/30099165/ucha.mkv | Complete: Czech subtitles verified |
 | Detroit SD CZ Titulky | 30816296 | https://sdilej.cz/11808687/detroit-cz.sub.mkv | Complete: Czech subtitles verified |
-| The Hand of God (È stata la mano di Dio) 1080p CZ Titulky | 30816443 | https://sdilej.cz/19193453/bozi-ruka-e-stata-la-mano-di-dio-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
+| The Hand of God (È stata la mano di Dio) 1080p CZ Titulky | 30816443 | https://sdilej.cz/19193453/bozi-ruka-e-stata-la-mano-di-dio-1080p-2021-vlozene-cz-titulky-kst.mkv | Complete: Czech subtitles verified |
 | Deconstructing Harry SD CZ Titulky | 30817729 | https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv | Extract Czech track from exact source after processing |
