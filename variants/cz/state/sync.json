@@ -60720,17 +60720,19 @@
       "attempts": []
     },
     "30329": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30669701",
+          "target_video_id": "30803829",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:32:44.648851+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30669701",
         "display_name": "The Story of Voyages (The Story of the Voyages) SD CZ Dabing",
         "planned_at": "2026-11-05T04:26:52.243304+00:00"
-      },
-      "claim": {
-        "worker_id": "d774aa486e814ac88022fa1d342aa655-shard-0",
-        "claimed_at": "2026-11-05T04:26:52.513856+00:00",
-        "lease_expires_at": "2026-11-05T10:26:52.513856+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30803829",
       "prepared": {
@@ -102363,5 +102365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:26:56.111989+00:00"
+  "updated_at": "2026-11-05T04:32:44.648869+00:00"
 }
