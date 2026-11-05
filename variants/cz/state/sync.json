@@ -62041,17 +62041,19 @@
       "attempts": []
     },
     "1853": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34893287",
+          "reason": "Request failed for https://sdilej.cz/34893287/hrisny-tanec.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:45:05.355537+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34893287",
         "display_name": "Dirty Dancing (1987) 4K CZ Dabing",
         "planned_at": "2026-11-05T09:44:19.254114+00:00"
-      },
-      "claim": {
-        "worker_id": "e67fb4492b3e4d7ea6b2113ea0d974c4-shard-0",
-        "claimed_at": "2026-11-05T09:44:19.516154+00:00",
-        "lease_expires_at": "2026-11-05T15:44:19.516154+00:00",
-        "run_id": "41981017097"
       }
     },
     "19552": {
@@ -104901,5 +104903,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:44:20.558358+00:00"
+  "updated_at": "2026-11-05T09:45:05.355565+00:00"
 }
