@@ -22146,17 +22146,19 @@
       "attempts": []
     },
     "30993": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20534344",
+          "target_video_id": "30829417",
+          "permanent": false,
+          "attempted_at": "2026-11-05T19:56:09.337971+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20534344",
         "display_name": "The Painter and the Thief 1080p CZ Titulky",
         "planned_at": "2026-11-05T19:46:44.051540+00:00"
-      },
-      "claim": {
-        "worker_id": "4515027b230a495da7110738c36ee9b0-shard-0",
-        "claimed_at": "2026-11-05T19:46:44.093538+00:00",
-        "lease_expires_at": "2026-11-06T01:46:44.093538+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30829417",
       "prepared": {
@@ -69976,5 +69978,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T19:46:47.247943+00:00"
+  "updated_at": "2026-11-05T19:56:09.337991+00:00"
 }
