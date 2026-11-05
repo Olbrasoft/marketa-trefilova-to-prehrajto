@@ -20630,17 +20630,19 @@
       "attempts": []
     },
     "20537": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34917918",
+          "target_video_id": "30802868",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:03:30.050443+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34917918",
         "display_name": "Okja 1080p CZ Titulky",
         "planned_at": "2026-11-05T03:51:26.236130+00:00"
-      },
-      "claim": {
-        "worker_id": "5e6419486929477f93d2864ea82b8e12-shard-0",
-        "claimed_at": "2026-11-05T03:51:26.308744+00:00",
-        "lease_expires_at": "2026-11-05T09:51:26.308744+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30802868",
       "prepared": {
@@ -65052,5 +65054,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T03:51:29.862451+00:00"
+  "updated_at": "2026-11-05T04:03:30.050461+00:00"
 }
