@@ -62978,17 +62978,19 @@
       }
     },
     "1991": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11156093",
+          "target_video_id": "30817863",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:46:16.946494+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11156093",
         "display_name": "Bad Times at the El Royale 1080p CZ Dabing",
         "planned_at": "2026-11-05T12:40:18.730190+00:00"
-      },
-      "claim": {
-        "worker_id": "c363016434fd4e709a9fae52a3d402da-shard-0",
-        "claimed_at": "2026-11-05T12:40:19.245250+00:00",
-        "lease_expires_at": "2026-11-05T18:40:19.245250+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30817863",
       "prepared": {
@@ -106406,5 +106408,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:40:50.313312+00:00"
+  "updated_at": "2026-11-05T12:46:16.946511+00:00"
 }
