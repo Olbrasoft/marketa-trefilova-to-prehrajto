@@ -63923,11 +63923,19 @@
       }
     },
     "11856": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26082143",
+          "reason": "Request failed for https://sdilej.cz/26082143/strycek-buck-1989-komedie-drama-bdrip.-en-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T14:03:02.828861+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26082143",
         "display_name": "Uncle Buck 1080p CZ Dabing",
-        "planned_at": "2026-11-05T14:02:13.777094+00:00"
+        "planned_at": "2026-11-05T14:02:16.713688+00:00"
       }
     },
     "13243": {
@@ -107470,5 +107478,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T14:02:15.240046+00:00"
+  "updated_at": "2026-11-05T14:03:02.828881+00:00"
 }
