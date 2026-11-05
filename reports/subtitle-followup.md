@@ -399,14 +399,14 @@ Attach subtitles only after target processing has finished.
 | Okja 1080p CZ Titulky | 30802868 | https://sdilej.cz/34917918/okja-2017-.mkv | Complete: Czech subtitles verified |
 | The Way Back (2010) 1080p CZ Titulky | 30807154 | https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4 | Extract Czech track from exact source after processing |
 | The Death of Stalin 1080p CZ Titulky | 30805972 | https://sdilej.cz/18414247/the.death.of.stalin.2017.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
-| Clue 1080p CZ Titulky | 30804709 | https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
-| Pirate Radio 1080p CZ Titulky | 30805701 | https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Extract Czech track from exact source after processing |
+| Clue 1080p CZ Titulky | 30804709 | https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv | Complete: Czech subtitles verified |
+| Pirate Radio 1080p CZ Titulky | 30805701 | https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Complete: Czech subtitles verified |
 | Nuremberg 1080p CZ Titulky | 30807046 | https://sdilej.cz/35402835/nuremberg.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-.en.cz.tit.mkv | Extract Czech track from exact source after processing |
 | Jane Eyre (2011) 1080p CZ Titulky | 30809107 | https://sdilej.cz/30832607/jana-eyrova-jane.eyre.2011.en.cz.sk.1080p.bluray.x264-amiable.mkv | Complete: Czech subtitles verified |
 | Paterson 1080p CZ Titulky | 30811761 | https://sdilej.cz/20609659/paterson-2016-1080p-h.264-audio-en-subtitles-cz.mkv | Complete: Czech subtitles verified |
 | Prince of the City 1080p CZ Titulky | 30809179 | https://sdilej.cz/20090323/prince-of-the-city-1981-1080p.-x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Pale Rider 1080p CZ Titulky | 30816243 | https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv | Extract Czech track from exact source after processing |
-| Decision to Leave (Heojil kyolshim) 4K CZ Titulky | 30814513 | https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| The Ear 1080p CZ Titulky | 30814728 | https://sdilej.cz/30099165/ucha.mkv | Extract Czech track from exact source after processing |
+| Decision to Leave (Heojil kyolshim) 4K CZ Titulky | 30814513 | https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
+| The Ear 1080p CZ Titulky | 30814728 | https://sdilej.cz/30099165/ucha.mkv | Complete: Czech subtitles verified |
 | Detroit SD CZ Titulky | 30816296 | https://sdilej.cz/11808687/detroit-cz.sub.mkv | Complete: Czech subtitles verified |
 | The Hand of God (È stata la mano di Dio) 1080p CZ Titulky | 30816443 | https://sdilej.cz/19193453/bozi-ruka-e-stata-la-mano-di-dio-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
