@@ -60227,17 +60227,19 @@
       "attempts": []
     },
     "12397": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34675645",
+          "target_video_id": "30801887",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:16:02.587499+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34675645",
         "display_name": "Rosewood SD CZ Dabing",
         "planned_at": "2026-11-05T03:10:56.280363+00:00"
-      },
-      "claim": {
-        "worker_id": "5a14432001c34ddb8482e62f9bdbb260-shard-0",
-        "claimed_at": "2026-11-05T03:10:56.548003+00:00",
-        "lease_expires_at": "2026-11-05T09:10:56.548003+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30801887",
       "prepared": {
@@ -101592,5 +101594,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T03:15:42.234426+00:00"
+  "updated_at": "2026-11-05T03:16:02.587522+00:00"
 }
