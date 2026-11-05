@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-05T11:36:44.744397+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-05T12:08:25.726310+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-05T12:40:26.297036+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:13:14.421639+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "c1b1dfc5c52f4ac2bf71316dd52bc2e2-shard-0",
-        "claimed_at": "2026-11-05T13:13:11.626243+00:00",
-        "lease_expires_at": "2026-11-05T19:13:11.626243+00:00",
-        "run_id": "42018448939"
       }
     },
     "10755": {
@@ -10835,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:40:27.714970+00:00"
+        "planned_at": "2026-11-05T13:13:13.729437+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10843,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "21af4f5c6f074c748cea337dddbd7b35-shard-0",
+        "claimed_at": "2026-11-05T13:13:14.304285+00:00",
+        "lease_expires_at": "2026-11-05T19:13:14.304285+00:00",
+        "run_id": "42018448939"
       }
     },
     "21748": {
@@ -63363,7 +63363,7 @@
       "last_plan": {
         "source_id": "34858538",
         "display_name": "Defiance 1080p CZ Dabing",
-        "planned_at": "2026-11-05T13:13:11.290385+00:00"
+        "planned_at": "2026-11-05T13:13:13.935699+00:00"
       }
     },
     "19749": {
@@ -106705,5 +106705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:13:12.232690+00:00"
+  "updated_at": "2026-11-05T13:13:14.421661+00:00"
 }
