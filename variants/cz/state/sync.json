@@ -63462,17 +63462,19 @@
       }
     },
     "19557": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26359855",
+          "reason": "Request failed for https://sdilej.cz/26359855/neco-jako-komedie-2010-drama-komedie-romanticky-hd-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:23:29.900137+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26359855",
         "display_name": "It's Kind of a Funny Story 1080p CZ Dabing",
         "planned_at": "2026-11-05T13:22:42.187987+00:00"
-      },
-      "claim": {
-        "worker_id": "9596293103d9411881c52fa6c1cd06eb-shard-0",
-        "claimed_at": "2026-11-05T13:22:43.775565+00:00",
-        "lease_expires_at": "2026-11-05T19:22:43.775565+00:00",
-        "run_id": "42018448939"
       }
     },
     "1983": {
@@ -107099,5 +107101,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:22:48.850571+00:00"
+  "updated_at": "2026-11-05T13:23:29.900155+00:00"
 }
