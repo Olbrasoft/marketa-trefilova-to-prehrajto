@@ -62906,17 +62906,19 @@
       }
     },
     "12146": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34076726",
+          "reason": "Request failed for https://sdilej.cz/34076726/ctyri-svatby-a-jeden-pohreb-1994-cz-dab-1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:35:39.211824+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34076726",
         "display_name": "Four Weddings and a Funeral 1080p CZ Dabing",
         "planned_at": "2026-11-05T12:34:53.030446+00:00"
-      },
-      "claim": {
-        "worker_id": "84860590cf114890be6b4468c266522d-shard-0",
-        "claimed_at": "2026-11-05T12:34:53.335792+00:00",
-        "lease_expires_at": "2026-11-05T18:34:53.335792+00:00",
-        "run_id": "42018448939"
       }
     },
     "2005": {
@@ -106336,5 +106338,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:35:20.492135+00:00"
+  "updated_at": "2026-11-05T12:35:39.211843+00:00"
 }
