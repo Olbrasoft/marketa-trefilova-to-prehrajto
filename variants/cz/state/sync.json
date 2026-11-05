@@ -61137,17 +61137,19 @@
       }
     },
     "1942": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26490741",
+          "target_video_id": "30806482",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:17:52.012452+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26490741",
         "display_name": "Free Guy 1080p CZ Dabing",
         "planned_at": "2026-11-05T06:07:00.103551+00:00"
-      },
-      "claim": {
-        "worker_id": "2adbd8738e4948679e00e74d7c65deb9-shard-0",
-        "claimed_at": "2026-11-05T06:07:00.421851+00:00",
-        "lease_expires_at": "2026-11-05T12:07:00.421851+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30806482",
       "prepared": {
@@ -103017,5 +103019,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T06:07:04.253364+00:00"
+  "updated_at": "2026-11-05T06:17:52.012472+00:00"
 }
