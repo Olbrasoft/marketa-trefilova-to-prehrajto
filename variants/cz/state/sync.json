@@ -61955,17 +61955,19 @@
       }
     },
     "1857": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33598127",
+          "target_video_id": "30812140",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:39:49.363930+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33598127",
         "display_name": "Thunderbolts* 4K CZ Dabing",
         "planned_at": "2026-11-05T09:09:58.164281+00:00"
-      },
-      "claim": {
-        "worker_id": "65ad602f2443478db39c9a25b2b7bf82-shard-0",
-        "claimed_at": "2026-11-05T09:09:58.436533+00:00",
-        "lease_expires_at": "2026-11-05T15:09:58.436533+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30812140",
       "prepared": {
@@ -104862,5 +104864,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:39:44.989878+00:00"
+  "updated_at": "2026-11-05T09:39:49.363946+00:00"
 }
