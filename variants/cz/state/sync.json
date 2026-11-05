@@ -61010,17 +61010,19 @@
       "attempts": []
     },
     "1913": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24575676",
+          "target_video_id": "30805200",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:28:31.194090+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24575676",
         "display_name": "Glass Onion: A Knives Out Mystery 4K CZ Dabing",
         "planned_at": "2026-11-05T05:22:32.533156+00:00"
-      },
-      "claim": {
-        "worker_id": "66635a2ef3614e6a8055f6a1792665c7-shard-0",
-        "claimed_at": "2026-11-05T05:22:32.818941+00:00",
-        "lease_expires_at": "2026-11-05T11:22:32.818941+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30805200",
       "prepared": {
@@ -103069,5 +103071,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T06:24:33.446457+00:00"
+  "updated_at": "2026-11-05T06:28:31.194104+00:00"
 }
