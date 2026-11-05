@@ -59573,17 +59573,19 @@
       }
     },
     "11178": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8553967",
+          "target_video_id": "30798128",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:36:37.742634+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8553967",
         "display_name": "The Yakuza SD CZ Dabing",
         "planned_at": "2026-11-05T00:33:37.201581+00:00"
-      },
-      "claim": {
-        "worker_id": "003327689338435f80edbf0062da7c86-shard-0",
-        "claimed_at": "2026-11-05T00:33:37.433396+00:00",
-        "lease_expires_at": "2026-11-05T06:33:37.433396+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30798128",
       "prepared": {
@@ -100334,5 +100336,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:33:41.363761+00:00"
+  "updated_at": "2026-11-05T00:36:37.742655+00:00"
 }
