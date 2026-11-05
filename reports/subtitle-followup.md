@@ -393,3 +393,4 @@ Attach subtitles only after target processing has finished.
 | That Sugar Film 720p CZ Titulky | 30801243 | https://sdilej.cz/31729972/that.sugar.film.2014.720p.bluray.x264-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Good Time 1080p CZ Titulky | 30801660 | https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv | Extract Czech track from exact source after processing |
 | Paddington 1080p CZ Titulky | 30801722 | https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv | Extract Czech track from exact source after processing |
+| Zootopia 2 1080p CZ Titulky | 30802402 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Extract Czech track from exact source after processing |
