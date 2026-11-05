@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T22:13:49.586249+00:00
+Poslední aktualizace (UTC): 2026-11-05T22:13:59.658500+00:00
 
 Zkontrolováno videí: 424. Další stránka kontroly: 0.
 
@@ -48,7 +48,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 35. Důvod
 | [Snatch 1080p CZ Titulky](https://prehraj.to/snatch-1080p-cz-titulky-mkv/7cd4bd12173bd35e) (ID 30677522) | [Sdílej 30945062](https://sdilej.cz/30945062/snatch-podfuck-2000-en-cz-dabing-1080p.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-01T04:31:28.035039+00:00 |
 | [System Crasher (Systemsprenger) SD CZ Titulky](https://prehraj.to/system-crasher-systemsprenger-sd-cz-titulky-mp4/f454c1e9197d1145) (ID 30674476) | [Sdílej 35393610](https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4) | Zdrojové titulky mají neplatné časování. | 2026-10-31T17:53:42.684122+00:00 |
 | [Talvar SD](https://prehraj.to/talvar-sd-mp4/f17e203bdb92af8d) (ID 30622823) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T01:15:40.214453+00:00 |
-| [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T22:13:30.428521+00:00 |
+| [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T22:13:59.658371+00:00 |
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T18:47:50.035910+00:00 |
 | [The Departed 1080p CZ Titulky](https://prehraj.to/the-departed-cz-titulky-mkv/4eb25d96aefc80ce) (ID 30589626) | [Sdílej 23098497](https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T10:40:32.049951+00:00 |
 | [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T18:19:39.477401+00:00 |
