@@ -64399,17 +64399,19 @@
       }
     },
     "13638": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32386445",
+          "target_video_id": "30822370",
+          "permanent": false,
+          "attempted_at": "2026-11-05T15:54:07.506440+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32386445",
         "display_name": "Cashback 1080p CZ Dabing",
         "planned_at": "2026-11-05T15:48:17.549006+00:00"
-      },
-      "claim": {
-        "worker_id": "d259043a216b40f2b0592244f69109a0-shard-0",
-        "claimed_at": "2026-11-05T15:48:17.727912+00:00",
-        "lease_expires_at": "2026-11-05T21:48:17.727912+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30822370",
       "prepared": {
@@ -108399,5 +108401,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T15:48:21.267269+00:00"
+  "updated_at": "2026-11-05T15:54:07.506459+00:00"
 }
