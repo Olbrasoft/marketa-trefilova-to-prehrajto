@@ -397,7 +397,7 @@ Attach subtitles only after target processing has finished.
 | Zootopia 2 1080p CZ Titulky | 30802402 | https://sdilej.cz/33063690/zotropolis-mesto-zvirat-2-zotopia-2-1080p-cz-titulky-eac3.mkv | Complete: Czech subtitles verified |
 | The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky | 30802431 | https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | Okja 1080p CZ Titulky | 30802868 | https://sdilej.cz/34917918/okja-2017-.mkv | Complete: Czech subtitles verified |
-| The Way Back (2010) 1080p CZ Titulky | 30807154 | https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4 | Extract Czech track from exact source after processing |
+| The Way Back (2010) 1080p CZ Titulky | 30807154 | https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4 | Complete: Czech subtitles verified |
 | The Death of Stalin 1080p CZ Titulky | 30805972 | https://sdilej.cz/18414247/the.death.of.stalin.2017.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Clue 1080p CZ Titulky | 30804709 | https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv | Complete: Czech subtitles verified |
 | Pirate Radio 1080p CZ Titulky | 30805701 | https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Complete: Czech subtitles verified |
