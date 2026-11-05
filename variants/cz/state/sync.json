@@ -42793,7 +42793,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrinth 4K CZ Dabing",
-        "planned_at": "2026-11-05T13:21:54.149687+00:00"
+        "planned_at": "2026-11-05T13:52:10.600347+00:00"
       },
       "previous_target_id": "30756113",
       "prepared": {
@@ -63802,17 +63802,19 @@
       }
     },
     "1884": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16304496",
+          "target_video_id": "30819335",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:52:10.778938+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16304496",
         "display_name": "Let Me In 1080p CZ Dabing",
         "planned_at": "2026-11-05T13:49:13.662781+00:00"
-      },
-      "claim": {
-        "worker_id": "cdd15218154c420a806bd49f3e784f84-shard-0",
-        "claimed_at": "2026-11-05T13:49:13.971392+00:00",
-        "lease_expires_at": "2026-11-05T19:49:13.971392+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30819335",
       "prepared": {
@@ -107391,5 +107393,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:52:09.092825+00:00"
+  "updated_at": "2026-11-05T13:52:10.778959+00:00"
 }
