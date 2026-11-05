@@ -60032,17 +60032,19 @@
       }
     },
     "21265": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9823517",
+          "target_video_id": "30800627",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:32:50.611828+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9823517",
         "display_name": "They Were Expendable SD CZ Dabing",
         "planned_at": "2026-11-05T02:22:49.883406+00:00"
-      },
-      "claim": {
-        "worker_id": "a9215f3d6b9c4ba0bb2dd6e61cbc7125-shard-0",
-        "claimed_at": "2026-11-05T02:22:50.117871+00:00",
-        "lease_expires_at": "2026-11-05T08:22:50.117871+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30800627",
       "prepared": {
@@ -101398,5 +101400,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T02:32:32.149342+00:00"
+  "updated_at": "2026-11-05T02:32:50.611850+00:00"
 }
