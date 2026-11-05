@@ -60870,7 +60870,20 @@
       }
     },
     "2114": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33852788",
+          "reason": "Request failed for https://sdilej.cz/33852788/transformers-1-2007-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:51:57.289953+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33852788",
+        "display_name": "Transformers 4K CZ Dabing",
+        "planned_at": "2026-11-05T04:51:11.033564+00:00"
+      }
     },
     "11759": {
       "attempts": []
@@ -102471,5 +102484,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:51:08.884100+00:00"
+  "updated_at": "2026-11-05T04:51:57.289973+00:00"
 }
