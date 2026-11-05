@@ -413,3 +413,4 @@ Attach subtitles only after target processing has finished.
 | Nowhere Special 1080p CZ Titulky | 30818209 | https://sdilej.cz/18753727/nowhere.special.2020.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Deconstructing Harry SD CZ Titulky | 30817729 | https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv | Complete: Czech subtitles verified |
 | Loveable (Elskling) 1080p CZ Titulky | 30819315 | https://sdilej.cz/35402811/loveable.2024.norwegian.nordic.1080p.web-dl.dd5.1.10bit.x265-gaut.cz.tit.mkv | Extract Czech track from exact source after processing |
+| The Nightingale 1080p CZ Titulky | 30820099 | https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv | Extract Czech track from exact source after processing |
