@@ -416,3 +416,4 @@ Attach subtitles only after target processing has finished.
 | The Nightingale 1080p CZ Titulky | 30820099 | https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv | Extract Czech track from exact source after processing |
 | 24 Hour Party People 720p CZ Titulky | 30821368 | https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv | Extract Czech track from exact source after processing |
 | The Sea Wolf 1080p CZ Titulky | 30820306 | https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
+| A Street Cat Named Bob 1080p CZ Titulky | 30822365 | https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv | Extract Czech track from exact source after processing |
