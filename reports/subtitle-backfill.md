@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T00:40:02.996790+00:00
+Poslední aktualizace (UTC): 2026-11-05T00:40:05.726632+00:00
 
 Zkontrolováno videí: 383. Další stránka kontroly: 0.
 
@@ -72,7 +72,7 @@ Kontrol: 17; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-04T23:49:43.793714+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T00:29:51.733550+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T00:31:03.792060+00:00 |
-| [Doctor Sleep 1080p CZ Titulky](https://prehraj.to/doctor-sleep-1080p-cz-titulky-mkv/491874405df58767) (ID 30790059) | [Sdílej 12781606](https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv) | target_unavailable | 2026-11-04T23:39:37.231003+00:00 |
+| [Doctor Sleep 1080p CZ Titulky](https://prehraj.to/doctor-sleep-1080p-cz-titulky-mkv/491874405df58767) (ID 30790059) | [Sdílej 12781606](https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv) | target_unavailable | 2026-11-05T00:40:05.020218+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T00:30:56.512015+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-04T23:49:54.144315+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T00:30:33.308394+00:00 |
