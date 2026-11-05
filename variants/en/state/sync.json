@@ -21049,7 +21049,20 @@
       "attempts": []
     },
     "33010": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20609659",
+          "reason": "Request failed for https://sdilej.cz/20609659/paterson-2016-1080p-h.264-audio-en-subtitles-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:48:27.013518+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "20609659",
+        "display_name": "Paterson 1080p CZ Titulky",
+        "planned_at": "2026-11-05T07:47:40.970315+00:00"
+      }
     },
     "1386": {
       "attempts": []
@@ -66386,5 +66399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:46:38.606388+00:00"
+  "updated_at": "2026-11-05T07:48:27.013535+00:00"
 }
