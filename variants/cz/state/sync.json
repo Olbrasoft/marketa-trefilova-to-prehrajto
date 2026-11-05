@@ -63081,17 +63081,19 @@
       }
     },
     "1987": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32275180",
+          "target_video_id": "30818065",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:57:46.041957+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32275180",
         "display_name": "Creed II 4K CZ Dabing",
         "planned_at": "2026-11-05T12:49:09.983688+00:00"
-      },
-      "claim": {
-        "worker_id": "20d17db847a84613bb3f38caaa46c952-shard-0",
-        "claimed_at": "2026-11-05T12:49:10.269184+00:00",
-        "lease_expires_at": "2026-11-05T18:49:10.269184+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30818065",
       "prepared": {
@@ -106539,5 +106541,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:56:40.158398+00:00"
+  "updated_at": "2026-11-05T12:57:46.041974+00:00"
 }
