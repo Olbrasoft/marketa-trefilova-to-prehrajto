@@ -60009,17 +60009,19 @@
       "attempts": []
     },
     "1726": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7666570",
+          "target_video_id": "30800626",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:32:32.149322+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7666570",
         "display_name": "Grease: Live (Grease Live) SD CZ Dabing",
         "planned_at": "2026-11-05T02:22:47.908504+00:00"
-      },
-      "claim": {
-        "worker_id": "e4cbac17bfd440e6be0dab4a0e8b960a-shard-0",
-        "claimed_at": "2026-11-05T02:22:48.133070+00:00",
-        "lease_expires_at": "2026-11-05T08:22:48.133070+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30800626",
       "prepared": {
@@ -101396,5 +101398,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T02:28:42.306269+00:00"
+  "updated_at": "2026-11-05T02:32:32.149342+00:00"
 }
