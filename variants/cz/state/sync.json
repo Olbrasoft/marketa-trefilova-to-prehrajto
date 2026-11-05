@@ -59680,17 +59680,19 @@
       "attempts": []
     },
     "21693": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33774701",
+          "target_video_id": "30798642",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:08:04.253334+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33774701",
         "display_name": "Yesterday, Today and Tomorrow 1080p CZ Dabing",
         "planned_at": "2026-11-05T00:59:50.359418+00:00"
-      },
-      "claim": {
-        "worker_id": "b2743405a8f641689e36b314a815b55e-shard-0",
-        "claimed_at": "2026-11-05T00:59:50.589975+00:00",
-        "lease_expires_at": "2026-11-05T06:59:50.589975+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30798642",
       "prepared": {
@@ -100734,5 +100736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:08:02.523620+00:00"
+  "updated_at": "2026-11-05T01:08:04.253367+00:00"
 }
