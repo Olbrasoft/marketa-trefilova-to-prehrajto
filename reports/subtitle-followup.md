@@ -408,3 +408,4 @@ Attach subtitles only after target processing has finished.
 | Pale Rider 1080p CZ Titulky | 30816243 | https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv | Extract Czech track from exact source after processing |
 | Decision to Leave (Heojil kyolshim) 4K CZ Titulky | 30814513 | https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | The Ear 1080p CZ Titulky | 30814728 | https://sdilej.cz/30099165/ucha.mkv | Extract Czech track from exact source after processing |
+| Detroit SD CZ Titulky | 30816296 | https://sdilej.cz/11808687/detroit-cz.sub.mkv | Extract Czech track from exact source after processing |
