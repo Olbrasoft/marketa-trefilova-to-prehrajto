@@ -16341,13 +16341,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-05T10:26:45.428681+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-05T11:36:40.263573+00:00"
         },
         {
@@ -16356,12 +16349,19 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-05T12:08:22.251891+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:40:20.196234+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:08:20.389741+00:00"
+        "planned_at": "2026-11-05T12:40:18.520978+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -62982,11 +62982,22 @@
       "last_plan": {
         "source_id": "11156093",
         "display_name": "Bad Times at the El Royale 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:40:15.395639+00:00"
+        "planned_at": "2026-11-05T12:40:18.730190+00:00"
+      },
+      "claim": {
+        "worker_id": "c363016434fd4e709a9fae52a3d402da-shard-0",
+        "claimed_at": "2026-11-05T12:40:19.245250+00:00",
+        "lease_expires_at": "2026-11-05T18:40:19.245250+00:00",
+        "run_id": "42018448939"
       }
     },
     "2030": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33794205",
+        "display_name": "Spy Game 1080p CZ Dabing",
+        "planned_at": "2026-11-05T12:40:18.853879+00:00"
+      }
     },
     "2117": {
       "attempts": []
@@ -106375,5 +106386,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:40:16.904735+00:00"
+  "updated_at": "2026-11-05T12:40:20.196254+00:00"
 }
