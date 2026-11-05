@@ -59596,17 +59596,19 @@
       }
     },
     "36644": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26930383",
+          "target_video_id": "30798165",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:40:15.203300+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26930383",
         "display_name": "Path to War SD CZ Dabing",
         "planned_at": "2026-11-05T00:36:44.565491+00:00"
-      },
-      "claim": {
-        "worker_id": "76fd2361b71b4a61a2306b99ada165ee-shard-0",
-        "claimed_at": "2026-11-05T00:36:44.796634+00:00",
-        "lease_expires_at": "2026-11-05T06:36:44.796634+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30798165",
       "prepared": {
@@ -100636,5 +100638,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:36:49.010469+00:00"
+  "updated_at": "2026-11-05T00:40:15.203325+00:00"
 }
