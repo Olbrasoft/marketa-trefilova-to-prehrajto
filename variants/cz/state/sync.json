@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-05T11:36:54.518368+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-05T12:08:35.424848+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-05T12:40:36.455769+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:13:23.231532+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "7b1524bff4584c1fb9ae48f6e7fedd30-shard-0",
-        "claimed_at": "2026-11-05T13:13:20.119816+00:00",
-        "lease_expires_at": "2026-11-05T19:13:20.119816+00:00",
-        "run_id": "42018448939"
       }
     },
     "54": {
@@ -17317,7 +17311,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-05T12:40:37.870768+00:00"
+        "planned_at": "2026-11-05T13:13:22.250197+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17325,6 +17319,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "a40064b13da24c3d9da522255f17734e-shard-0",
+        "claimed_at": "2026-11-05T13:13:22.808758+00:00",
+        "lease_expires_at": "2026-11-05T19:13:22.808758+00:00",
+        "run_id": "42018448939"
       }
     },
     "23132": {
@@ -63363,7 +63363,7 @@
       "last_plan": {
         "source_id": "34858538",
         "display_name": "Defiance 1080p CZ Dabing",
-        "planned_at": "2026-11-05T13:13:19.785475+00:00"
+        "planned_at": "2026-11-05T13:13:22.453793+00:00"
       }
     },
     "19749": {
@@ -106705,5 +106705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:13:20.594391+00:00"
+  "updated_at": "2026-11-05T13:13:23.231553+00:00"
 }
