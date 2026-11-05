@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-05T19:40:47.290950+00:00"
+        "planned_at": "2026-11-05T20:16:11.844638+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "023e39009de1466a959776726fe04872-shard-0",
+        "claimed_at": "2026-11-05T20:16:12.312918+00:00",
+        "lease_expires_at": "2026-11-06T02:16:12.312918+00:00",
+        "run_id": "42093150935"
       }
     },
     "29922": {
@@ -65280,17 +65286,23 @@
           "attempted_at": "2026-11-05T19:40:35.303263+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33871346",
-        "display_name": "Don't Look Now 1080p CZ Dabing",
-        "planned_at": "2026-11-05T20:16:09.882896+00:00"
-      },
       "previous_target_id": "30826671",
-      "prepared": {
+      "upload": {
         "target_video_id": "30826671",
-        "size_bytes": 20441173190,
-        "prepared_at": "2026-11-05T18:12:44.785540+00:00",
-        "relay_source_id": "33871346"
+        "display_name": "Don't Look Now 1080p CZ Dabing",
+        "source_id": "33871346",
+        "source_url": "https://sdilej.cz/33871346/ted-se-nedivej-don-t-look-now-1973-.mkv",
+        "source_filename": "Teď se nedívej - Don't Look Now (1973).mkv",
+        "size_bytes": 20400000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9632624983787537,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/don-t-look-now-1080p-cz-dabing-mkv/b18602c85e32f8c1",
+        "uploaded_at": "2026-11-05T20:16:12.728240+00:00"
       }
     },
     "1948": {
@@ -65625,7 +65637,7 @@
       "last_plan": {
         "source_id": "15012488",
         "display_name": "Far from the Madding Crowd 720p CZ Dabing",
-        "planned_at": "2026-11-05T20:16:10.088064+00:00"
+        "planned_at": "2026-11-05T20:16:12.037216+00:00"
       }
     },
     "11135": {
@@ -110432,5 +110444,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:16:10.088083+00:00"
+  "updated_at": "2026-11-05T20:16:12.728261+00:00"
 }
