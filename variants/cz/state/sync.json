@@ -59328,17 +59328,19 @@
       "attempts": []
     },
     "715": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27525475",
+          "target_video_id": "30797420",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:01:03.681871+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27525475",
         "display_name": "I Enjoy the World With You (S tebou mě baví svět) 1080p CZ Dabing",
         "planned_at": "2026-11-04T23:57:03.892734+00:00"
-      },
-      "claim": {
-        "worker_id": "f85a40cc55054871a01408a28145bcf5-shard-0",
-        "claimed_at": "2026-11-04T23:57:04.116629+00:00",
-        "lease_expires_at": "2026-11-05T05:57:04.116629+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797420",
       "prepared": {
@@ -100161,5 +100163,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-04T23:58:22.278428+00:00"
+  "updated_at": "2026-11-05T00:01:03.681891+00:00"
 }
