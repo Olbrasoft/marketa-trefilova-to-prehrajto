@@ -422,4 +422,5 @@ Attach subtitles only after target processing has finished.
 | A Million Miles Away 4K CZ Titulky | 30828699 | https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv | Extract Czech track from exact source after processing |
 | The Painter and the Thief 1080p CZ Titulky | 30829417 | https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Little Boy 1080p CZ Titulky | 30830196 | https://sdilej.cz/16573618/little.boy.2015.1080p.brrip.x264.ac3-en-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Uncle Frank 1080p CZ Titulky | 30831460 | https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Captain (Der Hauptmann) (2017) 1080p CZ Titulky | 30831408 | https://sdilej.cz/10699415/der-hauptmann-cz-titulky-fullhd-1080p.mkv | Extract Czech track from exact source after processing |
