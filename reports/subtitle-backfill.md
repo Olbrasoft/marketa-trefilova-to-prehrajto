@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T04:14:18.723858+00:00
+Poslední aktualizace (UTC): 2026-11-05T04:14:20.466646+00:00
 
 Zkontrolováno videí: 395. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 308, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 22, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 308, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 23, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -90,6 +90,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvod
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-05T03:05:03.443291+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-05T03:05:15.065072+00:00 |
 | [The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky](https://prehraj.to/the-boy-and-the-heron-1080p-cz-titulky-mkv/e536f7106b7626d5) (ID 30802431) | [Sdílej 29249237](https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T03:44:07.477766+00:00 |
+| [The Edge of Seventeen 1080p CZ Titulky](https://prehraj.to/the-edge-of-seventeen-1080p-cz-titulky-mkv/5482301ed4f173e4) (ID 30803408) | [Sdílej 23009992](https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv) | target_unavailable | 2026-11-05T04:14:20.466511+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T03:04:21.407282+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T03:05:11.599045+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-05T03:04:55.395936+00:00 |
