@@ -59477,17 +59477,19 @@
       }
     },
     "32319": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34609546",
+          "target_video_id": "30797535",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:57:51.083690+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34609546",
         "display_name": "Savior 1080p CZ Dabing",
         "planned_at": "2026-11-05T00:02:19.732555+00:00"
-      },
-      "claim": {
-        "worker_id": "6783748aa17f400f9fd7c935e8c44845-shard-0",
-        "claimed_at": "2026-11-05T00:02:19.950026+00:00",
-        "lease_expires_at": "2026-11-05T06:02:19.950026+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30797535",
       "prepared": {
@@ -100649,5 +100651,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:45:51.831518+00:00"
+  "updated_at": "2026-11-05T00:57:51.083711+00:00"
 }
