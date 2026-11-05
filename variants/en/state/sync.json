@@ -21999,17 +21999,19 @@
       "attempts": []
     },
     "18639": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33348083",
+          "target_video_id": "30824468",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:09:51.671651+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33348083",
         "display_name": "Song Sung Blue 1080p CZ Titulky",
         "planned_at": "2026-11-05T17:00:39.757236+00:00"
-      },
-      "claim": {
-        "worker_id": "53d7ffaf46924d88a8136c5f270c4a4f-shard-0",
-        "claimed_at": "2026-11-05T17:00:39.800687+00:00",
-        "lease_expires_at": "2026-11-05T23:00:39.800687+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30824468",
       "prepared": {
@@ -69148,5 +69150,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:00:43.356288+00:00"
+  "updated_at": "2026-11-05T17:09:51.671671+00:00"
 }
