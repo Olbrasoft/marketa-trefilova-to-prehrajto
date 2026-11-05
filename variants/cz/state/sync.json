@@ -63717,17 +63717,19 @@
       }
     },
     "1891": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32947727",
+          "target_video_id": "30819178",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:45:15.681175+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32947727",
         "display_name": "Gran Turismo 4K CZ Dabing",
         "planned_at": "2026-11-05T13:38:59.824836+00:00"
-      },
-      "claim": {
-        "worker_id": "647891568b9a435a8f0126a7d2bbe6c2-shard-0",
-        "claimed_at": "2026-11-05T13:39:00.141815+00:00",
-        "lease_expires_at": "2026-11-05T19:39:00.141815+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30819178",
       "prepared": {
@@ -107307,5 +107309,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:39:03.723244+00:00"
+  "updated_at": "2026-11-05T13:45:15.681199+00:00"
 }
