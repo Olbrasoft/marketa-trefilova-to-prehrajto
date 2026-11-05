@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T08:39:36.493953+00:00
+Poslední aktualizace (UTC): 2026-11-05T08:39:40.811605+00:00
 
 Zkontrolováno videí: 402. Další stránka kontroly: 0.
 
@@ -82,7 +82,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 9. Důvod
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-05T08:30:58.094371+00:00 |
 | [Nuremberg 1080p CZ Titulky](https://prehraj.to/nuremberg-1080p-cz-titulky-mkv/2fdeb5bbfc5b38fe) (ID 30807046) | [Sdílej 35402835](https://sdilej.cz/35402835/nuremberg.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-.en.cz.tit.mkv) | target_unavailable | 2026-11-05T07:38:32.066820+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T08:30:51.036274+00:00 |
-| [Pirate Radio 1080p CZ Titulky](https://prehraj.to/pirate-radio-1080p-cz-titulky-mkv/eb1b38296aba6f0f) (ID 30805701) | [Sdílej 35401859](https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-05T07:18:53.057236+00:00 |
+| [Pirate Radio 1080p CZ Titulky](https://prehraj.to/pirate-radio-1080p-cz-titulky-mkv/eb1b38296aba6f0f) (ID 30805701) | [Sdílej 35401859](https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-05T08:39:39.983339+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T08:30:44.123739+00:00 |
 | [Prince of the City 1080p CZ Titulky](https://prehraj.to/prince-of-the-city-1080p-cz-titulky-mkv/2c8605a056207243) (ID 30809179) | [Sdílej 20090323](https://sdilej.cz/20090323/prince-of-the-city-1981-1080p.-x264-titulky-cz.mkv) | target_unavailable | 2026-11-05T07:58:47.297272+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-05T08:31:05.522783+00:00 |
