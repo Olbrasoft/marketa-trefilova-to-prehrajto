@@ -20325,17 +20325,19 @@
       "attempts": []
     },
     "1395": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30530252",
+          "target_video_id": "30799133",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:49:41.419695+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30530252",
         "display_name": "Rounders 1080p CZ Titulky",
         "planned_at": "2026-11-05T01:18:48.728417+00:00"
-      },
-      "claim": {
-        "worker_id": "9025e56b2de74912910c5fc0489d82bf-shard-0",
-        "claimed_at": "2026-11-05T01:18:48.784990+00:00",
-        "lease_expires_at": "2026-11-05T07:18:48.784990+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30799133",
       "prepared": {
@@ -64435,5 +64437,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:41:48.566278+00:00"
+  "updated_at": "2026-11-05T01:49:41.419715+00:00"
 }
