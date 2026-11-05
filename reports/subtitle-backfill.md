@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T04:24:32.967447+00:00
+Poslední aktualizace (UTC): 2026-11-05T04:24:37.366248+00:00
 
 Zkontrolováno videí: 395. Další stránka kontroly: 0.
 
@@ -73,7 +73,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 5. Důvod
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T04:15:40.866379+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T04:24:29.380940+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T04:24:22.055325+00:00 |
-| [Good Morning, Vietnam 1080p CZ Titulky](https://prehraj.to/good-morning-vietnam-1080p-cz-titulky-mkv/1fbf3afa3ae1f33e) (ID 30799955) | [Sdílej 34617999](https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T03:14:07.033340+00:00 |
+| [Good Morning, Vietnam 1080p CZ Titulky](https://prehraj.to/good-morning-vietnam-1080p-cz-titulky-mkv/1fbf3afa3ae1f33e) (ID 30799955) | [Sdílej 34617999](https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T04:24:36.588115+00:00 |
 | [Good Time 1080p CZ Titulky](https://prehraj.to/good-time-1080p-cz-titulky-mkv/db1f0cec6b81c6b3) (ID 30801660) | [Sdílej 24184712](https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv) | target_unavailable | 2026-11-05T04:04:16.714495+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T04:15:29.356428+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T04:16:17.625894+00:00 |
