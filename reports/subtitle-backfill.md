@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T03:05:28.617034+00:00
+Poslední aktualizace (UTC): 2026-11-05T03:05:31.784639+00:00
 
 Zkontrolováno videí: 391. Další stránka kontroly: 0.
 
@@ -80,7 +80,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 28. Důvod
 | [Hustle 1080p CZ Titulky](https://prehraj.to/hustle-1080p-cz-titulky-mkv/56d45199665af9b0) (ID 30799979) | [Sdílej 21710623](https://sdilej.cz/21710623/hustle-2022-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T02:01:10.753917+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T03:05:28.616924+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-05T00:30:49.110027+00:00 |
-| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-05T00:30:36.723265+00:00 |
+| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-05T03:05:31.784556+00:00 |
 | [Le vieux fusil (The Old Gun) 1080p CZ Titulky](https://prehraj.to/le-vieux-fusil-the-old-gun-1080p-cz-titulky-mkv/0698a63755fda2a9) (ID 30798810) | [Sdílej 30898170](https://sdilej.cz/30898170/le-vieux-fusil-1975-1080p.fr.x264.ac3.fr.subfr-cs.mkv) | target_unavailable | 2026-11-05T01:10:33.053342+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T03:05:25.284755+00:00 |
 | [Paddington 1080p CZ Titulky](https://prehraj.to/paddington-1080p-cz-titulky-mkv/f01f3d5a5f10af2f) (ID 30801722) | [Sdílej 10458404](https://sdilej.cz/10458404/paddington-1080p-x264-dts-eng-cz-tit-2014.mkv) | target_unavailable | 2026-11-05T03:03:33.012867+00:00 |
