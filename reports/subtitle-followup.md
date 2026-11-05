@@ -412,3 +412,4 @@ Attach subtitles only after target processing has finished.
 | The Hand of God (È stata la mano di Dio) 1080p CZ Titulky | 30816443 | https://sdilej.cz/19193453/bozi-ruka-e-stata-la-mano-di-dio-1080p-2021-vlozene-cz-titulky-kst.mkv | Complete: Czech subtitles verified |
 | Nowhere Special 1080p CZ Titulky | 30818209 | https://sdilej.cz/18753727/nowhere.special.2020.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Deconstructing Harry SD CZ Titulky | 30817729 | https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv | Complete: Czech subtitles verified |
+| Loveable (Elskling) 1080p CZ Titulky | 30819315 | https://sdilej.cz/35402811/loveable.2024.norwegian.nordic.1080p.web-dl.dd5.1.10bit.x265-gaut.cz.tit.mkv | Extract Czech track from exact source after processing |
