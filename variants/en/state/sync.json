@@ -251,7 +251,7 @@
       "last_plan": {
         "source_id": "26227362",
         "display_name": "The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky",
-        "planned_at": "2026-11-05T18:16:09.806118+00:00"
+        "planned_at": "2026-11-05T18:47:10.006087+00:00"
       },
       "previous_target_id": "30582771",
       "prepared": {
@@ -259,6 +259,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
+      },
+      "claim": {
+        "worker_id": "9de7e9f41d2b4e59a83d0d59190193ee-shard-0",
+        "claimed_at": "2026-11-05T18:47:10.142236+00:00",
+        "lease_expires_at": "2026-11-06T00:47:10.142236+00:00",
+        "run_id": "42054291199"
       }
     },
     "24": {
@@ -2007,13 +2013,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-05T17:11:02.987191+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-05T17:45:09.331677+00:00"
         },
         {
@@ -2022,6 +2021,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-05T18:16:07.930584+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:47:11.207606+00:00"
         }
       ],
       "last_plan": {
@@ -69697,5 +69703,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:47:07.935348+00:00"
+  "updated_at": "2026-11-05T18:47:11.207630+00:00"
 }
