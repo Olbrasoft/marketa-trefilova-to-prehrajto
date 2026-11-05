@@ -59544,17 +59544,19 @@
       "attempts": []
     },
     "23441": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11123357",
+          "target_video_id": "30798028",
+          "permanent": false,
+          "attempted_at": "2026-11-05T00:32:17.541356+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11123357",
         "display_name": "Tai Chi Master (Tai-Chi Master) SD CZ Dabing",
         "planned_at": "2026-11-05T00:28:45.379748+00:00"
-      },
-      "claim": {
-        "worker_id": "fa1263b075ee46f580e269f2a00940cb-shard-0",
-        "claimed_at": "2026-11-05T00:28:45.611362+00:00",
-        "lease_expires_at": "2026-11-05T06:28:45.611362+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30798028",
       "prepared": {
@@ -100308,5 +100310,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T00:28:50.346075+00:00"
+  "updated_at": "2026-11-05T00:32:17.541378+00:00"
 }
