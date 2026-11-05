@@ -21719,17 +21719,19 @@
       "attempts": []
     },
     "18867": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14136207",
+          "target_video_id": "30820099",
+          "permanent": false,
+          "attempted_at": "2026-11-05T14:56:11.578716+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14136207",
         "display_name": "The Nightingale 1080p CZ Titulky",
         "planned_at": "2026-11-05T14:29:00.807998+00:00"
-      },
-      "claim": {
-        "worker_id": "c2ba5e8652b44b0f8431925d27ea0fac-shard-0",
-        "claimed_at": "2026-11-05T14:29:00.892799+00:00",
-        "lease_expires_at": "2026-11-05T20:29:00.892799+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30820099",
       "prepared": {
@@ -68561,5 +68563,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T14:56:08.486262+00:00"
+  "updated_at": "2026-11-05T14:56:11.578732+00:00"
 }
