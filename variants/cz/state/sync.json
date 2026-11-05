@@ -8472,13 +8472,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-05T10:28:53.216033+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-05T11:38:49.825217+00:00"
         },
         {
@@ -8487,6 +8480,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-05T12:11:09.384994+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:47:59.855067+00:00"
         }
       ],
       "last_plan": {
@@ -8500,12 +8500,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "c4bda920451e492c9c92a4dfe3723659-shard-0",
-        "claimed_at": "2026-11-05T12:46:19.389006+00:00",
-        "lease_expires_at": "2026-11-05T18:46:19.389006+00:00",
-        "run_id": "42018448939"
       }
     },
     "29922": {
@@ -28779,7 +28773,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:11:55.585777+00:00"
+        "planned_at": "2026-11-05T12:47:58.968849+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28787,6 +28781,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "092cd43520074c7d88640ce57b65620a-shard-0",
+        "claimed_at": "2026-11-05T12:47:59.469832+00:00",
+        "lease_expires_at": "2026-11-05T18:47:59.469832+00:00",
+        "run_id": "42018448939"
       }
     },
     "23584": {
@@ -63034,7 +63034,7 @@
       "last_plan": {
         "source_id": "22091523",
         "display_name": "Brothers (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:47:55.220474+00:00"
+        "planned_at": "2026-11-05T12:47:59.193594+00:00"
       }
     },
     "36817": {
@@ -106421,5 +106421,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:47:57.410905+00:00"
+  "updated_at": "2026-11-05T12:47:59.855086+00:00"
 }
