@@ -61200,17 +61200,19 @@
       }
     },
     "2141": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33331801",
+          "target_video_id": "30806924",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:29:11.790543+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33331801",
         "display_name": "Brave 1080p CZ Dabing",
         "planned_at": "2026-11-05T06:24:30.114062+00:00"
-      },
-      "claim": {
-        "worker_id": "ef2aafe4f3c9476ba2ca42a99f2a3e40-shard-0",
-        "claimed_at": "2026-11-05T06:24:30.391011+00:00",
-        "lease_expires_at": "2026-11-05T12:24:30.391011+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30806924",
       "prepared": {
@@ -103365,5 +103367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T06:28:36.968299+00:00"
+  "updated_at": "2026-11-05T06:29:11.790557+00:00"
 }
