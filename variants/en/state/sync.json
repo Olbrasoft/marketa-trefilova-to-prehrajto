@@ -20608,17 +20608,19 @@
       }
     },
     "1289": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29249237",
+          "target_video_id": "30802431",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:05:17.411951+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29249237",
         "display_name": "The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky",
         "planned_at": "2026-11-05T03:36:07.124466+00:00"
-      },
-      "claim": {
-        "worker_id": "8c44d5b9ab3c4584ad93ceea3b01a81f-shard-0",
-        "claimed_at": "2026-11-05T03:36:07.191817+00:00",
-        "lease_expires_at": "2026-11-05T09:36:07.191817+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30802431",
       "prepared": {
@@ -65062,5 +65064,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:04:29.316950+00:00"
+  "updated_at": "2026-11-05T04:05:17.411971+00:00"
 }
