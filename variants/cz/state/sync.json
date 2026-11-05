@@ -65985,17 +65985,19 @@
       }
     },
     "826": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27898716",
+          "target_video_id": "30831839",
+          "permanent": false,
+          "attempted_at": "2026-11-05T23:49:48.223445+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27898716",
         "display_name": "Identity Card (Občanský průkaz) 4K CZ Dabing",
         "planned_at": "2026-11-05T20:59:48.496704+00:00"
-      },
-      "claim": {
-        "worker_id": "12210f19bcfb42c1ba7ad6dfdd7bfd5b-shard-0",
-        "claimed_at": "2026-11-05T20:59:48.768854+00:00",
-        "lease_expires_at": "2026-11-06T02:59:48.768854+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30831839",
       "prepared": {
@@ -111855,5 +111857,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T23:48:24.384483+00:00"
+  "updated_at": "2026-11-05T23:49:48.223472+00:00"
 }
