@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-05T04:04:19.184993+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-05T04:39:05.285469+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-05T05:18:07.754841+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:49:37.649377+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "de5e93f886ab4f42a35e95c16bfeab6a-shard-0",
-        "claimed_at": "2026-11-05T05:49:34.599608+00:00",
-        "lease_expires_at": "2026-11-05T11:49:34.599608+00:00",
-        "run_id": "41955134709"
       }
     },
     "108": {
@@ -20413,7 +20407,7 @@
       "last_plan": {
         "source_id": "34617999",
         "display_name": "Good Morning, Vietnam 1080p CZ Titulky",
-        "planned_at": "2026-11-05T05:18:10.925731+00:00"
+        "planned_at": "2026-11-05T05:49:36.903615+00:00"
       },
       "previous_target_id": "30799955",
       "prepared": {
@@ -20421,6 +20415,12 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-05T01:54:19.564487+00:00",
         "relay_source_id": "34617999"
+      },
+      "claim": {
+        "worker_id": "c79d8dcfe9e74a4f945c6473a742b042-shard-0",
+        "claimed_at": "2026-11-05T05:49:37.268231+00:00",
+        "lease_expires_at": "2026-11-05T11:49:37.268231+00:00",
+        "run_id": "41955134709"
       }
     },
     "31177": {
@@ -20795,7 +20795,7 @@
       "last_plan": {
         "source_id": "18414247",
         "display_name": "The Death of Stalin 1080p CZ Titulky",
-        "planned_at": "2026-11-05T05:49:34.525146+00:00"
+        "planned_at": "2026-11-05T05:49:37.188597+00:00"
       }
     },
     "11561": {
@@ -65726,5 +65726,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T05:49:35.112697+00:00"
+  "updated_at": "2026-11-05T05:49:37.649396+00:00"
 }
