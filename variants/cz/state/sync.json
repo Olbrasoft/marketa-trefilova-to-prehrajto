@@ -62510,17 +62510,19 @@
       }
     },
     "1851": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31843062",
+          "target_video_id": "30816535",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:00:14.143213+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31843062",
         "display_name": "Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Dabing",
         "planned_at": "2026-11-05T11:46:09.026035+00:00"
-      },
-      "claim": {
-        "worker_id": "9630e6b1ddba44e7bdf6162ae11a468c-shard-0",
-        "claimed_at": "2026-11-05T11:46:09.350808+00:00",
-        "lease_expires_at": "2026-11-05T17:46:09.350808+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30816535",
       "prepared": {
@@ -105850,5 +105852,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T11:55:09.780614+00:00"
+  "updated_at": "2026-11-05T12:00:14.143233+00:00"
 }
