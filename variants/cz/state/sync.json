@@ -65282,17 +65282,19 @@
       }
     },
     "13744": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32736492",
+          "target_video_id": "30826961",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:34:05.767779+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32736492",
         "display_name": "Everybody's Fine 1080p CZ Dabing",
         "planned_at": "2026-11-05T18:24:26.086544+00:00"
-      },
-      "claim": {
-        "worker_id": "a7ed374145b547d58eecc84dfa13ef41-shard-0",
-        "claimed_at": "2026-11-05T18:24:26.283455+00:00",
-        "lease_expires_at": "2026-11-06T00:24:26.283455+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30826961",
       "prepared": {
@@ -109898,5 +109900,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:24:29.846880+00:00"
+  "updated_at": "2026-11-05T18:34:05.767796+00:00"
 }
