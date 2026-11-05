@@ -60564,17 +60564,19 @@
       "attempts": []
     },
     "11272": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27476888",
+          "target_video_id": "30803427",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:23:06.687548+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27476888",
         "display_name": "Panna a netvor 1080p CZ Dabing",
         "planned_at": "2026-11-05T04:07:51.471816+00:00"
-      },
-      "claim": {
-        "worker_id": "1d13fcf5cab84304aa824e1d877e5da6-shard-0",
-        "claimed_at": "2026-11-05T04:07:51.756118+00:00",
-        "lease_expires_at": "2026-11-05T10:07:51.756118+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30803427",
       "prepared": {
@@ -102058,5 +102060,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:16:39.414563+00:00"
+  "updated_at": "2026-11-05T04:23:06.687565+00:00"
 }
