@@ -63009,17 +63009,19 @@
       }
     },
     "2030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33794205",
+          "target_video_id": "30817881",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:48:27.744308+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33794205",
         "display_name": "Spy Game 1080p CZ Dabing",
         "planned_at": "2026-11-05T12:40:46.016255+00:00"
-      },
-      "claim": {
-        "worker_id": "c29372da86e04033b79742a6b98418ff-shard-0",
-        "claimed_at": "2026-11-05T12:40:46.296612+00:00",
-        "lease_expires_at": "2026-11-05T18:40:46.296612+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30817881",
       "prepared": {
@@ -106421,5 +106423,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:48:26.154220+00:00"
+  "updated_at": "2026-11-05T12:48:27.744331+00:00"
 }
