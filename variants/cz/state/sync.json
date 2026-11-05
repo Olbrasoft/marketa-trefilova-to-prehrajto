@@ -28867,13 +28867,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-05T16:09:46.637426+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-05T16:42:34.311233+00:00"
         },
         {
@@ -28882,12 +28875,19 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-05T17:13:30.160709+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:46:55.914083+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28442451",
         "display_name": "Synecdoche, New York SD CZ Dabing",
-        "planned_at": "2026-11-05T17:13:27.221971+00:00"
+        "planned_at": "2026-11-05T17:46:54.421834+00:00"
       },
       "previous_target_id": "30721408",
       "prepared": {
@@ -64963,14 +64963,25 @@
       "last_plan": {
         "source_id": "30755680",
         "display_name": "The Apprentice 1080p CZ Dabing",
-        "planned_at": "2026-11-05T17:46:51.203695+00:00"
+        "planned_at": "2026-11-05T17:46:54.555078+00:00"
+      },
+      "claim": {
+        "worker_id": "8af357c132e740f5a2281d930954f864-shard-0",
+        "claimed_at": "2026-11-05T17:46:54.824871+00:00",
+        "lease_expires_at": "2026-11-05T23:46:54.824871+00:00",
+        "run_id": "42054291199"
       }
     },
     "25116": {
       "attempts": []
     },
     "18797": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34763955",
+        "display_name": "Elle 1080p CZ Dabing",
+        "planned_at": "2026-11-05T17:46:54.635319+00:00"
+      }
     },
     "32055": {
       "attempts": []
@@ -109337,5 +109348,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:46:52.276530+00:00"
+  "updated_at": "2026-11-05T17:46:55.914107+00:00"
 }
