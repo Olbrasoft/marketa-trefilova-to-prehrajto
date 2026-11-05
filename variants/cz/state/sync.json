@@ -38564,7 +38564,7 @@
       "last_plan": {
         "source_id": "34784954",
         "display_name": "The Taste of Things 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:18:55.071686+00:00"
+        "planned_at": "2026-11-05T18:49:19.137385+00:00"
       },
       "previous_target_id": "30745770",
       "prepared": {
@@ -38572,6 +38572,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-03T00:24:04.738396+00:00",
         "relay_source_id": "34784954"
+      },
+      "claim": {
+        "worker_id": "3fa0a23f45ab421bbd7859dcce2f7c78-shard-0",
+        "claimed_at": "2026-11-05T18:49:19.429055+00:00",
+        "lease_expires_at": "2026-11-06T00:49:19.429055+00:00",
+        "run_id": "42054291199"
       }
     },
     "17605": {
@@ -50321,13 +50327,6 @@
           "source_id": "32819081",
           "target_video_id": "30776530",
           "permanent": false,
-          "attempted_at": "2026-11-05T17:13:51.863497+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32819081",
-          "target_video_id": "30776530",
-          "permanent": false,
           "attempted_at": "2026-11-05T17:47:29.135352+00:00"
         },
         {
@@ -50336,6 +50335,13 @@
           "target_video_id": "30776530",
           "permanent": false,
           "attempted_at": "2026-11-05T18:18:53.570432+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32819081",
+          "target_video_id": "30776530",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:49:19.535557+00:00"
         }
       ],
       "last_plan": {
@@ -50349,12 +50355,6 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-04T01:15:13.177284+00:00",
         "relay_source_id": "32819081"
-      },
-      "claim": {
-        "worker_id": "d83d4d2bd0c6458eabf97995aa41a756-shard-0",
-        "claimed_at": "2026-11-05T18:49:17.526595+00:00",
-        "lease_expires_at": "2026-11-06T00:49:17.526595+00:00",
-        "run_id": "42054291199"
       }
     },
     "23950": {
@@ -65411,7 +65411,7 @@
       "last_plan": {
         "source_id": "20973465",
         "display_name": "Lords of Dogtown 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:49:17.354257+00:00"
+        "planned_at": "2026-11-05T18:49:19.261918+00:00"
       }
     },
     "23020": {
@@ -110000,5 +110000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:49:17.657142+00:00"
+  "updated_at": "2026-11-05T18:49:19.535580+00:00"
 }
