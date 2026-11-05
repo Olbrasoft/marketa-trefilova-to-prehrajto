@@ -21935,17 +21935,19 @@
       "attempts": []
     },
     "1368": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9302798",
+          "target_video_id": "30822494",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:02:54.900395+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9302798",
         "display_name": "12th Man (Den 12. mann) (2017) 1080p CZ Titulky",
         "planned_at": "2026-11-05T15:54:17.480888+00:00"
-      },
-      "claim": {
-        "worker_id": "c63d2f8ee91e43c7947e893c1ff8f243-shard-0",
-        "claimed_at": "2026-11-05T15:54:17.526651+00:00",
-        "lease_expires_at": "2026-11-05T21:54:17.526651+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30822494",
       "prepared": {
@@ -68886,5 +68888,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:02:16.818645+00:00"
+  "updated_at": "2026-11-05T16:02:54.900416+00:00"
 }
