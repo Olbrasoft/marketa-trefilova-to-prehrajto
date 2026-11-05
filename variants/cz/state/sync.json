@@ -61554,17 +61554,19 @@
       }
     },
     "1888": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31098447",
+          "target_video_id": "30808731",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:47:36.974386+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31098447",
         "display_name": "Batman Returns 4K CZ Dabing",
         "planned_at": "2026-11-05T07:30:30.272410+00:00"
-      },
-      "claim": {
-        "worker_id": "a1fa804779434559b97729a55623feae-shard-0",
-        "claimed_at": "2026-11-05T07:30:30.751310+00:00",
-        "lease_expires_at": "2026-11-05T13:30:30.751310+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30808731",
       "prepared": {
@@ -103961,5 +103963,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:46:34.332650+00:00"
+  "updated_at": "2026-11-05T07:47:36.974400+00:00"
 }
