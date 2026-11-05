@@ -60538,17 +60538,19 @@
       "attempts": []
     },
     "13735": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27501728",
+          "target_video_id": "30803398",
+          "permanent": false,
+          "attempted_at": "2026-11-05T04:15:41.953966+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27501728",
         "display_name": "Irina Palm SD CZ Dabing",
         "planned_at": "2026-11-05T04:05:45.627802+00:00"
-      },
-      "claim": {
-        "worker_id": "b071790b8d744491be43d2cde8a432a7-shard-0",
-        "claimed_at": "2026-11-05T04:05:46.102908+00:00",
-        "lease_expires_at": "2026-11-05T10:05:46.102908+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30803398",
       "prepared": {
@@ -102025,5 +102027,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:07:55.290350+00:00"
+  "updated_at": "2026-11-05T04:15:41.953979+00:00"
 }
