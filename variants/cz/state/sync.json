@@ -8512,13 +8512,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-05T14:21:47.543410+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-05T14:58:22.181343+00:00"
         },
         {
@@ -8527,6 +8520,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-05T15:31:45.653844+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:08:37.311509+00:00"
         }
       ],
       "last_plan": {
@@ -22188,7 +22188,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-05T15:31:47.363514+00:00"
+        "planned_at": "2026-11-05T16:08:36.278572+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22196,6 +22196,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "e17cf76cdc1a4b7cb786b481c9aa6547-shard-0",
+        "claimed_at": "2026-11-05T16:08:36.577377+00:00",
+        "lease_expires_at": "2026-11-05T22:08:36.577377+00:00",
+        "run_id": "42054291199"
       }
     },
     "730": {
@@ -64499,7 +64505,7 @@
       "last_plan": {
         "source_id": "34907966",
         "display_name": "In the Mouth of Madness 1080p CZ Dabing",
-        "planned_at": "2026-11-05T16:08:34.727063+00:00"
+        "planned_at": "2026-11-05T16:08:36.399079+00:00"
       }
     },
     "1953": {
@@ -108465,5 +108471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:08:34.727076+00:00"
+  "updated_at": "2026-11-05T16:08:37.311530+00:00"
 }
