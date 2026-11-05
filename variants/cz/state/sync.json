@@ -65089,17 +65089,19 @@
       }
     },
     "1892": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27115841",
+          "target_video_id": "30826251",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:12:39.115836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27115841",
         "display_name": "Missing 1080p CZ Dabing",
         "planned_at": "2026-11-05T17:55:55.341955+00:00"
-      },
-      "claim": {
-        "worker_id": "c926d9aa78974901916504295631f9f4-shard-0",
-        "claimed_at": "2026-11-05T17:55:55.505011+00:00",
-        "lease_expires_at": "2026-11-05T23:55:55.505011+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30826251",
       "prepared": {
@@ -109518,5 +109520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:03:58.461481+00:00"
+  "updated_at": "2026-11-05T18:12:39.115856+00:00"
 }
