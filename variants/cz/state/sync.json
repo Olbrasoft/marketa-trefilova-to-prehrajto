@@ -62616,17 +62616,19 @@
       }
     },
     "2078": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22283831",
+          "target_video_id": "30816768",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:00:45.082528+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22283831",
         "display_name": "Kung Fu Panda 3 1080p CZ Dabing",
         "planned_at": "2026-11-05T11:55:05.749186+00:00"
-      },
-      "claim": {
-        "worker_id": "7c67afec681742ae872c446118b9e073-shard-0",
-        "claimed_at": "2026-11-05T11:55:06.022344+00:00",
-        "lease_expires_at": "2026-11-05T17:55:06.022344+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30816768",
       "prepared": {
@@ -105870,5 +105872,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:00:23.856588+00:00"
+  "updated_at": "2026-11-05T12:00:45.082545+00:00"
 }
