@@ -65168,17 +65168,19 @@
       }
     },
     "2089": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27522644",
+          "target_video_id": "30826476",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:13:46.999578+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27522644",
         "display_name": "Alive 1080p CZ Dabing",
         "planned_at": "2026-11-05T18:03:54.183147+00:00"
-      },
-      "claim": {
-        "worker_id": "067ec27b3c3e463399ce68368dc39812-shard-0",
-        "claimed_at": "2026-11-05T18:03:54.372709+00:00",
-        "lease_expires_at": "2026-11-06T00:03:54.372709+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30826476",
       "prepared": {
@@ -109538,5 +109540,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:12:44.785560+00:00"
+  "updated_at": "2026-11-05T18:13:46.999597+00:00"
 }
