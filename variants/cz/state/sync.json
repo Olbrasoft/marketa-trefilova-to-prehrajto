@@ -59732,17 +59732,19 @@
       }
     },
     "21994": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24512243",
+          "target_video_id": "30798809",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:13:04.779498+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24512243",
         "display_name": "The Ballad of Cable Hogue SD CZ Dabing",
         "planned_at": "2026-11-05T01:08:29.764945+00:00"
-      },
-      "claim": {
-        "worker_id": "a89eef88b5e14a7f8596e557095506aa-shard-0",
-        "claimed_at": "2026-11-05T01:08:29.988903+00:00",
-        "lease_expires_at": "2026-11-05T07:08:29.988903+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30798809",
       "prepared": {
@@ -100775,5 +100777,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:08:52.148783+00:00"
+  "updated_at": "2026-11-05T01:13:04.779518+00:00"
 }
