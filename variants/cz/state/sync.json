@@ -28867,13 +28867,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-05T15:32:17.270573+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-05T16:09:46.637426+00:00"
         },
         {
@@ -28882,6 +28875,13 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-05T16:42:34.311233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:13:30.160709+00:00"
         }
       ],
       "last_plan": {
@@ -55571,7 +55571,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-05T16:42:35.819061+00:00"
+        "planned_at": "2026-11-05T17:13:29.197839+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -55579,6 +55579,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "af1c1f42e9614cfcbda34c10d27c78a1-shard-0",
+        "claimed_at": "2026-11-05T17:13:29.520568+00:00",
+        "lease_expires_at": "2026-11-05T23:13:29.520568+00:00",
+        "run_id": "42054291199"
       }
     },
     "24818": {
@@ -64769,7 +64775,7 @@
       "last_plan": {
         "source_id": "10798157",
         "display_name": "Whatever Works SD CZ Dabing",
-        "planned_at": "2026-11-05T17:13:27.353432+00:00"
+        "planned_at": "2026-11-05T17:13:29.333190+00:00"
       }
     },
     "11588": {
@@ -108915,5 +108921,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:13:27.353453+00:00"
+  "updated_at": "2026-11-05T17:13:30.160733+00:00"
 }
