@@ -64916,17 +64916,19 @@
       }
     },
     "2052": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31527897",
+          "target_video_id": "30825380",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:43:59.597812+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31527897",
         "display_name": "Timecrimes (Los cronocrímenes) 1080p CZ Dabing",
         "planned_at": "2026-11-05T17:32:24.621641+00:00"
-      },
-      "claim": {
-        "worker_id": "aa1e4ca9ecdc415aa855dfb6678fc2fd-shard-0",
-        "claimed_at": "2026-11-05T17:32:24.838426+00:00",
-        "lease_expires_at": "2026-11-05T23:32:24.838426+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30825380",
       "prepared": {
@@ -109310,5 +109312,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:32:28.406139+00:00"
+  "updated_at": "2026-11-05T17:43:59.597833+00:00"
 }
