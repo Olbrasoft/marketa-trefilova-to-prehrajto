@@ -62883,17 +62883,19 @@
       }
     },
     "33020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32999295",
+          "target_video_id": "30817634",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:35:14.176346+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32999295",
         "display_name": "Three Kings 4K CZ Dabing",
         "planned_at": "2026-11-05T12:30:07.145999+00:00"
-      },
-      "claim": {
-        "worker_id": "b88f16b968db474ca42d0a102afb82e2-shard-0",
-        "claimed_at": "2026-11-05T12:30:07.445339+00:00",
-        "lease_expires_at": "2026-11-05T18:30:07.445339+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30817634",
       "prepared": {
@@ -62908,7 +62910,13 @@
       "last_plan": {
         "source_id": "34076726",
         "display_name": "Four Weddings and a Funeral 1080p CZ Dabing",
-        "planned_at": "2026-11-05T12:34:28.200829+00:00"
+        "planned_at": "2026-11-05T12:34:53.030446+00:00"
+      },
+      "claim": {
+        "worker_id": "84860590cf114890be6b4468c266522d-shard-0",
+        "claimed_at": "2026-11-05T12:34:53.335792+00:00",
+        "lease_expires_at": "2026-11-05T18:34:53.335792+00:00",
+        "run_id": "42018448939"
       }
     },
     "2005": {
@@ -106310,5 +106318,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:34:50.390243+00:00"
+  "updated_at": "2026-11-05T12:35:14.176363+00:00"
 }
