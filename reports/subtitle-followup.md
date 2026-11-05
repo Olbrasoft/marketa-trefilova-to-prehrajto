@@ -420,3 +420,4 @@ Attach subtitles only after target processing has finished.
 | 12th Man (Den 12. mann) (2017) 1080p CZ Titulky | 30822494 | https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Song Sung Blue 1080p CZ Titulky | 30824468 | https://sdilej.cz/33348083/song-sung-blue-2025-cz-titulky.mp4 | Extract Czech track from exact source after processing |
 | A Million Miles Away 4K CZ Titulky | 30828699 | https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv | Extract Czech track from exact source after processing |
+| The Painter and the Thief 1080p CZ Titulky | 30829417 | https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
