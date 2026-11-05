@@ -65734,17 +65734,19 @@
       "attempts": []
     },
     "11088": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18541497",
+          "target_video_id": "30830736",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:34:14.524022+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18541497",
         "display_name": "The Poseidon Adventure 1080p CZ Dabing",
         "planned_at": "2026-11-05T20:28:05.798904+00:00"
-      },
-      "claim": {
-        "worker_id": "69f2961eca514095ad8178109b534190-shard-0",
-        "claimed_at": "2026-11-05T20:28:06.092228+00:00",
-        "lease_expires_at": "2026-11-06T02:28:06.092228+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30830736",
       "prepared": {
@@ -110530,5 +110532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:34:11.123786+00:00"
+  "updated_at": "2026-11-05T20:34:14.524042+00:00"
 }
