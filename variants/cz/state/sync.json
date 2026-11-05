@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-04T23:31:02.665780+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-05T00:01:39.164248+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-05T00:33:26.874364+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:08:17.985820+00:00"
         }
       ],
       "last_plan": {
@@ -6955,12 +6955,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "0c0b973bfac740748850e53f2440143b-shard-0",
-        "claimed_at": "2026-11-05T01:08:15.514629+00:00",
-        "lease_expires_at": "2026-11-05T07:08:15.514629+00:00",
-        "run_id": "41924666202"
       }
     },
     "321": {
@@ -21562,7 +21556,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T00:33:30.170770+00:00"
+        "planned_at": "2026-11-05T01:08:17.397586+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21570,6 +21564,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "204bae0b21584b4aaddf06f3cec12614-shard-0",
+        "claimed_at": "2026-11-05T01:08:17.867189+00:00",
+        "lease_expires_at": "2026-11-05T07:08:17.867189+00:00",
+        "run_id": "41924666202"
       }
     },
     "677": {
@@ -59734,7 +59734,7 @@
       "last_plan": {
         "source_id": "24512243",
         "display_name": "The Ballad of Cable Hogue SD CZ Dabing",
-        "planned_at": "2026-11-05T01:08:15.239164+00:00"
+        "planned_at": "2026-11-05T01:08:17.583691+00:00"
       }
     },
     "13748": {
@@ -100742,5 +100742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:08:15.634083+00:00"
+  "updated_at": "2026-11-05T01:08:17.985850+00:00"
 }
