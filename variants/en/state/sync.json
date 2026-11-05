@@ -20481,17 +20481,19 @@
       "attempts": []
     },
     "1428": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24184712",
+          "target_video_id": "30801660",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:12:41.841374+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24184712",
         "display_name": "Good Time 1080p CZ Titulky",
         "planned_at": "2026-11-05T02:59:24.660097+00:00"
-      },
-      "claim": {
-        "worker_id": "fe7ea9774275465f9ab48da29ab3f92c-shard-0",
-        "claimed_at": "2026-11-05T02:59:24.898064+00:00",
-        "lease_expires_at": "2026-11-05T08:59:24.898064+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30801660",
       "prepared": {
@@ -64686,5 +64688,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T03:10:01.530265+00:00"
+  "updated_at": "2026-11-05T03:12:41.841390+00:00"
 }
