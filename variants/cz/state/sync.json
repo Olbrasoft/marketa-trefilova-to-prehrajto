@@ -60828,17 +60828,19 @@
       "attempts": []
     },
     "18053": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32468971",
+          "target_video_id": "30804129",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:01:20.790915+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32468971",
         "display_name": "Iron Man 3 (Iron Man Three) 4K CZ Dabing",
         "planned_at": "2026-11-05T04:42:16.577127+00:00"
-      },
-      "claim": {
-        "worker_id": "e92db92d4f3c4f1bb2452166e1298e64-shard-0",
-        "claimed_at": "2026-11-05T04:42:16.843517+00:00",
-        "lease_expires_at": "2026-11-05T10:42:16.843517+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30804129",
       "prepared": {
@@ -102502,5 +102504,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T04:52:04.099434+00:00"
+  "updated_at": "2026-11-05T05:01:20.790933+00:00"
 }
