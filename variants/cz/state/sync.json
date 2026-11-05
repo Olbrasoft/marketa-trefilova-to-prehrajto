@@ -28867,13 +28867,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-05T01:14:13.650815+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-05T01:51:03.059273+00:00"
         },
         {
@@ -28882,6 +28875,13 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-05T02:21:56.014226+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:58:55.745875+00:00"
         }
       ],
       "last_plan": {
@@ -55571,7 +55571,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-05T02:21:55.321887+00:00"
+        "planned_at": "2026-11-05T02:58:54.657434+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -55579,6 +55579,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "a00080d6d0b04e52af42ef4e9df96c28-shard-0",
+        "claimed_at": "2026-11-05T02:58:55.232675+00:00",
+        "lease_expires_at": "2026-11-05T08:58:55.232675+00:00",
+        "run_id": "41955134709"
       }
     },
     "24818": {
@@ -60139,7 +60145,7 @@
       "last_plan": {
         "source_id": "13934205",
         "display_name": "Hell in the Pacific SD CZ Dabing",
-        "planned_at": "2026-11-05T02:58:52.668982+00:00"
+        "planned_at": "2026-11-05T02:58:54.864489+00:00"
       }
     },
     "846": {
@@ -101465,5 +101471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T02:58:52.669027+00:00"
+  "updated_at": "2026-11-05T02:58:55.745894+00:00"
 }
