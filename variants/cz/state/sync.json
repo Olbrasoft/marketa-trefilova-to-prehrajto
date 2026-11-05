@@ -62338,17 +62338,19 @@
       }
     },
     "2130": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29555573",
+          "target_video_id": "30814941",
+          "permanent": false,
+          "attempted_at": "2026-11-05T10:56:44.824578+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29555573",
         "display_name": "Rocky Balboa 1080p CZ Dabing",
         "planned_at": "2026-11-05T10:49:14.922367+00:00"
-      },
-      "claim": {
-        "worker_id": "35962495e21f4b36b2e4253b57c1571e-shard-0",
-        "claimed_at": "2026-11-05T10:49:15.194199+00:00",
-        "lease_expires_at": "2026-11-05T16:49:15.194199+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30814941",
       "prepared": {
@@ -105398,5 +105400,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T10:51:53.643858+00:00"
+  "updated_at": "2026-11-05T10:56:44.824601+00:00"
 }
