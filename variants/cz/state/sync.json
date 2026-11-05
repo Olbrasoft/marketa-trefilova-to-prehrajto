@@ -37187,13 +37187,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-05T00:42:33.415245+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-05T01:15:21.821182+00:00"
         },
         {
@@ -37202,6 +37195,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-05T01:52:07.945606+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-05T02:22:36.924772+00:00"
         }
       ],
       "last_plan": {
@@ -37215,12 +37215,6 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-02T22:56:31.304569+00:00",
         "relay_source_id": "35376993"
-      },
-      "claim": {
-        "worker_id": "e41c66e7a1024a4088abc1e4a685b03a-shard-0",
-        "claimed_at": "2026-11-05T02:22:34.470847+00:00",
-        "lease_expires_at": "2026-11-05T08:22:34.470847+00:00",
-        "run_id": "41924666202"
       }
     },
     "21768": {
@@ -40988,7 +40982,7 @@
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-05T01:52:09.639045+00:00"
+        "planned_at": "2026-11-05T02:22:36.354518+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -40996,6 +40990,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-03T03:58:27.242114+00:00",
         "relay_source_id": "34826023"
+      },
+      "claim": {
+        "worker_id": "c556e5ab04994b359608d5ec5b986560-shard-0",
+        "claimed_at": "2026-11-05T02:22:36.757573+00:00",
+        "lease_expires_at": "2026-11-05T08:22:36.757573+00:00",
+        "run_id": "41924666202"
       }
     },
     "34337": {
@@ -60019,7 +60019,7 @@
       "last_plan": {
         "source_id": "7666570",
         "display_name": "Grease: Live (Grease Live) SD CZ Dabing",
-        "planned_at": "2026-11-05T02:22:34.250126+00:00"
+        "planned_at": "2026-11-05T02:22:36.530930+00:00"
       }
     },
     "21265": {
@@ -101366,5 +101366,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T02:22:34.614960+00:00"
+  "updated_at": "2026-11-05T02:22:36.924809+00:00"
 }
