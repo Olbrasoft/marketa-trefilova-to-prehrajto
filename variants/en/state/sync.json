@@ -21662,17 +21662,19 @@
       "attempts": []
     },
     "18533": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402811",
+          "target_video_id": "30819315",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:50:20.610721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402811",
         "display_name": "Loveable (Elskling) 1080p CZ Titulky",
         "planned_at": "2026-11-05T13:47:49.981432+00:00"
-      },
-      "claim": {
-        "worker_id": "ce84a44ecdd046ae86f8550e481876e8-shard-0",
-        "claimed_at": "2026-11-05T13:47:50.237599+00:00",
-        "lease_expires_at": "2026-11-05T19:47:50.237599+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30819315",
       "prepared": {
@@ -68226,5 +68228,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:47:53.732575+00:00"
+  "updated_at": "2026-11-05T13:50:20.610753+00:00"
 }
