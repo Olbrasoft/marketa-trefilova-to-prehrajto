@@ -22183,17 +22183,19 @@
       "attempts": []
     },
     "19990": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16573618",
+          "target_video_id": "30830196",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:27:11.154531+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16573618",
         "display_name": "Little Boy 1080p CZ Titulky",
         "planned_at": "2026-11-05T20:12:11.664607+00:00"
-      },
-      "claim": {
-        "worker_id": "48707f93d4004f14b95fcb10c40ef006-shard-0",
-        "claimed_at": "2026-11-05T20:12:12.008248+00:00",
-        "lease_expires_at": "2026-11-06T02:12:12.008248+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30830196",
       "prepared": {
@@ -70017,5 +70019,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:14:09.381582+00:00"
+  "updated_at": "2026-11-05T20:27:11.154554+00:00"
 }
