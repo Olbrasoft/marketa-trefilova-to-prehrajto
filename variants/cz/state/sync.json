@@ -16341,13 +16341,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-05T01:18:06.116137+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-05T01:54:47.156100+00:00"
         },
         {
@@ -16356,12 +16349,19 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-05T02:44:16.807242+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-05T03:14:23.929295+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-05T02:44:15.178831+00:00"
+        "planned_at": "2026-11-05T03:14:22.096873+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -60291,7 +60291,13 @@
       "last_plan": {
         "source_id": "33692518",
         "display_name": "Delusions of Grandeur (La Folie des grandeurs) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T03:14:18.508819+00:00"
+        "planned_at": "2026-11-05T03:14:22.285856+00:00"
+      },
+      "claim": {
+        "worker_id": "78b4c9053c5243bb86ff691f25013dd9-shard-0",
+        "claimed_at": "2026-11-05T03:14:22.742683+00:00",
+        "lease_expires_at": "2026-11-05T09:14:22.742683+00:00",
+        "run_id": "41955134709"
       }
     },
     "37347": {
@@ -60301,7 +60307,12 @@
       "attempts": []
     },
     "1792": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19070882",
+        "display_name": "Assassination (암살) (2015) SD CZ Dabing",
+        "planned_at": "2026-11-05T03:14:22.389113+00:00"
+      }
     },
     "24319": {
       "attempts": []
@@ -101554,5 +101565,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T03:14:20.268352+00:00"
+  "updated_at": "2026-11-05T03:14:23.929314+00:00"
 }
