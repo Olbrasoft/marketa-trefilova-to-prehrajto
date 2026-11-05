@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T13:36:29.962715+00:00
+Poslední aktualizace (UTC): 2026-11-05T13:36:32.068710+00:00
 
 Zkontrolováno videí: 410. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 327, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 18, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 328, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 17, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -72,7 +72,6 @@ Kontrol: 5; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 0. Důvod 
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-05T13:17:10.642957+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T13:17:32.989995+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T13:26:27.054821+00:00 |
-| [Deconstructing Harry SD CZ Titulky](https://prehraj.to/deconstructing-harry-sd-cz-titulky-mkv/c540c92f7e5bc241) (ID 30817729) | [Sdílej 35114279](https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv) | target_unavailable | 2026-11-05T12:35:26.547585+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T13:18:34.989628+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T13:17:20.975394+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T13:18:13.888686+00:00 |
