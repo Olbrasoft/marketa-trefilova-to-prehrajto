@@ -61229,7 +61229,7 @@
       "last_plan": {
         "source_id": "29269595",
         "display_name": "Mean Girls 4K CZ Dabing",
-        "planned_at": "2026-11-05T06:22:49.210725+00:00"
+        "planned_at": "2026-11-05T07:01:33.285189+00:00"
       },
       "previous_target_id": "30806869",
       "prepared": {
@@ -61237,6 +61237,12 @@
         "size_bytes": 5116328922,
         "prepared_at": "2026-11-05T06:22:52.927920+00:00",
         "relay_source_id": "29269595"
+      },
+      "claim": {
+        "worker_id": "2994ad75fe324a22ac6b0e3838b4e974-shard-0",
+        "claimed_at": "2026-11-05T07:01:33.729016+00:00",
+        "lease_expires_at": "2026-11-05T13:01:33.729016+00:00",
+        "run_id": "41981017097"
       }
     },
     "2141": {
@@ -61336,17 +61342,19 @@
       }
     },
     "2020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34854442",
+          "reason": "Source detail has no authenticated download link; source_id=34854442",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:01:33.962288+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34854442",
         "display_name": "Jumanji 4K CZ Dabing",
         "planned_at": "2026-11-05T07:01:30.236576+00:00"
-      },
-      "claim": {
-        "worker_id": "4bd7b59361b34815a47dc03d86c8919a-shard-0",
-        "claimed_at": "2026-11-05T07:01:30.698769+00:00",
-        "lease_expires_at": "2026-11-05T13:01:30.698769+00:00",
-        "run_id": "41981017097"
       }
     },
     "23968": {
@@ -61354,7 +61362,7 @@
       "last_plan": {
         "source_id": "29565008",
         "display_name": "Aimée & Jaguar SD CZ Dabing",
-        "planned_at": "2026-11-05T07:01:30.345389+00:00"
+        "planned_at": "2026-11-05T07:01:33.477968+00:00"
       }
     },
     "2012": {
@@ -103469,5 +103477,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:01:31.522452+00:00"
+  "updated_at": "2026-11-05T07:01:33.962299+00:00"
 }
