@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T07:09:16.400256+00:00
+Poslední aktualizace (UTC): 2026-11-05T07:09:20.005783+00:00
 
 Zkontrolováno videí: 400. Další stránka kontroly: 0.
 
@@ -76,7 +76,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvod
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T04:24:22.055325+00:00 |
 | [Good Morning, Vietnam 1080p CZ Titulky](https://prehraj.to/good-morning-vietnam-1080p-cz-titulky-mkv/1fbf3afa3ae1f33e) (ID 30799955) | [Sdílej 34617999](https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T04:24:36.588115+00:00 |
 | [Good Time 1080p CZ Titulky](https://prehraj.to/good-time-1080p-cz-titulky-mkv/db1f0cec6b81c6b3) (ID 30801660) | [Sdílej 24184712](https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv) | target_unavailable | 2026-11-05T05:04:52.767809+00:00 |
-| [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T04:15:29.356428+00:00 |
+| [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T07:09:20.005723+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T04:16:17.625894+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-05T04:16:31.561810+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-05T04:16:20.869615+00:00 |
