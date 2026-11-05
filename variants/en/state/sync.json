@@ -20756,13 +20756,6 @@
     "1399": {
       "attempts": [
         {
-          "status": "source_refresh_failed",
-          "source_id": "35287106",
-          "reason": "Request failed for https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4 (HTTP None)",
-          "permanent": false,
-          "attempted_at": "2026-11-05T06:04:46.323975+00:00"
-        },
-        {
           "status": "target_processing",
           "source_id": "35287106",
           "target_video_id": "30807154",
@@ -20775,12 +20768,19 @@
           "target_video_id": "30807154",
           "permanent": false,
           "attempted_at": "2026-11-05T07:24:08.506728+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35287106",
+          "target_video_id": "30807154",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:58:54.219103+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35287106",
         "display_name": "The Way Back (2010) 1080p CZ Titulky",
-        "planned_at": "2026-11-05T07:24:06.999771+00:00"
+        "planned_at": "2026-11-05T07:58:52.716436+00:00"
       },
       "previous_target_id": "30807154",
       "prepared": {
@@ -66417,5 +66417,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:48:38.917352+00:00"
+  "updated_at": "2026-11-05T07:58:54.219120+00:00"
 }
