@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T05:14:51.929460+00:00
+Poslední aktualizace (UTC): 2026-11-05T05:14:54.036621+00:00
 
 Zkontrolováno videí: 396. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 311, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 20, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 311, `attached_verified`: 10, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 16, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 21, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -72,6 +72,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-05T04:15:17.122837+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T04:15:40.866379+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T04:24:29.380940+00:00 |
+| [Clue 1080p CZ Titulky](https://prehraj.to/clue-1080p-cz-titulky-mkv/000da5597d6d2a44) (ID 30804709) | [Sdílej 33563795](https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-05T05:14:53.814165+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T04:24:22.055325+00:00 |
 | [Good Morning, Vietnam 1080p CZ Titulky](https://prehraj.to/good-morning-vietnam-1080p-cz-titulky-mkv/1fbf3afa3ae1f33e) (ID 30799955) | [Sdílej 34617999](https://sdilej.cz/34617999/good.morning.vietnam.1987.1080p.bluray.dl.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T04:24:36.588115+00:00 |
 | [Good Time 1080p CZ Titulky](https://prehraj.to/good-time-1080p-cz-titulky-mkv/db1f0cec6b81c6b3) (ID 30801660) | [Sdílej 24184712](https://sdilej.cz/24184712/dobry-casy-good-time-2017-cz-tit-x264-en-dab-cz-tit-.mkv) | target_unavailable | 2026-11-05T05:04:52.767809+00:00 |
