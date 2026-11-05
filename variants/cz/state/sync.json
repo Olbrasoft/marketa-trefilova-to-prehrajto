@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-05T04:40:32.255821+00:00"
+        "planned_at": "2026-11-05T05:19:59.243456+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "fe1925837c5143cd81d8e1e1373f0a22-shard-0",
+        "claimed_at": "2026-11-05T05:19:59.797383+00:00",
+        "lease_expires_at": "2026-11-05T11:19:59.797383+00:00",
+        "run_id": "41955134709"
       }
     },
     "29922": {
@@ -60930,17 +60936,19 @@
       "attempts": []
     },
     "1937": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31555891",
+          "target_video_id": "30804386",
+          "permanent": false,
+          "attempted_at": "2026-11-05T05:21:34.326004+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31555891",
         "display_name": "Don't Look Up 4K CZ Dabing",
         "planned_at": "2026-11-05T04:52:00.325706+00:00"
-      },
-      "claim": {
-        "worker_id": "8ba5e533be9348939164ad8fe90eb65c-shard-0",
-        "claimed_at": "2026-11-05T04:52:00.621635+00:00",
-        "lease_expires_at": "2026-11-05T10:52:00.621635+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30804386",
       "prepared": {
@@ -60955,7 +60963,7 @@
       "last_plan": {
         "source_id": "34025950",
         "display_name": "I, Robot 4K CZ Dabing",
-        "planned_at": "2026-11-05T05:19:56.055309+00:00"
+        "planned_at": "2026-11-05T05:19:59.450498+00:00"
       }
     },
     "26851": {
@@ -102842,5 +102850,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T05:19:57.577005+00:00"
+  "updated_at": "2026-11-05T05:21:34.326020+00:00"
 }
