@@ -18848,13 +18848,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-05T05:40:44.250024+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-05T06:20:26.278630+00:00"
         },
         {
@@ -18863,12 +18856,19 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-05T06:59:43.717684+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:30:31.827692+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-05T06:59:40.487806+00:00"
+        "planned_at": "2026-11-05T07:30:30.064833+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -61544,11 +61544,22 @@
       "last_plan": {
         "source_id": "31098447",
         "display_name": "Batman Returns 4K CZ Dabing",
-        "planned_at": "2026-11-05T07:30:25.200491+00:00"
+        "planned_at": "2026-11-05T07:30:30.272410+00:00"
+      },
+      "claim": {
+        "worker_id": "a1fa804779434559b97729a55623feae-shard-0",
+        "claimed_at": "2026-11-05T07:30:30.751310+00:00",
+        "lease_expires_at": "2026-11-05T13:30:30.751310+00:00",
+        "run_id": "41981017097"
       }
     },
     "2040": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33617222",
+        "display_name": "There's Something About Mary 4K CZ Dabing",
+        "planned_at": "2026-11-05T07:30:30.385171+00:00"
+      }
     },
     "19474": {
       "attempts": []
@@ -103911,5 +103922,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:30:27.044641+00:00"
+  "updated_at": "2026-11-05T07:30:31.827707+00:00"
 }
