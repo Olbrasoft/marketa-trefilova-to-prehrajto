@@ -65766,17 +65766,19 @@
       "attempts": []
     },
     "2100": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26362241",
+          "target_video_id": "30830954",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:38:07.508028+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26362241",
         "display_name": "11:14 1080p CZ Dabing",
         "planned_at": "2026-11-05T20:34:16.836111+00:00"
-      },
-      "claim": {
-        "worker_id": "3e927eb280e6449f995e1f7d77001673-shard-0",
-        "claimed_at": "2026-11-05T20:34:17.218445+00:00",
-        "lease_expires_at": "2026-11-06T02:34:17.218445+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30830954",
       "prepared": {
@@ -110743,5 +110745,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:34:28.164926+00:00"
+  "updated_at": "2026-11-05T20:38:07.508052+00:00"
 }
