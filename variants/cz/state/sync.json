@@ -65422,17 +65422,19 @@
       }
     },
     "23020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33652005",
+          "target_video_id": "30827680",
+          "permanent": false,
+          "attempted_at": "2026-11-05T19:04:06.763850+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33652005",
         "display_name": "The Adventures of Baron Munchausen 1080p CZ Dabing",
         "planned_at": "2026-11-05T18:50:00.315747+00:00"
-      },
-      "claim": {
-        "worker_id": "30740e3ba6a54949a4e0a1ab3128c026-shard-0",
-        "claimed_at": "2026-11-05T18:50:00.483163+00:00",
-        "lease_expires_at": "2026-11-06T00:50:00.483163+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30827680",
       "prepared": {
@@ -110020,5 +110022,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:50:04.224114+00:00"
+  "updated_at": "2026-11-05T19:04:06.763876+00:00"
 }
