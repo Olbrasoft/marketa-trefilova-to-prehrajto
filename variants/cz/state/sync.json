@@ -63162,17 +63162,19 @@
       }
     },
     "1928": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34296444",
+          "target_video_id": "30818143",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:00:14.594844+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34296444",
         "display_name": "The French Dispatch (The French Dispatch of the Liberty, Kansas Evening Sun) 1080p CZ Dabing",
         "planned_at": "2026-11-05T12:53:11.469262+00:00"
-      },
-      "claim": {
-        "worker_id": "f80f4e6d0e1b40a9864fdf6530548bc8-shard-0",
-        "claimed_at": "2026-11-05T12:53:11.775483+00:00",
-        "lease_expires_at": "2026-11-05T18:53:11.775483+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30818143",
       "prepared": {
@@ -106578,5 +106580,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:59:24.294076+00:00"
+  "updated_at": "2026-11-05T13:00:14.594862+00:00"
 }
