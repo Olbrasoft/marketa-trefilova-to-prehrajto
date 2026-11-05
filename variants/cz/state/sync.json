@@ -59648,17 +59648,19 @@
       }
     },
     "36895": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30147407",
+          "target_video_id": "30798613",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:07:02.277994+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30147407",
         "display_name": "Endurance 1080p CZ Dabing",
         "planned_at": "2026-11-05T00:58:01.725368+00:00"
-      },
-      "claim": {
-        "worker_id": "0f8aee5ee6e34e269286923350830a11-shard-0",
-        "claimed_at": "2026-11-05T00:58:01.968473+00:00",
-        "lease_expires_at": "2026-11-05T06:58:01.968473+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30798613",
       "prepared": {
@@ -100721,5 +100723,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:01:08.143577+00:00"
+  "updated_at": "2026-11-05T01:07:02.278014+00:00"
 }
