@@ -62844,17 +62844,19 @@
       }
     },
     "13126": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31440490",
+          "target_video_id": "30817496",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:34:50.390225+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31440490",
         "display_name": "About a Boy 1080p CZ Dabing",
         "planned_at": "2026-11-05T12:24:37.035946+00:00"
-      },
-      "claim": {
-        "worker_id": "681d43ed1a80487e9bec656f0b20e049-shard-0",
-        "claimed_at": "2026-11-05T12:24:37.332238+00:00",
-        "lease_expires_at": "2026-11-05T18:24:37.332238+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30817496",
       "prepared": {
@@ -106308,5 +106310,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:34:28.200846+00:00"
+  "updated_at": "2026-11-05T12:34:50.390243+00:00"
 }
