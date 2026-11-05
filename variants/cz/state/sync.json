@@ -61900,17 +61900,19 @@
       }
     },
     "2008": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33222748",
+          "reason": "Request failed for https://sdilej.cz/33222748/stazista.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:08:27.445058+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33222748",
         "display_name": "The Intern 4K CZ Dabing",
         "planned_at": "2026-11-05T09:07:40.727587+00:00"
-      },
-      "claim": {
-        "worker_id": "c5f0569c8de142fba08a47ad81b1fc0a-shard-0",
-        "claimed_at": "2026-11-05T09:07:41.181356+00:00",
-        "lease_expires_at": "2026-11-05T15:07:41.181356+00:00",
-        "run_id": "41981017097"
       }
     },
     "2067": {
@@ -61918,7 +61920,13 @@
       "last_plan": {
         "source_id": "32802080",
         "display_name": "War Dogs 1080p CZ Dabing",
-        "planned_at": "2026-11-05T09:07:58.324668+00:00"
+        "planned_at": "2026-11-05T09:08:00.982825+00:00"
+      },
+      "claim": {
+        "worker_id": "f61061c1148a4ef49661089f2131b2f8-shard-0",
+        "claimed_at": "2026-11-05T09:08:01.222181+00:00",
+        "lease_expires_at": "2026-11-05T15:08:01.222181+00:00",
+        "run_id": "41981017097"
       }
     },
     "2151": {
@@ -104531,5 +104539,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:07:59.607199+00:00"
+  "updated_at": "2026-11-05T09:08:27.445075+00:00"
 }
