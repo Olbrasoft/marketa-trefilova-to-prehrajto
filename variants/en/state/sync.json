@@ -22531,17 +22531,19 @@
       "attempts": []
     },
     "33666": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8431051",
+          "target_video_id": "30835226",
+          "permanent": false,
+          "attempted_at": "2026-11-05T23:00:42.921015+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8431051",
         "display_name": "Reprise SD CZ Titulky",
         "planned_at": "2026-11-05T22:48:46.141766+00:00"
-      },
-      "claim": {
-        "worker_id": "b8ea0aa0b2fe4c2e8d14d24338c2530e-shard-0",
-        "claimed_at": "2026-11-05T22:48:46.213473+00:00",
-        "lease_expires_at": "2026-11-06T04:48:46.213473+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30835226",
       "prepared": {
@@ -70847,5 +70849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T22:49:17.741022+00:00"
+  "updated_at": "2026-11-05T23:00:42.921036+00:00"
 }
