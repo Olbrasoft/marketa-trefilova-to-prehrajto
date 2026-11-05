@@ -63994,17 +63994,19 @@
       }
     },
     "34966": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34864235",
+          "target_video_id": "30819637",
+          "permanent": false,
+          "attempted_at": "2026-11-05T14:18:31.800256+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34864235",
         "display_name": "The Drama 4K CZ Dabing",
         "planned_at": "2026-11-05T14:06:28.087748+00:00"
-      },
-      "claim": {
-        "worker_id": "0dfe35cd75234d19ad921144ad8d9469-shard-0",
-        "claimed_at": "2026-11-05T14:06:28.391815+00:00",
-        "lease_expires_at": "2026-11-05T20:06:28.391815+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30819637",
       "prepared": {
@@ -107579,5 +107581,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T14:15:35.875496+00:00"
+  "updated_at": "2026-11-05T14:18:31.800273+00:00"
 }
