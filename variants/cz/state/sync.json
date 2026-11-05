@@ -65463,17 +65463,19 @@
       "attempts": []
     },
     "34031": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34786491",
+          "target_video_id": "30828124",
+          "permanent": false,
+          "attempted_at": "2026-11-05T19:08:54.906244+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786491",
         "display_name": "The Great Mouse Detective 1080p CZ Dabing",
         "planned_at": "2026-11-05T19:04:16.934589+00:00"
-      },
-      "claim": {
-        "worker_id": "ca353a006a794495ad1400a10963e872-shard-0",
-        "claimed_at": "2026-11-05T19:04:17.134581+00:00",
-        "lease_expires_at": "2026-11-06T01:04:17.134581+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30828124",
       "prepared": {
@@ -110052,5 +110054,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T19:04:20.866167+00:00"
+  "updated_at": "2026-11-05T19:08:54.906266+00:00"
 }
