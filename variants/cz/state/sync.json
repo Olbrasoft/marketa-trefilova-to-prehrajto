@@ -60640,13 +60640,6 @@
           "source_id": "27476888",
           "target_video_id": "30803427",
           "permanent": false,
-          "attempted_at": "2026-11-05T14:20:09.167709+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27476888",
-          "target_video_id": "30803427",
-          "permanent": false,
           "attempted_at": "2026-11-05T14:56:48.125525+00:00"
         },
         {
@@ -60655,12 +60648,19 @@
           "target_video_id": "30803427",
           "permanent": false,
           "attempted_at": "2026-11-05T15:30:12.612329+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27476888",
+          "target_video_id": "30803427",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:06:40.323312+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27476888",
         "display_name": "Panna a netvor 1080p CZ Dabing",
-        "planned_at": "2026-11-05T15:30:11.010898+00:00"
+        "planned_at": "2026-11-05T16:06:38.578983+00:00"
       },
       "previous_target_id": "30803427",
       "prepared": {
@@ -64467,11 +64467,22 @@
       "last_plan": {
         "source_id": "33943928",
         "display_name": "Wag the Dog 1080p CZ Dabing",
-        "planned_at": "2026-11-05T16:06:33.511261+00:00"
+        "planned_at": "2026-11-05T16:06:38.723013+00:00"
+      },
+      "claim": {
+        "worker_id": "ca9f80324e2346509f3c8ab5194a4ee4-shard-0",
+        "claimed_at": "2026-11-05T16:06:39.090676+00:00",
+        "lease_expires_at": "2026-11-05T22:06:39.090676+00:00",
+        "run_id": "42054291199"
       }
     },
     "11489": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "25058329",
+        "display_name": "The Snowdrop Festival (Slavnosti sněženek) 1080p CZ Dabing",
+        "planned_at": "2026-11-05T16:06:38.811169+00:00"
+      }
     },
     "12237": {
       "attempts": []
@@ -108439,5 +108450,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:06:35.131619+00:00"
+  "updated_at": "2026-11-05T16:06:40.323336+00:00"
 }
