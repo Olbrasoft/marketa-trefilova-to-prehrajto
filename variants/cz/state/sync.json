@@ -65023,17 +65023,19 @@
       "attempts": []
     },
     "2068": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14859238",
+          "target_video_id": "30825996",
+          "permanent": false,
+          "attempted_at": "2026-11-05T17:55:53.581223+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14859238",
         "display_name": "Arthur Christmas 1080p CZ Dabing",
         "planned_at": "2026-11-05T17:48:15.816119+00:00"
-      },
-      "claim": {
-        "worker_id": "e955bd6bb0204f3e87d6511898421ef7-shard-0",
-        "claimed_at": "2026-11-05T17:48:15.990907+00:00",
-        "lease_expires_at": "2026-11-05T23:48:15.990907+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30825996",
       "prepared": {
@@ -109420,5 +109422,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:55:05.231416+00:00"
+  "updated_at": "2026-11-05T17:55:53.581238+00:00"
 }
