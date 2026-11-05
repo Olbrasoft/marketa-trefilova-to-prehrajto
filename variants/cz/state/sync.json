@@ -61333,17 +61333,19 @@
       }
     },
     "2094": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34458013",
+          "target_video_id": "30807717",
+          "permanent": false,
+          "attempted_at": "2026-11-05T07:24:02.481148+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34458013",
         "display_name": "Snowpiercer (설국열차) 4K CZ Dabing",
         "planned_at": "2026-11-05T06:57:45.152348+00:00"
-      },
-      "claim": {
-        "worker_id": "48538b596c4d456895b089e39bbc1085-shard-0",
-        "claimed_at": "2026-11-05T06:57:45.823404+00:00",
-        "lease_expires_at": "2026-11-05T12:57:45.823404+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30807717",
       "prepared": {
@@ -103586,5 +103588,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T07:15:24.862645+00:00"
+  "updated_at": "2026-11-05T07:24:02.481163+00:00"
 }
