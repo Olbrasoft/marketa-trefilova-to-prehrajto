@@ -65550,17 +65550,19 @@
       }
     },
     "1986": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11349436",
+          "target_video_id": "30828953",
+          "permanent": false,
+          "attempted_at": "2026-11-05T19:46:40.376565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11349436",
         "display_name": "Can You Ever Forgive Me? 1080p CZ Dabing",
         "planned_at": "2026-11-05T19:31:44.495448+00:00"
-      },
-      "claim": {
-        "worker_id": "89f5e3b403b94865a8e8efb3ed4a6140-shard-0",
-        "claimed_at": "2026-11-05T19:31:44.654640+00:00",
-        "lease_expires_at": "2026-11-06T01:31:44.654640+00:00",
-        "run_id": "42054291199"
       },
       "previous_target_id": "30828953",
       "prepared": {
@@ -110388,5 +110390,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T19:42:12.114522+00:00"
+  "updated_at": "2026-11-05T19:46:40.376584+00:00"
 }
