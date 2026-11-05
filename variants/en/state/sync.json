@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-05T19:19:15.467370+00:00"
+        "planned_at": "2026-11-05T20:12:56.799354+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "a4c4b7ff89f74ebbb99173e7dfe0b3ab-shard-0",
+        "claimed_at": "2026-11-05T20:12:57.050123+00:00",
+        "lease_expires_at": "2026-11-06T02:12:57.050123+00:00",
+        "run_id": "42093150935"
       }
     },
     "21312": {
@@ -3588,13 +3594,6 @@
           "source_id": "11053464",
           "target_video_id": "30615827",
           "permanent": false,
-          "attempted_at": "2026-11-05T18:15:45.179470+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11053464",
-          "target_video_id": "30615827",
-          "permanent": false,
           "attempted_at": "2026-11-05T18:46:46.423273+00:00"
         },
         {
@@ -3603,6 +3602,13 @@
           "target_video_id": "30615827",
           "permanent": false,
           "attempted_at": "2026-11-05T19:19:13.532887+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11053464",
+          "target_video_id": "30615827",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:12:57.203222+00:00"
         }
       ],
       "last_plan": {
@@ -3616,12 +3622,6 @@
         "size_bytes": 10100000000,
         "prepared_at": "2026-10-29T17:59:32.832675+00:00",
         "relay_source_id": "11053464"
-      },
-      "claim": {
-        "worker_id": "160f6f984e5944b9ba5f7adf28c7eb97-shard-0",
-        "claimed_at": "2026-11-05T20:12:54.562832+00:00",
-        "lease_expires_at": "2026-11-06T02:12:54.562832+00:00",
-        "run_id": "42093150935"
       }
     },
     "11423": {
@@ -22208,7 +22208,7 @@
       "last_plan": {
         "source_id": "14813697",
         "display_name": "Uncle Frank 1080p CZ Titulky",
-        "planned_at": "2026-11-05T20:12:54.472225+00:00"
+        "planned_at": "2026-11-05T20:12:56.932910+00:00"
       }
     },
     "23529": {
@@ -70009,5 +70009,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:12:54.685927+00:00"
+  "updated_at": "2026-11-05T20:12:57.203250+00:00"
 }
