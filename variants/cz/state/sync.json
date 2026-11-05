@@ -65708,17 +65708,19 @@
       "attempts": []
     },
     "1971": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34453286",
+          "target_video_id": "30830704",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:34:11.123764+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34453286",
         "display_name": "Kon-Tiki 1080p CZ Dabing",
         "planned_at": "2026-11-05T20:27:21.948876+00:00"
-      },
-      "claim": {
-        "worker_id": "10a5bfb657e646eea12db2b6666615d8-shard-0",
-        "claimed_at": "2026-11-05T20:27:22.223110+00:00",
-        "lease_expires_at": "2026-11-06T02:27:22.223110+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30830704",
       "prepared": {
@@ -110528,5 +110530,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:28:09.656340+00:00"
+  "updated_at": "2026-11-05T20:34:11.123786+00:00"
 }
