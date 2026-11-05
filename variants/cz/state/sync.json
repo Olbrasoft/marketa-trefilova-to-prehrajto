@@ -63353,17 +63353,19 @@
       }
     },
     "2135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34858538",
+          "reason": "Request failed for https://sdilej.cz/34858538/odpor-2008-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:14:14.313717+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34858538",
         "display_name": "Defiance 1080p CZ Dabing",
         "planned_at": "2026-11-05T13:13:26.925151+00:00"
-      },
-      "claim": {
-        "worker_id": "d4fa60eb812242dd87f00c7ef865f323-shard-0",
-        "claimed_at": "2026-11-05T13:13:27.269707+00:00",
-        "lease_expires_at": "2026-11-05T19:13:27.269707+00:00",
-        "run_id": "42018448939"
       }
     },
     "19749": {
@@ -106723,5 +106725,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:13:33.225964+00:00"
+  "updated_at": "2026-11-05T13:14:14.313737+00:00"
 }
