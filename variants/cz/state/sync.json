@@ -16341,13 +16341,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-05T13:13:12.232666+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-05T13:47:51.217003+00:00"
         },
         {
@@ -16356,12 +16349,19 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-05T14:20:48.836728+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-05T14:57:23.492443+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-05T14:20:46.841180+00:00"
+        "planned_at": "2026-11-05T14:57:21.525029+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -64138,7 +64138,13 @@
       "last_plan": {
         "source_id": "34681203",
         "display_name": "Broken Flowers 1080p CZ Dabing",
-        "planned_at": "2026-11-05T14:57:16.932555+00:00"
+        "planned_at": "2026-11-05T14:57:21.727676+00:00"
+      },
+      "claim": {
+        "worker_id": "027ecc0eebe945cab5290b603f7c19c4-shard-0",
+        "claimed_at": "2026-11-05T14:57:22.220824+00:00",
+        "lease_expires_at": "2026-11-05T20:57:22.220824+00:00",
+        "run_id": "42018448939"
       }
     },
     "1984": {
@@ -64146,7 +64152,7 @@
       "last_plan": {
         "source_id": "11152529",
         "display_name": "Concussion (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T14:56:24.988304+00:00"
+        "planned_at": "2026-11-05T14:57:21.838148+00:00"
       }
     },
     "13355": {
@@ -107926,5 +107932,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T14:57:18.512595+00:00"
+  "updated_at": "2026-11-05T14:57:23.492461+00:00"
 }
