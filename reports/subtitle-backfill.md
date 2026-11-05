@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T04:15:08.914539+00:00
+Poslední aktualizace (UTC): 2026-11-05T04:15:17.122898+00:00
 
 Zkontrolováno videí: 395. Další stránka kontroly: 0.
 
@@ -69,7 +69,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 18. Důvod
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-05T03:13:42.717070+00:00 |
-| [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-05T03:04:29.591129+00:00 |
+| [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-05T04:15:17.122837+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T03:04:52.010670+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T03:13:46.734420+00:00 |
 | [Doctor Sleep 1080p CZ Titulky](https://prehraj.to/doctor-sleep-1080p-cz-titulky-mkv/491874405df58767) (ID 30790059) | [Sdílej 12781606](https://sdilej.cz/12781606/doctor.sleep.2019.hc.1080p.hdrip.x264.ac3-evo.cz.titulky.mkv) | target_unavailable | 2026-11-05T03:13:50.651975+00:00 |
