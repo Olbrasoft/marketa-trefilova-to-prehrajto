@@ -15357,7 +15357,7 @@
       "last_plan": {
         "source_id": "33222569",
         "display_name": "A Hard Day's Night 1080p CZ Titulky",
-        "planned_at": "2026-11-05T06:18:12.959812+00:00"
+        "planned_at": "2026-11-05T06:58:09.286818+00:00"
       },
       "previous_target_id": "30735890",
       "prepared": {
@@ -15365,6 +15365,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-02T16:05:44.247867+00:00",
         "relay_source_id": "33222569"
+      },
+      "claim": {
+        "worker_id": "f827d8669a8a4dd0ba181bf252daeaaf-shard-0",
+        "claimed_at": "2026-11-05T06:58:09.476683+00:00",
+        "lease_expires_at": "2026-11-05T12:58:09.476683+00:00",
+        "run_id": "41981017097"
       }
     },
     "31737": {
@@ -16285,13 +16291,6 @@
           "source_id": "13881903",
           "target_video_id": "30745166",
           "permanent": false,
-          "attempted_at": "2026-11-05T05:01:46.880663+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13881903",
-          "target_video_id": "30745166",
-          "permanent": false,
           "attempted_at": "2026-11-05T05:39:17.214798+00:00"
         },
         {
@@ -16300,6 +16299,13 @@
           "target_video_id": "30745166",
           "permanent": false,
           "attempted_at": "2026-11-05T06:18:11.181141+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13881903",
+          "target_video_id": "30745166",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:58:09.746412+00:00"
         }
       ],
       "last_plan": {
@@ -16313,12 +16319,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-02T23:48:48.234894+00:00",
         "relay_source_id": "13881903"
-      },
-      "claim": {
-        "worker_id": "659d47ed4bdc446d936df2e0799da38d-shard-0",
-        "claimed_at": "2026-11-05T06:58:07.241469+00:00",
-        "lease_expires_at": "2026-11-05T12:58:07.241469+00:00",
-        "run_id": "41981017097"
       }
     },
     "31841": {
@@ -66077,5 +66077,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T06:58:07.241489+00:00"
+  "updated_at": "2026-11-05T06:58:09.746422+00:00"
 }
