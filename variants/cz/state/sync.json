@@ -42773,13 +42773,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-05T12:12:49.980204+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-05T12:48:40.958938+00:00"
         },
         {
@@ -42788,6 +42781,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-05T13:21:56.590278+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:52:15.164316+00:00"
         }
       ],
       "last_plan": {
@@ -45605,7 +45605,7 @@
       "last_plan": {
         "source_id": "27568018",
         "display_name": "North Country SD CZ Dabing",
-        "planned_at": "2026-11-05T13:21:58.123792+00:00"
+        "planned_at": "2026-11-05T13:52:13.931745+00:00"
       },
       "previous_target_id": "30768107",
       "prepared": {
@@ -45613,6 +45613,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-03T16:40:17.731197+00:00",
         "relay_source_id": "27568018"
+      },
+      "claim": {
+        "worker_id": "1a6742ff1e4e4ed9a8cc56605546ec14-shard-0",
+        "claimed_at": "2026-11-05T13:52:14.495090+00:00",
+        "lease_expires_at": "2026-11-05T19:52:14.495090+00:00",
+        "run_id": "42018448939"
       }
     },
     "23428": {
@@ -63835,7 +63841,7 @@
       "last_plan": {
         "source_id": "16251064",
         "display_name": "The Aristocats 1080p CZ Dabing",
-        "planned_at": "2026-11-05T13:52:12.219992+00:00"
+        "planned_at": "2026-11-05T13:52:14.141096+00:00"
       }
     },
     "22623": {
@@ -107393,5 +107399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:52:12.220012+00:00"
+  "updated_at": "2026-11-05T13:52:15.164335+00:00"
 }
