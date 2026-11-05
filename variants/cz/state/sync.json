@@ -8472,13 +8472,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-05T07:46:25.875361+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-05T08:18:50.872624+00:00"
         },
         {
@@ -8487,6 +8480,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-05T08:57:02.664189+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:42:47.568837+00:00"
         }
       ],
       "last_plan": {
@@ -8500,12 +8500,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "f968b557347f4c71a119b33511c04be8-shard-0",
-        "claimed_at": "2026-11-05T09:40:58.661725+00:00",
-        "lease_expires_at": "2026-11-05T15:40:58.661725+00:00",
-        "run_id": "41981017097"
       }
     },
     "29922": {
@@ -13958,7 +13952,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-05T09:07:36.990926+00:00"
+        "planned_at": "2026-11-05T09:42:46.488611+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -13966,6 +13960,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "7b7b42db086c4dfb9508d16b2fddad84-shard-0",
+        "claimed_at": "2026-11-05T09:42:47.162456+00:00",
+        "lease_expires_at": "2026-11-05T15:42:47.162456+00:00",
+        "run_id": "41981017097"
       }
     },
     "22047": {
@@ -62024,7 +62024,7 @@
       "last_plan": {
         "source_id": "19540622",
         "display_name": "Seven Psychopaths 1080p CZ Dabing",
-        "planned_at": "2026-11-05T09:42:40.570100+00:00"
+        "planned_at": "2026-11-05T09:42:46.885246+00:00"
       }
     },
     "1967": {
@@ -104883,5 +104883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:42:42.938464+00:00"
+  "updated_at": "2026-11-05T09:42:47.568855+00:00"
 }
