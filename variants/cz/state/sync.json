@@ -64329,17 +64329,19 @@
       "attempts": []
     },
     "11636": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29908980",
+          "target_video_id": "30821768",
+          "permanent": false,
+          "attempted_at": "2026-11-05T15:28:13.873851+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29908980",
         "display_name": "Little Shop of Horrors 1080p CZ Dabing",
         "planned_at": "2026-11-05T15:24:27.801198+00:00"
-      },
-      "claim": {
-        "worker_id": "c8c2a6e2613d452086c91ef4fd4e19d2-shard-0",
-        "claimed_at": "2026-11-05T15:24:28.111457+00:00",
-        "lease_expires_at": "2026-11-05T21:24:28.111457+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30821768",
       "prepared": {
@@ -108333,5 +108335,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T15:24:31.560237+00:00"
+  "updated_at": "2026-11-05T15:28:13.873868+00:00"
 }
