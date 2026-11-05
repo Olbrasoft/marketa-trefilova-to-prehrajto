@@ -28773,7 +28773,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-05T09:08:46.577521+00:00"
+        "planned_at": "2026-11-05T09:43:16.604824+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28781,6 +28781,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "a73a083f469d495eb59b349db88b0bc1-shard-0",
+        "claimed_at": "2026-11-05T09:43:17.124068+00:00",
+        "lease_expires_at": "2026-11-05T15:43:17.124068+00:00",
+        "run_id": "41981017097"
       }
     },
     "23584": {
@@ -46633,13 +46639,6 @@
           "source_id": "35147292",
           "target_video_id": "30771541",
           "permanent": false,
-          "attempted_at": "2026-11-05T08:02:39.548437+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35147292",
-          "target_video_id": "30771541",
-          "permanent": false,
           "attempted_at": "2026-11-05T08:38:14.373463+00:00"
         },
         {
@@ -46648,6 +46647,13 @@
           "target_video_id": "30771541",
           "permanent": false,
           "attempted_at": "2026-11-05T09:08:45.149474+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35147292",
+          "target_video_id": "30771541",
+          "permanent": false,
+          "attempted_at": "2026-11-05T09:43:17.272748+00:00"
         }
       ],
       "last_plan": {
@@ -46661,12 +46667,6 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
-      },
-      "claim": {
-        "worker_id": "3dccd5de88f74eed829aef2dd628db5c-shard-0",
-        "claimed_at": "2026-11-05T09:43:14.990552+00:00",
-        "lease_expires_at": "2026-11-05T15:43:14.990552+00:00",
-        "run_id": "41981017097"
       }
     },
     "20013": {
@@ -62024,7 +62024,7 @@
       "last_plan": {
         "source_id": "19540622",
         "display_name": "Seven Psychopaths 1080p CZ Dabing",
-        "planned_at": "2026-11-05T09:43:14.670927+00:00"
+        "planned_at": "2026-11-05T09:43:16.803153+00:00"
       }
     },
     "1967": {
@@ -104883,5 +104883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:43:15.133941+00:00"
+  "updated_at": "2026-11-05T09:43:17.272770+00:00"
 }
