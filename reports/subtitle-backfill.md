@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T08:28:55.604171+00:00
+Poslední aktualizace (UTC): 2026-11-05T08:29:42.565493+00:00
 
 Zkontrolováno videí: 402. Další stránka kontroly: 0.
 
@@ -94,7 +94,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 29. Důvod
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-05T07:09:56.008639+00:00 |
 | [The Boy and the Heron (君たちはどう生きるか) 1080p CZ Titulky](https://prehraj.to/the-boy-and-the-heron-1080p-cz-titulky-mkv/e536f7106b7626d5) (ID 30802431) | [Sdílej 29249237](https://sdilej.cz/29249237/the-boy-and-the-heron-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T07:18:35.137902+00:00 |
 | [The Edge of Seventeen 1080p CZ Titulky](https://prehraj.to/the-edge-of-seventeen-1080p-cz-titulky-mkv/5482301ed4f173e4) (ID 30803408) | [Sdílej 23009992](https://sdilej.cz/23009992/horkych-sedmnact-the-edge-of-seventeen-2016-komedie-drama-1080p.-cz-dabing.mkv) | target_unavailable | 2026-11-05T07:18:49.322665+00:00 |
-| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T07:09:00.915528+00:00 |
+| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T08:29:42.565446+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T07:09:52.439208+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-05T07:09:35.943919+00:00 |
 | [The Way Back (2010) 1080p CZ Titulky](https://prehraj.to/the-way-back-2010-1080p-cz-titulky-mp4/5f0527c98763d5c2) (ID 30807154) | [Sdílej 35287106](https://sdilej.cz/35287106/utek-ze-sibire-2010-.mp4) | target_unavailable | 2026-11-05T07:48:37.764024+00:00 |
