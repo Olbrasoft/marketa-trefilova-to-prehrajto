@@ -58524,17 +58524,19 @@
       "attempts": []
     },
     "19891": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35431184",
+          "target_video_id": "30814544",
+          "permanent": false,
+          "attempted_at": "2026-11-05T10:40:56.342538+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35431184",
         "display_name": "A Better Life 1080p CZ Dabing",
         "planned_at": "2026-11-05T10:33:49.561637+00:00"
-      },
-      "claim": {
-        "worker_id": "debe72feeef34c0ebb5d16f6558a526e-shard-0",
-        "claimed_at": "2026-11-05T10:33:49.823284+00:00",
-        "lease_expires_at": "2026-11-05T16:33:49.823284+00:00",
-        "run_id": "41981017097"
       },
       "previous_target_id": "30814544",
       "prepared": {
@@ -105281,5 +105283,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T10:39:36.038530+00:00"
+  "updated_at": "2026-11-05T10:40:56.342550+00:00"
 }
