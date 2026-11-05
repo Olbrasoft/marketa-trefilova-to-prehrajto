@@ -22204,17 +22204,19 @@
       }
     },
     "1355": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14813697",
+          "reason": "Request failed for https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:14:09.381556+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14813697",
         "display_name": "Uncle Frank 1080p CZ Titulky",
         "planned_at": "2026-11-05T20:14:06.281635+00:00"
-      },
-      "claim": {
-        "worker_id": "209e29d513004cbd82206bc1b4849a1f-shard-0",
-        "claimed_at": "2026-11-05T20:14:06.519680+00:00",
-        "lease_expires_at": "2026-11-06T02:14:06.519680+00:00",
-        "run_id": "42093150935"
       }
     },
     "23529": {
@@ -70015,5 +70017,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:14:06.519728+00:00"
+  "updated_at": "2026-11-05T20:14:09.381582+00:00"
 }
