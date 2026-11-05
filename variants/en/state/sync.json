@@ -22269,17 +22269,19 @@
       "attempts": []
     },
     "1398": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10699415",
+          "target_video_id": "30831408",
+          "permanent": false,
+          "attempted_at": "2026-11-05T20:59:46.776349+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10699415",
         "display_name": "The Captain (Der Hauptmann) (2017) 1080p CZ Titulky",
         "planned_at": "2026-11-05T20:48:13.313325+00:00"
-      },
-      "claim": {
-        "worker_id": "a26f50a354bb4908bcc73cecf7a046ae-shard-0",
-        "claimed_at": "2026-11-05T20:48:13.397729+00:00",
-        "lease_expires_at": "2026-11-06T02:48:13.397729+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30831408",
       "prepared": {
@@ -70231,5 +70233,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:59:05.836830+00:00"
+  "updated_at": "2026-11-05T20:59:46.776372+00:00"
 }
