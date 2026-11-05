@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T12:06:40.144003+00:00
+Poslední aktualizace (UTC): 2026-11-05T12:06:44.295367+00:00
 
 Zkontrolováno videí: 408. Další stránka kontroly: 0.
 
@@ -83,7 +83,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 29. Důvod
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T10:32:05.836680+00:00 |
 | [Pale Rider 1080p CZ Titulky](https://prehraj.to/pale-rider-1080p-cz-titulky-mkv/6a801d3052b7bc35) (ID 30816243) | [Sdílej 33673421](https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv) | target_unavailable | 2026-11-05T11:34:38.499702+00:00 |
 | [Pirate Radio 1080p CZ Titulky](https://prehraj.to/pirate-radio-1080p-cz-titulky-mkv/eb1b38296aba6f0f) (ID 30805701) | [Sdílej 35401859](https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-05T10:40:57.885023+00:00 |
-| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T10:31:58.864029+00:00 |
+| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T12:06:43.894732+00:00 |
 | [Prince of the City 1080p CZ Titulky](https://prehraj.to/prince-of-the-city-1080p-cz-titulky-mkv/2c8605a056207243) (ID 30809179) | [Sdílej 20090323](https://sdilej.cz/20090323/prince-of-the-city-1981-1080p.-x264-titulky-cz.mkv) | target_unavailable | 2026-11-05T10:41:13.510498+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-05T10:32:20.118438+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-05T10:32:02.410397+00:00 |
