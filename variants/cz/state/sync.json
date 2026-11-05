@@ -18848,13 +18848,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-05T14:21:00.714976+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-05T14:57:37.328461+00:00"
         },
         {
@@ -18863,12 +18856,19 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-05T15:31:03.252160+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:08:01.170020+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-05T15:31:01.451968+00:00"
+        "planned_at": "2026-11-05T16:07:59.655214+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -64483,11 +64483,22 @@
       "last_plan": {
         "source_id": "25058329",
         "display_name": "The Snowdrop Festival (Slavnosti sněženek) 1080p CZ Dabing",
-        "planned_at": "2026-11-05T16:07:56.732291+00:00"
+        "planned_at": "2026-11-05T16:07:59.773373+00:00"
+      },
+      "claim": {
+        "worker_id": "1777842e0ceb49139d08816dfae6e540-shard-0",
+        "claimed_at": "2026-11-05T16:08:00.061717+00:00",
+        "lease_expires_at": "2026-11-05T22:08:00.061717+00:00",
+        "run_id": "42054291199"
       }
     },
     "12237": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34907966",
+        "display_name": "In the Mouth of Madness 1080p CZ Dabing",
+        "planned_at": "2026-11-05T16:07:59.841694+00:00"
+      }
     },
     "1953": {
       "attempts": []
@@ -108452,5 +108463,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:07:57.821598+00:00"
+  "updated_at": "2026-11-05T16:08:01.170036+00:00"
 }
