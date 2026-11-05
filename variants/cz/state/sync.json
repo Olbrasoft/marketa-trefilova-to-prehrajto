@@ -61238,17 +61238,19 @@
       }
     },
     "2090": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31043919",
+          "target_video_id": "30807006",
+          "permanent": false,
+          "attempted_at": "2026-11-05T06:42:59.827622+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31043919",
         "display_name": "Furious 7 4K CZ Dabing",
         "planned_at": "2026-11-05T06:28:32.949755+00:00"
-      },
-      "claim": {
-        "worker_id": "528ae94970f0461d8627ede903ad91b8-shard-0",
-        "claimed_at": "2026-11-05T06:28:33.259671+00:00",
-        "lease_expires_at": "2026-11-05T12:28:33.259671+00:00",
-        "run_id": "41955134709"
       },
       "previous_target_id": "30807006",
       "prepared": {
@@ -103405,5 +103407,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T06:36:00.243782+00:00"
+  "updated_at": "2026-11-05T06:42:59.827638+00:00"
 }
