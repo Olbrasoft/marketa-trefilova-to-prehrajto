@@ -63303,17 +63303,19 @@
       }
     },
     "2088": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33240280",
+          "target_video_id": "30818345",
+          "permanent": false,
+          "attempted_at": "2026-11-05T13:12:28.236285+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33240280",
         "display_name": "Margin Call 720p CZ Dabing",
         "planned_at": "2026-11-05T13:01:51.867886+00:00"
-      },
-      "claim": {
-        "worker_id": "50e3d140ba54464b8dc275a692b03ac2-shard-0",
-        "claimed_at": "2026-11-05T13:01:52.175440+00:00",
-        "lease_expires_at": "2026-11-05T19:01:52.175440+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30818345",
       "prepared": {
@@ -106691,5 +106693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T13:12:26.856974+00:00"
+  "updated_at": "2026-11-05T13:12:28.236303+00:00"
 }
