@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-05T18:17:11.105820+00:00"
+        "planned_at": "2026-11-05T18:48:02.387502+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "3069f6ec3e364c2d97920edba237b595-shard-0",
+        "claimed_at": "2026-11-05T18:48:02.727008+00:00",
+        "lease_expires_at": "2026-11-06T00:48:02.727008+00:00",
+        "run_id": "42054291199"
       }
     },
     "10755": {
@@ -16341,13 +16347,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-05T17:12:08.730066+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-05T17:46:01.375308+00:00"
         },
         {
@@ -16356,6 +16355,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-05T18:17:09.623286+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-05T18:48:02.846211+00:00"
         }
       ],
       "last_plan": {
@@ -16369,12 +16375,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
-      },
-      "claim": {
-        "worker_id": "47e195f2168f4e98a8ec6ee6f2e39116-shard-0",
-        "claimed_at": "2026-11-05T18:48:00.287403+00:00",
-        "lease_expires_at": "2026-11-06T00:48:00.287403+00:00",
-        "run_id": "42054291199"
       }
     },
     "12843": {
@@ -65411,7 +65411,7 @@
       "last_plan": {
         "source_id": "20973465",
         "display_name": "Lords of Dogtown 1080p CZ Dabing",
-        "planned_at": "2026-11-05T18:48:00.106742+00:00"
+        "planned_at": "2026-11-05T18:48:02.524466+00:00"
       }
     },
     "23020": {
@@ -110000,5 +110000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:48:00.830242+00:00"
+  "updated_at": "2026-11-05T18:48:02.846235+00:00"
 }
