@@ -401,7 +401,7 @@ Attach subtitles only after target processing has finished.
 | The Death of Stalin 1080p CZ Titulky | 30805972 | https://sdilej.cz/18414247/the.death.of.stalin.2017.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Clue 1080p CZ Titulky | 30804709 | https://sdilej.cz/33563795/clue.1985.1080p.bluray.10bit.hevc.dl.dts.x265-majo.mkv | Complete: Czech subtitles verified |
 | Pirate Radio 1080p CZ Titulky | 30805701 | https://sdilej.cz/35401859/pirate.radio.2009.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Complete: Czech subtitles verified |
-| Nuremberg 1080p CZ Titulky | 30807046 | https://sdilej.cz/35402835/nuremberg.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-.en.cz.tit.mkv | Extract Czech track from exact source after processing |
+| Nuremberg 1080p CZ Titulky | 30807046 | https://sdilej.cz/35402835/nuremberg.2025.1080p.webrip.x265.10bit.aac5.1-yts.lt-.en.cz.tit.mkv | Complete: Czech subtitles verified |
 | Jane Eyre (2011) 1080p CZ Titulky | 30809107 | https://sdilej.cz/30832607/jana-eyrova-jane.eyre.2011.en.cz.sk.1080p.bluray.x264-amiable.mkv | Complete: Czech subtitles verified |
 | Paterson 1080p CZ Titulky | 30811761 | https://sdilej.cz/20609659/paterson-2016-1080p-h.264-audio-en-subtitles-cz.mkv | Complete: Czech subtitles verified |
 | Prince of the City 1080p CZ Titulky | 30809179 | https://sdilej.cz/20090323/prince-of-the-city-1981-1080p.-x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
