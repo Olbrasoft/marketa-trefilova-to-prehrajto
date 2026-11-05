@@ -419,3 +419,4 @@ Attach subtitles only after target processing has finished.
 | A Street Cat Named Bob 1080p CZ Titulky | 30822365 | https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv | Extract Czech track from exact source after processing |
 | 12th Man (Den 12. mann) (2017) 1080p CZ Titulky | 30822494 | https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Song Sung Blue 1080p CZ Titulky | 30824468 | https://sdilej.cz/33348083/song-sung-blue-2025-cz-titulky.mp4 | Extract Czech track from exact source after processing |
+| A Million Miles Away 4K CZ Titulky | 30828699 | https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv | Extract Czech track from exact source after processing |
