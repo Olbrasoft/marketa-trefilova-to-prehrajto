@@ -62359,7 +62359,20 @@
       }
     },
     "2097": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32936978",
+          "reason": "Request failed for https://sdilej.cz/32936978/zamilovany-shakespeare-1998-up-uhdr-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-05T10:51:47.641380+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32936978",
+        "display_name": "Shakespeare in Love 4K CZ Dabing",
+        "planned_at": "2026-11-05T10:51:01.296268+00:00"
+      }
     },
     "1915": {
       "attempts": []
@@ -105367,5 +105380,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T10:49:18.793415+00:00"
+  "updated_at": "2026-11-05T10:51:47.641398+00:00"
 }
