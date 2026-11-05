@@ -3588,13 +3588,6 @@
           "source_id": "11053464",
           "target_video_id": "30615827",
           "permanent": false,
-          "attempted_at": "2026-11-05T14:19:32.095261+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11053464",
-          "target_video_id": "30615827",
-          "permanent": false,
           "attempted_at": "2026-11-05T14:55:57.795604+00:00"
         },
         {
@@ -3603,6 +3596,13 @@
           "target_video_id": "30615827",
           "permanent": false,
           "attempted_at": "2026-11-05T15:29:28.679269+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11053464",
+          "target_video_id": "30615827",
+          "permanent": false,
+          "attempted_at": "2026-11-05T16:05:33.595216+00:00"
         }
       ],
       "last_plan": {
@@ -3616,12 +3616,6 @@
         "size_bytes": 10100000000,
         "prepared_at": "2026-10-29T17:59:32.832675+00:00",
         "relay_source_id": "11053464"
-      },
-      "claim": {
-        "worker_id": "a3a5b35d2fca47ebbaa79ecb922e4358-shard-0",
-        "claimed_at": "2026-11-05T16:05:31.702283+00:00",
-        "lease_expires_at": "2026-11-05T22:05:31.702283+00:00",
-        "run_id": "42054291199"
       }
     },
     "11423": {
@@ -9890,7 +9884,7 @@
       "last_plan": {
         "source_id": "28240998",
         "display_name": "Poor Things 1080p CZ Titulky",
-        "planned_at": "2026-11-05T15:29:30.625680+00:00"
+        "planned_at": "2026-11-05T16:05:33.352303+00:00"
       },
       "previous_target_id": "30664033",
       "prepared": {
@@ -9898,6 +9892,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
+      },
+      "claim": {
+        "worker_id": "e3bfdea36ea84c34846e3fb40bf87716-shard-0",
+        "claimed_at": "2026-11-05T16:05:33.463624+00:00",
+        "lease_expires_at": "2026-11-05T22:05:33.463624+00:00",
+        "run_id": "42054291199"
       }
     },
     "601": {
@@ -68894,5 +68894,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T16:05:31.702314+00:00"
+  "updated_at": "2026-11-05T16:05:33.595331+00:00"
 }
