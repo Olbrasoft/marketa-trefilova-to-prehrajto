@@ -59896,17 +59896,19 @@
       "attempts": []
     },
     "32490": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34348568",
+          "target_video_id": "30799411",
+          "permanent": false,
+          "attempted_at": "2026-11-05T01:54:06.034847+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34348568",
         "display_name": "Pictures of the Old World (Obrazy starého sveta) 1080p CZ Dabing",
         "planned_at": "2026-11-05T01:33:15.051502+00:00"
-      },
-      "claim": {
-        "worker_id": "2a982d40b6a14786b7ebc4a653b35adc-shard-0",
-        "claimed_at": "2026-11-05T01:33:15.304737+00:00",
-        "lease_expires_at": "2026-11-05T07:33:15.304737+00:00",
-        "run_id": "41924666202"
       },
       "previous_target_id": "30799411",
       "prepared": {
@@ -101178,5 +101180,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T01:54:04.356312+00:00"
+  "updated_at": "2026-11-05T01:54:06.034868+00:00"
 }
