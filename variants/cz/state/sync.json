@@ -66055,17 +66055,19 @@
       "attempts": []
     },
     "1457": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12581871",
+          "target_video_id": "30833016",
+          "permanent": false,
+          "attempted_at": "2026-11-05T21:37:27.684132+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12581871",
         "display_name": "Fog in August (Nebel im August) SD CZ Dabing",
         "planned_at": "2026-11-05T21:33:27.146033+00:00"
-      },
-      "claim": {
-        "worker_id": "b53b6d032b3f4756b8d76015c6c2b74f-shard-0",
-        "claimed_at": "2026-11-05T21:33:27.410978+00:00",
-        "lease_expires_at": "2026-11-06T03:33:27.410978+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30833016",
       "prepared": {
@@ -111199,5 +111201,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T21:34:59.345741+00:00"
+  "updated_at": "2026-11-05T21:37:27.684154+00:00"
 }
