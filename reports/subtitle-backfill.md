@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-05T11:54:52.899488+00:00
+Poslední aktualizace (UTC): 2026-11-05T11:55:04.258494+00:00
 
 Zkontrolováno videí: 408. Další stránka kontroly: 0.
 
@@ -17,7 +17,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvod
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T13:13:06.976579+00:00 |
-| [A Clockwork Orange 4K CZ Titulky](https://prehraj.to/a-clockwork-orange-cz-titulky-mkv/4aea1f812e06a3cb) (ID 30608273) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-29T11:46:21.088640+00:00 |
+| [A Clockwork Orange 4K CZ Titulky](https://prehraj.to/a-clockwork-orange-cz-titulky-mkv/4aea1f812e06a3cb) (ID 30608273) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T11:55:04.019113+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain) SD](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T22:13:34.022856+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T19:52:42.154078+00:00 |
 | [Bugonia 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30755358) | [Sdílej 32837902](https://sdilej.cz/32837902/bugonia-2025-1080p-10bit-bluray-8ch-x265-hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-05T10:31:09.685702+00:00 |
