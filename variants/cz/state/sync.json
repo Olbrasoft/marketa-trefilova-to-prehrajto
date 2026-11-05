@@ -66235,17 +66235,19 @@
       }
     },
     "1996": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14579362",
+          "target_video_id": "30836605",
+          "permanent": false,
+          "attempted_at": "2026-11-05T23:42:29.519913+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14579362",
         "display_name": "The Railway Man 720p CZ Dabing",
         "planned_at": "2026-11-05T23:27:01.861849+00:00"
-      },
-      "claim": {
-        "worker_id": "2cd7aa2df67c4bec8608835969bf9c03-shard-0",
-        "claimed_at": "2026-11-05T23:27:02.127279+00:00",
-        "lease_expires_at": "2026-11-06T05:27:02.127279+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30836605",
       "prepared": {
@@ -111829,5 +111831,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T23:29:49.276494+00:00"
+  "updated_at": "2026-11-05T23:42:29.519936+00:00"
 }
