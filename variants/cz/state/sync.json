@@ -62802,17 +62802,19 @@
       }
     },
     "2058": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34095247",
+          "target_video_id": "30817480",
+          "permanent": false,
+          "attempted_at": "2026-11-05T12:34:14.398478+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34095247",
         "display_name": "Deepwater Horizon 4K CZ Dabing",
         "planned_at": "2026-11-05T12:23:54.652240+00:00"
-      },
-      "claim": {
-        "worker_id": "d55a510060114e89a9498387074cceda-shard-0",
-        "claimed_at": "2026-11-05T12:23:54.916561+00:00",
-        "lease_expires_at": "2026-11-05T18:23:54.916561+00:00",
-        "run_id": "42018448939"
       },
       "previous_target_id": "30817480",
       "prepared": {
@@ -106282,5 +106284,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:30:11.243534+00:00"
+  "updated_at": "2026-11-05T12:34:14.398495+00:00"
 }
