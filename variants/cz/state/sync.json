@@ -67238,17 +67238,19 @@
       }
     },
     "22306": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22767130",
+          "target_video_id": "30855285",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:28:27.858413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22767130",
         "display_name": "The Man on the Roof (Man on the Roof) 720p CZ Dabing",
         "planned_at": "2026-11-06T09:20:23.395152+00:00"
-      },
-      "claim": {
-        "worker_id": "5f84ea675ffa456f9c7b80eb07fd2ae1-shard-0",
-        "claimed_at": "2026-11-06T09:20:24.993302+00:00",
-        "lease_expires_at": "2026-11-06T15:20:24.993302+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30855285",
       "prepared": {
@@ -114635,5 +114637,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:24:13.163696+00:00"
+  "updated_at": "2026-11-06T09:28:27.858428+00:00"
 }
