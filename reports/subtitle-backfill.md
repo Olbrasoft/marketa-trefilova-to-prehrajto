@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T21:06:50.882271+00:00
+Poslední aktualizace (UTC): 2026-11-06T21:06:52.703138+00:00
 
 Zkontrolováno videí: 470. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 80, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 81, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -66,6 +66,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 86. Důvod
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-06T13:17:37.458131+00:00 |
 | [12th Man (Den 12. mann) (2017) 1080p CZ Titulky](https://prehraj.to/12th-man-den-12-mann-2017-1080p-cz-titulky-mkv/5b2aae658a620cc9) (ID 30822494) | [Sdílej 9302798](https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-05T15:58:26.570274+00:00 |
 | [24 Hour Party People 720p CZ Titulky](https://prehraj.to/24-hour-party-people-720p-cz-titulky-mkv/cfb92bc904244c1b) (ID 30821368) | [Sdílej 32713510](https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv) | target_unavailable | 2026-11-05T15:17:57.796135+00:00 |
+| [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-06T21:06:52.703066+00:00 |
 | [8 Mile 1080p CZ Titulky](https://prehraj.to/8-mile-1080p-cz-titulky-mkv/7054c00380df1062) (ID 30854680) | [Sdílej 27818942](https://sdilej.cz/27818942/8.mile.2002.1080p.bluray.h264.aac-leon.-en-subs-cz-.mkv) | target_unavailable | 2026-11-06T08:53:49.284838+00:00 |
 | [A Dirty Carnival (비열한 거리) 1080p CZ Titulky](https://prehraj.to/a-dirty-carnival-1080p-cz-titulky-mkv/208b3e60237a67f3) (ID 30851366) | [Sdílej 27606009](https://sdilej.cz/27606009/a.dirty.carnival.2006.1080p.bluray.korean.dts.x264-majo.mkv) | target_unavailable | 2026-11-06T06:52:42.746403+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-05T14:37:31.860399+00:00 |
