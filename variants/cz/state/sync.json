@@ -66850,17 +66850,19 @@
       "attempts": []
     },
     "18813": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31823519",
+          "target_video_id": "30847809",
+          "permanent": false,
+          "attempted_at": "2026-11-06T05:03:58.845351+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31823519",
         "display_name": "The Brand New Testament (Le tout nouveau testament) 1080p CZ Dabing",
         "planned_at": "2026-11-06T04:52:51.014499+00:00"
-      },
-      "claim": {
-        "worker_id": "7f4c1cdb00d84b379542afe4f62f9152-shard-0",
-        "claimed_at": "2026-11-06T04:52:51.295390+00:00",
-        "lease_expires_at": "2026-11-06T10:52:51.295390+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30847809",
       "prepared": {
@@ -113158,5 +113160,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T04:54:18.841326+00:00"
+  "updated_at": "2026-11-06T05:03:58.845369+00:00"
 }
