@@ -454,3 +454,4 @@ Attach subtitles only after target processing has finished.
 | The Descent 1080p CZ Titulky | 30857275 | https://sdilej.cz/22441657/pad-do-tmy-cz-1080p-juve.mkv | Extract Czech track from exact source after processing |
 | Lawless 720p CZ Titulky | 30857839 | https://sdilej.cz/8554596/zeme-bez-zakona-lawless-2012-cz-sub.720p-bluray-dts.mkv | Extract Czech track from exact source after processing |
 | The Life Aquatic with Steve Zissou 1080p CZ Titulky | 30858164 | https://sdilej.cz/23537039/the-life-aquatic-with-steve-zissou-2004-1080p-bluray-dl-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
+| Triangle of Sadness SD CZ Titulky | 30858300 | https://sdilej.cz/24142175/trojuhelnik-smutku-triangle.of.sadness.2022.720p.amzn.web-dl.ddp5.1.h.264-smurf-cz-titulky-.mkv | Extract Czech track from exact source after processing |
