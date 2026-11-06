@@ -22992,17 +22992,19 @@
       "attempts": []
     },
     "20593": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6500108",
+          "target_video_id": "30842899",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:47:24.630576+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6500108",
         "display_name": "Agnus Dei (Les innocentes) SD CZ Titulky",
         "planned_at": "2026-11-06T02:36:48.746658+00:00"
-      },
-      "claim": {
-        "worker_id": "773b6fb0933c4c21bcfdd09be17660bf-shard-0",
-        "claimed_at": "2026-11-06T02:36:48.817136+00:00",
-        "lease_expires_at": "2026-11-06T08:36:48.817136+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30842899",
       "prepared": {
@@ -71725,5 +71727,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T02:45:32.085866+00:00"
+  "updated_at": "2026-11-06T02:47:24.630598+00:00"
 }
