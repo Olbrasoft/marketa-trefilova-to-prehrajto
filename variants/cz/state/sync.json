@@ -10809,13 +10809,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-06T11:33:09.985354+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-06T12:17:06.419780+00:00"
         },
         {
@@ -10824,6 +10817,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-06T12:57:08.148348+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-06T13:36:14.904609+00:00"
         }
       ],
       "last_plan": {
@@ -10837,12 +10837,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
-      },
-      "claim": {
-        "worker_id": "504b590591ed43a0bcf1a326bbc9e1b8-shard-0",
-        "claimed_at": "2026-11-06T13:36:12.875898+00:00",
-        "lease_expires_at": "2026-11-06T19:36:12.875898+00:00",
-        "run_id": "42194637218"
       }
     },
     "21748": {
@@ -18874,7 +18868,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:57:11.612465+00:00"
+        "planned_at": "2026-11-06T13:36:14.476523+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18882,6 +18876,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "c9eaee745ab24069bffd84e7a190a2c0-shard-0",
+        "claimed_at": "2026-11-06T13:36:14.763196+00:00",
+        "lease_expires_at": "2026-11-06T19:36:14.763196+00:00",
+        "run_id": "42194637218"
       }
     },
     "29695": {
@@ -68204,7 +68204,7 @@
       "last_plan": {
         "source_id": "29706570",
         "display_name": "The Year of Living Dangerously 1080p CZ Dabing",
-        "planned_at": "2026-11-06T13:36:12.688913+00:00"
+        "planned_at": "2026-11-06T13:36:14.604456+00:00"
       }
     },
     "22703": {
@@ -116502,5 +116502,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T13:36:12.999667+00:00"
+  "updated_at": "2026-11-06T13:36:14.904622+00:00"
 }
