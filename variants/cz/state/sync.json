@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-06T11:33:06.581627+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-06T12:17:03.421506+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-06T12:57:05.177438+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-06T13:36:12.999649+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "9378fd8c89ac49748ea57ba957d90b58-shard-0",
-        "claimed_at": "2026-11-06T13:36:10.181594+00:00",
-        "lease_expires_at": "2026-11-06T19:36:10.181594+00:00",
-        "run_id": "42194637218"
       }
     },
     "10755": {
@@ -10835,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:57:06.656715+00:00"
+        "planned_at": "2026-11-06T13:36:12.552461+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10843,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "504b590591ed43a0bcf1a326bbc9e1b8-shard-0",
+        "claimed_at": "2026-11-06T13:36:12.875898+00:00",
+        "lease_expires_at": "2026-11-06T19:36:12.875898+00:00",
+        "run_id": "42194637218"
       }
     },
     "21748": {
@@ -68204,7 +68204,7 @@
       "last_plan": {
         "source_id": "29706570",
         "display_name": "The Year of Living Dangerously 1080p CZ Dabing",
-        "planned_at": "2026-11-06T13:36:10.018179+00:00"
+        "planned_at": "2026-11-06T13:36:12.688913+00:00"
       }
     },
     "22703": {
@@ -116502,5 +116502,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T13:36:10.998469+00:00"
+  "updated_at": "2026-11-06T13:36:12.999667+00:00"
 }
