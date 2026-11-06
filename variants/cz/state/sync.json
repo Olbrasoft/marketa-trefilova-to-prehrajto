@@ -8472,13 +8472,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-06T05:57:53.740055+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-06T06:30:40.801140+00:00"
         },
         {
@@ -8487,12 +8480,19 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-06T07:40:47.525526+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-06T08:37:34.284288+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-06T07:39:14.810281+00:00"
+        "planned_at": "2026-11-06T08:36:03.733179+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -67024,17 +67024,19 @@
       }
     },
     "37348": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27987706",
+          "target_video_id": "30853525",
+          "permanent": false,
+          "attempted_at": "2026-11-06T08:37:34.520623+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27987706",
         "display_name": "Chasing Mavericks 1080p CZ Dabing",
         "planned_at": "2026-11-06T08:03:02.783215+00:00"
-      },
-      "claim": {
-        "worker_id": "855a7279c3664a6089e9c73ded000459-shard-0",
-        "claimed_at": "2026-11-06T08:03:03.830364+00:00",
-        "lease_expires_at": "2026-11-06T14:03:03.830364+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30853525",
       "prepared": {
@@ -67088,7 +67090,7 @@
       "last_plan": {
         "source_id": "31327663",
         "display_name": "The Bounty 1080p CZ Dabing",
-        "planned_at": "2026-11-06T08:36:00.191435+00:00"
+        "planned_at": "2026-11-06T08:36:03.920500+00:00"
       }
     },
     "30941": {
@@ -114186,5 +114188,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T08:36:01.724243+00:00"
+  "updated_at": "2026-11-06T08:37:34.520637+00:00"
 }
