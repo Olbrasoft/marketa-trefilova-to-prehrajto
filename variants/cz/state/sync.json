@@ -69457,17 +69457,19 @@
       "attempts": []
     },
     "1887": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33480246",
+          "target_video_id": "30865964",
+          "permanent": false,
+          "attempted_at": "2026-11-06T18:22:29.938567+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33480246",
         "display_name": "Bank of Dave 1080p CZ Dabing",
         "planned_at": "2026-11-06T18:11:32.703368+00:00"
-      },
-      "claim": {
-        "worker_id": "55aae259f572459b8428ac828a266430-shard-0",
-        "claimed_at": "2026-11-06T18:11:33.027454+00:00",
-        "lease_expires_at": "2026-11-07T00:11:33.027454+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30865964",
       "prepared": {
@@ -118253,5 +118255,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:18:34.888288+00:00"
+  "updated_at": "2026-11-06T18:22:29.938585+00:00"
 }
