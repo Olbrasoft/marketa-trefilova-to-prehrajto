@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:08:39.292586+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-06T10:53:14.075719+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-06T11:33:57.515816+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:17:38.172711+00:00"
         }
       ],
       "last_plan": {
@@ -6955,12 +6955,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "f2a92867e41d41f9a7930f81247390ba-shard-0",
-        "claimed_at": "2026-11-06T12:17:35.897404+00:00",
-        "lease_expires_at": "2026-11-06T18:17:35.897404+00:00",
-        "run_id": "42194637218"
       }
     },
     "321": {
@@ -21562,7 +21556,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T11:33:59.144792+00:00"
+        "planned_at": "2026-11-06T12:17:37.716295+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21570,6 +21564,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "b1a86ef6fdbf47bcb51c807c7b9d2899-shard-0",
+        "claimed_at": "2026-11-06T12:17:38.051369+00:00",
+        "lease_expires_at": "2026-11-06T18:17:38.051369+00:00",
+        "run_id": "42194637218"
       }
     },
     "677": {
@@ -67926,7 +67926,7 @@
       "last_plan": {
         "source_id": "30853905",
         "display_name": "Superman/Batman: Public Enemies 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:17:35.711806+00:00"
+        "planned_at": "2026-11-06T12:17:37.861891+00:00"
       }
     },
     "20105": {
@@ -115717,5 +115717,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:17:36.173829+00:00"
+  "updated_at": "2026-11-06T12:17:38.172735+00:00"
 }
