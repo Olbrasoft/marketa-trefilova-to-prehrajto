@@ -23487,17 +23487,19 @@
       "attempts": []
     },
     "32494": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27606009",
+          "target_video_id": "30851366",
+          "permanent": false,
+          "attempted_at": "2026-11-06T07:34:18.008322+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27606009",
         "display_name": "A Dirty Carnival (비열한 거리) 1080p CZ Titulky",
         "planned_at": "2026-11-06T06:47:54.419737+00:00"
-      },
-      "claim": {
-        "worker_id": "97f91fb0ae8b46e79eae55aaebd17b31-shard-0",
-        "claimed_at": "2026-11-06T06:47:54.482072+00:00",
-        "lease_expires_at": "2026-11-06T12:47:54.482072+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30851366",
       "prepared": {
@@ -72658,5 +72660,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T06:47:58.270365+00:00"
+  "updated_at": "2026-11-06T07:34:18.008338+00:00"
 }
