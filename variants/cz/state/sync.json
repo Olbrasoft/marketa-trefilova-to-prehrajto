@@ -13932,13 +13932,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-06T08:33:37.930728+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-06T09:05:09.881346+00:00"
         },
         {
@@ -13947,6 +13940,13 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-06T09:36:58.192573+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:08:20.716602+00:00"
         }
       ],
       "last_plan": {
@@ -13960,12 +13960,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
-      },
-      "claim": {
-        "worker_id": "a99123e405e6402a8628c719a0f50763-shard-0",
-        "claimed_at": "2026-11-06T10:08:18.094466+00:00",
-        "lease_expires_at": "2026-11-06T16:08:18.094466+00:00",
-        "run_id": "42194637218"
       }
     },
     "22047": {
@@ -14571,7 +14565,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-06T09:36:57.120579+00:00"
+        "planned_at": "2026-11-06T10:08:20.191660+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14579,6 +14573,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "cbbff4de829644aeaab1dae19cdae95f-shard-0",
+        "claimed_at": "2026-11-06T10:08:20.502695+00:00",
+        "lease_expires_at": "2026-11-06T16:08:20.502695+00:00",
+        "run_id": "42194637218"
       }
     },
     "22177": {
@@ -67482,7 +67482,7 @@
       "last_plan": {
         "source_id": "11716047",
         "display_name": "The World According to Garp 1080p CZ Dabing",
-        "planned_at": "2026-11-06T10:08:17.915597+00:00"
+        "planned_at": "2026-11-06T10:08:20.326431+00:00"
       }
     },
     "19811": {
@@ -114792,5 +114792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:08:18.724510+00:00"
+  "updated_at": "2026-11-06T10:08:20.716623+00:00"
 }
