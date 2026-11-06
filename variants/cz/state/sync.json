@@ -66812,17 +66812,19 @@
       "attempts": []
     },
     "2082": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18134018",
+          "target_video_id": "30845049",
+          "permanent": false,
+          "attempted_at": "2026-11-06T04:46:14.038882+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18134018",
         "display_name": "Angel-A 1080p CZ Dabing",
         "planned_at": "2026-11-06T03:39:17.839471+00:00"
-      },
-      "claim": {
-        "worker_id": "8d4efa4fa9dc426a9b8d5d8caafe9192-shard-0",
-        "claimed_at": "2026-11-06T03:39:18.126287+00:00",
-        "lease_expires_at": "2026-11-06T09:39:18.126287+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30845049",
       "prepared": {
@@ -113119,5 +113121,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T04:24:28.105821+00:00"
+  "updated_at": "2026-11-06T04:46:14.038902+00:00"
 }
