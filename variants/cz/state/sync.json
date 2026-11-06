@@ -69832,17 +69832,19 @@
       }
     },
     "33160": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716201",
+          "target_video_id": "30867074",
+          "permanent": false,
+          "attempted_at": "2026-11-06T19:20:30.590520+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716201",
         "display_name": "The Secret of Santa Vittoria 720p CZ Dabing",
         "planned_at": "2026-11-06T19:10:54.474480+00:00"
-      },
-      "claim": {
-        "worker_id": "6cd86e9eaa0e45cf9532f456c0767256-shard-0",
-        "claimed_at": "2026-11-06T19:10:54.804530+00:00",
-        "lease_expires_at": "2026-11-07T01:10:54.804530+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30867074",
       "prepared": {
@@ -118801,5 +118803,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T19:13:57.448451+00:00"
+  "updated_at": "2026-11-06T19:20:30.590537+00:00"
 }
