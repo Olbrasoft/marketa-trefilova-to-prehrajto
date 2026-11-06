@@ -67201,17 +67201,19 @@
       "attempts": []
     },
     "11051": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34402635",
+          "target_video_id": "30855016",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:18:46.621249+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34402635",
         "display_name": "Klute 1080p CZ Dabing",
         "planned_at": "2026-11-06T09:06:53.486871+00:00"
-      },
-      "claim": {
-        "worker_id": "2eb6c3e7b3ef4842923bd6bf4ba5f99e-shard-0",
-        "claimed_at": "2026-11-06T09:06:53.698698+00:00",
-        "lease_expires_at": "2026-11-06T15:06:53.698698+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30855016",
       "prepared": {
@@ -114292,5 +114294,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:06:58.898285+00:00"
+  "updated_at": "2026-11-06T09:18:46.621266+00:00"
 }
