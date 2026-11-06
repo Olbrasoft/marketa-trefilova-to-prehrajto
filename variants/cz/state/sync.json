@@ -68475,25 +68475,22 @@
       "attempts": []
     },
     "1713": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "31105084",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30862116",
+          "attempted_at": "2026-11-06T15:30:30.071083+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31105084",
         "display_name": "Empties (Vratné lahve) 1080p CZ Dabing",
         "planned_at": "2026-11-06T15:19:35.301406+00:00"
       },
-      "claim": {
-        "worker_id": "4bef14f448d84851b93f55436841f6f0-shard-0",
-        "claimed_at": "2026-11-06T15:19:36.983677+00:00",
-        "lease_expires_at": "2026-11-06T21:19:36.983677+00:00",
-        "run_id": "42233332129"
-      },
-      "previous_target_id": "30862116",
-      "prepared": {
-        "target_video_id": "30862116",
-        "size_bytes": 2093897340,
-        "prepared_at": "2026-11-06T15:19:41.243000+00:00",
-        "relay_source_id": "31105084"
-      }
+      "previous_target_id": "30862116"
     },
     "15980": {
       "attempts": []
@@ -117180,5 +117177,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T15:26:15.235897+00:00"
+  "updated_at": "2026-11-06T15:30:30.071106+00:00"
 }
