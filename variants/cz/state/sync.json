@@ -56634,13 +56634,6 @@
           "source_id": "33383467",
           "target_video_id": "30785708",
           "permanent": false,
-          "attempted_at": "2026-11-06T08:35:07.173333+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33383467",
-          "target_video_id": "30785708",
-          "permanent": false,
           "attempted_at": "2026-11-06T09:06:11.530385+00:00"
         },
         {
@@ -56649,12 +56642,19 @@
           "target_video_id": "30785708",
           "permanent": false,
           "attempted_at": "2026-11-06T09:38:03.905207+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33383467",
+          "target_video_id": "30785708",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:09:07.675554+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33383467",
         "display_name": "Vanishing Point 1080p CZ Dabing",
-        "planned_at": "2026-11-06T09:37:59.457298+00:00"
+        "planned_at": "2026-11-06T10:09:06.170830+00:00"
       },
       "previous_target_id": "30785708",
       "prepared": {
@@ -67476,7 +67476,13 @@
       "last_plan": {
         "source_id": "11716047",
         "display_name": "The World According to Garp 1080p CZ Dabing",
-        "planned_at": "2026-11-06T10:09:02.964146+00:00"
+        "planned_at": "2026-11-06T10:09:06.303062+00:00"
+      },
+      "claim": {
+        "worker_id": "e72d6ea299a04c098d1a3b2c29f33710-shard-0",
+        "claimed_at": "2026-11-06T10:09:06.630965+00:00",
+        "lease_expires_at": "2026-11-06T16:09:06.630965+00:00",
+        "run_id": "42194637218"
       }
     },
     "19811": {
@@ -67484,7 +67490,7 @@
       "last_plan": {
         "source_id": "27903559",
         "display_name": "Winnie the Pooh 1080p CZ Dabing",
-        "planned_at": "2026-11-06T10:05:28.970173+00:00"
+        "planned_at": "2026-11-06T10:09:06.380186+00:00"
       }
     },
     "15887": {
@@ -114786,5 +114792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:09:04.334189+00:00"
+  "updated_at": "2026-11-06T10:09:07.675577+00:00"
 }
