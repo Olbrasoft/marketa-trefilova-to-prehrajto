@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T16:12:12.317424+00:00
+Poslední aktualizace (UTC): 2026-11-06T16:12:14.905356+00:00
 
 Zkontrolováno videí: 464. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 73, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 74, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -100,6 +100,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 78. Důvod
 | [Loveable (Elskling) 1080p CZ Titulky](https://prehraj.to/loveable-elskling-1080p-cz-titulky-mkv/b31417ef672ddca4) (ID 30819315) | [Sdílej 35402811](https://sdilej.cz/35402811/loveable.2024.norwegian.nordic.1080p.web-dl.dd5.1.10bit.x265-gaut.cz.tit.mkv) | target_unavailable | 2026-11-05T14:57:40.324132+00:00 |
 | [Mardaani 1080p CZ Titulky](https://prehraj.to/mardaani-1080p-cz-titulky-mkv/851f2cd52206c3d2) (ID 30840183) | [Sdílej 33807079](https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv) | target_unavailable | 2026-11-06T01:09:46.748564+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-06T11:16:29.217043+00:00 |
+| [Mr. Brooks 1080p CZ Titulky](https://prehraj.to/mr-brooks-1080p-cz-titulky-mkv/2afa101ab588f405) (ID 30863259) | [Sdílej 30834447](https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv) | target_unavailable | 2026-11-06T16:12:14.436395+00:00 |
 | [Nouvelle Vague 4K CZ Titulky](https://prehraj.to/nouvelle-vague-4k-cz-titulky-mkv/60cecaddbfe2e8d5) (ID 30843642) | [Sdílej 34011190](https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv) | target_unavailable | 2026-11-06T03:10:51.602823+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T14:29:13.595239+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-06T05:32:05.097930+00:00 |
