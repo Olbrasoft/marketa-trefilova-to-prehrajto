@@ -23443,17 +23443,19 @@
       "attempts": []
     },
     "1794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27438034",
+          "target_video_id": "30849922",
+          "permanent": false,
+          "attempted_at": "2026-11-06T08:03:18.379752+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27438034",
         "display_name": "Ant-Man 4K CZ Titulky",
         "planned_at": "2026-11-06T05:53:41.652562+00:00"
-      },
-      "claim": {
-        "worker_id": "421f0791f0b14e1ebd7a5d8e87519c8a-shard-0",
-        "claimed_at": "2026-11-06T05:53:41.753935+00:00",
-        "lease_expires_at": "2026-11-06T11:53:41.753935+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30849922",
       "prepared": {
@@ -72955,5 +72957,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T07:35:52.263033+00:00"
+  "updated_at": "2026-11-06T08:03:18.379766+00:00"
 }
