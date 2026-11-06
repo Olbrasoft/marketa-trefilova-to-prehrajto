@@ -10809,13 +10809,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-06T08:33:15.105127+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-06T09:04:50.654031+00:00"
         },
         {
@@ -10824,6 +10817,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-06T09:36:38.762665+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:08:09.578766+00:00"
         }
       ],
       "last_plan": {
@@ -18868,7 +18868,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-06T09:36:38.146329+00:00"
+        "planned_at": "2026-11-06T10:08:08.290709+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18876,6 +18876,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "adff4a49eaa54234be509b6508d4f128-shard-0",
+        "claimed_at": "2026-11-06T10:08:08.596916+00:00",
+        "lease_expires_at": "2026-11-06T16:08:08.596916+00:00",
+        "run_id": "42194637218"
       }
     },
     "29695": {
@@ -67476,7 +67482,7 @@
       "last_plan": {
         "source_id": "11716047",
         "display_name": "The World According to Garp 1080p CZ Dabing",
-        "planned_at": "2026-11-06T10:08:06.393881+00:00"
+        "planned_at": "2026-11-06T10:08:08.422148+00:00"
       }
     },
     "19811": {
@@ -114786,5 +114792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:08:06.641399+00:00"
+  "updated_at": "2026-11-06T10:08:09.578785+00:00"
 }
