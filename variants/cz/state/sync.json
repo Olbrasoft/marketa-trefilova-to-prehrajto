@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-06T11:32:54.816013+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-06T12:16:55.919849+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-06T12:56:57.045504+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-06T13:36:04.695222+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "86b4a7a5744f4b98a0fc2e024f35bdec-shard-0",
-        "claimed_at": "2026-11-06T13:36:01.318807+00:00",
-        "lease_expires_at": "2026-11-06T19:36:01.318807+00:00",
-        "run_id": "42194637218"
       }
     },
     "229": {
@@ -7106,7 +7100,7 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Blood Diamond 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:56:55.559261+00:00"
+        "planned_at": "2026-11-06T13:36:03.652959+00:00"
       },
       "previous_target_id": "30627346",
       "prepared": {
@@ -7114,6 +7108,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
+      },
+      "claim": {
+        "worker_id": "75a03ee3b14d471499a74fe54aaf7fe1-shard-0",
+        "claimed_at": "2026-11-06T13:36:03.969672+00:00",
+        "lease_expires_at": "2026-11-06T19:36:03.969672+00:00",
+        "run_id": "42194637218"
       }
     },
     "327": {
@@ -68204,7 +68204,7 @@
       "last_plan": {
         "source_id": "29706570",
         "display_name": "The Year of Living Dangerously 1080p CZ Dabing",
-        "planned_at": "2026-11-06T13:36:01.138478+00:00"
+        "planned_at": "2026-11-06T13:36:03.794919+00:00"
       }
     },
     "22703": {
@@ -116502,5 +116502,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T13:36:01.910702+00:00"
+  "updated_at": "2026-11-06T13:36:04.695236+00:00"
 }
