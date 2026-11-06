@@ -23601,7 +23601,7 @@
       "last_plan": {
         "source_id": "29918220",
         "display_name": "School of Rock 1080p CZ Titulky",
-        "planned_at": "2026-11-06T08:37:48.137438+00:00"
+        "planned_at": "2026-11-06T09:18:48.972458+00:00"
       },
       "previous_target_id": "30854567",
       "prepared": {
@@ -23638,17 +23638,19 @@
       }
     },
     "1810": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27519363",
+          "target_video_id": "30854783",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:19:57.271627+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27519363",
         "display_name": "Insomnia 1080p CZ Titulky",
         "planned_at": "2026-11-06T08:52:19.353546+00:00"
-      },
-      "claim": {
-        "worker_id": "fae82e285baa4f2a87c2a2577046d0fd-shard-0",
-        "claimed_at": "2026-11-06T08:52:19.416483+00:00",
-        "lease_expires_at": "2026-11-06T14:52:19.416483+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30854783",
       "prepared": {
@@ -73307,5 +73309,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:03:43.521089+00:00"
+  "updated_at": "2026-11-06T09:19:57.271653+00:00"
 }
