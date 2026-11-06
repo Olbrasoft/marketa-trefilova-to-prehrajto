@@ -68808,17 +68808,19 @@
       "attempts": []
     },
     "1904": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33393660",
+          "target_video_id": "30864057",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:52:31.911550+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33393660",
         "display_name": "Dangerous Beauty 1080p CZ Dabing",
         "planned_at": "2026-11-06T16:46:09.529232+00:00"
-      },
-      "claim": {
-        "worker_id": "57cd5d78e504481fae1bf4fff07725df-shard-0",
-        "claimed_at": "2026-11-06T16:46:09.813441+00:00",
-        "lease_expires_at": "2026-11-06T22:46:09.813441+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30864057",
       "prepared": {
@@ -117745,5 +117747,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:51:31.988729+00:00"
+  "updated_at": "2026-11-06T16:52:31.911565+00:00"
 }
