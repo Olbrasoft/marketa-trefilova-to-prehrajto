@@ -68194,17 +68194,19 @@
       }
     },
     "22720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29706570",
+          "target_video_id": "30860257",
+          "permanent": false,
+          "attempted_at": "2026-11-06T13:42:19.845993+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29706570",
         "display_name": "The Year of Living Dangerously 1080p CZ Dabing",
         "planned_at": "2026-11-06T13:36:36.446445+00:00"
-      },
-      "claim": {
-        "worker_id": "3f80694fc2cf4cc18306475ae0f74acc-shard-0",
-        "claimed_at": "2026-11-06T13:36:36.752674+00:00",
-        "lease_expires_at": "2026-11-06T19:36:36.752674+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30860257",
       "prepared": {
@@ -116527,5 +116529,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T13:38:41.290447+00:00"
+  "updated_at": "2026-11-06T13:42:19.846011+00:00"
 }
