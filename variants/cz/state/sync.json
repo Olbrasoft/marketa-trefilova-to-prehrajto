@@ -71524,17 +71524,19 @@
       }
     },
     "11683": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33731471",
+          "target_video_id": "30872094",
+          "permanent": false,
+          "attempted_at": "2026-11-06T23:02:00.280014+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33731471",
         "display_name": "Dragons Forever (飛龍猛將) 1080p CZ Dabing",
         "planned_at": "2026-11-06T22:47:12.397611+00:00"
-      },
-      "claim": {
-        "worker_id": "bdcda3546b284373b62576b34daab397-shard-0",
-        "claimed_at": "2026-11-06T22:47:12.724712+00:00",
-        "lease_expires_at": "2026-11-07T04:47:12.724712+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30872094",
       "prepared": {
@@ -120433,5 +120435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:48:19.453635+00:00"
+  "updated_at": "2026-11-06T23:02:00.280031+00:00"
 }
