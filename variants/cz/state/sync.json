@@ -8472,13 +8472,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-06T06:30:40.801140+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-06T07:40:47.525526+00:00"
         },
         {
@@ -8487,6 +8480,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-06T08:37:34.284288+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:20:21.627144+00:00"
         }
       ],
       "last_plan": {
@@ -8500,12 +8500,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "8ba6a5e7853346799424ae5a137a86bf-shard-0",
-        "claimed_at": "2026-11-06T09:18:49.348160+00:00",
-        "lease_expires_at": "2026-11-06T15:18:49.348160+00:00",
-        "run_id": "42168012793"
       }
     },
     "29922": {
@@ -64190,7 +64184,7 @@
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-06T08:37:42.022084+00:00"
+        "planned_at": "2026-11-06T09:20:19.978136+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -64198,6 +64192,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-05T14:15:35.875478+00:00",
         "relay_source_id": "11088676"
+      },
+      "claim": {
+        "worker_id": "6e59e9c015c246aea921d35c34f17361-shard-0",
+        "claimed_at": "2026-11-06T09:20:20.632396+00:00",
+        "lease_expires_at": "2026-11-06T15:20:20.632396+00:00",
+        "run_id": "42168012793"
       }
     },
     "1582": {
@@ -67240,7 +67240,7 @@
       "last_plan": {
         "source_id": "22767130",
         "display_name": "The Man on the Roof (Man on the Roof) 720p CZ Dabing",
-        "planned_at": "2026-11-06T09:20:12.286125+00:00"
+        "planned_at": "2026-11-06T09:20:20.418331+00:00"
       }
     },
     "29822": {
@@ -114311,5 +114311,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:20:16.458670+00:00"
+  "updated_at": "2026-11-06T09:20:21.627161+00:00"
 }
