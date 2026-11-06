@@ -440,3 +440,4 @@ Attach subtitles only after target processing has finished.
 | The Beast (1988) 720p CZ Titulky | 30845001 | https://sdilej.cz/30819441/the-beast-of-war-1988-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Constantine City of Demons: The Movie (Constantine: City of Demons - The Movie) 1080p CZ Titulky | 30845304 | https://sdilej.cz/18493180/constantine-city-of-demons-the-movie-2018-cz-sub-1080p-bluray-dts-x264.mkv | Extract Czech track from exact source after processing |
 | La grazia 1080p CZ Titulky | 30846589 | https://sdilej.cz/34150864/la-grazia-2025-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky | 30846831 | https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv | Extract Czech track from exact source after processing |
