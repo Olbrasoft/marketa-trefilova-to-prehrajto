@@ -8512,13 +8512,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-06T19:29:38.485541+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-06T20:09:01.878586+00:00"
         },
         {
@@ -8527,6 +8520,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-06T20:51:14.428523+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-06T21:23:50.392806+00:00"
         }
       ],
       "last_plan": {
@@ -22188,7 +22188,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-06T20:51:22.194710+00:00"
+        "planned_at": "2026-11-06T21:23:48.885422+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22196,6 +22196,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "117ccbd0fde8497db0455b829090fbb7-shard-0",
+        "claimed_at": "2026-11-06T21:23:49.480743+00:00",
+        "lease_expires_at": "2026-11-07T03:23:49.480743+00:00",
+        "run_id": "42270484162"
       }
     },
     "730": {
@@ -70569,7 +70575,7 @@
       "last_plan": {
         "source_id": "22436817",
         "display_name": "War of the Arrows (최종병기 활) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T21:23:46.690187+00:00"
+        "planned_at": "2026-11-06T21:23:49.113675+00:00"
       }
     },
     "13433": {
@@ -119575,5 +119581,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T21:23:46.690205+00:00"
+  "updated_at": "2026-11-06T21:23:50.392825+00:00"
 }
