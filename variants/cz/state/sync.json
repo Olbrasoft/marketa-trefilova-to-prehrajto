@@ -66706,17 +66706,19 @@
       }
     },
     "11620": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32587536",
+          "target_video_id": "30843687",
+          "permanent": false,
+          "attempted_at": "2026-11-06T03:34:02.961000+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32587536",
         "display_name": "Ginger and Fred (Ginger e Fred) 1080p CZ Dabing",
         "planned_at": "2026-11-06T03:01:54.749655+00:00"
-      },
-      "claim": {
-        "worker_id": "5736686d88024f08bef1bcd4e7ec3828-shard-0",
-        "claimed_at": "2026-11-06T03:01:55.014557+00:00",
-        "lease_expires_at": "2026-11-06T09:01:55.014557+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30843687",
       "prepared": {
@@ -112663,5 +112665,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T03:01:58.655651+00:00"
+  "updated_at": "2026-11-06T03:34:02.961020+00:00"
 }
