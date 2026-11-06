@@ -13932,13 +13932,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:08:20.716602+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-06T10:52:44.821437+00:00"
         },
         {
@@ -13947,6 +13940,13 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-06T11:33:28.624755+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:17:19.646463+00:00"
         }
       ],
       "last_plan": {
@@ -13960,12 +13960,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
-      },
-      "claim": {
-        "worker_id": "e56b38039a664c89891849b4c57a1fb9-shard-0",
-        "claimed_at": "2026-11-06T12:17:16.821128+00:00",
-        "lease_expires_at": "2026-11-06T18:17:16.821128+00:00",
-        "run_id": "42194637218"
       }
     },
     "22047": {
@@ -14571,7 +14565,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-06T11:33:30.248192+00:00"
+        "planned_at": "2026-11-06T12:17:19.191941+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14579,6 +14573,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "c1cd897dcbac4b2e808e0b79ce59591f-shard-0",
+        "claimed_at": "2026-11-06T12:17:19.534297+00:00",
+        "lease_expires_at": "2026-11-06T18:17:19.534297+00:00",
+        "run_id": "42194637218"
       }
     },
     "22177": {
@@ -67926,7 +67926,7 @@
       "last_plan": {
         "source_id": "30853905",
         "display_name": "Superman/Batman: Public Enemies 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:17:16.631369+00:00"
+        "planned_at": "2026-11-06T12:17:19.327522+00:00"
       }
     },
     "20105": {
@@ -115717,5 +115717,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:17:17.524438+00:00"
+  "updated_at": "2026-11-06T12:17:19.646486+00:00"
 }
