@@ -66765,17 +66765,19 @@
       "attempts": []
     },
     "1999": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10592583",
+          "target_video_id": "30845047",
+          "permanent": false,
+          "attempted_at": "2026-11-06T03:48:02.576624+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10592583",
         "display_name": "In the Fade (Aus dem Nichts) 720p CZ Dabing",
         "planned_at": "2026-11-06T03:39:16.229754+00:00"
-      },
-      "claim": {
-        "worker_id": "e0c7d8aba9754320bed4e1f4a0e2c3fe-shard-0",
-        "claimed_at": "2026-11-06T03:39:17.601890+00:00",
-        "lease_expires_at": "2026-11-06T09:39:17.601890+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30845047",
       "prepared": {
@@ -112833,5 +112835,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T03:39:23.297294+00:00"
+  "updated_at": "2026-11-06T03:48:02.576644+00:00"
 }
