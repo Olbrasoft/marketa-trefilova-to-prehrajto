@@ -23956,17 +23956,19 @@
       "attempts": []
     },
     "13351": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23537039",
+          "target_video_id": "30858164",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:15:50.259134+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23537039",
         "display_name": "The Life Aquatic with Steve Zissou 1080p CZ Titulky",
         "planned_at": "2026-11-06T11:49:40.048968+00:00"
-      },
-      "claim": {
-        "worker_id": "60e7a3b0254442959b83ed660d98bc85-shard-0",
-        "claimed_at": "2026-11-06T11:49:40.093158+00:00",
-        "lease_expires_at": "2026-11-06T17:49:40.093158+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30858164",
       "prepared": {
@@ -74404,5 +74406,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:15:48.678843+00:00"
+  "updated_at": "2026-11-06T12:15:50.259156+00:00"
 }
