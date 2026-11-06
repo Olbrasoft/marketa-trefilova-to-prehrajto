@@ -7080,13 +7080,6 @@
           "source_id": "26239565",
           "target_video_id": "30627346",
           "permanent": false,
-          "attempted_at": "2026-11-06T07:36:42.541172+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "30627346",
-          "permanent": false,
           "attempted_at": "2026-11-06T08:33:04.325113+00:00"
         },
         {
@@ -7095,6 +7088,13 @@
           "target_video_id": "30627346",
           "permanent": false,
           "attempted_at": "2026-11-06T09:04:39.214098+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:36:28.929031+00:00"
         }
       ],
       "last_plan": {
@@ -7108,12 +7108,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
-      },
-      "claim": {
-        "worker_id": "947a41087e104340a4d9a7209b1b9ebe-shard-0",
-        "claimed_at": "2026-11-06T09:36:26.336384+00:00",
-        "lease_expires_at": "2026-11-06T15:36:26.336384+00:00",
-        "run_id": "42168012793"
       }
     },
     "327": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-06T09:04:40.684998+00:00"
+        "planned_at": "2026-11-06T09:36:28.472720+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "e753253033e44dde8dc4ccc3a6a922c6-shard-0",
+        "claimed_at": "2026-11-06T09:36:29.025958+00:00",
+        "lease_expires_at": "2026-11-06T15:36:29.025958+00:00",
+        "run_id": "42168012793"
       }
     },
     "12843": {
@@ -67364,7 +67364,7 @@
       "last_plan": {
         "source_id": "25227421",
         "display_name": "Micmacs SD CZ Dabing",
-        "planned_at": "2026-11-06T09:36:26.006718+00:00"
+        "planned_at": "2026-11-06T09:36:28.645019+00:00"
       }
     },
     "2062": {
@@ -114684,5 +114684,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:36:26.698309+00:00"
+  "updated_at": "2026-11-06T09:36:29.025982+00:00"
 }
