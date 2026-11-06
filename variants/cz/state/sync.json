@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-06T16:06:57.451290+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-06T16:37:17.481623+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-06T17:11:37.821643+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:44:56.767254+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-06T17:11:39.296451+00:00"
+        "planned_at": "2026-11-06T17:44:54.397059+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "b69e37b034a44ad49d4026b0f98c5017-shard-0",
+        "claimed_at": "2026-11-06T17:44:54.938060+00:00",
+        "lease_expires_at": "2026-11-06T23:44:54.938060+00:00",
+        "run_id": "42233332129"
       }
     },
     "52": {
@@ -69276,7 +69282,7 @@
       "last_plan": {
         "source_id": "29236082",
         "display_name": "The Feather Fairy (Perinbaba) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T17:44:52.384338+00:00"
+        "planned_at": "2026-11-06T17:44:54.628831+00:00"
       }
     },
     "20999": {
@@ -118060,5 +118066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:44:52.608703+00:00"
+  "updated_at": "2026-11-06T17:44:56.767271+00:00"
 }
