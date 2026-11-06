@@ -66517,17 +66517,19 @@
       "attempts": []
     },
     "22699": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32945753",
+          "target_video_id": "30841942",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:11:01.145776+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32945753",
         "display_name": "Rumble Fish 1080p CZ Dabing",
         "planned_at": "2026-11-06T02:07:41.030460+00:00"
-      },
-      "claim": {
-        "worker_id": "9a029e2b283c4f23b4b2e1c9359e6bd3-shard-0",
-        "claimed_at": "2026-11-06T02:07:41.314041+00:00",
-        "lease_expires_at": "2026-11-06T08:07:41.314041+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30841942",
       "prepared": {
@@ -112498,5 +112500,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T02:07:45.213166+00:00"
+  "updated_at": "2026-11-06T02:11:01.145812+00:00"
 }
