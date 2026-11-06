@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T02:10:19.024914+00:00
+Poslední aktualizace (UTC): 2026-11-06T02:10:20.947096+00:00
 
 Zkontrolováno videí: 432. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 39, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -96,6 +96,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Důvod
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-05T14:29:10.190580+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-05T14:28:24.208919+00:00 |
 | [Song Sung Blue 1080p CZ Titulky](https://prehraj.to/song-sung-blue-1080p-cz-titulky-mp4/de9cdbac12fd3d10) (ID 30824468) | [Sdílej 33348083](https://sdilej.cz/33348083/song-sung-blue-2025-cz-titulky.mp4) | target_unavailable | 2026-11-05T17:08:55.543107+00:00 |
+| [Spare Parts 720p CZ Titulky](https://prehraj.to/spare-parts-720p-cz-titulky-mkv/9247fc3462249d3f) (ID 30841932) | [Sdílej 14942933](https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-06T02:10:20.872781+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-05T14:28:51.492442+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-05T14:29:03.115273+00:00 |
 | [The Captain (Der Hauptmann) (2017) 1080p CZ Titulky](https://prehraj.to/the-captain-der-hauptmann-2017-1080p-cz-titulky-mkv/e1cec67638013968) (ID 30831408) | [Sdílej 10699415](https://sdilej.cz/10699415/der-hauptmann-cz-titulky-fullhd-1080p.mkv) | target_unavailable | 2026-11-05T20:52:52.409297+00:00 |
