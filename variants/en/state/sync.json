@@ -3173,13 +3173,6 @@
           "source_id": "29080724",
           "target_video_id": "30612474",
           "permanent": false,
-          "attempted_at": "2026-11-06T03:34:47.567092+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29080724",
-          "target_video_id": "30612474",
-          "permanent": false,
           "attempted_at": "2026-11-06T04:13:15.555926+00:00"
         },
         {
@@ -3188,6 +3181,13 @@
           "target_video_id": "30612474",
           "permanent": false,
           "attempted_at": "2026-11-06T04:46:54.300505+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29080724",
+          "target_video_id": "30612474",
+          "permanent": false,
+          "attempted_at": "2026-11-06T05:52:23.096979+00:00"
         }
       ],
       "last_plan": {
@@ -3201,12 +3201,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
-      },
-      "claim": {
-        "worker_id": "31241c19b2b6482f85e25853134ee9b6-shard-0",
-        "claimed_at": "2026-11-06T05:52:18.692251+00:00",
-        "lease_expires_at": "2026-11-06T11:52:18.692251+00:00",
-        "run_id": "42168012793"
       }
     },
     "31551": {
@@ -15363,7 +15357,7 @@
       "last_plan": {
         "source_id": "33222569",
         "display_name": "A Hard Day's Night 1080p CZ Titulky",
-        "planned_at": "2026-11-06T04:46:56.208161+00:00"
+        "planned_at": "2026-11-06T05:52:22.833353+00:00"
       },
       "previous_target_id": "30735890",
       "prepared": {
@@ -15371,6 +15365,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-02T16:05:44.247867+00:00",
         "relay_source_id": "33222569"
+      },
+      "claim": {
+        "worker_id": "7134248046f04775944f7e47ee63c087-shard-0",
+        "claimed_at": "2026-11-06T05:52:23.010511+00:00",
+        "lease_expires_at": "2026-11-06T11:52:23.010511+00:00",
+        "run_id": "42168012793"
       }
     },
     "31737": {
@@ -23411,7 +23411,7 @@
       "last_plan": {
         "source_id": "27438034",
         "display_name": "Ant-Man 4K CZ Titulky",
-        "planned_at": "2026-11-06T05:52:18.594834+00:00"
+        "planned_at": "2026-11-06T05:52:22.949354+00:00"
       }
     },
     "1835": {
@@ -72289,5 +72289,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T05:52:19.475350+00:00"
+  "updated_at": "2026-11-06T05:52:23.096994+00:00"
 }
