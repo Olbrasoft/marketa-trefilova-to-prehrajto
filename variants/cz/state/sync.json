@@ -66606,17 +66606,19 @@
       }
     },
     "1926": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29264862",
+          "target_video_id": "30842644",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:45:15.520106+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29264862",
         "display_name": "Parallel Mothers (Madres paralelas) 1080p CZ Dabing",
         "planned_at": "2026-11-06T02:27:30.936597+00:00"
-      },
-      "claim": {
-        "worker_id": "0bd0d0300b184de38a2f7e386ed06c6b-shard-0",
-        "claimed_at": "2026-11-06T02:27:31.200068+00:00",
-        "lease_expires_at": "2026-11-06T08:27:31.200068+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30842644",
       "prepared": {
@@ -112583,5 +112585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T02:36:48.526937+00:00"
+  "updated_at": "2026-11-06T02:45:15.520126+00:00"
 }
