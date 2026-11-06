@@ -466,3 +466,4 @@ Attach subtitles only after target processing has finished.
 | They Live 1080p CZ Titulky | 30862600 | https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv | Extract Czech track from exact source after processing |
 | Mr. Brooks 1080p CZ Titulky | 30863259 | https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv | Extract Czech track from exact source after processing |
 | Where the Crawdads Sing 720p CZ Titulky | 30863680 | https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv | Extract Czech track from exact source after processing |
+| The Phantom of the Opera (2004) 720p CZ Titulky | 30864178 | https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv | Extract Czech track from exact source after processing |
