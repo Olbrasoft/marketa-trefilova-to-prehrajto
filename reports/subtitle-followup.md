@@ -433,3 +433,4 @@ Attach subtitles only after target processing has finished.
 | Truman 1080p CZ Titulky | 30840252 | https://sdilej.cz/11718608/truman.2015.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Želary 1080p CZ Titulky | 30840564 | https://sdilej.cz/28893904/zelary.2003.bdrip.cz.1080p.mkv | Extract Czech track from exact source after processing |
 | The Man from Laramie SD CZ Titulky | 30841326 | https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv | Extract Czech track from exact source after processing |
+| Spare Parts 720p CZ Titulky | 30841932 | https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv | Extract Czech track from exact source after processing |
