@@ -22953,17 +22953,19 @@
       "attempts": []
     },
     "20395": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14942933",
+          "target_video_id": "30841932",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:25:37.693315+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14942933",
         "display_name": "Spare Parts 720p CZ Titulky",
         "planned_at": "2026-11-06T02:06:43.791425+00:00"
-      },
-      "claim": {
-        "worker_id": "ae2e02b9d9ee40909d945e32ee59f8a0-shard-0",
-        "claimed_at": "2026-11-06T02:06:43.869519+00:00",
-        "lease_expires_at": "2026-11-06T08:06:43.869519+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30841932",
       "prepared": {
@@ -71674,5 +71676,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T02:22:51.696334+00:00"
+  "updated_at": "2026-11-06T02:25:37.693334+00:00"
 }
