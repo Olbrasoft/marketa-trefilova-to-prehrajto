@@ -69728,17 +69728,19 @@
       "attempts": []
     },
     "22034": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27387734",
+          "target_video_id": "30866772",
+          "permanent": false,
+          "attempted_at": "2026-11-06T19:05:33.807465+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27387734",
         "display_name": "Big Jake SD CZ Dabing",
         "planned_at": "2026-11-06T18:57:43.809330+00:00"
-      },
-      "claim": {
-        "worker_id": "92f445fc144e4fb4bd8fbd0325fd8fa7-shard-0",
-        "claimed_at": "2026-11-06T18:57:44.226551+00:00",
-        "lease_expires_at": "2026-11-07T00:57:44.226551+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30866772",
       "prepared": {
@@ -118456,5 +118458,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:57:58.785184+00:00"
+  "updated_at": "2026-11-06T19:05:33.807481+00:00"
 }
