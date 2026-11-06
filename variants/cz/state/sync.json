@@ -69147,11 +69147,19 @@
       "attempts": []
     },
     "10993": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "33493675",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-06T17:27:32.487943+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33493675",
         "display_name": "Hello, Dolly! 1080p CZ Dabing",
-        "planned_at": "2026-11-06T17:26:24.795047+00:00"
+        "planned_at": "2026-11-06T17:26:27.848996+00:00"
       }
     },
     "10708": {
@@ -117953,5 +117961,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:26:26.012662+00:00"
+  "updated_at": "2026-11-06T17:27:32.487962+00:00"
 }
