@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T01:29:56.754211+00:00
+Poslední aktualizace (UTC): 2026-11-06T01:29:58.473200+00:00
 
 Zkontrolováno videí: 430. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 36, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -109,6 +109,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Důvod
 | [Uncle Frank 1080p CZ Titulky](https://prehraj.to/uncle-frank-1080p-cz-titulky-mkv/faa444e55ebf22a2) (ID 30831460) | [Sdílej 14813697](https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-11-05T20:52:56.357973+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-05T14:29:35.887287+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-05T14:28:35.742665+00:00 |
+| [Želary 1080p CZ Titulky](https://prehraj.to/zelary-1080p-cz-titulky-mkv/f87466d4719cd349) (ID 30840564) | [Sdílej 28893904](https://sdilej.cz/28893904/zelary.2003.bdrip.cz.1080p.mkv) | target_unavailable | 2026-11-06T01:29:58.473117+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
