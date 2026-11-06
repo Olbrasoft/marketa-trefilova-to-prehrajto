@@ -8026,7 +8026,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-06T02:58:47.520854+00:00"
+        "planned_at": "2026-11-06T03:36:20.075121+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -66716,17 +66716,19 @@
       "attempts": []
     },
     "13752": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31217789",
+          "target_video_id": "30843685",
+          "permanent": false,
+          "attempted_at": "2026-11-06T03:36:20.182064+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31217789",
         "display_name": "The Messenger 1080p CZ Dabing",
         "planned_at": "2026-11-06T03:01:52.141583+00:00"
-      },
-      "claim": {
-        "worker_id": "aa3da0df9fac4383b5f692200fb113ac-shard-0",
-        "claimed_at": "2026-11-06T03:01:52.420079+00:00",
-        "lease_expires_at": "2026-11-06T09:01:52.420079+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30843685",
       "prepared": {
@@ -112800,5 +112802,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T03:36:18.319706+00:00"
+  "updated_at": "2026-11-06T03:36:20.182083+00:00"
 }
