@@ -69811,17 +69811,19 @@
       "attempts": []
     },
     "13174": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34861950",
+          "target_video_id": "30867058",
+          "permanent": false,
+          "attempted_at": "2026-11-06T19:25:23.506879+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34861950",
         "display_name": "Autumn Spring (Babí léto) 1080p CZ Dabing",
         "planned_at": "2026-11-06T19:09:41.504471+00:00"
-      },
-      "claim": {
-        "worker_id": "2055e056030c444aa0c6bacc324e801e-shard-0",
-        "claimed_at": "2026-11-06T19:09:41.834117+00:00",
-        "lease_expires_at": "2026-11-07T01:09:41.834117+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30867058",
       "prepared": {
@@ -118841,5 +118843,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T19:24:29.447015+00:00"
+  "updated_at": "2026-11-06T19:25:23.506896+00:00"
 }
