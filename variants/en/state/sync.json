@@ -23606,17 +23606,19 @@
       "attempts": []
     },
     "1824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27818942",
+          "target_video_id": "30854680",
+          "permanent": false,
+          "attempted_at": "2026-11-06T08:52:13.428778+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27818942",
         "display_name": "8 Mile 1080p CZ Titulky",
         "planned_at": "2026-11-06T08:45:46.969024+00:00"
-      },
-      "claim": {
-        "worker_id": "ceabed2abc654d3c9c0f8d575d027cbf-shard-0",
-        "claimed_at": "2026-11-06T08:45:47.033013+00:00",
-        "lease_expires_at": "2026-11-06T14:45:47.033013+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30854680",
       "prepared": {
@@ -73278,5 +73280,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T08:45:50.769319+00:00"
+  "updated_at": "2026-11-06T08:52:13.428793+00:00"
 }
