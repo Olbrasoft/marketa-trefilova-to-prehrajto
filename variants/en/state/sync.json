@@ -11422,13 +11422,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-06T07:34:28.315563+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-06T08:30:52.038271+00:00"
         },
         {
@@ -11437,6 +11430,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-06T09:02:31.234846+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:35:04.260155+00:00"
         }
       ],
       "last_plan": {
@@ -17619,7 +17619,7 @@
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
-        "planned_at": "2026-11-06T09:02:33.303973+00:00"
+        "planned_at": "2026-11-06T09:35:03.815632+00:00"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -17627,6 +17627,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
+      },
+      "claim": {
+        "worker_id": "7738aa270c0e4628bf2cdd42d48cadc1-shard-0",
+        "claimed_at": "2026-11-06T09:35:04.065442+00:00",
+        "lease_expires_at": "2026-11-06T15:35:04.065442+00:00",
+        "run_id": "42168012793"
       }
     },
     "24279": {
@@ -23695,7 +23701,7 @@
       "last_plan": {
         "source_id": "31103634",
         "display_name": "Grease 4K CZ Titulky",
-        "planned_at": "2026-11-06T09:34:59.470152+00:00"
+        "planned_at": "2026-11-06T09:35:03.996898+00:00"
       }
     },
     "1640": {
@@ -73608,5 +73614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:34:59.470169+00:00"
+  "updated_at": "2026-11-06T09:35:04.260175+00:00"
 }
