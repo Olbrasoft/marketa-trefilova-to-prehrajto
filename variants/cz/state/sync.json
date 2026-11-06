@@ -16341,13 +16341,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-06T16:06:38.163372+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-06T16:36:59.087613+00:00"
         },
         {
@@ -16356,12 +16349,19 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-06T17:11:20.387918+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:44:39.038395+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-06T17:11:18.801297+00:00"
+        "planned_at": "2026-11-06T17:44:37.316806+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -69226,17 +69226,19 @@
       "attempts": []
     },
     "21492": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28081447",
+          "target_video_id": "30865217",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:44:39.236108+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28081447",
         "display_name": "Love in the Afternoon SD CZ Dabing",
         "planned_at": "2026-11-06T17:35:13.278151+00:00"
-      },
-      "claim": {
-        "worker_id": "4747c9f54271401798efb476c400661d-shard-0",
-        "claimed_at": "2026-11-06T17:35:13.589517+00:00",
-        "lease_expires_at": "2026-11-06T23:35:13.589517+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30865217",
       "prepared": {
@@ -69274,7 +69276,7 @@
       "last_plan": {
         "source_id": "29236082",
         "display_name": "The Feather Fairy (Perinbaba) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T17:44:34.343082+00:00"
+        "planned_at": "2026-11-06T17:44:37.548264+00:00"
       }
     },
     "20999": {
@@ -118058,5 +118060,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:44:35.876315+00:00"
+  "updated_at": "2026-11-06T17:44:39.236125+00:00"
 }
