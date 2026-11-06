@@ -69173,17 +69173,19 @@
       }
     },
     "10708": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30287376",
+          "target_video_id": "30865021",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:37:02.835298+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30287376",
         "display_name": "Quo Vadis (1951) 720p CZ Dabing",
         "planned_at": "2026-11-06T17:27:35.462050+00:00"
-      },
-      "claim": {
-        "worker_id": "c42fa819e3484695a077673049d5574c-shard-0",
-        "claimed_at": "2026-11-06T17:27:35.790953+00:00",
-        "lease_expires_at": "2026-11-06T23:27:35.790953+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30865021",
       "prepared": {
@@ -118025,5 +118027,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:35:17.333017+00:00"
+  "updated_at": "2026-11-06T17:37:02.835316+00:00"
 }
