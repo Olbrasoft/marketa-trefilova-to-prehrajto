@@ -24807,17 +24807,19 @@
       "attempts": []
     },
     "1266": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33601012",
+          "target_video_id": "30869550",
+          "permanent": false,
+          "attempted_at": "2026-11-06T21:56:37.483703+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33601012",
         "display_name": "28 Years Later: The Bone Temple 4K CZ Titulky",
         "planned_at": "2026-11-06T21:02:53.009760+00:00"
-      },
-      "claim": {
-        "worker_id": "2a24efa4b92041278742da59908c55a8-shard-0",
-        "claimed_at": "2026-11-06T21:02:53.116723+00:00",
-        "lease_expires_at": "2026-11-07T03:02:53.116723+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30869550",
       "prepared": {
@@ -76801,5 +76803,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T21:51:51.199240+00:00"
+  "updated_at": "2026-11-06T21:56:37.483719+00:00"
 }
