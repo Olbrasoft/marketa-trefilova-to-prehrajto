@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T22:58:13.408024+00:00
+Poslední aktualizace (UTC): 2026-11-06T22:58:22.380878+00:00
 
 Zkontrolováno videí: 474. Další stránka kontroly: 0.
 
@@ -53,7 +53,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 92. Důvod
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-02T02:27:57.941453+00:00 |
 | [The Lord of the Rings: The Two Towers 4K CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-two-towers-cz-titulky-mkv/6eac0a68b244fbe3) (ID 30583875) | [Sdílej 23272546](https://sdilej.cz/23272546/the-lord-of-the-rings-the-two-towers-2002-extended-2160p-bluray-x265-10bit-hdr-tigole-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T04:34:37.646514+00:00 |
 | [The Silence of the Lambs 4K CZ Titulky](https://prehraj.to/the-silence-of-the-lambs-cz-titulky-mkv/c3103c9b8e9a9c8a) (ID 30586048) | [Sdílej 32633356](https://sdilej.cz/32633356/the-silence-of-the-lambs-mlceni-jehnatek-1991-2160p-cz-ac3-5.1-en-eac3-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T08:39:05.435339+00:00 |
-| [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T22:54:29.458484+00:00 |
+| [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-06T22:58:22.380744+00:00 |
 | [Uri: The Surgical Strike 1080p](https://prehraj.to/uri-the-surgical-strike-avi/6991f89a009a62db) (ID 30612576) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T16:09:59.756155+00:00 |
 | [Vertigo (1958) 720p](https://prehraj.to/vertigo-mkv/6d7a10962df621d4) (ID 30610902) | [Sdílej 14187973](https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T04:31:55.808708+00:00 |
 | [Wicked 4K CZ Titulky](https://prehraj.to/wicked-4k-cz-titulky-mkv/3d47570d0ba0bcbd) (ID 30788407) | [Sdílej 32839401](https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-05T00:31:07.481257+00:00 |
