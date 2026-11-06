@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T05:32:03.247863+00:00
+Poslední aktualizace (UTC): 2026-11-06T05:32:05.097992+00:00
 
 Zkontrolováno videí: 439. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -34,7 +34,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 53. Důvod
 | [King Richard SD](https://prehraj.to/king-richard-sd-mp4/99fdf9d28d271972) (ID 30720567) | [Sdílej 18887803](https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-02T18:27:43.683202+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T11:11:56.448192+00:00 |
 | [My Neighbor Totoro (となりのトトロ) 1080p](https://prehraj.to/my-neighbor-totoro-1080p-mkv/39fb70e4a11a0914) (ID 30620967) | [Sdílej 32534147](https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-30T19:52:18.519868+00:00 |
-| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T05:22:25.423229+00:00 |
 | [Ordet 1080p](https://prehraj.to/ordet-1080p-mkv/7699c14594ec8709) (ID 30622762) | [Sdílej 30646256](https://sdilej.cz/30646256/ordet.1955.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T21:53:57.111765+00:00 |
 | [PK (पीके) SD](https://prehraj.to/pk-sd-mp4/9e12e2312e1b1970) (ID 30622086) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T00:27:28.347777+00:00 |
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T02:53:34.317657+00:00 |
@@ -93,6 +92,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 53. Důvod
 | [Mardaani 1080p CZ Titulky](https://prehraj.to/mardaani-1080p-cz-titulky-mkv/851f2cd52206c3d2) (ID 30840183) | [Sdílej 33807079](https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv) | target_unavailable | 2026-11-06T01:09:46.748564+00:00 |
 | [Nouvelle Vague 4K CZ Titulky](https://prehraj.to/nouvelle-vague-4k-cz-titulky-mkv/60cecaddbfe2e8d5) (ID 30843642) | [Sdílej 34011190](https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv) | target_unavailable | 2026-11-06T03:10:51.602823+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T14:29:13.595239+00:00 |
+| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-06T05:32:05.097930+00:00 |
 | [Pale Rider 1080p CZ Titulky](https://prehraj.to/pale-rider-1080p-cz-titulky-mkv/6a801d3052b7bc35) (ID 30816243) | [Sdílej 33673421](https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv) | target_unavailable | 2026-11-05T14:37:42.013166+00:00 |
 | [Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky](https://prehraj.to/peculiarities-of-the-national-hunt-1080p-cz-titulky-mkv/6a7b3933ad9f892c) (ID 30846831) | [Sdílej 32585907](https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv) | target_unavailable | 2026-11-06T04:31:31.026673+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T14:29:06.621081+00:00 |
