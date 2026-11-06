@@ -7080,13 +7080,6 @@
           "source_id": "26239565",
           "target_video_id": "30627346",
           "permanent": false,
-          "attempted_at": "2026-11-06T17:11:17.332557+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "30627346",
-          "permanent": false,
           "attempted_at": "2026-11-06T17:44:35.876297+00:00"
         },
         {
@@ -7095,6 +7088,13 @@
           "target_video_id": "30627346",
           "permanent": false,
           "attempted_at": "2026-11-06T18:17:33.426842+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-11-06T18:57:00.473755+00:00"
         }
       ],
       "last_plan": {
@@ -16361,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-06T18:17:34.897744+00:00"
+        "planned_at": "2026-11-06T18:56:59.072981+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16369,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "a01ab6458b2d4628a6ee48f9ab96cafa-shard-0",
+        "claimed_at": "2026-11-06T18:56:59.619843+00:00",
+        "lease_expires_at": "2026-11-07T00:56:59.619843+00:00",
+        "run_id": "42270484162"
       }
     },
     "12843": {
@@ -69708,7 +69714,7 @@
       "last_plan": {
         "source_id": "27387734",
         "display_name": "Big Jake SD CZ Dabing",
-        "planned_at": "2026-11-06T18:56:56.969296+00:00"
+        "planned_at": "2026-11-06T18:56:59.301323+00:00"
       }
     },
     "33687": {
@@ -118406,5 +118412,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:56:57.205220+00:00"
+  "updated_at": "2026-11-06T18:57:00.473783+00:00"
 }
