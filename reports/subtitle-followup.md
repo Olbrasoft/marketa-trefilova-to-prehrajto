@@ -464,3 +464,4 @@ Attach subtitles only after target processing has finished.
 | The Little Mermaid (2023) 1080p CZ Titulky | 30861626 | https://sdilej.cz/26570302/the.little.mermaid.web-dl.en-5.1.tituly.cz.sk..2023.1080p.mkv | Extract Czech track from exact source after processing |
 | Predator: Badlands 4K CZ Titulky | 30862557 | https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | They Live 1080p CZ Titulky | 30862600 | https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv | Extract Czech track from exact source after processing |
+| Mr. Brooks 1080p CZ Titulky | 30863259 | https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv | Extract Czech track from exact source after processing |
