@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T13:57:51.978412+00:00
+Poslední aktualizace (UTC): 2026-11-06T13:57:54.886465+00:00
 
 Zkontrolováno videí: 458. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 68, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -78,6 +78,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 72. Důvod
 | [Arrhythmia SD CZ Titulky](https://prehraj.to/arrhythmia-sd-cz-titulky-avi/6189d9dd009e9d9f) (ID 30835868) | [Sdílej 11209595](https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi) | target_unavailable | 2026-11-05T23:14:29.008039+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-05T14:28:16.195484+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T14:28:39.314558+00:00 |
+| [Bridge to Terabithia 1080p CZ Titulky](https://prehraj.to/bridge-to-terabithia-1080p-cz-titulky-mkv/e9c530162461b1ec) (ID 30860568) | [Sdílej 30611137](https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv) | target_unavailable | 2026-11-06T13:57:53.971587+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T14:37:35.262737+00:00 |
 | [Butterflies (Kelebekler) 1080p CZ Titulky](https://prehraj.to/butterflies-kelebekler-1080p-cz-titulky-mkv/4e9d119255e543b1) (ID 30833864) | [Sdílej 11769265](https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv) | target_unavailable | 2026-11-05T22:03:44.780836+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-06T12:47:22.137842+00:00 |
