@@ -69122,17 +69122,19 @@
       }
     },
     "10759": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32402269",
+          "target_video_id": "30864875",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:35:00.072967+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32402269",
         "display_name": "Gunfight at the O.K. Corral 1080p CZ Dabing",
         "planned_at": "2026-11-06T17:21:39.626344+00:00"
-      },
-      "claim": {
-        "worker_id": "116e426673c247e8bc3b4f916abf3872-shard-0",
-        "claimed_at": "2026-11-06T17:21:39.960258+00:00",
-        "lease_expires_at": "2026-11-06T23:21:39.960258+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30864875",
       "prepared": {
@@ -118005,5 +118007,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:30:43.254772+00:00"
+  "updated_at": "2026-11-06T17:35:00.072985+00:00"
 }
