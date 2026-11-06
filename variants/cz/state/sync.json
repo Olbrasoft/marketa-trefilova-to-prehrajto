@@ -68141,17 +68141,19 @@
       "attempts": []
     },
     "21660": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27827139",
+          "target_video_id": "30859593",
+          "permanent": false,
+          "attempted_at": "2026-11-06T14:05:08.138378+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27827139",
         "display_name": "How the West Was Won 1080p CZ Dabing",
         "planned_at": "2026-11-06T12:56:59.034103+00:00"
-      },
-      "claim": {
-        "worker_id": "617653e9b3a740d3835a5543992fa6b8-shard-0",
-        "claimed_at": "2026-11-06T12:56:59.356939+00:00",
-        "lease_expires_at": "2026-11-06T18:56:59.356939+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30859593",
       "prepared": {
@@ -116569,5 +116571,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T14:03:17.120584+00:00"
+  "updated_at": "2026-11-06T14:05:08.138402+00:00"
 }
