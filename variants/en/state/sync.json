@@ -23481,17 +23481,19 @@
       "attempts": []
     },
     "1823": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32902146",
+          "target_video_id": "30850430",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:02:12.183768+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32902146",
         "display_name": "Pirates of the Caribbean: At World's End 4K CZ Titulky",
         "planned_at": "2026-11-06T06:12:43.575066+00:00"
-      },
-      "claim": {
-        "worker_id": "41c5f45c8be1419db3cce4729918377c-shard-0",
-        "claimed_at": "2026-11-06T06:12:43.634862+00:00",
-        "lease_expires_at": "2026-11-06T12:12:43.634862+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30850430",
       "prepared": {
@@ -73298,5 +73300,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T08:52:23.073454+00:00"
+  "updated_at": "2026-11-06T09:02:12.183784+00:00"
 }
