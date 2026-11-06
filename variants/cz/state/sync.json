@@ -35936,7 +35936,7 @@
       "last_plan": {
         "source_id": "11952213",
         "display_name": "Blow Out 1080p CZ Dabing",
-        "planned_at": "2026-11-06T09:37:48.223399+00:00"
+        "planned_at": "2026-11-06T10:08:55.495437+00:00"
       },
       "previous_target_id": "30742444",
       "prepared": {
@@ -35944,6 +35944,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T21:13:53.287139+00:00",
         "relay_source_id": "11952213"
+      },
+      "claim": {
+        "worker_id": "e3dc526f01aa4897a141ba75579a8789-shard-0",
+        "claimed_at": "2026-11-06T10:08:55.798643+00:00",
+        "lease_expires_at": "2026-11-06T16:08:55.798643+00:00",
+        "run_id": "42194637218"
       }
     },
     "10749": {
@@ -55577,13 +55583,6 @@
           "source_id": "32042477",
           "target_video_id": "30784526",
           "permanent": false,
-          "attempted_at": "2026-11-06T08:34:46.011013+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32042477",
-          "target_video_id": "30784526",
-          "permanent": false,
           "attempted_at": "2026-11-06T09:05:57.536268+00:00"
         },
         {
@@ -55592,6 +55591,13 @@
           "target_video_id": "30784526",
           "permanent": false,
           "attempted_at": "2026-11-06T09:37:49.398059+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32042477",
+          "target_video_id": "30784526",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:08:55.921224+00:00"
         }
       ],
       "last_plan": {
@@ -55605,12 +55611,6 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
-      },
-      "claim": {
-        "worker_id": "d782e2e9edc444eebb4b59685cd03785-shard-0",
-        "claimed_at": "2026-11-06T10:08:53.919156+00:00",
-        "lease_expires_at": "2026-11-06T16:08:53.919156+00:00",
-        "run_id": "42194637218"
       }
     },
     "24818": {
@@ -67482,7 +67482,7 @@
       "last_plan": {
         "source_id": "11716047",
         "display_name": "The World According to Garp 1080p CZ Dabing",
-        "planned_at": "2026-11-06T10:08:53.745829+00:00"
+        "planned_at": "2026-11-06T10:08:55.623581+00:00"
       }
     },
     "19811": {
@@ -114792,5 +114792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:08:54.032932+00:00"
+  "updated_at": "2026-11-06T10:08:55.921260+00:00"
 }
