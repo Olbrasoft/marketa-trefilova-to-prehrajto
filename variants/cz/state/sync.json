@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-06T17:11:37.821643+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-06T17:44:56.767254+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-06T18:17:57.667245+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-06T18:57:17.362866+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-06T18:18:00.388891+00:00"
+        "planned_at": "2026-11-06T18:57:15.608955+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "f9fe5cf8efa347c484d05e1918fd8e77-shard-0",
+        "claimed_at": "2026-11-06T18:57:16.219903+00:00",
+        "lease_expires_at": "2026-11-07T00:57:16.219903+00:00",
+        "run_id": "42270484162"
       }
     },
     "52": {
@@ -69708,7 +69714,7 @@
       "last_plan": {
         "source_id": "27387734",
         "display_name": "Big Jake SD CZ Dabing",
-        "planned_at": "2026-11-06T18:57:13.893603+00:00"
+        "planned_at": "2026-11-06T18:57:15.835185+00:00"
       }
     },
     "33687": {
@@ -118406,5 +118412,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:57:13.893621+00:00"
+  "updated_at": "2026-11-06T18:57:17.362884+00:00"
 }
