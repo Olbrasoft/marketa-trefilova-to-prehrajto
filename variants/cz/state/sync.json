@@ -68978,7 +68978,20 @@
       }
     },
     "1855": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30766872",
+          "reason": "Source detail has no authenticated download link; source_id=30766872",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:03:48.004821+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30766872",
+        "display_name": "36 Quai des Orfèvres 1080p CZ Dabing",
+        "planned_at": "2026-11-06T17:03:45.653679+00:00"
+      }
     },
     "30026": {
       "attempts": []
@@ -117812,5 +117825,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:01:02.515129+00:00"
+  "updated_at": "2026-11-06T17:03:48.004837+00:00"
 }
