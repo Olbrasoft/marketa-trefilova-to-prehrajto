@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T10:36:03.206568+00:00
+Poslední aktualizace (UTC): 2026-11-06T10:36:06.253982+00:00
 
 Zkontrolováno videí: 449. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 56, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 57, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -82,6 +82,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 61. Důvod
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T14:37:35.262737+00:00 |
 | [Butterflies (Kelebekler) 1080p CZ Titulky](https://prehraj.to/butterflies-kelebekler-1080p-cz-titulky-mkv/4e9d119255e543b1) (ID 30833864) | [Sdílej 11769265](https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv) | target_unavailable | 2026-11-05T22:03:44.780836+00:00 |
 | [Constantine City of Demons: The Movie (Constantine: City of Demons - The Movie) 1080p CZ Titulky](https://prehraj.to/constantine-city-of-demons-the-movie-constantine-city-of-demons-the-movie-1080p-cz-titulky-mkv/e057eab6233b3743) (ID 30845304) | [Sdílej 18493180](https://sdilej.cz/18493180/constantine-city-of-demons-the-movie-2018-cz-sub-1080p-bluray-dts-x264.mkv) | target_unavailable | 2026-11-06T03:51:12.293730+00:00 |
+| [Dungeons & Dragons: Honor Among Thieves 4K CZ Titulky](https://prehraj.to/dungeons-dragons-honor-among-thieves-4k-cz-titulky-mkv/9c516403ac59c866) (ID 30856609) | [Sdílej 26096481](https://sdilej.cz/26096481/dungeons.and.dragons.honor.among.thieves-2023-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-06T10:36:05.083347+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T14:29:39.428793+00:00 |
 | [Grease 4K CZ Titulky](https://prehraj.to/grease-4k-cz-titulky-mkv/fc50bf2fa2cb63f7) (ID 30855592) | [Sdílej 31103634](https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv) | target_unavailable | 2026-11-06T09:44:34.066242+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-06T01:20:03.845148+00:00 |
