@@ -35916,13 +35916,6 @@
           "source_id": "11952213",
           "target_video_id": "30742444",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:08:57.771781+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11952213",
-          "target_video_id": "30742444",
-          "permanent": false,
           "attempted_at": "2026-11-06T10:53:41.705052+00:00"
         },
         {
@@ -35931,6 +35924,13 @@
           "target_video_id": "30742444",
           "permanent": false,
           "attempted_at": "2026-11-06T11:34:25.494336+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11952213",
+          "target_video_id": "30742444",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:17:57.498717+00:00"
         }
       ],
       "last_plan": {
@@ -35944,12 +35944,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T21:13:53.287139+00:00",
         "relay_source_id": "11952213"
-      },
-      "claim": {
-        "worker_id": "6242b32e376f4aa380c462babb310d34-shard-0",
-        "claimed_at": "2026-11-06T12:17:55.394272+00:00",
-        "lease_expires_at": "2026-11-06T18:17:55.394272+00:00",
-        "run_id": "42194637218"
       }
     },
     "10749": {
@@ -42498,7 +42492,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-06T11:34:28.946354+00:00"
+        "planned_at": "2026-11-06T12:17:57.048905+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42506,6 +42500,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "32b6d55bd45f463f8d70b851419c8d89-shard-0",
+        "claimed_at": "2026-11-06T12:17:57.381857+00:00",
+        "lease_expires_at": "2026-11-06T18:17:57.381857+00:00",
+        "run_id": "42194637218"
       }
     },
     "1395": {
@@ -67926,7 +67926,7 @@
       "last_plan": {
         "source_id": "30853905",
         "display_name": "Superman/Batman: Public Enemies 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:17:55.199251+00:00"
+        "planned_at": "2026-11-06T12:17:57.191531+00:00"
       }
     },
     "20105": {
@@ -115717,5 +115717,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:17:55.522549+00:00"
+  "updated_at": "2026-11-06T12:17:57.498740+00:00"
 }
