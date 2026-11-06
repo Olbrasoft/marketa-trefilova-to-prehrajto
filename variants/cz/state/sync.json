@@ -64164,13 +64164,6 @@
           "source_id": "11088676",
           "target_video_id": "30819792",
           "permanent": false,
-          "attempted_at": "2026-11-06T17:10:25.251946+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11088676",
-          "target_video_id": "30819792",
-          "permanent": false,
           "attempted_at": "2026-11-06T17:43:40.910593+00:00"
         },
         {
@@ -64179,6 +64172,13 @@
           "target_video_id": "30819792",
           "permanent": false,
           "attempted_at": "2026-11-06T18:16:40.638940+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11088676",
+          "target_video_id": "30819792",
+          "permanent": false,
+          "attempted_at": "2026-11-06T18:56:21.517222+00:00"
         }
       ],
       "last_plan": {
@@ -67170,7 +67170,7 @@
       "last_plan": {
         "source_id": "28778728",
         "display_name": "White Oleander SD CZ Dabing",
-        "planned_at": "2026-11-06T18:16:42.077640+00:00"
+        "planned_at": "2026-11-06T18:56:20.118041+00:00"
       },
       "previous_target_id": "30854802",
       "prepared": {
@@ -67178,6 +67178,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-06T08:53:21.282274+00:00",
         "relay_source_id": "28778728"
+      },
+      "claim": {
+        "worker_id": "331e649e33b943758ca6e0faaa4dab41-shard-0",
+        "claimed_at": "2026-11-06T18:56:20.647097+00:00",
+        "lease_expires_at": "2026-11-07T00:56:20.647097+00:00",
+        "run_id": "42270484162"
       }
     },
     "1982": {
@@ -69708,7 +69714,7 @@
       "last_plan": {
         "source_id": "27387734",
         "display_name": "Big Jake SD CZ Dabing",
-        "planned_at": "2026-11-06T18:56:17.075876+00:00"
+        "planned_at": "2026-11-06T18:56:20.336174+00:00"
       }
     },
     "33687": {
@@ -118406,5 +118412,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:56:17.075894+00:00"
+  "updated_at": "2026-11-06T18:56:21.517241+00:00"
 }
