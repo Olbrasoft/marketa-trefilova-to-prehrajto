@@ -67920,17 +67920,19 @@
       }
     },
     "21525": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32710855",
+          "target_video_id": "30858787",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:25:20.122925+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32710855",
         "display_name": "The Fly (1958) 1080p CZ Dabing",
         "planned_at": "2026-11-06T12:16:31.518961+00:00"
-      },
-      "claim": {
-        "worker_id": "c32d26379fd444179fed080e4f1b62d6-shard-0",
-        "claimed_at": "2026-11-06T12:16:34.813640+00:00",
-        "lease_expires_at": "2026-11-06T18:16:34.813640+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30858787",
       "prepared": {
@@ -116084,5 +116086,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:24:55.733919+00:00"
+  "updated_at": "2026-11-06T12:25:20.122944+00:00"
 }
