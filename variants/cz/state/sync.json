@@ -42492,7 +42492,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-06T19:06:22.068726+00:00"
+        "planned_at": "2026-11-06T19:42:00.015238+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42500,6 +42500,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "cb6b819e61d04ec29a5aed3984bf8fcb-shard-0",
+        "claimed_at": "2026-11-06T19:42:00.618370+00:00",
+        "lease_expires_at": "2026-11-07T01:42:00.618370+00:00",
+        "run_id": "42270484162"
       }
     },
     "1395": {
@@ -69984,17 +69990,19 @@
       "attempts": []
     },
     "14449": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33222704",
+          "target_video_id": "30867479",
+          "permanent": false,
+          "attempted_at": "2026-11-06T19:42:02.255576+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33222704",
         "display_name": "Le Petit Nicolas 1080p CZ Dabing",
         "planned_at": "2026-11-06T19:33:09.620769+00:00"
-      },
-      "claim": {
-        "worker_id": "e5251b8d2eb745899aaf1ce24d73cc51-shard-0",
-        "claimed_at": "2026-11-06T19:33:09.938159+00:00",
-        "lease_expires_at": "2026-11-07T01:33:09.938159+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30867479",
       "prepared": {
@@ -70036,7 +70044,7 @@
       "last_plan": {
         "source_id": "27766181",
         "display_name": "No Dogs or Italians Allowed (Interdit aux chiens et aux Italiens) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T19:41:56.687837+00:00"
+        "planned_at": "2026-11-06T19:42:00.268434+00:00"
       }
     },
     "36795": {
@@ -118928,5 +118936,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T19:41:58.369259+00:00"
+  "updated_at": "2026-11-06T19:42:02.255593+00:00"
 }
