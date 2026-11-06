@@ -24290,17 +24290,19 @@
       "attempts": []
     },
     "29507": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30700293",
+          "target_video_id": "30861500",
+          "permanent": false,
+          "attempted_at": "2026-11-06T15:12:34.874267+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30700293",
         "display_name": "The Ballad of Buster Scruggs 1080p CZ Titulky",
         "planned_at": "2026-11-06T14:41:00.335436+00:00"
-      },
-      "claim": {
-        "worker_id": "f4310aea6344436d8a4dce5d2009e763-shard-0",
-        "claimed_at": "2026-11-06T14:41:00.731969+00:00",
-        "lease_expires_at": "2026-11-06T20:41:00.731969+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30861500",
       "prepared": {
@@ -75479,5 +75481,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T15:03:50.850450+00:00"
+  "updated_at": "2026-11-06T15:12:34.874283+00:00"
 }
