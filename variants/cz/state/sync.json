@@ -71453,17 +71453,19 @@
       }
     },
     "22922": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29338512",
+          "target_video_id": "30871979",
+          "permanent": false,
+          "attempted_at": "2026-11-06T22:47:58.256797+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29338512",
         "display_name": "Prison on Fire 720p CZ Dabing",
         "planned_at": "2026-11-06T22:42:48.814294+00:00"
-      },
-      "claim": {
-        "worker_id": "5f11add56c1244e49e5223d0418ccf3e-shard-0",
-        "claimed_at": "2026-11-06T22:42:49.154225+00:00",
-        "lease_expires_at": "2026-11-07T04:42:49.154225+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30871979",
       "prepared": {
@@ -120401,5 +120403,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:47:17.049913+00:00"
+  "updated_at": "2026-11-06T22:47:58.256813+00:00"
 }
