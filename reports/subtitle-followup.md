@@ -463,3 +463,4 @@ Attach subtitles only after target processing has finished.
 | The Ballad of Buster Scruggs 1080p CZ Titulky | 30861500 | https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Little Mermaid (2023) 1080p CZ Titulky | 30861626 | https://sdilej.cz/26570302/the.little.mermaid.web-dl.en-5.1.tituly.cz.sk..2023.1080p.mkv | Extract Czech track from exact source after processing |
 | Predator: Badlands 4K CZ Titulky | 30862557 | https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv | Extract Czech track from exact source after processing |
+| They Live 1080p CZ Titulky | 30862600 | https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv | Extract Czech track from exact source after processing |
