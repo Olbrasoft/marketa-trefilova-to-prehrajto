@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T20:36:30.545480+00:00
+Poslední aktualizace (UTC): 2026-11-06T20:36:32.109631+00:00
 
 Zkontrolováno videí: 469. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 79, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 80, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -55,7 +55,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 88. Důvod
 | [The Silence of the Lambs 4K CZ Titulky](https://prehraj.to/the-silence-of-the-lambs-cz-titulky-mkv/c3103c9b8e9a9c8a) (ID 30586048) | [Sdílej 32633356](https://sdilej.cz/32633356/the-silence-of-the-lambs-mlceni-jehnatek-1991-2160p-cz-ac3-5.1-en-eac3-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T08:39:05.435339+00:00 |
 | [Three Billboards Outside Ebbing, Missouri 4K CZ Titulky](https://prehraj.to/three-billboards-outside-ebbing-missouri-4k-cz-titulky-mkv/822da28992514b47) (ID 30618166) | [Sdílej 12642371](https://sdilej.cz/12642371/three.billboards.outside.ebbing.missouri.2017.multi.uhd.blu-ray.2160p.hdr.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T22:54:29.458484+00:00 |
 | [Uri: The Surgical Strike 1080p](https://prehraj.to/uri-the-surgical-strike-avi/6991f89a009a62db) (ID 30612576) | [Sdílej 11695248](https://sdilej.cz/11695248/uri-the-surgical-strike-2019-hc.titulky.sk-1080p-hd.avi) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T16:09:59.756155+00:00 |
-| [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T20:33:28.844834+00:00 |
 | [Vertigo (1958) 720p](https://prehraj.to/vertigo-mkv/6d7a10962df621d4) (ID 30610902) | [Sdílej 14187973](https://sdilej.cz/14187973/vertigo.1958.720p.bluray.x264-x0r.www.rapidmoviez.com.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T04:31:55.808708+00:00 |
 | [Wicked 4K CZ Titulky](https://prehraj.to/wicked-4k-cz-titulky-mkv/3d47570d0ba0bcbd) (ID 30788407) | [Sdílej 32839401](https://sdilej.cz/32839401/wicked-carodejka-2024-2160p-dv-cz-ac3-5.1-en-truehd-atmos-7.1.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-05T00:31:07.481257+00:00 |
 | [Yojimbo (用心棒) 1080p](https://prehraj.to/yojimbo-mkv/55395580edc6d422) (ID 30612474) | [Sdílej 29080724](https://sdilej.cz/29080724/yojimbo-1961-criterion-1080p-x265-10bit-tigole-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-05T16:09:13.701643+00:00 |
@@ -145,6 +144,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 88. Důvod
 | [Triangle of Sadness SD CZ Titulky](https://prehraj.to/triangle-of-sadness-sd-cz-titulky-mkv/e6d63e6f92e8c1ce) (ID 30858300) | [Sdílej 24142175](https://sdilej.cz/24142175/trojuhelnik-smutku-triangle.of.sadness.2022.720p.amzn.web-dl.ddp5.1.h.264-smurf-cz-titulky-.mkv) | target_unavailable | 2026-11-06T11:57:00.190158+00:00 |
 | [Truman 1080p CZ Titulky](https://prehraj.to/truman-1080p-cz-titulky-mkv/359785e05a928401) (ID 30840252) | [Sdílej 11718608](https://sdilej.cz/11718608/truman.2015.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-06T01:19:53.111888+00:00 |
 | [Uncle Frank 1080p CZ Titulky](https://prehraj.to/uncle-frank-1080p-cz-titulky-mkv/faa444e55ebf22a2) (ID 30831460) | [Sdílej 14813697](https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-11-05T20:52:56.357973+00:00 |
+| [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-06T20:36:32.109565+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-05T14:29:35.887287+00:00 |
 | [Where the Crawdads Sing 720p CZ Titulky](https://prehraj.to/where-the-crawdads-sing-720p-cz-titulky-mkv/59bc0350ef3385d6) (ID 30863680) | [Sdílej 26751974](https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv) | target_unavailable | 2026-11-06T16:32:24.828156+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-05T14:28:35.742665+00:00 |
