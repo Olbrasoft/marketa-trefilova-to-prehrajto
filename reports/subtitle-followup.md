@@ -448,3 +448,5 @@ Attach subtitles only after target processing has finished.
 | School of Rock 1080p CZ Titulky | 30854567 | https://sdilej.cz/29918220/skola-ro-c-ku-skola-rocku-the-school-of-rock-2003-1080p-x265-cz-en-multisub-.mkv | Extract Czech track from exact source after processing |
 | 8 Mile 1080p CZ Titulky | 30854680 | https://sdilej.cz/27818942/8.mile.2002.1080p.bluray.h264.aac-leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
 | Insomnia 1080p CZ Titulky | 30854783 | https://sdilej.cz/27519363/insomnia.2002.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Grease 4K CZ Titulky | 30855592 | https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv | Extract Czech track from exact source after processing |
+| A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky | 30855593 | https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv | Extract Czech track from exact source after processing |
