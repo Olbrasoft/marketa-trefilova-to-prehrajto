@@ -67297,17 +67297,19 @@
       "attempts": []
     },
     "14794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26384683",
+          "target_video_id": "30855379",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:34:51.933721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26384683",
         "display_name": "Die Wannseekonferenz 1080p CZ Dabing",
         "planned_at": "2026-11-06T09:24:08.562170+00:00"
-      },
-      "claim": {
-        "worker_id": "fb72037e3fc3485a98fe0deca56f410b-shard-0",
-        "claimed_at": "2026-11-06T09:24:09.085812+00:00",
-        "lease_expires_at": "2026-11-06T15:24:09.085812+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30855379",
       "prepared": {
@@ -114669,5 +114671,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:34:48.336710+00:00"
+  "updated_at": "2026-11-06T09:34:51.933739+00:00"
 }
