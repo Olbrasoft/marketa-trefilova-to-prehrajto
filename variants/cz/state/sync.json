@@ -69528,17 +69528,19 @@
       "attempts": []
     },
     "37023": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35166545",
+          "target_video_id": "30866073",
+          "permanent": false,
+          "attempted_at": "2026-11-06T18:25:07.766787+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35166545",
         "display_name": "The Return (BTS: 더 리턴) (2026) 1080p CZ Dabing",
         "planned_at": "2026-11-06T18:18:30.851986+00:00"
-      },
-      "claim": {
-        "worker_id": "93e29d674c4347c6a0952c147523b018-shard-0",
-        "claimed_at": "2026-11-06T18:18:31.175271+00:00",
-        "lease_expires_at": "2026-11-07T00:18:31.175271+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30866073",
       "prepared": {
@@ -118299,5 +118301,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:25:06.357073+00:00"
+  "updated_at": "2026-11-06T18:25:07.766802+00:00"
 }
