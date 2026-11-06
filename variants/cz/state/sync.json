@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-06T16:06:42.296251+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-06T16:37:02.672163+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-06T17:11:23.695963+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:44:45.734290+00:00"
         }
       ],
       "last_plan": {
@@ -10829,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-06T17:11:26.500224+00:00"
+        "planned_at": "2026-11-06T17:44:44.134471+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10837,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "9dcd859188a8483b9e4b10d2d96cca66-shard-0",
+        "claimed_at": "2026-11-06T17:44:44.860397+00:00",
+        "lease_expires_at": "2026-11-06T23:44:44.860397+00:00",
+        "run_id": "42233332129"
       }
     },
     "21748": {
@@ -69276,7 +69282,7 @@
       "last_plan": {
         "source_id": "29236082",
         "display_name": "The Feather Fairy (Perinbaba) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T17:44:42.442758+00:00"
+        "planned_at": "2026-11-06T17:44:44.383129+00:00"
       }
     },
     "20999": {
@@ -118060,5 +118066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:44:42.442775+00:00"
+  "updated_at": "2026-11-06T17:44:45.734307+00:00"
 }
