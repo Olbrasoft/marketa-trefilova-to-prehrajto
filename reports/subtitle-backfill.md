@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T18:55:19.205224+00:00
+Poslední aktualizace (UTC): 2026-11-06T18:55:20.719362+00:00
 
 Zkontrolováno videí: 469. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 78, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 79, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -139,6 +139,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 84. Důvod
 | [The Painter and the Thief 1080p CZ Titulky](https://prehraj.to/the-painter-and-the-thief-1080p-cz-titulky-mkv/9659108081781583) (ID 30829417) | [Sdílej 20534344](https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv) | target_unavailable | 2026-11-05T19:50:33.176260+00:00 |
 | [The Phantom of the Opera (2004) 720p CZ Titulky](https://prehraj.to/the-phantom-of-the-opera-2004-720p-cz-titulky-mkv/c0d61728d7051a76) (ID 30864178) | [Sdílej 8688898](https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv) | target_unavailable | 2026-11-06T16:52:42.339498+00:00 |
 | [The Sea Wolf 1080p CZ Titulky](https://prehraj.to/the-sea-wolf-1080p-cz-titulky-mkv/cd2a628f5eded499) (ID 30820306) | [Sdílej 34927035](https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T14:37:28.410834+00:00 |
+| [The Unforgivable 1080p CZ Titulky](https://prehraj.to/the-unforgivable-1080p-cz-titulky-mkv/4f00b428b85630dc) (ID 30866709) | [Sdílej 19114080](https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv) | target_unavailable | 2026-11-06T18:55:20.655462+00:00 |
 | [The Whiskey Bandit (A Viszkis) SD CZ Titulky](https://prehraj.to/the-whiskey-bandit-a-viszkis-sd-cz-titulky-mkv/3073237719919eca) (ID 30849859) | [Sdílej 16285415](https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv) | target_unavailable | 2026-11-06T05:52:11.516160+00:00 |
 | [They Live 1080p CZ Titulky](https://prehraj.to/they-live-1080p-cz-titulky-mkv/0c3f07087d446cdb) (ID 30862600) | [Sdílej 30541445](https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv) | target_unavailable | 2026-11-06T15:52:04.266280+00:00 |
 | [Triangle of Sadness SD CZ Titulky](https://prehraj.to/triangle-of-sadness-sd-cz-titulky-mkv/e6d63e6f92e8c1ce) (ID 30858300) | [Sdílej 24142175](https://sdilej.cz/24142175/trojuhelnik-smutku-triangle.of.sadness.2022.720p.amzn.web-dl.ddp5.1.h.264-smurf-cz-titulky-.mkv) | target_unavailable | 2026-11-06T11:57:00.190158+00:00 |
