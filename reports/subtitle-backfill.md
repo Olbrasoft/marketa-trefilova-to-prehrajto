@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T13:27:40.121060+00:00
+Poslední aktualizace (UTC): 2026-11-06T13:27:42.740801+00:00
 
 Zkontrolováno videí: 457. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -122,6 +122,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 70. Důvod
 | [The Captain (Der Hauptmann) (2017) 1080p CZ Titulky](https://prehraj.to/the-captain-der-hauptmann-2017-1080p-cz-titulky-mkv/e1cec67638013968) (ID 30831408) | [Sdílej 10699415](https://sdilej.cz/10699415/der-hauptmann-cz-titulky-fullhd-1080p.mkv) | target_unavailable | 2026-11-05T20:52:52.409297+00:00 |
 | [The Descent 1080p CZ Titulky](https://prehraj.to/the-descent-1080p-cz-titulky-mkv/8a6e19eb194817c3) (ID 30857275) | [Sdílej 22441657](https://sdilej.cz/22441657/pad-do-tmy-cz-1080p-juve.mkv) | target_unavailable | 2026-11-06T11:16:24.580691+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T14:28:04.402565+00:00 |
+| [The Founder 1080p CZ Titulky](https://prehraj.to/the-founder-1080p-cz-titulky-mkv/2ccea24720758639) (ID 30860047) | [Sdílej 21019911](https://sdilej.cz/21019911/the-founder-2016-hevc-1080p-cz-dabing.mkv) | target_unavailable | 2026-11-06T13:27:42.037103+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T14:28:59.524999+00:00 |
 | [The Life Aquatic with Steve Zissou 1080p CZ Titulky](https://prehraj.to/the-life-aquatic-with-steve-zissou-1080p-cz-titulky-mkv/aa7d640149f0bf2d) (ID 30858164) | [Sdílej 23537039](https://sdilej.cz/23537039/the-life-aquatic-with-steve-zissou-2004-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-06T11:56:54.895196+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-05T14:28:43.116354+00:00 |
