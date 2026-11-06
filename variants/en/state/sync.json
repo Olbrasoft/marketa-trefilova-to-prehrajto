@@ -24431,17 +24431,19 @@
       "attempts": []
     },
     "1565": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32831183",
+          "target_video_id": "30862557",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:24:43.415471+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32831183",
         "display_name": "Predator: Badlands 4K CZ Titulky",
         "planned_at": "2026-11-06T15:41:08.970551+00:00"
-      },
-      "claim": {
-        "worker_id": "e70a1e9411b84aad8e697860704c5ffb-shard-0",
-        "claimed_at": "2026-11-06T15:41:09.065221+00:00",
-        "lease_expires_at": "2026-11-06T21:41:09.065221+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30862557",
       "prepared": {
@@ -75746,5 +75748,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:15:02.066313+00:00"
+  "updated_at": "2026-11-06T16:24:43.415487+00:00"
 }
