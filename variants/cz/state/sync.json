@@ -68936,17 +68936,19 @@
       "attempts": []
     },
     "37426": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34603587",
+          "target_video_id": "30864355",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:08:45.906872+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34603587",
         "display_name": "Deaf 1080p CZ Dabing",
         "planned_at": "2026-11-06T16:59:39.926565+00:00"
-      },
-      "claim": {
-        "worker_id": "2407cce2442441f4a50e09f306c5ee37-shard-0",
-        "claimed_at": "2026-11-06T16:59:40.261021+00:00",
-        "lease_expires_at": "2026-11-06T22:59:40.261021+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30864355",
       "prepared": {
@@ -117843,5 +117845,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:03:55.082738+00:00"
+  "updated_at": "2026-11-06T17:08:45.906895+00:00"
 }
