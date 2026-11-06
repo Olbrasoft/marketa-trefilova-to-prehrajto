@@ -70526,17 +70526,19 @@
       "attempts": []
     },
     "25806": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27608689",
+          "target_video_id": "30868784",
+          "permanent": false,
+          "attempted_at": "2026-11-06T21:02:42.289849+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27608689",
         "display_name": "Time 1080p CZ Dabing",
         "planned_at": "2026-11-06T20:27:04.167737+00:00"
-      },
-      "claim": {
-        "worker_id": "064df816c00249d5828217d7272aedd4-shard-0",
-        "claimed_at": "2026-11-06T20:27:04.482434+00:00",
-        "lease_expires_at": "2026-11-07T02:27:04.482434+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30868784",
       "prepared": {
@@ -119348,5 +119350,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T20:55:43.596480+00:00"
+  "updated_at": "2026-11-06T21:02:42.289865+00:00"
 }
