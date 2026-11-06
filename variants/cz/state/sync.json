@@ -67785,17 +67785,19 @@
       "attempts": []
     },
     "2098": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27429679",
+          "target_video_id": "30857840",
+          "permanent": false,
+          "attempted_at": "2026-11-06T11:55:04.296962+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27429679",
         "display_name": "The Absent One (Fasandræberne) 1080p CZ Dabing",
         "planned_at": "2026-11-06T11:35:36.779794+00:00"
-      },
-      "claim": {
-        "worker_id": "a281042e425e4b9cbcbbf4bb54d09de3-shard-0",
-        "claimed_at": "2026-11-06T11:35:36.958330+00:00",
-        "lease_expires_at": "2026-11-06T17:35:36.958330+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30857840",
       "prepared": {
@@ -115671,5 +115673,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T11:49:39.884880+00:00"
+  "updated_at": "2026-11-06T11:55:04.296981+00:00"
 }
