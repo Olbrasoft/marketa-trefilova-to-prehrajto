@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T04:31:29.361329+00:00
+Poslední aktualizace (UTC): 2026-11-06T04:31:31.026759+00:00
 
 Zkontrolováno videí: 439. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 45, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -94,6 +94,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 51. Důvod
 | [Nouvelle Vague 4K CZ Titulky](https://prehraj.to/nouvelle-vague-4k-cz-titulky-mkv/60cecaddbfe2e8d5) (ID 30843642) | [Sdílej 34011190](https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv) | target_unavailable | 2026-11-06T03:10:51.602823+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T14:29:13.595239+00:00 |
 | [Pale Rider 1080p CZ Titulky](https://prehraj.to/pale-rider-1080p-cz-titulky-mkv/6a801d3052b7bc35) (ID 30816243) | [Sdílej 33673421](https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv) | target_unavailable | 2026-11-05T14:37:42.013166+00:00 |
+| [Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky](https://prehraj.to/peculiarities-of-the-national-hunt-1080p-cz-titulky-mkv/6a7b3933ad9f892c) (ID 30846831) | [Sdílej 32585907](https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv) | target_unavailable | 2026-11-06T04:31:31.026673+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T14:29:06.621081+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-05T14:29:28.329405+00:00 |
 | [Reprise SD CZ Titulky](https://prehraj.to/reprise-sd-cz-titulky-mkv/d85c058014e2ec96) (ID 30835226) | [Sdílej 8431051](https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv) | target_unavailable | 2026-11-05T22:54:17.796804+00:00 |
