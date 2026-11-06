@@ -29525,7 +29525,7 @@
       "last_plan": {
         "source_id": "21165095",
         "display_name": "Rudy 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:16:31.137639+00:00"
+        "planned_at": "2026-11-06T12:56:38.819272+00:00"
       },
       "previous_target_id": "30722559",
       "prepared": {
@@ -29533,6 +29533,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
+      },
+      "claim": {
+        "worker_id": "1b6e1701c95f4b6db80faa99e92747f8-shard-0",
+        "claimed_at": "2026-11-06T12:56:39.128684+00:00",
+        "lease_expires_at": "2026-11-06T18:56:39.128684+00:00",
+        "run_id": "42194637218"
       }
     },
     "25113": {
@@ -60666,13 +60672,6 @@
           "source_id": "27476888",
           "target_video_id": "30803427",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:51:42.331812+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27476888",
-          "target_video_id": "30803427",
-          "permanent": false,
           "attempted_at": "2026-11-06T11:32:26.755737+00:00"
         },
         {
@@ -60681,6 +60680,13 @@
           "target_video_id": "30803427",
           "permanent": false,
           "attempted_at": "2026-11-06T12:16:31.390345+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27476888",
+          "target_video_id": "30803427",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:56:39.267509+00:00"
         }
       ],
       "last_plan": {
@@ -60694,12 +60700,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-05T04:07:55.290331+00:00",
         "relay_source_id": "27476888"
-      },
-      "claim": {
-        "worker_id": "d185cb2748734993bdb98b5e1f7fac55-shard-0",
-        "claimed_at": "2026-11-06T12:56:36.569071+00:00",
-        "lease_expires_at": "2026-11-06T18:56:36.569071+00:00",
-        "run_id": "42194637218"
       }
     },
     "28711": {
@@ -68108,7 +68108,7 @@
       "last_plan": {
         "source_id": "27827139",
         "display_name": "How the West Was Won 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:56:36.410091+00:00"
+        "planned_at": "2026-11-06T12:56:38.949828+00:00"
       }
     },
     "30986": {
@@ -116159,5 +116159,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:56:37.373697+00:00"
+  "updated_at": "2026-11-06T12:56:39.267529+00:00"
 }
