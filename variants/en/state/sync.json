@@ -23149,17 +23149,19 @@
       "attempts": []
     },
     "11734": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30819441",
+          "target_video_id": "30845001",
+          "permanent": false,
+          "attempted_at": "2026-11-06T04:12:37.587334+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30819441",
         "display_name": "The Beast (1988) 720p CZ Titulky",
         "planned_at": "2026-11-06T03:36:25.242685+00:00"
-      },
-      "claim": {
-        "worker_id": "49a348e7447c4e32b37e0a7f65a80916-shard-0",
-        "claimed_at": "2026-11-06T03:36:26.729128+00:00",
-        "lease_expires_at": "2026-11-06T09:36:26.729128+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30845001",
       "prepared": {
@@ -71921,5 +71923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T03:48:10.287045+00:00"
+  "updated_at": "2026-11-06T04:12:37.587353+00:00"
 }
