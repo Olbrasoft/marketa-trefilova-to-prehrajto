@@ -68035,17 +68035,19 @@
       }
     },
     "11017": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29321894",
+          "target_video_id": "30858962",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:37:40.790091+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29321894",
         "display_name": "Catch-22 720p CZ Dabing",
         "planned_at": "2026-11-06T12:25:26.754785+00:00"
-      },
-      "claim": {
-        "worker_id": "1e8379d1155b4e6da2a364a5c9f67302-shard-0",
-        "claimed_at": "2026-11-06T12:25:26.938121+00:00",
-        "lease_expires_at": "2026-11-06T18:25:26.938121+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30858962",
       "prepared": {
@@ -116118,5 +116120,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:37:03.302296+00:00"
+  "updated_at": "2026-11-06T12:37:40.790110+00:00"
 }
