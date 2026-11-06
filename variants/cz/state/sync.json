@@ -67118,17 +67118,19 @@
       "attempts": []
     },
     "24726": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28778728",
+          "target_video_id": "30854802",
+          "permanent": false,
+          "attempted_at": "2026-11-06T08:56:48.444779+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28778728",
         "display_name": "White Oleander SD CZ Dabing",
         "planned_at": "2026-11-06T08:53:16.476895+00:00"
-      },
-      "claim": {
-        "worker_id": "3f429aa614ba4befbf299c4556bacbe6-shard-0",
-        "claimed_at": "2026-11-06T08:53:17.006492+00:00",
-        "lease_expires_at": "2026-11-06T14:53:17.006492+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30854802",
       "prepared": {
@@ -114227,5 +114229,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T08:53:21.282291+00:00"
+  "updated_at": "2026-11-06T08:56:48.444795+00:00"
 }
