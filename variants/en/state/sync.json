@@ -23369,17 +23369,19 @@
       "attempts": []
     },
     "33320": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16285415",
+          "target_video_id": "30849859",
+          "permanent": false,
+          "attempted_at": "2026-11-06T06:12:37.504929+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16285415",
         "display_name": "The Whiskey Bandit (A Viszkis) SD CZ Titulky",
         "planned_at": "2026-11-06T05:51:43.480921+00:00"
-      },
-      "claim": {
-        "worker_id": "9d7b41db30fc44a0a8b8169204ec36d5-shard-0",
-        "claimed_at": "2026-11-06T05:51:44.246442+00:00",
-        "lease_expires_at": "2026-11-06T11:51:44.246442+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30849859",
       "prepared": {
@@ -72309,5 +72311,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T05:58:06.441289+00:00"
+  "updated_at": "2026-11-06T06:12:37.504954+00:00"
 }
