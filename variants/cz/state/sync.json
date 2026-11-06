@@ -68400,17 +68400,19 @@
       "attempts": []
     },
     "1874": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29473098",
+          "target_video_id": "30861884",
+          "permanent": false,
+          "attempted_at": "2026-11-06T15:26:08.989835+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29473098",
         "display_name": "Red Rooms (Les Chambres rouges) 1080p CZ Dabing",
         "planned_at": "2026-11-06T15:03:55.455870+00:00"
-      },
-      "claim": {
-        "worker_id": "62577cfaffe64a7cb0042f9c4003ea85-shard-0",
-        "claimed_at": "2026-11-06T15:03:55.769501+00:00",
-        "lease_expires_at": "2026-11-06T21:03:55.769501+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30861884",
       "prepared": {
@@ -117160,5 +117162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T15:23:39.647968+00:00"
+  "updated_at": "2026-11-06T15:26:08.989851+00:00"
 }
