@@ -67729,17 +67729,19 @@
       }
     },
     "1950": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29469234",
+          "target_video_id": "30857340",
+          "permanent": false,
+          "attempted_at": "2026-11-06T11:37:24.765780+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29469234",
         "display_name": "Human Traffic 1080p CZ Dabing",
         "planned_at": "2026-11-06T11:09:10.686739+00:00"
-      },
-      "claim": {
-        "worker_id": "196bf5b91eea41439c67d9ad6d268277-shard-0",
-        "claimed_at": "2026-11-06T11:09:10.841463+00:00",
-        "lease_expires_at": "2026-11-06T17:09:10.841463+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30857340",
       "prepared": {
@@ -115617,5 +115619,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T11:35:41.209723+00:00"
+  "updated_at": "2026-11-06T11:37:24.765800+00:00"
 }
