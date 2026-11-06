@@ -430,3 +430,4 @@ Attach subtitles only after target processing has finished.
 | Reprise SD CZ Titulky | 30835226 | https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Arrhythmia SD CZ Titulky | 30835868 | https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi | Extract Czech track from exact source after processing |
 | Mardaani 1080p CZ Titulky | 30840183 | https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv | Extract Czech track from exact source after processing |
+| Truman 1080p CZ Titulky | 30840252 | https://sdilej.cz/11718608/truman.2015.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
