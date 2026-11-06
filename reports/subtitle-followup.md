@@ -458,3 +458,4 @@ Attach subtitles only after target processing has finished.
 | Shame (2011) 1080p CZ Titulky | 30859193 | https://sdilej.cz/30693798/shame-stud-2011-1080p-cztit.mkv | Extract Czech track from exact source after processing |
 | Chocolat (2000) 1080p CZ Titulky | 30859204 | https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv | Extract Czech track from exact source after processing |
 | The Founder 1080p CZ Titulky | 30860047 | https://sdilej.cz/21019911/the-founder-2016-hevc-1080p-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| Bridge to Terabithia 1080p CZ Titulky | 30860568 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
