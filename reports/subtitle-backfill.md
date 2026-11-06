@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T05:52:09.677627+00:00
+Poslední aktualizace (UTC): 2026-11-06T05:52:11.567694+00:00
 
 Zkontrolováno videí: 440. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -114,6 +114,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 54. Důvod
 | [The Nightingale 1080p CZ Titulky](https://prehraj.to/the-nightingale-1080p-cz-titulky-mkv/e301394916e6cb7e) (ID 30820099) | [Sdílej 14136207](https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv) | target_unavailable | 2026-11-05T14:37:24.087959+00:00 |
 | [The Painter and the Thief 1080p CZ Titulky](https://prehraj.to/the-painter-and-the-thief-1080p-cz-titulky-mkv/9659108081781583) (ID 30829417) | [Sdílej 20534344](https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv) | target_unavailable | 2026-11-05T19:50:33.176260+00:00 |
 | [The Sea Wolf 1080p CZ Titulky](https://prehraj.to/the-sea-wolf-1080p-cz-titulky-mkv/cd2a628f5eded499) (ID 30820306) | [Sdílej 34927035](https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T14:37:28.410834+00:00 |
+| [The Whiskey Bandit (A Viszkis) SD CZ Titulky](https://prehraj.to/the-whiskey-bandit-a-viszkis-sd-cz-titulky-mkv/3073237719919eca) (ID 30849859) | [Sdílej 16285415](https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv) | target_unavailable | 2026-11-06T05:52:11.516160+00:00 |
 | [Truman 1080p CZ Titulky](https://prehraj.to/truman-1080p-cz-titulky-mkv/359785e05a928401) (ID 30840252) | [Sdílej 11718608](https://sdilej.cz/11718608/truman.2015.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-06T01:19:53.111888+00:00 |
 | [Uncle Frank 1080p CZ Titulky](https://prehraj.to/uncle-frank-1080p-cz-titulky-mkv/faa444e55ebf22a2) (ID 30831460) | [Sdílej 14813697](https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-11-05T20:52:56.357973+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-05T14:29:35.887287+00:00 |
