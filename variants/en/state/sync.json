@@ -23834,17 +23834,19 @@
       }
     },
     "1690": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34921369",
+          "target_video_id": "30856994",
+          "permanent": false,
+          "attempted_at": "2026-11-06T11:15:31.804308+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34921369",
         "display_name": "RocknRolla 1080p CZ Titulky",
         "planned_at": "2026-11-06T10:55:02.545254+00:00"
-      },
-      "claim": {
-        "worker_id": "d8eb3489356c41bf856e0956200c1abf-shard-0",
-        "claimed_at": "2026-11-06T10:55:02.604284+00:00",
-        "lease_expires_at": "2026-11-06T16:55:02.604284+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30856994",
       "prepared": {
@@ -74030,5 +74032,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T11:09:06.476373+00:00"
+  "updated_at": "2026-11-06T11:15:31.804324+00:00"
 }
