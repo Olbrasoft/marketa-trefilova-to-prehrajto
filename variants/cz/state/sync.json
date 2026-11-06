@@ -68339,17 +68339,19 @@
       }
     },
     "2007": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31470565",
+          "target_video_id": "30861629",
+          "permanent": false,
+          "attempted_at": "2026-11-06T14:53:30.024204+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31470565",
         "display_name": "Pelé: Birth of a Legend 1080p CZ Dabing",
         "planned_at": "2026-11-06T14:46:36.602106+00:00"
-      },
-      "claim": {
-        "worker_id": "b22674cef09c44a19e622f7afe75e493-shard-0",
-        "claimed_at": "2026-11-06T14:46:36.922171+00:00",
-        "lease_expires_at": "2026-11-06T20:46:36.922171+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30861629",
       "prepared": {
@@ -116886,5 +116888,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T14:46:40.366530+00:00"
+  "updated_at": "2026-11-06T14:53:30.024218+00:00"
 }
