@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T06:52:40.972173+00:00
+Poslední aktualizace (UTC): 2026-11-06T06:52:42.746468+00:00
 
 Zkontrolováno videí: 443. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 50, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 51, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -68,6 +68,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 54. Důvod
 | --- | --- | --- | --- |
 | [12th Man (Den 12. mann) (2017) 1080p CZ Titulky](https://prehraj.to/12th-man-den-12-mann-2017-1080p-cz-titulky-mkv/5b2aae658a620cc9) (ID 30822494) | [Sdílej 9302798](https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-05T15:58:26.570274+00:00 |
 | [24 Hour Party People 720p CZ Titulky](https://prehraj.to/24-hour-party-people-720p-cz-titulky-mkv/cfb92bc904244c1b) (ID 30821368) | [Sdílej 32713510](https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv) | target_unavailable | 2026-11-05T15:17:57.796135+00:00 |
+| [A Dirty Carnival (비열한 거리) 1080p CZ Titulky](https://prehraj.to/a-dirty-carnival-1080p-cz-titulky-mkv/208b3e60237a67f3) (ID 30851366) | [Sdílej 27606009](https://sdilej.cz/27606009/a.dirty.carnival.2006.1080p.bluray.korean.dts.x264-majo.mkv) | target_unavailable | 2026-11-06T06:52:42.746403+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-05T14:37:31.860399+00:00 |
 | [A Million Miles Away 4K CZ Titulky](https://prehraj.to/a-million-miles-away-4k-cz-titulky-mkv/f3a1bbf33337f55f) (ID 30828699) | [Sdílej 26864340](https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv) | target_unavailable | 2026-11-05T19:30:12.672219+00:00 |
 | [A Street Cat Named Bob 1080p CZ Titulky](https://prehraj.to/a-street-cat-named-bob-1080p-cz-titulky-mkv/7a05368a1b4102d7) (ID 30822365) | [Sdílej 34228623](https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv) | target_unavailable | 2026-11-05T15:48:24.196984+00:00 |
