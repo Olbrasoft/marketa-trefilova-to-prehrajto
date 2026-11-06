@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T21:37:14.486768+00:00
+Poslední aktualizace (UTC): 2026-11-06T21:37:20.940953+00:00
 
 Zkontrolováno videí: 472. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 82, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 83, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -89,6 +89,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 86. Důvod
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T14:29:39.428793+00:00 |
 | [Grease 4K CZ Titulky](https://prehraj.to/grease-4k-cz-titulky-mkv/fc50bf2fa2cb63f7) (ID 30855592) | [Sdílej 31103634](https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv) | target_unavailable | 2026-11-06T09:44:34.066242+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-06T01:20:03.845148+00:00 |
+| [Hostiles 1080p CZ Titulky](https://prehraj.to/hostiles-1080p-cz-titulky-mkv/500d7f06b70d4510) (ID 30870123) | [Sdílej 10314025](https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv) | target_unavailable | 2026-11-06T21:37:20.940875+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-05T14:28:27.736005+00:00 |
 | [I Am Heath Ledger SD CZ Titulky](https://prehraj.to/i-am-heath-ledger-sd-cz-titulky-mkv/fdac86fe4f062c00) (ID 30834760) | [Sdílej 7474986](https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv) | target_unavailable | 2026-11-05T22:44:10.137729+00:00 |
 | [Insomnia 1080p CZ Titulky](https://prehraj.to/insomnia-1080p-cz-titulky-mkv/7357b6c213189979) (ID 30854783) | [Sdílej 27519363](https://sdilej.cz/27519363/insomnia.2002.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-06T08:53:54.166881+00:00 |
