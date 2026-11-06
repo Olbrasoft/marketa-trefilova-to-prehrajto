@@ -45239,17 +45239,19 @@
       "attempts": []
     },
     "1451": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-06T22:23:26.557915+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20443534",
         "display_name": "The Proposition (2005) 1080p CZ Dabing",
         "planned_at": "2026-11-06T22:18:09.038731+00:00"
-      },
-      "claim": {
-        "worker_id": "7aceaa44b5db4b7cb5a051ab07ec212c-shard-0",
-        "claimed_at": "2026-11-06T22:18:10.675972+00:00",
-        "lease_expires_at": "2026-11-07T04:18:10.675972+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30871258",
       "prepared": {
@@ -120104,5 +120106,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:23:24.988183+00:00"
+  "updated_at": "2026-11-06T22:23:26.557936+00:00"
 }
