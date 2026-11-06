@@ -71229,17 +71229,19 @@
       "attempts": []
     },
     "12037": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34847024",
+          "target_video_id": "30871553",
+          "permanent": false,
+          "attempted_at": "2026-11-06T22:37:50.506202+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34847024",
         "display_name": "The Power of One 1080p CZ Dabing",
         "planned_at": "2026-11-06T22:26:58.666190+00:00"
-      },
-      "claim": {
-        "worker_id": "95d22ed823a74fc09814efcb661771c5-shard-0",
-        "claimed_at": "2026-11-06T22:26:58.971116+00:00",
-        "lease_expires_at": "2026-11-07T04:26:58.971116+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30871553",
       "prepared": {
@@ -120239,5 +120241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:37:45.014432+00:00"
+  "updated_at": "2026-11-06T22:37:50.506219+00:00"
 }
