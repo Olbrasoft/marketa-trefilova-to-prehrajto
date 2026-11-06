@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-06T03:35:19.433238+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-06T04:13:44.621373+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-06T04:47:17.142380+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-06T05:52:41.596709+00:00"
         }
       ],
       "last_plan": {
@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-06T04:47:19.124341+00:00"
+        "planned_at": "2026-11-06T05:52:39.976571+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "6bbb99f6109542708d1fa2c8e9d6e485-shard-0",
+        "claimed_at": "2026-11-06T05:52:40.199918+00:00",
+        "lease_expires_at": "2026-11-06T11:52:40.199918+00:00",
+        "run_id": "42168012793"
       }
     },
     "21312": {
@@ -23405,7 +23411,7 @@
       "last_plan": {
         "source_id": "27438034",
         "display_name": "Ant-Man 4K CZ Titulky",
-        "planned_at": "2026-11-06T05:52:37.838382+00:00"
+        "planned_at": "2026-11-06T05:52:40.094822+00:00"
       }
     },
     "1835": {
@@ -72283,5 +72289,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T05:52:37.838397+00:00"
+  "updated_at": "2026-11-06T05:52:41.596726+00:00"
 }
