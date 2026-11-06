@@ -68564,17 +68564,19 @@
       }
     },
     "23948": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21561117",
+          "target_video_id": "30862393",
+          "permanent": false,
+          "attempted_at": "2026-11-06T15:40:58.665528+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21561117",
         "display_name": "Thursday 1080p CZ Dabing",
         "planned_at": "2026-11-06T15:33:40.499305+00:00"
-      },
-      "claim": {
-        "worker_id": "0701421477c044049209a35b7634336e-shard-0",
-        "claimed_at": "2026-11-06T15:33:40.806375+00:00",
-        "lease_expires_at": "2026-11-06T21:33:40.806375+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30862393",
       "prepared": {
@@ -117215,5 +117217,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T15:33:43.917036+00:00"
+  "updated_at": "2026-11-06T15:40:58.665543+00:00"
 }
