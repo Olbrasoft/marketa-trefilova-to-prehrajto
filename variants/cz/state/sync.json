@@ -45541,17 +45541,19 @@
       "attempts": []
     },
     "20172": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35439983",
+          "target_video_id": "30852809",
+          "permanent": false,
+          "attempted_at": "2026-11-06T08:03:00.811839+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35439983",
         "display_name": "The Best of Men 1080p CZ Dabing",
         "planned_at": "2026-11-06T07:41:06.548640+00:00"
-      },
-      "claim": {
-        "worker_id": "04d2812c4a49472fbba0f7f1885b177a-shard-0",
-        "claimed_at": "2026-11-06T07:41:06.885956+00:00",
-        "lease_expires_at": "2026-11-06T13:41:06.885956+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30852809",
       "prepared": {
@@ -113869,5 +113871,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T07:41:11.127300+00:00"
+  "updated_at": "2026-11-06T08:03:00.811854+00:00"
 }
