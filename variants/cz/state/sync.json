@@ -19863,13 +19863,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-06T14:43:17.202069+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-06T15:15:08.352327+00:00"
         },
         {
@@ -19878,12 +19871,19 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-06T16:06:16.154846+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:36:34.826505+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12671560",
         "display_name": "Rise of the Planet of the Apes 4K CZ Dabing",
-        "planned_at": "2026-11-06T16:06:14.249225+00:00"
+        "planned_at": "2026-11-06T16:36:32.947331+00:00"
       },
       "previous_target_id": "30680839",
       "prepared": {
@@ -68743,11 +68743,22 @@
       "last_plan": {
         "source_id": "29449217",
         "display_name": "The Beguiled (1971) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T16:36:29.054679+00:00"
+        "planned_at": "2026-11-06T16:36:33.171646+00:00"
+      },
+      "claim": {
+        "worker_id": "43f6f63708974d0ea68caead19bedcb6-shard-0",
+        "claimed_at": "2026-11-06T16:36:33.697312+00:00",
+        "lease_expires_at": "2026-11-06T22:36:33.697312+00:00",
+        "run_id": "42233332129"
       }
     },
     "26521": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34781135",
+        "display_name": "Wendy and Lucy 1080p CZ Dabing",
+        "planned_at": "2026-11-06T16:36:33.293520+00:00"
+      }
     },
     "23411": {
       "attempts": []
@@ -117641,5 +117652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:36:31.225997+00:00"
+  "updated_at": "2026-11-06T16:36:34.826521+00:00"
 }
