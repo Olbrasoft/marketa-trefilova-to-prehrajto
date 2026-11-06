@@ -70075,17 +70075,19 @@
       "attempts": []
     },
     "1065": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32423642",
+          "target_video_id": "30867700",
+          "permanent": false,
+          "attempted_at": "2026-11-06T19:51:06.407947+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32423642",
         "display_name": "The Son of a Thousand Men (O Filho de Mil Homens) 1080p CZ Dabing",
         "planned_at": "2026-11-06T19:45:35.448661+00:00"
-      },
-      "claim": {
-        "worker_id": "84430af4af9943ff93665e736921cce1-shard-0",
-        "claimed_at": "2026-11-06T19:45:35.782213+00:00",
-        "lease_expires_at": "2026-11-07T01:45:35.782213+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30867700",
       "prepared": {
@@ -119054,5 +119056,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T19:50:30.675842+00:00"
+  "updated_at": "2026-11-06T19:51:06.407963+00:00"
 }
