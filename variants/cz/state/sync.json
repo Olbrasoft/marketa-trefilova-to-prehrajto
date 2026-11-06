@@ -68274,17 +68274,19 @@
       }
     },
     "27753": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27641554",
+          "target_video_id": "30860851",
+          "permanent": false,
+          "attempted_at": "2026-11-06T14:29:25.663402+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27641554",
         "display_name": "Sick of Myself 1080p CZ Dabing",
         "planned_at": "2026-11-06T14:03:11.303969+00:00"
-      },
-      "claim": {
-        "worker_id": "844b569e7e384dcca0b1330e90292856-shard-0",
-        "claimed_at": "2026-11-06T14:03:11.498225+00:00",
-        "lease_expires_at": "2026-11-06T20:03:11.498225+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30860851",
       "prepared": {
@@ -116576,5 +116578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T14:05:10.590677+00:00"
+  "updated_at": "2026-11-06T14:29:25.663415+00:00"
 }
