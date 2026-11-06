@@ -446,3 +446,4 @@ Attach subtitles only after target processing has finished.
 | Pirates of the Caribbean: At World's End 4K CZ Titulky | 30850430 | https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv | Extract Czech track from exact source after processing |
 | A Dirty Carnival (비열한 거리) 1080p CZ Titulky | 30851366 | https://sdilej.cz/27606009/a.dirty.carnival.2006.1080p.bluray.korean.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | School of Rock 1080p CZ Titulky | 30854567 | https://sdilej.cz/29918220/skola-ro-c-ku-skola-rocku-the-school-of-rock-2003-1080p-x265-cz-en-multisub-.mkv | Extract Czech track from exact source after processing |
+| 8 Mile 1080p CZ Titulky | 30854680 | https://sdilej.cz/27818942/8.mile.2002.1080p.bluray.h264.aac-leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
