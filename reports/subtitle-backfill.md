@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T15:41:55.584178+00:00
+Poslední aktualizace (UTC): 2026-11-06T15:42:01.200615+00:00
 
 Zkontrolováno videí: 462. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 71, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 72, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -107,6 +107,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 76. Důvod
 | [Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky](https://prehraj.to/peculiarities-of-the-national-hunt-1080p-cz-titulky-mkv/6a7b3933ad9f892c) (ID 30846831) | [Sdílej 32585907](https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv) | target_unavailable | 2026-11-06T04:31:31.026673+00:00 |
 | [Pirates of the Caribbean: At World's End 4K CZ Titulky](https://prehraj.to/pirates-of-the-caribbean-at-world-s-end-4k-cz-titulky-mkv/5105285d5b027286) (ID 30850430) | [Sdílej 32902146](https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv) | target_unavailable | 2026-11-06T06:22:25.566526+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-05T14:29:06.621081+00:00 |
+| [Predator: Badlands 4K CZ Titulky](https://prehraj.to/predator-badlands-4k-cz-titulky-mkv/4d2bd24f6cad7a47) (ID 30862557) | [Sdílej 32831183](https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv) | target_unavailable | 2026-11-06T15:42:00.564780+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-05T14:29:28.329405+00:00 |
 | [Reprise SD CZ Titulky](https://prehraj.to/reprise-sd-cz-titulky-mkv/d85c058014e2ec96) (ID 30835226) | [Sdílej 8431051](https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv) | target_unavailable | 2026-11-05T22:54:17.796804+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-05T14:29:10.190580+00:00 |
