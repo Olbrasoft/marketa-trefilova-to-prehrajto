@@ -66292,17 +66292,19 @@
       "attempts": []
     },
     "20443": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16532960",
+          "target_video_id": "30837361",
+          "permanent": false,
+          "attempted_at": "2026-11-06T00:32:03.329811+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16532960",
         "display_name": "Race 1080p CZ Dabing",
         "planned_at": "2026-11-05T23:48:20.044799+00:00"
-      },
-      "claim": {
-        "worker_id": "91807b68880f4c3baf5e32c288aa0091-shard-0",
-        "claimed_at": "2026-11-05T23:48:20.319166+00:00",
-        "lease_expires_at": "2026-11-06T05:48:20.319166+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30837361",
       "prepared": {
@@ -111877,5 +111879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T00:32:00.131235+00:00"
+  "updated_at": "2026-11-06T00:32:03.329833+00:00"
 }
