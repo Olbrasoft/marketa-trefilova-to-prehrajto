@@ -66374,17 +66374,19 @@
       }
     },
     "13024": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "3938786",
+          "target_video_id": "30840312",
+          "permanent": false,
+          "attempted_at": "2026-11-06T01:20:51.561980+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "3938786",
         "display_name": "The Believer SD CZ Dabing",
         "planned_at": "2026-11-06T01:15:04.488458+00:00"
-      },
-      "claim": {
-        "worker_id": "aca9353ef04942eab301deb77d0e0aea-shard-0",
-        "claimed_at": "2026-11-06T01:15:04.774099+00:00",
-        "lease_expires_at": "2026-11-06T07:15:04.774099+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30840312",
       "prepared": {
@@ -112236,5 +112238,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T01:15:08.185748+00:00"
+  "updated_at": "2026-11-06T01:20:51.561998+00:00"
 }
