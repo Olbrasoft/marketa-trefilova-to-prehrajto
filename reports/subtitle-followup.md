@@ -472,3 +472,4 @@ Attach subtitles only after target processing has finished.
 | The Unforgivable 1080p CZ Titulky | 30866709 | https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | 28 Years Later: The Bone Temple 4K CZ Titulky | 30869550 | https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv | Extract Czech track from exact source after processing |
 | Easy Rider 1080p CZ Titulky | 30869994 | https://sdilej.cz/27945336/bezstarostna-jizda-easy-rider-roadmovie-usa-1969-audio-en-cz-tit.cz-1080p-jackripper.mp4 | Extract Czech track from exact source after processing |
+| Hostiles 1080p CZ Titulky | 30870123 | https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv | Extract Czech track from exact source after processing |
