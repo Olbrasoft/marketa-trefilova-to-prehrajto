@@ -67595,17 +67595,19 @@
       }
     },
     "1914": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24192673",
+          "target_video_id": "30856404",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:34:54.130601+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24192673",
         "display_name": "God's Crooked Lines (Los renglones torcidos de Dios) 1080p CZ Dabing",
         "planned_at": "2026-11-06T10:21:55.651725+00:00"
-      },
-      "claim": {
-        "worker_id": "e807419af5d64989812654a853441384-shard-0",
-        "claimed_at": "2026-11-06T10:21:55.830012+00:00",
-        "lease_expires_at": "2026-11-06T16:21:55.830012+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30856404",
       "prepared": {
@@ -115213,5 +115215,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:29:07.014170+00:00"
+  "updated_at": "2026-11-06T10:34:54.130626+00:00"
 }
