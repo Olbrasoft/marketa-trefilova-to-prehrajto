@@ -70344,17 +70344,19 @@
       }
     },
     "1776": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34648059",
+          "target_video_id": "30868646",
+          "permanent": false,
+          "attempted_at": "2026-11-06T20:27:02.394885+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34648059",
         "display_name": "Naked Among Wolves (Nackt unter Wölfen) 1080p CZ Dabing",
         "planned_at": "2026-11-06T20:19:39.390593+00:00"
-      },
-      "claim": {
-        "worker_id": "2ac9a04504904a92b1c7ce2b8f00431b-shard-0",
-        "claimed_at": "2026-11-06T20:19:39.940166+00:00",
-        "lease_expires_at": "2026-11-07T02:19:39.940166+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30868646",
       "prepared": {
@@ -119266,5 +119268,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T20:25:34.896967+00:00"
+  "updated_at": "2026-11-06T20:27:02.394902+00:00"
 }
