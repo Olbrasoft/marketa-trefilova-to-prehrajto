@@ -68659,17 +68659,19 @@
       "attempts": []
     },
     "22399": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30286551",
+          "target_video_id": "30863581",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:35:13.718405+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30286551",
         "display_name": "The Driver 1080p CZ Dabing",
         "planned_at": "2026-11-06T16:24:49.042771+00:00"
-      },
-      "claim": {
-        "worker_id": "2e99a56a826e47b6a15004f88cf8d9db-shard-0",
-        "claimed_at": "2026-11-06T16:24:49.340632+00:00",
-        "lease_expires_at": "2026-11-06T22:24:49.340632+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30863581",
       "prepared": {
@@ -117614,5 +117616,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:35:11.122400+00:00"
+  "updated_at": "2026-11-06T16:35:13.718443+00:00"
 }
