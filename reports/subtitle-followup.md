@@ -429,3 +429,4 @@ Attach subtitles only after target processing has finished.
 | I Am Heath Ledger SD CZ Titulky | 30834760 | https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv | Extract Czech track from exact source after processing |
 | Reprise SD CZ Titulky | 30835226 | https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Arrhythmia SD CZ Titulky | 30835868 | https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi | Extract Czech track from exact source after processing |
+| Mardaani 1080p CZ Titulky | 30840183 | https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv | Extract Czech track from exact source after processing |
