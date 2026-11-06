@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-06T07:36:49.629200+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-06T08:33:11.627870+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-06T09:04:47.523430+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:36:36.369906+00:00"
         }
       ],
       "last_plan": {
@@ -10829,7 +10829,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-06T09:04:48.979405+00:00"
+        "planned_at": "2026-11-06T09:36:34.933425+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10837,6 +10837,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "103f5dd1df0a4959a4f43d586827ffff-shard-0",
+        "claimed_at": "2026-11-06T09:36:35.403402+00:00",
+        "lease_expires_at": "2026-11-06T15:36:35.403402+00:00",
+        "run_id": "42168012793"
       }
     },
     "21748": {
@@ -67358,7 +67364,7 @@
       "last_plan": {
         "source_id": "25227421",
         "display_name": "Micmacs SD CZ Dabing",
-        "planned_at": "2026-11-06T09:36:32.942817+00:00"
+        "planned_at": "2026-11-06T09:36:35.107682+00:00"
       }
     },
     "2062": {
@@ -114678,5 +114684,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:36:32.942834+00:00"
+  "updated_at": "2026-11-06T09:36:36.369923+00:00"
 }
