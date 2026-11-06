@@ -467,3 +467,4 @@ Attach subtitles only after target processing has finished.
 | Mr. Brooks 1080p CZ Titulky | 30863259 | https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv | Extract Czech track from exact source after processing |
 | Where the Crawdads Sing 720p CZ Titulky | 30863680 | https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv | Extract Czech track from exact source after processing |
 | The Phantom of the Opera (2004) 720p CZ Titulky | 30864178 | https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv | Extract Czech track from exact source after processing |
+| Belfast 1080p CZ Titulky | 30864204 | https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv | Extract Czech track from exact source after processing |
