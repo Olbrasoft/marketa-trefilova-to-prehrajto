@@ -67333,17 +67333,19 @@
       }
     },
     "2129": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34644256",
+          "target_video_id": "30855440",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:38:55.500911+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34644256",
         "display_name": "Ruby & Quentin (Tais-toi !) 1080p CZ Dabing",
         "planned_at": "2026-11-06T09:28:33.229236+00:00"
-      },
-      "claim": {
-        "worker_id": "b709b3417f784e6db0403ae4cca834d9-shard-0",
-        "claimed_at": "2026-11-06T09:28:33.454750+00:00",
-        "lease_expires_at": "2026-11-06T15:28:33.454750+00:00",
-        "run_id": "42168012793"
       },
       "previous_target_id": "30855440",
       "prepared": {
@@ -114684,5 +114686,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:38:45.866301+00:00"
+  "updated_at": "2026-11-06T09:38:55.500926+00:00"
 }
