@@ -67832,17 +67832,19 @@
       }
     },
     "1917": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32943403",
+          "target_video_id": "30857999",
+          "permanent": false,
+          "attempted_at": "2026-11-06T11:49:28.579369+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32943403",
         "display_name": "American Underdog 1080p CZ Dabing",
         "planned_at": "2026-11-06T11:42:17.328628+00:00"
-      },
-      "claim": {
-        "worker_id": "23cc3f33fea74d29974feee7ebdfbbbc-shard-0",
-        "claimed_at": "2026-11-06T11:42:17.506102+00:00",
-        "lease_expires_at": "2026-11-06T17:42:17.506102+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30857999",
       "prepared": {
@@ -115664,5 +115666,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T11:42:21.639416+00:00"
+  "updated_at": "2026-11-06T11:49:28.579390+00:00"
 }
