@@ -16341,13 +16341,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:52:18.861628+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-06T11:33:02.999397+00:00"
         },
         {
@@ -16356,12 +16349,19 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-06T12:17:01.938586+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:57:00.414786+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:16:57.729745+00:00"
+        "planned_at": "2026-11-06T12:56:58.902961+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -68102,7 +68102,13 @@
       "last_plan": {
         "source_id": "27827139",
         "display_name": "How the West Was Won 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:56:55.687621+00:00"
+        "planned_at": "2026-11-06T12:56:59.034103+00:00"
+      },
+      "claim": {
+        "worker_id": "617653e9b3a740d3835a5543992fa6b8-shard-0",
+        "claimed_at": "2026-11-06T12:56:59.356939+00:00",
+        "lease_expires_at": "2026-11-06T18:56:59.356939+00:00",
+        "run_id": "42194637218"
       }
     },
     "30986": {
@@ -68119,7 +68125,7 @@
       "last_plan": {
         "source_id": "34085990",
         "display_name": "The Parallax View 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:56:20.803163+00:00"
+        "planned_at": "2026-11-06T12:56:59.108357+00:00"
       }
     },
     "22720": {
@@ -116153,5 +116159,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:56:57.145154+00:00"
+  "updated_at": "2026-11-06T12:57:00.414808+00:00"
 }
