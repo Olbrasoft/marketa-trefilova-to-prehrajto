@@ -27303,7 +27303,7 @@
       "last_plan": {
         "source_id": "32448687",
         "display_name": "Erin Brockovich 4K CZ Dabing",
-        "planned_at": "2026-11-06T16:15:07.131567+00:00"
+        "planned_at": "2026-11-06T16:46:01.308293+00:00"
       },
       "previous_target_id": "30714914",
       "prepared": {
@@ -27311,6 +27311,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-02T03:14:11.037750+00:00",
         "relay_source_id": "32448687"
+      },
+      "claim": {
+        "worker_id": "85fe280a03584dbb83cff3e0edd44b63-shard-0",
+        "claimed_at": "2026-11-06T16:46:01.896140+00:00",
+        "lease_expires_at": "2026-11-06T22:46:01.896140+00:00",
+        "run_id": "42233332129"
       }
     },
     "880": {
@@ -68768,17 +68774,19 @@
       }
     },
     "26521": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34781135",
+          "target_video_id": "30863834",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:46:02.336280+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34781135",
         "display_name": "Wendy and Lucy 1080p CZ Dabing",
         "planned_at": "2026-11-06T16:37:53.192895+00:00"
-      },
-      "claim": {
-        "worker_id": "b986a937a284469b9ea48c2e7fabfb08-shard-0",
-        "claimed_at": "2026-11-06T16:37:53.519738+00:00",
-        "lease_expires_at": "2026-11-06T22:37:53.519738+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30863834",
       "prepared": {
@@ -68808,7 +68816,7 @@
       "last_plan": {
         "source_id": "33393660",
         "display_name": "Dangerous Beauty 1080p CZ Dabing",
-        "planned_at": "2026-11-06T16:45:54.350998+00:00"
+        "planned_at": "2026-11-06T16:46:01.531475+00:00"
       }
     },
     "30625": {
@@ -117685,5 +117693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:45:55.379523+00:00"
+  "updated_at": "2026-11-06T16:46:02.336295+00:00"
 }
