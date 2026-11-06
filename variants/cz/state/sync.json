@@ -67647,17 +67647,19 @@
       }
     },
     "11929": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32992541",
+          "target_video_id": "30856502",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:48:00.328180+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32992541",
         "display_name": "State of Grace 1080p CZ Dabing",
         "planned_at": "2026-11-06T10:29:02.522640+00:00"
-      },
-      "claim": {
-        "worker_id": "afd9b9360d6b4dc68bef4fca29cc03a0-shard-0",
-        "claimed_at": "2026-11-06T10:29:02.677946+00:00",
-        "lease_expires_at": "2026-11-06T16:29:02.677946+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30856502",
       "prepared": {
@@ -115220,5 +115222,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:34:59.975666+00:00"
+  "updated_at": "2026-11-06T10:48:00.328199+00:00"
 }
