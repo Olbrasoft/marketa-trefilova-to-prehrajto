@@ -69012,17 +69012,19 @@
       "attempts": []
     },
     "36922": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34771156",
+          "target_video_id": "30864448",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:17:33.698282+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34771156",
         "display_name": "Kulu's Journey (Pangolin: Kulu's Journey) 1080p CZ Dabing",
         "planned_at": "2026-11-06T17:03:51.127630+00:00"
-      },
-      "claim": {
-        "worker_id": "1f2097b0bf96401994bc63fba06fac1d-shard-0",
-        "claimed_at": "2026-11-06T17:03:51.481081+00:00",
-        "lease_expires_at": "2026-11-06T23:03:51.481081+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30864448",
       "prepared": {
@@ -117876,5 +117878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:12:13.813767+00:00"
+  "updated_at": "2026-11-06T17:17:33.698301+00:00"
 }
