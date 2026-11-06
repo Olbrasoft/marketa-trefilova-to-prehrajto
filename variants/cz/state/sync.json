@@ -69202,17 +69202,19 @@
       }
     },
     "13767": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29690193",
+          "target_video_id": "30865089",
+          "permanent": false,
+          "attempted_at": "2026-11-06T17:54:04.362158+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29690193",
         "display_name": "Death Note 2: The Last Name (デスノート the Last name) 1080p CZ Dabing",
         "planned_at": "2026-11-06T17:30:39.497461+00:00"
-      },
-      "claim": {
-        "worker_id": "0dc3064fb8e14244a159f494fed09ae2-shard-0",
-        "claimed_at": "2026-11-06T17:30:39.833342+00:00",
-        "lease_expires_at": "2026-11-06T23:30:39.833342+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30865089",
       "prepared": {
@@ -118091,5 +118093,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T17:45:28.731996+00:00"
+  "updated_at": "2026-11-06T17:54:04.362172+00:00"
 }
