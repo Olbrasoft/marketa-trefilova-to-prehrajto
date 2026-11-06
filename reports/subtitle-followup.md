@@ -450,3 +450,4 @@ Attach subtitles only after target processing has finished.
 | Insomnia 1080p CZ Titulky | 30854783 | https://sdilej.cz/27519363/insomnia.2002.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Grease 4K CZ Titulky | 30855592 | https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv | Extract Czech track from exact source after processing |
 | Dungeons & Dragons: Honor Among Thieves 4K CZ Titulky | 30856609 | https://sdilej.cz/26096481/dungeons.and.dragons.honor.among.thieves-2023-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| RocknRolla 1080p CZ Titulky | 30856994 | https://sdilej.cz/34921369/rocknrolla-2008-.mkv | Extract Czech track from exact source after processing |
