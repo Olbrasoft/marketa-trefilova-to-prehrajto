@@ -68368,17 +68368,19 @@
       }
     },
     "2112": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30669435",
+          "target_video_id": "30861717",
+          "permanent": false,
+          "attempted_at": "2026-11-06T15:09:58.218724+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30669435",
         "display_name": "Trash 1080p CZ Dabing",
         "planned_at": "2026-11-06T14:53:31.785006+00:00"
-      },
-      "claim": {
-        "worker_id": "ee39c1379373491a9012c0f791f0c1d7-shard-0",
-        "claimed_at": "2026-11-06T14:53:32.079398+00:00",
-        "lease_expires_at": "2026-11-06T20:53:32.079398+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30861717",
       "prepared": {
@@ -116920,5 +116922,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T15:03:59.598822+00:00"
+  "updated_at": "2026-11-06T15:09:58.218740+00:00"
 }
