@@ -23911,17 +23911,19 @@
       "attempts": []
     },
     "1833": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8554596",
+          "target_video_id": "30857839",
+          "permanent": false,
+          "attempted_at": "2026-11-06T11:55:47.909601+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8554596",
         "display_name": "Lawless 720p CZ Titulky",
         "planned_at": "2026-11-06T11:35:34.863854+00:00"
-      },
-      "claim": {
-        "worker_id": "cedf8a156de44af7934df13e70777e1e-shard-0",
-        "claimed_at": "2026-11-06T11:35:34.906361+00:00",
-        "lease_expires_at": "2026-11-06T17:35:34.906361+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30857839",
       "prepared": {
@@ -74393,5 +74395,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T11:55:14.497775+00:00"
+  "updated_at": "2026-11-06T11:55:47.909620+00:00"
 }
