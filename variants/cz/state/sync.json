@@ -28773,7 +28773,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-06T13:37:04.468516+00:00"
+        "planned_at": "2026-11-06T14:45:04.850640+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28781,6 +28781,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "73177142e0e24c8fbe1a8f52dd49e6e8-shard-0",
+        "claimed_at": "2026-11-06T14:45:05.380382+00:00",
+        "lease_expires_at": "2026-11-06T20:45:05.380382+00:00",
+        "run_id": "42233332129"
       }
     },
     "23584": {
@@ -46659,13 +46665,6 @@
           "source_id": "35147292",
           "target_video_id": "30771541",
           "permanent": false,
-          "attempted_at": "2026-11-06T12:17:46.811778+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35147292",
-          "target_video_id": "30771541",
-          "permanent": false,
           "attempted_at": "2026-11-06T12:58:07.746057+00:00"
         },
         {
@@ -46674,6 +46673,13 @@
           "target_video_id": "30771541",
           "permanent": false,
           "attempted_at": "2026-11-06T13:37:01.266921+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35147292",
+          "target_video_id": "30771541",
+          "permanent": false,
+          "attempted_at": "2026-11-06T14:45:05.997982+00:00"
         }
       ],
       "last_plan": {
@@ -46687,12 +46693,6 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
-      },
-      "claim": {
-        "worker_id": "e9f719cff0be485ea33dbcf8863bc1d6-shard-0",
-        "claimed_at": "2026-11-06T14:45:02.424320+00:00",
-        "lease_expires_at": "2026-11-06T20:45:02.424320+00:00",
-        "run_id": "42233332129"
       }
     },
     "20013": {
@@ -68313,7 +68313,7 @@
       "last_plan": {
         "source_id": "31470565",
         "display_name": "Pelé: Birth of a Legend 1080p CZ Dabing",
-        "planned_at": "2026-11-06T14:45:02.059233+00:00"
+        "planned_at": "2026-11-06T14:45:05.072197+00:00"
       }
     },
     "2112": {
@@ -116843,5 +116843,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T14:45:03.076209+00:00"
+  "updated_at": "2026-11-06T14:45:05.998008+00:00"
 }
