@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T06:02:15.224698+00:00
+Poslední aktualizace (UTC): 2026-11-06T06:02:20.616630+00:00
 
 Zkontrolováno videí: 441. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 21, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 49, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -72,6 +72,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 53. Důvod
 | [A Million Miles Away 4K CZ Titulky](https://prehraj.to/a-million-miles-away-4k-cz-titulky-mkv/f3a1bbf33337f55f) (ID 30828699) | [Sdílej 26864340](https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv) | target_unavailable | 2026-11-05T19:30:12.672219+00:00 |
 | [A Street Cat Named Bob 1080p CZ Titulky](https://prehraj.to/a-street-cat-named-bob-1080p-cz-titulky-mkv/7a05368a1b4102d7) (ID 30822365) | [Sdílej 34228623](https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv) | target_unavailable | 2026-11-05T15:48:24.196984+00:00 |
 | [Agnus Dei (Les innocentes) SD CZ Titulky](https://prehraj.to/agnus-dei-les-innocentes-sd-cz-titulky-mkv/bb11ade87d8bb027) (ID 30842899) | [Sdílej 6500108](https://sdilej.cz/6500108/nevinne-les-innocentes-agnus-dei-2016-titulky.cz.mkv) | target_unavailable | 2026-11-06T02:40:36.924719+00:00 |
+| [Ant-Man 4K CZ Titulky](https://prehraj.to/ant-man-4k-cz-titulky-mkv/6b0b227a8e3ac14a) (ID 30849922) | [Sdílej 27438034](https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv) | target_unavailable | 2026-11-06T06:02:20.616561+00:00 |
 | [Arrhythmia SD CZ Titulky](https://prehraj.to/arrhythmia-sd-cz-titulky-avi/6189d9dd009e9d9f) (ID 30835868) | [Sdílej 11209595](https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi) | target_unavailable | 2026-11-05T23:14:29.008039+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-05T14:28:16.195484+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T14:28:39.314558+00:00 |
