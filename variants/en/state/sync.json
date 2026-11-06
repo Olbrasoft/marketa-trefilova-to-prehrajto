@@ -11422,13 +11422,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-06T12:53:21.771867+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-06T13:23:24.243792+00:00"
         },
         {
@@ -11437,6 +11430,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-06T13:58:58.210204+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-06T14:41:44.309082+00:00"
         }
       ],
       "last_plan": {
@@ -17619,7 +17619,7 @@
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
-        "planned_at": "2026-11-06T13:59:00.112623+00:00"
+        "planned_at": "2026-11-06T14:41:43.692042+00:00"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -17627,6 +17627,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
+      },
+      "claim": {
+        "worker_id": "75456991867548e2b8ae748e9cbfe432-shard-0",
+        "claimed_at": "2026-11-06T14:41:44.014609+00:00",
+        "lease_expires_at": "2026-11-06T20:41:44.014609+00:00",
+        "run_id": "42233332129"
       }
     },
     "24279": {
@@ -24302,7 +24308,7 @@
       "last_plan": {
         "source_id": "26570302",
         "display_name": "The Little Mermaid (2023) 1080p CZ Titulky",
-        "planned_at": "2026-11-06T14:41:41.629643+00:00"
+        "planned_at": "2026-11-06T14:41:43.854055+00:00"
       }
     },
     "1588": {
@@ -75445,5 +75451,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T14:41:41.629656+00:00"
+  "updated_at": "2026-11-06T14:41:44.309096+00:00"
 }
