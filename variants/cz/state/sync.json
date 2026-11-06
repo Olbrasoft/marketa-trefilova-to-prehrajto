@@ -68171,17 +68171,19 @@
       "attempts": []
     },
     "22209": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34085990",
+          "target_video_id": "30859644",
+          "permanent": false,
+          "attempted_at": "2026-11-06T13:33:44.774710+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34085990",
         "display_name": "The Parallax View 1080p CZ Dabing",
         "planned_at": "2026-11-06T12:59:39.761619+00:00"
-      },
-      "claim": {
-        "worker_id": "7ee3a87dcf614321b7746c61df6325c8-shard-0",
-        "claimed_at": "2026-11-06T12:59:39.933364+00:00",
-        "lease_expires_at": "2026-11-06T18:59:39.933364+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30859644",
       "prepared": {
@@ -116494,5 +116496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T13:24:32.923733+00:00"
+  "updated_at": "2026-11-06T13:33:44.774733+00:00"
 }
