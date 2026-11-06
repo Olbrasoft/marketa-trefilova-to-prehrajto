@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-05T23:46:17.870394+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-06T01:13:11.888188+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-06T01:46:33.402986+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:26:12.612714+00:00"
         }
       ],
       "last_plan": {
@@ -6955,12 +6955,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "bd43f90195474fb59cbfeece8169149e-shard-0",
-        "claimed_at": "2026-11-06T02:26:09.707533+00:00",
-        "lease_expires_at": "2026-11-06T08:26:09.707533+00:00",
-        "run_id": "42138507864"
       }
     },
     "321": {
@@ -21562,7 +21556,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T01:46:36.072322+00:00"
+        "planned_at": "2026-11-06T02:26:11.962634+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21570,6 +21564,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "78171bb8426a4e45a9330ab34b47e2d3-shard-0",
+        "claimed_at": "2026-11-06T02:26:12.421231+00:00",
+        "lease_expires_at": "2026-11-06T08:26:12.421231+00:00",
+        "run_id": "42138507864"
       }
     },
     "677": {
@@ -66586,7 +66586,7 @@
       "last_plan": {
         "source_id": "33523723",
         "display_name": "Nowhere Boy 1080p CZ Dabing",
-        "planned_at": "2026-11-06T02:26:09.388523+00:00"
+        "planned_at": "2026-11-06T02:26:12.156995+00:00"
       }
     },
     "1926": {
@@ -112544,5 +112544,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T02:26:10.522287+00:00"
+  "updated_at": "2026-11-06T02:26:12.612737+00:00"
 }
