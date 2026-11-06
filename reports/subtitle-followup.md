@@ -444,3 +444,4 @@ Attach subtitles only after target processing has finished.
 | The Whiskey Bandit (A Viszkis) SD CZ Titulky | 30849859 | https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Ant-Man 4K CZ Titulky | 30849922 | https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv | Extract Czech track from exact source after processing |
 | Pirates of the Caribbean: At World's End 4K CZ Titulky | 30850430 | https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv | Extract Czech track from exact source after processing |
+| A Dirty Carnival (비열한 거리) 1080p CZ Titulky | 30851366 | https://sdilej.cz/27606009/a.dirty.carnival.2006.1080p.bluray.korean.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
