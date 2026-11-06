@@ -8512,13 +8512,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-06T08:34:05.194114+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-06T09:05:30.867556+00:00"
         },
         {
@@ -8527,6 +8520,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-06T09:37:15.260722+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:08:35.342667+00:00"
         }
       ],
       "last_plan": {
@@ -8540,12 +8540,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
-      },
-      "claim": {
-        "worker_id": "98a970d9377a4f5983c0052151d0fc5a-shard-0",
-        "claimed_at": "2026-11-06T10:08:33.018818+00:00",
-        "lease_expires_at": "2026-11-06T16:08:33.018818+00:00",
-        "run_id": "42194637218"
       }
     },
     "270": {
@@ -22194,7 +22188,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-06T09:37:17.685447+00:00"
+        "planned_at": "2026-11-06T10:08:34.874949+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22202,6 +22196,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "1f08ca7fcfa04753a68181d331d319fa-shard-0",
+        "claimed_at": "2026-11-06T10:08:35.200592+00:00",
+        "lease_expires_at": "2026-11-06T16:08:35.200592+00:00",
+        "run_id": "42194637218"
       }
     },
     "730": {
@@ -67482,7 +67482,7 @@
       "last_plan": {
         "source_id": "11716047",
         "display_name": "The World According to Garp 1080p CZ Dabing",
-        "planned_at": "2026-11-06T10:08:32.833595+00:00"
+        "planned_at": "2026-11-06T10:08:35.008738+00:00"
       }
     },
     "19811": {
@@ -114792,5 +114792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:08:33.317289+00:00"
+  "updated_at": "2026-11-06T10:08:35.342687+00:00"
 }
