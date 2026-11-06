@@ -69866,7 +69866,7 @@
       "last_plan": {
         "source_id": "28552319",
         "display_name": "Von Ryan's Express 1080p CZ Dabing",
-        "planned_at": "2026-11-06T21:56:16.591631+00:00"
+        "planned_at": "2026-11-06T22:26:46.990466+00:00"
       },
       "previous_target_id": "30866278",
       "prepared": {
@@ -69874,6 +69874,12 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-11-06T18:30:02.716534+00:00",
         "relay_source_id": "28552319"
+      },
+      "claim": {
+        "worker_id": "d6e5cacccd304ee0aef0c36280f975be-shard-0",
+        "claimed_at": "2026-11-06T22:26:47.585031+00:00",
+        "lease_expires_at": "2026-11-07T04:26:47.585031+00:00",
+        "run_id": "42270484162"
       }
     },
     "33299": {
@@ -70777,17 +70783,23 @@
           "attempted_at": "2026-11-06T21:56:11.117961+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "26845437",
-        "display_name": "Driving Madeleine (Une belle course) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T22:26:44.507328+00:00"
-      },
       "previous_target_id": "30870569",
-      "prepared": {
+      "upload": {
         "target_video_id": "30870569",
-        "size_bytes": 4037362496,
-        "prepared_at": "2026-11-06T21:49:24.672085+00:00",
-        "relay_source_id": "26845437"
+        "display_name": "Driving Madeleine (Une belle course) 1080p CZ Dabing",
+        "source_id": "26845437",
+        "source_url": "https://sdilej.cz/26845437/jizda-s-madeleine-une-belle-course-1080p-bluray-x264-dts-fr-ac3-cz-2022-.mkv",
+        "source_filename": "Jízda s Madeleine Une Belle Course 1080p Bluray x264 DTS FR AC3 CZ 2022 .mkv",
+        "size_bytes": 4000000000,
+        "width": 1920,
+        "height": 804,
+        "audio_language": "cs",
+        "language_probability": 0.7958782911300659,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/driving-madeleine-une-belle-course-1080p-cz-dabing-mkv/cd2ffcac8a424ac6",
+        "uploaded_at": "2026-11-06T22:26:47.821048+00:00"
       }
     },
     "1938": {
@@ -71201,7 +71213,7 @@
       "last_plan": {
         "source_id": "34847024",
         "display_name": "The Power of One 1080p CZ Dabing",
-        "planned_at": "2026-11-06T22:26:44.859920+00:00"
+        "planned_at": "2026-11-06T22:26:47.217825+00:00"
       }
     },
     "11004": {
@@ -120138,5 +120150,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:26:44.859937+00:00"
+  "updated_at": "2026-11-06T22:26:47.821076+00:00"
 }
