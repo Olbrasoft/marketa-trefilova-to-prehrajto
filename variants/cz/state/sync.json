@@ -68680,17 +68680,19 @@
       }
     },
     "26031": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "5972604",
+          "target_video_id": "30863605",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:29:16.194570+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5972604",
         "display_name": "99 Francs SD CZ Dabing",
         "planned_at": "2026-11-06T16:25:42.010887+00:00"
-      },
-      "claim": {
-        "worker_id": "2bf63213620345ea875800e802e5b7c7-shard-0",
-        "claimed_at": "2026-11-06T16:25:42.348295+00:00",
-        "lease_expires_at": "2026-11-06T22:25:42.348295+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30863605",
       "prepared": {
@@ -117607,5 +117609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:25:47.265611+00:00"
+  "updated_at": "2026-11-06T16:29:16.194584+00:00"
 }
