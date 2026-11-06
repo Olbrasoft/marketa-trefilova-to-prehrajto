@@ -69638,17 +69638,19 @@
       }
     },
     "1927": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20738702",
+          "target_video_id": "30866264",
+          "permanent": false,
+          "attempted_at": "2026-11-06T18:40:57.140674+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20738702",
         "display_name": "Trial by Fire (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-06T18:29:01.717003+00:00"
-      },
-      "claim": {
-        "worker_id": "36c6158148ab40f8999511e2244f2920-shard-0",
-        "claimed_at": "2026-11-06T18:29:02.262017+00:00",
-        "lease_expires_at": "2026-11-07T00:29:02.262017+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30866264",
       "prepared": {
@@ -118378,5 +118380,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:40:15.419770+00:00"
+  "updated_at": "2026-11-06T18:40:57.140691+00:00"
 }
