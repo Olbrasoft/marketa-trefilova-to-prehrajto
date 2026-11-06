@@ -28895,6 +28895,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-02T07:58:12.679475+00:00",
         "relay_source_id": "28442451"
+      },
+      "claim": {
+        "worker_id": "25bca5c690af43bcac79f856345bd119-shard-0",
+        "claimed_at": "2026-11-06T03:00:46.357686+00:00",
+        "lease_expires_at": "2026-11-06T09:00:46.357686+00:00",
+        "run_id": "42138507864"
       }
     },
     "22988": {
@@ -29704,13 +29710,6 @@
           "source_id": "34850732",
           "target_video_id": "30723078",
           "permanent": false,
-          "attempted_at": "2026-11-06T01:13:29.539331+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850732",
-          "target_video_id": "30723078",
-          "permanent": false,
           "attempted_at": "2026-11-06T01:46:54.630221+00:00"
         },
         {
@@ -29719,6 +29718,13 @@
           "target_video_id": "30723078",
           "permanent": false,
           "attempted_at": "2026-11-06T02:26:25.827572+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850732",
+          "target_video_id": "30723078",
+          "permanent": false,
+          "attempted_at": "2026-11-06T03:00:46.558694+00:00"
         }
       ],
       "last_plan": {
@@ -29732,12 +29738,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-02T09:31:48.716182+00:00",
         "relay_source_id": "34850732"
-      },
-      "claim": {
-        "worker_id": "46cbbafa3d674e4eafd9e46ce2858796-shard-0",
-        "claimed_at": "2026-11-06T03:00:44.317344+00:00",
-        "lease_expires_at": "2026-11-06T09:00:44.317344+00:00",
-        "run_id": "42138507864"
       }
     },
     "888": {
@@ -66693,7 +66693,7 @@
       "last_plan": {
         "source_id": "31217789",
         "display_name": "The Messenger 1080p CZ Dabing",
-        "planned_at": "2026-11-06T03:00:42.409785+00:00"
+        "planned_at": "2026-11-06T03:00:45.980330+00:00"
       }
     },
     "11620": {
@@ -112636,5 +112636,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T03:00:44.468003+00:00"
+  "updated_at": "2026-11-06T03:00:46.558717+00:00"
 }
