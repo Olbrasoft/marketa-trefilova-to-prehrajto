@@ -251,7 +251,7 @@
       "last_plan": {
         "source_id": "26227362",
         "display_name": "The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky",
-        "planned_at": "2026-11-06T11:30:02.038564+00:00"
+        "planned_at": "2026-11-06T12:16:04.306520+00:00"
       },
       "previous_target_id": "30582771",
       "prepared": {
@@ -259,6 +259,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
+      },
+      "claim": {
+        "worker_id": "94ea13349ab043d5b5bf35cbb95abe65-shard-0",
+        "claimed_at": "2026-11-06T12:16:04.435935+00:00",
+        "lease_expires_at": "2026-11-06T18:16:04.435935+00:00",
+        "run_id": "42194637218"
       }
     },
     "24": {
@@ -2035,6 +2041,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
+      },
+      "claim": {
+        "worker_id": "f49b837d04754d559221f4a91dc7c831-shard-0",
+        "claimed_at": "2026-11-06T12:16:04.030405+00:00",
+        "lease_expires_at": "2026-11-06T18:16:04.030405+00:00",
+        "run_id": "42194637218"
       }
     },
     "107": {
@@ -9864,13 +9876,6 @@
           "source_id": "28240998",
           "target_video_id": "30664033",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:06:52.534038+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28240998",
-          "target_video_id": "30664033",
-          "permanent": false,
           "attempted_at": "2026-11-06T10:50:53.522774+00:00"
         },
         {
@@ -9879,6 +9884,13 @@
           "target_video_id": "30664033",
           "permanent": false,
           "attempted_at": "2026-11-06T11:29:55.022934+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28240998",
+          "target_video_id": "30664033",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:16:04.540427+00:00"
         }
       ],
       "last_plan": {
@@ -9892,12 +9904,6 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
-      },
-      "claim": {
-        "worker_id": "35b8c2be41c44bdcb2fa1a2f314d6458-shard-0",
-        "claimed_at": "2026-11-06T12:16:02.003939+00:00",
-        "lease_expires_at": "2026-11-06T18:16:02.003939+00:00",
-        "run_id": "42194637218"
       }
     },
     "601": {
@@ -74412,5 +74418,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:16:02.352338+00:00"
+  "updated_at": "2026-11-06T12:16:04.540448+00:00"
 }
