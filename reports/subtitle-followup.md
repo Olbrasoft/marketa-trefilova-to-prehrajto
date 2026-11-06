@@ -473,3 +473,4 @@ Attach subtitles only after target processing has finished.
 | 28 Years Later: The Bone Temple 4K CZ Titulky | 30869550 | https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv | Extract Czech track from exact source after processing |
 | Easy Rider 1080p CZ Titulky | 30869994 | https://sdilej.cz/27945336/bezstarostna-jizda-easy-rider-roadmovie-usa-1969-audio-en-cz-tit.cz-1080p-jackripper.mp4 | Extract Czech track from exact source after processing |
 | Hostiles 1080p CZ Titulky | 30870123 | https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv | Extract Czech track from exact source after processing |
+| The Doors 1080p CZ Titulky | 30870310 | https://sdilej.cz/6416335/the-doors-1991-.1080p.h264.ac3-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
