@@ -67544,17 +67544,19 @@
       "attempts": []
     },
     "17839": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34849578",
+          "target_video_id": "30856263",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:21:56.639541+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34849578",
         "display_name": "Things We Lost in the Fire 1080p CZ Dabing",
         "planned_at": "2026-11-06T10:14:28.966544+00:00"
-      },
-      "claim": {
-        "worker_id": "9960108ee87a404895ac658b6b6f896e-shard-0",
-        "claimed_at": "2026-11-06T10:14:29.127026+00:00",
-        "lease_expires_at": "2026-11-06T16:14:29.127026+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30856263",
       "prepared": {
@@ -67586,7 +67588,18 @@
       }
     },
     "1914": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24192673",
+        "display_name": "God's Crooked Lines (Los renglones torcidos de Dios) 1080p CZ Dabing",
+        "planned_at": "2026-11-06T10:21:55.651725+00:00"
+      },
+      "claim": {
+        "worker_id": "e807419af5d64989812654a853441384-shard-0",
+        "claimed_at": "2026-11-06T10:21:55.830012+00:00",
+        "lease_expires_at": "2026-11-06T16:21:55.830012+00:00",
+        "run_id": "42194637218"
+      }
     },
     "21379": {
       "attempts": []
@@ -115148,5 +115161,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:21:51.957883+00:00"
+  "updated_at": "2026-11-06T10:21:56.639558+00:00"
 }
