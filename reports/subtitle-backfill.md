@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T05:52:11.567694+00:00
+Poslední aktualizace (UTC): 2026-11-06T05:52:21.250041+00:00
 
 Zkontrolováno videí: 440. Další stránka kontroly: 0.
 
@@ -40,7 +40,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 54. Důvod
 | [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-31T00:02:18.695674+00:00 |
 | [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T04:31:39.968947+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T20:34:07.366437+00:00 |
-| [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T05:32:26.980497+00:00 |
+| [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:52:20.243481+00:00 |
 | [Seven (Se7en) 1080p CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T02:53:42.270546+00:00 |
 | [Singin' in the Rain SD](https://prehraj.to/singin-in-the-rain-sd-mp4/2de17edf2d52a7eb) (ID 30677056) | [Sdílej 15908236](https://sdilej.cz/15908236/zpivani-v-desti-czdab.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-01T06:44:08.722125+00:00 |
 | [Snatch 1080p CZ Titulky](https://prehraj.to/snatch-1080p-cz-titulky-mkv/7cd4bd12173bd35e) (ID 30677522) | [Sdílej 30945062](https://sdilej.cz/30945062/snatch-podfuck-2000-en-cz-dabing-1080p.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-01T04:31:28.035039+00:00 |
