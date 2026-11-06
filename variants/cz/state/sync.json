@@ -67599,17 +67599,19 @@
       }
     },
     "18989": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8886624",
+          "target_video_id": "30856316",
+          "permanent": false,
+          "attempted_at": "2026-11-06T11:06:03.443725+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8886624",
         "display_name": "Megan Leavey 1080p CZ Dabing",
         "planned_at": "2026-11-06T10:16:58.767790+00:00"
-      },
-      "claim": {
-        "worker_id": "ba4e8d36cc5f4720aa1d27c381446850-shard-0",
-        "claimed_at": "2026-11-06T10:16:58.936001+00:00",
-        "lease_expires_at": "2026-11-06T16:16:58.936001+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30856316",
       "prepared": {
@@ -115247,5 +115249,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:55:02.392803+00:00"
+  "updated_at": "2026-11-06T11:06:03.443743+00:00"
 }
