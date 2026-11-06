@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-06T11:33:22.162523+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-06T12:17:14.960731+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-06T12:57:20.235510+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-06T13:36:21.156981+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "fe747ff22f4544bdb96dbf2183d43aa7-shard-0",
-        "claimed_at": "2026-11-06T13:36:18.566222+00:00",
-        "lease_expires_at": "2026-11-06T19:36:18.566222+00:00",
-        "run_id": "42194637218"
       }
     },
     "54": {
@@ -1084,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-06T12:57:21.751573+00:00"
+        "planned_at": "2026-11-06T13:36:20.170501+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1092,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "1c8f7a8928244d149cb76bf23d828fec-shard-0",
+        "claimed_at": "2026-11-06T13:36:20.467293+00:00",
+        "lease_expires_at": "2026-11-06T19:36:20.467293+00:00",
+        "run_id": "42194637218"
       }
     },
     "52": {
@@ -68204,7 +68204,7 @@
       "last_plan": {
         "source_id": "29706570",
         "display_name": "The Year of Living Dangerously 1080p CZ Dabing",
-        "planned_at": "2026-11-06T13:36:18.408752+00:00"
+        "planned_at": "2026-11-06T13:36:20.299627+00:00"
       }
     },
     "22703": {
@@ -116502,5 +116502,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T13:36:18.719105+00:00"
+  "updated_at": "2026-11-06T13:36:21.156996+00:00"
 }
