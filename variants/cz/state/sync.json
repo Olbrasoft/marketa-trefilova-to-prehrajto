@@ -68747,17 +68747,19 @@
       "attempts": []
     },
     "11043": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29449217",
+          "target_video_id": "30863809",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:48:45.522175+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29449217",
         "display_name": "The Beguiled (1971) 1080p CZ Dabing",
         "planned_at": "2026-11-06T16:36:33.171646+00:00"
-      },
-      "claim": {
-        "worker_id": "43f6f63708974d0ea68caead19bedcb6-shard-0",
-        "claimed_at": "2026-11-06T16:36:33.697312+00:00",
-        "lease_expires_at": "2026-11-06T22:36:33.697312+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30863809",
       "prepared": {
@@ -117718,5 +117720,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:46:18.709267+00:00"
+  "updated_at": "2026-11-06T16:48:45.522191+00:00"
 }
