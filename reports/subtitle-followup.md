@@ -449,3 +449,4 @@ Attach subtitles only after target processing has finished.
 | 8 Mile 1080p CZ Titulky | 30854680 | https://sdilej.cz/27818942/8.mile.2002.1080p.bluray.h264.aac-leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
 | Insomnia 1080p CZ Titulky | 30854783 | https://sdilej.cz/27519363/insomnia.2002.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Grease 4K CZ Titulky | 30855592 | https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv | Extract Czech track from exact source after processing |
+| Dungeons & Dragons: Honor Among Thieves 4K CZ Titulky | 30856609 | https://sdilej.cz/26096481/dungeons.and.dragons.honor.among.thieves-2023-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
