@@ -469,3 +469,4 @@ Attach subtitles only after target processing has finished.
 | The Phantom of the Opera (2004) 720p CZ Titulky | 30864178 | https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv | Extract Czech track from exact source after processing |
 | Belfast 1080p CZ Titulky | 30864204 | https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Invention for Destruction (Vynález zkázy) 1080p CZ Titulky | 30866492 | https://sdilej.cz/34422006/vynalez-zkazy-1958-cz-cz-1080p-.mkv | Extract Czech track from exact source after processing |
+| The Unforgivable 1080p CZ Titulky | 30866709 | https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv | Extract Czech track from exact source after processing |
