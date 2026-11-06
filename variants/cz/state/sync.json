@@ -38544,13 +38544,6 @@
           "source_id": "34784954",
           "target_video_id": "30745770",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:09:22.853325+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34784954",
-          "target_video_id": "30745770",
-          "permanent": false,
           "attempted_at": "2026-11-06T10:54:11.933615+00:00"
         },
         {
@@ -38559,6 +38552,13 @@
           "target_video_id": "30745770",
           "permanent": false,
           "attempted_at": "2026-11-06T11:34:57.283574+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784954",
+          "target_video_id": "30745770",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:18:16.103396+00:00"
         }
       ],
       "last_plan": {
@@ -38572,12 +38572,6 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-03T00:24:04.738396+00:00",
         "relay_source_id": "34784954"
-      },
-      "claim": {
-        "worker_id": "d0e2855f33e24dcfa0e893d0c3c2a327-shard-0",
-        "claimed_at": "2026-11-06T12:18:13.845765+00:00",
-        "lease_expires_at": "2026-11-06T18:18:13.845765+00:00",
-        "run_id": "42194637218"
       }
     },
     "17605": {
@@ -42799,7 +42793,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrinth 4K CZ Dabing",
-        "planned_at": "2026-11-06T11:34:58.928423+00:00"
+        "planned_at": "2026-11-06T12:18:15.662800+00:00"
       },
       "previous_target_id": "30756113",
       "prepared": {
@@ -42807,6 +42801,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-03T08:20:54.807935+00:00",
         "relay_source_id": "34146117"
+      },
+      "claim": {
+        "worker_id": "46e404f6ec4a4c35a66ca8d89b98fde0-shard-0",
+        "claimed_at": "2026-11-06T12:18:15.998640+00:00",
+        "lease_expires_at": "2026-11-06T18:18:15.998640+00:00",
+        "run_id": "42194637218"
       }
     },
     "20525": {
@@ -67926,7 +67926,7 @@
       "last_plan": {
         "source_id": "30853905",
         "display_name": "Superman/Batman: Public Enemies 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:18:13.655198+00:00"
+        "planned_at": "2026-11-06T12:18:15.801544+00:00"
       }
     },
     "20105": {
@@ -115717,5 +115717,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:18:14.160149+00:00"
+  "updated_at": "2026-11-06T12:18:16.103425+00:00"
 }
