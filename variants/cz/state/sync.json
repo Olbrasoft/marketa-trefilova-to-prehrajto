@@ -68868,17 +68868,19 @@
       "attempts": []
     },
     "24780": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24024341",
+          "target_video_id": "30864119",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:51:30.258195+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24024341",
         "display_name": "He Loves Me... He Loves Me Not SD CZ Dabing",
         "planned_at": "2026-11-06T16:48:49.966584+00:00"
-      },
-      "claim": {
-        "worker_id": "c79930b5cccf4fc2a714b9846fb759bf-shard-0",
-        "claimed_at": "2026-11-06T16:48:50.287079+00:00",
-        "lease_expires_at": "2026-11-06T22:48:50.287079+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30864119",
       "prepared": {
@@ -117738,5 +117740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:48:53.570740+00:00"
+  "updated_at": "2026-11-06T16:51:30.258211+00:00"
 }
