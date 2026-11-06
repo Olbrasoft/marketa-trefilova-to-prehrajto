@@ -28867,13 +28867,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-06T08:34:38.041492+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-06T09:05:55.625157+00:00"
         },
         {
@@ -28882,6 +28875,13 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-06T09:37:45.967968+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:08:54.032912+00:00"
         }
       ],
       "last_plan": {
@@ -28895,12 +28895,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-02T07:58:12.679475+00:00",
         "relay_source_id": "28442451"
-      },
-      "claim": {
-        "worker_id": "186695e64bb24bd29b772602e492d595-shard-0",
-        "claimed_at": "2026-11-06T10:08:52.029577+00:00",
-        "lease_expires_at": "2026-11-06T16:08:52.029577+00:00",
-        "run_id": "42194637218"
       }
     },
     "22988": {
@@ -55603,7 +55597,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-06T09:37:45.822204+00:00"
+        "planned_at": "2026-11-06T10:08:53.607496+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -55611,6 +55605,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "d782e2e9edc444eebb4b59685cd03785-shard-0",
+        "claimed_at": "2026-11-06T10:08:53.919156+00:00",
+        "lease_expires_at": "2026-11-06T16:08:53.919156+00:00",
+        "run_id": "42194637218"
       }
     },
     "24818": {
@@ -67482,7 +67482,7 @@
       "last_plan": {
         "source_id": "11716047",
         "display_name": "The World According to Garp 1080p CZ Dabing",
-        "planned_at": "2026-11-06T10:08:51.841007+00:00"
+        "planned_at": "2026-11-06T10:08:53.745829+00:00"
       }
     },
     "19811": {
@@ -114792,5 +114792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:08:52.164035+00:00"
+  "updated_at": "2026-11-06T10:08:54.032932+00:00"
 }
