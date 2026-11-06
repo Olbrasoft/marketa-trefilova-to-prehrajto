@@ -23205,17 +23205,19 @@
       "attempts": []
     },
     "30773": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18493180",
+          "target_video_id": "30845304",
+          "permanent": false,
+          "attempted_at": "2026-11-06T04:24:26.152727+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18493180",
         "display_name": "Constantine City of Demons: The Movie (Constantine: City of Demons - The Movie) 1080p CZ Titulky",
         "planned_at": "2026-11-06T03:48:07.133406+00:00"
-      },
-      "claim": {
-        "worker_id": "12dc9332bb5242adb82cd8bb561e1254-shard-0",
-        "claimed_at": "2026-11-06T03:48:07.208167+00:00",
-        "lease_expires_at": "2026-11-06T09:48:07.208167+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30845304",
       "prepared": {
@@ -72208,5 +72210,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T04:20:00.783664+00:00"
+  "updated_at": "2026-11-06T04:24:26.152749+00:00"
 }
