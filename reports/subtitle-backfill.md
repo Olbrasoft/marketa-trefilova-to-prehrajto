@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T01:20:03.845207+00:00
+Poslední aktualizace (UTC): 2026-11-06T01:28:47.992385+00:00
 
 Zkontrolováno videí: 429. Další stránka kontroly: 0.
 
@@ -10,7 +10,7 @@ Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verif
 
 ## Poslední dávka
 
-Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 42. Důvod ukončení: `time_budget`.
+Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Důvod ukončení: `time_budget`.
 
 ## K ručnímu doplnění nebo ověření
 
