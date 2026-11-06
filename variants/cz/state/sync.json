@@ -68526,17 +68526,19 @@
       "attempts": []
     },
     "11059": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32494134",
+          "target_video_id": "30862199",
+          "permanent": false,
+          "attempted_at": "2026-11-06T15:42:33.893633+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32494134",
         "display_name": "The Panic in Needle Park 1080p CZ Dabing",
         "planned_at": "2026-11-06T15:26:10.904357+00:00"
-      },
-      "claim": {
-        "worker_id": "956a3af0bbef4d818c2aeade8e225d00-shard-0",
-        "claimed_at": "2026-11-06T15:26:11.209776+00:00",
-        "lease_expires_at": "2026-11-06T21:26:11.209776+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30862199",
       "prepared": {
@@ -117228,5 +117230,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T15:41:08.713090+00:00"
+  "updated_at": "2026-11-06T15:42:33.893655+00:00"
 }
