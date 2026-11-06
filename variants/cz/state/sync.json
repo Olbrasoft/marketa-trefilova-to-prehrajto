@@ -67478,17 +67478,19 @@
       "attempts": []
     },
     "22656": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11716047",
+          "target_video_id": "30856141",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:14:27.063819+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11716047",
         "display_name": "The World According to Garp 1080p CZ Dabing",
         "planned_at": "2026-11-06T10:09:06.303062+00:00"
-      },
-      "claim": {
-        "worker_id": "e72d6ea299a04c098d1a3b2c29f33710-shard-0",
-        "claimed_at": "2026-11-06T10:09:06.630965+00:00",
-        "lease_expires_at": "2026-11-06T16:09:06.630965+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30856141",
       "prepared": {
@@ -114818,5 +114820,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:10:04.348754+00:00"
+  "updated_at": "2026-11-06T10:14:27.063833+00:00"
 }
