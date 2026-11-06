@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T01:50:11.294960+00:00
+Poslední aktualizace (UTC): 2026-11-06T01:50:13.110132+00:00
 
 Zkontrolováno videí: 431. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 22, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -102,6 +102,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 40. Důvod
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T14:28:04.402565+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T14:28:59.524999+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-05T14:28:43.116354+00:00 |
+| [The Man from Laramie SD CZ Titulky](https://prehraj.to/the-man-from-laramie-sd-cz-titulky-mkv/583b5ba7b3707f16) (ID 30841326) | [Sdílej 33602979](https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv) | target_unavailable | 2026-11-06T01:50:13.110049+00:00 |
 | [The Nightingale 1080p CZ Titulky](https://prehraj.to/the-nightingale-1080p-cz-titulky-mkv/e301394916e6cb7e) (ID 30820099) | [Sdílej 14136207](https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv) | target_unavailable | 2026-11-05T14:37:24.087959+00:00 |
 | [The Painter and the Thief 1080p CZ Titulky](https://prehraj.to/the-painter-and-the-thief-1080p-cz-titulky-mkv/9659108081781583) (ID 30829417) | [Sdílej 20534344](https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv) | target_unavailable | 2026-11-05T19:50:33.176260+00:00 |
 | [The Sea Wolf 1080p CZ Titulky](https://prehraj.to/the-sea-wolf-1080p-cz-titulky-mkv/cd2a628f5eded499) (ID 30820306) | [Sdílej 34927035](https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T14:37:28.410834+00:00 |
