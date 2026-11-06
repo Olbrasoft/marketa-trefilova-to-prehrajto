@@ -66397,17 +66397,19 @@
       }
     },
     "1921": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22557019",
+          "target_video_id": "30840608",
+          "permanent": false,
+          "attempted_at": "2026-11-06T01:42:08.628638+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22557019",
         "display_name": "Red Rocket 1080p CZ Dabing",
         "planned_at": "2026-11-06T01:22:21.465462+00:00"
-      },
-      "claim": {
-        "worker_id": "44085d6b155b4c46a9fc67a9f2c2e688-shard-0",
-        "claimed_at": "2026-11-06T01:22:21.749700+00:00",
-        "lease_expires_at": "2026-11-06T07:22:21.749700+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30840608",
       "prepared": {
@@ -112413,5 +112415,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T01:22:25.472881+00:00"
+  "updated_at": "2026-11-06T01:42:08.628656+00:00"
 }
