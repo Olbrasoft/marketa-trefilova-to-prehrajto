@@ -66493,17 +66493,19 @@
       "attempts": []
     },
     "17936": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34697288",
+          "target_video_id": "30841663",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:21:28.026176+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34697288",
         "display_name": "Nothing but the Truth 1080p CZ Dabing",
         "planned_at": "2026-11-06T01:57:52.528654+00:00"
-      },
-      "claim": {
-        "worker_id": "4b8d0d8461cf44de93b4f8630f3f35d9-shard-0",
-        "claimed_at": "2026-11-06T01:57:52.808468+00:00",
-        "lease_expires_at": "2026-11-06T07:57:52.808468+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30841663",
       "prepared": {
@@ -112518,5 +112520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T02:11:06.853098+00:00"
+  "updated_at": "2026-11-06T02:21:28.026200+00:00"
 }
