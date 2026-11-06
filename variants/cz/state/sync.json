@@ -37028,13 +37028,6 @@
           "source_id": "12181949",
           "target_video_id": "30743906",
           "permanent": false,
-          "attempted_at": "2026-11-06T17:56:45.584614+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "30743906",
-          "permanent": false,
           "attempted_at": "2026-11-06T18:28:51.286572+00:00"
         },
         {
@@ -37043,12 +37036,19 @@
           "target_video_id": "30743906",
           "permanent": false,
           "attempted_at": "2026-11-06T19:06:28.820432+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "30743906",
+          "permanent": false,
+          "attempted_at": "2026-11-06T19:42:08.083391+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T19:06:26.266482+00:00"
+        "planned_at": "2026-11-06T19:42:05.801960+00:00"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -70038,14 +70038,25 @@
       "last_plan": {
         "source_id": "27766181",
         "display_name": "No Dogs or Italians Allowed (Interdit aux chiens et aux Italiens) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T19:42:00.268434+00:00"
+        "planned_at": "2026-11-06T19:42:06.052188+00:00"
+      },
+      "claim": {
+        "worker_id": "f4fe42704f564dc8a1fe294c1be14b46-shard-0",
+        "claimed_at": "2026-11-06T19:42:06.656822+00:00",
+        "lease_expires_at": "2026-11-07T01:42:06.656822+00:00",
+        "run_id": "42270484162"
       }
     },
     "36795": {
       "attempts": []
     },
     "1065": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32423642",
+        "display_name": "The Son of a Thousand Men (O Filho de Mil Homens) 1080p CZ Dabing",
+        "planned_at": "2026-11-06T19:42:06.195026+00:00"
+      }
     },
     "32480": {
       "attempts": []
@@ -118930,5 +118941,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T19:42:03.728139+00:00"
+  "updated_at": "2026-11-06T19:42:08.083410+00:00"
 }
