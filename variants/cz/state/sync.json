@@ -70705,17 +70705,19 @@
       "attempts": []
     },
     "21559": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34722976",
+          "target_video_id": "30870716",
+          "permanent": false,
+          "attempted_at": "2026-11-06T21:57:49.323726+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34722976",
         "display_name": "The Horse Soldiers SD CZ Dabing",
         "planned_at": "2026-11-06T21:56:20.801621+00:00"
-      },
-      "claim": {
-        "worker_id": "a667c802fe2845af81c7ec0b21965165-shard-0",
-        "claimed_at": "2026-11-06T21:56:22.538901+00:00",
-        "lease_expires_at": "2026-11-07T03:56:22.538901+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30870716",
       "prepared": {
@@ -119743,5 +119745,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T21:56:45.744673+00:00"
+  "updated_at": "2026-11-06T21:57:49.323741+00:00"
 }
