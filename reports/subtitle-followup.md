@@ -438,3 +438,4 @@ Attach subtitles only after target processing has finished.
 | Shogun Assassin 1080p CZ Titulky | 30843246 | https://sdilej.cz/20753070/shogun-assassin-1980-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Nouvelle Vague 4K CZ Titulky | 30843642 | https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv | Extract Czech track from exact source after processing |
 | The Beast (1988) 720p CZ Titulky | 30845001 | https://sdilej.cz/30819441/the-beast-of-war-1988-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Constantine City of Demons: The Movie (Constantine: City of Demons - The Movie) 1080p CZ Titulky | 30845304 | https://sdilej.cz/18493180/constantine-city-of-demons-the-movie-2018-cz-sub-1080p-bluray-dts-x264.mkv | Extract Czech track from exact source after processing |
