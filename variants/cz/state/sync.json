@@ -29505,13 +29505,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-06T10:07:40.619904+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-06T10:51:45.602872+00:00"
         },
         {
@@ -29520,6 +29513,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-06T11:32:29.785816+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:16:36.173430+00:00"
         }
       ],
       "last_plan": {
@@ -50185,7 +50185,7 @@
       "last_plan": {
         "source_id": "32030746",
         "display_name": "Mission: Impossible 4K CZ Dabing",
-        "planned_at": "2026-11-06T11:32:31.481802+00:00"
+        "planned_at": "2026-11-06T12:16:34.902351+00:00"
       },
       "previous_target_id": "30776194",
       "prepared": {
@@ -50193,6 +50193,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-04T00:49:34.429567+00:00",
         "relay_source_id": "32030746"
+      },
+      "claim": {
+        "worker_id": "5e86b8b91d9847838c2bff8656bac06b-shard-0",
+        "claimed_at": "2026-11-06T12:16:35.193876+00:00",
+        "lease_expires_at": "2026-11-06T18:16:35.193876+00:00",
+        "run_id": "42194637218"
       }
     },
     "1708": {
@@ -67888,6 +67894,12 @@
         "source_id": "32710855",
         "display_name": "The Fly (1958) 1080p CZ Dabing",
         "planned_at": "2026-11-06T12:16:31.518961+00:00"
+      },
+      "claim": {
+        "worker_id": "c32d26379fd444179fed080e4f1b62d6-shard-0",
+        "claimed_at": "2026-11-06T12:16:34.813640+00:00",
+        "lease_expires_at": "2026-11-06T18:16:34.813640+00:00",
+        "run_id": "42194637218"
       }
     },
     "22605": {
@@ -67907,7 +67919,7 @@
       "last_plan": {
         "source_id": "30853905",
         "display_name": "Superman/Batman: Public Enemies 1080p CZ Dabing",
-        "planned_at": "2026-11-06T12:16:31.588839+00:00"
+        "planned_at": "2026-11-06T12:16:35.030765+00:00"
       }
     },
     "20105": {
@@ -115698,5 +115710,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:16:31.588847+00:00"
+  "updated_at": "2026-11-06T12:16:36.173445+00:00"
 }
