@@ -66315,17 +66315,19 @@
       }
     },
     "892": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26107059",
+          "target_video_id": "30837423",
+          "permanent": false,
+          "attempted_at": "2026-11-06T01:04:09.070288+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26107059",
         "display_name": "Sea of Time (Zee van tijd) 1080p CZ Dabing",
         "planned_at": "2026-11-05T23:49:51.944381+00:00"
-      },
-      "claim": {
-        "worker_id": "71075ad347634d99a7daa4038a773b5a-shard-0",
-        "claimed_at": "2026-11-05T23:49:52.211462+00:00",
-        "lease_expires_at": "2026-11-06T05:49:52.211462+00:00",
-        "run_id": "42093150935"
       },
       "previous_target_id": "30837423",
       "prepared": {
@@ -111879,5 +111881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T00:32:03.329833+00:00"
+  "updated_at": "2026-11-06T01:04:09.070314+00:00"
 }
