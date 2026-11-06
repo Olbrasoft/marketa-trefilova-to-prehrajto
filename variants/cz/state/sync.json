@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "3a8cf1e115b64bc9aade5e0f6caecb0b-shard-0",
+        "claimed_at": "2026-11-06T21:56:16.117323+00:00",
+        "lease_expires_at": "2026-11-07T03:56:16.117323+00:00",
+        "run_id": "42270484162"
       }
     },
     "37290": {
@@ -69779,13 +69785,6 @@
           "source_id": "28552319",
           "target_video_id": "30866278",
           "permanent": false,
-          "attempted_at": "2026-11-06T20:19:36.730239+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28552319",
-          "target_video_id": "30866278",
-          "permanent": false,
           "attempted_at": "2026-11-06T20:55:28.003568+00:00"
         },
         {
@@ -69794,12 +69793,19 @@
           "target_video_id": "30866278",
           "permanent": false,
           "attempted_at": "2026-11-06T21:25:36.873682+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28552319",
+          "target_video_id": "30866278",
+          "permanent": false,
+          "attempted_at": "2026-11-06T21:56:18.808940+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28552319",
         "display_name": "Von Ryan's Express 1080p CZ Dabing",
-        "planned_at": "2026-11-06T21:25:34.334585+00:00"
+        "planned_at": "2026-11-06T21:56:16.591631+00:00"
       },
       "previous_target_id": "30866278",
       "prepared": {
@@ -70709,7 +70715,7 @@
       "last_plan": {
         "source_id": "34722976",
         "display_name": "The Horse Soldiers SD CZ Dabing",
-        "planned_at": "2026-11-06T21:56:12.851844+00:00"
+        "planned_at": "2026-11-06T21:56:16.853066+00:00"
       }
     },
     "13365": {
@@ -119694,5 +119700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T21:56:12.851862+00:00"
+  "updated_at": "2026-11-06T21:56:18.808959+00:00"
 }
