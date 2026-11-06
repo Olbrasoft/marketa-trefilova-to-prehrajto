@@ -456,3 +456,4 @@ Attach subtitles only after target processing has finished.
 | The Life Aquatic with Steve Zissou 1080p CZ Titulky | 30858164 | https://sdilej.cz/23537039/the-life-aquatic-with-steve-zissou-2004-1080p-bluray-dl-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
 | Triangle of Sadness SD CZ Titulky | 30858300 | https://sdilej.cz/24142175/trojuhelnik-smutku-triangle.of.sadness.2022.720p.amzn.web-dl.ddp5.1.h.264-smurf-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Shame (2011) 1080p CZ Titulky | 30859193 | https://sdilej.cz/30693798/shame-stud-2011-1080p-cztit.mkv | Extract Czech track from exact source after processing |
+| Chocolat (2000) 1080p CZ Titulky | 30859204 | https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv | Extract Czech track from exact source after processing |
