@@ -459,3 +459,4 @@ Attach subtitles only after target processing has finished.
 | Chocolat (2000) 1080p CZ Titulky | 30859204 | https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv | Extract Czech track from exact source after processing |
 | The Founder 1080p CZ Titulky | 30860047 | https://sdilej.cz/21019911/the-founder-2016-hevc-1080p-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Bridge to Terabithia 1080p CZ Titulky | 30860568 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
+| Steve Jobs 1080p CZ Titulky | 30860819 | https://sdilej.cz/5722967/steve.jobs.2015.1080p.bluray.h264.ac3-rarbg.cz.mkv | Extract Czech track from exact source after processing |
