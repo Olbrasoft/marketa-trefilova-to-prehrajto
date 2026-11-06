@@ -461,3 +461,4 @@ Attach subtitles only after target processing has finished.
 | Bridge to Terabithia 1080p CZ Titulky | 30860568 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
 | Steve Jobs 1080p CZ Titulky | 30860819 | https://sdilej.cz/5722967/steve.jobs.2015.1080p.bluray.h264.ac3-rarbg.cz.mkv | Extract Czech track from exact source after processing |
 | The Ballad of Buster Scruggs 1080p CZ Titulky | 30861500 | https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv | Extract Czech track from exact source after processing |
+| The Little Mermaid (2023) 1080p CZ Titulky | 30861626 | https://sdilej.cz/26570302/the.little.mermaid.web-dl.en-5.1.tituly.cz.sk..2023.1080p.mkv | Extract Czech track from exact source after processing |
