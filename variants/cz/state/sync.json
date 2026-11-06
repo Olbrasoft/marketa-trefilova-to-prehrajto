@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-06T12:17:38.172711+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-06T12:57:56.603496+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-06T13:36:51.750956+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-06T14:44:52.974590+00:00"
         }
       ],
       "last_plan": {
@@ -21556,7 +21556,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-06T13:36:53.222557+00:00"
+        "planned_at": "2026-11-06T14:44:51.685790+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21564,6 +21564,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "2510b65e908042b6bb53f7f6eff65de4-shard-0",
+        "claimed_at": "2026-11-06T14:44:52.291314+00:00",
+        "lease_expires_at": "2026-11-06T20:44:52.291314+00:00",
+        "run_id": "42233332129"
       }
     },
     "677": {
@@ -68307,7 +68313,7 @@
       "last_plan": {
         "source_id": "31470565",
         "display_name": "Pelé: Birth of a Legend 1080p CZ Dabing",
-        "planned_at": "2026-11-06T14:44:49.491609+00:00"
+        "planned_at": "2026-11-06T14:44:51.898402+00:00"
       }
     },
     "2112": {
@@ -116837,5 +116843,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T14:44:49.828298+00:00"
+  "updated_at": "2026-11-06T14:44:52.974606+00:00"
 }
