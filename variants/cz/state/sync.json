@@ -68014,17 +68014,19 @@
       "attempts": []
     },
     "37249": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29049632",
+          "target_video_id": "30858947",
+          "permanent": false,
+          "attempted_at": "2026-11-06T12:39:20.055084+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29049632",
         "display_name": "Frozen River 720p CZ Dabing",
         "planned_at": "2026-11-06T12:24:50.975225+00:00"
-      },
-      "claim": {
-        "worker_id": "6d0489d727bb438da55c1a96c38dfa8f-shard-0",
-        "claimed_at": "2026-11-06T12:24:51.166805+00:00",
-        "lease_expires_at": "2026-11-06T18:24:51.166805+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30858947",
       "prepared": {
@@ -116120,5 +116122,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T12:37:43.609583+00:00"
+  "updated_at": "2026-11-06T12:39:20.055104+00:00"
 }
