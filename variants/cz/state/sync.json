@@ -71123,17 +71123,19 @@
       "attempts": []
     },
     "1759": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13210587",
+          "target_video_id": "30871273",
+          "permanent": false,
+          "attempted_at": "2026-11-06T22:21:45.495496+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13210587",
         "display_name": "The Teacher (Učiteľka) (2016) 720p CZ Dabing",
         "planned_at": "2026-11-06T22:18:47.321611+00:00"
-      },
-      "claim": {
-        "worker_id": "5fb12c1639c44e54a67c88b536a733b6-shard-0",
-        "claimed_at": "2026-11-06T22:18:47.685499+00:00",
-        "lease_expires_at": "2026-11-07T04:18:47.685499+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30871273",
       "prepared": {
@@ -120089,5 +120091,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:18:52.192134+00:00"
+  "updated_at": "2026-11-06T22:21:45.495512+00:00"
 }
