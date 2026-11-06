@@ -465,3 +465,4 @@ Attach subtitles only after target processing has finished.
 | Predator: Badlands 4K CZ Titulky | 30862557 | https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | They Live 1080p CZ Titulky | 30862600 | https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv | Extract Czech track from exact source after processing |
 | Mr. Brooks 1080p CZ Titulky | 30863259 | https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv | Extract Czech track from exact source after processing |
+| Where the Crawdads Sing 720p CZ Titulky | 30863680 | https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv | Extract Czech track from exact source after processing |
