@@ -70615,17 +70615,19 @@
       }
     },
     "30472": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35180353",
+          "target_video_id": "30870537",
+          "permanent": false,
+          "attempted_at": "2026-11-06T21:48:41.389906+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35180353",
         "display_name": "Stick Man 720p CZ Dabing",
         "planned_at": "2026-11-06T21:47:47.540777+00:00"
-      },
-      "claim": {
-        "worker_id": "cf171db2fd3a414b8d09d51e9e9e8ae3-shard-0",
-        "claimed_at": "2026-11-06T21:47:47.912152+00:00",
-        "lease_expires_at": "2026-11-07T03:47:47.912152+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30870537",
       "prepared": {
@@ -119632,5 +119634,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T21:47:52.095191+00:00"
+  "updated_at": "2026-11-06T21:48:41.389922+00:00"
 }
