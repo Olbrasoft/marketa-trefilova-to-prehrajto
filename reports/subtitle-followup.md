@@ -470,3 +470,4 @@ Attach subtitles only after target processing has finished.
 | Belfast 1080p CZ Titulky | 30864204 | https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Invention for Destruction (Vynález zkázy) 1080p CZ Titulky | 30866492 | https://sdilej.cz/34422006/vynalez-zkazy-1958-cz-cz-1080p-.mkv | Extract Czech track from exact source after processing |
 | The Unforgivable 1080p CZ Titulky | 30866709 | https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| 28 Years Later: The Bone Temple 4K CZ Titulky | 30869550 | https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv | Extract Czech track from exact source after processing |
