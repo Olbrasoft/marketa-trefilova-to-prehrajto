@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T13:17:35.349609+00:00
+Poslední aktualizace (UTC): 2026-11-06T13:17:38.181006+00:00
 
 Zkontrolováno videí: 456. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 65, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -16,7 +16,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 71. Důvod
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-10-30T13:13:06.976579+00:00 |
 | [A Clockwork Orange 4K CZ Titulky](https://prehraj.to/a-clockwork-orange-cz-titulky-mkv/4aea1f812e06a3cb) (ID 30608273) | [Sdílej 21028004](https://sdilej.cz/21028004/mechanicky-pomeranc-1971-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T11:55:04.019113+00:00 |
 | [Amélie (Le Fabuleux Destin d'Amélie Poulain) SD](https://prehraj.to/amelie-le-fabuleux-destin-d-amelie-poulain-mkv/93ae4a0a11e0d602) (ID 30608820) | [Sdílej 33203988](https://sdilej.cz/33203988/amelie-amelie-poulain-.2001.brrip.x264.aac-5.1-vlis.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T22:13:34.022856+00:00 |
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-10-30T19:52:42.154078+00:00 |
@@ -65,6 +64,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 71. Důvod
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
+| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-06T13:17:37.458131+00:00 |
 | [12th Man (Den 12. mann) (2017) 1080p CZ Titulky](https://prehraj.to/12th-man-den-12-mann-2017-1080p-cz-titulky-mkv/5b2aae658a620cc9) (ID 30822494) | [Sdílej 9302798](https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-05T15:58:26.570274+00:00 |
 | [24 Hour Party People 720p CZ Titulky](https://prehraj.to/24-hour-party-people-720p-cz-titulky-mkv/cfb92bc904244c1b) (ID 30821368) | [Sdílej 32713510](https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv) | target_unavailable | 2026-11-05T15:17:57.796135+00:00 |
 | [8 Mile 1080p CZ Titulky](https://prehraj.to/8-mile-1080p-cz-titulky-mkv/7054c00380df1062) (ID 30854680) | [Sdílej 27818942](https://sdilej.cz/27818942/8.mile.2002.1080p.bluray.h264.aac-leon.-en-subs-cz-.mkv) | target_unavailable | 2026-11-06T08:53:49.284838+00:00 |
