@@ -66574,17 +66574,19 @@
       }
     },
     "1989": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11275810",
+          "target_video_id": "30841992",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:56:55.324646+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11275810",
         "display_name": "The Glass Castle 1080p CZ Dabing",
         "planned_at": "2026-11-06T02:11:02.989132+00:00"
-      },
-      "claim": {
-        "worker_id": "7ef2355ff978489192cb840ce51e318d-shard-0",
-        "claimed_at": "2026-11-06T02:11:03.279056+00:00",
-        "lease_expires_at": "2026-11-06T08:11:03.279056+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30841992",
       "prepared": {
@@ -112610,5 +112612,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T02:47:31.010322+00:00"
+  "updated_at": "2026-11-06T02:56:55.324665+00:00"
 }
