@@ -436,3 +436,4 @@ Attach subtitles only after target processing has finished.
 | Spare Parts 720p CZ Titulky | 30841932 | https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Agnus Dei (Les innocentes) SD CZ Titulky | 30842899 | https://sdilej.cz/6500108/nevinne-les-innocentes-agnus-dei-2016-titulky.cz.mkv | Extract Czech track from exact source after processing |
 | Shogun Assassin 1080p CZ Titulky | 30843246 | https://sdilej.cz/20753070/shogun-assassin-1980-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
+| Nouvelle Vague 4K CZ Titulky | 30843642 | https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv | Extract Czech track from exact source after processing |
