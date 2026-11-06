@@ -66438,17 +66438,19 @@
       "attempts": []
     },
     "11729": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29859187",
+          "target_video_id": "30841409",
+          "permanent": false,
+          "attempted_at": "2026-11-06T02:06:39.927941+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29859187",
         "display_name": "The Accused 1080p CZ Dabing",
         "planned_at": "2026-11-06T01:48:16.449396+00:00"
-      },
-      "claim": {
-        "worker_id": "6ac57c4e87b048d1ae0c1df1f71d294f-shard-0",
-        "claimed_at": "2026-11-06T01:48:16.724720+00:00",
-        "lease_expires_at": "2026-11-06T07:48:16.724720+00:00",
-        "run_id": "42138507864"
       },
       "previous_target_id": "30841409",
       "prepared": {
@@ -112476,5 +112478,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T01:57:56.237020+00:00"
+  "updated_at": "2026-11-06T02:06:39.927960+00:00"
 }
