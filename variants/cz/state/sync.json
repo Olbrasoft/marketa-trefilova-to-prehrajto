@@ -70829,17 +70829,19 @@
       "attempts": []
     },
     "1922": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18491875",
+          "target_video_id": "30870889",
+          "permanent": false,
+          "attempted_at": "2026-11-06T22:11:28.377924+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18491875",
         "display_name": "Heist of the Century (El robo del siglo) 1080p CZ Dabing",
         "planned_at": "2026-11-06T22:03:09.449528+00:00"
-      },
-      "claim": {
-        "worker_id": "5be71dfa6ce043fc81e98ed321f82025-shard-0",
-        "claimed_at": "2026-11-06T22:03:09.846404+00:00",
-        "lease_expires_at": "2026-11-07T04:03:09.846404+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30870889",
       "prepared": {
@@ -70932,7 +70934,18 @@
       }
     },
     "1868": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30114595",
+        "display_name": "Joy (2024) 1080p CZ Dabing",
+        "planned_at": "2026-11-06T22:11:26.012033+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3c06e4d8a44fd99222966edd79aa90-shard-0",
+        "claimed_at": "2026-11-06T22:11:26.333544+00:00",
+        "lease_expires_at": "2026-11-07T04:11:26.333544+00:00",
+        "run_id": "42270484162"
+      }
     },
     "2109": {
       "attempts": []
@@ -119865,5 +119878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:11:24.266225+00:00"
+  "updated_at": "2026-11-06T22:11:28.377944+00:00"
 }
