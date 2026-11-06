@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T12:37:14.064071+00:00
+Poslední aktualizace (UTC): 2026-11-06T12:37:15.928170+00:00
 
 Zkontrolováno videí: 455. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 63, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 15, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 64, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -111,6 +111,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 67. Důvod
 | [RocknRolla 1080p CZ Titulky](https://prehraj.to/rocknrolla-1080p-cz-titulky-mkv/d31b2b89c8c24829) (ID 30856994) | [Sdílej 34921369](https://sdilej.cz/34921369/rocknrolla-2008-.mkv) | target_unavailable | 2026-11-06T10:56:17.090535+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-05T14:28:24.208919+00:00 |
 | [School of Rock 1080p CZ Titulky](https://prehraj.to/school-of-rock-1080p-cz-titulky-mkv/a483d7d6569241ac) (ID 30854567) | [Sdílej 29918220](https://sdilej.cz/29918220/skola-ro-c-ku-skola-rocku-the-school-of-rock-2003-1080p-x265-cz-en-multisub-.mkv) | target_unavailable | 2026-11-06T08:43:47.346392+00:00 |
+| [Shame (2011) 1080p CZ Titulky](https://prehraj.to/shame-2011-1080p-cz-titulky-mkv/8bc62e9b3111b801) (ID 30859193) | [Sdílej 30693798](https://sdilej.cz/30693798/shame-stud-2011-1080p-cztit.mkv) | target_unavailable | 2026-11-06T12:37:15.928103+00:00 |
 | [Shogun Assassin 1080p CZ Titulky](https://prehraj.to/shogun-assassin-1080p-cz-titulky-mkv/c45b414fb1271fe4) (ID 30843246) | [Sdílej 20753070](https://sdilej.cz/20753070/shogun-assassin-1980-1080p-cz-titl.mkv) | target_unavailable | 2026-11-06T02:50:39.692014+00:00 |
 | [Song Sung Blue 1080p CZ Titulky](https://prehraj.to/song-sung-blue-1080p-cz-titulky-mp4/de9cdbac12fd3d10) (ID 30824468) | [Sdílej 33348083](https://sdilej.cz/33348083/song-sung-blue-2025-cz-titulky.mp4) | target_unavailable | 2026-11-05T17:08:55.543107+00:00 |
 | [Spare Parts 720p CZ Titulky](https://prehraj.to/spare-parts-720p-cz-titulky-mkv/9247fc3462249d3f) (ID 30841932) | [Sdílej 14942933](https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-06T02:10:20.872781+00:00 |
