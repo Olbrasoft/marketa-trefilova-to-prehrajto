@@ -17311,7 +17311,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-06T21:53:30.252116+00:00"
+        "planned_at": "2026-11-06T22:24:43.653018+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17319,6 +17319,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "7465097a42564b24b0789ddca59e1694-shard-0",
+        "claimed_at": "2026-11-06T22:24:44.398892+00:00",
+        "lease_expires_at": "2026-11-07T04:24:44.398892+00:00",
+        "run_id": "42270484162"
       }
     },
     "23132": {
@@ -70435,6 +70441,13 @@
           "target_video_id": "30868366",
           "permanent": false,
           "attempted_at": "2026-11-06T21:53:28.917668+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11862548",
+          "target_video_id": "30868366",
+          "permanent": false,
+          "attempted_at": "2026-11-06T22:24:44.267029+00:00"
         }
       ],
       "last_plan": {
@@ -70448,12 +70461,6 @@
         "size_bytes": 20400000000,
         "prepared_at": "2026-11-06T20:09:10.918038+00:00",
         "relay_source_id": "11862548"
-      },
-      "claim": {
-        "worker_id": "003da0a3ab894041a0540abad7f09f66-shard-0",
-        "claimed_at": "2026-11-06T22:24:42.053538+00:00",
-        "lease_expires_at": "2026-11-07T04:24:42.053538+00:00",
-        "run_id": "42270484162"
       }
     },
     "25986": {
@@ -71200,7 +71207,7 @@
       "last_plan": {
         "source_id": "34847024",
         "display_name": "The Power of One 1080p CZ Dabing",
-        "planned_at": "2026-11-06T22:24:41.544338+00:00"
+        "planned_at": "2026-11-06T22:24:43.881391+00:00"
       }
     },
     "11004": {
@@ -120137,5 +120144,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:24:42.053566+00:00"
+  "updated_at": "2026-11-06T22:24:44.398918+00:00"
 }
