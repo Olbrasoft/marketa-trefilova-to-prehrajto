@@ -443,3 +443,4 @@ Attach subtitles only after target processing has finished.
 | Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky | 30846831 | https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv | Extract Czech track from exact source after processing |
 | The Whiskey Bandit (A Viszkis) SD CZ Titulky | 30849859 | https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Ant-Man 4K CZ Titulky | 30849922 | https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv | Extract Czech track from exact source after processing |
+| Pirates of the Caribbean: At World's End 4K CZ Titulky | 30850430 | https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv | Extract Czech track from exact source after processing |
