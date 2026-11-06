@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-06T01:45:56.140629+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-06T02:25:46.841660+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-06T02:59:30.017290+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-06T03:36:51.365164+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-06T02:59:31.737654+00:00"
+        "planned_at": "2026-11-06T03:36:49.607636+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "57de35c4494642eb8ff919be4465c7c5-shard-0",
+        "claimed_at": "2026-11-06T03:36:50.255004+00:00",
+        "lease_expires_at": "2026-11-06T09:36:50.255004+00:00",
+        "run_id": "42138507864"
       }
     },
     "52": {
@@ -66763,7 +66769,7 @@
       "last_plan": {
         "source_id": "10592583",
         "display_name": "In the Fade (Aus dem Nichts) 720p CZ Dabing",
-        "planned_at": "2026-11-06T03:36:46.618513+00:00"
+        "planned_at": "2026-11-06T03:36:49.811255+00:00"
       }
     },
     "1910": {
@@ -112801,5 +112807,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T03:36:46.917208+00:00"
+  "updated_at": "2026-11-06T03:36:51.365187+00:00"
 }
