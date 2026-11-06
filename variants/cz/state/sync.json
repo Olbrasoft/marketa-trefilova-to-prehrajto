@@ -68633,17 +68633,19 @@
       }
     },
     "16025": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694457",
+          "target_video_id": "30863326",
+          "permanent": false,
+          "attempted_at": "2026-11-06T16:25:40.173393+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694457",
         "display_name": "His Three Daughters 1080p CZ Dabing",
         "planned_at": "2026-11-06T16:15:15.409379+00:00"
-      },
-      "claim": {
-        "worker_id": "d1ec3d98a87c4ad9aad03150cea0b4ff-shard-0",
-        "claimed_at": "2026-11-06T16:15:15.712650+00:00",
-        "lease_expires_at": "2026-11-06T22:15:15.712650+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30863326",
       "prepared": {
@@ -117587,5 +117589,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T16:24:52.599237+00:00"
+  "updated_at": "2026-11-06T16:25:40.173430+00:00"
 }
