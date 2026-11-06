@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-06T14:51:30.488258+00:00
+Poslední aktualizace (UTC): 2026-11-06T14:51:32.417157+00:00
 
 Zkontrolováno videí: 461. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 70, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 20, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 71, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -128,6 +128,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 74. Důvod
 | [The Founder 1080p CZ Titulky](https://prehraj.to/the-founder-1080p-cz-titulky-mkv/2ccea24720758639) (ID 30860047) | [Sdílej 21019911](https://sdilej.cz/21019911/the-founder-2016-hevc-1080p-cz-dabing.mkv) | target_unavailable | 2026-11-06T13:27:42.037103+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T14:28:59.524999+00:00 |
 | [The Life Aquatic with Steve Zissou 1080p CZ Titulky](https://prehraj.to/the-life-aquatic-with-steve-zissou-1080p-cz-titulky-mkv/aa7d640149f0bf2d) (ID 30858164) | [Sdílej 23537039](https://sdilej.cz/23537039/the-life-aquatic-with-steve-zissou-2004-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-06T11:56:54.895196+00:00 |
+| [The Little Mermaid (2023) 1080p CZ Titulky](https://prehraj.to/the-little-mermaid-2023-1080p-cz-titulky-mkv/6bf95bd41190297b) (ID 30861626) | [Sdílej 26570302](https://sdilej.cz/26570302/the.little.mermaid.web-dl.en-5.1.tituly.cz.sk..2023.1080p.mkv) | target_unavailable | 2026-11-06T14:51:32.360448+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-05T14:28:43.116354+00:00 |
 | [The Man from Laramie SD CZ Titulky](https://prehraj.to/the-man-from-laramie-sd-cz-titulky-mkv/583b5ba7b3707f16) (ID 30841326) | [Sdílej 33602979](https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv) | target_unavailable | 2026-11-06T01:50:13.110049+00:00 |
 | [The Nightingale 1080p CZ Titulky](https://prehraj.to/the-nightingale-1080p-cz-titulky-mkv/e301394916e6cb7e) (ID 30820099) | [Sdílej 14136207](https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv) | target_unavailable | 2026-11-05T14:37:24.087959+00:00 |
