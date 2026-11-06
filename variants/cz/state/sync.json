@@ -13932,13 +13932,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-06T07:37:11.495766+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-06T08:33:37.930728+00:00"
         },
         {
@@ -13947,6 +13940,13 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-06T09:05:09.881346+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-06T09:36:58.192573+00:00"
         }
       ],
       "last_plan": {
@@ -14565,7 +14565,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-06T09:05:11.354283+00:00"
+        "planned_at": "2026-11-06T09:36:57.120579+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14573,6 +14573,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "3a94655db6eb4346ae199595f3fa630b-shard-0",
+        "claimed_at": "2026-11-06T09:36:57.576405+00:00",
+        "lease_expires_at": "2026-11-06T15:36:57.576405+00:00",
+        "run_id": "42168012793"
       }
     },
     "22177": {
@@ -67358,7 +67364,7 @@
       "last_plan": {
         "source_id": "25227421",
         "display_name": "Micmacs SD CZ Dabing",
-        "planned_at": "2026-11-06T09:36:51.275437+00:00"
+        "planned_at": "2026-11-06T09:36:57.294447+00:00"
       }
     },
     "2062": {
@@ -114678,5 +114684,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T09:36:51.275453+00:00"
+  "updated_at": "2026-11-06T09:36:58.192590+00:00"
 }
