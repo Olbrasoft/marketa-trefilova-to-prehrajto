@@ -69574,17 +69574,19 @@
       }
     },
     "15462": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33852835",
+          "target_video_id": "30866177",
+          "permanent": false,
+          "attempted_at": "2026-11-06T18:39:54.719776+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33852835",
         "display_name": "Lore 1080p CZ Dabing",
         "planned_at": "2026-11-06T18:25:02.603597+00:00"
-      },
-      "claim": {
-        "worker_id": "42d37a96585a4d0eada7900288846839-shard-0",
-        "claimed_at": "2026-11-06T18:25:02.954241+00:00",
-        "lease_expires_at": "2026-11-07T00:25:02.954241+00:00",
-        "run_id": "42233332129"
       },
       "previous_target_id": "30866177",
       "prepared": {
@@ -118359,5 +118361,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:30:02.716548+00:00"
+  "updated_at": "2026-11-06T18:39:54.719797+00:00"
 }
