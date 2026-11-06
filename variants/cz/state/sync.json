@@ -70800,17 +70800,19 @@
       }
     },
     "1597": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28426442",
+          "target_video_id": "30870789",
+          "permanent": false,
+          "attempted_at": "2026-11-06T22:07:47.066490+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28426442",
         "display_name": "Zillion 720p CZ Dabing",
         "planned_at": "2026-11-06T21:59:55.108437+00:00"
-      },
-      "claim": {
-        "worker_id": "c1abcc7f8e6a4321bcb889af96ec1423-shard-0",
-        "claimed_at": "2026-11-06T21:59:55.433825+00:00",
-        "lease_expires_at": "2026-11-07T03:59:55.433825+00:00",
-        "run_id": "42270484162"
       },
       "previous_target_id": "30870789",
       "prepared": {
@@ -119823,5 +119825,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T22:03:16.626320+00:00"
+  "updated_at": "2026-11-06T22:07:47.066506+00:00"
 }
