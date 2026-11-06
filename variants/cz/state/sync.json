@@ -67615,17 +67615,19 @@
       "attempts": []
     },
     "11541": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17600209",
+          "target_video_id": "30856406",
+          "permanent": false,
+          "attempted_at": "2026-11-06T10:28:47.139486+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17600209",
         "display_name": "My New Partner (Les Ripoux) 1080p CZ Dabing",
         "planned_at": "2026-11-06T10:22:00.096436+00:00"
-      },
-      "claim": {
-        "worker_id": "ee0fc39d07664cbfa1faee4e309cdfad-shard-0",
-        "claimed_at": "2026-11-06T10:22:00.268822+00:00",
-        "lease_expires_at": "2026-11-06T16:22:00.268822+00:00",
-        "run_id": "42194637218"
       },
       "previous_target_id": "30856406",
       "prepared": {
@@ -115186,5 +115188,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:22:04.836759+00:00"
+  "updated_at": "2026-11-06T10:28:47.139500+00:00"
 }
