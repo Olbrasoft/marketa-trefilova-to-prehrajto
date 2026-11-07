@@ -76112,17 +76112,19 @@
       }
     },
     "2186": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30985765",
+          "target_video_id": "30891973",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:01:56.705544+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30985765",
         "display_name": "Barbarian 1080p CZ Dabing",
         "planned_at": "2026-11-07T13:57:02.196164+00:00"
-      },
-      "claim": {
-        "worker_id": "3f3c24c106524ac398ac48e079c755bb-shard-0",
-        "claimed_at": "2026-11-07T13:57:02.535358+00:00",
-        "lease_expires_at": "2026-11-07T19:57:02.535358+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30891973",
       "prepared": {
@@ -126746,5 +126748,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:59:19.091801+00:00"
+  "updated_at": "2026-11-07T14:01:56.705560+00:00"
 }
