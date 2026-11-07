@@ -482,7 +482,7 @@ Attach subtitles only after target processing has finished.
 | Friday Night Lights 1080p CZ Titulky | 30876987 | https://sdilej.cz/34821361/friday.night.lights.2004.open.matte.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | The Bloody Hundredth 1080p CZ Titulky | 30877896 | https://sdilej.cz/28370606/the-bloody-hundredth-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | Wristcutters: A Love Story 1080p CZ Titulky | 30878216 | https://sdilej.cz/30865387/sebevrazi-love-story-z-onoho-sveta-wristcutters-a-love-story-2007--tt0477139--en-cs-.webdl-1080p.h265-ac3-5.1.mkv | Complete: Czech subtitles verified |
-| Fyre 1080p CZ Titulky | 30878931 | https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4 | Extract Czech track from exact source after processing |
+| Fyre 1080p CZ Titulky | 30878931 | https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4 | Complete: Czech subtitles verified |
 | Sleep Tight (Mientras duermes) 720p CZ Titulky | 30880851 | https://sdilej.cz/22887994/zatimco-spis-2011-thriller-horor-drama-cz-tit.-hd-720p-.mkv | Complete: Czech subtitles verified |
 | The Siege of Jadotville 720p CZ Titulky | 30880856 | https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Good Luck to You, Leo Grande 1080p CZ Titulky | 30882377 | https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv | Complete: Czech subtitles verified |
