@@ -77434,17 +77434,19 @@
       }
     },
     "2296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22004091",
+          "target_video_id": "30894296",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:33:43.942527+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22004091",
         "display_name": "The Foreigner (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:21:56.303794+00:00"
-      },
-      "claim": {
-        "worker_id": "1f91e41a0bb94389852ff946b4909fc8-shard-0",
-        "claimed_at": "2026-11-07T16:21:56.633991+00:00",
-        "lease_expires_at": "2026-11-07T22:21:56.633991+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894296",
       "prepared": {
@@ -128473,5 +128475,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:22:48.576109+00:00"
+  "updated_at": "2026-11-07T16:33:43.942543+00:00"
 }
