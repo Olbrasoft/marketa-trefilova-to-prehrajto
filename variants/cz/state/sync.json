@@ -77557,17 +77557,19 @@
       "attempts": []
     },
     "2226": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24729763",
+          "reason": "Request failed for https://sdilej.cz/24729763/kokosy-na-snehu-1993.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:38:25.506902+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24729763",
         "display_name": "Cool Runnings 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:37:38.835122+00:00"
-      },
-      "claim": {
-        "worker_id": "7a6f9d5c197d4a5ca089d91b90de5d03-shard-0",
-        "claimed_at": "2026-11-07T16:37:39.174375+00:00",
-        "lease_expires_at": "2026-11-07T22:37:39.174375+00:00",
-        "run_id": "42376609077"
       }
     },
     "2465": {
@@ -128556,5 +128558,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:37:41.386741+00:00"
+  "updated_at": "2026-11-07T16:38:25.506960+00:00"
 }
