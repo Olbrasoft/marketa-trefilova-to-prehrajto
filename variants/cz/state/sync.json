@@ -42853,13 +42853,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-07T12:11:26.282477+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-07T12:44:17.231458+00:00"
         },
         {
@@ -42868,6 +42861,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-07T13:19:18.766864+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-07T13:49:33.955345+00:00"
         }
       ],
       "last_plan": {
@@ -45771,7 +45771,7 @@
       "last_plan": {
         "source_id": "27568018",
         "display_name": "North Country SD CZ Dabing",
-        "planned_at": "2026-11-07T13:19:20.449220+00:00"
+        "planned_at": "2026-11-07T13:49:32.668213+00:00"
       },
       "previous_target_id": "30768107",
       "prepared": {
@@ -45779,6 +45779,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-03T16:40:17.731197+00:00",
         "relay_source_id": "27568018"
+      },
+      "claim": {
+        "worker_id": "276f85e687a34f89838325b196a30ffc-shard-0",
+        "claimed_at": "2026-11-07T13:49:33.305873+00:00",
+        "lease_expires_at": "2026-11-07T19:49:33.305873+00:00",
+        "run_id": "42376609077"
       }
     },
     "23428": {
@@ -76081,7 +76087,7 @@
       "last_plan": {
         "source_id": "30992194",
         "display_name": "Saltburn 1080p CZ Dabing",
-        "planned_at": "2026-11-07T13:49:30.665598+00:00"
+        "planned_at": "2026-11-07T13:49:32.909819+00:00"
       }
     },
     "2186": {
@@ -126675,5 +126681,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:49:30.665615+00:00"
+  "updated_at": "2026-11-07T13:49:33.955360+00:00"
 }
