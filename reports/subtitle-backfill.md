@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T13:57:20.864263+00:00
+Poslední aktualizace (UTC): 2026-11-07T13:57:29.267695+00:00
 
 Zkontrolováno videí: 497. Další stránka kontroly: 0.
 
@@ -79,7 +79,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [Ant-Man 4K CZ Titulky](https://prehraj.to/ant-man-4k-cz-titulky-mkv/6b0b227a8e3ac14a) (ID 30849922) | [Sdílej 27438034](https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv) | target_unavailable | 2026-11-06T06:02:20.616561+00:00 |
 | [Arrhythmia SD CZ Titulky](https://prehraj.to/arrhythmia-sd-cz-titulky-avi/6189d9dd009e9d9f) (ID 30835868) | [Sdílej 11209595](https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi) | target_unavailable | 2026-11-05T23:14:29.008039+00:00 |
 | [Belfast 1080p CZ Titulky](https://prehraj.to/belfast-1080p-cz-titulky-mkv/39c7c3f762cf0443) (ID 30864204) | [Sdílej 17022615](https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv) | target_unavailable | 2026-11-06T17:02:43.851792+00:00 |
-| [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-05T14:28:16.195484+00:00 |
+| [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-07T13:57:29.267643+00:00 |
 | [Blue Jay SD CZ Titulky](https://prehraj.to/blue-jay-sd-cz-titulky-mkv/c325ce17e7b8ede1) (ID 30889481) | [Sdílej 6727450](https://sdilej.cz/6727450/blue-jay-2016-titulky.cz.mkv) | target_unavailable | 2026-11-07T11:44:21.839625+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T14:28:39.314558+00:00 |
 | [Bridge to Terabithia 1080p CZ Titulky](https://prehraj.to/bridge-to-terabithia-1080p-cz-titulky-mkv/e9c530162461b1ec) (ID 30860568) | [Sdílej 30611137](https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv) | target_unavailable | 2026-11-06T13:57:53.971587+00:00 |
