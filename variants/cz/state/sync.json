@@ -79245,17 +79245,19 @@
       }
     },
     "32495": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30833186",
+          "target_video_id": "30898274",
+          "permanent": false,
+          "attempted_at": "2026-11-07T20:43:48.511515+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30833186",
         "display_name": "Bull Durham SD CZ Dabing",
         "planned_at": "2026-11-07T20:38:54.730597+00:00"
-      },
-      "claim": {
-        "worker_id": "bb49a4c8fbce4a07978758d566041037-shard-0",
-        "claimed_at": "2026-11-07T20:38:55.047191+00:00",
-        "lease_expires_at": "2026-11-08T02:38:55.047191+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898274",
       "prepared": {
@@ -131006,5 +131008,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T20:40:41.536269+00:00"
+  "updated_at": "2026-11-07T20:43:48.511537+00:00"
 }
