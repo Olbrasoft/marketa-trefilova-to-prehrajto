@@ -74548,17 +74548,19 @@
       "attempts": []
     },
     "22295": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32569969",
+          "target_video_id": "30886127",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:53:04.736751+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32569969",
         "display_name": "Febbre da cavallo (Horse Fever) 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:47:11.728238+00:00"
-      },
-      "claim": {
-        "worker_id": "165f62c039f64f88b4adb01e047b1360-shard-0",
-        "claimed_at": "2026-11-07T08:47:12.338178+00:00",
-        "lease_expires_at": "2026-11-07T14:47:12.338178+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30886127",
       "prepared": {
@@ -124372,5 +124374,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:47:20.598495+00:00"
+  "updated_at": "2026-11-07T08:53:04.736766+00:00"
 }
