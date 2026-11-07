@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:07:35.276771+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:07:38.758533+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 343, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 94, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 344, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 93, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -107,7 +107,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 91. Důvo
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-07T13:58:33.864946+00:00 |
 | [La grazia 1080p CZ Titulky](https://prehraj.to/la-grazia-1080p-cz-titulky-mkv/46c511e60632f1c9) (ID 30846589) | [Sdílej 34150864](https://sdilej.cz/34150864/la-grazia-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-11-06T04:21:26.810862+00:00 |
 | [Lawless 720p CZ Titulky](https://prehraj.to/lawless-720p-cz-titulky-mkv/273c22a8d0c1051c) (ID 30857839) | [Sdílej 8554596](https://sdilej.cz/8554596/zeme-bez-zakona-lawless-2012-cz-sub.720p-bluray-dts.mkv) | target_unavailable | 2026-11-06T11:36:42.355448+00:00 |
-| [Little Boy 1080p CZ Titulky](https://prehraj.to/little-boy-1080p-cz-titulky-mkv/74b893f63203ad88) (ID 30830196) | [Sdílej 16573618](https://sdilej.cz/16573618/little.boy.2015.1080p.brrip.x264.ac3-en-cz-tit.mkv) | target_unavailable | 2026-11-05T20:12:35.054384+00:00 |
 | [Mardaani 1080p CZ Titulky](https://prehraj.to/mardaani-1080p-cz-titulky-mkv/851f2cd52206c3d2) (ID 30840183) | [Sdílej 33807079](https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv) | target_unavailable | 2026-11-06T01:09:46.748564+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-06T11:16:29.217043+00:00 |
 | [Mr. Brooks 1080p CZ Titulky](https://prehraj.to/mr-brooks-1080p-cz-titulky-mkv/2afa101ab588f405) (ID 30863259) | [Sdílej 30834447](https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv) | target_unavailable | 2026-11-06T16:12:14.436395+00:00 |
