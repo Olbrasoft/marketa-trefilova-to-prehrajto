@@ -72152,17 +72152,19 @@
       "attempts": []
     },
     "28745": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24046235",
+          "target_video_id": "30876431",
+          "permanent": false,
+          "attempted_at": "2026-11-07T02:16:45.195723+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24046235",
         "display_name": "The Mafia Kills Only in Summer 1080p CZ Dabing",
         "planned_at": "2026-11-07T02:08:03.158876+00:00"
-      },
-      "claim": {
-        "worker_id": "0483ecff919b40399cab91b93a224879-shard-0",
-        "claimed_at": "2026-11-07T02:08:04.954041+00:00",
-        "lease_expires_at": "2026-11-07T08:08:04.954041+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30876431",
       "prepared": {
@@ -121387,5 +121389,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T02:14:18.041507+00:00"
+  "updated_at": "2026-11-07T02:16:45.195744+00:00"
 }
