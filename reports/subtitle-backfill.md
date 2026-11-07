@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:27:45.255187+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:27:49.348746+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
@@ -76,7 +76,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 52. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-07T13:57:51.020727+00:00 |
 | [Bridge to Terabithia 1080p CZ Titulky](https://prehraj.to/bridge-to-terabithia-1080p-cz-titulky-mkv/e9c530162461b1ec) (ID 30860568) | [Sdílej 30611137](https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv) | target_unavailable | 2026-11-06T13:57:53.971587+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-07T14:06:50.557163+00:00 |
-| [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-06T12:47:22.137842+00:00 |
+| [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-07T14:27:49.203422+00:00 |
 | [Christopher Robin 1080p CZ Titulky](https://prehraj.to/christopher-robin-1080p-cz-titulky-mkv/92a5bc4d30312f13) (ID 30874745) | [Sdílej 11711857](https://sdilej.cz/11711857/krystufek-robin-cz-titulky-2018-.mkv) | target_unavailable | 2026-11-07T00:57:10.415112+00:00 |
 | [Code 3 1080p CZ Titulky](https://prehraj.to/code-3-1080p-cz-titulky-mkv/cb73df5f9fb90550) (ID 30890643) | [Sdílej 32513243](https://sdilej.cz/32513243/code-3-2025-cz-titulky.mkv) | target_unavailable | 2026-11-07T12:54:49.217777+00:00 |
 | [Easy Rider 1080p CZ Titulky](https://prehraj.to/easy-rider-1080p-cz-titulky-mp4/7867422965cf708a) (ID 30869994) | [Sdílej 27945336](https://sdilej.cz/27945336/bezstarostna-jizda-easy-rider-roadmovie-usa-1969-audio-en-cz-tit.cz-1080p-jackripper.mp4) | target_unavailable | 2026-11-06T21:27:07.105695+00:00 |
