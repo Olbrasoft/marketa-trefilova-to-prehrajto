@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-07T01:51:05.822396+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-07T02:22:29.174610+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-07T03:01:04.026766+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:34:23.227772+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "72d913906034421ea06f922bdf1e1f0c-shard-0",
-        "claimed_at": "2026-11-07T03:34:20.170447+00:00",
-        "lease_expires_at": "2026-11-07T09:34:20.170447+00:00",
-        "run_id": "42319503958"
       }
     },
     "52": {
@@ -13958,7 +13952,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-07T03:01:05.728063+00:00"
+        "planned_at": "2026-11-07T03:34:22.727068+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -13966,6 +13960,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "db5d5a3d328b4604a6a49d995edf484f-shard-0",
+        "claimed_at": "2026-11-07T03:34:23.362117+00:00",
+        "lease_expires_at": "2026-11-07T09:34:23.362117+00:00",
+        "run_id": "42319503958"
       }
     },
     "22047": {
@@ -72614,7 +72614,7 @@
       "last_plan": {
         "source_id": "34700199",
         "display_name": "The Blue Max 1080p CZ Dabing",
-        "planned_at": "2026-11-07T03:34:19.873570+00:00"
+        "planned_at": "2026-11-07T03:34:22.936830+00:00"
       }
     },
     "10979": {
@@ -122055,5 +122055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:34:21.108611+00:00"
+  "updated_at": "2026-11-07T03:34:23.362140+00:00"
 }
