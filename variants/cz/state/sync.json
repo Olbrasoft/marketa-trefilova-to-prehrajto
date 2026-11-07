@@ -77014,21 +77014,34 @@
       "attempts": []
     },
     "2381": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26249483",
+          "reason": "Request failed for https://sdilej.cz/26249483/santa-je-uchyl-2003-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:40:20.330029+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26249483",
         "display_name": "Bad Santa 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:39:33.541337+00:00"
-      },
-      "claim": {
-        "worker_id": "2aa6bd42d34d438e88cbeb46639bc6f7-shard-0",
-        "claimed_at": "2026-11-07T15:39:33.872872+00:00",
-        "lease_expires_at": "2026-11-07T21:39:33.872872+00:00",
-        "run_id": "42376609077"
       }
     },
     "20115": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34482669",
+        "display_name": "A Real Pain 1080p CZ Dabing",
+        "planned_at": "2026-11-07T15:40:00.498448+00:00"
+      },
+      "claim": {
+        "worker_id": "29c287c7892d47e9b59dac6fe6bea99a-shard-0",
+        "claimed_at": "2026-11-07T15:40:00.834141+00:00",
+        "lease_expires_at": "2026-11-07T21:40:00.834141+00:00",
+        "run_id": "42376609077"
+      }
     },
     "15624": {
       "attempts": []
@@ -127959,5 +127972,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:39:58.881416+00:00"
+  "updated_at": "2026-11-07T15:40:20.330047+00:00"
 }
