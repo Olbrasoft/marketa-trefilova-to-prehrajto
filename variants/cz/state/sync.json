@@ -79941,17 +79941,19 @@
       }
     },
     "2292": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26637648",
+          "target_video_id": "30899538",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:01:54.341831+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26637648",
         "display_name": "Abominable 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:55:56.764514+00:00"
-      },
-      "claim": {
-        "worker_id": "c82d20ccf1a04a2f892b8a209431b7f9-shard-0",
-        "claimed_at": "2026-11-07T21:55:57.163174+00:00",
-        "lease_expires_at": "2026-11-08T03:55:57.163174+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30899538",
       "prepared": {
@@ -131826,5 +131828,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:57:35.859417+00:00"
+  "updated_at": "2026-11-07T22:01:54.341859+00:00"
 }
