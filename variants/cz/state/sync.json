@@ -74612,17 +74612,19 @@
       }
     },
     "30792": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26256620",
+          "target_video_id": "30886223",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:56:21.609692+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26256620",
         "display_name": "Auntie Edna 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:54:56.451048+00:00"
-      },
-      "claim": {
-        "worker_id": "5d79d3b992bc4cd7a7ed018b00861d74-shard-0",
-        "claimed_at": "2026-11-07T08:54:56.902007+00:00",
-        "lease_expires_at": "2026-11-07T14:54:56.902007+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30886223",
       "prepared": {
@@ -124430,5 +124432,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:55:01.712447+00:00"
+  "updated_at": "2026-11-07T08:56:21.609708+00:00"
 }
