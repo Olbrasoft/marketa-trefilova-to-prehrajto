@@ -76566,17 +76566,19 @@
       }
     },
     "2159": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34772743",
+          "reason": "Request failed for https://sdilej.cz/34772743/addamsova-rodina-1-fantasy-komedie-1991-czdab.uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:50:36.434759+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34772743",
         "display_name": "The Addams Family (1991) 4K CZ Dabing",
         "planned_at": "2026-11-07T14:49:48.603882+00:00"
-      },
-      "claim": {
-        "worker_id": "584e1b869eaf4cce9c21ce9bbd570ca0-shard-0",
-        "claimed_at": "2026-11-07T14:49:48.929094+00:00",
-        "lease_expires_at": "2026-11-07T20:49:48.929094+00:00",
-        "run_id": "42376609077"
       }
     },
     "2258": {
@@ -127322,5 +127324,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:49:58.465470+00:00"
+  "updated_at": "2026-11-07T14:50:36.434778+00:00"
 }
