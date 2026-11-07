@@ -77791,7 +77791,20 @@
       "attempts": []
     },
     "17694": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33747053",
+          "reason": "Request failed for https://sdilej.cz/33747053/ztracenci-1983-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:03:41.376305+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33747053",
+        "display_name": "The Outsiders 1080p CZ Dabing",
+        "planned_at": "2026-11-07T17:02:54.767402+00:00"
+      }
     },
     "15092": {
       "attempts": []
@@ -128743,5 +128756,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:02:52.900194+00:00"
+  "updated_at": "2026-11-07T17:03:41.376322+00:00"
 }
