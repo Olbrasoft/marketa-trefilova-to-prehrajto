@@ -76705,17 +76705,19 @@
       }
     },
     "2256": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21184302",
+          "target_video_id": "30893164",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:16:30.924106+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21184302",
         "display_name": "Nightmare Alley 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:05:27.744813+00:00"
-      },
-      "claim": {
-        "worker_id": "6bcec77934fd4911becec363019f58a4-shard-0",
-        "claimed_at": "2026-11-07T15:05:28.069405+00:00",
-        "lease_expires_at": "2026-11-07T21:05:28.069405+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893164",
       "prepared": {
@@ -127761,5 +127763,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:13:58.533271+00:00"
+  "updated_at": "2026-11-07T15:16:30.924121+00:00"
 }
