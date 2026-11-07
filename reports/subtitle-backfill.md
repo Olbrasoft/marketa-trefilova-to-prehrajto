@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T12:44:42.099928+00:00
+Poslední aktualizace (UTC): 2026-11-07T12:44:44.702667+00:00
 
 Zkontrolováno videí: 494. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 332, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 101, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 332, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 102, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -157,6 +157,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 106. Důvo
 | [The Phantom of the Opera (2004) 720p CZ Titulky](https://prehraj.to/the-phantom-of-the-opera-2004-720p-cz-titulky-mkv/c0d61728d7051a76) (ID 30864178) | [Sdílej 8688898](https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv) | target_unavailable | 2026-11-06T16:52:42.339498+00:00 |
 | [The Sea Wolf 1080p CZ Titulky](https://prehraj.to/the-sea-wolf-1080p-cz-titulky-mkv/cd2a628f5eded499) (ID 30820306) | [Sdílej 34927035](https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T14:37:28.410834+00:00 |
 | [The Siege of Jadotville 720p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-720p-cz-titulky-mkv/594afbb58e9fd23a) (ID 30880856) | [Sdílej 6557665](https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-07T04:59:26.492070+00:00 |
+| [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T12:44:43.853746+00:00 |
 | [The Unforgivable 1080p CZ Titulky](https://prehraj.to/the-unforgivable-1080p-cz-titulky-mkv/4f00b428b85630dc) (ID 30866709) | [Sdílej 19114080](https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv) | target_unavailable | 2026-11-06T18:55:20.655462+00:00 |
 | [The Whiskey Bandit (A Viszkis) SD CZ Titulky](https://prehraj.to/the-whiskey-bandit-a-viszkis-sd-cz-titulky-mkv/3073237719919eca) (ID 30849859) | [Sdílej 16285415](https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv) | target_unavailable | 2026-11-06T05:52:11.516160+00:00 |
 | [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T11:44:25.232641+00:00 |
