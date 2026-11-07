@@ -42552,13 +42552,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-07T13:49:09.949770+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-07T14:21:04.527843+00:00"
         },
         {
@@ -42567,6 +42560,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-07T14:51:57.582677+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:25:41.665158+00:00"
         }
       ],
       "last_plan": {
@@ -42580,12 +42580,6 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
-      },
-      "claim": {
-        "worker_id": "7654641c9cb34bd981baa7736dcf3167-shard-0",
-        "claimed_at": "2026-11-07T15:25:38.183989+00:00",
-        "lease_expires_at": "2026-11-07T21:25:38.183989+00:00",
-        "run_id": "42376609077"
       }
     },
     "1395": {
@@ -56826,7 +56820,7 @@
       "last_plan": {
         "source_id": "33383467",
         "display_name": "Vanishing Point 1080p CZ Dabing",
-        "planned_at": "2026-11-07T14:52:00.717407+00:00"
+        "planned_at": "2026-11-07T15:25:40.888538+00:00"
       },
       "previous_target_id": "30785708",
       "prepared": {
@@ -56834,6 +56828,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-04T12:47:15.136003+00:00",
         "relay_source_id": "33383467"
+      },
+      "claim": {
+        "worker_id": "79f265888e044603a650d0b4e922315f-shard-0",
+        "claimed_at": "2026-11-07T15:25:41.806786+00:00",
+        "lease_expires_at": "2026-11-07T21:25:41.806786+00:00",
+        "run_id": "42376609077"
       }
     },
     "31733": {
@@ -76893,7 +76893,7 @@
       "last_plan": {
         "source_id": "35003612",
         "display_name": "Extraction 2 4K CZ Dabing",
-        "planned_at": "2026-11-07T15:25:37.783122+00:00"
+        "planned_at": "2026-11-07T15:25:41.130270+00:00"
       }
     },
     "13530": {
@@ -127854,5 +127854,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:25:39.168235+00:00"
+  "updated_at": "2026-11-07T15:25:41.806809+00:00"
 }
