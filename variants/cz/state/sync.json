@@ -80302,7 +80302,20 @@
       }
     },
     "21443": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32982602",
+          "reason": "Source detail has no authenticated download link; source_id=32982602",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:01:42.085488+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32982602",
+        "display_name": "The Trouble with Harry 4K CZ Dabing",
+        "planned_at": "2026-11-07T23:01:39.860693+00:00"
+      }
     },
     "2466": {
       "attempts": []
@@ -132409,5 +132422,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:01:38.070349+00:00"
+  "updated_at": "2026-11-07T23:01:42.085507+00:00"
 }
