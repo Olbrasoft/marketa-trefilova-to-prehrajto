@@ -74036,17 +74036,19 @@
       "attempts": []
     },
     "21557": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12819763",
+          "target_video_id": "30885488",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:09:46.823516+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12819763",
         "display_name": "The Hanging Tree SD CZ Dabing",
         "planned_at": "2026-11-07T08:07:26.622679+00:00"
-      },
-      "claim": {
-        "worker_id": "51647b4414694450a8aec376b4a1fdae-shard-0",
-        "claimed_at": "2026-11-07T08:07:26.959393+00:00",
-        "lease_expires_at": "2026-11-07T14:07:26.959393+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885488",
       "prepared": {
@@ -123755,5 +123757,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:07:30.419451+00:00"
+  "updated_at": "2026-11-07T08:09:46.823532+00:00"
 }
