@@ -74810,17 +74810,19 @@
       }
     },
     "2449": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31257253",
+          "target_video_id": "30886638",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:44:02.920611+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31257253",
         "display_name": "Prometheus 4K CZ Dabing",
         "planned_at": "2026-11-07T09:29:32.500477+00:00"
-      },
-      "claim": {
-        "worker_id": "33a165eab5244abfbfdc4ccea24d3302-shard-0",
-        "claimed_at": "2026-11-07T09:29:32.693665+00:00",
-        "lease_expires_at": "2026-11-07T15:29:32.693665+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30886638",
       "prepared": {
@@ -124763,5 +124765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:29:36.375516+00:00"
+  "updated_at": "2026-11-07T09:44:02.920630+00:00"
 }
