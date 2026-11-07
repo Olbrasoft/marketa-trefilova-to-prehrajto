@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:37:36.881258+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:37:40.659373+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 389, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 390, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -111,7 +111,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 32. Důvo
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-07T13:57:55.190838+00:00 |
 | [The Siege of Jadotville 720p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-720p-cz-titulky-mkv/594afbb58e9fd23a) (ID 30880856) | [Sdílej 6557665](https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-07T04:59:26.492070+00:00 |
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T12:44:43.853746+00:00 |
-| [The Unforgivable 1080p CZ Titulky](https://prehraj.to/the-unforgivable-1080p-cz-titulky-mkv/4f00b428b85630dc) (ID 30866709) | [Sdílej 19114080](https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv) | target_unavailable | 2026-11-06T18:55:20.655462+00:00 |
 | [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T11:44:25.232641+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-06T20:36:32.109565+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T13:58:49.384332+00:00 |
