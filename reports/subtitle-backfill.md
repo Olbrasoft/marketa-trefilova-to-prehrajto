@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:17:55.774966+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:18:00.494778+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
@@ -103,7 +103,7 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 72. Důvo
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-06T11:16:29.217043+00:00 |
 | [Mr. Brooks 1080p CZ Titulky](https://prehraj.to/mr-brooks-1080p-cz-titulky-mkv/2afa101ab588f405) (ID 30863259) | [Sdílej 30834447](https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv) | target_unavailable | 2026-11-06T16:12:14.436395+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-07T13:58:27.230125+00:00 |
-| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-06T05:32:05.097930+00:00 |
+| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-07T14:17:59.921940+00:00 |
 | [Pirates of the Caribbean: At World's End 4K CZ Titulky](https://prehraj.to/pirates-of-the-caribbean-at-world-s-end-4k-cz-titulky-mkv/5105285d5b027286) (ID 30850430) | [Sdílej 32902146](https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv) | target_unavailable | 2026-11-06T06:22:25.566526+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-07T13:58:20.108353+00:00 |
 | [Predator: Badlands 4K CZ Titulky](https://prehraj.to/predator-badlands-4k-cz-titulky-mkv/4d2bd24f6cad7a47) (ID 30862557) | [Sdílej 32831183](https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv) | target_unavailable | 2026-11-06T15:42:00.564780+00:00 |
