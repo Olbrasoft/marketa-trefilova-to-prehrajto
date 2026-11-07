@@ -78152,17 +78152,19 @@
       }
     },
     "22747": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34899360",
+          "target_video_id": "30895313",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:44:23.215166+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34899360",
         "display_name": "Nineteen Eighty-Four 1080p CZ Dabing",
         "planned_at": "2026-11-07T17:33:57.217752+00:00"
-      },
-      "claim": {
-        "worker_id": "0a705a5df48944f999f6b8dcfb7d0693-shard-0",
-        "claimed_at": "2026-11-07T17:33:57.539611+00:00",
-        "lease_expires_at": "2026-11-07T23:33:57.539611+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30895313",
       "prepared": {
@@ -129284,5 +129286,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:34:01.368128+00:00"
+  "updated_at": "2026-11-07T17:44:23.215181+00:00"
 }
