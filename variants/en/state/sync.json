@@ -26491,17 +26491,19 @@
       "attempts": []
     },
     "19805": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17778553",
+          "target_video_id": "30891824",
+          "permanent": false,
+          "attempted_at": "2026-11-07T13:55:31.004175+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17778553",
         "display_name": "Batman: The Long Halloween, Part Two 1080p CZ Titulky",
         "planned_at": "2026-11-07T13:51:04.214086+00:00"
-      },
-      "claim": {
-        "worker_id": "4198e74474b14776a2c4bcc589d1cb56-shard-0",
-        "claimed_at": "2026-11-07T13:51:04.358980+00:00",
-        "lease_expires_at": "2026-11-07T19:51:04.358980+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30891824",
       "prepared": {
@@ -80077,5 +80079,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:55:05.040388+00:00"
+  "updated_at": "2026-11-07T13:55:31.004191+00:00"
 }
