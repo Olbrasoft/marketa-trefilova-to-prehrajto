@@ -73627,25 +73627,22 @@
       "attempts": []
     },
     "13004": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "26701263",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30882982",
+          "attempted_at": "2026-11-07T07:27:23.387503+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26701263",
         "display_name": "Dark Blue World (Tmavomodrý svět) 1080p CZ Dabing",
         "planned_at": "2026-11-07T06:20:14.563088+00:00"
       },
-      "claim": {
-        "worker_id": "11b54ba4b4714bf6b56ae9a3128b9efe-shard-0",
-        "claimed_at": "2026-11-07T06:20:14.885755+00:00",
-        "lease_expires_at": "2026-11-07T12:20:14.885755+00:00",
-        "run_id": "42338182103"
-      },
-      "previous_target_id": "30882982",
-      "prepared": {
-        "target_video_id": "30882982",
-        "size_bytes": 9135865725,
-        "prepared_at": "2026-11-07T06:20:18.594157+00:00",
-        "relay_source_id": "26701263"
-      }
+      "previous_target_id": "30882982"
     },
     "14551": {
       "attempts": [
@@ -123582,5 +123579,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T07:21:23.404616+00:00"
+  "updated_at": "2026-11-07T07:27:23.387519+00:00"
 }
