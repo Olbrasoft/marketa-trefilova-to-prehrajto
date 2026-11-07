@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:07:50.139471+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:07:54.244685+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 347, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 90, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 348, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 89, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -100,7 +100,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 91. Důvo
 | [I Am Heath Ledger SD CZ Titulky](https://prehraj.to/i-am-heath-ledger-sd-cz-titulky-mkv/fdac86fe4f062c00) (ID 30834760) | [Sdílej 7474986](https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv) | target_unavailable | 2026-11-05T22:44:10.137729+00:00 |
 | [Insomnia 1080p CZ Titulky](https://prehraj.to/insomnia-1080p-cz-titulky-mkv/7357b6c213189979) (ID 30854783) | [Sdílej 27519363](https://sdilej.cz/27519363/insomnia.2002.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-06T08:53:54.166881+00:00 |
 | [Invention for Destruction (Vynález zkázy) 1080p CZ Titulky](https://prehraj.to/invention-for-destruction-vynalez-zkazy-1080p-cz-titulky-mkv/00a6dc861862d5e3) (ID 30866492) | [Sdílej 34422006](https://sdilej.cz/34422006/vynalez-zkazy-1958-cz-cz-1080p-.mkv) | target_unavailable | 2026-11-06T18:43:48.937887+00:00 |
-| [Jin-Roh: The Wolf Brigade (人狼 JIN-ROH) SD CZ Titulky](https://prehraj.to/jin-roh-the-wolf-brigade-jin-roh-sd-cz-titulky-mkv/b95329e1ac6de419) (ID 30833915) | [Sdílej 34185179](https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv) | target_unavailable | 2026-11-05T22:13:49.057665+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-07T13:58:30.588609+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-07T13:58:45.805863+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-07T13:58:33.864946+00:00 |
