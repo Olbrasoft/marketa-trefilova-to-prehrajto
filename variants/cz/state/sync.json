@@ -75666,17 +75666,19 @@
       }
     },
     "2291": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29846940",
+          "target_video_id": "30890073",
+          "permanent": false,
+          "attempted_at": "2026-11-07T12:26:17.251468+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29846940",
         "display_name": "The Platform (El hoyo) (2019) 1080p CZ Dabing",
         "planned_at": "2026-11-07T12:13:20.090198+00:00"
-      },
-      "claim": {
-        "worker_id": "4f8d09bb7d024b7c82110caac4b10fff-shard-0",
-        "claimed_at": "2026-11-07T12:13:20.265118+00:00",
-        "lease_expires_at": "2026-11-07T18:13:20.265118+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30890073",
       "prepared": {
@@ -126160,5 +126162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:22:41.798827+00:00"
+  "updated_at": "2026-11-07T12:26:17.251489+00:00"
 }
