@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:07:00.854348+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:07:04.272827+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 339, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 99, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 340, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 98, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -72,7 +72,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 91. Důvo
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-07T14:06:47.114439+00:00 |
 | [A Million Miles Away 4K CZ Titulky](https://prehraj.to/a-million-miles-away-4k-cz-titulky-mkv/f3a1bbf33337f55f) (ID 30828699) | [Sdílej 26864340](https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv) | target_unavailable | 2026-11-05T19:30:12.672219+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-06T09:44:38.862506+00:00 |
-| [A Street Cat Named Bob 1080p CZ Titulky](https://prehraj.to/a-street-cat-named-bob-1080p-cz-titulky-mkv/7a05368a1b4102d7) (ID 30822365) | [Sdílej 34228623](https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv) | target_unavailable | 2026-11-05T15:48:24.196984+00:00 |
 | [Agnus Dei (Les innocentes) SD CZ Titulky](https://prehraj.to/agnus-dei-les-innocentes-sd-cz-titulky-mkv/bb11ade87d8bb027) (ID 30842899) | [Sdílej 6500108](https://sdilej.cz/6500108/nevinne-les-innocentes-agnus-dei-2016-titulky.cz.mkv) | target_unavailable | 2026-11-06T02:40:36.924719+00:00 |
 | [American Murder: The Family Next Door 1080p CZ Titulky](https://prehraj.to/american-murder-the-family-next-door-1080p-cz-titulky-mkv/4800e9d875a377e4) (ID 30884991) | [Sdílej 14236370](https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv) | target_unavailable | 2026-11-07T07:50:51.174634+00:00 |
 | [Ant-Man 4K CZ Titulky](https://prehraj.to/ant-man-4k-cz-titulky-mkv/6b0b227a8e3ac14a) (ID 30849922) | [Sdílej 27438034](https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv) | target_unavailable | 2026-11-06T06:02:20.616561+00:00 |
