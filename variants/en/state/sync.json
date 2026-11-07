@@ -26384,17 +26384,19 @@
       "attempts": []
     },
     "28358": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32513243",
+          "target_video_id": "30890643",
+          "permanent": false,
+          "attempted_at": "2026-11-07T13:02:02.612609+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32513243",
         "display_name": "Code 3 1080p CZ Titulky",
         "planned_at": "2026-11-07T12:47:46.106426+00:00"
-      },
-      "claim": {
-        "worker_id": "67bd6bbeca344c22a91e5d6144afe793-shard-0",
-        "claimed_at": "2026-11-07T12:47:46.157364+00:00",
-        "lease_expires_at": "2026-11-07T18:47:46.157364+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30890643",
       "prepared": {
@@ -79797,5 +79799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:56:58.238359+00:00"
+  "updated_at": "2026-11-07T13:02:02.612628+00:00"
 }
