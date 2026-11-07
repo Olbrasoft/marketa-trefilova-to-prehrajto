@@ -74150,17 +74150,19 @@
       }
     },
     "18414": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23039061",
+          "target_video_id": "30885566",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:18:09.057793+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23039061",
         "display_name": "Skandal! Bringing Down Wirecard 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:12:23.034436+00:00"
-      },
-      "claim": {
-        "worker_id": "fe0b68933a6542e7b2f75d48b691fb62-shard-0",
-        "claimed_at": "2026-11-07T08:12:23.387577+00:00",
-        "lease_expires_at": "2026-11-07T14:12:23.387577+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885566",
       "prepared": {
@@ -123887,5 +123889,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:15:20.967101+00:00"
+  "updated_at": "2026-11-07T08:18:09.057816+00:00"
 }
