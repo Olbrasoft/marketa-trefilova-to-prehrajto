@@ -79926,17 +79926,19 @@
       "attempts": []
     },
     "37396": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11111243",
+          "target_video_id": "30899537",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:03:29.134938+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11111243",
         "display_name": "Behind the Candelabra 720p CZ Dabing",
         "planned_at": "2026-11-07T21:55:54.978035+00:00"
-      },
-      "claim": {
-        "worker_id": "703a4ddeb206491389686b198e2c074d-shard-0",
-        "claimed_at": "2026-11-07T21:55:56.474440+00:00",
-        "lease_expires_at": "2026-11-08T03:55:56.474440+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30899537",
       "prepared": {
@@ -131852,5 +131854,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:02:05.555882+00:00"
+  "updated_at": "2026-11-07T22:03:29.134986+00:00"
 }
