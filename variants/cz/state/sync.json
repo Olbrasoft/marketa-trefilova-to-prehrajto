@@ -77391,17 +77391,19 @@
       "attempts": []
     },
     "26486": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33085103",
+          "target_video_id": "30894229",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:34:11.836243+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33085103",
         "display_name": "Julie & Julia 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:15:12.948115+00:00"
-      },
-      "claim": {
-        "worker_id": "405d76d23f0649c8a3fe31527d9beab4-shard-0",
-        "claimed_at": "2026-11-07T16:15:13.259422+00:00",
-        "lease_expires_at": "2026-11-07T22:15:13.259422+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894229",
       "prepared": {
@@ -128480,5 +128482,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:33:49.590844+00:00"
+  "updated_at": "2026-11-07T16:34:11.836271+00:00"
 }
