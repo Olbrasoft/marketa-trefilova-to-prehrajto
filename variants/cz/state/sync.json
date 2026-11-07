@@ -74669,17 +74669,19 @@
       "attempts": []
     },
     "2401": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34501428",
+          "target_video_id": "30886236",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:20:07.723120+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34501428",
         "display_name": "Thor 4K CZ Dabing",
         "planned_at": "2026-11-07T08:56:25.464859+00:00"
-      },
-      "claim": {
-        "worker_id": "a274b9a526e443be8b527281c378c7b9-shard-0",
-        "claimed_at": "2026-11-07T08:56:25.796656+00:00",
-        "lease_expires_at": "2026-11-07T14:56:25.796656+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30886236",
       "prepared": {
@@ -124454,5 +124456,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:09:57.414967+00:00"
+  "updated_at": "2026-11-07T09:20:07.723137+00:00"
 }
