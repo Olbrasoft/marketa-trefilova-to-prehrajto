@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:18:32.451308+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-07T07:56:18.414226+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-07T08:28:45.117361+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:24:49.714994+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "abca911b8ab34899ac21d3384680468f-shard-0",
-        "claimed_at": "2026-11-07T09:24:47.017129+00:00",
-        "lease_expires_at": "2026-11-07T15:24:47.017129+00:00",
-        "run_id": "42355221442"
       }
     },
     "54": {
@@ -1084,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-07T08:28:44.002342+00:00"
+        "planned_at": "2026-11-07T09:24:49.227874+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1092,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "c8a6bd745e2f4c23a42670f46c7f973e-shard-0",
+        "claimed_at": "2026-11-07T09:24:49.548119+00:00",
+        "lease_expires_at": "2026-11-07T15:24:49.548119+00:00",
+        "run_id": "42355221442"
       }
     },
     "52": {
@@ -74738,7 +74738,7 @@
       "last_plan": {
         "source_id": "22405080",
         "display_name": "The Amazing Spider-Man 1080p CZ Dabing",
-        "planned_at": "2026-11-07T09:24:46.837906+00:00"
+        "planned_at": "2026-11-07T09:24:49.366655+00:00"
       }
     },
     "2449": {
@@ -124682,5 +124682,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:24:47.860750+00:00"
+  "updated_at": "2026-11-07T09:24:49.715015+00:00"
 }
