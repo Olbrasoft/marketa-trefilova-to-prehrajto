@@ -492,7 +492,7 @@ Attach subtitles only after target processing has finished.
 | Stargate: The Ark of Truth 1080p CZ Titulky | 30888161 | https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv | Extract Czech track from exact source after processing |
 | Columbus SD CZ Titulky | 30888397 | https://sdilej.cz/8304013/columbus-2017-titulky.cz.mkv | Complete: Czech subtitles verified |
 | The Express 1080p CZ Titulky | 30889083 | https://sdilej.cz/34506932/expres-2008-cz-dabing-1080p-fhd.mkv | Complete: Czech subtitles verified |
-| Blue Jay SD CZ Titulky | 30889481 | https://sdilej.cz/6727450/blue-jay-2016-titulky.cz.mkv | Extract Czech track from exact source after processing |
+| Blue Jay SD CZ Titulky | 30889481 | https://sdilej.cz/6727450/blue-jay-2016-titulky.cz.mkv | Complete: Czech subtitles verified |
 | The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky | 30889483 | https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | The Tale 1080p CZ Titulky | 30890507 | https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Code 3 1080p CZ Titulky | 30890643 | https://sdilej.cz/32513243/code-3-2025-cz-titulky.mkv | Extract Czech track from exact source after processing |
