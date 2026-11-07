@@ -75571,17 +75571,19 @@
       }
     },
     "2395": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19073571",
+          "target_video_id": "30889817",
+          "permanent": false,
+          "attempted_at": "2026-11-07T12:04:48.203658+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19073571",
         "display_name": "The Witch 1080p CZ Dabing",
         "planned_at": "2026-11-07T11:59:30.202783+00:00"
-      },
-      "claim": {
-        "worker_id": "bb658280e3d14f13b0ac55b4f31912a3-shard-0",
-        "claimed_at": "2026-11-07T11:59:30.393107+00:00",
-        "lease_expires_at": "2026-11-07T17:59:30.393107+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30889817",
       "prepared": {
@@ -125826,5 +125828,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:04:43.600206+00:00"
+  "updated_at": "2026-11-07T12:04:48.203691+00:00"
 }
