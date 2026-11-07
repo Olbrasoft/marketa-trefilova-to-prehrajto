@@ -31921,17 +31921,19 @@
       "attempts": []
     },
     "21790": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28307261",
+          "target_video_id": "30900646",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:56:17.005233+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28307261",
         "display_name": "For Love and Gold SD CZ Dabing",
         "planned_at": "2026-11-07T22:50:22.884623+00:00"
-      },
-      "claim": {
-        "worker_id": "7ca44931fc7143558a48548b949d2e2c-shard-0",
-        "claimed_at": "2026-11-07T22:50:23.284508+00:00",
-        "lease_expires_at": "2026-11-08T04:50:23.284508+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30900646",
       "prepared": {
@@ -132387,5 +132389,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:54:49.169556+00:00"
+  "updated_at": "2026-11-07T22:56:17.005252+00:00"
 }
