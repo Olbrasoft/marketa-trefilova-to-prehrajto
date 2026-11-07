@@ -78479,17 +78479,19 @@
       }
     },
     "20340": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14998829",
+          "target_video_id": "30896417",
+          "permanent": false,
+          "attempted_at": "2026-11-07T19:08:08.238590+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14998829",
         "display_name": "The Water Diviner 720p CZ Dabing",
         "planned_at": "2026-11-07T18:48:37.811137+00:00"
-      },
-      "claim": {
-        "worker_id": "86c971575b1941eb94f54af6dccd426b-shard-0",
-        "claimed_at": "2026-11-07T18:48:41.947795+00:00",
-        "lease_expires_at": "2026-11-08T00:48:41.947795+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896417",
       "prepared": {
@@ -130010,5 +130012,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T19:04:41.582206+00:00"
+  "updated_at": "2026-11-07T19:08:08.238610+00:00"
 }
