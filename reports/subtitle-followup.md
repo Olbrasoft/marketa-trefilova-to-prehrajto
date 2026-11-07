@@ -462,26 +462,26 @@ Attach subtitles only after target processing has finished.
 | Steve Jobs 1080p CZ Titulky | 30860819 | https://sdilej.cz/5722967/steve.jobs.2015.1080p.bluray.h264.ac3-rarbg.cz.mkv | Complete: Czech subtitles verified |
 | The Ballad of Buster Scruggs 1080p CZ Titulky | 30861500 | https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv | Complete: Czech subtitles verified |
 | The Little Mermaid (2023) 1080p CZ Titulky | 30861626 | https://sdilej.cz/26570302/the.little.mermaid.web-dl.en-5.1.tituly.cz.sk..2023.1080p.mkv | Complete: Czech subtitles verified |
-| Predator: Badlands 4K CZ Titulky | 30862557 | https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv | Extract Czech track from exact source after processing |
-| They Live 1080p CZ Titulky | 30862600 | https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv | Extract Czech track from exact source after processing |
-| Mr. Brooks 1080p CZ Titulky | 30863259 | https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv | Extract Czech track from exact source after processing |
-| Where the Crawdads Sing 720p CZ Titulky | 30863680 | https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv | Extract Czech track from exact source after processing |
-| The Phantom of the Opera (2004) 720p CZ Titulky | 30864178 | https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv | Extract Czech track from exact source after processing |
-| Belfast 1080p CZ Titulky | 30864204 | https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| Invention for Destruction (Vynález zkázy) 1080p CZ Titulky | 30866492 | https://sdilej.cz/34422006/vynalez-zkazy-1958-cz-cz-1080p-.mkv | Extract Czech track from exact source after processing |
-| The Unforgivable 1080p CZ Titulky | 30866709 | https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Predator: Badlands 4K CZ Titulky | 30862557 | https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv | Complete: Czech subtitles verified |
+| They Live 1080p CZ Titulky | 30862600 | https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv | Complete: Czech subtitles verified |
+| Mr. Brooks 1080p CZ Titulky | 30863259 | https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv | Complete: Czech subtitles verified |
+| Where the Crawdads Sing 720p CZ Titulky | 30863680 | https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv | Complete: Czech subtitles verified |
+| The Phantom of the Opera (2004) 720p CZ Titulky | 30864178 | https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv | Complete: Czech subtitles verified |
+| Belfast 1080p CZ Titulky | 30864204 | https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv | Complete: Czech subtitles verified |
+| Invention for Destruction (Vynález zkázy) 1080p CZ Titulky | 30866492 | https://sdilej.cz/34422006/vynalez-zkazy-1958-cz-cz-1080p-.mkv | Complete: Czech subtitles verified |
+| The Unforgivable 1080p CZ Titulky | 30866709 | https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv | Complete: Czech subtitles verified |
 | 28 Years Later: The Bone Temple 4K CZ Titulky | 30869550 | https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv | Extract Czech track from exact source after processing |
-| Easy Rider 1080p CZ Titulky | 30869994 | https://sdilej.cz/27945336/bezstarostna-jizda-easy-rider-roadmovie-usa-1969-audio-en-cz-tit.cz-1080p-jackripper.mp4 | Extract Czech track from exact source after processing |
-| Hostiles 1080p CZ Titulky | 30870123 | https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv | Extract Czech track from exact source after processing |
-| The Doors 1080p CZ Titulky | 30870310 | https://sdilej.cz/6416335/the-doors-1991-.1080p.h264.ac3-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
-| Five Feet Apart 1080p CZ Titulky | 30871545 | https://sdilej.cz/12142719/five.feet.apart.2019.1080p.bluray.h264.dd5.1-aac-.sk.cz-titulky.mkv | Extract Czech track from exact source after processing |
-| Christopher Robin 1080p CZ Titulky | 30874745 | https://sdilej.cz/11711857/krystufek-robin-cz-titulky-2018-.mkv | Extract Czech track from exact source after processing |
-| Hoppers 4K CZ Titulky | 30874854 | https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv | Extract Czech track from exact source after processing |
-| The Courier (2020) 1080p CZ Titulky | 30874868 | https://sdilej.cz/30685953/the-courier-2020-1080p-webrip-dd5-1-x264-cz-tit.mkv | Extract Czech track from exact source after processing |
+| Easy Rider 1080p CZ Titulky | 30869994 | https://sdilej.cz/27945336/bezstarostna-jizda-easy-rider-roadmovie-usa-1969-audio-en-cz-tit.cz-1080p-jackripper.mp4 | Complete: Czech subtitles verified |
+| Hostiles 1080p CZ Titulky | 30870123 | https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv | Complete: Czech subtitles verified |
+| The Doors 1080p CZ Titulky | 30870310 | https://sdilej.cz/6416335/the-doors-1991-.1080p.h264.ac3-5.1-eng-ceske-titulky.mkv | Complete: Czech subtitles verified |
+| Five Feet Apart 1080p CZ Titulky | 30871545 | https://sdilej.cz/12142719/five.feet.apart.2019.1080p.bluray.h264.dd5.1-aac-.sk.cz-titulky.mkv | Complete: Czech subtitles verified |
+| Christopher Robin 1080p CZ Titulky | 30874745 | https://sdilej.cz/11711857/krystufek-robin-cz-titulky-2018-.mkv | Complete: Czech subtitles verified |
+| Hoppers 4K CZ Titulky | 30874854 | https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv | Complete: Czech subtitles verified |
+| The Courier (2020) 1080p CZ Titulky | 30874868 | https://sdilej.cz/30685953/the-courier-2020-1080p-webrip-dd5-1-x264-cz-tit.mkv | Complete: Czech subtitles verified |
 | Nikita 1080p CZ Titulky | 30875013 | https://sdilej.cz/21092547/la-femme-nikita-1990-hevc-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
-| Friday Night Lights 1080p CZ Titulky | 30876987 | https://sdilej.cz/34821361/friday.night.lights.2004.open.matte.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
-| The Bloody Hundredth 1080p CZ Titulky | 30877896 | https://sdilej.cz/28370606/the-bloody-hundredth-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
-| Wristcutters: A Love Story 1080p CZ Titulky | 30878216 | https://sdilej.cz/30865387/sebevrazi-love-story-z-onoho-sveta-wristcutters-a-love-story-2007--tt0477139--en-cs-.webdl-1080p.h265-ac3-5.1.mkv | Extract Czech track from exact source after processing |
+| Friday Night Lights 1080p CZ Titulky | 30876987 | https://sdilej.cz/34821361/friday.night.lights.2004.open.matte.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
+| The Bloody Hundredth 1080p CZ Titulky | 30877896 | https://sdilej.cz/28370606/the-bloody-hundredth-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
+| Wristcutters: A Love Story 1080p CZ Titulky | 30878216 | https://sdilej.cz/30865387/sebevrazi-love-story-z-onoho-sveta-wristcutters-a-love-story-2007--tt0477139--en-cs-.webdl-1080p.h265-ac3-5.1.mkv | Complete: Czech subtitles verified |
 | Fyre 1080p CZ Titulky | 30878931 | https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4 | Extract Czech track from exact source after processing |
 | Sleep Tight (Mientras duermes) 720p CZ Titulky | 30880851 | https://sdilej.cz/22887994/zatimco-spis-2011-thriller-horor-drama-cz-tit.-hd-720p-.mkv | Extract Czech track from exact source after processing |
 | The Siege of Jadotville 720p CZ Titulky | 30880856 | https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv | Extract Czech track from exact source after processing |
