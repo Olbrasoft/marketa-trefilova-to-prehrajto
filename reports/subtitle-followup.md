@@ -478,4 +478,4 @@ Attach subtitles only after target processing has finished.
 | Christopher Robin 1080p CZ Titulky | 30874745 | https://sdilej.cz/11711857/krystufek-robin-cz-titulky-2018-.mkv | Extract Czech track from exact source after processing |
 | Hoppers 4K CZ Titulky | 30874854 | https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv | Extract Czech track from exact source after processing |
 | The Courier (2020) 1080p CZ Titulky | 30874868 | https://sdilej.cz/30685953/the-courier-2020-1080p-webrip-dd5-1-x264-cz-tit.mkv | Extract Czech track from exact source after processing |
-| Nikita 1080p CZ Titulky | 30875013 | https://sdilej.cz/21092547/la-femme-nikita-1990-hevc-1080p-cz-dabing.mkv | Extract Czech track from exact source after processing |
+| Nikita 1080p CZ Titulky | 30875013 | https://sdilej.cz/21092547/la-femme-nikita-1990-hevc-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
