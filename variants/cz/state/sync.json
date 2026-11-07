@@ -77418,17 +77418,19 @@
       "attempts": []
     },
     "23612": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34134487",
+          "reason": "Request failed for https://sdilej.cz/34134487/flakaci-1995-komedie-usa-ben-affleck-czdab.uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:22:42.173442+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34134487",
         "display_name": "Mallrats 4K CZ Dabing",
         "planned_at": "2026-11-07T16:21:54.443693+00:00"
-      },
-      "claim": {
-        "worker_id": "bbc4e89886c847bea77688347b586f2c-shard-0",
-        "claimed_at": "2026-11-07T16:21:56.028703+00:00",
-        "lease_expires_at": "2026-11-07T22:21:56.028703+00:00",
-        "run_id": "42376609077"
       }
     },
     "2296": {
@@ -128453,5 +128455,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:22:00.951398+00:00"
+  "updated_at": "2026-11-07T16:22:42.173460+00:00"
 }
