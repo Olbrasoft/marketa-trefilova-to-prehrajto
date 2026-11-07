@@ -77269,17 +77269,19 @@
       }
     },
     "17736": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33885266",
+          "target_video_id": "30893962",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:14:19.321469+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33885266",
         "display_name": "Payback 4K CZ Dabing",
         "planned_at": "2026-11-07T15:57:01.769828+00:00"
-      },
-      "claim": {
-        "worker_id": "99b9283199e349feaac54737f50dcb0b-shard-0",
-        "claimed_at": "2026-11-07T15:57:02.402852+00:00",
-        "lease_expires_at": "2026-11-07T21:57:02.402852+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893962",
       "prepared": {
@@ -128239,5 +128241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:12:37.232339+00:00"
+  "updated_at": "2026-11-07T16:14:19.321485+00:00"
 }
