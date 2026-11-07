@@ -79749,17 +79749,19 @@
       "attempts": []
     },
     "13669": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28771706",
+          "target_video_id": "30899097",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:40:24.959678+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Waitress 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:32:35.870614+00:00"
-      },
-      "claim": {
-        "worker_id": "af779e649e5e4256aa6adb221307157d-shard-0",
-        "claimed_at": "2026-11-07T21:32:36.185221+00:00",
-        "lease_expires_at": "2026-11-08T03:32:36.185221+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30899097",
       "prepared": {
@@ -131690,5 +131692,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:39:51.935581+00:00"
+  "updated_at": "2026-11-07T21:40:24.959700+00:00"
 }
