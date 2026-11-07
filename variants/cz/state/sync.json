@@ -8006,13 +8006,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-11-07T20:53:23.042267+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-11-07T21:23:42.224777+00:00"
         },
         {
@@ -8021,6 +8014,13 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-11-07T21:55:41.773217+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:50:00.481061+00:00"
         }
       ],
       "last_plan": {
@@ -31925,7 +31925,7 @@
       "last_plan": {
         "source_id": "28307261",
         "display_name": "For Love and Gold SD CZ Dabing",
-        "planned_at": "2026-11-07T22:49:57.801612+00:00"
+        "planned_at": "2026-11-07T22:49:59.359051+00:00"
       }
     },
     "35284": {
@@ -34106,7 +34106,7 @@
       "last_plan": {
         "source_id": "35087204",
         "display_name": "Darkest Hour 4K CZ Dabing",
-        "planned_at": "2026-11-07T21:55:43.175277+00:00"
+        "planned_at": "2026-11-07T22:49:59.221203+00:00"
       },
       "previous_target_id": "30738724",
       "prepared": {
@@ -34114,6 +34114,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-02T18:09:12.961107+00:00",
         "relay_source_id": "35087204"
+      },
+      "claim": {
+        "worker_id": "a348243db25c47d7bed16701115a29f7-shard-0",
+        "claimed_at": "2026-11-07T22:49:59.555313+00:00",
+        "lease_expires_at": "2026-11-08T04:49:59.555313+00:00",
+        "run_id": "42420247810"
       }
     },
     "36749": {
@@ -132292,5 +132298,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:49:57.801631+00:00"
+  "updated_at": "2026-11-07T22:50:00.481083+00:00"
 }
