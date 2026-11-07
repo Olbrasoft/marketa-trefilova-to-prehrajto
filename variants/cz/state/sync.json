@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T13:55:04.433327+00:00"
+        "planned_at": "2026-11-07T14:28:31.675616+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "f94e279ba6954c1fadaaad05a3c113e6-shard-0",
+        "claimed_at": "2026-11-07T14:28:32.342126+00:00",
+        "lease_expires_at": "2026-11-07T20:28:32.342126+00:00",
+        "run_id": "42376609077"
       }
     },
     "29922": {
@@ -76332,17 +76338,19 @@
       }
     },
     "1268": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33014695",
+          "target_video_id": "30892498",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:30:21.436348+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33014695",
         "display_name": "DJ Ahmet (Диџеј Ахмет) 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:24:07.529819+00:00"
-      },
-      "claim": {
-        "worker_id": "63f42fb1c8364eb7bee055dc5b3884c4-shard-0",
-        "claimed_at": "2026-11-07T14:24:07.885517+00:00",
-        "lease_expires_at": "2026-11-07T20:24:07.885517+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892498",
       "prepared": {
@@ -76380,7 +76388,7 @@
       "last_plan": {
         "source_id": "24729108",
         "display_name": "I Love You, Man 1080p CZ Dabing",
-        "planned_at": "2026-11-07T14:28:28.095012+00:00"
+        "planned_at": "2026-11-07T14:28:31.918889+00:00"
       }
     },
     "2453": {
@@ -127114,5 +127122,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:28:29.905722+00:00"
+  "updated_at": "2026-11-07T14:30:21.436364+00:00"
 }
