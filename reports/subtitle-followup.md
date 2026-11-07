@@ -475,3 +475,4 @@ Attach subtitles only after target processing has finished.
 | Hostiles 1080p CZ Titulky | 30870123 | https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | The Doors 1080p CZ Titulky | 30870310 | https://sdilej.cz/6416335/the-doors-1991-.1080p.h264.ac3-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Five Feet Apart 1080p CZ Titulky | 30871545 | https://sdilej.cz/12142719/five.feet.apart.2019.1080p.bluray.h264.dd5.1-aac-.sk.cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Christopher Robin 1080p CZ Titulky | 30874745 | https://sdilej.cz/11711857/krystufek-robin-cz-titulky-2018-.mkv | Extract Czech track from exact source after processing |
