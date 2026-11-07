@@ -488,7 +488,7 @@ Attach subtitles only after target processing has finished.
 | Good Luck to You, Leo Grande 1080p CZ Titulky | 30882377 | https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv | Complete: Czech subtitles verified |
 | American Murder: The Family Next Door 1080p CZ Titulky | 30884991 | https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv | Complete: Czech subtitles verified |
 | Cat People (1942) SD CZ Titulky | 30886593 | https://sdilej.cz/31611769/kocici-lide-drama-1942-cz-titulky.mkv | Complete: Czech subtitles verified |
-| Gary 4K CZ Titulky | 30886904 | https://sdilej.cz/34158854/gary-2026-2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Gary 4K CZ Titulky | 30886904 | https://sdilej.cz/34158854/gary-2026-2160p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Stargate: The Ark of Truth 1080p CZ Titulky | 30888161 | https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv | Extract Czech track from exact source after processing |
 | Columbus SD CZ Titulky | 30888397 | https://sdilej.cz/8304013/columbus-2017-titulky.cz.mkv | Complete: Czech subtitles verified |
 | The Express 1080p CZ Titulky | 30889083 | https://sdilej.cz/34506932/expres-2008-cz-dabing-1080p-fhd.mkv | Complete: Czech subtitles verified |
