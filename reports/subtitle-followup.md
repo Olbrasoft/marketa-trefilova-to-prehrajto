@@ -512,3 +512,4 @@ Attach subtitles only after target processing has finished.
 | Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky | 30898313 | https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
 | Panna a netvor 1080p CZ Titulky | 30901163 | https://sdilej.cz/33576531/panna-a-netvor-1978-fhd-cz-de.mkv | Extract Czech track from exact source after processing |
 | The Endless Trench 1080p CZ Titulky | 30901287 | https://sdilej.cz/13066841/the.endless.trench.2019.1080p.cz.sub.web-dl.ddp5.1.x264.mkv | Extract Czech track from exact source after processing |
+| The Tiger: An Old Hunter's Tale (The Tiger) 1080p CZ Titulky | 30901878 | https://sdilej.cz/17612916/the.tiger.an.old.hunters.tale.2015.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Extract Czech track from exact source after processing |
