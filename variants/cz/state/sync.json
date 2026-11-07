@@ -75525,17 +75525,19 @@
       }
     },
     "2457": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27760397",
+          "target_video_id": "30889712",
+          "permanent": false,
+          "attempted_at": "2026-11-07T11:59:28.545594+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27760397",
         "display_name": "Burn After Reading 720p CZ Dabing",
         "planned_at": "2026-11-07T11:54:31.377100+00:00"
-      },
-      "claim": {
-        "worker_id": "74a6926bd1cd4c7bb71f6efbabd64684-shard-0",
-        "claimed_at": "2026-11-07T11:54:31.572756+00:00",
-        "lease_expires_at": "2026-11-07T17:54:31.572756+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30889712",
       "prepared": {
@@ -125799,5 +125801,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:56:56.742861+00:00"
+  "updated_at": "2026-11-07T11:59:28.545614+00:00"
 }
