@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:27:06.886667+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:27:11.274106+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 369, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 67, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 370, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 66, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -87,7 +87,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 52. Důvo
 | [Fyre 1080p CZ Titulky](https://prehraj.to/fyre-1080p-cz-titulky-mp4/4d5f4e9c4ceea675) (ID 30878931) | [Sdílej 29268462](https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4) | target_unavailable | 2026-11-07T03:58:38.730855+00:00 |
 | [Gary 4K CZ Titulky](https://prehraj.to/gary-4k-cz-titulky-mkv/b81386c337f5bcc0) (ID 30886904) | [Sdílej 34158854](https://sdilej.cz/34158854/gary-2026-2160p-cz.tit.mkv) | target_unavailable | 2026-11-07T09:53:34.251253+00:00 |
 | [Good Luck to You, Leo Grande 1080p CZ Titulky](https://prehraj.to/good-luck-to-you-leo-grande-1080p-cz-titulky-mkv/3733fbd177f4e082) (ID 30882377) | [Sdílej 31031957](https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv) | target_unavailable | 2026-11-07T05:49:45.738584+00:00 |
-| [Grease 4K CZ Titulky](https://prehraj.to/grease-4k-cz-titulky-mkv/fc50bf2fa2cb63f7) (ID 30855592) | [Sdílej 31103634](https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv) | target_unavailable | 2026-11-06T09:44:34.066242+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-07T14:17:03.689681+00:00 |
 | [Hoppers 4K CZ Titulky](https://prehraj.to/hoppers-4k-cz-titulky-mkv/bef6aaeb2441651e) (ID 30874854) | [Sdílej 34985034](https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv) | target_unavailable | 2026-11-07T00:57:14.468765+00:00 |
 | [Hostiles 1080p CZ Titulky](https://prehraj.to/hostiles-1080p-cz-titulky-mkv/500d7f06b70d4510) (ID 30870123) | [Sdílej 10314025](https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv) | target_unavailable | 2026-11-06T21:37:20.940875+00:00 |
