@@ -75461,17 +75461,19 @@
       }
     },
     "2402": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34406361",
+          "target_video_id": "30889617",
+          "permanent": false,
+          "attempted_at": "2026-11-07T11:54:17.877437+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34406361",
         "display_name": "Super 8 1080p CZ Dabing",
         "planned_at": "2026-11-07T11:48:43.560808+00:00"
-      },
-      "claim": {
-        "worker_id": "b68cbccae5b645848946c7c77cdd5e72-shard-0",
-        "claimed_at": "2026-11-07T11:48:43.760416+00:00",
-        "lease_expires_at": "2026-11-07T17:48:43.760416+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30889617",
       "prepared": {
@@ -125741,5 +125743,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:52:10.603380+00:00"
+  "updated_at": "2026-11-07T11:54:17.877477+00:00"
 }
