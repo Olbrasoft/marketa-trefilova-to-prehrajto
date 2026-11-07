@@ -76400,17 +76400,19 @@
       }
     },
     "2453": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29491674",
+          "target_video_id": "30892615",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:40:13.880951+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29491674",
         "display_name": "Jarhead 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:30:48.166452+00:00"
-      },
-      "claim": {
-        "worker_id": "a2ab20fae4cb4dbc8b786d63ae7aed7c-shard-0",
-        "claimed_at": "2026-11-07T14:30:48.479784+00:00",
-        "lease_expires_at": "2026-11-07T20:30:48.479784+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892615",
       "prepared": {
@@ -127166,5 +127168,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:31:40.114200+00:00"
+  "updated_at": "2026-11-07T14:40:13.880968+00:00"
 }
