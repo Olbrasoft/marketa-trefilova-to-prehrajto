@@ -486,7 +486,7 @@ Attach subtitles only after target processing has finished.
 | Sleep Tight (Mientras duermes) 720p CZ Titulky | 30880851 | https://sdilej.cz/22887994/zatimco-spis-2011-thriller-horor-drama-cz-tit.-hd-720p-.mkv | Complete: Czech subtitles verified |
 | The Siege of Jadotville 720p CZ Titulky | 30880856 | https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Good Luck to You, Leo Grande 1080p CZ Titulky | 30882377 | https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv | Complete: Czech subtitles verified |
-| American Murder: The Family Next Door 1080p CZ Titulky | 30884991 | https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv | Extract Czech track from exact source after processing |
+| American Murder: The Family Next Door 1080p CZ Titulky | 30884991 | https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv | Complete: Czech subtitles verified |
 | Cat People (1942) SD CZ Titulky | 30886593 | https://sdilej.cz/31611769/kocici-lide-drama-1942-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Gary 4K CZ Titulky | 30886904 | https://sdilej.cz/34158854/gary-2026-2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Stargate: The Ark of Truth 1080p CZ Titulky | 30888161 | https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv | Extract Czech track from exact source after processing |
