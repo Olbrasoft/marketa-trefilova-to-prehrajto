@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:48:21.941004+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:48:26.043057+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 400, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 34, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 401, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -99,7 +99,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 12. Důvo
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-07T13:57:20.864213+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-07T13:58:11.907221+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-07T13:57:55.190838+00:00 |
-| [The Siege of Jadotville 720p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-720p-cz-titulky-mkv/594afbb58e9fd23a) (ID 30880856) | [Sdílej 6557665](https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-07T04:59:26.492070+00:00 |
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T12:44:43.853746+00:00 |
 | [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T11:44:25.232641+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-07T14:37:43.998509+00:00 |
