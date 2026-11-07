@@ -74369,17 +74369,19 @@
       "attempts": []
     },
     "20030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34620903",
+          "target_video_id": "30885895",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:38:00.234047+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34620903",
         "display_name": "Letters to Santa (Listy do M.) SD CZ Dabing",
         "planned_at": "2026-11-07T08:31:09.404288+00:00"
-      },
-      "claim": {
-        "worker_id": "23c854ac549e4b3788546313fc8032ac-shard-0",
-        "claimed_at": "2026-11-07T08:31:09.928170+00:00",
-        "lease_expires_at": "2026-11-07T14:31:09.928170+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885895",
       "prepared": {
@@ -124229,5 +124231,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:36:12.657719+00:00"
+  "updated_at": "2026-11-07T08:38:00.234064+00:00"
 }
