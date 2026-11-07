@@ -64450,13 +64450,6 @@
           "source_id": "11088676",
           "target_video_id": "30819792",
           "permanent": false,
-          "attempted_at": "2026-11-07T04:09:12.896855+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11088676",
-          "target_video_id": "30819792",
-          "permanent": false,
           "attempted_at": "2026-11-07T04:42:12.879936+00:00"
         },
         {
@@ -64465,12 +64458,19 @@
           "target_video_id": "30819792",
           "permanent": false,
           "attempted_at": "2026-11-07T05:22:28.964275+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11088676",
+          "target_video_id": "30819792",
+          "permanent": false,
+          "attempted_at": "2026-11-07T05:53:41.608167+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-07T05:22:26.908680+00:00"
+        "planned_at": "2026-11-07T05:53:39.347042+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -73327,14 +73327,25 @@
       "last_plan": {
         "source_id": "33873102",
         "display_name": "How to Drown Dr. Mráček, the Lawyer (Jak utopit dr. Mráčka aneb Konec vodníků v Čechách) SD CZ Dabing",
-        "planned_at": "2026-11-07T05:53:33.268967+00:00"
+        "planned_at": "2026-11-07T05:53:39.602101+00:00"
+      },
+      "claim": {
+        "worker_id": "fe2a65c2f5a645eea81fee12a4a842c2-shard-0",
+        "claimed_at": "2026-11-07T05:53:40.186132+00:00",
+        "lease_expires_at": "2026-11-07T11:53:40.186132+00:00",
+        "run_id": "42338182103"
       }
     },
     "21573": {
       "attempts": []
     },
     "1877": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26207041",
+        "display_name": "Mixed by Erry 1080p CZ Dabing",
+        "planned_at": "2026-11-07T05:53:39.739346+00:00"
+      }
     },
     "25888": {
       "attempts": []
@@ -122879,5 +122890,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T05:53:36.069217+00:00"
+  "updated_at": "2026-11-07T05:53:41.608186+00:00"
 }
