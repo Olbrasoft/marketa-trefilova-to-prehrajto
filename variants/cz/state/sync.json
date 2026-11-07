@@ -29000,13 +29000,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:52:54.529318+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:48:01.731093+00:00"
         },
         {
@@ -29015,6 +29008,13 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-07T23:20:21.040109+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:51:42.220536+00:00"
         }
       ],
       "last_plan": {
@@ -29028,12 +29028,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-02T07:58:12.679475+00:00",
         "relay_source_id": "28442451"
-      },
-      "claim": {
-        "worker_id": "bdd377ce692740d0bdeccc8b97ee65aa-shard-0",
-        "claimed_at": "2026-11-07T23:51:40.090350+00:00",
-        "lease_expires_at": "2026-11-08T05:51:40.090350+00:00",
-        "run_id": "42420247810"
       }
     },
     "22988": {
@@ -36128,7 +36122,7 @@
       "last_plan": {
         "source_id": "11952213",
         "display_name": "Blow Out 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:20:25.976050+00:00"
+        "planned_at": "2026-11-07T23:51:41.712729+00:00"
       },
       "previous_target_id": "30742444",
       "prepared": {
@@ -36136,6 +36130,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T21:13:53.287139+00:00",
         "relay_source_id": "11952213"
+      },
+      "claim": {
+        "worker_id": "e543a56a13414d45ac90af0ccef63cc2-shard-0",
+        "claimed_at": "2026-11-07T23:51:42.082194+00:00",
+        "lease_expires_at": "2026-11-08T05:51:42.082194+00:00",
+        "run_id": "42420247810"
       }
     },
     "10749": {
@@ -80578,7 +80578,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:39.885838+00:00"
+        "planned_at": "2026-11-07T23:51:41.873698+00:00"
       }
     },
     "2196": {
@@ -132916,5 +132916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:40.264153+00:00"
+  "updated_at": "2026-11-07T23:51:42.220558+00:00"
 }
