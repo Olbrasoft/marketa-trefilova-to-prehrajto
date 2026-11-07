@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "31d681b108e04ed4a641798ac8e67ab6-shard-0",
+        "claimed_at": "2026-11-07T23:52:59.645023+00:00",
+        "lease_expires_at": "2026-11-08T05:52:59.645023+00:00",
+        "run_id": "42420247810"
       }
     },
     "37290": {
@@ -67011,13 +67017,6 @@
           "source_id": "22557019",
           "target_video_id": "30840608",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:55:08.509276+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22557019",
-          "target_video_id": "30840608",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:49:39.282302+00:00"
         },
         {
@@ -67026,12 +67025,19 @@
           "target_video_id": "30840608",
           "permanent": false,
           "attempted_at": "2026-11-07T23:22:10.142619+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22557019",
+          "target_video_id": "30840608",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:53:01.718210+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22557019",
         "display_name": "Red Rocket 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:22:08.583283+00:00"
+        "planned_at": "2026-11-07T23:53:00.127938+00:00"
       },
       "previous_target_id": "30840608",
       "prepared": {
@@ -80599,7 +80605,7 @@
       "last_plan": {
         "source_id": "30261838",
         "display_name": "Arthur the King 1440p CZ Dabing",
-        "planned_at": "2026-11-07T23:52:57.180717+00:00"
+        "planned_at": "2026-11-07T23:53:00.275472+00:00"
       }
     },
     "21094": {
@@ -132929,5 +132935,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:52:57.404540+00:00"
+  "updated_at": "2026-11-07T23:53:01.718232+00:00"
 }
