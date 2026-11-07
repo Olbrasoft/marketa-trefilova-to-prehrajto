@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "d35856f7b99b4f7283432b8d0456bd66-shard-0",
+        "claimed_at": "2026-11-07T18:12:28.550364+00:00",
+        "lease_expires_at": "2026-11-08T00:12:28.550364+00:00",
+        "run_id": "42395943512"
       }
     },
     "37290": {
@@ -64462,13 +64468,6 @@
           "source_id": "11088676",
           "target_video_id": "30819792",
           "permanent": false,
-          "attempted_at": "2026-11-07T16:00:10.741032+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11088676",
-          "target_video_id": "30819792",
-          "permanent": false,
           "attempted_at": "2026-11-07T16:37:09.404506+00:00"
         },
         {
@@ -64477,12 +64476,19 @@
           "target_video_id": "30819792",
           "permanent": false,
           "attempted_at": "2026-11-07T17:10:41.316541+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11088676",
+          "target_video_id": "30819792",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:12:30.354039+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-07T17:10:36.372840+00:00"
+        "planned_at": "2026-11-07T18:12:28.705114+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -78195,7 +78201,7 @@
       "last_plan": {
         "source_id": "34824819",
         "display_name": "Mr. Pip 1080p CZ Dabing",
-        "planned_at": "2026-11-07T18:12:26.337932+00:00"
+        "planned_at": "2026-11-07T18:12:28.939529+00:00"
       }
     },
     "1483": {
@@ -129317,5 +129323,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:12:26.531019+00:00"
+  "updated_at": "2026-11-07T18:12:30.354059+00:00"
 }
