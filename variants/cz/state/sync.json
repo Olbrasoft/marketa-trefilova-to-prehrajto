@@ -60468,17 +60468,19 @@
       }
     },
     "10940": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11710517",
+          "target_video_id": "30877124",
+          "permanent": false,
+          "attempted_at": "2026-11-07T02:55:19.417754+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11710517",
         "display_name": "The Night of the Generals 720p CZ Dabing",
         "planned_at": "2026-11-07T02:34:52.161462+00:00"
-      },
-      "claim": {
-        "worker_id": "d7860bf46c90464a83aa504342216c79-shard-0",
-        "claimed_at": "2026-11-07T02:34:52.444247+00:00",
-        "lease_expires_at": "2026-11-07T08:34:52.444247+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30877124",
       "prepared": {
@@ -121740,5 +121742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T02:36:14.526075+00:00"
+  "updated_at": "2026-11-07T02:55:19.417770+00:00"
 }
