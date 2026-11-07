@@ -75201,17 +75201,19 @@
       }
     },
     "2306": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28283823",
+          "target_video_id": "30888502",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:58:12.229681+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28283823",
         "display_name": "Easy A 1080p CZ Dabing",
         "planned_at": "2026-11-07T10:52:17.490668+00:00"
-      },
-      "claim": {
-        "worker_id": "624f47001d4b444392e1fb09c42cb431-shard-0",
-        "claimed_at": "2026-11-07T10:52:17.686722+00:00",
-        "lease_expires_at": "2026-11-07T16:52:17.686722+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30888502",
       "prepared": {
@@ -125307,5 +125309,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:53:16.894388+00:00"
+  "updated_at": "2026-11-07T10:58:12.229699+00:00"
 }
