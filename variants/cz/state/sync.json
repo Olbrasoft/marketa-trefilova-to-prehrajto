@@ -76617,17 +76617,19 @@
       }
     },
     "23731": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34784961",
+          "target_video_id": "30892987",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:59:12.852221+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34784961",
         "display_name": "Matilda (1996) 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:49:53.883574+00:00"
-      },
-      "claim": {
-        "worker_id": "a4b430b4725545f6b51bbc9d150fe2d1-shard-0",
-        "claimed_at": "2026-11-07T14:49:54.186019+00:00",
-        "lease_expires_at": "2026-11-07T20:49:54.186019+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892987",
       "prepared": {
@@ -127343,5 +127345,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:59:07.677365+00:00"
+  "updated_at": "2026-11-07T14:59:12.852238+00:00"
 }
