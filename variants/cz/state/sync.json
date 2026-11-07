@@ -74288,17 +74288,19 @@
       "attempts": []
     },
     "25849": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29541765",
+          "target_video_id": "30885773",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:26:32.243385+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29541765",
         "display_name": "Christmas Story SD CZ Dabing",
         "planned_at": "2026-11-07T08:24:46.055114+00:00"
-      },
-      "claim": {
-        "worker_id": "f6ce84c07ac84f988982b34145dead4d-shard-0",
-        "claimed_at": "2026-11-07T08:24:46.390117+00:00",
-        "lease_expires_at": "2026-11-07T14:24:46.390117+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885773",
       "prepared": {
@@ -124145,5 +124147,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:24:49.588824+00:00"
+  "updated_at": "2026-11-07T08:26:32.243400+00:00"
 }
