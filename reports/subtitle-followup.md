@@ -405,28 +405,28 @@ Attach subtitles only after target processing has finished.
 | Jane Eyre (2011) 1080p CZ Titulky | 30809107 | https://sdilej.cz/30832607/jana-eyrova-jane.eyre.2011.en.cz.sk.1080p.bluray.x264-amiable.mkv | Complete: Czech subtitles verified |
 | Paterson 1080p CZ Titulky | 30811761 | https://sdilej.cz/20609659/paterson-2016-1080p-h.264-audio-en-subtitles-cz.mkv | Complete: Czech subtitles verified |
 | Prince of the City 1080p CZ Titulky | 30809179 | https://sdilej.cz/20090323/prince-of-the-city-1981-1080p.-x264-titulky-cz.mkv | Complete: Czech subtitles verified |
-| Pale Rider 1080p CZ Titulky | 30816243 | https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv | Extract Czech track from exact source after processing |
+| Pale Rider 1080p CZ Titulky | 30816243 | https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv | Complete: Czech subtitles verified |
 | Decision to Leave (Heojil kyolshim) 4K CZ Titulky | 30814513 | https://sdilej.cz/33925676/decision.to.leave.2022.korean.2160p.4k.web.x265.10bit.aac5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
 | The Ear 1080p CZ Titulky | 30814728 | https://sdilej.cz/30099165/ucha.mkv | Complete: Czech subtitles verified |
 | Detroit SD CZ Titulky | 30816296 | https://sdilej.cz/11808687/detroit-cz.sub.mkv | Complete: Czech subtitles verified |
 | The Hand of God (È stata la mano di Dio) 1080p CZ Titulky | 30816443 | https://sdilej.cz/19193453/bozi-ruka-e-stata-la-mano-di-dio-1080p-2021-vlozene-cz-titulky-kst.mkv | Complete: Czech subtitles verified |
 | Nowhere Special 1080p CZ Titulky | 30818209 | https://sdilej.cz/18753727/nowhere.special.2020.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Deconstructing Harry SD CZ Titulky | 30817729 | https://sdilej.cz/35114279/pozor-na-harryho-1997-cz-titulky-600p-sd.mkv | Complete: Czech subtitles verified |
-| Loveable (Elskling) 1080p CZ Titulky | 30819315 | https://sdilej.cz/35402811/loveable.2024.norwegian.nordic.1080p.web-dl.dd5.1.10bit.x265-gaut.cz.tit.mkv | Extract Czech track from exact source after processing |
-| The Nightingale 1080p CZ Titulky | 30820099 | https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv | Extract Czech track from exact source after processing |
-| 24 Hour Party People 720p CZ Titulky | 30821368 | https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv | Extract Czech track from exact source after processing |
-| The Sea Wolf 1080p CZ Titulky | 30820306 | https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv | Extract Czech track from exact source after processing |
-| A Street Cat Named Bob 1080p CZ Titulky | 30822365 | https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv | Extract Czech track from exact source after processing |
-| 12th Man (Den 12. mann) (2017) 1080p CZ Titulky | 30822494 | https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| Song Sung Blue 1080p CZ Titulky | 30824468 | https://sdilej.cz/33348083/song-sung-blue-2025-cz-titulky.mp4 | Extract Czech track from exact source after processing |
-| A Million Miles Away 4K CZ Titulky | 30828699 | https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv | Extract Czech track from exact source after processing |
-| The Painter and the Thief 1080p CZ Titulky | 30829417 | https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| Little Boy 1080p CZ Titulky | 30830196 | https://sdilej.cz/16573618/little.boy.2015.1080p.brrip.x264.ac3-en-cz-tit.mkv | Extract Czech track from exact source after processing |
-| Uncle Frank 1080p CZ Titulky | 30831460 | https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
-| The Captain (Der Hauptmann) (2017) 1080p CZ Titulky | 30831408 | https://sdilej.cz/10699415/der-hauptmann-cz-titulky-fullhd-1080p.mkv | Extract Czech track from exact source after processing |
-| Butterflies (Kelebekler) 1080p CZ Titulky | 30833864 | https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv | Extract Czech track from exact source after processing |
-| Jin-Roh: The Wolf Brigade (人狼 JIN-ROH) SD CZ Titulky | 30833915 | https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv | Extract Czech track from exact source after processing |
-| I Am Heath Ledger SD CZ Titulky | 30834760 | https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv | Extract Czech track from exact source after processing |
+| Loveable (Elskling) 1080p CZ Titulky | 30819315 | https://sdilej.cz/35402811/loveable.2024.norwegian.nordic.1080p.web-dl.dd5.1.10bit.x265-gaut.cz.tit.mkv | Complete: Czech subtitles verified |
+| The Nightingale 1080p CZ Titulky | 30820099 | https://sdilej.cz/14136207/the.nightingale.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.sub.mkv | Complete: Czech subtitles verified |
+| 24 Hour Party People 720p CZ Titulky | 30821368 | https://sdilej.cz/32713510/nonstop-party-2002-cz-tit-720p.mkv | Complete: Czech subtitles verified |
+| The Sea Wolf 1080p CZ Titulky | 30820306 | https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv | Complete: Czech subtitles verified |
+| A Street Cat Named Bob 1080p CZ Titulky | 30822365 | https://sdilej.cz/34228623/kocour-bob-2016-1080p-en-sk-cz-dab.mkv | Complete: Czech subtitles verified |
+| 12th Man (Den 12. mann) (2017) 1080p CZ Titulky | 30822494 | https://sdilej.cz/9302798/den-12.-mann-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
+| Song Sung Blue 1080p CZ Titulky | 30824468 | https://sdilej.cz/33348083/song-sung-blue-2025-cz-titulky.mp4 | Complete: Czech subtitles verified |
+| A Million Miles Away 4K CZ Titulky | 30828699 | https://sdilej.cz/26864340/a.million.miles.away.2023.hdr.2160p.web.h265-accomplishedyak.mkv | Complete: Czech subtitles verified |
+| The Painter and the Thief 1080p CZ Titulky | 30829417 | https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv | Complete: Czech subtitles verified |
+| Little Boy 1080p CZ Titulky | 30830196 | https://sdilej.cz/16573618/little.boy.2015.1080p.brrip.x264.ac3-en-cz-tit.mkv | Complete: Czech subtitles verified |
+| Uncle Frank 1080p CZ Titulky | 30831460 | https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv | Complete: Czech subtitles verified |
+| The Captain (Der Hauptmann) (2017) 1080p CZ Titulky | 30831408 | https://sdilej.cz/10699415/der-hauptmann-cz-titulky-fullhd-1080p.mkv | Complete: Czech subtitles verified |
+| Butterflies (Kelebekler) 1080p CZ Titulky | 30833864 | https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv | Complete: Czech subtitles verified |
+| Jin-Roh: The Wolf Brigade (人狼 JIN-ROH) SD CZ Titulky | 30833915 | https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv | Complete: Czech subtitles verified |
+| I Am Heath Ledger SD CZ Titulky | 30834760 | https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv | Complete: Czech subtitles verified |
 | Reprise SD CZ Titulky | 30835226 | https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Arrhythmia SD CZ Titulky | 30835868 | https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi | Extract Czech track from exact source after processing |
 | Mardaani 1080p CZ Titulky | 30840183 | https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv | Extract Czech track from exact source after processing |
@@ -498,4 +498,4 @@ Attach subtitles only after target processing has finished.
 | Code 3 1080p CZ Titulky | 30890643 | https://sdilej.cz/32513243/code-3-2025-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | 71: Into the Fire (포화 속으로) 720p CZ Titulky | 30891751 | https://sdilej.cz/19963845/71-into-the-fire-2010-kor-bdrip.720p.x264.cz.en.tit.mkv | Extract Czech track from exact source after processing |
 | Batman: The Long Halloween, Part Two 1080p CZ Titulky | 30891824 | https://sdilej.cz/17778553/batman.the.long.halloween.part.two.2021.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
-| Hidden Kisses SD CZ Titulky | 30891960 | https://sdilej.cz/16922703/hidden-kisses-2016-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Hidden Kisses SD CZ Titulky | 30891960 | https://sdilej.cz/16922703/hidden-kisses-2016-cz-titulky.mkv | Complete: Czech subtitles verified |
