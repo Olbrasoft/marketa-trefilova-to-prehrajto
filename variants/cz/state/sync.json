@@ -8472,13 +8472,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-07T13:57:00.643326+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-07T14:30:26.908560+00:00"
         },
         {
@@ -8487,6 +8480,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-07T15:05:24.587206+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:39:58.881397+00:00"
         }
       ],
       "last_plan": {
@@ -8500,12 +8500,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "9841c15bf6e943918a1ec0b706fce605-shard-0",
-        "claimed_at": "2026-11-07T15:38:09.216042+00:00",
-        "lease_expires_at": "2026-11-07T21:38:09.216042+00:00",
-        "run_id": "42376609077"
       }
     },
     "29922": {
@@ -77020,7 +77014,18 @@
       "attempts": []
     },
     "2381": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26249483",
+        "display_name": "Bad Santa 1080p CZ Dabing",
+        "planned_at": "2026-11-07T15:39:33.541337+00:00"
+      },
+      "claim": {
+        "worker_id": "2aa6bd42d34d438e88cbeb46639bc6f7-shard-0",
+        "claimed_at": "2026-11-07T15:39:33.872872+00:00",
+        "lease_expires_at": "2026-11-07T21:39:33.872872+00:00",
+        "run_id": "42376609077"
+      }
     },
     "20115": {
       "attempts": []
@@ -127954,5 +127959,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:39:18.917711+00:00"
+  "updated_at": "2026-11-07T15:39:58.881416+00:00"
 }
