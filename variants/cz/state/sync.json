@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-06T22:33:48.517572+00:00"
+        "planned_at": "2026-11-07T00:52:00.407854+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "6edc3f079a30430cbbbf4955a106f203-shard-0",
+        "claimed_at": "2026-11-07T00:52:00.849886+00:00",
+        "lease_expires_at": "2026-11-07T06:52:00.849886+00:00",
+        "run_id": "42319503958"
       }
     },
     "29922": {
@@ -48136,17 +48142,19 @@
       "attempts": []
     },
     "27046": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34238328",
+          "target_video_id": "30874711",
+          "permanent": false,
+          "attempted_at": "2026-11-07T00:52:19.531675+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34238328",
         "display_name": "Venuto al mondo (Twice Born) SD CZ Dabing",
         "planned_at": "2026-11-07T00:46:39.845302+00:00"
-      },
-      "claim": {
-        "worker_id": "069eeea496ee4daba82e427a127b518d-shard-0",
-        "claimed_at": "2026-11-07T00:46:41.994613+00:00",
-        "lease_expires_at": "2026-11-07T06:46:41.994613+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30874711",
       "prepared": {
@@ -61152,7 +61160,7 @@
       "last_plan": {
         "source_id": "6598140",
         "display_name": "King Size (Kingsajz) SD CZ Dabing",
-        "planned_at": "2026-11-07T00:51:57.712345+00:00"
+        "planned_at": "2026-11-07T00:52:00.593219+00:00"
       }
     },
     "1937": {
@@ -120885,5 +120893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T00:51:58.705688+00:00"
+  "updated_at": "2026-11-07T00:52:19.531692+00:00"
 }
