@@ -49931,13 +49931,6 @@
           "source_id": "11203350",
           "target_video_id": "30775439",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:53:34.144402+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11203350",
-          "target_video_id": "30775439",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:48:26.363956+00:00"
         },
         {
@@ -49946,6 +49939,13 @@
           "target_video_id": "30775439",
           "permanent": false,
           "attempted_at": "2026-11-07T23:20:47.582353+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11203350",
+          "target_video_id": "30775439",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:52:01.375463+00:00"
         }
       ],
       "last_plan": {
@@ -49959,12 +49959,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-04T00:02:22.495709+00:00",
         "relay_source_id": "11203350"
-      },
-      "claim": {
-        "worker_id": "1ac38e9cb8f04e918450790caa6b88fb-shard-0",
-        "claimed_at": "2026-11-07T23:51:59.237049+00:00",
-        "lease_expires_at": "2026-11-08T05:51:59.237049+00:00",
-        "run_id": "42420247810"
       }
     },
     "30131": {
@@ -50725,7 +50719,7 @@
       "last_plan": {
         "source_id": "32819081",
         "display_name": "Die Hard 2 4K CZ Dabing",
-        "planned_at": "2026-11-07T23:20:47.219272+00:00"
+        "planned_at": "2026-11-07T23:52:00.895236+00:00"
       },
       "previous_target_id": "30776530",
       "prepared": {
@@ -50733,6 +50727,12 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-04T01:15:13.177284+00:00",
         "relay_source_id": "32819081"
+      },
+      "claim": {
+        "worker_id": "c471a1d5b0ea4a7b8acc9ec74738b84a-shard-0",
+        "claimed_at": "2026-11-07T23:52:01.252186+00:00",
+        "lease_expires_at": "2026-11-08T05:52:01.252186+00:00",
+        "run_id": "42420247810"
       }
     },
     "23950": {
@@ -80584,7 +80584,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:59.033709+00:00"
+        "planned_at": "2026-11-07T23:52:01.044749+00:00"
       }
     },
     "2196": {
@@ -132922,5 +132922,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:59.360384+00:00"
+  "updated_at": "2026-11-07T23:52:01.375486+00:00"
 }
