@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T13:56:32.258209+00:00
+Poslední aktualizace (UTC): 2026-11-07T13:57:20.864263+00:00
 
 Zkontrolováno videí: 497. Další stránka kontroly: 0.
 
@@ -147,7 +147,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [The Descent 1080p CZ Titulky](https://prehraj.to/the-descent-1080p-cz-titulky-mkv/8a6e19eb194817c3) (ID 30857275) | [Sdílej 22441657](https://sdilej.cz/22441657/pad-do-tmy-cz-1080p-juve.mkv) | target_unavailable | 2026-11-06T11:16:24.580691+00:00 |
 | [The Doors 1080p CZ Titulky](https://prehraj.to/the-doors-1080p-cz-titulky-mkv/f8c29aa27371821c) (ID 30870310) | [Sdílej 6416335](https://sdilej.cz/6416335/the-doors-1991-.1080p.h264.ac3-5.1-eng-ceske-titulky.mkv) | target_unavailable | 2026-11-06T21:47:30.186903+00:00 |
 | [The Express 1080p CZ Titulky](https://prehraj.to/the-express-1080p-cz-titulky-mkv/b4a06b7a8b8242f8) (ID 30889083) | [Sdílej 34506932](https://sdilej.cz/34506932/expres-2008-cz-dabing-1080p-fhd.mkv) | target_unavailable | 2026-11-07T11:24:11.818013+00:00 |
-| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T14:28:04.402565+00:00 |
+| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-07T13:57:20.864213+00:00 |
 | [The Founder 1080p CZ Titulky](https://prehraj.to/the-founder-1080p-cz-titulky-mkv/2ccea24720758639) (ID 30860047) | [Sdílej 21019911](https://sdilej.cz/21019911/the-founder-2016-hevc-1080p-cz-dabing.mkv) | target_unavailable | 2026-11-06T13:27:42.037103+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-05T14:28:59.524999+00:00 |
 | [The Life Aquatic with Steve Zissou 1080p CZ Titulky](https://prehraj.to/the-life-aquatic-with-steve-zissou-1080p-cz-titulky-mkv/aa7d640149f0bf2d) (ID 30858164) | [Sdílej 23537039](https://sdilej.cz/23537039/the-life-aquatic-with-steve-zissou-2004-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-06T11:56:54.895196+00:00 |
