@@ -78348,17 +78348,19 @@
       }
     },
     "2460": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21693134",
+          "target_video_id": "30896140",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:37:26.692362+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21693134",
         "display_name": "The Edge 1080p CZ Dabing",
         "planned_at": "2026-11-07T18:29:34.208327+00:00"
-      },
-      "claim": {
-        "worker_id": "f90de162569d4b6a9c51dce0abc7d8bc-shard-0",
-        "claimed_at": "2026-11-07T18:29:34.512833+00:00",
-        "lease_expires_at": "2026-11-08T00:29:34.512833+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896140",
       "prepared": {
@@ -129785,5 +129787,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:37:25.229187+00:00"
+  "updated_at": "2026-11-07T18:37:26.692383+00:00"
 }
