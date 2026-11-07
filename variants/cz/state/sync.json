@@ -25008,7 +25008,13 @@
       "last_plan": {
         "source_id": "35139207",
         "display_name": "Kontroll 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:23:00.136702+00:00"
+        "planned_at": "2026-11-07T23:23:02.113497+00:00"
+      },
+      "claim": {
+        "worker_id": "373aa4429d294cf9ac5fa467f67957dc-shard-0",
+        "claimed_at": "2026-11-07T23:23:02.303311+00:00",
+        "lease_expires_at": "2026-11-08T05:23:02.303311+00:00",
+        "run_id": "42420247810"
       }
     },
     "19313": {
@@ -80190,6 +80196,13 @@
           "target_video_id": "30899674",
           "permanent": false,
           "attempted_at": "2026-11-07T22:50:27.239126+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32225296",
+          "target_video_id": "30899674",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:23:02.537072+00:00"
         }
       ],
       "last_plan": {
@@ -80203,12 +80216,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T22:03:41.217073+00:00",
         "relay_source_id": "32225296"
-      },
-      "claim": {
-        "worker_id": "ad5bf8ac4be1461dbf54b6ca88cde7c5-shard-0",
-        "claimed_at": "2026-11-07T23:23:00.332243+00:00",
-        "lease_expires_at": "2026-11-08T05:23:00.332243+00:00",
-        "run_id": "42420247810"
       }
     },
     "10739": {
@@ -132812,5 +132819,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:23:00.432737+00:00"
+  "updated_at": "2026-11-07T23:23:02.537089+00:00"
 }
