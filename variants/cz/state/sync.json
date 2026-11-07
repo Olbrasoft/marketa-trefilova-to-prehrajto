@@ -21615,13 +21615,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:52:31.927986+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:47:37.455683+00:00"
         },
         {
@@ -21630,6 +21623,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-07T23:19:59.909429+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:51:27.607974+00:00"
         }
       ],
       "last_plan": {
@@ -21643,12 +21643,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
-      },
-      "claim": {
-        "worker_id": "8d77b464766b47e59351d69ee683baeb-shard-0",
-        "claimed_at": "2026-11-07T23:51:25.437368+00:00",
-        "lease_expires_at": "2026-11-08T05:51:25.437368+00:00",
-        "run_id": "42420247810"
       }
     },
     "677": {
@@ -27360,7 +27354,7 @@
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
-        "planned_at": "2026-11-07T23:20:01.382284+00:00"
+        "planned_at": "2026-11-07T23:51:27.092958+00:00"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -27368,6 +27362,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
+      },
+      "claim": {
+        "worker_id": "45c9d22caf9f479caa4230c00bd02104-shard-0",
+        "claimed_at": "2026-11-07T23:51:27.437476+00:00",
+        "lease_expires_at": "2026-11-08T05:51:27.437476+00:00",
+        "run_id": "42420247810"
       }
     },
     "12333": {
@@ -80578,7 +80578,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:25.233790+00:00"
+        "planned_at": "2026-11-07T23:51:27.238570+00:00"
       }
     },
     "2196": {
@@ -132916,5 +132916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:25.569295+00:00"
+  "updated_at": "2026-11-07T23:51:27.607997+00:00"
 }
