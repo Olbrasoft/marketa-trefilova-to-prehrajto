@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "266c533be2d74cd98e0fd7db2b62283d-shard-0",
+        "claimed_at": "2026-11-07T09:26:24.230394+00:00",
+        "lease_expires_at": "2026-11-07T15:26:24.230394+00:00",
+        "run_id": "42355221442"
       }
     },
     "37290": {
@@ -73682,13 +73688,6 @@
           "source_id": "24984582",
           "target_video_id": "30883462",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:21:14.544463+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24984582",
-          "target_video_id": "30883462",
-          "permanent": false,
           "attempted_at": "2026-11-07T07:58:38.998316+00:00"
         },
         {
@@ -73697,12 +73696,19 @@
           "target_video_id": "30883462",
           "permanent": false,
           "attempted_at": "2026-11-07T08:31:01.568647+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24984582",
+          "target_video_id": "30883462",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:26:25.874972+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24984582",
         "display_name": "Christmas by Starlight 1080p CZ Dabing",
-        "planned_at": "2026-11-07T08:30:57.939434+00:00"
+        "planned_at": "2026-11-07T09:26:24.319473+00:00"
       },
       "previous_target_id": "30883462",
       "prepared": {
@@ -74732,7 +74738,7 @@
       "last_plan": {
         "source_id": "22405080",
         "display_name": "The Amazing Spider-Man 1080p CZ Dabing",
-        "planned_at": "2026-11-07T09:26:22.627415+00:00"
+        "planned_at": "2026-11-07T09:26:24.463619+00:00"
       }
     },
     "2449": {
@@ -124676,5 +124682,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:26:22.627435+00:00"
+  "updated_at": "2026-11-07T09:26:25.874994+00:00"
 }
