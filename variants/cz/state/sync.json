@@ -72898,17 +72898,19 @@
       "attempts": []
     },
     "22481": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31573233",
+          "target_video_id": "30879696",
+          "permanent": false,
+          "attempted_at": "2026-11-07T04:21:07.654974+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31573233",
         "display_name": "Occupation in 26 Pictures SD CZ Dabing",
         "planned_at": "2026-11-07T04:19:06.452140+00:00"
-      },
-      "claim": {
-        "worker_id": "cc7b77651ed54c0f8169bda8a34ceac5-shard-0",
-        "claimed_at": "2026-11-07T04:19:06.712105+00:00",
-        "lease_expires_at": "2026-11-07T10:19:06.712105+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30879696",
       "prepared": {
@@ -122551,5 +122553,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T04:19:12.344528+00:00"
+  "updated_at": "2026-11-07T04:21:07.654991+00:00"
 }
