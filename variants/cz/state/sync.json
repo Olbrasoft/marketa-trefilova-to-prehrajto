@@ -76582,17 +76582,19 @@
       }
     },
     "2258": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29053714",
+          "target_video_id": "30892986",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:58:24.152273+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29053714",
         "display_name": "Last Night in Soho 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:49:51.508081+00:00"
-      },
-      "claim": {
-        "worker_id": "df29f365c4424688bbbf22e7978ec9a6-shard-0",
-        "claimed_at": "2026-11-07T14:49:51.809043+00:00",
-        "lease_expires_at": "2026-11-07T20:49:51.809043+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892986",
       "prepared": {
@@ -127329,5 +127331,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:54:10.092823+00:00"
+  "updated_at": "2026-11-07T14:58:24.152289+00:00"
 }
