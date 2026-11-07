@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:18:36.032501+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-07T07:56:21.902133+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-07T08:28:52.748154+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:24:52.076526+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "c8a6bd745e2f4c23a42670f46c7f973e-shard-0",
-        "claimed_at": "2026-11-07T09:24:49.548119+00:00",
-        "lease_expires_at": "2026-11-07T15:24:49.548119+00:00",
-        "run_id": "42355221442"
       }
     },
     "52": {
@@ -13958,7 +13952,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-07T08:28:52.516708+00:00"
+        "planned_at": "2026-11-07T09:24:51.106854+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -13966,6 +13960,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "4c24660979974f8b8ed01bd75c114525-shard-0",
+        "claimed_at": "2026-11-07T09:24:51.409223+00:00",
+        "lease_expires_at": "2026-11-07T15:24:51.409223+00:00",
+        "run_id": "42355221442"
       }
     },
     "22047": {
@@ -74738,7 +74738,7 @@
       "last_plan": {
         "source_id": "22405080",
         "display_name": "The Amazing Spider-Man 1080p CZ Dabing",
-        "planned_at": "2026-11-07T09:24:49.366655+00:00"
+        "planned_at": "2026-11-07T09:24:51.240437+00:00"
       }
     },
     "2449": {
@@ -124682,5 +124682,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:24:49.715015+00:00"
+  "updated_at": "2026-11-07T09:24:52.076548+00:00"
 }
