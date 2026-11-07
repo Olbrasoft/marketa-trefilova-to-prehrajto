@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:37:10.393502+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:37:14.146958+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 383, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 53, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 384, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 52, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -117,7 +117,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 32. Důvo
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T12:44:43.853746+00:00 |
 | [The Unforgivable 1080p CZ Titulky](https://prehraj.to/the-unforgivable-1080p-cz-titulky-mkv/4f00b428b85630dc) (ID 30866709) | [Sdílej 19114080](https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv) | target_unavailable | 2026-11-06T18:55:20.655462+00:00 |
 | [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T11:44:25.232641+00:00 |
-| [They Live 1080p CZ Titulky](https://prehraj.to/they-live-1080p-cz-titulky-mkv/0c3f07087d446cdb) (ID 30862600) | [Sdílej 30541445](https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv) | target_unavailable | 2026-11-06T15:52:04.266280+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-06T20:36:32.109565+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T13:58:49.384332+00:00 |
 | [Where the Crawdads Sing 720p CZ Titulky](https://prehraj.to/where-the-crawdads-sing-720p-cz-titulky-mkv/59bc0350ef3385d6) (ID 30863680) | [Sdílej 26751974](https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv) | target_unavailable | 2026-11-06T16:32:24.828156+00:00 |
