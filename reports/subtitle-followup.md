@@ -504,3 +504,4 @@ Attach subtitles only after target processing has finished.
 | Rye Lane 1080p CZ Titulky | 30893092 | https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Broken (2012) 720p CZ Titulky | 30894019 | https://sdilej.cz/31255006/rozbity-svet-2012-cztitulky.mkv | Extract Czech track from exact source after processing |
 | No Game No Life: Zero (ノーゲーム・ノーライフ ゼロ) 720p CZ Titulky | 30893853 | https://sdilej.cz/10110683/-lkcsr-no-game-no-life-zero-cz-sub-.mkv | Complete: Czech subtitles verified |
+| Cactus Flower 1080p CZ Titulky | 30894652 | https://sdilej.cz/35402062/cactus-flower-1969-1-.cz.sub.mkv | Extract Czech track from exact source after processing |
