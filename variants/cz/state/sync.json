@@ -80328,17 +80328,19 @@
       }
     },
     "2466": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13362814",
+          "target_video_id": "30900843",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:12:49.787433+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13362814",
         "display_name": "Undisputed II: Last Man Standing 1080p CZ Dabing",
         "planned_at": "2026-11-07T23:01:43.958761+00:00"
-      },
-      "claim": {
-        "worker_id": "87bbdf378dc54077afe93f38315bf859-shard-0",
-        "claimed_at": "2026-11-07T23:01:44.142449+00:00",
-        "lease_expires_at": "2026-11-08T05:01:44.142449+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30900843",
       "prepared": {
@@ -132506,5 +132508,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:09:33.705734+00:00"
+  "updated_at": "2026-11-07T23:12:49.787451+00:00"
 }
