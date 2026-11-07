@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-07T16:21:22.557758+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-07T16:54:06.059099+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-07T17:25:02.468733+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:11:32.429928+00:00"
         }
       ],
       "last_plan": {
@@ -3193,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-07T17:25:04.622812+00:00"
+        "planned_at": "2026-11-07T18:11:30.954912+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "5c90af64d95b4d9aa5cebd6cae4192b6-shard-0",
+        "claimed_at": "2026-11-07T18:11:31.320366+00:00",
+        "lease_expires_at": "2026-11-08T00:11:31.320366+00:00",
+        "run_id": "42395943512"
       }
     },
     "31551": {
@@ -27073,7 +27079,7 @@
       "last_plan": {
         "source_id": "17633321",
         "display_name": "Rurouni Kenshin: The Final (Rurôni Kenshin: Sai shûshô - The Final) 1080p CZ Titulky",
-        "planned_at": "2026-11-07T18:11:28.729535+00:00"
+        "planned_at": "2026-11-07T18:11:31.171445+00:00"
       }
     },
     "715": {
@@ -81168,5 +81174,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:11:28.729557+00:00"
+  "updated_at": "2026-11-07T18:11:32.429960+00:00"
 }
