@@ -8472,13 +8472,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-07T04:44:33.481708+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-07T05:25:05.173494+00:00"
         },
         {
@@ -8487,6 +8480,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-07T06:03:36.063429+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:40:15.521473+00:00"
         }
       ],
       "last_plan": {
@@ -8500,12 +8500,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "61e7d5a96673423ea5fe9cc03ed2c5eb-shard-0",
-        "claimed_at": "2026-11-07T06:38:32.064470+00:00",
-        "lease_expires_at": "2026-11-07T12:38:32.064470+00:00",
-        "run_id": "42338182103"
       }
     },
     "29922": {
@@ -16367,7 +16361,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-07T06:03:41.508441+00:00"
+        "planned_at": "2026-11-07T06:40:14.233735+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16375,6 +16369,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "b3ecaa2b97264ecaad7d8f146c2f68a2-shard-0",
+        "claimed_at": "2026-11-07T06:40:15.000382+00:00",
+        "lease_expires_at": "2026-11-07T12:40:15.000382+00:00",
+        "run_id": "42338182103"
       }
     },
     "12843": {
@@ -73612,7 +73612,7 @@
       "last_plan": {
         "source_id": "24984582",
         "display_name": "Christmas by Starlight 1080p CZ Dabing",
-        "planned_at": "2026-11-07T06:40:08.774300+00:00"
+        "planned_at": "2026-11-07T06:40:14.699162+00:00"
       }
     },
     "21479": {
@@ -123254,5 +123254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:40:12.245388+00:00"
+  "updated_at": "2026-11-07T06:40:15.521491+00:00"
 }
