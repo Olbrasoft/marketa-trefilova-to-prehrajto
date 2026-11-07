@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:07:42.161186+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:07:45.928657+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 345, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 92, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 346, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 91, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -154,7 +154,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 91. Důvo
 | [They Live 1080p CZ Titulky](https://prehraj.to/they-live-1080p-cz-titulky-mkv/0c3f07087d446cdb) (ID 30862600) | [Sdílej 30541445](https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv) | target_unavailable | 2026-11-06T15:52:04.266280+00:00 |
 | [Triangle of Sadness SD CZ Titulky](https://prehraj.to/triangle-of-sadness-sd-cz-titulky-mkv/e6d63e6f92e8c1ce) (ID 30858300) | [Sdílej 24142175](https://sdilej.cz/24142175/trojuhelnik-smutku-triangle.of.sadness.2022.720p.amzn.web-dl.ddp5.1.h.264-smurf-cz-titulky-.mkv) | target_unavailable | 2026-11-06T11:57:00.190158+00:00 |
 | [Truman 1080p CZ Titulky](https://prehraj.to/truman-1080p-cz-titulky-mkv/359785e05a928401) (ID 30840252) | [Sdílej 11718608](https://sdilej.cz/11718608/truman.2015.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-06T01:19:53.111888+00:00 |
-| [Uncle Frank 1080p CZ Titulky](https://prehraj.to/uncle-frank-1080p-cz-titulky-mkv/faa444e55ebf22a2) (ID 30831460) | [Sdílej 14813697](https://sdilej.cz/14813697/uncle.frank.2020.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-11-05T20:52:56.357973+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-06T20:36:32.109565+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T13:58:49.384332+00:00 |
 | [Where the Crawdads Sing 720p CZ Titulky](https://prehraj.to/where-the-crawdads-sing-720p-cz-titulky-mkv/59bc0350ef3385d6) (ID 30863680) | [Sdílej 26751974](https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv) | target_unavailable | 2026-11-06T16:32:24.828156+00:00 |
