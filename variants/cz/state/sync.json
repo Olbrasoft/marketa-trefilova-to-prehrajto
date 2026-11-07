@@ -73369,13 +73369,6 @@
           "source_id": "31393436",
           "target_video_id": "30882162",
           "permanent": false,
-          "attempted_at": "2026-11-07T08:18:44.756810+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31393436",
-          "target_video_id": "30882162",
-          "permanent": false,
           "attempted_at": "2026-11-07T08:53:40.308037+00:00"
         },
         {
@@ -73384,12 +73377,19 @@
           "target_video_id": "30882162",
           "permanent": false,
           "attempted_at": "2026-11-07T09:27:04.821211+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31393436",
+          "target_video_id": "30882162",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:02:55.436942+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31393436",
         "display_name": "Run Boy Run (Lauf Junge lauf) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T09:27:03.332992+00:00"
+        "planned_at": "2026-11-07T10:02:54.018321+00:00"
       },
       "previous_target_id": "30882162",
       "prepared": {
@@ -74929,11 +74929,22 @@
       "last_plan": {
         "source_id": "24540233",
         "display_name": "Top Gun 4K CZ Dabing",
-        "planned_at": "2026-11-07T10:02:51.228275+00:00"
+        "planned_at": "2026-11-07T10:02:54.144829+00:00"
+      },
+      "claim": {
+        "worker_id": "9d32f18c055944bd9dba653a99b486f5-shard-0",
+        "claimed_at": "2026-11-07T10:02:54.444677+00:00",
+        "lease_expires_at": "2026-11-07T16:02:54.444677+00:00",
+        "run_id": "42355221442"
       }
     },
     "2326": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28037839",
+        "display_name": "We're the Millers 1080p CZ Dabing",
+        "planned_at": "2026-11-07T10:02:54.214807+00:00"
+      }
     },
     "2314": {
       "attempts": []
@@ -124850,5 +124861,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:02:52.466061+00:00"
+  "updated_at": "2026-11-07T10:02:55.436957+00:00"
 }
