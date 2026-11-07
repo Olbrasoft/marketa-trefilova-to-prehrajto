@@ -72635,17 +72635,19 @@
       }
     },
     "32317": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34849822",
+          "target_video_id": "30896044",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:32:03.622151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34849822",
         "display_name": "Fong Sai-yuk (方世玉) 1080p CZ Dabing",
         "planned_at": "2026-11-07T18:21:48.548471+00:00"
-      },
-      "claim": {
-        "worker_id": "af3679c371c246488fccb61bc118a696-shard-0",
-        "claimed_at": "2026-11-07T18:21:48.867336+00:00",
-        "lease_expires_at": "2026-11-08T00:21:48.867336+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896044",
       "prepared": {
@@ -129752,5 +129754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:29:37.652738+00:00"
+  "updated_at": "2026-11-07T18:32:03.622172+00:00"
 }
