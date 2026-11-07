@@ -25602,17 +25602,19 @@
       "attempts": []
     },
     "19803": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22887994",
+          "target_video_id": "30880851",
+          "permanent": false,
+          "attempted_at": "2026-11-07T05:33:23.436782+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22887994",
         "display_name": "Sleep Tight (Mientras duermes) 720p CZ Titulky",
         "planned_at": "2026-11-07T04:58:57.758279+00:00"
-      },
-      "claim": {
-        "worker_id": "6ef85159d7684f678fa0dce968d19f46-shard-0",
-        "claimed_at": "2026-11-07T04:58:58.179479+00:00",
-        "lease_expires_at": "2026-11-07T10:58:58.179479+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30880851",
       "prepared": {
@@ -78234,5 +78236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T05:26:47.995811+00:00"
+  "updated_at": "2026-11-07T05:33:23.436798+00:00"
 }
