@@ -75857,17 +75857,19 @@
       }
     },
     "2323": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32217632",
+          "target_video_id": "30890744",
+          "permanent": false,
+          "attempted_at": "2026-11-07T12:56:52.335187+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32217632",
         "display_name": "The Adjustment Bureau 1080p CZ Dabing",
         "planned_at": "2026-11-07T12:51:39.943133+00:00"
-      },
-      "claim": {
-        "worker_id": "151728f2dc0346f495f1dedc78a79715-shard-0",
-        "claimed_at": "2026-11-07T12:51:40.125674+00:00",
-        "lease_expires_at": "2026-11-07T18:51:40.125674+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30890744",
       "prepared": {
@@ -126257,5 +126259,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:51:44.313501+00:00"
+  "updated_at": "2026-11-07T12:56:52.335203+00:00"
 }
