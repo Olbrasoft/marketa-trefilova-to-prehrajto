@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:56:07.149435+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-07T08:28:32.292290+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-07T09:23:17.393189+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:00:29.985593+00:00"
         }
       ],
       "last_plan": {
@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T09:23:02.082095+00:00"
+        "planned_at": "2026-11-07T10:00:28.110507+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "42c89ca549b641b5aa85db21ff493401-shard-0",
+        "claimed_at": "2026-11-07T10:00:28.446135+00:00",
+        "lease_expires_at": "2026-11-07T16:00:28.446135+00:00",
+        "run_id": "42355221442"
       }
     },
     "29922": {
@@ -74906,7 +74912,7 @@
       "last_plan": {
         "source_id": "34900816",
         "display_name": "The Devil Wears Prada 4K CZ Dabing",
-        "planned_at": "2026-11-07T10:00:26.631662+00:00"
+        "planned_at": "2026-11-07T10:00:28.254760+00:00"
       }
     },
     "2423": {
@@ -124830,5 +124836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:00:26.631682+00:00"
+  "updated_at": "2026-11-07T10:00:29.985612+00:00"
 }
