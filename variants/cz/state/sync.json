@@ -76843,17 +76843,19 @@
       }
     },
     "18141": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26573384",
+          "target_video_id": "30893363",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:24:19.944626+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26573384",
         "display_name": "Buried 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:18:49.151316+00:00"
-      },
-      "claim": {
-        "worker_id": "1ca8ee3da342460b9ac3ace5f97c703c-shard-0",
-        "claimed_at": "2026-11-07T15:18:49.477127+00:00",
-        "lease_expires_at": "2026-11-07T21:18:49.477127+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893363",
       "prepared": {
@@ -127847,5 +127849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:24:14.966636+00:00"
+  "updated_at": "2026-11-07T15:24:19.944649+00:00"
 }
