@@ -25514,17 +25514,19 @@
       "attempts": []
     },
     "21046": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29268462",
+          "target_video_id": "30878931",
+          "permanent": false,
+          "attempted_at": "2026-11-07T04:08:45.250778+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29268462",
         "display_name": "Fyre 1080p CZ Titulky",
         "planned_at": "2026-11-07T03:57:51.686342+00:00"
-      },
-      "claim": {
-        "worker_id": "8b32b280e31e4ae7b7863f0c019ed5be-shard-0",
-        "claimed_at": "2026-11-07T03:57:51.749372+00:00",
-        "lease_expires_at": "2026-11-07T09:57:51.749372+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30878931",
       "prepared": {
@@ -77934,5 +77936,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:57:54.764403+00:00"
+  "updated_at": "2026-11-07T04:08:45.250810+00:00"
 }
