@@ -38618,13 +38618,6 @@
           "source_id": "34784954",
           "target_video_id": "30745770",
           "permanent": false,
-          "attempted_at": "2026-11-07T03:35:37.976677+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34784954",
-          "target_video_id": "30745770",
-          "permanent": false,
           "attempted_at": "2026-11-07T04:12:27.437780+00:00"
         },
         {
@@ -38633,6 +38626,13 @@
           "target_video_id": "30745770",
           "permanent": false,
           "attempted_at": "2026-11-07T04:46:28.995546+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784954",
+          "target_video_id": "30745770",
+          "permanent": false,
+          "attempted_at": "2026-11-07T05:27:02.471355+00:00"
         }
       ],
       "last_plan": {
@@ -42867,7 +42867,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrinth 4K CZ Dabing",
-        "planned_at": "2026-11-07T04:46:31.766482+00:00"
+        "planned_at": "2026-11-07T05:27:01.313988+00:00"
       },
       "previous_target_id": "30756113",
       "prepared": {
@@ -42875,6 +42875,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-03T08:20:54.807935+00:00",
         "relay_source_id": "34146117"
+      },
+      "claim": {
+        "worker_id": "2f9394e412d74d94891a926cd38bf323-shard-0",
+        "claimed_at": "2026-11-07T05:27:01.920886+00:00",
+        "lease_expires_at": "2026-11-07T11:27:01.920886+00:00",
+        "run_id": "42338182103"
       }
     },
     "20525": {
@@ -73198,7 +73204,7 @@
       "last_plan": {
         "source_id": "34864859",
         "display_name": "Play 1080p CZ Dabing",
-        "planned_at": "2026-11-07T05:26:59.406127+00:00"
+        "planned_at": "2026-11-07T05:27:01.545313+00:00"
       }
     },
     "35525": {
@@ -122779,5 +122785,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T05:26:59.602888+00:00"
+  "updated_at": "2026-11-07T05:27:02.471372+00:00"
 }
