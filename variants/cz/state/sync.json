@@ -61150,17 +61150,19 @@
       }
     },
     "11759": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6598140",
+          "target_video_id": "30874926",
+          "permanent": false,
+          "attempted_at": "2026-11-07T00:58:04.424899+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6598140",
         "display_name": "King Size (Kingsajz) SD CZ Dabing",
         "planned_at": "2026-11-07T00:55:29.709467+00:00"
-      },
-      "claim": {
-        "worker_id": "c8c855ea08c54989b0bd73e2429b1baa-shard-0",
-        "claimed_at": "2026-11-07T00:55:29.961199+00:00",
-        "lease_expires_at": "2026-11-07T06:55:29.961199+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30874926",
       "prepared": {
@@ -120970,5 +120972,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T00:55:32.984631+00:00"
+  "updated_at": "2026-11-07T00:58:04.424914+00:00"
 }
