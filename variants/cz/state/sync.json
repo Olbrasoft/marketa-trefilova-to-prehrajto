@@ -78397,17 +78397,19 @@
       }
     },
     "2399": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25544524",
+          "target_video_id": "30896184",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:48:31.252297+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25544524",
         "display_name": "The Words 1080p CZ Dabing",
         "planned_at": "2026-11-07T18:32:07.843002+00:00"
-      },
-      "claim": {
-        "worker_id": "9876f7fab1604fdc8c404ecd4c20e1a2-shard-0",
-        "claimed_at": "2026-11-07T18:32:08.161033+00:00",
-        "lease_expires_at": "2026-11-08T00:32:08.161033+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896184",
       "prepared": {
@@ -129853,5 +129855,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:48:29.693463+00:00"
+  "updated_at": "2026-11-07T18:48:31.252333+00:00"
 }
