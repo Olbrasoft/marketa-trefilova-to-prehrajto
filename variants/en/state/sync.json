@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:51:11.923500+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:45:49.422964+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-07T23:17:39.855637+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:49:56.983263+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "37b2eabce28449ff9a35fa4ee8fdaeb5-shard-0",
-        "claimed_at": "2026-11-07T23:49:54.090239+00:00",
-        "lease_expires_at": "2026-11-08T05:49:54.090239+00:00",
-        "run_id": "42420247810"
       }
     },
     "108": {
@@ -16311,7 +16305,7 @@
       "last_plan": {
         "source_id": "13881903",
         "display_name": "Volhynia (Wołyń) 720p CZ Titulky",
-        "planned_at": "2026-11-07T23:17:43.204851+00:00"
+        "planned_at": "2026-11-07T23:49:56.190715+00:00"
       },
       "previous_target_id": "30745166",
       "prepared": {
@@ -16319,6 +16313,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-02T23:48:48.234894+00:00",
         "relay_source_id": "13881903"
+      },
+      "claim": {
+        "worker_id": "89223e01b9ad4bf2aad0265876f36068-shard-0",
+        "claimed_at": "2026-11-07T23:49:56.333780+00:00",
+        "lease_expires_at": "2026-11-08T05:49:56.333780+00:00",
+        "run_id": "42420247810"
       }
     },
     "31841": {
@@ -82873,5 +82873,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:49:54.171880+00:00"
+  "updated_at": "2026-11-07T23:49:56.983282+00:00"
 }
