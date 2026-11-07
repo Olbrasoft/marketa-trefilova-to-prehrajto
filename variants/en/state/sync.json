@@ -25143,17 +25143,19 @@
       "attempts": []
     },
     "28364": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34985034",
+          "target_video_id": "30874854",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:16:53.827867+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34985034",
         "display_name": "Hoppers 4K CZ Titulky",
         "planned_at": "2026-11-07T00:53:09.152248+00:00"
-      },
-      "claim": {
-        "worker_id": "cb3840727075411e819e59a45a965152-shard-0",
-        "claimed_at": "2026-11-07T00:53:09.218632+00:00",
-        "lease_expires_at": "2026-11-07T06:53:09.218632+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30874854",
       "prepared": {
@@ -77405,5 +77407,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T01:05:21.894056+00:00"
+  "updated_at": "2026-11-07T01:16:53.827884+00:00"
 }
