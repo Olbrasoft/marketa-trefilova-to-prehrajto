@@ -77637,17 +77637,19 @@
       }
     },
     "2415": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33757636",
+          "reason": "Request failed for https://sdilej.cz/33757636/posledni-skaut-1991-akcni-krimi-usa-bruce-willis-czdab.uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:49:46.455464+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33757636",
         "display_name": "The Last Boy Scout 4K CZ Dabing",
         "planned_at": "2026-11-07T16:48:58.880606+00:00"
-      },
-      "claim": {
-        "worker_id": "12b5736a96ed4d85977d1544b45320be-shard-0",
-        "claimed_at": "2026-11-07T16:48:59.242196+00:00",
-        "lease_expires_at": "2026-11-07T22:48:59.242196+00:00",
-        "run_id": "42376609077"
       }
     },
     "2177": {
@@ -128624,5 +128626,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:48:59.242222+00:00"
+  "updated_at": "2026-11-07T16:49:46.455482+00:00"
 }
