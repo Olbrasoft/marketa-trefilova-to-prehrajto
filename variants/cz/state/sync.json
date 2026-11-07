@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-07T12:06:09.035143+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-07T12:37:56.127856+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-07T13:09:17.933051+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-07T13:48:05.961151+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "241ba37f2fb149548be0bbe49cb90764-shard-0",
-        "claimed_at": "2026-11-07T13:48:02.874206+00:00",
-        "lease_expires_at": "2026-11-07T19:48:02.874206+00:00",
-        "run_id": "42376609077"
       }
     },
     "52": {
@@ -13958,7 +13952,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-07T13:09:19.294071+00:00"
+        "planned_at": "2026-11-07T13:48:04.883214+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -13966,6 +13960,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "1657efffe4b54f709b9a3d928819b973-shard-0",
+        "claimed_at": "2026-11-07T13:48:05.689737+00:00",
+        "lease_expires_at": "2026-11-07T19:48:05.689737+00:00",
+        "run_id": "42376609077"
       }
     },
     "22047": {
@@ -76075,7 +76075,7 @@
       "last_plan": {
         "source_id": "30992194",
         "display_name": "Saltburn 1080p CZ Dabing",
-        "planned_at": "2026-11-07T13:48:02.434295+00:00"
+        "planned_at": "2026-11-07T13:48:05.128792+00:00"
       }
     },
     "2186": {
@@ -126669,5 +126669,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:48:03.127677+00:00"
+  "updated_at": "2026-11-07T13:48:05.961169+00:00"
 }
