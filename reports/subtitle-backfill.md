@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T13:57:47.456495+00:00
+Poslední aktualizace (UTC): 2026-11-07T13:57:51.431024+00:00
 
 Zkontrolováno videí: 497. Další stránka kontroly: 0.
 
@@ -81,7 +81,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [Belfast 1080p CZ Titulky](https://prehraj.to/belfast-1080p-cz-titulky-mkv/39c7c3f762cf0443) (ID 30864204) | [Sdílej 17022615](https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv) | target_unavailable | 2026-11-06T17:02:43.851792+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-07T13:57:29.267643+00:00 |
 | [Blue Jay SD CZ Titulky](https://prehraj.to/blue-jay-sd-cz-titulky-mkv/c325ce17e7b8ede1) (ID 30889481) | [Sdílej 6727450](https://sdilej.cz/6727450/blue-jay-2016-titulky.cz.mkv) | target_unavailable | 2026-11-07T11:44:21.839625+00:00 |
-| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-05T14:28:39.314558+00:00 |
+| [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-07T13:57:51.020727+00:00 |
 | [Bridge to Terabithia 1080p CZ Titulky](https://prehraj.to/bridge-to-terabithia-1080p-cz-titulky-mkv/e9c530162461b1ec) (ID 30860568) | [Sdílej 30611137](https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv) | target_unavailable | 2026-11-06T13:57:53.971587+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-05T14:37:35.262737+00:00 |
 | [Butterflies (Kelebekler) 1080p CZ Titulky](https://prehraj.to/butterflies-kelebekler-1080p-cz-titulky-mkv/4e9d119255e543b1) (ID 30833864) | [Sdílej 11769265](https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv) | target_unavailable | 2026-11-05T22:03:44.780836+00:00 |
