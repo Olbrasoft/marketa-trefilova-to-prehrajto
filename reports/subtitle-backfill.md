@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:17:07.859531+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:17:12.041979+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 354, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 83, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 355, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 82, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -138,7 +138,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 72. Důvo
 | [The Life Aquatic with Steve Zissou 1080p CZ Titulky](https://prehraj.to/the-life-aquatic-with-steve-zissou-1080p-cz-titulky-mkv/aa7d640149f0bf2d) (ID 30858164) | [Sdílej 23537039](https://sdilej.cz/23537039/the-life-aquatic-with-steve-zissou-2004-1080p-bluray-dl-dts-x264-majo.mkv) | target_unavailable | 2026-11-06T11:56:54.895196+00:00 |
 | [The Little Mermaid (2023) 1080p CZ Titulky](https://prehraj.to/the-little-mermaid-2023-1080p-cz-titulky-mkv/6bf95bd41190297b) (ID 30861626) | [Sdílej 26570302](https://sdilej.cz/26570302/the.little.mermaid.web-dl.en-5.1.tituly.cz.sk..2023.1080p.mkv) | target_unavailable | 2026-11-06T14:51:32.360448+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-07T13:57:55.190838+00:00 |
-| [The Man from Laramie SD CZ Titulky](https://prehraj.to/the-man-from-laramie-sd-cz-titulky-mkv/583b5ba7b3707f16) (ID 30841326) | [Sdílej 33602979](https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv) | target_unavailable | 2026-11-06T01:50:13.110049+00:00 |
 | [The Phantom of the Opera (2004) 720p CZ Titulky](https://prehraj.to/the-phantom-of-the-opera-2004-720p-cz-titulky-mkv/c0d61728d7051a76) (ID 30864178) | [Sdílej 8688898](https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv) | target_unavailable | 2026-11-06T16:52:42.339498+00:00 |
 | [The Siege of Jadotville 720p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-720p-cz-titulky-mkv/594afbb58e9fd23a) (ID 30880856) | [Sdílej 6557665](https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-07T04:59:26.492070+00:00 |
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T12:44:43.853746+00:00 |
