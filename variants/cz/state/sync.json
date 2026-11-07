@@ -17311,7 +17311,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-07T03:34:14.434843+00:00"
+        "planned_at": "2026-11-07T04:11:18.423103+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17319,6 +17319,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "2ab391dd9d0b42189443c6002d0e0991-shard-0",
+        "claimed_at": "2026-11-07T04:11:18.883053+00:00",
+        "lease_expires_at": "2026-11-07T10:11:18.883053+00:00",
+        "run_id": "42319503958"
       }
     },
     "23132": {
@@ -70730,17 +70736,23 @@
           "attempted_at": "2026-11-07T03:34:15.784508+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "11862548",
-        "display_name": "The Admiral: Roaring Currents 1080p CZ Dabing",
-        "planned_at": "2026-11-07T04:11:16.343345+00:00"
-      },
       "previous_target_id": "30868366",
-      "prepared": {
+      "upload": {
         "target_video_id": "30868366",
+        "display_name": "The Admiral: Roaring Currents 1080p CZ Dabing",
+        "source_id": "11862548",
+        "source_url": "https://sdilej.cz/11862548/1597-bitva-u-myeongryang.mkv",
+        "source_filename": "1597 bitva u Myeongryang.mkv",
         "size_bytes": 20400000000,
-        "prepared_at": "2026-11-06T20:09:10.918038+00:00",
-        "relay_source_id": "11862548"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9761489033699036,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-admiral-roaring-currents-1080p-cz-dabing-mkv/013b3b9e025dbcbf",
+        "uploaded_at": "2026-11-07T04:11:19.299404+00:00"
       }
     },
     "25986": {
@@ -72792,7 +72804,7 @@
       "last_plan": {
         "source_id": "34672835",
         "display_name": "Men about Town (Světáci) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T04:11:16.527835+00:00"
+        "planned_at": "2026-11-07T04:11:18.606992+00:00"
       }
     },
     "21570": {
@@ -122206,5 +122218,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T04:11:16.858841+00:00"
+  "updated_at": "2026-11-07T04:11:19.299418+00:00"
 }
