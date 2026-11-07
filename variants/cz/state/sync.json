@@ -71948,17 +71948,19 @@
       "attempts": []
     },
     "31461": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35008343",
+          "target_video_id": "30875791",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:47:38.497627+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35008343",
         "display_name": "South Park: The End of Obesity 1080p CZ Dabing",
         "planned_at": "2026-11-07T01:34:58.859796+00:00"
-      },
-      "claim": {
-        "worker_id": "29b915fd798f4f50bd1e1e05030f542e-shard-0",
-        "claimed_at": "2026-11-07T01:34:59.114025+00:00",
-        "lease_expires_at": "2026-11-07T07:34:59.114025+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30875791",
       "prepared": {
@@ -121202,5 +121204,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T01:35:35.585319+00:00"
+  "updated_at": "2026-11-07T01:47:38.497644+00:00"
 }
