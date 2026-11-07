@@ -22247,13 +22247,6 @@
           "source_id": "18074667",
           "target_video_id": "30692683",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:39:38.635630+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074667",
-          "target_video_id": "30692683",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:47:11.080938+00:00"
         },
         {
@@ -22262,6 +22255,13 @@
           "target_video_id": "30692683",
           "permanent": false,
           "attempted_at": "2026-11-07T23:19:46.711652+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074667",
+          "target_video_id": "30692683",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:51:21.623613+00:00"
         }
       ],
       "last_plan": {
@@ -22275,12 +22275,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
-      },
-      "claim": {
-        "worker_id": "b0bef3bc9cfd4641b1b10f61348a0207-shard-0",
-        "claimed_at": "2026-11-07T23:51:18.939461+00:00",
-        "lease_expires_at": "2026-11-08T05:51:18.939461+00:00",
-        "run_id": "42420247810"
       }
     },
     "730": {
@@ -79947,7 +79941,7 @@
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Waitress 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:19:47.948461+00:00"
+        "planned_at": "2026-11-07T23:51:21.146048+00:00"
       },
       "previous_target_id": "30899097",
       "prepared": {
@@ -79955,6 +79949,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-07T21:32:39.846982+00:00",
         "relay_source_id": "28771706"
+      },
+      "claim": {
+        "worker_id": "1bed4f9079524ab4a4d4282c78d431c1-shard-0",
+        "claimed_at": "2026-11-07T23:51:21.491442+00:00",
+        "lease_expires_at": "2026-11-08T05:51:21.491442+00:00",
+        "run_id": "42420247810"
       }
     },
     "2305": {
@@ -80578,7 +80578,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:18.741449+00:00"
+        "planned_at": "2026-11-07T23:51:21.292896+00:00"
       }
     },
     "2196": {
@@ -132916,5 +132916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:19.732219+00:00"
+  "updated_at": "2026-11-07T23:51:21.623636+00:00"
 }
