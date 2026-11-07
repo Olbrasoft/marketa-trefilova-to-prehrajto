@@ -76772,17 +76772,19 @@
       "attempts": []
     },
     "2223": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26956631",
+          "target_video_id": "30893264",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:23:35.931582+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26956631",
         "display_name": "The Unbearable Weight of Massive Talent 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:12:25.530612+00:00"
-      },
-      "claim": {
-        "worker_id": "2f1d11e812d34cd894a593b7977ed97a-shard-0",
-        "claimed_at": "2026-11-07T15:12:25.877199+00:00",
-        "lease_expires_at": "2026-11-07T21:12:25.877199+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893264",
       "prepared": {
@@ -127832,5 +127834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:19:09.680488+00:00"
+  "updated_at": "2026-11-07T15:23:35.931598+00:00"
 }
