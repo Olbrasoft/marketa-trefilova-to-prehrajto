@@ -74946,17 +74946,19 @@
       }
     },
     "2326": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28037839",
+          "target_video_id": "30887469",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:10:00.945685+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28037839",
         "display_name": "We're the Millers 1080p CZ Dabing",
         "planned_at": "2026-11-07T10:04:06.537921+00:00"
-      },
-      "claim": {
-        "worker_id": "18109c5f0d6c4cbfaf0a267d521426c4-shard-0",
-        "claimed_at": "2026-11-07T10:04:06.721339+00:00",
-        "lease_expires_at": "2026-11-07T16:04:06.721339+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30887469",
       "prepared": {
@@ -124881,5 +124883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:04:10.480136+00:00"
+  "updated_at": "2026-11-07T10:10:00.945706+00:00"
 }
