@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-07T04:45:00.321606+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-07T05:25:35.804811+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-07T06:04:08.719766+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:40:33.610153+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "9d15a29e73294380a0da7f52ae004d4f-shard-0",
-        "claimed_at": "2026-11-07T06:40:31.056881+00:00",
-        "lease_expires_at": "2026-11-07T12:40:31.056881+00:00",
-        "run_id": "42338182103"
       }
     },
     "52": {
@@ -13958,7 +13952,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-07T06:04:07.171089+00:00"
+        "planned_at": "2026-11-07T06:40:32.765872+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -13966,6 +13960,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "24567d30cc2d48328039334d1d999fef-shard-0",
+        "claimed_at": "2026-11-07T06:40:33.380490+00:00",
+        "lease_expires_at": "2026-11-07T12:40:33.380490+00:00",
+        "run_id": "42338182103"
       }
     },
     "22047": {
@@ -73612,7 +73612,7 @@
       "last_plan": {
         "source_id": "24984582",
         "display_name": "Christmas by Starlight 1080p CZ Dabing",
-        "planned_at": "2026-11-07T06:40:30.667328+00:00"
+        "planned_at": "2026-11-07T06:40:33.007788+00:00"
       }
     },
     "21479": {
@@ -123254,5 +123254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:40:31.317896+00:00"
+  "updated_at": "2026-11-07T06:40:33.610168+00:00"
 }
