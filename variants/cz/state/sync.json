@@ -75006,17 +75006,19 @@
       }
     },
     "2368": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32264181",
+          "target_video_id": "30887703",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:19:43.420430+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32264181",
         "display_name": "Passengers (2016) 1080p CZ Dabing",
         "planned_at": "2026-11-07T10:13:49.965801+00:00"
-      },
-      "claim": {
-        "worker_id": "f60c97a3376d4487baddba1a25a7e4ed-shard-0",
-        "claimed_at": "2026-11-07T10:13:50.182699+00:00",
-        "lease_expires_at": "2026-11-07T16:13:50.182699+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30887703",
       "prepared": {
@@ -125150,5 +125152,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:19:14.455073+00:00"
+  "updated_at": "2026-11-07T10:19:43.420473+00:00"
 }
