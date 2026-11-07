@@ -80416,17 +80416,19 @@
       }
     },
     "26470": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6654308",
+          "target_video_id": "30901009",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:17:05.735853+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6654308",
         "display_name": "JCVD SD CZ Dabing",
         "planned_at": "2026-11-07T23:12:51.631022+00:00"
-      },
-      "claim": {
-        "worker_id": "c18cdad87bc54247863a6211b1565abe-shard-0",
-        "claimed_at": "2026-11-07T23:12:51.820272+00:00",
-        "lease_expires_at": "2026-11-08T05:12:51.820272+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30901009",
       "prepared": {
@@ -132526,5 +132528,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:12:55.884950+00:00"
+  "updated_at": "2026-11-07T23:17:05.735873+00:00"
 }
