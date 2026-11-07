@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T02:57:23.475016+00:00"
+        "planned_at": "2026-11-07T03:32:09.009602+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "45672546a8fb41cd890372dbbbfc642c-shard-0",
+        "claimed_at": "2026-11-07T03:32:09.483335+00:00",
+        "lease_expires_at": "2026-11-07T09:32:09.483335+00:00",
+        "run_id": "42319503958"
       }
     },
     "29922": {
@@ -72524,17 +72530,19 @@
       }
     },
     "24946": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30648768",
+          "target_video_id": "30878345",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:32:43.116341+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30648768",
         "display_name": "I Am David SD CZ Dabing",
         "planned_at": "2026-11-07T03:25:47.417427+00:00"
-      },
-      "claim": {
-        "worker_id": "56a007a25e9041cd8e350452848665c6-shard-0",
-        "claimed_at": "2026-11-07T03:25:47.663411+00:00",
-        "lease_expires_at": "2026-11-07T09:25:47.663411+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30878345",
       "prepared": {
@@ -72589,7 +72597,12 @@
       "attempts": []
     },
     "21795": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34700199",
+        "display_name": "The Blue Max 1080p CZ Dabing",
+        "planned_at": "2026-11-07T03:32:09.213982+00:00"
+      }
     },
     "10979": {
       "attempts": []
@@ -122029,5 +122042,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:32:05.557603+00:00"
+  "updated_at": "2026-11-07T03:32:43.116356+00:00"
 }
