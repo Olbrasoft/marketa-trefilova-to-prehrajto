@@ -74399,17 +74399,19 @@
       }
     },
     "11544": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34674155",
+          "target_video_id": "30885956",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:41:15.302117+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674155",
         "display_name": "Dissolved and Effused (Rozpuštěný a vypuštěný) 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:36:08.868653+00:00"
-      },
-      "claim": {
-        "worker_id": "e65c877635084d64a8adc4de14a27120-shard-0",
-        "claimed_at": "2026-11-07T08:36:09.195831+00:00",
-        "lease_expires_at": "2026-11-07T14:36:09.195831+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885956",
       "prepared": {
@@ -124256,5 +124258,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:38:13.253759+00:00"
+  "updated_at": "2026-11-07T08:41:15.302132+00:00"
 }
