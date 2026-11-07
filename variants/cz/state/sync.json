@@ -78523,17 +78523,19 @@
       "attempts": []
     },
     "2371": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32292514",
+          "target_video_id": "30896456",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:58:52.617784+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32292514",
         "display_name": "Brotherhood of the Wolf (Le Pacte des loups) 1080p CZ Dabing",
         "planned_at": "2026-11-07T18:50:25.290747+00:00"
-      },
-      "claim": {
-        "worker_id": "6eee2feef31c408e9f02286a6e8394a2-shard-0",
-        "claimed_at": "2026-11-07T18:50:25.601341+00:00",
-        "lease_expires_at": "2026-11-08T00:50:25.601341+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896456",
       "prepared": {
@@ -129931,5 +129933,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:57:33.294217+00:00"
+  "updated_at": "2026-11-07T18:58:52.617806+00:00"
 }
