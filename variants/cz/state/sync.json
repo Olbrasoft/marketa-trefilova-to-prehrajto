@@ -80279,17 +80279,19 @@
       }
     },
     "2257": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34648890",
+          "target_video_id": "30900778",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:01:38.070331+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34648890",
         "display_name": "The Fallout 1080p CZ Dabing",
         "planned_at": "2026-11-07T22:56:18.680118+00:00"
-      },
-      "claim": {
-        "worker_id": "3a73540ccf7245af997612f66538678d-shard-0",
-        "claimed_at": "2026-11-07T22:56:18.886936+00:00",
-        "lease_expires_at": "2026-11-08T04:56:18.886936+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30900778",
       "prepared": {
@@ -132407,5 +132409,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:56:23.203590+00:00"
+  "updated_at": "2026-11-07T23:01:38.070349+00:00"
 }
