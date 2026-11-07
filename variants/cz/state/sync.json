@@ -77096,17 +77096,19 @@
       }
     },
     "2197": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33882239",
+          "target_video_id": "30893718",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:52:48.716704+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33882239",
         "display_name": "Pearl (2022) 4K CZ Dabing",
         "planned_at": "2026-11-07T15:40:48.908245+00:00"
-      },
-      "claim": {
-        "worker_id": "b114975fe1ba4f7f929f30d89620a466-shard-0",
-        "claimed_at": "2026-11-07T15:40:49.251600+00:00",
-        "lease_expires_at": "2026-11-07T21:40:49.251600+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893718",
       "prepared": {
@@ -128088,5 +128090,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:51:53.304326+00:00"
+  "updated_at": "2026-11-07T15:52:48.716721+00:00"
 }
