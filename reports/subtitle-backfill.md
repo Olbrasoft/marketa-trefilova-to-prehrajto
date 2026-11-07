@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T13:57:39.117459+00:00
+Poslední aktualizace (UTC): 2026-11-07T13:57:47.456495+00:00
 
 Zkontrolováno videí: 497. Další stránka kontroly: 0.
 
@@ -171,7 +171,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-05T14:29:35.887287+00:00 |
 | [Where the Crawdads Sing 720p CZ Titulky](https://prehraj.to/where-the-crawdads-sing-720p-cz-titulky-mkv/59bc0350ef3385d6) (ID 30863680) | [Sdílej 26751974](https://sdilej.cz/26751974/kde-zpivaji-raci-brip-2022-cz-dab.mkv) | target_unavailable | 2026-11-06T16:32:24.828156+00:00 |
 | [Wristcutters: A Love Story 1080p CZ Titulky](https://prehraj.to/wristcutters-a-love-story-1080p-cz-titulky-mkv/1a70913eac9ec9fc) (ID 30878216) | [Sdílej 30865387](https://sdilej.cz/30865387/sebevrazi-love-story-z-onoho-sveta-wristcutters-a-love-story-2007--tt0477139--en-cs-.webdl-1080p.h265-ac3-5.1.mkv) | target_unavailable | 2026-11-07T03:28:25.219434+00:00 |
-| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-05T14:28:35.742665+00:00 |
+| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-07T13:57:47.456445+00:00 |
 | [Želary 1080p CZ Titulky](https://prehraj.to/zelary-1080p-cz-titulky-mkv/f87466d4719cd349) (ID 30840564) | [Sdílej 28893904](https://sdilej.cz/28893904/zelary.2003.bdrip.cz.1080p.mkv) | target_unavailable | 2026-11-06T01:29:58.473117+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
