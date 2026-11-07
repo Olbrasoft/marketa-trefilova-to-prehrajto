@@ -71742,17 +71742,19 @@
       }
     },
     "11270": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29259798",
+          "target_video_id": "30875173",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:15:12.944065+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29259798",
         "display_name": "Ball Lightning (Kulový blesk) 1080p CZ Dabing",
         "planned_at": "2026-11-07T01:05:10.294705+00:00"
-      },
-      "claim": {
-        "worker_id": "4bac9b899ce0421f8dddf3b446ca68e6-shard-0",
-        "claimed_at": "2026-11-07T01:05:10.559501+00:00",
-        "lease_expires_at": "2026-11-07T07:05:10.559501+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30875173",
       "prepared": {
@@ -121025,5 +121027,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T01:15:08.769678+00:00"
+  "updated_at": "2026-11-07T01:15:12.944082+00:00"
 }
