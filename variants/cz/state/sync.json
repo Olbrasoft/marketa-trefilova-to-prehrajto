@@ -27201,13 +27201,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-07T06:04:42.851644+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-07T06:41:05.295330+00:00"
         },
         {
@@ -27216,6 +27209,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-07T07:19:26.505031+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-07T07:57:00.951191+00:00"
         }
       ],
       "last_plan": {
@@ -46819,7 +46819,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T07:19:27.874522+00:00"
+        "planned_at": "2026-11-07T07:56:59.813820+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -46827,6 +46827,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "295c80484f144aa5b23606cad9123b60-shard-0",
+        "claimed_at": "2026-11-07T07:57:00.411603+00:00",
+        "lease_expires_at": "2026-11-07T13:57:00.411603+00:00",
+        "run_id": "42338182103"
       }
     },
     "20013": {
@@ -73919,7 +73925,7 @@
       "last_plan": {
         "source_id": "34683290",
         "display_name": "Nocturna 1080p CZ Dabing",
-        "planned_at": "2026-11-07T07:56:58.189476+00:00"
+        "planned_at": "2026-11-07T07:57:00.046060+00:00"
       }
     },
     "25996": {
@@ -123657,5 +123663,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T07:56:58.189492+00:00"
+  "updated_at": "2026-11-07T07:57:00.951209+00:00"
 }
