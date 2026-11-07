@@ -75895,17 +75895,19 @@
       }
     },
     "2425": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33860275",
+          "target_video_id": "30890862",
+          "permanent": false,
+          "attempted_at": "2026-11-07T13:04:58.060570+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33860275",
         "display_name": "Orphan 1080p CZ Dabing",
         "planned_at": "2026-11-07T12:57:14.439620+00:00"
-      },
-      "claim": {
-        "worker_id": "8d7b942327d34dd3bf6268bb460a1374-shard-0",
-        "claimed_at": "2026-11-07T12:57:14.620399+00:00",
-        "lease_expires_at": "2026-11-07T18:57:14.620399+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30890862",
       "prepared": {
@@ -126310,5 +126312,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:02:11.429597+00:00"
+  "updated_at": "2026-11-07T13:04:58.060588+00:00"
 }
