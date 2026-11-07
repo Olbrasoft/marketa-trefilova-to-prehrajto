@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T16:39:43.806144+00:00
+Poslední aktualizace (UTC): 2026-11-07T16:39:52.011819+00:00
 
 Zkontrolováno videí: 503. Další stránka kontroly: 0.
 
@@ -90,7 +90,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-07T15:29:28.762028+00:00 |
 | [Stargate: The Ark of Truth 1080p CZ Titulky](https://prehraj.to/stargate-the-ark-of-truth-1080p-cz-titulky-mkv/a66e8dfee79c4b1a) (ID 30888161) | [Sdílej 13184537](https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv) | target_unavailable | 2026-11-07T16:00:06.117871+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-07T16:38:59.863547+00:00 |
-| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-07T15:29:25.399408+00:00 |
+| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-07T16:39:52.011452+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-07T16:39:34.033345+00:00 |
 | [The Outlaws (범죄도시) 1080p CZ Titulky](https://prehraj.to/the-outlaws-1080p-cz-titulky-mkv/91871a80ef52a7ab) (ID 30893421) | [Sdílej 30716653](https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv) | target_unavailable | 2026-11-07T16:28:02.122437+00:00 |
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T16:00:22.126155+00:00 |
