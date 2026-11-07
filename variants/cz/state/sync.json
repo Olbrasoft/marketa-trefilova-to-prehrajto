@@ -74206,17 +74206,19 @@
       "attempts": []
     },
     "23339": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33677510",
+          "target_video_id": "30885613",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:22:34.366170+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33677510",
         "display_name": "Full Contact (俠盜高飛) (1992) 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:15:17.059676+00:00"
-      },
-      "claim": {
-        "worker_id": "84ef37d0dcdf4e339a996b577aa543c5-shard-0",
-        "claimed_at": "2026-11-07T08:15:17.412845+00:00",
-        "lease_expires_at": "2026-11-07T14:15:17.412845+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885613",
       "prepared": {
@@ -124099,5 +124101,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:20:11.319899+00:00"
+  "updated_at": "2026-11-07T08:22:34.366195+00:00"
 }
