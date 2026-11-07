@@ -27514,17 +27514,19 @@
       "attempts": []
     },
     "11272": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33576531",
+          "target_video_id": "30901163",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:29:07.874812+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33576531",
         "display_name": "Panna a netvor 1080p CZ Titulky",
         "planned_at": "2026-11-07T23:23:04.460002+00:00"
-      },
-      "claim": {
-        "worker_id": "e113c293ed454910b3380c9a1e10f35e-shard-0",
-        "claimed_at": "2026-11-07T23:23:04.506056+00:00",
-        "lease_expires_at": "2026-11-08T05:23:04.506056+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30901163",
       "prepared": {
@@ -82847,5 +82849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:23:09.210705+00:00"
+  "updated_at": "2026-11-07T23:29:07.874855+00:00"
 }
