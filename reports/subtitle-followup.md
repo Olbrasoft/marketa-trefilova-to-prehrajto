@@ -432,7 +432,7 @@ Attach subtitles only after target processing has finished.
 | Mardaani 1080p CZ Titulky | 30840183 | https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv | Complete: Czech subtitles verified |
 | Truman 1080p CZ Titulky | 30840252 | https://sdilej.cz/11718608/truman.2015.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Želary 1080p CZ Titulky | 30840564 | https://sdilej.cz/28893904/zelary.2003.bdrip.cz.1080p.mkv | Complete: Czech subtitles verified |
-| The Man from Laramie SD CZ Titulky | 30841326 | https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv | Extract Czech track from exact source after processing |
+| The Man from Laramie SD CZ Titulky | 30841326 | https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv | Complete: Czech subtitles verified |
 | Spare Parts 720p CZ Titulky | 30841932 | https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Agnus Dei (Les innocentes) SD CZ Titulky | 30842899 | https://sdilej.cz/6500108/nevinne-les-innocentes-agnus-dei-2016-titulky.cz.mkv | Extract Czech track from exact source after processing |
 | Shogun Assassin 1080p CZ Titulky | 30843246 | https://sdilej.cz/20753070/shogun-assassin-1980-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
