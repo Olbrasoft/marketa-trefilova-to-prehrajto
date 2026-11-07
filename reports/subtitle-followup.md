@@ -444,7 +444,7 @@ Attach subtitles only after target processing has finished.
 | The Whiskey Bandit (A Viszkis) SD CZ Titulky | 30849859 | https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv | Complete: Czech subtitles verified |
 | Ant-Man 4K CZ Titulky | 30849922 | https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv | Extract Czech track from exact source after processing |
 | Pirates of the Caribbean: At World's End 4K CZ Titulky | 30850430 | https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv | Complete: Czech subtitles verified |
-| A Dirty Carnival (비열한 거리) 1080p CZ Titulky | 30851366 | https://sdilej.cz/27606009/a.dirty.carnival.2006.1080p.bluray.korean.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
+| A Dirty Carnival (비열한 거리) 1080p CZ Titulky | 30851366 | https://sdilej.cz/27606009/a.dirty.carnival.2006.1080p.bluray.korean.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | School of Rock 1080p CZ Titulky | 30854567 | https://sdilej.cz/29918220/skola-ro-c-ku-skola-rocku-the-school-of-rock-2003-1080p-x265-cz-en-multisub-.mkv | Extract Czech track from exact source after processing |
 | 8 Mile 1080p CZ Titulky | 30854680 | https://sdilej.cz/27818942/8.mile.2002.1080p.bluray.h264.aac-leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
 | Insomnia 1080p CZ Titulky | 30854783 | https://sdilej.cz/27519363/insomnia.2002.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
