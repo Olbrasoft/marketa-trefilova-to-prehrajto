@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T13:58:23.811652+00:00
+Poslední aktualizace (UTC): 2026-11-07T13:58:27.230203+00:00
 
 Zkontrolováno videí: 497. Další stránka kontroly: 0.
 
@@ -117,7 +117,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-06T11:16:29.217043+00:00 |
 | [Mr. Brooks 1080p CZ Titulky](https://prehraj.to/mr-brooks-1080p-cz-titulky-mkv/2afa101ab588f405) (ID 30863259) | [Sdílej 30834447](https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv) | target_unavailable | 2026-11-06T16:12:14.436395+00:00 |
 | [Nouvelle Vague 4K CZ Titulky](https://prehraj.to/nouvelle-vague-4k-cz-titulky-mkv/60cecaddbfe2e8d5) (ID 30843642) | [Sdílej 34011190](https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv) | target_unavailable | 2026-11-06T03:10:51.602823+00:00 |
-| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-05T14:29:13.595239+00:00 |
+| [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-07T13:58:27.230125+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-06T05:32:05.097930+00:00 |
 | [Pale Rider 1080p CZ Titulky](https://prehraj.to/pale-rider-1080p-cz-titulky-mkv/6a801d3052b7bc35) (ID 30816243) | [Sdílej 33673421](https://sdilej.cz/33673421/bledy-jezdec-1985-western-usa-clint-eastwood-czdab-bluray.1080p.mkv) | target_unavailable | 2026-11-05T14:37:42.013166+00:00 |
 | [Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky](https://prehraj.to/peculiarities-of-the-national-hunt-1080p-cz-titulky-mkv/6a7b3933ad9f892c) (ID 30846831) | [Sdílej 32585907](https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv) | target_unavailable | 2026-11-06T04:31:31.026673+00:00 |
