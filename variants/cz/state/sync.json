@@ -42853,13 +42853,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-07T13:49:33.955345+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-07T14:21:29.945865+00:00"
         },
         {
@@ -42868,6 +42861,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-07T14:52:22.562980+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:26:00.117819+00:00"
         }
       ],
       "last_plan": {
@@ -45771,7 +45771,7 @@
       "last_plan": {
         "source_id": "27568018",
         "display_name": "North Country SD CZ Dabing",
-        "planned_at": "2026-11-07T14:52:24.175061+00:00"
+        "planned_at": "2026-11-07T15:25:58.800404+00:00"
       },
       "previous_target_id": "30768107",
       "prepared": {
@@ -45779,6 +45779,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-03T16:40:17.731197+00:00",
         "relay_source_id": "27568018"
+      },
+      "claim": {
+        "worker_id": "97af4812e52947ae9418f67abca80e25-shard-0",
+        "claimed_at": "2026-11-07T15:25:59.521268+00:00",
+        "lease_expires_at": "2026-11-07T21:25:59.521268+00:00",
+        "run_id": "42376609077"
       }
     },
     "23428": {
@@ -76887,7 +76893,7 @@
       "last_plan": {
         "source_id": "35003612",
         "display_name": "Extraction 2 4K CZ Dabing",
-        "planned_at": "2026-11-07T15:25:56.561955+00:00"
+        "planned_at": "2026-11-07T15:25:59.047879+00:00"
       }
     },
     "13530": {
@@ -127848,5 +127854,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:25:56.811831+00:00"
+  "updated_at": "2026-11-07T15:26:00.117837+00:00"
 }
