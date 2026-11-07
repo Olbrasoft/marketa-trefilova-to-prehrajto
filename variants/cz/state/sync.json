@@ -76233,17 +76233,19 @@
       }
     },
     "13730": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33170828",
+          "target_video_id": "30892265",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:16:42.429428+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33170828",
         "display_name": "Body of Lies 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:09:28.946521+00:00"
-      },
-      "claim": {
-        "worker_id": "37cb3629157f46119aac87d3cd506f12-shard-0",
-        "claimed_at": "2026-11-07T14:09:29.270788+00:00",
-        "lease_expires_at": "2026-11-07T20:09:29.270788+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892265",
       "prepared": {
@@ -126865,5 +126867,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:12:55.496272+00:00"
+  "updated_at": "2026-11-07T14:16:42.429443+00:00"
 }
