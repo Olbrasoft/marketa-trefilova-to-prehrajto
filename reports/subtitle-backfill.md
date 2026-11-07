@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T00:57:14.468905+00:00
+Poslední aktualizace (UTC): 2026-11-07T00:57:17.754462+00:00
 
 Zkontrolováno videí: 477. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 87, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 329, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 88, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -132,6 +132,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 92. Důvod
 | [The Ballad of Buster Scruggs 1080p CZ Titulky](https://prehraj.to/the-ballad-of-buster-scruggs-1080p-cz-titulky-mkv/bca3bd31d5993b5c) (ID 30861500) | [Sdílej 30700293](https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv) | target_unavailable | 2026-11-06T14:41:26.126833+00:00 |
 | [The Beast (1988) 720p CZ Titulky](https://prehraj.to/the-beast-1988-720p-cz-titulky-mkv/aff9584063ecdc90) (ID 30845001) | [Sdílej 30819441](https://sdilej.cz/30819441/the-beast-of-war-1988-cz.tit.mkv) | target_unavailable | 2026-11-06T03:41:08.562096+00:00 |
 | [The Captain (Der Hauptmann) (2017) 1080p CZ Titulky](https://prehraj.to/the-captain-der-hauptmann-2017-1080p-cz-titulky-mkv/e1cec67638013968) (ID 30831408) | [Sdílej 10699415](https://sdilej.cz/10699415/der-hauptmann-cz-titulky-fullhd-1080p.mkv) | target_unavailable | 2026-11-05T20:52:52.409297+00:00 |
+| [The Courier (2020) 1080p CZ Titulky](https://prehraj.to/the-courier-2020-1080p-cz-titulky-mkv/3c952096bbe6a768) (ID 30874868) | [Sdílej 30685953](https://sdilej.cz/30685953/the-courier-2020-1080p-webrip-dd5-1-x264-cz-tit.mkv) | target_unavailable | 2026-11-07T00:57:17.754122+00:00 |
 | [The Descent 1080p CZ Titulky](https://prehraj.to/the-descent-1080p-cz-titulky-mkv/8a6e19eb194817c3) (ID 30857275) | [Sdílej 22441657](https://sdilej.cz/22441657/pad-do-tmy-cz-1080p-juve.mkv) | target_unavailable | 2026-11-06T11:16:24.580691+00:00 |
 | [The Doors 1080p CZ Titulky](https://prehraj.to/the-doors-1080p-cz-titulky-mkv/f8c29aa27371821c) (ID 30870310) | [Sdílej 6416335](https://sdilej.cz/6416335/the-doors-1991-.1080p.h264.ac3-5.1-eng-ceske-titulky.mkv) | target_unavailable | 2026-11-06T21:47:30.186903+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-05T14:28:04.402565+00:00 |
