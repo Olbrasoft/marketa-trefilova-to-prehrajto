@@ -79649,6 +79649,13 @@
         "claimed_at": "2026-11-07T21:23:52.568047+00:00",
         "lease_expires_at": "2026-11-08T03:23:52.568047+00:00",
         "run_id": "42395943512"
+      },
+      "previous_target_id": "30898970",
+      "prepared": {
+        "target_video_id": "30898970",
+        "size_bytes": 3050780694,
+        "prepared_at": "2026-11-07T21:23:56.889910+00:00",
+        "relay_source_id": "32872140"
       }
     },
     "2320": {
@@ -79658,7 +79665,18 @@
       "attempts": []
     },
     "22225": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33857392",
+        "display_name": "The Towering Inferno 1080p CZ Dabing",
+        "planned_at": "2026-11-07T21:23:55.653656+00:00"
+      },
+      "claim": {
+        "worker_id": "ef48302bad204ba1905f0dfe5a55d7b8-shard-0",
+        "claimed_at": "2026-11-07T21:23:55.968736+00:00",
+        "lease_expires_at": "2026-11-08T03:23:55.968736+00:00",
+        "run_id": "42395943512"
+      }
     },
     "23257": {
       "attempts": []
@@ -131555,5 +131573,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:23:54.143166+00:00"
+  "updated_at": "2026-11-07T21:23:56.889928+00:00"
 }
