@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:06:39.463159+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:06:43.262502+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 335, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 103, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 336, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 102, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -156,7 +156,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 91. Důvo
 | [The Man from Laramie SD CZ Titulky](https://prehraj.to/the-man-from-laramie-sd-cz-titulky-mkv/583b5ba7b3707f16) (ID 30841326) | [Sdílej 33602979](https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv) | target_unavailable | 2026-11-06T01:50:13.110049+00:00 |
 | [The Painter and the Thief 1080p CZ Titulky](https://prehraj.to/the-painter-and-the-thief-1080p-cz-titulky-mkv/9659108081781583) (ID 30829417) | [Sdílej 20534344](https://sdilej.cz/20534344/the.painter.and.the.thief.2020.1080p-cz-titulky.mkv) | target_unavailable | 2026-11-05T19:50:33.176260+00:00 |
 | [The Phantom of the Opera (2004) 720p CZ Titulky](https://prehraj.to/the-phantom-of-the-opera-2004-720p-cz-titulky-mkv/c0d61728d7051a76) (ID 30864178) | [Sdílej 8688898](https://sdilej.cz/8688898/fantom-opery.the-phantom-of-the-opera.cz.eng.2004.720p.bluray.x264.dts.ac3.-erwinrommel-1944-tonyhd.mkv) | target_unavailable | 2026-11-06T16:52:42.339498+00:00 |
-| [The Sea Wolf 1080p CZ Titulky](https://prehraj.to/the-sea-wolf-1080p-cz-titulky-mkv/cd2a628f5eded499) (ID 30820306) | [Sdílej 34927035](https://sdilej.cz/34927035/the.sea.wolf.1941.1080p.bluray.eac3.x264-majo.mkv) | target_unavailable | 2026-11-05T14:37:28.410834+00:00 |
 | [The Siege of Jadotville 720p CZ Titulky](https://prehraj.to/the-siege-of-jadotville-720p-cz-titulky-mkv/594afbb58e9fd23a) (ID 30880856) | [Sdílej 6557665](https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-07T04:59:26.492070+00:00 |
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T12:44:43.853746+00:00 |
 | [The Unforgivable 1080p CZ Titulky](https://prehraj.to/the-unforgivable-1080p-cz-titulky-mkv/4f00b428b85630dc) (ID 30866709) | [Sdílej 19114080](https://sdilej.cz/19114080/the.unforgivable.2021.1080p.web.h264-peculate-cz-titulky.mkv) | target_unavailable | 2026-11-06T18:55:20.655462+00:00 |
