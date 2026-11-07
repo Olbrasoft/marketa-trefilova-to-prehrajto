@@ -27201,13 +27201,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:19:26.505031+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-07T07:57:00.951191+00:00"
         },
         {
@@ -27216,6 +27209,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-07T08:29:28.641108+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:25:22.030427+00:00"
         }
       ],
       "last_plan": {
@@ -27229,12 +27229,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
-      },
-      "claim": {
-        "worker_id": "c595c561b14c4087bc8869d3e19b97f6-shard-0",
-        "claimed_at": "2026-11-07T09:25:19.771742+00:00",
-        "lease_expires_at": "2026-11-07T15:25:19.771742+00:00",
-        "run_id": "42355221442"
       }
     },
     "12333": {
@@ -46825,7 +46819,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T08:29:27.058697+00:00"
+        "planned_at": "2026-11-07T09:25:21.423327+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -46833,6 +46827,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "10837cc55a204191bef334450e0704a4-shard-0",
+        "claimed_at": "2026-11-07T09:25:21.735057+00:00",
+        "lease_expires_at": "2026-11-07T15:25:21.735057+00:00",
+        "run_id": "42355221442"
       }
     },
     "20013": {
@@ -74738,7 +74738,7 @@
       "last_plan": {
         "source_id": "22405080",
         "display_name": "The Amazing Spider-Man 1080p CZ Dabing",
-        "planned_at": "2026-11-07T09:25:19.592151+00:00"
+        "planned_at": "2026-11-07T09:25:21.554215+00:00"
       }
     },
     "2449": {
@@ -124682,5 +124682,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:25:19.892916+00:00"
+  "updated_at": "2026-11-07T09:25:22.030447+00:00"
 }
