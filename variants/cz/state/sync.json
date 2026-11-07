@@ -14228,17 +14228,19 @@
       }
     },
     "22082": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29548312",
+          "target_video_id": "30897219",
+          "permanent": false,
+          "attempted_at": "2026-11-07T19:42:02.801015+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29548312",
         "display_name": "Cabaret 1080p CZ Dabing",
         "planned_at": "2026-11-07T19:31:48.072881+00:00"
-      },
-      "claim": {
-        "worker_id": "f639bded22e648559cb425eaf19a7d47-shard-0",
-        "claimed_at": "2026-11-07T19:31:48.376824+00:00",
-        "lease_expires_at": "2026-11-08T01:31:48.376824+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30897219",
       "prepared": {
@@ -130299,5 +130301,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T19:32:52.592697+00:00"
+  "updated_at": "2026-11-07T19:42:02.801036+00:00"
 }
