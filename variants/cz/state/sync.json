@@ -13952,7 +13952,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-07T15:24:32.699890+00:00"
+        "planned_at": "2026-11-07T15:56:54.990248+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -13960,6 +13960,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "39a0121b99f34af2a40cb65401fe2f08-shard-0",
+        "claimed_at": "2026-11-07T15:56:55.525760+00:00",
+        "lease_expires_at": "2026-11-07T21:56:55.525760+00:00",
+        "run_id": "42376609077"
       }
     },
     "22047": {
@@ -77226,17 +77232,19 @@
       }
     },
     "2328": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "20750704",
+          "reason": "Request failed for https://sdilej.cz/20750704/den-of-thieves-2018-dokonala-lupez-brip-cz-eng-titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:56:56.714650+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20750704",
         "display_name": "Den of Thieves 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:56:08.800245+00:00"
-      },
-      "claim": {
-        "worker_id": "b43a260ce3224a75a7087e9fdb80252f-shard-0",
-        "claimed_at": "2026-11-07T15:56:09.448562+00:00",
-        "lease_expires_at": "2026-11-07T21:56:09.448562+00:00",
-        "run_id": "42376609077"
       }
     },
     "17736": {
@@ -77244,7 +77252,7 @@
       "last_plan": {
         "source_id": "33885266",
         "display_name": "Payback 4K CZ Dabing",
-        "planned_at": "2026-11-07T15:56:51.386117+00:00"
+        "planned_at": "2026-11-07T15:56:55.222238+00:00"
       }
     },
     "2431": {
@@ -128146,5 +128154,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:56:53.484768+00:00"
+  "updated_at": "2026-11-07T15:56:56.714666+00:00"
 }
