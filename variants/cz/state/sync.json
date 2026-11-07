@@ -73795,17 +73795,19 @@
       "attempts": []
     },
     "27142": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34846705",
+          "target_video_id": "30884019",
+          "permanent": false,
+          "attempted_at": "2026-11-07T07:42:54.250774+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34846705",
         "display_name": "Oranges and Sunshine 1080p CZ Dabing",
         "planned_at": "2026-11-07T07:04:39.894365+00:00"
-      },
-      "claim": {
-        "worker_id": "52f94b335c2847b0a9a584509828aee8-shard-0",
-        "claimed_at": "2026-11-07T07:04:40.212191+00:00",
-        "lease_expires_at": "2026-11-07T13:04:40.212191+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30884019",
       "prepared": {
@@ -123610,5 +123612,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T07:27:40.536937+00:00"
+  "updated_at": "2026-11-07T07:42:54.250790+00:00"
 }
