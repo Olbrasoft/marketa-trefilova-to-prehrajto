@@ -73384,17 +73384,19 @@
       }
     },
     "25888": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27090744",
+          "target_video_id": "30882724",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:18:07.738031+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27090744",
         "display_name": "Molière SD CZ Dabing",
         "planned_at": "2026-11-07T06:06:09.642487+00:00"
-      },
-      "claim": {
-        "worker_id": "d98d4beaaab54bbcb3fb6b3e887fbafa-shard-0",
-        "claimed_at": "2026-11-07T06:06:11.202305+00:00",
-        "lease_expires_at": "2026-11-07T12:06:11.202305+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30882724",
       "prepared": {
@@ -122980,5 +122982,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:17:14.486635+00:00"
+  "updated_at": "2026-11-07T06:18:07.738048+00:00"
 }
