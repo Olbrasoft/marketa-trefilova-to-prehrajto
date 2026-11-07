@@ -78917,17 +78917,19 @@
       }
     },
     "31581": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34077790",
+          "target_video_id": "30897590",
+          "permanent": false,
+          "attempted_at": "2026-11-07T20:02:33.790648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34077790",
         "display_name": "Becoming Jane 1080p CZ Dabing",
         "planned_at": "2026-11-07T19:52:16.001569+00:00"
-      },
-      "claim": {
-        "worker_id": "05f9210156924c03bf4c8eda0a7a1128-shard-0",
-        "claimed_at": "2026-11-07T19:52:16.309131+00:00",
-        "lease_expires_at": "2026-11-08T01:52:16.309131+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30897590",
       "prepared": {
@@ -130438,5 +130440,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T19:56:46.154358+00:00"
+  "updated_at": "2026-11-07T20:02:33.790670+00:00"
 }
