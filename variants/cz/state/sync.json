@@ -77698,17 +77698,19 @@
       }
     },
     "2319": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12814157",
+          "target_video_id": "30894768",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:02:06.086740+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12814157",
         "display_name": "ParaNorman 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:54:52.849497+00:00"
-      },
-      "claim": {
-        "worker_id": "f1caaefc1c4d4cacb3416d86d4fbab85-shard-0",
-        "claimed_at": "2026-11-07T16:54:53.170807+00:00",
-        "lease_expires_at": "2026-11-07T22:54:53.170807+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894768",
       "prepared": {
@@ -128721,5 +128723,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:00:49.192109+00:00"
+  "updated_at": "2026-11-07T17:02:06.086755+00:00"
 }
