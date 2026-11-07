@@ -18946,17 +18946,19 @@
       "attempts": []
     },
     "10948": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32830370",
+          "target_video_id": "30898941",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:33:50.210739+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32830370",
         "display_name": "Wait Until Dark 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:22:18.353947+00:00"
-      },
-      "claim": {
-        "worker_id": "185b49c868484afa881974d0040b6958-shard-0",
-        "claimed_at": "2026-11-07T21:22:20.212618+00:00",
-        "lease_expires_at": "2026-11-08T03:22:20.212618+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898941",
       "prepared": {
@@ -131638,5 +131640,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:32:39.847004+00:00"
+  "updated_at": "2026-11-07T21:33:50.210761+00:00"
 }
