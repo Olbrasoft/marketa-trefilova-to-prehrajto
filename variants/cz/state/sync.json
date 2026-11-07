@@ -73259,17 +73259,19 @@
       }
     },
     "21911": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33825649",
+          "target_video_id": "30881985",
+          "permanent": false,
+          "attempted_at": "2026-11-07T05:49:09.589760+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33825649",
         "display_name": "The Mercenary (1968) 1080p CZ Dabing",
         "planned_at": "2026-11-07T05:34:20.554371+00:00"
-      },
-      "claim": {
-        "worker_id": "d0a42791a2074eefbadccf6d059d3f3d-shard-0",
-        "claimed_at": "2026-11-07T05:34:20.864119+00:00",
-        "lease_expires_at": "2026-11-07T11:34:20.864119+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30881985",
       "prepared": {
@@ -122855,5 +122857,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T05:41:12.707125+00:00"
+  "updated_at": "2026-11-07T05:49:09.589777+00:00"
 }
