@@ -78065,17 +78065,19 @@
       }
     },
     "2281": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17990950",
+          "target_video_id": "30895231",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:33:51.282517+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17990950",
         "display_name": "The Christmas Chronicles 1080p CZ Dabing",
         "planned_at": "2026-11-07T17:27:20.846711+00:00"
-      },
-      "claim": {
-        "worker_id": "d3ab1cf4b7dc4c46be116bd6930aefeb-shard-0",
-        "claimed_at": "2026-11-07T17:27:21.186601+00:00",
-        "lease_expires_at": "2026-11-07T23:27:21.186601+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30895231",
       "prepared": {
@@ -129258,5 +129260,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:32:32.828215+00:00"
+  "updated_at": "2026-11-07T17:33:51.282533+00:00"
 }
