@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:26:59.456336+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:27:03.258180+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 367, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 69, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 368, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 68, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -66,7 +66,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 52. Důvo
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-06T13:17:37.458131+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-06T21:06:52.703066+00:00 |
 | [71: Into the Fire (포화 속으로) 720p CZ Titulky](https://prehraj.to/71-into-the-fire-720p-cz-titulky-mkv/080af038460c52dc) (ID 30891751) | [Sdílej 19963845](https://sdilej.cz/19963845/71-into-the-fire-2010-kor-bdrip.720p.x264.cz.en.tit.mkv) | target_unavailable | 2026-11-07T13:46:31.956276+00:00 |
-| [8 Mile 1080p CZ Titulky](https://prehraj.to/8-mile-1080p-cz-titulky-mkv/7054c00380df1062) (ID 30854680) | [Sdílej 27818942](https://sdilej.cz/27818942/8.mile.2002.1080p.bluray.h264.aac-leon.-en-subs-cz-.mkv) | target_unavailable | 2026-11-06T08:53:49.284838+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-07T14:06:47.114439+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-06T09:44:38.862506+00:00 |
 | [American Murder: The Family Next Door 1080p CZ Titulky](https://prehraj.to/american-murder-the-family-next-door-1080p-cz-titulky-mkv/4800e9d875a377e4) (ID 30884991) | [Sdílej 14236370](https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv) | target_unavailable | 2026-11-07T07:50:51.174634+00:00 |
