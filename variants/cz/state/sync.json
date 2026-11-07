@@ -73892,17 +73892,19 @@
       "attempts": []
     },
     "23735": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31795042",
+          "target_video_id": "30885106",
+          "permanent": false,
+          "attempted_at": "2026-11-07T07:54:08.884636+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31795042",
         "display_name": "Mother Night SD CZ Dabing",
         "planned_at": "2026-11-07T07:47:02.206805+00:00"
-      },
-      "claim": {
-        "worker_id": "2b886187375c4a9d8e6045d9f6334894-shard-0",
-        "claimed_at": "2026-11-07T07:47:02.574618+00:00",
-        "lease_expires_at": "2026-11-07T13:47:02.574618+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885106",
       "prepared": {
@@ -123650,5 +123652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T07:47:06.087679+00:00"
+  "updated_at": "2026-11-07T07:54:08.884652+00:00"
 }
