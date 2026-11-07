@@ -77138,17 +77138,19 @@
       }
     },
     "13939": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29457916",
+          "target_video_id": "30893864",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:55:47.057777+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29457916",
         "display_name": "A Serious Man SD CZ Dabing",
         "planned_at": "2026-11-07T15:50:06.855597+00:00"
-      },
-      "claim": {
-        "worker_id": "6eb7b788da704ce99b560a4a85cdb985-shard-0",
-        "claimed_at": "2026-11-07T15:50:07.192560+00:00",
-        "lease_expires_at": "2026-11-07T21:50:07.192560+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893864",
       "prepared": {
@@ -128108,5 +128110,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:52:57.491812+00:00"
+  "updated_at": "2026-11-07T15:55:47.057792+00:00"
 }
