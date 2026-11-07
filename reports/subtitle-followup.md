@@ -442,7 +442,7 @@ Attach subtitles only after target processing has finished.
 | La grazia 1080p CZ Titulky | 30846589 | https://sdilej.cz/34150864/la-grazia-2025-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky | 30846831 | https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv | Complete: Czech subtitles verified |
 | The Whiskey Bandit (A Viszkis) SD CZ Titulky | 30849859 | https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv | Complete: Czech subtitles verified |
-| Ant-Man 4K CZ Titulky | 30849922 | https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv | Extract Czech track from exact source after processing |
+| Ant-Man 4K CZ Titulky | 30849922 | https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv | Complete: Czech subtitles verified |
 | Pirates of the Caribbean: At World's End 4K CZ Titulky | 30850430 | https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv | Complete: Czech subtitles verified |
 | A Dirty Carnival (비열한 거리) 1080p CZ Titulky | 30851366 | https://sdilej.cz/27606009/a.dirty.carnival.2006.1080p.bluray.korean.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | School of Rock 1080p CZ Titulky | 30854567 | https://sdilej.cz/29918220/skola-ro-c-ku-skola-rocku-the-school-of-rock-2003-1080p-x265-cz-en-multisub-.mkv | Complete: Czech subtitles verified |
