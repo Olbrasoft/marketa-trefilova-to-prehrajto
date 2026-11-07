@@ -42580,6 +42580,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "e4f2578cfaee4af192333ec6ec76aae2-shard-0",
+        "claimed_at": "2026-11-07T13:49:05.851346+00:00",
+        "lease_expires_at": "2026-11-07T19:49:05.851346+00:00",
+        "run_id": "42376609077"
       }
     },
     "1395": {
@@ -75982,17 +75988,23 @@
           "attempted_at": "2026-11-07T13:11:50.314675+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34649719",
-        "display_name": "Spy (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T13:04:59.669810+00:00"
-      },
       "previous_target_id": "30891012",
-      "prepared": {
+      "upload": {
         "target_video_id": "30891012",
-        "size_bytes": 2659784745,
-        "prepared_at": "2026-11-07T13:05:03.778750+00:00",
-        "relay_source_id": "34649719"
+        "display_name": "Spy (2015) 1080p CZ Dabing",
+        "source_id": "34649719",
+        "source_url": "https://sdilej.cz/34649719/spion-2015-cz-dabing.mp4",
+        "source_filename": "Špión (2015) CZ Dabing.mp4",
+        "size_bytes": 2700000000,
+        "width": 1920,
+        "height": 804,
+        "audio_language": "cs",
+        "language_probability": 0.9808907508850098,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/spy-2015-1080p-cz-dabing-mp4/ff26156a58c288df",
+        "uploaded_at": "2026-11-07T13:49:08.059705+00:00"
       }
     },
     "2166": {
@@ -76069,7 +76081,7 @@
       "last_plan": {
         "source_id": "30992194",
         "display_name": "Saltburn 1080p CZ Dabing",
-        "planned_at": "2026-11-07T13:49:03.889580+00:00"
+        "planned_at": "2026-11-07T13:49:06.248941+00:00"
       }
     },
     "2186": {
@@ -126663,5 +126675,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:49:03.889596+00:00"
+  "updated_at": "2026-11-07T13:49:08.059721+00:00"
 }
