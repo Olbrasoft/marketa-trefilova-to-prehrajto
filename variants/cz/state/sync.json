@@ -75681,17 +75681,19 @@
       }
     },
     "2359": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23015754",
+          "target_video_id": "30890075",
+          "permanent": false,
+          "attempted_at": "2026-11-07T12:18:36.053771+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23015754",
         "display_name": "Happy Gilmore 1080p CZ Dabing",
         "planned_at": "2026-11-07T12:13:21.826923+00:00"
-      },
-      "claim": {
-        "worker_id": "df9f4ba55bc14154a4d844b798f81bea-shard-0",
-        "claimed_at": "2026-11-07T12:13:22.035990+00:00",
-        "lease_expires_at": "2026-11-07T18:13:22.035990+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30890075",
       "prepared": {
@@ -125937,5 +125939,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:13:29.056838+00:00"
+  "updated_at": "2026-11-07T12:18:36.053790+00:00"
 }
