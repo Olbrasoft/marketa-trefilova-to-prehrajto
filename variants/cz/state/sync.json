@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "352109305ca64d3ba557680a362d9c94-shard-0",
+        "claimed_at": "2026-11-07T12:11:34.731967+00:00",
+        "lease_expires_at": "2026-11-07T18:11:34.731967+00:00",
+        "run_id": "42355221442"
       }
     },
     "29922": {
@@ -42005,13 +42011,6 @@
           "source_id": "34334657",
           "target_video_id": "30754884",
           "permanent": false,
-          "attempted_at": "2026-11-07T10:35:06.701517+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34334657",
-          "target_video_id": "30754884",
-          "permanent": false,
           "attempted_at": "2026-11-07T11:07:26.023978+00:00"
         },
         {
@@ -42020,12 +42019,19 @@
           "target_video_id": "30754884",
           "permanent": false,
           "attempted_at": "2026-11-07T11:38:48.264976+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34334657",
+          "target_video_id": "30754884",
+          "permanent": false,
+          "attempted_at": "2026-11-07T12:11:37.098417+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34334657",
         "display_name": "The Last Duel 4K CZ Dabing",
-        "planned_at": "2026-11-07T11:38:45.806758+00:00"
+        "planned_at": "2026-11-07T12:11:34.841654+00:00"
       },
       "previous_target_id": "30754884",
       "prepared": {
@@ -75656,7 +75662,7 @@
       "last_plan": {
         "source_id": "29846940",
         "display_name": "The Platform (El hoyo) (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T12:11:33.297635+00:00"
+        "planned_at": "2026-11-07T12:11:35.557506+00:00"
       }
     },
     "2359": {
@@ -125880,5 +125886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:11:33.297656+00:00"
+  "updated_at": "2026-11-07T12:11:37.098439+00:00"
 }
