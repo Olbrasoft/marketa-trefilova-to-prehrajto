@@ -75145,17 +75145,19 @@
       }
     },
     "2286": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32938303",
+          "target_video_id": "30888162",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:47:34.676138+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32938303",
         "display_name": "Cloverfield 4K CZ Dabing",
         "planned_at": "2026-11-07T10:36:29.760526+00:00"
-      },
-      "claim": {
-        "worker_id": "d55c01e5b7b74919ba10ead0c15d1e54-shard-0",
-        "claimed_at": "2026-11-07T10:36:29.960215+00:00",
-        "lease_expires_at": "2026-11-07T16:36:29.960215+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30888162",
       "prepared": {
@@ -125236,5 +125238,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:36:33.980350+00:00"
+  "updated_at": "2026-11-07T10:47:34.676157+00:00"
 }
