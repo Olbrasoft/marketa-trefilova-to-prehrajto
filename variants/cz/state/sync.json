@@ -75021,17 +75021,19 @@
       }
     },
     "2462": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11787580",
+          "target_video_id": "30887713",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:19:01.949575+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11787580",
         "display_name": "The Cabin in the Woods 1080p CZ Dabing",
         "planned_at": "2026-11-07T10:14:14.629705+00:00"
-      },
-      "claim": {
-        "worker_id": "5e22c11e2c544a45b90daf6c9bac98a4-shard-0",
-        "claimed_at": "2026-11-07T10:14:14.897821+00:00",
-        "lease_expires_at": "2026-11-07T16:14:14.897821+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30887713",
       "prepared": {
@@ -124947,5 +124949,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:14:18.821066+00:00"
+  "updated_at": "2026-11-07T10:19:01.949597+00:00"
 }
