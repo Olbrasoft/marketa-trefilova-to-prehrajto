@@ -49745,13 +49745,6 @@
           "source_id": "11203350",
           "target_video_id": "30775439",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:57:37.565273+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11203350",
-          "target_video_id": "30775439",
-          "permanent": false,
           "attempted_at": "2026-11-07T08:30:07.875996+00:00"
         },
         {
@@ -49760,6 +49753,13 @@
           "target_video_id": "30775439",
           "permanent": false,
           "attempted_at": "2026-11-07T09:25:51.263382+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11203350",
+          "target_video_id": "30775439",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:02:12.112920+00:00"
         }
       ],
       "last_plan": {
@@ -49773,12 +49773,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-04T00:02:22.495709+00:00",
         "relay_source_id": "11203350"
-      },
-      "claim": {
-        "worker_id": "13a94811bceb442fa68e4a54c849c5d1-shard-0",
-        "claimed_at": "2026-11-07T10:02:10.137545+00:00",
-        "lease_expires_at": "2026-11-07T16:02:10.137545+00:00",
-        "run_id": "42355221442"
       }
     },
     "30131": {
@@ -50539,7 +50533,7 @@
       "last_plan": {
         "source_id": "32819081",
         "display_name": "Die Hard 2 4K CZ Dabing",
-        "planned_at": "2026-11-07T09:25:51.346094+00:00"
+        "planned_at": "2026-11-07T10:02:11.395613+00:00"
       },
       "previous_target_id": "30776530",
       "prepared": {
@@ -50547,6 +50541,12 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-04T01:15:13.177284+00:00",
         "relay_source_id": "32819081"
+      },
+      "claim": {
+        "worker_id": "dcda0434c5b045a68c1e36ee3043452f-shard-0",
+        "claimed_at": "2026-11-07T10:02:11.788077+00:00",
+        "lease_expires_at": "2026-11-07T16:02:11.788077+00:00",
+        "run_id": "42355221442"
       }
     },
     "23950": {
@@ -74914,11 +74914,22 @@
       "last_plan": {
         "source_id": "34900816",
         "display_name": "The Devil Wears Prada 4K CZ Dabing",
-        "planned_at": "2026-11-07T10:02:08.491738+00:00"
+        "planned_at": "2026-11-07T10:02:11.525860+00:00"
+      },
+      "claim": {
+        "worker_id": "89b2119bee164c1c96e17e86c98f5526-shard-0",
+        "claimed_at": "2026-11-07T10:02:12.043170+00:00",
+        "lease_expires_at": "2026-11-07T16:02:12.043170+00:00",
+        "run_id": "42355221442"
       }
     },
     "2423": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24540233",
+        "display_name": "Top Gun 4K CZ Dabing",
+        "planned_at": "2026-11-07T10:02:11.601621+00:00"
+      }
     },
     "2326": {
       "attempts": []
@@ -124838,5 +124849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:02:10.137576+00:00"
+  "updated_at": "2026-11-07T10:02:12.112943+00:00"
 }
