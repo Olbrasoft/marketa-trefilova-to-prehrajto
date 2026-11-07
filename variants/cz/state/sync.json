@@ -36102,13 +36102,6 @@
           "source_id": "11952213",
           "target_video_id": "30742444",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:52:57.764299+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11952213",
-          "target_video_id": "30742444",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:48:04.983418+00:00"
         },
         {
@@ -36117,6 +36110,13 @@
           "target_video_id": "30742444",
           "permanent": false,
           "attempted_at": "2026-11-07T23:20:27.624658+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11952213",
+          "target_video_id": "30742444",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:51:44.131892+00:00"
         }
       ],
       "last_plan": {
@@ -36130,12 +36130,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-02T21:13:53.287139+00:00",
         "relay_source_id": "11952213"
-      },
-      "claim": {
-        "worker_id": "e543a56a13414d45ac90af0ccef63cc2-shard-0",
-        "claimed_at": "2026-11-07T23:51:42.082194+00:00",
-        "lease_expires_at": "2026-11-08T05:51:42.082194+00:00",
-        "run_id": "42420247810"
       }
     },
     "10749": {
@@ -37240,7 +37234,7 @@
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:20:30.326545+00:00"
+        "planned_at": "2026-11-07T23:51:43.653504+00:00"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -37248,6 +37242,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
+      },
+      "claim": {
+        "worker_id": "9a5ab027463d47e0a781d998509db391-shard-0",
+        "claimed_at": "2026-11-07T23:51:44.012281+00:00",
+        "lease_expires_at": "2026-11-08T05:51:44.012281+00:00",
+        "run_id": "42420247810"
       }
     },
     "35068": {
@@ -80578,7 +80578,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:41.873698+00:00"
+        "planned_at": "2026-11-07T23:51:43.800104+00:00"
       }
     },
     "2196": {
@@ -132916,5 +132916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:42.220558+00:00"
+  "updated_at": "2026-11-07T23:51:44.131916+00:00"
 }
