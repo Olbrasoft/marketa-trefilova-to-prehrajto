@@ -78555,17 +78555,19 @@
       "attempts": []
     },
     "27559": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8054368",
+          "target_video_id": "30896557",
+          "permanent": false,
+          "attempted_at": "2026-11-07T19:01:30.207828+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8054368",
         "display_name": "Jesse Stone: Innocents Lost SD CZ Dabing",
         "planned_at": "2026-11-07T18:57:29.124701+00:00"
-      },
-      "claim": {
-        "worker_id": "045cf613f33c4c6d84916a49bdba98bf-shard-0",
-        "claimed_at": "2026-11-07T18:57:29.455899+00:00",
-        "lease_expires_at": "2026-11-08T00:57:29.455899+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896557",
       "prepared": {
@@ -129957,5 +129959,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:59:04.563770+00:00"
+  "updated_at": "2026-11-07T19:01:30.207850+00:00"
 }
