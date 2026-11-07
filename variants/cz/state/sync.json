@@ -78869,17 +78869,19 @@
       }
     },
     "28240": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26356762",
+          "target_video_id": "30897528",
+          "permanent": false,
+          "attempted_at": "2026-11-07T19:52:12.426902+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26356762",
         "display_name": "Enough Said SD CZ Dabing",
         "planned_at": "2026-11-07T19:48:06.086875+00:00"
-      },
-      "claim": {
-        "worker_id": "34a77a58152d4da08e5bd612c8e83321-shard-0",
-        "claimed_at": "2026-11-07T19:48:06.404100+00:00",
-        "lease_expires_at": "2026-11-08T01:48:06.404100+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30897528",
       "prepared": {
@@ -130391,5 +130393,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T19:49:55.800878+00:00"
+  "updated_at": "2026-11-07T19:52:12.426924+00:00"
 }
