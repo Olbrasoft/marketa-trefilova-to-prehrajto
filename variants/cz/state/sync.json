@@ -74904,17 +74904,19 @@
       }
     },
     "13634": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34900816",
+          "target_video_id": "30887384",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:14:10.079703+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34900816",
         "display_name": "The Devil Wears Prada 4K CZ Dabing",
         "planned_at": "2026-11-07T10:02:11.525860+00:00"
-      },
-      "claim": {
-        "worker_id": "89b2119bee164c1c96e17e86c98f5526-shard-0",
-        "claimed_at": "2026-11-07T10:02:12.043170+00:00",
-        "lease_expires_at": "2026-11-07T16:02:12.043170+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30887384",
       "prepared": {
@@ -124921,5 +124923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:13:53.648210+00:00"
+  "updated_at": "2026-11-07T10:14:10.079727+00:00"
 }
