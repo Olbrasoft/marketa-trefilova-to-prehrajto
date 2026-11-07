@@ -77237,17 +77237,23 @@
           "attempted_at": "2026-11-07T15:56:03.156394+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33141794",
-        "display_name": "9 1080p CZ Dabing",
-        "planned_at": "2026-11-07T15:51:48.348918+00:00"
-      },
       "previous_target_id": "30893887",
-      "prepared": {
+      "upload": {
         "target_video_id": "30893887",
-        "size_bytes": 2083259895,
-        "prepared_at": "2026-11-07T15:51:53.304303+00:00",
-        "relay_source_id": "33141794"
+        "display_name": "9 1080p CZ Dabing",
+        "source_id": "33141794",
+        "source_url": "https://sdilej.cz/33141794/cislo-9-cz.mp4",
+        "source_filename": "cislo 9 cz.mp4",
+        "size_bytes": 2100000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9573628902435303,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/9-1080p-cz-dabing-mp4/0f0e9a8638185aa6",
+        "uploaded_at": "2026-11-07T16:34:22.038622+00:00"
       }
     },
     "22584": {
@@ -77496,11 +77502,22 @@
       "last_plan": {
         "source_id": "30192324",
         "display_name": "Juror #2 1080p CZ Dabing",
-        "planned_at": "2026-11-07T16:34:15.689866+00:00"
+        "planned_at": "2026-11-07T16:34:20.439641+00:00"
+      },
+      "claim": {
+        "worker_id": "d90c3142639048afb8c388ec56bb0c35-shard-0",
+        "claimed_at": "2026-11-07T16:34:21.042277+00:00",
+        "lease_expires_at": "2026-11-07T22:34:21.042277+00:00",
+        "run_id": "42376609077"
       }
     },
     "11243": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30438052",
+        "display_name": "The Spy Who Loved Me 1080p CZ Dabing",
+        "planned_at": "2026-11-07T16:34:20.580017+00:00"
+      }
     },
     "2161": {
       "attempts": []
@@ -128494,5 +128511,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:34:18.135635+00:00"
+  "updated_at": "2026-11-07T16:34:22.038637+00:00"
 }
