@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-07T04:11:48.435343+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-07T04:45:32.202822+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-07T05:26:07.148522+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:04:35.588893+00:00"
         }
       ],
       "last_plan": {
@@ -6955,12 +6955,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "c26c676f8bc24daf8013cad368bb22d2-shard-0",
-        "claimed_at": "2026-11-07T06:04:32.104996+00:00",
-        "lease_expires_at": "2026-11-07T12:04:32.104996+00:00",
-        "run_id": "42338182103"
       }
     },
     "321": {
@@ -21562,7 +21556,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T05:26:08.498001+00:00"
+        "planned_at": "2026-11-07T06:04:34.419913+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21570,6 +21564,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "ffcaeec876924b42806646fac2554f21-shard-0",
+        "claimed_at": "2026-11-07T06:04:35.073447+00:00",
+        "lease_expires_at": "2026-11-07T12:04:35.073447+00:00",
+        "run_id": "42338182103"
       }
     },
     "677": {
@@ -73382,7 +73382,7 @@
       "last_plan": {
         "source_id": "27090744",
         "display_name": "Molière SD CZ Dabing",
-        "planned_at": "2026-11-07T06:04:31.634891+00:00"
+        "planned_at": "2026-11-07T06:04:34.663147+00:00"
       }
     },
     "33956": {
@@ -122930,5 +122930,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:04:32.766560+00:00"
+  "updated_at": "2026-11-07T06:04:35.588914+00:00"
 }
