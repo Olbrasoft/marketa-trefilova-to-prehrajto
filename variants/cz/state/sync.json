@@ -74510,17 +74510,19 @@
       "attempts": []
     },
     "15743": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34858310",
+          "target_video_id": "30886035",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:09:57.414952+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34858310",
         "display_name": "East Side Sushi 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:41:29.955697+00:00"
-      },
-      "claim": {
-        "worker_id": "4b3c853a80d5498d99c78d89bb2600a5-shard-0",
-        "claimed_at": "2026-11-07T08:41:30.303178+00:00",
-        "lease_expires_at": "2026-11-07T14:41:30.303178+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30886035",
       "prepared": {
@@ -124452,5 +124454,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:09:02.085017+00:00"
+  "updated_at": "2026-11-07T09:09:57.414967+00:00"
 }
