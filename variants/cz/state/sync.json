@@ -75290,17 +75290,19 @@
       }
     },
     "2407": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30695442",
+          "target_video_id": "30888601",
+          "permanent": false,
+          "attempted_at": "2026-11-07T11:26:02.366689+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30695442",
         "display_name": "Fast & Furious 6 4K CZ Dabing",
         "planned_at": "2026-11-07T10:58:19.279509+00:00"
-      },
-      "claim": {
-        "worker_id": "65357d7b978341ae9d859ca6d5e53037-shard-0",
-        "claimed_at": "2026-11-07T10:58:19.450276+00:00",
-        "lease_expires_at": "2026-11-07T16:58:19.450276+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30888601",
       "prepared": {
@@ -125631,5 +125633,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:24:34.568701+00:00"
+  "updated_at": "2026-11-07T11:26:02.366702+00:00"
 }
