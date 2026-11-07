@@ -71880,17 +71880,19 @@
       }
     },
     "15426": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34693550",
+          "target_video_id": "30875604",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:32:57.496886+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34693550",
         "display_name": "Godland (Vanskabte land) 1080p CZ Dabing",
         "planned_at": "2026-11-07T01:22:17.024824+00:00"
-      },
-      "claim": {
-        "worker_id": "5b0f4eb5b6944537b82f8d29c978f998-shard-0",
-        "claimed_at": "2026-11-07T01:22:17.271312+00:00",
-        "lease_expires_at": "2026-11-07T07:22:17.271312+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30875604",
       "prepared": {
@@ -121122,5 +121124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T01:22:20.965230+00:00"
+  "updated_at": "2026-11-07T01:32:57.496903+00:00"
 }
