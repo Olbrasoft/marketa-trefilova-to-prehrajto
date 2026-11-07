@@ -27546,17 +27546,19 @@
       "attempts": []
     },
     "29691": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13066841",
+          "target_video_id": "30901287",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:52:34.892962+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13066841",
         "display_name": "The Endless Trench 1080p CZ Titulky",
         "planned_at": "2026-11-07T23:29:21.428631+00:00"
-      },
-      "claim": {
-        "worker_id": "dcb5ea0188254508826a628fc305fcb5-shard-0",
-        "claimed_at": "2026-11-07T23:29:21.474251+00:00",
-        "lease_expires_at": "2026-11-08T05:29:21.474251+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30901287",
       "prepared": {
@@ -82873,5 +82875,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:50:53.312839+00:00"
+  "updated_at": "2026-11-07T23:52:34.892986+00:00"
 }
