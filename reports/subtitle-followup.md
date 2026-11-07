@@ -502,4 +502,5 @@ Attach subtitles only after target processing has finished.
 | The Outlaws (범죄도시) 1080p CZ Titulky | 30893421 | https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
 | Paddleton 1080p CZ Titulky | 30893039 | https://sdilej.cz/11532052/paddleton-2019-cz-titulky-1080p-web-dl-dd5.1-h264-.mkv | Complete: Czech subtitles verified |
 | Rye Lane 1080p CZ Titulky | 30893092 | https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| Broken (2012) 720p CZ Titulky | 30894019 | https://sdilej.cz/31255006/rozbity-svet-2012-cztitulky.mkv | Extract Czech track from exact source after processing |
 | No Game No Life: Zero (ノーゲーム・ノーライフ ゼロ) 720p CZ Titulky | 30893853 | https://sdilej.cz/10110683/-lkcsr-no-game-no-life-zero-cz-sub-.mkv | Complete: Czech subtitles verified |
