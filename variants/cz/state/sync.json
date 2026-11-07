@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "9dd0a2903eb14b36b3f6437b1cbc1919-shard-0",
+        "claimed_at": "2026-11-07T22:49:32.852585+00:00",
+        "lease_expires_at": "2026-11-08T04:49:32.852585+00:00",
+        "run_id": "42420247810"
       }
     },
     "37290": {
@@ -31925,7 +31931,7 @@
       "last_plan": {
         "source_id": "28307261",
         "display_name": "For Love and Gold SD CZ Dabing",
-        "planned_at": "2026-11-07T22:49:31.465454+00:00"
+        "planned_at": "2026-11-07T22:49:33.094580+00:00"
       }
     },
     "35284": {
@@ -67594,13 +67600,6 @@
           "source_id": "34852546",
           "target_video_id": "30853531",
           "permanent": false,
-          "attempted_at": "2026-11-07T20:52:55.637886+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34852546",
-          "target_video_id": "30853531",
-          "permanent": false,
           "attempted_at": "2026-11-07T21:23:15.995153+00:00"
         },
         {
@@ -67609,12 +67608,19 @@
           "target_video_id": "30853531",
           "permanent": false,
           "attempted_at": "2026-11-07T21:55:01.987687+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34852546",
+          "target_video_id": "30853531",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:49:34.504320+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34852546",
         "display_name": "Julieta 1080p CZ Dabing",
-        "planned_at": "2026-11-07T21:55:00.335873+00:00"
+        "planned_at": "2026-11-07T22:49:32.945974+00:00"
       },
       "previous_target_id": "30853531",
       "prepared": {
@@ -132286,5 +132292,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:49:31.465475+00:00"
+  "updated_at": "2026-11-07T22:49:34.504342+00:00"
 }
