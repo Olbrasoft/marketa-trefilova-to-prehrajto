@@ -73549,17 +73549,19 @@
       "attempts": []
     },
     "2060": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13517051",
+          "target_video_id": "30882943",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:39:57.837217+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13517051",
         "display_name": "The People vs. Fritz Bauer (Der Staat gegen Fritz Bauer) 1080p CZ Dabing",
         "planned_at": "2026-11-07T06:18:26.915089+00:00"
-      },
-      "claim": {
-        "worker_id": "eddef9ad9c2f4e3290e4b31c78d1fd1e-shard-0",
-        "claimed_at": "2026-11-07T06:18:27.263798+00:00",
-        "lease_expires_at": "2026-11-07T12:18:27.263798+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30882943",
       "prepared": {
@@ -123246,5 +123248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:38:32.064494+00:00"
+  "updated_at": "2026-11-07T06:39:57.837232+00:00"
 }
