@@ -440,7 +440,7 @@ Attach subtitles only after target processing has finished.
 | The Beast (1988) 720p CZ Titulky | 30845001 | https://sdilej.cz/30819441/the-beast-of-war-1988-cz.tit.mkv | Complete: Czech subtitles verified |
 | Constantine City of Demons: The Movie (Constantine: City of Demons - The Movie) 1080p CZ Titulky | 30845304 | https://sdilej.cz/18493180/constantine-city-of-demons-the-movie-2018-cz-sub-1080p-bluray-dts-x264.mkv | Complete: Czech subtitles verified |
 | La grazia 1080p CZ Titulky | 30846589 | https://sdilej.cz/34150864/la-grazia-2025-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
-| Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky | 30846831 | https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv | Extract Czech track from exact source after processing |
+| Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky | 30846831 | https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv | Complete: Czech subtitles verified |
 | The Whiskey Bandit (A Viszkis) SD CZ Titulky | 30849859 | https://sdilej.cz/16285415/whiskey-zlodej-the-whiskey-bandit-2017-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Ant-Man 4K CZ Titulky | 30849922 | https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv | Extract Czech track from exact source after processing |
 | Pirates of the Caribbean: At World's End 4K CZ Titulky | 30850430 | https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv | Extract Czech track from exact source after processing |
