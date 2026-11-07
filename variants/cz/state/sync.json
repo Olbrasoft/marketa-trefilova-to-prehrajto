@@ -76899,17 +76899,19 @@
       }
     },
     "13530": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27833642",
+          "target_video_id": "30893474",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:34:14.068126+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27833642",
         "display_name": "Hard Candy 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:28:10.582485+00:00"
-      },
-      "claim": {
-        "worker_id": "c01ee70f86e94870813c79496f9a1093-shard-0",
-        "claimed_at": "2026-11-07T15:28:14.078038+00:00",
-        "lease_expires_at": "2026-11-07T21:28:14.078038+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893474",
       "prepared": {
@@ -127887,5 +127889,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:28:20.032274+00:00"
+  "updated_at": "2026-11-07T15:34:14.068143+00:00"
 }
