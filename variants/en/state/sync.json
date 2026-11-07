@@ -25327,17 +25327,19 @@
       "attempts": []
     },
     "25260": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34821361",
+          "target_video_id": "30876987",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:08:51.564422+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34821361",
         "display_name": "Friday Night Lights 1080p CZ Titulky",
         "planned_at": "2026-11-07T02:28:02.057471+00:00"
-      },
-      "claim": {
-        "worker_id": "072104172b2548e293dcb8ac9e745918-shard-0",
-        "claimed_at": "2026-11-07T02:28:02.125008+00:00",
-        "lease_expires_at": "2026-11-07T08:28:02.125008+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30876987",
       "prepared": {
@@ -77750,5 +77752,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:03:25.995324+00:00"
+  "updated_at": "2026-11-07T03:08:51.564438+00:00"
 }
