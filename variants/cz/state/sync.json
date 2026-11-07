@@ -78005,17 +78005,19 @@
       }
     },
     "2450": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26253555",
+          "target_video_id": "30895177",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:27:14.804961+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26253555",
         "display_name": "Taxi (1998) 1080p CZ Dabing",
         "planned_at": "2026-11-07T17:22:14.960440+00:00"
-      },
-      "claim": {
-        "worker_id": "8f9175647c6c41b5a890eb6eddc0158a-shard-0",
-        "claimed_at": "2026-11-07T17:22:15.295436+00:00",
-        "lease_expires_at": "2026-11-07T23:22:15.295436+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30895177",
       "prepared": {
@@ -129173,5 +129175,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:25:45.402749+00:00"
+  "updated_at": "2026-11-07T17:27:14.804977+00:00"
 }
