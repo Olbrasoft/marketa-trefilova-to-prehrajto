@@ -42758,7 +42758,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-07T23:20:37.191201+00:00"
+        "planned_at": "2026-11-07T23:51:51.394545+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42766,6 +42766,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "2226869627684a328488e59992e63154-shard-0",
+        "claimed_at": "2026-11-07T23:51:51.749278+00:00",
+        "lease_expires_at": "2026-11-08T05:51:51.749278+00:00",
+        "run_id": "42420247810"
       }
     },
     "1395": {
@@ -80479,17 +80485,23 @@
           "attempted_at": "2026-11-07T23:20:38.331948+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "14848400",
-        "display_name": "The War of the Worlds 720p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:49.492181+00:00"
-      },
       "previous_target_id": "30900930",
-      "prepared": {
+      "upload": {
         "target_video_id": "30900930",
-        "size_bytes": 3675112323,
-        "prepared_at": "2026-11-07T23:07:51.774324+00:00",
-        "relay_source_id": "14848400"
+        "display_name": "The War of the Worlds 720p CZ Dabing",
+        "source_id": "14848400",
+        "source_url": "https://sdilej.cz/14848400/valka-svetu-the-war-of-the-worlds-1953-en-cz-dabing-en-cz-titulky.mkv",
+        "source_filename": "Válka světů-The War of the Worlds (1953) EN,CZ dabing-EN,CZ titulky.mkv",
+        "size_bytes": 3700000000,
+        "width": 960,
+        "height": 720,
+        "audio_language": "cs",
+        "language_probability": 0.8951340317726135,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-war-of-the-worlds-720p-cz-dabing-mkv/297c4d12f5a77cfc",
+        "uploaded_at": "2026-11-07T23:51:52.273684+00:00"
       }
     },
     "29960": {
@@ -80572,7 +80584,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:49.641525+00:00"
+        "planned_at": "2026-11-07T23:51:51.538712+00:00"
       }
     },
     "2196": {
@@ -132910,5 +132922,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:49.641546+00:00"
+  "updated_at": "2026-11-07T23:51:52.273705+00:00"
 }
