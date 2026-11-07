@@ -77661,17 +77661,19 @@
       }
     },
     "2177": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34492254",
+          "target_video_id": "30894694",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:02:52.900179+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34492254",
         "display_name": "What Dreams May Come 4K CZ Dabing",
         "planned_at": "2026-11-07T16:49:50.442379+00:00"
-      },
-      "claim": {
-        "worker_id": "945c4ef20e754cd49fe191871e8c7681-shard-0",
-        "claimed_at": "2026-11-07T16:49:50.813032+00:00",
-        "lease_expires_at": "2026-11-07T22:49:50.813032+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894694",
       "prepared": {
@@ -128741,5 +128743,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:02:12.948857+00:00"
+  "updated_at": "2026-11-07T17:02:52.900194+00:00"
 }
