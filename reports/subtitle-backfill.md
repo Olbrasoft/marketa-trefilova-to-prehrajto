@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:16:46.075411+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:16:50.283488+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 350, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 87, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 351, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 86, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -73,7 +73,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 72. Důvo
 | [Agnus Dei (Les innocentes) SD CZ Titulky](https://prehraj.to/agnus-dei-les-innocentes-sd-cz-titulky-mkv/bb11ade87d8bb027) (ID 30842899) | [Sdílej 6500108](https://sdilej.cz/6500108/nevinne-les-innocentes-agnus-dei-2016-titulky.cz.mkv) | target_unavailable | 2026-11-06T02:40:36.924719+00:00 |
 | [American Murder: The Family Next Door 1080p CZ Titulky](https://prehraj.to/american-murder-the-family-next-door-1080p-cz-titulky-mkv/4800e9d875a377e4) (ID 30884991) | [Sdílej 14236370](https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv) | target_unavailable | 2026-11-07T07:50:51.174634+00:00 |
 | [Ant-Man 4K CZ Titulky](https://prehraj.to/ant-man-4k-cz-titulky-mkv/6b0b227a8e3ac14a) (ID 30849922) | [Sdílej 27438034](https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv) | target_unavailable | 2026-11-06T06:02:20.616561+00:00 |
-| [Arrhythmia SD CZ Titulky](https://prehraj.to/arrhythmia-sd-cz-titulky-avi/6189d9dd009e9d9f) (ID 30835868) | [Sdílej 11209595](https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi) | target_unavailable | 2026-11-05T23:14:29.008039+00:00 |
 | [Belfast 1080p CZ Titulky](https://prehraj.to/belfast-1080p-cz-titulky-mkv/39c7c3f762cf0443) (ID 30864204) | [Sdílej 17022615](https://sdilej.cz/17022615/blast-beat-2021-cz-titulky.mkv) | target_unavailable | 2026-11-06T17:02:43.851792+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-07T13:57:29.267643+00:00 |
 | [Blue Jay SD CZ Titulky](https://prehraj.to/blue-jay-sd-cz-titulky-mkv/c325ce17e7b8ede1) (ID 30889481) | [Sdílej 6727450](https://sdilej.cz/6727450/blue-jay-2016-titulky.cz.mkv) | target_unavailable | 2026-11-07T11:44:21.839625+00:00 |
