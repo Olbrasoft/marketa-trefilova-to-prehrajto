@@ -76669,17 +76669,19 @@
       }
     },
     "23716": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14255423",
+          "reason": "Request failed for https://sdilej.cz/14255423/zvonik-u-matky-bozi-cz-sk-1996-animovany.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:06:07.313370+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14255423",
         "display_name": "The Hunchback of Notre Dame (1996) 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:05:20.688066+00:00"
-      },
-      "claim": {
-        "worker_id": "b55b439365374a1892d345177e2f3ad4-shard-0",
-        "claimed_at": "2026-11-07T15:05:21.246329+00:00",
-        "lease_expires_at": "2026-11-07T21:05:21.246329+00:00",
-        "run_id": "42376609077"
       }
     },
     "2256": {
@@ -127395,5 +127397,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:05:33.076604+00:00"
+  "updated_at": "2026-11-07T15:06:07.313385+00:00"
 }
