@@ -496,6 +496,6 @@ Attach subtitles only after target processing has finished.
 | The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky | 30889483 | https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | The Tale 1080p CZ Titulky | 30890507 | https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Code 3 1080p CZ Titulky | 30890643 | https://sdilej.cz/32513243/code-3-2025-cz-titulky.mkv | Complete: Czech subtitles verified |
-| 71: Into the Fire (포화 속으로) 720p CZ Titulky | 30891751 | https://sdilej.cz/19963845/71-into-the-fire-2010-kor-bdrip.720p.x264.cz.en.tit.mkv | Extract Czech track from exact source after processing |
+| 71: Into the Fire (포화 속으로) 720p CZ Titulky | 30891751 | https://sdilej.cz/19963845/71-into-the-fire-2010-kor-bdrip.720p.x264.cz.en.tit.mkv | Complete: Czech subtitles verified |
 | Batman: The Long Halloween, Part Two 1080p CZ Titulky | 30891824 | https://sdilej.cz/17778553/batman.the.long.halloween.part.two.2021.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Hidden Kisses SD CZ Titulky | 30891960 | https://sdilej.cz/16922703/hidden-kisses-2016-cz-titulky.mkv | Complete: Czech subtitles verified |
