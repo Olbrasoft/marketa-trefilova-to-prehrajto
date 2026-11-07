@@ -75438,17 +75438,19 @@
       }
     },
     "12940": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27174346",
+          "target_video_id": "30889551",
+          "permanent": false,
+          "attempted_at": "2026-11-07T11:48:38.862354+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27174346",
         "display_name": "Šíleně smutná princezna 1080p CZ Dabing",
         "planned_at": "2026-11-07T11:44:14.327914+00:00"
-      },
-      "claim": {
-        "worker_id": "2db2cd6d66b44019a65d418578852bfa-shard-0",
-        "claimed_at": "2026-11-07T11:44:14.842596+00:00",
-        "lease_expires_at": "2026-11-07T17:44:14.842596+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30889551",
       "prepared": {
@@ -125703,5 +125705,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:44:18.718101+00:00"
+  "updated_at": "2026-11-07T11:48:38.862370+00:00"
 }
