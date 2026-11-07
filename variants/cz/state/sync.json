@@ -18868,7 +18868,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-07T07:56:09.783702+00:00"
+        "planned_at": "2026-11-07T08:28:35.300634+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18876,6 +18876,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "d48754b3dac34d07bfddb116c1e1e263-shard-0",
+        "claimed_at": "2026-11-07T08:28:36.000531+00:00",
+        "lease_expires_at": "2026-11-07T14:28:36.000531+00:00",
+        "run_id": "42338182103"
       }
     },
     "29695": {
@@ -74188,17 +74194,19 @@
       "attempts": []
     },
     "27665": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34710258",
+          "target_video_id": "30885574",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:28:36.710805+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710258",
         "display_name": "Surviving Paradise: A Family Tale 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:13:11.190531+00:00"
-      },
-      "claim": {
-        "worker_id": "3c8a14d46a584f648c7af84248263f8e-shard-0",
-        "claimed_at": "2026-11-07T08:13:11.537065+00:00",
-        "lease_expires_at": "2026-11-07T14:13:11.537065+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885574",
       "prepared": {
@@ -74321,7 +74329,7 @@
       "last_plan": {
         "source_id": "8458833",
         "display_name": "Swordsman II (The Legend of the Swordsman) SD CZ Dabing",
-        "planned_at": "2026-11-07T08:28:30.070795+00:00"
+        "planned_at": "2026-11-07T08:28:35.559420+00:00"
       }
     },
     "26335": {
@@ -124152,5 +124160,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:28:32.292306+00:00"
+  "updated_at": "2026-11-07T08:28:36.710821+00:00"
 }
