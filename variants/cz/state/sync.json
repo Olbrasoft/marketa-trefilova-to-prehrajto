@@ -74086,17 +74086,19 @@
       }
     },
     "20214": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21757991",
+          "target_video_id": "30885536",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:13:06.088235+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21757991",
         "display_name": "The Fencer (Miekkailija) SD CZ Dabing",
         "planned_at": "2026-11-07T08:10:11.642455+00:00"
-      },
-      "claim": {
-        "worker_id": "e7477bf0df6649a0a04661878402b682-shard-0",
-        "claimed_at": "2026-11-07T08:10:11.996315+00:00",
-        "lease_expires_at": "2026-11-07T14:10:11.996315+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885536",
       "prepared": {
@@ -123835,5 +123837,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:12:26.368152+00:00"
+  "updated_at": "2026-11-07T08:13:06.088251+00:00"
 }
