@@ -80230,17 +80230,19 @@
       "attempts": []
     },
     "2267": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29292040",
+          "target_video_id": "30900654",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:54:42.357162+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29292040",
         "display_name": "Henry: Portrait of a Serial Killer SD CZ Dabing",
         "planned_at": "2026-11-07T22:50:38.081375+00:00"
-      },
-      "claim": {
-        "worker_id": "0b179a037d7647e2b56f9ed539a069ae-shard-0",
-        "claimed_at": "2026-11-07T22:50:38.281618+00:00",
-        "lease_expires_at": "2026-11-08T04:50:38.281618+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30900654",
       "prepared": {
@@ -132367,5 +132369,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:50:42.198188+00:00"
+  "updated_at": "2026-11-07T22:54:42.357183+00:00"
 }
