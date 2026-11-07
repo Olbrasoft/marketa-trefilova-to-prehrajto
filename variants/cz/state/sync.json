@@ -72639,17 +72639,19 @@
       }
     },
     "10979": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34672749",
+          "target_video_id": "30878517",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:55:54.040126+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34672749",
         "display_name": "All My Compatriots (Všichni dobří rodáci) 1080p CZ Dabing",
         "planned_at": "2026-11-07T03:36:24.994933+00:00"
-      },
-      "claim": {
-        "worker_id": "80663c20468b4ec4a63ba77f01fa6106-shard-0",
-        "claimed_at": "2026-11-07T03:36:25.334774+00:00",
-        "lease_expires_at": "2026-11-07T09:36:25.334774+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30878517",
       "prepared": {
@@ -122145,5 +122147,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:46:57.692448+00:00"
+  "updated_at": "2026-11-07T03:55:54.040143+00:00"
 }
