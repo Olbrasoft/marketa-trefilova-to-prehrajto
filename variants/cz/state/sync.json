@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T20:02:53.171101+00:00"
+        "planned_at": "2026-11-07T20:37:18.056898+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "8912c8a94cc1471ab82234b2eb3552cf-shard-0",
+        "claimed_at": "2026-11-07T20:37:18.591815+00:00",
+        "lease_expires_at": "2026-11-08T02:37:18.591815+00:00",
+        "run_id": "42395943512"
       }
     },
     "29922": {
@@ -79201,17 +79207,19 @@
       }
     },
     "13464": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7009130",
+          "target_video_id": "30898226",
+          "permanent": false,
+          "attempted_at": "2026-11-07T20:37:22.520452+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7009130",
         "display_name": "Breach (2007) SD CZ Dabing",
         "planned_at": "2026-11-07T20:34:17.216416+00:00"
-      },
-      "claim": {
-        "worker_id": "f8eb358bdf154a9c8413e3401fc76be7-shard-0",
-        "claimed_at": "2026-11-07T20:34:17.524202+00:00",
-        "lease_expires_at": "2026-11-08T02:34:17.524202+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898226",
       "prepared": {
@@ -79222,7 +79230,12 @@
       }
     },
     "37296": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34355543",
+        "display_name": "Smokey and the Bandit 4K CZ Dabing",
+        "planned_at": "2026-11-07T20:37:18.291371+00:00"
+      }
     },
     "32495": {
       "attempts": []
@@ -130963,5 +130976,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T20:37:11.662481+00:00"
+  "updated_at": "2026-11-07T20:37:22.520473+00:00"
 }
