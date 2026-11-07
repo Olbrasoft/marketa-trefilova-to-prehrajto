@@ -78502,7 +78502,20 @@
       }
     },
     "31893": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "29185549",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-07T18:50:20.276721+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29185549",
+        "display_name": "What About Bob? 1080p CZ Dabing",
+        "planned_at": "2026-11-07T18:49:15.853256+00:00"
+      }
     },
     "31951": {
       "attempts": []
@@ -129880,5 +129893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:49:14.190978+00:00"
+  "updated_at": "2026-11-07T18:50:20.276746+00:00"
 }
