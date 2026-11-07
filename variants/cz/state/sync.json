@@ -6947,7 +6947,7 @@
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:19:50.740868+00:00"
+        "planned_at": "2026-11-07T23:51:23.158536+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -6955,6 +6955,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "28dc8cea5ab248afa8eb1f4a6e343f1e-shard-0",
+        "claimed_at": "2026-11-07T23:51:23.515545+00:00",
+        "lease_expires_at": "2026-11-08T05:51:23.515545+00:00",
+        "run_id": "42420247810"
       }
     },
     "321": {
@@ -79921,13 +79927,6 @@
           "source_id": "28771706",
           "target_video_id": "30899097",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:40:24.959678+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28771706",
-          "target_video_id": "30899097",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:47:14.305572+00:00"
         },
         {
@@ -79936,6 +79935,13 @@
           "target_video_id": "30899097",
           "permanent": false,
           "attempted_at": "2026-11-07T23:19:49.589801+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28771706",
+          "target_video_id": "30899097",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:51:23.638199+00:00"
         }
       ],
       "last_plan": {
@@ -79949,12 +79955,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-07T21:32:39.846982+00:00",
         "relay_source_id": "28771706"
-      },
-      "claim": {
-        "worker_id": "1bed4f9079524ab4a4d4282c78d431c1-shard-0",
-        "claimed_at": "2026-11-07T23:51:21.491442+00:00",
-        "lease_expires_at": "2026-11-08T05:51:21.491442+00:00",
-        "run_id": "42420247810"
       }
     },
     "2305": {
@@ -80578,7 +80578,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:21.292896+00:00"
+        "planned_at": "2026-11-07T23:51:23.308112+00:00"
       }
     },
     "2196": {
@@ -132916,5 +132916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:21.623636+00:00"
+  "updated_at": "2026-11-07T23:51:23.638220+00:00"
 }
