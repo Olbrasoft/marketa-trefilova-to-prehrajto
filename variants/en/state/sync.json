@@ -27224,17 +27224,19 @@
       "attempts": []
     },
     "17916": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18892846",
+          "target_video_id": "30898313",
+          "permanent": false,
+          "attempted_at": "2026-11-07T20:52:51.285586+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18892846",
         "display_name": "Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky",
         "planned_at": "2026-11-07T20:40:41.784541+00:00"
-      },
-      "claim": {
-        "worker_id": "a7e2ae47eb9b488eb5cee12708dc51a7-shard-0",
-        "claimed_at": "2026-11-07T20:40:41.866014+00:00",
-        "lease_expires_at": "2026-11-08T02:40:41.866014+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898313",
       "prepared": {
@@ -82008,5 +82010,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T20:50:14.417625+00:00"
+  "updated_at": "2026-11-07T20:52:51.285610+00:00"
 }
