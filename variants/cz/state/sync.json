@@ -79079,17 +79079,19 @@
       }
     },
     "2219": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27907045",
+          "target_video_id": "30898019",
+          "permanent": false,
+          "attempted_at": "2026-11-07T20:27:43.777825+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27907045",
         "display_name": "The Sea Beast 1080p CZ Dabing",
         "planned_at": "2026-11-07T20:20:01.416735+00:00"
-      },
-      "claim": {
-        "worker_id": "5310c45d5e374a8699f35723e46db94d-shard-0",
-        "claimed_at": "2026-11-07T20:20:01.752800+00:00",
-        "lease_expires_at": "2026-11-08T02:20:01.752800+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898019",
       "prepared": {
@@ -130871,5 +130873,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T20:20:30.218809+00:00"
+  "updated_at": "2026-11-07T20:27:43.777851+00:00"
 }
