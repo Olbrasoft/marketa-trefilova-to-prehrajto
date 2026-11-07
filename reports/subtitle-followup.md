@@ -460,7 +460,7 @@ Attach subtitles only after target processing has finished.
 | The Founder 1080p CZ Titulky | 30860047 | https://sdilej.cz/21019911/the-founder-2016-hevc-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Bridge to Terabithia 1080p CZ Titulky | 30860568 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Complete: Czech subtitles verified |
 | Steve Jobs 1080p CZ Titulky | 30860819 | https://sdilej.cz/5722967/steve.jobs.2015.1080p.bluray.h264.ac3-rarbg.cz.mkv | Complete: Czech subtitles verified |
-| The Ballad of Buster Scruggs 1080p CZ Titulky | 30861500 | https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv | Extract Czech track from exact source after processing |
+| The Ballad of Buster Scruggs 1080p CZ Titulky | 30861500 | https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv | Complete: Czech subtitles verified |
 | The Little Mermaid (2023) 1080p CZ Titulky | 30861626 | https://sdilej.cz/26570302/the.little.mermaid.web-dl.en-5.1.tituly.cz.sk..2023.1080p.mkv | Extract Czech track from exact source after processing |
 | Predator: Badlands 4K CZ Titulky | 30862557 | https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | They Live 1080p CZ Titulky | 30862600 | https://sdilej.cz/30541445/jsou-mezi-nami-oni-ziji-1988-cz-en-1080p.mkv | Extract Czech track from exact source after processing |
