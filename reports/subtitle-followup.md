@@ -505,3 +505,4 @@ Attach subtitles only after target processing has finished.
 | Broken (2012) 720p CZ Titulky | 30894019 | https://sdilej.cz/31255006/rozbity-svet-2012-cztitulky.mkv | Complete: Czech subtitles verified |
 | No Game No Life: Zero (ノーゲーム・ノーライフ ゼロ) 720p CZ Titulky | 30893853 | https://sdilej.cz/10110683/-lkcsr-no-game-no-life-zero-cz-sub-.mkv | Complete: Czech subtitles verified |
 | Cactus Flower 1080p CZ Titulky | 30894652 | https://sdilej.cz/35402062/cactus-flower-1969-1-.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Champions (Campeones) (2018) 1080p CZ Titulky | 30895897 | https://sdilej.cz/32204599/sampioni.mkv | Extract Czech track from exact source after processing |
