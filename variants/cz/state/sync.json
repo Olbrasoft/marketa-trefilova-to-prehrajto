@@ -80002,17 +80002,19 @@
       "attempts": []
     },
     "26417": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34895267",
+          "target_video_id": "30899651",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:04:40.848325+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34895267",
         "display_name": "Two Lovers SD CZ Dabing",
         "planned_at": "2026-11-07T22:02:00.643290+00:00"
-      },
-      "claim": {
-        "worker_id": "2e7aa4b3fd36422db4b1d951bb6a4bc8-shard-0",
-        "claimed_at": "2026-11-07T22:02:01.081412+00:00",
-        "lease_expires_at": "2026-11-08T04:02:01.081412+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30899651",
       "prepared": {
@@ -131878,5 +131880,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:03:41.217092+00:00"
+  "updated_at": "2026-11-07T22:04:40.848346+00:00"
 }
