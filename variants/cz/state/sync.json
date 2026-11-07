@@ -79638,17 +79638,19 @@
       "attempts": []
     },
     "2365": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32872140",
+          "target_video_id": "30898970",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:30:56.332827+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32872140",
         "display_name": "The Peanuts Movie 720p CZ Dabing",
         "planned_at": "2026-11-07T21:23:52.245309+00:00"
-      },
-      "claim": {
-        "worker_id": "20d492d03ae347908839c02e459cfe49-shard-0",
-        "claimed_at": "2026-11-07T21:23:52.568047+00:00",
-        "lease_expires_at": "2026-11-08T03:23:52.568047+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898970",
       "prepared": {
@@ -131580,5 +131582,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:23:59.160587+00:00"
+  "updated_at": "2026-11-07T21:30:56.332847+00:00"
 }
