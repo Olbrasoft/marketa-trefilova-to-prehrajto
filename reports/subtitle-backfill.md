@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T05:49:44.012862+00:00
+Poslední aktualizace (UTC): 2026-11-07T05:49:45.738674+00:00
 
 Zkontrolováno videí: 485. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 330, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 94, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 330, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 95, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -91,6 +91,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 99. Důvod
 | [Five Feet Apart 1080p CZ Titulky](https://prehraj.to/five-feet-apart-1080p-cz-titulky-mkv/46bb179cb1992263) (ID 30871545) | [Sdílej 12142719](https://sdilej.cz/12142719/five.feet.apart.2019.1080p.bluray.h264.dd5.1-aac-.sk.cz-titulky.mkv) | target_unavailable | 2026-11-06T22:27:50.335009+00:00 |
 | [Friday Night Lights 1080p CZ Titulky](https://prehraj.to/friday-night-lights-1080p-cz-titulky-mkv/621e3a8a42c6e52a) (ID 30876987) | [Sdílej 34821361](https://sdilej.cz/34821361/friday.night.lights.2004.open.matte.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-07T02:38:00.229063+00:00 |
 | [Fyre 1080p CZ Titulky](https://prehraj.to/fyre-1080p-cz-titulky-mp4/4d5f4e9c4ceea675) (ID 30878931) | [Sdílej 29268462](https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4) | target_unavailable | 2026-11-07T03:58:38.730855+00:00 |
+| [Good Luck to You, Leo Grande 1080p CZ Titulky](https://prehraj.to/good-luck-to-you-leo-grande-1080p-cz-titulky-mkv/3733fbd177f4e082) (ID 30882377) | [Sdílej 31031957](https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv) | target_unavailable | 2026-11-07T05:49:45.738584+00:00 |
 | [Grease 4K CZ Titulky](https://prehraj.to/grease-4k-cz-titulky-mkv/fc50bf2fa2cb63f7) (ID 30855592) | [Sdílej 31103634](https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv) | target_unavailable | 2026-11-06T09:44:34.066242+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-06T01:20:03.845148+00:00 |
 | [Hoppers 4K CZ Titulky](https://prehraj.to/hoppers-4k-cz-titulky-mkv/bef6aaeb2441651e) (ID 30874854) | [Sdílej 34985034](https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv) | target_unavailable | 2026-11-07T00:57:14.468765+00:00 |
