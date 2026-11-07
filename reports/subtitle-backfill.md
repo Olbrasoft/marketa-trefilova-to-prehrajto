@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T13:58:34.572279+00:00
+Poslední aktualizace (UTC): 2026-11-07T13:58:42.358512+00:00
 
 Zkontrolováno videí: 497. Další stránka kontroly: 0.
 
@@ -124,7 +124,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [Pirates of the Caribbean: At World's End 4K CZ Titulky](https://prehraj.to/pirates-of-the-caribbean-at-world-s-end-4k-cz-titulky-mkv/5105285d5b027286) (ID 30850430) | [Sdílej 32902146](https://sdilej.cz/32902146/pirati-z-karibiku-na-konci-sveta-2007-2160p-cz-dabing-en-truehd-atmos-radecek.mkv) | target_unavailable | 2026-11-06T06:22:25.566526+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-07T13:58:20.108353+00:00 |
 | [Predator: Badlands 4K CZ Titulky](https://prehraj.to/predator-badlands-4k-cz-titulky-mkv/4d2bd24f6cad7a47) (ID 30862557) | [Sdílej 32831183](https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv) | target_unavailable | 2026-11-06T15:42:00.564780+00:00 |
-| [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-05T14:29:28.329405+00:00 |
+| [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-07T13:58:42.358465+00:00 |
 | [Reprise SD CZ Titulky](https://prehraj.to/reprise-sd-cz-titulky-mkv/d85c058014e2ec96) (ID 30835226) | [Sdílej 8431051](https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv) | target_unavailable | 2026-11-05T22:54:17.796804+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-07T13:58:23.688080+00:00 |
 | [RocknRolla 1080p CZ Titulky](https://prehraj.to/rocknrolla-1080p-cz-titulky-mkv/d31b2b89c8c24829) (ID 30856994) | [Sdílej 34921369](https://sdilej.cz/34921369/rocknrolla-2008-.mkv) | target_unavailable | 2026-11-06T10:56:17.090535+00:00 |
