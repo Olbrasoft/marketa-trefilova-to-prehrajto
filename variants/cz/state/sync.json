@@ -77719,17 +77719,19 @@
       }
     },
     "12360": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20157114",
+          "target_video_id": "30894779",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:00:35.349026+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20157114",
         "display_name": "Cop Land 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:55:23.366440+00:00"
-      },
-      "claim": {
-        "worker_id": "8d16e57d01db4721bd20e3675ef18a8b-shard-0",
-        "claimed_at": "2026-11-07T16:55:23.699266+00:00",
-        "lease_expires_at": "2026-11-07T22:55:23.699266+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894779",
       "prepared": {
@@ -128701,5 +128703,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:55:27.730958+00:00"
+  "updated_at": "2026-11-07T17:00:35.349041+00:00"
 }
