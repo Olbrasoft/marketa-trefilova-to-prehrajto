@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T20:37:18.056898+00:00"
+        "planned_at": "2026-11-07T21:12:24.820411+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "349b40bc92b14a729146553a7cb4a8ab-shard-0",
+        "claimed_at": "2026-11-07T21:12:25.463599+00:00",
+        "lease_expires_at": "2026-11-08T03:12:25.463599+00:00",
+        "run_id": "42395943512"
       }
     },
     "29922": {
@@ -79505,17 +79511,19 @@
       }
     },
     "23390": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33771531",
+          "target_video_id": "30898705",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:13:12.650005+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33771531",
         "display_name": "Homeward Bound: The Incredible Journey 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:08:00.544548+00:00"
-      },
-      "claim": {
-        "worker_id": "2aec123e53aa49648e5c71b536124086-shard-0",
-        "claimed_at": "2026-11-07T21:08:00.869410+00:00",
-        "lease_expires_at": "2026-11-08T03:08:00.869410+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898705",
       "prepared": {
@@ -79532,7 +79540,12 @@
       "attempts": []
     },
     "14760": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32352787",
+        "display_name": "Kill the Irishman 1080p CZ Dabing",
+        "planned_at": "2026-11-07T21:12:25.067717+00:00"
+      }
     },
     "2317": {
       "attempts": []
@@ -131222,5 +131235,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:12:23.124059+00:00"
+  "updated_at": "2026-11-07T21:13:12.650028+00:00"
 }
