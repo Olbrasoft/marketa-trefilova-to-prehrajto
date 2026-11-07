@@ -18950,7 +18950,7 @@
       "last_plan": {
         "source_id": "32830370",
         "display_name": "Wait Until Dark 1080p CZ Dabing",
-        "planned_at": "2026-11-07T21:20:41.455783+00:00"
+        "planned_at": "2026-11-07T21:20:49.377597+00:00"
       }
     },
     "21624": {
@@ -79302,7 +79302,7 @@
       "last_plan": {
         "source_id": "34355543",
         "display_name": "Smokey and the Bandit 4K CZ Dabing",
-        "planned_at": "2026-11-07T21:20:41.204918+00:00"
+        "planned_at": "2026-11-07T21:20:49.122187+00:00"
       },
       "previous_target_id": "30898255",
       "prepared": {
@@ -79570,17 +79570,19 @@
       }
     },
     "2317": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28249205",
+          "target_video_id": "30898810",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:20:50.821527+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28249205",
         "display_name": "Pawn Sacrifice 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:14:06.619751+00:00"
-      },
-      "claim": {
-        "worker_id": "62abdf67dd7f43eabc45d5e21b25a414-shard-0",
-        "claimed_at": "2026-11-07T21:14:06.950915+00:00",
-        "lease_expires_at": "2026-11-08T03:14:06.950915+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30898810",
       "prepared": {
@@ -131521,5 +131523,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:20:41.455807+00:00"
+  "updated_at": "2026-11-07T21:20:50.821548+00:00"
 }
