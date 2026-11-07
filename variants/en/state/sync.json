@@ -25709,17 +25709,19 @@
       "attempts": []
     },
     "1620": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31031957",
+          "target_video_id": "30882377",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:17:05.741194+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31031957",
         "display_name": "Good Luck to You, Leo Grande 1080p CZ Titulky",
         "planned_at": "2026-11-07T05:49:11.609075+00:00"
-      },
-      "claim": {
-        "worker_id": "bec352fcbd0b4442a1150bb299c9e005-shard-0",
-        "claimed_at": "2026-11-07T05:49:11.690683+00:00",
-        "lease_expires_at": "2026-11-07T11:49:11.690683+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30882377",
       "prepared": {
@@ -78267,5 +78269,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:04:59.720577+00:00"
+  "updated_at": "2026-11-07T06:17:05.741211+00:00"
 }
