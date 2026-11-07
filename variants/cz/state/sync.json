@@ -4163,7 +4163,7 @@
       "last_plan": {
         "source_id": "32323511",
         "display_name": "The Cranes Are Flying (Летят журавли) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T13:20:06.902342+00:00"
+        "planned_at": "2026-11-07T13:50:14.711521+00:00"
       },
       "previous_target_id": "30612756",
       "prepared": {
@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "267b05c3798140e196ad34455768856a-shard-0",
+        "claimed_at": "2026-11-07T13:50:15.503349+00:00",
+        "lease_expires_at": "2026-11-07T19:50:15.503349+00:00",
+        "run_id": "42376609077"
       }
     },
     "37290": {
@@ -74060,13 +74066,6 @@
           "source_id": "31379501",
           "target_video_id": "30885416",
           "permanent": false,
-          "attempted_at": "2026-11-07T12:12:14.330886+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31379501",
-          "target_video_id": "30885416",
-          "permanent": false,
           "attempted_at": "2026-11-07T12:44:59.927344+00:00"
         },
         {
@@ -74075,6 +74074,13 @@
           "target_video_id": "30885416",
           "permanent": false,
           "attempted_at": "2026-11-07T13:20:05.511146+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31379501",
+          "target_video_id": "30885416",
+          "permanent": false,
+          "attempted_at": "2026-11-07T13:50:15.373436+00:00"
         }
       ],
       "last_plan": {
@@ -74088,12 +74094,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T08:02:43.047319+00:00",
         "relay_source_id": "31379501"
-      },
-      "claim": {
-        "worker_id": "6b7384aaccd84f4f8f08087e35ef0e40-shard-0",
-        "claimed_at": "2026-11-07T13:50:12.975658+00:00",
-        "lease_expires_at": "2026-11-07T19:50:12.975658+00:00",
-        "run_id": "42376609077"
       }
     },
     "25458": {
@@ -76087,7 +76087,7 @@
       "last_plan": {
         "source_id": "30992194",
         "display_name": "Saltburn 1080p CZ Dabing",
-        "planned_at": "2026-11-07T13:50:12.425150+00:00"
+        "planned_at": "2026-11-07T13:50:14.951098+00:00"
       }
     },
     "2186": {
@@ -126681,5 +126681,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:50:12.975685+00:00"
+  "updated_at": "2026-11-07T13:50:15.503372+00:00"
 }
