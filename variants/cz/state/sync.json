@@ -77773,17 +77773,19 @@
       }
     },
     "2434": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28775980",
+          "target_video_id": "30894873",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:06:36.041892+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28775980",
         "display_name": "Unleashed (2005) 1080p CZ Dabing",
         "planned_at": "2026-11-07T17:02:07.968423+00:00"
-      },
-      "claim": {
-        "worker_id": "ffe6dcbc629e47c09795ae6472b2859a-shard-0",
-        "claimed_at": "2026-11-07T17:02:08.323738+00:00",
-        "lease_expires_at": "2026-11-07T23:02:08.323738+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894873",
       "prepared": {
@@ -128780,5 +128782,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:03:54.826365+00:00"
+  "updated_at": "2026-11-07T17:06:36.041934+00:00"
 }
