@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-06T21:56:20.529310+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-06T22:26:55.898013+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-07T00:51:55.875530+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:22:14.373905+00:00"
         }
       ],
       "last_plan": {
@@ -64130,7 +64130,13 @@
       "last_plan": {
         "source_id": "28526168",
         "display_name": "Mean Streets 1080p CZ Dabing",
-        "planned_at": "2026-11-07T01:22:10.007474+00:00"
+        "planned_at": "2026-11-07T01:22:11.674253+00:00"
+      },
+      "claim": {
+        "worker_id": "4b15d3843e8f425bbfc0d8e4ab5cb2d7-shard-0",
+        "claimed_at": "2026-11-07T01:22:12.228776+00:00",
+        "lease_expires_at": "2026-11-07T07:22:12.228776+00:00",
+        "run_id": "42319503958"
       }
     },
     "33001": {
@@ -121096,5 +121102,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T01:22:10.007491+00:00"
+  "updated_at": "2026-11-07T01:22:14.373922+00:00"
 }
