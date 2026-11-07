@@ -510,3 +510,4 @@ Attach subtitles only after target processing has finished.
 | The Yakuza 1080p CZ Titulky | 30897645 | https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv | Extract Czech track from exact source after processing |
 | Yesterday, Today and Tomorrow 720p CZ Titulky | 30898129 | https://sdilej.cz/28474221/vcera-dnes-a-zitra-italie-fr-1963-vittorio-de-sica-bluray.720p.en.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky | 30898313 | https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
+| Panna a netvor 1080p CZ Titulky | 30901163 | https://sdilej.cz/33576531/panna-a-netvor-1978-fhd-cz-de.mkv | Extract Czech track from exact source after processing |
