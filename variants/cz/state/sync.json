@@ -66350,17 +66350,19 @@
       }
     },
     "22663": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34618203",
+          "target_video_id": "30877148",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:04:23.818673+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34618203",
         "display_name": "The Big Chill SD CZ Dabing",
         "planned_at": "2026-11-07T02:36:11.249091+00:00"
-      },
-      "claim": {
-        "worker_id": "287273e9234542c09a7e9a0be92a9a6a-shard-0",
-        "claimed_at": "2026-11-07T02:36:11.502713+00:00",
-        "lease_expires_at": "2026-11-07T08:36:11.502713+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30877148",
       "prepared": {
@@ -121791,5 +121793,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:03:22.175865+00:00"
+  "updated_at": "2026-11-07T03:04:23.818689+00:00"
 }
