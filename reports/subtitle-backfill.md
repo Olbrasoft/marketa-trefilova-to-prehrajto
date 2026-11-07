@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:07:45.928657+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:07:50.139471+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 346, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 91, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 347, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 90, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -80,7 +80,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 91. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-07T13:57:51.020727+00:00 |
 | [Bridge to Terabithia 1080p CZ Titulky](https://prehraj.to/bridge-to-terabithia-1080p-cz-titulky-mkv/e9c530162461b1ec) (ID 30860568) | [Sdílej 30611137](https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv) | target_unavailable | 2026-11-06T13:57:53.971587+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-07T14:06:50.557163+00:00 |
-| [Butterflies (Kelebekler) 1080p CZ Titulky](https://prehraj.to/butterflies-kelebekler-1080p-cz-titulky-mkv/4e9d119255e543b1) (ID 30833864) | [Sdílej 11769265](https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv) | target_unavailable | 2026-11-05T22:03:44.780836+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-06T12:47:22.137842+00:00 |
 | [Christopher Robin 1080p CZ Titulky](https://prehraj.to/christopher-robin-1080p-cz-titulky-mkv/92a5bc4d30312f13) (ID 30874745) | [Sdílej 11711857](https://sdilej.cz/11711857/krystufek-robin-cz-titulky-2018-.mkv) | target_unavailable | 2026-11-07T00:57:10.415112+00:00 |
 | [Code 3 1080p CZ Titulky](https://prehraj.to/code-3-1080p-cz-titulky-mkv/cb73df5f9fb90550) (ID 30890643) | [Sdílej 32513243](https://sdilej.cz/32513243/code-3-2025-cz-titulky.mkv) | target_unavailable | 2026-11-07T12:54:49.217777+00:00 |
