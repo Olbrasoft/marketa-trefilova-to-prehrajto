@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-07T02:22:10.584219+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-07T03:00:45.527656+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-07T03:34:10.966217+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-07T04:11:15.003548+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "904928aaae744d9e9e6cda56368c07fb-shard-0",
-        "claimed_at": "2026-11-07T04:11:12.408904+00:00",
-        "lease_expires_at": "2026-11-07T10:11:12.408904+00:00",
-        "run_id": "42319503958"
       }
     },
     "10755": {
@@ -18874,7 +18868,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-07T03:34:10.337704+00:00"
+        "planned_at": "2026-11-07T04:11:14.406809+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18882,6 +18876,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "0400be79656f49fcaab79711453232ac-shard-0",
+        "claimed_at": "2026-11-07T04:11:14.855418+00:00",
+        "lease_expires_at": "2026-11-07T10:11:14.855418+00:00",
+        "run_id": "42319503958"
       }
     },
     "29695": {
@@ -72798,7 +72798,7 @@
       "last_plan": {
         "source_id": "34672835",
         "display_name": "Men about Town (Světáci) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T04:11:12.132385+00:00"
+        "planned_at": "2026-11-07T04:11:14.591041+00:00"
       }
     },
     "21570": {
@@ -122212,5 +122212,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T04:11:13.094101+00:00"
+  "updated_at": "2026-11-07T04:11:15.003567+00:00"
 }
