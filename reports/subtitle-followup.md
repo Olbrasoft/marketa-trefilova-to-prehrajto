@@ -427,7 +427,7 @@ Attach subtitles only after target processing has finished.
 | Butterflies (Kelebekler) 1080p CZ Titulky | 30833864 | https://sdilej.cz/11769265/kelebekler.2018.1080p.web-dl.dd5.1-ac3-.h264.cz-titulky.mkv | Complete: Czech subtitles verified |
 | Jin-Roh: The Wolf Brigade (人狼 JIN-ROH) SD CZ Titulky | 30833915 | https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv | Complete: Czech subtitles verified |
 | I Am Heath Ledger SD CZ Titulky | 30834760 | https://sdilej.cz/7474986/jmenuji-se-heath-ledger-i-am-heath-ledger-2017-titulky.cz.mkv | Complete: Czech subtitles verified |
-| Reprise SD CZ Titulky | 30835226 | https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Reprise SD CZ Titulky | 30835226 | https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Arrhythmia SD CZ Titulky | 30835868 | https://sdilej.cz/11209595/arytmie-2017-cz-titulky-vlozene.avi | Extract Czech track from exact source after processing |
 | Mardaani 1080p CZ Titulky | 30840183 | https://sdilej.cz/33807079/neohrozena-mardaani-2014-krimi-thriller-hi-aac5.1-titulky-cz-h265-1080p.mkv | Extract Czech track from exact source after processing |
 | Truman 1080p CZ Titulky | 30840252 | https://sdilej.cz/11718608/truman.2015.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
