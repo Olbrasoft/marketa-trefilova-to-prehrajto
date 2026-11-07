@@ -74229,17 +74229,19 @@
       }
     },
     "2002": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12151232",
+          "target_video_id": "30885692",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:24:41.190186+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12151232",
         "display_name": "Tehran Taboo (Theran Taboo) SD CZ Dabing",
         "planned_at": "2026-11-07T08:20:07.662716+00:00"
-      },
-      "claim": {
-        "worker_id": "2587fafb83c744adaf87ac6dfa81504f-shard-0",
-        "claimed_at": "2026-11-07T08:20:07.975320+00:00",
-        "lease_expires_at": "2026-11-07T14:20:07.975320+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885692",
       "prepared": {
@@ -124119,5 +124121,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:22:42.702656+00:00"
+  "updated_at": "2026-11-07T08:24:41.190202+00:00"
 }
