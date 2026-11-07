@@ -25826,17 +25826,19 @@
       "attempts": []
     },
     "1656": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14236370",
+          "target_video_id": "30884991",
+          "permanent": false,
+          "attempted_at": "2026-11-07T07:56:55.762641+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14236370",
         "display_name": "American Murder: The Family Next Door 1080p CZ Titulky",
         "planned_at": "2026-11-07T07:42:59.714326+00:00"
-      },
-      "claim": {
-        "worker_id": "23822b5fc2c6415fa982b7a7428f5cc6-shard-0",
-        "claimed_at": "2026-11-07T07:42:59.809185+00:00",
-        "lease_expires_at": "2026-11-07T13:42:59.809185+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30884991",
       "prepared": {
@@ -78612,5 +78614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T07:45:35.351964+00:00"
+  "updated_at": "2026-11-07T07:56:55.762657+00:00"
 }
