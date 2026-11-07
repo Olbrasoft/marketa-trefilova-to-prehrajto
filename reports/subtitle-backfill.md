@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:16:44.228494+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:16:46.075411+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 349, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 88, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 350, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 87, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -115,7 +115,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 72. Důvo
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-07T13:58:20.108353+00:00 |
 | [Predator: Badlands 4K CZ Titulky](https://prehraj.to/predator-badlands-4k-cz-titulky-mkv/4d2bd24f6cad7a47) (ID 30862557) | [Sdílej 32831183](https://sdilej.cz/32831183/predator.badlands.2025.2160p.cz.titulky.mkv) | target_unavailable | 2026-11-06T15:42:00.564780+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-07T13:58:42.358465+00:00 |
-| [Reprise SD CZ Titulky](https://prehraj.to/reprise-sd-cz-titulky-mkv/d85c058014e2ec96) (ID 30835226) | [Sdílej 8431051](https://sdilej.cz/8431051/reprise-repriza-2006.dvdrip-cz-titulky.mkv) | target_unavailable | 2026-11-05T22:54:17.796804+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-07T13:58:23.688080+00:00 |
 | [RocknRolla 1080p CZ Titulky](https://prehraj.to/rocknrolla-1080p-cz-titulky-mkv/d31b2b89c8c24829) (ID 30856994) | [Sdílej 34921369](https://sdilej.cz/34921369/rocknrolla-2008-.mkv) | target_unavailable | 2026-11-06T10:56:17.090535+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-07T13:57:35.698792+00:00 |
