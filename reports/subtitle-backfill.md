@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T20:01:10.580125+00:00
+Poslední aktualizace (UTC): 2026-11-07T20:01:12.231907+00:00
 
 Zkontrolováno videí: 507. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -96,6 +96,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 38. Důvod
 | [The Outlaws (범죄도시) 1080p CZ Titulky](https://prehraj.to/the-outlaws-1080p-cz-titulky-mkv/91871a80ef52a7ab) (ID 30893421) | [Sdílej 30716653](https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv) | target_unavailable | 2026-11-07T17:29:03.073998+00:00 |
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T17:08:46.163210+00:00 |
 | [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T17:08:42.443504+00:00 |
+| [The Yakuza 1080p CZ Titulky](https://prehraj.to/the-yakuza-1080p-cz-titulky-mkv/82379460d5dd0f1d) (ID 30897645) | [Sdílej 8869265](https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv) | target_unavailable | 2026-11-07T20:01:12.231815+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-07T16:49:03.279092+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T16:40:28.653410+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-07T16:39:27.158672+00:00 |
