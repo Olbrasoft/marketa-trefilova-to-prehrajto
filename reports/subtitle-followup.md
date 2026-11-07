@@ -455,7 +455,7 @@ Attach subtitles only after target processing has finished.
 | Lawless 720p CZ Titulky | 30857839 | https://sdilej.cz/8554596/zeme-bez-zakona-lawless-2012-cz-sub.720p-bluray-dts.mkv | Complete: Czech subtitles verified |
 | The Life Aquatic with Steve Zissou 1080p CZ Titulky | 30858164 | https://sdilej.cz/23537039/the-life-aquatic-with-steve-zissou-2004-1080p-bluray-dl-dts-x264-majo.mkv | Complete: Czech subtitles verified |
 | Triangle of Sadness SD CZ Titulky | 30858300 | https://sdilej.cz/24142175/trojuhelnik-smutku-triangle.of.sadness.2022.720p.amzn.web-dl.ddp5.1.h.264-smurf-cz-titulky-.mkv | Complete: Czech subtitles verified |
-| Shame (2011) 1080p CZ Titulky | 30859193 | https://sdilej.cz/30693798/shame-stud-2011-1080p-cztit.mkv | Extract Czech track from exact source after processing |
+| Shame (2011) 1080p CZ Titulky | 30859193 | https://sdilej.cz/30693798/shame-stud-2011-1080p-cztit.mkv | Complete: Czech subtitles verified |
 | Chocolat (2000) 1080p CZ Titulky | 30859204 | https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv | Extract Czech track from exact source after processing |
 | The Founder 1080p CZ Titulky | 30860047 | https://sdilej.cz/21019911/the-founder-2016-hevc-1080p-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | Bridge to Terabithia 1080p CZ Titulky | 30860568 | https://sdilej.cz/30611137/most-do-zeme-terabithia-bridge-to-terabithia-2007-1080p-en-cz.mkv | Extract Czech track from exact source after processing |
