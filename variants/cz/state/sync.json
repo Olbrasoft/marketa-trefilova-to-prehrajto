@@ -77682,17 +77682,19 @@
       }
     },
     "13028": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34717678",
+          "reason": "Request failed for https://sdilej.cz/34717678/superpoldove-geoffrey-arend-joey-kern-2001-komedie-krimi-mysteriozni-bdrip.-1080p.-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:55:18.843201+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34717678",
         "display_name": "Super Troopers 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:54:32.288224+00:00"
-      },
-      "claim": {
-        "worker_id": "a38bdd9a670d40de8dfbb4a39c148e59-shard-0",
-        "claimed_at": "2026-11-07T16:54:32.633824+00:00",
-        "lease_expires_at": "2026-11-07T22:54:32.633824+00:00",
-        "run_id": "42376609077"
       }
     },
     "2319": {
@@ -128681,5 +128683,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:54:57.738597+00:00"
+  "updated_at": "2026-11-07T16:55:18.843222+00:00"
 }
