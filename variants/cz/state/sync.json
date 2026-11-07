@@ -76726,17 +76726,19 @@
       }
     },
     "2200": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29158097",
+          "target_video_id": "30893170",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:13:49.259144+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29158097",
         "display_name": "Challengers 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:06:09.400310+00:00"
-      },
-      "claim": {
-        "worker_id": "838a21332f0b4d609bcb097ae4d64df5-shard-0",
-        "claimed_at": "2026-11-07T15:06:09.729692+00:00",
-        "lease_expires_at": "2026-11-07T21:06:09.729692+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893170",
       "prepared": {
@@ -127453,5 +127455,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:12:32.526874+00:00"
+  "updated_at": "2026-11-07T15:13:49.259158+00:00"
 }
