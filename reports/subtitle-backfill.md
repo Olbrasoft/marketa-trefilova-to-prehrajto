@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T16:07:57.204600+00:00
+Poslední aktualizace (UTC): 2026-11-07T16:07:58.919937+00:00
 
 Zkontrolováno videí: 503. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 410, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 28, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 410, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 29, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -69,6 +69,7 @@ Kontrol: 7; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 0. Důvod 
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-07T15:38:27.330496+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-07T15:28:43.017036+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-07T15:29:04.767665+00:00 |
+| [Broken (2012) 720p CZ Titulky](https://prehraj.to/broken-2012-720p-cz-titulky-mkv/2faa95c3a278ea12) (ID 30894019) | [Sdílej 31255006](https://sdilej.cz/31255006/rozbity-svet-2012-cztitulky.mkv) | target_unavailable | 2026-11-07T16:07:58.919853+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-07T15:37:56.317989+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-07T15:38:34.538456+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-07T15:37:49.365598+00:00 |
