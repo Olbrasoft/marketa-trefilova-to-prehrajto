@@ -73980,17 +73980,19 @@
       }
     },
     "11220": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31379501",
+          "target_video_id": "30885416",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:07:24.860335+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31379501",
         "display_name": "Long Live Ghosts! (Ať žijí duchové!) 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:02:39.535414+00:00"
-      },
-      "claim": {
-        "worker_id": "2b0c6306f65e4b3189e66eaa0dfe9e9e-shard-0",
-        "claimed_at": "2026-11-07T08:02:39.831575+00:00",
-        "lease_expires_at": "2026-11-07T14:02:39.831575+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885416",
       "prepared": {
@@ -123735,5 +123737,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:04:09.147790+00:00"
+  "updated_at": "2026-11-07T08:07:24.860351+00:00"
 }
