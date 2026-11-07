@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-07T04:59:43.551715+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-07T05:34:08.307045+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-07T06:06:01.771235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:42:20.005337+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "038deef8a3f8410ab28ac81280c12e94-shard-0",
-        "claimed_at": "2026-11-07T06:42:15.808788+00:00",
-        "lease_expires_at": "2026-11-07T12:42:15.808788+00:00",
-        "run_id": "42338182103"
       }
     },
     "37290": {
@@ -71933,13 +71927,6 @@
           "source_id": "27386940",
           "target_video_id": "30871996",
           "permanent": false,
-          "attempted_at": "2026-11-07T05:00:01.183205+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27386940",
-          "target_video_id": "30871996",
-          "permanent": false,
           "attempted_at": "2026-11-07T05:34:14.823337+00:00"
         },
         {
@@ -71948,12 +71935,19 @@
           "target_video_id": "30871996",
           "permanent": false,
           "attempted_at": "2026-11-07T06:06:06.437563+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27386940",
+          "target_video_id": "30871996",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:42:19.811256+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27386940",
         "display_name": "A Midnight Clear 1080p CZ Dabing",
-        "planned_at": "2026-11-07T06:06:03.218620+00:00"
+        "planned_at": "2026-11-07T06:42:17.882984+00:00"
       },
       "previous_target_id": "30871996",
       "prepared": {
@@ -73612,7 +73606,7 @@
       "last_plan": {
         "source_id": "24984582",
         "display_name": "Christmas by Starlight 1080p CZ Dabing",
-        "planned_at": "2026-11-07T06:42:15.415826+00:00"
+        "planned_at": "2026-11-07T06:42:18.135480+00:00"
       }
     },
     "21479": {
@@ -123254,5 +123248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:42:16.356441+00:00"
+  "updated_at": "2026-11-07T06:42:20.005354+00:00"
 }
