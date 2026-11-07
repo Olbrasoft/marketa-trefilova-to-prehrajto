@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:17:29.395191+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:17:43.644962+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 359, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 78, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 360, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 77, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -122,7 +122,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 72. Důvo
 | [Stargate: The Ark of Truth 1080p CZ Titulky](https://prehraj.to/stargate-the-ark-of-truth-1080p-cz-titulky-mkv/a66e8dfee79c4b1a) (ID 30888161) | [Sdílej 13184537](https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv) | target_unavailable | 2026-11-07T10:43:56.760247+00:00 |
 | [Steve Jobs 1080p CZ Titulky](https://prehraj.to/steve-jobs-1080p-cz-titulky-mkv/459ca9f81e8d5bea) (ID 30860819) | [Sdílej 5722967](https://sdilej.cz/5722967/steve.jobs.2015.1080p.bluray.h264.ac3-rarbg.cz.mkv) | target_unavailable | 2026-11-06T14:08:05.978497+00:00 |
 | [The Ballad of Buster Scruggs 1080p CZ Titulky](https://prehraj.to/the-ballad-of-buster-scruggs-1080p-cz-titulky-mkv/bca3bd31d5993b5c) (ID 30861500) | [Sdílej 30700293](https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv) | target_unavailable | 2026-11-06T14:41:26.126833+00:00 |
-| [The Beast (1988) 720p CZ Titulky](https://prehraj.to/the-beast-1988-720p-cz-titulky-mkv/aff9584063ecdc90) (ID 30845001) | [Sdílej 30819441](https://sdilej.cz/30819441/the-beast-of-war-1988-cz.tit.mkv) | target_unavailable | 2026-11-06T03:41:08.562096+00:00 |
 | [The Bloody Hundredth 1080p CZ Titulky](https://prehraj.to/the-bloody-hundredth-1080p-cz-titulky-mkv/4aaca4edc0d99d3d) (ID 30877896) | [Sdílej 28370606](https://sdilej.cz/28370606/the-bloody-hundredth-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-07T03:08:16.181895+00:00 |
 | [The Courier (2020) 1080p CZ Titulky](https://prehraj.to/the-courier-2020-1080p-cz-titulky-mkv/3c952096bbe6a768) (ID 30874868) | [Sdílej 30685953](https://sdilej.cz/30685953/the-courier-2020-1080p-webrip-dd5-1-x264-cz-tit.mkv) | target_unavailable | 2026-11-07T00:57:17.754122+00:00 |
 | [The Descent 1080p CZ Titulky](https://prehraj.to/the-descent-1080p-cz-titulky-mkv/8a6e19eb194817c3) (ID 30857275) | [Sdílej 22441657](https://sdilej.cz/22441657/pad-do-tmy-cz-1080p-juve.mkv) | target_unavailable | 2026-11-06T11:16:24.580691+00:00 |
