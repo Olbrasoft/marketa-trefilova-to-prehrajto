@@ -26808,17 +26808,19 @@
       "attempts": []
     },
     "29426": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10110683",
+          "target_video_id": "30893853",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:51:43.174257+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10110683",
         "display_name": "No Game No Life: Zero (ノーゲーム・ノーライフ ゼロ) 720p CZ Titulky",
         "planned_at": "2026-11-07T15:49:06.547403+00:00"
-      },
-      "claim": {
-        "worker_id": "4bfbac8fdae543ee8b1ee97f053612a5-shard-0",
-        "claimed_at": "2026-11-07T15:49:06.817954+00:00",
-        "lease_expires_at": "2026-11-07T21:49:06.817954+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893853",
       "prepared": {
@@ -80713,5 +80715,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:49:12.494401+00:00"
+  "updated_at": "2026-11-07T15:51:43.174273+00:00"
 }
