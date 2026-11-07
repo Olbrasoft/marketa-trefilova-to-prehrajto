@@ -26228,17 +26228,19 @@
       "attempts": []
     },
     "19114": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6727450",
+          "target_video_id": "30889481",
+          "permanent": false,
+          "attempted_at": "2026-11-07T11:44:12.662668+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6727450",
         "display_name": "Blue Jay SD CZ Titulky",
         "planned_at": "2026-11-07T11:40:04.603445+00:00"
-      },
-      "claim": {
-        "worker_id": "c827fb7293ef4c47b53fbd5c799146a5-shard-0",
-        "claimed_at": "2026-11-07T11:40:04.654291+00:00",
-        "lease_expires_at": "2026-11-07T17:40:04.654291+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30889481",
       "prepared": {
@@ -79545,5 +79547,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:40:25.170008+00:00"
+  "updated_at": "2026-11-07T11:44:12.662686+00:00"
 }
