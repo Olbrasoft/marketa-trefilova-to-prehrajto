@@ -76208,17 +76208,19 @@
       }
     },
     "2312": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32964623",
+          "target_video_id": "30892180",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:11:22.916679+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32964623",
         "display_name": "Old School 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:04:31.547937+00:00"
-      },
-      "claim": {
-        "worker_id": "7c769e44fd87401797f2e8c096ee097e-shard-0",
-        "claimed_at": "2026-11-07T14:04:31.893607+00:00",
-        "lease_expires_at": "2026-11-07T20:04:31.893607+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892180",
       "prepared": {
@@ -126812,5 +126814,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:09:35.173621+00:00"
+  "updated_at": "2026-11-07T14:11:22.916693+00:00"
 }
