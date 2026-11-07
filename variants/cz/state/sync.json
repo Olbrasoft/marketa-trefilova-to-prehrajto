@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T16:10:43.612646+00:00"
+        "planned_at": "2026-11-07T16:45:34.788235+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "4d0c4e5389c44e6d9796d90a54ef0ad6-shard-0",
+        "claimed_at": "2026-11-07T16:45:35.349497+00:00",
+        "lease_expires_at": "2026-11-07T22:45:35.349497+00:00",
+        "run_id": "42376609077"
       }
     },
     "29922": {
@@ -77542,17 +77548,19 @@
       }
     },
     "11243": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30438052",
+          "target_video_id": "30894487",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:46:51.283062+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30438052",
         "display_name": "The Spy Who Loved Me 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:37:35.298258+00:00"
-      },
-      "claim": {
-        "worker_id": "62d1a70e00d34060acb07c1bb5ac04c6-shard-0",
-        "claimed_at": "2026-11-07T16:37:36.960342+00:00",
-        "lease_expires_at": "2026-11-07T22:37:36.960342+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894487",
       "prepared": {
@@ -77610,7 +77618,7 @@
       "last_plan": {
         "source_id": "22642473",
         "display_name": "Martyrs (2008) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T16:45:31.742834+00:00"
+        "planned_at": "2026-11-07T16:45:35.033727+00:00"
       }
     },
     "2415": {
@@ -128590,5 +128598,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:45:33.310064+00:00"
+  "updated_at": "2026-11-07T16:46:51.283078+00:00"
 }
