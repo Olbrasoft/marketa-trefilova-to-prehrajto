@@ -508,3 +508,4 @@ Attach subtitles only after target processing has finished.
 | Champions (Campeones) (2018) 1080p CZ Titulky | 30895897 | https://sdilej.cz/32204599/sampioni.mkv | Extract Czech track from exact source after processing |
 | Rurouni Kenshin: The Final (Rurôni Kenshin: Sai shûshô - The Final) 1080p CZ Titulky | 30895943 | https://sdilej.cz/17633321/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | The Yakuza 1080p CZ Titulky | 30897645 | https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv | Extract Czech track from exact source after processing |
+| Yesterday, Today and Tomorrow 720p CZ Titulky | 30898129 | https://sdilej.cz/28474221/vcera-dnes-a-zitra-italie-fr-1963-vittorio-de-sica-bluray.720p.en.cz.sub.mkv | Extract Czech track from exact source after processing |
