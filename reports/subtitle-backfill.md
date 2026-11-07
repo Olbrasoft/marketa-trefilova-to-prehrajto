@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:48:30.132425+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:48:34.513251+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 402, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 403, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -68,7 +68,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 12. Důvo
 | [71: Into the Fire (포화 속으로) 720p CZ Titulky](https://prehraj.to/71-into-the-fire-720p-cz-titulky-mkv/080af038460c52dc) (ID 30891751) | [Sdílej 19963845](https://sdilej.cz/19963845/71-into-the-fire-2010-kor-bdrip.720p.x264.cz.en.tit.mkv) | target_unavailable | 2026-11-07T13:46:31.956276+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-07T14:06:47.114439+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-07T14:27:14.877891+00:00 |
-| [American Murder: The Family Next Door 1080p CZ Titulky](https://prehraj.to/american-murder-the-family-next-door-1080p-cz-titulky-mkv/4800e9d875a377e4) (ID 30884991) | [Sdílej 14236370](https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv) | target_unavailable | 2026-11-07T07:50:51.174634+00:00 |
 | [Ant-Man 4K CZ Titulky](https://prehraj.to/ant-man-4k-cz-titulky-mkv/6b0b227a8e3ac14a) (ID 30849922) | [Sdílej 27438034](https://sdilej.cz/27438034/ant-man-2015-2160p-cz.mkv) | source_unavailable | 2026-11-07T14:18:56.716064+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-07T13:57:29.267643+00:00 |
 | [Blue Jay SD CZ Titulky](https://prehraj.to/blue-jay-sd-cz-titulky-mkv/c325ce17e7b8ede1) (ID 30889481) | [Sdílej 6727450](https://sdilej.cz/6727450/blue-jay-2016-titulky.cz.mkv) | target_unavailable | 2026-11-07T11:44:21.839625+00:00 |
