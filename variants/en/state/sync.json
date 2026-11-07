@@ -26640,17 +26640,19 @@
       "attempts": []
     },
     "1720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30716653",
+          "reason": "Request failed for https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:49:51.933665+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30716653",
         "display_name": "The Outlaws (범죄도시) 1080p CZ Titulky",
         "planned_at": "2026-11-07T14:49:03.404850+00:00"
-      },
-      "claim": {
-        "worker_id": "830116c506b5490ba9ff8d4a1de55288-shard-0",
-        "claimed_at": "2026-11-07T14:49:04.038343+00:00",
-        "lease_expires_at": "2026-11-07T20:49:04.038343+00:00",
-        "run_id": "42376609077"
       }
     },
     "21498": {
@@ -80319,5 +80321,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:49:19.081978+00:00"
+  "updated_at": "2026-11-07T14:49:51.933682+00:00"
 }
