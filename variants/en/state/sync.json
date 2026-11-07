@@ -25185,17 +25185,19 @@
       }
     },
     "11914": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21092547",
+          "target_video_id": "30875013",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:03:18.576160+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21092547",
         "display_name": "Nikita 1080p CZ Titulky",
         "planned_at": "2026-11-07T00:58:06.219764+00:00"
-      },
-      "claim": {
-        "worker_id": "91b24710fb8d44a1adc5c8b96d096882-shard-0",
-        "claimed_at": "2026-11-07T00:58:06.288245+00:00",
-        "lease_expires_at": "2026-11-07T06:58:06.288245+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30875013",
       "prepared": {
@@ -77401,5 +77403,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T00:58:09.876096+00:00"
+  "updated_at": "2026-11-07T01:03:18.576178+00:00"
 }
