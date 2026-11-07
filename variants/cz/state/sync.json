@@ -29609,13 +29609,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-07T20:53:08.711576+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-07T21:23:28.935158+00:00"
         },
         {
@@ -29624,6 +29617,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-07T21:55:22.188972+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-07T22:49:48.414752+00:00"
         }
       ],
       "last_plan": {
@@ -29637,12 +29637,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
-      },
-      "claim": {
-        "worker_id": "0e3b48ac31da4e838ea19a03cbaae0fe-shard-0",
-        "claimed_at": "2026-11-07T22:49:45.796817+00:00",
-        "lease_expires_at": "2026-11-08T04:49:45.796817+00:00",
-        "run_id": "42420247810"
       }
     },
     "25113": {
@@ -31931,7 +31925,7 @@
       "last_plan": {
         "source_id": "28307261",
         "display_name": "For Love and Gold SD CZ Dabing",
-        "planned_at": "2026-11-07T22:49:45.599340+00:00"
+        "planned_at": "2026-11-07T22:49:48.099064+00:00"
       }
     },
     "35284": {
@@ -50492,7 +50486,7 @@
       "last_plan": {
         "source_id": "32030746",
         "display_name": "Mission: Impossible 4K CZ Dabing",
-        "planned_at": "2026-11-07T21:55:23.551958+00:00"
+        "planned_at": "2026-11-07T22:49:47.955735+00:00"
       },
       "previous_target_id": "30776194",
       "prepared": {
@@ -50500,6 +50494,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-04T00:49:34.429567+00:00",
         "relay_source_id": "32030746"
+      },
+      "claim": {
+        "worker_id": "1e829081481445c8b28a5349d0e5a0db-shard-0",
+        "claimed_at": "2026-11-07T22:49:48.293410+00:00",
+        "lease_expires_at": "2026-11-08T04:49:48.293410+00:00",
+        "run_id": "42420247810"
       }
     },
     "1708": {
@@ -132292,5 +132292,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T22:49:46.555084+00:00"
+  "updated_at": "2026-11-07T22:49:48.414775+00:00"
 }
