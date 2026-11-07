@@ -26251,17 +26251,19 @@
       }
     },
     "21017": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18438854",
+          "target_video_id": "30889483",
+          "permanent": false,
+          "attempted_at": "2026-11-07T11:52:04.412896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18438854",
         "display_name": "The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky",
         "planned_at": "2026-11-07T11:40:08.154015+00:00"
-      },
-      "claim": {
-        "worker_id": "d6784514032d4e909cec56a28829de0a-shard-0",
-        "claimed_at": "2026-11-07T11:40:08.206476+00:00",
-        "lease_expires_at": "2026-11-07T17:40:08.206476+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30889483",
       "prepared": {
@@ -79547,5 +79549,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:44:12.662686+00:00"
+  "updated_at": "2026-11-07T11:52:04.412916+00:00"
 }
