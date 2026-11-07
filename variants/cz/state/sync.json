@@ -78137,17 +78137,19 @@
       }
     },
     "2165": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31312875",
+          "target_video_id": "30895294",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:50:26.442815+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31312875",
         "display_name": "The Last Castle 4K CZ Dabing",
         "planned_at": "2026-11-07T17:32:28.700328+00:00"
-      },
-      "claim": {
-        "worker_id": "c596d16bc45b4a9586429a831ac18ead-shard-0",
-        "claimed_at": "2026-11-07T17:32:29.065407+00:00",
-        "lease_expires_at": "2026-11-07T23:32:29.065407+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30895294",
       "prepared": {
@@ -129297,5 +129299,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:46:02.715054+00:00"
+  "updated_at": "2026-11-07T17:50:26.442829+00:00"
 }
