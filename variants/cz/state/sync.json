@@ -79743,17 +79743,19 @@
       "attempts": []
     },
     "25101": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30700247",
+          "target_video_id": "30899076",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:50:41.894425+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30700247",
         "display_name": "Kinsey 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:31:09.199965+00:00"
-      },
-      "claim": {
-        "worker_id": "1699ba3c3bf743feb321e2c5041a5164-shard-0",
-        "claimed_at": "2026-11-07T21:31:09.514766+00:00",
-        "lease_expires_at": "2026-11-08T03:31:09.514766+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30899076",
       "prepared": {
@@ -131748,5 +131750,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:49:38.035853+00:00"
+  "updated_at": "2026-11-07T21:50:41.894447+00:00"
 }
