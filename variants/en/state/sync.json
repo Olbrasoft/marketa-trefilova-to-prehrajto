@@ -2007,13 +2007,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-07T16:21:18.774853+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-07T16:54:01.639082+00:00"
         },
         {
@@ -2022,12 +2015,19 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-07T17:24:58.699442+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:11:26.167921+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22817696",
         "display_name": "Requiem for a Dream 1080p CZ Titulky",
-        "planned_at": "2026-11-07T17:24:56.441649+00:00"
+        "planned_at": "2026-11-07T18:11:24.410307+00:00"
       },
       "previous_target_id": "30676098",
       "prepared": {
@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "3537ca5c80c942bfa6da5192435df980-shard-0",
+        "claimed_at": "2026-11-07T18:11:23.812949+00:00",
+        "lease_expires_at": "2026-11-08T00:11:23.812949+00:00",
+        "run_id": "42395943512"
       }
     },
     "21690": {
@@ -27073,7 +27079,7 @@
       "last_plan": {
         "source_id": "17633321",
         "display_name": "Rurouni Kenshin: The Final (Rurôni Kenshin: Sai shûshô - The Final) 1080p CZ Titulky",
-        "planned_at": "2026-11-07T18:11:22.154049+00:00"
+        "planned_at": "2026-11-07T18:11:24.567805+00:00"
       }
     },
     "715": {
@@ -81168,5 +81174,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:11:22.154119+00:00"
+  "updated_at": "2026-11-07T18:11:26.167987+00:00"
 }
