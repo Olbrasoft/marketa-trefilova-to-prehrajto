@@ -73323,17 +73323,19 @@
       "attempts": []
     },
     "11142": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33873102",
+          "target_video_id": "30882458",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:01:46.367890+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33873102",
         "display_name": "How to Drown Dr. Mráček, the Lawyer (Jak utopit dr. Mráčka aneb Konec vodníků v Čechách) SD CZ Dabing",
         "planned_at": "2026-11-07T05:53:39.602101+00:00"
-      },
-      "claim": {
-        "worker_id": "fe2a65c2f5a645eea81fee12a4a842c2-shard-0",
-        "claimed_at": "2026-11-07T05:53:40.186132+00:00",
-        "lease_expires_at": "2026-11-07T11:53:40.186132+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30882458",
       "prepared": {
@@ -122910,5 +122912,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T05:54:42.680198+00:00"
+  "updated_at": "2026-11-07T06:01:46.367907+00:00"
 }
