@@ -37187,13 +37187,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:58:05.788493+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-07T08:30:34.113314+00:00"
         },
         {
@@ -37202,6 +37195,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-07T09:26:11.641775+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:02:31.580326+00:00"
         }
       ],
       "last_plan": {
@@ -41062,7 +41062,7 @@
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-07T09:26:11.056531+00:00"
+        "planned_at": "2026-11-07T10:02:30.501961+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -41070,6 +41070,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-03T03:58:27.242114+00:00",
         "relay_source_id": "34826023"
+      },
+      "claim": {
+        "worker_id": "491e2a179a8b4a90a7686b32afbb165b-shard-0",
+        "claimed_at": "2026-11-07T10:02:30.776360+00:00",
+        "lease_expires_at": "2026-11-07T16:02:30.776360+00:00",
+        "run_id": "42355221442"
       }
     },
     "34337": {
@@ -74929,7 +74935,7 @@
       "last_plan": {
         "source_id": "24540233",
         "display_name": "Top Gun 4K CZ Dabing",
-        "planned_at": "2026-11-07T10:02:28.380170+00:00"
+        "planned_at": "2026-11-07T10:02:30.623338+00:00"
       }
     },
     "2326": {
@@ -124850,5 +124856,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:02:28.380186+00:00"
+  "updated_at": "2026-11-07T10:02:31.580344+00:00"
 }
