@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:38:21.920924+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:38:25.853292+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 394, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 41, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 395, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 40, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -82,7 +82,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 32. Důvo
 | [Gary 4K CZ Titulky](https://prehraj.to/gary-4k-cz-titulky-mkv/b81386c337f5bcc0) (ID 30886904) | [Sdílej 34158854](https://sdilej.cz/34158854/gary-2026-2160p-cz.tit.mkv) | target_unavailable | 2026-11-07T09:53:34.251253+00:00 |
 | [Good Luck to You, Leo Grande 1080p CZ Titulky](https://prehraj.to/good-luck-to-you-leo-grande-1080p-cz-titulky-mkv/3733fbd177f4e082) (ID 30882377) | [Sdílej 31031957](https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv) | target_unavailable | 2026-11-07T05:49:45.738584+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-07T14:17:03.689681+00:00 |
-| [Hoppers 4K CZ Titulky](https://prehraj.to/hoppers-4k-cz-titulky-mkv/bef6aaeb2441651e) (ID 30874854) | [Sdílej 34985034](https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv) | target_unavailable | 2026-11-07T00:57:14.468765+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-07T13:57:39.117388+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-07T13:58:30.588609+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-07T13:58:45.805863+00:00 |
