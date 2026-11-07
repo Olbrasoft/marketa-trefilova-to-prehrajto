@@ -78688,17 +78688,19 @@
       }
     },
     "2206": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34884418",
+          "target_video_id": "30896768",
+          "permanent": false,
+          "attempted_at": "2026-11-07T19:28:31.836337+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34884418",
         "display_name": "The Dressmaker 1080p CZ Dabing",
         "planned_at": "2026-11-07T19:08:17.839232+00:00"
-      },
-      "claim": {
-        "worker_id": "d506497136f14d37b451cdf6a5754d9b-shard-0",
-        "claimed_at": "2026-11-07T19:08:18.156272+00:00",
-        "lease_expires_at": "2026-11-08T01:08:18.156272+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896768",
       "prepared": {
@@ -130069,5 +130071,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T19:17:14.078031+00:00"
+  "updated_at": "2026-11-07T19:28:31.836359+00:00"
 }
