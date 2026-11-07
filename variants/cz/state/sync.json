@@ -7080,13 +7080,6 @@
           "source_id": "26239565",
           "target_video_id": "30627346",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:23:54.143142+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "30627346",
-          "permanent": false,
           "attempted_at": "2026-11-07T21:55:54.265717+00:00"
         },
         {
@@ -7095,6 +7088,13 @@
           "target_video_id": "30627346",
           "permanent": false,
           "attempted_at": "2026-11-07T22:50:12.501397+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:23:00.432720+00:00"
         }
       ],
       "last_plan": {
@@ -7108,12 +7108,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
-      },
-      "claim": {
-        "worker_id": "a389cf2b92be4a2aa41b9e1e822f258a-shard-0",
-        "claimed_at": "2026-11-07T23:22:57.680805+00:00",
-        "lease_expires_at": "2026-11-08T05:22:57.680805+00:00",
-        "run_id": "42420247810"
       }
     },
     "327": {
@@ -25014,7 +25008,7 @@
       "last_plan": {
         "source_id": "35139207",
         "display_name": "Kontroll 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:22:57.494743+00:00"
+        "planned_at": "2026-11-07T23:23:00.136702+00:00"
       }
     },
     "19313": {
@@ -80201,7 +80195,7 @@
       "last_plan": {
         "source_id": "32225296",
         "display_name": "Wicked Little Letters 1080p CZ Dabing",
-        "planned_at": "2026-11-07T22:50:25.748428+00:00"
+        "planned_at": "2026-11-07T23:22:59.997473+00:00"
       },
       "previous_target_id": "30899674",
       "prepared": {
@@ -80209,6 +80203,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T22:03:41.217073+00:00",
         "relay_source_id": "32225296"
+      },
+      "claim": {
+        "worker_id": "ad5bf8ac4be1461dbf54b6ca88cde7c5-shard-0",
+        "claimed_at": "2026-11-07T23:23:00.332243+00:00",
+        "lease_expires_at": "2026-11-08T05:23:00.332243+00:00",
+        "run_id": "42420247810"
       }
     },
     "10739": {
@@ -132812,5 +132812,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:22:58.383155+00:00"
+  "updated_at": "2026-11-07T23:23:00.432737+00:00"
 }
