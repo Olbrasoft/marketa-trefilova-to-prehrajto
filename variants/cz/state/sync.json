@@ -75537,7 +75537,7 @@
       "last_plan": {
         "source_id": "34406361",
         "display_name": "Super 8 1080p CZ Dabing",
-        "planned_at": "2026-11-07T14:49:18.171127+00:00"
+        "planned_at": "2026-11-07T15:23:40.701619+00:00"
       },
       "previous_target_id": "30889617",
       "prepared": {
@@ -76858,17 +76858,19 @@
       }
     },
     "2369": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26240101",
+          "target_video_id": "30893366",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:23:55.491445+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26240101",
         "display_name": "Marley & Me 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:19:04.596042+00:00"
-      },
-      "claim": {
-        "worker_id": "ffa1b9b599ff48978daeae22d6b3713a-shard-0",
-        "claimed_at": "2026-11-07T15:19:04.948221+00:00",
-        "lease_expires_at": "2026-11-07T21:19:04.948221+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893366",
       "prepared": {
@@ -76879,7 +76881,12 @@
       }
     },
     "2231": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35003612",
+        "display_name": "Extraction 2 4K CZ Dabing",
+        "planned_at": "2026-11-07T15:23:40.981568+00:00"
+      }
     },
     "13530": {
       "attempts": []
@@ -127834,5 +127841,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:23:35.931598+00:00"
+  "updated_at": "2026-11-07T15:23:55.491462+00:00"
 }
