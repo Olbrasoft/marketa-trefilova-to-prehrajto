@@ -19891,6 +19891,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
+      },
+      "claim": {
+        "worker_id": "c7f73360ba9247ee919e2a7644b19d53-shard-0",
+        "claimed_at": "2026-11-07T12:13:09.318695+00:00",
+        "lease_expires_at": "2026-11-07T18:13:09.318695+00:00",
+        "run_id": "42355221442"
       }
     },
     "835": {
@@ -27135,13 +27141,6 @@
           "source_id": "29719575",
           "target_video_id": "30714314",
           "permanent": false,
-          "attempted_at": "2026-11-07T10:36:12.935286+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29719575",
-          "target_video_id": "30714314",
-          "permanent": false,
           "attempted_at": "2026-11-07T11:08:49.498731+00:00"
         },
         {
@@ -27150,6 +27149,13 @@
           "target_video_id": "30714314",
           "permanent": false,
           "attempted_at": "2026-11-07T11:39:50.532638+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29719575",
+          "target_video_id": "30714314",
+          "permanent": false,
+          "attempted_at": "2026-11-07T12:13:09.248614+00:00"
         }
       ],
       "last_plan": {
@@ -27163,12 +27169,6 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-11-02T02:46:50.263035+00:00",
         "relay_source_id": "29719575"
-      },
-      "claim": {
-        "worker_id": "0856d84edf834cb5a0173ce8238cd1fb-shard-0",
-        "claimed_at": "2026-11-07T12:13:06.922990+00:00",
-        "lease_expires_at": "2026-11-07T18:13:06.922990+00:00",
-        "run_id": "42355221442"
       }
     },
     "945": {
@@ -33977,7 +33977,7 @@
       "last_plan": {
         "source_id": "35087204",
         "display_name": "Darkest Hour 4K CZ Dabing",
-        "planned_at": "2026-11-07T11:39:52.163834+00:00"
+        "planned_at": "2026-11-07T12:13:09.406751+00:00"
       },
       "previous_target_id": "30738724",
       "prepared": {
@@ -75670,7 +75670,7 @@
       "last_plan": {
         "source_id": "29846940",
         "display_name": "The Platform (El hoyo) (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T12:13:07.163734+00:00"
+        "planned_at": "2026-11-07T12:13:09.539669+00:00"
       }
     },
     "2359": {
@@ -125894,5 +125894,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:13:07.364498+00:00"
+  "updated_at": "2026-11-07T12:13:09.539687+00:00"
 }
