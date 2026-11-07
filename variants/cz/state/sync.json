@@ -4255,13 +4255,6 @@
           "source_id": "28473871",
           "target_video_id": "30612972",
           "permanent": false,
-          "attempted_at": "2026-11-07T10:04:02.038235+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28473871",
-          "target_video_id": "30612972",
-          "permanent": false,
           "attempted_at": "2026-11-07T10:36:26.142921+00:00"
         },
         {
@@ -4270,6 +4263,13 @@
           "target_video_id": "30612972",
           "permanent": false,
           "attempted_at": "2026-11-07T11:08:59.461806+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28473871",
+          "target_video_id": "30612972",
+          "permanent": false,
+          "attempted_at": "2026-11-07T11:40:02.769731+00:00"
         }
       ],
       "last_plan": {
@@ -4283,12 +4283,6 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
-      },
-      "claim": {
-        "worker_id": "9548ffe547d24be7b03d90d70a22e49f-shard-0",
-        "claimed_at": "2026-11-07T11:39:59.087313+00:00",
-        "lease_expires_at": "2026-11-07T17:39:59.087313+00:00",
-        "run_id": "42355221442"
       }
     },
     "229": {
@@ -7106,7 +7100,7 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Blood Diamond 1080p CZ Dabing",
-        "planned_at": "2026-11-07T11:08:58.997094+00:00"
+        "planned_at": "2026-11-07T11:40:01.867574+00:00"
       },
       "previous_target_id": "30627346",
       "prepared": {
@@ -7114,6 +7108,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
+      },
+      "claim": {
+        "worker_id": "de42e4953eaf485d97bbed063044f56e-shard-0",
+        "claimed_at": "2026-11-07T11:40:02.219916+00:00",
+        "lease_expires_at": "2026-11-07T17:40:02.219916+00:00",
+        "run_id": "42355221442"
       }
     },
     "327": {
@@ -75427,7 +75427,7 @@
       "last_plan": {
         "source_id": "32450164",
         "display_name": "Jack Reacher 4K CZ Dabing",
-        "planned_at": "2026-11-07T11:39:58.896980+00:00"
+        "planned_at": "2026-11-07T11:40:02.029406+00:00"
       }
     },
     "12940": {
@@ -125678,5 +125678,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:40:00.251911+00:00"
+  "updated_at": "2026-11-07T11:40:02.769744+00:00"
 }
