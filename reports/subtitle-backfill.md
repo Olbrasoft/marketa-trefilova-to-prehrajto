@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T02:37:58.001369+00:00
+Poslední aktualizace (UTC): 2026-11-07T02:38:00.583218+00:00
 
 Zkontrolováno videí: 479. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 330, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 88, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 330, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 89, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -89,6 +89,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 95. Důvod
 | [Easy Rider 1080p CZ Titulky](https://prehraj.to/easy-rider-1080p-cz-titulky-mp4/7867422965cf708a) (ID 30869994) | [Sdílej 27945336](https://sdilej.cz/27945336/bezstarostna-jizda-easy-rider-roadmovie-usa-1969-audio-en-cz-tit.cz-1080p-jackripper.mp4) | target_unavailable | 2026-11-06T21:27:07.105695+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-05T14:29:39.428793+00:00 |
 | [Five Feet Apart 1080p CZ Titulky](https://prehraj.to/five-feet-apart-1080p-cz-titulky-mkv/46bb179cb1992263) (ID 30871545) | [Sdílej 12142719](https://sdilej.cz/12142719/five.feet.apart.2019.1080p.bluray.h264.dd5.1-aac-.sk.cz-titulky.mkv) | target_unavailable | 2026-11-06T22:27:50.335009+00:00 |
+| [Friday Night Lights 1080p CZ Titulky](https://prehraj.to/friday-night-lights-1080p-cz-titulky-mkv/621e3a8a42c6e52a) (ID 30876987) | [Sdílej 34821361](https://sdilej.cz/34821361/friday.night.lights.2004.open.matte.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-07T02:38:00.229063+00:00 |
 | [Grease 4K CZ Titulky](https://prehraj.to/grease-4k-cz-titulky-mkv/fc50bf2fa2cb63f7) (ID 30855592) | [Sdílej 31103634](https://sdilej.cz/31103634/grease.1978.2160p.hevc.tit-h265.mkv) | target_unavailable | 2026-11-06T09:44:34.066242+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-06T01:20:03.845148+00:00 |
 | [Hoppers 4K CZ Titulky](https://prehraj.to/hoppers-4k-cz-titulky-mkv/bef6aaeb2441651e) (ID 30874854) | [Sdílej 34985034](https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv) | target_unavailable | 2026-11-07T00:57:14.468765+00:00 |
