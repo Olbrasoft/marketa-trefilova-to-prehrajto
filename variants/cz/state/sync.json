@@ -77265,17 +77265,19 @@
       }
     },
     "2431": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27068986",
+          "reason": "Request failed for https://sdilej.cz/27068986/bronson-2008-mb-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:01:50.074201+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27068986",
         "display_name": "Bronson 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:01:03.424395+00:00"
-      },
-      "claim": {
-        "worker_id": "688e122d8c4a463e972021516d684f63-shard-0",
-        "claimed_at": "2026-11-07T16:01:03.830570+00:00",
-        "lease_expires_at": "2026-11-07T22:01:03.830570+00:00",
-        "run_id": "42376609077"
       }
     },
     "31263": {
@@ -128174,5 +128176,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:01:03.830592+00:00"
+  "updated_at": "2026-11-07T16:01:50.074218+00:00"
 }
