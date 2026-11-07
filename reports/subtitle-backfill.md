@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:37:29.357359+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:37:36.881258+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 388, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 389, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -88,7 +88,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 32. Důvo
 | [Hoppers 4K CZ Titulky](https://prehraj.to/hoppers-4k-cz-titulky-mkv/bef6aaeb2441651e) (ID 30874854) | [Sdílej 34985034](https://sdilej.cz/34985034/na-skok-do-divociny-cz-titulky-2026-.mkv) | target_unavailable | 2026-11-07T00:57:14.468765+00:00 |
 | [Hostiles 1080p CZ Titulky](https://prehraj.to/hostiles-1080p-cz-titulky-mkv/500d7f06b70d4510) (ID 30870123) | [Sdílej 10314025](https://sdilej.cz/10314025/hostiles.2017.1080p.bdrip.x264.cz.titulky.mkv) | target_unavailable | 2026-11-06T21:37:20.940875+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-07T13:57:39.117388+00:00 |
-| [Invention for Destruction (Vynález zkázy) 1080p CZ Titulky](https://prehraj.to/invention-for-destruction-vynalez-zkazy-1080p-cz-titulky-mkv/00a6dc861862d5e3) (ID 30866492) | [Sdílej 34422006](https://sdilej.cz/34422006/vynalez-zkazy-1958-cz-cz-1080p-.mkv) | target_unavailable | 2026-11-06T18:43:48.937887+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-07T13:58:30.588609+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-07T13:58:45.805863+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-07T13:58:33.864946+00:00 |
