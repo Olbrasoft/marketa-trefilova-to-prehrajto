@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:38:37.314039+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:38:41.057128+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 398, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 399, `attached_verified`: 13, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 36, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -105,7 +105,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 32. Důvo
 | [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T11:44:25.232641+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-07T14:37:43.998509+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T13:58:49.384332+00:00 |
-| [Wristcutters: A Love Story 1080p CZ Titulky](https://prehraj.to/wristcutters-a-love-story-1080p-cz-titulky-mkv/1a70913eac9ec9fc) (ID 30878216) | [Sdílej 30865387](https://sdilej.cz/30865387/sebevrazi-love-story-z-onoho-sveta-wristcutters-a-love-story-2007--tt0477139--en-cs-.webdl-1080p.h265-ac3-5.1.mkv) | target_unavailable | 2026-11-07T03:28:25.219434+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-07T13:57:47.456445+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
