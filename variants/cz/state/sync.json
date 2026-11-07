@@ -74801,17 +74801,19 @@
       }
     },
     "2705": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22405080",
+          "target_video_id": "30886618",
+          "permanent": false,
+          "attempted_at": "2026-11-07T09:44:37.464898+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22405080",
         "display_name": "The Amazing Spider-Man 1080p CZ Dabing",
         "planned_at": "2026-11-07T09:28:20.066002+00:00"
-      },
-      "claim": {
-        "worker_id": "c1c747fbc8c54f2493c2f3b94bb6063e-shard-0",
-        "claimed_at": "2026-11-07T09:28:20.245470+00:00",
-        "lease_expires_at": "2026-11-07T15:28:20.245470+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30886618",
       "prepared": {
@@ -124782,5 +124784,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T09:44:11.760074+00:00"
+  "updated_at": "2026-11-07T09:44:37.464921+00:00"
 }
