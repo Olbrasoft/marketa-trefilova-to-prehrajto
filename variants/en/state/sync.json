@@ -25395,17 +25395,19 @@
       "attempts": []
     },
     "20374": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28370606",
+          "target_video_id": "30877896",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:20:31.512253+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28370606",
         "display_name": "The Bloody Hundredth 1080p CZ Titulky",
         "planned_at": "2026-11-07T03:03:22.365977+00:00"
-      },
-      "claim": {
-        "worker_id": "8ca18799adc84002b79245f289371fef-shard-0",
-        "claimed_at": "2026-11-07T03:03:22.431093+00:00",
-        "lease_expires_at": "2026-11-07T09:03:22.431093+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30877896",
       "prepared": {
@@ -77752,5 +77754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:08:54.555112+00:00"
+  "updated_at": "2026-11-07T03:20:31.512269+00:00"
 }
