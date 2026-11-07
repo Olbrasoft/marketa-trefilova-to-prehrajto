@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T13:58:27.230203+00:00
+Poslední aktualizace (UTC): 2026-11-07T13:58:30.588671+00:00
 
 Zkontrolováno videí: 497. Další stránka kontroly: 0.
 
@@ -106,7 +106,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [Insomnia 1080p CZ Titulky](https://prehraj.to/insomnia-1080p-cz-titulky-mkv/7357b6c213189979) (ID 30854783) | [Sdílej 27519363](https://sdilej.cz/27519363/insomnia.2002.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-06T08:53:54.166881+00:00 |
 | [Invention for Destruction (Vynález zkázy) 1080p CZ Titulky](https://prehraj.to/invention-for-destruction-vynalez-zkazy-1080p-cz-titulky-mkv/00a6dc861862d5e3) (ID 30866492) | [Sdílej 34422006](https://sdilej.cz/34422006/vynalez-zkazy-1958-cz-cz-1080p-.mkv) | target_unavailable | 2026-11-06T18:43:48.937887+00:00 |
 | [Jin-Roh: The Wolf Brigade (人狼 JIN-ROH) SD CZ Titulky](https://prehraj.to/jin-roh-the-wolf-brigade-jin-roh-sd-cz-titulky-mkv/b95329e1ac6de419) (ID 30833915) | [Sdílej 34185179](https://sdilej.cz/34185179/jin-roh-the-wolf-brigade-1999-eridanus-cz.mkv) | target_unavailable | 2026-11-05T22:13:49.057665+00:00 |
-| [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-05T14:29:16.984982+00:00 |
+| [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-07T13:58:30.588609+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-05T14:29:31.811658+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-05T14:29:20.666190+00:00 |
 | [La grazia 1080p CZ Titulky](https://prehraj.to/la-grazia-1080p-cz-titulky-mkv/46c511e60632f1c9) (ID 30846589) | [Sdílej 34150864](https://sdilej.cz/34150864/la-grazia-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-11-06T04:21:26.810862+00:00 |
