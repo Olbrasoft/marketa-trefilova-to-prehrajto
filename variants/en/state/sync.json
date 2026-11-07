@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "7a740d1ea1cd4683b339177f891b5269-shard-0",
+        "claimed_at": "2026-11-07T23:50:26.507737+00:00",
+        "lease_expires_at": "2026-11-08T05:50:26.507737+00:00",
+        "run_id": "42420247810"
       }
     },
     "31551": {
@@ -27281,17 +27287,23 @@
           "attempted_at": "2026-11-07T23:18:24.951460+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "18892846",
-        "display_name": "Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky",
-        "planned_at": "2026-11-07T23:18:23.523646+00:00"
-      },
       "previous_target_id": "30898313",
-      "prepared": {
+      "upload": {
         "target_video_id": "30898313",
+        "display_name": "Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky",
+        "source_id": "18892846",
+        "source_url": "https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv",
+        "source_filename": "Noc ohnu -Noche de fuego 1080p 2021 - vlozene cz titulky - kst.mkv",
         "size_bytes": 4099999999,
-        "prepared_at": "2026-11-07T20:40:44.890836+00:00",
-        "relay_source_id": "18892846"
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "es",
+        "language_probability": 0.9546961784362793,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/prayers-for-the-stolen-noche-de-fuego-1080p-cz-titulky-mkv/ca62beb557a955ad",
+        "uploaded_at": "2026-11-07T23:50:28.101253+00:00"
       }
     },
     "13312": {
@@ -82867,5 +82879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:50:24.816529+00:00"
+  "updated_at": "2026-11-07T23:50:28.101261+00:00"
 }
