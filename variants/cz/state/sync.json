@@ -76187,17 +76187,19 @@
       }
     },
     "2393": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34574402",
+          "target_video_id": "30892143",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:12:47.445245+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34574402",
         "display_name": "Rambo 4K CZ Dabing",
         "planned_at": "2026-11-07T14:02:00.105361+00:00"
-      },
-      "claim": {
-        "worker_id": "2ed299aade5c43c3a4b963ae4ec4e9da-shard-0",
-        "claimed_at": "2026-11-07T14:02:00.473221+00:00",
-        "lease_expires_at": "2026-11-07T20:02:00.473221+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892143",
       "prepared": {
@@ -126845,5 +126847,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:12:20.776882+00:00"
+  "updated_at": "2026-11-07T14:12:47.445261+00:00"
 }
