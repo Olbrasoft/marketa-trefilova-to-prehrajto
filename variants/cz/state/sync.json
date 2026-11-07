@@ -75999,17 +75999,19 @@
       }
     },
     "2192": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34400048",
+          "target_video_id": "30891140",
+          "permanent": false,
+          "attempted_at": "2026-11-07T13:24:45.261073+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34400048",
         "display_name": "Civil War 4K CZ Dabing",
         "planned_at": "2026-11-07T13:11:52.298333+00:00"
-      },
-      "claim": {
-        "worker_id": "22d03d903fd14beb8cd71443b433edab-shard-0",
-        "claimed_at": "2026-11-07T13:11:52.472448+00:00",
-        "lease_expires_at": "2026-11-07T19:11:52.472448+00:00",
-        "run_id": "42355221442"
       },
       "previous_target_id": "30891140",
       "prepared": {
@@ -126624,5 +126626,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T13:22:52.188528+00:00"
+  "updated_at": "2026-11-07T13:24:45.261089+00:00"
 }
