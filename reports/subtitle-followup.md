@@ -481,3 +481,4 @@ Attach subtitles only after target processing has finished.
 | Nikita 1080p CZ Titulky | 30875013 | https://sdilej.cz/21092547/la-femme-nikita-1990-hevc-1080p-cz-dabing.mkv | Complete: Czech subtitles verified |
 | Friday Night Lights 1080p CZ Titulky | 30876987 | https://sdilej.cz/34821361/friday.night.lights.2004.open.matte.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Bloody Hundredth 1080p CZ Titulky | 30877896 | https://sdilej.cz/28370606/the-bloody-hundredth-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| Wristcutters: A Love Story 1080p CZ Titulky | 30878216 | https://sdilej.cz/30865387/sebevrazi-love-story-z-onoho-sveta-wristcutters-a-love-story-2007--tt0477139--en-cs-.webdl-1080p.h265-ac3-5.1.mkv | Extract Czech track from exact source after processing |
