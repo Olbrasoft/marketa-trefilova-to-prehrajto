@@ -72909,10 +72909,28 @@
         "claimed_at": "2026-11-07T04:19:06.712105+00:00",
         "lease_expires_at": "2026-11-07T10:19:06.712105+00:00",
         "run_id": "42319503958"
+      },
+      "previous_target_id": "30879696",
+      "prepared": {
+        "target_video_id": "30879696",
+        "size_bytes": 1621524854,
+        "prepared_at": "2026-11-07T04:19:09.968587+00:00",
+        "relay_source_id": "31573233"
       }
     },
     "21807": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34700219",
+        "display_name": "Gambit 720p CZ Dabing",
+        "planned_at": "2026-11-07T04:19:08.962082+00:00"
+      },
+      "claim": {
+        "worker_id": "c131d8290e9f4d3f83fe3e5e6ad02e23-shard-0",
+        "claimed_at": "2026-11-07T04:19:09.213768+00:00",
+        "lease_expires_at": "2026-11-07T10:19:09.213768+00:00",
+        "run_id": "42319503958"
+      }
     },
     "27437": {
       "attempts": []
@@ -122526,5 +122544,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T04:19:07.544876+00:00"
+  "updated_at": "2026-11-07T04:19:09.968604+00:00"
 }
