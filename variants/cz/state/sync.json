@@ -73146,17 +73146,19 @@
       }
     },
     "1871": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13008217",
+          "target_video_id": "30880897",
+          "permanent": false,
+          "attempted_at": "2026-11-07T05:20:05.964902+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13008217",
         "display_name": "Le Magnifique 1080p CZ Dabing",
         "planned_at": "2026-11-07T05:00:21.706271+00:00"
-      },
-      "claim": {
-        "worker_id": "34481728ce7f41d7be419fab4404b325-shard-0",
-        "claimed_at": "2026-11-07T05:00:22.010110+00:00",
-        "lease_expires_at": "2026-11-07T11:00:22.010110+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30880897",
       "prepared": {
@@ -122752,5 +122754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T05:00:25.317039+00:00"
+  "updated_at": "2026-11-07T05:20:05.964916+00:00"
 }
