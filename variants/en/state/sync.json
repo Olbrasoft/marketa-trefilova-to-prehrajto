@@ -25164,17 +25164,19 @@
       }
     },
     "1619": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30685953",
+          "target_video_id": "30874868",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:05:21.894039+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30685953",
         "display_name": "The Courier (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-07T00:53:34.669212+00:00"
-      },
-      "claim": {
-        "worker_id": "24b0627ee5eb42feb7fa57f13766dda7-shard-0",
-        "claimed_at": "2026-11-07T00:53:34.738811+00:00",
-        "lease_expires_at": "2026-11-07T06:53:34.738811+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30874868",
       "prepared": {
@@ -77403,5 +77405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T01:03:18.576178+00:00"
+  "updated_at": "2026-11-07T01:05:21.894056+00:00"
 }
