@@ -55890,13 +55890,6 @@
           "source_id": "31203013",
           "target_video_id": "30784627",
           "permanent": false,
-          "attempted_at": "2026-11-07T04:12:15.450491+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31203013",
-          "target_video_id": "30784627",
-          "permanent": false,
           "attempted_at": "2026-11-07T04:46:11.330527+00:00"
         },
         {
@@ -55905,6 +55898,13 @@
           "target_video_id": "30784627",
           "permanent": false,
           "attempted_at": "2026-11-07T05:26:45.764132+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31203013",
+          "target_video_id": "30784627",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:05:13.721891+00:00"
         }
       ],
       "last_plan": {
@@ -56814,7 +56814,7 @@
       "last_plan": {
         "source_id": "33383467",
         "display_name": "Vanishing Point 1080p CZ Dabing",
-        "planned_at": "2026-11-07T05:26:49.590160+00:00"
+        "planned_at": "2026-11-07T06:05:12.437372+00:00"
       },
       "previous_target_id": "30785708",
       "prepared": {
@@ -56822,6 +56822,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-04T12:47:15.136003+00:00",
         "relay_source_id": "33383467"
+      },
+      "claim": {
+        "worker_id": "772597bc40ef4cc285c8be64194666bd-shard-0",
+        "claimed_at": "2026-11-07T06:05:13.035740+00:00",
+        "lease_expires_at": "2026-11-07T12:05:13.035740+00:00",
+        "run_id": "42338182103"
       }
     },
     "31733": {
@@ -73376,7 +73382,7 @@
       "last_plan": {
         "source_id": "27090744",
         "display_name": "Molière SD CZ Dabing",
-        "planned_at": "2026-11-07T06:05:10.387266+00:00"
+        "planned_at": "2026-11-07T06:05:12.667426+00:00"
       }
     },
     "33956": {
@@ -122924,5 +122930,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:05:10.766805+00:00"
+  "updated_at": "2026-11-07T06:05:13.721911+00:00"
 }
