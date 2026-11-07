@@ -7080,13 +7080,6 @@
           "source_id": "26239565",
           "target_video_id": "30627346",
           "permanent": false,
-          "attempted_at": "2026-11-07T19:17:07.792559+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "30627346",
-          "permanent": false,
           "attempted_at": "2026-11-07T19:48:04.529443+00:00"
         },
         {
@@ -7095,6 +7088,13 @@
           "target_video_id": "30627346",
           "permanent": false,
           "attempted_at": "2026-11-07T20:19:52.378377+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-11-07T20:53:38.204884+00:00"
         }
       ],
       "last_plan": {
@@ -30741,7 +30741,7 @@
       "last_plan": {
         "source_id": "34782308",
         "display_name": "Whale Rider SD CZ Dabing",
-        "planned_at": "2026-11-07T20:17:05.726206+00:00"
+        "planned_at": "2026-11-07T20:53:37.145296+00:00"
       },
       "previous_target_id": "30897928",
       "prepared": {
@@ -30749,6 +30749,12 @@
         "size_bytes": 991738118,
         "prepared_at": "2026-11-07T20:17:10.007287+00:00",
         "relay_source_id": "34782308"
+      },
+      "claim": {
+        "worker_id": "8367a3820b584e06bb20ad3f4d89fd22-shard-0",
+        "claimed_at": "2026-11-07T20:53:37.722864+00:00",
+        "lease_expires_at": "2026-11-08T02:53:37.722864+00:00",
+        "run_id": "42395943512"
       }
     },
     "36623": {
@@ -79323,7 +79329,7 @@
       "last_plan": {
         "source_id": "10838754",
         "display_name": "Boiler Room SD CZ Dabing",
-        "planned_at": "2026-11-07T20:53:35.386007+00:00"
+        "planned_at": "2026-11-07T20:53:37.377274+00:00"
       }
     },
     "2278": {
@@ -131047,5 +131053,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T20:53:35.386029+00:00"
+  "updated_at": "2026-11-07T20:53:38.204906+00:00"
 }
