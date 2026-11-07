@@ -76156,17 +76156,19 @@
       }
     },
     "13390": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31170380",
+          "target_video_id": "30892090",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:04:29.641609+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31170380",
         "display_name": "Napoleon Dynamite 1080p CZ Dabing",
         "planned_at": "2026-11-07T13:59:14.727846+00:00"
-      },
-      "claim": {
-        "worker_id": "4c66431913b64742a2e1c28b593e5d4e-shard-0",
-        "claimed_at": "2026-11-07T13:59:15.069977+00:00",
-        "lease_expires_at": "2026-11-07T19:59:15.069977+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892090",
       "prepared": {
@@ -126766,5 +126768,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:02:04.418020+00:00"
+  "updated_at": "2026-11-07T14:04:29.641625+00:00"
 }
