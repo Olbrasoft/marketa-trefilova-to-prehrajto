@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:27:49.348746+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:27:53.240720+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
@@ -63,7 +63,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 52. Důvo
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-06T13:17:37.458131+00:00 |
+| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-07T14:27:53.240661+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-06T21:06:52.703066+00:00 |
 | [71: Into the Fire (포화 속으로) 720p CZ Titulky](https://prehraj.to/71-into-the-fire-720p-cz-titulky-mkv/080af038460c52dc) (ID 30891751) | [Sdílej 19963845](https://sdilej.cz/19963845/71-into-the-fire-2010-kor-bdrip.720p.x264.cz.en.tit.mkv) | target_unavailable | 2026-11-07T13:46:31.956276+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-07T14:06:47.114439+00:00 |
