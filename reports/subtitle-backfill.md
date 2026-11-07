@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:48:38.527253+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:48:42.745607+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
@@ -92,7 +92,7 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 12. Důvo
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-07T13:57:35.698792+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-07T13:58:03.442823+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-07T13:58:15.366222+00:00 |
-| [Stargate: The Ark of Truth 1080p CZ Titulky](https://prehraj.to/stargate-the-ark-of-truth-1080p-cz-titulky-mkv/a66e8dfee79c4b1a) (ID 30888161) | [Sdílej 13184537](https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv) | target_unavailable | 2026-11-07T10:43:56.760247+00:00 |
+| [Stargate: The Ark of Truth 1080p CZ Titulky](https://prehraj.to/stargate-the-ark-of-truth-1080p-cz-titulky-mkv/a66e8dfee79c4b1a) (ID 30888161) | [Sdílej 13184537](https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv) | target_unavailable | 2026-11-07T14:48:42.745508+00:00 |
 | [The Express 1080p CZ Titulky](https://prehraj.to/the-express-1080p-cz-titulky-mkv/b4a06b7a8b8242f8) (ID 30889083) | [Sdílej 34506932](https://sdilej.cz/34506932/expres-2008-cz-dabing-1080p-fhd.mkv) | target_unavailable | 2026-11-07T11:24:11.818013+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-07T13:57:20.864213+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-07T13:58:11.907221+00:00 |
