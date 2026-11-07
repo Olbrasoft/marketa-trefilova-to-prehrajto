@@ -8472,13 +8472,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-07T07:55:56.733404+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-07T08:28:18.493153+00:00"
         },
         {
@@ -8487,6 +8480,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-07T09:24:33.631856+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-07T10:02:05.386649+00:00"
         }
       ],
       "last_plan": {
@@ -8500,12 +8500,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "42c89ca549b641b5aa85db21ff493401-shard-0",
-        "claimed_at": "2026-11-07T10:00:28.446135+00:00",
-        "lease_expires_at": "2026-11-07T16:00:28.446135+00:00",
-        "run_id": "42355221442"
       }
     },
     "29922": {
@@ -53537,7 +53531,7 @@
       "last_plan": {
         "source_id": "33925810",
         "display_name": "The Doors 4K CZ Dabing",
-        "planned_at": "2026-11-07T09:25:46.658561+00:00"
+        "planned_at": "2026-11-07T10:02:04.503301+00:00"
       },
       "previous_target_id": "30780604",
       "prepared": {
@@ -53545,6 +53539,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-04T06:13:57.574294+00:00",
         "relay_source_id": "33925810"
+      },
+      "claim": {
+        "worker_id": "d7a812742f4a403e9d38cc927704edfc-shard-0",
+        "claimed_at": "2026-11-07T10:02:04.924940+00:00",
+        "lease_expires_at": "2026-11-07T16:02:04.924940+00:00",
+        "run_id": "42355221442"
       }
     },
     "1790": {
@@ -56834,6 +56834,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-04T12:47:15.136003+00:00",
         "relay_source_id": "33383467"
+      },
+      "claim": {
+        "worker_id": "6f6d758dfc004dc5b735132158fa5de2-shard-0",
+        "claimed_at": "2026-11-07T10:02:04.411383+00:00",
+        "lease_expires_at": "2026-11-07T16:02:04.411383+00:00",
+        "run_id": "42355221442"
       }
     },
     "31733": {
@@ -74914,7 +74920,7 @@
       "last_plan": {
         "source_id": "34900816",
         "display_name": "The Devil Wears Prada 4K CZ Dabing",
-        "planned_at": "2026-11-07T10:02:02.271974+00:00"
+        "planned_at": "2026-11-07T10:02:04.635515+00:00"
       }
     },
     "2423": {
@@ -124838,5 +124844,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:02:02.271987+00:00"
+  "updated_at": "2026-11-07T10:02:05.386667+00:00"
 }
