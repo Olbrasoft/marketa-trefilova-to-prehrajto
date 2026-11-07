@@ -14545,13 +14545,6 @@
           "source_id": "32500310",
           "target_video_id": "30657182",
           "permanent": false,
-          "attempted_at": "2026-11-07T14:19:45.857258+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500310",
-          "target_video_id": "30657182",
-          "permanent": false,
           "attempted_at": "2026-11-07T14:49:49.716886+00:00"
         },
         {
@@ -14560,12 +14553,19 @@
           "target_video_id": "30657182",
           "permanent": false,
           "attempted_at": "2026-11-07T15:24:41.185280+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32500310",
+          "target_video_id": "30657182",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:57:03.694105+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-07T15:24:36.754900+00:00"
+        "planned_at": "2026-11-07T15:57:01.508434+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -77246,11 +77246,22 @@
       "last_plan": {
         "source_id": "33885266",
         "display_name": "Payback 4K CZ Dabing",
-        "planned_at": "2026-11-07T15:56:55.222238+00:00"
+        "planned_at": "2026-11-07T15:57:01.769828+00:00"
+      },
+      "claim": {
+        "worker_id": "99b9283199e349feaac54737f50dcb0b-shard-0",
+        "claimed_at": "2026-11-07T15:57:02.402852+00:00",
+        "lease_expires_at": "2026-11-07T21:57:02.402852+00:00",
+        "run_id": "42376609077"
       }
     },
     "2431": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27068986",
+        "display_name": "Bronson 1080p CZ Dabing",
+        "planned_at": "2026-11-07T15:57:01.913329+00:00"
+      }
     },
     "31263": {
       "attempts": []
@@ -128148,5 +128159,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:56:58.152094+00:00"
+  "updated_at": "2026-11-07T15:57:03.694124+00:00"
 }
