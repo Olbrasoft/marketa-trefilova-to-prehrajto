@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T15:37:45.053826+00:00
+Poslední aktualizace (UTC): 2026-11-07T15:37:49.365682+00:00
 
 Zkontrolováno videí: 501. Další stránka kontroly: 0.
 
@@ -72,7 +72,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 10. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-07T15:29:04.767665+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-07T14:06:50.557163+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-07T14:27:49.203422+00:00 |
-| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-07T14:06:35.691871+00:00 |
+| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-07T15:37:49.365598+00:00 |
 | [Fyre 1080p CZ Titulky](https://prehraj.to/fyre-1080p-cz-titulky-mp4/4d5f4e9c4ceea675) (ID 30878931) | [Sdílej 29268462](https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4) | source_unavailable | 2026-11-07T14:48:17.009143+00:00 |
 | [Gary 4K CZ Titulky](https://prehraj.to/gary-4k-cz-titulky-mkv/b81386c337f5bcc0) (ID 30886904) | [Sdílej 34158854](https://sdilej.cz/34158854/gary-2026-2160p-cz.tit.mkv) | target_unavailable | 2026-11-07T14:48:38.527067+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-07T14:17:03.689681+00:00 |
