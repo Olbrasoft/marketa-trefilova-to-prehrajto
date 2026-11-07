@@ -8512,13 +8512,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-07T01:51:28.062222+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-07T02:22:53.649399+00:00"
         },
         {
@@ -8527,6 +8520,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-07T03:01:28.475562+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:34:41.769460+00:00"
         }
       ],
       "last_plan": {
@@ -22188,7 +22188,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-07T03:01:31.280977+00:00"
+        "planned_at": "2026-11-07T03:34:40.659207+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22196,6 +22196,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "9eec562c1ac24a94a3df38032d3c9ad4-shard-0",
+        "claimed_at": "2026-11-07T03:34:41.144507+00:00",
+        "lease_expires_at": "2026-11-07T09:34:41.144507+00:00",
+        "run_id": "42319503958"
       }
     },
     "730": {
@@ -72608,7 +72614,7 @@
       "last_plan": {
         "source_id": "34700199",
         "display_name": "The Blue Max 1080p CZ Dabing",
-        "planned_at": "2026-11-07T03:34:38.948725+00:00"
+        "planned_at": "2026-11-07T03:34:40.849268+00:00"
       }
     },
     "10979": {
@@ -122049,5 +122055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:34:38.948743+00:00"
+  "updated_at": "2026-11-07T03:34:41.769478+00:00"
 }
