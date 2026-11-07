@@ -28867,13 +28867,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-07T01:51:55.323457+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-07T02:23:22.725171+00:00"
         },
         {
@@ -28882,12 +28875,19 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-07T03:01:58.709534+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:35:00.845543+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28442451",
         "display_name": "Synecdoche, New York SD CZ Dabing",
-        "planned_at": "2026-11-07T03:01:57.006773+00:00"
+        "planned_at": "2026-11-07T03:34:59.126051+00:00"
       },
       "previous_target_id": "30721408",
       "prepared": {
@@ -72608,11 +72608,22 @@
       "last_plan": {
         "source_id": "34700199",
         "display_name": "The Blue Max 1080p CZ Dabing",
-        "planned_at": "2026-11-07T03:34:55.949562+00:00"
+        "planned_at": "2026-11-07T03:34:59.312736+00:00"
+      },
+      "claim": {
+        "worker_id": "30cfb0b1e6874a36b3317c685e7c531f-shard-0",
+        "claimed_at": "2026-11-07T03:34:59.664625+00:00",
+        "lease_expires_at": "2026-11-07T09:34:59.664625+00:00",
+        "run_id": "42319503958"
       }
     },
     "10979": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34672749",
+        "display_name": "All My Compatriots (Všichni dobří rodáci) 1080p CZ Dabing",
+        "planned_at": "2026-11-07T03:34:59.420272+00:00"
+      }
     },
     "29257": {
       "attempts": []
@@ -122049,5 +122060,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:34:57.497987+00:00"
+  "updated_at": "2026-11-07T03:35:00.845560+00:00"
 }
