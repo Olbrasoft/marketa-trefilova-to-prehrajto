@@ -76784,17 +76784,19 @@
       "attempts": []
     },
     "19966": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34885958",
+          "target_video_id": "30893292",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:18:37.544949+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34885958",
         "display_name": "Remembrance (Die verlorene Zeit) (2011) SD CZ Dabing",
         "planned_at": "2026-11-07T15:13:53.963143+00:00"
-      },
-      "claim": {
-        "worker_id": "b84aff5b8ded4f3f9c18ac37c2a550c8-shard-0",
-        "claimed_at": "2026-11-07T15:13:54.288233+00:00",
-        "lease_expires_at": "2026-11-07T21:13:54.288233+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893292",
       "prepared": {
@@ -127787,5 +127789,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:18:33.517000+00:00"
+  "updated_at": "2026-11-07T15:18:37.544966+00:00"
 }
