@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T10:43:52.242798+00:00
+Poslední aktualizace (UTC): 2026-11-07T10:43:57.362030+00:00
 
 Zkontrolováno videí: 489. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 331, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 97, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 331, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 98, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -134,6 +134,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 103. Důvo
 | [Spare Parts 720p CZ Titulky](https://prehraj.to/spare-parts-720p-cz-titulky-mkv/9247fc3462249d3f) (ID 30841932) | [Sdílej 14942933](https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-06T02:10:20.872781+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-05T14:28:51.492442+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-05T14:29:03.115273+00:00 |
+| [Stargate: The Ark of Truth 1080p CZ Titulky](https://prehraj.to/stargate-the-ark-of-truth-1080p-cz-titulky-mkv/a66e8dfee79c4b1a) (ID 30888161) | [Sdílej 13184537](https://sdilej.cz/13184537/hvezdna-brana-archa-pravdy-2008-cz-en.mkv) | target_unavailable | 2026-11-07T10:43:56.760247+00:00 |
 | [Steve Jobs 1080p CZ Titulky](https://prehraj.to/steve-jobs-1080p-cz-titulky-mkv/459ca9f81e8d5bea) (ID 30860819) | [Sdílej 5722967](https://sdilej.cz/5722967/steve.jobs.2015.1080p.bluray.h264.ac3-rarbg.cz.mkv) | target_unavailable | 2026-11-06T14:08:05.978497+00:00 |
 | [The Ballad of Buster Scruggs 1080p CZ Titulky](https://prehraj.to/the-ballad-of-buster-scruggs-1080p-cz-titulky-mkv/bca3bd31d5993b5c) (ID 30861500) | [Sdílej 30700293](https://sdilej.cz/30700293/the-ballad-of-buster-scruggs-2018-1080p-nf-webrip-dl-ac3-x264-majo.mkv) | target_unavailable | 2026-11-06T14:41:26.126833+00:00 |
 | [The Beast (1988) 720p CZ Titulky](https://prehraj.to/the-beast-1988-720p-cz-titulky-mkv/aff9584063ecdc90) (ID 30845001) | [Sdílej 30819441](https://sdilej.cz/30819441/the-beast-of-war-1988-cz.tit.mkv) | target_unavailable | 2026-11-06T03:41:08.562096+00:00 |
