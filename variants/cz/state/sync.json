@@ -70,7 +70,7 @@
       "last_plan": {
         "source_id": "32109264",
         "display_name": "The Godfather 4K CZ Dabing",
-        "planned_at": "2026-11-07T21:23:45.082020+00:00"
+        "planned_at": "2026-11-07T21:55:46.098690+00:00"
       },
       "previous_target_id": "30568614",
       "prepared": {
@@ -78,6 +78,12 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
+      },
+      "claim": {
+        "worker_id": "4c550ac58d2b49f4b660dd03bdc4a55e-shard-0",
+        "claimed_at": "2026-11-07T21:55:46.884806+00:00",
+        "lease_expires_at": "2026-11-08T03:55:46.884806+00:00",
+        "run_id": "42395943512"
       }
     },
     "9": {
@@ -79892,17 +79898,19 @@
       "attempts": []
     },
     "25689": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34046512",
+          "target_video_id": "30899405",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:55:47.069449+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34046512",
         "display_name": "Curse of the Golden Flower 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:49:34.289113+00:00"
-      },
-      "claim": {
-        "worker_id": "ab42bb97a4084d83b2cfcb0857d7a383-shard-0",
-        "claimed_at": "2026-11-07T21:49:34.632285+00:00",
-        "lease_expires_at": "2026-11-08T03:49:34.632285+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30899405",
       "prepared": {
@@ -79920,7 +79928,7 @@
       "last_plan": {
         "source_id": "11111243",
         "display_name": "Behind the Candelabra 720p CZ Dabing",
-        "planned_at": "2026-11-07T21:55:43.444967+00:00"
+        "planned_at": "2026-11-07T21:55:46.546844+00:00"
       }
     },
     "2292": {
@@ -131773,5 +131781,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:55:44.798878+00:00"
+  "updated_at": "2026-11-07T21:55:47.069474+00:00"
 }
