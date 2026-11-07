@@ -76353,17 +76353,19 @@
       }
     },
     "26953": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34921055",
+          "target_video_id": "30892501",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:27:40.331199+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34921055",
         "display_name": "Tinker Tailor Soldier Spy SD CZ Dabing",
         "planned_at": "2026-11-07T14:24:26.267021+00:00"
-      },
-      "claim": {
-        "worker_id": "841b01fc0f5e4a72ac12294e668d039d-shard-0",
-        "claimed_at": "2026-11-07T14:24:26.617637+00:00",
-        "lease_expires_at": "2026-11-07T20:24:26.617637+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892501",
       "prepared": {
@@ -127107,5 +127109,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:24:30.891795+00:00"
+  "updated_at": "2026-11-07T14:27:40.331214+00:00"
 }
