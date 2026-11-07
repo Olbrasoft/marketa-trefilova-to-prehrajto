@@ -435,8 +435,8 @@ Attach subtitles only after target processing has finished.
 | The Man from Laramie SD CZ Titulky | 30841326 | https://sdilej.cz/33602979/the-man-from-laramie-1955-cz.mkv | Complete: Czech subtitles verified |
 | Spare Parts 720p CZ Titulky | 30841932 | https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Agnus Dei (Les innocentes) SD CZ Titulky | 30842899 | https://sdilej.cz/6500108/nevinne-les-innocentes-agnus-dei-2016-titulky.cz.mkv | Complete: Czech subtitles verified |
-| Shogun Assassin 1080p CZ Titulky | 30843246 | https://sdilej.cz/20753070/shogun-assassin-1980-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
-| Nouvelle Vague 4K CZ Titulky | 30843642 | https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv | Extract Czech track from exact source after processing |
+| Shogun Assassin 1080p CZ Titulky | 30843246 | https://sdilej.cz/20753070/shogun-assassin-1980-1080p-cz-titl.mkv | Complete: Czech subtitles verified |
+| Nouvelle Vague 4K CZ Titulky | 30843642 | https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv | Complete: Czech subtitles verified |
 | The Beast (1988) 720p CZ Titulky | 30845001 | https://sdilej.cz/30819441/the-beast-of-war-1988-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Constantine City of Demons: The Movie (Constantine: City of Demons - The Movie) 1080p CZ Titulky | 30845304 | https://sdilej.cz/18493180/constantine-city-of-demons-the-movie-2018-cz-sub-1080p-bluray-dts-x264.mkv | Extract Czech track from exact source after processing |
 | La grazia 1080p CZ Titulky | 30846589 | https://sdilej.cz/34150864/la-grazia-2025-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
