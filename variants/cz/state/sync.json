@@ -79825,17 +79825,19 @@
       }
     },
     "2429": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24714912",
+          "target_video_id": "30899222",
+          "permanent": false,
+          "attempted_at": "2026-11-07T21:47:36.022329+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24714912",
         "display_name": "Qu'est-ce qu'on a fait au Bon Dieu? (Qu'est-ce qu'on a fait au Bon Dieu ?) 1080p CZ Dabing",
         "planned_at": "2026-11-07T21:40:29.002623+00:00"
-      },
-      "claim": {
-        "worker_id": "e3c0914376f24e5c828a9e65821093fe-shard-0",
-        "claimed_at": "2026-11-07T21:40:29.364333+00:00",
-        "lease_expires_at": "2026-11-08T03:40:29.364333+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30899222",
       "prepared": {
@@ -131710,5 +131712,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:40:33.190487+00:00"
+  "updated_at": "2026-11-07T21:47:36.022350+00:00"
 }
