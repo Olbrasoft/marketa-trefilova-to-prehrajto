@@ -6927,13 +6927,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-07T21:39:42.339570+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-07T22:47:14.455750+00:00"
         },
         {
@@ -6942,6 +6935,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-07T23:19:52.596669+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:51:25.569273+00:00"
         }
       ],
       "last_plan": {
@@ -6955,12 +6955,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "28dc8cea5ab248afa8eb1f4a6e343f1e-shard-0",
-        "claimed_at": "2026-11-07T23:51:23.515545+00:00",
-        "lease_expires_at": "2026-11-08T05:51:23.515545+00:00",
-        "run_id": "42420247810"
       }
     },
     "321": {
@@ -21641,7 +21635,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:19:58.203827+00:00"
+        "planned_at": "2026-11-07T23:51:25.081732+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21649,6 +21643,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "8d77b464766b47e59351d69ee683baeb-shard-0",
+        "claimed_at": "2026-11-07T23:51:25.437368+00:00",
+        "lease_expires_at": "2026-11-08T05:51:25.437368+00:00",
+        "run_id": "42420247810"
       }
     },
     "677": {
@@ -80578,7 +80578,7 @@
       "last_plan": {
         "source_id": "20377543",
         "display_name": "Les Visiteurs 1080p CZ Dabing",
-        "planned_at": "2026-11-07T23:51:23.308112+00:00"
+        "planned_at": "2026-11-07T23:51:25.233790+00:00"
       }
     },
     "2196": {
@@ -132916,5 +132916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:51:23.638220+00:00"
+  "updated_at": "2026-11-07T23:51:25.569295+00:00"
 }
