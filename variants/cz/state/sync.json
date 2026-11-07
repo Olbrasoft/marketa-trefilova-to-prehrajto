@@ -73661,17 +73661,19 @@
       }
     },
     "11303": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673676",
+          "target_video_id": "30883611",
+          "permanent": false,
+          "attempted_at": "2026-11-07T06:55:39.979303+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673676",
         "display_name": "Magnificent Butcher (林世榮) SD CZ Dabing",
         "planned_at": "2026-11-07T06:48:23.291994+00:00"
-      },
-      "claim": {
-        "worker_id": "9e022bf3462341e69470702ab962e9ad-shard-0",
-        "claimed_at": "2026-11-07T06:48:23.634209+00:00",
-        "lease_expires_at": "2026-11-07T12:48:23.634209+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30883611",
       "prepared": {
@@ -123332,5 +123334,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:49:34.407117+00:00"
+  "updated_at": "2026-11-07T06:55:39.979318+00:00"
 }
