@@ -72450,17 +72450,19 @@
       "attempts": []
     },
     "37393": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34454606",
+          "target_video_id": "30877999",
+          "permanent": false,
+          "attempted_at": "2026-11-07T03:12:57.410922+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34454606",
         "display_name": "Azuloscurocasinegro (Dark Blue Almost Black) SD CZ Dabing",
         "planned_at": "2026-11-07T03:09:11.972514+00:00"
-      },
-      "claim": {
-        "worker_id": "be2e7d6957b8492d9248e0902a911c0e-shard-0",
-        "claimed_at": "2026-11-07T03:09:12.236278+00:00",
-        "lease_expires_at": "2026-11-07T09:09:12.236278+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30877999",
       "prepared": {
@@ -121836,5 +121838,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T03:09:15.701339+00:00"
+  "updated_at": "2026-11-07T03:12:57.410940+00:00"
 }
