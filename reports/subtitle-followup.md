@@ -485,3 +485,4 @@ Attach subtitles only after target processing has finished.
 | Fyre 1080p CZ Titulky | 30878931 | https://sdilej.cz/29268462/fyre-nejvetsi-vecirek-co-nikdy-nebyl-billy-mcfarland-a.z.-ja-rule-a.z.-ron-funches-a.z.-elsa-hosk-a.z.-2019-dokumentarni-bdrip.-1080p.-en-cz-titulky.mp4 | Extract Czech track from exact source after processing |
 | Sleep Tight (Mientras duermes) 720p CZ Titulky | 30880851 | https://sdilej.cz/22887994/zatimco-spis-2011-thriller-horor-drama-cz-tit.-hd-720p-.mkv | Extract Czech track from exact source after processing |
 | The Siege of Jadotville 720p CZ Titulky | 30880856 | https://sdilej.cz/6557665/the-siege-of-jadotville-2016-.720p.webrip.h264.ac3-5.1-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Good Luck to You, Leo Grande 1080p CZ Titulky | 30882377 | https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv | Extract Czech track from exact source after processing |
