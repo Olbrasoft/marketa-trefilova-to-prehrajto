@@ -38612,13 +38612,6 @@
           "source_id": "34784954",
           "target_video_id": "30745770",
           "permanent": false,
-          "attempted_at": "2026-11-06T21:55:28.366024+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34784954",
-          "target_video_id": "30745770",
-          "permanent": false,
           "attempted_at": "2026-11-06T22:26:09.861357+00:00"
         },
         {
@@ -38627,6 +38620,13 @@
           "target_video_id": "30745770",
           "permanent": false,
           "attempted_at": "2026-11-07T00:51:11.628304+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784954",
+          "target_video_id": "30745770",
+          "permanent": false,
+          "attempted_at": "2026-11-07T01:21:43.053490+00:00"
         }
       ],
       "last_plan": {
@@ -42861,7 +42861,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrinth 4K CZ Dabing",
-        "planned_at": "2026-11-07T00:51:14.290136+00:00"
+        "planned_at": "2026-11-07T01:21:41.905530+00:00"
       },
       "previous_target_id": "30756113",
       "prepared": {
@@ -42869,6 +42869,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-03T08:20:54.807935+00:00",
         "relay_source_id": "34146117"
+      },
+      "claim": {
+        "worker_id": "afab2f65c9b84d9faaf9adcbdf291c06-shard-0",
+        "claimed_at": "2026-11-07T01:21:42.371267+00:00",
+        "lease_expires_at": "2026-11-07T07:21:42.371267+00:00",
+        "run_id": "42319503958"
       }
     },
     "20525": {
@@ -64130,7 +64136,7 @@
       "last_plan": {
         "source_id": "28526168",
         "display_name": "Mean Streets 1080p CZ Dabing",
-        "planned_at": "2026-11-07T01:21:40.344955+00:00"
+        "planned_at": "2026-11-07T01:21:42.086127+00:00"
       }
     },
     "33001": {
@@ -121096,5 +121102,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T01:21:40.344973+00:00"
+  "updated_at": "2026-11-07T01:21:43.053507+00:00"
 }
