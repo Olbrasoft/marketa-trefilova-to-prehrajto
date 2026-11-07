@@ -75303,10 +75303,28 @@
         "claimed_at": "2026-11-07T11:09:01.057940+00:00",
         "lease_expires_at": "2026-11-07T17:09:01.057940+00:00",
         "run_id": "42355221442"
+      },
+      "previous_target_id": "30888746",
+      "prepared": {
+        "target_video_id": "30888746",
+        "size_bytes": 5489642159,
+        "prepared_at": "2026-11-07T11:09:05.777578+00:00",
+        "relay_source_id": "34355996"
       }
     },
     "2463": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33691174",
+        "display_name": "Constantine 4K CZ Dabing",
+        "planned_at": "2026-11-07T11:09:02.930381+00:00"
+      },
+      "claim": {
+        "worker_id": "156fa6e99b704fdb81c3e908ca5a8e39-shard-0",
+        "claimed_at": "2026-11-07T11:09:03.104654+00:00",
+        "lease_expires_at": "2026-11-07T17:09:03.104654+00:00",
+        "run_id": "42355221442"
+      }
     },
     "13253": {
       "attempts": []
@@ -125364,5 +125382,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:09:01.367505+00:00"
+  "updated_at": "2026-11-07T11:09:05.777597+00:00"
 }
