@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:17:25.473170+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:17:29.395191+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 358, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 79, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 359, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 78, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -104,7 +104,6 @@ Kontrol: 20; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 72. Důvo
 | [Lawless 720p CZ Titulky](https://prehraj.to/lawless-720p-cz-titulky-mkv/273c22a8d0c1051c) (ID 30857839) | [Sdílej 8554596](https://sdilej.cz/8554596/zeme-bez-zakona-lawless-2012-cz-sub.720p-bluray-dts.mkv) | target_unavailable | 2026-11-06T11:36:42.355448+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-06T11:16:29.217043+00:00 |
 | [Mr. Brooks 1080p CZ Titulky](https://prehraj.to/mr-brooks-1080p-cz-titulky-mkv/2afa101ab588f405) (ID 30863259) | [Sdílej 30834447](https://sdilej.cz/30834447/mr.-brooks-2007-hraji-kevin-costner-demi-moore-full-hd-cz-dab.mkv) | target_unavailable | 2026-11-06T16:12:14.436395+00:00 |
-| [Nouvelle Vague 4K CZ Titulky](https://prehraj.to/nouvelle-vague-4k-cz-titulky-mkv/60cecaddbfe2e8d5) (ID 30843642) | [Sdílej 34011190](https://sdilej.cz/34011190/nova-vlna-2025-komedie-francie-cztit.uhd.mkv) | target_unavailable | 2026-11-06T03:10:51.602823+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-07T13:58:27.230125+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-06T05:32:05.097930+00:00 |
 | [Peculiarities of the National Hunt (Особенности национальной охоты) 1080p CZ Titulky](https://prehraj.to/peculiarities-of-the-national-hunt-1080p-cz-titulky-mkv/6a7b3933ad9f892c) (ID 30846831) | [Sdílej 32585907](https://sdilej.cz/32585907/sveraz-narodniho-lovu-1995-komedie-rusko-czdab-1080p.mkv) | target_unavailable | 2026-11-06T04:31:31.026673+00:00 |
