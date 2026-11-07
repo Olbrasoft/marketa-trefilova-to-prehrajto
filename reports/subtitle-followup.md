@@ -488,3 +488,4 @@ Attach subtitles only after target processing has finished.
 | Good Luck to You, Leo Grande 1080p CZ Titulky | 30882377 | https://sdilej.cz/31031957/hodne-stesti-pane-veliky-2022-komedie-velka-britanie-cz-dab-fuhd.mkv | Extract Czech track from exact source after processing |
 | American Murder: The Family Next Door 1080p CZ Titulky | 30884991 | https://sdilej.cz/14236370/americka-vrazda-rodina-od-vedle-en-vlozene-titulky-2020-dokument-1080p.mkv | Extract Czech track from exact source after processing |
 | Cat People (1942) SD CZ Titulky | 30886593 | https://sdilej.cz/31611769/kocici-lide-drama-1942-cz-titulky.mkv | Complete: Czech subtitles verified |
+| Gary 4K CZ Titulky | 30886904 | https://sdilej.cz/34158854/gary-2026-2160p-cz.tit.mkv | Extract Czech track from exact source after processing |
