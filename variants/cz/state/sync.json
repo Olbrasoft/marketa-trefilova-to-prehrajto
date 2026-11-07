@@ -77590,17 +77590,19 @@
       }
     },
     "2465": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15059122",
+          "target_video_id": "30894502",
+          "permanent": false,
+          "attempted_at": "2026-11-07T16:48:57.034484+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15059122",
         "display_name": "Filth 1080p CZ Dabing",
         "planned_at": "2026-11-07T16:38:28.990370+00:00"
-      },
-      "claim": {
-        "worker_id": "2c7e2e1171cc40a0972d106b073780e6-shard-0",
-        "claimed_at": "2026-11-07T16:38:29.361717+00:00",
-        "lease_expires_at": "2026-11-07T22:38:29.361717+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30894502",
       "prepared": {
@@ -128611,5 +128613,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T16:47:35.667424+00:00"
+  "updated_at": "2026-11-07T16:48:57.034496+00:00"
 }
