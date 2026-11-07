@@ -74442,17 +74442,19 @@
       }
     },
     "693": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33705450",
+          "target_video_id": "30885989",
+          "permanent": false,
+          "attempted_at": "2026-11-07T08:45:55.923876+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33705450",
         "display_name": "Černí baroni 1080p CZ Dabing",
         "planned_at": "2026-11-07T08:38:09.006776+00:00"
-      },
-      "claim": {
-        "worker_id": "115bce26285d4d40ad60e9cc116824cd-shard-0",
-        "claimed_at": "2026-11-07T08:38:09.343159+00:00",
-        "lease_expires_at": "2026-11-07T14:38:09.343159+00:00",
-        "run_id": "42338182103"
       },
       "previous_target_id": "30885989",
       "prepared": {
@@ -124314,5 +124316,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T08:42:18.850502+00:00"
+  "updated_at": "2026-11-07T08:45:55.923892+00:00"
 }
