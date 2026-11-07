@@ -78294,17 +78294,19 @@
       }
     },
     "1483": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34449915",
+          "target_video_id": "30896110",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:29:32.374043+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34449915",
         "display_name": "Terror (Terror - Ihr Urteil) SD CZ Dabing",
         "planned_at": "2026-11-07T18:26:49.075501+00:00"
-      },
-      "claim": {
-        "worker_id": "0fac18224b624dc6884bb13f6a185f8b-shard-0",
-        "claimed_at": "2026-11-07T18:26:49.389964+00:00",
-        "lease_expires_at": "2026-11-08T00:26:49.389964+00:00",
-        "run_id": "42395943512"
       },
       "previous_target_id": "30896110",
       "prepared": {
@@ -129732,5 +129734,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:27:59.084728+00:00"
+  "updated_at": "2026-11-07T18:29:32.374063+00:00"
 }
