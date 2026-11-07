@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T14:28:31.675616+00:00"
+        "planned_at": "2026-11-07T15:03:29.433750+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "6d9e98a9fc7d4ca7bdf1405f3f44104b-shard-0",
+        "claimed_at": "2026-11-07T15:03:30.052505+00:00",
+        "lease_expires_at": "2026-11-07T21:03:30.052505+00:00",
+        "run_id": "42376609077"
       }
     },
     "29922": {
@@ -76646,17 +76652,19 @@
       }
     },
     "2406": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34924952",
+          "target_video_id": "30893094",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:05:18.688962+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34924952",
         "display_name": "The Gift (2015) 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:59:16.885343+00:00"
-      },
-      "claim": {
-        "worker_id": "f11e8600a50a476a839cd79c4a76fb85-shard-0",
-        "claimed_at": "2026-11-07T14:59:17.259750+00:00",
-        "lease_expires_at": "2026-11-07T20:59:17.259750+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893094",
       "prepared": {
@@ -76671,7 +76679,7 @@
       "last_plan": {
         "source_id": "14255423",
         "display_name": "The Hunchback of Notre Dame (1996) 1080p CZ Dabing",
-        "planned_at": "2026-11-07T15:03:26.429139+00:00"
+        "planned_at": "2026-11-07T15:03:29.705481+00:00"
       }
     },
     "2256": {
@@ -127369,5 +127377,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:03:27.714808+00:00"
+  "updated_at": "2026-11-07T15:05:18.688977+00:00"
 }
