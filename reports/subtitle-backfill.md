@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-07T14:07:14.213311+00:00
+Poslední aktualizace (UTC): 2026-11-07T14:07:27.779291+00:00
 
 Zkontrolováno videí: 498. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 341, `attached_verified`: 11, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 96, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 341, `attached_verified`: 12, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 96, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -128,7 +128,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 91. Důvo
 | [Shame (2011) 1080p CZ Titulky](https://prehraj.to/shame-2011-1080p-cz-titulky-mkv/8bc62e9b3111b801) (ID 30859193) | [Sdílej 30693798](https://sdilej.cz/30693798/shame-stud-2011-1080p-cztit.mkv) | target_unavailable | 2026-11-06T12:37:15.928103+00:00 |
 | [Shogun Assassin 1080p CZ Titulky](https://prehraj.to/shogun-assassin-1080p-cz-titulky-mkv/c45b414fb1271fe4) (ID 30843246) | [Sdílej 20753070](https://sdilej.cz/20753070/shogun-assassin-1980-1080p-cz-titl.mkv) | target_unavailable | 2026-11-06T02:50:39.692014+00:00 |
 | [Sleep Tight (Mientras duermes) 720p CZ Titulky](https://prehraj.to/sleep-tight-mientras-duermes-720p-cz-titulky-mkv/c62a783e3167c0ae) (ID 30880851) | [Sdílej 22887994](https://sdilej.cz/22887994/zatimco-spis-2011-thriller-horor-drama-cz-tit.-hd-720p-.mkv) | target_unavailable | 2026-11-07T04:59:22.873813+00:00 |
-| [Song Sung Blue 1080p CZ Titulky](https://prehraj.to/song-sung-blue-1080p-cz-titulky-mp4/de9cdbac12fd3d10) (ID 30824468) | [Sdílej 33348083](https://sdilej.cz/33348083/song-sung-blue-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-07T14:07:14.213277+00:00 |
 | [Spare Parts 720p CZ Titulky](https://prehraj.to/spare-parts-720p-cz-titulky-mkv/9247fc3462249d3f) (ID 30841932) | [Sdílej 14942933](https://sdilej.cz/14942933/spare-parts-2015-.720p.bluray.h264.dts-5.1-ceske-titulky.mkv) | target_unavailable | 2026-11-06T02:10:20.872781+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-07T13:58:03.442823+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-07T13:58:15.366222+00:00 |
