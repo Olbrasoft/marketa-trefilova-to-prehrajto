@@ -25004,17 +25004,19 @@
       "attempts": []
     },
     "777": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35139207",
+          "target_video_id": "30901162",
+          "permanent": false,
+          "attempted_at": "2026-11-07T23:36:36.882117+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35139207",
         "display_name": "Kontroll 1080p CZ Dabing",
         "planned_at": "2026-11-07T23:23:02.113497+00:00"
-      },
-      "claim": {
-        "worker_id": "373aa4429d294cf9ac5fa467f67957dc-shard-0",
-        "claimed_at": "2026-11-07T23:23:02.303311+00:00",
-        "lease_expires_at": "2026-11-08T05:23:02.303311+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30901162",
       "prepared": {
@@ -132844,5 +132846,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T23:29:21.275911+00:00"
+  "updated_at": "2026-11-07T23:36:36.882142+00:00"
 }
