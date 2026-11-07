@@ -25093,17 +25093,19 @@
       "attempts": []
     },
     "1674": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11711857",
+          "target_video_id": "30874745",
+          "permanent": false,
+          "attempted_at": "2026-11-07T00:55:26.416775+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11711857",
         "display_name": "Christopher Robin 1080p CZ Titulky",
         "planned_at": "2026-11-07T00:48:36.212874+00:00"
-      },
-      "claim": {
-        "worker_id": "1fdeec6731cd4fa1bd221251bdfe4c8c-shard-0",
-        "claimed_at": "2026-11-07T00:48:36.564883+00:00",
-        "lease_expires_at": "2026-11-07T06:48:36.564883+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30874745",
       "prepared": {
@@ -77381,5 +77383,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T00:53:38.709624+00:00"
+  "updated_at": "2026-11-07T00:55:26.416816+00:00"
 }
