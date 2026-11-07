@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-07T17:07:31.640414+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-07T17:45:23.079535+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-07T18:16:27.788536+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-07T18:48:43.484709+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-07T18:16:29.197463+00:00"
+        "planned_at": "2026-11-07T18:48:42.097935+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "c1f25b462dd14bcdbdd4975d5c8f3302-shard-0",
+        "claimed_at": "2026-11-07T18:48:42.768002+00:00",
+        "lease_expires_at": "2026-11-08T00:48:42.768002+00:00",
+        "run_id": "42395943512"
       }
     },
     "52": {
@@ -78465,6 +78471,12 @@
         "source_id": "14998829",
         "display_name": "The Water Diviner 720p CZ Dabing",
         "planned_at": "2026-11-07T18:48:37.811137+00:00"
+      },
+      "claim": {
+        "worker_id": "86c971575b1941eb94f54af6dccd426b-shard-0",
+        "claimed_at": "2026-11-07T18:48:41.947795+00:00",
+        "lease_expires_at": "2026-11-08T00:48:41.947795+00:00",
+        "run_id": "42395943512"
       }
     },
     "2455": {
@@ -78472,7 +78484,7 @@
       "last_plan": {
         "source_id": "34237991",
         "display_name": "Invincible (2006) 720p CZ Dabing",
-        "planned_at": "2026-11-07T18:48:37.935715+00:00"
+        "planned_at": "2026-11-07T18:48:42.376336+00:00"
       }
     },
     "31893": {
@@ -129854,5 +129866,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T18:48:37.935734+00:00"
+  "updated_at": "2026-11-07T18:48:43.484731+00:00"
 }
