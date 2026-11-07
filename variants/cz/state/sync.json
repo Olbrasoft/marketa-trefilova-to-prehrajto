@@ -8492,7 +8492,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-07T01:33:17.678329+00:00"
+        "planned_at": "2026-11-07T02:07:15.630371+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8500,6 +8500,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "c4ba22e0809444b5beae0e954563fd24-shard-0",
+        "claimed_at": "2026-11-07T02:07:16.126258+00:00",
+        "lease_expires_at": "2026-11-07T08:07:16.126258+00:00",
+        "run_id": "42319503958"
       }
     },
     "29922": {
@@ -71927,17 +71933,19 @@
       }
     },
     "2143": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30543468",
+          "target_video_id": "30875463",
+          "permanent": false,
+          "attempted_at": "2026-11-07T02:07:45.682957+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30543468",
         "display_name": "The Round Up (La Rafle) 4K CZ Dabing",
         "planned_at": "2026-11-07T01:15:17.005954+00:00"
-      },
-      "claim": {
-        "worker_id": "f1420653856a45a2bb1b46e25c35c6d3-shard-0",
-        "claimed_at": "2026-11-07T01:15:17.254946+00:00",
-        "lease_expires_at": "2026-11-07T07:15:17.254946+00:00",
-        "run_id": "42319503958"
       },
       "previous_target_id": "30875463",
       "prepared": {
@@ -72135,7 +72143,12 @@
       "attempts": []
     },
     "28745": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24046235",
+        "display_name": "The Mafia Kills Only in Summer 1080p CZ Dabing",
+        "planned_at": "2026-11-07T02:07:15.813528+00:00"
+      }
     },
     "32626": {
       "attempts": []
@@ -121296,5 +121309,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T02:07:14.007159+00:00"
+  "updated_at": "2026-11-07T02:07:45.682973+00:00"
 }
