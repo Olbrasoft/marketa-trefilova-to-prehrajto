@@ -77850,17 +77850,19 @@
       }
     },
     "23911": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33538969",
+          "reason": "Request failed for https://sdilej.cz/33538969/zakazane-ovoce-1998-uhdrdv-cz-en.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-07T17:11:49.220807+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33538969",
         "display_name": "Out of Sight 4K CZ Dabing",
         "planned_at": "2026-11-07T17:11:01.372375+00:00"
-      },
-      "claim": {
-        "worker_id": "a57078fba6f7402aa2074aedcb481a47-shard-0",
-        "claimed_at": "2026-11-07T17:11:01.695009+00:00",
-        "lease_expires_at": "2026-11-07T23:11:01.695009+00:00",
-        "run_id": "42376609077"
       }
     },
     "2337": {
@@ -128825,5 +128827,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:11:08.343262+00:00"
+  "updated_at": "2026-11-07T17:11:49.220825+00:00"
 }
