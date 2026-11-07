@@ -76970,17 +76970,19 @@
       }
     },
     "2300": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13520636",
+          "target_video_id": "30893597",
+          "permanent": false,
+          "attempted_at": "2026-11-07T15:39:11.622823+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13520636",
         "display_name": "The Mule (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-07T15:34:59.234483+00:00"
-      },
-      "claim": {
-        "worker_id": "38145aacd65148b4a0ae0a6b3e8aecfe-shard-0",
-        "claimed_at": "2026-11-07T15:34:59.603233+00:00",
-        "lease_expires_at": "2026-11-07T21:34:59.603233+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30893597",
       "prepared": {
@@ -127939,5 +127941,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T15:38:09.216067+00:00"
+  "updated_at": "2026-11-07T15:39:11.622839+00:00"
 }
