@@ -61152,7 +61152,7 @@
       "last_plan": {
         "source_id": "6598140",
         "display_name": "King Size (Kingsajz) SD CZ Dabing",
-        "planned_at": "2026-11-07T00:48:21.283815+00:00"
+        "planned_at": "2026-11-07T00:48:23.484333+00:00"
       }
     },
     "1937": {
@@ -63065,7 +63065,7 @@
       "last_plan": {
         "source_id": "34095247",
         "display_name": "Deepwater Horizon 4K CZ Dabing",
-        "planned_at": "2026-11-06T22:23:54.233217+00:00"
+        "planned_at": "2026-11-07T00:48:23.296835+00:00"
       },
       "previous_target_id": "30817480",
       "prepared": {
@@ -63073,6 +63073,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-05T12:23:58.720921+00:00",
         "relay_source_id": "34095247"
+      },
+      "claim": {
+        "worker_id": "65d18043f3734a659cf504ea3772c441-shard-0",
+        "claimed_at": "2026-11-07T00:48:23.756087+00:00",
+        "lease_expires_at": "2026-11-07T06:48:23.756087+00:00",
+        "run_id": "42319503958"
       }
     },
     "13126": {
@@ -66590,13 +66596,6 @@
           "source_id": "22557019",
           "target_video_id": "30840608",
           "permanent": false,
-          "attempted_at": "2026-11-06T21:22:01.468857+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22557019",
-          "target_video_id": "30840608",
-          "permanent": false,
           "attempted_at": "2026-11-06T21:52:17.066607+00:00"
         },
         {
@@ -66605,6 +66604,13 @@
           "target_video_id": "30840608",
           "permanent": false,
           "attempted_at": "2026-11-06T22:23:54.993856+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22557019",
+          "target_video_id": "30840608",
+          "permanent": false,
+          "attempted_at": "2026-11-07T00:48:24.007842+00:00"
         }
       ],
       "last_plan": {
@@ -66618,12 +66624,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-06T01:22:25.472864+00:00",
         "relay_source_id": "22557019"
-      },
-      "claim": {
-        "worker_id": "f5a38e561baa4670a9d8ab1fbb8d5585-shard-0",
-        "claimed_at": "2026-11-07T00:48:21.694445+00:00",
-        "lease_expires_at": "2026-11-07T06:48:21.694445+00:00",
-        "run_id": "42319503958"
       }
     },
     "1894": {
@@ -120885,5 +120885,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T00:48:21.694470+00:00"
+  "updated_at": "2026-11-07T00:48:24.007862+00:00"
 }
