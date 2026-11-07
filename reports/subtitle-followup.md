@@ -500,3 +500,4 @@ Attach subtitles only after target processing has finished.
 | Batman: The Long Halloween, Part Two 1080p CZ Titulky | 30891824 | https://sdilej.cz/17778553/batman.the.long.halloween.part.two.2021.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Hidden Kisses SD CZ Titulky | 30891960 | https://sdilej.cz/16922703/hidden-kisses-2016-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Paddleton 1080p CZ Titulky | 30893039 | https://sdilej.cz/11532052/paddleton-2019-cz-titulky-1080p-web-dl-dd5.1-h264-.mkv | Extract Czech track from exact source after processing |
+| Rye Lane 1080p CZ Titulky | 30893092 | https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
