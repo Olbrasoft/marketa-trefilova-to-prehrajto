@@ -76490,17 +76490,19 @@
       "attempts": []
     },
     "2452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14676786",
+          "target_video_id": "30892804",
+          "permanent": false,
+          "attempted_at": "2026-11-07T14:47:04.271374+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14676786",
         "display_name": "Harold & Kumar Go to White Castle 1080p CZ Dabing",
         "planned_at": "2026-11-07T14:41:16.981928+00:00"
-      },
-      "claim": {
-        "worker_id": "44fe6396934b49e19e576a36d9bce44b-shard-0",
-        "claimed_at": "2026-11-07T14:41:17.313083+00:00",
-        "lease_expires_at": "2026-11-07T20:41:17.313083+00:00",
-        "run_id": "42376609077"
       },
       "previous_target_id": "30892804",
       "prepared": {
@@ -127257,5 +127259,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-07T14:42:28.194376+00:00"
+  "updated_at": "2026-11-07T14:47:04.271391+00:00"
 }
