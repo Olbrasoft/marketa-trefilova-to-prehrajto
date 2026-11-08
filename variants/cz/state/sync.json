@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:51:01.526175+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:22:30.933491+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-08T00:53:41.014591+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:30:40.256366+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "c1a1fca780174a1caee070baa5420e37-shard-0",
-        "claimed_at": "2026-11-08T01:30:37.229731+00:00",
-        "lease_expires_at": "2026-11-08T07:30:37.229731+00:00",
-        "run_id": "42420247810"
       }
     },
     "54": {
@@ -1084,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-08T00:53:40.501281+00:00"
+        "planned_at": "2026-11-08T01:30:39.729307+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1092,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "fd8a47b4bc8542e0950cec145580c489-shard-0",
+        "claimed_at": "2026-11-08T01:30:40.079982+00:00",
+        "lease_expires_at": "2026-11-08T07:30:40.079982+00:00",
+        "run_id": "42420247810"
       }
     },
     "52": {
@@ -81512,7 +81512,7 @@
       "last_plan": {
         "source_id": "31172824",
         "display_name": "Two Mules for Sister Sara 1080p CZ Dabing",
-        "planned_at": "2026-11-08T01:30:37.015895+00:00"
+        "planned_at": "2026-11-08T01:30:39.879204+00:00"
       }
     },
     "22214": {
@@ -134142,5 +134142,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:30:38.174877+00:00"
+  "updated_at": "2026-11-08T01:30:40.256393+00:00"
 }
