@@ -28553,17 +28553,19 @@
       "attempts": []
     },
     "1873": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26853803",
+          "target_video_id": "30912885",
+          "permanent": false,
+          "attempted_at": "2026-11-08T10:14:50.037593+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26853803",
         "display_name": "Talk to Me 4K CZ Titulky",
         "planned_at": "2026-11-08T08:59:07.898446+00:00"
-      },
-      "claim": {
-        "worker_id": "6f0c13ed090744d1b4595309df333880-shard-0",
-        "claimed_at": "2026-11-08T08:59:07.999756+00:00",
-        "lease_expires_at": "2026-11-08T14:59:07.999756+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30912885",
       "prepared": {
@@ -85986,5 +85988,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:11:45.070033+00:00"
+  "updated_at": "2026-11-08T10:14:50.037607+00:00"
 }
