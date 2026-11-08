@@ -87228,17 +87228,19 @@
       "attempts": []
     },
     "21721": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32966088",
+          "target_video_id": "30924385",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:05:07.576417+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32966088",
         "display_name": "That Man from Rio 4K CZ Dabing",
         "planned_at": "2026-11-08T18:59:29.496386+00:00"
-      },
-      "claim": {
-        "worker_id": "41a2e34639d7464fb29397eedbf22bfe-shard-0",
-        "claimed_at": "2026-11-08T18:59:29.932271+00:00",
-        "lease_expires_at": "2026-11-09T00:59:29.932271+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924385",
       "prepared": {
@@ -142956,5 +142958,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:05:05.153410+00:00"
+  "updated_at": "2026-11-08T19:05:07.576435+00:00"
 }
