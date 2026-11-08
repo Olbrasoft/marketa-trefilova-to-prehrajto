@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:33:13.668897+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:33:17.209506+00:00
 
 Zkontrolováno videí: 539. Další stránka kontroly: 0.
 
@@ -73,7 +73,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-08T11:23:19.537555+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-08T11:33:00.320854+00:00 |
 | [Champions (Campeones) (2018) 1080p CZ Titulky](https://prehraj.to/champions-campeones-2018-1080p-cz-titulky-mkv/f3836d153aaf4e34) (ID 30895897) | [Sdílej 32204599](https://sdilej.cz/32204599/sampioni.mkv) | target_unavailable | 2026-11-07T18:10:00.376380+00:00 |
-| [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-07T16:48:55.981620+00:00 |
+| [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-08T11:33:17.209398+00:00 |
 | [Creed II 1080p CZ Titulky](https://prehraj.to/creed-ii-1080p-cz-titulky-mkv/cb18e49075c3267c) (ID 30916024) | [Sdílej 35402148](https://sdilej.cz/35402148/creed.ii.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-08T11:32:49.955300+00:00 |
 | [Dredd 1080p CZ Titulky](https://prehraj.to/dredd-1080p-cz-titulky-mkv/0f3a43a177d9e280) (ID 30908332) | [Sdílej 30058933](https://sdilej.cz/30058933/dredd-2012-cz-sk-en.mkv) | target_unavailable | 2026-11-08T05:08:41.466080+00:00 |
 | [Elf 1080p CZ Titulky](https://prehraj.to/elf-1080p-cz-titulky-mkv/32f307833e0b9bfc) (ID 30907573) | [Sdílej 34457540](https://sdilej.cz/34457540/eli.mkv) | target_unavailable | 2026-11-08T04:28:18.442139+00:00 |
