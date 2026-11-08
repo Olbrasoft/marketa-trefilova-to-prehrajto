@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:33:36.917781+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:33:40.348778+00:00
 
 Zkontrolováno videí: 539. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 416, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 59, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 417, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 58, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -116,7 +116,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-08T11:23:40.757319+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-08T11:23:23.580237+00:00 |
 | [The Menu 720p CZ Titulky](https://prehraj.to/the-menu-720p-cz-titulky-mkv/79ac83653e5dde32) (ID 30903901) | [Sdílej 26500415](https://sdilej.cz/26500415/the-menu-2022-cz-sk-tit.mkv) | target_unavailable | 2026-11-08T01:37:52.535708+00:00 |
-| [The Outlaws (범죄도시) 1080p CZ Titulky](https://prehraj.to/the-outlaws-1080p-cz-titulky-mkv/91871a80ef52a7ab) (ID 30893421) | [Sdílej 30716653](https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv) | target_unavailable | 2026-11-07T17:29:03.073998+00:00 |
 | [The Tiger: An Old Hunter's Tale (The Tiger) 1080p CZ Titulky](https://prehraj.to/the-tiger-an-old-hunter-s-tale-the-tiger-1080p-cz-titulky-mkv/26272860af72b2e1) (ID 30901878) | [Sdílej 17612916](https://sdilej.cz/17612916/the.tiger.an.old.hunters.tale.2015.korean.1080p.bluray.h264.aac-titulky-cz.mkv) | target_unavailable | 2026-11-07T23:56:20.536424+00:00 |
 | [The Yakuza 1080p CZ Titulky](https://prehraj.to/the-yakuza-1080p-cz-titulky-mkv/82379460d5dd0f1d) (ID 30897645) | [Sdílej 8869265](https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv) | target_unavailable | 2026-11-07T20:01:12.231815+00:00 |
 | [Thunderbolts* 4K CZ Titulky](https://prehraj.to/thunderbolts-4k-cz-titulky-mkv/7da50bf4e4b3d344) (ID 30908951) | [Sdílej 31386689](https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T05:38:56.391995+00:00 |
