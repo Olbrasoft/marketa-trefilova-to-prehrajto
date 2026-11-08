@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:49:56.983263+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:21:27.709796+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-08T00:51:33.941697+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:29:38.665668+00:00"
         }
       ],
       "last_plan": {
@@ -16305,7 +16305,7 @@
       "last_plan": {
         "source_id": "13881903",
         "display_name": "Volhynia (Wołyń) 720p CZ Titulky",
-        "planned_at": "2026-11-08T00:51:35.725401+00:00"
+        "planned_at": "2026-11-08T01:29:37.296568+00:00"
       },
       "previous_target_id": "30745166",
       "prepared": {
@@ -16313,6 +16313,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-02T23:48:48.234894+00:00",
         "relay_source_id": "13881903"
+      },
+      "claim": {
+        "worker_id": "b046ddb085ba45e8b291f5ce94ef9d6e-shard-0",
+        "claimed_at": "2026-11-08T01:29:37.453624+00:00",
+        "lease_expires_at": "2026-11-08T07:29:37.453624+00:00",
+        "run_id": "42420247810"
       }
     },
     "31841": {
@@ -27725,7 +27731,7 @@
       "last_plan": {
         "source_id": "25583722",
         "display_name": "Glass Onion: A Knives Out Mystery 1080p CZ Titulky",
-        "planned_at": "2026-11-08T01:29:35.306687+00:00"
+        "planned_at": "2026-11-08T01:29:37.401038+00:00"
       }
     },
     "23038": {
@@ -83380,5 +83386,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:29:35.306707+00:00"
+  "updated_at": "2026-11-08T01:29:38.665691+00:00"
 }
