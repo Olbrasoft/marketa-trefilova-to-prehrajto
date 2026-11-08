@@ -87683,17 +87683,19 @@
       "attempts": []
     },
     "11847": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35160326",
+          "target_video_id": "30924653",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:25:20.553326+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35160326",
         "display_name": "Sitting on a Branch (Sedím na konári a je mi dobre) 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:18:58.349936+00:00"
-      },
-      "claim": {
-        "worker_id": "677883c13c7947ebbefe02fa8a40edd6-shard-0",
-        "claimed_at": "2026-11-08T19:18:58.644073+00:00",
-        "lease_expires_at": "2026-11-09T01:18:58.644073+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924653",
       "prepared": {
@@ -143543,5 +143545,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:23:58.308729+00:00"
+  "updated_at": "2026-11-08T19:25:20.553344+00:00"
 }
