@@ -28248,17 +28248,19 @@
       "attempts": []
     },
     "1864": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30659434",
+          "target_video_id": "30910097",
+          "permanent": false,
+          "attempted_at": "2026-11-08T07:08:32.036295+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30659434",
         "display_name": "Nosferatu (2024) 4K CZ Titulky",
         "planned_at": "2026-11-08T06:44:18.853206+00:00"
-      },
-      "claim": {
-        "worker_id": "589f88b4aebc4770a60444ba4ff279d2-shard-0",
-        "claimed_at": "2026-11-08T06:44:18.905217+00:00",
-        "lease_expires_at": "2026-11-08T12:44:18.905217+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30910097",
       "prepared": {
@@ -84937,5 +84939,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T07:05:20.929409+00:00"
+  "updated_at": "2026-11-08T07:08:32.036315+00:00"
 }
