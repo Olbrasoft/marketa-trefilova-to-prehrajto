@@ -8052,7 +8052,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-08T04:53:56.725942+00:00"
+        "planned_at": "2026-11-08T05:26:20.347963+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8060,6 +8060,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "3e07e08c955f461c85433217cb2babf1-shard-0",
+        "claimed_at": "2026-11-08T05:26:20.719674+00:00",
+        "lease_expires_at": "2026-11-08T11:26:20.719674+00:00",
+        "run_id": "42442579006"
       }
     },
     "10690": {
@@ -19981,13 +19987,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-08T02:13:22.012452+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-08T04:22:32.169182+00:00"
         },
         {
@@ -19996,6 +19995,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-08T04:53:55.369259+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:26:20.840395+00:00"
         }
       ],
       "last_plan": {
@@ -20009,12 +20015,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
-      },
-      "claim": {
-        "worker_id": "c19b1be2ee1d4f52af48ba439611fe2d-shard-0",
-        "claimed_at": "2026-11-08T05:26:18.658889+00:00",
-        "lease_expires_at": "2026-11-08T11:26:18.658889+00:00",
-        "run_id": "42442579006"
       }
     },
     "835": {
@@ -82061,7 +82061,7 @@
       "last_plan": {
         "source_id": "34668514",
         "display_name": "The Little Death 720p CZ Dabing",
-        "planned_at": "2026-11-08T05:26:18.453353+00:00"
+        "planned_at": "2026-11-08T05:26:20.496284+00:00"
       }
     },
     "23317": {
@@ -135483,5 +135483,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:26:18.778826+00:00"
+  "updated_at": "2026-11-08T05:26:20.840412+00:00"
 }
