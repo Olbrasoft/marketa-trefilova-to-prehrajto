@@ -85087,17 +85087,19 @@
       "attempts": []
     },
     "21889": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30417496",
+          "target_video_id": "30921406",
+          "permanent": false,
+          "attempted_at": "2026-11-08T16:15:11.618473+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30417496",
         "display_name": "The Boston Strangler 720p CZ Dabing",
         "planned_at": "2026-11-08T15:59:20.866795+00:00"
-      },
-      "claim": {
-        "worker_id": "2908cc49a24441aa87952953ddd5144f-shard-0",
-        "claimed_at": "2026-11-08T15:59:21.174727+00:00",
-        "lease_expires_at": "2026-11-08T21:59:21.174727+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30921406",
       "prepared": {
@@ -140572,5 +140574,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T16:12:16.667562+00:00"
+  "updated_at": "2026-11-08T16:15:11.618492+00:00"
 }
