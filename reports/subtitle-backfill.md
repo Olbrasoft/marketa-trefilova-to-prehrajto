@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T06:29:23.927646+00:00
+Poslední aktualizace (UTC): 2026-11-08T06:29:25.649033+00:00
 
 Zkontrolováno videí: 525. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 49, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -113,6 +113,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 54. Důvod
 | [Thunderbolts* 4K CZ Titulky](https://prehraj.to/thunderbolts-4k-cz-titulky-mkv/7da50bf4e4b3d344) (ID 30908951) | [Sdílej 31386689](https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T05:38:56.391995+00:00 |
 | [Tropic Thunder 1080p CZ Titulky](https://prehraj.to/tropic-thunder-1080p-cz-titulky-mkv/f2bb2d097d396d86) (ID 30904135) | [Sdílej 34431613](https://sdilej.cz/34431613/tropic.thunder.2008.tc.1080p.bluray.x264.ac3-warbro.mkv) | target_unavailable | 2026-11-08T01:47:58.511156+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-07T16:49:03.279092+00:00 |
+| [Vicky Cristina Barcelona 1080p CZ Titulky](https://prehraj.to/vicky-cristina-barcelona-1080p-cz-titulky-mkv/2b48763c06259b00) (ID 30909865) | [Sdílej 35401907](https://sdilej.cz/35401907/vicky.cristina.barcelona.2008.proper.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-08T06:29:25.648942+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T16:40:28.653410+00:00 |
 | [War Dogs 1080p CZ Titulky](https://prehraj.to/war-dogs-1080p-cz-titulky-mkv/4774fc2baa5887cf) (ID 30908811) | [Sdílej 14774536](https://sdilej.cz/14774536/typci-a-zbrane-war-dogs-2016-hd-cz-titl.mkv) | target_unavailable | 2026-11-08T05:28:50.038320+00:00 |
 | [Yesterday, Today and Tomorrow 720p CZ Titulky](https://prehraj.to/yesterday-today-and-tomorrow-720p-cz-titulky-mkv/ef016ba8c50c1611) (ID 30898129) | [Sdílej 28474221](https://sdilej.cz/28474221/vcera-dnes-a-zitra-italie-fr-1963-vittorio-de-sica-bluray.720p.en.cz.sub.mkv) | target_unavailable | 2026-11-07T20:31:35.446305+00:00 |
