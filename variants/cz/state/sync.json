@@ -8566,6 +8566,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
+      },
+      "claim": {
+        "worker_id": "e95c4c052cce4606851c804d4939064c-shard-0",
+        "claimed_at": "2026-11-08T14:58:48.483733+00:00",
+        "lease_expires_at": "2026-11-08T20:58:48.483733+00:00",
+        "run_id": "42480114124"
       }
     },
     "270": {
@@ -8595,7 +8601,7 @@
       "last_plan": {
         "source_id": "17777440",
         "display_name": "Friends: The Reunion 1080p CZ Dabing",
-        "planned_at": "2026-11-08T14:26:15.340052+00:00"
+        "planned_at": "2026-11-08T14:58:48.637687+00:00"
       },
       "previous_target_id": "30631282",
       "prepared": {
@@ -16892,13 +16898,6 @@
           "source_id": "33402050",
           "target_video_id": "30665578",
           "permanent": false,
-          "attempted_at": "2026-11-08T13:11:47.125224+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33402050",
-          "target_video_id": "30665578",
-          "permanent": false,
           "attempted_at": "2026-11-08T13:43:10.700937+00:00"
         },
         {
@@ -16907,6 +16906,13 @@
           "target_video_id": "30665578",
           "permanent": false,
           "attempted_at": "2026-11-08T14:26:11.424570+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33402050",
+          "target_video_id": "30665578",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:58:49.081512+00:00"
         }
       ],
       "last_plan": {
@@ -16920,12 +16926,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
-      },
-      "claim": {
-        "worker_id": "e67178b832114b3d855c6867b2d12a70-shard-0",
-        "claimed_at": "2026-11-08T14:58:46.060640+00:00",
-        "lease_expires_at": "2026-11-08T20:58:46.060640+00:00",
-        "run_id": "42480114124"
       }
     },
     "614": {
@@ -84865,7 +84865,7 @@
       "last_plan": {
         "source_id": "31064775",
         "display_name": "Legacy, notre héritage (Legacy) 4K CZ Dabing",
-        "planned_at": "2026-11-08T14:58:46.435369+00:00"
+        "planned_at": "2026-11-08T14:58:48.864261+00:00"
       }
     },
     "21412": {
@@ -140125,5 +140125,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:58:46.664498+00:00"
+  "updated_at": "2026-11-08T14:58:49.081535+00:00"
 }
