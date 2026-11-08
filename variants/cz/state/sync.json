@@ -73888,13 +73888,6 @@
           "source_id": "14853845",
           "target_video_id": "30882940",
           "permanent": false,
-          "attempted_at": "2026-11-08T20:04:08.487177+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14853845",
-          "target_video_id": "30882940",
-          "permanent": false,
           "attempted_at": "2026-11-08T20:34:23.886062+00:00"
         },
         {
@@ -73903,6 +73896,13 @@
           "target_video_id": "30882940",
           "permanent": false,
           "attempted_at": "2026-11-08T21:10:08.818433+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14853845",
+          "target_video_id": "30882940",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:41:05.105453+00:00"
         }
       ],
       "last_plan": {
@@ -73916,12 +73916,6 @@
         "size_bytes": 895300000,
         "prepared_at": "2026-11-07T06:18:13.380632+00:00",
         "relay_source_id": "14853845"
-      },
-      "claim": {
-        "worker_id": "21b72774fdef4697a0009ee71936e3fd-shard-0",
-        "claimed_at": "2026-11-08T21:41:02.732346+00:00",
-        "lease_expires_at": "2026-11-09T03:41:02.732346+00:00",
-        "run_id": "42519750852"
       }
     },
     "35276": {
@@ -74376,7 +74370,7 @@
       "last_plan": {
         "source_id": "31379501",
         "display_name": "Long Live Ghosts! (Ať žijí duchové!) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T21:10:08.978334+00:00"
+        "planned_at": "2026-11-08T21:41:04.411428+00:00"
       },
       "previous_target_id": "30885416",
       "prepared": {
@@ -74384,6 +74378,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T08:02:43.047319+00:00",
         "relay_source_id": "31379501"
+      },
+      "claim": {
+        "worker_id": "6093b54c83f9456fa489dcc6d22ee16e-shard-0",
+        "claimed_at": "2026-11-08T21:41:04.914468+00:00",
+        "lease_expires_at": "2026-11-09T03:41:04.914468+00:00",
+        "run_id": "42519750852"
       }
     },
     "25458": {
@@ -90224,7 +90224,7 @@
       "last_plan": {
         "source_id": "34571367",
         "display_name": "Liberation: The Battle of Berlin (Освобождение: Битва за Берлин) 720p CZ Dabing",
-        "planned_at": "2026-11-08T21:41:02.449517+00:00"
+        "planned_at": "2026-11-08T21:41:04.638891+00:00"
       }
     },
     "26354": {
@@ -146025,5 +146025,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:41:02.906459+00:00"
+  "updated_at": "2026-11-08T21:41:05.105471+00:00"
 }
