@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-08T13:48:37.592923+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-08T14:29:41.679927+00:00"
         },
         {
@@ -65,12 +58,19 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-08T15:03:55.770831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-08T15:51:39.215020+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32109264",
         "display_name": "The Godfather 4K CZ Dabing",
-        "planned_at": "2026-11-08T15:03:53.765118+00:00"
+        "planned_at": "2026-11-08T15:51:37.210775+00:00"
       },
       "previous_target_id": "30568614",
       "prepared": {
@@ -85001,11 +85001,22 @@
       "last_plan": {
         "source_id": "14511715",
         "display_name": "Mickey's Once Upon a Christmas 720p CZ Dabing",
-        "planned_at": "2026-11-08T15:51:31.775734+00:00"
+        "planned_at": "2026-11-08T15:51:37.437318+00:00"
+      },
+      "claim": {
+        "worker_id": "b2c3400aaeab48af88df74661402c807-shard-0",
+        "claimed_at": "2026-11-08T15:51:37.985273+00:00",
+        "lease_expires_at": "2026-11-08T21:51:37.985273+00:00",
+        "run_id": "42480114124"
       }
     },
     "22068": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34625272",
+        "display_name": "Un flic (A Cop) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T15:51:37.567937+00:00"
+      }
     },
     "13056": {
       "attempts": []
@@ -140463,5 +140474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T15:51:35.275066+00:00"
+  "updated_at": "2026-11-08T15:51:39.215039+00:00"
 }
