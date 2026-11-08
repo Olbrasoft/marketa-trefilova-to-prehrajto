@@ -544,3 +544,4 @@ Attach subtitles only after target processing has finished.
 | Seven Years in Tibet 720p CZ Titulky | 30916436 | https://sdilej.cz/6622841/sedm-let-v-tibetu-seven-years-in-tibet-1997-.bluray.h264.dts-s24-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
 | Booksmart 1080p CZ Titulky | 30918609 | https://sdilej.cz/11921728/booksmart.sprtky-to-chtej-taky.sprtky-to-chcu-tiez.2019.1080p-h264-5.1-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Bring Her Back 1440p CZ Titulky | 30918667 | https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv | Extract Czech track from exact source after processing |
+| Flags of Our Fathers 1080p CZ Titulky | 30919505 | https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
