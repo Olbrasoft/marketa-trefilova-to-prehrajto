@@ -86432,17 +86432,19 @@
       }
     },
     "13337": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33766436",
+          "target_video_id": "30923588",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:15:37.070114+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33766436",
         "display_name": "Pupendo 1080p CZ Dabing",
         "planned_at": "2026-11-08T18:10:03.172244+00:00"
-      },
-      "claim": {
-        "worker_id": "310fc74470e64652b9da2a1d3929f333-shard-0",
-        "claimed_at": "2026-11-08T18:10:03.451536+00:00",
-        "lease_expires_at": "2026-11-09T00:10:03.451536+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923588",
       "prepared": {
@@ -142010,5 +142012,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:10:07.435775+00:00"
+  "updated_at": "2026-11-08T18:15:37.070130+00:00"
 }
