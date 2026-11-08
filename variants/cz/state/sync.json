@@ -85859,17 +85859,19 @@
       }
     },
     "22716": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33738407",
+          "target_video_id": "30922863",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:23:12.135976+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33738407",
         "display_name": "Under Fire (1983) 1080p CZ Dabing",
         "planned_at": "2026-11-08T17:19:49.759938+00:00"
-      },
-      "claim": {
-        "worker_id": "5ff7b1bd9a1a4966962c01cc4d2c4801-shard-0",
-        "claimed_at": "2026-11-08T17:19:50.049967+00:00",
-        "lease_expires_at": "2026-11-08T23:19:50.049967+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922863",
       "prepared": {
@@ -141548,5 +141550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:19:53.378184+00:00"
+  "updated_at": "2026-11-08T17:23:12.135992+00:00"
 }
