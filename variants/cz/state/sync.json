@@ -84420,17 +84420,19 @@
       "attempts": []
     },
     "21365": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24730057",
+          "target_video_id": "30918445",
+          "permanent": false,
+          "attempted_at": "2026-11-08T13:36:37.281066+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24730057",
         "display_name": "Hondo SD CZ Dabing",
         "planned_at": "2026-11-08T13:35:12.853254+00:00"
-      },
-      "claim": {
-        "worker_id": "95c853d7035a471c88ea89d49af0fc07-shard-0",
-        "claimed_at": "2026-11-08T13:35:13.150983+00:00",
-        "lease_expires_at": "2026-11-08T19:35:13.150983+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30918445",
       "prepared": {
@@ -139530,5 +139532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T13:36:24.028403+00:00"
+  "updated_at": "2026-11-08T13:36:37.281084+00:00"
 }
