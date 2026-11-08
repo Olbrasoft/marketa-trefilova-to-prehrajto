@@ -86918,17 +86918,19 @@
       }
     },
     "15929": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29960028",
+          "target_video_id": "30924160",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:48:43.600216+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29960028",
         "display_name": "Let Go (Släpp taget) 1080p CZ Dabing",
         "planned_at": "2026-11-08T18:43:34.190294+00:00"
-      },
-      "claim": {
-        "worker_id": "c4d649c30dd44021b1a7190a64938d85-shard-0",
-        "claimed_at": "2026-11-08T18:43:34.477938+00:00",
-        "lease_expires_at": "2026-11-09T00:43:34.477938+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924160",
       "prepared": {
@@ -142639,5 +142641,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:48:33.061039+00:00"
+  "updated_at": "2026-11-08T18:48:43.600233+00:00"
 }
