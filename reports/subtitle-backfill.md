@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T17:43:26.342059+00:00
+Poslední aktualizace (UTC): 2026-11-08T17:43:29.674879+00:00
 
 Zkontrolováno videí: 552. Další stránka kontroly: 0.
 
@@ -79,7 +79,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Flags of Our Fathers 1080p CZ Titulky](https://prehraj.to/flags-of-our-fathers-1080p-cz-titulky-mkv/bd53f1d1d5663d28) (ID 30919505) | [Sdílej 34982900](https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-08T17:42:47.808738+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-08T17:02:13.751056+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-08T16:44:32.533377+00:00 |
-| [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-08T16:34:49.505903+00:00 |
+| [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-08T17:43:29.674690+00:00 |
 | [In the Mouth of Madness 1080p CZ Titulky](https://prehraj.to/in-the-mouth-of-madness-1080p-cz-titulky-mkv/03f8eaf80cfe9183) (ID 30922359) | [Sdílej 18282391](https://sdilej.cz/18282391/in-the-mouth-of-madness.1994-1080p.bluray.dts.x264-dabing-cz-eng-titulky-cz.mkv) | target_unavailable | 2026-11-08T16:51:57.081029+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-08T16:35:38.997728+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-08T16:44:15.265129+00:00 |
