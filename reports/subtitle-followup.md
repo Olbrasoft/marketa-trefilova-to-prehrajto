@@ -545,3 +545,4 @@ Attach subtitles only after target processing has finished.
 | Booksmart 1080p CZ Titulky | 30918609 | https://sdilej.cz/11921728/booksmart.sprtky-to-chtej-taky.sprtky-to-chcu-tiez.2019.1080p-h264-5.1-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | Bring Her Back 1440p CZ Titulky | 30918667 | https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv | Extract Czech track from exact source after processing |
 | Flags of Our Fathers 1080p CZ Titulky | 30919505 | https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Let Me In 1080p CZ Titulky | 30919516 | https://sdilej.cz/35148588/let.me.in.2010.1080p.bluray.dl.ac3.x264-majo.mkv | Extract Czech track from exact source after processing |
