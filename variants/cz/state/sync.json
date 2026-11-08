@@ -87584,7 +87584,20 @@
       }
     },
     "22133": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28375423",
+          "reason": "Source detail has no authenticated download link; source_id=28375423",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:13:01.082776+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "28375423",
+        "display_name": "Breezy SD CZ Dabing",
+        "planned_at": "2026-11-08T19:12:58.593588+00:00"
+      }
     },
     "22349": {
       "attempts": []
@@ -143132,5 +143145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:12:56.790237+00:00"
+  "updated_at": "2026-11-08T19:13:01.082792+00:00"
 }
