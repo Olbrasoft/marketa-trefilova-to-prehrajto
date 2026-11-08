@@ -87963,17 +87963,19 @@
       "attempts": []
     },
     "15174": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34513561",
+          "target_video_id": "30924801",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:43:07.346677+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34513561",
         "display_name": "Kooky (Kuky se vrací) 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:34:39.599241+00:00"
-      },
-      "claim": {
-        "worker_id": "fb8ca5bc141c456193c124bffebd4113-shard-0",
-        "claimed_at": "2026-11-08T19:34:39.938773+00:00",
-        "lease_expires_at": "2026-11-09T01:34:39.938773+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924801",
       "prepared": {
@@ -143763,5 +143765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:40:28.365325+00:00"
+  "updated_at": "2026-11-08T19:43:07.346703+00:00"
 }
