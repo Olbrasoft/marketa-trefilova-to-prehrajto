@@ -82333,17 +82333,19 @@
       "attempts": []
     },
     "11691": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31359850",
+          "target_video_id": "30909890",
+          "permanent": false,
+          "attempted_at": "2026-11-08T07:13:41.459752+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31359850",
         "display_name": "The Hidden 1080p CZ Dabing",
         "planned_at": "2026-11-08T06:29:42.707999+00:00"
-      },
-      "claim": {
-        "worker_id": "a7ef179185f64486b119c29785bab865-shard-0",
-        "claimed_at": "2026-11-08T06:29:42.931877+00:00",
-        "lease_expires_at": "2026-11-08T12:29:42.931877+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30909890",
       "prepared": {
@@ -136121,5 +136123,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T07:08:43.022947+00:00"
+  "updated_at": "2026-11-08T07:13:41.459777+00:00"
 }
