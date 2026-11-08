@@ -28524,17 +28524,19 @@
       }
     },
     "1870": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26848405",
+          "target_video_id": "30912425",
+          "permanent": false,
+          "attempted_at": "2026-11-08T09:46:29.906039+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26848405",
         "display_name": "Spaceballs 1080p CZ Titulky",
         "planned_at": "2026-11-08T08:39:36.781294+00:00"
-      },
-      "claim": {
-        "worker_id": "7b1cc31bcbb14219b8c44fbd1c43d56f-shard-0",
-        "claimed_at": "2026-11-08T08:39:36.884252+00:00",
-        "lease_expires_at": "2026-11-08T14:39:36.884252+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30912425",
       "prepared": {
@@ -85925,5 +85927,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:46:26.719074+00:00"
+  "updated_at": "2026-11-08T09:46:29.906062+00:00"
 }
