@@ -42822,7 +42822,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-08T19:00:38.882299+00:00"
+        "planned_at": "2026-11-08T19:32:12.216322+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42830,6 +42830,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "1ebe51122656442ca1b8b52e0e6de854-shard-0",
+        "claimed_at": "2026-11-08T19:32:12.766449+00:00",
+        "lease_expires_at": "2026-11-09T01:32:12.766449+00:00",
+        "run_id": "42499495816"
       }
     },
     "1395": {
@@ -87806,17 +87812,19 @@
       }
     },
     "2268": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30853025",
+          "target_video_id": "30924718",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:32:13.766278+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30853025",
         "display_name": "Phineas and Ferb the Movie: Candace Against the Universe 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:25:32.460944+00:00"
-      },
-      "claim": {
-        "worker_id": "e04e99767f1c484c91b9c5b779736fb1-shard-0",
-        "claimed_at": "2026-11-08T19:25:32.786610+00:00",
-        "lease_expires_at": "2026-11-09T01:25:32.786610+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924718",
       "prepared": {
@@ -87854,7 +87862,7 @@
       "last_plan": {
         "source_id": "34392861",
         "display_name": "Mars: Inside SpaceX 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:32:08.921203+00:00"
+        "planned_at": "2026-11-08T19:32:12.463179+00:00"
       }
     },
     "2169": {
@@ -143640,5 +143648,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:32:10.759492+00:00"
+  "updated_at": "2026-11-08T19:32:13.766294+00:00"
 }
