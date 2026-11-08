@@ -90563,17 +90563,19 @@
       }
     },
     "36884": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30597633",
+          "target_video_id": "30926518",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:03:03.657943+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30597633",
         "display_name": "I’m not Everything I Want to Be (Ještě nejsem, kým chci být) 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:57:35.073437+00:00"
-      },
-      "claim": {
-        "worker_id": "a0af9d4cc98d4c439c8c3565362db991-shard-0",
-        "claimed_at": "2026-11-08T21:57:35.362007+00:00",
-        "lease_expires_at": "2026-11-09T03:57:35.362007+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926518",
       "prepared": {
@@ -146363,5 +146365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:00:48.055824+00:00"
+  "updated_at": "2026-11-08T22:03:03.657961+00:00"
 }
