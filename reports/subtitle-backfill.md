@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:22:46.072206+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:22:55.779694+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
@@ -69,7 +69,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [Allied 1080p CZ Titulky](https://prehraj.to/allied-1080p-cz-titulky-mkv/520bc37ffa8bcf9d) (ID 30915323) | [Sdílej 35002320](https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-08T11:02:29.958694+00:00 |
 | [Babylon 4K CZ Titulky](https://prehraj.to/babylon-4k-cz-titulky-mkv/c1760976c09b2e9e) (ID 30913832) | [Sdílej 25207906](https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T09:51:52.758023+00:00 |
 | [Basic Instinct 1080p CZ Titulky](https://prehraj.to/basic-instinct-1080p-cz-titulky-mkv/47f05f187e49cc08) (ID 30911357) | [Sdílej 23040839](https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-08T07:50:04.098041+00:00 |
-| [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-07T16:39:08.330957+00:00 |
+| [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-08T11:22:55.079842+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-07T16:39:30.575356+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-07T16:48:37.663661+00:00 |
 | [Cactus Flower 1080p CZ Titulky](https://prehraj.to/cactus-flower-1080p-cz-titulky-mkv/e54744e501483bd1) (ID 30894652) | [Sdílej 35402062](https://sdilej.cz/35402062/cactus-flower-1969-1-.cz.sub.mkv) | target_unavailable | 2026-11-07T16:48:30.010930+00:00 |
