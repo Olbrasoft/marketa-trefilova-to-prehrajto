@@ -80652,17 +80652,19 @@
       "attempts": []
     },
     "24438": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11835279",
+          "target_video_id": "30902140",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:06:06.505929+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11835279",
         "display_name": "Crossfire Trail SD CZ Dabing",
         "planned_at": "2026-11-08T00:03:25.112090+00:00"
-      },
-      "claim": {
-        "worker_id": "b441c7e6ebf948f2972887480a235192-shard-0",
-        "claimed_at": "2026-11-08T00:03:25.319391+00:00",
-        "lease_expires_at": "2026-11-08T06:03:25.319391+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30902140",
       "prepared": {
@@ -132987,5 +132989,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:03:29.559363+00:00"
+  "updated_at": "2026-11-08T00:06:06.505948+00:00"
 }
