@@ -8052,7 +8052,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:12:34.536846+00:00"
+        "planned_at": "2026-11-08T22:51:50.580587+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8060,6 +8060,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "800d839477484807a9f335d6b6572d3e-shard-0",
+        "claimed_at": "2026-11-08T22:51:51.292064+00:00",
+        "lease_expires_at": "2026-11-09T04:51:51.292064+00:00",
+        "run_id": "42519750852"
       }
     },
     "10690": {
@@ -19981,13 +19987,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-08T21:10:53.704231+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-08T21:41:51.364718+00:00"
         },
         {
@@ -19996,6 +19995,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-08T22:12:31.317218+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:51:51.162277+00:00"
         }
       ],
       "last_plan": {
@@ -20009,12 +20015,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
-      },
-      "claim": {
-        "worker_id": "ea7ea883ab3344c7b88bef4622c1463b-shard-0",
-        "claimed_at": "2026-11-08T22:51:48.809426+00:00",
-        "lease_expires_at": "2026-11-09T04:51:48.809426+00:00",
-        "run_id": "42519750852"
       }
     },
     "835": {
@@ -91192,7 +91192,7 @@
       "last_plan": {
         "source_id": "33770386",
         "display_name": "Ted 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:51:48.333114+00:00"
+        "planned_at": "2026-11-08T22:51:50.810458+00:00"
       }
     },
     "2760": {
@@ -147074,5 +147074,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:51:48.809448+00:00"
+  "updated_at": "2026-11-08T22:51:51.292087+00:00"
 }
