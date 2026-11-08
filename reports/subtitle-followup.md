@@ -546,7 +546,7 @@ Attach subtitles only after target processing has finished.
 | Bring Her Back 1440p CZ Titulky | 30918667 | https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv | Complete: Czech subtitles verified |
 | Flags of Our Fathers 1080p CZ Titulky | 30919505 | https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Let Me In 1080p CZ Titulky | 30919516 | https://sdilej.cz/35148588/let.me.in.2010.1080p.bluray.dl.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
-| The Drama 4K CZ Titulky | 30920101 | https://sdilej.cz/34716958/the-drama-2026-2160p-webrip-dv-hdr10-ddp5.1-atmos-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Drama 4K CZ Titulky | 30920101 | https://sdilej.cz/34716958/the-drama-2026-2160p-webrip-dv-hdr10-ddp5.1-atmos-en-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Warfare 1440p CZ Titulky | 30920638 | https://sdilej.cz/31269211/warfare-2025-4k.mkv | Extract Czech track from exact source after processing |
 | Audition (オーディション) (1999) 1080p CZ Titulky | 30921833 | https://sdilej.cz/30970326/audition-konkurz-na-smrt-japan-1999-.mkv | Complete: Czech subtitles verified |
 | In the Mouth of Madness 1080p CZ Titulky | 30922359 | https://sdilej.cz/18282391/in-the-mouth-of-madness.1994-1080p.bluray.dts.x264-dabing-cz-eng-titulky-cz.mkv | Extract Czech track from exact source after processing |
