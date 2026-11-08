@@ -88512,17 +88512,19 @@
       }
     },
     "12459": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34871582",
+          "target_video_id": "30925076",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:05:53.726285+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34871582",
         "display_name": "Morgiana 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:01:32.388942+00:00"
-      },
-      "claim": {
-        "worker_id": "ebad47ad59c74493b4cef911f927dde8-shard-0",
-        "claimed_at": "2026-11-08T20:01:32.950918+00:00",
-        "lease_expires_at": "2026-11-09T02:01:32.950918+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925076",
       "prepared": {
@@ -144222,5 +144224,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:05:27.078363+00:00"
+  "updated_at": "2026-11-08T20:05:53.726302+00:00"
 }
