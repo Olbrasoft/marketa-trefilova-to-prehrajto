@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-08T09:48:42.926100+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-08T10:21:48.274419+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-08T10:55:55.556188+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-08T11:27:02.573319+00:00"
         }
       ],
       "last_plan": {
@@ -7126,7 +7126,7 @@
       "last_plan": {
         "source_id": "26239565",
         "display_name": "Blood Diamond 1080p CZ Dabing",
-        "planned_at": "2026-11-08T10:55:57.260294+00:00"
+        "planned_at": "2026-11-08T11:27:01.127173+00:00"
       },
       "previous_target_id": "30627346",
       "prepared": {
@@ -7134,6 +7134,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
+      },
+      "claim": {
+        "worker_id": "318ee447f71b420fa322997a72c7de60-shard-0",
+        "claimed_at": "2026-11-08T11:27:01.803307+00:00",
+        "lease_expires_at": "2026-11-08T17:27:01.803307+00:00",
+        "run_id": "42462687727"
       }
     },
     "327": {
@@ -83399,7 +83405,7 @@
       "last_plan": {
         "source_id": "34703416",
         "display_name": "Deathtrap 1080p CZ Dabing",
-        "planned_at": "2026-11-08T11:26:58.774628+00:00"
+        "planned_at": "2026-11-08T11:27:01.380986+00:00"
       }
     },
     "17633": {
@@ -138102,5 +138108,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T11:26:58.983104+00:00"
+  "updated_at": "2026-11-08T11:27:02.573339+00:00"
 }
