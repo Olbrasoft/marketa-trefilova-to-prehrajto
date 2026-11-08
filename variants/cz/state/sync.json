@@ -89844,7 +89844,7 @@
       "last_plan": {
         "source_id": "35154447",
         "display_name": "Romeo, Juliet and Darkness (Romeo, Julie a tma) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T21:05:59.751085+00:00"
+        "planned_at": "2026-11-08T21:47:03.221787+00:00"
       },
       "previous_target_id": "30925843",
       "prepared": {
@@ -89852,6 +89852,12 @@
         "size_bytes": 4288899416,
         "prepared_at": "2026-11-08T21:06:05.976568+00:00",
         "relay_source_id": "35154447"
+      },
+      "claim": {
+        "worker_id": "461dd445f9c447a39688c822babf15c6-shard-0",
+        "claimed_at": "2026-11-08T21:47:03.774744+00:00",
+        "lease_expires_at": "2026-11-09T03:47:03.774744+00:00",
+        "run_id": "42519750852"
       }
     },
     "2356": {
@@ -90237,17 +90243,19 @@
       }
     },
     "26354": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34709188",
+          "target_video_id": "30926360",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:47:03.929294+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34709188",
         "display_name": "Mystery 101: Words Can Kill 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:42:30.347871+00:00"
-      },
-      "claim": {
-        "worker_id": "561bb1510055493989b895592dd47506-shard-0",
-        "claimed_at": "2026-11-08T21:42:30.631973+00:00",
-        "lease_expires_at": "2026-11-09T03:42:30.631973+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926360",
       "prepared": {
@@ -90282,7 +90290,12 @@
       "attempts": []
     },
     "10871": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34902439",
+        "display_name": "The White Lady (Bílá paní) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T21:47:03.454297+00:00"
+      }
     },
     "31383": {
       "attempts": []
@@ -146070,5 +146083,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:47:01.282383+00:00"
+  "updated_at": "2026-11-08T21:47:03.929312+00:00"
 }
