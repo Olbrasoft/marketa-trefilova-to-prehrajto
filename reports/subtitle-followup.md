@@ -535,3 +535,5 @@ Attach subtitles only after target processing has finished.
 | Spaceballs 1080p CZ Titulky | 30912425 | https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv | Extract Czech track from exact source after processing |
 | Talk to Me 4K CZ Titulky | 30912885 | https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv | Extract Czech track from exact source after processing |
 | Melancholia (2011) [ID 27275] 1080p CZ Titulky | 30913403 | https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv | Extract Czech track from exact source after processing |
+| Babylon 4K CZ Titulky | 30913832 | https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| The Danish Girl SD CZ Titulky | 30913831 | https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv | Extract Czech track from exact source after processing |
