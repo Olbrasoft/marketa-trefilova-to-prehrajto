@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:43:25.392972+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:43:28.748438+00:00
 
 Zkontrolováno videí: 540. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 424, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 8, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 50, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 425, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 8, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 49, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -112,7 +112,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 29. Důvo
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-08T11:22:46.072086+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-08T11:23:40.757319+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-08T11:23:23.580237+00:00 |
-| [The Menu 720p CZ Titulky](https://prehraj.to/the-menu-720p-cz-titulky-mkv/79ac83653e5dde32) (ID 30903901) | [Sdílej 26500415](https://sdilej.cz/26500415/the-menu-2022-cz-sk-tit.mkv) | target_unavailable | 2026-11-08T01:37:52.535708+00:00 |
 | [Thunderbolts* 4K CZ Titulky](https://prehraj.to/thunderbolts-4k-cz-titulky-mkv/7da50bf4e4b3d344) (ID 30908951) | [Sdílej 31386689](https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T05:38:56.391995+00:00 |
 | [Tropic Thunder 1080p CZ Titulky](https://prehraj.to/tropic-thunder-1080p-cz-titulky-mkv/f2bb2d097d396d86) (ID 30904135) | [Sdílej 34431613](https://sdilej.cz/34431613/tropic.thunder.2008.tc.1080p.bluray.x264.ac3-warbro.mkv) | target_unavailable | 2026-11-08T01:47:58.511156+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-08T11:33:23.705557+00:00 |
