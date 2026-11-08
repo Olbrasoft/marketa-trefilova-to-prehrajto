@@ -88218,20 +88218,22 @@
           "target_video_id": "30924938",
           "permanent": false,
           "attempted_at": "2026-11-08T19:52:54.015961+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "25535655",
+          "target_video_id": "30924938",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:24:51.158431+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25535655",
         "display_name": "Taking a Shot at Love 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:46:34.673149+00:00"
+        "planned_at": "2026-11-08T20:24:48.275212+00:00"
       },
-      "previous_target_id": "30924938",
-      "prepared": {
-        "target_video_id": "30924938",
-        "size_bytes": 5224062834,
-        "prepared_at": "2026-11-08T19:46:38.070062+00:00",
-        "relay_source_id": "25535655"
-      }
+      "previous_target_id": "30924938"
     },
     "14062": {
       "attempts": []
@@ -88962,7 +88964,12 @@
       "attempts": []
     },
     "10902": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34788460",
+        "display_name": "Intimate Lighting (Intimní osvětlení) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T20:24:48.516045+00:00"
+      }
     },
     "35564": {
       "attempts": []
@@ -144735,5 +144742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:24:46.529262+00:00"
+  "updated_at": "2026-11-08T20:24:51.158450+00:00"
 }
