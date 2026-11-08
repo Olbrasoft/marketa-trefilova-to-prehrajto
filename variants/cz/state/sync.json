@@ -91221,17 +91221,19 @@
       }
     },
     "2732": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33770386",
+          "target_video_id": "30927289",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:57:16.889680+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33770386",
         "display_name": "Ted 1080p CZ Dabing",
         "planned_at": "2026-11-08T22:52:52.947753+00:00"
-      },
-      "claim": {
-        "worker_id": "8271ddc5964844a3b9627ec9496cccf0-shard-0",
-        "claimed_at": "2026-11-08T22:52:53.261580+00:00",
-        "lease_expires_at": "2026-11-09T04:52:53.261580+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30927289",
       "prepared": {
@@ -147151,5 +147153,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:54:04.743905+00:00"
+  "updated_at": "2026-11-08T22:57:16.889697+00:00"
 }
