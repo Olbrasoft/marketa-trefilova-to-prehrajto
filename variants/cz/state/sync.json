@@ -82685,17 +82685,19 @@
       }
     },
     "2441": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10740869",
+          "target_video_id": "30912032",
+          "permanent": false,
+          "attempted_at": "2026-11-08T08:19:07.100127+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10740869",
         "display_name": "The Magic of Belle Isle SD CZ Dabing",
         "planned_at": "2026-11-08T08:16:18.994119+00:00"
-      },
-      "claim": {
-        "worker_id": "2348f389878845cb877196a26920f5e4-shard-0",
-        "claimed_at": "2026-11-08T08:16:19.196545+00:00",
-        "lease_expires_at": "2026-11-08T14:16:19.196545+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30912032",
       "prepared": {
@@ -136496,5 +136498,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T08:16:22.919107+00:00"
+  "updated_at": "2026-11-08T08:19:07.100165+00:00"
 }
