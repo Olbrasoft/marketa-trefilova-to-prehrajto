@@ -90974,17 +90974,19 @@
       "attempts": []
     },
     "2208": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28472422",
+          "target_video_id": "30926871",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:28:07.322327+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28472422",
         "display_name": "Weekend Rebels (Wochenendrebellen) 1080p CZ Dabing",
         "planned_at": "2026-11-08T22:24:24.129337+00:00"
-      },
-      "claim": {
-        "worker_id": "b03f6019d958437092af0c31e6c4008b-shard-0",
-        "claimed_at": "2026-11-08T22:24:24.425179+00:00",
-        "lease_expires_at": "2026-11-09T04:24:24.425179+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926871",
       "prepared": {
@@ -146912,5 +146914,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:24:57.183287+00:00"
+  "updated_at": "2026-11-08T22:28:07.322344+00:00"
 }
