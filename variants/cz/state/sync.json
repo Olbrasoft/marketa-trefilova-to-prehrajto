@@ -8538,13 +8538,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-08T13:11:50.398082+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-08T13:43:14.310072+00:00"
         },
         {
@@ -8553,6 +8546,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-08T14:26:16.423235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:58:50.989639+00:00"
         }
       ],
       "last_plan": {
@@ -8566,12 +8566,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
-      },
-      "claim": {
-        "worker_id": "e95c4c052cce4606851c804d4939064c-shard-0",
-        "claimed_at": "2026-11-08T14:58:48.483733+00:00",
-        "lease_expires_at": "2026-11-08T20:58:48.483733+00:00",
-        "run_id": "42480114124"
       }
     },
     "270": {
@@ -8609,6 +8603,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
+      },
+      "claim": {
+        "worker_id": "5dbaf115ba9b4b68aef8ad4e1ce9925d-shard-0",
+        "claimed_at": "2026-11-08T14:58:52.160055+00:00",
+        "lease_expires_at": "2026-11-08T20:58:52.160055+00:00",
+        "run_id": "42480114124"
       }
     },
     "21873": {
@@ -22312,7 +22312,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-08T14:26:18.278454+00:00"
+        "planned_at": "2026-11-08T14:58:52.651360+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -84865,7 +84865,7 @@
       "last_plan": {
         "source_id": "31064775",
         "display_name": "Legacy, notre héritage (Legacy) 4K CZ Dabing",
-        "planned_at": "2026-11-08T14:58:48.864261+00:00"
+        "planned_at": "2026-11-08T14:58:52.870861+00:00"
       }
     },
     "21412": {
@@ -140125,5 +140125,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:58:49.081535+00:00"
+  "updated_at": "2026-11-08T14:58:52.870880+00:00"
 }
