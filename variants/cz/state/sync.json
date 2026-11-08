@@ -85978,17 +85978,19 @@
       "attempts": []
     },
     "2403": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30549197",
+          "target_video_id": "30923093",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:37:57.245374+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30549197",
         "display_name": "Veteran (베테랑) 1080p CZ Dabing",
         "planned_at": "2026-11-08T17:34:34.622397+00:00"
-      },
-      "claim": {
-        "worker_id": "40101a2471204767bcc04817a2955d1d-shard-0",
-        "claimed_at": "2026-11-08T17:34:34.923148+00:00",
-        "lease_expires_at": "2026-11-08T23:34:34.923148+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923093",
       "prepared": {
@@ -141690,5 +141692,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:37:32.639738+00:00"
+  "updated_at": "2026-11-08T17:37:57.245392+00:00"
 }
