@@ -90793,17 +90793,19 @@
       }
     },
     "25197": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25216935",
+          "target_video_id": "30926705",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:16:12.819006+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25216935",
         "display_name": "Pogoda na jutro (Tomorrow's Weather) 720p CZ Dabing",
         "planned_at": "2026-11-08T22:13:17.579740+00:00"
-      },
-      "claim": {
-        "worker_id": "1f650fff10234372961805939e55092c-shard-0",
-        "claimed_at": "2026-11-08T22:13:17.901263+00:00",
-        "lease_expires_at": "2026-11-09T04:13:17.901263+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926705",
       "prepared": {
@@ -146512,5 +146514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:13:21.604187+00:00"
+  "updated_at": "2026-11-08T22:16:12.819023+00:00"
 }
