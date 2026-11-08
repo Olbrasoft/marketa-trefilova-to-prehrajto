@@ -529,3 +529,4 @@ Attach subtitles only after target processing has finished.
 | Nosferatu (2024) 4K CZ Titulky | 30910097 | https://sdilej.cz/30659434/nosferatu-cz-tit-2024-2160p-by-pefto.mkv | Extract Czech track from exact source after processing |
 | Everest 1080p CZ Titulky | 30911174 | https://sdilej.cz/35402213/everest.2015.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Basic Instinct 1080p CZ Titulky | 30911357 | https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv | Extract Czech track from exact source after processing |
+| Rocky Balboa 1080p CZ Titulky | 30911575 | https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv | Extract Czech track from exact source after processing |
