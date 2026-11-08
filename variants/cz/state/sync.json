@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-08T13:11:23.417009+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-08T13:42:45.232759+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-08T14:25:49.148096+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:58:28.877951+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-08T14:25:48.529571+00:00"
+        "planned_at": "2026-11-08T14:58:26.815100+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "de5bf48791be478aa618dfde7b96ff5b-shard-0",
+        "claimed_at": "2026-11-08T14:58:27.756931+00:00",
+        "lease_expires_at": "2026-11-08T20:58:27.756931+00:00",
+        "run_id": "42480114124"
       }
     },
     "52": {
@@ -84859,7 +84865,7 @@
       "last_plan": {
         "source_id": "31064775",
         "display_name": "Legacy, notre héritage (Legacy) 4K CZ Dabing",
-        "planned_at": "2026-11-08T14:58:24.285561+00:00"
+        "planned_at": "2026-11-08T14:58:27.081923+00:00"
       }
     },
     "21412": {
@@ -140119,5 +140125,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:58:24.639303+00:00"
+  "updated_at": "2026-11-08T14:58:28.877971+00:00"
 }
