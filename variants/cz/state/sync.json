@@ -53761,13 +53761,6 @@
           "source_id": "33925810",
           "target_video_id": "30780604",
           "permanent": false,
-          "attempted_at": "2026-11-08T17:26:43.202027+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33925810",
-          "target_video_id": "30780604",
-          "permanent": false,
           "attempted_at": "2026-11-08T17:58:46.762758+00:00"
         },
         {
@@ -53776,12 +53769,19 @@
           "target_video_id": "30780604",
           "permanent": false,
           "attempted_at": "2026-11-08T18:30:12.146067+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33925810",
+          "target_video_id": "30780604",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:00:47.816777+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33925810",
         "display_name": "The Doors 4K CZ Dabing",
-        "planned_at": "2026-11-08T18:30:10.687704+00:00"
+        "planned_at": "2026-11-08T19:00:46.014496+00:00"
       },
       "previous_target_id": "30780604",
       "prepared": {
@@ -87253,7 +87253,13 @@
       "last_plan": {
         "source_id": "24717842",
         "display_name": "Harrison's Flowers SD CZ Dabing",
-        "planned_at": "2026-11-08T19:00:41.257031+00:00"
+        "planned_at": "2026-11-08T19:00:46.241677+00:00"
+      },
+      "claim": {
+        "worker_id": "8f1f0dc075a2427fbd98bd659ad2662e-shard-0",
+        "claimed_at": "2026-11-08T19:00:46.661399+00:00",
+        "lease_expires_at": "2026-11-09T01:00:46.661399+00:00",
+        "run_id": "42499495816"
       }
     },
     "23470": {
@@ -87281,7 +87287,12 @@
       "attempts": []
     },
     "11197": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33734527",
+        "display_name": "Keoma 1080p CZ Dabing",
+        "planned_at": "2026-11-08T19:00:46.375083+00:00"
+      }
     },
     "1924": {
       "attempts": []
@@ -142877,5 +142888,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:00:43.015836+00:00"
+  "updated_at": "2026-11-08T19:00:47.816794+00:00"
 }
