@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:33:40.348778+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:34:31.758207+00:00
 
 Zkontrolováno videí: 539. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 417, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 58, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 417, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 1, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 58, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -42,6 +42,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | [Seven (Se7en) 1080p CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T02:53:42.270546+00:00 |
 | [Singin' in the Rain SD](https://prehraj.to/singin-in-the-rain-sd-mp4/2de17edf2d52a7eb) (ID 30677056) | [Sdílej 15908236](https://sdilej.cz/15908236/zpivani-v-desti-czdab.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-08T06:49:49.531618+00:00 |
 | [Snatch 1080p CZ Titulky](https://prehraj.to/snatch-1080p-cz-titulky-mkv/7cd4bd12173bd35e) (ID 30677522) | [Sdílej 30945062](https://sdilej.cz/30945062/snatch-podfuck-2000-en-cz-dabing-1080p.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-08T04:38:21.315483+00:00 |
+| [System Crasher (Systemsprenger) SD CZ Titulky](https://prehraj.to/system-crasher-systemsprenger-sd-cz-titulky-mp4/f454c1e9197d1145) (ID 30674476) | [Sdílej 35393610](https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4) | Zdrojové titulky mají neplatné časování. | 2026-11-08T11:34:31.757971+00:00 |
 | [Talvar SD](https://prehraj.to/talvar-sd-mp4/f17e203bdb92af8d) (ID 30622823) | [Sdílej 34775753](https://sdilej.cz/34775753/rezavy-mec-2015-.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T01:20:00.458450+00:00 |
 | [Taxi Driver 1080p CZ Titulky](https://prehraj.to/taxi-driver-cz-titulky-mkv/0228322f417c7ba7) (ID 30607270) | [Sdílej 21206285](https://sdilej.cz/21206285/taxikar-taxi-driver-1976-1080.p.5.1-cz-en-tit.cz-en.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T22:13:59.658371+00:00 |
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T18:47:50.035910+00:00 |
@@ -108,7 +109,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | [Spaceballs 1080p CZ Titulky](https://prehraj.to/spaceballs-1080p-cz-titulky-mkv/4b8558c44e597f03) (ID 30912425) | [Sdílej 26848405](https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv) | target_unavailable | 2026-11-08T08:40:59.652433+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-08T11:23:31.923844+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-08T11:23:44.826503+00:00 |
-| [System Crasher (Systemsprenger) SD CZ Titulky](https://prehraj.to/system-crasher-systemsprenger-sd-cz-titulky-mp4/f454c1e9197d1145) (ID 30674476) | [Sdílej 35393610](https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4) | source_unavailable | 2026-11-07T18:00:08.249795+00:00 |
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | target_unavailable | 2026-11-08T09:01:17.396913+00:00 |
 | [The Danish Girl SD CZ Titulky](https://prehraj.to/the-danish-girl-sd-cz-titulky-mkv/0cb041c3918ec941) (ID 30913831) | [Sdílej 5467007](https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv) | target_unavailable | 2026-11-08T09:51:49.356262+00:00 |
 | [The Endless Trench 1080p CZ Titulky](https://prehraj.to/the-endless-trench-1080p-cz-titulky-mkv/78bc83a0fce123e0) (ID 30901287) | [Sdílej 13066841](https://sdilej.cz/13066841/the.endless.trench.2019.1080p.cz.sub.web-dl.ddp5.1.x264.mkv) | target_unavailable | 2026-11-07T23:36:03.430576+00:00 |
