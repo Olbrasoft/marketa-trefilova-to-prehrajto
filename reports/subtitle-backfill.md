@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:33:20.450148+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:33:23.705613+00:00
 
 Zkontrolováno videí: 539. Další stránka kontroly: 0.
 
@@ -123,7 +123,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | [The Yakuza 1080p CZ Titulky](https://prehraj.to/the-yakuza-1080p-cz-titulky-mkv/82379460d5dd0f1d) (ID 30897645) | [Sdílej 8869265](https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv) | target_unavailable | 2026-11-07T20:01:12.231815+00:00 |
 | [Thunderbolts* 4K CZ Titulky](https://prehraj.to/thunderbolts-4k-cz-titulky-mkv/7da50bf4e4b3d344) (ID 30908951) | [Sdílej 31386689](https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T05:38:56.391995+00:00 |
 | [Tropic Thunder 1080p CZ Titulky](https://prehraj.to/tropic-thunder-1080p-cz-titulky-mkv/f2bb2d097d396d86) (ID 30904135) | [Sdílej 34431613](https://sdilej.cz/34431613/tropic.thunder.2008.tc.1080p.bluray.x264.ac3-warbro.mkv) | target_unavailable | 2026-11-08T01:47:58.511156+00:00 |
-| [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-07T16:49:03.279092+00:00 |
+| [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-08T11:33:23.705557+00:00 |
 | [Vicky Cristina Barcelona 1080p CZ Titulky](https://prehraj.to/vicky-cristina-barcelona-1080p-cz-titulky-mkv/2b48763c06259b00) (ID 30909865) | [Sdílej 35401907](https://sdilej.cz/35401907/vicky.cristina.barcelona.2008.proper.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-08T06:29:25.648942+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-08T11:24:22.452348+00:00 |
 | [War Dogs 1080p CZ Titulky](https://prehraj.to/war-dogs-1080p-cz-titulky-mkv/4774fc2baa5887cf) (ID 30908811) | [Sdílej 14774536](https://sdilej.cz/14774536/typci-a-zbrane-war-dogs-2016-hd-cz-titl.mkv) | target_unavailable | 2026-11-08T05:28:50.038320+00:00 |
