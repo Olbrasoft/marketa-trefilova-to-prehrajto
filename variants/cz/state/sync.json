@@ -90065,17 +90065,19 @@
       "attempts": []
     },
     "22016": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6071473",
+          "target_video_id": "30926165",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:31:05.689361+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6071473",
         "display_name": "Monte Walsh (1970) SD CZ Dabing",
         "planned_at": "2026-11-08T21:28:15.415920+00:00"
-      },
-      "claim": {
-        "worker_id": "dd046d95c7684673b252caf91cf99c37-shard-0",
-        "claimed_at": "2026-11-08T21:28:15.701535+00:00",
-        "lease_expires_at": "2026-11-09T03:28:15.701535+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926165",
       "prepared": {
@@ -145955,5 +145957,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:29:24.243643+00:00"
+  "updated_at": "2026-11-08T21:31:05.689377+00:00"
 }
