@@ -27385,13 +27385,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-08T20:02:29.955097+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-08T20:32:57.646325+00:00"
         },
         {
@@ -27400,6 +27393,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-08T21:08:50.865896+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:39:44.042399+00:00"
         }
       ],
       "last_plan": {
@@ -47069,7 +47069,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T21:08:50.254543+00:00"
+        "planned_at": "2026-11-08T21:39:42.762866+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -47077,6 +47077,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "52d89d349a9748079afce44b25863a6b-shard-0",
+        "claimed_at": "2026-11-08T21:39:43.305029+00:00",
+        "lease_expires_at": "2026-11-09T03:39:43.305029+00:00",
+        "run_id": "42519750852"
       }
     },
     "20013": {
@@ -90218,7 +90224,7 @@
       "last_plan": {
         "source_id": "34571367",
         "display_name": "Liberation: The Battle of Berlin (Освобождение: Битва за Берлин) 720p CZ Dabing",
-        "planned_at": "2026-11-08T21:39:40.897870+00:00"
+        "planned_at": "2026-11-08T21:39:42.992353+00:00"
       }
     },
     "26354": {
@@ -146019,5 +146025,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:39:40.897887+00:00"
+  "updated_at": "2026-11-08T21:39:44.042416+00:00"
 }
