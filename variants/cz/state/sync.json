@@ -86401,17 +86401,19 @@
       "attempts": []
     },
     "11260": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33232745",
+          "target_video_id": "30923558",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:17:51.600896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33232745",
         "display_name": "Five Deadly Venoms (五毒) 1080p CZ Dabing",
         "planned_at": "2026-11-08T18:08:32.330346+00:00"
-      },
-      "claim": {
-        "worker_id": "c4ca794525b54372bb709998cc07a2ff-shard-0",
-        "claimed_at": "2026-11-08T18:08:32.634902+00:00",
-        "lease_expires_at": "2026-11-09T00:08:32.634902+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923558",
       "prepared": {
@@ -142045,5 +142047,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:17:48.017085+00:00"
+  "updated_at": "2026-11-08T18:17:51.600914+00:00"
 }
