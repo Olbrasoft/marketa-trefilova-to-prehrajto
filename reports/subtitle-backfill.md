@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:24:05.947575+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:24:14.030977+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
@@ -98,7 +98,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T11:23:50.319519+00:00 |
 | [Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky](https://prehraj.to/prayers-for-the-stolen-noche-de-fuego-1080p-cz-titulky-mkv/ca62beb557a955ad) (ID 30898313) | [Sdílej 18892846](https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv) | target_unavailable | 2026-11-07T20:41:48.903188+00:00 |
 | [Pretty Woman 1080p CZ Titulky](https://prehraj.to/pretty-woman-1080p-cz-titulky-mkv/eba5746cdf21f5ab) (ID 30907428) | [Sdílej 23024180](https://sdilej.cz/23024180/pretty-woman-1990-fhd-1080p--cz-pl-eng-.mkv) | target_unavailable | 2026-11-08T04:28:14.996753+00:00 |
-| [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-07T16:40:20.376317+00:00 |
+| [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-08T11:24:13.833316+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-08T11:23:54.587324+00:00 |
 | [Rocky Balboa 1080p CZ Titulky](https://prehraj.to/rocky-balboa-1080p-cz-titulky-mkv/930596289316dfba) (ID 30911575) | [Sdílej 25799468](https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv) | target_unavailable | 2026-11-08T08:00:10.470206+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-08T11:23:02.430170+00:00 |
