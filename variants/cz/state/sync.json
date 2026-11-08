@@ -42275,7 +42275,7 @@
       "last_plan": {
         "source_id": "34334657",
         "display_name": "The Last Duel 4K CZ Dabing",
-        "planned_at": "2026-11-08T13:13:23.277644+00:00"
+        "planned_at": "2026-11-08T13:44:55.172057+00:00"
       },
       "previous_target_id": "30754884",
       "prepared": {
@@ -42283,6 +42283,12 @@
         "size_bytes": 7100000000,
         "prepared_at": "2026-11-03T06:59:38.837523+00:00",
         "relay_source_id": "34334657"
+      },
+      "claim": {
+        "worker_id": "33ea768e7c9c439b982818509baee2a3-shard-0",
+        "claimed_at": "2026-11-08T13:44:55.740184+00:00",
+        "lease_expires_at": "2026-11-08T19:44:55.740184+00:00",
+        "run_id": "42480114124"
       }
     },
     "1535": {
@@ -84518,17 +84524,19 @@
       }
     },
     "22002": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29291675",
+          "target_video_id": "30918479",
+          "permanent": false,
+          "attempted_at": "2026-11-08T13:44:56.695593+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29291675",
         "display_name": "The Decameron 720p CZ Dabing",
         "planned_at": "2026-11-08T13:37:10.103684+00:00"
-      },
-      "claim": {
-        "worker_id": "8f729b27d6d54eb2bbdff775f4070fa8-shard-0",
-        "claimed_at": "2026-11-08T13:37:10.416712+00:00",
-        "lease_expires_at": "2026-11-08T19:37:10.416712+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30918479",
       "prepared": {
@@ -84543,7 +84551,7 @@
       "last_plan": {
         "source_id": "33623099",
         "display_name": "The Flower of My Secret SD CZ Dabing",
-        "planned_at": "2026-11-08T13:44:50.504288+00:00"
+        "planned_at": "2026-11-08T13:44:55.403258+00:00"
       }
     },
     "20937": {
@@ -139603,5 +139611,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T13:44:52.034785+00:00"
+  "updated_at": "2026-11-08T13:44:56.695612+00:00"
 }
