@@ -29246,17 +29246,19 @@
       }
     },
     "1859": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31269211",
+          "target_video_id": "30920638",
+          "permanent": false,
+          "attempted_at": "2026-11-08T16:23:34.421099+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31269211",
         "display_name": "Warfare 1440p CZ Titulky",
         "planned_at": "2026-11-08T15:25:20.902231+00:00"
-      },
-      "claim": {
-        "worker_id": "9138bfab23b94f6686698c66994f2afc-shard-0",
-        "claimed_at": "2026-11-08T15:25:20.982184+00:00",
-        "lease_expires_at": "2026-11-08T21:25:20.982184+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30920638",
       "prepared": {
@@ -88109,5 +88111,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T16:23:28.835603+00:00"
+  "updated_at": "2026-11-08T16:23:34.421117+00:00"
 }
