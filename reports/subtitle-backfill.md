@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:22:58.770434+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:23:02.779361+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
@@ -101,7 +101,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-07T16:40:20.376317+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-07T16:40:02.356851+00:00 |
 | [Rocky Balboa 1080p CZ Titulky](https://prehraj.to/rocky-balboa-1080p-cz-titulky-mkv/930596289316dfba) (ID 30911575) | [Sdílej 25799468](https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv) | target_unavailable | 2026-11-08T08:00:10.470206+00:00 |
-| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-07T16:39:14.819119+00:00 |
+| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-08T11:23:02.430170+00:00 |
 | [Rurouni Kenshin: The Final (Rurôni Kenshin: Sai shûshô - The Final) 1080p CZ Titulky](https://prehraj.to/rurouni-kenshin-the-final-ruroni-kenshin-sai-shusho-the-final-1080p-cz-titulky-mkv/e8a9f6e50ecbdfe0) (ID 30895943) | [Sdílej 17633321](https://sdilej.cz/17633321/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo-cz-titulky.mkv) | target_unavailable | 2026-11-07T18:20:09.186752+00:00 |
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-07T17:08:56.357878+00:00 |
 | [Snowpiercer (설국열차) 1080p CZ Titulky](https://prehraj.to/snowpiercer-1080p-cz-titulky-mkv/6e29c99d0ce5c9be) (ID 30907383) | [Sdílej 33959636](https://sdilej.cz/33959636/snowpiercer.2013.1080p.bluray.hevc.dl.ac3.x265-majo.mkv) | target_unavailable | 2026-11-08T04:18:06.378775+00:00 |
