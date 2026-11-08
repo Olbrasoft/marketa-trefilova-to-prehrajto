@@ -82939,17 +82939,19 @@
       "attempts": []
     },
     "1269": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32380956",
+          "target_video_id": "30913863",
+          "permanent": false,
+          "attempted_at": "2026-11-08T09:54:43.740745+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32380956",
         "display_name": "Father (Otec) 1080p CZ Dabing",
         "planned_at": "2026-11-08T09:50:58.413712+00:00"
-      },
-      "claim": {
-        "worker_id": "13f310fe7120498094fb609f9dc69f58-shard-0",
-        "claimed_at": "2026-11-08T09:50:58.754638+00:00",
-        "lease_expires_at": "2026-11-08T15:50:58.754638+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30913863",
       "prepared": {
@@ -137214,5 +137216,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:51:02.659573+00:00"
+  "updated_at": "2026-11-08T09:54:43.740762+00:00"
 }
