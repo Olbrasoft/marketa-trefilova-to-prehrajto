@@ -88707,17 +88707,19 @@
       }
     },
     "29668": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34712452",
+          "target_video_id": "30925208",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:15:37.534992+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34712452",
         "display_name": "The Cleaners 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:12:31.505893+00:00"
-      },
-      "claim": {
-        "worker_id": "bf29f36b560e437f812baf5dd85d0894-shard-0",
-        "claimed_at": "2026-11-08T20:12:31.811000+00:00",
-        "lease_expires_at": "2026-11-09T02:12:31.811000+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925208",
       "prepared": {
@@ -144354,5 +144356,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:13:16.712815+00:00"
+  "updated_at": "2026-11-08T20:15:37.535008+00:00"
 }
