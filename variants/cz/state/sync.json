@@ -88998,17 +88998,19 @@
       "attempts": []
     },
     "10902": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34788460",
+          "target_video_id": "30925351",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:27:37.066373+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34788460",
         "display_name": "Intimate Lighting (Intimní osvětlení) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:25:00.374420+00:00"
-      },
-      "claim": {
-        "worker_id": "11d95fa5c6e14bfcb013c348c85e2f31-shard-0",
-        "claimed_at": "2026-11-08T20:25:00.706360+00:00",
-        "lease_expires_at": "2026-11-09T02:25:00.706360+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925351",
       "prepared": {
@@ -144845,5 +144847,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:27:23.600183+00:00"
+  "updated_at": "2026-11-08T20:27:37.066389+00:00"
 }
