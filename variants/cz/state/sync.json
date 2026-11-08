@@ -84603,17 +84603,19 @@
       "attempts": []
     },
     "22208": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8419568",
+          "target_video_id": "30918884",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:03:35.381601+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8419568",
         "display_name": "The Odessa File SD CZ Dabing",
         "planned_at": "2026-11-08T13:58:44.610284+00:00"
-      },
-      "claim": {
-        "worker_id": "b14bab0aee4045089547f59bb661a79c-shard-0",
-        "claimed_at": "2026-11-08T13:58:44.922465+00:00",
-        "lease_expires_at": "2026-11-08T19:58:44.922465+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30918884",
       "prepared": {
@@ -139665,5 +139667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T13:58:49.295061+00:00"
+  "updated_at": "2026-11-08T14:03:35.381621+00:00"
 }
