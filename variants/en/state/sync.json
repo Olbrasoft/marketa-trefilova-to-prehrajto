@@ -27919,17 +27919,19 @@
       }
     },
     "2094": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33959636",
+          "target_video_id": "30907383",
+          "permanent": false,
+          "attempted_at": "2026-11-08T04:35:42.737746+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33959636",
         "display_name": "Snowpiercer (설국열차) 1080p CZ Titulky",
         "planned_at": "2026-11-08T04:17:42.126493+00:00"
-      },
-      "claim": {
-        "worker_id": "8da07e4dca2843dca3028c4ecc5f89da-shard-0",
-        "claimed_at": "2026-11-08T04:17:42.443440+00:00",
-        "lease_expires_at": "2026-11-08T10:17:42.443440+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30907383",
       "prepared": {
@@ -84227,5 +84229,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T04:25:22.035022+00:00"
+  "updated_at": "2026-11-08T04:35:42.737766+00:00"
 }
