@@ -88936,17 +88936,19 @@
       "attempts": []
     },
     "36663": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25336511",
+          "target_video_id": "30925332",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:24:46.529247+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25336511",
         "display_name": "Things Change 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:22:17.605798+00:00"
-      },
-      "claim": {
-        "worker_id": "63952d50c2ab47f48cecd963121d107a-shard-0",
-        "claimed_at": "2026-11-08T20:22:17.907049+00:00",
-        "lease_expires_at": "2026-11-09T02:22:17.907049+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925332",
       "prepared": {
@@ -144733,5 +144735,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:22:21.550578+00:00"
+  "updated_at": "2026-11-08T20:24:46.529262+00:00"
 }
