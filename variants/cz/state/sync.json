@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-08T19:34:11.256435+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-08T20:05:13.530979+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-08T20:35:31.841288+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:11:27.771004+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "5012a433f6a04881a0f7826626d90ecd-shard-0",
-        "claimed_at": "2026-11-08T21:11:22.591548+00:00",
-        "lease_expires_at": "2026-11-09T03:11:22.591548+00:00",
-        "run_id": "42519750852"
       }
     },
     "37290": {
@@ -89373,17 +89367,23 @@
           "attempted_at": "2026-11-08T20:37:16.819284+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32263750",
-        "display_name": "Return of the Idiot (Návrat idiota) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T20:35:32.095731+00:00"
-      },
       "previous_target_id": "30925458",
-      "prepared": {
+      "upload": {
         "target_video_id": "30925458",
-        "size_bytes": 1970016504,
-        "prepared_at": "2026-11-08T20:35:37.228117+00:00",
-        "relay_source_id": "32263750"
+        "display_name": "Return of the Idiot (Návrat idiota) 1080p CZ Dabing",
+        "source_id": "32263750",
+        "source_url": "https://sdilej.cz/32263750/navrat-idiota-1999-fhd-cz.mkv",
+        "source_filename": "Návrat idiota (1999) FHD cz.mkv",
+        "size_bytes": 2000000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9773099422454834,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/return-of-the-idiot-navrat-idiota-1080p-cz-dabing-mkv/fb5bb9dc41ddf5d4",
+        "uploaded_at": "2026-11-08T21:11:27.928004+00:00"
       }
     },
     "2240": {
@@ -89766,7 +89766,7 @@
       "last_plan": {
         "source_id": "32208455",
         "display_name": "Afterimage (Powidoki) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T21:11:22.271496+00:00"
+        "planned_at": "2026-11-08T21:11:26.710294+00:00"
       }
     },
     "16030": {
@@ -145383,5 +145383,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:11:23.060939+00:00"
+  "updated_at": "2026-11-08T21:11:27.928022+00:00"
 }
