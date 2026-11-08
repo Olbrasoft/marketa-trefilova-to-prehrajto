@@ -29090,17 +29090,19 @@
       }
     },
     "1884": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35148588",
+          "target_video_id": "30919516",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:56:52.370098+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35148588",
         "display_name": "Let Me In 1080p CZ Titulky",
         "planned_at": "2026-11-08T14:30:06.110256+00:00"
-      },
-      "claim": {
-        "worker_id": "0b3cc0543cf54a7d9b11ee1b3a5dc9d9-shard-0",
-        "claimed_at": "2026-11-08T14:30:06.243255+00:00",
-        "lease_expires_at": "2026-11-08T20:30:06.243255+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30919516",
       "prepared": {
@@ -87603,5 +87605,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:39:40.637118+00:00"
+  "updated_at": "2026-11-08T14:56:52.370116+00:00"
 }
