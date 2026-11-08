@@ -82901,17 +82901,19 @@
       "attempts": []
     },
     "22854": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28894890",
+          "target_video_id": "30913332",
+          "permanent": false,
+          "attempted_at": "2026-11-08T09:27:02.264864+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28894890",
         "display_name": "Eastern Condors SD CZ Dabing",
         "planned_at": "2026-11-08T09:23:17.549713+00:00"
-      },
-      "claim": {
-        "worker_id": "5fa087746edd4235b28a2680a1add011-shard-0",
-        "claimed_at": "2026-11-08T09:23:17.915755+00:00",
-        "lease_expires_at": "2026-11-08T15:23:17.915755+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30913332",
       "prepared": {
@@ -137177,5 +137179,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:23:21.488633+00:00"
+  "updated_at": "2026-11-08T09:27:02.264880+00:00"
 }
