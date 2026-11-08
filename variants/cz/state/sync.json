@@ -88931,17 +88931,19 @@
       "attempts": []
     },
     "33976": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18704423",
+          "target_video_id": "30925310",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:27:04.555323+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18704423",
         "display_name": "The Well-Digger's Daughter (La Fille du puisatier) 720p CZ Dabing",
         "planned_at": "2026-11-08T20:20:23.114729+00:00"
-      },
-      "claim": {
-        "worker_id": "3c29e217d1984d388826b07104877d7e-shard-0",
-        "claimed_at": "2026-11-08T20:20:23.425959+00:00",
-        "lease_expires_at": "2026-11-09T02:20:23.425959+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925310",
       "prepared": {
@@ -144793,5 +144795,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:26:10.420172+00:00"
+  "updated_at": "2026-11-08T20:27:04.555341+00:00"
 }
