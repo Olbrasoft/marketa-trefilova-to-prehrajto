@@ -81089,17 +81089,19 @@
       }
     },
     "13161": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28141744",
+          "target_video_id": "30902702",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:42:44.223590+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28141744",
         "display_name": "8 Women (8 femmes) 1080p CZ Dabing",
         "planned_at": "2026-11-08T00:33:27.024294+00:00"
-      },
-      "claim": {
-        "worker_id": "f7688ff7042e42a082db2ae26762ed34-shard-0",
-        "claimed_at": "2026-11-08T00:33:27.213538+00:00",
-        "lease_expires_at": "2026-11-08T06:33:27.213538+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30902702",
       "prepared": {
@@ -133577,5 +133579,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:40:57.067375+00:00"
+  "updated_at": "2026-11-08T00:42:44.223608+00:00"
 }
