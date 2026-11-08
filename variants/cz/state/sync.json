@@ -85163,17 +85163,19 @@
       }
     },
     "36803": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34392910",
+          "target_video_id": "30921841",
+          "permanent": false,
+          "attempted_at": "2026-11-08T16:41:27.915927+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34392910",
         "display_name": "Apollo: Missions to the Moon 1080p CZ Dabing",
         "planned_at": "2026-11-08T16:24:07.165126+00:00"
-      },
-      "claim": {
-        "worker_id": "74e6c546ad884dd3995bb25a94b368b9-shard-0",
-        "claimed_at": "2026-11-08T16:24:07.447522+00:00",
-        "lease_expires_at": "2026-11-08T22:24:07.447522+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30921841",
       "prepared": {
@@ -140854,5 +140856,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T16:39:23.728702+00:00"
+  "updated_at": "2026-11-08T16:41:27.915947+00:00"
 }
