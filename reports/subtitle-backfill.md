@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T18:13:02.211925+00:00
+Poslední aktualizace (UTC): 2026-11-08T18:13:03.938645+00:00
 
 Zkontrolováno videí: 552. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 450, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 5, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 451, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 5, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -98,7 +98,6 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-08T17:44:04.341188+00:00 |
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-08T17:13:04.774298+00:00 |
 | [The Dead Zone 1080p CZ Titulky](https://prehraj.to/the-dead-zone-1080p-cz-titulky-mkv/9ff3d8bbf436db54) (ID 30922823) | [Sdílej 34936882](https://sdilej.cz/34936882/the.dead.zone.1983.remastered.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-08T17:22:19.616127+00:00 |
-| [The Drama 4K CZ Titulky](https://prehraj.to/the-drama-4k-cz-titulky-mkv/9fd155fe8d9527c4) (ID 30920101) | [Sdílej 34716958](https://sdilej.cz/34716958/the-drama-2026-2160p-webrip-dv-hdr10-ddp5.1-atmos-en-cz-titulky.mkv) | target_unavailable | 2026-11-08T17:12:15.719351+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-08T17:43:11.833763+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-08T17:44:00.818257+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-08T17:43:45.266734+00:00 |
