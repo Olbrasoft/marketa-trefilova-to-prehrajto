@@ -85061,17 +85061,19 @@
       }
     },
     "13056": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30731954",
+          "target_video_id": "30921405",
+          "permanent": false,
+          "attempted_at": "2026-11-08T16:12:10.427552+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30731954",
         "display_name": "The Grey Zone 1080p CZ Dabing",
         "planned_at": "2026-11-08T15:59:12.286099+00:00"
-      },
-      "claim": {
-        "worker_id": "b136f5edd62c4c87923de3355226d836-shard-0",
-        "claimed_at": "2026-11-08T15:59:12.606134+00:00",
-        "lease_expires_at": "2026-11-08T21:59:12.606134+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30921405",
       "prepared": {
@@ -140552,5 +140554,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T15:59:24.907082+00:00"
+  "updated_at": "2026-11-08T16:12:10.427591+00:00"
 }
