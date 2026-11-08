@@ -12786,13 +12786,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-08T08:35:37.013246+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-08T09:09:36.798405+00:00"
         },
         {
@@ -12801,6 +12794,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-08T09:45:38.565074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-08T10:18:38.206013+00:00"
         }
       ],
       "last_plan": {
@@ -16912,7 +16912,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-08T09:45:41.577713+00:00"
+        "planned_at": "2026-11-08T10:18:36.869161+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16920,6 +16920,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "05bcef8a81254705baba4d97caca4e58-shard-0",
+        "claimed_at": "2026-11-08T10:18:37.545240+00:00",
+        "lease_expires_at": "2026-11-08T16:18:37.545240+00:00",
+        "run_id": "42462687727"
       }
     },
     "614": {
@@ -83059,7 +83065,7 @@
       "last_plan": {
         "source_id": "32234888",
         "display_name": "Don Quixote (Дон Кихот) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T10:18:34.883562+00:00"
+        "planned_at": "2026-11-08T10:18:37.132038+00:00"
       }
     },
     "10705": {
@@ -137293,5 +137299,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:18:35.121472+00:00"
+  "updated_at": "2026-11-08T10:18:38.206030+00:00"
 }
