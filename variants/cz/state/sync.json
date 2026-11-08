@@ -85597,17 +85597,19 @@
       }
     },
     "2199": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29218965",
+          "target_video_id": "30922682",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:11:38.011456+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29218965",
         "display_name": "The Great Escaper 720p CZ Dabing",
         "planned_at": "2026-11-08T17:07:11.289905+00:00"
-      },
-      "claim": {
-        "worker_id": "85fda5ab40904c8f8ead4a832a742175-shard-0",
-        "claimed_at": "2026-11-08T17:07:11.580944+00:00",
-        "lease_expires_at": "2026-11-08T23:07:11.580944+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922682",
       "prepared": {
@@ -141159,5 +141161,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:10:32.312331+00:00"
+  "updated_at": "2026-11-08T17:11:38.011473+00:00"
 }
