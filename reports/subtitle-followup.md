@@ -542,3 +542,4 @@ Attach subtitles only after target processing has finished.
 | Creed II 1080p CZ Titulky | 30916024 | https://sdilej.cz/35402148/creed.ii.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | The Devil All the Time 1080p CZ Titulky | 30916168 | https://sdilej.cz/29802496/the.devil.all.the.time.2020.1080p.h264.leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
 | Seven Years in Tibet 720p CZ Titulky | 30916436 | https://sdilej.cz/6622841/sedm-let-v-tibetu-seven-years-in-tibet-1997-.bluray.h264.dts-s24-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Booksmart 1080p CZ Titulky | 30918609 | https://sdilej.cz/11921728/booksmart.sprtky-to-chtej-taky.sprtky-to-chcu-tiez.2019.1080p-h264-5.1-en-cz-tit.mkv | Extract Czech track from exact source after processing |
