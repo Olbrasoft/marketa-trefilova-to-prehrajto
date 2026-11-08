@@ -81683,17 +81683,19 @@
       }
     },
     "21654": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30578473",
+          "target_video_id": "30904838",
+          "permanent": false,
+          "attempted_at": "2026-11-08T02:31:44.074342+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30578473",
         "display_name": "Carnival of Souls SD CZ Dabing",
         "planned_at": "2026-11-08T02:22:46.873312+00:00"
-      },
-      "claim": {
-        "worker_id": "13b00e4728344bceb5505b7b0c0b9b7a-shard-0",
-        "claimed_at": "2026-11-08T02:22:47.057454+00:00",
-        "lease_expires_at": "2026-11-08T08:22:47.057454+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30904838",
       "prepared": {
@@ -134493,5 +134495,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T02:29:12.181989+00:00"
+  "updated_at": "2026-11-08T02:31:44.074361+00:00"
 }
