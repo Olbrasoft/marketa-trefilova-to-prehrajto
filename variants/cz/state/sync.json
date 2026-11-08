@@ -82146,17 +82146,19 @@
       }
     },
     "2279": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29493194",
+          "target_video_id": "30908887",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:44:48.215136+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29493194",
         "display_name": "Rose Island (L'incredibile storia dell'Isola delle Rose) 1080p CZ Dabing",
         "planned_at": "2026-11-08T05:33:26.793155+00:00"
-      },
-      "claim": {
-        "worker_id": "2092c5b838ee46158d105703be20fb27-shard-0",
-        "claimed_at": "2026-11-08T05:33:26.991769+00:00",
-        "lease_expires_at": "2026-11-08T11:33:26.991769+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30908887",
       "prepared": {
@@ -135593,5 +135595,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:37:38.437917+00:00"
+  "updated_at": "2026-11-08T05:44:48.215173+00:00"
 }
