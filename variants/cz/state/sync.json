@@ -88625,17 +88625,19 @@
       "attempts": []
     },
     "20367": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29662387",
+          "target_video_id": "30925128",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:12:29.833753+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29662387",
         "display_name": "ABBA: Against the Odds 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:07:29.539714+00:00"
-      },
-      "claim": {
-        "worker_id": "98d0d399a1714fabaec215a7cfd9df04-shard-0",
-        "claimed_at": "2026-11-08T20:07:29.829915+00:00",
-        "lease_expires_at": "2026-11-09T02:07:29.829915+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925128",
       "prepared": {
@@ -144308,5 +144310,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:11:54.011282+00:00"
+  "updated_at": "2026-11-08T20:12:29.833769+00:00"
 }
