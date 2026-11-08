@@ -90525,17 +90525,19 @@
       }
     },
     "10772": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25361947",
+          "target_video_id": "30926504",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:58:06.422482+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25361947",
         "display_name": "Stalingrad: Dogs, Do You Want to Live Forever? (Hunde, wollt ihr ewig leben) SD CZ Dabing",
         "planned_at": "2026-11-08T21:56:24.610080+00:00"
-      },
-      "claim": {
-        "worker_id": "96543f148a0e40b4884c53b943731b73-shard-0",
-        "claimed_at": "2026-11-08T21:56:24.899332+00:00",
-        "lease_expires_at": "2026-11-09T03:56:24.899332+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926504",
       "prepared": {
@@ -146310,5 +146312,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:57:39.347275+00:00"
+  "updated_at": "2026-11-08T21:58:06.422496+00:00"
 }
