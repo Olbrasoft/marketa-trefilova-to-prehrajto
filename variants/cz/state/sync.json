@@ -6953,13 +6953,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-08T09:46:04.022275+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-08T10:18:55.291415+00:00"
         },
         {
@@ -6968,6 +6961,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-08T10:52:36.566932+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-08T11:24:37.150977+00:00"
         }
       ],
       "last_plan": {
@@ -6981,12 +6981,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "8c4a9b93f248433f8a345cf1b2f6716a-shard-0",
-        "claimed_at": "2026-11-08T11:24:34.118375+00:00",
-        "lease_expires_at": "2026-11-08T17:24:34.118375+00:00",
-        "run_id": "42462687727"
       }
     },
     "321": {
@@ -21680,7 +21674,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T10:52:38.323295+00:00"
+        "planned_at": "2026-11-08T11:24:36.341354+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21688,6 +21682,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "493389bc98bc45bfb192387020105b65-shard-0",
+        "claimed_at": "2026-11-08T11:24:36.999632+00:00",
+        "lease_expires_at": "2026-11-08T17:24:36.999632+00:00",
+        "run_id": "42462687727"
       }
     },
     "677": {
@@ -83405,7 +83405,7 @@
       "last_plan": {
         "source_id": "34703416",
         "display_name": "Deathtrap 1080p CZ Dabing",
-        "planned_at": "2026-11-08T11:24:33.665759+00:00"
+        "planned_at": "2026-11-08T11:24:36.594921+00:00"
       }
     },
     "17633": {
@@ -138108,5 +138108,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T11:24:34.563845+00:00"
+  "updated_at": "2026-11-08T11:24:37.150998+00:00"
 }
