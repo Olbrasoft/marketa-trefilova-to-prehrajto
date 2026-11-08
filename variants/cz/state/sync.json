@@ -85327,17 +85327,19 @@
       "attempts": []
     },
     "16742": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13743887",
+          "target_video_id": "30922410",
+          "permanent": false,
+          "attempted_at": "2026-11-08T16:59:00.626764+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13743887",
         "display_name": "Demimonde (Félvilág) 1080p CZ Dabing",
         "planned_at": "2026-11-08T16:54:14.122430+00:00"
-      },
-      "claim": {
-        "worker_id": "74fe962ab6f94e4db25a2f1204481e68-shard-0",
-        "claimed_at": "2026-11-08T16:54:14.553913+00:00",
-        "lease_expires_at": "2026-11-08T22:54:14.553913+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922410",
       "prepared": {
@@ -140927,5 +140929,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T16:58:14.762021+00:00"
+  "updated_at": "2026-11-08T16:59:00.626785+00:00"
 }
