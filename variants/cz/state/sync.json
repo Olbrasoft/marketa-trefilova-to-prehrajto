@@ -45554,13 +45554,6 @@
           "source_id": "20443534",
           "target_video_id": "30871258",
           "permanent": false,
-          "attempted_at": "2026-11-08T06:24:35.929501+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20443534",
-          "target_video_id": "30871258",
-          "permanent": false,
           "attempted_at": "2026-11-08T07:02:30.210898+00:00"
         },
         {
@@ -45569,6 +45562,13 @@
           "target_video_id": "30871258",
           "permanent": false,
           "attempted_at": "2026-11-08T07:33:27.632566+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-08T08:07:00.024824+00:00"
         }
       ],
       "last_plan": {
@@ -64732,7 +64732,7 @@
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-08T07:33:29.188634+00:00"
+        "planned_at": "2026-11-08T08:06:58.858379+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -64740,6 +64740,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-05T14:15:35.875478+00:00",
         "relay_source_id": "11088676"
+      },
+      "claim": {
+        "worker_id": "54769e291eb3447bb675fca76c92ced3-shard-0",
+        "claimed_at": "2026-11-08T08:06:59.252792+00:00",
+        "lease_expires_at": "2026-11-08T14:06:59.252792+00:00",
+        "run_id": "42442579006"
       }
     },
     "1582": {
@@ -82668,7 +82674,7 @@
       "last_plan": {
         "source_id": "33624086",
         "display_name": "The 9th Company (9 rota) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T08:06:56.789552+00:00"
+        "planned_at": "2026-11-08T08:06:59.006505+00:00"
       }
     },
     "2441": {
@@ -136465,5 +136471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T08:06:56.789572+00:00"
+  "updated_at": "2026-11-08T08:07:00.024846+00:00"
 }
