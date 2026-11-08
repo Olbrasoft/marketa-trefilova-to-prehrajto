@@ -29440,17 +29440,19 @@
       "attempts": []
     },
     "11463": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34936882",
+          "target_video_id": "30922823",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:28:35.045011+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34936882",
         "display_name": "The Dead Zone 1080p CZ Titulky",
         "planned_at": "2026-11-08T17:16:55.799153+00:00"
-      },
-      "claim": {
-        "worker_id": "3563ea1219a84314812a2467c5e5c5d0-shard-0",
-        "claimed_at": "2026-11-08T17:16:55.880896+00:00",
-        "lease_expires_at": "2026-11-08T23:16:55.880896+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922823",
       "prepared": {
@@ -29465,7 +29467,7 @@
       "last_plan": {
         "source_id": "11442288",
         "display_name": "Brawl in Cell Block 99 1080p CZ Titulky",
-        "planned_at": "2026-11-08T17:28:28.619800+00:00"
+        "planned_at": "2026-11-08T17:28:33.193867+00:00"
       }
     },
     "1966": {
@@ -88441,5 +88443,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:28:28.619817+00:00"
+  "updated_at": "2026-11-08T17:28:35.045027+00:00"
 }
