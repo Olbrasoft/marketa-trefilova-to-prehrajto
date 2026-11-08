@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T16:35:25.074123+00:00
+Poslední aktualizace (UTC): 2026-11-08T16:35:28.647148+00:00
 
 Zkontrolováno videí: 548. Další stránka kontroly: 0.
 
@@ -87,7 +87,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-08T15:43:56.632038+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-08T15:34:25.008358+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T15:43:48.337567+00:00 |
-| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T15:34:18.076713+00:00 |
+| [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T16:35:28.647072+00:00 |
 | [Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky](https://prehraj.to/prayers-for-the-stolen-noche-de-fuego-1080p-cz-titulky-mkv/ca62beb557a955ad) (ID 30898313) | [Sdílej 18892846](https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv) | source_unavailable | 2026-11-08T15:53:26.949784+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-08T15:34:39.302022+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-08T15:34:21.576243+00:00 |
