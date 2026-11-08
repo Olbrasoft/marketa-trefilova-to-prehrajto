@@ -87533,17 +87533,19 @@
       }
     },
     "11149": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33536131",
+          "target_video_id": "30924557",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:18:38.311935+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33536131",
         "display_name": "The Outfit (1973) 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:12:36.099730+00:00"
-      },
-      "claim": {
-        "worker_id": "80eb3c198d3f45d0be58e54f8ec956ba-shard-0",
-        "claimed_at": "2026-11-08T19:12:36.650752+00:00",
-        "lease_expires_at": "2026-11-09T01:12:36.650752+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924557",
       "prepared": {
@@ -143163,5 +143165,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:13:06.469897+00:00"
+  "updated_at": "2026-11-08T19:18:38.311953+00:00"
 }
