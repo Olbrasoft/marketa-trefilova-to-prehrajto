@@ -85030,17 +85030,19 @@
       }
     },
     "22068": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34625272",
+          "target_video_id": "30921241",
+          "permanent": false,
+          "attempted_at": "2026-11-08T15:59:05.627842+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34625272",
         "display_name": "Un flic (A Cop) 1080p CZ Dabing",
         "planned_at": "2026-11-08T15:52:08.369302+00:00"
-      },
-      "claim": {
-        "worker_id": "e16a0ca9f49e4d68a913f78954207d9d-shard-0",
-        "claimed_at": "2026-11-08T15:52:08.677763+00:00",
-        "lease_expires_at": "2026-11-08T21:52:08.677763+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30921241",
       "prepared": {
@@ -140506,5 +140508,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T15:52:13.046508+00:00"
+  "updated_at": "2026-11-08T15:59:05.627862+00:00"
 }
