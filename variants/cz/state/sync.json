@@ -42802,13 +42802,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-08T08:05:38.912531+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-08T08:36:46.514737+00:00"
         },
         {
@@ -42817,6 +42810,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-08T09:10:37.882937+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-08T09:46:48.019486+00:00"
         }
       ],
       "last_plan": {
@@ -57070,7 +57070,7 @@
       "last_plan": {
         "source_id": "33383467",
         "display_name": "Vanishing Point 1080p CZ Dabing",
-        "planned_at": "2026-11-08T09:10:39.268690+00:00"
+        "planned_at": "2026-11-08T09:46:46.028609+00:00"
       },
       "previous_target_id": "30785708",
       "prepared": {
@@ -57078,6 +57078,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-04T12:47:15.136003+00:00",
         "relay_source_id": "33383467"
+      },
+      "claim": {
+        "worker_id": "9c5d53cc7dc24593983547c9dbec3b4d-shard-0",
+        "claimed_at": "2026-11-08T09:46:46.809659+00:00",
+        "lease_expires_at": "2026-11-08T15:46:46.809659+00:00",
+        "run_id": "42462687727"
       }
     },
     "31733": {
@@ -82937,7 +82943,7 @@
       "last_plan": {
         "source_id": "32380956",
         "display_name": "Father (Otec) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T09:46:43.691307+00:00"
+        "planned_at": "2026-11-08T09:46:46.292637+00:00"
       }
     },
     "2227": {
@@ -137190,5 +137196,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:46:43.912569+00:00"
+  "updated_at": "2026-11-08T09:46:48.019517+00:00"
 }
