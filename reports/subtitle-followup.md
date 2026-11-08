@@ -539,6 +539,6 @@ Attach subtitles only after target processing has finished.
 | The Danish Girl SD CZ Titulky | 30913831 | https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv | Complete: Czech subtitles verified |
 | Sicario: Day of the Soldado 1080p CZ Titulky | 30914197 | https://sdilej.cz/10434507/sicario.day.of.the.soldado.2018.1080p.webrip.hevc.x265.cz.titulky.mkv | Complete: Czech subtitles verified |
 | Allied 1080p CZ Titulky | 30915323 | https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
-| Creed II 1080p CZ Titulky | 30916024 | https://sdilej.cz/35402148/creed.ii.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Creed II 1080p CZ Titulky | 30916024 | https://sdilej.cz/35402148/creed.ii.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | The Devil All the Time 1080p CZ Titulky | 30916168 | https://sdilej.cz/29802496/the.devil.all.the.time.2020.1080p.h264.leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
 | Seven Years in Tibet 720p CZ Titulky | 30916436 | https://sdilej.cz/6622841/sedm-let-v-tibetu-seven-years-in-tibet-1997-.bluray.h264.dts-s24-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
