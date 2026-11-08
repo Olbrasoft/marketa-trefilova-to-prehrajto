@@ -27467,13 +27467,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-08T17:59:24.816712+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-08T18:30:53.689086+00:00"
         },
         {
@@ -27482,6 +27475,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-08T19:01:30.558771+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:32:59.428618+00:00"
         }
       ],
       "last_plan": {
@@ -72215,7 +72215,7 @@
       "last_plan": {
         "source_id": "27386940",
         "display_name": "A Midnight Clear 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:01:32.150781+00:00"
+        "planned_at": "2026-11-08T19:32:58.362892+00:00"
       },
       "previous_target_id": "30871996",
       "prepared": {
@@ -72223,6 +72223,12 @@
         "size_bytes": 27600000000,
         "prepared_at": "2026-11-06T22:43:18.167527+00:00",
         "relay_source_id": "27386940"
+      },
+      "claim": {
+        "worker_id": "df18599077764ca887ed972d16eb1dac-shard-0",
+        "claimed_at": "2026-11-08T19:32:58.917042+00:00",
+        "lease_expires_at": "2026-11-09T01:32:58.917042+00:00",
+        "run_id": "42499495816"
       }
     },
     "11683": {
@@ -87879,7 +87885,7 @@
       "last_plan": {
         "source_id": "34648747",
         "display_name": "Lost in Starlight (이 별에 필요한) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:32:56.636466+00:00"
+        "planned_at": "2026-11-08T19:32:58.592281+00:00"
       }
     },
     "18096": {
@@ -143662,5 +143668,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:32:56.636483+00:00"
+  "updated_at": "2026-11-08T19:32:59.428633+00:00"
 }
