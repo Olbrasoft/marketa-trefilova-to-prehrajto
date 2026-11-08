@@ -88873,17 +88873,19 @@
       }
     },
     "21839": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32695912",
+          "target_video_id": "30925253",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:25:53.846031+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32695912",
         "display_name": "The Last Adventure 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:16:07.892589+00:00"
-      },
-      "claim": {
-        "worker_id": "d16d6fb3a7ce478ebadd8db2d1ed6a1a-shard-0",
-        "claimed_at": "2026-11-08T20:16:08.212224+00:00",
-        "lease_expires_at": "2026-11-09T02:16:08.212224+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925253",
       "prepared": {
@@ -144767,5 +144769,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:25:04.166491+00:00"
+  "updated_at": "2026-11-08T20:25:53.846047+00:00"
 }
