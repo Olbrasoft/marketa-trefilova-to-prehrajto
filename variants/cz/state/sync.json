@@ -81502,13 +81502,6 @@
           "source_id": "32457622",
           "target_video_id": "30903267",
           "permanent": false,
-          "attempted_at": "2026-11-08T02:15:41.821073+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32457622",
-          "target_video_id": "30903267",
-          "permanent": false,
           "attempted_at": "2026-11-08T04:24:45.836328+00:00"
         },
         {
@@ -81517,12 +81510,19 @@
           "target_video_id": "30903267",
           "permanent": false,
           "attempted_at": "2026-11-08T05:00:19.322281+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32457622",
+          "target_video_id": "30903267",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:33:11.020985+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32457622",
         "display_name": "Christmas with Holly 1080p CZ Dabing",
-        "planned_at": "2026-11-08T05:00:17.586464+00:00"
+        "planned_at": "2026-11-08T05:33:09.337477+00:00"
       },
       "previous_target_id": "30903267",
       "prepared": {
@@ -82115,11 +82115,22 @@
       "last_plan": {
         "source_id": "31224974",
         "display_name": "Mansfield Park 1080p CZ Dabing",
-        "planned_at": "2026-11-08T05:31:26.174155+00:00"
+        "planned_at": "2026-11-08T05:33:09.486735+00:00"
+      },
+      "claim": {
+        "worker_id": "cd7fa10215484188bc5e35b147cd8576-shard-0",
+        "claimed_at": "2026-11-08T05:33:09.833470+00:00",
+        "lease_expires_at": "2026-11-08T11:33:09.833470+00:00",
+        "run_id": "42442579006"
       }
     },
     "2279": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29493194",
+        "display_name": "Rose Island (L'incredibile storia dell'Isola delle Rose) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T05:33:09.563493+00:00"
+      }
     },
     "32603": {
       "attempts": []
@@ -135525,5 +135536,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:33:07.322478+00:00"
+  "updated_at": "2026-11-08T05:33:11.021000+00:00"
 }
