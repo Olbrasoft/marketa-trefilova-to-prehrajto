@@ -29969,17 +29969,19 @@
       "attempts": []
     },
     "22722": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30088993",
+          "target_video_id": "30927761",
+          "permanent": false,
+          "attempted_at": "2026-11-08T23:36:14.531392+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30088993",
         "display_name": "One Deadly Summer 720p CZ Titulky",
         "planned_at": "2026-11-08T23:28:39.093009+00:00"
-      },
-      "claim": {
-        "worker_id": "52770c0a645c4623b0fb56e1cb3dfdc3-shard-0",
-        "claimed_at": "2026-11-08T23:28:39.180161+00:00",
-        "lease_expires_at": "2026-11-09T05:28:39.180161+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30927761",
       "prepared": {
@@ -90228,5 +90230,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T23:33:06.288079+00:00"
+  "updated_at": "2026-11-08T23:36:14.531411+00:00"
 }
