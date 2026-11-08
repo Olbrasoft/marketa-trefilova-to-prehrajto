@@ -28931,13 +28931,6 @@
           "source_id": "26168393",
           "target_video_id": "30721201",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:51:35.357401+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168393",
-          "target_video_id": "30721201",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:23:13.948707+00:00"
         },
         {
@@ -28946,6 +28939,13 @@
           "target_video_id": "30721201",
           "permanent": false,
           "attempted_at": "2026-11-08T00:54:17.802125+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168393",
+          "target_video_id": "30721201",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:31:20.299553+00:00"
         }
       ],
       "last_plan": {
@@ -28959,12 +28959,6 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
-      },
-      "claim": {
-        "worker_id": "d79d662d90b542598e4ee0326cdf7d22-shard-0",
-        "claimed_at": "2026-11-08T01:31:13.981614+00:00",
-        "lease_expires_at": "2026-11-08T07:31:13.981614+00:00",
-        "run_id": "42420247810"
       }
     },
     "23584": {
@@ -29908,7 +29902,7 @@
       "last_plan": {
         "source_id": "34850732",
         "display_name": "The Mauritanian 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:54:16.222820+00:00"
+        "planned_at": "2026-11-08T01:31:19.690586+00:00"
       },
       "previous_target_id": "30723078",
       "prepared": {
@@ -29916,6 +29910,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-02T09:31:48.716182+00:00",
         "relay_source_id": "34850732"
+      },
+      "claim": {
+        "worker_id": "2ab4296aae4d48b283808ed3f9c599d4-shard-0",
+        "claimed_at": "2026-11-08T01:31:20.060091+00:00",
+        "lease_expires_at": "2026-11-08T07:31:20.060091+00:00",
+        "run_id": "42420247810"
       }
     },
     "888": {
@@ -81512,7 +81512,7 @@
       "last_plan": {
         "source_id": "31172824",
         "display_name": "Two Mules for Sister Sara 1080p CZ Dabing",
-        "planned_at": "2026-11-08T01:31:13.759740+00:00"
+        "planned_at": "2026-11-08T01:31:19.844432+00:00"
       }
     },
     "22214": {
@@ -134142,5 +134142,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:31:14.298915+00:00"
+  "updated_at": "2026-11-08T01:31:20.299574+00:00"
 }
