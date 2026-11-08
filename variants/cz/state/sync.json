@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-08T11:22:28.244285+00:00"
+        "planned_at": "2026-11-08T12:00:45.143558+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "f0cf35bbab8344d8aa1261c207f051f8-shard-0",
+        "claimed_at": "2026-11-08T12:00:45.728449+00:00",
+        "lease_expires_at": "2026-11-08T18:00:45.728449+00:00",
+        "run_id": "42462687727"
       }
     },
     "29922": {
@@ -83582,17 +83588,19 @@
       }
     },
     "11523": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33664355",
+          "target_video_id": "30916291",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:01:58.676270+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33664355",
         "display_name": "Wheels on Meals (快餐車) 4K CZ Dabing",
         "planned_at": "2026-11-08T11:41:48.069529+00:00"
-      },
-      "claim": {
-        "worker_id": "d00caa4b3f0c4fefa88bf961ed4aca19-shard-0",
-        "claimed_at": "2026-11-08T11:41:48.448104+00:00",
-        "lease_expires_at": "2026-11-08T17:41:48.448104+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30916291",
       "prepared": {
@@ -83619,7 +83627,7 @@
       "last_plan": {
         "source_id": "33849295",
         "display_name": "Mrs Henderson Presents (Mrs. Henderson Presents) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T12:00:40.861439+00:00"
+        "planned_at": "2026-11-08T12:00:45.400022+00:00"
       }
     },
     "1882": {
@@ -138280,5 +138288,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:00:42.471350+00:00"
+  "updated_at": "2026-11-08T12:01:58.676284+00:00"
 }
