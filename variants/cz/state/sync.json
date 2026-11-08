@@ -81906,17 +81906,19 @@
       "attempts": []
     },
     "2172": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32874120",
+          "target_video_id": "30908338",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:07:44.885799+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32874120",
         "display_name": "The Boys in the Boat 1080p CZ Dabing",
         "planned_at": "2026-11-08T05:00:38.993791+00:00"
-      },
-      "claim": {
-        "worker_id": "26b61b8d0b37485690edb295a434b60e-shard-0",
-        "claimed_at": "2026-11-08T05:00:39.196003+00:00",
-        "lease_expires_at": "2026-11-08T11:00:39.196003+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30908338",
       "prepared": {
@@ -135153,5 +135155,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:01:55.832872+00:00"
+  "updated_at": "2026-11-08T05:07:44.885817+00:00"
 }
