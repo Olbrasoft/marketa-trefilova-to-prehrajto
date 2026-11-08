@@ -85681,17 +85681,19 @@
       }
     },
     "11391": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34968792",
+          "target_video_id": "30922746",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:15:52.129292+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34968792",
         "display_name": "The Looney Looney Looney Bugs Bunny Movie (The Looney, Looney, Looney Bugs Bunny Movie) 1080p CZ Dabing",
         "planned_at": "2026-11-08T17:10:25.623423+00:00"
-      },
-      "claim": {
-        "worker_id": "936d34d0874a441494b3489589c0bf1b-shard-0",
-        "claimed_at": "2026-11-08T17:10:25.913150+00:00",
-        "lease_expires_at": "2026-11-08T23:10:25.913150+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922746",
       "prepared": {
@@ -141205,5 +141207,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:13:21.605817+00:00"
+  "updated_at": "2026-11-08T17:15:52.129311+00:00"
 }
