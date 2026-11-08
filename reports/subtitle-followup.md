@@ -547,3 +547,4 @@ Attach subtitles only after target processing has finished.
 | Flags of Our Fathers 1080p CZ Titulky | 30919505 | https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Let Me In 1080p CZ Titulky | 30919516 | https://sdilej.cz/35148588/let.me.in.2010.1080p.bluray.dl.ac3.x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Drama 4K CZ Titulky | 30920101 | https://sdilej.cz/34716958/the-drama-2026-2160p-webrip-dv-hdr10-ddp5.1-atmos-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Warfare 1440p CZ Titulky | 30920638 | https://sdilej.cz/31269211/warfare-2025-4k.mkv | Extract Czech track from exact source after processing |
