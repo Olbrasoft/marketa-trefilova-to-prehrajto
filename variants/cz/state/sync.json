@@ -87317,17 +87317,19 @@
       }
     },
     "1924": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29292719",
+          "reason": "Source detail has no authenticated download link; source_id=29292719",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:03:04.329920+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29292719",
         "display_name": "Leave No Traces (Żeby nie było śladów) 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:03:01.048576+00:00"
-      },
-      "claim": {
-        "worker_id": "37eda53dcf3642eb9e9578fd9eca0395-shard-0",
-        "claimed_at": "2026-11-08T19:03:01.378916+00:00",
-        "lease_expires_at": "2026-11-09T01:03:01.378916+00:00",
-        "run_id": "42499495816"
       }
     },
     "16814": {
@@ -142921,5 +142923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:03:03.033259+00:00"
+  "updated_at": "2026-11-08T19:03:04.329938+00:00"
 }
