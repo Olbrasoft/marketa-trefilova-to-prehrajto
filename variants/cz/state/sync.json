@@ -87989,17 +87989,19 @@
       "attempts": []
     },
     "35388": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23029292",
+          "target_video_id": "30924873",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:43:12.725641+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23029292",
         "display_name": "Mogadischu SD CZ Dabing",
         "planned_at": "2026-11-08T19:40:24.453271+00:00"
-      },
-      "claim": {
-        "worker_id": "778de1431fa4479aaf5fc1c7df109bd8-shard-0",
-        "claimed_at": "2026-11-08T19:40:24.761738+00:00",
-        "lease_expires_at": "2026-11-09T01:40:24.761738+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924873",
       "prepared": {
@@ -143765,5 +143767,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:43:07.346703+00:00"
+  "updated_at": "2026-11-08T19:43:12.725659+00:00"
 }
