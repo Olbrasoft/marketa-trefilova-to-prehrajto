@@ -29156,17 +29156,19 @@
       "attempts": []
     },
     "34966": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716958",
+          "target_video_id": "30920101",
+          "permanent": false,
+          "attempted_at": "2026-11-08T15:16:51.475064+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716958",
         "display_name": "The Drama 4K CZ Titulky",
         "planned_at": "2026-11-08T14:59:02.204334+00:00"
-      },
-      "claim": {
-        "worker_id": "d65df84e498844a4a3bf2415561688b2-shard-0",
-        "claimed_at": "2026-11-08T14:59:04.000824+00:00",
-        "lease_expires_at": "2026-11-08T20:59:04.000824+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30920101",
       "prepared": {
@@ -87639,5 +87641,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T15:11:27.648903+00:00"
+  "updated_at": "2026-11-08T15:16:51.475084+00:00"
 }
