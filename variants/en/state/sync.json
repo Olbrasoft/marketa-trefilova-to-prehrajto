@@ -27745,17 +27745,19 @@
       "attempts": []
     },
     "1721": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26500415",
+          "target_video_id": "30903901",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:42:32.534165+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26500415",
         "display_name": "The Menu 720p CZ Titulky",
         "planned_at": "2026-11-08T01:35:06.766324+00:00"
-      },
-      "claim": {
-        "worker_id": "30b5f418accd4c808caf3f8db32a4b3d-shard-0",
-        "claimed_at": "2026-11-08T01:35:06.810773+00:00",
-        "lease_expires_at": "2026-11-08T07:35:06.810773+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30903901",
       "prepared": {
@@ -83411,5 +83413,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:35:10.754742+00:00"
+  "updated_at": "2026-11-08T01:42:32.534184+00:00"
 }
