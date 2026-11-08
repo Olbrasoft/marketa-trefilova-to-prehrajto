@@ -534,3 +534,4 @@ Attach subtitles only after target processing has finished.
 | Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky | 30912287 | https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
 | Spaceballs 1080p CZ Titulky | 30912425 | https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv | Extract Czech track from exact source after processing |
 | Talk to Me 4K CZ Titulky | 30912885 | https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv | Extract Czech track from exact source after processing |
+| Melancholia (2011) [ID 27275] 1080p CZ Titulky | 30913403 | https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv | Extract Czech track from exact source after processing |
