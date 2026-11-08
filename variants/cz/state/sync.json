@@ -89496,17 +89496,19 @@
       "attempts": []
     },
     "2255": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21236888",
+          "target_video_id": "30925623",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:51:07.185991+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21236888",
         "display_name": "The Big Hit (Un triomphe) (2020) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:47:29.224387+00:00"
-      },
-      "claim": {
-        "worker_id": "f24bca40be774dc393c10e290aeffa85-shard-0",
-        "claimed_at": "2026-11-08T20:47:29.824178+00:00",
-        "lease_expires_at": "2026-11-09T02:47:29.824178+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925623",
       "prepared": {
@@ -145255,5 +145257,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:50:31.684662+00:00"
+  "updated_at": "2026-11-08T20:51:07.186009+00:00"
 }
