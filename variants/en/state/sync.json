@@ -29305,17 +29305,19 @@
       "attempts": []
     },
     "2118": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30970326",
+          "target_video_id": "30921833",
+          "permanent": false,
+          "attempted_at": "2026-11-08T16:39:16.705120+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30970326",
         "display_name": "Audition (オーディション) (1999) 1080p CZ Titulky",
         "planned_at": "2026-11-08T16:23:56.584226+00:00"
-      },
-      "claim": {
-        "worker_id": "58e38c17c7f549cea1a55bcd545a1ff8-shard-0",
-        "claimed_at": "2026-11-08T16:23:58.617511+00:00",
-        "lease_expires_at": "2026-11-08T22:23:58.617511+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30921833",
       "prepared": {
@@ -88124,5 +88126,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T16:24:03.662651+00:00"
+  "updated_at": "2026-11-08T16:39:16.705140+00:00"
 }
