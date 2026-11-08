@@ -537,3 +537,4 @@ Attach subtitles only after target processing has finished.
 | Melancholia (2011) [ID 27275] 1080p CZ Titulky | 30913403 | https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv | Extract Czech track from exact source after processing |
 | Babylon 4K CZ Titulky | 30913832 | https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | The Danish Girl SD CZ Titulky | 30913831 | https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv | Extract Czech track from exact source after processing |
+| Sicario: Day of the Soldado 1080p CZ Titulky | 30914197 | https://sdilej.cz/10434507/sicario.day.of.the.soldado.2018.1080p.webrip.hevc.x265.cz.titulky.mkv | Extract Czech track from exact source after processing |
