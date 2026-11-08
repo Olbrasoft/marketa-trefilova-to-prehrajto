@@ -6947,13 +6947,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:19:52.596669+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-07T23:51:25.569273+00:00"
         },
         {
@@ -6962,6 +6955,13 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-08T00:23:00.897182+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:54:06.579847+00:00"
         }
       ],
       "last_plan": {
@@ -6975,12 +6975,6 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
-      },
-      "claim": {
-        "worker_id": "9cf0b0a21e494128a942ac06cdc96dfa-shard-0",
-        "claimed_at": "2026-11-08T00:54:04.583947+00:00",
-        "lease_expires_at": "2026-11-08T06:54:04.583947+00:00",
-        "run_id": "42420247810"
       }
     },
     "321": {
@@ -21674,7 +21668,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:23:02.370682+00:00"
+        "planned_at": "2026-11-08T00:54:06.112220+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21682,6 +21676,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "b4ac52c9a8604222809424effdcdb661-shard-0",
+        "claimed_at": "2026-11-08T00:54:06.477784+00:00",
+        "lease_expires_at": "2026-11-08T06:54:06.477784+00:00",
+        "run_id": "42420247810"
       }
     },
     "677": {
@@ -81275,7 +81275,7 @@
       "last_plan": {
         "source_id": "34334619",
         "display_name": "Dragon: The Bruce Lee Story 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:54:04.392274+00:00"
+        "planned_at": "2026-11-08T00:54:06.257823+00:00"
       }
     },
     "13791": {
@@ -133707,5 +133707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:54:04.726896+00:00"
+  "updated_at": "2026-11-08T00:54:06.579870+00:00"
 }
