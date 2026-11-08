@@ -86527,17 +86527,19 @@
       "attempts": []
     },
     "32983": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29088844",
+          "target_video_id": "30923762",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:23:14.990147+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29088844",
         "display_name": "The Fugitive Kind 1080p CZ Dabing",
         "planned_at": "2026-11-08T18:17:56.394160+00:00"
-      },
-      "claim": {
-        "worker_id": "afbd92658d7b4c2798ceea62de68b86d-shard-0",
-        "claimed_at": "2026-11-08T18:17:56.675507+00:00",
-        "lease_expires_at": "2026-11-09T00:17:56.675507+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923762",
       "prepared": {
@@ -142370,5 +142372,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:21:52.996848+00:00"
+  "updated_at": "2026-11-08T18:23:14.990154+00:00"
 }
