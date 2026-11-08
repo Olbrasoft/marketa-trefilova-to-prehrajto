@@ -535,7 +535,7 @@ Attach subtitles only after target processing has finished.
 | Spaceballs 1080p CZ Titulky | 30912425 | https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv | Complete: Czech subtitles verified |
 | Talk to Me 4K CZ Titulky | 30912885 | https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv | Extract Czech track from exact source after processing |
 | Melancholia (2011) [ID 27275] 1080p CZ Titulky | 30913403 | https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv | Complete: Czech subtitles verified |
-| Babylon 4K CZ Titulky | 30913832 | https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
+| Babylon 4K CZ Titulky | 30913832 | https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | The Danish Girl SD CZ Titulky | 30913831 | https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv | Complete: Czech subtitles verified |
 | Sicario: Day of the Soldado 1080p CZ Titulky | 30914197 | https://sdilej.cz/10434507/sicario.day.of.the.soldado.2018.1080p.webrip.hevc.x265.cz.titulky.mkv | Complete: Czech subtitles verified |
 | Allied 1080p CZ Titulky | 30915323 | https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
