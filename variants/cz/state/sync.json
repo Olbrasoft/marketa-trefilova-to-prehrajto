@@ -88559,17 +88559,19 @@
       }
     },
     "1647": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32801425",
+          "target_video_id": "30925111",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:07:27.800272+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32801425",
         "display_name": "The Princess with the Golden Star (Princezna se zlatou hvězdou) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:05:22.524674+00:00"
-      },
-      "claim": {
-        "worker_id": "8de4b096dd224c5ca711cca05a15817a-shard-0",
-        "claimed_at": "2026-11-08T20:05:23.017190+00:00",
-        "lease_expires_at": "2026-11-09T02:05:23.017190+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925111",
       "prepared": {
@@ -144242,5 +144244,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:06:00.235500+00:00"
+  "updated_at": "2026-11-08T20:07:27.800289+00:00"
 }
