@@ -91060,17 +91060,19 @@
       }
     },
     "15675": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30852570",
+          "target_video_id": "30926921",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:36:41.517000+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30852570",
         "display_name": "Ernest and Celestine: A Trip to Gibberitia (Ernest et Célestine : Le Voyage en Charabie) 1080p CZ Dabing",
         "planned_at": "2026-11-08T22:28:28.486159+00:00"
-      },
-      "claim": {
-        "worker_id": "7d5f0579dec446d78e9f7666df877e18-shard-0",
-        "claimed_at": "2026-11-08T22:28:28.785320+00:00",
-        "lease_expires_at": "2026-11-09T04:28:28.785320+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926921",
       "prepared": {
@@ -146989,5 +146991,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:32:04.649054+00:00"
+  "updated_at": "2026-11-08T22:36:41.517016+00:00"
 }
