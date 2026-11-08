@@ -28650,17 +28650,19 @@
       }
     },
     "1883": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25207906",
+          "target_video_id": "30913832",
+          "permanent": false,
+          "attempted_at": "2026-11-08T11:06:03.595740+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25207906",
         "display_name": "Babylon 4K CZ Titulky",
         "planned_at": "2026-11-08T09:48:58.790259+00:00"
-      },
-      "claim": {
-        "worker_id": "98a9bbc4fdc1499c9147391708ff3a10-shard-0",
-        "claimed_at": "2026-11-08T09:48:58.989707+00:00",
-        "lease_expires_at": "2026-11-08T15:48:58.989707+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30913832",
       "prepared": {
@@ -86318,5 +86320,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:56:18.148021+00:00"
+  "updated_at": "2026-11-08T11:06:03.595756+00:00"
 }
