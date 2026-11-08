@@ -83197,17 +83197,19 @@
       "attempts": []
     },
     "23242": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33623366",
+          "target_video_id": "30915375",
+          "permanent": false,
+          "attempted_at": "2026-11-08T11:03:11.932815+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33623366",
         "display_name": "High Heels SD CZ Dabing",
         "planned_at": "2026-11-08T10:58:46.766126+00:00"
-      },
-      "claim": {
-        "worker_id": "7eb5d18bdc8a48baa94fdfa399800178-shard-0",
-        "claimed_at": "2026-11-08T10:58:47.115363+00:00",
-        "lease_expires_at": "2026-11-08T16:58:47.115363+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30915375",
       "prepared": {
@@ -137692,5 +137694,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:58:50.827061+00:00"
+  "updated_at": "2026-11-08T11:03:11.932831+00:00"
 }
