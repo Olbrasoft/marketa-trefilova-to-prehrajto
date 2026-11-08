@@ -82113,13 +82113,6 @@
           "source_id": "34668514",
           "target_video_id": "30908812",
           "permanent": false,
-          "attempted_at": "2026-11-08T21:11:18.273133+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34668514",
-          "target_video_id": "30908812",
-          "permanent": false,
           "attempted_at": "2026-11-08T21:42:11.198084+00:00"
         },
         {
@@ -82128,6 +82121,13 @@
           "target_video_id": "30908812",
           "permanent": false,
           "attempted_at": "2026-11-08T22:13:01.720755+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668514",
+          "target_video_id": "30908812",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:52:13.309471+00:00"
         }
       ],
       "last_plan": {
@@ -82141,12 +82141,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-08T05:26:41.175531+00:00",
         "relay_source_id": "34668514"
-      },
-      "claim": {
-        "worker_id": "782e2825c7874a2fa487f084ff94e0e4-shard-0",
-        "claimed_at": "2026-11-08T22:52:09.802637+00:00",
-        "lease_expires_at": "2026-11-09T04:52:09.802637+00:00",
-        "run_id": "42519750852"
       }
     },
     "23317": {
@@ -83516,7 +83510,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:13:03.465546+00:00"
+        "planned_at": "2026-11-08T22:52:12.737714+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -83524,6 +83518,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "f499563ecc774851a4f4df949731c01f-shard-0",
+        "claimed_at": "2026-11-08T22:52:13.437295+00:00",
+        "lease_expires_at": "2026-11-09T04:52:13.437295+00:00",
+        "run_id": "42519750852"
       }
     },
     "1954": {
@@ -91192,7 +91192,7 @@
       "last_plan": {
         "source_id": "33770386",
         "display_name": "Ted 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:52:09.497625+00:00"
+        "planned_at": "2026-11-08T22:52:12.961922+00:00"
       }
     },
     "2760": {
@@ -147074,5 +147074,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:52:10.872061+00:00"
+  "updated_at": "2026-11-08T22:52:13.437316+00:00"
 }
