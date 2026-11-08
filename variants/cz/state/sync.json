@@ -83907,11 +83907,20 @@
       "attempts": []
     },
     "24753": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "5631998",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": null,
+          "attempted_at": "2026-11-08T12:44:50.129921+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5631998",
         "display_name": "Owning Mahowny SD CZ Dabing",
-        "planned_at": "2026-11-08T12:44:41.998244+00:00"
+        "planned_at": "2026-11-08T12:44:47.061260+00:00"
       }
     },
     "22144": {
@@ -83925,7 +83934,13 @@
       "last_plan": {
         "source_id": "30732810",
         "display_name": "Two Lives SD CZ Dabing",
-        "planned_at": "2026-11-08T12:40:10.931483+00:00"
+        "planned_at": "2026-11-08T12:44:47.196308+00:00"
+      },
+      "claim": {
+        "worker_id": "bee6dad0d722427cafd2504e9a3a5c30-shard-0",
+        "claimed_at": "2026-11-08T12:44:47.635722+00:00",
+        "lease_expires_at": "2026-11-08T18:44:47.635722+00:00",
+        "run_id": "42480114124"
       }
     },
     "2216": {
@@ -138802,5 +138817,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:44:43.363116+00:00"
+  "updated_at": "2026-11-08T12:44:50.129940+00:00"
 }
