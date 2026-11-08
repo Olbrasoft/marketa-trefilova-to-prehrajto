@@ -524,3 +524,4 @@ Attach subtitles only after target processing has finished.
 | Elf 1080p CZ Titulky | 30907573 | https://sdilej.cz/34457540/eli.mkv | Extract Czech track from exact source after processing |
 | Dredd 1080p CZ Titulky | 30908332 | https://sdilej.cz/30058933/dredd-2012-cz-sk-en.mkv | Extract Czech track from exact source after processing |
 | War Dogs 1080p CZ Titulky | 30908811 | https://sdilej.cz/14774536/typci-a-zbrane-war-dogs-2016-hd-cz-titl.mkv | Extract Czech track from exact source after processing |
+| Thunderbolts* 4K CZ Titulky | 30908951 | https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
