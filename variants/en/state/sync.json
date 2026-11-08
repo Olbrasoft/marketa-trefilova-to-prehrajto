@@ -27716,7 +27716,7 @@
       "last_plan": {
         "source_id": "13584267",
         "display_name": "I, Robot 1080p CZ Titulky",
-        "planned_at": "2026-11-08T02:29:03.726942+00:00"
+        "planned_at": "2026-11-08T04:18:26.713633+00:00"
       },
       "previous_target_id": "30903487",
       "prepared": {
@@ -27724,6 +27724,12 @@
         "size_bytes": 11200000000,
         "prepared_at": "2026-11-08T01:16:41.859331+00:00",
         "relay_source_id": "13584267"
+      },
+      "claim": {
+        "worker_id": "cc6749cc6afc45988df656dd278225a1-shard-0",
+        "claimed_at": "2026-11-08T04:18:26.882755+00:00",
+        "lease_expires_at": "2026-11-08T10:18:26.882755+00:00",
+        "run_id": "42442579006"
       }
     },
     "26851": {
@@ -27744,6 +27750,13 @@
           "target_video_id": "30903877",
           "permanent": false,
           "attempted_at": "2026-11-08T02:21:02.670820+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25583722",
+          "target_video_id": "30903877",
+          "permanent": false,
+          "attempted_at": "2026-11-08T04:18:27.108469+00:00"
         }
       ],
       "last_plan": {
@@ -27757,12 +27770,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-08T01:33:25.661957+00:00",
         "relay_source_id": "25583722"
-      },
-      "claim": {
-        "worker_id": "de3f9d64305b46419bb00948169c3784-shard-0",
-        "claimed_at": "2026-11-08T04:18:23.565244+00:00",
-        "lease_expires_at": "2026-11-08T10:18:23.565244+00:00",
-        "run_id": "42442579006"
       }
     },
     "23038": {
@@ -27930,7 +27937,7 @@
       "last_plan": {
         "source_id": "23024180",
         "display_name": "Pretty Woman 1080p CZ Titulky",
-        "planned_at": "2026-11-08T04:18:23.508392+00:00"
+        "planned_at": "2026-11-08T04:18:26.823744+00:00"
       }
     },
     "2148": {
@@ -83989,5 +83996,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T04:18:23.565272+00:00"
+  "updated_at": "2026-11-08T04:18:27.108493+00:00"
 }
