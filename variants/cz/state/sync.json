@@ -83358,17 +83358,19 @@
       "attempts": []
     },
     "13807": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30659331",
+          "target_video_id": "30915784",
+          "permanent": false,
+          "attempted_at": "2026-11-08T11:20:43.569320+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30659331",
         "display_name": "Katyń 1080p CZ Dabing",
         "planned_at": "2026-11-08T11:15:53.265880+00:00"
-      },
-      "claim": {
-        "worker_id": "5ae4e9cb58674cde8aec146b09551e7d-shard-0",
-        "claimed_at": "2026-11-08T11:15:53.630862+00:00",
-        "lease_expires_at": "2026-11-08T17:15:53.630862+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30915784",
       "prepared": {
@@ -137826,5 +137828,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T11:15:56.848432+00:00"
+  "updated_at": "2026-11-08T11:20:43.569335+00:00"
 }
