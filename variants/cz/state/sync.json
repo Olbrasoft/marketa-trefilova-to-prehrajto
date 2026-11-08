@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-08T17:25:21.018568+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-08T17:57:48.185404+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-08T18:28:49.151161+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:59:30.231425+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "a7c6e7d95b534d838d42f47c078ab803-shard-0",
-        "claimed_at": "2026-11-08T18:59:27.935157+00:00",
-        "lease_expires_at": "2026-11-09T00:59:27.935157+00:00",
-        "run_id": "42499495816"
       }
     },
     "52": {
@@ -14024,7 +14018,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-08T18:28:50.590187+00:00"
+        "planned_at": "2026-11-08T18:59:29.284919+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -14032,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "538c6244ffd94e4289bc68595427bcd7-shard-0",
+        "claimed_at": "2026-11-08T18:59:30.054865+00:00",
+        "lease_expires_at": "2026-11-09T00:59:30.054865+00:00",
+        "run_id": "42499495816"
       }
     },
     "22047": {
@@ -87238,7 +87238,13 @@
       "last_plan": {
         "source_id": "32966088",
         "display_name": "That Man from Rio 4K CZ Dabing",
-        "planned_at": "2026-11-08T18:59:26.404919+00:00"
+        "planned_at": "2026-11-08T18:59:29.496386+00:00"
+      },
+      "claim": {
+        "worker_id": "41a2e34639d7464fb29397eedbf22bfe-shard-0",
+        "claimed_at": "2026-11-08T18:59:29.932271+00:00",
+        "lease_expires_at": "2026-11-09T00:59:29.932271+00:00",
+        "run_id": "42499495816"
       }
     },
     "24430": {
@@ -87246,7 +87252,7 @@
       "last_plan": {
         "source_id": "24717842",
         "display_name": "Harrison's Flowers SD CZ Dabing",
-        "planned_at": "2026-11-08T18:59:21.084310+00:00"
+        "planned_at": "2026-11-08T18:59:29.620346+00:00"
       }
     },
     "23470": {
@@ -142870,5 +142876,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:59:27.935186+00:00"
+  "updated_at": "2026-11-08T18:59:30.231444+00:00"
 }
