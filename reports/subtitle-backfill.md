@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:24:22.986121+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:24:27.258797+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
@@ -77,7 +77,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-07T16:48:55.981620+00:00 |
 | [Dredd 1080p CZ Titulky](https://prehraj.to/dredd-1080p-cz-titulky-mkv/0f3a43a177d9e280) (ID 30908332) | [Sdílej 30058933](https://sdilej.cz/30058933/dredd-2012-cz-sk-en.mkv) | target_unavailable | 2026-11-08T05:08:41.466080+00:00 |
 | [Elf 1080p CZ Titulky](https://prehraj.to/elf-1080p-cz-titulky-mkv/32f307833e0b9bfc) (ID 30907573) | [Sdílej 34457540](https://sdilej.cz/34457540/eli.mkv) | target_unavailable | 2026-11-08T04:28:18.442139+00:00 |
-| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-07T16:40:32.066449+00:00 |
+| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-08T11:24:26.346614+00:00 |
 | [Everest 1080p CZ Titulky](https://prehraj.to/everest-1080p-cz-titulky-mkv/c0cc797c7aee221d) (ID 30911174) | [Sdílej 35402213](https://sdilej.cz/35402213/everest.2015.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-08T07:39:58.650193+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-08T01:37:49.033917+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-07T16:48:42.016644+00:00 |
