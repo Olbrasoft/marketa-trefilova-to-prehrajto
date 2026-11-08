@@ -549,7 +549,7 @@ Attach subtitles only after target processing has finished.
 | The Drama 4K CZ Titulky | 30920101 | https://sdilej.cz/34716958/the-drama-2026-2160p-webrip-dv-hdr10-ddp5.1-atmos-en-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Warfare 1440p CZ Titulky | 30920638 | https://sdilej.cz/31269211/warfare-2025-4k.mkv | Extract Czech track from exact source after processing |
 | Audition (オーディション) (1999) 1080p CZ Titulky | 30921833 | https://sdilej.cz/30970326/audition-konkurz-na-smrt-japan-1999-.mkv | Complete: Czech subtitles verified |
-| In the Mouth of Madness 1080p CZ Titulky | 30922359 | https://sdilej.cz/18282391/in-the-mouth-of-madness.1994-1080p.bluray.dts.x264-dabing-cz-eng-titulky-cz.mkv | Extract Czech track from exact source after processing |
+| In the Mouth of Madness 1080p CZ Titulky | 30922359 | https://sdilej.cz/18282391/in-the-mouth-of-madness.1994-1080p.bluray.dts.x264-dabing-cz-eng-titulky-cz.mkv | Complete: Czech subtitles verified |
 | The Dead Zone 1080p CZ Titulky | 30922823 | https://sdilej.cz/34936882/the.dead.zone.1983.remastered.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Brawl in Cell Block 99 1080p CZ Titulky | 30922999 | https://sdilej.cz/11442288/brawl.in.cell.block.99.2017.1080p.bluray.10bit.hevc.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Re-Animator 1080p CZ Titulky | 30923177 | https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv | Extract Czech track from exact source after processing |
