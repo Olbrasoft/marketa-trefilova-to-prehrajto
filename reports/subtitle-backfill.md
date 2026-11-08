@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T13:00:51.121363+00:00
+Poslední aktualizace (UTC): 2026-11-08T13:00:56.397284+00:00
 
 Zkontrolováno videí: 541. Další stránka kontroly: 0.
 
@@ -102,7 +102,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-08T12:23:58.870799+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-08T12:33:59.030268+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-08T12:24:49.083139+00:00 |
-| [Wrath of Man 1080p CZ Titulky](https://prehraj.to/wrath-of-man-1080p-cz-titulky-mp4/5772790d8d34c20c) (ID 30911851) | [Sdílej 27854646](https://sdilej.cz/27854646/rozhnevany-muz.mp4) | source_unavailable | 2026-11-08T11:53:29.273367+00:00 |
+| [Wrath of Man 1080p CZ Titulky](https://prehraj.to/wrath-of-man-1080p-cz-titulky-mp4/5772790d8d34c20c) (ID 30911851) | [Sdílej 27854646](https://sdilej.cz/27854646/rozhnevany-muz.mp4) | source_unavailable | 2026-11-08T13:00:56.397175+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-08T12:23:51.433583+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
