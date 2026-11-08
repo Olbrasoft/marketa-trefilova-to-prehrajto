@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T16:03:30.428925+00:00
+Poslední aktualizace (UTC): 2026-11-08T16:03:33.976054+00:00
 
 Zkontrolováno videí: 547. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 445, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 5, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 446, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 5, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -94,7 +94,6 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-08T15:34:21.576243+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-08T15:33:34.515540+00:00 |
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-08T15:44:17.427297+00:00 |
-| [Seven Years in Tibet 720p CZ Titulky](https://prehraj.to/seven-years-in-tibet-720p-cz-titulky-mkv/ffc610ed04d1e834) (ID 30916436) | [Sdílej 6622841](https://sdilej.cz/6622841/sedm-let-v-tibetu-seven-years-in-tibet-1997-.bluray.h264.dts-s24-5.1-eng-ceske-titulky.mkv) | target_unavailable | 2026-11-08T15:02:42.847705+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-08T15:34:02.745120+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-08T15:34:14.653841+00:00 |
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-08T15:02:56.418188+00:00 |
