@@ -527,3 +527,4 @@ Attach subtitles only after target processing has finished.
 | Thunderbolts* 4K CZ Titulky | 30908951 | https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Vicky Cristina Barcelona 1080p CZ Titulky | 30909865 | https://sdilej.cz/35401907/vicky.cristina.barcelona.2008.proper.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Extract Czech track from exact source after processing |
 | Nosferatu (2024) 4K CZ Titulky | 30910097 | https://sdilej.cz/30659434/nosferatu-cz-tit-2024-2160p-by-pefto.mkv | Extract Czech track from exact source after processing |
+| Everest 1080p CZ Titulky | 30911174 | https://sdilej.cz/35402213/everest.2015.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
