@@ -22286,13 +22286,6 @@
           "source_id": "18074667",
           "target_video_id": "30692683",
           "permanent": false,
-          "attempted_at": "2026-11-08T20:02:18.564848+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074667",
-          "target_video_id": "30692683",
-          "permanent": false,
           "attempted_at": "2026-11-08T20:32:48.022999+00:00"
         },
         {
@@ -22301,12 +22294,19 @@
           "target_video_id": "30692683",
           "permanent": false,
           "attempted_at": "2026-11-08T21:08:41.280330+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074667",
+          "target_video_id": "30692683",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:39:31.561077+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-08T21:08:38.304811+00:00"
+        "planned_at": "2026-11-08T21:39:29.591002+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -90164,17 +90164,19 @@
       "attempts": []
     },
     "35498": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34908800",
+          "target_video_id": "30926284",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:39:31.728581+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34908800",
         "display_name": "Ayurveda - Art of Being (Ayurveda: Art of Being) SD CZ Dabing",
         "planned_at": "2026-11-08T21:35:35.315354+00:00"
-      },
-      "claim": {
-        "worker_id": "d688628270ef40fbb51ffc135e40f302-shard-0",
-        "claimed_at": "2026-11-08T21:35:35.586926+00:00",
-        "lease_expires_at": "2026-11-09T03:35:35.586926+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926284",
       "prepared": {
@@ -90216,7 +90218,7 @@
       "last_plan": {
         "source_id": "34571367",
         "display_name": "Liberation: The Battle of Berlin (Освобождение: Битва за Берлин) 720p CZ Dabing",
-        "planned_at": "2026-11-08T21:39:26.217901+00:00"
+        "planned_at": "2026-11-08T21:39:29.836871+00:00"
       }
     },
     "26354": {
@@ -146017,5 +146019,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:39:28.045435+00:00"
+  "updated_at": "2026-11-08T21:39:31.728615+00:00"
 }
