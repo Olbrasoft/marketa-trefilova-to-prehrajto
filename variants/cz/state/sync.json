@@ -83128,17 +83128,19 @@
       "attempts": []
     },
     "2155": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32998811",
+          "target_video_id": "30914746",
+          "permanent": false,
+          "attempted_at": "2026-11-08T10:37:37.373395+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32998811",
         "display_name": "The Closet (Le Placard) (2001) 1080p CZ Dabing",
         "planned_at": "2026-11-08T10:32:05.590170+00:00"
-      },
-      "claim": {
-        "worker_id": "01f03ce864a2424f848766ca1d48b04a-shard-0",
-        "claimed_at": "2026-11-08T10:32:06.155889+00:00",
-        "lease_expires_at": "2026-11-08T16:32:06.155889+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30914746",
       "prepared": {
@@ -137632,5 +137634,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:32:10.449478+00:00"
+  "updated_at": "2026-11-08T10:37:37.373411+00:00"
 }
