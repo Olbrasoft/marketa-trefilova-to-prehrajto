@@ -84670,17 +84670,19 @@
       }
     },
     "2220": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34481021",
+          "target_video_id": "30918971",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:23:48.559955+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34481021",
         "display_name": "The Night of the 12th (La Nuit du 12) 1080p CZ Dabing",
         "planned_at": "2026-11-08T14:03:48.532934+00:00"
-      },
-      "claim": {
-        "worker_id": "3c6e2c461e0c45608ecf728511a062ac-shard-0",
-        "claimed_at": "2026-11-08T14:03:48.833868+00:00",
-        "lease_expires_at": "2026-11-08T20:03:48.833868+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30918971",
       "prepared": {
@@ -139747,5 +139749,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:06:47.449951+00:00"
+  "updated_at": "2026-11-08T14:23:48.559978+00:00"
 }
