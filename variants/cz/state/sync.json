@@ -91354,7 +91354,20 @@
       }
     },
     "2510": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32453575",
+          "reason": "Source detail has no authenticated download link; source_id=32453575",
+          "permanent": false,
+          "attempted_at": "2026-11-08T23:05:36.307628+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32453575",
+        "display_name": "Home Alone 2: Lost in New York 4K CZ Dabing",
+        "planned_at": "2026-11-08T23:05:29.058814+00:00"
+      }
     },
     "2681": {
       "attempts": []
@@ -147217,5 +147230,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T23:05:26.723534+00:00"
+  "updated_at": "2026-11-08T23:05:36.307644+00:00"
 }
