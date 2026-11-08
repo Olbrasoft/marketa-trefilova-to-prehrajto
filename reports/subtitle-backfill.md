@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T17:52:57.168658+00:00
+Poslední aktualizace (UTC): 2026-11-08T17:53:00.820556+00:00
 
 Zkontrolováno videí: 552. Další stránka kontroly: 0.
 
@@ -73,7 +73,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 3. Důvod
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-08T17:43:41.089722+00:00 |
 | [Brawl in Cell Block 99 1080p CZ Titulky](https://prehraj.to/brawl-in-cell-block-99-1080p-cz-titulky-mkv/26718df2c00749b8) (ID 30922999) | [Sdílej 11442288](https://sdilej.cz/11442288/brawl.in.cell.block.99.2017.1080p.bluray.10bit.hevc.dts.x265-majo.mkv) | target_unavailable | 2026-11-08T17:32:23.527586+00:00 |
 | [Bring Her Back 1440p CZ Titulky](https://prehraj.to/bring-her-back-1440p-cz-titulky-mkv/3b3d7c78bef43bbb) (ID 30918667) | [Sdílej 33078076](https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv) | target_unavailable | 2026-11-08T17:02:00.515562+00:00 |
-| [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-08T16:44:29.000006+00:00 |
+| [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-08T17:53:00.820479+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-08T16:44:45.996149+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-08T17:52:53.645041+00:00 |
 | [Flags of Our Fathers 1080p CZ Titulky](https://prehraj.to/flags-of-our-fathers-1080p-cz-titulky-mkv/bd53f1d1d5663d28) (ID 30919505) | [Sdílej 34982900](https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-08T17:42:47.808738+00:00 |
