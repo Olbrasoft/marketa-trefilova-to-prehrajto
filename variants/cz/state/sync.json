@@ -45554,13 +45554,6 @@
           "source_id": "20443534",
           "target_video_id": "30871258",
           "permanent": false,
-          "attempted_at": "2026-11-08T15:48:55.259901+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20443534",
-          "target_video_id": "30871258",
-          "permanent": false,
           "attempted_at": "2026-11-08T16:20:54.602719+00:00"
         },
         {
@@ -45569,6 +45562,13 @@
           "target_video_id": "30871258",
           "permanent": false,
           "attempted_at": "2026-11-08T16:55:18.937314+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:27:47.623341+00:00"
         }
       ],
       "last_plan": {
@@ -64732,7 +64732,7 @@
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-08T16:55:20.331084+00:00"
+        "planned_at": "2026-11-08T17:27:46.364243+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -64740,6 +64740,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-05T14:15:35.875478+00:00",
         "relay_source_id": "11088676"
+      },
+      "claim": {
+        "worker_id": "aea81dbb2967443ea87b8cd42dc631c0-shard-0",
+        "claimed_at": "2026-11-08T17:27:46.952749+00:00",
+        "lease_expires_at": "2026-11-08T23:27:46.952749+00:00",
+        "run_id": "42499495816"
       }
     },
     "1582": {
@@ -85897,7 +85903,7 @@
       "last_plan": {
         "source_id": "34926163",
         "display_name": "The Taming of the Shrew (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T17:27:44.379350+00:00"
+        "planned_at": "2026-11-08T17:27:46.597265+00:00"
       }
     },
     "32358": {
@@ -141557,5 +141563,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:27:44.379366+00:00"
+  "updated_at": "2026-11-08T17:27:47.623359+00:00"
 }
