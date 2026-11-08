@@ -84791,17 +84791,19 @@
       }
     },
     "18579": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34697595",
+          "target_video_id": "30919692",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:49:44.835328+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34697595",
         "display_name": "Sly 1080p CZ Dabing",
         "planned_at": "2026-11-08T14:39:57.141873+00:00"
-      },
-      "claim": {
-        "worker_id": "7355f2b456234a3cac69557e916d49b2-shard-0",
-        "claimed_at": "2026-11-08T14:39:57.447411+00:00",
-        "lease_expires_at": "2026-11-08T20:39:57.447411+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30919692",
       "prepared": {
@@ -140075,5 +140077,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:40:01.502359+00:00"
+  "updated_at": "2026-11-08T14:49:44.835348+00:00"
 }
