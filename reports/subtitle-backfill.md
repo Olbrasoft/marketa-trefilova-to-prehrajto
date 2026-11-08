@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:02:28.060579+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:02:29.958785+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 413, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 60, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 413, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 61, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -66,6 +66,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-07T16:49:09.141849+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-07T16:48:33.653858+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-07T16:48:48.763682+00:00 |
+| [Allied 1080p CZ Titulky](https://prehraj.to/allied-1080p-cz-titulky-mkv/520bc37ffa8bcf9d) (ID 30915323) | [Sdílej 35002320](https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-08T11:02:29.958694+00:00 |
 | [Babylon 4K CZ Titulky](https://prehraj.to/babylon-4k-cz-titulky-mkv/c1760976c09b2e9e) (ID 30913832) | [Sdílej 25207906](https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T09:51:52.758023+00:00 |
 | [Basic Instinct 1080p CZ Titulky](https://prehraj.to/basic-instinct-1080p-cz-titulky-mkv/47f05f187e49cc08) (ID 30911357) | [Sdílej 23040839](https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-08T07:50:04.098041+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-07T16:39:08.330957+00:00 |
