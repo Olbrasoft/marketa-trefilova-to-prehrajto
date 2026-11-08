@@ -90504,17 +90504,19 @@
       }
     },
     "14276": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30688438",
+          "target_video_id": "30926489",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:00:33.119478+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30688438",
         "display_name": "Christmas Waltz 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:55:10.778538+00:00"
-      },
-      "claim": {
-        "worker_id": "3faf0c25e8c24e47b167fa8dfbf2f385-shard-0",
-        "claimed_at": "2026-11-08T21:55:11.070805+00:00",
-        "lease_expires_at": "2026-11-09T03:55:11.070805+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926489",
       "prepared": {
@@ -146330,5 +146332,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:58:14.691392+00:00"
+  "updated_at": "2026-11-08T22:00:33.119493+00:00"
 }
