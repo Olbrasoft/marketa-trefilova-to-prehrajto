@@ -89630,17 +89630,19 @@
       }
     },
     "10856": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29624672",
+          "target_video_id": "30925664",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:56:23.920663+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29624672",
         "display_name": "Joy House (Les Félins) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:51:08.910908+00:00"
-      },
-      "claim": {
-        "worker_id": "dd0b9791b88e49329b15ab7b5fb1cd4c-shard-0",
-        "claimed_at": "2026-11-08T20:51:09.226232+00:00",
-        "lease_expires_at": "2026-11-09T02:51:09.226232+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925664",
       "prepared": {
@@ -145277,5 +145279,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:52:34.560486+00:00"
+  "updated_at": "2026-11-08T20:56:23.920680+00:00"
 }
