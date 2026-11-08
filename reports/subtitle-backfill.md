@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:23:07.741394+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:23:16.076149+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
@@ -129,7 +129,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [War Dogs 1080p CZ Titulky](https://prehraj.to/war-dogs-1080p-cz-titulky-mkv/4774fc2baa5887cf) (ID 30908811) | [Sdílej 14774536](https://sdilej.cz/14774536/typci-a-zbrane-war-dogs-2016-hd-cz-titl.mkv) | target_unavailable | 2026-11-08T05:28:50.038320+00:00 |
 | [Wrath of Man 1080p CZ Titulky](https://prehraj.to/wrath-of-man-1080p-cz-titulky-mp4/5772790d8d34c20c) (ID 30911851) | [Sdílej 27854646](https://sdilej.cz/27854646/rozhnevany-muz.mp4) | target_unavailable | 2026-11-08T08:10:15.934202+00:00 |
 | [Yesterday, Today and Tomorrow 720p CZ Titulky](https://prehraj.to/yesterday-today-and-tomorrow-720p-cz-titulky-mkv/ef016ba8c50c1611) (ID 30898129) | [Sdílej 28474221](https://sdilej.cz/28474221/vcera-dnes-a-zitra-italie-fr-1963-vittorio-de-sica-bluray.720p.en.cz.sub.mkv) | target_unavailable | 2026-11-07T20:31:35.446305+00:00 |
-| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-07T16:39:27.158672+00:00 |
+| [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-08T11:23:15.984454+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
