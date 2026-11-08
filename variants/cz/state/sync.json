@@ -86445,13 +86445,6 @@
           "source_id": "30193071",
           "target_video_id": "30923539",
           "permanent": false,
-          "attempted_at": "2026-11-08T18:51:28.103418+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30193071",
-          "target_video_id": "30923539",
-          "permanent": false,
           "attempted_at": "2026-11-08T19:23:48.517650+00:00"
         },
         {
@@ -86460,12 +86453,19 @@
           "target_video_id": "30923539",
           "permanent": false,
           "attempted_at": "2026-11-08T19:56:15.362622+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30193071",
+          "target_video_id": "30923539",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:27:09.689046+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30193071",
         "display_name": "Pacho, hybský zbojník 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:56:13.281530+00:00"
+        "planned_at": "2026-11-08T20:27:08.028441+00:00"
       },
       "previous_target_id": "30923539",
       "prepared": {
@@ -89042,10 +89042,26 @@
       "attempts": []
     },
     "22299": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27051337",
+        "display_name": "Jack and the Beanstalk 720p CZ Dabing",
+        "planned_at": "2026-11-08T20:27:08.260629+00:00"
+      },
+      "claim": {
+        "worker_id": "a1176d71ed244be58ff6889dd7ae355d-shard-0",
+        "claimed_at": "2026-11-08T20:27:08.825548+00:00",
+        "lease_expires_at": "2026-11-09T02:27:08.825548+00:00",
+        "run_id": "42499495816"
+      }
     },
     "34035": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19111906",
+        "display_name": "The Wonderful World of Puss 'n Boots (長靴をはいた猫) 720p CZ Dabing",
+        "planned_at": "2026-11-08T20:27:08.397235+00:00"
+      }
     },
     "28788": {
       "attempts": []
@@ -144797,5 +144813,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:27:06.085578+00:00"
+  "updated_at": "2026-11-08T20:27:09.689063+00:00"
 }
