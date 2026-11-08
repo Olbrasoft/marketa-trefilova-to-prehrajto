@@ -517,3 +517,4 @@ Attach subtitles only after target processing has finished.
 | Glass Onion: A Knives Out Mystery 1080p CZ Titulky | 30903877 | https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv | Extract Czech track from exact source after processing |
 | The Menu 720p CZ Titulky | 30903901 | https://sdilej.cz/26500415/the-menu-2022-cz-sk-tit.mkv | Extract Czech track from exact source after processing |
 | Tropic Thunder 1080p CZ Titulky | 30904135 | https://sdilej.cz/34431613/tropic.thunder.2008.tc.1080p.bluray.x264.ac3-warbro.mkv | Extract Czech track from exact source after processing |
+| Mean Girls 1080p CZ Titulky | 30904668 | https://sdilej.cz/28367449/protivny-sprosty-holky-2004--tt0377092--en-sk-cs-.webdl-1080p.h265-ac3-5.1-deadinside.mkv | Extract Czech track from exact source after processing |
