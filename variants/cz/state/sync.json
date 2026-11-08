@@ -85737,17 +85737,19 @@
       }
     },
     "11020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34904647",
+          "target_video_id": "30922779",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:18:53.397335+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34904647",
         "display_name": "Four Murders Are Enough, Darling („Čtyři vraždy stačí, drahoušku“) 1080p CZ Dabing",
         "planned_at": "2026-11-08T17:13:18.048733+00:00"
-      },
-      "claim": {
-        "worker_id": "888d41593e5d4e8597525edac4682d11-shard-0",
-        "claimed_at": "2026-11-08T17:13:18.357557+00:00",
-        "lease_expires_at": "2026-11-08T23:13:18.357557+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922779",
       "prepared": {
@@ -141488,5 +141490,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:17:46.134278+00:00"
+  "updated_at": "2026-11-08T17:18:53.397353+00:00"
 }
