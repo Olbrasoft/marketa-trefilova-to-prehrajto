@@ -29069,17 +29069,19 @@
       "attempts": []
     },
     "33013": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34982900",
+          "target_video_id": "30919505",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:57:11.984582+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34982900",
         "display_name": "Flags of Our Fathers 1080p CZ Titulky",
         "planned_at": "2026-11-08T14:29:42.033642+00:00"
-      },
-      "claim": {
-        "worker_id": "1bc00f4428d54925a77ead97014fb111-shard-0",
-        "claimed_at": "2026-11-08T14:29:43.914368+00:00",
-        "lease_expires_at": "2026-11-08T20:29:43.914368+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30919505",
       "prepared": {
@@ -87610,5 +87612,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:57:10.259023+00:00"
+  "updated_at": "2026-11-08T14:57:11.984600+00:00"
 }
