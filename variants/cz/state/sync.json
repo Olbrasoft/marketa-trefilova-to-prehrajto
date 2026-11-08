@@ -37298,7 +37298,7 @@
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T20:33:22.760068+00:00"
+        "planned_at": "2026-11-08T21:09:10.049396+00:00"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -37306,6 +37306,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
+      },
+      "claim": {
+        "worker_id": "1dd46b725a09402583b81ea5cfb4ad16-shard-0",
+        "claimed_at": "2026-11-08T21:09:10.687682+00:00",
+        "lease_expires_at": "2026-11-09T03:09:10.687682+00:00",
+        "run_id": "42519750852"
       }
     },
     "35068": {
@@ -89338,17 +89344,23 @@
           "attempted_at": "2026-11-08T20:33:19.985760+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29131947",
-        "display_name": "Falcon Lake 720p CZ Dabing",
-        "planned_at": "2026-11-08T21:09:07.685798+00:00"
-      },
       "previous_target_id": "30925409",
-      "prepared": {
+      "upload": {
         "target_video_id": "30925409",
-        "size_bytes": 3826698205,
-        "prepared_at": "2026-11-08T20:30:05.857421+00:00",
-        "relay_source_id": "29131947"
+        "display_name": "Falcon Lake 720p CZ Dabing",
+        "source_id": "29131947",
+        "source_url": "https://sdilej.cz/29131947/falcon.lake.webrip.cz.en.2022.720p.mkv",
+        "source_filename": "Falcon.Lake.WEBRip.CZ.EN.2022.720p.mkv",
+        "size_bytes": 3800000000,
+        "width": 1280,
+        "height": 720,
+        "audio_language": "cs",
+        "language_probability": 0.8672311305999756,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/falcon-lake-720p-cz-dabing-mkv/086c25beef439c0b",
+        "uploaded_at": "2026-11-08T21:09:11.163746+00:00"
       }
     },
     "12550": {
@@ -89754,7 +89766,7 @@
       "last_plan": {
         "source_id": "32208455",
         "display_name": "Afterimage (Powidoki) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T21:09:07.933140+00:00"
+        "planned_at": "2026-11-08T21:09:10.265263+00:00"
       }
     },
     "16030": {
@@ -145371,5 +145383,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:09:08.268950+00:00"
+  "updated_at": "2026-11-08T21:09:11.163761+00:00"
 }
