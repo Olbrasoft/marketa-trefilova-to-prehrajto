@@ -86967,17 +86967,19 @@
       "attempts": []
     },
     "35198": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32773497",
+          "target_video_id": "30924239",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:51:25.051503+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32773497",
         "display_name": "Drums Along the Mohawk 720p CZ Dabing",
         "planned_at": "2026-11-08T18:48:47.329086+00:00"
-      },
-      "claim": {
-        "worker_id": "20e7b82a7710482c92c76e5d39d3a0f8-shard-0",
-        "claimed_at": "2026-11-08T18:48:47.650162+00:00",
-        "lease_expires_at": "2026-11-09T00:48:47.650162+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924239",
       "prepared": {
@@ -86988,7 +86990,18 @@
       }
     },
     "2358": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31771247",
+        "display_name": "A Woman in Berlin (Anonyma - Eine Frau in Berlin) SD CZ Dabing",
+        "planned_at": "2026-11-08T18:50:46.040016+00:00"
+      },
+      "claim": {
+        "worker_id": "1608f775fb044ff3beb6b24a828a6030-shard-0",
+        "claimed_at": "2026-11-08T18:50:46.319299+00:00",
+        "lease_expires_at": "2026-11-09T00:50:46.319299+00:00",
+        "run_id": "42499495816"
+      }
     },
     "13363": {
       "attempts": []
@@ -142656,5 +142669,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:50:44.243296+00:00"
+  "updated_at": "2026-11-08T18:51:25.051519+00:00"
 }
