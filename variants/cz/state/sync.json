@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-08T17:25:08.004449+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-08T17:57:39.410527+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-08T18:28:35.530923+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:59:16.402183+00:00"
         }
       ],
       "last_plan": {
@@ -18960,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-08T18:28:38.135903+00:00"
+        "planned_at": "2026-11-08T18:59:14.857642+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18968,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "2f9cc17e028940bca9c9e06b3ffaac90-shard-0",
+        "claimed_at": "2026-11-08T18:59:15.847139+00:00",
+        "lease_expires_at": "2026-11-09T00:59:15.847139+00:00",
+        "run_id": "42499495816"
       }
     },
     "29695": {
@@ -87232,7 +87238,7 @@
       "last_plan": {
         "source_id": "32966088",
         "display_name": "That Man from Rio 4K CZ Dabing",
-        "planned_at": "2026-11-08T18:59:12.495066+00:00"
+        "planned_at": "2026-11-08T18:59:15.252609+00:00"
       }
     },
     "24430": {
@@ -142859,5 +142865,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:59:12.989319+00:00"
+  "updated_at": "2026-11-08T18:59:16.402203+00:00"
 }
