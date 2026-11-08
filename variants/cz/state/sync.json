@@ -86069,17 +86069,19 @@
       }
     },
     "2250": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22365657",
+          "target_video_id": "30923126",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:41:45.293953+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22365657",
         "display_name": "Rise 1080p CZ Dabing",
         "planned_at": "2026-11-08T17:37:59.057533+00:00"
-      },
-      "claim": {
-        "worker_id": "e8d4ffb4f7664331b48d987ff4a753a5-shard-0",
-        "claimed_at": "2026-11-08T17:37:59.366958+00:00",
-        "lease_expires_at": "2026-11-08T23:37:59.366958+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923126",
       "prepared": {
@@ -141710,5 +141712,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:38:02.662518+00:00"
+  "updated_at": "2026-11-08T17:41:45.293970+00:00"
 }
