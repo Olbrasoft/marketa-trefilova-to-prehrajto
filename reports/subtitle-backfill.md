@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:23:31.929252+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:23:40.999340+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
@@ -113,7 +113,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [The Danish Girl SD CZ Titulky](https://prehraj.to/the-danish-girl-sd-cz-titulky-mkv/0cb041c3918ec941) (ID 30913831) | [Sdílej 5467007](https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv) | target_unavailable | 2026-11-08T09:51:49.356262+00:00 |
 | [The Endless Trench 1080p CZ Titulky](https://prehraj.to/the-endless-trench-1080p-cz-titulky-mkv/78bc83a0fce123e0) (ID 30901287) | [Sdílej 13066841](https://sdilej.cz/13066841/the.endless.trench.2019.1080p.cz.sub.web-dl.ddp5.1.x264.mkv) | target_unavailable | 2026-11-07T23:36:03.430576+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-08T11:22:46.072086+00:00 |
-| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-07T16:39:52.011452+00:00 |
+| [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-08T11:23:40.757319+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-08T11:23:23.580237+00:00 |
 | [The Menu 720p CZ Titulky](https://prehraj.to/the-menu-720p-cz-titulky-mkv/79ac83653e5dde32) (ID 30903901) | [Sdílej 26500415](https://sdilej.cz/26500415/the-menu-2022-cz-sk-tit.mkv) | target_unavailable | 2026-11-08T01:37:52.535708+00:00 |
 | [The Outlaws (범죄도시) 1080p CZ Titulky](https://prehraj.to/the-outlaws-1080p-cz-titulky-mkv/91871a80ef52a7ab) (ID 30893421) | [Sdílej 30716653](https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv) | target_unavailable | 2026-11-07T17:29:03.073998+00:00 |
