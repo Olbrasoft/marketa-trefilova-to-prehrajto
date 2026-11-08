@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:24:02.316846+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:24:05.947575+00:00
 
 Zkontrolováno videí: 538. Další stránka kontroly: 0.
 
@@ -85,7 +85,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 68. Důvod
 | [I, Robot 1080p CZ Titulky](https://prehraj.to/i-robot-1080p-cz-titulky-mkv/7e7a8f10df834bcc) (ID 30903487) | [Sdílej 13584267](https://sdilej.cz/13584267/ja-robot-i-robot-2004-cz-dabing-1080p-bluray-dd5.1.mkv) | target_unavailable | 2026-11-08T01:17:29.421949+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-08T11:24:02.316765+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-07T16:40:23.920868+00:00 |
-| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-07T16:40:12.956731+00:00 |
+| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-08T11:24:05.812184+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | target_unavailable | 2026-11-08T02:38:48.696924+00:00 |
 | [Mean Girls 1080p CZ Titulky](https://prehraj.to/mean-girls-1080p-cz-titulky-mkv/ec4eee87c233b497) (ID 30904668) | [Sdílej 28367449](https://sdilej.cz/28367449/protivny-sprosty-holky-2004--tt0377092--en-sk-cs-.webdl-1080p.h265-ac3-5.1-deadinside.mkv) | target_unavailable | 2026-11-08T02:18:29.363256+00:00 |
 | [Melancholia (2011) (ID 27275) 1080p CZ Titulky](https://prehraj.to/melancholia-2011-id-27275-1080p-cz-titulky-mkv/7f2a66c75f432c03) (ID 30913403) | [Sdílej 30611131](https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv) | target_unavailable | 2026-11-08T09:31:30.543098+00:00 |
