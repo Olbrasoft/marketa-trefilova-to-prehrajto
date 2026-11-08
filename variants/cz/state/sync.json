@@ -18940,13 +18940,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-08T18:28:39.677201+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-08T18:59:18.519106+00:00"
         },
         {
@@ -18955,12 +18948,19 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-08T19:30:47.270941+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:01:33.982311+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:30:45.553197+00:00"
+        "planned_at": "2026-11-08T20:01:32.137465+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -88496,14 +88496,25 @@
       "last_plan": {
         "source_id": "34871582",
         "display_name": "Morgiana 1080p CZ Dabing",
-        "planned_at": "2026-11-08T20:01:26.449346+00:00"
+        "planned_at": "2026-11-08T20:01:32.388942+00:00"
+      },
+      "claim": {
+        "worker_id": "ebad47ad59c74493b4cef911f927dde8-shard-0",
+        "claimed_at": "2026-11-08T20:01:32.950918+00:00",
+        "lease_expires_at": "2026-11-09T02:01:32.950918+00:00",
+        "run_id": "42499495816"
       }
     },
     "17730": {
       "attempts": []
     },
     "15371": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "18714751",
+        "display_name": "In the Shadows (Ve stínu) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T20:01:32.523356+00:00"
+      }
     },
     "1647": {
       "attempts": []
@@ -144153,5 +144164,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:01:29.251228+00:00"
+  "updated_at": "2026-11-08T20:01:33.982329+00:00"
 }
