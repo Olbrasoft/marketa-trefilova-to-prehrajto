@@ -89923,17 +89923,19 @@
       }
     },
     "31239": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713818",
+          "target_video_id": "30926002",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:23:46.645324+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713818",
         "display_name": "Descendant 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:17:08.043351+00:00"
-      },
-      "claim": {
-        "worker_id": "69d929d48b9a4a9b81965d3429325dc8-shard-0",
-        "claimed_at": "2026-11-08T21:17:08.335443+00:00",
-        "lease_expires_at": "2026-11-09T03:17:08.335443+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926002",
       "prepared": {
@@ -145843,5 +145845,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:23:45.192182+00:00"
+  "updated_at": "2026-11-08T21:23:46.645341+00:00"
 }
