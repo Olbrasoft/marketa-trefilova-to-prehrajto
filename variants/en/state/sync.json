@@ -11422,13 +11422,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:49:41.523381+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:21:17.932209+00:00"
         },
         {
@@ -11437,6 +11430,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-08T00:51:21.991117+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:29:29.434803+00:00"
         }
       ],
       "last_plan": {
@@ -11450,12 +11450,6 @@
         "size_bytes": 18100000000,
         "prepared_at": "2026-11-01T00:33:09.657864+00:00",
         "relay_source_id": "32388547"
-      },
-      "claim": {
-        "worker_id": "0dcb30f3020e4525a1c5c3911b89ffe3-shard-0",
-        "claimed_at": "2026-11-08T01:29:26.973483+00:00",
-        "lease_expires_at": "2026-11-08T07:29:26.973483+00:00",
-        "run_id": "42420247810"
       }
     },
     "822": {
@@ -17625,7 +17619,7 @@
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
-        "planned_at": "2026-11-08T00:51:25.341865+00:00"
+        "planned_at": "2026-11-08T01:29:29.023106+00:00"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -17633,6 +17627,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
+      },
+      "claim": {
+        "worker_id": "b3670b0a375f4960b7f4beee2ff5e4c0-shard-0",
+        "claimed_at": "2026-11-08T01:29:29.177479+00:00",
+        "lease_expires_at": "2026-11-08T07:29:29.177479+00:00",
+        "run_id": "42420247810"
       }
     },
     "24279": {
@@ -27731,7 +27731,7 @@
       "last_plan": {
         "source_id": "25583722",
         "display_name": "Glass Onion: A Knives Out Mystery 1080p CZ Titulky",
-        "planned_at": "2026-11-08T01:29:26.929329+00:00"
+        "planned_at": "2026-11-08T01:29:29.129334+00:00"
       }
     },
     "23038": {
@@ -83386,5 +83386,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:29:27.225209+00:00"
+  "updated_at": "2026-11-08T01:29:29.434823+00:00"
 }
