@@ -89978,17 +89978,19 @@
       "attempts": []
     },
     "13653": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34494033",
+          "target_video_id": "30926089",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:27:08.680746+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34494033",
         "display_name": "Dobrinya and the Dragon (Добрыня Никитич и Змей Горыныч) 720p CZ Dabing",
         "planned_at": "2026-11-08T21:23:48.620941+00:00"
-      },
-      "claim": {
-        "worker_id": "59bf2fe2f29b46b9bcb2233c858ec5db-shard-0",
-        "claimed_at": "2026-11-08T21:23:48.909706+00:00",
-        "lease_expires_at": "2026-11-09T03:23:48.909706+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926089",
       "prepared": {
@@ -145883,5 +145885,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:24:47.615964+00:00"
+  "updated_at": "2026-11-08T21:27:08.680763+00:00"
 }
