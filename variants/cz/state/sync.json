@@ -42790,13 +42790,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:20:40.442505+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-07T23:51:54.609882+00:00"
         },
         {
@@ -42805,6 +42798,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-08T00:23:40.524614+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:54:34.230339+00:00"
         }
       ],
       "last_plan": {
@@ -42818,12 +42818,6 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
-      },
-      "claim": {
-        "worker_id": "9ea237544d6a42228a94c574da7b1cc1-shard-0",
-        "claimed_at": "2026-11-08T00:54:32.017825+00:00",
-        "lease_expires_at": "2026-11-08T06:54:32.017825+00:00",
-        "run_id": "42420247810"
       }
     },
     "1395": {
@@ -57064,7 +57058,7 @@
       "last_plan": {
         "source_id": "33383467",
         "display_name": "Vanishing Point 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:23:42.037908+00:00"
+        "planned_at": "2026-11-08T00:54:33.526001+00:00"
       },
       "previous_target_id": "30785708",
       "prepared": {
@@ -57072,6 +57066,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-04T12:47:15.136003+00:00",
         "relay_source_id": "33383467"
+      },
+      "claim": {
+        "worker_id": "c8a4196d301549fcaf7a4d54aa79ba91-shard-0",
+        "claimed_at": "2026-11-08T00:54:33.880199+00:00",
+        "lease_expires_at": "2026-11-08T06:54:33.880199+00:00",
+        "run_id": "42420247810"
       }
     },
     "31733": {
@@ -81275,7 +81275,7 @@
       "last_plan": {
         "source_id": "34334619",
         "display_name": "Dragon: The Bruce Lee Story 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:54:31.828581+00:00"
+        "planned_at": "2026-11-08T00:54:33.686250+00:00"
       }
     },
     "13791": {
@@ -133707,5 +133707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:54:32.136213+00:00"
+  "updated_at": "2026-11-08T00:54:34.230361+00:00"
 }
