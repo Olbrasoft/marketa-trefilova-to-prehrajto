@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T08:40:57.960577+00:00
+Poslední aktualizace (UTC): 2026-11-08T08:40:59.652525+00:00
 
 Zkontrolováno videí: 532. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 55, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 56, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -102,6 +102,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 58. Důvod
 | [Rurouni Kenshin: The Final (Rurôni Kenshin: Sai shûshô - The Final) 1080p CZ Titulky](https://prehraj.to/rurouni-kenshin-the-final-ruroni-kenshin-sai-shusho-the-final-1080p-cz-titulky-mkv/e8a9f6e50ecbdfe0) (ID 30895943) | [Sdílej 17633321](https://sdilej.cz/17633321/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo-cz-titulky.mkv) | target_unavailable | 2026-11-07T18:20:09.186752+00:00 |
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-07T17:08:56.357878+00:00 |
 | [Snowpiercer (설국열차) 1080p CZ Titulky](https://prehraj.to/snowpiercer-1080p-cz-titulky-mkv/6e29c99d0ce5c9be) (ID 30907383) | [Sdílej 33959636](https://sdilej.cz/33959636/snowpiercer.2013.1080p.bluray.hevc.dl.ac3.x265-majo.mkv) | target_unavailable | 2026-11-08T04:18:06.378775+00:00 |
+| [Spaceballs 1080p CZ Titulky](https://prehraj.to/spaceballs-1080p-cz-titulky-mkv/4b8558c44e597f03) (ID 30912425) | [Sdílej 26848405](https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv) | target_unavailable | 2026-11-08T08:40:59.652433+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-07T16:39:43.806092+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-07T16:39:55.453156+00:00 |
 | [System Crasher (Systemsprenger) SD CZ Titulky](https://prehraj.to/system-crasher-systemsprenger-sd-cz-titulky-mp4/f454c1e9197d1145) (ID 30674476) | [Sdílej 35393610](https://sdilej.cz/35393610/narusitel-systemu-helena-zengel-albrecht-schuch-lisa-hagmeister-2019-drama-bdrip.-1080p.-cz-dabing.mp4) | source_unavailable | 2026-11-07T18:00:08.249795+00:00 |
