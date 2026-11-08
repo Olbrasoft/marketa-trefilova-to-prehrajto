@@ -88751,17 +88751,19 @@
       "attempts": []
     },
     "12160": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18062043",
+          "target_video_id": "30925221",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:16:05.913605+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18062043",
         "display_name": "The Ride (Jízda) (1994) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:13:12.702139+00:00"
-      },
-      "claim": {
-        "worker_id": "68b4e787acfe4fecb413f5c8c22039f5-shard-0",
-        "claimed_at": "2026-11-08T20:13:12.976964+00:00",
-        "lease_expires_at": "2026-11-09T02:13:12.976964+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925221",
       "prepared": {
@@ -144407,5 +144409,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:15:57.016402+00:00"
+  "updated_at": "2026-11-08T20:16:05.913622+00:00"
 }
