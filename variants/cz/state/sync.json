@@ -83792,17 +83792,19 @@
       }
     },
     "24625": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34721970",
+          "target_video_id": "30917207",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:34:28.569329+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34721970",
         "display_name": "Paid in Full 1080p CZ Dabing",
         "planned_at": "2026-11-08T12:22:33.561005+00:00"
-      },
-      "claim": {
-        "worker_id": "926350e5f6074917a49d637ec962dec7-shard-0",
-        "claimed_at": "2026-11-08T12:22:33.916258+00:00",
-        "lease_expires_at": "2026-11-08T18:22:33.916258+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30917207",
       "prepared": {
@@ -138756,5 +138758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:30:06.246639+00:00"
+  "updated_at": "2026-11-08T12:34:28.569343+00:00"
 }
