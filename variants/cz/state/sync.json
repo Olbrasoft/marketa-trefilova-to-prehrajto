@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-08T04:58:33.519458+00:00"
+        "planned_at": "2026-11-08T05:31:26.022030+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "be19b0011d5c4fc1a2ff669cdfc12975-shard-0",
+        "claimed_at": "2026-11-08T05:31:26.368947+00:00",
+        "lease_expires_at": "2026-11-08T11:31:26.368947+00:00",
+        "run_id": "42442579006"
       }
     },
     "29922": {
@@ -82082,17 +82088,19 @@
       }
     },
     "23317": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30303920",
+          "target_video_id": "30908821",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:33:04.715014+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30303920",
         "display_name": "Red Rock West 1080p CZ Dabing",
         "planned_at": "2026-11-08T05:27:11.636205+00:00"
-      },
-      "claim": {
-        "worker_id": "16698643b2444c0da8471613405c3d10-shard-0",
-        "claimed_at": "2026-11-08T05:27:11.835916+00:00",
-        "lease_expires_at": "2026-11-08T11:27:11.835916+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30908821",
       "prepared": {
@@ -82113,7 +82121,7 @@
       "last_plan": {
         "source_id": "31224974",
         "display_name": "Mansfield Park 1080p CZ Dabing",
-        "planned_at": "2026-11-08T05:31:23.315111+00:00"
+        "planned_at": "2026-11-08T05:31:26.174155+00:00"
       }
     },
     "2279": {
@@ -135523,5 +135531,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:31:24.311621+00:00"
+  "updated_at": "2026-11-08T05:33:04.715029+00:00"
 }
