@@ -29709,7 +29709,7 @@
       "last_plan": {
         "source_id": "21165095",
         "display_name": "Rudy 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:12:19.129660+00:00"
+        "planned_at": "2026-11-08T22:51:38.113903+00:00"
       },
       "previous_target_id": "30722559",
       "prepared": {
@@ -29717,6 +29717,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
+      },
+      "claim": {
+        "worker_id": "d145eb7581bb47dbaf2cfa11a8c7178c-shard-0",
+        "claimed_at": "2026-11-08T22:51:38.656352+00:00",
+        "lease_expires_at": "2026-11-09T04:51:38.656352+00:00",
+        "run_id": "42519750852"
       }
     },
     "25113": {
@@ -61122,13 +61128,6 @@
           "source_id": "27476888",
           "target_video_id": "30803427",
           "permanent": false,
-          "attempted_at": "2026-11-08T21:10:41.449492+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27476888",
-          "target_video_id": "30803427",
-          "permanent": false,
           "attempted_at": "2026-11-08T21:41:36.562297+00:00"
         },
         {
@@ -61137,6 +61136,13 @@
           "target_video_id": "30803427",
           "permanent": false,
           "attempted_at": "2026-11-08T22:12:17.560856+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27476888",
+          "target_video_id": "30803427",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:51:38.858375+00:00"
         }
       ],
       "last_plan": {
@@ -61150,12 +61156,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-05T04:07:55.290331+00:00",
         "relay_source_id": "27476888"
-      },
-      "claim": {
-        "worker_id": "53829e000040472d8d76974e044f853e-shard-0",
-        "claimed_at": "2026-11-08T22:51:36.302897+00:00",
-        "lease_expires_at": "2026-11-09T04:51:36.302897+00:00",
-        "run_id": "42519750852"
       }
     },
     "28711": {
@@ -91192,7 +91192,7 @@
       "last_plan": {
         "source_id": "33770386",
         "display_name": "Ted 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:51:35.822019+00:00"
+        "planned_at": "2026-11-08T22:51:38.347020+00:00"
       }
     },
     "2760": {
@@ -147074,5 +147074,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:51:36.302919+00:00"
+  "updated_at": "2026-11-08T22:51:38.858393+00:00"
 }
