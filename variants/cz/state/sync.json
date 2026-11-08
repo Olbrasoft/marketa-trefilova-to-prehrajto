@@ -91346,17 +91346,19 @@
       }
     },
     "2721": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8601207",
+          "target_video_id": "30927434",
+          "permanent": false,
+          "attempted_at": "2026-11-08T23:13:06.077845+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8601207",
         "display_name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe 1080p CZ Dabing",
         "planned_at": "2026-11-08T23:05:10.100990+00:00"
-      },
-      "claim": {
-        "worker_id": "41981a28d5e3451d8e64a99177dd34e0-shard-0",
-        "claimed_at": "2026-11-08T23:05:10.402872+00:00",
-        "lease_expires_at": "2026-11-09T05:05:10.402872+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30927434",
       "prepared": {
@@ -147299,5 +147301,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T23:11:44.885655+00:00"
+  "updated_at": "2026-11-08T23:13:06.077862+00:00"
 }
