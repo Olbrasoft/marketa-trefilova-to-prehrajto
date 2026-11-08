@@ -28191,17 +28191,19 @@
       "attempts": []
     },
     "19552": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35401907",
+          "target_video_id": "30909865",
+          "permanent": false,
+          "attempted_at": "2026-11-08T06:33:57.554801+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35401907",
         "display_name": "Vicky Cristina Barcelona 1080p CZ Titulky",
         "planned_at": "2026-11-08T06:28:09.109733+00:00"
-      },
-      "claim": {
-        "worker_id": "51973aed356340f3b6577bbd48111297-shard-0",
-        "claimed_at": "2026-11-08T06:28:09.163353+00:00",
-        "lease_expires_at": "2026-11-08T12:28:09.163353+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30909865",
       "prepared": {
@@ -84889,5 +84891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T06:28:12.318629+00:00"
+  "updated_at": "2026-11-08T06:33:57.554822+00:00"
 }
