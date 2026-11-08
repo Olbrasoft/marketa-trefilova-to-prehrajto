@@ -29470,17 +29470,19 @@
       }
     },
     "1957": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11442288",
+          "target_video_id": "30922999",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:37:21.042047+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11442288",
         "display_name": "Brawl in Cell Block 99 1080p CZ Titulky",
         "planned_at": "2026-11-08T17:28:41.126942+00:00"
-      },
-      "claim": {
-        "worker_id": "9ac97639d29a46ac91634f84aa3a2e9a-shard-0",
-        "claimed_at": "2026-11-08T17:28:41.494946+00:00",
-        "lease_expires_at": "2026-11-08T23:28:41.494946+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922999",
       "prepared": {
@@ -88463,5 +88465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:34:27.236192+00:00"
+  "updated_at": "2026-11-08T17:37:21.042064+00:00"
 }
