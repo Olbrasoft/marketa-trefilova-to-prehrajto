@@ -89222,17 +89222,19 @@
       }
     },
     "12550": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32263750",
+          "target_video_id": "30925458",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:37:16.819284+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32263750",
         "display_name": "Return of the Idiot (Návrat idiota) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:35:32.095731+00:00"
-      },
-      "claim": {
-        "worker_id": "bd598b9edc2741d3b999b7657801cee7-shard-0",
-        "claimed_at": "2026-11-08T20:35:33.716520+00:00",
-        "lease_expires_at": "2026-11-09T02:35:33.716520+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925458",
       "prepared": {
@@ -144989,5 +144991,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:35:38.600462+00:00"
+  "updated_at": "2026-11-08T20:37:16.819300+00:00"
 }
