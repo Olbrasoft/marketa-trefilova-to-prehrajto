@@ -11471,13 +11471,6 @@
           "source_id": "26167173",
           "target_video_id": "30682158",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:49:34.168124+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26167173",
-          "target_video_id": "30682158",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:21:09.644751+00:00"
         },
         {
@@ -11486,6 +11479,13 @@
           "target_video_id": "30682158",
           "permanent": false,
           "attempted_at": "2026-11-08T00:51:15.014757+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26167173",
+          "target_video_id": "30682158",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:29:25.018936+00:00"
         }
       ],
       "last_plan": {
@@ -11499,12 +11499,6 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
-      },
-      "claim": {
-        "worker_id": "86772c7bb4e943b4a344595ce29f35b9-shard-0",
-        "claimed_at": "2026-11-08T01:29:21.851191+00:00",
-        "lease_expires_at": "2026-11-08T07:29:21.851191+00:00",
-        "run_id": "42420247810"
       }
     },
     "834": {
@@ -14197,7 +14191,7 @@
       "last_plan": {
         "source_id": "19346570",
         "display_name": "Erin Brockovich 1080p CZ Titulky",
-        "planned_at": "2026-11-08T00:51:16.861511+00:00"
+        "planned_at": "2026-11-08T01:29:24.570411+00:00"
       },
       "previous_target_id": "30715404",
       "prepared": {
@@ -14205,6 +14199,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-02T03:41:03.364348+00:00",
         "relay_source_id": "19346570"
+      },
+      "claim": {
+        "worker_id": "84f672ec3d5c4cafb857f9f6c1997dae-shard-0",
+        "claimed_at": "2026-11-08T01:29:24.714212+00:00",
+        "lease_expires_at": "2026-11-08T07:29:24.714212+00:00",
+        "run_id": "42420247810"
       }
     },
     "880": {
@@ -27731,7 +27731,7 @@
       "last_plan": {
         "source_id": "25583722",
         "display_name": "Glass Onion: A Knives Out Mystery 1080p CZ Titulky",
-        "planned_at": "2026-11-08T01:29:21.805897+00:00"
+        "planned_at": "2026-11-08T01:29:24.668104+00:00"
       }
     },
     "23038": {
@@ -83386,5 +83386,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:29:22.606276+00:00"
+  "updated_at": "2026-11-08T01:29:25.018953+00:00"
 }
