@@ -8052,7 +8052,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:55:49.495859+00:00"
+        "planned_at": "2026-11-08T01:33:00.439456+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8060,6 +8060,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "3d6d65a4c0a7491c8094b58b92ee0d92-shard-0",
+        "claimed_at": "2026-11-08T01:33:00.911183+00:00",
+        "lease_expires_at": "2026-11-08T07:33:00.911183+00:00",
+        "run_id": "42420247810"
       }
     },
     "10690": {
@@ -19981,13 +19987,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:53:17.715907+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:25:45.288711+00:00"
         },
         {
@@ -19996,6 +19995,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-08T00:55:49.968964+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:33:00.824850+00:00"
         }
       ],
       "last_plan": {
@@ -20009,12 +20015,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
-      },
-      "claim": {
-        "worker_id": "5642c68e36ac414b88cd5d0d7bc7da4b-shard-0",
-        "claimed_at": "2026-11-08T01:32:58.720037+00:00",
-        "lease_expires_at": "2026-11-08T07:32:58.720037+00:00",
-        "run_id": "42420247810"
       }
     },
     "835": {
@@ -81525,7 +81525,7 @@
       "last_plan": {
         "source_id": "31172824",
         "display_name": "Two Mules for Sister Sara 1080p CZ Dabing",
-        "planned_at": "2026-11-08T01:32:58.488762+00:00"
+        "planned_at": "2026-11-08T01:33:00.589270+00:00"
       }
     },
     "22214": {
@@ -134155,5 +134155,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:32:58.839079+00:00"
+  "updated_at": "2026-11-08T01:33:00.911211+00:00"
 }
