@@ -86377,17 +86377,19 @@
       }
     },
     "408": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30193071",
+          "target_video_id": "30923539",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:21:07.326263+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30193071",
         "display_name": "Pacho, hybský zbojník 1080p CZ Dabing",
         "planned_at": "2026-11-08T18:07:14.673007+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b2b7f2673b4579b411cf861a998b43-shard-0",
-        "claimed_at": "2026-11-08T18:07:14.979302+00:00",
-        "lease_expires_at": "2026-11-09T00:07:14.979302+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923539",
       "prepared": {
@@ -142330,5 +142332,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:19:12.411377+00:00"
+  "updated_at": "2026-11-08T18:21:07.326280+00:00"
 }
