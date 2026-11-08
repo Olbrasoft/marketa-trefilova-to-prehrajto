@@ -83643,17 +83643,19 @@
       "attempts": []
     },
     "13502": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33849295",
+          "target_video_id": "30916862",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:13:30.270409+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33849295",
         "display_name": "Mrs Henderson Presents (Mrs. Henderson Presents) 1080p CZ Dabing",
         "planned_at": "2026-11-08T12:05:06.216529+00:00"
-      },
-      "claim": {
-        "worker_id": "0d00358004e747a0aab8daac94fde4dd-shard-0",
-        "claimed_at": "2026-11-08T12:05:06.566942+00:00",
-        "lease_expires_at": "2026-11-08T18:05:06.566942+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30916862",
       "prepared": {
@@ -138357,5 +138359,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:06:48.704788+00:00"
+  "updated_at": "2026-11-08T12:13:30.270426+00:00"
 }
