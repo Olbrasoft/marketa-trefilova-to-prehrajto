@@ -83729,17 +83729,19 @@
       }
     },
     "14379": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28184318",
+          "target_video_id": "30917050",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:21:28.670152+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28184318",
         "display_name": "Secret of the Wings 1080p CZ Dabing",
         "planned_at": "2026-11-08T12:13:46.303563+00:00"
-      },
-      "claim": {
-        "worker_id": "bf697a8c78fd48b4837465ab2583b8bd-shard-0",
-        "claimed_at": "2026-11-08T12:13:46.640028+00:00",
-        "lease_expires_at": "2026-11-08T18:13:46.640028+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30917050",
       "prepared": {
@@ -138389,5 +138391,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:13:50.290687+00:00"
+  "updated_at": "2026-11-08T12:21:28.670168+00:00"
 }
