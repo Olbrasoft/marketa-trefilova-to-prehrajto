@@ -16554,7 +16554,7 @@
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
-        "planned_at": "2026-11-08T00:51:28.572684+00:00"
+        "planned_at": "2026-11-08T01:29:31.223652+00:00"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -16562,6 +16562,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "d81b263449f54d94870908256399eb55-shard-0",
+        "claimed_at": "2026-11-08T01:29:31.378701+00:00",
+        "lease_expires_at": "2026-11-08T07:29:31.378701+00:00",
+        "run_id": "42420247810"
       }
     },
     "1209": {
@@ -17599,13 +17605,6 @@
           "source_id": "7674339",
           "target_video_id": "30763383",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:49:47.434650+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7674339",
-          "target_video_id": "30763383",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:21:20.939496+00:00"
         },
         {
@@ -17614,6 +17613,13 @@
           "target_video_id": "30763383",
           "permanent": false,
           "attempted_at": "2026-11-08T00:51:26.821170+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7674339",
+          "target_video_id": "30763383",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:29:31.535379+00:00"
         }
       ],
       "last_plan": {
@@ -17627,12 +17633,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
-      },
-      "claim": {
-        "worker_id": "b3670b0a375f4960b7f4beee2ff5e4c0-shard-0",
-        "claimed_at": "2026-11-08T01:29:29.177479+00:00",
-        "lease_expires_at": "2026-11-08T07:29:29.177479+00:00",
-        "run_id": "42420247810"
       }
     },
     "24279": {
@@ -27731,7 +27731,7 @@
       "last_plan": {
         "source_id": "25583722",
         "display_name": "Glass Onion: A Knives Out Mystery 1080p CZ Titulky",
-        "planned_at": "2026-11-08T01:29:29.129334+00:00"
+        "planned_at": "2026-11-08T01:29:31.326862+00:00"
       }
     },
     "23038": {
@@ -83386,5 +83386,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:29:29.434823+00:00"
+  "updated_at": "2026-11-08T01:29:31.535397+00:00"
 }
