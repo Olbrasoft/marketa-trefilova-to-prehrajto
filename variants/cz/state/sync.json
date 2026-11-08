@@ -83102,17 +83102,19 @@
       }
     },
     "10705": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27384885",
+          "target_video_id": "30914696",
+          "permanent": false,
+          "attempted_at": "2026-11-08T10:32:03.423527+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27384885",
         "display_name": "Rio Grande 720p CZ Dabing",
         "planned_at": "2026-11-08T10:29:33.890258+00:00"
-      },
-      "claim": {
-        "worker_id": "10d12cf1f950496dbd887ed1c641b073-shard-0",
-        "claimed_at": "2026-11-08T10:29:34.288605+00:00",
-        "lease_expires_at": "2026-11-08T16:29:34.288605+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30914696",
       "prepared": {
@@ -137612,5 +137614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:29:38.299246+00:00"
+  "updated_at": "2026-11-08T10:32:03.423545+00:00"
 }
