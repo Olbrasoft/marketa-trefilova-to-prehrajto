@@ -82664,17 +82664,19 @@
       "attempts": []
     },
     "17811": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33624086",
+          "target_video_id": "30911852",
+          "permanent": false,
+          "attempted_at": "2026-11-08T08:21:53.146664+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33624086",
         "display_name": "The 9th Company (9 rota) 1080p CZ Dabing",
         "planned_at": "2026-11-08T08:07:52.929345+00:00"
-      },
-      "claim": {
-        "worker_id": "7dd08cfdaae8480a9958e555c47d500c-shard-0",
-        "claimed_at": "2026-11-08T08:07:53.141709+00:00",
-        "lease_expires_at": "2026-11-08T14:07:53.141709+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30911852",
       "prepared": {
@@ -136498,5 +136500,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T08:19:07.100165+00:00"
+  "updated_at": "2026-11-08T08:21:53.146684+00:00"
 }
