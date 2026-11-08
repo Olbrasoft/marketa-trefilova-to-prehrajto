@@ -80922,17 +80922,19 @@
       }
     },
     "10930": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "4267898",
+          "target_video_id": "30902465",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:38:26.139357+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "4267898",
         "display_name": "The Fearless Vampire Killers 1080p CZ Dabing",
         "planned_at": "2026-11-08T00:22:43.561819+00:00"
-      },
-      "claim": {
-        "worker_id": "56b61c9f92754d099ae286f933fa8ed6-shard-0",
-        "claimed_at": "2026-11-08T00:22:43.906907+00:00",
-        "lease_expires_at": "2026-11-08T06:22:43.906907+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30902465",
       "prepared": {
@@ -133311,5 +133313,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:33:31.259976+00:00"
+  "updated_at": "2026-11-08T00:38:26.139376+00:00"
 }
