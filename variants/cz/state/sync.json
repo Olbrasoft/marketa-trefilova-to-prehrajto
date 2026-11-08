@@ -89505,17 +89505,19 @@
       }
     },
     "12570": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33708054",
+          "target_video_id": "30925626",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:49:24.968699+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33708054",
         "display_name": "Ducháček Will Fix It (Ducháček to zařídí) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:47:36.051232+00:00"
-      },
-      "claim": {
-        "worker_id": "456857ae956a4bbbb6612309c8774239-shard-0",
-        "claimed_at": "2026-11-08T20:47:36.357025+00:00",
-        "lease_expires_at": "2026-11-09T02:47:36.357025+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925626",
       "prepared": {
@@ -145203,5 +145205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:48:33.665530+00:00"
+  "updated_at": "2026-11-08T20:49:24.968715+00:00"
 }
