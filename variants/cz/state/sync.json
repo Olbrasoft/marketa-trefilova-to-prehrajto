@@ -90447,17 +90447,19 @@
       }
     },
     "12470": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34272415",
+          "target_video_id": "30926484",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:56:22.450956+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34272415",
         "display_name": "Nebeští jezdci SD CZ Dabing",
         "planned_at": "2026-11-08T21:54:07.689782+00:00"
-      },
-      "claim": {
-        "worker_id": "56d5b3cf30e94930b2e924d1021f5256-shard-0",
-        "claimed_at": "2026-11-08T21:54:08.111031+00:00",
-        "lease_expires_at": "2026-11-09T03:54:08.111031+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926484",
       "prepared": {
@@ -146264,5 +146266,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:55:15.310255+00:00"
+  "updated_at": "2026-11-08T21:56:22.450973+00:00"
 }
