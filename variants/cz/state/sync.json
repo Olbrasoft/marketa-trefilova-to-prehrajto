@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "97cb1d2c886d4ec4a384469128c78510-shard-0",
+        "claimed_at": "2026-11-08T05:26:06.136913+00:00",
+        "lease_expires_at": "2026-11-08T11:26:06.136913+00:00",
+        "run_id": "42442579006"
       }
     },
     "37290": {
@@ -61122,13 +61128,6 @@
           "source_id": "27476888",
           "target_video_id": "30803427",
           "permanent": false,
-          "attempted_at": "2026-11-08T02:13:08.998693+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27476888",
-          "target_video_id": "30803427",
-          "permanent": false,
           "attempted_at": "2026-11-08T04:22:17.304213+00:00"
         },
         {
@@ -61137,12 +61136,19 @@
           "target_video_id": "30803427",
           "permanent": false,
           "attempted_at": "2026-11-08T04:53:42.071106+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27476888",
+          "target_video_id": "30803427",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:26:08.379909+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27476888",
         "display_name": "Panna a netvor 1080p CZ Dabing",
-        "planned_at": "2026-11-08T04:53:40.475433+00:00"
+        "planned_at": "2026-11-08T05:26:06.240273+00:00"
       },
       "previous_target_id": "30803427",
       "prepared": {
@@ -82055,7 +82061,7 @@
       "last_plan": {
         "source_id": "34668514",
         "display_name": "The Little Death 720p CZ Dabing",
-        "planned_at": "2026-11-08T05:26:04.401001+00:00"
+        "planned_at": "2026-11-08T05:26:06.387907+00:00"
       }
     },
     "23317": {
@@ -135477,5 +135483,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:26:04.401017+00:00"
+  "updated_at": "2026-11-08T05:26:08.379922+00:00"
 }
