@@ -557,3 +557,4 @@ Attach subtitles only after target processing has finished.
 | Missing 1080p CZ Titulky | 30924110 | https://sdilej.cz/26638719/missing-nezvestna-2023-cz-tit-1080p.mkv | Extract Czech track from exact source after processing |
 | Leave No Trace 1080p CZ Titulky | 30924237 | https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv | Extract Czech track from exact source after processing |
 | The Upside 1080p CZ Titulky | 30924343 | https://sdilej.cz/11701537/the.upside.2017.1080p.bluray.h264.aac.cz-titulky.mkv | Extract Czech track from exact source after processing |
+| First Reformed 720p CZ Titulky | 30926271 | https://sdilej.cz/16593855/first-reformed-zoufalstvi-a-nadeje-en-5.1-cz-en-tit.mkv | Extract Czech track from exact source after processing |
