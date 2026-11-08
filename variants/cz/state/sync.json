@@ -88830,17 +88830,19 @@
       }
     },
     "2202": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28418728",
+          "target_video_id": "30925252",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:22:08.427736+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28418728",
         "display_name": "Western 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:15:53.415165+00:00"
-      },
-      "claim": {
-        "worker_id": "fe148c52458645b3a8cdd395fedd7a3c-shard-0",
-        "claimed_at": "2026-11-08T20:15:53.725038+00:00",
-        "lease_expires_at": "2026-11-09T02:15:53.725038+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925252",
       "prepared": {
@@ -144707,5 +144709,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:20:28.074851+00:00"
+  "updated_at": "2026-11-08T20:22:08.427752+00:00"
 }
