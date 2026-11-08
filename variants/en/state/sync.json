@@ -28571,17 +28571,19 @@
       "attempts": []
     },
     "27275": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30611131",
+          "target_video_id": "30913403",
+          "permanent": false,
+          "attempted_at": "2026-11-08T09:40:57.230414+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30611131",
         "display_name": "Melancholia (2011) [ID 27275] 1080p CZ Titulky",
         "planned_at": "2026-11-08T09:27:11.662126+00:00"
-      },
-      "claim": {
-        "worker_id": "57e56f7b84ee4b4798958070a0806e80-shard-0",
-        "claimed_at": "2026-11-08T09:27:11.756063+00:00",
-        "lease_expires_at": "2026-11-08T15:27:11.756063+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30913403",
       "prepared": {
@@ -85905,5 +85907,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:27:14.966327+00:00"
+  "updated_at": "2026-11-08T09:40:57.230431+00:00"
 }
