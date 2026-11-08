@@ -86094,17 +86094,19 @@
       "attempts": []
     },
     "22530": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26577492",
+          "target_video_id": "30923107",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:55:56.602690+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26577492",
         "display_name": "The Young Master 1080p CZ Dabing",
         "planned_at": "2026-11-08T17:35:23.121476+00:00"
-      },
-      "claim": {
-        "worker_id": "b2ed897771484151a405f7f5f600ada0-shard-0",
-        "claimed_at": "2026-11-08T17:35:23.428685+00:00",
-        "lease_expires_at": "2026-11-08T23:35:23.428685+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923107",
       "prepared": {
@@ -141851,5 +141853,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:53:02.980723+00:00"
+  "updated_at": "2026-11-08T17:55:56.602706+00:00"
 }
