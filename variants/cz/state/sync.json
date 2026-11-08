@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:19:13.598547+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-07T23:51:01.526175+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-08T00:22:30.933491+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:53:41.014591+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "e17c3b3f3aff4cb48748e10b5bb024b6-shard-0",
-        "claimed_at": "2026-11-08T00:53:37.840704+00:00",
-        "lease_expires_at": "2026-11-08T06:53:37.840704+00:00",
-        "run_id": "42420247810"
       }
     },
     "54": {
@@ -1084,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-08T00:22:29.191825+00:00"
+        "planned_at": "2026-11-08T00:53:40.501281+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1092,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "5b59b58f9fb64e838dbd655e97e07177-shard-0",
+        "claimed_at": "2026-11-08T00:53:40.896743+00:00",
+        "lease_expires_at": "2026-11-08T06:53:40.896743+00:00",
+        "run_id": "42420247810"
       }
     },
     "52": {
@@ -81275,7 +81275,7 @@
       "last_plan": {
         "source_id": "34334619",
         "display_name": "Dragon: The Bruce Lee Story 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:53:37.631198+00:00"
+        "planned_at": "2026-11-08T00:53:40.683213+00:00"
       }
     },
     "13791": {
@@ -133707,5 +133707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:53:38.909721+00:00"
+  "updated_at": "2026-11-08T00:53:41.014613+00:00"
 }
