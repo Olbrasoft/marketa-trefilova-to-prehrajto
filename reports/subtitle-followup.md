@@ -493,18 +493,18 @@ Attach subtitles only after target processing has finished.
 | Columbus SD CZ Titulky | 30888397 | https://sdilej.cz/8304013/columbus-2017-titulky.cz.mkv | Complete: Czech subtitles verified |
 | The Express 1080p CZ Titulky | 30889083 | https://sdilej.cz/34506932/expres-2008-cz-dabing-1080p-fhd.mkv | Complete: Czech subtitles verified |
 | Blue Jay SD CZ Titulky | 30889481 | https://sdilej.cz/6727450/blue-jay-2016-titulky.cz.mkv | Complete: Czech subtitles verified |
-| The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky | 30889483 | https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv | Extract Czech track from exact source after processing |
-| The Tale 1080p CZ Titulky | 30890507 | https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
+| The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky | 30889483 | https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv | Complete: Czech subtitles verified |
+| The Tale 1080p CZ Titulky | 30890507 | https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv | Complete: Czech subtitles verified |
 | Code 3 1080p CZ Titulky | 30890643 | https://sdilej.cz/32513243/code-3-2025-cz-titulky.mkv | Complete: Czech subtitles verified |
 | 71: Into the Fire (포화 속으로) 720p CZ Titulky | 30891751 | https://sdilej.cz/19963845/71-into-the-fire-2010-kor-bdrip.720p.x264.cz.en.tit.mkv | Complete: Czech subtitles verified |
 | Batman: The Long Halloween, Part Two 1080p CZ Titulky | 30891824 | https://sdilej.cz/17778553/batman.the.long.halloween.part.two.2021.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
 | Hidden Kisses SD CZ Titulky | 30891960 | https://sdilej.cz/16922703/hidden-kisses-2016-cz-titulky.mkv | Complete: Czech subtitles verified |
-| The Outlaws (범죄도시) 1080p CZ Titulky | 30893421 | https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv | Extract Czech track from exact source after processing |
+| The Outlaws (범죄도시) 1080p CZ Titulky | 30893421 | https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv | Complete: Czech subtitles verified |
 | Paddleton 1080p CZ Titulky | 30893039 | https://sdilej.cz/11532052/paddleton-2019-cz-titulky-1080p-web-dl-dd5.1-h264-.mkv | Complete: Czech subtitles verified |
 | Rye Lane 1080p CZ Titulky | 30893092 | https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | Broken (2012) 720p CZ Titulky | 30894019 | https://sdilej.cz/31255006/rozbity-svet-2012-cztitulky.mkv | Complete: Czech subtitles verified |
 | No Game No Life: Zero (ノーゲーム・ノーライフ ゼロ) 720p CZ Titulky | 30893853 | https://sdilej.cz/10110683/-lkcsr-no-game-no-life-zero-cz-sub-.mkv | Complete: Czech subtitles verified |
-| Cactus Flower 1080p CZ Titulky | 30894652 | https://sdilej.cz/35402062/cactus-flower-1969-1-.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Cactus Flower 1080p CZ Titulky | 30894652 | https://sdilej.cz/35402062/cactus-flower-1969-1-.cz.sub.mkv | Complete: Czech subtitles verified |
 | Champions (Campeones) (2018) 1080p CZ Titulky | 30895897 | https://sdilej.cz/32204599/sampioni.mkv | Extract Czech track from exact source after processing |
 | Rurouni Kenshin: The Final (Rurôni Kenshin: Sai shûshô - The Final) 1080p CZ Titulky | 30895943 | https://sdilej.cz/17633321/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | The Yakuza 1080p CZ Titulky | 30897645 | https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv | Extract Czech track from exact source after processing |
