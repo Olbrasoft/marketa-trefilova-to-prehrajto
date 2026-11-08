@@ -555,3 +555,4 @@ Attach subtitles only after target processing has finished.
 | Re-Animator 1080p CZ Titulky | 30923177 | https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | The Apprentice 1080p CZ Titulky | 30923866 | https://sdilej.cz/30068885/the.apprentice-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Missing 1080p CZ Titulky | 30924110 | https://sdilej.cz/26638719/missing-nezvestna-2023-cz-tit-1080p.mkv | Extract Czech track from exact source after processing |
+| Leave No Trace 1080p CZ Titulky | 30924237 | https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv | Extract Czech track from exact source after processing |
