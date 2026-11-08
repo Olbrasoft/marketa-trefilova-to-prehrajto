@@ -91103,17 +91103,19 @@
       }
     },
     "2737": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31966671",
+          "target_video_id": "30926974",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:46:52.561089+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31966671",
         "display_name": "Captain America: The First Avenger 4K CZ Dabing",
         "planned_at": "2026-11-08T22:32:00.325072+00:00"
-      },
-      "claim": {
-        "worker_id": "f5e514cf8c6f480bbe537ff559ab0edb-shard-0",
-        "claimed_at": "2026-11-08T22:32:00.617439+00:00",
-        "lease_expires_at": "2026-11-09T04:32:00.617439+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926974",
       "prepared": {
@@ -147047,5 +147049,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:38:27.055241+00:00"
+  "updated_at": "2026-11-08T22:46:52.561106+00:00"
 }
