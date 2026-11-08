@@ -509,7 +509,7 @@ Attach subtitles only after target processing has finished.
 | Rurouni Kenshin: The Final (Rurôni Kenshin: Sai shûshô - The Final) 1080p CZ Titulky | 30895943 | https://sdilej.cz/17633321/rurouni.kenshin.the.final.2021.1080p.nf.web-dl.ddp5.1.x264-evo-cz-titulky.mkv | Complete: Czech subtitles verified |
 | The Yakuza 1080p CZ Titulky | 30897645 | https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv | Complete: Czech subtitles verified |
 | Yesterday, Today and Tomorrow 720p CZ Titulky | 30898129 | https://sdilej.cz/28474221/vcera-dnes-a-zitra-italie-fr-1963-vittorio-de-sica-bluray.720p.en.cz.sub.mkv | Complete: Czech subtitles verified |
-| Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky | 30898313 | https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv | Extract Czech track from exact source after processing |
+| Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky | 30898313 | https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv | Complete: Czech subtitles verified |
 | Panna a netvor 1080p CZ Titulky | 30901163 | https://sdilej.cz/33576531/panna-a-netvor-1978-fhd-cz-de.mkv | Extract Czech track from exact source after processing |
 | The Endless Trench 1080p CZ Titulky | 30901287 | https://sdilej.cz/13066841/the.endless.trench.2019.1080p.cz.sub.web-dl.ddp5.1.x264.mkv | Complete: Czech subtitles verified |
 | The Tiger: An Old Hunter's Tale (The Tiger) 1080p CZ Titulky | 30901878 | https://sdilej.cz/17612916/the.tiger.an.old.hunters.tale.2015.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
