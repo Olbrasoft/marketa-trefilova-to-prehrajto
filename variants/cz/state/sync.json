@@ -81806,17 +81806,19 @@
       }
     },
     "24620": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30407847",
+          "target_video_id": "30907809",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:01:49.515372+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30407847",
         "display_name": "The Quiet American 1080p CZ Dabing",
         "planned_at": "2026-11-08T04:35:47.104191+00:00"
-      },
-      "claim": {
-        "worker_id": "245f8851e23e425487ae05fe2961bff3-shard-0",
-        "claimed_at": "2026-11-08T04:35:47.317482+00:00",
-        "lease_expires_at": "2026-11-08T10:35:47.317482+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30907809",
       "prepared": {
@@ -135133,5 +135135,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:00:43.108267+00:00"
+  "updated_at": "2026-11-08T05:01:49.515390+00:00"
 }
