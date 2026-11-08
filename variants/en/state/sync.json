@@ -27697,17 +27697,19 @@
       "attempts": []
     },
     "2079": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13584267",
+          "target_video_id": "30903487",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:55:33.720057+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13584267",
         "display_name": "I, Robot 1080p CZ Titulky",
         "planned_at": "2026-11-08T01:16:38.258610+00:00"
-      },
-      "claim": {
-        "worker_id": "b8e8f47b6d204f2fb5de9664c9f0ea53-shard-0",
-        "claimed_at": "2026-11-08T01:16:38.306284+00:00",
-        "lease_expires_at": "2026-11-08T07:16:38.306284+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30903487",
       "prepared": {
@@ -83433,5 +83435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:47:47.031654+00:00"
+  "updated_at": "2026-11-08T01:55:33.720077+00:00"
 }
