@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T08:10:14.115869+00:00
+Poslední aktualizace (UTC): 2026-11-08T08:10:15.934272+00:00
 
 Zkontrolováno videí: 530. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 53, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 54, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -120,6 +120,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 58. Důvod
 | [Vicky Cristina Barcelona 1080p CZ Titulky](https://prehraj.to/vicky-cristina-barcelona-1080p-cz-titulky-mkv/2b48763c06259b00) (ID 30909865) | [Sdílej 35401907](https://sdilej.cz/35401907/vicky.cristina.barcelona.2008.proper.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv) | target_unavailable | 2026-11-08T06:29:25.648942+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T16:40:28.653410+00:00 |
 | [War Dogs 1080p CZ Titulky](https://prehraj.to/war-dogs-1080p-cz-titulky-mkv/4774fc2baa5887cf) (ID 30908811) | [Sdílej 14774536](https://sdilej.cz/14774536/typci-a-zbrane-war-dogs-2016-hd-cz-titl.mkv) | target_unavailable | 2026-11-08T05:28:50.038320+00:00 |
+| [Wrath of Man 1080p CZ Titulky](https://prehraj.to/wrath-of-man-1080p-cz-titulky-mp4/5772790d8d34c20c) (ID 30911851) | [Sdílej 27854646](https://sdilej.cz/27854646/rozhnevany-muz.mp4) | target_unavailable | 2026-11-08T08:10:15.934202+00:00 |
 | [Yesterday, Today and Tomorrow 720p CZ Titulky](https://prehraj.to/yesterday-today-and-tomorrow-720p-cz-titulky-mkv/ef016ba8c50c1611) (ID 30898129) | [Sdílej 28474221](https://sdilej.cz/28474221/vcera-dnes-a-zitra-italie-fr-1963-vittorio-de-sica-bluray.720p.en.cz.sub.mkv) | target_unavailable | 2026-11-07T20:31:35.446305+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-07T16:39:27.158672+00:00 |
 
