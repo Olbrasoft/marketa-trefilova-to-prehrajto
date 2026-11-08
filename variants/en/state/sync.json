@@ -28665,17 +28665,19 @@
       "attempts": []
     },
     "1997": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10434507",
+          "target_video_id": "30914197",
+          "permanent": false,
+          "attempted_at": "2026-11-08T10:09:06.180124+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10434507",
         "display_name": "Sicario: Day of the Soldado 1080p CZ Titulky",
         "planned_at": "2026-11-08T10:05:41.096699+00:00"
-      },
-      "claim": {
-        "worker_id": "5251dcbad86a4497a1d0022e74a19f44-shard-0",
-        "claimed_at": "2026-11-08T10:05:41.192217+00:00",
-        "lease_expires_at": "2026-11-08T16:05:41.192217+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30914197",
       "prepared": {
@@ -85978,5 +85980,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:05:44.354082+00:00"
+  "updated_at": "2026-11-08T10:09:06.180138+00:00"
 }
