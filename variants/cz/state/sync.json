@@ -90214,17 +90214,19 @@
       "attempts": []
     },
     "16813": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34571367",
+          "target_video_id": "30926359",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:47:01.282368+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34571367",
         "display_name": "Liberation: The Battle of Berlin (Освобождение: Битва за Берлин) 720p CZ Dabing",
         "planned_at": "2026-11-08T21:42:24.442909+00:00"
-      },
-      "claim": {
-        "worker_id": "b5d4a554875d413b9c567721a9092db6-shard-0",
-        "claimed_at": "2026-11-08T21:42:24.782202+00:00",
-        "lease_expires_at": "2026-11-09T03:42:24.782202+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926359",
       "prepared": {
@@ -146068,5 +146070,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:43:35.668570+00:00"
+  "updated_at": "2026-11-08T21:47:01.282383+00:00"
 }
