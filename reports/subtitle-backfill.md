@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T14:52:34.455094+00:00
+Poslední aktualizace (UTC): 2026-11-08T14:52:38.267661+00:00
 
 Zkontrolováno videí: 545. Další stránka kontroly: 0.
 
@@ -70,7 +70,7 @@ Kontrol: 13; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-08T14:42:34.629169+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-08T14:42:48.535313+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-08T14:32:38.597640+00:00 |
-| [Booksmart 1080p CZ Titulky](https://prehraj.to/booksmart-1080p-cz-titulky-mkv/3e472fc9a4ada9a1) (ID 30918609) | [Sdílej 11921728](https://sdilej.cz/11921728/booksmart.sprtky-to-chtej-taky.sprtky-to-chcu-tiez.2019.1080p-h264-5.1-en-cz-tit.mkv) | target_unavailable | 2026-11-08T13:51:32.842912+00:00 |
+| [Booksmart 1080p CZ Titulky](https://prehraj.to/booksmart-1080p-cz-titulky-mkv/3e472fc9a4ada9a1) (ID 30918609) | [Sdílej 11921728](https://sdilej.cz/11921728/booksmart.sprtky-to-chtej-taky.sprtky-to-chcu-tiez.2019.1080p-h264-5.1-en-cz-tit.mkv) | target_unavailable | 2026-11-08T14:52:38.267572+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-08T14:33:00.205743+00:00 |
 | [Bring Her Back 1440p CZ Titulky](https://prehraj.to/bring-her-back-1440p-cz-titulky-mkv/3b3d7c78bef43bbb) (ID 30918667) | [Sdílej 33078076](https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv) | target_unavailable | 2026-11-08T13:51:36.321453+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-08T14:42:38.145357+00:00 |
