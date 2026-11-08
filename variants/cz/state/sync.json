@@ -12786,13 +12786,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-08T19:31:10.121377+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-08T20:02:00.191344+00:00"
         },
         {
@@ -12801,6 +12794,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-08T20:32:30.075661+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:08:29.119393+00:00"
         }
       ],
       "last_plan": {
@@ -16912,7 +16912,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-08T20:32:31.530614+00:00"
+        "planned_at": "2026-11-08T21:08:27.832104+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16920,6 +16920,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "bb057825a917437a854740ddd709640f-shard-0",
+        "claimed_at": "2026-11-08T21:08:28.355282+00:00",
+        "lease_expires_at": "2026-11-09T03:08:28.355282+00:00",
+        "run_id": "42519750852"
       }
     },
     "614": {
@@ -89754,7 +89760,7 @@
       "last_plan": {
         "source_id": "32208455",
         "display_name": "Afterimage (Powidoki) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T21:08:26.067005+00:00"
+        "planned_at": "2026-11-08T21:08:28.044823+00:00"
       }
     },
     "16030": {
@@ -145371,5 +145377,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:08:26.067023+00:00"
+  "updated_at": "2026-11-08T21:08:29.119409+00:00"
 }
