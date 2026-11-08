@@ -8032,13 +8032,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-11-08T18:00:13.707907+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-11-08T18:31:58.852294+00:00"
         },
         {
@@ -8047,6 +8040,13 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-11-08T19:02:35.669408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:33:51.631797+00:00"
         }
       ],
       "last_plan": {
@@ -34221,7 +34221,7 @@
       "last_plan": {
         "source_id": "35087204",
         "display_name": "Darkest Hour 4K CZ Dabing",
-        "planned_at": "2026-11-08T19:02:35.493029+00:00"
+        "planned_at": "2026-11-08T19:33:50.452030+00:00"
       },
       "previous_target_id": "30738724",
       "prepared": {
@@ -34229,6 +34229,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-02T18:09:12.961107+00:00",
         "relay_source_id": "35087204"
+      },
+      "claim": {
+        "worker_id": "63c7903815d54ae0be3ba5721f75f1c1-shard-0",
+        "claimed_at": "2026-11-08T19:33:50.982896+00:00",
+        "lease_expires_at": "2026-11-09T01:33:50.982896+00:00",
+        "run_id": "42499495816"
       }
     },
     "36749": {
@@ -87885,7 +87891,7 @@
       "last_plan": {
         "source_id": "34648747",
         "display_name": "Lost in Starlight (이 별에 필요한) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:33:48.687669+00:00"
+        "planned_at": "2026-11-08T19:33:50.672630+00:00"
       }
     },
     "18096": {
@@ -143668,5 +143674,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:33:48.687686+00:00"
+  "updated_at": "2026-11-08T19:33:51.631815+00:00"
 }
