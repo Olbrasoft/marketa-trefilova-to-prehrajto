@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-08T08:35:18.841898+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-08T09:09:22.080286+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-08T09:45:24.066623+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-08T10:18:28.196305+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "0104d2640b644d4ab6dcb45a2c84d334-shard-0",
-        "claimed_at": "2026-11-08T10:18:24.826412+00:00",
-        "lease_expires_at": "2026-11-08T16:18:24.826412+00:00",
-        "run_id": "42462687727"
       }
     },
     "52": {
@@ -14024,7 +14018,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-08T09:45:25.778852+00:00"
+        "planned_at": "2026-11-08T10:18:27.122182+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -14032,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "b16cc970124648798d4a9b6ee00c8638-shard-0",
+        "claimed_at": "2026-11-08T10:18:27.823565+00:00",
+        "lease_expires_at": "2026-11-08T16:18:27.823565+00:00",
+        "run_id": "42462687727"
       }
     },
     "22047": {
@@ -83065,7 +83065,7 @@
       "last_plan": {
         "source_id": "32234888",
         "display_name": "Don Quixote (Дон Кихот) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T10:18:24.414582+00:00"
+        "planned_at": "2026-11-08T10:18:27.401267+00:00"
       }
     },
     "10705": {
@@ -137299,5 +137299,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T10:18:25.638764+00:00"
+  "updated_at": "2026-11-08T10:18:28.196322+00:00"
 }
