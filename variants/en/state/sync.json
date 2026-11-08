@@ -11422,13 +11422,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-08T17:23:32.875487+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-08T17:56:20.015918+00:00"
         },
         {
@@ -11437,6 +11430,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-08T18:27:05.175621+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:58:16.226090+00:00"
         }
       ],
       "last_plan": {
@@ -17619,7 +17619,7 @@
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
-        "planned_at": "2026-11-08T18:27:08.187680+00:00"
+        "planned_at": "2026-11-08T18:58:14.848212+00:00"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -17627,6 +17627,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
+      },
+      "claim": {
+        "worker_id": "b8c967e22b354f37a3c24cead61a68e9-shard-0",
+        "claimed_at": "2026-11-08T18:58:15.084558+00:00",
+        "lease_expires_at": "2026-11-09T00:58:15.084558+00:00",
+        "run_id": "42499495816"
       }
     },
     "24279": {
@@ -88837,5 +88843,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:58:12.836449+00:00"
+  "updated_at": "2026-11-08T18:58:16.226110+00:00"
 }
