@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-08T19:29:48.494552+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-08T20:00:41.751248+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-08T20:31:03.503774+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:06:59.727805+00:00"
         }
       ],
       "last_plan": {
@@ -3193,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-08T20:31:05.530685+00:00"
+        "planned_at": "2026-11-08T21:06:57.480575+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "fc6e81e99a9b4203b8b9f379d6e091f4-shard-0",
+        "claimed_at": "2026-11-08T21:06:57.730064+00:00",
+        "lease_expires_at": "2026-11-09T03:06:57.730064+00:00",
+        "run_id": "42519750852"
       }
     },
     "31551": {
@@ -89409,5 +89415,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:06:55.249282+00:00"
+  "updated_at": "2026-11-08T21:06:59.727823+00:00"
 }
