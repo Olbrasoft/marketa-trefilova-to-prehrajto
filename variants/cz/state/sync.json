@@ -82053,17 +82053,19 @@
       }
     },
     "2430": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34668514",
+          "target_video_id": "30908812",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:31:19.303793+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34668514",
         "display_name": "The Little Death 720p CZ Dabing",
         "planned_at": "2026-11-08T05:26:36.733520+00:00"
-      },
-      "claim": {
-        "worker_id": "5a8136c60bb045f0bfc332a51494e1a3-shard-0",
-        "claimed_at": "2026-11-08T05:26:36.930498+00:00",
-        "lease_expires_at": "2026-11-08T11:26:36.930498+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30908812",
       "prepared": {
@@ -135510,5 +135512,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:27:16.148785+00:00"
+  "updated_at": "2026-11-08T05:31:19.303808+00:00"
 }
