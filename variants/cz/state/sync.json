@@ -85552,17 +85552,19 @@
       "attempts": []
     },
     "11014": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30644750",
+          "target_video_id": "30922658",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:08:44.895545+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30644750",
         "display_name": "You Are a Widow („Pane, vy jste vdova!“) 1080p CZ Dabing",
         "planned_at": "2026-11-08T17:06:02.162025+00:00"
-      },
-      "claim": {
-        "worker_id": "142b2a71c5214285a230fae10970f5a7-shard-0",
-        "claimed_at": "2026-11-08T17:06:02.466402+00:00",
-        "lease_expires_at": "2026-11-08T23:06:02.466402+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922658",
       "prepared": {
@@ -141099,5 +141101,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:07:15.182941+00:00"
+  "updated_at": "2026-11-08T17:08:44.895562+00:00"
 }
