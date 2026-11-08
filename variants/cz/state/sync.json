@@ -90038,17 +90038,19 @@
       }
     },
     "31751": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34714272",
+          "target_video_id": "30926150",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:36:22.712670+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34714272",
         "display_name": "Jacob the Liar (Jakob der Lügner) 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:27:17.619279+00:00"
-      },
-      "claim": {
-        "worker_id": "c1ddca8103d943e49b5008c14d02584d-shard-0",
-        "claimed_at": "2026-11-08T21:27:17.912854+00:00",
-        "lease_expires_at": "2026-11-09T03:27:17.912854+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926150",
       "prepared": {
@@ -145997,5 +145999,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:35:40.112109+00:00"
+  "updated_at": "2026-11-08T21:36:22.712687+00:00"
 }
