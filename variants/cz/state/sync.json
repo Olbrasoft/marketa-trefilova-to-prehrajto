@@ -88369,17 +88369,19 @@
       }
     },
     "12465": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34911757",
+          "target_video_id": "30925029",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:58:54.277013+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34911757",
         "display_name": "Who Wants to Kill Jessie? (Kdo chce zabít Jessii?) 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:56:58.874893+00:00"
-      },
-      "claim": {
-        "worker_id": "e0ccf3fbc1674843b0daa672d9e3fbe3-shard-0",
-        "claimed_at": "2026-11-08T19:56:59.202333+00:00",
-        "lease_expires_at": "2026-11-09T01:56:59.202333+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925029",
       "prepared": {
@@ -144097,5 +144099,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:58:37.913525+00:00"
+  "updated_at": "2026-11-08T19:58:54.277030+00:00"
 }
