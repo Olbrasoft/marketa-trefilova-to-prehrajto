@@ -87013,17 +87013,19 @@
       }
     },
     "13363": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13870042",
+          "reason": "Request failed for https://sdilej.cz/13870042/clovek-bez-osudu-cz.dabing-2005.avi (HTTP 522)",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:51:55.992390+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13870042",
         "display_name": "Fateless (Sorstalanság) SD CZ Dabing",
         "planned_at": "2026-11-08T18:51:34.107768+00:00"
-      },
-      "claim": {
-        "worker_id": "e7012947b02944c7a2f2ee32c0afec71-shard-0",
-        "claimed_at": "2026-11-08T18:51:35.630531+00:00",
-        "lease_expires_at": "2026-11-09T00:51:35.630531+00:00",
-        "run_id": "42499495816"
       }
     },
     "23849": {
@@ -142711,5 +142713,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:51:41.408937+00:00"
+  "updated_at": "2026-11-08T18:51:55.992407+00:00"
 }
