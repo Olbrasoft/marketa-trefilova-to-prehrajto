@@ -526,3 +526,4 @@ Attach subtitles only after target processing has finished.
 | War Dogs 1080p CZ Titulky | 30908811 | https://sdilej.cz/14774536/typci-a-zbrane-war-dogs-2016-hd-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Thunderbolts* 4K CZ Titulky | 30908951 | https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Vicky Cristina Barcelona 1080p CZ Titulky | 30909865 | https://sdilej.cz/35401907/vicky.cristina.barcelona.2008.proper.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Extract Czech track from exact source after processing |
+| Nosferatu (2024) 4K CZ Titulky | 30910097 | https://sdilej.cz/30659434/nosferatu-cz-tit-2024-2160p-by-pefto.mkv | Extract Czech track from exact source after processing |
