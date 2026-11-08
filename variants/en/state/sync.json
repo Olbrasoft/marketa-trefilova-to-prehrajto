@@ -27993,17 +27993,19 @@
       "attempts": []
     },
     "19474": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34457540",
+          "target_video_id": "30907573",
+          "permanent": false,
+          "attempted_at": "2026-11-08T04:42:55.643360+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34457540",
         "display_name": "Elf 1080p CZ Titulky",
         "planned_at": "2026-11-08T04:25:18.364577+00:00"
-      },
-      "claim": {
-        "worker_id": "c8205ba27e4b4b53b786efb362207c5f-shard-0",
-        "claimed_at": "2026-11-08T04:25:18.411265+00:00",
-        "lease_expires_at": "2026-11-08T10:25:18.411265+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30907573",
       "prepared": {
@@ -84229,5 +84231,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T04:35:42.737766+00:00"
+  "updated_at": "2026-11-08T04:42:55.643381+00:00"
 }
