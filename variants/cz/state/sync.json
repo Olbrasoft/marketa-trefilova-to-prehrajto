@@ -13998,13 +13998,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:51:05.822714+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:22:35.014057+00:00"
         },
         {
@@ -14013,6 +14006,13 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-08T00:53:45.439085+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:30:44.791684+00:00"
         }
       ],
       "last_plan": {
@@ -14026,12 +14026,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
-      },
-      "claim": {
-        "worker_id": "ab44318710cd4351932eb20e3435cd78-shard-0",
-        "claimed_at": "2026-11-08T01:30:42.011182+00:00",
-        "lease_expires_at": "2026-11-08T07:30:42.011182+00:00",
-        "run_id": "42420247810"
       }
     },
     "22047": {
@@ -14663,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-08T00:53:44.940543+00:00"
+        "planned_at": "2026-11-08T01:30:44.279594+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14671,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "cea73dac90314380ab19de5fc495b133-shard-0",
+        "claimed_at": "2026-11-08T01:30:44.646818+00:00",
+        "lease_expires_at": "2026-11-08T07:30:44.646818+00:00",
+        "run_id": "42420247810"
       }
     },
     "22177": {
@@ -81512,7 +81512,7 @@
       "last_plan": {
         "source_id": "31172824",
         "display_name": "Two Mules for Sister Sara 1080p CZ Dabing",
-        "planned_at": "2026-11-08T01:30:41.801849+00:00"
+        "planned_at": "2026-11-08T01:30:44.441004+00:00"
       }
     },
     "22214": {
@@ -134142,5 +134142,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:30:42.721282+00:00"
+  "updated_at": "2026-11-08T01:30:44.791704+00:00"
 }
