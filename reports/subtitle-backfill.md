@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T18:43:37.261425+00:00
+Poslední aktualizace (UTC): 2026-11-08T18:43:41.070341+00:00
 
 Zkontrolováno videí: 554. Další stránka kontroly: 0.
 
@@ -90,7 +90,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T17:53:07.680485+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T17:44:07.748541+00:00 |
 | [Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky](https://prehraj.to/prayers-for-the-stolen-noche-de-fuego-1080p-cz-titulky-mkv/ca62beb557a955ad) (ID 30898313) | [Sdílej 18892846](https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv) | source_unavailable | 2026-11-08T17:02:10.435904+00:00 |
-| [Re-Animator 1080p CZ Titulky](https://prehraj.to/re-animator-1080p-cz-titulky-mkv/5ed6be2148d08fd8) (ID 30923177) | [Sdílej 31067137](https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv) | target_unavailable | 2026-11-08T17:42:36.636286+00:00 |
+| [Re-Animator 1080p CZ Titulky](https://prehraj.to/re-animator-1080p-cz-titulky-mkv/5ed6be2148d08fd8) (ID 30923177) | [Sdílej 31067137](https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv) | target_unavailable | 2026-11-08T18:43:40.986277+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-08T17:52:43.915985+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-08T17:44:11.337934+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-08T17:43:26.342016+00:00 |
