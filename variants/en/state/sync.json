@@ -29587,17 +29587,19 @@
       "attempts": []
     },
     "1865": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30068885",
+          "target_video_id": "30923866",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:36:10.086719+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30068885",
         "display_name": "The Apprentice 1080p CZ Titulky",
         "planned_at": "2026-11-08T18:23:21.449335+00:00"
-      },
-      "claim": {
-        "worker_id": "3d4a949da4ff4fa1aa9cdf5c1b875706-shard-0",
-        "claimed_at": "2026-11-08T18:23:21.535593+00:00",
-        "lease_expires_at": "2026-11-09T00:23:21.535593+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30923866",
       "prepared": {
@@ -88763,5 +88765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:29:17.881674+00:00"
+  "updated_at": "2026-11-08T18:36:10.086736+00:00"
 }
