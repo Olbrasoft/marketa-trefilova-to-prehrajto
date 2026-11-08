@@ -89272,17 +89272,19 @@
       }
     },
     "11411": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27465294",
+          "target_video_id": "30925479",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:39:05.812556+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27465294",
         "display_name": "The Mysterious Castle in the Carpathians (Tajemství hradu v Karpatech) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:37:23.201220+00:00"
-      },
-      "claim": {
-        "worker_id": "647d1176228b4b628042a0de1aa88eb9-shard-0",
-        "claimed_at": "2026-11-08T20:37:23.496260+00:00",
-        "lease_expires_at": "2026-11-09T02:37:23.496260+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925479",
       "prepared": {
@@ -145015,5 +145017,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:37:27.102203+00:00"
+  "updated_at": "2026-11-08T20:39:05.812572+00:00"
 }
