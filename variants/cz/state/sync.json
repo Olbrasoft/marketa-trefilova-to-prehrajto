@@ -84463,17 +84463,19 @@
       }
     },
     "1838": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34357597",
+          "target_video_id": "30918466",
+          "permanent": false,
+          "attempted_at": "2026-11-08T13:49:49.877411+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34357597",
         "display_name": "The Shadow's Edge (捕风追影) 4K CZ Dabing",
         "planned_at": "2026-11-08T13:36:20.063779+00:00"
-      },
-      "claim": {
-        "worker_id": "6a0a846cf1504305b26d3ff462771e26-shard-0",
-        "claimed_at": "2026-11-08T13:36:20.362555+00:00",
-        "lease_expires_at": "2026-11-08T19:36:20.362555+00:00",
-        "run_id": "42480114124"
       },
       "previous_target_id": "30918466",
       "prepared": {
@@ -139624,5 +139626,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T13:48:59.290271+00:00"
+  "updated_at": "2026-11-08T13:49:49.877471+00:00"
 }
