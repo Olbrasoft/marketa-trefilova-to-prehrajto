@@ -86780,17 +86780,19 @@
       }
     },
     "24394": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34897241",
+          "target_video_id": "30924031",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:38:47.370113+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34897241",
         "display_name": "If These Walls Could Talk 2 SD CZ Dabing",
         "planned_at": "2026-11-08T18:36:14.683422+00:00"
-      },
-      "claim": {
-        "worker_id": "3904ac1f8c094261854b9e8acdda8357-shard-0",
-        "claimed_at": "2026-11-08T18:36:15.007697+00:00",
-        "lease_expires_at": "2026-11-09T00:36:15.007697+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924031",
       "prepared": {
@@ -142535,5 +142537,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:37:59.682081+00:00"
+  "updated_at": "2026-11-08T18:38:47.370130+00:00"
 }
