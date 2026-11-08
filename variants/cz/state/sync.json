@@ -87651,13 +87651,6 @@
           "source_id": "31439276",
           "target_video_id": "30924533",
           "permanent": false,
-          "attempted_at": "2026-11-08T19:12:32.838565+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31439276",
-          "target_video_id": "30924533",
-          "permanent": false,
           "attempted_at": "2026-11-08T19:43:24.534810+00:00"
         },
         {
@@ -87666,12 +87659,19 @@
           "target_video_id": "30924533",
           "permanent": false,
           "attempted_at": "2026-11-08T20:15:50.634818+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31439276",
+          "target_video_id": "30924533",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:47:30.782301+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31439276",
         "display_name": "Treasure Island (1990) SD CZ Dabing",
-        "planned_at": "2026-11-08T20:15:47.454628+00:00"
+        "planned_at": "2026-11-08T20:47:28.984752+00:00"
       },
       "previous_target_id": "30924533",
       "prepared": {
@@ -89480,11 +89480,22 @@
       "last_plan": {
         "source_id": "21236888",
         "display_name": "The Big Hit (Un triomphe) (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T20:47:25.270941+00:00"
+        "planned_at": "2026-11-08T20:47:29.224387+00:00"
+      },
+      "claim": {
+        "worker_id": "f24bca40be774dc393c10e290aeffa85-shard-0",
+        "claimed_at": "2026-11-08T20:47:29.824178+00:00",
+        "lease_expires_at": "2026-11-09T02:47:29.824178+00:00",
+        "run_id": "42499495816"
       }
     },
     "12570": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33708054",
+        "display_name": "Ducháček Will Fix It (Ducháček to zařídí) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T20:47:29.372569+00:00"
+      }
     },
     "31699": {
       "attempts": []
@@ -145146,5 +145157,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:47:27.113586+00:00"
+  "updated_at": "2026-11-08T20:47:30.782319+00:00"
 }
