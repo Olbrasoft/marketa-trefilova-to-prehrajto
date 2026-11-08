@@ -8046,7 +8046,7 @@
       "last_plan": {
         "source_id": "20447868",
         "display_name": "Dogville 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:25:46.720771+00:00"
+        "planned_at": "2026-11-08T00:55:49.495859+00:00"
       },
       "previous_target_id": "30630355",
       "prepared": {
@@ -8054,6 +8054,12 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
+      },
+      "claim": {
+        "worker_id": "daf0c962285e4a558fc0635fcb0de33e-shard-0",
+        "claimed_at": "2026-11-08T00:55:49.843946+00:00",
+        "lease_expires_at": "2026-11-08T06:55:49.843946+00:00",
+        "run_id": "42420247810"
       }
     },
     "10690": {
@@ -19975,13 +19981,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:22:39.842525+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-07T23:53:17.715907+00:00"
         },
         {
@@ -19990,6 +19989,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-08T00:25:45.288711+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:55:49.968964+00:00"
         }
       ],
       "last_plan": {
@@ -20003,12 +20009,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
-      },
-      "claim": {
-        "worker_id": "093fe2584d4d4f8fb93917e8e0651503-shard-0",
-        "claimed_at": "2026-11-08T00:55:48.197010+00:00",
-        "lease_expires_at": "2026-11-08T06:55:48.197010+00:00",
-        "run_id": "42420247810"
       }
     },
     "835": {
@@ -81298,7 +81298,7 @@
       "last_plan": {
         "source_id": "34683230",
         "display_name": "Son of Rambow SD CZ Dabing",
-        "planned_at": "2026-11-08T00:55:47.971077+00:00"
+        "planned_at": "2026-11-08T00:55:49.644510+00:00"
       }
     },
     "2241": {
@@ -133727,5 +133727,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:55:48.282468+00:00"
+  "updated_at": "2026-11-08T00:55:49.968984+00:00"
 }
