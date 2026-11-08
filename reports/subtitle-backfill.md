@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:32:53.647927+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:32:56.952928+00:00
 
 Zkontrolováno videí: 539. Další stránka kontroly: 0.
 
@@ -64,7 +64,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | --- | --- | --- | --- |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-07T16:48:59.685047+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-07T16:49:09.141849+00:00 |
-| [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-07T16:48:33.653858+00:00 |
+| [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-08T11:32:56.952836+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-07T16:48:48.763682+00:00 |
 | [Allied 1080p CZ Titulky](https://prehraj.to/allied-1080p-cz-titulky-mkv/520bc37ffa8bcf9d) (ID 30915323) | [Sdílej 35002320](https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-08T11:02:29.958694+00:00 |
 | [Babylon 4K CZ Titulky](https://prehraj.to/babylon-4k-cz-titulky-mkv/c1760976c09b2e9e) (ID 30913832) | [Sdílej 25207906](https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T09:51:52.758023+00:00 |
