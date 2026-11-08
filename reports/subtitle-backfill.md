@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T18:54:33.882398+00:00
+Poslední aktualizace (UTC): 2026-11-08T18:54:37.222375+00:00
 
 Zkontrolováno videí: 555. Další stránka kontroly: 0.
 
@@ -80,7 +80,7 @@ Kontrol: 12; odesláno: 1; potvrzeno: 0; zbývá k prověření nyní: 8. Důvod
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-08T18:52:15.988878+00:00 |
 | [In the Mouth of Madness 1080p CZ Titulky](https://prehraj.to/in-the-mouth-of-madness-1080p-cz-titulky-mkv/03f8eaf80cfe9183) (ID 30922359) | [Sdílej 18282391](https://sdilej.cz/18282391/in-the-mouth-of-madness.1994-1080p.bluray.dts.x264-dabing-cz-eng-titulky-cz.mkv) | target_unavailable | 2026-11-08T17:53:34.144860+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-08T18:54:22.653572+00:00 |
-| [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-08T17:52:47.177415+00:00 |
+| [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-08T18:54:37.222304+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-08T18:54:25.926492+00:00 |
 | [Leave No Trace 1080p CZ Titulky](https://prehraj.to/leave-no-trace-1080p-cz-titulky-mkv/5381e988fb580250) (ID 30924237) | [Sdílej 10537087](https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv) | target_unavailable | 2026-11-08T18:53:49.821109+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-08T18:03:18.531106+00:00 |
