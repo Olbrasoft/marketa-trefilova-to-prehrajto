@@ -28790,17 +28790,19 @@
       "attempts": []
     },
     "1987": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402148",
+          "target_video_id": "30916024",
+          "permanent": false,
+          "attempted_at": "2026-11-08T11:35:39.784232+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402148",
         "display_name": "Creed II 1080p CZ Titulky",
         "planned_at": "2026-11-08T11:27:14.077898+00:00"
-      },
-      "claim": {
-        "worker_id": "a95569b3123a4416be5e4cf4c1692e49-shard-0",
-        "claimed_at": "2026-11-08T11:27:14.219303+00:00",
-        "lease_expires_at": "2026-11-08T17:27:14.219303+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30916024",
       "prepared": {
@@ -86619,5 +86621,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T11:34:22.474830+00:00"
+  "updated_at": "2026-11-08T11:35:39.784250+00:00"
 }
