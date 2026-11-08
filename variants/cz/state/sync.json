@@ -89196,17 +89196,19 @@
       }
     },
     "12187": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27907485",
+          "target_video_id": "30925408",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:42:30.464559+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27907485",
         "display_name": "Saturnin 4K CZ Dabing",
         "planned_at": "2026-11-08T20:29:59.450094+00:00"
-      },
-      "claim": {
-        "worker_id": "a2eb1e9642c44741a049a3a1ea0a42e2-shard-0",
-        "claimed_at": "2026-11-08T20:29:59.801327+00:00",
-        "lease_expires_at": "2026-11-09T02:29:59.801327+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925408",
       "prepared": {
@@ -145093,5 +145095,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:40:57.947370+00:00"
+  "updated_at": "2026-11-08T20:42:30.464574+00:00"
 }
