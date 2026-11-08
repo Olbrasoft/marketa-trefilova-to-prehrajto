@@ -91524,17 +91524,19 @@
       }
     },
     "2474": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34623455",
+          "target_video_id": "30927581",
+          "permanent": false,
+          "attempted_at": "2026-11-08T23:30:54.180151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34623455",
         "display_name": "National Treasure 4K CZ Dabing",
         "planned_at": "2026-11-08T23:19:17.412656+00:00"
-      },
-      "claim": {
-        "worker_id": "1926441f7bb64150bb07c55796c071a8-shard-0",
-        "claimed_at": "2026-11-08T23:19:17.708992+00:00",
-        "lease_expires_at": "2026-11-09T05:19:17.708992+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30927581",
       "prepared": {
@@ -147590,5 +147592,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T23:28:38.840366+00:00"
+  "updated_at": "2026-11-08T23:30:54.180168+00:00"
 }
