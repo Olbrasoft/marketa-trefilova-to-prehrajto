@@ -89545,17 +89545,19 @@
       "attempts": []
     },
     "12489": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32374431",
+          "target_video_id": "30925633",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:56:25.467720+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32374431",
         "display_name": "Behold Homolka (Ecce homo Homolka) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:48:29.598539+00:00"
-      },
-      "claim": {
-        "worker_id": "867605dfbd2146f896a3b12b40b98664-shard-0",
-        "claimed_at": "2026-11-08T20:48:29.921391+00:00",
-        "lease_expires_at": "2026-11-09T02:48:29.921391+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925633",
       "prepared": {
@@ -145279,5 +145281,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:56:23.920680+00:00"
+  "updated_at": "2026-11-08T20:56:25.467740+00:00"
 }
