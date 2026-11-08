@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-08T19:02:43.659546+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-08T19:34:00.453943+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-08T20:05:01.240934+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:35:16.427931+00:00"
         }
       ],
       "last_plan": {
@@ -4275,7 +4275,7 @@
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-08T20:05:00.621588+00:00"
+        "planned_at": "2026-11-08T20:35:15.100705+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -4283,6 +4283,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
+      },
+      "claim": {
+        "worker_id": "03fbbd43f9eb4742af0c3aecc2770783-shard-0",
+        "claimed_at": "2026-11-08T20:35:15.683979+00:00",
+        "lease_expires_at": "2026-11-09T02:35:15.683979+00:00",
+        "run_id": "42499495816"
       }
     },
     "229": {
@@ -89226,7 +89232,7 @@
       "last_plan": {
         "source_id": "32263750",
         "display_name": "Return of the Idiot (Návrat idiota) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T20:35:12.880131+00:00"
+        "planned_at": "2026-11-08T20:35:15.325218+00:00"
       }
     },
     "2240": {
@@ -144958,5 +144964,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:35:13.073015+00:00"
+  "updated_at": "2026-11-08T20:35:16.427950+00:00"
 }
