@@ -27955,17 +27955,19 @@
       "attempts": []
     },
     "2012": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23024180",
+          "target_video_id": "30907428",
+          "permanent": false,
+          "attempted_at": "2026-11-08T04:48:45.930915+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23024180",
         "display_name": "Pretty Woman 1080p CZ Titulky",
         "planned_at": "2026-11-08T04:19:49.207735+00:00"
-      },
-      "claim": {
-        "worker_id": "53af9abd12a84db3ab62d0e1f16b98cd-shard-0",
-        "claimed_at": "2026-11-08T04:19:49.340261+00:00",
-        "lease_expires_at": "2026-11-08T10:19:49.340261+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30907428",
       "prepared": {
@@ -84238,5 +84240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T04:42:58.788260+00:00"
+  "updated_at": "2026-11-08T04:48:45.930935+00:00"
 }
