@@ -81288,17 +81288,19 @@
       }
     },
     "13791": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34683230",
+          "target_video_id": "30903109",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:00:48.851112+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34683230",
         "display_name": "Son of Rambow SD CZ Dabing",
         "planned_at": "2026-11-08T00:55:51.381542+00:00"
-      },
-      "claim": {
-        "worker_id": "04c77ccb359c400b9e3e38593056f5ae-shard-0",
-        "claimed_at": "2026-11-08T00:55:51.593488+00:00",
-        "lease_expires_at": "2026-11-08T06:55:51.593488+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30903109",
       "prepared": {
@@ -133752,5 +133754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:56:14.525003+00:00"
+  "updated_at": "2026-11-08T01:00:48.851130+00:00"
 }
