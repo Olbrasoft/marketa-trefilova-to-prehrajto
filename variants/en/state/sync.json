@@ -28155,17 +28155,19 @@
       "attempts": []
     },
     "1857": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31386689",
+          "target_video_id": "30908951",
+          "permanent": false,
+          "attempted_at": "2026-11-08T06:44:17.056231+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31386689",
         "display_name": "Thunderbolts* 4K CZ Titulky",
         "planned_at": "2026-11-08T05:37:38.604477+00:00"
-      },
-      "claim": {
-        "worker_id": "e13b0efd294c4db1b6e4365254c93093-shard-0",
-        "claimed_at": "2026-11-08T05:37:38.656080+00:00",
-        "lease_expires_at": "2026-11-08T11:37:38.656080+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30908951",
       "prepared": {
@@ -84891,5 +84893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T06:33:57.554822+00:00"
+  "updated_at": "2026-11-08T06:44:17.056251+00:00"
 }
