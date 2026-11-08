@@ -87964,17 +87964,19 @@
       "attempts": []
     },
     "23962": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30321226",
+          "target_video_id": "30924800",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:49:53.778977+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30321226",
         "display_name": "With Fire and Sword 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:34:19.770307+00:00"
-      },
-      "claim": {
-        "worker_id": "cc6c95bdeca2455898eb2037dd1bbce4-shard-0",
-        "claimed_at": "2026-11-08T19:34:20.051042+00:00",
-        "lease_expires_at": "2026-11-09T01:34:20.051042+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924800",
       "prepared": {
@@ -143848,5 +143850,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:46:38.070078+00:00"
+  "updated_at": "2026-11-08T19:49:53.778995+00:00"
 }
