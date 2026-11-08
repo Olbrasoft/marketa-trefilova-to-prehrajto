@@ -80812,17 +80812,19 @@
       }
     },
     "13483": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32997472",
+          "target_video_id": "30902393",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:21:33.745563+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32997472",
         "display_name": "Lunacy (Šílení) 1080p CZ Dabing",
         "planned_at": "2026-11-08T00:16:34.807781+00:00"
-      },
-      "claim": {
-        "worker_id": "1388008ce47b497ba04a2e121322b00f-shard-0",
-        "claimed_at": "2026-11-08T00:16:35.034122+00:00",
-        "lease_expires_at": "2026-11-08T06:16:35.034122+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30902393",
       "prepared": {
@@ -133160,5 +133162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:21:30.693144+00:00"
+  "updated_at": "2026-11-08T00:21:33.745588+00:00"
 }
