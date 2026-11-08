@@ -90465,17 +90465,19 @@
       "attempts": []
     },
     "22961": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34389674",
+          "target_video_id": "30926483",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:55:05.422384+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34389674",
         "display_name": "Daffy Duck's Quackbusters SD CZ Dabing",
         "planned_at": "2026-11-08T21:54:07.824269+00:00"
-      },
-      "claim": {
-        "worker_id": "15fa3dd806a94999b85923207fd8b0af-shard-0",
-        "claimed_at": "2026-11-08T21:54:08.253986+00:00",
-        "lease_expires_at": "2026-11-09T03:54:08.253986+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30926483",
       "prepared": {
@@ -146238,5 +146240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:54:13.513415+00:00"
+  "updated_at": "2026-11-08T21:55:05.422400+00:00"
 }
