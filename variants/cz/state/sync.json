@@ -88226,17 +88226,19 @@
       }
     },
     "30135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18547835",
+          "target_video_id": "30924990",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:56:26.673341+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18547835",
         "display_name": "A Bullet for the General 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:52:55.743791+00:00"
-      },
-      "claim": {
-        "worker_id": "07a18e8c366c43bea342cba1841513b2-shard-0",
-        "claimed_at": "2026-11-08T19:52:56.051774+00:00",
-        "lease_expires_at": "2026-11-09T01:52:56.051774+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924990",
       "prepared": {
@@ -144018,5 +144020,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:56:25.319013+00:00"
+  "updated_at": "2026-11-08T19:56:26.673358+00:00"
 }
