@@ -86997,17 +86997,19 @@
       }
     },
     "2358": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31771247",
+          "reason": "Request failed for https://sdilej.cz/31771247/zena-v-berline.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:51:32.729966+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31771247",
         "display_name": "A Woman in Berlin (Anonyma - Eine Frau in Berlin) SD CZ Dabing",
         "planned_at": "2026-11-08T18:50:46.040016+00:00"
-      },
-      "claim": {
-        "worker_id": "1608f775fb044ff3beb6b24a828a6030-shard-0",
-        "claimed_at": "2026-11-08T18:50:46.319299+00:00",
-        "lease_expires_at": "2026-11-09T00:50:46.319299+00:00",
-        "run_id": "42499495816"
       }
     },
     "13363": {
@@ -142681,5 +142683,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:51:31.206968+00:00"
+  "updated_at": "2026-11-08T18:51:32.729984+00:00"
 }
