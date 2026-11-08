@@ -28633,17 +28633,19 @@
       "attempts": []
     },
     "31919": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "5467007",
+          "target_video_id": "30913831",
+          "permanent": false,
+          "attempted_at": "2026-11-08T09:50:56.383640+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5467007",
         "display_name": "The Danish Girl SD CZ Titulky",
         "planned_at": "2026-11-08T09:48:58.896565+00:00"
-      },
-      "claim": {
-        "worker_id": "7b248fd383164349b79536b59ca03de0-shard-0",
-        "claimed_at": "2026-11-08T09:48:59.086095+00:00",
-        "lease_expires_at": "2026-11-08T15:48:59.086095+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30913831",
       "prepared": {
@@ -85958,5 +85960,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:49:03.857837+00:00"
+  "updated_at": "2026-11-08T09:50:56.383663+00:00"
 }
