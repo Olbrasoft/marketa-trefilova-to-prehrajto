@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T18:54:54.724839+00:00
+Poslední aktualizace (UTC): 2026-11-08T18:54:58.089493+00:00
 
 Zkontrolováno videí: 555. Další stránka kontroly: 0.
 
@@ -87,7 +87,7 @@ Kontrol: 12; odesláno: 1; potvrzeno: 0; zbývá k prověření nyní: 8. Důvod
 | [Missing 1080p CZ Titulky](https://prehraj.to/missing-1080p-cz-titulky-mkv/d2559d1594a1db68) (ID 30924110) | [Sdílej 26638719](https://sdilej.cz/26638719/missing-nezvestna-2023-cz-tit-1080p.mkv) | target_unavailable | 2026-11-08T18:43:37.261361+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-08T17:53:14.159444+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-08T18:54:19.316946+00:00 |
-| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T17:53:07.680485+00:00 |
+| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T18:54:58.089435+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T18:54:12.605258+00:00 |
 | [Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky](https://prehraj.to/prayers-for-the-stolen-noche-de-fuego-1080p-cz-titulky-mkv/ca62beb557a955ad) (ID 30898313) | [Sdílej 18892846](https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv) | source_unavailable | 2026-11-08T17:02:10.435904+00:00 |
 | [Re-Animator 1080p CZ Titulky](https://prehraj.to/re-animator-1080p-cz-titulky-mkv/5ed6be2148d08fd8) (ID 30923177) | [Sdílej 31067137](https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv) | target_unavailable | 2026-11-08T18:43:40.986277+00:00 |
