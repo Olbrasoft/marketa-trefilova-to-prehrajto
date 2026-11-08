@@ -64712,13 +64712,6 @@
           "source_id": "11088676",
           "target_video_id": "30819792",
           "permanent": false,
-          "attempted_at": "2026-11-08T16:20:59.661714+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11088676",
-          "target_video_id": "30819792",
-          "permanent": false,
           "attempted_at": "2026-11-08T16:55:21.874056+00:00"
         },
         {
@@ -64727,6 +64720,13 @@
           "target_video_id": "30819792",
           "permanent": false,
           "attempted_at": "2026-11-08T17:27:49.359828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11088676",
+          "target_video_id": "30819792",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:59:45.286864+00:00"
         }
       ],
       "last_plan": {
@@ -67798,7 +67798,7 @@
       "last_plan": {
         "source_id": "28778728",
         "display_name": "White Oleander SD CZ Dabing",
-        "planned_at": "2026-11-08T17:27:49.544798+00:00"
+        "planned_at": "2026-11-08T17:59:44.132134+00:00"
       },
       "previous_target_id": "30854802",
       "prepared": {
@@ -67806,6 +67806,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-06T08:53:21.282274+00:00",
         "relay_source_id": "28778728"
+      },
+      "claim": {
+        "worker_id": "f5f60cb37d234977a31b1d6c8bf611e9-shard-0",
+        "claimed_at": "2026-11-08T17:59:44.661174+00:00",
+        "lease_expires_at": "2026-11-08T23:59:44.661174+00:00",
+        "run_id": "42499495816"
       }
     },
     "1982": {
@@ -86278,7 +86284,7 @@
       "last_plan": {
         "source_id": "34849247",
         "display_name": "Don't Move (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T17:59:42.211247+00:00"
+        "planned_at": "2026-11-08T17:59:44.355511+00:00"
       }
     },
     "29686": {
@@ -141872,5 +141878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:59:42.405022+00:00"
+  "updated_at": "2026-11-08T17:59:45.286882+00:00"
 }
