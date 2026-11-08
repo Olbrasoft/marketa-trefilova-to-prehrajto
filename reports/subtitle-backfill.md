@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:33:26.935750+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:33:30.295680+00:00
 
 Zkontrolováno videí: 539. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 414, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 61, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 415, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 60, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -119,7 +119,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | [The Outlaws (범죄도시) 1080p CZ Titulky](https://prehraj.to/the-outlaws-1080p-cz-titulky-mkv/91871a80ef52a7ab) (ID 30893421) | [Sdílej 30716653](https://sdilej.cz/30716653/the-outlaws-2017-1080p-bluray-korean-dts-x264-majo.mkv) | target_unavailable | 2026-11-07T17:29:03.073998+00:00 |
 | [The Tale 1080p CZ Titulky](https://prehraj.to/the-tale-1080p-cz-titulky-mkv/a128fa29789c723b) (ID 30890507) | [Sdílej 11960597](https://sdilej.cz/11960597/the.tale.2018.1080p.bluray.hevc.dl.dts.x265-majo.mkv) | target_unavailable | 2026-11-07T17:08:46.163210+00:00 |
 | [The Tiger: An Old Hunter's Tale (The Tiger) 1080p CZ Titulky](https://prehraj.to/the-tiger-an-old-hunter-s-tale-the-tiger-1080p-cz-titulky-mkv/26272860af72b2e1) (ID 30901878) | [Sdílej 17612916](https://sdilej.cz/17612916/the.tiger.an.old.hunters.tale.2015.korean.1080p.bluray.h264.aac-titulky-cz.mkv) | target_unavailable | 2026-11-07T23:56:20.536424+00:00 |
-| [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T17:08:42.443504+00:00 |
 | [The Yakuza 1080p CZ Titulky](https://prehraj.to/the-yakuza-1080p-cz-titulky-mkv/82379460d5dd0f1d) (ID 30897645) | [Sdílej 8869265](https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv) | target_unavailable | 2026-11-07T20:01:12.231815+00:00 |
 | [Thunderbolts* 4K CZ Titulky](https://prehraj.to/thunderbolts-4k-cz-titulky-mkv/7da50bf4e4b3d344) (ID 30908951) | [Sdílej 31386689](https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T05:38:56.391995+00:00 |
 | [Tropic Thunder 1080p CZ Titulky](https://prehraj.to/tropic-thunder-1080p-cz-titulky-mkv/f2bb2d097d396d86) (ID 30904135) | [Sdílej 34431613](https://sdilej.cz/34431613/tropic.thunder.2008.tc.1080p.bluray.x264.ac3-warbro.mkv) | target_unavailable | 2026-11-08T01:47:58.511156+00:00 |
