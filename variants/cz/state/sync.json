@@ -45554,13 +45554,6 @@
           "source_id": "20443534",
           "target_video_id": "30871258",
           "permanent": false,
-          "attempted_at": "2026-11-08T08:07:00.024824+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20443534",
-          "target_video_id": "30871258",
-          "permanent": false,
           "attempted_at": "2026-11-08T08:38:19.156648+00:00"
         },
         {
@@ -45569,6 +45562,13 @@
           "target_video_id": "30871258",
           "permanent": false,
           "attempted_at": "2026-11-08T09:11:59.542721+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-08T09:47:55.972273+00:00"
         }
       ],
       "last_plan": {
@@ -64732,7 +64732,7 @@
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-08T09:12:01.152387+00:00"
+        "planned_at": "2026-11-08T09:47:54.875847+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -64740,6 +64740,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-05T14:15:35.875478+00:00",
         "relay_source_id": "11088676"
+      },
+      "claim": {
+        "worker_id": "5ed987965d034038803e49095a0227d3-shard-0",
+        "claimed_at": "2026-11-08T09:47:55.678862+00:00",
+        "lease_expires_at": "2026-11-08T15:47:55.678862+00:00",
+        "run_id": "42462687727"
       }
     },
     "1582": {
@@ -82937,7 +82943,7 @@
       "last_plan": {
         "source_id": "32380956",
         "display_name": "Father (Otec) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T09:47:52.668143+00:00"
+        "planned_at": "2026-11-08T09:47:55.138121+00:00"
       }
     },
     "2227": {
@@ -137190,5 +137196,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:47:52.668159+00:00"
+  "updated_at": "2026-11-08T09:47:55.972290+00:00"
 }
