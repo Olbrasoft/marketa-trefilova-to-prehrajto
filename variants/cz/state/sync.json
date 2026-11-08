@@ -83769,17 +83769,19 @@
       }
     },
     "34759": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34782123",
+          "target_video_id": "30917193",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:28:46.091540+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34782123",
         "display_name": "Two Brothers SD CZ Dabing",
         "planned_at": "2026-11-08T12:21:41.998374+00:00"
-      },
-      "claim": {
-        "worker_id": "9aadb8b896f44eb3af5ad00c53005656-shard-0",
-        "claimed_at": "2026-11-08T12:21:42.387911+00:00",
-        "lease_expires_at": "2026-11-08T18:21:42.387911+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30917193",
       "prepared": {
@@ -138749,5 +138751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:27:49.135752+00:00"
+  "updated_at": "2026-11-08T12:28:46.091556+00:00"
 }
