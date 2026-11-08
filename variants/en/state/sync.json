@@ -3588,13 +3588,6 @@
           "source_id": "11053464",
           "target_video_id": "30615827",
           "permanent": false,
-          "attempted_at": "2026-11-08T01:29:45.902613+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11053464",
-          "target_video_id": "30615827",
-          "permanent": false,
           "attempted_at": "2026-11-08T02:07:54.427991+00:00"
         },
         {
@@ -3603,6 +3596,13 @@
           "target_video_id": "30615827",
           "permanent": false,
           "attempted_at": "2026-11-08T02:43:58.628541+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11053464",
+          "target_video_id": "30615827",
+          "permanent": false,
+          "attempted_at": "2026-11-08T04:18:56.001003+00:00"
         }
       ],
       "last_plan": {
@@ -3616,12 +3616,6 @@
         "size_bytes": 10100000000,
         "prepared_at": "2026-10-29T17:59:32.832675+00:00",
         "relay_source_id": "11053464"
-      },
-      "claim": {
-        "worker_id": "10b51e07dcd74a7e9834c09290864d41-shard-0",
-        "claimed_at": "2026-11-08T04:18:52.569264+00:00",
-        "lease_expires_at": "2026-11-08T10:18:52.569264+00:00",
-        "run_id": "42442579006"
       }
     },
     "11423": {
@@ -9371,7 +9365,7 @@
       "last_plan": {
         "source_id": "29667772",
         "display_name": "Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky",
-        "planned_at": "2026-11-08T02:44:00.444564+00:00"
+        "planned_at": "2026-11-08T04:18:55.684449+00:00"
       },
       "previous_target_id": "30661597",
       "prepared": {
@@ -9379,6 +9373,12 @@
         "size_bytes": 8700000000,
         "prepared_at": "2026-10-31T08:34:47.262597+00:00",
         "relay_source_id": "29667772"
+      },
+      "claim": {
+        "worker_id": "79a106581c7445d79f747835e6904ad9-shard-0",
+        "claimed_at": "2026-11-08T04:18:55.845940+00:00",
+        "lease_expires_at": "2026-11-08T10:18:55.845940+00:00",
+        "run_id": "42442579006"
       }
     },
     "655": {
@@ -27944,7 +27944,7 @@
       "last_plan": {
         "source_id": "23024180",
         "display_name": "Pretty Woman 1080p CZ Titulky",
-        "planned_at": "2026-11-08T04:18:52.516334+00:00"
+        "planned_at": "2026-11-08T04:18:55.794666+00:00"
       }
     },
     "2148": {
@@ -84003,5 +84003,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T04:18:53.541639+00:00"
+  "updated_at": "2026-11-08T04:18:56.001025+00:00"
 }
