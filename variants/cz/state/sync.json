@@ -81929,17 +81929,19 @@
       }
     },
     "37248": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35173207",
+          "target_video_id": "30908356",
+          "permanent": false,
+          "attempted_at": "2026-11-08T05:09:42.396756+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35173207",
         "display_name": "Professor Marston & The Wonder Women (Professor Marston and the Wonder Women) 1080p CZ Dabing",
         "planned_at": "2026-11-08T05:01:51.260284+00:00"
-      },
-      "claim": {
-        "worker_id": "74894180d9d048a5b5c1363a290f395e-shard-0",
-        "claimed_at": "2026-11-08T05:01:51.481670+00:00",
-        "lease_expires_at": "2026-11-08T11:01:51.481670+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30908356",
       "prepared": {
@@ -135173,5 +135175,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T05:07:54.287933+00:00"
+  "updated_at": "2026-11-08T05:09:42.396773+00:00"
 }
