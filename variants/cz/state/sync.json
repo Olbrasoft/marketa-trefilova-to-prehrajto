@@ -87099,7 +87099,20 @@
       }
     },
     "13838": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34683646",
+          "reason": "Request failed for https://sdilej.cz/34683646/julie-2008-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:53:29.347166+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34683646",
+        "display_name": "Julia (2008) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T18:52:43.307150+00:00"
+      }
     },
     "21832": {
       "attempts": []
@@ -142746,5 +142759,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:52:41.604350+00:00"
+  "updated_at": "2026-11-08T18:53:29.347185+00:00"
 }
