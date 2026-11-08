@@ -538,3 +538,4 @@ Attach subtitles only after target processing has finished.
 | Babylon 4K CZ Titulky | 30913832 | https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | The Danish Girl SD CZ Titulky | 30913831 | https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv | Extract Czech track from exact source after processing |
 | Sicario: Day of the Soldado 1080p CZ Titulky | 30914197 | https://sdilej.cz/10434507/sicario.day.of.the.soldado.2018.1080p.webrip.hevc.x265.cz.titulky.mkv | Complete: Czech subtitles verified |
+| Allied 1080p CZ Titulky | 30915323 | https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
