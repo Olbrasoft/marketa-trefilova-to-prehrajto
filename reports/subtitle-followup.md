@@ -523,3 +523,4 @@ Attach subtitles only after target processing has finished.
 | Pretty Woman 1080p CZ Titulky | 30907428 | https://sdilej.cz/23024180/pretty-woman-1990-fhd-1080p--cz-pl-eng-.mkv | Extract Czech track from exact source after processing |
 | Elf 1080p CZ Titulky | 30907573 | https://sdilej.cz/34457540/eli.mkv | Extract Czech track from exact source after processing |
 | Dredd 1080p CZ Titulky | 30908332 | https://sdilej.cz/30058933/dredd-2012-cz-sk-en.mkv | Extract Czech track from exact source after processing |
+| War Dogs 1080p CZ Titulky | 30908811 | https://sdilej.cz/14774536/typci-a-zbrane-war-dogs-2016-hd-cz-titl.mkv | Extract Czech track from exact source after processing |
