@@ -83700,17 +83700,19 @@
       "attempts": []
     },
     "2315": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25864338",
+          "target_video_id": "30916863",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:22:31.740177+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25864338",
         "display_name": "At the End of the Tunnel (Al final del túnel) 1080p CZ Dabing",
         "planned_at": "2026-11-08T12:05:10.173228+00:00"
-      },
-      "claim": {
-        "worker_id": "90f52fe3e4e440129247a27f1d869b73-shard-0",
-        "claimed_at": "2026-11-08T12:05:10.520824+00:00",
-        "lease_expires_at": "2026-11-08T18:05:10.520824+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30916863",
       "prepared": {
@@ -138689,5 +138691,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:21:45.916281+00:00"
+  "updated_at": "2026-11-08T12:22:31.740193+00:00"
 }
