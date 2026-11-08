@@ -527,17 +527,18 @@ Attach subtitles only after target processing has finished.
 | Thunderbolts* 4K CZ Titulky | 30908951 | https://sdilej.cz/31386689/thunderbolts-2025-cz-sktit-v-obraze-2160p.mkv | Complete: Czech subtitles verified |
 | Vicky Cristina Barcelona 1080p CZ Titulky | 30909865 | https://sdilej.cz/35401907/vicky.cristina.barcelona.2008.proper.1080p.bluray.h264.aac-rarbg.en.cz.tit.mkv | Complete: Czech subtitles verified |
 | Nosferatu (2024) 4K CZ Titulky | 30910097 | https://sdilej.cz/30659434/nosferatu-cz-tit-2024-2160p-by-pefto.mkv | Complete: Czech subtitles verified |
-| Everest 1080p CZ Titulky | 30911174 | https://sdilej.cz/35402213/everest.2015.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
-| Basic Instinct 1080p CZ Titulky | 30911357 | https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv | Extract Czech track from exact source after processing |
-| Rocky Balboa 1080p CZ Titulky | 30911575 | https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv | Extract Czech track from exact source after processing |
+| Everest 1080p CZ Titulky | 30911174 | https://sdilej.cz/35402213/everest.2015.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
+| Basic Instinct 1080p CZ Titulky | 30911357 | https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv | Complete: Czech subtitles verified |
+| Rocky Balboa 1080p CZ Titulky | 30911575 | https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv | Complete: Czech subtitles verified |
 | Wrath of Man 1080p CZ Titulky | 30911851 | https://sdilej.cz/27854646/rozhnevany-muz.mp4 | Extract Czech track from exact source after processing |
 | Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky | 30912287 | https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
-| Spaceballs 1080p CZ Titulky | 30912425 | https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv | Extract Czech track from exact source after processing |
+| Spaceballs 1080p CZ Titulky | 30912425 | https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv | Complete: Czech subtitles verified |
 | Talk to Me 4K CZ Titulky | 30912885 | https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv | Extract Czech track from exact source after processing |
-| Melancholia (2011) [ID 27275] 1080p CZ Titulky | 30913403 | https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv | Extract Czech track from exact source after processing |
+| Melancholia (2011) [ID 27275] 1080p CZ Titulky | 30913403 | https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv | Complete: Czech subtitles verified |
 | Babylon 4K CZ Titulky | 30913832 | https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
-| The Danish Girl SD CZ Titulky | 30913831 | https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv | Extract Czech track from exact source after processing |
+| The Danish Girl SD CZ Titulky | 30913831 | https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv | Complete: Czech subtitles verified |
 | Sicario: Day of the Soldado 1080p CZ Titulky | 30914197 | https://sdilej.cz/10434507/sicario.day.of.the.soldado.2018.1080p.webrip.hevc.x265.cz.titulky.mkv | Complete: Czech subtitles verified |
 | Allied 1080p CZ Titulky | 30915323 | https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Creed II 1080p CZ Titulky | 30916024 | https://sdilej.cz/35402148/creed.ii.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | The Devil All the Time 1080p CZ Titulky | 30916168 | https://sdilej.cz/29802496/the.devil.all.the.time.2020.1080p.h264.leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
+| Seven Years in Tibet 720p CZ Titulky | 30916436 | https://sdilej.cz/6622841/sedm-let-v-tibetu-seven-years-in-tibet-1997-.bluray.h264.dts-s24-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
