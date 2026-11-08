@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T15:02:47.895959+00:00
+Poslední aktualizace (UTC): 2026-11-08T15:02:51.593758+00:00
 
 Zkontrolováno videí: 546. Další stránka kontroly: 0.
 
@@ -85,7 +85,7 @@ Kontrol: 5; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-08T14:33:43.787285+00:00 |
 | [Let Me In 1080p CZ Titulky](https://prehraj.to/let-me-in-1080p-cz-titulky-mkv/19f573b92ce5a392) (ID 30919516) | [Sdílej 35148588](https://sdilej.cz/35148588/let.me.in.2010.1080p.bluray.dl.ac3.x264-majo.mkv) | target_unavailable | 2026-11-08T14:32:25.326614+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-08T14:52:55.976292+00:00 |
-| [Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky](https://prehraj.to/mission-impossible-the-final-reckoning-mission-impossible-the-final-reckoning-4k-cz-titulky-mkv/1488be02e4c2bfe3) (ID 30912287) | [Sdílej 32921261](https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv) | target_unavailable | 2026-11-08T14:01:54.757711+00:00 |
+| [Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky](https://prehraj.to/mission-impossible-the-final-reckoning-mission-impossible-the-final-reckoning-4k-cz-titulky-mkv/1488be02e4c2bfe3) (ID 30912287) | [Sdílej 32921261](https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv) | target_unavailable | 2026-11-08T15:02:51.593673+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-08T14:42:51.857874+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-08T14:33:37.020649+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T14:42:45.252879+00:00 |
