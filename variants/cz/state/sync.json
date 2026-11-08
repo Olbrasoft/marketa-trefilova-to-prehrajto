@@ -49995,13 +49995,6 @@
           "source_id": "11203350",
           "target_video_id": "30775439",
           "permanent": false,
-          "attempted_at": "2026-11-08T17:58:48.895569+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11203350",
-          "target_video_id": "30775439",
-          "permanent": false,
           "attempted_at": "2026-11-08T18:30:14.996719+00:00"
         },
         {
@@ -50010,6 +50003,13 @@
           "target_video_id": "30775439",
           "permanent": false,
           "attempted_at": "2026-11-08T19:00:51.762042+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11203350",
+          "target_video_id": "30775439",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:32:25.843875+00:00"
         }
       ],
       "last_plan": {
@@ -50023,12 +50023,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-04T00:02:22.495709+00:00",
         "relay_source_id": "11203350"
-      },
-      "claim": {
-        "worker_id": "3f29f0e35e194a6bac518636e872e44f-shard-0",
-        "claimed_at": "2026-11-08T19:32:23.516293+00:00",
-        "lease_expires_at": "2026-11-09T01:32:23.516293+00:00",
-        "run_id": "42499495816"
       }
     },
     "30131": {
@@ -50789,7 +50783,7 @@
       "last_plan": {
         "source_id": "32819081",
         "display_name": "Die Hard 2 4K CZ Dabing",
-        "planned_at": "2026-11-08T19:00:53.096248+00:00"
+        "planned_at": "2026-11-08T19:32:26.398626+00:00"
       },
       "previous_target_id": "30776530",
       "prepared": {
@@ -87864,11 +87858,16 @@
       "last_plan": {
         "source_id": "34392861",
         "display_name": "Mars: Inside SpaceX 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:32:22.039809+00:00"
+        "planned_at": "2026-11-08T19:32:26.624975+00:00"
       }
     },
     "2169": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34648747",
+        "display_name": "Lost in Starlight (이 별에 필요한) 1080p CZ Dabing",
+        "planned_at": "2026-11-08T19:32:26.749190+00:00"
+      }
     },
     "18096": {
       "attempts": []
@@ -143650,5 +143649,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:32:23.516317+00:00"
+  "updated_at": "2026-11-08T19:32:26.749207+00:00"
 }
