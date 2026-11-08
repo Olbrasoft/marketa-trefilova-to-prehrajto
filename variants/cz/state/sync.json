@@ -27467,13 +27467,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-08T21:10:01.970406+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-08T21:40:56.966968+00:00"
         },
         {
@@ -27482,6 +27475,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-08T22:11:24.070650+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-08T22:50:55.266947+00:00"
         }
       ],
       "last_plan": {
@@ -72215,7 +72215,7 @@
       "last_plan": {
         "source_id": "27386940",
         "display_name": "A Midnight Clear 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:11:25.623950+00:00"
+        "planned_at": "2026-11-08T22:50:53.934282+00:00"
       },
       "previous_target_id": "30871996",
       "prepared": {
@@ -72223,6 +72223,12 @@
         "size_bytes": 27600000000,
         "prepared_at": "2026-11-06T22:43:18.167527+00:00",
         "relay_source_id": "27386940"
+      },
+      "claim": {
+        "worker_id": "cf52384adf314ce2b3dd94e8098ff220-shard-0",
+        "claimed_at": "2026-11-08T22:50:54.504720+00:00",
+        "lease_expires_at": "2026-11-09T04:50:54.504720+00:00",
+        "run_id": "42519750852"
       }
     },
     "11683": {
@@ -91186,7 +91192,7 @@
       "last_plan": {
         "source_id": "33770386",
         "display_name": "Ted 1080p CZ Dabing",
-        "planned_at": "2026-11-08T22:50:51.614725+00:00"
+        "planned_at": "2026-11-08T22:50:54.175242+00:00"
       }
     },
     "2760": {
@@ -147068,5 +147074,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T22:50:51.967294+00:00"
+  "updated_at": "2026-11-08T22:50:55.266966+00:00"
 }
