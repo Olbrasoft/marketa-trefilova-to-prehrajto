@@ -531,7 +531,7 @@ Attach subtitles only after target processing has finished.
 | Basic Instinct 1080p CZ Titulky | 30911357 | https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv | Complete: Czech subtitles verified |
 | Rocky Balboa 1080p CZ Titulky | 30911575 | https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv | Complete: Czech subtitles verified |
 | Wrath of Man 1080p CZ Titulky | 30911851 | https://sdilej.cz/27854646/rozhnevany-muz.mp4 | Extract Czech track from exact source after processing |
-| Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky | 30912287 | https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
+| Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky | 30912287 | https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv | Complete: Czech subtitles verified |
 | Spaceballs 1080p CZ Titulky | 30912425 | https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv | Complete: Czech subtitles verified |
 | Talk to Me 4K CZ Titulky | 30912885 | https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv | Extract Czech track from exact source after processing |
 | Melancholia (2011) [ID 27275] 1080p CZ Titulky | 30913403 | https://sdilej.cz/30611131/melancholia-2011-1080p-en-cz-.mkv | Complete: Czech subtitles verified |
@@ -541,7 +541,7 @@ Attach subtitles only after target processing has finished.
 | Allied 1080p CZ Titulky | 30915323 | https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Creed II 1080p CZ Titulky | 30916024 | https://sdilej.cz/35402148/creed.ii.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | The Devil All the Time 1080p CZ Titulky | 30916168 | https://sdilej.cz/29802496/the.devil.all.the.time.2020.1080p.h264.leon.-en-subs-cz-.mkv | Extract Czech track from exact source after processing |
-| Seven Years in Tibet 720p CZ Titulky | 30916436 | https://sdilej.cz/6622841/sedm-let-v-tibetu-seven-years-in-tibet-1997-.bluray.h264.dts-s24-5.1-eng-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Seven Years in Tibet 720p CZ Titulky | 30916436 | https://sdilej.cz/6622841/sedm-let-v-tibetu-seven-years-in-tibet-1997-.bluray.h264.dts-s24-5.1-eng-ceske-titulky.mkv | Complete: Czech subtitles verified |
 | Booksmart 1080p CZ Titulky | 30918609 | https://sdilej.cz/11921728/booksmart.sprtky-to-chtej-taky.sprtky-to-chcu-tiez.2019.1080p-h264-5.1-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | Bring Her Back 1440p CZ Titulky | 30918667 | https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv | Extract Czech track from exact source after processing |
 | Flags of Our Fathers 1080p CZ Titulky | 30919505 | https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
