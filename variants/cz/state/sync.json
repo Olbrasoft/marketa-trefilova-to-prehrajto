@@ -86941,17 +86941,19 @@
       }
     },
     "12448": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34888501",
+          "target_video_id": "30924164",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:50:44.243279+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34888501",
         "display_name": "Adelheid 1080p CZ Dabing",
         "planned_at": "2026-11-08T18:43:42.237627+00:00"
-      },
-      "claim": {
-        "worker_id": "2ad4547195154089bd77fad131ebc2ba-shard-0",
-        "claimed_at": "2026-11-08T18:43:42.528538+00:00",
-        "lease_expires_at": "2026-11-09T00:43:42.528538+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924164",
       "prepared": {
@@ -142654,5 +142656,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:48:51.665556+00:00"
+  "updated_at": "2026-11-08T18:50:44.243296+00:00"
 }
