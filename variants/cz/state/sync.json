@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "4052ab3fcbd24634aaf4ca260ac37e3d-shard-0",
+        "claimed_at": "2026-11-08T19:05:10.696132+00:00",
+        "lease_expires_at": "2026-11-09T01:05:10.696132+00:00",
+        "run_id": "42499495816"
       }
     },
     "29922": {
@@ -87381,7 +87387,20 @@
       "last_plan": {
         "source_id": "32573465",
         "display_name": "Emma (1996) [ID 12344] 1080p CZ Dabing",
-        "planned_at": "2026-11-08T19:05:09.183437+00:00"
+        "planned_at": "2026-11-08T19:05:10.953264+00:00"
+      },
+      "claim": {
+        "worker_id": "33cc5a48c7684853a48e9dff85fc4c3c-shard-0",
+        "claimed_at": "2026-11-08T19:05:11.296011+00:00",
+        "lease_expires_at": "2026-11-09T01:05:11.296011+00:00",
+        "run_id": "42499495816"
+      },
+      "previous_target_id": "30924443",
+      "prepared": {
+        "target_video_id": "30924443",
+        "size_bytes": 2973005087,
+        "prepared_at": "2026-11-08T19:05:16.379153+00:00",
+        "relay_source_id": "32573465"
       }
     },
     "23914": {
@@ -142963,5 +142982,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:05:09.183453+00:00"
+  "updated_at": "2026-11-08T19:05:16.379171+00:00"
 }
