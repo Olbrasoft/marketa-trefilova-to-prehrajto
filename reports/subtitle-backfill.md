@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:32:49.955386+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:32:53.647927+00:00
 
 Zkontrolováno videí: 539. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 413, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 62, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 414, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 61, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -72,7 +72,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 48. Důvo
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-08T11:22:55.079842+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-08T11:23:19.537555+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-07T16:48:37.663661+00:00 |
-| [Cactus Flower 1080p CZ Titulky](https://prehraj.to/cactus-flower-1080p-cz-titulky-mkv/e54744e501483bd1) (ID 30894652) | [Sdílej 35402062](https://sdilej.cz/35402062/cactus-flower-1969-1-.cz.sub.mkv) | target_unavailable | 2026-11-07T16:48:30.010930+00:00 |
 | [Champions (Campeones) (2018) 1080p CZ Titulky](https://prehraj.to/champions-campeones-2018-1080p-cz-titulky-mkv/f3836d153aaf4e34) (ID 30895897) | [Sdílej 32204599](https://sdilej.cz/32204599/sampioni.mkv) | target_unavailable | 2026-11-07T18:10:00.376380+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-07T16:48:55.981620+00:00 |
 | [Creed II 1080p CZ Titulky](https://prehraj.to/creed-ii-1080p-cz-titulky-mkv/cb18e49075c3267c) (ID 30916024) | [Sdílej 35402148](https://sdilej.cz/35402148/creed.ii.2018.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-08T11:32:49.955300+00:00 |
