@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T14:42:41.647910+00:00
+Poslední aktualizace (UTC): 2026-11-08T14:42:45.252942+00:00
 
 Zkontrolováno videí: 545. Další stránka kontroly: 0.
 
@@ -88,7 +88,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 2. Důvod
 | [Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky](https://prehraj.to/mission-impossible-the-final-reckoning-mission-impossible-the-final-reckoning-4k-cz-titulky-mkv/1488be02e4c2bfe3) (ID 30912287) | [Sdílej 32921261](https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv) | target_unavailable | 2026-11-08T14:01:54.757711+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-08T13:41:41.296881+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-08T14:33:37.020649+00:00 |
-| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T13:41:33.511897+00:00 |
+| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T14:42:45.252879+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T14:33:29.430126+00:00 |
 | [Prayers for the Stolen (Noche de fuego) 1080p CZ Titulky](https://prehraj.to/prayers-for-the-stolen-noche-de-fuego-1080p-cz-titulky-mkv/ca62beb557a955ad) (ID 30898313) | [Sdílej 18892846](https://sdilej.cz/18892846/noc-ohnu-noche-de-fuego-1080p-2021-vlozene-cz-titulky-kst.mkv) | source_unavailable | 2026-11-08T13:51:41.802152+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-08T14:33:51.210331+00:00 |
