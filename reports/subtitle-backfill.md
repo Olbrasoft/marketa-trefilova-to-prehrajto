@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T11:43:10.742364+00:00
+Poslední aktualizace (UTC): 2026-11-08T11:43:14.389870+00:00
 
 Zkontrolováno videí: 540. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 421, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 8, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 53, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 422, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 8, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 52, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -110,7 +110,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 29. Důvo
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | target_unavailable | 2026-11-08T09:01:17.396913+00:00 |
 | [The Danish Girl SD CZ Titulky](https://prehraj.to/the-danish-girl-sd-cz-titulky-mkv/0cb041c3918ec941) (ID 30913831) | [Sdílej 5467007](https://sdilej.cz/5467007/danska-divka-the-danish-girl-2015-titulky.cz.mkv) | target_unavailable | 2026-11-08T09:51:49.356262+00:00 |
 | [The Devil All the Time 1080p CZ Titulky](https://prehraj.to/the-devil-all-the-time-1080p-cz-titulky-mkv/1a011aaf592917c8) (ID 30916168) | [Sdílej 29802496](https://sdilej.cz/29802496/the.devil.all.the.time.2020.1080p.h264.leon.-en-subs-cz-.mkv) | target_unavailable | 2026-11-08T11:42:58.744189+00:00 |
-| [The Endless Trench 1080p CZ Titulky](https://prehraj.to/the-endless-trench-1080p-cz-titulky-mkv/78bc83a0fce123e0) (ID 30901287) | [Sdílej 13066841](https://sdilej.cz/13066841/the.endless.trench.2019.1080p.cz.sub.web-dl.ddp5.1.x264.mkv) | target_unavailable | 2026-11-07T23:36:03.430576+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | source_unavailable | 2026-11-08T11:22:46.072086+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-08T11:23:40.757319+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-08T11:23:23.580237+00:00 |
