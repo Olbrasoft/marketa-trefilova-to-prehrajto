@@ -87029,17 +87029,19 @@
       }
     },
     "23849": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35057230",
+          "reason": "Request failed for https://sdilej.cz/35057230/medvidek-pu-a-jeho-velkolepe-dobrodruzstvi-1997-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-08T18:52:23.268193+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35057230",
         "display_name": "Pooh's Grand Adventure: The Search for Christopher Robin 1080p CZ Dabing",
         "planned_at": "2026-11-08T18:51:37.195267+00:00"
-      },
-      "claim": {
-        "worker_id": "e822795e659f4cbe95700a600ab7e734-shard-0",
-        "claimed_at": "2026-11-08T18:51:37.473968+00:00",
-        "lease_expires_at": "2026-11-09T00:51:37.473968+00:00",
-        "run_id": "42499495816"
       }
     },
     "2253": {
@@ -142731,5 +142733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:52:18.858047+00:00"
+  "updated_at": "2026-11-08T18:52:23.268212+00:00"
 }
