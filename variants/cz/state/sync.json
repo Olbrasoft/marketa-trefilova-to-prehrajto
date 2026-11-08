@@ -80946,17 +80946,19 @@
       "attempts": []
     },
     "27803": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34883398",
+          "target_video_id": "30902466",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:27:19.696375+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34883398",
         "display_name": "Now Is Good 720p CZ Dabing",
         "planned_at": "2026-11-08T00:22:46.770122+00:00"
-      },
-      "claim": {
-        "worker_id": "a8c09823396140a08d1017d416bad14b-shard-0",
-        "claimed_at": "2026-11-08T00:22:47.124564+00:00",
-        "lease_expires_at": "2026-11-08T06:22:47.124564+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30902466",
       "prepared": {
@@ -133232,5 +133234,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:26:08.213506+00:00"
+  "updated_at": "2026-11-08T00:27:19.696395+00:00"
 }
