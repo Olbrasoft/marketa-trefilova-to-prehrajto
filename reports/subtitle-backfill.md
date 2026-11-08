@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T17:01:58.678350+00:00
+Poslední aktualizace (UTC): 2026-11-08T17:02:00.708445+00:00
 
 Zkontrolováno videí: 549. Další stránka kontroly: 0.
 
@@ -72,7 +72,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Audition (オーディション) (1999) 1080p CZ Titulky](https://prehraj.to/audition-1999-1080p-cz-titulky-mkv/c253b098e0e20587) (ID 30921833) | [Sdílej 30970326](https://sdilej.cz/30970326/audition-konkurz-na-smrt-japan-1999-.mkv) | target_unavailable | 2026-11-08T16:33:53.908594+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-08T16:34:38.485642+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-08T16:35:01.145400+00:00 |
-| [Bring Her Back 1440p CZ Titulky](https://prehraj.to/bring-her-back-1440p-cz-titulky-mkv/3b3d7c78bef43bbb) (ID 30918667) | [Sdílej 33078076](https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv) | target_unavailable | 2026-11-08T15:53:18.683162+00:00 |
+| [Bring Her Back 1440p CZ Titulky](https://prehraj.to/bring-her-back-1440p-cz-titulky-mkv/3b3d7c78bef43bbb) (ID 30918667) | [Sdílej 33078076](https://sdilej.cz/33078076/bring-her-back-2025-2160p-en-cztit-radecek.mkv) | target_unavailable | 2026-11-08T17:02:00.515562+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-08T16:44:29.000006+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-08T16:44:45.996149+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-08T16:44:22.141014+00:00 |
