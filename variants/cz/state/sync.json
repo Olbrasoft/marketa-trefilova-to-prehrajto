@@ -89858,17 +89858,19 @@
       "attempts": []
     },
     "13478": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34681166",
+          "target_video_id": "30925995",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:23:00.312669+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34681166",
         "display_name": "Something like Happiness (Štěstí) 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:16:39.531643+00:00"
-      },
-      "claim": {
-        "worker_id": "87d53630d17f48e2a322b141730ae4bc-shard-0",
-        "claimed_at": "2026-11-08T21:16:39.962432+00:00",
-        "lease_expires_at": "2026-11-09T03:16:39.962432+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30925995",
       "prepared": {
@@ -145781,5 +145783,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:17:12.032115+00:00"
+  "updated_at": "2026-11-08T21:23:00.312694+00:00"
 }
