@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T14:33:56.701800+00:00
+Poslední aktualizace (UTC): 2026-11-08T14:42:25.743318+00:00
 
 Zkontrolováno videí: 545. Další stránka kontroly: 0.
 
