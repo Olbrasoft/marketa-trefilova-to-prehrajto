@@ -82370,17 +82370,19 @@
       "attempts": []
     },
     "23930": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28773000",
+          "target_video_id": "30910006",
+          "permanent": false,
+          "attempted_at": "2026-11-08T06:43:21.914420+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28773000",
         "display_name": "Return to Me 1080p CZ Dabing",
         "planned_at": "2026-11-08T06:37:48.665727+00:00"
-      },
-      "claim": {
-        "worker_id": "2fe299e4e4ba404a82420c223df67d3b-shard-0",
-        "claimed_at": "2026-11-08T06:37:48.873745+00:00",
-        "lease_expires_at": "2026-11-08T12:37:48.873745+00:00",
-        "run_id": "42442579006"
       },
       "previous_target_id": "30910006",
       "prepared": {
@@ -136037,5 +136039,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T06:37:52.785826+00:00"
+  "updated_at": "2026-11-08T06:43:21.914440+00:00"
 }
