@@ -514,3 +514,4 @@ Attach subtitles only after target processing has finished.
 | The Endless Trench 1080p CZ Titulky | 30901287 | https://sdilej.cz/13066841/the.endless.trench.2019.1080p.cz.sub.web-dl.ddp5.1.x264.mkv | Extract Czech track from exact source after processing |
 | The Tiger: An Old Hunter's Tale (The Tiger) 1080p CZ Titulky | 30901878 | https://sdilej.cz/17612916/the.tiger.an.old.hunters.tale.2015.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | I, Robot 1080p CZ Titulky | 30903487 | https://sdilej.cz/13584267/ja-robot-i-robot-2004-cz-dabing-1080p-bluray-dd5.1.mkv | Extract Czech track from exact source after processing |
+| Glass Onion: A Knives Out Mystery 1080p CZ Titulky | 30903877 | https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv | Extract Czech track from exact source after processing |
