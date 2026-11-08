@@ -87502,17 +87502,19 @@
       }
     },
     "23155": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31439276",
+          "target_video_id": "30924533",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:12:32.838565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31439276",
         "display_name": "Treasure Island (1990) SD CZ Dabing",
         "planned_at": "2026-11-08T19:10:39.629150+00:00"
-      },
-      "claim": {
-        "worker_id": "2579004b9a0f474d8328775aa74cf9c5-shard-0",
-        "claimed_at": "2026-11-08T19:10:39.938920+00:00",
-        "lease_expires_at": "2026-11-09T01:10:39.938920+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924533",
       "prepared": {
@@ -143086,5 +143088,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:12:31.582717+00:00"
+  "updated_at": "2026-11-08T19:12:32.838582+00:00"
 }
