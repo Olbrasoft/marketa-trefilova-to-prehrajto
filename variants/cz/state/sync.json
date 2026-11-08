@@ -82710,17 +82710,19 @@
       }
     },
     "23921": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24749155",
+          "reason": "Source detail has no authenticated download link; source_id=24749155",
+          "permanent": false,
+          "attempted_at": "2026-11-08T08:30:29.823342+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24749155",
         "display_name": "Titus 1080p CZ Dabing",
         "planned_at": "2026-11-08T08:30:26.071696+00:00"
-      },
-      "claim": {
-        "worker_id": "455c29d0c088453fabcfddfa04a2878b-shard-0",
-        "claimed_at": "2026-11-08T08:30:26.999967+00:00",
-        "lease_expires_at": "2026-11-08T14:30:26.999967+00:00",
-        "run_id": "42462687727"
       }
     },
     "32607": {
@@ -136770,5 +136772,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T08:30:26.999987+00:00"
+  "updated_at": "2026-11-08T08:30:29.823362+00:00"
 }
