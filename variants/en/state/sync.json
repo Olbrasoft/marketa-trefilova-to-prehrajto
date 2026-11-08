@@ -28874,17 +28874,19 @@
       "attempts": []
     },
     "2056": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6622841",
+          "target_video_id": "30916436",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:06:39.588394+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6622841",
         "display_name": "Seven Years in Tibet 720p CZ Titulky",
         "planned_at": "2026-11-08T11:47:41.531756+00:00"
-      },
-      "claim": {
-        "worker_id": "2604f3d61c324995b398caf33ea62cb1-shard-0",
-        "claimed_at": "2026-11-08T11:47:41.619327+00:00",
-        "lease_expires_at": "2026-11-08T17:47:41.619327+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30916436",
       "prepared": {
@@ -86667,5 +86669,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T11:59:27.511815+00:00"
+  "updated_at": "2026-11-08T12:06:39.588411+00:00"
 }
