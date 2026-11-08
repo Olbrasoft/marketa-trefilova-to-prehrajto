@@ -12786,13 +12786,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-08T16:17:55.083748+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-08T16:53:21.899486+00:00"
         },
         {
@@ -12801,6 +12794,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-08T17:25:34.874144+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:57:58.343559+00:00"
         }
       ],
       "last_plan": {
@@ -16912,7 +16912,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-08T17:25:36.467233+00:00"
+        "planned_at": "2026-11-08T17:57:57.333836+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16920,6 +16920,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "76c96cd4c99c4b048e3cd0e3f0c41121-shard-0",
+        "claimed_at": "2026-11-08T17:57:57.886136+00:00",
+        "lease_expires_at": "2026-11-08T23:57:57.886136+00:00",
+        "run_id": "42499495816"
       }
     },
     "614": {
@@ -86272,7 +86278,7 @@
       "last_plan": {
         "source_id": "34849247",
         "display_name": "Don't Move (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T17:57:55.508800+00:00"
+        "planned_at": "2026-11-08T17:57:57.556375+00:00"
       }
     },
     "29686": {
@@ -141866,5 +141872,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:57:55.685875+00:00"
+  "updated_at": "2026-11-08T17:57:58.343577+00:00"
 }
