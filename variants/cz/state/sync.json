@@ -43615,13 +43615,6 @@
           "source_id": "34841408",
           "target_video_id": "30757982",
           "permanent": false,
-          "attempted_at": "2026-11-08T12:42:48.891909+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34841408",
-          "target_video_id": "30757982",
-          "permanent": false,
           "attempted_at": "2026-11-08T13:13:21.797427+00:00"
         },
         {
@@ -43630,6 +43623,13 @@
           "target_video_id": "30757982",
           "permanent": false,
           "attempted_at": "2026-11-08T13:44:52.034765+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34841408",
+          "target_video_id": "30757982",
+          "permanent": false,
+          "attempted_at": "2026-11-08T14:27:28.216318+00:00"
         }
       ],
       "last_plan": {
@@ -84600,7 +84600,7 @@
       "last_plan": {
         "source_id": "29291675",
         "display_name": "The Decameron 720p CZ Dabing",
-        "planned_at": "2026-11-08T13:37:10.103684+00:00"
+        "planned_at": "2026-11-08T14:27:27.063243+00:00"
       },
       "previous_target_id": "30918479",
       "prepared": {
@@ -84608,6 +84608,12 @@
         "size_bytes": 2849526770,
         "prepared_at": "2026-11-08T13:37:13.935116+00:00",
         "relay_source_id": "29291675"
+      },
+      "claim": {
+        "worker_id": "c411070c0d504aef9bdc71f687c4ad38-shard-0",
+        "claimed_at": "2026-11-08T14:27:27.656504+00:00",
+        "lease_expires_at": "2026-11-08T20:27:27.656504+00:00",
+        "run_id": "42480114124"
       }
     },
     "23594": {
@@ -84735,7 +84741,7 @@
       "last_plan": {
         "source_id": "32324471",
         "display_name": "Johnny 1080p CZ Dabing",
-        "planned_at": "2026-11-08T14:27:24.936516+00:00"
+        "planned_at": "2026-11-08T14:27:27.298761+00:00"
       }
     },
     "18579": {
@@ -140005,5 +140011,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:27:24.936536+00:00"
+  "updated_at": "2026-11-08T14:27:28.216338+00:00"
 }
