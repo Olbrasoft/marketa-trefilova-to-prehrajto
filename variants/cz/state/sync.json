@@ -87418,17 +87418,19 @@
       }
     },
     "23914": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6967528",
+          "target_video_id": "30924469",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:08:34.099871+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6967528",
         "display_name": "RKO 281 SD CZ Dabing",
         "planned_at": "2026-11-08T19:06:49.876085+00:00"
-      },
-      "claim": {
-        "worker_id": "88c1947b372649158abfa5adc1cb408b-shard-0",
-        "claimed_at": "2026-11-08T19:06:50.428859+00:00",
-        "lease_expires_at": "2026-11-09T01:06:50.428859+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924469",
       "prepared": {
@@ -143032,5 +143034,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:07:01.602780+00:00"
+  "updated_at": "2026-11-08T19:08:34.099888+00:00"
 }
