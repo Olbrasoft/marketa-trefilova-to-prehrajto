@@ -45554,13 +45554,6 @@
           "source_id": "20443534",
           "target_video_id": "30871258",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:52:52.294036+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20443534",
-          "target_video_id": "30871258",
-          "permanent": false,
           "attempted_at": "2026-11-08T00:25:01.356188+00:00"
         },
         {
@@ -45569,6 +45562,13 @@
           "target_video_id": "30871258",
           "permanent": false,
           "attempted_at": "2026-11-08T00:55:22.187865+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-08T01:32:30.082714+00:00"
         }
       ],
       "last_plan": {
@@ -45582,12 +45582,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-06T22:18:15.551292+00:00",
         "relay_source_id": "20443534"
-      },
-      "claim": {
-        "worker_id": "dfcfb81559584bc0bb839c60bf159d23-shard-0",
-        "claimed_at": "2026-11-08T01:32:27.876251+00:00",
-        "lease_expires_at": "2026-11-08T07:32:27.876251+00:00",
-        "run_id": "42420247810"
       }
     },
     "1104": {
@@ -64738,7 +64732,7 @@
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:55:20.641887+00:00"
+        "planned_at": "2026-11-08T01:32:29.433548+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -64746,6 +64740,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-05T14:15:35.875478+00:00",
         "relay_source_id": "11088676"
+      },
+      "claim": {
+        "worker_id": "35d1b5058b7e4472aea5c257a6806a43-shard-0",
+        "claimed_at": "2026-11-08T01:32:29.791649+00:00",
+        "lease_expires_at": "2026-11-08T07:32:29.791649+00:00",
+        "run_id": "42420247810"
       }
     },
     "1582": {
@@ -81518,7 +81518,7 @@
       "last_plan": {
         "source_id": "31172824",
         "display_name": "Two Mules for Sister Sara 1080p CZ Dabing",
-        "planned_at": "2026-11-08T01:32:27.668277+00:00"
+        "planned_at": "2026-11-08T01:32:29.583010+00:00"
       }
     },
     "22214": {
@@ -134148,5 +134148,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:32:28.015311+00:00"
+  "updated_at": "2026-11-08T01:32:30.082732+00:00"
 }
