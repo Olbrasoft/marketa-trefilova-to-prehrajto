@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-08T16:17:37.133854+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-08T16:53:12.737930+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-08T17:25:21.018568+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:57:48.185404+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "fd08f97cd1074374907334fd6544c836-shard-0",
-        "claimed_at": "2026-11-08T17:57:45.759131+00:00",
-        "lease_expires_at": "2026-11-08T23:57:45.759131+00:00",
-        "run_id": "42499495816"
       }
     },
     "52": {
@@ -14024,7 +14018,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-08T17:25:23.944448+00:00"
+        "planned_at": "2026-11-08T17:57:47.385964+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -14032,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "db9b65eea02449bd9fffaa28b5e2ecf7-shard-0",
+        "claimed_at": "2026-11-08T17:57:47.946395+00:00",
+        "lease_expires_at": "2026-11-08T23:57:47.946395+00:00",
+        "run_id": "42499495816"
       }
     },
     "22047": {
@@ -86278,7 +86278,7 @@
       "last_plan": {
         "source_id": "34849247",
         "display_name": "Don't Move (2004) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T17:57:45.436682+00:00"
+        "planned_at": "2026-11-08T17:57:47.610210+00:00"
       }
     },
     "29686": {
@@ -141872,5 +141872,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:57:46.007416+00:00"
+  "updated_at": "2026-11-08T17:57:48.185422+00:00"
 }
