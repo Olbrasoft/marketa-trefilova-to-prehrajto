@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-08T19:30:42.398545+00:00"
+        "planned_at": "2026-11-08T20:01:26.198916+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "9a189b5bfba14bfd9c6418d29fc4553e-shard-0",
+        "claimed_at": "2026-11-08T20:01:26.759765+00:00",
+        "lease_expires_at": "2026-11-09T02:01:26.759765+00:00",
+        "run_id": "42499495816"
       }
     },
     "10755": {
@@ -88469,17 +88475,19 @@
       "attempts": []
     },
     "24264": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7031696",
+          "target_video_id": "30925056",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:01:27.917085+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7031696",
         "display_name": "After the Truth SD CZ Dabing",
         "planned_at": "2026-11-08T19:59:47.498570+00:00"
-      },
-      "claim": {
-        "worker_id": "d172200e749c46f88231d046fc91c6c8-shard-0",
-        "claimed_at": "2026-11-08T19:59:47.823601+00:00",
-        "lease_expires_at": "2026-11-09T01:59:47.823601+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925056",
       "prepared": {
@@ -88494,7 +88502,7 @@
       "last_plan": {
         "source_id": "34871582",
         "display_name": "Morgiana 1080p CZ Dabing",
-        "planned_at": "2026-11-08T20:01:23.337350+00:00"
+        "planned_at": "2026-11-08T20:01:26.449346+00:00"
       }
     },
     "17730": {
@@ -144151,5 +144159,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:01:24.725535+00:00"
+  "updated_at": "2026-11-08T20:01:27.917102+00:00"
 }
