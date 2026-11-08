@@ -81597,17 +81597,19 @@
       }
     },
     "12382": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33691975",
+          "target_video_id": "30904307",
+          "permanent": false,
+          "attempted_at": "2026-11-08T02:07:15.263403+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33691975",
         "display_name": "Kundun 1080p CZ Dabing",
         "planned_at": "2026-11-08T01:57:04.112059+00:00"
-      },
-      "claim": {
-        "worker_id": "0b8c1ab7f603419fa64d72d15c2f9ca1-shard-0",
-        "claimed_at": "2026-11-08T01:57:04.308438+00:00",
-        "lease_expires_at": "2026-11-08T07:57:04.308438+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30904307",
       "prepared": {
@@ -134238,5 +134240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T01:57:08.345235+00:00"
+  "updated_at": "2026-11-08T02:07:15.263432+00:00"
 }
