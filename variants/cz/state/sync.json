@@ -87729,17 +87729,19 @@
       }
     },
     "21596": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29331139",
+          "target_video_id": "30924705",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:26:24.129974+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29331139",
         "display_name": "The Gallant Hours 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:23:52.942941+00:00"
-      },
-      "claim": {
-        "worker_id": "fb703f6dd65f45289d78bcd305c70c8b-shard-0",
-        "claimed_at": "2026-11-08T19:23:53.243352+00:00",
-        "lease_expires_at": "2026-11-09T01:23:53.243352+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924705",
       "prepared": {
@@ -143583,5 +143585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:25:36.640113+00:00"
+  "updated_at": "2026-11-08T19:26:24.129990+00:00"
 }
