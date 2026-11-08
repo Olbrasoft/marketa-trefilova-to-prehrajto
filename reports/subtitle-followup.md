@@ -549,3 +549,4 @@ Attach subtitles only after target processing has finished.
 | The Drama 4K CZ Titulky | 30920101 | https://sdilej.cz/34716958/the-drama-2026-2160p-webrip-dv-hdr10-ddp5.1-atmos-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Warfare 1440p CZ Titulky | 30920638 | https://sdilej.cz/31269211/warfare-2025-4k.mkv | Extract Czech track from exact source after processing |
 | Audition (オーディション) (1999) 1080p CZ Titulky | 30921833 | https://sdilej.cz/30970326/audition-konkurz-na-smrt-japan-1999-.mkv | Extract Czech track from exact source after processing |
+| In the Mouth of Madness 1080p CZ Titulky | 30922359 | https://sdilej.cz/18282391/in-the-mouth-of-madness.1994-1080p.bluray.dts.x264-dabing-cz-eng-titulky-cz.mkv | Extract Czech track from exact source after processing |
