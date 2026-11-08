@@ -531,3 +531,4 @@ Attach subtitles only after target processing has finished.
 | Basic Instinct 1080p CZ Titulky | 30911357 | https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv | Extract Czech track from exact source after processing |
 | Rocky Balboa 1080p CZ Titulky | 30911575 | https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv | Extract Czech track from exact source after processing |
 | Wrath of Man 1080p CZ Titulky | 30911851 | https://sdilej.cz/27854646/rozhnevany-muz.mp4 | Extract Czech track from exact source after processing |
+| Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky | 30912287 | https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv | Extract Czech track from exact source after processing |
