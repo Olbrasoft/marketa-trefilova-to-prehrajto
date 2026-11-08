@@ -27455,13 +27455,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-07T23:21:23.665366+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-07T23:52:30.802321+00:00"
         },
         {
@@ -27470,6 +27463,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-08T00:24:36.390379+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-08T00:55:07.841840+00:00"
         }
       ],
       "last_plan": {
@@ -27483,12 +27483,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-02T03:14:11.037750+00:00",
         "relay_source_id": "32448687"
-      },
-      "claim": {
-        "worker_id": "8b150c25723f47f78e6ae2d71ac0a780-shard-0",
-        "claimed_at": "2026-11-08T00:55:06.039065+00:00",
-        "lease_expires_at": "2026-11-08T06:55:06.039065+00:00",
-        "run_id": "42420247810"
       }
     },
     "880": {
@@ -72209,7 +72203,7 @@
       "last_plan": {
         "source_id": "27386940",
         "display_name": "A Midnight Clear 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:24:37.728667+00:00"
+        "planned_at": "2026-11-08T00:55:07.381950+00:00"
       },
       "previous_target_id": "30871996",
       "prepared": {
@@ -72217,6 +72211,12 @@
         "size_bytes": 27600000000,
         "prepared_at": "2026-11-06T22:43:18.167527+00:00",
         "relay_source_id": "27386940"
+      },
+      "claim": {
+        "worker_id": "7fa71e47c20543979df71c29f5ff7f5d-shard-0",
+        "claimed_at": "2026-11-08T00:55:07.741940+00:00",
+        "lease_expires_at": "2026-11-08T06:55:07.741940+00:00",
+        "run_id": "42420247810"
       }
     },
     "11683": {
@@ -81275,7 +81275,7 @@
       "last_plan": {
         "source_id": "34334619",
         "display_name": "Dragon: The Bruce Lee Story 1080p CZ Dabing",
-        "planned_at": "2026-11-08T00:55:05.845512+00:00"
+        "planned_at": "2026-11-08T00:55:07.529041+00:00"
       }
     },
     "13791": {
@@ -133707,5 +133707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T00:55:06.196922+00:00"
+  "updated_at": "2026-11-08T00:55:07.841865+00:00"
 }
