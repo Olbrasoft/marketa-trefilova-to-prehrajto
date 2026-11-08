@@ -83438,17 +83438,19 @@
       "attempts": []
     },
     "2247": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30134760",
+          "target_video_id": "30916049",
+          "permanent": false,
+          "attempted_at": "2026-11-08T11:34:06.337519+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30134760",
         "display_name": "Official Competition (Competencia oficial) SD CZ Dabing",
         "planned_at": "2026-11-08T11:28:07.023732+00:00"
-      },
-      "claim": {
-        "worker_id": "d7dfca954fd14563901bfe4666958b51-shard-0",
-        "claimed_at": "2026-11-08T11:28:07.398650+00:00",
-        "lease_expires_at": "2026-11-08T17:28:07.398650+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30916049",
       "prepared": {
@@ -138149,5 +138151,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T11:28:11.496062+00:00"
+  "updated_at": "2026-11-08T11:34:06.337537+00:00"
 }
