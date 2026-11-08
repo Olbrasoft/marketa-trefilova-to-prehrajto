@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T01:47:56.607275+00:00
+Poslední aktualizace (UTC): 2026-11-08T01:47:59.217594+00:00
 
 Zkontrolováno videí: 516. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `pending`: 1, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 39, `upload_unconfirmed`: 5
+Stavy: `already_has_czech`: 412, `attached_verified`: 15, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 7, `source_czech_full_text_unsupported`: 19, `source_czech_text_missing`: 14, `source_unavailable`: 2, `target_detail_url_missing`: 1, `target_unavailable`: 40, `upload_unconfirmed`: 5
 
 ## Poslední dávka
 
@@ -104,6 +104,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 44. Důvod
 | [The Tiger: An Old Hunter's Tale (The Tiger) 1080p CZ Titulky](https://prehraj.to/the-tiger-an-old-hunter-s-tale-the-tiger-1080p-cz-titulky-mkv/26272860af72b2e1) (ID 30901878) | [Sdílej 17612916](https://sdilej.cz/17612916/the.tiger.an.old.hunters.tale.2015.korean.1080p.bluray.h264.aac-titulky-cz.mkv) | target_unavailable | 2026-11-07T23:56:20.536424+00:00 |
 | [The Witch: Part 1. The Subversion (Manyeo) 1080p CZ Titulky](https://prehraj.to/the-witch-part-1-the-subversion-manyeo-1080p-cz-titulky-mkv/a667a6f042528562) (ID 30889483) | [Sdílej 18438854](https://sdilej.cz/18438854/manyeo-the-witch-part-1-5.1-titulky-cz.mkv) | target_unavailable | 2026-11-07T17:08:42.443504+00:00 |
 | [The Yakuza 1080p CZ Titulky](https://prehraj.to/the-yakuza-1080p-cz-titulky-mkv/82379460d5dd0f1d) (ID 30897645) | [Sdílej 8869265](https://sdilej.cz/8869265/pollack-1974-the-yakuza-1080p-cz-en-mpeg4-x264-ac3-brrip-ulto-wvcu-mkvmerge.mkv) | target_unavailable | 2026-11-07T20:01:12.231815+00:00 |
+| [Tropic Thunder 1080p CZ Titulky](https://prehraj.to/tropic-thunder-1080p-cz-titulky-mkv/f2bb2d097d396d86) (ID 30904135) | [Sdílej 34431613](https://sdilej.cz/34431613/tropic.thunder.2008.tc.1080p.bluray.x264.ac3-warbro.mkv) | target_unavailable | 2026-11-08T01:47:58.511156+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-07T16:49:03.279092+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-07T16:40:28.653410+00:00 |
 | [Yesterday, Today and Tomorrow 720p CZ Titulky](https://prehraj.to/yesterday-today-and-tomorrow-720p-cz-titulky-mkv/ef016ba8c50c1611) (ID 30898129) | [Sdílej 28474221](https://sdilej.cz/28474221/vcera-dnes-a-zitra-italie-fr-1963-vittorio-de-sica-bluray.720p.en.cz.sub.mkv) | target_unavailable | 2026-11-07T20:31:35.446305+00:00 |
