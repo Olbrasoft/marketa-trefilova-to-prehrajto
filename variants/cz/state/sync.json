@@ -81602,17 +81602,19 @@
       }
     },
     "22214": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33826400",
+          "target_video_id": "30904276",
+          "permanent": false,
+          "attempted_at": "2026-11-08T02:23:29.743661+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33826400",
         "display_name": "The Return of the Pink Panther 4K CZ Dabing",
         "planned_at": "2026-11-08T01:55:38.691263+00:00"
-      },
-      "claim": {
-        "worker_id": "53f6511016254fc9afef806c76c6ce44-shard-0",
-        "claimed_at": "2026-11-08T01:55:38.885151+00:00",
-        "lease_expires_at": "2026-11-08T07:55:38.885151+00:00",
-        "run_id": "42420247810"
       },
       "previous_target_id": "30904276",
       "prepared": {
@@ -134460,5 +134462,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T02:22:51.134094+00:00"
+  "updated_at": "2026-11-08T02:23:29.743680+00:00"
 }
