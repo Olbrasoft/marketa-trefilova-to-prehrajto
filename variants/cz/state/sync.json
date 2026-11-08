@@ -86337,11 +86337,20 @@
       }
     },
     "13800": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "34816776",
+          "reason": "ConnectTimeout",
+          "permanent": false,
+          "target_video_id": null,
+          "attempted_at": "2026-11-08T18:07:12.691044+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34816776",
         "display_name": "Barbie in the 12 Dancing Princesses 1080p CZ Dabing",
-        "planned_at": "2026-11-08T18:06:37.351052+00:00"
+        "planned_at": "2026-11-08T18:06:40.072549+00:00"
       }
     },
     "408": {
@@ -141923,5 +141932,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T18:06:38.412126+00:00"
+  "updated_at": "2026-11-08T18:07:12.691060+00:00"
 }
