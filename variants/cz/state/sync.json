@@ -87860,17 +87860,19 @@
       }
     },
     "30820": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34392861",
+          "target_video_id": "30924785",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:34:37.918307+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34392861",
         "display_name": "Mars: Inside SpaceX 1080p CZ Dabing",
         "planned_at": "2026-11-08T19:32:26.624975+00:00"
-      },
-      "claim": {
-        "worker_id": "4752c74bac4e462e86ff802858b43bb2-shard-0",
-        "claimed_at": "2026-11-08T19:32:28.593337+00:00",
-        "lease_expires_at": "2026-11-09T01:32:28.593337+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30924785",
       "prepared": {
@@ -143699,5 +143701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:34:25.339899+00:00"
+  "updated_at": "2026-11-08T19:34:37.918324+00:00"
 }
