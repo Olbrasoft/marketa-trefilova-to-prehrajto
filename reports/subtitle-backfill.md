@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T13:01:04.388481+00:00
+Poslední aktualizace (UTC): 2026-11-08T13:01:07.883293+00:00
 
 Zkontrolováno videí: 541. Další stránka kontroly: 0.
 
@@ -70,7 +70,7 @@ Kontrol: 4; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-08T12:33:32.459456+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-08T12:33:45.697367+00:00 |
 | [Allied 1080p CZ Titulky](https://prehraj.to/allied-1080p-cz-titulky-mkv/520bc37ffa8bcf9d) (ID 30915323) | [Sdílej 35002320](https://sdilej.cz/35002320/allied.2016.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-08T12:03:13.504330+00:00 |
-| [Babylon 4K CZ Titulky](https://prehraj.to/babylon-4k-cz-titulky-mkv/c1760976c09b2e9e) (ID 30913832) | [Sdílej 25207906](https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T11:53:54.129811+00:00 |
+| [Babylon 4K CZ Titulky](https://prehraj.to/babylon-4k-cz-titulky-mkv/c1760976c09b2e9e) (ID 30913832) | [Sdílej 25207906](https://sdilej.cz/25207906/babylon-2022-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-08T13:01:07.883215+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-08T12:23:33.461064+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-08T12:23:54.753223+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-08T12:33:35.852863+00:00 |
