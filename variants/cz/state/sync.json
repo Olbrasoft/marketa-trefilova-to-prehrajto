@@ -89794,17 +89794,19 @@
       }
     },
     "2356": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32208455",
+          "target_video_id": "30925937",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:16:35.408681+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32208455",
         "display_name": "Afterimage (Powidoki) 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:11:30.796534+00:00"
-      },
-      "claim": {
-        "worker_id": "bd776519bd11433faf35d486f74dd295-shard-0",
-        "claimed_at": "2026-11-08T21:11:31.324260+00:00",
-        "lease_expires_at": "2026-11-09T03:11:31.324260+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30925937",
       "prepared": {
@@ -145749,5 +145751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:16:08.238559+00:00"
+  "updated_at": "2026-11-08T21:16:35.408696+00:00"
 }
