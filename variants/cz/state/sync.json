@@ -91408,17 +91408,19 @@
       }
     },
     "2716": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33542180",
+          "target_video_id": "30927445",
+          "permanent": false,
+          "attempted_at": "2026-11-08T23:13:46.309826+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33542180",
         "display_name": "Maleficent 4K CZ Dabing",
         "planned_at": "2026-11-08T23:05:54.785101+00:00"
-      },
-      "claim": {
-        "worker_id": "4b56aa7a95bb4861b17a7c1280c1f9c1-shard-0",
-        "claimed_at": "2026-11-08T23:05:55.086920+00:00",
-        "lease_expires_at": "2026-11-09T05:05:55.086920+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30927445",
       "prepared": {
@@ -147319,5 +147321,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T23:13:12.287770+00:00"
+  "updated_at": "2026-11-08T23:13:46.309841+00:00"
 }
