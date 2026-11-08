@@ -83838,17 +83838,19 @@
       }
     },
     "31993": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11808163",
+          "target_video_id": "30917280",
+          "permanent": false,
+          "attempted_at": "2026-11-08T12:38:57.594698+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11808163",
         "display_name": "Dragon (武俠) SD CZ Dabing",
         "planned_at": "2026-11-08T12:27:44.105600+00:00"
-      },
-      "claim": {
-        "worker_id": "abd26ca241ad49399e73ea012fe28d67-shard-0",
-        "claimed_at": "2026-11-08T12:27:44.478121+00:00",
-        "lease_expires_at": "2026-11-08T18:27:44.478121+00:00",
-        "run_id": "42462687727"
       },
       "previous_target_id": "30917280",
       "prepared": {
@@ -138758,5 +138760,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T12:34:28.569343+00:00"
+  "updated_at": "2026-11-08T12:38:57.594715+00:00"
 }
