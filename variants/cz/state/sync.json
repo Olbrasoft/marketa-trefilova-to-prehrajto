@@ -89759,17 +89759,19 @@
       "attempts": []
     },
     "31934": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35154447",
+          "target_video_id": "30925843",
+          "permanent": false,
+          "attempted_at": "2026-11-08T21:15:12.931320+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35154447",
         "display_name": "Romeo, Juliet and Darkness (Romeo, Julie a tma) 1080p CZ Dabing",
         "planned_at": "2026-11-08T21:05:59.751085+00:00"
-      },
-      "claim": {
-        "worker_id": "d53a93062b354bacb7a4cf77b11968d3-shard-0",
-        "claimed_at": "2026-11-08T21:06:00.420704+00:00",
-        "lease_expires_at": "2026-11-09T03:06:00.420704+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30925843",
       "prepared": {
@@ -145427,5 +145429,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:11:48.299709+00:00"
+  "updated_at": "2026-11-08T21:15:12.931337+00:00"
 }
