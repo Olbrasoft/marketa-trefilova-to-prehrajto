@@ -85433,17 +85433,19 @@
       }
     },
     "2405": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32763545",
+          "target_video_id": "30922595",
+          "permanent": false,
+          "attempted_at": "2026-11-08T17:05:25.756382+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32763545",
         "display_name": "Michiel de Ruyter SD CZ Dabing",
         "planned_at": "2026-11-08T17:03:01.828683+00:00"
-      },
-      "claim": {
-        "worker_id": "ed67f7e839ea4af7b2bc3b9c858e2dab-shard-0",
-        "claimed_at": "2026-11-08T17:03:02.186631+00:00",
-        "lease_expires_at": "2026-11-08T23:03:02.186631+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30922595",
       "prepared": {
@@ -141031,5 +141033,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T17:05:07.434225+00:00"
+  "updated_at": "2026-11-08T17:05:25.756399+00:00"
 }
