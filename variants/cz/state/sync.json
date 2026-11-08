@@ -10875,13 +10875,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-08T14:58:10.997197+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-08T15:45:42.287782+00:00"
         },
         {
@@ -10890,6 +10883,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-08T16:17:14.539034+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-08T16:52:57.216634+00:00"
         }
       ],
       "last_plan": {
@@ -82397,7 +82397,7 @@
       "last_plan": {
         "source_id": "27791112",
         "display_name": "Police Story 2 (警察故事續集) SD CZ Dabing",
-        "planned_at": "2026-11-08T16:17:16.038321+00:00"
+        "planned_at": "2026-11-08T16:52:56.251147+00:00"
       },
       "previous_target_id": "30909958",
       "prepared": {
@@ -82405,6 +82405,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-08T06:34:06.156483+00:00",
         "relay_source_id": "27791112"
+      },
+      "claim": {
+        "worker_id": "2de437953bf2456ebf385661021c468d-shard-0",
+        "claimed_at": "2026-11-08T16:52:56.753114+00:00",
+        "lease_expires_at": "2026-11-08T22:52:56.753114+00:00",
+        "run_id": "42499495816"
       }
     },
     "28024": {
@@ -85325,7 +85331,7 @@
       "last_plan": {
         "source_id": "13743887",
         "display_name": "Demimonde (Félvilág) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T16:52:54.688812+00:00"
+        "planned_at": "2026-11-08T16:52:56.459482+00:00"
       }
     },
     "32359": {
@@ -140887,5 +140893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T16:52:54.688838+00:00"
+  "updated_at": "2026-11-08T16:52:57.216651+00:00"
 }
