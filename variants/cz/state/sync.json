@@ -88783,17 +88783,19 @@
       "attempts": []
     },
     "16156": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31576285",
+          "target_video_id": "30925251",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:18:45.889911+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31576285",
         "display_name": "All Shall Be Well (從今以後) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:15:49.518799+00:00"
-      },
-      "claim": {
-        "worker_id": "0151adb972ac4bd18ba0c669d846e26b-shard-0",
-        "claimed_at": "2026-11-08T20:15:49.807225+00:00",
-        "lease_expires_at": "2026-11-09T02:15:49.807225+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925251",
       "prepared": {
@@ -144427,5 +144429,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:16:11.328591+00:00"
+  "updated_at": "2026-11-08T20:18:45.889926+00:00"
 }
