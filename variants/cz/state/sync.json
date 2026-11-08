@@ -89301,17 +89301,19 @@
       }
     },
     "35600": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34720620",
+          "target_video_id": "30925495",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:39:49.018254+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34720620",
         "display_name": "The Battle of Russia (Why We Fight: The Battle of Russia) SD CZ Dabing",
         "planned_at": "2026-11-08T20:39:10.562745+00:00"
-      },
-      "claim": {
-        "worker_id": "8c647a4f44a34181be16b8b8018adb8f-shard-0",
-        "claimed_at": "2026-11-08T20:39:10.892345+00:00",
-        "lease_expires_at": "2026-11-09T02:39:10.892345+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925495",
       "prepared": {
@@ -145041,5 +145043,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:39:14.086281+00:00"
+  "updated_at": "2026-11-08T20:39:49.018270+00:00"
 }
