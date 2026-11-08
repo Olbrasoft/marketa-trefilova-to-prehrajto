@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-08T18:51:42.673168+00:00
+Poslední aktualizace (UTC): 2026-11-08T18:51:58.133467+00:00
 
 Zkontrolováno videí: 554. Další stránka kontroly: 0.
 
@@ -99,7 +99,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-08T18:13:52.702656+00:00 |
 | [The Apprentice 1080p CZ Titulky](https://prehraj.to/the-apprentice-1080p-cz-titulky-mkv/ffafae6561c4922d) (ID 30923866) | [Sdílej 30068885](https://sdilej.cz/30068885/the.apprentice-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T18:33:24.776543+00:00 |
 | [The Dead Zone 1080p CZ Titulky](https://prehraj.to/the-dead-zone-1080p-cz-titulky-mkv/9ff3d8bbf436db54) (ID 30922823) | [Sdílej 34936882](https://sdilej.cz/34936882/the.dead.zone.1983.remastered.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-08T18:23:13.316040+00:00 |
-| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | upload_unconfirmed | 2026-11-08T18:51:42.673139+00:00 |
+| [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | upload_unconfirmed | 2026-11-08T18:51:56.705064+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-08T17:44:00.818257+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-08T17:43:45.266734+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-08T17:53:24.021736+00:00 |
