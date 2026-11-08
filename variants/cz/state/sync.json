@@ -88538,17 +88538,19 @@
       "attempts": []
     },
     "15371": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18714751",
+          "target_video_id": "30925110",
+          "permanent": false,
+          "attempted_at": "2026-11-08T20:09:59.510144+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18714751",
         "display_name": "In the Shadows (Ve stínu) 1080p CZ Dabing",
         "planned_at": "2026-11-08T20:05:20.714737+00:00"
-      },
-      "claim": {
-        "worker_id": "ef5ed75889104f26a9af27911aef3d58-shard-0",
-        "claimed_at": "2026-11-08T20:05:22.271030+00:00",
-        "lease_expires_at": "2026-11-09T02:05:22.271030+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925110",
       "prepared": {
@@ -144262,5 +144264,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T20:07:33.250728+00:00"
+  "updated_at": "2026-11-08T20:09:59.510166+00:00"
 }
