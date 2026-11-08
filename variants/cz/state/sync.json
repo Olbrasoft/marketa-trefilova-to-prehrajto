@@ -88325,17 +88325,19 @@
       "attempts": []
     },
     "11823": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10562323",
+          "target_video_id": "30925023",
+          "permanent": false,
+          "attempted_at": "2026-11-08T19:58:30.037248+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10562323",
         "display_name": "In the Line of Duty 4: Witness (皇家師姐IV直擊證人) 720p CZ Dabing",
         "planned_at": "2026-11-08T19:56:30.348416+00:00"
-      },
-      "claim": {
-        "worker_id": "94c59faaab524613909e8c852e518920-shard-0",
-        "claimed_at": "2026-11-08T19:56:30.684162+00:00",
-        "lease_expires_at": "2026-11-09T01:56:30.684162+00:00",
-        "run_id": "42499495816"
       },
       "previous_target_id": "30925023",
       "prepared": {
@@ -144077,5 +144079,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:57:02.418218+00:00"
+  "updated_at": "2026-11-08T19:58:30.037262+00:00"
 }
