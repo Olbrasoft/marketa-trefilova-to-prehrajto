@@ -522,3 +522,4 @@ Attach subtitles only after target processing has finished.
 | Snowpiercer (설국열차) 1080p CZ Titulky | 30907383 | https://sdilej.cz/33959636/snowpiercer.2013.1080p.bluray.hevc.dl.ac3.x265-majo.mkv | Extract Czech track from exact source after processing |
 | Pretty Woman 1080p CZ Titulky | 30907428 | https://sdilej.cz/23024180/pretty-woman-1990-fhd-1080p--cz-pl-eng-.mkv | Extract Czech track from exact source after processing |
 | Elf 1080p CZ Titulky | 30907573 | https://sdilej.cz/34457540/eli.mkv | Extract Czech track from exact source after processing |
+| Dredd 1080p CZ Titulky | 30908332 | https://sdilej.cz/30058933/dredd-2012-cz-sk-en.mkv | Extract Czech track from exact source after processing |
