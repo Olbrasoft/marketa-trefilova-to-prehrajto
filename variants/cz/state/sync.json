@@ -97960,17 +97960,19 @@
       }
     },
     "37127": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29531403",
+          "target_video_id": "30956693",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:51:01.387033+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29531403",
         "display_name": "Carnal Knowledge 720p CZ Dabing",
         "planned_at": "2026-11-09T23:42:52.534872+00:00"
-      },
-      "claim": {
-        "worker_id": "472d74e9a1ed41c0aac0231c89b54d97-shard-0",
-        "claimed_at": "2026-11-09T23:42:52.943670+00:00",
-        "lease_expires_at": "2026-11-10T05:42:52.943670+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956693",
       "prepared": {
@@ -157288,5 +157290,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:49:15.514252+00:00"
+  "updated_at": "2026-11-09T23:51:01.387064+00:00"
 }
