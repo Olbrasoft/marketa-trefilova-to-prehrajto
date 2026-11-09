@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-09T04:55:42.792229+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-09T05:53:02.813939+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-09T06:23:58.117233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-09T07:25:57.654647+00:00"
         }
       ],
       "last_plan": {
@@ -18960,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-09T06:23:59.582111+00:00"
+        "planned_at": "2026-11-09T07:25:55.879104+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18968,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "25cac47f06e740bfb3bd791b1e77f627-shard-0",
+        "claimed_at": "2026-11-09T07:25:56.627528+00:00",
+        "lease_expires_at": "2026-11-09T13:25:56.627528+00:00",
+        "run_id": "42574443311"
       }
     },
     "29695": {
@@ -92417,7 +92423,7 @@
       "last_plan": {
         "source_id": "31764837",
         "display_name": "Wonka 4K CZ Dabing",
-        "planned_at": "2026-11-09T07:25:53.326990+00:00"
+        "planned_at": "2026-11-09T07:25:56.165028+00:00"
       }
     },
     "12916": {
@@ -150346,5 +150352,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T07:25:53.583479+00:00"
+  "updated_at": "2026-11-09T07:25:57.654661+00:00"
 }
