@@ -8603,6 +8603,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
+      },
+      "claim": {
+        "worker_id": "ebf25c6324574c9189ac209ca8785434-shard-0",
+        "claimed_at": "2026-11-09T17:26:49.548327+00:00",
+        "lease_expires_at": "2026-11-09T23:26:49.548327+00:00",
+        "run_id": "42644070199"
       }
     },
     "21873": {
@@ -94921,17 +94927,19 @@
       }
     },
     "2483": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23904913",
+          "target_video_id": "30949887",
+          "permanent": false,
+          "attempted_at": "2026-11-09T17:26:50.844004+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23904913",
         "display_name": "Enemy Mine 1080p CZ Dabing",
         "planned_at": "2026-11-09T17:11:21.531060+00:00"
-      },
-      "claim": {
-        "worker_id": "39ba9dcf53e74d6490d8903324fef415-shard-0",
-        "claimed_at": "2026-11-09T17:11:21.868057+00:00",
-        "lease_expires_at": "2026-11-09T23:11:21.868057+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30949887",
       "prepared": {
@@ -154721,5 +154729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T17:26:47.942764+00:00"
+  "updated_at": "2026-11-09T17:26:50.844029+00:00"
 }
