@@ -29709,7 +29709,7 @@
       "last_plan": {
         "source_id": "21165095",
         "display_name": "Rudy 1080p CZ Dabing",
-        "planned_at": "2026-11-09T10:28:04.543324+00:00"
+        "planned_at": "2026-11-09T10:58:57.822231+00:00"
       },
       "previous_target_id": "30722559",
       "prepared": {
@@ -29717,6 +29717,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-02T09:07:47.983960+00:00",
         "relay_source_id": "21165095"
+      },
+      "claim": {
+        "worker_id": "3fe159f6bbae4e82a00c5741e3b11f91-shard-0",
+        "claimed_at": "2026-11-09T10:58:58.585003+00:00",
+        "lease_expires_at": "2026-11-09T16:58:58.585003+00:00",
+        "run_id": "42574443311"
       }
     },
     "25113": {
@@ -93137,17 +93143,19 @@
       }
     },
     "23483": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34453154",
+          "target_video_id": "30943717",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:58:58.872797+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34453154",
         "display_name": "Clear and Present Danger 1080p CZ Dabing",
         "planned_at": "2026-11-09T10:37:44.969327+00:00"
-      },
-      "claim": {
-        "worker_id": "03e37310befb4fbebcce69cd03694b20-shard-0",
-        "claimed_at": "2026-11-09T10:37:45.356016+00:00",
-        "lease_expires_at": "2026-11-09T16:37:45.356016+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30943717",
       "prepared": {
@@ -93212,7 +93220,7 @@
       "last_plan": {
         "source_id": "34026334",
         "display_name": "Fatal Attraction 4K CZ Dabing",
-        "planned_at": "2026-11-09T10:58:52.248386+00:00"
+        "planned_at": "2026-11-09T10:58:58.130233+00:00"
       }
     },
     "2537": {
@@ -151782,5 +151790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:58:54.367656+00:00"
+  "updated_at": "2026-11-09T10:58:58.872841+00:00"
 }
