@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:19:46.783026+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:19:50.188522+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
@@ -64,7 +64,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvo
 
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
-| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-09T10:26:24.818584+00:00 |
+| [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-09T21:19:50.188476+00:00 |
 | [25 Years of Innocence 1080p CZ Titulky](https://prehraj.to/25-years-of-innocence-1080p-cz-titulky-mkv/da8465698a567da8) (ID 30947248) | [Sdílej 35310284](https://sdilej.cz/35310284/25.let.neviny.dabcz.mkv) | target_unavailable | 2026-11-09T14:29:18.009348+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-09T10:26:33.053372+00:00 |
 | [7 Prisoners (7 Prisioneiros) 1080p CZ Titulky](https://prehraj.to/7-prisoners-7-prisioneiros-1080p-cz-titulky-mkv/87f9b872433ef505) (ID 30952099) | [Sdílej 18789951](https://sdilej.cz/18789951/7.prisoners.2021.cz.sub.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.hevc-tepes.mkv) | target_unavailable | 2026-11-09T18:59:01.327153+00:00 |
