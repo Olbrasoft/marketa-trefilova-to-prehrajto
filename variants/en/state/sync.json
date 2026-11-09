@@ -30462,17 +30462,19 @@
       "attempts": []
     },
     "18989": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8623300",
+          "target_video_id": "30933808",
+          "permanent": false,
+          "attempted_at": "2026-11-09T04:59:42.461560+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8623300",
         "display_name": "Megan Leavey 1080p CZ Titulky",
         "planned_at": "2026-11-09T04:43:25.194564+00:00"
-      },
-      "claim": {
-        "worker_id": "ac437794ec294031a33eba8be5658b25-shard-0",
-        "claimed_at": "2026-11-09T04:43:25.282483+00:00",
-        "lease_expires_at": "2026-11-09T10:43:25.282483+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30933808",
       "prepared": {
@@ -30502,7 +30504,7 @@
       "last_plan": {
         "source_id": "11557913",
         "display_name": "Human Traffic 1080p CZ Titulky",
-        "planned_at": "2026-11-09T04:59:35.292592+00:00"
+        "planned_at": "2026-11-09T04:59:40.559825+00:00"
       }
     },
     "1880": {
@@ -91650,5 +91652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T04:59:35.292608+00:00"
+  "updated_at": "2026-11-09T04:59:42.461580+00:00"
 }
