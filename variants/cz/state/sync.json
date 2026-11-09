@@ -95938,17 +95938,19 @@
       }
     },
     "24646": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34880197",
+          "target_video_id": "30954195",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:14:17.321476+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34880197",
         "display_name": "The Rookie (2002) 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:04:51.664797+00:00"
-      },
-      "claim": {
-        "worker_id": "29aa4578c0b344f59d412df25a9cb4bf-shard-0",
-        "claimed_at": "2026-11-09T21:04:52.415956+00:00",
-        "lease_expires_at": "2026-11-10T03:04:52.415956+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954195",
       "prepared": {
@@ -155667,5 +155669,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:13:04.905037+00:00"
+  "updated_at": "2026-11-09T21:14:17.321492+00:00"
 }
