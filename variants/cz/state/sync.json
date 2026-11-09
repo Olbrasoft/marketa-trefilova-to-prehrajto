@@ -13998,13 +13998,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-09T00:22:46.939825+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-09T00:53:57.315212+00:00"
         },
         {
@@ -14013,6 +14006,13 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-09T03:01:07.165265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-09T03:50:54.340321+00:00"
         }
       ],
       "last_plan": {
@@ -14026,12 +14026,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
-      },
-      "claim": {
-        "worker_id": "f44cbefbc352433d8b5f50f5da8fdf04-shard-0",
-        "claimed_at": "2026-11-09T03:50:51.109931+00:00",
-        "lease_expires_at": "2026-11-09T09:50:51.109931+00:00",
-        "run_id": "42550909205"
       }
     },
     "22047": {
@@ -14663,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-09T03:01:09.091793+00:00"
+        "planned_at": "2026-11-09T03:50:53.635583+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14671,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "a914668b87784d31abe30accab9ef668-shard-0",
+        "claimed_at": "2026-11-09T03:50:54.487180+00:00",
+        "lease_expires_at": "2026-11-09T09:50:54.487180+00:00",
+        "run_id": "42550909205"
       }
     },
     "22177": {
@@ -92222,7 +92222,7 @@
       "last_plan": {
         "source_id": "32905861",
         "display_name": "The Magnificent Seven (2016) 4K CZ Dabing",
-        "planned_at": "2026-11-09T03:50:50.681619+00:00"
+        "planned_at": "2026-11-09T03:50:53.909609+00:00"
       }
     },
     "2750": {
@@ -149178,5 +149178,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T03:50:51.558588+00:00"
+  "updated_at": "2026-11-09T03:50:54.487205+00:00"
 }
