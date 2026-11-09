@@ -27385,13 +27385,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-08T23:53:14.026459+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-09T00:23:18.180161+00:00"
         },
         {
@@ -27400,6 +27393,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-09T00:54:39.625717+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-09T03:02:06.035336+00:00"
         }
       ],
       "last_plan": {
@@ -47069,7 +47069,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T00:54:41.175411+00:00"
+        "planned_at": "2026-11-09T03:02:04.498220+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -47077,6 +47077,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-03T19:20:51.515013+00:00",
         "relay_source_id": "35147292"
+      },
+      "claim": {
+        "worker_id": "2aaaf9dafbed46be88b30b243765947e-shard-0",
+        "claimed_at": "2026-11-09T03:02:05.152089+00:00",
+        "lease_expires_at": "2026-11-09T09:02:05.152089+00:00",
+        "run_id": "42550909205"
       }
     },
     "20013": {
@@ -92126,7 +92132,7 @@
       "last_plan": {
         "source_id": "31370142",
         "display_name": "The Hitman's Bodyguard 1080p CZ Dabing",
-        "planned_at": "2026-11-09T03:02:02.396341+00:00"
+        "planned_at": "2026-11-09T03:02:04.752873+00:00"
       }
     },
     "2618": {
@@ -148873,5 +148879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T03:02:02.396358+00:00"
+  "updated_at": "2026-11-09T03:02:06.035354+00:00"
 }
