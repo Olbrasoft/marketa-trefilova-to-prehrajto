@@ -6973,7 +6973,7 @@
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-11-08T23:53:04.712656+00:00"
+        "planned_at": "2026-11-09T00:23:08.808820+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -6981,6 +6981,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "7dd6901a7054459c842f9ffc0808590c-shard-0",
+        "claimed_at": "2026-11-09T00:23:09.503803+00:00",
+        "lease_expires_at": "2026-11-09T06:23:09.503803+00:00",
+        "run_id": "42519750852"
       }
     },
     "321": {
@@ -22286,13 +22292,6 @@
           "source_id": "18074667",
           "target_video_id": "30692683",
           "permanent": false,
-          "attempted_at": "2026-11-08T22:48:53.623865+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074667",
-          "target_video_id": "30692683",
-          "permanent": false,
           "attempted_at": "2026-11-08T23:19:03.442129+00:00"
         },
         {
@@ -22301,6 +22300,13 @@
           "target_video_id": "30692683",
           "permanent": false,
           "attempted_at": "2026-11-08T23:53:01.334704+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074667",
+          "target_video_id": "30692683",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:23:09.351153+00:00"
         }
       ],
       "last_plan": {
@@ -22314,12 +22320,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
-      },
-      "claim": {
-        "worker_id": "4716cc19cd84407ca3bdcfea86086889-shard-0",
-        "claimed_at": "2026-11-09T00:23:06.086314+00:00",
-        "lease_expires_at": "2026-11-09T06:23:06.086314+00:00",
-        "run_id": "42519750852"
       }
     },
     "730": {
@@ -91862,7 +91862,7 @@
       "last_plan": {
         "source_id": "25790551",
         "display_name": "Non-Stop 1080p CZ Dabing",
-        "planned_at": "2026-11-09T00:23:05.762932+00:00"
+        "planned_at": "2026-11-09T00:23:09.037911+00:00"
       }
     },
     "2748": {
@@ -147852,5 +147852,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:23:07.065184+00:00"
+  "updated_at": "2026-11-09T00:23:09.503829+00:00"
 }
