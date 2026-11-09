@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-09T07:26:08.243666+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-09T08:00:48.446198+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-09T08:31:22.094606+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-09T09:19:02.127738+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-09T08:31:21.105518+00:00"
+        "planned_at": "2026-11-09T09:19:00.197043+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "616dccebf04c44dd9f306f3c3cc1132e-shard-0",
+        "claimed_at": "2026-11-09T09:19:00.915603+00:00",
+        "lease_expires_at": "2026-11-09T15:19:00.915603+00:00",
+        "run_id": "42574443311"
       }
     },
     "52": {
@@ -92773,7 +92779,7 @@
       "last_plan": {
         "source_id": "34296350",
         "display_name": "Nymphomaniac: Volume I (Nymphomaniac: Vol. I) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T09:18:57.751114+00:00"
+        "planned_at": "2026-11-09T09:19:00.471418+00:00"
       }
     },
     "10888": {
@@ -150887,5 +150893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T09:18:57.975670+00:00"
+  "updated_at": "2026-11-09T09:19:02.127755+00:00"
 }
