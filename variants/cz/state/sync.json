@@ -96287,17 +96287,19 @@
       "attempts": []
     },
     "35566": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33767217",
+          "reason": "Request failed for https://sdilej.cz/33767217/arthur-1981-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:37:34.416305+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767217",
         "display_name": "Arthur (1981) 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:36:47.805455+00:00"
-      },
-      "claim": {
-        "worker_id": "cfcd484c44ad4fee8354a99db7661317-shard-0",
-        "claimed_at": "2026-11-09T21:36:48.246588+00:00",
-        "lease_expires_at": "2026-11-10T03:36:48.246588+00:00",
-        "run_id": "42692268094"
       }
     },
     "29463": {
@@ -155866,5 +155868,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:36:51.456398+00:00"
+  "updated_at": "2026-11-09T21:37:34.416320+00:00"
 }
