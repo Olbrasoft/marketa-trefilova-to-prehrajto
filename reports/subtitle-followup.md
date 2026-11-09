@@ -588,3 +588,4 @@ Attach subtitles only after target processing has finished.
 | Extreme Job (극한직업) 1080p CZ Titulky | 30945079 | https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Firebird 1080p CZ Titulky | 30945935 | https://sdilej.cz/30703111/firebird-1080p-dd-2021-cz-tit.mp4 | Extract Czech track from exact source after processing |
 | 25 Years of Innocence 1080p CZ Titulky | 30947248 | https://sdilej.cz/35310284/25.let.neviny.dabcz.mkv | Extract Czech track from exact source after processing |
+| Zillion 1080p CZ Titulky | 30947968 | https://sdilej.cz/26478653/zillion-2022-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
