@@ -98020,17 +98020,19 @@
       }
     },
     "22572": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33677380",
+          "target_video_id": "30956844",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:57:57.482726+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33677380",
         "display_name": "The French Lieutenant's Woman 1080p CZ Dabing",
         "planned_at": "2026-11-09T23:51:04.747714+00:00"
-      },
-      "claim": {
-        "worker_id": "0726a9fad8364c988f16a14df2192ab4-shard-0",
-        "claimed_at": "2026-11-09T23:51:05.158512+00:00",
-        "lease_expires_at": "2026-11-10T05:51:05.158512+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956844",
       "prepared": {
@@ -157355,5 +157357,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:55:52.270618+00:00"
+  "updated_at": "2026-11-09T23:57:57.482743+00:00"
 }
