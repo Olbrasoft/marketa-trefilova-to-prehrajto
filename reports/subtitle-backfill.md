@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:10:12.381979+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:10:15.905933+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
@@ -95,7 +95,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 50. Důvod
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-09T10:17:37.342149+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-09T10:18:03.669586+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-09T10:17:44.467325+00:00 |
-| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-09T10:16:53.382504+00:00 |
+| [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-09T21:10:15.905877+00:00 |
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-09T10:26:37.725104+00:00 |
 | [Silkwood 1080p CZ Titulky](https://prehraj.to/silkwood-1080p-cz-titulky-mkv/c4212bc6891f1e16) (ID 30937630) | [Sdílej 34580846](https://sdilej.cz/34580846/silkwood.1983.1080p.bluray.x264-oft.mkv) | target_unavailable | 2026-11-09T10:36:06.105729+00:00 |
 | [South Park: The End of Obesity 1080p CZ Titulky](https://prehraj.to/south-park-the-end-of-obesity-1080p-cz-titulky-mkv/610313c9dea65940) (ID 30952822) | [Sdílej 29078716](https://sdilej.cz/29078716/south-park-the-end-of-obesity-2024-cz-titulky.mkv) | target_unavailable | 2026-11-09T19:29:21.806777+00:00 |
