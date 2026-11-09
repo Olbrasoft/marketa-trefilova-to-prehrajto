@@ -87717,7 +87717,7 @@
       "last_plan": {
         "source_id": "31439276",
         "display_name": "Treasure Island (1990) SD CZ Dabing",
-        "planned_at": "2026-11-09T13:06:56.253623+00:00"
+        "planned_at": "2026-11-09T13:40:32.765948+00:00"
       },
       "previous_target_id": "30924533",
       "prepared": {
@@ -87725,6 +87725,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-08T19:10:43.613017+00:00",
         "relay_source_id": "31439276"
+      },
+      "claim": {
+        "worker_id": "d58cb4f37d424521b566b8ea4093982f-shard-0",
+        "claimed_at": "2026-11-09T13:40:33.524556+00:00",
+        "lease_expires_at": "2026-11-09T19:40:33.524556+00:00",
+        "run_id": "42608486502"
       }
     },
     "11149": {
@@ -93531,17 +93537,23 @@
           "attempted_at": "2026-11-09T13:06:54.742970+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30834557",
-        "display_name": "The Guardian (2006) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T13:40:30.425157+00:00"
-      },
       "previous_target_id": "30946002",
-      "prepared": {
+      "upload": {
         "target_video_id": "30946002",
-        "size_bytes": 3044246198,
-        "prepared_at": "2026-11-09T12:55:04.938603+00:00",
-        "relay_source_id": "30834557"
+        "display_name": "The Guardian (2006) 1080p CZ Dabing",
+        "source_id": "30834557",
+        "source_url": "https://sdilej.cz/30834557/zachranari-2006-hraji-kevin-costner-full-hd-cz-dab.mkv",
+        "source_filename": "Záchranáři - (2006) (Hrají Kevin Costner) Full HD CZ dab.mkv",
+        "size_bytes": 3000000000,
+        "width": 1920,
+        "height": 1036,
+        "audio_language": "cs",
+        "language_probability": 0.945993959903717,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-guardian-2006-1080p-cz-dabing-mkv/05c8f2bf1c66b03d",
+        "uploaded_at": "2026-11-09T13:40:33.772444+00:00"
       }
     },
     "11971": {
@@ -93790,7 +93802,7 @@
       "last_plan": {
         "source_id": "26994809",
         "display_name": "Women Talking 1080p CZ Dabing",
-        "planned_at": "2026-11-09T13:40:30.731443+00:00"
+        "planned_at": "2026-11-09T13:40:33.055587+00:00"
       }
     },
     "28625": {
@@ -153005,5 +153017,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:40:30.731457+00:00"
+  "updated_at": "2026-11-09T13:40:33.772457+00:00"
 }
