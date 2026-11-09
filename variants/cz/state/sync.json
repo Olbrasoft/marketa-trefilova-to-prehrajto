@@ -12375,13 +12375,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-09T22:04:28.943913+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-09T22:36:08.795855+00:00"
         },
         {
@@ -12390,6 +12383,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-09T23:07:09.737347+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:37:18.211689+00:00"
         }
       ],
       "last_plan": {
@@ -97560,7 +97560,7 @@
       "last_plan": {
         "source_id": "34219947",
         "display_name": "Saving Grace 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:00:37.202939+00:00"
+        "planned_at": "2026-11-09T23:37:16.774088+00:00"
       },
       "previous_target_id": "30956055",
       "prepared": {
@@ -97568,6 +97568,12 @@
         "size_bytes": 2010913593,
         "prepared_at": "2026-11-09T23:00:45.504078+00:00",
         "relay_source_id": "34219947"
+      },
+      "claim": {
+        "worker_id": "a733cde737d44151b3c705e094a4f810-shard-0",
+        "claimed_at": "2026-11-09T23:37:17.490003+00:00",
+        "lease_expires_at": "2026-11-10T05:37:17.490003+00:00",
+        "run_id": "42692268094"
       }
     },
     "2509": {
@@ -97879,7 +97885,7 @@
       "last_plan": {
         "source_id": "22865129",
         "display_name": "My Brothers and I (Mes frères et moi) 720p CZ Dabing",
-        "planned_at": "2026-11-09T23:37:10.653594+00:00"
+        "planned_at": "2026-11-09T23:37:17.059183+00:00"
       }
     },
     "29747": {
@@ -157181,5 +157187,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:37:10.653610+00:00"
+  "updated_at": "2026-11-09T23:37:18.211707+00:00"
 }
