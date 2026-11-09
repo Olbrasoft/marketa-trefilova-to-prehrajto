@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:20:09.555448+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:20:13.081892+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
@@ -106,7 +106,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvo
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-09T21:10:51.326611+00:00 |
 | [The Hater (Sala samobójców. Hejter) (2020) 720p CZ Titulky](https://prehraj.to/the-hater-sala-samobojcow-hejter-2020-720p-cz-titulky-mkv/fa8903b5474ef10d) (ID 30942739) | [Sdílej 14065503](https://sdilej.cz/14065503/the.hater.2020.720p.bluray.x264.cz.tit.mkv) | target_unavailable | 2026-11-09T10:46:13.387888+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-09T21:10:34.918974+00:00 |
-| [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-09T10:26:46.564236+00:00 |
+| [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-09T21:20:13.081836+00:00 |
 | [The Treatment (De Behandeling) 1080p CZ Titulky](https://prehraj.to/the-treatment-de-behandeling-1080p-cz-titulky-mkv/26811e20aa52607f) (ID 30951370) | [Sdílej 33244019](https://sdilej.cz/33244019/de-behandeling-2014-1080p-bluray-cz.tit.mkv) | target_unavailable | 2026-11-09T18:18:33.067580+00:00 |
 | [Trial by Fire (2018) 1080p CZ Titulky](https://prehraj.to/trial-by-fire-2018-1080p-cz-titulky-mkv/d20fe0c6a4b49231) (ID 30945036) | [Sdílej 15709144](https://sdilej.cz/15709144/trial.by.fire.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv) | target_unavailable | 2026-11-09T11:57:05.946589+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-09T21:19:53.663923+00:00 |
