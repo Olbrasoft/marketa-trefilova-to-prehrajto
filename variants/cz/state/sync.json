@@ -96329,17 +96329,19 @@
       }
     },
     "11654": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33848847",
+          "target_video_id": "30954680",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:46:40.959340+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33848847",
         "display_name": "Ruthless People 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:39:48.773827+00:00"
-      },
-      "claim": {
-        "worker_id": "2d110338254a4c54b3f53837c49c2fb9-shard-0",
-        "claimed_at": "2026-11-09T21:39:49.174373+00:00",
-        "lease_expires_at": "2026-11-10T03:39:49.174373+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954680",
       "prepared": {
@@ -155906,5 +155908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:39:53.070161+00:00"
+  "updated_at": "2026-11-09T21:46:40.959356+00:00"
 }
