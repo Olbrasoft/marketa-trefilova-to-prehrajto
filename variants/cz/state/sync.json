@@ -95296,17 +95296,19 @@
       }
     },
     "22187": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28183057",
+          "target_video_id": "30951663",
+          "permanent": false,
+          "attempted_at": "2026-11-09T18:30:03.608106+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28183057",
         "display_name": "Death Wish (1974) 1080p CZ Dabing",
         "planned_at": "2026-11-09T18:25:15.879681+00:00"
-      },
-      "claim": {
-        "worker_id": "a80a9384f1934706ab6c90113072b680-shard-0",
-        "claimed_at": "2026-11-09T18:25:16.193113+00:00",
-        "lease_expires_at": "2026-11-10T00:25:16.193113+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30951663",
       "prepared": {
@@ -155044,5 +155046,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T18:28:22.714775+00:00"
+  "updated_at": "2026-11-09T18:30:03.608122+00:00"
 }
