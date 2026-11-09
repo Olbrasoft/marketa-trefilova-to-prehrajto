@@ -580,3 +580,4 @@ Attach subtitles only after target processing has finished.
 | Help! 1080p CZ Titulky | 30942408 | https://sdilej.cz/33230731/the-beatles-help-1965-fhd-en-cz-tit.mkv | Complete: Czech subtitles verified |
 | He Loves Me... He Loves Me Not 1080p CZ Titulky | 30942366 | https://sdilej.cz/33956357/ma-me-rad-nema-me-ad-2002-czdab-m.mkv | Complete: Czech subtitles verified |
 | The Hater (Sala samobójców. Hejter) (2020) 720p CZ Titulky | 30942739 | https://sdilej.cz/14065503/the.hater.2020.720p.bluray.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
+| Anthony Jeselnik: Fire in the Maternity Ward 1080p CZ Titulky | 30944077 | https://sdilej.cz/11645962/anthony-jeselnik-fire-in-the-maternity-ward-2019-titulky.cz-1080p.hd.mkv | Extract Czech track from exact source after processing |
