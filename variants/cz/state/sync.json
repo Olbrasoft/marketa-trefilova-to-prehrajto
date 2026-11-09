@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-09T09:57:45.414091+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-09T10:28:57.131873+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-09T10:59:55.444730+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-09T11:52:56.659277+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "a9c507c0e930480c8028bf3aedc9fd71-shard-0",
-        "claimed_at": "2026-11-09T11:52:51.639732+00:00",
-        "lease_expires_at": "2026-11-09T17:52:51.639732+00:00",
-        "run_id": "42608486502"
       }
     },
     "37290": {
@@ -8524,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-09T11:10:04.300469+00:00"
+        "planned_at": "2026-11-09T11:52:53.937545+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8532,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "718b321643cc444b8c7057ff9d275a3f-shard-0",
+        "claimed_at": "2026-11-09T11:52:54.690368+00:00",
+        "lease_expires_at": "2026-11-09T17:52:54.690368+00:00",
+        "run_id": "42608486502"
       }
     },
     "29922": {
@@ -93323,7 +93323,7 @@
       "last_plan": {
         "source_id": "28533105",
         "display_name": "The Thomas Crown Affair (1999) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T11:52:51.106904+00:00"
+        "planned_at": "2026-11-09T11:52:54.221317+00:00"
       }
     },
     "2671": {
@@ -152125,5 +152125,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T11:52:51.976664+00:00"
+  "updated_at": "2026-11-09T11:52:56.659294+00:00"
 }
