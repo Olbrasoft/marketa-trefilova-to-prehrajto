@@ -95637,17 +95637,19 @@
       }
     },
     "24523": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33710167",
+          "target_video_id": "30952892",
+          "permanent": false,
+          "attempted_at": "2026-11-09T19:49:01.836417+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33710167",
         "display_name": "Bully SD CZ Dabing",
         "planned_at": "2026-11-09T19:32:28.107096+00:00"
-      },
-      "claim": {
-        "worker_id": "d5fb2fe7d75d49f5b0996a3a90c18a02-shard-0",
-        "claimed_at": "2026-11-09T19:32:28.445671+00:00",
-        "lease_expires_at": "2026-11-10T01:32:28.445671+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30952892",
       "prepared": {
@@ -155335,5 +155337,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T19:48:56.626017+00:00"
+  "updated_at": "2026-11-09T19:49:01.836437+00:00"
 }
