@@ -97135,17 +97135,19 @@
       "attempts": []
     },
     "37173": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34909725",
+          "target_video_id": "30955590",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:42:24.483715+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34909725",
         "display_name": "Àma Gloria 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:40:05.141852+00:00"
-      },
-      "claim": {
-        "worker_id": "0675f9fa042e4c4fa46d6e33682b9a93-shard-0",
-        "claimed_at": "2026-11-09T22:40:06.966180+00:00",
-        "lease_expires_at": "2026-11-10T04:40:06.966180+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955590",
       "prepared": {
@@ -156596,5 +156598,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:41:04.658611+00:00"
+  "updated_at": "2026-11-09T22:42:24.483727+00:00"
 }
