@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T06:01:16.156952+00:00
+Poslední aktualizace (UTC): 2026-11-09T06:01:19.649792+00:00
 
 Zkontrolováno videí: 571. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -114,6 +114,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 54. Důvod
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-09T02:29:49.033416+00:00 |
 | [The Perfect Neighbor 1080p CZ Titulky](https://prehraj.to/the-perfect-neighbor-1080p-cz-titulky-mkv/60a5cba11e94a9f6) (ID 30932988) | [Sdílej 32131764](https://sdilej.cz/32131764/the.perfect.neighbor-2025-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-09T03:59:22.416892+00:00 |
 | [The Upside 1080p CZ Titulky](https://prehraj.to/the-upside-1080p-cz-titulky-mkv/31216a6293e326ae) (ID 30924343) | [Sdílej 11701537](https://sdilej.cz/11701537/the.upside.2017.1080p.bluray.h264.aac.cz-titulky.mkv) | target_unavailable | 2026-11-08T19:03:59.531680+00:00 |
+| [Untold: Deal with the Devil 1080p CZ Titulky](https://prehraj.to/untold-deal-with-the-devil-1080p-cz-titulky-mkv/f6cb6dcb1d7bd60a) (ID 30935260) | [Sdílej 34756699](https://sdilej.cz/34756699/neslychane-smlouva-s-dablem-2021-dokumentarni-sportovni-cztit.mkv) | target_unavailable | 2026-11-09T06:01:19.649702+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-08T19:04:06.352767+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-08T18:54:40.449866+00:00 |
 | [Warfare 1440p CZ Titulky](https://prehraj.to/warfare-1440p-cz-titulky-mkv/09af6d5637d394a3) (ID 30920638) | [Sdílej 31269211](https://sdilej.cz/31269211/warfare-2025-4k.mkv) | target_unavailable | 2026-11-08T18:43:44.409241+00:00 |
