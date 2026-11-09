@@ -72235,13 +72235,6 @@
           "source_id": "27386940",
           "target_video_id": "30871996",
           "permanent": false,
-          "attempted_at": "2026-11-09T18:46:44.754644+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27386940",
-          "target_video_id": "30871996",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:17:19.360769+00:00"
         },
         {
@@ -72250,6 +72243,13 @@
           "target_video_id": "30871996",
           "permanent": false,
           "attempted_at": "2026-11-09T19:47:40.400852+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27386940",
+          "target_video_id": "30871996",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:03:11.258051+00:00"
         }
       ],
       "last_plan": {
@@ -72263,12 +72263,6 @@
         "size_bytes": 27600000000,
         "prepared_at": "2026-11-06T22:43:18.167527+00:00",
         "relay_source_id": "27386940"
-      },
-      "claim": {
-        "worker_id": "d1c58d332b03449b99d41a086a49c664-shard-0",
-        "claimed_at": "2026-11-09T21:03:08.520744+00:00",
-        "lease_expires_at": "2026-11-10T03:03:08.520744+00:00",
-        "run_id": "42692268094"
       }
     },
     "11683": {
@@ -74056,7 +74050,7 @@
       "last_plan": {
         "source_id": "24984582",
         "display_name": "Christmas by Starlight 1080p CZ Dabing",
-        "planned_at": "2026-11-09T19:47:42.074095+00:00"
+        "planned_at": "2026-11-09T21:03:10.500250+00:00"
       },
       "previous_target_id": "30883462",
       "prepared": {
@@ -74064,6 +74058,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-07T06:42:27.663683+00:00",
         "relay_source_id": "24984582"
+      },
+      "claim": {
+        "worker_id": "2725b66f5d72476cbf3e521b6389b6a1-shard-0",
+        "claimed_at": "2026-11-09T21:03:11.421138+00:00",
+        "lease_expires_at": "2026-11-10T03:03:11.421138+00:00",
+        "run_id": "42692268094"
       }
     },
     "21479": {
@@ -95897,7 +95897,7 @@
       "last_plan": {
         "source_id": "34880197",
         "display_name": "The Rookie (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:03:08.134279+00:00"
+        "planned_at": "2026-11-09T21:03:10.803166+00:00"
       }
     },
     "2587": {
@@ -155525,5 +155525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:03:08.779231+00:00"
+  "updated_at": "2026-11-09T21:03:11.421162+00:00"
 }
