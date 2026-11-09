@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-09T10:59:55.444730+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-09T11:52:56.659277+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-09T12:34:32.811256+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:11:58.719605+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "c177d62b020047588b97fa4afd32eb57-shard-0",
-        "claimed_at": "2026-11-09T13:11:52.540907+00:00",
-        "lease_expires_at": "2026-11-09T19:11:52.540907+00:00",
-        "run_id": "42608486502"
       }
     },
     "37290": {
@@ -8524,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-09T12:34:34.652853+00:00"
+        "planned_at": "2026-11-09T13:11:55.438624+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8532,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "85c58f6e25fb406e8380346081def988-shard-0",
+        "claimed_at": "2026-11-09T13:11:56.173952+00:00",
+        "lease_expires_at": "2026-11-09T19:11:56.173952+00:00",
+        "run_id": "42608486502"
       }
     },
     "29922": {
@@ -93636,7 +93636,7 @@
       "last_plan": {
         "source_id": "34932244",
         "display_name": "Stir of Echoes 1080p CZ Dabing",
-        "planned_at": "2026-11-09T13:11:52.114035+00:00"
+        "planned_at": "2026-11-09T13:11:55.721605+00:00"
       }
     },
     "2632": {
@@ -152641,5 +152641,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:11:53.570884+00:00"
+  "updated_at": "2026-11-09T13:11:58.719622+00:00"
 }
