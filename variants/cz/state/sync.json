@@ -97685,17 +97685,19 @@
       "attempts": []
     },
     "15432": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28057435",
+          "target_video_id": "30956386",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:25:28.407204+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28057435",
         "display_name": "Infinitely Polar Bear 720p CZ Dabing",
         "planned_at": "2026-11-09T23:18:36.599548+00:00"
-      },
-      "claim": {
-        "worker_id": "1b6c3d7a02334bd58c43bd9b9de7756d-shard-0",
-        "claimed_at": "2026-11-09T23:18:37.046686+00:00",
-        "lease_expires_at": "2026-11-10T05:18:37.046686+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956386",
       "prepared": {
@@ -157064,5 +157066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:23:04.504349+00:00"
+  "updated_at": "2026-11-09T23:25:28.407225+00:00"
 }
