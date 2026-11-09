@@ -581,15 +581,15 @@ Attach subtitles only after target processing has finished.
 | Live from Baghdad SD CZ Titulky | 30944091 | https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | He Loves Me... He Loves Me Not 1080p CZ Titulky | 30942366 | https://sdilej.cz/33956357/ma-me-rad-nema-me-ad-2002-czdab-m.mkv | Complete: Czech subtitles verified |
 | The Hater (Sala samobójców. Hejter) (2020) 720p CZ Titulky | 30942739 | https://sdilej.cz/14065503/the.hater.2020.720p.bluray.x264.cz.tit.mkv | Complete: Czech subtitles verified |
-| La Piscine (The Swimming Pool) 1080p CZ Titulky | 30944955 | https://sdilej.cz/16564498/bazen-la-piscine-1969-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
+| La Piscine (The Swimming Pool) 1080p CZ Titulky | 30944955 | https://sdilej.cz/16564498/bazen-la-piscine-1969-1080p-cz-titl.mkv | Complete: Czech subtitles verified |
 | Anthony Jeselnik: Fire in the Maternity Ward 1080p CZ Titulky | 30944077 | https://sdilej.cz/11645962/anthony-jeselnik-fire-in-the-maternity-ward-2019-titulky.cz-1080p.hd.mkv | Complete: Czech subtitles verified |
 | Angst SD CZ Titulky | 30945338 | https://sdilej.cz/21120116/angst-1983-horor-cz-titulky.mkv | Complete: Czech subtitles verified |
-| Trial by Fire (2018) 1080p CZ Titulky | 30945036 | https://sdilej.cz/15709144/trial.by.fire.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv | Extract Czech track from exact source after processing |
-| Extreme Job (극한직업) 1080p CZ Titulky | 30945079 | https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Extract Czech track from exact source after processing |
-| Firebird 1080p CZ Titulky | 30945935 | https://sdilej.cz/30703111/firebird-1080p-dd-2021-cz-tit.mp4 | Extract Czech track from exact source after processing |
-| 25 Years of Innocence 1080p CZ Titulky | 30947248 | https://sdilej.cz/35310284/25.let.neviny.dabcz.mkv | Extract Czech track from exact source after processing |
-| Zillion 1080p CZ Titulky | 30947968 | https://sdilej.cz/26478653/zillion-2022-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
-| The Treatment (De Behandeling) 1080p CZ Titulky | 30951370 | https://sdilej.cz/33244019/de-behandeling-2014-1080p-bluray-cz.tit.mkv | Extract Czech track from exact source after processing |
-| 7 Prisoners (7 Prisioneiros) 1080p CZ Titulky | 30952099 | https://sdilej.cz/18789951/7.prisoners.2021.cz.sub.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.hevc-tepes.mkv | Extract Czech track from exact source after processing |
-| Mauvais sang 1080p CZ Titulky | 30952354 | https://sdilej.cz/34522458/bad.blood.1986.aka.mauvais.sang.1080p.bluray.carlotta.10bit.av1.opus.rfranklin.mkv | Extract Czech track from exact source after processing |
-| South Park: The End of Obesity 1080p CZ Titulky | 30952822 | https://sdilej.cz/29078716/south-park-the-end-of-obesity-2024-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Trial by Fire (2018) 1080p CZ Titulky | 30945036 | https://sdilej.cz/15709144/trial.by.fire.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv | Complete: Czech subtitles verified |
+| Extreme Job (극한직업) 1080p CZ Titulky | 30945079 | https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Complete: Czech subtitles verified |
+| Firebird 1080p CZ Titulky | 30945935 | https://sdilej.cz/30703111/firebird-1080p-dd-2021-cz-tit.mp4 | Complete: Czech subtitles verified |
+| 25 Years of Innocence 1080p CZ Titulky | 30947248 | https://sdilej.cz/35310284/25.let.neviny.dabcz.mkv | Complete: Czech subtitles verified |
+| Zillion 1080p CZ Titulky | 30947968 | https://sdilej.cz/26478653/zillion-2022-cz-titulky-1080p.mkv | Complete: Czech subtitles verified |
+| The Treatment (De Behandeling) 1080p CZ Titulky | 30951370 | https://sdilej.cz/33244019/de-behandeling-2014-1080p-bluray-cz.tit.mkv | Complete: Czech subtitles verified |
+| 7 Prisoners (7 Prisioneiros) 1080p CZ Titulky | 30952099 | https://sdilej.cz/18789951/7.prisoners.2021.cz.sub.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.hevc-tepes.mkv | Complete: Czech subtitles verified |
+| Mauvais sang 1080p CZ Titulky | 30952354 | https://sdilej.cz/34522458/bad.blood.1986.aka.mauvais.sang.1080p.bluray.carlotta.10bit.av1.opus.rfranklin.mkv | Complete: Czech subtitles verified |
+| South Park: The End of Obesity 1080p CZ Titulky | 30952822 | https://sdilej.cz/29078716/south-park-the-end-of-obesity-2024-cz-titulky.mkv | Complete: Czech subtitles verified |
