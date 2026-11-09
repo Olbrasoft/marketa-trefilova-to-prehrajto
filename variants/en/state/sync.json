@@ -30801,17 +30801,19 @@
       "attempts": []
     },
     "1874": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33393273",
+          "target_video_id": "30937795",
+          "permanent": false,
+          "attempted_at": "2026-11-09T07:44:12.322378+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33393273",
         "display_name": "Red Rooms (Les Chambres rouges) SD CZ Titulky",
         "planned_at": "2026-11-09T07:31:17.095551+00:00"
-      },
-      "claim": {
-        "worker_id": "b49d7560a3824cdaa4633c600f3c05bf-shard-0",
-        "claimed_at": "2026-11-09T07:31:17.199714+00:00",
-        "lease_expires_at": "2026-11-09T13:31:17.199714+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30937795",
       "prepared": {
@@ -92635,5 +92637,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T07:31:21.508326+00:00"
+  "updated_at": "2026-11-09T07:44:12.322394+00:00"
 }
