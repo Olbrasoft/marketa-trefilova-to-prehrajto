@@ -31350,17 +31350,19 @@
       "attempts": []
     },
     "30891": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11645962",
+          "target_video_id": "30944077",
+          "permanent": false,
+          "attempted_at": "2026-11-09T11:09:58.347767+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11645962",
         "display_name": "Anthony Jeselnik: Fire in the Maternity Ward 1080p CZ Titulky",
         "planned_at": "2026-11-09T10:59:53.804278+00:00"
-      },
-      "claim": {
-        "worker_id": "1fd41fd2ff034a2b98f64d25fc9fe504-shard-0",
-        "claimed_at": "2026-11-09T10:59:53.901467+00:00",
-        "lease_expires_at": "2026-11-09T16:59:53.901467+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30944077",
       "prepared": {
@@ -93755,5 +93757,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T11:00:58.619845+00:00"
+  "updated_at": "2026-11-09T11:09:58.347783+00:00"
 }
