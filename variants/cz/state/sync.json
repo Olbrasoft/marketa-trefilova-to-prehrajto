@@ -92662,17 +92662,19 @@
       }
     },
     "2307": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30726425",
+          "reason": "Request failed for https://sdilej.cz/30726425/zeleny-pokoj-cz-dabing-paramount-p.-soukup-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T08:30:13.316681+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30726425",
         "display_name": "Green Room 1080p CZ Dabing",
         "planned_at": "2026-11-09T08:29:25.178569+00:00"
-      },
-      "claim": {
-        "worker_id": "09b22a1d5778468bb59c035c510163cf-shard-0",
-        "claimed_at": "2026-11-09T08:29:25.871880+00:00",
-        "lease_expires_at": "2026-11-09T14:29:25.871880+00:00",
-        "run_id": "42574443311"
       }
     },
     "26597": {
@@ -92686,7 +92688,13 @@
       "last_plan": {
         "source_id": "32024360",
         "display_name": "Atlantis: The Lost Empire 1080p CZ Dabing",
-        "planned_at": "2026-11-09T08:29:25.344792+00:00"
+        "planned_at": "2026-11-09T08:29:28.748262+00:00"
+      },
+      "claim": {
+        "worker_id": "e091f33678b340589800fd66824f2b6d-shard-0",
+        "claimed_at": "2026-11-09T08:29:29.094041+00:00",
+        "lease_expires_at": "2026-11-09T14:29:29.094041+00:00",
+        "run_id": "42574443311"
       }
     },
     "12206": {
@@ -150812,5 +150820,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:29:26.781338+00:00"
+  "updated_at": "2026-11-09T08:30:13.316700+00:00"
 }
