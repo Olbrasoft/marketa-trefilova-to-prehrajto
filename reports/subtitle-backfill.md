@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T07:55:20.502139+00:00
+Poslední aktualizace (UTC): 2026-11-09T07:55:23.901288+00:00
 
 Zkontrolováno videí: 575. Další stránka kontroly: 0.
 
@@ -80,7 +80,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvo
 | [Gentlemen Prefer Blondes 4K CZ Titulky](https://prehraj.to/gentlemen-prefer-blondes-4k-cz-titulky-mkv/f62f47b358ca9334) (ID 30927823) | [Sdílej 33596774](https://sdilej.cz/33596774/pani-maji-radsi-blondynky-gentlemen-prefer-blondes-1953-2160p.upscale.mkv) | target_unavailable | 2026-11-08T23:38:09.116892+00:00 |
 | [Ginger and Fred (Ginger e Fred) 1080p CZ Titulky](https://prehraj.to/ginger-and-fred-ginger-e-fred-1080p-cz-titulky-mkv/cd0b89460ccdd4ef) (ID 30932010) | [Sdílej 33493464](https://sdilej.cz/33493464/ginger-a-fred-1986-it.cz-hevc-1080p.mkv) | target_unavailable | 2026-11-09T03:08:28.868220+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-08T19:04:19.549333+00:00 |
-| [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-08T18:54:54.724778+00:00 |
+| [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-09T07:55:23.901231+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-09T07:46:10.953746+00:00 |
 | [Human Traffic 1080p CZ Titulky](https://prehraj.to/human-traffic-1080p-cz-titulky-mkv/ab5dcd335e4d5165) (ID 30934137) | [Sdílej 11557913](https://sdilej.cz/11557913/human-traffic-cz-tit-1080p-dts7.1-hevc-h265.mkv) | target_unavailable | 2026-11-09T05:10:24.879271+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-09T07:54:50.753172+00:00 |
