@@ -579,3 +579,4 @@ Attach subtitles only after target processing has finished.
 | Into the White 1080p CZ Titulky | 30941298 | https://sdilej.cz/26337848/kriz-cti-into-the-white-2012-1080p-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Help! 1080p CZ Titulky | 30942408 | https://sdilej.cz/33230731/the-beatles-help-1965-fhd-en-cz-tit.mkv | Extract Czech track from exact source after processing |
 | He Loves Me... He Loves Me Not 1080p CZ Titulky | 30942366 | https://sdilej.cz/33956357/ma-me-rad-nema-me-ad-2002-czdab-m.mkv | Extract Czech track from exact source after processing |
+| The Hater (Sala samobójców. Hejter) (2020) 720p CZ Titulky | 30942739 | https://sdilej.cz/14065503/the.hater.2020.720p.bluray.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
