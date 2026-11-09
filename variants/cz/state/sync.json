@@ -91648,17 +91648,19 @@
       }
     },
     "2725": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33909719",
+          "target_video_id": "30928096",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:01:03.072573+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33909719",
         "display_name": "Liar Liar 4K CZ Dabing",
         "planned_at": "2026-11-08T23:53:33.003609+00:00"
-      },
-      "claim": {
-        "worker_id": "9fbc1e6a27224b4b99150fd300d52a50-shard-0",
-        "claimed_at": "2026-11-08T23:53:33.306712+00:00",
-        "lease_expires_at": "2026-11-09T05:53:33.306712+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30928096",
       "prepared": {
@@ -147700,5 +147702,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-08T23:58:55.041703+00:00"
+  "updated_at": "2026-11-09T00:01:03.072606+00:00"
 }
