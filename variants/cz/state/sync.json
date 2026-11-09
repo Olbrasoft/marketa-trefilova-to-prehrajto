@@ -93047,17 +93047,19 @@
       }
     },
     "18312": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11798323",
+          "target_video_id": "30943601",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:41:50.645486+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11798323",
         "display_name": "Trance 1080p CZ Dabing",
         "planned_at": "2026-11-09T10:31:42.196548+00:00"
-      },
-      "claim": {
-        "worker_id": "1e22639057a6427a9cf256902dde9902-shard-0",
-        "claimed_at": "2026-11-09T10:31:42.780579+00:00",
-        "lease_expires_at": "2026-11-09T16:31:42.780579+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30943601",
       "prepared": {
@@ -151696,5 +151698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:37:49.484743+00:00"
+  "updated_at": "2026-11-09T10:41:50.645502+00:00"
 }
