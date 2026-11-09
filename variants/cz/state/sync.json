@@ -96202,17 +96202,19 @@
       }
     },
     "534": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34646943",
+          "target_video_id": "30954448",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:30:40.064611+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34646943",
         "display_name": "Ms. President (Prezidentka) 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:25:27.556912+00:00"
-      },
-      "claim": {
-        "worker_id": "f4a9c4c0f7b440d6b6c4256c080c8a2f-shard-0",
-        "claimed_at": "2026-11-09T21:25:27.984708+00:00",
-        "lease_expires_at": "2026-11-10T03:25:27.984708+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954448",
       "prepared": {
@@ -155800,5 +155802,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:25:32.024837+00:00"
+  "updated_at": "2026-11-09T21:30:40.064626+00:00"
 }
