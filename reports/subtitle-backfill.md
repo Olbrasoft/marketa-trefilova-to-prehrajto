@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:19:43.258955+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:19:46.783026+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
@@ -74,7 +74,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvo
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-09T21:10:09.257082+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-09T21:10:31.386792+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-09T21:19:29.063738+00:00 |
-| [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-09T10:26:20.698582+00:00 |
+| [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-09T21:19:46.782860+00:00 |
 | [Empties (Vratné lahve) 1080p CZ Titulky](https://prehraj.to/empties-vratne-lahve-1080p-cz-titulky-mkv/2fa38051e9b275cf) (ID 30938020) | [Sdílej 32453722](https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv) | target_unavailable | 2026-11-09T21:11:02.609562+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-09T21:19:21.949093+00:00 |
 | [Extreme Job (극한직업) 1080p CZ Titulky](https://prehraj.to/extreme-job-1080p-cz-titulky-mkv/10389763548b054b) (ID 30945079) | [Sdílej 21420604](https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv) | target_unavailable | 2026-11-09T11:57:09.589580+00:00 |
