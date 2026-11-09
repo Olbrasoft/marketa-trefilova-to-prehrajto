@@ -94278,17 +94278,19 @@
       }
     },
     "2631": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17892927",
+          "target_video_id": "30947599",
+          "permanent": false,
+          "attempted_at": "2026-11-09T15:10:40.432833+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17892927",
         "display_name": "The Crimson Rivers (Les Rivières pourpres) 1080p CZ Dabing",
         "planned_at": "2026-11-09T14:58:58.358320+00:00"
-      },
-      "claim": {
-        "worker_id": "ba016e18b5934839a7db82f2b7435772-shard-0",
-        "claimed_at": "2026-11-09T14:58:58.722018+00:00",
-        "lease_expires_at": "2026-11-09T20:58:58.722018+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30947599",
       "prepared": {
@@ -153753,5 +153755,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T15:08:36.472153+00:00"
+  "updated_at": "2026-11-09T15:10:40.432849+00:00"
 }
