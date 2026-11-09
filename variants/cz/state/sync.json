@@ -97775,17 +97775,19 @@
       "attempts": []
     },
     "1046": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34853115",
+          "target_video_id": "30956507",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:29:26.350023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34853115",
         "display_name": "Katka SD CZ Dabing",
         "planned_at": "2026-11-09T23:26:24.463502+00:00"
-      },
-      "claim": {
-        "worker_id": "89057b48d0dd44d7b572a5ee58ed1c2b-shard-0",
-        "claimed_at": "2026-11-09T23:26:24.873138+00:00",
-        "lease_expires_at": "2026-11-10T05:26:24.873138+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956507",
       "prepared": {
@@ -157103,5 +157105,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:26:28.527784+00:00"
+  "updated_at": "2026-11-09T23:29:26.350038+00:00"
 }
