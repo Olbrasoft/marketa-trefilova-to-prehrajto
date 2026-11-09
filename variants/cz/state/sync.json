@@ -6981,6 +6981,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "92f57f2600444eefab423c45668bd086-shard-0",
+        "claimed_at": "2026-11-09T13:08:10.801295+00:00",
+        "lease_expires_at": "2026-11-09T19:08:10.801295+00:00",
+        "run_id": "42608486502"
       }
     },
     "321": {
@@ -22286,13 +22292,6 @@
           "source_id": "18074667",
           "target_video_id": "30692683",
           "permanent": false,
-          "attempted_at": "2026-11-09T10:55:35.146362+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074667",
-          "target_video_id": "30692683",
-          "permanent": false,
           "attempted_at": "2026-11-09T11:49:28.019053+00:00"
         },
         {
@@ -22301,6 +22300,13 @@
           "target_video_id": "30692683",
           "permanent": false,
           "attempted_at": "2026-11-09T12:30:41.117394+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074667",
+          "target_video_id": "30692683",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:08:11.034773+00:00"
         }
       ],
       "last_plan": {
@@ -22314,12 +22320,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
-      },
-      "claim": {
-        "worker_id": "ef102c4f5079482ca65562e9bd420e40-shard-0",
-        "claimed_at": "2026-11-09T13:08:08.221413+00:00",
-        "lease_expires_at": "2026-11-09T19:08:08.221413+00:00",
-        "run_id": "42608486502"
       }
     },
     "730": {
@@ -93597,7 +93597,7 @@
       "last_plan": {
         "source_id": "34379157",
         "display_name": "48 Hrs. 4K CZ Dabing",
-        "planned_at": "2026-11-09T13:08:06.326334+00:00"
+        "planned_at": "2026-11-09T13:08:10.382872+00:00"
       }
     },
     "25591": {
@@ -152608,5 +152608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:08:08.408158+00:00"
+  "updated_at": "2026-11-09T13:08:11.034818+00:00"
 }
