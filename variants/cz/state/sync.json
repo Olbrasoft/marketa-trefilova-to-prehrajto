@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-09T21:37:40.835164+00:00"
+        "planned_at": "2026-11-09T22:13:17.679857+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "c1dd942c209940df8847312380df27a5-shard-0",
+        "claimed_at": "2026-11-09T22:13:18.412289+00:00",
+        "lease_expires_at": "2026-11-10T04:13:18.412289+00:00",
+        "run_id": "42692268094"
       }
     },
     "29922": {
@@ -96690,17 +96696,19 @@
       "attempts": []
     },
     "11190": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25936529",
+          "target_video_id": "30955135",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:14:04.848681+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25936529",
         "display_name": "The Eagle Has Landed 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:08:58.941145+00:00"
-      },
-      "claim": {
-        "worker_id": "2c3081d55e444138b3dae81ea9df376f-shard-0",
-        "claimed_at": "2026-11-09T22:08:59.491797+00:00",
-        "lease_expires_at": "2026-11-10T04:08:59.491797+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955135",
       "prepared": {
@@ -96732,7 +96740,12 @@
       }
     },
     "2608": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "12640722",
+        "display_name": "Life Itself SD CZ Dabing",
+        "planned_at": "2026-11-09T22:13:17.999633+00:00"
+      }
     },
     "2264": {
       "attempts": []
@@ -156219,5 +156232,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:13:15.399206+00:00"
+  "updated_at": "2026-11-09T22:14:04.848695+00:00"
 }
