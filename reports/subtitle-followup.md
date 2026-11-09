@@ -572,3 +572,4 @@ Attach subtitles only after target processing has finished.
 | A Good Person 1080p CZ Titulky | 30934176 | https://sdilej.cz/26433562/a.good.person.brrip.en.5.1.titulky.cz.2023.mkv | Extract Czech track from exact source after processing |
 | Untold: Deal with the Devil 1080p CZ Titulky | 30935260 | https://sdilej.cz/34756699/neslychane-smlouva-s-dablem-2021-dokumentarni-sportovni-cztit.mkv | Extract Czech track from exact source after processing |
 | The Bird with the Crystal Plumage 1080p CZ Titulky | 30935313 | https://sdilej.cz/32587629/the.bird.with.the.crystal.plumage.1970.1080p.bluray.ac3.x264-majo.mkv | Extract Czech track from exact source after processing |
+| The Irishman: In Conversation 1080p CZ Titulky | 30937553 | https://sdilej.cz/12740016/the.irishman.in.conversation.2019.1080p.nf.web-dl.ddp5.1.x264-pawel2006.mkv | Extract Czech track from exact source after processing |
