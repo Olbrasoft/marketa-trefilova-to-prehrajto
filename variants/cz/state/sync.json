@@ -6953,13 +6953,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-09T00:23:12.354227+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-09T00:54:31.068642+00:00"
         },
         {
@@ -6968,12 +6961,19 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-09T03:01:58.641175+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-09T03:51:27.303163+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-11-09T03:01:54.711901+00:00"
+        "planned_at": "2026-11-09T03:51:24.332509+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "e6e874e663ef4f618a6cb6d0bd14c3b1-shard-0",
+        "claimed_at": "2026-11-09T03:51:24.153073+00:00",
+        "lease_expires_at": "2026-11-09T09:51:24.153073+00:00",
+        "run_id": "42550909205"
       }
     },
     "29922": {
@@ -92216,7 +92222,7 @@
       "last_plan": {
         "source_id": "32905861",
         "display_name": "The Magnificent Seven (2016) 4K CZ Dabing",
-        "planned_at": "2026-11-09T03:51:21.856991+00:00"
+        "planned_at": "2026-11-09T03:51:24.599640+00:00"
       }
     },
     "2750": {
@@ -149172,5 +149178,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T03:51:22.177296+00:00"
+  "updated_at": "2026-11-09T03:51:27.303183+00:00"
 }
