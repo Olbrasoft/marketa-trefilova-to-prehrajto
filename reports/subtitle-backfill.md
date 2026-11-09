@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T07:45:36.653498+00:00
+Poslední aktualizace (UTC): 2026-11-09T07:45:40.236514+00:00
 
 Zkontrolováno videí: 574. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 458, `attached_verified`: 17, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 459, `attached_verified`: 17, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -93,7 +93,6 @@ Kontrol: 5; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 56. Důvod
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-08T18:54:19.316946+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T18:54:58.089435+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T18:54:12.605258+00:00 |
-| [Re-Animator 1080p CZ Titulky](https://prehraj.to/re-animator-1080p-cz-titulky-mkv/5ed6be2148d08fd8) (ID 30923177) | [Sdílej 31067137](https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv) | target_unavailable | 2026-11-08T18:43:40.986277+00:00 |
 | [Red Rooms (Les Chambres rouges) SD CZ Titulky](https://prehraj.to/red-rooms-les-chambres-rouges-sd-cz-titulky-mkv/bcf1e5b617e09bde) (ID 30937795) | [Sdílej 33393273](https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv) | target_unavailable | 2026-11-09T07:34:35.996934+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-08T18:54:33.882333+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-08T18:54:15.980881+00:00 |
