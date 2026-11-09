@@ -92877,17 +92877,19 @@
       }
     },
     "15373": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32999893",
+          "target_video_id": "30943226",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:27:16.152780+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32999893",
         "display_name": "Safety Not Guaranteed 720p CZ Dabing",
         "planned_at": "2026-11-09T10:12:26.236973+00:00"
-      },
-      "claim": {
-        "worker_id": "15e2bbe7faba4930b820f70cbfcb35b8-shard-0",
-        "claimed_at": "2026-11-09T10:12:26.637673+00:00",
-        "lease_expires_at": "2026-11-09T16:12:26.637673+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30943226",
       "prepared": {
@@ -151577,5 +151579,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:27:10.579873+00:00"
+  "updated_at": "2026-11-09T10:27:16.152800+00:00"
 }
