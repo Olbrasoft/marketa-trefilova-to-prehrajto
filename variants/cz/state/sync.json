@@ -92237,17 +92237,19 @@
       }
     },
     "2690": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32905861",
+          "target_video_id": "30933427",
+          "permanent": false,
+          "attempted_at": "2026-11-09T06:21:20.803423+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32905861",
         "display_name": "The Magnificent Seven (2016) 4K CZ Dabing",
         "planned_at": "2026-11-09T04:22:07.489328+00:00"
-      },
-      "claim": {
-        "worker_id": "7dba72fb4c9a4c70bfee531db8c334a9-shard-0",
-        "claimed_at": "2026-11-09T04:22:08.114543+00:00",
-        "lease_expires_at": "2026-11-09T10:22:08.114543+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30933427",
       "prepared": {
@@ -149721,5 +149723,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T06:11:49.980764+00:00"
+  "updated_at": "2026-11-09T06:21:20.803441+00:00"
 }
