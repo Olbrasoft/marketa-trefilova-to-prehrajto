@@ -31477,17 +31477,19 @@
       "attempts": []
     },
     "1927": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15709144",
+          "target_video_id": "30945036",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:52:28.167121+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15709144",
         "display_name": "Trial by Fire (2018) 1080p CZ Titulky",
         "planned_at": "2026-11-09T11:53:01.446752+00:00"
-      },
-      "claim": {
-        "worker_id": "7a130572f2854c55a59d2c731468158d-shard-0",
-        "claimed_at": "2026-11-09T11:53:01.542221+00:00",
-        "lease_expires_at": "2026-11-09T17:53:01.542221+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30945036",
       "prepared": {
@@ -94363,5 +94365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:50:40.751708+00:00"
+  "updated_at": "2026-11-09T12:52:28.167136+00:00"
 }
