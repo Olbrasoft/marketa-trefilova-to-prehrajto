@@ -97889,17 +97889,19 @@
       }
     },
     "14644": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22865129",
+          "target_video_id": "30956636",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:48:49.865580+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22865129",
         "display_name": "My Brothers and I (Mes frères et moi) 720p CZ Dabing",
         "planned_at": "2026-11-09T23:37:29.589921+00:00"
-      },
-      "claim": {
-        "worker_id": "c5f93a4e920e49d7851cbee159447bec-shard-0",
-        "claimed_at": "2026-11-09T23:37:30.026277+00:00",
-        "lease_expires_at": "2026-11-10T05:37:30.026277+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956636",
       "prepared": {
@@ -157244,5 +157246,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:42:56.739929+00:00"
+  "updated_at": "2026-11-09T23:48:49.865596+00:00"
 }
