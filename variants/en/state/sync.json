@@ -30245,17 +30245,19 @@
       }
     },
     "15992": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30782545",
+          "target_video_id": "30932078",
+          "permanent": false,
+          "attempted_at": "2026-11-09T04:24:25.964744+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30782545",
         "display_name": "September 5 4K CZ Titulky",
         "planned_at": "2026-11-09T03:06:06.409129+00:00"
-      },
-      "claim": {
-        "worker_id": "6d3929a9aaf247efb9666557537b6283-shard-0",
-        "claimed_at": "2026-11-09T03:06:06.498668+00:00",
-        "lease_expires_at": "2026-11-09T09:06:06.498668+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30932078",
       "prepared": {
@@ -91606,5 +91608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T04:22:02.300439+00:00"
+  "updated_at": "2026-11-09T04:24:25.964767+00:00"
 }
