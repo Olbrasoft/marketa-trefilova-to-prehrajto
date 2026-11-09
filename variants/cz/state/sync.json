@@ -38894,7 +38894,7 @@
       "last_plan": {
         "source_id": "34784954",
         "display_name": "The Taste of Things 1080p CZ Dabing",
-        "planned_at": "2026-11-09T14:54:31.801181+00:00"
+        "planned_at": "2026-11-09T15:27:37.626096+00:00"
       },
       "previous_target_id": "30745770",
       "prepared": {
@@ -38902,6 +38902,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-03T00:24:04.738396+00:00",
         "relay_source_id": "34784954"
+      },
+      "claim": {
+        "worker_id": "dfe54ff16c944c6586e03a580c1c98b5-shard-0",
+        "claimed_at": "2026-11-09T15:27:38.395844+00:00",
+        "lease_expires_at": "2026-11-09T21:27:38.395844+00:00",
+        "run_id": "42608486502"
       }
     },
     "17605": {
@@ -94282,17 +94288,19 @@
       "attempts": []
     },
     "11696": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31517267",
+          "target_video_id": "30947597",
+          "permanent": false,
+          "attempted_at": "2026-11-09T15:27:39.188399+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31517267",
         "display_name": "Innerspace 4K CZ Dabing",
         "planned_at": "2026-11-09T14:58:49.818607+00:00"
-      },
-      "claim": {
-        "worker_id": "8ed69c52a93546b49858ae6980622b09-shard-0",
-        "claimed_at": "2026-11-09T14:58:50.249675+00:00",
-        "lease_expires_at": "2026-11-09T20:58:50.249675+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30947597",
       "prepared": {
@@ -94377,7 +94385,7 @@
       "last_plan": {
         "source_id": "33257884",
         "display_name": "Westworld 4K CZ Dabing",
-        "planned_at": "2026-11-09T15:27:33.462668+00:00"
+        "planned_at": "2026-11-09T15:27:37.931295+00:00"
       }
     },
     "23220": {
@@ -154054,5 +154062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T15:27:35.516590+00:00"
+  "updated_at": "2026-11-09T15:27:39.188415+00:00"
 }
