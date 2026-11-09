@@ -96485,17 +96485,19 @@
       "attempts": []
     },
     "25233": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27805769",
+          "target_video_id": "30954903",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:00:15.076391+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27805769",
         "display_name": "New Police Story 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:52:23.254966+00:00"
-      },
-      "claim": {
-        "worker_id": "0b8cfd18f9334869aca1a8adb2e87645-shard-0",
-        "claimed_at": "2026-11-09T21:52:23.637521+00:00",
-        "lease_expires_at": "2026-11-10T03:52:23.637521+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954903",
       "prepared": {
@@ -156074,5 +156076,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:56:08.124375+00:00"
+  "updated_at": "2026-11-09T22:00:15.076406+00:00"
 }
