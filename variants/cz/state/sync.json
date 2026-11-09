@@ -91852,17 +91852,19 @@
       "attempts": []
     },
     "2753": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25790551",
+          "target_video_id": "30928591",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:28:46.624315+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25790551",
         "display_name": "Non-Stop 1080p CZ Dabing",
         "planned_at": "2026-11-09T00:23:18.434601+00:00"
-      },
-      "claim": {
-        "worker_id": "3191a21b8dbe4004b60e235de51fa6f5-shard-0",
-        "claimed_at": "2026-11-09T00:23:20.161537+00:00",
-        "lease_expires_at": "2026-11-09T06:23:20.161537+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30928591",
       "prepared": {
@@ -147877,5 +147879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:23:43.359606+00:00"
+  "updated_at": "2026-11-09T00:28:46.624331+00:00"
 }
