@@ -91887,7 +91887,7 @@
       "last_plan": {
         "source_id": "33685232",
         "display_name": "Aladdin (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-09T07:59:51.880617+00:00"
+        "planned_at": "2026-11-09T08:30:15.179664+00:00"
       },
       "previous_target_id": "30928348",
       "prepared": {
@@ -92684,17 +92684,19 @@
       "attempts": []
     },
     "24468": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32024360",
+          "reason": "Request failed for https://sdilej.cz/32024360/atlantis-the-lost-empire-2001-czsken-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T08:30:15.330648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32024360",
         "display_name": "Atlantis: The Lost Empire 1080p CZ Dabing",
         "planned_at": "2026-11-09T08:29:28.748262+00:00"
-      },
-      "claim": {
-        "worker_id": "e091f33678b340589800fd66824f2b6d-shard-0",
-        "claimed_at": "2026-11-09T08:29:29.094041+00:00",
-        "lease_expires_at": "2026-11-09T14:29:29.094041+00:00",
-        "run_id": "42574443311"
       }
     },
     "12206": {
@@ -150820,5 +150822,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:30:13.316700+00:00"
+  "updated_at": "2026-11-09T08:30:15.330665+00:00"
 }
