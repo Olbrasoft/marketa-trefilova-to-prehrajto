@@ -8032,13 +8032,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-11-09T09:22:21.483817+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-11-09T09:57:09.186873+00:00"
         },
         {
@@ -8047,6 +8040,13 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-11-09T10:28:21.055279+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:59:20.837939+00:00"
         }
       ],
       "last_plan": {
@@ -34221,7 +34221,7 @@
       "last_plan": {
         "source_id": "35087204",
         "display_name": "Darkest Hour 4K CZ Dabing",
-        "planned_at": "2026-11-09T10:28:20.558801+00:00"
+        "planned_at": "2026-11-09T10:59:19.356766+00:00"
       },
       "previous_target_id": "30738724",
       "prepared": {
@@ -34229,6 +34229,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-02T18:09:12.961107+00:00",
         "relay_source_id": "35087204"
+      },
+      "claim": {
+        "worker_id": "fd87c0584ade469588f914f47cbf47bf-shard-0",
+        "claimed_at": "2026-11-09T10:59:20.063041+00:00",
+        "lease_expires_at": "2026-11-09T16:59:20.063041+00:00",
+        "run_id": "42574443311"
       }
     },
     "36749": {
@@ -93214,7 +93220,7 @@
       "last_plan": {
         "source_id": "34026334",
         "display_name": "Fatal Attraction 4K CZ Dabing",
-        "planned_at": "2026-11-09T10:59:17.068391+00:00"
+        "planned_at": "2026-11-09T10:59:19.627237+00:00"
       }
     },
     "2537": {
@@ -151784,5 +151790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:59:17.068407+00:00"
+  "updated_at": "2026-11-09T10:59:20.837957+00:00"
 }
