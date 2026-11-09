@@ -96850,17 +96850,19 @@
       }
     },
     "28399": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "8613346",
+          "reason": "Request failed for https://sdilej.cz/8613346/nase-dovolena-a-jine-pohromy-2014-1080p-bdrip-dd5.1-en-dd2.0-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:20:52.483930+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8613346",
         "display_name": "What We Did on Our Holiday 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:20:03.634209+00:00"
-      },
-      "claim": {
-        "worker_id": "7176ab152b994c71bbffe27ad6d58331-shard-0",
-        "claimed_at": "2026-11-09T22:20:04.038952+00:00",
-        "lease_expires_at": "2026-11-10T04:20:04.038952+00:00",
-        "run_id": "42692268094"
       }
     },
     "14325": {
@@ -156348,5 +156350,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:20:12.732534+00:00"
+  "updated_at": "2026-11-09T22:20:52.483946+00:00"
 }
