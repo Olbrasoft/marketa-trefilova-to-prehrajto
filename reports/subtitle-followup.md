@@ -570,3 +570,4 @@ Attach subtitles only after target processing has finished.
 | Megan Leavey 1080p CZ Titulky | 30933808 | https://sdilej.cz/8623300/megan-leavey-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Human Traffic 1080p CZ Titulky | 30934137 | https://sdilej.cz/11557913/human-traffic-cz-tit-1080p-dts7.1-hevc-h265.mkv | Extract Czech track from exact source after processing |
 | A Good Person 1080p CZ Titulky | 30934176 | https://sdilej.cz/26433562/a.good.person.brrip.en.5.1.titulky.cz.2023.mkv | Extract Czech track from exact source after processing |
+| Untold: Deal with the Devil 1080p CZ Titulky | 30935260 | https://sdilej.cz/34756699/neslychane-smlouva-s-dablem-2021-dokumentarni-sportovni-cztit.mkv | Extract Czech track from exact source after processing |
