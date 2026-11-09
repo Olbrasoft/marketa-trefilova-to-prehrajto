@@ -31119,13 +31119,6 @@
           "source_id": "33478714",
           "reason": "Request failed for https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-11-09T09:23:54.755573+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "33478714",
-          "reason": "Request failed for https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-11-09T09:58:34.898012+00:00"
         },
         {
@@ -31134,18 +31127,19 @@
           "reason": "Request failed for https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-09T10:29:40.049070+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33478714",
+          "target_video_id": "30944091",
+          "permanent": false,
+          "attempted_at": "2026-11-09T11:26:58.414983+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33478714",
         "display_name": "Live from Baghdad SD CZ Titulky",
         "planned_at": "2026-11-09T11:00:54.703254+00:00"
-      },
-      "claim": {
-        "worker_id": "872ffc05ca70451481ea3ce545cdfb79-shard-0",
-        "claimed_at": "2026-11-09T11:00:54.809439+00:00",
-        "lease_expires_at": "2026-11-09T17:00:54.809439+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30944091",
       "prepared": {
@@ -93991,5 +93985,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T11:23:52.510559+00:00"
+  "updated_at": "2026-11-09T11:26:58.414998+00:00"
 }
