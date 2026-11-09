@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-09T22:03:54.814027+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-09T22:35:38.296784+00:00"
         },
         {
@@ -220,12 +213,19 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-09T23:06:35.007732+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:36:46.848931+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-09T23:06:32.135097+00:00"
+        "planned_at": "2026-11-09T23:36:44.200943+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -97853,17 +97853,19 @@
       }
     },
     "12375": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34142768",
+          "reason": "Request failed for https://sdilej.cz/34142768/za-branami-pekla-1997-krimi-komedie-usa-czdab.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:36:47.012471+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34142768",
         "display_name": "Gridlock'd 1080p CZ Dabing",
         "planned_at": "2026-11-09T23:35:25.716450+00:00"
-      },
-      "claim": {
-        "worker_id": "6b8d50ba1cda4f07bc8a844f3f4e6874-shard-0",
-        "claimed_at": "2026-11-09T23:35:26.150415+00:00",
-        "lease_expires_at": "2026-11-10T05:35:26.150415+00:00",
-        "run_id": "42692268094"
       }
     },
     "14644": {
@@ -97871,7 +97873,7 @@
       "last_plan": {
         "source_id": "22865129",
         "display_name": "My Brothers and I (Mes frères et moi) 720p CZ Dabing",
-        "planned_at": "2026-11-09T23:36:40.523792+00:00"
+        "planned_at": "2026-11-09T23:36:44.494255+00:00"
       }
     },
     "29747": {
@@ -157173,5 +157175,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:36:42.602208+00:00"
+  "updated_at": "2026-11-09T23:36:47.012491+00:00"
 }
