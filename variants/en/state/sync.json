@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-09T22:01:47.160884+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-09T22:33:33.469788+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-09T23:03:58.870403+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:34:40.507418+00:00"
         }
       ],
       "last_plan": {
@@ -259,12 +259,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "43f1cdf256764b9688422072398b5dac-shard-0",
-        "claimed_at": "2026-11-09T23:34:36.948299+00:00",
-        "lease_expires_at": "2026-11-10T05:34:36.948299+00:00",
-        "run_id": "42692268094"
       }
     },
     "24": {
@@ -24197,7 +24191,7 @@
       "last_plan": {
         "source_id": "34220031",
         "display_name": "Chocolat (2000) 1080p CZ Titulky",
-        "planned_at": "2026-11-09T23:04:02.679804+00:00"
+        "planned_at": "2026-11-09T23:34:39.989095+00:00"
       },
       "previous_target_id": "30859204",
       "prepared": {
@@ -24205,6 +24199,12 @@
         "size_bytes": 11800000000,
         "prepared_at": "2026-11-06T12:37:47.237046+00:00",
         "relay_source_id": "34220031"
+      },
+      "claim": {
+        "worker_id": "19a7edf2ea8a4bf7bfb9895a759d4a89-shard-0",
+        "claimed_at": "2026-11-09T23:34:40.278023+00:00",
+        "lease_expires_at": "2026-11-10T05:34:40.278023+00:00",
+        "run_id": "42692268094"
       }
     },
     "1788": {
@@ -95525,5 +95525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:34:37.566261+00:00"
+  "updated_at": "2026-11-09T23:34:40.507436+00:00"
 }
