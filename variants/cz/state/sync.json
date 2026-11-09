@@ -96600,17 +96600,19 @@
       }
     },
     "2602": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14809365",
+          "target_video_id": "30955086",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:09:25.901610+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14809365",
         "display_name": "Blinded by the Light SD CZ Dabing",
         "planned_at": "2026-11-09T22:05:57.919271+00:00"
-      },
-      "claim": {
-        "worker_id": "3a5583aa5adc450d862807d8d30d2bc4-shard-0",
-        "claimed_at": "2026-11-09T22:05:58.480712+00:00",
-        "lease_expires_at": "2026-11-10T04:05:58.480712+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955086",
       "prepared": {
@@ -156197,5 +156199,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:09:05.173402+00:00"
+  "updated_at": "2026-11-09T22:09:25.901627+00:00"
 }
