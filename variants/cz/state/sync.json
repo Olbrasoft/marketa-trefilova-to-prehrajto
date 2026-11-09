@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-09T07:29:45.508838+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-09T08:05:06.586527+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-09T08:45:26.463762+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-09T09:22:32.411256+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "16b6bb3eb4fa4d66b008796692b04ad7-shard-0",
-        "claimed_at": "2026-11-09T09:22:29.092179+00:00",
-        "lease_expires_at": "2026-11-09T15:22:29.092179+00:00",
-        "run_id": "42574443311"
       }
     },
     "9": {
@@ -4281,7 +4275,7 @@
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-09T08:45:29.948616+00:00"
+        "planned_at": "2026-11-09T09:22:31.370307+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -4289,6 +4283,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
+      },
+      "claim": {
+        "worker_id": "5a9b35ad72684fb6b6f637acc7dd8784-shard-0",
+        "claimed_at": "2026-11-09T09:22:32.137525+00:00",
+        "lease_expires_at": "2026-11-09T15:22:32.137525+00:00",
+        "run_id": "42574443311"
       }
     },
     "229": {
@@ -92785,7 +92785,7 @@
       "last_plan": {
         "source_id": "34296350",
         "display_name": "Nymphomaniac: Volume I (Nymphomaniac: Vol. I) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T09:22:28.530359+00:00"
+        "planned_at": "2026-11-09T09:22:31.656377+00:00"
       }
     },
     "10888": {
@@ -151166,5 +151166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T09:22:29.457500+00:00"
+  "updated_at": "2026-11-09T09:22:32.411354+00:00"
 }
