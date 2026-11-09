@@ -96418,17 +96418,19 @@
       }
     },
     "11904": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15875333",
+          "target_video_id": "30954843",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:55:49.510142+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15875333",
         "display_name": "Memphis Belle 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:48:00.678435+00:00"
-      },
-      "claim": {
-        "worker_id": "f675be26e36f413fbb3c44a802567997-shard-0",
-        "claimed_at": "2026-11-09T21:48:01.066968+00:00",
-        "lease_expires_at": "2026-11-10T03:48:01.066968+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954843",
       "prepared": {
@@ -156042,5 +156044,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:53:48.222264+00:00"
+  "updated_at": "2026-11-09T21:55:49.510157+00:00"
 }
