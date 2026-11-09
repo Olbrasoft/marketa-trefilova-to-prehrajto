@@ -569,3 +569,4 @@ Attach subtitles only after target processing has finished.
 | The Perfect Neighbor 1080p CZ Titulky | 30932988 | https://sdilej.cz/32131764/the.perfect.neighbor-2025-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Megan Leavey 1080p CZ Titulky | 30933808 | https://sdilej.cz/8623300/megan-leavey-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Human Traffic 1080p CZ Titulky | 30934137 | https://sdilej.cz/11557913/human-traffic-cz-tit-1080p-dts7.1-hevc-h265.mkv | Extract Czech track from exact source after processing |
+| A Good Person 1080p CZ Titulky | 30934176 | https://sdilej.cz/26433562/a.good.person.brrip.en.5.1.titulky.cz.2023.mkv | Extract Czech track from exact source after processing |
