@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:19:18.442548+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:19:21.949152+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
@@ -76,7 +76,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvo
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-09T10:25:59.875056+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-09T10:26:20.698582+00:00 |
 | [Empties (Vratné lahve) 1080p CZ Titulky](https://prehraj.to/empties-vratne-lahve-1080p-cz-titulky-mkv/2fa38051e9b275cf) (ID 30938020) | [Sdílej 32453722](https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv) | target_unavailable | 2026-11-09T21:11:02.609562+00:00 |
-| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-09T10:25:50.956160+00:00 |
+| [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-09T21:19:21.949093+00:00 |
 | [Extreme Job (극한직업) 1080p CZ Titulky](https://prehraj.to/extreme-job-1080p-cz-titulky-mkv/10389763548b054b) (ID 30945079) | [Sdílej 21420604](https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv) | target_unavailable | 2026-11-09T11:57:09.589580+00:00 |
 | [Firebird 1080p CZ Titulky](https://prehraj.to/firebird-1080p-cz-titulky-mp4/79f060d89fa8654c) (ID 30945935) | [Sdílej 30703111](https://sdilej.cz/30703111/firebird-1080p-dd-2021-cz-tit.mp4) | target_unavailable | 2026-11-09T12:58:06.888723+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-09T10:26:42.312493+00:00 |
