@@ -93461,17 +93461,19 @@
       }
     },
     "2763": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18883114",
+          "target_video_id": "30945966",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:54:50.607314+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18883114",
         "display_name": "Another Earth SD CZ Dabing",
         "planned_at": "2026-11-09T12:52:30.045172+00:00"
-      },
-      "claim": {
-        "worker_id": "a324f74204f4451b91b40efad1d76bd3-shard-0",
-        "claimed_at": "2026-11-09T12:52:30.449209+00:00",
-        "lease_expires_at": "2026-11-09T18:52:30.449209+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30945966",
       "prepared": {
@@ -152510,5 +152512,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:52:34.602607+00:00"
+  "updated_at": "2026-11-09T12:54:50.607331+00:00"
 }
