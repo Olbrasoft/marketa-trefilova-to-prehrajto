@@ -94885,17 +94885,19 @@
       }
     },
     "23940": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34784051",
+          "target_video_id": "30949851",
+          "permanent": false,
+          "attempted_at": "2026-11-09T17:23:48.004970+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34784051",
         "display_name": "Gia 1080p CZ Dabing",
         "planned_at": "2026-11-09T17:09:35.479552+00:00"
-      },
-      "claim": {
-        "worker_id": "fc9327140cfe4c568adf22f771469143-shard-0",
-        "claimed_at": "2026-11-09T17:09:35.792889+00:00",
-        "lease_expires_at": "2026-11-09T23:09:35.792889+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30949851",
       "prepared": {
@@ -154693,5 +154695,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T17:13:19.625806+00:00"
+  "updated_at": "2026-11-09T17:23:48.004987+00:00"
 }
