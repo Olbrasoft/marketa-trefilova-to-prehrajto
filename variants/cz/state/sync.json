@@ -97198,17 +97198,19 @@
       "attempts": []
     },
     "19923": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34698459",
+          "target_video_id": "30955630",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:46:28.570221+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34698459",
         "display_name": "Courageous SD CZ Dabing",
         "planned_at": "2026-11-09T22:42:26.376685+00:00"
-      },
-      "claim": {
-        "worker_id": "a4d340de80b941cb9058bc37e9e952b3-shard-0",
-        "claimed_at": "2026-11-09T22:42:26.735443+00:00",
-        "lease_expires_at": "2026-11-10T04:42:26.735443+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955630",
       "prepared": {
@@ -156616,5 +156618,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:42:30.932087+00:00"
+  "updated_at": "2026-11-09T22:46:28.570236+00:00"
 }
