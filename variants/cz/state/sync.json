@@ -97593,17 +97593,19 @@
       }
     },
     "22868": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34703815",
+          "target_video_id": "30956321",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:18:41.865625+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34703815",
         "display_name": "Lucas 720p CZ Dabing",
         "planned_at": "2026-11-09T23:12:23.012917+00:00"
-      },
-      "claim": {
-        "worker_id": "bf65b07e9f6b4682b55665cfcebab513-shard-0",
-        "claimed_at": "2026-11-09T23:12:23.400093+00:00",
-        "lease_expires_at": "2026-11-10T05:12:23.400093+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956321",
       "prepared": {
@@ -97666,7 +97668,13 @@
       "last_plan": {
         "source_id": "28057435",
         "display_name": "Infinitely Polar Bear 720p CZ Dabing",
-        "planned_at": "2026-11-09T23:18:28.801284+00:00"
+        "planned_at": "2026-11-09T23:18:36.599548+00:00"
+      },
+      "claim": {
+        "worker_id": "1b6c3d7a02334bd58c43bd9b9de7756d-shard-0",
+        "claimed_at": "2026-11-09T23:18:37.046686+00:00",
+        "lease_expires_at": "2026-11-10T05:18:37.046686+00:00",
+        "run_id": "42692268094"
       }
     },
     "34068": {
@@ -156992,5 +157000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:18:32.877502+00:00"
+  "updated_at": "2026-11-09T23:18:41.865641+00:00"
 }
