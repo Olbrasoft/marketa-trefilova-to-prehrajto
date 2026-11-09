@@ -573,16 +573,16 @@ Attach subtitles only after target processing has finished.
 | Untold: Deal with the Devil 1080p CZ Titulky | 30935260 | https://sdilej.cz/34756699/neslychane-smlouva-s-dablem-2021-dokumentarni-sportovni-cztit.mkv | Complete: Czech subtitles verified |
 | The Bird with the Crystal Plumage 1080p CZ Titulky | 30935313 | https://sdilej.cz/32587629/the.bird.with.the.crystal.plumage.1970.1080p.bluray.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | The Irishman: In Conversation 1080p CZ Titulky | 30937553 | https://sdilej.cz/12740016/the.irishman.in.conversation.2019.1080p.nf.web-dl.ddp5.1.x264-pawel2006.mkv | Complete: Czech subtitles verified |
-| Silkwood 1080p CZ Titulky | 30937630 | https://sdilej.cz/34580846/silkwood.1983.1080p.bluray.x264-oft.mkv | Extract Czech track from exact source after processing |
+| Silkwood 1080p CZ Titulky | 30937630 | https://sdilej.cz/34580846/silkwood.1983.1080p.bluray.x264-oft.mkv | Complete: Czech subtitles verified |
 | First Cow 1080p CZ Titulky | 30941919 | https://sdilej.cz/25203082/prvni-krava.mkv | Complete: Czech subtitles verified |
 | Red Rooms (Les Chambres rouges) SD CZ Titulky | 30937795 | https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv | Complete: Czech subtitles verified |
 | Into the White 1080p CZ Titulky | 30941298 | https://sdilej.cz/26337848/kriz-cti-into-the-white-2012-1080p-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Help! 1080p CZ Titulky | 30942408 | https://sdilej.cz/33230731/the-beatles-help-1965-fhd-en-cz-tit.mkv | Complete: Czech subtitles verified |
-| Live from Baghdad SD CZ Titulky | 30944091 | https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Live from Baghdad SD CZ Titulky | 30944091 | https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | He Loves Me... He Loves Me Not 1080p CZ Titulky | 30942366 | https://sdilej.cz/33956357/ma-me-rad-nema-me-ad-2002-czdab-m.mkv | Complete: Czech subtitles verified |
-| The Hater (Sala samobójców. Hejter) (2020) 720p CZ Titulky | 30942739 | https://sdilej.cz/14065503/the.hater.2020.720p.bluray.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
+| The Hater (Sala samobójców. Hejter) (2020) 720p CZ Titulky | 30942739 | https://sdilej.cz/14065503/the.hater.2020.720p.bluray.x264.cz.tit.mkv | Complete: Czech subtitles verified |
 | La Piscine (The Swimming Pool) 1080p CZ Titulky | 30944955 | https://sdilej.cz/16564498/bazen-la-piscine-1969-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
-| Anthony Jeselnik: Fire in the Maternity Ward 1080p CZ Titulky | 30944077 | https://sdilej.cz/11645962/anthony-jeselnik-fire-in-the-maternity-ward-2019-titulky.cz-1080p.hd.mkv | Extract Czech track from exact source after processing |
+| Anthony Jeselnik: Fire in the Maternity Ward 1080p CZ Titulky | 30944077 | https://sdilej.cz/11645962/anthony-jeselnik-fire-in-the-maternity-ward-2019-titulky.cz-1080p.hd.mkv | Complete: Czech subtitles verified |
 | Angst SD CZ Titulky | 30945338 | https://sdilej.cz/21120116/angst-1983-horor-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Trial by Fire (2018) 1080p CZ Titulky | 30945036 | https://sdilej.cz/15709144/trial.by.fire.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | Extreme Job (극한직업) 1080p CZ Titulky | 30945079 | https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Extract Czech track from exact source after processing |
