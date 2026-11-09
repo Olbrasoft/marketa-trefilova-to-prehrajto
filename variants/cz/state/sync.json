@@ -95498,17 +95498,19 @@
       "attempts": []
     },
     "2549": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33177301",
+          "target_video_id": "30952506",
+          "permanent": false,
+          "attempted_at": "2026-11-09T19:20:55.765197+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33177301",
         "display_name": "The Last Kingdom: Seven Kings Must Die 1080p CZ Dabing",
         "planned_at": "2026-11-09T19:11:13.179105+00:00"
-      },
-      "claim": {
-        "worker_id": "5312bf8bd4374daa8a86e187817b4920-shard-0",
-        "claimed_at": "2026-11-09T19:11:13.512581+00:00",
-        "lease_expires_at": "2026-11-10T01:11:13.512581+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30952506",
       "prepared": {
@@ -155210,5 +155212,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T19:19:47.062873+00:00"
+  "updated_at": "2026-11-09T19:20:55.765215+00:00"
 }
