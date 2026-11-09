@@ -45574,7 +45574,7 @@
       "last_plan": {
         "source_id": "20443534",
         "display_name": "The Proposition (2005) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T13:10:17.175632+00:00"
+        "planned_at": "2026-11-09T13:43:41.482745+00:00"
       },
       "previous_target_id": "30871258",
       "prepared": {
@@ -45582,6 +45582,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-06T22:18:15.551292+00:00",
         "relay_source_id": "20443534"
+      },
+      "claim": {
+        "worker_id": "f891d0ed59704dc984419786b5638da1-shard-0",
+        "claimed_at": "2026-11-09T13:43:42.435345+00:00",
+        "lease_expires_at": "2026-11-09T19:43:42.435345+00:00",
+        "run_id": "42608486502"
       }
     },
     "1104": {
@@ -64752,13 +64758,6 @@
           "source_id": "11088676",
           "target_video_id": "30819792",
           "permanent": false,
-          "attempted_at": "2026-11-09T11:51:35.806670+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11088676",
-          "target_video_id": "30819792",
-          "permanent": false,
           "attempted_at": "2026-11-09T12:32:51.100168+00:00"
         },
         {
@@ -64767,6 +64766,13 @@
           "target_video_id": "30819792",
           "permanent": false,
           "attempted_at": "2026-11-09T13:10:15.511502+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11088676",
+          "target_video_id": "30819792",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:43:42.815526+00:00"
         }
       ],
       "last_plan": {
@@ -93804,14 +93810,25 @@
       "last_plan": {
         "source_id": "26994809",
         "display_name": "Women Talking 1080p CZ Dabing",
-        "planned_at": "2026-11-09T13:43:39.170557+00:00"
+        "planned_at": "2026-11-09T13:43:41.762504+00:00"
+      },
+      "claim": {
+        "worker_id": "3fe8a9505c574b7c86e50fe4d234b318-shard-0",
+        "claimed_at": "2026-11-09T13:43:42.593306+00:00",
+        "lease_expires_at": "2026-11-09T19:43:42.593306+00:00",
+        "run_id": "42608486502"
       }
     },
     "28625": {
       "attempts": []
     },
     "17780": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "5874369",
+        "display_name": "Girl with a Pearl Earring SD CZ Dabing",
+        "planned_at": "2026-11-09T13:43:41.969691+00:00"
+      }
     },
     "2501": {
       "attempts": []
@@ -153019,5 +153036,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:43:39.170573+00:00"
+  "updated_at": "2026-11-09T13:43:42.815544+00:00"
 }
