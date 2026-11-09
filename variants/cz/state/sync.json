@@ -97156,17 +97156,19 @@
       }
     },
     "11254": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34673603",
+          "reason": "Request failed for https://sdilej.cz/34673603/v-komatu-1978-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:40:54.609876+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673603",
         "display_name": "Coma (1978) 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:40:07.290375+00:00"
-      },
-      "claim": {
-        "worker_id": "755a84abda634052b0e44dcdeeda4a4d-shard-0",
-        "claimed_at": "2026-11-09T22:40:07.722135+00:00",
-        "lease_expires_at": "2026-11-10T04:40:07.722135+00:00",
-        "run_id": "42692268094"
       }
     },
     "2488": {
@@ -156576,5 +156578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:40:11.265713+00:00"
+  "updated_at": "2026-11-09T22:40:54.609890+00:00"
 }
