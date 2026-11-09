@@ -94932,17 +94932,19 @@
       "attempts": []
     },
     "20524": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11952070",
+          "target_video_id": "30949928",
+          "permanent": false,
+          "attempted_at": "2026-11-09T17:24:54.327941+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11952070",
         "display_name": "Stronger 1080p CZ Dabing",
         "planned_at": "2026-11-09T17:13:14.858874+00:00"
-      },
-      "claim": {
-        "worker_id": "0b2b4ac63ff441e69dac4d9352024644-shard-0",
-        "claimed_at": "2026-11-09T17:13:15.180599+00:00",
-        "lease_expires_at": "2026-11-09T23:13:15.180599+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30949928",
       "prepared": {
@@ -154706,5 +154708,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T17:24:49.113118+00:00"
+  "updated_at": "2026-11-09T17:24:54.327964+00:00"
 }
