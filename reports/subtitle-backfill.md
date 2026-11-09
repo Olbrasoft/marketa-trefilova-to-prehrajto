@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T05:10:24.879386+00:00
+Poslední aktualizace (UTC): 2026-11-09T05:10:28.212955+00:00
 
 Zkontrolováno videí: 569. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 45, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -66,6 +66,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 53. Důvod
 | --- | --- | --- | --- |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-08T19:04:03.145927+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-08T19:04:09.655400+00:00 |
+| [A Good Person 1080p CZ Titulky](https://prehraj.to/a-good-person-1080p-cz-titulky-mkv/81403c0531467b48) (ID 30934176) | [Sdílej 26433562](https://sdilej.cz/26433562/a.good.person.brrip.en.5.1.titulky.cz.2023.mkv) | target_unavailable | 2026-11-09T05:10:28.212886+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-08T18:54:48.233058+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-08T18:55:01.280307+00:00 |
 | [Bad Education (2019) 1080p CZ Titulky](https://prehraj.to/bad-education-2019-1080p-cz-titulky-mkv/aff43d63ab21ea0f) (ID 30928018) | [Sdílej 13389327](https://sdilej.cz/13389327/bad.education.2019.1080p.web.h264-secrecy.cz.tit.mkv) | target_unavailable | 2026-11-08T23:48:05.537724+00:00 |
