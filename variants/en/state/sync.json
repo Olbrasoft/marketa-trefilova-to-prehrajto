@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-08T23:46:20.535235+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-09T00:21:25.600820+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-09T00:51:47.904724+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-09T02:58:36.481958+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "e79c6cc8bbbe4de781b2669c5fa21c81-shard-0",
-        "claimed_at": "2026-11-09T02:58:30.489457+00:00",
-        "lease_expires_at": "2026-11-09T08:58:30.489457+00:00",
-        "run_id": "42550909205"
       }
     },
     "108": {
@@ -16319,6 +16313,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-02T23:48:48.234894+00:00",
         "relay_source_id": "13881903"
+      },
+      "claim": {
+        "worker_id": "4bee56d542b24edf8d772362c7a72d72-shard-0",
+        "claimed_at": "2026-11-09T02:58:35.991750+00:00",
+        "lease_expires_at": "2026-11-09T08:58:35.991750+00:00",
+        "run_id": "42550909205"
       }
     },
     "31841": {
@@ -30212,7 +30212,7 @@
       "last_plan": {
         "source_id": "33493464",
         "display_name": "Ginger and Fred (Ginger e Fred) 1080p CZ Titulky",
-        "planned_at": "2026-11-09T02:58:30.246539+00:00"
+        "planned_at": "2026-11-09T02:58:35.905641+00:00"
       }
     },
     "15992": {
@@ -91098,5 +91098,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T02:58:34.156493+00:00"
+  "updated_at": "2026-11-09T02:58:36.481976+00:00"
 }
