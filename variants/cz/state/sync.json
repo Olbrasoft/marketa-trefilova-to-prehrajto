@@ -96944,17 +96944,19 @@
       "attempts": []
     },
     "2486": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35128744",
+          "target_video_id": "30955324",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:32:54.674865+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35128744",
         "display_name": "The Cutting Edge 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:22:26.405504+00:00"
-      },
-      "claim": {
-        "worker_id": "445bde6597374a1ca4d767ba17a2dfe0-shard-0",
-        "claimed_at": "2026-11-09T22:22:26.796502+00:00",
-        "lease_expires_at": "2026-11-10T04:22:26.796502+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955324",
       "prepared": {
@@ -156505,5 +156507,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:31:14.734679+00:00"
+  "updated_at": "2026-11-09T22:32:54.674879+00:00"
 }
