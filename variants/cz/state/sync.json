@@ -13998,13 +13998,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-08T22:48:16.191510+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-08T23:18:40.891466+00:00"
         },
         {
@@ -14013,6 +14006,13 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-08T23:52:29.086754+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:22:46.939825+00:00"
         }
       ],
       "last_plan": {
@@ -14026,12 +14026,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
-      },
-      "claim": {
-        "worker_id": "7417eede0aec4e59a7e875caa97b0cdc-shard-0",
-        "claimed_at": "2026-11-09T00:22:44.143339+00:00",
-        "lease_expires_at": "2026-11-09T06:22:44.143339+00:00",
-        "run_id": "42519750852"
       }
     },
     "22047": {
@@ -14663,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-08T23:52:30.632362+00:00"
+        "planned_at": "2026-11-09T00:22:46.218215+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14671,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "fdbd884cf1404398aeb0ca237271dfaf-shard-0",
+        "claimed_at": "2026-11-09T00:22:47.074960+00:00",
+        "lease_expires_at": "2026-11-09T06:22:47.074960+00:00",
+        "run_id": "42519750852"
       }
     },
     "22177": {
@@ -91862,7 +91862,7 @@
       "last_plan": {
         "source_id": "25790551",
         "display_name": "Non-Stop 1080p CZ Dabing",
-        "planned_at": "2026-11-09T00:22:43.818568+00:00"
+        "planned_at": "2026-11-09T00:22:46.468563+00:00"
       }
     },
     "2748": {
@@ -147852,5 +147852,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:22:44.667119+00:00"
+  "updated_at": "2026-11-09T00:22:47.074982+00:00"
 }
