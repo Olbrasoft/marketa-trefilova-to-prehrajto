@@ -30807,7 +30807,7 @@
       "last_plan": {
         "source_id": "34580846",
         "display_name": "Silkwood 1080p CZ Titulky",
-        "planned_at": "2026-11-09T08:48:18.828911+00:00"
+        "planned_at": "2026-11-09T09:18:22.310837+00:00"
       },
       "previous_target_id": "30937630",
       "prepared": {
@@ -30815,6 +30815,12 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-11-09T07:26:23.224380+00:00",
         "relay_source_id": "34580846"
+      },
+      "claim": {
+        "worker_id": "967dadb814c741ada893baf2c25a5a1d-shard-0",
+        "claimed_at": "2026-11-09T09:18:22.816759+00:00",
+        "lease_expires_at": "2026-11-09T15:18:22.816759+00:00",
+        "run_id": "42574443311"
       }
     },
     "35707": {
@@ -30899,17 +30905,23 @@
           "attempted_at": "2026-11-09T08:48:16.313295+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33393273",
-        "display_name": "Red Rooms (Les Chambres rouges) SD CZ Titulky",
-        "planned_at": "2026-11-09T09:18:19.812347+00:00"
-      },
       "previous_target_id": "30937795",
-      "prepared": {
+      "upload": {
         "target_video_id": "30937795",
+        "display_name": "Red Rooms (Les Chambres rouges) SD CZ Titulky",
+        "source_id": "33393273",
+        "source_url": "https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv",
+        "source_filename": "Les Chambres Rouges (2023) BDRip_cz.tit.mkv",
         "size_bytes": 2100000000,
-        "prepared_at": "2026-11-09T07:31:21.508314+00:00",
-        "relay_source_id": "33393273"
+        "width": 606,
+        "height": 404,
+        "audio_language": "fr",
+        "language_probability": 0.9719601273536682,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/red-rooms-les-chambres-rouges-sd-cz-titulky-mkv/bcf1e5b617e09bde",
+        "uploaded_at": "2026-11-09T09:18:23.041917+00:00"
       }
     },
     "34330": {
@@ -31085,7 +31097,7 @@
       "last_plan": {
         "source_id": "33478714",
         "display_name": "Live from Baghdad SD CZ Titulky",
-        "planned_at": "2026-11-09T09:18:20.007067+00:00"
+        "planned_at": "2026-11-09T09:18:22.720615+00:00"
       }
     },
     "34600": {
@@ -93055,5 +93067,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T09:18:20.007084+00:00"
+  "updated_at": "2026-11-09T09:18:23.041929+00:00"
 }
