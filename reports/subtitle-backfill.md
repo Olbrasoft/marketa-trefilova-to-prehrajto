@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T07:55:23.901288+00:00
+Poslední aktualizace (UTC): 2026-11-09T07:55:27.279686+00:00
 
 Zkontrolováno videí: 575. Další stránka kontroly: 0.
 
@@ -91,7 +91,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvo
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-08T18:55:07.653990+00:00 |
 | [Mosul (الموصل) (2019) (ID 29822) 1080p CZ Titulky](https://prehraj.to/mosul-2019-id-29822-1080p-cz-titulky-mkv/a94ff7975b81113c) (ID 30932956) | [Sdílej 14762100](https://sdilej.cz/14762100/mosul.2019.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-11-09T03:59:18.807517+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-09T07:54:47.258549+00:00 |
-| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-08T18:54:58.089435+00:00 |
+| [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-09T07:55:27.279641+00:00 |
 | [Poor Things 1080p CZ Titulky](https://prehraj.to/poor-things-1080p-cz-titulky-mkv/de58b83d9d75655d) (ID 30664033) | [Sdílej 28240998](https://sdilej.cz/28240998/poor.things-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-09T07:46:54.975643+00:00 |
 | [Red Rooms (Les Chambres rouges) SD CZ Titulky](https://prehraj.to/red-rooms-les-chambres-rouges-sd-cz-titulky-mkv/bcf1e5b617e09bde) (ID 30937795) | [Sdílej 33393273](https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv) | target_unavailable | 2026-11-09T07:34:35.996934+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-09T07:55:02.395749+00:00 |
