@@ -563,3 +563,4 @@ Attach subtitles only after target processing has finished.
 | Gentlemen Prefer Blondes 4K CZ Titulky | 30927823 | https://sdilej.cz/33596774/pani-maji-radsi-blondynky-gentlemen-prefer-blondes-1953-2160p.upscale.mkv | Extract Czech track from exact source after processing |
 | Bad Education (2019) 1080p CZ Titulky | 30928018 | https://sdilej.cz/13389327/bad.education.2019.1080p.web.h264-secrecy.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Burial 1080p CZ Titulky | 30931933 | https://sdilej.cz/27048382/pohreb.mp4 | Extract Czech track from exact source after processing |
+| Ginger and Fred (Ginger e Fred) 1080p CZ Titulky | 30932010 | https://sdilej.cz/33493464/ginger-a-fred-1986-it.cz-hevc-1080p.mkv | Extract Czech track from exact source after processing |
