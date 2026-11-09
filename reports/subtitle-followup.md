@@ -547,15 +547,15 @@ Attach subtitles only after target processing has finished.
 | Flags of Our Fathers 1080p CZ Titulky | 30919505 | https://sdilej.cz/34982900/flags.of.our.fathers.2006.1080p.bluray.dl.dts.x264-majo.mkv | Complete: Czech subtitles verified |
 | Let Me In 1080p CZ Titulky | 30919516 | https://sdilej.cz/35148588/let.me.in.2010.1080p.bluray.dl.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | The Drama 4K CZ Titulky | 30920101 | https://sdilej.cz/34716958/the-drama-2026-2160p-webrip-dv-hdr10-ddp5.1-atmos-en-cz-titulky.mkv | Complete: Czech subtitles verified |
-| Warfare 1440p CZ Titulky | 30920638 | https://sdilej.cz/31269211/warfare-2025-4k.mkv | Extract Czech track from exact source after processing |
+| Warfare 1440p CZ Titulky | 30920638 | https://sdilej.cz/31269211/warfare-2025-4k.mkv | Complete: Czech subtitles verified |
 | Audition (オーディション) (1999) 1080p CZ Titulky | 30921833 | https://sdilej.cz/30970326/audition-konkurz-na-smrt-japan-1999-.mkv | Complete: Czech subtitles verified |
 | In the Mouth of Madness 1080p CZ Titulky | 30922359 | https://sdilej.cz/18282391/in-the-mouth-of-madness.1994-1080p.bluray.dts.x264-dabing-cz-eng-titulky-cz.mkv | Complete: Czech subtitles verified |
-| The Dead Zone 1080p CZ Titulky | 30922823 | https://sdilej.cz/34936882/the.dead.zone.1983.remastered.1080p.bluray.multi.x264-majo.mkv | Extract Czech track from exact source after processing |
-| Brawl in Cell Block 99 1080p CZ Titulky | 30922999 | https://sdilej.cz/11442288/brawl.in.cell.block.99.2017.1080p.bluray.10bit.hevc.dts.x265-majo.mkv | Extract Czech track from exact source after processing |
-| Re-Animator 1080p CZ Titulky | 30923177 | https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv | Extract Czech track from exact source after processing |
-| The Apprentice 1080p CZ Titulky | 30923866 | https://sdilej.cz/30068885/the.apprentice-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
-| Missing 1080p CZ Titulky | 30924110 | https://sdilej.cz/26638719/missing-nezvestna-2023-cz-tit-1080p.mkv | Extract Czech track from exact source after processing |
-| Leave No Trace 1080p CZ Titulky | 30924237 | https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv | Extract Czech track from exact source after processing |
+| The Dead Zone 1080p CZ Titulky | 30922823 | https://sdilej.cz/34936882/the.dead.zone.1983.remastered.1080p.bluray.multi.x264-majo.mkv | Complete: Czech subtitles verified |
+| Brawl in Cell Block 99 1080p CZ Titulky | 30922999 | https://sdilej.cz/11442288/brawl.in.cell.block.99.2017.1080p.bluray.10bit.hevc.dts.x265-majo.mkv | Complete: Czech subtitles verified |
+| Re-Animator 1080p CZ Titulky | 30923177 | https://sdilej.cz/31067137/re-animator-1985-1080p-en-cz-tit.mkv | Complete: Czech subtitles verified |
+| The Apprentice 1080p CZ Titulky | 30923866 | https://sdilej.cz/30068885/the.apprentice-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
+| Missing 1080p CZ Titulky | 30924110 | https://sdilej.cz/26638719/missing-nezvestna-2023-cz-tit-1080p.mkv | Complete: Czech subtitles verified |
+| Leave No Trace 1080p CZ Titulky | 30924237 | https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv | Complete: Czech subtitles verified |
 | The Upside 1080p CZ Titulky | 30924343 | https://sdilej.cz/11701537/the.upside.2017.1080p.bluray.h264.aac.cz-titulky.mkv | Extract Czech track from exact source after processing |
 | First Reformed 720p CZ Titulky | 30926271 | https://sdilej.cz/16593855/first-reformed-zoufalstvi-a-nadeje-en-5.1-cz-en-tit.mkv | Extract Czech track from exact source after processing |
 | The Call (Kol) (2020) 1080p CZ Titulky | 30927286 | https://sdilej.cz/14779637/the.call.2020.1080p.nf.web-dl.ddp5.1.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
@@ -575,3 +575,4 @@ Attach subtitles only after target processing has finished.
 | The Irishman: In Conversation 1080p CZ Titulky | 30937553 | https://sdilej.cz/12740016/the.irishman.in.conversation.2019.1080p.nf.web-dl.ddp5.1.x264-pawel2006.mkv | Extract Czech track from exact source after processing |
 | Silkwood 1080p CZ Titulky | 30937630 | https://sdilej.cz/34580846/silkwood.1983.1080p.bluray.x264-oft.mkv | Extract Czech track from exact source after processing |
 | Red Rooms (Les Chambres rouges) SD CZ Titulky | 30937795 | https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv | Extract Czech track from exact source after processing |
+| Empties (Vratné lahve) 1080p CZ Titulky | 30938020 | https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv | Extract Czech track from exact source after processing |
