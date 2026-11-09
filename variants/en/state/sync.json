@@ -3588,13 +3588,6 @@
           "source_id": "11053464",
           "target_video_id": "30615827",
           "permanent": false,
-          "attempted_at": "2026-11-09T09:50:54.621408+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11053464",
-          "target_video_id": "30615827",
-          "permanent": false,
           "attempted_at": "2026-11-09T10:21:45.270330+00:00"
         },
         {
@@ -3603,6 +3596,13 @@
           "target_video_id": "30615827",
           "permanent": false,
           "attempted_at": "2026-11-09T10:52:11.174078+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11053464",
+          "target_video_id": "30615827",
+          "permanent": false,
+          "attempted_at": "2026-11-09T11:47:02.101123+00:00"
         }
       ],
       "last_plan": {
@@ -9365,7 +9365,7 @@
       "last_plan": {
         "source_id": "29667772",
         "display_name": "Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky",
-        "planned_at": "2026-11-09T10:52:13.536919+00:00"
+        "planned_at": "2026-11-09T11:47:00.241453+00:00"
       },
       "previous_target_id": "30661597",
       "prepared": {
@@ -9373,6 +9373,12 @@
         "size_bytes": 8700000000,
         "prepared_at": "2026-10-31T08:34:47.262597+00:00",
         "relay_source_id": "29667772"
+      },
+      "claim": {
+        "worker_id": "d1df351aa5464353809a8dceadb44701-shard-0",
+        "claimed_at": "2026-11-09T11:47:00.723816+00:00",
+        "lease_expires_at": "2026-11-09T17:47:00.723816+00:00",
+        "run_id": "42608486502"
       }
     },
     "655": {
@@ -31430,7 +31436,7 @@
       "last_plan": {
         "source_id": "15709144",
         "display_name": "Trial by Fire (2018) 1080p CZ Titulky",
-        "planned_at": "2026-11-09T11:46:55.210402+00:00"
+        "planned_at": "2026-11-09T11:47:00.448422+00:00"
       }
     },
     "32840": {
@@ -94002,5 +94008,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T11:46:55.210420+00:00"
+  "updated_at": "2026-11-09T11:47:02.101141+00:00"
 }
