@@ -94340,17 +94340,19 @@
       }
     },
     "34326": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35167211",
+          "target_video_id": "30947740",
+          "permanent": false,
+          "attempted_at": "2026-11-09T15:41:45.169517+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35167211",
         "display_name": "Black Snake Moan 1080p CZ Dabing",
         "planned_at": "2026-11-09T15:08:31.872840+00:00"
-      },
-      "claim": {
-        "worker_id": "c9ccb7b9cff747558cd50e1cec38e537-shard-0",
-        "claimed_at": "2026-11-09T15:08:32.259846+00:00",
-        "lease_expires_at": "2026-11-09T21:08:32.259846+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30947740",
       "prepared": {
@@ -154086,5 +154088,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T15:33:03.808640+00:00"
+  "updated_at": "2026-11-09T15:41:45.169532+00:00"
 }
