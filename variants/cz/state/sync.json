@@ -95250,17 +95250,19 @@
       }
     },
     "34024": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33724065",
+          "target_video_id": "30951416",
+          "permanent": false,
+          "attempted_at": "2026-11-09T18:25:13.970008+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33724065",
         "display_name": "King of New York 1080p CZ Dabing",
         "planned_at": "2026-11-09T18:17:11.380005+00:00"
-      },
-      "claim": {
-        "worker_id": "b01a6e3d8ce144de8e4a8226e4449c3c-shard-0",
-        "claimed_at": "2026-11-09T18:17:11.673733+00:00",
-        "lease_expires_at": "2026-11-10T00:17:11.673733+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30951416",
       "prepared": {
@@ -155004,5 +155006,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T18:22:12.407381+00:00"
+  "updated_at": "2026-11-09T18:25:13.970025+00:00"
 }
