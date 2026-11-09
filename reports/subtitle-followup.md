@@ -562,3 +562,4 @@ Attach subtitles only after target processing has finished.
 | One Deadly Summer 720p CZ Titulky | 30927761 | https://sdilej.cz/30088993/vrazedne-leto-l-ete-meurtrier-1983-frczensub.mkv | Complete: Czech subtitles verified |
 | Gentlemen Prefer Blondes 4K CZ Titulky | 30927823 | https://sdilej.cz/33596774/pani-maji-radsi-blondynky-gentlemen-prefer-blondes-1953-2160p.upscale.mkv | Extract Czech track from exact source after processing |
 | Bad Education (2019) 1080p CZ Titulky | 30928018 | https://sdilej.cz/13389327/bad.education.2019.1080p.web.h264-secrecy.cz.tit.mkv | Extract Czech track from exact source after processing |
+| The Burial 1080p CZ Titulky | 30931933 | https://sdilej.cz/27048382/pohreb.mp4 | Extract Czech track from exact source after processing |
