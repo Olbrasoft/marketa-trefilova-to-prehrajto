@@ -30634,17 +30634,19 @@
       "attempts": []
     },
     "21985": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32587629",
+          "target_video_id": "30935313",
+          "permanent": false,
+          "attempted_at": "2026-11-09T06:25:59.879581+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32587629",
         "display_name": "The Bird with the Crystal Plumage 1080p CZ Titulky",
         "planned_at": "2026-11-09T05:59:54.659065+00:00"
-      },
-      "claim": {
-        "worker_id": "02b3031501d24ecfba85d8264b1dfff6-shard-0",
-        "claimed_at": "2026-11-09T05:59:54.752507+00:00",
-        "lease_expires_at": "2026-11-09T11:59:54.752507+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30935313",
       "prepared": {
@@ -91997,5 +91999,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T06:23:18.225129+00:00"
+  "updated_at": "2026-11-09T06:25:59.879598+00:00"
 }
