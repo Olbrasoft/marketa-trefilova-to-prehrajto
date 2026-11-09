@@ -30940,14 +30940,28 @@
           "permanent": false,
           "target_video_id": "30938020",
           "attempted_at": "2026-11-09T08:03:43.964152+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "permanent": false,
+          "source_id": "32453722",
+          "target_video_id": "30938020",
+          "reason": "Previous target ID exists; automatic reupload blocked",
+          "attempted_at": "2026-11-09T08:50:38.459616+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32453722",
         "display_name": "Empties (Vratné lahve) 1080p CZ Titulky",
-        "planned_at": "2026-11-09T07:45:16.232717+00:00"
+        "planned_at": "2026-11-09T08:50:37.100100+00:00"
       },
-      "previous_target_id": "30938020"
+      "previous_target_id": "30938020",
+      "claim": {
+        "worker_id": "e9523683fcb641aba5d15e49bbe18163-shard-0",
+        "claimed_at": "2026-11-09T08:50:37.208015+00:00",
+        "lease_expires_at": "2026-11-09T14:50:37.208015+00:00",
+        "run_id": "42574443311"
+      }
     },
     "15980": {
       "attempts": []
@@ -93010,5 +93024,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:50:31.399588+00:00"
+  "updated_at": "2026-11-09T08:50:38.459632+00:00"
 }
