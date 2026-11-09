@@ -92336,17 +92336,19 @@
       }
     },
     "2492": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34827840",
+          "target_video_id": "30935643",
+          "permanent": false,
+          "attempted_at": "2026-11-09T06:59:07.767179+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34827840",
         "display_name": "Robin Hood: Prince of Thieves 4K CZ Dabing",
         "planned_at": "2026-11-09T06:11:45.731173+00:00"
-      },
-      "claim": {
-        "worker_id": "508bea1401fd4f2eb0169920c662e7d2-shard-0",
-        "claimed_at": "2026-11-09T06:11:46.063943+00:00",
-        "lease_expires_at": "2026-11-09T12:11:46.063943+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30935643",
       "prepared": {
@@ -150041,5 +150043,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T06:57:56.768119+00:00"
+  "updated_at": "2026-11-09T06:59:07.767199+00:00"
 }
