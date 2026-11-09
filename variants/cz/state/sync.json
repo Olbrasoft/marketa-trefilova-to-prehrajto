@@ -38874,13 +38874,6 @@
           "source_id": "34784954",
           "target_video_id": "30745770",
           "permanent": false,
-          "attempted_at": "2026-11-09T11:50:28.455880+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34784954",
-          "target_video_id": "30745770",
-          "permanent": false,
           "attempted_at": "2026-11-09T12:31:38.516275+00:00"
         },
         {
@@ -38889,6 +38882,13 @@
           "target_video_id": "30745770",
           "permanent": false,
           "attempted_at": "2026-11-09T13:09:03.789482+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784954",
+          "target_video_id": "30745770",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:42:41.718134+00:00"
         }
       ],
       "last_plan": {
@@ -93611,7 +93611,7 @@
       "last_plan": {
         "source_id": "29912214",
         "display_name": "Get Shorty SD CZ Dabing",
-        "planned_at": "2026-11-09T13:06:41.987016+00:00"
+        "planned_at": "2026-11-09T13:42:40.447180+00:00"
       },
       "previous_target_id": "30946221",
       "prepared": {
@@ -93619,6 +93619,12 @@
         "size_bytes": 922744832,
         "prepared_at": "2026-11-09T13:06:46.998233+00:00",
         "relay_source_id": "29912214"
+      },
+      "claim": {
+        "worker_id": "de6420255c504f17950c737fe8922b64-shard-0",
+        "claimed_at": "2026-11-09T13:42:41.169985+00:00",
+        "lease_expires_at": "2026-11-09T19:42:41.169985+00:00",
+        "run_id": "42608486502"
       }
     },
     "2588": {
@@ -93796,7 +93802,7 @@
       "last_plan": {
         "source_id": "26994809",
         "display_name": "Women Talking 1080p CZ Dabing",
-        "planned_at": "2026-11-09T13:42:36.635398+00:00"
+        "planned_at": "2026-11-09T13:42:40.731138+00:00"
       }
     },
     "28625": {
@@ -153011,5 +153017,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:42:36.993515+00:00"
+  "updated_at": "2026-11-09T13:42:41.718151+00:00"
 }
