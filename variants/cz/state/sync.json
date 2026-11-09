@@ -92526,7 +92526,20 @@
       }
     },
     "11372": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33973334",
+          "reason": "Request failed for https://sdilej.cz/33973334/barbar-conan-1982-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T08:08:31.630788+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33973334",
+        "display_name": "Conan the Barbarian (1982) 1080p CZ Dabing",
+        "planned_at": "2026-11-09T08:07:44.581637+00:00"
+      }
     },
     "23924": {
       "attempts": []
@@ -150432,5 +150445,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:07:42.886349+00:00"
+  "updated_at": "2026-11-09T08:08:31.630853+00:00"
 }
