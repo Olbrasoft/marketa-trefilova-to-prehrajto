@@ -95169,17 +95169,19 @@
       }
     },
     "20447": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22903442",
+          "target_video_id": "30950698",
+          "permanent": false,
+          "attempted_at": "2026-11-09T18:21:57.565709+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22903442",
         "display_name": "Chip 'n Dale: Rescue Rangers 4K CZ Dabing",
         "planned_at": "2026-11-09T17:42:13.805074+00:00"
-      },
-      "claim": {
-        "worker_id": "4bc8a302449c401085a3d79ebd38886c-shard-0",
-        "claimed_at": "2026-11-09T17:42:14.124545+00:00",
-        "lease_expires_at": "2026-11-09T23:42:14.124545+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30950698",
       "prepared": {
@@ -154978,5 +154980,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T18:17:15.841900+00:00"
+  "updated_at": "2026-11-09T18:21:57.565728+00:00"
 }
