@@ -42830,6 +42830,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "31a3725b6e494e13a014916bf5c451fe-shard-0",
+        "claimed_at": "2026-11-09T22:05:40.943021+00:00",
+        "lease_expires_at": "2026-11-10T04:05:40.943021+00:00",
+        "run_id": "42692268094"
       }
     },
     "1395": {
@@ -53781,7 +53787,7 @@
       "last_plan": {
         "source_id": "33925810",
         "display_name": "The Doors 4K CZ Dabing",
-        "planned_at": "2026-11-09T21:34:16.939332+00:00"
+        "planned_at": "2026-11-09T22:05:41.127942+00:00"
       },
       "previous_target_id": "30780604",
       "prepared": {
@@ -57050,13 +57056,6 @@
           "source_id": "33383467",
           "target_video_id": "30785708",
           "permanent": false,
-          "attempted_at": "2026-11-09T19:46:37.213155+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33383467",
-          "target_video_id": "30785708",
-          "permanent": false,
           "attempted_at": "2026-11-09T21:02:18.909782+00:00"
         },
         {
@@ -57065,6 +57064,13 @@
           "target_video_id": "30785708",
           "permanent": false,
           "attempted_at": "2026-11-09T21:34:14.921046+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33383467",
+          "target_video_id": "30785708",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:05:41.792573+00:00"
         }
       ],
       "last_plan": {
@@ -57078,12 +57084,6 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-04T12:47:15.136003+00:00",
         "relay_source_id": "33383467"
-      },
-      "claim": {
-        "worker_id": "2c9c1ef264f14625a1171ce3ca88af9e-shard-0",
-        "claimed_at": "2026-11-09T22:05:38.385414+00:00",
-        "lease_expires_at": "2026-11-10T04:05:38.385414+00:00",
-        "run_id": "42692268094"
       }
     },
     "31733": {
@@ -96604,7 +96604,7 @@
       "last_plan": {
         "source_id": "14809365",
         "display_name": "Blinded by the Light SD CZ Dabing",
-        "planned_at": "2026-11-09T22:05:39.027430+00:00"
+        "planned_at": "2026-11-09T22:05:41.411344+00:00"
       }
     },
     "25690": {
@@ -156122,5 +156122,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:05:39.027445+00:00"
+  "updated_at": "2026-11-09T22:05:41.792593+00:00"
 }
