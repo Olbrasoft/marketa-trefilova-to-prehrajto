@@ -30833,17 +30833,19 @@
       "attempts": []
     },
     "18303": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26337848",
+          "reason": "Request failed for https://sdilej.cz/26337848/kriz-cti-into-the-white-2012-1080p-cz-titulky.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T07:45:10.833532+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26337848",
         "display_name": "Into the White 1080p CZ Titulky",
         "planned_at": "2026-11-09T07:44:24.459928+00:00"
-      },
-      "claim": {
-        "worker_id": "032ee958dcc34045843e866c93d24e5f-shard-0",
-        "claimed_at": "2026-11-09T07:44:24.714805+00:00",
-        "lease_expires_at": "2026-11-09T13:44:24.714805+00:00",
-        "run_id": "42574443311"
       }
     },
     "1713": {
@@ -92648,5 +92650,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T07:44:24.714848+00:00"
+  "updated_at": "2026-11-09T07:45:10.833550+00:00"
 }
