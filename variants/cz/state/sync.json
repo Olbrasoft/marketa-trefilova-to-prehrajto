@@ -97047,17 +97047,19 @@
       "attempts": []
     },
     "2624": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12192704",
+          "target_video_id": "30955445",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:36:57.381810+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12192704",
         "display_name": "The Wolf's Call (Le Chant du loup) 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:30:33.267542+00:00"
-      },
-      "claim": {
-        "worker_id": "9cab1a95ac804f3b9b19140359239bf6-shard-0",
-        "claimed_at": "2026-11-09T22:30:33.701270+00:00",
-        "lease_expires_at": "2026-11-10T04:30:33.701270+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955445",
       "prepared": {
@@ -156518,5 +156520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:36:54.378593+00:00"
+  "updated_at": "2026-11-09T22:36:57.381826+00:00"
 }
