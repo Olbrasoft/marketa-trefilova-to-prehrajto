@@ -29051,13 +29051,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-08T23:53:31.351356+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-09T00:23:37.321837+00:00"
         },
         {
@@ -29066,6 +29059,13 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-09T00:54:55.554828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-09T03:02:16.979940+00:00"
         }
       ],
       "last_plan": {
@@ -29079,12 +29079,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-02T07:58:12.679475+00:00",
         "relay_source_id": "28442451"
-      },
-      "claim": {
-        "worker_id": "57187fdc7d534697a0366eb2ac668940-shard-0",
-        "claimed_at": "2026-11-09T03:02:13.714077+00:00",
-        "lease_expires_at": "2026-11-09T09:02:13.714077+00:00",
-        "run_id": "42550909205"
       }
     },
     "22988": {
@@ -92068,7 +92062,7 @@
       "last_plan": {
         "source_id": "34650759",
         "display_name": "Crank 1080p CZ Dabing",
-        "planned_at": "2026-11-09T00:48:09.829443+00:00"
+        "planned_at": "2026-11-09T03:02:16.318101+00:00"
       },
       "previous_target_id": "30929426",
       "prepared": {
@@ -92076,6 +92070,12 @@
         "size_bytes": 2906948096,
         "prepared_at": "2026-11-09T00:48:14.196788+00:00",
         "relay_source_id": "34650759"
+      },
+      "claim": {
+        "worker_id": "1c7bc5a38a6e4a619c0b360865c4c3ef-shard-0",
+        "claimed_at": "2026-11-09T03:02:17.123248+00:00",
+        "lease_expires_at": "2026-11-09T09:02:17.123248+00:00",
+        "run_id": "42550909205"
       }
     },
     "2633": {
@@ -92132,7 +92132,7 @@
       "last_plan": {
         "source_id": "31370142",
         "display_name": "The Hitman's Bodyguard 1080p CZ Dabing",
-        "planned_at": "2026-11-09T03:02:13.281605+00:00"
+        "planned_at": "2026-11-09T03:02:16.570367+00:00"
       }
     },
     "2618": {
@@ -148879,5 +148879,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T03:02:14.524850+00:00"
+  "updated_at": "2026-11-09T03:02:17.123275+00:00"
 }
