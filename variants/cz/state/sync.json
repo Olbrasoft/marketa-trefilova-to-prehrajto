@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-09T18:48:10.033196+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:18:56.360984+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-09T19:49:13.173693+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:04:22.226085+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "866653911ecf4603ab80cfe80d78a9dc-shard-0",
-        "claimed_at": "2026-11-09T21:04:18.804651+00:00",
-        "lease_expires_at": "2026-11-10T03:04:18.804651+00:00",
-        "run_id": "42692268094"
       }
     },
     "9": {
@@ -4281,7 +4275,7 @@
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-09T19:49:12.423529+00:00"
+        "planned_at": "2026-11-09T21:04:21.203597+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -4289,6 +4283,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
+      },
+      "claim": {
+        "worker_id": "82ff8e2c417b433bb02a59994d41f8e1-shard-0",
+        "claimed_at": "2026-11-09T21:04:21.972428+00:00",
+        "lease_expires_at": "2026-11-10T03:04:21.972428+00:00",
+        "run_id": "42692268094"
       }
     },
     "229": {
@@ -95903,7 +95903,7 @@
       "last_plan": {
         "source_id": "34880197",
         "display_name": "The Rookie (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:04:18.367500+00:00"
+        "planned_at": "2026-11-09T21:04:21.508060+00:00"
       }
     },
     "2587": {
@@ -155531,5 +155531,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:04:19.535471+00:00"
+  "updated_at": "2026-11-09T21:04:22.226107+00:00"
 }
