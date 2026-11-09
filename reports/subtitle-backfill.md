@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T08:04:59.906567+00:00
+Poslední aktualizace (UTC): 2026-11-09T08:05:03.914639+00:00
 
 Zkontrolováno videí: 575. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 464, `attached_verified`: 17, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 42, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 465, `attached_verified`: 17, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 41, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -76,7 +76,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Důvo
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-09T07:55:37.603692+00:00 |
 | [Empties (Vratné lahve) 1080p CZ Titulky](https://prehraj.to/empties-vratne-lahve-1080p-cz-titulky-mkv/2fa38051e9b275cf) (ID 30938020) | [Sdílej 32453722](https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv) | target_unavailable | 2026-11-09T07:54:40.406309+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-09T07:55:13.471749+00:00 |
-| [Gentlemen Prefer Blondes 4K CZ Titulky](https://prehraj.to/gentlemen-prefer-blondes-4k-cz-titulky-mkv/f62f47b358ca9334) (ID 30927823) | [Sdílej 33596774](https://sdilej.cz/33596774/pani-maji-radsi-blondynky-gentlemen-prefer-blondes-1953-2160p.upscale.mkv) | target_unavailable | 2026-11-08T23:38:09.116892+00:00 |
 | [Ginger and Fred (Ginger e Fred) 1080p CZ Titulky](https://prehraj.to/ginger-and-fred-ginger-e-fred-1080p-cz-titulky-mkv/cd0b89460ccdd4ef) (ID 30932010) | [Sdílej 33493464](https://sdilej.cz/33493464/ginger-a-fred-1986-it.cz-hevc-1080p.mkv) | target_unavailable | 2026-11-09T03:08:28.868220+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-09T08:04:50.473363+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-09T07:55:23.901231+00:00 |
