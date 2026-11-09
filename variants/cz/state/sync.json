@@ -94807,17 +94807,19 @@
       }
     },
     "13269": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35316658",
+          "target_video_id": "30949654",
+          "permanent": false,
+          "attempted_at": "2026-11-09T17:11:17.190087+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35316658",
         "display_name": "Wicker Park 720p CZ Dabing",
         "planned_at": "2026-11-09T16:59:48.551606+00:00"
-      },
-      "claim": {
-        "worker_id": "31f4b170c39447f9adaa1054c976849a-shard-0",
-        "claimed_at": "2026-11-09T16:59:48.871787+00:00",
-        "lease_expires_at": "2026-11-09T22:59:48.871787+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30949654",
       "prepared": {
@@ -154653,5 +154655,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T17:09:40.582377+00:00"
+  "updated_at": "2026-11-09T17:11:17.190116+00:00"
 }
