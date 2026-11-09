@@ -93384,17 +93384,19 @@
       }
     },
     "25703": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32872026",
+          "target_video_id": "30945670",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:50:10.734525+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32872026",
         "display_name": "Extremely Loud and Incredibly Close (Extremely Loud & Incredibly Close) 1080p CZ Dabing",
         "planned_at": "2026-11-09T12:31:21.343267+00:00"
-      },
-      "claim": {
-        "worker_id": "11211d2baa3a4cb081b426312a6fbbbb-shard-0",
-        "claimed_at": "2026-11-09T12:31:22.028062+00:00",
-        "lease_expires_at": "2026-11-09T18:31:22.028062+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30945670",
       "prepared": {
@@ -152463,5 +152465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:36:50.091451+00:00"
+  "updated_at": "2026-11-09T12:50:10.734540+00:00"
 }
