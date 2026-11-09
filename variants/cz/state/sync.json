@@ -81195,13 +81195,6 @@
           "source_id": "29912133",
           "target_video_id": "30902570",
           "permanent": false,
-          "attempted_at": "2026-11-09T19:19:12.066627+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29912133",
-          "target_video_id": "30902570",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:49:18.776115+00:00"
         },
         {
@@ -81210,6 +81203,13 @@
           "target_video_id": "30902570",
           "permanent": false,
           "attempted_at": "2026-11-09T21:04:27.881701+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29912133",
+          "target_video_id": "30902570",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:36:18.500453+00:00"
         }
       ],
       "last_plan": {
@@ -82173,7 +82173,7 @@
       "last_plan": {
         "source_id": "34668514",
         "display_name": "The Little Death 720p CZ Dabing",
-        "planned_at": "2026-11-09T21:04:28.513608+00:00"
+        "planned_at": "2026-11-09T21:36:17.079503+00:00"
       },
       "previous_target_id": "30908812",
       "prepared": {
@@ -82181,6 +82181,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-08T05:26:41.175531+00:00",
         "relay_source_id": "34668514"
+      },
+      "claim": {
+        "worker_id": "ac85659ad63847dea44927bb06ca10c1-shard-0",
+        "claimed_at": "2026-11-09T21:36:17.790369+00:00",
+        "lease_expires_at": "2026-11-10T03:36:17.790369+00:00",
+        "run_id": "42692268094"
       }
     },
     "23317": {
@@ -96261,7 +96267,7 @@
       "last_plan": {
         "source_id": "12167836",
         "display_name": "Selena 720p CZ Dabing",
-        "planned_at": "2026-11-09T21:36:14.761579+00:00"
+        "planned_at": "2026-11-09T21:36:17.358424+00:00"
       }
     },
     "35487": {
@@ -155836,5 +155842,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:36:15.076867+00:00"
+  "updated_at": "2026-11-09T21:36:18.500469+00:00"
 }
