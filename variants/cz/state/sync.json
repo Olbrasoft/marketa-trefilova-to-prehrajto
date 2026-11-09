@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-09T22:04:16.526528+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-09T22:35:58.940125+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-09T23:07:00.553533+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:37:08.547190+00:00"
         }
       ],
       "last_plan": {
@@ -14657,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-09T23:07:02.259117+00:00"
+        "planned_at": "2026-11-09T23:37:06.345710+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14665,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "c820aa8f0cfb41178a19d7c25c618f33-shard-0",
+        "claimed_at": "2026-11-09T23:37:07.079037+00:00",
+        "lease_expires_at": "2026-11-10T05:37:07.079037+00:00",
+        "run_id": "42692268094"
       }
     },
     "22177": {
@@ -97879,7 +97885,7 @@
       "last_plan": {
         "source_id": "22865129",
         "display_name": "My Brothers and I (Mes frères et moi) 720p CZ Dabing",
-        "planned_at": "2026-11-09T23:37:04.430896+00:00"
+        "planned_at": "2026-11-09T23:37:06.640513+00:00"
       }
     },
     "29747": {
@@ -157181,5 +157187,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:37:04.430912+00:00"
+  "updated_at": "2026-11-09T23:37:08.547204+00:00"
 }
