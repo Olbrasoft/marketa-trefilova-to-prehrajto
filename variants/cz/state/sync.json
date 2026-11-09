@@ -96065,7 +96065,20 @@
       }
     },
     "24903": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32797927",
+          "reason": "Request failed for https://sdilej.cz/32797927/stopar.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:15:11.276311+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32797927",
+        "display_name": "The Cooler 4K CZ Dabing",
+        "planned_at": "2026-11-09T21:14:24.640163+00:00"
+      }
     },
     "2645": {
       "attempts": []
@@ -155669,5 +155682,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:14:17.321492+00:00"
+  "updated_at": "2026-11-09T21:15:11.276333+00:00"
 }
