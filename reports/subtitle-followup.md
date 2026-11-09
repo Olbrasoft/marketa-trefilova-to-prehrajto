@@ -568,3 +568,4 @@ Attach subtitles only after target processing has finished.
 | Mosul (الموصل) (2019) [ID 29822] 1080p CZ Titulky | 30932956 | https://sdilej.cz/14762100/mosul.2019.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Perfect Neighbor 1080p CZ Titulky | 30932988 | https://sdilej.cz/32131764/the.perfect.neighbor-2025-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Megan Leavey 1080p CZ Titulky | 30933808 | https://sdilej.cz/8623300/megan-leavey-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Human Traffic 1080p CZ Titulky | 30934137 | https://sdilej.cz/11557913/human-traffic-cz-tit-1080p-dts7.1-hevc-h265.mkv | Extract Czech track from exact source after processing |
