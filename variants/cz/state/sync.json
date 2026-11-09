@@ -94167,17 +94167,19 @@
       "attempts": []
     },
     "22537": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33811488",
+          "target_video_id": "30947364",
+          "permanent": false,
+          "attempted_at": "2026-11-09T14:55:54.423877+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33811488",
         "display_name": "Time Bandits 1080p CZ Dabing",
         "planned_at": "2026-11-09T14:40:55.752407+00:00"
-      },
-      "claim": {
-        "worker_id": "4cbea749f4b84559bc55118cfda49c61-shard-0",
-        "claimed_at": "2026-11-09T14:40:56.203002+00:00",
-        "lease_expires_at": "2026-11-09T20:40:56.203002+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30947364",
       "prepared": {
@@ -153644,5 +153646,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T14:55:52.794440+00:00"
+  "updated_at": "2026-11-09T14:55:54.423895+00:00"
 }
