@@ -93569,17 +93569,19 @@
       }
     },
     "23597": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29912214",
+          "target_video_id": "30946221",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:09:05.759035+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29912214",
         "display_name": "Get Shorty SD CZ Dabing",
         "planned_at": "2026-11-09T13:06:41.987016+00:00"
-      },
-      "claim": {
-        "worker_id": "f4b685b6ced74ad8b4ba431705daca5d-shard-0",
-        "claimed_at": "2026-11-09T13:06:42.698904+00:00",
-        "lease_expires_at": "2026-11-09T19:06:42.698904+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30946221",
       "prepared": {
@@ -152608,5 +152610,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:09:03.789500+00:00"
+  "updated_at": "2026-11-09T13:09:05.759055+00:00"
 }
