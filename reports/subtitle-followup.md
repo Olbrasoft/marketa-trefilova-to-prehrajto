@@ -583,6 +583,6 @@ Attach subtitles only after target processing has finished.
 | The Hater (Sala samobójców. Hejter) (2020) 720p CZ Titulky | 30942739 | https://sdilej.cz/14065503/the.hater.2020.720p.bluray.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | La Piscine (The Swimming Pool) 1080p CZ Titulky | 30944955 | https://sdilej.cz/16564498/bazen-la-piscine-1969-1080p-cz-titl.mkv | Extract Czech track from exact source after processing |
 | Anthony Jeselnik: Fire in the Maternity Ward 1080p CZ Titulky | 30944077 | https://sdilej.cz/11645962/anthony-jeselnik-fire-in-the-maternity-ward-2019-titulky.cz-1080p.hd.mkv | Extract Czech track from exact source after processing |
-| Angst SD CZ Titulky | 30945338 | https://sdilej.cz/21120116/angst-1983-horor-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Angst SD CZ Titulky | 30945338 | https://sdilej.cz/21120116/angst-1983-horor-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Trial by Fire (2018) 1080p CZ Titulky | 30945036 | https://sdilej.cz/15709144/trial.by.fire.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | Extreme Job (극한직업) 1080p CZ Titulky | 30945079 | https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Extract Czech track from exact source after processing |
