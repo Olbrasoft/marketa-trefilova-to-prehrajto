@@ -31409,18 +31409,19 @@
           "reason": "Request failed for https://sdilej.cz/21120116/angst-1983-horor-cz-titulky.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-09T11:00:45.499386+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21120116",
+          "target_video_id": "30945338",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:13:53.477260+00:00"
         }
       ],
       "last_plan": {
         "source_id": "21120116",
         "display_name": "Angst SD CZ Titulky",
         "planned_at": "2026-11-09T12:08:40.991477+00:00"
-      },
-      "claim": {
-        "worker_id": "ee9e5218e30d4f888421dc55dc8e0dac-shard-0",
-        "claimed_at": "2026-11-09T12:08:41.110195+00:00",
-        "lease_expires_at": "2026-11-09T18:08:41.110195+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30945338",
       "prepared": {
@@ -94062,5 +94063,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:08:49.641029+00:00"
+  "updated_at": "2026-11-09T12:13:53.477276+00:00"
 }
