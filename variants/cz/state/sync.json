@@ -91814,7 +91814,15 @@
       }
     },
     "2622": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33685232",
+          "target_video_id": "30928348",
+          "permanent": false,
+          "attempted_at": "2026-11-09T02:58:06.479638+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33685232",
         "display_name": "Aladdin (2019) 4K CZ Dabing",
@@ -91823,15 +91831,9 @@
       "previous_target_id": "30928348",
       "prepared": {
         "target_video_id": "30928348",
-        "size_bytes": 52395849529,
+        "size_bytes": 52400000000,
         "prepared_at": "2026-11-09T00:10:21.871325+00:00",
         "relay_source_id": "33685232"
-      },
-      "claim": {
-        "worker_id": "1cb8e8867bb44f909ae618e8266625f1-shard-0",
-        "claimed_at": "2026-11-09T02:58:02.376534+00:00",
-        "lease_expires_at": "2026-11-09T08:58:02.376534+00:00",
-        "run_id": "42550909205"
       }
     },
     "2478": {
@@ -148840,5 +148842,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T02:58:02.376556+00:00"
+  "updated_at": "2026-11-09T02:58:06.479660+00:00"
 }
