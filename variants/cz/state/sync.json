@@ -97608,11 +97608,19 @@
       }
     },
     "2579": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "18533719",
+          "reason": "Request failed for https://sdilej.cz/18533719/pan-jones-mr.jones.2019.1080p.bluray.cz.dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:13:50.605917+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18533719",
         "display_name": "Mr Jones (Mr. Jones) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:13:00.219107+00:00"
+        "planned_at": "2026-11-09T23:13:03.884657+00:00"
       }
     },
     "10861": {
@@ -156953,5 +156961,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:13:01.745065+00:00"
+  "updated_at": "2026-11-09T23:13:50.605933+00:00"
 }
