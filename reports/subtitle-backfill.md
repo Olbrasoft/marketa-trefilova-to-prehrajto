@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T06:01:19.649792+00:00
+Poslední aktualizace (UTC): 2026-11-09T06:01:23.124649+00:00
 
 Zkontrolováno videí: 571. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -105,6 +105,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 54. Důvod
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-08T18:54:09.238815+00:00 |
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-08T18:13:52.702656+00:00 |
 | [The Apprentice 1080p CZ Titulky](https://prehraj.to/the-apprentice-1080p-cz-titulky-mkv/ffafae6561c4922d) (ID 30923866) | [Sdílej 30068885](https://sdilej.cz/30068885/the.apprentice-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-08T18:33:24.776543+00:00 |
+| [The Bird with the Crystal Plumage 1080p CZ Titulky](https://prehraj.to/the-bird-with-the-crystal-plumage-1080p-cz-titulky-mkv/54945acf27fcbf4d) (ID 30935313) | [Sdílej 32587629](https://sdilej.cz/32587629/the.bird.with.the.crystal.plumage.1970.1080p.bluray.ac3.x264-majo.mkv) | target_unavailable | 2026-11-09T06:01:23.124546+00:00 |
 | [The Burial 1080p CZ Titulky](https://prehraj.to/the-burial-1080p-cz-titulky-mp4/49fc60db0f6b95e7) (ID 30931933) | [Sdílej 27048382](https://sdilej.cz/27048382/pohreb.mp4) | target_unavailable | 2026-11-09T02:58:34.234227+00:00 |
 | [The Call (Kol) (2020) 1080p CZ Titulky](https://prehraj.to/the-call-kol-2020-1080p-cz-titulky-mkv/5d9a27736b3a45c2) (ID 30927286) | [Sdílej 14779637](https://sdilej.cz/14779637/the.call.2020.1080p.nf.web-dl.ddp5.1.x264.cz.tit.mkv) | target_unavailable | 2026-11-08T22:57:40.885025+00:00 |
 | [The Dead Zone 1080p CZ Titulky](https://prehraj.to/the-dead-zone-1080p-cz-titulky-mkv/9ff3d8bbf436db54) (ID 30922823) | [Sdílej 34936882](https://sdilej.cz/34936882/the.dead.zone.1983.remastered.1080p.bluray.multi.x264-majo.mkv) | target_unavailable | 2026-11-08T18:23:13.316040+00:00 |
