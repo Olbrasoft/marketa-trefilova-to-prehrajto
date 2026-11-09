@@ -97314,17 +97314,19 @@
       }
     },
     "22467": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12613955",
+          "target_video_id": "30955873",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:57:40.043350+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12613955",
         "display_name": "The First Great Train Robbery SD CZ Dabing",
         "planned_at": "2026-11-09T22:53:00.715443+00:00"
-      },
-      "claim": {
-        "worker_id": "3c92e53b76dc4dfdb0074792c7b9ac30-shard-0",
-        "claimed_at": "2026-11-09T22:53:01.094543+00:00",
-        "lease_expires_at": "2026-11-10T04:53:01.094543+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955873",
       "prepared": {
@@ -156751,5 +156753,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:56:16.228645+00:00"
+  "updated_at": "2026-11-09T22:57:40.043364+00:00"
 }
