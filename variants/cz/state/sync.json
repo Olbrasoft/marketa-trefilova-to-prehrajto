@@ -21654,13 +21654,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-09T08:01:41.563561+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-09T08:31:56.911531+00:00"
         },
         {
@@ -21669,6 +21662,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-09T09:19:41.050692+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-09T09:54:22.337413+00:00"
         }
       ],
       "last_plan": {
@@ -27405,7 +27405,7 @@
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
-        "planned_at": "2026-11-09T09:19:40.542780+00:00"
+        "planned_at": "2026-11-09T09:54:20.763876+00:00"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -27413,6 +27413,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
+      },
+      "claim": {
+        "worker_id": "e801263174754be88fe808f51143f631-shard-0",
+        "claimed_at": "2026-11-09T09:54:21.561620+00:00",
+        "lease_expires_at": "2026-11-09T15:54:21.561620+00:00",
+        "run_id": "42574443311"
       }
     },
     "12333": {
@@ -92826,7 +92832,7 @@
       "last_plan": {
         "source_id": "31277603",
         "display_name": "Thunderball 4K CZ Dabing",
-        "planned_at": "2026-11-09T09:54:18.169609+00:00"
+        "planned_at": "2026-11-09T09:54:21.039003+00:00"
       }
     },
     "2629": {
@@ -151204,5 +151210,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T09:54:18.422175+00:00"
+  "updated_at": "2026-11-09T09:54:22.337429+00:00"
 }
