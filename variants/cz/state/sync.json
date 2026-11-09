@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-09T12:34:32.811256+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-09T13:11:58.719605+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-09T13:44:56.342512+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-09T14:20:58.073471+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "737aea1cc7b841d7b36068fa1a4c1eaf-shard-0",
-        "claimed_at": "2026-11-09T14:20:52.324738+00:00",
-        "lease_expires_at": "2026-11-09T20:20:52.324738+00:00",
-        "run_id": "42608486502"
       }
     },
     "37290": {
@@ -8524,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-09T13:44:52.892399+00:00"
+        "planned_at": "2026-11-09T14:20:56.774481+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8532,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "036e831cc83d4d64885700118b158f87-shard-0",
+        "claimed_at": "2026-11-09T14:20:57.570598+00:00",
+        "lease_expires_at": "2026-11-09T20:20:57.570598+00:00",
+        "run_id": "42608486502"
       }
     },
     "29922": {
@@ -94031,7 +94031,7 @@
       "last_plan": {
         "source_id": "10595150",
         "display_name": "A Most Violent Year SD CZ Dabing",
-        "planned_at": "2026-11-09T14:20:51.875280+00:00"
+        "planned_at": "2026-11-09T14:20:57.118944+00:00"
       }
     },
     "23964": {
@@ -153219,5 +153219,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T14:20:53.238273+00:00"
+  "updated_at": "2026-11-09T14:20:58.073487+00:00"
 }
