@@ -37437,13 +37437,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-09T13:09:26.769576+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-09T13:43:03.737738+00:00"
         },
         {
@@ -37452,6 +37445,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-09T14:18:55.595031+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-09T14:54:54.307323+00:00"
         }
       ],
       "last_plan": {
@@ -41312,7 +41312,7 @@
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-09T14:18:54.758089+00:00"
+        "planned_at": "2026-11-09T14:54:52.932622+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -41320,6 +41320,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-03T03:58:27.242114+00:00",
         "relay_source_id": "34826023"
+      },
+      "claim": {
+        "worker_id": "a6443abb4c9047b09959e7f6ca8d26f9-shard-0",
+        "claimed_at": "2026-11-09T14:54:53.693716+00:00",
+        "lease_expires_at": "2026-11-09T20:54:53.693716+00:00",
+        "run_id": "42608486502"
       }
     },
     "34337": {
@@ -94192,7 +94198,7 @@
       "last_plan": {
         "source_id": "34672832",
         "display_name": "Birds, Orphans and Fools (Vtáčkovia, siroty a blázni) SD CZ Dabing",
-        "planned_at": "2026-11-09T14:54:50.907455+00:00"
+        "planned_at": "2026-11-09T14:54:53.225546+00:00"
       }
     },
     "14298": {
@@ -153644,5 +153650,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T14:54:50.907472+00:00"
+  "updated_at": "2026-11-09T14:54:54.307341+00:00"
 }
