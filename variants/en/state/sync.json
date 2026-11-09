@@ -30565,17 +30565,19 @@
       "attempts": []
     },
     "27248": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34756699",
+          "target_video_id": "30935260",
+          "permanent": false,
+          "attempted_at": "2026-11-09T06:11:44.147219+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34756699",
         "display_name": "Untold: Deal with the Devil 1080p CZ Titulky",
         "planned_at": "2026-11-09T05:57:47.590369+00:00"
-      },
-      "claim": {
-        "worker_id": "dd9eafbcfbe44916803936c6d38763e3-shard-0",
-        "claimed_at": "2026-11-09T05:57:47.868081+00:00",
-        "lease_expires_at": "2026-11-09T11:57:47.868081+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30935260",
       "prepared": {
@@ -91982,5 +91984,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T05:59:58.484275+00:00"
+  "updated_at": "2026-11-09T06:11:44.147235+00:00"
 }
