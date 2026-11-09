@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T11:06:15.475682+00:00
+Poslední aktualizace (UTC): 2026-11-09T11:06:19.599491+00:00
 
 Zkontrolováno videí: 582. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 481, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 30, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 481, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 31, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -82,6 +82,7 @@ Kontrol: 0; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 0. Důvod 
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-09T10:18:07.586303+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-09T10:17:55.265340+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-09T10:06:21.716323+00:00 |
+| [Live from Baghdad SD CZ Titulky](https://prehraj.to/live-from-baghdad-sd-cz-titulky-mkv/71fe565b10447aa8) (ID 30944091) | [Sdílej 33478714](https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv) | target_unavailable | 2026-11-09T11:06:19.599405+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-09T10:26:15.959879+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-09T10:17:48.290498+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-09T10:26:08.150524+00:00 |
