@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T08:04:46.732556+00:00
+Poslední aktualizace (UTC): 2026-11-09T08:04:50.629478+00:00
 
 Zkontrolováno videí: 575. Další stránka kontroly: 0.
 
@@ -79,7 +79,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 17. Důvo
 | [First Reformed 720p CZ Titulky](https://prehraj.to/first-reformed-720p-cz-titulky-mkv/8acf4de55a0160ac) (ID 30926271) | [Sdílej 16593855](https://sdilej.cz/16593855/first-reformed-zoufalstvi-a-nadeje-en-5.1-cz-en-tit.mkv) | target_unavailable | 2026-11-08T21:36:45.641105+00:00 |
 | [Gentlemen Prefer Blondes 4K CZ Titulky](https://prehraj.to/gentlemen-prefer-blondes-4k-cz-titulky-mkv/f62f47b358ca9334) (ID 30927823) | [Sdílej 33596774](https://sdilej.cz/33596774/pani-maji-radsi-blondynky-gentlemen-prefer-blondes-1953-2160p.upscale.mkv) | target_unavailable | 2026-11-08T23:38:09.116892+00:00 |
 | [Ginger and Fred (Ginger e Fred) 1080p CZ Titulky](https://prehraj.to/ginger-and-fred-ginger-e-fred-1080p-cz-titulky-mkv/cd0b89460ccdd4ef) (ID 30932010) | [Sdílej 33493464](https://sdilej.cz/33493464/ginger-a-fred-1986-it.cz-hevc-1080p.mkv) | target_unavailable | 2026-11-09T03:08:28.868220+00:00 |
-| [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-08T19:04:19.549333+00:00 |
+| [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-09T08:04:50.473363+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-09T07:55:23.901231+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-09T07:46:10.953746+00:00 |
 | [Human Traffic 1080p CZ Titulky](https://prehraj.to/human-traffic-1080p-cz-titulky-mkv/ab5dcd335e4d5165) (ID 30934137) | [Sdílej 11557913](https://sdilej.cz/11557913/human-traffic-cz-tit-1080p-dts7.1-hevc-h265.mkv) | target_unavailable | 2026-11-09T05:10:24.879271+00:00 |
