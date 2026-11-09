@@ -97498,17 +97498,19 @@
       }
     },
     "2509": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34650259",
+          "target_video_id": "30956209",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:12:52.887610+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34650259",
         "display_name": "Theater Camp 1080p CZ Dabing",
         "planned_at": "2026-11-09T23:06:46.027094+00:00"
-      },
-      "claim": {
-        "worker_id": "d79a73ea51e04d68afa11901bc514f1c-shard-0",
-        "claimed_at": "2026-11-09T23:06:46.773930+00:00",
-        "lease_expires_at": "2026-11-10T05:06:46.773930+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956209",
       "prepared": {
@@ -156940,5 +156942,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:12:29.707587+00:00"
+  "updated_at": "2026-11-09T23:12:52.887625+00:00"
 }
