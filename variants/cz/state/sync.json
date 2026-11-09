@@ -28957,7 +28957,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-09T22:36:59.141672+00:00"
+        "planned_at": "2026-11-09T23:07:52.642127+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28965,6 +28965,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "0814ccf0f32f43a28c4ef18ef0ba4afd-shard-0",
+        "claimed_at": "2026-11-09T23:07:53.422118+00:00",
+        "lease_expires_at": "2026-11-10T05:07:53.422118+00:00",
+        "run_id": "42692268094"
       }
     },
     "23584": {
@@ -97134,17 +97140,23 @@
           "attempted_at": "2026-11-09T22:36:57.381810+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "12192704",
-        "display_name": "The Wolf's Call (Le Chant du loup) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:07:49.984753+00:00"
-      },
       "previous_target_id": "30955445",
-      "prepared": {
+      "upload": {
         "target_video_id": "30955445",
-        "size_bytes": 2496387624,
-        "prepared_at": "2026-11-09T22:30:38.069966+00:00",
-        "relay_source_id": "12192704"
+        "display_name": "The Wolf's Call (Le Chant du loup) 1080p CZ Dabing",
+        "source_id": "12192704",
+        "source_url": "https://sdilej.cz/12192704/vlci-volani.mkv",
+        "source_filename": "Vlčí volání.mkv",
+        "size_bytes": 2500000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.968791663646698,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-wolf-s-call-le-chant-du-loup-1080p-cz-dabing-mkv/4d5197b219d6e7be",
+        "uploaded_at": "2026-11-09T23:07:53.713857+00:00"
       }
     },
     "22889": {
@@ -97511,7 +97523,7 @@
       "last_plan": {
         "source_id": "31418628",
         "display_name": "Chocolate (ช็อคโกแลต) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:07:50.309882+00:00"
+        "planned_at": "2026-11-09T23:07:52.961535+00:00"
       }
     },
     "34147": {
@@ -156864,5 +156876,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:07:50.611401+00:00"
+  "updated_at": "2026-11-09T23:07:53.713869+00:00"
 }
