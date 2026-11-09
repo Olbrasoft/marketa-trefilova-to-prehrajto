@@ -95701,17 +95701,19 @@
       "attempts": []
     },
     "37139": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34909811",
+          "target_video_id": "30953158",
+          "permanent": false,
+          "attempted_at": "2026-11-09T19:55:29.868333+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34909811",
         "display_name": "Trading Christmas 1080p CZ Dabing",
         "planned_at": "2026-11-09T19:49:20.954477+00:00"
-      },
-      "claim": {
-        "worker_id": "2adf4c6f4f454a6280a38f77a99e64b3-shard-0",
-        "claimed_at": "2026-11-09T19:49:21.267920+00:00",
-        "lease_expires_at": "2026-11-10T01:49:21.267920+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30953158",
       "prepared": {
@@ -95749,7 +95751,13 @@
       "last_plan": {
         "source_id": "33943217",
         "display_name": "Private Parts 1080p CZ Dabing",
-        "planned_at": "2026-11-09T19:55:23.103547+00:00"
+        "planned_at": "2026-11-09T19:55:26.450581+00:00"
+      },
+      "claim": {
+        "worker_id": "3f156d85994546169f01a90877bcbb9a-shard-0",
+        "claimed_at": "2026-11-09T19:55:26.787075+00:00",
+        "lease_expires_at": "2026-11-10T01:55:26.787075+00:00",
+        "run_id": "42644070199"
       }
     },
     "31661": {
@@ -155387,5 +155395,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T19:55:24.390197+00:00"
+  "updated_at": "2026-11-09T19:55:29.868350+00:00"
 }
