@@ -92575,11 +92575,19 @@
       }
     },
     "12078": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33811479",
+          "reason": "Request failed for https://sdilej.cz/33811479/hokus-pokus-1993-pohadka-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T08:22:47.168043+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33811479",
         "display_name": "Hocus Pocus 1080p CZ Dabing",
-        "planned_at": "2026-11-09T08:21:56.708463+00:00"
+        "planned_at": "2026-11-09T08:22:00.291692+00:00"
       }
     },
     "2648": {
@@ -150480,5 +150488,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:21:58.281794+00:00"
+  "updated_at": "2026-11-09T08:22:47.168060+00:00"
 }
