@@ -96954,17 +96954,19 @@
       "attempts": []
     },
     "24821": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31803819",
+          "target_video_id": "30955369",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:29:33.108940+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31803819",
         "display_name": "The United States of Leland 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:24:11.472905+00:00"
-      },
-      "claim": {
-        "worker_id": "10fe7ac3ed0d4380931f994bba004d4d-shard-0",
-        "claimed_at": "2026-11-09T22:24:11.859032+00:00",
-        "lease_expires_at": "2026-11-10T04:24:11.859032+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955369",
       "prepared": {
@@ -156420,5 +156422,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:24:16.175506+00:00"
+  "updated_at": "2026-11-09T22:29:33.108956+00:00"
 }
