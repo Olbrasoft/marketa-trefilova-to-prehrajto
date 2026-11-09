@@ -8575,13 +8575,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-09T18:44:36.027132+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:15:17.152927+00:00"
         },
         {
@@ -8590,6 +8583,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-09T19:45:40.312562+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:01:35.605983+00:00"
         }
       ],
       "last_plan": {
@@ -80045,7 +80045,7 @@
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Waitress 1080p CZ Dabing",
-        "planned_at": "2026-11-09T19:45:41.805761+00:00"
+        "planned_at": "2026-11-09T21:01:34.384838+00:00"
       },
       "previous_target_id": "30899097",
       "prepared": {
@@ -80053,6 +80053,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-07T21:32:39.846982+00:00",
         "relay_source_id": "28771706"
+      },
+      "claim": {
+        "worker_id": "92193c3ea63046798a174c4e36719ab3-shard-0",
+        "claimed_at": "2026-11-09T21:01:35.075700+00:00",
+        "lease_expires_at": "2026-11-10T03:01:35.075700+00:00",
+        "run_id": "42692268094"
       }
     },
     "2305": {
@@ -95891,7 +95897,7 @@
       "last_plan": {
         "source_id": "34880197",
         "display_name": "The Rookie (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:01:32.119096+00:00"
+        "planned_at": "2026-11-09T21:01:34.665404+00:00"
       }
     },
     "2587": {
@@ -155519,5 +155525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:01:32.346258+00:00"
+  "updated_at": "2026-11-09T21:01:35.606011+00:00"
 }
