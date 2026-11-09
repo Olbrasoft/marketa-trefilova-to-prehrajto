@@ -577,3 +577,4 @@ Attach subtitles only after target processing has finished.
 | First Cow 1080p CZ Titulky | 30941919 | https://sdilej.cz/25203082/prvni-krava.mkv | Extract Czech track from exact source after processing |
 | Red Rooms (Les Chambres rouges) SD CZ Titulky | 30937795 | https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Into the White 1080p CZ Titulky | 30941298 | https://sdilej.cz/26337848/kriz-cti-into-the-white-2012-1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| He Loves Me... He Loves Me Not 1080p CZ Titulky | 30942366 | https://sdilej.cz/33956357/ma-me-rad-nema-me-ad-2002-czdab-m.mkv | Extract Czech track from exact source after processing |
