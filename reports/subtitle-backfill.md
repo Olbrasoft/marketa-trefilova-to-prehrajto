@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T07:35:24.395104+00:00
+Poslední aktualizace (UTC): 2026-11-09T07:37:51.205164+00:00
 
 Zkontrolováno videí: 574. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 3, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 51, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 454, `attached_verified`: 16, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 51, `upload_unconfirmed`: 7
 
 ## Poslední dávka
 
@@ -122,7 +122,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 58. Důvod
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-08T19:04:06.352767+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-08T18:54:40.449866+00:00 |
 | [Warfare 1440p CZ Titulky](https://prehraj.to/warfare-1440p-cz-titulky-mkv/09af6d5637d394a3) (ID 30920638) | [Sdílej 31269211](https://sdilej.cz/31269211/warfare-2025-4k.mkv) | target_unavailable | 2026-11-08T18:43:44.409241+00:00 |
-| [Wrath of Man 1080p CZ Titulky](https://prehraj.to/wrath-of-man-1080p-cz-titulky-mp4/5772790d8d34c20c) (ID 30911851) | [Sdílej 27854646](https://sdilej.cz/27854646/rozhnevany-muz.mp4) | source_unavailable | 2026-11-08T18:13:28.700804+00:00 |
+| [Wrath of Man 1080p CZ Titulky](https://prehraj.to/wrath-of-man-1080p-cz-titulky-mp4/5772790d8d34c20c) (ID 30911851) | [Sdílej 27854646](https://sdilej.cz/27854646/rozhnevany-muz.mp4) | upload_unconfirmed | 2026-11-09T07:37:51.205128+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-08T18:52:24.337905+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
