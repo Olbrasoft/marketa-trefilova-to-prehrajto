@@ -30521,17 +30521,19 @@
       }
     },
     "1880": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26433562",
+          "target_video_id": "30934176",
+          "permanent": false,
+          "attempted_at": "2026-11-09T05:50:03.676847+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26433562",
         "display_name": "A Good Person 1080p CZ Titulky",
         "planned_at": "2026-11-09T05:02:51.617859+00:00"
-      },
-      "claim": {
-        "worker_id": "a993db39cb6541089b16245e8d5e91e4-shard-0",
-        "claimed_at": "2026-11-09T05:02:51.716218+00:00",
-        "lease_expires_at": "2026-11-09T11:02:51.716218+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30934176",
       "prepared": {
@@ -91683,5 +91685,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T05:02:55.985348+00:00"
+  "updated_at": "2026-11-09T05:50:03.676866+00:00"
 }
