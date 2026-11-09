@@ -95782,17 +95782,19 @@
       }
     },
     "31661": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31581889",
+          "target_video_id": "30953244",
+          "permanent": false,
+          "attempted_at": "2026-11-09T20:11:55.176110+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31581889",
         "display_name": "Love Story 4K CZ Dabing",
         "planned_at": "2026-11-09T19:55:33.161835+00:00"
-      },
-      "claim": {
-        "worker_id": "ee722cf32e224ddd80adf295195337c3-shard-0",
-        "claimed_at": "2026-11-09T19:55:33.486471+00:00",
-        "lease_expires_at": "2026-11-10T01:55:33.486471+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30953244",
       "prepared": {
@@ -155474,5 +155476,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T20:08:41.125005+00:00"
+  "updated_at": "2026-11-09T20:11:55.176128+00:00"
 }
