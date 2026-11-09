@@ -94704,17 +94704,19 @@
       }
     },
     "29968": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33677144",
+          "target_video_id": "30949459",
+          "permanent": false,
+          "attempted_at": "2026-11-09T16:56:26.080406+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33677144",
         "display_name": "Fletch 1080p CZ Dabing",
         "planned_at": "2026-11-09T16:51:34.341937+00:00"
-      },
-      "claim": {
-        "worker_id": "fd7221c351544d8f818ee703b1f84a6c-shard-0",
-        "claimed_at": "2026-11-09T16:51:34.646899+00:00",
-        "lease_expires_at": "2026-11-09T22:51:34.646899+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30949459",
       "prepared": {
@@ -154527,5 +154529,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T16:51:41.673254+00:00"
+  "updated_at": "2026-11-09T16:56:26.080434+00:00"
 }
