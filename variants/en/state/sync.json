@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-09T08:30:17.105190+00:00"
+        "planned_at": "2026-11-09T09:17:54.744477+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "6cccba4143d545c8aea052fc2f7b1568-shard-0",
+        "claimed_at": "2026-11-09T09:17:55.028758+00:00",
+        "lease_expires_at": "2026-11-09T15:17:55.028758+00:00",
+        "run_id": "42574443311"
       }
     },
     "21312": {
@@ -11471,13 +11477,6 @@
           "source_id": "26167173",
           "target_video_id": "30682158",
           "permanent": false,
-          "attempted_at": "2026-11-09T07:28:28.705024+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26167173",
-          "target_video_id": "30682158",
-          "permanent": false,
           "attempted_at": "2026-11-09T07:59:50.077581+00:00"
         },
         {
@@ -11486,6 +11485,13 @@
           "target_video_id": "30682158",
           "permanent": false,
           "attempted_at": "2026-11-09T08:30:37.802548+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26167173",
+          "target_video_id": "30682158",
+          "permanent": false,
+          "attempted_at": "2026-11-09T09:17:55.205142+00:00"
         }
       ],
       "last_plan": {
@@ -31085,7 +31091,7 @@
       "last_plan": {
         "source_id": "33478714",
         "display_name": "Live from Baghdad SD CZ Titulky",
-        "planned_at": "2026-11-09T09:17:50.717617+00:00"
+        "planned_at": "2026-11-09T09:17:54.933180+00:00"
       }
     },
     "34600": {
@@ -93055,5 +93061,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T09:17:50.717632+00:00"
+  "updated_at": "2026-11-09T09:17:55.205158+00:00"
 }
