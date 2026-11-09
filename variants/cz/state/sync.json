@@ -97463,17 +97463,19 @@
       "attempts": []
     },
     "12858": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34219947",
+          "target_video_id": "30956055",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:07:12.339318+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34219947",
         "display_name": "Saving Grace 1080p CZ Dabing",
         "planned_at": "2026-11-09T23:00:37.202939+00:00"
-      },
-      "claim": {
-        "worker_id": "fb9852a852554e51a9e4dd5cbedbb33a-shard-0",
-        "claimed_at": "2026-11-09T23:00:37.607260+00:00",
-        "lease_expires_at": "2026-11-10T05:00:37.607260+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956055",
       "prepared": {
@@ -156862,5 +156864,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:07:09.737360+00:00"
+  "updated_at": "2026-11-09T23:07:12.339345+00:00"
 }
