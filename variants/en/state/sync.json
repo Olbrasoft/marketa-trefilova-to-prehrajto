@@ -30986,11 +30986,19 @@
       "attempts": []
     },
     "21755": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33230731",
+          "reason": "Request failed for https://sdilej.cz/33230731/the-beatles-help-1965-fhd-en-cz-tit.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T08:50:31.399569+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33230731",
         "display_name": "Help! 1080p CZ Titulky",
-        "planned_at": "2026-11-09T08:48:28.463631+00:00"
+        "planned_at": "2026-11-09T08:48:32.213124+00:00"
       }
     },
     "11043": {
@@ -93002,5 +93010,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:48:28.463643+00:00"
+  "updated_at": "2026-11-09T08:50:31.399588+00:00"
 }
