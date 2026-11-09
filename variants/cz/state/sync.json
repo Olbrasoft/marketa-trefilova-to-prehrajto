@@ -93326,17 +93326,19 @@
       "attempts": []
     },
     "2709": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28533105",
+          "target_video_id": "30945342",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:27:16.955374+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28533105",
         "display_name": "The Thomas Crown Affair (1999) 1080p CZ Dabing",
         "planned_at": "2026-11-09T12:08:54.127381+00:00"
-      },
-      "claim": {
-        "worker_id": "925124949eae4c27926e0a758156dfa7-shard-0",
-        "claimed_at": "2026-11-09T12:08:54.517073+00:00",
-        "lease_expires_at": "2026-11-09T18:08:54.517073+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30945342",
       "prepared": {
@@ -152158,5 +152160,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:14:03.981190+00:00"
+  "updated_at": "2026-11-09T12:27:16.955390+00:00"
 }
