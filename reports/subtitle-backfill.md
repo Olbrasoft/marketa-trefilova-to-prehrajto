@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:50:57.739144+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:51:01.541664+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 490, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 33, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 491, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 32, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -65,7 +65,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 11. Důvod
 | Film | Původní zdroj | Důvod | Poslední ověření (UTC) |
 | --- | --- | --- | --- |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-09T21:19:50.188476+00:00 |
-| [25 Years of Innocence 1080p CZ Titulky](https://prehraj.to/25-years-of-innocence-1080p-cz-titulky-mkv/da8465698a567da8) (ID 30947248) | [Sdílej 35310284](https://sdilej.cz/35310284/25.let.neviny.dabcz.mkv) | target_unavailable | 2026-11-09T14:29:18.009348+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-09T21:19:59.253927+00:00 |
 | [7 Prisoners (7 Prisioneiros) 1080p CZ Titulky](https://prehraj.to/7-prisoners-7-prisioneiros-1080p-cz-titulky-mkv/87f9b872433ef505) (ID 30952099) | [Sdílej 18789951](https://sdilej.cz/18789951/7.prisoners.2021.cz.sub.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.hevc-tepes.mkv) | target_unavailable | 2026-11-09T18:59:01.327153+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-09T21:19:25.576100+00:00 |
