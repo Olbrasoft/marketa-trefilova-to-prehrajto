@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-09T19:14:43.676202+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:45:08.011051+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-09T21:01:07.036853+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:32:55.804408+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "adf98c7a19864a9a9fdfa13269944a1a-shard-0",
-        "claimed_at": "2026-11-09T21:32:52.447090+00:00",
-        "lease_expires_at": "2026-11-10T03:32:52.447090+00:00",
-        "run_id": "42692268094"
       }
     },
     "54": {
@@ -14024,7 +14018,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:01:05.505029+00:00"
+        "planned_at": "2026-11-09T21:32:54.784961+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -14032,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "500e5c046f164021bf91111afa07d9c1-shard-0",
+        "claimed_at": "2026-11-09T21:32:55.558068+00:00",
+        "lease_expires_at": "2026-11-10T03:32:55.558068+00:00",
+        "run_id": "42692268094"
       }
     },
     "22047": {
@@ -96244,7 +96244,7 @@
       "last_plan": {
         "source_id": "18658290",
         "display_name": "Alan Partridge: Alpha Papa 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:32:51.961881+00:00"
+        "planned_at": "2026-11-09T21:32:55.090169+00:00"
       }
     },
     "12401": {
@@ -155822,5 +155822,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:32:52.986245+00:00"
+  "updated_at": "2026-11-09T21:32:55.804424+00:00"
 }
