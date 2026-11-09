@@ -82153,13 +82153,6 @@
           "source_id": "34668514",
           "target_video_id": "30908812",
           "permanent": false,
-          "attempted_at": "2026-11-09T15:30:12.441912+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34668514",
-          "target_video_id": "30908812",
-          "permanent": false,
           "attempted_at": "2026-11-09T16:12:41.305947+00:00"
         },
         {
@@ -82168,6 +82161,13 @@
           "target_video_id": "30908812",
           "permanent": false,
           "attempted_at": "2026-11-09T16:49:03.614225+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668514",
+          "target_video_id": "30908812",
+          "permanent": false,
+          "attempted_at": "2026-11-09T17:29:53.751185+00:00"
         }
       ],
       "last_plan": {
@@ -82181,12 +82181,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-08T05:26:41.175531+00:00",
         "relay_source_id": "34668514"
-      },
-      "claim": {
-        "worker_id": "9d748c0a51214e2fb82c0cbb940a5bb8-shard-0",
-        "claimed_at": "2026-11-09T17:29:51.072088+00:00",
-        "lease_expires_at": "2026-11-09T23:29:51.072088+00:00",
-        "run_id": "42644070199"
       }
     },
     "23317": {
@@ -83556,7 +83550,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-09T16:49:05.160549+00:00"
+        "planned_at": "2026-11-09T17:29:53.015148+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -83564,6 +83558,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "22be4ace3c714de499c797d0053d3f00-shard-0",
+        "claimed_at": "2026-11-09T17:29:53.581496+00:00",
+        "lease_expires_at": "2026-11-09T23:29:53.581496+00:00",
+        "run_id": "42644070199"
       }
     },
     "1954": {
@@ -95004,7 +95004,7 @@
       "last_plan": {
         "source_id": "10438595",
         "display_name": "Hector and the Search for Happiness 1080p CZ Dabing",
-        "planned_at": "2026-11-09T17:29:50.768562+00:00"
+        "planned_at": "2026-11-09T17:29:53.249218+00:00"
       }
     },
     "26108": {
@@ -154747,5 +154747,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T17:29:51.247924+00:00"
+  "updated_at": "2026-11-09T17:29:53.751205+00:00"
 }
