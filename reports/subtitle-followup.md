@@ -558,7 +558,7 @@ Attach subtitles only after target processing has finished.
 | Leave No Trace 1080p CZ Titulky | 30924237 | https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv | Complete: Czech subtitles verified |
 | The Upside 1080p CZ Titulky | 30924343 | https://sdilej.cz/11701537/the.upside.2017.1080p.bluray.h264.aac.cz-titulky.mkv | Complete: Czech subtitles verified |
 | First Reformed 720p CZ Titulky | 30926271 | https://sdilej.cz/16593855/first-reformed-zoufalstvi-a-nadeje-en-5.1-cz-en-tit.mkv | Complete: Czech subtitles verified |
-| The Call (Kol) (2020) 1080p CZ Titulky | 30927286 | https://sdilej.cz/14779637/the.call.2020.1080p.nf.web-dl.ddp5.1.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
+| The Call (Kol) (2020) 1080p CZ Titulky | 30927286 | https://sdilej.cz/14779637/the.call.2020.1080p.nf.web-dl.ddp5.1.x264.cz.tit.mkv | Complete: Czech subtitles verified |
 | One Deadly Summer 720p CZ Titulky | 30927761 | https://sdilej.cz/30088993/vrazedne-leto-l-ete-meurtrier-1983-frczensub.mkv | Complete: Czech subtitles verified |
 | Gentlemen Prefer Blondes 4K CZ Titulky | 30927823 | https://sdilej.cz/33596774/pani-maji-radsi-blondynky-gentlemen-prefer-blondes-1953-2160p.upscale.mkv | Extract Czech track from exact source after processing |
 | Bad Education (2019) 1080p CZ Titulky | 30928018 | https://sdilej.cz/13389327/bad.education.2019.1080p.web.h264-secrecy.cz.tit.mkv | Extract Czech track from exact source after processing |
