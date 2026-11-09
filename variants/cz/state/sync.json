@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-09T15:30:38.987932+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-09T16:12:57.609847+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-09T16:49:19.504637+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-09T17:30:08.690576+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "76e82e39d9f64218b1a2afc98b132565-shard-0",
-        "claimed_at": "2026-11-09T17:30:03.612860+00:00",
-        "lease_expires_at": "2026-11-09T23:30:03.612860+00:00",
-        "run_id": "42644070199"
       }
     },
     "37290": {
@@ -8524,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-09T16:49:22.779641+00:00"
+        "planned_at": "2026-11-09T17:30:05.984268+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8532,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "279b920a91454a2d959e4a7ad4bd630f-shard-0",
+        "claimed_at": "2026-11-09T17:30:06.597912+00:00",
+        "lease_expires_at": "2026-11-09T23:30:06.597912+00:00",
+        "run_id": "42644070199"
       }
     },
     "29922": {
@@ -95004,7 +95004,7 @@
       "last_plan": {
         "source_id": "10438595",
         "display_name": "Hector and the Search for Happiness 1080p CZ Dabing",
-        "planned_at": "2026-11-09T17:30:03.243681+00:00"
+        "planned_at": "2026-11-09T17:30:06.218326+00:00"
       }
     },
     "26108": {
@@ -154747,5 +154747,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T17:30:04.264933+00:00"
+  "updated_at": "2026-11-09T17:30:08.690602+00:00"
 }
