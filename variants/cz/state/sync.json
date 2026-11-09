@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-09T10:54:30.255175+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-09T11:48:44.995905+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-09T12:29:58.517954+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:07:25.648483+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "0c7b7f5f99e44c1a87f1e0d36d4d1eb1-shard-0",
-        "claimed_at": "2026-11-09T13:07:21.051280+00:00",
-        "lease_expires_at": "2026-11-09T19:07:21.051280+00:00",
-        "run_id": "42608486502"
       }
     },
     "10755": {
@@ -18966,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-09T12:29:57.972934+00:00"
+        "planned_at": "2026-11-09T13:07:24.712046+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18974,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "6aa14acb8b9c43c095c1c22234294f61-shard-0",
+        "claimed_at": "2026-11-09T13:07:25.387768+00:00",
+        "lease_expires_at": "2026-11-09T19:07:25.387768+00:00",
+        "run_id": "42608486502"
       }
     },
     "29695": {
@@ -93597,7 +93597,7 @@
       "last_plan": {
         "source_id": "34379157",
         "display_name": "48 Hrs. 4K CZ Dabing",
-        "planned_at": "2026-11-09T13:07:20.671030+00:00"
+        "planned_at": "2026-11-09T13:07:25.014472+00:00"
       }
     },
     "25591": {
@@ -152608,5 +152608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:07:23.038403+00:00"
+  "updated_at": "2026-11-09T13:07:25.648501+00:00"
 }
