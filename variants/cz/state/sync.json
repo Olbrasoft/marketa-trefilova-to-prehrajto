@@ -42802,13 +42802,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-09T08:02:26.324402+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-09T08:32:34.025161+00:00"
         },
         {
@@ -42817,6 +42810,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-09T09:20:18.615530+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-09T09:55:01.577850+00:00"
         }
       ],
       "last_plan": {
@@ -42830,12 +42830,6 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
-      },
-      "claim": {
-        "worker_id": "d7b9ad0bb17d41a4a9838e53fdcf448b-shard-0",
-        "claimed_at": "2026-11-09T09:54:58.600746+00:00",
-        "lease_expires_at": "2026-11-09T15:54:58.600746+00:00",
-        "run_id": "42574443311"
       }
     },
     "1395": {
@@ -57076,7 +57070,7 @@
       "last_plan": {
         "source_id": "33383467",
         "display_name": "Vanishing Point 1080p CZ Dabing",
-        "planned_at": "2026-11-09T09:20:17.910275+00:00"
+        "planned_at": "2026-11-09T09:55:00.608754+00:00"
       },
       "previous_target_id": "30785708",
       "prepared": {
@@ -57084,6 +57078,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-04T12:47:15.136003+00:00",
         "relay_source_id": "33383467"
+      },
+      "claim": {
+        "worker_id": "8833e94f07834eee9c5e986313b9da44-shard-0",
+        "claimed_at": "2026-11-09T09:55:01.747135+00:00",
+        "lease_expires_at": "2026-11-09T15:55:01.747135+00:00",
+        "run_id": "42574443311"
       }
     },
     "31733": {
@@ -92832,7 +92832,7 @@
       "last_plan": {
         "source_id": "31277603",
         "display_name": "Thunderball 4K CZ Dabing",
-        "planned_at": "2026-11-09T09:54:57.902496+00:00"
+        "planned_at": "2026-11-09T09:55:00.906679+00:00"
       }
     },
     "2629": {
@@ -151210,5 +151210,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T09:54:58.600765+00:00"
+  "updated_at": "2026-11-09T09:55:01.747158+00:00"
 }
