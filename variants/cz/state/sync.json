@@ -91785,17 +91785,19 @@
       }
     },
     "2478": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32999353",
+          "target_video_id": "30928353",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:21:15.885674+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32999353",
         "display_name": "The World's End 4K CZ Dabing",
         "planned_at": "2026-11-09T00:10:36.478348+00:00"
-      },
-      "claim": {
-        "worker_id": "1eabb1a9a2e14beb943bc8de1b2ea8f0-shard-0",
-        "claimed_at": "2026-11-09T00:10:36.780741+00:00",
-        "lease_expires_at": "2026-11-09T06:10:36.780741+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30928353",
       "prepared": {
@@ -147826,5 +147828,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:21:12.603805+00:00"
+  "updated_at": "2026-11-09T00:21:15.885693+00:00"
 }
