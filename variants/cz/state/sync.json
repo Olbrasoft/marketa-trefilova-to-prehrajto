@@ -92438,17 +92438,19 @@
       }
     },
     "2531": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31764837",
+          "target_video_id": "30937827",
+          "permanent": false,
+          "attempted_at": "2026-11-09T07:48:43.307305+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31764837",
         "display_name": "Wonka 4K CZ Dabing",
         "planned_at": "2026-11-09T07:32:26.859711+00:00"
-      },
-      "claim": {
-        "worker_id": "67509796333a47ad9e3d13163abb2d9d-shard-0",
-        "claimed_at": "2026-11-09T07:32:27.212893+00:00",
-        "lease_expires_at": "2026-11-09T13:32:27.212893+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30937827",
       "prepared": {
@@ -150397,5 +150399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T07:47:30.046262+00:00"
+  "updated_at": "2026-11-09T07:48:43.307320+00:00"
 }
