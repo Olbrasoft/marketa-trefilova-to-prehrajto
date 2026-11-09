@@ -92775,17 +92775,19 @@
       }
     },
     "2491": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27669370",
+          "target_video_id": "30941674",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:12:17.390700+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27669370",
         "display_name": "The Naked Gun 2½: The Smell of Fear 4K CZ Dabing",
         "planned_at": "2026-11-09T08:33:09.121736+00:00"
-      },
-      "claim": {
-        "worker_id": "011b067a9e15494f977494964776e292-shard-0",
-        "claimed_at": "2026-11-09T08:33:09.460431+00:00",
-        "lease_expires_at": "2026-11-09T14:33:09.460431+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30941674",
       "prepared": {
@@ -151235,5 +151237,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T09:59:55.650764+00:00"
+  "updated_at": "2026-11-09T10:12:17.390716+00:00"
 }
