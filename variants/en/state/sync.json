@@ -31719,17 +31719,19 @@
       "attempts": []
     },
     "26490": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35310284",
+          "target_video_id": "30947248",
+          "permanent": false,
+          "attempted_at": "2026-11-09T14:40:41.286042+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35310284",
         "display_name": "25 Years of Innocence 1080p CZ Titulky",
         "planned_at": "2026-11-09T14:28:20.999858+00:00"
-      },
-      "claim": {
-        "worker_id": "d2620bdc95cf4158a76bd2a30ff3e0e2-shard-0",
-        "claimed_at": "2026-11-09T14:28:21.102832+00:00",
-        "lease_expires_at": "2026-11-09T20:28:21.102832+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30947248",
       "prepared": {
@@ -94933,5 +94935,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T14:28:50.535203+00:00"
+  "updated_at": "2026-11-09T14:40:41.286058+00:00"
 }
