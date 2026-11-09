@@ -42802,13 +42802,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-09T14:54:22.246049+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-09T15:27:20.923576+00:00"
         },
         {
@@ -42817,6 +42810,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-09T16:09:59.406995+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-09T16:46:44.019020+00:00"
         }
       ],
       "last_plan": {
@@ -53781,7 +53781,7 @@
       "last_plan": {
         "source_id": "33925810",
         "display_name": "The Doors 4K CZ Dabing",
-        "planned_at": "2026-11-09T16:10:00.981800+00:00"
+        "planned_at": "2026-11-09T16:46:41.917501+00:00"
       },
       "previous_target_id": "30780604",
       "prepared": {
@@ -53789,6 +53789,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-04T06:13:57.574294+00:00",
         "relay_source_id": "33925810"
+      },
+      "claim": {
+        "worker_id": "fbebea353ef043fe9f76b07d515e9c1b-shard-0",
+        "claimed_at": "2026-11-09T16:46:42.444268+00:00",
+        "lease_expires_at": "2026-11-09T22:46:42.444268+00:00",
+        "run_id": "42644070199"
       }
     },
     "1790": {
@@ -94666,7 +94672,7 @@
       "last_plan": {
         "source_id": "33767179",
         "display_name": "An American Tail 1080p CZ Dabing",
-        "planned_at": "2026-11-09T16:46:39.868819+00:00"
+        "planned_at": "2026-11-09T16:46:42.141364+00:00"
       }
     },
     "29968": {
@@ -154457,5 +154463,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T16:46:40.180754+00:00"
+  "updated_at": "2026-11-09T16:46:44.019040+00:00"
 }
