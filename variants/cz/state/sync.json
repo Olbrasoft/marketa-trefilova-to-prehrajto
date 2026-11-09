@@ -92521,17 +92521,19 @@
       "previous_target_id": "30938431"
     },
     "2571": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22751555",
+          "target_video_id": "30940258",
+          "permanent": false,
+          "attempted_at": "2026-11-09T09:16:18.121502+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22751555",
         "display_name": "Turning Red 4K CZ Dabing",
         "planned_at": "2026-11-09T08:06:29.918167+00:00"
-      },
-      "claim": {
-        "worker_id": "bf678152ad8e40a0900bd8bd068e05a6-shard-0",
-        "claimed_at": "2026-11-09T08:06:30.340456+00:00",
-        "lease_expires_at": "2026-11-09T14:06:30.340456+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30940258",
       "prepared": {
@@ -150871,5 +150873,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:50:40.431364+00:00"
+  "updated_at": "2026-11-09T09:16:18.121517+00:00"
 }
