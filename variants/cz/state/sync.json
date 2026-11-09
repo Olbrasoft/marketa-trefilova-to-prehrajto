@@ -92990,17 +92990,19 @@
       }
     },
     "17975": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35048055",
+          "target_video_id": "30943554",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:31:20.750788+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35048055",
         "display_name": "Frankenweenie SD CZ Dabing",
         "planned_at": "2026-11-09T10:29:42.183853+00:00"
-      },
-      "claim": {
-        "worker_id": "01af9e29b95c41c0a787e584a4b86f4f-shard-0",
-        "claimed_at": "2026-11-09T10:29:42.533578+00:00",
-        "lease_expires_at": "2026-11-09T16:29:42.533578+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30943554",
       "prepared": {
@@ -93018,7 +93020,13 @@
       "last_plan": {
         "source_id": "14262494",
         "display_name": "Water for Elephants 1080p CZ Dabing",
-        "planned_at": "2026-11-09T10:29:50.797166+00:00"
+        "planned_at": "2026-11-09T10:30:52.935482+00:00"
+      },
+      "claim": {
+        "worker_id": "37c7f4107edd4f26962e03e3f09ffbd9-shard-0",
+        "claimed_at": "2026-11-09T10:30:53.533212+00:00",
+        "lease_expires_at": "2026-11-09T16:30:53.533212+00:00",
+        "run_id": "42574443311"
       }
     },
     "17714": {
@@ -151618,5 +151626,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:30:48.521312+00:00"
+  "updated_at": "2026-11-09T10:31:20.750803+00:00"
 }
