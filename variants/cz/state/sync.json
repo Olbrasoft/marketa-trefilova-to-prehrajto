@@ -96127,17 +96127,19 @@
       }
     },
     "25359": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34782013",
+          "target_video_id": "30954331",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:22:47.862678+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34782013",
         "display_name": "Hell on Wheels SD CZ Dabing",
         "planned_at": "2026-11-09T21:20:01.940707+00:00"
-      },
-      "claim": {
-        "worker_id": "a701fd592145450abffdfc7b433b8c99-shard-0",
-        "claimed_at": "2026-11-09T21:20:02.338439+00:00",
-        "lease_expires_at": "2026-11-10T03:20:02.338439+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954331",
       "prepared": {
@@ -155740,5 +155742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:20:10.788129+00:00"
+  "updated_at": "2026-11-09T21:22:47.862694+00:00"
 }
