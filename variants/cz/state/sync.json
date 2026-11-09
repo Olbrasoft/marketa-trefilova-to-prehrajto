@@ -91895,17 +91895,19 @@
       }
     },
     "2748": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34355483",
+          "target_video_id": "30928595",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:40:31.709802+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34355483",
         "display_name": "Ice Age: Dawn of the Dinosaurs 4K CZ Dabing",
         "planned_at": "2026-11-09T00:23:38.938861+00:00"
-      },
-      "claim": {
-        "worker_id": "5e8e2f6564df48a587e68be4bd667d1a-shard-0",
-        "claimed_at": "2026-11-09T00:23:39.258231+00:00",
-        "lease_expires_at": "2026-11-09T06:23:39.258231+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30928595",
       "prepared": {
@@ -147937,5 +147939,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:37:32.410107+00:00"
+  "updated_at": "2026-11-09T00:40:31.709817+00:00"
 }
