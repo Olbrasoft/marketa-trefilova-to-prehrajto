@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:20:23.772017+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:20:27.619023+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 485, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 38, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 486, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 37, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -86,7 +86,6 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 30. Důvo
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-09T21:11:16.727473+00:00 |
 | [La Piscine (The Swimming Pool) 1080p CZ Titulky](https://prehraj.to/la-piscine-the-swimming-pool-1080p-cz-titulky-mkv/38c48883f8c4d945) (ID 30944955) | [Sdílej 16564498](https://sdilej.cz/16564498/bazen-la-piscine-1969-1080p-cz-titl.mkv) | target_unavailable | 2026-11-09T11:47:09.167743+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-09T11:37:20.244614+00:00 |
-| [Live from Baghdad SD CZ Titulky](https://prehraj.to/live-from-baghdad-sd-cz-titulky-mkv/71fe565b10447aa8) (ID 30944091) | [Sdílej 33478714](https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv) | target_unavailable | 2026-11-09T11:06:19.599405+00:00 |
 | [Mauvais sang 1080p CZ Titulky](https://prehraj.to/mauvais-sang-1080p-cz-titulky-mkv/50186193595974de) (ID 30952354) | [Sdílej 34522458](https://sdilej.cz/34522458/bad.blood.1986.aka.mauvais.sang.1080p.bluray.carlotta.10bit.av1.opus.rfranklin.mkv) | target_unavailable | 2026-11-09T19:09:10.316333+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-09T21:19:43.258897+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-09T21:11:09.649166+00:00 |
