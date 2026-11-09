@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-09T06:24:10.550730+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-09T07:26:08.243666+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-09T08:00:48.446198+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-09T08:31:22.094606+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "a7e384ae12364741bc17b1f87ad18962-shard-0",
-        "claimed_at": "2026-11-09T08:31:18.674438+00:00",
-        "lease_expires_at": "2026-11-09T14:31:18.674438+00:00",
-        "run_id": "42574443311"
       }
     },
     "54": {
@@ -1084,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-09T08:00:49.954124+00:00"
+        "planned_at": "2026-11-09T08:31:21.105518+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1092,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "30d5f9be554742cfbe1790dc6051bc9e-shard-0",
+        "claimed_at": "2026-11-09T08:31:21.815194+00:00",
+        "lease_expires_at": "2026-11-09T14:31:21.815194+00:00",
+        "run_id": "42574443311"
       }
     },
     "52": {
@@ -92710,7 +92710,7 @@
       "last_plan": {
         "source_id": "34963921",
         "display_name": "Babe 1080p CZ Dabing",
-        "planned_at": "2026-11-09T08:31:18.263115+00:00"
+        "planned_at": "2026-11-09T08:31:21.382281+00:00"
       }
     },
     "2491": {
@@ -150833,5 +150833,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T08:31:19.587943+00:00"
+  "updated_at": "2026-11-09T08:31:22.094623+00:00"
 }
