@@ -93016,17 +93016,19 @@
       "attempts": []
     },
     "2650": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14262494",
+          "reason": "Request failed for https://sdilej.cz/14262494/voda-pro-slony-2011-full-hd-cz-eng.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:31:40.150131+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14262494",
         "display_name": "Water for Elephants 1080p CZ Dabing",
         "planned_at": "2026-11-09T10:30:52.935482+00:00"
-      },
-      "claim": {
-        "worker_id": "37c7f4107edd4f26962e03e3f09ffbd9-shard-0",
-        "claimed_at": "2026-11-09T10:30:53.533212+00:00",
-        "lease_expires_at": "2026-11-09T16:30:53.533212+00:00",
-        "run_id": "42574443311"
       }
     },
     "17714": {
@@ -151644,5 +151646,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:31:27.809987+00:00"
+  "updated_at": "2026-11-09T10:31:40.150146+00:00"
 }
