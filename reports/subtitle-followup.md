@@ -530,7 +530,7 @@ Attach subtitles only after target processing has finished.
 | Everest 1080p CZ Titulky | 30911174 | https://sdilej.cz/35402213/everest.2015.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Complete: Czech subtitles verified |
 | Basic Instinct 1080p CZ Titulky | 30911357 | https://sdilej.cz/23040839/basic-instinct-1992-bdrip-1080p-hevc-en-cz-commentary.mkv | Complete: Czech subtitles verified |
 | Rocky Balboa 1080p CZ Titulky | 30911575 | https://sdilej.cz/25799468/rocky-balboa.-cz.sk.en.1080p.hmax.web-dl..mkv | Complete: Czech subtitles verified |
-| Wrath of Man 1080p CZ Titulky | 30911851 | https://sdilej.cz/27854646/rozhnevany-muz.mp4 | Extract Czech track from exact source after processing |
+| Wrath of Man 1080p CZ Titulky | 30911851 | https://sdilej.cz/27854646/rozhnevany-muz.mp4 | Complete: Czech subtitles verified |
 | Mission: Impossible – The Final Reckoning (Mission: Impossible - The Final Reckoning) 4K CZ Titulky | 30912287 | https://sdilej.cz/32921261/mission-impossible-posledni-zuctovani-2025-cz-en-radecek.mkv | Complete: Czech subtitles verified |
 | Spaceballs 1080p CZ Titulky | 30912425 | https://sdilej.cz/26848405/spaceballs-1987-.1080p-fhd-h265-cz-deadinside.mkv | Complete: Czech subtitles verified |
 | Talk to Me 4K CZ Titulky | 30912885 | https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv | Extract Czech track from exact source after processing |
