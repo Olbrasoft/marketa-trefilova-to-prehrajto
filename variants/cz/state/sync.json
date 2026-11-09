@@ -74390,13 +74390,6 @@
           "source_id": "31379501",
           "target_video_id": "30885416",
           "permanent": false,
-          "attempted_at": "2026-11-09T10:58:09.708376+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31379501",
-          "target_video_id": "30885416",
-          "permanent": false,
           "attempted_at": "2026-11-09T11:51:25.035765+00:00"
         },
         {
@@ -74405,12 +74398,19 @@
           "target_video_id": "30885416",
           "permanent": false,
           "attempted_at": "2026-11-09T12:32:39.801160+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31379501",
+          "target_video_id": "30885416",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:09:58.214912+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31379501",
         "display_name": "Long Live Ghosts! (Ať žijí duchové!) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T12:32:37.193606+00:00"
+        "planned_at": "2026-11-09T13:09:55.598684+00:00"
       },
       "previous_target_id": "30885416",
       "prepared": {
@@ -93607,11 +93607,22 @@
       "last_plan": {
         "source_id": "34513107",
         "display_name": "Grandma's Boy SD CZ Dabing",
-        "planned_at": "2026-11-09T13:09:50.308928+00:00"
+        "planned_at": "2026-11-09T13:09:55.959631+00:00"
+      },
+      "claim": {
+        "worker_id": "cd30e1788bfa47b0b465b7e4a8d2e6cf-shard-0",
+        "claimed_at": "2026-11-09T13:09:56.871529+00:00",
+        "lease_expires_at": "2026-11-09T19:09:56.871529+00:00",
+        "run_id": "42608486502"
       }
     },
     "24117": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34932244",
+        "display_name": "Stir of Echoes 1080p CZ Dabing",
+        "planned_at": "2026-11-09T13:09:56.118659+00:00"
+      }
     },
     "2632": {
       "attempts": []
@@ -152615,5 +152626,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:09:53.356513+00:00"
+  "updated_at": "2026-11-09T13:09:58.214931+00:00"
 }
