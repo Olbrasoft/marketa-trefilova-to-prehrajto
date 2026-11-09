@@ -95524,17 +95524,19 @@
       "attempts": []
     },
     "2752": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13742631",
+          "target_video_id": "30952674",
+          "permanent": false,
+          "attempted_at": "2026-11-09T19:24:27.377462+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13742631",
         "display_name": "Tigerland 1080p CZ Dabing",
         "planned_at": "2026-11-09T19:19:42.201789+00:00"
-      },
-      "claim": {
-        "worker_id": "0381b803d2264f399e4670ec2e88814e-shard-0",
-        "claimed_at": "2026-11-09T19:19:42.541077+00:00",
-        "lease_expires_at": "2026-11-10T01:19:42.541077+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30952674",
       "prepared": {
@@ -155230,5 +155232,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T19:22:57.784399+00:00"
+  "updated_at": "2026-11-09T19:24:27.377479+00:00"
 }
