@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-09T09:57:42.541477+00:00"
+        "planned_at": "2026-11-09T10:29:50.513188+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "ac644c05bd5f4b7a94e993cbf380d2c9-shard-0",
+        "claimed_at": "2026-11-09T10:29:51.176851+00:00",
+        "lease_expires_at": "2026-11-09T16:29:51.176851+00:00",
+        "run_id": "42574443311"
       }
     },
     "29922": {
@@ -92900,17 +92906,19 @@
       }
     },
     "24289": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34943513",
+          "target_video_id": "30943246",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:30:48.521293+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34943513",
         "display_name": "Bicentennial Man 1080p CZ Dabing",
         "planned_at": "2026-11-09T10:13:36.115707+00:00"
-      },
-      "claim": {
-        "worker_id": "f9bf627f59b64c98b991b7635893b124-shard-0",
-        "claimed_at": "2026-11-09T10:13:36.510415+00:00",
-        "lease_expires_at": "2026-11-09T16:13:36.510415+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30943246",
       "prepared": {
@@ -93006,7 +93014,12 @@
       "attempts": []
     },
     "2650": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "14262494",
+        "display_name": "Water for Elephants 1080p CZ Dabing",
+        "planned_at": "2026-11-09T10:29:50.797166+00:00"
+      }
     },
     "17714": {
       "attempts": []
@@ -151605,5 +151618,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:29:47.154741+00:00"
+  "updated_at": "2026-11-09T10:30:48.521312+00:00"
 }
