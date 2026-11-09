@@ -565,3 +565,4 @@ Attach subtitles only after target processing has finished.
 | The Burial 1080p CZ Titulky | 30931933 | https://sdilej.cz/27048382/pohreb.mp4 | Extract Czech track from exact source after processing |
 | Ginger and Fred (Ginger e Fred) 1080p CZ Titulky | 30932010 | https://sdilej.cz/33493464/ginger-a-fred-1986-it.cz-hevc-1080p.mkv | Extract Czech track from exact source after processing |
 | September 5 4K CZ Titulky | 30932078 | https://sdilej.cz/30782545/september.5.2024.2160p.web-dl.ddp5.1.en.cz-tit.sdr.h265-aoc.mkv | Extract Czech track from exact source after processing |
+| Mosul (الموصل) (2019) [ID 29822] 1080p CZ Titulky | 30932956 | https://sdilej.cz/14762100/mosul.2019.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
