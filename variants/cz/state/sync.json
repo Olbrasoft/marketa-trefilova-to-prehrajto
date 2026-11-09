@@ -97519,17 +97519,19 @@
       }
     },
     "2496": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31418628",
+          "reason": "Request failed for https://sdilej.cz/31418628/duch-boje-chocolate-2008-cz-by-karol.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:09:31.801453+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31418628",
         "display_name": "Chocolate (ช็อคโกแลต) 1080p CZ Dabing",
         "planned_at": "2026-11-09T23:08:44.427813+00:00"
-      },
-      "claim": {
-        "worker_id": "87b7643a6c3443ba813b54d0398a69c4-shard-0",
-        "claimed_at": "2026-11-09T23:08:45.159690+00:00",
-        "lease_expires_at": "2026-11-10T05:08:45.159690+00:00",
-        "run_id": "42692268094"
       }
     },
     "34147": {
@@ -156887,5 +156889,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:09:30.141060+00:00"
+  "updated_at": "2026-11-09T23:09:31.801469+00:00"
 }
