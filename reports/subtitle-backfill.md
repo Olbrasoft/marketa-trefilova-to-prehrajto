@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T07:45:32.837174+00:00
+Poslední aktualizace (UTC): 2026-11-09T07:45:36.653498+00:00
 
 Zkontrolováno videí: 574. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 457, `attached_verified`: 17, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 48, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 458, `attached_verified`: 17, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 47, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -88,7 +88,6 @@ Kontrol: 5; odesláno: 1; potvrzeno: 1; zbývá k prověření nyní: 56. Důvod
 | [Leave No Trace 1080p CZ Titulky](https://prehraj.to/leave-no-trace-1080p-cz-titulky-mkv/5381e988fb580250) (ID 30924237) | [Sdílej 10537087](https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv) | target_unavailable | 2026-11-08T18:53:49.821109+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-09T07:35:24.395056+00:00 |
 | [Megan Leavey 1080p CZ Titulky](https://prehraj.to/megan-leavey-1080p-cz-titulky-mkv/9dc298876f3a05a5) (ID 30933808) | [Sdílej 8623300](https://sdilej.cz/8623300/megan-leavey-2017-1080p-bdrip-dd5.1-cz-titulky.mkv) | target_unavailable | 2026-11-09T04:50:18.241430+00:00 |
-| [Missing 1080p CZ Titulky](https://prehraj.to/missing-1080p-cz-titulky-mkv/d2559d1594a1db68) (ID 30924110) | [Sdílej 26638719](https://sdilej.cz/26638719/missing-nezvestna-2023-cz-tit-1080p.mkv) | target_unavailable | 2026-11-08T18:43:37.261361+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-08T18:55:07.653990+00:00 |
 | [Mosul (الموصل) (2019) (ID 29822) 1080p CZ Titulky](https://prehraj.to/mosul-2019-id-29822-1080p-cz-titulky-mkv/a94ff7975b81113c) (ID 30932956) | [Sdílej 14762100](https://sdilej.cz/14762100/mosul.2019.1080p.web.h264.cz.tit.mkv) | target_unavailable | 2026-11-09T03:59:18.807517+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-08T18:54:19.316946+00:00 |
