@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-09T18:44:03.229161+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:14:43.676202+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-09T19:45:08.011051+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:01:07.036853+00:00"
         }
       ],
       "last_plan": {
@@ -14018,7 +14018,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-09T19:45:09.542803+00:00"
+        "planned_at": "2026-11-09T21:01:05.505029+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -14026,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "6ca6c02a22ad42a0a3ca8a1f8a75ef0b-shard-0",
+        "claimed_at": "2026-11-09T21:01:06.228508+00:00",
+        "lease_expires_at": "2026-11-10T03:01:06.228508+00:00",
+        "run_id": "42692268094"
       }
     },
     "22047": {
@@ -95891,7 +95897,7 @@
       "last_plan": {
         "source_id": "34880197",
         "display_name": "The Rookie (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:01:03.196838+00:00"
+        "planned_at": "2026-11-09T21:01:05.796141+00:00"
       }
     },
     "2587": {
@@ -155519,5 +155525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:01:03.439103+00:00"
+  "updated_at": "2026-11-09T21:01:07.036870+00:00"
 }
