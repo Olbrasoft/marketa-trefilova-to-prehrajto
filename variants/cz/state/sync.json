@@ -93491,10 +93491,29 @@
         "source_id": "30834557",
         "display_name": "The Guardian (2006) 1080p CZ Dabing",
         "planned_at": "2026-11-09T12:54:56.968686+00:00"
+      },
+      "claim": {
+        "worker_id": "d3d4b5870ebb4aa589f9dbf70e53f31f-shard-0",
+        "claimed_at": "2026-11-09T12:54:59.983029+00:00",
+        "lease_expires_at": "2026-11-09T18:54:59.983029+00:00",
+        "run_id": "42608486502"
       }
     },
     "11971": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27900132",
+          "reason": "Request failed for https://sdilej.cz/27900132/my.girl.1991.1080p.bluray.x265.cz-rbg.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:55:02.194213+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "27900132",
+        "display_name": "My Girl 1080p CZ Dabing",
+        "planned_at": "2026-11-09T12:55:00.742583+00:00"
+      }
     },
     "35547": {
       "attempts": []
@@ -152519,5 +152538,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:54:56.968701+00:00"
+  "updated_at": "2026-11-09T12:55:02.194228+00:00"
 }
