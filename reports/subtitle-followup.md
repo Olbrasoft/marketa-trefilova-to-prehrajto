@@ -591,3 +591,4 @@ Attach subtitles only after target processing has finished.
 | Zillion 1080p CZ Titulky | 30947968 | https://sdilej.cz/26478653/zillion-2022-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
 | The Treatment (De Behandeling) 1080p CZ Titulky | 30951370 | https://sdilej.cz/33244019/de-behandeling-2014-1080p-bluray-cz.tit.mkv | Extract Czech track from exact source after processing |
 | 7 Prisoners (7 Prisioneiros) 1080p CZ Titulky | 30952099 | https://sdilej.cz/18789951/7.prisoners.2021.cz.sub.1080p.nf.web-dl.dual.ddp5.1.atmos.hdr.hevc-tepes.mkv | Extract Czech track from exact source after processing |
+| Mauvais sang 1080p CZ Titulky | 30952354 | https://sdilej.cz/34522458/bad.blood.1986.aka.mauvais.sang.1080p.bluray.carlotta.10bit.av1.opus.rfranklin.mkv | Extract Czech track from exact source after processing |
