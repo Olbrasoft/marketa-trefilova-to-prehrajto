@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T10:25:50.956362+00:00
+Poslední aktualizace (UTC): 2026-11-09T10:25:56.122390+00:00
 
 Zkontrolováno videí: 580. Další stránka kontroly: 0.
 
@@ -66,7 +66,7 @@ Kontrol: 20; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 15. Důvo
 | --- | --- | --- | --- |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-09T09:05:47.299011+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-09T09:05:54.392435+00:00 |
-| [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-09T09:05:23.096462+00:00 |
+| [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-09T10:25:55.072407+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-09T09:05:36.883803+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-09T10:16:46.426303+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-09T10:17:08.861168+00:00 |
