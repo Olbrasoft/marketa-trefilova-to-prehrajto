@@ -92380,17 +92380,19 @@
       }
     },
     "2729": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32871878",
+          "target_video_id": "30935993",
+          "permanent": false,
+          "attempted_at": "2026-11-09T06:57:41.358396+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32871878",
         "display_name": "Cinderella (2015) 4K CZ Dabing",
         "planned_at": "2026-11-09T06:28:04.679046+00:00"
-      },
-      "claim": {
-        "worker_id": "c056df06cc1d4564bc3ab5f9b023285b-shard-0",
-        "claimed_at": "2026-11-09T06:28:05.013399+00:00",
-        "lease_expires_at": "2026-11-09T12:28:05.013399+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30935993",
       "prepared": {
@@ -150034,5 +150036,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T06:47:37.169099+00:00"
+  "updated_at": "2026-11-09T06:57:41.358414+00:00"
 }
