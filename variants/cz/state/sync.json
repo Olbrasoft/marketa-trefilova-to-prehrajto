@@ -92189,17 +92189,19 @@
       "attempts": []
     },
     "2749": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31035474",
+          "target_video_id": "30932440",
+          "permanent": false,
+          "attempted_at": "2026-11-09T03:50:37.679464+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31035474",
         "display_name": "Rocky IV 1440p CZ Dabing",
         "planned_at": "2026-11-09T03:26:29.180430+00:00"
-      },
-      "claim": {
-        "worker_id": "7174591cabae4a999b8a65c5e2ad1f6f-shard-0",
-        "claimed_at": "2026-11-09T03:26:29.549431+00:00",
-        "lease_expires_at": "2026-11-09T09:26:29.549431+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30932440",
       "prepared": {
@@ -149170,5 +149172,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T03:50:35.565754+00:00"
+  "updated_at": "2026-11-09T03:50:37.679484+00:00"
 }
