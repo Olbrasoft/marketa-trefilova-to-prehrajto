@@ -93698,17 +93698,19 @@
       }
     },
     "27477": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34916023",
+          "target_video_id": "30946329",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:38:01.738079+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34916023",
         "display_name": "My Week with Marilyn 1080p CZ Dabing",
         "planned_at": "2026-11-09T13:14:29.755810+00:00"
-      },
-      "claim": {
-        "worker_id": "f4f1b22172494cc1bb4da40afb961b1c-shard-0",
-        "claimed_at": "2026-11-09T13:14:30.145991+00:00",
-        "lease_expires_at": "2026-11-09T19:14:30.145991+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30946329",
       "prepared": {
@@ -152990,5 +152992,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:32:26.950414+00:00"
+  "updated_at": "2026-11-09T13:38:01.738094+00:00"
 }
