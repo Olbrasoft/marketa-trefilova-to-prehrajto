@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-09T22:04:08.534552+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-09T22:35:50.632634+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-09T23:06:48.652250+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:37:02.345605+00:00"
         }
       ],
       "last_plan": {
@@ -14018,7 +14018,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:06:53.427527+00:00"
+        "planned_at": "2026-11-09T23:37:00.501537+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -14026,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "e8273b8c330f44e892df0290cdd41204-shard-0",
+        "claimed_at": "2026-11-09T23:37:01.333489+00:00",
+        "lease_expires_at": "2026-11-10T05:37:01.333489+00:00",
+        "run_id": "42692268094"
       }
     },
     "22047": {
@@ -97879,7 +97885,7 @@
       "last_plan": {
         "source_id": "22865129",
         "display_name": "My Brothers and I (Mes frères et moi) 720p CZ Dabing",
-        "planned_at": "2026-11-09T23:36:58.442088+00:00"
+        "planned_at": "2026-11-09T23:37:00.786853+00:00"
       }
     },
     "29747": {
@@ -157181,5 +157187,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:36:58.627011+00:00"
+  "updated_at": "2026-11-09T23:37:02.345621+00:00"
 }
