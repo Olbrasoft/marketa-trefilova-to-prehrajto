@@ -92040,17 +92040,19 @@
       }
     },
     "2633": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21843584",
+          "target_video_id": "30929588",
+          "permanent": false,
+          "attempted_at": "2026-11-09T01:11:25.341778+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21843584",
         "display_name": "Rio 1080p CZ Dabing",
         "planned_at": "2026-11-09T00:54:57.213498+00:00"
-      },
-      "claim": {
-        "worker_id": "e7cf63a282f24f9caca15f4bcb5461d8-shard-0",
-        "claimed_at": "2026-11-09T00:54:57.496611+00:00",
-        "lease_expires_at": "2026-11-09T06:54:57.496611+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30929588",
       "prepared": {
@@ -148338,5 +148340,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T01:02:38.376482+00:00"
+  "updated_at": "2026-11-09T01:11:25.341794+00:00"
 }
