@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-09T09:53:09.426514+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-09T10:23:55.825746+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-09T10:54:30.255175+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-09T11:48:44.995905+00:00"
         }
       ],
       "last_plan": {
@@ -18960,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-09T10:54:32.090746+00:00"
+        "planned_at": "2026-11-09T11:48:43.139484+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18968,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "5eefa4c125a84c8c9c35dfa0f2228916-shard-0",
+        "claimed_at": "2026-11-09T11:48:43.897116+00:00",
+        "lease_expires_at": "2026-11-09T17:48:43.897116+00:00",
+        "run_id": "42608486502"
       }
     },
     "29695": {
@@ -93304,7 +93310,7 @@
       "last_plan": {
         "source_id": "28533105",
         "display_name": "The Thomas Crown Affair (1999) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T11:48:40.654719+00:00"
+        "planned_at": "2026-11-09T11:48:43.429615+00:00"
       }
     },
     "2671": {
@@ -152106,5 +152112,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T11:48:40.898739+00:00"
+  "updated_at": "2026-11-09T11:48:44.995921+00:00"
 }
