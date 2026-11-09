@@ -92273,17 +92273,19 @@
       }
     },
     "2712": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29707749",
+          "target_video_id": "30933512",
+          "permanent": false,
+          "attempted_at": "2026-11-09T04:43:20.627744+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29707749",
         "display_name": "Legend (2015) [ID 2712] 1080p CZ Dabing",
         "planned_at": "2026-11-09T04:27:25.280288+00:00"
-      },
-      "claim": {
-        "worker_id": "f1c59ab131cd40b29eabc2f14f2a2584-shard-0",
-        "claimed_at": "2026-11-09T04:27:25.626893+00:00",
-        "lease_expires_at": "2026-11-09T10:27:25.626893+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30933512",
       "prepared": {
@@ -149435,5 +149437,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T04:27:31.860301+00:00"
+  "updated_at": "2026-11-09T04:43:20.627761+00:00"
 }
