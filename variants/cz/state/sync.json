@@ -96529,17 +96529,19 @@
       "attempts": []
     },
     "13766": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32940635",
+          "target_video_id": "30954922",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:05:24.681463+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32940635",
         "display_name": "Bright Star 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:53:43.346675+00:00"
-      },
-      "claim": {
-        "worker_id": "483f85ff77e141198a7657d321fedf84-shard-0",
-        "claimed_at": "2026-11-09T21:53:43.778584+00:00",
-        "lease_expires_at": "2026-11-10T03:53:43.778584+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954922",
       "prepared": {
@@ -156114,5 +156116,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:05:22.692844+00:00"
+  "updated_at": "2026-11-09T22:05:24.681482+00:00"
 }
