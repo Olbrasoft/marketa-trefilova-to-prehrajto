@@ -96108,17 +96108,19 @@
       }
     },
     "2533": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34822908",
+          "target_video_id": "30954278",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:25:20.423369+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34822908",
         "display_name": "Jerry and Marge Go Large (Jerry & Marge Go Large) 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:15:34.089737+00:00"
-      },
-      "claim": {
-        "worker_id": "f00efa38097243a6bc1f33b114026fab-shard-0",
-        "claimed_at": "2026-11-09T21:15:34.507004+00:00",
-        "lease_expires_at": "2026-11-10T03:15:34.507004+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954278",
       "prepared": {
@@ -155780,5 +155782,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:25:16.260219+00:00"
+  "updated_at": "2026-11-09T21:25:20.423386+00:00"
 }
