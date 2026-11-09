@@ -32002,17 +32002,19 @@
       "attempts": []
     },
     "14761": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18789951",
+          "target_video_id": "30952099",
+          "permanent": false,
+          "attempted_at": "2026-11-09T19:01:47.243589+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18789951",
         "display_name": "7 Prisoners (7 Prisioneiros) 1080p CZ Titulky",
         "planned_at": "2026-11-09T18:48:50.697092+00:00"
-      },
-      "claim": {
-        "worker_id": "79652311fc7f4f0eab059972caac536d-shard-0",
-        "claimed_at": "2026-11-09T18:48:50.909627+00:00",
-        "lease_expires_at": "2026-11-10T00:48:50.909627+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30952099",
       "prepared": {
@@ -95426,5 +95428,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T18:48:55.108083+00:00"
+  "updated_at": "2026-11-09T19:01:47.243607+00:00"
 }
