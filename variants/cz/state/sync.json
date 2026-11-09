@@ -96912,17 +96912,19 @@
       "attempts": []
     },
     "2500": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33850818",
+          "target_video_id": "30955302",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:30:00.582913+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33850818",
         "display_name": "The Last Stop in Yuma County 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:20:54.531032+00:00"
-      },
-      "claim": {
-        "worker_id": "59bb697d8d8a415eb229c3c1124994fe-shard-0",
-        "claimed_at": "2026-11-09T22:20:54.931208+00:00",
-        "lease_expires_at": "2026-11-10T04:20:54.931208+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955302",
       "prepared": {
@@ -96990,7 +96992,13 @@
       "last_plan": {
         "source_id": "34704598",
         "display_name": "Clockers SD CZ Dabing",
-        "planned_at": "2026-11-09T22:29:36.867246+00:00"
+        "planned_at": "2026-11-09T22:29:40.642854+00:00"
+      },
+      "claim": {
+        "worker_id": "557d9652c42a48619afc18cd64c00d92-shard-0",
+        "claimed_at": "2026-11-09T22:29:41.082666+00:00",
+        "lease_expires_at": "2026-11-10T04:29:41.082666+00:00",
+        "run_id": "42692268094"
       }
     },
     "26104": {
@@ -156433,5 +156441,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:29:38.587950+00:00"
+  "updated_at": "2026-11-09T22:30:00.582928+00:00"
 }
