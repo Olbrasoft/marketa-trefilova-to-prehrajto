@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-09T21:32:55.804408+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-09T22:04:08.534552+00:00"
         },
         {
@@ -1036,12 +1029,19 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-09T22:35:50.632634+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:06:48.652250+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-09T22:35:48.231716+00:00"
+        "planned_at": "2026-11-09T23:06:45.730408+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -97488,11 +97488,22 @@
       "last_plan": {
         "source_id": "34650259",
         "display_name": "Theater Camp 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:06:40.832998+00:00"
+        "planned_at": "2026-11-09T23:06:46.027094+00:00"
+      },
+      "claim": {
+        "worker_id": "d79a73ea51e04d68afa11901bc514f1c-shard-0",
+        "claimed_at": "2026-11-09T23:06:46.773930+00:00",
+        "lease_expires_at": "2026-11-10T05:06:46.773930+00:00",
+        "run_id": "42692268094"
       }
     },
     "2496": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31418628",
+        "display_name": "Chocolate (ช็อคโกแลต) 1080p CZ Dabing",
+        "planned_at": "2026-11-09T23:06:46.209458+00:00"
+      }
     },
     "34147": {
       "attempts": []
@@ -156844,5 +156855,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:06:43.731747+00:00"
+  "updated_at": "2026-11-09T23:06:48.652263+00:00"
 }
