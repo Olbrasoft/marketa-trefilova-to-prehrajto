@@ -95884,17 +95884,19 @@
       }
     },
     "19162": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9789835",
+          "target_video_id": "30954097",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:05:53.949442+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9789835",
         "display_name": "Thelma (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-09T20:58:40.675798+00:00"
-      },
-      "claim": {
-        "worker_id": "d7bfa2e665d841198e44d65d0b3dd2ab-shard-0",
-        "claimed_at": "2026-11-09T20:58:41.692327+00:00",
-        "lease_expires_at": "2026-11-10T02:58:41.692327+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954097",
       "prepared": {
@@ -155550,5 +155552,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:04:57.059162+00:00"
+  "updated_at": "2026-11-09T21:05:53.949459+00:00"
 }
