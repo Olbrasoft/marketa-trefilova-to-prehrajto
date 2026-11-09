@@ -94027,17 +94027,19 @@
       }
     },
     "16088": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10595150",
+          "target_video_id": "30947126",
+          "permanent": false,
+          "attempted_at": "2026-11-09T14:28:08.133290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10595150",
         "display_name": "A Most Violent Year SD CZ Dabing",
         "planned_at": "2026-11-09T14:21:05.171445+00:00"
-      },
-      "claim": {
-        "worker_id": "6c4d10217f4b4f63833c9c92026aa8c5-shard-0",
-        "claimed_at": "2026-11-09T14:21:05.833881+00:00",
-        "lease_expires_at": "2026-11-09T20:21:05.833881+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30947126",
       "prepared": {
@@ -153538,5 +153540,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T14:23:22.221560+00:00"
+  "updated_at": "2026-11-09T14:28:08.133306+00:00"
 }
