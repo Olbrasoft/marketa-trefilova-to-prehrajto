@@ -92824,17 +92824,19 @@
       }
     },
     "10888": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31277603",
+          "target_video_id": "30943040",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:14:42.680753+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31277603",
         "display_name": "Thunderball 4K CZ Dabing",
         "planned_at": "2026-11-09T09:58:41.912950+00:00"
-      },
-      "claim": {
-        "worker_id": "46f85bb8355642e6b142ae26ab3ef3b2-shard-0",
-        "claimed_at": "2026-11-09T09:58:42.502734+00:00",
-        "lease_expires_at": "2026-11-09T15:58:42.502734+00:00",
-        "run_id": "42574443311"
       },
       "previous_target_id": "30943040",
       "prepared": {
@@ -151275,5 +151277,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:13:40.517245+00:00"
+  "updated_at": "2026-11-09T10:14:42.680768+00:00"
 }
