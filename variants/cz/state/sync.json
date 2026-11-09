@@ -96007,17 +96007,19 @@
       }
     },
     "24952": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34865734",
+          "target_video_id": "30954245",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:19:57.071511+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34865734",
         "display_name": "El Alamein - The Line of Fire (El Alamein) 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:10:58.415381+00:00"
-      },
-      "claim": {
-        "worker_id": "f17261c03bd84a3ab80bdfbbcd194c08-shard-0",
-        "claimed_at": "2026-11-09T21:10:58.801244+00:00",
-        "lease_expires_at": "2026-11-10T03:10:58.801244+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954245",
       "prepared": {
@@ -155720,5 +155722,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:15:38.211159+00:00"
+  "updated_at": "2026-11-09T21:19:57.071528+00:00"
 }
