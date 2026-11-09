@@ -96341,17 +96341,19 @@
       "attempts": []
     },
     "19529": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30875676",
+          "target_video_id": "30954656",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:52:17.599912+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30875676",
         "display_name": "Goya's Ghosts 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:38:45.309419+00:00"
-      },
-      "claim": {
-        "worker_id": "1abc9348df5742c192771bb33316fe87-shard-0",
-        "claimed_at": "2026-11-09T21:38:46.083539+00:00",
-        "lease_expires_at": "2026-11-10T03:38:46.083539+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954656",
       "prepared": {
@@ -155990,5 +155992,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:49:41.346076+00:00"
+  "updated_at": "2026-11-09T21:52:17.599928+00:00"
 }
