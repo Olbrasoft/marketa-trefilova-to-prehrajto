@@ -56013,7 +56013,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-09T22:37:13.209520+00:00"
+        "planned_at": "2026-11-09T23:08:06.499312+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -56021,6 +56021,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "c810093fd6624c0fb12cf0f8119c6676-shard-0",
+        "claimed_at": "2026-11-09T23:08:07.237241+00:00",
+        "lease_expires_at": "2026-11-10T05:08:07.237241+00:00",
+        "run_id": "42692268094"
       }
     },
     "24818": {
@@ -97163,17 +97169,23 @@
           "attempted_at": "2026-11-09T22:37:10.085604+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "33732341",
-        "display_name": "Something Wild 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:08:04.153382+00:00"
-      },
       "previous_target_id": "30955450",
-      "prepared": {
+      "upload": {
         "target_video_id": "30955450",
-        "size_bytes": 2715732884,
-        "prepared_at": "2026-11-09T22:31:14.734670+00:00",
-        "relay_source_id": "33732341"
+        "display_name": "Something Wild 1080p CZ Dabing",
+        "source_id": "33732341",
+        "source_url": "https://sdilej.cz/33732341/neco-divokeho-1986-1080p-cz.mp4",
+        "source_filename": "Něco divokého (1986) 1080p, cz.mp4",
+        "size_bytes": 2700000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9638557434082031,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/something-wild-1080p-cz-dabing-mp4/42a8344444182cb0",
+        "uploaded_at": "2026-11-09T23:08:07.478055+00:00"
       }
     },
     "23668": {
@@ -97517,7 +97529,7 @@
       "last_plan": {
         "source_id": "31418628",
         "display_name": "Chocolate (ช็อคโกแลต) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:08:04.461915+00:00"
+        "planned_at": "2026-11-09T23:08:06.800445+00:00"
       }
     },
     "34147": {
@@ -156870,5 +156882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:08:04.461928+00:00"
+  "updated_at": "2026-11-09T23:08:07.478067+00:00"
 }
