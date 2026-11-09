@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-09T18:44:13.444921+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:14:51.242436+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-09T19:45:17.282463+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:01:14.599005+00:00"
         }
       ],
       "last_plan": {
@@ -14657,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-09T19:45:18.864754+00:00"
+        "planned_at": "2026-11-09T21:01:12.865956+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14665,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "8b625fb9837b401ab42ff4d6260fcf5d-shard-0",
+        "claimed_at": "2026-11-09T21:01:13.571698+00:00",
+        "lease_expires_at": "2026-11-10T03:01:13.571698+00:00",
+        "run_id": "42692268094"
       }
     },
     "22177": {
@@ -95891,7 +95897,7 @@
       "last_plan": {
         "source_id": "34880197",
         "display_name": "The Rookie (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:01:10.750435+00:00"
+        "planned_at": "2026-11-09T21:01:13.148281+00:00"
       }
     },
     "2587": {
@@ -155519,5 +155525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:01:10.750459+00:00"
+  "updated_at": "2026-11-09T21:01:14.599022+00:00"
 }
