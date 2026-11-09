@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:11:13.162158+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:11:16.727541+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
@@ -84,7 +84,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 50. Důvod
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-09T21:10:19.580402+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-09T21:11:13.162082+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-09T10:18:07.586303+00:00 |
-| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-09T10:17:55.265340+00:00 |
+| [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-09T21:11:16.727473+00:00 |
 | [La Piscine (The Swimming Pool) 1080p CZ Titulky](https://prehraj.to/la-piscine-the-swimming-pool-1080p-cz-titulky-mkv/38c48883f8c4d945) (ID 30944955) | [Sdílej 16564498](https://sdilej.cz/16564498/bazen-la-piscine-1969-1080p-cz-titl.mkv) | target_unavailable | 2026-11-09T11:47:09.167743+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-09T11:37:20.244614+00:00 |
 | [Live from Baghdad SD CZ Titulky](https://prehraj.to/live-from-baghdad-sd-cz-titulky-mkv/71fe565b10447aa8) (ID 30944091) | [Sdílej 33478714](https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv) | target_unavailable | 2026-11-09T11:06:19.599405+00:00 |
