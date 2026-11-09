@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "efa6694c1a344f54bf20362b6bbd92fd-shard-0",
+        "claimed_at": "2026-11-09T07:25:03.327512+00:00",
+        "lease_expires_at": "2026-11-09T13:25:03.327512+00:00",
+        "run_id": "42574443311"
       }
     },
     "21312": {
@@ -30474,13 +30480,6 @@
           "source_id": "8623300",
           "target_video_id": "30933808",
           "permanent": false,
-          "attempted_at": "2026-11-09T04:59:42.461560+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8623300",
-          "target_video_id": "30933808",
-          "permanent": false,
           "attempted_at": "2026-11-09T05:52:05.473537+00:00"
         },
         {
@@ -30489,12 +30488,19 @@
           "target_video_id": "30933808",
           "permanent": false,
           "attempted_at": "2026-11-09T06:23:18.225112+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8623300",
+          "target_video_id": "30933808",
+          "permanent": false,
+          "attempted_at": "2026-11-09T07:25:06.036608+00:00"
         }
       ],
       "last_plan": {
         "source_id": "8623300",
         "display_name": "Megan Leavey 1080p CZ Titulky",
-        "planned_at": "2026-11-09T06:23:16.426006+00:00"
+        "planned_at": "2026-11-09T07:25:04.146203+00:00"
       },
       "previous_target_id": "30933808",
       "prepared": {
@@ -30731,7 +30737,7 @@
       "last_plan": {
         "source_id": "34580846",
         "display_name": "Silkwood 1080p CZ Titulky",
-        "planned_at": "2026-11-09T07:25:01.594286+00:00"
+        "planned_at": "2026-11-09T07:25:04.356288+00:00"
       }
     },
     "35707": {
@@ -92580,5 +92586,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T07:25:01.594302+00:00"
+  "updated_at": "2026-11-09T07:25:06.036625+00:00"
 }
