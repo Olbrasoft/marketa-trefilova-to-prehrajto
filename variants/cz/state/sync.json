@@ -97756,17 +97756,19 @@
       }
     },
     "34068": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26146106",
+          "target_video_id": "30956389",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:42:42.272753+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26146106",
         "display_name": "Roux the Day: A Gourmet Detective Mystery (Gourmet Detective: Roux the Day) 1080p CZ Dabing",
         "planned_at": "2026-11-09T23:18:45.375041+00:00"
-      },
-      "claim": {
-        "worker_id": "55e6c2f213b043a2aca93f1ea4f550e9-shard-0",
-        "claimed_at": "2026-11-09T23:18:45.771959+00:00",
-        "lease_expires_at": "2026-11-10T05:18:45.771959+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956389",
       "prepared": {
@@ -157218,5 +157220,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:42:10.552911+00:00"
+  "updated_at": "2026-11-09T23:42:42.272769+00:00"
 }
