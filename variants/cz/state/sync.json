@@ -93605,17 +93605,19 @@
       }
     },
     "25591": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34513107",
+          "target_video_id": "30946272",
+          "permanent": false,
+          "attempted_at": "2026-11-09T13:14:27.527520+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34513107",
         "display_name": "Grandma's Boy SD CZ Dabing",
         "planned_at": "2026-11-09T13:09:55.959631+00:00"
-      },
-      "claim": {
-        "worker_id": "cd30e1788bfa47b0b465b7e4a8d2e6cf-shard-0",
-        "claimed_at": "2026-11-09T13:09:56.871529+00:00",
-        "lease_expires_at": "2026-11-09T19:09:56.871529+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30946272",
       "prepared": {
@@ -152666,5 +152668,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T13:14:11.109036+00:00"
+  "updated_at": "2026-11-09T13:14:27.527534+00:00"
 }
