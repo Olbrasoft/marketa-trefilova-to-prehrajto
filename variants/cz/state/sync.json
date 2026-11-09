@@ -96296,17 +96296,19 @@
       }
     },
     "12401": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12167836",
+          "target_video_id": "30954625",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:49:31.246054+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12167836",
         "display_name": "Selena 720p CZ Dabing",
         "planned_at": "2026-11-09T21:36:45.713643+00:00"
-      },
-      "claim": {
-        "worker_id": "4bf752effddc4c4ba6f42cdb75cdda34-shard-0",
-        "claimed_at": "2026-11-09T21:36:47.478529+00:00",
-        "lease_expires_at": "2026-11-10T03:36:47.478529+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954625",
       "prepared": {
@@ -155970,5 +155972,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:48:05.032610+00:00"
+  "updated_at": "2026-11-09T21:49:31.246068+00:00"
 }
