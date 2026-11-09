@@ -3588,13 +3588,6 @@
           "source_id": "11053464",
           "target_video_id": "30615827",
           "permanent": false,
-          "attempted_at": "2026-11-09T04:53:47.037995+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11053464",
-          "target_video_id": "30615827",
-          "permanent": false,
           "attempted_at": "2026-11-09T05:50:59.116432+00:00"
         },
         {
@@ -3603,6 +3596,13 @@
           "target_video_id": "30615827",
           "permanent": false,
           "attempted_at": "2026-11-09T06:22:17.291827+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11053464",
+          "target_video_id": "30615827",
+          "permanent": false,
+          "attempted_at": "2026-11-09T07:24:32.556993+00:00"
         }
       ],
       "last_plan": {
@@ -9365,7 +9365,7 @@
       "last_plan": {
         "source_id": "29667772",
         "display_name": "Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky",
-        "planned_at": "2026-11-09T06:22:19.328171+00:00"
+        "planned_at": "2026-11-09T07:24:31.096238+00:00"
       },
       "previous_target_id": "30661597",
       "prepared": {
@@ -9373,6 +9373,12 @@
         "size_bytes": 8700000000,
         "prepared_at": "2026-10-31T08:34:47.262597+00:00",
         "relay_source_id": "29667772"
+      },
+      "claim": {
+        "worker_id": "e3b32011ab60407d904d5dae8c99cf8e-shard-0",
+        "claimed_at": "2026-11-09T07:24:31.520230+00:00",
+        "lease_expires_at": "2026-11-09T13:24:31.520230+00:00",
+        "run_id": "42574443311"
       }
     },
     "655": {
@@ -30731,7 +30737,7 @@
       "last_plan": {
         "source_id": "34580846",
         "display_name": "Silkwood 1080p CZ Titulky",
-        "planned_at": "2026-11-09T07:24:27.305288+00:00"
+        "planned_at": "2026-11-09T07:24:31.410011+00:00"
       }
     },
     "35707": {
@@ -92580,5 +92586,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T07:24:27.305303+00:00"
+  "updated_at": "2026-11-09T07:24:32.557009+00:00"
 }
