@@ -91947,17 +91947,19 @@
       }
     },
     "2652": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33817197",
+          "target_video_id": "30929120",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:48:04.114417+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33817197",
         "display_name": "Game Night 1080p CZ Dabing",
         "planned_at": "2026-11-09T00:37:28.065319+00:00"
-      },
-      "claim": {
-        "worker_id": "1ff87ae1f7dc4646a369800127b23e74-shard-0",
-        "claimed_at": "2026-11-09T00:37:28.348264+00:00",
-        "lease_expires_at": "2026-11-09T06:37:28.348264+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30929120",
       "prepared": {
@@ -148254,5 +148256,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:42:53.348248+00:00"
+  "updated_at": "2026-11-09T00:48:04.114433+00:00"
 }
