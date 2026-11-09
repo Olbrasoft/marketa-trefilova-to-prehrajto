@@ -94585,17 +94585,19 @@
       }
     },
     "23075": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27708681",
+          "target_video_id": "30948792",
+          "permanent": false,
+          "attempted_at": "2026-11-09T16:27:14.849343+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27708681",
         "display_name": "See No Evil, Hear No Evil 1080p CZ Dabing",
         "planned_at": "2026-11-09T16:20:50.164778+00:00"
-      },
-      "claim": {
-        "worker_id": "c089447897554a3aa335e7bf95901f9d-shard-0",
-        "claimed_at": "2026-11-09T16:20:50.470497+00:00",
-        "lease_expires_at": "2026-11-09T22:20:50.470497+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30948792",
       "prepared": {
@@ -154402,5 +154404,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T16:20:55.463450+00:00"
+  "updated_at": "2026-11-09T16:27:14.849361+00:00"
 }
