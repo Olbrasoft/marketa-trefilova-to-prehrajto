@@ -96790,17 +96790,19 @@
       }
     },
     "25114": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26811191",
+          "target_video_id": "30955246",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:20:05.403601+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26811191",
         "display_name": "The Assassination of Richard Nixon 720p CZ Dabing",
         "planned_at": "2026-11-09T22:16:13.177316+00:00"
-      },
-      "claim": {
-        "worker_id": "276267bd5cde4af8a65c0efcbac07c67-shard-0",
-        "claimed_at": "2026-11-09T22:16:13.589533+00:00",
-        "lease_expires_at": "2026-11-10T04:16:13.589533+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955246",
       "prepared": {
@@ -96852,7 +96854,13 @@
       "last_plan": {
         "source_id": "8613346",
         "display_name": "What We Did on Our Holiday 1080p CZ Dabing",
-        "planned_at": "2026-11-09T22:19:58.908301+00:00"
+        "planned_at": "2026-11-09T22:20:03.634209+00:00"
+      },
+      "claim": {
+        "worker_id": "7176ab152b994c71bbffe27ad6d58331-shard-0",
+        "claimed_at": "2026-11-09T22:20:04.038952+00:00",
+        "lease_expires_at": "2026-11-10T04:20:04.038952+00:00",
+        "run_id": "42692268094"
       }
     },
     "14325": {
@@ -156322,5 +156330,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:20:01.369869+00:00"
+  "updated_at": "2026-11-09T22:20:05.403617+00:00"
 }
