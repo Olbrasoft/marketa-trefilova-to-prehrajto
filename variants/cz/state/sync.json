@@ -97267,17 +97267,19 @@
       }
     },
     "11787": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33796289",
+          "target_video_id": "30955812",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:59:07.982024+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33796289",
         "display_name": "Tucker: The Man and His Dream 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:49:49.268847+00:00"
-      },
-      "claim": {
-        "worker_id": "98b82837c21549cda4607bed3797df1a-shard-0",
-        "claimed_at": "2026-11-09T22:49:49.624149+00:00",
-        "lease_expires_at": "2026-11-10T04:49:49.624149+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955812",
       "prepared": {
@@ -156771,5 +156773,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:57:46.665258+00:00"
+  "updated_at": "2026-11-09T22:59:07.982039+00:00"
 }
