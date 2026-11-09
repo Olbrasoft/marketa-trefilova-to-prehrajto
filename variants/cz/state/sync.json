@@ -45554,13 +45554,6 @@
           "source_id": "20443534",
           "target_video_id": "30871258",
           "permanent": false,
-          "attempted_at": "2026-11-09T04:59:33.009869+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20443534",
-          "target_video_id": "30871258",
-          "permanent": false,
           "attempted_at": "2026-11-09T05:56:36.704545+00:00"
         },
         {
@@ -45569,6 +45562,13 @@
           "target_video_id": "30871258",
           "permanent": false,
           "attempted_at": "2026-11-09T06:27:00.930959+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-09T07:28:57.786411+00:00"
         }
       ],
       "last_plan": {
@@ -67818,7 +67818,7 @@
       "last_plan": {
         "source_id": "28778728",
         "display_name": "White Oleander SD CZ Dabing",
-        "planned_at": "2026-11-09T06:26:59.459615+00:00"
+        "planned_at": "2026-11-09T07:28:56.286065+00:00"
       },
       "previous_target_id": "30854802",
       "prepared": {
@@ -67826,6 +67826,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-06T08:53:21.282274+00:00",
         "relay_source_id": "28778728"
+      },
+      "claim": {
+        "worker_id": "941e8a5540ec47ba9cdc508de387023d-shard-0",
+        "claimed_at": "2026-11-09T07:28:57.042259+00:00",
+        "lease_expires_at": "2026-11-09T13:28:57.042259+00:00",
+        "run_id": "42574443311"
       }
     },
     "1982": {
@@ -92417,7 +92423,7 @@
       "last_plan": {
         "source_id": "31764837",
         "display_name": "Wonka 4K CZ Dabing",
-        "planned_at": "2026-11-09T07:28:53.685195+00:00"
+        "planned_at": "2026-11-09T07:28:56.576252+00:00"
       }
     },
     "12916": {
@@ -150346,5 +150352,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T07:28:53.945453+00:00"
+  "updated_at": "2026-11-09T07:28:57.786426+00:00"
 }
