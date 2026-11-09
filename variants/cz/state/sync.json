@@ -12786,13 +12786,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-09T21:33:15.202142+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-09T22:04:33.488840+00:00"
         },
         {
@@ -12801,6 +12794,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-09T22:36:12.800696+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-09T23:07:20.978065+00:00"
         }
       ],
       "last_plan": {
@@ -16912,7 +16912,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-09T22:36:14.535783+00:00"
+        "planned_at": "2026-11-09T23:07:16.670719+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16920,6 +16920,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "f148b8183d2747bc8036b97ff576827b-shard-0",
+        "claimed_at": "2026-11-09T23:07:17.419565+00:00",
+        "lease_expires_at": "2026-11-10T05:07:17.419565+00:00",
+        "run_id": "42692268094"
       }
     },
     "614": {
@@ -97511,7 +97517,7 @@
       "last_plan": {
         "source_id": "31418628",
         "display_name": "Chocolate (ช็อคโกแลต) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T23:07:14.641301+00:00"
+        "planned_at": "2026-11-09T23:07:16.962921+00:00"
       }
     },
     "34147": {
@@ -156864,5 +156870,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:07:14.641317+00:00"
+  "updated_at": "2026-11-09T23:07:20.978079+00:00"
 }
