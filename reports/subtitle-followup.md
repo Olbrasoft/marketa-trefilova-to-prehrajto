@@ -563,15 +563,15 @@ Attach subtitles only after target processing has finished.
 | Gentlemen Prefer Blondes 4K CZ Titulky | 30927823 | https://sdilej.cz/33596774/pani-maji-radsi-blondynky-gentlemen-prefer-blondes-1953-2160p.upscale.mkv | Complete: Czech subtitles verified |
 | Bad Education (2019) 1080p CZ Titulky | 30928018 | https://sdilej.cz/13389327/bad.education.2019.1080p.web.h264-secrecy.cz.tit.mkv | Complete: Czech subtitles verified |
 | The Burial 1080p CZ Titulky | 30931933 | https://sdilej.cz/27048382/pohreb.mp4 | Complete: Czech subtitles verified |
-| Ginger and Fred (Ginger e Fred) 1080p CZ Titulky | 30932010 | https://sdilej.cz/33493464/ginger-a-fred-1986-it.cz-hevc-1080p.mkv | Extract Czech track from exact source after processing |
-| September 5 4K CZ Titulky | 30932078 | https://sdilej.cz/30782545/september.5.2024.2160p.web-dl.ddp5.1.en.cz-tit.sdr.h265-aoc.mkv | Extract Czech track from exact source after processing |
-| Mosul (الموصل) (2019) [ID 29822] 1080p CZ Titulky | 30932956 | https://sdilej.cz/14762100/mosul.2019.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
-| The Perfect Neighbor 1080p CZ Titulky | 30932988 | https://sdilej.cz/32131764/the.perfect.neighbor-2025-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
-| Megan Leavey 1080p CZ Titulky | 30933808 | https://sdilej.cz/8623300/megan-leavey-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
-| Human Traffic 1080p CZ Titulky | 30934137 | https://sdilej.cz/11557913/human-traffic-cz-tit-1080p-dts7.1-hevc-h265.mkv | Extract Czech track from exact source after processing |
-| A Good Person 1080p CZ Titulky | 30934176 | https://sdilej.cz/26433562/a.good.person.brrip.en.5.1.titulky.cz.2023.mkv | Extract Czech track from exact source after processing |
-| Untold: Deal with the Devil 1080p CZ Titulky | 30935260 | https://sdilej.cz/34756699/neslychane-smlouva-s-dablem-2021-dokumentarni-sportovni-cztit.mkv | Extract Czech track from exact source after processing |
-| The Bird with the Crystal Plumage 1080p CZ Titulky | 30935313 | https://sdilej.cz/32587629/the.bird.with.the.crystal.plumage.1970.1080p.bluray.ac3.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Ginger and Fred (Ginger e Fred) 1080p CZ Titulky | 30932010 | https://sdilej.cz/33493464/ginger-a-fred-1986-it.cz-hevc-1080p.mkv | Complete: Czech subtitles verified |
+| September 5 4K CZ Titulky | 30932078 | https://sdilej.cz/30782545/september.5.2024.2160p.web-dl.ddp5.1.en.cz-tit.sdr.h265-aoc.mkv | Complete: Czech subtitles verified |
+| Mosul (الموصل) (2019) [ID 29822] 1080p CZ Titulky | 30932956 | https://sdilej.cz/14762100/mosul.2019.1080p.web.h264.cz.tit.mkv | Complete: Czech subtitles verified |
+| The Perfect Neighbor 1080p CZ Titulky | 30932988 | https://sdilej.cz/32131764/the.perfect.neighbor-2025-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
+| Megan Leavey 1080p CZ Titulky | 30933808 | https://sdilej.cz/8623300/megan-leavey-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Complete: Czech subtitles verified |
+| Human Traffic 1080p CZ Titulky | 30934137 | https://sdilej.cz/11557913/human-traffic-cz-tit-1080p-dts7.1-hevc-h265.mkv | Complete: Czech subtitles verified |
+| A Good Person 1080p CZ Titulky | 30934176 | https://sdilej.cz/26433562/a.good.person.brrip.en.5.1.titulky.cz.2023.mkv | Complete: Czech subtitles verified |
+| Untold: Deal with the Devil 1080p CZ Titulky | 30935260 | https://sdilej.cz/34756699/neslychane-smlouva-s-dablem-2021-dokumentarni-sportovni-cztit.mkv | Complete: Czech subtitles verified |
+| The Bird with the Crystal Plumage 1080p CZ Titulky | 30935313 | https://sdilej.cz/32587629/the.bird.with.the.crystal.plumage.1970.1080p.bluray.ac3.x264-majo.mkv | Complete: Czech subtitles verified |
 | The Irishman: In Conversation 1080p CZ Titulky | 30937553 | https://sdilej.cz/12740016/the.irishman.in.conversation.2019.1080p.nf.web-dl.ddp5.1.x264-pawel2006.mkv | Extract Czech track from exact source after processing |
 | Silkwood 1080p CZ Titulky | 30937630 | https://sdilej.cz/34580846/silkwood.1983.1080p.bluray.x264-oft.mkv | Extract Czech track from exact source after processing |
 | Red Rooms (Les Chambres rouges) SD CZ Titulky | 30937795 | https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv | Extract Czech track from exact source after processing |
