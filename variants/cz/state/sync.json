@@ -96248,17 +96248,19 @@
       }
     },
     "13657": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18658290",
+          "target_video_id": "30954584",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:38:43.207510+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18658290",
         "display_name": "Alan Partridge: Alpha Papa 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:33:20.234035+00:00"
-      },
-      "claim": {
-        "worker_id": "69e549d97c1643bd8df5199b81e96fea-shard-0",
-        "claimed_at": "2026-11-09T21:33:21.168622+00:00",
-        "lease_expires_at": "2026-11-10T03:33:21.168622+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954584",
       "prepared": {
@@ -155879,5 +155881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:37:41.534199+00:00"
+  "updated_at": "2026-11-09T21:38:43.207525+00:00"
 }
