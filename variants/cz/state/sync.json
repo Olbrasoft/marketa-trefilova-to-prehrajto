@@ -95069,17 +95069,19 @@
       }
     },
     "22552": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33911462",
+          "target_video_id": "30950542",
+          "permanent": false,
+          "attempted_at": "2026-11-09T17:41:57.739092+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33911462",
         "display_name": "Clash of the Titans (1981) 1080p CZ Dabing",
         "planned_at": "2026-11-09T17:36:17.276001+00:00"
-      },
-      "claim": {
-        "worker_id": "c56de99804224830a40ebe42379da1bf-shard-0",
-        "claimed_at": "2026-11-09T17:36:17.596709+00:00",
-        "lease_expires_at": "2026-11-09T23:36:17.596709+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30950542",
       "prepared": {
@@ -154823,5 +154825,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T17:36:21.813258+00:00"
+  "updated_at": "2026-11-09T17:41:57.739110+00:00"
 }
