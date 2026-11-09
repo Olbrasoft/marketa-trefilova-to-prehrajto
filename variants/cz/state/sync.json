@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "ec9c0d33410b4efa8e0f685947108082-shard-0",
+        "claimed_at": "2026-11-09T21:36:39.015847+00:00",
+        "lease_expires_at": "2026-11-10T03:36:39.015847+00:00",
+        "run_id": "42692268094"
       }
     },
     "37290": {
@@ -95931,17 +95937,23 @@
           "attempted_at": "2026-11-09T21:05:53.949442+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "9789835",
-        "display_name": "Thelma (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T20:58:40.675798+00:00"
-      },
       "previous_target_id": "30954097",
-      "prepared": {
+      "upload": {
         "target_video_id": "30954097",
-        "size_bytes": 2091272065,
-        "prepared_at": "2026-11-09T20:58:51.018016+00:00",
-        "relay_source_id": "9789835"
+        "display_name": "Thelma (2017) 1080p CZ Dabing",
+        "source_id": "9789835",
+        "source_url": "https://sdilej.cz/9789835/thelma-2017.fullhd.hevc.10bit.cz-dab-quality.mkv",
+        "source_filename": "Thelma _2017.FullHD.HEVC.10bit.CZ-dab_QUALITY.mkv",
+        "size_bytes": 2100000000,
+        "width": 1920,
+        "height": 808,
+        "audio_language": "cs",
+        "language_probability": 0.887563943862915,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/thelma-2017-1080p-cz-dabing-mkv/3261ae03a6cf270c",
+        "uploaded_at": "2026-11-09T21:36:41.142648+00:00"
       }
     },
     "24646": {
@@ -96261,7 +96273,7 @@
       "last_plan": {
         "source_id": "12167836",
         "display_name": "Selena 720p CZ Dabing",
-        "planned_at": "2026-11-09T21:36:37.068330+00:00"
+        "planned_at": "2026-11-09T21:36:39.501578+00:00"
       }
     },
     "35487": {
@@ -155836,5 +155848,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:36:37.068345+00:00"
+  "updated_at": "2026-11-09T21:36:41.142663+00:00"
 }
