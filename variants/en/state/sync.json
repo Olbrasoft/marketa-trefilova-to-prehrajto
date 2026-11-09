@@ -31335,18 +31335,19 @@
           "reason": "Request failed for https://sdilej.cz/16564498/bazen-la-piscine-1969-1080p-cz-titl.mkv (HTTP None)",
           "permanent": false,
           "attempted_at": "2026-11-09T10:49:13.899104+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16564498",
+          "target_video_id": "30944955",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:08:34.694667+00:00"
         }
       ],
       "last_plan": {
         "source_id": "16564498",
         "display_name": "La Piscine (The Swimming Pool) 1080p CZ Titulky",
         "planned_at": "2026-11-09T11:46:41.321647+00:00"
-      },
-      "claim": {
-        "worker_id": "5cd4f0ea57d746439d1d2bcf09b58dce-shard-0",
-        "claimed_at": "2026-11-09T11:46:41.567908+00:00",
-        "lease_expires_at": "2026-11-09T17:46:41.567908+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30944955",
       "prepared": {
@@ -94046,5 +94047,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T11:55:35.776414+00:00"
+  "updated_at": "2026-11-09T12:08:34.694682+00:00"
 }
