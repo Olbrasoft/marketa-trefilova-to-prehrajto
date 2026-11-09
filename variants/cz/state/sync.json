@@ -91976,17 +91976,19 @@
       }
     },
     "23577": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32711835",
+          "target_video_id": "30929322",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:51:14.150917+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32711835",
         "display_name": "Clueless 1080p CZ Dabing",
         "planned_at": "2026-11-09T00:42:48.291226+00:00"
-      },
-      "claim": {
-        "worker_id": "6e87188b33704204a6a097a9a3dc678f-shard-0",
-        "claimed_at": "2026-11-09T00:42:48.680224+00:00",
-        "lease_expires_at": "2026-11-09T06:42:48.680224+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30929322",
       "prepared": {
@@ -148280,5 +148282,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:48:14.196804+00:00"
+  "updated_at": "2026-11-09T00:51:14.150932+00:00"
 }
