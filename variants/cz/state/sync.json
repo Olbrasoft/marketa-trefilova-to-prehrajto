@@ -91677,17 +91677,19 @@
       }
     },
     "2724": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34061939",
+          "target_video_id": "30928149",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:06:29.786852+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34061939",
         "display_name": "Ace Ventura: Pet Detective 4K CZ Dabing",
         "planned_at": "2026-11-08T23:58:50.915362+00:00"
-      },
-      "claim": {
-        "worker_id": "3a587dcb11fb4757ae6ea74894a56b43-shard-0",
-        "claimed_at": "2026-11-08T23:58:51.248000+00:00",
-        "lease_expires_at": "2026-11-09T05:58:51.248000+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30928149",
       "prepared": {
@@ -147744,5 +147746,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:01:49.512962+00:00"
+  "updated_at": "2026-11-09T00:06:29.786870+00:00"
 }
