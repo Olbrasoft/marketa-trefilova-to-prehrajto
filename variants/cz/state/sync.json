@@ -12375,13 +12375,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-09T18:44:20.277557+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-09T19:15:00.309356+00:00"
         },
         {
@@ -12390,6 +12383,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-09T19:45:24.351079+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:01:23.312935+00:00"
         }
       ],
       "last_plan": {
@@ -12806,7 +12806,7 @@
       "last_plan": {
         "source_id": "34846817",
         "display_name": "Obsession (2026) 4K CZ Dabing",
-        "planned_at": "2026-11-09T19:45:25.856433+00:00"
+        "planned_at": "2026-11-09T21:01:22.085530+00:00"
       },
       "previous_target_id": "30649962",
       "prepared": {
@@ -12814,6 +12814,12 @@
         "size_bytes": 17500000000,
         "prepared_at": "2026-10-31T00:38:39.419343+00:00",
         "relay_source_id": "34846817"
+      },
+      "claim": {
+        "worker_id": "c6494a819c6f40ae9c07b19c5128d94a-shard-0",
+        "claimed_at": "2026-11-09T21:01:22.778095+00:00",
+        "lease_expires_at": "2026-11-10T03:01:22.778095+00:00",
+        "run_id": "42692268094"
       }
     },
     "516": {
@@ -95891,7 +95897,7 @@
       "last_plan": {
         "source_id": "34880197",
         "display_name": "The Rookie (2002) 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:01:20.075849+00:00"
+        "planned_at": "2026-11-09T21:01:22.364686+00:00"
       }
     },
     "2587": {
@@ -155519,5 +155525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:01:20.075865+00:00"
+  "updated_at": "2026-11-09T21:01:23.312949+00:00"
 }
