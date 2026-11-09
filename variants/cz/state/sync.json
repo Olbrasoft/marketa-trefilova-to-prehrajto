@@ -95273,17 +95273,19 @@
       }
     },
     "19472": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11880501",
+          "target_video_id": "30951584",
+          "permanent": false,
+          "attempted_at": "2026-11-09T18:28:15.747024+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11880501",
         "display_name": "Radio 1080p CZ Dabing",
         "planned_at": "2026-11-09T18:22:07.442942+00:00"
-      },
-      "claim": {
-        "worker_id": "d3511da2605240029b7352397000100c-shard-0",
-        "claimed_at": "2026-11-09T18:22:07.776408+00:00",
-        "lease_expires_at": "2026-11-10T00:22:07.776408+00:00",
-        "run_id": "42644070199"
       },
       "previous_target_id": "30951584",
       "prepared": {
@@ -155024,5 +155026,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T18:25:20.518874+00:00"
+  "updated_at": "2026-11-09T18:28:15.747041+00:00"
 }
