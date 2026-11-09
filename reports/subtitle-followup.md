@@ -567,3 +567,4 @@ Attach subtitles only after target processing has finished.
 | September 5 4K CZ Titulky | 30932078 | https://sdilej.cz/30782545/september.5.2024.2160p.web-dl.ddp5.1.en.cz-tit.sdr.h265-aoc.mkv | Extract Czech track from exact source after processing |
 | Mosul (الموصل) (2019) [ID 29822] 1080p CZ Titulky | 30932956 | https://sdilej.cz/14762100/mosul.2019.1080p.web.h264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Perfect Neighbor 1080p CZ Titulky | 30932988 | https://sdilej.cz/32131764/the.perfect.neighbor-2025-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| Megan Leavey 1080p CZ Titulky | 30933808 | https://sdilej.cz/8623300/megan-leavey-2017-1080p-bdrip-dd5.1-cz-titulky.mkv | Extract Czech track from exact source after processing |
