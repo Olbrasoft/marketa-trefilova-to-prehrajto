@@ -97010,17 +97010,19 @@
       }
     },
     "26104": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25429501",
+          "target_video_id": "30955439",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:31:07.339820+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25429501",
         "display_name": "Superman: Doomsday SD CZ Dabing",
         "planned_at": "2026-11-09T22:30:02.954701+00:00"
-      },
-      "claim": {
-        "worker_id": "18f8c9ad567c44f5adb111a2c007d805-shard-0",
-        "claimed_at": "2026-11-09T22:30:03.345544+00:00",
-        "lease_expires_at": "2026-11-10T04:30:03.345544+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30955439",
       "prepared": {
@@ -156485,5 +156487,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:30:38.069983+00:00"
+  "updated_at": "2026-11-09T22:31:07.339849+00:00"
 }
