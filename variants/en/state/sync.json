@@ -31119,13 +31119,6 @@
           "source_id": "33478714",
           "reason": "Request failed for https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv (HTTP None)",
           "permanent": false,
-          "attempted_at": "2026-11-09T09:58:34.898012+00:00"
-        },
-        {
-          "status": "source_refresh_failed",
-          "source_id": "33478714",
-          "reason": "Request failed for https://sdilej.cz/33478714/live-from-baghdad-2002-1080p-cz.tit.mkv (HTTP None)",
-          "permanent": false,
           "attempted_at": "2026-11-09T10:29:40.049070+00:00"
         },
         {
@@ -31134,17 +31127,24 @@
           "target_video_id": "30944091",
           "permanent": false,
           "attempted_at": "2026-11-09T11:26:58.414983+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33478714",
+          "target_video_id": "30944091",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:08:38.442254+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33478714",
         "display_name": "Live from Baghdad SD CZ Titulky",
-        "planned_at": "2026-11-09T11:00:54.703254+00:00"
+        "planned_at": "2026-11-09T12:08:36.771627+00:00"
       },
       "previous_target_id": "30944091",
       "prepared": {
         "target_video_id": "30944091",
-        "size_bytes": 6838437459,
+        "size_bytes": 6800000000,
         "prepared_at": "2026-11-09T11:00:58.619802+00:00",
         "relay_source_id": "33478714"
       }
@@ -31414,7 +31414,7 @@
       "last_plan": {
         "source_id": "21120116",
         "display_name": "Angst SD CZ Titulky",
-        "planned_at": "2026-11-09T10:59:59.277706+00:00"
+        "planned_at": "2026-11-09T12:08:37.062898+00:00"
       }
     },
     "37363": {
@@ -94047,5 +94047,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:08:34.694682+00:00"
+  "updated_at": "2026-11-09T12:08:38.442272+00:00"
 }
