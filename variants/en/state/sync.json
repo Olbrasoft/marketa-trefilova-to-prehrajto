@@ -30338,17 +30338,19 @@
       "attempts": []
     },
     "29822": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14762100",
+          "target_video_id": "30932956",
+          "permanent": false,
+          "attempted_at": "2026-11-09T04:19:15.677562+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14762100",
         "display_name": "Mosul (الموصل) (2019) [ID 29822] 1080p CZ Titulky",
         "planned_at": "2026-11-09T03:53:44.232749+00:00"
-      },
-      "claim": {
-        "worker_id": "229e158feee5471baba153aee132bcc1-shard-0",
-        "claimed_at": "2026-11-09T03:53:44.406607+00:00",
-        "lease_expires_at": "2026-11-09T09:53:44.406607+00:00",
-        "run_id": "42550909205"
       },
       "previous_target_id": "30932956",
       "prepared": {
@@ -91401,5 +91403,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T03:56:17.500098+00:00"
+  "updated_at": "2026-11-09T04:19:15.677580+00:00"
 }
