@@ -586,3 +586,4 @@ Attach subtitles only after target processing has finished.
 | Angst SD CZ Titulky | 30945338 | https://sdilej.cz/21120116/angst-1983-horor-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Trial by Fire (2018) 1080p CZ Titulky | 30945036 | https://sdilej.cz/15709144/trial.by.fire.2018.1080p.amzn.web-dl.ddp5.1.h.264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | Extreme Job (극한직업) 1080p CZ Titulky | 30945079 | https://sdilej.cz/21420604/extreme.job.2019.korean.1080p.bluray.h264.aac-titulky-cz.mkv | Extract Czech track from exact source after processing |
+| Firebird 1080p CZ Titulky | 30945935 | https://sdilej.cz/30703111/firebird-1080p-dd-2021-cz-tit.mp4 | Extract Czech track from exact source after processing |
