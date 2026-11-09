@@ -94715,13 +94715,31 @@
         "claimed_at": "2026-11-09T16:51:34.646899+00:00",
         "lease_expires_at": "2026-11-09T22:51:34.646899+00:00",
         "run_id": "42644070199"
+      },
+      "previous_target_id": "30949459",
+      "prepared": {
+        "target_video_id": "30949459",
+        "size_bytes": 2351557844,
+        "prepared_at": "2026-11-09T16:51:40.092358+00:00",
+        "relay_source_id": "33677144"
       }
     },
     "34084": {
       "attempts": []
     },
     "2765": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26770118",
+        "display_name": "The Majestic 720p CZ Dabing",
+        "planned_at": "2026-11-09T16:51:37.162006+00:00"
+      },
+      "claim": {
+        "worker_id": "afffa4699a77411d8413db05690f3023-shard-0",
+        "claimed_at": "2026-11-09T16:51:37.452071+00:00",
+        "lease_expires_at": "2026-11-09T22:51:37.452071+00:00",
+        "run_id": "42644070199"
+      }
     },
     "19581": {
       "attempts": []
@@ -154502,5 +154520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T16:51:35.027768+00:00"
+  "updated_at": "2026-11-09T16:51:40.092373+00:00"
 }
