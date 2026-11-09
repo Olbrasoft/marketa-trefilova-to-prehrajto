@@ -91741,17 +91741,19 @@
       }
     },
     "2764": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34348889",
+          "target_video_id": "30928330",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:13:55.215128+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34348889",
         "display_name": "Public Enemies 1080p CZ Dabing",
         "planned_at": "2026-11-09T00:08:41.139330+00:00"
-      },
-      "claim": {
-        "worker_id": "167149bb10654573a8094c8531b93bb9-shard-0",
-        "claimed_at": "2026-11-09T00:08:41.431255+00:00",
-        "lease_expires_at": "2026-11-09T06:08:41.431255+00:00",
-        "run_id": "42519750852"
       },
       "previous_target_id": "30928330",
       "prepared": {
@@ -147799,5 +147801,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:10:40.853458+00:00"
+  "updated_at": "2026-11-09T00:13:55.215148+00:00"
 }
