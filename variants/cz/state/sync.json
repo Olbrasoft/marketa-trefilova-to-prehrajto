@@ -96327,7 +96327,7 @@
       "last_plan": {
         "source_id": "18658290",
         "display_name": "Alan Partridge: Alpha Papa 1080p CZ Dabing",
-        "planned_at": "2026-11-09T21:33:20.234035+00:00"
+        "planned_at": "2026-11-09T22:08:52.015980+00:00"
       },
       "previous_target_id": "30954584",
       "prepared": {
@@ -96335,6 +96335,12 @@
         "size_bytes": 2181705553,
         "prepared_at": "2026-11-09T21:33:26.144453+00:00",
         "relay_source_id": "18658290"
+      },
+      "claim": {
+        "worker_id": "7f1d9402ed7d40b3aca2e68659d72172-shard-0",
+        "claimed_at": "2026-11-09T22:08:52.699607+00:00",
+        "lease_expires_at": "2026-11-10T04:08:52.699607+00:00",
+        "run_id": "42692268094"
       }
     },
     "12401": {
@@ -96640,21 +96646,28 @@
       "attempts": []
     },
     "31895": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33767242",
+          "reason": "Request failed for https://sdilej.cz/33767242/bajecni-bakerovi-hosi-1989-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:08:53.246227+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767242",
         "display_name": "The Fabulous Baker Boys 1080p CZ Dabing",
         "planned_at": "2026-11-09T22:08:06.647098+00:00"
-      },
-      "claim": {
-        "worker_id": "fef0c7dfba93461ea21f68c1c38b8b64-shard-0",
-        "claimed_at": "2026-11-09T22:08:07.004548+00:00",
-        "lease_expires_at": "2026-11-10T04:08:07.004548+00:00",
-        "run_id": "42692268094"
       }
     },
     "23229": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31434447",
+        "display_name": "Quigley Down Under 1080p CZ Dabing",
+        "planned_at": "2026-11-09T22:08:52.328170+00:00"
+      }
     },
     "19120": {
       "attempts": []
@@ -156153,5 +156166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:08:50.103227+00:00"
+  "updated_at": "2026-11-09T22:08:53.246246+00:00"
 }
