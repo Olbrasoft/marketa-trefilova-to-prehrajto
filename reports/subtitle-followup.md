@@ -574,3 +574,4 @@ Attach subtitles only after target processing has finished.
 | The Bird with the Crystal Plumage 1080p CZ Titulky | 30935313 | https://sdilej.cz/32587629/the.bird.with.the.crystal.plumage.1970.1080p.bluray.ac3.x264-majo.mkv | Extract Czech track from exact source after processing |
 | The Irishman: In Conversation 1080p CZ Titulky | 30937553 | https://sdilej.cz/12740016/the.irishman.in.conversation.2019.1080p.nf.web-dl.ddp5.1.x264-pawel2006.mkv | Extract Czech track from exact source after processing |
 | Silkwood 1080p CZ Titulky | 30937630 | https://sdilej.cz/34580846/silkwood.1983.1080p.bluray.x264-oft.mkv | Extract Czech track from exact source after processing |
+| Red Rooms (Les Chambres rouges) SD CZ Titulky | 30937795 | https://sdilej.cz/33393273/les-chambres-rouges-2023-bdrip-cz.tit.mkv | Extract Czech track from exact source after processing |
