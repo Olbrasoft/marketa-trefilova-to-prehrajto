@@ -92966,21 +92966,34 @@
       }
     },
     "2484": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34446792",
+          "reason": "Request failed for https://sdilej.cz/34446792/strasidelne-vanoce-1988-fantasy-komedie-czdab.bluray.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-09T10:29:45.651146+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34446792",
         "display_name": "Scrooged 1080p CZ Dabing",
         "planned_at": "2026-11-09T10:28:59.145122+00:00"
-      },
-      "claim": {
-        "worker_id": "8d30c403bf9947df85d4641a36db9962-shard-0",
-        "claimed_at": "2026-11-09T10:28:59.494227+00:00",
-        "lease_expires_at": "2026-11-09T16:28:59.494227+00:00",
-        "run_id": "42574443311"
       }
     },
     "17975": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35048055",
+        "display_name": "Frankenweenie SD CZ Dabing",
+        "planned_at": "2026-11-09T10:29:42.183853+00:00"
+      },
+      "claim": {
+        "worker_id": "01af9e29b95c41c0a787e584a4b86f4f-shard-0",
+        "claimed_at": "2026-11-09T10:29:42.533578+00:00",
+        "lease_expires_at": "2026-11-09T16:29:42.533578+00:00",
+        "run_id": "42574443311"
+      }
     },
     "2530": {
       "attempts": []
@@ -151585,5 +151598,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:28:59.494246+00:00"
+  "updated_at": "2026-11-09T10:29:45.651164+00:00"
 }
