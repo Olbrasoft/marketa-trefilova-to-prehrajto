@@ -95973,17 +95973,19 @@
       }
     },
     "13842": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34128939",
+          "target_video_id": "30954206",
+          "permanent": false,
+          "attempted_at": "2026-11-09T21:10:53.297952+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34128939",
         "display_name": "Frequently Asked Questions About Time Travel 1080p CZ Dabing",
         "planned_at": "2026-11-09T21:06:59.911536+00:00"
-      },
-      "claim": {
-        "worker_id": "2b9c6e1f61464675a99c5b1b8fd1b8f9-shard-0",
-        "claimed_at": "2026-11-09T21:07:00.314353+00:00",
-        "lease_expires_at": "2026-11-10T03:07:00.314353+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30954206",
       "prepared": {
@@ -155607,5 +155609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:07:04.863381+00:00"
+  "updated_at": "2026-11-09T21:10:53.297969+00:00"
 }
