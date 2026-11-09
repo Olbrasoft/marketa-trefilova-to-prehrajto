@@ -94425,17 +94425,19 @@
       }
     },
     "23220": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28187845",
+          "target_video_id": "30948148",
+          "permanent": false,
+          "attempted_at": "2026-11-09T15:54:41.964351+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28187845",
         "display_name": "My Own Private Idaho 1080p CZ Dabing",
         "planned_at": "2026-11-09T15:42:05.669663+00:00"
-      },
-      "claim": {
-        "worker_id": "d4653b66da644ba4b2d532cbceca2bc8-shard-0",
-        "claimed_at": "2026-11-09T15:42:06.138137+00:00",
-        "lease_expires_at": "2026-11-09T21:42:06.138137+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30948148",
       "prepared": {
@@ -154116,5 +154118,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T15:47:27.419648+00:00"
+  "updated_at": "2026-11-09T15:54:41.964369+00:00"
 }
