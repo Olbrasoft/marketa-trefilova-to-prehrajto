@@ -47049,13 +47049,6 @@
           "source_id": "35147292",
           "target_video_id": "30771541",
           "permanent": false,
-          "attempted_at": "2026-11-08T22:49:10.754299+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35147292",
-          "target_video_id": "30771541",
-          "permanent": false,
           "attempted_at": "2026-11-08T23:19:15.764129+00:00"
         },
         {
@@ -47064,12 +47057,19 @@
           "target_video_id": "30771541",
           "permanent": false,
           "attempted_at": "2026-11-08T23:53:18.413352+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35147292",
+          "target_video_id": "30771541",
+          "permanent": false,
+          "attempted_at": "2026-11-09T00:23:23.297627+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-08T23:53:15.545718+00:00"
+        "planned_at": "2026-11-09T00:23:20.340689+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -91857,10 +91857,21 @@
         "source_id": "25790551",
         "display_name": "Non-Stop 1080p CZ Dabing",
         "planned_at": "2026-11-09T00:23:18.434601+00:00"
+      },
+      "claim": {
+        "worker_id": "3191a21b8dbe4004b60e235de51fa6f5-shard-0",
+        "claimed_at": "2026-11-09T00:23:20.161537+00:00",
+        "lease_expires_at": "2026-11-09T06:23:20.161537+00:00",
+        "run_id": "42519750852"
       }
     },
     "2748": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34355483",
+        "display_name": "Ice Age: Dawn of the Dinosaurs 4K CZ Dabing",
+        "planned_at": "2026-11-09T00:23:20.571649+00:00"
+      }
     },
     "2707": {
       "attempts": []
@@ -147846,5 +147857,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:23:18.434617+00:00"
+  "updated_at": "2026-11-09T00:23:23.297646+00:00"
 }
