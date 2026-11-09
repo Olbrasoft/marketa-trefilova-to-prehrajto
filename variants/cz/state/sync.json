@@ -93440,17 +93440,19 @@
       "attempts": []
     },
     "17964": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24778766",
+          "target_video_id": "30945959",
+          "permanent": false,
+          "attempted_at": "2026-11-09T12:54:54.715867+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24778766",
         "display_name": "Big Eyes SD CZ Dabing",
         "planned_at": "2026-11-09T12:52:05.807982+00:00"
-      },
-      "claim": {
-        "worker_id": "c13cfee124b749a1b4b770c7b5c742cc-shard-0",
-        "claimed_at": "2026-11-09T12:52:06.251529+00:00",
-        "lease_expires_at": "2026-11-09T18:52:06.251529+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30945959",
       "prepared": {
@@ -152512,5 +152514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T12:54:50.607331+00:00"
+  "updated_at": "2026-11-09T12:54:54.715883+00:00"
 }
