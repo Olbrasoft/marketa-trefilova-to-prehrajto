@@ -556,7 +556,7 @@ Attach subtitles only after target processing has finished.
 | The Apprentice 1080p CZ Titulky | 30923866 | https://sdilej.cz/30068885/the.apprentice-2024-cztit-v-obraze-1080p.mkv | Complete: Czech subtitles verified |
 | Missing 1080p CZ Titulky | 30924110 | https://sdilej.cz/26638719/missing-nezvestna-2023-cz-tit-1080p.mkv | Complete: Czech subtitles verified |
 | Leave No Trace 1080p CZ Titulky | 30924237 | https://sdilej.cz/10537087/leave.no.trace.2018.1080p.web-dl.hevc.x265.cz.titulky.mkv | Complete: Czech subtitles verified |
-| The Upside 1080p CZ Titulky | 30924343 | https://sdilej.cz/11701537/the.upside.2017.1080p.bluray.h264.aac.cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Upside 1080p CZ Titulky | 30924343 | https://sdilej.cz/11701537/the.upside.2017.1080p.bluray.h264.aac.cz-titulky.mkv | Complete: Czech subtitles verified |
 | First Reformed 720p CZ Titulky | 30926271 | https://sdilej.cz/16593855/first-reformed-zoufalstvi-a-nadeje-en-5.1-cz-en-tit.mkv | Extract Czech track from exact source after processing |
 | The Call (Kol) (2020) 1080p CZ Titulky | 30927286 | https://sdilej.cz/14779637/the.call.2020.1080p.nf.web-dl.ddp5.1.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | One Deadly Summer 720p CZ Titulky | 30927761 | https://sdilej.cz/30088993/vrazedne-leto-l-ete-meurtrier-1983-frczensub.mkv | Complete: Czech subtitles verified |
