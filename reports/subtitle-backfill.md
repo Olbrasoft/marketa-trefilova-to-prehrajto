@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-09T21:10:34.919062+00:00
+Poslední aktualizace (UTC): 2026-11-09T21:10:43.119026+00:00
 
 Zkontrolováno videí: 593. Další stránka kontroly: 0.
 
@@ -99,7 +99,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 50. Důvod
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-09T10:26:37.725104+00:00 |
 | [Silkwood 1080p CZ Titulky](https://prehraj.to/silkwood-1080p-cz-titulky-mkv/c4212bc6891f1e16) (ID 30937630) | [Sdílej 34580846](https://sdilej.cz/34580846/silkwood.1983.1080p.bluray.x264-oft.mkv) | target_unavailable | 2026-11-09T10:36:06.105729+00:00 |
 | [South Park: The End of Obesity 1080p CZ Titulky](https://prehraj.to/south-park-the-end-of-obesity-1080p-cz-titulky-mkv/610313c9dea65940) (ID 30952822) | [Sdílej 29078716](https://sdilej.cz/29078716/south-park-the-end-of-obesity-2024-cz-titulky.mkv) | target_unavailable | 2026-11-09T19:29:21.806777+00:00 |
-| [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-09T10:17:21.035406+00:00 |
+| [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-09T21:10:43.118955+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-09T10:17:33.403930+00:00 |
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-09T21:09:52.298309+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | upload_unconfirmed | 2026-11-09T21:10:00.591878+00:00 |
