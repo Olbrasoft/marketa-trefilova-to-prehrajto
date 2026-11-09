@@ -94335,17 +94335,19 @@
       }
     },
     "17961": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34419336",
+          "target_video_id": "30947776",
+          "permanent": false,
+          "attempted_at": "2026-11-09T15:22:14.353951+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34419336",
         "display_name": "Free State of Jones 1080p CZ Dabing",
         "planned_at": "2026-11-09T15:10:57.975807+00:00"
-      },
-      "claim": {
-        "worker_id": "1fc5103ae23343119e3e2cebc04ce518-shard-0",
-        "claimed_at": "2026-11-09T15:10:58.344384+00:00",
-        "lease_expires_at": "2026-11-09T21:10:58.344384+00:00",
-        "run_id": "42608486502"
       },
       "previous_target_id": "30947776",
       "prepared": {
@@ -153786,5 +153788,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T15:11:02.403822+00:00"
+  "updated_at": "2026-11-09T15:22:14.353967+00:00"
 }
