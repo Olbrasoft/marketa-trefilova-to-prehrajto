@@ -43123,7 +43123,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrinth 4K CZ Dabing",
-        "planned_at": "2026-11-09T21:34:32.908695+00:00"
+        "planned_at": "2026-11-09T22:05:57.638978+00:00"
       },
       "previous_target_id": "30756113",
       "prepared": {
@@ -43131,6 +43131,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-03T08:20:54.807935+00:00",
         "relay_source_id": "34146117"
+      },
+      "claim": {
+        "worker_id": "95315909022e4ac2b175982292d768fe-shard-0",
+        "claimed_at": "2026-11-09T22:05:58.717563+00:00",
+        "lease_expires_at": "2026-11-10T04:05:58.717563+00:00",
+        "run_id": "42692268094"
       }
     },
     "20525": {
@@ -46001,13 +46007,6 @@
           "source_id": "27568018",
           "target_video_id": "30768107",
           "permanent": false,
-          "attempted_at": "2026-11-09T19:47:01.617104+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27568018",
-          "target_video_id": "30768107",
-          "permanent": false,
           "attempted_at": "2026-11-09T21:02:41.351949+00:00"
         },
         {
@@ -46016,6 +46015,13 @@
           "target_video_id": "30768107",
           "permanent": false,
           "attempted_at": "2026-11-09T21:34:34.124838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27568018",
+          "target_video_id": "30768107",
+          "permanent": false,
+          "attempted_at": "2026-11-09T22:05:59.238973+00:00"
         }
       ],
       "last_plan": {
@@ -96598,7 +96604,13 @@
       "last_plan": {
         "source_id": "14809365",
         "display_name": "Blinded by the Light SD CZ Dabing",
-        "planned_at": "2026-11-09T22:05:55.316973+00:00"
+        "planned_at": "2026-11-09T22:05:57.919271+00:00"
+      },
+      "claim": {
+        "worker_id": "3a5583aa5adc450d862807d8d30d2bc4-shard-0",
+        "claimed_at": "2026-11-09T22:05:58.480712+00:00",
+        "lease_expires_at": "2026-11-10T04:05:58.480712+00:00",
+        "run_id": "42692268094"
       }
     },
     "25690": {
@@ -96608,7 +96620,12 @@
       "attempts": []
     },
     "29964": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "25838576",
+        "display_name": "Calendar Girls SD CZ Dabing",
+        "planned_at": "2026-11-09T22:05:58.091060+00:00"
+      }
     },
     "23027": {
       "attempts": []
@@ -156116,5 +156133,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:05:55.317002+00:00"
+  "updated_at": "2026-11-09T22:05:59.239000+00:00"
 }
