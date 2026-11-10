@@ -102645,21 +102645,34 @@
       }
     },
     "2573": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "19698095",
+          "reason": "Source detail has no authenticated download link; source_id=19698095",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:08:35.971131+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19698095",
         "display_name": "Love Affair(s) (Les choses qu'on dit, les choses qu'on fait) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:08:29.659720+00:00"
-      },
-      "claim": {
-        "worker_id": "1d42159847bc4a45a71180415882b985-shard-0",
-        "claimed_at": "2026-11-10T10:08:30.152547+00:00",
-        "lease_expires_at": "2026-11-10T16:08:30.152547+00:00",
-        "run_id": "42790251611"
       }
     },
     "15912": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13128193",
+        "display_name": "On the Job 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:08:34.874377+00:00"
+      },
+      "claim": {
+        "worker_id": "49a957b269114864aa346bad97f8cc0c-shard-0",
+        "claimed_at": "2026-11-10T10:08:35.242675+00:00",
+        "lease_expires_at": "2026-11-10T16:08:35.242675+00:00",
+        "run_id": "42790251611"
+      }
     },
     "30573": {
       "attempts": []
@@ -160979,5 +160992,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:08:32.049924+00:00"
+  "updated_at": "2026-11-10T10:08:35.971148+00:00"
 }
