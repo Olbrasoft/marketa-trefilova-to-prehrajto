@@ -27385,13 +27385,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-10T02:30:44.331740+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-10T03:04:20.850460+00:00"
         },
         {
@@ -27400,12 +27393,19 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-10T03:40:30.958221+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-10T04:16:27.497283+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
-        "planned_at": "2026-11-10T03:40:26.771145+00:00"
+        "planned_at": "2026-11-10T04:16:25.036590+00:00"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -99874,11 +99874,22 @@
       "last_plan": {
         "source_id": "26047091",
         "display_name": "Aurora Teagarden Mysteries: An Inheritance to Die For 1080p CZ Dabing",
-        "planned_at": "2026-11-10T04:16:19.649917+00:00"
+        "planned_at": "2026-11-10T04:16:25.333016+00:00"
+      },
+      "claim": {
+        "worker_id": "c8de3b3be8214fa3a58b8134809226fb-shard-0",
+        "claimed_at": "2026-11-10T04:16:26.040405+00:00",
+        "lease_expires_at": "2026-11-10T10:16:26.040405+00:00",
+        "run_id": "42729980423"
       }
     },
     "30117": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34712971",
+        "display_name": "Hell Is for Heroes 1080p CZ Dabing",
+        "planned_at": "2026-11-10T04:16:25.500275+00:00"
+      }
     },
     "11003": {
       "attempts": []
@@ -158813,5 +158824,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T04:16:22.989400+00:00"
+  "updated_at": "2026-11-10T04:16:27.497310+00:00"
 }
