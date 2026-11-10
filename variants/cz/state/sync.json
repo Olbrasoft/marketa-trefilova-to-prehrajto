@@ -99718,17 +99718,19 @@
       }
     },
     "13524": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34681251",
+          "target_video_id": "30961518",
+          "permanent": false,
+          "attempted_at": "2026-11-10T04:11:34.479985+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34681251",
         "display_name": "Our Fathers 1080p CZ Dabing",
         "planned_at": "2026-11-10T03:55:51.510203+00:00"
-      },
-      "claim": {
-        "worker_id": "c55f5f7630524996b10271ff39f5fb0a-shard-0",
-        "claimed_at": "2026-11-10T03:55:51.940520+00:00",
-        "lease_expires_at": "2026-11-10T09:55:51.940520+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30961518",
       "prepared": {
@@ -158798,5 +158800,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T04:06:21.908223+00:00"
+  "updated_at": "2026-11-10T04:11:34.480012+00:00"
 }
