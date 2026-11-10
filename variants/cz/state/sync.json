@@ -119488,17 +119488,19 @@
       }
     },
     "3040": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7542835",
+          "target_video_id": "30985047",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:40:25.079825+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7542835",
         "display_name": "Denial SD CZ Dabing",
         "planned_at": "2026-11-10T18:39:41.989012+00:00"
-      },
-      "claim": {
-        "worker_id": "3314dd68d9444f18b8dfac98d7b732b5-shard-0",
-        "claimed_at": "2026-11-10T18:39:44.156234+00:00",
-        "lease_expires_at": "2026-11-11T00:39:44.156234+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985047",
       "prepared": {
@@ -175197,5 +175199,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:40:23.530808+00:00"
+  "updated_at": "2026-11-10T18:40:25.079862+00:00"
 }
