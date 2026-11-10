@@ -111020,7 +111020,7 @@
       "last_plan": {
         "source_id": "34952768",
         "display_name": "Hotel (Hôtel) (2013) 720p CZ Dabing",
-        "planned_at": "2026-11-10T19:02:26.497362+00:00"
+        "planned_at": "2026-11-10T19:34:34.254159+00:00"
       },
       "previous_target_id": "30983806",
       "prepared": {
@@ -111028,6 +111028,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T14:51:02.683791+00:00",
         "relay_source_id": "34952768"
+      },
+      "claim": {
+        "worker_id": "c06fc6ce4fd042c8977d072b6007a63c-shard-0",
+        "claimed_at": "2026-11-10T19:34:34.851171+00:00",
+        "lease_expires_at": "2026-11-11T01:34:34.851171+00:00",
+        "run_id": "42864255663"
       }
     },
     "13010": {
@@ -112970,13 +112976,6 @@
           "source_id": "33199372",
           "target_video_id": "30984053",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:02:06.152789+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33199372",
-          "target_video_id": "30984053",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:32:21.357549+00:00"
         },
         {
@@ -112985,6 +112984,13 @@
           "target_video_id": "30984053",
           "permanent": false,
           "attempted_at": "2026-11-10T19:02:27.592643+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33199372",
+          "target_video_id": "30984053",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:34:35.170123+00:00"
         }
       ],
       "last_plan": {
@@ -112998,12 +113004,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T15:21:11.415854+00:00",
         "relay_source_id": "33199372"
-      },
-      "claim": {
-        "worker_id": "5c98ece15abc455ea95288f0731f5794-shard-0",
-        "claimed_at": "2026-11-10T19:34:31.169267+00:00",
-        "lease_expires_at": "2026-11-11T01:34:31.169267+00:00",
-        "run_id": "42864255663"
       }
     },
     "3067": {
@@ -121678,7 +121678,7 @@
       "last_plan": {
         "source_id": "32965631",
         "display_name": "The Mustang 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:34:30.807025+00:00"
+        "planned_at": "2026-11-10T19:34:34.517992+00:00"
       }
     },
     "32312": {
@@ -177124,5 +177124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:34:32.480929+00:00"
+  "updated_at": "2026-11-10T19:34:35.170142+00:00"
 }
