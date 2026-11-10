@@ -115363,13 +115363,6 @@
           "source_id": "34858393",
           "target_video_id": "30984643",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:53:59.392036+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34858393",
-          "target_video_id": "30984643",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:28:09.734735+00:00"
         },
         {
@@ -115378,6 +115371,13 @@
           "target_video_id": "30984643",
           "permanent": false,
           "attempted_at": "2026-11-10T22:04:01.514389+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34858393",
+          "target_video_id": "30984643",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:44:29.742695+00:00"
         }
       ],
       "last_plan": {
@@ -120819,7 +120819,7 @@
       "last_plan": {
         "source_id": "33730801",
         "display_name": "River's Edge 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:04:00.362381+00:00"
+        "planned_at": "2026-11-10T22:44:28.406382+00:00"
       },
       "previous_target_id": "30985060",
       "prepared": {
@@ -120827,6 +120827,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:46:03.380991+00:00",
         "relay_source_id": "33730801"
+      },
+      "claim": {
+        "worker_id": "6e78d31f3cd041d1b9c90ecb7eab4afa-shard-0",
+        "claimed_at": "2026-11-10T22:44:29.140476+00:00",
+        "lease_expires_at": "2026-11-11T04:44:29.140476+00:00",
+        "run_id": "42904278669"
       }
     },
     "11205": {
@@ -125069,7 +125075,7 @@
       "last_plan": {
         "source_id": "20219827",
         "display_name": "Purgatory (1999) SD CZ Dabing",
-        "planned_at": "2026-11-10T22:44:25.921733+00:00"
+        "planned_at": "2026-11-10T22:44:28.719312+00:00"
       }
     },
     "2839": {
@@ -179963,5 +179969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:44:26.167176+00:00"
+  "updated_at": "2026-11-10T22:44:29.742715+00:00"
 }
