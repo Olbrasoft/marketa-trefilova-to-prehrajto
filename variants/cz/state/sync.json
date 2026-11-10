@@ -103452,16 +103452,51 @@
       }
     },
     "23486": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30991920",
+        "display_name": "Colonel Chabert 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:11:23.781236+00:00"
+      },
+      "claim": {
+        "worker_id": "fdffab0ae6db4243aacccc55eac7d216-shard-0",
+        "claimed_at": "2026-11-10T10:11:24.475909+00:00",
+        "lease_expires_at": "2026-11-10T16:11:24.475909+00:00",
+        "run_id": "42790251611"
+      }
     },
     "11001": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27435046",
+        "display_name": "Case for a Rookie Hangman (Případ pro začínajícího kata) 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:11:23.942944+00:00"
+      },
+      "claim": {
+        "worker_id": "0aa7756057f54a4e8a757d38cd1edcdd-shard-0",
+        "claimed_at": "2026-11-10T10:11:24.789022+00:00",
+        "lease_expires_at": "2026-11-10T16:11:24.789022+00:00",
+        "run_id": "42790251611"
+      }
     },
     "14364": {
       "attempts": []
     },
     "36988": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31441611",
+          "reason": "Source detail has no authenticated download link; source_id=31441611",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:11:27.025094+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "31441611",
+        "display_name": "Wisdom of Happiness 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:11:24.103141+00:00"
+      }
     },
     "2367": {
       "attempts": []
@@ -161508,5 +161543,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:11:20.459196+00:00"
+  "updated_at": "2026-11-10T10:11:27.025114+00:00"
 }
