@@ -114294,7 +114294,7 @@
       "last_plan": {
         "source_id": "31650158",
         "display_name": "Cruel Intentions 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:10:26.407642+00:00"
+        "planned_at": "2026-11-10T17:40:46.202160+00:00"
       },
       "previous_target_id": "30984298",
       "prepared": {
@@ -114302,6 +114302,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T16:01:35.764114+00:00",
         "relay_source_id": "31650158"
+      },
+      "claim": {
+        "worker_id": "b1c962b2edf748f5a71396cd3362ba85-shard-0",
+        "claimed_at": "2026-11-10T17:40:46.986328+00:00",
+        "lease_expires_at": "2026-11-10T23:40:46.986328+00:00",
+        "run_id": "42823888331"
       }
     },
     "3155": {
@@ -116164,17 +116170,19 @@
       "attempts": []
     },
     "2799": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33668270",
+          "target_video_id": "30984788",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:40:47.716551+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33668270",
         "display_name": "Bringing Out the Dead 4K CZ Dabing",
         "planned_at": "2026-11-10T17:40:07.309278+00:00"
-      },
-      "claim": {
-        "worker_id": "18ec2577c97e4fb4b6f6f5952bb8340b-shard-0",
-        "claimed_at": "2026-11-10T17:40:07.764218+00:00",
-        "lease_expires_at": "2026-11-10T23:40:07.764218+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984788",
       "prepared": {
@@ -116210,7 +116218,7 @@
       "last_plan": {
         "source_id": "23231991",
         "display_name": "DC League of Super-Pets 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:40:41.254553+00:00"
+        "planned_at": "2026-11-10T17:40:46.532200+00:00"
       }
     },
     "13503": {
@@ -172249,5 +172257,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:40:42.921439+00:00"
+  "updated_at": "2026-11-10T17:40:47.716567+00:00"
 }
