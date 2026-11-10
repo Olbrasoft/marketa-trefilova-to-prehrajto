@@ -22286,13 +22286,6 @@
           "source_id": "18074667",
           "target_video_id": "30692683",
           "permanent": false,
-          "attempted_at": "2026-11-10T04:16:07.476337+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074667",
-          "target_video_id": "30692683",
-          "permanent": false,
           "attempted_at": "2026-11-10T04:51:13.369208+00:00"
         },
         {
@@ -22301,6 +22294,13 @@
           "target_video_id": "30692683",
           "permanent": false,
           "attempted_at": "2026-11-10T05:37:33.639528+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074667",
+          "target_video_id": "30692683",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:12:04.859104+00:00"
         }
       ],
       "last_plan": {
@@ -80045,7 +80045,7 @@
       "last_plan": {
         "source_id": "28771706",
         "display_name": "Waitress 1080p CZ Dabing",
-        "planned_at": "2026-11-10T05:37:33.791093+00:00"
+        "planned_at": "2026-11-10T06:12:03.742561+00:00"
       },
       "previous_target_id": "30899097",
       "prepared": {
@@ -80053,6 +80053,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-07T21:32:39.846982+00:00",
         "relay_source_id": "28771706"
+      },
+      "claim": {
+        "worker_id": "3eeb7bd9ebe04c02877492e2dc465237-shard-0",
+        "claimed_at": "2026-11-10T06:12:04.300271+00:00",
+        "lease_expires_at": "2026-11-10T12:12:04.300271+00:00",
+        "run_id": "42761712557"
       }
     },
     "2305": {
@@ -100511,7 +100517,7 @@
       "last_plan": {
         "source_id": "18515704",
         "display_name": "Promise Me This (Завет) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:12:01.711847+00:00"
+        "planned_at": "2026-11-10T06:12:03.984726+00:00"
       }
     },
     "22238": {
@@ -159348,5 +159354,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:12:01.982134+00:00"
+  "updated_at": "2026-11-10T06:12:04.859123+00:00"
 }
