@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:47:58.667776+00:00"
+        "planned_at": "2026-11-10T19:20:08.273256+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "101833eb8f4642719f35e93724ef7bc2-shard-0",
+        "claimed_at": "2026-11-10T19:20:08.867827+00:00",
+        "lease_expires_at": "2026-11-11T01:20:08.867827+00:00",
+        "run_id": "42864255663"
       }
     },
     "52": {
@@ -109451,13 +109457,6 @@
           "source_id": "35067153",
           "target_video_id": "30983691",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:45:56.202252+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35067153",
-          "target_video_id": "30983691",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:17:05.218955+00:00"
         },
         {
@@ -109466,6 +109465,13 @@
           "target_video_id": "30983691",
           "permanent": false,
           "attempted_at": "2026-11-10T18:47:55.857703+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35067153",
+          "target_video_id": "30983691",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:20:09.135074+00:00"
         }
       ],
       "last_plan": {
@@ -109479,12 +109485,6 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:35:21.741504+00:00",
         "relay_source_id": "35067153"
-      },
-      "claim": {
-        "worker_id": "aec42d34c9a94291a322b21c6b2487c2-shard-0",
-        "claimed_at": "2026-11-10T19:20:05.832503+00:00",
-        "lease_expires_at": "2026-11-11T01:20:05.832503+00:00",
-        "run_id": "42864255663"
       }
     },
     "24095": {
@@ -109522,6 +109522,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T14:35:23.576048+00:00",
         "relay_source_id": "29678156"
+      },
+      "claim": {
+        "worker_id": "772a58565bba4dd8936c1daa7877666d-shard-0",
+        "claimed_at": "2026-11-10T19:20:07.980116+00:00",
+        "lease_expires_at": "2026-11-11T01:20:07.980116+00:00",
+        "run_id": "42864255663"
       }
     },
     "12054": {
@@ -121190,7 +121196,7 @@
       "last_plan": {
         "source_id": "5498626",
         "display_name": "Intermission SD CZ Dabing",
-        "planned_at": "2026-11-10T19:20:06.279875+00:00"
+        "planned_at": "2026-11-10T19:20:08.535914+00:00"
       }
     },
     "2961": {
@@ -176683,5 +176689,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:20:06.279894+00:00"
+  "updated_at": "2026-11-10T19:20:09.135094+00:00"
 }
