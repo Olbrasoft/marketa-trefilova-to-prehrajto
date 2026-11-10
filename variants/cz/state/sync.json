@@ -28937,13 +28937,6 @@
           "source_id": "26168393",
           "target_video_id": "30721201",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:54:34.327828+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168393",
-          "target_video_id": "30721201",
-          "permanent": false,
           "attempted_at": "2026-11-10T13:28:34.253497+00:00"
         },
         {
@@ -28952,6 +28945,13 @@
           "target_video_id": "30721201",
           "permanent": false,
           "attempted_at": "2026-11-10T14:06:41.057275+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168393",
+          "target_video_id": "30721201",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:36:54.382146+00:00"
         }
       ],
       "last_plan": {
@@ -28965,12 +28965,6 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
-      },
-      "claim": {
-        "worker_id": "d29cf6230b4b46fb8963ab1b6ccf93a9-shard-0",
-        "claimed_at": "2026-11-10T14:36:52.047872+00:00",
-        "lease_expires_at": "2026-11-10T20:36:52.047872+00:00",
-        "run_id": "42823888331"
       }
     },
     "23584": {
@@ -47075,7 +47069,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:06:42.954415+00:00"
+        "planned_at": "2026-11-10T14:36:53.833995+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -108689,7 +108683,7 @@
       "last_plan": {
         "source_id": "29985485",
         "display_name": "Spravedlnost pro Selvina 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:36:50.114233+00:00"
+        "planned_at": "2026-11-10T14:36:54.134667+00:00"
       }
     },
     "27191": {
@@ -108708,7 +108702,12 @@
       "attempts": []
     },
     "12647": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34634766",
+        "display_name": "Andula Won (Andula vyhrála) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:36:54.555091+00:00"
+      }
     },
     "34717": {
       "attempts": []
@@ -165568,5 +165567,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:36:52.047904+00:00"
+  "updated_at": "2026-11-10T14:36:54.555107+00:00"
 }
