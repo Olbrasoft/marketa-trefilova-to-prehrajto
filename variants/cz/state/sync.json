@@ -111356,17 +111356,19 @@
       }
     },
     "3087": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11544873",
+          "target_video_id": "30984008",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:16:01.368408+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11544873",
         "display_name": "Spectre 4K CZ Dabing",
         "planned_at": "2026-11-10T15:14:35.602275+00:00"
-      },
-      "claim": {
-        "worker_id": "f46f8a4235ce4a3cbb09ff4eaf519c0d-shard-0",
-        "claimed_at": "2026-11-10T15:14:35.994535+00:00",
-        "lease_expires_at": "2026-11-10T21:14:35.994535+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984008",
       "prepared": {
@@ -167811,5 +167813,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:14:45.735842+00:00"
+  "updated_at": "2026-11-10T15:16:01.368424+00:00"
 }
