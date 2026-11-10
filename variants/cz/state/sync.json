@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "914cbf753e294dcc96d2846128539757-shard-0",
+        "claimed_at": "2026-11-10T18:54:01.046600+00:00",
+        "lease_expires_at": "2026-11-11T00:54:01.046600+00:00",
+        "run_id": "42864255663"
       }
     },
     "37290": {
@@ -109833,13 +109839,6 @@
           "source_id": "34885981",
           "target_video_id": "30983734",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:21:51.741427+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34885981",
-          "target_video_id": "30983734",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:52:07.091103+00:00"
         },
         {
@@ -109848,12 +109847,19 @@
           "target_video_id": "30983734",
           "permanent": false,
           "attempted_at": "2026-11-10T18:23:31.282939+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34885981",
+          "target_video_id": "30983734",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:54:03.327049+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34885981",
         "display_name": "The Beggar's Opera (Žebrácká opera) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:23:25.541769+00:00"
+        "planned_at": "2026-11-10T18:54:01.262472+00:00"
       },
       "previous_target_id": "30983734",
       "prepared": {
@@ -120071,7 +120077,7 @@
       "last_plan": {
         "source_id": "33197960",
         "display_name": "Justice League: The New Frontier SD CZ Dabing",
-        "planned_at": "2026-11-10T18:53:59.208326+00:00"
+        "planned_at": "2026-11-10T18:54:01.522336+00:00"
       }
     },
     "10896": {
@@ -175693,5 +175699,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:53:59.542677+00:00"
+  "updated_at": "2026-11-10T18:54:03.327066+00:00"
 }
