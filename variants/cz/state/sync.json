@@ -110806,13 +110806,6 @@
           "source_id": "26697838",
           "target_video_id": "30983795",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:04:15.933043+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26697838",
-          "target_video_id": "30983795",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:38:10.726053+00:00"
         },
         {
@@ -110821,6 +110814,13 @@
           "target_video_id": "30983795",
           "permanent": false,
           "attempted_at": "2026-11-10T21:10:41.264137+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26697838",
+          "target_video_id": "30983795",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:44:21.995209+00:00"
         }
       ],
       "last_plan": {
@@ -119450,7 +119450,7 @@
       "last_plan": {
         "source_id": "33677451",
         "display_name": "Frankie and Johnny 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:10:42.791196+00:00"
+        "planned_at": "2026-11-10T21:44:19.795751+00:00"
       },
       "previous_target_id": "30984982",
       "prepared": {
@@ -119458,6 +119458,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T18:26:42.508353+00:00",
         "relay_source_id": "33677451"
+      },
+      "claim": {
+        "worker_id": "080b92eedcf840b7b3a10919c9b28453-shard-0",
+        "claimed_at": "2026-11-10T21:44:20.388489+00:00",
+        "lease_expires_at": "2026-11-11T03:44:20.388489+00:00",
+        "run_id": "42864255663"
       }
     },
     "14429": {
@@ -123910,7 +123916,7 @@
       "last_plan": {
         "source_id": "29875663",
         "display_name": "Angel and the Badman SD CZ Dabing",
-        "planned_at": "2026-11-10T21:44:17.754653+00:00"
+        "planned_at": "2026-11-10T21:44:20.059110+00:00"
       }
     },
     "18709": {
@@ -179056,5 +179062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:44:17.754670+00:00"
+  "updated_at": "2026-11-10T21:44:21.995225+00:00"
 }
