@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-10T21:22:41.107254+00:00"
+        "planned_at": "2026-11-10T21:58:27.174754+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "9e2ebfd7811e4de89e3e9b57c4f1548a-shard-0",
+        "claimed_at": "2026-11-10T21:58:27.800317+00:00",
+        "lease_expires_at": "2026-11-11T03:58:27.800317+00:00",
+        "run_id": "42864255663"
       }
     },
     "29922": {
@@ -124200,17 +124206,19 @@
       "attempts": []
     },
     "3011": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16799155",
+          "target_video_id": "30985789",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:59:22.839584+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16799155",
         "display_name": "The Bachelors 720p CZ Dabing",
         "planned_at": "2026-11-10T21:56:50.209394+00:00"
-      },
-      "claim": {
-        "worker_id": "9e60cfacde094a5fbd27aeb83a003da1-shard-0",
-        "claimed_at": "2026-11-10T21:56:50.865910+00:00",
-        "lease_expires_at": "2026-11-11T03:56:50.865910+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985789",
       "prepared": {
@@ -124231,7 +124239,7 @@
       "last_plan": {
         "source_id": "32691984",
         "display_name": "Back to Burgundy (Ce qui nous lie) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:58:24.137885+00:00"
+        "planned_at": "2026-11-10T21:58:27.440145+00:00"
       }
     },
     "36613": {
@@ -179302,5 +179310,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:58:25.630162+00:00"
+  "updated_at": "2026-11-10T21:59:22.839599+00:00"
 }
