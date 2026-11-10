@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:12:26.022231+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:43:18.137456+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-10T19:14:46.001432+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:47:07.394041+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "38b80edb4b9d424a99a7dd18c2037cee-shard-0",
-        "claimed_at": "2026-11-10T19:47:04.429339+00:00",
-        "lease_expires_at": "2026-11-11T01:47:04.429339+00:00",
-        "run_id": "42864255663"
       }
     },
     "10755": {
@@ -17409,7 +17403,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-10T19:14:44.980559+00:00"
+        "planned_at": "2026-11-10T19:47:06.503064+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17417,6 +17411,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "11a16ed852a14ab5aa079720b604ad3e-shard-0",
+        "claimed_at": "2026-11-10T19:47:07.144837+00:00",
+        "lease_expires_at": "2026-11-11T01:47:07.144837+00:00",
+        "run_id": "42864255663"
       }
     },
     "23132": {
@@ -122004,7 +122004,7 @@
       "last_plan": {
         "source_id": "34911142",
         "display_name": "The Girl in the Fog (La ragazza nella nebbia) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:47:04.076657+00:00"
+        "planned_at": "2026-11-10T19:47:06.768564+00:00"
       }
     },
     "25109": {
@@ -177435,5 +177435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:47:04.901500+00:00"
+  "updated_at": "2026-11-10T19:47:07.394061+00:00"
 }
