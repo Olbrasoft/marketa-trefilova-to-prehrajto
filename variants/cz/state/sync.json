@@ -117722,6 +117722,13 @@
           "target_video_id": "30984864",
           "permanent": false,
           "attempted_at": "2026-11-10T17:58:17.481770+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29278547",
+          "target_video_id": "30984864",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:28:32.295555+00:00"
         }
       ],
       "last_plan": {
@@ -117732,15 +117739,9 @@
       "previous_target_id": "30984864",
       "prepared": {
         "target_video_id": "30984864",
-        "size_bytes": 2298497058,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
-      },
-      "claim": {
-        "worker_id": "248dc98c02ec415abdb3a4c30bfc6ce9-shard-0",
-        "claimed_at": "2026-11-10T18:28:26.054346+00:00",
-        "lease_expires_at": "2026-11-11T00:28:26.054346+00:00",
-        "run_id": "42864255663"
       }
     },
     "12374": {
@@ -118699,7 +118700,13 @@
       "last_plan": {
         "source_id": "33119817",
         "display_name": "Champions (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:28:25.698713+00:00"
+        "planned_at": "2026-11-10T18:28:28.388968+00:00"
+      },
+      "claim": {
+        "worker_id": "d7c4b51d63eb4c16aa753acf406bc448-shard-0",
+        "claimed_at": "2026-11-10T18:28:28.859088+00:00",
+        "lease_expires_at": "2026-11-11T00:28:28.859088+00:00",
+        "run_id": "42864255663"
       }
     },
     "16691": {
@@ -174470,5 +174477,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:28:26.546377+00:00"
+  "updated_at": "2026-11-10T18:28:32.295571+00:00"
 }
