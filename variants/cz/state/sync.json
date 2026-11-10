@@ -108404,13 +108404,6 @@
           "source_id": "22546836",
           "target_video_id": "30983603",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:42:58.682821+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22546836",
-          "target_video_id": "30983603",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:16:14.121442+00:00"
         },
         {
@@ -108419,6 +108412,13 @@
           "target_video_id": "30983603",
           "permanent": false,
           "attempted_at": "2026-11-10T21:49:42.675725+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22546836",
+          "target_video_id": "30983603",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:29:24.132938+00:00"
         }
       ],
       "last_plan": {
@@ -118556,7 +118556,7 @@
       "last_plan": {
         "source_id": "12049029",
         "display_name": "Tolkien 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:49:44.255794+00:00"
+        "planned_at": "2026-11-10T22:29:22.659210+00:00"
       },
       "previous_target_id": "30984886",
       "prepared": {
@@ -118564,6 +118564,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:03:27.140287+00:00",
         "relay_source_id": "12049029"
+      },
+      "claim": {
+        "worker_id": "b3b939baf09e4c12a1e3d206651088e1-shard-0",
+        "claimed_at": "2026-11-10T22:29:23.396305+00:00",
+        "lease_expires_at": "2026-11-11T04:29:23.396305+00:00",
+        "run_id": "42904278669"
       }
     },
     "11922": {
@@ -124852,7 +124858,7 @@
       "last_plan": {
         "source_id": "18316767",
         "display_name": "My Little Pony: A New Generation 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:29:20.682588+00:00"
+        "planned_at": "2026-11-10T22:29:22.974675+00:00"
       }
     },
     "10846": {
@@ -179800,5 +179806,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:29:20.682607+00:00"
+  "updated_at": "2026-11-10T22:29:24.132957+00:00"
 }
