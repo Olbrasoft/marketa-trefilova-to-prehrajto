@@ -98235,7 +98235,7 @@
       "last_plan": {
         "source_id": "33749510",
         "display_name": "The Last Trapper 1080p CZ Dabing",
-        "planned_at": "2026-11-10T01:24:53.912972+00:00"
+        "planned_at": "2026-11-10T01:24:57.184140+00:00"
       },
       "previous_target_id": "30957238",
       "prepared": {
@@ -98495,17 +98495,19 @@
       }
     },
     "13680": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35097289",
+          "target_video_id": "30958098",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:24:57.352149+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35097289",
         "display_name": "SPL: Sha Po Lang (殺破狼) 1080p CZ Dabing",
         "planned_at": "2026-11-10T01:14:45.491382+00:00"
-      },
-      "claim": {
-        "worker_id": "0b4a61a35b42454d84c4ecdfe12cb127-shard-0",
-        "claimed_at": "2026-11-10T01:14:47.359683+00:00",
-        "lease_expires_at": "2026-11-10T07:14:47.359683+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958098",
       "prepared": {
@@ -157740,5 +157742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:24:54.211930+00:00"
+  "updated_at": "2026-11-10T01:24:57.352169+00:00"
 }
