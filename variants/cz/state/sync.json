@@ -116384,7 +116384,20 @@
       }
     },
     "3089": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34884217",
+          "reason": "Request failed for https://sdilej.cz/34884217/velky-draft-2014-cz-dabing-1080p-fhd.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:42:48.430806+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34884217",
+        "display_name": "Draft Day 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:42:47.036402+00:00"
+      }
     },
     "20634": {
       "attempts": []
@@ -172392,5 +172405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:42:45.177709+00:00"
+  "updated_at": "2026-11-10T17:42:48.430819+00:00"
 }
