@@ -98430,17 +98430,19 @@
       "attempts": []
     },
     "10787": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32658671",
+          "target_video_id": "30957808",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:08:44.061191+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32658671",
         "display_name": "Maigret et l'Affaire Saint-Fiacre 1080p CZ Dabing",
         "planned_at": "2026-11-10T00:56:03.963755+00:00"
-      },
-      "claim": {
-        "worker_id": "4d0eb8a63e87413ab14a64169667ca16-shard-0",
-        "claimed_at": "2026-11-10T00:56:04.374867+00:00",
-        "lease_expires_at": "2026-11-10T06:56:04.374867+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30957808",
       "prepared": {
@@ -157675,5 +157677,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:00:13.498733+00:00"
+  "updated_at": "2026-11-10T01:08:44.061205+00:00"
 }
