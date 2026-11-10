@@ -113969,6 +113969,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T15:34:35.718025+00:00",
         "relay_source_id": "34941731"
+      },
+      "claim": {
+        "worker_id": "0ee45769396e4aa69dc5870bad232978-shard-0",
+        "claimed_at": "2026-11-10T17:10:34.902079+00:00",
+        "lease_expires_at": "2026-11-10T23:10:34.902079+00:00",
+        "run_id": "42823888331"
       }
     },
     "3135": {
@@ -113998,7 +114004,7 @@
       "last_plan": {
         "source_id": "33770531",
         "display_name": "Warm Bodies 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:38:43.186004+00:00"
+        "planned_at": "2026-11-10T17:10:35.122972+00:00"
       },
       "previous_target_id": "30984155",
       "prepared": {
@@ -114006,6 +114012,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T15:34:38.126214+00:00",
         "relay_source_id": "33770531"
+      },
+      "claim": {
+        "worker_id": "03ae416cbed54ff8bc9e0e676d5c04c1-shard-0",
+        "claimed_at": "2026-11-10T17:10:35.842900+00:00",
+        "lease_expires_at": "2026-11-10T23:10:35.842900+00:00",
+        "run_id": "42823888331"
       }
     },
     "2836": {
@@ -114282,6 +114294,13 @@
           "target_video_id": "30984298",
           "permanent": false,
           "attempted_at": "2026-11-10T16:38:36.356421+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31650158",
+          "target_video_id": "30984298",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:10:36.652410+00:00"
         }
       ],
       "last_plan": {
@@ -114295,12 +114314,6 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T16:01:35.764114+00:00",
         "relay_source_id": "31650158"
-      },
-      "claim": {
-        "worker_id": "6a2e3d8691ee456089e173bdd2be5485-shard-0",
-        "claimed_at": "2026-11-10T17:10:32.023156+00:00",
-        "lease_expires_at": "2026-11-10T23:10:32.023156+00:00",
-        "run_id": "42823888331"
       }
     },
     "3155": {
@@ -114935,7 +114948,7 @@
       "last_plan": {
         "source_id": "30934830",
         "display_name": "Syriana 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:10:32.544750+00:00"
+        "planned_at": "2026-11-10T17:10:35.435955+00:00"
       }
     },
     "2925": {
@@ -171133,5 +171146,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:10:32.544766+00:00"
+  "updated_at": "2026-11-10T17:10:36.652428+00:00"
 }
