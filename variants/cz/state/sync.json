@@ -12786,13 +12786,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-10T07:57:26.836085+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-10T08:29:46.056331+00:00"
         },
         {
@@ -12801,6 +12794,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-10T09:03:37.002268+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:00:46.142726+00:00"
         }
       ],
       "last_plan": {
@@ -12814,12 +12814,6 @@
         "size_bytes": 17500000000,
         "prepared_at": "2026-10-31T00:38:39.419343+00:00",
         "relay_source_id": "34846817"
-      },
-      "claim": {
-        "worker_id": "66f2faf5e2ba482792ce52304425296b-shard-0",
-        "claimed_at": "2026-11-10T10:00:42.008215+00:00",
-        "lease_expires_at": "2026-11-10T16:00:42.008215+00:00",
-        "run_id": "42790251611"
       }
     },
     "516": {
@@ -16918,7 +16912,7 @@
       "last_plan": {
         "source_id": "33402050",
         "display_name": "Philadelphia 4K CZ Dabing",
-        "planned_at": "2026-11-10T09:03:35.202839+00:00"
+        "planned_at": "2026-11-10T10:00:45.223243+00:00"
       },
       "previous_target_id": "30665578",
       "prepared": {
@@ -16926,6 +16920,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
+      },
+      "claim": {
+        "worker_id": "b3856d4722d24f058043d01cb8ee5a25-shard-0",
+        "claimed_at": "2026-11-10T10:00:45.884567+00:00",
+        "lease_expires_at": "2026-11-10T16:00:45.884567+00:00",
+        "run_id": "42790251611"
       }
     },
     "614": {
@@ -102603,7 +102603,7 @@
       "last_plan": {
         "source_id": "32374866",
         "display_name": "Dobří holubi se vracejí 1080p CZ Dabing",
-        "planned_at": "2026-11-10T10:00:41.589445+00:00"
+        "planned_at": "2026-11-10T10:00:45.514404+00:00"
       }
     },
     "22247": {
@@ -160938,5 +160938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:00:43.456399+00:00"
+  "updated_at": "2026-11-10T10:00:46.142747+00:00"
 }
