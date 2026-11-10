@@ -119526,13 +119526,6 @@
           "source_id": "30808517",
           "target_video_id": "30984989",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:05:18.509895+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30808517",
-          "target_video_id": "30984989",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:39:22.458681+00:00"
         },
         {
@@ -119541,6 +119534,13 @@
           "target_video_id": "30984989",
           "permanent": false,
           "attempted_at": "2026-11-10T21:12:01.353665+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30808517",
+          "target_video_id": "30984989",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:45:31.453686+00:00"
         }
       ],
       "last_plan": {
@@ -119589,7 +119589,7 @@
       "last_plan": {
         "source_id": "33119817",
         "display_name": "Champions (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:12:04.494451+00:00"
+        "planned_at": "2026-11-10T21:45:29.979380+00:00"
       },
       "previous_target_id": "30984993",
       "prepared": {
@@ -119597,6 +119597,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T18:28:34.661347+00:00",
         "relay_source_id": "33119817"
+      },
+      "claim": {
+        "worker_id": "9d2344ec596c496a9d6a64d08b87e216-shard-0",
+        "claimed_at": "2026-11-10T21:45:30.580047+00:00",
+        "lease_expires_at": "2026-11-11T03:45:30.580047+00:00",
+        "run_id": "42864255663"
       }
     },
     "16691": {
@@ -123936,7 +123942,7 @@
       "last_plan": {
         "source_id": "33664376",
         "display_name": "Support Your Local Gunfighter 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:45:28.089839+00:00"
+        "planned_at": "2026-11-10T21:45:30.246352+00:00"
       }
     },
     "23062": {
@@ -179076,5 +179082,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:45:28.089858+00:00"
+  "updated_at": "2026-11-10T21:45:31.453704+00:00"
 }
