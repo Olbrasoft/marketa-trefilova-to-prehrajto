@@ -100377,17 +100377,19 @@
       "attempts": []
     },
     "2205": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30850314",
+          "target_video_id": "30965861",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:04:09.497350+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30850314",
         "display_name": "A Whole Life (Ein ganzes Leben) 1080p CZ Dabing",
         "planned_at": "2026-11-10T05:56:03.089850+00:00"
-      },
-      "claim": {
-        "worker_id": "cf172317771e4dc2a4904d43ea0b6cae-shard-0",
-        "claimed_at": "2026-11-10T05:56:03.442651+00:00",
-        "lease_expires_at": "2026-11-10T11:56:03.442651+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30965861",
       "prepared": {
@@ -159293,5 +159295,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:59:34.591728+00:00"
+  "updated_at": "2026-11-10T06:04:09.497368+00:00"
 }
