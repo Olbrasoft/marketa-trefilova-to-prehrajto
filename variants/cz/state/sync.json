@@ -119430,13 +119430,6 @@
           "source_id": "33677451",
           "target_video_id": "30984982",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:10:45.171174+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33677451",
-          "target_video_id": "30984982",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:44:23.516540+00:00"
         },
         {
@@ -119445,6 +119438,13 @@
           "target_video_id": "30984982",
           "permanent": false,
           "attempted_at": "2026-11-10T22:22:24.905390+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33677451",
+          "target_video_id": "30984982",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:04:20.509615+00:00"
         }
       ],
       "last_plan": {
@@ -119458,12 +119458,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T18:26:42.508353+00:00",
         "relay_source_id": "33677451"
-      },
-      "claim": {
-        "worker_id": "956163246be3497c9543d23bf994d311-shard-0",
-        "claimed_at": "2026-11-10T23:04:16.196780+00:00",
-        "lease_expires_at": "2026-11-11T05:04:16.196780+00:00",
-        "run_id": "42904278669"
       }
     },
     "14429": {
@@ -124853,7 +124847,7 @@
       "last_plan": {
         "source_id": "34824290",
         "display_name": "Borsalino 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:16:07.276962+00:00"
+        "planned_at": "2026-11-10T23:04:19.101747+00:00"
       },
       "previous_target_id": "30985867",
       "prepared": {
@@ -124861,6 +124855,12 @@
         "size_bytes": 3907504755,
         "prepared_at": "2026-11-10T22:16:18.489755+00:00",
         "relay_source_id": "34824290"
+      },
+      "claim": {
+        "worker_id": "bf5425743f624e4b83369ad1bca4b3b0-shard-0",
+        "claimed_at": "2026-11-10T23:04:19.805948+00:00",
+        "lease_expires_at": "2026-11-11T05:04:19.805948+00:00",
+        "run_id": "42904278669"
       }
     },
     "19244": {
@@ -125252,7 +125252,7 @@
       "last_plan": {
         "source_id": "34700408",
         "display_name": "Firecreek 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:04:15.808933+00:00"
+        "planned_at": "2026-11-10T23:04:19.415204+00:00"
       }
     },
     "20329": {
@@ -180133,5 +180133,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:04:17.451036+00:00"
+  "updated_at": "2026-11-10T23:04:20.509636+00:00"
 }
