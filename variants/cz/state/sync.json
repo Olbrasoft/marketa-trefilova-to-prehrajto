@@ -98701,17 +98701,19 @@
       }
     },
     "36767": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11798323",
+          "target_video_id": "30958519",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:44:28.285021+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11798323",
         "display_name": "Transit (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-10T01:35:22.342131+00:00"
-      },
-      "claim": {
-        "worker_id": "0cc067f1cc7e423280a2f16f163a3f26-shard-0",
-        "claimed_at": "2026-11-10T01:35:22.705795+00:00",
-        "lease_expires_at": "2026-11-10T07:35:22.705795+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958519",
       "prepared": {
@@ -98771,7 +98773,18 @@
       "attempts": []
     },
     "2627": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27713542",
+        "display_name": "Hearts Beat Loud 1080p CZ Dabing",
+        "planned_at": "2026-11-10T01:44:01.926025+00:00"
+      },
+      "claim": {
+        "worker_id": "31339a42b2814bd499216803a35c06e2-shard-0",
+        "claimed_at": "2026-11-10T01:44:02.331793+00:00",
+        "lease_expires_at": "2026-11-10T07:44:02.331793+00:00",
+        "run_id": "42729980423"
+      }
     },
     "30702": {
       "attempts": []
@@ -157916,5 +157929,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:43:59.520614+00:00"
+  "updated_at": "2026-11-10T01:44:28.285039+00:00"
 }
