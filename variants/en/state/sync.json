@@ -33489,17 +33489,19 @@
       }
     },
     "2325": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34886157",
+          "target_video_id": "30977898",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:05:37.176248+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34886157",
         "display_name": "Colonia (Colonia Dignidad – Es gibt kein Zurück) 1080p CZ Titulky",
         "planned_at": "2026-11-10T11:39:21.453898+00:00"
-      },
-      "claim": {
-        "worker_id": "c63c981bf317423099bb46cff0b54f46-shard-0",
-        "claimed_at": "2026-11-10T11:39:21.572365+00:00",
-        "lease_expires_at": "2026-11-10T17:39:21.572365+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30977898",
       "prepared": {
@@ -95823,5 +95825,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T11:57:17.265191+00:00"
+  "updated_at": "2026-11-10T12:05:37.176265+00:00"
 }
