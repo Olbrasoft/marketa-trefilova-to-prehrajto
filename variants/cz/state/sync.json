@@ -101449,17 +101449,19 @@
       }
     },
     "37537": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34904643",
+          "target_video_id": "30970465",
+          "permanent": false,
+          "attempted_at": "2026-11-10T08:19:09.058665+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34904643",
         "display_name": "Here The Whole Time 1080p CZ Dabing",
         "planned_at": "2026-11-10T08:05:17.634187+00:00"
-      },
-      "claim": {
-        "worker_id": "4f9c553b8c6a4cbbaeb5cd8d72be7301-shard-0",
-        "claimed_at": "2026-11-10T08:05:17.978581+00:00",
-        "lease_expires_at": "2026-11-10T14:05:17.978581+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30970465",
       "prepared": {
@@ -160166,5 +160168,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T08:14:26.114505+00:00"
+  "updated_at": "2026-11-10T08:19:09.058683+00:00"
 }
