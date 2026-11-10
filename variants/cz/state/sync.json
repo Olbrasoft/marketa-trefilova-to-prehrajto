@@ -102898,17 +102898,19 @@
       "attempts": []
     },
     "24940": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31543252",
+          "reason": "Source detail has no authenticated download link; source_id=31543252",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:09:28.276918+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31543252",
         "display_name": "The Star (2002) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:09:22.457801+00:00"
-      },
-      "claim": {
-        "worker_id": "58477fc3aa684c8cb108b5258f2af203-shard-0",
-        "claimed_at": "2026-11-10T10:09:24.618075+00:00",
-        "lease_expires_at": "2026-11-10T16:09:24.618075+00:00",
-        "run_id": "42790251611"
       }
     },
     "12676": {
@@ -161153,5 +161155,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:09:26.669515+00:00"
+  "updated_at": "2026-11-10T10:09:28.276936+00:00"
 }
