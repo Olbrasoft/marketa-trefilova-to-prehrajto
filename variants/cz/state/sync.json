@@ -106618,17 +106618,19 @@
       "attempts": []
     },
     "12972": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35161768",
+          "target_video_id": "30983079",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:52:19.090152+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35161768",
         "display_name": "The Stone Table Inn (Hostinec „U kamenného stolu“) 1080p CZ Dabing",
         "planned_at": "2026-11-10T13:50:42.795374+00:00"
-      },
-      "claim": {
-        "worker_id": "9514d3643c054b9eb588b9f014694a54-shard-0",
-        "claimed_at": "2026-11-10T13:50:43.425469+00:00",
-        "lease_expires_at": "2026-11-10T19:50:43.425469+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30983079",
       "prepared": {
@@ -163961,5 +163963,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:51:43.579971+00:00"
+  "updated_at": "2026-11-10T13:52:19.090172+00:00"
 }
