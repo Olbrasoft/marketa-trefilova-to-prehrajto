@@ -100132,17 +100132,19 @@
       "attempts": []
     },
     "2595": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16430496",
+          "target_video_id": "30963943",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:33:11.290443+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16430496",
         "display_name": "While at War (Mientras dure la guerra) 720p CZ Dabing",
         "planned_at": "2026-11-10T05:02:22.845512+00:00"
-      },
-      "claim": {
-        "worker_id": "e2eee5c5ac77494094bebc932e62fbfb-shard-0",
-        "claimed_at": "2026-11-10T05:02:23.286791+00:00",
-        "lease_expires_at": "2026-11-10T11:02:23.286791+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30963943",
       "prepared": {
@@ -159055,5 +159057,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:26:28.006522+00:00"
+  "updated_at": "2026-11-10T05:33:11.290461+00:00"
 }
