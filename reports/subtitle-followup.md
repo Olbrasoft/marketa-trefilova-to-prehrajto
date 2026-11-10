@@ -600,3 +600,4 @@ Attach subtitles only after target processing has finished.
 | Tehran Taboo (Theran Taboo) 1080p CZ Titulky | 30960325 | https://sdilej.cz/29675224/teheranska-tabu-2017-tit.cz.mkv | Complete: Czech subtitles verified |
 | Top Gun 4K CZ Titulky | 30965106 | https://sdilej.cz/28086780/top.gun.1986.2160p.4k.bluray.x265.10bit.aac5.1-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
 | Super 8 720p CZ Titulky | 30970243 | https://sdilej.cz/16310205/super-8-2011-sci-fi-cz-dab-720p-hd.mkv | Extract Czech track from exact source after processing |
+| The Dirt 4K CZ Titulky | 30977182 | https://sdilej.cz/12889912/the.dirt.2019.2160p.uhdrip.sdr.hevc.ddp.5.1-ddr.cztitulky.mkv | Extract Czech track from exact source after processing |
