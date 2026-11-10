@@ -114663,13 +114663,6 @@
           "source_id": "26253538",
           "target_video_id": "30984524",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:45:00.539949+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26253538",
-          "target_video_id": "30984524",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:15:17.692224+00:00"
         },
         {
@@ -114678,6 +114671,13 @@
           "target_video_id": "30984524",
           "permanent": false,
           "attempted_at": "2026-11-10T17:45:21.909409+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26253538",
+          "target_video_id": "30984524",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:16:33.617290+00:00"
         }
       ],
       "last_plan": {
@@ -114691,12 +114691,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T16:41:21.772544+00:00",
         "relay_source_id": "26253538"
-      },
-      "claim": {
-        "worker_id": "d9a475a257b94e489ac5a00eab1ec236-shard-0",
-        "claimed_at": "2026-11-10T18:16:31.588784+00:00",
-        "lease_expires_at": "2026-11-11T00:16:31.588784+00:00",
-        "run_id": "42864255663"
       }
     },
     "17763": {
@@ -116977,7 +116971,7 @@
       "last_plan": {
         "source_id": "33856555",
         "display_name": "Trouble with the Curve 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:43:25.711124+00:00"
+        "planned_at": "2026-11-10T18:16:33.163702+00:00"
       },
       "previous_target_id": "30984811",
       "prepared": {
@@ -118113,14 +118107,19 @@
       "last_plan": {
         "source_id": "34864462",
         "display_name": "Body Double 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:16:29.728551+00:00"
+        "planned_at": "2026-11-10T18:16:33.419108+00:00"
       }
     },
     "18622": {
       "attempts": []
     },
     "3104": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33745553",
+        "display_name": "Romper Stomper 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:16:33.766392+00:00"
+      }
     },
     "2987": {
       "attempts": []
@@ -173939,5 +173938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:16:31.588809+00:00"
+  "updated_at": "2026-11-10T18:16:33.766414+00:00"
 }
