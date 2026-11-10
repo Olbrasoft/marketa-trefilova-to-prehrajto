@@ -107575,17 +107575,19 @@
       }
     },
     "12712": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30111915",
+          "target_video_id": "30983579",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:18:37.738164+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30111915",
         "display_name": "Romeo a Julie na konci listopadu 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:17:53.695680+00:00"
-      },
-      "claim": {
-        "worker_id": "ec30c41612c44db6814e77ea4c078d95-shard-0",
-        "claimed_at": "2026-11-10T14:17:54.285650+00:00",
-        "lease_expires_at": "2026-11-10T20:17:54.285650+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983579",
       "prepared": {
@@ -107596,10 +107598,32 @@
       }
     },
     "34824": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34783018",
+        "display_name": "Společnice 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:18:36.731821+00:00"
+      },
+      "claim": {
+        "worker_id": "b521f458800e4796956b061965c802b8-shard-0",
+        "claimed_at": "2026-11-10T14:18:37.356550+00:00",
+        "lease_expires_at": "2026-11-10T20:18:37.356550+00:00",
+        "run_id": "42823888331"
+      }
     },
     "24189": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33992687",
+        "display_name": "Night Riders SD CZ Dabing",
+        "planned_at": "2026-11-10T14:18:36.914980+00:00"
+      },
+      "claim": {
+        "worker_id": "a8f0a5816a534836bb0034501c08b589-shard-0",
+        "claimed_at": "2026-11-10T14:18:37.520832+00:00",
+        "lease_expires_at": "2026-11-10T20:18:37.520832+00:00",
+        "run_id": "42823888331"
+      }
     },
     "12694": {
       "attempts": []
@@ -164657,5 +164681,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:18:34.350655+00:00"
+  "updated_at": "2026-11-10T14:18:37.738197+00:00"
 }
