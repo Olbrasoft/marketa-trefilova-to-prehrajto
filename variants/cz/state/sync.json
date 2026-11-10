@@ -118164,17 +118164,19 @@
       "attempts": []
     },
     "3104": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33745553",
+          "target_video_id": "30984953",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:18:10.478112+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33745553",
         "display_name": "Romper Stomper 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:17:26.040523+00:00"
-      },
-      "claim": {
-        "worker_id": "066c60e121cd47de88f0c4483f4f871b-shard-0",
-        "claimed_at": "2026-11-10T18:17:28.139297+00:00",
-        "lease_expires_at": "2026-11-11T00:17:28.139297+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984953",
       "prepared": {
@@ -174006,5 +174008,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:18:08.674492+00:00"
+  "updated_at": "2026-11-10T18:18:10.478130+00:00"
 }
