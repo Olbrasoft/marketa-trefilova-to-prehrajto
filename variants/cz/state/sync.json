@@ -105370,17 +105370,19 @@
       }
     },
     "10841": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34877082",
+          "target_video_id": "30975585",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:45:13.007072+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34877082",
         "display_name": "Something Different (O něčem jiném) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:35:41.566937+00:00"
-      },
-      "claim": {
-        "worker_id": "c828ad6da100433eaf187e2bd7c32c0c-shard-0",
-        "claimed_at": "2026-11-10T10:35:42.578989+00:00",
-        "lease_expires_at": "2026-11-10T16:35:42.578989+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30975585",
       "prepared": {
@@ -162954,5 +162956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:41:32.142348+00:00"
+  "updated_at": "2026-11-10T10:45:13.007090+00:00"
 }
