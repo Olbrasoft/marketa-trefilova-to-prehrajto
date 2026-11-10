@@ -111912,17 +111912,19 @@
       }
     },
     "3094": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32044029",
+          "target_video_id": "30984062",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:23:08.236179+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32044029",
         "display_name": "Tron: Legacy 4K CZ Dabing",
         "planned_at": "2026-11-10T15:22:22.074761+00:00"
-      },
-      "claim": {
-        "worker_id": "dfcbc13ee50e44bcb4328e8b9e17bb26-shard-0",
-        "claimed_at": "2026-11-10T15:22:24.575879+00:00",
-        "lease_expires_at": "2026-11-10T21:22:24.575879+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984062",
       "prepared": {
@@ -168365,5 +168367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:22:38.900909+00:00"
+  "updated_at": "2026-11-10T15:23:08.236208+00:00"
 }
