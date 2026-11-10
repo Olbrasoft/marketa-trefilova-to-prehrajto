@@ -113810,7 +113810,7 @@
       "last_plan": {
         "source_id": "28852151",
         "display_name": "21 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:39:42.955940+00:00"
+        "planned_at": "2026-11-10T18:13:47.992459+00:00"
       },
       "previous_target_id": "30984134",
       "prepared": {
@@ -113818,17 +113818,16 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T15:31:18.980243+00:00",
         "relay_source_id": "28852151"
+      },
+      "claim": {
+        "worker_id": "e9d3200c2773432f954ba32ebd0aff96-shard-0",
+        "claimed_at": "2026-11-10T18:13:48.971138+00:00",
+        "lease_expires_at": "2026-11-11T00:13:48.971138+00:00",
+        "run_id": "42864255663"
       }
     },
     "3149": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "14570962",
-          "target_video_id": "30984139",
-          "permanent": false,
-          "attempted_at": "2026-11-10T16:36:00.952041+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "14570962",
@@ -113842,6 +113841,13 @@
           "target_video_id": "30984139",
           "permanent": false,
           "attempted_at": "2026-11-10T17:39:39.823217+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14570962",
+          "target_video_id": "30984139",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:13:48.819090+00:00"
         }
       ],
       "last_plan": {
@@ -113855,12 +113861,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
-      },
-      "claim": {
-        "worker_id": "f4618e882ba74141bdd9ccfd05ef94a1-shard-0",
-        "claimed_at": "2026-11-10T18:13:45.896106+00:00",
-        "lease_expires_at": "2026-11-11T00:13:45.896106+00:00",
-        "run_id": "42864255663"
       }
     },
     "3152": {
@@ -117862,7 +117862,7 @@
       "last_plan": {
         "source_id": "25075952",
         "display_name": "Trust (2010) SD CZ Dabing",
-        "planned_at": "2026-11-10T18:13:45.548985+00:00"
+        "planned_at": "2026-11-10T18:13:48.278285+00:00"
       }
     },
     "22752": {
@@ -173694,5 +173694,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:13:46.379749+00:00"
+  "updated_at": "2026-11-10T18:13:48.971160+00:00"
 }
