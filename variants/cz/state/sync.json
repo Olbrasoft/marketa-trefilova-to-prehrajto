@@ -109581,17 +109581,19 @@
       "attempts": []
     },
     "12653": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28004879",
+          "target_video_id": "30983794",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:49:51.209665+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28004879",
         "display_name": "Paklíč SD CZ Dabing",
         "planned_at": "2026-11-10T14:49:04.094313+00:00"
-      },
-      "claim": {
-        "worker_id": "8860302e3ca2415fb1e62a0dde8b4d39-shard-0",
-        "claimed_at": "2026-11-10T14:49:04.468867+00:00",
-        "lease_expires_at": "2026-11-10T20:49:04.468867+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983794",
       "prepared": {
@@ -166345,5 +166347,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:49:36.076076+00:00"
+  "updated_at": "2026-11-10T14:49:51.209682+00:00"
 }
