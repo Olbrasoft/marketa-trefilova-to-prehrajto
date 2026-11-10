@@ -32841,17 +32841,19 @@
       "attempts": []
     },
     "2423": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28086780",
+          "target_video_id": "30965106",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:54:56.783004+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28086780",
         "display_name": "Top Gun 4K CZ Titulky",
         "planned_at": "2026-11-10T05:34:48.476321+00:00"
-      },
-      "claim": {
-        "worker_id": "10af088785704052953bf69d24c5b182-shard-0",
-        "claimed_at": "2026-11-10T05:34:48.682263+00:00",
-        "lease_expires_at": "2026-11-10T11:34:48.682263+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30965106",
       "prepared": {
@@ -95689,5 +95691,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:36:22.869577+00:00"
+  "updated_at": "2026-11-10T05:54:56.783020+00:00"
 }
