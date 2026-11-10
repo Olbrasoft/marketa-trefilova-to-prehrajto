@@ -113893,10 +113893,29 @@
         "source_id": "30198301",
         "display_name": "The Vow 1080p CZ Dabing",
         "planned_at": "2026-11-10T16:04:49.801969+00:00"
+      },
+      "claim": {
+        "worker_id": "22a0d7a17daa44fcb27d663fcf0241ab-shard-0",
+        "claimed_at": "2026-11-10T16:04:52.235480+00:00",
+        "lease_expires_at": "2026-11-10T22:04:52.235480+00:00",
+        "run_id": "42823888331"
       }
     },
     "12428": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32857178",
+          "reason": "Source detail has no authenticated download link; source_id=32857178",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:04:55.416875+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32857178",
+        "display_name": "The Mask of Zorro 4K CZ Dabing",
+        "planned_at": "2026-11-10T16:04:52.595557+00:00"
+      }
     },
     "12106": {
       "attempts": []
@@ -170162,5 +170181,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:04:49.801987+00:00"
+  "updated_at": "2026-11-10T16:04:55.416892+00:00"
 }
