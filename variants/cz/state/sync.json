@@ -122808,17 +122808,19 @@
       "attempts": []
     },
     "21348": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34130726",
+          "reason": "Request failed for https://sdilej.cz/34130726/ivanhoe-robert-taylor-elizabeth-taylorova-1952-historicky-romanticky-czdab-m.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:33:38.673583+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34130726",
         "display_name": "Ivanhoe 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:33:34.638077+00:00"
-      },
-      "claim": {
-        "worker_id": "b325eddd139745f89a5420e4b4860e64-shard-0",
-        "claimed_at": "2026-11-10T20:33:35.310223+00:00",
-        "lease_expires_at": "2026-11-11T02:33:35.310223+00:00",
-        "run_id": "42864255663"
       }
     },
     "21528": {
@@ -178152,5 +178154,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:33:35.889461+00:00"
+  "updated_at": "2026-11-10T20:33:38.673608+00:00"
 }
