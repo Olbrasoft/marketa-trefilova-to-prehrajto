@@ -113686,17 +113686,19 @@
       }
     },
     "2957": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33016418",
+          "target_video_id": "30984243",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:01:08.929198+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33016418",
         "display_name": "Frozen 2 (Frozen II) 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:52:38.964578+00:00"
-      },
-      "claim": {
-        "worker_id": "ec673ff0ff9542c1b29e344275e226df-shard-0",
-        "claimed_at": "2026-11-10T15:52:39.369461+00:00",
-        "lease_expires_at": "2026-11-10T21:52:39.369461+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984243",
       "prepared": {
@@ -169990,5 +169992,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:01:07.048530+00:00"
+  "updated_at": "2026-11-10T16:01:08.929219+00:00"
 }
