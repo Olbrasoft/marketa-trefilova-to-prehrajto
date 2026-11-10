@@ -12375,13 +12375,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-10T03:40:03.163827+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-10T04:15:45.182051+00:00"
         },
         {
@@ -12390,6 +12383,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-10T04:50:43.066101+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:37:19.430714+00:00"
         }
       ],
       "last_plan": {
@@ -12403,12 +12403,6 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-10-30T23:09:05.633345+00:00",
         "relay_source_id": "32043793"
-      },
-      "claim": {
-        "worker_id": "f4f25aa42fe14727bf58bce74bda2f0f-shard-0",
-        "claimed_at": "2026-11-10T05:37:15.916549+00:00",
-        "lease_expires_at": "2026-11-10T11:37:15.916549+00:00",
-        "run_id": "42761712557"
       }
     },
     "11516": {
@@ -12812,7 +12806,7 @@
       "last_plan": {
         "source_id": "34846817",
         "display_name": "Obsession (2026) 4K CZ Dabing",
-        "planned_at": "2026-11-10T04:50:47.048283+00:00"
+        "planned_at": "2026-11-10T05:37:18.557670+00:00"
       },
       "previous_target_id": "30649962",
       "prepared": {
@@ -12820,6 +12814,12 @@
         "size_bytes": 17500000000,
         "prepared_at": "2026-10-31T00:38:39.419343+00:00",
         "relay_source_id": "34846817"
+      },
+      "claim": {
+        "worker_id": "be56776dc5874c8d9153e87a14e10c2c-shard-0",
+        "claimed_at": "2026-11-10T05:37:19.074263+00:00",
+        "lease_expires_at": "2026-11-10T11:37:19.074263+00:00",
+        "run_id": "42761712557"
       }
     },
     "516": {
@@ -100183,7 +100183,7 @@
       "last_plan": {
         "source_id": "26750660",
         "display_name": "The Cow (Kráva) SD CZ Dabing",
-        "planned_at": "2026-11-10T05:37:15.614509+00:00"
+        "planned_at": "2026-11-10T05:37:18.788709+00:00"
       }
     },
     "2519": {
@@ -159096,5 +159096,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:37:16.880170+00:00"
+  "updated_at": "2026-11-10T05:37:19.430733+00:00"
 }
