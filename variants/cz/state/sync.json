@@ -109310,6 +109310,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T14:33:44.113276+00:00",
         "relay_source_id": "34979725"
+      },
+      "claim": {
+        "worker_id": "60c01d872d11481d89295e6530118358-shard-0",
+        "claimed_at": "2026-11-10T18:15:04.085421+00:00",
+        "lease_expires_at": "2026-11-11T00:15:04.085421+00:00",
+        "run_id": "42864255663"
       }
     },
     "13851": {
@@ -109359,13 +109365,6 @@
           "source_id": "29792037",
           "target_video_id": "30983686",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:39:09.113879+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29792037",
-          "target_video_id": "30983686",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:10:57.493257+00:00"
         },
         {
@@ -109374,6 +109373,13 @@
           "target_video_id": "30983686",
           "permanent": false,
           "attempted_at": "2026-11-10T17:41:11.654077+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29792037",
+          "target_video_id": "30983686",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:15:02.789588+00:00"
         }
       ],
       "last_plan": {
@@ -109387,12 +109393,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:34:07.592234+00:00",
         "relay_source_id": "29792037"
-      },
-      "claim": {
-        "worker_id": "f1c45f602c6b46af95e4a3786af96dce-shard-0",
-        "claimed_at": "2026-11-10T18:14:57.385746+00:00",
-        "lease_expires_at": "2026-11-11T00:14:57.385746+00:00",
-        "run_id": "42864255663"
       }
     },
     "12786": {
@@ -109422,7 +109422,7 @@
       "last_plan": {
         "source_id": "34451234",
         "display_name": "Happy Journey (Šťastnou cestu) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:41:13.407791+00:00"
+        "planned_at": "2026-11-10T18:15:04.661550+00:00"
       },
       "previous_target_id": "30983688",
       "prepared": {
@@ -117922,7 +117922,7 @@
       "last_plan": {
         "source_id": "20753761",
         "display_name": "Repo Man 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:15:00.823947+00:00"
+        "planned_at": "2026-11-10T18:15:04.925140+00:00"
       }
     },
     "22727": {
@@ -173751,5 +173751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:15:00.823964+00:00"
+  "updated_at": "2026-11-10T18:15:04.925158+00:00"
 }
