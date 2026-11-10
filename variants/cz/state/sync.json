@@ -104017,7 +104017,20 @@
       "attempts": []
     },
     "11006": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34636083",
+          "reason": "Source detail has no authenticated download link; source_id=34636083",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:13:32.131198+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34636083",
+        "display_name": "Funeral Ceremonies (Smuteční slavnost) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:13:28.856187+00:00"
+      }
     },
     "29777": {
       "attempts": []
@@ -104026,7 +104039,18 @@
       "attempts": []
     },
     "21553": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34485392",
+        "display_name": "Le Bossu (The Hunchback of Paris) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:13:29.022985+00:00"
+      },
+      "claim": {
+        "worker_id": "250f56850c284f9d875fd75a4646beec-shard-0",
+        "claimed_at": "2026-11-10T10:13:29.984977+00:00",
+        "lease_expires_at": "2026-11-10T16:13:29.984977+00:00",
+        "run_id": "42790251611"
+      }
     },
     "10974": {
       "attempts": []
@@ -161909,5 +161933,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:25.763617+00:00"
+  "updated_at": "2026-11-10T10:13:32.131214+00:00"
 }
