@@ -104136,17 +104136,19 @@
       "attempts": []
     },
     "20828": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28493806",
+          "reason": "Source detail has no authenticated download link; source_id=28493806",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:13:56.861457+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28493806",
         "display_name": "Normal Autistic Film (Normální autisticky film) 720p CZ Dabing",
         "planned_at": "2026-11-10T10:13:51.477864+00:00"
-      },
-      "claim": {
-        "worker_id": "43f2732a190a48cfa91b822aaf11e6b7-shard-0",
-        "claimed_at": "2026-11-10T10:13:52.047227+00:00",
-        "lease_expires_at": "2026-11-10T16:13:52.047227+00:00",
-        "run_id": "42790251611"
       }
     },
     "15667": {
@@ -162000,5 +162002,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:55.197450+00:00"
+  "updated_at": "2026-11-10T10:13:56.861476+00:00"
 }
