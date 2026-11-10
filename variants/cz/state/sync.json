@@ -107913,7 +107913,7 @@
       "last_plan": {
         "source_id": "34908320",
         "display_name": "Pražská 5 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:08:59.679921+00:00"
+        "planned_at": "2026-11-10T21:42:58.325869+00:00"
       },
       "previous_target_id": "30983539",
       "prepared": {
@@ -107921,6 +107921,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T14:16:25.808778+00:00",
         "relay_source_id": "34908320"
+      },
+      "claim": {
+        "worker_id": "f7a2884ce84f4f79b3b5ace9b5950a27-shard-0",
+        "claimed_at": "2026-11-10T21:42:59.357678+00:00",
+        "lease_expires_at": "2026-11-11T03:42:59.357678+00:00",
+        "run_id": "42864255663"
       }
     },
     "24344": {
@@ -122028,13 +122034,6 @@
           "source_id": "28510712",
           "target_video_id": "30985462",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:03:08.520612+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28510712",
-          "target_video_id": "30985462",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:36:48.670114+00:00"
         },
         {
@@ -122043,6 +122042,13 @@
           "target_video_id": "30985462",
           "permanent": false,
           "attempted_at": "2026-11-10T21:08:58.129690+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28510712",
+          "target_video_id": "30985462",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:42:59.709971+00:00"
         }
       ],
       "last_plan": {
@@ -123889,11 +123895,22 @@
       "last_plan": {
         "source_id": "31149109",
         "display_name": "Hope Gap 720p CZ Dabing",
-        "planned_at": "2026-11-10T21:42:56.130714+00:00"
+        "planned_at": "2026-11-10T21:42:58.624718+00:00"
+      },
+      "claim": {
+        "worker_id": "aa9180843e154364bfa9fc67b84c3d49-shard-0",
+        "claimed_at": "2026-11-10T21:42:59.512880+00:00",
+        "lease_expires_at": "2026-11-11T03:42:59.512880+00:00",
+        "run_id": "42864255663"
       }
     },
     "21281": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29875663",
+        "display_name": "Angel and the Badman SD CZ Dabing",
+        "planned_at": "2026-11-10T21:42:58.820595+00:00"
+      }
     },
     "18709": {
       "attempts": []
@@ -179038,5 +179055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:42:56.130734+00:00"
+  "updated_at": "2026-11-10T21:42:59.709990+00:00"
 }
