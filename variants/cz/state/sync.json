@@ -106100,13 +106100,6 @@
           "source_id": "34882942",
           "target_video_id": "30979783",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:07:21.199778+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34882942",
-          "target_video_id": "30979783",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:42:00.969280+00:00"
         },
         {
@@ -106115,12 +106108,19 @@
           "target_video_id": "30979783",
           "permanent": false,
           "attempted_at": "2026-11-10T21:14:52.945082+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34882942",
+          "target_video_id": "30979783",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:48:14.229559+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34882942",
         "display_name": "A Marriage Story 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:14:50.899305+00:00"
+        "planned_at": "2026-11-10T21:48:12.311825+00:00"
       },
       "previous_target_id": "30979783",
       "prepared": {
@@ -124012,7 +124012,13 @@
       "last_plan": {
         "source_id": "31916577",
         "display_name": "He's a Dragon (Он - дракон) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:48:06.775306+00:00"
+        "planned_at": "2026-11-10T21:48:12.572546+00:00"
+      },
+      "claim": {
+        "worker_id": "b4d65546817d4949b79e2d54dfe1d3d5-shard-0",
+        "claimed_at": "2026-11-10T21:48:13.220377+00:00",
+        "lease_expires_at": "2026-11-11T03:48:13.220377+00:00",
+        "run_id": "42864255663"
       }
     },
     "32155": {
@@ -124022,7 +124028,12 @@
       "attempts": []
     },
     "27338": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31751650",
+        "display_name": "David (2025) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:48:12.734278+00:00"
+      }
     },
     "35395": {
       "attempts": []
@@ -179143,5 +179154,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:48:10.396228+00:00"
+  "updated_at": "2026-11-10T21:48:14.229585+00:00"
 }
