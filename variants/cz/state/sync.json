@@ -106925,7 +106925,7 @@
       "last_plan": {
         "source_id": "34883971",
         "display_name": "Václav 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:53:30.588724+00:00"
+        "planned_at": "2026-11-10T15:24:08.914375+00:00"
       },
       "previous_target_id": "30983122",
       "prepared": {
@@ -106933,6 +106933,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T13:52:34.466559+00:00",
         "relay_source_id": "34883971"
+      },
+      "claim": {
+        "worker_id": "8acdc729d7ca46848a4465a711935e08-shard-0",
+        "claimed_at": "2026-11-10T15:24:09.699223+00:00",
+        "lease_expires_at": "2026-11-10T21:24:09.699223+00:00",
+        "run_id": "42823888331"
       }
     },
     "30300": {
@@ -110742,6 +110748,13 @@
           "target_video_id": "30983814",
           "permanent": false,
           "attempted_at": "2026-11-10T14:53:31.174611+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28002913",
+          "target_video_id": "30983814",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:24:10.502443+00:00"
         }
       ],
       "last_plan": {
@@ -110752,7 +110765,7 @@
       "previous_target_id": "30983814",
       "prepared": {
         "target_video_id": "30983814",
-        "size_bytes": 955965736,
+        "size_bytes": 956000000,
         "prepared_at": "2026-11-10T14:52:53.264826+00:00",
         "relay_source_id": "28002913"
       }
@@ -112101,7 +112114,7 @@
       "last_plan": {
         "source_id": "32938636",
         "display_name": "Contagion 4K CZ Dabing",
-        "planned_at": "2026-11-10T15:24:06.251222+00:00"
+        "planned_at": "2026-11-10T15:24:09.236485+00:00"
       }
     },
     "18149": {
@@ -168470,5 +168483,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:24:06.705931+00:00"
+  "updated_at": "2026-11-10T15:24:10.502461+00:00"
 }
