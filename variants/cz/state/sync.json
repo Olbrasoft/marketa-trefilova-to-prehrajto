@@ -107410,17 +107410,19 @@
       "attempts": []
     },
     "31571": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34908320",
+          "target_video_id": "30983539",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:17:03.964528+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34908320",
         "display_name": "Pražská 5 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:16:20.143048+00:00"
-      },
-      "claim": {
-        "worker_id": "576d9aa43dfc484cbd8a07bba07b9895-shard-0",
-        "claimed_at": "2026-11-10T14:16:20.564621+00:00",
-        "lease_expires_at": "2026-11-10T20:16:20.564621+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983539",
       "prepared": {
@@ -107431,10 +107433,32 @@
       }
     },
     "24344": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27896203",
+        "display_name": "The Star (1949) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:17:02.206523+00:00"
+      },
+      "claim": {
+        "worker_id": "3fe2bf86112848638bdabcc654783b53-shard-0",
+        "claimed_at": "2026-11-10T14:17:02.837677+00:00",
+        "lease_expires_at": "2026-11-10T20:17:02.837677+00:00",
+        "run_id": "42823888331"
+      }
     },
     "11488": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32364584",
+        "display_name": "Sestřičky 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:17:02.393768+00:00"
+      },
+      "claim": {
+        "worker_id": "0438a98244ad4028adcbc05d11db7ed7-shard-0",
+        "claimed_at": "2026-11-10T14:17:03.000270+00:00",
+        "lease_expires_at": "2026-11-10T20:17:03.000270+00:00",
+        "run_id": "42823888331"
+      }
     },
     "30991": {
       "attempts": []
@@ -164537,5 +164561,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:16:59.831153+00:00"
+  "updated_at": "2026-11-10T14:17:03.964544+00:00"
 }
