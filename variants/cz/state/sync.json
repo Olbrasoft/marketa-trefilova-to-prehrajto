@@ -102260,7 +102260,20 @@
       }
     },
     "22048": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30419892",
+          "reason": "Request failed for https://sdilej.cz/30419892/muz-na-vypomoc-western.us.1971.tvrip.cz.-p.fonda-.mkv (HTTP 500)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:46.084554+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30419892",
+        "display_name": "The Hired Hand 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:25:43.903415+00:00"
+      }
     },
     "28520": {
       "attempts": []
@@ -160706,5 +160719,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:25:41.548865+00:00"
+  "updated_at": "2026-11-10T09:25:46.084570+00:00"
 }
