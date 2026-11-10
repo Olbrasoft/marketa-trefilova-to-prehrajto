@@ -105242,24 +105242,37 @@
       }
     },
     "33673": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34884331",
+          "reason": "Source detail has no authenticated download link; source_id=34884331",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:52.360413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34884331",
         "display_name": "Smejdi (Šmejdi) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:17:45.099034+00:00"
-      },
-      "claim": {
-        "worker_id": "ec9588cbf6cc4b3da5a539b417548c2d-shard-0",
-        "claimed_at": "2026-11-10T10:17:45.660028+00:00",
-        "lease_expires_at": "2026-11-10T16:17:45.660028+00:00",
-        "run_id": "42790251611"
       }
     },
     "29705": {
       "attempts": []
     },
     "2259": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "14629920",
+        "display_name": "Fritzi: A Revolutionary Tale (Fritzi – Eine Wendewundergeschichte) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:17:51.796867+00:00"
+      },
+      "claim": {
+        "worker_id": "ada7ce9087764cf482c985bab1b63ce6-shard-0",
+        "claimed_at": "2026-11-10T10:17:52.173286+00:00",
+        "lease_expires_at": "2026-11-10T16:17:52.173286+00:00",
+        "run_id": "42790251611"
+      }
     },
     "26207": {
       "attempts": []
@@ -162791,5 +162804,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:49.553729+00:00"
+  "updated_at": "2026-11-10T10:17:52.360432+00:00"
 }
