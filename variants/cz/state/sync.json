@@ -99810,17 +99810,19 @@
       }
     },
     "30380": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30191111",
+          "target_video_id": "30961725",
+          "permanent": false,
+          "attempted_at": "2026-11-10T04:06:10.527352+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30191111",
         "display_name": "The Floating Palace, part 1 (Sofia the First: The Floating Palace) SD CZ Dabing",
         "planned_at": "2026-11-10T04:03:20.319680+00:00"
-      },
-      "claim": {
-        "worker_id": "46e2f7cedff64172b0ab4bca0026aef9-shard-0",
-        "claimed_at": "2026-11-10T04:03:20.700550+00:00",
-        "lease_expires_at": "2026-11-10T10:03:20.700550+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30961725",
       "prepared": {
@@ -158772,5 +158774,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T04:03:24.819654+00:00"
+  "updated_at": "2026-11-10T04:06:10.527367+00:00"
 }
