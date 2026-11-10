@@ -124451,17 +124451,19 @@
       }
     },
     "2879": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24613759",
+          "target_video_id": "30985828",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:08:39.760588+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24613759",
         "display_name": "The Royal Game (Schachnovelle) 1080p CZ Dabing",
         "planned_at": "2026-11-10T22:07:55.012803+00:00"
-      },
-      "claim": {
-        "worker_id": "0e280849e9044c43af75f3e66e051a5c-shard-0",
-        "claimed_at": "2026-11-10T22:07:57.346506+00:00",
-        "lease_expires_at": "2026-11-11T04:07:57.346506+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985828",
       "prepared": {
@@ -179505,5 +179507,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:08:38.175987+00:00"
+  "updated_at": "2026-11-10T22:08:39.760610+00:00"
 }
