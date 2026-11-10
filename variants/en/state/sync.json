@@ -34307,17 +34307,19 @@
       "attempts": []
     },
     "2279": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14916136",
+          "target_video_id": "30985967",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:00:35.809142+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14916136",
         "display_name": "Rose Island (L'incredibile storia dell'Isola delle Rose) 1080p CZ Titulky",
         "planned_at": "2026-11-10T22:49:47.001448+00:00"
-      },
-      "claim": {
-        "worker_id": "f6d4e27cb245438b9ba7322c4bc22df2-shard-0",
-        "claimed_at": "2026-11-10T22:49:47.356334+00:00",
-        "lease_expires_at": "2026-11-11T04:49:47.356334+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30985967",
       "prepared": {
@@ -96243,5 +96245,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:59:53.952572+00:00"
+  "updated_at": "2026-11-10T23:00:35.809165+00:00"
 }
