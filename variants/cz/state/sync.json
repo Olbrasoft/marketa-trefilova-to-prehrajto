@@ -117913,13 +117913,6 @@
           "source_id": "32263146",
           "target_video_id": "30984860",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:11:47.112393+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32263146",
-          "target_video_id": "30984860",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:45:16.465764+00:00"
         },
         {
@@ -117928,6 +117921,13 @@
           "target_video_id": "30984860",
           "permanent": false,
           "attempted_at": "2026-11-10T22:23:51.239934+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32263146",
+          "target_video_id": "30984860",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:05:18.814501+00:00"
         }
       ],
       "last_plan": {
@@ -119506,7 +119506,7 @@
       "last_plan": {
         "source_id": "15342199",
         "display_name": "Jersey Boys 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:23:52.972474+00:00"
+        "planned_at": "2026-11-10T23:05:17.456841+00:00"
       },
       "previous_target_id": "30984988",
       "prepared": {
@@ -119514,6 +119514,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T18:27:44.097179+00:00",
         "relay_source_id": "15342199"
+      },
+      "claim": {
+        "worker_id": "c8d85d065ede49f18841d95c44a66611-shard-0",
+        "claimed_at": "2026-11-10T23:05:18.207276+00:00",
+        "lease_expires_at": "2026-11-11T05:05:18.207276+00:00",
+        "run_id": "42904278669"
       }
     },
     "22451": {
@@ -125260,7 +125266,7 @@
       "last_plan": {
         "source_id": "34700408",
         "display_name": "Firecreek 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:05:15.481174+00:00"
+        "planned_at": "2026-11-10T23:05:17.774309+00:00"
       }
     },
     "20329": {
@@ -180141,5 +180147,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:05:15.481196+00:00"
+  "updated_at": "2026-11-10T23:05:18.814522+00:00"
 }
