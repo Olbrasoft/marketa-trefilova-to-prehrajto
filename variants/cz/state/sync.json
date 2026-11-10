@@ -111157,13 +111157,6 @@
           "source_id": "34716815",
           "target_video_id": "30983811",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:49:17.289686+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34716815",
-          "target_video_id": "30983811",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:29:00.510418+00:00"
         },
         {
@@ -111172,6 +111165,13 @@
           "target_video_id": "30983811",
           "permanent": false,
           "attempted_at": "2026-11-10T23:10:44.077084+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716815",
+          "target_video_id": "30983811",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:50:44.750745+00:00"
         }
       ],
       "last_plan": {
@@ -124393,7 +124393,7 @@
       "last_plan": {
         "source_id": "31916577",
         "display_name": "He's a Dragon (Он - дракон) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:10:45.648313+00:00"
+        "planned_at": "2026-11-10T23:50:42.452691+00:00"
       },
       "previous_target_id": "30985772",
       "prepared": {
@@ -124401,6 +124401,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T21:48:16.921812+00:00",
         "relay_source_id": "31916577"
+      },
+      "claim": {
+        "worker_id": "1e35148afe2249d88128ff4d1d950cef-shard-0",
+        "claimed_at": "2026-11-10T23:50:43.398052+00:00",
+        "lease_expires_at": "2026-11-11T05:50:43.398052+00:00",
+        "run_id": "42904278669"
       }
     },
     "32155": {
@@ -126002,11 +126008,22 @@
       "last_plan": {
         "source_id": "28796138",
         "display_name": "Standing Up SD CZ Dabing",
-        "planned_at": "2026-11-10T23:50:39.870676+00:00"
+        "planned_at": "2026-11-10T23:50:42.773423+00:00"
+      },
+      "claim": {
+        "worker_id": "d260b5d5910049bc92d4699ad6e9e6cb-shard-0",
+        "claimed_at": "2026-11-10T23:50:43.644900+00:00",
+        "lease_expires_at": "2026-11-11T05:50:43.644900+00:00",
+        "run_id": "42904278669"
       }
     },
     "22932": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28764555",
+        "display_name": "The Quick and the Dead (1987) SD CZ Dabing",
+        "planned_at": "2026-11-10T23:50:43.002871+00:00"
+      }
     },
     "33773": {
       "attempts": []
@@ -180743,5 +180760,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:50:40.128896+00:00"
+  "updated_at": "2026-11-10T23:50:44.750765+00:00"
 }
