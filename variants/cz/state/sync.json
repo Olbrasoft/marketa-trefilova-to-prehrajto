@@ -110846,17 +110846,24 @@
           "target_video_id": "30983823",
           "permanent": false,
           "attempted_at": "2026-11-10T14:54:20.575356+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35077086",
+          "target_video_id": "30983823",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:24:24.067600+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35077086",
         "display_name": "The Adventurous Bachelor (Nezbedný bakalář) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:53:37.492331+00:00"
+        "planned_at": "2026-11-10T15:24:21.579943+00:00"
       },
       "previous_target_id": "30983823",
       "prepared": {
         "target_video_id": "30983823",
-        "size_bytes": 2159693941,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T14:53:41.523279+00:00",
         "relay_source_id": "35077086"
       }
@@ -112131,11 +112138,22 @@
       "last_plan": {
         "source_id": "34697411",
         "display_name": "Bridesmaids 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:24:15.205403+00:00"
+        "planned_at": "2026-11-10T15:24:21.883949+00:00"
+      },
+      "claim": {
+        "worker_id": "c93c9266c9a04cbdbfa2baa0480ba1fd-shard-0",
+        "claimed_at": "2026-11-10T15:24:22.620307+00:00",
+        "lease_expires_at": "2026-11-10T21:24:22.620307+00:00",
+        "run_id": "42823888331"
       }
     },
     "2875": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29053406",
+        "display_name": "Nope 1080p CZ Dabing",
+        "planned_at": "2026-11-10T15:24:22.058494+00:00"
+      }
     },
     "3158": {
       "attempts": []
@@ -168497,5 +168515,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:24:18.342560+00:00"
+  "updated_at": "2026-11-10T15:24:24.067617+00:00"
 }
