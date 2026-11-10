@@ -105972,17 +105972,19 @@
       "attempts": []
     },
     "33452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30402827",
+          "target_video_id": "30979764",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:40:23.347773+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30402827",
         "display_name": "Who's Afraid of the Wolf? (Kdopak by se vlka bál) 1080p CZ Dabing",
         "planned_at": "2026-11-10T12:31:17.932986+00:00"
-      },
-      "claim": {
-        "worker_id": "a83f8ac29a454e2e9fc0b5c873651522-shard-0",
-        "claimed_at": "2026-11-10T12:31:18.390045+00:00",
-        "lease_expires_at": "2026-11-10T18:31:18.390045+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30979764",
       "prepared": {
@@ -163460,5 +163462,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:39:15.726326+00:00"
+  "updated_at": "2026-11-10T12:40:23.347789+00:00"
 }
