@@ -111837,13 +111837,6 @@
           "source_id": "12261609",
           "target_video_id": "30983900",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:15:22.213478+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12261609",
-          "target_video_id": "30983900",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:47:45.441486+00:00"
         },
         {
@@ -111852,6 +111845,13 @@
           "target_video_id": "30983900",
           "permanent": false,
           "attempted_at": "2026-11-10T20:19:47.060259+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12261609",
+          "target_video_id": "30983900",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:50:34.489014+00:00"
         }
       ],
       "last_plan": {
@@ -111894,7 +111894,7 @@
       "last_plan": {
         "source_id": "34713455",
         "display_name": "Legend of Love SD CZ Dabing",
-        "planned_at": "2026-11-10T20:19:46.125510+00:00"
+        "planned_at": "2026-11-10T20:50:33.322273+00:00"
       },
       "previous_target_id": "30983901",
       "prepared": {
@@ -111902,6 +111902,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T15:01:30.876853+00:00",
         "relay_source_id": "34713455"
+      },
+      "claim": {
+        "worker_id": "eeca4430eb8d4a4e8b12cc4417b19815-shard-0",
+        "claimed_at": "2026-11-10T20:50:33.955103+00:00",
+        "lease_expires_at": "2026-11-11T02:50:33.955103+00:00",
+        "run_id": "42864255663"
       }
     },
     "28693": {
@@ -123069,7 +123075,7 @@
       "last_plan": {
         "source_id": "26801976",
         "display_name": "Emily 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:50:31.397509+00:00"
+        "planned_at": "2026-11-10T20:50:33.587906+00:00"
       }
     },
     "29773": {
@@ -178359,5 +178365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:50:31.603608+00:00"
+  "updated_at": "2026-11-10T20:50:34.489048+00:00"
 }
