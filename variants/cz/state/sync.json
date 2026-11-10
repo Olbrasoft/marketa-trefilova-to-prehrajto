@@ -64772,7 +64772,7 @@
       "last_plan": {
         "source_id": "11088676",
         "display_name": "Lilting 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:52:28.387313+00:00"
+        "planned_at": "2026-11-10T23:36:34.109801+00:00"
       },
       "previous_target_id": "30819792",
       "prepared": {
@@ -64780,6 +64780,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-05T14:15:35.875478+00:00",
         "relay_source_id": "11088676"
+      },
+      "claim": {
+        "worker_id": "4f5e22e7b85a4b62bfa8d77065012fe1-shard-0",
+        "claimed_at": "2026-11-10T23:36:35.134283+00:00",
+        "lease_expires_at": "2026-11-11T05:36:35.134283+00:00",
+        "run_id": "42904278669"
       }
     },
     "1582": {
@@ -73549,13 +73555,6 @@
           "source_id": "24916658",
           "target_video_id": "30880343",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:36:26.118211+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24916658",
-          "target_video_id": "30880343",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:13:06.961723+00:00"
         },
         {
@@ -73564,6 +73563,13 @@
           "target_video_id": "30880343",
           "permanent": false,
           "attempted_at": "2026-11-10T22:52:26.728085+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24916658",
+          "target_video_id": "30880343",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:36:36.725108+00:00"
         }
       ],
       "last_plan": {
@@ -125664,14 +125670,19 @@
       "last_plan": {
         "source_id": "35401165",
         "display_name": "Murina 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:36:30.793244+00:00"
+        "planned_at": "2026-11-10T23:36:34.425816+00:00"
       }
     },
     "37377": {
       "attempts": []
     },
     "14960": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34502876",
+        "display_name": "Exodus (2023) 720p CZ Dabing",
+        "planned_at": "2026-11-10T23:36:34.651500+00:00"
+      }
     },
     "27379": {
       "attempts": []
@@ -180474,5 +180485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:36:31.288267+00:00"
+  "updated_at": "2026-11-10T23:36:36.725129+00:00"
 }
