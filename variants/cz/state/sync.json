@@ -121033,17 +121033,19 @@
       }
     },
     "11818": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34076897",
+          "target_video_id": "30985430",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:17:17.723305+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34076897",
         "display_name": "The Gods Must Be Crazy II 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:16:09.333992+00:00"
-      },
-      "claim": {
-        "worker_id": "19acdfc0d4fc4761bc9121a3b1779af9-shard-0",
-        "claimed_at": "2026-11-10T19:16:10.128565+00:00",
-        "lease_expires_at": "2026-11-11T01:16:10.128565+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985430",
       "prepared": {
@@ -176605,5 +176607,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:17:16.014620+00:00"
+  "updated_at": "2026-11-10T19:17:17.723323+00:00"
 }
