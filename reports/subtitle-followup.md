@@ -597,3 +597,4 @@ Attach subtitles only after target processing has finished.
 | Game of Thrones: The Last Watch 1080p CZ Titulky | 30959654 | https://sdilej.cz/27669638/hra-o-truny-posledni-hlidka-dokument-hdtv-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | The Stranger (2025) 1080p CZ Titulky | 30958066 | https://sdilej.cz/34083657/l-etranger-2025-1080p-cz-sk.tit.mkv | Extract Czech track from exact source after processing |
 | Tisícročná včela 1080p CZ Titulky | 30959744 | https://sdilej.cz/32069504/tisicrocna-vcela-i-ii-1983-sk-.mkv | Extract Czech track from exact source after processing |
+| Tehran Taboo (Theran Taboo) 1080p CZ Titulky | 30960325 | https://sdilej.cz/29675224/teheranska-tabu-2017-tit.cz.mkv | Extract Czech track from exact source after processing |
