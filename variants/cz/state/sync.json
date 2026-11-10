@@ -119039,17 +119039,19 @@
       "attempts": []
     },
     "18315": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14572727",
+          "target_video_id": "30985009",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:33:26.116479+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14572727",
         "display_name": "The Wizard of Lies 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:32:41.231471+00:00"
-      },
-      "claim": {
-        "worker_id": "ad6d5a652578486ea39379b66e4aff51-shard-0",
-        "claimed_at": "2026-11-10T18:32:41.556119+00:00",
-        "lease_expires_at": "2026-11-11T00:32:41.556119+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985009",
       "prepared": {
@@ -174808,5 +174810,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:33:24.207433+00:00"
+  "updated_at": "2026-11-10T18:33:26.116495+00:00"
 }
