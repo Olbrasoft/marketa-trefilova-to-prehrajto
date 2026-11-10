@@ -83409,13 +83409,6 @@
           "source_id": "30859189",
           "target_video_id": "30915737",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:50:26.516521+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30859189",
-          "target_video_id": "30915737",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:20:41.684014+00:00"
         },
         {
@@ -83424,6 +83417,13 @@
           "target_video_id": "30915737",
           "permanent": false,
           "attempted_at": "2026-11-10T17:50:54.073208+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30859189",
+          "target_video_id": "30915737",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:22:16.011972+00:00"
         }
       ],
       "last_plan": {
@@ -83550,7 +83550,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:50:54.623454+00:00"
+        "planned_at": "2026-11-10T18:22:14.910001+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -83558,6 +83558,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "edb4821bba784c6180ac9b204a9c967f-shard-0",
+        "claimed_at": "2026-11-10T18:22:15.519449+00:00",
+        "lease_expires_at": "2026-11-11T00:22:15.519449+00:00",
+        "run_id": "42864255663"
       }
     },
     "1954": {
@@ -118370,7 +118376,7 @@
       "last_plan": {
         "source_id": "32925561",
         "display_name": "Detroit Rock City 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:22:12.866524+00:00"
+        "planned_at": "2026-11-10T18:22:15.166765+00:00"
       }
     },
     "2889": {
@@ -174192,5 +174198,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:22:13.069959+00:00"
+  "updated_at": "2026-11-10T18:22:16.011988+00:00"
 }
