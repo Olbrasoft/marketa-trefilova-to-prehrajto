@@ -121565,17 +121565,19 @@
       }
     },
     "2946": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26657066",
+          "target_video_id": "30985478",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:33:29.443141+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26657066",
         "display_name": "The Last Full Measure 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:32:42.897252+00:00"
-      },
-      "claim": {
-        "worker_id": "108aa622d8464585a0e5a37bb172dc2b-shard-0",
-        "claimed_at": "2026-11-10T19:32:44.912429+00:00",
-        "lease_expires_at": "2026-11-11T01:32:44.912429+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985478",
       "prepared": {
@@ -177042,5 +177044,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:33:27.709899+00:00"
+  "updated_at": "2026-11-10T19:33:29.443161+00:00"
 }
