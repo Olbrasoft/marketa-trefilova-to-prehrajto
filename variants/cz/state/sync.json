@@ -117924,7 +117924,7 @@
       "last_plan": {
         "source_id": "14091913",
         "display_name": "Judy (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:59:48.483514+00:00"
+        "planned_at": "2026-11-10T18:30:51.556172+00:00"
       },
       "previous_target_id": "30984870",
       "prepared": {
@@ -118892,17 +118892,19 @@
       }
     },
     "2997": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11263337",
+          "target_video_id": "30985002",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:30:53.358699+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11263337",
         "display_name": "Bugsy SD CZ Dabing",
         "planned_at": "2026-11-10T18:30:11.682720+00:00"
-      },
-      "claim": {
-        "worker_id": "2bd0419a9d5447c8a01bdd59973f06a9-shard-0",
-        "claimed_at": "2026-11-10T18:30:12.024422+00:00",
-        "lease_expires_at": "2026-11-11T00:30:12.024422+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985002",
       "prepared": {
@@ -118913,7 +118915,12 @@
       }
     },
     "3022": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "25263125",
+        "display_name": "Bleed for This 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:30:51.827678+00:00"
+      }
     },
     "23119": {
       "attempts": []
@@ -174653,5 +174660,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:30:46.226965+00:00"
+  "updated_at": "2026-11-10T18:30:53.358716+00:00"
 }
