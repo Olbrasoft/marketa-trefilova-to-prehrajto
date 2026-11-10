@@ -103382,17 +103382,19 @@
       }
     },
     "24026": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34576652",
+          "reason": "Source detail has no authenticated download link; source_id=34576652",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:11:09.071028+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34576652",
         "display_name": "Daisy Town 720p CZ Dabing",
         "planned_at": "2026-11-10T10:11:03.721926+00:00"
-      },
-      "claim": {
-        "worker_id": "7c3bfa73f2b14681bc754c884bea955b-shard-0",
-        "claimed_at": "2026-11-10T10:11:04.244169+00:00",
-        "lease_expires_at": "2026-11-10T16:11:04.244169+00:00",
-        "run_id": "42790251611"
       }
     },
     "12974": {
@@ -161467,5 +161469,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:11:07.401138+00:00"
+  "updated_at": "2026-11-10T10:11:09.071048+00:00"
 }
