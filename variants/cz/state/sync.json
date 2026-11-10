@@ -37058,13 +37058,6 @@
           "source_id": "29388321",
           "target_video_id": "30743729",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:56:06.855586+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29388321",
-          "target_video_id": "30743729",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:28:51.765822+00:00"
         },
         {
@@ -37073,6 +37066,13 @@
           "target_video_id": "30743729",
           "permanent": false,
           "attempted_at": "2026-11-10T20:59:53.748853+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29388321",
+          "target_video_id": "30743729",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:35:43.030604+00:00"
         }
       ],
       "last_plan": {
@@ -119173,7 +119173,7 @@
       "last_plan": {
         "source_id": "32799273",
         "display_name": "The Life List 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:59:53.943372+00:00"
+        "planned_at": "2026-11-10T21:35:41.770227+00:00"
       },
       "previous_target_id": "30984959",
       "prepared": {
@@ -119181,6 +119181,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T18:19:44.973444+00:00",
         "relay_source_id": "32799273"
+      },
+      "claim": {
+        "worker_id": "d04a1380562a4d5fadf55780dcfa2649-shard-0",
+        "claimed_at": "2026-11-10T21:35:42.652472+00:00",
+        "lease_expires_at": "2026-11-11T03:35:42.652472+00:00",
+        "run_id": "42864255663"
       }
     },
     "23650": {
@@ -123691,11 +123697,22 @@
       "last_plan": {
         "source_id": "33000024",
         "display_name": "Murder by Decree 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:35:39.328397+00:00"
+        "planned_at": "2026-11-10T21:35:42.040225+00:00"
+      },
+      "claim": {
+        "worker_id": "5b4e4cfa0400441ab7a7e6630402901b-shard-0",
+        "claimed_at": "2026-11-10T21:35:42.814239+00:00",
+        "lease_expires_at": "2026-11-11T03:35:42.814239+00:00",
+        "run_id": "42864255663"
       }
     },
     "2798": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30800295",
+        "display_name": "My Penguin Friend 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:35:42.241720+00:00"
+      }
     },
     "2833": {
       "attempts": []
@@ -178870,5 +178887,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:35:39.544689+00:00"
+  "updated_at": "2026-11-10T21:35:43.030623+00:00"
 }
