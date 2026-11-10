@@ -98296,13 +98296,6 @@
           "source_id": "25775847",
           "target_video_id": "30957288",
           "permanent": false,
-          "attempted_at": "2026-11-10T04:54:24.832819+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25775847",
-          "target_video_id": "30957288",
-          "permanent": false,
           "attempted_at": "2026-11-10T05:41:19.636785+00:00"
         },
         {
@@ -98311,6 +98304,13 @@
           "target_video_id": "30957288",
           "permanent": false,
           "attempted_at": "2026-11-10T06:17:59.586810+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25775847",
+          "target_video_id": "30957288",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:54:19.145820+00:00"
         }
       ],
       "last_plan": {
@@ -99600,7 +99600,7 @@
       "last_plan": {
         "source_id": "27374216",
         "display_name": "North to Alaska SD CZ Dabing",
-        "planned_at": "2026-11-10T06:18:01.226246+00:00"
+        "planned_at": "2026-11-10T06:54:17.129876+00:00"
       },
       "previous_target_id": "30961098",
       "prepared": {
@@ -99608,6 +99608,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T03:43:51.701050+00:00",
         "relay_source_id": "27374216"
+      },
+      "claim": {
+        "worker_id": "a6fd3169edbd4412bd436c0f88f5c11f-shard-0",
+        "claimed_at": "2026-11-10T06:54:17.665221+00:00",
+        "lease_expires_at": "2026-11-10T12:54:17.665221+00:00",
+        "run_id": "42761712557"
       }
     },
     "21190": {
@@ -100787,7 +100793,7 @@
       "last_plan": {
         "source_id": "32103746",
         "display_name": "Crown for Christmas SD CZ Dabing",
-        "planned_at": "2026-11-10T06:54:15.203324+00:00"
+        "planned_at": "2026-11-10T06:54:17.362056+00:00"
       }
     },
     "22139": {
@@ -159576,5 +159582,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:54:15.203346+00:00"
+  "updated_at": "2026-11-10T06:54:19.145839+00:00"
 }
