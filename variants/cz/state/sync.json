@@ -99600,7 +99600,7 @@
       "last_plan": {
         "source_id": "27374216",
         "display_name": "North to Alaska SD CZ Dabing",
-        "planned_at": "2026-11-10T15:11:38.229496+00:00"
+        "planned_at": "2026-11-10T15:46:01.237677+00:00"
       },
       "previous_target_id": "30961098",
       "prepared": {
@@ -99608,6 +99608,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T03:43:51.701050+00:00",
         "relay_source_id": "27374216"
+      },
+      "claim": {
+        "worker_id": "77b655403d7144bfaec9fd0ae99e2340-shard-0",
+        "claimed_at": "2026-11-10T15:46:02.018840+00:00",
+        "lease_expires_at": "2026-11-10T21:46:02.018840+00:00",
+        "run_id": "42823888331"
       }
     },
     "21190": {
@@ -113060,17 +113066,19 @@
       }
     },
     "2821": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28048905",
+          "target_video_id": "30984162",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:46:03.100694+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28048905",
         "display_name": "Mad Max 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:35:50.718721+00:00"
-      },
-      "claim": {
-        "worker_id": "3ea1c0c23a3c4d038d8ded4b346a3b02-shard-0",
-        "claimed_at": "2026-11-10T15:35:51.106586+00:00",
-        "lease_expires_at": "2026-11-10T21:35:51.106586+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984162",
       "prepared": {
@@ -113108,7 +113116,7 @@
       "last_plan": {
         "source_id": "29864977",
         "display_name": "Enemy 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:45:56.351083+00:00"
+        "planned_at": "2026-11-10T15:46:01.541013+00:00"
       }
     },
     "3126": {
@@ -169396,5 +169404,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:45:59.122822+00:00"
+  "updated_at": "2026-11-10T15:46:03.100710+00:00"
 }
