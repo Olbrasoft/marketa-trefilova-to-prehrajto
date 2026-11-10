@@ -111028,6 +111028,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T14:51:02.683791+00:00",
         "relay_source_id": "34952768"
+      },
+      "claim": {
+        "worker_id": "9da6d4cc775a4f6bad8ed802778539bb-shard-0",
+        "claimed_at": "2026-11-10T22:26:43.075930+00:00",
+        "lease_expires_at": "2026-11-11T04:26:43.075930+00:00",
+        "run_id": "42904278669"
       }
     },
     "13010": {
@@ -111066,7 +111072,7 @@
       "last_plan": {
         "source_id": "35073576",
         "display_name": "Řeka čaruje 720p CZ Dabing",
-        "planned_at": "2026-11-10T21:47:43.062004+00:00"
+        "planned_at": "2026-11-10T22:26:43.294971+00:00"
       },
       "previous_target_id": "30983807",
       "prepared": {
@@ -111074,6 +111080,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T14:51:07.924459+00:00",
         "relay_source_id": "35073576"
+      },
+      "claim": {
+        "worker_id": "12837aa54c80430e9ea45110c5a233c7-shard-0",
+        "claimed_at": "2026-11-10T22:26:43.994136+00:00",
+        "lease_expires_at": "2026-11-11T04:26:43.994136+00:00",
+        "run_id": "42904278669"
       }
     },
     "12571": {
@@ -112970,13 +112982,6 @@
           "source_id": "33199372",
           "target_video_id": "30984053",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:41:30.561576+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33199372",
-          "target_video_id": "30984053",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:14:11.118556+00:00"
         },
         {
@@ -112985,6 +112990,13 @@
           "target_video_id": "30984053",
           "permanent": false,
           "attempted_at": "2026-11-10T21:47:41.525411+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33199372",
+          "target_video_id": "30984053",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:26:44.305577+00:00"
         }
       ],
       "last_plan": {
@@ -112998,12 +113010,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T15:21:11.415854+00:00",
         "relay_source_id": "33199372"
-      },
-      "claim": {
-        "worker_id": "ec55be6bd63c4b7293727deffbfddc69-shard-0",
-        "claimed_at": "2026-11-10T22:26:40.608145+00:00",
-        "lease_expires_at": "2026-11-11T04:26:40.608145+00:00",
-        "run_id": "42904278669"
       }
     },
     "3067": {
@@ -124716,7 +124722,7 @@
       "last_plan": {
         "source_id": "34185758",
         "display_name": "I Like Movies 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:26:41.145704+00:00"
+        "planned_at": "2026-11-10T22:26:43.606075+00:00"
       }
     },
     "28226": {
@@ -179700,5 +179706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:26:41.145723+00:00"
+  "updated_at": "2026-11-10T22:26:44.305601+00:00"
 }
