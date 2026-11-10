@@ -121291,6 +121291,13 @@
           "target_video_id": "30985399",
           "permanent": false,
           "attempted_at": "2026-11-10T19:39:58.670037+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28233220",
+          "target_video_id": "30985399",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:10:05.397889+00:00"
         }
       ],
       "last_plan": {
@@ -121356,7 +121363,7 @@
       "last_plan": {
         "source_id": "34650910",
         "display_name": "That Christmas 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:40:00.215780+00:00"
+        "planned_at": "2026-11-10T20:10:04.192909+00:00"
       },
       "previous_target_id": "30985403",
       "prepared": {
@@ -121364,6 +121371,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T19:08:19.690238+00:00",
         "relay_source_id": "34650910"
+      },
+      "claim": {
+        "worker_id": "fda3f78733d54a609cad4e9dc6964015-shard-0",
+        "claimed_at": "2026-11-10T20:10:05.167904+00:00",
+        "lease_expires_at": "2026-11-11T02:10:05.167904+00:00",
+        "run_id": "42864255663"
       }
     },
     "2927": {
@@ -122370,6 +122383,12 @@
         "source_id": "33589689",
         "display_name": "Paris 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:10:01.383837+00:00"
+      },
+      "claim": {
+        "worker_id": "240f9d501dfc43c3b9279502d6428632-shard-0",
+        "claimed_at": "2026-11-10T20:10:03.647099+00:00",
+        "lease_expires_at": "2026-11-11T02:10:03.647099+00:00",
+        "run_id": "42864255663"
       }
     },
     "27916": {
@@ -122377,7 +122396,7 @@
       "last_plan": {
         "source_id": "35438981",
         "display_name": "Populaire 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:10:01.575762+00:00"
+        "planned_at": "2026-11-10T20:10:04.518415+00:00"
       }
     },
     "35384": {
@@ -177766,5 +177785,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:10:01.575775+00:00"
+  "updated_at": "2026-11-10T20:10:05.397910+00:00"
 }
