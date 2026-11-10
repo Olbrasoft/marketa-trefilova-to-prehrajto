@@ -102032,7 +102032,20 @@
       }
     },
     "25165": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30853866",
+          "reason": "Source detail has no authenticated download link; source_id=30853866",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:24:50.328738+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30853866",
+        "display_name": "Strings 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:24:48.659274+00:00"
+      }
     },
     "27713": {
       "attempts": []
@@ -160550,5 +160563,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:24:43.071761+00:00"
+  "updated_at": "2026-11-10T09:24:50.328756+00:00"
 }
