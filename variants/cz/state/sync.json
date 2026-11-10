@@ -13998,13 +13998,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:53:24.039955+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-10T13:27:24.272587+00:00"
         },
         {
@@ -14013,12 +14006,19 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-10T13:59:42.339779+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:30:27.064533+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-10T13:59:30.010230+00:00"
+        "planned_at": "2026-11-10T14:30:25.032291+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -108192,14 +108192,25 @@
       "last_plan": {
         "source_id": "24370736",
         "display_name": "Na druhý pohled 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:30:19.262051+00:00"
+        "planned_at": "2026-11-10T14:30:25.342213+00:00"
+      },
+      "claim": {
+        "worker_id": "78f06f185110498f8e44dae804560001-shard-0",
+        "claimed_at": "2026-11-10T14:30:26.070862+00:00",
+        "lease_expires_at": "2026-11-10T20:30:26.070862+00:00",
+        "run_id": "42823888331"
       }
     },
     "24062": {
       "attempts": []
     },
     "33991": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35068853",
+        "display_name": "Jako kníže Rohan SD CZ Dabing",
+        "planned_at": "2026-11-10T14:30:25.516599+00:00"
+      }
     },
     "33779": {
       "attempts": []
@@ -165167,5 +165178,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:30:21.182927+00:00"
+  "updated_at": "2026-11-10T14:30:27.064550+00:00"
 }
