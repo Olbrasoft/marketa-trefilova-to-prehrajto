@@ -108412,17 +108412,19 @@
       "attempts": []
     },
     "10688": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34671725",
+          "target_video_id": "30983679",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:33:53.631361+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34671725",
         "display_name": "The Merry Wives (Cech panen kutnohorských) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:33:13.914422+00:00"
-      },
-      "claim": {
-        "worker_id": "8acfcb1f594447d09878dd88dd111afb-shard-0",
-        "claimed_at": "2026-11-10T14:33:14.306876+00:00",
-        "lease_expires_at": "2026-11-10T20:33:14.306876+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983679",
       "prepared": {
@@ -165398,5 +165400,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:33:44.113294+00:00"
+  "updated_at": "2026-11-10T14:33:53.631374+00:00"
 }
