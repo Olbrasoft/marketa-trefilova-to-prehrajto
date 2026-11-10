@@ -111234,13 +111234,6 @@
           "source_id": "28002913",
           "target_video_id": "30983814",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:35:29.075988+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28002913",
-          "target_video_id": "30983814",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:07:18.957685+00:00"
         },
         {
@@ -111249,6 +111242,13 @@
           "target_video_id": "30983814",
           "permanent": false,
           "attempted_at": "2026-11-10T19:38:37.521478+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28002913",
+          "target_video_id": "30983814",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:09:10.149874+00:00"
         }
       ],
       "last_plan": {
@@ -120104,7 +120104,7 @@
       "last_plan": {
         "source_id": "10458356",
         "display_name": "Mr. Turner 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:38:39.150089+00:00"
+        "planned_at": "2026-11-10T20:09:09.041771+00:00"
       },
       "previous_target_id": "30985017",
       "prepared": {
@@ -120112,6 +120112,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-10T18:34:52.542208+00:00",
         "relay_source_id": "10458356"
+      },
+      "claim": {
+        "worker_id": "06e2d507302c4311986d72b56c977e2e-shard-0",
+        "claimed_at": "2026-11-10T20:09:09.656683+00:00",
+        "lease_expires_at": "2026-11-11T02:09:09.656683+00:00",
+        "run_id": "42864255663"
       }
     },
     "20300": {
@@ -122367,7 +122373,7 @@
       "last_plan": {
         "source_id": "33589689",
         "display_name": "Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:09:07.270566+00:00"
+        "planned_at": "2026-11-10T20:09:09.300331+00:00"
       }
     },
     "27916": {
@@ -177759,5 +177765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:09:07.270584+00:00"
+  "updated_at": "2026-11-10T20:09:10.149891+00:00"
 }
