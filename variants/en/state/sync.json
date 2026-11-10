@@ -33739,17 +33739,19 @@
       "attempts": []
     },
     "10739": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6563156",
+          "target_video_id": "30983632",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:28:09.252936+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6563156",
         "display_name": "The Seven Year Itch 1080p CZ Titulky",
         "planned_at": "2026-11-10T14:25:30.308292+00:00"
-      },
-      "claim": {
-        "worker_id": "87a55b8b2a604083846ee6c5e9897c9a-shard-0",
-        "claimed_at": "2026-11-10T14:25:32.111365+00:00",
-        "lease_expires_at": "2026-11-10T20:25:32.111365+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983632",
       "prepared": {
@@ -95942,5 +95944,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:26:38.210674+00:00"
+  "updated_at": "2026-11-10T14:28:09.252951+00:00"
 }
