@@ -70,7 +70,7 @@
       "last_plan": {
         "source_id": "32109264",
         "display_name": "The Godfather 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:52:32.125466+00:00"
+        "planned_at": "2026-11-10T19:25:06.920561+00:00"
       },
       "previous_target_id": "30568614",
       "prepared": {
@@ -78,6 +78,12 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
+      },
+      "claim": {
+        "worker_id": "1a2023f675214f55ada3d63570fba591-shard-0",
+        "claimed_at": "2026-11-10T19:25:07.661905+00:00",
+        "lease_expires_at": "2026-11-11T01:25:07.661905+00:00",
+        "run_id": "42864255663"
       }
     },
     "9": {
@@ -7106,13 +7112,6 @@
           "source_id": "26239565",
           "target_video_id": "30627346",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:50:39.736350+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26239565",
-          "target_video_id": "30627346",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:22:00.108962+00:00"
         },
         {
@@ -7121,6 +7120,13 @@
           "target_video_id": "30627346",
           "permanent": false,
           "attempted_at": "2026-11-10T18:52:32.887868+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26239565",
+          "target_video_id": "30627346",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:25:09.285178+00:00"
         }
       ],
       "last_plan": {
@@ -121314,14 +121320,25 @@
       "last_plan": {
         "source_id": "26395720",
         "display_name": "Shoot to Kill 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:25:04.458505+00:00"
+        "planned_at": "2026-11-10T19:25:07.183302+00:00"
+      },
+      "claim": {
+        "worker_id": "39a6070a2cf941469747cc8176ec5416-shard-0",
+        "claimed_at": "2026-11-10T19:25:07.849683+00:00",
+        "lease_expires_at": "2026-11-11T01:25:07.849683+00:00",
+        "run_id": "42864255663"
       }
     },
     "31788": {
       "attempts": []
     },
     "23389": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28510712",
+        "display_name": "Heaven & Earth SD CZ Dabing",
+        "planned_at": "2026-11-10T19:25:07.344865+00:00"
+      }
     },
     "12443": {
       "attempts": []
@@ -176793,5 +176810,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:25:04.458524+00:00"
+  "updated_at": "2026-11-10T19:25:09.285202+00:00"
 }
