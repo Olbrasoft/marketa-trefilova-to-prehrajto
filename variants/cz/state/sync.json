@@ -115710,17 +115710,19 @@
       }
     },
     "2814": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34455392",
+          "target_video_id": "30984733",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:29:10.371544+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34455392",
         "display_name": "Dream Scenario 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:26:31.482127+00:00"
-      },
-      "claim": {
-        "worker_id": "2f79c2a0b108442db0a38013a4136ccc-shard-0",
-        "claimed_at": "2026-11-10T17:26:31.902052+00:00",
-        "lease_expires_at": "2026-11-10T23:26:31.902052+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984733",
       "prepared": {
@@ -171844,5 +171846,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:29:06.890454+00:00"
+  "updated_at": "2026-11-10T17:29:10.371560+00:00"
 }
