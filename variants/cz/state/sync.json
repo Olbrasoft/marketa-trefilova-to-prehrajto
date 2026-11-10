@@ -123836,17 +123836,19 @@
       "attempts": []
     },
     "22249": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34256336",
+          "target_video_id": "30985753",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:41:53.284041+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34256336",
         "display_name": "The Great Waldo Pepper 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:40:37.798161+00:00"
-      },
-      "claim": {
-        "worker_id": "037ae8d773884068a1a3a22c587fb21e-shard-0",
-        "claimed_at": "2026-11-10T21:40:39.969985+00:00",
-        "lease_expires_at": "2026-11-11T03:40:39.969985+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985753",
       "prepared": {
@@ -179016,5 +179018,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:41:51.550862+00:00"
+  "updated_at": "2026-11-10T21:41:53.284062+00:00"
 }
