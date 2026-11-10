@@ -111916,7 +111916,7 @@
       "last_plan": {
         "source_id": "4659922",
         "display_name": "The God's Rainbow (Boží duha) SD CZ Dabing",
-        "planned_at": "2026-11-10T17:08:48.101572+00:00"
+        "planned_at": "2026-11-10T17:38:57.309513+00:00"
       },
       "previous_target_id": "30983903",
       "prepared": {
@@ -111924,6 +111924,12 @@
         "size_bytes": 782100000,
         "prepared_at": "2026-11-10T15:01:46.018294+00:00",
         "relay_source_id": "4659922"
+      },
+      "claim": {
+        "worker_id": "358c71d00ad04cb2906ce0af4dc7403c-shard-0",
+        "claimed_at": "2026-11-10T17:38:58.282697+00:00",
+        "lease_expires_at": "2026-11-10T23:38:58.282697+00:00",
+        "run_id": "42823888331"
       }
     },
     "24472": {
@@ -116028,17 +116034,19 @@
       }
     },
     "3026": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29062405",
+          "target_video_id": "30984771",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:38:59.211231+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29062405",
         "display_name": "A Ghost Story 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:38:19.047244+00:00"
-      },
-      "claim": {
-        "worker_id": "83c4626ad0e74f9282889325c6c88220-shard-0",
-        "claimed_at": "2026-11-10T17:38:19.784677+00:00",
-        "lease_expires_at": "2026-11-10T23:38:19.784677+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984771",
       "prepared": {
@@ -116053,11 +116061,22 @@
       "last_plan": {
         "source_id": "35331022",
         "display_name": "Stripes 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:38:52.869273+00:00"
+        "planned_at": "2026-11-10T17:38:57.627860+00:00"
+      },
+      "claim": {
+        "worker_id": "3e8a139f001b4aa48cda593fb91c12f2-shard-0",
+        "claimed_at": "2026-11-10T17:38:58.455291+00:00",
+        "lease_expires_at": "2026-11-10T23:38:58.455291+00:00",
+        "run_id": "42823888331"
       }
     },
     "13250": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33810806",
+        "display_name": "Peter Pan (2003) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:38:57.826456+00:00"
+      }
     },
     "3146": {
       "attempts": []
@@ -172116,5 +172135,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:38:55.428170+00:00"
+  "updated_at": "2026-11-10T17:38:59.211248+00:00"
 }
