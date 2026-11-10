@@ -104942,17 +104942,19 @@
       }
     },
     "29041": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34711596",
+          "reason": "Source detail has no authenticated download link; source_id=34711596",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:16:50.444348+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34711596",
         "display_name": "Eights (Osmy) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:16:44.571391+00:00"
-      },
-      "claim": {
-        "worker_id": "0700858ff6824c30abfda63f16bc3532-shard-0",
-        "claimed_at": "2026-11-10T10:16:45.281381+00:00",
-        "lease_expires_at": "2026-11-10T16:16:45.281381+00:00",
-        "run_id": "42790251611"
       }
     },
     "17321": {
@@ -162585,5 +162587,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:16:48.836304+00:00"
+  "updated_at": "2026-11-10T10:16:50.444368+00:00"
 }
