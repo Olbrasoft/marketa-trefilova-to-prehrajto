@@ -102228,7 +102228,20 @@
       "attempts": []
     },
     "25807": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35344139",
+          "reason": "Request failed for https://sdilej.cz/35344139/2006-wholetrain-drama-69-.mp4 (HTTP 500)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:37.615396+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "35344139",
+        "display_name": "Wholetrain 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:25:35.832268+00:00"
+      }
     },
     "2909": {
       "attempts": []
@@ -160680,5 +160693,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:25:31.842680+00:00"
+  "updated_at": "2026-11-10T09:25:37.615413+00:00"
 }
