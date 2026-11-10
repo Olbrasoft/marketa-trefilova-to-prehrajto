@@ -10875,13 +10875,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:56:20.663387+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:38:19.176417+00:00"
         },
         {
@@ -10890,6 +10883,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-10T23:21:07.877171+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:59:04.696689+00:00"
         }
       ],
       "last_plan": {
@@ -18960,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:21:09.518580+00:00"
+        "planned_at": "2026-11-10T23:59:03.147114+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18968,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "0f8a0a7b6d9241efa6324104b71ecf8b-shard-0",
+        "claimed_at": "2026-11-10T23:59:03.915924+00:00",
+        "lease_expires_at": "2026-11-11T05:59:03.915924+00:00",
+        "run_id": "42904278669"
       }
     },
     "29695": {
@@ -126188,7 +126194,7 @@
       "last_plan": {
         "source_id": "14900937",
         "display_name": "We Bare Bears: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:59:00.729647+00:00"
+        "planned_at": "2026-11-10T23:59:03.475002+00:00"
       }
     },
     "32276": {
@@ -180890,5 +180896,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:59:00.989614+00:00"
+  "updated_at": "2026-11-10T23:59:04.696710+00:00"
 }
