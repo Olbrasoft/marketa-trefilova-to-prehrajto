@@ -105069,17 +105069,19 @@
       }
     },
     "33260": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27791433",
+          "reason": "Source detail has no authenticated download link; source_id=27791433",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:14.190134+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27791433",
         "display_name": "The Snow Queen (Снежная королева) (1967) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:17:09.063900+00:00"
-      },
-      "claim": {
-        "worker_id": "c0173e97e0844977bc032ded63cbeaaf-shard-0",
-        "claimed_at": "2026-11-10T10:17:09.680959+00:00",
-        "lease_expires_at": "2026-11-10T16:17:09.680959+00:00",
-        "run_id": "42790251611"
       }
     },
     "12466": {
@@ -162663,5 +162665,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:12.624158+00:00"
+  "updated_at": "2026-11-10T10:17:14.190153+00:00"
 }
