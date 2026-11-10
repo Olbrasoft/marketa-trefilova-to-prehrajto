@@ -114033,13 +114033,6 @@
           "source_id": "26256406",
           "target_video_id": "30984157",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:39:14.972976+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26256406",
-          "target_video_id": "30984157",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:15:34.735927+00:00"
         },
         {
@@ -114048,6 +114041,13 @@
           "target_video_id": "30984157",
           "permanent": false,
           "attempted_at": "2026-11-10T22:56:06.556544+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26256406",
+          "target_video_id": "30984157",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:39:30.991020+00:00"
         }
       ],
       "last_plan": {
@@ -114061,12 +114061,6 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T15:34:42.880285+00:00",
         "relay_source_id": "26256406"
-      },
-      "claim": {
-        "worker_id": "7e68a7e278544407a851d298de2a430d-shard-0",
-        "claimed_at": "2026-11-10T23:39:28.459211+00:00",
-        "lease_expires_at": "2026-11-11T05:39:28.459211+00:00",
-        "run_id": "42904278669"
       }
     },
     "3077": {
@@ -125715,17 +125709,19 @@
       }
     },
     "27379": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8355120",
+          "target_video_id": "30986218",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:39:31.176370+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8355120",
         "display_name": "Scooby-Doo! Abracadabra-Doo SD CZ Dabing",
         "planned_at": "2026-11-10T23:38:16.855248+00:00"
-      },
-      "claim": {
-        "worker_id": "78217e9c2ea1436abe1ad334c763b30a-shard-0",
-        "claimed_at": "2026-11-10T23:38:17.914735+00:00",
-        "lease_expires_at": "2026-11-11T05:38:17.914735+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986218",
       "prepared": {
@@ -180538,5 +180534,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:39:29.311986+00:00"
+  "updated_at": "2026-11-10T23:39:31.176390+00:00"
 }
