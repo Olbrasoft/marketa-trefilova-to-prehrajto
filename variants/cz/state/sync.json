@@ -120963,17 +120963,19 @@
       }
     },
     "30431": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27907291",
+          "target_video_id": "30985427",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:15:12.661430+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27907291",
         "display_name": "Frozen Fever 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:14:29.713461+00:00"
-      },
-      "claim": {
-        "worker_id": "d42920caedaf4e1db296d899fddfefb6-shard-0",
-        "claimed_at": "2026-11-10T19:14:31.892232+00:00",
-        "lease_expires_at": "2026-11-11T01:14:31.892232+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985427",
       "prepared": {
@@ -176526,5 +176528,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:15:10.899212+00:00"
+  "updated_at": "2026-11-10T19:15:12.661448+00:00"
 }
