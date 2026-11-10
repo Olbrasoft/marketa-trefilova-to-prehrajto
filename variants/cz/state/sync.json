@@ -109374,17 +109374,19 @@
       "attempts": []
     },
     "31971": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35066715",
+          "target_video_id": "30983782",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:47:49.558914+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35066715",
         "display_name": "A Dead Man Among the Living (Mrtvý mezi živými) SD CZ Dabing",
         "planned_at": "2026-11-10T14:46:39.197153+00:00"
-      },
-      "claim": {
-        "worker_id": "43e5576364854f45a733e902e396ae72-shard-0",
-        "claimed_at": "2026-11-10T14:46:39.616303+00:00",
-        "lease_expires_at": "2026-11-10T20:46:39.616303+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983782",
       "prepared": {
@@ -166162,5 +166164,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:47:30.380093+00:00"
+  "updated_at": "2026-11-10T14:47:49.558931+00:00"
 }
