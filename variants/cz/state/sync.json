@@ -109467,17 +109467,19 @@
       }
     },
     "10966": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34880985",
+          "target_video_id": "30983787",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:48:47.572507+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34880985",
         "display_name": "Nejlepší ženská mého života 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:48:04.323833+00:00"
-      },
-      "claim": {
-        "worker_id": "3f02d4ea12834e58bba0ff399cb3ad09-shard-0",
-        "claimed_at": "2026-11-10T14:48:04.731520+00:00",
-        "lease_expires_at": "2026-11-10T20:48:04.731520+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983787",
       "prepared": {
@@ -166243,5 +166245,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:48:37.571124+00:00"
+  "updated_at": "2026-11-10T14:48:47.572523+00:00"
 }
