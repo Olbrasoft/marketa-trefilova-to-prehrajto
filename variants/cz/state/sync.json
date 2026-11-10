@@ -123243,17 +123243,19 @@
       }
     },
     "2981": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32240390",
+          "target_video_id": "30985651",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:01:03.452994+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32240390",
         "display_name": "The Extraordinary Journey of the Fakir 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:59:17.533784+00:00"
-      },
-      "claim": {
-        "worker_id": "a36bde7fa7c64d3a9bd113eff33546f3-shard-0",
-        "claimed_at": "2026-11-10T20:59:18.171720+00:00",
-        "lease_expires_at": "2026-11-11T02:59:18.171720+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985651",
       "prepared": {
@@ -178507,5 +178509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:01:01.669853+00:00"
+  "updated_at": "2026-11-10T21:01:03.453014+00:00"
 }
