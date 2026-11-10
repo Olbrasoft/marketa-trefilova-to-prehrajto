@@ -111597,17 +111597,24 @@
           "target_video_id": "30983926",
           "permanent": false,
           "attempted_at": "2026-11-10T15:04:52.619223+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35074796",
+          "target_video_id": "30983926",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:35:19.265001+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35074796",
         "display_name": "Přísně tajné premiéry 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:04:10.333849+00:00"
+        "planned_at": "2026-11-10T15:35:16.829434+00:00"
       },
       "previous_target_id": "30983926",
       "prepared": {
         "target_video_id": "30983926",
-        "size_bytes": 1996490039,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T15:04:16.781769+00:00",
         "relay_source_id": "35074796"
       }
@@ -112883,10 +112890,26 @@
       }
     },
     "3077": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31964145",
+        "display_name": "Bolt 1080p CZ Dabing",
+        "planned_at": "2026-11-10T15:35:17.130158+00:00"
+      },
+      "claim": {
+        "worker_id": "2dc65735396c4d4e8b47b77736447899-shard-0",
+        "claimed_at": "2026-11-10T15:35:17.681419+00:00",
+        "lease_expires_at": "2026-11-10T21:35:17.681419+00:00",
+        "run_id": "42823888331"
+      }
     },
     "2821": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28048905",
+        "display_name": "Mad Max 1080p CZ Dabing",
+        "planned_at": "2026-11-10T15:35:17.300762+00:00"
+      }
     },
     "2903": {
       "attempts": []
@@ -169179,5 +169202,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:35:14.555367+00:00"
+  "updated_at": "2026-11-10T15:35:19.265019+00:00"
 }
