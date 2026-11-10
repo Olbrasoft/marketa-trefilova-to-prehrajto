@@ -106754,13 +106754,6 @@
           "source_id": "34711370",
           "target_video_id": "30983083",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:35:01.135824+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711370",
-          "target_video_id": "30983083",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:06:59.965728+00:00"
         },
         {
@@ -106769,6 +106762,13 @@
           "target_video_id": "30983083",
           "permanent": false,
           "attempted_at": "2026-11-10T19:38:11.573838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711370",
+          "target_video_id": "30983083",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:08:49.507443+00:00"
         }
       ],
       "last_plan": {
@@ -108498,7 +108498,7 @@
       "last_plan": {
         "source_id": "35095666",
         "display_name": "Swingtime 720p CZ Dabing",
-        "planned_at": "2026-11-10T19:38:14.661335+00:00"
+        "planned_at": "2026-11-10T20:08:48.486568+00:00"
       },
       "previous_target_id": "30983616",
       "prepared": {
@@ -108506,6 +108506,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:22:23.531059+00:00",
         "relay_source_id": "35095666"
+      },
+      "claim": {
+        "worker_id": "2a83af1819104b88baac900dc28e2bea-shard-0",
+        "claimed_at": "2026-11-10T20:08:49.289551+00:00",
+        "lease_expires_at": "2026-11-11T02:08:49.289551+00:00",
+        "run_id": "42864255663"
       }
     },
     "13036": {
@@ -122347,6 +122353,12 @@
         "source_id": "22752658",
         "display_name": "Flashbacks of a Fool 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:08:45.968749+00:00"
+      },
+      "claim": {
+        "worker_id": "204b1cfd9ccf4f9680fc2987a1e37dec-shard-0",
+        "claimed_at": "2026-11-10T20:08:48.254924+00:00",
+        "lease_expires_at": "2026-11-11T02:08:48.254924+00:00",
+        "run_id": "42864255663"
       }
     },
     "26020": {
@@ -122354,7 +122366,7 @@
       "last_plan": {
         "source_id": "33589689",
         "display_name": "Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:08:46.133283+00:00"
+        "planned_at": "2026-11-10T20:08:48.784972+00:00"
       }
     },
     "27916": {
@@ -177746,5 +177758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:08:46.133300+00:00"
+  "updated_at": "2026-11-10T20:08:49.507461+00:00"
 }
