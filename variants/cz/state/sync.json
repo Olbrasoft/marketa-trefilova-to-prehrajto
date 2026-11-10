@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:20:27.087356+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:50:43.113277+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-10T18:22:04.028772+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:52:35.562937+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "20fdf4ed1ab04491bc0d9da1ebe8819f-shard-0",
-        "claimed_at": "2026-11-10T18:52:32.696129+00:00",
-        "lease_expires_at": "2026-11-11T00:52:32.696129+00:00",
-        "run_id": "42864255663"
       }
     },
     "9": {
@@ -4281,7 +4275,7 @@
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:22:02.643103+00:00"
+        "planned_at": "2026-11-10T18:52:34.459442+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -4289,6 +4283,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
+      },
+      "claim": {
+        "worker_id": "78eab85ba6d84d17929af03260420604-shard-0",
+        "claimed_at": "2026-11-10T18:52:35.089171+00:00",
+        "lease_expires_at": "2026-11-11T00:52:35.089171+00:00",
+        "run_id": "42864255663"
       }
     },
     "229": {
@@ -120011,7 +120011,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:52:32.383048+00:00"
+        "planned_at": "2026-11-10T18:52:34.722655+00:00"
       }
     },
     "3085": {
@@ -175645,5 +175645,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:52:32.887886+00:00"
+  "updated_at": "2026-11-10T18:52:35.562956+00:00"
 }
