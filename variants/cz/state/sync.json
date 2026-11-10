@@ -101158,17 +101158,19 @@
       }
     },
     "16869": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13492700",
+          "target_video_id": "30969098",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:33:56.320515+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13492700",
         "display_name": "Garage Sale Mystery: The Novel Murders 1080p CZ Dabing",
         "planned_at": "2026-11-10T07:25:34.445040+00:00"
-      },
-      "claim": {
-        "worker_id": "282b9592db8d468a9935cd5ac2135571-shard-0",
-        "claimed_at": "2026-11-10T07:25:34.809940+00:00",
-        "lease_expires_at": "2026-11-10T13:25:34.809940+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30969098",
       "prepared": {
@@ -159936,5 +159938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:33:29.820644+00:00"
+  "updated_at": "2026-11-10T07:33:56.320532+00:00"
 }
