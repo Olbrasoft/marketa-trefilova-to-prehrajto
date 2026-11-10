@@ -103341,7 +103341,15 @@
       }
     },
     "11827": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34674793",
+          "reason": "Source detail has no authenticated download link; source_id=34674793",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:11:05.759439+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674793",
         "display_name": "The End of Old Times (Konec starých časů) 1080p CZ Dabing",
@@ -103363,10 +103371,27 @@
         "source_id": "28999949",
         "display_name": "Weekend at Dunkirk 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:11:01.264557+00:00"
+      },
+      "claim": {
+        "worker_id": "251dd957e0f94480ba32b9b224fda2ed-shard-0",
+        "claimed_at": "2026-11-10T10:11:03.401000+00:00",
+        "lease_expires_at": "2026-11-10T16:11:03.401000+00:00",
+        "run_id": "42790251611"
       }
     },
     "24026": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34576652",
+        "display_name": "Daisy Town 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:11:03.721926+00:00"
+      },
+      "claim": {
+        "worker_id": "7c3bfa73f2b14681bc754c884bea955b-shard-0",
+        "claimed_at": "2026-11-10T10:11:04.244169+00:00",
+        "lease_expires_at": "2026-11-10T16:11:04.244169+00:00",
+        "run_id": "42790251611"
+      }
     },
     "12974": {
       "attempts": []
@@ -161440,5 +161465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:11:01.264573+00:00"
+  "updated_at": "2026-11-10T10:11:05.759456+00:00"
 }
