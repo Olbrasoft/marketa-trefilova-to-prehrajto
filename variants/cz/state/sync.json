@@ -113847,7 +113847,7 @@
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:09:30.709820+00:00"
+        "planned_at": "2026-11-10T17:39:35.994305+00:00"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -113855,6 +113855,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
+      },
+      "claim": {
+        "worker_id": "20f61c1150a744889a7061912e58eceb-shard-0",
+        "claimed_at": "2026-11-10T17:39:36.715854+00:00",
+        "lease_expires_at": "2026-11-10T23:39:36.715854+00:00",
+        "run_id": "42823888331"
       }
     },
     "3152": {
@@ -116058,17 +116064,19 @@
       }
     },
     "11410": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35331022",
+          "target_video_id": "30984777",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:39:38.180673+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35331022",
         "display_name": "Stripes 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:38:57.627860+00:00"
-      },
-      "claim": {
-        "worker_id": "3e8a139f001b4aa48cda593fb91c12f2-shard-0",
-        "claimed_at": "2026-11-10T17:38:58.455291+00:00",
-        "lease_expires_at": "2026-11-10T23:38:58.455291+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984777",
       "prepared": {
@@ -116104,7 +116112,7 @@
       "last_plan": {
         "source_id": "28400163",
         "display_name": "Mr. Peabody & Sherman 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:39:32.489784+00:00"
+        "planned_at": "2026-11-10T17:39:36.307418+00:00"
       }
     },
     "33070": {
@@ -172161,5 +172169,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:39:34.447866+00:00"
+  "updated_at": "2026-11-10T17:39:38.180695+00:00"
 }
