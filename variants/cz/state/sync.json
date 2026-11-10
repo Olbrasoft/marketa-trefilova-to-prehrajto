@@ -111120,13 +111120,6 @@
           "source_id": "34714367",
           "target_video_id": "30983810",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:48:46.983676+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34714367",
-          "target_video_id": "30983810",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:28:22.978688+00:00"
         },
         {
@@ -111135,6 +111128,13 @@
           "target_video_id": "30983810",
           "permanent": false,
           "attempted_at": "2026-11-10T23:09:45.382463+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714367",
+          "target_video_id": "30983810",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:50:07.080389+00:00"
         }
       ],
       "last_plan": {
@@ -125176,7 +125176,7 @@
       "last_plan": {
         "source_id": "27529281",
         "display_name": "Danny Deckchair 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:09:47.409626+00:00"
+        "planned_at": "2026-11-10T23:50:04.966594+00:00"
       },
       "previous_target_id": "30985893",
       "prepared": {
@@ -125184,6 +125184,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T22:27:48.871952+00:00",
         "relay_source_id": "27529281"
+      },
+      "claim": {
+        "worker_id": "64edf936e0394a419823513685540bf5-shard-0",
+        "claimed_at": "2026-11-10T23:50:05.739847+00:00",
+        "lease_expires_at": "2026-11-11T05:50:05.739847+00:00",
+        "run_id": "42904278669"
       }
     },
     "2916": {
@@ -125986,7 +125992,7 @@
       "last_plan": {
         "source_id": "28796138",
         "display_name": "Standing Up SD CZ Dabing",
-        "planned_at": "2026-11-10T23:50:02.884734+00:00"
+        "planned_at": "2026-11-10T23:50:05.297859+00:00"
       }
     },
     "22932": {
@@ -180727,5 +180733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:50:02.884757+00:00"
+  "updated_at": "2026-11-10T23:50:07.080410+00:00"
 }
