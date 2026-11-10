@@ -110589,17 +110589,19 @@
       "attempts": []
     },
     "26906": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "4659922",
+          "target_video_id": "30983903",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:02:23.659085+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "4659922",
         "display_name": "The God's Rainbow (Boží duha) SD CZ Dabing",
         "planned_at": "2026-11-10T15:01:42.476162+00:00"
-      },
-      "claim": {
-        "worker_id": "857ced105aa54982aaaec8da1fc2415a-shard-0",
-        "claimed_at": "2026-11-10T15:01:42.863860+00:00",
-        "lease_expires_at": "2026-11-10T21:01:42.863860+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983903",
       "prepared": {
@@ -110634,7 +110636,18 @@
       "attempts": []
     },
     "27031": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30230963",
+        "display_name": "Aljona SD CZ Dabing",
+        "planned_at": "2026-11-10T15:02:20.391129+00:00"
+      },
+      "claim": {
+        "worker_id": "2de57d71ce744087b4505dca0376f207-shard-0",
+        "claimed_at": "2026-11-10T15:02:20.874140+00:00",
+        "lease_expires_at": "2026-11-10T21:02:20.874140+00:00",
+        "run_id": "42823888331"
+      }
     },
     "13006": {
       "attempts": []
@@ -167173,5 +167186,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:02:18.072150+00:00"
+  "updated_at": "2026-11-10T15:02:23.659102+00:00"
 }
