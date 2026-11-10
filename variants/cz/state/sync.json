@@ -112284,17 +112284,19 @@
       }
     },
     "3150": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31141960",
+          "target_video_id": "30984103",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:28:00.824817+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31141960",
         "display_name": "Bad Boys (1995) 4K CZ Dabing",
         "planned_at": "2026-11-10T15:27:17.711777+00:00"
-      },
-      "claim": {
-        "worker_id": "4c0d0bf61055430d9cc62b68af2b316f-shard-0",
-        "claimed_at": "2026-11-10T15:27:19.899110+00:00",
-        "lease_expires_at": "2026-11-10T21:27:19.899110+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984103",
       "prepared": {
@@ -168717,5 +168719,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:27:45.463100+00:00"
+  "updated_at": "2026-11-10T15:28:00.824835+00:00"
 }
