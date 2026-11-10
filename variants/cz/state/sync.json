@@ -102355,7 +102355,20 @@
       "attempts": []
     },
     "2547": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34650402",
+          "reason": "Source detail has no authenticated download link; source_id=34650402",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:29:18.860186+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34650402",
+        "display_name": "Paris Memories (Revoir Paris) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:29:10.888079+00:00"
+      }
     },
     "33007": {
       "attempts": []
@@ -160771,5 +160784,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:29:08.618336+00:00"
+  "updated_at": "2026-11-10T09:29:18.860204+00:00"
 }
