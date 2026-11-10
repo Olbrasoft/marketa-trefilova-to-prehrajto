@@ -105145,27 +105145,51 @@
       "attempts": []
     },
     "30416": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34781145",
+          "reason": "Source detail has no authenticated download link; source_id=34781145",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:32.106662+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34781145",
         "display_name": "Stolen Kosovo SD CZ Dabing",
         "planned_at": "2026-11-10T10:17:27.526252+00:00"
-      },
-      "claim": {
-        "worker_id": "2f312745f446496d985955c189099afa-shard-0",
-        "claimed_at": "2026-11-10T10:17:29.405115+00:00",
-        "lease_expires_at": "2026-11-10T16:17:29.405115+00:00",
-        "run_id": "42790251611"
       }
     },
     "12779": {
       "attempts": []
     },
     "33559": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "14413933",
+        "display_name": "Planet Czechia (Planeta Česko) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:17:31.241622+00:00"
+      },
+      "claim": {
+        "worker_id": "679ad7b1993b4f1a83fa965fe9196d08-shard-0",
+        "claimed_at": "2026-11-10T10:17:31.776741+00:00",
+        "lease_expires_at": "2026-11-10T16:17:31.776741+00:00",
+        "run_id": "42790251611"
+      }
     },
     "10777": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32085904",
+        "display_name": "Tri prání (Tři přání) SD CZ Dabing",
+        "planned_at": "2026-11-10T10:17:31.409243+00:00"
+      },
+      "claim": {
+        "worker_id": "438606feec8c486197d36b48d3d5dd40-shard-0",
+        "claimed_at": "2026-11-10T10:17:31.935170+00:00",
+        "lease_expires_at": "2026-11-10T16:17:31.935170+00:00",
+        "run_id": "42790251611"
+      }
     },
     "14646": {
       "attempts": []
@@ -162715,5 +162739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:29.405141+00:00"
+  "updated_at": "2026-11-10T10:17:32.106678+00:00"
 }
