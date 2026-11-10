@@ -104910,17 +104910,19 @@
       }
     },
     "16874": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31755621",
+          "reason": "Source detail has no authenticated download link; source_id=31755621",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:16:39.503727+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31755621",
         "display_name": "The Last Champion 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:16:33.487378+00:00"
-      },
-      "claim": {
-        "worker_id": "e920f0c577804a8b8925bd1aa4eda65f-shard-0",
-        "claimed_at": "2026-11-10T10:16:34.177324+00:00",
-        "lease_expires_at": "2026-11-10T16:16:34.177324+00:00",
-        "run_id": "42790251611"
       }
     },
     "17648": {
@@ -162546,5 +162548,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:16:37.861889+00:00"
+  "updated_at": "2026-11-10T10:16:39.503744+00:00"
 }
