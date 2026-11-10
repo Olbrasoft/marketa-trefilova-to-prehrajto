@@ -111139,13 +111139,6 @@
           "source_id": "34716815",
           "target_video_id": "30983811",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:29:29.232447+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34716815",
-          "target_video_id": "30983811",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:03:01.645412+00:00"
         },
         {
@@ -111154,12 +111147,19 @@
           "target_video_id": "30983811",
           "permanent": false,
           "attempted_at": "2026-11-10T17:33:28.646943+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716815",
+          "target_video_id": "30983811",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:03:53.603006+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34716815",
         "display_name": "Karel Kryl - Kdo jsem (Karel Kryl – kto som?) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:33:21.744028+00:00"
+        "planned_at": "2026-11-10T18:03:51.504347+00:00"
       },
       "previous_target_id": "30983811",
       "prepared": {
@@ -117495,17 +117495,19 @@
       }
     },
     "11623": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13048079",
+          "target_video_id": "30984885",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:03:53.826409+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13048079",
         "display_name": "Heartbreak Ridge SD CZ Dabing",
         "planned_at": "2026-11-10T18:03:08.991823+00:00"
-      },
-      "claim": {
-        "worker_id": "63e9708ad81c44be8e2e9784b0f1d5d4-shard-0",
-        "claimed_at": "2026-11-10T18:03:11.625166+00:00",
-        "lease_expires_at": "2026-11-11T00:03:11.625166+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984885",
       "prepared": {
@@ -117541,7 +117543,7 @@
       "last_plan": {
         "source_id": "13046628",
         "display_name": "The Rescuers Down Under 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:03:25.710853+00:00"
+        "planned_at": "2026-11-10T18:03:51.831651+00:00"
       }
     },
     "2922": {
@@ -173409,5 +173411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:03:27.140302+00:00"
+  "updated_at": "2026-11-10T18:03:53.826429+00:00"
 }
