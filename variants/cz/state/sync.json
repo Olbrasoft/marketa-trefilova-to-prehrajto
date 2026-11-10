@@ -118381,17 +118381,19 @@
       }
     },
     "24127": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32925561",
+          "target_video_id": "30984968",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:23:12.533067+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32925561",
         "display_name": "Detroit Rock City 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:22:30.815698+00:00"
-      },
-      "claim": {
-        "worker_id": "effc340f6eda48d398ade2751b03dd4a-shard-0",
-        "claimed_at": "2026-11-10T18:22:31.637718+00:00",
-        "lease_expires_at": "2026-11-11T00:22:31.637718+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984968",
       "prepared": {
@@ -174225,5 +174227,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:23:10.686867+00:00"
+  "updated_at": "2026-11-10T18:23:12.533088+00:00"
 }
