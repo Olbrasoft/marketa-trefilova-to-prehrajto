@@ -86219,13 +86219,6 @@
           "source_id": "32700785",
           "target_video_id": "30923122",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:21:21.909519+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32700785",
-          "target_video_id": "30923122",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:52:03.185794+00:00"
         },
         {
@@ -86234,6 +86227,13 @@
           "target_video_id": "30923122",
           "permanent": false,
           "attempted_at": "2026-11-10T17:22:09.055635+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32700785",
+          "target_video_id": "30923122",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:52:27.197268+00:00"
         }
       ],
       "last_plan": {
@@ -109884,7 +109884,7 @@
       "last_plan": {
         "source_id": "15115113",
         "display_name": "O zakletém králi a odvázném Martinovi (Vianočné želanie) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:22:10.713562+00:00"
+        "planned_at": "2026-11-10T17:52:25.757477+00:00"
       },
       "previous_target_id": "30983740",
       "prepared": {
@@ -109892,6 +109892,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:41:16.953510+00:00",
         "relay_source_id": "15115113"
+      },
+      "claim": {
+        "worker_id": "1c59ffbe562c40eba2e2058cfbe29597-shard-0",
+        "claimed_at": "2026-11-10T17:52:26.535246+00:00",
+        "lease_expires_at": "2026-11-10T23:52:26.535246+00:00",
+        "run_id": "42823888331"
       }
     },
     "26112": {
@@ -116896,7 +116902,7 @@
       "last_plan": {
         "source_id": "33849773",
         "display_name": "Dumb Money 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:52:22.052826+00:00"
+        "planned_at": "2026-11-10T17:52:26.065220+00:00"
       }
     },
     "2970": {
@@ -172845,5 +172851,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:52:22.324508+00:00"
+  "updated_at": "2026-11-10T17:52:27.197286+00:00"
 }
