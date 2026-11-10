@@ -99434,11 +99434,19 @@
       }
     },
     "2527": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28521779",
+          "reason": "Request failed for https://sdilej.cz/28521779/byt-c-10-01-2023-cz-dabing-1080p.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:30:52.505679+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28521779",
         "display_name": "A Thousand and One 1080p CZ Dabing",
-        "planned_at": "2026-11-10T03:30:01.595457+00:00"
+        "planned_at": "2026-11-10T03:30:05.571488+00:00"
       }
     },
     "29763": {
@@ -158470,5 +158478,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:30:03.774957+00:00"
+  "updated_at": "2026-11-10T03:30:52.505696+00:00"
 }
