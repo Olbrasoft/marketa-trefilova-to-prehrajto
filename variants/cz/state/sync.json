@@ -109770,17 +109770,19 @@
       "attempts": []
     },
     "33107": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35073576",
+          "target_video_id": "30983807",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:51:44.595248+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35073576",
         "display_name": "Řeka čaruje 720p CZ Dabing",
         "planned_at": "2026-11-10T14:51:02.508696+00:00"
-      },
-      "claim": {
-        "worker_id": "8b955d58e2bd4f75b7324a3454f83f1a-shard-0",
-        "claimed_at": "2026-11-10T14:51:04.540141+00:00",
-        "lease_expires_at": "2026-11-10T20:51:04.540141+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983807",
       "prepared": {
@@ -166479,5 +166481,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:51:42.528137+00:00"
+  "updated_at": "2026-11-10T14:51:44.595267+00:00"
 }
