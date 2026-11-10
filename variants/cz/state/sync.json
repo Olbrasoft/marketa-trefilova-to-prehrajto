@@ -42275,7 +42275,7 @@
       "last_plan": {
         "source_id": "34334657",
         "display_name": "The Last Duel 4K CZ Dabing",
-        "planned_at": "2026-11-10T14:08:03.116227+00:00"
+        "planned_at": "2026-11-10T14:38:33.286600+00:00"
       },
       "previous_target_id": "30754884",
       "prepared": {
@@ -42283,6 +42283,12 @@
         "size_bytes": 7100000000,
         "prepared_at": "2026-11-03T06:59:38.837523+00:00",
         "relay_source_id": "34334657"
+      },
+      "claim": {
+        "worker_id": "5b0dbb93e7394b699fe594b28e2d7442-shard-0",
+        "claimed_at": "2026-11-10T14:38:34.317602+00:00",
+        "lease_expires_at": "2026-11-10T20:38:34.317602+00:00",
+        "run_id": "42823888331"
       }
     },
     "1535": {
@@ -107303,6 +107309,13 @@
           "target_video_id": "30983475",
           "permanent": false,
           "attempted_at": "2026-11-10T14:08:04.984828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35084607",
+          "target_video_id": "30983475",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:38:34.724074+00:00"
         }
       ],
       "last_plan": {
@@ -107313,7 +107326,7 @@
       "previous_target_id": "30983475",
       "prepared": {
         "target_video_id": "30983475",
-        "size_bytes": 2390546458,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T14:07:27.666701+00:00",
         "relay_source_id": "35084607"
       }
@@ -108787,14 +108800,25 @@
       "last_plan": {
         "source_id": "30216352",
         "display_name": "Zmluva s diablom 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:38:30.299086+00:00"
+        "planned_at": "2026-11-10T14:38:33.597507+00:00"
+      },
+      "claim": {
+        "worker_id": "41a642fb32d343cb816c51f7a09911bc-shard-0",
+        "claimed_at": "2026-11-10T14:38:34.556652+00:00",
+        "lease_expires_at": "2026-11-10T20:38:34.556652+00:00",
+        "run_id": "42823888331"
       }
     },
     "23464": {
       "attempts": []
     },
     "31655": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34252297",
+        "display_name": "Vietnam from Above 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:38:33.831701+00:00"
+      }
     },
     "21368": {
       "attempts": []
@@ -165636,5 +165660,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:38:30.542737+00:00"
+  "updated_at": "2026-11-10T14:38:34.724097+00:00"
 }
