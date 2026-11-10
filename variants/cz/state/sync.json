@@ -116316,17 +116316,19 @@
       "attempts": []
     },
     "2869": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33894144",
+          "target_video_id": "30984805",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:43:06.642280+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33894144",
         "display_name": "Bones and All 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:41:57.578833+00:00"
-      },
-      "claim": {
-        "worker_id": "a30b2d89dff1409691b770e9bf664da0-shard-0",
-        "claimed_at": "2026-11-10T17:41:57.972520+00:00",
-        "lease_expires_at": "2026-11-10T23:41:57.972520+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984805",
       "prepared": {
@@ -172423,5 +172425,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:42:53.934491+00:00"
+  "updated_at": "2026-11-10T17:43:06.642306+00:00"
 }
