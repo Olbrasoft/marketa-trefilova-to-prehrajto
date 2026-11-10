@@ -114857,17 +114857,16 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-10T16:55:48.102287+00:00",
         "relay_source_id": "31632069"
+      },
+      "claim": {
+        "worker_id": "d0c0964b770a4a4181f44746bafa7d94-shard-0",
+        "claimed_at": "2026-11-10T19:33:33.251684+00:00",
+        "lease_expires_at": "2026-11-11T01:33:33.251684+00:00",
+        "run_id": "42864255663"
       }
     },
     "2778": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "32115488",
-          "target_video_id": "30984591",
-          "permanent": false,
-          "attempted_at": "2026-11-10T17:59:19.625312+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "32115488",
@@ -114881,6 +114880,13 @@
           "target_video_id": "30984591",
           "permanent": false,
           "attempted_at": "2026-11-10T19:00:28.219515+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32115488",
+          "target_video_id": "30984591",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:33:34.514339+00:00"
         }
       ],
       "last_plan": {
@@ -114894,12 +114900,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-10T16:56:11.661945+00:00",
         "relay_source_id": "32115488"
-      },
-      "claim": {
-        "worker_id": "e5e2a587c321420ea28606ab888eb2e0-shard-0",
-        "claimed_at": "2026-11-10T19:33:30.926061+00:00",
-        "lease_expires_at": "2026-11-11T01:33:30.926061+00:00",
-        "run_id": "42864255663"
       }
     },
     "3147": {
@@ -120773,7 +120773,7 @@
       "last_plan": {
         "source_id": "30979384",
         "display_name": "Fantastic Voyage SD CZ Dabing",
-        "planned_at": "2026-11-10T18:58:55.277188+00:00"
+        "planned_at": "2026-11-10T19:33:33.450962+00:00"
       },
       "previous_target_id": "30985353",
       "prepared": {
@@ -120781,6 +120781,12 @@
         "size_bytes": 1167215418,
         "prepared_at": "2026-11-10T18:59:01.634983+00:00",
         "relay_source_id": "30979384"
+      },
+      "claim": {
+        "worker_id": "37e300cb11664e2cb0d7e0a6c83f7941-shard-0",
+        "claimed_at": "2026-11-10T19:33:34.042463+00:00",
+        "lease_expires_at": "2026-11-11T01:33:34.042463+00:00",
+        "run_id": "42864255663"
       }
     },
     "11153": {
@@ -121598,7 +121604,7 @@
       "last_plan": {
         "source_id": "33856664",
         "display_name": "Torrente, the dumb arm of the law (Torrente: El Brazo Tonto De La Ley) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:33:31.385666+00:00"
+        "planned_at": "2026-11-10T19:33:33.714235+00:00"
       }
     },
     "11393": {
@@ -177050,5 +177056,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:33:31.385685+00:00"
+  "updated_at": "2026-11-10T19:33:34.514357+00:00"
 }
