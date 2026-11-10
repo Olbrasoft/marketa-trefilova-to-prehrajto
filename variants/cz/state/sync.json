@@ -108874,6 +108874,13 @@
           "target_video_id": "30983679",
           "permanent": false,
           "attempted_at": "2026-11-10T14:33:53.631361+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34671725",
+          "target_video_id": "30983679",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:04:02.527447+00:00"
         }
       ],
       "last_plan": {
@@ -108884,15 +108891,9 @@
       "previous_target_id": "30983679",
       "prepared": {
         "target_video_id": "30983679",
-        "size_bytes": 2046050498,
+        "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T14:33:18.077116+00:00",
         "relay_source_id": "34671725"
-      },
-      "claim": {
-        "worker_id": "dcba580162154cb7afc019f581ca6133-shard-0",
-        "claimed_at": "2026-11-10T15:03:59.700563+00:00",
-        "lease_expires_at": "2026-11-10T21:03:59.700563+00:00",
-        "run_id": "42823888331"
       }
     },
     "34066": {
@@ -110707,17 +110708,19 @@
       "attempts": []
     },
     "29510": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35186010",
+          "target_video_id": "30983918",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:04:02.707369+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35186010",
         "display_name": "President Wanted SD CZ Dabing",
         "planned_at": "2026-11-10T15:02:27.391003+00:00"
-      },
-      "claim": {
-        "worker_id": "1e59b1ec9d8c448cac50b98a75633afe-shard-0",
-        "claimed_at": "2026-11-10T15:02:27.794864+00:00",
-        "lease_expires_at": "2026-11-10T21:02:27.794864+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983918",
       "prepared": {
@@ -167254,5 +167257,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:04:00.581592+00:00"
+  "updated_at": "2026-11-10T15:04:02.707389+00:00"
 }
