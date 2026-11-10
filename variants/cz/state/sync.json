@@ -108937,13 +108937,6 @@
           "source_id": "34716695",
           "target_video_id": "30983668",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:32:11.779858+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34716695",
-          "target_video_id": "30983668",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:02:37.761414+00:00"
         },
         {
@@ -108952,6 +108945,13 @@
           "target_video_id": "30983668",
           "permanent": false,
           "attempted_at": "2026-11-10T16:35:03.494176+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716695",
+          "target_video_id": "30983668",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:08:30.650429+00:00"
         }
       ],
       "last_plan": {
@@ -111839,7 +111839,7 @@
       "last_plan": {
         "source_id": "12261609",
         "display_name": "The Tricky Game of Love (Hry lásky šálivé) SD CZ Dabing",
-        "planned_at": "2026-11-10T16:35:05.465686+00:00"
+        "planned_at": "2026-11-10T17:08:29.364515+00:00"
       },
       "previous_target_id": "30983900",
       "prepared": {
@@ -111847,6 +111847,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T15:01:27.595214+00:00",
         "relay_source_id": "12261609"
+      },
+      "claim": {
+        "worker_id": "8cdaa53dc7c743f3aa04cbfd3a330a34-shard-0",
+        "claimed_at": "2026-11-10T17:08:30.408254+00:00",
+        "lease_expires_at": "2026-11-10T23:08:30.408254+00:00",
+        "run_id": "42823888331"
       }
     },
     "30376": {
@@ -114832,11 +114838,22 @@
       "last_plan": {
         "source_id": "27423356",
         "display_name": "A Christmas Carol (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:08:26.729207+00:00"
+        "planned_at": "2026-11-10T17:08:29.679566+00:00"
+      },
+      "claim": {
+        "worker_id": "b08584ccbe3f45d9a3b7a6ce64947fe3-shard-0",
+        "claimed_at": "2026-11-10T17:08:30.821650+00:00",
+        "lease_expires_at": "2026-11-10T23:08:30.821650+00:00",
+        "run_id": "42823888331"
       }
     },
     "3029": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34506881",
+        "display_name": "One Hour Photo 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:08:29.913496+00:00"
+      }
     },
     "13296": {
       "attempts": []
@@ -171039,5 +171056,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:08:26.980686+00:00"
+  "updated_at": "2026-11-10T17:08:30.821740+00:00"
 }
