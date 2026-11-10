@@ -112203,17 +112203,19 @@
       }
     },
     "3158": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22159459",
+          "target_video_id": "30984081",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:25:37.670759+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22159459",
         "display_name": "Sinister 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:24:54.311067+00:00"
-      },
-      "claim": {
-        "worker_id": "b93d6283702b401eb43b95a87884b406-shard-0",
-        "claimed_at": "2026-11-10T15:24:54.811701+00:00",
-        "lease_expires_at": "2026-11-10T21:24:54.811701+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984081",
       "prepared": {
@@ -168598,5 +168600,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:25:34.806340+00:00"
+  "updated_at": "2026-11-10T15:25:37.670780+00:00"
 }
