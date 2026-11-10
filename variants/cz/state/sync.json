@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-10T13:27:13.324272+00:00"
+        "planned_at": "2026-11-10T13:59:11.156439+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "e6f0d2c1c1794e08ad78d5dea1472c19-shard-0",
+        "claimed_at": "2026-11-10T13:59:11.882384+00:00",
+        "lease_expires_at": "2026-11-10T19:59:11.882384+00:00",
+        "run_id": "42790251611"
       }
     },
     "10755": {
@@ -18940,13 +18946,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:20:17.270627+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-10T12:53:05.132962+00:00"
         },
         {
@@ -18955,6 +18954,13 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-10T13:27:09.440828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:59:13.082513+00:00"
         }
       ],
       "last_plan": {
@@ -18968,12 +18974,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
-      },
-      "claim": {
-        "worker_id": "38a259df747940f1ab157455c7e4d01e-shard-0",
-        "claimed_at": "2026-11-10T13:59:06.559760+00:00",
-        "lease_expires_at": "2026-11-10T19:59:06.559760+00:00",
-        "run_id": "42790251611"
       }
     },
     "29695": {
@@ -107066,7 +107066,7 @@
       "last_plan": {
         "source_id": "31561997",
         "display_name": "Vracenky SD CZ Dabing",
-        "planned_at": "2026-11-10T13:59:06.175417+00:00"
+        "planned_at": "2026-11-10T13:59:11.474637+00:00"
       }
     },
     "2623": {
@@ -164250,5 +164250,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:59:06.559784+00:00"
+  "updated_at": "2026-11-10T13:59:13.082534+00:00"
 }
