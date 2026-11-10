@@ -107052,13 +107052,6 @@
           "source_id": "11951859",
           "target_video_id": "30983145",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:12:45.065045+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11951859",
-          "target_video_id": "30983145",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:45:10.836736+00:00"
         },
         {
@@ -107067,6 +107060,13 @@
           "target_video_id": "30983145",
           "permanent": false,
           "attempted_at": "2026-11-10T21:18:40.411228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11951859",
+          "target_video_id": "30983145",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:52:26.169664+00:00"
         }
       ],
       "last_plan": {
@@ -107080,12 +107080,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T13:53:28.759441+00:00",
         "relay_source_id": "11951859"
-      },
-      "claim": {
-        "worker_id": "57796b8445474c75901f6240985604a5-shard-0",
-        "claimed_at": "2026-11-10T21:52:23.329891+00:00",
-        "lease_expires_at": "2026-11-11T03:52:23.329891+00:00",
-        "run_id": "42864255663"
       }
     },
     "21503": {
@@ -113340,7 +113334,7 @@
       "last_plan": {
         "source_id": "34697411",
         "display_name": "Bridesmaids 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:18:39.188730+00:00"
+        "planned_at": "2026-11-10T21:52:25.330465+00:00"
       },
       "previous_target_id": "30984075",
       "prepared": {
@@ -113348,6 +113342,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T15:24:26.060535+00:00",
         "relay_source_id": "34697411"
+      },
+      "claim": {
+        "worker_id": "bb246b92b9564d16a1705436cd3e4c46-shard-0",
+        "claimed_at": "2026-11-10T21:52:25.932882+00:00",
+        "lease_expires_at": "2026-11-11T03:52:25.932882+00:00",
+        "run_id": "42864255663"
       }
     },
     "2875": {
@@ -124164,7 +124164,7 @@
       "last_plan": {
         "source_id": "34376822",
         "display_name": "Somewhere in Queens 720p CZ Dabing",
-        "planned_at": "2026-11-10T21:52:22.987695+00:00"
+        "planned_at": "2026-11-10T21:52:25.599012+00:00"
       }
     },
     "29585": {
@@ -179256,5 +179256,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:52:23.691306+00:00"
+  "updated_at": "2026-11-10T21:52:26.169683+00:00"
 }
