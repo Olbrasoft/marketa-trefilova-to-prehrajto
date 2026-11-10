@@ -117987,13 +117987,6 @@
           "source_id": "25787561",
           "target_video_id": "30984861",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:05:11.864948+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25787561",
-          "target_video_id": "30984861",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:39:15.159285+00:00"
         },
         {
@@ -118002,6 +117995,13 @@
           "target_video_id": "30984861",
           "permanent": false,
           "attempted_at": "2026-11-10T21:11:54.460736+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25787561",
+          "target_video_id": "30984861",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:45:26.069843+00:00"
         }
       ],
       "last_plan": {
@@ -118044,7 +118044,7 @@
       "last_plan": {
         "source_id": "33647002",
         "display_name": "Frantic 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:11:56.113735+00:00"
+        "planned_at": "2026-11-10T21:45:23.372305+00:00"
       },
       "previous_target_id": "30984863",
       "prepared": {
@@ -118052,6 +118052,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:57:35.530517+00:00",
         "relay_source_id": "33647002"
+      },
+      "claim": {
+        "worker_id": "954319bf4b7b4334a233d16ae17d2891-shard-0",
+        "claimed_at": "2026-11-10T21:45:23.971016+00:00",
+        "lease_expires_at": "2026-11-11T03:45:23.971016+00:00",
+        "run_id": "42864255663"
       }
     },
     "17739": {
@@ -123936,7 +123942,7 @@
       "last_plan": {
         "source_id": "33664376",
         "display_name": "Support Your Local Gunfighter 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:45:20.041360+00:00"
+        "planned_at": "2026-11-10T21:45:23.640728+00:00"
       }
     },
     "23062": {
@@ -179076,5 +179082,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:45:20.041377+00:00"
+  "updated_at": "2026-11-10T21:45:26.069862+00:00"
 }
