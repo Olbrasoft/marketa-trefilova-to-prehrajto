@@ -100893,17 +100893,19 @@
       "attempts": []
     },
     "23066": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33694440",
+          "target_video_id": "30968194",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:13:35.512295+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33694440",
         "display_name": "Miracles (Miracles: The Canton Godfather) 1080p CZ Dabing",
         "planned_at": "2026-11-10T06:59:57.225768+00:00"
-      },
-      "claim": {
-        "worker_id": "25300bb1625648ee99798a6a99d4cb81-shard-0",
-        "claimed_at": "2026-11-10T06:59:57.688838+00:00",
-        "lease_expires_at": "2026-11-10T12:59:57.688838+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30968194",
       "prepared": {
@@ -159745,5 +159747,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:13:03.807634+00:00"
+  "updated_at": "2026-11-10T07:13:35.512314+00:00"
 }
