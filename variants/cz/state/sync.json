@@ -37058,13 +37058,6 @@
           "source_id": "29388321",
           "target_video_id": "30743729",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:48:33.557676+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29388321",
-          "target_video_id": "30743729",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:18:53.717295+00:00"
         },
         {
@@ -37073,12 +37066,19 @@
           "target_video_id": "30743729",
           "permanent": false,
           "attempted_at": "2026-11-10T17:49:02.540373+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29388321",
+          "target_video_id": "30743729",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:20:21.582016+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29388321",
         "display_name": "Drunken Master (醉拳) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:48:58.450585+00:00"
+        "planned_at": "2026-11-10T18:20:19.807169+00:00"
       },
       "previous_target_id": "30743729",
       "prepared": {
@@ -118268,17 +118268,19 @@
       }
     },
     "2794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32799273",
+          "target_video_id": "30984959",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:20:21.762896+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32799273",
         "display_name": "The Life List 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:19:38.316372+00:00"
-      },
-      "claim": {
-        "worker_id": "72c9a38c48344d9ea9e45d8a774883dc-shard-0",
-        "claimed_at": "2026-11-10T18:19:39.041007+00:00",
-        "lease_expires_at": "2026-11-11T00:19:39.041007+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984959",
       "prepared": {
@@ -118296,7 +118298,7 @@
       "last_plan": {
         "source_id": "11960847",
         "display_name": "World's Greatest Dad SD CZ Dabing",
-        "planned_at": "2026-11-10T18:20:14.256695+00:00"
+        "planned_at": "2026-11-10T18:20:20.062148+00:00"
       }
     },
     "2870": {
@@ -174122,5 +174124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:20:16.711752+00:00"
+  "updated_at": "2026-11-10T18:20:21.762919+00:00"
 }
