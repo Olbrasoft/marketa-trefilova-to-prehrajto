@@ -116315,13 +116315,6 @@
           "source_id": "12275349",
           "target_video_id": "30984732",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:05:39.882262+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12275349",
-          "target_video_id": "30984732",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:39:57.455736+00:00"
         },
         {
@@ -116330,6 +116323,13 @@
           "target_video_id": "30984732",
           "permanent": false,
           "attempted_at": "2026-11-10T21:12:33.893338+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12275349",
+          "target_video_id": "30984732",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:46:02.619520+00:00"
         }
       ],
       "last_plan": {
@@ -116372,7 +116372,7 @@
       "last_plan": {
         "source_id": "34455392",
         "display_name": "Dream Scenario 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:12:35.467295+00:00"
+        "planned_at": "2026-11-10T21:46:01.219444+00:00"
       },
       "previous_target_id": "30984733",
       "prepared": {
@@ -116380,6 +116380,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:26:35.994058+00:00",
         "relay_source_id": "34455392"
+      },
+      "claim": {
+        "worker_id": "d09eefeadab54023a9773c650716fcd8-shard-0",
+        "claimed_at": "2026-11-10T21:46:02.019663+00:00",
+        "lease_expires_at": "2026-11-11T03:46:02.019663+00:00",
+        "run_id": "42864255663"
       }
     },
     "11240": {
@@ -123939,6 +123945,12 @@
         "source_id": "33664376",
         "display_name": "Support Your Local Gunfighter 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:45:59.004335+00:00"
+      },
+      "claim": {
+        "worker_id": "2a14ecc4de204576901eeec96849f410-shard-0",
+        "claimed_at": "2026-11-10T21:46:00.873649+00:00",
+        "lease_expires_at": "2026-11-11T03:46:00.873649+00:00",
+        "run_id": "42864255663"
       }
     },
     "23062": {
@@ -123946,7 +123958,7 @@
       "last_plan": {
         "source_id": "33746084",
         "display_name": "Let It Ride 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:45:59.166556+00:00"
+        "planned_at": "2026-11-10T21:46:01.503290+00:00"
       }
     },
     "16382": {
@@ -179083,5 +179095,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:45:59.166572+00:00"
+  "updated_at": "2026-11-10T21:46:02.619538+00:00"
 }
