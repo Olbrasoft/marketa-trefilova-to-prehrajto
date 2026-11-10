@@ -28965,6 +28965,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "134cd3eafdf1412cb69208fcc81cbb31-shard-0",
+        "claimed_at": "2026-11-10T23:31:14.344450+00:00",
+        "lease_expires_at": "2026-11-11T05:31:14.344450+00:00",
+        "run_id": "42904278669"
       }
     },
     "23584": {
@@ -117520,7 +117526,7 @@
       "last_plan": {
         "source_id": "34966653",
         "display_name": "City Slickers 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:47:49.302886+00:00"
+        "planned_at": "2026-11-10T23:31:14.567980+00:00"
       },
       "previous_target_id": "30984828",
       "prepared": {
@@ -119042,13 +119048,6 @@
           "source_id": "33745553",
           "target_video_id": "30984953",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:32:40.665777+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33745553",
-          "target_video_id": "30984953",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:06:50.970994+00:00"
         },
         {
@@ -119057,6 +119056,13 @@
           "target_video_id": "30984953",
           "permanent": false,
           "attempted_at": "2026-11-10T22:47:47.662573+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745553",
+          "target_video_id": "30984953",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:31:15.166081+00:00"
         }
       ],
       "last_plan": {
@@ -119070,12 +119076,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T18:17:32.822519+00:00",
         "relay_source_id": "33745553"
-      },
-      "claim": {
-        "worker_id": "46c80f48b8db4e2a9c4bc58240513cba-shard-0",
-        "claimed_at": "2026-11-10T23:31:11.555658+00:00",
-        "lease_expires_at": "2026-11-11T05:31:11.555658+00:00",
-        "run_id": "42904278669"
       }
     },
     "2987": {
@@ -125556,7 +125556,7 @@
       "last_plan": {
         "source_id": "34488867",
         "display_name": "Kundo: Age of the Rampant (군도: 민란의 시대) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:31:12.326498+00:00"
+        "planned_at": "2026-11-10T23:31:14.879231+00:00"
       }
     },
     "29116": {
@@ -180399,5 +180399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:31:12.326515+00:00"
+  "updated_at": "2026-11-10T23:31:15.166104+00:00"
 }
