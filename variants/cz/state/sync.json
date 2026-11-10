@@ -113864,13 +113864,6 @@
           "source_id": "26233702",
           "target_video_id": "30984140",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:33:13.790609+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26233702",
-          "target_video_id": "30984140",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:04:06.337416+00:00"
         },
         {
@@ -113879,12 +113872,19 @@
           "target_video_id": "30984140",
           "permanent": false,
           "attempted_at": "2026-11-10T16:35:33.499442+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26233702",
+          "target_video_id": "30984140",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:09:03.265692+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26233702",
         "display_name": "Disturbia 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:35:31.587150+00:00"
+        "planned_at": "2026-11-10T17:09:01.225951+00:00"
       },
       "previous_target_id": "30984140",
       "prepared": {
@@ -114860,11 +114860,22 @@
       "last_plan": {
         "source_id": "34506881",
         "display_name": "One Hour Photo 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:08:56.027964+00:00"
+        "planned_at": "2026-11-10T17:09:01.537872+00:00"
+      },
+      "claim": {
+        "worker_id": "def1e8d580014115a2f56b83cc04bd60-shard-0",
+        "claimed_at": "2026-11-10T17:09:02.303621+00:00",
+        "lease_expires_at": "2026-11-10T23:09:02.303621+00:00",
+        "run_id": "42823888331"
       }
     },
     "13296": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24757259",
+        "display_name": "Something's Gotta Give 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:09:01.713378+00:00"
+      }
     },
     "25118": {
       "attempts": []
@@ -171064,5 +171075,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:08:58.859509+00:00"
+  "updated_at": "2026-11-10T17:09:03.265712+00:00"
 }
