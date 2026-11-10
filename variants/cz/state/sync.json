@@ -122428,17 +122428,19 @@
       }
     },
     "27916": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35438981",
+          "target_video_id": "30985543",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:12:29.382489+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35438981",
         "display_name": "Populaire 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:10:24.934205+00:00"
-      },
-      "claim": {
-        "worker_id": "8e23a3a1143f45299aa97a07421d6b38-shard-0",
-        "claimed_at": "2026-11-10T20:10:25.291129+00:00",
-        "lease_expires_at": "2026-11-11T02:10:25.291129+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985543",
       "prepared": {
@@ -177852,5 +177854,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:10:48.141937+00:00"
+  "updated_at": "2026-11-10T20:12:29.382506+00:00"
 }
