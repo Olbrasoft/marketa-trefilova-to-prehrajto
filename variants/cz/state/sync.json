@@ -110283,17 +110283,19 @@
       "attempts": []
     },
     "16167": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29959686",
+          "target_video_id": "30983837",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:58:30.404395+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29959686",
         "display_name": "The Self Lover (Sebemilenec) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:56:53.560398+00:00"
-      },
-      "claim": {
-        "worker_id": "e87b5104f7af46ad8c28754a31596265-shard-0",
-        "claimed_at": "2026-11-10T14:56:54.134387+00:00",
-        "lease_expires_at": "2026-11-10T20:56:54.134387+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983837",
       "prepared": {
@@ -166914,5 +166916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:58:26.939060+00:00"
+  "updated_at": "2026-11-10T14:58:30.404413+00:00"
 }
