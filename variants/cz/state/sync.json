@@ -116281,6 +116281,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T17:26:28.031408+00:00",
         "relay_source_id": "15937877"
+      },
+      "claim": {
+        "worker_id": "0f4a7b5153324cc9a82ca10c34bfded7-shard-0",
+        "claimed_at": "2026-11-10T18:32:09.054883+00:00",
+        "lease_expires_at": "2026-11-11T00:32:09.054883+00:00",
+        "run_id": "42864255663"
       }
     },
     "3005": {
@@ -116409,6 +116415,13 @@
           "target_video_id": "30984739",
           "permanent": false,
           "attempted_at": "2026-11-10T18:01:47.751509+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28248567",
+          "target_video_id": "30984739",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:32:08.901384+00:00"
         }
       ],
       "last_plan": {
@@ -116422,12 +116435,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:29:45.924071+00:00",
         "relay_source_id": "28248567"
-      },
-      "claim": {
-        "worker_id": "6f61b03b491442b0b5f6f62e33270aaa-shard-0",
-        "claimed_at": "2026-11-10T18:32:06.373389+00:00",
-        "lease_expires_at": "2026-11-11T00:32:06.373389+00:00",
-        "run_id": "42864255663"
       }
     },
     "23726": {
@@ -116450,7 +116457,7 @@
       "last_plan": {
         "source_id": "34150039",
         "display_name": "The Long Kiss Goodnight 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:01:50.251330+00:00"
+        "planned_at": "2026-11-10T18:32:09.317491+00:00"
       },
       "previous_target_id": "30984742",
       "prepared": {
@@ -118993,7 +119000,7 @@
       "last_plan": {
         "source_id": "14572727",
         "display_name": "The Wizard of Lies 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:32:06.823004+00:00"
+        "planned_at": "2026-11-10T18:32:09.629995+00:00"
       }
     },
     "23188": {
@@ -174722,5 +174729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:32:07.058827+00:00"
+  "updated_at": "2026-11-10T18:32:09.630014+00:00"
 }
