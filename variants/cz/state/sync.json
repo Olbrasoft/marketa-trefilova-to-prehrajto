@@ -117088,17 +117088,19 @@
       }
     },
     "3066": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25787561",
+          "target_video_id": "30984861",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:58:01.397302+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25787561",
         "display_name": "Florence Foster Jenkins 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:57:18.116816+00:00"
-      },
-      "claim": {
-        "worker_id": "2306dd719a144f15b57efa51b220cd22-shard-0",
-        "claimed_at": "2026-11-10T17:57:18.678136+00:00",
-        "lease_expires_at": "2026-11-10T23:57:18.678136+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984861",
       "prepared": {
@@ -173072,5 +173074,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:57:42.011430+00:00"
+  "updated_at": "2026-11-10T17:58:01.397319+00:00"
 }
