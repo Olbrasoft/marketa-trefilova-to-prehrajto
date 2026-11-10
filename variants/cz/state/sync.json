@@ -98906,7 +98906,7 @@
       "last_plan": {
         "source_id": "32500243",
         "display_name": "Slunce, seno, jahody 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:10:48.478920+00:00"
+        "planned_at": "2026-11-10T14:41:22.709028+00:00"
       },
       "previous_target_id": "30958870",
       "prepared": {
@@ -98914,6 +98914,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T01:47:30.613397+00:00",
         "relay_source_id": "32500243"
+      },
+      "claim": {
+        "worker_id": "df9aca8400d04e1593284924557c309b-shard-0",
+        "claimed_at": "2026-11-10T14:41:23.474249+00:00",
+        "lease_expires_at": "2026-11-10T20:41:23.474249+00:00",
+        "run_id": "42823888331"
       }
     },
     "22960": {
@@ -108856,17 +108862,19 @@
       "attempts": []
     },
     "11993": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34885981",
+          "target_video_id": "30983734",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:41:24.413119+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34885981",
         "display_name": "The Beggar's Opera (Žebrácká opera) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:40:42.477711+00:00"
-      },
-      "claim": {
-        "worker_id": "8a81ffd59da0414cbefa17d947f72753-shard-0",
-        "claimed_at": "2026-11-10T14:40:43.568214+00:00",
-        "lease_expires_at": "2026-11-10T20:40:43.568214+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983734",
       "prepared": {
@@ -108902,7 +108910,7 @@
       "last_plan": {
         "source_id": "35184124",
         "display_name": "Ticket to the Memorial 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:41:19.092779+00:00"
+        "planned_at": "2026-11-10T14:41:23.009242+00:00"
       }
     },
     "35511": {
@@ -165733,5 +165741,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:41:20.941619+00:00"
+  "updated_at": "2026-11-10T14:41:24.413136+00:00"
 }
