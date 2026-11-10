@@ -107853,13 +107853,6 @@
           "source_id": "33299236",
           "target_video_id": "30983538",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:54:42.046752+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33299236",
-          "target_video_id": "30983538",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:26:05.527141+00:00"
         },
         {
@@ -107868,6 +107861,13 @@
           "target_video_id": "30983538",
           "permanent": false,
           "attempted_at": "2026-11-10T18:56:45.808524+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33299236",
+          "target_video_id": "30983538",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:29:14.486209+00:00"
         }
       ],
       "last_plan": {
@@ -107881,12 +107881,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T14:16:24.113543+00:00",
         "relay_source_id": "33299236"
-      },
-      "claim": {
-        "worker_id": "6197d4fe40a341968bac8c5125ab0474-shard-0",
-        "claimed_at": "2026-11-10T19:29:11.332315+00:00",
-        "lease_expires_at": "2026-11-11T01:29:11.332315+00:00",
-        "run_id": "42864255663"
       }
     },
     "34309": {
@@ -107919,7 +107913,7 @@
       "last_plan": {
         "source_id": "34908320",
         "display_name": "Pražská 5 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:56:45.202153+00:00"
+        "planned_at": "2026-11-10T19:29:13.971911+00:00"
       },
       "previous_target_id": "30983539",
       "prepared": {
@@ -121391,17 +121385,19 @@
       "attempts": []
     },
     "23389": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28510712",
+          "target_video_id": "30985462",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:29:14.752641+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28510712",
         "display_name": "Heaven & Earth SD CZ Dabing",
         "planned_at": "2026-11-10T19:26:14.283991+00:00"
-      },
-      "claim": {
-        "worker_id": "e67e71b5e1a34f57801c900fc3f3e23d-shard-0",
-        "claimed_at": "2026-11-10T19:26:14.920801+00:00",
-        "lease_expires_at": "2026-11-11T01:26:14.920801+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985462",
       "prepared": {
@@ -121432,7 +121428,7 @@
       "last_plan": {
         "source_id": "34194238",
         "display_name": "Infernal Affairs III 720p CZ Dabing",
-        "planned_at": "2026-11-10T19:29:11.006240+00:00"
+        "planned_at": "2026-11-10T19:29:14.259046+00:00"
       }
     },
     "22436": {
@@ -176899,5 +176895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:29:12.407748+00:00"
+  "updated_at": "2026-11-10T19:29:14.752660+00:00"
 }
