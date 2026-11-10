@@ -110021,13 +110021,6 @@
           "source_id": "34788913",
           "target_video_id": "30983748",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:47:48.898653+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34788913",
-          "target_video_id": "30983748",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:21:54.297128+00:00"
         },
         {
@@ -110036,12 +110029,19 @@
           "target_video_id": "30983748",
           "permanent": false,
           "attempted_at": "2026-11-10T16:52:35.206918+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34788913",
+          "target_video_id": "30983748",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:22:40.806970+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34788913",
         "display_name": "Posledná bosorka 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:52:30.866285+00:00"
+        "planned_at": "2026-11-10T17:22:38.647439+00:00"
       },
       "previous_target_id": "30983748",
       "prepared": {
@@ -115539,11 +115539,22 @@
       "last_plan": {
         "source_id": "34445886",
         "display_name": "Bloodsport 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:22:29.344352+00:00"
+        "planned_at": "2026-11-10T17:22:38.982106+00:00"
+      },
+      "claim": {
+        "worker_id": "da5ed0579ca3440ca2a66fbe281bea20-shard-0",
+        "claimed_at": "2026-11-10T17:22:39.828702+00:00",
+        "lease_expires_at": "2026-11-10T23:22:39.828702+00:00",
+        "run_id": "42823888331"
       }
     },
     "11458": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34190531",
+        "display_name": "Christine (1983) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:22:39.161096+00:00"
+      }
     },
     "2923": {
       "attempts": []
@@ -171659,5 +171670,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:22:37.044262+00:00"
+  "updated_at": "2026-11-10T17:22:40.806990+00:00"
 }
