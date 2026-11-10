@@ -105053,17 +105053,19 @@
       "attempts": []
     },
     "30319": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34713392",
+          "reason": "Source detail has no authenticated download link; source_id=34713392",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:12.624139+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713392",
         "display_name": "Giovanni Falcone 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:17:08.896927+00:00"
-      },
-      "claim": {
-        "worker_id": "768c481e13dd4fc88a7430baea1843a9-shard-0",
-        "claimed_at": "2026-11-10T10:17:09.493497+00:00",
-        "lease_expires_at": "2026-11-10T16:17:09.493497+00:00",
-        "run_id": "42790251611"
       }
     },
     "33260": {
@@ -162661,5 +162663,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:10.957769+00:00"
+  "updated_at": "2026-11-10T10:17:12.624158+00:00"
 }
