@@ -112056,13 +112056,6 @@
           "source_id": "34715290",
           "target_video_id": "30983927",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:05:19.526341+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34715290",
-          "target_video_id": "30983927",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:35:29.966024+00:00"
         },
         {
@@ -112071,12 +112064,19 @@
           "target_video_id": "30983927",
           "permanent": false,
           "attempted_at": "2026-11-10T16:08:35.757418+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34715290",
+          "target_video_id": "30983927",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:38:58.450859+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34715290",
         "display_name": "Lion With a White Mane (Lev s bílou hřívou) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:08:33.205919+00:00"
+        "planned_at": "2026-11-10T16:38:56.087337+00:00"
       },
       "previous_target_id": "30983927",
       "prepared": {
@@ -114438,14 +114438,25 @@
       "last_plan": {
         "source_id": "30903286",
         "display_name": "Adventureland 720p CZ Dabing",
-        "planned_at": "2026-11-10T16:38:50.908821+00:00"
+        "planned_at": "2026-11-10T16:38:56.401638+00:00"
+      },
+      "claim": {
+        "worker_id": "e8e4a1dc39c64b358a4947566f89d432-shard-0",
+        "claimed_at": "2026-11-10T16:38:57.144985+00:00",
+        "lease_expires_at": "2026-11-10T22:38:57.144985+00:00",
+        "run_id": "42823888331"
       }
     },
     "2789": {
       "attempts": []
     },
     "3156": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28364272",
+        "display_name": "Four Brothers 1080p CZ Dabing",
+        "planned_at": "2026-11-10T16:38:56.574941+00:00"
+      }
     },
     "3032": {
       "attempts": []
@@ -170690,5 +170701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:38:54.082420+00:00"
+  "updated_at": "2026-11-10T16:38:58.450879+00:00"
 }
