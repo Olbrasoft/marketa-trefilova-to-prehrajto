@@ -98302,13 +98302,6 @@
           "source_id": "25775847",
           "target_video_id": "30957288",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:53:14.872962+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25775847",
-          "target_video_id": "30957288",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:25:51.690024+00:00"
         },
         {
@@ -98317,6 +98310,13 @@
           "target_video_id": "30957288",
           "permanent": false,
           "attempted_at": "2026-11-10T19:58:27.737202+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25775847",
+          "target_video_id": "30957288",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:33:28.692339+00:00"
         }
       ],
       "last_plan": {
@@ -114127,7 +114127,7 @@
       "last_plan": {
         "source_id": "28048905",
         "display_name": "Mad Max 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:58:27.265687+00:00"
+        "planned_at": "2026-11-10T20:33:27.371839+00:00"
       },
       "previous_target_id": "30984162",
       "prepared": {
@@ -114135,6 +114135,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T15:35:54.736912+00:00",
         "relay_source_id": "28048905"
+      },
+      "claim": {
+        "worker_id": "65ef8f53846547c2889469c743fad8e0-shard-0",
+        "claimed_at": "2026-11-10T20:33:27.989925+00:00",
+        "lease_expires_at": "2026-11-11T02:33:27.989925+00:00",
+        "run_id": "42864255663"
       }
     },
     "2903": {
@@ -122804,7 +122810,7 @@
       "last_plan": {
         "source_id": "34130726",
         "display_name": "Ivanhoe 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:33:25.053435+00:00"
+        "planned_at": "2026-11-10T20:33:27.637368+00:00"
       }
     },
     "21528": {
@@ -178133,5 +178139,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:33:25.319526+00:00"
+  "updated_at": "2026-11-10T20:33:28.692356+00:00"
 }
