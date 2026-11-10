@@ -13998,13 +13998,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-10T14:30:27.064533+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:01:04.838065+00:00"
         },
         {
@@ -14013,12 +14006,19 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-10T15:31:49.067000+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:02:06.156469+00:00"
         }
       ],
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:31:44.671002+00:00"
+        "planned_at": "2026-11-10T16:02:04.177391+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -113762,11 +113762,22 @@
       "last_plan": {
         "source_id": "34136697",
         "display_name": "Madagascar 3: Europe's Most Wanted 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:01:57.634514+00:00"
+        "planned_at": "2026-11-10T16:02:04.481615+00:00"
+      },
+      "claim": {
+        "worker_id": "3addb1bfdc07490cbdac6d9cc93d60c0-shard-0",
+        "claimed_at": "2026-11-10T16:02:05.215986+00:00",
+        "lease_expires_at": "2026-11-10T22:02:05.215986+00:00",
+        "run_id": "42823888331"
       }
     },
     "3090": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34379944",
+        "display_name": "Unstoppable (2010) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T16:02:04.653808+00:00"
+      }
     },
     "3137": {
       "attempts": []
@@ -170038,5 +170049,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:01:59.420444+00:00"
+  "updated_at": "2026-11-10T16:02:06.156488+00:00"
 }
