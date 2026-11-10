@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "217767c32bcf46dd862b4abffff98ca5-shard-0",
+        "claimed_at": "2026-11-10T22:46:26.146685+00:00",
+        "lease_expires_at": "2026-11-11T04:46:26.146685+00:00",
+        "run_id": "42904278669"
       }
     },
     "52": {
@@ -12395,7 +12401,7 @@
       "last_plan": {
         "source_id": "32043793",
         "display_name": "American Gangster 4K CZ Dabing",
-        "planned_at": "2026-11-10T22:05:45.674960+00:00"
+        "planned_at": "2026-11-10T22:46:26.369644+00:00"
       },
       "previous_target_id": "30647758",
       "prepared": {
@@ -123712,6 +123718,13 @@
           "target_video_id": "30985714",
           "permanent": false,
           "attempted_at": "2026-11-10T22:05:44.028262+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33064122",
+          "target_video_id": "30985714",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:46:25.970682+00:00"
         }
       ],
       "last_plan": {
@@ -123725,12 +123738,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T21:26:39.868620+00:00",
         "relay_source_id": "33064122"
-      },
-      "claim": {
-        "worker_id": "fb230b016f8e488fb8ee60cb3f07c5d2-shard-0",
-        "claimed_at": "2026-11-10T22:46:23.064738+00:00",
-        "lease_expires_at": "2026-11-11T04:46:23.064738+00:00",
-        "run_id": "42904278669"
       }
     },
     "19272": {
@@ -125117,7 +125124,7 @@
       "last_plan": {
         "source_id": "34905544",
         "display_name": "Next Door (Nebenan) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:46:24.063918+00:00"
+        "planned_at": "2026-11-10T22:46:26.682162+00:00"
       }
     },
     "27240": {
@@ -180005,5 +180012,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:46:24.063938+00:00"
+  "updated_at": "2026-11-10T22:46:26.682182+00:00"
 }
