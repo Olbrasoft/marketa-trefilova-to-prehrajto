@@ -111628,13 +111628,6 @@
           "source_id": "25728131",
           "target_video_id": "30983845",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:00:59.708608+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25728131",
-          "target_video_id": "30983845",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:33:25.726405+00:00"
         },
         {
@@ -111643,6 +111636,13 @@
           "target_video_id": "30983845",
           "permanent": false,
           "attempted_at": "2026-11-10T17:07:03.816882+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25728131",
+          "target_video_id": "30983845",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:37:08.739047+00:00"
         }
       ],
       "last_plan": {
@@ -111656,12 +111656,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T14:58:59.915617+00:00",
         "relay_source_id": "25728131"
-      },
-      "claim": {
-        "worker_id": "848d3898d5824f14958df7d13f58a94c-shard-0",
-        "claimed_at": "2026-11-10T17:37:06.520839+00:00",
-        "lease_expires_at": "2026-11-10T23:37:06.520839+00:00",
-        "run_id": "42823888331"
       }
     },
     "24206": {
@@ -111691,7 +111685,7 @@
       "last_plan": {
         "source_id": "34877929",
         "display_name": "The Last Rose from Casanova (Poslední růže od Casanovy) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:07:01.966289+00:00"
+        "planned_at": "2026-11-10T17:37:08.403590+00:00"
       },
       "previous_target_id": "30983846",
       "prepared": {
@@ -115985,6 +115979,13 @@
         "claimed_at": "2026-11-10T17:37:05.204330+00:00",
         "lease_expires_at": "2026-11-10T23:37:05.204330+00:00",
         "run_id": "42823888331"
+      },
+      "previous_target_id": "30984762",
+      "prepared": {
+        "target_video_id": "30984762",
+        "size_bytes": 3132930438,
+        "prepared_at": "2026-11-10T17:37:09.879264+00:00",
+        "relay_source_id": "20668639"
       }
     },
     "2766": {
@@ -115992,7 +115993,7 @@
       "last_plan": {
         "source_id": "33672383",
         "display_name": "Caught Stealing 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:37:05.767880+00:00"
+        "planned_at": "2026-11-10T17:37:09.267924+00:00"
       }
     },
     "3026": {
@@ -172061,5 +172062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:37:06.775285+00:00"
+  "updated_at": "2026-11-10T17:37:09.879283+00:00"
 }
