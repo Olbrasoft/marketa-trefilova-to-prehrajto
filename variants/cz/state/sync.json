@@ -105598,17 +105598,19 @@
       }
     },
     "12492": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34757126",
+          "target_video_id": "30978477",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:00:14.030990+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34757126",
         "display_name": "Nikdo nic neví 1080p CZ Dabing",
         "planned_at": "2026-11-10T11:55:17.608969+00:00"
-      },
-      "claim": {
-        "worker_id": "f8f4ed01c0f844859bc0e746f442e2db-shard-0",
-        "claimed_at": "2026-11-10T11:55:18.044760+00:00",
-        "lease_expires_at": "2026-11-10T17:55:18.044760+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30978477",
       "prepared": {
@@ -163112,5 +163114,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T11:57:24.289486+00:00"
+  "updated_at": "2026-11-10T12:00:14.031007+00:00"
 }
