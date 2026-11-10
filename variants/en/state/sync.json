@@ -32603,17 +32603,19 @@
       "attempts": []
     },
     "34090": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32069504",
+          "target_video_id": "30959744",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:57:02.449504+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32069504",
         "display_name": "Tisícročná včela 1080p CZ Titulky",
         "planned_at": "2026-11-10T02:36:00.093448+00:00"
-      },
-      "claim": {
-        "worker_id": "eb1b0274a74947a5bdb1e5b10c102e50-shard-0",
-        "claimed_at": "2026-11-10T02:36:00.193687+00:00",
-        "lease_expires_at": "2026-11-10T08:36:00.193687+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30959744",
       "prepared": {
@@ -95625,5 +95627,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T02:41:44.805743+00:00"
+  "updated_at": "2026-11-10T02:57:02.449520+00:00"
 }
