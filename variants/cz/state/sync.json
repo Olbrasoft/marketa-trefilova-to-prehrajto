@@ -50763,13 +50763,6 @@
           "source_id": "32819081",
           "target_video_id": "30776530",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:19:25.681260+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32819081",
-          "target_video_id": "30776530",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:50:06.310943+00:00"
         },
         {
@@ -50778,6 +50771,13 @@
           "target_video_id": "30776530",
           "permanent": false,
           "attempted_at": "2026-11-10T19:22:18.867441+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32819081",
+          "target_video_id": "30776530",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:55:14.718206+00:00"
         }
       ],
       "last_plan": {
@@ -50791,12 +50791,6 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-04T01:15:13.177284+00:00",
         "relay_source_id": "32819081"
-      },
-      "claim": {
-        "worker_id": "f1453472a53c49de826d29f8a27ba0d3-shard-0",
-        "claimed_at": "2026-11-10T19:55:11.493427+00:00",
-        "lease_expires_at": "2026-11-11T01:55:11.493427+00:00",
-        "run_id": "42864255663"
       }
     },
     "23950": {
@@ -109711,7 +109705,7 @@
       "last_plan": {
         "source_id": "34634766",
         "display_name": "Andula Won (Andula vyhrála) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:22:17.632626+00:00"
+        "planned_at": "2026-11-10T19:55:13.393689+00:00"
       },
       "previous_target_id": "30983705",
       "prepared": {
@@ -109719,6 +109713,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:37:39.488454+00:00",
         "relay_source_id": "34634766"
+      },
+      "claim": {
+        "worker_id": "7e99553b49804581be08cd5d0acf3cc7-shard-0",
+        "claimed_at": "2026-11-10T19:55:13.984425+00:00",
+        "lease_expires_at": "2026-11-11T01:55:13.984425+00:00",
+        "run_id": "42864255663"
       }
     },
     "34717": {
@@ -122180,7 +122180,7 @@
       "last_plan": {
         "source_id": "9868166",
         "display_name": "The Vanishing of Sidney Hall 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:55:11.176249+00:00"
+        "planned_at": "2026-11-10T19:55:13.661263+00:00"
       }
     },
     "26269": {
@@ -177578,5 +177578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:55:11.688000+00:00"
+  "updated_at": "2026-11-10T19:55:14.718225+00:00"
 }
