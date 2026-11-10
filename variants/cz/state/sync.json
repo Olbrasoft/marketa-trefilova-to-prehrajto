@@ -102803,17 +102803,19 @@
       "attempts": []
     },
     "2532": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27811855",
+          "reason": "Source detail has no authenticated download link; source_id=27811855",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:09:07.275011+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27811855",
         "display_name": "Unicorn Wars 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:09:01.890084+00:00"
-      },
-      "claim": {
-        "worker_id": "50e4fc8a49f0481dbf18fb6a9129df38-shard-0",
-        "claimed_at": "2026-11-10T10:09:02.336506+00:00",
-        "lease_expires_at": "2026-11-10T16:09:02.336506+00:00",
-        "run_id": "42790251611"
       }
     },
     "31829": {
@@ -161077,5 +161079,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:09:05.608326+00:00"
+  "updated_at": "2026-11-10T10:09:07.275035+00:00"
 }
