@@ -109919,13 +109919,6 @@
           "source_id": "35184124",
           "target_video_id": "30983741",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:59:50.742494+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35184124",
-          "target_video_id": "30983741",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:34:47.219900+00:00"
         },
         {
@@ -109934,6 +109927,13 @@
           "target_video_id": "30983741",
           "permanent": false,
           "attempted_at": "2026-11-10T21:05:52.463670+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35184124",
+          "target_video_id": "30983741",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:40:47.648909+00:00"
         }
       ],
       "last_plan": {
@@ -116044,7 +116044,7 @@
       "last_plan": {
         "source_id": "14845493",
         "display_name": "Mank 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:05:54.077958+00:00"
+        "planned_at": "2026-11-10T21:40:46.308441+00:00"
       },
       "previous_target_id": "30984699",
       "prepared": {
@@ -116052,6 +116052,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:20:31.441781+00:00",
         "relay_source_id": "14845493"
+      },
+      "claim": {
+        "worker_id": "a77c2896ab4b4973a59ea2f0b1b0f627-shard-0",
+        "claimed_at": "2026-11-10T21:40:46.936569+00:00",
+        "lease_expires_at": "2026-11-11T03:40:46.936569+00:00",
+        "run_id": "42864255663"
       }
     },
     "2816": {
@@ -123861,7 +123867,7 @@
       "last_plan": {
         "source_id": "27755200",
         "display_name": "Deliver Us From Evil (다만 악에서 구하소서) (2020) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:40:42.966726+00:00"
+        "planned_at": "2026-11-10T21:40:46.575783+00:00"
       }
     },
     "31998": {
@@ -179016,5 +179022,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:40:44.759185+00:00"
+  "updated_at": "2026-11-10T21:40:47.648929+00:00"
 }
