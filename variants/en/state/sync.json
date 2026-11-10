@@ -3588,13 +3588,6 @@
           "source_id": "11053464",
           "target_video_id": "30615827",
           "permanent": false,
-          "attempted_at": "2026-11-10T13:24:50.583709+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11053464",
-          "target_video_id": "30615827",
-          "permanent": false,
           "attempted_at": "2026-11-10T13:55:21.502899+00:00"
         },
         {
@@ -3603,6 +3596,13 @@
           "target_video_id": "30615827",
           "permanent": false,
           "attempted_at": "2026-11-10T14:25:24.370677+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11053464",
+          "target_video_id": "30615827",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:55:43.822235+00:00"
         }
       ],
       "last_plan": {
@@ -3616,12 +3616,6 @@
         "size_bytes": 10100000000,
         "prepared_at": "2026-10-29T17:59:32.832675+00:00",
         "relay_source_id": "11053464"
-      },
-      "claim": {
-        "worker_id": "6e69bcebf5884190a6705e7ed517141c-shard-0",
-        "claimed_at": "2026-11-10T14:55:39.584913+00:00",
-        "lease_expires_at": "2026-11-10T20:55:39.584913+00:00",
-        "run_id": "42823888331"
       }
     },
     "11423": {
@@ -9379,6 +9373,12 @@
         "size_bytes": 8700000000,
         "prepared_at": "2026-10-31T08:34:47.262597+00:00",
         "relay_source_id": "29667772"
+      },
+      "claim": {
+        "worker_id": "822ec54910df4e379a96d3b8f18553e3-shard-0",
+        "claimed_at": "2026-11-10T14:55:42.841220+00:00",
+        "lease_expires_at": "2026-11-10T20:55:42.841220+00:00",
+        "run_id": "42823888331"
       }
     },
     "655": {
@@ -9890,7 +9890,7 @@
       "last_plan": {
         "source_id": "28240998",
         "display_name": "Poor Things 1080p CZ Titulky",
-        "planned_at": "2026-11-10T14:25:32.565284+00:00"
+        "planned_at": "2026-11-10T14:55:43.948559+00:00"
       },
       "previous_target_id": "30664033",
       "prepared": {
@@ -95963,5 +95963,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:55:40.653661+00:00"
+  "updated_at": "2026-11-10T14:55:43.948572+00:00"
 }
