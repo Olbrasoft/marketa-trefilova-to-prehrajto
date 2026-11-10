@@ -73569,7 +73569,7 @@
       "last_plan": {
         "source_id": "24916658",
         "display_name": "On the 12th Date of Christmas 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:19:16.535830+00:00"
+        "planned_at": "2026-11-10T17:49:31.336867+00:00"
       },
       "previous_target_id": "30880343",
       "prepared": {
@@ -73577,6 +73577,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-07T04:36:21.609241+00:00",
         "relay_source_id": "24916658"
+      },
+      "claim": {
+        "worker_id": "0b40349e2e5f4ad3ada3b9c00660973e-shard-0",
+        "claimed_at": "2026-11-10T17:49:32.371062+00:00",
+        "lease_expires_at": "2026-11-10T23:49:32.371062+00:00",
+        "run_id": "42823888331"
       }
     },
     "1871": {
@@ -115700,6 +115706,13 @@
           "target_video_id": "30984690",
           "permanent": false,
           "attempted_at": "2026-11-10T17:19:19.289001+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34757966",
+          "target_video_id": "30984690",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:49:32.789425+00:00"
         }
       ],
       "last_plan": {
@@ -115710,7 +115723,7 @@
       "previous_target_id": "30984690",
       "prepared": {
         "target_video_id": "30984690",
-        "size_bytes": 2187641411,
+        "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:18:42.473688+00:00",
         "relay_source_id": "34757966"
       }
@@ -116792,11 +116805,22 @@
       "last_plan": {
         "source_id": "22310180",
         "display_name": "The Boxtrolls 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:49:29.038469+00:00"
+        "planned_at": "2026-11-10T17:49:31.641471+00:00"
+      },
+      "claim": {
+        "worker_id": "28167df7c7d44e69a3548f1a3e4bfe78-shard-0",
+        "claimed_at": "2026-11-10T17:49:32.613656+00:00",
+        "lease_expires_at": "2026-11-10T23:49:32.613656+00:00",
+        "run_id": "42823888331"
       }
     },
     "3112": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "20970259",
+        "display_name": "Stonehearst Asylum 4K CZ Dabing",
+        "planned_at": "2026-11-10T17:49:31.870328+00:00"
+      }
     },
     "3050": {
       "attempts": []
@@ -172753,5 +172777,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:49:29.038487+00:00"
+  "updated_at": "2026-11-10T17:49:32.789446+00:00"
 }
