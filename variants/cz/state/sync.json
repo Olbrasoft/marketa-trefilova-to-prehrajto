@@ -116423,17 +116423,19 @@
       }
     },
     "20634": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33733528",
+          "target_video_id": "30984809",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:43:28.822208+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33733528",
         "display_name": "Storks 4K CZ Dabing",
         "planned_at": "2026-11-10T17:42:50.265115+00:00"
-      },
-      "claim": {
-        "worker_id": "7aefca1ec46a484e973b38e1fca5954e-shard-0",
-        "claimed_at": "2026-11-10T17:42:50.670049+00:00",
-        "lease_expires_at": "2026-11-10T23:42:50.670049+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984809",
       "prepared": {
@@ -116448,7 +116450,13 @@
       "last_plan": {
         "source_id": "33856555",
         "display_name": "Trouble with the Curve 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:43:20.742497+00:00"
+        "planned_at": "2026-11-10T17:43:25.711124+00:00"
+      },
+      "claim": {
+        "worker_id": "247d9c4029e64e56b4d011ab21210726-shard-0",
+        "claimed_at": "2026-11-10T17:43:26.117302+00:00",
+        "lease_expires_at": "2026-11-10T23:43:26.117302+00:00",
+        "run_id": "42823888331"
       }
     },
     "2772": {
@@ -172451,5 +172459,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:43:22.242318+00:00"
+  "updated_at": "2026-11-10T17:43:28.822224+00:00"
 }
