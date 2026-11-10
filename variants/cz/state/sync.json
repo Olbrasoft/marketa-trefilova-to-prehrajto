@@ -100055,17 +100055,19 @@
       }
     },
     "18391": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34697507",
+          "target_video_id": "30963718",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:02:05.870151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34697507",
         "display_name": "Inside the Mind of a Cat 1080p CZ Dabing",
         "planned_at": "2026-11-10T04:54:34.198504+00:00"
-      },
-      "claim": {
-        "worker_id": "73ffabba656f4ecab746dcdaf774ea14-shard-0",
-        "claimed_at": "2026-11-10T04:54:34.612062+00:00",
-        "lease_expires_at": "2026-11-10T10:54:34.612062+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30963718",
       "prepared": {
@@ -159011,5 +159013,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T04:55:27.191379+00:00"
+  "updated_at": "2026-11-10T05:02:05.870164+00:00"
 }
