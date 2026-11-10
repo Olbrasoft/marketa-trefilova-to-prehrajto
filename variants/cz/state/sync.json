@@ -120272,13 +120272,6 @@
           "source_id": "28192094",
           "target_video_id": "30985028",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:09:51.934468+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28192094",
-          "target_video_id": "30985028",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:44:20.654954+00:00"
         },
         {
@@ -120287,12 +120280,19 @@
           "target_video_id": "30985028",
           "permanent": false,
           "attempted_at": "2026-11-10T21:17:42.128494+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28192094",
+          "target_video_id": "30985028",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:51:25.234920+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28192094",
         "display_name": "Dolphin Tale 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:17:37.708478+00:00"
+        "planned_at": "2026-11-10T21:51:23.297165+00:00"
       },
       "previous_target_id": "30985028",
       "prepared": {
@@ -124142,11 +124142,22 @@
       "last_plan": {
         "source_id": "26751084",
         "display_name": "Batman and Superman: Battle of the Super Sons 720p CZ Dabing",
-        "planned_at": "2026-11-10T21:51:19.340235+00:00"
+        "planned_at": "2026-11-10T21:51:23.562152+00:00"
+      },
+      "claim": {
+        "worker_id": "d07411c5d4674a0fafc5a3a22c5ba5f4-shard-0",
+        "claimed_at": "2026-11-10T21:51:24.193244+00:00",
+        "lease_expires_at": "2026-11-11T03:51:24.193244+00:00",
+        "run_id": "42864255663"
       }
     },
     "14745": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34376822",
+        "display_name": "Somewhere in Queens 720p CZ Dabing",
+        "planned_at": "2026-11-10T21:51:23.718728+00:00"
+      }
     },
     "29585": {
       "attempts": []
@@ -179237,5 +179248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:51:21.319627+00:00"
+  "updated_at": "2026-11-10T21:51:25.234937+00:00"
 }
