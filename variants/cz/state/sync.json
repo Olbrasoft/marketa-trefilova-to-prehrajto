@@ -110369,13 +110369,6 @@
           "source_id": "35067260",
           "target_video_id": "30983776",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:42:30.362929+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35067260",
-          "target_video_id": "30983776",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:19:37.288880+00:00"
         },
         {
@@ -110384,6 +110377,13 @@
           "target_video_id": "30983776",
           "permanent": false,
           "attempted_at": "2026-11-10T23:00:54.177281+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35067260",
+          "target_video_id": "30983776",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:43:14.184219+00:00"
         }
       ],
       "last_plan": {
@@ -110429,7 +110429,7 @@
       "last_plan": {
         "source_id": "25235773",
         "display_name": "Karel and I (Karel a já) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:00:53.612852+00:00"
+        "planned_at": "2026-11-10T23:43:11.277599+00:00"
       },
       "previous_target_id": "30983777",
       "prepared": {
@@ -110437,6 +110437,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:46:00.062913+00:00",
         "relay_source_id": "25235773"
+      },
+      "claim": {
+        "worker_id": "dec71e14b8e948cd9572614ed1a5bf5b-shard-0",
+        "claimed_at": "2026-11-10T23:43:12.491512+00:00",
+        "lease_expires_at": "2026-11-11T05:43:12.491512+00:00",
+        "run_id": "42904278669"
       }
     },
     "12876": {
@@ -125818,7 +125824,7 @@
       "last_plan": {
         "source_id": "13097673",
         "display_name": "The Merciless (불한당: 나쁜 놈들의 세상) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:43:08.465568+00:00"
+        "planned_at": "2026-11-10T23:43:11.620052+00:00"
       }
     },
     "23170": {
@@ -180601,5 +180607,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:43:08.465588+00:00"
+  "updated_at": "2026-11-10T23:43:14.184238+00:00"
 }
