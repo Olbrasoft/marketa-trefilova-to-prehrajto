@@ -101762,17 +101762,19 @@
       }
     },
     "33321": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716398",
+          "target_video_id": "30971610",
+          "permanent": false,
+          "attempted_at": "2026-11-10T08:43:38.707494+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716398",
         "display_name": "Adventures of Sinbad the Sailor (Pohádky tisíce a jedné noci) SD CZ Dabing",
         "planned_at": "2026-11-10T08:41:46.983087+00:00"
-      },
-      "claim": {
-        "worker_id": "5c76ed77c09f44d2ae36c77131e95db6-shard-0",
-        "claimed_at": "2026-11-10T08:41:47.278704+00:00",
-        "lease_expires_at": "2026-11-10T14:41:47.278704+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30971610",
       "prepared": {
@@ -160343,5 +160345,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T08:41:51.814307+00:00"
+  "updated_at": "2026-11-10T08:43:38.707509+00:00"
 }
