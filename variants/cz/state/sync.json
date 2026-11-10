@@ -28937,13 +28937,6 @@
           "source_id": "26168393",
           "target_video_id": "30721201",
           "permanent": false,
-          "attempted_at": "2026-11-10T04:16:37.332666+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168393",
-          "target_video_id": "30721201",
-          "permanent": false,
           "attempted_at": "2026-11-10T04:51:39.819143+00:00"
         },
         {
@@ -28952,6 +28945,13 @@
           "target_video_id": "30721201",
           "permanent": false,
           "attempted_at": "2026-11-10T05:38:03.878743+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168393",
+          "target_video_id": "30721201",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:12:22.200174+00:00"
         }
       ],
       "last_plan": {
@@ -28965,12 +28965,6 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
-      },
-      "claim": {
-        "worker_id": "4f1487422024472c8eafffd1e9789f55-shard-0",
-        "claimed_at": "2026-11-10T06:12:19.133954+00:00",
-        "lease_expires_at": "2026-11-10T12:12:19.133954+00:00",
-        "run_id": "42761712557"
       }
     },
     "23584": {
@@ -29077,7 +29071,7 @@
       "last_plan": {
         "source_id": "28442451",
         "display_name": "Synecdoche, New York SD CZ Dabing",
-        "planned_at": "2026-11-10T05:38:07.586590+00:00"
+        "planned_at": "2026-11-10T06:12:20.942491+00:00"
       },
       "previous_target_id": "30721408",
       "prepared": {
@@ -29085,6 +29079,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-02T07:58:12.679475+00:00",
         "relay_source_id": "28442451"
+      },
+      "claim": {
+        "worker_id": "48a6eef7901d401f9bcc417b82d3891a-shard-0",
+        "claimed_at": "2026-11-10T06:12:21.532964+00:00",
+        "lease_expires_at": "2026-11-10T12:12:21.532964+00:00",
+        "run_id": "42761712557"
       }
     },
     "22988": {
@@ -100517,7 +100517,7 @@
       "last_plan": {
         "source_id": "18515704",
         "display_name": "Promise Me This (Завет) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:12:18.786053+00:00"
+        "planned_at": "2026-11-10T06:12:21.181181+00:00"
       }
     },
     "22238": {
@@ -159354,5 +159354,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:12:19.280589+00:00"
+  "updated_at": "2026-11-10T06:12:22.200193+00:00"
 }
