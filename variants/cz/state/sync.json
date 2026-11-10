@@ -107853,13 +107853,6 @@
           "source_id": "33299236",
           "target_video_id": "30983538",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:42:55.253120+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33299236",
-          "target_video_id": "30983538",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:20:11.815552+00:00"
         },
         {
@@ -107868,6 +107861,13 @@
           "target_video_id": "30983538",
           "permanent": false,
           "attempted_at": "2026-11-10T23:01:41.443954+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33299236",
+          "target_video_id": "30983538",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:43:50.908481+00:00"
         }
       ],
       "last_plan": {
@@ -107913,7 +107913,7 @@
       "last_plan": {
         "source_id": "34908320",
         "display_name": "Pražská 5 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:01:44.708876+00:00"
+        "planned_at": "2026-11-10T23:43:49.006443+00:00"
       },
       "previous_target_id": "30983539",
       "prepared": {
@@ -107921,6 +107921,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T14:16:25.808778+00:00",
         "relay_source_id": "34908320"
+      },
+      "claim": {
+        "worker_id": "fd08298ca15946b680c4235d9cc7bfe5-shard-0",
+        "claimed_at": "2026-11-10T23:43:49.735692+00:00",
+        "lease_expires_at": "2026-11-11T05:43:49.735692+00:00",
+        "run_id": "42904278669"
       }
     },
     "24344": {
@@ -125818,7 +125824,7 @@
       "last_plan": {
         "source_id": "13097673",
         "display_name": "The Merciless (불한당: 나쁜 놈들의 세상) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:43:46.713961+00:00"
+        "planned_at": "2026-11-10T23:43:49.330392+00:00"
       }
     },
     "23170": {
@@ -180606,5 +180612,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:43:46.914812+00:00"
+  "updated_at": "2026-11-10T23:43:50.908500+00:00"
 }
