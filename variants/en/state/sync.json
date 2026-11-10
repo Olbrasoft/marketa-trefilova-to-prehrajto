@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-10T10:34:59.246185+00:00"
+        "planned_at": "2026-11-10T11:13:27.942878+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "b18e08ebee7e40f2b7133eb527104cd2-shard-0",
+        "claimed_at": "2026-11-10T11:13:28.325654+00:00",
+        "lease_expires_at": "2026-11-10T17:13:28.325654+00:00",
+        "run_id": "42790251611"
       }
     },
     "21312": {
@@ -16534,13 +16540,6 @@
           "source_id": "33537783",
           "target_video_id": "30747251",
           "permanent": false,
-          "attempted_at": "2026-11-10T09:33:58.262706+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33537783",
-          "target_video_id": "30747251",
-          "permanent": false,
           "attempted_at": "2026-11-10T10:04:11.460385+00:00"
         },
         {
@@ -16549,6 +16548,13 @@
           "target_video_id": "30747251",
           "permanent": false,
           "attempted_at": "2026-11-10T10:34:50.246031+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33537783",
+          "target_video_id": "30747251",
+          "permanent": false,
+          "attempted_at": "2026-11-10T11:13:30.021012+00:00"
         }
       ],
       "last_plan": {
@@ -33444,7 +33450,7 @@
       "last_plan": {
         "source_id": "12889912",
         "display_name": "The Dirt 4K CZ Titulky",
-        "planned_at": "2026-11-10T11:13:25.250547+00:00"
+        "planned_at": "2026-11-10T11:13:28.218323+00:00"
       }
     },
     "12801": {
@@ -95750,5 +95756,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T11:13:25.250565+00:00"
+  "updated_at": "2026-11-10T11:13:30.021030+00:00"
 }
