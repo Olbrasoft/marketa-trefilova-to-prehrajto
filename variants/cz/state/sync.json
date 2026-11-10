@@ -102193,7 +102193,20 @@
       "attempts": []
     },
     "2637": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32690013",
+          "reason": "Request failed for https://sdilej.cz/32690013/spolu-to-dame-2017-drama-komedie-nemecko-czdab-1080p.mkv (HTTP 500)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:27.850285+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32690013",
+        "display_name": "This Crazy Heart (Dieses bescheuerte Herz) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:25:24.631767+00:00"
+      }
     },
     "22414": {
       "attempts": []
@@ -160654,5 +160667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:25:22.401430+00:00"
+  "updated_at": "2026-11-10T09:25:27.850303+00:00"
 }
