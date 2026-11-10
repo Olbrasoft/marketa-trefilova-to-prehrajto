@@ -119430,13 +119430,6 @@
           "source_id": "33677451",
           "target_video_id": "30984982",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:57:58.289506+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33677451",
-          "target_video_id": "30984982",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:31:06.253324+00:00"
         },
         {
@@ -119445,6 +119438,13 @@
           "target_video_id": "30984982",
           "permanent": false,
           "attempted_at": "2026-11-10T20:04:19.470646+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33677451",
+          "target_video_id": "30984982",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:38:13.649166+00:00"
         }
       ],
       "last_plan": {
@@ -122168,7 +122168,7 @@
       "last_plan": {
         "source_id": "12118069",
         "display_name": "Magic 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:04:18.171581+00:00"
+        "planned_at": "2026-11-10T20:38:12.478671+00:00"
       },
       "previous_target_id": "30985474",
       "prepared": {
@@ -122176,6 +122176,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:30:29.070562+00:00",
         "relay_source_id": "12118069"
+      },
+      "claim": {
+        "worker_id": "a52b29a6ce694ff0a4543c624cdc33cd-shard-0",
+        "claimed_at": "2026-11-10T20:38:13.093101+00:00",
+        "lease_expires_at": "2026-11-11T02:38:13.093101+00:00",
+        "run_id": "42864255663"
       }
     },
     "19819": {
@@ -122890,7 +122896,7 @@
       "last_plan": {
         "source_id": "22838327",
         "display_name": "The Comancheros SD CZ Dabing",
-        "planned_at": "2026-11-10T20:38:10.388524+00:00"
+        "planned_at": "2026-11-10T20:38:12.743841+00:00"
       }
     },
     "19160": {
@@ -178201,5 +178207,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:38:10.726076+00:00"
+  "updated_at": "2026-11-10T20:38:13.649184+00:00"
 }
