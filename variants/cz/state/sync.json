@@ -103941,21 +103941,34 @@
       "attempts": []
     },
     "27693": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35068375",
+          "reason": "Source detail has no authenticated download link; source_id=35068375",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:13:12.768235+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35068375",
         "display_name": "Tales of the Night SD CZ Dabing",
         "planned_at": "2026-11-10T10:13:06.162954+00:00"
-      },
-      "claim": {
-        "worker_id": "8f15a733d73c4f2c9550b93b5231f091-shard-0",
-        "claimed_at": "2026-11-10T10:13:07.081795+00:00",
-        "lease_expires_at": "2026-11-10T16:13:07.081795+00:00",
-        "run_id": "42790251611"
       }
     },
     "33561": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24870033",
+        "display_name": "Forman vs. Forman 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:13:11.591632+00:00"
+      },
+      "claim": {
+        "worker_id": "b1aebc863568410ca226ecf221144908-shard-0",
+        "claimed_at": "2026-11-10T10:13:12.174506+00:00",
+        "lease_expires_at": "2026-11-10T16:13:12.174506+00:00",
+        "run_id": "42790251611"
+      }
     },
     "16258": {
       "attempts": []
@@ -161868,5 +161881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:09.334380+00:00"
+  "updated_at": "2026-11-10T10:13:12.768254+00:00"
 }
