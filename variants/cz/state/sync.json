@@ -103325,17 +103325,19 @@
       "attempts": []
     },
     "22986": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13754493",
+          "reason": "Source detail has no authenticated download link; source_id=13754493",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:10:58.497268+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13754493",
         "display_name": "Little Vera SD CZ Dabing",
         "planned_at": "2026-11-10T10:10:52.699181+00:00"
-      },
-      "claim": {
-        "worker_id": "2bfd155c505c4c3d8a560a5b7a061735-shard-0",
-        "claimed_at": "2026-11-10T10:10:53.397301+00:00",
-        "lease_expires_at": "2026-11-10T16:10:53.397301+00:00",
-        "run_id": "42790251611"
       }
     },
     "11827": {
@@ -161428,5 +161430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:10:56.904214+00:00"
+  "updated_at": "2026-11-10T10:10:58.497285+00:00"
 }
