@@ -110356,17 +110356,19 @@
       "attempts": []
     },
     "26151": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25728131",
+          "target_video_id": "30983845",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:59:35.920139+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25728131",
         "display_name": "O chytrém Honzovi, aneb jak se Honza stal králem (O chytrém Honzovi) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:58:53.719017+00:00"
-      },
-      "claim": {
-        "worker_id": "aeed0581887549f3b6658ad1baafa551-shard-0",
-        "claimed_at": "2026-11-10T14:58:55.680955+00:00",
-        "lease_expires_at": "2026-11-10T20:58:55.680955+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983845",
       "prepared": {
@@ -166988,5 +166990,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:59:27.150631+00:00"
+  "updated_at": "2026-11-10T14:59:35.920161+00:00"
 }
