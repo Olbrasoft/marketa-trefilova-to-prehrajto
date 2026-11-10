@@ -107482,17 +107482,19 @@
       "attempts": []
     },
     "32439": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32363158",
+          "target_video_id": "30983563",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:17:49.420107+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32363158",
         "display_name": "What's Up Doc? (Co je vám, doktore?) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:17:05.936355+00:00"
-      },
-      "claim": {
-        "worker_id": "f617ce39e6a246f9b1f6e565ac814a85-shard-0",
-        "claimed_at": "2026-11-10T14:17:06.330779+00:00",
-        "lease_expires_at": "2026-11-10T20:17:06.330779+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983563",
       "prepared": {
@@ -164597,5 +164599,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:17:47.250232+00:00"
+  "updated_at": "2026-11-10T14:17:49.420126+00:00"
 }
