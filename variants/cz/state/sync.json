@@ -108559,6 +108559,13 @@
           "target_video_id": "30983665",
           "permanent": false,
           "attempted_at": "2026-11-10T14:30:51.299708+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072913",
+          "target_video_id": "30983665",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:01:15.693130+00:00"
         }
       ],
       "last_plan": {
@@ -108569,15 +108576,9 @@
       "previous_target_id": "30983665",
       "prepared": {
         "target_video_id": "30983665",
-        "size_bytes": 1676508006,
+        "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:30:14.467093+00:00",
         "relay_source_id": "35072913"
-      },
-      "claim": {
-        "worker_id": "216f4b7515c44c1488567417fa7059a4-shard-0",
-        "claimed_at": "2026-11-10T15:01:11.679643+00:00",
-        "lease_expires_at": "2026-11-10T21:01:11.679643+00:00",
-        "run_id": "42823888331"
       }
     },
     "28861": {
@@ -110478,17 +110479,19 @@
       }
     },
     "23936": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34705144",
+          "target_video_id": "30983853",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:01:15.858507+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34705144",
         "display_name": "Private Torment (Windstorm) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:59:48.182197+00:00"
-      },
-      "claim": {
-        "worker_id": "1e4c64bcba8d4ae1b5cc38ee2d4b1011-shard-0",
-        "claimed_at": "2026-11-10T14:59:48.653008+00:00",
-        "lease_expires_at": "2026-11-10T20:59:48.653008+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983853",
       "prepared": {
@@ -167064,5 +167067,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:01:12.693247+00:00"
+  "updated_at": "2026-11-10T15:01:15.858528+00:00"
 }
