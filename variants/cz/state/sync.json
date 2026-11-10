@@ -42255,13 +42255,6 @@
           "source_id": "34334657",
           "target_video_id": "30754884",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:18:38.215072+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34334657",
-          "target_video_id": "30754884",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:48:50.069271+00:00"
         },
         {
@@ -42270,6 +42263,13 @@
           "target_video_id": "30754884",
           "permanent": false,
           "attempted_at": "2026-11-10T18:20:04.145248+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34334657",
+          "target_video_id": "30754884",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:50:43.333947+00:00"
         }
       ],
       "last_plan": {
@@ -107445,7 +107445,7 @@
       "last_plan": {
         "source_id": "30853807",
         "display_name": "U nás v Kocourkově 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:20:05.904139+00:00"
+        "planned_at": "2026-11-10T18:50:41.740361+00:00"
       },
       "previous_target_id": "30983476",
       "prepared": {
@@ -107453,6 +107453,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-10T14:07:30.171414+00:00",
         "relay_source_id": "30853807"
+      },
+      "claim": {
+        "worker_id": "bc918610f63d47fe810d5ec690febfb1-shard-0",
+        "claimed_at": "2026-11-10T18:50:42.674976+00:00",
+        "lease_expires_at": "2026-11-11T00:50:42.674976+00:00",
+        "run_id": "42864255663"
       }
     },
     "21377": {
@@ -119953,14 +119959,25 @@
       "last_plan": {
         "source_id": "28731473",
         "display_name": "DogMan (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:50:39.406086+00:00"
+        "planned_at": "2026-11-10T18:50:42.008914+00:00"
+      },
+      "claim": {
+        "worker_id": "407145bf0f0047419261ff9bca620335-shard-0",
+        "claimed_at": "2026-11-10T18:50:42.875954+00:00",
+        "lease_expires_at": "2026-11-11T00:50:42.875954+00:00",
+        "run_id": "42864255663"
       }
     },
     "13240": {
       "attempts": []
     },
     "12462": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35117462",
+        "display_name": "Simon Birch 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:50:42.350960+00:00"
+      }
     },
     "3085": {
       "attempts": []
@@ -175586,5 +175603,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:50:39.611846+00:00"
+  "updated_at": "2026-11-10T18:50:43.333965+00:00"
 }
