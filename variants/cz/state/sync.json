@@ -121076,13 +121076,6 @@
           "source_id": "33746515",
           "target_video_id": "30985386",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:06:21.055959+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33746515",
-          "target_video_id": "30985386",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:41:01.550605+00:00"
         },
         {
@@ -121091,12 +121084,19 @@
           "target_video_id": "30985386",
           "permanent": false,
           "attempted_at": "2026-11-10T21:13:33.282359+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746515",
+          "target_video_id": "30985386",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:47:09.112250+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33746515",
         "display_name": "Taps 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:13:31.430747+00:00"
+        "planned_at": "2026-11-10T21:47:06.487430+00:00"
       },
       "previous_target_id": "30985386",
       "prepared": {
@@ -123957,17 +123957,19 @@
       }
     },
     "23062": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33746084",
+          "target_video_id": "30985770",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:47:09.296110+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33746084",
         "display_name": "Let It Ride 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:46:25.084442+00:00"
-      },
-      "claim": {
-        "worker_id": "2f12599f32034c45bb1a7a0f297c042f-shard-0",
-        "claimed_at": "2026-11-10T21:46:25.737437+00:00",
-        "lease_expires_at": "2026-11-11T03:46:25.737437+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985770",
       "prepared": {
@@ -124003,7 +124005,7 @@
       "last_plan": {
         "source_id": "31916577",
         "display_name": "He's a Dragon (Он - дракон) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:47:03.208558+00:00"
+        "planned_at": "2026-11-10T21:47:06.747111+00:00"
       }
     },
     "32155": {
@@ -179134,5 +179136,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:47:04.743486+00:00"
+  "updated_at": "2026-11-10T21:47:09.296125+00:00"
 }
