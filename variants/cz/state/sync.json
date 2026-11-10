@@ -102244,7 +102244,20 @@
       }
     },
     "2909": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21686237",
+          "reason": "Request failed for https://sdilej.cz/21686237/bol-raz-jeden-snehuliak-once-upon-a-snowman-cz-sk-1080p-2020-malasorte.mkv (HTTP 500)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:41.548848+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "21686237",
+        "display_name": "Once Upon a Snowman 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:25:39.906087+00:00"
+      }
     },
     "22048": {
       "attempts": []
@@ -160693,5 +160706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:25:37.615413+00:00"
+  "updated_at": "2026-11-10T09:25:41.548865+00:00"
 }
