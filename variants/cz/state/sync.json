@@ -122348,17 +122348,19 @@
       }
     },
     "26269": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22752658",
+          "target_video_id": "30985535",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:09:53.817008+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22752658",
         "display_name": "Flashbacks of a Fool 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:08:45.968749+00:00"
-      },
-      "claim": {
-        "worker_id": "204b1cfd9ccf4f9680fc2987a1e37dec-shard-0",
-        "claimed_at": "2026-11-10T20:08:48.254924+00:00",
-        "lease_expires_at": "2026-11-11T02:08:48.254924+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985535",
       "prepared": {
@@ -177765,5 +177767,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:09:51.934489+00:00"
+  "updated_at": "2026-11-10T20:09:53.817048+00:00"
 }
