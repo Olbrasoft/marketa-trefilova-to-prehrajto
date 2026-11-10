@@ -608,3 +608,4 @@ Attach subtitles only after target processing has finished.
 | Ninja in the Dragon's Den 1080p CZ Titulky | 30983315 | https://sdilej.cz/30986611/ninja.in.the.dragon-s.den.ninja.komando1982.eridanus.1080.bluray.cz.eng.ru.chin.mkv | Extract Czech track from exact source after processing |
 | The Seven Year Itch 1080p CZ Titulky | 30983632 | https://sdilej.cz/6563156/slameny-vdovec-the-seven-year-itch-1955-cz-1080phd-.mkv | Extract Czech track from exact source after processing |
 | Arthur the King 1080p CZ Titulky | 30984204 | https://sdilej.cz/28930526/arthur-the-king-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| Border (Gräns) 1080p CZ Titulky | 30984466 | https://sdilej.cz/11267704/apvral-border.1080p-1-.mkv | Extract Czech track from exact source after processing |
