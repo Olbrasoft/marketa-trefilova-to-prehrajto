@@ -108216,17 +108216,19 @@
       "attempts": []
     },
     "33991": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35068853",
+          "target_video_id": "30983667",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:31:14.355520+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35068853",
         "display_name": "Jako kníže Rohan SD CZ Dabing",
         "planned_at": "2026-11-10T14:30:34.222089+00:00"
-      },
-      "claim": {
-        "worker_id": "3481b7b855f44fba9f3dbd3e65e0f21d-shard-0",
-        "claimed_at": "2026-11-10T14:30:34.622237+00:00",
-        "lease_expires_at": "2026-11-10T20:30:34.622237+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983667",
       "prepared": {
@@ -165238,5 +165240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:31:12.854468+00:00"
+  "updated_at": "2026-11-10T14:31:14.355535+00:00"
 }
