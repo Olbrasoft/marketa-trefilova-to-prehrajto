@@ -122772,13 +122772,6 @@
           "source_id": "12249060",
           "target_video_id": "30985547",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:53:51.765785+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12249060",
-          "target_video_id": "30985547",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:35:40.943399+00:00"
         },
         {
@@ -122787,6 +122780,13 @@
           "target_video_id": "30985547",
           "permanent": false,
           "attempted_at": "2026-11-10T23:17:43.310433+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12249060",
+          "target_video_id": "30985547",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:56:11.912181+00:00"
         }
       ],
       "last_plan": {
@@ -124581,7 +124581,7 @@
       "last_plan": {
         "source_id": "34376822",
         "display_name": "Somewhere in Queens 720p CZ Dabing",
-        "planned_at": "2026-11-10T23:17:41.577020+00:00"
+        "planned_at": "2026-11-10T23:56:10.215751+00:00"
       },
       "previous_target_id": "30985782",
       "prepared": {
@@ -124589,6 +124589,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T21:53:13.010257+00:00",
         "relay_source_id": "34376822"
+      },
+      "claim": {
+        "worker_id": "c5aebcfa730d40329950b3392d3e9043-shard-0",
+        "claimed_at": "2026-11-10T23:56:10.975650+00:00",
+        "lease_expires_at": "2026-11-11T05:56:10.975650+00:00",
+        "run_id": "42904278669"
       }
     },
     "29585": {
@@ -126165,7 +126171,7 @@
       "last_plan": {
         "source_id": "29813240",
         "display_name": "Marguerite's Theorem (Le Théorème de Marguerite) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:56:07.917001+00:00"
+        "planned_at": "2026-11-10T23:56:10.538385+00:00"
       }
     },
     "2936": {
@@ -180870,5 +180876,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:56:08.163421+00:00"
+  "updated_at": "2026-11-10T23:56:11.912200+00:00"
 }
