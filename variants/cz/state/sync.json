@@ -108553,17 +108553,19 @@
       }
     },
     "32961": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35067153",
+          "target_video_id": "30983691",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:35:58.919518+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35067153",
         "display_name": "Vertigo (Závrať) (1963) SD CZ Dabing",
         "planned_at": "2026-11-10T14:35:14.988709+00:00"
-      },
-      "claim": {
-        "worker_id": "22a6f6d57520493c8dbd0e1d07ac5d7d-shard-0",
-        "claimed_at": "2026-11-10T14:35:15.428497+00:00",
-        "lease_expires_at": "2026-11-10T20:35:15.428497+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983691",
       "prepared": {
@@ -165531,5 +165533,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:35:35.121592+00:00"
+  "updated_at": "2026-11-10T14:35:58.919534+00:00"
 }
