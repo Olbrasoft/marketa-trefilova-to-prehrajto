@@ -105088,13 +105088,48 @@
       "attempts": []
     },
     "13034": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34678798",
+        "display_name": "Poslední mohykán 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:17:17.161043+00:00"
+      },
+      "claim": {
+        "worker_id": "d0e599707cb7415aa8977105cf1f2da7-shard-0",
+        "claimed_at": "2026-11-10T10:17:17.872083+00:00",
+        "lease_expires_at": "2026-11-10T16:17:17.872083+00:00",
+        "run_id": "42790251611"
+      }
     },
     "12529": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32999221",
+        "display_name": "Vražda v hotelu Excelsior 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:17:17.327299+00:00"
+      },
+      "claim": {
+        "worker_id": "3db00ee6503b4e1b887e1e0804102918-shard-0",
+        "claimed_at": "2026-11-10T10:17:18.186759+00:00",
+        "lease_expires_at": "2026-11-10T16:17:18.186759+00:00",
+        "run_id": "42790251611"
+      }
     },
     "11071": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29133770",
+          "reason": "Source detail has no authenticated download link; source_id=29133770",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:20.165704+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29133770",
+        "display_name": "Plot (L'Attentat) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:17:17.493089+00:00"
+      }
     },
     "22294": {
       "attempts": []
@@ -162665,5 +162700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:14.190153+00:00"
+  "updated_at": "2026-11-10T10:17:20.165722+00:00"
 }
