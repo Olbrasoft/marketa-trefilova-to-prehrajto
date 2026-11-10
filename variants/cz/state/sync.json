@@ -108618,17 +108618,19 @@
       }
     },
     "12527": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30160689",
+          "target_video_id": "30983693",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:36:12.214362+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30160689",
         "display_name": "Smrt černého krále 720p CZ Dabing",
         "planned_at": "2026-11-10T14:35:31.382449+00:00"
-      },
-      "claim": {
-        "worker_id": "53ef8742ae174f7caa96bf27acb49db4-shard-0",
-        "claimed_at": "2026-11-10T14:35:31.754099+00:00",
-        "lease_expires_at": "2026-11-10T20:35:31.754099+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983693",
       "prepared": {
@@ -165558,5 +165560,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:36:10.697931+00:00"
+  "updated_at": "2026-11-10T14:36:12.214377+00:00"
 }
