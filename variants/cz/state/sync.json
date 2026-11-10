@@ -115777,17 +115777,19 @@
       }
     },
     "2941": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28248567",
+          "target_video_id": "30984739",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:30:21.320594+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28248567",
         "display_name": "Goon 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:29:42.054395+00:00"
-      },
-      "claim": {
-        "worker_id": "5f3906ecc49048a9b7962973bdf5e9e1-shard-0",
-        "claimed_at": "2026-11-10T17:29:42.468420+00:00",
-        "lease_expires_at": "2026-11-10T23:29:42.468420+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984739",
       "prepared": {
@@ -115802,7 +115804,7 @@
       "last_plan": {
         "source_id": "34150039",
         "display_name": "The Long Kiss Goodnight 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:30:16.395770+00:00"
+        "planned_at": "2026-11-10T17:30:20.029107+00:00"
       }
     },
     "2471": {
@@ -171892,5 +171894,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:30:16.395793+00:00"
+  "updated_at": "2026-11-10T17:30:21.320610+00:00"
 }
