@@ -29689,13 +29689,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:24:30.785746+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:57:17.491311+00:00"
         },
         {
@@ -29704,6 +29697,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-10T20:30:57.315607+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:01:43.438217+00:00"
         }
       ],
       "last_plan": {
@@ -122862,7 +122862,7 @@
       "last_plan": {
         "source_id": "24836709",
         "display_name": "Harper SD CZ Dabing",
-        "planned_at": "2026-11-10T20:28:32.434755+00:00"
+        "planned_at": "2026-11-10T21:01:42.143720+00:00"
       },
       "previous_target_id": "30985572",
       "prepared": {
@@ -122870,6 +122870,12 @@
         "size_bytes": 1395953158,
         "prepared_at": "2026-11-10T20:28:40.493950+00:00",
         "relay_source_id": "24836709"
+      },
+      "claim": {
+        "worker_id": "7ac968664ac14978a5a7f77e639e9f75-shard-0",
+        "claimed_at": "2026-11-10T21:01:42.882805+00:00",
+        "lease_expires_at": "2026-11-11T03:01:42.882805+00:00",
+        "run_id": "42864255663"
       }
     },
     "32552": {
@@ -123273,7 +123279,7 @@
       "last_plan": {
         "source_id": "33873702",
         "display_name": "Cutter's Way 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:01:39.418209+00:00"
+        "planned_at": "2026-11-10T21:01:42.408377+00:00"
       }
     },
     "31026": {
@@ -178514,5 +178520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:01:39.582082+00:00"
+  "updated_at": "2026-11-10T21:01:43.438237+00:00"
 }
