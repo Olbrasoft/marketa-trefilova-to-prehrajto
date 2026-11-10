@@ -120406,7 +120406,7 @@
       "last_plan": {
         "source_id": "23806861",
         "display_name": "Athena 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:15:23.739844+00:00"
+        "planned_at": "2026-11-10T23:54:04.003037+00:00"
       },
       "previous_target_id": "30985032",
       "prepared": {
@@ -120414,17 +120414,16 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T18:37:53.303604+00:00",
         "relay_source_id": "23806861"
+      },
+      "claim": {
+        "worker_id": "a2d0abb64fc34abd9969539bcfc8b4ce-shard-0",
+        "claimed_at": "2026-11-10T23:54:04.749043+00:00",
+        "lease_expires_at": "2026-11-11T05:54:04.749043+00:00",
+        "run_id": "42904278669"
       }
     },
     "21120": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34011156",
-          "target_video_id": "30985031",
-          "permanent": false,
-          "attempted_at": "2026-11-10T21:51:46.601108+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34011156",
@@ -120438,6 +120437,13 @@
           "target_video_id": "30985031",
           "permanent": false,
           "attempted_at": "2026-11-10T23:15:20.332750+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34011156",
+          "target_video_id": "30985031",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:54:05.347014+00:00"
         }
       ],
       "last_plan": {
@@ -126144,7 +126150,7 @@
       "last_plan": {
         "source_id": "29813240",
         "display_name": "Marguerite's Theorem (Le Théorème de Marguerite) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:54:02.001745+00:00"
+        "planned_at": "2026-11-10T23:54:04.314523+00:00"
       }
     },
     "2936": {
@@ -180849,5 +180855,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:54:02.001765+00:00"
+  "updated_at": "2026-11-10T23:54:05.347034+00:00"
 }
