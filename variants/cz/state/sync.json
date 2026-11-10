@@ -104596,7 +104596,20 @@
       }
     },
     "14290": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26222229",
+          "reason": "Source detail has no authenticated download link; source_id=26222229",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:35.912419+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "26222229",
+        "display_name": "Aurora Teagarden Mysteries: Heist and Seek 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:15:33.021302+00:00"
+      }
     },
     "10775": {
       "attempts": []
@@ -104605,10 +104618,32 @@
       "attempts": []
     },
     "12227": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31102451",
+        "display_name": "Fany 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:15:33.187515+00:00"
+      },
+      "claim": {
+        "worker_id": "2d1c7012f261490fa641dd0bd9dfb082-shard-0",
+        "claimed_at": "2026-11-10T10:15:33.894129+00:00",
+        "lease_expires_at": "2026-11-10T16:15:33.894129+00:00",
+        "run_id": "42790251611"
+      }
     },
     "24162": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34530089",
+        "display_name": "Business Under Distress (Business in Distress) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:15:33.353722+00:00"
+      },
+      "claim": {
+        "worker_id": "4d7ed92232f5494bb97e4d0b566b4e55-shard-0",
+        "claimed_at": "2026-11-10T10:15:34.052103+00:00",
+        "lease_expires_at": "2026-11-10T16:15:34.052103+00:00",
+        "run_id": "42790251611"
+      }
     },
     "10769": {
       "attempts": []
@@ -162314,5 +162349,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:29.676056+00:00"
+  "updated_at": "2026-11-10T10:15:35.912436+00:00"
 }
