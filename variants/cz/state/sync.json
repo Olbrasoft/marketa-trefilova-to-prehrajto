@@ -107727,17 +107727,19 @@
       }
     },
     "2343": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27463973",
+          "target_video_id": "30983590",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:21:22.221860+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27463973",
         "display_name": "Signum Laudis 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:19:32.904794+00:00"
-      },
-      "claim": {
-        "worker_id": "000f39c4107a4635998ef3ad9b290b37-shard-0",
-        "claimed_at": "2026-11-10T14:19:33.296382+00:00",
-        "lease_expires_at": "2026-11-10T20:19:33.296382+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983590",
       "prepared": {
@@ -164793,5 +164795,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:21:20.631608+00:00"
+  "updated_at": "2026-11-10T14:21:22.221877+00:00"
 }
