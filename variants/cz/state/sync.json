@@ -19981,13 +19981,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:20:05.675759+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:50:20.355653+00:00"
         },
         {
@@ -19996,6 +19989,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-10T18:21:42.892687+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:52:17.383168+00:00"
         }
       ],
       "last_plan": {
@@ -112440,7 +112440,7 @@
       "last_plan": {
         "source_id": "33495930",
         "display_name": "Tanecnice (Tanečnice) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:21:42.434462+00:00"
+        "planned_at": "2026-11-10T18:52:16.223917+00:00"
       },
       "previous_target_id": "30983976",
       "prepared": {
@@ -112448,6 +112448,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T15:09:20.357315+00:00",
         "relay_source_id": "33495930"
+      },
+      "claim": {
+        "worker_id": "9cfacd2596c748dc8d7e91b8c3e2d6f8-shard-0",
+        "claimed_at": "2026-11-10T18:52:16.894732+00:00",
+        "lease_expires_at": "2026-11-11T00:52:16.894732+00:00",
+        "run_id": "42864255663"
       }
     },
     "12718": {
@@ -120005,7 +120011,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:52:13.829985+00:00"
+        "planned_at": "2026-11-10T18:52:16.480862+00:00"
       }
     },
     "3085": {
@@ -175639,5 +175645,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:52:14.035095+00:00"
+  "updated_at": "2026-11-10T18:52:17.383187+00:00"
 }
