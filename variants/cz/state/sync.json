@@ -102704,6 +102704,12 @@
         "source_id": "34910979",
         "display_name": "Ikarie XB-1 (Ikarie XB 1) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:08:48.604407+00:00"
+      },
+      "claim": {
+        "worker_id": "5f78adda76bd4d628747da4b0e4b8dba-shard-0",
+        "claimed_at": "2026-11-10T10:08:50.999161+00:00",
+        "lease_expires_at": "2026-11-10T16:08:50.999161+00:00",
+        "run_id": "42790251611"
       }
     },
     "10971": {
@@ -102713,7 +102719,15 @@
       "attempts": []
     },
     "21271": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34699542",
+          "reason": "Source detail has no authenticated download link; source_id=34699542",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:08:53.218773+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34699542",
         "display_name": "The Stone Flower SD CZ Dabing",
@@ -102724,7 +102738,18 @@
       "attempts": []
     },
     "12746": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30972221",
+        "display_name": "Bohous (Bohouš) 4K CZ Dabing",
+        "planned_at": "2026-11-10T10:08:51.313913+00:00"
+      },
+      "claim": {
+        "worker_id": "8a45fa2265ca4154aa9e135b1d017dc5-shard-0",
+        "claimed_at": "2026-11-10T10:08:51.816321+00:00",
+        "lease_expires_at": "2026-11-10T16:08:51.816321+00:00",
+        "run_id": "42790251611"
+      }
     },
     "13184": {
       "attempts": []
@@ -161011,5 +161036,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:08:48.764375+00:00"
+  "updated_at": "2026-11-10T10:08:53.218791+00:00"
 }
