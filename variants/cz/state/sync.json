@@ -103113,7 +103113,20 @@
       }
     },
     "10714": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22063012",
+          "reason": "Source detail has no authenticated download link; source_id=22063012",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:10:19.086011+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "22063012",
+        "display_name": "Bread, Love and Dreams (Pane, amore e fantasia) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:10:13.969460+00:00"
+      }
     },
     "32709": {
       "attempts": []
@@ -103125,10 +103138,32 @@
       "attempts": []
     },
     "22071": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "21164537",
+        "display_name": "The Widow Couderc 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:10:14.132949+00:00"
+      },
+      "claim": {
+        "worker_id": "0d3a5be9d55848d18067e81598ee6afa-shard-0",
+        "claimed_at": "2026-11-10T10:10:15.020223+00:00",
+        "lease_expires_at": "2026-11-10T16:10:15.020223+00:00",
+        "run_id": "42790251611"
+      }
     },
     "16834": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31178117",
+        "display_name": "The Etruscan Smile 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:10:14.495089+00:00"
+      },
+      "claim": {
+        "worker_id": "4275cd0bb61b478c9d7035c6bc6cdbb1-shard-0",
+        "claimed_at": "2026-11-10T10:10:15.233056+00:00",
+        "lease_expires_at": "2026-11-10T16:10:15.233056+00:00",
+        "run_id": "42790251611"
+      }
     },
     "1897": {
       "attempts": []
@@ -161274,5 +161309,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:10:08.510443+00:00"
+  "updated_at": "2026-11-10T10:10:19.086030+00:00"
 }
