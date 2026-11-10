@@ -104231,17 +104231,19 @@
       }
     },
     "34872": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "5705296",
+          "reason": "Source detail has no authenticated download link; source_id=5705296",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:16.994565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5705296",
         "display_name": "Mr. Bug Goes to Town SD CZ Dabing",
         "planned_at": "2026-11-10T10:14:12.451753+00:00"
-      },
-      "claim": {
-        "worker_id": "baa5ec77ae134e079b96200341598d77-shard-0",
-        "claimed_at": "2026-11-10T10:14:13.146484+00:00",
-        "lease_expires_at": "2026-11-10T16:14:13.146484+00:00",
-        "run_id": "42790251611"
       }
     },
     "37518": {
@@ -162076,5 +162078,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:15.299559+00:00"
+  "updated_at": "2026-11-10T10:14:16.994583+00:00"
 }
