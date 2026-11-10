@@ -73928,13 +73928,6 @@
           "source_id": "14853845",
           "target_video_id": "30882940",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:23:38.429008+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14853845",
-          "target_video_id": "30882940",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:56:24.580748+00:00"
         },
         {
@@ -73943,6 +73936,13 @@
           "target_video_id": "30882940",
           "permanent": false,
           "attempted_at": "2026-11-10T20:29:15.026404+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14853845",
+          "target_video_id": "30882940",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:00:22.480772+00:00"
         }
       ],
       "last_plan": {
@@ -73956,12 +73956,6 @@
         "size_bytes": 895300000,
         "prepared_at": "2026-11-07T06:18:13.380632+00:00",
         "relay_source_id": "14853845"
-      },
-      "claim": {
-        "worker_id": "db92745ea6dc4c25bfdb35c144200151-shard-0",
-        "claimed_at": "2026-11-10T21:00:11.794737+00:00",
-        "lease_expires_at": "2026-11-11T03:00:11.794737+00:00",
-        "run_id": "42864255663"
       }
     },
     "35276": {
@@ -74416,7 +74410,7 @@
       "last_plan": {
         "source_id": "31379501",
         "display_name": "Long Live Ghosts! (Ať žijí duchové!) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:29:16.636638+00:00"
+        "planned_at": "2026-11-10T21:00:16.664869+00:00"
       },
       "previous_target_id": "30885416",
       "prepared": {
@@ -74424,6 +74418,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T08:02:43.047319+00:00",
         "relay_source_id": "31379501"
+      },
+      "claim": {
+        "worker_id": "9940531089ad4b37892db23220a69e16-shard-0",
+        "claimed_at": "2026-11-10T21:00:17.805616+00:00",
+        "lease_expires_at": "2026-11-11T03:00:17.805616+00:00",
+        "run_id": "42864255663"
       }
     },
     "25458": {
@@ -123277,7 +123277,7 @@
       "last_plan": {
         "source_id": "33873702",
         "display_name": "Cutter's Way 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:00:11.416034+00:00"
+        "planned_at": "2026-11-10T21:00:17.209458+00:00"
       }
     },
     "31026": {
@@ -178513,5 +178513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:00:13.582553+00:00"
+  "updated_at": "2026-11-10T21:00:22.480792+00:00"
 }
