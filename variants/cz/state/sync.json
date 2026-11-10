@@ -19981,13 +19981,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:18:40.699849+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:49:57.664498+00:00"
         },
         {
@@ -19996,6 +19989,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-10T17:20:05.675759+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:50:20.355653+00:00"
         }
       ],
       "last_plan": {
@@ -20009,12 +20009,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
-      },
-      "claim": {
-        "worker_id": "10fd3ec0722341c99b17dc6d0cf44588-shard-0",
-        "claimed_at": "2026-11-10T17:50:18.182959+00:00",
-        "lease_expires_at": "2026-11-10T23:50:18.182959+00:00",
-        "run_id": "42823888331"
       }
     },
     "835": {
@@ -112446,7 +112440,7 @@
       "last_plan": {
         "source_id": "33495930",
         "display_name": "Tanecnice (Tanečnice) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:20:02.862989+00:00"
+        "planned_at": "2026-11-10T17:50:19.782263+00:00"
       },
       "previous_target_id": "30983976",
       "prepared": {
@@ -116828,11 +116822,16 @@
       "last_plan": {
         "source_id": "20970259",
         "display_name": "Stonehearst Asylum 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:50:16.526157+00:00"
+        "planned_at": "2026-11-10T17:50:20.136317+00:00"
       }
     },
     "3050": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34651133",
+        "display_name": "Sinbad: Legend of the Seven Seas 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:50:20.539857+00:00"
+      }
     },
     "2804": {
       "attempts": []
@@ -172786,5 +172785,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:50:18.182987+00:00"
+  "updated_at": "2026-11-10T17:50:20.539873+00:00"
 }
