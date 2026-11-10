@@ -112342,17 +112342,19 @@
       }
     },
     "3064": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32927099",
+          "reason": "Source detail has no authenticated download link; source_id=32927099",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:27:37.976480+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32927099",
         "display_name": "Hannibal (2001) 4K CZ Dabing",
         "planned_at": "2026-11-10T15:27:34.261126+00:00"
-      },
-      "claim": {
-        "worker_id": "8785443f35734a4c9f647ff7c13c9eed-shard-0",
-        "claimed_at": "2026-11-10T15:27:34.647084+00:00",
-        "lease_expires_at": "2026-11-10T21:27:34.647084+00:00",
-        "run_id": "42823888331"
       }
     },
     "3115": {
@@ -168697,5 +168699,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:27:35.431482+00:00"
+  "updated_at": "2026-11-10T15:27:37.976498+00:00"
 }
