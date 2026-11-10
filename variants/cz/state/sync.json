@@ -111585,13 +111585,6 @@
           "source_id": "33855360",
           "target_video_id": "30983838",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:06:56.619478+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855360",
-          "target_video_id": "30983838",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:37:03.149171+00:00"
         },
         {
@@ -111600,6 +111593,13 @@
           "target_video_id": "30983838",
           "permanent": false,
           "attempted_at": "2026-11-10T18:11:30.526636+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855360",
+          "target_video_id": "30983838",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:42:15.627230+00:00"
         }
       ],
       "last_plan": {
@@ -113662,7 +113662,7 @@
       "last_plan": {
         "source_id": "31982080",
         "display_name": "Extraction (2020) 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:11:31.134963+00:00"
+        "planned_at": "2026-11-10T18:42:14.195356+00:00"
       },
       "previous_target_id": "30984113",
       "prepared": {
@@ -113670,6 +113670,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:29:05.818325+00:00",
         "relay_source_id": "31982080"
+      },
+      "claim": {
+        "worker_id": "6b299b31a6504b7fa7994af92519b76e-shard-0",
+        "claimed_at": "2026-11-10T18:42:14.857314+00:00",
+        "lease_expires_at": "2026-11-11T00:42:14.857314+00:00",
+        "run_id": "42864255663"
       }
     },
     "2796": {
@@ -119613,6 +119619,12 @@
         "source_id": "33745590",
         "display_name": "Quick Change 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:42:12.063635+00:00"
+      },
+      "claim": {
+        "worker_id": "d7a71bdc1bb5429bb5c4f05fabb6fa91-shard-0",
+        "claimed_at": "2026-11-10T18:42:13.981534+00:00",
+        "lease_expires_at": "2026-11-11T00:42:13.981534+00:00",
+        "run_id": "42864255663"
       }
     },
     "13361": {
@@ -119620,7 +119632,7 @@
       "last_plan": {
         "source_id": "28773140",
         "display_name": "The Upside of Anger 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:42:12.222544+00:00"
+        "planned_at": "2026-11-10T18:42:14.458680+00:00"
       }
     },
     "2950": {
@@ -175274,5 +175286,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:42:12.222558+00:00"
+  "updated_at": "2026-11-10T18:42:15.627247+00:00"
 }
