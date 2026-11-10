@@ -108530,17 +108530,19 @@
       }
     },
     "12786": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34451234",
+          "target_video_id": "30983688",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:35:20.228303+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34451234",
         "display_name": "Happy Journey (Šťastnou cestu) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:34:41.087392+00:00"
-      },
-      "claim": {
-        "worker_id": "44c98ebce0754a66a38b2db6435b36e0-shard-0",
-        "claimed_at": "2026-11-10T14:34:41.480836+00:00",
-        "lease_expires_at": "2026-11-10T20:34:41.480836+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983688",
       "prepared": {
@@ -108565,7 +108567,18 @@
       }
     },
     "24095": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29678156",
+        "display_name": "The River (Young Love) SD CZ Dabing",
+        "planned_at": "2026-11-10T14:35:18.791792+00:00"
+      },
+      "claim": {
+        "worker_id": "97280a6fa9bf4749841c17afbe531e23-shard-0",
+        "claimed_at": "2026-11-10T14:35:19.259770+00:00",
+        "lease_expires_at": "2026-11-10T20:35:19.259770+00:00",
+        "run_id": "42823888331"
+      }
     },
     "12054": {
       "attempts": []
@@ -165473,5 +165486,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:35:15.696880+00:00"
+  "updated_at": "2026-11-10T14:35:20.228317+00:00"
 }
