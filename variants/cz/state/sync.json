@@ -87697,13 +87697,6 @@
           "source_id": "31439276",
           "target_video_id": "30924533",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:34:37.616261+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31439276",
-          "target_video_id": "30924533",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:05:36.386004+00:00"
         },
         {
@@ -87712,12 +87705,19 @@
           "target_video_id": "30924533",
           "permanent": false,
           "attempted_at": "2026-11-10T21:40:34.008408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31439276",
+          "target_video_id": "30924533",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:16:50.514530+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31439276",
         "display_name": "Treasure Island (1990) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:40:29.213054+00:00"
+        "planned_at": "2026-11-10T22:16:47.935531+00:00"
       },
       "previous_target_id": "30924533",
       "prepared": {
@@ -124617,14 +124617,25 @@
       "last_plan": {
         "source_id": "34651052",
         "display_name": "Safety 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:16:43.380494+00:00"
+        "planned_at": "2026-11-10T22:16:48.249899+00:00"
+      },
+      "claim": {
+        "worker_id": "721b6a594e424d68a4d1a2b55b888b59-shard-0",
+        "claimed_at": "2026-11-10T22:16:48.989675+00:00",
+        "lease_expires_at": "2026-11-11T04:16:48.989675+00:00",
+        "run_id": "42904278669"
       }
     },
     "21822": {
       "attempts": []
     },
     "16581": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33870427",
+        "display_name": "Unstoppable (2024) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T22:16:48.436846+00:00"
+      }
     },
     "2831": {
       "attempts": []
@@ -179610,5 +179621,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:16:45.885793+00:00"
+  "updated_at": "2026-11-10T22:16:50.514550+00:00"
 }
