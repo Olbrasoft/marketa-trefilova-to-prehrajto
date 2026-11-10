@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-10T20:55:39.367869+00:00"
+        "planned_at": "2026-11-10T21:30:22.110630+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "d15c2b54fd24421facb7b87050ca2260-shard-0",
+        "claimed_at": "2026-11-10T21:30:22.912969+00:00",
+        "lease_expires_at": "2026-11-11T03:30:22.912969+00:00",
+        "run_id": "42864255663"
       }
     },
     "52": {
@@ -123488,17 +123494,19 @@
       "attempts": []
     },
     "30059": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33064122",
+          "target_video_id": "30985714",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:30:23.101414+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33064122",
         "display_name": "Taboo 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:26:33.848084+00:00"
-      },
-      "claim": {
-        "worker_id": "85c607fe5c774c3e9e5db9219001ac9c-shard-0",
-        "claimed_at": "2026-11-10T21:26:34.714880+00:00",
-        "lease_expires_at": "2026-11-11T03:26:34.714880+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985714",
       "prepared": {
@@ -123569,7 +123577,7 @@
       "last_plan": {
         "source_id": "10827431",
         "display_name": "Finding Your Feet 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:30:16.038605+00:00"
+        "planned_at": "2026-11-10T21:30:22.376161+00:00"
       }
     },
     "21072": {
@@ -178757,5 +178765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:30:18.712079+00:00"
+  "updated_at": "2026-11-10T21:30:23.101433+00:00"
 }
