@@ -112619,13 +112619,6 @@
           "source_id": "32962420",
           "target_video_id": "30984000",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:24:40.085649+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32962420",
-          "target_video_id": "30984000",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:55:18.923481+00:00"
         },
         {
@@ -112634,6 +112627,13 @@
           "target_video_id": "30984000",
           "permanent": false,
           "attempted_at": "2026-11-10T19:27:47.126375+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32962420",
+          "target_video_id": "30984000",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:00:52.183588+00:00"
         }
       ],
       "last_plan": {
@@ -112731,7 +112731,7 @@
       "last_plan": {
         "source_id": "11544873",
         "display_name": "Spectre 4K CZ Dabing",
-        "planned_at": "2026-11-10T19:27:46.007195+00:00"
+        "planned_at": "2026-11-10T20:00:51.047052+00:00"
       },
       "previous_target_id": "30984008",
       "prepared": {
@@ -112739,6 +112739,12 @@
         "size_bytes": 22300000000,
         "prepared_at": "2026-11-10T15:14:40.239809+00:00",
         "relay_source_id": "11544873"
+      },
+      "claim": {
+        "worker_id": "b7339965b29145458a22dc73f493e679-shard-0",
+        "claimed_at": "2026-11-10T20:00:51.703913+00:00",
+        "lease_expires_at": "2026-11-11T02:00:51.703913+00:00",
+        "run_id": "42864255663"
       }
     },
     "3074": {
@@ -122216,7 +122222,7 @@
       "last_plan": {
         "source_id": "9868166",
         "display_name": "The Vanishing of Sidney Hall 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:00:49.044180+00:00"
+        "planned_at": "2026-11-10T20:00:51.307406+00:00"
       }
     },
     "26269": {
@@ -177614,5 +177620,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:00:49.044200+00:00"
+  "updated_at": "2026-11-10T20:00:52.183608+00:00"
 }
