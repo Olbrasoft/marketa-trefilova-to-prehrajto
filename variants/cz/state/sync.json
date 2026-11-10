@@ -73739,6 +73739,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-07T05:41:12.707110+00:00",
         "relay_source_id": "31393436"
+      },
+      "claim": {
+        "worker_id": "37e99446c00643aca305c90cdaec8e85-shard-0",
+        "claimed_at": "2026-11-10T23:36:27.344404+00:00",
+        "lease_expires_at": "2026-11-11T05:36:27.344404+00:00",
+        "run_id": "42904278669"
       }
     },
     "35314": {
@@ -115954,7 +115960,7 @@
       "last_plan": {
         "source_id": "34757966",
         "display_name": "Risky Business 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:52:20.397281+00:00"
+        "planned_at": "2026-11-10T23:36:27.567978+00:00"
       },
       "previous_target_id": "30984690",
       "prepared": {
@@ -115962,6 +115968,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:18:42.473688+00:00",
         "relay_source_id": "34757966"
+      },
+      "claim": {
+        "worker_id": "8715ea00a5f94456a6a2e567c12a35db-shard-0",
+        "claimed_at": "2026-11-10T23:36:28.585039+00:00",
+        "lease_expires_at": "2026-11-11T05:36:28.585039+00:00",
+        "run_id": "42904278669"
       }
     },
     "2787": {
@@ -117580,13 +117592,6 @@
           "source_id": "34903564",
           "target_video_id": "30984844",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:36:18.238423+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34903564",
-          "target_video_id": "30984844",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:12:57.847849+00:00"
         },
         {
@@ -117595,6 +117600,13 @@
           "target_video_id": "30984844",
           "permanent": false,
           "attempted_at": "2026-11-10T22:52:12.492307+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34903564",
+          "target_video_id": "30984844",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:36:28.399992+00:00"
         }
       ],
       "last_plan": {
@@ -117608,12 +117620,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T17:48:50.251668+00:00",
         "relay_source_id": "34903564"
-      },
-      "claim": {
-        "worker_id": "4e57dfd98b07474899a5d55e9eb0aa7d-shard-0",
-        "claimed_at": "2026-11-10T23:36:23.936069+00:00",
-        "lease_expires_at": "2026-11-11T05:36:23.936069+00:00",
-        "run_id": "42904278669"
       }
     },
     "17858": {
@@ -125670,7 +125676,7 @@
       "last_plan": {
         "source_id": "35401165",
         "display_name": "Murina 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:36:24.967234+00:00"
+        "planned_at": "2026-11-10T23:36:27.883395+00:00"
       }
     },
     "37377": {
@@ -180480,5 +180486,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:36:24.967254+00:00"
+  "updated_at": "2026-11-10T23:36:28.585064+00:00"
 }
