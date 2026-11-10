@@ -116469,17 +116469,19 @@
       }
     },
     "2772": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28241125",
+          "target_video_id": "30984812",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:44:11.203737+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28241125",
         "display_name": "Dog Soldiers 720p CZ Dabing",
         "planned_at": "2026-11-10T17:43:32.229782+00:00"
-      },
-      "claim": {
-        "worker_id": "c135641ad6a64d39af26d2a4dfa76cdc-shard-0",
-        "claimed_at": "2026-11-10T17:43:32.629294+00:00",
-        "lease_expires_at": "2026-11-10T23:43:32.629294+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984812",
       "prepared": {
@@ -172504,5 +172506,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:43:42.588495+00:00"
+  "updated_at": "2026-11-10T17:44:11.203761+00:00"
 }
