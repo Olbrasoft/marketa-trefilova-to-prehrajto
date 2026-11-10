@@ -121399,17 +121399,19 @@
       }
     },
     "12443": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28050708",
+          "reason": "Source detail has no authenticated download link; source_id=28050708",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:28:23.025586+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28050708",
         "display_name": "Zero Effect 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:28:19.004902+00:00"
-      },
-      "claim": {
-        "worker_id": "e8f9d0d351a045d4bb9deca27f3280bf-shard-0",
-        "claimed_at": "2026-11-10T19:28:19.651640+00:00",
-        "lease_expires_at": "2026-11-11T01:28:19.651640+00:00",
-        "run_id": "42864255663"
       }
     },
     "30007": {
@@ -176884,5 +176886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:28:21.646459+00:00"
+  "updated_at": "2026-11-10T19:28:23.025605+00:00"
 }
