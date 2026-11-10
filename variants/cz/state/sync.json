@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "0691f418d0cd4ed29654e4394332feb5-shard-0",
+        "claimed_at": "2026-11-10T20:34:23.212053+00:00",
+        "lease_expires_at": "2026-11-11T02:34:23.212053+00:00",
+        "run_id": "42864255663"
       }
     },
     "37290": {
@@ -92819,13 +92825,6 @@
           "source_id": "34296350",
           "target_video_id": "30942671",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:54:12.047581+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34296350",
-          "target_video_id": "30942671",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:26:53.711920+00:00"
         },
         {
@@ -92834,12 +92833,19 @@
           "target_video_id": "30942671",
           "permanent": false,
           "attempted_at": "2026-11-10T19:59:22.318224+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34296350",
+          "target_video_id": "30942671",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:34:25.719094+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34296350",
         "display_name": "Nymphomaniac: Volume I (Nymphomaniac: Vol. I) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:59:18.967056+00:00"
+        "planned_at": "2026-11-10T20:34:23.407875+00:00"
       },
       "previous_target_id": "30942671",
       "prepared": {
@@ -122862,7 +122868,7 @@
       "last_plan": {
         "source_id": "22838327",
         "display_name": "The Comancheros SD CZ Dabing",
-        "planned_at": "2026-11-10T20:34:21.532072+00:00"
+        "planned_at": "2026-11-10T20:34:23.681884+00:00"
       }
     },
     "19160": {
@@ -178173,5 +178179,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:34:21.532089+00:00"
+  "updated_at": "2026-11-10T20:34:25.719110+00:00"
 }
