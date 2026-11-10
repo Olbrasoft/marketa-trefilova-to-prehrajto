@@ -110844,17 +110844,19 @@
       "attempts": []
     },
     "13133": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27516263",
+          "target_video_id": "30983931",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:06:28.013422+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27516263",
         "display_name": "Saturday (Sobota) 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:04:58.359607+00:00"
-      },
-      "claim": {
-        "worker_id": "bea92e70dec4402e9e4ca35ca29c8062-shard-0",
-        "claimed_at": "2026-11-10T15:04:58.747832+00:00",
-        "lease_expires_at": "2026-11-10T21:04:58.747832+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983931",
       "prepared": {
@@ -167429,5 +167431,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:06:21.861323+00:00"
+  "updated_at": "2026-11-10T15:06:28.013442+00:00"
 }
