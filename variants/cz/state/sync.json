@@ -102067,7 +102067,20 @@
       "attempts": []
     },
     "11060": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34902440",
+          "reason": "Source detail has no authenticated download link; source_id=34902440",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:00.071959+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34902440",
+        "display_name": "Oil Lamps (Petrolejové lampy) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:24:58.241947+00:00"
+      }
     },
     "12722": {
       "attempts": []
@@ -160576,5 +160589,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:24:54.246762+00:00"
+  "updated_at": "2026-11-10T09:25:00.072014+00:00"
 }
