@@ -121193,17 +121193,19 @@
       "attempts": []
     },
     "24971": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "5498626",
+          "target_video_id": "30985443",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:21:00.374908+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5498626",
         "display_name": "Intermission SD CZ Dabing",
         "planned_at": "2026-11-10T19:20:17.102833+00:00"
-      },
-      "claim": {
-        "worker_id": "1e8276a468e24a569cf506ab0d545e16-shard-0",
-        "claimed_at": "2026-11-10T19:20:19.105426+00:00",
-        "lease_expires_at": "2026-11-11T01:20:19.105426+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985443",
       "prepared": {
@@ -176708,5 +176710,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:20:58.780919+00:00"
+  "updated_at": "2026-11-10T19:21:00.374931+00:00"
 }
