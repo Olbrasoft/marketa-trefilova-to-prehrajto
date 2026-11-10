@@ -106108,7 +106108,7 @@
       "last_plan": {
         "source_id": "34882942",
         "display_name": "A Marriage Story 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:21:26.142296+00:00"
+        "planned_at": "2026-11-10T14:51:53.878684+00:00"
       },
       "previous_target_id": "30979783",
       "prepared": {
@@ -106116,6 +106116,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T12:31:58.087945+00:00",
         "relay_source_id": "34882942"
+      },
+      "claim": {
+        "worker_id": "2c25cef8a50e40829a4717addd5a7323-shard-0",
+        "claimed_at": "2026-11-10T14:51:54.883404+00:00",
+        "lease_expires_at": "2026-11-10T20:51:54.883404+00:00",
+        "run_id": "42823888331"
       }
     },
     "21222": {
@@ -108056,6 +108062,12 @@
         "size_bytes": 1670530958,
         "prepared_at": "2026-11-10T14:19:39.157638+00:00",
         "relay_source_id": "27463973"
+      },
+      "claim": {
+        "worker_id": "0687be42809e46ae8b9346ea8aa7b127-shard-0",
+        "claimed_at": "2026-11-10T14:51:53.649885+00:00",
+        "lease_expires_at": "2026-11-10T20:51:53.649885+00:00",
+        "run_id": "42823888331"
       }
     },
     "16570": {
@@ -109800,17 +109812,19 @@
       }
     },
     "12571": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34733928",
+          "target_video_id": "30983808",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:51:55.332742+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34733928",
         "display_name": "Grounds for Divorce (Důvod k rozvodu) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:51:15.548876+00:00"
-      },
-      "claim": {
-        "worker_id": "d4c860d05239497fa8839c50002f488f-shard-0",
-        "claimed_at": "2026-11-10T14:51:15.939895+00:00",
-        "lease_expires_at": "2026-11-10T20:51:15.939895+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983808",
       "prepared": {
@@ -109825,7 +109839,7 @@
       "last_plan": {
         "source_id": "34714367",
         "display_name": "Svědek umírajícího času 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:51:51.210718+00:00"
+        "planned_at": "2026-11-10T14:51:54.202435+00:00"
       }
     },
     "33917": {
@@ -166488,5 +166502,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:51:51.210734+00:00"
+  "updated_at": "2026-11-10T14:51:55.332758+00:00"
 }
