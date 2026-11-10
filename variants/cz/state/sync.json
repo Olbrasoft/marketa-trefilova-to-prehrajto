@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-10T06:11:42.703647+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-10T06:47:36.607377+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-10T07:20:07.776858+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:57:14.957476+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "565575b59bb7446ab50e66963d1de6ad-shard-0",
-        "claimed_at": "2026-11-10T07:57:11.103647+00:00",
-        "lease_expires_at": "2026-11-10T13:57:11.103647+00:00",
-        "run_id": "42761712557"
       }
     },
     "52": {
@@ -14663,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-10T07:20:11.142835+00:00"
+        "planned_at": "2026-11-10T07:57:13.761738+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14671,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "8e2532168637482fb89933e57a1468e0-shard-0",
+        "claimed_at": "2026-11-10T07:57:14.493320+00:00",
+        "lease_expires_at": "2026-11-10T13:57:14.493320+00:00",
+        "run_id": "42761712557"
       }
     },
     "22177": {
@@ -101420,7 +101420,7 @@
       "last_plan": {
         "source_id": "34904643",
         "display_name": "Here The Whole Time 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:57:10.759060+00:00"
+        "planned_at": "2026-11-10T07:57:13.996368+00:00"
       }
     },
     "1836": {
@@ -160062,5 +160062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:57:11.609073+00:00"
+  "updated_at": "2026-11-10T07:57:14.957497+00:00"
 }
