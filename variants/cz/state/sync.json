@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-10T05:41:27.152075+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-10T06:18:09.378085+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-10T06:54:27.439522+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:25:36.070879+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "9ffcdc4700ec4a5c9db7fd425c5107e5-shard-0",
-        "claimed_at": "2026-11-10T07:25:29.905485+00:00",
-        "lease_expires_at": "2026-11-10T13:25:29.905485+00:00",
-        "run_id": "42761712557"
       }
     },
     "37290": {
@@ -101147,7 +101141,13 @@
       "last_plan": {
         "source_id": "13492700",
         "display_name": "Garage Sale Mystery: The Novel Murders 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:25:29.578909+00:00"
+        "planned_at": "2026-11-10T07:25:34.445040+00:00"
+      },
+      "claim": {
+        "worker_id": "282b9592db8d468a9935cd5ac2135571-shard-0",
+        "claimed_at": "2026-11-10T07:25:34.809940+00:00",
+        "lease_expires_at": "2026-11-10T13:25:34.809940+00:00",
+        "run_id": "42761712557"
       }
     },
     "26603": {
@@ -159852,5 +159852,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:25:31.019777+00:00"
+  "updated_at": "2026-11-10T07:25:36.070896+00:00"
 }
