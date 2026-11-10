@@ -53781,7 +53781,7 @@
       "last_plan": {
         "source_id": "33925810",
         "display_name": "The Doors 4K CZ Dabing",
-        "planned_at": "2026-11-10T13:29:17.826588+00:00"
+        "planned_at": "2026-11-10T14:07:16.144756+00:00"
       },
       "previous_target_id": "30780604",
       "prepared": {
@@ -53789,6 +53789,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-04T06:13:57.574294+00:00",
         "relay_source_id": "33925810"
+      },
+      "claim": {
+        "worker_id": "8bc736eef5044f65b3b5874064028619-shard-0",
+        "claimed_at": "2026-11-10T14:07:16.867414+00:00",
+        "lease_expires_at": "2026-11-10T20:07:16.867414+00:00",
+        "run_id": "42823888331"
       }
     },
     "1790": {
@@ -107056,17 +107062,19 @@
       "attempts": []
     },
     "32352": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31561997",
+          "target_video_id": "30983461",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:07:18.016794+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31561997",
         "display_name": "Vracenky SD CZ Dabing",
         "planned_at": "2026-11-10T14:05:36.650563+00:00"
-      },
-      "claim": {
-        "worker_id": "a76b8faefb814329b243cf6002ab29cf-shard-0",
-        "claimed_at": "2026-11-10T14:05:37.512668+00:00",
-        "lease_expires_at": "2026-11-10T20:05:37.512668+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983461",
       "prepared": {
@@ -107102,7 +107110,7 @@
       "last_plan": {
         "source_id": "30853807",
         "display_name": "U nás v Kocourkově 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:07:11.644644+00:00"
+        "planned_at": "2026-11-10T14:07:16.457399+00:00"
       }
     },
     "21377": {
@@ -164275,5 +164283,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:07:14.522889+00:00"
+  "updated_at": "2026-11-10T14:07:18.016811+00:00"
 }
