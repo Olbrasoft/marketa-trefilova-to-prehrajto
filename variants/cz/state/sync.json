@@ -109731,17 +109731,19 @@
       "attempts": []
     },
     "28778": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34952768",
+          "target_video_id": "30983806",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:51:38.668886+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34952768",
         "display_name": "Hotel (Hôtel) (2013) 720p CZ Dabing",
         "planned_at": "2026-11-10T14:50:57.950508+00:00"
-      },
-      "claim": {
-        "worker_id": "e253237419984cc099106217c9cd9bc3-shard-0",
-        "claimed_at": "2026-11-10T14:50:58.339953+00:00",
-        "lease_expires_at": "2026-11-10T20:50:58.339953+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983806",
       "prepared": {
@@ -166465,5 +166467,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:51:19.173918+00:00"
+  "updated_at": "2026-11-10T14:51:38.668902+00:00"
 }
