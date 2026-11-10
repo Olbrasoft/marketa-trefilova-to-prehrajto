@@ -123987,17 +123987,19 @@
       }
     },
     "16382": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14593132",
+          "target_video_id": "30985771",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:48:36.333389+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14593132",
         "display_name": "The Suspect (용의자) SD CZ Dabing",
         "planned_at": "2026-11-10T21:46:54.966418+00:00"
-      },
-      "claim": {
-        "worker_id": "07af7392a8d942c8b9513c07b0ade6f8-shard-0",
-        "claimed_at": "2026-11-10T21:46:55.622168+00:00",
-        "lease_expires_at": "2026-11-11T03:46:55.622168+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985771",
       "prepared": {
@@ -179161,5 +179163,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:48:34.839329+00:00"
+  "updated_at": "2026-11-10T21:48:36.333409+00:00"
 }
