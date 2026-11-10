@@ -43615,13 +43615,6 @@
           "source_id": "34841408",
           "target_video_id": "30757982",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:55:35.101239+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34841408",
-          "target_video_id": "30757982",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:28:13.761251+00:00"
         },
         {
@@ -43630,12 +43623,19 @@
           "target_video_id": "30757982",
           "permanent": false,
           "attempted_at": "2026-11-10T20:58:55.868900+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34841408",
+          "target_video_id": "30757982",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:34:44.348528+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34841408",
         "display_name": "The Walk 4K CZ Dabing",
-        "planned_at": "2026-11-10T20:58:54.136010+00:00"
+        "planned_at": "2026-11-10T21:34:42.277772+00:00"
       },
       "previous_target_id": "30757982",
       "prepared": {
@@ -123645,11 +123645,22 @@
       "last_plan": {
         "source_id": "34503356",
         "display_name": "The Hot Rock 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:34:35.208136+00:00"
+        "planned_at": "2026-11-10T21:34:42.549349+00:00"
+      },
+      "claim": {
+        "worker_id": "0ab2df2c8af64c5dbc09d9c1a2fbb0d4-shard-0",
+        "claimed_at": "2026-11-10T21:34:43.206561+00:00",
+        "lease_expires_at": "2026-11-11T03:34:43.206561+00:00",
+        "run_id": "42864255663"
       }
     },
     "11306": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33000024",
+        "display_name": "Murder by Decree 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:34:42.712296+00:00"
+      }
     },
     "2798": {
       "attempts": []
@@ -178827,5 +178838,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:34:38.948244+00:00"
+  "updated_at": "2026-11-10T21:34:44.348546+00:00"
 }
