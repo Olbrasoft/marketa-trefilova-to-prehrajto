@@ -102174,7 +102174,20 @@
       "attempts": []
     },
     "23746": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34722207",
+          "reason": "Request failed for https://sdilej.cz/34722207/rasputin-1996-cz-dabing.mp4 (HTTP 500)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:22.401409+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34722207",
+        "display_name": "Rasputin: Dark Servant of Destiny (Rasputin) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:25:20.436085+00:00"
+      }
     },
     "2590": {
       "attempts": []
@@ -160641,5 +160654,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:25:18.346330+00:00"
+  "updated_at": "2026-11-10T09:25:22.401430+00:00"
 }
