@@ -107756,17 +107756,19 @@
       }
     },
     "16570": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22546836",
+          "target_video_id": "30983603",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:22:15.270196+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22546836",
         "display_name": "Touched by Romance (Touched) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:21:30.893002+00:00"
-      },
-      "claim": {
-        "worker_id": "c8eaa87eecd548d59557e42a1b5cda17-shard-0",
-        "claimed_at": "2026-11-10T14:21:32.731329+00:00",
-        "lease_expires_at": "2026-11-10T20:21:32.731329+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983603",
       "prepared": {
@@ -164832,5 +164834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:21:41.213326+00:00"
+  "updated_at": "2026-11-10T14:22:15.270210+00:00"
 }
