@@ -602,3 +602,4 @@ Attach subtitles only after target processing has finished.
 | Super 8 720p CZ Titulky | 30970243 | https://sdilej.cz/16310205/super-8-2011-sci-fi-cz-dab-720p-hd.mkv | Extract Czech track from exact source after processing |
 | The Dirt 4K CZ Titulky | 30977182 | https://sdilej.cz/12889912/the.dirt.2019.2160p.uhdrip.sdr.hevc.ddp.5.1-ddr.cztitulky.mkv | Extract Czech track from exact source after processing |
 | Pieces of a Woman 1080p CZ Titulky | 30977806 | https://sdilej.cz/27839654/stripky-zeny-vanessa-kirby-shia-labeouf-ellen-burstyn-2020-drama-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Colonia (Colonia Dignidad – Es gibt kein Zurück) 1080p CZ Titulky | 30977898 | https://sdilej.cz/34886157/colonia.2015.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
