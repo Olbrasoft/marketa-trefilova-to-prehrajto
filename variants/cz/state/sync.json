@@ -118871,17 +118871,19 @@
       "attempts": []
     },
     "2969": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12287408",
+          "target_video_id": "30985001",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:30:55.202949+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12287408",
         "display_name": "Wildlife 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:30:06.020947+00:00"
-      },
-      "claim": {
-        "worker_id": "8b1f52d259314f6691ac7b2ef3323f61-shard-0",
-        "claimed_at": "2026-11-10T18:30:10.915996+00:00",
-        "lease_expires_at": "2026-11-11T00:30:10.915996+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985001",
       "prepared": {
@@ -174660,5 +174662,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:30:53.358716+00:00"
+  "updated_at": "2026-11-10T18:30:55.202967+00:00"
 }
