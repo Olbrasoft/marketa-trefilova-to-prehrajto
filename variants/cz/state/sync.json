@@ -102427,7 +102427,20 @@
       "attempts": []
     },
     "21444": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "6889319",
+          "reason": "Source detail has no authenticated download link; source_id=6889319",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:29:44.635712+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "6889319",
+        "display_name": "The Violent Men SD CZ Dabing",
+        "planned_at": "2026-11-10T09:29:42.389251+00:00"
+      }
     },
     "17473": {
       "attempts": []
@@ -160810,5 +160823,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:29:32.485377+00:00"
+  "updated_at": "2026-11-10T09:29:44.635729+00:00"
 }
