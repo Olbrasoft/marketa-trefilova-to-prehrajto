@@ -101657,17 +101657,19 @@
       "attempts": []
     },
     "11172": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30409115",
+          "target_video_id": "30970925",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:58:25.236442+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30409115",
         "display_name": "Fear Over the City (Peur sur la ville) 4K CZ Dabing",
         "planned_at": "2026-11-10T08:19:24.542779+00:00"
-      },
-      "claim": {
-        "worker_id": "50b07021c33c4752afcbd9c813448a84-shard-0",
-        "claimed_at": "2026-11-10T08:19:24.893935+00:00",
-        "lease_expires_at": "2026-11-10T14:19:24.893935+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30970925",
       "prepared": {
@@ -160912,5 +160914,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:34:46.430549+00:00"
+  "updated_at": "2026-11-10T09:58:25.236481+00:00"
 }
