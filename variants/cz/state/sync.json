@@ -113697,13 +113697,6 @@
           "source_id": "32941800",
           "target_video_id": "30984118",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:11:52.188025+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32941800",
-          "target_video_id": "30984118",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:42:36.319663+00:00"
         },
         {
@@ -113712,6 +113705,13 @@
           "target_video_id": "30984118",
           "permanent": false,
           "attempted_at": "2026-11-10T19:13:59.685871+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32941800",
+          "target_video_id": "30984118",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:46:20.109210+00:00"
         }
       ],
       "last_plan": {
@@ -121405,7 +121405,7 @@
       "last_plan": {
         "source_id": "20040559",
         "display_name": "The Chumscrubber 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:12:52.657918+00:00"
+        "planned_at": "2026-11-10T19:46:18.971743+00:00"
       },
       "previous_target_id": "30985420",
       "prepared": {
@@ -121413,6 +121413,12 @@
         "size_bytes": 5797761185,
         "prepared_at": "2026-11-10T19:12:57.845151+00:00",
         "relay_source_id": "20040559"
+      },
+      "claim": {
+        "worker_id": "2bb08295de1548e2b756aa5b57469d07-shard-0",
+        "claimed_at": "2026-11-10T19:46:19.595348+00:00",
+        "lease_expires_at": "2026-11-11T01:46:19.595348+00:00",
+        "run_id": "42864255663"
       }
     },
     "2982": {
@@ -121961,7 +121967,7 @@
       "last_plan": {
         "source_id": "32448157",
         "display_name": "Slaughterhouse-Five 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:46:16.463436+00:00"
+        "planned_at": "2026-11-10T19:46:19.236448+00:00"
       }
     },
     "3009": {
@@ -177395,5 +177401,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:46:16.463454+00:00"
+  "updated_at": "2026-11-10T19:46:20.109228+00:00"
 }
