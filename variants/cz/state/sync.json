@@ -108181,7 +108181,7 @@
       "last_plan": {
         "source_id": "34783018",
         "display_name": "Společnice 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:55:29.779410+00:00"
+        "planned_at": "2026-11-10T18:27:00.218087+00:00"
       },
       "previous_target_id": "30983586",
       "prepared": {
@@ -108189,17 +108189,16 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T14:18:43.524719+00:00",
         "relay_source_id": "34783018"
+      },
+      "claim": {
+        "worker_id": "0e22601ad5e34005a0c183067f40a08a-shard-0",
+        "claimed_at": "2026-11-10T18:27:01.019391+00:00",
+        "lease_expires_at": "2026-11-11T00:27:01.019391+00:00",
+        "run_id": "42864255663"
       }
     },
     "24189": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "33992687",
-          "target_video_id": "30983585",
-          "permanent": false,
-          "attempted_at": "2026-11-10T16:55:17.592994+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "33992687",
@@ -108213,6 +108212,13 @@
           "target_video_id": "30983585",
           "permanent": false,
           "attempted_at": "2026-11-10T17:55:31.232226+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33992687",
+          "target_video_id": "30983585",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:27:00.871322+00:00"
         }
       ],
       "last_plan": {
@@ -108226,12 +108232,6 @@
         "size_bytes": 838700000,
         "prepared_at": "2026-11-10T14:18:41.862697+00:00",
         "relay_source_id": "33992687"
-      },
-      "claim": {
-        "worker_id": "895c567f55dc421eb7dd1fa4399f7a64-shard-0",
-        "claimed_at": "2026-11-10T18:26:57.589945+00:00",
-        "lease_expires_at": "2026-11-11T00:26:57.589945+00:00",
-        "run_id": "42864255663"
       }
     },
     "12694": {
@@ -118562,7 +118562,7 @@
       "last_plan": {
         "source_id": "31541828",
         "display_name": "Middle Men 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:26:57.201256+00:00"
+        "planned_at": "2026-11-10T18:27:00.510044+00:00"
       }
     },
     "2773": {
@@ -174354,5 +174354,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:26:57.831701+00:00"
+  "updated_at": "2026-11-10T18:27:01.019416+00:00"
 }
