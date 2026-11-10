@@ -124135,17 +124135,19 @@
       }
     },
     "22493": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19162385",
+          "target_video_id": "30985778",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:00:59.548656+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19162385",
         "display_name": "Tom Horn 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:50:21.119973+00:00"
-      },
-      "claim": {
-        "worker_id": "3e82f3a3f75949b4a45af7f1fad85928-shard-0",
-        "claimed_at": "2026-11-10T21:50:21.754513+00:00",
-        "lease_expires_at": "2026-11-11T03:50:21.754513+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985778",
       "prepared": {
@@ -179311,5 +179313,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:00:57.257847+00:00"
+  "updated_at": "2026-11-10T22:00:59.548674+00:00"
 }
