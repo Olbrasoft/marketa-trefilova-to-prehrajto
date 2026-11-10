@@ -109488,13 +109488,6 @@
           "source_id": "29678156",
           "target_video_id": "30983692",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:55:37.589466+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29678156",
-          "target_video_id": "30983692",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:30:14.181102+00:00"
         },
         {
@@ -109503,6 +109496,13 @@
           "target_video_id": "30983692",
           "permanent": false,
           "attempted_at": "2026-11-10T22:05:36.347311+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29678156",
+          "target_video_id": "30983692",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:46:20.424977+00:00"
         }
       ],
       "last_plan": {
@@ -109516,12 +109516,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T14:35:23.576048+00:00",
         "relay_source_id": "29678156"
-      },
-      "claim": {
-        "worker_id": "fa9b0778815b4d1c83e3d82f18aed611-shard-0",
-        "claimed_at": "2026-11-10T22:46:17.668462+00:00",
-        "lease_expires_at": "2026-11-11T04:46:17.668462+00:00",
-        "run_id": "42904278669"
       }
     },
     "12054": {
@@ -109578,6 +109572,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T14:35:35.121572+00:00",
         "relay_source_id": "30160689"
+      },
+      "claim": {
+        "worker_id": "833799ccb6534ce4a493cd4deb252340-shard-0",
+        "claimed_at": "2026-11-10T22:46:20.615249+00:00",
+        "lease_expires_at": "2026-11-11T04:46:20.615249+00:00",
+        "run_id": "42904278669"
       }
     },
     "32878": {
@@ -123723,7 +123723,7 @@
       "last_plan": {
         "source_id": "33064122",
         "display_name": "Taboo 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:05:40.313745+00:00"
+        "planned_at": "2026-11-10T22:46:20.837780+00:00"
       },
       "previous_target_id": "30985714",
       "prepared": {
@@ -125117,7 +125117,7 @@
       "last_plan": {
         "source_id": "34905544",
         "display_name": "Next Door (Nebenan) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:46:18.226699+00:00"
+        "planned_at": "2026-11-10T22:46:21.157255+00:00"
       }
     },
     "27240": {
@@ -180005,5 +180005,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:46:18.557463+00:00"
+  "updated_at": "2026-11-10T22:46:21.157276+00:00"
 }
