@@ -110254,17 +110254,19 @@
       }
     },
     "34100": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34717603",
+          "target_video_id": "30983836",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:58:22.401668+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34717603",
         "display_name": "The Boys on the River (Kluci na řece) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:56:48.396342+00:00"
-      },
-      "claim": {
-        "worker_id": "dbf1023970c449a89ea41376821b450f-shard-0",
-        "claimed_at": "2026-11-10T14:56:50.497624+00:00",
-        "lease_expires_at": "2026-11-10T20:56:50.497624+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983836",
       "prepared": {
@@ -166907,5 +166909,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:56:59.066802+00:00"
+  "updated_at": "2026-11-10T14:58:22.401685+00:00"
 }
