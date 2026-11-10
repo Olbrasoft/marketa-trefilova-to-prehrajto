@@ -111142,17 +111142,19 @@
       "attempts": []
     },
     "12521": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35068482",
+          "target_video_id": "30983988",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:12:15.760458+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35068482",
         "display_name": "Muž, který stoupl v ceně SD CZ Dabing",
         "planned_at": "2026-11-10T15:11:28.528497+00:00"
-      },
-      "claim": {
-        "worker_id": "a33fec898bd849209671b5de1cd8a3f6-shard-0",
-        "claimed_at": "2026-11-10T15:11:30.768511+00:00",
-        "lease_expires_at": "2026-11-10T21:11:30.768511+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983988",
       "prepared": {
@@ -167614,5 +167616,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:12:12.021702+00:00"
+  "updated_at": "2026-11-10T15:12:15.760479+00:00"
 }
