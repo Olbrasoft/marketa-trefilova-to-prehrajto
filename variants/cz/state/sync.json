@@ -122462,17 +122462,19 @@
       "attempts": []
     },
     "23404": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25407037",
+          "target_video_id": "30985544",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:16:18.404342+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25407037",
         "display_name": "My Life 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:10:44.015909+00:00"
-      },
-      "claim": {
-        "worker_id": "204779d7e54e41eb91c2d9ecab739e74-shard-0",
-        "claimed_at": "2026-11-10T20:10:44.337677+00:00",
-        "lease_expires_at": "2026-11-11T02:10:44.337677+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985544",
       "prepared": {
@@ -177887,5 +177889,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:16:16.651536+00:00"
+  "updated_at": "2026-11-10T20:16:18.404359+00:00"
 }
