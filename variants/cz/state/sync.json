@@ -121431,17 +121431,19 @@
       }
     },
     "30007": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34194238",
+          "target_video_id": "30985468",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:30:01.407335+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34194238",
         "display_name": "Infernal Affairs III 720p CZ Dabing",
         "planned_at": "2026-11-10T19:29:18.715524+00:00"
-      },
-      "claim": {
-        "worker_id": "dd4f68c1a2c34464b05a960a05637adf-shard-0",
-        "claimed_at": "2026-11-10T19:29:19.303443+00:00",
-        "lease_expires_at": "2026-11-11T01:29:19.303443+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985468",
       "prepared": {
@@ -176920,5 +176922,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:29:59.590675+00:00"
+  "updated_at": "2026-11-10T19:30:01.407352+00:00"
 }
