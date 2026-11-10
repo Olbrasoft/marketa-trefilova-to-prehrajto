@@ -109208,13 +109208,6 @@
           "source_id": "34671725",
           "target_video_id": "30983679",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:36:28.908058+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34671725",
-          "target_video_id": "30983679",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:09:59.774000+00:00"
         },
         {
@@ -109223,6 +109216,13 @@
           "target_video_id": "30983679",
           "permanent": false,
           "attempted_at": "2026-11-10T17:40:05.155179+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34671725",
+          "target_video_id": "30983679",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:14:12.195660+00:00"
         }
       ],
       "last_plan": {
@@ -109236,12 +109236,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T14:33:18.077116+00:00",
         "relay_source_id": "34671725"
-      },
-      "claim": {
-        "worker_id": "2b03172f682c48cc98b170f3134bc17b-shard-0",
-        "claimed_at": "2026-11-10T18:14:08.278836+00:00",
-        "lease_expires_at": "2026-11-11T00:14:08.278836+00:00",
-        "run_id": "42864255663"
       }
     },
     "34066": {
@@ -115172,7 +115166,7 @@
       "last_plan": {
         "source_id": "24757259",
         "display_name": "Something's Gotta Give 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:40:04.580345+00:00"
+        "planned_at": "2026-11-10T18:14:11.457447+00:00"
       },
       "previous_target_id": "30984631",
       "prepared": {
@@ -117871,11 +117865,16 @@
       "last_plan": {
         "source_id": "25075952",
         "display_name": "Trust (2010) SD CZ Dabing",
-        "planned_at": "2026-11-10T18:14:06.648675+00:00"
+        "planned_at": "2026-11-10T18:14:11.715846+00:00"
       }
     },
     "22752": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "20753761",
+        "display_name": "Repo Man 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:14:11.872452+00:00"
+      }
     },
     "22727": {
       "attempts": []
@@ -173703,5 +173702,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:14:08.278862+00:00"
+  "updated_at": "2026-11-10T18:14:12.195677+00:00"
 }
