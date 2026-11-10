@@ -98556,17 +98556,19 @@
       "attempts": []
     },
     "10855": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32575140",
+          "reason": "Request failed for https://sdilej.cz/32575140/fantomas-1964-komedie-francie-italie-uhdr.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:25:55.593307+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32575140",
         "display_name": "Fantômas 4K CZ Dabing",
         "planned_at": "2026-11-10T01:25:04.939535+00:00"
-      },
-      "claim": {
-        "worker_id": "31bfbfc8717649b0b7cc6548c9e934ed-shard-0",
-        "claimed_at": "2026-11-10T01:25:05.849028+00:00",
-        "lease_expires_at": "2026-11-10T07:25:05.849028+00:00",
-        "run_id": "42729980423"
       }
     },
     "21176": {
@@ -157765,5 +157767,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:25:53.828889+00:00"
+  "updated_at": "2026-11-10T01:25:55.593332+00:00"
 }
