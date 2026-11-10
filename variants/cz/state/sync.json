@@ -104152,16 +104152,51 @@
       }
     },
     "15667": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32199788",
+          "reason": "Source detail has no authenticated download link; source_id=32199788",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:05.461193+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32199788",
+        "display_name": "Jeʹvida (Je'vida) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:14:02.057145+00:00"
+      }
     },
     "29891": {
       "attempts": []
     },
     "11713": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27667030",
+        "display_name": "Why? (Proč?) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:14:02.227330+00:00"
+      },
+      "claim": {
+        "worker_id": "e97d4402fc8c40cfa474851573779741-shard-0",
+        "claimed_at": "2026-11-10T10:14:02.928982+00:00",
+        "lease_expires_at": "2026-11-10T16:14:02.928982+00:00",
+        "run_id": "42790251611"
+      }
     },
     "30889": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34903952",
+        "display_name": "Die Wiese (Die Wiese: Ein Paradies nebenan) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:14:02.396101+00:00"
+      },
+      "claim": {
+        "worker_id": "87a0105e838d49d68aba085d447b465a-shard-0",
+        "claimed_at": "2026-11-10T10:14:03.087579+00:00",
+        "lease_expires_at": "2026-11-10T16:14:03.087579+00:00",
+        "run_id": "42790251611"
+      }
     },
     "12050": {
       "attempts": []
@@ -162002,5 +162037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:56.861476+00:00"
+  "updated_at": "2026-11-10T10:14:05.461211+00:00"
 }
