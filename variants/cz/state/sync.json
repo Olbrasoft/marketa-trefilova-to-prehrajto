@@ -108190,17 +108190,19 @@
       }
     },
     "28861": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24370736",
+          "target_video_id": "30983666",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:31:05.040523+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24370736",
         "display_name": "Na druhý pohled 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:30:25.342213+00:00"
-      },
-      "claim": {
-        "worker_id": "78f06f185110498f8e44dae804560001-shard-0",
-        "claimed_at": "2026-11-10T14:30:26.070862+00:00",
-        "lease_expires_at": "2026-11-10T20:30:26.070862+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983666",
       "prepared": {
@@ -165218,5 +165220,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:30:57.208614+00:00"
+  "updated_at": "2026-11-10T14:31:05.040539+00:00"
 }
