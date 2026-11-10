@@ -121484,17 +121484,19 @@
       }
     },
     "22415": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12118069",
+          "target_video_id": "30985474",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:31:08.192970+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12118069",
         "display_name": "Magic 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:30:23.935189+00:00"
-      },
-      "claim": {
-        "worker_id": "51ae6d85679c4f6e999409978ed0414c-shard-0",
-        "claimed_at": "2026-11-10T19:30:24.567598+00:00",
-        "lease_expires_at": "2026-11-11T01:30:24.567598+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985474",
       "prepared": {
@@ -176967,5 +176969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:31:06.253340+00:00"
+  "updated_at": "2026-11-10T19:31:08.192987+00:00"
 }
