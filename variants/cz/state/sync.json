@@ -103452,17 +103452,19 @@
       }
     },
     "23486": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30991920",
+          "reason": "Source detail has no authenticated download link; source_id=30991920",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:11:29.172876+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30991920",
         "display_name": "Colonel Chabert 720p CZ Dabing",
         "planned_at": "2026-11-10T10:11:23.781236+00:00"
-      },
-      "claim": {
-        "worker_id": "fdffab0ae6db4243aacccc55eac7d216-shard-0",
-        "claimed_at": "2026-11-10T10:11:24.475909+00:00",
-        "lease_expires_at": "2026-11-10T16:11:24.475909+00:00",
-        "run_id": "42790251611"
       }
     },
     "11001": {
@@ -161543,5 +161545,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:11:27.025114+00:00"
+  "updated_at": "2026-11-10T10:11:29.172898+00:00"
 }
