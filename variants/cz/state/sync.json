@@ -108198,13 +108198,6 @@
           "source_id": "33992687",
           "target_video_id": "30983585",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:50:28.589019+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33992687",
-          "target_video_id": "30983585",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:24:57.263274+00:00"
         },
         {
@@ -108213,12 +108206,19 @@
           "target_video_id": "30983585",
           "permanent": false,
           "attempted_at": "2026-11-10T16:55:17.592994+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33992687",
+          "target_video_id": "30983585",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:25:23.535063+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33992687",
         "display_name": "Night Riders SD CZ Dabing",
-        "planned_at": "2026-11-10T16:55:13.124597+00:00"
+        "planned_at": "2026-11-10T17:25:20.782860+00:00"
       },
       "previous_target_id": "30983585",
       "prepared": {
@@ -115646,10 +115646,21 @@
         "source_id": "31226262",
         "display_name": "No Escape (2015) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:25:16.902633+00:00"
+      },
+      "claim": {
+        "worker_id": "4edb8b92b42046fa91c9ef25170848ac-shard-0",
+        "claimed_at": "2026-11-10T17:25:20.107209+00:00",
+        "lease_expires_at": "2026-11-10T23:25:20.107209+00:00",
+        "run_id": "42823888331"
       }
     },
     "2998": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "15937877",
+        "display_name": "We Own the Night 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:25:21.090034+00:00"
+      }
     },
     "3005": {
       "attempts": []
@@ -171753,5 +171764,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:25:17.153389+00:00"
+  "updated_at": "2026-11-10T17:25:23.535081+00:00"
 }
