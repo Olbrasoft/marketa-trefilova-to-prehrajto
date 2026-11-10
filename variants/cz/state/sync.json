@@ -118286,13 +118286,6 @@
           "source_id": "14091913",
           "target_video_id": "30984870",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:06:22.640149+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14091913",
-          "target_video_id": "30984870",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:41:06.862522+00:00"
         },
         {
@@ -118301,6 +118294,13 @@
           "target_video_id": "30984870",
           "permanent": false,
           "attempted_at": "2026-11-10T21:13:40.302529+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14091913",
+          "target_video_id": "30984870",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:47:18.495007+00:00"
         }
       ],
       "last_plan": {
@@ -118314,12 +118314,6 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-10T17:59:53.843118+00:00",
         "relay_source_id": "14091913"
-      },
-      "claim": {
-        "worker_id": "0915865da20d4b2a9febf531fc89299b-shard-0",
-        "claimed_at": "2026-11-10T21:47:15.284779+00:00",
-        "lease_expires_at": "2026-11-11T03:47:15.284779+00:00",
-        "run_id": "42864255663"
       }
     },
     "22616": {
@@ -119863,7 +119857,7 @@
       "last_plan": {
         "source_id": "25263125",
         "display_name": "Bleed for This 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:13:43.380416+00:00"
+        "planned_at": "2026-11-10T21:47:17.518742+00:00"
       },
       "previous_target_id": "30985003",
       "prepared": {
@@ -119871,6 +119865,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T18:31:12.199895+00:00",
         "relay_source_id": "25263125"
+      },
+      "claim": {
+        "worker_id": "db39c10fe5bb4fd392d3fddfe769ac85-shard-0",
+        "claimed_at": "2026-11-10T21:47:18.107496+00:00",
+        "lease_expires_at": "2026-11-11T03:47:18.107496+00:00",
+        "run_id": "42864255663"
       }
     },
     "23119": {
@@ -124018,7 +124018,7 @@
       "last_plan": {
         "source_id": "31916577",
         "display_name": "He's a Dragon (Он - дракон) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:47:14.920616+00:00"
+        "planned_at": "2026-11-10T21:47:17.779470+00:00"
       }
     },
     "32155": {
@@ -179149,5 +179149,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:47:15.965499+00:00"
+  "updated_at": "2026-11-10T21:47:18.495025+00:00"
 }
