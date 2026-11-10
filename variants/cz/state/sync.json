@@ -104376,13 +104376,27 @@
         "source_id": "22047645",
         "display_name": "The Country Teacher 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:14:43.499637+00:00"
+      },
+      "claim": {
+        "worker_id": "55a040b2fba845d08e20c18e50ecfcfa-shard-0",
+        "claimed_at": "2026-11-10T10:14:45.583577+00:00",
+        "lease_expires_at": "2026-11-10T16:14:45.583577+00:00",
+        "run_id": "42790251611"
       }
     },
     "13876": {
       "attempts": []
     },
     "12587": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34879142",
+          "reason": "Source detail has no authenticated download link; source_id=34879142",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:48.046801+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34879142",
         "display_name": "The Poacher's Foster Daughter or Noble Millionaire (Pytlákova schovanka aneb Šlechetný milionář) 1080p CZ Dabing",
@@ -104390,7 +104404,18 @@
       }
     },
     "2416": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34151190",
+        "display_name": "The Snake Brothers (Kobry a Užovky) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:14:46.068274+00:00"
+      },
+      "claim": {
+        "worker_id": "2a71f14eaf2342ee998c10a47125dcce-shard-0",
+        "claimed_at": "2026-11-10T10:14:46.723552+00:00",
+        "lease_expires_at": "2026-11-10T16:14:46.723552+00:00",
+        "run_id": "42790251611"
+      }
     },
     "12669": {
       "attempts": []
@@ -162168,5 +162193,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:43.669359+00:00"
+  "updated_at": "2026-11-10T10:14:48.046819+00:00"
 }
