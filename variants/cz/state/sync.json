@@ -118508,17 +118508,19 @@
       }
     },
     "2898": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19756021",
+          "target_video_id": "30984979",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:26:18.816432+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19756021",
         "display_name": "Munich: The Edge of War (Munich – The Edge of War) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:25:35.220268+00:00"
-      },
-      "claim": {
-        "worker_id": "b47c2b5d38314b848f1d3fae418d8c85-shard-0",
-        "claimed_at": "2026-11-10T18:25:35.943263+00:00",
-        "lease_expires_at": "2026-11-11T00:25:35.943263+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984979",
       "prepared": {
@@ -174334,5 +174336,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:26:17.123798+00:00"
+  "updated_at": "2026-11-10T18:26:18.816449+00:00"
 }
