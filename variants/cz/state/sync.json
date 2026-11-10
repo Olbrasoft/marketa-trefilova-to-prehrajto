@@ -111083,13 +111083,6 @@
           "source_id": "34733928",
           "target_video_id": "30983808",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:02:35.135798+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34733928",
-          "target_video_id": "30983808",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:32:44.201237+00:00"
         },
         {
@@ -111098,6 +111091,13 @@
           "target_video_id": "30983808",
           "permanent": false,
           "attempted_at": "2026-11-10T19:02:50.988781+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34733928",
+          "target_video_id": "30983808",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:34:56.035397+00:00"
         }
       ],
       "last_plan": {
@@ -116557,7 +116557,7 @@
       "last_plan": {
         "source_id": "30780126",
         "display_name": "The 'Burbs SD CZ Dabing",
-        "planned_at": "2026-11-10T19:02:49.696800+00:00"
+        "planned_at": "2026-11-10T19:34:54.901151+00:00"
       },
       "previous_target_id": "30984749",
       "prepared": {
@@ -116565,6 +116565,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T17:32:00.120150+00:00",
         "relay_source_id": "30780126"
+      },
+      "claim": {
+        "worker_id": "43ab98bb23cf434cbbd7e2baad28dd08-shard-0",
+        "claimed_at": "2026-11-10T19:34:55.532273+00:00",
+        "lease_expires_at": "2026-11-11T01:34:55.532273+00:00",
+        "run_id": "42864255663"
       }
     },
     "11339": {
@@ -121672,7 +121678,7 @@
       "last_plan": {
         "source_id": "32965631",
         "display_name": "The Mustang 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:34:52.886477+00:00"
+        "planned_at": "2026-11-10T19:34:55.163905+00:00"
       }
     },
     "32312": {
@@ -177118,5 +177124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:34:52.886495+00:00"
+  "updated_at": "2026-11-10T19:34:56.035416+00:00"
 }
