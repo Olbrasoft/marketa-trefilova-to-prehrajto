@@ -121698,12 +121698,19 @@
           "target_video_id": "30985430",
           "permanent": false,
           "attempted_at": "2026-11-10T19:50:01.670356+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34076897",
+          "target_video_id": "30985430",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:21:40.372707+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34076897",
         "display_name": "The Gods Must Be Crazy II 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:49:58.649974+00:00"
+        "planned_at": "2026-11-10T20:21:38.476573+00:00"
       },
       "previous_target_id": "30985430",
       "prepared": {
@@ -122606,7 +122613,13 @@
       "last_plan": {
         "source_id": "30317434",
         "display_name": "True Spirit 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:21:34.529698+00:00"
+        "planned_at": "2026-11-10T20:21:38.738198+00:00"
+      },
+      "claim": {
+        "worker_id": "ce8c89c766a74a40aab72fa3d641fe6f-shard-0",
+        "claimed_at": "2026-11-10T20:21:39.379193+00:00",
+        "lease_expires_at": "2026-11-11T02:21:39.379193+00:00",
+        "run_id": "42864255663"
       }
     },
     "34041": {
@@ -122616,7 +122629,12 @@
       "attempts": []
     },
     "21811": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24836709",
+        "display_name": "Harper SD CZ Dabing",
+        "planned_at": "2026-11-10T20:21:38.898971+00:00"
+      }
     },
     "32552": {
       "attempts": []
@@ -177977,5 +177995,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:21:36.710330+00:00"
+  "updated_at": "2026-11-10T20:21:40.372723+00:00"
 }
