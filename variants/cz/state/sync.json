@@ -120674,6 +120674,13 @@
         "claimed_at": "2026-11-10T19:08:07.816887+00:00",
         "lease_expires_at": "2026-11-11T01:08:07.816887+00:00",
         "run_id": "42864255663"
+      },
+      "previous_target_id": "30985401",
+      "prepared": {
+        "target_video_id": "30985401",
+        "size_bytes": 1937170982,
+        "prepared_at": "2026-11-10T19:08:13.927102+00:00",
+        "relay_source_id": "29857790"
       }
     },
     "2808": {
@@ -120682,10 +120689,27 @@
         "source_id": "34650910",
         "display_name": "That Christmas 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:08:11.017584+00:00"
+      },
+      "claim": {
+        "worker_id": "5a5becb4ddb24ac8b924d218af61cb18-shard-0",
+        "claimed_at": "2026-11-10T19:08:12.898115+00:00",
+        "lease_expires_at": "2026-11-11T01:08:12.898115+00:00",
+        "run_id": "42864255663"
       }
     },
     "2927": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "15358349",
+        "display_name": "Reign of the Supermen 1080p CZ Dabing",
+        "planned_at": "2026-11-10T19:08:13.298656+00:00"
+      },
+      "claim": {
+        "worker_id": "b6cc72f2f1db4da9864caef96d5bd768-shard-0",
+        "claimed_at": "2026-11-10T19:08:13.673713+00:00",
+        "lease_expires_at": "2026-11-11T01:08:13.673713+00:00",
+        "run_id": "42864255663"
+      }
     },
     "26901": {
       "attempts": []
@@ -176261,5 +176285,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:08:11.017602+00:00"
+  "updated_at": "2026-11-10T19:08:13.927119+00:00"
 }
