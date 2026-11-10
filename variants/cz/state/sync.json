@@ -109653,17 +109653,19 @@
       }
     },
     "12734": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34470304",
+          "target_video_id": "30983801",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:51:00.287176+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34470304",
         "display_name": "Pension pro svobodné pány SD CZ Dabing",
         "planned_at": "2026-11-10T14:49:53.201682+00:00"
-      },
-      "claim": {
-        "worker_id": "6b399c8a2889411189cbfcaee5ea4c11-shard-0",
-        "claimed_at": "2026-11-10T14:49:53.600105+00:00",
-        "lease_expires_at": "2026-11-10T20:49:53.600105+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983801",
       "prepared": {
@@ -109727,7 +109729,18 @@
       "attempts": []
     },
     "28778": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34952768",
+        "display_name": "Hotel (Hôtel) (2013) 720p CZ Dabing",
+        "planned_at": "2026-11-10T14:50:57.950508+00:00"
+      },
+      "claim": {
+        "worker_id": "e253237419984cc099106217c9cd9bc3-shard-0",
+        "claimed_at": "2026-11-10T14:50:58.339953+00:00",
+        "lease_expires_at": "2026-11-10T20:50:58.339953+00:00",
+        "run_id": "42823888331"
+      }
     },
     "13010": {
       "attempts": []
@@ -166407,5 +166420,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:50:54.939790+00:00"
+  "updated_at": "2026-11-10T14:51:00.287210+00:00"
 }
