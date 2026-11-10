@@ -109289,17 +109289,19 @@
       }
     },
     "12876": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30618439",
+          "target_video_id": "30983779",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:47:09.478782+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30618439",
         "display_name": "Men Don't Age (Muži nestárnou) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:46:28.666612+00:00"
-      },
-      "claim": {
-        "worker_id": "9c0956da719f433b8a8c97cd9e96b199-shard-0",
-        "claimed_at": "2026-11-10T14:46:29.056442+00:00",
-        "lease_expires_at": "2026-11-10T20:46:29.056442+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983779",
       "prepared": {
@@ -166101,5 +166103,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:46:43.705902+00:00"
+  "updated_at": "2026-11-10T14:47:09.478800+00:00"
 }
