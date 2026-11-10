@@ -27339,7 +27339,7 @@
       "last_plan": {
         "source_id": "29719575",
         "display_name": "Inside Out 2 4K CZ Dabing",
-        "planned_at": "2026-11-10T19:57:19.907884+00:00"
+        "planned_at": "2026-11-10T20:31:02.473849+00:00"
       },
       "previous_target_id": "30714314",
       "prepared": {
@@ -27347,6 +27347,12 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-11-02T02:46:50.263035+00:00",
         "relay_source_id": "29719575"
+      },
+      "claim": {
+        "worker_id": "296466c70510426297cc22bf0e6d2d98-shard-0",
+        "claimed_at": "2026-11-10T20:31:03.071503+00:00",
+        "lease_expires_at": "2026-11-11T02:31:03.071503+00:00",
+        "run_id": "42864255663"
       }
     },
     "945": {
@@ -50609,6 +50615,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-04T00:49:34.429567+00:00",
         "relay_source_id": "32030746"
+      },
+      "claim": {
+        "worker_id": "d1879879da76403ca10126e8d943d55e-shard-0",
+        "claimed_at": "2026-11-10T20:31:02.281707+00:00",
+        "lease_expires_at": "2026-11-11T02:31:02.281707+00:00",
+        "run_id": "42864255663"
       }
     },
     "1708": {
@@ -122714,17 +122726,19 @@
       "attempts": []
     },
     "21882": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34843024",
+          "target_video_id": "30985573",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:31:03.617928+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34843024",
         "display_name": "The War Wagon 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:28:54.376935+00:00"
-      },
-      "claim": {
-        "worker_id": "24e6f3e1247545a9b23c5c253170968f-shard-0",
-        "claimed_at": "2026-11-10T20:28:55.025065+00:00",
-        "lease_expires_at": "2026-11-11T02:28:55.025065+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985573",
       "prepared": {
@@ -122739,7 +122753,7 @@
       "last_plan": {
         "source_id": "34710602",
         "display_name": "The Golden Voyage of Sinbad 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:31:00.720124+00:00"
+        "planned_at": "2026-11-10T20:31:02.738607+00:00"
       }
     },
     "14376": {
@@ -178086,5 +178100,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:31:00.720142+00:00"
+  "updated_at": "2026-11-10T20:31:03.617945+00:00"
 }
