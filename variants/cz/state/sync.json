@@ -83530,13 +83530,6 @@
           "source_id": "20559777",
           "target_video_id": "30916027",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:33:08.321327+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20559777",
-          "target_video_id": "30916027",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:03:36.851038+00:00"
         },
         {
@@ -83545,6 +83538,13 @@
           "target_video_id": "30916027",
           "permanent": false,
           "attempted_at": "2026-11-10T21:38:26.023445+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20559777",
+          "target_video_id": "30916027",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:14:53.629346+00:00"
         }
       ],
       "last_plan": {
@@ -120896,7 +120896,7 @@
       "last_plan": {
         "source_id": "28731473",
         "display_name": "DogMan (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-10T21:38:24.852208+00:00"
+        "planned_at": "2026-11-10T22:14:52.307403+00:00"
       },
       "previous_target_id": "30985064",
       "prepared": {
@@ -120904,6 +120904,12 @@
         "size_bytes": 20800000000,
         "prepared_at": "2026-11-10T18:50:48.316510+00:00",
         "relay_source_id": "28731473"
+      },
+      "claim": {
+        "worker_id": "c244a6158e964f1b8d30a294950c235a-shard-0",
+        "claimed_at": "2026-11-10T22:14:53.026774+00:00",
+        "lease_expires_at": "2026-11-11T04:14:53.026774+00:00",
+        "run_id": "42904278669"
       }
     },
     "13240": {
@@ -124571,7 +124577,7 @@
       "last_plan": {
         "source_id": "34824290",
         "display_name": "Borsalino 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:14:49.812758+00:00"
+        "planned_at": "2026-11-10T22:14:52.616562+00:00"
       }
     },
     "19244": {
@@ -179581,5 +179587,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:14:50.201465+00:00"
+  "updated_at": "2026-11-10T22:14:53.629365+00:00"
 }
