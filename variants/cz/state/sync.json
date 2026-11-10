@@ -104673,17 +104673,19 @@
       "attempts": []
     },
     "33542": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32036426",
+          "reason": "Source detail has no authenticated download link; source_id=32036426",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:48.806380+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32036426",
         "display_name": "Nobody Will Laugh (Nikdo se nebude smát) SD CZ Dabing",
         "planned_at": "2026-11-10T10:15:44.448048+00:00"
-      },
-      "claim": {
-        "worker_id": "d2943f489d1f4e90aa254b08a7c71718-shard-0",
-        "claimed_at": "2026-11-10T10:15:45.005055+00:00",
-        "lease_expires_at": "2026-11-10T16:15:45.005055+00:00",
-        "run_id": "42790251611"
       }
     },
     "32671": {
@@ -162388,5 +162390,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:47.199223+00:00"
+  "updated_at": "2026-11-10T10:15:48.806398+00:00"
 }
