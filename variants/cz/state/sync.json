@@ -100407,7 +100407,7 @@
       "last_plan": {
         "source_id": "24337653",
         "display_name": "The Charterhouse of Parma (La Chartreuse de Parme) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T05:55:00.517409+00:00"
+        "planned_at": "2026-11-10T06:45:53.219858+00:00"
       },
       "previous_target_id": "30965817",
       "prepared": {
@@ -100415,6 +100415,12 @@
         "size_bytes": 4149633567,
         "prepared_at": "2026-11-10T05:55:05.371701+00:00",
         "relay_source_id": "24337653"
+      },
+      "claim": {
+        "worker_id": "32ad7731ce7d43dcb14f9268440b3541-shard-0",
+        "claimed_at": "2026-11-10T06:45:54.003507+00:00",
+        "lease_expires_at": "2026-11-10T12:45:54.003507+00:00",
+        "run_id": "42761712557"
       }
     },
     "32419": {
@@ -100430,17 +100436,23 @@
           "attempted_at": "2026-11-10T06:04:09.497350+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30850314",
-        "display_name": "A Whole Life (Ein ganzes Leben) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:45:50.550549+00:00"
-      },
       "previous_target_id": "30965861",
-      "prepared": {
+      "upload": {
         "target_video_id": "30965861",
-        "size_bytes": 2439016386,
-        "prepared_at": "2026-11-10T05:56:07.654000+00:00",
-        "relay_source_id": "30850314"
+        "display_name": "A Whole Life (Ein ganzes Leben) 1080p CZ Dabing",
+        "source_id": "30850314",
+        "source_url": "https://sdilej.cz/30850314/ein.ganzes.leben.cely.zivot.2023.eridanus.hdtv.dab.cz.ger.mkv",
+        "source_filename": "Ein.ganzes.Leben.Cely.zivot.2023.Eridanus.HDTV.dab.CZ.Ger.mkv",
+        "size_bytes": 2400000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9235852360725403,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/a-whole-life-ein-ganzes-leben-1080p-cz-dabing-mkv/0813f5afb3105f80",
+        "uploaded_at": "2026-11-10T06:45:54.468699+00:00"
       }
     },
     "29166": {
@@ -100727,7 +100739,7 @@
       "last_plan": {
         "source_id": "34968104",
         "display_name": "Habermann (Habermannův mlýn) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:45:50.799277+00:00"
+        "planned_at": "2026-11-10T06:45:53.455377+00:00"
       }
     },
     "35562": {
@@ -159531,5 +159543,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:45:50.967678+00:00"
+  "updated_at": "2026-11-10T06:45:54.468716+00:00"
 }
