@@ -117617,13 +117617,6 @@
           "source_id": "22310180",
           "target_video_id": "30984848",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:52:11.785427+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22310180",
-          "target_video_id": "30984848",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:24:45.364393+00:00"
         },
         {
@@ -117632,12 +117625,19 @@
           "target_video_id": "30984848",
           "permanent": false,
           "attempted_at": "2026-11-10T19:57:28.023511+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22310180",
+          "target_video_id": "30984848",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:31:13.782742+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22310180",
         "display_name": "The Boxtrolls 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:57:24.307810+00:00"
+        "planned_at": "2026-11-10T20:31:10.127199+00:00"
       },
       "previous_target_id": "30984848",
       "prepared": {
@@ -122741,7 +122741,13 @@
       "last_plan": {
         "source_id": "34710602",
         "display_name": "The Golden Voyage of Sinbad 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:31:02.738607+00:00"
+        "planned_at": "2026-11-10T20:31:10.390502+00:00"
+      },
+      "claim": {
+        "worker_id": "2db6b352641e4e348f96f007b45e54c2-shard-0",
+        "claimed_at": "2026-11-10T20:31:11.468331+00:00",
+        "lease_expires_at": "2026-11-11T02:31:11.468331+00:00",
+        "run_id": "42864255663"
       }
     },
     "14376": {
@@ -122754,13 +122760,29 @@
       "attempts": []
     },
     "11557": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34674170",
+        "display_name": "Asterix Versus Caesar (Astérix et la Surprise de César) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T20:31:10.634276+00:00"
+      },
+      "claim": {
+        "worker_id": "a1fa45c11ccc4dbf9d8f35f1b8e1fd78-shard-0",
+        "claimed_at": "2026-11-10T20:31:11.624418+00:00",
+        "lease_expires_at": "2026-11-11T02:31:11.624418+00:00",
+        "run_id": "42864255663"
+      }
     },
     "24105": {
       "attempts": []
     },
     "21348": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34130726",
+        "display_name": "Ivanhoe 1080p CZ Dabing",
+        "planned_at": "2026-11-10T20:31:10.949958+00:00"
+      }
     },
     "21528": {
       "attempts": []
@@ -178088,5 +178110,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:31:06.876983+00:00"
+  "updated_at": "2026-11-10T20:31:13.782761+00:00"
 }
