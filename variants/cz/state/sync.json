@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "253d7d653d384341b5f19e69ad9f3071-shard-0",
+        "claimed_at": "2026-11-10T20:48:11.336067+00:00",
+        "lease_expires_at": "2026-11-11T02:48:11.336067+00:00",
+        "run_id": "42864255663"
       }
     },
     "29922": {
@@ -111723,13 +111729,6 @@
           "source_id": "33810878",
           "target_video_id": "30983848",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:13:56.447382+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33810878",
-          "target_video_id": "30983848",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:46:14.522484+00:00"
         },
         {
@@ -111738,12 +111737,19 @@
           "target_video_id": "30983848",
           "permanent": false,
           "attempted_at": "2026-11-10T20:18:04.099284+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33810878",
+          "target_video_id": "30983848",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:48:14.366445+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33810878",
         "display_name": "Strach má velké oci (Strach má velké oči) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:17:56.822004+00:00"
+        "planned_at": "2026-11-10T20:48:11.963051+00:00"
       },
       "previous_target_id": "30983848",
       "prepared": {
@@ -123055,7 +123061,7 @@
       "last_plan": {
         "source_id": "26801976",
         "display_name": "Emily 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:48:08.371263+00:00"
+        "planned_at": "2026-11-10T20:48:12.227053+00:00"
       }
     },
     "29773": {
@@ -178345,5 +178351,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:48:08.583659+00:00"
+  "updated_at": "2026-11-10T20:48:14.366464+00:00"
 }
