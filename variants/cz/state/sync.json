@@ -112323,17 +112323,19 @@
       }
     },
     "2984": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "16147077",
+          "target_video_id": "30984104",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:28:10.782508+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "16147077",
         "display_name": "Panic Room 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:27:29.263044+00:00"
-      },
-      "claim": {
-        "worker_id": "86aa5eb5ef844680ac82b81b5ba34d57-shard-0",
-        "claimed_at": "2026-11-10T15:27:29.648595+00:00",
-        "lease_expires_at": "2026-11-10T21:27:29.648595+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984104",
       "prepared": {
@@ -168737,5 +168739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:28:06.595173+00:00"
+  "updated_at": "2026-11-10T15:28:10.782524+00:00"
 }
