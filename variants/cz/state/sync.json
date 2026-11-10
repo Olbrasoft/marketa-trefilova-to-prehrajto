@@ -121454,7 +121454,7 @@
       "last_plan": {
         "source_id": "35010063",
         "display_name": "Monos 4K CZ Dabing",
-        "planned_at": "2026-11-10T21:18:18.271409+00:00"
+        "planned_at": "2026-11-10T21:52:04.720400+00:00"
       },
       "previous_target_id": "30985407",
       "prepared": {
@@ -121462,6 +121462,12 @@
         "size_bytes": 22000000000,
         "prepared_at": "2026-11-10T19:09:15.571400+00:00",
         "relay_source_id": "35010063"
+      },
+      "claim": {
+        "worker_id": "bb9f322de99f491dafdd215c630ea716-shard-0",
+        "claimed_at": "2026-11-10T21:52:05.323987+00:00",
+        "lease_expires_at": "2026-11-11T03:52:05.323987+00:00",
+        "run_id": "42864255663"
       }
     },
     "35405": {
@@ -121469,13 +121475,6 @@
     },
     "22839": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "29835020",
-          "target_video_id": "30985406",
-          "permanent": false,
-          "attempted_at": "2026-11-10T20:10:38.957388+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "29835020",
@@ -121489,6 +121488,13 @@
           "target_video_id": "30985406",
           "permanent": false,
           "attempted_at": "2026-11-10T21:18:18.787435+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29835020",
+          "target_video_id": "30985406",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:52:05.594508+00:00"
         }
       ],
       "last_plan": {
@@ -121502,12 +121508,6 @@
         "size_bytes": 10700000000,
         "prepared_at": "2026-11-10T19:09:14.207602+00:00",
         "relay_source_id": "29835020"
-      },
-      "claim": {
-        "worker_id": "b5c3fc5cb11147f2b7c1ca1fde4ac760-shard-0",
-        "claimed_at": "2026-11-10T21:52:01.793260+00:00",
-        "lease_expires_at": "2026-11-11T03:52:01.793260+00:00",
-        "run_id": "42864255663"
       }
     },
     "10791": {
@@ -124164,7 +124164,7 @@
       "last_plan": {
         "source_id": "34376822",
         "display_name": "Somewhere in Queens 720p CZ Dabing",
-        "planned_at": "2026-11-10T21:52:01.420948+00:00"
+        "planned_at": "2026-11-10T21:52:05.002342+00:00"
       }
     },
     "29585": {
@@ -179256,5 +179256,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:52:03.138133+00:00"
+  "updated_at": "2026-11-10T21:52:05.594526+00:00"
 }
