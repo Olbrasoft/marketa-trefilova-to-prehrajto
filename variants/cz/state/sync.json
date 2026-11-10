@@ -98668,17 +98668,19 @@
       "attempts": []
     },
     "22712": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33767379",
+          "target_video_id": "30958440",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:35:20.470572+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767379",
         "display_name": "To Be or Not to Be (1983) 1080p CZ Dabing",
         "planned_at": "2026-11-10T01:30:25.310093+00:00"
-      },
-      "claim": {
-        "worker_id": "b8c2a97a71994fd1bf8b8b832b44f87b-shard-0",
-        "claimed_at": "2026-11-10T01:30:25.686667+00:00",
-        "lease_expires_at": "2026-11-10T07:30:25.686667+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958440",
       "prepared": {
@@ -157855,5 +157857,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:30:31.530172+00:00"
+  "updated_at": "2026-11-10T01:35:20.470588+00:00"
 }
