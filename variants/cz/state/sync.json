@@ -102317,7 +102317,20 @@
       "attempts": []
     },
     "12957": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32329759",
+          "reason": "Request failed for https://sdilej.cz/32329759/krajinka-2000-cz-dab.mkv (HTTP 522)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:28:41.898704+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32329759",
+        "display_name": "Landscape (Krajinka) SD CZ Dabing",
+        "planned_at": "2026-11-10T09:28:20.672756+00:00"
+      }
     },
     "12357": {
       "attempts": []
@@ -160745,5 +160758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:28:14.186238+00:00"
+  "updated_at": "2026-11-10T09:28:41.898721+00:00"
 }
