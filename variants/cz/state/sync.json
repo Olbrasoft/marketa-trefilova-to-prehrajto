@@ -125081,17 +125081,19 @@
       "attempts": []
     },
     "24090": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20219827",
+          "target_video_id": "30985951",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:46:13.678112+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20219827",
         "display_name": "Purgatory (1999) SD CZ Dabing",
         "planned_at": "2026-11-10T22:45:28.200209+00:00"
-      },
-      "claim": {
-        "worker_id": "79b94d2874634dce9bedd73b3277b4b8-shard-0",
-        "claimed_at": "2026-11-10T22:45:30.559738+00:00",
-        "lease_expires_at": "2026-11-11T04:45:30.559738+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30985951",
       "prepared": {
@@ -179997,5 +179999,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:46:11.962431+00:00"
+  "updated_at": "2026-11-10T22:46:13.678132+00:00"
 }
