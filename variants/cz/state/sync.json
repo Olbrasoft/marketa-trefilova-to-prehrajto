@@ -106969,13 +106969,6 @@
           "source_id": "34717497",
           "target_video_id": "30983143",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:18:30.155422+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34717497",
-          "target_video_id": "30983143",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:52:18.213384+00:00"
         },
         {
@@ -106984,6 +106977,13 @@
           "target_video_id": "30983143",
           "permanent": false,
           "attempted_at": "2026-11-10T22:34:09.937512+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34717497",
+          "target_video_id": "30983143",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:16:09.344500+00:00"
         }
       ],
       "last_plan": {
@@ -106997,12 +106997,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T13:53:23.773140+00:00",
         "relay_source_id": "34717497"
-      },
-      "claim": {
-        "worker_id": "b531794d691c440f87129d877a963bba-shard-0",
-        "claimed_at": "2026-11-10T23:16:05.675075+00:00",
-        "lease_expires_at": "2026-11-11T05:16:05.675075+00:00",
-        "run_id": "42904278669"
       }
     },
     "35741": {
@@ -107041,7 +107035,7 @@
       "last_plan": {
         "source_id": "34720969",
         "display_name": "Wild Prague (Planeta Praha) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:34:12.192046+00:00"
+        "planned_at": "2026-11-10T23:16:08.258615+00:00"
       },
       "previous_target_id": "30983144",
       "prepared": {
@@ -107049,6 +107043,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T13:53:26.625682+00:00",
         "relay_source_id": "34720969"
+      },
+      "claim": {
+        "worker_id": "2ea53cb56f2b4497a7b995582c538fa1-shard-0",
+        "claimed_at": "2026-11-10T23:16:09.152158+00:00",
+        "lease_expires_at": "2026-11-11T05:16:09.152158+00:00",
+        "run_id": "42904278669"
       }
     },
     "33348": {
@@ -113295,6 +113295,12 @@
         "size_bytes": 11100000000,
         "prepared_at": "2026-11-10T15:24:06.705912+00:00",
         "relay_source_id": "33761714"
+      },
+      "claim": {
+        "worker_id": "976d0c1f4e304f2a86ef4e06cb06ed78-shard-0",
+        "claimed_at": "2026-11-10T23:16:08.031794+00:00",
+        "lease_expires_at": "2026-11-11T05:16:08.031794+00:00",
+        "run_id": "42904278669"
       }
     },
     "2960": {
@@ -125406,7 +125412,7 @@
       "last_plan": {
         "source_id": "12259425",
         "display_name": "Man Without a Star SD CZ Dabing",
-        "planned_at": "2026-11-10T23:16:06.214996+00:00"
+        "planned_at": "2026-11-10T23:16:08.656566+00:00"
       }
     },
     "2815": {
@@ -180276,5 +180282,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:16:06.215015+00:00"
+  "updated_at": "2026-11-10T23:16:09.344520+00:00"
 }
