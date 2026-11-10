@@ -109057,17 +109057,19 @@
       "attempts": []
     },
     "34795": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34661767",
+          "target_video_id": "30983751",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:44:04.281780+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34661767",
         "display_name": "Preludium 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:43:22.958131+00:00"
-      },
-      "claim": {
-        "worker_id": "73ae4117cdbf4b9cae655418ca404d45-shard-0",
-        "claimed_at": "2026-11-10T14:43:23.571525+00:00",
-        "lease_expires_at": "2026-11-10T20:43:23.571525+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983751",
       "prepared": {
@@ -109078,7 +109080,18 @@
       }
     },
     "16360": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30715852",
+        "display_name": "War Correspondent (Válečný zpravodaj) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:43:59.954605+00:00"
+      },
+      "claim": {
+        "worker_id": "946e9bab2d9b42adaf121f1336371063-shard-0",
+        "claimed_at": "2026-11-10T14:44:00.485172+00:00",
+        "lease_expires_at": "2026-11-10T20:44:00.485172+00:00",
+        "run_id": "42823888331"
+      }
     },
     "11774": {
       "attempts": []
@@ -165869,5 +165882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:43:52.886270+00:00"
+  "updated_at": "2026-11-10T14:44:04.281797+00:00"
 }
