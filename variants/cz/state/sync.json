@@ -111157,13 +111157,6 @@
           "source_id": "34716815",
           "target_video_id": "30983811",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:34:22.384762+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34716815",
-          "target_video_id": "30983811",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:06:22.761131+00:00"
         },
         {
@@ -111172,6 +111165,13 @@
           "target_video_id": "30983811",
           "permanent": false,
           "attempted_at": "2026-11-10T19:37:28.160597+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716815",
+          "target_video_id": "30983811",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:08:14.310482+00:00"
         }
       ],
       "last_plan": {
@@ -120067,7 +120067,7 @@
       "last_plan": {
         "source_id": "26917489",
         "display_name": "Poison (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:37:29.631224+00:00"
+        "planned_at": "2026-11-10T20:08:12.909094+00:00"
       },
       "previous_target_id": "30985015",
       "prepared": {
@@ -120075,6 +120075,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T18:33:48.985609+00:00",
         "relay_source_id": "26917489"
+      },
+      "claim": {
+        "worker_id": "396c31a5ec1045319f9658c82b30892b-shard-0",
+        "claimed_at": "2026-11-10T20:08:13.669811+00:00",
+        "lease_expires_at": "2026-11-11T02:08:13.669811+00:00",
+        "run_id": "42864255663"
       }
     },
     "36717": {
@@ -122337,7 +122343,7 @@
       "last_plan": {
         "source_id": "22752658",
         "display_name": "Flashbacks of a Fool 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:08:10.950763+00:00"
+        "planned_at": "2026-11-10T20:08:13.171708+00:00"
       }
     },
     "26020": {
@@ -177732,5 +177738,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:08:10.950783+00:00"
+  "updated_at": "2026-11-10T20:08:14.310502+00:00"
 }
