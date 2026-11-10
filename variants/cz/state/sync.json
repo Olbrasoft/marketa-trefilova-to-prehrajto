@@ -118209,13 +118209,6 @@
           "source_id": "26235983",
           "target_video_id": "30984868",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:05:59.322121+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26235983",
-          "target_video_id": "30984868",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:40:30.111428+00:00"
         },
         {
@@ -118224,12 +118217,19 @@
           "target_video_id": "30984868",
           "permanent": false,
           "attempted_at": "2026-11-10T21:13:01.354065+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26235983",
+          "target_video_id": "30984868",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:46:27.909927+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26235983",
         "display_name": "Man Up 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:12:58.351775+00:00"
+        "planned_at": "2026-11-10T21:46:24.823852+00:00"
       },
       "previous_target_id": "30984868",
       "prepared": {
@@ -123959,7 +123959,13 @@
       "last_plan": {
         "source_id": "33746084",
         "display_name": "Let It Ride 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:46:20.368748+00:00"
+        "planned_at": "2026-11-10T21:46:25.084442+00:00"
+      },
+      "claim": {
+        "worker_id": "2f12599f32034c45bb1a7a0f297c042f-shard-0",
+        "claimed_at": "2026-11-10T21:46:25.737437+00:00",
+        "lease_expires_at": "2026-11-11T03:46:25.737437+00:00",
+        "run_id": "42864255663"
       }
     },
     "16382": {
@@ -123967,7 +123973,7 @@
       "last_plan": {
         "source_id": "14593132",
         "display_name": "The Suspect (용의자) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:46:20.522784+00:00"
+        "planned_at": "2026-11-10T21:46:25.243937+00:00"
       }
     },
     "3019": {
@@ -179101,5 +179107,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:46:22.776500+00:00"
+  "updated_at": "2026-11-10T21:46:27.909946+00:00"
 }
