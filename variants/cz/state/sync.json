@@ -21654,13 +21654,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:16:44.585268+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:46:53.738308+00:00"
         },
         {
@@ -21669,6 +21662,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-10T18:18:02.909439+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:48:52.894696+00:00"
         }
       ],
       "last_plan": {
@@ -109589,7 +109589,7 @@
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí (Kam slunce nechodí...) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:18:02.043515+00:00"
+        "planned_at": "2026-11-10T18:48:51.470199+00:00"
       },
       "previous_target_id": "30983694",
       "prepared": {
@@ -109597,6 +109597,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T14:36:10.697920+00:00",
         "relay_source_id": "33708286"
+      },
+      "claim": {
+        "worker_id": "ad78b9d72c1c4274b8edc8f7c84bad97-shard-0",
+        "claimed_at": "2026-11-10T18:48:52.089934+00:00",
+        "lease_expires_at": "2026-11-11T00:48:52.089934+00:00",
+        "run_id": "42864255663"
       }
     },
     "35753": {
@@ -119916,7 +119922,7 @@
       "last_plan": {
         "source_id": "28731473",
         "display_name": "DogMan (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:48:49.582930+00:00"
+        "planned_at": "2026-11-10T18:48:51.728187+00:00"
       }
     },
     "13240": {
@@ -175549,5 +175555,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:48:49.582948+00:00"
+  "updated_at": "2026-11-10T18:48:52.894715+00:00"
 }
