@@ -100568,13 +100568,6 @@
           "source_id": "11696652",
           "target_video_id": "30966458",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:46:11.536090+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11696652",
-          "target_video_id": "30966458",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:20:02.552247+00:00"
         },
         {
@@ -100583,12 +100576,19 @@
           "target_video_id": "30966458",
           "permanent": false,
           "attempted_at": "2026-11-10T16:50:57.414386+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11696652",
+          "target_video_id": "30966458",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:21:10.143421+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11696652",
         "display_name": "Farewell (L'Affaire Farewell) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:50:53.454052+00:00"
+        "planned_at": "2026-11-10T17:21:07.751273+00:00"
       },
       "previous_target_id": "30966458",
       "prepared": {
@@ -115507,11 +115507,22 @@
       "last_plan": {
         "source_id": "30307507",
         "display_name": "Rebel Ridge 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:21:03.432843+00:00"
+        "planned_at": "2026-11-10T17:21:08.052865+00:00"
+      },
+      "claim": {
+        "worker_id": "c95a7dbd9ee9406ab6c619f21c384758-shard-0",
+        "claimed_at": "2026-11-10T17:21:08.770535+00:00",
+        "lease_expires_at": "2026-11-10T23:21:08.770535+00:00",
+        "run_id": "42823888331"
       }
     },
     "23336": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33767290",
+        "display_name": "White Men Can't Jump 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:21:08.224938+00:00"
+      }
     },
     "2786": {
       "attempts": []
@@ -171633,5 +171644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:21:05.321939+00:00"
+  "updated_at": "2026-11-10T17:21:10.143440+00:00"
 }
