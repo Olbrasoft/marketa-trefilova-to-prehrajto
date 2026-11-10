@@ -103401,16 +103401,51 @@
       "attempts": []
     },
     "11318": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "16966404",
+          "reason": "Source detail has no authenticated download link; source_id=16966404",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:11:17.210850+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "16966404",
+        "display_name": "The Golden Eels (Zlatí úhoři) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:11:14.016977+00:00"
+      }
     },
     "31028": {
       "attempts": []
     },
     "15083": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26699937",
+        "display_name": "Kawasaki's Rose (Kawasakiho růže) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:11:14.181048+00:00"
+      },
+      "claim": {
+        "worker_id": "93948132a6a14666a52886bdc4d0b9d3-shard-0",
+        "claimed_at": "2026-11-10T10:11:14.875286+00:00",
+        "lease_expires_at": "2026-11-10T16:11:14.875286+00:00",
+        "run_id": "42790251611"
+      }
     },
     "11697": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26123597",
+        "display_name": "How Poets Are Enjoying Their Lives (Jak básníkům chutná život) 4K CZ Dabing",
+        "planned_at": "2026-11-10T10:11:14.340652+00:00"
+      },
+      "claim": {
+        "worker_id": "c60a75397d1144d8bbd6817763bfbfeb-shard-0",
+        "claimed_at": "2026-11-10T10:11:15.033199+00:00",
+        "lease_expires_at": "2026-11-10T16:11:15.033199+00:00",
+        "run_id": "42790251611"
+      }
     },
     "23486": {
       "attempts": []
@@ -161469,5 +161504,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:11:09.071048+00:00"
+  "updated_at": "2026-11-10T10:11:17.210867+00:00"
 }
