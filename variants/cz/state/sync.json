@@ -105815,17 +105815,19 @@
       "attempts": []
     },
     "32315": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29815287",
+          "target_video_id": "30979381",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:25:14.930828+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29815287",
         "display_name": "Shogun's Shadow (将軍家光の乱心 激突) SD CZ Dabing",
         "planned_at": "2026-11-10T12:20:36.176158+00:00"
-      },
-      "claim": {
-        "worker_id": "34ddba2fbf7447b5acfe820830586f1b-shard-0",
-        "claimed_at": "2026-11-10T12:20:38.504274+00:00",
-        "lease_expires_at": "2026-11-10T18:20:38.504274+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30979381",
       "prepared": {
@@ -163289,5 +163291,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:25:12.913790+00:00"
+  "updated_at": "2026-11-10T12:25:14.930879+00:00"
 }
