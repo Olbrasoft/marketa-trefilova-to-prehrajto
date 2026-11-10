@@ -120415,17 +120415,19 @@
       }
     },
     "27476": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34874346",
+          "target_video_id": "30985387",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:03:53.595490+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34874346",
         "display_name": "Night Train to Lisbon SD CZ Dabing",
         "planned_at": "2026-11-10T19:01:46.202896+00:00"
-      },
-      "claim": {
-        "worker_id": "22f8d3c2773449b1aaa87d3255828a4f-shard-0",
-        "claimed_at": "2026-11-10T19:01:46.933904+00:00",
-        "lease_expires_at": "2026-11-11T01:01:46.933904+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985387",
       "prepared": {
@@ -176088,5 +176090,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:03:44.603599+00:00"
+  "updated_at": "2026-11-10T19:03:53.595506+00:00"
 }
