@@ -100496,17 +100496,24 @@
           "target_video_id": "30966007",
           "permanent": false,
           "attempted_at": "2026-11-10T06:10:07.274615+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35139959",
+          "target_video_id": "30966007",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:46:03.337806+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35139959",
         "display_name": "Love at Second Sight (Mon Inconnue) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T05:59:30.156105+00:00"
+        "planned_at": "2026-11-10T06:46:00.974232+00:00"
       },
       "previous_target_id": "30966007",
       "prepared": {
         "target_video_id": "30966007",
-        "size_bytes": 2662212650,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T05:59:34.591713+00:00",
         "relay_source_id": "35139959"
       }
@@ -100739,7 +100746,13 @@
       "last_plan": {
         "source_id": "34968104",
         "display_name": "Habermann (Habermannův mlýn) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:45:53.455377+00:00"
+        "planned_at": "2026-11-10T06:46:01.226045+00:00"
+      },
+      "claim": {
+        "worker_id": "92374508fcc54ecf831e86a177860aae-shard-0",
+        "claimed_at": "2026-11-10T06:46:01.932336+00:00",
+        "lease_expires_at": "2026-11-10T12:46:01.932336+00:00",
+        "run_id": "42761712557"
       }
     },
     "35562": {
@@ -100755,7 +100768,12 @@
       "attempts": []
     },
     "29298": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32103746",
+        "display_name": "Crown for Christmas SD CZ Dabing",
+        "planned_at": "2026-11-10T06:46:01.360547+00:00"
+      }
     },
     "22139": {
       "attempts": []
@@ -159543,5 +159561,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:45:56.055513+00:00"
+  "updated_at": "2026-11-10T06:46:03.337825+00:00"
 }
