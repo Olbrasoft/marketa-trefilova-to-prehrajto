@@ -103366,17 +103366,19 @@
       "attempts": []
     },
     "21740": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28999949",
+          "reason": "Source detail has no authenticated download link; source_id=28999949",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:11:07.401117+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28999949",
         "display_name": "Weekend at Dunkirk 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:11:01.264557+00:00"
-      },
-      "claim": {
-        "worker_id": "251dd957e0f94480ba32b9b224fda2ed-shard-0",
-        "claimed_at": "2026-11-10T10:11:03.401000+00:00",
-        "lease_expires_at": "2026-11-10T16:11:03.401000+00:00",
-        "run_id": "42790251611"
       }
     },
     "24026": {
@@ -161465,5 +161467,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:11:05.759456+00:00"
+  "updated_at": "2026-11-10T10:11:07.401138+00:00"
 }
