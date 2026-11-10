@@ -119711,7 +119711,7 @@
       "last_plan": {
         "source_id": "34674871",
         "display_name": "DuckTales the Movie: Treasure of the Lost Lamp (DuckTales: The Movie - Treasure of the Lost Lamp) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:33:31.888086+00:00"
+        "planned_at": "2026-11-10T19:06:01.855072+00:00"
       },
       "previous_target_id": "30985012",
       "prepared": {
@@ -120488,17 +120488,19 @@
       }
     },
     "2915": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18059712",
+          "target_video_id": "30985391",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:06:07.694007+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18059712",
         "display_name": "Worth 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:03:39.073120+00:00"
-      },
-      "claim": {
-        "worker_id": "a7ea76b5483543e684b82cca815aa2d7-shard-0",
-        "claimed_at": "2026-11-10T19:03:39.399765+00:00",
-        "lease_expires_at": "2026-11-11T01:03:39.399765+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985391",
       "prepared": {
@@ -120532,7 +120534,12 @@
       }
     },
     "2827": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28233220",
+        "display_name": "The Color Purple (2023) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T19:06:02.114303+00:00"
+      }
     },
     "3082": {
       "attempts": []
@@ -176117,5 +176124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:05:59.980831+00:00"
+  "updated_at": "2026-11-10T19:06:07.694023+00:00"
 }
