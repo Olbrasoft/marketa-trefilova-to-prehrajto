@@ -118144,7 +118144,7 @@
       "last_plan": {
         "source_id": "13048079",
         "display_name": "Heartbreak Ridge SD CZ Dabing",
-        "planned_at": "2026-11-10T18:03:08.991823+00:00"
+        "planned_at": "2026-11-10T18:34:24.148556+00:00"
       },
       "previous_target_id": "30984885",
       "prepared": {
@@ -118152,6 +118152,12 @@
         "size_bytes": 2466436780,
         "prepared_at": "2026-11-10T18:03:18.543690+00:00",
         "relay_source_id": "13048079"
+      },
+      "claim": {
+        "worker_id": "55db3a7525574cd4addcd40a6ba63e3d-shard-0",
+        "claimed_at": "2026-11-10T18:34:25.100999+00:00",
+        "lease_expires_at": "2026-11-11T00:34:25.100999+00:00",
+        "run_id": "42864255663"
       }
     },
     "2972": {
@@ -119134,17 +119140,19 @@
       "attempts": []
     },
     "16059": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26917489",
+          "target_video_id": "30985015",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:34:26.375550+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26917489",
         "display_name": "Poison (2023) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:33:44.872671+00:00"
-      },
-      "claim": {
-        "worker_id": "d55685370abb4d489e61589150b78c12-shard-0",
-        "claimed_at": "2026-11-10T18:33:45.200285+00:00",
-        "lease_expires_at": "2026-11-11T00:33:45.200285+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985015",
       "prepared": {
@@ -119159,7 +119167,7 @@
       "last_plan": {
         "source_id": "10458356",
         "display_name": "Mr. Turner 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:34:20.656468+00:00"
+        "planned_at": "2026-11-10T18:34:24.737963+00:00"
       }
     },
     "20300": {
@@ -174870,5 +174878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:34:22.384781+00:00"
+  "updated_at": "2026-11-10T18:34:26.375566+00:00"
 }
