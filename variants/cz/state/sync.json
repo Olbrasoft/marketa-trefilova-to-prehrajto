@@ -107263,7 +107263,20 @@
       }
     },
     "14663": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32575918",
+          "reason": "Source detail has no authenticated download link; source_id=32575918",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:14:39.423289+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32575918",
+        "display_name": "Popelka 720p CZ Dabing",
+        "planned_at": "2026-11-10T14:14:36.903631+00:00"
+      }
     },
     "31622": {
       "attempts": []
@@ -164396,5 +164409,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:14:34.615054+00:00"
+  "updated_at": "2026-11-10T14:14:39.423306+00:00"
 }
