@@ -104514,17 +104514,19 @@
       "attempts": []
     },
     "28974": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12666273",
+          "reason": "Source detail has no authenticated download link; source_id=12666273",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:19.687797+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12666273",
         "display_name": "Monster High: Freaky Fusion SD CZ Dabing",
         "planned_at": "2026-11-10T10:15:12.511819+00:00"
-      },
-      "claim": {
-        "worker_id": "68ef92b8bab04a4aa34cf988e98872c0-shard-0",
-        "claimed_at": "2026-11-10T10:15:12.889467+00:00",
-        "lease_expires_at": "2026-11-10T16:15:12.889467+00:00",
-        "run_id": "42790251611"
       }
     },
     "22419": {
@@ -162273,5 +162275,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:17.597944+00:00"
+  "updated_at": "2026-11-10T10:15:19.687815+00:00"
 }
