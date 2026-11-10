@@ -115488,17 +115488,19 @@
       }
     },
     "2935": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14845493",
+          "target_video_id": "30984699",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:22:21.219085+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14845493",
         "display_name": "Mank 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:20:25.135871+00:00"
-      },
-      "claim": {
-        "worker_id": "59a58aea3ba94121a13388fac7cc96e9-shard-0",
-        "claimed_at": "2026-11-10T17:20:25.941579+00:00",
-        "lease_expires_at": "2026-11-10T23:20:25.941579+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984699",
       "prepared": {
@@ -171652,5 +171654,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:22:19.565388+00:00"
+  "updated_at": "2026-11-10T17:22:21.219103+00:00"
 }
