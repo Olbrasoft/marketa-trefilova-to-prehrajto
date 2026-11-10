@@ -120102,17 +120102,19 @@
       "attempts": []
     },
     "26067": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33197960",
+          "target_video_id": "30985337",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:55:59.193652+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33197960",
         "display_name": "Justice League: The New Frontier SD CZ Dabing",
         "planned_at": "2026-11-10T18:54:23.121494+00:00"
-      },
-      "claim": {
-        "worker_id": "02c5810689c34566bf827d5f21f8fbc7-shard-0",
-        "claimed_at": "2026-11-10T18:54:25.238771+00:00",
-        "lease_expires_at": "2026-11-11T00:54:25.238771+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985337",
       "prepared": {
@@ -175746,5 +175748,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:55:56.105351+00:00"
+  "updated_at": "2026-11-10T18:55:59.193675+00:00"
 }
