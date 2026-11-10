@@ -110526,17 +110526,19 @@
       "attempts": []
     },
     "24203": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12261609",
+          "target_video_id": "30983900",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:02:04.904934+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12261609",
         "display_name": "The Tricky Game of Love (Hry lásky šálivé) SD CZ Dabing",
         "planned_at": "2026-11-10T15:01:22.543804+00:00"
-      },
-      "claim": {
-        "worker_id": "6c8edeebaada437aabc59a8ebaec9477-shard-0",
-        "claimed_at": "2026-11-10T15:01:23.445622+00:00",
-        "lease_expires_at": "2026-11-10T21:01:23.445622+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983900",
       "prepared": {
@@ -167137,5 +167139,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:01:46.018312+00:00"
+  "updated_at": "2026-11-10T15:02:04.904951+00:00"
 }
