@@ -117063,17 +117063,19 @@
       }
     },
     "3157": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13038862",
+          "target_video_id": "30984859",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:57:21.635849+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13038862",
         "display_name": "Odd Thomas 720p CZ Dabing",
         "planned_at": "2026-11-10T17:56:39.590080+00:00"
-      },
-      "claim": {
-        "worker_id": "a5b164a090214d0e826d4ba9e45f60a3-shard-0",
-        "claimed_at": "2026-11-10T17:56:40.175319+00:00",
-        "lease_expires_at": "2026-11-10T23:56:40.175319+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984859",
       "prepared": {
@@ -117084,7 +117086,18 @@
       }
     },
     "3066": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "25787561",
+        "display_name": "Florence Foster Jenkins 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:57:18.116816+00:00"
+      },
+      "claim": {
+        "worker_id": "2306dd719a144f15b57efa51b220cd22-shard-0",
+        "claimed_at": "2026-11-10T17:57:18.678136+00:00",
+        "lease_expires_at": "2026-11-10T23:57:18.678136+00:00",
+        "run_id": "42823888331"
+      }
     },
     "11749": {
       "attempts": []
@@ -173014,5 +173027,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:57:13.001413+00:00"
+  "updated_at": "2026-11-10T17:57:21.635864+00:00"
 }
