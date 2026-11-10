@@ -113111,7 +113111,7 @@
       "last_plan": {
         "source_id": "32044029",
         "display_name": "Tron: Legacy 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:33:03.558971+00:00"
+        "planned_at": "2026-11-10T19:03:07.674245+00:00"
       },
       "previous_target_id": "30984062",
       "prepared": {
@@ -120418,17 +120418,19 @@
       "attempts": []
     },
     "23227": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33734793",
+          "reason": "Request failed for https://sdilej.cz/33734793/pan-prilivu-1991-1080p-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:03:07.856642+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33734793",
         "display_name": "The Prince of Tides 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:03:05.442622+00:00"
-      },
-      "claim": {
-        "worker_id": "60f62e2163684cc6afba5cae31e2e5f1-shard-0",
-        "claimed_at": "2026-11-10T19:03:05.767434+00:00",
-        "lease_expires_at": "2026-11-11T01:03:05.767434+00:00",
-        "run_id": "42864255663"
       }
     },
     "19847": {
@@ -176029,5 +176031,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:03:06.108732+00:00"
+  "updated_at": "2026-11-10T19:03:07.856665+00:00"
 }
