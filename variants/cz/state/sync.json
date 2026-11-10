@@ -107384,17 +107384,19 @@
       }
     },
     "1561": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33299236",
+          "target_video_id": "30983538",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:16:59.831136+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33299236",
         "display_name": "Invincibles (Neporazitelní) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:16:16.173893+00:00"
-      },
-      "claim": {
-        "worker_id": "75917ff693bb43a8a05220c24bdc4057-shard-0",
-        "claimed_at": "2026-11-10T14:16:17.053203+00:00",
-        "lease_expires_at": "2026-11-10T20:16:17.053203+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983538",
       "prepared": {
@@ -164535,5 +164537,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:16:58.301529+00:00"
+  "updated_at": "2026-11-10T14:16:59.831153+00:00"
 }
