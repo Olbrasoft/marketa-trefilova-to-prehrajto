@@ -110206,13 +110206,6 @@
           "source_id": "32367221",
           "target_video_id": "30983754",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:23:20.386688+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32367221",
-          "target_video_id": "30983754",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:53:31.180343+00:00"
         },
         {
@@ -110221,6 +110214,13 @@
           "target_video_id": "30983754",
           "permanent": false,
           "attempted_at": "2026-11-10T18:25:03.388695+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32367221",
+          "target_video_id": "30983754",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:55:37.731237+00:00"
         }
       ],
       "last_plan": {
@@ -116128,7 +116128,7 @@
       "last_plan": {
         "source_id": "34445886",
         "display_name": "Bloodsport 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:25:03.573888+00:00"
+        "planned_at": "2026-11-10T18:55:36.759407+00:00"
       },
       "previous_target_id": "30984708",
       "prepared": {
@@ -116136,6 +116136,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-10T17:22:44.657078+00:00",
         "relay_source_id": "34445886"
+      },
+      "claim": {
+        "worker_id": "f9057ceb9c284b6cafab81a464955999-shard-0",
+        "claimed_at": "2026-11-10T18:55:37.460171+00:00",
+        "lease_expires_at": "2026-11-11T00:55:37.460171+00:00",
+        "run_id": "42864255663"
       }
     },
     "11458": {
@@ -120114,7 +120120,7 @@
       "last_plan": {
         "source_id": "30979384",
         "display_name": "Fantastic Voyage SD CZ Dabing",
-        "planned_at": "2026-11-10T18:55:34.351576+00:00"
+        "planned_at": "2026-11-10T18:55:37.018374+00:00"
       }
     },
     "11153": {
@@ -175733,5 +175739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:55:34.555843+00:00"
+  "updated_at": "2026-11-10T18:55:37.731254+00:00"
 }
