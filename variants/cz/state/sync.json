@@ -108598,7 +108598,20 @@
       "attempts": []
     },
     "12752": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33063059",
+          "reason": "Source detail has no authenticated download link; source_id=33063059",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:35:27.775966+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33063059",
+        "display_name": "Krakonoš a lyžníci 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:35:25.404850+00:00"
+      }
     },
     "12527": {
       "attempts": []
@@ -165500,5 +165513,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:35:23.576066+00:00"
+  "updated_at": "2026-11-10T14:35:27.775983+00:00"
 }
