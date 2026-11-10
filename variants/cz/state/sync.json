@@ -82153,13 +82153,6 @@
           "source_id": "34668514",
           "target_video_id": "30908812",
           "permanent": false,
-          "attempted_at": "2026-11-10T13:32:05.760037+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34668514",
-          "target_video_id": "30908812",
-          "permanent": false,
           "attempted_at": "2026-11-10T14:10:00.862703+00:00"
         },
         {
@@ -82168,6 +82161,13 @@
           "target_video_id": "30908812",
           "permanent": false,
           "attempted_at": "2026-11-10T14:40:29.351739+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668514",
+          "target_video_id": "30908812",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:11:20.189969+00:00"
         }
       ],
       "last_plan": {
@@ -82181,12 +82181,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-08T05:26:41.175531+00:00",
         "relay_source_id": "34668514"
-      },
-      "claim": {
-        "worker_id": "60ad55fff9fb4060abb062f0c85a0d80-shard-0",
-        "claimed_at": "2026-11-10T15:11:16.484157+00:00",
-        "lease_expires_at": "2026-11-10T21:11:16.484157+00:00",
-        "run_id": "42823888331"
       }
     },
     "23317": {
@@ -83435,7 +83429,7 @@
       "last_plan": {
         "source_id": "30859189",
         "display_name": "Snack Shack 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:40:31.126656+00:00"
+        "planned_at": "2026-11-10T15:11:19.062208+00:00"
       },
       "previous_target_id": "30915737",
       "prepared": {
@@ -83443,6 +83437,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-08T11:13:22.427450+00:00",
         "relay_source_id": "30859189"
+      },
+      "claim": {
+        "worker_id": "e6c48f96de914cb792e7029152536556-shard-0",
+        "claimed_at": "2026-11-10T15:11:19.772501+00:00",
+        "lease_expires_at": "2026-11-10T21:11:19.772501+00:00",
+        "run_id": "42823888331"
       }
     },
     "2309": {
@@ -83564,6 +83564,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "6212d9fd96ec40dca168c8429b358661-shard-0",
+        "claimed_at": "2026-11-10T15:11:18.849607+00:00",
+        "lease_expires_at": "2026-11-10T21:11:18.849607+00:00",
+        "run_id": "42823888331"
       }
     },
     "1954": {
@@ -111145,7 +111151,7 @@
       "last_plan": {
         "source_id": "35068482",
         "display_name": "Muž, který stoupl v ceně SD CZ Dabing",
-        "planned_at": "2026-11-10T15:11:16.993852+00:00"
+        "planned_at": "2026-11-10T15:11:19.364668+00:00"
       }
     },
     "24730": {
@@ -167595,5 +167601,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:11:16.993869+00:00"
+  "updated_at": "2026-11-10T15:11:20.189992+00:00"
 }
