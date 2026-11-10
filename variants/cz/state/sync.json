@@ -108823,13 +108823,6 @@
           "source_id": "35072913",
           "target_video_id": "30983665",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:02:23.661083+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35072913",
-          "target_video_id": "30983665",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:34:45.354478+00:00"
         },
         {
@@ -108838,12 +108831,19 @@
           "target_video_id": "30983665",
           "permanent": false,
           "attempted_at": "2026-11-10T17:08:16.242333+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072913",
+          "target_video_id": "30983665",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:38:21.422405+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35072913",
         "display_name": "Alena (1947) SD CZ Dabing",
-        "planned_at": "2026-11-10T17:08:10.520164+00:00"
+        "planned_at": "2026-11-10T17:38:18.743754+00:00"
       },
       "previous_target_id": "30983665",
       "prepared": {
@@ -116023,11 +116023,22 @@
       "last_plan": {
         "source_id": "29062405",
         "display_name": "A Ghost Story 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:38:15.055608+00:00"
+        "planned_at": "2026-11-10T17:38:19.047244+00:00"
+      },
+      "claim": {
+        "worker_id": "83c4626ad0e74f9282889325c6c88220-shard-0",
+        "claimed_at": "2026-11-10T17:38:19.784677+00:00",
+        "lease_expires_at": "2026-11-10T23:38:19.784677+00:00",
+        "run_id": "42823888331"
       }
     },
     "11410": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35331022",
+        "display_name": "Stripes 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:38:19.221461+00:00"
+      }
     },
     "13250": {
       "attempts": []
@@ -172089,5 +172100,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:38:16.918835+00:00"
+  "updated_at": "2026-11-10T17:38:21.422422+00:00"
 }
