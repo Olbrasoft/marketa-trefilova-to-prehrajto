@@ -114811,17 +114811,19 @@
       }
     },
     "2770": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32940647",
+          "target_video_id": "30984626",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:08:24.433329+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32940647",
         "display_name": "The Rip 4K CZ Dabing",
         "planned_at": "2026-11-10T17:07:40.478387+00:00"
-      },
-      "claim": {
-        "worker_id": "762982f51326498c8f53d350d9d8ebe0-shard-0",
-        "claimed_at": "2026-11-10T17:07:41.458060+00:00",
-        "lease_expires_at": "2026-11-10T23:07:41.458060+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984626",
       "prepared": {
@@ -171043,5 +171045,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:08:22.504831+00:00"
+  "updated_at": "2026-11-10T17:08:24.433349+00:00"
 }
