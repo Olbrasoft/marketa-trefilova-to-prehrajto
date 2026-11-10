@@ -113990,17 +113990,19 @@
       }
     },
     "3054": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6506542",
+          "target_video_id": "30984339",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:13:03.617958+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6506542",
         "display_name": "Black Mass 1080p CZ Dabing",
         "planned_at": "2026-11-10T16:08:59.967428+00:00"
-      },
-      "claim": {
-        "worker_id": "c063d49fed5f49e3be2c5814db19733e-shard-0",
-        "claimed_at": "2026-11-10T16:09:00.365407+00:00",
-        "lease_expires_at": "2026-11-10T22:09:00.365407+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984339",
       "prepared": {
@@ -170268,5 +170270,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:09:03.929677+00:00"
+  "updated_at": "2026-11-10T16:13:03.617975+00:00"
 }
