@@ -110865,7 +110865,15 @@
       }
     },
     "17320": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "12454328",
+          "reason": "Request failed for https://sdilej.cz/12454328/gips.-2018-.576p.hdtv.cz.dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:05:36.224262+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12454328",
         "display_name": "GIPS SD CZ Dabing",
@@ -110882,7 +110890,18 @@
       "attempts": []
     },
     "23944": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13606968",
+        "display_name": "Suburban Romance (A Suburban Romance) SD CZ Dabing",
+        "planned_at": "2026-11-10T15:05:35.115970+00:00"
+      },
+      "claim": {
+        "worker_id": "288c18bd40634c8486854ddc423f4508-shard-0",
+        "claimed_at": "2026-11-10T15:05:35.498815+00:00",
+        "lease_expires_at": "2026-11-10T21:05:35.498815+00:00",
+        "run_id": "42823888331"
+      }
     },
     "32044": {
       "attempts": []
@@ -167370,5 +167389,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:05:32.827156+00:00"
+  "updated_at": "2026-11-10T15:05:36.224276+00:00"
 }
