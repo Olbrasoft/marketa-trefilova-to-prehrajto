@@ -102127,7 +102127,20 @@
       "attempts": []
     },
     "2498": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30836925",
+          "reason": "Source detail has no authenticated download link; source_id=30836925",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:12.012733+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30836925",
+        "display_name": "Fremont 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:25:10.388487+00:00"
+      }
     },
     "37120": {
       "attempts": []
@@ -160615,5 +160628,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:25:08.255114+00:00"
+  "updated_at": "2026-11-10T09:25:12.012751+00:00"
 }
