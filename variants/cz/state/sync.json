@@ -101237,17 +101237,19 @@
       "attempts": []
     },
     "2669": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34412434",
+          "target_video_id": "30969320",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:45:37.965869+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34412434",
         "display_name": "Michael (2011) 1080p CZ Dabing",
         "planned_at": "2026-11-10T07:31:57.648279+00:00"
-      },
-      "claim": {
-        "worker_id": "a72d3f27cd804aa2b4103fb07cf9663c-shard-0",
-        "claimed_at": "2026-11-10T07:31:57.947560+00:00",
-        "lease_expires_at": "2026-11-10T13:31:57.947560+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30969320",
       "prepared": {
@@ -160014,5 +160016,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:45:29.749642+00:00"
+  "updated_at": "2026-11-10T07:45:37.965887+00:00"
 }
