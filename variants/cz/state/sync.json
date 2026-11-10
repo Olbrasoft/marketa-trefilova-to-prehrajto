@@ -100185,17 +100185,19 @@
       }
     },
     "32650": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26750660",
+          "target_video_id": "30965321",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:44:37.997778+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26750660",
         "display_name": "The Cow (Kráva) SD CZ Dabing",
         "planned_at": "2026-11-10T05:41:31.001516+00:00"
-      },
-      "claim": {
-        "worker_id": "9b163bdc5c6647eb8963209b5f95a4af-shard-0",
-        "claimed_at": "2026-11-10T05:41:31.295198+00:00",
-        "lease_expires_at": "2026-11-10T11:41:31.295198+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30965321",
       "prepared": {
@@ -159128,5 +159130,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:41:41.027940+00:00"
+  "updated_at": "2026-11-10T05:44:37.997796+00:00"
 }
