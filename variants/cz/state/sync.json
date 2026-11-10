@@ -110890,17 +110890,19 @@
       "attempts": []
     },
     "23944": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13606968",
+          "reason": "Request failed for https://sdilej.cz/13606968/zizkovska-romance-1958-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:05:38.364970+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13606968",
         "display_name": "Suburban Romance (A Suburban Romance) SD CZ Dabing",
         "planned_at": "2026-11-10T15:05:35.115970+00:00"
-      },
-      "claim": {
-        "worker_id": "288c18bd40634c8486854ddc423f4508-shard-0",
-        "claimed_at": "2026-11-10T15:05:35.498815+00:00",
-        "lease_expires_at": "2026-11-10T21:05:35.498815+00:00",
-        "run_id": "42823888331"
       }
     },
     "32044": {
@@ -167389,5 +167391,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:05:36.224276+00:00"
+  "updated_at": "2026-11-10T15:05:38.364995+00:00"
 }
