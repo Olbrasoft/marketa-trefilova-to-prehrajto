@@ -108479,17 +108479,19 @@
       }
     },
     "13851": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24035589",
+          "target_video_id": "30983684",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:34:39.062151+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24035589",
         "display_name": "Lucerna 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:33:57.071981+00:00"
-      },
-      "claim": {
-        "worker_id": "061df48730034e53ad496d75091755bb-shard-0",
-        "claimed_at": "2026-11-10T14:33:57.454264+00:00",
-        "lease_expires_at": "2026-11-10T20:33:57.454264+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983684",
       "prepared": {
@@ -165438,5 +165440,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:34:07.592253+00:00"
+  "updated_at": "2026-11-10T14:34:39.062170+00:00"
 }
