@@ -101741,17 +101741,19 @@
       }
     },
     "15273": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33875330",
+          "target_video_id": "30971563",
+          "permanent": false,
+          "attempted_at": "2026-11-10T08:46:20.057506+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33875330",
         "display_name": "Legend of the Boneknapper Dragon 1080p CZ Dabing",
         "planned_at": "2026-11-10T08:39:59.222936+00:00"
-      },
-      "claim": {
-        "worker_id": "cd4d6841dda74055b9d58e642a542242-shard-0",
-        "claimed_at": "2026-11-10T08:39:59.541701+00:00",
-        "lease_expires_at": "2026-11-10T14:39:59.541701+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30971563",
       "prepared": {
@@ -160363,5 +160365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T08:43:45.458546+00:00"
+  "updated_at": "2026-11-10T08:46:20.057522+00:00"
 }
