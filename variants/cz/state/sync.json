@@ -112693,17 +112693,19 @@
       }
     },
     "3149": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14570962",
+          "target_video_id": "30984139",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:34:05.531905+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:32:23.667085+00:00"
-      },
-      "claim": {
-        "worker_id": "ad6b3606e5ed4e099f00a7456820e407-shard-0",
-        "claimed_at": "2026-11-10T15:32:24.113373+00:00",
-        "lease_expires_at": "2026-11-10T21:32:24.113373+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -169073,5 +169075,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:34:02.958661+00:00"
+  "updated_at": "2026-11-10T15:34:05.531929+00:00"
 }
