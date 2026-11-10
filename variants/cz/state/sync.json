@@ -121036,13 +121036,6 @@
           "source_id": "30780911",
           "target_video_id": "30985356",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:06:15.478661+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30780911",
-          "target_video_id": "30985356",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:40:54.939676+00:00"
         },
         {
@@ -121051,12 +121044,19 @@
           "target_video_id": "30985356",
           "permanent": false,
           "attempted_at": "2026-11-10T21:13:26.416400+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30780911",
+          "target_video_id": "30985356",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:46:56.691250+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30780911",
         "display_name": "The Sugarland Express 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:13:24.623578+00:00"
+        "planned_at": "2026-11-10T21:46:54.698022+00:00"
       },
       "previous_target_id": "30985356",
       "prepared": {
@@ -123982,11 +123982,22 @@
       "last_plan": {
         "source_id": "14593132",
         "display_name": "The Suspect (용의자) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:46:48.508111+00:00"
+        "planned_at": "2026-11-10T21:46:54.966418+00:00"
+      },
+      "claim": {
+        "worker_id": "07af7392a8d942c8b9513c07b0ade6f8-shard-0",
+        "claimed_at": "2026-11-10T21:46:55.622168+00:00",
+        "lease_expires_at": "2026-11-11T03:46:55.622168+00:00",
+        "run_id": "42864255663"
       }
     },
     "3019": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31916577",
+        "display_name": "He's a Dragon (Он - дракон) SD CZ Dabing",
+        "planned_at": "2026-11-10T21:46:55.128200+00:00"
+      }
     },
     "32155": {
       "attempts": []
@@ -179116,5 +179127,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:46:51.231482+00:00"
+  "updated_at": "2026-11-10T21:46:56.691268+00:00"
 }
