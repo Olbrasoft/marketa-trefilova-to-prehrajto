@@ -117913,13 +117913,6 @@
           "source_id": "32263146",
           "target_video_id": "30984860",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:28:17.156460+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32263146",
-          "target_video_id": "30984860",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:58:42.387470+00:00"
         },
         {
@@ -117928,6 +117921,13 @@
           "target_video_id": "30984860",
           "permanent": false,
           "attempted_at": "2026-11-10T19:32:42.639506+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32263146",
+          "target_video_id": "30984860",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:05:06.486035+00:00"
         }
       ],
       "last_plan": {
@@ -119506,7 +119506,7 @@
       "last_plan": {
         "source_id": "15342199",
         "display_name": "Jersey Boys 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:32:42.435362+00:00"
+        "planned_at": "2026-11-10T20:05:05.397412+00:00"
       },
       "previous_target_id": "30984988",
       "prepared": {
@@ -119514,6 +119514,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T18:27:44.097179+00:00",
         "relay_source_id": "15342199"
+      },
+      "claim": {
+        "worker_id": "8c57f6d5a31b453a97f441e144f8be55-shard-0",
+        "claimed_at": "2026-11-10T20:05:05.996196+00:00",
+        "lease_expires_at": "2026-11-11T02:05:05.996196+00:00",
+        "run_id": "42864255663"
       }
     },
     "22451": {
@@ -122281,7 +122287,7 @@
       "last_plan": {
         "source_id": "22752658",
         "display_name": "Flashbacks of a Fool 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:05:03.413243+00:00"
+        "planned_at": "2026-11-10T20:05:05.652081+00:00"
       }
     },
     "26020": {
@@ -177676,5 +177682,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:05:03.621124+00:00"
+  "updated_at": "2026-11-10T20:05:06.486053+00:00"
 }
