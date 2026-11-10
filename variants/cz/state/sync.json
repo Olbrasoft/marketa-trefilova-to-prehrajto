@@ -123736,17 +123736,19 @@
       }
     },
     "2798": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30800295",
+          "target_video_id": "30985748",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:37:51.182628+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30800295",
         "display_name": "My Penguin Friend 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:37:08.201050+00:00"
-      },
-      "claim": {
-        "worker_id": "4be24d4a6a8143ad919389d6007b9a1f-shard-0",
-        "claimed_at": "2026-11-10T21:37:08.852595+00:00",
-        "lease_expires_at": "2026-11-11T03:37:08.852595+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985748",
       "prepared": {
@@ -178934,5 +178936,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:37:49.559555+00:00"
+  "updated_at": "2026-11-10T21:37:51.182645+00:00"
 }
