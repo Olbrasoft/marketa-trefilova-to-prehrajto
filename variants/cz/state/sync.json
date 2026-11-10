@@ -114698,17 +114698,19 @@
       }
     },
     "3113": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33159897",
+          "reason": "Request failed for https://sdilej.cz/33159897/green-zone.2010.bdrip.cz.en.1080p.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:02:15.737074+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33159897",
         "display_name": "Green Zone 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:02:08.591340+00:00"
-      },
-      "claim": {
-        "worker_id": "600068262a034e1aad4eb033b35c9c37-shard-0",
-        "claimed_at": "2026-11-10T17:02:10.050197+00:00",
-        "lease_expires_at": "2026-11-10T23:02:10.050197+00:00",
-        "run_id": "42823888331"
       }
     },
     "2806": {
@@ -170935,5 +170937,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:02:10.050231+00:00"
+  "updated_at": "2026-11-10T17:02:15.737097+00:00"
 }
