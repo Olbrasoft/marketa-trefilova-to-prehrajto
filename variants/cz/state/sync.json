@@ -98276,17 +98276,19 @@
       "attempts": []
     },
     "15699": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694109",
+          "target_video_id": "30957330",
+          "permanent": false,
+          "attempted_at": "2026-11-10T00:26:07.423219+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694109",
         "display_name": "Love & Revolution (Te estoy amando locamente) 1080p CZ Dabing",
         "planned_at": "2026-11-10T00:21:41.570109+00:00"
-      },
-      "claim": {
-        "worker_id": "2f58f74dc59f448bb25b600cd214cc89-shard-0",
-        "claimed_at": "2026-11-10T00:21:42.005472+00:00",
-        "lease_expires_at": "2026-11-10T06:21:42.005472+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30957330",
       "prepared": {
@@ -157529,5 +157531,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T00:21:46.578847+00:00"
+  "updated_at": "2026-11-10T00:26:07.423232+00:00"
 }
