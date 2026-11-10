@@ -114829,13 +114829,6 @@
           "source_id": "31632069",
           "target_video_id": "30984590",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:59:38.055203+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31632069",
-          "target_video_id": "30984590",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:29:55.159155+00:00"
         },
         {
@@ -114844,6 +114837,13 @@
           "target_video_id": "30984590",
           "permanent": false,
           "attempted_at": "2026-11-10T19:00:34.599823+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31632069",
+          "target_video_id": "30984590",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:33:37.364178+00:00"
         }
       ],
       "last_plan": {
@@ -114857,12 +114857,6 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-10T16:55:48.102287+00:00",
         "relay_source_id": "31632069"
-      },
-      "claim": {
-        "worker_id": "d0c0964b770a4a4181f44746bafa7d94-shard-0",
-        "claimed_at": "2026-11-10T19:33:33.251684+00:00",
-        "lease_expires_at": "2026-11-11T01:33:33.251684+00:00",
-        "run_id": "42864255663"
       }
     },
     "2778": {
@@ -118235,7 +118229,7 @@
       "last_plan": {
         "source_id": "26235983",
         "display_name": "Man Up 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:00:36.182619+00:00"
+        "planned_at": "2026-11-10T19:33:36.488619+00:00"
       },
       "previous_target_id": "30984868",
       "prepared": {
@@ -120768,6 +120762,13 @@
           "target_video_id": "30985353",
           "permanent": false,
           "attempted_at": "2026-11-10T19:00:36.397929+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30979384",
+          "target_video_id": "30985353",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:33:37.203375+00:00"
         }
       ],
       "last_plan": {
@@ -120778,15 +120779,9 @@
       "previous_target_id": "30985353",
       "prepared": {
         "target_video_id": "30985353",
-        "size_bytes": 1167215418,
+        "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T18:59:01.634983+00:00",
         "relay_source_id": "30979384"
-      },
-      "claim": {
-        "worker_id": "37e300cb11664e2cb0d7e0a6c83f7941-shard-0",
-        "claimed_at": "2026-11-10T19:33:34.042463+00:00",
-        "lease_expires_at": "2026-11-11T01:33:34.042463+00:00",
-        "run_id": "42864255663"
       }
     },
     "11153": {
@@ -121604,7 +121599,7 @@
       "last_plan": {
         "source_id": "33856664",
         "display_name": "Torrente, the dumb arm of the law (Torrente: El Brazo Tonto De La Ley) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:33:33.714235+00:00"
+        "planned_at": "2026-11-10T19:33:36.788439+00:00"
       }
     },
     "11393": {
@@ -177056,5 +177051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:33:34.514357+00:00"
+  "updated_at": "2026-11-10T19:33:37.364199+00:00"
 }
