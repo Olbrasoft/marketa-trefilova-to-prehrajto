@@ -98516,17 +98516,19 @@
       }
     },
     "16876": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31276523",
+          "target_video_id": "30958099",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:23:23.361265+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31276523",
         "display_name": "C'est la vie! (Le Sens de la fête) SD CZ Dabing",
         "planned_at": "2026-11-10T01:14:47.671166+00:00"
-      },
-      "claim": {
-        "worker_id": "da057455dd6d4ed485f731dbe567ccef-shard-0",
-        "claimed_at": "2026-11-10T01:14:48.031923+00:00",
-        "lease_expires_at": "2026-11-10T07:14:48.031923+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958099",
       "prepared": {
@@ -157733,5 +157735,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:14:53.129020+00:00"
+  "updated_at": "2026-11-10T01:23:23.361282+00:00"
 }
