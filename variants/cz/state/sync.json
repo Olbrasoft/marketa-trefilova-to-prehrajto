@@ -112879,7 +112879,7 @@
       "last_plan": {
         "source_id": "34357641",
         "display_name": "50 First Dates 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:57:46.347598+00:00"
+        "planned_at": "2026-11-10T19:30:51.862106+00:00"
       },
       "previous_target_id": "30984036",
       "prepared": {
@@ -112887,6 +112887,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:18:28.360690+00:00",
         "relay_source_id": "34357641"
+      },
+      "claim": {
+        "worker_id": "b4dc08b2ac1845e49cb91751e080a02a-shard-0",
+        "claimed_at": "2026-11-10T19:30:52.642717+00:00",
+        "lease_expires_at": "2026-11-11T01:30:52.642717+00:00",
+        "run_id": "42864255663"
       }
     },
     "2991": {
@@ -121454,17 +121460,19 @@
       }
     },
     "22436": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35374576",
+          "target_video_id": "30985473",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:30:53.318392+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35374576",
         "display_name": "The Wild Geese 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:30:09.468567+00:00"
-      },
-      "claim": {
-        "worker_id": "b83c8d48c4d64ccaa35368dc1c7c7f89-shard-0",
-        "claimed_at": "2026-11-10T19:30:11.405108+00:00",
-        "lease_expires_at": "2026-11-11T01:30:11.405108+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985473",
       "prepared": {
@@ -121500,7 +121508,7 @@
       "last_plan": {
         "source_id": "30715672",
         "display_name": "Outrage (Autoreiji) (2010) SD CZ Dabing",
-        "planned_at": "2026-11-10T19:30:48.745342+00:00"
+        "planned_at": "2026-11-10T19:30:52.154438+00:00"
       }
     },
     "2946": {
@@ -176958,5 +176966,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:30:50.207951+00:00"
+  "updated_at": "2026-11-10T19:30:53.318408+00:00"
 }
