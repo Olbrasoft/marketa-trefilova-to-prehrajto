@@ -107490,6 +107490,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T14:07:27.666701+00:00",
         "relay_source_id": "35084607"
+      },
+      "claim": {
+        "worker_id": "8bc239b564f24d33a90e3320c395d71d-shard-0",
+        "claimed_at": "2026-11-10T17:18:29.147688+00:00",
+        "lease_expires_at": "2026-11-10T23:18:29.147688+00:00",
+        "run_id": "42823888331"
       }
     },
     "13285": {
@@ -115397,17 +115403,19 @@
       }
     },
     "2983": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11567602",
+          "target_video_id": "30984685",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:18:30.510796+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11567602",
         "display_name": "Widows 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:17:40.516420+00:00"
-      },
-      "claim": {
-        "worker_id": "5b9320d449c94017a53d65206102fa90-shard-0",
-        "claimed_at": "2026-11-10T17:17:42.757691+00:00",
-        "lease_expires_at": "2026-11-10T23:17:42.757691+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984685",
       "prepared": {
@@ -171560,5 +171568,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:18:27.412288+00:00"
+  "updated_at": "2026-11-10T17:18:30.510821+00:00"
 }
