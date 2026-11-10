@@ -104187,17 +104187,19 @@
       }
     },
     "30889": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34903952",
+          "reason": "Source detail has no authenticated download link; source_id=34903952",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:09.099315+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34903952",
         "display_name": "Die Wiese (Die Wiese: Ein Paradies nebenan) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:14:02.396101+00:00"
-      },
-      "claim": {
-        "worker_id": "87a0105e838d49d68aba085d447b465a-shard-0",
-        "claimed_at": "2026-11-10T10:14:03.087579+00:00",
-        "lease_expires_at": "2026-11-10T16:14:03.087579+00:00",
-        "run_id": "42790251611"
       }
     },
     "12050": {
@@ -162039,5 +162041,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:07.366667+00:00"
+  "updated_at": "2026-11-10T10:14:09.099336+00:00"
 }
