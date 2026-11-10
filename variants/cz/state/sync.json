@@ -111813,21 +111813,34 @@
       }
     },
     "3067": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27019498",
+          "reason": "Source detail has no authenticated download link; source_id=27019498",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:21:20.942291+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27019498",
         "display_name": "The Proposal (2009) 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:21:15.844577+00:00"
-      },
-      "claim": {
-        "worker_id": "e7afd0ca48954833a92b079f4262cbe8-shard-0",
-        "claimed_at": "2026-11-10T15:21:16.293358+00:00",
-        "lease_expires_at": "2026-11-10T21:21:16.293358+00:00",
-        "run_id": "42823888331"
       }
     },
     "2974": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11995636",
+        "display_name": "Us SD CZ Dabing",
+        "planned_at": "2026-11-10T15:21:20.130175+00:00"
+      },
+      "claim": {
+        "worker_id": "dfdfd0b3fdeb4c89be5ee11be4dc120f-shard-0",
+        "claimed_at": "2026-11-10T15:21:20.521250+00:00",
+        "lease_expires_at": "2026-11-10T21:21:20.521250+00:00",
+        "run_id": "42823888331"
+      }
     },
     "2768": {
       "attempts": []
@@ -168219,5 +168232,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:21:17.099418+00:00"
+  "updated_at": "2026-11-10T15:21:20.942308+00:00"
 }
