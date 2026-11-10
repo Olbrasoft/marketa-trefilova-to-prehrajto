@@ -10895,7 +10895,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-10T02:29:13.322452+00:00"
+        "planned_at": "2026-11-10T03:03:05.279717+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10903,6 +10903,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "26ae97974e2340e2a979ed900fb27bd0-shard-0",
+        "claimed_at": "2026-11-10T03:03:06.023832+00:00",
+        "lease_expires_at": "2026-11-10T09:03:06.023832+00:00",
+        "run_id": "42729980423"
       }
     },
     "21748": {
@@ -98917,17 +98923,19 @@
       }
     },
     "22960": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34854510",
+          "target_video_id": "30958936",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:03:06.764367+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34854510",
         "display_name": "Evil Angels 1080p CZ Dabing",
         "planned_at": "2026-11-10T01:50:15.167799+00:00"
-      },
-      "claim": {
-        "worker_id": "2fb9bc81d83f4f2683a85af5afb0f9a2-shard-0",
-        "claimed_at": "2026-11-10T01:50:15.547227+00:00",
-        "lease_expires_at": "2026-11-10T07:50:15.547227+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958936",
       "prepared": {
@@ -99256,7 +99264,7 @@
       "last_plan": {
         "source_id": "27777585",
         "display_name": "Nevada Smith 1080p CZ Dabing",
-        "planned_at": "2026-11-10T03:03:01.107447+00:00"
+        "planned_at": "2026-11-10T03:03:05.578969+00:00"
       }
     },
     "11937": {
@@ -158324,5 +158332,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:03:03.229757+00:00"
+  "updated_at": "2026-11-10T03:03:06.764383+00:00"
 }
