@@ -16305,7 +16305,7 @@
       "last_plan": {
         "source_id": "13881903",
         "display_name": "Volhynia (Wołyń) 720p CZ Titulky",
-        "planned_at": "2026-11-10T16:26:28.440116+00:00"
+        "planned_at": "2026-11-10T16:59:14.576667+00:00"
       },
       "previous_target_id": "30745166",
       "prepared": {
@@ -16313,6 +16313,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-02T23:48:48.234894+00:00",
         "relay_source_id": "13881903"
+      },
+      "claim": {
+        "worker_id": "88d38ec0b3b34fc39f35a6e8d3860a28-shard-0",
+        "claimed_at": "2026-11-10T16:59:14.883244+00:00",
+        "lease_expires_at": "2026-11-10T22:59:14.883244+00:00",
+        "run_id": "42823888331"
       }
     },
     "31841": {
@@ -33984,17 +33990,19 @@
       "attempts": []
     },
     "21341": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13368212",
+          "target_video_id": "30984580",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:59:15.457455+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13368212",
         "display_name": "The Thing from Another World SD CZ Titulky",
         "planned_at": "2026-11-10T16:53:56.991497+00:00"
-      },
-      "claim": {
-        "worker_id": "7db5484c42324463a1a012503ace401e-shard-0",
-        "claimed_at": "2026-11-10T16:53:59.191938+00:00",
-        "lease_expires_at": "2026-11-10T22:53:59.191938+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984580",
       "prepared": {
@@ -96076,5 +96084,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:56:00.615332+00:00"
+  "updated_at": "2026-11-10T16:59:15.457471+00:00"
 }
