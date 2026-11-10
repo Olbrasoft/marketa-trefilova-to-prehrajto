@@ -124053,17 +124053,19 @@
       "attempts": []
     },
     "27338": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31751650",
+          "target_video_id": "30985776",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:50:13.828594+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31751650",
         "display_name": "David (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:49:29.391544+00:00"
-      },
-      "claim": {
-        "worker_id": "2e6611277b684f9b8502c64985fe4fec-shard-0",
-        "claimed_at": "2026-11-10T21:49:30.175771+00:00",
-        "lease_expires_at": "2026-11-11T03:49:30.175771+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985776",
       "prepared": {
@@ -179217,5 +179219,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:50:12.307723+00:00"
+  "updated_at": "2026-11-10T21:50:13.828610+00:00"
 }
