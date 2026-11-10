@@ -108900,13 +108900,6 @@
           "source_id": "35068853",
           "target_video_id": "30983667",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:08:26.980658+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35068853",
-          "target_video_id": "30983667",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:38:40.955134+00:00"
         },
         {
@@ -108915,6 +108908,13 @@
           "target_video_id": "30983667",
           "permanent": false,
           "attempted_at": "2026-11-10T18:12:53.295874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35068853",
+          "target_video_id": "30983667",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:43:50.609483+00:00"
         }
       ],
       "last_plan": {
@@ -108957,7 +108957,7 @@
       "last_plan": {
         "source_id": "34716695",
         "display_name": "Měsíc nad řekou 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:12:52.856183+00:00"
+        "planned_at": "2026-11-10T18:43:49.447327+00:00"
       },
       "previous_target_id": "30983668",
       "prepared": {
@@ -108965,6 +108965,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T14:30:57.208597+00:00",
         "relay_source_id": "34716695"
+      },
+      "claim": {
+        "worker_id": "202fdd194118406a93ab93a718fb1047-shard-0",
+        "claimed_at": "2026-11-10T18:43:50.097089+00:00",
+        "lease_expires_at": "2026-11-11T00:43:50.097089+00:00",
+        "run_id": "42864255663"
       }
     },
     "24311": {
@@ -119680,7 +119686,7 @@
       "last_plan": {
         "source_id": "24176905",
         "display_name": "The Electrical Life of Louis Wain 720p CZ Dabing",
-        "planned_at": "2026-11-10T18:43:45.962608+00:00"
+        "planned_at": "2026-11-10T18:43:49.711619+00:00"
       }
     },
     "33671": {
@@ -175328,5 +175334,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:43:46.173100+00:00"
+  "updated_at": "2026-11-10T18:43:50.609498+00:00"
 }
