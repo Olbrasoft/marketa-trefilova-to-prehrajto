@@ -117303,17 +117303,19 @@
       }
     },
     "2945": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14091913",
+          "target_video_id": "30984870",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:00:32.778646+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14091913",
         "display_name": "Judy (2019) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:59:48.483514+00:00"
-      },
-      "claim": {
-        "worker_id": "50585d3904064f59a8d7dfcb7842cf4e-shard-0",
-        "claimed_at": "2026-11-10T17:59:50.194880+00:00",
-        "lease_expires_at": "2026-11-10T23:59:50.194880+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984870",
       "prepared": {
@@ -173260,5 +173262,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:00:10.717647+00:00"
+  "updated_at": "2026-11-10T18:00:32.778664+00:00"
 }
