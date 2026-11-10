@@ -112498,17 +112498,19 @@
       }
     },
     "2796": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32941800",
+          "target_video_id": "30984118",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:30:49.460446+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32941800",
         "display_name": "Bridget Jones's Diary 4K CZ Dabing",
         "planned_at": "2026-11-10T15:29:20.638224+00:00"
-      },
-      "claim": {
-        "worker_id": "a4a20ad2f7c9483c96e1e43d1bb2537d-shard-0",
-        "claimed_at": "2026-11-10T15:29:21.258573+00:00",
-        "lease_expires_at": "2026-11-10T21:29:21.258573+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984118",
       "prepared": {
@@ -168881,5 +168883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:30:14.616482+00:00"
+  "updated_at": "2026-11-10T15:30:49.460464+00:00"
 }
