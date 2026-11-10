@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-09T23:36:46.848931+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-10T00:10:58.632165+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-10T00:49:14.321064+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:25:53.828861+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "4ad98b55878146259768aa58cc7bdbd5-shard-0",
-        "claimed_at": "2026-11-10T01:25:50.782947+00:00",
-        "lease_expires_at": "2026-11-10T07:25:50.782947+00:00",
-        "run_id": "42729980423"
       }
     },
     "10755": {
@@ -18966,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-10T00:49:16.228021+00:00"
+        "planned_at": "2026-11-10T01:25:52.610582+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18974,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "5db07274cdb948fabeb1639d7898b0a6-shard-0",
+        "claimed_at": "2026-11-10T01:25:53.416032+00:00",
+        "lease_expires_at": "2026-11-10T07:25:53.416032+00:00",
+        "run_id": "42729980423"
       }
     },
     "29695": {
@@ -98583,7 +98583,7 @@
       "last_plan": {
         "source_id": "32730493",
         "display_name": "Fanny's Journey (Le voyage de Fanny) SD CZ Dabing",
-        "planned_at": "2026-11-10T01:25:50.380798+00:00"
+        "planned_at": "2026-11-10T01:25:52.894825+00:00"
       }
     },
     "2634": {
@@ -157765,5 +157765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:25:51.104689+00:00"
+  "updated_at": "2026-11-10T01:25:53.828889+00:00"
 }
