@@ -73711,13 +73711,6 @@
           "source_id": "31393436",
           "target_video_id": "30882162",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:49:06.877113+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31393436",
-          "target_video_id": "30882162",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:19:17.668495+00:00"
         },
         {
@@ -73726,6 +73719,13 @@
           "target_video_id": "30882162",
           "permanent": false,
           "attempted_at": "2026-11-10T17:49:28.488961+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31393436",
+          "target_video_id": "30882162",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:20:53.200581+00:00"
         }
       ],
       "last_plan": {
@@ -73739,12 +73739,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-07T05:41:12.707110+00:00",
         "relay_source_id": "31393436"
-      },
-      "claim": {
-        "worker_id": "95feca84d10e48d790b99022f67492ad-shard-0",
-        "claimed_at": "2026-11-10T18:20:49.085464+00:00",
-        "lease_expires_at": "2026-11-11T00:20:49.085464+00:00",
-        "run_id": "42864255663"
       }
     },
     "35314": {
@@ -115935,7 +115929,7 @@
       "last_plan": {
         "source_id": "34757966",
         "display_name": "Risky Business 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:49:28.713005+00:00"
+        "planned_at": "2026-11-10T18:20:53.826160+00:00"
       },
       "previous_target_id": "30984690",
       "prepared": {
@@ -117282,6 +117276,13 @@
           "target_video_id": "30984844",
           "permanent": false,
           "attempted_at": "2026-11-10T17:49:26.817377+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34903564",
+          "target_video_id": "30984844",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:20:51.979452+00:00"
         }
       ],
       "last_plan": {
@@ -117292,15 +117293,9 @@
       "previous_target_id": "30984844",
       "prepared": {
         "target_video_id": "30984844",
-        "size_bytes": 3054686225,
+        "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T17:48:50.251668+00:00",
         "relay_source_id": "34903564"
-      },
-      "claim": {
-        "worker_id": "b605bc85d40141a680d942d1cf470d72-shard-0",
-        "claimed_at": "2026-11-10T18:20:48.327296+00:00",
-        "lease_expires_at": "2026-11-11T00:20:48.327296+00:00",
-        "run_id": "42864255663"
       }
     },
     "17858": {
@@ -118310,7 +118305,7 @@
       "last_plan": {
         "source_id": "11960847",
         "display_name": "World's Greatest Dad SD CZ Dabing",
-        "planned_at": "2026-11-10T18:20:48.769976+00:00"
+        "planned_at": "2026-11-10T18:20:54.080642+00:00"
       }
     },
     "2870": {
@@ -174138,5 +174133,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:20:49.314819+00:00"
+  "updated_at": "2026-11-10T18:20:54.080661+00:00"
 }
