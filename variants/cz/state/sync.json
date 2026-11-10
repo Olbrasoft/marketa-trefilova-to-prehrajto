@@ -8575,13 +8575,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-10T09:03:46.946564+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-10T10:00:53.972353+00:00"
         },
         {
@@ -8590,6 +8583,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-10T10:32:01.619806+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-10T11:14:55.797162+00:00"
         }
       ],
       "last_plan": {
@@ -22306,7 +22306,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-10T10:32:03.455223+00:00"
+        "planned_at": "2026-11-10T11:14:54.392725+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22314,6 +22314,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "0b790e75656e487296bef0329ac11472-shard-0",
+        "claimed_at": "2026-11-10T11:14:55.164822+00:00",
+        "lease_expires_at": "2026-11-10T17:14:55.164822+00:00",
+        "run_id": "42790251611"
       }
     },
     "730": {
@@ -105533,7 +105539,7 @@
       "last_plan": {
         "source_id": "34958704",
         "display_name": "Annaismissing (#annaismissing) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T11:14:49.620201+00:00"
+        "planned_at": "2026-11-10T11:14:54.696738+00:00"
       }
     },
     "12492": {
@@ -163015,5 +163021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T11:14:50.032925+00:00"
+  "updated_at": "2026-11-10T11:14:55.797180+00:00"
 }
