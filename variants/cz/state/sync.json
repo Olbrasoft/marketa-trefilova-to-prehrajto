@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:20:41.308076+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-10T12:53:33.925436+00:00"
         },
         {
@@ -1073,12 +1066,19 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-10T13:27:36.062130+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:05:39.292304+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-10T13:27:33.255280+00:00"
+        "planned_at": "2026-11-10T14:05:36.352883+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -107060,7 +107060,13 @@
       "last_plan": {
         "source_id": "31561997",
         "display_name": "Vracenky SD CZ Dabing",
-        "planned_at": "2026-11-10T13:59:37.467907+00:00"
+        "planned_at": "2026-11-10T14:05:36.650563+00:00"
+      },
+      "claim": {
+        "worker_id": "a76b8faefb814329b243cf6002ab29cf-shard-0",
+        "claimed_at": "2026-11-10T14:05:37.512668+00:00",
+        "lease_expires_at": "2026-11-10T20:05:37.512668+00:00",
+        "run_id": "42823888331"
       }
     },
     "2623": {
@@ -107068,11 +107074,22 @@
       "last_plan": {
         "source_id": "32711232",
         "display_name": "On the Roof (Na střeše) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T13:59:37.694344+00:00"
+        "planned_at": "2026-11-10T14:05:36.818708+00:00"
+      },
+      "claim": {
+        "worker_id": "d98057648bd6434794c2dd9b7136d82b-shard-0",
+        "claimed_at": "2026-11-10T14:05:37.690981+00:00",
+        "lease_expires_at": "2026-11-10T20:05:37.690981+00:00",
+        "run_id": "42823888331"
       }
     },
     "12717": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30853807",
+        "display_name": "U nás v Kocourkově 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:05:36.983338+00:00"
+      }
     },
     "21377": {
       "attempts": []
@@ -164244,5 +164261,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:59:48.905859+00:00"
+  "updated_at": "2026-11-10T14:05:39.292323+00:00"
 }
