@@ -98714,7 +98714,20 @@
       }
     },
     "1070": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31566924",
+          "reason": "Request failed for https://sdilej.cz/31566924/pani-kluci-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:38:39.541219+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "31566924",
+        "display_name": "Páni kluci 1080p CZ Dabing",
+        "planned_at": "2026-11-10T01:37:52.786543+00:00"
+      }
     },
     "37278": {
       "attempts": []
@@ -157877,5 +157890,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:37:48.782832+00:00"
+  "updated_at": "2026-11-10T01:38:39.541239+00:00"
 }
