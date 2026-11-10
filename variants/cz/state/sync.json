@@ -120721,17 +120721,19 @@
       }
     },
     "2927": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15358349",
+          "target_video_id": "30985402",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:09:04.739844+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15358349",
         "display_name": "Reign of the Supermen 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:08:13.298656+00:00"
-      },
-      "claim": {
-        "worker_id": "b6cc72f2f1db4da9864caef96d5bd768-shard-0",
-        "claimed_at": "2026-11-10T19:08:13.673713+00:00",
-        "lease_expires_at": "2026-11-11T01:08:13.673713+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985402",
       "prepared": {
@@ -176320,5 +176322,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:09:03.189798+00:00"
+  "updated_at": "2026-11-10T19:09:04.739865+00:00"
 }
