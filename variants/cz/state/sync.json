@@ -106105,17 +106105,19 @@
       }
     },
     "13954": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34684622",
+          "target_video_id": "30980121",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:46:08.763122+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34684622",
         "display_name": "Hailey Dean Mysteries: Killer Sentence 1080p CZ Dabing",
         "planned_at": "2026-11-10T12:40:36.495258+00:00"
-      },
-      "claim": {
-        "worker_id": "2be89f12b82d428f87c564b3cf61858f-shard-0",
-        "claimed_at": "2026-11-10T12:40:36.934116+00:00",
-        "lease_expires_at": "2026-11-10T18:40:36.934116+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30980121",
       "prepared": {
@@ -163519,5 +163521,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:43:26.020755+00:00"
+  "updated_at": "2026-11-10T12:46:08.763140+00:00"
 }
