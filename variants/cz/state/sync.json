@@ -109167,17 +109167,19 @@
       "attempts": []
     },
     "12600": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34675999",
+          "target_video_id": "30983772",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:45:49.245569+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34675999",
         "display_name": "Tři vejce do skla 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:45:02.920399+00:00"
-      },
-      "claim": {
-        "worker_id": "45b29ba7fdb7444c814faad79a4cd5a2-shard-0",
-        "claimed_at": "2026-11-10T14:45:03.611651+00:00",
-        "lease_expires_at": "2026-11-10T20:45:03.611651+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983772",
       "prepared": {
@@ -109215,7 +109217,18 @@
       }
     },
     "21086": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35067260",
+        "display_name": "Ezop (Aesop) SD CZ Dabing",
+        "planned_at": "2026-11-10T14:45:48.595364+00:00"
+      },
+      "claim": {
+        "worker_id": "6b91d3c415994f1ab1e1059bf93c50b3-shard-0",
+        "claimed_at": "2026-11-10T14:45:49.030007+00:00",
+        "lease_expires_at": "2026-11-10T20:45:49.030007+00:00",
+        "run_id": "42823888331"
+      }
     },
     "33022": {
       "attempts": []
@@ -165982,5 +165995,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:45:44.466056+00:00"
+  "updated_at": "2026-11-10T14:45:49.245585+00:00"
 }
