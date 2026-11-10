@@ -109527,7 +109527,7 @@
       "last_plan": {
         "source_id": "12788271",
         "display_name": "Deadly Seasons: Black Enigma (Noir Enigma) SD CZ Dabing",
-        "planned_at": "2026-11-10T14:41:56.134804+00:00"
+        "planned_at": "2026-11-10T15:13:36.513768+00:00"
       },
       "previous_target_id": "30983746",
       "prepared": {
@@ -109535,6 +109535,12 @@
         "size_bytes": 1368264210,
         "prepared_at": "2026-11-10T14:42:01.640343+00:00",
         "relay_source_id": "12788271"
+      },
+      "claim": {
+        "worker_id": "5bd8183918e04ae48190b88e3c98cef6-shard-0",
+        "claimed_at": "2026-11-10T15:13:37.286482+00:00",
+        "lease_expires_at": "2026-11-10T21:13:37.286482+00:00",
+        "run_id": "42823888331"
       }
     },
     "33466": {
@@ -111218,17 +111224,19 @@
       "attempts": []
     },
     "3008": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31822900",
+          "target_video_id": "30983993",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:13:37.922944+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31822900",
         "display_name": "Star Wars: Episode VIII – The Last Jedi (Star Wars: The Last Jedi) 4K CZ Dabing",
         "planned_at": "2026-11-10T15:12:57.456232+00:00"
-      },
-      "claim": {
-        "worker_id": "ba2af010cfe241368b054b30aa650a1e-shard-0",
-        "claimed_at": "2026-11-10T15:12:57.908081+00:00",
-        "lease_expires_at": "2026-11-10T21:12:57.908081+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983993",
       "prepared": {
@@ -111260,7 +111268,12 @@
       }
     },
     "3096": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32962420",
+        "display_name": "The Maze Runner 4K CZ Dabing",
+        "planned_at": "2026-11-10T15:13:36.837133+00:00"
+      }
     },
     "2980": {
       "attempts": []
@@ -167688,5 +167701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:13:28.877281+00:00"
+  "updated_at": "2026-11-10T15:13:37.922960+00:00"
 }
