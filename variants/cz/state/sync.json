@@ -113187,13 +113187,6 @@
           "source_id": "33115659",
           "target_video_id": "30984064",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:48:34.839312+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33115659",
-          "target_video_id": "30984064",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:28:05.502856+00:00"
         },
         {
@@ -113202,6 +113195,13 @@
           "target_video_id": "30984064",
           "permanent": false,
           "attempted_at": "2026-11-10T23:09:24.865216+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33115659",
+          "target_video_id": "30984064",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:49:54.237953+00:00"
         }
       ],
       "last_plan": {
@@ -124356,7 +124356,7 @@
       "last_plan": {
         "source_id": "14593132",
         "display_name": "The Suspect (용의자) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:09:26.472506+00:00"
+        "planned_at": "2026-11-10T23:49:52.772554+00:00"
       },
       "previous_target_id": "30985771",
       "prepared": {
@@ -124364,6 +124364,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T21:47:01.509241+00:00",
         "relay_source_id": "14593132"
+      },
+      "claim": {
+        "worker_id": "d152a68e5b87467ea16c9f41f9240e5f-shard-0",
+        "claimed_at": "2026-11-10T23:49:53.517180+00:00",
+        "lease_expires_at": "2026-11-11T05:49:53.517180+00:00",
+        "run_id": "42904278669"
       }
     },
     "3019": {
@@ -125986,7 +125992,7 @@
       "last_plan": {
         "source_id": "28796138",
         "display_name": "Standing Up SD CZ Dabing",
-        "planned_at": "2026-11-10T23:49:50.814267+00:00"
+        "planned_at": "2026-11-10T23:49:53.088577+00:00"
       }
     },
     "22932": {
@@ -180727,5 +180733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:49:50.814285+00:00"
+  "updated_at": "2026-11-10T23:49:54.237971+00:00"
 }
