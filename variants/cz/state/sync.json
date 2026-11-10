@@ -174102,17 +174102,19 @@
       "attempts": []
     },
     "89": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22159844",
+          "target_video_id": "30984960",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:20:44.427917+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22159844",
         "display_name": "Apocalypse Now Redux (Apocalypse Now) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:20:02.290288+00:00"
-      },
-      "claim": {
-        "worker_id": "965a7f7971674396aad1711b8de49028-shard-0",
-        "claimed_at": "2026-11-10T18:20:02.768836+00:00",
-        "lease_expires_at": "2026-11-11T00:20:02.768836+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984960",
       "prepared": {
@@ -174124,5 +174126,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:20:42.586210+00:00"
+  "updated_at": "2026-11-10T18:20:44.427935+00:00"
 }
