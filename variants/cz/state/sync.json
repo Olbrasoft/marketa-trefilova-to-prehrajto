@@ -105737,17 +105737,19 @@
       }
     },
     "11809": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30045237",
+          "target_video_id": "30978930",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:19:11.565868+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30045237",
         "display_name": "Man versus Ruin (Člověk proti zkáze) 1080p CZ Dabing",
         "planned_at": "2026-11-10T12:08:36.474169+00:00"
-      },
-      "claim": {
-        "worker_id": "9c85ef65efad435db24b7b264500c536-shard-0",
-        "claimed_at": "2026-11-10T12:08:36.915395+00:00",
-        "lease_expires_at": "2026-11-10T18:08:36.915395+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30978930",
       "prepared": {
@@ -163249,5 +163251,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:19:05.833152+00:00"
+  "updated_at": "2026-11-10T12:19:11.565892+00:00"
 }
