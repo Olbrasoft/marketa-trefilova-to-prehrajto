@@ -108583,13 +108583,6 @@
           "source_id": "34789117",
           "target_video_id": "30983623",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:24:33.264733+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34789117",
-          "target_video_id": "30983623",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:58:41.924831+00:00"
         },
         {
@@ -108598,12 +108591,19 @@
           "target_video_id": "30983623",
           "permanent": false,
           "attempted_at": "2026-11-10T16:30:51.211416+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34789117",
+          "target_video_id": "30983623",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:04:30.729320+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34789117",
         "display_name": "Barbora Hlavsová 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:30:46.919435+00:00"
+        "planned_at": "2026-11-10T17:04:28.641434+00:00"
       },
       "previous_target_id": "30983623",
       "prepared": {
@@ -114763,11 +114763,22 @@
       "last_plan": {
         "source_id": "33694760",
         "display_name": "The Score 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:04:19.949495+00:00"
+        "planned_at": "2026-11-10T17:04:28.949636+00:00"
+      },
+      "claim": {
+        "worker_id": "5e13ea272bf04eab9d13d41aa81af04e-shard-0",
+        "claimed_at": "2026-11-10T17:04:29.695365+00:00",
+        "lease_expires_at": "2026-11-10T23:04:29.695365+00:00",
+        "run_id": "42823888331"
       }
     },
     "2770": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32940647",
+        "display_name": "The Rip 4K CZ Dabing",
+        "planned_at": "2026-11-10T17:04:29.123538+00:00"
+      }
     },
     "17928": {
       "attempts": []
@@ -170976,5 +170987,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:04:25.682841+00:00"
+  "updated_at": "2026-11-10T17:04:30.729341+00:00"
 }
