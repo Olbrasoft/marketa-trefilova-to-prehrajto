@@ -98746,17 +98746,19 @@
       }
     },
     "37278": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33690113",
+          "target_video_id": "30958599",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:50:13.336768+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33690113",
         "display_name": "The Four Musketeers 1080p CZ Dabing",
         "planned_at": "2026-11-10T01:38:49.949380+00:00"
-      },
-      "claim": {
-        "worker_id": "007d419e8cfb46faaf618e84bb4c1baf-shard-0",
-        "claimed_at": "2026-11-10T01:38:50.342833+00:00",
-        "lease_expires_at": "2026-11-10T07:38:50.342833+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958599",
       "prepared": {
@@ -157973,5 +157975,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:47:30.613409+00:00"
+  "updated_at": "2026-11-10T01:50:13.336785+00:00"
 }
