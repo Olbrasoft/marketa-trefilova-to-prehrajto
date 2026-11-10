@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:15:53.937249+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:46:01.727011+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-10T18:17:10.587403+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:48:02.316654+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "1b4683a9bb044ec286025ea1185d4438-shard-0",
-        "claimed_at": "2026-11-10T18:47:59.290304+00:00",
-        "lease_expires_at": "2026-11-11T00:47:59.290304+00:00",
-        "run_id": "42864255663"
       }
     },
     "52": {
@@ -109552,7 +109546,7 @@
       "last_plan": {
         "source_id": "30160689",
         "display_name": "Smrt černého krále 720p CZ Dabing",
-        "planned_at": "2026-11-10T18:17:09.230048+00:00"
+        "planned_at": "2026-11-10T18:48:01.408977+00:00"
       },
       "previous_target_id": "30983693",
       "prepared": {
@@ -109560,6 +109554,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T14:35:35.121572+00:00",
         "relay_source_id": "30160689"
+      },
+      "claim": {
+        "worker_id": "6121174f1e93471e9f1b49a21757831c-shard-0",
+        "claimed_at": "2026-11-10T18:48:02.074224+00:00",
+        "lease_expires_at": "2026-11-11T00:48:02.074224+00:00",
+        "run_id": "42864255663"
       }
     },
     "32878": {
@@ -119908,7 +119908,7 @@
       "last_plan": {
         "source_id": "28731473",
         "display_name": "DogMan (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:47:58.925917+00:00"
+        "planned_at": "2026-11-10T18:48:01.685861+00:00"
       }
     },
     "13240": {
@@ -175541,5 +175541,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:47:59.833551+00:00"
+  "updated_at": "2026-11-10T18:48:02.316673+00:00"
 }
