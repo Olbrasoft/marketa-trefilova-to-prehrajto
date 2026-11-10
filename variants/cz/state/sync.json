@@ -81562,7 +81562,7 @@
       "last_plan": {
         "source_id": "32457622",
         "display_name": "Christmas with Holly 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:11:23.221037+00:00"
+        "planned_at": "2026-11-10T18:42:06.214433+00:00"
       },
       "previous_target_id": "30903267",
       "prepared": {
@@ -81570,6 +81570,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-08T01:03:53.007664+00:00",
         "relay_source_id": "32457622"
+      },
+      "claim": {
+        "worker_id": "2a4ec2fcfa864dbf8537bd3020320922-shard-0",
+        "claimed_at": "2026-11-10T18:42:06.848761+00:00",
+        "lease_expires_at": "2026-11-11T00:42:06.848761+00:00",
+        "run_id": "42864255663"
       }
     },
     "13134": {
@@ -119583,17 +119589,19 @@
       }
     },
     "3144": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8744723",
+          "target_video_id": "30985052",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:42:07.851849+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8744723",
         "display_name": "Cemetery Junction SD CZ Dabing",
         "planned_at": "2026-11-10T18:40:54.159515+00:00"
-      },
-      "claim": {
-        "worker_id": "83e59c1abf9e4d50bc8c57bcd20ac882-shard-0",
-        "claimed_at": "2026-11-10T18:40:54.792107+00:00",
-        "lease_expires_at": "2026-11-11T00:40:54.792107+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985052",
       "prepared": {
@@ -119608,7 +119616,7 @@
       "last_plan": {
         "source_id": "33745590",
         "display_name": "Quick Change 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:42:02.921945+00:00"
+        "planned_at": "2026-11-10T18:42:06.487628+00:00"
       }
     },
     "13361": {
@@ -175265,5 +175273,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:42:04.690388+00:00"
+  "updated_at": "2026-11-10T18:42:07.851865+00:00"
 }
