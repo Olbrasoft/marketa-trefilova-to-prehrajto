@@ -107644,17 +107644,19 @@
       }
     },
     "12694": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29867066",
+          "target_video_id": "30983587",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:19:23.423115+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29867066",
         "display_name": "Revizor (1933) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:18:39.951823+00:00"
-      },
-      "claim": {
-        "worker_id": "a5cf7b88fbcb4a8a96544924469ba937-shard-0",
-        "claimed_at": "2026-11-10T14:18:40.377560+00:00",
-        "lease_expires_at": "2026-11-10T20:18:40.377560+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983587",
       "prepared": {
@@ -164722,5 +164724,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:19:21.580863+00:00"
+  "updated_at": "2026-11-10T14:19:23.423133+00:00"
 }
