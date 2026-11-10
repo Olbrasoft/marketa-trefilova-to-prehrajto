@@ -98147,17 +98147,19 @@
       "attempts": []
     },
     "37279": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34253762",
+          "target_video_id": "30957224",
+          "permanent": false,
+          "attempted_at": "2026-11-10T00:20:41.088020+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34253762",
         "display_name": "The Life and Death of Peter Sellers 1080p CZ Dabing",
         "planned_at": "2026-11-10T00:15:01.152783+00:00"
-      },
-      "claim": {
-        "worker_id": "28c1971c13454f5cba264d6ecdd00648-shard-0",
-        "claimed_at": "2026-11-10T00:15:03.194083+00:00",
-        "lease_expires_at": "2026-11-10T06:15:03.194083+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30957224",
       "prepared": {
@@ -157483,5 +157485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T00:19:22.789323+00:00"
+  "updated_at": "2026-11-10T00:20:41.088047+00:00"
 }
