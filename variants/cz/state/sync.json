@@ -102408,7 +102408,20 @@
       "attempts": []
     },
     "25031": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31066311",
+          "reason": "Source detail has no authenticated download link; source_id=31066311",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:29:32.485360+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "31066311",
+        "display_name": "Mach a Sebestová k tabuli! (Mach a Šebestová k tabuli!) SD CZ Dabing",
+        "planned_at": "2026-11-10T09:29:30.617081+00:00"
+      }
     },
     "14901": {
       "attempts": []
@@ -160797,5 +160810,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:29:28.345368+00:00"
+  "updated_at": "2026-11-10T09:29:32.485377+00:00"
 }
