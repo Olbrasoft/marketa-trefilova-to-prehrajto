@@ -107289,13 +107289,6 @@
           "source_id": "34883521",
           "target_video_id": "30983259",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:45:19.607431+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34883521",
-          "target_video_id": "30983259",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:17:02.946285+00:00"
         },
         {
@@ -107304,6 +107297,13 @@
           "target_video_id": "30983259",
           "permanent": false,
           "attempted_at": "2026-11-10T20:47:10.177841+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34883521",
+          "target_video_id": "30983259",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:20:46.211302+00:00"
         }
       ],
       "last_plan": {
@@ -118800,7 +118800,7 @@
       "last_plan": {
         "source_id": "34674768",
         "display_name": "Dead Calm 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:47:11.706839+00:00"
+        "planned_at": "2026-11-10T21:20:45.052894+00:00"
       },
       "previous_target_id": "30984916",
       "prepared": {
@@ -118808,6 +118808,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T18:10:39.394954+00:00",
         "relay_source_id": "34674768"
+      },
+      "claim": {
+        "worker_id": "c2f7a5909c5c4d678e535a9b8d267ce1-shard-0",
+        "claimed_at": "2026-11-10T21:20:45.683298+00:00",
+        "lease_expires_at": "2026-11-11T03:20:45.683298+00:00",
+        "run_id": "42864255663"
       }
     },
     "3101": {
@@ -123437,7 +123443,7 @@
       "last_plan": {
         "source_id": "13337326",
         "display_name": "American Woman 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:20:43.036514+00:00"
+        "planned_at": "2026-11-10T21:20:45.317058+00:00"
       }
     },
     "21821": {
@@ -178658,5 +178664,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:20:43.247234+00:00"
+  "updated_at": "2026-11-10T21:20:46.211323+00:00"
 }
