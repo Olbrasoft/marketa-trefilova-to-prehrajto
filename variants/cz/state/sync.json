@@ -42255,13 +42255,6 @@
           "source_id": "34334657",
           "target_video_id": "30754884",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:50:43.333947+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34334657",
-          "target_video_id": "30754884",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:23:03.994080+00:00"
         },
         {
@@ -42270,6 +42263,13 @@
           "target_video_id": "30754884",
           "permanent": false,
           "attempted_at": "2026-11-10T19:55:56.202754+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34334657",
+          "target_video_id": "30754884",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:28:36.222664+00:00"
         }
       ],
       "last_plan": {
@@ -107463,7 +107463,7 @@
       "last_plan": {
         "source_id": "30853807",
         "display_name": "U nás v Kocourkově 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:55:55.892269+00:00"
+        "planned_at": "2026-11-10T20:28:35.053959+00:00"
       },
       "previous_target_id": "30983476",
       "prepared": {
@@ -107471,6 +107471,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-10T14:07:30.171414+00:00",
         "relay_source_id": "30853807"
+      },
+      "claim": {
+        "worker_id": "f12ae591d61b48a6b5f1dce8c471a572-shard-0",
+        "claimed_at": "2026-11-10T20:28:35.704540+00:00",
+        "lease_expires_at": "2026-11-11T02:28:35.704540+00:00",
+        "run_id": "42864255663"
       }
     },
     "21377": {
@@ -122687,6 +122693,12 @@
         "source_id": "24836709",
         "display_name": "Harper SD CZ Dabing",
         "planned_at": "2026-11-10T20:28:32.434755+00:00"
+      },
+      "claim": {
+        "worker_id": "706486ce49b74e1d9b7818a6a9c9805d-shard-0",
+        "claimed_at": "2026-11-10T20:28:34.867847+00:00",
+        "lease_expires_at": "2026-11-11T02:28:34.867847+00:00",
+        "run_id": "42864255663"
       }
     },
     "32552": {
@@ -122703,7 +122715,7 @@
       "last_plan": {
         "source_id": "34843024",
         "display_name": "The War Wagon 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:28:33.009813+00:00"
+        "planned_at": "2026-11-10T20:28:35.325219+00:00"
       }
     },
     "2918": {
@@ -178053,5 +178065,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:28:33.009829+00:00"
+  "updated_at": "2026-11-10T20:28:36.222681+00:00"
 }
