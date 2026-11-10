@@ -114985,17 +114985,19 @@
       }
     },
     "2822": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32155099",
+          "target_video_id": "30984640",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:11:51.808663+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32155099",
         "display_name": "Hit Man 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:11:09.460094+00:00"
-      },
-      "claim": {
-        "worker_id": "8905720a02ce4ee8b70011cda093cef8-shard-0",
-        "claimed_at": "2026-11-10T17:11:09.866542+00:00",
-        "lease_expires_at": "2026-11-10T23:11:09.866542+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984640",
       "prepared": {
@@ -115027,7 +115029,12 @@
       }
     },
     "3139": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34858393",
+        "display_name": "Street Kings 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:11:51.599878+00:00"
+      }
     },
     "2962": {
       "attempts": []
@@ -171212,5 +171219,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:11:48.034482+00:00"
+  "updated_at": "2026-11-10T17:11:51.808690+00:00"
 }
