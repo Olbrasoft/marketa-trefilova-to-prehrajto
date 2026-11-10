@@ -94638,13 +94638,6 @@
           "source_id": "27708681",
           "target_video_id": "30948792",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:58:19.260658+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27708681",
-          "target_video_id": "30948792",
-          "permanent": false,
           "attempted_at": "2026-11-10T13:32:18.872721+00:00"
         },
         {
@@ -94653,6 +94646,13 @@
           "target_video_id": "30948792",
           "permanent": false,
           "attempted_at": "2026-11-10T14:10:15.495140+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27708681",
+          "target_video_id": "30948792",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:40:43.402413+00:00"
         }
       ],
       "last_plan": {
@@ -98316,7 +98316,7 @@
       "last_plan": {
         "source_id": "25775847",
         "display_name": "Sněženky a machři 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:10:14.196130+00:00"
+        "planned_at": "2026-11-10T14:40:42.175836+00:00"
       },
       "previous_target_id": "30957288",
       "prepared": {
@@ -98324,6 +98324,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T00:19:22.789310+00:00",
         "relay_source_id": "25775847"
+      },
+      "claim": {
+        "worker_id": "9af96b4db2c041da801132e65b86c788-shard-0",
+        "claimed_at": "2026-11-10T14:40:43.157827+00:00",
+        "lease_expires_at": "2026-11-10T20:40:43.157827+00:00",
+        "run_id": "42823888331"
       }
     },
     "23314": {
@@ -108860,11 +108866,22 @@
       "last_plan": {
         "source_id": "34885981",
         "display_name": "The Beggar's Opera (Žebrácká opera) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:40:39.761215+00:00"
+        "planned_at": "2026-11-10T14:40:42.477711+00:00"
+      },
+      "claim": {
+        "worker_id": "8a81ffd59da0414cbefa17d947f72753-shard-0",
+        "claimed_at": "2026-11-10T14:40:43.568214+00:00",
+        "lease_expires_at": "2026-11-10T20:40:43.568214+00:00",
+        "run_id": "42823888331"
       }
     },
     "1992": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "15115113",
+        "display_name": "O zakletém králi a odvázném Martinovi (Vianočné želanie) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:40:42.701062+00:00"
+      }
     },
     "26112": {
       "attempts": []
@@ -165697,5 +165714,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:40:39.761234+00:00"
+  "updated_at": "2026-11-10T14:40:43.568244+00:00"
 }
