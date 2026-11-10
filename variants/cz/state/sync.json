@@ -108703,13 +108703,6 @@
           "source_id": "31753593",
           "target_video_id": "30983629",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:31:04.191744+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31753593",
-          "target_video_id": "30983629",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:01:24.113767+00:00"
         },
         {
@@ -108718,6 +108711,13 @@
           "target_video_id": "30983629",
           "permanent": false,
           "attempted_at": "2026-11-10T16:33:57.595363+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31753593",
+          "target_video_id": "30983629",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:07:42.240784+00:00"
         }
       ],
       "last_plan": {
@@ -108731,12 +108731,6 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:24:26.939080+00:00",
         "relay_source_id": "31753593"
-      },
-      "claim": {
-        "worker_id": "e0021e7833d0421b9aca5e19e811cffb-shard-0",
-        "claimed_at": "2026-11-10T17:07:38.526350+00:00",
-        "lease_expires_at": "2026-11-10T23:07:38.526350+00:00",
-        "run_id": "42823888331"
       }
     },
     "32820": {
@@ -113742,7 +113736,7 @@
       "last_plan": {
         "source_id": "32021078",
         "display_name": "The Fantastic Four: First Steps (The Fantastic 4: First Steps) 4K CZ Dabing",
-        "planned_at": "2026-11-10T16:34:00.654779+00:00"
+        "planned_at": "2026-11-10T17:07:40.165241+00:00"
       },
       "previous_target_id": "30984120",
       "prepared": {
@@ -113750,6 +113744,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-10T15:29:35.978333+00:00",
         "relay_source_id": "32021078"
+      },
+      "claim": {
+        "worker_id": "5499646b22a24aa4957f6e0bc6a1f7a6-shard-0",
+        "claimed_at": "2026-11-10T17:07:41.281667+00:00",
+        "lease_expires_at": "2026-11-10T23:07:41.281667+00:00",
+        "run_id": "42823888331"
       }
     },
     "3114": {
@@ -114815,11 +114815,22 @@
       "last_plan": {
         "source_id": "32940647",
         "display_name": "The Rip 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:07:36.697797+00:00"
+        "planned_at": "2026-11-10T17:07:40.478387+00:00"
+      },
+      "claim": {
+        "worker_id": "762982f51326498c8f53d350d9d8ebe0-shard-0",
+        "claimed_at": "2026-11-10T17:07:41.458060+00:00",
+        "lease_expires_at": "2026-11-10T23:07:41.458060+00:00",
+        "run_id": "42823888331"
       }
     },
     "17928": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27423356",
+        "display_name": "A Christmas Carol (2009) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:07:40.650630+00:00"
+      }
     },
     "3029": {
       "attempts": []
@@ -171025,5 +171036,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:07:38.526376+00:00"
+  "updated_at": "2026-11-10T17:07:42.240805+00:00"
 }
