@@ -27385,13 +27385,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-10T13:28:30.320429+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-10T14:06:37.470168+00:00"
         },
         {
@@ -27400,6 +27393,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-10T14:36:49.608381+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:07:40.655205+00:00"
         }
       ],
       "last_plan": {
@@ -27413,12 +27413,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
-      },
-      "claim": {
-        "worker_id": "d3e5be4f3f5a49dc87940ecdbd5f43fb-shard-0",
-        "claimed_at": "2026-11-10T15:07:37.000092+00:00",
-        "lease_expires_at": "2026-11-10T21:07:37.000092+00:00",
-        "run_id": "42823888331"
       }
     },
     "12333": {
@@ -28971,6 +28965,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "6316b426bf9c437497e90de41804f305-shard-0",
+        "claimed_at": "2026-11-10T15:07:40.098643+00:00",
+        "lease_expires_at": "2026-11-10T21:07:40.098643+00:00",
+        "run_id": "42823888331"
       }
     },
     "23584": {
@@ -47075,7 +47075,7 @@
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:36:53.833995+00:00"
+        "planned_at": "2026-11-10T15:07:40.301149+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -111030,7 +111030,7 @@
       "last_plan": {
         "source_id": "34721047",
         "display_name": "Pongo Calling 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:07:37.944777+00:00"
+        "planned_at": "2026-11-10T15:07:40.903273+00:00"
       }
     },
     "36797": {
@@ -167492,5 +167492,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:07:37.944794+00:00"
+  "updated_at": "2026-11-10T15:07:40.903290+00:00"
 }
