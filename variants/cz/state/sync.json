@@ -108690,7 +108690,7 @@
       "last_plan": {
         "source_id": "33436521",
         "display_name": "The Stress of Youth (Trápení) SD CZ Dabing",
-        "planned_at": "2026-11-10T14:31:08.558262+00:00"
+        "planned_at": "2026-11-10T15:02:07.411404+00:00"
       },
       "previous_target_id": "30983669",
       "prepared": {
@@ -108698,6 +108698,12 @@
         "size_bytes": 773073402,
         "prepared_at": "2026-11-10T14:31:12.854452+00:00",
         "relay_source_id": "33436521"
+      },
+      "claim": {
+        "worker_id": "3cd7698d26924606b2e6004b62933298-shard-0",
+        "claimed_at": "2026-11-10T15:02:08.200763+00:00",
+        "lease_expires_at": "2026-11-10T21:02:08.200763+00:00",
+        "run_id": "42823888331"
       }
     },
     "2670": {
@@ -110549,17 +110555,19 @@
       }
     },
     "30376": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713455",
+          "target_video_id": "30983901",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:02:08.884132+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713455",
         "display_name": "Legend of Love SD CZ Dabing",
         "planned_at": "2026-11-10T15:01:22.713355+00:00"
-      },
-      "claim": {
-        "worker_id": "3a5ff35dab4147ceaa2a3913f8a58ce2-shard-0",
-        "claimed_at": "2026-11-10T15:01:23.615086+00:00",
-        "lease_expires_at": "2026-11-10T21:01:23.615086+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983901",
       "prepared": {
@@ -110594,7 +110602,12 @@
       }
     },
     "24472": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32946550",
+        "display_name": "Fourteen at the Table (Čtrnáctý u stolu) SD CZ Dabing",
+        "planned_at": "2026-11-10T15:02:07.777918+00:00"
+      }
     },
     "27304": {
       "attempts": []
@@ -167139,5 +167152,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:02:04.904951+00:00"
+  "updated_at": "2026-11-10T15:02:08.884155+00:00"
 }
