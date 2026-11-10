@@ -118471,17 +118471,19 @@
       "attempts": []
     },
     "2513": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31005098",
+          "target_video_id": "30984974",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:25:18.692185+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31005098",
         "display_name": "Saturday Night 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:24:33.955564+00:00"
-      },
-      "claim": {
-        "worker_id": "9d57989ac1344825984029f2a532694d-shard-0",
-        "claimed_at": "2026-11-10T18:24:35.930375+00:00",
-        "lease_expires_at": "2026-11-11T00:24:35.930375+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984974",
       "prepared": {
@@ -174300,5 +174302,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:25:17.095579+00:00"
+  "updated_at": "2026-11-10T18:25:18.692203+00:00"
 }
