@@ -109685,13 +109685,6 @@
           "source_id": "34634766",
           "target_video_id": "30983705",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:19:32.521834+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34634766",
-          "target_video_id": "30983705",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:50:09.458165+00:00"
         },
         {
@@ -109700,6 +109693,13 @@
           "target_video_id": "30983705",
           "permanent": false,
           "attempted_at": "2026-11-10T19:22:21.430486+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34634766",
+          "target_video_id": "30983705",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:55:17.435123+00:00"
         }
       ],
       "last_plan": {
@@ -109713,12 +109713,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:37:39.488454+00:00",
         "relay_source_id": "34634766"
-      },
-      "claim": {
-        "worker_id": "7e99553b49804581be08cd5d0acf3cc7-shard-0",
-        "claimed_at": "2026-11-10T19:55:13.984425+00:00",
-        "lease_expires_at": "2026-11-11T01:55:13.984425+00:00",
-        "run_id": "42864255663"
       }
     },
     "34717": {
@@ -119142,7 +119136,7 @@
       "last_plan": {
         "source_id": "17259873",
         "display_name": "The Crucible 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:22:22.009621+00:00"
+        "planned_at": "2026-11-10T19:55:16.635045+00:00"
       },
       "previous_target_id": "30984958",
       "prepared": {
@@ -119150,6 +119144,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T18:18:51.986839+00:00",
         "relay_source_id": "17259873"
+      },
+      "claim": {
+        "worker_id": "1a46b9cbb93846a5a7781bfd6f341d3b-shard-0",
+        "claimed_at": "2026-11-10T19:55:17.235519+00:00",
+        "lease_expires_at": "2026-11-11T01:55:17.235519+00:00",
+        "run_id": "42864255663"
       }
     },
     "2794": {
@@ -122180,7 +122180,7 @@
       "last_plan": {
         "source_id": "9868166",
         "display_name": "The Vanishing of Sidney Hall 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:55:13.661263+00:00"
+        "planned_at": "2026-11-10T19:55:16.915464+00:00"
       }
     },
     "26269": {
@@ -177578,5 +177578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:55:14.718225+00:00"
+  "updated_at": "2026-11-10T19:55:17.435141+00:00"
 }
