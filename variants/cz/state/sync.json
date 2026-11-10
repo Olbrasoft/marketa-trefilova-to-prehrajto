@@ -104171,17 +104171,19 @@
       "attempts": []
     },
     "11713": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27667030",
+          "reason": "Source detail has no authenticated download link; source_id=27667030",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:07.366648+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27667030",
         "display_name": "Why? (Proč?) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:14:02.227330+00:00"
-      },
-      "claim": {
-        "worker_id": "e97d4402fc8c40cfa474851573779741-shard-0",
-        "claimed_at": "2026-11-10T10:14:02.928982+00:00",
-        "lease_expires_at": "2026-11-10T16:14:02.928982+00:00",
-        "run_id": "42790251611"
       }
     },
     "30889": {
@@ -162037,5 +162039,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:05.461211+00:00"
+  "updated_at": "2026-11-10T10:14:07.366667+00:00"
 }
