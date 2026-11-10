@@ -110214,7 +110214,7 @@
       "last_plan": {
         "source_id": "32367221",
         "display_name": "Oznamuje se láskám vasim (Oznamuje se láskám vašim) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:53:01.329139+00:00"
+        "planned_at": "2026-11-10T17:23:16.904939+00:00"
       },
       "previous_target_id": "30983754",
       "prepared": {
@@ -110222,6 +110222,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T14:44:13.701234+00:00",
         "relay_source_id": "32367221"
+      },
+      "claim": {
+        "worker_id": "b2f5be08c3794f389bc4b94b5b5b7479-shard-0",
+        "claimed_at": "2026-11-10T17:23:17.691043+00:00",
+        "lease_expires_at": "2026-11-10T23:23:17.691043+00:00",
+        "run_id": "42823888331"
       }
     },
     "16531": {
@@ -115521,17 +115527,19 @@
       }
     },
     "23336": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33767290",
+          "target_video_id": "30984707",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:23:18.321166+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767290",
         "display_name": "White Men Can't Jump 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:22:35.029729+00:00"
-      },
-      "claim": {
-        "worker_id": "0ed8386197f1425ab03c36f5d5ed834f-shard-0",
-        "claimed_at": "2026-11-10T17:22:37.044231+00:00",
-        "lease_expires_at": "2026-11-10T23:22:37.044231+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984707",
       "prepared": {
@@ -115567,7 +115575,7 @@
       "last_plan": {
         "source_id": "34190531",
         "display_name": "Christine (1983) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:23:10.543720+00:00"
+        "planned_at": "2026-11-10T17:23:17.253482+00:00"
       }
     },
     "2923": {
@@ -171684,5 +171692,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:23:12.187125+00:00"
+  "updated_at": "2026-11-10T17:23:18.321203+00:00"
 }
