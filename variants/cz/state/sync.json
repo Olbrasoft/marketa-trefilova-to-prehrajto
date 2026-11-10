@@ -121922,7 +121922,7 @@
       "last_plan": {
         "source_id": "12796812",
         "display_name": "T-34 (Т-34) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:28:22.101941+00:00"
+        "planned_at": "2026-11-10T20:59:23.969760+00:00"
       },
       "previous_target_id": "30985447",
       "prepared": {
@@ -123220,17 +123220,19 @@
       "attempts": []
     },
     "21814": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32499158",
+          "target_video_id": "30985645",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:59:24.191025+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32499158",
         "display_name": "Khartoum 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:58:23.985453+00:00"
-      },
-      "claim": {
-        "worker_id": "61c7d441a5724deba4efab6af8348fc0-shard-0",
-        "claimed_at": "2026-11-10T20:58:24.789056+00:00",
-        "lease_expires_at": "2026-11-11T02:58:24.789056+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985645",
       "prepared": {
@@ -178505,5 +178507,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:59:21.961454+00:00"
+  "updated_at": "2026-11-10T20:59:24.191059+00:00"
 }
