@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-10T06:11:36.149648+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-10T06:47:26.731773+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-10T07:20:02.111437+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:57:11.609053+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "d5e728ba03244e9f8ba849cf256a16c1-shard-0",
-        "claimed_at": "2026-11-10T07:57:08.446558+00:00",
-        "lease_expires_at": "2026-11-10T13:57:08.446558+00:00",
-        "run_id": "42761712557"
       }
     },
     "54": {
@@ -1084,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-10T07:20:03.940217+00:00"
+        "planned_at": "2026-11-10T07:57:10.527313+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1092,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "565575b59bb7446ab50e66963d1de6ad-shard-0",
+        "claimed_at": "2026-11-10T07:57:11.103647+00:00",
+        "lease_expires_at": "2026-11-10T13:57:11.103647+00:00",
+        "run_id": "42761712557"
       }
     },
     "52": {
@@ -101420,7 +101420,7 @@
       "last_plan": {
         "source_id": "34904643",
         "display_name": "Here The Whole Time 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:57:07.966916+00:00"
+        "planned_at": "2026-11-10T07:57:10.759060+00:00"
       }
     },
     "1836": {
@@ -160062,5 +160062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:57:08.446581+00:00"
+  "updated_at": "2026-11-10T07:57:11.609073+00:00"
 }
