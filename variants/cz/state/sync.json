@@ -99621,11 +99621,19 @@
       "attempts": []
     },
     "12973": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34888404",
+          "reason": "Request failed for https://sdilej.cz/34888404/kytice-2000-1080p-h264-5.1-cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:53:21.957163+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34888404",
         "display_name": "Wild Flowers (Kytice) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T03:52:31.662675+00:00"
+        "planned_at": "2026-11-10T03:52:35.221333+00:00"
       }
     },
     "23274": {
@@ -158621,5 +158629,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:52:33.392452+00:00"
+  "updated_at": "2026-11-10T03:53:21.957179+00:00"
 }
