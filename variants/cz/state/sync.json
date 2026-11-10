@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:34:31.019011+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:08:08.822173+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-10T17:38:16.650500+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:12:32.551206+00:00"
         }
       ],
       "last_plan": {
@@ -111762,7 +111762,7 @@
       "last_plan": {
         "source_id": "28689669",
         "display_name": "Od zítřka nečaruji (No Magic from Tomorrow) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:38:14.754958+00:00"
+        "planned_at": "2026-11-10T18:12:30.962879+00:00"
       },
       "previous_target_id": "30983852",
       "prepared": {
@@ -111770,6 +111770,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T14:59:51.629242+00:00",
         "relay_source_id": "28689669"
+      },
+      "claim": {
+        "worker_id": "90ab1022636d4f3f9d8920d9e369961b-shard-0",
+        "claimed_at": "2026-11-10T18:12:31.785959+00:00",
+        "lease_expires_at": "2026-11-11T00:12:31.785959+00:00",
+        "run_id": "42864255663"
       }
     },
     "23936": {
@@ -117777,11 +117783,22 @@
       "last_plan": {
         "source_id": "27601666",
         "display_name": "The Skeleton Twins SD CZ Dabing",
-        "planned_at": "2026-11-10T18:12:28.255540+00:00"
+        "planned_at": "2026-11-10T18:12:31.219613+00:00"
+      },
+      "claim": {
+        "worker_id": "d0ea648974d24d63829b0c470dc3dabf-shard-0",
+        "claimed_at": "2026-11-10T18:12:31.933588+00:00",
+        "lease_expires_at": "2026-11-11T00:12:31.933588+00:00",
+        "run_id": "42864255663"
       }
     },
     "33419": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35279557",
+        "display_name": "Can't Buy Me Love 720p CZ Dabing",
+        "planned_at": "2026-11-10T18:12:31.416781+00:00"
+      }
     },
     "15033": {
       "attempts": []
@@ -173615,5 +173632,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:12:28.798724+00:00"
+  "updated_at": "2026-11-10T18:12:32.551224+00:00"
 }
