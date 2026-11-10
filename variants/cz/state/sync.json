@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-10T10:31:25.983640+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-10T11:14:28.295761+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-10T11:45:12.487778+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:20:35.875824+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "7e03036c34484cd9a7224f1dcd8aa865-shard-0",
-        "claimed_at": "2026-11-10T12:20:31.942593+00:00",
-        "lease_expires_at": "2026-11-10T18:20:31.942593+00:00",
-        "run_id": "42790251611"
       }
     },
     "54": {
@@ -1084,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-10T11:45:16.589520+00:00"
+        "planned_at": "2026-11-10T12:20:35.617450+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -105825,7 +105819,7 @@
       "last_plan": {
         "source_id": "29815287",
         "display_name": "Shogun's Shadow (将軍家光の乱心 激突) SD CZ Dabing",
-        "planned_at": "2026-11-10T12:20:29.602877+00:00"
+        "planned_at": "2026-11-10T12:20:36.176158+00:00"
       }
     },
     "30366": {
@@ -105835,7 +105829,12 @@
       "attempts": []
     },
     "35350": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30303747",
+        "display_name": "Les Compagnons de la Marguerite SD CZ Dabing",
+        "planned_at": "2026-11-10T12:20:36.348733+00:00"
+      }
     },
     "11919": {
       "attempts": []
@@ -163259,5 +163258,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:20:31.942617+00:00"
+  "updated_at": "2026-11-10T12:20:36.348750+00:00"
 }
