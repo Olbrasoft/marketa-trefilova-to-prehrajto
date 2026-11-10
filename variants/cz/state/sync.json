@@ -117432,6 +117432,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T17:44:31.464677+00:00",
         "relay_source_id": "33409005"
+      },
+      "claim": {
+        "worker_id": "341371b635c542169c40876f59f961f5-shard-0",
+        "claimed_at": "2026-11-10T23:28:32.963187+00:00",
+        "lease_expires_at": "2026-11-11T05:28:32.963187+00:00",
+        "run_id": "42904278669"
       }
     },
     "34177": {
@@ -123744,13 +123750,6 @@
           "source_id": "33771384",
           "target_video_id": "30985715",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:29:11.440353+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33771384",
-          "target_video_id": "30985715",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:04:42.500592+00:00"
         },
         {
@@ -123759,6 +123758,13 @@
           "target_video_id": "30985715",
           "permanent": false,
           "attempted_at": "2026-11-10T22:45:13.503505+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33771384",
+          "target_video_id": "30985715",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:28:32.781859+00:00"
         }
       ],
       "last_plan": {
@@ -123772,12 +123778,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T21:27:14.301159+00:00",
         "relay_source_id": "33771384"
-      },
-      "claim": {
-        "worker_id": "1c16e2f737f747978d2d484c3f4ebdc9-shard-0",
-        "claimed_at": "2026-11-10T23:28:28.321697+00:00",
-        "lease_expires_at": "2026-11-11T05:28:28.321697+00:00",
-        "run_id": "42904278669"
       }
     },
     "24812": {
@@ -125346,7 +125346,7 @@
       "last_plan": {
         "source_id": "31422476",
         "display_name": "The Brain (Le Cerveau) 4K CZ Dabing",
-        "planned_at": "2026-11-10T22:35:39.998768+00:00"
+        "planned_at": "2026-11-10T23:28:33.184598+00:00"
       },
       "previous_target_id": "30985924",
       "prepared": {
@@ -125506,7 +125506,7 @@
       "last_plan": {
         "source_id": "6506542",
         "display_name": "Play Dirty (1969) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:28:30.919834+00:00"
+        "planned_at": "2026-11-10T23:28:33.503168+00:00"
       }
     },
     "17171": {
@@ -180358,5 +180358,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:28:30.919852+00:00"
+  "updated_at": "2026-11-10T23:28:33.503188+00:00"
 }
