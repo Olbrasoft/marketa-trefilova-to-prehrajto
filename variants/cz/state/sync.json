@@ -103152,17 +103152,19 @@
       }
     },
     "16834": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31178117",
+          "reason": "Source detail has no authenticated download link; source_id=31178117",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:10:20.900944+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31178117",
         "display_name": "The Etruscan Smile 720p CZ Dabing",
         "planned_at": "2026-11-10T10:10:14.495089+00:00"
-      },
-      "claim": {
-        "worker_id": "4275cd0bb61b478c9d7035c6bc6cdbb1-shard-0",
-        "claimed_at": "2026-11-10T10:10:15.233056+00:00",
-        "lease_expires_at": "2026-11-10T16:10:15.233056+00:00",
-        "run_id": "42790251611"
       }
     },
     "1897": {
@@ -161309,5 +161311,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:10:19.086030+00:00"
+  "updated_at": "2026-11-10T10:10:20.900965+00:00"
 }
