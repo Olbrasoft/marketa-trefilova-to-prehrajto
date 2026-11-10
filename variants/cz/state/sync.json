@@ -108288,17 +108288,19 @@
       }
     },
     "2670": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9978707",
+          "target_video_id": "30983670",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:32:52.526765+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9978707",
         "display_name": "The House (Dom) (2011) SD CZ Dabing",
         "planned_at": "2026-11-10T14:31:16.377103+00:00"
-      },
-      "claim": {
-        "worker_id": "4a7f570ac0f84ab48038237e27e83db7-shard-0",
-        "claimed_at": "2026-11-10T14:31:16.770365+00:00",
-        "lease_expires_at": "2026-11-10T20:31:16.770365+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983670",
       "prepared": {
@@ -165318,5 +165320,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:32:04.432612+00:00"
+  "updated_at": "2026-11-10T14:32:52.526781+00:00"
 }
