@@ -103290,17 +103290,19 @@
       }
     },
     "22551": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33746604",
+          "reason": "Source detail has no authenticated download link; source_id=33746604",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:10:56.904195+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33746604",
         "display_name": "Choice of Arms 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:10:52.374056+00:00"
-      },
-      "claim": {
-        "worker_id": "85965debbe254e05bce6993b951d85e4-shard-0",
-        "claimed_at": "2026-11-10T10:10:53.082194+00:00",
-        "lease_expires_at": "2026-11-10T16:10:53.082194+00:00",
-        "run_id": "42790251611"
       }
     },
     "17010": {
@@ -161426,5 +161428,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:10:55.225786+00:00"
+  "updated_at": "2026-11-10T10:10:56.904214+00:00"
 }
