@@ -109014,13 +109014,6 @@
           "source_id": "9978707",
           "target_video_id": "30983670",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:09:27.532776+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9978707",
-          "target_video_id": "30983670",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:39:34.447849+00:00"
         },
         {
@@ -109029,6 +109022,13 @@
           "target_video_id": "30983670",
           "permanent": false,
           "attempted_at": "2026-11-10T18:13:42.943095+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9978707",
+          "target_video_id": "30983670",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:44:39.033542+00:00"
         }
       ],
       "last_plan": {
@@ -116791,7 +116791,7 @@
       "last_plan": {
         "source_id": "35331022",
         "display_name": "Stripes 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:13:43.127129+00:00"
+        "planned_at": "2026-11-10T18:44:37.670124+00:00"
       },
       "previous_target_id": "30984777",
       "prepared": {
@@ -116799,6 +116799,12 @@
         "size_bytes": 9400000000,
         "prepared_at": "2026-11-10T17:39:02.793712+00:00",
         "relay_source_id": "35331022"
+      },
+      "claim": {
+        "worker_id": "b1abc19b9441460fa2c350b5d8b5814d-shard-0",
+        "claimed_at": "2026-11-10T18:44:38.295320+00:00",
+        "lease_expires_at": "2026-11-11T00:44:38.295320+00:00",
+        "run_id": "42864255663"
       }
     },
     "13250": {
@@ -119720,7 +119726,7 @@
       "last_plan": {
         "source_id": "33730801",
         "display_name": "River's Edge 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:44:35.541519+00:00"
+        "planned_at": "2026-11-10T18:44:37.926917+00:00"
       }
     },
     "11205": {
@@ -175362,5 +175368,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:44:35.839714+00:00"
+  "updated_at": "2026-11-10T18:44:39.033560+00:00"
 }
