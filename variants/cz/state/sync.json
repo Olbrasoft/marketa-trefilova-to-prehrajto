@@ -111628,13 +111628,6 @@
           "source_id": "25728131",
           "target_video_id": "30983845",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:07:03.816882+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25728131",
-          "target_video_id": "30983845",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:37:08.739047+00:00"
         },
         {
@@ -111643,6 +111636,13 @@
           "target_video_id": "30983845",
           "permanent": false,
           "attempted_at": "2026-11-10T18:11:36.751385+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25728131",
+          "target_video_id": "30983845",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:42:24.324647+00:00"
         }
       ],
       "last_plan": {
@@ -111685,7 +111685,7 @@
       "last_plan": {
         "source_id": "34877929",
         "display_name": "The Last Rose from Casanova (Poslední růže od Casanovy) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:11:36.168327+00:00"
+        "planned_at": "2026-11-10T18:42:23.088197+00:00"
       },
       "previous_target_id": "30983846",
       "prepared": {
@@ -111693,6 +111693,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T14:59:01.798607+00:00",
         "relay_source_id": "34877929"
+      },
+      "claim": {
+        "worker_id": "64968ec4791845b48cd288b3a40d6b84-shard-0",
+        "claimed_at": "2026-11-10T18:42:23.731171+00:00",
+        "lease_expires_at": "2026-11-11T00:42:23.731171+00:00",
+        "run_id": "42864255663"
       }
     },
     "13198": {
@@ -119633,7 +119639,7 @@
       "last_plan": {
         "source_id": "28773140",
         "display_name": "The Upside of Anger 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:42:21.249969+00:00"
+        "planned_at": "2026-11-10T18:42:23.363012+00:00"
       }
     },
     "2950": {
@@ -175287,5 +175293,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:42:21.249985+00:00"
+  "updated_at": "2026-11-10T18:42:24.324663+00:00"
 }
