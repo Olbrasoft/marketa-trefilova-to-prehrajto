@@ -119374,17 +119374,19 @@
       }
     },
     "2882": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23806861",
+          "target_video_id": "30985032",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:38:29.715358+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23806861",
         "display_name": "Athena 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:37:45.736518+00:00"
-      },
-      "claim": {
-        "worker_id": "07f98566b286446cbe36e6812c1740c3-shard-0",
-        "claimed_at": "2026-11-10T18:37:46.718766+00:00",
-        "lease_expires_at": "2026-11-11T00:37:46.718766+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985032",
       "prepared": {
@@ -175092,5 +175094,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:38:28.084174+00:00"
+  "updated_at": "2026-11-10T18:38:29.715375+00:00"
 }
