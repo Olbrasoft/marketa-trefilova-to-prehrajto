@@ -113156,6 +113156,13 @@
           "target_video_id": "30984104",
           "permanent": false,
           "attempted_at": "2026-11-10T15:28:10.782508+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16147077",
+          "target_video_id": "30984104",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:00:20.083484+00:00"
         }
       ],
       "last_plan": {
@@ -113166,7 +113173,7 @@
       "previous_target_id": "30984104",
       "prepared": {
         "target_video_id": "30984104",
-        "size_bytes": 2426317480,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:27:35.431465+00:00",
         "relay_source_id": "16147077"
       }
@@ -113200,7 +113207,7 @@
       "last_plan": {
         "source_id": "26231939",
         "display_name": "It Follows 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:27:41.549712+00:00"
+        "planned_at": "2026-11-10T16:00:18.607522+00:00"
       },
       "previous_target_id": "30984106",
       "prepared": {
@@ -113208,6 +113215,12 @@
         "size_bytes": 2121778526,
         "prepared_at": "2026-11-10T15:27:45.463085+00:00",
         "relay_source_id": "26231939"
+      },
+      "claim": {
+        "worker_id": "15857896ee9149cea325cc5ebc9db8dc-shard-0",
+        "claimed_at": "2026-11-10T16:00:19.507714+00:00",
+        "lease_expires_at": "2026-11-10T22:00:19.507714+00:00",
+        "run_id": "42823888331"
       }
     },
     "2963": {
@@ -113648,7 +113661,7 @@
       "last_plan": {
         "source_id": "31650158",
         "display_name": "Cruel Intentions 4K CZ Dabing",
-        "planned_at": "2026-11-10T16:00:16.288382+00:00"
+        "planned_at": "2026-11-10T16:00:18.916599+00:00"
       }
     },
     "3155": {
@@ -169927,5 +169940,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:00:16.561475+00:00"
+  "updated_at": "2026-11-10T16:00:20.083502+00:00"
 }
