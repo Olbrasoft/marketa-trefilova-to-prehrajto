@@ -53789,6 +53789,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-04T06:13:57.574294+00:00",
         "relay_source_id": "33925810"
+      },
+      "claim": {
+        "worker_id": "bb5810f1043f4f1a9ffecf50c6ef57d7-shard-0",
+        "claimed_at": "2026-11-10T22:07:46.857777+00:00",
+        "lease_expires_at": "2026-11-11T04:07:46.857777+00:00",
+        "run_id": "42864255663"
       }
     },
     "1790": {
@@ -119099,7 +119105,7 @@
       "last_plan": {
         "source_id": "25411027",
         "display_name": "Anonymous SD CZ Dabing",
-        "planned_at": "2026-11-10T21:33:51.555639+00:00"
+        "planned_at": "2026-11-10T22:07:47.216556+00:00"
       },
       "previous_target_id": "30984957",
       "prepared": {
@@ -119107,6 +119113,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T18:18:25.279371+00:00",
         "relay_source_id": "25411027"
+      },
+      "claim": {
+        "worker_id": "58c58b02404d4d49a189a31083e638b2-shard-0",
+        "claimed_at": "2026-11-10T22:07:47.917349+00:00",
+        "lease_expires_at": "2026-11-11T04:07:47.917349+00:00",
+        "run_id": "42864255663"
       }
     },
     "23690": {
@@ -124428,7 +124440,15 @@
       "attempts": []
     },
     "14041": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34773704",
+          "reason": "Request failed for https://sdilej.cz/34773704/mladi-titani-do-toho-vs.-mladi-titani-2019-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:07:48.158148+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34773704",
         "display_name": "Teen Titans Go! vs. Teen Titans 1080p CZ Dabing",
@@ -124440,7 +124460,7 @@
       "last_plan": {
         "source_id": "24613759",
         "display_name": "The Royal Game (Schachnovelle) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:07:45.246696+00:00"
+        "planned_at": "2026-11-10T22:07:47.521045+00:00"
       }
     },
     "25908": {
@@ -179454,5 +179474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:07:45.246713+00:00"
+  "updated_at": "2026-11-10T22:07:48.158163+00:00"
 }
