@@ -113790,13 +113790,6 @@
           "source_id": "28852151",
           "target_video_id": "30984134",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:04:27.263054+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28852151",
-          "target_video_id": "30984134",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:36:06.121041+00:00"
         },
         {
@@ -113805,12 +113798,19 @@
           "target_video_id": "30984134",
           "permanent": false,
           "attempted_at": "2026-11-10T17:09:38.239877+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28852151",
+          "target_video_id": "30984134",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:39:45.151820+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28852151",
         "display_name": "21 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:09:35.729537+00:00"
+        "planned_at": "2026-11-10T17:39:42.955940+00:00"
       },
       "previous_target_id": "30984134",
       "prepared": {
@@ -116106,7 +116106,13 @@
       "last_plan": {
         "source_id": "28400163",
         "display_name": "Mr. Peabody & Sherman 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:39:36.307418+00:00"
+        "planned_at": "2026-11-10T17:39:43.278699+00:00"
+      },
+      "claim": {
+        "worker_id": "106030ac551c4550a9e18126d16360c9-shard-0",
+        "claimed_at": "2026-11-10T17:39:44.043455+00:00",
+        "lease_expires_at": "2026-11-10T23:39:44.043455+00:00",
+        "run_id": "42823888331"
       }
     },
     "33070": {
@@ -116119,7 +116125,12 @@
       "attempts": []
     },
     "2799": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33668270",
+        "display_name": "Bringing Out the Dead 4K CZ Dabing",
+        "planned_at": "2026-11-10T17:39:43.458811+00:00"
+      }
     },
     "31560": {
       "attempts": []
@@ -172163,5 +172174,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:39:39.823236+00:00"
+  "updated_at": "2026-11-10T17:39:45.151843+00:00"
 }
