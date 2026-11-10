@@ -27319,13 +27319,6 @@
           "source_id": "29719575",
           "target_video_id": "30714314",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:37:19.276151+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29719575",
-          "target_video_id": "30714314",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:13:55.375523+00:00"
         },
         {
@@ -27334,12 +27327,19 @@
           "target_video_id": "30714314",
           "permanent": false,
           "attempted_at": "2026-11-10T22:53:38.215023+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29719575",
+          "target_video_id": "30714314",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:37:29.543928+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29719575",
         "display_name": "Inside Out 2 4K CZ Dabing",
-        "planned_at": "2026-11-10T22:53:35.748525+00:00"
+        "planned_at": "2026-11-10T23:37:26.938956+00:00"
       },
       "previous_target_id": "30714314",
       "prepared": {
@@ -125664,7 +125664,13 @@
       "last_plan": {
         "source_id": "35401165",
         "display_name": "Murina 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:37:17.837919+00:00"
+        "planned_at": "2026-11-10T23:37:27.256068+00:00"
+      },
+      "claim": {
+        "worker_id": "8b78ec67d2b44144b80d5e835f545e38-shard-0",
+        "claimed_at": "2026-11-10T23:37:28.202877+00:00",
+        "lease_expires_at": "2026-11-11T05:37:28.202877+00:00",
+        "run_id": "42904278669"
       }
     },
     "37377": {
@@ -125675,11 +125681,22 @@
       "last_plan": {
         "source_id": "34502876",
         "display_name": "Exodus (2023) 720p CZ Dabing",
-        "planned_at": "2026-11-10T23:36:34.651500+00:00"
+        "planned_at": "2026-11-10T23:37:27.446510+00:00"
+      },
+      "claim": {
+        "worker_id": "b2bf7b9574c54598ad57f6cb9f6362bb-shard-0",
+        "claimed_at": "2026-11-10T23:37:28.392427+00:00",
+        "lease_expires_at": "2026-11-11T05:37:28.392427+00:00",
+        "run_id": "42904278669"
       }
     },
     "27379": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "8355120",
+        "display_name": "Scooby-Doo! Abracadabra-Doo SD CZ Dabing",
+        "planned_at": "2026-11-10T23:37:27.631037+00:00"
+      }
     },
     "19403": {
       "attempts": []
@@ -180479,5 +180496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:37:23.121973+00:00"
+  "updated_at": "2026-11-10T23:37:29.543948+00:00"
 }
