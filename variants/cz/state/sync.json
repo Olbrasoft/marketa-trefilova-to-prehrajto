@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-10T10:31:05.524518+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-10T11:14:10.687640+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-10T11:44:58.412038+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:20:27.364520+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "3634c6bd2663416997b2f046ea0cb515-shard-0",
-        "claimed_at": "2026-11-10T12:20:23.470220+00:00",
-        "lease_expires_at": "2026-11-10T18:20:23.470220+00:00",
-        "run_id": "42790251611"
       }
     },
     "10755": {
@@ -14024,7 +14018,7 @@
       "last_plan": {
         "source_id": "18888145",
         "display_name": "The Outlaw Josey Wales 1080p CZ Dabing",
-        "planned_at": "2026-11-10T11:45:04.911663+00:00"
+        "planned_at": "2026-11-10T12:20:26.205063+00:00"
       },
       "previous_target_id": "30654220",
       "prepared": {
@@ -14032,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "2c8677d26a104cfe958bf2fdb71e9070-shard-0",
+        "claimed_at": "2026-11-10T12:20:27.052790+00:00",
+        "lease_expires_at": "2026-11-10T18:20:27.052790+00:00",
+        "run_id": "42790251611"
       }
     },
     "22047": {
@@ -17417,6 +17417,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "413e9788231a40438eca589664502089-shard-0",
+        "claimed_at": "2026-11-10T12:20:26.010433+00:00",
+        "lease_expires_at": "2026-11-10T18:20:26.010433+00:00",
+        "run_id": "42790251611"
       }
     },
     "23132": {
@@ -105825,7 +105831,7 @@
       "last_plan": {
         "source_id": "29815287",
         "display_name": "Shogun's Shadow (将軍家光の乱心 激突) SD CZ Dabing",
-        "planned_at": "2026-11-10T12:20:23.964354+00:00"
+        "planned_at": "2026-11-10T12:20:26.577027+00:00"
       }
     },
     "30366": {
@@ -163259,5 +163265,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:20:23.964372+00:00"
+  "updated_at": "2026-11-10T12:20:27.364542+00:00"
 }
