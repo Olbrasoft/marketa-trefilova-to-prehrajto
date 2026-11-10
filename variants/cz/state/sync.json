@@ -117134,17 +117134,19 @@
       }
     },
     "17739": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29278547",
+          "target_video_id": "30984864",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:58:17.481770+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29278547",
         "display_name": "Life (1999) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:57:31.372133+00:00"
-      },
-      "claim": {
-        "worker_id": "74fa160f3807417e84b9104385eaff1d-shard-0",
-        "claimed_at": "2026-11-10T17:57:32.070892+00:00",
-        "lease_expires_at": "2026-11-10T23:57:32.070892+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984864",
       "prepared": {
@@ -117176,7 +117178,18 @@
       }
     },
     "2985": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34651094",
+        "display_name": "Rendition 720p CZ Dabing",
+        "planned_at": "2026-11-10T17:58:15.929853+00:00"
+      },
+      "claim": {
+        "worker_id": "7ba71db4e7cd4fe285a96b1333e5dc74-shard-0",
+        "claimed_at": "2026-11-10T17:58:16.415679+00:00",
+        "lease_expires_at": "2026-11-10T23:58:16.415679+00:00",
+        "run_id": "42823888331"
+      }
     },
     "11942": {
       "attempts": []
@@ -173094,5 +173107,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:58:12.656157+00:00"
+  "updated_at": "2026-11-10T17:58:17.481787+00:00"
 }
