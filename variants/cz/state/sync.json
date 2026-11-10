@@ -99930,17 +99930,19 @@
       }
     },
     "11519": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26117612",
+          "target_video_id": "30961839",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:23:03.367049+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26117612",
         "display_name": "How Poets Are Losing Their Illusions (Jak básníci přicházejí o iluze) 4K CZ Dabing",
         "planned_at": "2026-11-10T04:06:16.583979+00:00"
-      },
-      "claim": {
-        "worker_id": "47a651f93300485e859680ebcc918720-shard-0",
-        "claimed_at": "2026-11-10T04:06:16.988534+00:00",
-        "lease_expires_at": "2026-11-10T10:06:16.988534+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30961839",
       "prepared": {
@@ -159051,5 +159053,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:02:27.506231+00:00"
+  "updated_at": "2026-11-10T05:23:03.367066+00:00"
 }
