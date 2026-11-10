@@ -109451,13 +109451,6 @@
           "source_id": "35067153",
           "target_video_id": "30983691",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:52:51.558545+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35067153",
-          "target_video_id": "30983691",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:25:24.087161+00:00"
         },
         {
@@ -109466,12 +109459,19 @@
           "target_video_id": "30983691",
           "permanent": false,
           "attempted_at": "2026-11-10T20:55:35.568714+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35067153",
+          "target_video_id": "30983691",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:30:08.707853+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35067153",
         "display_name": "Vertigo (Závrať) (1963) SD CZ Dabing",
-        "planned_at": "2026-11-10T20:55:30.116318+00:00"
+        "planned_at": "2026-11-10T21:30:04.689506+00:00"
       },
       "previous_target_id": "30983691",
       "prepared": {
@@ -123545,14 +123545,25 @@
       "last_plan": {
         "source_id": "32449094",
         "display_name": "The Four Seasons 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:29:57.661598+00:00"
+        "planned_at": "2026-11-10T21:30:05.007561+00:00"
+      },
+      "claim": {
+        "worker_id": "3f26393d32d34918bd3abf5214ee4759-shard-0",
+        "claimed_at": "2026-11-10T21:30:06.020929+00:00",
+        "lease_expires_at": "2026-11-11T03:30:06.020929+00:00",
+        "run_id": "42864255663"
       }
     },
     "28538": {
       "attempts": []
     },
     "16679": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "10827431",
+        "display_name": "Finding Your Feet 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:30:05.182872+00:00"
+      }
     },
     "21072": {
       "attempts": []
@@ -178739,5 +178750,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:30:00.458350+00:00"
+  "updated_at": "2026-11-10T21:30:08.707872+00:00"
 }
