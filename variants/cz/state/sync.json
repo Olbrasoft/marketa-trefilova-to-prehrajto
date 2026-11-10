@@ -108723,7 +108723,7 @@
       "last_plan": {
         "source_id": "31753593",
         "display_name": "Run, He Is Coming! (Utekajme, už ide!) SD CZ Dabing",
-        "planned_at": "2026-11-10T18:12:06.331671+00:00"
+        "planned_at": "2026-11-10T18:42:56.011205+00:00"
       },
       "previous_target_id": "30983629",
       "prepared": {
@@ -116675,6 +116675,13 @@
           "target_video_id": "30984762",
           "permanent": false,
           "attempted_at": "2026-11-10T18:12:08.486016+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20668639",
+          "target_video_id": "30984762",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:42:55.693182+00:00"
         }
       ],
       "last_plan": {
@@ -119615,17 +119622,19 @@
       }
     },
     "23142": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33745590",
+          "target_video_id": "30985055",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:42:56.294659+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33745590",
         "display_name": "Quick Change 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:42:12.063635+00:00"
-      },
-      "claim": {
-        "worker_id": "d7a71bdc1bb5429bb5c4f05fabb6fa91-shard-0",
-        "claimed_at": "2026-11-10T18:42:13.981534+00:00",
-        "lease_expires_at": "2026-11-11T00:42:13.981534+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985055",
       "prepared": {
@@ -175294,5 +175303,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:42:52.479195+00:00"
+  "updated_at": "2026-11-10T18:42:56.294673+00:00"
 }
