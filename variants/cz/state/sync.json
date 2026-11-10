@@ -106677,17 +106677,19 @@
       "attempts": []
     },
     "26509": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34709346",
+          "target_video_id": "30983103",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:52:20.804986+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34709346",
         "display_name": "Back to Chernobyl 1080p CZ Dabing",
         "planned_at": "2026-11-10T13:51:36.578402+00:00"
-      },
-      "claim": {
-        "worker_id": "690b25d9cebf43b0a8b5c0a5ee6b3c96-shard-0",
-        "claimed_at": "2026-11-10T13:51:37.052018+00:00",
-        "lease_expires_at": "2026-11-10T19:51:37.052018+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30983103",
       "prepared": {
@@ -163963,5 +163965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:52:19.090172+00:00"
+  "updated_at": "2026-11-10T13:52:20.805005+00:00"
 }
