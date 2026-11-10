@@ -122782,17 +122782,19 @@
       "attempts": []
     },
     "11557": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34674170",
+          "target_video_id": "30985583",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:33:30.285025+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674170",
         "display_name": "Asterix Versus Caesar (Astérix et la Surprise de César) 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:31:10.634276+00:00"
-      },
-      "claim": {
-        "worker_id": "a1fa45c11ccc4dbf9d8f35f1b8e1fd78-shard-0",
-        "claimed_at": "2026-11-10T20:31:11.624418+00:00",
-        "lease_expires_at": "2026-11-11T02:31:11.624418+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985583",
       "prepared": {
@@ -178139,5 +178141,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:33:28.692356+00:00"
+  "updated_at": "2026-11-10T20:33:30.285058+00:00"
 }
