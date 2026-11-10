@@ -117571,6 +117571,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T17:47:08.994456+00:00",
         "relay_source_id": "30138435"
+      },
+      "claim": {
+        "worker_id": "f1818123d8694f46b2c407160fa4bb13-shard-0",
+        "claimed_at": "2026-11-10T23:34:38.956488+00:00",
+        "lease_expires_at": "2026-11-11T05:34:38.956488+00:00",
+        "run_id": "42904278669"
       }
     },
     "24949": {
@@ -122903,7 +122909,7 @@
       "last_plan": {
         "source_id": "30317434",
         "display_name": "True Spirit 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:49:57.073592+00:00"
+        "planned_at": "2026-11-10T23:34:39.198435+00:00"
       },
       "previous_target_id": "30985560",
       "prepared": {
@@ -124901,6 +124907,13 @@
           "target_video_id": "30985832",
           "permanent": false,
           "attempted_at": "2026-11-10T22:49:48.462812+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "4983288",
+          "target_video_id": "30985832",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:34:39.958523+00:00"
         }
       ],
       "last_plan": {
@@ -124914,12 +124927,6 @@
         "size_bytes": 908800000,
         "prepared_at": "2026-11-10T22:08:23.706259+00:00",
         "relay_source_id": "4983288"
-      },
-      "claim": {
-        "worker_id": "c2fedc3fc12f463ba318ffc3ee8e75fb-shard-0",
-        "claimed_at": "2026-11-10T23:34:36.168964+00:00",
-        "lease_expires_at": "2026-11-11T05:34:36.168964+00:00",
-        "run_id": "42904278669"
       }
     },
     "22024": {
@@ -125640,7 +125647,7 @@
       "last_plan": {
         "source_id": "12859228",
         "display_name": "Man in the Wilderness 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:34:36.717657+00:00"
+        "planned_at": "2026-11-10T23:34:39.509849+00:00"
       }
     },
     "17403": {
@@ -180453,5 +180460,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:34:37.005791+00:00"
+  "updated_at": "2026-11-10T23:34:39.958546+00:00"
 }
