@@ -81542,13 +81542,6 @@
           "source_id": "32457622",
           "target_video_id": "30903267",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:06:46.684004+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32457622",
-          "target_video_id": "30903267",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:36:59.097680+00:00"
         },
         {
@@ -81557,6 +81550,13 @@
           "target_video_id": "30903267",
           "permanent": false,
           "attempted_at": "2026-11-10T18:11:27.886176+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32457622",
+          "target_video_id": "30903267",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:42:09.397689+00:00"
         }
       ],
       "last_plan": {
@@ -81570,12 +81570,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-08T01:03:53.007664+00:00",
         "relay_source_id": "32457622"
-      },
-      "claim": {
-        "worker_id": "2a4ec2fcfa864dbf8537bd3020320922-shard-0",
-        "claimed_at": "2026-11-10T18:42:06.848761+00:00",
-        "lease_expires_at": "2026-11-11T00:42:06.848761+00:00",
-        "run_id": "42864255663"
       }
     },
     "13134": {
@@ -119568,17 +119562,19 @@
       }
     },
     "18768": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34392768",
+          "target_video_id": "30985051",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:42:09.546332+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34392768",
         "display_name": "A Perfect Day 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:40:35.837284+00:00"
-      },
-      "claim": {
-        "worker_id": "5df2c3fe9daa4ca3acb16053ce3dfc2c-shard-0",
-        "claimed_at": "2026-11-10T18:40:36.459820+00:00",
-        "lease_expires_at": "2026-11-11T00:40:36.459820+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985051",
       "prepared": {
@@ -175273,5 +175269,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:42:07.851865+00:00"
+  "updated_at": "2026-11-10T18:42:09.546352+00:00"
 }
