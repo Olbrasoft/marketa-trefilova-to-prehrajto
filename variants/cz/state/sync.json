@@ -105180,17 +105180,19 @@
       }
     },
     "10777": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32085904",
+          "reason": "Source detail has no authenticated download link; source_id=32085904",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:36.479379+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32085904",
         "display_name": "Tri prání (Tři přání) SD CZ Dabing",
         "planned_at": "2026-11-10T10:17:31.409243+00:00"
-      },
-      "claim": {
-        "worker_id": "438606feec8c486197d36b48d3d5dd40-shard-0",
-        "claimed_at": "2026-11-10T10:17:31.935170+00:00",
-        "lease_expires_at": "2026-11-10T16:17:31.935170+00:00",
-        "run_id": "42790251611"
       }
     },
     "14646": {
@@ -162752,5 +162754,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:34.881496+00:00"
+  "updated_at": "2026-11-10T10:17:36.479398+00:00"
 }
