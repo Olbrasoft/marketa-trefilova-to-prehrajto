@@ -100106,17 +100106,19 @@
       }
     },
     "13993": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30613866",
+          "target_video_id": "30963938",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:26:28.006510+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30613866",
         "display_name": "The Man Who Sold His Skin (الرجل الذي باع ظهره) 1080p CZ Dabing",
         "planned_at": "2026-11-10T05:02:09.498607+00:00"
-      },
-      "claim": {
-        "worker_id": "cdcbd743e63d4b33a0bc1e8265bf840f-shard-0",
-        "claimed_at": "2026-11-10T05:02:09.896639+00:00",
-        "lease_expires_at": "2026-11-10T11:02:09.896639+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30963938",
       "prepared": {
@@ -159053,5 +159055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:23:03.367066+00:00"
+  "updated_at": "2026-11-10T05:26:28.006522+00:00"
 }
