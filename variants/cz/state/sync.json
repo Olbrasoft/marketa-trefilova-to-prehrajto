@@ -107832,17 +107832,19 @@
       }
     },
     "31848": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35095666",
+          "target_video_id": "30983616",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:23:09.853170+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35095666",
         "display_name": "Swingtime 720p CZ Dabing",
         "planned_at": "2026-11-10T14:22:19.037979+00:00"
-      },
-      "claim": {
-        "worker_id": "ff4a229fbfa744feb8b876f40f99511f-shard-0",
-        "claimed_at": "2026-11-10T14:22:19.570467+00:00",
-        "lease_expires_at": "2026-11-10T20:22:19.570467+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983616",
       "prepared": {
@@ -164920,5 +164922,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:22:47.500829+00:00"
+  "updated_at": "2026-11-10T14:23:09.853199+00:00"
 }
