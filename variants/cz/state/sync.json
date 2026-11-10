@@ -106409,10 +106409,28 @@
         "claimed_at": "2026-11-10T13:19:51.123559+00:00",
         "lease_expires_at": "2026-11-10T19:19:51.123559+00:00",
         "run_id": "42790251611"
+      },
+      "previous_target_id": "30981794",
+      "prepared": {
+        "target_video_id": "30981794",
+        "size_bytes": 1788707922,
+        "prepared_at": "2026-11-10T13:19:56.645605+00:00",
+        "relay_source_id": "30581817"
       }
     },
     "11343": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34490578",
+        "display_name": "The Sword (名劍) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T13:19:54.105454+00:00"
+      },
+      "claim": {
+        "worker_id": "0a241cd9e12c455ab97ea741e947fe0a-shard-0",
+        "claimed_at": "2026-11-10T13:19:54.498124+00:00",
+        "lease_expires_at": "2026-11-10T19:19:54.498124+00:00",
+        "run_id": "42790251611"
+      }
     },
     "21589": {
       "attempts": []
@@ -163740,5 +163758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:19:51.677618+00:00"
+  "updated_at": "2026-11-10T13:19:56.645622+00:00"
 }
