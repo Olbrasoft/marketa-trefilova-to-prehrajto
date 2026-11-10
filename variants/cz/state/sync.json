@@ -99275,11 +99275,19 @@
       }
     },
     "11937": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11798323",
+          "reason": "Request failed for https://sdilej.cz/11798323/trans.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:16:17.141738+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11798323",
         "display_name": "Uranus 1080p CZ Dabing",
-        "planned_at": "2026-11-10T03:15:26.449443+00:00"
+        "planned_at": "2026-11-10T03:15:30.384199+00:00"
       }
     },
     "1909": {
@@ -158344,5 +158352,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:15:26.449461+00:00"
+  "updated_at": "2026-11-10T03:16:17.141754+00:00"
 }
