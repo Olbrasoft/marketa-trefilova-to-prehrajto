@@ -98888,17 +98888,19 @@
       }
     },
     "21998": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26290925",
+          "target_video_id": "30959157",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:09:01.094347+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26290925",
         "display_name": "Chisum 1080p CZ Dabing",
         "planned_at": "2026-11-10T02:01:31.428392+00:00"
-      },
-      "claim": {
-        "worker_id": "2c5d214efc214695ba260d7138869a22-shard-0",
-        "claimed_at": "2026-11-10T02:01:33.286599+00:00",
-        "lease_expires_at": "2026-11-10T08:01:33.286599+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30959157",
       "prepared": {
@@ -158051,5 +158053,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T02:01:39.853244+00:00"
+  "updated_at": "2026-11-10T02:09:01.094365+00:00"
 }
