@@ -117019,17 +117019,19 @@
       }
     },
     "25139": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27358348",
+          "target_video_id": "30984858",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:57:13.001395+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27358348",
         "display_name": "I'm Not There 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:56:29.453674+00:00"
-      },
-      "claim": {
-        "worker_id": "1138aeb76cd642c9ba5b5d632aa1d358-shard-0",
-        "claimed_at": "2026-11-10T17:56:31.742676+00:00",
-        "lease_expires_at": "2026-11-10T23:56:31.742676+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984858",
       "prepared": {
@@ -173012,5 +173014,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:56:45.657464+00:00"
+  "updated_at": "2026-11-10T17:57:13.001413+00:00"
 }
