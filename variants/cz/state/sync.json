@@ -103095,17 +103095,19 @@
       }
     },
     "29674": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "15060074",
+          "reason": "Source detail has no authenticated download link; source_id=15060074",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:10:06.878778+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15060074",
         "display_name": "Maggie's Christmas Miracle (Karen Kingsbury's Maggie's Christmas Miracle) SD CZ Dabing",
         "planned_at": "2026-11-10T10:10:00.619714+00:00"
-      },
-      "claim": {
-        "worker_id": "984b467fd47344d69d4c91b04d84dda1-shard-0",
-        "claimed_at": "2026-11-10T10:10:01.376127+00:00",
-        "lease_expires_at": "2026-11-10T16:10:01.376127+00:00",
-        "run_id": "42790251611"
       }
     },
     "10714": {
@@ -161270,5 +161272,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:10:05.058495+00:00"
+  "updated_at": "2026-11-10T10:10:06.878801+00:00"
 }
