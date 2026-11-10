@@ -103833,10 +103833,34 @@
       "attempts": []
     },
     "2504": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30653211",
+          "reason": "Source detail has no authenticated download link; source_id=30653211",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:12:42.037874+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30653211",
+        "display_name": "Lucca's World (Los dos hemisferios de Lucca) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:12:38.218782+00:00"
+      }
     },
     "31719": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30698470",
+        "display_name": "Mečiar 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:12:38.748510+00:00"
+      },
+      "claim": {
+        "worker_id": "068607ca84944b68bc79bcc22e856a09-shard-0",
+        "claimed_at": "2026-11-10T10:12:39.500660+00:00",
+        "lease_expires_at": "2026-11-10T16:12:39.500660+00:00",
+        "run_id": "42790251611"
+      }
     },
     "13859": {
       "attempts": []
@@ -161766,5 +161790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:12:33.067656+00:00"
+  "updated_at": "2026-11-10T10:12:42.037892+00:00"
 }
