@@ -122041,17 +122041,19 @@
       "attempts": []
     },
     "33981": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10214556",
+          "target_video_id": "30985503",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:49:35.009170+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10214556",
         "display_name": "Rooster Cogburn SD CZ Dabing",
         "planned_at": "2026-11-10T19:48:09.459935+00:00"
-      },
-      "claim": {
-        "worker_id": "618f3ae62cd347eaa3320e55232ed797-shard-0",
-        "claimed_at": "2026-11-10T19:48:10.094824+00:00",
-        "lease_expires_at": "2026-11-11T01:48:10.094824+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985503",
       "prepared": {
@@ -177488,5 +177490,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:49:33.478881+00:00"
+  "updated_at": "2026-11-10T19:49:35.009192+00:00"
 }
