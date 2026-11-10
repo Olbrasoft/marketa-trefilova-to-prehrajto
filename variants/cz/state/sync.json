@@ -115687,17 +115687,19 @@
       }
     },
     "2998": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15937877",
+          "target_video_id": "30984731",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:30:29.314092+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15937877",
         "display_name": "We Own the Night 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:26:21.409999+00:00"
-      },
-      "claim": {
-        "worker_id": "c1931691a795487c9123948032ccdbf4-shard-0",
-        "claimed_at": "2026-11-10T17:26:23.783868+00:00",
-        "lease_expires_at": "2026-11-10T23:26:23.783868+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984731",
       "prepared": {
@@ -171894,5 +171896,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:30:26.284918+00:00"
+  "updated_at": "2026-11-10T17:30:29.314110+00:00"
 }
