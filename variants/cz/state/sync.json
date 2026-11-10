@@ -104298,17 +104298,19 @@
       }
     },
     "11944": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29545278",
+          "reason": "Source detail has no authenticated download link; source_id=29545278",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:29.788215+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29545278",
         "display_name": "Tiger Cage 2 (洗黑錢) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:14:23.907094+00:00"
-      },
-      "claim": {
-        "worker_id": "bf6fa9b5c52244eea73b3a9384283efc-shard-0",
-        "claimed_at": "2026-11-10T10:14:24.590994+00:00",
-        "lease_expires_at": "2026-11-10T16:14:24.590994+00:00",
-        "run_id": "42790251611"
       }
     },
     "2614": {
@@ -162117,5 +162119,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:28.199517+00:00"
+  "updated_at": "2026-11-10T10:14:29.788232+00:00"
 }
