@@ -111533,6 +111533,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T14:56:55.030393+00:00",
         "relay_source_id": "34717603"
+      },
+      "claim": {
+        "worker_id": "9886062b58584a74965d7c1df8250be8-shard-0",
+        "claimed_at": "2026-11-10T17:36:38.171260+00:00",
+        "lease_expires_at": "2026-11-10T23:36:38.171260+00:00",
+        "run_id": "42823888331"
       }
     },
     "37160": {
@@ -111568,7 +111574,7 @@
       "last_plan": {
         "source_id": "29959686",
         "display_name": "The Self Lover (Sebemilenec) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:06:15.604603+00:00"
+        "planned_at": "2026-11-10T17:36:38.393895+00:00"
       },
       "previous_target_id": "30983837",
       "prepared": {
@@ -113605,13 +113611,6 @@
           "source_id": "32952346",
           "target_video_id": "30984110",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:00:26.581753+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32952346",
-          "target_video_id": "30984110",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:32:37.165670+00:00"
         },
         {
@@ -113620,6 +113619,13 @@
           "target_video_id": "30984110",
           "permanent": false,
           "attempted_at": "2026-11-10T17:06:13.337803+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32952346",
+          "target_video_id": "30984110",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:36:38.997585+00:00"
         }
       ],
       "last_plan": {
@@ -113633,12 +113639,6 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-10T15:28:19.182476+00:00",
         "relay_source_id": "32952346"
-      },
-      "claim": {
-        "worker_id": "5d88125cb7414e379ab0c4aad75441e9-shard-0",
-        "claimed_at": "2026-11-10T17:36:35.283130+00:00",
-        "lease_expires_at": "2026-11-10T23:36:35.283130+00:00",
-        "run_id": "42823888331"
       }
     },
     "2951": {
@@ -115978,7 +115978,7 @@
       "last_plan": {
         "source_id": "20668639",
         "display_name": "Boss Level 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:36:36.107656+00:00"
+        "planned_at": "2026-11-10T17:36:38.706002+00:00"
       }
     },
     "2766": {
@@ -172050,5 +172050,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:36:36.107673+00:00"
+  "updated_at": "2026-11-10T17:36:38.997609+00:00"
 }
