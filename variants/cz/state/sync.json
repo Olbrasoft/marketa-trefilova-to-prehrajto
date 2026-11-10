@@ -1041,7 +1041,7 @@
       "last_plan": {
         "source_id": "33238710",
         "display_name": "The Prestige 4K CZ Dabing",
-        "planned_at": "2026-11-10T01:26:01.439401+00:00"
+        "planned_at": "2026-11-10T01:57:18.225274+00:00"
       },
       "previous_target_id": "30577961",
       "prepared": {
@@ -1049,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "4f91b5229ee545988ba16ff4efc1a0e3-shard-0",
+        "claimed_at": "2026-11-10T01:57:18.983976+00:00",
+        "lease_expires_at": "2026-11-10T07:57:18.983976+00:00",
+        "run_id": "42729980423"
       }
     },
     "54": {
@@ -98812,17 +98818,19 @@
       "attempts": []
     },
     "12998": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34336365",
+          "target_video_id": "30958798",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:57:20.907380+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34336365",
         "display_name": "To End All Wars 1080p CZ Dabing",
         "planned_at": "2026-11-10T01:44:32.812532+00:00"
-      },
-      "claim": {
-        "worker_id": "a1b453abe20348389e146cc3e6843d05-shard-0",
-        "claimed_at": "2026-11-10T01:44:33.209735+00:00",
-        "lease_expires_at": "2026-11-10T07:44:33.209735+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958798",
       "prepared": {
@@ -98884,7 +98892,7 @@
       "last_plan": {
         "source_id": "26290925",
         "display_name": "Chisum 1080p CZ Dabing",
-        "planned_at": "2026-11-10T01:57:13.882743+00:00"
+        "planned_at": "2026-11-10T01:57:18.516882+00:00"
       }
     },
     "31140": {
@@ -158012,5 +158020,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:57:16.137337+00:00"
+  "updated_at": "2026-11-10T01:57:20.907397+00:00"
 }
