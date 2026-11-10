@@ -108462,6 +108462,13 @@
           "target_video_id": "30983616",
           "permanent": false,
           "attempted_at": "2026-11-10T14:53:14.469812+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35095666",
+          "target_video_id": "30983616",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:23:52.954632+00:00"
         }
       ],
       "last_plan": {
@@ -108475,12 +108482,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:22:23.531059+00:00",
         "relay_source_id": "35095666"
-      },
-      "claim": {
-        "worker_id": "898b854f0e0741529b8ef1413d212e03-shard-0",
-        "claimed_at": "2026-11-10T15:23:50.321073+00:00",
-        "lease_expires_at": "2026-11-10T21:23:50.321073+00:00",
-        "run_id": "42823888331"
       }
     },
     "13036": {
@@ -112045,17 +112046,19 @@
       }
     },
     "3042": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32818573",
+          "target_video_id": "30984069",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:23:53.135111+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32818573",
         "display_name": "The Island 4K CZ Dabing",
         "planned_at": "2026-11-10T15:23:12.277052+00:00"
-      },
-      "claim": {
-        "worker_id": "711ffd707b5f4aa0bf9c297c5af048d8-shard-0",
-        "claimed_at": "2026-11-10T15:23:12.900125+00:00",
-        "lease_expires_at": "2026-11-10T21:23:12.900125+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984069",
       "prepared": {
@@ -168442,5 +168445,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:23:51.124417+00:00"
+  "updated_at": "2026-11-10T15:23:53.135130+00:00"
 }
