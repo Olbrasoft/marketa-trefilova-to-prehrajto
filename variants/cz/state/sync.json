@@ -117543,13 +117543,6 @@
           "source_id": "30138435",
           "target_video_id": "30984838",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:28:15.759271+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30138435",
-          "target_video_id": "30984838",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:58:59.494336+00:00"
         },
         {
@@ -117558,12 +117551,19 @@
           "target_video_id": "30984838",
           "permanent": false,
           "attempted_at": "2026-11-10T21:34:49.228121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30138435",
+          "target_video_id": "30984838",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:11:18.568906+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30138435",
         "display_name": "Logan's Run SD CZ Dabing",
-        "planned_at": "2026-11-10T21:34:46.008620+00:00"
+        "planned_at": "2026-11-10T22:11:15.767995+00:00"
       },
       "previous_target_id": "30984838",
       "prepared": {
@@ -124501,11 +124501,22 @@
       "last_plan": {
         "source_id": "34788112",
         "display_name": "There Was a Crooked Man... SD CZ Dabing",
-        "planned_at": "2026-11-10T22:08:41.530165+00:00"
+        "planned_at": "2026-11-10T22:11:16.078004+00:00"
+      },
+      "claim": {
+        "worker_id": "b263cfc91ead479a9ac0ffeb1a4f8726-shard-0",
+        "claimed_at": "2026-11-10T22:11:17.178998+00:00",
+        "lease_expires_at": "2026-11-11T04:11:17.178998+00:00",
+        "run_id": "42904278669"
       }
     },
     "11015": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34824290",
+        "display_name": "Borsalino 1080p CZ Dabing",
+        "planned_at": "2026-11-10T22:11:16.260857+00:00"
+      }
     },
     "19244": {
       "attempts": []
@@ -124517,7 +124528,12 @@
       "attempts": []
     },
     "2891": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34651052",
+        "display_name": "Safety 1080p CZ Dabing",
+        "planned_at": "2026-11-10T22:11:16.442452+00:00"
+      }
     },
     "21822": {
       "attempts": []
@@ -179509,5 +179525,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:08:59.655835+00:00"
+  "updated_at": "2026-11-10T22:11:18.568934+00:00"
 }
