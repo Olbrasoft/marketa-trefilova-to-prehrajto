@@ -100858,7 +100858,7 @@
       "last_plan": {
         "source_id": "34968104",
         "display_name": "Habermann (Habermannův mlýn) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:58:39.410825+00:00"
+        "planned_at": "2026-11-10T20:33:44.140183+00:00"
       },
       "previous_target_id": "30967671",
       "prepared": {
@@ -100866,6 +100866,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T06:46:06.993808+00:00",
         "relay_source_id": "34968104"
+      },
+      "claim": {
+        "worker_id": "3d58c4f63c5d4799aeb4ec82441f3ef9-shard-0",
+        "claimed_at": "2026-11-10T20:33:44.915038+00:00",
+        "lease_expires_at": "2026-11-11T02:33:44.915038+00:00",
+        "run_id": "42864255663"
       }
     },
     "35562": {
@@ -114033,13 +114039,6 @@
           "source_id": "26256406",
           "target_video_id": "30984157",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:53:28.033261+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26256406",
-          "target_video_id": "30984157",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:26:04.345733+00:00"
         },
         {
@@ -114048,6 +114047,13 @@
           "target_video_id": "30984157",
           "permanent": false,
           "attempted_at": "2026-11-10T19:58:39.195212+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26256406",
+          "target_video_id": "30984157",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:33:46.537804+00:00"
         }
       ],
       "last_plan": {
@@ -114061,12 +114067,6 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T15:34:42.880285+00:00",
         "relay_source_id": "26256406"
-      },
-      "claim": {
-        "worker_id": "54bbb948b4c84160a0b835cfa768c318-shard-0",
-        "claimed_at": "2026-11-10T20:33:42.645960+00:00",
-        "lease_expires_at": "2026-11-11T02:33:42.645960+00:00",
-        "run_id": "42864255663"
       }
     },
     "3077": {
@@ -122831,7 +122831,13 @@
       "last_plan": {
         "source_id": "34504671",
         "display_name": "The Wind and the Lion 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:33:41.018722+00:00"
+        "planned_at": "2026-11-10T20:33:44.403690+00:00"
+      },
+      "claim": {
+        "worker_id": "5f8573568ea547e3933b34cb065459bd-shard-0",
+        "claimed_at": "2026-11-10T20:33:45.095297+00:00",
+        "lease_expires_at": "2026-11-11T02:33:45.095297+00:00",
+        "run_id": "42864255663"
       }
     },
     "30094": {
@@ -122844,7 +122850,12 @@
       "attempts": []
     },
     "21616": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "22838327",
+        "display_name": "The Comancheros SD CZ Dabing",
+        "planned_at": "2026-11-10T20:33:44.562819+00:00"
+      }
     },
     "19160": {
       "attempts": []
@@ -178154,5 +178165,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:33:42.645986+00:00"
+  "updated_at": "2026-11-10T20:33:46.537821+00:00"
 }
