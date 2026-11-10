@@ -119248,17 +119248,19 @@
       }
     },
     "3003": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17805705",
+          "target_video_id": "30985024",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:36:43.749479+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17805705",
         "display_name": "Ballerina (2016) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:36:01.421098+00:00"
-      },
-      "claim": {
-        "worker_id": "cb34ef35ff9440dc92afec72a8e66318-shard-0",
-        "claimed_at": "2026-11-10T18:36:03.446005+00:00",
-        "lease_expires_at": "2026-11-11T00:36:03.446005+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985024",
       "prepared": {
@@ -174982,5 +174984,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:36:11.012852+00:00"
+  "updated_at": "2026-11-10T18:36:43.749492+00:00"
 }
