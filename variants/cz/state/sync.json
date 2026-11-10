@@ -118560,17 +118560,19 @@
       }
     },
     "14429": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31541828",
+          "reason": "Source detail has no authenticated download link; source_id=31541828",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:27:30.986441+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31541828",
         "display_name": "Middle Men 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:27:25.759430+00:00"
-      },
-      "claim": {
-        "worker_id": "880b66ea084e4abfb01efcbdf6736abf-shard-0",
-        "claimed_at": "2026-11-10T18:27:27.734632+00:00",
-        "lease_expires_at": "2026-11-11T00:27:27.734632+00:00",
-        "run_id": "42864255663"
       }
     },
     "2773": {
@@ -174367,5 +174369,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:27:29.379409+00:00"
+  "updated_at": "2026-11-10T18:27:30.986460+00:00"
 }
