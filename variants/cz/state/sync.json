@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-10T04:11:36.886282+00:00"
+        "planned_at": "2026-11-10T04:48:43.993659+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "2f418b5c85d24693ac9bba579156eb92-shard-0",
+        "claimed_at": "2026-11-10T04:48:44.778582+00:00",
+        "lease_expires_at": "2026-11-10T10:48:44.778582+00:00",
+        "run_id": "42729980423"
       }
     },
     "29922": {
@@ -100000,17 +100006,19 @@
       }
     },
     "2495": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30925058",
+          "target_video_id": "30963167",
+          "permanent": false,
+          "attempted_at": "2026-11-10T04:48:51.996992+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30925058",
         "display_name": "Piece by Piece 1080p CZ Dabing",
         "planned_at": "2026-11-10T04:38:26.311186+00:00"
-      },
-      "claim": {
-        "worker_id": "872d1acf8f6d48b38cdb0bf930b0fc55-shard-0",
-        "claimed_at": "2026-11-10T04:38:26.685073+00:00",
-        "lease_expires_at": "2026-11-10T10:38:26.685073+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30963167",
       "prepared": {
@@ -100028,7 +100036,7 @@
       "last_plan": {
         "source_id": "34712649",
         "display_name": "Hailey Dean Mysteries: A Will to Kill 1080p CZ Dabing",
-        "planned_at": "2026-11-10T04:48:38.431681+00:00"
+        "planned_at": "2026-11-10T04:48:44.354041+00:00"
       }
     },
     "18391": {
@@ -158952,5 +158960,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T04:48:40.144400+00:00"
+  "updated_at": "2026-11-10T04:48:51.997007+00:00"
 }
