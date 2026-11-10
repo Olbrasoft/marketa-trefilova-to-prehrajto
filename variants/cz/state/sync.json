@@ -116385,6 +116385,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:29:06.890435+00:00",
         "relay_source_id": "34673565"
+      },
+      "claim": {
+        "worker_id": "762eadcf5e0b4646957edda8d85d89fe-shard-0",
+        "claimed_at": "2026-11-10T18:32:04.115741+00:00",
+        "lease_expires_at": "2026-11-11T00:32:04.115741+00:00",
+        "run_id": "42864255663"
       }
     },
     "2941": {
@@ -116407,7 +116413,7 @@
       "last_plan": {
         "source_id": "28248567",
         "display_name": "Goon 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:01:43.964633+00:00"
+        "planned_at": "2026-11-10T18:32:04.294419+00:00"
       },
       "previous_target_id": "30984739",
       "prepared": {
@@ -117972,6 +117978,13 @@
           "target_video_id": "30984872",
           "permanent": false,
           "attempted_at": "2026-11-10T18:01:15.444801+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33257690",
+          "target_video_id": "30984872",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:32:03.940132+00:00"
         }
       ],
       "last_plan": {
@@ -117982,15 +117995,9 @@
       "previous_target_id": "30984872",
       "prepared": {
         "target_video_id": "30984872",
-        "size_bytes": 2287189692,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T18:00:10.717630+00:00",
         "relay_source_id": "33257690"
-      },
-      "claim": {
-        "worker_id": "4d432919dc394ab190ce730cb99b2909-shard-0",
-        "claimed_at": "2026-11-10T18:31:59.625937+00:00",
-        "lease_expires_at": "2026-11-11T00:31:59.625937+00:00",
-        "run_id": "42864255663"
       }
     },
     "26238": {
@@ -118979,7 +118986,7 @@
       "last_plan": {
         "source_id": "14572727",
         "display_name": "The Wizard of Lies 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:32:02.166181+00:00"
+        "planned_at": "2026-11-10T18:32:04.558772+00:00"
       }
     },
     "23188": {
@@ -174708,5 +174715,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:32:02.166197+00:00"
+  "updated_at": "2026-11-10T18:32:04.558789+00:00"
 }
