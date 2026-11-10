@@ -121139,17 +121139,19 @@
       }
     },
     "11084": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30248781",
+          "target_video_id": "30985442",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:20:03.976503+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30248781",
         "display_name": "The Mechanic (1972) 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:19:19.142396+00:00"
-      },
-      "claim": {
-        "worker_id": "46db53781c024f9a9c17485ca9945cce-shard-0",
-        "claimed_at": "2026-11-10T19:19:21.158163+00:00",
-        "lease_expires_at": "2026-11-11T01:19:21.158163+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985442",
       "prepared": {
@@ -176675,5 +176677,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:20:02.202016+00:00"
+  "updated_at": "2026-11-10T19:20:03.976524+00:00"
 }
