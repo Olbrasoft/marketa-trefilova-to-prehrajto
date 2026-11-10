@@ -122737,17 +122737,19 @@
       }
     },
     "2918": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34710602",
+          "target_video_id": "30985582",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:31:54.351631+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710602",
         "display_name": "The Golden Voyage of Sinbad 1080p CZ Dabing",
         "planned_at": "2026-11-10T20:31:10.390502+00:00"
-      },
-      "claim": {
-        "worker_id": "2db6b352641e4e348f96f007b45e54c2-shard-0",
-        "claimed_at": "2026-11-10T20:31:11.468331+00:00",
-        "lease_expires_at": "2026-11-11T02:31:11.468331+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985582",
       "prepared": {
@@ -178124,5 +178126,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:31:51.067407+00:00"
+  "updated_at": "2026-11-10T20:31:54.351649+00:00"
 }
