@@ -107598,17 +107598,19 @@
       }
     },
     "34824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34783018",
+          "target_video_id": "30983586",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:19:19.381843+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34783018",
         "display_name": "Společnice 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:18:36.731821+00:00"
-      },
-      "claim": {
-        "worker_id": "b521f458800e4796956b061965c802b8-shard-0",
-        "claimed_at": "2026-11-10T14:18:37.356550+00:00",
-        "lease_expires_at": "2026-11-10T20:18:37.356550+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983586",
       "prepared": {
@@ -164715,5 +164717,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:19:17.774461+00:00"
+  "updated_at": "2026-11-10T14:19:19.381860+00:00"
 }
