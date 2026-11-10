@@ -113390,7 +113390,7 @@
       "last_plan": {
         "source_id": "22159459",
         "display_name": "Sinister 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:05:16.376451+00:00"
+        "planned_at": "2026-11-10T17:35:34.605323+00:00"
       },
       "previous_target_id": "30984081",
       "prepared": {
@@ -114406,6 +114406,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T16:04:57.573442+00:00",
         "relay_source_id": "30198301"
+      },
+      "claim": {
+        "worker_id": "dbbad745c9bc42eeac6631f69bbe3d39-shard-0",
+        "claimed_at": "2026-11-10T17:35:34.369853+00:00",
+        "lease_expires_at": "2026-11-10T23:35:34.369853+00:00",
+        "run_id": "42823888331"
       }
     },
     "12428": {
@@ -115915,17 +115921,19 @@
       }
     },
     "37485": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34711260",
+          "target_video_id": "30984755",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:35:35.605220+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34711260",
         "display_name": "The Mandalorian and Grogu 4K CZ Dabing",
         "planned_at": "2026-11-10T17:34:53.384531+00:00"
-      },
-      "claim": {
-        "worker_id": "03c9f50f1d3d4fc88517719df4dce3ca-shard-0",
-        "claimed_at": "2026-11-10T17:34:53.835146+00:00",
-        "lease_expires_at": "2026-11-10T23:34:53.835146+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984755",
       "prepared": {
@@ -115940,7 +115948,7 @@
       "last_plan": {
         "source_id": "23542078",
         "display_name": "The Good Nurse 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:35:32.603819+00:00"
+        "planned_at": "2026-11-10T17:35:35.125371+00:00"
       }
     },
     "2896": {
@@ -172015,5 +172023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:35:32.603838+00:00"
+  "updated_at": "2026-11-10T17:35:35.605237+00:00"
 }
