@@ -117933,7 +117933,7 @@
       "last_plan": {
         "source_id": "32263146",
         "display_name": "Last Tango in Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:32:34.205407+00:00"
+        "planned_at": "2026-11-10T19:32:38.891762+00:00"
       },
       "previous_target_id": "30984860",
       "prepared": {
@@ -117941,17 +117941,16 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-11-10T17:56:45.657447+00:00",
         "relay_source_id": "32263146"
+      },
+      "claim": {
+        "worker_id": "afa1c7f0486745f58a344a7845729de1-shard-0",
+        "claimed_at": "2026-11-10T19:32:39.515190+00:00",
+        "lease_expires_at": "2026-11-11T01:32:39.515190+00:00",
+        "run_id": "42864255663"
       }
     },
     "3157": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "13038862",
-          "target_video_id": "30984859",
-          "permanent": false,
-          "attempted_at": "2026-11-10T17:57:21.635849+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "13038862",
@@ -117965,6 +117964,13 @@
           "target_video_id": "30984859",
           "permanent": false,
           "attempted_at": "2026-11-10T18:58:37.683234+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13038862",
+          "target_video_id": "30984859",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:32:39.979781+00:00"
         }
       ],
       "last_plan": {
@@ -117978,12 +117984,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:56:44.181619+00:00",
         "relay_source_id": "13038862"
-      },
-      "claim": {
-        "worker_id": "71c61184b0424694b30faa7053eb6da7-shard-0",
-        "claimed_at": "2026-11-10T19:32:33.986220+00:00",
-        "lease_expires_at": "2026-11-11T01:32:33.986220+00:00",
-        "run_id": "42864255663"
       }
     },
     "3066": {
@@ -121540,7 +121540,7 @@
       "last_plan": {
         "source_id": "26657066",
         "display_name": "The Last Full Measure 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:32:34.469461+00:00"
+        "planned_at": "2026-11-10T19:32:39.183294+00:00"
       }
     },
     "3105": {
@@ -177000,5 +177000,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:32:37.087879+00:00"
+  "updated_at": "2026-11-10T19:32:39.979805+00:00"
 }
