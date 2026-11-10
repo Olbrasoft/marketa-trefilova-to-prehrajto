@@ -612,3 +612,4 @@ Attach subtitles only after target processing has finished.
 | Lunacy (Šílení) 1080p CZ Titulky | 30984494 | https://sdilej.cz/32997472/sileni-2005-fhd-cz.mkv | Extract Czech track from exact source after processing |
 | The Thing from Another World SD CZ Titulky | 30984580 | https://sdilej.cz/13368212/vec-the-thing-from-another-world-1951--cz-tit.-.mkv | Extract Czech track from exact source after processing |
 | The Gangster, the Cop, the Devil (악인전) 1080p CZ Titulky | 30984719 | https://sdilej.cz/11947495/the-gangster-the-cop-the-devil-2019.hd1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| I Am Bolt SD CZ Titulky | 30984744 | https://sdilej.cz/7004752/i-am-bolt-2016-titulky.cz.mkv | Extract Czech track from exact source after processing |
