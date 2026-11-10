@@ -115327,17 +115327,19 @@
       }
     },
     "13690": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33594906",
+          "target_video_id": "30984670",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:16:31.071305+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33594906",
         "display_name": "Dan in Real Life 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:15:45.336883+00:00"
-      },
-      "claim": {
-        "worker_id": "40b73ae79e4e4945a8824903f6689064-shard-0",
-        "claimed_at": "2026-11-10T17:15:46.674143+00:00",
-        "lease_expires_at": "2026-11-10T23:15:46.674143+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984670",
       "prepared": {
@@ -171499,5 +171501,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:16:25.919216+00:00"
+  "updated_at": "2026-11-10T17:16:31.071323+00:00"
 }
