@@ -119720,13 +119720,6 @@
           "source_id": "12171968",
           "target_video_id": "30984999",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:30:46.226949+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12171968",
-          "target_video_id": "30984999",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:00:53.383309+00:00"
         },
         {
@@ -119735,6 +119728,13 @@
           "target_video_id": "30984999",
           "permanent": false,
           "attempted_at": "2026-11-10T19:33:55.775799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12171968",
+          "target_video_id": "30984999",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:06:10.670809+00:00"
         }
       ],
       "last_plan": {
@@ -119820,7 +119820,7 @@
       "last_plan": {
         "source_id": "11263337",
         "display_name": "Bugsy SD CZ Dabing",
-        "planned_at": "2026-11-10T19:33:54.979830+00:00"
+        "planned_at": "2026-11-10T20:06:09.575174+00:00"
       },
       "previous_target_id": "30985002",
       "prepared": {
@@ -119828,6 +119828,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T18:30:17.466007+00:00",
         "relay_source_id": "11263337"
+      },
+      "claim": {
+        "worker_id": "d6c04f0f322641bdbc3c1ae3f8e014fa-shard-0",
+        "claimed_at": "2026-11-10T20:06:10.186817+00:00",
+        "lease_expires_at": "2026-11-11T02:06:10.186817+00:00",
+        "run_id": "42864255663"
       }
     },
     "3022": {
@@ -122295,7 +122301,7 @@
       "last_plan": {
         "source_id": "22752658",
         "display_name": "Flashbacks of a Fool 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:06:07.822317+00:00"
+        "planned_at": "2026-11-10T20:06:09.835492+00:00"
       }
     },
     "26020": {
@@ -177690,5 +177696,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:06:07.822340+00:00"
+  "updated_at": "2026-11-10T20:06:10.670828+00:00"
 }
