@@ -104580,17 +104580,19 @@
       }
     },
     "34050": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29945555",
+          "reason": "Source detail has no authenticated download link; source_id=29945555",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:29.676040+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29945555",
         "display_name": "Králové videa (Králi videa) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:15:24.282248+00:00"
-      },
-      "claim": {
-        "worker_id": "9fe67729dc3443c393b88de7b370ac90-shard-0",
-        "claimed_at": "2026-11-10T10:15:24.877213+00:00",
-        "lease_expires_at": "2026-11-10T16:15:24.877213+00:00",
-        "run_id": "42790251611"
       }
     },
     "14290": {
@@ -162312,5 +162314,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:27.985079+00:00"
+  "updated_at": "2026-11-10T10:15:29.676056+00:00"
 }
