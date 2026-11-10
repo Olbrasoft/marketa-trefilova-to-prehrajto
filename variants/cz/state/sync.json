@@ -98652,17 +98652,19 @@
       }
     },
     "2589": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26994346",
+          "target_video_id": "30958437",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:43:59.520597+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26994346",
         "display_name": "Troop Zero 1080p CZ Dabing",
         "planned_at": "2026-11-10T01:30:19.810043+00:00"
-      },
-      "claim": {
-        "worker_id": "f9b5a0bfc7cc40d3a5b16fac7d162a0c-shard-0",
-        "claimed_at": "2026-11-10T01:30:24.575845+00:00",
-        "lease_expires_at": "2026-11-10T07:30:24.575845+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958437",
       "prepared": {
@@ -157914,5 +157916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:38:54.959315+00:00"
+  "updated_at": "2026-11-10T01:43:59.520614+00:00"
 }
