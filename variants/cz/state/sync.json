@@ -111290,6 +111290,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:53:22.210250+00:00",
         "relay_source_id": "29161095"
+      },
+      "claim": {
+        "worker_id": "1ee08f297d1c40848e01a974fd6cc09d-shard-0",
+        "claimed_at": "2026-11-10T17:34:33.502217+00:00",
+        "lease_expires_at": "2026-11-10T23:34:33.502217+00:00",
+        "run_id": "42823888331"
       }
     },
     "2673": {
@@ -111368,7 +111374,7 @@
       "last_plan": {
         "source_id": "35077086",
         "display_name": "The Adventurous Bachelor (Nezbedný bakalář) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:04:16.454194+00:00"
+        "planned_at": "2026-11-10T17:34:33.727735+00:00"
       },
       "previous_target_id": "30983823",
       "prepared": {
@@ -114855,6 +114861,13 @@
           "target_video_id": "30984610",
           "permanent": false,
           "attempted_at": "2026-11-10T17:04:12.175539+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30985526",
+          "target_video_id": "30984610",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:34:34.430710+00:00"
         }
       ],
       "last_plan": {
@@ -114865,15 +114878,9 @@
       "previous_target_id": "30984610",
       "prepared": {
         "target_video_id": "30984610",
-        "size_bytes": 2282978162,
+        "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:03:08.281172+00:00",
         "relay_source_id": "30985526"
-      },
-      "claim": {
-        "worker_id": "1daa55ece80b4db9be38f43d9814194f-shard-0",
-        "claimed_at": "2026-11-10T17:34:31.232755+00:00",
-        "lease_expires_at": "2026-11-10T23:34:31.232755+00:00",
-        "run_id": "42823888331"
       }
     },
     "3006": {
@@ -115888,7 +115895,7 @@
       "last_plan": {
         "source_id": "33787142",
         "display_name": "The Fog (1980) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:34:31.770721+00:00"
+        "planned_at": "2026-11-10T17:34:34.032804+00:00"
       }
     },
     "37485": {
@@ -171969,5 +171976,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:34:31.770737+00:00"
+  "updated_at": "2026-11-10T17:34:34.430732+00:00"
 }
