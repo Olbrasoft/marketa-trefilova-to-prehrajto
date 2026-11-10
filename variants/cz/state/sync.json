@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-10T13:59:34.662115+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-10T14:30:20.940837+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-10T15:00:55.237846+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:31:32.485879+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "f6765ecbaf004488b380eabaca8be9ed-shard-0",
-        "claimed_at": "2026-11-10T15:31:25.685956+00:00",
-        "lease_expires_at": "2026-11-10T21:31:25.685956+00:00",
-        "run_id": "42823888331"
       }
     },
     "10755": {
@@ -17409,7 +17403,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-10T15:00:57.444467+00:00"
+        "planned_at": "2026-11-10T15:31:31.222996+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17417,6 +17411,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "b87c5568b707482889c8b036fc9fda18-shard-0",
+        "claimed_at": "2026-11-10T15:31:31.981320+00:00",
+        "lease_expires_at": "2026-11-10T21:31:31.981320+00:00",
+        "run_id": "42823888331"
       }
     },
     "23132": {
@@ -112612,7 +112612,7 @@
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:31:25.241129+00:00"
+        "planned_at": "2026-11-10T15:31:31.525685+00:00"
       }
     },
     "3152": {
@@ -168930,5 +168930,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:31:26.420903+00:00"
+  "updated_at": "2026-11-10T15:31:32.485898+00:00"
 }
