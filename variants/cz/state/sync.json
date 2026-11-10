@@ -43615,13 +43615,6 @@
           "source_id": "34841408",
           "target_video_id": "30757982",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:19:49.044417+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34841408",
-          "target_video_id": "30757982",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:50:26.823084+00:00"
         },
         {
@@ -43630,6 +43623,13 @@
           "target_video_id": "30757982",
           "permanent": false,
           "attempted_at": "2026-11-10T19:22:37.984150+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34841408",
+          "target_video_id": "30757982",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:55:35.101239+00:00"
         }
       ],
       "last_plan": {
@@ -117563,7 +117563,7 @@
       "last_plan": {
         "source_id": "30138435",
         "display_name": "Logan's Run SD CZ Dabing",
-        "planned_at": "2026-11-10T19:22:39.615636+00:00"
+        "planned_at": "2026-11-10T19:55:33.966264+00:00"
       },
       "previous_target_id": "30984838",
       "prepared": {
@@ -117571,6 +117571,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T17:47:08.994456+00:00",
         "relay_source_id": "30138435"
+      },
+      "claim": {
+        "worker_id": "104c368d3edb481298feb33769386e30-shard-0",
+        "claimed_at": "2026-11-10T19:55:34.596418+00:00",
+        "lease_expires_at": "2026-11-11T01:55:34.596418+00:00",
+        "run_id": "42864255663"
       }
     },
     "24949": {
@@ -122174,7 +122180,7 @@
       "last_plan": {
         "source_id": "9868166",
         "display_name": "The Vanishing of Sidney Hall 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:55:31.906975+00:00"
+        "planned_at": "2026-11-10T19:55:34.233823+00:00"
       }
     },
     "26269": {
@@ -177572,5 +177578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:55:32.121106+00:00"
+  "updated_at": "2026-11-10T19:55:35.101256+00:00"
 }
