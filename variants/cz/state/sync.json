@@ -123891,17 +123891,19 @@
       "attempts": []
     },
     "2944": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31149109",
+          "target_video_id": "30985758",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:45:06.023862+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31149109",
         "display_name": "Hope Gap 720p CZ Dabing",
         "planned_at": "2026-11-10T21:42:58.624718+00:00"
-      },
-      "claim": {
-        "worker_id": "aa9180843e154364bfa9fc67b84c3d49-shard-0",
-        "claimed_at": "2026-11-10T21:42:59.512880+00:00",
-        "lease_expires_at": "2026-11-11T03:42:59.512880+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985758",
       "prepared": {
@@ -179062,5 +179064,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:45:03.406420+00:00"
+  "updated_at": "2026-11-10T21:45:06.023886+00:00"
 }
