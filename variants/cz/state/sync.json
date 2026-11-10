@@ -119983,17 +119983,19 @@
       "attempts": []
     },
     "2828": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28731473",
+          "target_video_id": "30985064",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:52:56.648701+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28731473",
         "display_name": "DogMan (2023) 4K CZ Dabing",
         "planned_at": "2026-11-10T18:50:42.008914+00:00"
-      },
-      "claim": {
-        "worker_id": "407145bf0f0047419261ff9bca620335-shard-0",
-        "claimed_at": "2026-11-10T18:50:42.875954+00:00",
-        "lease_expires_at": "2026-11-11T00:50:42.875954+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985064",
       "prepared": {
@@ -175645,5 +175647,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:52:53.683976+00:00"
+  "updated_at": "2026-11-10T18:52:56.648726+00:00"
 }
