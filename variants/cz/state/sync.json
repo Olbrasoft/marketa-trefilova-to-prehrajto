@@ -107989,13 +107989,6 @@
           "source_id": "32363158",
           "target_video_id": "30983563",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:54:21.729719+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32363158",
-          "target_video_id": "30983563",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:24:44.627124+00:00"
         },
         {
@@ -108004,6 +107997,13 @@
           "target_video_id": "30983563",
           "permanent": false,
           "attempted_at": "2026-11-10T17:55:00.763444+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32363158",
+          "target_video_id": "30983563",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:26:26.116596+00:00"
         }
       ],
       "last_plan": {
@@ -108017,12 +108017,6 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T14:17:10.638463+00:00",
         "relay_source_id": "32363158"
-      },
-      "claim": {
-        "worker_id": "8f42417c0c5e4d75a74324a7520b2411-shard-0",
-        "claimed_at": "2026-11-10T18:26:22.482391+00:00",
-        "lease_expires_at": "2026-11-11T00:26:22.482391+00:00",
-        "run_id": "42864255663"
       }
     },
     "31265": {
@@ -110583,7 +110577,7 @@
       "last_plan": {
         "source_id": "34470295",
         "display_name": "Poslední muž (The Last Man) 720p CZ Dabing",
-        "planned_at": "2026-11-10T17:55:00.184358+00:00"
+        "planned_at": "2026-11-10T18:26:25.638570+00:00"
       },
       "previous_target_id": "30983785",
       "prepared": {
@@ -118541,11 +118535,16 @@
       "last_plan": {
         "source_id": "33677451",
         "display_name": "Frankie and Johnny 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:26:20.720331+00:00"
+        "planned_at": "2026-11-10T18:26:25.896245+00:00"
       }
     },
     "14429": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31541828",
+        "display_name": "Middle Men 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:26:26.371460+00:00"
+      }
     },
     "2773": {
       "attempts": []
@@ -174336,5 +174335,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:26:22.482419+00:00"
+  "updated_at": "2026-11-10T18:26:26.371474+00:00"
 }
