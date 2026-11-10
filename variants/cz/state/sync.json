@@ -104460,17 +104460,19 @@
       }
     },
     "2609": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34650529",
+          "reason": "Source detail has no authenticated download link; source_id=34650529",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:07.785310+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34650529",
         "display_name": "Crossword Mysteries: Abracadaver 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:15:00.803496+00:00"
-      },
-      "claim": {
-        "worker_id": "78bedd7255314c9ebad8a22596cfb2a8-shard-0",
-        "claimed_at": "2026-11-10T10:15:01.190769+00:00",
-        "lease_expires_at": "2026-11-10T16:15:01.190769+00:00",
-        "run_id": "42790251611"
       }
     },
     "14117": {
@@ -162239,5 +162241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:05.674617+00:00"
+  "updated_at": "2026-11-10T10:15:07.785331+00:00"
 }
