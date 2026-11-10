@@ -98065,17 +98065,19 @@
       "attempts": []
     },
     "2559": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26005803",
+          "target_video_id": "30956888",
+          "permanent": false,
+          "attempted_at": "2026-11-10T00:08:00.316389+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26005803",
         "display_name": "The Duke 1080p CZ Dabing",
         "planned_at": "2026-11-09T23:55:47.969495+00:00"
-      },
-      "claim": {
-        "worker_id": "5fd0252014854515a5a89e40a708ffd0-shard-0",
-        "claimed_at": "2026-11-09T23:55:48.375651+00:00",
-        "lease_expires_at": "2026-11-10T05:55:48.375651+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30956888",
       "prepared": {
@@ -157375,5 +157377,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-09T23:58:05.123894+00:00"
+  "updated_at": "2026-11-10T00:08:00.316403+00:00"
 }
