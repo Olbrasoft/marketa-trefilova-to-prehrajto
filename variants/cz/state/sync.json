@@ -116771,17 +116771,19 @@
       }
     },
     "24949": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34903564",
+          "target_video_id": "30984844",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:49:26.817377+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34903564",
         "display_name": "Under the Tuscan Sun 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:48:44.387818+00:00"
-      },
-      "claim": {
-        "worker_id": "031b6b7001414397834a4ccdbd2d102a-shard-0",
-        "claimed_at": "2026-11-10T17:48:46.460005+00:00",
-        "lease_expires_at": "2026-11-10T23:48:46.460005+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984844",
       "prepared": {
@@ -172757,5 +172759,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:49:25.155462+00:00"
+  "updated_at": "2026-11-10T17:49:26.817397+00:00"
 }
