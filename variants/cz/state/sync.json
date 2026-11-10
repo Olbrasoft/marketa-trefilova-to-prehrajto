@@ -103653,17 +103653,19 @@
       "attempts": []
     },
     "25798": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30308791",
+          "reason": "Source detail has no authenticated download link; source_id=30308791",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:12:03.638200+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30308791",
         "display_name": "It's Gonna Get Worse SD CZ Dabing",
         "planned_at": "2026-11-10T10:11:59.298140+00:00"
-      },
-      "claim": {
-        "worker_id": "8e0a4e32ba8b4485a85cc46f2853354e-shard-0",
-        "claimed_at": "2026-11-10T10:11:59.835712+00:00",
-        "lease_expires_at": "2026-11-10T16:11:59.835712+00:00",
-        "run_id": "42790251611"
       }
     },
     "2676": {
@@ -161660,5 +161662,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:12:01.812791+00:00"
+  "updated_at": "2026-11-10T10:12:03.638219+00:00"
 }
