@@ -104743,17 +104743,19 @@
       "attempts": []
     },
     "2556": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33096211",
+          "reason": "Source detail has no authenticated download link; source_id=33096211",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:16:01.558514+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33096211",
         "display_name": "Peace by Chocolate 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:15:56.764932+00:00"
-      },
-      "claim": {
-        "worker_id": "e4422fcbbb0448ed89d4e3ac40fb1a15-shard-0",
-        "claimed_at": "2026-11-10T10:15:57.296871+00:00",
-        "lease_expires_at": "2026-11-10T16:15:57.296871+00:00",
-        "run_id": "42790251611"
       }
     },
     "33457": {
@@ -162427,5 +162429,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:57.860609+00:00"
+  "updated_at": "2026-11-10T10:16:01.558541+00:00"
 }
