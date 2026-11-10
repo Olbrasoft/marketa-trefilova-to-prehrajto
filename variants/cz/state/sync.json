@@ -120509,17 +120509,19 @@
       }
     },
     "15045": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6793928",
+          "target_video_id": "30985393",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:05:59.980814+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6793928",
         "display_name": "Shaolin (新少林寺) 720p CZ Dabing",
         "planned_at": "2026-11-10T19:04:00.562857+00:00"
-      },
-      "claim": {
-        "worker_id": "dcd7159b39bb41398e0cce723457ab36-shard-0",
-        "claimed_at": "2026-11-10T19:04:00.909928+00:00",
-        "lease_expires_at": "2026-11-11T01:04:00.909928+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985393",
       "prepared": {
@@ -176115,5 +176117,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:04:05.289022+00:00"
+  "updated_at": "2026-11-10T19:05:59.980831+00:00"
 }
