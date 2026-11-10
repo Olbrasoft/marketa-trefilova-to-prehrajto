@@ -105925,17 +105925,19 @@
       "attempts": []
     },
     "11233": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33810449",
+          "target_video_id": "30979693",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:36:25.872926+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33810449",
         "display_name": "How to Wake a Princess (Jak se budí princezny) 1080p CZ Dabing",
         "planned_at": "2026-11-10T12:29:25.030418+00:00"
-      },
-      "claim": {
-        "worker_id": "32260c6c1aaf4a3b82af2f6843c2c39e-shard-0",
-        "claimed_at": "2026-11-10T12:29:25.485029+00:00",
-        "lease_expires_at": "2026-11-10T18:29:25.485029+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30979693",
       "prepared": {
@@ -163388,5 +163390,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:31:58.087963+00:00"
+  "updated_at": "2026-11-10T12:36:25.872942+00:00"
 }
