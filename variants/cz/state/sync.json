@@ -98478,17 +98478,19 @@
       "attempts": []
     },
     "26913": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14376406",
+          "target_video_id": "30958067",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:14:37.071413+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14376406",
         "display_name": "Hulk Vs (Hulk Vs.) SD CZ Dabing",
         "planned_at": "2026-11-10T01:12:10.976764+00:00"
-      },
-      "claim": {
-        "worker_id": "4c3014855e234d6bb65bb2ff0b12830e-shard-0",
-        "claimed_at": "2026-11-10T01:12:11.845175+00:00",
-        "lease_expires_at": "2026-11-10T07:12:11.845175+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958067",
       "prepared": {
@@ -157711,5 +157713,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:12:20.594269+00:00"
+  "updated_at": "2026-11-10T01:14:37.071430+00:00"
 }
