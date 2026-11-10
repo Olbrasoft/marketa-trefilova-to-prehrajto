@@ -37437,13 +37437,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:56:05.813846+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-10T13:30:19.713110+00:00"
         },
         {
@@ -37452,6 +37445,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-10T14:08:13.154370+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:38:46.082005+00:00"
         }
       ],
       "last_plan": {
@@ -41312,7 +41312,7 @@
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-10T14:08:12.896920+00:00"
+        "planned_at": "2026-11-10T14:38:44.304756+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -41320,6 +41320,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-03T03:58:27.242114+00:00",
         "relay_source_id": "34826023"
+      },
+      "claim": {
+        "worker_id": "76b0731f402a4dcf87247ea2265de4e9-shard-0",
+        "claimed_at": "2026-11-10T14:38:45.052861+00:00",
+        "lease_expires_at": "2026-11-10T20:38:45.052861+00:00",
+        "run_id": "42823888331"
       }
     },
     "34337": {
@@ -108825,7 +108831,7 @@
       "last_plan": {
         "source_id": "34252297",
         "display_name": "Vietnam from Above 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:38:41.909058+00:00"
+        "planned_at": "2026-11-10T14:38:44.608072+00:00"
       }
     },
     "21368": {
@@ -165668,5 +165674,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:38:42.158232+00:00"
+  "updated_at": "2026-11-10T14:38:46.082023+00:00"
 }
