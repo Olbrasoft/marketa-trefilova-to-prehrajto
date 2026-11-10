@@ -119307,6 +119307,13 @@
         "claimed_at": "2026-11-10T18:36:53.906991+00:00",
         "lease_expires_at": "2026-11-11T00:36:53.906991+00:00",
         "run_id": "42864255663"
+      },
+      "previous_target_id": "30985028",
+      "prepared": {
+        "target_video_id": "30985028",
+        "size_bytes": 2383502139,
+        "prepared_at": "2026-11-10T18:36:58.892476+00:00",
+        "relay_source_id": "28192094"
       }
     },
     "30444": {
@@ -119318,10 +119325,27 @@
         "source_id": "19734096",
         "display_name": "The House (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:36:55.679258+00:00"
+      },
+      "claim": {
+        "worker_id": "27afc552326a41b8aa9ad7daf5fa7c3b-shard-0",
+        "claimed_at": "2026-11-10T18:36:57.266144+00:00",
+        "lease_expires_at": "2026-11-11T00:36:57.266144+00:00",
+        "run_id": "42864255663"
       }
     },
     "24697": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34453145",
+        "display_name": "The Importance of Being Earnest 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:36:57.591245+00:00"
+      },
+      "claim": {
+        "worker_id": "8c76894755ca41b191d92369f5fd0dd8-shard-0",
+        "claimed_at": "2026-11-10T18:36:57.920207+00:00",
+        "lease_expires_at": "2026-11-11T00:36:57.920207+00:00",
+        "run_id": "42864255663"
+      }
     },
     "2882": {
       "attempts": []
@@ -175004,5 +175028,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:36:55.679275+00:00"
+  "updated_at": "2026-11-10T18:36:58.892492+00:00"
 }
