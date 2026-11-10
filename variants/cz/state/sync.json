@@ -100938,17 +100938,19 @@
       "attempts": []
     },
     "16261": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35012353",
+          "target_video_id": "30968214",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:03:53.019875+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35012353",
         "display_name": "Roald Dahl's Esio Trot 1080p CZ Dabing",
         "planned_at": "2026-11-10T07:00:21.877535+00:00"
-      },
-      "claim": {
-        "worker_id": "4588cc22041346acb910a82146ab014c-shard-0",
-        "claimed_at": "2026-11-10T07:00:22.219560+00:00",
-        "lease_expires_at": "2026-11-10T13:00:22.219560+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30968214",
       "prepared": {
@@ -159699,5 +159701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:00:27.288744+00:00"
+  "updated_at": "2026-11-10T07:03:53.019894+00:00"
 }
