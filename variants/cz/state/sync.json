@@ -105196,21 +105196,28 @@
       }
     },
     "14646": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30220153",
+          "reason": "Source detail has no authenticated download link; source_id=30220153",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:39.235152+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30220153",
         "display_name": "Walking Too Fast (Pouta) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:17:34.329939+00:00"
-      },
-      "claim": {
-        "worker_id": "dd2817877e664c3c91e36ff83a8232c0-shard-0",
-        "claimed_at": "2026-11-10T10:17:34.710105+00:00",
-        "lease_expires_at": "2026-11-10T16:17:34.710105+00:00",
-        "run_id": "42790251611"
       }
     },
     "21867": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34872437",
+        "display_name": "The Nun's Night 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:17:39.053580+00:00"
+      }
     },
     "10831": {
       "attempts": []
@@ -162754,5 +162761,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:36.479398+00:00"
+  "updated_at": "2026-11-10T10:17:39.235172+00:00"
 }
