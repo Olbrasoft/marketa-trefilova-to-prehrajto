@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "db66d5e96f1142aba7bae73f8713854f-shard-0",
+        "claimed_at": "2026-11-10T12:26:48.162430+00:00",
+        "lease_expires_at": "2026-11-10T18:26:48.162430+00:00",
+        "run_id": "42790251611"
       }
     },
     "29922": {
@@ -105844,17 +105850,19 @@
       "attempts": []
     },
     "35350": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30303747",
+          "target_video_id": "30979445",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:26:51.514734+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30303747",
         "display_name": "Les Compagnons de la Marguerite SD CZ Dabing",
         "planned_at": "2026-11-10T12:22:26.745053+00:00"
-      },
-      "claim": {
-        "worker_id": "82c58ed7fca24776a2f57b2da3c29c86-shard-0",
-        "claimed_at": "2026-11-10T12:22:28.161670+00:00",
-        "lease_expires_at": "2026-11-10T18:22:28.161670+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30979445",
       "prepared": {
@@ -105872,7 +105880,13 @@
       "last_plan": {
         "source_id": "34189801",
         "display_name": "Patty Is Such a Girly Name 1080p CZ Dabing",
-        "planned_at": "2026-11-10T12:26:44.241376+00:00"
+        "planned_at": "2026-11-10T12:26:48.869226+00:00"
+      },
+      "claim": {
+        "worker_id": "a7a225b4d79d47dbbe794b62fcaad085-shard-0",
+        "claimed_at": "2026-11-10T12:26:49.277795+00:00",
+        "lease_expires_at": "2026-11-10T18:26:49.277795+00:00",
+        "run_id": "42790251611"
       }
     },
     "30293": {
@@ -163291,5 +163305,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:26:44.527690+00:00"
+  "updated_at": "2026-11-10T12:26:51.514751+00:00"
 }
