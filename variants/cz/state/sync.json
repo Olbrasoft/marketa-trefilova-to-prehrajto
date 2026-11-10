@@ -100359,17 +100359,19 @@
       "attempts": []
     },
     "10700": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24337653",
+          "target_video_id": "30965817",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:09:10.130936+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24337653",
         "display_name": "The Charterhouse of Parma (La Chartreuse de Parme) 1080p CZ Dabing",
         "planned_at": "2026-11-10T05:55:00.517409+00:00"
-      },
-      "claim": {
-        "worker_id": "c5ad66dfc5d34792b56ccd7216a58663-shard-0",
-        "claimed_at": "2026-11-10T05:55:00.832979+00:00",
-        "lease_expires_at": "2026-11-10T11:55:00.832979+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30965817",
       "prepared": {
@@ -159319,5 +159321,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:04:21.874808+00:00"
+  "updated_at": "2026-11-10T06:09:10.130953+00:00"
 }
