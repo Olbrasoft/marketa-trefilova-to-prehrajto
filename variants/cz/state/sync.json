@@ -113791,7 +113791,7 @@
       "last_plan": {
         "source_id": "32318137",
         "display_name": "Chappie 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:42:44.060879+00:00"
+        "planned_at": "2026-11-10T19:14:07.777482+00:00"
       },
       "previous_target_id": "30984128",
       "prepared": {
@@ -113799,6 +113799,12 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-11-10T15:30:14.616464+00:00",
         "relay_source_id": "32318137"
+      },
+      "claim": {
+        "worker_id": "3349121ae3bf48cfa6a6bc6a82b6bcd1-shard-0",
+        "claimed_at": "2026-11-10T19:14:08.540651+00:00",
+        "lease_expires_at": "2026-11-11T01:14:08.540651+00:00",
+        "run_id": "42864255663"
       }
     },
     "2986": {
@@ -120931,15 +120937,28 @@
       }
     },
     "2982": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "11171646",
+          "reason": "Request failed for https://sdilej.cz/11171646/mary-a-carodejna-kvetina-meari-to-majo-no-hana-2017-cz-dabing-brdrip-xvid-.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:14:09.826292+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11171646",
         "display_name": "Mary and the Witch's Flower (メアリと魔女の花) SD CZ Dabing",
-        "planned_at": "2026-11-10T19:14:01.515314+00:00"
+        "planned_at": "2026-11-10T19:14:08.060535+00:00"
       }
     },
     "30431": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27907291",
+        "display_name": "Frozen Fever 1080p CZ Dabing",
+        "planned_at": "2026-11-10T19:14:08.219254+00:00"
+      }
     },
     "26085": {
       "attempts": []
@@ -176479,5 +176498,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:14:04.486209+00:00"
+  "updated_at": "2026-11-10T19:14:09.826305+00:00"
 }
