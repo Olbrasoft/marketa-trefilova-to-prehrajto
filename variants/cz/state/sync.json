@@ -107724,13 +107724,6 @@
           "source_id": "32069441",
           "target_video_id": "30983518",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:53:34.751086+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32069441",
-          "target_video_id": "30983518",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:23:52.063686+00:00"
         },
         {
@@ -107739,6 +107732,13 @@
           "target_video_id": "30983518",
           "permanent": false,
           "attempted_at": "2026-11-10T17:54:03.698516+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32069441",
+          "target_video_id": "30983518",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:25:36.139980+00:00"
         }
       ],
       "last_plan": {
@@ -117466,7 +117466,7 @@
       "last_plan": {
         "source_id": "33849773",
         "display_name": "Dumb Money 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:53:26.937413+00:00"
+        "planned_at": "2026-11-10T18:25:34.965509+00:00"
       },
       "previous_target_id": "30984853",
       "prepared": {
@@ -117474,6 +117474,12 @@
         "size_bytes": 3285715681,
         "prepared_at": "2026-11-10T17:53:32.936855+00:00",
         "relay_source_id": "33849773"
+      },
+      "claim": {
+        "worker_id": "b2e8c33a3e964c1ab37b2f33c3bb5146-shard-0",
+        "claimed_at": "2026-11-10T18:25:35.792100+00:00",
+        "lease_expires_at": "2026-11-11T00:25:35.792100+00:00",
+        "run_id": "42864255663"
       }
     },
     "2970": {
@@ -118492,7 +118498,13 @@
       "last_plan": {
         "source_id": "19756021",
         "display_name": "Munich: The Edge of War (Munich – The Edge of War) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:25:32.604879+00:00"
+        "planned_at": "2026-11-10T18:25:35.220268+00:00"
+      },
+      "claim": {
+        "worker_id": "b47c2b5d38314b848f1d3fae418d8c85-shard-0",
+        "claimed_at": "2026-11-10T18:25:35.943263+00:00",
+        "lease_expires_at": "2026-11-11T00:25:35.943263+00:00",
+        "run_id": "42864255663"
       }
     },
     "32041": {
@@ -118502,7 +118514,12 @@
       "attempts": []
     },
     "34331": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33677451",
+        "display_name": "Frankie and Johnny 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:25:35.415411+00:00"
+      }
     },
     "14429": {
       "attempts": []
@@ -174296,5 +174313,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:25:32.604898+00:00"
+  "updated_at": "2026-11-10T18:25:36.139998+00:00"
 }
