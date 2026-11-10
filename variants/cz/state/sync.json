@@ -100514,13 +100514,6 @@
           "source_id": "35139959",
           "target_video_id": "30966007",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:51:46.359724+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35139959",
-          "target_video_id": "30966007",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:23:10.686847+00:00"
         },
         {
@@ -100529,6 +100522,13 @@
           "target_video_id": "30966007",
           "permanent": false,
           "attempted_at": "2026-11-10T18:53:44.037126+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35139959",
+          "target_video_id": "30966007",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:26:21.581577+00:00"
         }
       ],
       "last_plan": {
@@ -100542,12 +100542,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T05:59:34.591713+00:00",
         "relay_source_id": "35139959"
-      },
-      "claim": {
-        "worker_id": "e5a4a206b8b04a839aab6a5fcfb227c8-shard-0",
-        "claimed_at": "2026-11-10T19:26:18.035127+00:00",
-        "lease_expires_at": "2026-11-11T01:26:18.035127+00:00",
-        "run_id": "42864255663"
       }
     },
     "21485": {
@@ -121330,17 +121324,19 @@
       "attempts": []
     },
     "11782": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26395720",
+          "target_video_id": "30985456",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:26:21.764449+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26395720",
         "display_name": "Shoot to Kill 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:25:07.183302+00:00"
-      },
-      "claim": {
-        "worker_id": "39a6070a2cf941469747cc8176ec5416-shard-0",
-        "claimed_at": "2026-11-10T19:25:07.849683+00:00",
-        "lease_expires_at": "2026-11-11T01:25:07.849683+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985456",
       "prepared": {
@@ -176849,5 +176845,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:26:20.062459+00:00"
+  "updated_at": "2026-11-10T19:26:21.764469+00:00"
 }
