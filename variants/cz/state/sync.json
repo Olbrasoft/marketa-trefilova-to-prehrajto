@@ -119085,17 +119085,19 @@
       }
     },
     "11883": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34674871",
+          "target_video_id": "30985012",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:34:12.995887+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674871",
         "display_name": "DuckTales the Movie: Treasure of the Lost Lamp (DuckTales: The Movie - Treasure of the Lost Lamp) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:33:31.888086+00:00"
-      },
-      "claim": {
-        "worker_id": "3f0e7c425d4347d1a1febe39bdd27fa0-shard-0",
-        "claimed_at": "2026-11-10T18:33:32.412838+00:00",
-        "lease_expires_at": "2026-11-11T00:33:32.412838+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985012",
       "prepared": {
@@ -174861,5 +174863,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:33:48.985628+00:00"
+  "updated_at": "2026-11-10T18:34:12.995903+00:00"
 }
