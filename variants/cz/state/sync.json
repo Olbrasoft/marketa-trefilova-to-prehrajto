@@ -104371,17 +104371,19 @@
       "attempts": []
     },
     "26797": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "22047645",
+          "reason": "Source detail has no authenticated download link; source_id=22047645",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:49.841091+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22047645",
         "display_name": "The Country Teacher 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:14:43.499637+00:00"
-      },
-      "claim": {
-        "worker_id": "55a040b2fba845d08e20c18e50ecfcfa-shard-0",
-        "claimed_at": "2026-11-10T10:14:45.583577+00:00",
-        "lease_expires_at": "2026-11-10T16:14:45.583577+00:00",
-        "run_id": "42790251611"
       }
     },
     "13876": {
@@ -162193,5 +162195,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:48.046819+00:00"
+  "updated_at": "2026-11-10T10:14:49.841113+00:00"
 }
