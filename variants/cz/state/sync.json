@@ -103712,17 +103712,19 @@
       "attempts": []
     },
     "27927": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "8880562",
+          "reason": "Source detail has no authenticated download link; source_id=8880562",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:12:14.552118+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8880562",
         "display_name": "Zarafa SD CZ Dabing",
         "planned_at": "2026-11-10T10:12:08.857091+00:00"
-      },
-      "claim": {
-        "worker_id": "bac3a1f3f3ef43958b2ac381e2ecf021-shard-0",
-        "claimed_at": "2026-11-10T10:12:09.538711+00:00",
-        "lease_expires_at": "2026-11-10T16:12:09.538711+00:00",
-        "run_id": "42790251611"
       }
     },
     "31114": {
@@ -161701,5 +161703,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:12:12.928035+00:00"
+  "updated_at": "2026-11-10T10:12:14.552135+00:00"
 }
