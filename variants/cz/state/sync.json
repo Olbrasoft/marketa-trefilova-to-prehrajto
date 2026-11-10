@@ -108841,13 +108841,6 @@
           "source_id": "35072913",
           "target_video_id": "30983665",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:19:23.601072+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35072913",
-          "target_video_id": "30983665",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:50:11.699370+00:00"
         },
         {
@@ -108856,12 +108849,19 @@
           "target_video_id": "30983665",
           "permanent": false,
           "attempted_at": "2026-11-10T21:22:45.986905+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072913",
+          "target_video_id": "30983665",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:56:53.021271+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35072913",
         "display_name": "Alena (1947) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:22:43.544699+00:00"
+        "planned_at": "2026-11-10T21:56:49.937558+00:00"
       },
       "previous_target_id": "30983665",
       "prepared": {
@@ -124204,7 +124204,13 @@
       "last_plan": {
         "source_id": "16799155",
         "display_name": "The Bachelors 720p CZ Dabing",
-        "planned_at": "2026-11-10T21:56:46.294267+00:00"
+        "planned_at": "2026-11-10T21:56:50.209394+00:00"
+      },
+      "claim": {
+        "worker_id": "9e60cfacde094a5fbd27aeb83a003da1-shard-0",
+        "claimed_at": "2026-11-10T21:56:50.865910+00:00",
+        "lease_expires_at": "2026-11-11T03:56:50.865910+00:00",
+        "run_id": "42864255663"
       }
     },
     "2908": {
@@ -124214,7 +124220,12 @@
       "attempts": []
     },
     "3015": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32691984",
+        "display_name": "Back to Burgundy (Ce qui nous lie) SD CZ Dabing",
+        "planned_at": "2026-11-10T21:56:50.370832+00:00"
+      }
     },
     "36613": {
       "attempts": []
@@ -179284,5 +179295,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:56:47.936260+00:00"
+  "updated_at": "2026-11-10T21:56:53.021291+00:00"
 }
