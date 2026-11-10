@@ -112932,17 +112932,19 @@
       }
     },
     "3077": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31964145",
+          "target_video_id": "30984161",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:35:57.881995+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31964145",
         "display_name": "Bolt 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:35:17.130158+00:00"
-      },
-      "claim": {
-        "worker_id": "2dc65735396c4d4e8b47b77736447899-shard-0",
-        "claimed_at": "2026-11-10T15:35:17.681419+00:00",
-        "lease_expires_at": "2026-11-10T21:35:17.681419+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984161",
       "prepared": {
@@ -169264,5 +169266,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:35:54.736930+00:00"
+  "updated_at": "2026-11-10T15:35:57.882011+00:00"
 }
