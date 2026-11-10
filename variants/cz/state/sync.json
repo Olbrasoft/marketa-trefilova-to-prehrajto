@@ -102531,7 +102531,20 @@
       }
     },
     "24158": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34670568",
+          "reason": "Source detail has no authenticated download link; source_id=34670568",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:30:43.109730+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34670568",
+        "display_name": "Today for the Last Time 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:30:38.777128+00:00"
+      }
     },
     "13776": {
       "attempts": []
@@ -160875,5 +160888,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:30:33.325006+00:00"
+  "updated_at": "2026-11-10T09:30:43.109748+00:00"
 }
