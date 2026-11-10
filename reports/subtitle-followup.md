@@ -605,3 +605,4 @@ Attach subtitles only after target processing has finished.
 | Colonia (Colonia Dignidad – Es gibt kein Zurück) 1080p CZ Titulky | 30977898 | https://sdilej.cz/34886157/colonia.2015.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Starman 1080p CZ Titulky | 30978323 | https://sdilej.cz/34237075/starman-1984-1080p-bluray-multi-10bit-av1-majo.mkv | Extract Czech track from exact source after processing |
 | American Animals 1080p CZ Titulky | 30980223 | https://sdilej.cz/10502270/american.animals.2018.1080p.bdrip.x264.cz.titulky.mkv | Complete: Czech subtitles verified |
+| Ninja in the Dragon's Den 1080p CZ Titulky | 30983315 | https://sdilej.cz/30986611/ninja.in.the.dragon-s.den.ninja.komando1982.eridanus.1080.bluray.cz.eng.ru.chin.mkv | Extract Czech track from exact source after processing |
