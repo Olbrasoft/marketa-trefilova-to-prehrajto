@@ -105630,17 +105630,19 @@
       "attempts": []
     },
     "1735": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34513029",
+          "target_video_id": "30978541",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:09:28.613128+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34513029",
         "display_name": "Long Live with Dearly Departed (Ať žije nebožtík) 1080p CZ Dabing",
         "planned_at": "2026-11-10T11:57:19.553346+00:00"
-      },
-      "claim": {
-        "worker_id": "ee67a24a0eac4a8183993918a6429787-shard-0",
-        "claimed_at": "2026-11-10T11:57:20.019627+00:00",
-        "lease_expires_at": "2026-11-10T17:57:20.019627+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30978541",
       "prepared": {
@@ -163196,5 +163198,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:08:41.122801+00:00"
+  "updated_at": "2026-11-10T12:09:28.613145+00:00"
 }
