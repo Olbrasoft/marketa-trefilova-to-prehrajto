@@ -101825,17 +101825,19 @@
       }
     },
     "23157": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34136828",
+          "target_video_id": "30971760",
+          "permanent": false,
+          "attempted_at": "2026-11-10T08:53:25.748390+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34136828",
         "display_name": "King of Beggars 720p CZ Dabing",
         "planned_at": "2026-11-10T08:46:30.744689+00:00"
-      },
-      "claim": {
-        "worker_id": "554617f9f5e5435396b13c711cbfbf73-shard-0",
-        "claimed_at": "2026-11-10T08:46:31.042280+00:00",
-        "lease_expires_at": "2026-11-10T14:46:31.042280+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30971760",
       "prepared": {
@@ -160409,5 +160411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T08:48:29.440398+00:00"
+  "updated_at": "2026-11-10T08:53:25.748417+00:00"
 }
