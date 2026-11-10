@@ -33847,17 +33847,19 @@
       "attempts": []
     },
     "2196": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28930526",
+          "target_video_id": "30984204",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:52:12.734372+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28930526",
         "display_name": "Arthur the King 1080p CZ Titulky",
         "planned_at": "2026-11-10T15:46:09.570743+00:00"
-      },
-      "claim": {
-        "worker_id": "acbe3b55e2e0433e827eb943696e4c99-shard-0",
-        "claimed_at": "2026-11-10T15:46:09.908483+00:00",
-        "lease_expires_at": "2026-11-10T21:46:09.908483+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984204",
       "prepared": {
@@ -96002,5 +96004,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:46:16.176645+00:00"
+  "updated_at": "2026-11-10T15:52:12.734393+00:00"
 }
