@@ -27413,6 +27413,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
+      },
+      "claim": {
+        "worker_id": "5a0ab49a5f494a1f8382075badc6c32d-shard-0",
+        "claimed_at": "2026-11-10T23:31:08.960215+00:00",
+        "lease_expires_at": "2026-11-11T05:31:08.960215+00:00",
+        "run_id": "42904278669"
       }
     },
     "12333": {
@@ -109587,13 +109593,6 @@
           "source_id": "33708286",
           "target_video_id": "30983694",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:32:10.452299+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33708286",
-          "target_video_id": "30983694",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:06:44.357008+00:00"
         },
         {
@@ -109602,6 +109601,13 @@
           "target_video_id": "30983694",
           "permanent": false,
           "attempted_at": "2026-11-10T22:47:39.455805+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33708286",
+          "target_video_id": "30983694",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:31:09.145358+00:00"
         }
       ],
       "last_plan": {
@@ -109615,12 +109621,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T14:36:10.697920+00:00",
         "relay_source_id": "33708286"
-      },
-      "claim": {
-        "worker_id": "885417dd69774a1bb07a339829fecfe8-shard-0",
-        "claimed_at": "2026-11-10T23:31:04.809674+00:00",
-        "lease_expires_at": "2026-11-11T05:31:04.809674+00:00",
-        "run_id": "42904278669"
       }
     },
     "35753": {
@@ -119068,7 +119068,7 @@
       "last_plan": {
         "source_id": "33745553",
         "display_name": "Romper Stomper 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:47:41.143348+00:00"
+        "planned_at": "2026-11-10T23:31:09.361991+00:00"
       },
       "previous_target_id": "30984953",
       "prepared": {
@@ -125556,7 +125556,7 @@
       "last_plan": {
         "source_id": "34488867",
         "display_name": "Kundo: Age of the Rampant (군도: 민란의 시대) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:31:07.072174+00:00"
+        "planned_at": "2026-11-10T23:31:09.671806+00:00"
       }
     },
     "29116": {
@@ -180399,5 +180399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:31:07.072195+00:00"
+  "updated_at": "2026-11-10T23:31:09.671824+00:00"
 }
