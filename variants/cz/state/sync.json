@@ -102105,7 +102105,20 @@
       }
     },
     "36887": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34720944",
+          "reason": "Source detail has no authenticated download link; source_id=34720944",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:25:08.255092+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34720944",
+        "display_name": "Oink (Knor) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:25:06.437076+00:00"
+      }
     },
     "26325": {
       "attempts": []
@@ -160602,5 +160615,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:25:03.891354+00:00"
+  "updated_at": "2026-11-10T09:25:08.255114+00:00"
 }
