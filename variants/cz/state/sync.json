@@ -101508,17 +101508,19 @@
       "attempts": []
     },
     "33744": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716678",
+          "target_video_id": "30970663",
+          "permanent": false,
+          "attempted_at": "2026-11-10T08:14:18.309418+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716678",
         "display_name": "Sometimes a Great Notion SD CZ Dabing",
         "planned_at": "2026-11-10T08:11:29.402709+00:00"
-      },
-      "claim": {
-        "worker_id": "06c6badabc85456f8d679e3f4b748770-shard-0",
-        "claimed_at": "2026-11-10T08:11:29.729381+00:00",
-        "lease_expires_at": "2026-11-10T14:11:29.729381+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30970663",
       "prepared": {
@@ -160146,5 +160148,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T08:11:34.444932+00:00"
+  "updated_at": "2026-11-10T08:14:18.309434+00:00"
 }
