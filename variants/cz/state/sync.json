@@ -115754,17 +115754,19 @@
       }
     },
     "11240": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673565",
+          "target_video_id": "30984737",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:30:13.081294+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673565",
         "display_name": "Saturday Night Fever 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:29:02.980178+00:00"
-      },
-      "claim": {
-        "worker_id": "2b3270377dee46f7bef9f6df2d2495bc-shard-0",
-        "claimed_at": "2026-11-10T17:29:03.372031+00:00",
-        "lease_expires_at": "2026-11-10T23:29:03.372031+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984737",
       "prepared": {
@@ -171885,5 +171887,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:29:45.924089+00:00"
+  "updated_at": "2026-11-10T17:30:13.081311+00:00"
 }
