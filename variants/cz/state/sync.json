@@ -110619,7 +110619,7 @@
       "last_plan": {
         "source_id": "34714367",
         "display_name": "Svědek umírajícího času 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:51:59.910311+00:00"
+        "planned_at": "2026-11-10T15:23:11.969433+00:00"
       },
       "previous_target_id": "30983810",
       "prepared": {
@@ -110627,6 +110627,12 @@
         "size_bytes": 2393236539,
         "prepared_at": "2026-11-10T14:52:05.549486+00:00",
         "relay_source_id": "34714367"
+      },
+      "claim": {
+        "worker_id": "f4d13c2af0a345d6a3dc7a47e5ad7cca-shard-0",
+        "claimed_at": "2026-11-10T15:23:13.071160+00:00",
+        "lease_expires_at": "2026-11-10T21:23:13.071160+00:00",
+        "run_id": "42823888331"
       }
     },
     "33917": {
@@ -111974,17 +111980,19 @@
       }
     },
     "3102": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33115659",
+          "target_video_id": "30984064",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:23:13.910451+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33115659",
         "display_name": "The Book of Eli 4K CZ Dabing",
         "planned_at": "2026-11-10T15:22:34.634041+00:00"
-      },
-      "claim": {
-        "worker_id": "4bb42b5df64e4cee9b96c66b7d36caf7-shard-0",
-        "claimed_at": "2026-11-10T15:22:35.119541+00:00",
-        "lease_expires_at": "2026-11-10T21:22:35.119541+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984064",
       "prepared": {
@@ -111995,10 +112003,26 @@
       }
     },
     "3042": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32818573",
+        "display_name": "The Island 4K CZ Dabing",
+        "planned_at": "2026-11-10T15:23:12.277052+00:00"
+      },
+      "claim": {
+        "worker_id": "711ffd707b5f4aa0bf9c297c5af048d8-shard-0",
+        "claimed_at": "2026-11-10T15:23:12.900125+00:00",
+        "lease_expires_at": "2026-11-10T21:23:12.900125+00:00",
+        "run_id": "42823888331"
+      }
     },
     "3143": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33761714",
+        "display_name": "The Transporter 4K CZ Dabing",
+        "planned_at": "2026-11-10T15:23:12.465502+00:00"
+      }
     },
     "2960": {
       "attempts": []
@@ -168369,5 +168393,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:23:09.854673+00:00"
+  "updated_at": "2026-11-10T15:23:13.910466+00:00"
 }
