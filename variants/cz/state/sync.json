@@ -104618,17 +104618,19 @@
       "attempts": []
     },
     "12227": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "31102451",
+          "reason": "Source detail has no authenticated download link; source_id=31102451",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:37.733230+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31102451",
         "display_name": "Fany 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:15:33.187515+00:00"
-      },
-      "claim": {
-        "worker_id": "2d1c7012f261490fa641dd0bd9dfb082-shard-0",
-        "claimed_at": "2026-11-10T10:15:33.894129+00:00",
-        "lease_expires_at": "2026-11-10T16:15:33.894129+00:00",
-        "run_id": "42790251611"
       }
     },
     "24162": {
@@ -162349,5 +162351,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:35.912436+00:00"
+  "updated_at": "2026-11-10T10:15:37.733248+00:00"
 }
