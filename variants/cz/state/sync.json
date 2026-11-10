@@ -83409,13 +83409,6 @@
           "source_id": "30859189",
           "target_video_id": "30915737",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:50:54.073208+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30859189",
-          "target_video_id": "30915737",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:22:16.011972+00:00"
         },
         {
@@ -83424,6 +83417,13 @@
           "target_video_id": "30915737",
           "permanent": false,
           "attempted_at": "2026-11-10T18:52:47.945540+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30859189",
+          "target_video_id": "30915737",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:25:27.964768+00:00"
         }
       ],
       "last_plan": {
@@ -83550,7 +83550,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:52:49.773149+00:00"
+        "planned_at": "2026-11-10T19:25:24.674257+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -83558,6 +83558,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "eadda59e9eb64e0c86bca23a9c56ab9c-shard-0",
+        "claimed_at": "2026-11-10T19:25:25.251376+00:00",
+        "lease_expires_at": "2026-11-11T01:25:25.251376+00:00",
+        "run_id": "42864255663"
       }
     },
     "1954": {
@@ -121338,7 +121344,7 @@
       "last_plan": {
         "source_id": "28510712",
         "display_name": "Heaven & Earth SD CZ Dabing",
-        "planned_at": "2026-11-10T19:25:22.635838+00:00"
+        "planned_at": "2026-11-10T19:25:24.934889+00:00"
       }
     },
     "12443": {
@@ -176811,5 +176817,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:25:22.849760+00:00"
+  "updated_at": "2026-11-10T19:25:27.964787+00:00"
 }
