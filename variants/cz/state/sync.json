@@ -111000,13 +111000,6 @@
           "source_id": "34952768",
           "target_video_id": "30983806",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:02:08.039260+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34952768",
-          "target_video_id": "30983806",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:32:25.328000+00:00"
         },
         {
@@ -111015,6 +111008,13 @@
           "target_video_id": "30983806",
           "permanent": false,
           "attempted_at": "2026-11-10T19:02:29.667268+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34952768",
+          "target_video_id": "30983806",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:34:38.188637+00:00"
         }
       ],
       "last_plan": {
@@ -111028,12 +111028,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T14:51:02.683791+00:00",
         "relay_source_id": "34952768"
-      },
-      "claim": {
-        "worker_id": "c06fc6ce4fd042c8977d072b6007a63c-shard-0",
-        "claimed_at": "2026-11-10T19:34:34.851171+00:00",
-        "lease_expires_at": "2026-11-11T01:34:34.851171+00:00",
-        "run_id": "42864255663"
       }
     },
     "13010": {
@@ -111072,7 +111066,7 @@
       "last_plan": {
         "source_id": "35073576",
         "display_name": "Řeka čaruje 720p CZ Dabing",
-        "planned_at": "2026-11-10T19:02:31.767643+00:00"
+        "planned_at": "2026-11-10T19:34:36.825569+00:00"
       },
       "previous_target_id": "30983807",
       "prepared": {
@@ -111080,6 +111074,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T14:51:07.924459+00:00",
         "relay_source_id": "35073576"
+      },
+      "claim": {
+        "worker_id": "0cd761a307bb44e3b0bb2287d3067037-shard-0",
+        "claimed_at": "2026-11-10T19:34:37.539755+00:00",
+        "lease_expires_at": "2026-11-11T01:34:37.539755+00:00",
+        "run_id": "42864255663"
       }
     },
     "12571": {
@@ -121678,7 +121678,7 @@
       "last_plan": {
         "source_id": "32965631",
         "display_name": "The Mustang 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:34:34.517992+00:00"
+        "planned_at": "2026-11-10T19:34:37.093647+00:00"
       }
     },
     "32312": {
@@ -177124,5 +177124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:34:35.170142+00:00"
+  "updated_at": "2026-11-10T19:34:38.188655+00:00"
 }
