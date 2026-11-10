@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-10T18:04:45.210548+00:00"
+        "planned_at": "2026-11-10T18:37:39.263624+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "a3d846cdeba7404dbd73f47e7f0cdbf6-shard-0",
+        "claimed_at": "2026-11-10T18:37:39.908350+00:00",
+        "lease_expires_at": "2026-11-11T00:37:39.908350+00:00",
+        "run_id": "42864255663"
       }
     },
     "29922": {
@@ -119322,17 +119328,19 @@
       "attempts": []
     },
     "17990": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19734096",
+          "target_video_id": "30985029",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:37:41.552608+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19734096",
         "display_name": "The House (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:36:55.679258+00:00"
-      },
-      "claim": {
-        "worker_id": "27afc552326a41b8aa9ad7daf5fa7c3b-shard-0",
-        "claimed_at": "2026-11-10T18:36:57.266144+00:00",
-        "lease_expires_at": "2026-11-11T00:36:57.266144+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985029",
       "prepared": {
@@ -119364,7 +119372,12 @@
       }
     },
     "2882": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "23806861",
+        "display_name": "Athena 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:37:39.531520+00:00"
+      }
     },
     "21120": {
       "attempts": []
@@ -175044,5 +175057,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:37:37.453613+00:00"
+  "updated_at": "2026-11-10T18:37:41.552623+00:00"
 }
