@@ -117683,17 +117683,19 @@
       }
     },
     "2792": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31031880",
+          "target_video_id": "30984912",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:10:27.078626+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31031880",
         "display_name": "Nonnas 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:09:37.195818+00:00"
-      },
-      "claim": {
-        "worker_id": "aae9bd8913664467b6ee5da99ad49c5d-shard-0",
-        "claimed_at": "2026-11-10T18:09:37.956957+00:00",
-        "lease_expires_at": "2026-11-11T00:09:37.956957+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984912",
       "prepared": {
@@ -173552,5 +173554,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:10:25.572686+00:00"
+  "updated_at": "2026-11-10T18:10:27.078644+00:00"
 }
