@@ -125312,7 +125312,7 @@
       "last_plan": {
         "source_id": "32203611",
         "display_name": "Apache Gold (Winnetou 1. Teil) 4K CZ Dabing",
-        "planned_at": "2026-11-10T23:14:23.128614+00:00"
+        "planned_at": "2026-11-10T23:53:14.789884+00:00"
       },
       "previous_target_id": "30985914",
       "prepared": {
@@ -125320,6 +125320,12 @@
         "size_bytes": 18600000000,
         "prepared_at": "2026-11-10T22:31:37.248887+00:00",
         "relay_source_id": "32203611"
+      },
+      "claim": {
+        "worker_id": "7715136d56a64e859a02ed0e773a55ac-shard-0",
+        "claimed_at": "2026-11-10T23:53:15.497896+00:00",
+        "lease_expires_at": "2026-11-11T05:53:15.497896+00:00",
+        "run_id": "42904278669"
       }
     },
     "30263": {
@@ -126069,17 +126075,19 @@
       "attempts": []
     },
     "27112": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29549918",
+          "target_video_id": "30986280",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:53:17.523068+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29549918",
         "display_name": "Tsar SD CZ Dabing",
         "planned_at": "2026-11-10T23:52:34.733881+00:00"
-      },
-      "claim": {
-        "worker_id": "d16fd70b877a4ee5b480531ea4472119-shard-0",
-        "claimed_at": "2026-11-10T23:52:35.484217+00:00",
-        "lease_expires_at": "2026-11-11T05:52:35.484217+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986280",
       "prepared": {
@@ -126106,7 +126114,7 @@
       "last_plan": {
         "source_id": "34698812",
         "display_name": "Poisoned: The Danger In Our Food (Poisoned: The Dirty Truth About Your Food) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:53:10.788657+00:00"
+        "planned_at": "2026-11-10T23:53:15.105931+00:00"
       }
     },
     "24288": {
@@ -180820,5 +180828,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:53:13.018625+00:00"
+  "updated_at": "2026-11-10T23:53:17.523085+00:00"
 }
