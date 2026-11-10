@@ -106951,13 +106951,6 @@
           "source_id": "34717497",
           "target_video_id": "30983143",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:30:58.880071+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34717497",
-          "target_video_id": "30983143",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:04:44.283397+00:00"
         },
         {
@@ -106966,12 +106959,19 @@
           "target_video_id": "30983143",
           "permanent": false,
           "attempted_at": "2026-11-10T17:34:50.819898+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34717497",
+          "target_video_id": "30983143",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:08:46.973067+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34717497",
         "display_name": "Příběh dušičkový 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:05:36.145789+00:00"
+        "planned_at": "2026-11-10T18:08:44.202315+00:00"
       },
       "previous_target_id": "30983143",
       "prepared": {
@@ -117594,17 +117594,39 @@
       "last_plan": {
         "source_id": "32937607",
         "display_name": "All Dogs Go to Heaven 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:05:36.461559+00:00"
+        "planned_at": "2026-11-10T18:08:44.464654+00:00"
+      },
+      "claim": {
+        "worker_id": "fac2f2e7f6114325b6ed503f52c2a9ff-shard-0",
+        "claimed_at": "2026-11-10T18:08:45.502047+00:00",
+        "lease_expires_at": "2026-11-11T00:08:45.502047+00:00",
+        "run_id": "42864255663"
       }
     },
     "2874": {
       "attempts": []
     },
     "11912": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34142682",
+        "display_name": "Night of the Living Dead (1990) 4K CZ Dabing",
+        "planned_at": "2026-11-10T18:08:44.862189+00:00"
+      },
+      "claim": {
+        "worker_id": "8a25d326698740ffb935c2a55f1c523f-shard-0",
+        "claimed_at": "2026-11-10T18:08:45.792732+00:00",
+        "lease_expires_at": "2026-11-11T00:08:45.792732+00:00",
+        "run_id": "42864255663"
+      }
     },
     "23074": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33730079",
+        "display_name": "Sea of Love 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:08:45.029911+00:00"
+      }
     },
     "2792": {
       "attempts": []
@@ -173453,5 +173475,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:07:16.707374+00:00"
+  "updated_at": "2026-11-10T18:08:46.973083+00:00"
 }
