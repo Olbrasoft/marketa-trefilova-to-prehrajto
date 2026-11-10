@@ -103957,17 +103957,19 @@
       }
     },
     "33561": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "24870033",
+          "reason": "Source detail has no authenticated download link; source_id=24870033",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:13:16.393332+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24870033",
         "display_name": "Forman vs. Forman 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:13:11.591632+00:00"
-      },
-      "claim": {
-        "worker_id": "b1aebc863568410ca226ecf221144908-shard-0",
-        "claimed_at": "2026-11-10T10:13:12.174506+00:00",
-        "lease_expires_at": "2026-11-10T16:13:12.174506+00:00",
-        "run_id": "42790251611"
       }
     },
     "16258": {
@@ -161881,5 +161883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:12.768254+00:00"
+  "updated_at": "2026-11-10T10:13:16.393350+00:00"
 }
