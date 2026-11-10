@@ -115185,17 +115185,19 @@
       }
     },
     "25281": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27868084",
+          "target_video_id": "30984654",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:14:43.912956+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27868084",
         "display_name": "Meet the Robinsons 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:14:03.265844+00:00"
-      },
-      "claim": {
-        "worker_id": "88d13fcfc5f346e88a969133e3504de9-shard-0",
-        "claimed_at": "2026-11-10T17:14:05.075531+00:00",
-        "lease_expires_at": "2026-11-10T23:14:05.075531+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984654",
       "prepared": {
@@ -171403,5 +171405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:14:37.969241+00:00"
+  "updated_at": "2026-11-10T17:14:43.912972+00:00"
 }
