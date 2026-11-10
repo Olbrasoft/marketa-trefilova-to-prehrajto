@@ -32403,11 +32403,19 @@
       "attempts": []
     },
     "30884": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27669638",
+          "reason": "Request failed for https://sdilej.cz/27669638/hra-o-truny-posledni-hlidka-dokument-hdtv-cz-dabing.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T00:55:52.915452+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27669638",
         "display_name": "Game of Thrones: The Last Watch 1080p CZ Titulky",
-        "planned_at": "2026-11-10T00:55:02.716228+00:00"
+        "planned_at": "2026-11-10T00:55:06.538077+00:00"
       }
     },
     "22472": {
@@ -95544,5 +95552,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T00:55:02.716242+00:00"
+  "updated_at": "2026-11-10T00:55:52.915468+00:00"
 }
