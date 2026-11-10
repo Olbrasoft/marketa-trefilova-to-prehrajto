@@ -105870,17 +105870,19 @@
       "attempts": []
     },
     "21139": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34189801",
+          "target_video_id": "30979582",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:31:07.789253+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34189801",
         "display_name": "Patty Is Such a Girly Name 1080p CZ Dabing",
         "planned_at": "2026-11-10T12:26:48.869226+00:00"
-      },
-      "claim": {
-        "worker_id": "a7a225b4d79d47dbbe794b62fcaad085-shard-0",
-        "claimed_at": "2026-11-10T12:26:49.277795+00:00",
-        "lease_expires_at": "2026-11-10T18:26:49.277795+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30979582",
       "prepared": {
@@ -163342,5 +163344,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:29:29.764037+00:00"
+  "updated_at": "2026-11-10T12:31:07.789267+00:00"
 }
