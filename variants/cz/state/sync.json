@@ -104539,7 +104539,15 @@
       "attempts": []
     },
     "21705": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34158982",
+          "reason": "Source detail has no authenticated download link; source_id=34158982",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:26.207114+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34158982",
         "display_name": "A Stitch in Time 1080p CZ Dabing",
@@ -104556,10 +104564,32 @@
       "attempts": []
     },
     "2771": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33021699",
+        "display_name": "Wunderschöner 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:15:24.115769+00:00"
+      },
+      "claim": {
+        "worker_id": "00fc3bb5dfc14ae99f0d0bfbb43f8f1b-shard-0",
+        "claimed_at": "2026-11-10T10:15:24.720419+00:00",
+        "lease_expires_at": "2026-11-10T16:15:24.720419+00:00",
+        "run_id": "42790251611"
+      }
     },
     "34050": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29945555",
+        "display_name": "Králové videa (Králi videa) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:15:24.282248+00:00"
+      },
+      "claim": {
+        "worker_id": "9fe67729dc3443c393b88de7b370ac90-shard-0",
+        "claimed_at": "2026-11-10T10:15:24.877213+00:00",
+        "lease_expires_at": "2026-11-10T16:15:24.877213+00:00",
+        "run_id": "42790251611"
+      }
     },
     "14290": {
       "attempts": []
@@ -162280,5 +162310,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:21.516396+00:00"
+  "updated_at": "2026-11-10T10:15:26.207133+00:00"
 }
