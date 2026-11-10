@@ -28937,13 +28937,6 @@
           "source_id": "26168393",
           "target_video_id": "30721201",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:40:43.096341+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168393",
-          "target_video_id": "30721201",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:14:44.646081+00:00"
         },
         {
@@ -28952,12 +28945,19 @@
           "target_video_id": "30721201",
           "permanent": false,
           "attempted_at": "2026-11-10T16:46:42.150730+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168393",
+          "target_video_id": "30721201",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:16:54.304039+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:46:37.529262+00:00"
+        "planned_at": "2026-11-10T17:16:52.319780+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -115376,11 +115376,22 @@
       "last_plan": {
         "source_id": "33799960",
         "display_name": "Collateral Beauty 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:16:47.757377+00:00"
+        "planned_at": "2026-11-10T17:16:52.647294+00:00"
+      },
+      "claim": {
+        "worker_id": "57fb3d899c434c4cac6929aa3418ce24-shard-0",
+        "claimed_at": "2026-11-10T17:16:53.370435+00:00",
+        "lease_expires_at": "2026-11-10T23:16:53.370435+00:00",
+        "run_id": "42823888331"
       }
     },
     "2983": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11567602",
+        "display_name": "Widows 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:16:52.820555+00:00"
+      }
     },
     "11484": {
       "attempts": []
@@ -171520,5 +171531,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:16:50.473824+00:00"
+  "updated_at": "2026-11-10T17:16:54.304058+00:00"
 }
