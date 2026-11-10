@@ -104653,17 +104653,19 @@
       "attempts": []
     },
     "12028": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27601630",
+          "reason": "Source detail has no authenticated download link; source_id=27601630",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:50.378484+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27601630",
         "display_name": "Mestem chodi Mikulas (Městem chodí Mikuláš) SD CZ Dabing",
         "planned_at": "2026-11-10T10:15:44.277117+00:00"
-      },
-      "claim": {
-        "worker_id": "a484bc68ca1440f4bdb6b6eb6c79b49b-shard-0",
-        "claimed_at": "2026-11-10T10:15:45.321209+00:00",
-        "lease_expires_at": "2026-11-10T16:15:45.321209+00:00",
-        "run_id": "42790251611"
       }
     },
     "10701": {
@@ -162390,5 +162392,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:48.806398+00:00"
+  "updated_at": "2026-11-10T10:15:50.378502+00:00"
 }
