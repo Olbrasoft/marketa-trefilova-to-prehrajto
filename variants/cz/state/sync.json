@@ -113921,7 +113921,7 @@
       "last_plan": {
         "source_id": "29766668",
         "display_name": "The Fall Guy 4K CZ Dabing",
-        "planned_at": "2026-11-10T16:35:41.367610+00:00"
+        "planned_at": "2026-11-10T17:09:13.543060+00:00"
       },
       "previous_target_id": "30984145",
       "prepared": {
@@ -113929,6 +113929,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:33:19.620672+00:00",
         "relay_source_id": "29766668"
+      },
+      "claim": {
+        "worker_id": "e9aacefaa80840dc896c539b7e2253f9-shard-0",
+        "claimed_at": "2026-11-10T17:09:14.293497+00:00",
+        "lease_expires_at": "2026-11-10T23:09:14.293497+00:00",
+        "run_id": "42823888331"
       }
     },
     "2964": {
@@ -114842,17 +114848,19 @@
       }
     },
     "17928": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27423356",
+          "target_video_id": "30984629",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:09:15.222040+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27423356",
         "display_name": "A Christmas Carol (2009) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:08:29.679566+00:00"
-      },
-      "claim": {
-        "worker_id": "b08584ccbe3f45d9a3b7a6ce64947fe3-shard-0",
-        "claimed_at": "2026-11-10T17:08:30.821650+00:00",
-        "lease_expires_at": "2026-11-10T23:08:30.821650+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984629",
       "prepared": {
@@ -114888,7 +114896,7 @@
       "last_plan": {
         "source_id": "24757259",
         "display_name": "Something's Gotta Give 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:09:07.920625+00:00"
+        "planned_at": "2026-11-10T17:09:13.851271+00:00"
       }
     },
     "25118": {
@@ -171089,5 +171097,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:09:09.474799+00:00"
+  "updated_at": "2026-11-10T17:09:15.222065+00:00"
 }
