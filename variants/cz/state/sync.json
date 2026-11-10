@@ -108349,7 +108349,7 @@
       "last_plan": {
         "source_id": "27463973",
         "display_name": "Signum Laudis 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:51:50.906927+00:00"
+        "planned_at": "2026-11-10T15:22:13.358520+00:00"
       },
       "previous_target_id": "30983590",
       "prepared": {
@@ -108357,6 +108357,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:19:39.157638+00:00",
         "relay_source_id": "27463973"
+      },
+      "claim": {
+        "worker_id": "4c85ba06d13d43caac3c2e3a24fbbaa9-shard-0",
+        "claimed_at": "2026-11-10T15:22:14.138860+00:00",
+        "lease_expires_at": "2026-11-10T21:22:14.138860+00:00",
+        "run_id": "42823888331"
       }
     },
     "16570": {
@@ -110577,6 +110583,13 @@
           "target_video_id": "30983808",
           "permanent": false,
           "attempted_at": "2026-11-10T14:51:55.332742+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34733928",
+          "target_video_id": "30983808",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:22:14.890932+00:00"
         }
       ],
       "last_plan": {
@@ -110587,7 +110600,7 @@
       "previous_target_id": "30983808",
       "prepared": {
         "target_video_id": "30983808",
-        "size_bytes": 3194471537,
+        "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:51:19.173901+00:00",
         "relay_source_id": "34733928"
       }
@@ -111875,17 +111888,19 @@
       }
     },
     "2768": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33349929",
+          "target_video_id": "30984057",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:22:15.268553+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33349929",
         "display_name": "Annihilation 4K CZ Dabing",
         "planned_at": "2026-11-10T15:21:28.696291+00:00"
-      },
-      "claim": {
-        "worker_id": "b90af6c0a8ed47f598e346624dc3550c-shard-0",
-        "claimed_at": "2026-11-10T15:21:33.480175+00:00",
-        "lease_expires_at": "2026-11-10T21:21:33.480175+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984057",
       "prepared": {
@@ -111900,7 +111915,7 @@
       "last_plan": {
         "source_id": "32044029",
         "display_name": "Tron: Legacy 4K CZ Dabing",
-        "planned_at": "2026-11-10T15:22:11.137418+00:00"
+        "planned_at": "2026-11-10T15:22:13.695906+00:00"
       }
     },
     "2992": {
@@ -168287,5 +168302,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:22:11.137436+00:00"
+  "updated_at": "2026-11-10T15:22:15.268572+00:00"
 }
