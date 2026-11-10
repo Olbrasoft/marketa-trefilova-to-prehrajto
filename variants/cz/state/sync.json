@@ -119720,13 +119720,6 @@
           "source_id": "12171968",
           "target_video_id": "30984999",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:46:51.020859+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12171968",
-          "target_video_id": "30984999",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:25:50.723115+00:00"
         },
         {
@@ -119735,6 +119728,13 @@
           "target_video_id": "30984999",
           "permanent": false,
           "attempted_at": "2026-11-10T23:06:48.424412+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12171968",
+          "target_video_id": "30984999",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:47:53.364879+00:00"
         }
       ],
       "last_plan": {
@@ -119820,7 +119820,7 @@
       "last_plan": {
         "source_id": "11263337",
         "display_name": "Bugsy SD CZ Dabing",
-        "planned_at": "2026-11-10T23:06:47.860009+00:00"
+        "planned_at": "2026-11-10T23:47:51.796550+00:00"
       },
       "previous_target_id": "30985002",
       "prepared": {
@@ -119828,6 +119828,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T18:30:17.466007+00:00",
         "relay_source_id": "11263337"
+      },
+      "claim": {
+        "worker_id": "e84da46495424cdd81a54625a8d325ab-shard-0",
+        "claimed_at": "2026-11-10T23:47:52.547994+00:00",
+        "lease_expires_at": "2026-11-11T05:47:52.547994+00:00",
+        "run_id": "42904278669"
       }
     },
     "3022": {
@@ -125908,7 +125914,7 @@
       "last_plan": {
         "source_id": "34788727",
         "display_name": "Buchanan Rides Alone SD CZ Dabing",
-        "planned_at": "2026-11-10T23:47:49.552030+00:00"
+        "planned_at": "2026-11-10T23:47:52.111018+00:00"
       }
     },
     "13340": {
@@ -180673,5 +180679,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:47:49.797621+00:00"
+  "updated_at": "2026-11-10T23:47:53.364899+00:00"
 }
