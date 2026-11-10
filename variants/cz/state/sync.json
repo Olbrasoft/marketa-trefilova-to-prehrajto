@@ -111679,17 +111679,19 @@
       }
     },
     "2887": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34357641",
+          "target_video_id": "30984036",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:19:55.763749+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34357641",
         "display_name": "50 First Dates 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:18:23.171194+00:00"
-      },
-      "claim": {
-        "worker_id": "f75579142300462288b4b1202878b019-shard-0",
-        "claimed_at": "2026-11-10T15:18:24.006230+00:00",
-        "lease_expires_at": "2026-11-10T21:18:24.006230+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984036",
       "prepared": {
@@ -168122,5 +168124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:19:52.239229+00:00"
+  "updated_at": "2026-11-10T15:19:55.763764+00:00"
 }
