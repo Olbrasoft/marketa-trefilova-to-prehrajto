@@ -104959,17 +104959,19 @@
       "attempts": []
     },
     "14004": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "17239672",
+          "reason": "Source detail has no authenticated download link; source_id=17239672",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:16:48.836285+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17239672",
         "display_name": "Pilate (Pilátus) 720p CZ Dabing",
         "planned_at": "2026-11-10T10:16:44.738956+00:00"
-      },
-      "claim": {
-        "worker_id": "e6bbac585ad84d85b5b7f46b1733acac-shard-0",
-        "claimed_at": "2026-11-10T10:16:45.440075+00:00",
-        "lease_expires_at": "2026-11-10T16:16:45.440075+00:00",
-        "run_id": "42790251611"
       }
     },
     "17541": {
@@ -162583,5 +162585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:16:47.224130+00:00"
+  "updated_at": "2026-11-10T10:16:48.836304+00:00"
 }
