@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "ccf88e31ecd84d0d81bd8a04b77d4f2d-shard-0",
+        "claimed_at": "2026-11-10T01:29:58.007082+00:00",
+        "lease_expires_at": "2026-11-10T07:29:58.007082+00:00",
+        "run_id": "42729980423"
       }
     },
     "37290": {
@@ -98298,12 +98304,19 @@
           "target_video_id": "30957288",
           "permanent": false,
           "attempted_at": "2026-11-10T00:55:04.223059+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25775847",
+          "target_video_id": "30957288",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:30:01.361128+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25775847",
         "display_name": "Sněženky a machři 1080p CZ Dabing",
-        "planned_at": "2026-11-10T00:55:02.090677+00:00"
+        "planned_at": "2026-11-10T01:29:58.200017+00:00"
       },
       "previous_target_id": "30957288",
       "prepared": {
@@ -98600,7 +98613,7 @@
       "last_plan": {
         "source_id": "14033559",
         "display_name": "Sink or Swim (Le Grand Bain) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T01:29:55.730012+00:00"
+        "planned_at": "2026-11-10T01:29:58.492116+00:00"
       }
     },
     "2589": {
@@ -157779,5 +157792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:29:56.032246+00:00"
+  "updated_at": "2026-11-10T01:30:01.361145+00:00"
 }
