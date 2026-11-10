@@ -108314,17 +108314,19 @@
       "attempts": []
     },
     "30345": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35076570",
+          "target_video_id": "30983671",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:33:16.466305+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35076570",
         "display_name": "Vlčí jáma (Wolf Trap) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:31:38.092494+00:00"
-      },
-      "claim": {
-        "worker_id": "54d5f76abff54e5988f5834dee6757c5-shard-0",
-        "claimed_at": "2026-11-10T14:31:38.486551+00:00",
-        "lease_expires_at": "2026-11-10T20:31:38.486551+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983671",
       "prepared": {
@@ -108408,7 +108410,18 @@
       "attempts": []
     },
     "10688": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34671725",
+        "display_name": "The Merry Wives (Cech panen kutnohorských) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:33:13.914422+00:00"
+      },
+      "claim": {
+        "worker_id": "8acfcb1f594447d09878dd88dd111afb-shard-0",
+        "claimed_at": "2026-11-10T14:33:14.306876+00:00",
+        "lease_expires_at": "2026-11-10T20:33:14.306876+00:00",
+        "run_id": "42823888331"
+      }
     },
     "34066": {
       "attempts": []
@@ -165340,5 +165353,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:33:10.332622+00:00"
+  "updated_at": "2026-11-10T14:33:16.466322+00:00"
 }
