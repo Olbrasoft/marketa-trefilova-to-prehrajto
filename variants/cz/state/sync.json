@@ -111317,25 +111317,22 @@
       }
     },
     "2980": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "upload_failed",
+          "source_id": "23413154",
+          "reason": "PrehrajtoError",
+          "permanent": false,
+          "target_video_id": "30984001",
+          "attempted_at": "2026-11-10T15:14:37.879837+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23413154",
         "display_name": "Aquaman 4K CZ Dabing",
         "planned_at": "2026-11-10T15:13:50.082879+00:00"
       },
-      "claim": {
-        "worker_id": "88f9b6acf8134fab97b94075b0f24128-shard-0",
-        "claimed_at": "2026-11-10T15:13:50.521080+00:00",
-        "lease_expires_at": "2026-11-10T21:13:50.521080+00:00",
-        "run_id": "42823888331"
-      },
-      "previous_target_id": "30984001",
-      "prepared": {
-        "target_video_id": "30984001",
-        "size_bytes": 15122495214,
-        "prepared_at": "2026-11-10T15:13:56.232210+00:00",
-        "relay_source_id": "23413154"
-      }
+      "previous_target_id": "30984001"
     },
     "2564": {
       "attempts": [],
@@ -111359,7 +111356,18 @@
       }
     },
     "3087": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11544873",
+        "display_name": "Spectre 4K CZ Dabing",
+        "planned_at": "2026-11-10T15:14:35.602275+00:00"
+      },
+      "claim": {
+        "worker_id": "f46f8a4235ce4a3cbb09ff4eaf519c0d-shard-0",
+        "claimed_at": "2026-11-10T15:14:35.994535+00:00",
+        "lease_expires_at": "2026-11-10T21:14:35.994535+00:00",
+        "run_id": "42823888331"
+      }
     },
     "3074": {
       "attempts": []
@@ -167778,5 +167786,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:14:29.081784+00:00"
+  "updated_at": "2026-11-10T15:14:37.879855+00:00"
 }
