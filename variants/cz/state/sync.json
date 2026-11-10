@@ -111294,17 +111294,19 @@
       "previous_target_id": "30983998"
     },
     "3096": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32962420",
+          "target_video_id": "30984000",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:14:29.081759+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32962420",
         "display_name": "The Maze Runner 4K CZ Dabing",
         "planned_at": "2026-11-10T15:13:46.962641+00:00"
-      },
-      "claim": {
-        "worker_id": "c3ab48cd60574d6ea83f459ead2dc155-shard-0",
-        "claimed_at": "2026-11-10T15:13:47.348312+00:00",
-        "lease_expires_at": "2026-11-10T21:13:47.348312+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984000",
       "prepared": {
@@ -167776,5 +167778,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:14:14.206910+00:00"
+  "updated_at": "2026-11-10T15:14:29.081784+00:00"
 }
