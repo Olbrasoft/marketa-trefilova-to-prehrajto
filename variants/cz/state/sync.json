@@ -118499,13 +118499,6 @@
           "source_id": "13048079",
           "target_video_id": "30984885",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:08:19.831170+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13048079",
-          "target_video_id": "30984885",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:42:52.587134+00:00"
         },
         {
@@ -118514,12 +118507,19 @@
           "target_video_id": "30984885",
           "permanent": false,
           "attempted_at": "2026-11-10T21:16:07.465980+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13048079",
+          "target_video_id": "30984885",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:49:31.484542+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13048079",
         "display_name": "Heartbreak Ridge SD CZ Dabing",
-        "planned_at": "2026-11-10T21:16:01.153355+00:00"
+        "planned_at": "2026-11-10T21:49:29.132285+00:00"
       },
       "previous_target_id": "30984885",
       "prepared": {
@@ -124057,7 +124057,13 @@
       "last_plan": {
         "source_id": "31751650",
         "display_name": "David (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:49:21.289552+00:00"
+        "planned_at": "2026-11-10T21:49:29.391544+00:00"
+      },
+      "claim": {
+        "worker_id": "2e6611277b684f9b8502c64985fe4fec-shard-0",
+        "claimed_at": "2026-11-10T21:49:30.175771+00:00",
+        "lease_expires_at": "2026-11-11T03:49:30.175771+00:00",
+        "run_id": "42864255663"
       }
     },
     "35395": {
@@ -124076,10 +124082,26 @@
       "attempts": []
     },
     "16800": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26655410",
+        "display_name": "Tom of Finland 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:49:29.549315+00:00"
+      },
+      "claim": {
+        "worker_id": "b184422754db4c63a2e423baaa3ff390-shard-0",
+        "claimed_at": "2026-11-10T21:49:30.326333+00:00",
+        "lease_expires_at": "2026-11-11T03:49:30.326333+00:00",
+        "run_id": "42864255663"
+      }
     },
     "22493": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19162385",
+        "display_name": "Tom Horn 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:49:29.709266+00:00"
+      }
     },
     "30021": {
       "attempts": []
@@ -179179,5 +179201,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:49:25.629049+00:00"
+  "updated_at": "2026-11-10T21:49:31.484561+00:00"
 }
