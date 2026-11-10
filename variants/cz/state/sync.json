@@ -103138,17 +103138,19 @@
       "attempts": []
     },
     "22071": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "21164537",
+          "reason": "Source detail has no authenticated download link; source_id=21164537",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:10:22.681911+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21164537",
         "display_name": "The Widow Couderc 720p CZ Dabing",
         "planned_at": "2026-11-10T10:10:14.132949+00:00"
-      },
-      "claim": {
-        "worker_id": "0d3a5be9d55848d18067e81598ee6afa-shard-0",
-        "claimed_at": "2026-11-10T10:10:15.020223+00:00",
-        "lease_expires_at": "2026-11-10T16:10:15.020223+00:00",
-        "run_id": "42790251611"
       }
     },
     "16834": {
@@ -161311,5 +161313,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:10:20.900965+00:00"
+  "updated_at": "2026-11-10T10:10:22.681931+00:00"
 }
