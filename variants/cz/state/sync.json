@@ -110214,7 +110214,7 @@
       "last_plan": {
         "source_id": "32367221",
         "display_name": "Oznamuje se láskám vasim (Oznamuje se láskám vašim) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:23:16.904939+00:00"
+        "planned_at": "2026-11-10T17:53:26.633203+00:00"
       },
       "previous_target_id": "30983754",
       "prepared": {
@@ -110222,6 +110222,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T14:44:13.701234+00:00",
         "relay_source_id": "32367221"
+      },
+      "claim": {
+        "worker_id": "7485432d67794fdc82590b8ac72972c5-shard-0",
+        "claimed_at": "2026-11-10T17:53:27.657040+00:00",
+        "lease_expires_at": "2026-11-10T23:53:27.657040+00:00",
+        "run_id": "42823888331"
       }
     },
     "16531": {
@@ -115822,6 +115828,13 @@
           "target_video_id": "30984707",
           "permanent": false,
           "attempted_at": "2026-11-10T17:23:18.321166+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767290",
+          "target_video_id": "30984707",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:53:27.921565+00:00"
         }
       ],
       "last_plan": {
@@ -115832,7 +115845,7 @@
       "previous_target_id": "30984707",
       "prepared": {
         "target_video_id": "30984707",
-        "size_bytes": 2795929644,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T17:22:42.677081+00:00",
         "relay_source_id": "33767290"
       }
@@ -116905,11 +116918,22 @@
       "last_plan": {
         "source_id": "33849773",
         "display_name": "Dumb Money 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:53:19.772175+00:00"
+        "planned_at": "2026-11-10T17:53:26.937413+00:00"
+      },
+      "claim": {
+        "worker_id": "cee69f72009d472ca24638a4909ce37b-shard-0",
+        "claimed_at": "2026-11-10T17:53:28.108825+00:00",
+        "lease_expires_at": "2026-11-10T23:53:28.108825+00:00",
+        "run_id": "42823888331"
       }
     },
     "2970": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "18074487",
+        "display_name": "Arctic 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:53:27.168698+00:00"
+      }
     },
     "2956": {
       "attempts": []
@@ -172854,5 +172878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:53:20.009739+00:00"
+  "updated_at": "2026-11-10T17:53:28.108859+00:00"
 }
