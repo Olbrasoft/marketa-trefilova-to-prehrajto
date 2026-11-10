@@ -98955,17 +98955,19 @@
       "attempts": []
     },
     "37375": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34471665",
+          "target_video_id": "30959278",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:13:38.099027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34471665",
         "display_name": "Light Sleeper 1080p CZ Dabing",
         "planned_at": "2026-11-10T02:09:12.385638+00:00"
-      },
-      "claim": {
-        "worker_id": "62385c4ed62f4433829edc896f671294-shard-0",
-        "claimed_at": "2026-11-10T02:09:12.787015+00:00",
-        "lease_expires_at": "2026-11-10T08:09:12.787015+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30959278",
       "prepared": {
@@ -158116,5 +158118,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T02:11:13.632829+00:00"
+  "updated_at": "2026-11-10T02:13:38.099044+00:00"
 }
