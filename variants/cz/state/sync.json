@@ -115472,17 +115472,19 @@
       }
     },
     "2907": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35010461",
+          "reason": "Request failed for https://sdilej.cz/35010461/jack-stavi-dum-2018-cz-dab-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:20:19.051437+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35010461",
         "display_name": "The House That Jack Built (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:20:14.738464+00:00"
-      },
-      "claim": {
-        "worker_id": "94197531c1d7429e876c7ec296346fca-shard-0",
-        "claimed_at": "2026-11-10T17:20:16.061262+00:00",
-        "lease_expires_at": "2026-11-10T23:20:16.061262+00:00",
-        "run_id": "42823888331"
       }
     },
     "2935": {
@@ -171619,5 +171621,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:20:16.061295+00:00"
+  "updated_at": "2026-11-10T17:20:19.051465+00:00"
 }
