@@ -123590,17 +123590,19 @@
       "attempts": []
     },
     "16679": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10827431",
+          "target_video_id": "30985726",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:33:36.048987+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10827431",
         "display_name": "Finding Your Feet 1080p CZ Dabing",
         "planned_at": "2026-11-10T21:31:17.849409+00:00"
-      },
-      "claim": {
-        "worker_id": "b0c02d3d42e54151aecc2af1d3a71f54-shard-0",
-        "claimed_at": "2026-11-10T21:31:19.826094+00:00",
-        "lease_expires_at": "2026-11-11T03:31:19.826094+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985726",
       "prepared": {
@@ -178811,5 +178813,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:33:34.505989+00:00"
+  "updated_at": "2026-11-10T21:33:36.049005+00:00"
 }
