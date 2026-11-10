@@ -103798,10 +103798,34 @@
       "attempts": []
     },
     "25811": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34796930",
+          "reason": "Source detail has no authenticated download link; source_id=34796930",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:12:31.282148+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34796930",
+        "display_name": "Sybil 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:12:27.810612+00:00"
+      }
     },
     "16136": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "6737529",
+        "display_name": "Drama SD CZ Dabing",
+        "planned_at": "2026-11-10T10:12:28.183078+00:00"
+      },
+      "claim": {
+        "worker_id": "672f609d07ff4c1597313a4c6debecf6-shard-0",
+        "claimed_at": "2026-11-10T10:12:29.111279+00:00",
+        "lease_expires_at": "2026-11-10T16:12:29.111279+00:00",
+        "run_id": "42790251611"
+      }
     },
     "36647": {
       "attempts": []
@@ -161740,5 +161764,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:12:25.041112+00:00"
+  "updated_at": "2026-11-10T10:12:31.282165+00:00"
 }
