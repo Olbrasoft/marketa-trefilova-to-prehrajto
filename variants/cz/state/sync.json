@@ -117667,7 +117667,7 @@
       "last_plan": {
         "source_id": "25787561",
         "display_name": "Florence Foster Jenkins 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:57:18.116816+00:00"
+        "planned_at": "2026-11-10T18:28:20.181903+00:00"
       },
       "previous_target_id": "30984861",
       "prepared": {
@@ -117675,6 +117675,12 @@
         "size_bytes": 2252655676,
         "prepared_at": "2026-11-10T17:57:25.250689+00:00",
         "relay_source_id": "25787561"
+      },
+      "claim": {
+        "worker_id": "9a76f195c0954580bd4ed732b4524187-shard-0",
+        "claimed_at": "2026-11-10T18:28:20.792929+00:00",
+        "lease_expires_at": "2026-11-11T00:28:20.792929+00:00",
+        "run_id": "42864255663"
       }
     },
     "11749": {
@@ -118622,17 +118628,19 @@
       "attempts": []
     },
     "3130": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15342199",
+          "target_video_id": "30984988",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:28:20.965046+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15342199",
         "display_name": "Jersey Boys 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:27:36.435269+00:00"
-      },
-      "claim": {
-        "worker_id": "287e5346b5b3460b9c81cb3868714021-shard-0",
-        "claimed_at": "2026-11-10T18:27:38.890816+00:00",
-        "lease_expires_at": "2026-11-11T00:27:38.890816+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984988",
       "prepared": {
@@ -118677,7 +118685,7 @@
       "last_plan": {
         "source_id": "33119817",
         "display_name": "Champions (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:28:14.870996+00:00"
+        "planned_at": "2026-11-10T18:28:20.473328+00:00"
       }
     },
     "16691": {
@@ -174448,5 +174456,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:28:17.156478+00:00"
+  "updated_at": "2026-11-10T18:28:20.965063+00:00"
 }
