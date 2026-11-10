@@ -98929,17 +98929,19 @@
       "attempts": []
     },
     "36652": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6663522",
+          "target_video_id": "30959158",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:10:16.477569+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6663522",
         "display_name": "The Stunt Man SD CZ Dabing",
         "planned_at": "2026-11-10T02:01:33.607391+00:00"
-      },
-      "claim": {
-        "worker_id": "f4215e1c3bbc4cf68b836c4d5c6407e8-shard-0",
-        "claimed_at": "2026-11-10T02:01:34.024422+00:00",
-        "lease_expires_at": "2026-11-10T08:01:34.024422+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30959158",
       "prepared": {
@@ -158083,5 +158085,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T02:09:17.496000+00:00"
+  "updated_at": "2026-11-10T02:10:16.477587+00:00"
 }
