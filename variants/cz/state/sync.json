@@ -111723,17 +111723,19 @@
       }
     },
     "2991": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31008000",
+          "target_video_id": "30984042",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:20:57.864207+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31008000",
         "display_name": "Signs 4K CZ Dabing",
         "planned_at": "2026-11-10T15:19:47.900705+00:00"
-      },
-      "claim": {
-        "worker_id": "4c29919182644f9cbce13f1187975b87-shard-0",
-        "claimed_at": "2026-11-10T15:19:48.286291+00:00",
-        "lease_expires_at": "2026-11-10T21:19:48.286291+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984042",
       "prepared": {
@@ -168163,5 +168165,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:20:21.843839+00:00"
+  "updated_at": "2026-11-10T15:20:57.864225+00:00"
 }
