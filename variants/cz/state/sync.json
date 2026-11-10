@@ -109552,6 +109552,13 @@
           "target_video_id": "30983747",
           "permanent": false,
           "attempted_at": "2026-11-10T14:43:09.111573+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716525",
+          "target_video_id": "30983747",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:13:47.597736+00:00"
         }
       ],
       "last_plan": {
@@ -109562,15 +109569,9 @@
       "previous_target_id": "30983747",
       "prepared": {
         "target_video_id": "30983747",
-        "size_bytes": 2777775058,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:42:03.377463+00:00",
         "relay_source_id": "34716525"
-      },
-      "claim": {
-        "worker_id": "b28a1db15c474949b5e20e0da40e96b4-shard-0",
-        "claimed_at": "2026-11-10T15:13:42.697862+00:00",
-        "lease_expires_at": "2026-11-10T21:13:42.697862+00:00",
-        "run_id": "42823888331"
       }
     },
     "31730": {
@@ -109594,6 +109595,12 @@
         "size_bytes": 3592977882,
         "prepared_at": "2026-11-10T14:42:14.240399+00:00",
         "relay_source_id": "34788913"
+      },
+      "claim": {
+        "worker_id": "f5ea623518b24ecf877230cb023d4a55-shard-0",
+        "claimed_at": "2026-11-10T15:13:46.606032+00:00",
+        "lease_expires_at": "2026-11-10T21:13:46.606032+00:00",
+        "run_id": "42823888331"
       }
     },
     "16657": {
@@ -111276,7 +111283,13 @@
       "last_plan": {
         "source_id": "32962420",
         "display_name": "The Maze Runner 4K CZ Dabing",
-        "planned_at": "2026-11-10T15:13:43.306466+00:00"
+        "planned_at": "2026-11-10T15:13:46.962641+00:00"
+      },
+      "claim": {
+        "worker_id": "c3ab48cd60574d6ea83f459ead2dc155-shard-0",
+        "claimed_at": "2026-11-10T15:13:47.348312+00:00",
+        "lease_expires_at": "2026-11-10T21:13:47.348312+00:00",
+        "run_id": "42823888331"
       }
     },
     "2980": {
@@ -167705,5 +167718,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:13:43.812208+00:00"
+  "updated_at": "2026-11-10T15:13:47.597758+00:00"
 }
