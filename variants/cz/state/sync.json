@@ -10875,13 +10875,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-10T09:03:08.100165+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-10T10:00:10.742761+00:00"
         },
         {
@@ -10890,6 +10883,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-10T10:30:56.923797+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-10T11:14:02.836971+00:00"
         }
       ],
       "last_plan": {
@@ -18960,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-10T10:30:58.604367+00:00"
+        "planned_at": "2026-11-10T11:14:01.423306+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18968,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "98ae4163aa484928942e3f10cdbed10f-shard-0",
+        "claimed_at": "2026-11-10T11:14:02.241962+00:00",
+        "lease_expires_at": "2026-11-10T17:14:02.241962+00:00",
+        "run_id": "42790251611"
       }
     },
     "29695": {
@@ -105533,7 +105539,7 @@
       "last_plan": {
         "source_id": "34958704",
         "display_name": "Annaismissing (#annaismissing) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T11:13:58.773861+00:00"
+        "planned_at": "2026-11-10T11:14:01.746249+00:00"
       }
     },
     "12492": {
@@ -163015,5 +163021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T11:13:58.773878+00:00"
+  "updated_at": "2026-11-10T11:14:02.836990+00:00"
 }
