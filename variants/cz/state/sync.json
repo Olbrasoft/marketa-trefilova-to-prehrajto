@@ -115031,17 +115031,19 @@
       }
     },
     "3139": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34858393",
+          "target_video_id": "30984643",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:13:06.205847+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34858393",
         "display_name": "Street Kings 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:11:51.599878+00:00"
-      },
-      "claim": {
-        "worker_id": "572fc00a75904a0d9f2b01f0a5b6eb13-shard-0",
-        "claimed_at": "2026-11-10T17:11:53.796346+00:00",
-        "lease_expires_at": "2026-11-10T23:11:53.796346+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984643",
       "prepared": {
@@ -171270,5 +171272,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:12:19.101259+00:00"
+  "updated_at": "2026-11-10T17:13:06.205864+00:00"
 }
