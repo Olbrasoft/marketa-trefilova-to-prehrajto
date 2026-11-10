@@ -83530,13 +83530,6 @@
           "source_id": "20559777",
           "target_video_id": "30916027",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:11:22.872831+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20559777",
-          "target_video_id": "30916027",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:45:39.178510+00:00"
         },
         {
@@ -83545,6 +83538,13 @@
           "target_video_id": "30916027",
           "permanent": false,
           "attempted_at": "2026-11-10T16:19:22.061557+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20559777",
+          "target_video_id": "30916027",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:50:31.297968+00:00"
         }
       ],
       "last_plan": {
@@ -109801,7 +109801,7 @@
       "last_plan": {
         "source_id": "34252297",
         "display_name": "Vietnam from Above 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:19:23.871586+00:00"
+        "planned_at": "2026-11-10T16:50:30.161713+00:00"
       },
       "previous_target_id": "30983719",
       "prepared": {
@@ -109809,6 +109809,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T14:39:44.579016+00:00",
         "relay_source_id": "34252297"
+      },
+      "claim": {
+        "worker_id": "251ee87e60c44b9bada4e06ca9f26fb4-shard-0",
+        "claimed_at": "2026-11-10T16:50:31.004353+00:00",
+        "lease_expires_at": "2026-11-10T22:50:31.004353+00:00",
+        "run_id": "42823888331"
       }
     },
     "21368": {
@@ -114575,7 +114581,7 @@
       "last_plan": {
         "source_id": "32925649",
         "display_name": "The Lake House 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:50:26.268031+00:00"
+        "planned_at": "2026-11-10T16:50:30.466909+00:00"
       }
     },
     "2842": {
@@ -170809,5 +170815,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:50:26.516545+00:00"
+  "updated_at": "2026-11-10T16:50:31.297989+00:00"
 }
