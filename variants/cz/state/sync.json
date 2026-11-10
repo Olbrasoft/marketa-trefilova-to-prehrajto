@@ -115945,17 +115945,19 @@
       }
     },
     "2877": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23542078",
+          "target_video_id": "30984756",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:36:27.432651+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23542078",
         "display_name": "The Good Nurse 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:35:43.632314+00:00"
-      },
-      "claim": {
-        "worker_id": "b6ab091ed2dc4fe8bf549af848064f4a-shard-0",
-        "claimed_at": "2026-11-10T17:35:44.748819+00:00",
-        "lease_expires_at": "2026-11-10T23:35:44.748819+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984756",
       "prepared": {
@@ -172042,5 +172044,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:36:25.756790+00:00"
+  "updated_at": "2026-11-10T17:36:27.432670+00:00"
 }
