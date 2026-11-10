@@ -594,4 +594,5 @@ Attach subtitles only after target processing has finished.
 | Mauvais sang 1080p CZ Titulky | 30952354 | https://sdilej.cz/34522458/bad.blood.1986.aka.mauvais.sang.1080p.bluray.carlotta.10bit.av1.opus.rfranklin.mkv | Complete: Czech subtitles verified |
 | South Park: The End of Obesity 1080p CZ Titulky | 30952822 | https://sdilej.cz/29078716/south-park-the-end-of-obesity-2024-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Black Robe 1080p CZ Titulky | 30956873 | https://sdilej.cz/20576056/cerne-roucho-black-robe-1991-1080p-h.264-audio-en-subtitles-cz-en.mkv | Complete: Czech subtitles verified |
+| Game of Thrones: The Last Watch 1080p CZ Titulky | 30959654 | https://sdilej.cz/27669638/hra-o-truny-posledni-hlidka-dokument-hdtv-cz-dabing.mkv | Extract Czech track from exact source after processing |
 | The Stranger (2025) 1080p CZ Titulky | 30958066 | https://sdilej.cz/34083657/l-etranger-2025-1080p-cz-sk.tit.mkv | Extract Czech track from exact source after processing |
