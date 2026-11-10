@@ -38874,13 +38874,6 @@
           "source_id": "34784954",
           "target_video_id": "30745770",
           "permanent": false,
-          "attempted_at": "2026-11-10T07:58:56.815103+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34784954",
-          "target_video_id": "30745770",
-          "permanent": false,
           "attempted_at": "2026-11-10T08:30:53.216900+00:00"
         },
         {
@@ -38889,6 +38882,13 @@
           "target_video_id": "30745770",
           "permanent": false,
           "attempted_at": "2026-11-10T09:04:44.776035+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784954",
+          "target_video_id": "30745770",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:02:05.094864+00:00"
         }
       ],
       "last_plan": {
@@ -38902,12 +38902,6 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-03T00:24:04.738396+00:00",
         "relay_source_id": "34784954"
-      },
-      "claim": {
-        "worker_id": "3e9afda242c948b383d661844a85cbc3-shard-0",
-        "claimed_at": "2026-11-10T10:02:01.772051+00:00",
-        "lease_expires_at": "2026-11-10T16:02:01.772051+00:00",
-        "run_id": "42790251611"
       }
     },
     "17605": {
@@ -50789,7 +50783,7 @@
       "last_plan": {
         "source_id": "32819081",
         "display_name": "Die Hard 2 4K CZ Dabing",
-        "planned_at": "2026-11-10T09:04:44.263692+00:00"
+        "planned_at": "2026-11-10T10:02:04.190961+00:00"
       },
       "previous_target_id": "30776530",
       "prepared": {
@@ -50797,6 +50791,12 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-04T01:15:13.177284+00:00",
         "relay_source_id": "32819081"
+      },
+      "claim": {
+        "worker_id": "417655e5349448e1be1013e5980151d3-shard-0",
+        "claimed_at": "2026-11-10T10:02:04.930912+00:00",
+        "lease_expires_at": "2026-11-10T16:02:04.930912+00:00",
+        "run_id": "42790251611"
       }
     },
     "23950": {
@@ -102603,7 +102603,7 @@
       "last_plan": {
         "source_id": "32374866",
         "display_name": "Dobří holubi se vracejí 1080p CZ Dabing",
-        "planned_at": "2026-11-10T10:02:00.955235+00:00"
+        "planned_at": "2026-11-10T10:02:04.491374+00:00"
       }
     },
     "22247": {
@@ -160938,5 +160938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:02:02.294132+00:00"
+  "updated_at": "2026-11-10T10:02:05.094885+00:00"
 }
