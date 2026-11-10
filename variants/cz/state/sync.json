@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:53:33.925436+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-10T13:27:36.062130+00:00"
         },
         {
@@ -1073,12 +1066,19 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-10T14:05:39.292304+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:36:07.962545+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-10T14:05:36.352883+00:00"
+        "planned_at": "2026-11-10T14:36:04.924383+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -108645,7 +108645,18 @@
       "attempts": []
     },
     "13486": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33708286",
+        "display_name": "Kam slunce nechodí (Kam slunce nechodí...) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:36:05.312609+00:00"
+      },
+      "claim": {
+        "worker_id": "ef77bfd8f500491aaf8933c7bdb529ce-shard-0",
+        "claimed_at": "2026-11-10T14:36:06.289231+00:00",
+        "lease_expires_at": "2026-11-10T20:36:06.289231+00:00",
+        "run_id": "42823888331"
+      }
     },
     "35753": {
       "attempts": []
@@ -108657,7 +108668,12 @@
       "attempts": []
     },
     "12785": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29985485",
+        "display_name": "Spravedlnost pro Selvina 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:36:05.480410+00:00"
+      }
     },
     "27191": {
       "attempts": []
@@ -165535,5 +165551,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:36:00.657489+00:00"
+  "updated_at": "2026-11-10T14:36:07.962565+00:00"
 }
