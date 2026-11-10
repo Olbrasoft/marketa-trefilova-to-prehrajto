@@ -119949,6 +119949,13 @@
           "target_video_id": "30985026",
           "permanent": false,
           "attempted_at": "2026-11-10T18:36:52.474457+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29912867",
+          "target_video_id": "30985026",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:07:59.237854+00:00"
         }
       ],
       "last_plan": {
@@ -119959,15 +119966,9 @@
       "previous_target_id": "30985026",
       "prepared": {
         "target_video_id": "30985026",
-        "size_bytes": 1380179968,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T18:36:11.012833+00:00",
         "relay_source_id": "29912867"
-      },
-      "claim": {
-        "worker_id": "4fb2b9f6939540fabf3b70a29807638a-shard-0",
-        "claimed_at": "2026-11-10T19:07:55.473122+00:00",
-        "lease_expires_at": "2026-11-11T01:07:55.473122+00:00",
-        "run_id": "42864255663"
       }
     },
     "27334": {
@@ -119983,7 +119984,7 @@
       "last_plan": {
         "source_id": "28192094",
         "display_name": "Dolphin Tale 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:36:50.805933+00:00"
+        "planned_at": "2026-11-10T19:07:58.133175+00:00"
       },
       "previous_target_id": "30985028",
       "prepared": {
@@ -119991,6 +119992,12 @@
         "size_bytes": 2383502139,
         "prepared_at": "2026-11-10T18:36:58.892476+00:00",
         "relay_source_id": "28192094"
+      },
+      "claim": {
+        "worker_id": "334c8a69f5f845a1af5dddb5f7898f62-shard-0",
+        "claimed_at": "2026-11-10T19:07:58.809222+00:00",
+        "lease_expires_at": "2026-11-11T01:07:58.809222+00:00",
+        "run_id": "42864255663"
       }
     },
     "30444": {
@@ -120643,7 +120650,7 @@
       "last_plan": {
         "source_id": "29857790",
         "display_name": "Miss You Already SD CZ Dabing",
-        "planned_at": "2026-11-10T19:07:54.986626+00:00"
+        "planned_at": "2026-11-10T19:07:58.397136+00:00"
       }
     },
     "2808": {
@@ -176226,5 +176233,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:07:55.891865+00:00"
+  "updated_at": "2026-11-10T19:07:59.237873+00:00"
 }
