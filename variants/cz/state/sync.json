@@ -120460,13 +120460,6 @@
           "source_id": "11974625",
           "target_video_id": "30985034",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:44:48.423103+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11974625",
-          "target_video_id": "30985034",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:18:11.150256+00:00"
         },
         {
@@ -120475,6 +120468,13 @@
           "target_video_id": "30985034",
           "permanent": false,
           "attempted_at": "2026-11-10T21:51:59.304286+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11974625",
+          "target_video_id": "30985034",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:33:55.076592+00:00"
         }
       ],
       "last_plan": {
@@ -120517,7 +120517,7 @@
       "last_plan": {
         "source_id": "33786756",
         "display_name": "The Lover 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:51:58.814555+00:00"
+        "planned_at": "2026-11-10T22:33:52.755892+00:00"
       },
       "previous_target_id": "30985035",
       "prepared": {
@@ -120525,6 +120525,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T18:38:40.997248+00:00",
         "relay_source_id": "33786756"
+      },
+      "claim": {
+        "worker_id": "100bb714e93647dd8a79c334f8be4cc7-shard-0",
+        "claimed_at": "2026-11-10T22:33:53.448774+00:00",
+        "lease_expires_at": "2026-11-11T04:33:53.448774+00:00",
+        "run_id": "42904278669"
       }
     },
     "3040": {
@@ -124994,7 +125000,7 @@
       "last_plan": {
         "source_id": "31422476",
         "display_name": "The Brain (Le Cerveau) 4K CZ Dabing",
-        "planned_at": "2026-11-10T22:33:50.539255+00:00"
+        "planned_at": "2026-11-10T22:33:53.068197+00:00"
       }
     },
     "10713": {
@@ -179894,5 +179900,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:33:50.539274+00:00"
+  "updated_at": "2026-11-10T22:33:55.076610+00:00"
 }
