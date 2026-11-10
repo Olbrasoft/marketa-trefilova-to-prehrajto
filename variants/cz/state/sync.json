@@ -115162,17 +115162,19 @@
       }
     },
     "2785": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32994723",
+          "target_video_id": "30984651",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:14:31.607972+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32994723",
         "display_name": "Superman II 4K CZ Dabing",
         "planned_at": "2026-11-10T17:13:19.284772+00:00"
-      },
-      "claim": {
-        "worker_id": "4dbb2ba348d0443c991ed9759dc3471b-shard-0",
-        "claimed_at": "2026-11-10T17:13:19.926051+00:00",
-        "lease_expires_at": "2026-11-10T23:13:19.926051+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984651",
       "prepared": {
@@ -171383,5 +171385,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:14:10.353075+00:00"
+  "updated_at": "2026-11-10T17:14:31.607987+00:00"
 }
