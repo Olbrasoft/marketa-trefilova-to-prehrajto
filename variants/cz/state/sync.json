@@ -103734,17 +103734,19 @@
       "attempts": []
     },
     "11402": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "34786915",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-10T10:13:48.774086+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786915",
         "display_name": "Pozor, vizita! 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:12:19.302486+00:00"
-      },
-      "claim": {
-        "worker_id": "c1b1a6ba26b140f6a5fe6adc1b40da0d-shard-0",
-        "claimed_at": "2026-11-10T10:12:19.998129+00:00",
-        "lease_expires_at": "2026-11-10T16:12:19.998129+00:00",
-        "run_id": "42790251611"
       }
     },
     "26667": {
@@ -104099,10 +104101,20 @@
       }
     },
     "15276": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34691924",
+        "display_name": "Duino 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:13:48.387618+00:00"
+      }
     },
     "23798": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33537511",
+        "display_name": "David (1997) SD CZ Dabing",
+        "planned_at": "2026-11-10T10:13:48.932920+00:00"
+      }
     },
     "14060": {
       "attempts": []
@@ -161961,5 +161973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:44.896468+00:00"
+  "updated_at": "2026-11-10T10:13:48.932936+00:00"
 }
