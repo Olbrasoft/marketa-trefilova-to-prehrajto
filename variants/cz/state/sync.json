@@ -104064,13 +104064,37 @@
       "attempts": []
     },
     "12168": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32350694",
+          "reason": "Source detail has no authenticated download link; source_id=32350694",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:13:43.016828+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "32350694",
+        "display_name": "Life and Extraordinary Adventures of Private Ivan Chonkin (The Life and Extraordinary Adventures of Private Ivan Chonkin) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:13:39.608031+00:00"
+      }
     },
     "21438": {
       "attempts": []
     },
     "12126": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28418140",
+        "display_name": "Accumulator 1 (Akumulátor 1) 4K CZ Dabing",
+        "planned_at": "2026-11-10T10:13:39.776396+00:00"
+      },
+      "claim": {
+        "worker_id": "01b169e7f8514a49bc3851971a9028ab-shard-0",
+        "claimed_at": "2026-11-10T10:13:40.540928+00:00",
+        "lease_expires_at": "2026-11-10T16:13:40.540928+00:00",
+        "run_id": "42790251611"
+      }
     },
     "15276": {
       "attempts": []
@@ -161935,5 +161959,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:33.823916+00:00"
+  "updated_at": "2026-11-10T10:13:43.016857+00:00"
 }
