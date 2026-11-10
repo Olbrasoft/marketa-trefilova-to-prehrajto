@@ -101253,13 +101253,6 @@
           "source_id": "13492700",
           "target_video_id": "30969098",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:51:42.289404+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13492700",
-          "target_video_id": "30969098",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:23:07.742385+00:00"
         },
         {
@@ -101268,12 +101261,19 @@
           "target_video_id": "30969098",
           "permanent": false,
           "attempted_at": "2026-11-10T18:53:40.591382+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13492700",
+          "target_video_id": "30969098",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:26:15.863585+00:00"
         }
       ],
       "last_plan": {
         "source_id": "13492700",
         "display_name": "Garage Sale Mystery: The Novel Murders 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:53:37.210605+00:00"
+        "planned_at": "2026-11-10T19:26:14.017064+00:00"
       },
       "previous_target_id": "30969098",
       "prepared": {
@@ -121352,11 +121352,22 @@
       "last_plan": {
         "source_id": "28510712",
         "display_name": "Heaven & Earth SD CZ Dabing",
-        "planned_at": "2026-11-10T19:26:08.762293+00:00"
+        "planned_at": "2026-11-10T19:26:14.283991+00:00"
+      },
+      "claim": {
+        "worker_id": "e67e71b5e1a34f57801c900fc3f3e23d-shard-0",
+        "claimed_at": "2026-11-10T19:26:14.920801+00:00",
+        "lease_expires_at": "2026-11-11T01:26:14.920801+00:00",
+        "run_id": "42864255663"
       }
     },
     "12443": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28050708",
+        "display_name": "Zero Effect 1080p CZ Dabing",
+        "planned_at": "2026-11-10T19:26:14.444850+00:00"
+      }
     },
     "30007": {
       "attempts": []
@@ -176825,5 +176836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:26:10.573208+00:00"
+  "updated_at": "2026-11-10T19:26:15.863602+00:00"
 }
