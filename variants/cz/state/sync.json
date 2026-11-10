@@ -104349,17 +104349,19 @@
       "attempts": []
     },
     "12123": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "13686267",
+          "reason": "Source detail has no authenticated download link; source_id=13686267",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:39.142353+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13686267",
         "display_name": "Zámek v Cechách (Zámek v Čechách) SD CZ Dabing",
         "planned_at": "2026-11-10T10:14:33.277698+00:00"
-      },
-      "claim": {
-        "worker_id": "03878bfe726b433f8f92e524ee9f4637-shard-0",
-        "claimed_at": "2026-11-10T10:14:33.970005+00:00",
-        "lease_expires_at": "2026-11-10T16:14:33.970005+00:00",
-        "run_id": "42790251611"
       }
     },
     "17244": {
@@ -162156,5 +162158,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:37.428853+00:00"
+  "updated_at": "2026-11-10T10:14:39.142373+00:00"
 }
