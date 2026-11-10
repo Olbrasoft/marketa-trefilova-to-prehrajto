@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "1af284c92ae546c9bb583c6966686462-shard-0",
+        "claimed_at": "2026-11-10T23:02:48.179065+00:00",
+        "lease_expires_at": "2026-11-11T05:02:48.179065+00:00",
+        "run_id": "42904278669"
       }
     },
     "21690": {
@@ -11422,13 +11428,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:32:33.133996+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:02:39.340213+00:00"
         },
         {
@@ -11437,12 +11436,19 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-10T22:32:47.435247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:02:50.593491+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32388547",
         "display_name": "One Battle After Another 4K CZ Titulky",
-        "planned_at": "2026-11-10T22:32:41.810108+00:00"
+        "planned_at": "2026-11-10T23:02:48.899200+00:00"
       },
       "previous_target_id": "30681595",
       "prepared": {
@@ -96245,5 +96251,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:02:46.186504+00:00"
+  "updated_at": "2026-11-10T23:02:50.593512+00:00"
 }
