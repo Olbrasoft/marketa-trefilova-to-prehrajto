@@ -113845,13 +113845,6 @@
           "source_id": "14570962",
           "target_video_id": "30984139",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:16:11.280782+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14570962",
-          "target_video_id": "30984139",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:48:52.329670+00:00"
         },
         {
@@ -113860,12 +113853,19 @@
           "target_video_id": "30984139",
           "permanent": false,
           "attempted_at": "2026-11-10T20:20:44.462371+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14570962",
+          "target_video_id": "30984139",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:51:27.375943+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:20:40.138398+00:00"
+        "planned_at": "2026-11-10T20:51:25.182881+00:00"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -123069,14 +123069,25 @@
       "last_plan": {
         "source_id": "26801976",
         "display_name": "Emily 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:51:21.564799+00:00"
+        "planned_at": "2026-11-10T20:51:25.446257+00:00"
+      },
+      "claim": {
+        "worker_id": "b521776247b14ec8872c5336f1fa7b4f-shard-0",
+        "claimed_at": "2026-11-10T20:51:26.091836+00:00",
+        "lease_expires_at": "2026-11-11T02:51:26.091836+00:00",
+        "run_id": "42864255663"
       }
     },
     "29773": {
       "attempts": []
     },
     "22106": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29575212",
+        "display_name": "The Life and Times of Judge Roy Bean 1080p CZ Dabing",
+        "planned_at": "2026-11-10T20:51:25.607460+00:00"
+      }
     },
     "30015": {
       "attempts": []
@@ -178359,5 +178370,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:51:23.302925+00:00"
+  "updated_at": "2026-11-10T20:51:27.375962+00:00"
 }
