@@ -110049,6 +110049,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-11-10T14:42:14.240399+00:00",
         "relay_source_id": "34788913"
+      },
+      "claim": {
+        "worker_id": "67600fc0639c421db18c56b998fc18b3-shard-0",
+        "claimed_at": "2026-11-10T17:52:56.211495+00:00",
+        "lease_expires_at": "2026-11-10T23:52:56.211495+00:00",
+        "run_id": "42823888331"
       }
     },
     "16657": {
@@ -110100,7 +110106,7 @@
       "last_plan": {
         "source_id": "27514628",
         "display_name": "Let's All Sing Around (Pějme píseň dohola) SD CZ Dabing",
-        "planned_at": "2026-11-10T17:22:42.500778+00:00"
+        "planned_at": "2026-11-10T17:52:56.422016+00:00"
       },
       "previous_target_id": "30983750",
       "prepared": {
@@ -116878,17 +116884,19 @@
       }
     },
     "2804": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33745493",
+          "target_video_id": "30984851",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:52:57.247237+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33745493",
         "display_name": "The Order (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:52:12.138058+00:00"
-      },
-      "claim": {
-        "worker_id": "ef5d50cbb90c4f5688ce046ca9c647c1-shard-0",
-        "claimed_at": "2026-11-10T17:52:14.491226+00:00",
-        "lease_expires_at": "2026-11-10T23:52:14.491226+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984851",
       "prepared": {
@@ -116903,7 +116911,7 @@
       "last_plan": {
         "source_id": "33849773",
         "display_name": "Dumb Money 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:52:54.226260+00:00"
+        "planned_at": "2026-11-10T17:52:56.755879+00:00"
       }
     },
     "2970": {
@@ -172852,5 +172860,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:52:54.498050+00:00"
+  "updated_at": "2026-11-10T17:52:57.247255+00:00"
 }
