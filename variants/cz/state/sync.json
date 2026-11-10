@@ -111280,13 +111280,6 @@
           "source_id": "29161095",
           "target_video_id": "30983818",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:50:56.574708+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29161095",
-          "target_video_id": "30983818",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:31:03.880571+00:00"
         },
         {
@@ -111295,12 +111288,19 @@
           "target_video_id": "30983818",
           "permanent": false,
           "attempted_at": "2026-11-10T23:13:49.175541+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29161095",
+          "target_video_id": "30983818",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:52:37.534985+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29161095",
         "display_name": "Forbidden Love (Milování zakázáno) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:13:46.818966+00:00"
+        "planned_at": "2026-11-10T23:52:34.417206+00:00"
       },
       "previous_target_id": "30983818",
       "prepared": {
@@ -126059,7 +126059,13 @@
       "last_plan": {
         "source_id": "29549918",
         "display_name": "Tsar SD CZ Dabing",
-        "planned_at": "2026-11-10T23:52:29.958243+00:00"
+        "planned_at": "2026-11-10T23:52:34.733881+00:00"
+      },
+      "claim": {
+        "worker_id": "d16fd70b877a4ee5b480531ea4472119-shard-0",
+        "claimed_at": "2026-11-10T23:52:35.484217+00:00",
+        "lease_expires_at": "2026-11-11T05:52:35.484217+00:00",
+        "run_id": "42904278669"
       }
     },
     "31175": {
@@ -126075,7 +126081,12 @@
       "attempts": []
     },
     "20263": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34698812",
+        "display_name": "Poisoned: The Danger In Our Food (Poisoned: The Dirty Truth About Your Food) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T23:52:34.921357+00:00"
+      }
     },
     "24288": {
       "attempts": []
@@ -180788,5 +180799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:52:32.483737+00:00"
+  "updated_at": "2026-11-10T23:52:37.535004+00:00"
 }
