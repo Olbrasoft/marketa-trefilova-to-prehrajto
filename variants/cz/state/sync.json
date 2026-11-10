@@ -104767,27 +104767,51 @@
       "attempts": []
     },
     "11352": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34897710",
+          "reason": "Source detail has no authenticated download link; source_id=34897710",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:16:11.389250+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34897710",
         "display_name": "The Tale of John and Mary (Pohádka o Honzíkovi a Mařence) SD CZ Dabing",
         "planned_at": "2026-11-10T10:16:05.488962+00:00"
-      },
-      "claim": {
-        "worker_id": "af1ace1e41674d689290c1ae150dcf60-shard-0",
-        "claimed_at": "2026-11-10T10:16:07.457218+00:00",
-        "lease_expires_at": "2026-11-10T16:16:07.457218+00:00",
-        "run_id": "42790251611"
       }
     },
     "25744": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19804585",
+        "display_name": "A Prayer for Katerina Horovitzova 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:16:09.374200+00:00"
+      },
+      "claim": {
+        "worker_id": "7dc21e62da4342f9b3381fd1084bd960-shard-0",
+        "claimed_at": "2026-11-10T10:16:09.918613+00:00",
+        "lease_expires_at": "2026-11-10T16:16:09.918613+00:00",
+        "run_id": "42790251611"
+      }
     },
     "27748": {
       "attempts": []
     },
     "30452": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "17465554",
+        "display_name": "Carte Blanche SD CZ Dabing",
+        "planned_at": "2026-11-10T10:16:09.543039+00:00"
+      },
+      "claim": {
+        "worker_id": "0b38fbe9699142c1b00cff4ea965350e-shard-0",
+        "claimed_at": "2026-11-10T10:16:10.074038+00:00",
+        "lease_expires_at": "2026-11-10T16:16:10.074038+00:00",
+        "run_id": "42790251611"
+      }
     },
     "28940": {
       "attempts": []
@@ -162442,5 +162466,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:16:07.457241+00:00"
+  "updated_at": "2026-11-10T10:16:11.389265+00:00"
 }
