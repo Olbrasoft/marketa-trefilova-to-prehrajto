@@ -113961,7 +113961,7 @@
       "last_plan": {
         "source_id": "34941731",
         "display_name": "Ghostbusters (2016) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:40:52.176312+00:00"
+        "planned_at": "2026-11-10T18:14:41.966020+00:00"
       },
       "previous_target_id": "30984154",
       "prepared": {
@@ -113969,17 +113969,16 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T15:34:35.718025+00:00",
         "relay_source_id": "34941731"
+      },
+      "claim": {
+        "worker_id": "dbca058e677d46ecba365b421dcec96c-shard-0",
+        "claimed_at": "2026-11-10T18:14:42.549662+00:00",
+        "lease_expires_at": "2026-11-11T00:14:42.549662+00:00",
+        "run_id": "42864255663"
       }
     },
     "3135": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "33770531",
-          "target_video_id": "30984155",
-          "permanent": false,
-          "attempted_at": "2026-11-10T16:38:45.230328+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "33770531",
@@ -113993,6 +113992,13 @@
           "target_video_id": "30984155",
           "permanent": false,
           "attempted_at": "2026-11-10T17:40:53.277777+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33770531",
+          "target_video_id": "30984155",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:14:43.139797+00:00"
         }
       ],
       "last_plan": {
@@ -114006,12 +114012,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T15:34:38.126214+00:00",
         "relay_source_id": "33770531"
-      },
-      "claim": {
-        "worker_id": "9ebf0c85d9b941aa81e34a0d2eb7f0b2-shard-0",
-        "claimed_at": "2026-11-10T18:14:39.875162+00:00",
-        "lease_expires_at": "2026-11-11T00:14:39.875162+00:00",
-        "run_id": "42864255663"
       }
     },
     "2836": {
@@ -117920,7 +117920,7 @@
       "last_plan": {
         "source_id": "20753761",
         "display_name": "Repo Man 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:14:39.532980+00:00"
+        "planned_at": "2026-11-10T18:14:42.224702+00:00"
       }
     },
     "22727": {
@@ -173749,5 +173749,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:14:40.340394+00:00"
+  "updated_at": "2026-11-10T18:14:43.139815+00:00"
 }
