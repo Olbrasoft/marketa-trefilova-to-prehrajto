@@ -105688,17 +105688,19 @@
       "attempts": []
     },
     "11359": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673814",
+          "target_video_id": "30978828",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:10:16.106424+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673814",
         "display_name": "The Hit (Trhák) 1080p CZ Dabing",
         "planned_at": "2026-11-10T12:05:41.219987+00:00"
-      },
-      "claim": {
-        "worker_id": "665e3a1202114611810547c2f0c63430-shard-0",
-        "claimed_at": "2026-11-10T12:05:41.673390+00:00",
-        "lease_expires_at": "2026-11-10T18:05:41.673390+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30978828",
       "prepared": {
@@ -163222,5 +163224,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:09:40.308363+00:00"
+  "updated_at": "2026-11-10T12:10:16.106440+00:00"
 }
