@@ -99493,17 +99493,19 @@
       }
     },
     "19970": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34437685",
+          "target_video_id": "30961097",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:45:14.787966+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34437685",
         "display_name": "A Gang Story (Les Lyonnais) SD CZ Dabing",
         "planned_at": "2026-11-10T03:43:44.014276+00:00"
-      },
-      "claim": {
-        "worker_id": "f55c8238f9754e1ab4630ae0968529f3-shard-0",
-        "claimed_at": "2026-11-10T03:43:45.890570+00:00",
-        "lease_expires_at": "2026-11-10T09:43:45.890570+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30961097",
       "prepared": {
@@ -158548,5 +158550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:43:51.701068+00:00"
+  "updated_at": "2026-11-10T03:45:14.787981+00:00"
 }
