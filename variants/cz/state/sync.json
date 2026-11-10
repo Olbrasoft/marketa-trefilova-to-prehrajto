@@ -112118,17 +112118,19 @@
       }
     },
     "3143": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33761714",
+          "target_video_id": "30984074",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:24:43.517082+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33761714",
         "display_name": "The Transporter 4K CZ Dabing",
         "planned_at": "2026-11-10T15:24:00.625343+00:00"
-      },
-      "claim": {
-        "worker_id": "bbbdd89b6329486fb118dbcd582fd413-shard-0",
-        "claimed_at": "2026-11-10T15:24:02.807766+00:00",
-        "lease_expires_at": "2026-11-10T21:24:02.807766+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984074",
       "prepared": {
@@ -168543,5 +168545,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:24:41.848299+00:00"
+  "updated_at": "2026-11-10T15:24:43.517099+00:00"
 }
