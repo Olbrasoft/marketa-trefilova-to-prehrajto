@@ -101302,17 +101302,19 @@
       "attempts": []
     },
     "26893": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13368201",
+          "target_video_id": "30969393",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:45:21.944518+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13368201",
         "display_name": "Home (2008) 720p CZ Dabing",
         "planned_at": "2026-11-10T07:34:03.594307+00:00"
-      },
-      "claim": {
-        "worker_id": "d5d38c7dd8c948f9b12cbcba87c2fb2b-shard-0",
-        "claimed_at": "2026-11-10T07:34:03.903674+00:00",
-        "lease_expires_at": "2026-11-10T13:34:03.903674+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30969393",
       "prepared": {
@@ -159994,5 +159996,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:45:07.266034+00:00"
+  "updated_at": "2026-11-10T07:45:21.944536+00:00"
 }
