@@ -120037,17 +120037,19 @@
       "attempts": []
     },
     "12462": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35117462",
+          "target_video_id": "30985082",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:54:14.108901+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:53:02.394409+00:00"
-      },
-      "claim": {
-        "worker_id": "fea2bc63a931423ea14e43f01352e7d6-shard-0",
-        "claimed_at": "2026-11-10T18:53:04.445340+00:00",
-        "lease_expires_at": "2026-11-11T00:53:04.445340+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985082",
       "prepared": {
@@ -175693,5 +175695,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:54:12.047601+00:00"
+  "updated_at": "2026-11-10T18:54:14.108919+00:00"
 }
