@@ -100568,13 +100568,6 @@
           "source_id": "11696652",
           "target_video_id": "30966458",
           "permanent": false,
-          "attempted_at": "2026-11-10T11:19:05.067832+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11696652",
-          "target_video_id": "30966458",
-          "permanent": false,
           "attempted_at": "2026-11-10T11:51:18.901050+00:00"
         },
         {
@@ -100583,6 +100576,13 @@
           "target_video_id": "30966458",
           "permanent": false,
           "attempted_at": "2026-11-10T12:25:46.751172+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11696652",
+          "target_video_id": "30966458",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:58:34.095695+00:00"
         }
       ],
       "last_plan": {
@@ -100846,7 +100846,7 @@
       "last_plan": {
         "source_id": "34968104",
         "display_name": "Habermann (Habermannův mlýn) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T12:25:46.095418+00:00"
+        "planned_at": "2026-11-10T12:58:32.249819+00:00"
       },
       "previous_target_id": "30967671",
       "prepared": {
@@ -100854,6 +100854,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T06:46:06.993808+00:00",
         "relay_source_id": "34968104"
+      },
+      "claim": {
+        "worker_id": "bb198ce89f884e648c7809f854d1623a-shard-0",
+        "claimed_at": "2026-11-10T12:58:33.069092+00:00",
+        "lease_expires_at": "2026-11-10T18:58:33.069092+00:00",
+        "run_id": "42790251611"
       }
     },
     "35562": {
@@ -106236,7 +106242,7 @@
       "last_plan": {
         "source_id": "32018336",
         "display_name": "Thanks for Every New Morning (Díky za každé nové ráno) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T12:58:29.718566+00:00"
+        "planned_at": "2026-11-10T12:58:32.572284+00:00"
       }
     },
     "2246": {
@@ -163586,5 +163592,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:58:30.110773+00:00"
+  "updated_at": "2026-11-10T12:58:34.095716+00:00"
 }
