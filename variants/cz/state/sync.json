@@ -104783,17 +104783,19 @@
       }
     },
     "25744": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "19804585",
+          "reason": "Source detail has no authenticated download link; source_id=19804585",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:16:13.124968+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19804585",
         "display_name": "A Prayer for Katerina Horovitzova 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:16:09.374200+00:00"
-      },
-      "claim": {
-        "worker_id": "7dc21e62da4342f9b3381fd1084bd960-shard-0",
-        "claimed_at": "2026-11-10T10:16:09.918613+00:00",
-        "lease_expires_at": "2026-11-10T16:16:09.918613+00:00",
-        "run_id": "42790251611"
       }
     },
     "27748": {
@@ -162466,5 +162468,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:16:11.389265+00:00"
+  "updated_at": "2026-11-10T10:16:13.124985+00:00"
 }
