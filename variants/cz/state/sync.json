@@ -50763,13 +50763,6 @@
           "source_id": "32819081",
           "target_video_id": "30776530",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:22:18.867441+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32819081",
-          "target_video_id": "30776530",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:55:14.718206+00:00"
         },
         {
@@ -50778,12 +50771,19 @@
           "target_video_id": "30776530",
           "permanent": false,
           "attempted_at": "2026-11-10T20:27:54.496700+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32819081",
+          "target_video_id": "30776530",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:58:25.871173+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32819081",
         "display_name": "Die Hard 2 4K CZ Dabing",
-        "planned_at": "2026-11-10T20:27:51.282064+00:00"
+        "planned_at": "2026-11-10T20:58:23.531322+00:00"
       },
       "previous_target_id": "30776530",
       "prepared": {
@@ -123185,7 +123185,13 @@
       "last_plan": {
         "source_id": "32453487",
         "display_name": "Le gendarme se marie 4K CZ Dabing",
-        "planned_at": "2026-11-10T20:58:15.693521+00:00"
+        "planned_at": "2026-11-10T20:58:23.802595+00:00"
+      },
+      "claim": {
+        "worker_id": "976156c53d934b1bb1193b31f59ec3f3-shard-0",
+        "claimed_at": "2026-11-10T20:58:24.627111+00:00",
+        "lease_expires_at": "2026-11-11T02:58:24.627111+00:00",
+        "run_id": "42864255663"
       }
     },
     "18520": {
@@ -123198,10 +123204,26 @@
       "attempts": []
     },
     "21814": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32499158",
+        "display_name": "Khartoum 1080p CZ Dabing",
+        "planned_at": "2026-11-10T20:58:23.985453+00:00"
+      },
+      "claim": {
+        "worker_id": "61c7d441a5724deba4efab6af8348fc0-shard-0",
+        "claimed_at": "2026-11-10T20:58:24.789056+00:00",
+        "lease_expires_at": "2026-11-11T02:58:24.789056+00:00",
+        "run_id": "42864255663"
+      }
     },
     "2981": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32240390",
+        "display_name": "The Extraordinary Journey of the Fakir 1080p CZ Dabing",
+        "planned_at": "2026-11-10T20:58:24.146520+00:00"
+      }
     },
     "22154": {
       "attempts": []
@@ -178442,5 +178464,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:58:20.172577+00:00"
+  "updated_at": "2026-11-10T20:58:25.871191+00:00"
 }
