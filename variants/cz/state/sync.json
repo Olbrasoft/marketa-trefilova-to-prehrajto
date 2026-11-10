@@ -81542,13 +81542,6 @@
           "source_id": "32457622",
           "target_video_id": "30903267",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:21:04.071522+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32457622",
-          "target_video_id": "30903267",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:55:00.788614+00:00"
         },
         {
@@ -81557,6 +81550,13 @@
           "target_video_id": "30903267",
           "permanent": false,
           "attempted_at": "2026-11-10T22:36:55.311596+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32457622",
+          "target_video_id": "30903267",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:19:00.319483+00:00"
         }
       ],
       "last_plan": {
@@ -81570,12 +81570,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-08T01:03:53.007664+00:00",
         "relay_source_id": "32457622"
-      },
-      "claim": {
-        "worker_id": "592a89d10a544cbf90941a49cf3d55c4-shard-0",
-        "claimed_at": "2026-11-10T23:18:56.660375+00:00",
-        "lease_expires_at": "2026-11-11T05:18:56.660375+00:00",
-        "run_id": "42904278669"
       }
     },
     "13134": {
@@ -120634,7 +120628,7 @@
       "last_plan": {
         "source_id": "34392768",
         "display_name": "A Perfect Day 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:36:54.383535+00:00"
+        "planned_at": "2026-11-10T23:18:59.085359+00:00"
       },
       "previous_target_id": "30985051",
       "prepared": {
@@ -120642,6 +120636,12 @@
         "size_bytes": 13200000000,
         "prepared_at": "2026-11-10T18:40:40.098352+00:00",
         "relay_source_id": "34392768"
+      },
+      "claim": {
+        "worker_id": "d8d1a83134ca43debeb208ceca5ab15c-shard-0",
+        "claimed_at": "2026-11-10T23:19:00.028265+00:00",
+        "lease_expires_at": "2026-11-11T05:19:00.028265+00:00",
+        "run_id": "42904278669"
       }
     },
     "3144": {
@@ -125453,7 +125453,7 @@
       "last_plan": {
         "source_id": "32402353",
         "display_name": "Semmelweis 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:18:56.278235+00:00"
+        "planned_at": "2026-11-10T23:18:59.610414+00:00"
       }
     },
     "21913": {
@@ -180308,5 +180308,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:18:57.479816+00:00"
+  "updated_at": "2026-11-10T23:19:00.319505+00:00"
 }
