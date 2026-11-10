@@ -107520,17 +107520,19 @@
       "attempts": []
     },
     "32800": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34715818",
+          "target_video_id": "30983577",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:18:32.857668+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34715818",
         "display_name": "Traces of a Dragon (Traces of a Dragon: Jackie Chan & His Lost Family) SD CZ Dabing",
         "planned_at": "2026-11-10T14:17:51.255732+00:00"
-      },
-      "claim": {
-        "worker_id": "8506fc59e0654d2db2415d91453f6f3b-shard-0",
-        "claimed_at": "2026-11-10T14:17:53.365249+00:00",
-        "lease_expires_at": "2026-11-10T20:17:53.365249+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983577",
       "prepared": {
@@ -164653,5 +164655,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:18:00.406585+00:00"
+  "updated_at": "2026-11-10T14:18:32.857683+00:00"
 }
