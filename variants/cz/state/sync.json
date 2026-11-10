@@ -115208,17 +115208,19 @@
       }
     },
     "17792": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "5517933",
+          "target_video_id": "30984655",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:14:49.770937+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "5517933",
         "display_name": "Tenacious D in The Pick of Destiny SD CZ Dabing",
         "planned_at": "2026-11-10T17:14:05.481948+00:00"
-      },
-      "claim": {
-        "worker_id": "662d7dbe6a0140f49ac948804c63d9e9-shard-0",
-        "claimed_at": "2026-11-10T17:14:06.026783+00:00",
-        "lease_expires_at": "2026-11-10T23:14:06.026783+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984655",
       "prepared": {
@@ -115250,7 +115252,18 @@
       }
     },
     "2777": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33544977",
+        "display_name": "Teenage Mutant Ninja Turtles (1990) 4K CZ Dabing",
+        "planned_at": "2026-11-10T17:14:47.366032+00:00"
+      },
+      "claim": {
+        "worker_id": "b2000485590f47098d146fccb6571f13-shard-0",
+        "claimed_at": "2026-11-10T17:14:47.760728+00:00",
+        "lease_expires_at": "2026-11-10T23:14:47.760728+00:00",
+        "run_id": "42823888331"
+      }
     },
     "2845": {
       "attempts": []
@@ -171405,5 +171418,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:14:43.912972+00:00"
+  "updated_at": "2026-11-10T17:14:49.770953+00:00"
 }
