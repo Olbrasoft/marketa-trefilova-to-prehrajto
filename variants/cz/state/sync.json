@@ -102917,17 +102917,19 @@
       "attempts": []
     },
     "11000": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30968683",
+          "reason": "Source detail has no authenticated download link; source_id=30968683",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:09:29.918103+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30968683",
         "display_name": "On the Trail of Blood (Po stopách krve) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:09:24.936680+00:00"
-      },
-      "claim": {
-        "worker_id": "0020147eb7d240e2ac4545806c13159d-shard-0",
-        "claimed_at": "2026-11-10T10:09:25.452772+00:00",
-        "lease_expires_at": "2026-11-10T16:09:25.452772+00:00",
-        "run_id": "42790251611"
       }
     },
     "2550": {
@@ -161155,5 +161157,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:09:28.276936+00:00"
+  "updated_at": "2026-11-10T10:09:29.918122+00:00"
 }
