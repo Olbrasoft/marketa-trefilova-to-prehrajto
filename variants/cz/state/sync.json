@@ -8575,13 +8575,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-09T23:37:37.230094+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-10T00:11:51.671756+00:00"
         },
         {
@@ -8590,6 +8583,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-10T00:50:05.728221+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:26:35.461744+00:00"
         }
       ],
       "last_plan": {
@@ -22306,7 +22306,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-10T00:50:07.432507+00:00"
+        "planned_at": "2026-11-10T01:26:33.912686+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22314,6 +22314,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "4af12e75409640718261664d3db08515-shard-0",
+        "claimed_at": "2026-11-10T01:26:34.588900+00:00",
+        "lease_expires_at": "2026-11-10T07:26:34.588900+00:00",
+        "run_id": "42729980423"
       }
     },
     "730": {
@@ -98579,7 +98585,7 @@
       "last_plan": {
         "source_id": "32730493",
         "display_name": "Fanny's Journey (Le voyage de Fanny) SD CZ Dabing",
-        "planned_at": "2026-11-10T01:26:32.025789+00:00"
+        "planned_at": "2026-11-10T01:26:34.188005+00:00"
       }
     },
     "2634": {
@@ -157766,5 +157772,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:26:32.025800+00:00"
+  "updated_at": "2026-11-10T01:26:35.461759+00:00"
 }
