@@ -107625,13 +107625,6 @@
           "source_id": "27903517",
           "target_video_id": "30983504",
           "permanent": false,
-          "attempted_at": "2026-11-10T14:15:03.216582+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27903517",
-          "target_video_id": "30983504",
-          "permanent": false,
           "attempted_at": "2026-11-10T14:45:31.202244+00:00"
         },
         {
@@ -107640,6 +107633,13 @@
           "target_video_id": "30983504",
           "permanent": false,
           "attempted_at": "2026-11-10T15:16:46.565172+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27903517",
+          "target_video_id": "30983504",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:48:28.563773+00:00"
         }
       ],
       "last_plan": {
@@ -110238,7 +110238,7 @@
       "last_plan": {
         "source_id": "35095604",
         "display_name": "Rozsudky soudce Ooky 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:16:49.092494+00:00"
+        "planned_at": "2026-11-10T15:48:26.979386+00:00"
       },
       "previous_target_id": "30983770",
       "prepared": {
@@ -110246,6 +110246,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:45:08.279822+00:00",
         "relay_source_id": "35095604"
+      },
+      "claim": {
+        "worker_id": "67891deba99f4eb9bae875bd99166441-shard-0",
+        "claimed_at": "2026-11-10T15:48:27.785853+00:00",
+        "lease_expires_at": "2026-11-10T21:48:27.785853+00:00",
+        "run_id": "42823888331"
       }
     },
     "2154": {
@@ -113231,7 +113237,7 @@
       "last_plan": {
         "source_id": "29864977",
         "display_name": "Enemy 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:48:24.853039+00:00"
+        "planned_at": "2026-11-10T15:48:27.284621+00:00"
       }
     },
     "3126": {
@@ -169524,5 +169530,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:48:24.853057+00:00"
+  "updated_at": "2026-11-10T15:48:28.563792+00:00"
 }
