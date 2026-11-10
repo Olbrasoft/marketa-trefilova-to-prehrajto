@@ -42802,13 +42802,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:58:18.607656+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:34:10.498604+00:00"
         },
         {
@@ -42817,6 +42810,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-10T22:08:09.663093+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:49:13.187283+00:00"
         }
       ],
       "last_plan": {
@@ -42830,12 +42830,6 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
-      },
-      "claim": {
-        "worker_id": "d13ff70dd0cc4ea980d2af68bf4cc5b1-shard-0",
-        "claimed_at": "2026-11-10T22:49:07.215734+00:00",
-        "lease_expires_at": "2026-11-11T04:49:07.215734+00:00",
-        "run_id": "42904278669"
       }
     },
     "1395": {
@@ -50789,7 +50783,7 @@
       "last_plan": {
         "source_id": "32819081",
         "display_name": "Die Hard 2 4K CZ Dabing",
-        "planned_at": "2026-11-10T22:08:11.113807+00:00"
+        "planned_at": "2026-11-10T22:49:11.782176+00:00"
       },
       "previous_target_id": "30776530",
       "prepared": {
@@ -50797,6 +50791,12 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-04T01:15:13.177284+00:00",
         "relay_source_id": "32819081"
+      },
+      "claim": {
+        "worker_id": "7c2b618dda2c4a689b4b943e146a04aa-shard-0",
+        "claimed_at": "2026-11-10T22:49:12.482823+00:00",
+        "lease_expires_at": "2026-11-11T04:49:12.482823+00:00",
+        "run_id": "42904278669"
       }
     },
     "23950": {
@@ -125175,7 +125175,7 @@
       "last_plan": {
         "source_id": "34700408",
         "display_name": "Firecreek 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:49:07.757685+00:00"
+        "planned_at": "2026-11-10T22:49:12.094129+00:00"
       }
     },
     "20329": {
@@ -180051,5 +180051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:49:10.127720+00:00"
+  "updated_at": "2026-11-10T22:49:13.187304+00:00"
 }
