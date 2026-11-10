@@ -43615,13 +43615,6 @@
           "source_id": "34841408",
           "target_video_id": "30757982",
           "permanent": false,
-          "attempted_at": "2026-11-10T13:30:11.474225+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34841408",
-          "target_video_id": "30757982",
-          "permanent": false,
           "attempted_at": "2026-11-10T14:08:01.467768+00:00"
         },
         {
@@ -43630,6 +43623,13 @@
           "target_video_id": "30757982",
           "permanent": false,
           "attempted_at": "2026-11-10T14:38:30.542716+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34841408",
+          "target_video_id": "30757982",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:09:05.490138+00:00"
         }
       ],
       "last_plan": {
@@ -107462,7 +107462,7 @@
       "last_plan": {
         "source_id": "35084607",
         "display_name": "The Secret of Blood 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:38:29.993081+00:00"
+        "planned_at": "2026-11-10T15:09:03.951897+00:00"
       },
       "previous_target_id": "30983475",
       "prepared": {
@@ -107470,6 +107470,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T14:07:27.666701+00:00",
         "relay_source_id": "35084607"
+      },
+      "claim": {
+        "worker_id": "f7889ab33a3e410b8a7bf0413f80c886-shard-0",
+        "claimed_at": "2026-11-10T15:09:04.836139+00:00",
+        "lease_expires_at": "2026-11-10T21:09:04.836139+00:00",
+        "run_id": "42823888331"
       }
     },
     "13285": {
@@ -111055,17 +111061,19 @@
       }
     },
     "36907": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34721047",
+          "target_video_id": "30983966",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:09:05.840803+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34721047",
         "display_name": "Pongo Calling 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:08:19.773587+00:00"
-      },
-      "claim": {
-        "worker_id": "bd39272afaa74246abe1dfc35403a053-shard-0",
-        "claimed_at": "2026-11-10T15:08:20.507210+00:00",
-        "lease_expires_at": "2026-11-10T21:08:20.507210+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983966",
       "prepared": {
@@ -111080,7 +111088,7 @@
       "last_plan": {
         "source_id": "33495930",
         "display_name": "Tanecnice (Tanečnice) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:09:01.631642+00:00"
+        "planned_at": "2026-11-10T15:09:04.264962+00:00"
       }
     },
     "12718": {
@@ -167539,5 +167547,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:09:01.896549+00:00"
+  "updated_at": "2026-11-10T15:09:05.840825+00:00"
 }
