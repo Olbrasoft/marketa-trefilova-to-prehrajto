@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-10T10:31:32.940894+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-10T11:14:31.558277+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-10T11:45:22.505524+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:20:41.308076+00:00"
         }
       ],
       "last_plan": {
@@ -14657,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-10T11:45:24.756135+00:00"
+        "planned_at": "2026-11-10T12:20:38.871791+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14665,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "ea8fb7a9ec054c5395947c4aaf2201c3-shard-0",
+        "claimed_at": "2026-11-10T12:20:39.734502+00:00",
+        "lease_expires_at": "2026-11-10T18:20:39.734502+00:00",
+        "run_id": "42790251611"
       }
     },
     "22177": {
@@ -105820,6 +105826,12 @@
         "source_id": "29815287",
         "display_name": "Shogun's Shadow (将軍家光の乱心 激突) SD CZ Dabing",
         "planned_at": "2026-11-10T12:20:36.176158+00:00"
+      },
+      "claim": {
+        "worker_id": "34ddba2fbf7447b5acfe820830586f1b-shard-0",
+        "claimed_at": "2026-11-10T12:20:38.504274+00:00",
+        "lease_expires_at": "2026-11-10T18:20:38.504274+00:00",
+        "run_id": "42790251611"
       }
     },
     "30366": {
@@ -105833,7 +105845,7 @@
       "last_plan": {
         "source_id": "30303747",
         "display_name": "Les Compagnons de la Marguerite SD CZ Dabing",
-        "planned_at": "2026-11-10T12:20:36.348733+00:00"
+        "planned_at": "2026-11-10T12:20:39.171423+00:00"
       }
     },
     "11919": {
@@ -163258,5 +163270,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:20:36.348750+00:00"
+  "updated_at": "2026-11-10T12:20:41.308098+00:00"
 }
