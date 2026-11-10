@@ -112723,17 +112723,19 @@
       }
     },
     "2819": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29766668",
+          "target_video_id": "30984145",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:33:55.178914+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29766668",
         "display_name": "The Fall Guy 4K CZ Dabing",
         "planned_at": "2026-11-10T15:33:15.941585+00:00"
-      },
-      "claim": {
-        "worker_id": "a3b772fb2d784156b2ad4e4584b57bd6-shard-0",
-        "claimed_at": "2026-11-10T15:33:16.327752+00:00",
-        "lease_expires_at": "2026-11-10T21:33:16.327752+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984145",
       "prepared": {
@@ -169052,5 +169054,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:33:19.620687+00:00"
+  "updated_at": "2026-11-10T15:33:55.178929+00:00"
 }
