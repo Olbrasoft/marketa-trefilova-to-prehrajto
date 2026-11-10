@@ -106939,6 +106939,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T13:52:34.466559+00:00",
         "relay_source_id": "34883971"
+      },
+      "claim": {
+        "worker_id": "20f53baa198b46c49da7ce2ae49e30f5-shard-0",
+        "claimed_at": "2026-11-10T17:34:28.666687+00:00",
+        "lease_expires_at": "2026-11-10T23:34:28.666687+00:00",
+        "run_id": "42823888331"
       }
     },
     "30300": {
@@ -111216,13 +111222,6 @@
           "source_id": "28002913",
           "target_video_id": "30983814",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:58:22.210557+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28002913",
-          "target_video_id": "30983814",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:30:30.834352+00:00"
         },
         {
@@ -111231,6 +111230,13 @@
           "target_video_id": "30983814",
           "permanent": false,
           "attempted_at": "2026-11-10T17:03:58.391908+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28002913",
+          "target_video_id": "30983814",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:34:28.494478+00:00"
         }
       ],
       "last_plan": {
@@ -111244,12 +111250,6 @@
         "size_bytes": 956000000,
         "prepared_at": "2026-11-10T14:52:53.264826+00:00",
         "relay_source_id": "28002913"
-      },
-      "claim": {
-        "worker_id": "9fcd0676e41241cbbeb03479a0182c20-shard-0",
-        "claimed_at": "2026-11-10T17:34:25.059492+00:00",
-        "lease_expires_at": "2026-11-10T23:34:25.059492+00:00",
-        "run_id": "42823888331"
       }
     },
     "15320": {
@@ -114866,7 +114866,7 @@
       "last_plan": {
         "source_id": "30985526",
         "display_name": "Speak No Evil (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:03:01.388162+00:00"
+        "planned_at": "2026-11-10T17:34:28.876333+00:00"
       },
       "previous_target_id": "30984610",
       "prepared": {
@@ -115888,7 +115888,7 @@
       "last_plan": {
         "source_id": "33787142",
         "display_name": "The Fog (1980) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:34:26.673468+00:00"
+        "planned_at": "2026-11-10T17:34:29.188115+00:00"
       }
     },
     "37485": {
@@ -171969,5 +171969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:34:26.673485+00:00"
+  "updated_at": "2026-11-10T17:34:29.188133+00:00"
 }
