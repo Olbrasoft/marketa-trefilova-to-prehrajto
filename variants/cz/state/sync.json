@@ -100261,17 +100261,19 @@
       "attempts": []
     },
     "24695": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "3026948",
+          "target_video_id": "30965507",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:48:26.721866+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "3026948",
         "display_name": "Ceská soda (Česká soda) SD CZ Dabing",
         "planned_at": "2026-11-10T05:47:08.289217+00:00"
-      },
-      "claim": {
-        "worker_id": "ae5e2d9b12b14d66b41bdc3e5a6f9197-shard-0",
-        "claimed_at": "2026-11-10T05:47:08.582510+00:00",
-        "lease_expires_at": "2026-11-10T11:47:08.582510+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30965507",
       "prepared": {
@@ -159163,5 +159165,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:47:12.762912+00:00"
+  "updated_at": "2026-11-10T05:48:26.721883+00:00"
 }
