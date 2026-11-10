@@ -110021,13 +110021,6 @@
           "source_id": "34788913",
           "target_video_id": "30983748",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:21:54.297128+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34788913",
-          "target_video_id": "30983748",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:52:35.206918+00:00"
         },
         {
@@ -110036,6 +110029,13 @@
           "target_video_id": "30983748",
           "permanent": false,
           "attempted_at": "2026-11-10T17:22:40.806970+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34788913",
+          "target_video_id": "30983748",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:53:00.998875+00:00"
         }
       ],
       "last_plan": {
@@ -110049,12 +110049,6 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-11-10T14:42:14.240399+00:00",
         "relay_source_id": "34788913"
-      },
-      "claim": {
-        "worker_id": "67600fc0639c421db18c56b998fc18b3-shard-0",
-        "claimed_at": "2026-11-10T17:52:56.211495+00:00",
-        "lease_expires_at": "2026-11-10T23:52:56.211495+00:00",
-        "run_id": "42823888331"
       }
     },
     "16657": {
@@ -110114,6 +110108,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:43:15.779270+00:00",
         "relay_source_id": "27514628"
+      },
+      "claim": {
+        "worker_id": "2795d26401d14fbe886ef66d015f4791-shard-0",
+        "claimed_at": "2026-11-10T17:52:59.828195+00:00",
+        "lease_expires_at": "2026-11-10T23:52:59.828195+00:00",
+        "run_id": "42823888331"
       }
     },
     "32421": {
@@ -110146,7 +110146,7 @@
       "last_plan": {
         "source_id": "34661767",
         "display_name": "Preludium 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:22:50.607121+00:00"
+        "planned_at": "2026-11-10T17:53:01.679290+00:00"
       },
       "previous_target_id": "30983751",
       "prepared": {
@@ -116911,7 +116911,7 @@
       "last_plan": {
         "source_id": "33849773",
         "display_name": "Dumb Money 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:52:56.755879+00:00"
+        "planned_at": "2026-11-10T17:53:01.992376+00:00"
       }
     },
     "2970": {
@@ -172860,5 +172860,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:52:57.247255+00:00"
+  "updated_at": "2026-11-10T17:53:01.992394+00:00"
 }
