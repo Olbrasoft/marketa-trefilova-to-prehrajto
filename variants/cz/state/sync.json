@@ -110438,6 +110438,13 @@
           "target_video_id": "30983802",
           "permanent": false,
           "attempted_at": "2026-11-10T14:51:11.920635+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710916",
+          "target_video_id": "30983802",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:21:17.099398+00:00"
         }
       ],
       "last_plan": {
@@ -110448,7 +110455,7 @@
       "previous_target_id": "30983802",
       "prepared": {
         "target_video_id": "30983802",
-        "size_bytes": 2846912512,
+        "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:50:04.632161+00:00",
         "relay_source_id": "34710916"
       }
@@ -111810,7 +111817,13 @@
       "last_plan": {
         "source_id": "27019498",
         "display_name": "The Proposal (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T15:21:13.432620+00:00"
+        "planned_at": "2026-11-10T15:21:15.844577+00:00"
+      },
+      "claim": {
+        "worker_id": "e7afd0ca48954833a92b079f4262cbe8-shard-0",
+        "claimed_at": "2026-11-10T15:21:16.293358+00:00",
+        "lease_expires_at": "2026-11-10T21:21:16.293358+00:00",
+        "run_id": "42823888331"
       }
     },
     "2974": {
@@ -168206,5 +168219,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:21:13.432637+00:00"
+  "updated_at": "2026-11-10T15:21:17.099418+00:00"
 }
