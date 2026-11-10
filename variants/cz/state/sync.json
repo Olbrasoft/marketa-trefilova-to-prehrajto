@@ -115712,13 +115712,6 @@
           "source_id": "33544977",
           "target_video_id": "30984660",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:19:48.504568+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33544977",
-          "target_video_id": "30984660",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:52:34.574734+00:00"
         },
         {
@@ -115727,6 +115720,13 @@
           "target_video_id": "30984660",
           "permanent": false,
           "attempted_at": "2026-11-10T20:25:02.062640+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33544977",
+          "target_video_id": "30984660",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:55:16.341732+00:00"
         }
       ],
       "last_plan": {
@@ -115769,7 +115769,7 @@
       "last_plan": {
         "source_id": "34780210",
         "display_name": "Reptile 4K CZ Dabing",
-        "planned_at": "2026-11-10T20:25:03.717676+00:00"
+        "planned_at": "2026-11-10T20:55:15.210375+00:00"
       },
       "previous_target_id": "30984662",
       "prepared": {
@@ -115777,6 +115777,12 @@
         "size_bytes": 21300000000,
         "prepared_at": "2026-11-10T17:14:56.514473+00:00",
         "relay_source_id": "34780210"
+      },
+      "claim": {
+        "worker_id": "67b4c2111cc84b83b12160e401882538-shard-0",
+        "claimed_at": "2026-11-10T20:55:15.826629+00:00",
+        "lease_expires_at": "2026-11-11T02:55:15.826629+00:00",
+        "run_id": "42864255663"
       }
     },
     "13690": {
@@ -123109,7 +123115,7 @@
       "last_plan": {
         "source_id": "29575212",
         "display_name": "The Life and Times of Judge Roy Bean 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:55:13.406582+00:00"
+        "planned_at": "2026-11-10T20:55:15.472525+00:00"
       }
     },
     "30015": {
@@ -178393,5 +178399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:55:13.406598+00:00"
+  "updated_at": "2026-11-10T20:55:16.341751+00:00"
 }
