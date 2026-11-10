@@ -111326,13 +111326,6 @@
           "source_id": "27757295",
           "target_video_id": "30983821",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:43:59.148864+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27757295",
-          "target_video_id": "30983821",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:17:20.844689+00:00"
         },
         {
@@ -111341,12 +111334,19 @@
           "target_video_id": "30983821",
           "permanent": false,
           "attempted_at": "2026-11-10T21:51:03.688452+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27757295",
+          "target_video_id": "30983821",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:31:31.781862+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27757295",
         "display_name": "The King of Kings (Král Králů) (1963) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:31:21.025510+00:00"
+        "planned_at": "2026-11-10T22:31:27.675203+00:00"
       },
       "previous_target_id": "30983821",
       "prepared": {
@@ -124891,7 +124891,13 @@
       "last_plan": {
         "source_id": "32203611",
         "display_name": "Apache Gold (Winnetou 1. Teil) 4K CZ Dabing",
-        "planned_at": "2026-11-10T22:31:21.361815+00:00"
+        "planned_at": "2026-11-10T22:31:28.115138+00:00"
+      },
+      "claim": {
+        "worker_id": "685dfe2b8859416d9e79c6dba3246606-shard-0",
+        "claimed_at": "2026-11-10T22:31:29.613466+00:00",
+        "lease_expires_at": "2026-11-11T04:31:29.613466+00:00",
+        "run_id": "42904278669"
       }
     },
     "30263": {
@@ -124902,7 +124908,13 @@
       "last_plan": {
         "source_id": "34150939",
         "display_name": "Shaolin Temple (1982) SD CZ Dabing",
-        "planned_at": "2026-11-10T22:31:18.386041+00:00"
+        "planned_at": "2026-11-10T22:31:28.306476+00:00"
+      },
+      "claim": {
+        "worker_id": "4235da2f1a5e4400804021f153809a3b-shard-0",
+        "claimed_at": "2026-11-10T22:31:29.796389+00:00",
+        "lease_expires_at": "2026-11-11T04:31:29.796389+00:00",
+        "run_id": "42904278669"
       }
     },
     "2850": {
@@ -124912,7 +124924,12 @@
       "attempts": []
     },
     "28859": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34711330",
+        "display_name": "The Twister: Caught in the Storm 1080p CZ Dabing",
+        "planned_at": "2026-11-10T22:31:28.661542+00:00"
+      }
     },
     "24413": {
       "attempts": []
@@ -179841,5 +179858,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:31:23.654400+00:00"
+  "updated_at": "2026-11-10T22:31:31.781881+00:00"
 }
