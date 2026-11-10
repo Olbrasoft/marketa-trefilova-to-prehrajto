@@ -116618,17 +116618,19 @@
       "attempts": []
     },
     "30264": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29979846",
+          "reason": "Request failed for https://sdilej.cz/29979846/lov-lososu-v-jemenu-cz-dabing-prima-s.-rasilov-j.-smyckova-z.-adamovska-.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:45:25.369706+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29979846",
         "display_name": "Salmon Fishing in the Yemen 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:45:21.601975+00:00"
-      },
-      "claim": {
-        "worker_id": "cb5926f4e50c4fbaa25d50227e1fcd12-shard-0",
-        "claimed_at": "2026-11-10T17:45:23.619082+00:00",
-        "lease_expires_at": "2026-11-10T23:45:23.619082+00:00",
-        "run_id": "42823888331"
       }
     },
     "11795": {
@@ -172610,5 +172612,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:45:23.845458+00:00"
+  "updated_at": "2026-11-10T17:45:25.369722+00:00"
 }
