@@ -57050,13 +57050,6 @@
           "source_id": "33383467",
           "target_video_id": "30785708",
           "permanent": false,
-          "attempted_at": "2026-11-10T04:17:09.849758+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33383467",
-          "target_video_id": "30785708",
-          "permanent": false,
           "attempted_at": "2026-11-10T04:52:02.904142+00:00"
         },
         {
@@ -57065,12 +57058,19 @@
           "target_video_id": "30785708",
           "permanent": false,
           "attempted_at": "2026-11-10T05:38:38.016123+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33383467",
+          "target_video_id": "30785708",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:12:41.933750+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33383467",
         "display_name": "Vanishing Point 1080p CZ Dabing",
-        "planned_at": "2026-11-10T05:38:36.117045+00:00"
+        "planned_at": "2026-11-10T06:12:39.768619+00:00"
       },
       "previous_target_id": "30785708",
       "prepared": {
@@ -100511,11 +100511,22 @@
       "last_plan": {
         "source_id": "18515704",
         "display_name": "Promise Me This (Завет) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:12:35.965121+00:00"
+        "planned_at": "2026-11-10T06:12:40.003084+00:00"
+      },
+      "claim": {
+        "worker_id": "00e64a3a1a0d424681c6fd46c0e5e877-shard-0",
+        "claimed_at": "2026-11-10T06:12:40.559203+00:00",
+        "lease_expires_at": "2026-11-10T12:12:40.559203+00:00",
+        "run_id": "42761712557"
       }
     },
     "22238": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29102293",
+        "display_name": "The Day of the Locust 720p CZ Dabing",
+        "planned_at": "2026-11-10T06:12:40.138975+00:00"
+      }
     },
     "15521": {
       "attempts": []
@@ -159348,5 +159359,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:12:37.664626+00:00"
+  "updated_at": "2026-11-10T06:12:41.933770+00:00"
 }
