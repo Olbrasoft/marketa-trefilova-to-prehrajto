@@ -106867,17 +106867,19 @@
       }
     },
     "21503": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34913823",
+          "target_video_id": "30983173",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:54:48.319007+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34913823",
         "display_name": "School for Fathers SD CZ Dabing",
         "planned_at": "2026-11-10T13:54:04.287444+00:00"
-      },
-      "claim": {
-        "worker_id": "3ca26329388d4dfdb090533906d6d02b-shard-0",
-        "claimed_at": "2026-11-10T13:54:04.721890+00:00",
-        "lease_expires_at": "2026-11-10T19:54:04.721890+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30983173",
       "prepared": {
@@ -164141,5 +164143,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:54:18.671695+00:00"
+  "updated_at": "2026-11-10T13:54:48.319023+00:00"
 }
