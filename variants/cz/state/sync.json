@@ -116529,17 +116529,19 @@
       }
     },
     "3110": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9734358",
+          "target_video_id": "30984815",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:45:02.225246+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9734358",
         "display_name": "Harsh Times SD CZ Dabing",
         "planned_at": "2026-11-10T17:44:22.187524+00:00"
-      },
-      "claim": {
-        "worker_id": "3f45de35e3ad49c5b5ecb2ce5cf020b9-shard-0",
-        "claimed_at": "2026-11-10T17:44:22.644923+00:00",
-        "lease_expires_at": "2026-11-10T23:44:22.644923+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984815",
       "prepared": {
@@ -172558,5 +172560,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:44:31.464693+00:00"
+  "updated_at": "2026-11-10T17:45:02.225263+00:00"
 }
