@@ -604,3 +604,4 @@ Attach subtitles only after target processing has finished.
 | Pieces of a Woman 1080p CZ Titulky | 30977806 | https://sdilej.cz/27839654/stripky-zeny-vanessa-kirby-shia-labeouf-ellen-burstyn-2020-drama-en-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Colonia (Colonia Dignidad – Es gibt kein Zurück) 1080p CZ Titulky | 30977898 | https://sdilej.cz/34886157/colonia.2015.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Starman 1080p CZ Titulky | 30978323 | https://sdilej.cz/34237075/starman-1984-1080p-bluray-multi-10bit-av1-majo.mkv | Extract Czech track from exact source after processing |
+| American Animals 1080p CZ Titulky | 30980223 | https://sdilej.cz/10502270/american.animals.2018.1080p.bdrip.x264.cz.titulky.mkv | Extract Czech track from exact source after processing |
