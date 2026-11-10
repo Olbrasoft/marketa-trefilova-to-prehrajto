@@ -102822,17 +102822,19 @@
       "attempts": []
     },
     "2239": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33502206",
+          "reason": "Source detail has no authenticated download link; source_id=33502206",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:09:17.799372+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33502206",
         "display_name": "Ferrari (2003) SD CZ Dabing",
         "planned_at": "2026-11-10T10:09:11.670362+00:00"
-      },
-      "claim": {
-        "worker_id": "337a9fc63be2471891c051fad2049464-shard-0",
-        "claimed_at": "2026-11-10T10:09:13.681110+00:00",
-        "lease_expires_at": "2026-11-10T16:09:13.681110+00:00",
-        "run_id": "42790251611"
       }
     },
     "10815": {
@@ -161114,5 +161116,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:09:16.102527+00:00"
+  "updated_at": "2026-11-10T10:09:17.799392+00:00"
 }
