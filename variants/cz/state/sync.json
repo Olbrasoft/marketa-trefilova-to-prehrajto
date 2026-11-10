@@ -112509,6 +112509,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T15:11:34.285471+00:00",
         "relay_source_id": "35068482"
+      },
+      "claim": {
+        "worker_id": "9c612196489e40debfd5cc57aca88a76-shard-0",
+        "claimed_at": "2026-11-10T22:15:58.886241+00:00",
+        "lease_expires_at": "2026-11-11T04:15:58.886241+00:00",
+        "run_id": "42904278669"
       }
     },
     "24730": {
@@ -124546,17 +124552,19 @@
       }
     },
     "22024": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34788112",
+          "target_video_id": "30985851",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:15:59.064777+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34788112",
         "display_name": "There Was a Crooked Man... SD CZ Dabing",
         "planned_at": "2026-11-10T22:11:16.078004+00:00"
-      },
-      "claim": {
-        "worker_id": "b263cfc91ead479a9ac0ffeb1a4f8726-shard-0",
-        "claimed_at": "2026-11-10T22:11:17.178998+00:00",
-        "lease_expires_at": "2026-11-11T04:11:17.178998+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30985851",
       "prepared": {
@@ -179581,5 +179589,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:15:57.048301+00:00"
+  "updated_at": "2026-11-10T22:15:59.064796+00:00"
 }
