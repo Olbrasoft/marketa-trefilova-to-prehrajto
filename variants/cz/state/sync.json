@@ -8575,13 +8575,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-10T06:12:01.982114+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-10T06:48:00.198614+00:00"
         },
         {
@@ -8590,6 +8583,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-10T07:20:34.049913+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:57:41.551817+00:00"
         }
       ],
       "last_plan": {
@@ -8603,12 +8603,6 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
-      },
-      "claim": {
-        "worker_id": "0488b64db5784cf5ba6b21786cc2321c-shard-0",
-        "claimed_at": "2026-11-10T07:57:33.324853+00:00",
-        "lease_expires_at": "2026-11-10T13:57:33.324853+00:00",
-        "run_id": "42761712557"
       }
     },
     "21873": {
@@ -22312,7 +22306,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:20:35.740124+00:00"
+        "planned_at": "2026-11-10T07:57:40.744252+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22320,6 +22314,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "de631a594a314c4fa65b45a0504868a3-shard-0",
+        "claimed_at": "2026-11-10T07:57:41.307303+00:00",
+        "lease_expires_at": "2026-11-10T13:57:41.307303+00:00",
+        "run_id": "42761712557"
       }
     },
     "730": {
@@ -101420,7 +101420,7 @@
       "last_plan": {
         "source_id": "34904643",
         "display_name": "Here The Whole Time 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:57:32.905243+00:00"
+        "planned_at": "2026-11-10T07:57:40.972781+00:00"
       }
     },
     "1836": {
@@ -160062,5 +160062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:57:35.908309+00:00"
+  "updated_at": "2026-11-10T07:57:41.551838+00:00"
 }
