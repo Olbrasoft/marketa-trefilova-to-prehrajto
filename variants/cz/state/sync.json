@@ -104818,7 +104818,20 @@
       }
     },
     "28940": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33807615",
+          "reason": "Source detail has no authenticated download link; source_id=33807615",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:16:24.354749+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "33807615",
+        "display_name": "Better Go Mad in the Wild 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:16:19.584675+00:00"
+      }
     },
     "32764": {
       "attempts": []
@@ -104830,10 +104843,32 @@
       "attempts": []
     },
     "11859": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27467554",
+        "display_name": "Vážení přátelé, ano 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:16:19.752682+00:00"
+      },
+      "claim": {
+        "worker_id": "61e3c7b5d99840fe84f3f96a413a5b80-shard-0",
+        "claimed_at": "2026-11-10T10:16:20.307709+00:00",
+        "lease_expires_at": "2026-11-10T16:16:20.307709+00:00",
+        "run_id": "42790251611"
+      }
     },
     "14328": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34686126",
+        "display_name": "Aurora Teagarden Mysteries: Reunited and it Feels So Deadly 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:16:19.920022+00:00"
+      },
+      "claim": {
+        "worker_id": "a6e6e97fd0064d95b9bd392519726f88-shard-0",
+        "claimed_at": "2026-11-10T10:16:20.628740+00:00",
+        "lease_expires_at": "2026-11-10T16:16:20.628740+00:00",
+        "run_id": "42790251611"
+      }
     },
     "30346": {
       "attempts": []
@@ -162470,5 +162505,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:16:14.809394+00:00"
+  "updated_at": "2026-11-10T10:16:24.354766+00:00"
 }
