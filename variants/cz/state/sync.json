@@ -113515,13 +113515,6 @@
           "source_id": "16147077",
           "target_video_id": "30984104",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:12:39.687187+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16147077",
-          "target_video_id": "30984104",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:44:55.902217+00:00"
         },
         {
@@ -113530,6 +113523,13 @@
           "target_video_id": "30984104",
           "permanent": false,
           "attempted_at": "2026-11-10T20:16:42.113156+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16147077",
+          "target_video_id": "30984104",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:46:46.519289+00:00"
         }
       ],
       "last_plan": {
@@ -113543,12 +113543,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:27:35.431465+00:00",
         "relay_source_id": "16147077"
-      },
-      "claim": {
-        "worker_id": "a75b1446d3f24aff90534beacf77277d-shard-0",
-        "claimed_at": "2026-11-10T20:46:43.660419+00:00",
-        "lease_expires_at": "2026-11-11T02:46:43.660419+00:00",
-        "run_id": "42864255663"
       }
     },
     "3064": {
@@ -123024,7 +123018,13 @@
       "last_plan": {
         "source_id": "27021419",
         "display_name": "Ray Donovan: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:46:43.295823+00:00"
+        "planned_at": "2026-11-10T20:46:45.857696+00:00"
+      },
+      "claim": {
+        "worker_id": "ba60f251b7c44726960597317db40cbc-shard-0",
+        "claimed_at": "2026-11-10T20:46:46.185192+00:00",
+        "lease_expires_at": "2026-11-11T02:46:46.185192+00:00",
+        "run_id": "42864255663"
       }
     },
     "2868": {
@@ -178317,5 +178317,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:46:44.180253+00:00"
+  "updated_at": "2026-11-10T20:46:46.519307+00:00"
 }
