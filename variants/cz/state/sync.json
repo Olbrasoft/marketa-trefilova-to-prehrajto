@@ -104476,17 +104476,19 @@
       }
     },
     "14117": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34773519",
+          "reason": "Source detail has no authenticated download link; source_id=34773519",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:13.319822+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34773519",
         "display_name": "Dads 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:15:05.674599+00:00"
-      },
-      "claim": {
-        "worker_id": "d8e70bd826c14eeab6b77c869bedfefc-shard-0",
-        "claimed_at": "2026-11-10T10:15:09.805690+00:00",
-        "lease_expires_at": "2026-11-10T16:15:09.805690+00:00",
-        "run_id": "42790251611"
       }
     },
     "24962": {
@@ -104498,13 +104500,30 @@
         "source_id": "28621157",
         "display_name": "The Girl from Tomorrow (Primadonna) 720p CZ Dabing",
         "planned_at": "2026-11-10T10:15:10.135069+00:00"
+      },
+      "claim": {
+        "worker_id": "b10e318ec1f5461a96f872e3bcef85b3-shard-0",
+        "claimed_at": "2026-11-10T10:15:12.189161+00:00",
+        "lease_expires_at": "2026-11-10T16:15:12.189161+00:00",
+        "run_id": "42790251611"
       }
     },
     "27521": {
       "attempts": []
     },
     "28974": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "12666273",
+        "display_name": "Monster High: Freaky Fusion SD CZ Dabing",
+        "planned_at": "2026-11-10T10:15:12.511819+00:00"
+      },
+      "claim": {
+        "worker_id": "68ef92b8bab04a4aa34cf988e98872c0-shard-0",
+        "claimed_at": "2026-11-10T10:15:12.889467+00:00",
+        "lease_expires_at": "2026-11-10T16:15:12.889467+00:00",
+        "run_id": "42790251611"
+      }
     },
     "22419": {
       "attempts": []
@@ -162252,5 +162271,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:10.135086+00:00"
+  "updated_at": "2026-11-10T10:15:13.319854+00:00"
 }
