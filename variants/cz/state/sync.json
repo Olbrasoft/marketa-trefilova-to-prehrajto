@@ -102515,7 +102515,20 @@
       "attempts": []
     },
     "11036": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34736696",
+          "reason": "Source detail has no authenticated download link; source_id=34736696",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:30:33.324989+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34736696",
+        "display_name": "Jumping Over Puddles (Už zase skáču přes kaluže) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:30:30.012283+00:00"
+      }
     },
     "24158": {
       "attempts": []
@@ -160862,5 +160875,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:30:20.974006+00:00"
+  "updated_at": "2026-11-10T09:30:33.325006+00:00"
 }
