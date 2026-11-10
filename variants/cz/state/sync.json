@@ -101972,17 +101972,19 @@
       }
     },
     "34378": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30980420",
+          "target_video_id": "30972536",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:32:51.203070+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30980420",
         "display_name": "On the Beach SD CZ Dabing",
         "planned_at": "2026-11-10T09:06:31.568764+00:00"
-      },
-      "claim": {
-        "worker_id": "72100f9a95e941fcbde5a081929f6dcb-shard-0",
-        "claimed_at": "2026-11-10T09:06:33.607177+00:00",
-        "lease_expires_at": "2026-11-10T15:06:33.607177+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30972536",
       "prepared": {
@@ -160899,5 +160901,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:30:57.582048+00:00"
+  "updated_at": "2026-11-10T09:32:51.203088+00:00"
 }
