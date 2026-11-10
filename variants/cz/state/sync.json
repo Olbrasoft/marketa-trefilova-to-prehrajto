@@ -100648,7 +100648,7 @@
       "last_plan": {
         "source_id": "34693869",
         "display_name": "Chicken for Linda! (Linda veut du poulet !) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:59:45.906960+00:00"
+        "planned_at": "2026-11-10T06:59:50.440486+00:00"
       },
       "previous_target_id": "30966825",
       "prepared": {
@@ -100656,6 +100656,12 @@
         "size_bytes": 1659316273,
         "prepared_at": "2026-11-10T06:21:34.960256+00:00",
         "relay_source_id": "34693869"
+      },
+      "claim": {
+        "worker_id": "a8cf0226e6c64f6dbfa881d086dd4b60-shard-0",
+        "claimed_at": "2026-11-10T06:59:51.023380+00:00",
+        "lease_expires_at": "2026-11-10T12:59:51.023380+00:00",
+        "run_id": "42761712557"
       }
     },
     "35722": {
@@ -100834,17 +100840,19 @@
       "attempts": []
     },
     "25539": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34707730",
+          "target_video_id": "30967993",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:59:53.094848+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34707730",
         "display_name": "Winky's Horse SD CZ Dabing",
         "planned_at": "2026-11-10T06:54:39.990430+00:00"
-      },
-      "claim": {
-        "worker_id": "96ce163c97c04003873001a6dd6b5a53-shard-0",
-        "claimed_at": "2026-11-10T06:54:40.304587+00:00",
-        "lease_expires_at": "2026-11-10T12:54:40.304587+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30967993",
       "prepared": {
@@ -100868,7 +100876,7 @@
       "last_plan": {
         "source_id": "33694440",
         "display_name": "Miracles (Miracles: The Canton Godfather) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:59:46.153124+00:00"
+        "planned_at": "2026-11-10T06:59:50.707708+00:00"
       }
     },
     "2745": {
@@ -159627,5 +159635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:59:46.153142+00:00"
+  "updated_at": "2026-11-10T06:59:53.094865+00:00"
 }
