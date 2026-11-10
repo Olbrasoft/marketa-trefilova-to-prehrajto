@@ -34221,7 +34221,7 @@
       "last_plan": {
         "source_id": "35087204",
         "display_name": "Darkest Hour 4K CZ Dabing",
-        "planned_at": "2026-11-10T21:03:01.365430+00:00"
+        "planned_at": "2026-11-10T21:37:57.229834+00:00"
       },
       "previous_target_id": "30738724",
       "prepared": {
@@ -34229,6 +34229,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-02T18:09:12.961107+00:00",
         "relay_source_id": "35087204"
+      },
+      "claim": {
+        "worker_id": "3d5fb45b24234322b5bc413d0c5003ee-shard-0",
+        "claimed_at": "2026-11-10T21:37:58.256294+00:00",
+        "lease_expires_at": "2026-11-11T03:37:58.256294+00:00",
+        "run_id": "42864255663"
       }
     },
     "36749": {
@@ -121945,13 +121951,6 @@
           "source_id": "26240027",
           "target_video_id": "30985452",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:57:46.021914+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26240027",
-          "target_video_id": "30985452",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:32:41.530304+00:00"
         },
         {
@@ -121960,6 +121959,13 @@
           "target_video_id": "30985452",
           "permanent": false,
           "attempted_at": "2026-11-10T21:02:58.094658+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26240027",
+          "target_video_id": "30985452",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:37:58.631402+00:00"
         }
       ],
       "last_plan": {
@@ -123765,14 +123771,25 @@
       "last_plan": {
         "source_id": "27956227",
         "display_name": "Wil 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:37:55.134059+00:00"
+        "planned_at": "2026-11-10T21:37:57.497625+00:00"
+      },
+      "claim": {
+        "worker_id": "9bf92eb895bf4f08825626cd041b07e4-shard-0",
+        "claimed_at": "2026-11-10T21:37:58.420390+00:00",
+        "lease_expires_at": "2026-11-11T03:37:58.420390+00:00",
+        "run_id": "42864255663"
       }
     },
     "19325": {
       "attempts": []
     },
     "35391": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "20827767",
+        "display_name": "The Psychic (Sette note in nero) (1977) SD CZ Dabing",
+        "planned_at": "2026-11-10T21:37:57.691304+00:00"
+      }
     },
     "22167": {
       "attempts": []
@@ -178938,5 +178955,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:37:55.134078+00:00"
+  "updated_at": "2026-11-10T21:37:58.631420+00:00"
 }
