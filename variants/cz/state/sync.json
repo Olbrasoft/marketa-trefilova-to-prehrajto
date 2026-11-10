@@ -113884,7 +113884,7 @@
       "last_plan": {
         "source_id": "26233702",
         "display_name": "Disturbia 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:13:21.808162+00:00"
+        "planned_at": "2026-11-10T18:44:14.488046+00:00"
       },
       "previous_target_id": "30984140",
       "prepared": {
@@ -119672,17 +119672,19 @@
       }
     },
     "13361": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28773140",
+          "target_video_id": "30985057",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:44:14.676189+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28773140",
         "display_name": "The Upside of Anger 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:43:00.251688+00:00"
-      },
-      "claim": {
-        "worker_id": "93c3a73fc13b4813a09afba1b7a3d915-shard-0",
-        "claimed_at": "2026-11-10T18:43:00.966081+00:00",
-        "lease_expires_at": "2026-11-11T00:43:00.966081+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985057",
       "prepared": {
@@ -175348,5 +175350,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:44:12.525512+00:00"
+  "updated_at": "2026-11-10T18:44:14.676207+00:00"
 }
