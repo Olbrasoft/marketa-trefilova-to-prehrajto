@@ -595,6 +595,6 @@ Attach subtitles only after target processing has finished.
 | South Park: The End of Obesity 1080p CZ Titulky | 30952822 | https://sdilej.cz/29078716/south-park-the-end-of-obesity-2024-cz-titulky.mkv | Complete: Czech subtitles verified |
 | Black Robe 1080p CZ Titulky | 30956873 | https://sdilej.cz/20576056/cerne-roucho-black-robe-1991-1080p-h.264-audio-en-subtitles-cz-en.mkv | Complete: Czech subtitles verified |
 | Game of Thrones: The Last Watch 1080p CZ Titulky | 30959654 | https://sdilej.cz/27669638/hra-o-truny-posledni-hlidka-dokument-hdtv-cz-dabing.mkv | Complete: Czech subtitles verified |
-| The Stranger (2025) 1080p CZ Titulky | 30958066 | https://sdilej.cz/34083657/l-etranger-2025-1080p-cz-sk.tit.mkv | Extract Czech track from exact source after processing |
+| The Stranger (2025) 1080p CZ Titulky | 30958066 | https://sdilej.cz/34083657/l-etranger-2025-1080p-cz-sk.tit.mkv | Complete: Czech subtitles verified |
 | Tisícročná včela 1080p CZ Titulky | 30959744 | https://sdilej.cz/32069504/tisicrocna-vcela-i-ii-1983-sk-.mkv | Complete: Czech subtitles verified |
 | Tehran Taboo (Theran Taboo) 1080p CZ Titulky | 30960325 | https://sdilej.cz/29675224/teheranska-tabu-2017-tit.cz.mkv | Complete: Czech subtitles verified |
