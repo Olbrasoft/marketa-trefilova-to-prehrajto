@@ -109853,17 +109853,19 @@
       }
     },
     "33917": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716815",
+          "target_video_id": "30983811",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:52:42.838017+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716815",
         "display_name": "Karel Kryl - Kdo jsem (Karel Kryl – kto som?) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:52:00.089230+00:00"
-      },
-      "claim": {
-        "worker_id": "c0bb2b25a8e443619e1cdd0fff4ad3a6-shard-0",
-        "claimed_at": "2026-11-10T14:52:02.157700+00:00",
-        "lease_expires_at": "2026-11-10T20:52:02.157700+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983811",
       "prepared": {
@@ -166548,5 +166550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:52:41.318594+00:00"
+  "updated_at": "2026-11-10T14:52:42.838040+00:00"
 }
