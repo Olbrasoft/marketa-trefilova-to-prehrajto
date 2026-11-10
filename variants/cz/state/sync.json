@@ -106330,17 +106330,19 @@
       "attempts": []
     },
     "11838": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34674805",
+          "target_video_id": "30981232",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:19:12.680127+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674805",
         "display_name": "Nezný barbar (Něžný barbar) 1080p CZ Dabing",
         "planned_at": "2026-11-10T13:06:45.408467+00:00"
-      },
-      "claim": {
-        "worker_id": "a7788ddf2fad452792ae6f474351366c-shard-0",
-        "claimed_at": "2026-11-10T13:06:45.867327+00:00",
-        "lease_expires_at": "2026-11-10T19:06:45.867327+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30981232",
       "prepared": {
@@ -163682,5 +163684,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:06:49.896077+00:00"
+  "updated_at": "2026-11-10T13:19:12.680144+00:00"
 }
