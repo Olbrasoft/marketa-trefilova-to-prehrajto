@@ -114070,13 +114070,6 @@
           "source_id": "31964145",
           "target_video_id": "30984161",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:50:37.166301+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31964145",
-          "target_video_id": "30984161",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:22:27.583109+00:00"
         },
         {
@@ -114085,12 +114078,19 @@
           "target_video_id": "30984161",
           "permanent": false,
           "attempted_at": "2026-11-10T20:53:21.996406+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31964145",
+          "target_video_id": "30984161",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:27:11.642426+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31964145",
         "display_name": "Bolt 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:53:18.342041+00:00"
+        "planned_at": "2026-11-10T21:27:09.482334+00:00"
       },
       "previous_target_id": "30984161",
       "prepared": {
@@ -123516,7 +123516,13 @@
       "last_plan": {
         "source_id": "33771384",
         "display_name": "The Immortal (L'Immortale) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:27:03.902731+00:00"
+        "planned_at": "2026-11-10T21:27:09.743149+00:00"
+      },
+      "claim": {
+        "worker_id": "4b6dd0cd18df4e0bb0f1fa431021efe3-shard-0",
+        "claimed_at": "2026-11-10T21:27:10.398782+00:00",
+        "lease_expires_at": "2026-11-11T03:27:10.398782+00:00",
+        "run_id": "42864255663"
       }
     },
     "24812": {
@@ -123526,7 +123532,12 @@
       "attempts": []
     },
     "30079": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32449094",
+        "display_name": "The Four Seasons 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:27:09.903281+00:00"
+      }
     },
     "28538": {
       "attempts": []
@@ -178719,5 +178730,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:27:07.346856+00:00"
+  "updated_at": "2026-11-10T21:27:11.642445+00:00"
 }
