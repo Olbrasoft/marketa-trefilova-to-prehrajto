@@ -105763,17 +105763,19 @@
       "attempts": []
     },
     "10982": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35159543",
+          "target_video_id": "30978961",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:20:21.842867+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35159543",
         "display_name": "Have Sword, Will Travel (保鏢) SD CZ Dabing",
         "planned_at": "2026-11-10T12:09:35.367662+00:00"
-      },
-      "claim": {
-        "worker_id": "88c21ae063304efc910a6231a4458007-shard-0",
-        "claimed_at": "2026-11-10T12:09:35.792756+00:00",
-        "lease_expires_at": "2026-11-10T18:09:35.792756+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30978961",
       "prepared": {
@@ -163251,5 +163253,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:20:19.865606+00:00"
+  "updated_at": "2026-11-10T12:20:21.842885+00:00"
 }
