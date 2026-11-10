@@ -124245,17 +124245,19 @@
       "attempts": []
     },
     "3015": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32691984",
+          "target_video_id": "30985806",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:01:51.698770+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32691984",
         "display_name": "Back to Burgundy (Ce qui nous lie) SD CZ Dabing",
         "planned_at": "2026-11-10T22:01:04.862042+00:00"
-      },
-      "claim": {
-        "worker_id": "aca61a529eb9484a86fd87e22128a4b5-shard-0",
-        "claimed_at": "2026-11-10T22:01:05.604545+00:00",
-        "lease_expires_at": "2026-11-11T04:01:05.604545+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985806",
       "prepared": {
@@ -179338,5 +179340,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:01:48.887207+00:00"
+  "updated_at": "2026-11-10T22:01:51.698786+00:00"
 }
