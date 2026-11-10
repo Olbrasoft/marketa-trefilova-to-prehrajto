@@ -100039,17 +100039,19 @@
       "attempts": []
     },
     "29751": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34712649",
+          "reason": "Request failed for https://sdilej.cz/34712649/zahada-hailey-deanove-vule-zabijet-2018-cz-dabing.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T04:55:20.221222+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34712649",
         "display_name": "Hailey Dean Mysteries: A Will to Kill 1080p CZ Dabing",
         "planned_at": "2026-11-10T04:54:32.294777+00:00"
-      },
-      "claim": {
-        "worker_id": "d4fcec646e9d4ab69f06d23fdb166841-shard-0",
-        "claimed_at": "2026-11-10T04:54:33.875421+00:00",
-        "lease_expires_at": "2026-11-10T10:54:33.875421+00:00",
-        "run_id": "42729980423"
       }
     },
     "18391": {
@@ -158991,5 +158993,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T04:54:39.642678+00:00"
+  "updated_at": "2026-11-10T04:55:20.221240+00:00"
 }
