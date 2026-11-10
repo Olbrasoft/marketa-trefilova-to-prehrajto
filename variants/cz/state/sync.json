@@ -100081,17 +100081,19 @@
       "attempts": []
     },
     "37447": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34671722",
+          "target_video_id": "30963735",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:02:19.381361+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34671722",
         "display_name": "Heartstopper Forever 1080p CZ Dabing",
         "planned_at": "2026-11-10T04:55:22.339071+00:00"
-      },
-      "claim": {
-        "worker_id": "283c6e2708b74532a0573fa5a2432700-shard-0",
-        "claimed_at": "2026-11-10T04:55:22.730045+00:00",
-        "lease_expires_at": "2026-11-10T10:55:22.730045+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30963735",
       "prepared": {
@@ -159031,5 +159033,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:02:14.819497+00:00"
+  "updated_at": "2026-11-10T05:02:19.381377+00:00"
 }
