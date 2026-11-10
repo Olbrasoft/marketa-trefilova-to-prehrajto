@@ -117562,17 +117562,19 @@
       }
     },
     "2922": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34883792",
+          "reason": "Source detail has no authenticated download link; source_id=34883792",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:04:43.778680+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34883792",
         "display_name": "Escape from Pretoria 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:04:40.106074+00:00"
-      },
-      "claim": {
-        "worker_id": "8a7543ce6f3547158c5066c8e8fc2328-shard-0",
-        "claimed_at": "2026-11-10T18:04:40.884925+00:00",
-        "lease_expires_at": "2026-11-11T00:04:40.884925+00:00",
-        "run_id": "42823888331"
       }
     },
     "2780": {
@@ -173442,5 +173444,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:04:42.037677+00:00"
+  "updated_at": "2026-11-10T18:04:43.778708+00:00"
 }
