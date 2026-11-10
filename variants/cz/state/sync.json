@@ -105228,17 +105228,19 @@
       }
     },
     "10831": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35072709",
+          "reason": "Source detail has no authenticated download link; source_id=35072709",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:54.106889+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35072709",
         "display_name": "Transport z ráje SD CZ Dabing",
         "planned_at": "2026-11-10T10:17:40.948970+00:00"
-      },
-      "claim": {
-        "worker_id": "fe8cc7f4e0c146deba579a9a824771e8-shard-0",
-        "claimed_at": "2026-11-10T10:17:44.465530+00:00",
-        "lease_expires_at": "2026-11-10T16:17:44.465530+00:00",
-        "run_id": "42790251611"
       }
     },
     "33673": {
@@ -162804,5 +162806,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:52.360432+00:00"
+  "updated_at": "2026-11-10T10:17:54.106908+00:00"
 }
