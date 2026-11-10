@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-10T01:44:56.145685+00:00"
+        "planned_at": "2026-11-10T02:19:01.665080+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "90074d71eaa24c85874248595ded0dc5-shard-0",
+        "claimed_at": "2026-11-10T02:19:02.446573+00:00",
+        "lease_expires_at": "2026-11-10T08:19:02.446573+00:00",
+        "run_id": "42729980423"
       }
     },
     "29922": {
@@ -99041,17 +99047,19 @@
       "attempts": []
     },
     "14626": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34780909",
+          "target_video_id": "30959355",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:19:41.780435+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34780909",
         "display_name": "Protector (Protektor) 1080p CZ Dabing",
         "planned_at": "2026-11-10T02:13:40.309562+00:00"
-      },
-      "claim": {
-        "worker_id": "bc8a8921e84340d6b4797b18db768bdb-shard-0",
-        "claimed_at": "2026-11-10T02:13:40.712923+00:00",
-        "lease_expires_at": "2026-11-10T08:13:40.712923+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30959355",
       "prepared": {
@@ -99066,7 +99074,7 @@
       "last_plan": {
         "source_id": "32154065",
         "display_name": "Gainsbourg (Gainsbourg (vie héroïque)) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T02:18:56.482957+00:00"
+        "planned_at": "2026-11-10T02:19:02.021363+00:00"
       }
     },
     "29241": {
@@ -158155,5 +158163,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T02:18:58.297633+00:00"
+  "updated_at": "2026-11-10T02:19:41.780453+00:00"
 }
