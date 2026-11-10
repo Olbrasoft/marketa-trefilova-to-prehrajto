@@ -115100,17 +115100,19 @@
       }
     },
     "10949": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "32933361",
+          "reason": "Source detail has no authenticated download link; source_id=32933361",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:13:15.265825+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32933361",
         "display_name": "You Only Live Twice 4K CZ Dabing",
         "planned_at": "2026-11-10T17:13:10.060259+00:00"
-      },
-      "claim": {
-        "worker_id": "c3e9a1dd6d63417f973251f0027b07d7-shard-0",
-        "claimed_at": "2026-11-10T17:13:10.868409+00:00",
-        "lease_expires_at": "2026-11-10T23:13:10.868409+00:00",
-        "run_id": "42823888331"
       }
     },
     "23658": {
@@ -171292,5 +171294,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:13:13.810518+00:00"
+  "updated_at": "2026-11-10T17:13:15.265845+00:00"
 }
