@@ -8538,13 +8538,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:14:01.960725+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:46:00.514441+00:00"
         },
         {
@@ -8553,6 +8546,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-10T17:16:12.529804+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:46:22.372008+00:00"
         }
       ],
       "last_plan": {
@@ -8566,12 +8566,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
-      },
-      "claim": {
-        "worker_id": "ca2559368a114f8da03c533580cc562d-shard-0",
-        "claimed_at": "2026-11-10T17:46:20.119507+00:00",
-        "lease_expires_at": "2026-11-10T23:46:20.119507+00:00",
-        "run_id": "42823888331"
       }
     },
     "270": {
@@ -8601,7 +8595,7 @@
       "last_plan": {
         "source_id": "17777440",
         "display_name": "Friends: The Reunion 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:16:10.961764+00:00"
+        "planned_at": "2026-11-10T17:46:21.809050+00:00"
       },
       "previous_target_id": "30631282",
       "prepared": {
@@ -116681,7 +116675,7 @@
       "last_plan": {
         "source_id": "34966653",
         "display_name": "City Slickers 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:46:18.170862+00:00"
+        "planned_at": "2026-11-10T17:46:22.129105+00:00"
       }
     },
     "33216": {
@@ -116691,7 +116685,12 @@
       "attempts": []
     },
     "22304": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30138435",
+        "display_name": "Logan's Run SD CZ Dabing",
+        "planned_at": "2026-11-10T17:46:22.557978+00:00"
+      }
     },
     "24949": {
       "attempts": []
@@ -172657,5 +172656,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:46:20.119537+00:00"
+  "updated_at": "2026-11-10T17:46:22.557992+00:00"
 }
