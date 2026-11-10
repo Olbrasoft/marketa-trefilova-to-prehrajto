@@ -28937,13 +28937,6 @@
           "source_id": "26168393",
           "target_video_id": "30721201",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:16:54.304039+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168393",
-          "target_video_id": "30721201",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:47:01.081001+00:00"
         },
         {
@@ -28952,6 +28945,13 @@
           "target_video_id": "30721201",
           "permanent": false,
           "attempted_at": "2026-11-10T18:18:13.974149+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168393",
+          "target_video_id": "30721201",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:49:03.316338+00:00"
         }
       ],
       "last_plan": {
@@ -117495,7 +117495,7 @@
       "last_plan": {
         "source_id": "34966653",
         "display_name": "City Slickers 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:18:13.777539+00:00"
+        "planned_at": "2026-11-10T18:49:02.143481+00:00"
       },
       "previous_target_id": "30984828",
       "prepared": {
@@ -117503,6 +117503,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-11-10T17:46:29.376787+00:00",
         "relay_source_id": "34966653"
+      },
+      "claim": {
+        "worker_id": "67284a0886f143f8a15827062de15098-shard-0",
+        "claimed_at": "2026-11-10T18:49:02.759831+00:00",
+        "lease_expires_at": "2026-11-11T00:49:02.759831+00:00",
+        "run_id": "42864255663"
       }
     },
     "33216": {
@@ -119923,7 +119929,7 @@
       "last_plan": {
         "source_id": "28731473",
         "display_name": "DogMan (2023) 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:48:59.872439+00:00"
+        "planned_at": "2026-11-10T18:49:02.401460+00:00"
       }
     },
     "13240": {
@@ -175556,5 +175562,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:49:00.074902+00:00"
+  "updated_at": "2026-11-10T18:49:03.316357+00:00"
 }
