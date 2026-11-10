@@ -108611,6 +108611,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T14:23:29.804331+00:00",
         "relay_source_id": "34789117"
+      },
+      "claim": {
+        "worker_id": "c650a328847b4604b93509e5a2716e3f-shard-0",
+        "claimed_at": "2026-11-10T18:35:49.906649+00:00",
+        "lease_expires_at": "2026-11-11T00:35:49.906649+00:00",
+        "run_id": "42864255663"
       }
     },
     "14263": {
@@ -108640,7 +108646,7 @@
       "last_plan": {
         "source_id": "34686041",
         "display_name": "Princové jsou na draka 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:05:28.212164+00:00"
+        "planned_at": "2026-11-10T18:35:50.092219+00:00"
       },
       "previous_target_id": "30983624",
       "prepared": {
@@ -111308,13 +111314,6 @@
           "source_id": "27757295",
           "target_video_id": "30983821",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:04:23.451466+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27757295",
-          "target_video_id": "30983821",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:34:40.341176+00:00"
         },
         {
@@ -111323,6 +111322,13 @@
           "target_video_id": "30983821",
           "permanent": false,
           "attempted_at": "2026-11-10T18:05:21.042438+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27757295",
+          "target_video_id": "30983821",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:35:50.677716+00:00"
         }
       ],
       "last_plan": {
@@ -111336,12 +111342,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T14:53:39.741732+00:00",
         "relay_source_id": "27757295"
-      },
-      "claim": {
-        "worker_id": "b4251e94ed21402f9373d3d381ac4966-shard-0",
-        "claimed_at": "2026-11-10T18:35:47.877087+00:00",
-        "lease_expires_at": "2026-11-11T00:35:47.877087+00:00",
-        "run_id": "42864255663"
       }
     },
     "28594": {
@@ -119230,7 +119230,7 @@
       "last_plan": {
         "source_id": "34453326",
         "display_name": "Capricorn One 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:35:48.322986+00:00"
+        "planned_at": "2026-11-10T18:35:50.379335+00:00"
       }
     },
     "3003": {
@@ -174932,5 +174932,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:35:48.323002+00:00"
+  "updated_at": "2026-11-10T18:35:50.677737+00:00"
 }
