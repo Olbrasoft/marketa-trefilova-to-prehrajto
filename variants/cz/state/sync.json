@@ -110942,13 +110942,6 @@
           "source_id": "28586856",
           "target_video_id": "30983803",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:55:53.271048+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28586856",
-          "target_video_id": "30983803",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:26:15.766648+00:00"
         },
         {
@@ -110957,12 +110950,19 @@
           "target_video_id": "30983803",
           "permanent": false,
           "attempted_at": "2026-11-10T17:56:29.717407+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28586856",
+          "target_video_id": "30983803",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:27:54.495420+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28586856",
         "display_name": "Haškovy povídky ze starého mocnářství (Hasek’s Tales from the Old Monarchy) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:56:25.324686+00:00"
+        "planned_at": "2026-11-10T18:27:51.561250+00:00"
       },
       "previous_target_id": "30983803",
       "prepared": {
@@ -118629,7 +118629,13 @@
       "last_plan": {
         "source_id": "30808517",
         "display_name": "Keeping Mum 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:27:46.465594+00:00"
+        "planned_at": "2026-11-10T18:27:51.815786+00:00"
+      },
+      "claim": {
+        "worker_id": "bd608cd7692749bfbca84f2d86460c8d-shard-0",
+        "claimed_at": "2026-11-10T18:27:52.441846+00:00",
+        "lease_expires_at": "2026-11-11T00:27:52.441846+00:00",
+        "run_id": "42864255663"
       }
     },
     "2880": {
@@ -118639,7 +118645,12 @@
       "attempts": []
     },
     "2809": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33119817",
+        "display_name": "Champions (2023) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:27:51.970341+00:00"
+      }
     },
     "16691": {
       "attempts": []
@@ -174409,5 +174420,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:27:49.797008+00:00"
+  "updated_at": "2026-11-10T18:27:54.495437+00:00"
 }
