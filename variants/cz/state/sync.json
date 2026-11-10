@@ -99359,7 +99359,20 @@
       "attempts": []
     },
     "27666": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30139427",
+          "reason": "Source detail has no authenticated download link; source_id=30139427",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:24:28.291757+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "30139427",
+        "display_name": "Lost Christmas 720p CZ Dabing",
+        "planned_at": "2026-11-10T03:24:25.382052+00:00"
+      }
     },
     "21725": {
       "attempts": []
@@ -158405,5 +158418,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:24:21.976823+00:00"
+  "updated_at": "2026-11-10T03:24:28.291774+00:00"
 }
