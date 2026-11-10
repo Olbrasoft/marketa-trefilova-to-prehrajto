@@ -109060,6 +109060,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:31:20.506954+00:00",
         "relay_source_id": "9978707"
+      },
+      "claim": {
+        "worker_id": "57e18818508e4719ac90ef19fd7bea55-shard-0",
+        "claimed_at": "2026-11-10T19:16:02.110636+00:00",
+        "lease_expires_at": "2026-11-11T01:16:02.110636+00:00",
+        "run_id": "42864255663"
       }
     },
     "13053": {
@@ -116816,7 +116822,7 @@
       "last_plan": {
         "source_id": "35331022",
         "display_name": "Stripes 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:44:37.670124+00:00"
+        "planned_at": "2026-11-10T19:16:02.296275+00:00"
       },
       "previous_target_id": "30984777",
       "prepared": {
@@ -116824,6 +116830,12 @@
         "size_bytes": 9400000000,
         "prepared_at": "2026-11-10T17:39:02.793712+00:00",
         "relay_source_id": "35331022"
+      },
+      "claim": {
+        "worker_id": "bcb9e6d753af47b18a361c5781a151d2-shard-0",
+        "claimed_at": "2026-11-10T19:16:03.100765+00:00",
+        "lease_expires_at": "2026-11-11T01:16:03.100765+00:00",
+        "run_id": "42864255663"
       }
     },
     "13250": {
@@ -121003,17 +121015,19 @@
       "attempts": []
     },
     "10870": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30647033",
+          "target_video_id": "30985429",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:16:03.850481+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30647033",
         "display_name": "Battle of the Bulge 4K CZ Dabing",
         "planned_at": "2026-11-10T19:15:21.456255+00:00"
-      },
-      "claim": {
-        "worker_id": "abe93d4b13c64db0ace019148fe65132-shard-0",
-        "claimed_at": "2026-11-10T19:15:22.365226+00:00",
-        "lease_expires_at": "2026-11-11T01:15:22.365226+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985429",
       "prepared": {
@@ -121028,7 +121042,7 @@
       "last_plan": {
         "source_id": "34076897",
         "display_name": "The Gods Must Be Crazy II 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:16:00.215773+00:00"
+        "planned_at": "2026-11-10T19:16:02.567105+00:00"
       }
     },
     "32695": {
@@ -176560,5 +176574,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:16:00.426805+00:00"
+  "updated_at": "2026-11-10T19:16:03.850497+00:00"
 }
