@@ -110843,13 +110843,6 @@
           "source_id": "35113183",
           "target_video_id": "30983797",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:38:18.965539+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35113183",
-          "target_video_id": "30983797",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:10:53.904021+00:00"
         },
         {
@@ -110858,12 +110851,19 @@
           "target_video_id": "30983797",
           "permanent": false,
           "attempted_at": "2026-11-10T21:44:29.934387+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35113183",
+          "target_video_id": "30983797",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:22:37.153018+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35113183",
         "display_name": "Velká cesta (Большая дорога) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:44:25.840582+00:00"
+        "planned_at": "2026-11-10T22:22:34.156268+00:00"
       },
       "previous_target_id": "30983797",
       "prepared": {
@@ -124657,11 +124657,22 @@
       "last_plan": {
         "source_id": "33870427",
         "display_name": "Unstoppable (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:22:26.913484+00:00"
+        "planned_at": "2026-11-10T22:22:34.474583+00:00"
+      },
+      "claim": {
+        "worker_id": "696f06a372ce4f1588f9bbdd777b4bc0-shard-0",
+        "claimed_at": "2026-11-10T22:22:35.231083+00:00",
+        "lease_expires_at": "2026-11-11T04:22:35.231083+00:00",
+        "run_id": "42904278669"
       }
     },
     "2831": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34185758",
+        "display_name": "I Like Movies 1080p CZ Dabing",
+        "planned_at": "2026-11-10T22:22:34.665000+00:00"
+      }
     },
     "28226": {
       "attempts": []
@@ -179644,5 +179655,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:22:30.387487+00:00"
+  "updated_at": "2026-11-10T22:22:37.153046+00:00"
 }
