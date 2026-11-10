@@ -115013,7 +115013,7 @@
       "last_plan": {
         "source_id": "11740260",
         "display_name": "What Happened to Monday 4K CZ Dabing",
-        "planned_at": "2026-11-10T18:42:37.923717+00:00"
+        "planned_at": "2026-11-10T19:14:01.238838+00:00"
       },
       "previous_target_id": "30984614",
       "prepared": {
@@ -115021,6 +115021,12 @@
         "size_bytes": 13200000000,
         "prepared_at": "2026-11-10T17:04:25.682820+00:00",
         "relay_source_id": "11740260"
+      },
+      "claim": {
+        "worker_id": "e3fe77b0dede4c88bd0b448214e29511-shard-0",
+        "claimed_at": "2026-11-10T19:14:01.875156+00:00",
+        "lease_expires_at": "2026-11-11T01:14:01.875156+00:00",
+        "run_id": "42864255663"
       }
     },
     "2988": {
@@ -120908,17 +120914,19 @@
       "attempts": []
     },
     "25329": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20040559",
+          "target_video_id": "30985420",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:14:02.985163+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20040559",
         "display_name": "The Chumscrubber 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:12:52.657918+00:00"
-      },
-      "claim": {
-        "worker_id": "92a33ae7514c44fcb8b21961a38d4621-shard-0",
-        "claimed_at": "2026-11-10T19:12:53.131423+00:00",
-        "lease_expires_at": "2026-11-11T01:12:53.131423+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985420",
       "prepared": {
@@ -120933,7 +120941,7 @@
       "last_plan": {
         "source_id": "11171646",
         "display_name": "Mary and the Witch's Flower (メアリと魔女の花) SD CZ Dabing",
-        "planned_at": "2026-11-10T19:13:58.217130+00:00"
+        "planned_at": "2026-11-10T19:14:01.515314+00:00"
       }
     },
     "30431": {
@@ -176477,5 +176485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:13:59.685889+00:00"
+  "updated_at": "2026-11-10T19:14:02.985178+00:00"
 }
