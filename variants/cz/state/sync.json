@@ -108841,13 +108841,6 @@
           "source_id": "35072913",
           "target_video_id": "30983665",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:56:53.021271+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35072913",
-          "target_video_id": "30983665",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:38:48.983729+00:00"
         },
         {
@@ -108856,6 +108849,13 @@
           "target_video_id": "30983665",
           "permanent": false,
           "attempted_at": "2026-11-10T23:21:49.333592+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072913",
+          "target_video_id": "30983665",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:59:34.705399+00:00"
         }
       ],
       "last_plan": {
@@ -111817,7 +111817,7 @@
       "last_plan": {
         "source_id": "34705144",
         "display_name": "Private Torment (Windstorm) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:21:51.375941+00:00"
+        "planned_at": "2026-11-10T23:59:32.989290+00:00"
       },
       "previous_target_id": "30983853",
       "prepared": {
@@ -111825,6 +111825,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T14:59:53.270734+00:00",
         "relay_source_id": "34705144"
+      },
+      "claim": {
+        "worker_id": "304e84969a324c778647f535b51a9f93-shard-0",
+        "claimed_at": "2026-11-10T23:59:33.737251+00:00",
+        "lease_expires_at": "2026-11-11T05:59:33.737251+00:00",
+        "run_id": "42904278669"
       }
     },
     "15232": {
@@ -126188,7 +126194,7 @@
       "last_plan": {
         "source_id": "14900937",
         "display_name": "We Bare Bears: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:59:30.491858+00:00"
+        "planned_at": "2026-11-10T23:59:33.299001+00:00"
       }
     },
     "32276": {
@@ -180890,5 +180896,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:59:30.752143+00:00"
+  "updated_at": "2026-11-10T23:59:34.705419+00:00"
 }
