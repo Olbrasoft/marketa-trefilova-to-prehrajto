@@ -107930,13 +107930,6 @@
           "source_id": "27896203",
           "target_video_id": "30983560",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:26:14.114875+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27896203",
-          "target_video_id": "30983560",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:56:55.862802+00:00"
         },
         {
@@ -107945,6 +107938,13 @@
           "target_video_id": "30983560",
           "permanent": false,
           "attempted_at": "2026-11-10T19:29:30.314275+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27896203",
+          "target_video_id": "30983560",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:03:18.423156+00:00"
         }
       ],
       "last_plan": {
@@ -116171,7 +116171,7 @@
       "last_plan": {
         "source_id": "34190531",
         "display_name": "Christine (1983) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:29:30.109018+00:00"
+        "planned_at": "2026-11-10T20:03:17.293323+00:00"
       },
       "previous_target_id": "30984720",
       "prepared": {
@@ -116179,6 +116179,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T17:23:59.006056+00:00",
         "relay_source_id": "34190531"
+      },
+      "claim": {
+        "worker_id": "7a97b2968a864fe09c388dcd12ed240f-shard-0",
+        "claimed_at": "2026-11-10T20:03:17.898910+00:00",
+        "lease_expires_at": "2026-11-11T02:03:17.898910+00:00",
+        "run_id": "42864255663"
       }
     },
     "2923": {
@@ -122253,7 +122259,7 @@
       "last_plan": {
         "source_id": "22752658",
         "display_name": "Flashbacks of a Fool 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:03:15.357167+00:00"
+        "planned_at": "2026-11-10T20:03:17.550613+00:00"
       }
     },
     "26020": {
@@ -177648,5 +177654,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:03:15.357186+00:00"
+  "updated_at": "2026-11-10T20:03:18.423174+00:00"
 }
