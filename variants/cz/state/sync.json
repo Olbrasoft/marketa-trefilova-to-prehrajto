@@ -111010,6 +111010,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T14:51:02.683791+00:00",
         "relay_source_id": "34952768"
+      },
+      "claim": {
+        "worker_id": "cda58938682f419983f39ff39bade938-shard-0",
+        "claimed_at": "2026-11-10T18:32:20.875948+00:00",
+        "lease_expires_at": "2026-11-11T00:32:20.875948+00:00",
+        "run_id": "42864255663"
       }
     },
     "13010": {
@@ -111048,7 +111054,7 @@
       "last_plan": {
         "source_id": "35073576",
         "display_name": "Řeka čaruje 720p CZ Dabing",
-        "planned_at": "2026-11-10T18:02:08.264024+00:00"
+        "planned_at": "2026-11-10T18:32:21.065414+00:00"
       },
       "previous_target_id": "30983807",
       "prepared": {
@@ -112952,13 +112958,6 @@
           "source_id": "33199372",
           "target_video_id": "30984053",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:01:44.140665+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33199372",
-          "target_video_id": "30984053",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:31:46.907332+00:00"
         },
         {
@@ -112967,6 +112966,13 @@
           "target_video_id": "30984053",
           "permanent": false,
           "attempted_at": "2026-11-10T18:02:06.152789+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33199372",
+          "target_video_id": "30984053",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:32:21.357549+00:00"
         }
       ],
       "last_plan": {
@@ -112980,12 +112986,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T15:21:11.415854+00:00",
         "relay_source_id": "33199372"
-      },
-      "claim": {
-        "worker_id": "705066063c4141c79447808419b76f45-shard-0",
-        "claimed_at": "2026-11-10T18:32:18.239814+00:00",
-        "lease_expires_at": "2026-11-11T00:32:18.239814+00:00",
-        "run_id": "42864255663"
       }
     },
     "3067": {
@@ -119014,7 +119014,7 @@
       "last_plan": {
         "source_id": "14572727",
         "display_name": "The Wizard of Lies 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:32:19.097307+00:00"
+        "planned_at": "2026-11-10T18:32:21.714008+00:00"
       }
     },
     "23188": {
@@ -174743,5 +174743,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:32:19.097325+00:00"
+  "updated_at": "2026-11-10T18:32:21.714025+00:00"
 }
