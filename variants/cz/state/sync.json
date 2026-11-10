@@ -107773,13 +107773,6 @@
           "source_id": "12755157",
           "target_video_id": "30983527",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:23:46.942815+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12755157",
-          "target_video_id": "30983527",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:53:59.482311+00:00"
         },
         {
@@ -107788,6 +107781,13 @@
           "target_video_id": "30983527",
           "permanent": false,
           "attempted_at": "2026-11-10T18:25:28.794869+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12755157",
+          "target_video_id": "30983527",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:56:05.910044+00:00"
         }
       ],
       "last_plan": {
@@ -107801,12 +107801,6 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T14:15:09.197894+00:00",
         "relay_source_id": "12755157"
-      },
-      "claim": {
-        "worker_id": "da513501c802477a9eabfd883b41dc65-shard-0",
-        "claimed_at": "2026-11-10T18:56:03.716976+00:00",
-        "lease_expires_at": "2026-11-11T00:56:03.716976+00:00",
-        "run_id": "42864255663"
       }
     },
     "11675": {
@@ -110352,7 +110346,7 @@
       "last_plan": {
         "source_id": "34711871",
         "display_name": "Girl Power 720p CZ Dabing",
-        "planned_at": "2026-11-10T18:25:22.518280+00:00"
+        "planned_at": "2026-11-10T18:56:05.394498+00:00"
       },
       "previous_target_id": "30983774",
       "prepared": {
@@ -120129,11 +120123,16 @@
       "last_plan": {
         "source_id": "30979384",
         "display_name": "Fantastic Voyage SD CZ Dabing",
-        "planned_at": "2026-11-10T18:56:01.450278+00:00"
+        "planned_at": "2026-11-10T18:56:05.699121+00:00"
       }
     },
     "11153": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30780911",
+        "display_name": "The Sugarland Express 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:56:06.065357+00:00"
+      }
     },
     "27155": {
       "attempts": []
@@ -175748,5 +175747,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:56:03.717004+00:00"
+  "updated_at": "2026-11-10T18:56:06.065372+00:00"
 }
