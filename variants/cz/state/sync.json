@@ -108693,17 +108693,19 @@
       "attempts": []
     },
     "12785": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29985485",
+          "target_video_id": "30983701",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:37:58.516455+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29985485",
         "display_name": "Spravedlnost pro Selvina 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:36:54.134667+00:00"
-      },
-      "claim": {
-        "worker_id": "cfc564d4942e48deb73ce439cb645875-shard-0",
-        "claimed_at": "2026-11-10T14:36:56.651273+00:00",
-        "lease_expires_at": "2026-11-10T20:36:56.651273+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983701",
       "prepared": {
@@ -165625,5 +165627,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:37:41.020444+00:00"
+  "updated_at": "2026-11-10T14:37:58.516471+00:00"
 }
