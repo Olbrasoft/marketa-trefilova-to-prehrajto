@@ -122943,17 +122943,19 @@
       "attempts": []
     },
     "21616": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22838327",
+          "target_video_id": "30985596",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:46:01.699273+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22838327",
         "display_name": "The Comancheros SD CZ Dabing",
         "planned_at": "2026-11-10T20:38:40.635387+00:00"
-      },
-      "claim": {
-        "worker_id": "7fea67043f724641930cf3975fce5a2e-shard-0",
-        "claimed_at": "2026-11-10T20:38:41.267914+00:00",
-        "lease_expires_at": "2026-11-11T02:38:41.267914+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985596",
       "prepared": {
@@ -178276,5 +178278,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:46:00.128819+00:00"
+  "updated_at": "2026-11-10T20:46:01.699292+00:00"
 }
