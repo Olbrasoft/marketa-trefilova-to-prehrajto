@@ -99314,7 +99314,20 @@
       }
     },
     "28722": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "28030633",
+          "reason": "Request failed for https://sdilej.cz/28030633/deep-web-2015-cz-dokument-dvb-tv.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:22:49.725206+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "28030633",
+        "display_name": "Deep Web SD CZ Dabing",
+        "planned_at": "2026-11-10T03:22:03.183112+00:00"
+      }
     },
     "28388": {
       "attempts": []
@@ -158372,5 +158385,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:21:57.969179+00:00"
+  "updated_at": "2026-11-10T03:22:49.725226+00:00"
 }
