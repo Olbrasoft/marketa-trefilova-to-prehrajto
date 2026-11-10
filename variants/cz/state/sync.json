@@ -104215,13 +104215,48 @@
       "attempts": []
     },
     "29019": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27370003",
+          "reason": "Source detail has no authenticated download link; source_id=27370003",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:14:15.299542+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "27370003",
+        "display_name": "Garage Sale Mystery: All That Glitters SD CZ Dabing",
+        "planned_at": "2026-11-10T10:14:12.285663+00:00"
+      }
     },
     "34872": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "5705296",
+        "display_name": "Mr. Bug Goes to Town SD CZ Dabing",
+        "planned_at": "2026-11-10T10:14:12.451753+00:00"
+      },
+      "claim": {
+        "worker_id": "baa5ec77ae134e079b96200341598d77-shard-0",
+        "claimed_at": "2026-11-10T10:14:13.146484+00:00",
+        "lease_expires_at": "2026-11-10T16:14:13.146484+00:00",
+        "run_id": "42790251611"
+      }
     },
     "37518": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34910824",
+        "display_name": "Don't Let's Go to the Dogs Tonight 720p CZ Dabing",
+        "planned_at": "2026-11-10T10:14:12.618897+00:00"
+      },
+      "claim": {
+        "worker_id": "939bb1a6c7764f4e9f7e170038dcb7ce-shard-0",
+        "claimed_at": "2026-11-10T10:14:13.301581+00:00",
+        "lease_expires_at": "2026-11-10T16:14:13.301581+00:00",
+        "run_id": "42790251611"
+      }
     },
     "15726": {
       "attempts": []
@@ -162041,5 +162076,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:14:09.099336+00:00"
+  "updated_at": "2026-11-10T10:14:15.299559+00:00"
 }
