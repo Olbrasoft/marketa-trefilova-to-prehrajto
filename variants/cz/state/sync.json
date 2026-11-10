@@ -112420,13 +112420,6 @@
           "source_id": "33495930",
           "target_video_id": "30983976",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:18:44.339654+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33495930",
-          "target_video_id": "30983976",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:50:00.186679+00:00"
         },
         {
@@ -112435,6 +112428,13 @@
           "target_video_id": "30983976",
           "permanent": false,
           "attempted_at": "2026-11-10T17:20:08.122235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33495930",
+          "target_video_id": "30983976",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:50:23.988115+00:00"
         }
       ],
       "last_plan": {
@@ -115735,7 +115735,7 @@
       "last_plan": {
         "source_id": "31728968",
         "display_name": "Thirteen 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:19:26.681637+00:00"
+        "planned_at": "2026-11-10T17:50:22.720757+00:00"
       },
       "previous_target_id": "30984695",
       "prepared": {
@@ -115743,6 +115743,12 @@
         "size_bytes": 4618827397,
         "prepared_at": "2026-11-10T17:19:32.952001+00:00",
         "relay_source_id": "31728968"
+      },
+      "claim": {
+        "worker_id": "d637fde7ae1c493ebfba102d398dc690-shard-0",
+        "claimed_at": "2026-11-10T17:50:23.791972+00:00",
+        "lease_expires_at": "2026-11-10T23:50:23.791972+00:00",
+        "run_id": "42823888331"
       }
     },
     "2907": {
@@ -116823,6 +116829,12 @@
         "source_id": "20970259",
         "display_name": "Stonehearst Asylum 4K CZ Dabing",
         "planned_at": "2026-11-10T17:50:20.136317+00:00"
+      },
+      "claim": {
+        "worker_id": "f6bec88e389b40fd8b61b6d701014409-shard-0",
+        "claimed_at": "2026-11-10T17:50:22.506159+00:00",
+        "lease_expires_at": "2026-11-10T23:50:22.506159+00:00",
+        "run_id": "42823888331"
       }
     },
     "3050": {
@@ -116830,7 +116842,7 @@
       "last_plan": {
         "source_id": "34651133",
         "display_name": "Sinbad: Legend of the Seven Seas 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:50:20.539857+00:00"
+        "planned_at": "2026-11-10T17:50:23.154560+00:00"
       }
     },
     "2804": {
@@ -172785,5 +172797,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:50:20.539873+00:00"
+  "updated_at": "2026-11-10T17:50:23.988134+00:00"
 }
