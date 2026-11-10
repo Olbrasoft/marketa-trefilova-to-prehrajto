@@ -111308,13 +111308,6 @@
           "source_id": "27757295",
           "target_video_id": "30983821",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:24:29.415619+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27757295",
-          "target_video_id": "30983821",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:58:38.265124+00:00"
         },
         {
@@ -111323,12 +111316,19 @@
           "target_video_id": "30983821",
           "permanent": false,
           "attempted_at": "2026-11-10T16:30:48.407040+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27757295",
+          "target_video_id": "30983821",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:04:23.451466+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27757295",
         "display_name": "The King of Kings (Král Králů) (1963) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:30:43.289692+00:00"
+        "planned_at": "2026-11-10T17:04:19.452548+00:00"
       },
       "previous_target_id": "30983821",
       "prepared": {
@@ -111348,13 +111348,6 @@
           "source_id": "35077086",
           "target_video_id": "30983823",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:24:24.067600+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35077086",
-          "target_video_id": "30983823",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:58:33.140667+00:00"
         },
         {
@@ -111363,6 +111356,13 @@
           "target_video_id": "30983823",
           "permanent": false,
           "attempted_at": "2026-11-10T16:30:43.879729+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35077086",
+          "target_video_id": "30983823",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:04:23.191538+00:00"
         }
       ],
       "last_plan": {
@@ -114742,11 +114742,22 @@
       "last_plan": {
         "source_id": "11740260",
         "display_name": "What Happened to Monday 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:04:16.760745+00:00"
+        "planned_at": "2026-11-10T17:04:19.768875+00:00"
+      },
+      "claim": {
+        "worker_id": "ccc726b9be6948ae9c46da2cac7d4621-shard-0",
+        "claimed_at": "2026-11-10T17:04:20.515508+00:00",
+        "lease_expires_at": "2026-11-10T23:04:20.515508+00:00",
+        "run_id": "42823888331"
       }
     },
     "2988": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33694760",
+        "display_name": "The Score 1080p CZ Dabing",
+        "planned_at": "2026-11-10T17:04:19.949495+00:00"
+      }
     },
     "2770": {
       "attempts": []
@@ -170958,5 +170969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:04:16.760764+00:00"
+  "updated_at": "2026-11-10T17:04:23.451486+00:00"
 }
