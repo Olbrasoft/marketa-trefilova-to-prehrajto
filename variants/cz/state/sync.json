@@ -99592,13 +99592,6 @@
           "source_id": "27374216",
           "target_video_id": "30961098",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:58:33.397466+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27374216",
-          "target_video_id": "30961098",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:33:35.889445+00:00"
         },
         {
@@ -99607,6 +99600,13 @@
           "target_video_id": "30961098",
           "permanent": false,
           "attempted_at": "2026-11-10T21:04:15.379842+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27374216",
+          "target_video_id": "30961098",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:39:08.497088+00:00"
         }
       ],
       "last_plan": {
@@ -100600,7 +100600,7 @@
       "last_plan": {
         "source_id": "11696652",
         "display_name": "Farewell (L'Affaire Farewell) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:04:16.891419+00:00"
+        "planned_at": "2026-11-10T21:39:05.879502+00:00"
       },
       "previous_target_id": "30966458",
       "prepared": {
@@ -100608,6 +100608,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T06:11:47.158308+00:00",
         "relay_source_id": "11696652"
+      },
+      "claim": {
+        "worker_id": "4401781e59dd4ec8b13dbd07dacfbff8-shard-0",
+        "claimed_at": "2026-11-10T21:39:06.478825+00:00",
+        "lease_expires_at": "2026-11-11T03:39:06.478825+00:00",
+        "run_id": "42864255663"
       }
     },
     "31193": {
@@ -123796,7 +123802,7 @@
       "last_plan": {
         "source_id": "20827767",
         "display_name": "The Psychic (Sette note in nero) (1977) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:39:03.839052+00:00"
+        "planned_at": "2026-11-10T21:39:06.145059+00:00"
       }
     },
     "22167": {
@@ -178963,5 +178969,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:39:04.049435+00:00"
+  "updated_at": "2026-11-10T21:39:08.497108+00:00"
 }
