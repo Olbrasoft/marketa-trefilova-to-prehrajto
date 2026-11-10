@@ -102977,17 +102977,19 @@
       }
     },
     "22377": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "23099537",
+          "reason": "Source detail has no authenticated download link; source_id=23099537",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:09:41.286687+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23099537",
         "display_name": "Pardon Mon Affaire 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:09:35.198605+00:00"
-      },
-      "claim": {
-        "worker_id": "cb941e4c0c8c4681b543e73cb5c7f03a-shard-0",
-        "claimed_at": "2026-11-10T10:09:35.881061+00:00",
-        "lease_expires_at": "2026-11-10T16:09:35.881061+00:00",
-        "run_id": "42790251611"
       }
     },
     "22361": {
@@ -161194,5 +161196,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:09:39.595568+00:00"
+  "updated_at": "2026-11-10T10:09:41.286707+00:00"
 }
