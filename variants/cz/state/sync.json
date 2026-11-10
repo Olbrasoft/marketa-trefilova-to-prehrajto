@@ -109433,13 +109433,6 @@
           "source_id": "35067153",
           "target_video_id": "30983691",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:39:25.561154+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35067153",
-          "target_video_id": "30983691",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:13:26.831331+00:00"
         },
         {
@@ -109448,6 +109441,13 @@
           "target_video_id": "30983691",
           "permanent": false,
           "attempted_at": "2026-11-10T16:45:28.554244+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35067153",
+          "target_video_id": "30983691",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:15:46.500301+00:00"
         }
       ],
       "last_plan": {
@@ -109490,7 +109490,7 @@
       "last_plan": {
         "source_id": "29678156",
         "display_name": "The River (Young Love) SD CZ Dabing",
-        "planned_at": "2026-11-10T16:45:30.345772+00:00"
+        "planned_at": "2026-11-10T17:15:45.029409+00:00"
       },
       "previous_target_id": "30983692",
       "prepared": {
@@ -109498,6 +109498,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T14:35:23.576048+00:00",
         "relay_source_id": "29678156"
+      },
+      "claim": {
+        "worker_id": "f1da279ab2b84812beb32c0c05b077f4-shard-0",
+        "claimed_at": "2026-11-10T17:15:46.209708+00:00",
+        "lease_expires_at": "2026-11-10T23:15:46.209708+00:00",
+        "run_id": "42823888331"
       }
     },
     "12054": {
@@ -115318,11 +115324,22 @@
       "last_plan": {
         "source_id": "33594906",
         "display_name": "Dan in Real Life 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:15:42.597605+00:00"
+        "planned_at": "2026-11-10T17:15:45.336883+00:00"
+      },
+      "claim": {
+        "worker_id": "40b73ae79e4e4945a8824903f6689064-shard-0",
+        "claimed_at": "2026-11-10T17:15:46.674143+00:00",
+        "lease_expires_at": "2026-11-10T23:15:46.674143+00:00",
+        "run_id": "42823888331"
       }
     },
     "12003": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34095385",
+        "display_name": "Candyman (1992) 4K CZ Dabing",
+        "planned_at": "2026-11-10T17:15:45.706140+00:00"
+      }
     },
     "3023": {
       "attempts": []
@@ -171468,5 +171485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:15:42.857921+00:00"
+  "updated_at": "2026-11-10T17:15:46.674176+00:00"
 }
