@@ -109240,17 +109240,19 @@
       }
     },
     "21086": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35067260",
+          "target_video_id": "30983776",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:46:31.362691+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35067260",
         "display_name": "Ezop (Aesop) SD CZ Dabing",
         "planned_at": "2026-11-10T14:45:48.595364+00:00"
-      },
-      "claim": {
-        "worker_id": "6b91d3c415994f1ab1e1059bf93c50b3-shard-0",
-        "claimed_at": "2026-11-10T14:45:49.030007+00:00",
-        "lease_expires_at": "2026-11-10T20:45:49.030007+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983776",
       "prepared": {
@@ -109289,7 +109291,13 @@
       "last_plan": {
         "source_id": "30618439",
         "display_name": "Men Don't Age (Muži nestárnou) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:46:23.704747+00:00"
+        "planned_at": "2026-11-10T14:46:28.666612+00:00"
+      },
+      "claim": {
+        "worker_id": "9c0956da719f433b8a8c97cd9e96b199-shard-0",
+        "claimed_at": "2026-11-10T14:46:29.056442+00:00",
+        "lease_expires_at": "2026-11-10T20:46:29.056442+00:00",
+        "run_id": "42823888331"
       }
     },
     "13138": {
@@ -166048,5 +166056,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:46:25.226792+00:00"
+  "updated_at": "2026-11-10T14:46:31.362708+00:00"
 }
