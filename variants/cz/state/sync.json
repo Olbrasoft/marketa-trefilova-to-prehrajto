@@ -99045,7 +99045,7 @@
       "last_plan": {
         "source_id": "34471665",
         "display_name": "Light Sleeper 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:56:54.388590+00:00"
+        "planned_at": "2026-11-10T23:40:08.077946+00:00"
       },
       "previous_target_id": "30959278",
       "prepared": {
@@ -99053,6 +99053,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T02:09:17.495984+00:00",
         "relay_source_id": "34471665"
+      },
+      "claim": {
+        "worker_id": "7e140e690cad4240a0945de349f64849-shard-0",
+        "claimed_at": "2026-11-10T23:40:08.781209+00:00",
+        "lease_expires_at": "2026-11-11T05:40:08.781209+00:00",
+        "run_id": "42904278669"
       }
     },
     "28005": {
@@ -117691,13 +117697,6 @@
           "source_id": "34651133",
           "target_video_id": "30984850",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:39:55.791891+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34651133",
-          "target_video_id": "30984850",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:16:06.285552+00:00"
         },
         {
@@ -117706,6 +117705,13 @@
           "target_video_id": "30984850",
           "permanent": false,
           "attempted_at": "2026-11-10T22:56:50.890584+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34651133",
+          "target_video_id": "30984850",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:40:09.020511+00:00"
         }
       ],
       "last_plan": {
@@ -117719,12 +117725,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T17:51:19.157054+00:00",
         "relay_source_id": "34651133"
-      },
-      "claim": {
-        "worker_id": "d276abe8490446a9b36af825a079d351-shard-0",
-        "claimed_at": "2026-11-10T23:40:05.218695+00:00",
-        "lease_expires_at": "2026-11-11T05:40:05.218695+00:00",
-        "run_id": "42904278669"
       }
     },
     "2804": {
@@ -125770,7 +125770,7 @@
       "last_plan": {
         "source_id": "30067608",
         "display_name": "Tom and Jerry: The Fast and the Furry 720p CZ Dabing",
-        "planned_at": "2026-11-10T23:40:04.776185+00:00"
+        "planned_at": "2026-11-10T23:40:08.393005+00:00"
       }
     },
     "24399": {
@@ -180565,5 +180565,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:40:06.107609+00:00"
+  "updated_at": "2026-11-10T23:40:09.020530+00:00"
 }
