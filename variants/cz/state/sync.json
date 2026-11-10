@@ -114932,17 +114932,19 @@
       }
     },
     "25118": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30934830",
+          "target_video_id": "30984637",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:11:27.310230+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30934830",
         "display_name": "Syriana 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:10:44.364260+00:00"
-      },
-      "claim": {
-        "worker_id": "cf44760ac9fa4f27a174e7bceadb3f24-shard-0",
-        "claimed_at": "2026-11-10T17:10:46.688742+00:00",
-        "lease_expires_at": "2026-11-10T23:10:46.688742+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984637",
       "prepared": {
@@ -171183,5 +171185,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:11:14.782987+00:00"
+  "updated_at": "2026-11-10T17:11:27.310246+00:00"
 }
