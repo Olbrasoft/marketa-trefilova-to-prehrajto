@@ -116352,13 +116352,6 @@
           "source_id": "34455392",
           "target_video_id": "30984733",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:59:13.948691+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34455392",
-          "target_video_id": "30984733",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:29:42.413019+00:00"
         },
         {
@@ -116367,6 +116360,13 @@
           "target_video_id": "30984733",
           "permanent": false,
           "attempted_at": "2026-11-10T18:59:59.626395+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34455392",
+          "target_video_id": "30984733",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:33:23.890520+00:00"
         }
       ],
       "last_plan": {
@@ -118118,7 +118118,7 @@
       "last_plan": {
         "source_id": "27866187",
         "display_name": "Great Expectations (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:00:02.817535+00:00"
+        "planned_at": "2026-11-10T19:33:22.594906+00:00"
       },
       "previous_target_id": "30984865",
       "prepared": {
@@ -118126,6 +118126,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T17:58:08.493272+00:00",
         "relay_source_id": "27866187"
+      },
+      "claim": {
+        "worker_id": "b466a6d2465d41baa39439febf19d563-shard-0",
+        "claimed_at": "2026-11-10T19:33:23.403325+00:00",
+        "lease_expires_at": "2026-11-11T01:33:23.403325+00:00",
+        "run_id": "42864255663"
       }
     },
     "2985": {
@@ -121590,7 +121596,7 @@
       "last_plan": {
         "source_id": "33856664",
         "display_name": "Torrente, the dumb arm of the law (Torrente: El Brazo Tonto De La Ley) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:33:20.639158+00:00"
+        "planned_at": "2026-11-10T19:33:22.858065+00:00"
       }
     },
     "11393": {
@@ -177042,5 +177048,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:33:20.639178+00:00"
+  "updated_at": "2026-11-10T19:33:23.890539+00:00"
 }
