@@ -117800,17 +117800,19 @@
       }
     },
     "3123": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27601666",
+          "target_video_id": "30984926",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:13:15.745278+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27601666",
         "display_name": "The Skeleton Twins SD CZ Dabing",
         "planned_at": "2026-11-10T18:12:31.219613+00:00"
-      },
-      "claim": {
-        "worker_id": "d0ea648974d24d63829b0c470dc3dabf-shard-0",
-        "claimed_at": "2026-11-10T18:12:31.933588+00:00",
-        "lease_expires_at": "2026-11-11T00:12:31.933588+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984926",
       "prepared": {
@@ -173660,5 +173662,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:13:14.195661+00:00"
+  "updated_at": "2026-11-10T18:13:15.745296+00:00"
 }
