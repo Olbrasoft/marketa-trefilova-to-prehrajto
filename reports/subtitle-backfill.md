@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-10T02:34:46.407287+00:00
+Poslední aktualizace (UTC): 2026-11-10T02:34:50.397710+00:00
 
 Zkontrolováno videí: 596. Další stránka kontroly: 0.
 
@@ -77,7 +77,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 36. Důvod
 | [Game of Thrones: The Last Watch 1080p CZ Titulky](https://prehraj.to/game-of-thrones-the-last-watch-1080p-cz-titulky-mkv/ee08f19e66f651eb) (ID 30959654) | [Sdílej 27669638](https://sdilej.cz/27669638/hra-o-truny-posledni-hlidka-dokument-hdtv-cz-dabing.mkv) | target_unavailable | 2026-11-10T02:33:30.305012+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-10T01:13:46.232389+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-10T01:13:06.329165+00:00 |
-| [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-10T01:03:19.950637+00:00 |
+| [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-10T02:34:50.355571+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-10T01:04:16.327766+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-10T01:04:33.532191+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-10T01:04:19.749132+00:00 |
