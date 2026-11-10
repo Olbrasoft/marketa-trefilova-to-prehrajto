@@ -92819,13 +92819,6 @@
           "source_id": "34296350",
           "target_video_id": "30942671",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:34:25.719094+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34296350",
-          "target_video_id": "30942671",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:05:19.644635+00:00"
         },
         {
@@ -92834,6 +92827,13 @@
           "target_video_id": "30942671",
           "permanent": false,
           "attempted_at": "2026-11-10T21:40:16.954914+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34296350",
+          "target_video_id": "30942671",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:16:36.763059+00:00"
         }
       ],
       "last_plan": {
@@ -120936,7 +120936,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:40:19.672826+00:00"
+        "planned_at": "2026-11-10T22:16:35.399281+00:00"
       },
       "previous_target_id": "30985082",
       "prepared": {
@@ -120944,6 +120944,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T18:53:09.599430+00:00",
         "relay_source_id": "35117462"
+      },
+      "claim": {
+        "worker_id": "8b5e84e1407b4d2f90f9b5c4899570fd-shard-0",
+        "claimed_at": "2026-11-10T22:16:36.139535+00:00",
+        "lease_expires_at": "2026-11-11T04:16:36.139535+00:00",
+        "run_id": "42904278669"
       }
     },
     "3085": {
@@ -124617,7 +124623,7 @@
       "last_plan": {
         "source_id": "34651052",
         "display_name": "Safety 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:16:33.143385+00:00"
+        "planned_at": "2026-11-10T22:16:35.715385+00:00"
       }
     },
     "21822": {
@@ -179610,5 +179616,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:16:33.387751+00:00"
+  "updated_at": "2026-11-10T22:16:36.763131+00:00"
 }
