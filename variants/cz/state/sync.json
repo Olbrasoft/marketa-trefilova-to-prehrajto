@@ -99592,13 +99592,6 @@
           "source_id": "27374216",
           "target_video_id": "30961098",
           "permanent": false,
-          "attempted_at": "2026-11-10T18:53:22.056057+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27374216",
-          "target_video_id": "30961098",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:25:58.609057+00:00"
         },
         {
@@ -99607,6 +99600,13 @@
           "target_video_id": "30961098",
           "permanent": false,
           "attempted_at": "2026-11-10T19:58:33.397466+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27374216",
+          "target_video_id": "30961098",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:33:35.889445+00:00"
         }
       ],
       "last_plan": {
@@ -100600,7 +100600,7 @@
       "last_plan": {
         "source_id": "11696652",
         "display_name": "Farewell (L'Affaire Farewell) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:58:34.002747+00:00"
+        "planned_at": "2026-11-10T20:33:34.376769+00:00"
       },
       "previous_target_id": "30966458",
       "prepared": {
@@ -100608,6 +100608,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T06:11:47.158308+00:00",
         "relay_source_id": "11696652"
+      },
+      "claim": {
+        "worker_id": "d862876aedad4a8c91c801b4f57a5ffc-shard-0",
+        "claimed_at": "2026-11-10T20:33:35.151919+00:00",
+        "lease_expires_at": "2026-11-11T02:33:35.151919+00:00",
+        "run_id": "42864255663"
       }
     },
     "31193": {
@@ -122806,14 +122812,25 @@
       "last_plan": {
         "source_id": "34130726",
         "display_name": "Ivanhoe 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:33:32.214575+00:00"
+        "planned_at": "2026-11-10T20:33:34.638077+00:00"
+      },
+      "claim": {
+        "worker_id": "b325eddd139745f89a5420e4b4860e64-shard-0",
+        "claimed_at": "2026-11-10T20:33:35.310223+00:00",
+        "lease_expires_at": "2026-11-11T02:33:35.310223+00:00",
+        "run_id": "42864255663"
       }
     },
     "21528": {
       "attempts": []
     },
     "22279": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34504671",
+        "display_name": "The Wind and the Lion 1080p CZ Dabing",
+        "planned_at": "2026-11-10T20:33:34.831993+00:00"
+      }
     },
     "30094": {
       "attempts": []
@@ -178135,5 +178152,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:33:32.214592+00:00"
+  "updated_at": "2026-11-10T20:33:35.889461+00:00"
 }
