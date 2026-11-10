@@ -108386,17 +108386,19 @@
       }
     },
     "29573": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34712454",
+          "target_video_id": "30983676",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:33:38.429179+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34712454",
         "display_name": "Jack London, une aventure américaine (Jack London, An American Original) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:32:57.723847+00:00"
-      },
-      "claim": {
-        "worker_id": "5c057f223778444d808573deabfa453d-shard-0",
-        "claimed_at": "2026-11-10T14:32:58.114119+00:00",
-        "lease_expires_at": "2026-11-10T20:32:58.114119+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983676",
       "prepared": {
@@ -165378,5 +165380,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:33:23.958801+00:00"
+  "updated_at": "2026-11-10T14:33:38.429207+00:00"
 }
