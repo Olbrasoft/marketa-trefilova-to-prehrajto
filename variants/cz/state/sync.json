@@ -111412,13 +111412,6 @@
           "source_id": "34903816",
           "target_video_id": "30983828",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:11:29.145243+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34903816",
-          "target_video_id": "30983828",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:41:45.296944+00:00"
         },
         {
@@ -111427,6 +111420,13 @@
           "target_video_id": "30983828",
           "permanent": false,
           "attempted_at": "2026-11-10T20:13:25.470610+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34903816",
+          "target_video_id": "30983828",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:45:42.321221+00:00"
         }
       ],
       "last_plan": {
@@ -111469,7 +111469,7 @@
       "last_plan": {
         "source_id": "25394211",
         "display_name": "Devilish Honeymoon (Ďábelské líbánky) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:13:26.968714+00:00"
+        "planned_at": "2026-11-10T20:45:41.121999+00:00"
       },
       "previous_target_id": "30983830",
       "prepared": {
@@ -111477,6 +111477,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T14:54:50.259665+00:00",
         "relay_source_id": "25394211"
+      },
+      "claim": {
+        "worker_id": "336ef81e93754e759cf7c30f679e5b8e-shard-0",
+        "claimed_at": "2026-11-10T20:45:41.782456+00:00",
+        "lease_expires_at": "2026-11-11T02:45:41.782456+00:00",
+        "run_id": "42864255663"
       }
     },
     "15024": {
@@ -122974,7 +122980,7 @@
       "last_plan": {
         "source_id": "16256834",
         "display_name": "The Assignment (1997) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:45:39.130270+00:00"
+        "planned_at": "2026-11-10T20:45:41.390460+00:00"
       }
     },
     "2867": {
@@ -178270,5 +178276,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:45:39.464447+00:00"
+  "updated_at": "2026-11-10T20:45:42.321237+00:00"
 }
