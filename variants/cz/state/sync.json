@@ -117111,17 +117111,19 @@
       }
     },
     "11749": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33647002",
+          "target_video_id": "30984863",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:58:12.656141+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33647002",
         "display_name": "Frantic 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:57:27.076683+00:00"
-      },
-      "claim": {
-        "worker_id": "debfc4886c3b461aab71005eccaf1232-shard-0",
-        "claimed_at": "2026-11-10T17:57:30.533298+00:00",
-        "lease_expires_at": "2026-11-10T23:57:30.533298+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984863",
       "prepared": {
@@ -173092,5 +173094,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:58:08.493297+00:00"
+  "updated_at": "2026-11-10T17:58:12.656157+00:00"
 }
