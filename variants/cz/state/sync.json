@@ -124862,17 +124862,19 @@
       "attempts": []
     },
     "2912": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18316767",
+          "target_video_id": "30985901",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:30:58.699962+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18316767",
         "display_name": "My Little Pony: A New Generation 1080p CZ Dabing",
         "planned_at": "2026-11-10T22:29:40.691434+00:00"
-      },
-      "claim": {
-        "worker_id": "eb3e6a85c7e845168cd2aca90555dfbb-shard-0",
-        "claimed_at": "2026-11-10T22:29:41.442734+00:00",
-        "lease_expires_at": "2026-11-11T04:29:41.442734+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30985901",
       "prepared": {
@@ -179832,5 +179834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:30:57.149998+00:00"
+  "updated_at": "2026-11-10T22:30:58.699984+00:00"
 }
