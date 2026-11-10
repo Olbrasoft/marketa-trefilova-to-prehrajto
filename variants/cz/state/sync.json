@@ -103922,13 +103922,37 @@
       "attempts": []
     },
     "12807": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34676355",
+          "reason": "Source detail has no authenticated download link; source_id=34676355",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:13:09.334360+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "34676355",
+        "display_name": "If a Thousand Clarinets (Kdyby tisíc klarinetů) SD CZ Dabing",
+        "planned_at": "2026-11-10T10:13:06.000439+00:00"
+      }
     },
     "16599": {
       "attempts": []
     },
     "27693": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35068375",
+        "display_name": "Tales of the Night SD CZ Dabing",
+        "planned_at": "2026-11-10T10:13:06.162954+00:00"
+      },
+      "claim": {
+        "worker_id": "8f15a733d73c4f2c9550b93b5231f091-shard-0",
+        "claimed_at": "2026-11-10T10:13:07.081795+00:00",
+        "lease_expires_at": "2026-11-10T16:13:07.081795+00:00",
+        "run_id": "42790251611"
+      }
     },
     "33561": {
       "attempts": []
@@ -161844,5 +161868,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:13:02.986875+00:00"
+  "updated_at": "2026-11-10T10:13:09.334380+00:00"
 }
