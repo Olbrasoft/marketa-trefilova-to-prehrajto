@@ -105164,17 +105164,19 @@
       "attempts": []
     },
     "33559": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14413933",
+          "reason": "Source detail has no authenticated download link; source_id=14413933",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:17:34.881478+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14413933",
         "display_name": "Planet Czechia (Planeta Česko) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:17:31.241622+00:00"
-      },
-      "claim": {
-        "worker_id": "679ad7b1993b4f1a83fa965fe9196d08-shard-0",
-        "claimed_at": "2026-11-10T10:17:31.776741+00:00",
-        "lease_expires_at": "2026-11-10T16:17:31.776741+00:00",
-        "run_id": "42790251611"
       }
     },
     "10777": {
@@ -105192,7 +105194,18 @@
       }
     },
     "14646": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30220153",
+        "display_name": "Walking Too Fast (Pouta) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:17:34.329939+00:00"
+      },
+      "claim": {
+        "worker_id": "dd2817877e664c3c91e36ff83a8232c0-shard-0",
+        "claimed_at": "2026-11-10T10:17:34.710105+00:00",
+        "lease_expires_at": "2026-11-10T16:17:34.710105+00:00",
+        "run_id": "42790251611"
+      }
     },
     "21867": {
       "attempts": []
@@ -162739,5 +162752,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:17:32.106678+00:00"
+  "updated_at": "2026-11-10T10:17:34.881496+00:00"
 }
