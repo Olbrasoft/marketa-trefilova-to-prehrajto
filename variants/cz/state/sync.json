@@ -108078,7 +108078,7 @@
       "last_plan": {
         "source_id": "22546836",
         "display_name": "Touched by Romance (Touched) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:21:30.893002+00:00"
+        "planned_at": "2026-11-10T14:52:45.139840+00:00"
       },
       "previous_target_id": "30983603",
       "prepared": {
@@ -108086,6 +108086,12 @@
         "size_bytes": 3099361734,
         "prepared_at": "2026-11-10T14:21:36.081757+00:00",
         "relay_source_id": "22546836"
+      },
+      "claim": {
+        "worker_id": "2a1e7aa15b3f427b9a8037a247ef8798-shard-0",
+        "claimed_at": "2026-11-10T14:52:46.087826+00:00",
+        "lease_expires_at": "2026-11-10T20:52:46.087826+00:00",
+        "run_id": "42823888331"
       }
     },
     "12671": {
@@ -109879,17 +109885,19 @@
       "attempts": []
     },
     "34139": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34786946",
+          "target_video_id": "30983812",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:52:46.316572+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34786946",
         "display_name": "Snake's Venom (Hadí jed) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:52:02.505738+00:00"
-      },
-      "claim": {
-        "worker_id": "21583c0a55bb4100b93e52e7fc6fea2a-shard-0",
-        "claimed_at": "2026-11-10T14:52:03.276639+00:00",
-        "lease_expires_at": "2026-11-10T20:52:03.276639+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983812",
       "prepared": {
@@ -109900,7 +109908,12 @@
       }
     },
     "12683": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28002913",
+        "display_name": "The Undertaker (Funebrák) SD CZ Dabing",
+        "planned_at": "2026-11-10T14:52:45.455950+00:00"
+      }
     },
     "15320": {
       "attempts": []
@@ -109912,7 +109925,12 @@
       "attempts": []
     },
     "24174": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29161095",
+        "display_name": "Forbidden Love (Milování zakázáno) SD CZ Dabing",
+        "planned_at": "2026-11-10T14:52:45.647296+00:00"
+      }
     },
     "2673": {
       "attempts": []
@@ -166550,5 +166568,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:52:42.838040+00:00"
+  "updated_at": "2026-11-10T14:52:46.316588+00:00"
 }
