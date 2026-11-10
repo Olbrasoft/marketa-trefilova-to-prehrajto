@@ -112285,6 +112285,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T15:05:46.561570+00:00",
         "relay_source_id": "12192492"
+      },
+      "claim": {
+        "worker_id": "4112baeedbe44adda30bdb9c73d63f71-shard-0",
+        "claimed_at": "2026-11-10T17:15:33.861250+00:00",
+        "lease_expires_at": "2026-11-10T23:15:33.861250+00:00",
+        "run_id": "42823888331"
       }
     },
     "24065": {
@@ -115291,17 +115297,19 @@
       }
     },
     "2845": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34780210",
+          "target_video_id": "30984662",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:15:34.038469+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34780210",
         "display_name": "Reptile 4K CZ Dabing",
         "planned_at": "2026-11-10T17:14:51.698196+00:00"
-      },
-      "claim": {
-        "worker_id": "08ed40fb79a9429fab2a20df75d82a8b-shard-0",
-        "claimed_at": "2026-11-10T17:14:52.089962+00:00",
-        "lease_expires_at": "2026-11-10T23:14:52.089962+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984662",
       "prepared": {
@@ -171466,5 +171474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:15:32.019851+00:00"
+  "updated_at": "2026-11-10T17:15:34.038487+00:00"
 }
