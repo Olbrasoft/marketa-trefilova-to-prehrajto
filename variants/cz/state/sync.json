@@ -98316,7 +98316,7 @@
       "last_plan": {
         "source_id": "25775847",
         "display_name": "Sněženky a machři 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:51:07.592116+00:00"
+        "planned_at": "2026-11-10T18:22:30.523139+00:00"
       },
       "previous_target_id": "30957288",
       "prepared": {
@@ -98324,6 +98324,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T00:19:22.789310+00:00",
         "relay_source_id": "25775847"
+      },
+      "claim": {
+        "worker_id": "8933037319404a2e9da1f05127cc4c57-shard-0",
+        "claimed_at": "2026-11-10T18:22:31.455879+00:00",
+        "lease_expires_at": "2026-11-11T00:22:31.455879+00:00",
+        "run_id": "42864255663"
       }
     },
     "23314": {
@@ -118352,17 +118358,19 @@
       }
     },
     "2870": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24662573",
+          "target_video_id": "30984966",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:22:31.850073+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24662573",
         "display_name": "Vengeance (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:21:47.985871+00:00"
-      },
-      "claim": {
-        "worker_id": "754d38dd26dd4376b2c0c45d660205d6-shard-0",
-        "claimed_at": "2026-11-10T18:21:49.984357+00:00",
-        "lease_expires_at": "2026-11-11T00:21:49.984357+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984966",
       "prepared": {
@@ -118377,11 +118385,22 @@
       "last_plan": {
         "source_id": "32925561",
         "display_name": "Detroit Rock City 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:22:26.644317+00:00"
+        "planned_at": "2026-11-10T18:22:30.815698+00:00"
+      },
+      "claim": {
+        "worker_id": "effc340f6eda48d398ade2751b03dd4a-shard-0",
+        "claimed_at": "2026-11-10T18:22:31.637718+00:00",
+        "lease_expires_at": "2026-11-11T00:22:31.637718+00:00",
+        "run_id": "42864255663"
       }
     },
     "2889": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "21276911",
+        "display_name": "The Dry 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:22:30.978102+00:00"
+      }
     },
     "2994": {
       "attempts": []
@@ -174199,5 +174218,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:22:28.532142+00:00"
+  "updated_at": "2026-11-10T18:22:31.850091+00:00"
 }
