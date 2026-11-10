@@ -108767,6 +108767,13 @@
           "target_video_id": "30983673",
           "permanent": false,
           "attempted_at": "2026-11-10T14:31:58.469387+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34708982",
+          "target_video_id": "30983673",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:02:15.279471+00:00"
         }
       ],
       "last_plan": {
@@ -108777,7 +108784,7 @@
       "previous_target_id": "30983673",
       "prepared": {
         "target_video_id": "30983673",
-        "size_bytes": 18,
+        "size_bytes": 4099999999,
         "prepared_at": "2026-11-10T14:31:55.056751+00:00",
         "relay_source_id": "34708982"
       }
@@ -110607,7 +110614,13 @@
       "last_plan": {
         "source_id": "32946550",
         "display_name": "Fourteen at the Table (Čtrnáctý u stolu) SD CZ Dabing",
-        "planned_at": "2026-11-10T15:02:11.871474+00:00"
+        "planned_at": "2026-11-10T15:02:14.070613+00:00"
+      },
+      "claim": {
+        "worker_id": "c420e5f814444ccbaefff534bccbca8d-shard-0",
+        "claimed_at": "2026-11-10T15:02:14.525111+00:00",
+        "lease_expires_at": "2026-11-10T21:02:14.525111+00:00",
+        "run_id": "42823888331"
       }
     },
     "27304": {
@@ -167153,5 +167166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:02:11.871491+00:00"
+  "updated_at": "2026-11-10T15:02:15.279489+00:00"
 }
