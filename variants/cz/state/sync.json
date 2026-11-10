@@ -109444,17 +109444,19 @@
       "attempts": []
     },
     "12720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14997921",
+          "target_video_id": "30983786",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:48:29.911447+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14997921",
         "display_name": "Duhová kulicka (Duhová kulička) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:47:25.673179+00:00"
-      },
-      "claim": {
-        "worker_id": "26ad99141a914042bc4a9d343849d2dd-shard-0",
-        "claimed_at": "2026-11-10T14:47:26.060871+00:00",
-        "lease_expires_at": "2026-11-10T20:47:26.060871+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983786",
       "prepared": {
@@ -166205,5 +166207,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:48:28.319744+00:00"
+  "updated_at": "2026-11-10T14:48:29.911465+00:00"
 }
