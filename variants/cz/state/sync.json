@@ -104564,17 +104564,19 @@
       "attempts": []
     },
     "2771": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33021699",
+          "reason": "Source detail has no authenticated download link; source_id=33021699",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:27.985061+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33021699",
         "display_name": "Wunderschöner 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:15:24.115769+00:00"
-      },
-      "claim": {
-        "worker_id": "00fc3bb5dfc14ae99f0d0bfbb43f8f1b-shard-0",
-        "claimed_at": "2026-11-10T10:15:24.720419+00:00",
-        "lease_expires_at": "2026-11-10T16:15:24.720419+00:00",
-        "run_id": "42790251611"
       }
     },
     "34050": {
@@ -162310,5 +162312,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:26.207133+00:00"
+  "updated_at": "2026-11-10T10:15:27.985079+00:00"
 }
