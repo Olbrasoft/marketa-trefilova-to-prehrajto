@@ -117810,7 +117810,7 @@
       "last_plan": {
         "source_id": "33873663",
         "display_name": "The Witches 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:58:19.528264+00:00"
+        "planned_at": "2026-11-10T18:29:22.314995+00:00"
       },
       "previous_target_id": "30984867",
       "prepared": {
@@ -117818,6 +117818,12 @@
         "size_bytes": 7082160884,
         "prepared_at": "2026-11-10T17:58:25.417113+00:00",
         "relay_source_id": "33873663"
+      },
+      "claim": {
+        "worker_id": "715c648f2c414ec296b57c2ad5a319e2-shard-0",
+        "claimed_at": "2026-11-10T18:29:23.192687+00:00",
+        "lease_expires_at": "2026-11-11T00:29:23.192687+00:00",
+        "run_id": "42864255663"
       }
     },
     "3098": {
@@ -118754,17 +118760,19 @@
       }
     },
     "25195": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14652595",
+          "target_video_id": "30984996",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:29:23.533796+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14652595",
         "display_name": "Oliver Twist (2005) 720p CZ Dabing",
         "planned_at": "2026-11-10T18:28:39.608199+00:00"
-      },
-      "claim": {
-        "worker_id": "ed2b3711eefd4e5f92d1b888cb251166-shard-0",
-        "claimed_at": "2026-11-10T18:28:39.926928+00:00",
-        "lease_expires_at": "2026-11-11T00:28:39.926928+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984996",
       "prepared": {
@@ -118779,11 +118787,22 @@
       "last_plan": {
         "source_id": "34284124",
         "display_name": "Singles 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:29:15.422049+00:00"
+        "planned_at": "2026-11-10T18:29:22.609165+00:00"
+      },
+      "claim": {
+        "worker_id": "4cfd63ef74de4bd7abfaae0468267326-shard-0",
+        "claimed_at": "2026-11-10T18:29:23.347794+00:00",
+        "lease_expires_at": "2026-11-11T00:29:23.347794+00:00",
+        "run_id": "42864255663"
       }
     },
     "20379": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "12171968",
+        "display_name": "The Diary of a Teenage Girl SD CZ Dabing",
+        "planned_at": "2026-11-10T18:29:22.764981+00:00"
+      }
     },
     "23710": {
       "attempts": []
@@ -174538,5 +174557,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:29:18.825263+00:00"
+  "updated_at": "2026-11-10T18:29:23.533813+00:00"
 }
