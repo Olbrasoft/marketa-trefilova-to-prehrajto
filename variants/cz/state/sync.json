@@ -116307,17 +116307,24 @@
           "target_video_id": "30984755",
           "permanent": false,
           "attempted_at": "2026-11-10T17:35:35.605220+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711260",
+          "target_video_id": "30984755",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:09:41.629291+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34711260",
         "display_name": "The Mandalorian and Grogu 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:34:53.384531+00:00"
+        "planned_at": "2026-11-10T18:09:36.772123+00:00"
       },
       "previous_target_id": "30984755",
       "prepared": {
         "target_video_id": "30984755",
-        "size_bytes": 7749467666,
+        "size_bytes": 7700000000,
         "prepared_at": "2026-11-10T17:34:58.016061+00:00",
         "relay_source_id": "34711260"
       }
@@ -117657,14 +117664,36 @@
       "last_plan": {
         "source_id": "33730079",
         "display_name": "Sea of Love 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:09:29.055953+00:00"
+        "planned_at": "2026-11-10T18:09:37.030698+00:00"
+      },
+      "claim": {
+        "worker_id": "aae51a279b4a4e83b76ef1cb7067193f-shard-0",
+        "claimed_at": "2026-11-10T18:09:37.807071+00:00",
+        "lease_expires_at": "2026-11-11T00:09:37.807071+00:00",
+        "run_id": "42864255663"
       }
     },
     "2792": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31031880",
+        "display_name": "Nonnas 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:09:37.195818+00:00"
+      },
+      "claim": {
+        "worker_id": "aae9bd8913664467b6ee5da99ad49c5d-shard-0",
+        "claimed_at": "2026-11-10T18:09:37.956957+00:00",
+        "lease_expires_at": "2026-11-11T00:09:37.956957+00:00",
+        "run_id": "42864255663"
+      }
     },
     "11811": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34674768",
+        "display_name": "Dead Calm 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:09:37.344857+00:00"
+      }
     },
     "3101": {
       "attempts": []
@@ -173507,5 +173536,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:09:33.542594+00:00"
+  "updated_at": "2026-11-10T18:09:41.629310+00:00"
 }
