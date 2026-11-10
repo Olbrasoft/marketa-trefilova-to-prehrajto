@@ -108995,7 +108995,7 @@
       "last_plan": {
         "source_id": "29792037",
         "display_name": "Madame De Pompadour (King's Favourite) (Jeanne Poisson, Marquise de Pompadour) SD CZ Dabing",
-        "planned_at": "2026-11-10T14:34:03.960657+00:00"
+        "planned_at": "2026-11-10T15:05:21.413585+00:00"
       },
       "previous_target_id": "30983686",
       "prepared": {
@@ -109003,6 +109003,12 @@
         "size_bytes": 1883108300,
         "prepared_at": "2026-11-10T14:34:07.592234+00:00",
         "relay_source_id": "29792037"
+      },
+      "claim": {
+        "worker_id": "c975e34b98914885b71da650f7716156-shard-0",
+        "claimed_at": "2026-11-10T15:05:22.158120+00:00",
+        "lease_expires_at": "2026-11-10T21:05:22.158120+00:00",
+        "run_id": "42823888331"
       }
     },
     "12786": {
@@ -110797,17 +110803,19 @@
       "attempts": []
     },
     "12630": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31724102",
+          "target_video_id": "30983928",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:05:22.767734+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31724102",
         "display_name": "The Camp of Fallen Women (Tábor padlých žien) SD CZ Dabing",
         "planned_at": "2026-11-10T15:04:13.081345+00:00"
-      },
-      "claim": {
-        "worker_id": "96d9b197b76547b4be390a2c2cd0c24e-shard-0",
-        "claimed_at": "2026-11-10T15:04:13.883763+00:00",
-        "lease_expires_at": "2026-11-10T21:04:13.883763+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983928",
       "prepared": {
@@ -110842,7 +110850,12 @@
       }
     },
     "17320": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "12454328",
+        "display_name": "GIPS SD CZ Dabing",
+        "planned_at": "2026-11-10T15:05:21.717707+00:00"
+      }
     },
     "31821": {
       "attempts": []
@@ -167342,5 +167355,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:05:19.526358+00:00"
+  "updated_at": "2026-11-10T15:05:22.767752+00:00"
 }
