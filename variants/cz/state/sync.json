@@ -43131,6 +43131,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-03T08:20:54.807935+00:00",
         "relay_source_id": "34146117"
+      },
+      "claim": {
+        "worker_id": "ebe692c7857e4313b36644e0c614df27-shard-0",
+        "claimed_at": "2026-11-10T10:34:14.167808+00:00",
+        "lease_expires_at": "2026-11-10T16:34:14.167808+00:00",
+        "run_id": "42790251611"
       }
     },
     "20525": {
@@ -46001,13 +46007,6 @@
           "source_id": "27568018",
           "target_video_id": "30768107",
           "permanent": false,
-          "attempted_at": "2026-11-10T08:30:58.615651+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27568018",
-          "target_video_id": "30768107",
-          "permanent": false,
           "attempted_at": "2026-11-10T09:04:50.713924+00:00"
         },
         {
@@ -46016,6 +46015,13 @@
           "target_video_id": "30768107",
           "permanent": false,
           "attempted_at": "2026-11-10T10:02:11.075732+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27568018",
+          "target_video_id": "30768107",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:34:14.007983+00:00"
         }
       ],
       "last_plan": {
@@ -46029,12 +46035,6 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-03T16:40:17.731197+00:00",
         "relay_source_id": "27568018"
-      },
-      "claim": {
-        "worker_id": "b2d8e4ada95d4a72b3c70fd1f071300b-shard-0",
-        "claimed_at": "2026-11-10T10:34:10.645543+00:00",
-        "lease_expires_at": "2026-11-10T16:34:10.645543+00:00",
-        "run_id": "42790251611"
       }
     },
     "23428": {
@@ -66898,7 +66898,7 @@
       "last_plan": {
         "source_id": "25671141",
         "display_name": "The Blind Man Who Did Not Want to See Titanic (Sokea mies joka ei halunnut nähdä Titanicia) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T10:02:14.941492+00:00"
+        "planned_at": "2026-11-10T10:34:14.363673+00:00"
       },
       "previous_target_id": "30833110",
       "prepared": {
@@ -105374,7 +105374,7 @@
       "last_plan": {
         "source_id": "34877082",
         "display_name": "Something Different (O něčem jiném) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T10:34:11.151661+00:00"
+        "planned_at": "2026-11-10T10:34:14.676671+00:00"
       }
     },
     "2541": {
@@ -162897,5 +162897,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:34:11.433816+00:00"
+  "updated_at": "2026-11-10T10:34:14.676688+00:00"
 }
