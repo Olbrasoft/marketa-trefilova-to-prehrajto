@@ -225,7 +225,7 @@
       "last_plan": {
         "source_id": "32109285",
         "display_name": "The Godfather Part II 4K CZ Dabing",
-        "planned_at": "2026-11-10T00:49:11.475505+00:00"
+        "planned_at": "2026-11-10T01:25:50.096861+00:00"
       },
       "previous_target_id": "30570341",
       "prepared": {
@@ -233,6 +233,12 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
+      },
+      "claim": {
+        "worker_id": "4ad98b55878146259768aa58cc7bdbd5-shard-0",
+        "claimed_at": "2026-11-10T01:25:50.782947+00:00",
+        "lease_expires_at": "2026-11-10T07:25:50.782947+00:00",
+        "run_id": "42729980423"
       }
     },
     "10755": {
@@ -82417,13 +82423,6 @@
           "source_id": "27791112",
           "target_video_id": "30909958",
           "permanent": false,
-          "attempted_at": "2026-11-09T23:36:42.602189+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27791112",
-          "target_video_id": "30909958",
-          "permanent": false,
           "attempted_at": "2026-11-10T00:10:53.447709+00:00"
         },
         {
@@ -82432,6 +82431,13 @@
           "target_video_id": "30909958",
           "permanent": false,
           "attempted_at": "2026-11-10T00:49:09.671235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27791112",
+          "target_video_id": "30909958",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:25:51.104667+00:00"
         }
       ],
       "last_plan": {
@@ -82445,12 +82451,6 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-08T06:34:06.156483+00:00",
         "relay_source_id": "27791112"
-      },
-      "claim": {
-        "worker_id": "814f73a6d5cb48b59eee01fa0ff46a0b-shard-0",
-        "claimed_at": "2026-11-10T01:25:47.540542+00:00",
-        "lease_expires_at": "2026-11-10T07:25:47.540542+00:00",
-        "run_id": "42729980423"
       }
     },
     "28024": {
@@ -98583,7 +98583,7 @@
       "last_plan": {
         "source_id": "32730493",
         "display_name": "Fanny's Journey (Le voyage de Fanny) SD CZ Dabing",
-        "planned_at": "2026-11-10T01:25:47.132695+00:00"
+        "planned_at": "2026-11-10T01:25:50.380798+00:00"
       }
     },
     "2634": {
@@ -157765,5 +157765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:25:48.377487+00:00"
+  "updated_at": "2026-11-10T01:25:51.104689+00:00"
 }
