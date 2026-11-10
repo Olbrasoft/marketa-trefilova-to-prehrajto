@@ -105899,17 +105899,19 @@
       }
     },
     "30293": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713340",
+          "target_video_id": "30979590",
+          "permanent": false,
+          "attempted_at": "2026-11-10T12:31:48.831290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713340",
         "display_name": "Thousand Pieces of Gold 720p CZ Dabing",
         "planned_at": "2026-11-10T12:26:53.837939+00:00"
-      },
-      "claim": {
-        "worker_id": "10082bef930e4cd38cd64322fa3c8296-shard-0",
-        "claimed_at": "2026-11-10T12:26:56.706365+00:00",
-        "lease_expires_at": "2026-11-10T18:26:56.706365+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30979590",
       "prepared": {
@@ -163368,5 +163370,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:31:22.481972+00:00"
+  "updated_at": "2026-11-10T12:31:48.831307+00:00"
 }
