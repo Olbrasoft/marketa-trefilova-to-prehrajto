@@ -121287,17 +121287,19 @@
       "attempts": []
     },
     "14547": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26240027",
+          "target_video_id": "30985452",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:25:02.403518+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26240027",
         "display_name": "Little Big Soldier (大兵小将) 1080p CZ Dabing",
         "planned_at": "2026-11-10T19:22:57.937430+00:00"
-      },
-      "claim": {
-        "worker_id": "6bb1a722166449b6a5cf29e109840c11-shard-0",
-        "claimed_at": "2026-11-10T19:23:00.234073+00:00",
-        "lease_expires_at": "2026-11-11T01:23:00.234073+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985452",
       "prepared": {
@@ -176797,5 +176799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:25:00.765420+00:00"
+  "updated_at": "2026-11-10T19:25:02.403533+00:00"
 }
