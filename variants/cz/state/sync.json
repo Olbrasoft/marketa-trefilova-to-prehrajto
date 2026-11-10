@@ -124745,17 +124745,19 @@
       "attempts": []
     },
     "35492": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23031428",
+          "target_video_id": "30985892",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:28:49.665946+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23031428",
         "display_name": "Accident 1080p CZ Dabing",
         "planned_at": "2026-11-10T22:27:03.311689+00:00"
-      },
-      "claim": {
-        "worker_id": "cca7350af8de4cba9b97ef9ef85c5c8f-shard-0",
-        "claimed_at": "2026-11-10T22:27:04.050647+00:00",
-        "lease_expires_at": "2026-11-11T04:27:04.050647+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30985892",
       "prepared": {
@@ -179765,5 +179767,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:28:48.103653+00:00"
+  "updated_at": "2026-11-10T22:28:49.665965+00:00"
 }
