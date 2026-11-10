@@ -8575,13 +8575,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-10T03:40:15.418561+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-10T04:16:03.410416+00:00"
         },
         {
@@ -8590,6 +8583,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-10T04:51:05.492836+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-10T05:37:31.879886+00:00"
         }
       ],
       "last_plan": {
@@ -22306,7 +22306,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-10T04:51:10.159915+00:00"
+        "planned_at": "2026-11-10T05:37:30.484816+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22314,6 +22314,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "86592f79c28d408f8cd119ce38736f00-shard-0",
+        "claimed_at": "2026-11-10T05:37:31.017559+00:00",
+        "lease_expires_at": "2026-11-10T11:37:31.017559+00:00",
+        "run_id": "42761712557"
       }
     },
     "730": {
@@ -100177,7 +100183,7 @@
       "last_plan": {
         "source_id": "26750660",
         "display_name": "The Cow (Kráva) SD CZ Dabing",
-        "planned_at": "2026-11-10T05:37:26.890835+00:00"
+        "planned_at": "2026-11-10T05:37:30.710662+00:00"
       }
     },
     "2519": {
@@ -159090,5 +159096,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T05:37:26.890853+00:00"
+  "updated_at": "2026-11-10T05:37:31.879905+00:00"
 }
