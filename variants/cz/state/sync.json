@@ -98388,17 +98388,19 @@
       "attempts": []
     },
     "26363": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34428938",
+          "target_video_id": "30957468",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:00:13.498715+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34428938",
         "display_name": "Shinjuku Incident 1080p CZ Dabing",
         "planned_at": "2026-11-10T00:29:24.998191+00:00"
-      },
-      "claim": {
-        "worker_id": "b61e1612286845059eac2cc1db961dfc-shard-0",
-        "claimed_at": "2026-11-10T00:29:25.425958+00:00",
-        "lease_expires_at": "2026-11-10T06:29:25.425958+00:00",
-        "run_id": "42692268094"
       },
       "previous_target_id": "30957468",
       "prepared": {
@@ -157673,5 +157675,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T00:58:56.435616+00:00"
+  "updated_at": "2026-11-10T01:00:13.498733+00:00"
 }
