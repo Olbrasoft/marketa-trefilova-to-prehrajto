@@ -124138,17 +124138,19 @@
       "attempts": []
     },
     "2857": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "26751084",
+          "reason": "Request failed for https://sdilej.cz/26751084/batman-a-superman-bitva-supersynu-2022-cz-dab.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:51:26.885709+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26751084",
         "display_name": "Batman and Superman: Battle of the Super Sons 720p CZ Dabing",
         "planned_at": "2026-11-10T21:51:23.562152+00:00"
-      },
-      "claim": {
-        "worker_id": "d07411c5d4674a0fafc5a3a22c5ba5f4-shard-0",
-        "claimed_at": "2026-11-10T21:51:24.193244+00:00",
-        "lease_expires_at": "2026-11-11T03:51:24.193244+00:00",
-        "run_id": "42864255663"
       }
     },
     "14745": {
@@ -179248,5 +179250,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:51:25.234937+00:00"
+  "updated_at": "2026-11-10T21:51:26.885728+00:00"
 }
