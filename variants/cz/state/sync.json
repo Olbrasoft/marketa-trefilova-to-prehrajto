@@ -103274,17 +103274,19 @@
       "attempts": []
     },
     "12564": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30884676",
+          "reason": "Source detail has no authenticated download link; source_id=30884676",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:10:47.694927+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30884676",
         "display_name": "Baron Prášil SD CZ Dabing",
         "planned_at": "2026-11-10T10:10:42.105205+00:00"
-      },
-      "claim": {
-        "worker_id": "31971a09f13f4930b094a8070ab27b6e-shard-0",
-        "claimed_at": "2026-11-10T10:10:42.474228+00:00",
-        "lease_expires_at": "2026-11-10T16:10:42.474228+00:00",
-        "run_id": "42790251611"
       }
     },
     "22551": {
@@ -161389,5 +161391,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:10:46.094276+00:00"
+  "updated_at": "2026-11-10T10:10:47.694945+00:00"
 }
