@@ -111227,10 +111227,28 @@
         "claimed_at": "2026-11-10T15:12:57.908081+00:00",
         "lease_expires_at": "2026-11-10T21:12:57.908081+00:00",
         "run_id": "42823888331"
+      },
+      "previous_target_id": "30983993",
+      "prepared": {
+        "target_video_id": "30983993",
+        "size_bytes": 7167173220,
+        "prepared_at": "2026-11-10T15:13:03.005518+00:00",
+        "relay_source_id": "31822900"
       }
     },
     "2846": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26852958",
+        "display_name": "Barbie 4K CZ Dabing",
+        "planned_at": "2026-11-10T15:13:01.917798+00:00"
+      },
+      "claim": {
+        "worker_id": "5013f96f80154ddab4d04ddf40ac5f32-shard-0",
+        "claimed_at": "2026-11-10T15:13:02.310816+00:00",
+        "lease_expires_at": "2026-11-10T21:13:02.310816+00:00",
+        "run_id": "42823888331"
+      }
     },
     "3096": {
       "attempts": []
@@ -167661,5 +167679,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:12:58.496212+00:00"
+  "updated_at": "2026-11-10T15:13:03.005536+00:00"
 }
