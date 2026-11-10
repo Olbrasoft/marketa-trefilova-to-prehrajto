@@ -50023,6 +50023,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-04T00:02:22.495709+00:00",
         "relay_source_id": "11203350"
+      },
+      "claim": {
+        "worker_id": "7af4981d4392445ca77cc4696c874d46-shard-0",
+        "claimed_at": "2026-11-10T17:17:50.531024+00:00",
+        "lease_expires_at": "2026-11-10T23:17:50.531024+00:00",
+        "run_id": "42823888331"
       }
     },
     "30131": {
@@ -107388,13 +107394,6 @@
           "source_id": "32711232",
           "target_video_id": "30983462",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:41:32.185898+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32711232",
-          "target_video_id": "30983462",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:15:28.097826+00:00"
         },
         {
@@ -107403,6 +107402,13 @@
           "target_video_id": "30983462",
           "permanent": false,
           "attempted_at": "2026-11-10T16:47:24.427703+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32711232",
+          "target_video_id": "30983462",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:17:50.974343+00:00"
         }
       ],
       "last_plan": {
@@ -107416,12 +107422,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T14:05:43.545596+00:00",
         "relay_source_id": "32711232"
-      },
-      "claim": {
-        "worker_id": "790f367641d74a01998a610b9c40cce2-shard-0",
-        "claimed_at": "2026-11-10T17:17:48.052998+00:00",
-        "lease_expires_at": "2026-11-10T23:17:48.052998+00:00",
-        "run_id": "42823888331"
       }
     },
     "12717": {
@@ -115428,7 +115428,7 @@
       "last_plan": {
         "source_id": "34757966",
         "display_name": "Risky Business 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:17:46.051500+00:00"
+        "planned_at": "2026-11-10T17:17:50.118732+00:00"
       }
     },
     "2787": {
@@ -171566,5 +171566,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:17:48.571137+00:00"
+  "updated_at": "2026-11-10T17:17:50.974365+00:00"
 }
