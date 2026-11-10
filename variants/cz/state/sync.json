@@ -115580,17 +115580,19 @@
       }
     },
     "11458": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34190531",
+          "target_video_id": "30984720",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:24:37.976747+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34190531",
         "display_name": "Christine (1983) 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:23:54.224586+00:00"
-      },
-      "claim": {
-        "worker_id": "7dd3f7fc596d4898894afc05924733c5-shard-0",
-        "claimed_at": "2026-11-10T17:23:54.791787+00:00",
-        "lease_expires_at": "2026-11-10T23:23:54.791787+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984720",
       "prepared": {
@@ -171719,5 +171721,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:24:36.332539+00:00"
+  "updated_at": "2026-11-10T17:24:37.976766+00:00"
 }
