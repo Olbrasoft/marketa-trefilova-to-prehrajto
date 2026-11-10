@@ -108478,13 +108478,6 @@
           "source_id": "35095666",
           "target_video_id": "30983616",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:07:03.406841+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35095666",
-          "target_video_id": "30983616",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:38:16.334740+00:00"
         },
         {
@@ -108493,6 +108486,13 @@
           "target_video_id": "30983616",
           "permanent": false,
           "attempted_at": "2026-11-10T20:08:51.617902+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35095666",
+          "target_video_id": "30983616",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:43:24.086951+00:00"
         }
       ],
       "last_plan": {
@@ -113244,7 +113244,7 @@
       "last_plan": {
         "source_id": "32818573",
         "display_name": "The Island 4K CZ Dabing",
-        "planned_at": "2026-11-10T20:08:51.125796+00:00"
+        "planned_at": "2026-11-10T20:43:22.812257+00:00"
       },
       "previous_target_id": "30984069",
       "prepared": {
@@ -113252,6 +113252,12 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-10T15:23:16.436228+00:00",
         "relay_source_id": "32818573"
+      },
+      "claim": {
+        "worker_id": "d9442bfe68e64be896737b00d8806995-shard-0",
+        "claimed_at": "2026-11-10T20:43:23.431280+00:00",
+        "lease_expires_at": "2026-11-11T02:43:23.431280+00:00",
+        "run_id": "42864255663"
       }
     },
     "3143": {
@@ -122960,7 +122966,7 @@
       "last_plan": {
         "source_id": "16256834",
         "display_name": "The Assignment (1997) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:43:20.732912+00:00"
+        "planned_at": "2026-11-10T20:43:23.076754+00:00"
       }
     },
     "2867": {
@@ -178256,5 +178262,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:43:20.944984+00:00"
+  "updated_at": "2026-11-10T20:43:24.086968+00:00"
 }
