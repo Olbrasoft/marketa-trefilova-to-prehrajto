@@ -100624,17 +100624,19 @@
       }
     },
     "2638": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14611780",
+          "target_video_id": "30966961",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:30:00.282374+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14611780",
         "display_name": "My Dinner with Hervé SD CZ Dabing",
         "planned_at": "2026-11-10T06:26:00.981025+00:00"
-      },
-      "claim": {
-        "worker_id": "9e24059219a34fd780d3225d510c816e-shard-0",
-        "claimed_at": "2026-11-10T06:26:01.296989+00:00",
-        "lease_expires_at": "2026-11-10T12:26:01.296989+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30966961",
       "prepared": {
@@ -159463,5 +159465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:26:09.069582+00:00"
+  "updated_at": "2026-11-10T06:30:00.282392+00:00"
 }
