@@ -99295,17 +99295,19 @@
       }
     },
     "1909": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25049503",
+          "target_video_id": "30960476",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:26:06.887252+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25049503",
         "display_name": "Calamity, a Childhood of Martha Jane Cannary (Calamity, une enfance de Martha Jane Cannary) 1080p CZ Dabing",
         "planned_at": "2026-11-10T03:16:19.226948+00:00"
-      },
-      "claim": {
-        "worker_id": "c8d979f87adc41a9b8ae4ea568e8c609-shard-0",
-        "claimed_at": "2026-11-10T03:16:19.602767+00:00",
-        "lease_expires_at": "2026-11-10T09:16:19.602767+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30960476",
       "prepared": {
@@ -158436,5 +158438,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:24:35.301900+00:00"
+  "updated_at": "2026-11-10T03:26:06.887268+00:00"
 }
