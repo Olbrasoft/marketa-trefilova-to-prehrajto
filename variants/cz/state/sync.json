@@ -108089,17 +108089,19 @@
       }
     },
     "12964": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31753593",
+          "target_video_id": "30983629",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:30:01.427287+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31753593",
         "display_name": "Run, He Is Coming! (Utekajme, už ide!) SD CZ Dabing",
         "planned_at": "2026-11-10T14:24:23.305090+00:00"
-      },
-      "claim": {
-        "worker_id": "22dc0d41c9c4414ca3feeb47ec22d2d4-shard-0",
-        "claimed_at": "2026-11-10T14:24:23.683100+00:00",
-        "lease_expires_at": "2026-11-10T20:24:23.683100+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983629",
       "prepared": {
@@ -165147,5 +165149,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:29:57.340690+00:00"
+  "updated_at": "2026-11-10T14:30:01.427305+00:00"
 }
