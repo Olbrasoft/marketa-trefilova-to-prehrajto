@@ -100492,17 +100492,19 @@
       }
     },
     "13762": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11696652",
+          "target_video_id": "30966458",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:21:24.209042+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11696652",
         "display_name": "Farewell (L'Affaire Farewell) 1080p CZ Dabing",
         "planned_at": "2026-11-10T06:11:41.073846+00:00"
-      },
-      "claim": {
-        "worker_id": "d2d1b2a7153040cc905c502ed06306e9-shard-0",
-        "claimed_at": "2026-11-10T06:11:41.686745+00:00",
-        "lease_expires_at": "2026-11-10T12:11:41.686745+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30966458",
       "prepared": {
@@ -159391,5 +159393,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:18:24.438472+00:00"
+  "updated_at": "2026-11-10T06:21:24.209070+00:00"
 }
