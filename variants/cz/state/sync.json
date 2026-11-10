@@ -114465,17 +114465,19 @@
       "attempts": []
     },
     "3156": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28364272",
+          "target_video_id": "30984516",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:41:13.992883+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28364272",
         "display_name": "Four Brothers 1080p CZ Dabing",
         "planned_at": "2026-11-10T16:39:25.526517+00:00"
-      },
-      "claim": {
-        "worker_id": "a83dbc41a3514b99bd1425a8b789d95a-shard-0",
-        "claimed_at": "2026-11-10T16:39:25.924107+00:00",
-        "lease_expires_at": "2026-11-10T22:39:25.924107+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984516",
       "prepared": {
@@ -170728,5 +170730,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:39:29.375110+00:00"
+  "updated_at": "2026-11-10T16:41:13.992900+00:00"
 }
