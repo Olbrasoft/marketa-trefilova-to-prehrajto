@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-10T07:57:14.957476+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-10T08:29:36.563938+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-10T09:03:28.266343+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:00:35.163772+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "dc0258fe2f1646ccbba8826d186c3e3c-shard-0",
-        "claimed_at": "2026-11-10T10:00:31.849870+00:00",
-        "lease_expires_at": "2026-11-10T16:00:31.849870+00:00",
-        "run_id": "42790251611"
       }
     },
     "52": {
@@ -14663,7 +14657,7 @@
       "last_plan": {
         "source_id": "32500310",
         "display_name": "Guess Who's Coming to Dinner 720p CZ Dabing",
-        "planned_at": "2026-11-10T09:03:27.172687+00:00"
+        "planned_at": "2026-11-10T10:00:34.075664+00:00"
       },
       "previous_target_id": "30657182",
       "prepared": {
@@ -14671,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "7e1296a40a5b4c56beb3ed298b64b83e-shard-0",
+        "claimed_at": "2026-11-10T10:00:34.792007+00:00",
+        "lease_expires_at": "2026-11-10T16:00:34.792007+00:00",
+        "run_id": "42790251611"
       }
     },
     "22177": {
@@ -102603,7 +102603,7 @@
       "last_plan": {
         "source_id": "32374866",
         "display_name": "Dobří holubi se vracejí 1080p CZ Dabing",
-        "planned_at": "2026-11-10T10:00:31.414202+00:00"
+        "planned_at": "2026-11-10T10:00:34.362868+00:00"
       }
     },
     "22247": {
@@ -160938,5 +160938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:00:32.149358+00:00"
+  "updated_at": "2026-11-10T10:00:35.163793+00:00"
 }
