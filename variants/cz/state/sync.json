@@ -92819,13 +92819,6 @@
           "source_id": "34296350",
           "target_video_id": "30942671",
           "permanent": false,
-          "attempted_at": "2026-11-10T17:52:12.384699+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34296350",
-          "target_video_id": "30942671",
-          "permanent": false,
           "attempted_at": "2026-11-10T18:23:35.779063+00:00"
         },
         {
@@ -92834,6 +92827,13 @@
           "target_video_id": "30942671",
           "permanent": false,
           "attempted_at": "2026-11-10T18:54:12.047581+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34296350",
+          "target_video_id": "30942671",
+          "permanent": false,
+          "attempted_at": "2026-11-10T19:26:53.711920+00:00"
         }
       ],
       "last_plan": {
@@ -120635,7 +120635,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:53:02.394409+00:00"
+        "planned_at": "2026-11-10T19:26:51.637153+00:00"
       },
       "previous_target_id": "30985082",
       "prepared": {
@@ -120643,6 +120643,12 @@
         "size_bytes": 3483951480,
         "prepared_at": "2026-11-10T18:53:09.599430+00:00",
         "relay_source_id": "35117462"
+      },
+      "claim": {
+        "worker_id": "ee093391d3d84945a29e68476d9f3db3-shard-0",
+        "claimed_at": "2026-11-10T19:26:52.249632+00:00",
+        "lease_expires_at": "2026-11-11T01:26:52.249632+00:00",
+        "run_id": "42864255663"
       }
     },
     "3085": {
@@ -121382,7 +121388,7 @@
       "last_plan": {
         "source_id": "28050708",
         "display_name": "Zero Effect 1080p CZ Dabing",
-        "planned_at": "2026-11-10T19:26:49.646510+00:00"
+        "planned_at": "2026-11-10T19:26:51.899097+00:00"
       }
     },
     "30007": {
@@ -176852,5 +176858,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:26:49.646528+00:00"
+  "updated_at": "2026-11-10T19:26:53.711937+00:00"
 }
