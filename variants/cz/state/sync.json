@@ -104710,27 +104710,51 @@
       }
     },
     "13039": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "33440566",
+          "reason": "Source detail has no authenticated download link; source_id=33440566",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:15:57.860592+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33440566",
         "display_name": "Zlaté dno 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:15:52.615731+00:00"
-      },
-      "claim": {
-        "worker_id": "c28d184759d8415ca9dabdfc5be75193-shard-0",
-        "claimed_at": "2026-11-10T10:15:54.482302+00:00",
-        "lease_expires_at": "2026-11-10T16:15:54.482302+00:00",
-        "run_id": "42790251611"
       }
     },
     "1590": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30154795",
+        "display_name": "Tony, Shelly and the Magic Light (Tonda, Slávka a kouzelné světlo) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:15:56.597027+00:00"
+      },
+      "claim": {
+        "worker_id": "a42e6c30dfc942c49b3d079867276875-shard-0",
+        "claimed_at": "2026-11-10T10:15:57.138743+00:00",
+        "lease_expires_at": "2026-11-10T16:15:57.138743+00:00",
+        "run_id": "42790251611"
+      }
     },
     "12575": {
       "attempts": []
     },
     "2556": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33096211",
+        "display_name": "Peace by Chocolate 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:15:56.764932+00:00"
+      },
+      "claim": {
+        "worker_id": "e4422fcbbb0448ed89d4e3ac40fb1a15-shard-0",
+        "claimed_at": "2026-11-10T10:15:57.296871+00:00",
+        "lease_expires_at": "2026-11-10T16:15:57.296871+00:00",
+        "run_id": "42790251611"
+      }
     },
     "33457": {
       "attempts": []
@@ -162403,5 +162427,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:15:54.482329+00:00"
+  "updated_at": "2026-11-10T10:15:57.860609+00:00"
 }
