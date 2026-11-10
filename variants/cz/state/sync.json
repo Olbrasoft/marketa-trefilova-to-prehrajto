@@ -117780,7 +117780,7 @@
       "last_plan": {
         "source_id": "34651094",
         "display_name": "Rendition 720p CZ Dabing",
-        "planned_at": "2026-11-10T17:58:15.929853+00:00"
+        "planned_at": "2026-11-10T18:29:15.163978+00:00"
       },
       "previous_target_id": "30984866",
       "prepared": {
@@ -117788,6 +117788,12 @@
         "size_bytes": 2326444055,
         "prepared_at": "2026-11-10T17:58:19.721107+00:00",
         "relay_source_id": "34651094"
+      },
+      "claim": {
+        "worker_id": "7d9046c1c6404af1b68a0ed3ee93e54d-shard-0",
+        "claimed_at": "2026-11-10T18:29:15.755484+00:00",
+        "lease_expires_at": "2026-11-11T00:29:15.755484+00:00",
+        "run_id": "42864255663"
       }
     },
     "11942": {
@@ -118724,17 +118730,19 @@
       "attempts": []
     },
     "25168": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28069174",
+          "target_video_id": "30984994",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:29:17.288343+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28069174",
         "display_name": "Che Part 2: Guerrilla (Che: Part Two) 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:28:34.007496+00:00"
-      },
-      "claim": {
-        "worker_id": "fde75f67a8b24ac89c436c8a97cf8220-shard-0",
-        "claimed_at": "2026-11-10T18:28:34.358495+00:00",
-        "lease_expires_at": "2026-11-11T00:28:34.358495+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984994",
       "prepared": {
@@ -118766,7 +118774,12 @@
       }
     },
     "23324": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34284124",
+        "display_name": "Singles 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:29:15.422049+00:00"
+      }
     },
     "20379": {
       "attempts": []
@@ -174524,5 +174537,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:29:12.580757+00:00"
+  "updated_at": "2026-11-10T18:29:17.288359+00:00"
 }
