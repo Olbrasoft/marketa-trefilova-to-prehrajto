@@ -614,3 +614,4 @@ Attach subtitles only after target processing has finished.
 | The Gangster, the Cop, the Devil (악인전) 1080p CZ Titulky | 30984719 | https://sdilej.cz/11947495/the-gangster-the-cop-the-devil-2019.hd1080p-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | I Am Bolt SD CZ Titulky | 30984744 | https://sdilej.cz/7004752/i-am-bolt-2016-titulky.cz.mkv | Extract Czech track from exact source after processing |
 | Tenebrae (Tenebre) 1080p CZ Titulky | 30985350 | https://sdilej.cz/11416033/tenebre-tenebrae-1982-titulky.cz.1080p.mkv | Extract Czech track from exact source after processing |
+| Rose Island (L'incredibile storia dell'Isola delle Rose) 1080p CZ Titulky | 30985967 | https://sdilej.cz/14916136/rose.island.2020.1080p.nf.web-dl.dd5.1.x264.en.ita.cz.tit.mkv | Extract Czech track from exact source after processing |
