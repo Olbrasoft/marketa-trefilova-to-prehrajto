@@ -99470,17 +99470,19 @@
       "attempts": []
     },
     "17729": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30818486",
+          "target_video_id": "30960720",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:39:53.360729+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30818486",
         "display_name": "Cats Don't Dance 1080p CZ Dabing",
         "planned_at": "2026-11-10T03:30:55.796330+00:00"
-      },
-      "claim": {
-        "worker_id": "668a899ef2434529b81c767bb5abde04-shard-0",
-        "claimed_at": "2026-11-10T03:30:56.231777+00:00",
-        "lease_expires_at": "2026-11-10T09:30:56.231777+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30960720",
       "prepared": {
@@ -158515,5 +158517,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:39:51.492855+00:00"
+  "updated_at": "2026-11-10T03:39:53.360748+00:00"
 }
