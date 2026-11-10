@@ -111991,13 +111991,6 @@
           "source_id": "30230963",
           "target_video_id": "30983916",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:16:00.426783+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30230963",
-          "target_video_id": "30983916",
-          "permanent": false,
           "attempted_at": "2026-11-10T19:48:36.066630+00:00"
         },
         {
@@ -112006,6 +111999,13 @@
           "target_video_id": "30983916",
           "permanent": false,
           "attempted_at": "2026-11-10T20:20:31.558477+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30230963",
+          "target_video_id": "30983916",
+          "permanent": false,
+          "attempted_at": "2026-11-10T20:51:15.748757+00:00"
         }
       ],
       "last_plan": {
@@ -121673,7 +121673,7 @@
       "last_plan": {
         "source_id": "30647033",
         "display_name": "Battle of the Bulge 4K CZ Dabing",
-        "planned_at": "2026-11-10T20:20:30.452357+00:00"
+        "planned_at": "2026-11-10T20:51:14.626138+00:00"
       },
       "previous_target_id": "30985429",
       "prepared": {
@@ -121681,6 +121681,12 @@
         "size_bytes": 18600000000,
         "prepared_at": "2026-11-10T19:15:27.659735+00:00",
         "relay_source_id": "30647033"
+      },
+      "claim": {
+        "worker_id": "4dba5330a9eb4420b61c27af28f681c8-shard-0",
+        "claimed_at": "2026-11-10T20:51:15.261680+00:00",
+        "lease_expires_at": "2026-11-11T02:51:15.261680+00:00",
+        "run_id": "42864255663"
       }
     },
     "11818": {
@@ -123069,7 +123075,7 @@
       "last_plan": {
         "source_id": "26801976",
         "display_name": "Emily 1080p CZ Dabing",
-        "planned_at": "2026-11-10T20:51:12.638121+00:00"
+        "planned_at": "2026-11-10T20:51:14.894268+00:00"
       }
     },
     "29773": {
@@ -178359,5 +178365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T20:51:12.638140+00:00"
+  "updated_at": "2026-11-10T20:51:15.748775+00:00"
 }
