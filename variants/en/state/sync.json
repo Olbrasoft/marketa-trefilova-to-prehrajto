@@ -34069,17 +34069,19 @@
       "attempts": []
     },
     "18960": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7004752",
+          "target_video_id": "30984744",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:32:15.474420+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7004752",
         "display_name": "I Am Bolt SD CZ Titulky",
         "planned_at": "2026-11-10T17:31:10.079362+00:00"
-      },
-      "claim": {
-        "worker_id": "2a6964f7595140b6b0ab769130d86243-shard-0",
-        "claimed_at": "2026-11-10T17:31:10.176002+00:00",
-        "lease_expires_at": "2026-11-10T23:31:10.176002+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984744",
       "prepared": {
@@ -96137,5 +96139,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:31:38.435876+00:00"
+  "updated_at": "2026-11-10T17:32:15.474436+00:00"
 }
