@@ -63476,7 +63476,7 @@
       "last_plan": {
         "source_id": "34095247",
         "display_name": "Deepwater Horizon 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:49:52.085396+00:00"
+        "planned_at": "2026-11-10T18:21:15.672025+00:00"
       },
       "previous_target_id": "30817480",
       "prepared": {
@@ -63484,6 +63484,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-05T12:23:58.720921+00:00",
         "relay_source_id": "34095247"
+      },
+      "claim": {
+        "worker_id": "8c3b3f7a9c154863b9222f6e962d9811-shard-0",
+        "claimed_at": "2026-11-10T18:21:16.288975+00:00",
+        "lease_expires_at": "2026-11-11T00:21:16.288975+00:00",
+        "run_id": "42864255663"
       }
     },
     "13126": {
@@ -67115,13 +67121,6 @@
           "source_id": "22557019",
           "target_video_id": "30840608",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:49:25.624556+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22557019",
-          "target_video_id": "30840608",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:19:39.399822+00:00"
         },
         {
@@ -67130,6 +67129,13 @@
           "target_video_id": "30840608",
           "permanent": false,
           "attempted_at": "2026-11-10T17:49:52.817177+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22557019",
+          "target_video_id": "30840608",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:21:16.446137+00:00"
         }
       ],
       "last_plan": {
@@ -67143,12 +67149,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-06T01:22:25.472864+00:00",
         "relay_source_id": "22557019"
-      },
-      "claim": {
-        "worker_id": "3fae7117012643db8f5d135b9ce05679-shard-0",
-        "claimed_at": "2026-11-10T18:21:13.769215+00:00",
-        "lease_expires_at": "2026-11-11T00:21:13.769215+00:00",
-        "run_id": "42864255663"
       }
     },
     "1894": {
@@ -118339,7 +118339,7 @@
       "last_plan": {
         "source_id": "24662573",
         "display_name": "Vengeance (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:21:13.446898+00:00"
+        "planned_at": "2026-11-10T18:21:15.931371+00:00"
       }
     },
     "24127": {
@@ -174164,5 +174164,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:21:14.063128+00:00"
+  "updated_at": "2026-11-10T18:21:16.446152+00:00"
 }
