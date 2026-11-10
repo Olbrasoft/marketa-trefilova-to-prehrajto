@@ -114390,17 +114390,19 @@
       }
     },
     "2871": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12492093",
+          "target_video_id": "30984495",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:38:32.665851+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12492093",
         "display_name": "Yesterday (2019) 4K CZ Dabing",
         "planned_at": "2026-11-10T16:36:47.062049+00:00"
-      },
-      "claim": {
-        "worker_id": "642a5c10585f47539d03258722cc49b5-shard-0",
-        "claimed_at": "2026-11-10T16:36:47.485169+00:00",
-        "lease_expires_at": "2026-11-10T22:36:47.485169+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984495",
       "prepared": {
@@ -170662,5 +170664,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:36:51.014465+00:00"
+  "updated_at": "2026-11-10T16:38:32.665868+00:00"
 }
