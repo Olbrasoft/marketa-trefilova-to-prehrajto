@@ -11491,7 +11491,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-10T00:47:30.048130+00:00"
+        "planned_at": "2026-11-10T01:24:42.769814+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -11499,6 +11499,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "940cbd4554e042758e37fec118e13559-shard-0",
+        "claimed_at": "2026-11-10T01:24:43.067696+00:00",
+        "lease_expires_at": "2026-11-10T07:24:43.067696+00:00",
+        "run_id": "42729980423"
       }
     },
     "834": {
@@ -32446,17 +32452,19 @@
       "attempts": []
     },
     "31616": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34083657",
+          "target_video_id": "30958066",
+          "permanent": false,
+          "attempted_at": "2026-11-10T01:24:43.249271+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34083657",
         "display_name": "The Stranger (2025) 1080p CZ Titulky",
         "planned_at": "2026-11-10T01:12:11.583042+00:00"
-      },
-      "claim": {
-        "worker_id": "6f8a92549e0649d483daf6bba00bc5d1-shard-0",
-        "claimed_at": "2026-11-10T01:12:11.750275+00:00",
-        "lease_expires_at": "2026-11-10T07:12:11.750275+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30958066",
       "prepared": {
@@ -95570,5 +95578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T01:24:38.702773+00:00"
+  "updated_at": "2026-11-10T01:24:43.249289+00:00"
 }
