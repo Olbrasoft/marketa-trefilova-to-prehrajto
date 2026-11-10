@@ -33510,17 +33510,19 @@
       }
     },
     "11550": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34237075",
+          "target_video_id": "30978323",
+          "permanent": false,
+          "attempted_at": "2026-11-10T11:57:17.265174+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34237075",
         "display_name": "Starman 1080p CZ Titulky",
         "planned_at": "2026-11-10T11:50:44.548121+00:00"
-      },
-      "claim": {
-        "worker_id": "6d2b3dd44f5f46df9b349fad70ef23b0-shard-0",
-        "claimed_at": "2026-11-10T11:50:44.912103+00:00",
-        "lease_expires_at": "2026-11-10T17:50:44.912103+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30978323",
       "prepared": {
@@ -95821,5 +95823,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T11:50:49.383705+00:00"
+  "updated_at": "2026-11-10T11:57:17.265191+00:00"
 }
