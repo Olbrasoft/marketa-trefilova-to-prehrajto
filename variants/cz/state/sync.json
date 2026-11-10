@@ -106478,17 +106478,19 @@
       "attempts": []
     },
     "12691": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33765762",
+          "target_video_id": "30982441",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:45:51.717658+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33765762",
         "display_name": "The Respectable Ladies of Pardubice (Počestné paní pardubické) 1080p CZ Dabing",
         "planned_at": "2026-11-10T13:33:42.585532+00:00"
-      },
-      "claim": {
-        "worker_id": "19b32cc3b9bf4655a2acda76863c251a-shard-0",
-        "claimed_at": "2026-11-10T13:33:43.170060+00:00",
-        "lease_expires_at": "2026-11-10T19:33:43.170060+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30982441",
       "prepared": {
@@ -163830,5 +163832,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:36:04.348624+00:00"
+  "updated_at": "2026-11-10T13:45:51.717676+00:00"
 }
