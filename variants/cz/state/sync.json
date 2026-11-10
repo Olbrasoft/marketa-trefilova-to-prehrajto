@@ -117280,17 +117280,19 @@
       "attempts": []
     },
     "2810": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30058384",
+          "target_video_id": "30984869",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:00:02.486788+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30058384",
         "display_name": "Caddo Lake 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:59:19.219961+00:00"
-      },
-      "claim": {
-        "worker_id": "9ddbad0178f8435388ae44b7fb0e82a5-shard-0",
-        "claimed_at": "2026-11-10T17:59:21.452386+00:00",
-        "lease_expires_at": "2026-11-10T23:59:21.452386+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984869",
       "prepared": {
@@ -173240,5 +173242,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:59:55.467006+00:00"
+  "updated_at": "2026-11-10T18:00:02.486805+00:00"
 }
