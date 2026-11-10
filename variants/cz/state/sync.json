@@ -90428,13 +90428,6 @@
           "source_id": "17098335",
           "target_video_id": "30926375",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:19:30.912347+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17098335",
-          "target_video_id": "30926375",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:50:41.461459+00:00"
         },
         {
@@ -90443,6 +90436,13 @@
           "target_video_id": "30926375",
           "permanent": false,
           "attempted_at": "2026-11-10T17:20:49.887404+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17098335",
+          "target_video_id": "30926375",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:51:04.247567+00:00"
         }
       ],
       "last_plan": {
@@ -94658,7 +94658,7 @@
       "last_plan": {
         "source_id": "27708681",
         "display_name": "See No Evil, Hear No Evil 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:20:49.323569+00:00"
+        "planned_at": "2026-11-10T17:51:02.617568+00:00"
       },
       "previous_target_id": "30948792",
       "prepared": {
@@ -94666,6 +94666,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-09T16:20:55.463432+00:00",
         "relay_source_id": "27708681"
+      },
+      "claim": {
+        "worker_id": "c4350b41385e4f6f9783323834c20e9b-shard-0",
+        "claimed_at": "2026-11-10T17:51:03.381895+00:00",
+        "lease_expires_at": "2026-11-10T23:51:03.381895+00:00",
+        "run_id": "42823888331"
       }
     },
     "2577": {
@@ -116850,7 +116856,7 @@
       "last_plan": {
         "source_id": "34651133",
         "display_name": "Sinbad: Legend of the Seven Seas 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:51:00.423955+00:00"
+        "planned_at": "2026-11-10T17:51:02.928475+00:00"
       }
     },
     "2804": {
@@ -172805,5 +172811,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:51:00.676834+00:00"
+  "updated_at": "2026-11-10T17:51:04.247586+00:00"
 }
