@@ -115426,17 +115426,19 @@
       }
     },
     "11484": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34757966",
+          "target_video_id": "30984690",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:19:19.289001+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34757966",
         "display_name": "Risky Business 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:18:35.629615+00:00"
-      },
-      "claim": {
-        "worker_id": "030c46f46d2d41f8addbacc5a6fa5103-shard-0",
-        "claimed_at": "2026-11-10T17:18:36.458878+00:00",
-        "lease_expires_at": "2026-11-10T23:18:36.458878+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984690",
       "prepared": {
@@ -171586,5 +171588,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:19:17.668517+00:00"
+  "updated_at": "2026-11-10T17:19:19.289021+00:00"
 }
