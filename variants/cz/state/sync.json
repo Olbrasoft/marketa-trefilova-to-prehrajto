@@ -103002,13 +103002,35 @@
       "attempts": []
     },
     "11388": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29821464",
+        "display_name": "How the World Is Losing Poets (Jak svět přichází o básníky) 4K CZ Dabing",
+        "planned_at": "2026-11-10T10:09:44.516670+00:00"
+      },
+      "claim": {
+        "worker_id": "37ede612d48c4728bd8776e7cbb4d328-shard-0",
+        "claimed_at": "2026-11-10T10:09:45.205563+00:00",
+        "lease_expires_at": "2026-11-10T16:09:45.205563+00:00",
+        "run_id": "42790251611"
+      }
     },
     "31326": {
       "attempts": []
     },
     "10914": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33536627",
+        "display_name": "The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:09:44.676197+00:00"
+      },
+      "claim": {
+        "worker_id": "818d927279e84eeeb7377f3b183b8fcb-shard-0",
+        "claimed_at": "2026-11-10T10:09:45.519298+00:00",
+        "lease_expires_at": "2026-11-10T16:09:45.519298+00:00",
+        "run_id": "42790251611"
+      }
     },
     "31324": {
       "attempts": []
@@ -103023,7 +103045,20 @@
       "attempts": []
     },
     "24361": {
-      "attempts": []
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29943709",
+          "reason": "Source detail has no authenticated download link; source_id=29943709",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:09:47.998754+00:00"
+        }
+      ],
+      "last_plan": {
+        "source_id": "29943709",
+        "display_name": "Shaolin Intruders SD CZ Dabing",
+        "planned_at": "2026-11-10T10:09:44.835796+00:00"
+      }
     },
     "11186": {
       "attempts": []
@@ -161196,5 +161231,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:09:41.286707+00:00"
+  "updated_at": "2026-11-10T10:09:47.998771+00:00"
 }
