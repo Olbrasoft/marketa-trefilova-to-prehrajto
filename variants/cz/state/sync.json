@@ -108289,7 +108289,7 @@
       "last_plan": {
         "source_id": "34789117",
         "display_name": "Barbora Hlavsová 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:23:23.891893+00:00"
+        "planned_at": "2026-11-10T14:54:19.478080+00:00"
       },
       "previous_target_id": "30983623",
       "prepared": {
@@ -108297,6 +108297,12 @@
         "size_bytes": 2090885765,
         "prepared_at": "2026-11-10T14:23:29.804331+00:00",
         "relay_source_id": "34789117"
+      },
+      "claim": {
+        "worker_id": "ad268fdca19446cf864e6c627dc66188-shard-0",
+        "claimed_at": "2026-11-10T14:54:20.361763+00:00",
+        "lease_expires_at": "2026-11-10T20:54:20.361763+00:00",
+        "run_id": "42823888331"
       }
     },
     "14263": {
@@ -110074,17 +110080,19 @@
       "attempts": []
     },
     "12776": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35077086",
+          "target_video_id": "30983823",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:54:20.575356+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35077086",
         "display_name": "The Adventurous Bachelor (Nezbedný bakalář) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:53:37.492331+00:00"
-      },
-      "claim": {
-        "worker_id": "4791f810a665468c8db0e44c642b63c2-shard-0",
-        "claimed_at": "2026-11-10T14:53:37.881545+00:00",
-        "lease_expires_at": "2026-11-10T20:53:37.881545+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983823",
       "prepared": {
@@ -110104,7 +110112,12 @@
       "attempts": []
     },
     "30288": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34903816",
+        "display_name": "The Princess and the Pirate: Sandokan the TV Movie SD CZ Dabing",
+        "planned_at": "2026-11-10T14:54:19.834840+00:00"
+      }
     },
     "11021": {
       "attempts": []
@@ -166712,5 +166725,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:54:12.866147+00:00"
+  "updated_at": "2026-11-10T14:54:20.575371+00:00"
 }
