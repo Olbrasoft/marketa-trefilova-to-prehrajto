@@ -108934,17 +108934,19 @@
       "attempts": []
     },
     "17020": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12788271",
+          "target_video_id": "30983746",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:43:07.441701+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12788271",
         "display_name": "Deadly Seasons: Black Enigma (Noir Enigma) SD CZ Dabing",
         "planned_at": "2026-11-10T14:41:56.134804+00:00"
-      },
-      "claim": {
-        "worker_id": "157bfa81b95c4c55a38d15c5a4ca8541-shard-0",
-        "claimed_at": "2026-11-10T14:41:58.069125+00:00",
-        "lease_expires_at": "2026-11-10T20:41:58.069125+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983746",
       "prepared": {
@@ -165806,5 +165808,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:42:14.240416+00:00"
+  "updated_at": "2026-11-10T14:43:07.441718+00:00"
 }
