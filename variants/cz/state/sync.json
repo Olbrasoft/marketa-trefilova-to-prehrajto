@@ -110990,17 +110990,19 @@
       }
     },
     "28909": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29707305",
+          "target_video_id": "30983950",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:07:28.419341+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29707305",
         "display_name": "Bretislav a Jitka (Břetislav a Jitka) SD CZ Dabing",
         "planned_at": "2026-11-10T15:06:45.149314+00:00"
-      },
-      "claim": {
-        "worker_id": "3bb16c9410c945cca33e803add7c2379-shard-0",
-        "claimed_at": "2026-11-10T15:06:48.164326+00:00",
-        "lease_expires_at": "2026-11-10T21:06:48.164326+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983950",
       "prepared": {
@@ -167477,5 +167479,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:07:26.575522+00:00"
+  "updated_at": "2026-11-10T15:07:28.419359+00:00"
 }
