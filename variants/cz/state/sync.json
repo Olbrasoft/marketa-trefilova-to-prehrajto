@@ -121133,7 +121133,7 @@
       "last_plan": {
         "source_id": "34874346",
         "display_name": "Night Train to Lisbon SD CZ Dabing",
-        "planned_at": "2026-11-10T21:48:46.513279+00:00"
+        "planned_at": "2026-11-10T22:28:26.616192+00:00"
       },
       "previous_target_id": "30985387",
       "prepared": {
@@ -124763,17 +124763,19 @@
       "attempts": []
     },
     "24990": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27529281",
+          "target_video_id": "30985893",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:28:26.993460+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27529281",
         "display_name": "Danny Deckchair 1080p CZ Dabing",
         "planned_at": "2026-11-10T22:27:42.554658+00:00"
-      },
-      "claim": {
-        "worker_id": "b2f77c01b4fa4421b5ee8a8a2842863c-shard-0",
-        "claimed_at": "2026-11-10T22:27:43.300667+00:00",
-        "lease_expires_at": "2026-11-11T04:27:43.300667+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30985893",
       "prepared": {
@@ -179757,5 +179759,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:28:22.978706+00:00"
+  "updated_at": "2026-11-10T22:28:26.993476+00:00"
 }
