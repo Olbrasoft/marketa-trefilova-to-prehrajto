@@ -12375,13 +12375,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:45:48.742190+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:16:02.952657+00:00"
         },
         {
@@ -12390,12 +12383,19 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-10T17:46:10.094549+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:17:18.593997+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32043793",
         "display_name": "American Gangster 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:46:06.037303+00:00"
+        "planned_at": "2026-11-10T18:17:16.134645+00:00"
       },
       "previous_target_id": "30647758",
       "prepared": {
@@ -14665,6 +14665,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-10-31T06:23:14.737343+00:00",
         "relay_source_id": "32500310"
+      },
+      "claim": {
+        "worker_id": "b63c5f2b320c44b187041b4a1f01fe80-shard-0",
+        "claimed_at": "2026-11-10T18:17:15.954663+00:00",
+        "lease_expires_at": "2026-11-11T00:17:15.954663+00:00",
+        "run_id": "42864255663"
       }
     },
     "22177": {
@@ -118152,7 +118158,7 @@
       "last_plan": {
         "source_id": "33745553",
         "display_name": "Romper Stomper 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:17:14.279748+00:00"
+        "planned_at": "2026-11-10T18:17:16.392974+00:00"
       }
     },
     "2987": {
@@ -173972,5 +173978,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:17:14.279765+00:00"
+  "updated_at": "2026-11-10T18:17:18.594014+00:00"
 }
