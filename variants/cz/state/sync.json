@@ -102680,17 +102680,19 @@
       "attempts": []
     },
     "37407": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14131421",
+          "reason": "Source detail has no authenticated download link; source_id=14131421",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:08:46.415490+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14131421",
         "display_name": "Tesla (2016) 1080p CZ Dabing",
         "planned_at": "2026-11-10T10:08:41.445335+00:00"
-      },
-      "claim": {
-        "worker_id": "f05a773346274eaba5d0e049ce1bd86b-shard-0",
-        "claimed_at": "2026-11-10T10:08:43.339400+00:00",
-        "lease_expires_at": "2026-11-10T16:08:43.339400+00:00",
-        "run_id": "42790251611"
       }
     },
     "20075": {
@@ -160999,5 +161001,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:08:43.339430+00:00"
+  "updated_at": "2026-11-10T10:08:46.415515+00:00"
 }
