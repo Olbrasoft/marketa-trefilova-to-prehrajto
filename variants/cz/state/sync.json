@@ -113458,17 +113458,19 @@
       }
     },
     "3126": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18173315",
+          "target_video_id": "30984242",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:55:08.163973+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18173315",
         "display_name": "Lemony Snicket's A Series of Unfortunate Events 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:52:35.050632+00:00"
-      },
-      "claim": {
-        "worker_id": "36e6e520b21347d1afc9700ad1a5ec9b-shard-0",
-        "claimed_at": "2026-11-10T15:52:35.500697+00:00",
-        "lease_expires_at": "2026-11-10T21:52:35.500697+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984242",
       "prepared": {
@@ -169778,5 +169780,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:52:43.929154+00:00"
+  "updated_at": "2026-11-10T15:55:08.163989+00:00"
 }
