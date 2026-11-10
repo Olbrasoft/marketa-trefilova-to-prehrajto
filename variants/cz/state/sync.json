@@ -108386,13 +108386,6 @@
           "source_id": "22546836",
           "target_video_id": "30983603",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:23:29.229539+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22546836",
-          "target_video_id": "30983603",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:55:49.494729+00:00"
         },
         {
@@ -108401,6 +108394,13 @@
           "target_video_id": "30983603",
           "permanent": false,
           "attempted_at": "2026-11-10T16:29:36.304870+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22546836",
+          "target_video_id": "30983603",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:03:08.103801+00:00"
         }
       ],
       "last_plan": {
@@ -108414,12 +108414,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T14:21:36.081757+00:00",
         "relay_source_id": "22546836"
-      },
-      "claim": {
-        "worker_id": "9615b09ae065406498b75a310fd7e764-shard-0",
-        "claimed_at": "2026-11-10T17:03:05.308662+00:00",
-        "lease_expires_at": "2026-11-10T23:03:05.308662+00:00",
-        "run_id": "42823888331"
       }
     },
     "12671": {
@@ -108449,7 +108443,7 @@
       "last_plan": {
         "source_id": "34662419",
         "display_name": "Divá Bára 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:29:35.731058+00:00"
+        "planned_at": "2026-11-10T17:03:07.531519+00:00"
       },
       "previous_target_id": "30983604",
       "prepared": {
@@ -114732,6 +114726,13 @@
         "claimed_at": "2026-11-10T17:03:03.930653+00:00",
         "lease_expires_at": "2026-11-10T23:03:03.930653+00:00",
         "run_id": "42823888331"
+      },
+      "previous_target_id": "30984610",
+      "prepared": {
+        "target_video_id": "30984610",
+        "size_bytes": 2282978162,
+        "prepared_at": "2026-11-10T17:03:08.281172+00:00",
+        "relay_source_id": "30985526"
       }
     },
     "3006": {
@@ -114739,7 +114740,7 @@
       "last_plan": {
         "source_id": "11740260",
         "display_name": "What Happened to Monday 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:03:04.543916+00:00"
+        "planned_at": "2026-11-10T17:03:07.838716+00:00"
       }
     },
     "2988": {
@@ -170955,5 +170956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:03:05.538159+00:00"
+  "updated_at": "2026-11-10T17:03:08.281212+00:00"
 }
