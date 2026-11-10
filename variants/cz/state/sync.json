@@ -107955,17 +107955,19 @@
       }
     },
     "14263": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34686041",
+          "target_video_id": "30983624",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:24:07.000836+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34686041",
         "display_name": "Princové jsou na draka 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:23:26.549862+00:00"
-      },
-      "claim": {
-        "worker_id": "5b1913f3d3084477aa7c935fd2ae9cb5-shard-0",
-        "claimed_at": "2026-11-10T14:23:26.987854+00:00",
-        "lease_expires_at": "2026-11-10T20:23:26.987854+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983624",
       "prepared": {
@@ -164983,5 +164985,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:24:05.379522+00:00"
+  "updated_at": "2026-11-10T14:24:07.000854+00:00"
 }
