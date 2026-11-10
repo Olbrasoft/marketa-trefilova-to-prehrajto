@@ -113169,13 +113169,6 @@
           "source_id": "33115659",
           "target_video_id": "30984064",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:29:22.155014+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33115659",
-          "target_video_id": "30984064",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:02:55.123040+00:00"
         },
         {
@@ -113184,12 +113177,19 @@
           "target_video_id": "30984064",
           "permanent": false,
           "attempted_at": "2026-11-10T17:33:12.800989+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33115659",
+          "target_video_id": "30984064",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:03:15.453784+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33115659",
         "display_name": "The Book of Eli 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:33:08.708114+00:00"
+        "planned_at": "2026-11-10T18:03:13.331268+00:00"
       },
       "previous_target_id": "30984064",
       "prepared": {
@@ -117498,10 +117498,21 @@
         "source_id": "13048079",
         "display_name": "Heartbreak Ridge SD CZ Dabing",
         "planned_at": "2026-11-10T18:03:08.991823+00:00"
+      },
+      "claim": {
+        "worker_id": "63e9708ad81c44be8e2e9784b0f1d5d4-shard-0",
+        "claimed_at": "2026-11-10T18:03:11.625166+00:00",
+        "lease_expires_at": "2026-11-11T00:03:11.625166+00:00",
+        "run_id": "42823888331"
       }
     },
     "2972": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "12049029",
+        "display_name": "Tolkien 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:03:13.714590+00:00"
+      }
     },
     "11922": {
       "attempts": []
@@ -173371,5 +173382,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:03:08.991841+00:00"
+  "updated_at": "2026-11-10T18:03:15.453803+00:00"
 }
