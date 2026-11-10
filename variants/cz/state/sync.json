@@ -110806,13 +110806,6 @@
           "source_id": "26697838",
           "target_video_id": "30983795",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:10:41.264137+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26697838",
-          "target_video_id": "30983795",
-          "permanent": false,
           "attempted_at": "2026-11-10T21:44:21.995209+00:00"
         },
         {
@@ -110821,6 +110814,13 @@
           "target_video_id": "30983795",
           "permanent": false,
           "attempted_at": "2026-11-10T22:22:20.299538+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26697838",
+          "target_video_id": "30983795",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:04:17.451015+00:00"
         }
       ],
       "last_plan": {
@@ -110834,12 +110834,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T14:49:23.310628+00:00",
         "relay_source_id": "26697838"
-      },
-      "claim": {
-        "worker_id": "f90d4986624c4828a15da48cbffb10c9-shard-0",
-        "claimed_at": "2026-11-10T23:04:12.644709+00:00",
-        "lease_expires_at": "2026-11-11T05:04:12.644709+00:00",
-        "run_id": "42904278669"
       }
     },
     "33771": {
@@ -119456,7 +119450,7 @@
       "last_plan": {
         "source_id": "33677451",
         "display_name": "Frankie and Johnny 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:22:22.010513+00:00"
+        "planned_at": "2026-11-10T23:04:15.496924+00:00"
       },
       "previous_target_id": "30984982",
       "prepared": {
@@ -119464,6 +119458,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T18:26:42.508353+00:00",
         "relay_source_id": "33677451"
+      },
+      "claim": {
+        "worker_id": "956163246be3497c9543d23bf994d311-shard-0",
+        "claimed_at": "2026-11-10T23:04:16.196780+00:00",
+        "lease_expires_at": "2026-11-11T05:04:16.196780+00:00",
+        "run_id": "42904278669"
       }
     },
     "14429": {
@@ -125252,7 +125252,7 @@
       "last_plan": {
         "source_id": "34700408",
         "display_name": "Firecreek 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:04:12.218750+00:00"
+        "planned_at": "2026-11-10T23:04:15.808933+00:00"
       }
     },
     "20329": {
@@ -180133,5 +180133,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:04:13.865691+00:00"
+  "updated_at": "2026-11-10T23:04:17.451036+00:00"
 }
