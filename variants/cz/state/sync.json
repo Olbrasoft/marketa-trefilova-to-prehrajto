@@ -8538,13 +8538,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-10T04:15:57.498198+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-10T04:51:00.004836+00:00"
         },
         {
@@ -8553,6 +8546,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-10T05:37:26.479374+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:11:59.507669+00:00"
         }
       ],
       "last_plan": {
@@ -8566,12 +8566,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
-      },
-      "claim": {
-        "worker_id": "b0e13d0f4dfc438db7f87e2d1367017f-shard-0",
-        "claimed_at": "2026-11-10T06:11:56.217879+00:00",
-        "lease_expires_at": "2026-11-10T12:11:56.217879+00:00",
-        "run_id": "42761712557"
       }
     },
     "270": {
@@ -8601,7 +8595,7 @@
       "last_plan": {
         "source_id": "17777440",
         "display_name": "Friends: The Reunion 1080p CZ Dabing",
-        "planned_at": "2026-11-10T05:37:26.661950+00:00"
+        "planned_at": "2026-11-10T06:11:58.940857+00:00"
       },
       "previous_target_id": "30631282",
       "prepared": {
@@ -8609,6 +8603,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
+      },
+      "claim": {
+        "worker_id": "7f52d9ab20e849188fcd868c3db71661-shard-0",
+        "claimed_at": "2026-11-10T06:11:59.654466+00:00",
+        "lease_expires_at": "2026-11-10T12:11:59.654466+00:00",
+        "run_id": "42761712557"
       }
     },
     "21873": {
@@ -100517,7 +100517,7 @@
       "last_plan": {
         "source_id": "18515704",
         "display_name": "Promise Me This (Завет) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T06:11:55.901348+00:00"
+        "planned_at": "2026-11-10T06:11:59.173578+00:00"
       }
     },
     "22238": {
@@ -159354,5 +159354,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:11:57.330031+00:00"
+  "updated_at": "2026-11-10T06:11:59.654492+00:00"
 }
