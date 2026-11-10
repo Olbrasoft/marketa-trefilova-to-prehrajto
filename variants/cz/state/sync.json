@@ -102761,10 +102761,24 @@
         "source_id": "32125182",
         "display_name": "Výlet SD CZ Dabing",
         "planned_at": "2026-11-10T10:08:59.343195+00:00"
+      },
+      "claim": {
+        "worker_id": "8cece7f9098645168c02200e13ba6268-shard-0",
+        "claimed_at": "2026-11-10T10:09:01.416047+00:00",
+        "lease_expires_at": "2026-11-10T16:09:01.416047+00:00",
+        "run_id": "42790251611"
       }
     },
     "2093": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "14813999",
+          "reason": "Source detail has no authenticated download link; source_id=14813999",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:09:04.018418+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14813999",
         "display_name": "The Seven Ravens (Sedem zhavranelých bratov) (2015) 1080p CZ Dabing",
@@ -102787,7 +102801,18 @@
       "attempts": []
     },
     "2532": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27811855",
+        "display_name": "Unicorn Wars 1080p CZ Dabing",
+        "planned_at": "2026-11-10T10:09:01.890084+00:00"
+      },
+      "claim": {
+        "worker_id": "50e4fc8a49f0481dbf18fb6a9129df38-shard-0",
+        "claimed_at": "2026-11-10T10:09:02.336506+00:00",
+        "lease_expires_at": "2026-11-10T16:09:02.336506+00:00",
+        "run_id": "42790251611"
+      }
     },
     "31829": {
       "attempts": []
@@ -161050,5 +161075,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:08:59.505031+00:00"
+  "updated_at": "2026-11-10T10:09:04.018435+00:00"
 }
