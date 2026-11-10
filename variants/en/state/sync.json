@@ -33934,17 +33934,19 @@
       "attempts": []
     },
     "13483": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32997472",
+          "target_video_id": "30984494",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:38:52.335313+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32997472",
         "display_name": "Lunacy (Šílení) 1080p CZ Titulky",
         "planned_at": "2026-11-10T16:36:40.712792+00:00"
-      },
-      "claim": {
-        "worker_id": "353c26ac612140029649d39e47f7f502-shard-0",
-        "claimed_at": "2026-11-10T16:36:40.827571+00:00",
-        "lease_expires_at": "2026-11-10T22:36:40.827571+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984494",
       "prepared": {
@@ -96047,5 +96049,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:36:44.196812+00:00"
+  "updated_at": "2026-11-10T16:38:52.335330+00:00"
 }
