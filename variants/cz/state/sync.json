@@ -19981,13 +19981,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:10:50.372426+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-10T15:44:46.754011+00:00"
         },
         {
@@ -19996,6 +19989,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-10T16:18:40.699849+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-10T16:49:57.664498+00:00"
         }
       ],
       "last_plan": {
@@ -112434,7 +112434,7 @@
       "last_plan": {
         "source_id": "33495930",
         "display_name": "Tanecnice (Tanečnice) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:18:42.298779+00:00"
+        "planned_at": "2026-11-10T16:49:56.341327+00:00"
       },
       "previous_target_id": "30983976",
       "prepared": {
@@ -112442,6 +112442,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T15:09:20.357315+00:00",
         "relay_source_id": "33495930"
+      },
+      "claim": {
+        "worker_id": "f034c6b2e4ef4308bc865fe8824e7f9b-shard-0",
+        "claimed_at": "2026-11-10T16:49:57.109610+00:00",
+        "lease_expires_at": "2026-11-10T22:49:57.109610+00:00",
+        "run_id": "42823888331"
       }
     },
     "12718": {
@@ -114575,7 +114581,7 @@
       "last_plan": {
         "source_id": "32925649",
         "display_name": "The Lake House 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:49:48.085426+00:00"
+        "planned_at": "2026-11-10T16:49:56.648201+00:00"
       }
     },
     "2842": {
@@ -170809,5 +170815,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T16:49:48.085445+00:00"
+  "updated_at": "2026-11-10T16:49:57.664517+00:00"
 }
