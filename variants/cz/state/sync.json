@@ -10895,7 +10895,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:19:40.211887+00:00"
+        "planned_at": "2026-11-10T07:56:48.640865+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10903,6 +10903,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "0b4b9fcb16cd41d692e24f383ff0d0db-shard-0",
+        "claimed_at": "2026-11-10T07:56:49.367898+00:00",
+        "lease_expires_at": "2026-11-10T13:56:49.367898+00:00",
+        "run_id": "42761712557"
       }
     },
     "21748": {
@@ -82417,13 +82423,6 @@
           "source_id": "27791112",
           "target_video_id": "30909958",
           "permanent": false,
-          "attempted_at": "2026-11-10T06:11:21.849314+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27791112",
-          "target_video_id": "30909958",
-          "permanent": false,
           "attempted_at": "2026-11-10T06:47:05.057442+00:00"
         },
         {
@@ -82432,6 +82431,13 @@
           "target_video_id": "30909958",
           "permanent": false,
           "attempted_at": "2026-11-10T07:19:44.431296+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27791112",
+          "target_video_id": "30909958",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:56:49.239691+00:00"
         }
       ],
       "last_plan": {
@@ -82445,12 +82451,6 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-08T06:34:06.156483+00:00",
         "relay_source_id": "27791112"
-      },
-      "claim": {
-        "worker_id": "c561cfa87a2d4f41b399f198d426e625-shard-0",
-        "claimed_at": "2026-11-10T07:56:45.724430+00:00",
-        "lease_expires_at": "2026-11-10T13:56:45.724430+00:00",
-        "run_id": "42761712557"
       }
     },
     "28024": {
@@ -101420,7 +101420,7 @@
       "last_plan": {
         "source_id": "34904643",
         "display_name": "Here The Whole Time 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:56:45.283871+00:00"
+        "planned_at": "2026-11-10T07:56:48.870500+00:00"
       }
     },
     "1836": {
@@ -160062,5 +160062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:56:46.446183+00:00"
+  "updated_at": "2026-11-10T07:56:49.367922+00:00"
 }
