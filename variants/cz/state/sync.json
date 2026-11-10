@@ -101672,17 +101672,19 @@
       }
     },
     "22372": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34701477",
+          "target_video_id": "30971317",
+          "permanent": false,
+          "attempted_at": "2026-11-10T08:36:24.011786+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34701477",
         "display_name": "Shadows of a Hot Summer SD CZ Dabing",
         "planned_at": "2026-11-10T08:32:35.024974+00:00"
-      },
-      "claim": {
-        "worker_id": "ac2d2564f05845f0a15e3cc1ef80cabf-shard-0",
-        "claimed_at": "2026-11-10T08:32:35.336931+00:00",
-        "lease_expires_at": "2026-11-10T14:32:35.336931+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30971317",
       "prepared": {
@@ -160283,5 +160285,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T08:32:42.085583+00:00"
+  "updated_at": "2026-11-10T08:36:24.011803+00:00"
 }
