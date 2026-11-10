@@ -106735,17 +106735,19 @@
       }
     },
     "21739": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30260482",
+          "target_video_id": "30983120",
+          "permanent": false,
+          "attempted_at": "2026-11-10T13:53:07.934958+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30260482",
         "display_name": "The High Wall SD CZ Dabing",
         "planned_at": "2026-11-10T13:52:25.892021+00:00"
-      },
-      "claim": {
-        "worker_id": "7867a903652f4aeeb258154bc89af706-shard-0",
-        "claimed_at": "2026-11-10T13:52:26.782282+00:00",
-        "lease_expires_at": "2026-11-10T19:52:26.782282+00:00",
-        "run_id": "42790251611"
       },
       "previous_target_id": "30983120",
       "prepared": {
@@ -164021,5 +164023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:52:34.466578+00:00"
+  "updated_at": "2026-11-10T13:53:07.934974+00:00"
 }
