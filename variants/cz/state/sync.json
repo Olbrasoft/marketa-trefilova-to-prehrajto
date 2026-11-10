@@ -108367,13 +108367,6 @@
           "source_id": "27463973",
           "target_video_id": "30983590",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:48:10.396210+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27463973",
-          "target_video_id": "30983590",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:27:34.660523+00:00"
         },
         {
@@ -108382,6 +108375,13 @@
           "target_video_id": "30983590",
           "permanent": false,
           "attempted_at": "2026-11-10T23:08:48.908405+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27463973",
+          "target_video_id": "30983590",
+          "permanent": false,
+          "attempted_at": "2026-11-10T23:49:28.386804+00:00"
         }
       ],
       "last_plan": {
@@ -125103,7 +125103,7 @@
       "last_plan": {
         "source_id": "34185758",
         "display_name": "I Like Movies 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:08:50.562967+00:00"
+        "planned_at": "2026-11-10T23:49:26.715892+00:00"
       },
       "previous_target_id": "30985889",
       "prepared": {
@@ -125111,6 +125111,12 @@
         "size_bytes": 6400000000,
         "prepared_at": "2026-11-10T22:27:01.361256+00:00",
         "relay_source_id": "34185758"
+      },
+      "claim": {
+        "worker_id": "2a22145aa10a4fc7838f9caeacc73f5e-shard-0",
+        "claimed_at": "2026-11-10T23:49:27.521654+00:00",
+        "lease_expires_at": "2026-11-11T05:49:27.521654+00:00",
+        "run_id": "42904278669"
       }
     },
     "28226": {
@@ -125941,6 +125947,12 @@
         "source_id": "19694363",
         "display_name": "The Flyboys 1080p CZ Dabing",
         "planned_at": "2026-11-10T23:49:24.083830+00:00"
+      },
+      "claim": {
+        "worker_id": "308d88e5374c404fb83300beb2a570f7-shard-0",
+        "claimed_at": "2026-11-10T23:49:26.305872+00:00",
+        "lease_expires_at": "2026-11-11T05:49:26.305872+00:00",
+        "run_id": "42904278669"
       }
     },
     "21742": {
@@ -125966,7 +125978,7 @@
       "last_plan": {
         "source_id": "28796138",
         "display_name": "Standing Up SD CZ Dabing",
-        "planned_at": "2026-11-10T23:49:24.516289+00:00"
+        "planned_at": "2026-11-10T23:49:27.081876+00:00"
       }
     },
     "22932": {
@@ -180707,5 +180719,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T23:49:24.516306+00:00"
+  "updated_at": "2026-11-10T23:49:28.386828+00:00"
 }
