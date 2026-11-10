@@ -115077,17 +115077,19 @@
       }
     },
     "12034": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34375013",
+          "target_video_id": "30984647",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:13:13.810496+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34375013",
         "display_name": "Patriot Games 4K CZ Dabing",
         "planned_at": "2026-11-10T17:12:14.619008+00:00"
-      },
-      "claim": {
-        "worker_id": "77c2c0bb073f452ab55d6f07993a578d-shard-0",
-        "claimed_at": "2026-11-10T17:12:15.017597+00:00",
-        "lease_expires_at": "2026-11-10T23:12:15.017597+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984647",
       "prepared": {
@@ -171290,5 +171292,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:13:10.868434+00:00"
+  "updated_at": "2026-11-10T17:13:13.810518+00:00"
 }
