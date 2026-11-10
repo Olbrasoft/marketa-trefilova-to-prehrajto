@@ -118130,17 +118130,19 @@
       }
     },
     "22727": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34864462",
+          "target_video_id": "30984947",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:17:20.293081+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34864462",
         "display_name": "Body Double 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:16:33.419108+00:00"
-      },
-      "claim": {
-        "worker_id": "dabebec296cf44b48af507b2e23b64fa-shard-0",
-        "claimed_at": "2026-11-10T18:16:37.035673+00:00",
-        "lease_expires_at": "2026-11-11T00:16:37.035673+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30984947",
       "prepared": {
@@ -173978,5 +173980,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:17:18.594014+00:00"
+  "updated_at": "2026-11-10T18:17:20.293099+00:00"
 }
