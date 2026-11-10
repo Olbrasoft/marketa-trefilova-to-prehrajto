@@ -109319,13 +109319,6 @@
           "source_id": "24035589",
           "target_video_id": "30983684",
           "permanent": false,
-          "attempted_at": "2026-11-10T15:35:24.957077+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24035589",
-          "target_video_id": "30983684",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:08:29.727722+00:00"
         },
         {
@@ -109334,6 +109327,13 @@
           "target_video_id": "30983684",
           "permanent": false,
           "attempted_at": "2026-11-10T16:38:54.082400+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24035589",
+          "target_video_id": "30983684",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:10:48.292853+00:00"
         }
       ],
       "last_plan": {
@@ -112082,7 +112082,7 @@
       "last_plan": {
         "source_id": "34715290",
         "display_name": "Lion With a White Mane (Lev s bílou hřívou) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T16:38:56.087337+00:00"
+        "planned_at": "2026-11-10T17:10:46.898550+00:00"
       },
       "previous_target_id": "30983927",
       "prepared": {
@@ -112090,6 +112090,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T15:04:18.410499+00:00",
         "relay_source_id": "34715290"
+      },
+      "claim": {
+        "worker_id": "b00dc97b65a34daeb6f1a0ea8e06979c-shard-0",
+        "claimed_at": "2026-11-10T17:10:48.041336+00:00",
+        "lease_expires_at": "2026-11-10T23:10:48.041336+00:00",
+        "run_id": "42823888331"
       }
     },
     "32416": {
@@ -114937,6 +114943,12 @@
         "source_id": "30934830",
         "display_name": "Syriana 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:10:44.364260+00:00"
+      },
+      "claim": {
+        "worker_id": "cf44760ac9fa4f27a174e7bceadb3f24-shard-0",
+        "claimed_at": "2026-11-10T17:10:46.688742+00:00",
+        "lease_expires_at": "2026-11-10T23:10:46.688742+00:00",
+        "run_id": "42823888331"
       }
     },
     "2925": {
@@ -114944,7 +114956,7 @@
       "last_plan": {
         "source_id": "34380174",
         "display_name": "Bombshell 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:10:44.541709+00:00"
+        "planned_at": "2026-11-10T17:10:47.358710+00:00"
       }
     },
     "2822": {
@@ -171139,5 +171151,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:10:44.541724+00:00"
+  "updated_at": "2026-11-10T17:10:48.292872+00:00"
 }
