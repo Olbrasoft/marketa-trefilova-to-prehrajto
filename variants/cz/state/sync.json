@@ -112839,17 +112839,19 @@
       }
     },
     "3135": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33770531",
+          "target_video_id": "30984155",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:35:14.555350+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33770531",
         "display_name": "Warm Bodies 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:34:32.274583+00:00"
-      },
-      "claim": {
-        "worker_id": "b2357bbbe7934e39ac287f801b83dc79-shard-0",
-        "claimed_at": "2026-11-10T15:34:33.122257+00:00",
-        "lease_expires_at": "2026-11-10T21:34:33.122257+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984155",
       "prepared": {
@@ -169177,5 +169179,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:35:12.237281+00:00"
+  "updated_at": "2026-11-10T15:35:14.555367+00:00"
 }
