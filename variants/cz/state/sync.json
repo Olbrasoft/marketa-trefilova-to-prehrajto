@@ -100474,13 +100474,6 @@
           "source_id": "27029351",
           "target_video_id": "30965910",
           "permanent": false,
-          "attempted_at": "2026-11-10T19:58:45.204413+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27029351",
-          "target_video_id": "30965910",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:33:52.231552+00:00"
         },
         {
@@ -100489,12 +100482,19 @@
           "target_video_id": "30965910",
           "permanent": false,
           "attempted_at": "2026-11-10T21:04:32.450213+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27029351",
+          "target_video_id": "30965910",
+          "permanent": false,
+          "attempted_at": "2026-11-10T21:39:26.027405+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27029351",
         "display_name": "Garage Sale Mystery: The Deadly Room SD CZ Dabing",
-        "planned_at": "2026-11-10T21:04:30.732017+00:00"
+        "planned_at": "2026-11-10T21:39:23.761376+00:00"
       },
       "previous_target_id": "30965910",
       "prepared": {
@@ -123796,11 +123796,22 @@
       "last_plan": {
         "source_id": "20827767",
         "display_name": "The Psychic (Sette note in nero) (1977) SD CZ Dabing",
-        "planned_at": "2026-11-10T21:39:12.784626+00:00"
+        "planned_at": "2026-11-10T21:39:24.025803+00:00"
+      },
+      "claim": {
+        "worker_id": "28adf8ea515147ae997e20cbf2083246-shard-0",
+        "claimed_at": "2026-11-10T21:39:24.677016+00:00",
+        "lease_expires_at": "2026-11-11T03:39:24.677016+00:00",
+        "run_id": "42864255663"
       }
     },
     "22167": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29943260",
+        "display_name": "The Seven-Ups 1080p CZ Dabing",
+        "planned_at": "2026-11-10T21:39:24.188348+00:00"
+      }
     },
     "23060": {
       "attempts": []
@@ -178963,5 +178974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T21:39:15.177405+00:00"
+  "updated_at": "2026-11-10T21:39:26.027426+00:00"
 }
