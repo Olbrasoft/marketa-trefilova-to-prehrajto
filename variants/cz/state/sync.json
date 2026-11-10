@@ -81195,13 +81195,6 @@
           "source_id": "29912133",
           "target_video_id": "30902570",
           "permanent": false,
-          "attempted_at": "2026-11-10T05:41:00.535850+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29912133",
-          "target_video_id": "30902570",
-          "permanent": false,
           "attempted_at": "2026-11-10T06:17:33.893050+00:00"
         },
         {
@@ -81210,12 +81203,19 @@
           "target_video_id": "30902570",
           "permanent": false,
           "attempted_at": "2026-11-10T06:53:55.470719+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29912133",
+          "target_video_id": "30902570",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:24:50.798435+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29912133",
         "display_name": "If Only SD CZ Dabing",
-        "planned_at": "2026-11-10T06:53:53.577346+00:00"
+        "planned_at": "2026-11-10T07:24:48.445473+00:00"
       },
       "previous_target_id": "30902570",
       "prepared": {
@@ -101105,11 +101105,22 @@
       "last_plan": {
         "source_id": "13450050",
         "display_name": "Garage Sale Mystery: Guilty Until Proven Innocent 1080p CZ Dabing",
-        "planned_at": "2026-11-10T07:24:44.192242+00:00"
+        "planned_at": "2026-11-10T07:24:48.681933+00:00"
+      },
+      "claim": {
+        "worker_id": "c8a673bd04b043e19766588e5f487a3d-shard-0",
+        "claimed_at": "2026-11-10T07:24:49.349487+00:00",
+        "lease_expires_at": "2026-11-10T13:24:49.349487+00:00",
+        "run_id": "42761712557"
       }
     },
     "16869": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13492700",
+        "display_name": "Garage Sale Mystery: The Novel Murders 1080p CZ Dabing",
+        "planned_at": "2026-11-10T07:24:48.834128+00:00"
+      }
     },
     "26603": {
       "attempts": []
@@ -159813,5 +159824,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:24:46.161445+00:00"
+  "updated_at": "2026-11-10T07:24:50.798480+00:00"
 }
