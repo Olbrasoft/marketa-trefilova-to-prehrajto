@@ -109328,6 +109328,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T14:33:44.113276+00:00",
         "relay_source_id": "34979725"
+      },
+      "claim": {
+        "worker_id": "13af76e88d6745b5a98c1115cecd8c06-shard-0",
+        "claimed_at": "2026-11-10T22:03:12.719692+00:00",
+        "lease_expires_at": "2026-11-11T04:03:12.719692+00:00",
+        "run_id": "42864255663"
       }
     },
     "13851": {
@@ -109377,13 +109383,6 @@
           "source_id": "29792037",
           "target_video_id": "30983686",
           "permanent": false,
-          "attempted_at": "2026-11-10T20:22:21.090911+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29792037",
-          "target_video_id": "30983686",
-          "permanent": false,
           "attempted_at": "2026-11-10T20:53:13.091623+00:00"
         },
         {
@@ -109392,6 +109391,13 @@
           "target_video_id": "30983686",
           "permanent": false,
           "attempted_at": "2026-11-10T21:27:01.721168+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29792037",
+          "target_video_id": "30983686",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:03:13.439136+00:00"
         }
       ],
       "last_plan": {
@@ -109405,12 +109411,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:34:07.592234+00:00",
         "relay_source_id": "29792037"
-      },
-      "claim": {
-        "worker_id": "ad7b6a3f28e54c05892d273c9d432256-shard-0",
-        "claimed_at": "2026-11-10T22:03:09.849850+00:00",
-        "lease_expires_at": "2026-11-11T04:03:09.849850+00:00",
-        "run_id": "42864255663"
       }
     },
     "12786": {
@@ -114096,7 +114096,7 @@
       "last_plan": {
         "source_id": "31964145",
         "display_name": "Bolt 1080p CZ Dabing",
-        "planned_at": "2026-11-10T21:27:09.482334+00:00"
+        "planned_at": "2026-11-10T22:03:12.919052+00:00"
       },
       "previous_target_id": "30984161",
       "prepared": {
@@ -124329,7 +124329,7 @@
       "last_plan": {
         "source_id": "34651010",
         "display_name": "The Killing of Two Lovers 1080p CZ Dabing",
-        "planned_at": "2026-11-10T22:03:10.621086+00:00"
+        "planned_at": "2026-11-10T22:03:13.184849+00:00"
       }
     },
     "22402": {
@@ -179378,5 +179378,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:03:11.157789+00:00"
+  "updated_at": "2026-11-10T22:03:13.439158+00:00"
 }
