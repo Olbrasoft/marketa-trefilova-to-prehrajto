@@ -99089,17 +99089,19 @@
       "attempts": []
     },
     "14417": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18528523",
+          "target_video_id": "30959503",
+          "permanent": false,
+          "attempted_at": "2026-11-10T02:28:00.964297+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18528523",
         "display_name": "Oscar and the Lady in Pink (Oscar et la dame rose) 720p CZ Dabing",
         "planned_at": "2026-11-10T02:20:40.690792+00:00"
-      },
-      "claim": {
-        "worker_id": "3eb8ffe37bf44728863995898f67ec70-shard-0",
-        "claimed_at": "2026-11-10T02:20:41.299022+00:00",
-        "lease_expires_at": "2026-11-10T08:20:41.299022+00:00",
-        "run_id": "42729980423"
       },
       "previous_target_id": "30959503",
       "prepared": {
@@ -158227,5 +158229,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T02:27:56.565434+00:00"
+  "updated_at": "2026-11-10T02:28:00.964314+00:00"
 }
