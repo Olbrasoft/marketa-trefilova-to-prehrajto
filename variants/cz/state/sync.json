@@ -108336,17 +108336,19 @@
       "attempts": []
     },
     "26106": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34708982",
+          "target_video_id": "30983673",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:31:58.469387+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34708982",
         "display_name": "Rules of Lies 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:31:52.030483+00:00"
-      },
-      "claim": {
-        "worker_id": "0bbcede814f64d9ead8ba93472613587-shard-0",
-        "claimed_at": "2026-11-10T14:31:52.418738+00:00",
-        "lease_expires_at": "2026-11-10T20:31:52.418738+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983673",
       "prepared": {
@@ -165298,5 +165300,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:31:55.056770+00:00"
+  "updated_at": "2026-11-10T14:31:58.469403+00:00"
 }
