@@ -108503,13 +108503,6 @@
           "source_id": "11729861",
           "target_video_id": "30983619",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:30:26.500701+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11729861",
-          "target_video_id": "30983619",
-          "permanent": false,
           "attempted_at": "2026-11-10T17:03:45.037358+00:00"
         },
         {
@@ -108518,12 +108511,19 @@
           "target_video_id": "30983619",
           "permanent": false,
           "attempted_at": "2026-11-10T17:34:21.669325+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11729861",
+          "target_video_id": "30983619",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:04:42.037657+00:00"
         }
       ],
       "last_plan": {
         "source_id": "11729861",
         "display_name": "Suspicion (Klec) (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T17:34:17.024634+00:00"
+        "planned_at": "2026-11-10T18:04:39.781877+00:00"
       },
       "previous_target_id": "30983619",
       "prepared": {
@@ -117566,14 +117566,25 @@
       "last_plan": {
         "source_id": "34883792",
         "display_name": "Escape from Pretoria 1080p CZ Dabing",
-        "planned_at": "2026-11-10T18:04:34.436017+00:00"
+        "planned_at": "2026-11-10T18:04:40.106074+00:00"
+      },
+      "claim": {
+        "worker_id": "8a7543ce6f3547158c5066c8e8fc2328-shard-0",
+        "claimed_at": "2026-11-10T18:04:40.884925+00:00",
+        "lease_expires_at": "2026-11-11T00:04:40.884925+00:00",
+        "run_id": "42823888331"
       }
     },
     "2780": {
       "attempts": []
     },
     "23021": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32937607",
+        "display_name": "All Dogs Go to Heaven 1080p CZ Dabing",
+        "planned_at": "2026-11-10T18:04:40.286764+00:00"
+      }
     },
     "2874": {
       "attempts": []
@@ -173431,5 +173442,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:04:36.468871+00:00"
+  "updated_at": "2026-11-10T18:04:42.037677+00:00"
 }
