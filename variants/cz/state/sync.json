@@ -110762,17 +110762,19 @@
       }
     },
     "32416": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35074796",
+          "target_video_id": "30983926",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:04:52.619223+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35074796",
         "display_name": "Přísně tajné premiéry 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:04:10.333849+00:00"
-      },
-      "claim": {
-        "worker_id": "bf580c62dac64086ad8eb7f0a29a6951-shard-0",
-        "claimed_at": "2026-11-10T15:04:12.742580+00:00",
-        "lease_expires_at": "2026-11-10T21:04:12.742580+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983926",
       "prepared": {
@@ -167313,5 +167315,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:04:19.979614+00:00"
+  "updated_at": "2026-11-10T15:04:52.619240+00:00"
 }
