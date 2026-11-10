@@ -81542,13 +81542,6 @@
           "source_id": "32457622",
           "target_video_id": "30903267",
           "permanent": false,
-          "attempted_at": "2026-11-10T07:56:42.422390+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32457622",
-          "target_video_id": "30903267",
-          "permanent": false,
           "attempted_at": "2026-11-10T08:29:06.097351+00:00"
         },
         {
@@ -81557,12 +81550,19 @@
           "target_video_id": "30903267",
           "permanent": false,
           "attempted_at": "2026-11-10T09:02:58.644938+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32457622",
+          "target_video_id": "30903267",
+          "permanent": false,
+          "attempted_at": "2026-11-10T09:59:46.479081+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32457622",
         "display_name": "Christmas with Holly 1080p CZ Dabing",
-        "planned_at": "2026-11-10T09:34:45.894151+00:00"
+        "planned_at": "2026-11-10T09:59:43.435501+00:00"
       },
       "previous_target_id": "30903267",
       "prepared": {
@@ -102567,7 +102567,13 @@
       "last_plan": {
         "source_id": "11737851",
         "display_name": "Intimate Enemies (L'Ennemi intime) SD CZ Dabing",
-        "planned_at": "2026-11-10T09:34:46.121921+00:00"
+        "planned_at": "2026-11-10T09:59:43.729643+00:00"
+      },
+      "claim": {
+        "worker_id": "34c728509a7b43749ad6722a89456162-shard-0",
+        "claimed_at": "2026-11-10T09:59:44.519327+00:00",
+        "lease_expires_at": "2026-11-10T15:59:44.519327+00:00",
+        "run_id": "42790251611"
       }
     },
     "14718": {
@@ -102584,11 +102590,16 @@
       "last_plan": {
         "source_id": "32374866",
         "display_name": "Dobří holubi se vracejí 1080p CZ Dabing",
-        "planned_at": "2026-11-10T09:33:02.513987+00:00"
+        "planned_at": "2026-11-10T09:59:43.898915+00:00"
       }
     },
     "22247": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32387573",
+        "display_name": "Flic Story 1080p CZ Dabing",
+        "planned_at": "2026-11-10T09:59:44.059430+00:00"
+      }
     },
     "2573": {
       "attempts": []
@@ -160914,5 +160925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:58:25.236481+00:00"
+  "updated_at": "2026-11-10T09:59:46.479102+00:00"
 }
