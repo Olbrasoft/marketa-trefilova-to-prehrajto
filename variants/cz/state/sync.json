@@ -107653,17 +107653,24 @@
           "target_video_id": "30983539",
           "permanent": false,
           "attempted_at": "2026-11-10T14:17:03.964528+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34908320",
+          "target_video_id": "30983539",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:47:23.862269+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34908320",
         "display_name": "Pražská 5 1080p CZ Dabing",
-        "planned_at": "2026-11-10T14:16:20.143048+00:00"
+        "planned_at": "2026-11-10T14:47:21.690948+00:00"
       },
       "previous_target_id": "30983539",
       "prepared": {
         "target_video_id": "30983539",
-        "size_bytes": 4451578665,
+        "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T14:16:25.808778+00:00",
         "relay_source_id": "34908320"
       }
@@ -109392,14 +109399,25 @@
       "last_plan": {
         "source_id": "34470295",
         "display_name": "Poslední muž (The Last Man) 720p CZ Dabing",
-        "planned_at": "2026-11-10T14:47:16.770010+00:00"
+        "planned_at": "2026-11-10T14:47:22.001723+00:00"
+      },
+      "claim": {
+        "worker_id": "2a2be2d6d6d2400a9e7a22fb0b3e78d2-shard-0",
+        "claimed_at": "2026-11-10T14:47:22.752615+00:00",
+        "lease_expires_at": "2026-11-10T20:47:22.752615+00:00",
+        "run_id": "42823888331"
       }
     },
     "12599": {
       "attempts": []
     },
     "12720": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "14997921",
+        "display_name": "Duhová kulicka (Duhová kulička) 1080p CZ Dabing",
+        "planned_at": "2026-11-10T14:47:22.181386+00:00"
+      }
     },
     "10966": {
       "attempts": []
@@ -166124,5 +166142,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:47:19.746881+00:00"
+  "updated_at": "2026-11-10T14:47:23.862288+00:00"
 }
