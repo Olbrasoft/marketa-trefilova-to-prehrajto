@@ -82173,7 +82173,7 @@
       "last_plan": {
         "source_id": "34668514",
         "display_name": "The Little Death 720p CZ Dabing",
-        "planned_at": "2026-11-10T06:17:35.572323+00:00"
+        "planned_at": "2026-11-10T06:53:57.106439+00:00"
       },
       "previous_target_id": "30908812",
       "prepared": {
@@ -82181,6 +82181,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-08T05:26:41.175531+00:00",
         "relay_source_id": "34668514"
+      },
+      "claim": {
+        "worker_id": "9e68266185304114b4d42a21e8366ab4-shard-0",
+        "claimed_at": "2026-11-10T06:53:57.700402+00:00",
+        "lease_expires_at": "2026-11-10T12:53:57.700402+00:00",
+        "run_id": "42761712557"
       }
     },
     "23317": {
@@ -100698,17 +100704,19 @@
       "attempts": []
     },
     "2357": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27687513",
+          "target_video_id": "30967106",
+          "permanent": false,
+          "attempted_at": "2026-11-10T06:53:58.562484+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27687513",
         "display_name": "Strangled (A martfűi rém) 1080p CZ Dabing",
         "planned_at": "2026-11-10T06:30:18.863494+00:00"
-      },
-      "claim": {
-        "worker_id": "a0a7fc55bfd342878af9b6cce0335b02-shard-0",
-        "claimed_at": "2026-11-10T06:30:19.235543+00:00",
-        "lease_expires_at": "2026-11-10T12:30:19.235543+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30967106",
       "prepared": {
@@ -100785,7 +100793,7 @@
       "last_plan": {
         "source_id": "32103746",
         "display_name": "Crown for Christmas SD CZ Dabing",
-        "planned_at": "2026-11-10T06:53:53.843638+00:00"
+        "planned_at": "2026-11-10T06:53:57.357586+00:00"
       }
     },
     "22139": {
@@ -159574,5 +159582,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T06:53:55.470739+00:00"
+  "updated_at": "2026-11-10T06:53:58.562506+00:00"
 }
