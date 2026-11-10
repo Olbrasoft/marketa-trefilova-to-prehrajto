@@ -115054,17 +115054,19 @@
       }
     },
     "2962": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33509401",
+          "target_video_id": "30984644",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:13:07.759347+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33509401",
         "display_name": "Long Shot 4K CZ Dabing",
         "planned_at": "2026-11-10T17:11:54.168564+00:00"
-      },
-      "claim": {
-        "worker_id": "a9c9b7ba4de346cdb7c5d671f86bdead-shard-0",
-        "claimed_at": "2026-11-10T17:11:54.569966+00:00",
-        "lease_expires_at": "2026-11-10T23:11:54.569966+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984644",
       "prepared": {
@@ -171272,5 +171274,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:13:06.205864+00:00"
+  "updated_at": "2026-11-10T17:13:07.759365+00:00"
 }
