@@ -112355,6 +112355,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T15:05:48.048860+00:00",
         "relay_source_id": "33709201"
+      },
+      "claim": {
+        "worker_id": "2dddd803c71a49d9af21e33bd178cd6c-shard-0",
+        "claimed_at": "2026-11-10T22:05:23.576060+00:00",
+        "lease_expires_at": "2026-11-11T04:05:23.576060+00:00",
+        "run_id": "42864255663"
       }
     },
     "28909": {
@@ -124326,17 +124332,19 @@
       "attempts": []
     },
     "2906": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34651010",
+          "target_video_id": "30985812",
+          "permanent": false,
+          "attempted_at": "2026-11-10T22:05:23.767500+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34651010",
         "display_name": "The Killing of Two Lovers 1080p CZ Dabing",
         "planned_at": "2026-11-10T22:03:28.594303+00:00"
-      },
-      "claim": {
-        "worker_id": "16258a56dfd648a1bba929b17bd90746-shard-0",
-        "claimed_at": "2026-11-10T22:03:30.876337+00:00",
-        "lease_expires_at": "2026-11-11T04:03:30.876337+00:00",
-        "run_id": "42864255663"
       },
       "previous_target_id": "30985812",
       "prepared": {
@@ -179392,5 +179400,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T22:05:21.862244+00:00"
+  "updated_at": "2026-11-10T22:05:23.767517+00:00"
 }
