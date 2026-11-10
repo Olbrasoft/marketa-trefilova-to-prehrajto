@@ -107619,6 +107619,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T14:11:17.051489+00:00",
         "relay_source_id": "35152274"
+      },
+      "claim": {
+        "worker_id": "8ffb92c863364bb89de25a7b8d3cfc55-shard-0",
+        "claimed_at": "2026-11-10T17:23:22.791723+00:00",
+        "lease_expires_at": "2026-11-10T23:23:22.791723+00:00",
+        "run_id": "42823888331"
       }
     },
     "14397": {
@@ -115544,17 +115550,19 @@
       }
     },
     "2786": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34445886",
+          "target_video_id": "30984708",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:23:22.963902+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34445886",
         "display_name": "Bloodsport 4K CZ Dabing",
         "planned_at": "2026-11-10T17:22:38.982106+00:00"
-      },
-      "claim": {
-        "worker_id": "da5ed0579ca3440ca2a66fbe281bea20-shard-0",
-        "claimed_at": "2026-11-10T17:22:39.828702+00:00",
-        "lease_expires_at": "2026-11-10T23:22:39.828702+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984708",
       "prepared": {
@@ -171686,5 +171694,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:23:20.940165+00:00"
+  "updated_at": "2026-11-10T17:23:22.963919+00:00"
 }
