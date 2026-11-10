@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "48ea69bf6d804ce782a13a312bddce91-shard-0",
+        "claimed_at": "2026-11-10T10:34:22.525231+00:00",
+        "lease_expires_at": "2026-11-10T16:34:22.525231+00:00",
+        "run_id": "42790251611"
       }
     },
     "31551": {
@@ -26774,7 +26780,7 @@
       "last_plan": {
         "source_id": "25662574",
         "display_name": "Rye Lane 1080p CZ Titulky",
-        "planned_at": "2026-11-10T10:03:48.356967+00:00"
+        "planned_at": "2026-11-10T10:34:23.144373+00:00"
       },
       "previous_target_id": "30893092",
       "prepared": {
@@ -27749,13 +27755,6 @@
           "source_id": "25583722",
           "target_video_id": "30903877",
           "permanent": false,
-          "attempted_at": "2026-11-10T09:01:41.822263+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25583722",
-          "target_video_id": "30903877",
-          "permanent": false,
           "attempted_at": "2026-11-10T09:33:38.347212+00:00"
         },
         {
@@ -27764,6 +27763,13 @@
           "target_video_id": "30903877",
           "permanent": false,
           "attempted_at": "2026-11-10T10:03:43.907763+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25583722",
+          "target_video_id": "30903877",
+          "permanent": false,
+          "attempted_at": "2026-11-10T10:34:23.393522+00:00"
         }
       ],
       "last_plan": {
@@ -27777,12 +27783,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-08T01:33:25.661957+00:00",
         "relay_source_id": "25583722"
-      },
-      "claim": {
-        "worker_id": "f88ac87f95fa4225919ab1a7051bde22-shard-0",
-        "claimed_at": "2026-11-10T10:34:18.897481+00:00",
-        "lease_expires_at": "2026-11-10T16:34:18.897481+00:00",
-        "run_id": "42790251611"
       }
     },
     "23038": {
@@ -95751,5 +95751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:34:20.161326+00:00"
+  "updated_at": "2026-11-10T10:34:23.393539+00:00"
 }
