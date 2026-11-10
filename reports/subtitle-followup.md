@@ -598,3 +598,4 @@ Attach subtitles only after target processing has finished.
 | The Stranger (2025) 1080p CZ Titulky | 30958066 | https://sdilej.cz/34083657/l-etranger-2025-1080p-cz-sk.tit.mkv | Complete: Czech subtitles verified |
 | Tisícročná včela 1080p CZ Titulky | 30959744 | https://sdilej.cz/32069504/tisicrocna-vcela-i-ii-1983-sk-.mkv | Complete: Czech subtitles verified |
 | Tehran Taboo (Theran Taboo) 1080p CZ Titulky | 30960325 | https://sdilej.cz/29675224/teheranska-tabu-2017-tit.cz.mkv | Complete: Czech subtitles verified |
+| Top Gun 4K CZ Titulky | 30965106 | https://sdilej.cz/28086780/top.gun.1986.2160p.4k.bluray.x265.10bit.aac5.1-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
