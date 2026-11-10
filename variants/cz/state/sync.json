@@ -101135,17 +101135,19 @@
       "attempts": []
     },
     "16788": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13450050",
+          "target_video_id": "30969076",
+          "permanent": false,
+          "attempted_at": "2026-11-10T07:33:22.441755+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13450050",
         "display_name": "Garage Sale Mystery: Guilty Until Proven Innocent 1080p CZ Dabing",
         "planned_at": "2026-11-10T07:24:48.681933+00:00"
-      },
-      "claim": {
-        "worker_id": "c8a673bd04b043e19766588e5f487a3d-shard-0",
-        "claimed_at": "2026-11-10T07:24:49.349487+00:00",
-        "lease_expires_at": "2026-11-10T13:24:49.349487+00:00",
-        "run_id": "42761712557"
       },
       "previous_target_id": "30969076",
       "prepared": {
@@ -159916,5 +159918,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T07:32:02.251989+00:00"
+  "updated_at": "2026-11-10T07:33:22.441772+00:00"
 }
