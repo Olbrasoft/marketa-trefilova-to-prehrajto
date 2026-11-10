@@ -111705,13 +111705,6 @@
           "source_id": "33810878",
           "target_video_id": "30983848",
           "permanent": false,
-          "attempted_at": "2026-11-10T16:01:12.960270+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33810878",
-          "target_video_id": "30983848",
-          "permanent": false,
           "attempted_at": "2026-11-10T16:33:40.826972+00:00"
         },
         {
@@ -111720,6 +111713,13 @@
           "target_video_id": "30983848",
           "permanent": false,
           "attempted_at": "2026-11-10T17:07:20.692963+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33810878",
+          "target_video_id": "30983848",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:37:26.256671+00:00"
         }
       ],
       "last_plan": {
@@ -115993,7 +115993,13 @@
       "last_plan": {
         "source_id": "33672383",
         "display_name": "Caught Stealing 4K CZ Dabing",
-        "planned_at": "2026-11-10T17:37:22.343361+00:00"
+        "planned_at": "2026-11-10T17:37:25.204750+00:00"
+      },
+      "claim": {
+        "worker_id": "a1859052463c4f408ba8b25cd06b4561-shard-0",
+        "claimed_at": "2026-11-10T17:37:25.950294+00:00",
+        "lease_expires_at": "2026-11-10T23:37:25.950294+00:00",
+        "run_id": "42823888331"
       }
     },
     "3026": {
@@ -172062,5 +172068,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:37:22.343379+00:00"
+  "updated_at": "2026-11-10T17:37:26.256689+00:00"
 }
