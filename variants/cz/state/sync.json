@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-10T01:26:06.445470+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-10T01:57:22.772173+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-10T02:29:41.564137+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-10T03:03:35.254786+00:00"
         }
       ],
       "last_plan": {
@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-10T02:29:44.890590+00:00"
+        "planned_at": "2026-11-10T03:03:33.763180+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "116cbbb3bd644ee0ae4f227cf1dc320e-shard-0",
+        "claimed_at": "2026-11-10T03:03:35.415859+00:00",
+        "lease_expires_at": "2026-11-10T09:03:35.415859+00:00",
+        "run_id": "42729980423"
       }
     },
     "52": {
@@ -99258,7 +99264,7 @@
       "last_plan": {
         "source_id": "27777585",
         "display_name": "Nevada Smith 1080p CZ Dabing",
-        "planned_at": "2026-11-10T03:03:28.370819+00:00"
+        "planned_at": "2026-11-10T03:03:34.368612+00:00"
       }
     },
     "11937": {
@@ -158326,5 +158332,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:03:28.815046+00:00"
+  "updated_at": "2026-11-10T03:03:35.415906+00:00"
 }
