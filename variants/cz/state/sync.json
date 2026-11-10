@@ -117518,17 +117518,19 @@
       }
     },
     "2972": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12049029",
+          "target_video_id": "30984886",
+          "permanent": false,
+          "attempted_at": "2026-11-10T18:04:03.277588+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12049029",
         "display_name": "Tolkien 1080p CZ Dabing",
         "planned_at": "2026-11-10T18:03:22.659583+00:00"
-      },
-      "claim": {
-        "worker_id": "d3d9070005e246c7b2b72c3e2c922274-shard-0",
-        "claimed_at": "2026-11-10T18:03:23.116618+00:00",
-        "lease_expires_at": "2026-11-11T00:03:23.116618+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984886",
       "prepared": {
@@ -173411,5 +173413,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T18:04:01.668135+00:00"
+  "updated_at": "2026-11-10T18:04:03.277607+00:00"
 }
