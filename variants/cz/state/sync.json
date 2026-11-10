@@ -116499,17 +116499,19 @@
       }
     },
     "3103": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29121811",
+          "target_video_id": "30984814",
+          "permanent": false,
+          "attempted_at": "2026-11-10T17:44:18.393606+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29121811",
         "display_name": "The Ghost and the Darkness 1080p CZ Dabing",
         "planned_at": "2026-11-10T17:43:38.258938+00:00"
-      },
-      "claim": {
-        "worker_id": "533c98360d244d44a18832138b6b6649-shard-0",
-        "claimed_at": "2026-11-10T17:43:38.646365+00:00",
-        "lease_expires_at": "2026-11-10T23:43:38.646365+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984814",
       "prepared": {
@@ -172518,5 +172520,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:44:16.846123+00:00"
+  "updated_at": "2026-11-10T17:44:18.393626+00:00"
 }
