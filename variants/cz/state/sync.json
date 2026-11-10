@@ -109418,17 +109418,19 @@
       }
     },
     "24140": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34470295",
+          "target_video_id": "30983785",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:48:28.319727+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34470295",
         "display_name": "Poslední muž (The Last Man) 720p CZ Dabing",
         "planned_at": "2026-11-10T14:47:22.001723+00:00"
-      },
-      "claim": {
-        "worker_id": "2a2be2d6d6d2400a9e7a22fb0b3e78d2-shard-0",
-        "claimed_at": "2026-11-10T14:47:22.752615+00:00",
-        "lease_expires_at": "2026-11-10T20:47:22.752615+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983785",
       "prepared": {
@@ -166203,5 +166205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:48:07.996026+00:00"
+  "updated_at": "2026-11-10T14:48:28.319744+00:00"
 }
