@@ -53761,13 +53761,6 @@
           "source_id": "33925810",
           "target_video_id": "30780604",
           "permanent": false,
-          "attempted_at": "2026-11-10T12:22:13.028754+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33925810",
-          "target_video_id": "30780604",
-          "permanent": false,
           "attempted_at": "2026-11-10T12:55:22.030736+00:00"
         },
         {
@@ -53776,6 +53769,13 @@
           "target_video_id": "30780604",
           "permanent": false,
           "attempted_at": "2026-11-10T13:29:20.222869+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33925810",
+          "target_video_id": "30780604",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:07:19.804531+00:00"
         }
       ],
       "last_plan": {
@@ -53789,12 +53789,6 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-04T06:13:57.574294+00:00",
         "relay_source_id": "33925810"
-      },
-      "claim": {
-        "worker_id": "8bc736eef5044f65b3b5874064028619-shard-0",
-        "claimed_at": "2026-11-10T14:07:16.867414+00:00",
-        "lease_expires_at": "2026-11-10T20:07:16.867414+00:00",
-        "run_id": "42823888331"
       }
     },
     "1790": {
@@ -107085,17 +107079,19 @@
       }
     },
     "2623": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32711232",
+          "target_video_id": "30983462",
+          "permanent": false,
+          "attempted_at": "2026-11-10T14:07:19.972728+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32711232",
         "display_name": "On the Roof (Na střeše) 1080p CZ Dabing",
         "planned_at": "2026-11-10T14:05:36.818708+00:00"
-      },
-      "claim": {
-        "worker_id": "d98057648bd6434794c2dd9b7136d82b-shard-0",
-        "claimed_at": "2026-11-10T14:05:37.690981+00:00",
-        "lease_expires_at": "2026-11-10T20:05:37.690981+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30983462",
       "prepared": {
@@ -164283,5 +164279,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:07:18.016811+00:00"
+  "updated_at": "2026-11-10T14:07:19.972748+00:00"
 }
