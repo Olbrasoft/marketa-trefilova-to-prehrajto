@@ -111792,17 +111792,19 @@
       }
     },
     "3154": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33199372",
+          "target_video_id": "30984053",
+          "permanent": false,
+          "attempted_at": "2026-11-10T15:21:46.937863+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33199372",
         "display_name": "Yes Man 1080p CZ Dabing",
         "planned_at": "2026-11-10T15:21:04.114196+00:00"
-      },
-      "claim": {
-        "worker_id": "f46cd6b23a064f5bbafec71e453da72c-shard-0",
-        "claimed_at": "2026-11-10T15:21:06.581152+00:00",
-        "lease_expires_at": "2026-11-10T21:21:06.581152+00:00",
-        "run_id": "42823888331"
       },
       "previous_target_id": "30984053",
       "prepared": {
@@ -168257,5 +168259,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:21:37.042937+00:00"
+  "updated_at": "2026-11-10T15:21:46.937879+00:00"
 }
