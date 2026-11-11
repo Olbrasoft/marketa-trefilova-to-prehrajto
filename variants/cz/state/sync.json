@@ -126927,17 +126927,19 @@
       }
     },
     "3107": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34871053",
+          "target_video_id": "30986549",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:50:53.633753+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34871053",
         "display_name": "The Dawns Here Are Quiet (А зори здесь тихие...) (2015) 1080p CZ Dabing",
         "planned_at": "2026-11-11T00:49:40.454784+00:00"
-      },
-      "claim": {
-        "worker_id": "d5ad3ee5ab194d29be86d1c7d7b29a16-shard-0",
-        "claimed_at": "2026-11-11T00:49:42.917891+00:00",
-        "lease_expires_at": "2026-11-11T06:49:42.917891+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986549",
       "prepared": {
@@ -181507,5 +181509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:50:51.987230+00:00"
+  "updated_at": "2026-11-11T00:50:53.633771+00:00"
 }
