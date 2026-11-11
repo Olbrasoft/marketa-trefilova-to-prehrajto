@@ -137793,17 +137793,19 @@
       }
     },
     "15387": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34902657",
+          "target_video_id": "30987945",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:59:04.980629+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34902657",
         "display_name": "Auto Fairy Tales (Autopohádky) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:57:50.895726+00:00"
-      },
-      "claim": {
-        "worker_id": "fe8ed827fc9046ffb18ae342cdd836f0-shard-0",
-        "claimed_at": "2026-11-11T06:57:52.288313+00:00",
-        "lease_expires_at": "2026-11-11T12:57:52.288313+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987945",
       "prepared": {
@@ -190679,5 +190681,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:59:03.384217+00:00"
+  "updated_at": "2026-11-11T06:59:04.980647+00:00"
 }
