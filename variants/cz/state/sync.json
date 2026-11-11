@@ -108521,13 +108521,6 @@
           "source_id": "11729861",
           "target_video_id": "30983619",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:32:27.888832+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11729861",
-          "target_video_id": "30983619",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:06:13.377721+00:00"
         },
         {
@@ -108536,6 +108529,13 @@
           "target_video_id": "30983619",
           "permanent": false,
           "attempted_at": "2026-11-11T03:40:18.086032+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11729861",
+          "target_video_id": "30983619",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:16:34.208207+00:00"
         }
       ],
       "last_plan": {
@@ -111254,7 +111254,7 @@
       "last_plan": {
         "source_id": "28002913",
         "display_name": "The Undertaker (Funebrák) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:40:16.500239+00:00"
+        "planned_at": "2026-11-11T04:16:33.424962+00:00"
       },
       "previous_target_id": "30983814",
       "prepared": {
@@ -111262,6 +111262,12 @@
         "size_bytes": 956000000,
         "prepared_at": "2026-11-10T14:52:53.264826+00:00",
         "relay_source_id": "28002913"
+      },
+      "claim": {
+        "worker_id": "2bad9229a611426a863745ce67f0f02c-shard-0",
+        "claimed_at": "2026-11-11T04:16:33.939757+00:00",
+        "lease_expires_at": "2026-11-11T10:16:33.939757+00:00",
+        "run_id": "42938376778"
       }
     },
     "15320": {
@@ -132411,6 +132417,12 @@
         "source_id": "9621938",
         "display_name": "The Last Bohemian SD CZ Dabing",
         "planned_at": "2026-11-11T04:16:29.950409+00:00"
+      },
+      "claim": {
+        "worker_id": "393a21debd2842a6853b2c780c6e5f8f-shard-0",
+        "claimed_at": "2026-11-11T04:16:31.833748+00:00",
+        "lease_expires_at": "2026-11-11T10:16:31.833748+00:00",
+        "run_id": "42938376778"
       }
     },
     "36732": {
@@ -132418,7 +132430,7 @@
       "last_plan": {
         "source_id": "34720893",
         "display_name": "Faithless Games (Nevěrné hry) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:16:30.078741+00:00"
+        "planned_at": "2026-11-11T04:16:33.675961+00:00"
       }
     },
     "22161": {
@@ -186028,5 +186040,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:16:30.235701+00:00"
+  "updated_at": "2026-11-11T04:16:34.208217+00:00"
 }
