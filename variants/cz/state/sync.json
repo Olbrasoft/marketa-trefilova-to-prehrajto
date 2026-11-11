@@ -112137,13 +112137,6 @@
           "source_id": "35074796",
           "target_video_id": "30983926",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:09:27.969026+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35074796",
-          "target_video_id": "30983926",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:50:36.019543+00:00"
         },
         {
@@ -112152,6 +112145,13 @@
           "target_video_id": "30983926",
           "permanent": false,
           "attempted_at": "2026-11-11T06:41:50.324014+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35074796",
+          "target_video_id": "30983926",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:37:33.838711+00:00"
         }
       ],
       "last_plan": {
@@ -128010,7 +128010,7 @@
       "last_plan": {
         "source_id": "30184929",
         "display_name": "Monster High: Frights, Camera, Action! SD CZ Dabing",
-        "planned_at": "2026-11-11T06:41:49.382111+00:00"
+        "planned_at": "2026-11-11T07:37:32.023370+00:00"
       },
       "previous_target_id": "30986654",
       "prepared": {
@@ -128018,6 +128018,12 @@
         "size_bytes": 817600000,
         "prepared_at": "2026-11-11T01:22:24.184742+00:00",
         "relay_source_id": "30184929"
+      },
+      "claim": {
+        "worker_id": "fd104ae413f446089df780925153d381-shard-0",
+        "claimed_at": "2026-11-11T07:37:32.930801+00:00",
+        "lease_expires_at": "2026-11-11T13:37:32.930801+00:00",
+        "run_id": "42965310158"
       }
     },
     "3125": {
@@ -139099,11 +139105,22 @@
       "last_plan": {
         "source_id": "33944962",
         "display_name": "May Events (Bylo to v máji) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:37:29.304770+00:00"
+        "planned_at": "2026-11-11T07:37:32.363968+00:00"
+      },
+      "claim": {
+        "worker_id": "49e3244865dc44c3b0d0aff8e8eacd7e-shard-0",
+        "claimed_at": "2026-11-11T07:37:33.122085+00:00",
+        "lease_expires_at": "2026-11-11T13:37:33.122085+00:00",
+        "run_id": "42965310158"
       }
     },
     "4267": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34658093",
+        "display_name": "My Uncle Archimedes (Můj strýček Archimedes) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T07:37:32.566885+00:00"
+      }
     },
     "31977": {
       "attempts": []
@@ -191764,5 +191781,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:37:29.797439+00:00"
+  "updated_at": "2026-11-11T07:37:33.838732+00:00"
 }
