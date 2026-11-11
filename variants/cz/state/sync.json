@@ -72262,13 +72262,6 @@
           "source_id": "27386940",
           "target_video_id": "30871996",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:00:52.377500+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27386940",
-          "target_video_id": "30871996",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:54:00.260672+00:00"
         },
         {
@@ -72277,6 +72270,13 @@
           "target_video_id": "30871996",
           "permanent": false,
           "attempted_at": "2026-11-11T07:50:11.446342+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27386940",
+          "target_video_id": "30871996",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:50:42.048805+00:00"
         }
       ],
       "last_plan": {
@@ -74077,7 +74077,7 @@
       "last_plan": {
         "source_id": "24984582",
         "display_name": "Christmas by Starlight 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:50:11.733901+00:00"
+        "planned_at": "2026-11-11T08:50:40.471996+00:00"
       },
       "previous_target_id": "30883462",
       "prepared": {
@@ -74085,6 +74085,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-07T06:42:27.663683+00:00",
         "relay_source_id": "24984582"
+      },
+      "claim": {
+        "worker_id": "233e3b2483ea41c595b55455b7ac3ad9-shard-0",
+        "claimed_at": "2026-11-11T08:50:41.365395+00:00",
+        "lease_expires_at": "2026-11-11T14:50:41.365395+00:00",
+        "run_id": "42965310158"
       }
     },
     "21479": {
@@ -141437,11 +141443,16 @@
       "last_plan": {
         "source_id": "32111003",
         "display_name": "Alemania 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:50:37.371132+00:00"
+        "planned_at": "2026-11-11T08:50:40.751144+00:00"
       }
     },
     "35611": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35286089",
+        "display_name": "Únos 1080p CZ Dabing",
+        "planned_at": "2026-11-11T08:50:40.942228+00:00"
+      }
     },
     "25024": {
       "attempts": []
@@ -193763,5 +193774,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:50:37.756800+00:00"
+  "updated_at": "2026-11-11T08:50:42.048824+00:00"
 }
