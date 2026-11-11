@@ -10895,7 +10895,7 @@
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:05:02.028703+00:00"
+        "planned_at": "2026-11-11T05:45:26.673966+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -10903,6 +10903,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-10-30T19:27:40.852355+00:00",
         "relay_source_id": "32380403"
+      },
+      "claim": {
+        "worker_id": "a867fb51b91e4db8a1c5659c1c88bfc2-shard-0",
+        "claimed_at": "2026-11-11T05:45:27.424519+00:00",
+        "lease_expires_at": "2026-11-11T11:45:27.424519+00:00",
+        "run_id": "42938376778"
       }
     },
     "21748": {
@@ -82417,13 +82423,6 @@
           "source_id": "27791112",
           "target_video_id": "30909958",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:47:28.746394+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27791112",
-          "target_video_id": "30909958",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:23:25.710763+00:00"
         },
         {
@@ -82432,6 +82431,13 @@
           "target_video_id": "30909958",
           "permanent": false,
           "attempted_at": "2026-11-11T05:04:59.829222+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27791112",
+          "target_video_id": "30909958",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:45:27.275519+00:00"
         }
       ],
       "last_plan": {
@@ -82445,12 +82451,6 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-08T06:34:06.156483+00:00",
         "relay_source_id": "27791112"
-      },
-      "claim": {
-        "worker_id": "2e3f51eaf633498896b493934d41a05b-shard-0",
-        "claimed_at": "2026-11-11T05:45:24.121635+00:00",
-        "lease_expires_at": "2026-11-11T11:45:24.121635+00:00",
-        "run_id": "42938376778"
       }
     },
     "28024": {
@@ -135267,7 +135267,7 @@
       "last_plan": {
         "source_id": "34788778",
         "display_name": "Florenc 13,30 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:45:23.830718+00:00"
+        "planned_at": "2026-11-11T05:45:26.911340+00:00"
       }
     },
     "6887": {
@@ -188484,5 +188484,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:45:24.932916+00:00"
+  "updated_at": "2026-11-11T05:45:27.424548+00:00"
 }
