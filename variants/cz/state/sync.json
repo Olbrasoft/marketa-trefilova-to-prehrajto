@@ -111274,13 +111274,6 @@
           "source_id": "28002913",
           "target_video_id": "30983814",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:46:24.950666+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28002913",
-          "target_video_id": "30983814",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:02:18.130137+00:00"
         },
         {
@@ -111289,6 +111282,13 @@
           "target_video_id": "30983814",
           "permanent": false,
           "attempted_at": "2026-11-11T17:39:07.064474+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28002913",
+          "target_video_id": "30983814",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:49:43.876593+00:00"
         }
       ],
       "last_plan": {
@@ -111302,12 +111302,6 @@
         "size_bytes": 956000000,
         "prepared_at": "2026-11-10T14:52:53.264826+00:00",
         "relay_source_id": "28002913"
-      },
-      "claim": {
-        "worker_id": "cb8e11aae89e491c95289828e0ad5760-shard-0",
-        "claimed_at": "2026-11-11T18:49:40.864934+00:00",
-        "lease_expires_at": "2026-11-12T00:49:40.864934+00:00",
-        "run_id": "43067513109"
       }
     },
     "15320": {
@@ -137532,7 +137526,7 @@
       "last_plan": {
         "source_id": "34869110",
         "display_name": "Kopretiny pro zámeckou paní 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:39:08.786173+00:00"
+        "planned_at": "2026-11-11T18:49:43.247673+00:00"
       },
       "previous_target_id": "30987843",
       "prepared": {
@@ -137540,6 +137534,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-11T06:23:27.323165+00:00",
         "relay_source_id": "34869110"
+      },
+      "claim": {
+        "worker_id": "0c9b9a7972b74e7fa254782c95f612b0-shard-0",
+        "claimed_at": "2026-11-11T18:49:43.698883+00:00",
+        "lease_expires_at": "2026-11-12T00:49:43.698883+00:00",
+        "run_id": "43067513109"
       }
     },
     "24384": {
@@ -145356,7 +145356,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:49:40.623537+00:00"
+        "planned_at": "2026-11-11T18:49:43.449255+00:00"
       }
     },
     "13050": {
@@ -197145,5 +197145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:49:41.560055+00:00"
+  "updated_at": "2026-11-11T18:49:43.876610+00:00"
 }
