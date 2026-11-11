@@ -118156,6 +118156,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "d5c6efe13f784989a66fda4bbfaa71a4-shard-0",
+        "claimed_at": "2026-11-11T23:58:10.680787+00:00",
+        "lease_expires_at": "2026-11-12T05:58:10.680787+00:00",
+        "run_id": "43102571398"
       }
     },
     "12374": {
@@ -146181,17 +146187,23 @@
           "attempted_at": "2026-11-11T22:44:58.655741+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "31572130",
-        "display_name": "Three Men Travelling 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:28:59.632456+00:00"
-      },
       "previous_target_id": "30994782",
-      "prepared": {
+      "upload": {
         "target_video_id": "30994782",
-        "size_bytes": 3139683993,
-        "prepared_at": "2026-11-11T22:29:05.175809+00:00",
-        "relay_source_id": "31572130"
+        "display_name": "Three Men Travelling 1080p CZ Dabing",
+        "source_id": "31572130",
+        "source_url": "https://sdilej.cz/31572130/tri-chlapi-na-cestach-1973-web-rip-1080p.mkv",
+        "source_filename": "Tři chlapi na cestách (1973) - web_rip 1080p.mkv",
+        "size_bytes": 3100000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9945417046546936,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/three-men-travelling-1080p-cz-dabing-mkv/891ee4c7b43f9455",
+        "uploaded_at": "2026-11-11T23:58:14.761294+00:00"
       }
     },
     "22435": {
@@ -146318,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-11T23:58:08.198501+00:00"
+        "planned_at": "2026-11-11T23:58:11.740785+00:00"
       }
     },
     "4058": {
@@ -197941,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:58:08.198521+00:00"
+  "updated_at": "2026-11-11T23:58:14.761311+00:00"
 }
