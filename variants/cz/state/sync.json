@@ -21654,13 +21654,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:10:52.959391+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:47:53.150483+00:00"
         },
         {
@@ -21669,6 +21662,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-11T03:20:28.781602+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:55:39.621037+00:00"
         }
       ],
       "last_plan": {
@@ -21682,12 +21682,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
-      },
-      "claim": {
-        "worker_id": "97ab286848a4408db40bbb1ae1268ffd-shard-0",
-        "claimed_at": "2026-11-11T03:55:37.391738+00:00",
-        "lease_expires_at": "2026-11-11T09:55:37.391738+00:00",
-        "run_id": "42938376778"
       }
     },
     "677": {
@@ -109613,7 +109607,7 @@
       "last_plan": {
         "source_id": "33708286",
         "display_name": "Kam slunce nechodí (Kam slunce nechodí...) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:20:30.882205+00:00"
+        "planned_at": "2026-11-11T03:55:39.117493+00:00"
       },
       "previous_target_id": "30983694",
       "prepared": {
@@ -109621,6 +109615,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T14:36:10.697920+00:00",
         "relay_source_id": "33708286"
+      },
+      "claim": {
+        "worker_id": "fa6fee36e2ab4ba095a580017a210e70-shard-0",
+        "claimed_at": "2026-11-11T03:55:39.752012+00:00",
+        "lease_expires_at": "2026-11-11T09:55:39.752012+00:00",
+        "run_id": "42938376778"
       }
     },
     "35753": {
@@ -131741,7 +131741,7 @@
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:55:36.997226+00:00"
+        "planned_at": "2026-11-11T03:55:39.327133+00:00"
       }
     },
     "31944": {
@@ -185492,5 +185492,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:55:37.532049+00:00"
+  "updated_at": "2026-11-11T03:55:39.752028+00:00"
 }
