@@ -112438,13 +112438,6 @@
           "source_id": "33495930",
           "target_video_id": "30983976",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:19:27.037022+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33495930",
-          "target_video_id": "30983976",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:52:25.264681+00:00"
         },
         {
@@ -112453,6 +112446,13 @@
           "target_video_id": "30983976",
           "permanent": false,
           "attempted_at": "2026-11-11T03:25:12.501507+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33495930",
+          "target_video_id": "30983976",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:00:49.895953+00:00"
         }
       ],
       "last_plan": {
@@ -115991,7 +115991,7 @@
       "last_plan": {
         "source_id": "31728968",
         "display_name": "Thirteen 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:25:12.068293+00:00"
+        "planned_at": "2026-11-11T04:00:48.438484+00:00"
       },
       "previous_target_id": "30984695",
       "prepared": {
@@ -115999,6 +115999,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T17:19:32.952001+00:00",
         "relay_source_id": "31728968"
+      },
+      "claim": {
+        "worker_id": "f4f1dbf05bce47bd9cba802b8f86a332-shard-0",
+        "claimed_at": "2026-11-11T04:00:48.923107+00:00",
+        "lease_expires_at": "2026-11-11T10:00:48.923107+00:00",
+        "run_id": "42938376778"
       }
     },
     "2907": {
@@ -131912,7 +131918,7 @@
       "last_plan": {
         "source_id": "30905918",
         "display_name": "Ta chvíle, ten okamžik (That Instant, That While) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:00:46.654162+00:00"
+        "planned_at": "2026-11-11T04:00:48.644054+00:00"
       }
     },
     "16081": {
@@ -185621,5 +185627,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:00:46.654173+00:00"
+  "updated_at": "2026-11-11T04:00:49.895962+00:00"
 }
