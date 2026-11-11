@@ -145587,17 +145587,19 @@
       }
     },
     "13952": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13070317",
+          "target_video_id": "30993367",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:55:10.515173+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13070317",
         "display_name": "Hailey Dean Mysteries: Death on Duty 1080p CZ Dabing",
         "planned_at": "2026-11-11T19:42:21.269763+00:00"
-      },
-      "claim": {
-        "worker_id": "4cdb8e16a498415ebc33615419dd8bba-shard-0",
-        "claimed_at": "2026-11-11T19:42:21.825151+00:00",
-        "lease_expires_at": "2026-11-12T01:42:21.825151+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30993367",
       "prepared": {
@@ -197347,5 +197349,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:55:04.521053+00:00"
+  "updated_at": "2026-11-11T19:55:10.515204+00:00"
 }
