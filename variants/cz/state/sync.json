@@ -140896,17 +140896,19 @@
       "attempts": []
     },
     "24556": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34705988",
+          "target_video_id": "30988511",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:36:59.912544+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34705988",
         "display_name": "Affairs of My Wife 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:36:14.579926+00:00"
-      },
-      "claim": {
-        "worker_id": "e8126dccbcc64b1d8f399e9cc345b68f-shard-0",
-        "claimed_at": "2026-11-11T08:36:16.978919+00:00",
-        "lease_expires_at": "2026-11-11T14:36:16.978919+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988511",
       "prepared": {
@@ -193334,5 +193336,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:36:58.283068+00:00"
+  "updated_at": "2026-11-11T08:36:59.912563+00:00"
 }
