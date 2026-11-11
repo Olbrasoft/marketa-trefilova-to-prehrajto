@@ -134303,17 +134303,19 @@
       }
     },
     "26886": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34709626",
+          "target_video_id": "30987590",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:19:29.098922+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34709626",
         "display_name": "Over the Hills 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:18:46.946604+00:00"
-      },
-      "claim": {
-        "worker_id": "72e3c4f4e68544bca4a44b6de3e6e051-shard-0",
-        "claimed_at": "2026-11-11T05:18:47.479203+00:00",
-        "lease_expires_at": "2026-11-11T11:18:47.479203+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987590",
       "prepared": {
@@ -187686,5 +187688,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:19:27.545824+00:00"
+  "updated_at": "2026-11-11T05:19:29.098939+00:00"
 }
