@@ -114394,6 +114394,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T16:03:06.555910+00:00",
         "relay_source_id": "34379944"
+      },
+      "claim": {
+        "worker_id": "68fae0dde8f74af9b7d13b34cd13e003-shard-0",
+        "claimed_at": "2026-11-11T03:49:12.391113+00:00",
+        "lease_expires_at": "2026-11-11T09:49:12.391113+00:00",
+        "run_id": "42938376778"
       }
     },
     "3137": {
@@ -115124,7 +115130,7 @@
       "last_plan": {
         "source_id": "27423356",
         "display_name": "A Christmas Carol (2009) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:14:02.710021+00:00"
+        "planned_at": "2026-11-11T03:49:12.557242+00:00"
       },
       "previous_target_id": "30984629",
       "prepared": {
@@ -129963,6 +129969,13 @@
           "target_video_id": "30986923",
           "permanent": false,
           "attempted_at": "2026-11-11T03:14:00.743036+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713662",
+          "target_video_id": "30986923",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:49:12.256324+00:00"
         }
       ],
       "last_plan": {
@@ -129976,12 +129989,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-11T02:40:48.302568+00:00",
         "relay_source_id": "34713662"
-      },
-      "claim": {
-        "worker_id": "3b9f2d111eb24fc8ad7e6cba3e37fde3-shard-0",
-        "claimed_at": "2026-11-11T03:49:06.707613+00:00",
-        "lease_expires_at": "2026-11-11T09:49:06.707613+00:00",
-        "run_id": "42938376778"
       }
     },
     "10813": {
@@ -131536,7 +131543,7 @@
       "last_plan": {
         "source_id": "17465562",
         "display_name": "Daily Fables (De Fabeltjeskrant: de Grote Dierenbos-spelen) 720p CZ Dabing",
-        "planned_at": "2026-11-11T03:49:10.675887+00:00"
+        "planned_at": "2026-11-11T03:49:12.760214+00:00"
       }
     },
     "24245": {
@@ -185317,5 +185324,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:49:10.675897+00:00"
+  "updated_at": "2026-11-11T03:49:12.760223+00:00"
 }
