@@ -627,3 +627,4 @@ Attach subtitles only after target processing has finished.
 | Skyking (#SKYKING) 1080p CZ Titulky | 30987918 | https://sdilej.cz/34014919/skyking.2026.sk.titulky.1080p.mkv | Extract Czech track from exact source after processing |
 | Beavis and Butt-Head Do the Universe 1080p CZ Titulky | 30987932 | https://sdilej.cz/23076909/beavis-and-butt-head-do-the-universe-2022-1080p.mkv | Extract Czech track from exact source after processing |
 | The Place SD CZ Titulky | 30988255 | https://sdilej.cz/9657833/misto-splnenych-prani-the-place-2017-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Night of the 12th (La Nuit du 12) 1080p CZ Titulky | 30988430 | https://sdilej.cz/26365359/la-nuit-du-12-the-night-of-the-12th-2022-sktit-v-obraze-bluray-1080p.mkv | Extract Czech track from exact source after processing |
