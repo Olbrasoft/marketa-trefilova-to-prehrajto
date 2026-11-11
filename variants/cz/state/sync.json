@@ -123236,13 +123236,6 @@
           "source_id": "16256834",
           "target_video_id": "30985618",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:44:23.926485+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16256834",
-          "target_video_id": "30985618",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:33:48.506448+00:00"
         },
         {
@@ -123251,6 +123244,13 @@
           "target_video_id": "30985618",
           "permanent": false,
           "attempted_at": "2026-11-11T07:28:14.321738+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16256834",
+          "target_video_id": "30985618",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:26:49.368089+00:00"
         }
       ],
       "last_plan": {
@@ -129928,7 +129928,7 @@
       "last_plan": {
         "source_id": "27361344",
         "display_name": "The Very Late Afternoon of a Faun (Faunovo velmi pozdní odpoledne) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:28:15.885601+00:00"
+        "planned_at": "2026-11-11T08:26:47.554126+00:00"
       },
       "previous_target_id": "30986908",
       "prepared": {
@@ -129936,6 +129936,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-11T02:38:37.729548+00:00",
         "relay_source_id": "27361344"
+      },
+      "claim": {
+        "worker_id": "70e6014eb544420a8f49fcd03430150e-shard-0",
+        "claimed_at": "2026-11-11T08:26:48.438469+00:00",
+        "lease_expires_at": "2026-11-11T14:26:48.438469+00:00",
+        "run_id": "42965310158"
       }
     },
     "2834": {
@@ -140624,11 +140630,16 @@
       "last_plan": {
         "source_id": "23685410",
         "display_name": "Prípad dvou básníku (Případ dvou básníků) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:26:40.587387+00:00"
+        "planned_at": "2026-11-11T08:26:47.821175+00:00"
       }
     },
     "35291": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "18958721",
+        "display_name": "Wie von einem anderen Stern (Rosamunde Pilcher: Wie von einem anderen Stern) 720p CZ Dabing",
+        "planned_at": "2026-11-11T08:26:47.992550+00:00"
+      }
     },
     "3271": {
       "attempts": []
@@ -193064,5 +193075,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:26:40.587405+00:00"
+  "updated_at": "2026-11-11T08:26:49.368108+00:00"
 }
