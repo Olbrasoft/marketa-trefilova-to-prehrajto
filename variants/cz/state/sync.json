@@ -105791,13 +105791,6 @@
           "source_id": "30045237",
           "target_video_id": "30978930",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:58:18.992103+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30045237",
-          "target_video_id": "30978930",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:38:29.751590+00:00"
         },
         {
@@ -105806,12 +105799,19 @@
           "target_video_id": "30978930",
           "permanent": false,
           "attempted_at": "2026-11-11T03:11:09.289058+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30045237",
+          "target_video_id": "30978930",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:45:34.676939+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30045237",
         "display_name": "Man versus Ruin (Člověk proti zkáze) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:11:06.674778+00:00"
+        "planned_at": "2026-11-11T03:45:32.526332+00:00"
       },
       "previous_target_id": "30978930",
       "prepared": {
@@ -131380,11 +131380,22 @@
       "last_plan": {
         "source_id": "34715074",
         "display_name": "Grandpa, Kylian and I (Dědeček, Kyliján a já) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:45:28.989968+00:00"
+        "planned_at": "2026-11-11T03:45:32.757273+00:00"
+      },
+      "claim": {
+        "worker_id": "046abf1ec88a4001afb5a55e91f2c9c4-shard-0",
+        "claimed_at": "2026-11-11T03:45:33.347509+00:00",
+        "lease_expires_at": "2026-11-11T09:45:33.347509+00:00",
+        "run_id": "42938376778"
       }
     },
     "12809": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34676372",
+        "display_name": "Fly, Bird, Fly! (Leť, ptáku leť!) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T03:45:32.907196+00:00"
+      }
     },
     "35743": {
       "attempts": []
@@ -185194,5 +185205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:45:30.843960+00:00"
+  "updated_at": "2026-11-11T03:45:34.676950+00:00"
 }
