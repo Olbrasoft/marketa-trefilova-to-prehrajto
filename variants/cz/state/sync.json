@@ -141888,17 +141888,19 @@
       }
     },
     "37450": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35265394",
+          "target_video_id": "30988645",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:03:14.263016+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35265394",
         "display_name": "Stereo Girls 720p CZ Dabing",
         "planned_at": "2026-11-11T09:02:28.360274+00:00"
-      },
-      "claim": {
-        "worker_id": "2051df3dc5b64a62a024e25e982af914-shard-0",
-        "claimed_at": "2026-11-11T09:02:30.751925+00:00",
-        "lease_expires_at": "2026-11-11T15:02:30.751925+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988645",
       "prepared": {
@@ -194161,5 +194163,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:03:12.526525+00:00"
+  "updated_at": "2026-11-11T09:03:14.263035+00:00"
 }
