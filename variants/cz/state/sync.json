@@ -140603,17 +140603,19 @@
       "attempts": []
     },
     "8673": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28380593",
+          "target_video_id": "30988425",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:26:38.609599+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28380593",
         "display_name": "A Sensitive Person (Citlivý člověk) 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:25:26.727905+00:00"
-      },
-      "claim": {
-        "worker_id": "fa55c43aebf34260bdf3fb4c3914f323-shard-0",
-        "claimed_at": "2026-11-11T08:25:27.421171+00:00",
-        "lease_expires_at": "2026-11-11T14:25:27.421171+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988425",
       "prepared": {
@@ -193068,5 +193070,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:26:36.426159+00:00"
+  "updated_at": "2026-11-11T08:26:38.609614+00:00"
 }
