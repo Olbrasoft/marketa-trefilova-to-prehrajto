@@ -116352,13 +116352,6 @@
           "source_id": "34455392",
           "target_video_id": "30984733",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:47:24.738490+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34455392",
-          "target_video_id": "30984733",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:27:53.454248+00:00"
         },
         {
@@ -116367,6 +116360,13 @@
           "target_video_id": "30984733",
           "permanent": false,
           "attempted_at": "2026-11-11T03:00:25.701707+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34455392",
+          "target_video_id": "30984733",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:35:31.459496+00:00"
         }
       ],
       "last_plan": {
@@ -116380,12 +116380,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:26:35.994058+00:00",
         "relay_source_id": "34455392"
-      },
-      "claim": {
-        "worker_id": "135232d30254449db4aa1e7760d3d78e-shard-0",
-        "claimed_at": "2026-11-11T03:35:29.165738+00:00",
-        "lease_expires_at": "2026-11-11T09:35:29.165738+00:00",
-        "run_id": "42938376778"
       }
     },
     "11240": {
@@ -118124,7 +118118,7 @@
       "last_plan": {
         "source_id": "27866187",
         "display_name": "Great Expectations (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:00:25.206694+00:00"
+        "planned_at": "2026-11-11T03:35:30.810840+00:00"
       },
       "previous_target_id": "30984865",
       "prepared": {
@@ -118132,6 +118126,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T17:58:08.493272+00:00",
         "relay_source_id": "27866187"
+      },
+      "claim": {
+        "worker_id": "8c2dfe2b24a84b879df4dca7951f69bf-shard-0",
+        "claimed_at": "2026-11-11T03:35:31.310405+00:00",
+        "lease_expires_at": "2026-11-11T09:35:31.310405+00:00",
+        "run_id": "42938376778"
       }
     },
     "2985": {
@@ -130957,7 +130957,7 @@
       "last_plan": {
         "source_id": "30658031",
         "display_name": "In the Still of the Night (Za tichých nocí) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:35:28.913648+00:00"
+        "planned_at": "2026-11-11T03:35:31.056951+00:00"
       }
     },
     "2800": {
@@ -184834,5 +184834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:35:29.325118+00:00"
+  "updated_at": "2026-11-11T03:35:31.459506+00:00"
 }
