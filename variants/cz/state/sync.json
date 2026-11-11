@@ -114604,13 +114604,6 @@
           "source_id": "30903286",
           "target_video_id": "30984508",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:47:15.430006+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30903286",
-          "target_video_id": "30984508",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:27:47.474940+00:00"
         },
         {
@@ -114619,6 +114612,13 @@
           "target_video_id": "30984508",
           "permanent": false,
           "attempted_at": "2026-11-11T02:10:28.455485+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30903286",
+          "target_video_id": "30984508",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:47:33.641505+00:00"
         }
       ],
       "last_plan": {
@@ -127209,7 +127209,7 @@
       "last_plan": {
         "source_id": "32484287",
         "display_name": "Christmas in Conway 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:10:28.229015+00:00"
+        "planned_at": "2026-11-11T02:47:32.609391+00:00"
       },
       "previous_target_id": "30986499",
       "prepared": {
@@ -127217,6 +127217,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T00:40:39.948679+00:00",
         "relay_source_id": "32484287"
+      },
+      "claim": {
+        "worker_id": "c9fa4670d95745dca0980f382ac71257-shard-0",
+        "claimed_at": "2026-11-11T02:47:33.139749+00:00",
+        "lease_expires_at": "2026-11-11T08:47:33.139749+00:00",
+        "run_id": "42938376778"
       }
     },
     "16080": {
@@ -129653,6 +129659,12 @@
         "source_id": "30624932",
         "display_name": "The Cry (Křik) SD CZ Dabing",
         "planned_at": "2026-11-11T02:47:30.240268+00:00"
+      },
+      "claim": {
+        "worker_id": "b7a3b24924e4463c89d7075febe3e384-shard-0",
+        "claimed_at": "2026-11-11T02:47:32.448274+00:00",
+        "lease_expires_at": "2026-11-11T08:47:32.448274+00:00",
+        "run_id": "42938376778"
       }
     },
     "20748": {
@@ -129660,7 +129672,7 @@
       "last_plan": {
         "source_id": "34450608",
         "display_name": "Fairy Tales for Emma (Pohádky pro Emu) SD CZ Dabing",
-        "planned_at": "2026-11-11T02:47:30.367379+00:00"
+        "planned_at": "2026-11-11T02:47:32.819033+00:00"
       }
     },
     "32726": {
@@ -183726,5 +183738,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:47:30.630302+00:00"
+  "updated_at": "2026-11-11T02:47:33.641514+00:00"
 }
