@@ -8595,7 +8595,7 @@
       "last_plan": {
         "source_id": "17777440",
         "display_name": "Friends: The Reunion 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:43:18.424855+00:00"
+        "planned_at": "2026-11-11T08:43:08.866147+00:00"
       },
       "previous_target_id": "30631282",
       "prepared": {
@@ -22286,13 +22286,6 @@
           "source_id": "18074667",
           "target_video_id": "30692683",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:54:58.595981+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074667",
-          "target_video_id": "30692683",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:47:15.135209+00:00"
         },
         {
@@ -22301,6 +22294,13 @@
           "target_video_id": "30692683",
           "permanent": false,
           "attempted_at": "2026-11-11T07:43:18.636447+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074667",
+          "target_video_id": "30692683",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:43:09.384272+00:00"
         }
       ],
       "last_plan": {
@@ -22314,12 +22314,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
-      },
-      "claim": {
-        "worker_id": "f10153b1e9464ecebdb96f0317cd5a38-shard-0",
-        "claimed_at": "2026-11-11T08:43:06.021382+00:00",
-        "lease_expires_at": "2026-11-11T14:43:06.021382+00:00",
-        "run_id": "42965310158"
       }
     },
     "730": {
@@ -141138,17 +141132,19 @@
       }
     },
     "37183": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31587673",
+          "target_video_id": "30988555",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:43:09.588145+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31587673",
         "display_name": "Puffin Rock and the New Friends 720p CZ Dabing",
         "planned_at": "2026-11-11T08:42:28.066772+00:00"
-      },
-      "claim": {
-        "worker_id": "c65edba7e3314817870d0ae0e210e8d3-shard-0",
-        "claimed_at": "2026-11-11T08:42:28.818592+00:00",
-        "lease_expires_at": "2026-11-11T14:42:28.818592+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988555",
       "prepared": {
@@ -141175,7 +141171,7 @@
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Broken Promise 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:43:05.585212+00:00"
+        "planned_at": "2026-11-11T08:43:09.141879+00:00"
       }
     },
     "36843": {
@@ -193537,5 +193533,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:43:07.099078+00:00"
+  "updated_at": "2026-11-11T08:43:09.588170+00:00"
 }
