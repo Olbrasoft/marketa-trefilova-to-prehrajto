@@ -6953,13 +6953,6 @@
           "source_id": "31074308",
           "target_video_id": "30626698",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:55:29.021063+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31074308",
-          "target_video_id": "30626698",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:32:37.310113+00:00"
         },
         {
@@ -6968,12 +6961,19 @@
           "target_video_id": "30626698",
           "permanent": false,
           "attempted_at": "2026-11-11T05:13:58.881499+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31074308",
+          "target_video_id": "30626698",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:55:29.649879+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:13:56.722851+00:00"
+        "planned_at": "2026-11-11T05:55:27.042037+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -135647,11 +135647,22 @@
       "last_plan": {
         "source_id": "34861474",
         "display_name": "Amnesty (Amnestie) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:55:21.977736+00:00"
+        "planned_at": "2026-11-11T05:55:27.274516+00:00"
+      },
+      "claim": {
+        "worker_id": "353760cda2fe49bd85f5ece1797f7ad6-shard-0",
+        "claimed_at": "2026-11-11T05:55:27.792223+00:00",
+        "lease_expires_at": "2026-11-11T11:55:27.792223+00:00",
+        "run_id": "42938376778"
       }
     },
     "27047": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33063567",
+        "display_name": "Anny 1080p CZ Dabing",
+        "planned_at": "2026-11-11T05:55:27.407325+00:00"
+      }
     },
     "15334": {
       "attempts": []
@@ -188810,5 +188821,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:55:25.347900+00:00"
+  "updated_at": "2026-11-11T05:55:29.649892+00:00"
 }
