@@ -133279,17 +133279,19 @@
       }
     },
     "32433": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30622989",
+          "target_video_id": "30987471",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:52:38.948944+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30622989",
         "display_name": "Concert at the End of Summer (Koncert na konci léta) SD CZ Dabing",
         "planned_at": "2026-11-11T04:50:03.519428+00:00"
-      },
-      "claim": {
-        "worker_id": "e04f0b2c660b4c679d6bd11d8059faec-shard-0",
-        "claimed_at": "2026-11-11T04:50:05.458690+00:00",
-        "lease_expires_at": "2026-11-11T10:50:05.458690+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987471",
       "prepared": {
@@ -186818,5 +186820,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:52:37.421155+00:00"
+  "updated_at": "2026-11-11T04:52:38.948961+00:00"
 }
