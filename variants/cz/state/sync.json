@@ -108179,13 +108179,6 @@
           "source_id": "34783018",
           "target_video_id": "30983586",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:32:31.381198+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34783018",
-          "target_video_id": "30983586",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:09:20.870697+00:00"
         },
         {
@@ -108194,6 +108187,13 @@
           "target_video_id": "30983586",
           "permanent": false,
           "attempted_at": "2026-11-11T04:49:19.615332+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34783018",
+          "target_video_id": "30983586",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:28:29.181561+00:00"
         }
       ],
       "last_plan": {
@@ -108273,7 +108273,7 @@
       "last_plan": {
         "source_id": "29867066",
         "display_name": "Revizor (1933) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:49:17.967119+00:00"
+        "planned_at": "2026-11-11T05:28:27.867821+00:00"
       },
       "previous_target_id": "30983587",
       "prepared": {
@@ -108281,6 +108281,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:18:45.157766+00:00",
         "relay_source_id": "29867066"
+      },
+      "claim": {
+        "worker_id": "b2d24f9fb25f47b3b0b5151e5f934403-shard-0",
+        "claimed_at": "2026-11-11T05:28:28.485250+00:00",
+        "lease_expires_at": "2026-11-11T11:28:28.485250+00:00",
+        "run_id": "42938376778"
       }
     },
     "31159": {
@@ -134620,7 +134626,7 @@
       "last_plan": {
         "source_id": "30696489",
         "display_name": "Bláhový sen 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:28:26.176800+00:00"
+        "planned_at": "2026-11-11T05:28:28.078273+00:00"
       }
     },
     "35394": {
@@ -187936,5 +187942,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:28:26.176808+00:00"
+  "updated_at": "2026-11-11T05:28:29.181572+00:00"
 }
