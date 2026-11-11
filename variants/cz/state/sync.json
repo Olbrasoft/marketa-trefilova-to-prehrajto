@@ -83436,13 +83436,6 @@
           "source_id": "30859189",
           "target_video_id": "30915737",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:04:28.660345+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30859189",
-          "target_video_id": "30915737",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:57:52.125209+00:00"
         },
         {
@@ -83451,6 +83444,13 @@
           "target_video_id": "30915737",
           "permanent": false,
           "attempted_at": "2026-11-11T07:54:16.086504+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30859189",
+          "target_video_id": "30915737",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:54:52.637559+00:00"
         }
       ],
       "last_plan": {
@@ -83464,12 +83464,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-08T11:13:22.427450+00:00",
         "relay_source_id": "30859189"
-      },
-      "claim": {
-        "worker_id": "54ab96cca44141d0a43a4c2b5596f5a1-shard-0",
-        "claimed_at": "2026-11-11T08:54:50.101078+00:00",
-        "lease_expires_at": "2026-11-11T14:54:50.101078+00:00",
-        "run_id": "42965310158"
       }
     },
     "2309": {
@@ -83583,7 +83577,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:54:14.368053+00:00"
+        "planned_at": "2026-11-11T08:54:51.903333+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -141578,11 +141572,16 @@
       "last_plan": {
         "source_id": "30610125",
         "display_name": "Raging Barbora (Barbora řádí) SD CZ Dabing",
-        "planned_at": "2026-11-11T08:54:48.140813+00:00"
+        "planned_at": "2026-11-11T08:54:52.241668+00:00"
       }
     },
     "28498": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34850592",
+        "display_name": "Like Never Before (Jako nikdy) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T08:54:52.416615+00:00"
+      }
     },
     "32891": {
       "attempts": []
@@ -193892,5 +193891,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:54:50.101106+00:00"
+  "updated_at": "2026-11-11T08:54:52.637580+00:00"
 }
