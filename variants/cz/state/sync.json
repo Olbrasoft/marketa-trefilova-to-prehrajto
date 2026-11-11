@@ -121830,13 +121830,6 @@
           "source_id": "30248781",
           "target_video_id": "30985442",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:12:39.074951+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30248781",
-          "target_video_id": "30985442",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:54:03.023976+00:00"
         },
         {
@@ -121845,6 +121838,13 @@
           "target_video_id": "30985442",
           "permanent": false,
           "attempted_at": "2026-11-11T06:46:01.844042+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30248781",
+          "target_video_id": "30985442",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:42:08.847937+00:00"
         }
       ],
       "last_plan": {
@@ -136424,7 +136424,7 @@
       "last_plan": {
         "source_id": "29399903",
         "display_name": "Murder in Angoulême (Le Prix de la trahison) SD CZ Dabing",
-        "planned_at": "2026-11-11T06:46:02.476633+00:00"
+        "planned_at": "2026-11-11T07:42:07.325160+00:00"
       },
       "previous_target_id": "30987744",
       "prepared": {
@@ -136432,6 +136432,12 @@
         "size_bytes": 829700000,
         "prepared_at": "2026-11-11T05:53:04.545604+00:00",
         "relay_source_id": "29399903"
+      },
+      "claim": {
+        "worker_id": "c54130388e404ae8bff0143127f83fb6-shard-0",
+        "claimed_at": "2026-11-11T07:42:08.020830+00:00",
+        "lease_expires_at": "2026-11-11T13:42:08.020830+00:00",
+        "run_id": "42965310158"
       }
     },
     "20710": {
@@ -139277,6 +139283,12 @@
         "source_id": "32763044",
         "display_name": "Prázdniny pro psa 4K CZ Dabing",
         "planned_at": "2026-11-11T07:42:05.023410+00:00"
+      },
+      "claim": {
+        "worker_id": "e8a10aa9c66f46a4bad53c1fea760d80-shard-0",
+        "claimed_at": "2026-11-11T07:42:07.120059+00:00",
+        "lease_expires_at": "2026-11-11T13:42:07.120059+00:00",
+        "run_id": "42965310158"
       }
     },
     "34825": {
@@ -139284,7 +139296,7 @@
       "last_plan": {
         "source_id": "34720000",
         "display_name": "Hasici (Hasiči) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:42:05.195737+00:00"
+        "planned_at": "2026-11-11T07:42:07.599453+00:00"
       }
     },
     "24478": {
@@ -191925,5 +191937,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:42:05.195753+00:00"
+  "updated_at": "2026-11-11T07:42:08.847956+00:00"
 }
