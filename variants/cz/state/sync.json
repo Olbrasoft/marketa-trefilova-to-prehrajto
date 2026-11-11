@@ -115888,6 +115888,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T17:16:56.893144+00:00",
         "relay_source_id": "33799960"
+      },
+      "claim": {
+        "worker_id": "c2a0b02af2434a939c341e50882072d9-shard-0",
+        "claimed_at": "2026-11-11T03:56:40.321714+00:00",
+        "lease_expires_at": "2026-11-11T09:56:40.321714+00:00",
+        "run_id": "42938376778"
       }
     },
     "2983": {
@@ -123827,13 +123833,6 @@
           "source_id": "10827431",
           "target_video_id": "30985726",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:14:51.721132+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10827431",
-          "target_video_id": "30985726",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:48:44.579834+00:00"
         },
         {
@@ -123842,6 +123841,13 @@
           "target_video_id": "30985726",
           "permanent": false,
           "attempted_at": "2026-11-11T03:21:18.894263+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10827431",
+          "target_video_id": "30985726",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:56:40.993309+00:00"
         }
       ],
       "last_plan": {
@@ -123855,12 +123861,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T21:31:25.000011+00:00",
         "relay_source_id": "10827431"
-      },
-      "claim": {
-        "worker_id": "e5dab769debe46d39a97ea9427abdae9-shard-0",
-        "claimed_at": "2026-11-11T03:56:38.341214+00:00",
-        "lease_expires_at": "2026-11-11T09:56:38.341214+00:00",
-        "run_id": "42938376778"
       }
     },
     "21072": {
@@ -124811,7 +124811,7 @@
       "last_plan": {
         "source_id": "34296329",
         "display_name": "Contra 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:21:20.667822+00:00"
+        "planned_at": "2026-11-11T03:56:40.480206+00:00"
       },
       "previous_target_id": "30985822",
       "prepared": {
@@ -124819,6 +124819,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T22:05:34.736105+00:00",
         "relay_source_id": "34296329"
+      },
+      "claim": {
+        "worker_id": "ebc2d4111dd04b218792790a3ea20252-shard-0",
+        "claimed_at": "2026-11-11T03:56:41.131306+00:00",
+        "lease_expires_at": "2026-11-11T09:56:41.131306+00:00",
+        "run_id": "42938376778"
       }
     },
     "27073": {
@@ -131743,7 +131749,7 @@
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:56:38.707871+00:00"
+        "planned_at": "2026-11-11T03:56:40.686980+00:00"
       }
     },
     "31944": {
@@ -185494,5 +185500,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:56:38.707880+00:00"
+  "updated_at": "2026-11-11T03:56:41.131319+00:00"
 }
