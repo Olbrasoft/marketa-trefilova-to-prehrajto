@@ -124545,13 +124545,6 @@
           "source_id": "19162385",
           "target_video_id": "30985778",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:52:12.071460+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19162385",
-          "target_video_id": "30985778",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:04:48.587873+00:00"
         },
         {
@@ -124560,6 +124553,13 @@
           "target_video_id": "30985778",
           "permanent": false,
           "attempted_at": "2026-11-11T15:26:53.956483+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19162385",
+          "target_video_id": "30985778",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:00:40.918021+00:00"
         }
       ],
       "last_plan": {
@@ -124573,12 +124573,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T21:50:28.199739+00:00",
         "relay_source_id": "19162385"
-      },
-      "claim": {
-        "worker_id": "82559866ecc34f608574c2556ef102c2-shard-0",
-        "claimed_at": "2026-11-11T18:00:38.527927+00:00",
-        "lease_expires_at": "2026-11-12T00:00:38.527927+00:00",
-        "run_id": "43067513109"
       }
     },
     "30021": {
@@ -138203,7 +138197,7 @@
       "last_plan": {
         "source_id": "34715012",
         "display_name": "Prijela k nám pout (Přijela k nám pouť) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:26:55.691812+00:00"
+        "planned_at": "2026-11-11T18:00:40.312223+00:00"
       },
       "previous_target_id": "30987898",
       "prepared": {
@@ -138211,6 +138205,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T06:39:37.815546+00:00",
         "relay_source_id": "34715012"
+      },
+      "claim": {
+        "worker_id": "2e176515894c40268507c744a37c7ece-shard-0",
+        "claimed_at": "2026-11-11T18:00:40.768039+00:00",
+        "lease_expires_at": "2026-11-12T00:00:40.768039+00:00",
+        "run_id": "43067513109"
       }
     },
     "10736": {
@@ -145131,7 +145131,7 @@
       "last_plan": {
         "source_id": "28089630",
         "display_name": "The Pearl Maiden (O perlové panně) SD CZ Dabing",
-        "planned_at": "2026-11-11T18:00:38.284758+00:00"
+        "planned_at": "2026-11-11T18:00:40.522365+00:00"
       }
     },
     "4314": {
@@ -196956,5 +196956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:00:38.694791+00:00"
+  "updated_at": "2026-11-11T18:00:40.918035+00:00"
 }
