@@ -133117,7 +133117,7 @@
       "last_plan": {
         "source_id": "9621938",
         "display_name": "The Last Bohemian SD CZ Dabing",
-        "planned_at": "2026-11-11T12:32:07.902709+00:00"
+        "planned_at": "2026-11-11T13:47:22.302869+00:00"
       },
       "previous_target_id": "30987320",
       "prepared": {
@@ -133125,6 +133125,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T04:16:35.918680+00:00",
         "relay_source_id": "9621938"
+      },
+      "claim": {
+        "worker_id": "5516dd53f73e42d49be896abb01d3cba-shard-0",
+        "claimed_at": "2026-11-11T13:47:23.307787+00:00",
+        "lease_expires_at": "2026-11-11T19:47:23.307787+00:00",
+        "run_id": "43011363893"
       }
     },
     "36732": {
@@ -134024,13 +134030,6 @@
           "source_id": "28002899",
           "target_video_id": "30987491",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:17:00.190822+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28002899",
-          "target_video_id": "30987491",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:21:28.633638+00:00"
         },
         {
@@ -134039,6 +134038,13 @@
           "target_video_id": "30987491",
           "permanent": false,
           "attempted_at": "2026-11-11T12:32:08.179009+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28002899",
+          "target_video_id": "30987491",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:47:24.200929+00:00"
         }
       ],
       "last_plan": {
@@ -144309,7 +144315,13 @@
       "last_plan": {
         "source_id": "34876340",
         "display_name": "Past na kachnu 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:47:20.046461+00:00"
+        "planned_at": "2026-11-11T13:47:22.626693+00:00"
+      },
+      "claim": {
+        "worker_id": "ca691ac4680648a8bac1ca30d8ec71ba-shard-0",
+        "claimed_at": "2026-11-11T13:47:23.549100+00:00",
+        "lease_expires_at": "2026-11-11T19:47:23.549100+00:00",
+        "run_id": "43011363893"
       }
     },
     "32526": {
@@ -144319,7 +144331,12 @@
       "attempts": []
     },
     "15843": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34134271",
+        "display_name": "Definice lásky 1080p CZ Dabing",
+        "planned_at": "2026-11-11T13:47:22.873538+00:00"
+      }
     },
     "37404": {
       "attempts": []
@@ -196290,5 +196307,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:47:20.046479+00:00"
+  "updated_at": "2026-11-11T13:47:24.200945+00:00"
 }
