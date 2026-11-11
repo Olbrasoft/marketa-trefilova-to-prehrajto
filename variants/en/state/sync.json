@@ -34116,13 +34116,6 @@
           "source_id": "7004752",
           "target_video_id": "30984744",
           "permanent": false,
-          "attempted_at": "2026-11-11T17:57:01.998118+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7004752",
-          "target_video_id": "30984744",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:27:23.029012+00:00"
         },
         {
@@ -34131,6 +34124,13 @@
           "target_video_id": "30984744",
           "permanent": false,
           "attempted_at": "2026-11-11T18:57:42.750436+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7004752",
+          "target_video_id": "30984744",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:27:50.284470+00:00"
         }
       ],
       "last_plan": {
@@ -34397,7 +34397,7 @@
       "last_plan": {
         "source_id": "35468703",
         "display_name": "The Great Hack 1080p CZ Titulky",
-        "planned_at": "2026-11-11T18:57:47.311758+00:00"
+        "planned_at": "2026-11-11T19:27:49.587620+00:00"
       },
       "previous_target_id": "30986211",
       "prepared": {
@@ -34405,6 +34405,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T23:36:41.333188+00:00",
         "relay_source_id": "35468703"
+      },
+      "claim": {
+        "worker_id": "92fcf4ed482c40859849952d39f71dc8-shard-0",
+        "claimed_at": "2026-11-11T19:27:49.802040+00:00",
+        "lease_expires_at": "2026-11-12T01:27:49.802040+00:00",
+        "run_id": "43067513109"
       }
     },
     "24200": {
@@ -97247,5 +97253,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:27:47.122905+00:00"
+  "updated_at": "2026-11-11T19:27:50.284494+00:00"
 }
