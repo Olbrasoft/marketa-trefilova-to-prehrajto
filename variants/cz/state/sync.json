@@ -111000,13 +111000,6 @@
           "source_id": "34952768",
           "target_video_id": "30983806",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:08:03.475677+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34952768",
-          "target_video_id": "30983806",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:49:14.705332+00:00"
         },
         {
@@ -111015,6 +111008,13 @@
           "target_video_id": "30983806",
           "permanent": false,
           "attempted_at": "2026-11-11T02:29:23.475888+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34952768",
+          "target_video_id": "30983806",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:02:18.386177+00:00"
         }
       ],
       "last_plan": {
@@ -126929,7 +126929,7 @@
       "last_plan": {
         "source_id": "26168894",
         "display_name": "Victim/Suspect 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:29:21.852067+00:00"
+        "planned_at": "2026-11-11T03:02:16.645543+00:00"
       },
       "previous_target_id": "30986421",
       "prepared": {
@@ -126937,6 +126937,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T00:25:57.856645+00:00",
         "relay_source_id": "26168894"
+      },
+      "claim": {
+        "worker_id": "e500b6d8bf8148abb19252454fdf9375-shard-0",
+        "claimed_at": "2026-11-11T03:02:17.096654+00:00",
+        "lease_expires_at": "2026-11-11T09:02:17.096654+00:00",
+        "run_id": "42938376778"
       }
     },
     "16562": {
@@ -130033,7 +130039,7 @@
       "last_plan": {
         "source_id": "34872056",
         "display_name": "The Murderer Waits on the Rails (Na kolejích čeká vrah) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:02:14.893254+00:00"
+        "planned_at": "2026-11-11T03:02:16.856071+00:00"
       }
     },
     "16214": {
@@ -184045,5 +184051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:02:14.893264+00:00"
+  "updated_at": "2026-11-11T03:02:18.386189+00:00"
 }
