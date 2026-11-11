@@ -115638,13 +115638,6 @@
           "source_id": "5517933",
           "target_video_id": "30984655",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:45:35.479458+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "5517933",
-          "target_video_id": "30984655",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:18:29.092052+00:00"
         },
         {
@@ -115653,6 +115646,13 @@
           "target_video_id": "30984655",
           "permanent": false,
           "attempted_at": "2026-11-11T03:53:33.604259+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5517933",
+          "target_video_id": "30984655",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:30:26.796456+00:00"
         }
       ],
       "last_plan": {
@@ -115666,12 +115666,6 @@
         "size_bytes": 938700000,
         "prepared_at": "2026-11-10T17:14:10.353056+00:00",
         "relay_source_id": "5517933"
-      },
-      "claim": {
-        "worker_id": "d903f24d01bb473d8477e7a938ef5def-shard-0",
-        "claimed_at": "2026-11-11T04:30:23.902993+00:00",
-        "lease_expires_at": "2026-11-11T10:30:23.902993+00:00",
-        "run_id": "42938376778"
       }
     },
     "2999": {
@@ -118991,7 +118985,7 @@
       "last_plan": {
         "source_id": "20753761",
         "display_name": "Repo Man 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:53:32.965274+00:00"
+        "planned_at": "2026-11-11T04:30:26.213627+00:00"
       },
       "previous_target_id": "30984945",
       "prepared": {
@@ -118999,6 +118993,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T18:15:19.824223+00:00",
         "relay_source_id": "20753761"
+      },
+      "claim": {
+        "worker_id": "53578b78934b4ce5acdfe84cf94fc502-shard-0",
+        "claimed_at": "2026-11-11T04:30:26.946039+00:00",
+        "lease_expires_at": "2026-11-11T10:30:26.946039+00:00",
+        "run_id": "42938376778"
       }
     },
     "22727": {
@@ -132898,7 +132898,7 @@
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:30:23.644345+00:00"
+        "planned_at": "2026-11-11T04:30:26.418664+00:00"
       }
     },
     "32074": {
@@ -186448,5 +186448,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:30:24.831921+00:00"
+  "updated_at": "2026-11-11T04:30:26.946052+00:00"
 }
