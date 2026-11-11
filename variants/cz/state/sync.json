@@ -131893,17 +131893,19 @@
       "attempts": []
     },
     "34131": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34787172",
+          "target_video_id": "30987230",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:00:59.314308+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34787172",
         "display_name": "Brontosaurus 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:00:13.310162+00:00"
-      },
-      "claim": {
-        "worker_id": "b62f4e6cbc1d4b4a9c501ec4460babac-shard-0",
-        "claimed_at": "2026-11-11T04:00:15.670312+00:00",
-        "lease_expires_at": "2026-11-11T10:00:15.670312+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987230",
       "prepared": {
@@ -185627,5 +185629,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:00:57.506775+00:00"
+  "updated_at": "2026-11-11T04:00:59.314321+00:00"
 }
