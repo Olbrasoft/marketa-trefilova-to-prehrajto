@@ -121434,13 +121434,6 @@
           "source_id": "35010063",
           "target_video_id": "30985407",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:54:54.363523+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35010063",
-          "target_video_id": "30985407",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:35:10.661938+00:00"
         },
         {
@@ -121449,6 +121442,13 @@
           "target_video_id": "30985407",
           "permanent": false,
           "attempted_at": "2026-11-11T03:08:11.447968+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35010063",
+          "target_video_id": "30985407",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:42:24.486812+00:00"
         }
       ],
       "last_plan": {
@@ -121462,12 +121462,6 @@
         "size_bytes": 22000000000,
         "prepared_at": "2026-11-10T19:09:15.571400+00:00",
         "relay_source_id": "35010063"
-      },
-      "claim": {
-        "worker_id": "818e23cce3ab4f428f7cbf2e4bd49f2d-shard-0",
-        "claimed_at": "2026-11-11T03:42:22.091886+00:00",
-        "lease_expires_at": "2026-11-11T09:42:22.091886+00:00",
-        "run_id": "42938376778"
       }
     },
     "35405": {
@@ -125552,7 +125546,7 @@
       "last_plan": {
         "source_id": "34905544",
         "display_name": "Next Door (Nebenan) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:08:13.303165+00:00"
+        "planned_at": "2026-11-11T03:42:23.966183+00:00"
       },
       "previous_target_id": "30985955",
       "prepared": {
@@ -125560,6 +125554,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T22:46:41.743538+00:00",
         "relay_source_id": "34905544"
+      },
+      "claim": {
+        "worker_id": "3db3b39a08954026a4cb783bb98cabda-shard-0",
+        "claimed_at": "2026-11-11T03:42:24.617620+00:00",
+        "lease_expires_at": "2026-11-11T09:42:24.617620+00:00",
+        "run_id": "42938376778"
       }
     },
     "27240": {
@@ -131239,7 +131239,7 @@
       "last_plan": {
         "source_id": "14065113",
         "display_name": "Fool's death (Bláznova smrt) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:42:21.842392+00:00"
+        "planned_at": "2026-11-11T03:42:24.175291+00:00"
       }
     },
     "14583": {
@@ -185071,5 +185071,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:42:22.359547+00:00"
+  "updated_at": "2026-11-11T03:42:24.617637+00:00"
 }
