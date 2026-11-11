@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "65c519471926425a8f23097477beb0af-shard-0",
+        "claimed_at": "2026-11-11T13:21:15.951178+00:00",
+        "lease_expires_at": "2026-11-11T19:21:15.951178+00:00",
+        "run_id": "43011363893"
       }
     },
     "37290": {
@@ -142747,12 +142753,19 @@
           "target_video_id": "30988626",
           "permanent": false,
           "attempted_at": "2026-11-11T10:16:22.828283+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34686479",
+          "target_video_id": "30988626",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:21:18.981995+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34686479",
         "display_name": "Super Monsters: Dia de los Monsters 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:16:19.156399+00:00"
+        "planned_at": "2026-11-11T13:21:16.280815+00:00"
       },
       "previous_target_id": "30988626",
       "prepared": {
@@ -144001,7 +144014,7 @@
       "last_plan": {
         "source_id": "34779338",
         "display_name": "Zeny, které nenávidí muze (Ženy, které nenávidí muže) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:21:14.031853+00:00"
+        "planned_at": "2026-11-11T13:21:16.722192+00:00"
       }
     },
     "26590": {
@@ -196039,5 +196052,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:21:14.031872+00:00"
+  "updated_at": "2026-11-11T13:21:18.982010+00:00"
 }
