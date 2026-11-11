@@ -125953,13 +125953,6 @@
           "source_id": "8355120",
           "target_video_id": "30986218",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:17:22.843826+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8355120",
-          "target_video_id": "30986218",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:55:11.321303+00:00"
         },
         {
@@ -125968,12 +125961,19 @@
           "target_video_id": "30986218",
           "permanent": false,
           "attempted_at": "2026-11-11T01:39:09.975286+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8355120",
+          "target_video_id": "30986218",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:20:53.879946+00:00"
         }
       ],
       "last_plan": {
         "source_id": "8355120",
         "display_name": "Scooby-Doo! Abracadabra-Doo SD CZ Dabing",
-        "planned_at": "2026-11-11T01:39:05.891660+00:00"
+        "planned_at": "2026-11-11T02:20:51.910328+00:00"
       },
       "previous_target_id": "30986218",
       "prepared": {
@@ -128767,7 +128767,13 @@
       "last_plan": {
         "source_id": "35058003",
         "display_name": "L'argent des autres (Other People's Money) 720p CZ Dabing",
-        "planned_at": "2026-11-11T02:20:47.293987+00:00"
+        "planned_at": "2026-11-11T02:20:52.113605+00:00"
+      },
+      "claim": {
+        "worker_id": "7b6e40a4da4748b7a9ecef707c9892c6-shard-0",
+        "claimed_at": "2026-11-11T02:20:52.604648+00:00",
+        "lease_expires_at": "2026-11-11T08:20:52.604648+00:00",
+        "run_id": "42938376778"
       }
     },
     "12124": {
@@ -128783,7 +128789,12 @@
       "attempts": []
     },
     "20123": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34698686",
+        "display_name": "In Her Hands 1080p CZ Dabing",
+        "planned_at": "2026-11-11T02:20:52.240310+00:00"
+      }
     },
     "14899": {
       "attempts": []
@@ -182974,5 +182985,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:20:49.029166+00:00"
+  "updated_at": "2026-11-11T02:20:53.879955+00:00"
 }
