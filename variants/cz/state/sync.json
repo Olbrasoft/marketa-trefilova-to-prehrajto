@@ -110036,13 +110036,6 @@
           "source_id": "34716525",
           "target_video_id": "30983747",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:59:08.221369+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34716525",
-          "target_video_id": "30983747",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:00:11.362433+00:00"
         },
         {
@@ -110051,12 +110044,19 @@
           "target_video_id": "30983747",
           "permanent": false,
           "attempted_at": "2026-11-11T10:16:56.197955+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716525",
+          "target_video_id": "30983747",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:22:00.743015+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34716525",
         "display_name": "Lady Ninja: A Blue Shadow (LADY NINJA ～青い影～) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:16:51.833723+00:00"
+        "planned_at": "2026-11-11T13:21:58.109464+00:00"
       },
       "previous_target_id": "30983747",
       "prepared": {
@@ -144008,7 +144008,13 @@
       "last_plan": {
         "source_id": "34779338",
         "display_name": "Zeny, které nenávidí muze (Ženy, které nenávidí muže) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:21:52.990670+00:00"
+        "planned_at": "2026-11-11T13:21:58.512074+00:00"
+      },
+      "claim": {
+        "worker_id": "96cef75106144ae5b767d3c88d2ca917-shard-0",
+        "claimed_at": "2026-11-11T13:21:59.459315+00:00",
+        "lease_expires_at": "2026-11-11T19:21:59.459315+00:00",
+        "run_id": "43011363893"
       }
     },
     "26590": {
@@ -144018,7 +144024,12 @@
       "attempts": []
     },
     "8296": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31629620",
+        "display_name": "Monstrum (2017) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T13:21:58.757736+00:00"
+      }
     },
     "28575": {
       "attempts": []
@@ -196046,5 +196057,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:21:56.083837+00:00"
+  "updated_at": "2026-11-11T13:22:00.743058+00:00"
 }
