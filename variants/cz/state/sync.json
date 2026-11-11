@@ -37278,13 +37278,6 @@
           "source_id": "12181949",
           "target_video_id": "30743906",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:48:38.446976+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "30743906",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:29:42.062109+00:00"
         },
         {
@@ -37293,12 +37286,19 @@
           "target_video_id": "30743906",
           "permanent": false,
           "attempted_at": "2026-11-11T02:14:44.010295+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "30743906",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:48:32.136720+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:14:39.903243+00:00"
+        "planned_at": "2026-11-11T02:48:30.036790+00:00"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -129687,7 +129687,13 @@
       "last_plan": {
         "source_id": "34450608",
         "display_name": "Fairy Tales for Emma (Pohádky pro Emu) SD CZ Dabing",
-        "planned_at": "2026-11-11T02:48:26.837936+00:00"
+        "planned_at": "2026-11-11T02:48:30.273809+00:00"
+      },
+      "claim": {
+        "worker_id": "d5cba48ff9a448d2afb69ec6bb55b711-shard-0",
+        "claimed_at": "2026-11-11T02:48:30.852467+00:00",
+        "lease_expires_at": "2026-11-11T08:48:30.852467+00:00",
+        "run_id": "42938376778"
       }
     },
     "32726": {
@@ -129697,7 +129703,12 @@
       "attempts": []
     },
     "21750": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34451524",
+        "display_name": "Circus Angel SD CZ Dabing",
+        "planned_at": "2026-11-11T02:48:30.418668+00:00"
+      }
     },
     "11806": {
       "attempts": []
@@ -183753,5 +183764,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:48:28.293315+00:00"
+  "updated_at": "2026-11-11T02:48:32.136734+00:00"
 }
