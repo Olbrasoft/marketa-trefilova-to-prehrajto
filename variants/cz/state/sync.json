@@ -109149,13 +109149,6 @@
           "source_id": "33706598",
           "target_video_id": "30983674",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:23:51.043361+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33706598",
-          "target_video_id": "30983674",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:02:03.763932+00:00"
         },
         {
@@ -109164,6 +109157,13 @@
           "target_video_id": "30983674",
           "permanent": false,
           "attempted_at": "2026-11-11T00:40:26.757798+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33706598",
+          "target_video_id": "30983674",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:21:14.164102+00:00"
         }
       ],
       "last_plan": {
@@ -109177,12 +109177,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T14:32:04.432593+00:00",
         "relay_source_id": "33706598"
-      },
-      "claim": {
-        "worker_id": "c8dedd5d33334cdd86260d95539eb8aa-shard-0",
-        "claimed_at": "2026-11-11T01:21:11.854951+00:00",
-        "lease_expires_at": "2026-11-11T07:21:11.854951+00:00",
-        "run_id": "42904278669"
       }
     },
     "29573": {
@@ -127051,7 +127045,7 @@
       "last_plan": {
         "source_id": "24587871",
         "display_name": "Snow for Christmas (Solan og Ludvig - Jul i Flåklypa) 720p CZ Dabing",
-        "planned_at": "2026-11-11T00:34:39.059866+00:00"
+        "planned_at": "2026-11-11T01:21:13.587349+00:00"
       },
       "previous_target_id": "30986461",
       "prepared": {
@@ -127592,7 +127586,7 @@
       "last_plan": {
         "source_id": "24508454",
         "display_name": "Sin (Il peccato) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:21:09.678500+00:00"
+        "planned_at": "2026-11-11T01:21:13.904689+00:00"
       }
     },
     "32719": {
@@ -127605,7 +127599,12 @@
       "attempts": []
     },
     "16455": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30184929",
+        "display_name": "Monster High: Frights, Camera, Action! SD CZ Dabing",
+        "planned_at": "2026-11-11T01:21:14.353753+00:00"
+      }
     },
     "3125": {
       "attempts": []
@@ -182006,5 +182005,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:21:11.854991+00:00"
+  "updated_at": "2026-11-11T01:21:14.353772+00:00"
 }
