@@ -125302,13 +125302,6 @@
           "source_id": "18316767",
           "target_video_id": "30985901",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:46:56.839669+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18316767",
-          "target_video_id": "30985901",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:02:57.342448+00:00"
         },
         {
@@ -125317,6 +125310,13 @@
           "target_video_id": "30985901",
           "permanent": false,
           "attempted_at": "2026-11-11T17:39:43.333285+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18316767",
+          "target_video_id": "30985901",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:50:06.674577+00:00"
         }
       ],
       "last_plan": {
@@ -125330,12 +125330,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T22:29:45.966384+00:00",
         "relay_source_id": "18316767"
-      },
-      "claim": {
-        "worker_id": "a200713eb9c14455a04dfbef5373b170-shard-0",
-        "claimed_at": "2026-11-11T18:50:04.587917+00:00",
-        "lease_expires_at": "2026-11-12T00:50:04.587917+00:00",
-        "run_id": "43067513109"
       }
     },
     "10846": {
@@ -134019,7 +134013,7 @@
       "last_plan": {
         "source_id": "30521084",
         "display_name": "Vrazda v Ostrovni ulici (Vražda v Ostrovní ulici) SD CZ Dabing",
-        "planned_at": "2026-11-11T17:39:44.971762+00:00"
+        "planned_at": "2026-11-11T18:50:06.062688+00:00"
       },
       "previous_target_id": "30987480",
       "prepared": {
@@ -134027,6 +134021,12 @@
         "size_bytes": 734000000,
         "prepared_at": "2026-11-11T04:53:09.319383+00:00",
         "relay_source_id": "30521084"
+      },
+      "claim": {
+        "worker_id": "e056c02039d74659bf60867faca867ab-shard-0",
+        "claimed_at": "2026-11-11T18:50:06.529690+00:00",
+        "lease_expires_at": "2026-11-12T00:50:06.529690+00:00",
+        "run_id": "43067513109"
       }
     },
     "24242": {
@@ -145356,7 +145356,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:50:04.010157+00:00"
+        "planned_at": "2026-11-11T18:50:06.267151+00:00"
       }
     },
     "13050": {
@@ -197145,5 +197145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:50:04.587940+00:00"
+  "updated_at": "2026-11-11T18:50:06.674588+00:00"
 }
