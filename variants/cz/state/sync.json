@@ -108844,7 +108844,7 @@
       "last_plan": {
         "source_id": "30219473",
         "display_name": "A Game without Rules 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:33:59.692781+00:00"
+        "planned_at": "2026-11-11T07:28:20.593965+00:00"
       },
       "previous_target_id": "30983642",
       "prepared": {
@@ -108852,6 +108852,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:28:38.663670+00:00",
         "relay_source_id": "30219473"
+      },
+      "claim": {
+        "worker_id": "1de2e3c589244d17bea6930ef29369c3-shard-0",
+        "claimed_at": "2026-11-11T07:28:21.227206+00:00",
+        "lease_expires_at": "2026-11-11T13:28:21.227206+00:00",
+        "run_id": "42965310158"
       }
     },
     "24470": {
@@ -138709,17 +138715,19 @@
       }
     },
     "23184": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34864473",
+          "target_video_id": "30988077",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:28:22.616566+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34864473",
         "display_name": "Corpus Delicti 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:27:36.203267+00:00"
-      },
-      "claim": {
-        "worker_id": "124cab8c7fd646f088f8d491448c6587-shard-0",
-        "claimed_at": "2026-11-11T07:27:38.824198+00:00",
-        "lease_expires_at": "2026-11-11T13:27:38.824198+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988077",
       "prepared": {
@@ -138758,7 +138766,7 @@
       "last_plan": {
         "source_id": "26422141",
         "display_name": "The Avalanche SD CZ Dabing",
-        "planned_at": "2026-11-11T07:28:16.153733+00:00"
+        "planned_at": "2026-11-11T07:28:20.874885+00:00"
       }
     },
     "12456": {
@@ -191483,5 +191491,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:28:19.046104+00:00"
+  "updated_at": "2026-11-11T07:28:22.616582+00:00"
 }
