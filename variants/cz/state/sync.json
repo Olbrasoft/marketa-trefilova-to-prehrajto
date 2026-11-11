@@ -81215,13 +81215,6 @@
           "source_id": "29912133",
           "target_video_id": "30902570",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:20:49.090476+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29912133",
-          "target_video_id": "30902570",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:04:12.026347+00:00"
         },
         {
@@ -81230,6 +81223,13 @@
           "target_video_id": "30902570",
           "permanent": false,
           "attempted_at": "2026-11-11T06:57:40.926745+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29912133",
+          "target_video_id": "30902570",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:54:06.352494+00:00"
         }
       ],
       "last_plan": {
@@ -138447,7 +138447,7 @@
       "last_plan": {
         "source_id": "34694137",
         "display_name": "Zitterinchen 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:57:00.363887+00:00"
+        "planned_at": "2026-11-11T07:54:04.981000+00:00"
       },
       "previous_target_id": "30987944",
       "prepared": {
@@ -138455,6 +138455,12 @@
         "size_bytes": 1793558607,
         "prepared_at": "2026-11-11T06:57:07.004222+00:00",
         "relay_source_id": "34694137"
+      },
+      "claim": {
+        "worker_id": "c0e115dc7bfb49a0ad345fbccc3797a2-shard-0",
+        "claimed_at": "2026-11-11T07:54:05.615292+00:00",
+        "lease_expires_at": "2026-11-11T13:54:05.615292+00:00",
+        "run_id": "42965310158"
       }
     },
     "15387": {
@@ -139717,7 +139723,7 @@
       "last_plan": {
         "source_id": "29201504",
         "display_name": "Průlom SD CZ Dabing",
-        "planned_at": "2026-11-11T07:54:02.926875+00:00"
+        "planned_at": "2026-11-11T07:54:05.259098+00:00"
       }
     },
     "15578": {
@@ -192292,5 +192298,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:54:02.926895+00:00"
+  "updated_at": "2026-11-11T07:54:06.352513+00:00"
 }
