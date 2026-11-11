@@ -108179,13 +108179,6 @@
           "source_id": "34783018",
           "target_video_id": "30983586",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:03:29.368076+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34783018",
-          "target_video_id": "30983586",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:44:58.321595+00:00"
         },
         {
@@ -108194,6 +108187,13 @@
           "target_video_id": "30983586",
           "permanent": false,
           "attempted_at": "2026-11-11T02:26:10.747476+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34783018",
+          "target_video_id": "30983586",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:58:42.481767+00:00"
         }
       ],
       "last_plan": {
@@ -108273,7 +108273,7 @@
       "last_plan": {
         "source_id": "29867066",
         "display_name": "Revizor (1933) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:26:10.131148+00:00"
+        "planned_at": "2026-11-11T02:58:40.960639+00:00"
       },
       "previous_target_id": "30983587",
       "prepared": {
@@ -108281,6 +108281,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:18:45.157766+00:00",
         "relay_source_id": "29867066"
+      },
+      "claim": {
+        "worker_id": "2c7bec9737dc40e5b815e603533e7122-shard-0",
+        "claimed_at": "2026-11-11T02:58:41.413423+00:00",
+        "lease_expires_at": "2026-11-11T08:58:41.413423+00:00",
+        "run_id": "42938376778"
       }
     },
     "31159": {
@@ -129960,7 +129966,7 @@
       "last_plan": {
         "source_id": "32958300",
         "display_name": "The First Day (Der erste Tag) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:58:39.218299+00:00"
+        "planned_at": "2026-11-11T02:58:41.166460+00:00"
       }
     },
     "31584": {
@@ -183984,5 +183990,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:58:39.218308+00:00"
+  "updated_at": "2026-11-11T02:58:42.481781+00:00"
 }
