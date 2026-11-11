@@ -134244,13 +134244,6 @@
           "source_id": "30160695",
           "target_video_id": "30987505",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:03:37.306468+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30160695",
-          "target_video_id": "30987505",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:44:32.380618+00:00"
         },
         {
@@ -134259,12 +134252,19 @@
           "target_video_id": "30987505",
           "permanent": false,
           "attempted_at": "2026-11-11T06:34:07.304814+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30160695",
+          "target_video_id": "30987505",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:28:28.584478+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30160695",
         "display_name": "Burglar and Umbrella (Pěnička a Paraplíčko) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:34:02.711180+00:00"
+        "planned_at": "2026-11-11T07:28:26.270918+00:00"
       },
       "previous_target_id": "30987505",
       "prepared": {
@@ -138760,7 +138760,13 @@
       "last_plan": {
         "source_id": "26422141",
         "display_name": "The Avalanche SD CZ Dabing",
-        "planned_at": "2026-11-11T07:28:20.874885+00:00"
+        "planned_at": "2026-11-11T07:28:26.540475+00:00"
+      },
+      "claim": {
+        "worker_id": "b81a23a8cd454ad1ab7413ea030f484c-shard-0",
+        "claimed_at": "2026-11-11T07:28:27.336331+00:00",
+        "lease_expires_at": "2026-11-11T13:28:27.336331+00:00",
+        "run_id": "42965310158"
       }
     },
     "12456": {
@@ -138770,7 +138776,12 @@
       "attempts": []
     },
     "33200": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "31285766",
+        "display_name": "Helimadoe 1080p CZ Dabing",
+        "planned_at": "2026-11-11T07:28:26.717562+00:00"
+      }
     },
     "13318": {
       "attempts": []
@@ -191485,5 +191496,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:28:24.160961+00:00"
+  "updated_at": "2026-11-11T07:28:28.584496+00:00"
 }
