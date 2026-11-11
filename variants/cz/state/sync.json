@@ -119042,13 +119042,6 @@
           "source_id": "34864462",
           "target_video_id": "30984947",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:18:36.860550+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34864462",
-          "target_video_id": "30984947",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:36:10.380270+00:00"
         },
         {
@@ -119057,12 +119050,19 @@
           "target_video_id": "30984947",
           "permanent": false,
           "attempted_at": "2026-11-11T18:07:12.693109+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34864462",
+          "target_video_id": "30984947",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:23:05.974309+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34864462",
         "display_name": "Body Double 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:07:10.160205+00:00"
+        "planned_at": "2026-11-11T19:23:03.212400+00:00"
       },
       "previous_target_id": "30984947",
       "prepared": {
@@ -145496,7 +145496,13 @@
       "last_plan": {
         "source_id": "34142554",
         "display_name": "Killing Michael Jackson 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:22:55.638625+00:00"
+        "planned_at": "2026-11-11T19:23:03.428072+00:00"
+      },
+      "claim": {
+        "worker_id": "a256488b273b4802869d34fa8def9b98-shard-0",
+        "claimed_at": "2026-11-11T19:23:03.980102+00:00",
+        "lease_expires_at": "2026-11-12T01:23:03.980102+00:00",
+        "run_id": "43067513109"
       }
     },
     "13112": {
@@ -145518,7 +145524,12 @@
       "attempts": []
     },
     "3565": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33806706",
+        "display_name": "Friedas Fall 1080p CZ Dabing",
+        "planned_at": "2026-11-11T19:23:03.559447+00:00"
+      }
     },
     "13952": {
       "attempts": []
@@ -197258,5 +197269,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:22:59.812603+00:00"
+  "updated_at": "2026-11-11T19:23:05.974331+00:00"
 }
