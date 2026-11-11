@@ -139138,17 +139138,19 @@
       }
     },
     "4267": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34658093",
+          "target_video_id": "30988133",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:39:10.933831+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34658093",
         "display_name": "My Uncle Archimedes (Můj strýček Archimedes) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:38:25.852193+00:00"
-      },
-      "claim": {
-        "worker_id": "3f6f10445eba4d2eb32711324ef128c7-shard-0",
-        "claimed_at": "2026-11-11T07:38:27.971330+00:00",
-        "lease_expires_at": "2026-11-11T13:38:27.971330+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988133",
       "prepared": {
@@ -191822,5 +191824,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:39:09.239227+00:00"
+  "updated_at": "2026-11-11T07:39:10.933847+00:00"
 }
