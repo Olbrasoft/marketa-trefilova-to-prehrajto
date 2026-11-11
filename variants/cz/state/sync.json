@@ -129730,13 +129730,6 @@
           "source_id": "35246262",
           "target_video_id": "30986904",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:44:11.060885+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35246262",
-          "target_video_id": "30986904",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:20:34.763828+00:00"
         },
         {
@@ -129745,6 +129738,13 @@
           "target_video_id": "30986904",
           "permanent": false,
           "attempted_at": "2026-11-11T05:00:41.798157+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35246262",
+          "target_video_id": "30986904",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:42:07.023670+00:00"
         }
       ],
       "last_plan": {
@@ -129758,12 +129758,6 @@
         "size_bytes": 5800000000,
         "prepared_at": "2026-11-11T02:36:37.371573+00:00",
         "relay_source_id": "35246262"
-      },
-      "claim": {
-        "worker_id": "adb3b571f08d441cb40c1c9ac3ecd433-shard-0",
-        "claimed_at": "2026-11-11T05:42:05.205918+00:00",
-        "lease_expires_at": "2026-11-11T11:42:05.205918+00:00",
-        "run_id": "42938376778"
       }
     },
     "3111": {
@@ -131856,7 +131850,7 @@
       "last_plan": {
         "source_id": "24221714",
         "display_name": "Dum U Zlateho usvitu 720p CZ Dabing",
-        "planned_at": "2026-11-11T05:00:41.211476+00:00"
+        "planned_at": "2026-11-11T05:42:06.513659+00:00"
       },
       "previous_target_id": "30987133",
       "prepared": {
@@ -135126,11 +135120,16 @@
       "last_plan": {
         "source_id": "34676679",
         "display_name": "Stop SD CZ Dabing",
-        "planned_at": "2026-11-11T05:42:03.568413+00:00"
+        "planned_at": "2026-11-11T05:42:06.721566+00:00"
       }
     },
     "36736": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26541445",
+        "display_name": "Hledá se táta (Hledá se táta!) SD CZ Dabing",
+        "planned_at": "2026-11-11T05:42:06.853359+00:00"
+      }
     },
     "17193": {
       "attempts": []
@@ -188364,5 +188363,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:42:05.205943+00:00"
+  "updated_at": "2026-11-11T05:42:07.023679+00:00"
 }
