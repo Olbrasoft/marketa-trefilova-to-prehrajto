@@ -127254,6 +127254,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T00:48:00.728947+00:00",
         "relay_source_id": "33228388"
+      },
+      "claim": {
+        "worker_id": "030546776e38409491aa9521afc3ccae-shard-0",
+        "claimed_at": "2026-11-11T03:57:32.544235+00:00",
+        "lease_expires_at": "2026-11-11T09:57:32.544235+00:00",
+        "run_id": "42938376778"
       }
     },
     "3107": {
@@ -131740,17 +131746,19 @@
       }
     },
     "23538": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30251989",
+          "target_video_id": "30987208",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:57:32.727298+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
         "planned_at": "2026-11-11T03:56:46.223434+00:00"
-      },
-      "claim": {
-        "worker_id": "1744c924c0654d09978a4de2c5b7ae95-shard-0",
-        "claimed_at": "2026-11-11T03:56:51.011177+00:00",
-        "lease_expires_at": "2026-11-11T09:56:51.011177+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987208",
       "prepared": {
@@ -185513,5 +185521,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:57:30.940216+00:00"
+  "updated_at": "2026-11-11T03:57:32.727310+00:00"
 }
