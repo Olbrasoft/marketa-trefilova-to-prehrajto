@@ -119153,13 +119153,6 @@
           "source_id": "32799273",
           "target_video_id": "30984959",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:50:48.482279+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32799273",
-          "target_video_id": "30984959",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:23:26.356457+00:00"
         },
         {
@@ -119168,12 +119161,19 @@
           "target_video_id": "30984959",
           "permanent": false,
           "attempted_at": "2026-11-11T03:59:10.298188+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32799273",
+          "target_video_id": "30984959",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:37:40.661556+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32799273",
         "display_name": "The Life List 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:59:06.478332+00:00"
+        "planned_at": "2026-11-11T04:37:37.469360+00:00"
       },
       "previous_target_id": "30984959",
       "prepared": {
@@ -133049,11 +133049,22 @@
       "last_plan": {
         "source_id": "25777021",
         "display_name": "Every Million Comes Handy (Každý milion dobrý) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:37:33.996911+00:00"
+        "planned_at": "2026-11-11T04:37:37.681564+00:00"
+      },
+      "claim": {
+        "worker_id": "823ba90901394bcb8b9ab1755210cfce-shard-0",
+        "claimed_at": "2026-11-11T04:37:38.225376+00:00",
+        "lease_expires_at": "2026-11-11T10:37:38.225376+00:00",
+        "run_id": "42938376778"
       }
     },
     "16650": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35418778",
+        "display_name": "Murder in the Somme (Le Vagabond de la Baie de Somme) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T04:37:37.825351+00:00"
+      }
     },
     "31845": {
       "attempts": []
@@ -186578,5 +186589,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:37:35.669690+00:00"
+  "updated_at": "2026-11-11T04:37:40.661573+00:00"
 }
