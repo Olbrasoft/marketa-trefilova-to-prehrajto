@@ -107853,13 +107853,6 @@
           "source_id": "33299236",
           "target_video_id": "30983538",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:01:14.804753+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33299236",
-          "target_video_id": "30983538",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:43:52.040712+00:00"
         },
         {
@@ -107868,6 +107861,13 @@
           "target_video_id": "30983538",
           "permanent": false,
           "attempted_at": "2026-11-11T02:25:14.770091+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33299236",
+          "target_video_id": "30983538",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:57:41.072507+00:00"
         }
       ],
       "last_plan": {
@@ -107881,12 +107881,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T14:16:24.113543+00:00",
         "relay_source_id": "33299236"
-      },
-      "claim": {
-        "worker_id": "9574d304f0e24913acb461dc23e67cbb-shard-0",
-        "claimed_at": "2026-11-11T02:57:38.283825+00:00",
-        "lease_expires_at": "2026-11-11T08:57:38.283825+00:00",
-        "run_id": "42938376778"
       }
     },
     "34309": {
@@ -107919,7 +107913,7 @@
       "last_plan": {
         "source_id": "34908320",
         "display_name": "Pražská 5 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:25:14.330922+00:00"
+        "planned_at": "2026-11-11T02:57:40.458615+00:00"
       },
       "previous_target_id": "30983539",
       "prepared": {
@@ -107927,6 +107921,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T14:16:25.808778+00:00",
         "relay_source_id": "34908320"
+      },
+      "claim": {
+        "worker_id": "4dbe8599fa524c41a9e23228819b4efa-shard-0",
+        "claimed_at": "2026-11-11T02:57:40.901696+00:00",
+        "lease_expires_at": "2026-11-11T08:57:40.901696+00:00",
+        "run_id": "42938376778"
       }
     },
     "24344": {
@@ -129926,7 +129926,7 @@
       "last_plan": {
         "source_id": "35147186",
         "display_name": "Day for My Love (Den pro mou lásku) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:57:38.014435+00:00"
+        "planned_at": "2026-11-11T02:57:40.661107+00:00"
       }
     },
     "10712": {
@@ -183956,5 +183956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:57:39.107056+00:00"
+  "updated_at": "2026-11-11T02:57:41.072520+00:00"
 }
