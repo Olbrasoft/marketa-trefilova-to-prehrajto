@@ -123209,13 +123209,6 @@
           "source_id": "16256834",
           "target_video_id": "30985618",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:17:50.370348+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16256834",
-          "target_video_id": "30985618",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:58:58.511621+00:00"
         },
         {
@@ -123224,6 +123217,13 @@
           "target_video_id": "30985618",
           "permanent": false,
           "attempted_at": "2026-11-11T02:39:14.272761+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16256834",
+          "target_video_id": "30985618",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:11:42.363996+00:00"
         }
       ],
       "last_plan": {
@@ -129670,7 +129670,7 @@
       "last_plan": {
         "source_id": "27361344",
         "display_name": "The Very Late Afternoon of a Faun (Faunovo velmi pozdní odpoledne) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:38:33.452199+00:00"
+        "planned_at": "2026-11-11T03:11:40.930741+00:00"
       },
       "previous_target_id": "30986908",
       "prepared": {
@@ -129678,6 +129678,12 @@
         "size_bytes": 3548575366,
         "prepared_at": "2026-11-11T02:38:37.729548+00:00",
         "relay_source_id": "27361344"
+      },
+      "claim": {
+        "worker_id": "3890d02de82440cfbb4f5900d02a85eb-shard-0",
+        "claimed_at": "2026-11-11T03:11:41.427248+00:00",
+        "lease_expires_at": "2026-11-11T09:11:41.427248+00:00",
+        "run_id": "42938376778"
       }
     },
     "2834": {
@@ -130301,6 +130307,12 @@
         "source_id": "34860819",
         "display_name": "Guard 13 (13. revír) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:11:38.704503+00:00"
+      },
+      "claim": {
+        "worker_id": "eef30632540b4d4c92f6c2b95e3cd7b4-shard-0",
+        "claimed_at": "2026-11-11T03:11:40.639636+00:00",
+        "lease_expires_at": "2026-11-11T09:11:40.639636+00:00",
+        "run_id": "42938376778"
       }
     },
     "32881": {
@@ -130314,7 +130326,7 @@
       "last_plan": {
         "source_id": "34662434",
         "display_name": "Silent Barricade (Němá barikáda) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:11:38.833652+00:00"
+        "planned_at": "2026-11-11T03:11:41.135078+00:00"
       }
     },
     "27284": {
@@ -184290,5 +184302,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:11:38.999687+00:00"
+  "updated_at": "2026-11-11T03:11:42.364007+00:00"
 }
