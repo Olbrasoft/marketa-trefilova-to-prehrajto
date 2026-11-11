@@ -113865,13 +113865,6 @@
           "source_id": "14570962",
           "target_video_id": "30984139",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:07:28.484470+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14570962",
-          "target_video_id": "30984139",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:48:08.065286+00:00"
         },
         {
@@ -113880,6 +113873,13 @@
           "target_video_id": "30984139",
           "permanent": false,
           "attempted_at": "2026-11-11T06:38:57.906398+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14570962",
+          "target_video_id": "30984139",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:33:44.038290+00:00"
         }
       ],
       "last_plan": {
@@ -113893,12 +113893,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
-      },
-      "claim": {
-        "worker_id": "ab4d7988ae974494b5e1d5411d069050-shard-0",
-        "claimed_at": "2026-11-11T07:33:41.218612+00:00",
-        "lease_expires_at": "2026-11-11T13:33:41.218612+00:00",
-        "run_id": "42965310158"
       }
     },
     "3152": {
@@ -138955,17 +138949,19 @@
       }
     },
     "6570": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34674569",
+          "target_video_id": "30988115",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:33:45.447651+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34674569",
         "display_name": "Lifeline (Minuta věčnosti) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:33:00.040113+00:00"
-      },
-      "claim": {
-        "worker_id": "c464cc7142664f3190882b324e33c5c1-shard-0",
-        "claimed_at": "2026-11-11T07:33:02.790030+00:00",
-        "lease_expires_at": "2026-11-11T13:33:02.790030+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988115",
       "prepared": {
@@ -191666,5 +191662,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:33:42.407273+00:00"
+  "updated_at": "2026-11-11T07:33:45.447675+00:00"
 }
