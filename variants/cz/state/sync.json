@@ -116134,7 +116134,7 @@
       "last_plan": {
         "source_id": "34445886",
         "display_name": "Bloodsport 4K CZ Dabing",
-        "planned_at": "2026-11-11T03:29:28.419649+00:00"
+        "planned_at": "2026-11-11T04:06:59.958933+00:00"
       },
       "previous_target_id": "30984708",
       "prepared": {
@@ -116142,6 +116142,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-10T17:22:44.657078+00:00",
         "relay_source_id": "34445886"
+      },
+      "claim": {
+        "worker_id": "aa9a8bb35601483884083cfb03a1e03f-shard-0",
+        "claimed_at": "2026-11-11T04:07:00.406935+00:00",
+        "lease_expires_at": "2026-11-11T10:07:00.406935+00:00",
+        "run_id": "42938376778"
       }
     },
     "11458": {
@@ -131127,6 +131133,13 @@
           "target_video_id": "30987043",
           "permanent": false,
           "attempted_at": "2026-11-11T03:29:31.364070+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713475",
+          "target_video_id": "30987043",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:07:00.572320+00:00"
         }
       ],
       "last_plan": {
@@ -131137,15 +131150,9 @@
       "previous_target_id": "30987043",
       "prepared": {
         "target_video_id": "30987043",
-        "size_bytes": 843613742,
+        "size_bytes": 843600000,
         "prepared_at": "2026-11-11T03:28:54.846552+00:00",
         "relay_source_id": "34713475"
-      },
-      "claim": {
-        "worker_id": "11bfadd3bfe54c0bb9dbf1a93e817fbb-shard-0",
-        "claimed_at": "2026-11-11T04:06:58.326723+00:00",
-        "lease_expires_at": "2026-11-11T10:06:58.326723+00:00",
-        "run_id": "42938376778"
       }
     },
     "12910": {
@@ -132070,7 +132077,7 @@
       "last_plan": {
         "source_id": "29078551",
         "display_name": "The Comedy with Mr Klika (Komedie s Klikou) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:06:58.080921+00:00"
+        "planned_at": "2026-11-11T04:07:00.164137+00:00"
       }
     },
     "13137": {
@@ -185755,5 +185762,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:06:58.549216+00:00"
+  "updated_at": "2026-11-11T04:07:00.572331+00:00"
 }
