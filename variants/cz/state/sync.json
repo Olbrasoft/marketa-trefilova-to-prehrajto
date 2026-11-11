@@ -112924,6 +112924,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:19:52.239174+00:00",
         "relay_source_id": "31008000"
+      },
+      "claim": {
+        "worker_id": "0dd7caf392764b6e88ea89a5b0b324fe-shard-0",
+        "claimed_at": "2026-11-11T04:09:50.192808+00:00",
+        "lease_expires_at": "2026-11-11T10:09:50.192808+00:00",
+        "run_id": "42938376778"
       }
     },
     "3134": {
@@ -129370,13 +129376,6 @@
           "source_id": "27023916",
           "target_video_id": "30986878",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:26:35.126547+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27023916",
-          "target_video_id": "30986878",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:59:07.982319+00:00"
         },
         {
@@ -129385,6 +129384,13 @@
           "target_video_id": "30986878",
           "permanent": false,
           "attempted_at": "2026-11-11T03:33:08.140776+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27023916",
+          "target_video_id": "30986878",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:09:50.030569+00:00"
         }
       ],
       "last_plan": {
@@ -129398,12 +129404,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T02:25:58.373508+00:00",
         "relay_source_id": "27023916"
-      },
-      "claim": {
-        "worker_id": "6534b772ea9d4686a5ef673c7760613a-shard-0",
-        "claimed_at": "2026-11-11T04:09:45.360669+00:00",
-        "lease_expires_at": "2026-11-11T10:09:45.360669+00:00",
-        "run_id": "42938376778"
       }
     },
     "30998": {
@@ -130510,7 +130510,7 @@
       "last_plan": {
         "source_id": "35147186",
         "display_name": "Day for My Love (Den pro mou lásku) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:33:17.126926+00:00"
+        "planned_at": "2026-11-11T04:09:50.378830+00:00"
       },
       "previous_target_id": "30986963",
       "prepared": {
@@ -132107,7 +132107,7 @@
       "last_plan": {
         "source_id": "29078551",
         "display_name": "The Comedy with Mr Klika (Komedie s Klikou) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:09:48.444119+00:00"
+        "planned_at": "2026-11-11T04:09:50.614372+00:00"
       }
     },
     "13137": {
@@ -185792,5 +185792,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:09:48.444129+00:00"
+  "updated_at": "2026-11-11T04:09:50.614382+00:00"
 }
