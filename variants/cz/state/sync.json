@@ -117219,13 +117219,6 @@
           "source_id": "33733528",
           "target_video_id": "30984809",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:04:13.864445+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33733528",
-          "target_video_id": "30984809",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:44:42.950193+00:00"
         },
         {
@@ -117234,6 +117227,13 @@
           "target_video_id": "30984809",
           "permanent": false,
           "attempted_at": "2026-11-10T23:27:55.522262+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33733528",
+          "target_video_id": "30984809",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:05:45.352654+00:00"
         }
       ],
       "last_plan": {
@@ -125632,7 +125632,7 @@
       "last_plan": {
         "source_id": "32402353",
         "display_name": "Semmelweis 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:19:41.229010+00:00"
+        "planned_at": "2026-11-11T00:05:43.253259+00:00"
       },
       "previous_target_id": "30986106",
       "prepared": {
@@ -125640,6 +125640,12 @@
         "size_bytes": 3964103961,
         "prepared_at": "2026-11-10T23:19:46.750032+00:00",
         "relay_source_id": "32402353"
+      },
+      "claim": {
+        "worker_id": "73eedaa4280d4a9c90d8d05189bb2fd6-shard-0",
+        "claimed_at": "2026-11-11T00:05:43.991091+00:00",
+        "lease_expires_at": "2026-11-11T06:05:43.991091+00:00",
+        "run_id": "42904278669"
       }
     },
     "21913": {
@@ -126247,7 +126253,7 @@
       "last_plan": {
         "source_id": "28540263",
         "display_name": "Triumph of the Spirit 720p CZ Dabing",
-        "planned_at": "2026-11-11T00:05:40.703788+00:00"
+        "planned_at": "2026-11-11T00:05:43.562173+00:00"
       }
     },
     "32900": {
@@ -180937,5 +180943,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:05:40.946891+00:00"
+  "updated_at": "2026-11-11T00:05:45.352674+00:00"
 }
