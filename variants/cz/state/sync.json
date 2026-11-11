@@ -118706,13 +118706,6 @@
           "source_id": "33730079",
           "target_video_id": "30984911",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:43:58.051411+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33730079",
-          "target_video_id": "30984911",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:20:22.275340+00:00"
         },
         {
@@ -118721,6 +118714,13 @@
           "target_video_id": "30984911",
           "permanent": false,
           "attempted_at": "2026-11-11T05:00:30.694435+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33730079",
+          "target_video_id": "30984911",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:41:58.065248+00:00"
         }
       ],
       "last_plan": {
@@ -118734,12 +118734,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T18:09:43.833348+00:00",
         "relay_source_id": "33730079"
-      },
-      "claim": {
-        "worker_id": "9e5e0f4596cb4956bfc033a3dda32dd8-shard-0",
-        "claimed_at": "2026-11-11T05:41:55.482044+00:00",
-        "lease_expires_at": "2026-11-11T11:41:55.482044+00:00",
-        "run_id": "42938376778"
       }
     },
     "2792": {
@@ -118777,6 +118771,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T18:09:47.163933+00:00",
         "relay_source_id": "31031880"
+      },
+      "claim": {
+        "worker_id": "4140fcd738154c2ebbd29504a4f1b1c6-shard-0",
+        "claimed_at": "2026-11-11T05:41:57.357913+00:00",
+        "lease_expires_at": "2026-11-11T11:41:57.357913+00:00",
+        "run_id": "42938376778"
       }
     },
     "11811": {
@@ -125408,7 +125408,7 @@
       "last_plan": {
         "source_id": "34711330",
         "display_name": "The Twister: Caught in the Storm 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:00:32.306273+00:00"
+        "planned_at": "2026-11-11T05:41:57.525669+00:00"
       },
       "previous_target_id": "30985919",
       "prepared": {
@@ -125416,6 +125416,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T22:33:30.594622+00:00",
         "relay_source_id": "34711330"
+      },
+      "claim": {
+        "worker_id": "827cc0bbbb2a4fcb8afd7bf64edb3f2b-shard-0",
+        "claimed_at": "2026-11-11T05:41:58.199409+00:00",
+        "lease_expires_at": "2026-11-11T11:41:58.199409+00:00",
+        "run_id": "42938376778"
       }
     },
     "24413": {
@@ -135126,7 +135132,7 @@
       "last_plan": {
         "source_id": "34676679",
         "display_name": "Stop SD CZ Dabing",
-        "planned_at": "2026-11-11T05:41:55.856462+00:00"
+        "planned_at": "2026-11-11T05:41:57.740286+00:00"
       }
     },
     "36736": {
@@ -188364,5 +188370,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:41:55.856478+00:00"
+  "updated_at": "2026-11-11T05:41:58.199424+00:00"
 }
