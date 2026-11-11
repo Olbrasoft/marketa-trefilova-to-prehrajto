@@ -34853,17 +34853,19 @@
       "attempts": []
     },
     "21186": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27648883",
+          "target_video_id": "30987757",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:56:57.552424+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27648883",
         "display_name": "The Most Dangerous Game 1080p CZ Titulky",
         "planned_at": "2026-11-11T05:56:14.616432+00:00"
-      },
-      "claim": {
-        "worker_id": "8f1efac8a46a45bf9783b21fb52fd698-shard-0",
-        "claimed_at": "2026-11-11T05:56:16.604018+00:00",
-        "lease_expires_at": "2026-11-11T11:56:16.604018+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987757",
       "prepared": {
@@ -96453,5 +96455,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:56:34.481105+00:00"
+  "updated_at": "2026-11-11T05:56:57.552436+00:00"
 }
