@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:54:38.477087+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:31:42.794644+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-11T05:13:04.603587+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:54:29.614148+00:00"
         }
       ],
       "last_plan": {
@@ -134459,7 +134459,7 @@
       "last_plan": {
         "source_id": "35068765",
         "display_name": "Veronika, proste Nika (Veronika, prostě Nika) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:12:22.353762+00:00"
+        "planned_at": "2026-11-11T05:54:27.302960+00:00"
       },
       "previous_target_id": "30987562",
       "prepared": {
@@ -134467,6 +134467,12 @@
         "size_bytes": 1484636373,
         "prepared_at": "2026-11-11T05:12:28.986309+00:00",
         "relay_source_id": "35068765"
+      },
+      "claim": {
+        "worker_id": "341f8846a89f40e0a76a17abd15838b5-shard-0",
+        "claimed_at": "2026-11-11T05:54:27.754605+00:00",
+        "lease_expires_at": "2026-11-11T11:54:27.754605+00:00",
+        "run_id": "42938376778"
       }
     },
     "13853": {
@@ -135617,7 +135623,7 @@
       "last_plan": {
         "source_id": "31005194",
         "display_name": "Mord 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:54:25.672122+00:00"
+        "planned_at": "2026-11-11T05:54:27.510259+00:00"
       }
     },
     "3365": {
@@ -188783,5 +188789,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:54:25.672132+00:00"
+  "updated_at": "2026-11-11T05:54:29.614164+00:00"
 }
