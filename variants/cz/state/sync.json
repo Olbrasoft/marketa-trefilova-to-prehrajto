@@ -113371,7 +113371,7 @@
       "last_plan": {
         "source_id": "29053406",
         "display_name": "Nope 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:19:22.349089+00:00"
+        "planned_at": "2026-11-11T04:59:29.387910+00:00"
       },
       "previous_target_id": "30984080",
       "prepared": {
@@ -113379,6 +113379,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T15:24:57.732023+00:00",
         "relay_source_id": "29053406"
+      },
+      "claim": {
+        "worker_id": "a86eaf69a76e4b319c331f6a2317293d-shard-0",
+        "claimed_at": "2026-11-11T04:59:29.851796+00:00",
+        "lease_expires_at": "2026-11-11T10:59:29.851796+00:00",
+        "run_id": "42938376778"
       }
     },
     "3158": {
@@ -132943,6 +132949,13 @@
           "target_video_id": "30987333",
           "permanent": false,
           "attempted_at": "2026-11-11T04:19:25.603007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27788170",
+          "target_video_id": "30987333",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:59:30.017194+00:00"
         }
       ],
       "last_plan": {
@@ -132953,15 +132966,9 @@
       "previous_target_id": "30987333",
       "prepared": {
         "target_video_id": "30987333",
-        "size_bytes": 832223238,
+        "size_bytes": 832200000,
         "prepared_at": "2026-11-11T04:18:48.267190+00:00",
         "relay_source_id": "27788170"
-      },
-      "claim": {
-        "worker_id": "0f4b419c133f4dceb1c36c373dfba1cc-shard-0",
-        "claimed_at": "2026-11-11T04:59:27.191110+00:00",
-        "lease_expires_at": "2026-11-11T10:59:27.191110+00:00",
-        "run_id": "42938376778"
       }
     },
     "24234": {
@@ -133532,7 +133539,7 @@
       "last_plan": {
         "source_id": "32363401",
         "display_name": "I'll Be Good, Old Man! („Já už budu hodný, dědečku!“) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:59:26.911587+00:00"
+        "planned_at": "2026-11-11T04:59:29.597522+00:00"
       }
     },
     "31818": {
@@ -187022,5 +187029,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:59:27.948763+00:00"
+  "updated_at": "2026-11-11T04:59:30.017204+00:00"
 }
