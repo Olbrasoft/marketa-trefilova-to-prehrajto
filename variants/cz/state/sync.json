@@ -132684,7 +132684,7 @@
       "last_plan": {
         "source_id": "34710904",
         "display_name": "O Nesytovi 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:12:55.006963+00:00"
+        "planned_at": "2026-11-11T04:53:33.212212+00:00"
       },
       "previous_target_id": "30987301",
       "prepared": {
@@ -132692,6 +132692,12 @@
         "size_bytes": 2933394283,
         "prepared_at": "2026-11-11T04:13:03.584487+00:00",
         "relay_source_id": "34710904"
+      },
+      "claim": {
+        "worker_id": "b17de46f9ef648f8b5f71fa7611cab41-shard-0",
+        "claimed_at": "2026-11-11T04:53:33.704675+00:00",
+        "lease_expires_at": "2026-11-11T10:53:33.704675+00:00",
+        "run_id": "42938376778"
       }
     },
     "32273": {
@@ -133312,17 +133318,19 @@
       "attempts": []
     },
     "12645": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34676079",
+          "target_video_id": "30987477",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:53:33.990290+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34676079",
         "display_name": "Madla z cihelny 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:52:49.969123+00:00"
-      },
-      "claim": {
-        "worker_id": "e3f874c57ee844deadcece79c0ec8b25-shard-0",
-        "claimed_at": "2026-11-11T04:52:51.767319+00:00",
-        "lease_expires_at": "2026-11-11T10:52:51.767319+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987477",
       "prepared": {
@@ -133361,7 +133369,7 @@
       "last_plan": {
         "source_id": "28002899",
         "display_name": "Filosofská historie (History of Philosophy) SD CZ Dabing",
-        "planned_at": "2026-11-11T04:53:28.821002+00:00"
+        "planned_at": "2026-11-11T04:53:33.425863+00:00"
       }
     },
     "15210": {
@@ -186863,5 +186871,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:53:30.276497+00:00"
+  "updated_at": "2026-11-11T04:53:33.990301+00:00"
 }
