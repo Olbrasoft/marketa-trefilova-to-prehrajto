@@ -42808,13 +42808,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:44:38.613490+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:11:26.759080+00:00"
         },
         {
@@ -42823,6 +42816,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-11T19:30:30.405731+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:39:41.857150+00:00"
         }
       ],
       "last_plan": {
@@ -42836,12 +42836,6 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
-      },
-      "claim": {
-        "worker_id": "2f7e875e37084dbe8b88c7161f2d261c-shard-0",
-        "claimed_at": "2026-11-11T20:39:38.925832+00:00",
-        "lease_expires_at": "2026-11-12T02:39:38.925832+00:00",
-        "run_id": "43067513109"
       }
     },
     "1395": {
@@ -142248,7 +142242,7 @@
       "last_plan": {
         "source_id": "33810961",
         "display_name": "Die Geschichte von der Gänseprinzessin und ihrem treuen Pferd Falada (The Goose Princess) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:30:30.562819+00:00"
+        "planned_at": "2026-11-11T20:39:40.754451+00:00"
       },
       "previous_target_id": "30988570",
       "prepared": {
@@ -142256,6 +142250,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T08:46:15.167490+00:00",
         "relay_source_id": "33810961"
+      },
+      "claim": {
+        "worker_id": "c2ecbbbdf0944f7e88386141328a0d22-shard-0",
+        "claimed_at": "2026-11-11T20:39:41.218192+00:00",
+        "lease_expires_at": "2026-11-12T02:39:41.218192+00:00",
+        "run_id": "43067513109"
       }
     },
     "31969": {
@@ -145862,7 +145862,7 @@
       "last_plan": {
         "source_id": "30615027",
         "display_name": "Freon Ghost (Freonový duch) SD CZ Dabing",
-        "planned_at": "2026-11-11T20:39:38.672866+00:00"
+        "planned_at": "2026-11-11T20:39:40.968389+00:00"
       }
     },
     "21735": {
@@ -197564,5 +197564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:39:39.127829+00:00"
+  "updated_at": "2026-11-11T20:39:41.857163+00:00"
 }
