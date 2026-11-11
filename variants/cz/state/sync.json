@@ -111646,13 +111646,6 @@
           "source_id": "25728131",
           "target_video_id": "30983845",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:37:07.701871+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25728131",
-          "target_video_id": "30983845",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:19:20.606141+00:00"
         },
         {
@@ -111661,6 +111654,13 @@
           "target_video_id": "30983845",
           "permanent": false,
           "attempted_at": "2026-11-10T23:57:48.623210+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25728131",
+          "target_video_id": "30983845",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:36:41.863609+00:00"
         }
       ],
       "last_plan": {
@@ -122326,7 +122326,7 @@
       "last_plan": {
         "source_id": "32965631",
         "display_name": "The Mustang 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:57:48.046220+00:00"
+        "planned_at": "2026-11-11T00:36:40.116254+00:00"
       },
       "previous_target_id": "30985482",
       "prepared": {
@@ -122334,6 +122334,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T19:35:48.490593+00:00",
         "relay_source_id": "32965631"
+      },
+      "claim": {
+        "worker_id": "fb4d8314a06441768eb44d40f1e5a0f2-shard-0",
+        "claimed_at": "2026-11-11T00:36:40.853463+00:00",
+        "lease_expires_at": "2026-11-11T06:36:40.853463+00:00",
+        "run_id": "42904278669"
       }
     },
     "32312": {
@@ -126814,7 +126820,7 @@
       "last_plan": {
         "source_id": "32484287",
         "display_name": "Christmas in Conway 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:36:38.028048+00:00"
+        "planned_at": "2026-11-11T00:36:40.423985+00:00"
       }
     },
     "16080": {
@@ -181378,5 +181384,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:36:38.028067+00:00"
+  "updated_at": "2026-11-11T00:36:41.863627+00:00"
 }
