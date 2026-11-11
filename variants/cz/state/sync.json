@@ -101243,13 +101243,6 @@
           "source_id": "13450050",
           "target_video_id": "30969076",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:05:51.679768+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13450050",
-          "target_video_id": "30969076",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:59:41.158559+00:00"
         },
         {
@@ -101258,6 +101251,13 @@
           "target_video_id": "30969076",
           "permanent": false,
           "attempted_at": "2026-11-11T07:55:57.333355+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13450050",
+          "target_video_id": "30969076",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:56:35.624031+00:00"
         }
       ],
       "last_plan": {
@@ -128260,7 +128260,7 @@
       "last_plan": {
         "source_id": "28566197",
         "display_name": "Men Up 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:55:55.839995+00:00"
+        "planned_at": "2026-11-11T08:56:33.495127+00:00"
       },
       "previous_target_id": "30986704",
       "prepared": {
@@ -128268,6 +128268,12 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-11-11T01:38:40.252314+00:00",
         "relay_source_id": "28566197"
+      },
+      "claim": {
+        "worker_id": "fd849b8f003a4d50bcdcb516324bf6fa-shard-0",
+        "claimed_at": "2026-11-11T08:56:34.527258+00:00",
+        "lease_expires_at": "2026-11-11T14:56:34.527258+00:00",
+        "run_id": "42965310158"
       }
     },
     "35280": {
@@ -141623,7 +141629,13 @@
       "last_plan": {
         "source_id": "34850592",
         "display_name": "Like Never Before (Jako nikdy) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:56:31.394586+00:00"
+        "planned_at": "2026-11-11T08:56:33.774679+00:00"
+      },
+      "claim": {
+        "worker_id": "e667e1beb79e48ce8ed6b8210e1c0954-shard-0",
+        "claimed_at": "2026-11-11T08:56:34.721751+00:00",
+        "lease_expires_at": "2026-11-11T14:56:34.721751+00:00",
+        "run_id": "42965310158"
       }
     },
     "32891": {
@@ -141651,7 +141663,12 @@
       "attempts": []
     },
     "33152": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34787775",
+        "display_name": "Lovers in the Year One (Milenci v roce jedna) SD CZ Dabing",
+        "planned_at": "2026-11-11T08:56:33.989544+00:00"
+      }
     },
     "24047": {
       "attempts": []
@@ -193934,5 +193951,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:56:31.394604+00:00"
+  "updated_at": "2026-11-11T08:56:35.624048+00:00"
 }
