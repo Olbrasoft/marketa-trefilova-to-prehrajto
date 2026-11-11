@@ -132373,7 +132373,7 @@
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
-        "planned_at": "2026-11-11T19:30:22.830275+00:00"
+        "planned_at": "2026-11-11T20:39:36.412244+00:00"
       },
       "previous_target_id": "30987208",
       "prepared": {
@@ -132381,6 +132381,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T03:56:55.465680+00:00",
         "relay_source_id": "30251989"
+      },
+      "claim": {
+        "worker_id": "1506afdd7e3a4207992665bb4abfa16d-shard-0",
+        "claimed_at": "2026-11-11T20:39:37.036713+00:00",
+        "lease_expires_at": "2026-11-12T02:39:37.036713+00:00",
+        "run_id": "43067513109"
       }
     },
     "31944": {
@@ -136582,13 +136588,6 @@
           "source_id": "33063567",
           "target_video_id": "30987763",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:44:31.135443+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33063567",
-          "target_video_id": "30987763",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:11:18.984440+00:00"
         },
         {
@@ -136597,6 +136596,13 @@
           "target_video_id": "30987763",
           "permanent": false,
           "attempted_at": "2026-11-11T19:30:23.331777+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33063567",
+          "target_video_id": "30987763",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:39:36.898585+00:00"
         }
       ],
       "last_plan": {
@@ -136610,12 +136616,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T05:57:30.506123+00:00",
         "relay_source_id": "33063567"
-      },
-      "claim": {
-        "worker_id": "3679780f66f04c25bb69bc851565874b-shard-0",
-        "claimed_at": "2026-11-11T20:39:34.776722+00:00",
-        "lease_expires_at": "2026-11-12T02:39:34.776722+00:00",
-        "run_id": "43067513109"
       }
     },
     "15334": {
@@ -145862,7 +145862,7 @@
       "last_plan": {
         "source_id": "30615027",
         "display_name": "Freon Ghost (Freonový duch) SD CZ Dabing",
-        "planned_at": "2026-11-11T20:39:34.328037+00:00"
+        "planned_at": "2026-11-11T20:39:36.617300+00:00"
       }
     },
     "21735": {
@@ -197564,5 +197564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:39:34.932085+00:00"
+  "updated_at": "2026-11-11T20:39:37.036733+00:00"
 }
