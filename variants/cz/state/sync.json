@@ -119344,13 +119344,6 @@
           "source_id": "21276911",
           "target_video_id": "30984970",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:22:26.599746+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21276911",
-          "target_video_id": "30984970",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:38:21.051561+00:00"
         },
         {
@@ -119359,6 +119352,13 @@
           "target_video_id": "30984970",
           "permanent": false,
           "attempted_at": "2026-11-11T16:00:03.668828+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21276911",
+          "target_video_id": "30984970",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:29:40.695391+00:00"
         }
       ],
       "last_plan": {
@@ -135269,7 +135269,7 @@
       "last_plan": {
         "source_id": "34515639",
         "display_name": "Runaway (Útěk) (2025) 4K CZ Dabing",
-        "planned_at": "2026-11-11T16:00:01.939709+00:00"
+        "planned_at": "2026-11-11T18:29:39.273405+00:00"
       },
       "previous_target_id": "30987605",
       "prepared": {
@@ -135277,6 +135277,12 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-11-11T05:23:51.134886+00:00",
         "relay_source_id": "34515639"
+      },
+      "claim": {
+        "worker_id": "81a3ac92e2d04a31bd53f60095b08e0f-shard-0",
+        "claimed_at": "2026-11-11T18:29:39.748534+00:00",
+        "lease_expires_at": "2026-11-12T00:29:39.748534+00:00",
+        "run_id": "43067513109"
       }
     },
     "25125": {
@@ -145233,7 +145239,7 @@
       "last_plan": {
         "source_id": "34696336",
         "display_name": "Das Märchen von der Regentrude 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:29:37.400375+00:00"
+        "planned_at": "2026-11-11T18:29:39.489496+00:00"
       }
     },
     "30218": {
@@ -197048,5 +197054,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:29:37.400389+00:00"
+  "updated_at": "2026-11-11T18:29:40.695406+00:00"
 }
