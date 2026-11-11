@@ -112933,13 +112933,6 @@
           "source_id": "31202256",
           "target_video_id": "30984050",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:04:36.908573+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31202256",
-          "target_video_id": "30984050",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:45:34.987024+00:00"
         },
         {
@@ -112948,6 +112941,13 @@
           "target_video_id": "30984050",
           "permanent": false,
           "attempted_at": "2026-11-11T00:23:05.068644+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31202256",
+          "target_video_id": "30984050",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:04:27.281521+00:00"
         }
       ],
       "last_plan": {
@@ -117822,7 +117822,7 @@
       "last_plan": {
         "source_id": "18074487",
         "display_name": "Arctic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:23:05.596446+00:00"
+        "planned_at": "2026-11-11T01:04:25.478331+00:00"
       },
       "previous_target_id": "30984856",
       "prepared": {
@@ -117830,6 +117830,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:54:08.603423+00:00",
         "relay_source_id": "18074487"
+      },
+      "claim": {
+        "worker_id": "16b04a484b314d2b9dc23b210dac1806-shard-0",
+        "claimed_at": "2026-11-11T01:04:26.228958+00:00",
+        "lease_expires_at": "2026-11-11T07:04:26.228958+00:00",
+        "run_id": "42904278669"
       }
     },
     "2956": {
@@ -127190,7 +127196,7 @@
       "last_plan": {
         "source_id": "14705539",
         "display_name": "Valan: Valley of Angels (Valan - Az angyalok völgye) 720p CZ Dabing",
-        "planned_at": "2026-11-11T01:04:23.426054+00:00"
+        "planned_at": "2026-11-11T01:04:25.793340+00:00"
       }
     },
     "29329": {
@@ -181696,5 +181702,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:04:23.426075+00:00"
+  "updated_at": "2026-11-11T01:04:27.281542+00:00"
 }
