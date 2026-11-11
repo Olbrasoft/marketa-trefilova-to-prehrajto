@@ -622,3 +622,4 @@ Attach subtitles only after target processing has finished.
 | Two Brothers 1080p CZ Titulky | 30987615 | https://sdilej.cz/10716193/sorry-to-bother-you-cz-titulky-fullhd-1080p.mkv | Extract Czech track from exact source after processing |
 | The Roundup (범죄도시 2) 1080p CZ Titulky | 30987709 | https://sdilej.cz/22321220/the.roundup.2022.cz.titulky.1080p.mkv | Extract Czech track from exact source after processing |
 | The Most Dangerous Game 1080p CZ Titulky | 30987757 | https://sdilej.cz/27648883/nejnebezpecnejsi-hra-1932-.mkv | Extract Czech track from exact source after processing |
+| Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky | 30987870 | https://sdilej.cz/12196905/bitva-o-sevastopol-battle-for-sevastopol-2015-titulky.cz-1080p-dts.mkv | Extract Czech track from exact source after processing |
