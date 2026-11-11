@@ -111028,6 +111028,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T14:51:02.683791+00:00",
         "relay_source_id": "34952768"
+      },
+      "claim": {
+        "worker_id": "794dc48d03d1453f987a5b7ebb51c0f8-shard-0",
+        "claimed_at": "2026-11-11T07:13:42.988042+00:00",
+        "lease_expires_at": "2026-11-11T13:13:42.988042+00:00",
+        "run_id": "42965310158"
       }
     },
     "13010": {
@@ -111046,13 +111052,6 @@
           "source_id": "35073576",
           "target_video_id": "30983807",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:52:54.679118+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35073576",
-          "target_video_id": "30983807",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:33:14.193353+00:00"
         },
         {
@@ -111061,6 +111060,13 @@
           "target_video_id": "30983807",
           "permanent": false,
           "attempted_at": "2026-11-11T06:20:01.333086+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35073576",
+          "target_video_id": "30983807",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:13:43.564638+00:00"
         }
       ],
       "last_plan": {
@@ -111074,12 +111080,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T14:51:07.924459+00:00",
         "relay_source_id": "35073576"
-      },
-      "claim": {
-        "worker_id": "4896f34487a5486d8f1e2f731530ea62-shard-0",
-        "claimed_at": "2026-11-11T07:13:40.347980+00:00",
-        "lease_expires_at": "2026-11-11T13:13:40.347980+00:00",
-        "run_id": "42965310158"
       }
     },
     "12571": {
@@ -126935,7 +126935,7 @@
       "last_plan": {
         "source_id": "26168894",
         "display_name": "Victim/Suspect 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:20:04.738385+00:00"
+        "planned_at": "2026-11-11T07:13:43.276553+00:00"
       },
       "previous_target_id": "30986421",
       "prepared": {
@@ -138252,7 +138252,7 @@
       "last_plan": {
         "source_id": "15665884",
         "display_name": "Parallel Worlds 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:13:40.863448+00:00"
+        "planned_at": "2026-11-11T07:13:43.751539+00:00"
       }
     },
     "25668": {
@@ -191037,5 +191037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:13:41.094615+00:00"
+  "updated_at": "2026-11-11T07:13:43.751555+00:00"
 }
