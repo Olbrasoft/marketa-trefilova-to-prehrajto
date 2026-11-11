@@ -29051,13 +29051,6 @@
           "source_id": "28442451",
           "target_video_id": "30721408",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:10:18.822126+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28442451",
-          "target_video_id": "30721408",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:48:15.546513+00:00"
         },
         {
@@ -29066,12 +29059,19 @@
           "target_video_id": "30721408",
           "permanent": false,
           "attempted_at": "2026-11-11T01:29:01.252904+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28442451",
+          "target_video_id": "30721408",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:14:20.175077+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28442451",
         "display_name": "Synecdoche, New York SD CZ Dabing",
-        "planned_at": "2026-11-11T01:28:58.196964+00:00"
+        "planned_at": "2026-11-11T02:14:17.640103+00:00"
       },
       "previous_target_id": "30721408",
       "prepared": {
@@ -128611,14 +128611,30 @@
       "last_plan": {
         "source_id": "34796896",
         "display_name": "On the Comet (Na kometě) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:11:13.579114+00:00"
+        "planned_at": "2026-11-11T02:14:17.873154+00:00"
+      },
+      "claim": {
+        "worker_id": "9c017b1f669a4daea7238a34ea053e7d-shard-0",
+        "claimed_at": "2026-11-11T02:14:18.607463+00:00",
+        "lease_expires_at": "2026-11-11T08:14:18.607463+00:00",
+        "run_id": "42938376778"
       }
     },
     "15845": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30726013",
+        "display_name": "Solitude (Einvera) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T02:14:18.009788+00:00"
+      }
     },
     "18985": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34774875",
+        "display_name": "Waterboys 1080p CZ Dabing",
+        "planned_at": "2026-11-11T02:14:18.143470+00:00"
+      }
     },
     "22072": {
       "attempts": []
@@ -182854,5 +182870,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:12:02.316802+00:00"
+  "updated_at": "2026-11-11T02:14:20.175090+00:00"
 }
