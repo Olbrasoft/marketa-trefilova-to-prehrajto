@@ -118573,13 +118573,6 @@
           "source_id": "13046628",
           "target_video_id": "30984895",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:14:31.714288+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13046628",
-          "target_video_id": "30984895",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:53:27.693288+00:00"
         },
         {
@@ -118588,6 +118581,13 @@
           "target_video_id": "30984895",
           "permanent": false,
           "attempted_at": "2026-11-11T00:30:45.531962+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13046628",
+          "target_video_id": "30984895",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:12:30.385179+00:00"
         }
       ],
       "last_plan": {
@@ -120218,7 +120218,7 @@
       "last_plan": {
         "source_id": "17805705",
         "display_name": "Ballerina (2016) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:30:44.089504+00:00"
+        "planned_at": "2026-11-11T01:12:29.016556+00:00"
       },
       "previous_target_id": "30985024",
       "prepared": {
@@ -120226,6 +120226,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T18:36:07.983562+00:00",
         "relay_source_id": "17805705"
+      },
+      "claim": {
+        "worker_id": "ca5c86853e0d406c9542d5bbb23fcbf8-shard-0",
+        "claimed_at": "2026-11-11T01:12:29.778263+00:00",
+        "lease_expires_at": "2026-11-11T07:12:29.778263+00:00",
+        "run_id": "42904278669"
       }
     },
     "21367": {
@@ -127316,7 +127322,7 @@
       "last_plan": {
         "source_id": "34909924",
         "display_name": "Winter in Sokcho 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:12:26.998892+00:00"
+        "planned_at": "2026-11-11T01:12:29.335483+00:00"
       }
     },
     "15073": {
@@ -181802,5 +181808,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:12:26.998924+00:00"
+  "updated_at": "2026-11-11T01:12:30.385201+00:00"
 }
