@@ -117913,13 +117913,6 @@
           "source_id": "32263146",
           "target_video_id": "30984860",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:23:50.036816+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32263146",
-          "target_video_id": "30984860",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:05:12.866350+00:00"
         },
         {
@@ -117928,6 +117921,13 @@
           "target_video_id": "30984860",
           "permanent": false,
           "attempted_at": "2026-11-11T01:46:30.470529+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32263146",
+          "target_video_id": "30984860",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:27:19.366622+00:00"
         }
       ],
       "last_plan": {
@@ -117941,12 +117941,6 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-11-10T17:56:45.657447+00:00",
         "relay_source_id": "32263146"
-      },
-      "claim": {
-        "worker_id": "ee5b22549d90495a8a548393c1341e02-shard-0",
-        "claimed_at": "2026-11-11T02:27:16.346091+00:00",
-        "lease_expires_at": "2026-11-11T08:27:16.346091+00:00",
-        "run_id": "42938376778"
       }
     },
     "3157": {
@@ -119512,7 +119506,7 @@
       "last_plan": {
         "source_id": "15342199",
         "display_name": "Jersey Boys 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:46:30.726434+00:00"
+        "planned_at": "2026-11-11T02:27:18.621207+00:00"
       },
       "previous_target_id": "30984988",
       "prepared": {
@@ -119520,6 +119514,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T18:27:44.097179+00:00",
         "relay_source_id": "15342199"
+      },
+      "claim": {
+        "worker_id": "3bd05744e3d74037b5338b7a7084eac7-shard-0",
+        "claimed_at": "2026-11-11T02:27:19.069633+00:00",
+        "lease_expires_at": "2026-11-11T08:27:19.069633+00:00",
+        "run_id": "42938376778"
       }
     },
     "22451": {
@@ -128952,7 +128952,7 @@
       "last_plan": {
         "source_id": "15144262",
         "display_name": "The Salt Prince (Soľ nad zlato) SD CZ Dabing",
-        "planned_at": "2026-11-11T02:27:16.105315+00:00"
+        "planned_at": "2026-11-11T02:27:18.823300+00:00"
       }
     },
     "14824": {
@@ -183129,5 +183129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:27:17.180626+00:00"
+  "updated_at": "2026-11-11T02:27:19.366631+00:00"
 }
