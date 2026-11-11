@@ -115400,13 +115400,6 @@
           "source_id": "33509401",
           "target_video_id": "30984644",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:52:50.732226+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33509401",
-          "target_video_id": "30984644",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:29:45.193764+00:00"
         },
         {
@@ -115415,6 +115408,13 @@
           "target_video_id": "30984644",
           "permanent": false,
           "attempted_at": "2026-11-11T05:10:56.804563+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33509401",
+          "target_video_id": "30984644",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:52:22.775874+00:00"
         }
       ],
       "last_plan": {
@@ -115428,12 +115428,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T17:11:59.687801+00:00",
         "relay_source_id": "33509401"
-      },
-      "claim": {
-        "worker_id": "21caea0956e140bc8d80c201b2038a33-shard-0",
-        "claimed_at": "2026-11-11T05:52:19.773447+00:00",
-        "lease_expires_at": "2026-11-11T11:52:19.773447+00:00",
-        "run_id": "42938376778"
       }
     },
     "12034": {
@@ -117245,7 +117239,7 @@
       "last_plan": {
         "source_id": "33733528",
         "display_name": "Storks 4K CZ Dabing",
-        "planned_at": "2026-11-11T05:10:56.315136+00:00"
+        "planned_at": "2026-11-11T05:52:22.131462+00:00"
       },
       "previous_target_id": "30984809",
       "prepared": {
@@ -117253,6 +117247,12 @@
         "size_bytes": 45300000000,
         "prepared_at": "2026-11-10T17:42:53.934475+00:00",
         "relay_source_id": "33733528"
+      },
+      "claim": {
+        "worker_id": "1a5d7bd4ef3d4d6382d0eb3394fcd1c3-shard-0",
+        "claimed_at": "2026-11-11T05:52:22.632128+00:00",
+        "lease_expires_at": "2026-11-11T11:52:22.632128+00:00",
+        "run_id": "42938376778"
       }
     },
     "3148": {
@@ -135546,7 +135546,7 @@
       "last_plan": {
         "source_id": "29399903",
         "display_name": "Murder in Angoulême (Le Prix de la trahison) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:52:19.484862+00:00"
+        "planned_at": "2026-11-11T05:52:22.343714+00:00"
       }
     },
     "20710": {
@@ -188721,5 +188721,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:52:20.656427+00:00"
+  "updated_at": "2026-11-11T05:52:22.775886+00:00"
 }
