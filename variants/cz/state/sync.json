@@ -111603,13 +111603,6 @@
           "source_id": "33855360",
           "target_video_id": "30983838",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:19:06.056186+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855360",
-          "target_video_id": "30983838",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:57:39.508319+00:00"
         },
         {
@@ -111618,6 +111611,13 @@
           "target_video_id": "30983838",
           "permanent": false,
           "attempted_at": "2026-11-11T00:36:31.934980+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855360",
+          "target_video_id": "30983838",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:17:27.272870+00:00"
         }
       ],
       "last_plan": {
@@ -111631,12 +111631,6 @@
         "size_bytes": 8900000000,
         "prepared_at": "2026-11-10T14:56:59.066784+00:00",
         "relay_source_id": "33855360"
-      },
-      "claim": {
-        "worker_id": "aab0145203ee492c9a86f84cc8e2af9d-shard-0",
-        "claimed_at": "2026-11-11T01:17:23.990068+00:00",
-        "lease_expires_at": "2026-11-11T07:17:23.990068+00:00",
-        "run_id": "42904278669"
       }
     },
     "32996": {
@@ -113686,7 +113680,7 @@
       "last_plan": {
         "source_id": "31982080",
         "display_name": "Extraction (2020) 4K CZ Dabing",
-        "planned_at": "2026-11-11T00:36:31.366491+00:00"
+        "planned_at": "2026-11-11T01:17:26.321151+00:00"
       },
       "previous_target_id": "30984113",
       "prepared": {
@@ -113694,6 +113688,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:29:05.818325+00:00",
         "relay_source_id": "31982080"
+      },
+      "claim": {
+        "worker_id": "edb7752f13884fd6bd70cdac0a19c227-shard-0",
+        "claimed_at": "2026-11-11T01:17:27.056160+00:00",
+        "lease_expires_at": "2026-11-11T07:17:27.056160+00:00",
+        "run_id": "42904278669"
       }
     },
     "2796": {
@@ -127480,6 +127480,13 @@
         "claimed_at": "2026-11-11T01:17:22.949351+00:00",
         "lease_expires_at": "2026-11-11T07:17:22.949351+00:00",
         "run_id": "42904278669"
+      },
+      "previous_target_id": "30986638",
+      "prepared": {
+        "target_video_id": "30986638",
+        "size_bytes": 2576974895,
+        "prepared_at": "2026-11-11T01:17:27.454817+00:00",
+        "relay_source_id": "34454365"
       }
     },
     "36911": {
@@ -127490,7 +127497,7 @@
       "last_plan": {
         "source_id": "32454208",
         "display_name": "The Portuguese House (Una quinta portuguesa) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:17:23.538685+00:00"
+        "planned_at": "2026-11-11T01:17:26.640822+00:00"
       }
     },
     "22342": {
@@ -181928,5 +181935,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:17:24.675589+00:00"
+  "updated_at": "2026-11-11T01:17:27.454836+00:00"
 }
