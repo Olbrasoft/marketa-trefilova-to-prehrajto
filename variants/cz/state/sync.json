@@ -132196,13 +132196,6 @@
           "source_id": "31648494",
           "target_video_id": "30987174",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:52:31.782191+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31648494",
-          "target_video_id": "30987174",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:29:29.105805+00:00"
         },
         {
@@ -132211,12 +132204,19 @@
           "target_video_id": "30987174",
           "permanent": false,
           "attempted_at": "2026-11-11T05:10:44.329207+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31648494",
+          "target_video_id": "30987174",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:52:03.287563+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31648494",
         "display_name": "Městečko na dlani 720p CZ Dabing",
-        "planned_at": "2026-11-11T05:10:39.782379+00:00"
+        "planned_at": "2026-11-11T05:52:01.458841+00:00"
       },
       "previous_target_id": "30987174",
       "prepared": {
@@ -135460,17 +135460,19 @@
       "attempts": []
     },
     "16243": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33807241",
+          "target_video_id": "30987739",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:52:03.456552+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33807241",
         "display_name": "How to Be Normal and the Oddness of the Other World 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:51:21.798172+00:00"
-      },
-      "claim": {
-        "worker_id": "f9908c6bf64a41d189f918cce3341107-shard-0",
-        "claimed_at": "2026-11-11T05:51:23.670113+00:00",
-        "lease_expires_at": "2026-11-11T11:51:23.670113+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987739",
       "prepared": {
@@ -135509,7 +135511,7 @@
       "last_plan": {
         "source_id": "32941007",
         "display_name": "The Websters Movie (Websterovci vo filme) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:51:58.276199+00:00"
+        "planned_at": "2026-11-11T05:52:01.666808+00:00"
       }
     },
     "30381": {
@@ -188693,5 +188695,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:52:00.041015+00:00"
+  "updated_at": "2026-11-11T05:52:03.456563+00:00"
 }
