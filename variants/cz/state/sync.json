@@ -116528,6 +116528,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-11-10T17:30:54.981439+00:00",
         "relay_source_id": "33853425"
+      },
+      "claim": {
+        "worker_id": "6fdfcc1d2c0d497f8f1d92feeffe1fcf-shard-0",
+        "claimed_at": "2026-11-11T07:13:48.292572+00:00",
+        "lease_expires_at": "2026-11-11T13:13:48.292572+00:00",
+        "run_id": "42965310158"
       }
     },
     "11798": {
@@ -126909,13 +126915,6 @@
           "source_id": "26168894",
           "target_video_id": "30986421",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:53:01.463735+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168894",
-          "target_video_id": "30986421",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:33:19.109770+00:00"
         },
         {
@@ -126924,6 +126923,13 @@
           "target_video_id": "30986421",
           "permanent": false,
           "attempted_at": "2026-11-11T06:20:08.412849+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168894",
+          "target_video_id": "30986421",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:13:49.043190+00:00"
         }
       ],
       "last_plan": {
@@ -126937,12 +126943,6 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T00:25:57.856645+00:00",
         "relay_source_id": "26168894"
-      },
-      "claim": {
-        "worker_id": "f22754cfc7444e37b662e91ff4bac2fb-shard-0",
-        "claimed_at": "2026-11-11T07:13:45.614687+00:00",
-        "lease_expires_at": "2026-11-11T13:13:45.614687+00:00",
-        "run_id": "42965310158"
       }
     },
     "16562": {
@@ -135582,7 +135582,7 @@
       "last_plan": {
         "source_id": "34865840",
         "display_name": "Holka nebo kluk (Holka nebo kluk?) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:20:10.658851+00:00"
+        "planned_at": "2026-11-11T07:13:48.521459+00:00"
       },
       "previous_target_id": "30987641",
       "prepared": {
@@ -138252,7 +138252,7 @@
       "last_plan": {
         "source_id": "15665884",
         "display_name": "Parallel Worlds 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:13:46.088079+00:00"
+        "planned_at": "2026-11-11T07:13:48.809601+00:00"
       }
     },
     "25668": {
@@ -191037,5 +191037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:13:46.558779+00:00"
+  "updated_at": "2026-11-11T07:13:49.043214+00:00"
 }
