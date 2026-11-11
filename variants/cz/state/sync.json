@@ -132316,17 +132316,19 @@
       }
     },
     "32273": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27909373",
+          "target_video_id": "30987304",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:14:09.273143+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27909373",
         "display_name": "Murder Czech Style (Vražda po našem) SD CZ Dabing",
         "planned_at": "2026-11-11T04:13:27.061457+00:00"
-      },
-      "claim": {
-        "worker_id": "07998ca859d547038f7a18236770be9c-shard-0",
-        "claimed_at": "2026-11-11T04:13:27.568068+00:00",
-        "lease_expires_at": "2026-11-11T10:13:27.568068+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987304",
       "prepared": {
@@ -185966,5 +185968,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:14:07.812176+00:00"
+  "updated_at": "2026-11-11T04:14:09.273159+00:00"
 }
