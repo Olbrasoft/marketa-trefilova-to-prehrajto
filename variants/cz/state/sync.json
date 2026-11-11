@@ -128584,17 +128584,19 @@
       }
     },
     "14540": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29223001",
+          "target_video_id": "30986795",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:12:02.316784+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29223001",
         "display_name": "La maternal 720p CZ Dabing",
         "planned_at": "2026-11-11T02:10:48.699961+00:00"
-      },
-      "claim": {
-        "worker_id": "a22e81ac6de84cab949211e16a1baae6-shard-0",
-        "claimed_at": "2026-11-11T02:10:50.740002+00:00",
-        "lease_expires_at": "2026-11-11T08:10:50.740002+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986795",
       "prepared": {
@@ -182852,5 +182854,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:11:17.011199+00:00"
+  "updated_at": "2026-11-11T02:12:02.316802+00:00"
 }
