@@ -120112,6 +120112,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-10T18:34:52.542208+00:00",
         "relay_source_id": "10458356"
+      },
+      "claim": {
+        "worker_id": "b7244107e45e410ab74d2e6e5066bb8f-shard-0",
+        "claimed_at": "2026-11-11T06:24:05.753787+00:00",
+        "lease_expires_at": "2026-11-11T12:24:05.753787+00:00",
+        "run_id": "42965310158"
       }
     },
     "20300": {
@@ -136529,17 +136535,19 @@
       }
     },
     "12822": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34869110",
+          "target_video_id": "30987843",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:24:05.946810+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34869110",
         "display_name": "Kopretiny pro zámeckou paní 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:23:21.183321+00:00"
-      },
-      "claim": {
-        "worker_id": "3cfbe4bfc02848bb9a0b65b9e2ae4e10-shard-0",
-        "claimed_at": "2026-11-11T06:23:21.879033+00:00",
-        "lease_expires_at": "2026-11-11T12:23:21.879033+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987843",
       "prepared": {
@@ -189582,5 +189590,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:24:03.925466+00:00"
+  "updated_at": "2026-11-11T06:24:05.946827+00:00"
 }
