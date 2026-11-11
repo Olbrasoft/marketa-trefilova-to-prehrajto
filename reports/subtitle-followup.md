@@ -630,3 +630,4 @@ Attach subtitles only after target processing has finished.
 | The Night of the 12th (La Nuit du 12) 1080p CZ Titulky | 30988430 | https://sdilej.cz/26365359/la-nuit-du-12-the-night-of-the-12th-2022-sktit-v-obraze-bluray-1080p.mkv | Extract Czech track from exact source after processing |
 | Legacy, notre héritage (Legacy) 1080p CZ Titulky | 30988551 | https://sdilej.cz/17633756/space-jam-a-new-legacy-space-jam-novy-zacatek-2021-1080p-aac5.1-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Baramulla (बारामूला) 1080p CZ Titulky | 30988608 | https://sdilej.cz/32361142/baramulla-2025-horor-cztit.mkv | Extract Czech track from exact source after processing |
+| Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky | 30988745 | https://sdilej.cz/23240065/pariz-13.-obvod-les-olympiades-1080p-2021-vlozene-cz-titulky-malasorte.mkv | Extract Czech track from exact source after processing |
