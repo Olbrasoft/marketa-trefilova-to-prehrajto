@@ -126588,7 +126588,7 @@
       "last_plan": {
         "source_id": "34673496",
         "display_name": "Death of a Corrupt Man (Mort d'un pourri) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:58:24.795469+00:00"
+        "planned_at": "2026-11-11T06:51:20.116146+00:00"
       },
       "previous_target_id": "30986337",
       "prepared": {
@@ -127254,6 +127254,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T00:48:00.728947+00:00",
         "relay_source_id": "33228388"
+      },
+      "claim": {
+        "worker_id": "674ce5d04dee445796cda5eba3f40077-shard-0",
+        "claimed_at": "2026-11-11T06:51:19.878576+00:00",
+        "lease_expires_at": "2026-11-11T12:51:19.878576+00:00",
+        "run_id": "42965310158"
       }
     },
     "3107": {
@@ -137509,17 +137515,19 @@
       }
     },
     "11038": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34885521",
+          "target_video_id": "30987929",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:51:20.420144+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34885521",
         "display_name": "Killing the Devil (Vražda ing. Čerta) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:50:34.350155+00:00"
-      },
-      "claim": {
-        "worker_id": "e9657882a6c14645abb8c30a7347db69-shard-0",
-        "claimed_at": "2026-11-11T06:50:37.829400+00:00",
-        "lease_expires_at": "2026-11-11T12:50:37.829400+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987929",
       "prepared": {
@@ -190403,5 +190411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:51:18.251818+00:00"
+  "updated_at": "2026-11-11T06:51:20.420162+00:00"
 }
