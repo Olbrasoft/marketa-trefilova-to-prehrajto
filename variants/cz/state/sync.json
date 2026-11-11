@@ -116345,13 +116345,6 @@
           "source_id": "15937877",
           "target_video_id": "30984731",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:00:10.370413+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15937877",
-          "target_video_id": "30984731",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:10:52.207535+00:00"
         },
         {
@@ -116360,6 +116353,13 @@
           "target_video_id": "30984731",
           "permanent": false,
           "attempted_at": "2026-11-11T22:46:09.868279+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15937877",
+          "target_video_id": "30984731",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:59:31.230331+00:00"
         }
       ],
       "last_plan": {
@@ -116550,7 +116550,7 @@
       "last_plan": {
         "source_id": "34150039",
         "display_name": "The Long Kiss Goodnight 4K CZ Dabing",
-        "planned_at": "2026-11-11T22:46:14.219950+00:00"
+        "planned_at": "2026-11-11T23:59:29.937868+00:00"
       },
       "previous_target_id": "30984742",
       "prepared": {
@@ -116558,6 +116558,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T17:30:44.935597+00:00",
         "relay_source_id": "34150039"
+      },
+      "claim": {
+        "worker_id": "adde5f1e6d354174a9310c3e63374251-shard-0",
+        "claimed_at": "2026-11-11T23:59:30.870420+00:00",
+        "lease_expires_at": "2026-11-12T05:59:30.870420+00:00",
+        "run_id": "43102571398"
       }
     },
     "2471": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-11T23:59:27.376944+00:00"
+        "planned_at": "2026-11-11T23:59:30.292136+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:59:27.654760+00:00"
+  "updated_at": "2026-11-11T23:59:31.230351+00:00"
 }
