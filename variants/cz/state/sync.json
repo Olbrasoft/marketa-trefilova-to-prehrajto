@@ -117330,13 +117330,6 @@
           "source_id": "29121811",
           "target_video_id": "30984814",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:45:11.684808+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29121811",
-          "target_video_id": "30984814",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:18:03.868480+00:00"
         },
         {
@@ -117345,6 +117338,13 @@
           "target_video_id": "30984814",
           "permanent": false,
           "attempted_at": "2026-11-11T03:53:09.528341+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29121811",
+          "target_video_id": "30984814",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:30:02.800898+00:00"
         }
       ],
       "last_plan": {
@@ -117358,12 +117358,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:43:42.588478+00:00",
         "relay_source_id": "29121811"
-      },
-      "claim": {
-        "worker_id": "b78b374f1c7c43b6959433b0b1bef527-shard-0",
-        "claimed_at": "2026-11-11T04:29:59.913060+00:00",
-        "lease_expires_at": "2026-11-11T10:29:59.913060+00:00",
-        "run_id": "42938376778"
       }
     },
     "3110": {
@@ -122462,7 +122456,7 @@
       "last_plan": {
         "source_id": "34911142",
         "display_name": "The Girl in the Fog (La ragazza nella nebbia) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:53:09.033114+00:00"
+        "planned_at": "2026-11-11T04:30:02.303548+00:00"
       },
       "previous_target_id": "30985499",
       "prepared": {
@@ -122470,6 +122464,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:47:48.561303+00:00",
         "relay_source_id": "34911142"
+      },
+      "claim": {
+        "worker_id": "999b701f069a45799fd05a12a85b0267-shard-0",
+        "claimed_at": "2026-11-11T04:30:02.930172+00:00",
+        "lease_expires_at": "2026-11-11T10:30:02.930172+00:00",
+        "run_id": "42938376778"
       }
     },
     "25109": {
@@ -132898,7 +132898,7 @@
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:29:59.658853+00:00"
+        "planned_at": "2026-11-11T04:30:02.514413+00:00"
       }
     },
     "32074": {
@@ -186448,5 +186448,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:30:00.793070+00:00"
+  "updated_at": "2026-11-11T04:30:02.930189+00:00"
 }
