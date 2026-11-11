@@ -109953,13 +109953,6 @@
           "source_id": "35184124",
           "target_video_id": "30983741",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:01:50.253289+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35184124",
-          "target_video_id": "30983741",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:58:38.276281+00:00"
         },
         {
@@ -109968,6 +109961,13 @@
           "target_video_id": "30983741",
           "permanent": false,
           "attempted_at": "2026-11-11T08:59:41.492176+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35184124",
+          "target_video_id": "30983741",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:16:31.030490+00:00"
         }
       ],
       "last_plan": {
@@ -116078,7 +116078,7 @@
       "last_plan": {
         "source_id": "14845493",
         "display_name": "Mank 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:59:40.873248+00:00"
+        "planned_at": "2026-11-11T10:16:29.613235+00:00"
       },
       "previous_target_id": "30984699",
       "prepared": {
@@ -116086,6 +116086,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:20:31.441781+00:00",
         "relay_source_id": "14845493"
+      },
+      "claim": {
+        "worker_id": "fa151d752dba4b5ca949542487dbc6ec-shard-0",
+        "claimed_at": "2026-11-11T10:16:30.295026+00:00",
+        "lease_expires_at": "2026-11-11T16:16:30.295026+00:00",
+        "run_id": "42965310158"
       }
     },
     "2816": {
@@ -143091,7 +143097,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:16:27.420421+00:00"
+        "planned_at": "2026-11-11T10:16:29.928927+00:00"
       }
     },
     "20941": {
@@ -195219,5 +195225,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:16:27.663830+00:00"
+  "updated_at": "2026-11-11T10:16:31.030508+00:00"
 }
