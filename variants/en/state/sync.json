@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:59:26.957194+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:29:32.665808+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-11T09:59:38.092213+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:08:51.154501+00:00"
         }
       ],
       "last_plan": {
@@ -35170,7 +35170,7 @@
       "last_plan": {
         "source_id": "9657833",
         "display_name": "The Place SD CZ Titulky",
-        "planned_at": "2026-11-11T10:01:35.762337+00:00"
+        "planned_at": "2026-11-11T12:08:50.098827+00:00"
       },
       "previous_target_id": "30988255",
       "prepared": {
@@ -35178,6 +35178,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:59:47.278610+00:00",
         "relay_source_id": "9657833"
+      },
+      "claim": {
+        "worker_id": "8b43c5328b554ba5bfbc864315012320-shard-0",
+        "claimed_at": "2026-11-11T12:08:50.480665+00:00",
+        "lease_expires_at": "2026-11-11T18:08:50.480665+00:00",
+        "run_id": "43011363893"
       }
     },
     "25179": {
@@ -35572,7 +35578,7 @@
       "last_plan": {
         "source_id": "29895942",
         "display_name": "King of Kings 720p CZ Titulky",
-        "planned_at": "2026-11-11T12:08:47.488951+00:00"
+        "planned_at": "2026-11-11T12:08:50.372698+00:00"
       }
     },
     "14291": {
@@ -96851,5 +96857,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:08:47.488970+00:00"
+  "updated_at": "2026-11-11T12:08:51.154516+00:00"
 }
