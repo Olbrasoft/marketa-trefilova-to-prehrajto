@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "918457323e5c4ddb9b5dc776b8aa4a02-shard-0",
+        "claimed_at": "2026-11-11T12:10:15.929709+00:00",
+        "lease_expires_at": "2026-11-11T18:10:15.929709+00:00",
+        "run_id": "43011363893"
       }
     },
     "31551": {
@@ -34371,13 +34377,6 @@
           "source_id": "35468703",
           "target_video_id": "30986211",
           "permanent": false,
-          "attempted_at": "2026-11-11T09:09:23.246695+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35468703",
-          "target_video_id": "30986211",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:39:28.132138+00:00"
         },
         {
@@ -34386,12 +34385,19 @@
           "target_video_id": "30986211",
           "permanent": false,
           "attempted_at": "2026-11-11T10:09:36.494727+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35468703",
+          "target_video_id": "30986211",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:10:19.073273+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35468703",
         "display_name": "The Great Hack 1080p CZ Titulky",
-        "planned_at": "2026-11-11T10:09:34.933411+00:00"
+        "planned_at": "2026-11-11T12:10:17.222484+00:00"
       },
       "previous_target_id": "30986211",
       "prepared": {
@@ -35572,7 +35578,7 @@
       "last_plan": {
         "source_id": "29895942",
         "display_name": "King of Kings 720p CZ Titulky",
-        "planned_at": "2026-11-11T12:10:13.308667+00:00"
+        "planned_at": "2026-11-11T12:10:17.451737+00:00"
       }
     },
     "14291": {
@@ -96851,5 +96857,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:10:13.308682+00:00"
+  "updated_at": "2026-11-11T12:10:19.073289+00:00"
 }
