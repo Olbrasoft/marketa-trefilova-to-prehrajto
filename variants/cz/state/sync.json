@@ -134631,17 +134631,19 @@
       }
     },
     "13066": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30696489",
+          "target_video_id": "30987624",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:29:27.575570+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30696489",
         "display_name": "Bláhový sen 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:28:45.783531+00:00"
-      },
-      "claim": {
-        "worker_id": "755a5cecfd594baba87013aa5a8149ee-shard-0",
-        "claimed_at": "2026-11-11T05:28:46.356246+00:00",
-        "lease_expires_at": "2026-11-11T11:28:46.356246+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987624",
       "prepared": {
@@ -187969,5 +187971,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:29:26.200987+00:00"
+  "updated_at": "2026-11-11T05:29:27.575587+00:00"
 }
