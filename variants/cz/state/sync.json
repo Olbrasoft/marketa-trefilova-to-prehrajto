@@ -140390,17 +140390,19 @@
       "attempts": []
     },
     "7644": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11688648",
+          "target_video_id": "30988399",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:20:38.482311+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11688648",
         "display_name": "Boys from the Mountains (Kluci z hor) 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:19:50.610392+00:00"
-      },
-      "claim": {
-        "worker_id": "28abda186e5c48cebc2e84214b53f2e4-shard-0",
-        "claimed_at": "2026-11-11T08:19:52.657305+00:00",
-        "lease_expires_at": "2026-11-11T14:19:52.657305+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988399",
       "prepared": {
@@ -192891,5 +192893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:20:36.854969+00:00"
+  "updated_at": "2026-11-11T08:20:38.482328+00:00"
 }
