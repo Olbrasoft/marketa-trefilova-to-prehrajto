@@ -125526,13 +125526,6 @@
           "source_id": "34905544",
           "target_video_id": "30985955",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:15:55.703980+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34905544",
-          "target_video_id": "30985955",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:54:30.109816+00:00"
         },
         {
@@ -125541,6 +125534,13 @@
           "target_video_id": "30985955",
           "permanent": false,
           "attempted_at": "2026-11-11T00:32:12.566675+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34905544",
+          "target_video_id": "30985955",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:13:39.795737+00:00"
         }
       ],
       "last_plan": {
@@ -125592,7 +125592,7 @@
       "last_plan": {
         "source_id": "34700408",
         "display_name": "Firecreek 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:32:26.968018+00:00"
+        "planned_at": "2026-11-11T01:13:38.225709+00:00"
       },
       "previous_target_id": "30986040",
       "prepared": {
@@ -125600,6 +125600,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T23:07:09.114768+00:00",
         "relay_source_id": "34700408"
+      },
+      "claim": {
+        "worker_id": "16f90aa2e9204ab1874456c2a4b2c418-shard-0",
+        "claimed_at": "2026-11-11T01:13:38.999953+00:00",
+        "lease_expires_at": "2026-11-11T07:13:38.999953+00:00",
+        "run_id": "42904278669"
       }
     },
     "20329": {
@@ -127346,7 +127352,7 @@
       "last_plan": {
         "source_id": "33886529",
         "display_name": "Brother (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:13:35.816235+00:00"
+        "planned_at": "2026-11-11T01:13:38.544346+00:00"
       }
     },
     "30446": {
@@ -181829,5 +181835,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:13:36.060823+00:00"
+  "updated_at": "2026-11-11T01:13:39.795758+00:00"
 }
