@@ -128067,7 +128067,7 @@
       "last_plan": {
         "source_id": "7866512",
         "display_name": "The Kid (2010) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:31:25.695130+00:00"
+        "planned_at": "2026-11-11T18:03:27.475488+00:00"
       },
       "previous_target_id": "30986655",
       "prepared": {
@@ -128075,6 +128075,12 @@
         "size_bytes": 14400000000,
         "prepared_at": "2026-11-11T01:23:16.041857+00:00",
         "relay_source_id": "7866512"
+      },
+      "claim": {
+        "worker_id": "9add63f30e714ed7a4a200ca7ed91fad-shard-0",
+        "claimed_at": "2026-11-11T18:03:27.886264+00:00",
+        "lease_expires_at": "2026-11-12T00:03:27.886264+00:00",
+        "run_id": "43067513109"
       }
     },
     "23008": {
@@ -144825,17 +144831,23 @@
           "attempted_at": "2026-11-11T15:31:26.313172+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24347395",
-        "display_name": "Lucky Loser (Šťastný smolař) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:03:25.397721+00:00"
-      },
       "previous_target_id": "30991377",
-      "prepared": {
+      "upload": {
         "target_video_id": "30991377",
-        "size_bytes": 2590293288,
-        "prepared_at": "2026-11-11T15:18:53.031195+00:00",
-        "relay_source_id": "24347395"
+        "display_name": "Lucky Loser (Šťastný smolař) 1080p CZ Dabing",
+        "source_id": "24347395",
+        "source_url": "https://sdilej.cz/24347395/stastny-smolar-2012-dingo.mkv",
+        "source_filename": "Šťastný smolař-2012-Dingo.mkv",
+        "size_bytes": 2600000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9109381437301636,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/lucky-loser-stastny-smolar-1080p-cz-dabing-mkv/06df06155c21998c",
+        "uploaded_at": "2026-11-11T18:03:28.255274+00:00"
       }
     },
     "12668": {
@@ -145125,7 +145137,7 @@
       "last_plan": {
         "source_id": "28089630",
         "display_name": "The Pearl Maiden (O perlové panně) SD CZ Dabing",
-        "planned_at": "2026-11-11T18:03:25.764407+00:00"
+        "planned_at": "2026-11-11T18:03:27.661745+00:00"
       }
     },
     "4314": {
@@ -196950,5 +196962,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:03:25.764426+00:00"
+  "updated_at": "2026-11-11T18:03:28.255286+00:00"
 }
