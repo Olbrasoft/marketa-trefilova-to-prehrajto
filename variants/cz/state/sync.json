@@ -100514,13 +100514,6 @@
           "source_id": "35139959",
           "target_video_id": "30966007",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:15:51.501401+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35139959",
-          "target_video_id": "30966007",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:56:29.039046+00:00"
         },
         {
@@ -100529,6 +100522,13 @@
           "target_video_id": "30966007",
           "permanent": false,
           "attempted_at": "2026-11-10T23:39:51.577689+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35139959",
+          "target_video_id": "30966007",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:17:40.764670+00:00"
         }
       ],
       "last_plan": {
@@ -122008,7 +122008,7 @@
       "last_plan": {
         "source_id": "26395720",
         "display_name": "Shoot to Kill 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:39:51.802517+00:00"
+        "planned_at": "2026-11-11T00:17:39.237949+00:00"
       },
       "previous_target_id": "30985456",
       "prepared": {
@@ -122016,6 +122016,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T19:25:14.046721+00:00",
         "relay_source_id": "26395720"
+      },
+      "claim": {
+        "worker_id": "0d5e2da1227f41c991d8735c05bd575b-shard-0",
+        "claimed_at": "2026-11-11T00:17:39.986704+00:00",
+        "lease_expires_at": "2026-11-11T06:17:39.986704+00:00",
+        "run_id": "42904278669"
       }
     },
     "31788": {
@@ -126398,7 +126404,7 @@
       "last_plan": {
         "source_id": "34695526",
         "display_name": "The Birthday Wish 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:17:37.003635+00:00"
+        "planned_at": "2026-11-11T00:17:39.554417+00:00"
       }
     },
     "30990": {
@@ -181067,5 +181073,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:17:37.003655+00:00"
+  "updated_at": "2026-11-11T00:17:40.764691+00:00"
 }
