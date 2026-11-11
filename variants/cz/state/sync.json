@@ -123938,13 +123938,6 @@
           "source_id": "33000024",
           "target_video_id": "30985746",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:14:23.904902+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33000024",
-          "target_video_id": "30985746",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:54:26.597196+00:00"
         },
         {
@@ -123953,12 +123946,19 @@
           "target_video_id": "30985746",
           "permanent": false,
           "attempted_at": "2026-11-10T23:38:21.113186+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33000024",
+          "target_video_id": "30985746",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:15:58.057717+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33000024",
         "display_name": "Murder by Decree 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:38:16.531370+00:00"
+        "planned_at": "2026-11-11T00:15:55.314874+00:00"
       },
       "previous_target_id": "30985746",
       "prepared": {
@@ -126368,11 +126368,22 @@
       "last_plan": {
         "source_id": "30853709",
         "display_name": "Scooby-Doo! Stage Fright 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:15:49.547808+00:00"
+        "planned_at": "2026-11-11T00:15:55.685197+00:00"
+      },
+      "claim": {
+        "worker_id": "c1e4c8f435064434aafdbefd94c87676-shard-0",
+        "claimed_at": "2026-11-11T00:15:56.442350+00:00",
+        "lease_expires_at": "2026-11-11T06:15:56.442350+00:00",
+        "run_id": "42904278669"
       }
     },
     "17039": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34695526",
+        "display_name": "The Birthday Wish 1080p CZ Dabing",
+        "planned_at": "2026-11-11T00:15:55.871160+00:00"
+      }
     },
     "30990": {
       "attempts": []
@@ -181040,5 +181051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:15:51.408869+00:00"
+  "updated_at": "2026-11-11T00:15:58.057738+00:00"
 }
