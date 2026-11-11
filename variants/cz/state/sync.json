@@ -115067,13 +115067,6 @@
           "source_id": "32940647",
           "target_video_id": "30984626",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:38:47.638724+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32940647",
-          "target_video_id": "30984626",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:19:31.882860+00:00"
         },
         {
@@ -115082,6 +115075,13 @@
           "target_video_id": "30984626",
           "permanent": false,
           "attempted_at": "2026-11-11T02:01:01.521388+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32940647",
+          "target_video_id": "30984626",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:40:41.669600+00:00"
         }
       ],
       "last_plan": {
@@ -115095,12 +115095,6 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T17:07:46.835028+00:00",
         "relay_source_id": "32940647"
-      },
-      "claim": {
-        "worker_id": "e24e2a6ea1a54f658801fdf573b19df5-shard-0",
-        "claimed_at": "2026-11-11T02:40:39.898996+00:00",
-        "lease_expires_at": "2026-11-11T08:40:39.898996+00:00",
-        "run_id": "42938376778"
       }
     },
     "17928": {
@@ -121639,7 +121633,7 @@
       "last_plan": {
         "source_id": "27907291",
         "display_name": "Frozen Fever 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:00:59.868027+00:00"
+        "planned_at": "2026-11-11T02:40:41.314849+00:00"
       },
       "previous_target_id": "30985427",
       "prepared": {
@@ -129385,11 +129379,16 @@
       "last_plan": {
         "source_id": "34713662",
         "display_name": "Donbass (2016) 720p CZ Dabing",
-        "planned_at": "2026-11-11T02:40:38.462484+00:00"
+        "planned_at": "2026-11-11T02:40:41.523938+00:00"
       }
     },
     "10813": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34672037",
+        "display_name": "A Bagful of Fleas (Pytel blech) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T02:40:41.797578+00:00"
+      }
     },
     "13201": {
       "attempts": []
@@ -183496,5 +183495,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:40:39.899034+00:00"
+  "updated_at": "2026-11-11T02:40:41.797587+00:00"
 }
