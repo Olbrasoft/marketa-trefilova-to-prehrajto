@@ -112849,13 +112849,6 @@
           "source_id": "31063467",
           "target_video_id": "30984035",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:12:45.645938+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31063467",
-          "target_video_id": "30984035",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:09:34.634415+00:00"
         },
         {
@@ -112864,6 +112857,13 @@
           "target_video_id": "30984035",
           "permanent": false,
           "attempted_at": "2026-11-11T08:06:24.343903+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31063467",
+          "target_video_id": "30984035",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:08:01.939092+00:00"
         }
       ],
       "last_plan": {
@@ -135413,7 +135413,7 @@
       "last_plan": {
         "source_id": "30696489",
         "display_name": "Bláhový sen 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:06:23.807207+00:00"
+        "planned_at": "2026-11-11T09:08:00.153496+00:00"
       },
       "previous_target_id": "30987624",
       "prepared": {
@@ -135421,6 +135421,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T05:28:50.385454+00:00",
         "relay_source_id": "30696489"
+      },
+      "claim": {
+        "worker_id": "50d7951e42094ba5af8755249fe8d717-shard-0",
+        "claimed_at": "2026-11-11T09:08:00.926784+00:00",
+        "lease_expires_at": "2026-11-11T15:08:00.926784+00:00",
+        "run_id": "42965310158"
       }
     },
     "35394": {
@@ -142036,7 +142042,7 @@
       "last_plan": {
         "source_id": "17325368",
         "display_name": "Moments (Chvilky) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:07:58.132246+00:00"
+        "planned_at": "2026-11-11T09:08:00.430936+00:00"
       }
     },
     "33665": {
@@ -194263,5 +194269,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:07:58.132265+00:00"
+  "updated_at": "2026-11-11T09:08:01.939110+00:00"
 }
