@@ -106714,13 +106714,6 @@
           "source_id": "35161768",
           "target_video_id": "30983079",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:16:00.490069+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35161768",
-          "target_video_id": "30983079",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:55:58.213835+00:00"
         },
         {
@@ -106729,6 +106722,13 @@
           "target_video_id": "30983079",
           "permanent": false,
           "attempted_at": "2026-11-11T05:36:59.293139+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35161768",
+          "target_video_id": "30983079",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:23:22.667523+00:00"
         }
       ],
       "last_plan": {
@@ -121192,7 +121192,7 @@
       "last_plan": {
         "source_id": "31294628",
         "display_name": "Un paseo a Playa Ancha (Redeeming Love) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:36:59.137724+00:00"
+        "planned_at": "2026-11-11T06:23:20.908392+00:00"
       },
       "previous_target_id": "30985390",
       "prepared": {
@@ -121200,6 +121200,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T19:03:22.520843+00:00",
         "relay_source_id": "31294628"
+      },
+      "claim": {
+        "worker_id": "41ddc2f87105478eb1d06a456fcc21d7-shard-0",
+        "claimed_at": "2026-11-11T06:23:21.710488+00:00",
+        "lease_expires_at": "2026-11-11T12:23:21.710488+00:00",
+        "run_id": "42965310158"
       }
     },
     "2915": {
@@ -136526,11 +136532,22 @@
       "last_plan": {
         "source_id": "34869110",
         "display_name": "Kopretiny pro zámeckou paní 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:23:18.783007+00:00"
+        "planned_at": "2026-11-11T06:23:21.183321+00:00"
+      },
+      "claim": {
+        "worker_id": "3cfbe4bfc02848bb9a0b65b9e2ae4e10-shard-0",
+        "claimed_at": "2026-11-11T06:23:21.879033+00:00",
+        "lease_expires_at": "2026-11-11T12:23:21.879033+00:00",
+        "run_id": "42965310158"
       }
     },
     "24384": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32899046",
+        "display_name": "The Right to Sin SD CZ Dabing",
+        "planned_at": "2026-11-11T06:23:21.352460+00:00"
+      }
     },
     "33475": {
       "attempts": []
@@ -189557,5 +189574,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:23:18.783024+00:00"
+  "updated_at": "2026-11-11T06:23:22.667542+00:00"
 }
