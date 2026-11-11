@@ -126181,13 +126181,6 @@
           "source_id": "34695449",
           "target_video_id": "30986259",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:08:36.872508+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34695449",
-          "target_video_id": "30986259",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:10:05.570768+00:00"
         },
         {
@@ -126196,12 +126189,19 @@
           "target_video_id": "30986259",
           "permanent": false,
           "attempted_at": "2026-11-11T12:19:38.775664+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34695449",
+          "target_video_id": "30986259",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:31:26.472673+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34695449",
         "display_name": "Charlatan (Šarlatán) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:19:34.602602+00:00"
+        "planned_at": "2026-11-11T13:31:23.941767+00:00"
       },
       "previous_target_id": "30986259",
       "prepared": {
@@ -144141,7 +144141,13 @@
       "last_plan": {
         "source_id": "29876862",
         "display_name": "Crime in a Music Hall (Zločin v šantánu) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:31:18.959498+00:00"
+        "planned_at": "2026-11-11T13:31:24.326810+00:00"
+      },
+      "claim": {
+        "worker_id": "66d0ea0ede4e4025a1398e4a5e6f4aef-shard-0",
+        "claimed_at": "2026-11-11T13:31:25.258806+00:00",
+        "lease_expires_at": "2026-11-11T19:31:25.258806+00:00",
+        "run_id": "43011363893"
       }
     },
     "33400": {
@@ -144151,7 +144157,12 @@
       "attempts": []
     },
     "15060": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35428706",
+        "display_name": "Threat to Kermadec (Menace sur Kermadec) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T13:31:24.576872+00:00"
+      }
     },
     "23397": {
       "attempts": []
@@ -196155,5 +196166,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:31:21.871622+00:00"
+  "updated_at": "2026-11-11T13:31:26.472689+00:00"
 }
