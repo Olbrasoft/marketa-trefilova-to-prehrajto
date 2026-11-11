@@ -136775,17 +136775,19 @@
       }
     },
     "36738": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35068840",
+          "target_video_id": "30987861",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:29:58.524293+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35068840",
         "display_name": "Jak se tocí Rozmaryny (Jak se točí Rozmarýny) SD CZ Dabing",
         "planned_at": "2026-11-11T06:29:13.342796+00:00"
-      },
-      "claim": {
-        "worker_id": "efb637289157458c904edb1278030deb-shard-0",
-        "claimed_at": "2026-11-11T06:29:14.027522+00:00",
-        "lease_expires_at": "2026-11-11T12:29:14.027522+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987861",
       "prepared": {
@@ -189792,5 +189794,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:29:56.913018+00:00"
+  "updated_at": "2026-11-11T06:29:58.524311+00:00"
 }
