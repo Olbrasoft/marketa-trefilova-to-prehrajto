@@ -108621,7 +108621,7 @@
       "last_plan": {
         "source_id": "34789117",
         "display_name": "Barbora Hlavsová 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:17:06.736608+00:00"
+        "planned_at": "2026-11-11T04:57:12.594663+00:00"
       },
       "previous_target_id": "30983623",
       "prepared": {
@@ -108629,6 +108629,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T14:23:29.804331+00:00",
         "relay_source_id": "34789117"
+      },
+      "claim": {
+        "worker_id": "6b9b5a94e4ae422bbdba02c110fcfa4e-shard-0",
+        "claimed_at": "2026-11-11T04:57:13.053341+00:00",
+        "lease_expires_at": "2026-11-11T10:57:13.053341+00:00",
+        "run_id": "42938376778"
       }
     },
     "14263": {
@@ -111366,13 +111372,6 @@
           "source_id": "35077086",
           "target_video_id": "30983823",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:06:52.945772+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35077086",
-          "target_video_id": "30983823",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:40:52.477078+00:00"
         },
         {
@@ -111381,6 +111380,13 @@
           "target_video_id": "30983823",
           "permanent": false,
           "attempted_at": "2026-11-11T04:17:03.665238+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35077086",
+          "target_video_id": "30983823",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:57:13.229462+00:00"
         }
       ],
       "last_plan": {
@@ -111394,12 +111400,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T14:53:41.523279+00:00",
         "relay_source_id": "35077086"
-      },
-      "claim": {
-        "worker_id": "2304619d55e7424aa3533b88cea6885b-shard-0",
-        "claimed_at": "2026-11-11T04:57:10.918705+00:00",
-        "lease_expires_at": "2026-11-11T10:57:10.918705+00:00",
-        "run_id": "42938376778"
       }
     },
     "13047": {
@@ -133448,7 +133448,7 @@
       "last_plan": {
         "source_id": "34689799",
         "display_name": "Černá sobota 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:57:10.612426+00:00"
+        "planned_at": "2026-11-11T04:57:12.803224+00:00"
       }
     },
     "36839": {
@@ -186947,5 +186947,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:57:11.241119+00:00"
+  "updated_at": "2026-11-11T04:57:13.229473+00:00"
 }
