@@ -118135,13 +118135,6 @@
           "source_id": "34651094",
           "target_video_id": "30984866",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:00:10.266421+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34651094",
-          "target_video_id": "30984866",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:35:14.098060+00:00"
         },
         {
@@ -118150,6 +118143,13 @@
           "target_video_id": "30984866",
           "permanent": false,
           "attempted_at": "2026-11-11T04:11:11.874695+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34651094",
+          "target_video_id": "30984866",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:50:57.561675+00:00"
         }
       ],
       "last_plan": {
@@ -118163,12 +118163,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:58:19.721107+00:00",
         "relay_source_id": "34651094"
-      },
-      "claim": {
-        "worker_id": "7d5eee799107428286f8a43da10b21d1-shard-0",
-        "claimed_at": "2026-11-11T04:50:54.841406+00:00",
-        "lease_expires_at": "2026-11-11T10:50:54.841406+00:00",
-        "run_id": "42938376778"
       }
     },
     "11942": {
@@ -119672,7 +119666,7 @@
       "last_plan": {
         "source_id": "14652595",
         "display_name": "Oliver Twist (2005) 720p CZ Dabing",
-        "planned_at": "2026-11-11T04:11:10.595630+00:00"
+        "planned_at": "2026-11-11T04:50:57.058962+00:00"
       },
       "previous_target_id": "30984996",
       "prepared": {
@@ -119680,6 +119674,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T18:28:45.684654+00:00",
         "relay_source_id": "14652595"
+      },
+      "claim": {
+        "worker_id": "ebf9d82a9cd841d7bba269fbe8006230-shard-0",
+        "claimed_at": "2026-11-11T04:50:57.696111+00:00",
+        "lease_expires_at": "2026-11-11T10:50:57.696111+00:00",
+        "run_id": "42938376778"
       }
     },
     "23324": {
@@ -133285,7 +133285,7 @@
       "last_plan": {
         "source_id": "34676079",
         "display_name": "Madla z cihelny 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:50:54.576697+00:00"
+        "planned_at": "2026-11-11T04:50:57.273477+00:00"
       }
     },
     "24448": {
@@ -186796,5 +186796,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:50:55.538451+00:00"
+  "updated_at": "2026-11-11T04:50:57.696129+00:00"
 }
