@@ -142924,17 +142924,19 @@
       }
     },
     "15540": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34756340",
+          "target_video_id": "30988808",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:09:58.262570+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34756340",
         "display_name": "Murder in Charente (Les Mystères de la duchesse) 1080p CZ Dabing",
         "planned_at": "2026-11-11T10:07:19.889523+00:00"
-      },
-      "claim": {
-        "worker_id": "4fe14606589942ba9fd4393aa3679f31-shard-0",
-        "claimed_at": "2026-11-11T10:07:20.696020+00:00",
-        "lease_expires_at": "2026-11-11T16:07:20.696020+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988808",
       "prepared": {
@@ -195086,5 +195088,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:09:56.415632+00:00"
+  "updated_at": "2026-11-11T10:09:58.262593+00:00"
 }
