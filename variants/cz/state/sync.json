@@ -109544,13 +109544,6 @@
           "source_id": "30160689",
           "target_video_id": "30983693",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:31:33.138805+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30160689",
-          "target_video_id": "30983693",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:12:56.102442+00:00"
         },
         {
@@ -109559,6 +109552,13 @@
           "target_video_id": "30983693",
           "permanent": false,
           "attempted_at": "2026-11-11T05:54:20.838667+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30160689",
+          "target_video_id": "30983693",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:46:26.215049+00:00"
         }
       ],
       "last_plan": {
@@ -123724,7 +123724,7 @@
       "last_plan": {
         "source_id": "33064122",
         "display_name": "Taboo 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:54:20.345596+00:00"
+        "planned_at": "2026-11-11T06:46:24.713584+00:00"
       },
       "previous_target_id": "30985714",
       "prepared": {
@@ -123732,6 +123732,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T21:26:39.868620+00:00",
         "relay_source_id": "33064122"
+      },
+      "claim": {
+        "worker_id": "8acf00f0fe20490b82a0574add0c68a5-shard-0",
+        "claimed_at": "2026-11-11T06:46:25.379738+00:00",
+        "lease_expires_at": "2026-11-11T12:46:25.379738+00:00",
+        "run_id": "42965310158"
       }
     },
     "19272": {
@@ -137379,7 +137385,7 @@
       "last_plan": {
         "source_id": "34776105",
         "display_name": "Fallow (BRAK) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:46:22.597955+00:00"
+        "planned_at": "2026-11-11T06:46:24.987115+00:00"
       }
     },
     "26977": {
@@ -190274,5 +190280,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:46:22.939725+00:00"
+  "updated_at": "2026-11-11T06:46:26.215066+00:00"
 }
