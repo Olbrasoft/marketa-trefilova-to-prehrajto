@@ -133133,17 +133133,19 @@
       }
     },
     "16650": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35418778",
+          "target_video_id": "30987434",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:46:19.014241+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35418778",
         "display_name": "Murder in the Somme (Le Vagabond de la Baie de Somme) 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:39:06.541353+00:00"
-      },
-      "claim": {
-        "worker_id": "ca95b642e9e94e9da96b25dc992ee0c0-shard-0",
-        "claimed_at": "2026-11-11T04:39:08.443199+00:00",
-        "lease_expires_at": "2026-11-11T10:39:08.443199+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987434",
       "prepared": {
@@ -186712,5 +186714,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:46:17.617259+00:00"
+  "updated_at": "2026-11-11T04:46:19.014260+00:00"
 }
