@@ -126596,6 +126596,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-11T00:03:49.455407+00:00",
         "relay_source_id": "34673496"
+      },
+      "claim": {
+        "worker_id": "8f01e189dff8442b83a0d2cebc66a828-shard-0",
+        "claimed_at": "2026-11-11T06:51:23.759399+00:00",
+        "lease_expires_at": "2026-11-11T12:51:23.759399+00:00",
+        "run_id": "42965310158"
       }
     },
     "28601": {
@@ -126628,7 +126634,7 @@
       "last_plan": {
         "source_id": "28540263",
         "display_name": "Triumph of the Spirit 720p CZ Dabing",
-        "planned_at": "2026-11-11T05:58:28.105684+00:00"
+        "planned_at": "2026-11-11T06:51:23.961115+00:00"
       },
       "previous_target_id": "30986365",
       "prepared": {
@@ -127226,13 +127232,6 @@
           "source_id": "33228388",
           "target_video_id": "30986532",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:35:59.566965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33228388",
-          "target_video_id": "30986532",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:16:12.409190+00:00"
         },
         {
@@ -127241,6 +127240,13 @@
           "target_video_id": "30986532",
           "permanent": false,
           "attempted_at": "2026-11-11T05:58:23.302659+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33228388",
+          "target_video_id": "30986532",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:51:23.590704+00:00"
         }
       ],
       "last_plan": {
@@ -127254,12 +127260,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T00:48:00.728947+00:00",
         "relay_source_id": "33228388"
-      },
-      "claim": {
-        "worker_id": "674ce5d04dee445796cda5eba3f40077-shard-0",
-        "claimed_at": "2026-11-11T06:51:19.878576+00:00",
-        "lease_expires_at": "2026-11-11T12:51:19.878576+00:00",
-        "run_id": "42965310158"
       }
     },
     "3107": {
@@ -137551,7 +137551,7 @@
       "last_plan": {
         "source_id": "34715447",
         "display_name": "Snow White (O Sněhurce) (1972) SD CZ Dabing",
-        "planned_at": "2026-11-11T06:51:21.887768+00:00"
+        "planned_at": "2026-11-11T06:51:24.227958+00:00"
       }
     },
     "4416": {
@@ -190411,5 +190411,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:51:21.887782+00:00"
+  "updated_at": "2026-11-11T06:51:24.227976+00:00"
 }
