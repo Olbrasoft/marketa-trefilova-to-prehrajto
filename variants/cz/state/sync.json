@@ -112916,7 +112916,7 @@
       "last_plan": {
         "source_id": "31008000",
         "display_name": "Signs 4K CZ Dabing",
-        "planned_at": "2026-11-11T04:09:48.234149+00:00"
+        "planned_at": "2026-11-11T04:49:46.010229+00:00"
       },
       "previous_target_id": "30984042",
       "prepared": {
@@ -112924,6 +112924,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:19:52.239174+00:00",
         "relay_source_id": "31008000"
+      },
+      "claim": {
+        "worker_id": "c0ebcd9f341d4cd5b0865977126ee50c-shard-0",
+        "claimed_at": "2026-11-11T04:49:46.499752+00:00",
+        "lease_expires_at": "2026-11-11T10:49:46.499752+00:00",
+        "run_id": "42938376778"
       }
     },
     "3134": {
@@ -129370,13 +129376,6 @@
           "source_id": "27023916",
           "target_video_id": "30986878",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:59:07.982319+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27023916",
-          "target_video_id": "30986878",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:33:08.140776+00:00"
         },
         {
@@ -129385,6 +129384,13 @@
           "target_video_id": "30986878",
           "permanent": false,
           "attempted_at": "2026-11-11T04:09:50.030569+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27023916",
+          "target_video_id": "30986878",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:49:46.684405+00:00"
         }
       ],
       "last_plan": {
@@ -129398,12 +129404,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T02:25:58.373508+00:00",
         "relay_source_id": "27023916"
-      },
-      "claim": {
-        "worker_id": "b06818376d4449b09d785247d875efd8-shard-0",
-        "claimed_at": "2026-11-11T04:49:43.793978+00:00",
-        "lease_expires_at": "2026-11-11T10:49:43.793978+00:00",
-        "run_id": "42938376778"
       }
     },
     "30998": {
@@ -132465,6 +132465,13 @@
           "target_video_id": "30987257",
           "permanent": false,
           "attempted_at": "2026-11-11T04:09:46.588822+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13939613",
+          "target_video_id": "30987257",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:49:46.812481+00:00"
         }
       ],
       "last_plan": {
@@ -132475,15 +132482,9 @@
       "previous_target_id": "30987257",
       "prepared": {
         "target_video_id": "30987257",
-        "size_bytes": 955333057,
+        "size_bytes": 955300000,
         "prepared_at": "2026-11-11T04:04:21.001639+00:00",
         "relay_source_id": "13939613"
-      },
-      "claim": {
-        "worker_id": "c5f68cddf19c4cb78700ef2564f5ed0b-shard-0",
-        "claimed_at": "2026-11-11T04:49:43.118041+00:00",
-        "lease_expires_at": "2026-11-11T10:49:43.118041+00:00",
-        "run_id": "42938376778"
       }
     },
     "21726": {
@@ -133239,7 +133240,7 @@
       "last_plan": {
         "source_id": "30622989",
         "display_name": "Concert at the End of Summer (Koncert na konci léta) SD CZ Dabing",
-        "planned_at": "2026-11-11T04:49:43.485798+00:00"
+        "planned_at": "2026-11-11T04:49:46.215613+00:00"
       }
     },
     "25487": {
@@ -186761,5 +186762,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:49:43.793991+00:00"
+  "updated_at": "2026-11-11T04:49:46.812492+00:00"
 }
