@@ -133921,6 +133921,13 @@
           "target_video_id": "30987477",
           "permanent": false,
           "attempted_at": "2026-11-11T05:34:06.197502+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676079",
+          "target_video_id": "30987477",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:20:33.669424+00:00"
         }
       ],
       "last_plan": {
@@ -133934,12 +133941,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T04:52:55.769930+00:00",
         "relay_source_id": "34676079"
-      },
-      "claim": {
-        "worker_id": "fbb5b66f74ee4753bf213b63d97156b9-shard-0",
-        "claimed_at": "2026-11-11T06:20:31.257999+00:00",
-        "lease_expires_at": "2026-11-11T12:20:31.257999+00:00",
-        "run_id": "42965310158"
       }
     },
     "24448": {
@@ -135311,7 +135312,7 @@
       "last_plan": {
         "source_id": "34528200",
         "display_name": "Stín smrtihlava 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:33:26.848048+00:00"
+        "planned_at": "2026-11-11T06:20:33.889229+00:00"
       },
       "previous_target_id": "30987645",
       "prepared": {
@@ -136403,17 +136404,19 @@
       "attempts": []
     },
     "13067": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33884267",
+          "target_video_id": "30987838",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:20:34.083895+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33884267",
         "display_name": "Rodinné trampoty oficiála Tříšky 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:19:50.386563+00:00"
-      },
-      "claim": {
-        "worker_id": "f617ce9ccf0c474595b4287244c22ae6-shard-0",
-        "claimed_at": "2026-11-11T06:19:51.200663+00:00",
-        "lease_expires_at": "2026-11-11T12:19:51.200663+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987838",
       "prepared": {
@@ -189480,5 +189483,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:20:32.127259+00:00"
+  "updated_at": "2026-11-11T06:20:34.083916+00:00"
 }
