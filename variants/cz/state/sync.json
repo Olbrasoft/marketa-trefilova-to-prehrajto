@@ -127838,13 +127838,6 @@
           "source_id": "32454208",
           "target_video_id": "30986640",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:21:36.950223+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32454208",
-          "target_video_id": "30986640",
-          "permanent": false,
           "attempted_at": "2026-11-11T17:53:43.650968+00:00"
         },
         {
@@ -127853,6 +127846,13 @@
           "target_video_id": "30986640",
           "permanent": false,
           "attempted_at": "2026-11-11T19:09:07.880219+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32454208",
+          "target_video_id": "30986640",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:19:00.625532+00:00"
         }
       ],
       "last_plan": {
@@ -127866,12 +127866,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T01:18:21.449007+00:00",
         "relay_source_id": "32454208"
-      },
-      "claim": {
-        "worker_id": "d2084a30f8724714999d5e7b8d27357f-shard-0",
-        "claimed_at": "2026-11-11T20:18:57.780202+00:00",
-        "lease_expires_at": "2026-11-12T02:18:57.780202+00:00",
-        "run_id": "43067513109"
       }
     },
     "22342": {
@@ -139859,7 +139853,7 @@
       "last_plan": {
         "source_id": "34519530",
         "display_name": "Hrdinný kapitán Korkorán (Hrdinný kapitán Korkoran) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:09:09.704451+00:00"
+        "planned_at": "2026-11-11T20:18:59.981747+00:00"
       },
       "previous_target_id": "30988097",
       "prepared": {
@@ -139867,6 +139861,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-11T07:30:20.189234+00:00",
         "relay_source_id": "34519530"
+      },
+      "claim": {
+        "worker_id": "48c4ee2ffa3443629d2958cbd31ab8c7-shard-0",
+        "claimed_at": "2026-11-11T20:19:00.447319+00:00",
+        "lease_expires_at": "2026-11-12T02:19:00.447319+00:00",
+        "run_id": "43067513109"
       }
     },
     "11092": {
@@ -145732,7 +145732,7 @@
       "last_plan": {
         "source_id": "10282091",
         "display_name": "May the Lord Be with Us (Bůh s námi – od defenestrace k Bílé hoře) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:18:57.536281+00:00"
+        "planned_at": "2026-11-11T20:19:00.190448+00:00"
       }
     },
     "11436": {
@@ -197452,5 +197452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:18:58.456915+00:00"
+  "updated_at": "2026-11-11T20:19:00.625545+00:00"
 }
