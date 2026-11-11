@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T13:28:16.766681+00:00
+Poslední aktualizace (UTC): 2026-11-11T13:28:18.435709+00:00
 
 Zkontrolováno videí: 640. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 64, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 65, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -99,6 +99,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 72. Důvod
 | [Lunacy (Šílení) 1080p CZ Titulky](https://prehraj.to/lunacy-sileni-1080p-cz-titulky-mkv/822aea77a1ef13bd) (ID 30984494) | [Sdílej 32997472](https://sdilej.cz/32997472/sileni-2005-fhd-cz.mkv) | target_unavailable | 2026-11-10T16:37:13.878742+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-10T09:49:48.668753+00:00 |
 | [Ninja in the Dragon's Den 1080p CZ Titulky](https://prehraj.to/ninja-in-the-dragon-s-den-1080p-cz-titulky-mkv/82c83f21529e1287) (ID 30983315) | [Sdílej 30986611](https://sdilej.cz/30986611/ninja.in.the.dragon-s.den.ninja.komando1982.eridanus.1080.bluray.cz.eng.ru.chin.mkv) | target_unavailable | 2026-11-10T14:06:05.858879+00:00 |
+| [Once Upon a Deadpool SD CZ Titulky](https://prehraj.to/once-upon-a-deadpool-sd-cz-titulky-mkv/87a8d248a0d82245) (ID 30990381) | [Sdílej 11183990](https://sdilej.cz/11183990/once-upon-a-deadpool-2018-titulky.cz.mkv) | target_unavailable | 2026-11-11T13:28:18.261248+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-10T09:41:28.229600+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-10T09:49:40.884744+00:00 |
 | [Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky](https://prehraj.to/paris-13th-district-les-olympiades-paris-13e-1080p-cz-titulky-mkv/6e441a58f8608b99) (ID 30988745) | [Sdílej 23240065](https://sdilej.cz/23240065/pariz-13.-obvod-les-olympiades-1080p-2021-vlozene-cz-titulky-malasorte.mkv) | target_unavailable | 2026-11-11T09:48:47.912146+00:00 |
