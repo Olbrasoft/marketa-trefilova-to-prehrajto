@@ -141062,17 +141062,19 @@
       }
     },
     "33550": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35210758",
+          "target_video_id": "30988537",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:41:07.289793+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35210758",
         "display_name": "Uncle Cyril (Prokletí domu Hajnů) 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:39:44.952048+00:00"
-      },
-      "claim": {
-        "worker_id": "3caa12cca0e14ddc9a8e3bf67ad40dea-shard-0",
-        "claimed_at": "2026-11-11T08:39:45.627158+00:00",
-        "lease_expires_at": "2026-11-11T14:39:45.627158+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988537",
       "prepared": {
@@ -193470,5 +193472,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:41:05.554119+00:00"
+  "updated_at": "2026-11-11T08:41:07.289813+00:00"
 }
