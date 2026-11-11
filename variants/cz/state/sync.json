@@ -127849,17 +127849,19 @@
       "attempts": []
     },
     "15899": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28566197",
+          "target_video_id": "30986704",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:39:17.520192+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28566197",
         "display_name": "Men Up 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:38:34.270038+00:00"
-      },
-      "claim": {
-        "worker_id": "5b1c1b9b821c46ecae35707ebe7988ea-shard-0",
-        "claimed_at": "2026-11-11T01:38:35.142739+00:00",
-        "lease_expires_at": "2026-11-11T07:38:35.142739+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986704",
       "prepared": {
@@ -182234,5 +182236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:39:15.815059+00:00"
+  "updated_at": "2026-11-11T01:39:17.520211+00:00"
 }
