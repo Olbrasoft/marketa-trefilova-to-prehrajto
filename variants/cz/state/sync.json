@@ -129003,17 +129003,19 @@
       "attempts": []
     },
     "21764": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34255923",
+          "target_video_id": "30986889",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:30:06.734958+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34255923",
         "display_name": "Ninety Degrees in the Shade (90° in the Shade) SD CZ Dabing",
         "planned_at": "2026-11-11T02:29:27.098560+00:00"
-      },
-      "claim": {
-        "worker_id": "48d66cb951cc4e6e9b0c5a7b49a76e8d-shard-0",
-        "claimed_at": "2026-11-11T02:29:27.491987+00:00",
-        "lease_expires_at": "2026-11-11T08:29:27.491987+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986889",
       "prepared": {
@@ -183181,5 +183183,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:30:05.251899+00:00"
+  "updated_at": "2026-11-11T02:30:06.734971+00:00"
 }
