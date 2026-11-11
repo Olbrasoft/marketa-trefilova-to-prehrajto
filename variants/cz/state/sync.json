@@ -117913,13 +117913,6 @@
           "source_id": "32263146",
           "target_video_id": "30984860",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:27:19.366622+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32263146",
-          "target_video_id": "30984860",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:59:51.337068+00:00"
         },
         {
@@ -117928,12 +117921,19 @@
           "target_video_id": "30984860",
           "permanent": false,
           "attempted_at": "2026-11-11T03:34:36.700515+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32263146",
+          "target_video_id": "30984860",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:10:42.827857+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32263146",
         "display_name": "Last Tango in Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:34:33.720153+00:00"
+        "planned_at": "2026-11-11T04:10:41.129076+00:00"
       },
       "previous_target_id": "30984860",
       "prepared": {
@@ -132104,17 +132104,19 @@
       }
     },
     "21726": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29078551",
+          "target_video_id": "30987286",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:10:42.987764+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29078551",
         "display_name": "The Comedy with Mr Klika (Komedie s Klikou) 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:09:59.476457+00:00"
-      },
-      "claim": {
-        "worker_id": "b7bd43be9e3344519ac0c566f304256a-shard-0",
-        "claimed_at": "2026-11-11T04:10:00.005125+00:00",
-        "lease_expires_at": "2026-11-11T10:10:00.005125+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987286",
       "prepared": {
@@ -132168,7 +132170,7 @@
       "last_plan": {
         "source_id": "27786470",
         "display_name": "The Seamstress (Švadlenka) SD CZ Dabing",
-        "planned_at": "2026-11-11T04:10:38.118367+00:00"
+        "planned_at": "2026-11-11T04:10:41.335884+00:00"
       }
     },
     "13149": {
@@ -185829,5 +185831,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:10:39.615311+00:00"
+  "updated_at": "2026-11-11T04:10:42.987775+00:00"
 }
