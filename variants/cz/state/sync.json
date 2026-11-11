@@ -129675,17 +129675,19 @@
       "attempts": []
     },
     "32963": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30624932",
+          "target_video_id": "30986943",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:49:17.562799+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30624932",
         "display_name": "The Cry (Křik) SD CZ Dabing",
         "planned_at": "2026-11-11T02:47:30.240268+00:00"
-      },
-      "claim": {
-        "worker_id": "b7a3b24924e4463c89d7075febe3e384-shard-0",
-        "claimed_at": "2026-11-11T02:47:32.448274+00:00",
-        "lease_expires_at": "2026-11-11T08:47:32.448274+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986943",
       "prepared": {
@@ -183779,5 +183781,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:49:16.107706+00:00"
+  "updated_at": "2026-11-11T02:49:17.562820+00:00"
 }
