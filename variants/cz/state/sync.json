@@ -13998,13 +13998,6 @@
           "source_id": "18888145",
           "target_video_id": "30654220",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:21:24.865280+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18888145",
-          "target_video_id": "30654220",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:59:18.361614+00:00"
         },
         {
@@ -14013,6 +14006,13 @@
           "target_video_id": "30654220",
           "permanent": false,
           "attempted_at": "2026-11-11T00:38:16.279265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18888145",
+          "target_video_id": "30654220",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:18:59.863444+00:00"
         }
       ],
       "last_plan": {
@@ -122403,7 +122403,7 @@
       "last_plan": {
         "source_id": "33997586",
         "display_name": "The Lucky Ones 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:38:14.433825+00:00"
+        "planned_at": "2026-11-11T01:18:58.509172+00:00"
       },
       "previous_target_id": "30985496",
       "prepared": {
@@ -122411,6 +122411,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T19:46:11.486522+00:00",
         "relay_source_id": "33997586"
+      },
+      "claim": {
+        "worker_id": "391f2db7289a4b729ef123540f3f1a91-shard-0",
+        "claimed_at": "2026-11-11T01:18:59.257374+00:00",
+        "lease_expires_at": "2026-11-11T07:18:59.257374+00:00",
+        "run_id": "42904278669"
       }
     },
     "11094": {
@@ -127519,7 +127525,7 @@
       "last_plan": {
         "source_id": "7124354",
         "display_name": "Falco: Damn It, We're Still Alive! (Falco - Verdammt, wir leben noch!) SD CZ Dabing",
-        "planned_at": "2026-11-11T01:18:56.417825+00:00"
+        "planned_at": "2026-11-11T01:18:58.820859+00:00"
       }
     },
     "31459": {
@@ -181951,5 +181957,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:18:56.417848+00:00"
+  "updated_at": "2026-11-11T01:18:59.863465+00:00"
 }
