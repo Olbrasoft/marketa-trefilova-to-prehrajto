@@ -43109,13 +43109,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:24:29.916329+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:45:46.838199+00:00"
         },
         {
@@ -43124,6 +43117,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-11T18:12:09.487837+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:31:15.630225+00:00"
         }
       ],
       "last_plan": {
@@ -131133,7 +131133,7 @@
       "last_plan": {
         "source_id": "32647219",
         "display_name": "Mama (Máma) (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:12:09.655396+00:00"
+        "planned_at": "2026-11-11T19:31:14.304882+00:00"
       },
       "previous_target_id": "30987015",
       "prepared": {
@@ -131141,6 +131141,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T03:19:22.514356+00:00",
         "relay_source_id": "32647219"
+      },
+      "claim": {
+        "worker_id": "866e7405a41544308b367f040406c58c-shard-0",
+        "claimed_at": "2026-11-11T19:31:14.853669+00:00",
+        "lease_expires_at": "2026-11-12T01:31:14.853669+00:00",
+        "run_id": "43067513109"
       }
     },
     "13290": {
@@ -145544,7 +145550,7 @@
       "last_plan": {
         "source_id": "33806706",
         "display_name": "Friedas Fall 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:31:12.344166+00:00"
+        "planned_at": "2026-11-11T19:31:14.530030+00:00"
       }
     },
     "13952": {
@@ -197285,5 +197291,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:31:12.344186+00:00"
+  "updated_at": "2026-11-11T19:31:15.630246+00:00"
 }
