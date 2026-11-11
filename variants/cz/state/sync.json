@@ -118271,6 +118271,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T17:59:02.877735+00:00",
         "relay_source_id": "26235983"
+      },
+      "claim": {
+        "worker_id": "41346d9bb9a44c5c8637c123fc3a6f99-shard-0",
+        "claimed_at": "2026-11-11T12:20:37.286164+00:00",
+        "lease_expires_at": "2026-11-11T18:20:37.286164+00:00",
+        "run_id": "43011363893"
       }
     },
     "33501": {
@@ -119737,7 +119743,7 @@
       "last_plan": {
         "source_id": "34284124",
         "display_name": "Singles 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:12:40.683377+00:00"
+        "planned_at": "2026-11-11T12:20:37.523288+00:00"
       },
       "previous_target_id": "30984998",
       "prepared": {
@@ -137284,13 +137290,6 @@
           "source_id": "30246061",
           "target_video_id": "30987831",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:12:03.098038+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30246061",
-          "target_video_id": "30987831",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:09:42.450604+00:00"
         },
         {
@@ -137299,6 +137298,13 @@
           "target_video_id": "30987831",
           "permanent": false,
           "attempted_at": "2026-11-11T09:12:31.983016+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30246061",
+          "target_video_id": "30987831",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:20:37.789945+00:00"
         }
       ],
       "last_plan": {
@@ -137312,12 +137318,6 @@
         "size_bytes": 866700000,
         "prepared_at": "2026-11-11T06:17:25.630283+00:00",
         "relay_source_id": "30246061"
-      },
-      "claim": {
-        "worker_id": "cdec2c43a2f5499eb60463de3c9c59b0-shard-0",
-        "claimed_at": "2026-11-11T12:20:34.193874+00:00",
-        "lease_expires_at": "2026-11-11T18:20:34.193874+00:00",
-        "run_id": "43011363893"
       }
     },
     "11699": {
@@ -143182,7 +143182,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:20:35.444504+00:00"
+        "planned_at": "2026-11-11T12:20:38.227510+00:00"
       }
     },
     "20941": {
@@ -195320,5 +195320,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:20:35.444519+00:00"
+  "updated_at": "2026-11-11T12:20:38.227525+00:00"
 }
