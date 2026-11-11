@@ -8504,13 +8504,6 @@
           "source_id": "28293597",
           "target_video_id": "30631236",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:43:37.140160+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28293597",
-          "target_video_id": "30631236",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:59:56.100551+00:00"
         },
         {
@@ -8519,6 +8512,13 @@
           "target_video_id": "30631236",
           "permanent": false,
           "attempted_at": "2026-11-11T21:10:40.783301+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28293597",
+          "target_video_id": "30631236",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:48:57.177617+00:00"
         }
       ],
       "last_plan": {
@@ -8532,12 +8532,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
-      },
-      "claim": {
-        "worker_id": "0ba978cb28c944b1a33409b805686739-shard-0",
-        "claimed_at": "2026-11-11T22:46:01.043968+00:00",
-        "lease_expires_at": "2026-11-12T04:46:01.043968+00:00",
-        "run_id": "43102571398"
       }
     },
     "29922": {
@@ -141240,7 +141234,7 @@
       "last_plan": {
         "source_id": "30436273",
         "display_name": "Musíme se sejít SD CZ Dabing",
-        "planned_at": "2026-11-11T21:12:44.589128+00:00"
+        "planned_at": "2026-11-11T22:48:56.090857+00:00"
       },
       "previous_target_id": "30988335",
       "prepared": {
@@ -141248,6 +141242,12 @@
         "size_bytes": 803900000,
         "prepared_at": "2026-11-11T08:12:00.885093+00:00",
         "relay_source_id": "30436273"
+      },
+      "claim": {
+        "worker_id": "fcbf6ba47e464328b677bedc08ef3ff0-shard-0",
+        "claimed_at": "2026-11-11T22:48:56.815954+00:00",
+        "lease_expires_at": "2026-11-12T04:48:56.815954+00:00",
+        "run_id": "43102571398"
       }
     },
     "12705": {
@@ -146210,7 +146210,7 @@
       "last_plan": {
         "source_id": "33856066",
         "display_name": "Jan Palach 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:48:51.662989+00:00"
+        "planned_at": "2026-11-11T22:48:56.416795+00:00"
       }
     },
     "10711": {
@@ -197849,5 +197849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:48:54.298922+00:00"
+  "updated_at": "2026-11-11T22:48:57.177637+00:00"
 }
