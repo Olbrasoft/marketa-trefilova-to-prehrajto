@@ -119791,6 +119791,12 @@
         "size_bytes": 17100000000,
         "prepared_at": "2026-11-10T18:30:16.026460+00:00",
         "relay_source_id": "12287408"
+      },
+      "claim": {
+        "worker_id": "2c6d63c5cf4d4afaa834ceac32c7e23b-shard-0",
+        "claimed_at": "2026-11-11T07:12:38.720794+00:00",
+        "lease_expires_at": "2026-11-11T13:12:38.720794+00:00",
+        "run_id": "42965310158"
       }
     },
     "2997": {
@@ -121076,13 +121082,6 @@
           "source_id": "33746515",
           "target_video_id": "30985386",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:52:06.136094+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33746515",
-          "target_video_id": "30985386",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:32:00.956545+00:00"
         },
         {
@@ -121091,6 +121090,13 @@
           "target_video_id": "30985386",
           "permanent": false,
           "attempted_at": "2026-11-11T06:18:41.178035+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746515",
+          "target_video_id": "30985386",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:12:39.423299+00:00"
         }
       ],
       "last_plan": {
@@ -121104,12 +121110,6 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T19:00:56.350782+00:00",
         "relay_source_id": "33746515"
-      },
-      "claim": {
-        "worker_id": "d02f264216b5400b8c33af3e64a41c64-shard-0",
-        "claimed_at": "2026-11-11T07:12:36.105116+00:00",
-        "lease_expires_at": "2026-11-11T13:12:36.105116+00:00",
-        "run_id": "42965310158"
       }
     },
     "27476": {
@@ -126898,7 +126898,7 @@
       "last_plan": {
         "source_id": "34703676",
         "display_name": "The Children of Noisy Village SD CZ Dabing",
-        "planned_at": "2026-11-11T06:18:43.639867+00:00"
+        "planned_at": "2026-11-11T07:12:38.926214+00:00"
       },
       "previous_target_id": "30986415",
       "prepared": {
@@ -138213,7 +138213,7 @@
       "last_plan": {
         "source_id": "34787002",
         "display_name": "Don’t Look Round, a Horse Follows Us! (Don't Look Back, There Is a Horse Behind Us) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:12:36.586727+00:00"
+        "planned_at": "2026-11-11T07:12:39.193741+00:00"
       }
     },
     "13319": {
@@ -191010,5 +191010,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:12:37.098500+00:00"
+  "updated_at": "2026-11-11T07:12:39.423317+00:00"
 }
