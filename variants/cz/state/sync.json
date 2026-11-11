@@ -134093,17 +134093,19 @@
       }
     },
     "13265": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24800590",
+          "target_video_id": "30987566",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:14:16.079459+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24800590",
         "display_name": "O princezně, která ráčkovala 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:13:34.558808+00:00"
-      },
-      "claim": {
-        "worker_id": "7acfa310ec9e4ec8833d02449a9aeecd-shard-0",
-        "claimed_at": "2026-11-11T05:13:35.082256+00:00",
-        "lease_expires_at": "2026-11-11T11:13:35.082256+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987566",
       "prepared": {
@@ -187503,5 +187505,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:14:14.717404+00:00"
+  "updated_at": "2026-11-11T05:14:16.079473+00:00"
 }
