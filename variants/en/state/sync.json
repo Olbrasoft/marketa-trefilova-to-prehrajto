@@ -34227,7 +34227,7 @@
       "last_plan": {
         "source_id": "11416033",
         "display_name": "Tenebrae (Tenebre) 1080p CZ Titulky",
-        "planned_at": "2026-11-11T15:39:40.663362+00:00"
+        "planned_at": "2026-11-11T17:25:22.689622+00:00"
       },
       "previous_target_id": "30985350",
       "prepared": {
@@ -34235,6 +34235,12 @@
         "size_bytes": 12000000000,
         "prepared_at": "2026-11-10T18:56:12.469128+00:00",
         "relay_source_id": "11416033"
+      },
+      "claim": {
+        "worker_id": "ce9a8838fed14aa7aa437f210b06b21e-shard-0",
+        "claimed_at": "2026-11-11T17:25:22.858222+00:00",
+        "lease_expires_at": "2026-11-11T23:25:22.858222+00:00",
+        "run_id": "43067513109"
       }
     },
     "24620": {
@@ -35150,13 +35156,6 @@
           "source_id": "9657833",
           "target_video_id": "30988255",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:39:27.280074+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9657833",
-          "target_video_id": "30988255",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:09:31.819968+00:00"
         },
         {
@@ -35165,6 +35164,13 @@
           "target_video_id": "30988255",
           "permanent": false,
           "attempted_at": "2026-11-11T15:39:36.745700+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9657833",
+          "target_video_id": "30988255",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:25:23.083754+00:00"
         }
       ],
       "last_plan": {
@@ -35178,12 +35184,6 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:59:47.278610+00:00",
         "relay_source_id": "9657833"
-      },
-      "claim": {
-        "worker_id": "1720c2b1818f4c35b8929d4e6be1670d-shard-0",
-        "claimed_at": "2026-11-11T17:25:20.455012+00:00",
-        "lease_expires_at": "2026-11-11T23:25:20.455012+00:00",
-        "run_id": "43067513109"
       }
     },
     "25179": {
@@ -97206,5 +97206,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:25:20.551161+00:00"
+  "updated_at": "2026-11-11T17:25:23.083854+00:00"
 }
