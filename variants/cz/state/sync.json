@@ -116389,13 +116389,6 @@
           "source_id": "34673565",
           "target_video_id": "30984737",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:29:01.093765+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34673565",
-          "target_video_id": "30984737",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:01:46.482871+00:00"
         },
         {
@@ -116404,6 +116397,13 @@
           "target_video_id": "30984737",
           "permanent": false,
           "attempted_at": "2026-11-11T03:36:49.879089+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34673565",
+          "target_video_id": "30984737",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:12:46.698900+00:00"
         }
       ],
       "last_plan": {
@@ -116417,12 +116417,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:29:06.890435+00:00",
         "relay_source_id": "34673565"
-      },
-      "claim": {
-        "worker_id": "915ff26050b74ddeaab9deb6f9e560ce-shard-0",
-        "claimed_at": "2026-11-11T04:12:43.666450+00:00",
-        "lease_expires_at": "2026-11-11T10:12:43.666450+00:00",
-        "run_id": "42938376778"
       }
     },
     "2941": {
@@ -116452,7 +116446,7 @@
       "last_plan": {
         "source_id": "28248567",
         "display_name": "Goon 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:36:48.495956+00:00"
+        "planned_at": "2026-11-11T04:12:46.107579+00:00"
       },
       "previous_target_id": "30984739",
       "prepared": {
@@ -116460,6 +116454,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:29:45.924071+00:00",
         "relay_source_id": "28248567"
+      },
+      "claim": {
+        "worker_id": "094fcbe576774a28ba96df18ed960473-shard-0",
+        "claimed_at": "2026-11-11T04:12:46.553681+00:00",
+        "lease_expires_at": "2026-11-11T10:12:46.553681+00:00",
+        "run_id": "42938376778"
       }
     },
     "23726": {
@@ -132274,7 +132274,7 @@
       "last_plan": {
         "source_id": "34710904",
         "display_name": "O Nesytovi 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:12:43.419629+00:00"
+        "planned_at": "2026-11-11T04:12:46.312041+00:00"
       }
     },
     "32273": {
@@ -185905,5 +185905,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:12:44.547731+00:00"
+  "updated_at": "2026-11-11T04:12:46.698911+00:00"
 }
