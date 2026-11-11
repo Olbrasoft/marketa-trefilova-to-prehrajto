@@ -112381,7 +112381,7 @@
       "last_plan": {
         "source_id": "33709201",
         "display_name": "Ohnivé zeny (Ohnivé ženy) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:17:37.768613+00:00"
+        "planned_at": "2026-11-11T15:35:09.767810+00:00"
       },
       "previous_target_id": "30983937",
       "prepared": {
@@ -112389,6 +112389,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T15:05:48.048860+00:00",
         "relay_source_id": "33709201"
+      },
+      "claim": {
+        "worker_id": "45bad49f3578439b84e31c50b6fdf0d7-shard-0",
+        "claimed_at": "2026-11-11T15:35:10.566714+00:00",
+        "lease_expires_at": "2026-11-11T21:35:10.566714+00:00",
+        "run_id": "43011363893"
       }
     },
     "28909": {
@@ -144722,17 +144728,19 @@
       "attempts": []
     },
     "7577": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29057814",
+          "target_video_id": "30991063",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:35:11.363820+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29057814",
         "display_name": "Cesta domu (Cesta domů) 4K CZ Dabing",
         "planned_at": "2026-11-11T14:32:44.093130+00:00"
-      },
-      "claim": {
-        "worker_id": "43f5417243324f5d9c4cfc2e16d2658f-shard-0",
-        "claimed_at": "2026-11-11T14:32:45.268962+00:00",
-        "lease_expires_at": "2026-11-11T20:32:45.268962+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30991063",
       "prepared": {
@@ -144832,7 +144840,7 @@
       "last_plan": {
         "source_id": "27526797",
         "display_name": "Riot (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:35:02.902945+00:00"
+        "planned_at": "2026-11-11T15:35:10.127173+00:00"
       }
     },
     "37369": {
@@ -196723,5 +196731,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:35:06.750817+00:00"
+  "updated_at": "2026-11-11T15:35:11.363835+00:00"
 }
