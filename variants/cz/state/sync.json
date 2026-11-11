@@ -107163,13 +107163,6 @@
           "source_id": "29142066",
           "target_video_id": "30983174",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:17:55.383307+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29142066",
-          "target_video_id": "30983174",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:56:22.395231+00:00"
         },
         {
@@ -107178,6 +107171,13 @@
           "target_video_id": "30983174",
           "permanent": false,
           "attempted_at": "2026-11-11T00:35:18.860671+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29142066",
+          "target_video_id": "30983174",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:16:09.426078+00:00"
         }
       ],
       "last_plan": {
@@ -122755,7 +122755,7 @@
       "last_plan": {
         "source_id": "25407037",
         "display_name": "My Life 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:35:18.284656+00:00"
+        "planned_at": "2026-11-11T01:16:07.964310+00:00"
       },
       "previous_target_id": "30985544",
       "prepared": {
@@ -122763,6 +122763,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T20:10:48.141919+00:00",
         "relay_source_id": "25407037"
+      },
+      "claim": {
+        "worker_id": "002baee3660b4487a2f494813eb4cd53-shard-0",
+        "claimed_at": "2026-11-11T01:16:08.780396+00:00",
+        "lease_expires_at": "2026-11-11T07:16:08.780396+00:00",
+        "run_id": "42904278669"
       }
     },
     "11063": {
@@ -127445,6 +127451,12 @@
         "source_id": "27035939",
         "display_name": "Tall Tales (Apró mesék) SD CZ Dabing",
         "planned_at": "2026-11-11T01:16:05.161649+00:00"
+      },
+      "claim": {
+        "worker_id": "6245b42854b542a690425caf2f9cb15e-shard-0",
+        "claimed_at": "2026-11-11T01:16:07.728846+00:00",
+        "lease_expires_at": "2026-11-11T07:16:07.728846+00:00",
+        "run_id": "42904278669"
       }
     },
     "3117": {
@@ -127452,7 +127464,7 @@
       "last_plan": {
         "source_id": "34454365",
         "display_name": "Lidice 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:16:05.350157+00:00"
+        "planned_at": "2026-11-11T01:16:08.287624+00:00"
       }
     },
     "36911": {
@@ -181896,5 +181908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:16:05.599552+00:00"
+  "updated_at": "2026-11-11T01:16:09.426100+00:00"
 }
