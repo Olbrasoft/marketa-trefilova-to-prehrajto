@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:59:12.552287+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:38:03.845476+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-11T01:18:54.196618+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:59:59.498530+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "f11f3e4f90344ff4ba3bc96b2d6f5521-shard-0",
-        "claimed_at": "2026-11-11T01:59:56.001949+00:00",
-        "lease_expires_at": "2026-11-11T07:59:56.001949+00:00",
-        "run_id": "42904278669"
       }
     },
     "10755": {
@@ -17409,7 +17403,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-11T01:18:51.997693+00:00"
+        "planned_at": "2026-11-11T01:59:58.368161+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17417,6 +17411,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "3caab8a36f1a477bbaf0e2c50b592fb9-shard-0",
+        "claimed_at": "2026-11-11T01:59:59.153952+00:00",
+        "lease_expires_at": "2026-11-11T07:59:59.153952+00:00",
+        "run_id": "42904278669"
       }
     },
     "23132": {
@@ -128317,7 +128317,7 @@
       "last_plan": {
         "source_id": "19283864",
         "display_name": "A Sunburnt Christmas 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:59:55.570276+00:00"
+        "planned_at": "2026-11-11T01:59:58.692259+00:00"
       }
     },
     "19597": {
@@ -182608,5 +182608,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:59:56.720559+00:00"
+  "updated_at": "2026-11-11T01:59:59.498551+00:00"
 }
