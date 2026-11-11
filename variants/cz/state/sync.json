@@ -118902,6 +118902,12 @@
         "size_bytes": 891400000,
         "prepared_at": "2026-11-10T18:12:37.564788+00:00",
         "relay_source_id": "27601666"
+      },
+      "claim": {
+        "worker_id": "78869ded87d340029b241952d8408518-shard-0",
+        "claimed_at": "2026-11-11T07:31:59.316198+00:00",
+        "lease_expires_at": "2026-11-11T13:31:59.316198+00:00",
+        "run_id": "42965310158"
       }
     },
     "33419": {
@@ -134381,7 +134387,7 @@
       "last_plan": {
         "source_id": "34697786",
         "display_name": "Fear (1964) SD CZ Dabing",
-        "planned_at": "2026-11-11T06:37:29.082015+00:00"
+        "planned_at": "2026-11-11T07:31:59.693430+00:00"
       },
       "previous_target_id": "30987526",
       "prepared": {
@@ -138896,7 +138902,15 @@
       "attempts": []
     },
     "28550": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "27926652",
+          "reason": "Request failed for https://sdilej.cz/27926652/bella-mia-cesky-film-2013-.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:32:00.799710+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27926652",
         "display_name": "Bella mia 1080p CZ Dabing",
@@ -138908,7 +138922,7 @@
       "last_plan": {
         "source_id": "34676095",
         "display_name": "Naceradec, King of Kibitzer (Načeradec, král kibiců) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:31:57.532554+00:00"
+        "planned_at": "2026-11-11T07:31:59.965024+00:00"
       }
     },
     "6570": {
@@ -191600,5 +191614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:31:57.532570+00:00"
+  "updated_at": "2026-11-11T07:32:00.799724+00:00"
 }
