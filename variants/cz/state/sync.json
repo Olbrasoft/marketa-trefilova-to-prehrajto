@@ -119560,13 +119560,6 @@
           "source_id": "30808517",
           "target_video_id": "30984989",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:10:44.401101+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30808517",
-          "target_video_id": "30984989",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:07:49.735051+00:00"
         },
         {
@@ -119575,6 +119568,13 @@
           "target_video_id": "30984989",
           "permanent": false,
           "attempted_at": "2026-11-11T09:09:17.335715+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30808517",
+          "target_video_id": "30984989",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:19:03.877467+00:00"
         }
       ],
       "last_plan": {
@@ -119623,7 +119623,7 @@
       "last_plan": {
         "source_id": "33119817",
         "display_name": "Champions (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:09:16.849169+00:00"
+        "planned_at": "2026-11-11T12:19:02.237603+00:00"
       },
       "previous_target_id": "30984993",
       "prepared": {
@@ -119631,6 +119631,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T18:28:34.661347+00:00",
         "relay_source_id": "33119817"
+      },
+      "claim": {
+        "worker_id": "4f6d8dd40e0c4ad5a832d37f2d2c4a66-shard-0",
+        "claimed_at": "2026-11-11T12:19:03.167658+00:00",
+        "lease_expires_at": "2026-11-11T18:19:03.167658+00:00",
+        "run_id": "43011363893"
       }
     },
     "16691": {
@@ -143169,7 +143175,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:18:58.154213+00:00"
+        "planned_at": "2026-11-11T12:19:02.616208+00:00"
       }
     },
     "20941": {
@@ -195307,5 +195313,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:18:58.494880+00:00"
+  "updated_at": "2026-11-11T12:19:03.877484+00:00"
 }
