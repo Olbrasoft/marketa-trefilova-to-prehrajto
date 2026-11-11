@@ -135238,7 +135238,7 @@
       "last_plan": {
         "source_id": "34714270",
         "display_name": "V erbu lvice SD CZ Dabing",
-        "planned_at": "2026-11-11T05:31:45.161513+00:00"
+        "planned_at": "2026-11-11T06:19:20.708612+00:00"
       },
       "previous_target_id": "30987637",
       "prepared": {
@@ -136357,17 +136357,19 @@
       }
     },
     "11699": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_lookup_failed",
+          "permanent": false,
+          "source_id": "27451904",
+          "reason": "Existing target lookup failed; upload deferred",
+          "attempted_at": "2026-11-11T06:19:21.595782+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27451904",
         "display_name": "Kam, pánové, kam jdete? 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:18:07.627225+00:00"
-      },
-      "claim": {
-        "worker_id": "34647bd86cb14efeb8d18b941ad21749-shard-0",
-        "claimed_at": "2026-11-11T06:18:08.402570+00:00",
-        "lease_expires_at": "2026-11-11T12:18:08.402570+00:00",
-        "run_id": "42965310158"
       }
     },
     "14411": {
@@ -136378,7 +136380,7 @@
       "last_plan": {
         "source_id": "33884267",
         "display_name": "Rodinné trampoty oficiála Tříšky 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:19:15.821922+00:00"
+        "planned_at": "2026-11-11T06:19:20.974010+00:00"
       }
     },
     "5777": {
@@ -189433,5 +189435,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:19:18.694970+00:00"
+  "updated_at": "2026-11-11T06:19:21.595806+00:00"
 }
