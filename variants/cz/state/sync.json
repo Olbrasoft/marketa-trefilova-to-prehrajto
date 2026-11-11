@@ -81570,6 +81570,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-08T01:03:53.007664+00:00",
         "relay_source_id": "32457622"
+      },
+      "claim": {
+        "worker_id": "4a1d9637e6c44bf1bdbae6540b0ca783-shard-0",
+        "claimed_at": "2026-11-11T05:43:45.590190+00:00",
+        "lease_expires_at": "2026-11-11T11:43:45.590190+00:00",
+        "run_id": "42938376778"
       }
     },
     "13134": {
@@ -120628,7 +120634,7 @@
       "last_plan": {
         "source_id": "34392768",
         "display_name": "A Perfect Day 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:02:32.175638+00:00"
+        "planned_at": "2026-11-11T05:43:45.900630+00:00"
       },
       "previous_target_id": "30985051",
       "prepared": {
@@ -120645,13 +120651,6 @@
           "source_id": "8744723",
           "target_video_id": "30985052",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:45:38.845685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8744723",
-          "target_video_id": "30985052",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:22:02.322017+00:00"
         },
         {
@@ -120660,6 +120659,13 @@
           "target_video_id": "30985052",
           "permanent": false,
           "attempted_at": "2026-11-11T05:02:27.891444+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8744723",
+          "target_video_id": "30985052",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:43:45.732195+00:00"
         }
       ],
       "last_plan": {
@@ -120673,12 +120679,6 @@
         "size_bytes": 907900000,
         "prepared_at": "2026-11-10T18:40:59.151966+00:00",
         "relay_source_id": "8744723"
-      },
-      "claim": {
-        "worker_id": "e90f85c511bd427db32c3ab39fd920e8-shard-0",
-        "claimed_at": "2026-11-11T05:43:39.681404+00:00",
-        "lease_expires_at": "2026-11-11T11:43:39.681404+00:00",
-        "run_id": "42938376778"
       }
     },
     "23142": {
@@ -135203,7 +135203,7 @@
       "last_plan": {
         "source_id": "34756332",
         "display_name": "Sharks and Little Fish (Haie und kleine Fische) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:43:43.993015+00:00"
+        "planned_at": "2026-11-11T05:43:46.111235+00:00"
       }
     },
     "33622": {
@@ -188432,5 +188432,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:43:43.993024+00:00"
+  "updated_at": "2026-11-11T05:43:46.111245+00:00"
 }
