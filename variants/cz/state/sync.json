@@ -110039,13 +110039,6 @@
           "source_id": "34788913",
           "target_video_id": "30983748",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:28:51.392718+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34788913",
-          "target_video_id": "30983748",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:06:19.802742+00:00"
         },
         {
@@ -110054,6 +110047,13 @@
           "target_video_id": "30983748",
           "permanent": false,
           "attempted_at": "2026-11-11T04:43:23.297285+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34788913",
+          "target_video_id": "30983748",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:24:18.155736+00:00"
         }
       ],
       "last_plan": {
@@ -119324,7 +119324,7 @@
       "last_plan": {
         "source_id": "21276911",
         "display_name": "The Dry 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:43:25.973965+00:00"
+        "planned_at": "2026-11-11T05:24:16.890211+00:00"
       },
       "previous_target_id": "30984970",
       "prepared": {
@@ -119332,6 +119332,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T18:23:47.293951+00:00",
         "relay_source_id": "21276911"
+      },
+      "claim": {
+        "worker_id": "a9b3e3423aa848359a41b8cafca719eb-shard-0",
+        "claimed_at": "2026-11-11T05:24:17.339280+00:00",
+        "lease_expires_at": "2026-11-11T11:24:17.339280+00:00",
+        "run_id": "42938376778"
       }
     },
     "2994": {
@@ -134524,7 +134530,7 @@
       "last_plan": {
         "source_id": "29184927",
         "display_name": "Pára nad hrncem SD CZ Dabing",
-        "planned_at": "2026-11-11T05:24:15.244888+00:00"
+        "planned_at": "2026-11-11T05:24:17.095583+00:00"
       }
     },
     "20468": {
@@ -187855,5 +187861,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:24:15.244900+00:00"
+  "updated_at": "2026-11-11T05:24:18.155746+00:00"
 }
