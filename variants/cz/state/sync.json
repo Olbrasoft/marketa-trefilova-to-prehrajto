@@ -110369,13 +110369,6 @@
           "source_id": "35067260",
           "target_video_id": "30983776",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:20:52.807294+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35067260",
-          "target_video_id": "30983776",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:00:19.480747+00:00"
         },
         {
@@ -110384,6 +110377,13 @@
           "target_video_id": "30983776",
           "permanent": false,
           "attempted_at": "2026-11-11T01:43:14.305872+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35067260",
+          "target_video_id": "30983776",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:24:36.365664+00:00"
         }
       ],
       "last_plan": {
@@ -110397,12 +110397,6 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:45:54.577022+00:00",
         "relay_source_id": "35067260"
-      },
-      "claim": {
-        "worker_id": "90fba18f3e13484a9587c3eab70afc17-shard-0",
-        "claimed_at": "2026-11-11T02:24:33.905915+00:00",
-        "lease_expires_at": "2026-11-11T08:24:33.905915+00:00",
-        "run_id": "42938376778"
       }
     },
     "33022": {
@@ -110435,7 +110429,7 @@
       "last_plan": {
         "source_id": "25235773",
         "display_name": "Karel and I (Karel a já) SD CZ Dabing",
-        "planned_at": "2026-11-11T01:43:16.563645+00:00"
+        "planned_at": "2026-11-11T02:24:35.534337+00:00"
       },
       "previous_target_id": "30983777",
       "prepared": {
@@ -110443,6 +110437,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:46:00.062913+00:00",
         "relay_source_id": "25235773"
+      },
+      "claim": {
+        "worker_id": "6600dafd5e594cdf9d5f981bd377cd0e-shard-0",
+        "claimed_at": "2026-11-11T02:24:36.216838+00:00",
+        "lease_expires_at": "2026-11-11T08:24:36.216838+00:00",
+        "run_id": "42938376778"
       }
     },
     "12876": {
@@ -128882,7 +128882,7 @@
       "last_plan": {
         "source_id": "27023916",
         "display_name": "Candidate (Kandidát) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:24:33.666713+00:00"
+        "planned_at": "2026-11-11T02:24:35.735698+00:00"
       }
     },
     "30998": {
@@ -183068,5 +183068,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:24:34.081394+00:00"
+  "updated_at": "2026-11-11T02:24:36.365683+00:00"
 }
