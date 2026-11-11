@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:21:20.657638+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:37:15.162301+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-11T15:59:12.560890+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:28:56.406417+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "6b447dc19c6847e180389909dbb4e664-shard-0",
-        "claimed_at": "2026-11-11T18:28:46.731898+00:00",
-        "lease_expires_at": "2026-11-12T00:28:46.731898+00:00",
-        "run_id": "43067513109"
       }
     },
     "37290": {
@@ -109993,6 +109987,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-10T14:41:32.659404+00:00",
         "relay_source_id": "35184124"
+      },
+      "claim": {
+        "worker_id": "1c55f23edf3e47afbfe22fe326955c8a-shard-0",
+        "claimed_at": "2026-11-11T18:28:55.405085+00:00",
+        "lease_expires_at": "2026-11-12T00:28:55.405085+00:00",
+        "run_id": "43067513109"
       }
     },
     "35511": {
@@ -116090,7 +116090,7 @@
       "last_plan": {
         "source_id": "14845493",
         "display_name": "Mank 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:59:18.023777+00:00"
+        "planned_at": "2026-11-11T18:28:55.596671+00:00"
       },
       "previous_target_id": "30984699",
       "prepared": {
@@ -116098,6 +116098,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:20:31.441781+00:00",
         "relay_source_id": "14845493"
+      },
+      "claim": {
+        "worker_id": "d4f9788d7c51464d8c9ac679d1f9bb6c-shard-0",
+        "claimed_at": "2026-11-11T18:28:56.195795+00:00",
+        "lease_expires_at": "2026-11-12T00:28:56.195795+00:00",
+        "run_id": "43067513109"
       }
     },
     "2816": {
@@ -145239,7 +145245,7 @@
       "last_plan": {
         "source_id": "34696336",
         "display_name": "Das Märchen von der Regentrude 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:28:53.125987+00:00"
+        "planned_at": "2026-11-11T18:28:55.837503+00:00"
       }
     },
     "30218": {
@@ -197049,5 +197055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:28:53.126010+00:00"
+  "updated_at": "2026-11-11T18:28:56.406444+00:00"
 }
