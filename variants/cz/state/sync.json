@@ -112481,13 +112481,6 @@
           "source_id": "35068482",
           "target_video_id": "30983988",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:56:06.731976+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35068482",
-          "target_video_id": "30983988",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:39:47.759115+00:00"
         },
         {
@@ -112496,12 +112489,19 @@
           "target_video_id": "30983988",
           "permanent": false,
           "attempted_at": "2026-11-11T02:21:35.205502+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35068482",
+          "target_video_id": "30983988",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:54:21.705085+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35068482",
         "display_name": "Muž, který stoupl v ceně SD CZ Dabing",
-        "planned_at": "2026-11-11T02:21:33.308017+00:00"
+        "planned_at": "2026-11-11T02:54:20.065881+00:00"
       },
       "previous_target_id": "30983988",
       "prepared": {
@@ -124958,6 +124958,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T22:11:21.871926+00:00",
         "relay_source_id": "34788112"
+      },
+      "claim": {
+        "worker_id": "6d0c5799afd543839fc168d354691189-shard-0",
+        "claimed_at": "2026-11-11T02:54:19.906256+00:00",
+        "lease_expires_at": "2026-11-11T08:54:19.906256+00:00",
+        "run_id": "42938376778"
       }
     },
     "11015": {
@@ -129823,7 +129829,7 @@
       "last_plan": {
         "source_id": "33705422",
         "display_name": "Bota jménem Melichar 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:54:18.403743+00:00"
+        "planned_at": "2026-11-11T02:54:20.267812+00:00"
       }
     },
     "23934": {
@@ -183868,5 +183874,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:54:18.403753+00:00"
+  "updated_at": "2026-11-11T02:54:21.705095+00:00"
 }
