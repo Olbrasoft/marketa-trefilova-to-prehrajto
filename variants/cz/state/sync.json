@@ -8538,13 +8538,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:54:55.222150+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:47:10.391821+00:00"
         },
         {
@@ -8553,6 +8546,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-11T07:43:12.105428+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:43:07.099061+00:00"
         }
       ],
       "last_plan": {
@@ -22306,7 +22306,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:43:10.520656+00:00"
+        "planned_at": "2026-11-11T08:43:05.312052+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22314,6 +22314,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "f10153b1e9464ecebdb96f0317cd5a38-shard-0",
+        "claimed_at": "2026-11-11T08:43:06.021382+00:00",
+        "lease_expires_at": "2026-11-11T14:43:06.021382+00:00",
+        "run_id": "42965310158"
       }
     },
     "730": {
@@ -141169,7 +141175,7 @@
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Broken Promise 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:43:03.376010+00:00"
+        "planned_at": "2026-11-11T08:43:05.585212+00:00"
       }
     },
     "36843": {
@@ -193531,5 +193537,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:43:03.376029+00:00"
+  "updated_at": "2026-11-11T08:43:07.099078+00:00"
 }
