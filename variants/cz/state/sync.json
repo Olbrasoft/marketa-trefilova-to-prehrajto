@@ -50609,6 +50609,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-04T00:49:34.429567+00:00",
         "relay_source_id": "32030746"
+      },
+      "claim": {
+        "worker_id": "fca5e16f12094fb89932ba681000971a-shard-0",
+        "claimed_at": "2026-11-11T08:52:48.828365+00:00",
+        "lease_expires_at": "2026-11-11T14:52:48.828365+00:00",
+        "run_id": "42965310158"
       }
     },
     "1708": {
@@ -136840,13 +136846,6 @@
           "source_id": "33706152",
           "target_video_id": "30987781",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:02:32.377277+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33706152",
-          "target_video_id": "30987781",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:55:59.628694+00:00"
         },
         {
@@ -136855,6 +136854,13 @@
           "target_video_id": "30987781",
           "permanent": false,
           "attempted_at": "2026-11-11T07:52:22.494222+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33706152",
+          "target_video_id": "30987781",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:52:49.642176+00:00"
         }
       ],
       "last_plan": {
@@ -136868,12 +136874,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:01:55.876469+00:00",
         "relay_source_id": "33706152"
-      },
-      "claim": {
-        "worker_id": "ee72ac76412e4483a9a9d04cefa13329-shard-0",
-        "claimed_at": "2026-11-11T08:52:46.293753+00:00",
-        "lease_expires_at": "2026-11-11T14:52:46.293753+00:00",
-        "run_id": "42965310158"
       }
     },
     "24059": {
@@ -140300,7 +140300,7 @@
       "last_plan": {
         "source_id": "32354388",
         "display_name": "Vítr v kapse 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:51:43.560426+00:00"
+        "planned_at": "2026-11-11T08:52:49.058337+00:00"
       },
       "previous_target_id": "30988211",
       "prepared": {
@@ -141501,7 +141501,7 @@
       "last_plan": {
         "source_id": "35286089",
         "display_name": "Únos 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:52:46.808111+00:00"
+        "planned_at": "2026-11-11T08:52:49.388571+00:00"
       }
     },
     "25024": {
@@ -193829,5 +193829,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:52:47.039331+00:00"
+  "updated_at": "2026-11-11T08:52:49.642196+00:00"
 }
