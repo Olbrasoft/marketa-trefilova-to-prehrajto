@@ -137224,7 +137224,7 @@
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:52:58.658826+00:00"
+        "planned_at": "2026-11-11T21:04:54.432976+00:00"
       },
       "previous_target_id": "30987815",
       "prepared": {
@@ -137232,6 +137232,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T06:12:49.248944+00:00",
         "relay_source_id": "27912463"
+      },
+      "claim": {
+        "worker_id": "c71ab54cf8c04b61919cc287f5769f92-shard-0",
+        "claimed_at": "2026-11-11T21:04:54.877558+00:00",
+        "lease_expires_at": "2026-11-12T03:04:54.877558+00:00",
+        "run_id": "43067513109"
       }
     },
     "6823": {
@@ -145883,17 +145889,19 @@
       }
     },
     "21735": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23503660",
+          "target_video_id": "30993884",
+          "permanent": false,
+          "attempted_at": "2026-11-11T21:04:55.371573+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23503660",
         "display_name": "Táto, sezen stene (Táto sežeň štěně) 1080p CZ Dabing",
         "planned_at": "2026-11-11T20:49:25.162392+00:00"
-      },
-      "claim": {
-        "worker_id": "e9996f3664884542a0677d4688b9a969-shard-0",
-        "claimed_at": "2026-11-11T20:49:25.690641+00:00",
-        "lease_expires_at": "2026-11-12T02:49:25.690641+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30993884",
       "prepared": {
@@ -145947,7 +145955,7 @@
       "last_plan": {
         "source_id": "26591977",
         "display_name": "El paraíso 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:04:50.082982+00:00"
+        "planned_at": "2026-11-11T21:04:54.636007+00:00"
       }
     },
     "16974": {
@@ -197622,5 +197630,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:04:52.790041+00:00"
+  "updated_at": "2026-11-11T21:04:55.371586+00:00"
 }
