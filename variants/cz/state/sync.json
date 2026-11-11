@@ -131244,17 +131244,19 @@
       }
     },
     "16969": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14065113",
+          "target_video_id": "30987131",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:43:20.903692+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14065113",
         "display_name": "Fool's death (Bláznova smrt) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:42:34.273751+00:00"
-      },
-      "claim": {
-        "worker_id": "f6ea57ce8ae54a0fa048ed37bbd281bf-shard-0",
-        "claimed_at": "2026-11-11T03:42:36.203818+00:00",
-        "lease_expires_at": "2026-11-11T09:42:36.203818+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987131",
       "prepared": {
@@ -185098,5 +185100,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:43:19.427276+00:00"
+  "updated_at": "2026-11-11T03:43:20.903708+00:00"
 }
