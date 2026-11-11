@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T12:18:00.021092+00:00
+Poslední aktualizace (UTC): 2026-11-11T12:18:01.910682+00:00
 
 Zkontrolováno videí: 635. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 59, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 60, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -91,6 +91,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 69. Důvod
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-10T09:41:31.892087+00:00 |
 | [Journey to the Beginning of Time (Cesta do pravěku) 1080p CZ Titulky](https://prehraj.to/journey-to-the-beginning-of-time-cesta-do-praveku-1080p-cz-titulky-mkv/bcad1ddfb754d1f0) (ID 30988776) | [Sdílej 34670411](https://sdilej.cz/34670411/cesta-do-praveku-sci-fi-dobrodruzny-1955-cz.1080p.mkv) | target_unavailable | 2026-11-11T09:58:51.842084+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-10T09:41:51.695654+00:00 |
+| [King of Kings 720p CZ Titulky](https://prehraj.to/king-of-kings-720p-cz-titulky-mkv/baf4f8c4bbc9016b) (ID 30989744) | [Sdílej 29895942](https://sdilej.cz/29895942/kral-kralov.king-of-kings-1961-720p-en-cztit-historicky.mkv) | target_unavailable | 2026-11-11T12:18:01.717596+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-10T09:41:35.528523+00:00 |
 | [Legacy, notre héritage (Legacy) 1080p CZ Titulky](https://prehraj.to/legacy-notre-heritage-legacy-1080p-cz-titulky-mkv/69691dd82efd42a0) (ID 30988551) | [Sdílej 17633756](https://sdilej.cz/17633756/space-jam-a-new-legacy-space-jam-novy-zacatek-2021-1080p-aac5.1-titulky-cz.mkv) | target_unavailable | 2026-11-11T08:48:27.898479+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-10T09:29:23.845196+00:00 |
