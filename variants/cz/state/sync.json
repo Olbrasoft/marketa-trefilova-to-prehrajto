@@ -116315,13 +116315,6 @@
           "source_id": "12275349",
           "target_video_id": "30984732",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:51:06.662285+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12275349",
-          "target_video_id": "30984732",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:30:39.450654+00:00"
         },
         {
@@ -116330,6 +116323,13 @@
           "target_video_id": "30984732",
           "permanent": false,
           "attempted_at": "2026-11-11T06:13:58.505908+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12275349",
+          "target_video_id": "30984732",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:11:14.098439+00:00"
         }
       ],
       "last_plan": {
@@ -126167,7 +126167,7 @@
       "last_plan": {
         "source_id": "34695449",
         "display_name": "Charlatan (Šarlatán) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:13:57.698639+00:00"
+        "planned_at": "2026-11-11T07:11:12.653697+00:00"
       },
       "previous_target_id": "30986259",
       "prepared": {
@@ -126175,6 +126175,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T23:46:02.414301+00:00",
         "relay_source_id": "34695449"
+      },
+      "claim": {
+        "worker_id": "e28a4dc9f64b46759036484f2e841813-shard-0",
+        "claimed_at": "2026-11-11T07:11:13.477171+00:00",
+        "lease_expires_at": "2026-11-11T13:11:13.477171+00:00",
+        "run_id": "42965310158"
       }
     },
     "26536": {
@@ -138156,11 +138162,22 @@
       "last_plan": {
         "source_id": "30326245",
         "display_name": "Ľalie poľné SD CZ Dabing",
-        "planned_at": "2026-11-11T07:11:10.558278+00:00"
+        "planned_at": "2026-11-11T07:11:12.937318+00:00"
+      },
+      "claim": {
+        "worker_id": "ffada92c18104c899376737ef2e4d426-shard-0",
+        "claimed_at": "2026-11-11T07:11:13.727711+00:00",
+        "lease_expires_at": "2026-11-11T13:11:13.727711+00:00",
+        "run_id": "42965310158"
       }
     },
     "21125": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34787002",
+        "display_name": "Don’t Look Round, a Horse Follows Us! (Don't Look Back, There Is a Horse Behind Us) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T07:11:13.110570+00:00"
+      }
     },
     "13319": {
       "attempts": []
@@ -190956,5 +190973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:11:10.558296+00:00"
+  "updated_at": "2026-11-11T07:11:14.098459+00:00"
 }
