@@ -131503,17 +131503,19 @@
       "attempts": []
     },
     "21909": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29160342",
+          "target_video_id": "30987147",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:49:09.022786+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29160342",
         "display_name": "Maratón (Marathon) 720p CZ Dabing",
         "planned_at": "2026-11-11T03:47:59.990787+00:00"
-      },
-      "claim": {
-        "worker_id": "b1f4c733f5194ee5ba0ffd536d9d7fa7-shard-0",
-        "claimed_at": "2026-11-11T03:48:00.497404+00:00",
-        "lease_expires_at": "2026-11-11T09:48:00.497404+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987147",
       "prepared": {
@@ -185315,5 +185317,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:49:07.609503+00:00"
+  "updated_at": "2026-11-11T03:49:09.022802+00:00"
 }
