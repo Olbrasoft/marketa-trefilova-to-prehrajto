@@ -109226,13 +109226,6 @@
           "source_id": "34671725",
           "target_video_id": "30983679",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:15:12.555254+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34671725",
-          "target_video_id": "30983679",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:50:14.207137+00:00"
         },
         {
@@ -109241,6 +109234,13 @@
           "target_video_id": "30983679",
           "permanent": false,
           "attempted_at": "2026-11-11T04:26:48.250950+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34671725",
+          "target_video_id": "30983679",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:08:05.052734+00:00"
         }
       ],
       "last_plan": {
@@ -109254,12 +109254,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T14:33:18.077116+00:00",
         "relay_source_id": "34671725"
-      },
-      "claim": {
-        "worker_id": "7c18346a586844349becbbd7b8dbbe97-shard-0",
-        "claimed_at": "2026-11-11T05:08:02.662882+00:00",
-        "lease_expires_at": "2026-11-11T11:08:02.662882+00:00",
-        "run_id": "42938376778"
       }
     },
     "34066": {
@@ -130018,7 +130012,7 @@
       "last_plan": {
         "source_id": "34672037",
         "display_name": "A Bagful of Fleas (Pytel blech) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:26:45.539266+00:00"
+        "planned_at": "2026-11-11T05:08:04.418203+00:00"
       },
       "previous_target_id": "30986926",
       "prepared": {
@@ -130026,6 +130020,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T02:41:46.201833+00:00",
         "relay_source_id": "34672037"
+      },
+      "claim": {
+        "worker_id": "157d4b76a0f044d9b102a986e0b00bc1-shard-0",
+        "claimed_at": "2026-11-11T05:08:04.872793+00:00",
+        "lease_expires_at": "2026-11-11T11:08:04.872793+00:00",
+        "run_id": "42938376778"
       }
     },
     "13201": {
@@ -133852,7 +133852,7 @@
       "last_plan": {
         "source_id": "32557568",
         "display_name": "Tony's Plan (Tony má plán) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:08:02.321782+00:00"
+        "planned_at": "2026-11-11T05:08:04.628495+00:00"
       }
     },
     "13373": {
@@ -187294,5 +187294,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:08:02.880357+00:00"
+  "updated_at": "2026-11-11T05:08:05.052746+00:00"
 }
