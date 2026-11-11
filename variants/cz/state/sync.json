@@ -111908,13 +111908,6 @@
           "source_id": "34713455",
           "target_video_id": "30983901",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:30:00.981596+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34713455",
-          "target_video_id": "30983901",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:38:50.755932+00:00"
         },
         {
@@ -111923,6 +111916,13 @@
           "target_video_id": "30983901",
           "permanent": false,
           "attempted_at": "2026-11-11T12:48:37.245430+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713455",
+          "target_video_id": "30983901",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:01:17.941902+00:00"
         }
       ],
       "last_plan": {
@@ -130909,7 +130909,7 @@
       "last_plan": {
         "source_id": "34860819",
         "display_name": "Guard 13 (13. revír) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:48:35.567695+00:00"
+        "planned_at": "2026-11-11T14:01:16.515206+00:00"
       },
       "previous_target_id": "30986996",
       "prepared": {
@@ -130917,6 +130917,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-11T03:11:45.728295+00:00",
         "relay_source_id": "34860819"
+      },
+      "claim": {
+        "worker_id": "ae5dc080509f4b8abd1fed871ff489db-shard-0",
+        "claimed_at": "2026-11-11T14:01:17.313781+00:00",
+        "lease_expires_at": "2026-11-11T20:01:17.313781+00:00",
+        "run_id": "43011363893"
       }
     },
     "32881": {
@@ -144409,7 +144415,7 @@
       "last_plan": {
         "source_id": "34134271",
         "display_name": "Definice lásky 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:01:14.051373+00:00"
+        "planned_at": "2026-11-11T14:01:16.847959+00:00"
       }
     },
     "37404": {
@@ -196386,5 +196392,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:01:14.543804+00:00"
+  "updated_at": "2026-11-11T14:01:17.941917+00:00"
 }
