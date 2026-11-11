@@ -146282,17 +146282,19 @@
       "attempts": []
     },
     "30321": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13583452",
+          "target_video_id": "30995443",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:54:38.717561+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13583452",
         "display_name": "To Walk with Lions 720p CZ Dabing",
         "planned_at": "2026-11-11T23:33:21.364125+00:00"
-      },
-      "claim": {
-        "worker_id": "714d0baddbee4dad90465cfd26682538-shard-0",
-        "claimed_at": "2026-11-11T23:33:23.763109+00:00",
-        "lease_expires_at": "2026-11-12T05:33:23.763109+00:00",
-        "run_id": "43102571398"
       },
       "previous_target_id": "30995443",
       "prepared": {
@@ -197933,5 +197935,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:54:35.605394+00:00"
+  "updated_at": "2026-11-11T23:54:38.717589+00:00"
 }
