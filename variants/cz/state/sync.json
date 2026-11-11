@@ -14026,6 +14026,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-10-31T03:58:16.842735+00:00",
         "relay_source_id": "18888145"
+      },
+      "claim": {
+        "worker_id": "4205ce47b8254bdbb2dcdcb1a470f95d-shard-0",
+        "claimed_at": "2026-11-11T06:35:50.336937+00:00",
+        "lease_expires_at": "2026-11-11T12:35:50.336937+00:00",
+        "run_id": "42965310158"
       }
     },
     "22047": {
@@ -17383,13 +17389,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:23:35.725922+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:05:17.259560+00:00"
         },
         {
@@ -17398,6 +17397,13 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-11T05:45:38.103371+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:35:51.109910+00:00"
         }
       ],
       "last_plan": {
@@ -17411,12 +17417,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
-      },
-      "claim": {
-        "worker_id": "3af8048639d040bfb51c911e0b2e183f-shard-0",
-        "claimed_at": "2026-11-11T06:35:47.975246+00:00",
-        "lease_expires_at": "2026-11-11T12:35:47.975246+00:00",
-        "run_id": "42965310158"
       }
     },
     "23132": {
@@ -134320,7 +134320,7 @@
       "last_plan": {
         "source_id": "34782053",
         "display_name": "Smrt pedofila 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:45:40.662029+00:00"
+        "planned_at": "2026-11-11T06:35:50.545945+00:00"
       },
       "previous_target_id": "30987520",
       "prepared": {
@@ -137010,7 +137010,7 @@
       "last_plan": {
         "source_id": "34232902",
         "display_name": "Nahá pastýrka (Nahá pastýřka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:35:48.521207+00:00"
+        "planned_at": "2026-11-11T06:35:50.864844+00:00"
       }
     },
     "33517": {
@@ -189974,5 +189974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:35:48.521226+00:00"
+  "updated_at": "2026-11-11T06:35:51.109932+00:00"
 }
