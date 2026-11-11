@@ -120406,7 +120406,7 @@
       "last_plan": {
         "source_id": "23806861",
         "display_name": "Athena 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:41:56.247255+00:00"
+        "planned_at": "2026-11-11T04:18:25.216879+00:00"
       },
       "previous_target_id": "30985032",
       "prepared": {
@@ -120414,17 +120414,16 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T18:37:53.303604+00:00",
         "relay_source_id": "23806861"
+      },
+      "claim": {
+        "worker_id": "aa0654ef0e6b43d4b45d9942953f8096-shard-0",
+        "claimed_at": "2026-11-11T04:18:25.674648+00:00",
+        "lease_expires_at": "2026-11-11T10:18:25.674648+00:00",
+        "run_id": "42938376778"
       }
     },
     "21120": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34011156",
-          "target_video_id": "30985031",
-          "permanent": false,
-          "attempted_at": "2026-11-11T02:34:47.242360+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34011156",
@@ -120438,6 +120437,13 @@
           "target_video_id": "30985031",
           "permanent": false,
           "attempted_at": "2026-11-11T03:41:53.332862+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34011156",
+          "target_video_id": "30985031",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:18:25.824330+00:00"
         }
       ],
       "last_plan": {
@@ -120451,12 +120457,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T18:37:51.807112+00:00",
         "relay_source_id": "34011156"
-      },
-      "claim": {
-        "worker_id": "0511148e5179411abb561c5e78c405f3-shard-0",
-        "claimed_at": "2026-11-11T04:18:23.670773+00:00",
-        "lease_expires_at": "2026-11-11T10:18:23.670773+00:00",
-        "run_id": "42938376778"
       }
     },
     "18201": {
@@ -132510,7 +132510,7 @@
       "last_plan": {
         "source_id": "27788170",
         "display_name": "Dobře situovaný pán SD CZ Dabing",
-        "planned_at": "2026-11-11T04:18:23.408475+00:00"
+        "planned_at": "2026-11-11T04:18:25.425707+00:00"
       }
     },
     "24234": {
@@ -186108,5 +186108,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:18:23.830616+00:00"
+  "updated_at": "2026-11-11T04:18:25.824340+00:00"
 }
