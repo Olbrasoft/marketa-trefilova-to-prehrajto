@@ -140847,17 +140847,19 @@
       }
     },
     "17631": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11413310",
+          "target_video_id": "30988502",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:35:49.651757+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11413310",
         "display_name": "Prípad dvou manzelek (Případ dvou manželek) 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:35:02.323685+00:00"
-      },
-      "claim": {
-        "worker_id": "15ae213854af4d9cab3f05de2cbc2629-shard-0",
-        "claimed_at": "2026-11-11T08:35:04.648904+00:00",
-        "lease_expires_at": "2026-11-11T14:35:04.648904+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988502",
       "prepared": {
@@ -193294,5 +193296,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:35:47.785903+00:00"
+  "updated_at": "2026-11-11T08:35:49.651773+00:00"
 }
