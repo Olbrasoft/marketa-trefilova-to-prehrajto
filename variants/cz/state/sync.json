@@ -8538,13 +8538,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:10:04.864444+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:47:09.553919+00:00"
         },
         {
@@ -8553,6 +8546,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-11T03:19:53.421264+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:55:03.219373+00:00"
         }
       ],
       "last_plan": {
@@ -8566,12 +8566,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
-      },
-      "claim": {
-        "worker_id": "df476ee300d14808bbc902e5f0629416-shard-0",
-        "claimed_at": "2026-11-11T03:54:59.942964+00:00",
-        "lease_expires_at": "2026-11-11T09:54:59.942964+00:00",
-        "run_id": "42938376778"
       }
     },
     "270": {
@@ -8609,6 +8603,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
+      },
+      "claim": {
+        "worker_id": "14be9b03c8b449d9a2d93b8e8ace35d8-shard-0",
+        "claimed_at": "2026-11-11T03:55:02.409939+00:00",
+        "lease_expires_at": "2026-11-11T09:55:02.409939+00:00",
+        "run_id": "42938376778"
       }
     },
     "21873": {
@@ -22312,7 +22312,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:19:54.781833+00:00"
+        "planned_at": "2026-11-11T03:55:02.589860+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22320,6 +22320,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "33816530c67f455888d8d3865a60822c-shard-0",
+        "claimed_at": "2026-11-11T03:55:03.069700+00:00",
+        "lease_expires_at": "2026-11-11T09:55:03.069700+00:00",
+        "run_id": "42938376778"
       }
     },
     "730": {
@@ -131713,7 +131719,7 @@
       "last_plan": {
         "source_id": "34715394",
         "display_name": "Káta a krokodýl (Káťa a krokodýl) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:55:00.322512+00:00"
+        "planned_at": "2026-11-11T03:55:02.794451+00:00"
       }
     },
     "23538": {
@@ -185467,5 +185473,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:55:00.468299+00:00"
+  "updated_at": "2026-11-11T03:55:03.219385+00:00"
 }
