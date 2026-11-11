@@ -114590,13 +114590,6 @@
           "source_id": "31604257",
           "target_video_id": "30984469",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:14:57.516686+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31604257",
-          "target_video_id": "30984469",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:23:23.482722+00:00"
         },
         {
@@ -114605,6 +114598,13 @@
           "target_video_id": "30984469",
           "permanent": false,
           "attempted_at": "2026-11-11T21:55:20.054299+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31604257",
+          "target_video_id": "30984469",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:17:42.316935+00:00"
         }
       ],
       "last_plan": {
@@ -114647,7 +114647,7 @@
       "last_plan": {
         "source_id": "12492093",
         "display_name": "Yesterday (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-11T21:55:21.735661+00:00"
+        "planned_at": "2026-11-11T23:17:40.908156+00:00"
       },
       "previous_target_id": "30984495",
       "prepared": {
@@ -114655,6 +114655,12 @@
         "size_bytes": 29600000000,
         "prepared_at": "2026-11-10T16:36:51.014450+00:00",
         "relay_source_id": "12492093"
+      },
+      "claim": {
+        "worker_id": "8a164eb2a3fc4baa823a099146adee9c-shard-0",
+        "claimed_at": "2026-11-11T23:17:41.684377+00:00",
+        "lease_expires_at": "2026-11-12T05:17:41.684377+00:00",
+        "run_id": "43102571398"
       }
     },
     "34394": {
@@ -146239,7 +146245,7 @@
       "last_plan": {
         "source_id": "30453519",
         "display_name": "Die Geschichte vom kleinen Muck 720p CZ Dabing",
-        "planned_at": "2026-11-11T23:17:38.530503+00:00"
+        "planned_at": "2026-11-11T23:17:41.234766+00:00"
       }
     },
     "30419": {
@@ -197875,5 +197881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:17:38.796346+00:00"
+  "updated_at": "2026-11-11T23:17:42.316955+00:00"
 }
