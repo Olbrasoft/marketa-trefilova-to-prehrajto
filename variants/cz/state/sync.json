@@ -126126,6 +126126,12 @@
         "size_bytes": 972500000,
         "prepared_at": "2026-11-10T23:41:45.195318+00:00",
         "relay_source_id": "10328836"
+      },
+      "claim": {
+        "worker_id": "7e6957c846c7406ba2277c92a629458a-shard-0",
+        "claimed_at": "2026-11-11T12:12:37.171333+00:00",
+        "lease_expires_at": "2026-11-11T18:12:37.171333+00:00",
+        "run_id": "43011363893"
       }
     },
     "29291": {
@@ -128361,13 +128367,6 @@
           "source_id": "34694034",
           "target_video_id": "30986712",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:05:27.131600+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34694034",
-          "target_video_id": "30986712",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:01:27.573922+00:00"
         },
         {
@@ -128376,6 +128375,13 @@
           "target_video_id": "30986712",
           "permanent": false,
           "attempted_at": "2026-11-11T09:02:52.364923+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34694034",
+          "target_video_id": "30986712",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:12:36.984990+00:00"
         }
       ],
       "last_plan": {
@@ -128389,12 +128395,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T01:41:50.314467+00:00",
         "relay_source_id": "34694034"
-      },
-      "claim": {
-        "worker_id": "2a09551a39a44413968c6fa1d3e0ee1f-shard-0",
-        "claimed_at": "2026-11-11T12:12:33.922821+00:00",
-        "lease_expires_at": "2026-11-11T18:12:33.922821+00:00",
-        "run_id": "43011363893"
       }
     },
     "26860": {
@@ -139071,7 +139071,7 @@
       "last_plan": {
         "source_id": "34877899",
         "display_name": "Poslední propadne peklu (The Last One Will Go to Hell) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:02:57.873961+00:00"
+        "planned_at": "2026-11-11T12:12:37.408599+00:00"
       },
       "previous_target_id": "30987968",
       "prepared": {
@@ -143119,7 +143119,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:12:34.803081+00:00"
+        "planned_at": "2026-11-11T12:12:37.729243+00:00"
       }
     },
     "20941": {
@@ -195257,5 +195257,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:12:34.803098+00:00"
+  "updated_at": "2026-11-11T12:12:37.729259+00:00"
 }
