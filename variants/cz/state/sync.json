@@ -118734,6 +118734,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T18:09:43.833348+00:00",
         "relay_source_id": "33730079"
+      },
+      "claim": {
+        "worker_id": "9e5e0f4596cb4956bfc033a3dda32dd8-shard-0",
+        "claimed_at": "2026-11-11T05:41:55.482044+00:00",
+        "lease_expires_at": "2026-11-11T11:41:55.482044+00:00",
+        "run_id": "42938376778"
       }
     },
     "2792": {
@@ -118763,7 +118769,7 @@
       "last_plan": {
         "source_id": "31031880",
         "display_name": "Nonnas 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:00:30.042498+00:00"
+        "planned_at": "2026-11-11T05:41:55.647470+00:00"
       },
       "previous_target_id": "30984912",
       "prepared": {
@@ -120571,13 +120577,6 @@
           "source_id": "13913777",
           "target_video_id": "30985049",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:44:01.307441+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13913777",
-          "target_video_id": "30985049",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:20:25.139871+00:00"
         },
         {
@@ -120586,6 +120585,13 @@
           "target_video_id": "30985049",
           "permanent": false,
           "attempted_at": "2026-11-11T05:00:30.554217+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13913777",
+          "target_video_id": "30985049",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:41:55.348925+00:00"
         }
       ],
       "last_plan": {
@@ -120599,12 +120605,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:40:14.484520+00:00",
         "relay_source_id": "13913777"
-      },
-      "claim": {
-        "worker_id": "4c71fed452804d1ca8e72c75c220fdb1-shard-0",
-        "claimed_at": "2026-11-11T05:41:52.009615+00:00",
-        "lease_expires_at": "2026-11-11T11:41:52.009615+00:00",
-        "run_id": "42938376778"
       }
     },
     "18768": {
@@ -135126,7 +135126,7 @@
       "last_plan": {
         "source_id": "34676679",
         "display_name": "Stop SD CZ Dabing",
-        "planned_at": "2026-11-11T05:41:53.738316+00:00"
+        "planned_at": "2026-11-11T05:41:55.856462+00:00"
       }
     },
     "36736": {
@@ -188364,5 +188364,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:41:53.738327+00:00"
+  "updated_at": "2026-11-11T05:41:55.856478+00:00"
 }
