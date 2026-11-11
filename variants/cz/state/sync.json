@@ -113939,7 +113939,7 @@
       "last_plan": {
         "source_id": "29766668",
         "display_name": "The Fall Guy 4K CZ Dabing",
-        "planned_at": "2026-11-11T03:14:10.656574+00:00"
+        "planned_at": "2026-11-11T03:49:23.264693+00:00"
       },
       "previous_target_id": "30984145",
       "prepared": {
@@ -113947,6 +113947,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:33:19.620672+00:00",
         "relay_source_id": "29766668"
+      },
+      "claim": {
+        "worker_id": "81d8a8d2e1f8490baa3bb7f8d7c0e663-shard-0",
+        "claimed_at": "2026-11-11T03:49:23.860223+00:00",
+        "lease_expires_at": "2026-11-11T09:49:23.860223+00:00",
+        "run_id": "42938376778"
       }
     },
     "2964": {
@@ -130745,6 +130751,13 @@
           "target_video_id": "30987005",
           "permanent": false,
           "attempted_at": "2026-11-11T03:14:12.550747+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34662434",
+          "target_video_id": "30987005",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:49:24.484910+00:00"
         }
       ],
       "last_plan": {
@@ -130755,7 +130768,7 @@
       "previous_target_id": "30987005",
       "prepared": {
         "target_video_id": "30987005",
-        "size_bytes": 2457870680,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T03:13:34.188305+00:00",
         "relay_source_id": "34662434"
       }
@@ -131537,7 +131550,13 @@
       "last_plan": {
         "source_id": "17465562",
         "display_name": "Daily Fables (De Fabeltjeskrant: de Grote Dierenbos-spelen) 720p CZ Dabing",
-        "planned_at": "2026-11-11T03:49:20.936089+00:00"
+        "planned_at": "2026-11-11T03:49:23.473241+00:00"
+      },
+      "claim": {
+        "worker_id": "e7f2dc8b67874f9da3e15a1939c722fa-shard-0",
+        "claimed_at": "2026-11-11T03:49:23.992033+00:00",
+        "lease_expires_at": "2026-11-11T09:49:23.992033+00:00",
+        "run_id": "42938376778"
       }
     },
     "24245": {
@@ -131547,7 +131566,12 @@
       "attempts": []
     },
     "33951": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34716844",
+        "display_name": "Hry a sny 720p CZ Dabing",
+        "planned_at": "2026-11-11T03:49:23.604746+00:00"
+      }
     },
     "13232": {
       "attempts": []
@@ -185318,5 +185342,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:49:21.195828+00:00"
+  "updated_at": "2026-11-11T03:49:24.484918+00:00"
 }
