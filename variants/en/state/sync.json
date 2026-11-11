@@ -36540,17 +36540,19 @@
       "attempts": []
     },
     "15371": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18714751",
+          "target_video_id": "30994567",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:21:02.004806+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18714751",
         "display_name": "In the Shadows (Ve stínu) 1080p CZ Titulky",
         "planned_at": "2026-11-11T22:05:57.185289+00:00"
-      },
-      "claim": {
-        "worker_id": "8bd4e03eff6a437eb33c92dd2607e1a3-shard-0",
-        "claimed_at": "2026-11-11T22:05:57.559446+00:00",
-        "lease_expires_at": "2026-11-12T04:05:57.559446+00:00",
-        "run_id": "43102571398"
       },
       "previous_target_id": "30994567",
       "prepared": {
@@ -97291,5 +97293,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:12:03.811567+00:00"
+  "updated_at": "2026-11-11T22:21:02.004825+00:00"
 }
