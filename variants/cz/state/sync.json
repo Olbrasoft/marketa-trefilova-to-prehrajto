@@ -143953,17 +143953,19 @@
       }
     },
     "17359": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35428807",
+          "target_video_id": "30990277",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:20:10.423268+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35428807",
         "display_name": "Murders in Valenciennes (Les Disparus de Valenciennes) 1080p CZ Dabing",
         "planned_at": "2026-11-11T13:17:38.070365+00:00"
-      },
-      "claim": {
-        "worker_id": "a3f97fb4deb44cd4b0e6937818fb4591-shard-0",
-        "claimed_at": "2026-11-11T13:17:40.471347+00:00",
-        "lease_expires_at": "2026-11-11T19:17:40.471347+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990277",
       "prepared": {
@@ -196019,5 +196021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:20:08.608715+00:00"
+  "updated_at": "2026-11-11T13:20:10.423284+00:00"
 }
