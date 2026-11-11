@@ -100838,13 +100838,6 @@
           "source_id": "34968104",
           "target_video_id": "30967671",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:26:52.735359+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34968104",
-          "target_video_id": "30967671",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:02:46.514954+00:00"
         },
         {
@@ -100853,6 +100846,13 @@
           "target_video_id": "30967671",
           "permanent": false,
           "attempted_at": "2026-11-11T04:41:08.263159+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34968104",
+          "target_video_id": "30967671",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:21:51.412161+00:00"
         }
       ],
       "last_plan": {
@@ -100866,12 +100866,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T06:46:06.993808+00:00",
         "relay_source_id": "34968104"
-      },
-      "claim": {
-        "worker_id": "b8c589c299a84ea5aea11e19449b70f1-shard-0",
-        "claimed_at": "2026-11-11T05:21:49.553189+00:00",
-        "lease_expires_at": "2026-11-11T11:21:49.553189+00:00",
-        "run_id": "42938376778"
       }
     },
     "35562": {
@@ -101242,7 +101236,7 @@
       "last_plan": {
         "source_id": "13450050",
         "display_name": "Garage Sale Mystery: Guilty Until Proven Innocent 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:41:07.803215+00:00"
+        "planned_at": "2026-11-11T05:21:50.897794+00:00"
       },
       "previous_target_id": "30969076",
       "prepared": {
@@ -134400,11 +134394,16 @@
       "last_plan": {
         "source_id": "34701460",
         "display_name": "A Bet on Thirteen (Sázka na třináctku) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:21:47.780211+00:00"
+        "planned_at": "2026-11-11T05:21:51.105162+00:00"
       }
     },
     "24046": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34660671",
+        "display_name": "Jan Cimbura 1080p CZ Dabing",
+        "planned_at": "2026-11-11T05:21:51.235511+00:00"
+      }
     },
     "24173": {
       "attempts": []
@@ -187749,5 +187748,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:21:49.553212+00:00"
+  "updated_at": "2026-11-11T05:21:51.412174+00:00"
 }
