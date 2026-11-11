@@ -131782,17 +131782,19 @@
       "attempts": []
     },
     "24052": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29700681",
+          "target_video_id": "30987213",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:58:20.305710+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29700681",
         "display_name": "The Lantern (Lucerna) SD CZ Dabing",
         "planned_at": "2026-11-11T03:57:37.493975+00:00"
-      },
-      "claim": {
-        "worker_id": "13d27c38bf984324b312d380d99335b5-shard-0",
-        "claimed_at": "2026-11-11T03:57:39.417960+00:00",
-        "lease_expires_at": "2026-11-11T09:57:39.417960+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987213",
       "prepared": {
@@ -185546,5 +185548,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:58:18.793989+00:00"
+  "updated_at": "2026-11-11T03:58:20.305724+00:00"
 }
