@@ -116392,13 +116392,6 @@
           "source_id": "34455392",
           "target_video_id": "30984733",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:19:43.620233+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34455392",
-          "target_video_id": "30984733",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:31:31.713479+00:00"
         },
         {
@@ -116407,6 +116400,13 @@
           "target_video_id": "30984733",
           "permanent": false,
           "attempted_at": "2026-11-11T14:49:22.293619+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34455392",
+          "target_video_id": "30984733",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:27:39.540893+00:00"
         }
       ],
       "last_plan": {
@@ -116420,12 +116420,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:26:35.994058+00:00",
         "relay_source_id": "34455392"
-      },
-      "claim": {
-        "worker_id": "c26b74224d94468988c56bf276b9decf-shard-0",
-        "claimed_at": "2026-11-11T17:27:37.281670+00:00",
-        "lease_expires_at": "2026-11-11T23:27:37.281670+00:00",
-        "run_id": "43067513109"
       }
     },
     "11240": {
@@ -118164,7 +118158,7 @@
       "last_plan": {
         "source_id": "27866187",
         "display_name": "Great Expectations (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:49:20.688861+00:00"
+        "planned_at": "2026-11-11T17:27:38.901197+00:00"
       },
       "previous_target_id": "30984865",
       "prepared": {
@@ -118172,6 +118166,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T17:58:08.493272+00:00",
         "relay_source_id": "27866187"
+      },
+      "claim": {
+        "worker_id": "e17561a6f3544bf1ba7785aea9044538-shard-0",
+        "claimed_at": "2026-11-11T17:27:39.375448+00:00",
+        "lease_expires_at": "2026-11-11T23:27:39.375448+00:00",
+        "run_id": "43067513109"
       }
     },
     "2985": {
@@ -144975,7 +144975,7 @@
       "last_plan": {
         "source_id": "32100315",
         "display_name": "High Blue Wall (Vysoká modrá zeď) SD CZ Dabing",
-        "planned_at": "2026-11-11T17:27:36.990925+00:00"
+        "planned_at": "2026-11-11T17:27:39.112490+00:00"
       }
     },
     "31982": {
@@ -196855,5 +196855,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:27:37.421457+00:00"
+  "updated_at": "2026-11-11T17:27:39.540913+00:00"
 }
