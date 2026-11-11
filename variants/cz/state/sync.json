@@ -138605,17 +138605,19 @@
       }
     },
     "12762": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30652094",
+          "target_video_id": "30988054",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:25:34.838762+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30652094",
         "display_name": "Temno SD CZ Dabing",
         "planned_at": "2026-11-11T07:23:35.505221+00:00"
-      },
-      "claim": {
-        "worker_id": "4f7c8e3b72ad43fd955d49de953a196b-shard-0",
-        "claimed_at": "2026-11-11T07:23:37.551450+00:00",
-        "lease_expires_at": "2026-11-11T13:23:37.551450+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988054",
       "prepared": {
@@ -191367,5 +191369,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:25:32.466274+00:00"
+  "updated_at": "2026-11-11T07:25:34.838780+00:00"
 }
