@@ -3098,13 +3098,6 @@
           "source_id": "33590630",
           "target_video_id": "30612365",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:41:34.322155+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33590630",
-          "target_video_id": "30612365",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:12:02.233860+00:00"
         },
         {
@@ -3113,6 +3106,13 @@
           "target_video_id": "30612365",
           "permanent": false,
           "attempted_at": "2026-11-11T15:42:37.180916+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33590630",
+          "target_video_id": "30612365",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:26:59.958967+00:00"
         }
       ],
       "last_plan": {
@@ -3126,12 +3126,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
-      },
-      "claim": {
-        "worker_id": "a41c1217393040aa957d115fd204ba9c-shard-0",
-        "claimed_at": "2026-11-11T17:26:30.353470+00:00",
-        "lease_expires_at": "2026-11-11T23:26:30.353470+00:00",
-        "run_id": "43067513109"
       }
     },
     "21312": {
@@ -35008,7 +35002,7 @@
       "last_plan": {
         "source_id": "32154189",
         "display_name": "Ferry 720p CZ Titulky",
-        "planned_at": "2026-11-11T15:43:03.510142+00:00"
+        "planned_at": "2026-11-11T17:26:59.789014+00:00"
       },
       "previous_target_id": "30987911",
       "prepared": {
@@ -35016,6 +35010,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T06:44:20.566204+00:00",
         "relay_source_id": "32154189"
+      },
+      "claim": {
+        "worker_id": "d12f589f9b6b42539730b1bc81088a1d-shard-0",
+        "claimed_at": "2026-11-11T17:27:00.032646+00:00",
+        "lease_expires_at": "2026-11-11T23:27:00.032646+00:00",
+        "run_id": "43067513109"
       }
     },
     "21141": {
@@ -97212,5 +97212,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:26:57.259365+00:00"
+  "updated_at": "2026-11-11T17:27:00.032672+00:00"
 }
