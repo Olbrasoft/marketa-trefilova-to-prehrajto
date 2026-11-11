@@ -124896,13 +124896,6 @@
           "source_id": "24613759",
           "target_video_id": "30985828",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:24:50.510761+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24613759",
-          "target_video_id": "30985828",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:46:08.373189+00:00"
         },
         {
@@ -124911,12 +124904,19 @@
           "target_video_id": "30985828",
           "permanent": false,
           "attempted_at": "2026-11-11T18:12:26.884709+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24613759",
+          "target_video_id": "30985828",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:31:33.086446+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24613759",
         "display_name": "The Royal Game (Schachnovelle) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:12:22.817978+00:00"
+        "planned_at": "2026-11-11T19:31:30.956717+00:00"
       },
       "previous_target_id": "30985828",
       "prepared": {
@@ -145550,11 +145550,22 @@
       "last_plan": {
         "source_id": "33806706",
         "display_name": "Friedas Fall 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:31:27.495997+00:00"
+        "planned_at": "2026-11-11T19:31:31.186210+00:00"
+      },
+      "claim": {
+        "worker_id": "1ac66abf59914b1f8ebca73211a9e1bb-shard-0",
+        "claimed_at": "2026-11-11T19:31:31.762300+00:00",
+        "lease_expires_at": "2026-11-12T01:31:31.762300+00:00",
+        "run_id": "43067513109"
       }
     },
     "13952": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13070317",
+        "display_name": "Hailey Dean Mysteries: Death on Duty 1080p CZ Dabing",
+        "planned_at": "2026-11-11T19:31:31.332470+00:00"
+      }
     },
     "12745": {
       "attempts": []
@@ -197291,5 +197302,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:31:28.848066+00:00"
+  "updated_at": "2026-11-11T19:31:33.086474+00:00"
 }
