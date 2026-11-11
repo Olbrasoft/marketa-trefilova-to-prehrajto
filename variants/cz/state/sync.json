@@ -27385,13 +27385,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:47:41.698701+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:31:12.133858+00:00"
         },
         {
@@ -27400,6 +27393,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-11T00:10:01.449409+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:47:57.645613+00:00"
         }
       ],
       "last_plan": {
@@ -119062,7 +119062,7 @@
       "last_plan": {
         "source_id": "33745553",
         "display_name": "Romper Stomper 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:10:00.883900+00:00"
+        "planned_at": "2026-11-11T00:47:55.965640+00:00"
       },
       "previous_target_id": "30984953",
       "prepared": {
@@ -119070,6 +119070,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T18:17:32.822519+00:00",
         "relay_source_id": "33745553"
+      },
+      "claim": {
+        "worker_id": "08655bd3aed4429684fcede7fe991def-shard-0",
+        "claimed_at": "2026-11-11T00:47:56.760043+00:00",
+        "lease_expires_at": "2026-11-11T06:47:56.760043+00:00",
+        "run_id": "42904278669"
       }
     },
     "2987": {
@@ -126875,6 +126881,12 @@
         "source_id": "33228388",
         "display_name": "Happyend 1080p CZ Dabing",
         "planned_at": "2026-11-11T00:47:52.945364+00:00"
+      },
+      "claim": {
+        "worker_id": "cc4ac2baff114c0cb3ebc7d09d4aceb9-shard-0",
+        "claimed_at": "2026-11-11T00:47:55.740237+00:00",
+        "lease_expires_at": "2026-11-11T06:47:55.740237+00:00",
+        "run_id": "42904278669"
       }
     },
     "3107": {
@@ -126882,7 +126894,7 @@
       "last_plan": {
         "source_id": "34871053",
         "display_name": "The Dawns Here Are Quiet (А зори здесь тихие...) (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:47:53.391569+00:00"
+        "planned_at": "2026-11-11T00:47:56.277868+00:00"
       }
     },
     "33191": {
@@ -181440,5 +181452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:47:53.391588+00:00"
+  "updated_at": "2026-11-11T00:47:57.645634+00:00"
 }
