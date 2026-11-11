@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-11T09:11:08.133422+00:00"
+        "planned_at": "2026-11-11T12:21:31.068406+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "7da645f4bfe245729ebdfec24d4d8fd7-shard-0",
+        "claimed_at": "2026-11-11T12:21:31.975704+00:00",
+        "lease_expires_at": "2026-11-11T18:21:31.975704+00:00",
+        "run_id": "43011363893"
       }
     },
     "29922": {
@@ -143200,17 +143206,19 @@
       }
     },
     "20941": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31022901",
+          "target_video_id": "30989842",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:24:02.881426+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31022901",
         "display_name": "The White World According to Daliborek (Svet podle Daliborka) 720p CZ Dabing",
         "planned_at": "2026-11-11T12:21:20.736992+00:00"
-      },
-      "claim": {
-        "worker_id": "d5e6d0ad2c094fa8b6321735b1fd55cd-shard-0",
-        "claimed_at": "2026-11-11T12:21:21.661058+00:00",
-        "lease_expires_at": "2026-11-11T18:21:21.661058+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30989842",
       "prepared": {
@@ -143240,7 +143248,7 @@
       "last_plan": {
         "source_id": "25217823",
         "display_name": "In Love SD CZ Dabing",
-        "planned_at": "2026-11-11T12:21:25.291082+00:00"
+        "planned_at": "2026-11-11T12:21:31.485098+00:00"
       }
     },
     "14419": {
@@ -195347,5 +195355,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:21:27.997562+00:00"
+  "updated_at": "2026-11-11T12:24:02.881451+00:00"
 }
