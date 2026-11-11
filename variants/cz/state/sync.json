@@ -106997,6 +106997,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T13:53:23.773140+00:00",
         "relay_source_id": "34717497"
+      },
+      "claim": {
+        "worker_id": "c27bdf36d76e4cdabc5362ef7866ac76-shard-0",
+        "claimed_at": "2026-11-11T03:08:24.095951+00:00",
+        "lease_expires_at": "2026-11-11T09:08:24.095951+00:00",
+        "run_id": "42938376778"
       }
     },
     "35741": {
@@ -130161,17 +130167,19 @@
       }
     },
     "24134": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34789221",
+          "target_video_id": "30986986",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:08:24.259367+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34789221",
         "display_name": "Virginity 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:07:39.643717+00:00"
-      },
-      "claim": {
-        "worker_id": "406f0d910099427d86bb05639ed31367-shard-0",
-        "claimed_at": "2026-11-11T03:07:40.028658+00:00",
-        "lease_expires_at": "2026-11-11T09:07:40.028658+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986986",
       "prepared": {
@@ -184180,5 +184188,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:08:22.539408+00:00"
+  "updated_at": "2026-11-11T03:08:24.259378+00:00"
 }
