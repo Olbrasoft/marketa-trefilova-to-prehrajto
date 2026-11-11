@@ -106794,13 +106794,6 @@
           "source_id": "34711370",
           "target_video_id": "30983083",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:45:53.731989+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711370",
-          "target_video_id": "30983083",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:01:40.280888+00:00"
         },
         {
@@ -106809,6 +106802,13 @@
           "target_video_id": "30983083",
           "permanent": false,
           "attempted_at": "2026-11-11T17:38:31.691268+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711370",
+          "target_video_id": "30983083",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:49:15.443657+00:00"
         }
       ],
       "last_plan": {
@@ -106822,12 +106822,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T13:50:54.791025+00:00",
         "relay_source_id": "34711370"
-      },
-      "claim": {
-        "worker_id": "07b21b42745d42bf9fdd4825d6dddd79-shard-0",
-        "claimed_at": "2026-11-11T18:49:12.893058+00:00",
-        "lease_expires_at": "2026-11-12T00:49:12.893058+00:00",
-        "run_id": "43067513109"
       }
     },
     "20394": {
@@ -108544,7 +108538,7 @@
       "last_plan": {
         "source_id": "35095666",
         "display_name": "Swingtime 720p CZ Dabing",
-        "planned_at": "2026-11-11T17:38:33.446238+00:00"
+        "planned_at": "2026-11-11T18:49:14.796506+00:00"
       },
       "previous_target_id": "30983616",
       "prepared": {
@@ -108552,6 +108546,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:22:23.531059+00:00",
         "relay_source_id": "35095666"
+      },
+      "claim": {
+        "worker_id": "418ab643fbd5469e8f145000ff8e4235-shard-0",
+        "claimed_at": "2026-11-11T18:49:15.264451+00:00",
+        "lease_expires_at": "2026-11-12T00:49:15.264451+00:00",
+        "run_id": "43067513109"
       }
     },
     "13036": {
@@ -145356,7 +145356,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:49:12.619792+00:00"
+        "planned_at": "2026-11-11T18:49:15.006026+00:00"
       }
     },
     "13050": {
@@ -197145,5 +197145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:49:13.059707+00:00"
+  "updated_at": "2026-11-11T18:49:15.443671+00:00"
 }
