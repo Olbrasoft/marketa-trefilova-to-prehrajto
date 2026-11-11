@@ -139966,17 +139966,19 @@
       "attempts": []
     },
     "26946": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35428804",
+          "target_video_id": "30988277",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:03:35.278777+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35428804",
         "display_name": "Murders in Amboise (L'oubliée d'Amboise) 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:02:49.810763+00:00"
-      },
-      "claim": {
-        "worker_id": "198156109cbb48b192cf0a6c1b5d9c0c-shard-0",
-        "claimed_at": "2026-11-11T08:02:51.816461+00:00",
-        "lease_expires_at": "2026-11-11T14:02:51.816461+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988277",
       "prepared": {
@@ -192530,5 +192532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:03:32.963078+00:00"
+  "updated_at": "2026-11-11T08:03:35.278794+00:00"
 }
