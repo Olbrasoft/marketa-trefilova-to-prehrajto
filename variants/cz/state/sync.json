@@ -133208,6 +133208,12 @@
         "size_bytes": 832200000,
         "prepared_at": "2026-11-11T04:18:48.267190+00:00",
         "relay_source_id": "27788170"
+      },
+      "claim": {
+        "worker_id": "70771e1b4764404c8bb66a13bffda8a9-shard-0",
+        "claimed_at": "2026-11-11T07:22:38.104959+00:00",
+        "lease_expires_at": "2026-11-11T13:22:38.104959+00:00",
+        "run_id": "42965310158"
       }
     },
     "24234": {
@@ -138513,17 +138519,19 @@
       "attempts": []
     },
     "8730": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34668881",
+          "target_video_id": "30988044",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:22:39.440123+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34668881",
         "display_name": "D2: Train to the End of the World (D2 – Vlakem až na konec světa) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:20:59.584639+00:00"
-      },
-      "claim": {
-        "worker_id": "d5726fa39a0c40e688c908151692b731-shard-0",
-        "claimed_at": "2026-11-11T07:21:01.770889+00:00",
-        "lease_expires_at": "2026-11-11T13:21:01.770889+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988044",
       "prepared": {
@@ -191281,5 +191289,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:22:36.262910+00:00"
+  "updated_at": "2026-11-11T07:22:39.440147+00:00"
 }
