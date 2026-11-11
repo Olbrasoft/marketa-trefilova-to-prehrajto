@@ -132140,13 +132140,6 @@
           "source_id": "17465562",
           "target_video_id": "30987160",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:48:35.444255+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17465562",
-          "target_video_id": "30987160",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:39:35.384245+00:00"
         },
         {
@@ -132155,6 +132148,13 @@
           "target_video_id": "30987160",
           "permanent": false,
           "attempted_at": "2026-11-11T07:35:12.237901+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17465562",
+          "target_video_id": "30987160",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:32:59.268751+00:00"
         }
       ],
       "last_plan": {
@@ -132168,12 +132168,6 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T03:49:28.697671+00:00",
         "relay_source_id": "17465562"
-      },
-      "claim": {
-        "worker_id": "76b01e370cf54703bb03b14480d56b9d-shard-0",
-        "claimed_at": "2026-11-11T08:32:56.708594+00:00",
-        "lease_expires_at": "2026-11-11T14:32:56.708594+00:00",
-        "run_id": "42965310158"
       }
     },
     "24245": {
@@ -136167,7 +136161,7 @@
       "last_plan": {
         "source_id": "19686604",
         "display_name": "Volným pádem 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:35:10.706684+00:00"
+        "planned_at": "2026-11-11T08:32:59.884070+00:00"
       },
       "previous_target_id": "30987716",
       "prepared": {
@@ -140813,11 +140807,16 @@
       "last_plan": {
         "source_id": "32094190",
         "display_name": "Ukradená bitva (Die gestohlene Schlacht) SD CZ Dabing",
-        "planned_at": "2026-11-11T08:32:54.741469+00:00"
+        "planned_at": "2026-11-11T08:33:00.190154+00:00"
       }
     },
     "17631": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11413310",
+        "display_name": "Prípad dvou manzelek (Případ dvou manželek) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T08:33:00.356633+00:00"
+      }
     },
     "37384": {
       "attempts": []
@@ -193241,5 +193240,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:32:56.708623+00:00"
+  "updated_at": "2026-11-11T08:33:00.356650+00:00"
 }
