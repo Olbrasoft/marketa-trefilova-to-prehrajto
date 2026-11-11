@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:38:25.044213+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:19:09.947517+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-11T02:00:19.150879+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:40:23.533224+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "fa658705b74147318bab48d4eebcc03d-shard-0",
-        "claimed_at": "2026-11-11T02:40:18.048102+00:00",
-        "lease_expires_at": "2026-11-11T08:40:18.048102+00:00",
-        "run_id": "42938376778"
       }
     },
     "54": {
@@ -108875,6 +108869,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:30:14.467093+00:00",
         "relay_source_id": "35072913"
+      },
+      "claim": {
+        "worker_id": "34bf553bcab1458b8cd3758a6c850dfb-shard-0",
+        "claimed_at": "2026-11-11T02:40:23.664366+00:00",
+        "lease_expires_at": "2026-11-11T08:40:23.664366+00:00",
+        "run_id": "42938376778"
       }
     },
     "28861": {
@@ -111823,7 +111823,7 @@
       "last_plan": {
         "source_id": "34705144",
         "display_name": "Private Torment (Windstorm) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:00:30.818435+00:00"
+        "planned_at": "2026-11-11T02:40:23.817164+00:00"
       },
       "previous_target_id": "30983853",
       "prepared": {
@@ -129364,7 +129364,7 @@
       "last_plan": {
         "source_id": "34713662",
         "display_name": "Donbass (2016) 720p CZ Dabing",
-        "planned_at": "2026-11-11T02:40:21.863677+00:00"
+        "planned_at": "2026-11-11T02:40:24.021587+00:00"
       }
     },
     "10813": {
@@ -183475,5 +183475,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:40:22.056600+00:00"
+  "updated_at": "2026-11-11T02:40:24.021596+00:00"
 }
