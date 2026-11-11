@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-11T09:53:16.326564+00:00"
+        "planned_at": "2026-11-11T12:08:08.015595+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "5c075529f9514a0aab52ea1e9a0dbd95-shard-0",
+        "claimed_at": "2026-11-11T12:08:08.359466+00:00",
+        "lease_expires_at": "2026-11-11T18:08:08.359466+00:00",
+        "run_id": "43011363893"
       }
     },
     "21312": {
@@ -35065,13 +35071,6 @@
           "source_id": "23076909",
           "target_video_id": "30987932",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:53:38.791663+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23076909",
-          "target_video_id": "30987932",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:23:43.899351+00:00"
         },
         {
@@ -35080,6 +35079,13 @@
           "target_video_id": "30987932",
           "permanent": false,
           "attempted_at": "2026-11-11T09:53:48.526813+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23076909",
+          "target_video_id": "30987932",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:08:08.533384+00:00"
         }
       ],
       "last_plan": {
@@ -35093,12 +35099,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:52:35.333881+00:00",
         "relay_source_id": "23076909"
-      },
-      "claim": {
-        "worker_id": "800276606293465f836b84974cd241ca-shard-0",
-        "claimed_at": "2026-11-11T12:08:05.606661+00:00",
-        "lease_expires_at": "2026-11-11T18:08:05.606661+00:00",
-        "run_id": "43011363893"
       }
     },
     "370": {
@@ -35571,7 +35571,7 @@
       "last_plan": {
         "source_id": "29895942",
         "display_name": "King of Kings 720p CZ Titulky",
-        "planned_at": "2026-11-11T12:08:02.715535+00:00"
+        "planned_at": "2026-11-11T12:08:08.241844+00:00"
       }
     },
     "14291": {
@@ -96850,5 +96850,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:08:05.606682+00:00"
+  "updated_at": "2026-11-11T12:08:08.533404+00:00"
 }
