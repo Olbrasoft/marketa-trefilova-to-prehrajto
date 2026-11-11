@@ -114530,13 +114530,6 @@
           "source_id": "31604257",
           "target_video_id": "30984469",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:27:12.801067+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31604257",
-          "target_video_id": "30984469",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:08:30.326851+00:00"
         },
         {
@@ -114545,6 +114538,13 @@
           "target_video_id": "30984469",
           "permanent": false,
           "attempted_at": "2026-11-11T05:49:23.130228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31604257",
+          "target_video_id": "30984469",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:40:34.488662+00:00"
         }
       ],
       "last_plan": {
@@ -114558,12 +114558,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T16:32:30.183782+00:00",
         "relay_source_id": "31604257"
-      },
-      "claim": {
-        "worker_id": "fec57a5f84294293935e0aab2f577613-shard-0",
-        "claimed_at": "2026-11-11T06:40:30.839201+00:00",
-        "lease_expires_at": "2026-11-11T12:40:30.839201+00:00",
-        "run_id": "42965310158"
       }
     },
     "2871": {
@@ -114593,7 +114587,7 @@
       "last_plan": {
         "source_id": "12492093",
         "display_name": "Yesterday (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-11T05:49:22.496692+00:00"
+        "planned_at": "2026-11-11T06:40:33.850633+00:00"
       },
       "previous_target_id": "30984495",
       "prepared": {
@@ -114601,6 +114595,12 @@
         "size_bytes": 29600000000,
         "prepared_at": "2026-11-10T16:36:51.014450+00:00",
         "relay_source_id": "12492093"
+      },
+      "claim": {
+        "worker_id": "ebc82218230944f4b3bf420e5df6d136-shard-0",
+        "claimed_at": "2026-11-11T06:40:34.657430+00:00",
+        "lease_expires_at": "2026-11-11T12:40:34.657430+00:00",
+        "run_id": "42965310158"
       }
     },
     "34394": {
@@ -137194,7 +137194,7 @@
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:40:30.489058+00:00"
+        "planned_at": "2026-11-11T06:40:34.118051+00:00"
       }
     },
     "11246": {
@@ -190102,5 +190102,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:40:31.728465+00:00"
+  "updated_at": "2026-11-11T06:40:34.657458+00:00"
 }
