@@ -131214,17 +131214,19 @@
       }
     },
     "14879": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33767536",
+          "target_video_id": "30987126",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:42:25.980522+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33767536",
         "display_name": "Železný dědek 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:41:44.138432+00:00"
-      },
-      "claim": {
-        "worker_id": "7a90fc6021f446afb938eeeafe8d1a73-shard-0",
-        "claimed_at": "2026-11-11T03:41:44.507050+00:00",
-        "lease_expires_at": "2026-11-11T09:41:44.507050+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987126",
       "prepared": {
@@ -185071,5 +185073,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:42:24.617637+00:00"
+  "updated_at": "2026-11-11T03:42:25.980547+00:00"
 }
