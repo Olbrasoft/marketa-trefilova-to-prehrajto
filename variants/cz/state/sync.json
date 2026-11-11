@@ -128084,13 +128084,6 @@
           "source_id": "29545278",
           "target_video_id": "30986656",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:32:35.782499+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29545278",
-          "target_video_id": "30986656",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:04:31.845081+00:00"
         },
         {
@@ -128099,6 +128092,13 @@
           "target_video_id": "30986656",
           "permanent": false,
           "attempted_at": "2026-11-11T19:19:42.495665+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29545278",
+          "target_video_id": "30986656",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:30:49.929354+00:00"
         }
       ],
       "last_plan": {
@@ -128112,12 +128112,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T01:24:07.236891+00:00",
         "relay_source_id": "29545278"
-      },
-      "claim": {
-        "worker_id": "9490d91479a54113b390ac50b50cb017-shard-0",
-        "claimed_at": "2026-11-11T20:30:46.797918+00:00",
-        "lease_expires_at": "2026-11-12T02:30:46.797918+00:00",
-        "run_id": "43067513109"
       }
     },
     "16044": {
@@ -140232,7 +140226,7 @@
       "last_plan": {
         "source_id": "30863959",
         "display_name": "A 105 p.c. Alibi 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:19:44.075074+00:00"
+        "planned_at": "2026-11-11T20:30:49.274291+00:00"
       },
       "previous_target_id": "30988142",
       "prepared": {
@@ -140240,6 +140234,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T07:39:26.787645+00:00",
         "relay_source_id": "30863959"
+      },
+      "claim": {
+        "worker_id": "b7e704d7521545369d00d80b4fdc4059-shard-0",
+        "claimed_at": "2026-11-11T20:30:49.748978+00:00",
+        "lease_expires_at": "2026-11-12T02:30:49.748978+00:00",
+        "run_id": "43067513109"
       }
     },
     "21784": {
@@ -145794,7 +145794,7 @@
       "last_plan": {
         "source_id": "29399864",
         "display_name": "Murder in Biot (Crimes à Biot) SD CZ Dabing",
-        "planned_at": "2026-11-11T20:30:46.535699+00:00"
+        "planned_at": "2026-11-11T20:30:49.490353+00:00"
       }
     },
     "16132": {
@@ -197505,5 +197505,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:30:47.651943+00:00"
+  "updated_at": "2026-11-11T20:30:49.929368+00:00"
 }
