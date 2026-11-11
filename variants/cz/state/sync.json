@@ -112708,13 +112708,6 @@
           "source_id": "35330871",
           "target_video_id": "30984006",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:03:24.912353+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35330871",
-          "target_video_id": "30984006",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:00:08.539824+00:00"
         },
         {
@@ -112723,6 +112716,13 @@
           "target_video_id": "30984006",
           "permanent": false,
           "attempted_at": "2026-11-11T09:01:08.271206+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35330871",
+          "target_video_id": "30984006",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:11:05.130425+00:00"
         }
       ],
       "last_plan": {
@@ -142506,7 +142506,7 @@
       "last_plan": {
         "source_id": "34786206",
         "display_name": "Mark of Cain 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:00:24.684388+00:00"
+        "planned_at": "2026-11-11T12:11:03.822990+00:00"
       },
       "previous_target_id": "30988632",
       "prepared": {
@@ -142514,6 +142514,12 @@
         "size_bytes": 2264457057,
         "prepared_at": "2026-11-11T09:00:32.047834+00:00",
         "relay_source_id": "34786206"
+      },
+      "claim": {
+        "worker_id": "506d95c8f24f4129ad9bacab2b5469db-shard-0",
+        "claimed_at": "2026-11-11T12:11:04.815513+00:00",
+        "lease_expires_at": "2026-11-11T18:11:04.815513+00:00",
+        "run_id": "43011363893"
       }
     },
     "13448": {
@@ -143099,7 +143105,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:11:01.443504+00:00"
+        "planned_at": "2026-11-11T12:11:04.204664+00:00"
       }
     },
     "20941": {
@@ -195237,5 +195243,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:11:01.443519+00:00"
+  "updated_at": "2026-11-11T12:11:05.130440+00:00"
 }
