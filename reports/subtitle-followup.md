@@ -626,3 +626,4 @@ Attach subtitles only after target processing has finished.
 | Ferry 720p CZ Titulky | 30987911 | https://sdilej.cz/32154189/ferry-2021-cz-tit-1080p.mkv | Extract Czech track from exact source after processing |
 | Skyking (#SKYKING) 1080p CZ Titulky | 30987918 | https://sdilej.cz/34014919/skyking.2026.sk.titulky.1080p.mkv | Extract Czech track from exact source after processing |
 | Beavis and Butt-Head Do the Universe 1080p CZ Titulky | 30987932 | https://sdilej.cz/23076909/beavis-and-butt-head-do-the-universe-2022-1080p.mkv | Extract Czech track from exact source after processing |
+| The Place SD CZ Titulky | 30988255 | https://sdilej.cz/9657833/misto-splnenych-prani-the-place-2017-cz-titulky.mkv | Extract Czech track from exact source after processing |
