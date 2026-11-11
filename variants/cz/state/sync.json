@@ -107893,13 +107893,6 @@
           "source_id": "33299236",
           "target_video_id": "30983538",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:13:49.943223+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33299236",
-          "target_video_id": "30983538",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:26:18.717351+00:00"
         },
         {
@@ -107908,6 +107901,13 @@
           "target_video_id": "30983538",
           "permanent": false,
           "attempted_at": "2026-11-11T14:44:41.206366+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33299236",
+          "target_video_id": "30983538",
+          "permanent": false,
+          "attempted_at": "2026-11-11T16:03:28.126331+00:00"
         }
       ],
       "last_plan": {
@@ -131413,7 +131413,7 @@
       "last_plan": {
         "source_id": "34628242",
         "display_name": "Svět kde se žebrá 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:44:39.478118+00:00"
+        "planned_at": "2026-11-11T16:03:26.398209+00:00"
       },
       "previous_target_id": "30987053",
       "prepared": {
@@ -131421,6 +131421,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T03:30:34.687909+00:00",
         "relay_source_id": "34628242"
+      },
+      "claim": {
+        "worker_id": "0d2f610e249e47cd992a23f0602532c2-shard-0",
+        "claimed_at": "2026-11-11T16:03:27.415014+00:00",
+        "lease_expires_at": "2026-11-11T22:03:27.415014+00:00",
+        "run_id": "43011363893"
       }
     },
     "12649": {
@@ -144944,7 +144950,7 @@
       "last_plan": {
         "source_id": "35085271",
         "display_name": "Oldies But Goldies (Vrásky z lásky) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T16:03:24.258300+00:00"
+        "planned_at": "2026-11-11T16:03:26.727959+00:00"
       }
     },
     "33485": {
@@ -196817,5 +196823,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T16:03:24.258316+00:00"
+  "updated_at": "2026-11-11T16:03:28.126346+00:00"
 }
