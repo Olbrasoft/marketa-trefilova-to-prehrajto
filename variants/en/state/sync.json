@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:33:00.332328+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:03:05.801741+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-11T03:33:12.022081+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:03:24.748397+00:00"
         }
       ],
       "last_plan": {
@@ -27769,7 +27769,7 @@
       "last_plan": {
         "source_id": "25583722",
         "display_name": "Glass Onion: A Knives Out Mystery 1080p CZ Titulky",
-        "planned_at": "2026-11-11T03:33:19.705695+00:00"
+        "planned_at": "2026-11-11T04:03:23.241113+00:00"
       },
       "previous_target_id": "30903877",
       "prepared": {
@@ -27777,6 +27777,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-08T01:33:25.661957+00:00",
         "relay_source_id": "25583722"
+      },
+      "claim": {
+        "worker_id": "b0be02972e6b4c82beb092abee06de6a-shard-0",
+        "claimed_at": "2026-11-11T04:03:23.439794+00:00",
+        "lease_expires_at": "2026-11-11T10:03:23.439794+00:00",
+        "run_id": "42938376778"
       }
     },
     "23038": {
@@ -96361,5 +96367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:03:20.937710+00:00"
+  "updated_at": "2026-11-11T04:03:24.748412+00:00"
 }
