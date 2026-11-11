@@ -144857,17 +144857,19 @@
       "attempts": []
     },
     "29624": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27526797",
+          "target_video_id": "30991472",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:55:47.305578+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27526797",
         "display_name": "Riot (2018) 1080p CZ Dabing",
         "planned_at": "2026-11-11T15:35:28.105905+00:00"
-      },
-      "claim": {
-        "worker_id": "03ab3d4ebd634d3ebb9574c83781ba04-shard-0",
-        "claimed_at": "2026-11-11T15:35:28.921872+00:00",
-        "lease_expires_at": "2026-11-11T21:35:28.921872+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30991472",
       "prepared": {
@@ -196788,5 +196790,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:55:45.764175+00:00"
+  "updated_at": "2026-11-11T15:55:47.305598+00:00"
 }
