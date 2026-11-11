@@ -633,3 +633,4 @@ Attach subtitles only after target processing has finished.
 | Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky | 30988745 | https://sdilej.cz/23240065/pariz-13.-obvod-les-olympiades-1080p-2021-vlozene-cz-titulky-malasorte.mkv | Extract Czech track from exact source after processing |
 | Journey to the Beginning of Time (Cesta do pravěku) 1080p CZ Titulky | 30988776 | https://sdilej.cz/34670411/cesta-do-praveku-sci-fi-dobrodruzny-1955-cz.1080p.mkv | Extract Czech track from exact source after processing |
 | I Dutifully Report (Poslušně hlásím) 1080p CZ Titulky | 30989692 | https://sdilej.cz/27431239/svejk-2-poslusne-hlasim-1958-96-min-fhd-x264-2.0-cs-.mkv | Extract Czech track from exact source after processing |
+| King of Kings 720p CZ Titulky | 30989744 | https://sdilej.cz/29895942/kral-kralov.king-of-kings-1961-720p-en-cztit-historicky.mkv | Extract Czech track from exact source after processing |
