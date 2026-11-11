@@ -138070,17 +138070,19 @@
       }
     },
     "15452": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32326508",
+          "target_video_id": "30987972",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:07:33.612442+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32326508",
         "display_name": "Where Butterflies Don't Fly (Kam motýli nelétají) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:06:49.542089+00:00"
-      },
-      "claim": {
-        "worker_id": "5d20a173c7874ce4907dcda5c3dee669-shard-0",
-        "claimed_at": "2026-11-11T07:06:51.536299+00:00",
-        "lease_expires_at": "2026-11-11T13:06:51.536299+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987972",
       "prepared": {
@@ -190898,5 +190900,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:07:31.660784+00:00"
+  "updated_at": "2026-11-11T07:07:33.612461+00:00"
 }
