@@ -118311,6 +118311,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T17:59:26.292681+00:00",
         "relay_source_id": "30058384"
+      },
+      "claim": {
+        "worker_id": "b5e75cf4a37a4ef0805811ff86aadf51-shard-0",
+        "claimed_at": "2026-11-11T12:20:42.838197+00:00",
+        "lease_expires_at": "2026-11-11T18:20:42.838197+00:00",
+        "run_id": "43011363893"
       }
     },
     "2945": {
@@ -119717,13 +119723,6 @@
           "source_id": "34284124",
           "target_video_id": "30984998",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:12:13.947206+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34284124",
-          "target_video_id": "30984998",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:09:50.082278+00:00"
         },
         {
@@ -119732,6 +119731,13 @@
           "target_video_id": "30984998",
           "permanent": false,
           "attempted_at": "2026-11-11T09:12:44.218092+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34284124",
+          "target_video_id": "30984998",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:20:43.333320+00:00"
         }
       ],
       "last_plan": {
@@ -119745,12 +119751,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:29:28.927703+00:00",
         "relay_source_id": "34284124"
-      },
-      "claim": {
-        "worker_id": "10cd5e1d3a764c49a5c71ffddea35249-shard-0",
-        "claimed_at": "2026-11-11T12:20:40.463764+00:00",
-        "lease_expires_at": "2026-11-11T18:20:40.463764+00:00",
-        "run_id": "43011363893"
       }
     },
     "20379": {
@@ -135543,7 +135543,7 @@
       "last_plan": {
         "source_id": "34953076",
         "display_name": "Murder in Rochefort-sur-Mer (Les Mystères de l'école de gendarmerie) SD CZ Dabing",
-        "planned_at": "2026-11-11T09:12:52.728377+00:00"
+        "planned_at": "2026-11-11T12:20:43.071301+00:00"
       },
       "previous_target_id": "30987635",
       "prepared": {
@@ -143182,7 +143182,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:20:41.036257+00:00"
+        "planned_at": "2026-11-11T12:20:43.716199+00:00"
       }
     },
     "20941": {
@@ -195320,5 +195320,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:20:41.036271+00:00"
+  "updated_at": "2026-11-11T12:20:43.716214+00:00"
 }
