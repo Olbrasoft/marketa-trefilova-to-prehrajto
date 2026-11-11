@@ -134944,13 +134944,6 @@
           "source_id": "24480171",
           "target_video_id": "30987584",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:54:18.641600+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24480171",
-          "target_video_id": "30987584",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:50:39.198121+00:00"
         },
         {
@@ -134959,6 +134952,13 @@
           "target_video_id": "30987584",
           "permanent": false,
           "attempted_at": "2026-11-11T08:51:04.040802+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24480171",
+          "target_video_id": "30987584",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:06:30.165297+00:00"
         }
       ],
       "last_plan": {
@@ -142907,7 +142907,7 @@
       "last_plan": {
         "source_id": "34756340",
         "display_name": "Murder in Charente (Les Mystères de la duchesse) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:06:26.571143+00:00"
+        "planned_at": "2026-11-11T10:06:29.184984+00:00"
       }
     },
     "5048": {
@@ -195035,7 +195035,7 @@
       "last_plan": {
         "source_id": "22159844",
         "display_name": "Apocalypse Now Redux (Apocalypse Now) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:51:03.440611+00:00"
+        "planned_at": "2026-11-11T10:06:28.854907+00:00"
       },
       "previous_target_id": "30984960",
       "prepared": {
@@ -195043,9 +195043,15 @@
         "size_bytes": 14900000000,
         "prepared_at": "2026-11-10T18:20:07.517848+00:00",
         "relay_source_id": "22159844"
+      },
+      "claim": {
+        "worker_id": "5900c78d28994b628004c9e3366d5635-shard-0",
+        "claimed_at": "2026-11-11T10:06:29.568245+00:00",
+        "lease_expires_at": "2026-11-11T16:06:29.568245+00:00",
+        "run_id": "42965310158"
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:06:26.571163+00:00"
+  "updated_at": "2026-11-11T10:06:30.165315+00:00"
 }
