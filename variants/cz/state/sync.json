@@ -142178,17 +142178,19 @@
       "attempts": []
     },
     "3645": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24531973",
+          "target_video_id": "30988677",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:24:09.624248+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24531973",
         "display_name": "Tajemství staré bambitky 1080p CZ Dabing",
         "planned_at": "2026-11-11T09:16:28.373462+00:00"
-      },
-      "claim": {
-        "worker_id": "ff62e901088a43ec8f07c2eaa59a3aa6-shard-0",
-        "claimed_at": "2026-11-11T09:16:30.506997+00:00",
-        "lease_expires_at": "2026-11-11T15:16:30.506997+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988677",
       "prepared": {
@@ -194446,5 +194448,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:24:07.971526+00:00"
+  "updated_at": "2026-11-11T09:24:09.624263+00:00"
 }
