@@ -21654,13 +21654,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:47:43.508250+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:28:14.996751+00:00"
         },
         {
@@ -21669,6 +21662,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-11T02:10:52.959391+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:47:53.150483+00:00"
         }
       ],
       "last_plan": {
@@ -21682,12 +21682,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
-      },
-      "claim": {
-        "worker_id": "ceaddd1dfae34d08bb19ae76c4996bce-shard-0",
-        "claimed_at": "2026-11-11T02:47:50.882091+00:00",
-        "lease_expires_at": "2026-11-11T08:47:50.882091+00:00",
-        "run_id": "42938376778"
       }
     },
     "677": {
@@ -125724,7 +125718,7 @@
       "last_plan": {
         "source_id": "6506542",
         "display_name": "Play Dirty (1969) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:10:51.156751+00:00"
+        "planned_at": "2026-11-11T02:47:52.519228+00:00"
       },
       "previous_target_id": "30986163",
       "prepared": {
@@ -125732,6 +125726,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T23:29:14.025433+00:00",
         "relay_source_id": "6506542"
+      },
+      "claim": {
+        "worker_id": "0cb96c2518f64ed78dd28852fca5cf46-shard-0",
+        "claimed_at": "2026-11-11T02:47:52.999129+00:00",
+        "lease_expires_at": "2026-11-11T08:47:52.999129+00:00",
+        "run_id": "42938376778"
       }
     },
     "17171": {
@@ -129686,7 +129686,7 @@
       "last_plan": {
         "source_id": "34450608",
         "display_name": "Fairy Tales for Emma (Pohádky pro Emu) SD CZ Dabing",
-        "planned_at": "2026-11-11T02:47:50.635568+00:00"
+        "planned_at": "2026-11-11T02:47:52.728212+00:00"
       }
     },
     "32726": {
@@ -183752,5 +183752,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:47:51.052411+00:00"
+  "updated_at": "2026-11-11T02:47:53.150495+00:00"
 }
