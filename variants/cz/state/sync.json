@@ -121813,13 +121813,6 @@
           "source_id": "30394887",
           "target_video_id": "30985435",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:33:18.623701+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30394887",
-          "target_video_id": "30985435",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:05:10.456973+00:00"
         },
         {
@@ -121828,12 +121821,19 @@
           "target_video_id": "30985435",
           "permanent": false,
           "attempted_at": "2026-11-11T19:20:35.586838+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30394887",
+          "target_video_id": "30985435",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:31:23.915703+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30394887",
         "display_name": "With Honors 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:20:33.676384+00:00"
+        "planned_at": "2026-11-11T20:31:21.445874+00:00"
       },
       "previous_target_id": "30985435",
       "prepared": {
@@ -136416,6 +136416,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T05:52:17.271606+00:00",
         "relay_source_id": "32941007"
+      },
+      "claim": {
+        "worker_id": "4418022658314b48993d8d7844907c7b-shard-0",
+        "claimed_at": "2026-11-11T20:31:21.279471+00:00",
+        "lease_expires_at": "2026-11-12T02:31:21.279471+00:00",
+        "run_id": "43067513109"
       }
     },
     "30381": {
@@ -145788,7 +145794,7 @@
       "last_plan": {
         "source_id": "29399864",
         "display_name": "Murder in Biot (Crimes à Biot) SD CZ Dabing",
-        "planned_at": "2026-11-11T20:31:19.561222+00:00"
+        "planned_at": "2026-11-11T20:31:21.651570+00:00"
       }
     },
     "16132": {
@@ -197499,5 +197505,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:31:19.561238+00:00"
+  "updated_at": "2026-11-11T20:31:23.915716+00:00"
 }
