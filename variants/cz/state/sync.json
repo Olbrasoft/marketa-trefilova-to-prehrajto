@@ -132113,13 +132113,6 @@
           "source_id": "17465562",
           "target_video_id": "30987160",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:26:35.094644+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17465562",
-          "target_video_id": "30987160",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:07:53.692059+00:00"
         },
         {
@@ -132128,6 +132121,13 @@
           "target_video_id": "30987160",
           "permanent": false,
           "attempted_at": "2026-11-11T05:48:35.444255+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17465562",
+          "target_video_id": "30987160",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:39:35.384245+00:00"
         }
       ],
       "last_plan": {
@@ -135812,7 +135812,7 @@
       "last_plan": {
         "source_id": "19686604",
         "display_name": "Volným pádem 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:47:55.351612+00:00"
+        "planned_at": "2026-11-11T06:39:33.614528+00:00"
       },
       "previous_target_id": "30987716",
       "prepared": {
@@ -135820,6 +135820,12 @@
         "size_bytes": 1883153079,
         "prepared_at": "2026-11-11T05:48:01.035162+00:00",
         "relay_source_id": "19686604"
+      },
+      "claim": {
+        "worker_id": "6ec1213329b840d98e6419b4e9e96c4c-shard-0",
+        "claimed_at": "2026-11-11T06:39:34.268627+00:00",
+        "lease_expires_at": "2026-11-11T12:39:34.268627+00:00",
+        "run_id": "42965310158"
       }
     },
     "31573": {
@@ -137114,6 +137120,12 @@
         "source_id": "34715012",
         "display_name": "Prijela k nám pout (Přijela k nám pouť) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:39:31.131582+00:00"
+      },
+      "claim": {
+        "worker_id": "01a354e58d2a49049acee03c8ce93044-shard-0",
+        "claimed_at": "2026-11-11T06:39:33.412698+00:00",
+        "lease_expires_at": "2026-11-11T12:39:33.412698+00:00",
+        "run_id": "42965310158"
       }
     },
     "10736": {
@@ -137142,7 +137154,7 @@
       "last_plan": {
         "source_id": "34713935",
         "display_name": "Opera ve vinici 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:39:31.322544+00:00"
+        "planned_at": "2026-11-11T06:39:33.886909+00:00"
       }
     },
     "32221": {
@@ -190056,5 +190068,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:39:31.502572+00:00"
+  "updated_at": "2026-11-11T06:39:35.384261+00:00"
 }
