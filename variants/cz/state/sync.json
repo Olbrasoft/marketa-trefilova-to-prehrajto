@@ -136499,17 +136499,19 @@
       }
     },
     "24547": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24113515",
+          "target_video_id": "30987842",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:23:12.599242+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24113515",
         "display_name": "Vandronik (O Janovi a podivuhodném příteli) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:22:27.883854+00:00"
-      },
-      "claim": {
-        "worker_id": "83de351bd7194e96bdc31360b1ee067f-shard-0",
-        "claimed_at": "2026-11-11T06:22:30.135319+00:00",
-        "lease_expires_at": "2026-11-11T12:22:30.135319+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987842",
       "prepared": {
@@ -189555,5 +189557,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:23:11.120401+00:00"
+  "updated_at": "2026-11-11T06:23:12.599260+00:00"
 }
