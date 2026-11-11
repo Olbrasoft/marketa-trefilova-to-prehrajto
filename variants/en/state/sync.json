@@ -36487,17 +36487,19 @@
       "attempts": []
     },
     "2173": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30864866",
+          "target_video_id": "30994375",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:12:03.811548+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30864866",
         "display_name": "La cocina 1080p CZ Titulky",
         "planned_at": "2026-11-11T21:45:13.943338+00:00"
-      },
-      "claim": {
-        "worker_id": "2b2b4d78d22e49ffb8dc985389df2ba7-shard-0",
-        "claimed_at": "2026-11-11T21:45:14.320720+00:00",
-        "lease_expires_at": "2026-11-12T03:45:14.320720+00:00",
-        "run_id": "43102571398"
       },
       "previous_target_id": "30994375",
       "prepared": {
@@ -97289,5 +97291,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:11:55.171028+00:00"
+  "updated_at": "2026-11-11T22:12:03.811567+00:00"
 }
