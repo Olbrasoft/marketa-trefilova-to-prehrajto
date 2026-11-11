@@ -140699,17 +140699,19 @@
       }
     },
     "35291": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18958721",
+          "target_video_id": "30988445",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:31:03.858137+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18958721",
         "display_name": "Wie von einem anderen Stern (Rosamunde Pilcher: Wie von einem anderen Stern) 720p CZ Dabing",
         "planned_at": "2026-11-11T08:29:56.889751+00:00"
-      },
-      "claim": {
-        "worker_id": "d66f94eb8d6445d1b68279cee7679c30-shard-0",
-        "claimed_at": "2026-11-11T08:29:59.418450+00:00",
-        "lease_expires_at": "2026-11-11T14:29:59.418450+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988445",
       "prepared": {
@@ -193158,5 +193160,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:31:01.876104+00:00"
+  "updated_at": "2026-11-11T08:31:03.858154+00:00"
 }
