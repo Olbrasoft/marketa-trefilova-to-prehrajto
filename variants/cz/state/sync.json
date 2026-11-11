@@ -86253,13 +86253,6 @@
           "source_id": "32700785",
           "target_video_id": "30923122",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:58:56.996514+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32700785",
-          "target_video_id": "30923122",
-          "permanent": false,
           "attempted_at": "2026-11-11T10:15:55.239666+00:00"
         },
         {
@@ -86268,6 +86261,13 @@
           "target_video_id": "30923122",
           "permanent": false,
           "attempted_at": "2026-11-11T13:20:53.449698+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32700785",
+          "target_video_id": "30923122",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:36:46.411585+00:00"
         }
       ],
       "last_plan": {
@@ -128307,7 +128307,7 @@
       "last_plan": {
         "source_id": "11824371",
         "display_name": "1000 to 1: The Cory Weissman Story (1000 to 1) SD CZ Dabing",
-        "planned_at": "2026-11-11T13:20:53.139856+00:00"
+        "planned_at": "2026-11-11T14:36:45.172500+00:00"
       },
       "previous_target_id": "30986706",
       "prepared": {
@@ -128315,6 +128315,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T01:39:31.771576+00:00",
         "relay_source_id": "11824371"
+      },
+      "claim": {
+        "worker_id": "f5b9d339b84a45f8b47d23216dde4668-shard-0",
+        "claimed_at": "2026-11-11T14:36:46.128084+00:00",
+        "lease_expires_at": "2026-11-11T20:36:46.128084+00:00",
+        "run_id": "43011363893"
       }
     },
     "17172": {
@@ -144661,7 +144667,7 @@
       "last_plan": {
         "source_id": "32944112",
         "display_name": "The Damned (Zatracení) (2002) 4K CZ Dabing",
-        "planned_at": "2026-11-11T14:36:43.053057+00:00"
+        "planned_at": "2026-11-11T14:36:45.527423+00:00"
       }
     },
     "4524": {
@@ -196579,5 +196585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:36:43.053083+00:00"
+  "updated_at": "2026-11-11T14:36:46.411600+00:00"
 }
