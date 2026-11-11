@@ -110311,6 +110311,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:45:08.279822+00:00",
         "relay_source_id": "35095604"
+      },
+      "claim": {
+        "worker_id": "d83d4dbfd0834249aa2ece9d569202d6-shard-0",
+        "claimed_at": "2026-11-11T13:24:37.219231+00:00",
+        "lease_expires_at": "2026-11-11T19:24:37.219231+00:00",
+        "run_id": "43011363893"
       }
     },
     "2154": {
@@ -142872,7 +142878,7 @@
       "last_plan": {
         "source_id": "30256707",
         "display_name": "Tři chlapi v chalupě SD CZ Dabing",
-        "planned_at": "2026-11-11T12:12:08.671724+00:00"
+        "planned_at": "2026-11-11T13:24:37.476920+00:00"
       },
       "previous_target_id": "30988639",
       "prepared": {
@@ -144020,17 +144026,19 @@
       }
     },
     "34798": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34779338",
+          "target_video_id": "30990338",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:24:38.221742+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34779338",
         "display_name": "Zeny, které nenávidí muze (Ženy, které nenávidí muže) 1080p CZ Dabing",
         "planned_at": "2026-11-11T13:21:58.512074+00:00"
-      },
-      "claim": {
-        "worker_id": "96cef75106144ae5b767d3c88d2ca917-shard-0",
-        "claimed_at": "2026-11-11T13:21:59.459315+00:00",
-        "lease_expires_at": "2026-11-11T19:21:59.459315+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990338",
       "prepared": {
@@ -144051,7 +144059,7 @@
       "last_plan": {
         "source_id": "31629620",
         "display_name": "Monstrum (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:24:35.063239+00:00"
+        "planned_at": "2026-11-11T13:24:37.902737+00:00"
       }
     },
     "28575": {
@@ -196080,5 +196088,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:24:35.063256+00:00"
+  "updated_at": "2026-11-11T13:24:38.221764+00:00"
 }
