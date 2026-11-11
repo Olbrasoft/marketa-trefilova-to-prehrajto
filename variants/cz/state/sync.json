@@ -137613,17 +137613,19 @@
       }
     },
     "4416": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32433843",
+          "target_video_id": "30987933",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:54:08.435258+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32433843",
         "display_name": "One Way Ticket (Piko) SD CZ Dabing",
         "planned_at": "2026-11-11T06:53:20.205192+00:00"
-      },
-      "claim": {
-        "worker_id": "94c1e07e85904c1fbecfe553a762a728-shard-0",
-        "claimed_at": "2026-11-11T06:53:22.788918+00:00",
-        "lease_expires_at": "2026-11-11T12:53:22.788918+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987933",
       "prepared": {
@@ -190492,5 +190494,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:54:06.574169+00:00"
+  "updated_at": "2026-11-11T06:54:08.435277+00:00"
 }
