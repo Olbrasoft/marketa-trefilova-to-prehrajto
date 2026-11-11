@@ -92879,13 +92879,6 @@
           "source_id": "34296350",
           "target_video_id": "30942671",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:23:49.503504+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34296350",
-          "target_video_id": "30942671",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:41:17.392185+00:00"
         },
         {
@@ -92894,6 +92887,13 @@
           "target_video_id": "30942671",
           "permanent": false,
           "attempted_at": "2026-11-11T20:51:24.245027+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34296350",
+          "target_video_id": "30942671",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:26:14.176422+00:00"
         }
       ],
       "last_plan": {
@@ -120996,7 +120996,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:51:27.339139+00:00"
+        "planned_at": "2026-11-11T22:26:12.156972+00:00"
       },
       "previous_target_id": "30985082",
       "prepared": {
@@ -121004,6 +121004,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T18:53:09.599430+00:00",
         "relay_source_id": "35117462"
+      },
+      "claim": {
+        "worker_id": "a9f88048737c45e7894fa27feff2dd75-shard-0",
+        "claimed_at": "2026-11-11T22:26:12.870594+00:00",
+        "lease_expires_at": "2026-11-12T04:26:12.870594+00:00",
+        "run_id": "43102571398"
       }
     },
     "3085": {
@@ -146099,7 +146105,7 @@
       "last_plan": {
         "source_id": "31765437",
         "display_name": "Love from the Arcade (Láska z pasáže) 4K CZ Dabing",
-        "planned_at": "2026-11-11T22:26:09.842758+00:00"
+        "planned_at": "2026-11-11T22:26:12.480055+00:00"
       }
     },
     "21247": {
@@ -197765,5 +197771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:26:10.099813+00:00"
+  "updated_at": "2026-11-11T22:26:14.176441+00:00"
 }
