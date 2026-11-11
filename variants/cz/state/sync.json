@@ -109414,13 +109414,6 @@
           "source_id": "34451234",
           "target_video_id": "30983688",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:03:22.557360+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34451234",
-          "target_video_id": "30983688",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:43:50.671881+00:00"
         },
         {
@@ -109429,6 +109422,13 @@
           "target_video_id": "30983688",
           "permanent": false,
           "attempted_at": "2026-11-10T23:26:13.298634+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34451234",
+          "target_video_id": "30983688",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:04:50.078311+00:00"
         }
       ],
       "last_plan": {
@@ -109442,12 +109442,6 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T14:34:44.908021+00:00",
         "relay_source_id": "34451234"
-      },
-      "claim": {
-        "worker_id": "349ef2089c6d4da2bc20f9d035809a46-shard-0",
-        "claimed_at": "2026-11-11T00:04:46.804585+00:00",
-        "lease_expires_at": "2026-11-11T06:04:46.804585+00:00",
-        "run_id": "42904278669"
       }
     },
     "32961": {
@@ -114670,7 +114664,7 @@
       "last_plan": {
         "source_id": "28364272",
         "display_name": "Four Brothers 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:26:15.171343+00:00"
+        "planned_at": "2026-11-11T00:04:49.330781+00:00"
       },
       "previous_target_id": "30984516",
       "prepared": {
@@ -114678,6 +114672,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T16:39:29.375095+00:00",
         "relay_source_id": "28364272"
+      },
+      "claim": {
+        "worker_id": "4105e71f03a045eaa1dc37f7ca242645-shard-0",
+        "claimed_at": "2026-11-11T00:04:50.274684+00:00",
+        "lease_expires_at": "2026-11-11T06:04:50.274684+00:00",
+        "run_id": "42904278669"
       }
     },
     "3032": {
@@ -126253,7 +126253,7 @@
       "last_plan": {
         "source_id": "28540263",
         "display_name": "Triumph of the Spirit 720p CZ Dabing",
-        "planned_at": "2026-11-11T00:04:46.361452+00:00"
+        "planned_at": "2026-11-11T00:04:49.642894+00:00"
       }
     },
     "32900": {
@@ -180943,5 +180943,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:04:47.603822+00:00"
+  "updated_at": "2026-11-11T00:04:50.274709+00:00"
 }
