@@ -28957,7 +28957,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:11:07.458106+00:00"
+        "planned_at": "2026-11-11T02:48:02.165999+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28965,6 +28965,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "aa05476e504f4cc9ae3da54ae0ff3bd6-shard-0",
+        "claimed_at": "2026-11-11T02:48:02.632841+00:00",
+        "lease_expires_at": "2026-11-11T08:48:02.632841+00:00",
+        "run_id": "42938376778"
       }
     },
     "23584": {
@@ -119042,13 +119048,6 @@
           "source_id": "33745553",
           "target_video_id": "30984953",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:48:03.366213+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33745553",
-          "target_video_id": "30984953",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:28:38.314951+00:00"
         },
         {
@@ -119057,6 +119056,13 @@
           "target_video_id": "30984953",
           "permanent": false,
           "attempted_at": "2026-11-11T02:11:09.016247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745553",
+          "target_video_id": "30984953",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:48:02.815529+00:00"
         }
       ],
       "last_plan": {
@@ -119070,12 +119076,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T18:17:32.822519+00:00",
         "relay_source_id": "33745553"
-      },
-      "claim": {
-        "worker_id": "47f1faa0aab94c27a70afb558ea7dfaf-shard-0",
-        "claimed_at": "2026-11-11T02:47:59.238122+00:00",
-        "lease_expires_at": "2026-11-11T08:47:59.238122+00:00",
-        "run_id": "42938376778"
       }
     },
     "2987": {
@@ -129686,7 +129686,7 @@
       "last_plan": {
         "source_id": "34450608",
         "display_name": "Fairy Tales for Emma (Pohádky pro Emu) SD CZ Dabing",
-        "planned_at": "2026-11-11T02:47:58.984880+00:00"
+        "planned_at": "2026-11-11T02:48:02.377953+00:00"
       }
     },
     "32726": {
@@ -183752,5 +183752,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:47:59.405392+00:00"
+  "updated_at": "2026-11-11T02:48:02.815547+00:00"
 }
