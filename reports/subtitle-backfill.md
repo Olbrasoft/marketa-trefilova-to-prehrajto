@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T01:32:23.584469+00:00
+Poslední aktualizace (UTC): 2026-11-11T01:32:25.158006+00:00
 
 Zkontrolováno videí: 618. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 45, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 46, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -97,6 +97,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 54. Důvod
 | [Rose Island (L'incredibile storia dell'Isola delle Rose) 1080p CZ Titulky](https://prehraj.to/rose-island-l-incredibile-storia-dell-isola-delle-rose-1080p-cz-titulky-mkv/1a02e2a380215670) (ID 30985967) | [Sdílej 14916136](https://sdilej.cz/14916136/rose.island.2020.1080p.nf.web-dl.dd5.1.x264.en.ita.cz.tit.mkv) | target_unavailable | 2026-11-10T22:51:54.138806+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-10T09:40:19.689760+00:00 |
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-10T09:50:09.047853+00:00 |
+| [Sanctuary (Freistatt) 720p CZ Titulky](https://prehraj.to/sanctuary-freistatt-720p-cz-titulky-mkv/23e2e67faa47d345) (ID 30986677) | [Sdílej 6556256](https://sdilej.cz/6556256/freistatt-sanctuary-2015-.720p.brrip.xvid.ac3.2.0-ceske-titulky.mkv) | target_unavailable | 2026-11-11T01:32:25.152784+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-10T09:40:52.480829+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-10T09:41:08.832188+00:00 |
 | [Starman 1080p CZ Titulky](https://prehraj.to/starman-1080p-cz-titulky-mkv/1f1cd56378c20300) (ID 30978323) | [Sdílej 34237075](https://sdilej.cz/34237075/starman-1984-1080p-bluray-multi-10bit-av1-majo.mkv) | target_unavailable | 2026-11-10T11:52:10.703369+00:00 |
