@@ -136004,7 +136004,7 @@
       "last_plan": {
         "source_id": "26541445",
         "display_name": "Hledá se táta (Hledá se táta!) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:26:52.801111+00:00"
+        "planned_at": "2026-11-11T08:25:20.704790+00:00"
       },
       "previous_target_id": "30987698",
       "prepared": {
@@ -136012,6 +136012,12 @@
         "size_bytes": 839700000,
         "prepared_at": "2026-11-11T05:43:04.003267+00:00",
         "relay_source_id": "26541445"
+      },
+      "claim": {
+        "worker_id": "bc1c975510bb4ac19d4b5bcbee106a2b-shard-0",
+        "claimed_at": "2026-11-11T08:25:21.316186+00:00",
+        "lease_expires_at": "2026-11-11T14:25:21.316186+00:00",
+        "run_id": "42965310158"
       }
     },
     "17193": {
@@ -140508,17 +140514,19 @@
       }
     },
     "12958": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34327399",
+          "target_video_id": "30988418",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:25:22.932971+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34327399",
         "display_name": "The Peacock Feather (Pávie pierko) SD CZ Dabing",
         "planned_at": "2026-11-11T08:23:35.140894+00:00"
-      },
-      "claim": {
-        "worker_id": "1cfac89962e94f038a86d5b27cbd3372-shard-0",
-        "claimed_at": "2026-11-11T08:23:37.432418+00:00",
-        "lease_expires_at": "2026-11-11T14:23:37.432418+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988418",
       "prepared": {
@@ -140569,7 +140577,7 @@
       "last_plan": {
         "source_id": "28380593",
         "display_name": "A Sensitive Person (Citlivý člověk) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:25:15.305967+00:00"
+        "planned_at": "2026-11-11T08:25:20.977841+00:00"
       }
     },
     "17630": {
@@ -193012,5 +193020,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:25:17.683246+00:00"
+  "updated_at": "2026-11-11T08:25:22.932989+00:00"
 }
