@@ -127303,7 +127303,7 @@
       "last_plan": {
         "source_id": "34871053",
         "display_name": "The Dawns Here Are Quiet (А зори здесь тихие...) (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:53:12.630415+00:00"
+        "planned_at": "2026-11-11T07:49:22.198820+00:00"
       },
       "previous_target_id": "30986549",
       "prepared": {
@@ -130342,6 +130342,12 @@
         "size_bytes": 725600000,
         "prepared_at": "2026-11-11T02:49:45.024087+00:00",
         "relay_source_id": "34451524"
+      },
+      "claim": {
+        "worker_id": "b227d736cc2f4c479649595410d1bf31-shard-0",
+        "claimed_at": "2026-11-11T07:49:21.986431+00:00",
+        "lease_expires_at": "2026-11-11T13:49:21.986431+00:00",
+        "run_id": "42965310158"
       }
     },
     "11806": {
@@ -139490,17 +139496,19 @@
       }
     },
     "28296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34710797",
+          "target_video_id": "30988191",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:49:22.399482+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710797",
         "display_name": "Pohádka o splněných přáních 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:48:35.161470+00:00"
-      },
-      "claim": {
-        "worker_id": "1811b27ad7064898b75946305c0f1c8c-shard-0",
-        "claimed_at": "2026-11-11T07:48:37.413742+00:00",
-        "lease_expires_at": "2026-11-11T13:48:37.413742+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988191",
       "prepared": {
@@ -192129,5 +192137,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:49:20.144559+00:00"
+  "updated_at": "2026-11-11T07:49:22.399502+00:00"
 }
