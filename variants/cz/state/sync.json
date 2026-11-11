@@ -126356,13 +126356,6 @@
           "source_id": "28764555",
           "target_video_id": "30986277",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:17:31.555704+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28764555",
-          "target_video_id": "30986277",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:57:34.281507+00:00"
         },
         {
@@ -126371,12 +126364,19 @@
           "target_video_id": "30986277",
           "permanent": false,
           "attempted_at": "2026-11-11T05:38:34.905999+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28764555",
+          "target_video_id": "30986277",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:25:18.419500+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28764555",
         "display_name": "The Quick and the Dead (1987) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:38:32.186131+00:00"
+        "planned_at": "2026-11-11T06:25:15.613820+00:00"
       },
       "previous_target_id": "30986277",
       "prepared": {
@@ -136603,7 +136603,13 @@
       "last_plan": {
         "source_id": "6227935",
         "display_name": "A Vote for the King of the Romans (Hlas pro rímského krále) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:25:10.394063+00:00"
+        "planned_at": "2026-11-11T06:25:15.876033+00:00"
+      },
+      "claim": {
+        "worker_id": "efd2e53a167c4014a981ef7e800124e7-shard-0",
+        "claimed_at": "2026-11-11T06:25:16.688587+00:00",
+        "lease_expires_at": "2026-11-11T12:25:16.688587+00:00",
+        "run_id": "42965310158"
       }
     },
     "36794": {
@@ -136611,11 +136617,22 @@
       "last_plan": {
         "source_id": "27786413",
         "display_name": "The Little Pet (Mazlíček) SD CZ Dabing",
-        "planned_at": "2026-11-11T06:25:07.695904+00:00"
+        "planned_at": "2026-11-11T06:25:16.040042+00:00"
+      },
+      "claim": {
+        "worker_id": "532642fe03f14e759b5421cbfd6c2276-shard-0",
+        "claimed_at": "2026-11-11T06:25:16.858399+00:00",
+        "lease_expires_at": "2026-11-11T12:25:16.858399+00:00",
+        "run_id": "42965310158"
       }
     },
     "12528": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34883563",
+        "display_name": "Vinobraní 1080p CZ Dabing",
+        "planned_at": "2026-11-11T06:25:16.207839+00:00"
+      }
     },
     "22315": {
       "attempts": []
@@ -189630,5 +189647,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:25:13.677007+00:00"
+  "updated_at": "2026-11-11T06:25:18.419517+00:00"
 }
