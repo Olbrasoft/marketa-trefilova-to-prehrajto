@@ -90428,13 +90428,6 @@
           "source_id": "17098335",
           "target_video_id": "30926375",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:39:03.261891+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17098335",
-          "target_video_id": "30926375",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:16:45.651736+00:00"
         },
         {
@@ -90443,6 +90436,13 @@
           "target_video_id": "30926375",
           "permanent": false,
           "attempted_at": "2026-11-11T00:54:27.516056+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17098335",
+          "target_video_id": "30926375",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:38:35.385377+00:00"
         }
       ],
       "last_plan": {
@@ -117674,7 +117674,7 @@
       "last_plan": {
         "source_id": "20970259",
         "display_name": "Stonehearst Asylum 4K CZ Dabing",
-        "planned_at": "2026-11-11T00:54:27.747581+00:00"
+        "planned_at": "2026-11-11T01:38:33.953589+00:00"
       },
       "previous_target_id": "30984849",
       "prepared": {
@@ -117682,6 +117682,12 @@
         "size_bytes": 14800000000,
         "prepared_at": "2026-11-10T17:50:28.248425+00:00",
         "relay_source_id": "20970259"
+      },
+      "claim": {
+        "worker_id": "8ed7ea51eae246fb845dded9b47d2652-shard-0",
+        "claimed_at": "2026-11-11T01:38:34.960877+00:00",
+        "lease_expires_at": "2026-11-11T07:38:34.960877+00:00",
+        "run_id": "42904278669"
       }
     },
     "3050": {
@@ -127847,14 +127853,25 @@
       "last_plan": {
         "source_id": "28566197",
         "display_name": "Men Up 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:38:31.469760+00:00"
+        "planned_at": "2026-11-11T01:38:34.270038+00:00"
+      },
+      "claim": {
+        "worker_id": "5b1c1b9b821c46ecae35707ebe7988ea-shard-0",
+        "claimed_at": "2026-11-11T01:38:35.142739+00:00",
+        "lease_expires_at": "2026-11-11T07:38:35.142739+00:00",
+        "run_id": "42904278669"
       }
     },
     "35280": {
       "attempts": []
     },
     "15773": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11824371",
+        "display_name": "1000 to 1: The Cory Weissman Story (1000 to 1) SD CZ Dabing",
+        "planned_at": "2026-11-11T01:38:34.500117+00:00"
+      }
     },
     "17172": {
       "attempts": []
@@ -182210,5 +182227,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:38:31.469779+00:00"
+  "updated_at": "2026-11-11T01:38:35.385402+00:00"
 }
