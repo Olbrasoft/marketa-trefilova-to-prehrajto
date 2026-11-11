@@ -119364,13 +119364,6 @@
           "source_id": "21276911",
           "target_video_id": "30984970",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:29:40.695391+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21276911",
-          "target_video_id": "30984970",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:43:11.814564+00:00"
         },
         {
@@ -119379,6 +119372,13 @@
           "target_video_id": "30984970",
           "permanent": false,
           "attempted_at": "2026-11-11T20:53:32.003389+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21276911",
+          "target_video_id": "30984970",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:28:04.086771+00:00"
         }
       ],
       "last_plan": {
@@ -135289,7 +135289,7 @@
       "last_plan": {
         "source_id": "34515639",
         "display_name": "Runaway (Útěk) (2025) 4K CZ Dabing",
-        "planned_at": "2026-11-11T20:53:35.029009+00:00"
+        "planned_at": "2026-11-11T22:28:02.228784+00:00"
       },
       "previous_target_id": "30987605",
       "prepared": {
@@ -135297,6 +135297,12 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-11-11T05:23:51.134886+00:00",
         "relay_source_id": "34515639"
+      },
+      "claim": {
+        "worker_id": "54973fe4aace4c4189fa3f18ed35ad34-shard-0",
+        "claimed_at": "2026-11-11T22:28:03.675854+00:00",
+        "lease_expires_at": "2026-11-12T04:28:03.675854+00:00",
+        "run_id": "43102571398"
       }
     },
     "25125": {
@@ -146102,6 +146108,12 @@
         "source_id": "31765437",
         "display_name": "Love from the Arcade (Láska z pasáže) 4K CZ Dabing",
         "planned_at": "2026-11-11T22:27:59.189079+00:00"
+      },
+      "claim": {
+        "worker_id": "f6403233c06f474cbc4c76685094c25d-shard-0",
+        "claimed_at": "2026-11-11T22:28:01.765132+00:00",
+        "lease_expires_at": "2026-11-12T04:28:01.765132+00:00",
+        "run_id": "43102571398"
       }
     },
     "21247": {
@@ -146112,7 +146124,7 @@
       "last_plan": {
         "source_id": "31572130",
         "display_name": "Three Men Travelling 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:27:59.541489+00:00"
+        "planned_at": "2026-11-11T22:28:02.833345+00:00"
       }
     },
     "22435": {
@@ -197772,5 +197784,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:27:59.541506+00:00"
+  "updated_at": "2026-11-11T22:28:04.086794+00:00"
 }
