@@ -127853,6 +127853,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T01:18:21.449007+00:00",
         "relay_source_id": "32454208"
+      },
+      "claim": {
+        "worker_id": "4e92d8ab23fc4b6fb27cf7ce3cf0a742-shard-0",
+        "claimed_at": "2026-11-11T08:29:26.226231+00:00",
+        "lease_expires_at": "2026-11-11T14:29:26.226231+00:00",
+        "run_id": "42965310158"
       }
     },
     "22342": {
@@ -133318,13 +133324,6 @@
           "source_id": "35084675",
           "target_video_id": "30987349",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:46:18.142193+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35084675",
-          "target_video_id": "30987349",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:36:30.127844+00:00"
         },
         {
@@ -133333,6 +133332,13 @@
           "target_video_id": "30987349",
           "permanent": false,
           "attempted_at": "2026-11-11T07:30:54.773370+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35084675",
+          "target_video_id": "30987349",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:29:26.970668+00:00"
         }
       ],
       "last_plan": {
@@ -133346,12 +133352,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T04:22:07.065096+00:00",
         "relay_source_id": "35084675"
-      },
-      "claim": {
-        "worker_id": "7373eeccf76240ac85cd327e72f4c0a8-shard-0",
-        "claimed_at": "2026-11-11T08:29:23.851725+00:00",
-        "lease_expires_at": "2026-11-11T14:29:23.851725+00:00",
-        "run_id": "42965310158"
       }
     },
     "15217": {
@@ -139517,7 +139517,7 @@
       "last_plan": {
         "source_id": "34519530",
         "display_name": "Hrdinný kapitán Korkorán (Hrdinný kapitán Korkoran) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:30:12.517858+00:00"
+        "planned_at": "2026-11-11T08:29:26.435589+00:00"
       },
       "previous_target_id": "30988097",
       "prepared": {
@@ -140688,7 +140688,7 @@
       "last_plan": {
         "source_id": "18958721",
         "display_name": "Wie von einem anderen Stern (Rosamunde Pilcher: Wie von einem anderen Stern) 720p CZ Dabing",
-        "planned_at": "2026-11-11T08:29:24.336694+00:00"
+        "planned_at": "2026-11-11T08:29:26.713178+00:00"
       }
     },
     "3271": {
@@ -193125,5 +193125,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:29:24.336712+00:00"
+  "updated_at": "2026-11-11T08:29:26.970690+00:00"
 }
