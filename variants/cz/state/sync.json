@@ -66892,7 +66892,7 @@
       "last_plan": {
         "source_id": "25671141",
         "display_name": "The Blind Man Who Did Not Want to See Titanic (Sokea mies joka ei halunnut nähdä Titanicia) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:49:39.529249+00:00"
+        "planned_at": "2026-11-11T03:22:18.864587+00:00"
       },
       "previous_target_id": "30833110",
       "prepared": {
@@ -66900,6 +66900,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-05T21:37:33.645650+00:00",
         "relay_source_id": "25671141"
+      },
+      "claim": {
+        "worker_id": "e4b46d07863f4789bb35f1f4051bcf41-shard-0",
+        "claimed_at": "2026-11-11T03:22:19.471567+00:00",
+        "lease_expires_at": "2026-11-11T09:22:19.471567+00:00",
+        "run_id": "42938376778"
       }
     },
     "1933": {
@@ -130598,17 +130604,19 @@
       "attempts": []
     },
     "2776": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32647219",
+          "target_video_id": "30987015",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:22:19.764066+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32647219",
         "display_name": "Mama (Máma) (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:19:12.279726+00:00"
-      },
-      "claim": {
-        "worker_id": "30c7a9e428a44175b334c094f9109614-shard-0",
-        "claimed_at": "2026-11-11T03:19:12.797448+00:00",
-        "lease_expires_at": "2026-11-11T09:19:12.797448+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987015",
       "prepared": {
@@ -130623,14 +130631,25 @@
       "last_plan": {
         "source_id": "24028358",
         "display_name": "Vanilla Flavour (Vůně vanilky) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:22:15.495718+00:00"
+        "planned_at": "2026-11-11T03:22:19.070827+00:00"
+      },
+      "claim": {
+        "worker_id": "7be2b3d7ed0d486cb2ab00fa5414a3ff-shard-0",
+        "claimed_at": "2026-11-11T03:22:19.635292+00:00",
+        "lease_expires_at": "2026-11-11T09:22:19.635292+00:00",
+        "run_id": "42938376778"
       }
     },
     "32082": {
       "attempts": []
     },
     "10859": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30618554",
+        "display_name": "Hvězda zvaná Pelyněk SD CZ Dabing",
+        "planned_at": "2026-11-11T03:22:19.227802+00:00"
+      }
     },
     "32958": {
       "attempts": []
@@ -184557,5 +184576,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:22:17.059492+00:00"
+  "updated_at": "2026-11-11T03:22:19.764078+00:00"
 }
