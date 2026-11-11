@@ -112518,13 +112518,6 @@
           "source_id": "28004597",
           "target_video_id": "30983992",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:19:02.013958+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28004597",
-          "target_video_id": "30983992",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:57:36.420861+00:00"
         },
         {
@@ -112533,6 +112526,13 @@
           "target_video_id": "30983992",
           "permanent": false,
           "attempted_at": "2026-11-11T01:40:56.004675+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28004597",
+          "target_video_id": "30983992",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:22:54.353088+00:00"
         }
       ],
       "last_plan": {
@@ -112546,12 +112546,6 @@
         "size_bytes": 876400000,
         "prepared_at": "2026-11-10T15:12:52.906381+00:00",
         "relay_source_id": "28004597"
-      },
-      "claim": {
-        "worker_id": "61c0f06678b34b2489141fee2d03aafb-shard-0",
-        "claimed_at": "2026-11-11T02:22:47.618011+00:00",
-        "lease_expires_at": "2026-11-11T08:22:47.618011+00:00",
-        "run_id": "42938376778"
       }
     },
     "15588": {
@@ -112590,7 +112584,7 @@
       "last_plan": {
         "source_id": "31822900",
         "display_name": "Star Wars: Episode VIII – The Last Jedi (Star Wars: The Last Jedi) 4K CZ Dabing",
-        "planned_at": "2026-11-11T01:40:54.275159+00:00"
+        "planned_at": "2026-11-11T02:22:54.696547+00:00"
       },
       "previous_target_id": "30983993",
       "prepared": {
@@ -128824,11 +128818,16 @@
       "last_plan": {
         "source_id": "34698686",
         "display_name": "In Her Hands 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:22:47.182861+00:00"
+        "planned_at": "2026-11-11T02:22:54.897336+00:00"
       }
     },
     "14899": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30992102",
+        "display_name": "My Sunny Maad (Moje slunce Mad) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T02:22:55.022705+00:00"
+      }
     },
     "35345": {
       "attempts": []
@@ -183016,5 +183015,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:22:47.744809+00:00"
+  "updated_at": "2026-11-11T02:22:55.022714+00:00"
 }
