@@ -117330,13 +117330,6 @@
           "source_id": "29121811",
           "target_video_id": "30984814",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:43:41.025361+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29121811",
-          "target_video_id": "30984814",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:25:02.737395+00:00"
         },
         {
@@ -117345,6 +117338,13 @@
           "target_video_id": "30984814",
           "permanent": false,
           "attempted_at": "2026-11-11T02:07:53.809255+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29121811",
+          "target_video_id": "30984814",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:45:11.684808+00:00"
         }
       ],
       "last_plan": {
@@ -117358,12 +117358,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:43:42.588478+00:00",
         "relay_source_id": "29121811"
-      },
-      "claim": {
-        "worker_id": "b0a418edaeaf49f4baeb23d301108202-shard-0",
-        "claimed_at": "2026-11-11T02:45:09.509662+00:00",
-        "lease_expires_at": "2026-11-11T08:45:09.509662+00:00",
-        "run_id": "42938376778"
       }
     },
     "3110": {
@@ -122462,7 +122456,7 @@
       "last_plan": {
         "source_id": "34911142",
         "display_name": "The Girl in the Fog (La ragazza nella nebbia) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:07:52.499755+00:00"
+        "planned_at": "2026-11-11T02:45:11.089119+00:00"
       },
       "previous_target_id": "30985499",
       "prepared": {
@@ -122470,6 +122464,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:47:48.561303+00:00",
         "relay_source_id": "34911142"
+      },
+      "claim": {
+        "worker_id": "737e79de56314b529c7b09870ae6eb24-shard-0",
+        "claimed_at": "2026-11-11T02:45:11.538978+00:00",
+        "lease_expires_at": "2026-11-11T08:45:11.538978+00:00",
+        "run_id": "42938376778"
       }
     },
     "25109": {
@@ -129590,7 +129590,7 @@
       "last_plan": {
         "source_id": "29187766",
         "display_name": "Mistakes (Chyby) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:45:09.239146+00:00"
+        "planned_at": "2026-11-11T02:45:11.297987+00:00"
       }
     },
     "15742": {
@@ -183671,5 +183671,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:45:09.647589+00:00"
+  "updated_at": "2026-11-11T02:45:11.684818+00:00"
 }
