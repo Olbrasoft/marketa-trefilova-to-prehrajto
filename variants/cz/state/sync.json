@@ -143050,17 +143050,19 @@
       "attempts": []
     },
     "12560": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34634459",
+          "target_video_id": "30988826",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:15:37.189763+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34634459",
         "display_name": "Lawyer Vera (Advokátka Věra) 1080p CZ Dabing",
         "planned_at": "2026-11-11T10:12:37.640167+00:00"
-      },
-      "claim": {
-        "worker_id": "22ea12478fb3487bbfd1017cfa3e22aa-shard-0",
-        "claimed_at": "2026-11-11T10:12:38.466045+00:00",
-        "lease_expires_at": "2026-11-11T16:12:38.466045+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988826",
       "prepared": {
@@ -195203,5 +195205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:15:35.391430+00:00"
+  "updated_at": "2026-11-11T10:15:37.189782+00:00"
 }
