@@ -129530,13 +129530,6 @@
           "source_id": "30420191",
           "target_video_id": "30986888",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:13:56.211413+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30420191",
-          "target_video_id": "30986888",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:17:46.657904+00:00"
         },
         {
@@ -129545,6 +129538,13 @@
           "target_video_id": "30986888",
           "permanent": false,
           "attempted_at": "2026-11-11T12:28:25.988227+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30420191",
+          "target_video_id": "30986888",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:43:52.472281+00:00"
         }
       ],
       "last_plan": {
@@ -129558,12 +129558,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T02:29:25.576648+00:00",
         "relay_source_id": "30420191"
-      },
-      "claim": {
-        "worker_id": "4727f483c4ad431fbc410a903aa6b267-shard-0",
-        "claimed_at": "2026-11-11T13:43:49.982622+00:00",
-        "lease_expires_at": "2026-11-11T19:43:49.982622+00:00",
-        "run_id": "43011363893"
       }
     },
     "32254": {
@@ -144249,17 +144243,19 @@
       }
     },
     "17136": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "8671959",
+          "target_video_id": "30990520",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:43:52.669404+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "8671959",
         "display_name": "Dívka za zrcadlem 1080p CZ Dabing",
         "planned_at": "2026-11-11T13:39:11.248974+00:00"
-      },
-      "claim": {
-        "worker_id": "a723a3044e084af980098a2f12e3cff7-shard-0",
-        "claimed_at": "2026-11-11T13:39:14.005638+00:00",
-        "lease_expires_at": "2026-11-11T19:39:14.005638+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990520",
       "prepared": {
@@ -196267,5 +196263,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:43:50.766510+00:00"
+  "updated_at": "2026-11-11T13:43:52.669423+00:00"
 }
