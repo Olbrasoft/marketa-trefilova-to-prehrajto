@@ -141367,17 +141367,19 @@
       "attempts": []
     },
     "27588": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22714710",
+          "target_video_id": "30988585",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:49:34.142556+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22714710",
         "display_name": "Just Think of Us Both SD CZ Dabing",
         "planned_at": "2026-11-11T08:48:51.329160+00:00"
-      },
-      "claim": {
-        "worker_id": "bbde8d9e48ba4455842be1b188a6ebbd-shard-0",
-        "claimed_at": "2026-11-11T08:48:52.010159+00:00",
-        "lease_expires_at": "2026-11-11T14:48:52.010159+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988585",
       "prepared": {
@@ -193727,5 +193729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:49:32.458087+00:00"
+  "updated_at": "2026-11-11T08:49:34.142572+00:00"
 }
