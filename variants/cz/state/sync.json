@@ -42822,7 +42822,7 @@
       "last_plan": {
         "source_id": "34357032",
         "display_name": "Monster (2003) 4K CZ Dabing",
-        "planned_at": "2026-11-11T02:49:14.835897+00:00"
+        "planned_at": "2026-11-11T03:21:53.835164+00:00"
       },
       "previous_target_id": "30755710",
       "prepared": {
@@ -42830,6 +42830,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "6d1832cf99614d53b8fe2c27ce91501a-shard-0",
+        "claimed_at": "2026-11-11T03:21:54.280015+00:00",
+        "lease_expires_at": "2026-11-11T09:21:54.280015+00:00",
+        "run_id": "42938376778"
       }
     },
     "1395": {
@@ -130033,6 +130039,13 @@
           "target_video_id": "30986943",
           "permanent": false,
           "attempted_at": "2026-11-11T02:49:17.562799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30624932",
+          "target_video_id": "30986943",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:21:54.467414+00:00"
         }
       ],
       "last_plan": {
@@ -130043,15 +130056,9 @@
       "previous_target_id": "30986943",
       "prepared": {
         "target_video_id": "30986943",
-        "size_bytes": 971308944,
+        "size_bytes": 971300000,
         "prepared_at": "2026-11-11T02:47:37.595965+00:00",
         "relay_source_id": "30624932"
-      },
-      "claim": {
-        "worker_id": "1ae05421d6234f24a52394c3bb1158c5-shard-0",
-        "claimed_at": "2026-11-11T03:21:52.224465+00:00",
-        "lease_expires_at": "2026-11-11T09:21:52.224465+00:00",
-        "run_id": "42938376778"
       }
     },
     "20748": {
@@ -130615,7 +130622,7 @@
       "last_plan": {
         "source_id": "24028358",
         "display_name": "Vanilla Flavour (Vůně vanilky) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:21:51.959643+00:00"
+        "planned_at": "2026-11-11T03:21:54.041778+00:00"
       }
     },
     "32082": {
@@ -184549,5 +184556,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:21:52.456439+00:00"
+  "updated_at": "2026-11-11T03:21:54.467426+00:00"
 }
