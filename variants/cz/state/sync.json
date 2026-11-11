@@ -134639,13 +134639,6 @@
           "source_id": "27820429",
           "target_video_id": "30987555",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:41:05.056641+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27820429",
-          "target_video_id": "30987555",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:53:30.542275+00:00"
         },
         {
@@ -134654,6 +134647,13 @@
           "target_video_id": "30987555",
           "permanent": false,
           "attempted_at": "2026-11-11T12:59:36.553083+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27820429",
+          "target_video_id": "30987555",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:17:00.928553+00:00"
         }
       ],
       "last_plan": {
@@ -142033,7 +142033,7 @@
       "last_plan": {
         "source_id": "35210758",
         "display_name": "Uncle Cyril (Prokletí domu Hajnů) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:59:34.948763+00:00"
+        "planned_at": "2026-11-11T14:16:59.116591+00:00"
       },
       "previous_target_id": "30988537",
       "prepared": {
@@ -142041,6 +142041,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-11T08:39:49.629793+00:00",
         "relay_source_id": "35210758"
+      },
+      "claim": {
+        "worker_id": "2569c6531d83429daa5348ce7f8ef63d-shard-0",
+        "claimed_at": "2026-11-11T14:17:00.037778+00:00",
+        "lease_expires_at": "2026-11-11T20:17:00.037778+00:00",
+        "run_id": "43011363893"
       }
     },
     "18078": {
@@ -144500,7 +144506,7 @@
       "last_plan": {
         "source_id": "28144767",
         "display_name": "The Astronaut (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:16:56.470241+00:00"
+        "planned_at": "2026-11-11T14:16:59.478775+00:00"
       }
     },
     "33927": {
@@ -196466,5 +196472,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:16:56.766642+00:00"
+  "updated_at": "2026-11-11T14:17:00.928571+00:00"
 }
