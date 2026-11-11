@@ -127404,17 +127404,19 @@
       "attempts": []
     },
     "21562": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33885910",
+          "target_video_id": "30986630",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:15:50.997466+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33885910",
         "display_name": "Les liaisons dangereuses (Dangerous Love Affairs) 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:15:06.967714+00:00"
-      },
-      "claim": {
-        "worker_id": "6ae84deb237c4c55bd2cac86337052f4-shard-0",
-        "claimed_at": "2026-11-11T01:15:09.248660+00:00",
-        "lease_expires_at": "2026-11-11T07:15:09.248660+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986630",
       "prepared": {
@@ -181882,5 +181884,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:15:49.111505+00:00"
+  "updated_at": "2026-11-11T01:15:50.997486+00:00"
 }
