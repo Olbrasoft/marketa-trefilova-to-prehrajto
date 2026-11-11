@@ -129899,17 +129899,19 @@
       }
     },
     "23934": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34272442",
+          "target_video_id": "30986959",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:58:23.992125+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34272442",
         "display_name": "And Give My Love to the Swallows SD CZ Dabing",
         "planned_at": "2026-11-11T02:56:42.292912+00:00"
-      },
-      "claim": {
-        "worker_id": "04bc704a9a894bac9b9e3bbf350dcceb-shard-0",
-        "claimed_at": "2026-11-11T02:56:43.887066+00:00",
-        "lease_expires_at": "2026-11-11T08:56:43.887066+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986959",
       "prepared": {
@@ -183963,5 +183965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:58:22.591663+00:00"
+  "updated_at": "2026-11-11T02:58:23.992139+00:00"
 }
