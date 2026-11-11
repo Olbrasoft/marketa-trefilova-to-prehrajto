@@ -112309,13 +112309,6 @@
           "source_id": "12192492",
           "target_video_id": "30983936",
           "permanent": false,
-          "attempted_at": "2026-11-11T09:54:02.535639+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12192492",
-          "target_video_id": "30983936",
-          "permanent": false,
           "attempted_at": "2026-11-11T12:59:52.315242+00:00"
         },
         {
@@ -112324,12 +112317,19 @@
           "target_video_id": "30983936",
           "permanent": false,
           "attempted_at": "2026-11-11T14:17:17.968691+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12192492",
+          "target_video_id": "30983936",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:34:45.937269+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12192492",
         "display_name": "Lost in the Suburbs (Návrat domů) SD CZ Dabing",
-        "planned_at": "2026-11-11T14:17:11.951163+00:00"
+        "planned_at": "2026-11-11T15:34:43.583837+00:00"
       },
       "previous_target_id": "30983936",
       "prepared": {
@@ -144802,7 +144802,13 @@
       "last_plan": {
         "source_id": "28267627",
         "display_name": "The Sheep Has Five Legs SD CZ Dabing",
-        "planned_at": "2026-11-11T15:34:39.742606+00:00"
+        "planned_at": "2026-11-11T15:34:43.933860+00:00"
+      },
+      "claim": {
+        "worker_id": "64a7379107e04dcab7153ed4139ccbde-shard-0",
+        "claimed_at": "2026-11-11T15:34:44.764211+00:00",
+        "lease_expires_at": "2026-11-11T21:34:44.764211+00:00",
+        "run_id": "43011363893"
       }
     },
     "17424": {
@@ -144815,7 +144821,12 @@
       "attempts": []
     },
     "29624": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27526797",
+        "display_name": "Riot (2018) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T15:34:44.142610+00:00"
+      }
     },
     "37369": {
       "attempts": []
@@ -196705,5 +196716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:34:41.399878+00:00"
+  "updated_at": "2026-11-11T15:34:45.937285+00:00"
 }
