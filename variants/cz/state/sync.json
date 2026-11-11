@@ -121750,13 +121750,6 @@
           "source_id": "27099387",
           "target_video_id": "30985431",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:10:17.366072+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27099387",
-          "target_video_id": "30985431",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:51:32.384279+00:00"
         },
         {
@@ -121765,6 +121758,13 @@
           "target_video_id": "30985431",
           "permanent": false,
           "attempted_at": "2026-11-11T06:42:51.671419+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27099387",
+          "target_video_id": "30985431",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:38:48.411430+00:00"
         }
       ],
       "last_plan": {
@@ -121778,12 +121778,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T19:16:16.465537+00:00",
         "relay_source_id": "27099387"
-      },
-      "claim": {
-        "worker_id": "0b714c45f0784d189e24c8091d07cdcf-shard-0",
-        "claimed_at": "2026-11-11T07:38:44.537421+00:00",
-        "lease_expires_at": "2026-11-11T13:38:44.537421+00:00",
-        "run_id": "42965310158"
       }
     },
     "35695": {
@@ -130115,7 +130109,7 @@
       "last_plan": {
         "source_id": "30261994",
         "display_name": "Nightline (Promlčeno) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:42:50.569878+00:00"
+        "planned_at": "2026-11-11T07:38:47.250184+00:00"
       },
       "previous_target_id": "30986930",
       "prepared": {
@@ -130123,6 +130117,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T02:43:15.360689+00:00",
         "relay_source_id": "30261994"
+      },
+      "claim": {
+        "worker_id": "d8520f04f1d24918b202e4bf41fb0fa0-shard-0",
+        "claimed_at": "2026-11-11T07:38:47.865158+00:00",
+        "lease_expires_at": "2026-11-11T13:38:47.865158+00:00",
+        "run_id": "42965310158"
       }
     },
     "13847": {
@@ -139166,7 +139166,7 @@
       "last_plan": {
         "source_id": "30863959",
         "display_name": "A 105 p.c. Alibi 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:38:44.151152+00:00"
+        "planned_at": "2026-11-11T07:38:47.522582+00:00"
       }
     },
     "21784": {
@@ -191822,5 +191822,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:38:45.590842+00:00"
+  "updated_at": "2026-11-11T07:38:48.411452+00:00"
 }
