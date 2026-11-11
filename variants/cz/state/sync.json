@@ -109311,6 +109311,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T14:33:23.958784+00:00",
         "relay_source_id": "25985391"
+      },
+      "claim": {
+        "worker_id": "e9e03b5100f44e37b8dc81beab655ef6-shard-0",
+        "claimed_at": "2026-11-11T07:36:11.862227+00:00",
+        "lease_expires_at": "2026-11-11T13:36:11.862227+00:00",
+        "run_id": "42965310158"
       }
     },
     "10851": {
@@ -114570,7 +114576,7 @@
       "last_plan": {
         "source_id": "31604257",
         "display_name": "The Tree of Life 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:40:30.220634+00:00"
+        "planned_at": "2026-11-11T07:36:12.084936+00:00"
       },
       "previous_target_id": "30984469",
       "prepared": {
@@ -115161,13 +115167,6 @@
           "source_id": "34506881",
           "target_video_id": "30984630",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:08:25.099017+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34506881",
-          "target_video_id": "30984630",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:49:18.013897+00:00"
         },
         {
@@ -115176,6 +115175,13 @@
           "target_video_id": "30984630",
           "permanent": false,
           "attempted_at": "2026-11-11T06:40:28.472360+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34506881",
+          "target_video_id": "30984630",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:36:12.687121+00:00"
         }
       ],
       "last_plan": {
@@ -115189,12 +115195,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T17:09:05.713891+00:00",
         "relay_source_id": "34506881"
-      },
-      "claim": {
-        "worker_id": "5e1a6380b2da41b4857b703842bee2dc-shard-0",
-        "claimed_at": "2026-11-11T07:36:09.093801+00:00",
-        "lease_expires_at": "2026-11-11T13:36:09.093801+00:00",
-        "run_id": "42965310158"
       }
     },
     "13296": {
@@ -139061,7 +139061,7 @@
       "last_plan": {
         "source_id": "11128209",
         "display_name": "Prípad dvou sester (Případ dvou sester) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:36:09.809749+00:00"
+        "planned_at": "2026-11-11T07:36:12.379966+00:00"
       }
     },
     "32069": {
@@ -191729,5 +191729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:36:09.809770+00:00"
+  "updated_at": "2026-11-11T07:36:12.687140+00:00"
 }
