@@ -107329,13 +107329,6 @@
           "source_id": "30011381",
           "target_video_id": "30983260",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:21:52.916870+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30011381",
-          "target_video_id": "30983260",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:02:12.874406+00:00"
         },
         {
@@ -107344,6 +107337,13 @@
           "target_video_id": "30983260",
           "permanent": false,
           "attempted_at": "2026-11-11T05:43:28.338273+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30011381",
+          "target_video_id": "30983260",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:31:56.654617+00:00"
         }
       ],
       "last_plan": {
@@ -107357,12 +107357,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T13:56:33.935100+00:00",
         "relay_source_id": "30011381"
-      },
-      "claim": {
-        "worker_id": "addd0a5b16264e72a1aad2b811a0b363-shard-0",
-        "claimed_at": "2026-11-11T06:31:53.382397+00:00",
-        "lease_expires_at": "2026-11-11T12:31:53.382397+00:00",
-        "run_id": "42965310158"
       }
     },
     "16942": {
@@ -136841,17 +136835,19 @@
       }
     },
     "15943": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694371",
+          "target_video_id": "30987871",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:31:56.826205+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694371",
         "display_name": "Misericordia 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:31:13.045936+00:00"
-      },
-      "claim": {
-        "worker_id": "c4212f0f118840c69042bc04ee6c985c-shard-0",
-        "claimed_at": "2026-11-11T06:31:14.041658+00:00",
-        "lease_expires_at": "2026-11-11T12:31:14.041658+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987871",
       "prepared": {
@@ -189857,5 +189853,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:31:53.382422+00:00"
+  "updated_at": "2026-11-11T06:31:56.826225+00:00"
 }
