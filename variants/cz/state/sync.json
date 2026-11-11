@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "1fc7b01f5af94489b658b6d7ef28f69a-shard-0",
+        "claimed_at": "2026-11-11T05:24:26.091357+00:00",
+        "lease_expires_at": "2026-11-11T11:24:26.091357+00:00",
+        "run_id": "42938376778"
       }
     },
     "29922": {
@@ -110118,7 +110124,7 @@
       "last_plan": {
         "source_id": "27514628",
         "display_name": "Let's All Sing Around (Pějme píseň dohola) SD CZ Dabing",
-        "planned_at": "2026-11-11T04:45:41.405045+00:00"
+        "planned_at": "2026-11-11T05:24:26.255087+00:00"
       },
       "previous_target_id": "30983750",
       "prepared": {
@@ -110126,6 +110132,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:43:15.779270+00:00",
         "relay_source_id": "27514628"
+      },
+      "claim": {
+        "worker_id": "1e80664833ac47598418c51f6731566b-shard-0",
+        "claimed_at": "2026-11-11T05:24:26.738829+00:00",
+        "lease_expires_at": "2026-11-11T11:24:26.738829+00:00",
+        "run_id": "42938376778"
       }
     },
     "32421": {
@@ -134496,17 +134508,19 @@
       }
     },
     "36985": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34515639",
+          "target_video_id": "30987605",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:24:28.005599+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34515639",
         "display_name": "Runaway (Útěk) (2025) 4K CZ Dabing",
         "planned_at": "2026-11-11T05:23:43.654207+00:00"
-      },
-      "claim": {
-        "worker_id": "8b6467b3b68b4054b7b37b6153f71c64-shard-0",
-        "claimed_at": "2026-11-11T05:23:45.467120+00:00",
-        "lease_expires_at": "2026-11-11T11:23:45.467120+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987605",
       "prepared": {
@@ -134524,7 +134538,7 @@
       "last_plan": {
         "source_id": "29184927",
         "display_name": "Pára nad hrncem SD CZ Dabing",
-        "planned_at": "2026-11-11T05:24:21.278472+00:00"
+        "planned_at": "2026-11-11T05:24:26.461802+00:00"
       }
     },
     "20468": {
@@ -187855,5 +187869,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:24:21.278483+00:00"
+  "updated_at": "2026-11-11T05:24:28.005615+00:00"
 }
