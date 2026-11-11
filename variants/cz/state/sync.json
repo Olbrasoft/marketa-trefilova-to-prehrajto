@@ -108601,13 +108601,6 @@
           "source_id": "34789117",
           "target_video_id": "30983623",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:33:13.381009+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34789117",
-          "target_video_id": "30983623",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:06:56.016722+00:00"
         },
         {
@@ -108616,12 +108609,19 @@
           "target_video_id": "30983623",
           "permanent": false,
           "attempted_at": "2026-11-11T03:40:55.964859+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34789117",
+          "target_video_id": "30983623",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:17:08.739528+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34789117",
         "display_name": "Barbora Hlavsová 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:40:52.642027+00:00"
+        "planned_at": "2026-11-11T04:17:06.736608+00:00"
       },
       "previous_target_id": "30983623",
       "prepared": {
@@ -132445,11 +132445,22 @@
       "last_plan": {
         "source_id": "34720893",
         "display_name": "Faithless Games (Nevěrné hry) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:17:01.885235+00:00"
+        "planned_at": "2026-11-11T04:17:06.945275+00:00"
+      },
+      "claim": {
+        "worker_id": "b651a26ef8604a398eb4847cb0eb30c3-shard-0",
+        "claimed_at": "2026-11-11T04:17:07.449873+00:00",
+        "lease_expires_at": "2026-11-11T10:17:07.449873+00:00",
+        "run_id": "42938376778"
       }
     },
     "22161": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34877761",
+        "display_name": "Attempted Murder (Pokus o vraždu) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T04:17:07.075747+00:00"
+      }
     },
     "12590": {
       "attempts": []
@@ -186055,5 +186066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:17:03.665254+00:00"
+  "updated_at": "2026-11-11T04:17:08.739549+00:00"
 }
