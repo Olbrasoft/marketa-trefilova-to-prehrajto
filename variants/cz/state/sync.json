@@ -117987,13 +117987,6 @@
           "source_id": "25787561",
           "target_video_id": "30984861",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:34:52.901882+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25787561",
-          "target_video_id": "30984861",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:10:53.215271+00:00"
         },
         {
@@ -118002,6 +117995,13 @@
           "target_video_id": "30984861",
           "permanent": false,
           "attempted_at": "2026-11-11T04:50:42.933079+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25787561",
+          "target_video_id": "30984861",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:30:09.701380+00:00"
         }
       ],
       "last_plan": {
@@ -118044,7 +118044,7 @@
       "last_plan": {
         "source_id": "33647002",
         "display_name": "Frantic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:50:41.571869+00:00"
+        "planned_at": "2026-11-11T05:30:08.455469+00:00"
       },
       "previous_target_id": "30984863",
       "prepared": {
@@ -118052,6 +118052,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:57:35.530517+00:00",
         "relay_source_id": "33647002"
+      },
+      "claim": {
+        "worker_id": "fcf414283eaf4582986032a4c145902a-shard-0",
+        "claimed_at": "2026-11-11T05:30:08.962175+00:00",
+        "lease_expires_at": "2026-11-11T11:30:08.962175+00:00",
+        "run_id": "42938376778"
       }
     },
     "17739": {
@@ -134687,7 +134693,7 @@
       "last_plan": {
         "source_id": "33812946",
         "display_name": "Zkrízené mece (Zkřížené meče) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:30:06.798976+00:00"
+        "planned_at": "2026-11-11T05:30:08.672240+00:00"
       }
     },
     "21648": {
@@ -187997,5 +188003,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:30:06.798984+00:00"
+  "updated_at": "2026-11-11T05:30:09.701390+00:00"
 }
