@@ -8575,13 +8575,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:55:00.580374+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:47:20.420267+00:00"
         },
         {
@@ -8590,6 +8583,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-11T07:43:22.677216+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:43:13.950886+00:00"
         }
       ],
       "last_plan": {
@@ -123834,7 +123834,7 @@
       "last_plan": {
         "source_id": "32449094",
         "display_name": "The Four Seasons 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:43:20.856289+00:00"
+        "planned_at": "2026-11-11T08:43:12.032230+00:00"
       },
       "previous_target_id": "30985723",
       "prepared": {
@@ -123842,6 +123842,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T21:30:12.070947+00:00",
         "relay_source_id": "32449094"
+      },
+      "claim": {
+        "worker_id": "7f0fe88ca70f406f9b45f70199abf07a-shard-0",
+        "claimed_at": "2026-11-11T08:43:12.858011+00:00",
+        "lease_expires_at": "2026-11-11T14:43:12.858011+00:00",
+        "run_id": "42965310158"
       }
     },
     "28538": {
@@ -141171,14 +141177,25 @@
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Broken Promise 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:43:09.141879+00:00"
+        "planned_at": "2026-11-11T08:43:12.337789+00:00"
+      },
+      "claim": {
+        "worker_id": "456f685c5bb646b1b0f67e25ea019a5d-shard-0",
+        "claimed_at": "2026-11-11T08:43:13.060228+00:00",
+        "lease_expires_at": "2026-11-11T14:43:13.060228+00:00",
+        "run_id": "42965310158"
       }
     },
     "36843": {
       "attempts": []
     },
     "14136": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34920710",
+        "display_name": "Murder in the Basque Country (Maddy Etcheban) SD CZ Dabing",
+        "planned_at": "2026-11-11T08:43:12.530857+00:00"
+      }
     },
     "22966": {
       "attempts": []
@@ -193533,5 +193550,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:43:09.588170+00:00"
+  "updated_at": "2026-11-11T08:43:13.950906+00:00"
 }
