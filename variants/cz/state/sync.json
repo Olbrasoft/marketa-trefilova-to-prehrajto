@@ -138008,13 +138008,6 @@
           "source_id": "32147344",
           "target_video_id": "30987885",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:29:07.747889+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32147344",
-          "target_video_id": "30987885",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:27:39.489923+00:00"
         },
         {
@@ -138023,6 +138016,13 @@
           "target_video_id": "30987885",
           "permanent": false,
           "attempted_at": "2026-11-11T09:33:33.865644+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32147344",
+          "target_video_id": "30987885",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:45:55.073898+00:00"
         }
       ],
       "last_plan": {
@@ -139764,7 +139764,7 @@
       "last_plan": {
         "source_id": "26422141",
         "display_name": "The Avalanche SD CZ Dabing",
-        "planned_at": "2026-11-11T09:33:37.087948+00:00"
+        "planned_at": "2026-11-11T12:45:53.439248+00:00"
       },
       "previous_target_id": "30988086",
       "prepared": {
@@ -139772,6 +139772,12 @@
         "size_bytes": 766400000,
         "prepared_at": "2026-11-11T07:28:32.011926+00:00",
         "relay_source_id": "26422141"
+      },
+      "claim": {
+        "worker_id": "262cbc3922af4aba94158a511b86ad22-shard-0",
+        "claimed_at": "2026-11-11T12:45:54.297871+00:00",
+        "lease_expires_at": "2026-11-11T18:45:54.297871+00:00",
+        "run_id": "43011363893"
       }
     },
     "12456": {
@@ -143540,7 +143546,7 @@
       "last_plan": {
         "source_id": "32831532",
         "display_name": "Marian 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:45:49.488872+00:00"
+        "planned_at": "2026-11-11T12:45:53.793216+00:00"
       }
     },
     "24222": {
@@ -195608,5 +195614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:45:49.983120+00:00"
+  "updated_at": "2026-11-11T12:45:55.073912+00:00"
 }
