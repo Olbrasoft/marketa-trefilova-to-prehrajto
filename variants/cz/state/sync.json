@@ -115490,13 +115490,6 @@
           "source_id": "34191543",
           "target_video_id": "30984649",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:53:07.357724+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34191543",
-          "target_video_id": "30984649",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:30:00.793061+00:00"
         },
         {
@@ -115505,12 +115498,19 @@
           "target_video_id": "30984649",
           "permanent": false,
           "attempted_at": "2026-11-11T05:11:16.127301+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34191543",
+          "target_video_id": "30984649",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:52:38.577519+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34191543",
         "display_name": "While You Were Sleeping 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:11:11.963107+00:00"
+        "planned_at": "2026-11-11T05:52:36.696264+00:00"
       },
       "previous_target_id": "30984649",
       "prepared": {
@@ -117321,6 +117321,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:43:36.279407+00:00",
         "relay_source_id": "28241125"
+      },
+      "claim": {
+        "worker_id": "3ae07cbb35134d2a9c9d0c067d3b7030-shard-0",
+        "claimed_at": "2026-11-11T05:52:36.525553+00:00",
+        "lease_expires_at": "2026-11-11T11:52:36.525553+00:00",
+        "run_id": "42938376778"
       }
     },
     "3103": {
@@ -135547,7 +135553,7 @@
       "last_plan": {
         "source_id": "29399903",
         "display_name": "Murder in Angoulême (Le Prix de la trahison) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:52:34.791889+00:00"
+        "planned_at": "2026-11-11T05:52:36.905726+00:00"
       }
     },
     "20710": {
@@ -188722,5 +188728,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:52:35.162936+00:00"
+  "updated_at": "2026-11-11T05:52:38.577530+00:00"
 }
