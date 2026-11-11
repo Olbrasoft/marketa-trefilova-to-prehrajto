@@ -129166,7 +129166,7 @@
       "last_plan": {
         "source_id": "30726013",
         "display_name": "Solitude (Einvera) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:17:21.588919+00:00"
+        "planned_at": "2026-11-11T14:33:45.486863+00:00"
       },
       "previous_target_id": "30986834",
       "prepared": {
@@ -129174,6 +129174,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T02:17:39.609117+00:00",
         "relay_source_id": "30726013"
+      },
+      "claim": {
+        "worker_id": "faec5f8845b64c52ab841089a44ac140-shard-0",
+        "claimed_at": "2026-11-11T14:33:46.310739+00:00",
+        "lease_expires_at": "2026-11-11T20:33:46.310739+00:00",
+        "run_id": "43011363893"
       }
     },
     "18985": {
@@ -144186,17 +144192,23 @@
           "attempted_at": "2026-11-11T13:17:24.080451+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29250484",
-        "display_name": "Party Hard 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:33:42.672512+00:00"
-      },
       "previous_target_id": "30990243",
-      "prepared": {
+      "upload": {
         "target_video_id": "30990243",
-        "size_bytes": 2311660232,
-        "prepared_at": "2026-11-11T13:15:11.903737+00:00",
-        "relay_source_id": "29250484"
+        "display_name": "Party Hard 1080p CZ Dabing",
+        "source_id": "29250484",
+        "source_url": "https://sdilej.cz/29250484/party-hard.mkv",
+        "source_filename": "Párty Hárd.mkv",
+        "size_bytes": 2300000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9855002760887146,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/party-hard-1080p-cz-dabing-mkv/59ac26f5abb81180",
+        "uploaded_at": "2026-11-11T14:33:46.578778+00:00"
       }
     },
     "17359": {
@@ -144648,7 +144660,7 @@
       "last_plan": {
         "source_id": "32944112",
         "display_name": "The Damned (Zatracení) (2002) 4K CZ Dabing",
-        "planned_at": "2026-11-11T14:33:43.016834+00:00"
+        "planned_at": "2026-11-11T14:33:45.827264+00:00"
       }
     },
     "4524": {
@@ -196566,5 +196578,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:33:43.397219+00:00"
+  "updated_at": "2026-11-11T14:33:46.578792+00:00"
 }
