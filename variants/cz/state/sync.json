@@ -126280,17 +126280,19 @@
       "attempts": []
     },
     "11855": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28540263",
+          "target_video_id": "30986365",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:11:55.205739+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28540263",
         "display_name": "Triumph of the Spirit 720p CZ Dabing",
         "planned_at": "2026-11-11T00:11:09.321049+00:00"
-      },
-      "claim": {
-        "worker_id": "5da6f766507f49f993add44aca556e23-shard-0",
-        "claimed_at": "2026-11-11T00:11:10.072784+00:00",
-        "lease_expires_at": "2026-11-11T06:11:10.072784+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986365",
       "prepared": {
@@ -180992,5 +180994,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:11:52.330125+00:00"
+  "updated_at": "2026-11-11T00:11:55.205767+00:00"
 }
