@@ -29888,13 +29888,6 @@
           "source_id": "34850732",
           "target_video_id": "30723078",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:45:08.404962+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850732",
-          "target_video_id": "30723078",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:45:07.316458+00:00"
         },
         {
@@ -29903,6 +29896,13 @@
           "target_video_id": "30723078",
           "permanent": false,
           "attempted_at": "2026-11-11T09:58:31.291470+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850732",
+          "target_video_id": "30723078",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:03:57.768465+00:00"
         }
       ],
       "last_plan": {
@@ -56013,7 +56013,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:58:30.114845+00:00"
+        "planned_at": "2026-11-11T13:03:56.196222+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -56021,6 +56021,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "b44ecfe5ec874a289ad81ebd992278a3-shard-0",
+        "claimed_at": "2026-11-11T13:03:57.106836+00:00",
+        "lease_expires_at": "2026-11-11T19:03:57.106836+00:00",
+        "run_id": "43011363893"
       }
     },
     "24818": {
@@ -143773,7 +143779,7 @@
       "last_plan": {
         "source_id": "29153461",
         "display_name": "Murder in the Finistère (Les secrets du Finistère - La disparue de Douarnenez) SD CZ Dabing",
-        "planned_at": "2026-11-11T13:03:53.705915+00:00"
+        "planned_at": "2026-11-11T13:03:56.547295+00:00"
       }
     },
     "26278": {
@@ -195828,5 +195834,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:03:54.017983+00:00"
+  "updated_at": "2026-11-11T13:03:57.768480+00:00"
 }
