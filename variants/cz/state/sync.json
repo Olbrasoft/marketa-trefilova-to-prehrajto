@@ -83429,13 +83429,6 @@
           "source_id": "30859189",
           "target_video_id": "30915737",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:20:54.533690+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30859189",
-          "target_video_id": "30915737",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:04:28.660345+00:00"
         },
         {
@@ -83444,6 +83437,13 @@
           "target_video_id": "30915737",
           "permanent": false,
           "attempted_at": "2026-11-11T06:57:52.125209+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30859189",
+          "target_video_id": "30915737",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:54:16.086504+00:00"
         }
       ],
       "last_plan": {
@@ -83570,7 +83570,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:57:50.277191+00:00"
+        "planned_at": "2026-11-11T07:54:14.368053+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -83578,6 +83578,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "c76bb7f40ed844189208839978b31d24-shard-0",
+        "claimed_at": "2026-11-11T07:54:15.030397+00:00",
+        "lease_expires_at": "2026-11-11T13:54:15.030397+00:00",
+        "run_id": "42965310158"
       }
     },
     "1954": {
@@ -139724,7 +139730,7 @@
       "last_plan": {
         "source_id": "29201504",
         "display_name": "Průlom SD CZ Dabing",
-        "planned_at": "2026-11-11T07:54:12.197901+00:00"
+        "planned_at": "2026-11-11T07:54:14.646305+00:00"
       }
     },
     "15578": {
@@ -192299,5 +192305,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:54:12.415108+00:00"
+  "updated_at": "2026-11-11T07:54:16.086524+00:00"
 }
