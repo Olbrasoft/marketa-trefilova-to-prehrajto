@@ -122048,7 +122048,7 @@
       "last_plan": {
         "source_id": "28510712",
         "display_name": "Heaven & Earth SD CZ Dabing",
-        "planned_at": "2026-11-11T00:21:15.768896+00:00"
+        "planned_at": "2026-11-11T01:00:58.319457+00:00"
       },
       "previous_target_id": "30985462",
       "prepared": {
@@ -122056,6 +122056,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T19:26:20.062444+00:00",
         "relay_source_id": "28510712"
+      },
+      "claim": {
+        "worker_id": "7a82cac2f37d47d293b1653caf96d490-shard-0",
+        "claimed_at": "2026-11-11T01:00:59.306183+00:00",
+        "lease_expires_at": "2026-11-11T07:00:59.306183+00:00",
+        "run_id": "42904278669"
       }
     },
     "12443": {
@@ -127122,17 +127128,19 @@
       }
     },
     "22649": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34502346",
+          "target_video_id": "30986567",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:00:59.532271+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34502346",
         "display_name": "Legendary Weapons of China SD CZ Dabing",
         "planned_at": "2026-11-11T00:54:46.168931+00:00"
-      },
-      "claim": {
-        "worker_id": "1f57627742a74a5783f97bb1c6e257e5-shard-0",
-        "claimed_at": "2026-11-11T00:54:46.931426+00:00",
-        "lease_expires_at": "2026-11-11T06:54:46.931426+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986567",
       "prepared": {
@@ -127162,7 +127170,7 @@
       "last_plan": {
         "source_id": "33819340",
         "display_name": "The Girl with Nine Wigs (Heute bin ich blond) SD CZ Dabing",
-        "planned_at": "2026-11-11T01:00:54.607778+00:00"
+        "planned_at": "2026-11-11T01:00:58.667725+00:00"
       }
     },
     "19104": {
@@ -181669,5 +181677,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:00:56.675620+00:00"
+  "updated_at": "2026-11-11T01:00:59.532290+00:00"
 }
