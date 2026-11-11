@@ -118462,13 +118462,6 @@
           "source_id": "11130470",
           "target_video_id": "30984884",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:09:35.795099+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11130470",
-          "target_video_id": "30984884",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:50:00.529156+00:00"
         },
         {
@@ -118477,6 +118470,13 @@
           "target_video_id": "30984884",
           "permanent": false,
           "attempted_at": "2026-11-11T00:27:38.094230+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11130470",
+          "target_video_id": "30984884",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:09:16.069698+00:00"
         }
       ],
       "last_plan": {
@@ -119916,7 +119916,7 @@
       "last_plan": {
         "source_id": "14572727",
         "display_name": "The Wizard of Lies 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:27:37.525894+00:00"
+        "planned_at": "2026-11-11T01:09:14.363549+00:00"
       },
       "previous_target_id": "30985009",
       "prepared": {
@@ -119924,6 +119924,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T18:32:49.827321+00:00",
         "relay_source_id": "14572727"
+      },
+      "claim": {
+        "worker_id": "643e49557f6440c4a066d14241cea6a9-shard-0",
+        "claimed_at": "2026-11-11T01:09:15.302295+00:00",
+        "lease_expires_at": "2026-11-11T07:09:15.302295+00:00",
+        "run_id": "42904278669"
       }
     },
     "23188": {
@@ -127249,6 +127255,12 @@
         "source_id": "14705539",
         "display_name": "Valan: Valley of Angels (Valan - Az angyalok völgye) 720p CZ Dabing",
         "planned_at": "2026-11-11T01:09:11.602499+00:00"
+      },
+      "claim": {
+        "worker_id": "f9d34051dc524af49a16dcd9ec8c18e9-shard-0",
+        "claimed_at": "2026-11-11T01:09:14.135474+00:00",
+        "lease_expires_at": "2026-11-11T07:09:14.135474+00:00",
+        "run_id": "42904278669"
       }
     },
     "29329": {
@@ -127268,7 +127280,7 @@
       "last_plan": {
         "source_id": "34909924",
         "display_name": "Winter in Sokcho 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:09:12.042602+00:00"
+        "planned_at": "2026-11-11T01:09:14.727290+00:00"
       }
     },
     "15073": {
@@ -181754,5 +181766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:09:12.042621+00:00"
+  "updated_at": "2026-11-11T01:09:16.069721+00:00"
 }
