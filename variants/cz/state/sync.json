@@ -114292,13 +114292,6 @@
           "source_id": "31650158",
           "target_video_id": "30984298",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:28:05.151279+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31650158",
-          "target_video_id": "30984298",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:09:14.043838+00:00"
         },
         {
@@ -114307,6 +114300,13 @@
           "target_video_id": "30984298",
           "permanent": false,
           "attempted_at": "2026-11-11T05:50:17.844959+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31650158",
+          "target_video_id": "30984298",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:41:28.278049+00:00"
         }
       ],
       "last_plan": {
@@ -114320,12 +114320,6 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T16:01:35.764114+00:00",
         "relay_source_id": "31650158"
-      },
-      "claim": {
-        "worker_id": "ab004e4ef696420d8cba6de1c546c46b-shard-0",
-        "claimed_at": "2026-11-11T06:41:25.713142+00:00",
-        "lease_expires_at": "2026-11-11T12:41:25.713142+00:00",
-        "run_id": "42965310158"
       }
     },
     "3155": {
@@ -135885,7 +135879,7 @@
       "last_plan": {
         "source_id": "30288869",
         "display_name": "The Treasure (O pokladech) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:49:37.291563+00:00"
+        "planned_at": "2026-11-11T06:41:27.307622+00:00"
       },
       "previous_target_id": "30987723",
       "prepared": {
@@ -137210,7 +137204,7 @@
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:41:23.786746+00:00"
+        "planned_at": "2026-11-11T06:41:27.762506+00:00"
       }
     },
     "11246": {
@@ -137220,7 +137214,12 @@
       "attempts": []
     },
     "35004": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34479491",
+        "display_name": "Deti (Children) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T06:41:27.931112+00:00"
+      }
     },
     "4450": {
       "attempts": []
@@ -190118,5 +190117,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:41:25.713166+00:00"
+  "updated_at": "2026-11-11T06:41:28.278068+00:00"
 }
