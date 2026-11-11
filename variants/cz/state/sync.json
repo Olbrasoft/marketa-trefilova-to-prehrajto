@@ -117110,13 +117110,6 @@
           "source_id": "15096224",
           "target_video_id": "30984803",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:18:20.660964+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15096224",
-          "target_video_id": "30984803",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:29:32.758918+00:00"
         },
         {
@@ -117125,12 +117118,19 @@
           "target_video_id": "30984803",
           "permanent": false,
           "attempted_at": "2026-11-11T21:59:11.117286+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15096224",
+          "target_video_id": "30984803",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:20:43.336137+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15096224",
         "display_name": "I See You 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:59:06.789624+00:00"
+        "planned_at": "2026-11-11T23:20:40.581488+00:00"
       },
       "previous_target_id": "30984803",
       "prepared": {
@@ -146246,7 +146246,13 @@
       "last_plan": {
         "source_id": "30453519",
         "display_name": "Die Geschichte vom kleinen Muck 720p CZ Dabing",
-        "planned_at": "2026-11-11T23:20:35.497293+00:00"
+        "planned_at": "2026-11-11T23:20:40.933249+00:00"
+      },
+      "claim": {
+        "worker_id": "ce33006cddcf49b9b9a389bfc593c570-shard-0",
+        "claimed_at": "2026-11-11T23:20:41.760336+00:00",
+        "lease_expires_at": "2026-11-12T05:20:41.760336+00:00",
+        "run_id": "43102571398"
       }
     },
     "30419": {
@@ -146259,7 +146265,12 @@
       "attempts": []
     },
     "30321": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13583452",
+        "display_name": "To Walk with Lions 720p CZ Dabing",
+        "planned_at": "2026-11-11T23:20:41.133062+00:00"
+      }
     },
     "29231": {
       "attempts": []
@@ -197882,5 +197893,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:20:38.595360+00:00"
+  "updated_at": "2026-11-11T23:20:43.336157+00:00"
 }
