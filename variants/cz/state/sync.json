@@ -27413,6 +27413,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-02T02:58:37.809066+00:00",
         "relay_source_id": "33392596"
+      },
+      "claim": {
+        "worker_id": "dbfb1c8c3e084b3281cb125cbea6187e-shard-0",
+        "claimed_at": "2026-11-11T08:44:33.627040+00:00",
+        "lease_expires_at": "2026-11-11T14:44:33.627040+00:00",
+        "run_id": "42965310158"
       }
     },
     "12333": {
@@ -28957,7 +28963,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:44:35.967236+00:00"
+        "planned_at": "2026-11-11T08:44:34.071386+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -109614,13 +109620,6 @@
           "source_id": "33708286",
           "target_video_id": "30983694",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:56:18.188815+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33708286",
-          "target_video_id": "30983694",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:48:54.945908+00:00"
         },
         {
@@ -109629,6 +109628,13 @@
           "target_video_id": "30983694",
           "permanent": false,
           "attempted_at": "2026-11-11T07:44:33.558469+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33708286",
+          "target_video_id": "30983694",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:44:33.850079+00:00"
         }
       ],
       "last_plan": {
@@ -109642,12 +109648,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T14:36:10.697920+00:00",
         "relay_source_id": "33708286"
-      },
-      "claim": {
-        "worker_id": "4d06eadd5443476e958f6afc46937362-shard-0",
-        "claimed_at": "2026-11-11T08:44:30.762770+00:00",
-        "lease_expires_at": "2026-11-11T14:44:30.762770+00:00",
-        "run_id": "42965310158"
       }
     },
     "35753": {
@@ -141224,7 +141224,7 @@
       "last_plan": {
         "source_id": "34920710",
         "display_name": "Murder in the Basque Country (Maddy Etcheban) SD CZ Dabing",
-        "planned_at": "2026-11-11T08:44:31.248626+00:00"
+        "planned_at": "2026-11-11T08:44:34.346111+00:00"
       }
     },
     "22966": {
@@ -193580,5 +193580,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:44:31.485923+00:00"
+  "updated_at": "2026-11-11T08:44:34.346128+00:00"
 }
