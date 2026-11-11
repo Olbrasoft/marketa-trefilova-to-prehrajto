@@ -91926,7 +91926,7 @@
       "last_plan": {
         "source_id": "33685232",
         "display_name": "Aladdin (2019) 4K CZ Dabing",
-        "planned_at": "2026-11-11T07:57:29.044651+00:00"
+        "planned_at": "2026-11-11T08:58:41.201923+00:00"
       },
       "previous_target_id": "30928348",
       "prepared": {
@@ -91934,6 +91934,12 @@
         "size_bytes": 52400000000,
         "prepared_at": "2026-11-09T00:10:21.871325+00:00",
         "relay_source_id": "33685232"
+      },
+      "claim": {
+        "worker_id": "2002b73369b14fcab668d1dac368f066-shard-0",
+        "claimed_at": "2026-11-11T08:58:42.037468+00:00",
+        "lease_expires_at": "2026-11-11T14:58:42.037468+00:00",
+        "run_id": "42965310158"
       }
     },
     "2478": {
@@ -135162,13 +135168,6 @@
           "source_id": "28003090",
           "target_video_id": "30987602",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:06:55.323513+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28003090",
-          "target_video_id": "30987602",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:01:01.384391+00:00"
         },
         {
@@ -135177,6 +135176,13 @@
           "target_video_id": "30987602",
           "permanent": false,
           "attempted_at": "2026-11-11T07:57:26.632198+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28003090",
+          "target_video_id": "30987602",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:58:42.417888+00:00"
         }
       ],
       "last_plan": {
@@ -135190,12 +135196,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-11T05:22:41.932100+00:00",
         "relay_source_id": "28003090"
-      },
-      "claim": {
-        "worker_id": "922e54acd86b4cb5becf1b9be05aed46-shard-0",
-        "claimed_at": "2026-11-11T08:58:39.628490+00:00",
-        "lease_expires_at": "2026-11-11T14:58:39.628490+00:00",
-        "run_id": "42965310158"
       }
     },
     "37314": {
@@ -141742,7 +141742,13 @@
       "last_plan": {
         "source_id": "34686479",
         "display_name": "Super Monsters: Dia de los Monsters 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:58:37.517163+00:00"
+        "planned_at": "2026-11-11T08:58:41.472642+00:00"
+      },
+      "claim": {
+        "worker_id": "cc6d9251d9ac4c3baf5b54ce2883a6bb-shard-0",
+        "claimed_at": "2026-11-11T08:58:42.204991+00:00",
+        "lease_expires_at": "2026-11-11T14:58:42.204991+00:00",
+        "run_id": "42965310158"
       }
     },
     "13100": {
@@ -141752,7 +141758,12 @@
       "attempts": []
     },
     "13821": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34683567",
+        "display_name": "Sisterhood 1080p CZ Dabing",
+        "planned_at": "2026-11-11T08:58:41.643432+00:00"
+      }
     },
     "32639": {
       "attempts": []
@@ -194014,5 +194025,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:58:39.628518+00:00"
+  "updated_at": "2026-11-11T08:58:42.417906+00:00"
 }
