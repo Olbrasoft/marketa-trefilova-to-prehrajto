@@ -142133,17 +142133,24 @@
           "target_video_id": "30988596",
           "permanent": false,
           "attempted_at": "2026-11-11T08:51:54.664001+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32111003",
+          "target_video_id": "30988596",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:07:22.110785+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32111003",
         "display_name": "Alemania 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:51:07.567941+00:00"
+        "planned_at": "2026-11-11T10:07:19.593001+00:00"
       },
       "previous_target_id": "30988596",
       "prepared": {
         "target_video_id": "30988596",
-        "size_bytes": 2533395023,
+        "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T08:51:15.384448+00:00",
         "relay_source_id": "32111003"
       }
@@ -142914,11 +142921,22 @@
       "last_plan": {
         "source_id": "34756340",
         "display_name": "Murder in Charente (Les Mystères de la duchesse) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:07:14.891303+00:00"
+        "planned_at": "2026-11-11T10:07:19.889523+00:00"
+      },
+      "claim": {
+        "worker_id": "4fe14606589942ba9fd4393aa3679f31-shard-0",
+        "claimed_at": "2026-11-11T10:07:20.696020+00:00",
+        "lease_expires_at": "2026-11-11T16:07:20.696020+00:00",
+        "run_id": "42965310158"
       }
     },
     "5048": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34869221",
+        "display_name": "Murder In Arcachon (L'Héritage) SD CZ Dabing",
+        "planned_at": "2026-11-11T10:07:20.059937+00:00"
+      }
     },
     "26858": {
       "attempts": []
@@ -195054,5 +195072,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:07:17.534202+00:00"
+  "updated_at": "2026-11-11T10:07:22.110802+00:00"
 }
