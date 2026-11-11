@@ -108995,13 +108995,6 @@
           "source_id": "33436521",
           "target_video_id": "30983669",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:24:41.212886+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33436521",
-          "target_video_id": "30983669",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:06:21.821404+00:00"
         },
         {
@@ -109010,6 +109003,13 @@
           "target_video_id": "30983669",
           "permanent": false,
           "attempted_at": "2026-11-11T05:46:52.889753+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33436521",
+          "target_video_id": "30983669",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:37:08.412569+00:00"
         }
       ],
       "last_plan": {
@@ -109023,12 +109023,6 @@
         "size_bytes": 773100000,
         "prepared_at": "2026-11-10T14:31:12.854452+00:00",
         "relay_source_id": "33436521"
-      },
-      "claim": {
-        "worker_id": "2cd2d15b5eec42ea89b1bb455da3e0b7-shard-0",
-        "claimed_at": "2026-11-11T06:37:05.482003+00:00",
-        "lease_expires_at": "2026-11-11T12:37:05.482003+00:00",
-        "run_id": "42965310158"
       }
     },
     "2670": {
@@ -137020,17 +137014,19 @@
       "attempts": []
     },
     "12814": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34232902",
+          "target_video_id": "30987888",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:37:08.578761+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34232902",
         "display_name": "Nahá pastýrka (Nahá pastýřka) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:36:23.858260+00:00"
-      },
-      "claim": {
-        "worker_id": "640735db56ba424cb683eb1bc483467c-shard-0",
-        "claimed_at": "2026-11-11T06:36:26.070848+00:00",
-        "lease_expires_at": "2026-11-11T12:36:26.070848+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987888",
       "prepared": {
@@ -190001,5 +189997,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:37:06.621019+00:00"
+  "updated_at": "2026-11-11T06:37:08.578780+00:00"
 }
