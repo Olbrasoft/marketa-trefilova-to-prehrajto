@@ -90428,13 +90428,6 @@
           "source_id": "17098335",
           "target_video_id": "30926375",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:16:45.651736+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17098335",
-          "target_video_id": "30926375",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:54:27.516056+00:00"
         },
         {
@@ -90443,12 +90436,19 @@
           "target_video_id": "30926375",
           "permanent": false,
           "attempted_at": "2026-11-11T01:38:35.385377+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17098335",
+          "target_video_id": "30926375",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:20:19.026370+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17098335",
         "display_name": "Greed in the Sun (Cent Mille Dollars au soleil) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:38:31.157850+00:00"
+        "planned_at": "2026-11-11T02:20:17.135519+00:00"
       },
       "previous_target_id": "30926375",
       "prepared": {
@@ -128729,7 +128729,13 @@
       "last_plan": {
         "source_id": "33706380",
         "display_name": "Ice Mother (Bába z ledu) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:20:12.463937+00:00"
+        "planned_at": "2026-11-11T02:20:17.338796+00:00"
+      },
+      "claim": {
+        "worker_id": "9cb548cb78d142c68c40f6283bd3a909-shard-0",
+        "claimed_at": "2026-11-11T02:20:17.832968+00:00",
+        "lease_expires_at": "2026-11-11T08:20:17.832968+00:00",
+        "run_id": "42938376778"
       }
     },
     "24415": {
@@ -128748,7 +128754,12 @@
       "attempts": []
     },
     "22383": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35058003",
+        "display_name": "L'argent des autres (Other People's Money) 720p CZ Dabing",
+        "planned_at": "2026-11-11T02:20:17.466446+00:00"
+      }
     },
     "12124": {
       "attempts": []
@@ -182954,5 +182965,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:20:14.164599+00:00"
+  "updated_at": "2026-11-11T02:20:19.026380+00:00"
 }
