@@ -121036,13 +121036,6 @@
           "source_id": "30780911",
           "target_video_id": "30985356",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:48:01.717330+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30780911",
-          "target_video_id": "30985356",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:25:37.420256+00:00"
         },
         {
@@ -121051,6 +121044,13 @@
           "target_video_id": "30985356",
           "permanent": false,
           "attempted_at": "2026-11-11T01:07:00.165342+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30780911",
+          "target_video_id": "30985356",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:48:21.030141+00:00"
         }
       ],
       "last_plan": {
@@ -121096,7 +121096,7 @@
       "last_plan": {
         "source_id": "33746515",
         "display_name": "Taps 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:07:02.263444+00:00"
+        "planned_at": "2026-11-11T01:48:19.658434+00:00"
       },
       "previous_target_id": "30985386",
       "prepared": {
@@ -121104,6 +121104,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T19:00:56.350782+00:00",
         "relay_source_id": "33746515"
+      },
+      "claim": {
+        "worker_id": "08115416b07c4582a1ad6751bd890557-shard-0",
+        "claimed_at": "2026-11-11T01:48:20.414607+00:00",
+        "lease_expires_at": "2026-11-11T07:48:20.414607+00:00",
+        "run_id": "42904278669"
       }
     },
     "27476": {
@@ -128064,7 +128070,7 @@
       "last_plan": {
         "source_id": "32146424",
         "display_name": "Racketeer (Рэкетир) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:48:17.738249+00:00"
+        "planned_at": "2026-11-11T01:48:19.976360+00:00"
       }
     },
     "2802": {
@@ -182385,5 +182391,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:48:17.738270+00:00"
+  "updated_at": "2026-11-11T01:48:21.030164+00:00"
 }
