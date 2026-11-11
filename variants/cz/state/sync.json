@@ -121540,7 +121540,7 @@
       "last_plan": {
         "source_id": "30988446",
         "display_name": "Foul Play 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:23:10.191482+00:00"
+        "planned_at": "2026-11-11T05:04:30.604727+00:00"
       },
       "previous_target_id": "30985416",
       "prepared": {
@@ -121548,6 +121548,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T19:10:28.363748+00:00",
         "relay_source_id": "30988446"
+      },
+      "claim": {
+        "worker_id": "4b0b169a416d4c8da2003fb06eea090f-shard-0",
+        "claimed_at": "2026-11-11T05:04:31.341074+00:00",
+        "lease_expires_at": "2026-11-11T11:04:31.341074+00:00",
+        "run_id": "42938376778"
       }
     },
     "2943": {
@@ -133684,17 +133690,19 @@
       "attempts": []
     },
     "28456": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29733010",
+          "target_video_id": "30987510",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:04:32.264577+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29733010",
         "display_name": "O stestí a kráse (O štěstí a kráse) 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:03:46.105307+00:00"
-      },
-      "claim": {
-        "worker_id": "81497851ee8141df92c50a900976a866-shard-0",
-        "claimed_at": "2026-11-11T05:03:48.211012+00:00",
-        "lease_expires_at": "2026-11-11T11:03:48.211012+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987510",
       "prepared": {
@@ -133709,14 +133717,19 @@
       "last_plan": {
         "source_id": "34782053",
         "display_name": "Smrt pedofila 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:04:22.957198+00:00"
+        "planned_at": "2026-11-11T05:04:30.810600+00:00"
       }
     },
     "14598": {
       "attempts": []
     },
     "21706": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34697786",
+        "display_name": "Fear (1964) SD CZ Dabing",
+        "planned_at": "2026-11-11T05:04:30.970813+00:00"
+      }
     },
     "33458": {
       "attempts": []
@@ -187172,5 +187185,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:04:24.830295+00:00"
+  "updated_at": "2026-11-11T05:04:32.264592+00:00"
 }
