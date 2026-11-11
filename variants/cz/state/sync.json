@@ -133177,13 +133177,6 @@
           "source_id": "34877761",
           "target_video_id": "30987324",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:49:43.786379+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34877761",
-          "target_video_id": "30987324",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:06:17.882184+00:00"
         },
         {
@@ -133192,12 +133185,19 @@
           "target_video_id": "30987324",
           "permanent": false,
           "attempted_at": "2026-11-11T17:42:38.874071+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34877761",
+          "target_video_id": "30987324",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:52:37.309683+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34877761",
         "display_name": "Attempted Murder (Pokus o vraždu) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:42:37.144194+00:00"
+        "planned_at": "2026-11-11T18:52:35.044906+00:00"
       },
       "previous_target_id": "30987324",
       "prepared": {
@@ -145373,14 +145373,25 @@
       "last_plan": {
         "source_id": "26422192",
         "display_name": "Priehrada SD CZ Dabing",
-        "planned_at": "2026-11-11T18:52:31.545988+00:00"
+        "planned_at": "2026-11-11T18:52:35.270270+00:00"
+      },
+      "claim": {
+        "worker_id": "e03dedf6c0a044f2865cfa24b75d3910-shard-0",
+        "claimed_at": "2026-11-11T18:52:35.826838+00:00",
+        "lease_expires_at": "2026-11-12T00:52:35.826838+00:00",
+        "run_id": "43067513109"
       }
     },
     "32867": {
       "attempts": []
     },
     "16013": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33696484",
+        "display_name": "Soft Leaves 1080p CZ Dabing",
+        "planned_at": "2026-11-11T18:52:35.405495+00:00"
+      }
     },
     "12563": {
       "attempts": []
@@ -197159,5 +197170,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:52:33.202231+00:00"
+  "updated_at": "2026-11-11T18:52:37.309703+00:00"
 }
