@@ -139108,17 +139108,19 @@
       }
     },
     "32069": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33944962",
+          "target_video_id": "30988132",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:38:18.233233+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33944962",
         "display_name": "May Events (Bylo to v máji) SD CZ Dabing",
         "planned_at": "2026-11-11T07:37:32.363968+00:00"
-      },
-      "claim": {
-        "worker_id": "49e3244865dc44c3b0d0aff8e8eacd7e-shard-0",
-        "claimed_at": "2026-11-11T07:37:33.122085+00:00",
-        "lease_expires_at": "2026-11-11T13:37:33.122085+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988132",
       "prepared": {
@@ -191795,5 +191797,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:38:16.688899+00:00"
+  "updated_at": "2026-11-11T07:38:18.233251+00:00"
 }
