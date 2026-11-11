@@ -137167,17 +137167,19 @@
       "attempts": []
     },
     "31387": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713935",
+          "target_video_id": "30987900",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:41:07.269769+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713935",
         "display_name": "Opera ve vinici 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:40:19.385330+00:00"
-      },
-      "claim": {
-        "worker_id": "d8e0a9dfcc8243438ba817b1de10e1d0-shard-0",
-        "claimed_at": "2026-11-11T06:40:20.070060+00:00",
-        "lease_expires_at": "2026-11-11T12:40:20.070060+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987900",
       "prepared": {
@@ -190103,5 +190105,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:41:05.237590+00:00"
+  "updated_at": "2026-11-11T06:41:07.269787+00:00"
 }
