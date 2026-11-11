@@ -108293,13 +108293,6 @@
           "source_id": "33495197",
           "target_video_id": "30983589",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:31:44.411274+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33495197",
-          "target_video_id": "30983589",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:05:23.846540+00:00"
         },
         {
@@ -108308,12 +108301,19 @@
           "target_video_id": "30983589",
           "permanent": false,
           "attempted_at": "2026-11-11T03:39:42.598367+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33495197",
+          "target_video_id": "30983589",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:15:45.770245+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33495197",
         "display_name": "Nezralé maliny 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:39:37.977112+00:00"
+        "planned_at": "2026-11-11T04:15:43.642047+00:00"
       },
       "previous_target_id": "30983589",
       "prepared": {
@@ -132385,11 +132385,22 @@
       "last_plan": {
         "source_id": "34785348",
         "display_name": "O zlatém pokladu 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:15:40.503797+00:00"
+        "planned_at": "2026-11-11T04:15:43.850731+00:00"
+      },
+      "claim": {
+        "worker_id": "0019d14ff72643a9a6107fac0d19e051-shard-0",
+        "claimed_at": "2026-11-11T04:15:44.361991+00:00",
+        "lease_expires_at": "2026-11-11T10:15:44.361991+00:00",
+        "run_id": "42938376778"
       }
     },
     "35055": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "9621938",
+        "display_name": "The Last Bohemian SD CZ Dabing",
+        "planned_at": "2026-11-11T04:15:43.982464+00:00"
+      }
     },
     "36732": {
       "attempts": []
@@ -186001,5 +186012,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:15:41.911107+00:00"
+  "updated_at": "2026-11-11T04:15:45.770255+00:00"
 }
