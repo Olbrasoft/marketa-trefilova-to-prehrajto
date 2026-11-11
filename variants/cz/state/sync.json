@@ -116137,13 +116137,6 @@
           "source_id": "33767290",
           "target_video_id": "30984707",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:30:29.741022+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33767290",
-          "target_video_id": "30984707",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:44:22.948973+00:00"
         },
         {
@@ -116152,12 +116145,19 @@
           "target_video_id": "30984707",
           "permanent": false,
           "attempted_at": "2026-11-11T20:54:38.651794+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767290",
+          "target_video_id": "30984707",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:29:01.755979+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33767290",
         "display_name": "White Men Can't Jump 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:54:36.958874+00:00"
+        "planned_at": "2026-11-11T22:28:59.304720+00:00"
       },
       "previous_target_id": "30984707",
       "prepared": {
@@ -146125,11 +146125,22 @@
       "last_plan": {
         "source_id": "31572130",
         "display_name": "Three Men Travelling 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:28:54.947818+00:00"
+        "planned_at": "2026-11-11T22:28:59.632456+00:00"
+      },
+      "claim": {
+        "worker_id": "0fb591b9052c40b2bcdf09d3a896760f-shard-0",
+        "claimed_at": "2026-11-11T22:29:00.430893+00:00",
+        "lease_expires_at": "2026-11-12T04:29:00.430893+00:00",
+        "run_id": "43102571398"
       }
     },
     "22435": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30972643",
+        "display_name": "Butterfly on the Shoulder 1080p CZ Dabing",
+        "planned_at": "2026-11-11T22:28:59.835573+00:00"
+      }
     },
     "24149": {
       "attempts": []
@@ -197785,5 +197796,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:28:57.321339+00:00"
+  "updated_at": "2026-11-11T22:29:01.756029+00:00"
 }
