@@ -10875,13 +10875,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:37:57.071130+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:18:45.416030+00:00"
         },
         {
@@ -10890,6 +10883,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-11T01:59:52.248864+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:39:59.756612+00:00"
         }
       ],
       "last_plan": {
@@ -18960,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:59:52.954506+00:00"
+        "planned_at": "2026-11-11T02:39:58.336149+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18968,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "66aae0b0d7294ef38a83d38c5bd90ffd-shard-0",
+        "claimed_at": "2026-11-11T02:39:58.787324+00:00",
+        "lease_expires_at": "2026-11-11T08:39:58.787324+00:00",
+        "run_id": "42938376778"
       }
     },
     "29695": {
@@ -129356,7 +129362,7 @@
       "last_plan": {
         "source_id": "34713662",
         "display_name": "Donbass (2016) 720p CZ Dabing",
-        "planned_at": "2026-11-11T02:39:56.703112+00:00"
+        "planned_at": "2026-11-11T02:39:58.543004+00:00"
       }
     },
     "10813": {
@@ -183467,5 +183473,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:39:56.703128+00:00"
+  "updated_at": "2026-11-11T02:39:59.756624+00:00"
 }
