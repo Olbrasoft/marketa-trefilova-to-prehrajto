@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T23:58:34.367206+00:00
+Poslední aktualizace (UTC): 2026-11-11T23:58:36.203117+00:00
 
 Zkontrolováno videí: 647. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 71, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 72, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -70,6 +70,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 82. Důvod
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-10T09:50:04.770421+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-10T09:49:29.354632+00:00 |
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-10T09:49:44.329086+00:00 |
+| [Action in the North Atlantic SD CZ Titulky](https://prehraj.to/action-in-the-north-atlantic-sd-cz-titulky-mkv/e5e35b5f1378849d) (ID 30995564) | [Sdílej 20648681](https://sdilej.cz/20648681/action-in-the-north-atlantic-konvoj-do-murmanska-1943-dvdrip-720x576-mpeg2-audio-en-subtitles-cz.mkv) | target_unavailable | 2026-11-11T23:58:36.090915+00:00 |
 | [Arthur the King 1080p CZ Titulky](https://prehraj.to/arthur-the-king-1080p-cz-titulky-mkv/81358047462d64ac) (ID 30984204) | [Sdílej 28930526](https://sdilej.cz/28930526/arthur-the-king-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-10T15:46:48.481034+00:00 |
 | [Baramulla (बारामूला) 1080p CZ Titulky](https://prehraj.to/baramulla-1080p-cz-titulky-mkv/6e86eb68d3269eed) (ID 30988608) | [Sdílej 32361142](https://sdilej.cz/32361142/baramulla-2025-horor-cztit.mkv) | target_unavailable | 2026-11-11T08:58:29.739634+00:00 |
 | [Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky](https://prehraj.to/battle-for-sevastopol-1080p-cz-titulky-mkv/6e49c046f24775f4) (ID 30987870) | [Sdílej 12196905](https://sdilej.cz/12196905/bitva-o-sevastopol-battle-for-sevastopol-2015-titulky.cz-1080p-dts.mkv) | target_unavailable | 2026-11-11T06:37:56.869676+00:00 |
