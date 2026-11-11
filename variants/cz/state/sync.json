@@ -113623,13 +113623,6 @@
           "source_id": "32952346",
           "target_video_id": "30984110",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:21:24.107324+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32952346",
-          "target_video_id": "30984110",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:01:35.064720+00:00"
         },
         {
@@ -113638,6 +113631,13 @@
           "target_video_id": "30984110",
           "permanent": false,
           "attempted_at": "2026-11-11T05:43:00.404886+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32952346",
+          "target_video_id": "30984110",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:31:00.204022+00:00"
         }
       ],
       "last_plan": {
@@ -131887,7 +131887,7 @@
       "last_plan": {
         "source_id": "33817063",
         "display_name": "Páté kolo u vozu 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:42:59.318241+00:00"
+        "planned_at": "2026-11-11T06:30:58.990719+00:00"
       },
       "previous_target_id": "30987134",
       "prepared": {
@@ -131895,6 +131895,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T03:44:27.353852+00:00",
         "relay_source_id": "33817063"
+      },
+      "claim": {
+        "worker_id": "473c82edd6ed490394c72da3eb904c19-shard-0",
+        "claimed_at": "2026-11-11T06:30:59.644211+00:00",
+        "lease_expires_at": "2026-11-11T12:30:59.644211+00:00",
+        "run_id": "42965310158"
       }
     },
     "14927": {
@@ -136837,7 +136843,7 @@
       "last_plan": {
         "source_id": "34694371",
         "display_name": "Misericordia 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:30:56.564139+00:00"
+        "planned_at": "2026-11-11T06:30:59.257328+00:00"
       }
     },
     "12593": {
@@ -189826,5 +189832,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:30:56.564156+00:00"
+  "updated_at": "2026-11-11T06:31:00.204040+00:00"
 }
