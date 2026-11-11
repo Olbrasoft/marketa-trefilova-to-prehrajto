@@ -624,3 +624,4 @@ Attach subtitles only after target processing has finished.
 | The Most Dangerous Game 1080p CZ Titulky | 30987757 | https://sdilej.cz/27648883/nejnebezpecnejsi-hra-1932-.mkv | Extract Czech track from exact source after processing |
 | Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky | 30987870 | https://sdilej.cz/12196905/bitva-o-sevastopol-battle-for-sevastopol-2015-titulky.cz-1080p-dts.mkv | Extract Czech track from exact source after processing |
 | Ferry 720p CZ Titulky | 30987911 | https://sdilej.cz/32154189/ferry-2021-cz-tit-1080p.mkv | Extract Czech track from exact source after processing |
+| Skyking (#SKYKING) 1080p CZ Titulky | 30987918 | https://sdilej.cz/34014919/skyking.2026.sk.titulky.1080p.mkv | Extract Czech track from exact source after processing |
