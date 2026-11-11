@@ -108358,6 +108358,12 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-11-10T14:19:40.781659+00:00",
         "relay_source_id": "35058620"
+      },
+      "claim": {
+        "worker_id": "51f2b99e44b6418e9bebaa04c32012e9-shard-0",
+        "claimed_at": "2026-11-11T07:13:53.395006+00:00",
+        "lease_expires_at": "2026-11-11T13:13:53.395006+00:00",
+        "run_id": "42965310158"
       }
     },
     "2343": {
@@ -113043,7 +113049,7 @@
       "last_plan": {
         "source_id": "11995636",
         "display_name": "Us SD CZ Dabing",
-        "planned_at": "2026-11-11T06:20:16.192116+00:00"
+        "planned_at": "2026-11-11T07:13:55.641280+00:00"
       },
       "previous_target_id": "30984056",
       "prepared": {
@@ -113051,6 +113057,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T15:21:28.871383+00:00",
         "relay_source_id": "11995636"
+      },
+      "claim": {
+        "worker_id": "18ac40b7830a4f5b94763b19e4280e53-shard-0",
+        "claimed_at": "2026-11-11T07:13:56.318674+00:00",
+        "lease_expires_at": "2026-11-11T13:13:56.318674+00:00",
+        "run_id": "42965310158"
       }
     },
     "2768": {
@@ -135571,6 +135583,13 @@
           "target_video_id": "30987641",
           "permanent": false,
           "attempted_at": "2026-11-11T06:20:14.469235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34865840",
+          "target_video_id": "30987641",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:13:57.844110+00:00"
         }
       ],
       "last_plan": {
@@ -135584,12 +135603,6 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T05:32:42.655357+00:00",
         "relay_source_id": "34865840"
-      },
-      "claim": {
-        "worker_id": "e46c797066124e3caba67082c76bf93a-shard-0",
-        "claimed_at": "2026-11-11T07:13:50.694378+00:00",
-        "lease_expires_at": "2026-11-11T13:13:50.694378+00:00",
-        "run_id": "42965310158"
       }
     },
     "14067": {
@@ -138252,7 +138265,7 @@
       "last_plan": {
         "source_id": "15665884",
         "display_name": "Parallel Worlds 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:13:51.186424+00:00"
+        "planned_at": "2026-11-11T07:13:55.979194+00:00"
       }
     },
     "25668": {
@@ -191037,5 +191050,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:13:51.452792+00:00"
+  "updated_at": "2026-11-11T07:13:57.844128+00:00"
 }
