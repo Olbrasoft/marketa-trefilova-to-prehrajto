@@ -115638,13 +115638,6 @@
           "source_id": "5517933",
           "target_video_id": "30984655",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:44:23.420138+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "5517933",
-          "target_video_id": "30984655",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:25:34.512760+00:00"
         },
         {
@@ -115653,6 +115646,13 @@
           "target_video_id": "30984655",
           "permanent": false,
           "attempted_at": "2026-11-11T02:08:29.468435+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5517933",
+          "target_video_id": "30984655",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:45:35.479458+00:00"
         }
       ],
       "last_plan": {
@@ -118985,7 +118985,7 @@
       "last_plan": {
         "source_id": "20753761",
         "display_name": "Repo Man 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:08:32.034556+00:00"
+        "planned_at": "2026-11-11T02:45:34.251078+00:00"
       },
       "previous_target_id": "30984945",
       "prepared": {
@@ -118993,6 +118993,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T18:15:19.824223+00:00",
         "relay_source_id": "20753761"
+      },
+      "claim": {
+        "worker_id": "51ff4454fc5d4d3a8e3c7c5c47303eb1-shard-0",
+        "claimed_at": "2026-11-11T02:45:34.733695+00:00",
+        "lease_expires_at": "2026-11-11T08:45:34.733695+00:00",
+        "run_id": "42938376778"
       }
     },
     "22727": {
@@ -129584,7 +129590,7 @@
       "last_plan": {
         "source_id": "29187766",
         "display_name": "Mistakes (Chyby) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:45:32.456243+00:00"
+        "planned_at": "2026-11-11T02:45:34.455667+00:00"
       }
     },
     "15742": {
@@ -183665,5 +183671,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:45:32.712811+00:00"
+  "updated_at": "2026-11-11T02:45:35.479468+00:00"
 }
