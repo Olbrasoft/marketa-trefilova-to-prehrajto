@@ -129223,6 +129223,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T02:20:21.449959+00:00",
         "relay_source_id": "33706380"
+      },
+      "claim": {
+        "worker_id": "cad73179e9c148d188d04c8bca24caf0-shard-0",
+        "claimed_at": "2026-11-11T06:07:19.440901+00:00",
+        "lease_expires_at": "2026-11-11T12:07:19.440901+00:00",
+        "run_id": "42938376778"
       }
     },
     "24415": {
@@ -136072,17 +136078,19 @@
       }
     },
     "28017": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30246680",
+          "target_video_id": "30987796",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:07:19.589491+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30246680",
         "display_name": "Největší z Čechů (The Greatest Czechs) SD CZ Dabing",
         "planned_at": "2026-11-11T06:06:36.488107+00:00"
-      },
-      "claim": {
-        "worker_id": "41575606a09e47ebaa3132e1a3319772-shard-0",
-        "claimed_at": "2026-11-11T06:06:37.013173+00:00",
-        "lease_expires_at": "2026-11-11T12:06:37.013173+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987796",
       "prepared": {
@@ -189203,5 +189211,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:07:17.746030+00:00"
+  "updated_at": "2026-11-11T06:07:19.589505+00:00"
 }
