@@ -117219,13 +117219,6 @@
           "source_id": "33733528",
           "target_video_id": "30984809",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:43:24.438275+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33733528",
-          "target_video_id": "30984809",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:24:43.832609+00:00"
         },
         {
@@ -117234,6 +117227,13 @@
           "target_video_id": "30984809",
           "permanent": false,
           "attempted_at": "2026-11-11T02:07:34.780651+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33733528",
+          "target_video_id": "30984809",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:44:57.330422+00:00"
         }
       ],
       "last_plan": {
@@ -117247,12 +117247,6 @@
         "size_bytes": 45300000000,
         "prepared_at": "2026-11-10T17:42:53.934475+00:00",
         "relay_source_id": "33733528"
-      },
-      "claim": {
-        "worker_id": "b0783e246af8406baec5b476a0f4c2e6-shard-0",
-        "claimed_at": "2026-11-11T02:44:55.218440+00:00",
-        "lease_expires_at": "2026-11-11T08:44:55.218440+00:00",
-        "run_id": "42938376778"
       }
     },
     "3148": {
@@ -128063,7 +128057,7 @@
       "last_plan": {
         "source_id": "29545278",
         "display_name": "Tiger Cage 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:07:32.136711+00:00"
+        "planned_at": "2026-11-11T02:44:56.742960+00:00"
       },
       "previous_target_id": "30986656",
       "prepared": {
@@ -128071,6 +128065,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T01:24:07.236891+00:00",
         "relay_source_id": "29545278"
+      },
+      "claim": {
+        "worker_id": "d7001fc4e034453f84b1ddc4fd465c1d-shard-0",
+        "claimed_at": "2026-11-11T02:44:57.184736+00:00",
+        "lease_expires_at": "2026-11-11T08:44:57.184736+00:00",
+        "run_id": "42938376778"
       }
     },
     "16044": {
@@ -129583,7 +129583,7 @@
       "last_plan": {
         "source_id": "29187766",
         "display_name": "Mistakes (Chyby) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:44:54.812846+00:00"
+        "planned_at": "2026-11-11T02:44:56.943952+00:00"
       }
     },
     "15742": {
@@ -183664,5 +183664,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:44:55.218455+00:00"
+  "updated_at": "2026-11-11T02:44:57.330432+00:00"
 }
