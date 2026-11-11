@@ -132173,13 +132173,6 @@
           "source_id": "17465562",
           "target_video_id": "30987160",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:13:32.517800+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17465562",
-          "target_video_id": "30987160",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:22:05.481273+00:00"
         },
         {
@@ -132188,6 +132181,13 @@
           "target_video_id": "30987160",
           "permanent": false,
           "attempted_at": "2026-11-11T21:54:01.361986+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17465562",
+          "target_video_id": "30987160",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:16:41.087918+00:00"
         }
       ],
       "last_plan": {
@@ -136194,7 +136194,7 @@
       "last_plan": {
         "source_id": "19686604",
         "display_name": "Volným pádem 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:54:02.993532+00:00"
+        "planned_at": "2026-11-11T23:16:39.522839+00:00"
       },
       "previous_target_id": "30987716",
       "prepared": {
@@ -136202,6 +136202,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T05:48:01.035162+00:00",
         "relay_source_id": "19686604"
+      },
+      "claim": {
+        "worker_id": "2fd8b19009bd476998568435e0c19706-shard-0",
+        "claimed_at": "2026-11-11T23:16:40.319586+00:00",
+        "lease_expires_at": "2026-11-12T05:16:40.319586+00:00",
+        "run_id": "43102571398"
       }
     },
     "31573": {
@@ -146239,7 +146245,7 @@
       "last_plan": {
         "source_id": "30453519",
         "display_name": "Die Geschichte vom kleinen Muck 720p CZ Dabing",
-        "planned_at": "2026-11-11T23:16:37.324030+00:00"
+        "planned_at": "2026-11-11T23:16:39.862609+00:00"
       }
     },
     "30419": {
@@ -197875,5 +197881,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:16:37.324050+00:00"
+  "updated_at": "2026-11-11T23:16:41.087936+00:00"
 }
