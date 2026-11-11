@@ -116500,13 +116500,6 @@
           "source_id": "33853425",
           "target_video_id": "30984743",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:02:26.462217+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33853425",
-          "target_video_id": "30984743",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:37:19.037653+00:00"
         },
         {
@@ -116515,12 +116508,19 @@
           "target_video_id": "30984743",
           "permanent": false,
           "attempted_at": "2026-11-11T04:13:19.996942+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33853425",
+          "target_video_id": "30984743",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:53:05.152934+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33853425",
         "display_name": "Crime 101 4K CZ Dabing",
-        "planned_at": "2026-11-11T04:13:16.507284+00:00"
+        "planned_at": "2026-11-11T04:53:03.157272+00:00"
       },
       "previous_target_id": "30984743",
       "prepared": {
@@ -133333,11 +133333,22 @@
       "last_plan": {
         "source_id": "30521084",
         "display_name": "Vrazda v Ostrovni ulici (Vražda v Ostrovní ulici) SD CZ Dabing",
-        "planned_at": "2026-11-11T04:52:59.654338+00:00"
+        "planned_at": "2026-11-11T04:53:03.363738+00:00"
+      },
+      "claim": {
+        "worker_id": "5f62b88c70314aba8b2f317b3979db43-shard-0",
+        "claimed_at": "2026-11-11T04:53:03.871325+00:00",
+        "lease_expires_at": "2026-11-11T10:53:03.871325+00:00",
+        "run_id": "42938376778"
       }
     },
     "24242": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28002899",
+        "display_name": "Filosofská historie (History of Philosophy) SD CZ Dabing",
+        "planned_at": "2026-11-11T04:53:03.492571+00:00"
+      }
     },
     "15210": {
       "attempts": []
@@ -186838,5 +186849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:53:01.463748+00:00"
+  "updated_at": "2026-11-11T04:53:05.152945+00:00"
 }
