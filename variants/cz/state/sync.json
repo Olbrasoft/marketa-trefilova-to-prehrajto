@@ -141858,17 +141858,19 @@
       }
     },
     "13448": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30256707",
+          "target_video_id": "30988639",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:02:17.179229+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30256707",
         "display_name": "Tři chlapi v chalupě SD CZ Dabing",
         "planned_at": "2026-11-11T09:01:30.146747+00:00"
-      },
-      "claim": {
-        "worker_id": "12efb42cab8049808940f2d843e8a79e-shard-0",
-        "claimed_at": "2026-11-11T09:01:32.671864+00:00",
-        "lease_expires_at": "2026-11-11T15:01:32.671864+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988639",
       "prepared": {
@@ -194134,5 +194136,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:02:15.607004+00:00"
+  "updated_at": "2026-11-11T09:02:17.179250+00:00"
 }
