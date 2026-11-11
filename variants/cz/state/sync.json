@@ -106542,6 +106542,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T13:19:56.645605+00:00",
         "relay_source_id": "30581817"
+      },
+      "claim": {
+        "worker_id": "59d74f62ed1046a5966df2a1e7669bc5-shard-0",
+        "claimed_at": "2026-11-11T08:23:23.195255+00:00",
+        "lease_expires_at": "2026-11-11T14:23:23.195255+00:00",
+        "run_id": "42965310158"
       }
     },
     "11343": {
@@ -107146,13 +107152,6 @@
           "source_id": "34864618",
           "target_video_id": "30983175",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:42:33.699315+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34864618",
-          "target_video_id": "30983175",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:30:22.700750+00:00"
         },
         {
@@ -107161,6 +107160,13 @@
           "target_video_id": "30983175",
           "permanent": false,
           "attempted_at": "2026-11-11T07:25:09.419642+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34864618",
+          "target_video_id": "30983175",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:23:23.954405+00:00"
         }
       ],
       "last_plan": {
@@ -107174,12 +107180,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-10T13:54:18.671677+00:00",
         "relay_source_id": "34864618"
-      },
-      "claim": {
-        "worker_id": "317ca88e00664bc1be99c7e6669d4c99-shard-0",
-        "claimed_at": "2026-11-11T08:23:20.681258+00:00",
-        "lease_expires_at": "2026-11-11T14:23:20.681258+00:00",
-        "run_id": "42965310158"
       }
     },
     "2520": {
@@ -107252,7 +107252,7 @@
       "last_plan": {
         "source_id": "27820413",
         "display_name": "Tam na konečné (At the Terminus) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:25:12.289651+00:00"
+        "planned_at": "2026-11-11T08:23:23.405401+00:00"
       },
       "previous_target_id": "30983233",
       "prepared": {
@@ -140490,7 +140490,7 @@
       "last_plan": {
         "source_id": "34327399",
         "display_name": "The Peacock Feather (Pávie pierko) SD CZ Dabing",
-        "planned_at": "2026-11-11T08:23:21.181970+00:00"
+        "planned_at": "2026-11-11T08:23:23.691544+00:00"
       }
     },
     "16299": {
@@ -192954,5 +192954,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:23:21.417468+00:00"
+  "updated_at": "2026-11-11T08:23:23.954427+00:00"
 }
