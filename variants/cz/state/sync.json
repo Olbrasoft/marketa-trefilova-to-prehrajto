@@ -74390,13 +74390,6 @@
           "source_id": "31379501",
           "target_video_id": "30885416",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:18:02.696037+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31379501",
-          "target_video_id": "30885416",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:51:05.555741+00:00"
         },
         {
@@ -74405,6 +74398,13 @@
           "target_video_id": "30885416",
           "permanent": false,
           "attempted_at": "2026-11-11T03:23:43.786698+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31379501",
+          "target_video_id": "30885416",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:59:27.991993+00:00"
         }
       ],
       "last_plan": {
@@ -74418,12 +74418,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T08:02:43.047319+00:00",
         "relay_source_id": "31379501"
-      },
-      "claim": {
-        "worker_id": "c4c6f84c35534b91908b40689c5b47cb-shard-0",
-        "claimed_at": "2026-11-11T03:59:25.821729+00:00",
-        "lease_expires_at": "2026-11-11T09:59:25.821729+00:00",
-        "run_id": "42938376778"
       }
     },
     "25458": {
@@ -131888,7 +131882,7 @@
       "last_plan": {
         "source_id": "34787172",
         "display_name": "Brontosaurus 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:59:25.572581+00:00"
+        "planned_at": "2026-11-11T03:59:27.568773+00:00"
       }
     },
     "24237": {
@@ -185588,7 +185582,7 @@
       "last_plan": {
         "source_id": "22159844",
         "display_name": "Apocalypse Now Redux (Apocalypse Now) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:23:43.152593+00:00"
+        "planned_at": "2026-11-11T03:59:27.363234+00:00"
       },
       "previous_target_id": "30984960",
       "prepared": {
@@ -185596,9 +185590,15 @@
         "size_bytes": 14900000000,
         "prepared_at": "2026-11-10T18:20:07.517848+00:00",
         "relay_source_id": "22159844"
+      },
+      "claim": {
+        "worker_id": "7884b487faf849d0897b2de5e62bc89a-shard-0",
+        "claimed_at": "2026-11-11T03:59:27.846523+00:00",
+        "lease_expires_at": "2026-11-11T09:59:27.846523+00:00",
+        "run_id": "42938376778"
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:59:25.980375+00:00"
+  "updated_at": "2026-11-11T03:59:27.992006+00:00"
 }
