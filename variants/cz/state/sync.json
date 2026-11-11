@@ -29894,13 +29894,6 @@
           "source_id": "34850732",
           "target_video_id": "30723078",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:21:34.145417+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850732",
-          "target_video_id": "30723078",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:41:47.364229+00:00"
         },
         {
@@ -29909,6 +29902,13 @@
           "target_video_id": "30723078",
           "permanent": false,
           "attempted_at": "2026-11-11T18:09:59.530046+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850732",
+          "target_video_id": "30723078",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:28:34.100964+00:00"
         }
       ],
       "last_plan": {
@@ -56019,7 +56019,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:09:58.385921+00:00"
+        "planned_at": "2026-11-11T19:28:30.685796+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -56027,6 +56027,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "f13577d23d3e4b56ad0ca09811d7701f-shard-0",
+        "claimed_at": "2026-11-11T19:28:31.220947+00:00",
+        "lease_expires_at": "2026-11-12T01:28:31.220947+00:00",
+        "run_id": "43067513109"
       }
     },
     "24818": {
@@ -145544,7 +145550,7 @@
       "last_plan": {
         "source_id": "33806706",
         "display_name": "Friedas Fall 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:28:28.701772+00:00"
+        "planned_at": "2026-11-11T19:28:30.916531+00:00"
       }
     },
     "13952": {
@@ -197285,5 +197291,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:28:28.701793+00:00"
+  "updated_at": "2026-11-11T19:28:34.100986+00:00"
 }
