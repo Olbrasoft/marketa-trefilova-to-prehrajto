@@ -113535,7 +113535,7 @@
       "last_plan": {
         "source_id": "16147077",
         "display_name": "Panic Room 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:01:23.941375+00:00"
+        "planned_at": "2026-11-11T05:42:48.289702+00:00"
       },
       "previous_target_id": "30984104",
       "prepared": {
@@ -113543,6 +113543,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:27:35.431465+00:00",
         "relay_source_id": "16147077"
+      },
+      "claim": {
+        "worker_id": "2b5aa689a5e340b19f370d9d97bf6eb4-shard-0",
+        "claimed_at": "2026-11-11T05:42:48.773033+00:00",
+        "lease_expires_at": "2026-11-11T11:42:48.773033+00:00",
+        "run_id": "42938376778"
       }
     },
     "3064": {
@@ -133984,6 +133990,13 @@
           "target_video_id": "30987501",
           "permanent": false,
           "attempted_at": "2026-11-11T05:01:26.844671+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33712803",
+          "target_video_id": "30987501",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:42:48.940442+00:00"
         }
       ],
       "last_plan": {
@@ -133994,15 +134007,9 @@
       "previous_target_id": "30987501",
       "prepared": {
         "target_video_id": "30987501",
-        "size_bytes": 1410796390,
+        "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T05:00:48.593549+00:00",
         "relay_source_id": "33712803"
-      },
-      "claim": {
-        "worker_id": "48cf3fa46b46431da160166b47bb0ea0-shard-0",
-        "claimed_at": "2026-11-11T05:42:46.731106+00:00",
-        "lease_expires_at": "2026-11-11T11:42:46.731106+00:00",
-        "run_id": "42938376778"
       }
     },
     "36796": {
@@ -135154,7 +135161,7 @@
       "last_plan": {
         "source_id": "26541445",
         "display_name": "Hledá se táta (Hledá se táta!) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:42:46.309933+00:00"
+        "planned_at": "2026-11-11T05:42:48.498698+00:00"
       }
     },
     "17193": {
@@ -188389,5 +188396,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:42:46.731120+00:00"
+  "updated_at": "2026-11-11T05:42:48.940457+00:00"
 }
