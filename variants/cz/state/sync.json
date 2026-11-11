@@ -132147,13 +132147,6 @@
           "source_id": "17465562",
           "target_video_id": "30987160",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:32:59.268751+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17465562",
-          "target_video_id": "30987160",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:43:14.857335+00:00"
         },
         {
@@ -132162,6 +132155,13 @@
           "target_video_id": "30987160",
           "permanent": false,
           "attempted_at": "2026-11-11T12:51:35.342934+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17465562",
+          "target_video_id": "30987160",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:04:09.084212+00:00"
         }
       ],
       "last_plan": {
@@ -136168,7 +136168,7 @@
       "last_plan": {
         "source_id": "19686604",
         "display_name": "Volným pádem 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:51:33.559177+00:00"
+        "planned_at": "2026-11-11T14:04:07.253642+00:00"
       },
       "previous_target_id": "30987716",
       "prepared": {
@@ -136176,6 +136176,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T05:48:01.035162+00:00",
         "relay_source_id": "19686604"
+      },
+      "claim": {
+        "worker_id": "078bdd4110e84d528900084b86539bc1-shard-0",
+        "claimed_at": "2026-11-11T14:04:08.096713+00:00",
+        "lease_expires_at": "2026-11-11T20:04:08.096713+00:00",
+        "run_id": "43011363893"
       }
     },
     "31573": {
@@ -144416,7 +144422,7 @@
       "last_plan": {
         "source_id": "34134271",
         "display_name": "Definice lásky 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:04:05.101184+00:00"
+        "planned_at": "2026-11-11T14:04:07.603748+00:00"
       }
     },
     "37404": {
@@ -196393,5 +196399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:04:05.101200+00:00"
+  "updated_at": "2026-11-11T14:04:09.084229+00:00"
 }
