@@ -126254,17 +126254,19 @@
       "attempts": []
     },
     "11234": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673496",
+          "target_video_id": "30986337",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:11:50.080501+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673496",
         "display_name": "Death of a Corrupt Man (Mort d'un pourri) 1080p CZ Dabing",
         "planned_at": "2026-11-11T00:03:42.782579+00:00"
-      },
-      "claim": {
-        "worker_id": "469787840e0343a18ce670195b367213-shard-0",
-        "claimed_at": "2026-11-11T00:03:43.658720+00:00",
-        "lease_expires_at": "2026-11-11T06:03:43.658720+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986337",
       "prepared": {
@@ -180990,5 +180992,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:11:48.143775+00:00"
+  "updated_at": "2026-11-11T00:11:50.080520+00:00"
 }
