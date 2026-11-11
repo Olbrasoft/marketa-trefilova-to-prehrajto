@@ -113023,13 +113023,6 @@
           "source_id": "11995636",
           "target_video_id": "30984056",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:49:03.917257+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11995636",
-          "target_video_id": "30984056",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:26:45.211550+00:00"
         },
         {
@@ -113038,6 +113031,13 @@
           "target_video_id": "30984056",
           "permanent": false,
           "attempted_at": "2026-11-11T01:08:17.190448+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11995636",
+          "target_video_id": "30984056",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:49:27.966248+00:00"
         }
       ],
       "last_plan": {
@@ -113051,12 +113051,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T15:21:28.871383+00:00",
         "relay_source_id": "11995636"
-      },
-      "claim": {
-        "worker_id": "ac3979460627418496cb4f0c1c7d413f-shard-0",
-        "claimed_at": "2026-11-11T01:49:24.602235+00:00",
-        "lease_expires_at": "2026-11-11T07:49:24.602235+00:00",
-        "run_id": "42904278669"
       }
     },
     "2768": {
@@ -118349,7 +118343,7 @@
       "last_plan": {
         "source_id": "34602453",
         "display_name": "Creepshow 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:08:16.616821+00:00"
+        "planned_at": "2026-11-11T01:49:27.219677+00:00"
       },
       "previous_target_id": "30984871",
       "prepared": {
@@ -118357,6 +118351,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T17:59:55.466987+00:00",
         "relay_source_id": "34602453"
+      },
+      "claim": {
+        "worker_id": "1c8409d9a0b7453ca8e5392b71a738dc-shard-0",
+        "claimed_at": "2026-11-11T01:49:28.155521+00:00",
+        "lease_expires_at": "2026-11-11T07:49:28.155521+00:00",
+        "run_id": "42904278669"
       }
     },
     "2779": {
@@ -128084,7 +128084,7 @@
       "last_plan": {
         "source_id": "32146424",
         "display_name": "Racketeer (Рэкетир) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:49:24.176473+00:00"
+        "planned_at": "2026-11-11T01:49:27.523809+00:00"
       }
     },
     "2802": {
@@ -182405,5 +182405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:49:25.515050+00:00"
+  "updated_at": "2026-11-11T01:49:28.155546+00:00"
 }
