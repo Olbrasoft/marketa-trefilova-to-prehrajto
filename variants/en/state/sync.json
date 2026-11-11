@@ -33859,13 +33859,6 @@
           "source_id": "28930526",
           "target_video_id": "30984204",
           "permanent": false,
-          "attempted_at": "2026-11-11T17:55:18.998723+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28930526",
-          "target_video_id": "30984204",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:25:26.121215+00:00"
         },
         {
@@ -33874,6 +33867,13 @@
           "target_video_id": "30984204",
           "permanent": false,
           "attempted_at": "2026-11-11T18:55:31.858710+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28930526",
+          "target_video_id": "30984204",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:25:40.956465+00:00"
         }
       ],
       "last_plan": {
@@ -34096,7 +34096,7 @@
       "last_plan": {
         "source_id": "11947495",
         "display_name": "The Gangster, the Cop, the Devil (악인전) 1080p CZ Titulky",
-        "planned_at": "2026-11-11T18:55:34.100114+00:00"
+        "planned_at": "2026-11-11T19:25:39.889342+00:00"
       },
       "previous_target_id": "30984719",
       "prepared": {
@@ -34104,6 +34104,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T17:23:36.346391+00:00",
         "relay_source_id": "11947495"
+      },
+      "claim": {
+        "worker_id": "1af71fdecf20470399a4728b1e92d523-shard-0",
+        "claimed_at": "2026-11-11T19:25:40.103743+00:00",
+        "lease_expires_at": "2026-11-12T01:25:40.103743+00:00",
+        "run_id": "43067513109"
       }
     },
     "12251": {
@@ -97247,5 +97253,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:25:37.437874+00:00"
+  "updated_at": "2026-11-11T19:25:40.956485+00:00"
 }
