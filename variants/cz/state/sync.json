@@ -108746,6 +108746,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T14:24:13.749781+00:00",
         "relay_source_id": "33810503"
+      },
+      "claim": {
+        "worker_id": "bad8959f0b3c4d998cf7acf71b7bc933-shard-0",
+        "claimed_at": "2026-11-11T12:37:32.709963+00:00",
+        "lease_expires_at": "2026-11-11T18:37:32.709963+00:00",
+        "run_id": "43011363893"
       }
     },
     "12964": {
@@ -134158,7 +134164,7 @@
       "last_plan": {
         "source_id": "32363401",
         "display_name": "I'll Be Good, Old Man! („Já už budu hodný, dědečku!“) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:26:58.560932+00:00"
+        "planned_at": "2026-11-11T12:37:32.943670+00:00"
       },
       "previous_target_id": "30987499",
       "prepared": {
@@ -143395,17 +143401,19 @@
       "attempts": []
     },
     "28963": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22069235",
+          "target_video_id": "30989956",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:37:34.259822+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22069235",
         "display_name": "Prípad pro malíre (Případ pro malíře) 1080p CZ Dabing",
         "planned_at": "2026-11-11T12:36:02.333601+00:00"
-      },
-      "claim": {
-        "worker_id": "bc35086f986e425094b0cc6fb1a6810e-shard-0",
-        "claimed_at": "2026-11-11T12:36:03.643256+00:00",
-        "lease_expires_at": "2026-11-11T18:36:03.643256+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30989956",
       "prepared": {
@@ -143423,7 +143431,7 @@
       "last_plan": {
         "source_id": "34922658",
         "display_name": "Death Chooses (Smrt si vybírá) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:37:30.684797+00:00"
+        "planned_at": "2026-11-11T12:37:33.392099+00:00"
       }
     },
     "12689": {
@@ -195506,5 +195514,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:37:30.990328+00:00"
+  "updated_at": "2026-11-11T12:37:34.259835+00:00"
 }
