@@ -138469,13 +138469,6 @@
           "source_id": "34898047",
           "target_video_id": "30987922",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:44:31.877213+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34898047",
-          "target_video_id": "30987922",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:44:28.430513+00:00"
         },
         {
@@ -138484,6 +138477,13 @@
           "target_video_id": "30987922",
           "permanent": false,
           "attempted_at": "2026-11-11T09:57:31.340604+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34898047",
+          "target_video_id": "30987922",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:03:13.081445+00:00"
         }
       ],
       "last_plan": {
@@ -142152,7 +142152,7 @@
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Broken Promise 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:57:31.564055+00:00"
+        "planned_at": "2026-11-11T13:03:11.333966+00:00"
       },
       "previous_target_id": "30988560",
       "prepared": {
@@ -142160,6 +142160,12 @@
         "size_bytes": 15100000000,
         "prepared_at": "2026-11-11T08:43:22.098273+00:00",
         "relay_source_id": "29645616"
+      },
+      "claim": {
+        "worker_id": "bcfc17c6dbe141acbe6494571850a681-shard-0",
+        "claimed_at": "2026-11-11T13:03:12.309011+00:00",
+        "lease_expires_at": "2026-11-11T19:03:12.309011+00:00",
+        "run_id": "43011363893"
       }
     },
     "36843": {
@@ -143766,7 +143772,7 @@
       "last_plan": {
         "source_id": "29153461",
         "display_name": "Murder in the Finistère (Les secrets du Finistère - La disparue de Douarnenez) SD CZ Dabing",
-        "planned_at": "2026-11-11T13:03:08.954871+00:00"
+        "planned_at": "2026-11-11T13:03:11.722831+00:00"
       }
     },
     "26278": {
@@ -195821,5 +195827,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:03:09.259995+00:00"
+  "updated_at": "2026-11-11T13:03:13.081460+00:00"
 }
