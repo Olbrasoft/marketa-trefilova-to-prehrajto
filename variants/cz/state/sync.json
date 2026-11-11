@@ -109337,13 +109337,6 @@
           "source_id": "24035589",
           "target_video_id": "30983684",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:06:04.330052+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24035589",
-          "target_video_id": "30983684",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:43:41.175626+00:00"
         },
         {
@@ -109352,6 +109345,13 @@
           "target_video_id": "30983684",
           "permanent": false,
           "attempted_at": "2026-11-11T03:16:28.912226+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24035589",
+          "target_video_id": "30983684",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:51:33.856532+00:00"
         }
       ],
       "last_plan": {
@@ -112100,7 +112100,7 @@
       "last_plan": {
         "source_id": "34715290",
         "display_name": "Lion With a White Mane (Lev s bílou hřívou) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:16:28.296950+00:00"
+        "planned_at": "2026-11-11T03:51:32.372322+00:00"
       },
       "previous_target_id": "30983927",
       "prepared": {
@@ -112108,6 +112108,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T15:04:18.410499+00:00",
         "relay_source_id": "34715290"
+      },
+      "claim": {
+        "worker_id": "d3c40953f0474f538c9228681579028b-shard-0",
+        "claimed_at": "2026-11-11T03:51:32.860584+00:00",
+        "lease_expires_at": "2026-11-11T09:51:32.860584+00:00",
+        "run_id": "42938376778"
       }
     },
     "32416": {
@@ -131625,7 +131631,7 @@
       "last_plan": {
         "source_id": "31648494",
         "display_name": "Městečko na dlani 720p CZ Dabing",
-        "planned_at": "2026-11-11T03:51:30.580112+00:00"
+        "planned_at": "2026-11-11T03:51:32.585639+00:00"
       }
     },
     "24072": {
@@ -185391,5 +185397,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:51:30.770931+00:00"
+  "updated_at": "2026-11-11T03:51:33.856550+00:00"
 }
