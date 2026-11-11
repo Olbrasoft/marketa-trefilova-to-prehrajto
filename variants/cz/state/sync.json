@@ -128534,7 +128534,7 @@
       "last_plan": {
         "source_id": "32146424",
         "display_name": "Racketeer (Рэкетир) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:42:03.531532+00:00"
+        "planned_at": "2026-11-11T18:52:07.482055+00:00"
       },
       "previous_target_id": "30986739",
       "prepared": {
@@ -128542,6 +128542,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T01:52:00.606947+00:00",
         "relay_source_id": "32146424"
+      },
+      "claim": {
+        "worker_id": "1380c05dbb324722a7e666954f3fda56-shard-0",
+        "claimed_at": "2026-11-11T18:52:07.958172+00:00",
+        "lease_expires_at": "2026-11-12T00:52:07.958172+00:00",
+        "run_id": "43067513109"
       }
     },
     "2802": {
@@ -145325,17 +145331,19 @@
       }
     },
     "17514": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29279358",
+          "target_video_id": "30993005",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:52:09.658956+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29279358",
         "display_name": "Le Mort de la plage SD CZ Dabing",
         "planned_at": "2026-11-11T18:47:14.175943+00:00"
-      },
-      "claim": {
-        "worker_id": "308c1cc336264b9ab928216288f2c87a-shard-0",
-        "claimed_at": "2026-11-11T18:47:18.398405+00:00",
-        "lease_expires_at": "2026-11-12T00:47:18.398405+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30993005",
       "prepared": {
@@ -145371,7 +145379,7 @@
       "last_plan": {
         "source_id": "26422192",
         "display_name": "Priehrada SD CZ Dabing",
-        "planned_at": "2026-11-11T18:52:04.369944+00:00"
+        "planned_at": "2026-11-11T18:52:07.692667+00:00"
       }
     },
     "32867": {
@@ -197157,5 +197165,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:52:05.811288+00:00"
+  "updated_at": "2026-11-11T18:52:09.658976+00:00"
 }
