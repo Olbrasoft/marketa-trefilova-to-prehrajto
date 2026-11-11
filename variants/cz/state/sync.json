@@ -131458,17 +131458,19 @@
       "attempts": []
     },
     "24164": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29186186",
+          "target_video_id": "30987146",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:48:09.232739+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29186186",
         "display_name": "The Trap (1950) SD CZ Dabing",
         "planned_at": "2026-11-11T03:47:25.046682+00:00"
-      },
-      "claim": {
-        "worker_id": "80f71b774a9443a18aef04d9a25dbd17-shard-0",
-        "claimed_at": "2026-11-11T03:47:27.256686+00:00",
-        "lease_expires_at": "2026-11-11T09:47:27.256686+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987146",
       "prepared": {
@@ -185300,5 +185302,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:48:06.881356+00:00"
+  "updated_at": "2026-11-11T03:48:09.232757+00:00"
 }
