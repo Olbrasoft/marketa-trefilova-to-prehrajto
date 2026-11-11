@@ -130189,13 +130189,6 @@
           "source_id": "29187766",
           "target_video_id": "30986940",
           "permanent": false,
-          "attempted_at": "2026-11-11T09:54:38.278899+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29187766",
-          "target_video_id": "30986940",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:00:36.166087+00:00"
         },
         {
@@ -130204,12 +130197,19 @@
           "target_video_id": "30986940",
           "permanent": false,
           "attempted_at": "2026-11-11T14:17:57.783485+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29187766",
+          "target_video_id": "30986940",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:35:30.497568+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29187766",
         "display_name": "Mistakes (Chyby) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:17:53.744619+00:00"
+        "planned_at": "2026-11-11T15:35:27.749112+00:00"
       },
       "previous_target_id": "30986940",
       "prepared": {
@@ -144834,14 +144834,25 @@
       "last_plan": {
         "source_id": "27526797",
         "display_name": "Riot (2018) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:35:22.357587+00:00"
+        "planned_at": "2026-11-11T15:35:28.105905+00:00"
+      },
+      "claim": {
+        "worker_id": "03ab3d4ebd634d3ebb9574c83781ba04-shard-0",
+        "claimed_at": "2026-11-11T15:35:28.921872+00:00",
+        "lease_expires_at": "2026-11-11T21:35:28.921872+00:00",
+        "run_id": "43011363893"
       }
     },
     "37369": {
       "attempts": []
     },
     "3578": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32084427",
+        "display_name": "Broken Voices (Sbormistr) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T15:35:28.303095+00:00"
+      }
     },
     "12576": {
       "attempts": []
@@ -196725,5 +196736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:35:24.383421+00:00"
+  "updated_at": "2026-11-11T15:35:30.497587+00:00"
 }
