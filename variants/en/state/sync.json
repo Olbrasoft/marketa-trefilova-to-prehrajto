@@ -11442,7 +11442,7 @@
       "last_plan": {
         "source_id": "32388547",
         "display_name": "One Battle After Another 4K CZ Titulky",
-        "planned_at": "2026-11-11T00:33:12.032788+00:00"
+        "planned_at": "2026-11-11T01:03:16.534194+00:00"
       },
       "previous_target_id": "30681595",
       "prepared": {
@@ -11450,6 +11450,12 @@
         "size_bytes": 18100000000,
         "prepared_at": "2026-11-01T00:33:09.657864+00:00",
         "relay_source_id": "32388547"
+      },
+      "claim": {
+        "worker_id": "0394ce42af6245cab108ad7b1fc76e23-shard-0",
+        "claimed_at": "2026-11-11T01:03:16.819538+00:00",
+        "lease_expires_at": "2026-11-11T07:03:16.819538+00:00",
+        "run_id": "42904278669"
       }
     },
     "822": {
@@ -17599,13 +17605,6 @@
           "source_id": "7674339",
           "target_video_id": "30763383",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:32:56.958236+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7674339",
-          "target_video_id": "30763383",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:03:06.351040+00:00"
         },
         {
@@ -17614,6 +17613,13 @@
           "target_video_id": "30763383",
           "permanent": false,
           "attempted_at": "2026-11-11T00:33:12.832932+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7674339",
+          "target_video_id": "30763383",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:03:16.957937+00:00"
         }
       ],
       "last_plan": {
@@ -17627,12 +17633,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
-      },
-      "claim": {
-        "worker_id": "333f56f55926434eb0750827900f6e97-shard-0",
-        "claimed_at": "2026-11-11T01:03:13.361105+00:00",
-        "lease_expires_at": "2026-11-11T07:03:13.361105+00:00",
-        "run_id": "42904278669"
       }
     },
     "24279": {
@@ -96333,5 +96333,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:03:13.900353+00:00"
+  "updated_at": "2026-11-11T01:03:16.957958+00:00"
 }
