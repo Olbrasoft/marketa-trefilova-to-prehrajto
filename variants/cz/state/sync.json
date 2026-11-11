@@ -108404,13 +108404,6 @@
           "source_id": "22546836",
           "target_video_id": "30983603",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:15:35.526029+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22546836",
-          "target_video_id": "30983603",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:55:37.855556+00:00"
         },
         {
@@ -108419,6 +108412,13 @@
           "target_video_id": "30983603",
           "permanent": false,
           "attempted_at": "2026-11-11T05:36:38.760871+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22546836",
+          "target_video_id": "30983603",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:22:56.671854+00:00"
         }
       ],
       "last_plan": {
@@ -131662,7 +131662,7 @@
       "last_plan": {
         "source_id": "34720992",
         "display_name": "The World According to My Dad (Jiříkovo vidění) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:36:38.932046+00:00"
+        "planned_at": "2026-11-11T06:22:55.368436+00:00"
       },
       "previous_target_id": "30987116",
       "prepared": {
@@ -131670,6 +131670,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T03:38:59.210885+00:00",
         "relay_source_id": "34720992"
+      },
+      "claim": {
+        "worker_id": "0a532a4e7a8e419f929252207148be1a-shard-0",
+        "claimed_at": "2026-11-11T06:22:56.075577+00:00",
+        "lease_expires_at": "2026-11-11T12:22:56.075577+00:00",
+        "run_id": "42965310158"
       }
     },
     "24172": {
@@ -136524,7 +136530,7 @@
       "last_plan": {
         "source_id": "34869110",
         "display_name": "Kopretiny pro zámeckou paní 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:22:53.025358+00:00"
+        "planned_at": "2026-11-11T06:22:55.719507+00:00"
       }
     },
     "24384": {
@@ -189555,5 +189561,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:22:53.349189+00:00"
+  "updated_at": "2026-11-11T06:22:56.671880+00:00"
 }
