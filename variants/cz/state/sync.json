@@ -116306,6 +116306,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T17:26:28.031408+00:00",
         "relay_source_id": "15937877"
+      },
+      "claim": {
+        "worker_id": "fdbe2215dbc34988b5e0e7f0727f1a46-shard-0",
+        "claimed_at": "2026-11-11T02:29:07.871454+00:00",
+        "lease_expires_at": "2026-11-11T08:29:07.871454+00:00",
+        "run_id": "42938376778"
       }
     },
     "3005": {
@@ -116483,7 +116489,7 @@
       "last_plan": {
         "source_id": "34150039",
         "display_name": "The Long Kiss Goodnight 4K CZ Dabing",
-        "planned_at": "2026-11-11T01:48:58.392984+00:00"
+        "planned_at": "2026-11-11T02:29:08.026392+00:00"
       },
       "previous_target_id": "30984742",
       "prepared": {
@@ -128944,17 +128950,19 @@
       }
     },
     "2932": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15144262",
+          "target_video_id": "30986885",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:29:08.164570+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15144262",
         "display_name": "The Salt Prince (Soľ nad zlato) SD CZ Dabing",
         "planned_at": "2026-11-11T02:28:23.860917+00:00"
-      },
-      "claim": {
-        "worker_id": "cf18cc56f8184d36ba6689271995b757-shard-0",
-        "claimed_at": "2026-11-11T02:28:25.615050+00:00",
-        "lease_expires_at": "2026-11-11T08:28:25.615050+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986885",
       "prepared": {
@@ -183143,5 +183151,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:29:06.339926+00:00"
+  "updated_at": "2026-11-11T02:29:08.164586+00:00"
 }
