@@ -128707,6 +128707,13 @@
           "target_video_id": "30986773",
           "permanent": false,
           "attempted_at": "2026-11-11T02:05:37.365963+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29464471",
+          "target_video_id": "30986773",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:43:16.801874+00:00"
         }
       ],
       "last_plan": {
@@ -128717,15 +128724,9 @@
       "previous_target_id": "30986773",
       "prepared": {
         "target_video_id": "30986773",
-        "size_bytes": 3000708153,
+        "size_bytes": 3000000000,
         "prepared_at": "2026-11-11T02:04:06.468004+00:00",
         "relay_source_id": "29464471"
-      },
-      "claim": {
-        "worker_id": "6038c9272fe440d48fabb3a18a440460-shard-0",
-        "claimed_at": "2026-11-11T02:43:14.471894+00:00",
-        "lease_expires_at": "2026-11-11T08:43:14.471894+00:00",
-        "run_id": "42938376778"
       }
     },
     "13953": {
@@ -129462,17 +129463,19 @@
       }
     },
     "13201": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34680568",
+          "target_video_id": "30986927",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:43:16.934792+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34680568",
         "display_name": "The Brave Blacksmith (O statečném kováři) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:42:34.598845+00:00"
-      },
-      "claim": {
-        "worker_id": "f13c9b9487b34c80a3c4d677c956d24d-shard-0",
-        "claimed_at": "2026-11-11T02:42:36.705638+00:00",
-        "lease_expires_at": "2026-11-11T08:42:36.705638+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986927",
       "prepared": {
@@ -183607,5 +183610,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:43:15.360697+00:00"
+  "updated_at": "2026-11-11T02:43:16.934803+00:00"
 }
