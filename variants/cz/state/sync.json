@@ -109479,6 +109479,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:35:21.741504+00:00",
         "relay_source_id": "35067153"
+      },
+      "claim": {
+        "worker_id": "51dbf33ba2cf4bf48c02b3277a8b9498-shard-0",
+        "claimed_at": "2026-11-11T02:09:25.853004+00:00",
+        "lease_expires_at": "2026-11-11T08:09:25.853004+00:00",
+        "run_id": "42904278669"
       }
     },
     "24095": {
@@ -109508,7 +109514,7 @@
       "last_plan": {
         "source_id": "29678156",
         "display_name": "The River (Young Love) SD CZ Dabing",
-        "planned_at": "2026-11-11T01:26:38.466938+00:00"
+        "planned_at": "2026-11-11T02:09:26.091966+00:00"
       },
       "previous_target_id": "30983692",
       "prepared": {
@@ -125486,13 +125492,6 @@
           "source_id": "20219827",
           "target_video_id": "30985951",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:08:27.760964+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20219827",
-          "target_video_id": "30985951",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:45:10.844325+00:00"
         },
         {
@@ -125501,6 +125500,13 @@
           "target_video_id": "30985951",
           "permanent": false,
           "attempted_at": "2026-11-11T01:26:34.933451+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20219827",
+          "target_video_id": "30985951",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:09:26.833481+00:00"
         }
       ],
       "last_plan": {
@@ -125514,12 +125520,6 @@
         "size_bytes": 875700000,
         "prepared_at": "2026-11-10T22:45:35.481794+00:00",
         "relay_source_id": "20219827"
-      },
-      "claim": {
-        "worker_id": "f3e74327cbb44d4da454ec496cc7dcb8-shard-0",
-        "claimed_at": "2026-11-11T02:09:22.863517+00:00",
-        "lease_expires_at": "2026-11-11T08:09:22.863517+00:00",
-        "run_id": "42904278669"
       }
     },
     "2839": {
@@ -128564,7 +128564,7 @@
       "last_plan": {
         "source_id": "34993388",
         "display_name": "Love Me Tender (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:09:23.713514+00:00"
+        "planned_at": "2026-11-11T02:09:26.401298+00:00"
       }
     },
     "14540": {
@@ -182813,5 +182813,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:09:23.713531+00:00"
+  "updated_at": "2026-11-11T02:09:26.833503+00:00"
 }
