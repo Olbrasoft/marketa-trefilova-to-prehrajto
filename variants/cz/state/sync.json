@@ -122718,7 +122718,7 @@
       "last_plan": {
         "source_id": "33589689",
         "display_name": "Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:46:50.363387+00:00"
+        "planned_at": "2026-11-11T19:01:57.413808+00:00"
       },
       "previous_target_id": "30985541",
       "prepared": {
@@ -122726,6 +122726,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T20:10:08.286827+00:00",
         "relay_source_id": "33589689"
+      },
+      "claim": {
+        "worker_id": "6850a6fde3734b1bbf0f9a800daee2e4-shard-0",
+        "claimed_at": "2026-11-11T19:01:58.118596+00:00",
+        "lease_expires_at": "2026-11-12T01:01:58.118596+00:00",
+        "run_id": "43067513109"
       }
     },
     "27916": {
@@ -137780,13 +137786,6 @@
           "source_id": "35068840",
           "target_video_id": "30987861",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:53:55.684685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35068840",
-          "target_video_id": "30987861",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:14:45.738301+00:00"
         },
         {
@@ -137795,6 +137794,13 @@
           "target_video_id": "30987861",
           "permanent": false,
           "attempted_at": "2026-11-11T17:46:48.951233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35068840",
+          "target_video_id": "30987861",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:01:57.973727+00:00"
         }
       ],
       "last_plan": {
@@ -137808,12 +137814,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T06:29:19.776162+00:00",
         "relay_source_id": "35068840"
-      },
-      "claim": {
-        "worker_id": "77d42f0f6a0f48e18aafe1e67adf5c6c-shard-0",
-        "claimed_at": "2026-11-11T19:01:54.969300+00:00",
-        "lease_expires_at": "2026-11-12T01:01:54.969300+00:00",
-        "run_id": "43067513109"
       }
     },
     "11005": {
@@ -145437,7 +145437,7 @@
       "last_plan": {
         "source_id": "30242443",
         "display_name": "Goat (Koza) (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:01:54.671121+00:00"
+        "planned_at": "2026-11-11T19:01:57.638915+00:00"
       }
     },
     "17373": {
@@ -197211,5 +197211,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:01:55.710345+00:00"
+  "updated_at": "2026-11-11T19:01:58.118622+00:00"
 }
