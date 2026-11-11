@@ -36092,17 +36092,19 @@
       "attempts": []
     },
     "18422": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22898145",
+          "target_video_id": "30992304",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:46:51.202097+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22898145",
         "display_name": "Generation Iron 720p CZ Titulky",
         "planned_at": "2026-11-11T17:24:19.219322+00:00"
-      },
-      "claim": {
-        "worker_id": "2b4b870e057b424eb73fb659cc6f1688-shard-0",
-        "claimed_at": "2026-11-11T17:24:19.368654+00:00",
-        "lease_expires_at": "2026-11-11T23:24:19.368654+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30992304",
       "prepared": {
@@ -97212,5 +97214,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:27:14.276928+00:00"
+  "updated_at": "2026-11-11T17:46:51.202116+00:00"
 }
