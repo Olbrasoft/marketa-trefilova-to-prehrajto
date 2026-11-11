@@ -120859,13 +120859,6 @@
           "source_id": "33730801",
           "target_video_id": "30985060",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:04:12.938623+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33730801",
-          "target_video_id": "30985060",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:19:14.212523+00:00"
         },
         {
@@ -120874,6 +120867,13 @@
           "target_video_id": "30985060",
           "permanent": false,
           "attempted_at": "2026-11-11T20:30:24.307154+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33730801",
+          "target_video_id": "30985060",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:00:02.210339+00:00"
         }
       ],
       "last_plan": {
@@ -136388,7 +136388,7 @@
       "last_plan": {
         "source_id": "15441977",
         "display_name": "Jacob, Mimmi and the Talking Dogs (Jēkabs, Mimmi un runājošie suņi) 720p CZ Dabing",
-        "planned_at": "2026-11-11T20:30:27.644558+00:00"
+        "planned_at": "2026-11-11T22:00:00.881124+00:00"
       },
       "previous_target_id": "30987740",
       "prepared": {
@@ -136396,6 +136396,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T05:51:39.961282+00:00",
         "relay_source_id": "15441977"
+      },
+      "claim": {
+        "worker_id": "3454f1668ad54211a2e003166d7bda88-shard-0",
+        "claimed_at": "2026-11-11T22:00:01.899792+00:00",
+        "lease_expires_at": "2026-11-12T04:00:01.899792+00:00",
+        "run_id": "43102571398"
       }
     },
     "24067": {
@@ -146060,7 +146066,7 @@
       "last_plan": {
         "source_id": "34660297",
         "display_name": "A Pilot Tale (Balada o pilotovi) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:59:56.640875+00:00"
+        "planned_at": "2026-11-11T22:00:01.216611+00:00"
       }
     },
     "11525": {
@@ -197734,5 +197740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:59:56.894202+00:00"
+  "updated_at": "2026-11-11T22:00:02.210359+00:00"
 }
