@@ -112335,13 +112335,6 @@
           "source_id": "12192492",
           "target_video_id": "30983936",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:06:16.875592+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12192492",
-          "target_video_id": "30983936",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:22:10.109245+00:00"
         },
         {
@@ -112350,6 +112343,13 @@
           "target_video_id": "30983936",
           "permanent": false,
           "attempted_at": "2026-11-11T20:33:14.543779+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12192492",
+          "target_video_id": "30983936",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:02:42.689188+00:00"
         }
       ],
       "last_plan": {
@@ -124825,7 +124825,7 @@
       "last_plan": {
         "source_id": "34651010",
         "display_name": "The Killing of Two Lovers 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:33:15.994359+00:00"
+        "planned_at": "2026-11-11T22:02:41.128319+00:00"
       },
       "previous_target_id": "30985812",
       "prepared": {
@@ -124833,6 +124833,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T22:03:35.849945+00:00",
         "relay_source_id": "34651010"
+      },
+      "claim": {
+        "worker_id": "82543d9ec6ae4a25a6d0a6e30e41ead2-shard-0",
+        "claimed_at": "2026-11-11T22:02:41.945184+00:00",
+        "lease_expires_at": "2026-11-12T04:02:41.945184+00:00",
+        "run_id": "43102571398"
       }
     },
     "22402": {
@@ -146060,7 +146066,7 @@
       "last_plan": {
         "source_id": "34660297",
         "display_name": "A Pilot Tale (Balada o pilotovi) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:02:38.460307+00:00"
+        "planned_at": "2026-11-11T22:02:41.466139+00:00"
       }
     },
     "11525": {
@@ -197734,5 +197740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:02:38.729057+00:00"
+  "updated_at": "2026-11-11T22:02:42.689209+00:00"
 }
