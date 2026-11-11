@@ -645,3 +645,4 @@ Attach subtitles only after target processing has finished.
 | Generation Iron 720p CZ Titulky | 30992304 | https://sdilej.cz/22898145/generation-iron.mkv | Extract Czech track from exact source after processing |
 | Harrison's Flowers SD CZ Titulky | 30992832 | https://sdilej.cz/27735775/harrisonovy-kvety-harrison-s-flowers-2000-cz-tit.mkv | Extract Czech track from exact source after processing |
 | La cocina 1080p CZ Titulky | 30994375 | https://sdilej.cz/30864866/la.cocina-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| In the Shadows (Ve stínu) 1080p CZ Titulky | 30994567 | https://sdilej.cz/18714751/ve.stinu.2012.1080p.mkv | Extract Czech track from exact source after processing |
