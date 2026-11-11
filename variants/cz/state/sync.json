@@ -119708,6 +119708,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T18:28:45.684654+00:00",
         "relay_source_id": "14652595"
+      },
+      "claim": {
+        "worker_id": "53bda6c4fb7b4b0ca6e79759959e2c0e-shard-0",
+        "claimed_at": "2026-11-11T13:31:05.218949+00:00",
+        "lease_expires_at": "2026-11-11T19:31:05.218949+00:00",
+        "run_id": "43011363893"
       }
     },
     "23324": {
@@ -144084,17 +144090,19 @@
       "attempts": []
     },
     "8296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31629620",
+          "target_video_id": "30990411",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:31:05.429727+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31629620",
         "display_name": "Monstrum (2017) 1080p CZ Dabing",
         "planned_at": "2026-11-11T13:28:14.485800+00:00"
-      },
-      "claim": {
-        "worker_id": "c3ce95c0240a42068e695200eccbbf56-shard-0",
-        "claimed_at": "2026-11-11T13:28:17.956655+00:00",
-        "lease_expires_at": "2026-11-11T19:28:17.956655+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990411",
       "prepared": {
@@ -196135,5 +196143,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:31:03.385690+00:00"
+  "updated_at": "2026-11-11T13:31:05.429747+00:00"
 }
