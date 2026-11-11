@@ -115400,13 +115400,6 @@
           "source_id": "33509401",
           "target_video_id": "30984644",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:07:29.541510+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33509401",
-          "target_video_id": "30984644",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:44:55.088336+00:00"
         },
         {
@@ -115415,6 +115408,13 @@
           "target_video_id": "30984644",
           "permanent": false,
           "attempted_at": "2026-11-11T03:17:46.893130+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33509401",
+          "target_video_id": "30984644",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:52:50.732226+00:00"
         }
       ],
       "last_plan": {
@@ -117239,7 +117239,7 @@
       "last_plan": {
         "source_id": "33733528",
         "display_name": "Storks 4K CZ Dabing",
-        "planned_at": "2026-11-11T03:17:46.416571+00:00"
+        "planned_at": "2026-11-11T03:52:49.447988+00:00"
       },
       "previous_target_id": "30984809",
       "prepared": {
@@ -117247,6 +117247,12 @@
         "size_bytes": 45300000000,
         "prepared_at": "2026-11-10T17:42:53.934475+00:00",
         "relay_source_id": "33733528"
+      },
+      "claim": {
+        "worker_id": "f650bd8add3c4dbe87cbfb6902bd9e7c-shard-0",
+        "claimed_at": "2026-11-11T03:52:49.928169+00:00",
+        "lease_expires_at": "2026-11-11T09:52:49.928169+00:00",
+        "run_id": "42938376778"
       }
     },
     "3148": {
@@ -131684,7 +131690,7 @@
       "last_plan": {
         "source_id": "34715394",
         "display_name": "Káta a krokodýl (Káťa a krokodýl) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:52:47.705423+00:00"
+        "planned_at": "2026-11-11T03:52:49.653447+00:00"
       }
     },
     "23538": {
@@ -185438,5 +185444,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:52:47.861590+00:00"
+  "updated_at": "2026-11-11T03:52:50.732236+00:00"
 }
