@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:22:59.631071+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:34:29.078483+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-11T22:03:44.753321+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:25:17.289928+00:00"
         }
       ],
       "last_plan": {
@@ -134729,7 +134729,7 @@
       "last_plan": {
         "source_id": "35068765",
         "display_name": "Veronika, proste Nika (Veronika, prostě Nika) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:03:43.665314+00:00"
+        "planned_at": "2026-11-11T23:25:15.435749+00:00"
       },
       "previous_target_id": "30987562",
       "prepared": {
@@ -134737,6 +134737,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T05:12:28.986309+00:00",
         "relay_source_id": "35068765"
+      },
+      "claim": {
+        "worker_id": "bca7ee49825d42c3abaee143006b0dfa-shard-0",
+        "claimed_at": "2026-11-11T23:25:16.231762+00:00",
+        "lease_expires_at": "2026-11-12T05:25:16.231762+00:00",
+        "run_id": "43102571398"
       }
     },
     "13853": {
@@ -146278,7 +146284,7 @@
       "last_plan": {
         "source_id": "13583452",
         "display_name": "To Walk with Lions 720p CZ Dabing",
-        "planned_at": "2026-11-11T23:25:13.505163+00:00"
+        "planned_at": "2026-11-11T23:25:15.762522+00:00"
       }
     },
     "29231": {
@@ -197902,5 +197908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:25:13.505183+00:00"
+  "updated_at": "2026-11-11T23:25:17.289946+00:00"
 }
