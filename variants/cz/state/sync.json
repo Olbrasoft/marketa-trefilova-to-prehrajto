@@ -128041,13 +128041,6 @@
           "source_id": "7866512",
           "target_video_id": "30986655",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:38:56.543291+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7866512",
-          "target_video_id": "30986655",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:37:45.708540+00:00"
         },
         {
@@ -128056,6 +128049,13 @@
           "target_video_id": "30986655",
           "permanent": false,
           "attempted_at": "2026-11-11T09:48:56.974074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7866512",
+          "target_video_id": "30986655",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:56:17.402579+00:00"
         }
       ],
       "last_plan": {
@@ -141866,7 +141866,7 @@
       "last_plan": {
         "source_id": "28985383",
         "display_name": "The Master (1980) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:48:58.524139+00:00"
+        "planned_at": "2026-11-11T12:56:15.374365+00:00"
       },
       "previous_target_id": "30988518",
       "prepared": {
@@ -141874,6 +141874,12 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-11-11T08:37:11.035402+00:00",
         "relay_source_id": "28985383"
+      },
+      "claim": {
+        "worker_id": "a36281edd3a9499f88dd3c61538f940a-shard-0",
+        "claimed_at": "2026-11-11T12:56:16.450526+00:00",
+        "lease_expires_at": "2026-11-11T18:56:16.450526+00:00",
+        "run_id": "43011363893"
       }
     },
     "26163": {
@@ -143655,7 +143661,7 @@
       "last_plan": {
         "source_id": "29335672",
         "display_name": "Dora: Say Hola to Adventure! 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:56:12.968379+00:00"
+        "planned_at": "2026-11-11T12:56:15.747432+00:00"
       }
     },
     "11013": {
@@ -195711,5 +195717,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:56:13.270115+00:00"
+  "updated_at": "2026-11-11T12:56:17.402593+00:00"
 }
