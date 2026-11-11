@@ -145858,17 +145858,19 @@
       "attempts": []
     },
     "13485": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30615027",
+          "target_video_id": "30993833",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:49:15.795396+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30615027",
         "display_name": "Freon Ghost (Freonový duch) SD CZ Dabing",
         "planned_at": "2026-11-11T20:41:54.860430+00:00"
-      },
-      "claim": {
-        "worker_id": "8069eb578e3f44a79b54959be90b18a5-shard-0",
-        "claimed_at": "2026-11-11T20:41:55.359850+00:00",
-        "lease_expires_at": "2026-11-12T02:41:55.359850+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30993833",
       "prepared": {
@@ -197582,5 +197584,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:49:14.189902+00:00"
+  "updated_at": "2026-11-11T20:49:15.795413+00:00"
 }
