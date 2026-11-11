@@ -108145,13 +108145,6 @@
           "source_id": "34679606",
           "target_video_id": "30983578",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:15:17.106680+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34679606",
-          "target_video_id": "30983578",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:27:31.628387+00:00"
         },
         {
@@ -108160,6 +108153,13 @@
           "target_video_id": "30983578",
           "permanent": false,
           "attempted_at": "2026-11-11T14:45:47.825674+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34679606",
+          "target_video_id": "30983578",
+          "permanent": false,
+          "attempted_at": "2026-11-11T16:04:36.577495+00:00"
         }
       ],
       "last_plan": {
@@ -110749,7 +110749,7 @@
       "last_plan": {
         "source_id": "34877008",
         "display_name": "The Slinger (Práče) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:45:48.092021+00:00"
+        "planned_at": "2026-11-11T16:04:35.088817+00:00"
       },
       "previous_target_id": "30983790",
       "prepared": {
@@ -110757,6 +110757,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T14:48:35.963240+00:00",
         "relay_source_id": "34877008"
+      },
+      "claim": {
+        "worker_id": "337f2e6fd4ac49aeb57a4e9ed3894d1b-shard-0",
+        "claimed_at": "2026-11-11T16:04:36.016909+00:00",
+        "lease_expires_at": "2026-11-11T22:04:36.016909+00:00",
+        "run_id": "43011363893"
       }
     },
     "24061": {
@@ -144944,7 +144950,7 @@
       "last_plan": {
         "source_id": "35085271",
         "display_name": "Oldies But Goldies (Vrásky z lásky) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T16:04:33.058575+00:00"
+        "planned_at": "2026-11-11T16:04:35.426343+00:00"
       }
     },
     "33485": {
@@ -196817,5 +196823,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T16:04:33.058591+00:00"
+  "updated_at": "2026-11-11T16:04:36.577512+00:00"
 }
