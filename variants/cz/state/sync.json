@@ -109254,6 +109254,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T14:33:18.077116+00:00",
         "relay_source_id": "34671725"
+      },
+      "claim": {
+        "worker_id": "f28925741c534e65863d3642baae512a-shard-0",
+        "claimed_at": "2026-11-11T03:50:11.288591+00:00",
+        "lease_expires_at": "2026-11-11T09:50:11.288591+00:00",
+        "run_id": "42938376778"
       }
     },
     "34066": {
@@ -123266,7 +123272,7 @@
       "last_plan": {
         "source_id": "27021419",
         "display_name": "Ray Donovan: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:15:11.848041+00:00"
+        "planned_at": "2026-11-11T03:50:11.468203+00:00"
       },
       "previous_target_id": "30985619",
       "prepared": {
@@ -123274,6 +123280,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T20:46:51.208874+00:00",
         "relay_source_id": "27021419"
+      },
+      "claim": {
+        "worker_id": "85e0a5a60cb84658a6476e5b51063553-shard-0",
+        "claimed_at": "2026-11-11T03:50:11.922349+00:00",
+        "lease_expires_at": "2026-11-11T09:50:11.922349+00:00",
+        "run_id": "42938376778"
       }
     },
     "2868": {
@@ -130778,6 +130790,13 @@
           "target_video_id": "30987006",
           "permanent": false,
           "attempted_at": "2026-11-11T03:15:07.342823+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34675833",
+          "target_video_id": "30987006",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:50:12.220311+00:00"
         }
       ],
       "last_plan": {
@@ -130788,15 +130807,9 @@
       "previous_target_id": "30987006",
       "prepared": {
         "target_video_id": "30987006",
-        "size_bytes": 2362150656,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T03:14:28.758733+00:00",
         "relay_source_id": "34675833"
-      },
-      "claim": {
-        "worker_id": "2610175ed4ea42f79ec078107b78cfda-shard-0",
-        "claimed_at": "2026-11-11T03:50:09.243204+00:00",
-        "lease_expires_at": "2026-11-11T09:50:09.243204+00:00",
-        "run_id": "42938376778"
       }
     },
     "31589": {
@@ -131579,7 +131592,7 @@
       "last_plan": {
         "source_id": "34716844",
         "display_name": "Hry a sny 720p CZ Dabing",
-        "planned_at": "2026-11-11T03:50:09.743079+00:00"
+        "planned_at": "2026-11-11T03:50:11.676472+00:00"
       }
     },
     "13232": {
@@ -185351,5 +185364,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:50:09.743092+00:00"
+  "updated_at": "2026-11-11T03:50:12.220323+00:00"
 }
