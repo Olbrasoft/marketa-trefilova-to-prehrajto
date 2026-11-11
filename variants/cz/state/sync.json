@@ -92874,6 +92874,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-09T09:38:32.659288+00:00",
         "relay_source_id": "34296350"
+      },
+      "claim": {
+        "worker_id": "20a68570923e4457bf1f5630526d0fd2-shard-0",
+        "claimed_at": "2026-11-11T08:58:31.811308+00:00",
+        "lease_expires_at": "2026-11-11T14:58:31.811308+00:00",
+        "run_id": "42965310158"
       }
     },
     "10888": {
@@ -98919,13 +98925,6 @@
           "source_id": "32500243",
           "target_video_id": "30958870",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:06:49.370525+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32500243",
-          "target_video_id": "30958870",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:00:53.468715+00:00"
         },
         {
@@ -98934,6 +98933,13 @@
           "target_video_id": "30958870",
           "permanent": false,
           "attempted_at": "2026-11-11T07:57:13.176495+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32500243",
+          "target_video_id": "30958870",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:58:31.981289+00:00"
         }
       ],
       "last_plan": {
@@ -98947,12 +98953,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T01:47:30.613397+00:00",
         "relay_source_id": "32500243"
-      },
-      "claim": {
-        "worker_id": "b3718b6fa5b544f69812e981f856631d-shard-0",
-        "claimed_at": "2026-11-11T08:58:26.627178+00:00",
-        "lease_expires_at": "2026-11-11T14:58:26.627178+00:00",
-        "run_id": "42965310158"
       }
     },
     "22960": {
@@ -120969,7 +120969,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:57:14.853261+00:00"
+        "planned_at": "2026-11-11T08:58:32.188681+00:00"
       },
       "previous_target_id": "30985082",
       "prepared": {
@@ -141735,7 +141735,7 @@
       "last_plan": {
         "source_id": "34686479",
         "display_name": "Super Monsters: Dia de los Monsters 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:58:28.873479+00:00"
+        "planned_at": "2026-11-11T08:58:32.455447+00:00"
       }
     },
     "13100": {
@@ -194007,5 +194007,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:58:28.873498+00:00"
+  "updated_at": "2026-11-11T08:58:32.455465+00:00"
 }
