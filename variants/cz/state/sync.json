@@ -122695,13 +122695,6 @@
           "source_id": "35438981",
           "target_video_id": "30985543",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:55:04.507423+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35438981",
-          "target_video_id": "30985543",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:35:18.413451+00:00"
         },
         {
@@ -122710,6 +122703,13 @@
           "target_video_id": "30985543",
           "permanent": false,
           "attempted_at": "2026-11-11T03:08:22.163940+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35438981",
+          "target_video_id": "30985543",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:42:34.547460+00:00"
         }
       ],
       "last_plan": {
@@ -122723,12 +122723,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T20:10:28.853005+00:00",
         "relay_source_id": "35438981"
-      },
-      "claim": {
-        "worker_id": "3caf48df2df649c5824c3ad1748f6410-shard-0",
-        "claimed_at": "2026-11-11T03:42:32.642210+00:00",
-        "lease_expires_at": "2026-11-11T09:42:32.642210+00:00",
-        "run_id": "42938376778"
       }
     },
     "35384": {
@@ -130564,7 +130558,7 @@
       "last_plan": {
         "source_id": "34789221",
         "display_name": "Virginity 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:07:39.643717+00:00"
+        "planned_at": "2026-11-11T03:42:34.069942+00:00"
       },
       "previous_target_id": "30986986",
       "prepared": {
@@ -131241,14 +131235,19 @@
       "last_plan": {
         "source_id": "14065113",
         "display_name": "Fool's death (Bláznova smrt) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:42:31.012085+00:00"
+        "planned_at": "2026-11-11T03:42:34.273751+00:00"
       }
     },
     "14583": {
       "attempts": []
     },
     "20035": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24221714",
+        "display_name": "Dum U Zlateho usvitu 720p CZ Dabing",
+        "planned_at": "2026-11-11T03:42:34.402668+00:00"
+      }
     },
     "24385": {
       "attempts": []
@@ -185073,5 +185072,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:42:32.642236+00:00"
+  "updated_at": "2026-11-11T03:42:34.547472+00:00"
 }
