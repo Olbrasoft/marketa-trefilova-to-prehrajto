@@ -110689,13 +110689,6 @@
           "source_id": "34877008",
           "target_video_id": "30983790",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:44:42.132553+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34877008",
-          "target_video_id": "30983790",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:22:16.614075+00:00"
         },
         {
@@ -110704,6 +110697,13 @@
           "target_video_id": "30983790",
           "permanent": false,
           "attempted_at": "2026-11-11T01:02:49.253717+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34877008",
+          "target_video_id": "30983790",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:44:42.116866+00:00"
         }
       ],
       "last_plan": {
@@ -114812,7 +114812,7 @@
       "last_plan": {
         "source_id": "32925649",
         "display_name": "The Lake House 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:02:48.677363+00:00"
+        "planned_at": "2026-11-11T01:44:40.371350+00:00"
       },
       "previous_target_id": "30984584",
       "prepared": {
@@ -114820,6 +114820,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T16:54:29.152360+00:00",
         "relay_source_id": "32925649"
+      },
+      "claim": {
+        "worker_id": "c5104d31b7f34653a2e3626a33fe2cc6-shard-0",
+        "claimed_at": "2026-11-11T01:44:41.139595+00:00",
+        "lease_expires_at": "2026-11-11T07:44:41.139595+00:00",
+        "run_id": "42904278669"
       }
     },
     "2842": {
@@ -128013,7 +128019,7 @@
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:44:38.334285+00:00"
+        "planned_at": "2026-11-11T01:44:40.695924+00:00"
       }
     },
     "21194": {
@@ -182343,5 +182349,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:44:38.334304+00:00"
+  "updated_at": "2026-11-11T01:44:42.116888+00:00"
 }
