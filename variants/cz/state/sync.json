@@ -135980,7 +135980,7 @@
       "last_plan": {
         "source_id": "34676679",
         "display_name": "Stop SD CZ Dabing",
-        "planned_at": "2026-11-11T15:15:47.630952+00:00"
+        "planned_at": "2026-11-11T17:47:41.334308+00:00"
       },
       "previous_target_id": "30987696",
       "prepared": {
@@ -135988,6 +135988,12 @@
         "size_bytes": 775400000,
         "prepared_at": "2026-11-11T05:42:13.668373+00:00",
         "relay_source_id": "34676679"
+      },
+      "claim": {
+        "worker_id": "941e551376fd4eaa851cdacedc18b6d9-shard-0",
+        "claimed_at": "2026-11-11T17:47:41.786323+00:00",
+        "lease_expires_at": "2026-11-11T23:47:41.786323+00:00",
+        "run_id": "43067513109"
       }
     },
     "36736": {
@@ -139599,13 +139605,6 @@
           "source_id": "30652094",
           "target_video_id": "30988054",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:42:26.621696+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30652094",
-          "target_video_id": "30988054",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:54:55.864916+00:00"
         },
         {
@@ -139614,6 +139613,13 @@
           "target_video_id": "30988054",
           "permanent": false,
           "attempted_at": "2026-11-11T15:15:48.256420+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30652094",
+          "target_video_id": "30988054",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:47:42.453836+00:00"
         }
       ],
       "last_plan": {
@@ -145067,7 +145073,7 @@
       "last_plan": {
         "source_id": "27434301",
         "display_name": "Labyrint (Labyrinth) SD CZ Dabing",
-        "planned_at": "2026-11-11T17:47:39.451717+00:00"
+        "planned_at": "2026-11-11T17:47:41.541804+00:00"
       }
     },
     "32905": {
@@ -196910,5 +196916,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:47:39.451740+00:00"
+  "updated_at": "2026-11-11T17:47:42.453855+00:00"
 }
