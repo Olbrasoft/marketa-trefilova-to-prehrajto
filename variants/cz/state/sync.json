@@ -108253,13 +108253,6 @@
           "source_id": "29867066",
           "target_video_id": "30983587",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:45:01.433435+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29867066",
-          "target_video_id": "30983587",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:26:12.825634+00:00"
         },
         {
@@ -108268,6 +108261,13 @@
           "target_video_id": "30983587",
           "permanent": false,
           "attempted_at": "2026-11-11T02:58:43.794917+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29867066",
+          "target_video_id": "30983587",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:32:33.442944+00:00"
         }
       ],
       "last_plan": {
@@ -108281,12 +108281,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:18:45.157766+00:00",
         "relay_source_id": "29867066"
-      },
-      "claim": {
-        "worker_id": "2f4d2c831622492293ee4934160a28d0-shard-0",
-        "claimed_at": "2026-11-11T03:32:30.621790+00:00",
-        "lease_expires_at": "2026-11-11T09:32:30.621790+00:00",
-        "run_id": "42938376778"
       }
     },
     "31159": {
@@ -122144,7 +122138,7 @@
       "last_plan": {
         "source_id": "35374576",
         "display_name": "The Wild Geese 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:58:43.959768+00:00"
+        "planned_at": "2026-11-11T03:32:32.941303+00:00"
       },
       "previous_target_id": "30985473",
       "prepared": {
@@ -122152,6 +122146,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T19:30:18.003095+00:00",
         "relay_source_id": "35374576"
+      },
+      "claim": {
+        "worker_id": "42eb8e8efd1b42aba058565f577d0260-shard-0",
+        "claimed_at": "2026-11-11T03:32:33.572810+00:00",
+        "lease_expires_at": "2026-11-11T09:32:33.572810+00:00",
+        "run_id": "42938376778"
       }
     },
     "22415": {
@@ -130911,7 +130911,7 @@
       "last_plan": {
         "source_id": "34746816",
         "display_name": "Krok do tmy (A Step into the Darkness) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:32:30.310358+00:00"
+        "planned_at": "2026-11-11T03:32:33.150684+00:00"
       }
     },
     "21501": {
@@ -184800,5 +184800,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:32:31.381208+00:00"
+  "updated_at": "2026-11-11T03:32:33.572827+00:00"
 }
