@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:54:45.225689+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:38:35.616663+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-11T00:16:20.465877+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:53:53.139262+00:00"
         }
       ],
       "last_plan": {
@@ -4275,7 +4275,7 @@
       "last_plan": {
         "source_id": "28473871",
         "display_name": "Pirates of the Caribbean: The Curse of the Black Pearl 4K CZ Dabing",
-        "planned_at": "2026-11-11T00:16:19.366482+00:00"
+        "planned_at": "2026-11-11T00:53:50.847289+00:00"
       },
       "previous_target_id": "30612972",
       "prepared": {
@@ -4283,6 +4283,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-10-29T15:22:45.141105+00:00",
         "relay_source_id": "28473871"
+      },
+      "claim": {
+        "worker_id": "eb055e26892f40038efbb88a083f7b6e-shard-0",
+        "claimed_at": "2026-11-11T00:53:51.615330+00:00",
+        "lease_expires_at": "2026-11-11T06:53:51.615330+00:00",
+        "run_id": "42904278669"
       }
     },
     "229": {
@@ -127035,7 +127041,7 @@
       "last_plan": {
         "source_id": "33956809",
         "display_name": "Second Best 720p CZ Dabing",
-        "planned_at": "2026-11-11T00:53:48.602523+00:00"
+        "planned_at": "2026-11-11T00:53:51.168267+00:00"
       }
     },
     "29213": {
@@ -181569,5 +181575,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:53:48.852525+00:00"
+  "updated_at": "2026-11-11T00:53:53.139285+00:00"
 }
