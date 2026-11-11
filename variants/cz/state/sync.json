@@ -112896,13 +112896,6 @@
           "source_id": "31008000",
           "target_video_id": "30984042",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:04:22.869162+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31008000",
-          "target_video_id": "30984042",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:45:43.032453+00:00"
         },
         {
@@ -112911,6 +112904,13 @@
           "target_video_id": "30984042",
           "permanent": false,
           "attempted_at": "2026-11-11T02:26:38.230752+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31008000",
+          "target_video_id": "30984042",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:59:10.861591+00:00"
         }
       ],
       "last_plan": {
@@ -112953,7 +112953,7 @@
       "last_plan": {
         "source_id": "31202256",
         "display_name": "Men in Black 3 4K CZ Dabing",
-        "planned_at": "2026-11-11T02:26:36.452378+00:00"
+        "planned_at": "2026-11-11T02:59:09.618041+00:00"
       },
       "previous_target_id": "30984050",
       "prepared": {
@@ -112961,6 +112961,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:20:21.843822+00:00",
         "relay_source_id": "31202256"
+      },
+      "claim": {
+        "worker_id": "0ce279f045724d939a8f9532be126d20-shard-0",
+        "claimed_at": "2026-11-11T02:59:10.110705+00:00",
+        "lease_expires_at": "2026-11-11T08:59:10.110705+00:00",
+        "run_id": "42938376778"
       }
     },
     "3154": {
@@ -129967,7 +129973,7 @@
       "last_plan": {
         "source_id": "32958300",
         "display_name": "The First Day (Der erste Tag) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:59:07.736696+00:00"
+        "planned_at": "2026-11-11T02:59:09.836340+00:00"
       }
     },
     "31584": {
@@ -183991,5 +183997,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:59:07.982333+00:00"
+  "updated_at": "2026-11-11T02:59:10.861602+00:00"
 }
