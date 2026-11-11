@@ -120460,13 +120460,6 @@
           "source_id": "11974625",
           "target_video_id": "30985034",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:31:43.665143+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11974625",
-          "target_video_id": "30985034",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:13:21.813090+00:00"
         },
         {
@@ -120475,6 +120468,13 @@
           "target_video_id": "30985034",
           "permanent": false,
           "attempted_at": "2026-11-11T01:54:36.550286+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11974625",
+          "target_video_id": "30985034",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:35:01.135605+00:00"
         }
       ],
       "last_plan": {
@@ -120488,12 +120488,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T18:38:39.569294+00:00",
         "relay_source_id": "11974625"
-      },
-      "claim": {
-        "worker_id": "6c733185bc9c45e08ad48d42b70b31a7-shard-0",
-        "claimed_at": "2026-11-11T02:34:58.479200+00:00",
-        "lease_expires_at": "2026-11-11T08:34:58.479200+00:00",
-        "run_id": "42938376778"
       }
     },
     "23164": {
@@ -120523,7 +120517,7 @@
       "last_plan": {
         "source_id": "33786756",
         "display_name": "The Lover 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:54:35.026584+00:00"
+        "planned_at": "2026-11-11T02:35:00.522128+00:00"
       },
       "previous_target_id": "30985035",
       "prepared": {
@@ -120531,6 +120525,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T18:38:40.997248+00:00",
         "relay_source_id": "33786756"
+      },
+      "claim": {
+        "worker_id": "cba7582253b046ad9e4f6ba7f68c32f1-shard-0",
+        "claimed_at": "2026-11-11T02:35:00.970209+00:00",
+        "lease_expires_at": "2026-11-11T08:35:00.970209+00:00",
+        "run_id": "42938376778"
       }
     },
     "3040": {
@@ -129142,7 +129142,7 @@
       "last_plan": {
         "source_id": "33698675",
         "display_name": "Homolka and Pocketbook (Homolka a tobolka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:34:58.235572+00:00"
+        "planned_at": "2026-11-11T02:35:00.726255+00:00"
       }
     },
     "12390": {
@@ -183277,5 +183277,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:34:58.641785+00:00"
+  "updated_at": "2026-11-11T02:35:01.135617+00:00"
 }
