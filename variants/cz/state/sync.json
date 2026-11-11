@@ -135967,17 +135967,19 @@
       "attempts": []
     },
     "24252": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30647651",
+          "target_video_id": "30987782",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:03:36.076866+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30647651",
         "display_name": "Rozina sebranec (Rozina the Love Child) SD CZ Dabing",
         "planned_at": "2026-11-11T06:02:52.399007+00:00"
-      },
-      "claim": {
-        "worker_id": "547891db09db4a1cae8048c415acf0f6-shard-0",
-        "claimed_at": "2026-11-11T06:02:54.322471+00:00",
-        "lease_expires_at": "2026-11-11T12:02:54.322471+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987782",
       "prepared": {
@@ -189107,5 +189109,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:03:34.585515+00:00"
+  "updated_at": "2026-11-11T06:03:36.076881+00:00"
 }
