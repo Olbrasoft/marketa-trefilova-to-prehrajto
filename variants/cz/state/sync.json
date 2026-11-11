@@ -145970,17 +145970,19 @@
       "attempts": []
     },
     "15619": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26591977",
+          "target_video_id": "30994014",
+          "permanent": false,
+          "attempted_at": "2026-11-11T21:24:05.393008+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26591977",
         "display_name": "El paraíso 1080p CZ Dabing",
         "planned_at": "2026-11-11T21:06:17.199407+00:00"
-      },
-      "claim": {
-        "worker_id": "1de0afb2024b4233a61d28bd5ff8af47-shard-0",
-        "claimed_at": "2026-11-11T21:06:17.713345+00:00",
-        "lease_expires_at": "2026-11-12T03:06:17.713345+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30994014",
       "prepared": {
@@ -197685,5 +197687,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:24:03.850361+00:00"
+  "updated_at": "2026-11-11T21:24:05.393028+00:00"
 }
