@@ -115860,13 +115860,6 @@
           "source_id": "33799960",
           "target_video_id": "30984681",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:48:50.520611+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33799960",
-          "target_video_id": "30984681",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:30:07.239589+00:00"
         },
         {
@@ -115875,6 +115868,13 @@
           "target_video_id": "30984681",
           "permanent": false,
           "attempted_at": "2026-11-11T02:14:56.414529+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33799960",
+          "target_video_id": "30984681",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:48:46.645794+00:00"
         }
       ],
       "last_plan": {
@@ -115888,12 +115888,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T17:16:56.893144+00:00",
         "relay_source_id": "33799960"
-      },
-      "claim": {
-        "worker_id": "b37667d948ba474b91b25ba4ddb762c8-shard-0",
-        "claimed_at": "2026-11-11T02:48:43.582368+00:00",
-        "lease_expires_at": "2026-11-11T08:48:43.582368+00:00",
-        "run_id": "42938376778"
       }
     },
     "2983": {
@@ -124811,7 +124805,7 @@
       "last_plan": {
         "source_id": "34296329",
         "display_name": "Contra 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:14:55.100008+00:00"
+        "planned_at": "2026-11-11T02:48:46.167778+00:00"
       },
       "previous_target_id": "30985822",
       "prepared": {
@@ -124819,6 +124813,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T22:05:34.736105+00:00",
         "relay_source_id": "34296329"
+      },
+      "claim": {
+        "worker_id": "e68384f6de424b129ac4fbc2adf10a6d-shard-0",
+        "claimed_at": "2026-11-11T02:48:46.773053+00:00",
+        "lease_expires_at": "2026-11-11T08:48:46.773053+00:00",
+        "run_id": "42938376778"
       }
     },
     "27073": {
@@ -129715,7 +129715,7 @@
       "last_plan": {
         "source_id": "34451524",
         "display_name": "Circus Angel SD CZ Dabing",
-        "planned_at": "2026-11-11T02:48:43.338394+00:00"
+        "planned_at": "2026-11-11T02:48:46.368897+00:00"
       }
     },
     "11806": {
@@ -183772,5 +183772,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:48:44.579844+00:00"
+  "updated_at": "2026-11-11T02:48:46.773069+00:00"
 }
