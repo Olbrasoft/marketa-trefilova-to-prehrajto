@@ -45554,13 +45554,6 @@
           "source_id": "20443534",
           "target_video_id": "30871258",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:18:28.354005+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20443534",
-          "target_video_id": "30871258",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:51:35.141993+00:00"
         },
         {
@@ -45569,6 +45562,13 @@
           "target_video_id": "30871258",
           "permanent": false,
           "attempted_at": "2026-11-11T03:24:16.230123+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:59:56.554951+00:00"
         }
       ],
       "last_plan": {
@@ -45582,12 +45582,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-06T22:18:15.551292+00:00",
         "relay_source_id": "20443534"
-      },
-      "claim": {
-        "worker_id": "d951e82c00c540c591653f2dbea7bb4d-shard-0",
-        "claimed_at": "2026-11-11T03:59:53.650802+00:00",
-        "lease_expires_at": "2026-11-11T09:59:53.650802+00:00",
-        "run_id": "42938376778"
       }
     },
     "1104": {
@@ -67844,7 +67838,7 @@
       "last_plan": {
         "source_id": "28778728",
         "display_name": "White Oleander SD CZ Dabing",
-        "planned_at": "2026-11-11T03:24:14.802130+00:00"
+        "planned_at": "2026-11-11T03:59:56.041880+00:00"
       },
       "previous_target_id": "30854802",
       "prepared": {
@@ -67852,6 +67846,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-06T08:53:21.282274+00:00",
         "relay_source_id": "28778728"
+      },
+      "claim": {
+        "worker_id": "7f3f7c9c6c244f44a6ecd28350a36e13-shard-0",
+        "claimed_at": "2026-11-11T03:59:56.687185+00:00",
+        "lease_expires_at": "2026-11-11T09:59:56.687185+00:00",
+        "run_id": "42938376778"
       }
     },
     "1982": {
@@ -131888,7 +131888,7 @@
       "last_plan": {
         "source_id": "34787172",
         "display_name": "Brontosaurus 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:59:53.371694+00:00"
+        "planned_at": "2026-11-11T03:59:56.250627+00:00"
       }
     },
     "24237": {
@@ -185600,5 +185600,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:59:54.472339+00:00"
+  "updated_at": "2026-11-11T03:59:56.687203+00:00"
 }
