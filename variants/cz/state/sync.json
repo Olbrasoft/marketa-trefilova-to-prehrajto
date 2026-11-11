@@ -109365,6 +109365,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-10T14:34:01.849055+00:00",
         "relay_source_id": "24035589"
+      },
+      "claim": {
+        "worker_id": "167309d4d5e4401aa2cee23b5647f11d-shard-0",
+        "claimed_at": "2026-11-11T01:23:02.086610+00:00",
+        "lease_expires_at": "2026-11-11T07:23:02.086610+00:00",
+        "run_id": "42904278669"
       }
     },
     "31206": {
@@ -127628,17 +127634,19 @@
       "attempts": []
     },
     "16455": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30184929",
+          "target_video_id": "30986654",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:23:02.278004+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30184929",
         "display_name": "Monster High: Frights, Camera, Action! SD CZ Dabing",
         "planned_at": "2026-11-11T01:22:16.561394+00:00"
-      },
-      "claim": {
-        "worker_id": "9cbd0ae00e94492c910d73689455bcc1-shard-0",
-        "claimed_at": "2026-11-11T01:22:18.984864+00:00",
-        "lease_expires_at": "2026-11-11T07:22:18.984864+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986654",
       "prepared": {
@@ -182052,5 +182060,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:23:00.282536+00:00"
+  "updated_at": "2026-11-11T01:23:02.278023+00:00"
 }
