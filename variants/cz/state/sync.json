@@ -125769,6 +125769,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T23:31:50.973355+00:00",
         "relay_source_id": "34488867"
+      },
+      "claim": {
+        "worker_id": "2ed5511285334ae79bc0efceef38664f-shard-0",
+        "claimed_at": "2026-11-11T03:56:29.086611+00:00",
+        "lease_expires_at": "2026-11-11T09:56:29.086611+00:00",
+        "run_id": "42938376778"
       }
     },
     "29116": {
@@ -131710,17 +131716,19 @@
       }
     },
     "32524": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34715394",
+          "target_video_id": "30987202",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:56:29.225273+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34715394",
         "display_name": "Káta a krokodýl (Káťa a krokodýl) SD CZ Dabing",
         "planned_at": "2026-11-11T03:55:11.855876+00:00"
-      },
-      "claim": {
-        "worker_id": "503e00eac9424ea991011da100ac2f6d-shard-0",
-        "claimed_at": "2026-11-11T03:55:13.818764+00:00",
-        "lease_expires_at": "2026-11-11T09:55:13.818764+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987202",
       "prepared": {
@@ -185486,5 +185494,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:56:27.594205+00:00"
+  "updated_at": "2026-11-11T03:56:29.225284+00:00"
 }
