@@ -139702,17 +139702,19 @@
       }
     },
     "11634": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35113199",
+          "target_video_id": "30988222",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:54:30.641588+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35113199",
         "display_name": "Cuckoo in a Dark Forest (Kukačka v temném lese) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:53:42.052374+00:00"
-      },
-      "claim": {
-        "worker_id": "c5433635acfd4eed954b3624c36695a4-shard-0",
-        "claimed_at": "2026-11-11T07:53:44.247253+00:00",
-        "lease_expires_at": "2026-11-11T13:53:44.247253+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988222",
       "prepared": {
@@ -192305,5 +192307,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:54:27.832294+00:00"
+  "updated_at": "2026-11-11T07:54:30.641614+00:00"
 }
