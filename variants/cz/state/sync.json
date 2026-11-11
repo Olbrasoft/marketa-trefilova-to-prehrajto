@@ -21674,7 +21674,7 @@
       "last_plan": {
         "source_id": "30201467",
         "display_name": "The Jungle Book (1967) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:20:27.872436+00:00"
+        "planned_at": "2026-11-11T15:40:07.453217+00:00"
       },
       "previous_target_id": "30689742",
       "prepared": {
@@ -21682,6 +21682,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-01T08:34:36.996573+00:00",
         "relay_source_id": "30201467"
+      },
+      "claim": {
+        "worker_id": "05e4cde942a24823b07d80d61b0a18db-shard-0",
+        "claimed_at": "2026-11-11T15:40:08.328642+00:00",
+        "lease_expires_at": "2026-11-11T21:40:08.328642+00:00",
+        "run_id": "43011363893"
       }
     },
     "677": {
@@ -144800,17 +144806,19 @@
       "attempts": []
     },
     "21403": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28267627",
+          "target_video_id": "30991469",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:40:08.973101+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28267627",
         "display_name": "The Sheep Has Five Legs SD CZ Dabing",
         "planned_at": "2026-11-11T15:34:43.933860+00:00"
-      },
-      "claim": {
-        "worker_id": "64a7379107e04dcab7153ed4139ccbde-shard-0",
-        "claimed_at": "2026-11-11T15:34:44.764211+00:00",
-        "lease_expires_at": "2026-11-11T21:34:44.764211+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30991469",
       "prepared": {
@@ -144858,7 +144866,7 @@
       "last_plan": {
         "source_id": "32084427",
         "display_name": "Broken Voices (Sbormistr) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:40:04.159161+00:00"
+        "planned_at": "2026-11-11T15:40:07.792757+00:00"
       }
     },
     "12576": {
@@ -196743,5 +196751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:40:05.860085+00:00"
+  "updated_at": "2026-11-11T15:40:08.973116+00:00"
 }
