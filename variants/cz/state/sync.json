@@ -110086,7 +110086,7 @@
       "last_plan": {
         "source_id": "34788913",
         "display_name": "Posledná bosorka 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:59:15.539082+00:00"
+        "planned_at": "2026-11-11T09:00:17.547918+00:00"
       },
       "previous_target_id": "30983748",
       "prepared": {
@@ -110094,6 +110094,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-11-10T14:42:14.240399+00:00",
         "relay_source_id": "34788913"
+      },
+      "claim": {
+        "worker_id": "cc7dabf556ce41d8ab49ba6141994444-shard-0",
+        "claimed_at": "2026-11-11T09:00:18.284208+00:00",
+        "lease_expires_at": "2026-11-11T15:00:18.284208+00:00",
+        "run_id": "42965310158"
       }
     },
     "16657": {
@@ -117755,13 +117761,6 @@
           "source_id": "33745493",
           "target_video_id": "30984851",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:07:48.151634+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33745493",
-          "target_video_id": "30984851",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:02:25.244513+00:00"
         },
         {
@@ -117770,6 +117769,13 @@
           "target_video_id": "30984851",
           "permanent": false,
           "attempted_at": "2026-11-11T07:59:19.033642+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33745493",
+          "target_video_id": "30984851",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:00:19.081325+00:00"
         }
       ],
       "last_plan": {
@@ -141789,17 +141795,19 @@
       "attempts": []
     },
     "13821": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34683567",
+          "target_video_id": "30988629",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:00:19.449356+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34683567",
         "display_name": "Sisterhood 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:59:29.332781+00:00"
-      },
-      "claim": {
-        "worker_id": "41d815a39f4549adac471a375fb8035e-shard-0",
-        "claimed_at": "2026-11-11T08:59:36.925763+00:00",
-        "lease_expires_at": "2026-11-11T14:59:36.925763+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988629",
       "prepared": {
@@ -141817,7 +141825,7 @@
       "last_plan": {
         "source_id": "34786206",
         "display_name": "Mark of Cain 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:00:15.433489+00:00"
+        "planned_at": "2026-11-11T09:00:17.844633+00:00"
       }
     },
     "13448": {
@@ -194074,5 +194082,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:00:15.433510+00:00"
+  "updated_at": "2026-11-11T09:00:19.449374+00:00"
 }
