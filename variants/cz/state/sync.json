@@ -107632,7 +107632,7 @@
       "last_plan": {
         "source_id": "30612511",
         "display_name": "Čest a sláva SD CZ Dabing",
-        "planned_at": "2026-11-11T16:01:23.796402+00:00"
+        "planned_at": "2026-11-11T18:30:48.185119+00:00"
       },
       "previous_target_id": "30983498",
       "prepared": {
@@ -107640,17 +107640,16 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T14:09:38.631857+00:00",
         "relay_source_id": "30612511"
+      },
+      "claim": {
+        "worker_id": "d822f6e61e7245bcad140e55bce24c4b-shard-0",
+        "claimed_at": "2026-11-11T18:30:48.646804+00:00",
+        "lease_expires_at": "2026-11-12T00:30:48.646804+00:00",
+        "run_id": "43067513109"
       }
     },
     "32038": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "35152274",
-          "target_video_id": "30983500",
-          "permanent": false,
-          "attempted_at": "2026-11-11T13:24:09.636575+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "35152274",
@@ -107664,6 +107663,13 @@
           "target_video_id": "30983500",
           "permanent": false,
           "attempted_at": "2026-11-11T16:01:22.243498+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35152274",
+          "target_video_id": "30983500",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:30:49.150614+00:00"
         }
       ],
       "last_plan": {
@@ -107677,12 +107683,6 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T14:11:17.051489+00:00",
         "relay_source_id": "35152274"
-      },
-      "claim": {
-        "worker_id": "b5afc5986c384b8da505f7c3043e084f-shard-0",
-        "claimed_at": "2026-11-11T18:30:45.855962+00:00",
-        "lease_expires_at": "2026-11-12T00:30:45.855962+00:00",
-        "run_id": "43067513109"
       }
     },
     "14397": {
@@ -145239,7 +145239,7 @@
       "last_plan": {
         "source_id": "34696336",
         "display_name": "Das Märchen von der Regentrude 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:30:45.607178+00:00"
+        "planned_at": "2026-11-11T18:30:48.394969+00:00"
       }
     },
     "30218": {
@@ -197054,5 +197054,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:30:46.513381+00:00"
+  "updated_at": "2026-11-11T18:30:49.150636+00:00"
 }
