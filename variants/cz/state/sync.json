@@ -129807,13 +129807,6 @@
           "source_id": "29492673",
           "target_video_id": "30986906",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:21:32.900156+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29492673",
-          "target_video_id": "30986906",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:01:45.926754+00:00"
         },
         {
@@ -129822,12 +129815,19 @@
           "target_video_id": "30986906",
           "permanent": false,
           "attempted_at": "2026-11-11T05:43:10.287737+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29492673",
+          "target_video_id": "30986906",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:31:15.517491+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29492673",
         "display_name": "Kina & Yuk (Kina & Yuk : Renards de la banquise) 720p CZ Dabing",
-        "planned_at": "2026-11-11T05:43:07.524557+00:00"
+        "planned_at": "2026-11-11T06:31:12.779154+00:00"
       },
       "previous_target_id": "30986906",
       "prepared": {
@@ -136839,17 +136839,33 @@
       "last_plan": {
         "source_id": "34694371",
         "display_name": "Misericordia 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:31:05.228720+00:00"
+        "planned_at": "2026-11-11T06:31:13.045936+00:00"
+      },
+      "claim": {
+        "worker_id": "c4212f0f118840c69042bc04ee6c985c-shard-0",
+        "claimed_at": "2026-11-11T06:31:14.041658+00:00",
+        "lease_expires_at": "2026-11-11T12:31:14.041658+00:00",
+        "run_id": "42965310158"
       }
     },
     "12593": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34661718",
+        "display_name": "Rukavička 1080p CZ Dabing",
+        "planned_at": "2026-11-11T06:31:13.214126+00:00"
+      }
     },
     "12707": {
       "attempts": []
     },
     "12202": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35179769",
+        "display_name": "Záhada hlavolamu 1080p CZ Dabing",
+        "planned_at": "2026-11-11T06:31:13.386016+00:00"
+      }
     },
     "17567": {
       "attempts": []
@@ -189828,5 +189844,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:31:09.189785+00:00"
+  "updated_at": "2026-11-11T06:31:15.517510+00:00"
 }
