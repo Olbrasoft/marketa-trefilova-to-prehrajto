@@ -115041,6 +115041,12 @@
         "size_bytes": 13200000000,
         "prepared_at": "2026-11-10T17:04:25.682820+00:00",
         "relay_source_id": "11740260"
+      },
+      "claim": {
+        "worker_id": "57c99453114547919b1276e2e9a1910c-shard-0",
+        "claimed_at": "2026-11-11T07:29:11.874134+00:00",
+        "lease_expires_at": "2026-11-11T13:29:11.874134+00:00",
+        "run_id": "42965310158"
       }
     },
     "2988": {
@@ -138772,17 +138778,19 @@
       }
     },
     "24824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26422141",
+          "target_video_id": "30988086",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:29:12.046067+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26422141",
         "display_name": "The Avalanche SD CZ Dabing",
         "planned_at": "2026-11-11T07:28:26.540475+00:00"
-      },
-      "claim": {
-        "worker_id": "b81a23a8cd454ad1ab7413ea030f484c-shard-0",
-        "claimed_at": "2026-11-11T07:28:27.336331+00:00",
-        "lease_expires_at": "2026-11-11T13:28:27.336331+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988086",
       "prepared": {
@@ -191519,5 +191527,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:29:09.977205+00:00"
+  "updated_at": "2026-11-11T07:29:12.046086+00:00"
 }
