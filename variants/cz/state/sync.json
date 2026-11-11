@@ -114523,13 +114523,6 @@
           "source_id": "32990693",
           "target_video_id": "30984319",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:54:15.813607+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32990693",
-          "target_video_id": "30984319",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:05:58.045684+00:00"
         },
         {
@@ -114538,6 +114531,13 @@
           "target_video_id": "30984319",
           "permanent": false,
           "attempted_at": "2026-11-11T22:44:11.791520+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32990693",
+          "target_video_id": "30984319",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:57:27.055057+00:00"
         }
       ],
       "last_plan": {
@@ -137337,7 +137337,7 @@
       "last_plan": {
         "source_id": "30246061",
         "display_name": "Na Svatém Kopečku SD CZ Dabing",
-        "planned_at": "2026-11-11T22:44:09.609224+00:00"
+        "planned_at": "2026-11-11T23:57:25.686037+00:00"
       },
       "previous_target_id": "30987831",
       "prepared": {
@@ -137345,6 +137345,12 @@
         "size_bytes": 866700000,
         "prepared_at": "2026-11-11T06:17:25.630283+00:00",
         "relay_source_id": "30246061"
+      },
+      "claim": {
+        "worker_id": "f5bb2b6e8b954e4581411c145a1b4366-shard-0",
+        "claimed_at": "2026-11-11T23:57:26.734627+00:00",
+        "lease_expires_at": "2026-11-12T05:57:26.734627+00:00",
+        "run_id": "43102571398"
       }
     },
     "11699": {
@@ -146318,7 +146324,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-11T23:57:23.026702+00:00"
+        "planned_at": "2026-11-11T23:57:26.035438+00:00"
       }
     },
     "4058": {
@@ -197941,5 +197947,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:57:23.026722+00:00"
+  "updated_at": "2026-11-11T23:57:27.055078+00:00"
 }
