@@ -141039,17 +141039,19 @@
       "attempts": []
     },
     "26539": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28465128",
+          "target_video_id": "30988535",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:40:43.485853+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28465128",
         "display_name": "The Miracle of Berlin (Das Wunder von Berlin) SD CZ Dabing",
         "planned_at": "2026-11-11T08:39:28.032796+00:00"
-      },
-      "claim": {
-        "worker_id": "6a302940b59a4d8abd099b3f845f20f7-shard-0",
-        "claimed_at": "2026-11-11T08:39:28.705825+00:00",
-        "lease_expires_at": "2026-11-11T14:39:28.705825+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988535",
       "prepared": {
@@ -193468,5 +193470,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:40:41.857098+00:00"
+  "updated_at": "2026-11-11T08:40:43.485892+00:00"
 }
