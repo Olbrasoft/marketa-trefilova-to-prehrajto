@@ -127882,17 +127882,19 @@
       "attempts": []
     },
     "15773": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11824371",
+          "target_video_id": "30986706",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:40:37.272583+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11824371",
         "display_name": "1000 to 1: The Cory Weissman Story (1000 to 1) SD CZ Dabing",
         "planned_at": "2026-11-11T01:39:25.608624+00:00"
-      },
-      "claim": {
-        "worker_id": "e721536dbb50451589c365906e0b833a-shard-0",
-        "claimed_at": "2026-11-11T01:39:27.963659+00:00",
-        "lease_expires_at": "2026-11-11T07:39:27.963659+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986706",
       "prepared": {
@@ -182261,5 +182263,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:40:35.628192+00:00"
+  "updated_at": "2026-11-11T01:40:37.272606+00:00"
 }
