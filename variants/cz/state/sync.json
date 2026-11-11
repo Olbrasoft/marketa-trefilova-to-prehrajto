@@ -134260,17 +134260,19 @@
       "attempts": []
     },
     "11547": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "24480171",
+          "target_video_id": "30987584",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:18:41.458080+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "24480171",
         "display_name": "Sweet Troubles (Sladké starosti) 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:17:57.283306+00:00"
-      },
-      "claim": {
-        "worker_id": "f8321d2c164a4f8b8c95fb7ac04c28dc-shard-0",
-        "claimed_at": "2026-11-11T05:17:59.169984+00:00",
-        "lease_expires_at": "2026-11-11T11:17:59.169984+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987584",
       "prepared": {
@@ -187646,5 +187648,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:18:39.927791+00:00"
+  "updated_at": "2026-11-11T05:18:41.458111+00:00"
 }
