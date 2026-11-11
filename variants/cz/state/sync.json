@@ -127001,13 +127001,6 @@
           "source_id": "30676301",
           "target_video_id": "30986424",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:13:05.566822+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30676301",
-          "target_video_id": "30986424",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:16:48.798261+00:00"
         },
         {
@@ -127016,6 +127009,13 @@
           "target_video_id": "30986424",
           "permanent": false,
           "attempted_at": "2026-11-11T12:27:19.555023+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30676301",
+          "target_video_id": "30986424",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:42:51.404663+00:00"
         }
       ],
       "last_plan": {
@@ -137397,7 +137397,7 @@
       "last_plan": {
         "source_id": "29979237",
         "display_name": "Smetana 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:27:18.201467+00:00"
+        "planned_at": "2026-11-11T13:42:49.744491+00:00"
       },
       "previous_target_id": "30987839",
       "prepared": {
@@ -137405,6 +137405,12 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-11-11T06:20:47.389772+00:00",
         "relay_source_id": "29979237"
+      },
+      "claim": {
+        "worker_id": "822ea50a610949fa88646d2049eb1ba2-shard-0",
+        "claimed_at": "2026-11-11T13:42:50.580389+00:00",
+        "lease_expires_at": "2026-11-11T19:42:50.580389+00:00",
+        "run_id": "43011363893"
       }
     },
     "10741": {
@@ -144268,7 +144274,7 @@
       "last_plan": {
         "source_id": "24446093",
         "display_name": "Zahradnictví: Nápadník SD CZ Dabing",
-        "planned_at": "2026-11-11T13:42:47.762520+00:00"
+        "planned_at": "2026-11-11T13:42:50.080283+00:00"
       }
     },
     "8471": {
@@ -196261,5 +196267,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:42:47.762537+00:00"
+  "updated_at": "2026-11-11T13:42:51.404678+00:00"
 }
