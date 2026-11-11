@@ -122334,6 +122334,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T19:35:48.490593+00:00",
         "relay_source_id": "32965631"
+      },
+      "claim": {
+        "worker_id": "deea18c3527e4c73a4e94e3407f70844-shard-0",
+        "claimed_at": "2026-11-11T03:46:14.663360+00:00",
+        "lease_expires_at": "2026-11-11T09:46:14.663360+00:00",
+        "run_id": "42938376778"
       }
     },
     "32312": {
@@ -131392,17 +131398,19 @@
       }
     },
     "32268": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34715074",
+          "target_video_id": "30987142",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:46:14.805232+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34715074",
         "display_name": "Grandpa, Kylian and I (Dědeček, Kyliján a já) SD CZ Dabing",
         "planned_at": "2026-11-11T03:45:32.757273+00:00"
-      },
-      "claim": {
-        "worker_id": "046abf1ec88a4001afb5a55e91f2c9c4-shard-0",
-        "claimed_at": "2026-11-11T03:45:33.347509+00:00",
-        "lease_expires_at": "2026-11-11T09:45:33.347509+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987142",
       "prepared": {
@@ -185228,5 +185236,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:46:13.008823+00:00"
+  "updated_at": "2026-11-11T03:46:14.805243+00:00"
 }
