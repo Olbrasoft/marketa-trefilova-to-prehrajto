@@ -109765,13 +109765,6 @@
           "source_id": "30216352",
           "target_video_id": "30983708",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:35:12.494772+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30216352",
-          "target_video_id": "30983708",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:18:07.130277+00:00"
         },
         {
@@ -109780,6 +109773,13 @@
           "target_video_id": "30983708",
           "permanent": false,
           "attempted_at": "2026-11-11T02:51:09.745116+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30216352",
+          "target_video_id": "30983708",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:23:50.956311+00:00"
         }
       ],
       "last_plan": {
@@ -115954,7 +115954,7 @@
       "last_plan": {
         "source_id": "34757966",
         "display_name": "Risky Business 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:51:11.510356+00:00"
+        "planned_at": "2026-11-11T03:23:49.620853+00:00"
       },
       "previous_target_id": "30984690",
       "prepared": {
@@ -115962,6 +115962,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:18:42.473688+00:00",
         "relay_source_id": "34757966"
+      },
+      "claim": {
+        "worker_id": "c9124328d2d74cc09582a7c701055a63-shard-0",
+        "claimed_at": "2026-11-11T03:23:50.271225+00:00",
+        "lease_expires_at": "2026-11-11T09:23:50.271225+00:00",
+        "run_id": "42938376778"
       }
     },
     "2787": {
@@ -130685,7 +130691,7 @@
       "last_plan": {
         "source_id": "30410983",
         "display_name": "Stedrý vecer pana rady Vacátka (Štědrý večer pana rady Vacátka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:23:47.933237+00:00"
+        "planned_at": "2026-11-11T03:23:49.852582+00:00"
       }
     },
     "13346": {
@@ -184604,5 +184610,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:23:47.933247+00:00"
+  "updated_at": "2026-11-11T03:23:50.956323+00:00"
 }
