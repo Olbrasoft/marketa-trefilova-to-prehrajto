@@ -125158,6 +125158,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T22:27:10.798206+00:00",
         "relay_source_id": "23031428"
+      },
+      "claim": {
+        "worker_id": "968d42ce981d4669b4dccdd1d355de2d-shard-0",
+        "claimed_at": "2026-11-11T06:22:14.257088+00:00",
+        "lease_expires_at": "2026-11-11T12:22:14.257088+00:00",
+        "run_id": "42965310158"
       }
     },
     "2966": {
@@ -135345,7 +135351,7 @@
       "last_plan": {
         "source_id": "31451425",
         "display_name": "Pan Tau (Pan Tau – der Film) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:35:17.995318+00:00"
+        "planned_at": "2026-11-11T06:22:14.493052+00:00"
       },
       "previous_target_id": "30987653",
       "prepared": {
@@ -136469,17 +136475,19 @@
       "attempts": []
     },
     "14012": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32352659",
+          "target_video_id": "30987841",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:22:15.008099+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32352659",
         "display_name": "Ohnivé zeny se vracejí (Ohnivé ženy se vracejí) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:21:30.815137+00:00"
-      },
-      "claim": {
-        "worker_id": "1e6edc2332c14a039670190b715c6a18-shard-0",
-        "claimed_at": "2026-11-11T06:21:32.667467+00:00",
-        "lease_expires_at": "2026-11-11T12:21:32.667467+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987841",
       "prepared": {
@@ -136494,7 +136502,7 @@
       "last_plan": {
         "source_id": "24113515",
         "display_name": "Vandronik (O Janovi a podivuhodném příteli) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:22:12.643484+00:00"
+        "planned_at": "2026-11-11T06:22:14.784303+00:00"
       }
     },
     "12822": {
@@ -189528,5 +189536,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:22:12.643502+00:00"
+  "updated_at": "2026-11-11T06:22:15.008118+00:00"
 }
