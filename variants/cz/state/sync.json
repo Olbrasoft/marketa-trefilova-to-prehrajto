@@ -111991,13 +111991,6 @@
           "source_id": "30230963",
           "target_video_id": "30983916",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:23:19.375720+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30230963",
-          "target_video_id": "30983916",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:01:04.122484+00:00"
         },
         {
@@ -112006,6 +111999,13 @@
           "target_video_id": "30983916",
           "permanent": false,
           "attempted_at": "2026-11-11T00:39:55.956053+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30230963",
+          "target_video_id": "30983916",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:20:43.237779+00:00"
         }
       ],
       "last_plan": {
@@ -124627,7 +124627,7 @@
       "last_plan": {
         "source_id": "16799155",
         "display_name": "The Bachelors 720p CZ Dabing",
-        "planned_at": "2026-11-11T00:39:55.386281+00:00"
+        "planned_at": "2026-11-11T01:20:41.649882+00:00"
       },
       "previous_target_id": "30985789",
       "prepared": {
@@ -124635,6 +124635,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T21:56:55.420821+00:00",
         "relay_source_id": "16799155"
+      },
+      "claim": {
+        "worker_id": "8eb5e750e13f484789d182f57674870f-shard-0",
+        "claimed_at": "2026-11-11T01:20:42.431153+00:00",
+        "lease_expires_at": "2026-11-11T07:20:42.431153+00:00",
+        "run_id": "42904278669"
       }
     },
     "2908": {
@@ -127584,7 +127590,7 @@
       "last_plan": {
         "source_id": "24508454",
         "display_name": "Sin (Il peccato) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:20:37.570235+00:00"
+        "planned_at": "2026-11-11T01:20:41.969570+00:00"
       }
     },
     "32719": {
@@ -181998,5 +182004,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:20:37.818215+00:00"
+  "updated_at": "2026-11-11T01:20:43.237799+00:00"
 }
