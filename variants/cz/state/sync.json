@@ -82181,6 +82181,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-08T05:26:41.175531+00:00",
         "relay_source_id": "34668514"
+      },
+      "claim": {
+        "worker_id": "6b80e2b330944b79b95c1da208db63ed-shard-0",
+        "claimed_at": "2026-11-11T06:57:44.928699+00:00",
+        "lease_expires_at": "2026-11-11T12:57:44.928699+00:00",
+        "run_id": "42965310158"
       }
     },
     "23317": {
@@ -137757,17 +137763,19 @@
       }
     },
     "15730": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694137",
+          "target_video_id": "30987944",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:57:45.112433+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694137",
         "display_name": "Zitterinchen 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:57:00.363887+00:00"
-      },
-      "claim": {
-        "worker_id": "f1c009a90eb54d5e9a1e93b170a03cd8-shard-0",
-        "claimed_at": "2026-11-11T06:57:02.501977+00:00",
-        "lease_expires_at": "2026-11-11T12:57:02.501977+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987944",
       "prepared": {
@@ -190621,5 +190629,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:57:43.251430+00:00"
+  "updated_at": "2026-11-11T06:57:45.112449+00:00"
 }
