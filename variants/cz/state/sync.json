@@ -111551,6 +111551,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T14:56:55.030393+00:00",
         "relay_source_id": "34717603"
+      },
+      "claim": {
+        "worker_id": "c9c367a96e4144e7b5d74ddf821a5671-shard-0",
+        "claimed_at": "2026-11-11T06:31:04.716688+00:00",
+        "lease_expires_at": "2026-11-11T12:31:04.716688+00:00",
+        "run_id": "42965310158"
       }
     },
     "37160": {
@@ -111586,7 +111592,7 @@
       "last_plan": {
         "source_id": "29959686",
         "display_name": "The Self Lover (Sebemilenec) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:43:05.425242+00:00"
+        "planned_at": "2026-11-11T06:31:04.913491+00:00"
       },
       "previous_target_id": "30983837",
       "prepared": {
@@ -111594,6 +111600,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T14:56:57.300459+00:00",
         "relay_source_id": "29959686"
+      },
+      "claim": {
+        "worker_id": "d9943fe836d54d0bab988a034552fe78-shard-0",
+        "claimed_at": "2026-11-11T06:31:05.643557+00:00",
+        "lease_expires_at": "2026-11-11T12:31:05.643557+00:00",
+        "run_id": "42965310158"
       }
     },
     "30413": {
@@ -136812,17 +136824,19 @@
       }
     },
     "11005": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34788286",
+          "target_video_id": "30987867",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:31:05.949232+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34788286",
         "display_name": "Slasti Otce vlasti 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:30:19.412281+00:00"
-      },
-      "claim": {
-        "worker_id": "490a5f91f76c4a6ca79aa68813f46ec5-shard-0",
-        "claimed_at": "2026-11-11T06:30:20.299008+00:00",
-        "lease_expires_at": "2026-11-11T12:30:20.299008+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987867",
       "prepared": {
@@ -136837,7 +136851,7 @@
       "last_plan": {
         "source_id": "34694371",
         "display_name": "Misericordia 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:31:02.433255+00:00"
+        "planned_at": "2026-11-11T06:31:05.228720+00:00"
       }
     },
     "12593": {
@@ -189826,5 +189840,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:31:02.646684+00:00"
+  "updated_at": "2026-11-11T06:31:05.949248+00:00"
 }
