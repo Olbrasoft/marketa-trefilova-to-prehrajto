@@ -115940,13 +115940,6 @@
           "source_id": "34757966",
           "target_video_id": "30984690",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:51:54.455178+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34757966",
-          "target_video_id": "30984690",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:35:20.393023+00:00"
         },
         {
@@ -115955,12 +115948,19 @@
           "target_video_id": "30984690",
           "permanent": false,
           "attempted_at": "2026-11-11T02:18:12.007807+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34757966",
+          "target_video_id": "30984690",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:51:13.701139+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34757966",
         "display_name": "Risky Business 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:18:08.639655+00:00"
+        "planned_at": "2026-11-11T02:51:11.510356+00:00"
       },
       "previous_target_id": "30984690",
       "prepared": {
@@ -117614,6 +117614,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T17:48:50.251668+00:00",
         "relay_source_id": "34903564"
+      },
+      "claim": {
+        "worker_id": "3192ab2cb11f4fef9aff986e84fc0832-shard-0",
+        "claimed_at": "2026-11-11T02:51:11.185388+00:00",
+        "lease_expires_at": "2026-11-11T08:51:11.185388+00:00",
+        "run_id": "42938376778"
       }
     },
     "17858": {
@@ -129754,7 +129760,7 @@
       "last_plan": {
         "source_id": "32354652",
         "display_name": "Time of the Servants (Čas sluhů) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:51:09.276023+00:00"
+        "planned_at": "2026-11-11T02:51:11.772950+00:00"
       }
     },
     "25340": {
@@ -183808,5 +183814,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:51:09.745132+00:00"
+  "updated_at": "2026-11-11T02:51:13.701157+00:00"
 }
