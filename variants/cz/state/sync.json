@@ -117089,13 +117089,6 @@
           "source_id": "33894144",
           "target_video_id": "30984805",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:29:24.860366+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33894144",
-          "target_video_id": "30984805",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:10:36.170481+00:00"
         },
         {
@@ -117104,6 +117097,13 @@
           "target_video_id": "30984805",
           "permanent": false,
           "attempted_at": "2026-11-11T05:51:51.970732+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33894144",
+          "target_video_id": "30984805",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:43:08.619457+00:00"
         }
       ],
       "last_plan": {
@@ -117117,12 +117117,6 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T17:42:02.877843+00:00",
         "relay_source_id": "33894144"
-      },
-      "claim": {
-        "worker_id": "5d3f456610394e118c19dbcbc05fad3b-shard-0",
-        "claimed_at": "2026-11-11T06:43:05.978197+00:00",
-        "lease_expires_at": "2026-11-11T12:43:05.978197+00:00",
-        "run_id": "42965310158"
       }
     },
     "31926": {
@@ -137256,17 +137250,19 @@
       "attempts": []
     },
     "35004": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34479491",
+          "target_video_id": "30987906",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:43:08.788734+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34479491",
         "display_name": "Deti (Children) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:42:22.474001+00:00"
-      },
-      "claim": {
-        "worker_id": "25a583ae712242f58916b7983f8e3fdd-shard-0",
-        "claimed_at": "2026-11-11T06:42:24.797587+00:00",
-        "lease_expires_at": "2026-11-11T12:42:24.797587+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987906",
       "prepared": {
@@ -190177,5 +190173,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:43:07.047054+00:00"
+  "updated_at": "2026-11-11T06:43:08.788755+00:00"
 }
