@@ -125709,6 +125709,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-10T23:19:46.750032+00:00",
         "relay_source_id": "32402353"
+      },
+      "claim": {
+        "worker_id": "a8c465486c244ae3bc12f524d1e49b2f-shard-0",
+        "claimed_at": "2026-11-11T07:40:04.019677+00:00",
+        "lease_expires_at": "2026-11-11T13:40:04.019677+00:00",
+        "run_id": "42965310158"
       }
     },
     "21913": {
@@ -139179,17 +139185,19 @@
       "attempts": []
     },
     "24469": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30863959",
+          "target_video_id": "30988142",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:40:04.392516+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30863959",
         "display_name": "A 105 p.c. Alibi 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:39:16.602442+00:00"
-      },
-      "claim": {
-        "worker_id": "02c303b3f62b4ffa92251ec3c06af0d1-shard-0",
-        "claimed_at": "2026-11-11T07:39:20.330953+00:00",
-        "lease_expires_at": "2026-11-11T13:39:20.330953+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988142",
       "prepared": {
@@ -191857,5 +191865,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:40:02.205054+00:00"
+  "updated_at": "2026-11-11T07:40:04.392534+00:00"
 }
