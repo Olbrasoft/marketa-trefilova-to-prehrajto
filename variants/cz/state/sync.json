@@ -37284,13 +37284,6 @@
           "source_id": "12181949",
           "target_video_id": "30743906",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:04:16.927081+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "30743906",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:21:55.228736+00:00"
         },
         {
@@ -37299,6 +37292,13 @@
           "target_video_id": "30743906",
           "permanent": false,
           "attempted_at": "2026-11-11T15:42:41.987585+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "30743906",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:10:15.973537+00:00"
         }
       ],
       "last_plan": {
@@ -123887,7 +123887,7 @@
       "last_plan": {
         "source_id": "10827431",
         "display_name": "Finding Your Feet 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:43:14.083889+00:00"
+        "planned_at": "2026-11-11T18:10:14.313428+00:00"
       },
       "previous_target_id": "30985726",
       "prepared": {
@@ -123895,6 +123895,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T21:31:25.000011+00:00",
         "relay_source_id": "10827431"
+      },
+      "claim": {
+        "worker_id": "e5c6cc4789b04d1d9a8df481a0af30b0-shard-0",
+        "claimed_at": "2026-11-11T18:10:14.775060+00:00",
+        "lease_expires_at": "2026-11-12T00:10:14.775060+00:00",
+        "run_id": "43067513109"
       }
     },
     "21072": {
@@ -145166,7 +145172,7 @@
       "last_plan": {
         "source_id": "34658138",
         "display_name": "Flower Buds (Poupata) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:10:12.252660+00:00"
+        "planned_at": "2026-11-11T18:10:14.520931+00:00"
       }
     },
     "20047": {
@@ -196988,5 +196994,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:10:12.580225+00:00"
+  "updated_at": "2026-11-11T18:10:15.973555+00:00"
 }
