@@ -125210,7 +125210,7 @@
       "last_plan": {
         "source_id": "23031428",
         "display_name": "Accident 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:14:47.463197+00:00"
+        "planned_at": "2026-11-11T22:50:30.713290+00:00"
       },
       "previous_target_id": "30985892",
       "prepared": {
@@ -125218,6 +125218,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T22:27:10.798206+00:00",
         "relay_source_id": "23031428"
+      },
+      "claim": {
+        "worker_id": "fc9aac98645e4ad88baf63ab76c65071-shard-0",
+        "claimed_at": "2026-11-11T22:50:31.456670+00:00",
+        "lease_expires_at": "2026-11-12T04:50:31.456670+00:00",
+        "run_id": "43102571398"
       }
     },
     "2966": {
@@ -137452,13 +137458,6 @@
           "source_id": "32352659",
           "target_video_id": "30987841",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:47:36.236741+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32352659",
-          "target_video_id": "30987841",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:04:00.163968+00:00"
         },
         {
@@ -137467,6 +137466,13 @@
           "target_video_id": "30987841",
           "permanent": false,
           "attempted_at": "2026-11-11T21:14:45.922878+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32352659",
+          "target_video_id": "30987841",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:50:31.975246+00:00"
         }
       ],
       "last_plan": {
@@ -137480,12 +137486,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T06:21:37.258852+00:00",
         "relay_source_id": "32352659"
-      },
-      "claim": {
-        "worker_id": "75fad12788ea484ea011d8c3f52ce442-shard-0",
-        "claimed_at": "2026-11-11T22:50:28.192245+00:00",
-        "lease_expires_at": "2026-11-12T04:50:28.192245+00:00",
-        "run_id": "43102571398"
       }
     },
     "24547": {
@@ -146210,7 +146210,7 @@
       "last_plan": {
         "source_id": "33856066",
         "display_name": "Jan Palach 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:50:27.721679+00:00"
+        "planned_at": "2026-11-11T22:50:31.048419+00:00"
       }
     },
     "10711": {
@@ -197849,5 +197849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:50:29.014061+00:00"
+  "updated_at": "2026-11-11T22:50:31.975267+00:00"
 }
