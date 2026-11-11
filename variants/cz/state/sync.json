@@ -145183,17 +145183,19 @@
       }
     },
     "4314": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34658138",
+          "target_video_id": "30992706",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:28:49.836244+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34658138",
         "display_name": "Flower Buds (Poupata) 1080p CZ Dabing",
         "planned_at": "2026-11-11T18:12:26.427572+00:00"
-      },
-      "claim": {
-        "worker_id": "876bf62614dc47d2b605793f2334f82d-shard-0",
-        "claimed_at": "2026-11-11T18:12:28.774343+00:00",
-        "lease_expires_at": "2026-11-12T00:12:28.774343+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30992706",
       "prepared": {
@@ -197047,5 +197049,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:28:47.493324+00:00"
+  "updated_at": "2026-11-11T18:28:49.836273+00:00"
 }
