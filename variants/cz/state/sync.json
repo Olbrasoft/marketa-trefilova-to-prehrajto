@@ -119791,6 +119791,12 @@
         "size_bytes": 17100000000,
         "prepared_at": "2026-11-10T18:30:16.026460+00:00",
         "relay_source_id": "12287408"
+      },
+      "claim": {
+        "worker_id": "f794b6e3c63245b496bcbeb0abac2dd1-shard-0",
+        "claimed_at": "2026-11-11T01:07:02.025994+00:00",
+        "lease_expires_at": "2026-11-11T07:07:02.025994+00:00",
+        "run_id": "42904278669"
       }
     },
     "2997": {
@@ -121076,13 +121082,6 @@
           "source_id": "33746515",
           "target_video_id": "30985386",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:06:59.936962+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33746515",
-          "target_video_id": "30985386",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:48:08.337423+00:00"
         },
         {
@@ -121091,12 +121090,19 @@
           "target_video_id": "30985386",
           "permanent": false,
           "attempted_at": "2026-11-11T00:25:43.752401+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746515",
+          "target_video_id": "30985386",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:07:04.850933+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33746515",
         "display_name": "Taps 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:25:39.140067+00:00"
+        "planned_at": "2026-11-11T01:07:02.263444+00:00"
       },
       "previous_target_id": "30985386",
       "prepared": {
@@ -127218,7 +127224,7 @@
       "last_plan": {
         "source_id": "14705539",
         "display_name": "Valan: Valley of Angels (Valan - Az angyalok völgye) 720p CZ Dabing",
-        "planned_at": "2026-11-11T01:06:59.916600+00:00"
+        "planned_at": "2026-11-11T01:07:02.578683+00:00"
       }
     },
     "29329": {
@@ -181724,5 +181730,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:07:00.165366+00:00"
+  "updated_at": "2026-11-11T01:07:04.850953+00:00"
 }
