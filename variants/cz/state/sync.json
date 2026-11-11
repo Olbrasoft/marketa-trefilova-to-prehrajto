@@ -109032,13 +109032,6 @@
           "source_id": "9978707",
           "target_video_id": "30983670",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:20:55.394574+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9978707",
-          "target_video_id": "30983670",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:03:15.885951+00:00"
         },
         {
@@ -109047,6 +109040,13 @@
           "target_video_id": "30983670",
           "permanent": false,
           "attempted_at": "2026-11-11T02:41:49.076796+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9978707",
+          "target_video_id": "30983670",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:14:26.506866+00:00"
         }
       ],
       "last_plan": {
@@ -113865,7 +113865,7 @@
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:41:48.852965+00:00"
+        "planned_at": "2026-11-11T03:14:24.871841+00:00"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -113873,6 +113873,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
+      },
+      "claim": {
+        "worker_id": "b0a2ad36606d43fcaa2dbe623fd18097-shard-0",
+        "claimed_at": "2026-11-11T03:14:25.376275+00:00",
+        "lease_expires_at": "2026-11-11T09:14:25.376275+00:00",
+        "run_id": "42938376778"
       }
     },
     "3152": {
@@ -130405,6 +130411,12 @@
         "source_id": "34675833",
         "display_name": "Where the Early Bird Catches (Kam doskáče ranní ptáče) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:14:22.814208+00:00"
+      },
+      "claim": {
+        "worker_id": "d379918ab5104ce886be989856e65aad-shard-0",
+        "claimed_at": "2026-11-11T03:14:24.717649+00:00",
+        "lease_expires_at": "2026-11-11T09:14:24.717649+00:00",
+        "run_id": "42938376778"
       }
     },
     "31589": {
@@ -130418,7 +130430,7 @@
       "last_plan": {
         "source_id": "29470532",
         "display_name": "Meurtres à Valbonne (Mémoires à vif) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:14:23.083200+00:00"
+        "planned_at": "2026-11-11T03:14:25.073229+00:00"
       }
     },
     "31276": {
@@ -184379,5 +184391,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:14:23.083208+00:00"
+  "updated_at": "2026-11-11T03:14:26.506881+00:00"
 }
