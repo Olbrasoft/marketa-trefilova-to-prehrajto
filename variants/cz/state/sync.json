@@ -108601,13 +108601,6 @@
           "source_id": "34789117",
           "target_video_id": "30983623",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:53:03.340730+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34789117",
-          "target_video_id": "30983623",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:30:26.000917+00:00"
         },
         {
@@ -108616,12 +108609,19 @@
           "target_video_id": "30983623",
           "permanent": false,
           "attempted_at": "2026-11-11T01:12:02.503079+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34789117",
+          "target_video_id": "30983623",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:53:09.534407+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34789117",
         "display_name": "Barbora Hlavsová 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:11:57.158755+00:00"
+        "planned_at": "2026-11-11T01:53:07.122162+00:00"
       },
       "previous_target_id": "30983623",
       "prepared": {
@@ -111354,6 +111354,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T14:53:39.741732+00:00",
         "relay_source_id": "27757295"
+      },
+      "claim": {
+        "worker_id": "b32a0785aeb04fa19e1addbcf8458b72-shard-0",
+        "claimed_at": "2026-11-11T01:53:06.883279+00:00",
+        "lease_expires_at": "2026-11-11T07:53:06.883279+00:00",
+        "run_id": "42904278669"
       }
     },
     "28594": {
@@ -128122,7 +128128,7 @@
       "last_plan": {
         "source_id": "30540763",
         "display_name": "One Perfect Match 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:53:05.110854+00:00"
+        "planned_at": "2026-11-11T01:53:07.442492+00:00"
       }
     },
     "14589": {
@@ -182440,5 +182446,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:53:05.110872+00:00"
+  "updated_at": "2026-11-11T01:53:09.534430+00:00"
 }
