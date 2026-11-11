@@ -126611,17 +126611,19 @@
       "attempts": []
     },
     "21881": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30676301",
+          "target_video_id": "30986424",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:27:24.276721+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30676301",
         "display_name": "The Thief of Paris SD CZ Dabing",
         "planned_at": "2026-11-11T00:26:40.862365+00:00"
-      },
-      "claim": {
-        "worker_id": "b7317cea71f6484184c7b968acf676a9-shard-0",
-        "claimed_at": "2026-11-11T00:26:41.934843+00:00",
-        "lease_expires_at": "2026-11-11T06:26:41.934843+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986424",
       "prepared": {
@@ -181236,5 +181238,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:27:22.451967+00:00"
+  "updated_at": "2026-11-11T00:27:24.276741+00:00"
 }
