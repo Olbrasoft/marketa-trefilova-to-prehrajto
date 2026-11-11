@@ -120836,13 +120836,6 @@
           "source_id": "34176833",
           "target_video_id": "30985061",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:34:00.962622+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34176833",
-          "target_video_id": "30985061",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:17:09.822298+00:00"
         },
         {
@@ -120851,6 +120844,13 @@
           "target_video_id": "30985061",
           "permanent": false,
           "attempted_at": "2026-11-11T02:50:15.399304+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34176833",
+          "target_video_id": "30985061",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:22:53.421559+00:00"
         }
       ],
       "last_plan": {
@@ -120864,12 +120864,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T18:46:56.543848+00:00",
         "relay_source_id": "34176833"
-      },
-      "claim": {
-        "worker_id": "d1700b3863784cf6b1344c5e23a1435a-shard-0",
-        "claimed_at": "2026-11-11T03:22:51.245922+00:00",
-        "lease_expires_at": "2026-11-11T09:22:51.245922+00:00",
-        "run_id": "42938376778"
       }
     },
     "19133": {
@@ -123890,7 +123884,7 @@
       "last_plan": {
         "source_id": "33977403",
         "display_name": "Farinelli SD CZ Dabing",
-        "planned_at": "2026-11-11T02:50:14.567608+00:00"
+        "planned_at": "2026-11-11T03:22:52.797618+00:00"
       },
       "previous_target_id": "30985736",
       "prepared": {
@@ -123898,6 +123892,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T21:33:37.516001+00:00",
         "relay_source_id": "33977403"
+      },
+      "claim": {
+        "worker_id": "e851aaa59e524607a5b25860a2ffec9e-shard-0",
+        "claimed_at": "2026-11-11T03:22:53.292728+00:00",
+        "lease_expires_at": "2026-11-11T09:22:53.292728+00:00",
+        "run_id": "42938376778"
       }
     },
     "22100": {
@@ -130655,7 +130655,7 @@
       "last_plan": {
         "source_id": "30618554",
         "display_name": "Hvězda zvaná Pelyněk SD CZ Dabing",
-        "planned_at": "2026-11-11T03:22:50.846694+00:00"
+        "planned_at": "2026-11-11T03:22:53.005245+00:00"
       }
     },
     "32958": {
@@ -184583,5 +184583,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:22:51.401240+00:00"
+  "updated_at": "2026-11-11T03:22:53.421574+00:00"
 }
