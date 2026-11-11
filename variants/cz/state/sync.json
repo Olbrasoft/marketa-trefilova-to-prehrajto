@@ -131321,17 +131321,19 @@
       }
     },
     "24385": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33817063",
+          "target_video_id": "30987134",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:45:04.194074+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33817063",
         "display_name": "Páté kolo u vozu 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:44:20.889369+00:00"
-      },
-      "claim": {
-        "worker_id": "85c0ff8d68ed45bb82299bbdd6f5c0e1-shard-0",
-        "claimed_at": "2026-11-11T03:44:22.711707+00:00",
-        "lease_expires_at": "2026-11-11T09:44:22.711707+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987134",
       "prepared": {
@@ -185184,5 +185186,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:45:02.757506+00:00"
+  "updated_at": "2026-11-11T03:45:04.194089+00:00"
 }
