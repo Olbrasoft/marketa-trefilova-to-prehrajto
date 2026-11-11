@@ -117367,13 +117367,6 @@
           "source_id": "9734358",
           "target_video_id": "30984815",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:08:07.928951+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9734358",
-          "target_video_id": "30984815",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:45:17.937766+00:00"
         },
         {
@@ -117382,6 +117375,13 @@
           "target_video_id": "30984815",
           "permanent": false,
           "attempted_at": "2026-11-11T03:18:12.567151+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9734358",
+          "target_video_id": "30984815",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:53:15.904853+00:00"
         }
       ],
       "last_plan": {
@@ -117395,12 +117395,6 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T17:44:26.996889+00:00",
         "relay_source_id": "9734358"
-      },
-      "claim": {
-        "worker_id": "0dc5df78abfd4a818ff9082ebafd84b3-shard-0",
-        "claimed_at": "2026-11-11T03:53:13.822205+00:00",
-        "lease_expires_at": "2026-11-11T09:53:13.822205+00:00",
-        "run_id": "42938376778"
       }
     },
     "3095": {
@@ -121799,7 +121793,7 @@
       "last_plan": {
         "source_id": "30394887",
         "display_name": "With Honors 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:18:11.215424+00:00"
+        "planned_at": "2026-11-11T03:53:15.409740+00:00"
       },
       "previous_target_id": "30985435",
       "prepared": {
@@ -121807,6 +121801,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T19:18:34.046446+00:00",
         "relay_source_id": "30394887"
+      },
+      "claim": {
+        "worker_id": "023e7bde4f9e4200bdbf4f959fada37c-shard-0",
+        "claimed_at": "2026-11-11T03:53:16.056847+00:00",
+        "lease_expires_at": "2026-11-11T09:53:16.056847+00:00",
+        "run_id": "42938376778"
       }
     },
     "11084": {
@@ -131690,7 +131690,7 @@
       "last_plan": {
         "source_id": "34715394",
         "display_name": "Káta a krokodýl (Káťa a krokodýl) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:53:13.579235+00:00"
+        "planned_at": "2026-11-11T03:53:15.625458+00:00"
       }
     },
     "23538": {
@@ -185444,5 +185444,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:53:13.966376+00:00"
+  "updated_at": "2026-11-11T03:53:16.056860+00:00"
 }
