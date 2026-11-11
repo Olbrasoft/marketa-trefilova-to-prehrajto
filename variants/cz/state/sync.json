@@ -122612,6 +122612,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T20:02:25.028388+00:00",
         "relay_source_id": "9868166"
+      },
+      "claim": {
+        "worker_id": "c84db243ba4441658ba28cc73f8f1ff0-shard-0",
+        "claimed_at": "2026-11-11T01:51:45.709679+00:00",
+        "lease_expires_at": "2026-11-11T07:51:45.709679+00:00",
+        "run_id": "42904278669"
       }
     },
     "26269": {
@@ -128074,17 +128080,19 @@
       "attempts": []
     },
     "29531": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34711999",
+          "target_video_id": "30986733",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:51:47.321740+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34711999",
         "display_name": "Gourmet Detective: Eat, Drink, and Be Buried (Gourmet Detective: Eat, Drink and Be Buried) 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:47:14.345187+00:00"
-      },
-      "claim": {
-        "worker_id": "7faf277d44284a72a5fadc9e40eeb0fa-shard-0",
-        "claimed_at": "2026-11-11T01:47:15.377330+00:00",
-        "lease_expires_at": "2026-11-11T07:47:15.377330+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986733",
       "prepared": {
@@ -182420,5 +182428,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:51:43.852498+00:00"
+  "updated_at": "2026-11-11T01:51:47.321767+00:00"
 }
