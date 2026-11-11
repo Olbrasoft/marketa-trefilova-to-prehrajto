@@ -122678,7 +122678,7 @@
       "last_plan": {
         "source_id": "33589689",
         "display_name": "Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:37:16.337151+00:00"
+        "planned_at": "2026-11-11T03:09:52.697476+00:00"
       },
       "previous_target_id": "30985541",
       "prepared": {
@@ -122686,6 +122686,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T20:10:08.286827+00:00",
         "relay_source_id": "33589689"
+      },
+      "claim": {
+        "worker_id": "d6adeb36b4b34ae3bca45b84a3cc58c7-shard-0",
+        "claimed_at": "2026-11-11T03:09:53.182348+00:00",
+        "lease_expires_at": "2026-11-11T09:09:53.182348+00:00",
+        "run_id": "42938376778"
       }
     },
     "27916": {
@@ -129535,6 +129541,13 @@
           "target_video_id": "30986904",
           "permanent": false,
           "attempted_at": "2026-11-11T02:37:14.762404+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35246262",
+          "target_video_id": "30986904",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:09:53.326349+00:00"
         }
       ],
       "last_plan": {
@@ -129545,15 +129558,9 @@
       "previous_target_id": "30986904",
       "prepared": {
         "target_video_id": "30986904",
-        "size_bytes": 5806745989,
+        "size_bytes": 5800000000,
         "prepared_at": "2026-11-11T02:36:37.371573+00:00",
         "relay_source_id": "35246262"
-      },
-      "claim": {
-        "worker_id": "3ca6e7789dba45c9b725d84a97036129-shard-0",
-        "claimed_at": "2026-11-11T03:09:51.019798+00:00",
-        "lease_expires_at": "2026-11-11T09:09:51.019798+00:00",
-        "run_id": "42938376778"
       }
     },
     "3111": {
@@ -130253,7 +130260,7 @@
       "last_plan": {
         "source_id": "32614966",
         "display_name": "Under the Grey Sky (Pod szarym niebem) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:09:50.775062+00:00"
+        "planned_at": "2026-11-11T03:09:52.903635+00:00"
       }
     },
     "12675": {
@@ -184241,5 +184248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:09:51.174329+00:00"
+  "updated_at": "2026-11-11T03:09:53.326360+00:00"
 }
