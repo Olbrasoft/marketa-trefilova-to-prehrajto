@@ -115846,7 +115846,7 @@
       "last_plan": {
         "source_id": "33594906",
         "display_name": "Dan in Real Life 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:24:09.278962+00:00"
+        "planned_at": "2026-11-11T20:36:00.292321+00:00"
       },
       "previous_target_id": "30984670",
       "prepared": {
@@ -115854,6 +115854,12 @@
         "size_bytes": 9700000000,
         "prepared_at": "2026-11-10T17:15:51.439401+00:00",
         "relay_source_id": "33594906"
+      },
+      "claim": {
+        "worker_id": "8e2888ab156f45a391e9f4ab5e06c70d-shard-0",
+        "claimed_at": "2026-11-11T20:36:00.739650+00:00",
+        "lease_expires_at": "2026-11-12T02:36:00.739650+00:00",
+        "run_id": "43067513109"
       }
     },
     "12003": {
@@ -145796,17 +145802,19 @@
       "attempts": []
     },
     "14753": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29399864",
+          "target_video_id": "30993756",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:36:01.883273+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29399864",
         "display_name": "Murder in Biot (Crimes à Biot) SD CZ Dabing",
         "planned_at": "2026-11-11T20:31:32.062847+00:00"
-      },
-      "claim": {
-        "worker_id": "c3ab610d015448dcbed3101b1a6caf2f-shard-0",
-        "claimed_at": "2026-11-11T20:31:32.563135+00:00",
-        "lease_expires_at": "2026-11-12T02:31:32.563135+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30993756",
       "prepared": {
@@ -145821,7 +145829,7 @@
       "last_plan": {
         "source_id": "34779601",
         "display_name": "Revival 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:35:55.818855+00:00"
+        "planned_at": "2026-11-11T20:36:00.493070+00:00"
       }
     },
     "11348": {
@@ -197529,5 +197537,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:35:57.515463+00:00"
+  "updated_at": "2026-11-11T20:36:01.883291+00:00"
 }
