@@ -136579,17 +136579,19 @@
       }
     },
     "24384": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32899046",
+          "target_video_id": "30987847",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:25:00.170336+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32899046",
         "display_name": "The Right to Sin SD CZ Dabing",
         "planned_at": "2026-11-11T06:24:13.328718+00:00"
-      },
-      "claim": {
-        "worker_id": "51465ec0ba2441d49aa68f571b95a7bb-shard-0",
-        "claimed_at": "2026-11-11T06:24:15.423319+00:00",
-        "lease_expires_at": "2026-11-11T12:24:15.423319+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987847",
       "prepared": {
@@ -189629,5 +189631,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:24:58.591128+00:00"
+  "updated_at": "2026-11-11T06:25:00.170352+00:00"
 }
