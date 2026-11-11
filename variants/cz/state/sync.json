@@ -132845,13 +132845,6 @@
           "source_id": "27786470",
           "target_video_id": "30987288",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:11:35.129838+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27786470",
-          "target_video_id": "30987288",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:09:01.037473+00:00"
         },
         {
@@ -132860,6 +132853,13 @@
           "target_video_id": "30987288",
           "permanent": false,
           "attempted_at": "2026-11-11T09:10:33.100264+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27786470",
+          "target_video_id": "30987288",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:20:02.333685+00:00"
         }
       ],
       "last_plan": {
@@ -137258,7 +137258,7 @@
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:10:34.800756+00:00"
+        "planned_at": "2026-11-11T12:20:00.590767+00:00"
       },
       "previous_target_id": "30987819",
       "prepared": {
@@ -137266,6 +137266,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T06:14:06.914609+00:00",
         "relay_source_id": "33554657"
+      },
+      "claim": {
+        "worker_id": "0194d340ac3347da9a781d4ed2df1592-shard-0",
+        "claimed_at": "2026-11-11T12:20:01.466954+00:00",
+        "lease_expires_at": "2026-11-11T18:20:01.466954+00:00",
+        "run_id": "43011363893"
       }
     },
     "29359": {
@@ -143169,7 +143175,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:19:58.056997+00:00"
+        "planned_at": "2026-11-11T12:20:00.974688+00:00"
       }
     },
     "20941": {
@@ -195307,5 +195313,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:19:58.057013+00:00"
+  "updated_at": "2026-11-11T12:20:02.333702+00:00"
 }
