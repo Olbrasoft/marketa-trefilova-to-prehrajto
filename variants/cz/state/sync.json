@@ -138543,13 +138543,6 @@
           "source_id": "34885521",
           "target_video_id": "30987929",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:46:59.853756+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34885521",
-          "target_video_id": "30987929",
-          "permanent": false,
           "attempted_at": "2026-11-11T10:00:40.450621+00:00"
         },
         {
@@ -138558,12 +138551,19 @@
           "target_video_id": "30987929",
           "permanent": false,
           "attempted_at": "2026-11-11T13:05:51.017586+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34885521",
+          "target_video_id": "30987929",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:23:31.192999+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34885521",
         "display_name": "Killing the Devil (Vražda ing. Čerta) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:05:46.412283+00:00"
+        "planned_at": "2026-11-11T14:23:28.680632+00:00"
       },
       "previous_target_id": "30987929",
       "prepared": {
@@ -144563,7 +144563,13 @@
       "last_plan": {
         "source_id": "34713544",
         "display_name": "Mahuliena, Golden Maiden 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:23:23.299284+00:00"
+        "planned_at": "2026-11-11T14:23:29.032155+00:00"
+      },
+      "claim": {
+        "worker_id": "8e73f96312ee46c69e650f170331e643-shard-0",
+        "claimed_at": "2026-11-11T14:23:29.907655+00:00",
+        "lease_expires_at": "2026-11-11T20:23:29.907655+00:00",
+        "run_id": "43011363893"
       }
     },
     "31958": {
@@ -144579,7 +144585,12 @@
       "attempts": []
     },
     "7577": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29057814",
+        "display_name": "Cesta domu (Cesta domů) 4K CZ Dabing",
+        "planned_at": "2026-11-11T14:23:29.243627+00:00"
+      }
     },
     "24791": {
       "attempts": []
@@ -196499,5 +196510,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:23:26.400379+00:00"
+  "updated_at": "2026-11-11T14:23:31.193015+00:00"
 }
