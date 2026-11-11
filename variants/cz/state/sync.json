@@ -139199,13 +139199,6 @@
           "source_id": "30326245",
           "target_video_id": "30987991",
           "permanent": false,
-          "attempted_at": "2026-11-11T17:28:51.090573+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30326245",
-          "target_video_id": "30987991",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:40:12.915640+00:00"
         },
         {
@@ -139214,12 +139207,19 @@
           "target_video_id": "30987991",
           "permanent": false,
           "attempted_at": "2026-11-11T19:54:52.308437+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30326245",
+          "target_video_id": "30987991",
+          "permanent": false,
+          "attempted_at": "2026-11-11T21:06:18.834828+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30326245",
         "display_name": "Ľalie poľné SD CZ Dabing",
-        "planned_at": "2026-11-11T19:54:50.047982+00:00"
+        "planned_at": "2026-11-11T21:06:16.990961+00:00"
       },
       "previous_target_id": "30987991",
       "prepared": {
@@ -145949,11 +145949,22 @@
       "last_plan": {
         "source_id": "26591977",
         "display_name": "El paraíso 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:06:12.397289+00:00"
+        "planned_at": "2026-11-11T21:06:17.199407+00:00"
+      },
+      "claim": {
+        "worker_id": "1de0afb2024b4233a61d28bd5ff8af47-shard-0",
+        "claimed_at": "2026-11-11T21:06:17.713345+00:00",
+        "lease_expires_at": "2026-11-12T03:06:17.713345+00:00",
+        "run_id": "43067513109"
       }
     },
     "16974": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30991767",
+        "display_name": "Gangster Ka: African (Gangster Ka: Afričan) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T21:06:17.330913+00:00"
+      }
     },
     "5532": {
       "attempts": []
@@ -197624,5 +197635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:06:15.207894+00:00"
+  "updated_at": "2026-11-11T21:06:18.834843+00:00"
 }
