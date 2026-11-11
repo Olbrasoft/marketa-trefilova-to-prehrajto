@@ -115427,13 +115427,6 @@
           "source_id": "33509401",
           "target_video_id": "30984644",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:52:22.775874+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33509401",
-          "target_video_id": "30984644",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:43:52.582922+00:00"
         },
         {
@@ -115442,6 +115435,13 @@
           "target_video_id": "30984644",
           "permanent": false,
           "attempted_at": "2026-11-11T07:39:52.824104+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33509401",
+          "target_video_id": "30984644",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:38:39.645662+00:00"
         }
       ],
       "last_plan": {
@@ -115455,12 +115455,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T17:11:59.687801+00:00",
         "relay_source_id": "33509401"
-      },
-      "claim": {
-        "worker_id": "d77ed2af854e4952a4231e8251eb4f2d-shard-0",
-        "claimed_at": "2026-11-11T08:38:36.398693+00:00",
-        "lease_expires_at": "2026-11-11T14:38:36.398693+00:00",
-        "run_id": "42965310158"
       }
     },
     "12034": {
@@ -117272,7 +117266,7 @@
       "last_plan": {
         "source_id": "33733528",
         "display_name": "Storks 4K CZ Dabing",
-        "planned_at": "2026-11-11T07:39:51.269235+00:00"
+        "planned_at": "2026-11-11T08:38:39.868270+00:00"
       },
       "previous_target_id": "30984809",
       "prepared": {
@@ -140966,17 +140960,19 @@
       }
     },
     "26163": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32998692",
+          "target_video_id": "30988519",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:38:40.095010+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32998692",
         "display_name": "Little Girl Blue 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:37:54.720074+00:00"
-      },
-      "claim": {
-        "worker_id": "fdc8af94f60544f3b53c21f5570391bc-shard-0",
-        "claimed_at": "2026-11-11T08:37:57.042469+00:00",
-        "lease_expires_at": "2026-11-11T14:37:57.042469+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988519",
       "prepared": {
@@ -193395,5 +193391,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:38:38.015028+00:00"
+  "updated_at": "2026-11-11T08:38:40.095029+00:00"
 }
