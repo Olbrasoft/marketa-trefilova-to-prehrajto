@@ -126289,6 +126289,12 @@
         "size_bytes": 741800000,
         "prepared_at": "2026-11-10T23:48:08.590355+00:00",
         "relay_source_id": "34788727"
+      },
+      "claim": {
+        "worker_id": "80f84c887fd649479a7f3525410b14be-shard-0",
+        "claimed_at": "2026-11-11T12:26:17.402487+00:00",
+        "lease_expires_at": "2026-11-11T18:26:17.402487+00:00",
+        "run_id": "43011363893"
       }
     },
     "13340": {
@@ -132963,7 +132969,7 @@
       "last_plan": {
         "source_id": "34710904",
         "display_name": "O Nesytovi 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:15:55.399369+00:00"
+        "planned_at": "2026-11-11T12:26:17.646205+00:00"
       },
       "previous_target_id": "30987301",
       "prepared": {
@@ -135634,13 +135640,6 @@
           "source_id": "34528200",
           "target_video_id": "30987645",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:14:23.340849+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34528200",
-          "target_video_id": "30987645",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:12:17.088195+00:00"
         },
         {
@@ -135649,6 +135648,13 @@
           "target_video_id": "30987645",
           "permanent": false,
           "attempted_at": "2026-11-11T09:15:53.407379+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34528200",
+          "target_video_id": "30987645",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:26:17.214552+00:00"
         }
       ],
       "last_plan": {
@@ -135662,12 +135668,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-11T05:33:32.582515+00:00",
         "relay_source_id": "34528200"
-      },
-      "claim": {
-        "worker_id": "0195196233424209b45485de96e798cd-shard-0",
-        "claimed_at": "2026-11-11T12:26:14.107088+00:00",
-        "lease_expires_at": "2026-11-11T18:26:14.107088+00:00",
-        "run_id": "43011363893"
       }
     },
     "13978": {
@@ -143257,7 +143257,7 @@
       "last_plan": {
         "source_id": "25217823",
         "display_name": "In Love SD CZ Dabing",
-        "planned_at": "2026-11-11T12:26:14.681659+00:00"
+        "planned_at": "2026-11-11T12:26:17.976156+00:00"
       }
     },
     "14419": {
@@ -195364,5 +195364,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:26:14.993955+00:00"
+  "updated_at": "2026-11-11T12:26:17.976172+00:00"
 }
