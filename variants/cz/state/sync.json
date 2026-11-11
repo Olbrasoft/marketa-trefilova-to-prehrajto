@@ -135069,17 +135069,19 @@
       }
     },
     "34108": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32367766",
+          "target_video_id": "30987691",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:41:02.480221+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32367766",
         "display_name": "Alibi on the Lake (Alibi na vodě) 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:40:17.665837+00:00"
-      },
-      "claim": {
-        "worker_id": "e49a517ee4f04a0e84d8f63123166cfb-shard-0",
-        "claimed_at": "2026-11-11T05:40:19.475681+00:00",
-        "lease_expires_at": "2026-11-11T11:40:19.475681+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987691",
       "prepared": {
@@ -188335,5 +188337,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:41:00.977295+00:00"
+  "updated_at": "2026-11-11T05:41:02.480235+00:00"
 }
