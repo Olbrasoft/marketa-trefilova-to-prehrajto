@@ -125500,7 +125500,7 @@
       "last_plan": {
         "source_id": "31422476",
         "display_name": "The Brain (Le Cerveau) 4K CZ Dabing",
-        "planned_at": "2026-11-11T14:15:56.068019+00:00"
+        "planned_at": "2026-11-11T15:33:29.129312+00:00"
       },
       "previous_target_id": "30985924",
       "prepared": {
@@ -125508,6 +125508,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-11-10T22:35:50.077167+00:00",
         "relay_source_id": "31422476"
+      },
+      "claim": {
+        "worker_id": "8d2c076a5bc74a3dbb1e4de258965a79-shard-0",
+        "claimed_at": "2026-11-11T15:33:29.980746+00:00",
+        "lease_expires_at": "2026-11-11T21:33:29.980746+00:00",
+        "run_id": "43011363893"
       }
     },
     "10713": {
@@ -144582,17 +144588,23 @@
           "attempted_at": "2026-11-11T14:15:54.032202+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34134271",
-        "display_name": "Definice lásky 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:33:26.428621+00:00"
-      },
       "previous_target_id": "30990899",
-      "prepared": {
+      "upload": {
         "target_video_id": "30990899",
-        "size_bytes": 3681853915,
-        "prepared_at": "2026-11-11T14:06:12.520102+00:00",
-        "relay_source_id": "34134271"
+        "display_name": "Definice lásky 1080p CZ Dabing",
+        "source_id": "34134271",
+        "source_url": "https://sdilej.cz/34134271/definice-lasky.mp4",
+        "source_filename": "Definice lásky.mp4",
+        "size_bytes": 3700000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.868635281920433,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/definice-lasky-1080p-cz-dabing-mp4/056cd13889a3cea9",
+        "uploaded_at": "2026-11-11T15:33:30.374775+00:00"
       }
     },
     "37404": {
@@ -144784,7 +144796,7 @@
       "last_plan": {
         "source_id": "28267627",
         "display_name": "The Sheep Has Five Legs SD CZ Dabing",
-        "planned_at": "2026-11-11T15:33:26.811049+00:00"
+        "planned_at": "2026-11-11T15:33:29.475786+00:00"
       }
     },
     "17424": {
@@ -196687,5 +196699,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:33:27.073451+00:00"
+  "updated_at": "2026-11-11T15:33:30.374789+00:00"
 }
