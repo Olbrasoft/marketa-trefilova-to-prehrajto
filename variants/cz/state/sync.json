@@ -125339,13 +125339,6 @@
           "source_id": "34150939",
           "target_video_id": "30985913",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:53:13.018604+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34150939",
-          "target_video_id": "30985913",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:30:31.885149+00:00"
         },
         {
@@ -125354,6 +125347,13 @@
           "target_video_id": "30985913",
           "permanent": false,
           "attempted_at": "2026-11-11T01:12:11.567204+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34150939",
+          "target_video_id": "30985913",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:53:17.915818+00:00"
         }
       ],
       "last_plan": {
@@ -125367,12 +125367,6 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T22:31:34.920838+00:00",
         "relay_source_id": "34150939"
-      },
-      "claim": {
-        "worker_id": "e3d335b38574424aba81d7897aefdbb4-shard-0",
-        "claimed_at": "2026-11-11T01:53:14.585729+00:00",
-        "lease_expires_at": "2026-11-11T07:53:14.585729+00:00",
-        "run_id": "42904278669"
       }
     },
     "2850": {
@@ -126425,7 +126419,7 @@
       "last_plan": {
         "source_id": "29549918",
         "display_name": "Tsar SD CZ Dabing",
-        "planned_at": "2026-11-11T01:12:14.054657+00:00"
+        "planned_at": "2026-11-11T01:53:16.934356+00:00"
       },
       "previous_target_id": "30986280",
       "prepared": {
@@ -126433,6 +126427,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T23:52:40.570565+00:00",
         "relay_source_id": "29549918"
+      },
+      "claim": {
+        "worker_id": "1f5e93f77426468b839bc542324b4f87-shard-0",
+        "claimed_at": "2026-11-11T01:53:17.665059+00:00",
+        "lease_expires_at": "2026-11-11T07:53:17.665059+00:00",
+        "run_id": "42904278669"
       }
     },
     "31175": {
@@ -128128,7 +128128,7 @@
       "last_plan": {
         "source_id": "30540763",
         "display_name": "One Perfect Match 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:53:14.002979+00:00"
+        "planned_at": "2026-11-11T01:53:17.258509+00:00"
       }
     },
     "14589": {
@@ -182446,5 +182446,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:53:15.236551+00:00"
+  "updated_at": "2026-11-11T01:53:17.915839+00:00"
 }
