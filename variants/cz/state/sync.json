@@ -107249,13 +107249,6 @@
           "source_id": "34713446",
           "target_video_id": "30983246",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:35:58.152055+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34713446",
-          "target_video_id": "30983246",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:16:53.520412+00:00"
         },
         {
@@ -107264,6 +107257,13 @@
           "target_video_id": "30983246",
           "permanent": false,
           "attempted_at": "2026-11-11T01:57:55.876768+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713446",
+          "target_video_id": "30983246",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:38:13.973169+00:00"
         }
       ],
       "last_plan": {
@@ -107309,7 +107309,7 @@
       "last_plan": {
         "source_id": "34883521",
         "display_name": "Vera 68 (Věra 68) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:58:00.530863+00:00"
+        "planned_at": "2026-11-11T02:38:13.321285+00:00"
       },
       "previous_target_id": "30983259",
       "prepared": {
@@ -107317,6 +107317,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-10T13:56:32.195971+00:00",
         "relay_source_id": "34883521"
+      },
+      "claim": {
+        "worker_id": "dd234a0b3ce44369b52a2a6ca7b0cf4a-shard-0",
+        "claimed_at": "2026-11-11T02:38:13.835410+00:00",
+        "lease_expires_at": "2026-11-11T08:38:13.835410+00:00",
+        "run_id": "42938376778"
       }
     },
     "26105": {
@@ -129276,6 +129282,12 @@
         "source_id": "31267316",
         "display_name": "The Apple Game (Hra o jablko) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:38:09.542899+00:00"
+      },
+      "claim": {
+        "worker_id": "0eec8c3a8b2e4d4e83b4a7de43095053-shard-0",
+        "claimed_at": "2026-11-11T02:38:12.817805+00:00",
+        "lease_expires_at": "2026-11-11T08:38:12.817805+00:00",
+        "run_id": "42938376778"
       }
     },
     "11467": {
@@ -129283,7 +129295,7 @@
       "last_plan": {
         "source_id": "27361344",
         "display_name": "The Very Late Afternoon of a Faun (Faunovo velmi pozdní odpoledne) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:38:09.689834+00:00"
+        "planned_at": "2026-11-11T02:38:13.523361+00:00"
       }
     },
     "2834": {
@@ -183400,5 +183412,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:38:09.689843+00:00"
+  "updated_at": "2026-11-11T02:38:13.973182+00:00"
 }
