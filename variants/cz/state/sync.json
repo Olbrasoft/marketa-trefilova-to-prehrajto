@@ -111901,13 +111901,6 @@
           "source_id": "34713455",
           "target_video_id": "30983901",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:46:49.212088+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34713455",
-          "target_video_id": "30983901",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:37:02.586278+00:00"
         },
         {
@@ -111916,6 +111909,13 @@
           "target_video_id": "30983901",
           "permanent": false,
           "attempted_at": "2026-11-11T07:31:29.352072+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713455",
+          "target_video_id": "30983901",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:30:00.981596+00:00"
         }
       ],
       "last_plan": {
@@ -130902,7 +130902,7 @@
       "last_plan": {
         "source_id": "34860819",
         "display_name": "Guard 13 (13. revír) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:31:28.852086+00:00"
+        "planned_at": "2026-11-11T08:29:59.631857+00:00"
       },
       "previous_target_id": "30986996",
       "prepared": {
@@ -130910,6 +130910,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-11T03:11:45.728295+00:00",
         "relay_source_id": "34860819"
+      },
+      "claim": {
+        "worker_id": "ccc892fe22f04a908afcd2ad55b2af77-shard-0",
+        "claimed_at": "2026-11-11T08:30:00.321250+00:00",
+        "lease_expires_at": "2026-11-11T14:30:00.321250+00:00",
+        "run_id": "42965310158"
       }
     },
     "32881": {
@@ -140690,6 +140696,12 @@
         "source_id": "18958721",
         "display_name": "Wie von einem anderen Stern (Rosamunde Pilcher: Wie von einem anderen Stern) 720p CZ Dabing",
         "planned_at": "2026-11-11T08:29:56.889751+00:00"
+      },
+      "claim": {
+        "worker_id": "d66f94eb8d6445d1b68279cee7679c30-shard-0",
+        "claimed_at": "2026-11-11T08:29:59.418450+00:00",
+        "lease_expires_at": "2026-11-11T14:29:59.418450+00:00",
+        "run_id": "42965310158"
       }
     },
     "3271": {
@@ -140697,7 +140709,7 @@
       "last_plan": {
         "source_id": "33960672",
         "display_name": "Banger (BANGER.) (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:29:57.421656+00:00"
+        "planned_at": "2026-11-11T08:29:59.905116+00:00"
       }
     },
     "35283": {
@@ -193131,5 +193143,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:29:57.421672+00:00"
+  "updated_at": "2026-11-11T08:30:00.981614+00:00"
 }
