@@ -74390,13 +74390,6 @@
           "source_id": "31379501",
           "target_video_id": "30885416",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:35:05.783432+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31379501",
-          "target_video_id": "30885416",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:18:02.696037+00:00"
         },
         {
@@ -74405,6 +74398,13 @@
           "target_video_id": "30885416",
           "permanent": false,
           "attempted_at": "2026-11-11T02:51:05.555741+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31379501",
+          "target_video_id": "30885416",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:23:43.786698+00:00"
         }
       ],
       "last_plan": {
@@ -74418,12 +74418,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T08:02:43.047319+00:00",
         "relay_source_id": "31379501"
-      },
-      "claim": {
-        "worker_id": "bc1aed7804a5414cb78495ae9610a83a-shard-0",
-        "claimed_at": "2026-11-11T03:23:40.954197+00:00",
-        "lease_expires_at": "2026-11-11T09:23:40.954197+00:00",
-        "run_id": "42938376778"
       }
     },
     "25458": {
@@ -130691,7 +130685,7 @@
       "last_plan": {
         "source_id": "30410983",
         "display_name": "Stedrý vecer pana rady Vacátka (Štědrý večer pana rady Vacátka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:23:40.673232+00:00"
+        "planned_at": "2026-11-11T03:23:43.366121+00:00"
       }
     },
     "13346": {
@@ -184598,7 +184592,7 @@
       "last_plan": {
         "source_id": "22159844",
         "display_name": "Apocalypse Now Redux (Apocalypse Now) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:51:04.190800+00:00"
+        "planned_at": "2026-11-11T03:23:43.152593+00:00"
       },
       "previous_target_id": "30984960",
       "prepared": {
@@ -184606,9 +184600,15 @@
         "size_bytes": 14900000000,
         "prepared_at": "2026-11-10T18:20:07.517848+00:00",
         "relay_source_id": "22159844"
+      },
+      "claim": {
+        "worker_id": "74c0ab365c7847d0a6d96b46716ce48c-shard-0",
+        "claimed_at": "2026-11-11T03:23:43.631626+00:00",
+        "lease_expires_at": "2026-11-11T09:23:43.631626+00:00",
+        "run_id": "42938376778"
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:23:41.711727+00:00"
+  "updated_at": "2026-11-11T03:23:43.786711+00:00"
 }
