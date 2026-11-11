@@ -129591,6 +129591,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T02:29:31.025469+00:00",
         "relay_source_id": "34255923"
+      },
+      "claim": {
+        "worker_id": "51f1eb8b6d304d78ba0d1c9a5aac9b59-shard-0",
+        "claimed_at": "2026-11-11T09:16:19.967122+00:00",
+        "lease_expires_at": "2026-11-11T15:16:19.967122+00:00",
+        "run_id": "42965310158"
       }
     },
     "3086": {
@@ -142058,17 +142064,19 @@
       }
     },
     "12663": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31011202",
+          "target_video_id": "30988658",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:16:20.313254+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31011202",
         "display_name": "The Christening Party (Křtiny) 1080p CZ Dabing",
         "planned_at": "2026-11-11T09:07:22.093270+00:00"
-      },
-      "claim": {
-        "worker_id": "6854f6c38bed40ecbd08f69e46db570f-shard-0",
-        "claimed_at": "2026-11-11T09:07:25.539296+00:00",
-        "lease_expires_at": "2026-11-11T15:07:25.539296+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988658",
       "prepared": {
@@ -194339,5 +194347,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:16:18.163158+00:00"
+  "updated_at": "2026-11-11T09:16:20.313269+00:00"
 }
