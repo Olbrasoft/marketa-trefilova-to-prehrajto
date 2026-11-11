@@ -132904,17 +132904,19 @@
       }
     },
     "30560": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33817621",
+          "target_video_id": "30987402",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:32:39.097950+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:31:54.257171+00:00"
-      },
-      "claim": {
-        "worker_id": "58f56112c1244992ac28b542d1d53d3d-shard-0",
-        "claimed_at": "2026-11-11T04:31:56.217942+00:00",
-        "lease_expires_at": "2026-11-11T10:31:56.217942+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987402",
       "prepared": {
@@ -186476,5 +186478,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:32:37.310122+00:00"
+  "updated_at": "2026-11-11T04:32:39.097962+00:00"
 }
