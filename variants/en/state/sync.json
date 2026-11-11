@@ -11471,13 +11471,6 @@
           "source_id": "26167173",
           "target_video_id": "30682158",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:33:16.546578+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26167173",
-          "target_video_id": "30682158",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:03:22.956046+00:00"
         },
         {
@@ -11486,6 +11479,13 @@
           "target_video_id": "30682158",
           "permanent": false,
           "attempted_at": "2026-11-11T02:33:28.947107+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26167173",
+          "target_video_id": "30682158",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:03:37.160522+00:00"
         }
       ],
       "last_plan": {
@@ -11499,12 +11499,6 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
-      },
-      "claim": {
-        "worker_id": "545a2d79bfae476288996600997f8620-shard-0",
-        "claimed_at": "2026-11-11T03:03:34.146739+00:00",
-        "lease_expires_at": "2026-11-11T09:03:34.146739+00:00",
-        "run_id": "42938376778"
       }
     },
     "834": {
@@ -14205,6 +14199,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-02T03:41:03.364348+00:00",
         "relay_source_id": "19346570"
+      },
+      "claim": {
+        "worker_id": "95ee592e24414bcf82b1337fd85d64aa-shard-0",
+        "claimed_at": "2026-11-11T03:03:36.470066+00:00",
+        "lease_expires_at": "2026-11-11T09:03:36.470066+00:00",
+        "run_id": "42938376778"
       }
     },
     "880": {
@@ -17625,7 +17625,7 @@
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
-        "planned_at": "2026-11-11T02:33:31.038162+00:00"
+        "planned_at": "2026-11-11T03:03:36.920974+00:00"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -96367,5 +96367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:03:34.731015+00:00"
+  "updated_at": "2026-11-11T03:03:37.160555+00:00"
 }
