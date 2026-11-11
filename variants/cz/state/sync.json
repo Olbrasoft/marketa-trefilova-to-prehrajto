@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:38:43.176541+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:21:37.945487+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-10T23:59:28.597960+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:38:25.044213+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "094eda317f4541d18c707c6c675d15a6-shard-0",
-        "claimed_at": "2026-11-11T00:38:21.381850+00:00",
-        "lease_expires_at": "2026-11-11T06:38:21.381850+00:00",
-        "run_id": "42904278669"
       }
     },
     "54": {
@@ -111786,7 +111780,7 @@
       "last_plan": {
         "source_id": "28689669",
         "display_name": "Od zítřka nečaruji (No Magic from Tomorrow) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:59:27.588775+00:00"
+        "planned_at": "2026-11-11T00:38:23.949691+00:00"
       },
       "previous_target_id": "30983852",
       "prepared": {
@@ -111794,6 +111788,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T14:59:51.629242+00:00",
         "relay_source_id": "28689669"
+      },
+      "claim": {
+        "worker_id": "f1894b0f9e064db6ac01f20feb7dd360-shard-0",
+        "claimed_at": "2026-11-11T00:38:24.714730+00:00",
+        "lease_expires_at": "2026-11-11T06:38:24.714730+00:00",
+        "run_id": "42904278669"
       }
     },
     "23936": {
@@ -126820,7 +126820,7 @@
       "last_plan": {
         "source_id": "32484287",
         "display_name": "Christmas in Conway 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:38:20.939180+00:00"
+        "planned_at": "2026-11-11T00:38:24.261889+00:00"
       }
     },
     "16080": {
@@ -181384,5 +181384,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:38:22.193590+00:00"
+  "updated_at": "2026-11-11T00:38:25.044233+00:00"
 }
