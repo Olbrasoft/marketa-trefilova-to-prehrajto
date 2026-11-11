@@ -131793,13 +131793,6 @@
           "source_id": "33767536",
           "target_video_id": "30987126",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:06:52.417145+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33767536",
-          "target_video_id": "30987126",
-          "permanent": false,
           "attempted_at": "2026-11-11T17:43:09.198853+00:00"
         },
         {
@@ -131808,6 +131801,13 @@
           "target_video_id": "30987126",
           "permanent": false,
           "attempted_at": "2026-11-11T18:53:14.047609+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767536",
+          "target_video_id": "30987126",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:10:36.285963+00:00"
         }
       ],
       "last_plan": {
@@ -141334,7 +141334,7 @@
       "last_plan": {
         "source_id": "32763852",
         "display_name": "Šviháci 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:53:17.045712+00:00"
+        "planned_at": "2026-11-11T20:10:34.928896+00:00"
       },
       "previous_target_id": "30988393",
       "prepared": {
@@ -141342,6 +141342,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T08:19:06.905333+00:00",
         "relay_source_id": "32763852"
+      },
+      "claim": {
+        "worker_id": "2144901a0da24c2ea154ac48e17477f9-shard-0",
+        "claimed_at": "2026-11-11T20:10:35.436033+00:00",
+        "lease_expires_at": "2026-11-12T02:10:35.436033+00:00",
+        "run_id": "43067513109"
       }
     },
     "27827": {
@@ -145690,7 +145696,7 @@
       "last_plan": {
         "source_id": "33391039",
         "display_name": "Him and His Sister (On a jeho sestra) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:10:33.017389+00:00"
+        "planned_at": "2026-11-11T20:10:35.154775+00:00"
       }
     },
     "8263": {
@@ -197413,5 +197419,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:10:33.017410+00:00"
+  "updated_at": "2026-11-11T20:10:36.285985+00:00"
 }
