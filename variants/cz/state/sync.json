@@ -134991,17 +134991,24 @@
           "target_video_id": "30987609",
           "permanent": false,
           "attempted_at": "2026-11-11T05:25:13.710927+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29184927",
+          "target_video_id": "30987609",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:08:23.517659+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29184927",
         "display_name": "Pára nad hrncem SD CZ Dabing",
-        "planned_at": "2026-11-11T05:24:31.579162+00:00"
+        "planned_at": "2026-11-11T06:08:21.539120+00:00"
       },
       "previous_target_id": "30987609",
       "prepared": {
         "target_video_id": "30987609",
-        "size_bytes": 1015585360,
+        "size_bytes": 1000000000,
         "prepared_at": "2026-11-11T05:24:35.805876+00:00",
         "relay_source_id": "29184927"
       }
@@ -136115,17 +136122,19 @@
       "attempts": []
     },
     "21575": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34699885",
+          "target_video_id": "30987797",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:08:23.658378+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34699885",
         "display_name": "Slečna od vody (The Young Lady from the Riverside) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:07:39.056969+00:00"
-      },
-      "claim": {
-        "worker_id": "14d4cb4730834398abea8dc76922ce4f-shard-0",
-        "claimed_at": "2026-11-11T06:07:41.099955+00:00",
-        "lease_expires_at": "2026-11-11T12:07:41.099955+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987797",
       "prepared": {
@@ -136161,7 +136170,7 @@
       "last_plan": {
         "source_id": "35147319",
         "display_name": "One of Them Is the Murderer (Jeden z nich je vrah) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:08:18.548386+00:00"
+        "planned_at": "2026-11-11T06:08:21.753375+00:00"
       }
     },
     "14434": {
@@ -189255,5 +189264,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:08:20.060998+00:00"
+  "updated_at": "2026-11-11T06:08:23.658388+00:00"
 }
