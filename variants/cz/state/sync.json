@@ -120799,13 +120799,6 @@
           "source_id": "24176905",
           "target_video_id": "30985058",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:06:41.608974+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24176905",
-          "target_video_id": "30985058",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:29:17.861614+00:00"
         },
         {
@@ -120814,12 +120807,19 @@
           "target_video_id": "30985058",
           "permanent": false,
           "attempted_at": "2026-11-11T18:02:08.137116+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24176905",
+          "target_video_id": "30985058",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:16:19.152809+00:00"
         }
       ],
       "last_plan": {
         "source_id": "24176905",
         "display_name": "The Electrical Life of Louis Wain 720p CZ Dabing",
-        "planned_at": "2026-11-11T18:02:04.892765+00:00"
+        "planned_at": "2026-11-11T19:16:16.432983+00:00"
       },
       "previous_target_id": "30985058",
       "prepared": {
@@ -145467,7 +145467,13 @@
       "last_plan": {
         "source_id": "29279355",
         "display_name": "Murder in Tours (Les Mystères de la basilique) SD CZ Dabing",
-        "planned_at": "2026-11-11T19:16:10.547995+00:00"
+        "planned_at": "2026-11-11T19:16:16.667739+00:00"
+      },
+      "claim": {
+        "worker_id": "5e914e360d984f5fb1b66b7bb392fef5-shard-0",
+        "claimed_at": "2026-11-11T19:16:17.241693+00:00",
+        "lease_expires_at": "2026-11-12T01:16:17.241693+00:00",
+        "run_id": "43067513109"
       }
     },
     "24360": {
@@ -145477,7 +145483,12 @@
       "attempts": []
     },
     "35042": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34142554",
+        "display_name": "Killing Michael Jackson 1080p CZ Dabing",
+        "planned_at": "2026-11-11T19:16:16.809849+00:00"
+      }
     },
     "13112": {
       "attempts": []
@@ -197238,5 +197249,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:16:14.555912+00:00"
+  "updated_at": "2026-11-11T19:16:19.152831+00:00"
 }
