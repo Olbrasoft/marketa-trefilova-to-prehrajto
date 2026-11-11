@@ -116335,7 +116335,7 @@
       "last_plan": {
         "source_id": "12275349",
         "display_name": "All the Money in the World 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:30:36.702547+00:00"
+        "planned_at": "2026-11-11T06:13:55.340113+00:00"
       },
       "previous_target_id": "30984732",
       "prepared": {
@@ -116343,6 +116343,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T17:26:29.839950+00:00",
         "relay_source_id": "12275349"
+      },
+      "claim": {
+        "worker_id": "f28527cfa1c64a84a38d30609a34d239-shard-0",
+        "claimed_at": "2026-11-11T06:13:55.800124+00:00",
+        "lease_expires_at": "2026-11-11T12:13:55.800124+00:00",
+        "run_id": "42938376778"
       }
     },
     "2814": {
@@ -124250,6 +124256,12 @@
         "size_bytes": 890500000,
         "prepared_at": "2026-11-10T21:45:18.431339+00:00",
         "relay_source_id": "29875663"
+      },
+      "claim": {
+        "worker_id": "15798f168356488f8c393f4173ff1657-shard-0",
+        "claimed_at": "2026-11-11T06:13:55.158680+00:00",
+        "lease_expires_at": "2026-11-11T12:13:55.158680+00:00",
+        "run_id": "42938376778"
       }
     },
     "18709": {
@@ -136262,17 +136274,19 @@
       }
     },
     "12578": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27912463",
+          "target_video_id": "30987815",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:13:55.975250+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:12:42.164886+00:00"
-      },
-      "claim": {
-        "worker_id": "7975e165d73148e0b31af5ab74af1910-shard-0",
-        "claimed_at": "2026-11-11T06:12:44.000555+00:00",
-        "lease_expires_at": "2026-11-11T12:12:44.000555+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987815",
       "prepared": {
@@ -136290,7 +136304,7 @@
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:13:53.693762+00:00"
+        "planned_at": "2026-11-11T06:13:55.549461+00:00"
       }
     },
     "29359": {
@@ -189366,5 +189380,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:13:53.693771+00:00"
+  "updated_at": "2026-11-11T06:13:55.975259+00:00"
 }
