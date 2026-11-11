@@ -126319,13 +126319,6 @@
           "source_id": "28796138",
           "target_video_id": "30986272",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:10:52.809366+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28796138",
-          "target_video_id": "30986272",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:52:00.418333+00:00"
         },
         {
@@ -126334,12 +126327,19 @@
           "target_video_id": "30986272",
           "permanent": false,
           "attempted_at": "2026-11-11T02:32:00.200853+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28796138",
+          "target_video_id": "30986272",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:05:37.558910+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28796138",
         "display_name": "Standing Up SD CZ Dabing",
-        "planned_at": "2026-11-11T02:31:56.746376+00:00"
+        "planned_at": "2026-11-11T03:05:35.175875+00:00"
       },
       "previous_target_id": "30986272",
       "prepared": {
@@ -130119,11 +130119,22 @@
       "last_plan": {
         "source_id": "26779825",
         "display_name": "Cekání na dést (Waiting for the Rain) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:05:31.817267+00:00"
+        "planned_at": "2026-11-11T03:05:35.378513+00:00"
+      },
+      "claim": {
+        "worker_id": "84a14d55cee9438397ccdbf48ddcf676-shard-0",
+        "claimed_at": "2026-11-11T03:05:35.877125+00:00",
+        "lease_expires_at": "2026-11-11T09:05:35.877125+00:00",
+        "run_id": "42938376778"
       }
     },
     "24134": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34789221",
+        "display_name": "Virginity 1080p CZ Dabing",
+        "planned_at": "2026-11-11T03:05:35.507401+00:00"
+      }
     },
     "13051": {
       "attempts": []
@@ -184119,5 +184130,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:05:33.434179+00:00"
+  "updated_at": "2026-11-11T03:05:37.558921+00:00"
 }
