@@ -121249,13 +121249,6 @@
           "source_id": "18059712",
           "target_video_id": "30985391",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:43:46.594801+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18059712",
-          "target_video_id": "30985391",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:58:49.416264+00:00"
         },
         {
@@ -121264,6 +121257,13 @@
           "target_video_id": "30985391",
           "permanent": false,
           "attempted_at": "2026-11-11T17:36:03.438750+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18059712",
+          "target_video_id": "30985391",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:47:25.975767+00:00"
         }
       ],
       "last_plan": {
@@ -121277,12 +121277,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:03:44.603582+00:00",
         "relay_source_id": "18059712"
-      },
-      "claim": {
-        "worker_id": "0713dd277b314bbaba30c6248b00b3d7-shard-0",
-        "claimed_at": "2026-11-11T18:47:22.171415+00:00",
-        "lease_expires_at": "2026-11-12T00:47:22.171415+00:00",
-        "run_id": "43067513109"
       }
     },
     "15045": {
@@ -131668,7 +131662,7 @@
       "last_plan": {
         "source_id": "28004386",
         "display_name": "Veselá bída SD CZ Dabing",
-        "planned_at": "2026-11-11T17:36:06.379821+00:00"
+        "planned_at": "2026-11-11T18:47:25.445953+00:00"
       },
       "previous_target_id": "30987113",
       "prepared": {
@@ -131676,6 +131670,12 @@
         "size_bytes": 873000000,
         "prepared_at": "2026-11-11T03:38:13.878412+00:00",
         "relay_source_id": "28004386"
+      },
+      "claim": {
+        "worker_id": "93243c94d0fb4588ae3ece8804e8cc24-shard-0",
+        "claimed_at": "2026-11-11T18:47:26.113296+00:00",
+        "lease_expires_at": "2026-11-12T00:47:26.113296+00:00",
+        "run_id": "43067513109"
       }
     },
     "14917": {
@@ -145350,7 +145350,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:47:21.917895+00:00"
+        "planned_at": "2026-11-11T18:47:25.680506+00:00"
       }
     },
     "13050": {
@@ -197139,5 +197139,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:47:24.000679+00:00"
+  "updated_at": "2026-11-11T18:47:26.113319+00:00"
 }
