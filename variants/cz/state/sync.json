@@ -29894,13 +29894,6 @@
           "source_id": "34850732",
           "target_video_id": "30723078",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:03:57.768465+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850732",
-          "target_video_id": "30723078",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:21:34.145417+00:00"
         },
         {
@@ -29909,6 +29902,13 @@
           "target_video_id": "30723078",
           "permanent": false,
           "attempted_at": "2026-11-11T15:41:47.364229+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850732",
+          "target_video_id": "30723078",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:09:59.530046+00:00"
         }
       ],
       "last_plan": {
@@ -56019,7 +56019,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:41:46.686161+00:00"
+        "planned_at": "2026-11-11T18:09:58.385921+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -56027,6 +56027,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "8e45571f137e46b59abf475dff686508-shard-0",
+        "claimed_at": "2026-11-11T18:09:58.886597+00:00",
+        "lease_expires_at": "2026-11-12T00:09:58.886597+00:00",
+        "run_id": "43067513109"
       }
     },
     "24818": {
@@ -145166,7 +145172,7 @@
       "last_plan": {
         "source_id": "34658138",
         "display_name": "Flower Buds (Poupata) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:09:56.436280+00:00"
+        "planned_at": "2026-11-11T18:09:58.605152+00:00"
       }
     },
     "20047": {
@@ -196988,5 +196994,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:09:56.436298+00:00"
+  "updated_at": "2026-11-11T18:09:59.530068+00:00"
 }
