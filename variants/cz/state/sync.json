@@ -134445,6 +134445,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T05:09:12.113795+00:00",
         "relay_source_id": "32557568"
+      },
+      "claim": {
+        "worker_id": "12aad1b0fd934ca681361cba09976ff9-shard-0",
+        "claimed_at": "2026-11-11T06:42:14.920775+00:00",
+        "lease_expires_at": "2026-11-11T12:42:14.920775+00:00",
+        "run_id": "42965310158"
       }
     },
     "13373": {
@@ -137207,17 +137213,19 @@
       "attempts": []
     },
     "10754": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33806385",
+          "target_video_id": "30987901",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:42:15.089134+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:41:27.762506+00:00"
-      },
-      "claim": {
-        "worker_id": "59b2f9e93ea74e0bac8fa6a853337f25-shard-0",
-        "claimed_at": "2026-11-11T06:41:30.685310+00:00",
-        "lease_expires_at": "2026-11-11T12:41:30.685310+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987901",
       "prepared": {
@@ -190137,5 +190145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:42:13.243593+00:00"
+  "updated_at": "2026-11-11T06:42:15.089153+00:00"
 }
