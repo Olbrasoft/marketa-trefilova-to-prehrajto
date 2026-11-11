@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:29:53.273414+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:08:51.993532+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-11T00:45:54.138629+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:26:57.504014+00:00"
         }
       ],
       "last_plan": {
@@ -119022,7 +119022,7 @@
       "last_plan": {
         "source_id": "34864462",
         "display_name": "Body Double 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:45:58.142810+00:00"
+        "planned_at": "2026-11-11T01:26:56.617964+00:00"
       },
       "previous_target_id": "30984947",
       "prepared": {
@@ -119030,6 +119030,12 @@
         "size_bytes": 5400000000,
         "prepared_at": "2026-11-10T18:16:42.459401+00:00",
         "relay_source_id": "34864462"
+      },
+      "claim": {
+        "worker_id": "e3498283cbee46779271534384c24376-shard-0",
+        "claimed_at": "2026-11-11T01:26:57.688017+00:00",
+        "lease_expires_at": "2026-11-11T07:26:57.688017+00:00",
+        "run_id": "42904278669"
       }
     },
     "18622": {
@@ -127763,7 +127769,7 @@
       "last_plan": {
         "source_id": "32306071",
         "display_name": "Waiting for Dali (Esperando a Dalí) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:26:51.799438+00:00"
+        "planned_at": "2026-11-11T01:26:57.008646+00:00"
       }
     },
     "32712": {
@@ -182132,5 +182138,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:26:52.044795+00:00"
+  "updated_at": "2026-11-11T01:26:57.688043+00:00"
 }
