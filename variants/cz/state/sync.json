@@ -115820,13 +115820,6 @@
           "source_id": "33594906",
           "target_video_id": "30984670",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:43:35.247501+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33594906",
-          "target_video_id": "30984670",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:56:33.075845+00:00"
         },
         {
@@ -115835,6 +115828,13 @@
           "target_video_id": "30984670",
           "permanent": false,
           "attempted_at": "2026-11-11T13:02:16.266918+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33594906",
+          "target_video_id": "30984670",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:19:42.894844+00:00"
         }
       ],
       "last_plan": {
@@ -138443,7 +138443,7 @@
       "last_plan": {
         "source_id": "34776105",
         "display_name": "Fallow (BRAK) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:02:14.583648+00:00"
+        "planned_at": "2026-11-11T14:19:41.261924+00:00"
       },
       "previous_target_id": "30987920",
       "prepared": {
@@ -138451,6 +138451,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T06:47:03.938439+00:00",
         "relay_source_id": "34776105"
+      },
+      "claim": {
+        "worker_id": "ca6347c71ca34abdb20691a51cac625a-shard-0",
+        "claimed_at": "2026-11-11T14:19:42.106626+00:00",
+        "lease_expires_at": "2026-11-11T20:19:42.106626+00:00",
+        "run_id": "43011363893"
       }
     },
     "26977": {
@@ -144563,7 +144569,7 @@
       "last_plan": {
         "source_id": "34713544",
         "display_name": "Mahuliena, Golden Maiden 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:19:39.101559+00:00"
+        "planned_at": "2026-11-11T14:19:41.617905+00:00"
       }
     },
     "31958": {
@@ -196499,5 +196505,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:19:39.101576+00:00"
+  "updated_at": "2026-11-11T14:19:42.894862+00:00"
 }
