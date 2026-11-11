@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "eaee45d3d2d640beb212f8f6b86f0c95-shard-0",
+        "claimed_at": "2026-11-11T14:37:10.292132+00:00",
+        "lease_expires_at": "2026-11-11T20:37:10.292132+00:00",
+        "run_id": "43011363893"
       }
     },
     "37290": {
@@ -140877,13 +140883,6 @@
           "source_id": "34694069",
           "target_video_id": "30988245",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:59:29.001478+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34694069",
-          "target_video_id": "30988245",
-          "permanent": false,
           "attempted_at": "2026-11-11T10:16:25.436592+00:00"
         },
         {
@@ -140892,12 +140891,19 @@
           "target_video_id": "30988245",
           "permanent": false,
           "attempted_at": "2026-11-11T13:21:25.266473+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34694069",
+          "target_video_id": "30988245",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:37:13.503402+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34694069",
         "display_name": "Na dvore je kun, séfe! (Na dvoře je kůň, šéfe!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:21:20.959216+00:00"
+        "planned_at": "2026-11-11T14:37:10.561755+00:00"
       },
       "previous_target_id": "30988245",
       "prepared": {
@@ -144661,7 +144667,7 @@
       "last_plan": {
         "source_id": "32944112",
         "display_name": "The Damned (Zatracení) (2002) 4K CZ Dabing",
-        "planned_at": "2026-11-11T14:37:08.218885+00:00"
+        "planned_at": "2026-11-11T14:37:10.896792+00:00"
       }
     },
     "4524": {
@@ -196579,5 +196585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:37:08.495301+00:00"
+  "updated_at": "2026-11-11T14:37:13.503417+00:00"
 }
