@@ -128500,17 +128500,19 @@
       }
     },
     "22300": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34836027",
+          "target_video_id": "30986780",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:07:19.123038+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34836027",
         "display_name": "Killer Clans SD CZ Dabing",
         "planned_at": "2026-11-11T02:06:33.968252+00:00"
-      },
-      "claim": {
-        "worker_id": "da930c9f34a347f6903606136df2857f-shard-0",
-        "claimed_at": "2026-11-11T02:06:36.449533+00:00",
-        "lease_expires_at": "2026-11-11T08:06:36.449533+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986780",
       "prepared": {
@@ -182777,5 +182779,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:07:17.394663+00:00"
+  "updated_at": "2026-11-11T02:07:19.123058+00:00"
 }
