@@ -136898,17 +136898,19 @@
       "attempts": []
     },
     "12202": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35179769",
+          "target_video_id": "30987875",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:32:44.773805+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35179769",
         "display_name": "Záhada hlavolamu 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:31:59.876568+00:00"
-      },
-      "claim": {
-        "worker_id": "534a6190f38146f2a9b1ddfd4ff695ab-shard-0",
-        "claimed_at": "2026-11-11T06:32:00.704596+00:00",
-        "lease_expires_at": "2026-11-11T12:32:00.704596+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987875",
       "prepared": {
@@ -189900,5 +189902,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:32:43.206694+00:00"
+  "updated_at": "2026-11-11T06:32:44.773823+00:00"
 }
