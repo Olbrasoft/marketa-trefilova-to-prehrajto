@@ -112850,6 +112850,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-10T15:18:19.783537+00:00",
         "relay_source_id": "31063467"
+      },
+      "claim": {
+        "worker_id": "2d5ab8aaa58c4e548976b53150792f83-shard-0",
+        "claimed_at": "2026-11-11T02:26:43.634188+00:00",
+        "lease_expires_at": "2026-11-11T08:26:43.634188+00:00",
+        "run_id": "42938376778"
       }
     },
     "2887": {
@@ -117802,13 +117808,6 @@
           "source_id": "18074487",
           "target_video_id": "30984856",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:23:09.537065+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "18074487",
-          "target_video_id": "30984856",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:04:29.674320+00:00"
         },
         {
@@ -117817,6 +117816,13 @@
           "target_video_id": "30984856",
           "permanent": false,
           "attempted_at": "2026-11-11T01:45:50.531201+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "18074487",
+          "target_video_id": "30984856",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:26:44.430021+00:00"
         }
       ],
       "last_plan": {
@@ -117830,12 +117836,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:54:08.603423+00:00",
         "relay_source_id": "18074487"
-      },
-      "claim": {
-        "worker_id": "209054ab9a5446e5a1d0add5b9591b7b-shard-0",
-        "claimed_at": "2026-11-11T02:26:41.453685+00:00",
-        "lease_expires_at": "2026-11-11T08:26:41.453685+00:00",
-        "run_id": "42938376778"
       }
     },
     "2956": {
@@ -117865,7 +117865,7 @@
       "last_plan": {
         "source_id": "34529199",
         "display_name": "Spies in Disguise 4K CZ Dabing",
-        "planned_at": "2026-11-11T01:45:50.148440+00:00"
+        "planned_at": "2026-11-11T02:26:43.798071+00:00"
       },
       "previous_target_id": "30984857",
       "prepared": {
@@ -117873,6 +117873,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-10T17:55:40.093714+00:00",
         "relay_source_id": "34529199"
+      },
+      "claim": {
+        "worker_id": "502749a2111a4ca6a8e2a006d8d9724c-shard-0",
+        "claimed_at": "2026-11-11T02:26:44.252830+00:00",
+        "lease_expires_at": "2026-11-11T08:26:44.252830+00:00",
+        "run_id": "42938376778"
       }
     },
     "25139": {
@@ -128931,7 +128937,7 @@
       "last_plan": {
         "source_id": "34527419",
         "display_name": "Innocence 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:26:41.813241+00:00"
+        "planned_at": "2026-11-11T02:26:44.004602+00:00"
       }
     },
     "2932": {
@@ -183111,5 +183117,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:26:42.063296+00:00"
+  "updated_at": "2026-11-11T02:26:44.430037+00:00"
 }
