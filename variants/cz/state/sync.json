@@ -135153,6 +135153,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T05:22:14.482694+00:00",
         "relay_source_id": "34660671"
+      },
+      "claim": {
+        "worker_id": "4b5cd00d918f4e8c93e882627890a0c8-shard-0",
+        "claimed_at": "2026-11-11T08:58:07.566613+00:00",
+        "lease_expires_at": "2026-11-11T14:58:07.566613+00:00",
+        "run_id": "42965310158"
       }
     },
     "24173": {
@@ -141696,17 +141702,19 @@
       }
     },
     "24047": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34945151",
+          "target_video_id": "30988616",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:58:08.950297+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34945151",
         "display_name": "Warriors of Faith 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:57:24.964330+00:00"
-      },
-      "claim": {
-        "worker_id": "508af439bc924cf7b9116f2bc1fd1ea8-shard-0",
-        "claimed_at": "2026-11-11T08:57:25.686360+00:00",
-        "lease_expires_at": "2026-11-11T14:57:25.686360+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988616",
       "prepared": {
@@ -193999,5 +194007,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:58:05.055188+00:00"
+  "updated_at": "2026-11-11T08:58:08.950321+00:00"
 }
