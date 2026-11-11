@@ -1078,7 +1078,7 @@
       "last_plan": {
         "source_id": "31918348",
         "display_name": "The Departed 4K CZ Dabing",
-        "planned_at": "2026-11-11T03:54:34.455946+00:00"
+        "planned_at": "2026-11-11T04:31:34.827118+00:00"
       },
       "previous_target_id": "30578228",
       "prepared": {
@@ -1086,6 +1086,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
+      },
+      "claim": {
+        "worker_id": "fdd7a6021e454168987bf62b2ed52bb9-shard-0",
+        "claimed_at": "2026-11-11T04:31:35.281405+00:00",
+        "lease_expires_at": "2026-11-11T10:31:35.281405+00:00",
+        "run_id": "42938376778"
       }
     },
     "52": {
@@ -12403,6 +12409,12 @@
         "size_bytes": 7400000000,
         "prepared_at": "2026-10-30T23:09:05.633345+00:00",
         "relay_source_id": "32043793"
+      },
+      "claim": {
+        "worker_id": "0072f04dd0734024ad8ddbec23d98eae-shard-0",
+        "claimed_at": "2026-11-11T04:31:34.645948+00:00",
+        "lease_expires_at": "2026-11-11T10:31:34.645948+00:00",
+        "run_id": "42938376778"
       }
     },
     "11516": {
@@ -123704,13 +123716,6 @@
           "source_id": "33064122",
           "target_video_id": "30985714",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:46:46.940271+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33064122",
-          "target_video_id": "30985714",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:19:34.023272+00:00"
         },
         {
@@ -123719,6 +123724,13 @@
           "target_video_id": "30985714",
           "permanent": false,
           "attempted_at": "2026-11-11T03:54:32.846125+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33064122",
+          "target_video_id": "30985714",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:31:35.580070+00:00"
         }
       ],
       "last_plan": {
@@ -123732,12 +123744,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T21:26:39.868620+00:00",
         "relay_source_id": "33064122"
-      },
-      "claim": {
-        "worker_id": "b9c75b59f7934e80be1146fa98462269-shard-0",
-        "claimed_at": "2026-11-11T04:31:32.422842+00:00",
-        "lease_expires_at": "2026-11-11T10:31:32.422842+00:00",
-        "run_id": "42938376778"
       }
     },
     "19272": {
@@ -132907,7 +132913,7 @@
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:31:32.867326+00:00"
+        "planned_at": "2026-11-11T04:31:35.034293+00:00"
       }
     },
     "32074": {
@@ -186457,5 +186463,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:31:33.138817+00:00"
+  "updated_at": "2026-11-11T04:31:35.580080+00:00"
 }
