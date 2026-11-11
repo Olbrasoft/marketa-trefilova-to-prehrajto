@@ -118655,7 +118655,7 @@
       "last_plan": {
         "source_id": "32937607",
         "display_name": "All Dogs Go to Heaven 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:19:31.215660+00:00"
+        "planned_at": "2026-11-11T04:59:33.544599+00:00"
       },
       "previous_target_id": "30984904",
       "prepared": {
@@ -118663,6 +118663,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:08:51.084340+00:00",
         "relay_source_id": "32937607"
+      },
+      "claim": {
+        "worker_id": "1925068e20e34257b1554e5a591145b6-shard-0",
+        "claimed_at": "2026-11-11T04:59:34.001551+00:00",
+        "lease_expires_at": "2026-11-11T10:59:34.001551+00:00",
+        "run_id": "42938376778"
       }
     },
     "2874": {
@@ -133514,17 +133520,19 @@
       "attempts": []
     },
     "13030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34667915",
+          "target_video_id": "30987493",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:59:34.283806+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34667915",
         "display_name": "No Surgery Hours Today (Dnes neordinuji) 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:57:56.129595+00:00"
-      },
-      "claim": {
-        "worker_id": "233d815c14e0422c8dab6b58ec5b40dc-shard-0",
-        "claimed_at": "2026-11-11T04:57:56.645587+00:00",
-        "lease_expires_at": "2026-11-11T10:57:56.645587+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987493",
       "prepared": {
@@ -133539,7 +133547,7 @@
       "last_plan": {
         "source_id": "32363401",
         "display_name": "I'll Be Good, Old Man! („Já už budu hodný, dědečku!“) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:59:31.678703+00:00"
+        "planned_at": "2026-11-11T04:59:33.753918+00:00"
       }
     },
     "31818": {
@@ -187029,5 +187037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:59:32.097042+00:00"
+  "updated_at": "2026-11-11T04:59:34.283814+00:00"
 }
