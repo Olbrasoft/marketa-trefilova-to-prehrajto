@@ -137911,17 +137911,19 @@
       }
     },
     "31358": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713910",
+          "target_video_id": "30987956",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:02:05.687132+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713910",
         "display_name": "She - Hero (She – Hero) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:01:13.477466+00:00"
-      },
-      "claim": {
-        "worker_id": "d76c2112b69e48ec8eaaa0680b3e4908-shard-0",
-        "claimed_at": "2026-11-11T07:01:18.461539+00:00",
-        "lease_expires_at": "2026-11-11T13:01:18.461539+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987956",
       "prepared": {
@@ -190757,5 +190759,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:02:04.025476+00:00"
+  "updated_at": "2026-11-11T07:02:05.687151+00:00"
 }
