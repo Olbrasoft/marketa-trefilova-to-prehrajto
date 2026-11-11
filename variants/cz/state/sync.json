@@ -122411,6 +122411,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T19:46:11.486522+00:00",
         "relay_source_id": "33997586"
+      },
+      "claim": {
+        "worker_id": "045fe2c936ca48f39db17f63527db63b-shard-0",
+        "claimed_at": "2026-11-11T06:36:02.018710+00:00",
+        "lease_expires_at": "2026-11-11T12:36:02.018710+00:00",
+        "run_id": "42965310158"
       }
     },
     "11094": {
@@ -122866,7 +122872,7 @@
       "last_plan": {
         "source_id": "34650326",
         "display_name": "How to Blow Up a Pipeline 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:45:51.916878+00:00"
+        "planned_at": "2026-11-11T06:36:02.804265+00:00"
       },
       "previous_target_id": "30985556",
       "prepared": {
@@ -135737,6 +135743,13 @@
           "target_video_id": "30987706",
           "permanent": false,
           "attempted_at": "2026-11-11T05:45:48.301401+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30864308",
+          "target_video_id": "30987706",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:36:02.595553+00:00"
         }
       ],
       "last_plan": {
@@ -135747,15 +135760,9 @@
       "previous_target_id": "30987706",
       "prepared": {
         "target_video_id": "30987706",
-        "size_bytes": 881331334,
+        "size_bytes": 881300000,
         "prepared_at": "2026-11-11T05:44:40.450348+00:00",
         "relay_source_id": "30864308"
-      },
-      "claim": {
-        "worker_id": "ae66d1a59fed4aa6980b75741df7d909-shard-0",
-        "claimed_at": "2026-11-11T06:35:58.002416+00:00",
-        "lease_expires_at": "2026-11-11T12:35:58.002416+00:00",
-        "run_id": "42965310158"
       }
     },
     "31989": {
@@ -137017,7 +137024,7 @@
       "last_plan": {
         "source_id": "34232902",
         "display_name": "Nahá pastýrka (Nahá pastýřka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:35:59.057222+00:00"
+        "planned_at": "2026-11-11T06:36:03.071521+00:00"
       }
     },
     "33517": {
@@ -189981,5 +189988,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:35:59.057239+00:00"
+  "updated_at": "2026-11-11T06:36:03.071539+00:00"
 }
