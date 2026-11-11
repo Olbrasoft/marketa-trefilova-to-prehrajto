@@ -132354,17 +132354,19 @@
       }
     },
     "11365": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34883806",
+          "target_video_id": "30987308",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:15:54.736231+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34883806",
         "display_name": "Escape Home (Útěky domů) 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:14:15.404861+00:00"
-      },
-      "claim": {
-        "worker_id": "78696ce89ac545ee918bb2e104355e8b-shard-0",
-        "claimed_at": "2026-11-11T04:14:17.191970+00:00",
-        "lease_expires_at": "2026-11-11T10:14:17.191970+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987308",
       "prepared": {
@@ -186019,5 +186021,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:15:53.279842+00:00"
+  "updated_at": "2026-11-11T04:15:54.736251+00:00"
 }
