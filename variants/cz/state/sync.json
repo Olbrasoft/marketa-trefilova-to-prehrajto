@@ -142968,17 +142968,19 @@
       }
     },
     "5048": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34869221",
+          "target_video_id": "30988819",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:11:35.775228+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34869221",
         "display_name": "Murder In Arcachon (L'Héritage) SD CZ Dabing",
         "planned_at": "2026-11-11T10:10:35.099690+00:00"
-      },
-      "claim": {
-        "worker_id": "40f774be1c184020a14974bb91087b9b-shard-0",
-        "claimed_at": "2026-11-11T10:10:35.629522+00:00",
-        "lease_expires_at": "2026-11-11T16:10:35.629522+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988819",
       "prepared": {
@@ -195127,5 +195129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:11:32.988967+00:00"
+  "updated_at": "2026-11-11T10:11:35.775253+00:00"
 }
