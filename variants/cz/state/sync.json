@@ -115181,7 +115181,7 @@
       "last_plan": {
         "source_id": "34506881",
         "display_name": "One Hour Photo 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:40:22.357966+00:00"
+        "planned_at": "2026-11-11T07:36:06.542230+00:00"
       },
       "previous_target_id": "30984630",
       "prepared": {
@@ -122524,6 +122524,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T19:48:14.438492+00:00",
         "relay_source_id": "10214556"
+      },
+      "claim": {
+        "worker_id": "bc01a5966d6540bf959dba55315ef6fe-shard-0",
+        "claimed_at": "2026-11-11T07:36:06.330778+00:00",
+        "lease_expires_at": "2026-11-11T13:36:06.330778+00:00",
+        "run_id": "42965310158"
       }
     },
     "2989": {
@@ -139028,17 +139034,19 @@
       "attempts": []
     },
     "16353": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33856306",
+          "target_video_id": "30988120",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:36:07.101999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33856306",
         "display_name": "Long Story Short (Feste & Freunde - Ein Hoch auf uns!) (2024) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:34:45.426602+00:00"
-      },
-      "claim": {
-        "worker_id": "d61a014af92f4fef895fdb1afb302448-shard-0",
-        "claimed_at": "2026-11-11T07:34:47.675161+00:00",
-        "lease_expires_at": "2026-11-11T13:34:47.675161+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988120",
       "prepared": {
@@ -139053,7 +139061,7 @@
       "last_plan": {
         "source_id": "11128209",
         "display_name": "Prípad dvou sester (Případ dvou sester) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:36:04.614995+00:00"
+        "planned_at": "2026-11-11T07:36:06.845716+00:00"
       }
     },
     "32069": {
@@ -191721,5 +191729,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:36:04.615015+00:00"
+  "updated_at": "2026-11-11T07:36:07.102020+00:00"
 }
