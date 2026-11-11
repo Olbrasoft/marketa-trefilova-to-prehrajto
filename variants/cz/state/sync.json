@@ -131680,17 +131680,19 @@
       "attempts": []
     },
     "28875": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26568103",
+          "target_video_id": "30987180",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:54:53.814270+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26568103",
         "display_name": "Záku Kasíku, nezen se! (Žáku Kašíku, nežeň se!) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:52:35.262171+00:00"
-      },
-      "claim": {
-        "worker_id": "12791ab2eb2b45728fd61942e4e116f9-shard-0",
-        "claimed_at": "2026-11-11T03:52:37.266015+00:00",
-        "lease_expires_at": "2026-11-11T09:52:37.266015+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987180",
       "prepared": {
@@ -185459,5 +185461,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:54:52.237911+00:00"
+  "updated_at": "2026-11-11T03:54:53.814285+00:00"
 }
