@@ -110002,13 +110002,6 @@
           "source_id": "34716525",
           "target_video_id": "30983747",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:17:31.073123+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34716525",
-          "target_video_id": "30983747",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:58:27.159961+00:00"
         },
         {
@@ -110017,6 +110010,13 @@
           "target_video_id": "30983747",
           "permanent": false,
           "attempted_at": "2026-11-10T23:41:16.191963+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716525",
+          "target_video_id": "30983747",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:19:11.689388+00:00"
         }
       ],
       "last_plan": {
@@ -117748,7 +117748,7 @@
       "last_plan": {
         "source_id": "33745493",
         "display_name": "The Order (2024) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:41:15.622122+00:00"
+        "planned_at": "2026-11-11T00:19:09.891887+00:00"
       },
       "previous_target_id": "30984851",
       "prepared": {
@@ -117756,6 +117756,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:52:20.144458+00:00",
         "relay_source_id": "33745493"
+      },
+      "claim": {
+        "worker_id": "c8b252a1f57e43ccbfaa313f71dbdc1e-shard-0",
+        "claimed_at": "2026-11-11T00:19:10.834639+00:00",
+        "lease_expires_at": "2026-11-11T06:19:10.834639+00:00",
+        "run_id": "42904278669"
       }
     },
     "2829": {
@@ -126443,6 +126449,12 @@
         "source_id": "26615846",
         "display_name": "Brothers of the Wind 1080p CZ Dabing",
         "planned_at": "2026-11-11T00:19:07.244190+00:00"
+      },
+      "claim": {
+        "worker_id": "759bdb0ce53f407cb5d065d39465ec68-shard-0",
+        "claimed_at": "2026-11-11T00:19:09.660675+00:00",
+        "lease_expires_at": "2026-11-11T06:19:09.660675+00:00",
+        "run_id": "42904278669"
       }
     },
     "16786": {
@@ -126462,7 +126474,7 @@
       "last_plan": {
         "source_id": "6308804",
         "display_name": "The Ogre (Der Unhold) SD CZ Dabing",
-        "planned_at": "2026-11-11T00:19:07.691616+00:00"
+        "planned_at": "2026-11-11T00:19:10.388353+00:00"
       }
     },
     "31317": {
@@ -181101,5 +181113,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:19:07.691634+00:00"
+  "updated_at": "2026-11-11T00:19:11.689409+00:00"
 }
