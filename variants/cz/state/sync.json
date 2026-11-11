@@ -106782,6 +106782,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T13:50:54.791025+00:00",
         "relay_source_id": "34711370"
+      },
+      "claim": {
+        "worker_id": "3ad0837e18194ef882f4a01d074ee6bb-shard-0",
+        "claimed_at": "2026-11-11T07:17:55.884361+00:00",
+        "lease_expires_at": "2026-11-11T13:17:55.884361+00:00",
+        "run_id": "42965310158"
       }
     },
     "20394": {
@@ -138343,17 +138349,19 @@
       "attempts": []
     },
     "12946": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33810799",
+          "target_video_id": "30988025",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:17:56.108358+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33810799",
         "display_name": "Thomas the Falconer (Sokoliar Tomáš) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:17:09.682864+00:00"
-      },
-      "claim": {
-        "worker_id": "12f4e472326544579806a61ca5861f72-shard-0",
-        "claimed_at": "2026-11-11T07:17:12.035080+00:00",
-        "lease_expires_at": "2026-11-11T13:17:12.035080+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988025",
       "prepared": {
@@ -191138,5 +191146,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:17:54.023757+00:00"
+  "updated_at": "2026-11-11T07:17:56.108375+00:00"
 }
