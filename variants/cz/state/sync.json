@@ -123601,7 +123601,7 @@
       "last_plan": {
         "source_id": "33873702",
         "display_name": "Cutter's Way 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:37:02.070755+00:00"
+        "planned_at": "2026-11-11T18:48:06.629074+00:00"
       },
       "previous_target_id": "30985656",
       "prepared": {
@@ -123609,6 +123609,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T21:02:36.663487+00:00",
         "relay_source_id": "33873702"
+      },
+      "claim": {
+        "worker_id": "fab07d80d32f46d6b13f4bf3cad850d9-shard-0",
+        "claimed_at": "2026-11-11T18:48:07.085787+00:00",
+        "lease_expires_at": "2026-11-12T00:48:07.085787+00:00",
+        "run_id": "43067513109"
       }
     },
     "31026": {
@@ -145030,17 +145036,23 @@
           "attempted_at": "2026-11-11T17:37:00.612830+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "32100315",
-        "display_name": "High Blue Wall (Vysoká modrá zeď) SD CZ Dabing",
-        "planned_at": "2026-11-11T18:48:03.138559+00:00"
-      },
       "previous_target_id": "30992347",
-      "prepared": {
+      "upload": {
         "target_video_id": "30992347",
-        "size_bytes": 1140672512,
-        "prepared_at": "2026-11-11T17:29:16.479370+00:00",
-        "relay_source_id": "32100315"
+        "display_name": "High Blue Wall (Vysoká modrá zeď) SD CZ Dabing",
+        "source_id": "32100315",
+        "source_url": "https://sdilej.cz/32100315/vysoka-modra-zed.avi",
+        "source_filename": "Vysoká modrá zeď.avi",
+        "size_bytes": 1100000000,
+        "width": 720,
+        "height": 576,
+        "audio_language": "cs",
+        "language_probability": 0.9885395169258118,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/high-blue-wall-vysoka-modra-zed-sd-cz-dabing-avi/e7758e97ff021a4e",
+        "uploaded_at": "2026-11-11T18:48:07.637604+00:00"
       }
     },
     "31982": {
@@ -145344,7 +145356,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:48:03.388524+00:00"
+        "planned_at": "2026-11-11T18:48:06.833307+00:00"
       }
     },
     "13050": {
@@ -197133,5 +197145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:48:03.636021+00:00"
+  "updated_at": "2026-11-11T18:48:07.637617+00:00"
 }
