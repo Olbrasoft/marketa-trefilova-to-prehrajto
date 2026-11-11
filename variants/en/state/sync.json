@@ -35460,17 +35460,19 @@
       "attempts": []
     },
     "10761": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27431239",
+          "target_video_id": "30989692",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:11:54.215369+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27431239",
         "display_name": "I Dutifully Report (Poslušně hlásím) 1080p CZ Titulky",
         "planned_at": "2026-11-11T12:07:31.132586+00:00"
-      },
-      "claim": {
-        "worker_id": "a46900fc6cc34f80adb3efd1c7365b2d-shard-0",
-        "claimed_at": "2026-11-11T12:07:31.720232+00:00",
-        "lease_expires_at": "2026-11-11T18:07:31.720232+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30989692",
       "prepared": {
@@ -96851,5 +96853,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:11:52.462699+00:00"
+  "updated_at": "2026-11-11T12:11:54.215385+00:00"
 }
