@@ -117109,13 +117109,6 @@
           "source_id": "33894144",
           "target_video_id": "30984805",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:10:36.170481+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33894144",
-          "target_video_id": "30984805",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:51:51.970732+00:00"
         },
         {
@@ -117124,6 +117117,13 @@
           "target_video_id": "30984805",
           "permanent": false,
           "attempted_at": "2026-11-11T06:43:08.619457+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33894144",
+          "target_video_id": "30984805",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:39:09.239210+00:00"
         }
       ],
       "last_plan": {
@@ -117137,12 +117137,6 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T17:42:02.877843+00:00",
         "relay_source_id": "33894144"
-      },
-      "claim": {
-        "worker_id": "d182df1c977a4aaa852a6001ad010c7e-shard-0",
-        "claimed_at": "2026-11-11T07:39:05.369629+00:00",
-        "lease_expires_at": "2026-11-11T13:39:05.369629+00:00",
-        "run_id": "42965310158"
       }
     },
     "31926": {
@@ -137960,7 +137954,7 @@
       "last_plan": {
         "source_id": "34479491",
         "display_name": "Deti (Children) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:42:22.474001+00:00"
+        "planned_at": "2026-11-11T07:39:08.304658+00:00"
       },
       "previous_target_id": "30987906",
       "prepared": {
@@ -137968,6 +137962,12 @@
         "size_bytes": 2584785474,
         "prepared_at": "2026-11-11T06:42:30.250487+00:00",
         "relay_source_id": "34479491"
+      },
+      "claim": {
+        "worker_id": "4ec5b35332f64a74982a3288fd147a76-shard-0",
+        "claimed_at": "2026-11-11T07:39:09.024382+00:00",
+        "lease_expires_at": "2026-11-11T13:39:09.024382+00:00",
+        "run_id": "42965310158"
       }
     },
     "4450": {
@@ -139166,7 +139166,7 @@
       "last_plan": {
         "source_id": "30863959",
         "display_name": "A 105 p.c. Alibi 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:39:05.027070+00:00"
+        "planned_at": "2026-11-11T07:39:08.582633+00:00"
       }
     },
     "21784": {
@@ -191822,5 +191822,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:39:05.369656+00:00"
+  "updated_at": "2026-11-11T07:39:09.239227+00:00"
 }
