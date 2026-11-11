@@ -114644,13 +114644,6 @@
           "source_id": "28364272",
           "target_video_id": "30984516",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:44:05.545708+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28364272",
-          "target_video_id": "30984516",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:16:55.796052+00:00"
         },
         {
@@ -114659,6 +114652,13 @@
           "target_video_id": "30984516",
           "permanent": false,
           "attempted_at": "2026-11-11T03:51:59.311028+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28364272",
+          "target_video_id": "30984516",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:28:56.084703+00:00"
         }
       ],
       "last_plan": {
@@ -115235,7 +115235,7 @@
       "last_plan": {
         "source_id": "30934830",
         "display_name": "Syriana 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:51:58.675366+00:00"
+        "planned_at": "2026-11-11T04:28:54.798871+00:00"
       },
       "previous_target_id": "30984637",
       "prepared": {
@@ -115243,6 +115243,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T17:10:50.700855+00:00",
         "relay_source_id": "30934830"
+      },
+      "claim": {
+        "worker_id": "c07d33ad81cf4764b4fccd8026248799-shard-0",
+        "claimed_at": "2026-11-11T04:28:55.298478+00:00",
+        "lease_expires_at": "2026-11-11T10:28:55.298478+00:00",
+        "run_id": "42938376778"
       }
     },
     "2925": {
@@ -132885,7 +132891,7 @@
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:28:53.128204+00:00"
+        "planned_at": "2026-11-11T04:28:55.004223+00:00"
       }
     },
     "32074": {
@@ -186435,5 +186441,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:28:53.128214+00:00"
+  "updated_at": "2026-11-11T04:28:56.084714+00:00"
 }
