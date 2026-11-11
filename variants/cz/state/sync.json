@@ -71831,17 +71831,19 @@
       }
     },
     "32824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35464779",
+          "target_video_id": "30988069",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:26:26.588972+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35464779",
         "display_name": "American Me 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:25:40.516299+00:00"
-      },
-      "claim": {
-        "worker_id": "40ce17786a6d4ac7a6e71bd81aa72bbc-shard-0",
-        "claimed_at": "2026-11-11T07:25:42.720735+00:00",
-        "lease_expires_at": "2026-11-11T13:25:42.720735+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988069",
       "prepared": {
@@ -191396,5 +191398,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:26:24.726391+00:00"
+  "updated_at": "2026-11-11T07:26:26.588993+00:00"
 }
