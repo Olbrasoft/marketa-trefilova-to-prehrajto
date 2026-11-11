@@ -107015,13 +107015,6 @@
           "source_id": "34720969",
           "target_video_id": "30983144",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:54:47.099790+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34720969",
-          "target_video_id": "30983144",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:32:46.908368+00:00"
         },
         {
@@ -107030,6 +107023,13 @@
           "target_video_id": "30983144",
           "permanent": false,
           "attempted_at": "2026-11-11T01:13:57.110626+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34720969",
+          "target_video_id": "30983144",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:55:22.364444+00:00"
         }
       ],
       "last_plan": {
@@ -107072,7 +107072,7 @@
       "last_plan": {
         "source_id": "11951859",
         "display_name": "Probuzení 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:13:57.340690+00:00"
+        "planned_at": "2026-11-11T01:55:20.360555+00:00"
       },
       "previous_target_id": "30983145",
       "prepared": {
@@ -107080,6 +107080,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T13:53:28.759441+00:00",
         "relay_source_id": "11951859"
+      },
+      "claim": {
+        "worker_id": "b0f2ee60e3eb468c93fa05c999c7bd96-shard-0",
+        "claimed_at": "2026-11-11T01:55:21.134679+00:00",
+        "lease_expires_at": "2026-11-11T07:55:21.134679+00:00",
+        "run_id": "42904278669"
       }
     },
     "21503": {
@@ -128169,6 +128175,12 @@
         "source_id": "26330855",
         "display_name": "Ships in the Night: A Martha's Vineyard Mystery 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:55:17.899154+00:00"
+      },
+      "claim": {
+        "worker_id": "440057bcd360491f878cf37a99032a9b-shard-0",
+        "claimed_at": "2026-11-11T01:55:20.131403+00:00",
+        "lease_expires_at": "2026-11-11T07:55:20.131403+00:00",
+        "run_id": "42904278669"
       }
     },
     "28161": {
@@ -128179,7 +128191,7 @@
       "last_plan": {
         "source_id": "35139939",
         "display_name": "Angel of the Lord (Anděl Páně) SD CZ Dabing",
-        "planned_at": "2026-11-11T01:55:18.095066+00:00"
+        "planned_at": "2026-11-11T01:55:20.726434+00:00"
       }
     },
     "21950": {
@@ -182488,5 +182500,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:55:18.095084+00:00"
+  "updated_at": "2026-11-11T01:55:22.364465+00:00"
 }
