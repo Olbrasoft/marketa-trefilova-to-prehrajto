@@ -109226,13 +109226,6 @@
           "source_id": "34671725",
           "target_video_id": "30983679",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:40:44.978675+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34671725",
-          "target_video_id": "30983679",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:24:03.722170+00:00"
         },
         {
@@ -109241,6 +109234,13 @@
           "target_video_id": "30983679",
           "permanent": false,
           "attempted_at": "2026-11-11T00:02:32.563276+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34671725",
+          "target_video_id": "30983679",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:40:44.056526+00:00"
         }
       ],
       "last_plan": {
@@ -123266,7 +123266,7 @@
       "last_plan": {
         "source_id": "27021419",
         "display_name": "Ray Donovan: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:02:31.126479+00:00"
+        "planned_at": "2026-11-11T00:40:42.369950+00:00"
       },
       "previous_target_id": "30985619",
       "prepared": {
@@ -123274,6 +123274,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T20:46:51.208874+00:00",
         "relay_source_id": "27021419"
+      },
+      "claim": {
+        "worker_id": "dab7b992f3ea4151bf722e40ce0047f2-shard-0",
+        "claimed_at": "2026-11-11T00:40:43.124484+00:00",
+        "lease_expires_at": "2026-11-11T06:40:43.124484+00:00",
+        "run_id": "42904278669"
       }
     },
     "2868": {
@@ -126851,7 +126857,7 @@
       "last_plan": {
         "source_id": "33228388",
         "display_name": "Happyend 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:40:39.515680+00:00"
+        "planned_at": "2026-11-11T00:40:42.682027+00:00"
       }
     },
     "3107": {
@@ -181412,5 +181418,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:40:39.948699+00:00"
+  "updated_at": "2026-11-11T00:40:44.056547+00:00"
 }
