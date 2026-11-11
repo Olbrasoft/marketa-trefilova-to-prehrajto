@@ -34713,13 +34713,6 @@
           "source_id": "16607977",
           "target_video_id": "30987463",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:25:17.520470+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16607977",
-          "target_video_id": "30987463",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:55:25.204316+00:00"
         },
         {
@@ -34728,6 +34721,13 @@
           "target_video_id": "30987463",
           "permanent": false,
           "attempted_at": "2026-11-11T20:25:32.855067+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16607977",
+          "target_video_id": "30987463",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:55:42.669697+00:00"
         }
       ],
       "last_plan": {
@@ -34741,12 +34741,6 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T04:48:37.657424+00:00",
         "relay_source_id": "16607977"
-      },
-      "claim": {
-        "worker_id": "3f792fbf255b4dba907181cd53a95099-shard-0",
-        "claimed_at": "2026-11-11T20:55:39.856752+00:00",
-        "lease_expires_at": "2026-11-12T02:55:39.856752+00:00",
-        "run_id": "43067513109"
       }
     },
     "18754": {
@@ -35097,7 +35091,7 @@
       "last_plan": {
         "source_id": "23076909",
         "display_name": "Beavis and Butt-Head Do the Universe 1080p CZ Titulky",
-        "planned_at": "2026-11-11T20:25:36.295163+00:00"
+        "planned_at": "2026-11-11T20:55:41.843402+00:00"
       },
       "previous_target_id": "30987932",
       "prepared": {
@@ -35105,6 +35099,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:52:35.333881+00:00",
         "relay_source_id": "23076909"
+      },
+      "claim": {
+        "worker_id": "59fc3d0201fb418581116ec960a8207e-shard-0",
+        "claimed_at": "2026-11-11T20:55:41.997896+00:00",
+        "lease_expires_at": "2026-11-12T02:55:41.997896+00:00",
+        "run_id": "43067513109"
       }
     },
     "370": {
@@ -97259,5 +97259,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:55:39.856773+00:00"
+  "updated_at": "2026-11-11T20:55:42.669710+00:00"
 }
