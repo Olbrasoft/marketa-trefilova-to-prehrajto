@@ -100635,6 +100635,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T06:11:47.158308+00:00",
         "relay_source_id": "11696652"
+      },
+      "claim": {
+        "worker_id": "b1a4d542a5c8418aa731ee8abaf77b78-shard-0",
+        "claimed_at": "2026-11-11T08:56:19.360046+00:00",
+        "lease_expires_at": "2026-11-11T14:56:19.360046+00:00",
+        "run_id": "42965310158"
       }
     },
     "31193": {
@@ -125980,13 +125986,6 @@
           "source_id": "8355120",
           "target_video_id": "30986218",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:05:42.792965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8355120",
-          "target_video_id": "30986218",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:59:30.370618+00:00"
         },
         {
@@ -125995,12 +125994,19 @@
           "target_video_id": "30986218",
           "permanent": false,
           "attempted_at": "2026-11-11T07:55:45.727079+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8355120",
+          "target_video_id": "30986218",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:56:22.233393+00:00"
         }
       ],
       "last_plan": {
         "source_id": "8355120",
         "display_name": "Scooby-Doo! Abracadabra-Doo SD CZ Dabing",
-        "planned_at": "2026-11-11T07:55:41.987509+00:00"
+        "planned_at": "2026-11-11T08:56:19.962888+00:00"
       },
       "previous_target_id": "30986218",
       "prepared": {
@@ -141621,7 +141627,7 @@
       "last_plan": {
         "source_id": "34850592",
         "display_name": "Like Never Before (Jako nikdy) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:56:16.523920+00:00"
+        "planned_at": "2026-11-11T08:56:20.232146+00:00"
       }
     },
     "32891": {
@@ -193932,5 +193938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:56:16.523938+00:00"
+  "updated_at": "2026-11-11T08:56:22.233413+00:00"
 }
