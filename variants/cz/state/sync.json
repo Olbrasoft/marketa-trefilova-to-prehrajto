@@ -45554,13 +45554,6 @@
           "source_id": "20443534",
           "target_video_id": "30871258",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:59:56.554951+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20443534",
-          "target_video_id": "30871258",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:38:30.015576+00:00"
         },
         {
@@ -45569,6 +45562,13 @@
           "target_video_id": "30871258",
           "permanent": false,
           "attempted_at": "2026-11-11T05:19:14.403688+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20443534",
+          "target_video_id": "30871258",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:01:51.254118+00:00"
         }
       ],
       "last_plan": {
@@ -132453,7 +132453,7 @@
       "last_plan": {
         "source_id": "31712414",
         "display_name": "O svatební krajce SD CZ Dabing",
-        "planned_at": "2026-11-11T05:19:13.770878+00:00"
+        "planned_at": "2026-11-11T06:01:50.006993+00:00"
       },
       "previous_target_id": "30987222",
       "prepared": {
@@ -132461,6 +132461,12 @@
         "size_bytes": 734400000,
         "prepared_at": "2026-11-11T03:59:21.896022+00:00",
         "relay_source_id": "31712414"
+      },
+      "claim": {
+        "worker_id": "7e8d8763d43344fe9d1f69a91276cdbe-shard-0",
+        "claimed_at": "2026-11-11T06:01:50.633780+00:00",
+        "lease_expires_at": "2026-11-11T12:01:50.633780+00:00",
+        "run_id": "42938376778"
       }
     },
     "32106": {
@@ -135922,7 +135928,13 @@
       "last_plan": {
         "source_id": "33706152",
         "display_name": "Všichni musí být v pyžamu 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:01:47.813856+00:00"
+        "planned_at": "2026-11-11T06:01:50.217453+00:00"
+      },
+      "claim": {
+        "worker_id": "4a97fe48eafd4750b599cfa10d817834-shard-0",
+        "claimed_at": "2026-11-11T06:01:50.771393+00:00",
+        "lease_expires_at": "2026-11-11T12:01:50.771393+00:00",
+        "run_id": "42938376778"
       }
     },
     "24059": {
@@ -135932,7 +135944,12 @@
       "attempts": []
     },
     "24252": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30647651",
+        "display_name": "Rozina sebranec (Rozina the Love Child) SD CZ Dabing",
+        "planned_at": "2026-11-11T06:01:50.354241+00:00"
+      }
     },
     "37464": {
       "attempts": []
@@ -189049,5 +189066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:01:48.091152+00:00"
+  "updated_at": "2026-11-11T06:01:51.254127+00:00"
 }
