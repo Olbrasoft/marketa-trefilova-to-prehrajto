@@ -129185,17 +129185,19 @@
       }
     },
     "12390": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35246262",
+          "target_video_id": "30986904",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:37:14.762404+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35246262",
         "display_name": "An Ambiguous Report About the End of the World (Nejasná zpráva o konci světa) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:36:31.489405+00:00"
-      },
-      "claim": {
-        "worker_id": "9108ee5490c9428fa4e700fcd67d4866-shard-0",
-        "claimed_at": "2026-11-11T02:36:32.175213+00:00",
-        "lease_expires_at": "2026-11-11T08:36:32.175213+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986904",
       "prepared": {
@@ -183359,5 +183361,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:37:13.440124+00:00"
+  "updated_at": "2026-11-11T02:37:14.762419+00:00"
 }
