@@ -107592,7 +107592,7 @@
       "last_plan": {
         "source_id": "30612511",
         "display_name": "Čest a sláva SD CZ Dabing",
-        "planned_at": "2026-11-11T01:42:06.062965+00:00"
+        "planned_at": "2026-11-11T02:23:53.092096+00:00"
       },
       "previous_target_id": "30983498",
       "prepared": {
@@ -107600,17 +107600,16 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T14:09:38.631857+00:00",
         "relay_source_id": "30612511"
+      },
+      "claim": {
+        "worker_id": "e0cd4b26c8fe4b0d800b698777aa2943-shard-0",
+        "claimed_at": "2026-11-11T02:23:53.570343+00:00",
+        "lease_expires_at": "2026-11-11T08:23:53.570343+00:00",
+        "run_id": "42938376778"
       }
     },
     "32038": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "35152274",
-          "target_video_id": "30983500",
-          "permanent": false,
-          "attempted_at": "2026-11-11T00:20:04.069693+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "35152274",
@@ -107624,6 +107623,13 @@
           "target_video_id": "30983500",
           "permanent": false,
           "attempted_at": "2026-11-11T01:42:07.017073+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35152274",
+          "target_video_id": "30983500",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:23:53.702470+00:00"
         }
       ],
       "last_plan": {
@@ -107637,12 +107643,6 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-10T14:11:17.051489+00:00",
         "relay_source_id": "35152274"
-      },
-      "claim": {
-        "worker_id": "c58d51d977af42738cbb2773551b2036-shard-0",
-        "claimed_at": "2026-11-11T02:23:51.408641+00:00",
-        "lease_expires_at": "2026-11-11T08:23:51.408641+00:00",
-        "run_id": "42938376778"
       }
     },
     "14397": {
@@ -128875,7 +128875,7 @@
       "last_plan": {
         "source_id": "27023916",
         "display_name": "Candidate (Kandidát) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:23:51.131891+00:00"
+        "planned_at": "2026-11-11T02:23:53.293455+00:00"
       }
     },
     "30998": {
@@ -183061,5 +183061,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:23:51.535404+00:00"
+  "updated_at": "2026-11-11T02:23:53.702481+00:00"
 }
