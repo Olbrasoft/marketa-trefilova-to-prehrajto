@@ -109882,13 +109882,6 @@
           "source_id": "15115113",
           "target_video_id": "30983740",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:42:25.883871+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15115113",
-          "target_video_id": "30983740",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:23:30.210200+00:00"
         },
         {
@@ -109897,6 +109890,13 @@
           "target_video_id": "30983740",
           "permanent": false,
           "attempted_at": "2026-11-11T06:07:06.673948+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15115113",
+          "target_video_id": "30983740",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:01:20.398196+00:00"
         }
       ],
       "last_plan": {
@@ -128273,7 +128273,7 @@
       "last_plan": {
         "source_id": "11824371",
         "display_name": "1000 to 1: The Cory Weissman Story (1000 to 1) SD CZ Dabing",
-        "planned_at": "2026-11-11T06:07:06.039063+00:00"
+        "planned_at": "2026-11-11T07:01:18.664509+00:00"
       },
       "previous_target_id": "30986706",
       "prepared": {
@@ -128281,6 +128281,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T01:39:31.771576+00:00",
         "relay_source_id": "11824371"
+      },
+      "claim": {
+        "worker_id": "3de73b02da0845db85551523560c4c5b-shard-0",
+        "claimed_at": "2026-11-11T07:01:19.611126+00:00",
+        "lease_expires_at": "2026-11-11T13:01:19.611126+00:00",
+        "run_id": "42965310158"
       }
     },
     "17172": {
@@ -137902,6 +137908,12 @@
         "source_id": "34713910",
         "display_name": "She - Hero (She – Hero) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:01:13.477466+00:00"
+      },
+      "claim": {
+        "worker_id": "d76c2112b69e48ec8eaaa0680b3e4908-shard-0",
+        "claimed_at": "2026-11-11T07:01:18.461539+00:00",
+        "lease_expires_at": "2026-11-11T13:01:18.461539+00:00",
+        "run_id": "42965310158"
       }
     },
     "33296": {
@@ -137909,7 +137921,7 @@
       "last_plan": {
         "source_id": "34851292",
         "display_name": "Všichni do jednoho SD CZ Dabing",
-        "planned_at": "2026-11-11T07:01:13.647354+00:00"
+        "planned_at": "2026-11-11T07:01:18.956537+00:00"
       }
     },
     "12780": {
@@ -190730,5 +190742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:01:13.860353+00:00"
+  "updated_at": "2026-11-11T07:01:20.398217+00:00"
 }
