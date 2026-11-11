@@ -139413,17 +139413,19 @@
       "attempts": []
     },
     "14406": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34883583",
+          "target_video_id": "30988170",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:47:04.633924+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34883583",
         "display_name": "Murder in Hérault (Crime dans l'Hérault) SD CZ Dabing",
         "planned_at": "2026-11-11T07:45:55.823084+00:00"
-      },
-      "claim": {
-        "worker_id": "870fcf3ebd0e462ba9f17ab2aa05ff22-shard-0",
-        "claimed_at": "2026-11-11T07:45:58.005378+00:00",
-        "lease_expires_at": "2026-11-11T13:45:58.005378+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988170",
       "prepared": {
@@ -192067,5 +192069,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:47:01.824784+00:00"
+  "updated_at": "2026-11-11T07:47:04.633942+00:00"
 }
