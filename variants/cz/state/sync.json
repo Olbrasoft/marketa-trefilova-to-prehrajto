@@ -128474,13 +128474,6 @@
           "source_id": "32146424",
           "target_video_id": "30986739",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:54:07.660210+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32146424",
-          "target_video_id": "30986739",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:34:42.746866+00:00"
         },
         {
@@ -128489,12 +128482,19 @@
           "target_video_id": "30986739",
           "permanent": false,
           "attempted_at": "2026-11-11T03:07:43.253584+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32146424",
+          "target_video_id": "30986739",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:41:46.291930+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32146424",
         "display_name": "Racketeer (Рэкетир) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:07:39.437464+00:00"
+        "planned_at": "2026-11-11T03:41:43.933244+00:00"
       },
       "previous_target_id": "30986739",
       "prepared": {
@@ -131210,11 +131210,22 @@
       "last_plan": {
         "source_id": "33767536",
         "display_name": "Železný dědek 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:41:40.694666+00:00"
+        "planned_at": "2026-11-11T03:41:44.138432+00:00"
+      },
+      "claim": {
+        "worker_id": "7a90fc6021f446afb938eeeafe8d1a73-shard-0",
+        "claimed_at": "2026-11-11T03:41:44.507050+00:00",
+        "lease_expires_at": "2026-11-11T09:41:44.507050+00:00",
+        "run_id": "42938376778"
       }
     },
     "16969": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "14065113",
+        "display_name": "Fool's death (Bláznova smrt) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T03:41:44.265628+00:00"
+      }
     },
     "14583": {
       "attempts": []
@@ -185045,5 +185056,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:41:42.299472+00:00"
+  "updated_at": "2026-11-11T03:41:46.291943+00:00"
 }
