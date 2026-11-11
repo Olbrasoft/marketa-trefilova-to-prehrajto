@@ -128644,13 +128644,6 @@
           "source_id": "29878083",
           "target_video_id": "30986749",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:43:25.660160+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29878083",
-          "target_video_id": "30986749",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:55:48.532268+00:00"
         },
         {
@@ -128659,12 +128652,19 @@
           "target_video_id": "30986749",
           "permanent": false,
           "attempted_at": "2026-11-11T15:16:35.930991+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29878083",
+          "target_video_id": "30986749",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:48:28.043932+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29878083",
         "display_name": "La Horse (The Horse) SD CZ Dabing",
-        "planned_at": "2026-11-11T15:16:31.649823+00:00"
+        "planned_at": "2026-11-11T17:48:25.285618+00:00"
       },
       "previous_target_id": "30986749",
       "prepared": {
@@ -145067,14 +145067,25 @@
       "last_plan": {
         "source_id": "27434301",
         "display_name": "Labyrint (Labyrinth) SD CZ Dabing",
-        "planned_at": "2026-11-11T17:48:21.020293+00:00"
+        "planned_at": "2026-11-11T17:48:25.515767+00:00"
+      },
+      "claim": {
+        "worker_id": "24334d42ce924c4681e5fd51501667a2-shard-0",
+        "claimed_at": "2026-11-11T17:48:26.090354+00:00",
+        "lease_expires_at": "2026-11-11T23:48:26.090354+00:00",
+        "run_id": "43067513109"
       }
     },
     "32905": {
       "attempts": []
     },
     "34401": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30629482",
+        "display_name": "Little Fatty (Metráček) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T17:48:25.649548+00:00"
+      }
     },
     "10785": {
       "attempts": []
@@ -196910,5 +196921,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:48:23.234929+00:00"
+  "updated_at": "2026-11-11T17:48:28.043953+00:00"
 }
