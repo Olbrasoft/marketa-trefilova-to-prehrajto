@@ -35303,13 +35303,6 @@
           "source_id": "32361142",
           "target_video_id": "30988608",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:38:48.809201+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32361142",
-          "target_video_id": "30988608",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:08:56.253214+00:00"
         },
         {
@@ -35318,6 +35311,13 @@
           "target_video_id": "30988608",
           "permanent": false,
           "attempted_at": "2026-11-11T15:39:00.933735+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32361142",
+          "target_video_id": "30988608",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:24:59.690959+00:00"
         }
       ],
       "last_plan": {
@@ -35430,7 +35430,7 @@
       "last_plan": {
         "source_id": "34670411",
         "display_name": "Journey to the Beginning of Time (Cesta do pravěku) 1080p CZ Titulky",
-        "planned_at": "2026-11-11T15:39:04.696834+00:00"
+        "planned_at": "2026-11-11T17:24:57.028916+00:00"
       },
       "previous_target_id": "30988776",
       "prepared": {
@@ -35438,6 +35438,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-11T09:55:16.794322+00:00",
         "relay_source_id": "34670411"
+      },
+      "claim": {
+        "worker_id": "ddd1d3b25f644780a5c14123ff618d29-shard-0",
+        "claimed_at": "2026-11-11T17:24:57.191335+00:00",
+        "lease_expires_at": "2026-11-11T23:24:57.191335+00:00",
+        "run_id": "43067513109"
       }
     },
     "32036": {
@@ -97200,5 +97206,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:24:52.470383+00:00"
+  "updated_at": "2026-11-11T17:24:59.690980+00:00"
 }
