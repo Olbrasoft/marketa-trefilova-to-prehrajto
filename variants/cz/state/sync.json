@@ -125580,7 +125580,7 @@
       "last_plan": {
         "source_id": "34905544",
         "display_name": "Next Door (Nebenan) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:24:20.089988+00:00"
+        "planned_at": "2026-11-11T12:34:55.611027+00:00"
       },
       "previous_target_id": "30985955",
       "prepared": {
@@ -125588,6 +125588,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T22:46:41.743538+00:00",
         "relay_source_id": "34905544"
+      },
+      "claim": {
+        "worker_id": "cf3a22a57e944f048eafd65bbea44bd2-shard-0",
+        "claimed_at": "2026-11-11T12:34:56.882359+00:00",
+        "lease_expires_at": "2026-11-11T18:34:56.882359+00:00",
+        "run_id": "43011363893"
       }
     },
     "27240": {
@@ -141316,6 +141322,13 @@
           "target_video_id": "30988393",
           "permanent": false,
           "attempted_at": "2026-11-11T09:24:21.490406+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32763852",
+          "target_video_id": "30988393",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:34:57.150375+00:00"
         }
       ],
       "last_plan": {
@@ -143345,14 +143358,25 @@
       "last_plan": {
         "source_id": "10900353",
         "display_name": "The Way Out (Cesta ven) SD CZ Dabing",
-        "planned_at": "2026-11-11T12:34:53.112537+00:00"
+        "planned_at": "2026-11-11T12:34:55.956526+00:00"
+      },
+      "claim": {
+        "worker_id": "8a02dff99c8c4c08ba9de723874c7dd3-shard-0",
+        "claimed_at": "2026-11-11T12:34:56.686757+00:00",
+        "lease_expires_at": "2026-11-11T18:34:56.686757+00:00",
+        "run_id": "43011363893"
       }
     },
     "37327": {
       "attempts": []
     },
     "28963": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "22069235",
+        "display_name": "Prípad pro malíre (Případ pro malíře) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T12:34:56.200780+00:00"
+      }
     },
     "35335": {
       "attempts": []
@@ -195440,5 +195464,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:34:53.112552+00:00"
+  "updated_at": "2026-11-11T12:34:57.150390+00:00"
 }
