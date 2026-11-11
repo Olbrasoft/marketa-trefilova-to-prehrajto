@@ -115349,13 +115349,6 @@
           "source_id": "32155099",
           "target_video_id": "30984640",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:03:18.251309+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32155099",
-          "target_video_id": "30984640",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:18:07.976849+00:00"
         },
         {
@@ -115364,6 +115357,13 @@
           "target_video_id": "30984640",
           "permanent": false,
           "attempted_at": "2026-11-11T20:29:25.114833+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32155099",
+          "target_video_id": "30984640",
+          "permanent": false,
+          "attempted_at": "2026-11-11T21:59:00.149419+00:00"
         }
       ],
       "last_plan": {
@@ -121810,7 +121810,7 @@
       "last_plan": {
         "source_id": "27099387",
         "display_name": "Beast (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:29:24.612198+00:00"
+        "planned_at": "2026-11-11T21:58:58.842543+00:00"
       },
       "previous_target_id": "30985431",
       "prepared": {
@@ -121818,6 +121818,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T19:16:16.465537+00:00",
         "relay_source_id": "27099387"
+      },
+      "claim": {
+        "worker_id": "b30f1e4af9d247f088109d8a6bf9fe70-shard-0",
+        "claimed_at": "2026-11-11T21:58:59.877072+00:00",
+        "lease_expires_at": "2026-11-12T03:58:59.877072+00:00",
+        "run_id": "43102571398"
       }
     },
     "35695": {
@@ -146060,7 +146066,7 @@
       "last_plan": {
         "source_id": "34660297",
         "display_name": "A Pilot Tale (Balada o pilotovi) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:58:56.266793+00:00"
+        "planned_at": "2026-11-11T21:58:59.171085+00:00"
       }
     },
     "11525": {
@@ -197734,5 +197740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:58:56.524644+00:00"
+  "updated_at": "2026-11-11T21:59:00.149438+00:00"
 }
