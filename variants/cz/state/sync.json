@@ -109441,13 +109441,6 @@
           "source_id": "34451234",
           "target_video_id": "30983688",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:51:08.392506+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34451234",
-          "target_video_id": "30983688",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:42:26.439282+00:00"
         },
         {
@@ -109456,6 +109449,13 @@
           "target_video_id": "30983688",
           "permanent": false,
           "attempted_at": "2026-11-11T07:38:19.727051+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34451234",
+          "target_video_id": "30983688",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:37:05.884909+00:00"
         }
       ],
       "last_plan": {
@@ -128937,7 +128937,7 @@
       "last_plan": {
         "source_id": "13254742",
         "display_name": "Hailey Dean Mysteries: A Prescription for Murder 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:38:19.931889+00:00"
+        "planned_at": "2026-11-11T08:37:04.122030+00:00"
       },
       "previous_target_id": "30986777",
       "prepared": {
@@ -128945,6 +128945,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T02:05:50.431055+00:00",
         "relay_source_id": "13254742"
+      },
+      "claim": {
+        "worker_id": "64284b598534487babe333f329aa3ca7-shard-0",
+        "claimed_at": "2026-11-11T08:37:04.953839+00:00",
+        "lease_expires_at": "2026-11-11T14:37:04.953839+00:00",
+        "run_id": "42965310158"
       }
     },
     "22300": {
@@ -140927,11 +140933,22 @@
       "last_plan": {
         "source_id": "28985383",
         "display_name": "The Master (1980) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:37:01.932837+00:00"
+        "planned_at": "2026-11-11T08:37:04.397884+00:00"
+      },
+      "claim": {
+        "worker_id": "e6d39a7509094261b0e6e37ae3400048-shard-0",
+        "claimed_at": "2026-11-11T08:37:05.152030+00:00",
+        "lease_expires_at": "2026-11-11T14:37:05.152030+00:00",
+        "run_id": "42965310158"
       }
     },
     "26163": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32998692",
+        "display_name": "Little Girl Blue 1080p CZ Dabing",
+        "planned_at": "2026-11-11T08:37:04.591609+00:00"
+      }
     },
     "15601": {
       "attempts": []
@@ -193337,5 +193354,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:37:01.932855+00:00"
+  "updated_at": "2026-11-11T08:37:05.884927+00:00"
 }
