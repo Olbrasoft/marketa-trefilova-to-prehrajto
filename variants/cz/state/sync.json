@@ -111643,7 +111643,7 @@
       "last_plan": {
         "source_id": "33855360",
         "display_name": "Cesta do Rokycan 1440p CZ Dabing",
-        "planned_at": "2026-11-11T07:27:14.854217+00:00"
+        "planned_at": "2026-11-11T07:27:17.370687+00:00"
       },
       "previous_target_id": "30983838",
       "prepared": {
@@ -138679,17 +138679,19 @@
       }
     },
     "12711": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25328185",
+          "target_video_id": "30988072",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:27:17.568023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25328185",
         "display_name": "Man in Demand on All Sides (Pán na roztrhání) SD CZ Dabing",
         "planned_at": "2026-11-11T07:26:32.459139+00:00"
-      },
-      "claim": {
-        "worker_id": "c5c9453bd7fb4c7491dca32224914089-shard-0",
-        "claimed_at": "2026-11-11T07:26:34.711796+00:00",
-        "lease_expires_at": "2026-11-11T13:26:34.711796+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988072",
       "prepared": {
@@ -191438,5 +191440,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:27:15.124239+00:00"
+  "updated_at": "2026-11-11T07:27:17.568042+00:00"
 }
