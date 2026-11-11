@@ -117043,13 +117043,6 @@
           "source_id": "15096224",
           "target_video_id": "30984803",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:52:18.399121+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15096224",
-          "target_video_id": "30984803",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:29:14.158975+00:00"
         },
         {
@@ -117058,12 +117051,19 @@
           "target_video_id": "30984803",
           "permanent": false,
           "attempted_at": "2026-11-11T05:10:21.122854+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15096224",
+          "target_video_id": "30984803",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:51:37.713226+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15096224",
         "display_name": "I See You 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:10:19.289879+00:00"
+        "planned_at": "2026-11-11T05:51:35.551968+00:00"
       },
       "previous_target_id": "30984803",
       "prepared": {
@@ -135478,14 +135478,25 @@
       "last_plan": {
         "source_id": "15441977",
         "display_name": "Jacob, Mimmi and the Talking Dogs (Jēkabs, Mimmi un runājošie suņi) 720p CZ Dabing",
-        "planned_at": "2026-11-11T05:51:30.504992+00:00"
+        "planned_at": "2026-11-11T05:51:35.762388+00:00"
+      },
+      "claim": {
+        "worker_id": "98efaa291ae14453ad32e15d720d3f7f-shard-0",
+        "claimed_at": "2026-11-11T05:51:36.283174+00:00",
+        "lease_expires_at": "2026-11-11T11:51:36.283174+00:00",
+        "run_id": "42938376778"
       }
     },
     "24067": {
       "attempts": []
     },
     "15725": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32941007",
+        "display_name": "The Websters Movie (Websterovci vo filme) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T05:51:35.895634+00:00"
+      }
     },
     "30381": {
       "attempts": []
@@ -188668,5 +188679,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:51:32.649145+00:00"
+  "updated_at": "2026-11-11T05:51:37.713239+00:00"
 }
