@@ -129075,13 +129075,6 @@
           "source_id": "34796896",
           "target_video_id": "30986820",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:21:59.188226+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34796896",
-          "target_video_id": "30986820",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:57:23.926051+00:00"
         },
         {
@@ -129090,6 +129083,13 @@
           "target_video_id": "30986820",
           "permanent": false,
           "attempted_at": "2026-11-11T04:35:49.971482+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34796896",
+          "target_video_id": "30986820",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:16:05.499875+00:00"
         }
       ],
       "last_plan": {
@@ -129103,12 +129103,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T02:14:22.452892+00:00",
         "relay_source_id": "34796896"
-      },
-      "claim": {
-        "worker_id": "90e4cd6787f14607a5f41138e2ca9ca9-shard-0",
-        "claimed_at": "2026-11-11T05:16:02.932130+00:00",
-        "lease_expires_at": "2026-11-11T11:16:02.932130+00:00",
-        "run_id": "42938376778"
       }
     },
     "15845": {
@@ -132332,7 +132326,7 @@
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
-        "planned_at": "2026-11-11T04:35:52.117185+00:00"
+        "planned_at": "2026-11-11T05:16:04.998815+00:00"
       },
       "previous_target_id": "30987208",
       "prepared": {
@@ -132340,6 +132334,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T03:56:55.465680+00:00",
         "relay_source_id": "30251989"
+      },
+      "claim": {
+        "worker_id": "059ea7ea3d6043a5b3a4a1da3f40f16b-shard-0",
+        "claimed_at": "2026-11-11T05:16:05.629172+00:00",
+        "lease_expires_at": "2026-11-11T11:16:05.629172+00:00",
+        "run_id": "42938376778"
       }
     },
     "31944": {
@@ -134181,7 +134181,7 @@
       "last_plan": {
         "source_id": "34716014",
         "display_name": "Matrix AB SD CZ Dabing",
-        "planned_at": "2026-11-11T05:16:02.620966+00:00"
+        "planned_at": "2026-11-11T05:16:05.204673+00:00"
       }
     },
     "12692": {
@@ -187557,5 +187557,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:16:03.618441+00:00"
+  "updated_at": "2026-11-11T05:16:05.629189+00:00"
 }
