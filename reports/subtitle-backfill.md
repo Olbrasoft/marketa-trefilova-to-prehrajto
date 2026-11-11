@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T08:08:15.954978+00:00
+Poslední aktualizace (UTC): 2026-11-11T08:08:17.608279+00:00
 
 Zkontrolováno videí: 627. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 52, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 53, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -118,6 +118,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 63. Důvod
 | [The Great Hack 1080p CZ Titulky](https://prehraj.to/the-great-hack-1080p-cz-titulky-mkv/876cecaca50e47a3) (ID 30986211) | [Sdílej 35468703](https://sdilej.cz/35468703/the.great.hack.2019.1080p.nf.web-dl.ddp5.1.x264-ntg.mkv) | target_unavailable | 2026-11-10T23:42:01.868480+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-10T09:40:43.829752+00:00 |
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-10T09:50:17.336404+00:00 |
+| [The Place SD CZ Titulky](https://prehraj.to/the-place-sd-cz-titulky-mkv/89bc7215d78c8de2) (ID 30988255) | [Sdílej 9657833](https://sdilej.cz/9657833/misto-splnenych-prani-the-place-2017-cz-titulky.mkv) | target_unavailable | 2026-11-11T08:08:17.411486+00:00 |
 | [The Seven Year Itch 1080p CZ Titulky](https://prehraj.to/the-seven-year-itch-1080p-cz-titulky-mkv/b29d39d2b9b4ca46) (ID 30983632) | [Sdílej 6563156](https://sdilej.cz/6563156/slameny-vdovec-the-seven-year-itch-1955-cz-1080phd-.mkv) | target_unavailable | 2026-11-10T14:26:07.099701+00:00 |
 | [The Thing from Another World SD CZ Titulky](https://prehraj.to/the-thing-from-another-world-sd-cz-titulky-mkv/8b211c1b291dfc65) (ID 30984580) | [Sdílej 13368212](https://sdilej.cz/13368212/vec-the-thing-from-another-world-1951--cz-tit.-.mkv) | target_unavailable | 2026-11-10T16:57:15.224704+00:00 |
 | [Top Gun 4K CZ Titulky](https://prehraj.to/top-gun-4k-cz-titulky-mkv/385170ec4fe46e87) (ID 30965106) | [Sdílej 28086780](https://sdilej.cz/28086780/top.gun.1986.2160p.4k.bluray.x265.10bit.aac5.1-leon.-en-subs-cz-en-.mkv) | target_unavailable | 2026-11-10T09:50:21.222346+00:00 |
