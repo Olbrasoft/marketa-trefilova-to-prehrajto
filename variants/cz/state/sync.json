@@ -115067,13 +115067,6 @@
           "source_id": "32940647",
           "target_video_id": "30984626",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:59:50.598368+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32940647",
-          "target_video_id": "30984626",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:38:47.638724+00:00"
         },
         {
@@ -115082,6 +115075,13 @@
           "target_video_id": "30984626",
           "permanent": false,
           "attempted_at": "2026-11-11T01:19:31.882860+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32940647",
+          "target_video_id": "30984626",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:01:01.521388+00:00"
         }
       ],
       "last_plan": {
@@ -121633,7 +121633,7 @@
       "last_plan": {
         "source_id": "27907291",
         "display_name": "Frozen Fever 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:19:31.642447+00:00"
+        "planned_at": "2026-11-11T02:00:59.868027+00:00"
       },
       "previous_target_id": "30985427",
       "prepared": {
@@ -121641,6 +121641,12 @@
         "size_bytes": 167000000,
         "prepared_at": "2026-11-10T19:14:36.983907+00:00",
         "relay_source_id": "27907291"
+      },
+      "claim": {
+        "worker_id": "deae1cfcbd794490acbed930fd65a25e-shard-0",
+        "claimed_at": "2026-11-11T02:01:00.678329+00:00",
+        "lease_expires_at": "2026-11-11T08:01:00.678329+00:00",
+        "run_id": "42904278669"
       }
     },
     "26085": {
@@ -128347,6 +128353,12 @@
         "source_id": "34026360",
         "display_name": "Aïlo: An Odyssey in Lapland (Aïlo : Une odyssée en Laponie) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:00:57.287275+00:00"
+      },
+      "claim": {
+        "worker_id": "cfb82df28c2249179a0432a94ba092aa-shard-0",
+        "claimed_at": "2026-11-11T02:00:59.639323+00:00",
+        "lease_expires_at": "2026-11-11T08:00:59.639323+00:00",
+        "run_id": "42904278669"
       }
     },
     "35446": {
@@ -128366,7 +128378,7 @@
       "last_plan": {
         "source_id": "34694857",
         "display_name": "Love Letters (Des preuves d'amour) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:00:57.475214+00:00"
+        "planned_at": "2026-11-11T02:01:00.229654+00:00"
       }
     },
     "37009": {
@@ -182636,5 +182648,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:00:57.475233+00:00"
+  "updated_at": "2026-11-11T02:01:01.521410+00:00"
 }
