@@ -35818,17 +35818,19 @@
       "attempts": []
     },
     "37281": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34273318",
+          "target_video_id": "30990118",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:13:31.372602+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34273318",
         "display_name": "Sayonara 1080p CZ Titulky",
         "planned_at": "2026-11-11T13:00:06.657427+00:00"
-      },
-      "claim": {
-        "worker_id": "0ab0cd8a0b00402f8698ce29c2104d33-shard-0",
-        "claimed_at": "2026-11-11T13:00:07.032501+00:00",
-        "lease_expires_at": "2026-11-11T19:00:07.032501+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990118",
       "prepared": {
@@ -97016,5 +97018,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:12:08.596912+00:00"
+  "updated_at": "2026-11-11T13:13:31.372621+00:00"
 }
