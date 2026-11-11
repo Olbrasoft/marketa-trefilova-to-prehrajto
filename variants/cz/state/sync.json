@@ -121454,7 +121454,7 @@
       "last_plan": {
         "source_id": "35010063",
         "display_name": "Monos 4K CZ Dabing",
-        "planned_at": "2026-11-11T01:54:50.360358+00:00"
+        "planned_at": "2026-11-11T02:35:07.343376+00:00"
       },
       "previous_target_id": "30985407",
       "prepared": {
@@ -121462,6 +121462,12 @@
         "size_bytes": 22000000000,
         "prepared_at": "2026-11-10T19:09:15.571400+00:00",
         "relay_source_id": "35010063"
+      },
+      "claim": {
+        "worker_id": "492e63ab01fa4dcb9eea85b87d9ab13d-shard-0",
+        "claimed_at": "2026-11-11T02:35:07.818949+00:00",
+        "lease_expires_at": "2026-11-11T08:35:07.818949+00:00",
+        "run_id": "42938376778"
       }
     },
     "35405": {
@@ -121469,13 +121475,6 @@
     },
     "22839": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "29835020",
-          "target_video_id": "30985406",
-          "permanent": false,
-          "attempted_at": "2026-11-11T00:32:04.465578+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "29835020",
@@ -121489,6 +121488,13 @@
           "target_video_id": "30985406",
           "permanent": false,
           "attempted_at": "2026-11-11T01:54:50.921221+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29835020",
+          "target_video_id": "30985406",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:35:07.962857+00:00"
         }
       ],
       "last_plan": {
@@ -121502,12 +121508,6 @@
         "size_bytes": 10700000000,
         "prepared_at": "2026-11-10T19:09:14.207602+00:00",
         "relay_source_id": "29835020"
-      },
-      "claim": {
-        "worker_id": "6253602fc35c4326b12787d5a8d1994b-shard-0",
-        "claimed_at": "2026-11-11T02:35:05.103472+00:00",
-        "lease_expires_at": "2026-11-11T08:35:05.103472+00:00",
-        "run_id": "42938376778"
       }
     },
     "10791": {
@@ -129142,7 +129142,7 @@
       "last_plan": {
         "source_id": "33698675",
         "display_name": "Homolka and Pocketbook (Homolka a tobolka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:35:04.841601+00:00"
+        "planned_at": "2026-11-11T02:35:07.548810+00:00"
       }
     },
     "12390": {
@@ -183277,5 +183277,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:35:05.911160+00:00"
+  "updated_at": "2026-11-11T02:35:07.962873+00:00"
 }
