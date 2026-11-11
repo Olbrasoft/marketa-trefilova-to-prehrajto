@@ -123303,7 +123303,7 @@
       "last_plan": {
         "source_id": "26801976",
         "display_name": "Emily 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:34:21.556330+00:00"
+        "planned_at": "2026-11-11T05:14:52.077979+00:00"
       },
       "previous_target_id": "30985628",
       "prepared": {
@@ -123311,6 +123311,12 @@
         "size_bytes": 11700000000,
         "prepared_at": "2026-11-10T20:51:31.818246+00:00",
         "relay_source_id": "26801976"
+      },
+      "claim": {
+        "worker_id": "2919ed6392294f878c54959b283f571b-shard-0",
+        "claimed_at": "2026-11-11T05:14:52.797708+00:00",
+        "lease_expires_at": "2026-11-11T11:14:52.797708+00:00",
+        "run_id": "42938376778"
       }
     },
     "29773": {
@@ -133404,6 +133410,13 @@
           "target_video_id": "30987409",
           "permanent": false,
           "attempted_at": "2026-11-11T04:34:18.040311+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30626666",
+          "target_video_id": "30987409",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:14:52.623936+00:00"
         }
       ],
       "last_plan": {
@@ -133414,15 +133427,9 @@
       "previous_target_id": "30987409",
       "prepared": {
         "target_video_id": "30987409",
-        "size_bytes": 986371980,
+        "size_bytes": 986400000,
         "prepared_at": "2026-11-11T04:33:42.133116+00:00",
         "relay_source_id": "30626666"
-      },
-      "claim": {
-        "worker_id": "31170284280547f78a72803377508e2d-shard-0",
-        "claimed_at": "2026-11-11T05:14:49.660218+00:00",
-        "lease_expires_at": "2026-11-11T11:14:49.660218+00:00",
-        "run_id": "42938376778"
       }
     },
     "16221": {
@@ -134144,7 +134151,7 @@
       "last_plan": {
         "source_id": "34676280",
         "display_name": "Stop Mewling, Squirrel! (Nefňukej, veverko!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:14:49.352781+00:00"
+        "planned_at": "2026-11-11T05:14:52.283358+00:00"
       }
     },
     "33000": {
@@ -187523,5 +187530,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:14:50.327224+00:00"
+  "updated_at": "2026-11-11T05:14:52.797721+00:00"
 }
