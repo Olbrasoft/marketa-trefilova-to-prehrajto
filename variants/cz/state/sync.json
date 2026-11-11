@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:07:16.108321+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:01:37.857673+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-11T07:58:10.929670+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:59:16.964515+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "0482b0cff2cd40ddb73b0479a5fedaae-shard-0",
-        "claimed_at": "2026-11-11T08:59:10.142927+00:00",
-        "lease_expires_at": "2026-11-11T14:59:10.142927+00:00",
-        "run_id": "42965310158"
       }
     },
     "37290": {
@@ -129248,7 +129242,7 @@
       "last_plan": {
         "source_id": "33706380",
         "display_name": "Ice Mother (Bába z ledu) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:58:21.612047+00:00"
+        "planned_at": "2026-11-11T08:59:15.409768+00:00"
       },
       "previous_target_id": "30986846",
       "prepared": {
@@ -129256,6 +129250,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T02:20:21.449959+00:00",
         "relay_source_id": "33706380"
+      },
+      "claim": {
+        "worker_id": "d98a5220dcad4cd2ac762beb0016f091-shard-0",
+        "claimed_at": "2026-11-11T08:59:16.301403+00:00",
+        "lease_expires_at": "2026-11-11T14:59:16.301403+00:00",
+        "run_id": "42965310158"
       }
     },
     "24415": {
@@ -141776,7 +141776,7 @@
       "last_plan": {
         "source_id": "34683567",
         "display_name": "Sisterhood 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:59:10.626803+00:00"
+        "planned_at": "2026-11-11T08:59:15.700309+00:00"
       }
     },
     "32639": {
@@ -194039,5 +194039,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:59:13.806101+00:00"
+  "updated_at": "2026-11-11T08:59:16.964535+00:00"
 }
