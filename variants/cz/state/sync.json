@@ -122809,13 +122809,6 @@
           "source_id": "34230753",
           "target_video_id": "30985555",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:10:38.561892+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34230753",
-          "target_video_id": "30985555",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:47:42.223237+00:00"
         },
         {
@@ -122824,6 +122817,13 @@
           "target_video_id": "30985555",
           "permanent": false,
           "attempted_at": "2026-11-11T03:20:18.844938+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34230753",
+          "target_video_id": "30985555",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:55:31.147347+00:00"
         }
       ],
       "last_plan": {
@@ -122837,12 +122837,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-10T20:18:15.751150+00:00",
         "relay_source_id": "34230753"
-      },
-      "claim": {
-        "worker_id": "4e6dfa9851e14deea2d8682cb9a611b1-shard-0",
-        "claimed_at": "2026-11-11T03:55:28.886165+00:00",
-        "lease_expires_at": "2026-11-11T09:55:28.886165+00:00",
-        "run_id": "42938376778"
       }
     },
     "2528": {
@@ -129027,7 +129021,7 @@
       "last_plan": {
         "source_id": "34993388",
         "display_name": "Love Me Tender (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:20:18.221399+00:00"
+        "planned_at": "2026-11-11T03:55:30.541368+00:00"
       },
       "previous_target_id": "30986791",
       "prepared": {
@@ -129035,6 +129029,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T02:10:01.122902+00:00",
         "relay_source_id": "34993388"
+      },
+      "claim": {
+        "worker_id": "78b68672d4c84c02b0827d32115f1910-shard-0",
+        "claimed_at": "2026-11-11T03:55:30.991756+00:00",
+        "lease_expires_at": "2026-11-11T09:55:30.991756+00:00",
+        "run_id": "42938376778"
       }
     },
     "14540": {
@@ -131741,7 +131741,7 @@
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:55:28.598752+00:00"
+        "planned_at": "2026-11-11T03:55:30.746913+00:00"
       }
     },
     "31944": {
@@ -185492,5 +185492,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:55:29.021076+00:00"
+  "updated_at": "2026-11-11T03:55:31.147358+00:00"
 }
