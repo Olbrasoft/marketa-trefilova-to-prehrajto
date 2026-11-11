@@ -119828,6 +119828,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T18:30:17.466007+00:00",
         "relay_source_id": "11263337"
+      },
+      "claim": {
+        "worker_id": "decfdc873c4049b1a8a0a1c1f0fba660-shard-0",
+        "claimed_at": "2026-11-11T07:12:33.733950+00:00",
+        "lease_expires_at": "2026-11-11T13:12:33.733950+00:00",
+        "run_id": "42965310158"
       }
     },
     "3022": {
@@ -121036,13 +121042,6 @@
           "source_id": "30780911",
           "target_video_id": "30985356",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:51:59.357342+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30780911",
-          "target_video_id": "30985356",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:31:50.416598+00:00"
         },
         {
@@ -121051,6 +121050,13 @@
           "target_video_id": "30985356",
           "permanent": false,
           "attempted_at": "2026-11-11T06:18:32.955316+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30780911",
+          "target_video_id": "30985356",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:12:34.440056+00:00"
         }
       ],
       "last_plan": {
@@ -121064,12 +121070,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-10T18:59:10.136746+00:00",
         "relay_source_id": "30780911"
-      },
-      "claim": {
-        "worker_id": "6451077e47d64739a0cfe27dabe3589a-shard-0",
-        "claimed_at": "2026-11-11T07:12:31.287867+00:00",
-        "lease_expires_at": "2026-11-11T13:12:31.287867+00:00",
-        "run_id": "42965310158"
       }
     },
     "27155": {
@@ -121102,7 +121102,7 @@
       "last_plan": {
         "source_id": "33746515",
         "display_name": "Taps 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:18:37.048695+00:00"
+        "planned_at": "2026-11-11T07:12:33.943386+00:00"
       },
       "previous_target_id": "30985386",
       "prepared": {
@@ -138213,7 +138213,7 @@
       "last_plan": {
         "source_id": "34787002",
         "display_name": "Don’t Look Round, a Horse Follows Us! (Don't Look Back, There Is a Horse Behind Us) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:12:31.767180+00:00"
+        "planned_at": "2026-11-11T07:12:34.207011+00:00"
       }
     },
     "13319": {
@@ -191010,5 +191010,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:12:32.054950+00:00"
+  "updated_at": "2026-11-11T07:12:34.440076+00:00"
 }
