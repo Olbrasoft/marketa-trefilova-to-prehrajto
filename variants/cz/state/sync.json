@@ -122649,6 +122649,12 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-10T20:08:53.441923+00:00",
         "relay_source_id": "22752658"
+      },
+      "claim": {
+        "worker_id": "c1f65bc446494b95901fb8a42a3523be-shard-0",
+        "claimed_at": "2026-11-11T06:25:59.406293+00:00",
+        "lease_expires_at": "2026-11-11T12:25:59.406293+00:00",
+        "run_id": "42965310158"
       }
     },
     "26020": {
@@ -136622,17 +136628,19 @@
       }
     },
     "36794": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27786413",
+          "target_video_id": "30987853",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:25:59.612546+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27786413",
         "display_name": "The Little Pet (Mazlíček) SD CZ Dabing",
         "planned_at": "2026-11-11T06:25:16.040042+00:00"
-      },
-      "claim": {
-        "worker_id": "532642fe03f14e759b5421cbfd6c2276-shard-0",
-        "claimed_at": "2026-11-11T06:25:16.858399+00:00",
-        "lease_expires_at": "2026-11-11T12:25:16.858399+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987853",
       "prepared": {
@@ -189663,5 +189671,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:25:57.476527+00:00"
+  "updated_at": "2026-11-11T06:25:59.612563+00:00"
 }
