@@ -110806,7 +110806,7 @@
       "last_plan": {
         "source_id": "28004879",
         "display_name": "Paklíč SD CZ Dabing",
-        "planned_at": "2026-11-11T07:08:22.039266+00:00"
+        "planned_at": "2026-11-11T08:05:15.958786+00:00"
       },
       "previous_target_id": "30983794",
       "prepared": {
@@ -110814,6 +110814,12 @@
         "size_bytes": 807200000,
         "prepared_at": "2026-11-10T14:49:12.511698+00:00",
         "relay_source_id": "28004879"
+      },
+      "claim": {
+        "worker_id": "f6002f16fdc0415a8c48010b790e57ac-shard-0",
+        "claimed_at": "2026-11-11T08:05:16.558113+00:00",
+        "lease_expires_at": "2026-11-11T14:05:16.558113+00:00",
+        "run_id": "42965310158"
       }
     },
     "13136": {
@@ -112879,13 +112885,6 @@
           "source_id": "34357641",
           "target_video_id": "30984036",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:28:37.630168+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357641",
-          "target_video_id": "30984036",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:11:52.636073+00:00"
         },
         {
@@ -112894,6 +112893,13 @@
           "target_video_id": "30984036",
           "permanent": false,
           "attempted_at": "2026-11-11T07:08:23.823222+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357641",
+          "target_video_id": "30984036",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:05:16.771525+00:00"
         }
       ],
       "last_plan": {
@@ -112907,12 +112913,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:18:28.360690+00:00",
         "relay_source_id": "34357641"
-      },
-      "claim": {
-        "worker_id": "86b1836d805547e88110e4ee5620f26b-shard-0",
-        "claimed_at": "2026-11-11T08:05:13.075573+00:00",
-        "lease_expires_at": "2026-11-11T14:05:13.075573+00:00",
-        "run_id": "42965310158"
       }
     },
     "2991": {
@@ -140030,7 +140030,7 @@
       "last_plan": {
         "source_id": "34757832",
         "display_name": "Escape to Budapest (Útek do Budína) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:05:12.710555+00:00"
+        "planned_at": "2026-11-11T08:05:16.227591+00:00"
       }
     },
     "11152": {
@@ -192563,5 +192563,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:05:13.075600+00:00"
+  "updated_at": "2026-11-11T08:05:16.771545+00:00"
 }
