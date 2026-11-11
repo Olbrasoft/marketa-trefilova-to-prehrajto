@@ -127010,17 +127010,19 @@
       "attempts": []
     },
     "21713": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28178997",
+          "target_video_id": "30986561",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:54:14.244282+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28178997",
         "display_name": "The Great Spy Chase SD CZ Dabing",
         "planned_at": "2026-11-11T00:52:25.448375+00:00"
-      },
-      "claim": {
-        "worker_id": "b22a594aa6444ea6bb8e73c1beaceadf-shard-0",
-        "claimed_at": "2026-11-11T00:52:27.597119+00:00",
-        "lease_expires_at": "2026-11-11T06:52:27.597119+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986561",
       "prepared": {
@@ -181575,5 +181577,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:54:12.677418+00:00"
+  "updated_at": "2026-11-11T00:54:14.244303+00:00"
 }
