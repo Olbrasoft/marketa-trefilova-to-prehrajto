@@ -128620,17 +128620,19 @@
       }
     },
     "11031": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34796896",
+          "target_video_id": "30986820",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:16:07.356914+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34796896",
         "display_name": "On the Comet (Na kometě) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:14:17.873154+00:00"
-      },
-      "claim": {
-        "worker_id": "9c017b1f669a4daea7238a34ea053e7d-shard-0",
-        "claimed_at": "2026-11-11T02:14:18.607463+00:00",
-        "lease_expires_at": "2026-11-11T08:14:18.607463+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986820",
       "prepared": {
@@ -182890,5 +182892,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:16:03.830886+00:00"
+  "updated_at": "2026-11-11T02:16:07.356937+00:00"
 }
