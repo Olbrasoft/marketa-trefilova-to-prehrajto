@@ -134603,7 +134603,7 @@
       "last_plan": {
         "source_id": "34676280",
         "display_name": "Stop Mewling, Squirrel! (Nefňukej, veverko!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:58:44.062028+00:00"
+        "planned_at": "2026-11-11T05:58:48.286785+00:00"
       },
       "previous_target_id": "30987576",
       "prepared": {
@@ -134611,6 +134611,12 @@
         "size_bytes": 1709590787,
         "prepared_at": "2026-11-11T05:16:07.009098+00:00",
         "relay_source_id": "34676280"
+      },
+      "claim": {
+        "worker_id": "4eac20d03c614e729e4c7afb9400831e-shard-0",
+        "claimed_at": "2026-11-11T05:58:48.761987+00:00",
+        "lease_expires_at": "2026-11-11T11:58:48.761987+00:00",
+        "run_id": "42938376778"
       }
     },
     "33000": {
@@ -135742,17 +135748,19 @@
       "attempts": []
     },
     "14599": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26154128",
+          "target_video_id": "30987766",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:58:49.721027+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26154128",
         "display_name": "Falling Tears (Když prší slzy) 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:58:06.863879+00:00"
-      },
-      "claim": {
-        "worker_id": "9e9cde69275b4482b44e65004d6d723d-shard-0",
-        "claimed_at": "2026-11-11T05:58:07.406570+00:00",
-        "lease_expires_at": "2026-11-11T11:58:07.406570+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987766",
       "prepared": {
@@ -135791,7 +135799,7 @@
       "last_plan": {
         "source_id": "29809619",
         "display_name": "Prodavac humoru (Prodavač humoru) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:58:44.276049+00:00"
+        "planned_at": "2026-11-11T05:58:48.504698+00:00"
       }
     },
     "37459": {
@@ -188930,5 +188938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:58:44.276059+00:00"
+  "updated_at": "2026-11-11T05:58:49.721037+00:00"
 }
