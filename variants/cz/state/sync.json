@@ -118306,7 +118306,7 @@
       "last_plan": {
         "source_id": "14091913",
         "display_name": "Judy (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:48:14.240461+00:00"
+        "planned_at": "2026-11-11T00:25:50.044217+00:00"
       },
       "previous_target_id": "30984870",
       "prepared": {
@@ -118314,6 +118314,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-10T17:59:53.843118+00:00",
         "relay_source_id": "14091913"
+      },
+      "claim": {
+        "worker_id": "44370dc244a846f4be8beb9bf7bf5289-shard-0",
+        "claimed_at": "2026-11-11T00:25:50.986101+00:00",
+        "lease_expires_at": "2026-11-11T06:25:50.986101+00:00",
+        "run_id": "42904278669"
       }
     },
     "22616": {
@@ -123114,13 +123120,6 @@
           "source_id": "34504671",
           "target_video_id": "30985585",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:26:11.088086+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34504671",
-          "target_video_id": "30985585",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:07:11.192703+00:00"
         },
         {
@@ -123129,6 +123128,13 @@
           "target_video_id": "30985585",
           "permanent": false,
           "attempted_at": "2026-11-10T23:48:14.808818+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34504671",
+          "target_video_id": "30985585",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:25:51.602454+00:00"
         }
       ],
       "last_plan": {
@@ -126564,7 +126570,13 @@
       "last_plan": {
         "source_id": "26168894",
         "display_name": "Victim/Suspect 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:25:47.436357+00:00"
+        "planned_at": "2026-11-11T00:25:50.362676+00:00"
+      },
+      "claim": {
+        "worker_id": "8c17c15534e048d6b642b100b4f0b0eb-shard-0",
+        "claimed_at": "2026-11-11T00:25:51.248502+00:00",
+        "lease_expires_at": "2026-11-11T06:25:51.248502+00:00",
+        "run_id": "42904278669"
       }
     },
     "16562": {
@@ -126589,7 +126601,12 @@
       "attempts": []
     },
     "21881": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30676301",
+        "display_name": "The Thief of Paris SD CZ Dabing",
+        "planned_at": "2026-11-11T00:25:50.592683+00:00"
+      }
     },
     "3266": {
       "attempts": []
@@ -181191,5 +181208,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:25:47.436377+00:00"
+  "updated_at": "2026-11-11T00:25:51.602476+00:00"
 }
