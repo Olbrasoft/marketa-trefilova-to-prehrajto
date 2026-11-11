@@ -129733,13 +129733,6 @@
           "source_id": "33698675",
           "target_video_id": "30986899",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:52:45.456738+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33698675",
-          "target_video_id": "30986899",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:13:44.288056+00:00"
         },
         {
@@ -129748,12 +129741,19 @@
           "target_video_id": "30986899",
           "permanent": false,
           "attempted_at": "2026-11-11T17:45:40.229743+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33698675",
+          "target_video_id": "30986899",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:00:43.121353+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33698675",
         "display_name": "Homolka and Pocketbook (Homolka a tobolka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:45:38.485124+00:00"
+        "planned_at": "2026-11-11T19:00:40.466154+00:00"
       },
       "previous_target_id": "30986899",
       "prepared": {
@@ -145405,14 +145405,25 @@
       "last_plan": {
         "source_id": "33696484",
         "display_name": "Soft Leaves 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:00:35.212869+00:00"
+        "planned_at": "2026-11-11T19:00:40.687613+00:00"
+      },
+      "claim": {
+        "worker_id": "533311c6b407406f86897c1757ffaba7-shard-0",
+        "claimed_at": "2026-11-11T19:00:41.116101+00:00",
+        "lease_expires_at": "2026-11-12T01:00:41.116101+00:00",
+        "run_id": "43067513109"
       }
     },
     "12563": {
       "attempts": []
     },
     "20521": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30242443",
+        "display_name": "Goat (Koza) (2015) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T19:00:40.829345+00:00"
+      }
     },
     "17373": {
       "attempts": []
@@ -197185,5 +197196,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:00:38.552158+00:00"
+  "updated_at": "2026-11-11T19:00:43.121376+00:00"
 }
