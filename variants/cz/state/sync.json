@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "7ca1ff35af344bc4b22548454e133891-shard-0",
+        "claimed_at": "2026-11-11T08:06:55.363911+00:00",
+        "lease_expires_at": "2026-11-11T14:06:55.363911+00:00",
+        "run_id": "42965310158"
       }
     },
     "29922": {
@@ -124205,13 +124211,6 @@
           "source_id": "31149109",
           "target_video_id": "30985758",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:29:49.338836+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31149109",
-          "target_video_id": "30985758",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:13:08.817024+00:00"
         },
         {
@@ -124220,12 +124219,19 @@
           "target_video_id": "30985758",
           "permanent": false,
           "attempted_at": "2026-11-11T07:10:07.653721+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31149109",
+          "target_video_id": "30985758",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:06:58.041979+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31149109",
         "display_name": "Hope Gap 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:10:03.304054+00:00"
+        "planned_at": "2026-11-11T08:06:55.584244+00:00"
       },
       "previous_target_id": "30985758",
       "prepared": {
@@ -140061,7 +140067,7 @@
       "last_plan": {
         "source_id": "29213944",
         "display_name": "Robinson Girl (Robinsonka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:06:53.611284+00:00"
+        "planned_at": "2026-11-11T08:06:55.865380+00:00"
       }
     },
     "13080": {
@@ -192591,5 +192597,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:06:53.611300+00:00"
+  "updated_at": "2026-11-11T08:06:58.041996+00:00"
 }
