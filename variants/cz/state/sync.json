@@ -89362,6 +89362,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T20:27:42.991125+00:00",
         "relay_source_id": "34880122"
+      },
+      "claim": {
+        "worker_id": "12ee35e3841a408fb4781df5502461e7-shard-0",
+        "claimed_at": "2026-11-11T02:22:40.223438+00:00",
+        "lease_expires_at": "2026-11-11T08:22:40.223438+00:00",
+        "run_id": "42938376778"
       }
     },
     "12187": {
@@ -109939,7 +109945,7 @@
       "last_plan": {
         "source_id": "35184124",
         "display_name": "Ticket to the Memorial 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:40:40.895254+00:00"
+        "planned_at": "2026-11-11T02:22:40.378666+00:00"
       },
       "previous_target_id": "30983741",
       "prepared": {
@@ -128741,17 +128747,19 @@
       "attempts": []
     },
     "3030": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33706380",
+          "target_video_id": "30986846",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:22:40.751960+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33706380",
         "display_name": "Ice Mother (Bába z ledu) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:20:17.338796+00:00"
-      },
-      "claim": {
-        "worker_id": "9cb548cb78d142c68c40f6283bd3a909-shard-0",
-        "claimed_at": "2026-11-11T02:20:17.832968+00:00",
-        "lease_expires_at": "2026-11-11T08:20:17.832968+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986846",
       "prepared": {
@@ -128816,7 +128824,7 @@
       "last_plan": {
         "source_id": "34698686",
         "display_name": "In Her Hands 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:22:38.679641+00:00"
+        "planned_at": "2026-11-11T02:22:40.583810+00:00"
       }
     },
     "14899": {
@@ -183008,5 +183016,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:22:38.679653+00:00"
+  "updated_at": "2026-11-11T02:22:40.751971+00:00"
 }
