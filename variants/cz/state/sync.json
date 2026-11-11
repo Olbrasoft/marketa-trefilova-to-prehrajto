@@ -115360,13 +115360,6 @@
           "source_id": "29252925",
           "target_video_id": "30984641",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:39:02.381219+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29252925",
-          "target_video_id": "30984641",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:37:54.445903+00:00"
         },
         {
@@ -115375,6 +115368,13 @@
           "target_video_id": "30984641",
           "permanent": false,
           "attempted_at": "2026-11-11T09:49:10.943778+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29252925",
+          "target_video_id": "30984641",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:56:30.020178+00:00"
         }
       ],
       "last_plan": {
@@ -117143,7 +117143,7 @@
       "last_plan": {
         "source_id": "33894144",
         "display_name": "Bones and All 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:49:12.644363+00:00"
+        "planned_at": "2026-11-11T12:56:28.393172+00:00"
       },
       "previous_target_id": "30984805",
       "prepared": {
@@ -117151,6 +117151,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T17:42:02.877843+00:00",
         "relay_source_id": "33894144"
+      },
+      "claim": {
+        "worker_id": "6cf866fc3d59458e8416ea799882088b-shard-0",
+        "claimed_at": "2026-11-11T12:56:29.328557+00:00",
+        "lease_expires_at": "2026-11-11T18:56:29.328557+00:00",
+        "run_id": "43011363893"
       }
     },
     "31926": {
@@ -143662,7 +143668,7 @@
       "last_plan": {
         "source_id": "29335672",
         "display_name": "Dora: Say Hola to Adventure! 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:56:24.197382+00:00"
+        "planned_at": "2026-11-11T12:56:28.763860+00:00"
       }
     },
     "11013": {
@@ -195718,5 +195724,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:56:24.197398+00:00"
+  "updated_at": "2026-11-11T12:56:30.020193+00:00"
 }
