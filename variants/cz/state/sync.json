@@ -121317,13 +121317,6 @@
           "source_id": "28233220",
           "target_video_id": "30985399",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:20:53.101501+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28233220",
-          "target_video_id": "30985399",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:18:39.442865+00:00"
         },
         {
@@ -121332,6 +121325,13 @@
           "target_video_id": "30985399",
           "permanent": false,
           "attempted_at": "2026-11-11T09:22:53.773368+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28233220",
+          "target_video_id": "30985399",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:33:33.182134+00:00"
         }
       ],
       "last_plan": {
@@ -134081,7 +134081,7 @@
       "last_plan": {
         "source_id": "34689799",
         "display_name": "Černá sobota 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:22:55.399814+00:00"
+        "planned_at": "2026-11-11T12:33:31.275355+00:00"
       },
       "previous_target_id": "30987492",
       "prepared": {
@@ -134089,6 +134089,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T04:57:29.514686+00:00",
         "relay_source_id": "34689799"
+      },
+      "claim": {
+        "worker_id": "f3d295d650954a0eb2efd31f5f84f528-shard-0",
+        "claimed_at": "2026-11-11T12:33:32.159590+00:00",
+        "lease_expires_at": "2026-11-11T18:33:32.159590+00:00",
+        "run_id": "43011363893"
       }
     },
     "36839": {
@@ -143329,7 +143335,7 @@
       "last_plan": {
         "source_id": "10900353",
         "display_name": "The Way Out (Cesta ven) SD CZ Dabing",
-        "planned_at": "2026-11-11T12:33:28.945341+00:00"
+        "planned_at": "2026-11-11T12:33:31.637818+00:00"
       }
     },
     "37327": {
@@ -195424,5 +195430,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:33:29.208194+00:00"
+  "updated_at": "2026-11-11T12:33:33.182150+00:00"
 }
