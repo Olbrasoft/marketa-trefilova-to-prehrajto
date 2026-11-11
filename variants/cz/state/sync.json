@@ -115530,7 +115530,7 @@
       "last_plan": {
         "source_id": "34191543",
         "display_name": "While You Were Sleeping 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:44:09.285530+00:00"
+        "planned_at": "2026-11-11T07:40:10.682235+00:00"
       },
       "previous_target_id": "30984649",
       "prepared": {
@@ -115538,6 +115538,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:13:22.540935+00:00",
         "relay_source_id": "34191543"
+      },
+      "claim": {
+        "worker_id": "d92ff717b2134f77b27b112b52e05b15-shard-0",
+        "claimed_at": "2026-11-11T07:40:11.305099+00:00",
+        "lease_expires_at": "2026-11-11T13:40:11.305099+00:00",
+        "run_id": "42965310158"
       }
     },
     "2876": {
@@ -117214,6 +117220,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:42:29.513750+00:00",
         "relay_source_id": "29909010"
+      },
+      "claim": {
+        "worker_id": "52583b63def947d281a0d95a38db7623-shard-0",
+        "claimed_at": "2026-11-11T07:40:10.444172+00:00",
+        "lease_expires_at": "2026-11-11T13:40:10.444172+00:00",
+        "run_id": "42965310158"
       }
     },
     "3089": {
@@ -137993,6 +138005,13 @@
           "target_video_id": "30987909",
           "permanent": false,
           "attempted_at": "2026-11-11T06:44:06.071120+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31912060",
+          "target_video_id": "30987909",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:40:11.810450+00:00"
         }
       ],
       "last_plan": {
@@ -138003,15 +138022,9 @@
       "previous_target_id": "30987909",
       "prepared": {
         "target_video_id": "30987909",
-        "size_bytes": 3030096701,
+        "size_bytes": 3000000000,
         "prepared_at": "2026-11-11T06:43:26.691914+00:00",
         "relay_source_id": "31912060"
-      },
-      "claim": {
-        "worker_id": "01e0bfeca9ca46fca323821556159392-shard-0",
-        "claimed_at": "2026-11-11T07:40:08.087760+00:00",
-        "lease_expires_at": "2026-11-11T13:40:08.087760+00:00",
-        "run_id": "42965310158"
       }
     },
     "26385": {
@@ -139212,7 +139225,7 @@
       "last_plan": {
         "source_id": "34852429",
         "display_name": "The Lost Face (The Borrowed Face) 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:40:08.559305+00:00"
+        "planned_at": "2026-11-11T07:40:10.959024+00:00"
       }
     },
     "11389": {
@@ -191865,5 +191878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:40:08.559324+00:00"
+  "updated_at": "2026-11-11T07:40:11.810469+00:00"
 }
