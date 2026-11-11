@@ -121434,13 +121434,6 @@
           "source_id": "35010063",
           "target_video_id": "30985407",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:35:10.661938+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35010063",
-          "target_video_id": "30985407",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:08:11.447968+00:00"
         },
         {
@@ -121449,6 +121442,13 @@
           "target_video_id": "30985407",
           "permanent": false,
           "attempted_at": "2026-11-11T03:42:24.486812+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35010063",
+          "target_video_id": "30985407",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:18:50.230849+00:00"
         }
       ],
       "last_plan": {
@@ -121462,12 +121462,6 @@
         "size_bytes": 22000000000,
         "prepared_at": "2026-11-10T19:09:15.571400+00:00",
         "relay_source_id": "35010063"
-      },
-      "claim": {
-        "worker_id": "c3c27ac3478544c280795620c5c1e555-shard-0",
-        "claimed_at": "2026-11-11T04:18:46.715446+00:00",
-        "lease_expires_at": "2026-11-11T10:18:46.715446+00:00",
-        "run_id": "42938376778"
       }
     },
     "35405": {
@@ -131590,7 +131584,7 @@
       "last_plan": {
         "source_id": "33767536",
         "display_name": "Železný dědek 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:41:44.138432+00:00"
+        "planned_at": "2026-11-11T04:18:49.734916+00:00"
       },
       "previous_target_id": "30987126",
       "prepared": {
@@ -131598,6 +131592,12 @@
         "size_bytes": 2556468886,
         "prepared_at": "2026-11-11T03:41:48.198507+00:00",
         "relay_source_id": "33767536"
+      },
+      "claim": {
+        "worker_id": "cc0d552bd66f400ba7e134dd45608c9b-shard-0",
+        "claimed_at": "2026-11-11T04:18:50.365138+00:00",
+        "lease_expires_at": "2026-11-11T10:18:50.365138+00:00",
+        "run_id": "42938376778"
       }
     },
     "16969": {
@@ -132540,7 +132540,7 @@
       "last_plan": {
         "source_id": "34705552",
         "display_name": "Objev na Střapaté hůrce SD CZ Dabing",
-        "planned_at": "2026-11-11T04:18:46.444018+00:00"
+        "planned_at": "2026-11-11T04:18:49.944849+00:00"
       }
     },
     "12708": {
@@ -186135,5 +186135,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:18:48.267208+00:00"
+  "updated_at": "2026-11-11T04:18:50.365154+00:00"
 }
