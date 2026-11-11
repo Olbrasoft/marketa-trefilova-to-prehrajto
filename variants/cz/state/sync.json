@@ -119800,13 +119800,6 @@
           "source_id": "11263337",
           "target_video_id": "30985002",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:28:36.740391+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11263337",
-          "target_video_id": "30985002",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:01:18.127410+00:00"
         },
         {
@@ -119815,6 +119808,13 @@
           "target_video_id": "30985002",
           "permanent": false,
           "attempted_at": "2026-11-11T03:36:22.460689+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11263337",
+          "target_video_id": "30985002",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:12:20.871808+00:00"
         }
       ],
       "last_plan": {
@@ -121096,7 +121096,7 @@
       "last_plan": {
         "source_id": "33746515",
         "display_name": "Taps 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:36:22.625929+00:00"
+        "planned_at": "2026-11-11T04:12:19.721610+00:00"
       },
       "previous_target_id": "30985386",
       "prepared": {
@@ -121104,6 +121104,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T19:00:56.350782+00:00",
         "relay_source_id": "33746515"
+      },
+      "claim": {
+        "worker_id": "6aebd4619a4f4ffc99dd78a1f5ec892f-shard-0",
+        "claimed_at": "2026-11-11T04:12:20.190271+00:00",
+        "lease_expires_at": "2026-11-11T10:12:20.190271+00:00",
+        "run_id": "42938376778"
       }
     },
     "27476": {
@@ -132261,7 +132267,7 @@
       "last_plan": {
         "source_id": "34710904",
         "display_name": "O Nesytovi 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:12:17.784612+00:00"
+        "planned_at": "2026-11-11T04:12:19.927022+00:00"
       }
     },
     "32273": {
@@ -185892,5 +185898,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:12:17.976880+00:00"
+  "updated_at": "2026-11-11T04:12:20.871818+00:00"
 }
