@@ -111665,6 +111665,12 @@
         "size_bytes": 8900000000,
         "prepared_at": "2026-11-10T14:56:59.066784+00:00",
         "relay_source_id": "33855360"
+      },
+      "claim": {
+        "worker_id": "5ce7a47d11224985bbf0da932520ffc1-shard-0",
+        "claimed_at": "2026-11-11T09:31:04.976525+00:00",
+        "lease_expires_at": "2026-11-11T15:31:04.976525+00:00",
+        "run_id": "42965310158"
       }
     },
     "32996": {
@@ -113714,7 +113720,7 @@
       "last_plan": {
         "source_id": "31982080",
         "display_name": "Extraction (2020) 4K CZ Dabing",
-        "planned_at": "2026-11-11T08:25:56.413354+00:00"
+        "planned_at": "2026-11-11T09:31:05.632178+00:00"
       },
       "previous_target_id": "30984113",
       "prepared": {
@@ -113722,6 +113728,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:29:05.818325+00:00",
         "relay_source_id": "31982080"
+      },
+      "claim": {
+        "worker_id": "0f066a0951cd4cdcb1620026f12819bb-shard-0",
+        "claimed_at": "2026-11-11T09:31:06.262234+00:00",
+        "lease_expires_at": "2026-11-11T15:31:06.262234+00:00",
+        "run_id": "42965310158"
       }
     },
     "2796": {
@@ -142384,17 +142396,19 @@
       "attempts": []
     },
     "16774": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29163089",
+          "target_video_id": "30988696",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:31:07.699451+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29163089",
         "display_name": "Was kostet die Liebe? - Ein Großstadtmärchen 1080p CZ Dabing",
         "planned_at": "2026-11-11T09:27:34.995460+00:00"
-      },
-      "claim": {
-        "worker_id": "e35e3b01e81c41e2b7c92df51fe6b156-shard-0",
-        "claimed_at": "2026-11-11T09:27:43.396637+00:00",
-        "lease_expires_at": "2026-11-11T15:27:43.396637+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988696",
       "prepared": {
@@ -142409,7 +142423,7 @@
       "last_plan": {
         "source_id": "33480789",
         "display_name": "Hong Gil-dong (Hong Kil-dong) 720p CZ Dabing",
-        "planned_at": "2026-11-11T09:31:01.370496+00:00"
+        "planned_at": "2026-11-11T09:31:05.909480+00:00"
       }
     },
     "17093": {
@@ -194585,5 +194599,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:31:01.703070+00:00"
+  "updated_at": "2026-11-11T09:31:07.699470+00:00"
 }
