@@ -109032,13 +109032,6 @@
           "source_id": "9978707",
           "target_video_id": "30983670",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:49:37.347836+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9978707",
-          "target_video_id": "30983670",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:26:06.790597+00:00"
         },
         {
@@ -109047,6 +109040,13 @@
           "target_video_id": "30983670",
           "permanent": false,
           "attempted_at": "2026-11-11T05:07:26.399603+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9978707",
+          "target_video_id": "30983670",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:48:06.410370+00:00"
         }
       ],
       "last_plan": {
@@ -113865,7 +113865,7 @@
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:07:25.719932+00:00"
+        "planned_at": "2026-11-11T05:48:04.698117+00:00"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -113873,6 +113873,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
+      },
+      "claim": {
+        "worker_id": "63d80a204a844bb49f7fd0715820c5cc-shard-0",
+        "claimed_at": "2026-11-11T05:48:05.174983+00:00",
+        "lease_expires_at": "2026-11-11T11:48:05.174983+00:00",
+        "run_id": "42938376778"
       }
     },
     "3152": {
@@ -135342,7 +135348,7 @@
       "last_plan": {
         "source_id": "34714080",
         "display_name": "Náš dědek Josef 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:48:03.057254+00:00"
+        "planned_at": "2026-11-11T05:48:04.914665+00:00"
       }
     },
     "30415": {
@@ -188553,5 +188559,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:48:03.057265+00:00"
+  "updated_at": "2026-11-11T05:48:06.410382+00:00"
 }
