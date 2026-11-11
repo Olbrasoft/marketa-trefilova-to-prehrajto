@@ -117987,13 +117987,6 @@
           "source_id": "25787561",
           "target_video_id": "30984861",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:10:53.215271+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25787561",
-          "target_video_id": "30984861",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:50:42.933079+00:00"
         },
         {
@@ -118002,6 +117995,13 @@
           "target_video_id": "30984861",
           "permanent": false,
           "attempted_at": "2026-11-11T05:30:09.701380+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25787561",
+          "target_video_id": "30984861",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:13:28.889996+00:00"
         }
       ],
       "last_plan": {
@@ -118015,12 +118015,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:25.250689+00:00",
         "relay_source_id": "25787561"
-      },
-      "claim": {
-        "worker_id": "7038e40432f44e2f86f684c79c074cb6-shard-0",
-        "claimed_at": "2026-11-11T06:13:26.588788+00:00",
-        "lease_expires_at": "2026-11-11T12:13:26.588788+00:00",
-        "run_id": "42938376778"
       }
     },
     "11749": {
@@ -118050,7 +118044,7 @@
       "last_plan": {
         "source_id": "33647002",
         "display_name": "Frantic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:30:08.455469+00:00"
+        "planned_at": "2026-11-11T06:13:28.258421+00:00"
       },
       "previous_target_id": "30984863",
       "prepared": {
@@ -118058,6 +118052,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:57:35.530517+00:00",
         "relay_source_id": "33647002"
+      },
+      "claim": {
+        "worker_id": "6f2d4ff588ab4201b960fba3a414b055-shard-0",
+        "claimed_at": "2026-11-11T06:13:28.732617+00:00",
+        "lease_expires_at": "2026-11-11T12:13:28.732617+00:00",
+        "run_id": "42938376778"
       }
     },
     "17739": {
@@ -136289,7 +136289,7 @@
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:13:26.208340+00:00"
+        "planned_at": "2026-11-11T06:13:28.468506+00:00"
       }
     },
     "29359": {
@@ -189365,5 +189365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:13:26.737686+00:00"
+  "updated_at": "2026-11-11T06:13:28.890015+00:00"
 }
