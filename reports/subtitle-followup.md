@@ -640,3 +640,4 @@ Attach subtitles only after target processing has finished.
 | Rise 720p CZ Titulky | 30989991 | https://sdilej.cz/25891436/rise-svetla-empire-of-light-cz-titulky-2022.mkv | Extract Czech track from exact source after processing |
 | Sayonara 1080p CZ Titulky | 30990118 | https://sdilej.cz/34273318/sayonara-1957-bdrip-hd-1080p-h264-ita-eng-cze-ac3-armor-.mkv | Extract Czech track from exact source after processing |
 | Once Upon a Deadpool SD CZ Titulky | 30990381 | https://sdilej.cz/11183990/once-upon-a-deadpool-2018-titulky.cz.mkv | Extract Czech track from exact source after processing |
+| Chocolat (2016) SD CZ Titulky | 30990768 | https://sdilej.cz/6841848/chocolat-monsieur-chocolat-2016-titulky.cz-1080p.mkv | Extract Czech track from exact source after processing |
