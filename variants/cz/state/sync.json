@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:30:36.487312+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:29:06.479343+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-11T09:37:17.320224+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:47:30.839689+00:00"
         }
       ],
       "last_plan": {
@@ -108895,7 +108895,7 @@
       "last_plan": {
         "source_id": "35072913",
         "display_name": "Alena (1947) SD CZ Dabing",
-        "planned_at": "2026-11-11T09:37:21.139192+00:00"
+        "planned_at": "2026-11-11T12:47:28.944117+00:00"
       },
       "previous_target_id": "30983665",
       "prepared": {
@@ -108903,6 +108903,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:30:14.467093+00:00",
         "relay_source_id": "35072913"
+      },
+      "claim": {
+        "worker_id": "5bf3cb65455a46d3892494d7a6b0cd06-shard-0",
+        "claimed_at": "2026-11-11T12:47:29.760743+00:00",
+        "lease_expires_at": "2026-11-11T18:47:29.760743+00:00",
+        "run_id": "43011363893"
       }
     },
     "28861": {
@@ -143540,7 +143546,7 @@
       "last_plan": {
         "source_id": "32831532",
         "display_name": "Marian 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:47:26.963487+00:00"
+        "planned_at": "2026-11-11T12:47:29.304263+00:00"
       }
     },
     "24222": {
@@ -195608,5 +195614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:47:26.963509+00:00"
+  "updated_at": "2026-11-11T12:47:30.839703+00:00"
 }
