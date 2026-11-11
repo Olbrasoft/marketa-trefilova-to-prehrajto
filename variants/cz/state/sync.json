@@ -108432,6 +108432,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T14:21:36.081757+00:00",
         "relay_source_id": "22546836"
+      },
+      "claim": {
+        "worker_id": "cd7905e10e2f42e5b2c580730274af5d-shard-0",
+        "claimed_at": "2026-11-11T03:05:13.662244+00:00",
+        "lease_expires_at": "2026-11-11T09:05:13.662244+00:00",
+        "run_id": "42938376778"
       }
     },
     "12671": {
@@ -111197,13 +111203,6 @@
           "source_id": "34786946",
           "target_video_id": "30983812",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:10:27.369952+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34786946",
-          "target_video_id": "30983812",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:51:29.838458+00:00"
         },
         {
@@ -111212,6 +111211,13 @@
           "target_video_id": "30983812",
           "permanent": false,
           "attempted_at": "2026-11-11T02:31:30.554142+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34786946",
+          "target_video_id": "30983812",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:05:14.493856+00:00"
         }
       ],
       "last_plan": {
@@ -111225,12 +111231,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:52:08.850845+00:00",
         "relay_source_id": "34786946"
-      },
-      "claim": {
-        "worker_id": "93803b25941a4ebfb1c8540dce5c3d9b-shard-0",
-        "claimed_at": "2026-11-11T03:05:11.684512+00:00",
-        "lease_expires_at": "2026-11-11T09:05:11.684512+00:00",
-        "run_id": "42938376778"
       }
     },
     "12683": {
@@ -118562,7 +118562,7 @@
       "last_plan": {
         "source_id": "12049029",
         "display_name": "Tolkien 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:31:32.160114+00:00"
+        "planned_at": "2026-11-11T03:05:13.833166+00:00"
       },
       "previous_target_id": "30984886",
       "prepared": {
@@ -118570,6 +118570,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:03:27.140287+00:00",
         "relay_source_id": "12049029"
+      },
+      "claim": {
+        "worker_id": "750dadb0e3434a858128b99545b4d1ff-shard-0",
+        "claimed_at": "2026-11-11T03:05:14.282599+00:00",
+        "lease_expires_at": "2026-11-11T09:05:14.282599+00:00",
+        "run_id": "42938376778"
       }
     },
     "11922": {
@@ -130097,7 +130103,7 @@
       "last_plan": {
         "source_id": "34671979",
         "display_name": "When the Woman Butts In (Kam čert nemůže) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:05:12.046272+00:00"
+        "planned_at": "2026-11-11T03:05:14.038002+00:00"
       }
     },
     "22338": {
@@ -184100,5 +184106,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:05:12.046280+00:00"
+  "updated_at": "2026-11-11T03:05:14.493870+00:00"
 }
