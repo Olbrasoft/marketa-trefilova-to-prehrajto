@@ -125566,7 +125566,7 @@
       "last_plan": {
         "source_id": "34905544",
         "display_name": "Next Door (Nebenan) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:21:55.772942+00:00"
+        "planned_at": "2026-11-11T08:19:43.747775+00:00"
       },
       "previous_target_id": "30985955",
       "prepared": {
@@ -131773,13 +131773,6 @@
           "source_id": "33767536",
           "target_video_id": "30987126",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:40:07.992504+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33767536",
-          "target_video_id": "30987126",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:27:30.194795+00:00"
         },
         {
@@ -131788,6 +131781,13 @@
           "target_video_id": "30987126",
           "permanent": false,
           "attempted_at": "2026-11-11T07:21:55.567194+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767536",
+          "target_video_id": "30987126",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:19:44.307335+00:00"
         }
       ],
       "last_plan": {
@@ -131801,12 +131801,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-11T03:41:48.198507+00:00",
         "relay_source_id": "33767536"
-      },
-      "claim": {
-        "worker_id": "638f7261f0f64626bf66692d803a19bd-shard-0",
-        "claimed_at": "2026-11-11T08:19:41.450396+00:00",
-        "lease_expires_at": "2026-11-11T14:19:41.450396+00:00",
-        "run_id": "42965310158"
       }
     },
     "16969": {
@@ -140342,17 +140336,19 @@
       "attempts": []
     },
     "34432": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32763852",
+          "target_video_id": "30988393",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:19:44.798585+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32763852",
         "display_name": "Šviháci 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:18:58.843451+00:00"
-      },
-      "claim": {
-        "worker_id": "bc92a33f44134c6cbfb6991d40ddc457-shard-0",
-        "claimed_at": "2026-11-11T08:19:01.375650+00:00",
-        "lease_expires_at": "2026-11-11T14:19:01.375650+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988393",
       "prepared": {
@@ -140385,7 +140381,7 @@
       "last_plan": {
         "source_id": "11688648",
         "display_name": "Boys from the Mountains (Kluci z hor) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:19:41.090740+00:00"
+        "planned_at": "2026-11-11T08:19:44.026292+00:00"
       }
     },
     "15645": {
@@ -192864,5 +192860,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:19:42.046307+00:00"
+  "updated_at": "2026-11-11T08:19:44.798605+00:00"
 }
