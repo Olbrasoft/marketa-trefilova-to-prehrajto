@@ -110146,6 +110146,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:43:15.779270+00:00",
         "relay_source_id": "27514628"
+      },
+      "claim": {
+        "worker_id": "bcae773b932f4450939596924de9956c-shard-0",
+        "claimed_at": "2026-11-11T07:59:27.598653+00:00",
+        "lease_expires_at": "2026-11-11T13:59:27.598653+00:00",
+        "run_id": "42965310158"
       }
     },
     "32421": {
@@ -126067,7 +126073,7 @@
       "last_plan": {
         "source_id": "30067608",
         "display_name": "Tom and Jerry: The Fast and the Furry 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:02:35.309427+00:00"
+        "planned_at": "2026-11-11T07:59:27.807421+00:00"
       },
       "previous_target_id": "30986232",
       "prepared": {
@@ -135229,13 +135235,6 @@
           "source_id": "34515639",
           "target_video_id": "30987605",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:24:28.005599+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34515639",
-          "target_video_id": "30987605",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:07:57.016004+00:00"
         },
         {
@@ -135244,6 +135243,13 @@
           "target_video_id": "30987605",
           "permanent": false,
           "attempted_at": "2026-11-11T07:02:33.523778+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34515639",
+          "target_video_id": "30987605",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:59:27.430534+00:00"
         }
       ],
       "last_plan": {
@@ -135257,12 +135263,6 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-11-11T05:23:51.134886+00:00",
         "relay_source_id": "34515639"
-      },
-      "claim": {
-        "worker_id": "8bafc965dcd4499b96b1b448de4a12fc-shard-0",
-        "claimed_at": "2026-11-11T07:59:24.325418+00:00",
-        "lease_expires_at": "2026-11-11T13:59:24.325418+00:00",
-        "run_id": "42965310158"
       }
     },
     "25125": {
@@ -139908,7 +139908,7 @@
       "last_plan": {
         "source_id": "32097224",
         "display_name": "The Great Dam (Velká přehrada) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:59:25.261471+00:00"
+        "planned_at": "2026-11-11T07:59:28.080567+00:00"
       }
     },
     "32940": {
@@ -192456,5 +192456,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:59:25.261491+00:00"
+  "updated_at": "2026-11-11T07:59:28.080585+00:00"
 }
