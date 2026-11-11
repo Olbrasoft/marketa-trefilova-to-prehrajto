@@ -83449,13 +83449,6 @@
           "source_id": "30859189",
           "target_video_id": "30915737",
           "permanent": false,
-          "attempted_at": "2026-11-11T14:33:08.211539+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30859189",
-          "target_video_id": "30915737",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:54:33.453841+00:00"
         },
         {
@@ -83464,6 +83457,13 @@
           "target_video_id": "30915737",
           "permanent": false,
           "attempted_at": "2026-11-11T18:19:09.421521+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30859189",
+          "target_video_id": "30915737",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:38:16.911850+00:00"
         }
       ],
       "last_plan": {
@@ -83590,7 +83590,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:19:10.961368+00:00"
+        "planned_at": "2026-11-11T19:38:15.737126+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -83598,6 +83598,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "a853c27ff64d4cdda11f6348f6f94a99-shard-0",
+        "claimed_at": "2026-11-11T19:38:16.265504+00:00",
+        "lease_expires_at": "2026-11-12T01:38:16.265504+00:00",
+        "run_id": "43067513109"
       }
     },
     "1954": {
@@ -145573,7 +145579,7 @@
       "last_plan": {
         "source_id": "13070317",
         "display_name": "Hailey Dean Mysteries: Death on Duty 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:38:13.748517+00:00"
+        "planned_at": "2026-11-11T19:38:15.962859+00:00"
       }
     },
     "12745": {
@@ -197311,5 +197317,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:38:14.013979+00:00"
+  "updated_at": "2026-11-11T19:38:16.911872+00:00"
 }
