@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:04:11.605314+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:34:16.584680+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-11T08:04:29.788846+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:34:37.023050+00:00"
         }
       ],
       "last_plan": {
@@ -26774,7 +26774,7 @@
       "last_plan": {
         "source_id": "25662574",
         "display_name": "Rye Lane 1080p CZ Titulky",
-        "planned_at": "2026-11-11T08:04:27.874247+00:00"
+        "planned_at": "2026-11-11T08:34:35.631569+00:00"
       },
       "previous_target_id": "30893092",
       "prepared": {
@@ -26782,6 +26782,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-07T14:59:11.292082+00:00",
         "relay_source_id": "25662574"
+      },
+      "claim": {
+        "worker_id": "014a8e082e674fa796250ea21fca8684-shard-0",
+        "claimed_at": "2026-11-11T08:34:35.854677+00:00",
+        "lease_expires_at": "2026-11-11T14:34:35.854677+00:00",
+        "run_id": "42965310158"
       }
     },
     "14925": {
@@ -96680,5 +96686,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:34:33.068925+00:00"
+  "updated_at": "2026-11-11T08:34:37.023065+00:00"
 }
