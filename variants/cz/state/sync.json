@@ -109544,13 +109544,6 @@
           "source_id": "30160689",
           "target_video_id": "30983693",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:45:39.100450+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30160689",
-          "target_video_id": "30983693",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:26:45.848216+00:00"
         },
         {
@@ -109559,6 +109552,13 @@
           "target_video_id": "30983693",
           "permanent": false,
           "attempted_at": "2026-11-11T02:09:37.289852+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30160689",
+          "target_video_id": "30983693",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:46:45.370993+00:00"
         }
       ],
       "last_plan": {
@@ -123724,7 +123724,7 @@
       "last_plan": {
         "source_id": "33064122",
         "display_name": "Taboo 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:09:33.959989+00:00"
+        "planned_at": "2026-11-11T02:46:43.687531+00:00"
       },
       "previous_target_id": "30985714",
       "prepared": {
@@ -123732,6 +123732,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T21:26:39.868620+00:00",
         "relay_source_id": "33064122"
+      },
+      "claim": {
+        "worker_id": "b0e7cd20bc8f45f19e90c022f060cab5-shard-0",
+        "claimed_at": "2026-11-11T02:46:44.148607+00:00",
+        "lease_expires_at": "2026-11-11T08:46:44.148607+00:00",
+        "run_id": "42938376778"
       }
     },
     "19272": {
@@ -129624,6 +129630,12 @@
         "source_id": "34187529",
         "display_name": "Dounia & The Princess of Aleppo (Dounia et la Princesse d'Alep) 720p CZ Dabing",
         "planned_at": "2026-11-11T02:46:41.562666+00:00"
+      },
+      "claim": {
+        "worker_id": "cd595862e6fc4f5a89b1841e73ea667a-shard-0",
+        "claimed_at": "2026-11-11T02:46:43.400374+00:00",
+        "lease_expires_at": "2026-11-11T08:46:43.400374+00:00",
+        "run_id": "42938376778"
       }
     },
     "32912": {
@@ -129637,7 +129649,7 @@
       "last_plan": {
         "source_id": "30624932",
         "display_name": "The Cry (Křik) SD CZ Dabing",
-        "planned_at": "2026-11-11T02:46:41.694782+00:00"
+        "planned_at": "2026-11-11T02:46:43.889440+00:00"
       }
     },
     "20748": {
@@ -183706,5 +183718,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:46:41.859379+00:00"
+  "updated_at": "2026-11-11T02:46:45.371003+00:00"
 }
