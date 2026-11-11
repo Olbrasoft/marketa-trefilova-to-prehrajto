@@ -143847,17 +143847,19 @@
       }
     },
     "15975": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29153461",
+          "target_video_id": "30990227",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:14:35.379437+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29153461",
         "display_name": "Murder in the Finistère (Les secrets du Finistère - La disparue de Douarnenez) SD CZ Dabing",
         "planned_at": "2026-11-11T13:13:36.377347+00:00"
-      },
-      "claim": {
-        "worker_id": "6396fdd87ff64d9cb71645804cab400c-shard-0",
-        "claimed_at": "2026-11-11T13:13:37.238596+00:00",
-        "lease_expires_at": "2026-11-11T19:13:37.238596+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990227",
       "prepared": {
@@ -195919,5 +195921,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:14:33.438058+00:00"
+  "updated_at": "2026-11-11T13:14:35.379458+00:00"
 }
