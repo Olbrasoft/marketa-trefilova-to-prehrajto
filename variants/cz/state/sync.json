@@ -137301,17 +137301,19 @@
       }
     },
     "4450": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31912060",
+          "target_video_id": "30987909",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:44:06.071120+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31912060",
         "display_name": "Dry Season (Sucho) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:43:16.022607+00:00"
-      },
-      "claim": {
-        "worker_id": "85ad01b695b44a49a9fa4b60a784f500-shard-0",
-        "claimed_at": "2026-11-11T06:43:22.419918+00:00",
-        "lease_expires_at": "2026-11-11T12:43:22.419918+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987909",
       "prepared": {
@@ -190219,5 +190221,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:44:04.076093+00:00"
+  "updated_at": "2026-11-11T06:44:06.071139+00:00"
 }
