@@ -146212,17 +146212,19 @@
       "attempts": []
     },
     "3819": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33856066",
+          "target_video_id": "30995059",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:14:10.068322+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33856066",
         "display_name": "Jan Palach 1080p CZ Dabing",
         "planned_at": "2026-11-11T22:58:39.560992+00:00"
-      },
-      "claim": {
-        "worker_id": "362035c7e1ce4dc0af11e5bf57749ead-shard-0",
-        "claimed_at": "2026-11-11T22:58:40.408990+00:00",
-        "lease_expires_at": "2026-11-12T04:58:40.408990+00:00",
-        "run_id": "43102571398"
       },
       "previous_target_id": "30995059",
       "prepared": {
@@ -197873,5 +197875,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:14:08.376363+00:00"
+  "updated_at": "2026-11-11T23:14:10.068343+00:00"
 }
