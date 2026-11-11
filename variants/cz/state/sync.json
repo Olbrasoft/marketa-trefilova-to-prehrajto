@@ -108841,13 +108841,6 @@
           "source_id": "35072913",
           "target_video_id": "30983665",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:12:54.861518+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35072913",
-          "target_video_id": "30983665",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:47:57.877180+00:00"
         },
         {
@@ -108856,6 +108849,13 @@
           "target_video_id": "30983665",
           "permanent": false,
           "attempted_at": "2026-11-11T04:23:54.390996+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072913",
+          "target_video_id": "30983665",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:05:41.980931+00:00"
         }
       ],
       "last_plan": {
@@ -108869,12 +108869,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:30:14.467093+00:00",
         "relay_source_id": "35072913"
-      },
-      "claim": {
-        "worker_id": "59e43871d89c4467b7d49bdcff0f28a0-shard-0",
-        "claimed_at": "2026-11-11T05:05:39.368659+00:00",
-        "lease_expires_at": "2026-11-11T11:05:39.368659+00:00",
-        "run_id": "42938376778"
       }
     },
     "28861": {
@@ -108904,7 +108898,7 @@
       "last_plan": {
         "source_id": "24370736",
         "display_name": "Na druhý pohled 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:23:53.751332+00:00"
+        "planned_at": "2026-11-11T05:05:41.325846+00:00"
       },
       "previous_target_id": "30983666",
       "prepared": {
@@ -108912,6 +108906,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:30:29.974007+00:00",
         "relay_source_id": "24370736"
+      },
+      "claim": {
+        "worker_id": "bed3360dd58948e89cca352bf32488f7-shard-0",
+        "claimed_at": "2026-11-11T05:05:41.814485+00:00",
+        "lease_expires_at": "2026-11-11T11:05:41.814485+00:00",
+        "run_id": "42938376778"
       }
     },
     "24062": {
@@ -133780,7 +133780,7 @@
       "last_plan": {
         "source_id": "30649709",
         "display_name": "Sonata for a Red-Haired Girl (Sonáta pro zrzku) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:05:39.122064+00:00"
+        "planned_at": "2026-11-11T05:05:41.544909+00:00"
       }
     },
     "8366": {
@@ -187225,5 +187225,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:05:39.989353+00:00"
+  "updated_at": "2026-11-11T05:05:41.980943+00:00"
 }
