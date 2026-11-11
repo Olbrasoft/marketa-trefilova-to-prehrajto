@@ -120819,7 +120819,7 @@
       "last_plan": {
         "source_id": "33730801",
         "display_name": "River's Edge 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:07:15.925745+00:00"
+        "planned_at": "2026-11-11T02:44:48.615520+00:00"
       },
       "previous_target_id": "30985060",
       "prepared": {
@@ -120827,6 +120827,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:46:03.380991+00:00",
         "relay_source_id": "33730801"
+      },
+      "claim": {
+        "worker_id": "567bf91364054cbeb16e203fb59c9055-shard-0",
+        "claimed_at": "2026-11-11T02:44:49.086920+00:00",
+        "lease_expires_at": "2026-11-11T08:44:49.086920+00:00",
+        "run_id": "42938376778"
       }
     },
     "11205": {
@@ -128781,6 +128787,13 @@
           "target_video_id": "30986780",
           "permanent": false,
           "attempted_at": "2026-11-11T02:07:19.123038+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34836027",
+          "target_video_id": "30986780",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:44:49.250985+00:00"
         }
       ],
       "last_plan": {
@@ -128791,15 +128804,9 @@
       "previous_target_id": "30986780",
       "prepared": {
         "target_video_id": "30986780",
-        "size_bytes": 895111516,
+        "size_bytes": 895100000,
         "prepared_at": "2026-11-11T02:06:40.360622+00:00",
         "relay_source_id": "34836027"
-      },
-      "claim": {
-        "worker_id": "70309d638e1e4a3b9dc0b0afb9b9cb35-shard-0",
-        "claimed_at": "2026-11-11T02:44:44.246591+00:00",
-        "lease_expires_at": "2026-11-11T08:44:44.246591+00:00",
-        "run_id": "42938376778"
       }
     },
     "13027": {
@@ -129576,7 +129583,7 @@
       "last_plan": {
         "source_id": "29187766",
         "display_name": "Mistakes (Chyby) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:44:43.963941+00:00"
+        "planned_at": "2026-11-11T02:44:48.818137+00:00"
       }
     },
     "15742": {
@@ -183657,5 +183664,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:44:44.994152+00:00"
+  "updated_at": "2026-11-11T02:44:49.250995+00:00"
 }
