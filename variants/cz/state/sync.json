@@ -122055,13 +122055,6 @@
           "source_id": "28510712",
           "target_video_id": "30985462",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:10:28.814045+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28510712",
-          "target_video_id": "30985462",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:06:25.902086+00:00"
         },
         {
@@ -122070,6 +122063,13 @@
           "target_video_id": "30985462",
           "permanent": false,
           "attempted_at": "2026-11-11T08:02:30.426827+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28510712",
+          "target_video_id": "30985462",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:04:09.306371+00:00"
         }
       ],
       "last_plan": {
@@ -122083,12 +122083,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T19:26:20.062444+00:00",
         "relay_source_id": "28510712"
-      },
-      "claim": {
-        "worker_id": "7a1db7a7279448229650c57a3cc170df-shard-0",
-        "claimed_at": "2026-11-11T09:04:06.193027+00:00",
-        "lease_expires_at": "2026-11-11T15:04:06.193027+00:00",
-        "run_id": "42965310158"
       }
     },
     "12443": {
@@ -141911,17 +141905,19 @@
       }
     },
     "12766": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31394909",
+          "target_video_id": "30988646",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:04:09.489428+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31394909",
         "display_name": "I Know You Are a Murderer... (Vím, že jsi vrah...) 720p CZ Dabing",
         "planned_at": "2026-11-11T09:03:22.140646+00:00"
-      },
-      "claim": {
-        "worker_id": "5d4c06bc32f04468bbb29cde67f24476-shard-0",
-        "claimed_at": "2026-11-11T09:03:24.612352+00:00",
-        "lease_expires_at": "2026-11-11T15:03:24.612352+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988646",
       "prepared": {
@@ -194181,5 +194177,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:04:06.193055+00:00"
+  "updated_at": "2026-11-11T09:04:09.489448+00:00"
 }
