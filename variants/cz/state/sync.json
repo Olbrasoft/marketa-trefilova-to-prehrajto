@@ -139516,17 +139516,19 @@
       "attempts": []
     },
     "12594": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34756339",
+          "target_video_id": "30988204",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:50:17.320679+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34756339",
         "display_name": "Sweet Sixteen (Sextánka) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:49:32.040186+00:00"
-      },
-      "claim": {
-        "worker_id": "fb6d306949644157b5ddda5b7216a499-shard-0",
-        "claimed_at": "2026-11-11T07:49:34.449713+00:00",
-        "lease_expires_at": "2026-11-11T13:49:34.449713+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988204",
       "prepared": {
@@ -192149,5 +192151,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:50:15.171777+00:00"
+  "updated_at": "2026-11-11T07:50:17.320694+00:00"
 }
