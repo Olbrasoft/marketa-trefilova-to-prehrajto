@@ -132228,17 +132228,19 @@
       "attempts": []
     },
     "24567": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34634312",
+          "target_video_id": "30987300",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:12:50.107890+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34634312",
         "display_name": "Advokát chudých (Lawyer of the Poor) 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:12:06.779950+00:00"
-      },
-      "claim": {
-        "worker_id": "b302bc1c8a3d41b09c54466793ab9063-shard-0",
-        "claimed_at": "2026-11-11T04:12:08.450923+00:00",
-        "lease_expires_at": "2026-11-11T10:12:08.450923+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987300",
       "prepared": {
@@ -185905,5 +185907,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:12:48.764006+00:00"
+  "updated_at": "2026-11-11T04:12:50.107904+00:00"
 }
