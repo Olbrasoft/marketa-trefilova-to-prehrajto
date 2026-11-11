@@ -132153,13 +132153,6 @@
           "source_id": "17465562",
           "target_video_id": "30987160",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:51:35.342934+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17465562",
-          "target_video_id": "30987160",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:04:09.084212+00:00"
         },
         {
@@ -132168,6 +132161,13 @@
           "target_video_id": "30987160",
           "permanent": false,
           "attempted_at": "2026-11-11T15:26:05.290121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17465562",
+          "target_video_id": "30987160",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:59:56.779974+00:00"
         }
       ],
       "last_plan": {
@@ -132181,12 +132181,6 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T03:49:28.697671+00:00",
         "relay_source_id": "17465562"
-      },
-      "claim": {
-        "worker_id": "e1042bd4daa8468c8e218de3d7c4efcd-shard-0",
-        "claimed_at": "2026-11-11T17:59:53.798916+00:00",
-        "lease_expires_at": "2026-11-11T23:59:53.798916+00:00",
-        "run_id": "43067513109"
       }
     },
     "24245": {
@@ -136180,7 +136174,7 @@
       "last_plan": {
         "source_id": "19686604",
         "display_name": "Volným pádem 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:26:07.066180+00:00"
+        "planned_at": "2026-11-11T17:59:56.136774+00:00"
       },
       "previous_target_id": "30987716",
       "prepared": {
@@ -136188,6 +136182,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T05:48:01.035162+00:00",
         "relay_source_id": "19686604"
+      },
+      "claim": {
+        "worker_id": "ed7419135c484f47b40ee1d56fe029e9-shard-0",
+        "claimed_at": "2026-11-11T17:59:56.608729+00:00",
+        "lease_expires_at": "2026-11-11T23:59:56.608729+00:00",
+        "run_id": "43067513109"
       }
     },
     "31573": {
@@ -145131,7 +145131,7 @@
       "last_plan": {
         "source_id": "28089630",
         "display_name": "The Pearl Maiden (O perlové panně) SD CZ Dabing",
-        "planned_at": "2026-11-11T17:59:53.559886+00:00"
+        "planned_at": "2026-11-11T17:59:56.347305+00:00"
       }
     },
     "4314": {
@@ -196956,5 +196956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:59:54.524907+00:00"
+  "updated_at": "2026-11-11T17:59:56.779989+00:00"
 }
