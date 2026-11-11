@@ -112788,13 +112788,6 @@
           "source_id": "34274611",
           "target_video_id": "30984010",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:23:15.273719+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34274611",
-          "target_video_id": "30984010",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:39:56.340445+00:00"
         },
         {
@@ -112803,6 +112796,13 @@
           "target_video_id": "30984010",
           "permanent": false,
           "attempted_at": "2026-11-11T16:00:36.762215+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34274611",
+          "target_video_id": "30984010",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:30:00.139300+00:00"
         }
       ],
       "last_plan": {
@@ -112816,12 +112816,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-11-10T15:14:45.735824+00:00",
         "relay_source_id": "34274611"
-      },
-      "claim": {
-        "worker_id": "a2054f0db3d348ce9650891ab1f7e717-shard-0",
-        "claimed_at": "2026-11-11T18:29:58.157335+00:00",
-        "lease_expires_at": "2026-11-12T00:29:58.157335+00:00",
-        "run_id": "43067513109"
       }
     },
     "3153": {
@@ -133865,7 +133859,7 @@
       "last_plan": {
         "source_id": "32097453",
         "display_name": "Veselý souboj SD CZ Dabing",
-        "planned_at": "2026-11-11T16:00:35.252710+00:00"
+        "planned_at": "2026-11-11T18:29:59.638378+00:00"
       },
       "previous_target_id": "30987443",
       "prepared": {
@@ -133873,6 +133867,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T04:42:03.188301+00:00",
         "relay_source_id": "32097453"
+      },
+      "claim": {
+        "worker_id": "5281f3b12b33466682203848399daaba-shard-0",
+        "claimed_at": "2026-11-11T18:30:00.284355+00:00",
+        "lease_expires_at": "2026-11-12T00:30:00.284355+00:00",
+        "run_id": "43067513109"
       }
     },
     "12579": {
@@ -145239,7 +145239,7 @@
       "last_plan": {
         "source_id": "34696336",
         "display_name": "Das Märchen von der Regentrude 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:29:57.725004+00:00"
+        "planned_at": "2026-11-11T18:29:59.850586+00:00"
       }
     },
     "30218": {
@@ -197054,5 +197054,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:29:58.157358+00:00"
+  "updated_at": "2026-11-11T18:30:00.284379+00:00"
 }
