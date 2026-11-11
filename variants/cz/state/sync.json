@@ -120426,7 +120426,7 @@
       "last_plan": {
         "source_id": "23806861",
         "display_name": "Athena 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:21:16.247944+00:00"
+        "planned_at": "2026-11-11T08:19:01.594020+00:00"
       },
       "previous_target_id": "30985032",
       "prepared": {
@@ -120434,17 +120434,16 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T18:37:53.303604+00:00",
         "relay_source_id": "23806861"
+      },
+      "claim": {
+        "worker_id": "4cf8ba32669f43e9a5ab2b032a48a92a-shard-0",
+        "claimed_at": "2026-11-11T08:19:02.276531+00:00",
+        "lease_expires_at": "2026-11-11T14:19:02.276531+00:00",
+        "run_id": "42965310158"
       }
     },
     "21120": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34011156",
-          "target_video_id": "30985031",
-          "permanent": false,
-          "attempted_at": "2026-11-11T05:39:36.598857+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34011156",
@@ -120458,6 +120457,13 @@
           "target_video_id": "30985031",
           "permanent": false,
           "attempted_at": "2026-11-11T07:21:17.757464+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34011156",
+          "target_video_id": "30985031",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:19:02.831542+00:00"
         }
       ],
       "last_plan": {
@@ -140334,6 +140340,12 @@
         "source_id": "32763852",
         "display_name": "Šviháci 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:18:58.843451+00:00"
+      },
+      "claim": {
+        "worker_id": "bc92a33f44134c6cbfb6991d40ddc457-shard-0",
+        "claimed_at": "2026-11-11T08:19:01.375650+00:00",
+        "lease_expires_at": "2026-11-11T14:19:01.375650+00:00",
+        "run_id": "42965310158"
       }
     },
     "27827": {
@@ -140359,7 +140371,7 @@
       "last_plan": {
         "source_id": "11688648",
         "display_name": "Boys from the Mountains (Kluci z hor) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:18:59.033195+00:00"
+        "planned_at": "2026-11-11T08:19:01.870005+00:00"
       }
     },
     "15645": {
@@ -192838,5 +192850,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:18:59.211885+00:00"
+  "updated_at": "2026-11-11T08:19:02.831559+00:00"
 }
