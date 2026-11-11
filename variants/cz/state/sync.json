@@ -10875,13 +10875,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:05:04.178390+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:45:29.807507+00:00"
         },
         {
@@ -10890,6 +10883,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-11T06:35:37.869320+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:29:58.053441+00:00"
         }
       ],
       "last_plan": {
@@ -18960,7 +18960,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:35:36.672072+00:00"
+        "planned_at": "2026-11-11T07:29:56.050611+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -18968,6 +18968,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "d25f8db43a5b4c6bb3d85fe199771cd1-shard-0",
+        "claimed_at": "2026-11-11T07:29:56.851693+00:00",
+        "lease_expires_at": "2026-11-11T13:29:56.851693+00:00",
+        "run_id": "42965310158"
       }
     },
     "29695": {
@@ -138829,7 +138835,7 @@
       "last_plan": {
         "source_id": "34519530",
         "display_name": "Hrdinný kapitán Korkorán (Hrdinný kapitán Korkoran) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:29:53.749795+00:00"
+        "planned_at": "2026-11-11T07:29:56.315323+00:00"
       }
     },
     "11092": {
@@ -191539,5 +191545,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:29:53.976264+00:00"
+  "updated_at": "2026-11-11T07:29:58.053460+00:00"
 }
