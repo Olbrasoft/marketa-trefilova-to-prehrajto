@@ -89354,13 +89354,6 @@
           "source_id": "34880122",
           "target_video_id": "30925382",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:23:47.511297+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34880122",
-          "target_video_id": "30925382",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:07:25.730835+00:00"
         },
         {
@@ -89369,6 +89362,13 @@
           "target_video_id": "30925382",
           "permanent": false,
           "attempted_at": "2026-11-11T07:01:48.585839+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34880122",
+          "target_video_id": "30925382",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:58:32.393938+00:00"
         }
       ],
       "last_plan": {
@@ -109959,7 +109959,7 @@
       "last_plan": {
         "source_id": "35184124",
         "display_name": "Ticket to the Memorial 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:01:47.116834+00:00"
+        "planned_at": "2026-11-11T07:58:30.706584+00:00"
       },
       "previous_target_id": "30983741",
       "prepared": {
@@ -109967,6 +109967,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-10T14:41:32.659404+00:00",
         "relay_source_id": "35184124"
+      },
+      "claim": {
+        "worker_id": "80e4c9b006bb499fb19ff0b617fb8ab7-shard-0",
+        "claimed_at": "2026-11-11T07:58:31.556325+00:00",
+        "lease_expires_at": "2026-11-11T13:58:31.556325+00:00",
+        "run_id": "42965310158"
       }
     },
     "35511": {
@@ -139893,7 +139899,7 @@
       "last_plan": {
         "source_id": "32097224",
         "display_name": "The Great Dam (Velká přehrada) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:58:28.342112+00:00"
+        "planned_at": "2026-11-11T07:58:30.983722+00:00"
       }
     },
     "32940": {
@@ -192441,5 +192447,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:58:28.342133+00:00"
+  "updated_at": "2026-11-11T07:58:32.393959+00:00"
 }
