@@ -118200,6 +118200,12 @@
         "size_bytes": 7100000000,
         "prepared_at": "2026-11-10T17:58:25.417113+00:00",
         "relay_source_id": "33873663"
+      },
+      "claim": {
+        "worker_id": "11f8aca8fcb042d0adb14e7810c3abfa-shard-0",
+        "claimed_at": "2026-11-11T07:11:03.170925+00:00",
+        "lease_expires_at": "2026-11-11T13:11:03.170925+00:00",
+        "run_id": "42965310158"
       }
     },
     "3098": {
@@ -119646,13 +119652,6 @@
           "source_id": "14652595",
           "target_video_id": "30984996",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:50:59.787401+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14652595",
-          "target_video_id": "30984996",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:30:31.589768+00:00"
         },
         {
@@ -119661,6 +119660,13 @@
           "target_video_id": "30984996",
           "permanent": false,
           "attempted_at": "2026-11-11T06:13:51.877363+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14652595",
+          "target_video_id": "30984996",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:11:04.026941+00:00"
         }
       ],
       "last_plan": {
@@ -119674,12 +119680,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T18:28:45.684654+00:00",
         "relay_source_id": "14652595"
-      },
-      "claim": {
-        "worker_id": "305d09d09fde45c284cb0a887f6ca553-shard-0",
-        "claimed_at": "2026-11-11T07:11:00.728318+00:00",
-        "lease_expires_at": "2026-11-11T13:11:00.728318+00:00",
-        "run_id": "42965310158"
       }
     },
     "23324": {
@@ -136868,7 +136868,7 @@
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:12:42.164886+00:00"
+        "planned_at": "2026-11-11T07:11:03.389329+00:00"
       },
       "previous_target_id": "30987815",
       "prepared": {
@@ -138155,7 +138155,7 @@
       "last_plan": {
         "source_id": "30326245",
         "display_name": "Ľalie poľné SD CZ Dabing",
-        "planned_at": "2026-11-11T07:11:01.216941+00:00"
+        "planned_at": "2026-11-11T07:11:03.660554+00:00"
       }
     },
     "21125": {
@@ -190955,5 +190955,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:11:01.216959+00:00"
+  "updated_at": "2026-11-11T07:11:04.026960+00:00"
 }
