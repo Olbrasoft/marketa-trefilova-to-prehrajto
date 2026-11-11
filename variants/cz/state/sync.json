@@ -110880,13 +110880,6 @@
           "source_id": "34470304",
           "target_video_id": "30983801",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:46:14.767091+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34470304",
-          "target_video_id": "30983801",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:27:02.310663+00:00"
         },
         {
@@ -110895,6 +110888,13 @@
           "target_video_id": "30983801",
           "permanent": false,
           "attempted_at": "2026-11-11T02:59:38.414831+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34470304",
+          "target_video_id": "30983801",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:34:23.860038+00:00"
         }
       ],
       "last_plan": {
@@ -110908,12 +110908,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T14:49:56.897260+00:00",
         "relay_source_id": "34470304"
-      },
-      "claim": {
-        "worker_id": "2d78d36061234e13afcb229bae4a6b37-shard-0",
-        "claimed_at": "2026-11-11T03:34:20.715265+00:00",
-        "lease_expires_at": "2026-11-11T09:34:20.715265+00:00",
-        "run_id": "42938376778"
       }
     },
     "12710": {
@@ -110949,7 +110943,7 @@
       "last_plan": {
         "source_id": "34710916",
         "display_name": "The Great Nothing 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:59:37.085187+00:00"
+        "planned_at": "2026-11-11T03:34:23.380508+00:00"
       },
       "previous_target_id": "30983802",
       "prepared": {
@@ -110957,6 +110951,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:50:04.632161+00:00",
         "relay_source_id": "34710916"
+      },
+      "claim": {
+        "worker_id": "c15195ba2acd43718b2eb19c7b4bc68a-shard-0",
+        "claimed_at": "2026-11-11T03:34:23.990216+00:00",
+        "lease_expires_at": "2026-11-11T09:34:23.990216+00:00",
+        "run_id": "42938376778"
       }
     },
     "21346": {
@@ -130925,7 +130925,7 @@
       "last_plan": {
         "source_id": "34746816",
         "display_name": "Krok do tmy (A Step into the Darkness) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:34:20.440863+00:00"
+        "planned_at": "2026-11-11T03:34:23.583698+00:00"
       }
     },
     "21501": {
@@ -184814,5 +184814,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:34:21.583006+00:00"
+  "updated_at": "2026-11-11T03:34:23.990230+00:00"
 }
