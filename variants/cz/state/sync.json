@@ -119566,13 +119566,6 @@
           "source_id": "30808517",
           "target_video_id": "30984989",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:19:03.877467+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30808517",
-          "target_video_id": "30984989",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:30:46.834609+00:00"
         },
         {
@@ -119581,6 +119574,13 @@
           "target_video_id": "30984989",
           "permanent": false,
           "attempted_at": "2026-11-11T14:48:38.248210+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30808517",
+          "target_video_id": "30984989",
+          "permanent": false,
+          "attempted_at": "2026-11-11T16:07:25.485965+00:00"
         }
       ],
       "last_plan": {
@@ -119629,7 +119629,7 @@
       "last_plan": {
         "source_id": "33119817",
         "display_name": "Champions (2023) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:48:37.642864+00:00"
+        "planned_at": "2026-11-11T16:07:23.810645+00:00"
       },
       "previous_target_id": "30984993",
       "prepared": {
@@ -119637,6 +119637,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T18:28:34.661347+00:00",
         "relay_source_id": "33119817"
+      },
+      "claim": {
+        "worker_id": "8b5653b1fc6045f898f9c7b25c25b37f-shard-0",
+        "claimed_at": "2026-11-11T16:07:25.022736+00:00",
+        "lease_expires_at": "2026-11-11T22:07:25.022736+00:00",
+        "run_id": "43011363893"
       }
     },
     "16691": {
@@ -144946,11 +144952,22 @@
       "last_plan": {
         "source_id": "35085271",
         "display_name": "Oldies But Goldies (Vrásky z lásky) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T16:07:21.160689+00:00"
+        "planned_at": "2026-11-11T16:07:24.136918+00:00"
+      },
+      "claim": {
+        "worker_id": "b6803e1e3e86436cac1c5bae0cdac7a2-shard-0",
+        "claimed_at": "2026-11-11T16:07:25.281574+00:00",
+        "lease_expires_at": "2026-11-11T22:07:25.281574+00:00",
+        "run_id": "43011363893"
       }
     },
     "33485": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32100315",
+        "display_name": "High Blue Wall (Vysoká modrá zeď) SD CZ Dabing",
+        "planned_at": "2026-11-11T16:07:24.517686+00:00"
+      }
     },
     "31982": {
       "attempts": []
@@ -196819,5 +196836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T16:07:21.440192+00:00"
+  "updated_at": "2026-11-11T16:07:25.485982+00:00"
 }
