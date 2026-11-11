@@ -127670,7 +127670,7 @@
       "last_plan": {
         "source_id": "25919050",
         "display_name": "Aurora Teagarden Mysteries: The Disappearing Game 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:56:05.963962+00:00"
+        "planned_at": "2026-11-11T02:36:25.066026+00:00"
       },
       "previous_target_id": "30986628",
       "prepared": {
@@ -127678,6 +127678,12 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-11T01:14:18.698641+00:00",
         "relay_source_id": "25919050"
+      },
+      "claim": {
+        "worker_id": "a3b77d03eda6433fb3755f4bcee0c8ac-shard-0",
+        "claimed_at": "2026-11-11T02:36:25.514912+00:00",
+        "lease_expires_at": "2026-11-11T08:36:25.514912+00:00",
+        "run_id": "42938376778"
       }
     },
     "31597": {
@@ -129132,17 +129138,19 @@
       "attempts": []
     },
     "12741": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32368628",
+          "target_video_id": "30986898",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:36:27.399365+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32368628",
         "display_name": "Hogo fogo Homolka 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:34:47.443105+00:00"
-      },
-      "claim": {
-        "worker_id": "02f3d5b92e974653a2c481cf5f02b04d-shard-0",
-        "claimed_at": "2026-11-11T02:34:49.244831+00:00",
-        "lease_expires_at": "2026-11-11T08:34:49.244831+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986898",
       "prepared": {
@@ -129178,7 +129186,7 @@
       "last_plan": {
         "source_id": "35246262",
         "display_name": "An Ambiguous Report About the End of the World (Nejasná zpráva o konci světa) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:36:21.972162+00:00"
+        "planned_at": "2026-11-11T02:36:25.269927+00:00"
       }
     },
     "3111": {
@@ -183310,5 +183318,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:36:23.578582+00:00"
+  "updated_at": "2026-11-11T02:36:27.399375+00:00"
 }
