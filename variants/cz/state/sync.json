@@ -115161,7 +115161,7 @@
       "last_plan": {
         "source_id": "34506881",
         "display_name": "One Hour Photo 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:27:04.678143+00:00"
+        "planned_at": "2026-11-11T05:08:21.625081+00:00"
       },
       "previous_target_id": "30984630",
       "prepared": {
@@ -115169,6 +115169,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T17:09:05.713891+00:00",
         "relay_source_id": "34506881"
+      },
+      "claim": {
+        "worker_id": "8d56a9bad461441bb1e1567a6858bc6d-shard-0",
+        "claimed_at": "2026-11-11T05:08:22.132507+00:00",
+        "lease_expires_at": "2026-11-11T11:08:22.132507+00:00",
+        "run_id": "42938376778"
       }
     },
     "13296": {
@@ -122476,13 +122482,6 @@
           "source_id": "10214556",
           "target_video_id": "30985503",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:15:31.674182+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10214556",
-          "target_video_id": "30985503",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:50:34.129122+00:00"
         },
         {
@@ -122491,6 +122490,13 @@
           "target_video_id": "30985503",
           "permanent": false,
           "attempted_at": "2026-11-11T04:27:04.513228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10214556",
+          "target_video_id": "30985503",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:08:22.274270+00:00"
         }
       ],
       "last_plan": {
@@ -122504,12 +122510,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T19:48:14.438492+00:00",
         "relay_source_id": "10214556"
-      },
-      "claim": {
-        "worker_id": "28107f0c7d9443a89a68c175c2e10681-shard-0",
-        "claimed_at": "2026-11-11T05:08:19.955849+00:00",
-        "lease_expires_at": "2026-11-11T11:08:19.955849+00:00",
-        "run_id": "42938376778"
       }
     },
     "2989": {
@@ -133852,7 +133852,7 @@
       "last_plan": {
         "source_id": "32557568",
         "display_name": "Tony's Plan (Tony má plán) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:08:19.661245+00:00"
+        "planned_at": "2026-11-11T05:08:21.843116+00:00"
       }
     },
     "13373": {
@@ -187294,5 +187294,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:08:20.096213+00:00"
+  "updated_at": "2026-11-11T05:08:22.274282+00:00"
 }
