@@ -136189,17 +136189,19 @@
       }
     },
     "12517": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35147319",
+          "target_video_id": "30987807",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:12:16.480100+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35147319",
         "display_name": "One of Them Is the Murderer (Jeden z nich je vrah) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:11:33.063415+00:00"
-      },
-      "claim": {
-        "worker_id": "3b2741b0b7544dff85f7fd084b97f47c-shard-0",
-        "claimed_at": "2026-11-11T06:11:35.129702+00:00",
-        "lease_expires_at": "2026-11-11T12:11:35.129702+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987807",
       "prepared": {
@@ -189323,5 +189325,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:12:15.063752+00:00"
+  "updated_at": "2026-11-11T06:12:16.480116+00:00"
 }
