@@ -109785,7 +109785,7 @@
       "last_plan": {
         "source_id": "30216352",
         "display_name": "Zmluva s diablom 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:38:02.074301+00:00"
+        "planned_at": "2026-11-11T05:18:46.731813+00:00"
       },
       "previous_target_id": "30983708",
       "prepared": {
@@ -109793,6 +109793,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-10T14:38:39.501035+00:00",
         "relay_source_id": "30216352"
+      },
+      "claim": {
+        "worker_id": "443f6794cd054c13be326944c636e330-shard-0",
+        "claimed_at": "2026-11-11T05:18:47.345053+00:00",
+        "lease_expires_at": "2026-11-11T11:18:47.345053+00:00",
+        "run_id": "42938376778"
       }
     },
     "23464": {
@@ -134287,11 +134293,22 @@
       "last_plan": {
         "source_id": "34709626",
         "display_name": "Over the Hills 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:18:44.449861+00:00"
+        "planned_at": "2026-11-11T05:18:46.946604+00:00"
+      },
+      "claim": {
+        "worker_id": "72e3c4f4e68544bca4a44b6de3e6e051-shard-0",
+        "claimed_at": "2026-11-11T05:18:47.479203+00:00",
+        "lease_expires_at": "2026-11-11T11:18:47.479203+00:00",
+        "run_id": "42938376778"
       }
     },
     "25342": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11994914",
+        "display_name": "Bankrot SD CZ Dabing",
+        "planned_at": "2026-11-11T05:18:47.084064+00:00"
+      }
     },
     "24145": {
       "attempts": []
@@ -187616,13 +187633,6 @@
           "source_id": "22159844",
           "target_video_id": "30984960",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:23:46.427106+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22159844",
-          "target_video_id": "30984960",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:59:30.073425+00:00"
         },
         {
@@ -187631,6 +187641,13 @@
           "target_video_id": "30984960",
           "permanent": false,
           "attempted_at": "2026-11-11T04:38:03.564272+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22159844",
+          "target_video_id": "30984960",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:18:48.092678+00:00"
         }
       ],
       "last_plan": {
@@ -187648,5 +187665,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:18:44.449871+00:00"
+  "updated_at": "2026-11-11T05:18:48.092690+00:00"
 }
