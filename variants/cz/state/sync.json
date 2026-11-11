@@ -119800,13 +119800,6 @@
           "source_id": "11263337",
           "target_video_id": "30985002",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:25:32.117352+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11263337",
-          "target_video_id": "30985002",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:06:57.412965+00:00"
         },
         {
@@ -119815,6 +119808,13 @@
           "target_video_id": "30985002",
           "permanent": false,
           "attempted_at": "2026-11-11T01:48:17.424336+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11263337",
+          "target_video_id": "30985002",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:28:36.740391+00:00"
         }
       ],
       "last_plan": {
@@ -119828,12 +119828,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T18:30:17.466007+00:00",
         "relay_source_id": "11263337"
-      },
-      "claim": {
-        "worker_id": "89f12473d0e049c29be43f5d0dadccb7-shard-0",
-        "claimed_at": "2026-11-11T02:28:34.478734+00:00",
-        "lease_expires_at": "2026-11-11T08:28:34.478734+00:00",
-        "run_id": "42938376778"
       }
     },
     "3022": {
@@ -121062,7 +121056,7 @@
       "last_plan": {
         "source_id": "30780911",
         "display_name": "The Sugarland Express 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:48:17.189399+00:00"
+        "planned_at": "2026-11-11T02:28:36.257748+00:00"
       },
       "previous_target_id": "30985356",
       "prepared": {
@@ -121070,6 +121064,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-10T18:59:10.136746+00:00",
         "relay_source_id": "30780911"
+      },
+      "claim": {
+        "worker_id": "010ada26f9c9492fb3c1912c0b523940-shard-0",
+        "claimed_at": "2026-11-11T02:28:36.866144+00:00",
+        "lease_expires_at": "2026-11-11T08:28:36.866144+00:00",
+        "run_id": "42938376778"
       }
     },
     "27155": {
@@ -128987,7 +128987,7 @@
       "last_plan": {
         "source_id": "30420191",
         "display_name": "Melchior The Apothecary: The Executioner's Daughter (Apteeker Melchior. Timuka tütar) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:28:34.217415+00:00"
+        "planned_at": "2026-11-11T02:28:36.461342+00:00"
       }
     },
     "32254": {
@@ -183149,5 +183149,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:28:34.632491+00:00"
+  "updated_at": "2026-11-11T02:28:36.866159+00:00"
 }
