@@ -27385,13 +27385,6 @@
           "source_id": "33392596",
           "target_video_id": "30714569",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:14:29.397464+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33392596",
-          "target_video_id": "30714569",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:56:19.918325+00:00"
         },
         {
@@ -27400,6 +27393,13 @@
           "target_video_id": "30714569",
           "permanent": false,
           "attempted_at": "2026-11-11T06:48:57.442155+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33392596",
+          "target_video_id": "30714569",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:44:37.202141+00:00"
         }
       ],
       "last_plan": {
@@ -28957,7 +28957,7 @@
       "last_plan": {
         "source_id": "26168393",
         "display_name": "42 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:48:54.424259+00:00"
+        "planned_at": "2026-11-11T07:44:35.967236+00:00"
       },
       "previous_target_id": "30721201",
       "prepared": {
@@ -28965,6 +28965,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-02T07:43:34.032473+00:00",
         "relay_source_id": "26168393"
+      },
+      "claim": {
+        "worker_id": "5a91063726cf465cb3c8836c6bc33106-shard-0",
+        "claimed_at": "2026-11-11T07:44:36.622668+00:00",
+        "lease_expires_at": "2026-11-11T13:44:36.622668+00:00",
+        "run_id": "42965310158"
       }
     },
     "23584": {
@@ -139388,7 +139394,7 @@
       "last_plan": {
         "source_id": "34883583",
         "display_name": "Murder in Hérault (Crime dans l'Hérault) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:44:34.072596+00:00"
+        "planned_at": "2026-11-11T07:44:36.243318+00:00"
       }
     },
     "30968": {
@@ -192020,5 +192026,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:44:34.072616+00:00"
+  "updated_at": "2026-11-11T07:44:37.202160+00:00"
 }
