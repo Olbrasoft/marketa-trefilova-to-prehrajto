@@ -112441,13 +112441,6 @@
           "source_id": "34721047",
           "target_video_id": "30983966",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:46:52.589290+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34721047",
-          "target_video_id": "30983966",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:12:58.520116+00:00"
         },
         {
@@ -112456,6 +112449,13 @@
           "target_video_id": "30983966",
           "permanent": false,
           "attempted_at": "2026-11-11T19:32:17.210337+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34721047",
+          "target_video_id": "30983966",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:41:00.265242+00:00"
         }
       ],
       "last_plan": {
@@ -115957,7 +115957,7 @@
       "last_plan": {
         "source_id": "11567602",
         "display_name": "Widows 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:32:20.094867+00:00"
+        "planned_at": "2026-11-11T20:40:58.894128+00:00"
       },
       "previous_target_id": "30984685",
       "prepared": {
@@ -115965,6 +115965,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T17:17:48.571119+00:00",
         "relay_source_id": "11567602"
+      },
+      "claim": {
+        "worker_id": "9f9a898d01f748cb9d17268dba4b91c7-shard-0",
+        "claimed_at": "2026-11-11T20:40:59.411557+00:00",
+        "lease_expires_at": "2026-11-12T02:40:59.411557+00:00",
+        "run_id": "43067513109"
       }
     },
     "11484": {
@@ -145856,7 +145862,7 @@
       "last_plan": {
         "source_id": "30615027",
         "display_name": "Freon Ghost (Freonový duch) SD CZ Dabing",
-        "planned_at": "2026-11-11T20:40:57.077157+00:00"
+        "planned_at": "2026-11-11T20:40:59.117037+00:00"
       }
     },
     "21735": {
@@ -197558,5 +197564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:40:57.077171+00:00"
+  "updated_at": "2026-11-11T20:41:00.265255+00:00"
 }
