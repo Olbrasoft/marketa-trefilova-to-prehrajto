@@ -27405,7 +27405,7 @@
       "last_plan": {
         "source_id": "33392596",
         "display_name": "Promising Young Woman 4K CZ Dabing",
-        "planned_at": "2026-11-11T07:44:33.781509+00:00"
+        "planned_at": "2026-11-11T08:44:30.979355+00:00"
       },
       "previous_target_id": "30714569",
       "prepared": {
@@ -109642,6 +109642,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T14:36:10.697920+00:00",
         "relay_source_id": "33708286"
+      },
+      "claim": {
+        "worker_id": "4d06eadd5443476e958f6afc46937362-shard-0",
+        "claimed_at": "2026-11-11T08:44:30.762770+00:00",
+        "lease_expires_at": "2026-11-11T14:44:30.762770+00:00",
+        "run_id": "42965310158"
       }
     },
     "35753": {
@@ -141188,17 +141194,19 @@
       "attempts": []
     },
     "27002": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29645616",
+          "target_video_id": "30988560",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:44:31.485906+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Broken Promise 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:43:12.337789+00:00"
-      },
-      "claim": {
-        "worker_id": "456f685c5bb646b1b0f67e25ea019a5d-shard-0",
-        "claimed_at": "2026-11-11T08:43:13.060228+00:00",
-        "lease_expires_at": "2026-11-11T14:43:13.060228+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988560",
       "prepared": {
@@ -141216,7 +141224,7 @@
       "last_plan": {
         "source_id": "34920710",
         "display_name": "Murder in the Basque Country (Maddy Etcheban) SD CZ Dabing",
-        "planned_at": "2026-11-11T08:44:28.945031+00:00"
+        "planned_at": "2026-11-11T08:44:31.248626+00:00"
       }
     },
     "22966": {
@@ -193572,5 +193580,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:44:28.945049+00:00"
+  "updated_at": "2026-11-11T08:44:31.485923+00:00"
 }
