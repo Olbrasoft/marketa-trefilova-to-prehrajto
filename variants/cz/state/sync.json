@@ -12806,7 +12806,7 @@
       "last_plan": {
         "source_id": "34846817",
         "display_name": "Obsession (2026) 4K CZ Dabing",
-        "planned_at": "2026-11-11T06:46:49.024726+00:00"
+        "planned_at": "2026-11-11T07:42:50.511506+00:00"
       },
       "previous_target_id": "30649962",
       "prepared": {
@@ -12814,6 +12814,12 @@
         "size_bytes": 17500000000,
         "prepared_at": "2026-10-31T00:38:39.419343+00:00",
         "relay_source_id": "34846817"
+      },
+      "claim": {
+        "worker_id": "73438a26a56646bdae33726ec36fdfee-shard-0",
+        "claimed_at": "2026-11-11T07:42:51.159989+00:00",
+        "lease_expires_at": "2026-11-11T13:42:51.159989+00:00",
+        "run_id": "42965310158"
       }
     },
     "516": {
@@ -132259,13 +132265,6 @@
           "source_id": "26568103",
           "target_video_id": "30987180",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:13:14.220616+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26568103",
-          "target_video_id": "30987180",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:54:42.972722+00:00"
         },
         {
@@ -132274,6 +132273,13 @@
           "target_video_id": "30987180",
           "permanent": false,
           "attempted_at": "2026-11-11T06:46:49.552412+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26568103",
+          "target_video_id": "30987180",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:42:52.787623+00:00"
         }
       ],
       "last_plan": {
@@ -139279,17 +139285,19 @@
       "attempts": []
     },
     "12961": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32763044",
+          "target_video_id": "30988157",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:42:53.257465+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32763044",
         "display_name": "Prázdniny pro psa 4K CZ Dabing",
         "planned_at": "2026-11-11T07:42:05.023410+00:00"
-      },
-      "claim": {
-        "worker_id": "e8a10aa9c66f46a4bad53c1fea760d80-shard-0",
-        "claimed_at": "2026-11-11T07:42:07.120059+00:00",
-        "lease_expires_at": "2026-11-11T13:42:07.120059+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988157",
       "prepared": {
@@ -139304,7 +139312,7 @@
       "last_plan": {
         "source_id": "34720000",
         "display_name": "Hasici (Hasiči) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:42:48.359054+00:00"
+        "planned_at": "2026-11-11T07:42:50.794220+00:00"
       }
     },
     "24478": {
@@ -191945,5 +191953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:42:48.574361+00:00"
+  "updated_at": "2026-11-11T07:42:53.257485+00:00"
 }
