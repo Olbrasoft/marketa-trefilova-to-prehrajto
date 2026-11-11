@@ -132333,7 +132333,7 @@
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:16:04.998815+00:00"
+        "planned_at": "2026-11-11T05:58:06.655604+00:00"
       },
       "previous_target_id": "30987208",
       "prepared": {
@@ -132341,6 +132341,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T03:56:55.465680+00:00",
         "relay_source_id": "30251989"
+      },
+      "claim": {
+        "worker_id": "c761ff618a99447d9ab54706742de68b-shard-0",
+        "claimed_at": "2026-11-11T05:58:07.271931+00:00",
+        "lease_expires_at": "2026-11-11T11:58:07.271931+00:00",
+        "run_id": "42938376778"
       }
     },
     "31944": {
@@ -135710,17 +135716,19 @@
       }
     },
     "27047": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33063567",
+          "target_video_id": "30987763",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:58:09.059615+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33063567",
         "display_name": "Anny 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:57:23.214057+00:00"
-      },
-      "claim": {
-        "worker_id": "936f7456429a4681ade7b999b865fe03-shard-0",
-        "claimed_at": "2026-11-11T05:57:24.934363+00:00",
-        "lease_expires_at": "2026-11-11T11:57:24.934363+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987763",
       "prepared": {
@@ -135744,11 +135752,22 @@
       "last_plan": {
         "source_id": "26154128",
         "display_name": "Falling Tears (Když prší slzy) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:58:03.369872+00:00"
+        "planned_at": "2026-11-11T05:58:06.863879+00:00"
+      },
+      "claim": {
+        "worker_id": "9e9cde69275b4482b44e65004d6d723d-shard-0",
+        "claimed_at": "2026-11-11T05:58:07.406570+00:00",
+        "lease_expires_at": "2026-11-11T11:58:07.406570+00:00",
+        "run_id": "42938376778"
       }
     },
     "24169": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28002795",
+        "display_name": "Děvče za výkladem SD CZ Dabing",
+        "planned_at": "2026-11-11T05:58:07.026283+00:00"
+      }
     },
     "17658": {
       "attempts": []
@@ -188892,5 +188911,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:58:04.920221+00:00"
+  "updated_at": "2026-11-11T05:58:09.059625+00:00"
 }
