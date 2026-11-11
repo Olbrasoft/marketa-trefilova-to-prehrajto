@@ -8532,6 +8532,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "0ba978cb28c944b1a33409b805686739-shard-0",
+        "claimed_at": "2026-11-11T22:46:01.043968+00:00",
+        "lease_expires_at": "2026-11-12T04:46:01.043968+00:00",
+        "run_id": "43102571398"
       }
     },
     "29922": {
@@ -129507,13 +129513,6 @@
           "source_id": "15144262",
           "target_video_id": "30986885",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:44:19.692758+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15144262",
-          "target_video_id": "30986885",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:00:00.793709+00:00"
         },
         {
@@ -129522,12 +129521,19 @@
           "target_video_id": "30986885",
           "permanent": false,
           "attempted_at": "2026-11-11T21:10:46.435502+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15144262",
+          "target_video_id": "30986885",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:46:04.677774+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15144262",
         "display_name": "The Salt Prince (Soľ nad zlato) SD CZ Dabing",
-        "planned_at": "2026-11-11T21:10:44.150508+00:00"
+        "planned_at": "2026-11-11T22:46:01.295028+00:00"
       },
       "previous_target_id": "30986885",
       "prepared": {
@@ -146204,7 +146210,7 @@
       "last_plan": {
         "source_id": "33856066",
         "display_name": "Jan Palach 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:45:59.022930+00:00"
+        "planned_at": "2026-11-11T22:46:01.636062+00:00"
       }
     },
     "10711": {
@@ -197843,5 +197849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:45:59.295273+00:00"
+  "updated_at": "2026-11-11T22:46:04.677794+00:00"
 }
