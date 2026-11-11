@@ -139842,17 +139842,19 @@
       }
     },
     "15658": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694069",
+          "target_video_id": "30988245",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:58:26.458119+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694069",
         "display_name": "Na dvore je kun, séfe! (Na dvoře je kůň, šéfe!) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:57:39.808092+00:00"
-      },
-      "claim": {
-        "worker_id": "97aa8c8cb12c4c57b303839642ea4b15-shard-0",
-        "claimed_at": "2026-11-11T07:57:40.592643+00:00",
-        "lease_expires_at": "2026-11-11T13:57:40.592643+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988245",
       "prepared": {
@@ -192439,5 +192441,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:58:24.501595+00:00"
+  "updated_at": "2026-11-11T07:58:26.458138+00:00"
 }
