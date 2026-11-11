@@ -112961,6 +112961,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:20:21.843822+00:00",
         "relay_source_id": "31202256"
+      },
+      "claim": {
+        "worker_id": "68b8746fa5dc44689f789f0090459850-shard-0",
+        "claimed_at": "2026-11-11T06:12:34.780104+00:00",
+        "lease_expires_at": "2026-11-11T12:12:34.780104+00:00",
+        "run_id": "42938376778"
       }
     },
     "3154": {
@@ -117822,7 +117828,7 @@
       "last_plan": {
         "source_id": "18074487",
         "display_name": "Arctic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:29:17.994500+00:00"
+        "planned_at": "2026-11-11T06:12:34.955842+00:00"
       },
       "previous_target_id": "30984856",
       "prepared": {
@@ -130491,13 +130497,6 @@
           "source_id": "35147186",
           "target_video_id": "30986963",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:09:55.272312+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35147186",
-          "target_video_id": "30986963",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:49:52.804220+00:00"
         },
         {
@@ -130506,6 +130505,13 @@
           "target_video_id": "30986963",
           "permanent": false,
           "attempted_at": "2026-11-11T05:29:16.544948+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35147186",
+          "target_video_id": "30986963",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:12:34.634082+00:00"
         }
       ],
       "last_plan": {
@@ -130519,12 +130525,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-11T02:58:34.152788+00:00",
         "relay_source_id": "35147186"
-      },
-      "claim": {
-        "worker_id": "2a197f105cf7414aae0160f11d47efd3-shard-0",
-        "claimed_at": "2026-11-11T06:12:28.789891+00:00",
-        "lease_expires_at": "2026-11-11T12:12:28.789891+00:00",
-        "run_id": "42938376778"
       }
     },
     "10712": {
@@ -136258,7 +136258,7 @@
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:12:32.919676+00:00"
+        "planned_at": "2026-11-11T06:12:35.165876+00:00"
       }
     },
     "6823": {
@@ -189340,5 +189340,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:12:32.919685+00:00"
+  "updated_at": "2026-11-11T06:12:35.165885+00:00"
 }
