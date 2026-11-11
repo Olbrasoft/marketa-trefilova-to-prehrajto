@@ -115289,13 +115289,6 @@
           "source_id": "32155099",
           "target_video_id": "30984640",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:26:39.360481+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32155099",
-          "target_video_id": "30984640",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:05:05.357899+00:00"
         },
         {
@@ -115304,6 +115297,13 @@
           "target_video_id": "30984640",
           "permanent": false,
           "attempted_at": "2026-11-11T00:42:49.905397+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32155099",
+          "target_video_id": "30984640",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:23:50.582306+00:00"
         }
       ],
       "last_plan": {
@@ -121750,7 +121750,7 @@
       "last_plan": {
         "source_id": "27099387",
         "display_name": "Beast (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:42:48.288459+00:00"
+        "planned_at": "2026-11-11T01:23:48.956429+00:00"
       },
       "previous_target_id": "30985431",
       "prepared": {
@@ -121758,6 +121758,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T19:16:16.465537+00:00",
         "relay_source_id": "27099387"
+      },
+      "claim": {
+        "worker_id": "f861e64a1b41415d834e1ff8886a9661-shard-0",
+        "claimed_at": "2026-11-11T01:23:49.711997+00:00",
+        "lease_expires_at": "2026-11-11T07:23:49.711997+00:00",
+        "run_id": "42904278669"
       }
     },
     "35695": {
@@ -127676,7 +127682,7 @@
       "last_plan": {
         "source_id": "29545278",
         "display_name": "Tiger Cage 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:23:46.879107+00:00"
+        "planned_at": "2026-11-11T01:23:49.275128+00:00"
       }
     },
     "16044": {
@@ -182072,5 +182078,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:23:46.879127+00:00"
+  "updated_at": "2026-11-11T01:23:50.582326+00:00"
 }
