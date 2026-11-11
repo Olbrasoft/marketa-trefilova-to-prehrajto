@@ -45582,6 +45582,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-06T22:18:15.551292+00:00",
         "relay_source_id": "20443534"
+      },
+      "claim": {
+        "worker_id": "cb6c223f73a94c34b27d1f4f6c9d2cbb-shard-0",
+        "claimed_at": "2026-11-11T00:52:16.232230+00:00",
+        "lease_expires_at": "2026-11-11T06:52:16.232230+00:00",
+        "run_id": "42904278669"
       }
     },
     "1104": {
@@ -126954,17 +126960,19 @@
       "attempts": []
     },
     "21890": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34700359",
+          "target_video_id": "30986557",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:52:16.508705+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34700359",
         "display_name": "Buona Sera, Mrs. Campbell SD CZ Dabing",
         "planned_at": "2026-11-11T00:50:59.475950+00:00"
-      },
-      "claim": {
-        "worker_id": "ea44fa24a52f4fd4875366aa6a99500f-shard-0",
-        "claimed_at": "2026-11-11T00:51:01.763402+00:00",
-        "lease_expires_at": "2026-11-11T06:51:01.763402+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986557",
       "prepared": {
@@ -181528,5 +181536,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:52:14.353091+00:00"
+  "updated_at": "2026-11-11T00:52:16.508727+00:00"
 }
