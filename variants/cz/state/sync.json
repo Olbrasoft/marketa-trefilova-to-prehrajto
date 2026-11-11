@@ -128567,17 +128567,19 @@
       }
     },
     "31642": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34993388",
+          "target_video_id": "30986791",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:10:40.439636+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34993388",
         "display_name": "Love Me Tender (2025) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:09:54.661034+00:00"
-      },
-      "claim": {
-        "worker_id": "0a50fdfdebac4a8e8d4106aac6121fc2-shard-0",
-        "claimed_at": "2026-11-11T02:09:56.664774+00:00",
-        "lease_expires_at": "2026-11-11T08:09:56.664774+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986791",
       "prepared": {
@@ -182838,5 +182840,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:10:38.561927+00:00"
+  "updated_at": "2026-11-11T02:10:40.439654+00:00"
 }
