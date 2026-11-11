@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:29:06.479343+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:37:17.320224+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-11T12:47:30.839689+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:00:20.867164+00:00"
         }
       ],
       "last_plan": {
@@ -1049,12 +1049,6 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
-      },
-      "claim": {
-        "worker_id": "04a3f05323174c198092ef44396860f2-shard-0",
-        "claimed_at": "2026-11-11T14:00:17.259713+00:00",
-        "lease_expires_at": "2026-11-11T20:00:17.259713+00:00",
-        "run_id": "43011363893"
       }
     },
     "54": {
@@ -108901,7 +108895,7 @@
       "last_plan": {
         "source_id": "35072913",
         "display_name": "Alena (1947) SD CZ Dabing",
-        "planned_at": "2026-11-11T12:47:28.944117+00:00"
+        "planned_at": "2026-11-11T14:00:19.674986+00:00"
       },
       "previous_target_id": "30983665",
       "prepared": {
@@ -108909,6 +108903,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:30:14.467093+00:00",
         "relay_source_id": "35072913"
+      },
+      "claim": {
+        "worker_id": "e26e9de03a484ee98718a8c5f095f1c0-shard-0",
+        "claimed_at": "2026-11-11T14:00:20.550886+00:00",
+        "lease_expires_at": "2026-11-11T20:00:20.550886+00:00",
+        "run_id": "43011363893"
       }
     },
     "28861": {
@@ -144415,7 +144415,7 @@
       "last_plan": {
         "source_id": "34134271",
         "display_name": "Definice lásky 1080p CZ Dabing",
-        "planned_at": "2026-11-11T14:00:16.738683+00:00"
+        "planned_at": "2026-11-11T14:00:20.074636+00:00"
       }
     },
     "37404": {
@@ -196392,5 +196392,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:00:17.950225+00:00"
+  "updated_at": "2026-11-11T14:00:20.867189+00:00"
 }
