@@ -140441,17 +140441,19 @@
       }
     },
     "15645": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27874374",
+          "target_video_id": "30988406",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:23:00.228033+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27874374",
         "display_name": "Together (Spolu) (2022) 4K CZ Dabing",
         "planned_at": "2026-11-11T08:20:46.139679+00:00"
-      },
-      "claim": {
-        "worker_id": "4cac527777304471aab9cbdb70defa8a-shard-0",
-        "claimed_at": "2026-11-11T08:20:48.393014+00:00",
-        "lease_expires_at": "2026-11-11T14:20:48.393014+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988406",
       "prepared": {
@@ -192939,5 +192941,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:22:58.625402+00:00"
+  "updated_at": "2026-11-11T08:23:00.228049+00:00"
 }
