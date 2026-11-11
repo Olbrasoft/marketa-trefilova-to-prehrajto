@@ -112421,7 +112421,7 @@
       "last_plan": {
         "source_id": "34721047",
         "display_name": "Pongo Calling 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:58:17.384176+00:00"
+        "planned_at": "2026-11-11T04:36:47.274502+00:00"
       },
       "previous_target_id": "30983966",
       "prepared": {
@@ -112429,6 +112429,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T15:08:27.756109+00:00",
         "relay_source_id": "34721047"
+      },
+      "claim": {
+        "worker_id": "004c662f907a4b5ba030bb14a0d5ecd1-shard-0",
+        "claimed_at": "2026-11-11T04:36:47.901719+00:00",
+        "lease_expires_at": "2026-11-11T10:36:47.901719+00:00",
+        "run_id": "42938376778"
       }
     },
     "36797": {
@@ -132140,6 +132146,13 @@
           "target_video_id": "30987213",
           "permanent": false,
           "attempted_at": "2026-11-11T03:58:20.305710+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29700681",
+          "target_video_id": "30987213",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:36:47.771590+00:00"
         }
       ],
       "last_plan": {
@@ -132150,15 +132163,9 @@
       "previous_target_id": "30987213",
       "prepared": {
         "target_video_id": "30987213",
-        "size_bytes": 963036651,
+        "size_bytes": 963000000,
         "prepared_at": "2026-11-11T03:57:44.101512+00:00",
         "relay_source_id": "29700681"
-      },
-      "claim": {
-        "worker_id": "afb98bb591d0496cac2a2e3674930569-shard-0",
-        "claimed_at": "2026-11-11T04:36:44.869851+00:00",
-        "lease_expires_at": "2026-11-11T10:36:44.869851+00:00",
-        "run_id": "42938376778"
       }
     },
     "15660": {
@@ -133034,7 +133041,7 @@
       "last_plan": {
         "source_id": "25777021",
         "display_name": "Every Million Comes Handy (Každý milion dobrý) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:36:44.604944+00:00"
+        "planned_at": "2026-11-11T04:36:47.482678+00:00"
       }
     },
     "16650": {
@@ -186563,5 +186570,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:36:45.788714+00:00"
+  "updated_at": "2026-11-11T04:36:47.901739+00:00"
 }
