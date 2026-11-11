@@ -122661,13 +122661,6 @@
           "source_id": "22752658",
           "target_video_id": "30985535",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:48:43.487838+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22752658",
-          "target_video_id": "30985535",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:04:56.277065+00:00"
         },
         {
@@ -122676,12 +122669,19 @@
           "target_video_id": "30985535",
           "permanent": false,
           "attempted_at": "2026-11-11T17:41:29.818365+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22752658",
+          "target_video_id": "30985535",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:51:29.734494+00:00"
         }
       ],
       "last_plan": {
         "source_id": "22752658",
         "display_name": "Flashbacks of a Fool 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:41:28.118360+00:00"
+        "planned_at": "2026-11-11T18:51:27.631751+00:00"
       },
       "previous_target_id": "30985535",
       "prepared": {
@@ -145350,11 +145350,22 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:51:22.252385+00:00"
+        "planned_at": "2026-11-11T18:51:27.839774+00:00"
+      },
+      "claim": {
+        "worker_id": "947e9b21140344ee8eaf5eaf3f426a03-shard-0",
+        "claimed_at": "2026-11-11T18:51:28.380862+00:00",
+        "lease_expires_at": "2026-11-12T00:51:28.380862+00:00",
+        "run_id": "43067513109"
       }
     },
     "13050": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26422192",
+        "display_name": "Priehrada SD CZ Dabing",
+        "planned_at": "2026-11-11T18:51:27.971738+00:00"
+      }
     },
     "32867": {
       "attempts": []
@@ -197139,5 +197150,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:51:24.345586+00:00"
+  "updated_at": "2026-11-11T18:51:29.734515+00:00"
 }
