@@ -129683,17 +129683,19 @@
       }
     },
     "20748": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34450608",
+          "reason": "Source detail has no authenticated download link; source_id=34450608",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:48:33.525656+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34450608",
         "display_name": "Fairy Tales for Emma (Pohádky pro Emu) SD CZ Dabing",
         "planned_at": "2026-11-11T02:48:30.273809+00:00"
-      },
-      "claim": {
-        "worker_id": "d5cba48ff9a448d2afb69ec6bb55b711-shard-0",
-        "claimed_at": "2026-11-11T02:48:30.852467+00:00",
-        "lease_expires_at": "2026-11-11T08:48:30.852467+00:00",
-        "run_id": "42938376778"
       }
     },
     "32726": {
@@ -183764,5 +183766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:48:32.136734+00:00"
+  "updated_at": "2026-11-11T02:48:33.525679+00:00"
 }
