@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T13:08:14.225292+00:00
+Poslední aktualizace (UTC): 2026-11-11T13:08:16.044187+00:00
 
 Zkontrolováno videí: 639. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 63, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 64, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -112,6 +112,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 69. Důvod
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-10T09:40:19.689760+00:00 |
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-10T09:50:09.047853+00:00 |
 | [Sanctuary (Freistatt) 720p CZ Titulky](https://prehraj.to/sanctuary-freistatt-720p-cz-titulky-mkv/23e2e67faa47d345) (ID 30986677) | [Sdílej 6556256](https://sdilej.cz/6556256/freistatt-sanctuary-2015-.720p.brrip.xvid.ac3.2.0-ceske-titulky.mkv) | target_unavailable | 2026-11-11T01:32:25.152784+00:00 |
+| [Sayonara 1080p CZ Titulky](https://prehraj.to/sayonara-1080p-cz-titulky-mkv/d28553733dbbab0f) (ID 30990118) | [Sdílej 34273318](https://sdilej.cz/34273318/sayonara-1957-bdrip-hd-1080p-h264-ita-eng-cze-ac3-armor-.mkv) | target_unavailable | 2026-11-11T13:08:15.794158+00:00 |
 | [Skyking (#SKYKING) 1080p CZ Titulky](https://prehraj.to/skyking-skyking-1080p-cz-titulky-mkv/f146a58059f0f6dc) (ID 30987918) | [Sdílej 34014919](https://sdilej.cz/34014919/skyking.2026.sk.titulky.1080p.mkv) | target_unavailable | 2026-11-11T06:48:07.231650+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-10T09:40:52.480829+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-10T09:41:08.832188+00:00 |
