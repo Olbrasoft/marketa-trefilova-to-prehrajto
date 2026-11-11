@@ -131134,17 +131134,19 @@
       }
     },
     "24172": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34734279",
+          "target_video_id": "30987118",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:40:31.549332+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34734279",
         "display_name": "Její pastorkyně 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:39:44.951586+00:00"
-      },
-      "claim": {
-        "worker_id": "0f638e95831e4d679b5c9da4648e575c-shard-0",
-        "claimed_at": "2026-11-11T03:39:47.034480+00:00",
-        "lease_expires_at": "2026-11-11T09:39:47.034480+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987118",
       "prepared": {
@@ -184997,5 +184999,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:40:30.002195+00:00"
+  "updated_at": "2026-11-11T03:40:31.549348+00:00"
 }
