@@ -34904,17 +34904,19 @@
       }
     },
     "2378": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12196905",
+          "target_video_id": "30987870",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:31:55.097528+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12196905",
         "display_name": "Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky",
         "planned_at": "2026-11-11T06:31:13.655599+00:00"
-      },
-      "claim": {
-        "worker_id": "5b2c1083f72c4b14a025d3c80d5db18f-shard-0",
-        "claimed_at": "2026-11-11T06:31:13.960681+00:00",
-        "lease_expires_at": "2026-11-11T12:31:13.960681+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987870",
       "prepared": {
@@ -96501,5 +96503,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:31:23.827079+00:00"
+  "updated_at": "2026-11-11T06:31:55.097544+00:00"
 }
