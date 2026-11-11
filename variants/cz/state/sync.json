@@ -99053,6 +99053,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T02:09:17.495984+00:00",
         "relay_source_id": "34471665"
+      },
+      "claim": {
+        "worker_id": "22c64dfac3a0461c8f33eeb62be6f994-shard-0",
+        "claimed_at": "2026-11-11T00:17:59.389735+00:00",
+        "lease_expires_at": "2026-11-11T06:17:59.389735+00:00",
+        "run_id": "42904278669"
       }
     },
     "28005": {
@@ -117691,13 +117697,6 @@
           "source_id": "34651133",
           "target_video_id": "30984850",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:16:06.285552+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34651133",
-          "target_video_id": "30984850",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:56:50.890584+00:00"
         },
         {
@@ -117706,6 +117705,13 @@
           "target_video_id": "30984850",
           "permanent": false,
           "attempted_at": "2026-11-10T23:40:09.020511+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34651133",
+          "target_video_id": "30984850",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:18:00.174090+00:00"
         }
       ],
       "last_plan": {
@@ -117719,12 +117725,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T17:51:19.157054+00:00",
         "relay_source_id": "34651133"
-      },
-      "claim": {
-        "worker_id": "d46ccc62b10b41dfa90c327ee25bd0c8-shard-0",
-        "claimed_at": "2026-11-11T00:17:56.584750+00:00",
-        "lease_expires_at": "2026-11-11T06:17:56.584750+00:00",
-        "run_id": "42904278669"
       }
     },
     "2804": {
@@ -124078,7 +124078,7 @@
       "last_plan": {
         "source_id": "20827767",
         "display_name": "The Psychic (Sette note in nero) (1977) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:40:10.661847+00:00"
+        "planned_at": "2026-11-11T00:17:59.616399+00:00"
       },
       "previous_target_id": "30985751",
       "prepared": {
@@ -126406,7 +126406,7 @@
       "last_plan": {
         "source_id": "34695526",
         "display_name": "The Birthday Wish 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:17:57.565664+00:00"
+        "planned_at": "2026-11-11T00:17:59.962970+00:00"
       }
     },
     "30990": {
@@ -181075,5 +181075,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:17:57.565684+00:00"
+  "updated_at": "2026-11-11T00:18:00.174116+00:00"
 }
