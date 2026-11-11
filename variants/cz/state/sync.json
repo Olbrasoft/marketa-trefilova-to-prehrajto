@@ -118726,7 +118726,7 @@
       "last_plan": {
         "source_id": "33730079",
         "display_name": "Sea of Love 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:00:25.728000+00:00"
+        "planned_at": "2026-11-11T05:41:52.181599+00:00"
       },
       "previous_target_id": "30984911",
       "prepared": {
@@ -120599,6 +120599,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:40:14.484520+00:00",
         "relay_source_id": "13913777"
+      },
+      "claim": {
+        "worker_id": "4c71fed452804d1ca8e72c75c220fdb1-shard-0",
+        "claimed_at": "2026-11-11T05:41:52.009615+00:00",
+        "lease_expires_at": "2026-11-11T11:41:52.009615+00:00",
+        "run_id": "42938376778"
       }
     },
     "18768": {
@@ -135093,17 +135099,19 @@
       }
     },
     "9996": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33957932",
+          "target_video_id": "30987693",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:41:52.331398+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33957932",
         "display_name": "Poslední útěk Jeronýma Pražského 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:41:09.792336+00:00"
-      },
-      "claim": {
-        "worker_id": "b2855d31a39c49e19893d16df3c90f31-shard-0",
-        "claimed_at": "2026-11-11T05:41:10.325856+00:00",
-        "lease_expires_at": "2026-11-11T11:41:10.325856+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987693",
       "prepared": {
@@ -188356,5 +188364,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:41:50.493352+00:00"
+  "updated_at": "2026-11-11T05:41:52.331408+00:00"
 }
