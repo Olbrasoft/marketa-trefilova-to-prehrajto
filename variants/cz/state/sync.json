@@ -108432,6 +108432,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T14:21:36.081757+00:00",
         "relay_source_id": "22546836"
+      },
+      "claim": {
+        "worker_id": "401bb26332984fc2b62f367487876812-shard-0",
+        "claimed_at": "2026-11-11T00:28:50.074551+00:00",
+        "lease_expires_at": "2026-11-11T06:28:50.074551+00:00",
+        "run_id": "42904278669"
       }
     },
     "12671": {
@@ -111197,13 +111203,6 @@
           "source_id": "34786946",
           "target_video_id": "30983812",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:29:19.687176+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34786946",
-          "target_video_id": "30983812",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:11:10.832866+00:00"
         },
         {
@@ -111212,6 +111211,13 @@
           "target_video_id": "30983812",
           "permanent": false,
           "attempted_at": "2026-11-10T23:51:05.520874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34786946",
+          "target_video_id": "30983812",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:28:50.909717+00:00"
         }
       ],
       "last_plan": {
@@ -111225,12 +111231,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:52:08.850845+00:00",
         "relay_source_id": "34786946"
-      },
-      "claim": {
-        "worker_id": "3ac434095a3545528792cb830d5b5ad3-shard-0",
-        "claimed_at": "2026-11-11T00:28:46.662128+00:00",
-        "lease_expires_at": "2026-11-11T06:28:46.662128+00:00",
-        "run_id": "42904278669"
       }
     },
     "12683": {
@@ -118562,7 +118562,7 @@
       "last_plan": {
         "source_id": "12049029",
         "display_name": "Tolkien 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:51:09.187675+00:00"
+        "planned_at": "2026-11-11T00:28:50.296109+00:00"
       },
       "previous_target_id": "30984886",
       "prepared": {
@@ -126674,7 +126674,7 @@
       "last_plan": {
         "source_id": "34189395",
         "display_name": "Last Stand at Saber River 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:28:47.699170+00:00"
+        "planned_at": "2026-11-11T00:28:50.614044+00:00"
       }
     },
     "2890": {
@@ -181271,5 +181271,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:28:47.991224+00:00"
+  "updated_at": "2026-11-11T00:28:50.909741+00:00"
 }
