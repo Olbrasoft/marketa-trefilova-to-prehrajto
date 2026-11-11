@@ -112896,13 +112896,6 @@
           "source_id": "31008000",
           "target_video_id": "30984042",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:23:01.873167+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31008000",
-          "target_video_id": "30984042",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:04:22.869162+00:00"
         },
         {
@@ -112911,6 +112904,13 @@
           "target_video_id": "30984042",
           "permanent": false,
           "attempted_at": "2026-11-11T01:45:43.032453+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31008000",
+          "target_video_id": "30984042",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:26:38.230752+00:00"
         }
       ],
       "last_plan": {
@@ -112924,12 +112924,6 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:19:52.239174+00:00",
         "relay_source_id": "31008000"
-      },
-      "claim": {
-        "worker_id": "2a1d8faa939e43688d4bdc3e557faa1d-shard-0",
-        "claimed_at": "2026-11-11T02:26:34.992957+00:00",
-        "lease_expires_at": "2026-11-11T08:26:34.992957+00:00",
-        "run_id": "42938376778"
       }
     },
     "3134": {
@@ -112967,6 +112961,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:20:21.843822+00:00",
         "relay_source_id": "31202256"
+      },
+      "claim": {
+        "worker_id": "d2c3b2c08ce44154b7708a88c3accdd6-shard-0",
+        "claimed_at": "2026-11-11T02:26:39.285953+00:00",
+        "lease_expires_at": "2026-11-11T08:26:39.285953+00:00",
+        "run_id": "42938376778"
       }
     },
     "3154": {
@@ -117828,7 +117828,7 @@
       "last_plan": {
         "source_id": "18074487",
         "display_name": "Arctic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:45:42.419362+00:00"
+        "planned_at": "2026-11-11T02:26:39.733171+00:00"
       },
       "previous_target_id": "30984856",
       "prepared": {
@@ -128931,7 +128931,7 @@
       "last_plan": {
         "source_id": "34527419",
         "display_name": "Innocence 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:26:36.658243+00:00"
+        "planned_at": "2026-11-11T02:26:39.940874+00:00"
       }
     },
     "2932": {
@@ -183111,5 +183111,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:26:36.658253+00:00"
+  "updated_at": "2026-11-11T02:26:39.940884+00:00"
 }
