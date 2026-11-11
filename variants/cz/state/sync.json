@@ -118353,13 +118353,6 @@
           "source_id": "14091913",
           "target_video_id": "30984870",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:57:07.139713+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14091913",
-          "target_video_id": "30984870",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:07:30.632352+00:00"
         },
         {
@@ -118368,6 +118361,13 @@
           "target_video_id": "30984870",
           "permanent": false,
           "attempted_at": "2026-11-11T22:45:27.244064+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14091913",
+          "target_video_id": "30984870",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:58:52.913980+00:00"
         }
       ],
       "last_plan": {
@@ -131560,7 +131560,7 @@
       "last_plan": {
         "source_id": "30658031",
         "display_name": "In the Still of the Night (Za tichých nocí) SD CZ Dabing",
-        "planned_at": "2026-11-11T22:45:26.439634+00:00"
+        "planned_at": "2026-11-11T23:58:51.025367+00:00"
       },
       "previous_target_id": "30987086",
       "prepared": {
@@ -131568,6 +131568,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T03:36:05.880645+00:00",
         "relay_source_id": "30658031"
+      },
+      "claim": {
+        "worker_id": "cc1b87bbff1048a7914d894d4fd7b131-shard-0",
+        "claimed_at": "2026-11-11T23:58:51.854749+00:00",
+        "lease_expires_at": "2026-11-12T05:58:51.854749+00:00",
+        "run_id": "43102571398"
       }
     },
     "2800": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-11T23:58:48.385268+00:00"
+        "planned_at": "2026-11-11T23:58:51.361481+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:58:48.657703+00:00"
+  "updated_at": "2026-11-11T23:58:52.914000+00:00"
 }
