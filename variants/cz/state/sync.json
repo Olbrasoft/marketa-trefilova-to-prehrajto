@@ -110002,13 +110002,6 @@
           "source_id": "34716525",
           "target_video_id": "30983747",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:41:06.134846+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34716525",
-          "target_video_id": "30983747",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:23:04.717498+00:00"
         },
         {
@@ -110017,6 +110010,13 @@
           "target_video_id": "30983747",
           "permanent": false,
           "attempted_at": "2026-11-11T02:55:36.332746+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34716525",
+          "target_video_id": "30983747",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:28:42.049076+00:00"
         }
       ],
       "last_plan": {
@@ -110030,12 +110030,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:42:03.377463+00:00",
         "relay_source_id": "34716525"
-      },
-      "claim": {
-        "worker_id": "c627bbb9df3e4e4da5cc867c0bd05c23-shard-0",
-        "claimed_at": "2026-11-11T03:28:39.722071+00:00",
-        "lease_expires_at": "2026-11-11T09:28:39.722071+00:00",
-        "run_id": "42938376778"
       }
     },
     "31730": {
@@ -130757,17 +130751,19 @@
       "attempts": []
     },
     "30326": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29956320",
+          "target_video_id": "30987039",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:28:42.178878+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29956320",
         "display_name": "Dalskabáty, hrisna ves (Dalskabáty, hříšná ves aneb Zapomenutý čert) SD CZ Dabing",
         "planned_at": "2026-11-11T03:27:58.272661+00:00"
-      },
-      "claim": {
-        "worker_id": "e9143012f1394715841d2dcfb9c5c73b-shard-0",
-        "claimed_at": "2026-11-11T03:28:00.116241+00:00",
-        "lease_expires_at": "2026-11-11T09:28:00.116241+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987039",
       "prepared": {
@@ -184692,5 +184688,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:28:40.601881+00:00"
+  "updated_at": "2026-11-11T03:28:42.178891+00:00"
 }
