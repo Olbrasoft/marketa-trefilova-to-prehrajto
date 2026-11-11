@@ -120648,13 +120648,6 @@
           "source_id": "34392768",
           "target_video_id": "30985051",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:56:30.156661+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34392768",
-          "target_video_id": "30985051",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:17:11.357379+00:00"
         },
         {
@@ -120663,6 +120656,13 @@
           "target_video_id": "30985051",
           "permanent": false,
           "attempted_at": "2026-11-11T17:49:13.353669+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34392768",
+          "target_video_id": "30985051",
+          "permanent": false,
+          "attempted_at": "2026-11-11T19:04:25.730015+00:00"
         }
       ],
       "last_plan": {
@@ -120676,12 +120676,6 @@
         "size_bytes": 13200000000,
         "prepared_at": "2026-11-10T18:40:40.098352+00:00",
         "relay_source_id": "34392768"
-      },
-      "claim": {
-        "worker_id": "525abe40157d4edfb5adc2d61bca27ae-shard-0",
-        "claimed_at": "2026-11-11T19:04:23.358171+00:00",
-        "lease_expires_at": "2026-11-12T01:04:23.358171+00:00",
-        "run_id": "43067513109"
       }
     },
     "3144": {
@@ -137917,7 +137911,7 @@
       "last_plan": {
         "source_id": "34661718",
         "display_name": "Rukavička 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:49:15.008260+00:00"
+        "planned_at": "2026-11-11T19:04:25.188091+00:00"
       },
       "previous_target_id": "30987874",
       "prepared": {
@@ -137925,6 +137919,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-11-11T06:32:04.763146+00:00",
         "relay_source_id": "34661718"
+      },
+      "claim": {
+        "worker_id": "759165b1ce9f476fbd20b75235886c59-shard-0",
+        "claimed_at": "2026-11-11T19:04:25.872934+00:00",
+        "lease_expires_at": "2026-11-12T01:04:25.872934+00:00",
+        "run_id": "43067513109"
       }
     },
     "12707": {
@@ -145437,7 +145437,7 @@
       "last_plan": {
         "source_id": "30242443",
         "display_name": "Goat (Koza) (2015) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:04:23.079094+00:00"
+        "planned_at": "2026-11-11T19:04:25.410756+00:00"
       }
     },
     "17373": {
@@ -197211,5 +197211,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T19:04:23.534465+00:00"
+  "updated_at": "2026-11-11T19:04:25.872969+00:00"
 }
