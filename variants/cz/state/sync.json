@@ -112808,13 +112808,6 @@
           "source_id": "34274611",
           "target_video_id": "30984010",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:30:00.139300+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34274611",
-          "target_video_id": "30984010",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:43:48.663083+00:00"
         },
         {
@@ -112823,6 +112816,13 @@
           "target_video_id": "30984010",
           "permanent": false,
           "attempted_at": "2026-11-11T20:54:06.544931+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34274611",
+          "target_video_id": "30984010",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:28:36.321547+00:00"
         }
       ],
       "last_plan": {
@@ -133879,7 +133879,7 @@
       "last_plan": {
         "source_id": "32097453",
         "display_name": "Veselý souboj SD CZ Dabing",
-        "planned_at": "2026-11-11T20:54:08.015653+00:00"
+        "planned_at": "2026-11-11T22:28:35.150071+00:00"
       },
       "previous_target_id": "30987443",
       "prepared": {
@@ -133887,6 +133887,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T04:42:03.188301+00:00",
         "relay_source_id": "32097453"
+      },
+      "claim": {
+        "worker_id": "ddd72e647ce2461b937ecb7fa2f05c04-shard-0",
+        "claimed_at": "2026-11-11T22:28:36.018532+00:00",
+        "lease_expires_at": "2026-11-12T04:28:36.018532+00:00",
+        "run_id": "43102571398"
       }
     },
     "12579": {
@@ -146125,7 +146131,7 @@
       "last_plan": {
         "source_id": "31572130",
         "display_name": "Three Men Travelling 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:28:33.067016+00:00"
+        "planned_at": "2026-11-11T22:28:35.483639+00:00"
       }
     },
     "22435": {
@@ -197785,5 +197791,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:28:33.067035+00:00"
+  "updated_at": "2026-11-11T22:28:36.321565+00:00"
 }
