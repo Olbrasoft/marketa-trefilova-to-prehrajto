@@ -108087,6 +108087,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T14:17:57.478000+00:00",
         "relay_source_id": "34715818"
+      },
+      "claim": {
+        "worker_id": "bcab9640ce1d4fd991489953bd95a52c-shard-0",
+        "claimed_at": "2026-11-11T02:25:43.849876+00:00",
+        "lease_expires_at": "2026-11-11T08:25:43.849876+00:00",
+        "run_id": "42938376778"
       }
     },
     "12666": {
@@ -108162,7 +108168,7 @@
       "last_plan": {
         "source_id": "30111915",
         "display_name": "Romeo a Julie na konci listopadu 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:44:33.483204+00:00"
+        "planned_at": "2026-11-11T02:25:44.004573+00:00"
       },
       "previous_target_id": "30983579",
       "prepared": {
@@ -108170,6 +108176,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-10T14:18:00.406570+00:00",
         "relay_source_id": "30111915"
+      },
+      "claim": {
+        "worker_id": "694636270bd146deaa57e58ab04565e5-shard-0",
+        "claimed_at": "2026-11-11T02:25:44.494653+00:00",
+        "lease_expires_at": "2026-11-11T08:25:44.494653+00:00",
+        "run_id": "42938376778"
       }
     },
     "34824": {
@@ -128865,17 +128877,19 @@
       }
     },
     "14899": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30992102",
+          "target_video_id": "30986863",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:25:45.316387+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30992102",
         "display_name": "My Sunny Maad (Moje slunce Mad) 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:23:33.845170+00:00"
-      },
-      "claim": {
-        "worker_id": "568293043b1c47d09359689fbba6b62f-shard-0",
-        "claimed_at": "2026-11-11T02:23:34.224287+00:00",
-        "lease_expires_at": "2026-11-11T08:23:34.224287+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986863",
       "prepared": {
@@ -128890,7 +128904,7 @@
       "last_plan": {
         "source_id": "27023916",
         "display_name": "Candidate (Kandidát) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:25:42.343835+00:00"
+        "planned_at": "2026-11-11T02:25:44.215022+00:00"
       }
     },
     "30998": {
@@ -183076,5 +183090,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:25:42.343843+00:00"
+  "updated_at": "2026-11-11T02:25:45.316397+00:00"
 }
