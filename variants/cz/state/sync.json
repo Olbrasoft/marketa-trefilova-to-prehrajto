@@ -27467,13 +27467,6 @@
           "source_id": "32448687",
           "target_video_id": "30714914",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:51:32.016478+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32448687",
-          "target_video_id": "30714914",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:36:03.076501+00:00"
         },
         {
@@ -27482,6 +27475,13 @@
           "target_video_id": "30714914",
           "permanent": false,
           "attempted_at": "2026-11-11T00:13:52.757743+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32448687",
+          "target_video_id": "30714914",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:51:27.838135+00:00"
         }
       ],
       "last_plan": {
@@ -72255,7 +72255,7 @@
       "last_plan": {
         "source_id": "27386940",
         "display_name": "A Midnight Clear 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:13:56.441936+00:00"
+        "planned_at": "2026-11-11T00:51:26.473589+00:00"
       },
       "previous_target_id": "30871996",
       "prepared": {
@@ -72263,6 +72263,12 @@
         "size_bytes": 27600000000,
         "prepared_at": "2026-11-06T22:43:18.167527+00:00",
         "relay_source_id": "27386940"
+      },
+      "claim": {
+        "worker_id": "232ac006ff864f66946a08c975ffa4de-shard-0",
+        "claimed_at": "2026-11-11T00:51:27.213011+00:00",
+        "lease_expires_at": "2026-11-11T06:51:27.213011+00:00",
+        "run_id": "42904278669"
       }
     },
     "11683": {
@@ -126985,7 +126991,7 @@
       "last_plan": {
         "source_id": "28178997",
         "display_name": "The Great Spy Chase SD CZ Dabing",
-        "planned_at": "2026-11-11T00:51:22.352218+00:00"
+        "planned_at": "2026-11-11T00:51:26.788520+00:00"
       }
     },
     "33919": {
@@ -181528,5 +181534,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:51:22.597233+00:00"
+  "updated_at": "2026-11-11T00:51:27.838157+00:00"
 }
