@@ -67749,13 +67749,6 @@
           "source_id": "34852546",
           "target_video_id": "30853531",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:38:22.922462+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34852546",
-          "target_video_id": "30853531",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:19:10.292437+00:00"
         },
         {
@@ -67764,12 +67757,19 @@
           "target_video_id": "30853531",
           "permanent": false,
           "attempted_at": "2026-11-11T06:01:44.807137+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34852546",
+          "target_video_id": "30853531",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:54:50.784604+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34852546",
         "display_name": "Julieta 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:01:41.436884+00:00"
+        "planned_at": "2026-11-11T06:54:48.609991+00:00"
       },
       "previous_target_id": "30853531",
       "prepared": {
@@ -137678,11 +137678,22 @@
       "last_plan": {
         "source_id": "30626219",
         "display_name": "The Comedian's Princess (Komediantská princezna) SD CZ Dabing",
-        "planned_at": "2026-11-11T06:54:43.302751+00:00"
+        "planned_at": "2026-11-11T06:54:48.881717+00:00"
+      },
+      "claim": {
+        "worker_id": "e3d5e200d85c49d39cd33753ec451b0c-shard-0",
+        "claimed_at": "2026-11-11T06:54:49.548553+00:00",
+        "lease_expires_at": "2026-11-11T12:54:49.548553+00:00",
+        "run_id": "42965310158"
       }
     },
     "35483": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33822104",
+        "display_name": "Rakev ve snu videti... („Rakev ve snu viděti...“) SD CZ Dabing",
+        "planned_at": "2026-11-11T06:54:49.049644+00:00"
+      }
     },
     "15730": {
       "attempts": []
@@ -190526,5 +190537,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:54:46.692945+00:00"
+  "updated_at": "2026-11-11T06:54:50.784622+00:00"
 }
