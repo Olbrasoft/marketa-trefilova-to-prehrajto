@@ -128777,17 +128777,19 @@
       "attempts": []
     },
     "22383": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35058003",
+          "target_video_id": "30986851",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:22:36.775199+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35058003",
         "display_name": "L'argent des autres (Other People's Money) 720p CZ Dabing",
         "planned_at": "2026-11-11T02:20:52.113605+00:00"
-      },
-      "claim": {
-        "worker_id": "7b6e40a4da4748b7a9ecef707c9892c6-shard-0",
-        "claimed_at": "2026-11-11T02:20:52.604648+00:00",
-        "lease_expires_at": "2026-11-11T08:20:52.604648+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986851",
       "prepared": {
@@ -183006,5 +183008,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:22:34.322209+00:00"
+  "updated_at": "2026-11-11T02:22:36.775216+00:00"
 }
