@@ -115383,7 +115383,7 @@
       "last_plan": {
         "source_id": "34858393",
         "display_name": "Street Kings 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:17:35.146076+00:00"
+        "planned_at": "2026-11-11T03:52:31.212301+00:00"
       },
       "previous_target_id": "30984643",
       "prepared": {
@@ -117129,13 +117129,6 @@
           "source_id": "34062310",
           "target_video_id": "30984806",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:07:11.286339+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34062310",
-          "target_video_id": "30984806",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:44:39.539479+00:00"
         },
         {
@@ -117144,6 +117137,13 @@
           "target_video_id": "30984806",
           "permanent": false,
           "attempted_at": "2026-11-11T03:17:35.507163+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34062310",
+          "target_video_id": "30984806",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:52:31.618958+00:00"
         }
       ],
       "last_plan": {
@@ -117157,12 +117157,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:42:09.217794+00:00",
         "relay_source_id": "34062310"
-      },
-      "claim": {
-        "worker_id": "6b6987050c6c49109c3e9a4da61b78b5-shard-0",
-        "claimed_at": "2026-11-11T03:52:29.078725+00:00",
-        "lease_expires_at": "2026-11-11T09:52:29.078725+00:00",
-        "run_id": "42938376778"
       }
     },
     "11796": {
@@ -131636,17 +131630,19 @@
       "attempts": []
     },
     "12866": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31648494",
+          "target_video_id": "30987174",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:52:31.782191+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31648494",
         "display_name": "Městečko na dlani 720p CZ Dabing",
         "planned_at": "2026-11-11T03:51:48.340360+00:00"
-      },
-      "claim": {
-        "worker_id": "8820510c2ef94f65aaa5082be86ffff6-shard-0",
-        "claimed_at": "2026-11-11T03:51:50.210574+00:00",
-        "lease_expires_at": "2026-11-11T09:51:50.210574+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987174",
       "prepared": {
@@ -131667,7 +131663,7 @@
       "last_plan": {
         "source_id": "26568103",
         "display_name": "Záku Kasíku, nezen se! (Žáku Kašíku, nežeň se!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:52:28.691897+00:00"
+        "planned_at": "2026-11-11T03:52:31.448643+00:00"
       }
     },
     "32524": {
@@ -185424,5 +185420,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:52:29.676701+00:00"
+  "updated_at": "2026-11-11T03:52:31.782202+00:00"
 }
