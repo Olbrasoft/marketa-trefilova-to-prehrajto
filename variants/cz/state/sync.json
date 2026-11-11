@@ -116742,7 +116742,7 @@
       "last_plan": {
         "source_id": "33672383",
         "display_name": "Caught Stealing 4K CZ Dabing",
-        "planned_at": "2026-11-11T01:19:22.251260+00:00"
+        "planned_at": "2026-11-11T02:00:49.688837+00:00"
       },
       "previous_target_id": "30984763",
       "prepared": {
@@ -116750,6 +116750,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-10T17:37:31.941019+00:00",
         "relay_source_id": "33672383"
+      },
+      "claim": {
+        "worker_id": "90ed95f060cd4142a54fc02c8be9f5d8-shard-0",
+        "claimed_at": "2026-11-11T02:00:50.468852+00:00",
+        "lease_expires_at": "2026-11-11T08:00:50.468852+00:00",
+        "run_id": "42904278669"
       }
     },
     "3026": {
@@ -128293,17 +128299,19 @@
       "attempts": []
     },
     "27466": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "20637372",
+          "target_video_id": "30986757",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:00:51.864469+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "20637372",
         "display_name": "Totally True Love 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:59:12.645917+00:00"
-      },
-      "claim": {
-        "worker_id": "d9c984d7f8fc40fba58f919ac42ee6d3-shard-0",
-        "claimed_at": "2026-11-11T01:59:14.799427+00:00",
-        "lease_expires_at": "2026-11-11T07:59:14.799427+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986757",
       "prepared": {
@@ -128342,7 +128350,7 @@
       "last_plan": {
         "source_id": "34026360",
         "display_name": "Aïlo: An Odyssey in Lapland (Aïlo : Une odyssée en Laponie) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:00:44.390257+00:00"
+        "planned_at": "2026-11-11T02:00:50.011078+00:00"
       }
     },
     "35446": {
@@ -182627,5 +182635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:00:46.242295+00:00"
+  "updated_at": "2026-11-11T02:00:51.864488+00:00"
 }
