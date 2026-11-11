@@ -114147,13 +114147,6 @@
           "source_id": "28048905",
           "target_video_id": "30984162",
           "permanent": false,
-          "attempted_at": "2026-11-11T10:12:28.809137+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28048905",
-          "target_video_id": "30984162",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:17:59.381814+00:00"
         },
         {
@@ -114162,6 +114155,13 @@
           "target_video_id": "30984162",
           "permanent": false,
           "attempted_at": "2026-11-11T14:34:13.512465+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28048905",
+          "target_video_id": "30984162",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:55:59.927245+00:00"
         }
       ],
       "last_plan": {
@@ -140783,7 +140783,7 @@
       "last_plan": {
         "source_id": "29201504",
         "display_name": "Průlom SD CZ Dabing",
-        "planned_at": "2026-11-11T14:34:12.070488+00:00"
+        "planned_at": "2026-11-11T15:55:58.592709+00:00"
       },
       "previous_target_id": "30988227",
       "prepared": {
@@ -140791,6 +140791,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T07:54:44.217051+00:00",
         "relay_source_id": "29201504"
+      },
+      "claim": {
+        "worker_id": "411dcdfd362e4074875d60311e1faecd-shard-0",
+        "claimed_at": "2026-11-11T15:55:59.513265+00:00",
+        "lease_expires_at": "2026-11-11T21:55:59.513265+00:00",
+        "run_id": "43011363893"
       }
     },
     "15578": {
@@ -144908,7 +144914,7 @@
       "last_plan": {
         "source_id": "34675957",
         "display_name": "The Klapzuba's Eleven (Klapzubova XI.) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:55:56.348062+00:00"
+        "planned_at": "2026-11-11T15:55:58.931974+00:00"
       }
     },
     "31594": {
@@ -196790,5 +196796,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:55:56.641213+00:00"
+  "updated_at": "2026-11-11T15:55:59.927265+00:00"
 }
