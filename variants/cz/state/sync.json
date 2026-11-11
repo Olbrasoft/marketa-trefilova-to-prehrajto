@@ -108838,13 +108838,6 @@
           "source_id": "30219473",
           "target_video_id": "30983642",
           "permanent": false,
-          "attempted_at": "2026-11-11T09:32:38.654378+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30219473",
-          "target_video_id": "30983642",
-          "permanent": false,
           "attempted_at": "2026-11-11T12:45:20.705430+00:00"
         },
         {
@@ -108853,6 +108846,13 @@
           "target_video_id": "30983642",
           "permanent": false,
           "attempted_at": "2026-11-11T13:58:03.948171+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30219473",
+          "target_video_id": "30983642",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:18:29.435342+00:00"
         }
       ],
       "last_plan": {
@@ -134278,7 +134278,7 @@
       "last_plan": {
         "source_id": "30160695",
         "display_name": "Burglar and Umbrella (Pěnička a Paraplíčko) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:58:02.250250+00:00"
+        "planned_at": "2026-11-11T15:18:27.221764+00:00"
       },
       "previous_target_id": "30987505",
       "prepared": {
@@ -134286,6 +134286,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T05:02:30.309521+00:00",
         "relay_source_id": "30160695"
+      },
+      "claim": {
+        "worker_id": "fa010b9c30b84855bfb5a25f3413becf-shard-0",
+        "claimed_at": "2026-11-11T15:18:28.763896+00:00",
+        "lease_expires_at": "2026-11-11T21:18:28.763896+00:00",
+        "run_id": "43011363893"
       }
     },
     "28890": {
@@ -144748,7 +144754,7 @@
       "last_plan": {
         "source_id": "24347395",
         "display_name": "Lucky Loser (Šťastný smolař) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:18:24.384201+00:00"
+        "planned_at": "2026-11-11T15:18:28.008605+00:00"
       }
     },
     "12668": {
@@ -196660,5 +196666,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:18:24.888356+00:00"
+  "updated_at": "2026-11-11T15:18:29.435359+00:00"
 }
