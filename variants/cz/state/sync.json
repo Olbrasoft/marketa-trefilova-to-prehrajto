@@ -108179,13 +108179,6 @@
           "source_id": "34783018",
           "target_video_id": "30983586",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:03:58.351525+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34783018",
-          "target_video_id": "30983586",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:44:54.760869+00:00"
         },
         {
@@ -108194,6 +108187,13 @@
           "target_video_id": "30983586",
           "permanent": false,
           "attempted_at": "2026-11-11T00:22:31.570161+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34783018",
+          "target_video_id": "30983586",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:03:29.368076+00:00"
         }
       ],
       "last_plan": {
@@ -108207,12 +108207,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T14:18:43.524719+00:00",
         "relay_source_id": "34783018"
-      },
-      "claim": {
-        "worker_id": "68c658a84c6d4665ba8057ac4b06a1d6-shard-0",
-        "claimed_at": "2026-11-11T01:03:24.384836+00:00",
-        "lease_expires_at": "2026-11-11T07:03:24.384836+00:00",
-        "run_id": "42904278669"
       }
     },
     "24189": {
@@ -108279,7 +108273,7 @@
       "last_plan": {
         "source_id": "29867066",
         "display_name": "Revizor (1933) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:22:30.197580+00:00"
+        "planned_at": "2026-11-11T01:03:26.840655+00:00"
       },
       "previous_target_id": "30983587",
       "prepared": {
@@ -108287,6 +108281,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:18:45.157766+00:00",
         "relay_source_id": "29867066"
+      },
+      "claim": {
+        "worker_id": "df9d1f69c40548cfaad3dca879f952c2-shard-0",
+        "claimed_at": "2026-11-11T01:03:27.562453+00:00",
+        "lease_expires_at": "2026-11-11T07:03:27.562453+00:00",
+        "run_id": "42904278669"
       }
     },
     "31159": {
@@ -127196,7 +127196,7 @@
       "last_plan": {
         "source_id": "14705539",
         "display_name": "Valan: Valley of Angels (Valan - Az angyalok völgye) 720p CZ Dabing",
-        "planned_at": "2026-11-11T01:03:23.820326+00:00"
+        "planned_at": "2026-11-11T01:03:27.165339+00:00"
       }
     },
     "29329": {
@@ -181697,5 +181697,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:03:24.384863+00:00"
+  "updated_at": "2026-11-11T01:03:29.368098+00:00"
 }
