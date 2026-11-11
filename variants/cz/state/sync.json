@@ -61150,6 +61150,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-05T04:07:55.290331+00:00",
         "relay_source_id": "27476888"
+      },
+      "claim": {
+        "worker_id": "f99bbc9198314a05b97324e5cc7ac45c-shard-0",
+        "claimed_at": "2026-11-11T04:38:49.535985+00:00",
+        "lease_expires_at": "2026-11-11T10:38:49.535985+00:00",
+        "run_id": "42938376778"
       }
     },
     "28711": {
@@ -61533,13 +61539,6 @@
           "source_id": "31555891",
           "target_video_id": "30804386",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:51:48.153132+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31555891",
-          "target_video_id": "30804386",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:24:26.023436+00:00"
         },
         {
@@ -61548,6 +61547,13 @@
           "target_video_id": "30804386",
           "permanent": false,
           "attempted_at": "2026-11-11T04:00:09.329097+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31555891",
+          "target_video_id": "30804386",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:38:49.670656+00:00"
         }
       ],
       "last_plan": {
@@ -61561,12 +61567,6 @@
         "size_bytes": 6700000000,
         "prepared_at": "2026-11-05T04:52:04.099418+00:00",
         "relay_source_id": "31555891"
-      },
-      "claim": {
-        "worker_id": "3e5892fb69894c76bf27f4c2b637dc4d-shard-0",
-        "claimed_at": "2026-11-11T04:38:46.324129+00:00",
-        "lease_expires_at": "2026-11-11T10:38:46.324129+00:00",
-        "run_id": "42938376778"
       }
     },
     "2079": {
@@ -107549,7 +107549,7 @@
       "last_plan": {
         "source_id": "31501454",
         "display_name": "Of Parents and Children (O rodičích a dětech) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:00:13.100798+00:00"
+        "planned_at": "2026-11-11T04:38:49.831587+00:00"
       },
       "previous_target_id": "30983493",
       "prepared": {
@@ -133087,7 +133087,7 @@
       "last_plan": {
         "source_id": "35418778",
         "display_name": "Murder in the Somme (Le Vagabond de la Baie de Somme) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:38:48.013238+00:00"
+        "planned_at": "2026-11-11T04:38:50.037655+00:00"
       }
     },
     "31845": {
@@ -186613,5 +186613,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:38:48.013247+00:00"
+  "updated_at": "2026-11-11T04:38:50.037664+00:00"
 }
