@@ -110201,7 +110201,7 @@
       "last_plan": {
         "source_id": "30715852",
         "display_name": "War Correspondent (Válečný zpravodaj) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:46:08.704706+00:00"
+        "planned_at": "2026-11-11T05:25:11.569629+00:00"
       },
       "previous_target_id": "30983753",
       "prepared": {
@@ -110209,6 +110209,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T14:44:05.857438+00:00",
         "relay_source_id": "30715852"
+      },
+      "claim": {
+        "worker_id": "df1baf61249e4300a617cadaee3e2590-shard-0",
+        "claimed_at": "2026-11-11T05:25:12.626894+00:00",
+        "lease_expires_at": "2026-11-11T11:25:12.626894+00:00",
+        "run_id": "42938376778"
       }
     },
     "11774": {
@@ -134535,17 +134541,19 @@
       "attempts": []
     },
     "13239": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29184927",
+          "target_video_id": "30987609",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:25:13.710927+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29184927",
         "display_name": "Pára nad hrncem SD CZ Dabing",
         "planned_at": "2026-11-11T05:24:31.579162+00:00"
-      },
-      "claim": {
-        "worker_id": "6f4d399e772344bab378b35d1ab11a25-shard-0",
-        "claimed_at": "2026-11-11T05:24:31.953580+00:00",
-        "lease_expires_at": "2026-11-11T11:24:31.953580+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987609",
       "prepared": {
@@ -134560,7 +134568,7 @@
       "last_plan": {
         "source_id": "12050581",
         "display_name": "O moudré Sorfarine SD CZ Dabing",
-        "planned_at": "2026-11-11T05:25:07.562846+00:00"
+        "planned_at": "2026-11-11T05:25:12.085307+00:00"
       }
     },
     "29360": {
@@ -187888,5 +187896,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:25:09.499486+00:00"
+  "updated_at": "2026-11-11T05:25:13.710941+00:00"
 }
