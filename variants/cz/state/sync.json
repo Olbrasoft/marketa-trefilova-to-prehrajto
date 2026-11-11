@@ -37278,13 +37278,6 @@
           "source_id": "12181949",
           "target_video_id": "30743906",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:56:35.954880+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "30743906",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:34:55.310952+00:00"
         },
         {
@@ -37293,6 +37286,13 @@
           "target_video_id": "30743906",
           "permanent": false,
           "attempted_at": "2026-11-11T05:15:16.254561+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "30743906",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:57:16.665335+00:00"
         }
       ],
       "last_plan": {
@@ -37306,12 +37306,6 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
-      },
-      "claim": {
-        "worker_id": "0cdcae749b08448880c30437f0301158-shard-0",
-        "claimed_at": "2026-11-11T05:57:11.860055+00:00",
-        "lease_expires_at": "2026-11-11T11:57:11.860055+00:00",
-        "run_id": "42938376778"
       }
     },
     "35068": {
@@ -56180,6 +56174,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-04T11:30:22.230138+00:00",
         "relay_source_id": "31203013"
+      },
+      "claim": {
+        "worker_id": "7557adda4a13425eaccc4f986f52efc6-shard-0",
+        "claimed_at": "2026-11-11T05:57:15.825617+00:00",
+        "lease_expires_at": "2026-11-11T11:57:15.825617+00:00",
+        "run_id": "42938376778"
       }
     },
     "1377": {
@@ -123853,7 +123853,7 @@
       "last_plan": {
         "source_id": "10827431",
         "display_name": "Finding Your Feet 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:15:17.887089+00:00"
+        "planned_at": "2026-11-11T05:57:15.996679+00:00"
       },
       "previous_target_id": "30985726",
       "prepared": {
@@ -123861,6 +123861,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T21:31:25.000011+00:00",
         "relay_source_id": "10827431"
+      },
+      "claim": {
+        "worker_id": "dd823f7ab74b4312bff5cebcd127a665-shard-0",
+        "claimed_at": "2026-11-11T05:57:16.469919+00:00",
+        "lease_expires_at": "2026-11-11T11:57:16.469919+00:00",
+        "run_id": "42938376778"
       }
     },
     "21072": {
@@ -135706,7 +135712,7 @@
       "last_plan": {
         "source_id": "33063567",
         "display_name": "Anny 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:57:12.238696+00:00"
+        "planned_at": "2026-11-11T05:57:16.206006+00:00"
       }
     },
     "15334": {
@@ -188871,5 +188877,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:57:12.238704+00:00"
+  "updated_at": "2026-11-11T05:57:16.665345+00:00"
 }
