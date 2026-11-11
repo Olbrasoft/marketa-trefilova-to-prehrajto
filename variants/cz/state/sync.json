@@ -121730,13 +121730,6 @@
           "source_id": "27099387",
           "target_video_id": "30985431",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:06:53.670533+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27099387",
-          "target_video_id": "30985431",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:44:18.371541+00:00"
         },
         {
@@ -121745,6 +121738,13 @@
           "target_video_id": "30985431",
           "permanent": false,
           "attempted_at": "2026-11-11T03:17:14.436239+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27099387",
+          "target_video_id": "30985431",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:52:12.753260+00:00"
         }
       ],
       "last_plan": {
@@ -121758,12 +121758,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T19:16:16.465537+00:00",
         "relay_source_id": "27099387"
-      },
-      "claim": {
-        "worker_id": "212073aa38374da0a83a03e0b2d5581d-shard-0",
-        "claimed_at": "2026-11-11T03:52:09.573464+00:00",
-        "lease_expires_at": "2026-11-11T09:52:09.573464+00:00",
-        "run_id": "42938376778"
       }
     },
     "35695": {
@@ -130088,7 +130082,7 @@
       "last_plan": {
         "source_id": "30261994",
         "display_name": "Nightline (Promlčeno) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:17:13.718455+00:00"
+        "planned_at": "2026-11-11T03:52:12.031245+00:00"
       },
       "previous_target_id": "30986930",
       "prepared": {
@@ -130096,6 +130090,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T02:43:15.360689+00:00",
         "relay_source_id": "30261994"
+      },
+      "claim": {
+        "worker_id": "03593048e8e74c3ea0a0b7603bbf877f-shard-0",
+        "claimed_at": "2026-11-11T03:52:12.487576+00:00",
+        "lease_expires_at": "2026-11-11T09:52:12.487576+00:00",
+        "run_id": "42938376778"
       }
     },
     "13847": {
@@ -131660,7 +131660,7 @@
       "last_plan": {
         "source_id": "26568103",
         "display_name": "Záku Kasíku, nezen se! (Žáku Kašíku, nežeň se!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:52:09.324249+00:00"
+        "planned_at": "2026-11-11T03:52:12.240110+00:00"
       }
     },
     "32524": {
@@ -185417,5 +185417,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:52:10.536982+00:00"
+  "updated_at": "2026-11-11T03:52:12.753270+00:00"
 }
