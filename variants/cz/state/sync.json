@@ -109060,6 +109060,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:31:20.506954+00:00",
         "relay_source_id": "9978707"
+      },
+      "claim": {
+        "worker_id": "77ed7a38e33c439d8ba45c55bedf66a5-shard-0",
+        "claimed_at": "2026-11-11T00:01:14.543377+00:00",
+        "lease_expires_at": "2026-11-11T06:01:14.543377+00:00",
+        "run_id": "42904278669"
       }
     },
     "13053": {
@@ -121653,13 +121659,6 @@
           "source_id": "30647033",
           "target_video_id": "30985429",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:59:31.662820+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30647033",
-          "target_video_id": "30985429",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:40:07.245411+00:00"
         },
         {
@@ -121668,6 +121667,13 @@
           "target_video_id": "30985429",
           "permanent": false,
           "attempted_at": "2026-11-10T23:23:25.206848+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30647033",
+          "target_video_id": "30985429",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:01:14.738745+00:00"
         }
       ],
       "last_plan": {
@@ -121681,12 +121687,6 @@
         "size_bytes": 18600000000,
         "prepared_at": "2026-11-10T19:15:27.659735+00:00",
         "relay_source_id": "30647033"
-      },
-      "claim": {
-        "worker_id": "06990e1ce73c4a74975e6f77b174c840-shard-0",
-        "claimed_at": "2026-11-11T00:01:11.264539+00:00",
-        "lease_expires_at": "2026-11-11T06:01:11.264539+00:00",
-        "run_id": "42904278669"
       }
     },
     "11818": {
@@ -126227,7 +126227,7 @@
       "last_plan": {
         "source_id": "34673496",
         "display_name": "Death of a Corrupt Man (Mort d'un pourri) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:01:09.409943+00:00"
+        "planned_at": "2026-11-11T00:01:14.108861+00:00"
       }
     },
     "28601": {
@@ -180923,5 +180923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:01:11.681255+00:00"
+  "updated_at": "2026-11-11T00:01:14.738768+00:00"
 }
