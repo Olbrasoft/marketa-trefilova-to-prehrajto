@@ -37306,6 +37306,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
+      },
+      "claim": {
+        "worker_id": "14ecae66b0ba409bb4a834226458ebc0-shard-0",
+        "claimed_at": "2026-11-11T03:56:32.644339+00:00",
+        "lease_expires_at": "2026-11-11T09:56:32.644339+00:00",
+        "run_id": "42938376778"
       }
     },
     "35068": {
@@ -56166,7 +56172,7 @@
       "last_plan": {
         "source_id": "31203013",
         "display_name": "Good Luck to You, Leo Grande 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:21:11.991621+00:00"
+        "planned_at": "2026-11-11T03:56:32.810297+00:00"
       },
       "previous_target_id": "30784627",
       "prepared": {
@@ -125741,13 +125747,6 @@
           "source_id": "34488867",
           "target_video_id": "30986177",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:14:46.557827+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34488867",
-          "target_video_id": "30986177",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:48:39.543862+00:00"
         },
         {
@@ -125756,6 +125755,13 @@
           "target_video_id": "30986177",
           "permanent": false,
           "attempted_at": "2026-11-11T03:21:10.299901+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34488867",
+          "target_video_id": "30986177",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:56:32.510612+00:00"
         }
       ],
       "last_plan": {
@@ -125769,12 +125775,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T23:31:50.973355+00:00",
         "relay_source_id": "34488867"
-      },
-      "claim": {
-        "worker_id": "2ed5511285334ae79bc0efceef38664f-shard-0",
-        "claimed_at": "2026-11-11T03:56:29.086611+00:00",
-        "lease_expires_at": "2026-11-11T09:56:29.086611+00:00",
-        "run_id": "42938376778"
       }
     },
     "29116": {
@@ -131743,7 +131743,7 @@
       "last_plan": {
         "source_id": "30251989",
         "display_name": "Order (Řád) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:56:30.906619+00:00"
+        "planned_at": "2026-11-11T03:56:33.016169+00:00"
       }
     },
     "31944": {
@@ -185494,5 +185494,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:56:30.906629+00:00"
+  "updated_at": "2026-11-11T03:56:33.016178+00:00"
 }
