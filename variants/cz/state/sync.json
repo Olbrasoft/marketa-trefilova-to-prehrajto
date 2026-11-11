@@ -145630,17 +145630,19 @@
       }
     },
     "12745": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34676251",
+          "target_video_id": "30993498",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:09:15.044080+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34676251",
         "display_name": "O. K., Leave It to Me, Boss...! („Já to tedy beru, šéfe...!“) 1080p CZ Dabing",
         "planned_at": "2026-11-11T19:57:02.956784+00:00"
-      },
-      "claim": {
-        "worker_id": "6b2ef86b351b4f1489a6112dbbe17703-shard-0",
-        "claimed_at": "2026-11-11T19:57:03.644303+00:00",
-        "lease_expires_at": "2026-11-12T01:57:03.644303+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30993498",
       "prepared": {
@@ -197405,5 +197407,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:09:13.132122+00:00"
+  "updated_at": "2026-11-11T20:09:15.044102+00:00"
 }
