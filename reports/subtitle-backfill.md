@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T18:34:48.925400+00:00
+Poslední aktualizace (UTC): 2026-11-11T18:34:50.972092+00:00
 
 Zkontrolováno videí: 644. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 68, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 69, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -87,6 +87,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 79. Důvod
 | [Generation Iron 720p CZ Titulky](https://prehraj.to/generation-iron-720p-cz-titulky-mkv/da434438aecaa89f) (ID 30992304) | [Sdílej 22898145](https://sdilej.cz/22898145/generation-iron.mkv) | target_unavailable | 2026-11-11T17:24:52.699436+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-10T09:50:13.007331+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-10T09:49:37.027203+00:00 |
+| [Harrison's Flowers SD CZ Titulky](https://prehraj.to/harrison-s-flowers-sd-cz-titulky-mkv/b113fd605d829de3) (ID 30992832) | [Sdílej 27735775](https://sdilej.cz/27735775/harrisonovy-kvety-harrison-s-flowers-2000-cz-tit.mkv) | target_unavailable | 2026-11-11T18:34:50.841602+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-10T09:40:23.621394+00:00 |
 | [I Am Bolt SD CZ Titulky](https://prehraj.to/i-am-bolt-sd-cz-titulky-mkv/150f3b94081bd3d1) (ID 30984744) | [Sdílej 7004752](https://sdilej.cz/7004752/i-am-bolt-2016-titulky.cz.mkv) | target_unavailable | 2026-11-10T17:37:34.750684+00:00 |
 | [I Dutifully Report (Poslušně hlásím) 1080p CZ Titulky](https://prehraj.to/i-dutifully-report-poslusne-hlasim-1080p-cz-titulky-0-digitally-remastered/3166c21fffe2a24f) (ID 30989692) | [Sdílej 27431239](https://sdilej.cz/27431239/svejk-2-poslusne-hlasim-1958-96-min-fhd-x264-2.0-cs-.mkv) | target_unavailable | 2026-11-11T12:08:06.216153+00:00 |
