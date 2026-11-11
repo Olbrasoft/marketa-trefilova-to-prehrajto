@@ -109186,13 +109186,6 @@
           "source_id": "34712454",
           "target_video_id": "30983676",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:21:30.057610+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34712454",
-          "target_video_id": "30983676",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:04:22.533123+00:00"
         },
         {
@@ -109201,12 +109194,19 @@
           "target_video_id": "30983676",
           "permanent": false,
           "attempted_at": "2026-11-11T02:42:15.262303+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34712454",
+          "target_video_id": "30983676",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:15:00.878952+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34712454",
         "display_name": "Jack London, une aventure américaine (Jack London, An American Original) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:42:11.872437+00:00"
+        "planned_at": "2026-11-11T03:14:58.482957+00:00"
       },
       "previous_target_id": "30983676",
       "prepared": {
@@ -130438,7 +130438,13 @@
       "last_plan": {
         "source_id": "29470532",
         "display_name": "Meurtres à Valbonne (Mémoires à vif) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:14:54.730260+00:00"
+        "planned_at": "2026-11-11T03:14:58.691906+00:00"
+      },
+      "claim": {
+        "worker_id": "2d6084702cb84e4c8d5321659cf1073b-shard-0",
+        "claimed_at": "2026-11-11T03:14:59.189616+00:00",
+        "lease_expires_at": "2026-11-11T09:14:59.189616+00:00",
+        "run_id": "42938376778"
       }
     },
     "31276": {
@@ -130457,7 +130463,12 @@
       "attempts": []
     },
     "17603": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34696372",
+        "display_name": "Pat a Mat again in action (Pat & Mat znovu v akci) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T03:14:58.820824+00:00"
+      }
     },
     "29094": {
       "attempts": []
@@ -184399,5 +184410,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:14:56.659338+00:00"
+  "updated_at": "2026-11-11T03:15:00.878962+00:00"
 }
