@@ -120839,13 +120839,6 @@
           "source_id": "33730801",
           "target_video_id": "30985060",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:57:08.167446+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33730801",
-          "target_video_id": "30985060",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:14:11.452457+00:00"
         },
         {
@@ -120854,6 +120847,13 @@
           "target_video_id": "30985060",
           "permanent": false,
           "attempted_at": "2026-11-11T15:32:12.115233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33730801",
+          "target_video_id": "30985060",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:04:12.938623+00:00"
         }
       ],
       "last_plan": {
@@ -120867,12 +120867,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:46:03.380991+00:00",
         "relay_source_id": "33730801"
-      },
-      "claim": {
-        "worker_id": "494e79ce35164b7cbee9209d4ba04ccc-shard-0",
-        "claimed_at": "2026-11-11T18:04:09.307786+00:00",
-        "lease_expires_at": "2026-11-12T00:04:09.307786+00:00",
-        "run_id": "43067513109"
       }
     },
     "11205": {
@@ -136374,7 +136368,7 @@
       "last_plan": {
         "source_id": "15441977",
         "display_name": "Jacob, Mimmi and the Talking Dogs (Jēkabs, Mimmi un runājošie suņi) 720p CZ Dabing",
-        "planned_at": "2026-11-11T15:32:10.907935+00:00"
+        "planned_at": "2026-11-11T18:04:11.501736+00:00"
       },
       "previous_target_id": "30987740",
       "prepared": {
@@ -136382,6 +136376,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T05:51:39.961282+00:00",
         "relay_source_id": "15441977"
+      },
+      "claim": {
+        "worker_id": "8c90ff0515af4de38e8deaf7b8a6307a-shard-0",
+        "claimed_at": "2026-11-11T18:04:11.950115+00:00",
+        "lease_expires_at": "2026-11-12T00:04:11.950115+00:00",
+        "run_id": "43067513109"
       }
     },
     "24067": {
@@ -145137,7 +145137,7 @@
       "last_plan": {
         "source_id": "28089630",
         "display_name": "The Pearl Maiden (O perlové panně) SD CZ Dabing",
-        "planned_at": "2026-11-11T18:04:09.037937+00:00"
+        "planned_at": "2026-11-11T18:04:11.710690+00:00"
       }
     },
     "4314": {
@@ -196962,5 +196962,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:04:09.981900+00:00"
+  "updated_at": "2026-11-11T18:04:12.938650+00:00"
 }
