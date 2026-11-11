@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-11T06:58:06.722983+00:00
+Poslední aktualizace (UTC): 2026-11-11T06:58:09.654411+00:00
 
 Zkontrolováno videí: 626. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 51, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 502, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 52, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -72,6 +72,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 58. Důvod
 | [A Quiet Place: Part II (A Quiet Place Part II) 4K CZ Titulky](https://prehraj.to/a-quiet-place-part-ii-a-quiet-place-part-ii-4k-cz-titulky-mkv/c31f7fd8bdaedbc6) (ID 30855593) | [Sdílej 23371789](https://sdilej.cz/23371789/a-quiet-place-part-ii-2020-tiche-misto-cast-ii-bluray-uhd-4k-2160p-hevc-h-265-en-aac-7-1-titulky-cz.mkv) | target_unavailable | 2026-11-10T09:49:44.329086+00:00 |
 | [Arthur the King 1080p CZ Titulky](https://prehraj.to/arthur-the-king-1080p-cz-titulky-mkv/81358047462d64ac) (ID 30984204) | [Sdílej 28930526](https://sdilej.cz/28930526/arthur-the-king-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-10T15:46:48.481034+00:00 |
 | [Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky](https://prehraj.to/battle-for-sevastopol-1080p-cz-titulky-mkv/6e49c046f24775f4) (ID 30987870) | [Sdílej 12196905](https://sdilej.cz/12196905/bitva-o-sevastopol-battle-for-sevastopol-2015-titulky.cz-1080p-dts.mkv) | target_unavailable | 2026-11-11T06:37:56.869676+00:00 |
+| [Beavis and Butt-Head Do the Universe 1080p CZ Titulky](https://prehraj.to/beavis-and-butt-head-do-the-universe-1080p-cz-titulky-mkv/c2aab892b0bc65e3) (ID 30987932) | [Sdílej 23076909](https://sdilej.cz/23076909/beavis-and-butt-head-do-the-universe-2022-1080p.mkv) | target_unavailable | 2026-11-11T06:58:08.497285+00:00 |
 | [Blue Jasmine 1080p CZ Titulky](https://prehraj.to/blue-jasmine-1080p-cz-titulky-mp4/128065231f04a621) (ID 30790802) | [Sdílej 22631501](https://sdilej.cz/22631501/jasmininy-slzy-1080p-hd-.mp4) | upload_unconfirmed | 2026-11-10T09:40:09.337984+00:00 |
 | [Border (Gräns) 1080p CZ Titulky](https://prehraj.to/border-graens-1080p-cz-titulky-mkv/d88637eb60db39ce) (ID 30984466) | [Sdílej 11267704](https://sdilej.cz/11267704/apvral-border.1080p-1-.mkv) | target_unavailable | 2026-11-10T16:37:10.499800+00:00 |
 | [Braveheart 4K CZ Titulky](https://prehraj.to/braveheart-cz-titulky-mkv/10f7acffe0116d49) (ID 30597835) | [Sdílej 33013175](https://sdilej.cz/33013175/braveheart-1995-2160p-en-truehd-radecek.mkv) | target_unavailable | 2026-11-10T09:40:35.834184+00:00 |
