@@ -143896,17 +143896,19 @@
       }
     },
     "26278": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29250484",
+          "target_video_id": "30990243",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:17:24.080451+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29250484",
         "display_name": "Party Hard 1080p CZ Dabing",
         "planned_at": "2026-11-11T13:15:06.378872+00:00"
-      },
-      "claim": {
-        "worker_id": "036dd43a4a1d4bada2f5ac93c7b00501-shard-0",
-        "claimed_at": "2026-11-11T13:15:07.616405+00:00",
-        "lease_expires_at": "2026-11-11T19:15:07.616405+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990243",
       "prepared": {
@@ -195965,5 +195967,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:17:22.265501+00:00"
+  "updated_at": "2026-11-11T13:17:24.080468+00:00"
 }
