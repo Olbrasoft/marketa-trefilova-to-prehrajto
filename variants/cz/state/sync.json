@@ -121206,13 +121206,6 @@
           "source_id": "31294628",
           "target_video_id": "30985390",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:17:29.517538+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31294628",
-          "target_video_id": "30985390",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:15:22.966640+00:00"
         },
         {
@@ -121221,6 +121214,13 @@
           "target_video_id": "30985390",
           "permanent": false,
           "attempted_at": "2026-11-11T09:19:43.367357+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31294628",
+          "target_video_id": "30985390",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:30:19.533862+00:00"
         }
       ],
       "last_plan": {
@@ -126373,7 +126373,7 @@
       "last_plan": {
         "source_id": "28796138",
         "display_name": "Standing Up SD CZ Dabing",
-        "planned_at": "2026-11-11T09:19:43.649118+00:00"
+        "planned_at": "2026-11-11T12:30:17.848413+00:00"
       },
       "previous_target_id": "30986272",
       "prepared": {
@@ -126381,6 +126381,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T23:50:50.445609+00:00",
         "relay_source_id": "28796138"
+      },
+      "claim": {
+        "worker_id": "0c7433e6822249229354a10bc964274b-shard-0",
+        "claimed_at": "2026-11-11T12:30:18.777775+00:00",
+        "lease_expires_at": "2026-11-11T18:30:18.777775+00:00",
+        "run_id": "43011363893"
       }
     },
     "22932": {
@@ -143272,7 +143278,7 @@
       "last_plan": {
         "source_id": "25217823",
         "display_name": "In Love SD CZ Dabing",
-        "planned_at": "2026-11-11T12:30:14.501350+00:00"
+        "planned_at": "2026-11-11T12:30:18.222472+00:00"
       }
     },
     "14419": {
@@ -195384,5 +195390,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:30:14.501366+00:00"
+  "updated_at": "2026-11-11T12:30:19.533876+00:00"
 }
