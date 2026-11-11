@@ -131901,13 +131901,6 @@
           "source_id": "33817063",
           "target_video_id": "30987134",
           "permanent": false,
-          "attempted_at": "2026-11-11T09:29:28.088522+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33817063",
-          "target_video_id": "30987134",
-          "permanent": false,
           "attempted_at": "2026-11-11T12:42:47.881671+00:00"
         },
         {
@@ -131916,6 +131909,13 @@
           "target_video_id": "30987134",
           "permanent": false,
           "attempted_at": "2026-11-11T13:55:14.930171+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33817063",
+          "target_video_id": "30987134",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:16:05.136738+00:00"
         }
       ],
       "last_plan": {
@@ -137831,7 +137831,7 @@
       "last_plan": {
         "source_id": "34788286",
         "display_name": "Slasti Otce vlasti 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:55:14.487731+00:00"
+        "planned_at": "2026-11-11T15:16:03.723360+00:00"
       },
       "previous_target_id": "30987867",
       "prepared": {
@@ -137839,6 +137839,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-11T06:30:26.722400+00:00",
         "relay_source_id": "34788286"
+      },
+      "claim": {
+        "worker_id": "06b85459d0e242f3a2fb8216dcd21a6b-shard-0",
+        "claimed_at": "2026-11-11T15:16:04.542112+00:00",
+        "lease_expires_at": "2026-11-11T21:16:04.542112+00:00",
+        "run_id": "43011363893"
       }
     },
     "15943": {
@@ -144748,7 +144754,7 @@
       "last_plan": {
         "source_id": "24347395",
         "display_name": "Lucky Loser (Šťastný smolař) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:16:01.755464+00:00"
+        "planned_at": "2026-11-11T15:16:04.070518+00:00"
       }
     },
     "12668": {
@@ -196660,5 +196666,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:16:01.755481+00:00"
+  "updated_at": "2026-11-11T15:16:05.136753+00:00"
 }
