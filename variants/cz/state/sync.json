@@ -111180,13 +111180,6 @@
           "source_id": "34714367",
           "target_video_id": "30983810",
           "permanent": false,
-          "attempted_at": "2026-11-11T18:47:02.135845+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34714367",
-          "target_video_id": "30983810",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:03:18.390966+00:00"
         },
         {
@@ -111195,6 +111188,13 @@
           "target_video_id": "30983810",
           "permanent": false,
           "attempted_at": "2026-11-11T21:14:00.295173+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714367",
+          "target_video_id": "30983810",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:49:55.696814+00:00"
         }
       ],
       "last_plan": {
@@ -111208,12 +111208,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T14:52:05.549486+00:00",
         "relay_source_id": "34714367"
-      },
-      "claim": {
-        "worker_id": "634c6ff7c2d7413a874532495ac399b5-shard-0",
-        "claimed_at": "2026-11-11T22:49:52.313678+00:00",
-        "lease_expires_at": "2026-11-12T04:49:52.313678+00:00",
-        "run_id": "43102571398"
       }
     },
     "33917": {
@@ -125256,7 +125250,7 @@
       "last_plan": {
         "source_id": "27529281",
         "display_name": "Danny Deckchair 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:14:01.837558+00:00"
+        "planned_at": "2026-11-11T22:49:54.727115+00:00"
       },
       "previous_target_id": "30985893",
       "prepared": {
@@ -125264,6 +125258,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T22:27:48.871952+00:00",
         "relay_source_id": "27529281"
+      },
+      "claim": {
+        "worker_id": "b5f2cd1fe0e1439a8d7fcdbdd92811ca-shard-0",
+        "claimed_at": "2026-11-11T22:49:55.448284+00:00",
+        "lease_expires_at": "2026-11-12T04:49:55.448284+00:00",
+        "run_id": "43102571398"
       }
     },
     "2916": {
@@ -146210,7 +146210,7 @@
       "last_plan": {
         "source_id": "33856066",
         "display_name": "Jan Palach 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:49:51.856617+00:00"
+        "planned_at": "2026-11-11T22:49:55.052944+00:00"
       }
     },
     "10711": {
@@ -197849,5 +197849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:49:53.070978+00:00"
+  "updated_at": "2026-11-11T22:49:55.696837+00:00"
 }
