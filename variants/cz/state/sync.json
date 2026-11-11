@@ -110793,13 +110793,6 @@
           "source_id": "28004879",
           "target_video_id": "30983794",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:11:56.734888+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28004879",
-          "target_video_id": "30983794",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:08:27.553233+00:00"
         },
         {
@@ -110808,6 +110801,13 @@
           "target_video_id": "30983794",
           "permanent": false,
           "attempted_at": "2026-11-11T08:05:19.178059+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28004879",
+          "target_video_id": "30983794",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:07:05.566217+00:00"
         }
       ],
       "last_plan": {
@@ -110853,7 +110853,7 @@
       "last_plan": {
         "source_id": "26697838",
         "display_name": "Smích se lepí na paty 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:05:18.502094+00:00"
+        "planned_at": "2026-11-11T09:07:04.317298+00:00"
       },
       "previous_target_id": "30983795",
       "prepared": {
@@ -110861,6 +110861,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T14:49:23.310628+00:00",
         "relay_source_id": "26697838"
+      },
+      "claim": {
+        "worker_id": "273b10e32acc4accb5a56dd335ce8fe8-shard-0",
+        "claimed_at": "2026-11-11T09:07:04.968509+00:00",
+        "lease_expires_at": "2026-11-11T15:07:04.968509+00:00",
+        "run_id": "42965310158"
       }
     },
     "33771": {
@@ -142004,7 +142010,7 @@
       "last_plan": {
         "source_id": "31011202",
         "display_name": "The Christening Party (Křtiny) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:07:02.038369+00:00"
+        "planned_at": "2026-11-11T09:07:04.593658+00:00"
       }
     },
     "33112": {
@@ -194243,5 +194249,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:07:02.263653+00:00"
+  "updated_at": "2026-11-11T09:07:05.566237+00:00"
 }
