@@ -110871,6 +110871,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T14:49:36.076059+00:00",
         "relay_source_id": "35113183"
+      },
+      "claim": {
+        "worker_id": "cbdee5b474df4da5bcd9be13859fddcd-shard-0",
+        "claimed_at": "2026-11-11T01:45:36.595778+00:00",
+        "lease_expires_at": "2026-11-11T07:45:36.595778+00:00",
+        "run_id": "42904278669"
       }
     },
     "12734": {
@@ -112916,7 +112922,7 @@
       "last_plan": {
         "source_id": "31008000",
         "display_name": "Signs 4K CZ Dabing",
-        "planned_at": "2026-11-11T01:04:18.990435+00:00"
+        "planned_at": "2026-11-11T01:45:36.854208+00:00"
       },
       "previous_target_id": "30984042",
       "prepared": {
@@ -122155,13 +122161,6 @@
           "source_id": "12118069",
           "target_video_id": "30985474",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:45:24.780180+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12118069",
-          "target_video_id": "30985474",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:22:56.203185+00:00"
         },
         {
@@ -122170,6 +122169,13 @@
           "target_video_id": "30985474",
           "permanent": false,
           "attempted_at": "2026-11-11T01:04:11.921110+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12118069",
+          "target_video_id": "30985474",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:45:37.098306+00:00"
         }
       ],
       "last_plan": {
@@ -122183,12 +122189,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:30:29.070562+00:00",
         "relay_source_id": "12118069"
-      },
-      "claim": {
-        "worker_id": "5708aae0e61e4ab39ec5cdfea6f1e6ad-shard-0",
-        "claimed_at": "2026-11-11T01:45:33.750371+00:00",
-        "lease_expires_at": "2026-11-11T07:45:33.750371+00:00",
-        "run_id": "42904278669"
       }
     },
     "19819": {
@@ -128021,7 +128021,7 @@
       "last_plan": {
         "source_id": "29860661",
         "display_name": "Fair Play (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:45:34.496344+00:00"
+        "planned_at": "2026-11-11T01:45:37.454263+00:00"
       }
     },
     "21194": {
@@ -182351,5 +182351,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:45:34.496360+00:00"
+  "updated_at": "2026-11-11T01:45:37.454282+00:00"
 }
