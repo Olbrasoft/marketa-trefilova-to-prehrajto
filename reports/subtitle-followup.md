@@ -636,3 +636,4 @@ Attach subtitles only after target processing has finished.
 | King of Kings 720p CZ Titulky | 30989744 | https://sdilej.cz/29895942/kral-kralov.king-of-kings-1961-720p-en-cztit-historicky.mkv | Extract Czech track from exact source after processing |
 | Those Magnificent Men in their Flying Machines (Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes) 1080p CZ Titulky | 30989766 | https://sdilej.cz/6120853/bajecni-muzi-na-letajicich-strojich-1965-fhd-1080p--cz-eng-.mkv | Extract Czech track from exact source after processing |
 | Little Fish (2020) 1080p CZ Titulky | 30989893 | https://sdilej.cz/35401846/little.fish.2020.1080p.webrip.x264-rarbg-.mkv | Extract Czech track from exact source after processing |
+| How About Adolf? (Der Vorname) 1080p CZ Titulky | 30989905 | https://sdilej.cz/34819330/der-vorname-how-about-adolf-2018-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
