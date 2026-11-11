@@ -136288,17 +136288,19 @@
       "attempts": []
     },
     "17583": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33554657",
+          "target_video_id": "30987819",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:14:43.256460+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:14:00.729273+00:00"
-      },
-      "claim": {
-        "worker_id": "fbb2f337d0084027afae77302e008340-shard-0",
-        "claimed_at": "2026-11-11T06:14:02.702508+00:00",
-        "lease_expires_at": "2026-11-11T12:14:02.702508+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987819",
       "prepared": {
@@ -189386,5 +189388,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:14:18.300714+00:00"
+  "updated_at": "2026-11-11T06:14:43.256477+00:00"
 }
