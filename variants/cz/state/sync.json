@@ -133658,17 +133658,19 @@
       }
     },
     "11032": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30160695",
+          "target_video_id": "30987505",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:03:37.306468+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30160695",
         "display_name": "Burglar and Umbrella (Pěnička a Paraplíčko) 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:02:24.631366+00:00"
-      },
-      "claim": {
-        "worker_id": "5f4f45c67f9a4d3caf74738165de4533-shard-0",
-        "claimed_at": "2026-11-11T05:02:26.497994+00:00",
-        "lease_expires_at": "2026-11-11T11:02:26.497994+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987505",
       "prepared": {
@@ -187152,5 +187154,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:03:35.421319+00:00"
+  "updated_at": "2026-11-11T05:03:37.306484+00:00"
 }
