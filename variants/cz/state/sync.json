@@ -128881,6 +128881,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-11T02:04:06.468004+00:00",
         "relay_source_id": "29464471"
+      },
+      "claim": {
+        "worker_id": "570dc578a9ed49dfb433aae6c3014ab5-shard-0",
+        "claimed_at": "2026-11-11T06:41:13.484038+00:00",
+        "lease_expires_at": "2026-11-11T12:41:13.484038+00:00",
+        "run_id": "42965310158"
       }
     },
     "13953": {
@@ -133514,7 +133520,7 @@
       "last_plan": {
         "source_id": "35286913",
         "display_name": "Jarní vody 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:50:04.672514+00:00"
+        "planned_at": "2026-11-11T06:41:13.691722+00:00"
       },
       "previous_target_id": "30987383",
       "prepared": {
@@ -135844,6 +135850,13 @@
           "target_video_id": "30987722",
           "permanent": false,
           "attempted_at": "2026-11-11T05:50:01.505197+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714080",
+          "target_video_id": "30987722",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:41:14.191590+00:00"
         }
       ],
       "last_plan": {
@@ -135854,15 +135867,9 @@
       "previous_target_id": "30987722",
       "prepared": {
         "target_video_id": "30987722",
-        "size_bytes": 2394584255,
+        "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T05:49:24.573576+00:00",
         "relay_source_id": "34714080"
-      },
-      "claim": {
-        "worker_id": "dc4c2e409142438ca4390f709c86b027-shard-0",
-        "claimed_at": "2026-11-11T06:41:10.934273+00:00",
-        "lease_expires_at": "2026-11-11T12:41:10.934273+00:00",
-        "run_id": "42965310158"
       }
     },
     "30415": {
@@ -137203,7 +137210,7 @@
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:41:11.413364+00:00"
+        "planned_at": "2026-11-11T06:41:13.959347+00:00"
       }
     },
     "11246": {
@@ -190111,5 +190118,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:41:11.672674+00:00"
+  "updated_at": "2026-11-11T06:41:14.191607+00:00"
 }
