@@ -115564,13 +115564,6 @@
           "source_id": "32994723",
           "target_video_id": "30984651",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:28:30.605119+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32994723",
-          "target_video_id": "30984651",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:06:35.140665+00:00"
         },
         {
@@ -115579,6 +115572,13 @@
           "target_video_id": "30984651",
           "permanent": false,
           "attempted_at": "2026-11-11T00:43:55.856399+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32994723",
+          "target_video_id": "30984651",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:25:18.582624+00:00"
         }
       ],
       "last_plan": {
@@ -123764,7 +123764,7 @@
       "last_plan": {
         "source_id": "33771384",
         "display_name": "The Immortal (L'Immortale) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:43:59.344755+00:00"
+        "planned_at": "2026-11-11T01:25:16.995969+00:00"
       },
       "previous_target_id": "30985715",
       "prepared": {
@@ -123772,6 +123772,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T21:27:14.301159+00:00",
         "relay_source_id": "33771384"
+      },
+      "claim": {
+        "worker_id": "f8d41285b269473595835fd39234ebed-shard-0",
+        "claimed_at": "2026-11-11T01:25:17.902173+00:00",
+        "lease_expires_at": "2026-11-11T07:25:17.902173+00:00",
+        "run_id": "42904278669"
       }
     },
     "24812": {
@@ -127725,7 +127731,7 @@
       "last_plan": {
         "source_id": "34557524",
         "display_name": "Sujo 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:25:14.684208+00:00"
+        "planned_at": "2026-11-11T01:25:17.308981+00:00"
       }
     },
     "2905": {
@@ -182112,5 +182118,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:25:14.935875+00:00"
+  "updated_at": "2026-11-11T01:25:18.582645+00:00"
 }
