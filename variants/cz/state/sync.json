@@ -108804,13 +108804,6 @@
           "source_id": "30219473",
           "target_video_id": "30983642",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:22:42.365615+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30219473",
-          "target_video_id": "30983642",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:03:35.044612+00:00"
         },
         {
@@ -108819,6 +108812,13 @@
           "target_video_id": "30983642",
           "permanent": false,
           "attempted_at": "2026-11-11T05:44:28.816006+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30219473",
+          "target_video_id": "30983642",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:34:04.750012+00:00"
         }
       ],
       "last_plan": {
@@ -134237,7 +134237,7 @@
       "last_plan": {
         "source_id": "30160695",
         "display_name": "Burglar and Umbrella (Pěnička a Paraplíčko) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:44:28.984101+00:00"
+        "planned_at": "2026-11-11T06:34:02.711180+00:00"
       },
       "previous_target_id": "30987505",
       "prepared": {
@@ -134245,6 +134245,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T05:02:30.309521+00:00",
         "relay_source_id": "30160695"
+      },
+      "claim": {
+        "worker_id": "70630d72ac8e4b5db885823d7b037be8-shard-0",
+        "claimed_at": "2026-11-11T06:34:03.502957+00:00",
+        "lease_expires_at": "2026-11-11T12:34:03.502957+00:00",
+        "run_id": "42965310158"
       }
     },
     "28890": {
@@ -136957,7 +136963,13 @@
       "last_plan": {
         "source_id": "32147344",
         "display_name": "Journey to Yourland (Tvojazem) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:33:59.958774+00:00"
+        "planned_at": "2026-11-11T06:34:02.980450+00:00"
+      },
+      "claim": {
+        "worker_id": "bd12b58d430046be92a49f6db94a2cea-shard-0",
+        "claimed_at": "2026-11-11T06:34:03.665959+00:00",
+        "lease_expires_at": "2026-11-11T12:34:03.665959+00:00",
+        "run_id": "42965310158"
       }
     },
     "33082": {
@@ -136968,7 +136980,7 @@
       "last_plan": {
         "source_id": "34232902",
         "display_name": "Nahá pastýrka (Nahá pastýřka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:33:52.209943+00:00"
+        "planned_at": "2026-11-11T06:34:03.149432+00:00"
       }
     },
     "33517": {
@@ -189927,5 +189939,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:33:59.958793+00:00"
+  "updated_at": "2026-11-11T06:34:04.750028+00:00"
 }
