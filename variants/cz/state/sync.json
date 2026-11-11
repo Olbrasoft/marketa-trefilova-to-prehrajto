@@ -109805,13 +109805,6 @@
           "source_id": "34252297",
           "target_video_id": "30983719",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:20:13.987727+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34252297",
-          "target_video_id": "30983719",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:53:14.936637+00:00"
         },
         {
@@ -109820,12 +109813,19 @@
           "target_video_id": "30983719",
           "permanent": false,
           "attempted_at": "2026-11-11T03:26:10.815650+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34252297",
+          "target_video_id": "30983719",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:01:50.909988+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34252297",
         "display_name": "Vietnam from Above 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:01:45.230340+00:00"
+        "planned_at": "2026-11-11T04:01:49.014241+00:00"
       },
       "previous_target_id": "30983719",
       "prepared": {
@@ -131917,17 +131917,19 @@
       }
     },
     "24237": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30905918",
+          "target_video_id": "30987234",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:01:51.067805+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30905918",
         "display_name": "Ta chvíle, ten okamžik (That Instant, That While) 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:01:08.130637+00:00"
-      },
-      "claim": {
-        "worker_id": "dbaee73640b14f8ba8975f6f80d31e31-shard-0",
-        "claimed_at": "2026-11-11T04:01:10.086597+00:00",
-        "lease_expires_at": "2026-11-11T10:01:10.086597+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987234",
       "prepared": {
@@ -131945,11 +131947,22 @@
       "last_plan": {
         "source_id": "34470896",
         "display_name": "The Imperial Japanese Empire 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:01:45.441848+00:00"
+        "planned_at": "2026-11-11T04:01:49.221957+00:00"
+      },
+      "claim": {
+        "worker_id": "0e692259e8064d85acfe2ca07399bf91-shard-0",
+        "claimed_at": "2026-11-11T04:01:49.766707+00:00",
+        "lease_expires_at": "2026-11-11T10:01:49.766707+00:00",
+        "run_id": "42938376778"
       }
     },
     "31867": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34714426",
+        "display_name": "Mezi námi zloději SD CZ Dabing",
+        "planned_at": "2026-11-11T04:01:49.351835+00:00"
+      }
     },
     "24132": {
       "attempts": []
@@ -185648,5 +185661,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:01:46.805807+00:00"
+  "updated_at": "2026-11-11T04:01:51.067815+00:00"
 }
