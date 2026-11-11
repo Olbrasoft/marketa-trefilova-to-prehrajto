@@ -136738,17 +136738,19 @@
       "attempts": []
     },
     "21290": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30612211",
+          "target_video_id": "30987857",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:29:03.687222+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30612211",
         "display_name": "White Darkness SD CZ Dabing",
         "planned_at": "2026-11-11T06:28:19.348542+00:00"
-      },
-      "claim": {
-        "worker_id": "4aa4e8c9459043a588f9bf143ae8cda1-shard-0",
-        "claimed_at": "2026-11-11T06:28:19.859916+00:00",
-        "lease_expires_at": "2026-11-11T12:28:19.859916+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987857",
       "prepared": {
@@ -189758,5 +189760,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:29:01.937556+00:00"
+  "updated_at": "2026-11-11T06:29:03.687239+00:00"
 }
