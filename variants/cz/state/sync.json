@@ -107764,6 +107764,12 @@
         "size_bytes": 734000000,
         "prepared_at": "2026-11-10T14:14:46.316259+00:00",
         "relay_source_id": "35066259"
+      },
+      "claim": {
+        "worker_id": "c51a0f3562cd44b3abb4aa9720003fff-shard-0",
+        "claimed_at": "2026-11-11T13:25:01.667116+00:00",
+        "lease_expires_at": "2026-11-11T19:25:01.667116+00:00",
+        "run_id": "43011363893"
       }
     },
     "21182": {
@@ -110366,13 +110372,6 @@
           "source_id": "34711871",
           "target_video_id": "30983774",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:01:20.711884+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711871",
-          "target_video_id": "30983774",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:02:43.822210+00:00"
         },
         {
@@ -110381,6 +110380,13 @@
           "target_video_id": "30983774",
           "permanent": false,
           "attempted_at": "2026-11-11T12:12:30.886551+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711871",
+          "target_video_id": "30983774",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:25:01.469992+00:00"
         }
       ],
       "last_plan": {
@@ -110394,12 +110400,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:45:36.797999+00:00",
         "relay_source_id": "34711871"
-      },
-      "claim": {
-        "worker_id": "76915a1a21cb430f915ca03856be7eee-shard-0",
-        "claimed_at": "2026-11-11T13:24:58.580861+00:00",
-        "lease_expires_at": "2026-11-11T19:24:58.580861+00:00",
-        "run_id": "43011363893"
       }
     },
     "21086": {
@@ -128387,7 +128387,7 @@
       "last_plan": {
         "source_id": "34694034",
         "display_name": "The Punishment (El castigo) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:12:31.311233+00:00"
+        "planned_at": "2026-11-11T13:25:01.913379+00:00"
       },
       "previous_target_id": "30986712",
       "prepared": {
@@ -144066,7 +144066,7 @@
       "last_plan": {
         "source_id": "31629620",
         "display_name": "Monstrum (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:24:59.228449+00:00"
+        "planned_at": "2026-11-11T13:25:02.296517+00:00"
       }
     },
     "28575": {
@@ -196095,5 +196095,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:24:59.228466+00:00"
+  "updated_at": "2026-11-11T13:25:02.296535+00:00"
 }
