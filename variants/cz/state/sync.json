@@ -108293,13 +108293,6 @@
           "source_id": "33495197",
           "target_video_id": "30983589",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:55:47.180690+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33495197",
-          "target_video_id": "30983589",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:36:49.546719+00:00"
         },
         {
@@ -108308,6 +108301,13 @@
           "target_video_id": "30983589",
           "permanent": false,
           "attempted_at": "2026-11-11T06:23:08.625704+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33495197",
+          "target_video_id": "30983589",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:17:09.870848+00:00"
         }
       ],
       "last_plan": {
@@ -108321,12 +108321,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-10T14:19:33.837165+00:00",
         "relay_source_id": "33495197"
-      },
-      "claim": {
-        "worker_id": "c0611c24fff14b739d668c8d3ad347a3-shard-0",
-        "claimed_at": "2026-11-11T07:17:06.558607+00:00",
-        "lease_expires_at": "2026-11-11T13:17:06.558607+00:00",
-        "run_id": "42965310158"
       }
     },
     "2207": {
@@ -128463,7 +128457,7 @@
       "last_plan": {
         "source_id": "34711999",
         "display_name": "Gourmet Detective: Eat, Drink, and Be Buried (Gourmet Detective: Eat, Drink and Be Buried) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:23:07.187495+00:00"
+        "planned_at": "2026-11-11T07:17:09.383786+00:00"
       },
       "previous_target_id": "30986733",
       "prepared": {
@@ -138346,7 +138340,7 @@
       "last_plan": {
         "source_id": "33810799",
         "display_name": "Thomas the Falconer (Sokoliar Tomáš) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:17:04.878528+00:00"
+        "planned_at": "2026-11-11T07:17:09.682864+00:00"
       }
     },
     "33069": {
@@ -138356,7 +138350,12 @@
       "attempts": []
     },
     "28196": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32902567",
+        "display_name": "Ein Sommer in Kroatien SD CZ Dabing",
+        "planned_at": "2026-11-11T07:17:10.035300+00:00"
+      }
     },
     "12761": {
       "attempts": []
@@ -191119,5 +191118,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:17:06.558631+00:00"
+  "updated_at": "2026-11-11T07:17:10.035317+00:00"
 }
