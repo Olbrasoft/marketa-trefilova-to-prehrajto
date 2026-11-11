@@ -113996,13 +113996,6 @@
           "source_id": "33770531",
           "target_video_id": "30984155",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:22:44.470461+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33770531",
-          "target_video_id": "30984155",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:05:39.512649+00:00"
         },
         {
@@ -114011,6 +114004,13 @@
           "target_video_id": "30984155",
           "permanent": false,
           "attempted_at": "2026-11-11T02:43:22.932414+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33770531",
+          "target_video_id": "30984155",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:16:06.876607+00:00"
         }
       ],
       "last_plan": {
@@ -114024,12 +114024,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T15:34:38.126214+00:00",
         "relay_source_id": "33770531"
-      },
-      "claim": {
-        "worker_id": "2648aeba3c5f4792ac517fd8e05e21b7-shard-0",
-        "claimed_at": "2026-11-11T03:16:03.160713+00:00",
-        "lease_expires_at": "2026-11-11T09:16:03.160713+00:00",
-        "run_id": "42938376778"
       }
     },
     "2836": {
@@ -114318,7 +114312,7 @@
       "last_plan": {
         "source_id": "31650158",
         "display_name": "Cruel Intentions 4K CZ Dabing",
-        "planned_at": "2026-11-11T02:43:21.611309+00:00"
+        "planned_at": "2026-11-11T03:16:06.108366+00:00"
       },
       "previous_target_id": "30984298",
       "prepared": {
@@ -114326,6 +114320,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T16:01:35.764114+00:00",
         "relay_source_id": "31650158"
+      },
+      "claim": {
+        "worker_id": "f518ebfde34e47ce928a7ba504aab3a7-shard-0",
+        "claimed_at": "2026-11-11T03:16:06.652442+00:00",
+        "lease_expires_at": "2026-11-11T09:16:06.652442+00:00",
+        "run_id": "42938376778"
       }
     },
     "3155": {
@@ -129833,6 +129833,13 @@
           "target_video_id": "30986927",
           "permanent": false,
           "attempted_at": "2026-11-11T02:43:16.934792+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34680568",
+          "target_video_id": "30986927",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:16:07.024824+00:00"
         }
       ],
       "last_plan": {
@@ -129843,15 +129850,9 @@
       "previous_target_id": "30986927",
       "prepared": {
         "target_video_id": "30986927",
-        "size_bytes": 2749616963,
+        "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T02:42:40.620046+00:00",
         "relay_source_id": "34680568"
-      },
-      "claim": {
-        "worker_id": "3a539726b2d24ef1988a5d6ece4446c6-shard-0",
-        "claimed_at": "2026-11-11T03:16:02.513097+00:00",
-        "lease_expires_at": "2026-11-11T09:16:02.513097+00:00",
-        "run_id": "42938376778"
       }
     },
     "35344": {
@@ -130504,7 +130505,7 @@
       "last_plan": {
         "source_id": "34696372",
         "display_name": "Pat a Mat again in action (Pat & Mat znovu v akci) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:16:02.908782+00:00"
+        "planned_at": "2026-11-11T03:16:06.347282+00:00"
       }
     },
     "29094": {
@@ -184447,5 +184448,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:16:03.349798+00:00"
+  "updated_at": "2026-11-11T03:16:07.024836+00:00"
 }
