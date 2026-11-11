@@ -35774,7 +35774,7 @@
       "last_plan": {
         "source_id": "35001441",
         "display_name": "The Sheep Detectives 4K CZ Dabing",
-        "planned_at": "2026-11-11T04:37:44.624153+00:00"
+        "planned_at": "2026-11-11T05:18:16.258891+00:00"
       },
       "previous_target_id": "30741679",
       "prepared": {
@@ -35782,6 +35782,12 @@
         "size_bytes": 13300000000,
         "prepared_at": "2026-11-02T20:47:14.278455+00:00",
         "relay_source_id": "35001441"
+      },
+      "claim": {
+        "worker_id": "7d5dbd68fd9749c292ff831f611061b5-shard-0",
+        "claimed_at": "2026-11-11T05:18:16.715974+00:00",
+        "lease_expires_at": "2026-11-11T11:18:16.715974+00:00",
+        "run_id": "42938376778"
       }
     },
     "33118": {
@@ -133472,6 +133478,13 @@
           "target_video_id": "30987417",
           "permanent": false,
           "attempted_at": "2026-11-11T04:37:41.980076+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23221863",
+          "target_video_id": "30987417",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:18:16.888806+00:00"
         }
       ],
       "last_plan": {
@@ -133482,15 +133495,9 @@
       "previous_target_id": "30987417",
       "prepared": {
         "target_video_id": "30987417",
-        "size_bytes": 1872186185,
+        "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:35:39.966856+00:00",
         "relay_source_id": "23221863"
-      },
-      "claim": {
-        "worker_id": "9e7329c8decb4082baa91966fba419b4-shard-0",
-        "claimed_at": "2026-11-11T05:18:14.041157+00:00",
-        "lease_expires_at": "2026-11-11T11:18:14.041157+00:00",
-        "run_id": "42938376778"
       }
     },
     "4343": {
@@ -134284,7 +134291,7 @@
       "last_plan": {
         "source_id": "34709626",
         "display_name": "Over the Hills 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:18:13.788203+00:00"
+        "planned_at": "2026-11-11T05:18:16.467991+00:00"
       }
     },
     "25342": {
@@ -187645,5 +187652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:18:14.834055+00:00"
+  "updated_at": "2026-11-11T05:18:16.888819+00:00"
 }
