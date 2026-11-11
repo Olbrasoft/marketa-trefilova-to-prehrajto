@@ -119457,13 +119457,6 @@
           "source_id": "33677451",
           "target_video_id": "30984982",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:12:04.884250+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33677451",
-          "target_video_id": "30984982",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:08:34.014354+00:00"
         },
         {
@@ -119472,6 +119465,13 @@
           "target_video_id": "30984982",
           "permanent": false,
           "attempted_at": "2026-11-11T08:05:28.114836+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33677451",
+          "target_video_id": "30984982",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:07:13.855696+00:00"
         }
       ],
       "last_plan": {
@@ -119485,12 +119485,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T18:26:42.508353+00:00",
         "relay_source_id": "33677451"
-      },
-      "claim": {
-        "worker_id": "18184889a39e4a3492872c39c73530e8-shard-0",
-        "claimed_at": "2026-11-11T09:07:10.762600+00:00",
-        "lease_expires_at": "2026-11-11T15:07:10.762600+00:00",
-        "run_id": "42965310158"
       }
     },
     "14429": {
@@ -122208,7 +122202,7 @@
       "last_plan": {
         "source_id": "12118069",
         "display_name": "Magic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:05:29.732245+00:00"
+        "planned_at": "2026-11-11T09:07:12.985514+00:00"
       },
       "previous_target_id": "30985474",
       "prepared": {
@@ -122216,6 +122210,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:30:29.070562+00:00",
         "relay_source_id": "12118069"
+      },
+      "claim": {
+        "worker_id": "ab7648446b204d11bd4dbd81a29bf65c-shard-0",
+        "claimed_at": "2026-11-11T09:07:13.621131+00:00",
+        "lease_expires_at": "2026-11-11T15:07:13.621131+00:00",
+        "run_id": "42965310158"
       }
     },
     "19819": {
@@ -142010,7 +142010,7 @@
       "last_plan": {
         "source_id": "31011202",
         "display_name": "The Christening Party (Křtiny) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:07:10.347120+00:00"
+        "planned_at": "2026-11-11T09:07:13.266127+00:00"
       }
     },
     "33112": {
@@ -194249,5 +194249,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:07:11.363716+00:00"
+  "updated_at": "2026-11-11T09:07:13.855714+00:00"
 }
