@@ -29916,6 +29916,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-02T09:31:48.716182+00:00",
         "relay_source_id": "34850732"
+      },
+      "claim": {
+        "worker_id": "4e30f82910ab44fb841abf97b25c9923-shard-0",
+        "claimed_at": "2026-11-11T06:49:20.509900+00:00",
+        "lease_expires_at": "2026-11-11T12:49:20.509900+00:00",
+        "run_id": "42965310158"
       }
     },
     "888": {
@@ -56013,7 +56019,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:56:52.055770+00:00"
+        "planned_at": "2026-11-11T06:49:20.729083+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -123283,13 +123289,6 @@
           "source_id": "26801976",
           "target_video_id": "30985628",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:34:25.347121+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26801976",
-          "target_video_id": "30985628",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:14:54.802464+00:00"
         },
         {
@@ -123298,6 +123297,13 @@
           "target_video_id": "30985628",
           "permanent": false,
           "attempted_at": "2026-11-11T05:56:50.235405+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26801976",
+          "target_video_id": "30985628",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:49:21.195418+00:00"
         }
       ],
       "last_plan": {
@@ -123311,12 +123317,6 @@
         "size_bytes": 11700000000,
         "prepared_at": "2026-11-10T20:51:31.818246+00:00",
         "relay_source_id": "26801976"
-      },
-      "claim": {
-        "worker_id": "d7e8feac65b545b5a8e2920e16761ed5-shard-0",
-        "claimed_at": "2026-11-11T06:49:18.036621+00:00",
-        "lease_expires_at": "2026-11-11T12:49:18.036621+00:00",
-        "run_id": "42965310158"
       }
     },
     "29773": {
@@ -137482,7 +137482,7 @@
       "last_plan": {
         "source_id": "26750455",
         "display_name": "The Ideal Schoolmaster (Kantor ideál) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:49:18.514432+00:00"
+        "planned_at": "2026-11-11T06:49:20.995564+00:00"
       }
     },
     "11038": {
@@ -190357,5 +190357,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:49:18.748045+00:00"
+  "updated_at": "2026-11-11T06:49:21.195435+00:00"
 }
