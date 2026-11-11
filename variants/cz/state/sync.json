@@ -145010,17 +145010,19 @@
       "attempts": []
     },
     "27663": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10230150",
+          "target_video_id": "30992431",
+          "permanent": false,
+          "attempted_at": "2026-11-11T17:44:10.661565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10230150",
         "display_name": "The Sandman SD CZ Dabing",
         "planned_at": "2026-11-11T17:37:13.719109+00:00"
-      },
-      "claim": {
-        "worker_id": "59eed38011b94ca9a934d919b2b9c84c-shard-0",
-        "claimed_at": "2026-11-11T17:37:14.336557+00:00",
-        "lease_expires_at": "2026-11-11T23:37:14.336557+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30992431",
       "prepared": {
@@ -196884,5 +196886,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T17:44:09.204196+00:00"
+  "updated_at": "2026-11-11T17:44:10.661587+00:00"
 }
