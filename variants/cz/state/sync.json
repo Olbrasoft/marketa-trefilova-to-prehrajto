@@ -109685,13 +109685,6 @@
           "source_id": "34634766",
           "target_video_id": "30983705",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:16:21.465331+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34634766",
-          "target_video_id": "30983705",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:49:32.284857+00:00"
         },
         {
@@ -109700,6 +109693,13 @@
           "target_video_id": "30983705",
           "permanent": false,
           "attempted_at": "2026-11-11T03:22:08.475195+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34634766",
+          "target_video_id": "30983705",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:57:42.652165+00:00"
         }
       ],
       "last_plan": {
@@ -109713,12 +109713,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:37:39.488454+00:00",
         "relay_source_id": "34634766"
-      },
-      "claim": {
-        "worker_id": "faa5929cd5ed491fa5cae0a3eee8704b-shard-0",
-        "claimed_at": "2026-11-11T03:57:40.050395+00:00",
-        "lease_expires_at": "2026-11-11T09:57:40.050395+00:00",
-        "run_id": "42938376778"
       }
     },
     "34717": {
@@ -119142,7 +119136,7 @@
       "last_plan": {
         "source_id": "17259873",
         "display_name": "The Crucible 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:22:08.299435+00:00"
+        "planned_at": "2026-11-11T03:57:42.155440+00:00"
       },
       "previous_target_id": "30984958",
       "prepared": {
@@ -119150,6 +119144,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T18:18:51.986839+00:00",
         "relay_source_id": "17259873"
+      },
+      "claim": {
+        "worker_id": "ddc62f1a81aa4f32a91e6c35c9b0224f-shard-0",
+        "claimed_at": "2026-11-11T03:57:42.785059+00:00",
+        "lease_expires_at": "2026-11-11T09:57:42.785059+00:00",
+        "run_id": "42938376778"
       }
     },
     "2794": {
@@ -131793,7 +131793,7 @@
       "last_plan": {
         "source_id": "34694070",
         "display_name": "Séfe, jdeme na to! (Šéfe, jdeme na to!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:57:39.783634+00:00"
+        "planned_at": "2026-11-11T03:57:42.362158+00:00"
       }
     },
     "24535": {
@@ -185532,5 +185532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:57:40.714673+00:00"
+  "updated_at": "2026-11-11T03:57:42.785075+00:00"
 }
