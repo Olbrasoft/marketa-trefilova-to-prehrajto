@@ -34377,13 +34377,6 @@
           "source_id": "35468703",
           "target_video_id": "30986211",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:27:52.636205+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35468703",
-          "target_video_id": "30986211",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:58:16.828066+00:00"
         },
         {
@@ -34392,6 +34385,13 @@
           "target_video_id": "30986211",
           "permanent": false,
           "attempted_at": "2026-11-11T20:28:25.162956+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35468703",
+          "target_video_id": "30986211",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:58:30.205665+00:00"
         }
       ],
       "last_plan": {
@@ -34567,7 +34567,7 @@
       "last_plan": {
         "source_id": "6556256",
         "display_name": "Sanctuary (Freistatt) 720p CZ Titulky",
-        "planned_at": "2026-11-11T20:28:22.867842+00:00"
+        "planned_at": "2026-11-11T20:58:29.308381+00:00"
       },
       "previous_target_id": "30986677",
       "prepared": {
@@ -34575,6 +34575,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T01:31:10.412995+00:00",
         "relay_source_id": "6556256"
+      },
+      "claim": {
+        "worker_id": "21db5f14551c49819d430baee0cd6820-shard-0",
+        "claimed_at": "2026-11-11T20:58:29.507068+00:00",
+        "lease_expires_at": "2026-11-12T02:58:29.507068+00:00",
+        "run_id": "43067513109"
       }
     },
     "31021": {
@@ -97253,5 +97259,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:58:26.988848+00:00"
+  "updated_at": "2026-11-11T20:58:30.205685+00:00"
 }
