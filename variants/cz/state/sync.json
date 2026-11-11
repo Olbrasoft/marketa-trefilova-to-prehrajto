@@ -141949,17 +141949,19 @@
       }
     },
     "12803": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30818266",
+          "target_video_id": "30988649",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:06:02.285839+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30818266",
         "display_name": "Operation Bororo (Akce Bororo) SD CZ Dabing",
         "planned_at": "2026-11-11T09:04:16.781785+00:00"
-      },
-      "claim": {
-        "worker_id": "dbd443a8d44444ba91f104d2b52fd42a-shard-0",
-        "claimed_at": "2026-11-11T09:04:18.747003+00:00",
-        "lease_expires_at": "2026-11-11T15:04:18.747003+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988649",
       "prepared": {
@@ -194216,5 +194218,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:06:00.426429+00:00"
+  "updated_at": "2026-11-11T09:06:02.285857+00:00"
 }
