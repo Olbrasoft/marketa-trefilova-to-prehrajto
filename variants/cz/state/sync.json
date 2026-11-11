@@ -136967,17 +136967,19 @@
       }
     },
     "15438": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32147344",
+          "target_video_id": "30987885",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:34:48.729640+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32147344",
         "display_name": "Journey to Yourland (Tvojazem) 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:34:02.980450+00:00"
-      },
-      "claim": {
-        "worker_id": "bd12b58d430046be92a49f6db94a2cea-shard-0",
-        "claimed_at": "2026-11-11T06:34:03.665959+00:00",
-        "lease_expires_at": "2026-11-11T12:34:03.665959+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987885",
       "prepared": {
@@ -189954,5 +189956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:34:46.678611+00:00"
+  "updated_at": "2026-11-11T06:34:48.729661+00:00"
 }
