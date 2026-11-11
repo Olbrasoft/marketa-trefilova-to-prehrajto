@@ -140742,17 +140742,19 @@
       }
     },
     "3271": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33960672",
+          "target_video_id": "30988457",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:31:57.433704+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33960672",
         "display_name": "Banger (BANGER.) (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:31:11.237553+00:00"
-      },
-      "claim": {
-        "worker_id": "6a9ecc7103f344b5b192e05102982539-shard-0",
-        "claimed_at": "2026-11-11T08:31:13.627596+00:00",
-        "lease_expires_at": "2026-11-11T14:31:13.627596+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988457",
       "prepared": {
@@ -193198,5 +193200,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:31:55.938574+00:00"
+  "updated_at": "2026-11-11T08:31:57.433720+00:00"
 }
