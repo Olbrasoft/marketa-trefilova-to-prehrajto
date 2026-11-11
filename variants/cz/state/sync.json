@@ -123621,13 +123621,6 @@
           "source_id": "30548877",
           "target_video_id": "30985657",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:44:31.867685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30548877",
-          "target_video_id": "30985657",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:00:04.514835+00:00"
         },
         {
@@ -123636,6 +123629,13 @@
           "target_video_id": "30985657",
           "permanent": false,
           "attempted_at": "2026-11-11T17:36:52.918046+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30548877",
+          "target_video_id": "30985657",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:48:01.500095+00:00"
         }
       ],
       "last_plan": {
@@ -123649,12 +123649,6 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T21:02:55.982384+00:00",
         "relay_source_id": "30548877"
-      },
-      "claim": {
-        "worker_id": "91518b4f757349aba3eeae7d2226811a-shard-0",
-        "claimed_at": "2026-11-11T18:47:58.498603+00:00",
-        "lease_expires_at": "2026-11-12T00:47:58.498603+00:00",
-        "run_id": "43067513109"
       }
     },
     "23611": {
@@ -127070,7 +127064,7 @@
       "last_plan": {
         "source_id": "34651344",
         "display_name": "Gigi & Nate 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:36:54.447886+00:00"
+        "planned_at": "2026-11-11T18:48:00.851548+00:00"
       },
       "previous_target_id": "30986432",
       "prepared": {
@@ -127078,6 +127072,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T00:27:57.652347+00:00",
         "relay_source_id": "34651344"
+      },
+      "claim": {
+        "worker_id": "d5b4012cf66d490dadaa86d07921ddaf-shard-0",
+        "claimed_at": "2026-11-11T18:48:01.345243+00:00",
+        "lease_expires_at": "2026-11-12T00:48:01.345243+00:00",
+        "run_id": "43067513109"
       }
     },
     "23824": {
@@ -145350,7 +145350,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:47:58.246621+00:00"
+        "planned_at": "2026-11-11T18:48:01.058522+00:00"
       }
     },
     "13050": {
@@ -197139,5 +197139,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:47:59.179126+00:00"
+  "updated_at": "2026-11-11T18:48:01.500114+00:00"
 }
