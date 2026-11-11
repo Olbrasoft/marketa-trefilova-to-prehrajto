@@ -120466,7 +120466,7 @@
       "last_plan": {
         "source_id": "23806861",
         "display_name": "Athena 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:21:07.200388+00:00"
+        "planned_at": "2026-11-11T22:55:40.217611+00:00"
       },
       "previous_target_id": "30985032",
       "prepared": {
@@ -120474,17 +120474,16 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T18:37:53.303604+00:00",
         "relay_source_id": "23806861"
+      },
+      "claim": {
+        "worker_id": "297906d929ab4dffa4dfc17974bab36d-shard-0",
+        "claimed_at": "2026-11-11T22:55:41.011041+00:00",
+        "lease_expires_at": "2026-11-12T04:55:41.011041+00:00",
+        "run_id": "43102571398"
       }
     },
     "21120": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34011156",
-          "target_video_id": "30985031",
-          "permanent": false,
-          "attempted_at": "2026-11-11T18:52:20.542019+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34011156",
@@ -120498,6 +120497,13 @@
           "target_video_id": "30985031",
           "permanent": false,
           "attempted_at": "2026-11-11T21:21:04.244673+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34011156",
+          "target_video_id": "30985031",
+          "permanent": false,
+          "attempted_at": "2026-11-11T22:55:41.626232+00:00"
         }
       ],
       "last_plan": {
@@ -146204,7 +146210,7 @@
       "last_plan": {
         "source_id": "33856066",
         "display_name": "Jan Palach 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:55:37.970323+00:00"
+        "planned_at": "2026-11-11T22:55:40.551035+00:00"
       }
     },
     "10711": {
@@ -197843,5 +197849,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:55:38.248266+00:00"
+  "updated_at": "2026-11-11T22:55:41.626251+00:00"
 }
