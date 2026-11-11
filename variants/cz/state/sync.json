@@ -111914,13 +111914,6 @@
           "source_id": "4659922",
           "target_video_id": "30983903",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:41:08.703902+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "4659922",
-          "target_video_id": "30983903",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:13:42.023884+00:00"
         },
         {
@@ -111929,12 +111922,19 @@
           "target_video_id": "30983903",
           "permanent": false,
           "attempted_at": "2026-11-11T03:48:50.605578+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "4659922",
+          "target_video_id": "30983903",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:24:59.029829+00:00"
         }
       ],
       "last_plan": {
         "source_id": "4659922",
         "display_name": "The God's Rainbow (Boží duha) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:48:47.644934+00:00"
+        "planned_at": "2026-11-11T04:24:56.732131+00:00"
       },
       "previous_target_id": "30983903",
       "prepared": {
@@ -132716,11 +132716,22 @@
       "last_plan": {
         "source_id": "33478054",
         "display_name": "Men Offside (Muži v offsidu) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:24:53.040782+00:00"
+        "planned_at": "2026-11-11T04:24:56.938222+00:00"
+      },
+      "claim": {
+        "worker_id": "7cf22c17fa7d4c279cd94928784c5a30-shard-0",
+        "claimed_at": "2026-11-11T04:24:57.564947+00:00",
+        "lease_expires_at": "2026-11-11T10:24:57.564947+00:00",
+        "run_id": "42938376778"
       }
     },
     "13202": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26710573",
+        "display_name": "Requiem 1080p CZ Dabing",
+        "planned_at": "2026-11-11T04:24:57.067392+00:00"
+      }
     },
     "32779": {
       "attempts": []
@@ -186293,5 +186304,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:24:54.781565+00:00"
+  "updated_at": "2026-11-11T04:24:59.029841+00:00"
 }
