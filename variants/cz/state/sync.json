@@ -130661,17 +130661,19 @@
       "attempts": []
     },
     "10859": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30618554",
+          "target_video_id": "30987025",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:24:57.100468+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30618554",
         "display_name": "Hvězda zvaná Pelyněk SD CZ Dabing",
         "planned_at": "2026-11-11T03:23:05.568274+00:00"
-      },
-      "claim": {
-        "worker_id": "a71d5c3e2926472c803f27b15e59ee07-shard-0",
-        "claimed_at": "2026-11-11T03:23:07.331745+00:00",
-        "lease_expires_at": "2026-11-11T09:23:07.331745+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987025",
       "prepared": {
@@ -184629,5 +184631,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:24:55.646913+00:00"
+  "updated_at": "2026-11-11T03:24:57.100481+00:00"
 }
