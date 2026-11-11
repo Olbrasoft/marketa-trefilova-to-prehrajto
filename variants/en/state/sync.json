@@ -35354,17 +35354,19 @@
       "attempts": []
     },
     "19714": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23240065",
+          "target_video_id": "30988745",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:49:31.185744+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23240065",
         "display_name": "Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky",
         "planned_at": "2026-11-11T09:46:08.875842+00:00"
-      },
-      "claim": {
-        "worker_id": "4c89c5baadd84e95a1ac2fde7f50c9f3-shard-0",
-        "claimed_at": "2026-11-11T09:46:09.184984+00:00",
-        "lease_expires_at": "2026-11-11T15:46:09.184984+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988745",
       "prepared": {
@@ -96780,5 +96782,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:48:53.052644+00:00"
+  "updated_at": "2026-11-11T09:49:31.185763+00:00"
 }
