@@ -115575,6 +115575,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-10T17:13:24.015764+00:00",
         "relay_source_id": "34594107"
+      },
+      "claim": {
+        "worker_id": "63f36286131f4eaa9360f33096f9239b-shard-0",
+        "claimed_at": "2026-11-11T07:40:27.736730+00:00",
+        "lease_expires_at": "2026-11-11T13:40:27.736730+00:00",
+        "run_id": "42965310158"
       }
     },
     "2785": {
@@ -122456,13 +122462,6 @@
           "source_id": "34911142",
           "target_video_id": "30985499",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:11:20.995423+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34911142",
-          "target_video_id": "30985499",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:52:45.489362+00:00"
         },
         {
@@ -122471,6 +122470,13 @@
           "target_video_id": "30985499",
           "permanent": false,
           "attempted_at": "2026-11-11T06:44:25.366764+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34911142",
+          "target_video_id": "30985499",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:40:27.988689+00:00"
         }
       ],
       "last_plan": {
@@ -122484,12 +122490,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:47:48.561303+00:00",
         "relay_source_id": "34911142"
-      },
-      "claim": {
-        "worker_id": "9c11969117dc4f82af752cdd002b14e2-shard-0",
-        "claimed_at": "2026-11-11T07:40:25.254245+00:00",
-        "lease_expires_at": "2026-11-11T13:40:25.254245+00:00",
-        "run_id": "42965310158"
       }
     },
     "25109": {
@@ -139240,7 +139240,7 @@
       "last_plan": {
         "source_id": "30621969",
         "display_name": "Calamity (Kalamita) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:40:22.691402+00:00"
+        "planned_at": "2026-11-11T07:40:27.371956+00:00"
       }
     },
     "12748": {
@@ -191890,5 +191890,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:40:25.654422+00:00"
+  "updated_at": "2026-11-11T07:40:27.988708+00:00"
 }
