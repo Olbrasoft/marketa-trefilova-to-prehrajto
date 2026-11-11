@@ -110311,6 +110311,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:45:08.279822+00:00",
         "relay_source_id": "35095604"
+      },
+      "claim": {
+        "worker_id": "9169f45bb85e4e50b3691d15cec99768-shard-0",
+        "claimed_at": "2026-11-11T12:12:08.438057+00:00",
+        "lease_expires_at": "2026-11-11T18:12:08.438057+00:00",
+        "run_id": "43011363893"
       }
     },
     "2154": {
@@ -122550,13 +122556,6 @@
           "source_id": "27404870",
           "target_video_id": "30985506",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:04:51.610882+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27404870",
-          "target_video_id": "30985506",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:00:59.483885+00:00"
         },
         {
@@ -122565,6 +122564,13 @@
           "target_video_id": "30985506",
           "permanent": false,
           "attempted_at": "2026-11-11T09:02:12.149584+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27404870",
+          "target_video_id": "30985506",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:12:09.317363+00:00"
         }
       ],
       "last_plan": {
@@ -122578,12 +122584,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T19:51:05.150291+00:00",
         "relay_source_id": "27404870"
-      },
-      "claim": {
-        "worker_id": "a23fe0e5e4ef46a6a8727041825befc0-shard-0",
-        "claimed_at": "2026-11-11T12:12:05.396344+00:00",
-        "lease_expires_at": "2026-11-11T18:12:05.396344+00:00",
-        "run_id": "43011363893"
       }
     },
     "13691": {
@@ -142542,7 +142542,7 @@
       "last_plan": {
         "source_id": "30256707",
         "display_name": "Tři chlapi v chalupě SD CZ Dabing",
-        "planned_at": "2026-11-11T09:01:30.146747+00:00"
+        "planned_at": "2026-11-11T12:12:08.671724+00:00"
       },
       "previous_target_id": "30988639",
       "prepared": {
@@ -143112,7 +143112,7 @@
       "last_plan": {
         "source_id": "27479295",
         "display_name": "Hostage (Jak jsme hráli čáru) (2014) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:12:06.366340+00:00"
+        "planned_at": "2026-11-11T12:12:08.995494+00:00"
       }
     },
     "20941": {
@@ -195250,5 +195250,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:12:06.366355+00:00"
+  "updated_at": "2026-11-11T12:12:09.317382+00:00"
 }
