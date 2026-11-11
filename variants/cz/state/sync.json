@@ -81562,7 +81562,7 @@
       "last_plan": {
         "source_id": "32457622",
         "display_name": "Christmas with Holly 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:17:15.900180+00:00"
+        "planned_at": "2026-11-11T01:58:21.792895+00:00"
       },
       "previous_target_id": "30903267",
       "prepared": {
@@ -81570,6 +81570,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-08T01:03:53.007664+00:00",
         "relay_source_id": "32457622"
+      },
+      "claim": {
+        "worker_id": "8c466d3366d44d2ba94b01b0b47ef12d-shard-0",
+        "claimed_at": "2026-11-11T01:58:22.734707+00:00",
+        "lease_expires_at": "2026-11-11T07:58:22.734707+00:00",
+        "run_id": "42904278669"
       }
     },
     "13134": {
@@ -120645,13 +120651,6 @@
           "source_id": "8744723",
           "target_video_id": "30985052",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:57:25.084902+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8744723",
-          "target_video_id": "30985052",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:36:18.815643+00:00"
         },
         {
@@ -120660,6 +120659,13 @@
           "target_video_id": "30985052",
           "permanent": false,
           "attempted_at": "2026-11-11T01:17:16.394647+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8744723",
+          "target_video_id": "30985052",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:58:23.742165+00:00"
         }
       ],
       "last_plan": {
@@ -128264,14 +128270,25 @@
       "last_plan": {
         "source_id": "34700391",
         "display_name": "The Man Who Lies SD CZ Dabing",
-        "planned_at": "2026-11-11T01:58:19.310376+00:00"
+        "planned_at": "2026-11-11T01:58:22.103933+00:00"
+      },
+      "claim": {
+        "worker_id": "cabd3a47439446e79ff55e08e93ec7c3-shard-0",
+        "claimed_at": "2026-11-11T01:58:22.976950+00:00",
+        "lease_expires_at": "2026-11-11T07:58:22.976950+00:00",
+        "run_id": "42904278669"
       }
     },
     "32875": {
       "attempts": []
     },
     "27466": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "20637372",
+        "display_name": "Totally True Love 1080p CZ Dabing",
+        "planned_at": "2026-11-11T01:58:22.334270+00:00"
+      }
     },
     "14604": {
       "attempts": []
@@ -182564,5 +182581,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:58:19.310396+00:00"
+  "updated_at": "2026-11-11T01:58:23.742184+00:00"
 }
