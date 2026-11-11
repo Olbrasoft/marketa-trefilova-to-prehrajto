@@ -110923,13 +110923,6 @@
           "source_id": "34710916",
           "target_video_id": "30983802",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:34:25.980633+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710916",
-          "target_video_id": "30983802",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:10:28.311834+00:00"
         },
         {
@@ -110938,6 +110931,13 @@
           "target_video_id": "30983802",
           "permanent": false,
           "attempted_at": "2026-11-11T04:50:21.450333+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710916",
+          "target_video_id": "30983802",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:29:45.730231+00:00"
         }
       ],
       "last_plan": {
@@ -110951,12 +110951,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:50:04.632161+00:00",
         "relay_source_id": "34710916"
-      },
-      "claim": {
-        "worker_id": "791f2c1086c54ac9896e3d4934c78db4-shard-0",
-        "claimed_at": "2026-11-11T05:29:42.833206+00:00",
-        "lease_expires_at": "2026-11-11T11:29:42.833206+00:00",
-        "run_id": "42938376778"
       }
     },
     "21346": {
@@ -124211,7 +124205,7 @@
       "last_plan": {
         "source_id": "31149109",
         "display_name": "Hope Gap 720p CZ Dabing",
-        "planned_at": "2026-11-11T04:50:20.005991+00:00"
+        "planned_at": "2026-11-11T05:29:45.098353+00:00"
       },
       "previous_target_id": "30985758",
       "prepared": {
@@ -124219,6 +124213,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T21:43:04.204698+00:00",
         "relay_source_id": "31149109"
+      },
+      "claim": {
+        "worker_id": "8ea4f89dfbd74834845c838acdecca8d-shard-0",
+        "claimed_at": "2026-11-11T05:29:45.566505+00:00",
+        "lease_expires_at": "2026-11-11T11:29:45.566505+00:00",
+        "run_id": "42938376778"
       }
     },
     "21281": {
@@ -134665,6 +134665,13 @@
         "claimed_at": "2026-11-11T05:29:42.097963+00:00",
         "lease_expires_at": "2026-11-11T11:29:42.097963+00:00",
         "run_id": "42938376778"
+      },
+      "previous_target_id": "30987629",
+      "prepared": {
+        "target_video_id": "30987629",
+        "size_bytes": 2859529767,
+        "prepared_at": "2026-11-11T05:29:45.860849+00:00",
+        "relay_source_id": "34720493"
       }
     },
     "28541": {
@@ -134672,7 +134679,7 @@
       "last_plan": {
         "source_id": "33812946",
         "display_name": "Zkrízené mece (Zkřížené meče) SD CZ Dabing",
-        "planned_at": "2026-11-11T05:29:42.486789+00:00"
+        "planned_at": "2026-11-11T05:29:45.308971+00:00"
       }
     },
     "21648": {
@@ -187982,5 +187989,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:29:43.410878+00:00"
+  "updated_at": "2026-11-11T05:29:45.860860+00:00"
 }
