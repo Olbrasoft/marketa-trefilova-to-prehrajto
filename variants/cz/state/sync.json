@@ -122903,13 +122903,6 @@
           "source_id": "30317434",
           "target_video_id": "30985560",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:17:10.359011+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30317434",
-          "target_video_id": "30985560",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:59:25.719732+00:00"
         },
         {
@@ -122918,6 +122911,13 @@
           "target_video_id": "30985560",
           "permanent": false,
           "attempted_at": "2026-11-11T06:52:29.556882+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30317434",
+          "target_video_id": "30985560",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:48:38.830474+00:00"
         }
       ],
       "last_plan": {
@@ -123458,7 +123458,7 @@
       "last_plan": {
         "source_id": "32453487",
         "display_name": "Le gendarme se marie 4K CZ Dabing",
-        "planned_at": "2026-11-11T06:52:28.020121+00:00"
+        "planned_at": "2026-11-11T07:48:37.716934+00:00"
       },
       "previous_target_id": "30985646",
       "prepared": {
@@ -123466,6 +123466,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T20:58:30.117329+00:00",
         "relay_source_id": "32453487"
+      },
+      "claim": {
+        "worker_id": "a550193a0e3f4401a1c4dcaa2c7aa565-shard-0",
+        "claimed_at": "2026-11-11T07:48:38.463142+00:00",
+        "lease_expires_at": "2026-11-11T13:48:38.463142+00:00",
+        "run_id": "42965310158"
       }
     },
     "18520": {
@@ -139488,6 +139494,12 @@
         "source_id": "34710797",
         "display_name": "Pohádka o splněných přáních 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:48:35.161470+00:00"
+      },
+      "claim": {
+        "worker_id": "1811b27ad7064898b75946305c0f1c8c-shard-0",
+        "claimed_at": "2026-11-11T07:48:37.413742+00:00",
+        "lease_expires_at": "2026-11-11T13:48:37.413742+00:00",
+        "run_id": "42965310158"
       }
     },
     "15778": {
@@ -139498,7 +139510,7 @@
       "last_plan": {
         "source_id": "34756339",
         "display_name": "Sweet Sixteen (Sextánka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:48:35.331686+00:00"
+        "planned_at": "2026-11-11T07:48:38.021965+00:00"
       }
     },
     "15512": {
@@ -192109,5 +192121,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:48:35.571855+00:00"
+  "updated_at": "2026-11-11T07:48:38.830491+00:00"
 }
