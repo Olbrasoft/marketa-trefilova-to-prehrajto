@@ -107742,13 +107742,6 @@
           "source_id": "32069441",
           "target_video_id": "30983518",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:20:46.675571+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32069441",
-          "target_video_id": "30983518",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:00:09.626491+00:00"
         },
         {
@@ -107757,6 +107750,13 @@
           "target_video_id": "30983518",
           "permanent": false,
           "attempted_at": "2026-11-11T01:43:07.035311+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32069441",
+          "target_video_id": "30983518",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:24:32.079223+00:00"
         }
       ],
       "last_plan": {
@@ -107770,12 +107770,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T14:14:54.921480+00:00",
         "relay_source_id": "32069441"
-      },
-      "claim": {
-        "worker_id": "0021c79096874283b08e7a36e1ec54cf-shard-0",
-        "claimed_at": "2026-11-11T02:24:29.591100+00:00",
-        "lease_expires_at": "2026-11-11T08:24:29.591100+00:00",
-        "run_id": "42938376778"
       }
     },
     "16783": {
@@ -117791,7 +117785,7 @@
       "last_plan": {
         "source_id": "33849773",
         "display_name": "Dumb Money 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:43:06.259453+00:00"
+        "planned_at": "2026-11-11T02:24:31.260373+00:00"
       },
       "previous_target_id": "30984853",
       "prepared": {
@@ -117799,6 +117793,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T17:53:32.936855+00:00",
         "relay_source_id": "33849773"
+      },
+      "claim": {
+        "worker_id": "7c6681384d964171b6460a3c541e83d8-shard-0",
+        "claimed_at": "2026-11-11T02:24:31.710963+00:00",
+        "lease_expires_at": "2026-11-11T08:24:31.710963+00:00",
+        "run_id": "42938376778"
       }
     },
     "2970": {
@@ -128882,7 +128882,7 @@
       "last_plan": {
         "source_id": "27023916",
         "display_name": "Candidate (Kandidát) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:24:29.351691+00:00"
+        "planned_at": "2026-11-11T02:24:31.463423+00:00"
       }
     },
     "30998": {
@@ -183068,5 +183068,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:24:29.771982+00:00"
+  "updated_at": "2026-11-11T02:24:32.079241+00:00"
 }
