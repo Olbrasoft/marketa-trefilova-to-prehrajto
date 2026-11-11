@@ -130843,17 +130843,19 @@
       "attempts": []
     },
     "12654": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34628242",
+          "target_video_id": "30987053",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:31:11.281684+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34628242",
         "display_name": "Svět kde se žebrá 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:30:28.386968+00:00"
-      },
-      "claim": {
-        "worker_id": "7f3df4e0f31f436d95212464922f3d5f-shard-0",
-        "claimed_at": "2026-11-11T03:30:30.220428+00:00",
-        "lease_expires_at": "2026-11-11T09:30:30.220428+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987053",
       "prepared": {
@@ -184778,5 +184780,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:31:09.727259+00:00"
+  "updated_at": "2026-11-11T03:31:11.281699+00:00"
 }
