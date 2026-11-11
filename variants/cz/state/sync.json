@@ -132426,17 +132426,19 @@
       }
     },
     "35055": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "9621938",
+          "target_video_id": "30987320",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:17:12.839920+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "9621938",
         "display_name": "The Last Bohemian SD CZ Dabing",
         "planned_at": "2026-11-11T04:16:29.950409+00:00"
-      },
-      "claim": {
-        "worker_id": "393a21debd2842a6853b2c780c6e5f8f-shard-0",
-        "claimed_at": "2026-11-11T04:16:31.833748+00:00",
-        "lease_expires_at": "2026-11-11T10:16:31.833748+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987320",
       "prepared": {
@@ -186079,5 +186081,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:17:11.338432+00:00"
+  "updated_at": "2026-11-11T04:17:12.839931+00:00"
 }
