@@ -122829,13 +122829,6 @@
           "source_id": "34230753",
           "target_video_id": "30985555",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:14:05.324710+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34230753",
-          "target_video_id": "30985555",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:55:39.465622+00:00"
         },
         {
@@ -122844,6 +122837,13 @@
           "target_video_id": "30985555",
           "permanent": false,
           "attempted_at": "2026-11-11T06:48:20.557696+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34230753",
+          "target_video_id": "30985555",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:43:59.334207+00:00"
         }
       ],
       "last_plan": {
@@ -134719,7 +134719,7 @@
       "last_plan": {
         "source_id": "34683641",
         "display_name": "To byla svatba, strýcku (To byla svatba, strýčku) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:48:20.029980+00:00"
+        "planned_at": "2026-11-11T07:43:57.767795+00:00"
       },
       "previous_target_id": "30987565",
       "prepared": {
@@ -134727,6 +134727,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T05:13:29.218880+00:00",
         "relay_source_id": "34683641"
+      },
+      "claim": {
+        "worker_id": "9719038d61af46b3a6d3057cd9ee05d3-shard-0",
+        "claimed_at": "2026-11-11T07:43:58.597604+00:00",
+        "lease_expires_at": "2026-11-11T13:43:58.597604+00:00",
+        "run_id": "42965310158"
       }
     },
     "13265": {
@@ -139344,6 +139350,12 @@
         "source_id": "33505803",
         "display_name": "Kde alibi nestací (Where an Alibi Is Not Everything) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:43:55.274850+00:00"
+      },
+      "claim": {
+        "worker_id": "ee8d68ee54314cc78be523fb02ecc8ec-shard-0",
+        "claimed_at": "2026-11-11T07:43:57.527177+00:00",
+        "lease_expires_at": "2026-11-11T13:43:57.527177+00:00",
+        "run_id": "42965310158"
       }
     },
     "24712": {
@@ -139354,7 +139366,7 @@
       "last_plan": {
         "source_id": "34883583",
         "display_name": "Murder in Hérault (Crime dans l'Hérault) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:43:55.449133+00:00"
+        "planned_at": "2026-11-11T07:43:58.049253+00:00"
       }
     },
     "30968": {
@@ -191986,5 +191998,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:43:55.449150+00:00"
+  "updated_at": "2026-11-11T07:43:59.334227+00:00"
 }
