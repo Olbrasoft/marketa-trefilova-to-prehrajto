@@ -125809,6 +125809,12 @@
         "size_bytes": 20800000000,
         "prepared_at": "2026-11-10T23:33:26.685582+00:00",
         "relay_source_id": "32203585"
+      },
+      "claim": {
+        "worker_id": "c0edcd62ef9e4532b27ccb0f14747124-shard-0",
+        "claimed_at": "2026-11-11T05:16:54.214136+00:00",
+        "lease_expires_at": "2026-11-11T11:16:54.214136+00:00",
+        "run_id": "42938376778"
       }
     },
     "35517": {
@@ -134187,17 +134193,19 @@
       }
     },
     "33000": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716014",
+          "target_video_id": "30987579",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:16:55.302154+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716014",
         "display_name": "Matrix AB SD CZ Dabing",
         "planned_at": "2026-11-11T05:16:14.349798+00:00"
-      },
-      "claim": {
-        "worker_id": "6227fb1c150146f4b495cbc5df051a90-shard-0",
-        "claimed_at": "2026-11-11T05:16:14.890512+00:00",
-        "lease_expires_at": "2026-11-11T11:16:14.890512+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987579",
       "prepared": {
@@ -187585,5 +187593,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:16:52.601817+00:00"
+  "updated_at": "2026-11-11T05:16:55.302172+00:00"
 }
