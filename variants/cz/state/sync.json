@@ -114718,13 +114718,6 @@
           "source_id": "28364650",
           "target_video_id": "30984531",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:20:01.808850+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28364650",
-          "target_video_id": "30984531",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:55:12.144237+00:00"
         },
         {
@@ -114733,12 +114726,19 @@
           "target_video_id": "30984531",
           "permanent": false,
           "attempted_at": "2026-11-11T04:32:19.619027+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28364650",
+          "target_video_id": "30984531",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:13:36.323612+00:00"
         }
       ],
       "last_plan": {
         "source_id": "28364650",
         "display_name": "Jay and Silent Bob Strike Back 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:32:16.851482+00:00"
+        "planned_at": "2026-11-11T05:13:34.348869+00:00"
       },
       "previous_target_id": "30984531",
       "prepared": {
@@ -134082,14 +134082,25 @@
       "last_plan": {
         "source_id": "24800590",
         "display_name": "O princezně, která ráčkovala 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:13:28.685421+00:00"
+        "planned_at": "2026-11-11T05:13:34.558808+00:00"
+      },
+      "claim": {
+        "worker_id": "7acfa310ec9e4ec8833d02449a9aeecd-shard-0",
+        "claimed_at": "2026-11-11T05:13:35.082256+00:00",
+        "lease_expires_at": "2026-11-11T11:13:35.082256+00:00",
+        "run_id": "42938376778"
       }
     },
     "30403": {
       "attempts": []
     },
     "34774": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29321867",
+        "display_name": "Murder in La Rochefoucauld SD CZ Dabing",
+        "planned_at": "2026-11-11T05:13:34.697375+00:00"
+      }
     },
     "12757": {
       "attempts": []
@@ -187470,5 +187481,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:13:31.266593+00:00"
+  "updated_at": "2026-11-11T05:13:36.323622+00:00"
 }
