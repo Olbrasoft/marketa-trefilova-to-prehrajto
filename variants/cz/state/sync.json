@@ -121540,7 +121540,7 @@
       "last_plan": {
         "source_id": "30988446",
         "display_name": "Foul Play 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:45:06.197660+00:00"
+        "planned_at": "2026-11-11T06:35:12.764513+00:00"
       },
       "previous_target_id": "30985416",
       "prepared": {
@@ -121548,6 +121548,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T19:10:28.363748+00:00",
         "relay_source_id": "30988446"
+      },
+      "claim": {
+        "worker_id": "087614ab30764cceafa13d573aad2a7a-shard-0",
+        "claimed_at": "2026-11-11T06:35:13.752904+00:00",
+        "lease_expires_at": "2026-11-11T12:35:13.752904+00:00",
+        "run_id": "42965310158"
       }
     },
     "2943": {
@@ -134272,6 +134278,13 @@
           "target_video_id": "30987510",
           "permanent": false,
           "attempted_at": "2026-11-11T05:45:08.122809+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29733010",
+          "target_video_id": "30987510",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:35:13.972050+00:00"
         }
       ],
       "last_plan": {
@@ -134285,12 +134298,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T05:03:53.213727+00:00",
         "relay_source_id": "29733010"
-      },
-      "claim": {
-        "worker_id": "df933938c911412cbc2a63e5d9985ea5-shard-0",
-        "claimed_at": "2026-11-11T06:35:11.150250+00:00",
-        "lease_expires_at": "2026-11-11T12:35:11.150250+00:00",
-        "run_id": "42965310158"
       }
     },
     "32111": {
@@ -137003,11 +137010,16 @@
       "last_plan": {
         "source_id": "34232902",
         "display_name": "Nahá pastýrka (Nahá pastýřka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:35:08.832294+00:00"
+        "planned_at": "2026-11-11T06:35:13.037897+00:00"
       }
     },
     "33517": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34716543",
+        "display_name": "Ukradnutý Stát (Ukradnutý štát) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T06:35:13.260968+00:00"
+      }
     },
     "12832": {
       "attempts": []
@@ -189962,5 +189974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:35:11.150278+00:00"
+  "updated_at": "2026-11-11T06:35:13.972066+00:00"
 }
