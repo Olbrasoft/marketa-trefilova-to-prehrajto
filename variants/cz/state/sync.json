@@ -86246,13 +86246,6 @@
           "source_id": "32700785",
           "target_video_id": "30923122",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:07:04.304576+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32700785",
-          "target_video_id": "30923122",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:01:13.860330+00:00"
         },
         {
@@ -86261,6 +86254,13 @@
           "target_video_id": "30923122",
           "permanent": false,
           "attempted_at": "2026-11-11T07:57:43.172925+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32700785",
+          "target_video_id": "30923122",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:58:56.996514+00:00"
         }
       ],
       "last_plan": {
@@ -128300,7 +128300,7 @@
       "last_plan": {
         "source_id": "11824371",
         "display_name": "1000 to 1: The Cory Weissman Story (1000 to 1) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:57:45.554287+00:00"
+        "planned_at": "2026-11-11T08:58:55.372497+00:00"
       },
       "previous_target_id": "30986706",
       "prepared": {
@@ -128308,6 +128308,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T01:39:31.771576+00:00",
         "relay_source_id": "11824371"
+      },
+      "claim": {
+        "worker_id": "4ac5aad2b4754d56b847e099a60dfd91-shard-0",
+        "claimed_at": "2026-11-11T08:58:55.985383+00:00",
+        "lease_expires_at": "2026-11-11T14:58:55.985383+00:00",
+        "run_id": "42965310158"
       }
     },
     "17172": {
@@ -141770,7 +141776,7 @@
       "last_plan": {
         "source_id": "34683567",
         "display_name": "Sisterhood 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:58:53.292496+00:00"
+        "planned_at": "2026-11-11T08:58:55.648904+00:00"
       }
     },
     "32639": {
@@ -194033,5 +194039,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:58:53.292515+00:00"
+  "updated_at": "2026-11-11T08:58:56.996532+00:00"
 }
