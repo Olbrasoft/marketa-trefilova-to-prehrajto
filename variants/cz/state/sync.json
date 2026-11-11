@@ -112990,7 +112990,7 @@
       "last_plan": {
         "source_id": "33199372",
         "display_name": "Yes Man 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:19:50.117904+00:00"
+        "planned_at": "2026-11-11T07:13:33.109087+00:00"
       },
       "previous_target_id": "30984053",
       "prepared": {
@@ -114931,6 +114931,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T16:59:27.390379+00:00",
         "relay_source_id": "34771652"
+      },
+      "claim": {
+        "worker_id": "d2bb90e4167a47fc9b335a1e39cb35b6-shard-0",
+        "claimed_at": "2026-11-11T07:13:32.880912+00:00",
+        "lease_expires_at": "2026-11-11T13:13:32.880912+00:00",
+        "run_id": "42965310158"
       }
     },
     "3113": {
@@ -138210,17 +138216,19 @@
       }
     },
     "21125": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34787002",
+          "target_video_id": "30987995",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:13:33.305967+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34787002",
         "display_name": "Don’t Look Round, a Horse Follows Us! (Don't Look Back, There Is a Horse Behind Us) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:12:46.996642+00:00"
-      },
-      "claim": {
-        "worker_id": "da9649ae14a14e2ca34e2e5765f05915-shard-0",
-        "claimed_at": "2026-11-11T07:12:49.079046+00:00",
-        "lease_expires_at": "2026-11-11T13:12:49.079046+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987995",
       "prepared": {
@@ -191029,5 +191037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:13:31.168561+00:00"
+  "updated_at": "2026-11-11T07:13:33.305987+00:00"
 }
