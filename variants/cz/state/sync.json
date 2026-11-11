@@ -115897,13 +115897,6 @@
           "source_id": "11567602",
           "target_video_id": "30984685",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:50:07.400527+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11567602",
-          "target_video_id": "30984685",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:22:45.947301+00:00"
         },
         {
@@ -115912,6 +115905,13 @@
           "target_video_id": "30984685",
           "permanent": false,
           "attempted_at": "2026-11-11T03:58:29.411194+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11567602",
+          "target_video_id": "30984685",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:36:52.163344+00:00"
         }
       ],
       "last_plan": {
@@ -115925,12 +115925,6 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T17:17:48.571119+00:00",
         "relay_source_id": "11567602"
-      },
-      "claim": {
-        "worker_id": "a0d80fe1bf02461c94e181061fe185f1-shard-0",
-        "claimed_at": "2026-11-11T04:36:50.004178+00:00",
-        "lease_expires_at": "2026-11-11T10:36:50.004178+00:00",
-        "run_id": "42938376778"
       }
     },
     "11484": {
@@ -123490,7 +123484,7 @@
       "last_plan": {
         "source_id": "32499158",
         "display_name": "Khartoum 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:58:28.921288+00:00"
+        "planned_at": "2026-11-11T04:36:51.548286+00:00"
       },
       "previous_target_id": "30985645",
       "prepared": {
@@ -123498,6 +123492,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-10T20:58:28.408510+00:00",
         "relay_source_id": "32499158"
+      },
+      "claim": {
+        "worker_id": "19be98a032fc4ec79cb1458a198470bd-shard-0",
+        "claimed_at": "2026-11-11T04:36:52.008707+00:00",
+        "lease_expires_at": "2026-11-11T10:36:52.008707+00:00",
+        "run_id": "42938376778"
       }
     },
     "2981": {
@@ -133041,7 +133041,7 @@
       "last_plan": {
         "source_id": "25777021",
         "display_name": "Every Million Comes Handy (Každý milion dobrý) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:36:49.556550+00:00"
+        "planned_at": "2026-11-11T04:36:51.757727+00:00"
       }
     },
     "16650": {
@@ -186570,5 +186570,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:36:50.004194+00:00"
+  "updated_at": "2026-11-11T04:36:52.163361+00:00"
 }
