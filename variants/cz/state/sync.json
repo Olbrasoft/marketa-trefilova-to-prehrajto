@@ -8518,7 +8518,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-11T12:21:31.068406+00:00"
+        "planned_at": "2026-11-11T13:34:01.866282+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8526,6 +8526,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "d991387047fd4789800ad55cd50fce3a-shard-0",
+        "claimed_at": "2026-11-11T13:34:02.801008+00:00",
+        "lease_expires_at": "2026-11-11T19:34:02.801008+00:00",
+        "run_id": "43011363893"
       }
     },
     "29922": {
@@ -144179,17 +144185,19 @@
       "attempts": []
     },
     "15060": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35428706",
+          "target_video_id": "30990467",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:36:11.852437+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35428706",
         "display_name": "Threat to Kermadec (Menace sur Kermadec) 1080p CZ Dabing",
         "planned_at": "2026-11-11T13:33:50.654950+00:00"
-      },
-      "claim": {
-        "worker_id": "91def5addcda46c68fb587fae32e0970-shard-0",
-        "claimed_at": "2026-11-11T13:33:51.589128+00:00",
-        "lease_expires_at": "2026-11-11T19:33:51.589128+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30990467",
       "prepared": {
@@ -144207,7 +144215,7 @@
       "last_plan": {
         "source_id": "34676218",
         "display_name": "The Rabbit Case (Causa Králík) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:33:54.782458+00:00"
+        "planned_at": "2026-11-11T13:34:02.292223+00:00"
       }
     },
     "17136": {
@@ -196206,5 +196214,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:33:58.560454+00:00"
+  "updated_at": "2026-11-11T13:36:11.852451+00:00"
 }
