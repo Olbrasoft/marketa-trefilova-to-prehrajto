@@ -115934,13 +115934,6 @@
           "source_id": "34757966",
           "target_video_id": "30984690",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:18:12.007807+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34757966",
-          "target_video_id": "30984690",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:51:13.701139+00:00"
         },
         {
@@ -115949,6 +115942,13 @@
           "target_video_id": "30984690",
           "permanent": false,
           "attempted_at": "2026-11-11T03:23:56.148508+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34757966",
+          "target_video_id": "30984690",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:59:36.323176+00:00"
         }
       ],
       "last_plan": {
@@ -117600,7 +117600,7 @@
       "last_plan": {
         "source_id": "34903564",
         "display_name": "Under the Tuscan Sun 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:23:56.566805+00:00"
+        "planned_at": "2026-11-11T03:59:35.131456+00:00"
       },
       "previous_target_id": "30984844",
       "prepared": {
@@ -117608,6 +117608,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T17:48:50.251668+00:00",
         "relay_source_id": "34903564"
+      },
+      "claim": {
+        "worker_id": "796ad8b3c65246d68492e6c05496d6e2-shard-0",
+        "claimed_at": "2026-11-11T03:59:35.616690+00:00",
+        "lease_expires_at": "2026-11-11T09:59:35.616690+00:00",
+        "run_id": "42938376778"
       }
     },
     "17858": {
@@ -131882,7 +131888,7 @@
       "last_plan": {
         "source_id": "34787172",
         "display_name": "Brontosaurus 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:59:33.308187+00:00"
+        "planned_at": "2026-11-11T03:59:35.344236+00:00"
       }
     },
     "24237": {
@@ -185594,5 +185600,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:59:33.308198+00:00"
+  "updated_at": "2026-11-11T03:59:36.323185+00:00"
 }
