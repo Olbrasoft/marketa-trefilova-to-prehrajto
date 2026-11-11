@@ -108841,13 +108841,6 @@
           "source_id": "35072913",
           "target_video_id": "30983665",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:40:26.505558+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35072913",
-          "target_video_id": "30983665",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:12:54.861518+00:00"
         },
         {
@@ -108856,6 +108849,13 @@
           "target_video_id": "30983665",
           "permanent": false,
           "attempted_at": "2026-11-11T03:47:57.877180+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072913",
+          "target_video_id": "30983665",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:23:54.390996+00:00"
         }
       ],
       "last_plan": {
@@ -108869,12 +108869,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:30:14.467093+00:00",
         "relay_source_id": "35072913"
-      },
-      "claim": {
-        "worker_id": "deaf478f188948b487d12dd2a40e7a3d-shard-0",
-        "claimed_at": "2026-11-11T04:23:51.719251+00:00",
-        "lease_expires_at": "2026-11-11T10:23:51.719251+00:00",
-        "run_id": "42938376778"
       }
     },
     "28861": {
@@ -108904,7 +108898,7 @@
       "last_plan": {
         "source_id": "24370736",
         "display_name": "Na druhý pohled 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:47:59.784308+00:00"
+        "planned_at": "2026-11-11T04:23:53.751332+00:00"
       },
       "previous_target_id": "30983666",
       "prepared": {
@@ -108912,6 +108906,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:30:29.974007+00:00",
         "relay_source_id": "24370736"
+      },
+      "claim": {
+        "worker_id": "81f047b9b1494ec5aa95412c7a7c3402-shard-0",
+        "claimed_at": "2026-11-11T04:23:54.208564+00:00",
+        "lease_expires_at": "2026-11-11T10:23:54.208564+00:00",
+        "run_id": "42938376778"
       }
     },
     "24062": {
@@ -132679,7 +132679,7 @@
       "last_plan": {
         "source_id": "24368035",
         "display_name": "Psí kus 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:23:51.452351+00:00"
+        "planned_at": "2026-11-11T04:23:53.959823+00:00"
       }
     },
     "27256": {
@@ -186265,5 +186265,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:23:52.315528+00:00"
+  "updated_at": "2026-11-11T04:23:54.391007+00:00"
 }
