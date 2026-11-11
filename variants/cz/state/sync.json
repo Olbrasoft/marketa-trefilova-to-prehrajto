@@ -99620,6 +99620,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T03:43:51.701050+00:00",
         "relay_source_id": "27374216"
+      },
+      "claim": {
+        "worker_id": "1e2a6033d485463096e36e233709bfea-shard-0",
+        "claimed_at": "2026-11-11T05:21:37.310767+00:00",
+        "lease_expires_at": "2026-11-11T11:21:37.310767+00:00",
+        "run_id": "42938376778"
       }
     },
     "21190": {
@@ -114107,13 +114113,6 @@
           "source_id": "28048905",
           "target_video_id": "30984162",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:26:38.672304+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28048905",
-          "target_video_id": "30984162",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:02:27.103980+00:00"
         },
         {
@@ -114122,6 +114121,13 @@
           "target_video_id": "30984162",
           "permanent": false,
           "attempted_at": "2026-11-11T04:40:53.842517+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28048905",
+          "target_video_id": "30984162",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:21:38.397565+00:00"
         }
       ],
       "last_plan": {
@@ -114135,12 +114141,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T15:35:54.736912+00:00",
         "relay_source_id": "28048905"
-      },
-      "claim": {
-        "worker_id": "1c2174dc2d0c4931a0b67b0cd677dce6-shard-0",
-        "claimed_at": "2026-11-11T05:21:34.071796+00:00",
-        "lease_expires_at": "2026-11-11T11:21:34.071796+00:00",
-        "run_id": "42938376778"
       }
     },
     "2903": {
@@ -132584,7 +132584,7 @@
       "last_plan": {
         "source_id": "34470896",
         "display_name": "The Imperial Japanese Empire 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:40:55.515426+00:00"
+        "planned_at": "2026-11-11T05:21:38.864106+00:00"
       },
       "previous_target_id": "30987236",
       "prepared": {
@@ -134393,7 +134393,7 @@
       "last_plan": {
         "source_id": "34701460",
         "display_name": "A Bet on Thirteen (Sázka na třináctku) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:21:35.851885+00:00"
+        "planned_at": "2026-11-11T05:21:39.073571+00:00"
       }
     },
     "24046": {
@@ -187742,5 +187742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:21:35.851895+00:00"
+  "updated_at": "2026-11-11T05:21:39.073583+00:00"
 }
