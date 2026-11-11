@@ -109032,13 +109032,6 @@
           "source_id": "9978707",
           "target_video_id": "30983670",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:14:26.506866+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9978707",
-          "target_video_id": "30983670",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:49:37.347836+00:00"
         },
         {
@@ -109047,6 +109040,13 @@
           "target_video_id": "30983670",
           "permanent": false,
           "attempted_at": "2026-11-11T04:26:06.790597+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9978707",
+          "target_video_id": "30983670",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:07:26.399603+00:00"
         }
       ],
       "last_plan": {
@@ -109060,12 +109060,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:31:20.506954+00:00",
         "relay_source_id": "9978707"
-      },
-      "claim": {
-        "worker_id": "9ef2e718edb245efb5e27620daffeb6d-shard-0",
-        "claimed_at": "2026-11-11T05:07:23.577503+00:00",
-        "lease_expires_at": "2026-11-11T11:07:23.577503+00:00",
-        "run_id": "42938376778"
       }
     },
     "13053": {
@@ -113871,7 +113865,7 @@
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:26:05.158361+00:00"
+        "planned_at": "2026-11-11T05:07:25.719932+00:00"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -113879,6 +113873,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
+      },
+      "claim": {
+        "worker_id": "f26249e850d04a2693e373def603f7be-shard-0",
+        "claimed_at": "2026-11-11T05:07:26.184785+00:00",
+        "lease_expires_at": "2026-11-11T11:07:26.184785+00:00",
+        "run_id": "42938376778"
       }
     },
     "3152": {
@@ -133838,7 +133838,7 @@
       "last_plan": {
         "source_id": "32557568",
         "display_name": "Tony's Plan (Tony má plán) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:07:23.332165+00:00"
+        "planned_at": "2026-11-11T05:07:25.935923+00:00"
       }
     },
     "13373": {
@@ -187280,5 +187280,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:07:24.244340+00:00"
+  "updated_at": "2026-11-11T05:07:26.399613+00:00"
 }
