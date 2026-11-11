@@ -35646,17 +35646,19 @@
       "attempts": []
     },
     "2275": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35401846",
+          "target_video_id": "30989893",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:28:56.423507+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35401846",
         "display_name": "Little Fish (2020) 1080p CZ Titulky",
         "planned_at": "2026-11-11T12:26:55.631287+00:00"
-      },
-      "claim": {
-        "worker_id": "3cbb5ce95e54472dbeadfb2e834fc56a-shard-0",
-        "claimed_at": "2026-11-11T12:26:58.503173+00:00",
-        "lease_expires_at": "2026-11-11T18:26:58.503173+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30989893",
       "prepared": {
@@ -96906,5 +96908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:28:54.134635+00:00"
+  "updated_at": "2026-11-11T12:28:56.423523+00:00"
 }
