@@ -121730,13 +121730,6 @@
           "source_id": "27099387",
           "target_video_id": "30985431",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:29:10.006210+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27099387",
-          "target_video_id": "30985431",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:10:17.366072+00:00"
         },
         {
@@ -121745,6 +121738,13 @@
           "target_video_id": "30985431",
           "permanent": false,
           "attempted_at": "2026-11-11T05:51:32.384279+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27099387",
+          "target_video_id": "30985431",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:42:51.671419+00:00"
         }
       ],
       "last_plan": {
@@ -121758,12 +121758,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T19:16:16.465537+00:00",
         "relay_source_id": "27099387"
-      },
-      "claim": {
-        "worker_id": "4b108ae6731f4e32873489908e618996-shard-0",
-        "claimed_at": "2026-11-11T06:42:47.886546+00:00",
-        "lease_expires_at": "2026-11-11T12:42:47.886546+00:00",
-        "run_id": "42965310158"
       }
     },
     "35695": {
@@ -130095,7 +130089,7 @@
       "last_plan": {
         "source_id": "30261994",
         "display_name": "Nightline (Promlčeno) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:51:30.292767+00:00"
+        "planned_at": "2026-11-11T06:42:50.569878+00:00"
       },
       "previous_target_id": "30986930",
       "prepared": {
@@ -130103,6 +130097,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T02:43:15.360689+00:00",
         "relay_source_id": "30261994"
+      },
+      "claim": {
+        "worker_id": "edb97df9e7fa40298657420ef7825cbf-shard-0",
+        "claimed_at": "2026-11-11T06:42:51.168891+00:00",
+        "lease_expires_at": "2026-11-11T12:42:51.168891+00:00",
+        "run_id": "42965310158"
       }
     },
     "13847": {
@@ -137281,7 +137281,7 @@
       "last_plan": {
         "source_id": "31912060",
         "display_name": "Dry Season (Sucho) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:42:47.530924+00:00"
+        "planned_at": "2026-11-11T06:42:50.838399+00:00"
       }
     },
     "26385": {
@@ -190177,5 +190177,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:42:48.926972+00:00"
+  "updated_at": "2026-11-11T06:42:51.671439+00:00"
 }
