@@ -109845,13 +109845,6 @@
           "source_id": "34885981",
           "target_video_id": "30983734",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:16:31.173174+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34885981",
-          "target_video_id": "30983734",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:57:09.471897+00:00"
         },
         {
@@ -109860,6 +109853,13 @@
           "target_video_id": "30983734",
           "permanent": false,
           "attempted_at": "2026-11-10T23:40:21.694287+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34885981",
+          "target_video_id": "30983734",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:18:12.704799+00:00"
         }
       ],
       "last_plan": {
@@ -109873,12 +109873,6 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T14:40:48.261346+00:00",
         "relay_source_id": "34885981"
-      },
-      "claim": {
-        "worker_id": "0c2e159cee7b49c5b85ae09e09cb934f-shard-0",
-        "claimed_at": "2026-11-11T00:18:09.748609+00:00",
-        "lease_expires_at": "2026-11-11T06:18:09.748609+00:00",
-        "run_id": "42904278669"
       }
     },
     "1992": {
@@ -125925,7 +125919,7 @@
       "last_plan": {
         "source_id": "23530383",
         "display_name": "The Siege of Firebase Gloria 1080p CZ Dabing",
-        "planned_at": "2026-11-10T23:39:38.885249+00:00"
+        "planned_at": "2026-11-11T00:18:11.467037+00:00"
       },
       "previous_target_id": "30986223",
       "prepared": {
@@ -125933,6 +125927,12 @@
         "size_bytes": 9589536053,
         "prepared_at": "2026-11-10T23:39:45.447585+00:00",
         "relay_source_id": "23530383"
+      },
+      "claim": {
+        "worker_id": "7a5724af891945d3a9943aade10b7440-shard-0",
+        "claimed_at": "2026-11-11T00:18:12.454789+00:00",
+        "lease_expires_at": "2026-11-11T06:18:12.454789+00:00",
+        "run_id": "42904278669"
       }
     },
     "25750": {
@@ -126406,7 +126406,13 @@
       "last_plan": {
         "source_id": "34695526",
         "display_name": "The Birthday Wish 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:18:07.384082+00:00"
+        "planned_at": "2026-11-11T00:18:11.832092+00:00"
+      },
+      "claim": {
+        "worker_id": "574327c496334324aadeb68c49e80589-shard-0",
+        "claimed_at": "2026-11-11T00:18:12.884444+00:00",
+        "lease_expires_at": "2026-11-11T06:18:12.884444+00:00",
+        "run_id": "42904278669"
       }
     },
     "30990": {
@@ -126422,7 +126428,12 @@
       "attempts": []
     },
     "3078": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26615846",
+        "display_name": "Brothers of the Wind 1080p CZ Dabing",
+        "planned_at": "2026-11-11T00:18:12.045900+00:00"
+      }
     },
     "16786": {
       "attempts": []
@@ -181075,5 +181086,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:18:09.748637+00:00"
+  "updated_at": "2026-11-11T00:18:12.884479+00:00"
 }
