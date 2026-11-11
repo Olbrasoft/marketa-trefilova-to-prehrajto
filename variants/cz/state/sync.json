@@ -107015,13 +107015,6 @@
           "source_id": "34720969",
           "target_video_id": "30983144",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:55:22.364444+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34720969",
-          "target_video_id": "30983144",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:35:36.785738+00:00"
         },
         {
@@ -107030,6 +107023,13 @@
           "target_video_id": "30983144",
           "permanent": false,
           "attempted_at": "2026-11-11T03:08:35.089824+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34720969",
+          "target_video_id": "30983144",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:42:51.501293+00:00"
         }
       ],
       "last_plan": {
@@ -107072,7 +107072,7 @@
       "last_plan": {
         "source_id": "11951859",
         "display_name": "Probuzení 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:08:35.538784+00:00"
+        "planned_at": "2026-11-11T03:42:50.207459+00:00"
       },
       "previous_target_id": "30983145",
       "prepared": {
@@ -107080,6 +107080,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T13:53:28.759441+00:00",
         "relay_source_id": "11951859"
+      },
+      "claim": {
+        "worker_id": "5f14c20c1df448b5ab4c3dc566b300b3-shard-0",
+        "claimed_at": "2026-11-11T03:42:50.688404+00:00",
+        "lease_expires_at": "2026-11-11T09:42:50.688404+00:00",
+        "run_id": "42938376778"
       }
     },
     "21503": {
@@ -131266,7 +131272,7 @@
       "last_plan": {
         "source_id": "24221714",
         "display_name": "Dum U Zlateho usvitu 720p CZ Dabing",
-        "planned_at": "2026-11-11T03:42:48.526897+00:00"
+        "planned_at": "2026-11-11T03:42:50.412255+00:00"
       }
     },
     "24385": {
@@ -185092,5 +185098,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:42:48.526907+00:00"
+  "updated_at": "2026-11-11T03:42:51.501303+00:00"
 }
