@@ -109685,13 +109685,6 @@
           "source_id": "34634766",
           "target_video_id": "30983705",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:49:19.961318+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34634766",
-          "target_video_id": "30983705",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:34:09.635042+00:00"
         },
         {
@@ -109700,6 +109693,13 @@
           "target_video_id": "30983705",
           "permanent": false,
           "attempted_at": "2026-11-11T00:12:03.177806+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34634766",
+          "target_video_id": "30983705",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:49:44.836011+00:00"
         }
       ],
       "last_plan": {
@@ -119136,7 +119136,7 @@
       "last_plan": {
         "source_id": "17259873",
         "display_name": "The Crucible 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:12:02.928940+00:00"
+        "planned_at": "2026-11-11T00:49:43.141794+00:00"
       },
       "previous_target_id": "30984958",
       "prepared": {
@@ -119144,6 +119144,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T18:18:51.986839+00:00",
         "relay_source_id": "17259873"
+      },
+      "claim": {
+        "worker_id": "1126c5943a6446dd89def3ed7964e6b5-shard-0",
+        "claimed_at": "2026-11-11T00:49:43.974355+00:00",
+        "lease_expires_at": "2026-11-11T06:49:43.974355+00:00",
+        "run_id": "42904278669"
       }
     },
     "2794": {
@@ -126919,6 +126925,12 @@
         "source_id": "34871053",
         "display_name": "The Dawns Here Are Quiet (А зори здесь тихие...) (2015) 1080p CZ Dabing",
         "planned_at": "2026-11-11T00:49:40.454784+00:00"
+      },
+      "claim": {
+        "worker_id": "d5ad3ee5ab194d29be86d1c7d7b29a16-shard-0",
+        "claimed_at": "2026-11-11T00:49:42.917891+00:00",
+        "lease_expires_at": "2026-11-11T06:49:42.917891+00:00",
+        "run_id": "42904278669"
       }
     },
     "33191": {
@@ -126929,7 +126941,7 @@
       "last_plan": {
         "source_id": "34700359",
         "display_name": "Buona Sera, Mrs. Campbell SD CZ Dabing",
-        "planned_at": "2026-11-11T00:49:40.887289+00:00"
+        "planned_at": "2026-11-11T00:49:43.494874+00:00"
       }
     },
     "22110": {
@@ -181481,5 +181493,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:49:40.887306+00:00"
+  "updated_at": "2026-11-11T00:49:44.836032+00:00"
 }
