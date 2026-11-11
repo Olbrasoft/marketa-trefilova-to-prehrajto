@@ -142670,17 +142670,19 @@
       }
     },
     "32052": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "7239474",
+          "target_video_id": "30988750",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:55:46.484710+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "7239474",
         "display_name": "Bílá spona SD CZ Dabing",
         "planned_at": "2026-11-11T09:48:13.278774+00:00"
-      },
-      "claim": {
-        "worker_id": "cc96e2194cff464aa362413067862ac9-shard-0",
-        "claimed_at": "2026-11-11T09:48:13.963067+00:00",
-        "lease_expires_at": "2026-11-11T15:48:13.963067+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988750",
       "prepared": {
@@ -194887,5 +194889,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:55:42.270179+00:00"
+  "updated_at": "2026-11-11T09:55:46.484732+00:00"
 }
