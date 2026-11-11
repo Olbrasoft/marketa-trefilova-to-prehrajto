@@ -108742,13 +108742,6 @@
           "source_id": "33810503",
           "target_video_id": "30983627",
           "permanent": false,
-          "attempted_at": "2026-11-11T17:45:58.556789+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33810503",
-          "target_video_id": "30983627",
-          "permanent": false,
           "attempted_at": "2026-11-11T19:01:01.446401+00:00"
         },
         {
@@ -108757,6 +108750,13 @@
           "target_video_id": "30983627",
           "permanent": false,
           "attempted_at": "2026-11-11T20:12:39.825590+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33810503",
+          "target_video_id": "30983627",
+          "permanent": false,
+          "attempted_at": "2026-11-11T21:41:05.080017+00:00"
         }
       ],
       "last_plan": {
@@ -134182,7 +134182,7 @@
       "last_plan": {
         "source_id": "32363401",
         "display_name": "I'll Be Good, Old Man! („Já už budu hodný, dědečku!“) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:12:39.144699+00:00"
+        "planned_at": "2026-11-11T21:41:03.727500+00:00"
       },
       "previous_target_id": "30987499",
       "prepared": {
@@ -134190,6 +134190,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-11T04:59:44.589461+00:00",
         "relay_source_id": "32363401"
+      },
+      "claim": {
+        "worker_id": "9c204058d04849db92aed03446eeab3d-shard-0",
+        "claimed_at": "2026-11-11T21:41:04.598274+00:00",
+        "lease_expires_at": "2026-11-12T03:41:04.598274+00:00",
+        "run_id": "43102571398"
       }
     },
     "31818": {
@@ -146033,7 +146039,7 @@
       "last_plan": {
         "source_id": "34660297",
         "display_name": "A Pilot Tale (Balada o pilotovi) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:41:01.351316+00:00"
+        "planned_at": "2026-11-11T21:41:04.056287+00:00"
       }
     },
     "11525": {
@@ -197707,5 +197713,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:41:01.351338+00:00"
+  "updated_at": "2026-11-11T21:41:05.080038+00:00"
 }
