@@ -109367,13 +109367,6 @@
           "source_id": "34979725",
           "target_video_id": "30983683",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:17:15.503879+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34979725",
-          "target_video_id": "30983683",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:28:32.076369+00:00"
         },
         {
@@ -109382,6 +109375,13 @@
           "target_video_id": "30983683",
           "permanent": false,
           "attempted_at": "2026-11-11T21:58:08.960388+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34979725",
+          "target_video_id": "30983683",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:19:52.653829+00:00"
         }
       ],
       "last_plan": {
@@ -138322,7 +138322,7 @@
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:58:09.199599+00:00"
+        "planned_at": "2026-11-11T23:19:51.148981+00:00"
       },
       "previous_target_id": "30987901",
       "prepared": {
@@ -138330,6 +138330,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T06:41:36.668898+00:00",
         "relay_source_id": "33806385"
+      },
+      "claim": {
+        "worker_id": "1a2afbc0779446a293219288358c32da-shard-0",
+        "claimed_at": "2026-11-11T23:19:51.930242+00:00",
+        "lease_expires_at": "2026-11-12T05:19:51.930242+00:00",
+        "run_id": "43102571398"
       }
     },
     "11246": {
@@ -146246,7 +146252,7 @@
       "last_plan": {
         "source_id": "30453519",
         "display_name": "Die Geschichte vom kleinen Muck 720p CZ Dabing",
-        "planned_at": "2026-11-11T23:19:49.090103+00:00"
+        "planned_at": "2026-11-11T23:19:51.483351+00:00"
       }
     },
     "30419": {
@@ -197882,5 +197888,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:19:49.090124+00:00"
+  "updated_at": "2026-11-11T23:19:52.653847+00:00"
 }
