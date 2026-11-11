@@ -111449,13 +111449,6 @@
           "source_id": "25394211",
           "target_video_id": "30983830",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:55:32.049602+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25394211",
-          "target_video_id": "30983830",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:34:17.161460+00:00"
         },
         {
@@ -111464,6 +111457,13 @@
           "target_video_id": "30983830",
           "permanent": false,
           "attempted_at": "2026-11-11T01:15:06.646848+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25394211",
+          "target_video_id": "30983830",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:56:15.742281+00:00"
         }
       ],
       "last_plan": {
@@ -120554,7 +120554,7 @@
       "last_plan": {
         "source_id": "7542835",
         "display_name": "Denial SD CZ Dabing",
-        "planned_at": "2026-11-11T01:15:06.396261+00:00"
+        "planned_at": "2026-11-11T01:56:13.659026+00:00"
       },
       "previous_target_id": "30985047",
       "prepared": {
@@ -120562,6 +120562,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T18:39:48.775751+00:00",
         "relay_source_id": "7542835"
+      },
+      "claim": {
+        "worker_id": "d42d2989f0fd4290add867d68030d5a5-shard-0",
+        "claimed_at": "2026-11-11T01:56:14.579702+00:00",
+        "lease_expires_at": "2026-11-11T07:56:14.579702+00:00",
+        "run_id": "42904278669"
       }
     },
     "22840": {
@@ -128202,6 +128208,12 @@
         "source_id": "35139939",
         "display_name": "Angel of the Lord (Anděl Páně) SD CZ Dabing",
         "planned_at": "2026-11-11T01:56:11.192108+00:00"
+      },
+      "claim": {
+        "worker_id": "5c2b67283ffa456a816058cbded4f940-shard-0",
+        "claimed_at": "2026-11-11T01:56:13.430445+00:00",
+        "lease_expires_at": "2026-11-11T07:56:13.430445+00:00",
+        "run_id": "42904278669"
       }
     },
     "21950": {
@@ -128209,7 +128221,7 @@
       "last_plan": {
         "source_id": "29878083",
         "display_name": "La Horse (The Horse) SD CZ Dabing",
-        "planned_at": "2026-11-11T01:56:11.397768+00:00"
+        "planned_at": "2026-11-11T01:56:13.981188+00:00"
       }
     },
     "17181": {
@@ -182515,5 +182527,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:56:11.397788+00:00"
+  "updated_at": "2026-11-11T01:56:15.742302+00:00"
 }
