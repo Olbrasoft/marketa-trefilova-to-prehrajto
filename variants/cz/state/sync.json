@@ -109254,6 +109254,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T14:33:18.077116+00:00",
         "relay_source_id": "34671725"
+      },
+      "claim": {
+        "worker_id": "ee5e8e4d974e4495ab2cf75d560d2a55-shard-0",
+        "claimed_at": "2026-11-11T04:26:45.362988+00:00",
+        "lease_expires_at": "2026-11-11T10:26:45.362988+00:00",
+        "run_id": "42938376778"
       }
     },
     "34066": {
@@ -123246,13 +123252,6 @@
           "source_id": "27021419",
           "target_video_id": "30985619",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:42:23.368919+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27021419",
-          "target_video_id": "30985619",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:15:14.529445+00:00"
         },
         {
@@ -123261,6 +123260,13 @@
           "target_video_id": "30985619",
           "permanent": false,
           "attempted_at": "2026-11-11T03:50:14.030900+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27021419",
+          "target_video_id": "30985619",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:26:46.179031+00:00"
         }
       ],
       "last_plan": {
@@ -123274,12 +123280,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T20:46:51.208874+00:00",
         "relay_source_id": "27021419"
-      },
-      "claim": {
-        "worker_id": "b191cb622799427cb5bcf3ca2d99daaa-shard-0",
-        "claimed_at": "2026-11-11T04:26:43.454921+00:00",
-        "lease_expires_at": "2026-11-11T10:26:43.454921+00:00",
-        "run_id": "42938376778"
       }
     },
     "2868": {
@@ -130018,7 +130018,7 @@
       "last_plan": {
         "source_id": "34672037",
         "display_name": "A Bagful of Fleas (Pytel blech) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:50:13.665264+00:00"
+        "planned_at": "2026-11-11T04:26:45.539266+00:00"
       },
       "previous_target_id": "30986926",
       "prepared": {
@@ -130026,6 +130026,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T02:41:46.201833+00:00",
         "relay_source_id": "34672037"
+      },
+      "claim": {
+        "worker_id": "6c4d284526e04f538a45ade5635ebadc-shard-0",
+        "claimed_at": "2026-11-11T04:26:45.999964+00:00",
+        "lease_expires_at": "2026-11-11T10:26:45.999964+00:00",
+        "run_id": "42938376778"
       }
     },
     "13201": {
@@ -132810,7 +132816,7 @@
       "last_plan": {
         "source_id": "35067677",
         "display_name": "Ročník 21 (Jahrgang 21) SD CZ Dabing",
-        "planned_at": "2026-11-11T04:26:43.814796+00:00"
+        "planned_at": "2026-11-11T04:26:45.748741+00:00"
       }
     },
     "24204": {
@@ -186369,5 +186375,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:26:43.814805+00:00"
+  "updated_at": "2026-11-11T04:26:46.179041+00:00"
 }
