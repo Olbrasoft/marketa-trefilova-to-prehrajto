@@ -120260,6 +120260,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T18:36:07.983562+00:00",
         "relay_source_id": "17805705"
+      },
+      "claim": {
+        "worker_id": "5c69bed2d9054aa98177098060e5c937-shard-0",
+        "claimed_at": "2026-11-11T12:32:46.992118+00:00",
+        "lease_expires_at": "2026-11-11T18:32:46.992118+00:00",
+        "run_id": "43011363893"
       }
     },
     "21367": {
@@ -143275,17 +143281,19 @@
       "attempts": []
     },
     "27902": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25217823",
+          "target_video_id": "30989923",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:32:47.263666+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25217823",
         "display_name": "In Love SD CZ Dabing",
         "planned_at": "2026-11-11T12:31:37.741737+00:00"
-      },
-      "claim": {
-        "worker_id": "8a3ecf5b08e94efd86ee0906b4551198-shard-0",
-        "claimed_at": "2026-11-11T12:31:40.409850+00:00",
-        "lease_expires_at": "2026-11-11T18:31:40.409850+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30989923",
       "prepared": {
@@ -195404,5 +195412,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:32:45.207147+00:00"
+  "updated_at": "2026-11-11T12:32:47.263683+00:00"
 }
