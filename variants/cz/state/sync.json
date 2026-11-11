@@ -47049,13 +47049,6 @@
           "source_id": "35147292",
           "target_video_id": "30771541",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:48:09.035578+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35147292",
-          "target_video_id": "30771541",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:20:47.838258+00:00"
         },
         {
@@ -47064,12 +47057,19 @@
           "target_video_id": "30771541",
           "permanent": false,
           "attempted_at": "2026-11-11T03:56:00.414435+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35147292",
+          "target_video_id": "30771541",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:33:39.996384+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35147292",
         "display_name": "Macbeth (1948) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:55:55.138752+00:00"
+        "planned_at": "2026-11-11T04:33:37.666377+00:00"
       },
       "previous_target_id": "30771541",
       "prepared": {
@@ -132958,7 +132958,13 @@
       "last_plan": {
         "source_id": "30626666",
         "display_name": "Konec cesty SD CZ Dabing",
-        "planned_at": "2026-11-11T04:33:31.838879+00:00"
+        "planned_at": "2026-11-11T04:33:37.872744+00:00"
+      },
+      "claim": {
+        "worker_id": "406a60a67fa8481db6ad5e76998a4ad8-shard-0",
+        "claimed_at": "2026-11-11T04:33:38.374401+00:00",
+        "lease_expires_at": "2026-11-11T10:33:38.374401+00:00",
+        "run_id": "42938376778"
       }
     },
     "16221": {
@@ -132969,7 +132975,7 @@
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:33:31.973286+00:00"
+        "planned_at": "2026-11-11T04:33:38.002200+00:00"
       }
     },
     "4343": {
@@ -186501,5 +186507,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:33:34.002167+00:00"
+  "updated_at": "2026-11-11T04:33:39.996401+00:00"
 }
