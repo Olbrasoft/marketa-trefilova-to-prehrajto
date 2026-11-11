@@ -111603,13 +111603,6 @@
           "source_id": "33855360",
           "target_video_id": "30983838",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:17:27.272870+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855360",
-          "target_video_id": "30983838",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:58:33.248058+00:00"
         },
         {
@@ -111618,6 +111611,13 @@
           "target_video_id": "30983838",
           "permanent": false,
           "attempted_at": "2026-11-11T02:38:46.597546+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855360",
+          "target_video_id": "30983838",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:11:19.629902+00:00"
         }
       ],
       "last_plan": {
@@ -111631,12 +111631,6 @@
         "size_bytes": 8900000000,
         "prepared_at": "2026-11-10T14:56:59.066784+00:00",
         "relay_source_id": "33855360"
-      },
-      "claim": {
-        "worker_id": "1b593ce0705446e6b4f7dc624d38b475-shard-0",
-        "claimed_at": "2026-11-11T03:11:17.433846+00:00",
-        "lease_expires_at": "2026-11-11T09:11:17.433846+00:00",
-        "run_id": "42938376778"
       }
     },
     "32996": {
@@ -113686,7 +113680,7 @@
       "last_plan": {
         "source_id": "31982080",
         "display_name": "Extraction (2020) 4K CZ Dabing",
-        "planned_at": "2026-11-11T02:38:47.966074+00:00"
+        "planned_at": "2026-11-11T03:11:19.022647+00:00"
       },
       "previous_target_id": "30984113",
       "prepared": {
@@ -113694,6 +113688,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:29:05.818325+00:00",
         "relay_source_id": "31982080"
+      },
+      "claim": {
+        "worker_id": "9b790e9bae7249d4acf247edd7f80991-shard-0",
+        "claimed_at": "2026-11-11T03:11:19.464414+00:00",
+        "lease_expires_at": "2026-11-11T09:11:19.464414+00:00",
+        "run_id": "42938376778"
       }
     },
     "2796": {
@@ -130297,7 +130297,7 @@
       "last_plan": {
         "source_id": "34860819",
         "display_name": "Guard 13 (13. revír) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:11:17.193548+00:00"
+        "planned_at": "2026-11-11T03:11:19.225672+00:00"
       }
     },
     "32881": {
@@ -184282,5 +184282,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:11:17.597486+00:00"
+  "updated_at": "2026-11-11T03:11:19.629914+00:00"
 }
