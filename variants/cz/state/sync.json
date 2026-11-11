@@ -129921,13 +129921,6 @@
           "source_id": "27361344",
           "target_video_id": "30986908",
           "permanent": false,
-          "attempted_at": "2026-11-11T15:18:21.928851+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27361344",
-          "target_video_id": "30986908",
-          "permanent": false,
           "attempted_at": "2026-11-11T17:50:37.070485+00:00"
         },
         {
@@ -129936,6 +129929,13 @@
           "target_video_id": "30986908",
           "permanent": false,
           "attempted_at": "2026-11-11T19:05:44.295651+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27361344",
+          "target_video_id": "30986908",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:16:55.142265+00:00"
         }
       ],
       "last_plan": {
@@ -139693,7 +139693,7 @@
       "last_plan": {
         "source_id": "34864473",
         "display_name": "Corpus Delicti 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:05:45.848526+00:00"
+        "planned_at": "2026-11-11T20:16:53.527477+00:00"
       },
       "previous_target_id": "30988077",
       "prepared": {
@@ -139701,6 +139701,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-11T07:27:44.810508+00:00",
         "relay_source_id": "34864473"
+      },
+      "claim": {
+        "worker_id": "0eaf2bf6e70d4731a62341c264a55311-shard-0",
+        "claimed_at": "2026-11-11T20:16:53.986973+00:00",
+        "lease_expires_at": "2026-11-12T02:16:53.986973+00:00",
+        "run_id": "43067513109"
       }
     },
     "24211": {
@@ -145726,7 +145732,7 @@
       "last_plan": {
         "source_id": "10282091",
         "display_name": "May the Lord Be with Us (Bůh s námi – od defenestrace k Bílé hoře) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:16:51.711946+00:00"
+        "planned_at": "2026-11-11T20:16:53.734226+00:00"
       }
     },
     "11436": {
@@ -197446,5 +197452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:16:51.711967+00:00"
+  "updated_at": "2026-11-11T20:16:55.142283+00:00"
 }
