@@ -138180,17 +138180,19 @@
       }
     },
     "12990": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30326245",
+          "target_video_id": "30987991",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:12:27.424807+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30326245",
         "display_name": "Ľalie poľné SD CZ Dabing",
         "planned_at": "2026-11-11T07:11:12.937318+00:00"
-      },
-      "claim": {
-        "worker_id": "ffada92c18104c899376737ef2e4d426-shard-0",
-        "claimed_at": "2026-11-11T07:11:13.727711+00:00",
-        "lease_expires_at": "2026-11-11T13:11:13.727711+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987991",
       "prepared": {
@@ -191002,5 +191004,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:12:25.723670+00:00"
+  "updated_at": "2026-11-11T07:12:27.424827+00:00"
 }
