@@ -126331,17 +126331,19 @@
       }
     },
     "32900": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34453688",
+          "target_video_id": "30986375",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:16:09.658449+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34453688",
         "display_name": "Two-Way Stretch SD CZ Dabing",
         "planned_at": "2026-11-11T00:12:08.155277+00:00"
-      },
-      "claim": {
-        "worker_id": "4f94a7052895443389b66401746f0d0b-shard-0",
-        "claimed_at": "2026-11-11T00:12:10.412801+00:00",
-        "lease_expires_at": "2026-11-11T06:12:10.412801+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986375",
       "prepared": {
@@ -181058,5 +181060,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:16:07.981286+00:00"
+  "updated_at": "2026-11-11T00:16:09.658470+00:00"
 }
