@@ -111646,13 +111646,6 @@
           "source_id": "25728131",
           "target_video_id": "30983845",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:19:20.606141+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25728131",
-          "target_video_id": "30983845",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:57:48.623210+00:00"
         },
         {
@@ -111661,6 +111654,13 @@
           "target_video_id": "30983845",
           "permanent": false,
           "attempted_at": "2026-11-11T00:36:41.863609+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25728131",
+          "target_video_id": "30983845",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:17:38.072680+00:00"
         }
       ],
       "last_plan": {
@@ -122326,7 +122326,7 @@
       "last_plan": {
         "source_id": "32965631",
         "display_name": "The Mustang 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:36:40.116254+00:00"
+        "planned_at": "2026-11-11T01:17:36.554411+00:00"
       },
       "previous_target_id": "30985482",
       "prepared": {
@@ -122334,6 +122334,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T19:35:48.490593+00:00",
         "relay_source_id": "32965631"
+      },
+      "claim": {
+        "worker_id": "f841eef433e14c1d83ce570c1f307078-shard-0",
+        "claimed_at": "2026-11-11T01:17:37.313740+00:00",
+        "lease_expires_at": "2026-11-11T07:17:37.313740+00:00",
+        "run_id": "42904278669"
       }
     },
     "32312": {
@@ -127498,7 +127504,7 @@
       "last_plan": {
         "source_id": "32454208",
         "display_name": "The Portuguese House (Una quinta portuguesa) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:17:34.504658+00:00"
+        "planned_at": "2026-11-11T01:17:36.872647+00:00"
       }
     },
     "22342": {
@@ -181936,5 +181942,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:17:34.504679+00:00"
+  "updated_at": "2026-11-11T01:17:38.072699+00:00"
 }
