@@ -116645,13 +116645,6 @@
           "source_id": "34711260",
           "target_video_id": "30984755",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:23:08.505785+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711260",
-          "target_video_id": "30984755",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:21:07.074463+00:00"
         },
         {
@@ -116660,6 +116653,13 @@
           "target_video_id": "30984755",
           "permanent": false,
           "attempted_at": "2026-11-11T09:25:47.528012+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711260",
+          "target_video_id": "30984755",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:36:29.183424+00:00"
         }
       ],
       "last_plan": {
@@ -135900,7 +135900,7 @@
       "last_plan": {
         "source_id": "32367766",
         "display_name": "Alibi on the Lake (Alibi na vodě) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:25:54.731656+00:00"
+        "planned_at": "2026-11-11T12:36:27.888295+00:00"
       },
       "previous_target_id": "30987691",
       "prepared": {
@@ -135908,6 +135908,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-11T05:40:24.808381+00:00",
         "relay_source_id": "32367766"
+      },
+      "claim": {
+        "worker_id": "8a00cc10e04d45579a754cecab2b5144-shard-0",
+        "claimed_at": "2026-11-11T12:36:28.886595+00:00",
+        "lease_expires_at": "2026-11-11T18:36:28.886595+00:00",
+        "run_id": "43011363893"
       }
     },
     "9996": {
@@ -143409,7 +143415,7 @@
       "last_plan": {
         "source_id": "34922658",
         "display_name": "Death Chooses (Smrt si vybírá) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:36:23.868485+00:00"
+        "planned_at": "2026-11-11T12:36:28.268619+00:00"
       }
     },
     "12689": {
@@ -195492,5 +195498,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:36:24.219900+00:00"
+  "updated_at": "2026-11-11T12:36:29.183445+00:00"
 }
