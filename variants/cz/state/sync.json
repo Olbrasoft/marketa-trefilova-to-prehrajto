@@ -43109,13 +43109,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:12:21.657655+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:49:59.096559+00:00"
         },
         {
@@ -43124,6 +43117,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-11T01:32:07.760256+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:16:32.762481+00:00"
         }
       ],
       "last_plan": {
@@ -66898,7 +66898,7 @@
       "last_plan": {
         "source_id": "25671141",
         "display_name": "The Blind Man Who Did Not Want to See Titanic (Sokea mies joka ei halunnut nähdä Titanicia) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:32:07.013767+00:00"
+        "planned_at": "2026-11-11T02:16:31.303449+00:00"
       },
       "previous_target_id": "30833110",
       "prepared": {
@@ -66906,6 +66906,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-05T21:37:33.645650+00:00",
         "relay_source_id": "25671141"
+      },
+      "claim": {
+        "worker_id": "b767b4d86b624a909d2d73857b2bab91-shard-0",
+        "claimed_at": "2026-11-11T02:16:31.979762+00:00",
+        "lease_expires_at": "2026-11-11T08:16:31.979762+00:00",
+        "run_id": "42938376778"
       }
     },
     "1933": {
@@ -128654,7 +128660,7 @@
       "last_plan": {
         "source_id": "30726013",
         "display_name": "Solitude (Einvera) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:16:29.205111+00:00"
+        "planned_at": "2026-11-11T02:16:31.721330+00:00"
       }
     },
     "18985": {
@@ -182899,5 +182905,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:16:29.481892+00:00"
+  "updated_at": "2026-11-11T02:16:32.762497+00:00"
 }
