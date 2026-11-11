@@ -112782,13 +112782,6 @@
           "source_id": "34274611",
           "target_video_id": "30984010",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:59:52.728136+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34274611",
-          "target_video_id": "30984010",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:00:53.464934+00:00"
         },
         {
@@ -112797,6 +112790,13 @@
           "target_video_id": "30984010",
           "permanent": false,
           "attempted_at": "2026-11-11T12:10:45.782186+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34274611",
+          "target_video_id": "30984010",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:23:15.273719+00:00"
         }
       ],
       "last_plan": {
@@ -133853,7 +133853,7 @@
       "last_plan": {
         "source_id": "32097453",
         "display_name": "Veselý souboj SD CZ Dabing",
-        "planned_at": "2026-11-11T12:10:44.188757+00:00"
+        "planned_at": "2026-11-11T13:23:13.960800+00:00"
       },
       "previous_target_id": "30987443",
       "prepared": {
@@ -133861,6 +133861,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T04:42:03.188301+00:00",
         "relay_source_id": "32097453"
+      },
+      "claim": {
+        "worker_id": "b6db3be628a9428abc37028d95eed306-shard-0",
+        "claimed_at": "2026-11-11T13:23:14.961493+00:00",
+        "lease_expires_at": "2026-11-11T19:23:14.961493+00:00",
+        "run_id": "43011363893"
       }
     },
     "12579": {
@@ -144044,7 +144050,7 @@
       "last_plan": {
         "source_id": "31629620",
         "display_name": "Monstrum (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:23:11.450808+00:00"
+        "planned_at": "2026-11-11T13:23:14.315309+00:00"
       }
     },
     "28575": {
@@ -196073,5 +196079,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:23:11.450827+00:00"
+  "updated_at": "2026-11-11T13:23:15.273735+00:00"
 }
