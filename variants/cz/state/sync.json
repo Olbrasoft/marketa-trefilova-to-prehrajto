@@ -124525,7 +124525,7 @@
       "last_plan": {
         "source_id": "19162385",
         "display_name": "Tom Horn 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:02:42.777095+00:00"
+        "planned_at": "2026-11-11T00:02:45.508678+00:00"
       },
       "previous_target_id": "30985778",
       "prepared": {
@@ -126193,17 +126193,19 @@
       }
     },
     "2936": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14900937",
+          "target_video_id": "30986320",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:02:45.702152+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14900937",
         "display_name": "We Bare Bears: The Movie 1080p CZ Dabing",
         "planned_at": "2026-11-11T00:01:03.886291+00:00"
-      },
-      "claim": {
-        "worker_id": "ddc5139a01954fec9b750206a6c02b2e-shard-0",
-        "claimed_at": "2026-11-11T00:01:06.219316+00:00",
-        "lease_expires_at": "2026-11-11T06:01:06.219316+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986320",
       "prepared": {
@@ -180917,5 +180919,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:02:43.104439+00:00"
+  "updated_at": "2026-11-11T00:02:45.702175+00:00"
 }
