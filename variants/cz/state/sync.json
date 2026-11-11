@@ -141602,17 +141602,19 @@
       "attempts": []
     },
     "12698": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30610125",
+          "target_video_id": "30988610",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:56:29.440778+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30610125",
         "display_name": "Raging Barbora (Barbora řádí) SD CZ Dabing",
         "planned_at": "2026-11-11T08:55:44.279339+00:00"
-      },
-      "claim": {
-        "worker_id": "198c864814824e92a306dbab1a2b8ff6-shard-0",
-        "claimed_at": "2026-11-11T08:55:46.235788+00:00",
-        "lease_expires_at": "2026-11-11T14:55:46.235788+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988610",
       "prepared": {
@@ -193938,5 +193940,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:56:27.833784+00:00"
+  "updated_at": "2026-11-11T08:56:29.440794+00:00"
 }
