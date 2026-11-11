@@ -136440,17 +136440,19 @@
       }
     },
     "5777": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29979237",
+          "target_video_id": "30987839",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:21:24.372857+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29979237",
         "display_name": "Smetana 1080p CZ Dabing",
         "planned_at": "2026-11-11T06:20:39.967721+00:00"
-      },
-      "claim": {
-        "worker_id": "0661a60bea774adbb50ac68ba3ffbe84-shard-0",
-        "claimed_at": "2026-11-11T06:20:41.754495+00:00",
-        "lease_expires_at": "2026-11-11T12:20:41.754495+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30987839",
       "prepared": {
@@ -189514,5 +189516,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:21:22.803246+00:00"
+  "updated_at": "2026-11-11T06:21:24.372882+00:00"
 }
