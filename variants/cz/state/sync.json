@@ -130233,17 +130233,19 @@
       }
     },
     "13051": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29099333",
+          "target_video_id": "30986987",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:10:56.096003+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29099333",
         "display_name": "Wolves' Lairs (Vlčie diery) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:08:35.747918+00:00"
-      },
-      "claim": {
-        "worker_id": "ca54af9ce8594c45b19bfcfa5dd4d90a-shard-0",
-        "claimed_at": "2026-11-11T03:08:37.456135+00:00",
-        "lease_expires_at": "2026-11-11T09:08:37.456135+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986987",
       "prepared": {
@@ -184267,5 +184269,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:10:53.559914+00:00"
+  "updated_at": "2026-11-11T03:10:56.096023+00:00"
 }
