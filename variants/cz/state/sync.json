@@ -108829,6 +108829,12 @@
         "size_bytes": 748600000,
         "prepared_at": "2026-11-10T14:26:47.456286+00:00",
         "relay_source_id": "34676575"
+      },
+      "claim": {
+        "worker_id": "7682eb3bffb143988258493efcddc387-shard-0",
+        "claimed_at": "2026-11-11T13:58:56.598079+00:00",
+        "lease_expires_at": "2026-11-11T19:58:56.598079+00:00",
+        "run_id": "43011363893"
       }
     },
     "24514": {
@@ -113805,13 +113811,6 @@
           "source_id": "32318137",
           "target_video_id": "30984128",
           "permanent": false,
-          "attempted_at": "2026-11-11T08:27:47.785744+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32318137",
-          "target_video_id": "30984128",
-          "permanent": false,
           "attempted_at": "2026-11-11T09:33:57.167563+00:00"
         },
         {
@@ -113820,6 +113819,13 @@
           "target_video_id": "30984128",
           "permanent": false,
           "attempted_at": "2026-11-11T12:46:03.303362+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32318137",
+          "target_video_id": "30984128",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:58:56.403210+00:00"
         }
       ],
       "last_plan": {
@@ -113833,12 +113839,6 @@
         "size_bytes": 5700000000,
         "prepared_at": "2026-11-10T15:30:14.616464+00:00",
         "relay_source_id": "32318137"
-      },
-      "claim": {
-        "worker_id": "831627bc379d471ba2b93ed8698409dc-shard-0",
-        "claimed_at": "2026-11-11T13:58:53.557017+00:00",
-        "lease_expires_at": "2026-11-11T19:58:53.557017+00:00",
-        "run_id": "43011363893"
       }
     },
     "2986": {
@@ -118877,7 +118877,7 @@
       "last_plan": {
         "source_id": "18589416",
         "display_name": "The Stanford Prison Experiment 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:46:05.324325+00:00"
+        "planned_at": "2026-11-11T13:58:56.843260+00:00"
       },
       "previous_target_id": "30984920",
       "prepared": {
@@ -144415,7 +144415,7 @@
       "last_plan": {
         "source_id": "34134271",
         "display_name": "Definice lásky 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:58:54.139102+00:00"
+        "planned_at": "2026-11-11T13:58:57.185964+00:00"
       }
     },
     "37404": {
@@ -196392,5 +196392,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:58:54.139119+00:00"
+  "updated_at": "2026-11-11T13:58:57.185979+00:00"
 }
