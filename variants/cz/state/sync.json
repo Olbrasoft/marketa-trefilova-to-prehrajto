@@ -113215,6 +113215,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:22:38.900895+00:00",
         "relay_source_id": "33115659"
+      },
+      "claim": {
+        "worker_id": "e58287022ffb4052aa4af5757ba28b57-shard-0",
+        "claimed_at": "2026-11-11T00:27:28.360965+00:00",
+        "lease_expires_at": "2026-11-11T06:27:28.360965+00:00",
+        "run_id": "42904278669"
       }
     },
     "3042": {
@@ -118425,13 +118431,6 @@
           "source_id": "26076948",
           "target_video_id": "30984883",
           "permanent": false,
-          "attempted_at": "2026-11-10T22:28:01.649636+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26076948",
-          "target_video_id": "30984883",
-          "permanent": false,
           "attempted_at": "2026-11-10T23:09:16.158280+00:00"
         },
         {
@@ -118440,6 +118439,13 @@
           "target_video_id": "30984883",
           "permanent": false,
           "attempted_at": "2026-11-10T23:49:50.265096+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26076948",
+          "target_video_id": "30984883",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:27:29.177568+00:00"
         }
       ],
       "last_plan": {
@@ -118453,12 +118459,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T18:02:31.460552+00:00",
         "relay_source_id": "26076948"
-      },
-      "claim": {
-        "worker_id": "14df6c1a3d1544d39b0598876398dc12-shard-0",
-        "claimed_at": "2026-11-11T00:27:25.811159+00:00",
-        "lease_expires_at": "2026-11-11T06:27:25.811159+00:00",
-        "run_id": "42904278669"
       }
     },
     "26164": {
@@ -124362,7 +124362,7 @@
       "last_plan": {
         "source_id": "14593132",
         "display_name": "The Suspect (용의자) SD CZ Dabing",
-        "planned_at": "2026-11-10T23:49:52.772554+00:00"
+        "planned_at": "2026-11-11T00:27:28.584686+00:00"
       },
       "previous_target_id": "30985771",
       "prepared": {
@@ -126644,7 +126644,7 @@
       "last_plan": {
         "source_id": "34651344",
         "display_name": "Gigi & Nate 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:27:26.353494+00:00"
+        "planned_at": "2026-11-11T00:27:28.911403+00:00"
       }
     },
     "23824": {
@@ -181244,5 +181244,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:27:26.353513+00:00"
+  "updated_at": "2026-11-11T00:27:29.177592+00:00"
 }
