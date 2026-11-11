@@ -113261,13 +113261,6 @@
           "source_id": "33761714",
           "target_video_id": "30984074",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:55:11.917556+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33761714",
-          "target_video_id": "30984074",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:35:30.345527+00:00"
         },
         {
@@ -113276,6 +113269,13 @@
           "target_video_id": "30984074",
           "permanent": false,
           "attempted_at": "2026-11-11T03:08:32.240338+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33761714",
+          "target_video_id": "30984074",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:42:45.470293+00:00"
         }
       ],
       "last_plan": {
@@ -113289,12 +113289,6 @@
         "size_bytes": 11100000000,
         "prepared_at": "2026-11-10T15:24:06.705912+00:00",
         "relay_source_id": "33761714"
-      },
-      "claim": {
-        "worker_id": "3d447aa0f8624575b83d0283544effc5-shard-0",
-        "claimed_at": "2026-11-11T03:42:41.690909+00:00",
-        "lease_expires_at": "2026-11-11T09:42:41.690909+00:00",
-        "run_id": "42938376778"
       }
     },
     "2960": {
@@ -127612,7 +127606,7 @@
       "last_plan": {
         "source_id": "34909924",
         "display_name": "Winter in Sokcho 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:08:29.464381+00:00"
+        "planned_at": "2026-11-11T03:42:44.852037+00:00"
       },
       "previous_target_id": "30986627",
       "prepared": {
@@ -127620,6 +127614,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T01:13:16.122582+00:00",
         "relay_source_id": "34909924"
+      },
+      "claim": {
+        "worker_id": "4da49cc5eab44b05bb278c843cf235be-shard-0",
+        "claimed_at": "2026-11-11T03:42:45.319269+00:00",
+        "lease_expires_at": "2026-11-11T09:42:45.319269+00:00",
+        "run_id": "42938376778"
       }
     },
     "15073": {
@@ -131272,7 +131272,7 @@
       "last_plan": {
         "source_id": "24221714",
         "display_name": "Dum U Zlateho usvitu 720p CZ Dabing",
-        "planned_at": "2026-11-11T03:42:41.443800+00:00"
+        "planned_at": "2026-11-11T03:42:45.057875+00:00"
       }
     },
     "24385": {
@@ -185098,5 +185098,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:42:43.401308+00:00"
+  "updated_at": "2026-11-11T03:42:45.470305+00:00"
 }
