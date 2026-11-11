@@ -111991,13 +111991,6 @@
           "source_id": "30230963",
           "target_video_id": "30983916",
           "permanent": false,
-          "attempted_at": "2026-11-10T21:58:25.630144+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30230963",
-          "target_video_id": "30983916",
-          "permanent": false,
           "attempted_at": "2026-11-10T22:39:59.945705+00:00"
         },
         {
@@ -112006,6 +111999,13 @@
           "target_video_id": "30983916",
           "permanent": false,
           "attempted_at": "2026-11-10T23:23:19.375720+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30230963",
+          "target_video_id": "30983916",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:01:04.122484+00:00"
         }
       ],
       "last_plan": {
@@ -112019,12 +112019,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T15:02:25.707411+00:00",
         "relay_source_id": "30230963"
-      },
-      "claim": {
-        "worker_id": "6e9b9c1cbcc44cd4a5ab7ed875c3c9c4-shard-0",
-        "claimed_at": "2026-11-11T00:01:01.489246+00:00",
-        "lease_expires_at": "2026-11-11T06:01:01.489246+00:00",
-        "run_id": "42904278669"
       }
     },
     "13006": {
@@ -124633,7 +124627,7 @@
       "last_plan": {
         "source_id": "16799155",
         "display_name": "The Bachelors 720p CZ Dabing",
-        "planned_at": "2026-11-10T23:23:18.438247+00:00"
+        "planned_at": "2026-11-11T00:01:03.573626+00:00"
       },
       "previous_target_id": "30985789",
       "prepared": {
@@ -126203,14 +126197,19 @@
       "last_plan": {
         "source_id": "14900937",
         "display_name": "We Bare Bears: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:00:58.335217+00:00"
+        "planned_at": "2026-11-11T00:01:03.886291+00:00"
       }
     },
     "32276": {
       "attempts": []
     },
     "11234": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34673496",
+        "display_name": "Death of a Corrupt Man (Mort d'un pourri) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T00:01:04.303787+00:00"
+      }
     },
     "28601": {
       "attempts": []
@@ -180905,5 +180904,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:01:01.489277+00:00"
+  "updated_at": "2026-11-11T00:01:04.303805+00:00"
 }
