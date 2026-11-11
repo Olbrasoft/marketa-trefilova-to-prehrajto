@@ -111991,13 +111991,6 @@
           "source_id": "30230963",
           "target_video_id": "30983916",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:49:21.195809+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30230963",
-          "target_video_id": "30983916",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:25:50.226757+00:00"
         },
         {
@@ -112006,6 +111999,13 @@
           "target_video_id": "30983916",
           "permanent": false,
           "attempted_at": "2026-11-11T05:07:09.734163+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30230963",
+          "target_video_id": "30983916",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:47:50.190519+00:00"
         }
       ],
       "last_plan": {
@@ -112019,12 +112019,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T15:02:25.707411+00:00",
         "relay_source_id": "30230963"
-      },
-      "claim": {
-        "worker_id": "c49b5f1e0dd246a9b3f048b8303c12e3-shard-0",
-        "claimed_at": "2026-11-11T05:47:47.490275+00:00",
-        "lease_expires_at": "2026-11-11T11:47:47.490275+00:00",
-        "run_id": "42938376778"
       }
     },
     "13006": {
@@ -113953,6 +113947,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:33:19.620672+00:00",
         "relay_source_id": "29766668"
+      },
+      "claim": {
+        "worker_id": "e7c01e7b96e845f2800c957cbde2b90a-shard-0",
+        "claimed_at": "2026-11-11T05:47:49.353602+00:00",
+        "lease_expires_at": "2026-11-11T11:47:49.353602+00:00",
+        "run_id": "42938376778"
       }
     },
     "2964": {
@@ -130924,7 +130924,7 @@
       "last_plan": {
         "source_id": "34662434",
         "display_name": "Silent Barricade (Němá barikáda) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:07:09.373979+00:00"
+        "planned_at": "2026-11-11T05:47:49.530224+00:00"
       },
       "previous_target_id": "30987005",
       "prepared": {
@@ -130932,6 +130932,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T03:13:34.188305+00:00",
         "relay_source_id": "34662434"
+      },
+      "claim": {
+        "worker_id": "11eea6ff106d40579d6d14b1f7910340-shard-0",
+        "claimed_at": "2026-11-11T05:47:50.042065+00:00",
+        "lease_expires_at": "2026-11-11T11:47:50.042065+00:00",
+        "run_id": "42938376778"
       }
     },
     "27284": {
@@ -135327,7 +135333,7 @@
       "last_plan": {
         "source_id": "19686604",
         "display_name": "Volným pádem 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:47:47.869657+00:00"
+        "planned_at": "2026-11-11T05:47:49.738021+00:00"
       }
     },
     "31573": {
@@ -188546,5 +188552,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:47:47.869666+00:00"
+  "updated_at": "2026-11-11T05:47:50.190543+00:00"
 }
