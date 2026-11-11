@@ -35599,17 +35599,19 @@
       "attempts": []
     },
     "21777": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6120853",
+          "target_video_id": "30989766",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:20:18.269049+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6120853",
         "display_name": "Those Magnificent Men in their Flying Machines (Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes) 1080p CZ Titulky",
         "planned_at": "2026-11-11T12:14:35.939562+00:00"
-      },
-      "claim": {
-        "worker_id": "c6dc4b1636c14ab1a65cfe0bea918bf7-shard-0",
-        "claimed_at": "2026-11-11T12:14:36.346701+00:00",
-        "lease_expires_at": "2026-11-11T18:14:36.346701+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30989766",
       "prepared": {
@@ -96881,5 +96883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:18:17.119727+00:00"
+  "updated_at": "2026-11-11T12:20:18.269068+00:00"
 }
