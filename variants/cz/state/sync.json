@@ -144942,17 +144942,19 @@
       "attempts": []
     },
     "15824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35085271",
+          "target_video_id": "30991696",
+          "permanent": false,
+          "attempted_at": "2026-11-11T16:23:43.284939+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35085271",
         "display_name": "Oldies But Goldies (Vrásky z lásky) 1080p CZ Dabing",
         "planned_at": "2026-11-11T16:07:24.136918+00:00"
-      },
-      "claim": {
-        "worker_id": "b6803e1e3e86436cac1c5bae0cdac7a2-shard-0",
-        "claimed_at": "2026-11-11T16:07:25.281574+00:00",
-        "lease_expires_at": "2026-11-11T22:07:25.281574+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30991696",
       "prepared": {
@@ -196837,5 +196839,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T16:07:31.820955+00:00"
+  "updated_at": "2026-11-11T16:23:43.284953+00:00"
 }
