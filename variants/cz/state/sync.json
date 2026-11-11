@@ -139459,17 +139459,19 @@
       "attempts": []
     },
     "3296": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34791481",
+          "target_video_id": "30988184",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:48:29.048335+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34791481",
         "display_name": "And Tomorrow We Will Be Dead (Und morgen seid ihr tot) 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:47:10.641766+00:00"
-      },
-      "claim": {
-        "worker_id": "62e4b9400148461bb2b907ec75c8883c-shard-0",
-        "claimed_at": "2026-11-11T07:47:14.514327+00:00",
-        "lease_expires_at": "2026-11-11T13:47:14.514327+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988184",
       "prepared": {
@@ -192101,5 +192103,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:48:27.473914+00:00"
+  "updated_at": "2026-11-11T07:48:29.048351+00:00"
 }
