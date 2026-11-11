@@ -112933,13 +112933,6 @@
           "source_id": "31202256",
           "target_video_id": "30984050",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:45:47.253207+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31202256",
-          "target_video_id": "30984050",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:26:42.063286+00:00"
         },
         {
@@ -112948,6 +112941,13 @@
           "target_video_id": "30984050",
           "permanent": false,
           "attempted_at": "2026-11-11T02:59:13.966216+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31202256",
+          "target_video_id": "30984050",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:33:29.838042+00:00"
         }
       ],
       "last_plan": {
@@ -117822,7 +117822,7 @@
       "last_plan": {
         "source_id": "18074487",
         "display_name": "Arctic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:59:12.169353+00:00"
+        "planned_at": "2026-11-11T03:33:28.457992+00:00"
       },
       "previous_target_id": "30984856",
       "prepared": {
@@ -117830,6 +117830,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:54:08.603423+00:00",
         "relay_source_id": "18074487"
+      },
+      "claim": {
+        "worker_id": "8525b72f18124bcfbf3b02e67ef3c6f1-shard-0",
+        "claimed_at": "2026-11-11T03:33:28.903969+00:00",
+        "lease_expires_at": "2026-11-11T09:33:28.903969+00:00",
+        "run_id": "42938376778"
       }
     },
     "2956": {
@@ -130919,7 +130925,7 @@
       "last_plan": {
         "source_id": "34746816",
         "display_name": "Krok do tmy (A Step into the Darkness) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:33:22.867587+00:00"
+        "planned_at": "2026-11-11T03:33:28.663022+00:00"
       }
     },
     "21501": {
@@ -184808,5 +184814,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:33:22.867599+00:00"
+  "updated_at": "2026-11-11T03:33:29.838057+00:00"
 }
