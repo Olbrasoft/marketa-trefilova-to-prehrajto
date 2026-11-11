@@ -126685,17 +126685,19 @@
       }
     },
     "23824": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34189395",
+          "target_video_id": "30986442",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:31:51.154023+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34189395",
         "display_name": "Last Stand at Saber River 1080p CZ Dabing",
         "planned_at": "2026-11-11T00:29:09.663260+00:00"
-      },
-      "claim": {
-        "worker_id": "3cc03443d1d246ae8e0b262fc36cbedb-shard-0",
-        "claimed_at": "2026-11-11T00:29:10.539897+00:00",
-        "lease_expires_at": "2026-11-11T06:29:10.539897+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986442",
       "prepared": {
@@ -181304,5 +181306,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:31:48.793473+00:00"
+  "updated_at": "2026-11-11T00:31:51.154041+00:00"
 }
