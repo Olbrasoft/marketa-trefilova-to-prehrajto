@@ -126829,13 +126829,6 @@
           "source_id": "6308804",
           "target_video_id": "30986400",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:10:49.360482+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6308804",
-          "target_video_id": "30986400",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:50:37.900906+00:00"
         },
         {
@@ -126844,6 +126837,13 @@
           "target_video_id": "30986400",
           "permanent": false,
           "attempted_at": "2026-11-11T05:30:03.813597+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6308804",
+          "target_video_id": "30986400",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:13:24.285996+00:00"
         }
       ],
       "last_plan": {
@@ -132791,7 +132791,7 @@
       "last_plan": {
         "source_id": "30864230",
         "display_name": "The Night Guest SD CZ Dabing",
-        "planned_at": "2026-11-11T05:30:03.188245+00:00"
+        "planned_at": "2026-11-11T06:13:22.460845+00:00"
       },
       "previous_target_id": "30987287",
       "prepared": {
@@ -132799,6 +132799,12 @@
         "size_bytes": 912100000,
         "prepared_at": "2026-11-11T04:10:15.307743+00:00",
         "relay_source_id": "30864230"
+      },
+      "claim": {
+        "worker_id": "2d0f4edec0964dc1a1e9f10119fe2718-shard-0",
+        "claimed_at": "2026-11-11T06:13:22.923044+00:00",
+        "lease_expires_at": "2026-11-11T12:13:22.923044+00:00",
+        "run_id": "42938376778"
       }
     },
     "31705": {
@@ -136283,7 +136289,7 @@
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:13:20.590019+00:00"
+        "planned_at": "2026-11-11T06:13:22.672212+00:00"
       }
     },
     "29359": {
@@ -189359,5 +189365,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:13:20.763222+00:00"
+  "updated_at": "2026-11-11T06:13:24.286007+00:00"
 }
