@@ -130070,17 +130070,19 @@
       "attempts": []
     },
     "15494": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32019593",
+          "target_video_id": "30986976",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:05:08.364461+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32019593",
         "display_name": "Fimfárum do tretice vseho dobrého 3D (Fimfárum – Do třetice všeho dobrého) SD CZ Dabing",
         "planned_at": "2026-11-11T03:03:58.125649+00:00"
-      },
-      "claim": {
-        "worker_id": "d7148af9a03947f3b4b961c80502dad4-shard-0",
-        "claimed_at": "2026-11-11T03:03:59.825596+00:00",
-        "lease_expires_at": "2026-11-11T09:03:59.825596+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986976",
       "prepared": {
@@ -184098,5 +184100,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:05:06.830207+00:00"
+  "updated_at": "2026-11-11T03:05:08.364477+00:00"
 }
