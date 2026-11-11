@@ -133819,13 +133819,6 @@
           "source_id": "32097453",
           "target_video_id": "30987443",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:25:09.499469+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32097453",
-          "target_video_id": "30987443",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:08:20.060989+00:00"
         },
         {
@@ -133834,6 +133827,13 @@
           "target_video_id": "30987443",
           "permanent": false,
           "attempted_at": "2026-11-11T07:03:05.710966+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32097453",
+          "target_video_id": "30987443",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:59:56.688487+00:00"
         }
       ],
       "last_plan": {
@@ -135289,7 +135289,7 @@
       "last_plan": {
         "source_id": "29184927",
         "display_name": "Pára nad hrncem SD CZ Dabing",
-        "planned_at": "2026-11-11T07:03:04.083038+00:00"
+        "planned_at": "2026-11-11T07:59:55.151093+00:00"
       },
       "previous_target_id": "30987609",
       "prepared": {
@@ -135297,6 +135297,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-11T05:24:35.805876+00:00",
         "relay_source_id": "29184927"
+      },
+      "claim": {
+        "worker_id": "ed01e64674f14649b61ebf318c60b2fe-shard-0",
+        "claimed_at": "2026-11-11T07:59:55.803977+00:00",
+        "lease_expires_at": "2026-11-11T13:59:55.803977+00:00",
+        "run_id": "42965310158"
       }
     },
     "20468": {
@@ -139902,7 +139908,7 @@
       "last_plan": {
         "source_id": "32097224",
         "display_name": "The Great Dam (Velká přehrada) SD CZ Dabing",
-        "planned_at": "2026-11-11T07:59:53.005401+00:00"
+        "planned_at": "2026-11-11T07:59:55.425239+00:00"
       }
     },
     "32940": {
@@ -192455,5 +192461,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:59:53.005420+00:00"
+  "updated_at": "2026-11-11T07:59:56.688505+00:00"
 }
