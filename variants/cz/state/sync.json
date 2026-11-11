@@ -132874,17 +132874,19 @@
       }
     },
     "12754": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34902528",
+          "target_video_id": "30987386",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:31:29.269101+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34902528",
         "display_name": "Lisáci-Mysáci a Sibenicák (Lišáci – Myšáci a Šibeničák) 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:28:17.615338+00:00"
-      },
-      "claim": {
-        "worker_id": "b3b5c12eb0ac47f5a92bd673278abf0b-shard-0",
-        "claimed_at": "2026-11-11T04:28:19.685160+00:00",
-        "lease_expires_at": "2026-11-11T10:28:19.685160+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987386",
       "prepared": {
@@ -186449,5 +186451,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:31:27.727677+00:00"
+  "updated_at": "2026-11-11T04:31:29.269118+00:00"
 }
