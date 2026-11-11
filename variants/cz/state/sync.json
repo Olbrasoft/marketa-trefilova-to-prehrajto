@@ -142453,13 +142453,6 @@
           "source_id": "32111003",
           "target_video_id": "30988596",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:13:47.964441+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32111003",
-          "target_video_id": "30988596",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:29:49.407863+00:00"
         },
         {
@@ -142468,12 +142461,19 @@
           "target_video_id": "30988596",
           "permanent": false,
           "attempted_at": "2026-11-11T15:50:52.407932+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32111003",
+          "target_video_id": "30988596",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:15:46.553364+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32111003",
         "display_name": "Alemania 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:50:50.020656+00:00"
+        "planned_at": "2026-11-11T18:15:44.170216+00:00"
       },
       "previous_target_id": "30988596",
       "prepared": {
@@ -145195,11 +145195,22 @@
       "last_plan": {
         "source_id": "33709703",
         "display_name": "Mature Wine (Zralé víno) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:15:38.167269+00:00"
+        "planned_at": "2026-11-11T18:15:44.383945+00:00"
+      },
+      "claim": {
+        "worker_id": "3af320d628744ab3a8a79b959860d7d0-shard-0",
+        "claimed_at": "2026-11-11T18:15:44.909960+00:00",
+        "lease_expires_at": "2026-11-12T00:15:44.909960+00:00",
+        "run_id": "43067513109"
       }
     },
     "17593": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34696336",
+        "display_name": "Das Märchen von der Regentrude 1080p CZ Dabing",
+        "planned_at": "2026-11-11T18:15:44.519264+00:00"
+      }
     },
     "30218": {
       "attempts": []
@@ -197008,5 +197019,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:15:40.732266+00:00"
+  "updated_at": "2026-11-11T18:15:46.553384+00:00"
 }
