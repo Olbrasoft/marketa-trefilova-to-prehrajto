@@ -134817,17 +134817,19 @@
       }
     },
     "14067": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34528200",
+          "target_video_id": "30987645",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:34:11.201282+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34528200",
         "display_name": "Stín smrtihlava 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:33:26.848048+00:00"
-      },
-      "claim": {
-        "worker_id": "a004a9d818684f7bab4041c751e8e266-shard-0",
-        "claimed_at": "2026-11-11T05:33:28.863980+00:00",
-        "lease_expires_at": "2026-11-11T11:33:28.863980+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987645",
       "prepared": {
@@ -188125,5 +188127,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:34:08.456021+00:00"
+  "updated_at": "2026-11-11T05:34:11.201306+00:00"
 }
