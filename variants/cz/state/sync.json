@@ -130823,17 +130823,19 @@
       "attempts": []
     },
     "21912": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33873521",
+          "target_video_id": "30987048",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:30:23.287874+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33873521",
         "display_name": "Nase bláznivá rodina (Naše bláznivá rodina) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:29:38.324009+00:00"
-      },
-      "claim": {
-        "worker_id": "54c8919cde34437bb910303563aec9aa-shard-0",
-        "claimed_at": "2026-11-11T03:29:40.180870+00:00",
-        "lease_expires_at": "2026-11-11T09:29:40.180870+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987048",
       "prepared": {
@@ -184746,5 +184748,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:30:21.785748+00:00"
+  "updated_at": "2026-11-11T03:30:23.287891+00:00"
 }
