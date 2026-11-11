@@ -127942,17 +127942,19 @@
       }
     },
     "15620": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34694034",
+          "target_video_id": "30986712",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:43:00.446960+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34694034",
         "display_name": "The Punishment (El castigo) 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:41:41.155271+00:00"
-      },
-      "claim": {
-        "worker_id": "d87b23afebd34b0eac0f377c5e9c5c2f-shard-0",
-        "claimed_at": "2026-11-11T01:41:43.612392+00:00",
-        "lease_expires_at": "2026-11-11T07:41:43.612392+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986712",
       "prepared": {
@@ -182315,5 +182317,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:42:58.783337+00:00"
+  "updated_at": "2026-11-11T01:43:00.446980+00:00"
 }
