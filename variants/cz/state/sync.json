@@ -127992,6 +127992,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T01:21:27.931935+00:00",
         "relay_source_id": "24508454"
+      },
+      "claim": {
+        "worker_id": "02db5a4906084a7f9fd08caff725af55-shard-0",
+        "claimed_at": "2026-11-11T18:01:37.673893+00:00",
+        "lease_expires_at": "2026-11-12T00:01:37.673893+00:00",
+        "run_id": "43067513109"
       }
     },
     "32719": {
@@ -128893,13 +128899,6 @@
           "source_id": "29464471",
           "target_video_id": "30986773",
           "permanent": false,
-          "attempted_at": "2026-11-11T12:53:26.771489+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29464471",
-          "target_video_id": "30986773",
-          "permanent": false,
           "attempted_at": "2026-11-11T14:06:06.290589+00:00"
         },
         {
@@ -128908,12 +128907,19 @@
           "target_video_id": "30986773",
           "permanent": false,
           "attempted_at": "2026-11-11T15:28:36.240697+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29464471",
+          "target_video_id": "30986773",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:01:40.114635+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29464471",
         "display_name": "Shaolin Mantis 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:28:33.313442+00:00"
+        "planned_at": "2026-11-11T18:01:37.839210+00:00"
       },
       "previous_target_id": "30986773",
       "prepared": {
@@ -145125,7 +145131,7 @@
       "last_plan": {
         "source_id": "28089630",
         "display_name": "The Pearl Maiden (O perlové panně) SD CZ Dabing",
-        "planned_at": "2026-11-11T18:01:35.927958+00:00"
+        "planned_at": "2026-11-11T18:01:38.063820+00:00"
       }
     },
     "4314": {
@@ -196950,5 +196956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:01:35.927979+00:00"
+  "updated_at": "2026-11-11T18:01:40.114653+00:00"
 }
