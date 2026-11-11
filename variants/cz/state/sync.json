@@ -117933,7 +117933,7 @@
       "last_plan": {
         "source_id": "32263146",
         "display_name": "Last Tango in Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:10:41.129076+00:00"
+        "planned_at": "2026-11-11T04:50:27.090792+00:00"
       },
       "previous_target_id": "30984860",
       "prepared": {
@@ -117941,17 +117941,16 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-11-10T17:56:45.657447+00:00",
         "relay_source_id": "32263146"
+      },
+      "claim": {
+        "worker_id": "d2d8523203f84f5594e85ef150ececc6-shard-0",
+        "claimed_at": "2026-11-11T04:50:27.550706+00:00",
+        "lease_expires_at": "2026-11-11T10:50:27.550706+00:00",
+        "run_id": "42938376778"
       }
     },
     "3157": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "13038862",
-          "target_video_id": "30984859",
-          "permanent": false,
-          "attempted_at": "2026-11-11T02:59:48.154633+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "13038862",
@@ -117965,6 +117964,13 @@
           "target_video_id": "30984859",
           "permanent": false,
           "attempted_at": "2026-11-11T04:10:39.615301+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13038862",
+          "target_video_id": "30984859",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:50:27.718452+00:00"
         }
       ],
       "last_plan": {
@@ -117978,12 +117984,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:56:44.181619+00:00",
         "relay_source_id": "13038862"
-      },
-      "claim": {
-        "worker_id": "176fd73469d541609f9aa7bb1cbeb84c-shard-0",
-        "claimed_at": "2026-11-11T04:50:25.479841+00:00",
-        "lease_expires_at": "2026-11-11T10:50:25.479841+00:00",
-        "run_id": "42938376778"
       }
     },
     "3066": {
@@ -133264,7 +133264,7 @@
       "last_plan": {
         "source_id": "34676079",
         "display_name": "Madla z cihelny 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:50:25.217343+00:00"
+        "planned_at": "2026-11-11T04:50:27.301296+00:00"
       }
     },
     "24448": {
@@ -186775,5 +186775,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:50:25.637048+00:00"
+  "updated_at": "2026-11-11T04:50:27.718469+00:00"
 }
