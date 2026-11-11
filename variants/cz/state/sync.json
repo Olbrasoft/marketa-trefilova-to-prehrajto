@@ -133913,13 +133913,6 @@
           "source_id": "30622989",
           "target_video_id": "30987471",
           "permanent": false,
-          "attempted_at": "2026-11-11T17:32:30.139685+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30622989",
-          "target_video_id": "30987471",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:44:12.974149+00:00"
         },
         {
@@ -133928,12 +133921,19 @@
           "target_video_id": "30987471",
           "permanent": false,
           "attempted_at": "2026-11-11T19:59:25.336483+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30622989",
+          "target_video_id": "30987471",
+          "permanent": false,
+          "attempted_at": "2026-11-11T21:08:06.356237+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30622989",
         "display_name": "Concert at the End of Summer (Koncert na konci léta) SD CZ Dabing",
-        "planned_at": "2026-11-11T19:59:20.655717+00:00"
+        "planned_at": "2026-11-11T21:08:02.478539+00:00"
       },
       "previous_target_id": "30987471",
       "prepared": {
@@ -145984,11 +145984,22 @@
       "last_plan": {
         "source_id": "30991767",
         "display_name": "Gangster Ka: African (Gangster Ka: Afričan) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T21:07:54.916976+00:00"
+        "planned_at": "2026-11-11T21:08:02.685815+00:00"
+      },
+      "claim": {
+        "worker_id": "779ad0e5cf464c5bab230d291b9742db-shard-0",
+        "claimed_at": "2026-11-11T21:08:03.201100+00:00",
+        "lease_expires_at": "2026-11-12T03:08:03.201100+00:00",
+        "run_id": "43067513109"
       }
     },
     "5532": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34660297",
+        "display_name": "A Pilot Tale (Balada o pilotovi) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T21:08:02.819800+00:00"
+      }
     },
     "11525": {
       "attempts": []
@@ -197656,5 +197667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:07:59.006121+00:00"
+  "updated_at": "2026-11-11T21:08:06.356258+00:00"
 }
