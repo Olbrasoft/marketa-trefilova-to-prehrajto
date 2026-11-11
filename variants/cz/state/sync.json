@@ -110794,6 +110794,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T14:48:37.571104+00:00",
         "relay_source_id": "30114972"
+      },
+      "claim": {
+        "worker_id": "d715fcfa0be74dcfbd9369246ed459c0-shard-0",
+        "claimed_at": "2026-11-11T21:01:17.952708+00:00",
+        "lease_expires_at": "2026-11-12T03:01:17.952708+00:00",
+        "run_id": "43067513109"
       }
     },
     "12685": {
@@ -128413,13 +128419,6 @@
           "source_id": "30776586",
           "target_video_id": "30986713",
           "permanent": false,
-          "attempted_at": "2026-11-11T16:04:51.656302+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30776586",
-          "target_video_id": "30986713",
-          "permanent": false,
           "attempted_at": "2026-11-11T18:34:37.350523+00:00"
         },
         {
@@ -128428,12 +128427,19 @@
           "target_video_id": "30986713",
           "permanent": false,
           "attempted_at": "2026-11-11T19:49:24.679891+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30776586",
+          "target_video_id": "30986713",
+          "permanent": false,
+          "attempted_at": "2026-11-11T21:01:19.978895+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30776586",
         "display_name": "Chinas, a Second Generation Story (Chinas) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T19:49:22.858909+00:00"
+        "planned_at": "2026-11-11T21:01:18.144295+00:00"
       },
       "previous_target_id": "30986713",
       "prepared": {
@@ -145923,7 +145929,7 @@
       "last_plan": {
         "source_id": "35067288",
         "display_name": "Krvavý román (Horror Story) SD CZ Dabing",
-        "planned_at": "2026-11-11T21:01:16.183981+00:00"
+        "planned_at": "2026-11-11T21:01:18.370195+00:00"
       }
     },
     "13233": {
@@ -197609,5 +197615,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T21:01:16.184004+00:00"
+  "updated_at": "2026-11-11T21:01:19.978917+00:00"
 }
