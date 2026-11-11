@@ -106892,13 +106892,6 @@
           "source_id": "34751129",
           "target_video_id": "30983121",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:46:13.236899+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34751129",
-          "target_video_id": "30983121",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:02:06.833261+00:00"
         },
         {
@@ -106907,6 +106900,13 @@
           "target_video_id": "30983121",
           "permanent": false,
           "attempted_at": "2026-11-11T17:38:53.845210+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751129",
+          "target_video_id": "30983121",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:49:35.240868+00:00"
         }
       ],
       "last_plan": {
@@ -106920,12 +106920,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T13:52:32.786540+00:00",
         "relay_source_id": "34751129"
-      },
-      "claim": {
-        "worker_id": "da7148c29cd84e228ccef342be9d5854-shard-0",
-        "claimed_at": "2026-11-11T18:49:29.531285+00:00",
-        "lease_expires_at": "2026-11-12T00:49:29.531285+00:00",
-        "run_id": "43067513109"
       }
     },
     "21739": {
@@ -141260,7 +141254,7 @@
       "last_plan": {
         "source_id": "22069348",
         "display_name": "Prípad pro rybáre (Případ pro rybáře) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:38:57.973513+00:00"
+        "planned_at": "2026-11-11T18:49:34.169196+00:00"
       },
       "previous_target_id": "30988344",
       "prepared": {
@@ -141268,6 +141262,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T08:12:54.569713+00:00",
         "relay_source_id": "22069348"
+      },
+      "claim": {
+        "worker_id": "8232fa939c274e22afb4b2298bb090c1-shard-0",
+        "claimed_at": "2026-11-11T18:49:34.629565+00:00",
+        "lease_expires_at": "2026-11-12T00:49:34.629565+00:00",
+        "run_id": "43067513109"
       }
     },
     "32326": {
@@ -145356,7 +145356,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:49:29.100767+00:00"
+        "planned_at": "2026-11-11T18:49:34.379574+00:00"
       }
     },
     "13050": {
@@ -197145,5 +197145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:49:29.531307+00:00"
+  "updated_at": "2026-11-11T18:49:35.240884+00:00"
 }
