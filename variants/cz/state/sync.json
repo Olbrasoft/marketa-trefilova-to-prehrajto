@@ -43103,13 +43103,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:51:58.498680+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:47:48.077334+00:00"
         },
         {
@@ -43118,6 +43111,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-11T08:47:42.617591+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:01:23.652700+00:00"
         }
       ],
       "last_plan": {
@@ -131127,7 +131127,7 @@
       "last_plan": {
         "source_id": "32647219",
         "display_name": "Mama (Máma) (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:47:41.908033+00:00"
+        "planned_at": "2026-11-11T10:01:22.080823+00:00"
       },
       "previous_target_id": "30987015",
       "prepared": {
@@ -131135,6 +131135,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T03:19:22.514356+00:00",
         "relay_source_id": "32647219"
+      },
+      "claim": {
+        "worker_id": "b772b2bfd263461c9e919d489ad18cba-shard-0",
+        "claimed_at": "2026-11-11T10:01:22.741487+00:00",
+        "lease_expires_at": "2026-11-11T16:01:22.741487+00:00",
+        "run_id": "42965310158"
       }
     },
     "13290": {
@@ -142828,7 +142834,7 @@
       "last_plan": {
         "source_id": "34716304",
         "display_name": "Arms for Prague (Zbraně pro Prahu) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:01:19.795554+00:00"
+        "planned_at": "2026-11-11T10:01:22.362727+00:00"
       }
     },
     "15540": {
@@ -194971,5 +194977,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:01:19.795574+00:00"
+  "updated_at": "2026-11-11T10:01:23.652719+00:00"
 }
