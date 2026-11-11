@@ -109792,13 +109792,6 @@
           "source_id": "30216352",
           "target_video_id": "30983708",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:01:20.301092+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30216352",
-          "target_video_id": "30983708",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:54:21.271477+00:00"
         },
         {
@@ -109807,6 +109800,13 @@
           "target_video_id": "30983708",
           "permanent": false,
           "attempted_at": "2026-11-11T07:50:46.270259+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30216352",
+          "target_video_id": "30983708",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:51:11.411386+00:00"
         }
       ],
       "last_plan": {
@@ -117627,7 +117627,7 @@
       "last_plan": {
         "source_id": "34903564",
         "display_name": "Under the Tuscan Sun 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:50:44.926445+00:00"
+        "planned_at": "2026-11-11T08:51:09.950444+00:00"
       },
       "previous_target_id": "30984844",
       "prepared": {
@@ -117635,6 +117635,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T17:48:50.251668+00:00",
         "relay_source_id": "34903564"
+      },
+      "claim": {
+        "worker_id": "2aa8d8b5f3d140a0af5cb599fd79c3f1-shard-0",
+        "claimed_at": "2026-11-11T08:51:10.675275+00:00",
+        "lease_expires_at": "2026-11-11T14:51:10.675275+00:00",
+        "run_id": "42965310158"
       }
     },
     "17858": {
@@ -141452,6 +141458,12 @@
         "source_id": "32111003",
         "display_name": "Alemania 1080p CZ Dabing",
         "planned_at": "2026-11-11T08:51:07.567941+00:00"
+      },
+      "claim": {
+        "worker_id": "a2abbefbbc424241a779de6ae7d79bb7-shard-0",
+        "claimed_at": "2026-11-11T08:51:09.744340+00:00",
+        "lease_expires_at": "2026-11-11T14:51:09.744340+00:00",
+        "run_id": "42965310158"
       }
     },
     "35611": {
@@ -141459,7 +141471,7 @@
       "last_plan": {
         "source_id": "35286089",
         "display_name": "Únos 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:51:07.735774+00:00"
+        "planned_at": "2026-11-11T08:51:10.227671+00:00"
       }
     },
     "25024": {
@@ -193782,5 +193794,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:51:07.958769+00:00"
+  "updated_at": "2026-11-11T08:51:11.411404+00:00"
 }
