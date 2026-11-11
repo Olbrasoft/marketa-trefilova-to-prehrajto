@@ -132383,17 +132383,19 @@
       "attempts": []
     },
     "37186": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34785348",
+          "target_video_id": "30987317",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:16:24.700410+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34785348",
         "display_name": "O zlatém pokladu 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:15:43.850731+00:00"
-      },
-      "claim": {
-        "worker_id": "0019d14ff72643a9a6107fac0d19e051-shard-0",
-        "claimed_at": "2026-11-11T04:15:44.361991+00:00",
-        "lease_expires_at": "2026-11-11T10:15:44.361991+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987317",
       "prepared": {
@@ -186021,5 +186023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:16:22.982334+00:00"
+  "updated_at": "2026-11-11T04:16:24.700429+00:00"
 }
