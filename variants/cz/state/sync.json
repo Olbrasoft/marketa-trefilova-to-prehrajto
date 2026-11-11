@@ -145714,17 +145714,19 @@
       }
     },
     "12688": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33391039",
+          "target_video_id": "30993615",
+          "permanent": false,
+          "attempted_at": "2026-11-11T20:26:34.847056+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33391039",
         "display_name": "Him and His Sister (On a jeho sestra) 1080p CZ Dabing",
         "planned_at": "2026-11-11T20:13:18.912178+00:00"
-      },
-      "claim": {
-        "worker_id": "15127e455a484c079c08e280305ff9ac-shard-0",
-        "claimed_at": "2026-11-11T20:13:19.498257+00:00",
-        "lease_expires_at": "2026-11-12T02:13:19.498257+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30993615",
       "prepared": {
@@ -197477,5 +197479,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:26:31.666319+00:00"
+  "updated_at": "2026-11-11T20:26:34.847073+00:00"
 }
