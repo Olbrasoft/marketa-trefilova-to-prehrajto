@@ -109633,13 +109633,6 @@
           "source_id": "29985485",
           "target_video_id": "30983701",
           "permanent": false,
-          "attempted_at": "2026-11-10T23:33:46.712543+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29985485",
-          "target_video_id": "30983701",
-          "permanent": false,
           "attempted_at": "2026-11-11T00:11:26.828977+00:00"
         },
         {
@@ -109648,6 +109641,13 @@
           "target_video_id": "30983701",
           "permanent": false,
           "attempted_at": "2026-11-11T00:49:16.814488+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29985485",
+          "target_video_id": "30983701",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:31:03.468884+00:00"
         }
       ],
       "last_plan": {
@@ -109661,12 +109661,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T14:37:01.008970+00:00",
         "relay_source_id": "29985485"
-      },
-      "claim": {
-        "worker_id": "0e0e1ecd47134ce5a582f38fdeac6d97-shard-0",
-        "claimed_at": "2026-11-11T01:30:59.712373+00:00",
-        "lease_expires_at": "2026-11-11T07:30:59.712373+00:00",
-        "run_id": "42904278669"
       }
     },
     "27191": {
@@ -123404,7 +123398,7 @@
       "last_plan": {
         "source_id": "12475327",
         "display_name": "Ladies in Black 1080p CZ Dabing",
-        "planned_at": "2026-11-11T00:49:17.347870+00:00"
+        "planned_at": "2026-11-11T01:31:03.229236+00:00"
       },
       "previous_target_id": "30985644",
       "prepared": {
@@ -127778,14 +127772,19 @@
       "last_plan": {
         "source_id": "32306071",
         "display_name": "Waiting for Dali (Esperando a Dalí) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:30:57.014615+00:00"
+        "planned_at": "2026-11-11T01:31:03.785419+00:00"
       }
     },
     "32712": {
       "attempts": []
     },
     "15899": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28566197",
+        "display_name": "Men Up 1080p CZ Dabing",
+        "planned_at": "2026-11-11T01:31:03.974662+00:00"
+      }
     },
     "35280": {
       "attempts": []
@@ -182147,5 +182146,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:30:59.712400+00:00"
+  "updated_at": "2026-11-11T01:31:03.974680+00:00"
 }
