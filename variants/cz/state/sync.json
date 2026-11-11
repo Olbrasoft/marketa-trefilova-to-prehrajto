@@ -112548,13 +112548,6 @@
           "source_id": "35068482",
           "target_video_id": "30983988",
           "permanent": false,
-          "attempted_at": "2026-11-11T19:40:18.095136+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35068482",
-          "target_video_id": "30983988",
-          "permanent": false,
           "attempted_at": "2026-11-11T20:50:10.674580+00:00"
         },
         {
@@ -112563,6 +112556,13 @@
           "target_video_id": "30983988",
           "permanent": false,
           "attempted_at": "2026-11-11T22:25:08.477545+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35068482",
+          "target_video_id": "30983988",
+          "permanent": false,
+          "attempted_at": "2026-11-11T23:42:24.485498+00:00"
         }
       ],
       "last_plan": {
@@ -142651,7 +142651,7 @@
       "last_plan": {
         "source_id": "34850592",
         "display_name": "Like Never Before (Jako nikdy) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:25:07.130329+00:00"
+        "planned_at": "2026-11-11T23:42:23.005383+00:00"
       },
       "previous_target_id": "30988612",
       "prepared": {
@@ -142659,6 +142659,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T08:56:41.131345+00:00",
         "relay_source_id": "34850592"
+      },
+      "claim": {
+        "worker_id": "12b9a45180514d11a839d73af81f6bfb-shard-0",
+        "claimed_at": "2026-11-11T23:42:23.824127+00:00",
+        "lease_expires_at": "2026-11-12T05:42:23.824127+00:00",
+        "run_id": "43102571398"
       }
     },
     "32891": {
@@ -146304,7 +146310,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-11T23:42:20.346659+00:00"
+        "planned_at": "2026-11-11T23:42:23.344553+00:00"
       }
     },
     "4058": {
@@ -197922,5 +197928,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T23:42:20.603545+00:00"
+  "updated_at": "2026-11-11T23:42:24.485518+00:00"
 }
