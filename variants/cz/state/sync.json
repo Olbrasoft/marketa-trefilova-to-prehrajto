@@ -108561,13 +108561,6 @@
           "source_id": "11729861",
           "target_video_id": "30983619",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:46:19.612957+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11729861",
-          "target_video_id": "30983619",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:02:14.468161+00:00"
         },
         {
@@ -108576,6 +108569,13 @@
           "target_video_id": "30983619",
           "permanent": false,
           "attempted_at": "2026-11-11T17:39:03.487036+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11729861",
+          "target_video_id": "30983619",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:49:41.560041+00:00"
         }
       ],
       "last_plan": {
@@ -111294,7 +111294,7 @@
       "last_plan": {
         "source_id": "28002913",
         "display_name": "The Undertaker (Funebrák) SD CZ Dabing",
-        "planned_at": "2026-11-11T17:39:05.033866+00:00"
+        "planned_at": "2026-11-11T18:49:40.421769+00:00"
       },
       "previous_target_id": "30983814",
       "prepared": {
@@ -111302,6 +111302,12 @@
         "size_bytes": 956000000,
         "prepared_at": "2026-11-10T14:52:53.264826+00:00",
         "relay_source_id": "28002913"
+      },
+      "claim": {
+        "worker_id": "cb8e11aae89e491c95289828e0ad5760-shard-0",
+        "claimed_at": "2026-11-11T18:49:40.864934+00:00",
+        "lease_expires_at": "2026-11-12T00:49:40.864934+00:00",
+        "run_id": "43067513109"
       }
     },
     "15320": {
@@ -145350,7 +145356,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:49:38.625291+00:00"
+        "planned_at": "2026-11-11T18:49:40.623537+00:00"
       }
     },
     "13050": {
@@ -197139,5 +197145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:49:38.625305+00:00"
+  "updated_at": "2026-11-11T18:49:41.560055+00:00"
 }
