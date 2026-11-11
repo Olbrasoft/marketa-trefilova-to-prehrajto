@@ -126715,17 +126715,19 @@
       }
     },
     "2890": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34009743",
+          "reason": "Source detail has no authenticated download link; source_id=34009743",
+          "permanent": false,
+          "attempted_at": "2026-11-11T00:32:14.799280+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34009743",
         "display_name": "The Champion (Mistrz) (2020) SD CZ Dabing",
         "planned_at": "2026-11-11T00:32:08.025024+00:00"
-      },
-      "claim": {
-        "worker_id": "43b02484dd624a4d834d9249eb70291d-shard-0",
-        "claimed_at": "2026-11-11T00:32:10.214412+00:00",
-        "lease_expires_at": "2026-11-11T06:32:10.214412+00:00",
-        "run_id": "42904278669"
       }
     },
     "34780": {
@@ -181324,5 +181326,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:32:12.566698+00:00"
+  "updated_at": "2026-11-11T00:32:14.799304+00:00"
 }
