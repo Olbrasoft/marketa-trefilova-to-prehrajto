@@ -124970,7 +124970,7 @@
       "last_plan": {
         "source_id": "34788112",
         "display_name": "There Was a Crooked Man... SD CZ Dabing",
-        "planned_at": "2026-11-11T07:00:14.928081+00:00"
+        "planned_at": "2026-11-11T07:56:30.143910+00:00"
       },
       "previous_target_id": "30985851",
       "prepared": {
@@ -124978,6 +124978,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T22:11:21.871926+00:00",
         "relay_source_id": "34788112"
+      },
+      "claim": {
+        "worker_id": "5e75c23e6c6941929d00b3204be42b5c-shard-0",
+        "claimed_at": "2026-11-11T07:56:30.801672+00:00",
+        "lease_expires_at": "2026-11-11T13:56:30.801672+00:00",
+        "run_id": "42965310158"
       }
     },
     "11015": {
@@ -132659,13 +132665,6 @@
           "source_id": "32876939",
           "target_video_id": "30987247",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:22:35.584768+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32876939",
-          "target_video_id": "30987247",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:06:19.603282+00:00"
         },
         {
@@ -132674,6 +132673,13 @@
           "target_video_id": "30987247",
           "permanent": false,
           "attempted_at": "2026-11-11T07:00:16.405018+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32876939",
+          "target_video_id": "30987247",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:56:31.020743+00:00"
         }
       ],
       "last_plan": {
@@ -132687,12 +132693,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-11T04:03:02.993627+00:00",
         "relay_source_id": "32876939"
-      },
-      "claim": {
-        "worker_id": "025804679c024f04bb051bc21afb625a-shard-0",
-        "claimed_at": "2026-11-11T07:56:27.817261+00:00",
-        "lease_expires_at": "2026-11-11T13:56:27.817261+00:00",
-        "run_id": "42965310158"
       }
     },
     "24161": {
@@ -139772,17 +139772,19 @@
       }
     },
     "15578": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34693961",
+          "target_video_id": "30988228",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:56:31.219994+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34693961",
         "display_name": "S písní v tísni 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:55:31.605648+00:00"
-      },
-      "claim": {
-        "worker_id": "4f11a16d67bb4f138f03bbeafa575105-shard-0",
-        "claimed_at": "2026-11-11T07:55:34.182398+00:00",
-        "lease_expires_at": "2026-11-11T13:55:34.182398+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988228",
       "prepared": {
@@ -139806,7 +139808,7 @@
       "last_plan": {
         "source_id": "34864897",
         "display_name": "Die Sterntaler 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:56:27.445782+00:00"
+        "planned_at": "2026-11-11T07:56:30.417611+00:00"
       }
     },
     "15658": {
@@ -192366,5 +192368,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:56:28.359409+00:00"
+  "updated_at": "2026-11-11T07:56:31.220011+00:00"
 }
