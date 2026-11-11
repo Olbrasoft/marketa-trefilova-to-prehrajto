@@ -108350,7 +108350,7 @@
       "last_plan": {
         "source_id": "35058620",
         "display_name": "The Man Who Stood in the Way (Muž, který stál v cestě) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:33:26.634036+00:00"
+        "planned_at": "2026-11-11T06:20:13.829773+00:00"
       },
       "previous_target_id": "30983591",
       "prepared": {
@@ -108358,6 +108358,12 @@
         "size_bytes": 5200000000,
         "prepared_at": "2026-11-10T14:19:40.781659+00:00",
         "relay_source_id": "35058620"
+      },
+      "claim": {
+        "worker_id": "fa4c89650baa4411a4844c00d6aa30a3-shard-0",
+        "claimed_at": "2026-11-11T06:20:14.629356+00:00",
+        "lease_expires_at": "2026-11-11T12:20:14.629356+00:00",
+        "run_id": "42965310158"
       }
     },
     "2343": {
@@ -135270,6 +135276,13 @@
           "target_video_id": "30987641",
           "permanent": false,
           "attempted_at": "2026-11-11T05:33:20.660529+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34865840",
+          "target_video_id": "30987641",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:20:14.469235+00:00"
         }
       ],
       "last_plan": {
@@ -135280,15 +135293,9 @@
       "previous_target_id": "30987641",
       "prepared": {
         "target_video_id": "30987641",
-        "size_bytes": 4623818239,
+        "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T05:32:42.655357+00:00",
         "relay_source_id": "34865840"
-      },
-      "claim": {
-        "worker_id": "5bb5eb41dfb546adbadf062b4c5fc4c8-shard-0",
-        "claimed_at": "2026-11-11T06:20:11.283342+00:00",
-        "lease_expires_at": "2026-11-11T12:20:11.283342+00:00",
-        "run_id": "42965310158"
       }
     },
     "14067": {
@@ -136421,7 +136428,7 @@
       "last_plan": {
         "source_id": "29979237",
         "display_name": "Smetana 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:20:10.921628+00:00"
+        "planned_at": "2026-11-11T06:20:14.100666+00:00"
       }
     },
     "10741": {
@@ -189473,5 +189480,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:20:12.157782+00:00"
+  "updated_at": "2026-11-11T06:20:14.629383+00:00"
 }
