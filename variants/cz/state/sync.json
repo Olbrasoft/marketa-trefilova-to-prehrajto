@@ -86259,7 +86259,7 @@
       "last_plan": {
         "source_id": "32700785",
         "display_name": "Beneath Hill 60 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:01:09.705374+00:00"
+        "planned_at": "2026-11-11T07:57:39.533469+00:00"
       },
       "previous_target_id": "30923122",
       "prepared": {
@@ -86267,6 +86267,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-08T17:37:32.639721+00:00",
         "relay_source_id": "32700785"
+      },
+      "claim": {
+        "worker_id": "4189a18057f84232bc3a0e5ad09847ac-shard-0",
+        "claimed_at": "2026-11-11T07:57:40.412735+00:00",
+        "lease_expires_at": "2026-11-11T13:57:40.412735+00:00",
+        "run_id": "42965310158"
       }
     },
     "2250": {
@@ -87717,13 +87723,6 @@
           "source_id": "31439276",
           "target_video_id": "30924533",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:23:26.148993+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31439276",
-          "target_video_id": "30924533",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:07:01.791851+00:00"
         },
         {
@@ -87732,6 +87731,13 @@
           "target_video_id": "30924533",
           "permanent": false,
           "attempted_at": "2026-11-11T07:01:09.506490+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31439276",
+          "target_video_id": "30924533",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:57:41.287376+00:00"
         }
       ],
       "last_plan": {
@@ -139839,11 +139845,22 @@
       "last_plan": {
         "source_id": "34694069",
         "display_name": "Na dvore je kun, séfe! (Na dvoře je kůň, šéfe!) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:57:37.199425+00:00"
+        "planned_at": "2026-11-11T07:57:39.808092+00:00"
+      },
+      "claim": {
+        "worker_id": "97aa8c8cb12c4c57b303839642ea4b15-shard-0",
+        "claimed_at": "2026-11-11T07:57:40.592643+00:00",
+        "lease_expires_at": "2026-11-11T13:57:40.592643+00:00",
+        "run_id": "42965310158"
       }
     },
     "17285": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "26750612",
+        "display_name": "The Goat Cure (Kozy léčí) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T07:57:40.012012+00:00"
+      }
     },
     "25206": {
       "attempts": []
@@ -192396,5 +192413,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:57:37.199445+00:00"
+  "updated_at": "2026-11-11T07:57:41.287396+00:00"
 }
