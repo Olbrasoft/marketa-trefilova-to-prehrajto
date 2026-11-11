@@ -122695,13 +122695,6 @@
           "source_id": "35438981",
           "target_video_id": "30985543",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:32:35.642708+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35438981",
-          "target_video_id": "30985543",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:13:47.652042+00:00"
         },
         {
@@ -122710,12 +122703,19 @@
           "target_video_id": "30985543",
           "permanent": false,
           "attempted_at": "2026-11-11T01:55:04.507423+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35438981",
+          "target_video_id": "30985543",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:35:18.413451+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35438981",
         "display_name": "Populaire 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:55:00.567425+00:00"
+        "planned_at": "2026-11-11T02:35:16.573443+00:00"
       },
       "previous_target_id": "30985543",
       "prepared": {
@@ -129136,11 +129136,22 @@
       "last_plan": {
         "source_id": "33698675",
         "display_name": "Homolka and Pocketbook (Homolka a tobolka) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T02:35:13.384553+00:00"
+        "planned_at": "2026-11-11T02:35:16.774568+00:00"
+      },
+      "claim": {
+        "worker_id": "8427915a48d6473590983d535ef1842b-shard-0",
+        "claimed_at": "2026-11-11T02:35:17.273323+00:00",
+        "lease_expires_at": "2026-11-11T08:35:17.273323+00:00",
+        "run_id": "42938376778"
       }
     },
     "12390": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35246262",
+        "display_name": "An Ambiguous Report About the End of the World (Nejasná zpráva o konci světa) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T02:35:16.902837+00:00"
+      }
     },
     "3111": {
       "attempts": []
@@ -183271,5 +183282,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:35:14.912297+00:00"
+  "updated_at": "2026-11-11T02:35:18.413461+00:00"
 }
