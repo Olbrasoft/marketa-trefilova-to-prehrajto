@@ -29888,13 +29888,6 @@
           "source_id": "34850732",
           "target_video_id": "30723078",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:56:51.884508+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850732",
-          "target_video_id": "30723078",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:49:24.291110+00:00"
         },
         {
@@ -29903,6 +29896,13 @@
           "target_video_id": "30723078",
           "permanent": false,
           "attempted_at": "2026-11-11T07:45:08.404962+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850732",
+          "target_video_id": "30723078",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:45:07.316458+00:00"
         }
       ],
       "last_plan": {
@@ -56013,7 +56013,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:45:08.194364+00:00"
+        "planned_at": "2026-11-11T08:45:04.752128+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -56021,6 +56021,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "87ff0ec1133b4ac4a8f3d3cd903d70fd-shard-0",
+        "claimed_at": "2026-11-11T08:45:05.408088+00:00",
+        "lease_expires_at": "2026-11-11T14:45:05.408088+00:00",
+        "run_id": "42965310158"
       }
     },
     "24818": {
@@ -141219,6 +141225,12 @@
         "source_id": "34920710",
         "display_name": "Murder in the Basque Country (Maddy Etcheban) SD CZ Dabing",
         "planned_at": "2026-11-11T08:45:02.084673+00:00"
+      },
+      "claim": {
+        "worker_id": "c69592a8c956410fbb220d51a9d928c8-shard-0",
+        "claimed_at": "2026-11-11T08:45:04.371390+00:00",
+        "lease_expires_at": "2026-11-11T14:45:04.371390+00:00",
+        "run_id": "42965310158"
       }
     },
     "22966": {
@@ -141226,7 +141238,7 @@
       "last_plan": {
         "source_id": "33810961",
         "display_name": "Die Geschichte von der Gänseprinzessin und ihrem treuen Pferd Falada (The Goose Princess) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:45:02.599426+00:00"
+        "planned_at": "2026-11-11T08:45:05.026951+00:00"
       }
     },
     "31969": {
@@ -193579,5 +193591,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:45:02.599441+00:00"
+  "updated_at": "2026-11-11T08:45:07.316478+00:00"
 }
