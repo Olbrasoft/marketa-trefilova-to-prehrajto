@@ -35065,13 +35065,6 @@
           "source_id": "23076909",
           "target_video_id": "30987932",
           "permanent": false,
-          "attempted_at": "2026-11-11T09:53:48.526813+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23076909",
-          "target_video_id": "30987932",
-          "permanent": false,
           "attempted_at": "2026-11-11T12:08:08.533384+00:00"
         },
         {
@@ -35080,6 +35073,13 @@
           "target_video_id": "30987932",
           "permanent": false,
           "attempted_at": "2026-11-11T12:38:19.729720+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23076909",
+          "target_video_id": "30987932",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:08:28.454955+00:00"
         }
       ],
       "last_plan": {
@@ -35323,7 +35323,7 @@
       "last_plan": {
         "source_id": "32361142",
         "display_name": "Baramulla (बारामूला) 1080p CZ Titulky",
-        "planned_at": "2026-11-11T12:38:19.246218+00:00"
+        "planned_at": "2026-11-11T13:08:27.892101+00:00"
       },
       "previous_target_id": "30988608",
       "prepared": {
@@ -35331,6 +35331,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-11T08:54:59.112446+00:00",
         "relay_source_id": "32361142"
+      },
+      "claim": {
+        "worker_id": "f463aace681b4e8b9b954298d80fd989-shard-0",
+        "claimed_at": "2026-11-11T13:08:28.276931+00:00",
+        "lease_expires_at": "2026-11-11T19:08:28.276931+00:00",
+        "run_id": "43011363893"
       }
     },
     "26158": {
@@ -97009,5 +97015,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:08:25.033910+00:00"
+  "updated_at": "2026-11-11T13:08:28.454973+00:00"
 }
