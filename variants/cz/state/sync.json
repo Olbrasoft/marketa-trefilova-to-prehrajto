@@ -16433,13 +16433,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-11T04:21:55.932177+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:02:13.170494+00:00"
         },
         {
@@ -16448,12 +16441,19 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-11T05:43:31.142890+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-11T06:32:01.878908+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:43:27.671598+00:00"
+        "planned_at": "2026-11-11T06:31:59.444530+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -136862,7 +136862,13 @@
       "last_plan": {
         "source_id": "34661718",
         "display_name": "Rukavička 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:31:53.057251+00:00"
+        "planned_at": "2026-11-11T06:31:59.711625+00:00"
+      },
+      "claim": {
+        "worker_id": "0a07bb235a844097912c2fbd7f3e4ede-shard-0",
+        "claimed_at": "2026-11-11T06:32:00.532622+00:00",
+        "lease_expires_at": "2026-11-11T12:32:00.532622+00:00",
+        "run_id": "42965310158"
       }
     },
     "12707": {
@@ -136873,7 +136879,13 @@
       "last_plan": {
         "source_id": "35179769",
         "display_name": "Záhada hlavolamu 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:31:13.386016+00:00"
+        "planned_at": "2026-11-11T06:31:59.876568+00:00"
+      },
+      "claim": {
+        "worker_id": "534a6190f38146f2a9b1ddfd4ff695ab-shard-0",
+        "claimed_at": "2026-11-11T06:32:00.704596+00:00",
+        "lease_expires_at": "2026-11-11T12:32:00.704596+00:00",
+        "run_id": "42965310158"
       }
     },
     "17567": {
@@ -136886,7 +136898,12 @@
       "attempts": []
     },
     "26150": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34399715",
+        "display_name": "Koloběžka první (Ruffiano and Sweeteeth) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T06:32:00.042005+00:00"
+      }
     },
     "15438": {
       "attempts": []
@@ -189853,5 +189870,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:31:56.826225+00:00"
+  "updated_at": "2026-11-11T06:32:01.878928+00:00"
 }
