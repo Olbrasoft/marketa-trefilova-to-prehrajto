@@ -8575,13 +8575,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:47:20.420267+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:43:22.677216+00:00"
         },
         {
@@ -8590,6 +8583,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-11T08:43:13.950886+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:56:15.732890+00:00"
         }
       ],
       "last_plan": {
@@ -123841,7 +123841,7 @@
       "last_plan": {
         "source_id": "32449094",
         "display_name": "The Four Seasons 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:43:12.032230+00:00"
+        "planned_at": "2026-11-11T09:56:14.445955+00:00"
       },
       "previous_target_id": "30985723",
       "prepared": {
@@ -123849,6 +123849,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T21:30:12.070947+00:00",
         "relay_source_id": "32449094"
+      },
+      "claim": {
+        "worker_id": "a013d839b0954bf389b78019e0058b1f-shard-0",
+        "claimed_at": "2026-11-11T09:56:15.125492+00:00",
+        "lease_expires_at": "2026-11-11T15:56:15.125492+00:00",
+        "run_id": "42965310158"
       }
     },
     "28538": {
@@ -142728,6 +142734,12 @@
         "source_id": "30864267",
         "display_name": "Srdečný pozdrav ze zeměkoule 1080p CZ Dabing",
         "planned_at": "2026-11-11T09:56:11.886100+00:00"
+      },
+      "claim": {
+        "worker_id": "1fc66dc1c1ee48f4b28621d41a18506f-shard-0",
+        "claimed_at": "2026-11-11T09:56:14.233500+00:00",
+        "lease_expires_at": "2026-11-11T15:56:14.233500+00:00",
+        "run_id": "42965310158"
       }
     },
     "32807": {
@@ -142738,7 +142750,7 @@
       "last_plan": {
         "source_id": "34679715",
         "display_name": "Milan Rastislav Štefánik 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:56:12.060925+00:00"
+        "planned_at": "2026-11-11T09:56:14.717086+00:00"
       }
     },
     "15443": {
@@ -194896,5 +194908,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:56:12.275732+00:00"
+  "updated_at": "2026-11-11T09:56:15.732909+00:00"
 }
