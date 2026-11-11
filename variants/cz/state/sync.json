@@ -108350,13 +108350,6 @@
           "source_id": "35058620",
           "target_video_id": "30983591",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:33:30.282331+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35058620",
-          "target_video_id": "30983591",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:20:16.992128+00:00"
         },
         {
@@ -108365,6 +108358,13 @@
           "target_video_id": "30983591",
           "permanent": false,
           "attempted_at": "2026-11-11T07:14:00.628205+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35058620",
+          "target_video_id": "30983591",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:11:48.949048+00:00"
         }
       ],
       "last_plan": {
@@ -113063,7 +113063,7 @@
       "last_plan": {
         "source_id": "11995636",
         "display_name": "Us SD CZ Dabing",
-        "planned_at": "2026-11-11T07:13:55.641280+00:00"
+        "planned_at": "2026-11-11T08:11:48.731696+00:00"
       },
       "previous_target_id": "30984056",
       "prepared": {
@@ -140127,17 +140127,19 @@
       "attempts": []
     },
     "33863": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28418103",
+          "target_video_id": "30988328",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:11:49.202016+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28418103",
         "display_name": "Vollkommen unerwartet (Rosamunde Pilcher: Vollkommen unerwartet) SD CZ Dabing",
         "planned_at": "2026-11-11T08:10:33.140590+00:00"
-      },
-      "claim": {
-        "worker_id": "bcc9d5c3596245808a1133cbf0310ddf-shard-0",
-        "claimed_at": "2026-11-11T08:10:35.505297+00:00",
-        "lease_expires_at": "2026-11-11T14:10:35.505297+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988328",
       "prepared": {
@@ -192673,5 +192675,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:11:44.559092+00:00"
+  "updated_at": "2026-11-11T08:11:49.202038+00:00"
 }
