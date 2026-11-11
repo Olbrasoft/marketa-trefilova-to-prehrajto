@@ -138423,17 +138423,19 @@
       }
     },
     "12761": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34676284",
+          "target_video_id": "30988031",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:19:52.480075+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34676284",
         "display_name": "Svatby pana Voka 1080p CZ Dabing",
         "planned_at": "2026-11-11T07:18:49.676356+00:00"
-      },
-      "claim": {
-        "worker_id": "c8eedaa71205488bab7ef3f9b9a16e9e-shard-0",
-        "claimed_at": "2026-11-11T07:18:50.390841+00:00",
-        "lease_expires_at": "2026-11-11T13:18:50.390841+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988031",
       "prepared": {
@@ -191224,5 +191226,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:19:49.474788+00:00"
+  "updated_at": "2026-11-11T07:19:52.480100+00:00"
 }
