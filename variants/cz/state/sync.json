@@ -123864,13 +123864,6 @@
           "source_id": "33977403",
           "target_video_id": "30985736",
           "permanent": false,
-          "attempted_at": "2026-11-11T03:58:41.407677+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33977403",
-          "target_video_id": "30985736",
-          "permanent": false,
           "attempted_at": "2026-11-11T04:37:03.426933+00:00"
         },
         {
@@ -123879,6 +123872,13 @@
           "target_video_id": "30985736",
           "permanent": false,
           "attempted_at": "2026-11-11T05:17:34.108436+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33977403",
+          "target_video_id": "30985736",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:59:50.883934+00:00"
         }
       ],
       "last_plan": {
@@ -123921,7 +123921,7 @@
       "last_plan": {
         "source_id": "34503356",
         "display_name": "The Hot Rock 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:17:32.777710+00:00"
+        "planned_at": "2026-11-11T05:59:49.406726+00:00"
       },
       "previous_target_id": "30985739",
       "prepared": {
@@ -123929,6 +123929,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T21:34:47.747240+00:00",
         "relay_source_id": "34503356"
+      },
+      "claim": {
+        "worker_id": "ba826a5a32c943ea8627b474e3981c8b-shard-0",
+        "claimed_at": "2026-11-11T05:59:49.922239+00:00",
+        "lease_expires_at": "2026-11-11T11:59:49.922239+00:00",
+        "run_id": "42938376778"
       }
     },
     "11306": {
@@ -135833,6 +135839,12 @@
         "source_id": "34712153",
         "display_name": "Punching the World 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:59:47.398100+00:00"
+      },
+      "claim": {
+        "worker_id": "e1e7d2d3f4ec4395b9d416cb39a79eb6-shard-0",
+        "claimed_at": "2026-11-11T05:59:49.097392+00:00",
+        "lease_expires_at": "2026-11-11T11:59:49.097392+00:00",
+        "run_id": "42938376778"
       }
     },
     "11200": {
@@ -135840,7 +135852,7 @@
       "last_plan": {
         "source_id": "33708412",
         "display_name": "Léto s kovbojem 1080p CZ Dabing",
-        "planned_at": "2026-11-11T05:59:47.532071+00:00"
+        "planned_at": "2026-11-11T05:59:49.614886+00:00"
       }
     },
     "12203": {
@@ -188973,5 +188985,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:59:47.532080+00:00"
+  "updated_at": "2026-11-11T05:59:50.883950+00:00"
 }
