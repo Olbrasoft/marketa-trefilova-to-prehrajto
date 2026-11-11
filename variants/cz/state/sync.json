@@ -8566,6 +8566,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
+      },
+      "claim": {
+        "worker_id": "df476ee300d14808bbc902e5f0629416-shard-0",
+        "claimed_at": "2026-11-11T03:54:59.942964+00:00",
+        "lease_expires_at": "2026-11-11T09:54:59.942964+00:00",
+        "run_id": "42938376778"
       }
     },
     "270": {
@@ -8595,7 +8601,7 @@
       "last_plan": {
         "source_id": "17777440",
         "display_name": "Friends: The Reunion 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:19:51.958065+00:00"
+        "planned_at": "2026-11-11T03:55:00.097323+00:00"
       },
       "previous_target_id": "30631282",
       "prepared": {
@@ -16892,13 +16898,6 @@
           "source_id": "33402050",
           "target_video_id": "30665578",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:10:00.858036+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33402050",
-          "target_video_id": "30665578",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:47:06.759454+00:00"
         },
         {
@@ -16907,6 +16906,13 @@
           "target_video_id": "30665578",
           "permanent": false,
           "attempted_at": "2026-11-11T03:19:50.298114+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33402050",
+          "target_video_id": "30665578",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:55:00.468286+00:00"
         }
       ],
       "last_plan": {
@@ -16920,12 +16926,6 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-10-31T12:40:19.412143+00:00",
         "relay_source_id": "33402050"
-      },
-      "claim": {
-        "worker_id": "74a30b58edf3499e8e0cfc2dc9ace441-shard-0",
-        "claimed_at": "2026-11-11T03:54:57.452834+00:00",
-        "lease_expires_at": "2026-11-11T09:54:57.452834+00:00",
-        "run_id": "42938376778"
       }
     },
     "614": {
@@ -131713,7 +131713,7 @@
       "last_plan": {
         "source_id": "34715394",
         "display_name": "Káta a krokodýl (Káťa a krokodýl) SD CZ Dabing",
-        "planned_at": "2026-11-11T03:54:57.835488+00:00"
+        "planned_at": "2026-11-11T03:55:00.322512+00:00"
       }
     },
     "23538": {
@@ -185467,5 +185467,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:54:58.095563+00:00"
+  "updated_at": "2026-11-11T03:55:00.468299+00:00"
 }
