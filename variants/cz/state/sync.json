@@ -116077,13 +116077,6 @@
           "source_id": "33767290",
           "target_video_id": "30984707",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:56:13.467956+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33767290",
-          "target_video_id": "30984707",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:29:22.030232+00:00"
         },
         {
@@ -116092,12 +116085,19 @@
           "target_video_id": "30984707",
           "permanent": false,
           "attempted_at": "2026-11-11T04:06:50.318396+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767290",
+          "target_video_id": "30984707",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:46:17.617247+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33767290",
         "display_name": "White Men Can't Jump 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:06:46.803377+00:00"
+        "planned_at": "2026-11-11T04:46:15.452551+00:00"
       },
       "previous_target_id": "30984707",
       "prepared": {
@@ -133181,11 +133181,22 @@
       "last_plan": {
         "source_id": "25067531",
         "display_name": "Okénko do nebe SD CZ Dabing",
-        "planned_at": "2026-11-11T04:46:10.838966+00:00"
+        "planned_at": "2026-11-11T04:46:15.657873+00:00"
+      },
+      "claim": {
+        "worker_id": "b3410db46b5842bfb18e9c0311e7ccf8-shard-0",
+        "claimed_at": "2026-11-11T04:46:16.166555+00:00",
+        "lease_expires_at": "2026-11-11T10:46:16.166555+00:00",
+        "run_id": "42938376778"
       }
     },
     "32433": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30622989",
+        "display_name": "Concert at the End of Summer (Koncert na konci léta) SD CZ Dabing",
+        "planned_at": "2026-11-11T04:46:15.790542+00:00"
+      }
     },
     "25487": {
       "attempts": []
@@ -186701,5 +186712,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:46:13.767989+00:00"
+  "updated_at": "2026-11-11T04:46:17.617259+00:00"
 }
