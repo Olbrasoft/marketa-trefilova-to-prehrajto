@@ -117313,13 +117313,6 @@
           "source_id": "28241125",
           "target_video_id": "30984812",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:11:12.322394+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28241125",
-          "target_video_id": "30984812",
-          "permanent": false,
           "attempted_at": "2026-11-11T05:52:40.001981+00:00"
         },
         {
@@ -117328,6 +117321,13 @@
           "target_video_id": "30984812",
           "permanent": false,
           "attempted_at": "2026-11-11T06:44:17.900317+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28241125",
+          "target_video_id": "30984812",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:40:20.744473+00:00"
         }
       ],
       "last_plan": {
@@ -117370,7 +117370,7 @@
       "last_plan": {
         "source_id": "29121811",
         "display_name": "The Ghost and the Darkness 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:44:16.643885+00:00"
+        "planned_at": "2026-11-11T07:40:18.404367+00:00"
       },
       "previous_target_id": "30984814",
       "prepared": {
@@ -117378,6 +117378,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:43:42.588478+00:00",
         "relay_source_id": "29121811"
+      },
+      "claim": {
+        "worker_id": "97e76d6b29724320abd56bb24bf190f4-shard-0",
+        "claimed_at": "2026-11-11T07:40:19.252685+00:00",
+        "lease_expires_at": "2026-11-11T13:40:19.252685+00:00",
+        "run_id": "42965310158"
       }
     },
     "3110": {
@@ -139213,11 +139219,22 @@
       "last_plan": {
         "source_id": "34852429",
         "display_name": "The Lost Face (The Borrowed Face) 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:40:15.899483+00:00"
+        "planned_at": "2026-11-11T07:40:18.676522+00:00"
+      },
+      "claim": {
+        "worker_id": "36d3ab334abd44bc868b2b1993de32b7-shard-0",
+        "claimed_at": "2026-11-11T07:40:19.449441+00:00",
+        "lease_expires_at": "2026-11-11T13:40:19.449441+00:00",
+        "run_id": "42965310158"
       }
     },
     "11389": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30621969",
+        "display_name": "Calamity (Kalamita) SD CZ Dabing",
+        "planned_at": "2026-11-11T07:40:18.880382+00:00"
+      }
     },
     "12748": {
       "attempts": []
@@ -191866,5 +191883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:40:15.899503+00:00"
+  "updated_at": "2026-11-11T07:40:20.744493+00:00"
 }
