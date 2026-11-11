@@ -19981,13 +19981,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:52:53.710036+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:53:19.535844+00:00"
         },
         {
@@ -19996,6 +19989,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-11T10:09:18.210833+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:15:07.411629+00:00"
         }
       ],
       "last_plan": {
@@ -112492,7 +112492,7 @@
       "last_plan": {
         "source_id": "33495930",
         "display_name": "Tanecnice (Tanečnice) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:09:19.921082+00:00"
+        "planned_at": "2026-11-11T13:15:06.029610+00:00"
       },
       "previous_target_id": "30983976",
       "prepared": {
@@ -112500,6 +112500,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T15:09:20.357315+00:00",
         "relay_source_id": "33495930"
+      },
+      "claim": {
+        "worker_id": "aefc104945144f62b69a8131e787a147-shard-0",
+        "claimed_at": "2026-11-11T13:15:07.141751+00:00",
+        "lease_expires_at": "2026-11-11T19:15:07.141751+00:00",
+        "run_id": "43011363893"
       }
     },
     "12718": {
@@ -143874,11 +143880,22 @@
       "last_plan": {
         "source_id": "29250484",
         "display_name": "Party Hard 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:15:03.262466+00:00"
+        "planned_at": "2026-11-11T13:15:06.378872+00:00"
+      },
+      "claim": {
+        "worker_id": "036dd43a4a1d4bada2f5ac93c7b00501-shard-0",
+        "claimed_at": "2026-11-11T13:15:07.616405+00:00",
+        "lease_expires_at": "2026-11-11T19:15:07.616405+00:00",
+        "run_id": "43011363893"
       }
     },
     "17359": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35428807",
+        "display_name": "Murders in Valenciennes (Les Disparus de Valenciennes) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T13:15:06.623752+00:00"
+      }
     },
     "15176": {
       "attempts": []
@@ -195921,5 +195938,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:15:03.530437+00:00"
+  "updated_at": "2026-11-11T13:15:07.616437+00:00"
 }
