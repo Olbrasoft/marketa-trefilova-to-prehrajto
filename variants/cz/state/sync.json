@@ -133024,17 +133024,19 @@
       "attempts": []
     },
     "12818": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23221863",
+          "target_video_id": "30987417",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:37:41.980076+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej 1080p CZ Dabing",
         "planned_at": "2026-11-11T04:35:33.050264+00:00"
-      },
-      "claim": {
-        "worker_id": "2288154641f34d3f8332cf6fbcc26952-shard-0",
-        "claimed_at": "2026-11-11T04:35:33.558968+00:00",
-        "lease_expires_at": "2026-11-11T10:35:33.558968+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987417",
       "prepared": {
@@ -186589,5 +186591,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:37:40.661573+00:00"
+  "updated_at": "2026-11-11T04:37:41.980090+00:00"
 }
