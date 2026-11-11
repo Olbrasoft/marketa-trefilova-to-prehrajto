@@ -128440,17 +128440,19 @@
       "attempts": []
     },
     "22432": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29464471",
+          "target_video_id": "30986773",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:05:37.365963+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29464471",
         "display_name": "Shaolin Mantis 1080p CZ Dabing",
         "planned_at": "2026-11-11T02:04:01.172889+00:00"
-      },
-      "claim": {
-        "worker_id": "be6097c90c5b4cf0a289db590c1903a5-shard-0",
-        "claimed_at": "2026-11-11T02:04:02.341524+00:00",
-        "lease_expires_at": "2026-11-11T08:04:02.341524+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986773",
       "prepared": {
@@ -182728,5 +182730,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:05:35.673784+00:00"
+  "updated_at": "2026-11-11T02:05:37.365983+00:00"
 }
