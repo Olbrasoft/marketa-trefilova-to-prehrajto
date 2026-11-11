@@ -120195,13 +120195,6 @@
           "source_id": "34453326",
           "target_video_id": "30985025",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:20:07.658379+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34453326",
-          "target_video_id": "30985025",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:17:50.497786+00:00"
         },
         {
@@ -120210,6 +120203,13 @@
           "target_video_id": "30985025",
           "permanent": false,
           "attempted_at": "2026-11-11T09:22:10.824862+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34453326",
+          "target_video_id": "30985025",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:32:53.729410+00:00"
         }
       ],
       "last_plan": {
@@ -133154,7 +133154,7 @@
       "last_plan": {
         "source_id": "34720893",
         "display_name": "Faithless Games (Nevěrné hry) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:22:09.583440+00:00"
+        "planned_at": "2026-11-11T12:32:51.857940+00:00"
       },
       "previous_target_id": "30987323",
       "prepared": {
@@ -133162,6 +133162,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:17:11.338422+00:00",
         "relay_source_id": "34720893"
+      },
+      "claim": {
+        "worker_id": "3b31451817b146f5852c2afa77972e24-shard-0",
+        "claimed_at": "2026-11-11T12:32:52.853801+00:00",
+        "lease_expires_at": "2026-11-11T18:32:52.853801+00:00",
+        "run_id": "43011363893"
       }
     },
     "22161": {
@@ -143308,11 +143314,22 @@
       "last_plan": {
         "source_id": "35075509",
         "display_name": "Jedna kocka za druhou (Paper Sleeve) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:32:49.178084+00:00"
+        "planned_at": "2026-11-11T12:32:52.196963+00:00"
+      },
+      "claim": {
+        "worker_id": "15480921187e45a4a0434f46cac340ac-shard-0",
+        "claimed_at": "2026-11-11T12:32:53.127061+00:00",
+        "lease_expires_at": "2026-11-11T18:32:53.127061+00:00",
+        "run_id": "43011363893"
       }
     },
     "16514": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "10900353",
+        "display_name": "The Way Out (Cesta ven) SD CZ Dabing",
+        "planned_at": "2026-11-11T12:32:52.404442+00:00"
+      }
     },
     "37327": {
       "attempts": []
@@ -195406,5 +195423,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:32:49.459077+00:00"
+  "updated_at": "2026-11-11T12:32:53.729425+00:00"
 }
