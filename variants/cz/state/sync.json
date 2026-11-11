@@ -135240,17 +135240,19 @@
       "attempts": []
     },
     "31664": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30864308",
+          "target_video_id": "30987706",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:45:48.301401+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30864308",
         "display_name": "Florián SD CZ Dabing",
         "planned_at": "2026-11-11T05:44:34.458112+00:00"
-      },
-      "claim": {
-        "worker_id": "99eaa87b603045428ce71c2c6cfaf75b-shard-0",
-        "claimed_at": "2026-11-11T05:44:36.615121+00:00",
-        "lease_expires_at": "2026-11-11T11:44:36.615121+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987706",
       "prepared": {
@@ -188485,5 +188487,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:45:46.493275+00:00"
+  "updated_at": "2026-11-11T05:45:48.301415+00:00"
 }
