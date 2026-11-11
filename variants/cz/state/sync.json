@@ -124456,13 +124456,6 @@
           "source_id": "31751650",
           "target_video_id": "30985776",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:45:45.768052+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31751650",
-          "target_video_id": "30985776",
-          "permanent": false,
           "attempted_at": "2026-11-11T15:01:32.153982+00:00"
         },
         {
@@ -124471,6 +124464,13 @@
           "target_video_id": "30985776",
           "permanent": false,
           "attempted_at": "2026-11-11T17:38:24.786426+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31751650",
+          "target_video_id": "30985776",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:49:10.455542+00:00"
         }
       ],
       "last_plan": {
@@ -124484,12 +124484,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T21:49:34.186907+00:00",
         "relay_source_id": "31751650"
-      },
-      "claim": {
-        "worker_id": "14c8f9c8996c4259ba2cfe7dd2edf75f-shard-0",
-        "claimed_at": "2026-11-11T18:49:08.007267+00:00",
-        "lease_expires_at": "2026-11-12T00:49:08.007267+00:00",
-        "run_id": "43067513109"
       }
     },
     "35395": {
@@ -139388,7 +139382,7 @@
       "last_plan": {
         "source_id": "33810799",
         "display_name": "Thomas the Falconer (Sokoliar Tomáš) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T17:38:26.393815+00:00"
+        "planned_at": "2026-11-11T18:49:09.797707+00:00"
       },
       "previous_target_id": "30988025",
       "prepared": {
@@ -139396,6 +139390,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T07:17:16.717992+00:00",
         "relay_source_id": "33810799"
+      },
+      "claim": {
+        "worker_id": "c5a9d7be1a8342ef820243a1607d5c8a-shard-0",
+        "claimed_at": "2026-11-11T18:49:10.256706+00:00",
+        "lease_expires_at": "2026-11-12T00:49:10.256706+00:00",
+        "run_id": "43067513109"
       }
     },
     "33069": {
@@ -145356,7 +145356,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-11T18:49:07.739554+00:00"
+        "planned_at": "2026-11-11T18:49:10.008346+00:00"
       }
     },
     "13050": {
@@ -197145,5 +197145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:49:08.167500+00:00"
+  "updated_at": "2026-11-11T18:49:10.455561+00:00"
 }
