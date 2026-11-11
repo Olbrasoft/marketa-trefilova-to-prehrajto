@@ -142771,17 +142771,19 @@
       }
     },
     "11445": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30864267",
+          "target_video_id": "30988779",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:01:04.516981+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30864267",
         "display_name": "Srdečný pozdrav ze zeměkoule 1080p CZ Dabing",
         "planned_at": "2026-11-11T09:56:11.886100+00:00"
-      },
-      "claim": {
-        "worker_id": "1fc66dc1c1ee48f4b28621d41a18506f-shard-0",
-        "claimed_at": "2026-11-11T09:56:14.233500+00:00",
-        "lease_expires_at": "2026-11-11T15:56:14.233500+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988779",
       "prepared": {
@@ -194957,5 +194959,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:01:02.860300+00:00"
+  "updated_at": "2026-11-11T10:01:04.517000+00:00"
 }
