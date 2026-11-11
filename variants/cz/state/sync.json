@@ -127982,17 +127982,19 @@
       "attempts": []
     },
     "15560": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30776586",
+          "target_video_id": "30986713",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:44:50.757161+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30776586",
         "display_name": "Chinas, a Second Generation Story (Chinas) 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:43:06.579723+00:00"
-      },
-      "claim": {
-        "worker_id": "bfe7e9aab900441ab2ac27d9668771bf-shard-0",
-        "claimed_at": "2026-11-11T01:43:09.006763+00:00",
-        "lease_expires_at": "2026-11-11T07:43:09.006763+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986713",
       "prepared": {
@@ -182343,5 +182345,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:44:48.888783+00:00"
+  "updated_at": "2026-11-11T01:44:50.757178+00:00"
 }
