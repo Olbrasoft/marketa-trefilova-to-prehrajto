@@ -119546,7 +119546,7 @@
       "last_plan": {
         "source_id": "30808517",
         "display_name": "Keeping Mum 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:10:59.518031+00:00"
+        "planned_at": "2026-11-11T04:50:46.634232+00:00"
       },
       "previous_target_id": "30984989",
       "prepared": {
@@ -119554,6 +119554,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T18:27:57.058145+00:00",
         "relay_source_id": "30808517"
+      },
+      "claim": {
+        "worker_id": "03ad9e04adf8470f836d55bba02093fd-shard-0",
+        "claimed_at": "2026-11-11T04:50:47.349124+00:00",
+        "lease_expires_at": "2026-11-11T10:50:47.349124+00:00",
+        "run_id": "42938376778"
       }
     },
     "2880": {
@@ -131398,6 +131404,13 @@
           "target_video_id": "30987054",
           "permanent": false,
           "attempted_at": "2026-11-11T04:11:00.626182+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676090",
+          "target_video_id": "30987054",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:50:47.188742+00:00"
         }
       ],
       "last_plan": {
@@ -131411,12 +131424,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T03:30:58.282506+00:00",
         "relay_source_id": "34676090"
-      },
-      "claim": {
-        "worker_id": "7fe72a9cc0ee480cbbbbcc748396f5c7-shard-0",
-        "claimed_at": "2026-11-11T04:50:45.104081+00:00",
-        "lease_expires_at": "2026-11-11T10:50:45.104081+00:00",
-        "run_id": "42938376778"
       }
     },
     "24051": {
@@ -133278,7 +133285,7 @@
       "last_plan": {
         "source_id": "34676079",
         "display_name": "Madla z cihelny 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:50:44.691201+00:00"
+        "planned_at": "2026-11-11T04:50:46.870844+00:00"
       }
     },
     "24448": {
@@ -186789,5 +186796,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:50:45.104095+00:00"
+  "updated_at": "2026-11-11T04:50:47.349138+00:00"
 }
