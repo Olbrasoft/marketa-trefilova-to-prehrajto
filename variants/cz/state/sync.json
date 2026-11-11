@@ -145264,17 +145264,19 @@
       }
     },
     "30218": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713210",
+          "target_video_id": "30992936",
+          "permanent": false,
+          "attempted_at": "2026-11-11T18:45:26.563100+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713210",
         "display_name": "Sisters of War SD CZ Dabing",
         "planned_at": "2026-11-11T18:39:04.307383+00:00"
-      },
-      "claim": {
-        "worker_id": "fdd602720a234baea540d3f324143022-shard-0",
-        "claimed_at": "2026-11-11T18:39:04.799870+00:00",
-        "lease_expires_at": "2026-11-12T00:39:04.799870+00:00",
-        "run_id": "43067513109"
       },
       "previous_target_id": "30992936",
       "prepared": {
@@ -197111,5 +197113,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T18:45:23.932281+00:00"
+  "updated_at": "2026-11-11T18:45:26.563125+00:00"
 }
