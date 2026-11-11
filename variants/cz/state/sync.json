@@ -128203,17 +128203,19 @@
       "attempts": []
     },
     "2835": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "35139939",
+          "reason": "Source detail has no authenticated download link; source_id=35139939",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:56:17.571750+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35139939",
         "display_name": "Angel of the Lord (Anděl Páně) SD CZ Dabing",
         "planned_at": "2026-11-11T01:56:11.192108+00:00"
-      },
-      "claim": {
-        "worker_id": "5c2b67283ffa456a816058cbded4f940-shard-0",
-        "claimed_at": "2026-11-11T01:56:13.430445+00:00",
-        "lease_expires_at": "2026-11-11T07:56:13.430445+00:00",
-        "run_id": "42904278669"
       }
     },
     "21950": {
@@ -182527,5 +182529,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:56:15.742302+00:00"
+  "updated_at": "2026-11-11T01:56:17.571771+00:00"
 }
