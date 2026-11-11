@@ -111717,13 +111717,6 @@
           "source_id": "34877929",
           "target_video_id": "30983846",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:28:08.605324+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34877929",
-          "target_video_id": "30983846",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:26:40.087002+00:00"
         },
         {
@@ -111732,6 +111725,13 @@
           "target_video_id": "30983846",
           "permanent": false,
           "attempted_at": "2026-11-11T09:32:16.036609+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34877929",
+          "target_video_id": "30983846",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:45:07.943792+00:00"
         }
       ],
       "last_plan": {
@@ -123263,7 +123263,7 @@
       "last_plan": {
         "source_id": "16256834",
         "display_name": "The Assignment (1997) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:32:17.685473+00:00"
+        "planned_at": "2026-11-11T12:45:06.062720+00:00"
       },
       "previous_target_id": "30985618",
       "prepared": {
@@ -123271,6 +123271,12 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-10T20:46:27.420725+00:00",
         "relay_source_id": "16256834"
+      },
+      "claim": {
+        "worker_id": "7d476ee008ad45348f83f3c6e21c86a0-shard-0",
+        "claimed_at": "2026-11-11T12:45:06.904376+00:00",
+        "lease_expires_at": "2026-11-11T18:45:06.904376+00:00",
+        "run_id": "43011363893"
       }
     },
     "2867": {
@@ -143516,7 +143522,7 @@
       "last_plan": {
         "source_id": "35418861",
         "display_name": "Murder in Aigues-Mortes (Crime à Aigues-Mortes) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T12:45:03.564786+00:00"
+        "planned_at": "2026-11-11T12:45:06.422199+00:00"
       }
     },
     "16784": {
@@ -195595,5 +195601,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:45:03.890061+00:00"
+  "updated_at": "2026-11-11T12:45:07.943807+00:00"
 }
