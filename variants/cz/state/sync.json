@@ -61122,13 +61122,6 @@
           "source_id": "27476888",
           "target_video_id": "30803427",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:18:49.306629+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27476888",
-          "target_video_id": "30803427",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:51:50.581168+00:00"
         },
         {
@@ -61137,6 +61130,13 @@
           "target_video_id": "30803427",
           "permanent": false,
           "attempted_at": "2026-11-11T03:24:28.062233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27476888",
+          "target_video_id": "30803427",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:00:13.590220+00:00"
         }
       ],
       "last_plan": {
@@ -61150,12 +61150,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-05T04:07:55.290331+00:00",
         "relay_source_id": "27476888"
-      },
-      "claim": {
-        "worker_id": "087a69fc35b64db2b4a17b5d396c92ee-shard-0",
-        "claimed_at": "2026-11-11T04:00:11.295455+00:00",
-        "lease_expires_at": "2026-11-11T10:00:11.295455+00:00",
-        "run_id": "42938376778"
       }
     },
     "28711": {
@@ -107549,7 +107543,7 @@
       "last_plan": {
         "source_id": "31501454",
         "display_name": "Of Parents and Children (O rodičích a dětech) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:24:27.456075+00:00"
+        "planned_at": "2026-11-11T04:00:13.100798+00:00"
       },
       "previous_target_id": "30983493",
       "prepared": {
@@ -131890,11 +131884,16 @@
       "last_plan": {
         "source_id": "34787172",
         "display_name": "Brontosaurus 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:00:09.530166+00:00"
+        "planned_at": "2026-11-11T04:00:13.310162+00:00"
       }
     },
     "24237": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30905918",
+        "display_name": "Ta chvíle, ten okamžik (That Instant, That While) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T04:00:13.441625+00:00"
+      }
     },
     "16081": {
       "attempts": []
@@ -185602,5 +185601,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:00:11.295485+00:00"
+  "updated_at": "2026-11-11T04:00:13.590230+00:00"
 }
