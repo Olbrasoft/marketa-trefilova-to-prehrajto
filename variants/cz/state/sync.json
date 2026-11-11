@@ -134669,13 +134669,6 @@
           "source_id": "35068765",
           "target_video_id": "30987562",
           "permanent": false,
-          "attempted_at": "2026-11-11T05:54:32.979683+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35068765",
-          "target_video_id": "30987562",
-          "permanent": false,
           "attempted_at": "2026-11-11T06:46:37.494456+00:00"
         },
         {
@@ -134684,12 +134677,19 @@
           "target_video_id": "30987562",
           "permanent": false,
           "attempted_at": "2026-11-11T07:42:44.047651+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35068765",
+          "target_video_id": "30987562",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:42:30.103428+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35068765",
         "display_name": "Veronika, proste Nika (Veronika, prostě Nika) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:42:40.116725+00:00"
+        "planned_at": "2026-11-11T08:42:27.787102+00:00"
       },
       "previous_target_id": "30987562",
       "prepared": {
@@ -141127,7 +141127,13 @@
       "last_plan": {
         "source_id": "31587673",
         "display_name": "Puffin Rock and the New Friends 720p CZ Dabing",
-        "planned_at": "2026-11-11T08:42:20.001640+00:00"
+        "planned_at": "2026-11-11T08:42:28.066772+00:00"
+      },
+      "claim": {
+        "worker_id": "c65edba7e3314817870d0ae0e210e8d3-shard-0",
+        "claimed_at": "2026-11-11T08:42:28.818592+00:00",
+        "lease_expires_at": "2026-11-11T14:42:28.818592+00:00",
+        "run_id": "42965310158"
       }
     },
     "24518": {
@@ -141143,7 +141149,12 @@
       "attempts": []
     },
     "27002": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29645616",
+        "display_name": "Broken Promise 1080p CZ Dabing",
+        "planned_at": "2026-11-11T08:42:28.242485+00:00"
+      }
     },
     "36843": {
       "attempts": []
@@ -193504,5 +193515,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:42:24.016809+00:00"
+  "updated_at": "2026-11-11T08:42:30.103446+00:00"
 }
