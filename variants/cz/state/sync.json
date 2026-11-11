@@ -111837,13 +111837,6 @@
           "source_id": "12261609",
           "target_video_id": "30983900",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:19:46.534832+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12261609",
-          "target_video_id": "30983900",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:01:19.681690+00:00"
         },
         {
@@ -111852,6 +111845,13 @@
           "target_video_id": "30983900",
           "permanent": false,
           "attempted_at": "2026-11-11T02:40:52.585307+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12261609",
+          "target_video_id": "30983900",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:13:23.418136+00:00"
         }
       ],
       "last_plan": {
@@ -111865,12 +111865,6 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T15:01:27.595214+00:00",
         "relay_source_id": "12261609"
-      },
-      "claim": {
-        "worker_id": "5c4dd8bc356845429a4d5e75890338fc-shard-0",
-        "claimed_at": "2026-11-11T03:13:20.071162+00:00",
-        "lease_expires_at": "2026-11-11T09:13:20.071162+00:00",
-        "run_id": "42938376778"
       }
     },
     "30376": {
@@ -111900,7 +111894,7 @@
       "last_plan": {
         "source_id": "34713455",
         "display_name": "Legend of Love SD CZ Dabing",
-        "planned_at": "2026-11-11T02:40:51.817369+00:00"
+        "planned_at": "2026-11-11T03:13:23.580171+00:00"
       },
       "previous_target_id": "30983901",
       "prepared": {
@@ -130337,17 +130331,19 @@
       }
     },
     "12675": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34860819",
+          "target_video_id": "30986996",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:13:23.932471+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34860819",
         "display_name": "Guard 13 (13. revír) 1080p CZ Dabing",
         "planned_at": "2026-11-11T03:11:38.704503+00:00"
-      },
-      "claim": {
-        "worker_id": "eef30632540b4d4c92f6c2b95e3cd7b4-shard-0",
-        "claimed_at": "2026-11-11T03:11:40.639636+00:00",
-        "lease_expires_at": "2026-11-11T09:11:40.639636+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30986996",
       "prepared": {
@@ -130368,7 +130364,7 @@
       "last_plan": {
         "source_id": "34662434",
         "display_name": "Silent Barricade (Němá barikáda) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:13:19.822599+00:00"
+        "planned_at": "2026-11-11T03:13:23.786925+00:00"
       }
     },
     "27284": {
@@ -184344,5 +184340,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:13:21.874579+00:00"
+  "updated_at": "2026-11-11T03:13:23.932482+00:00"
 }
