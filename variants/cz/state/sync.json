@@ -81562,7 +81562,7 @@
       "last_plan": {
         "source_id": "32457622",
         "display_name": "Christmas with Holly 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:45:40.218742+00:00"
+        "planned_at": "2026-11-11T04:22:01.100761+00:00"
       },
       "previous_target_id": "30903267",
       "prepared": {
@@ -81570,6 +81570,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-08T01:03:53.007664+00:00",
         "relay_source_id": "32457622"
+      },
+      "claim": {
+        "worker_id": "295cc40570a64885aadb04af85580977-shard-0",
+        "claimed_at": "2026-11-11T04:22:01.712919+00:00",
+        "lease_expires_at": "2026-11-11T10:22:01.712919+00:00",
+        "run_id": "42938376778"
       }
     },
     "13134": {
@@ -120645,13 +120651,6 @@
           "source_id": "8744723",
           "target_video_id": "30985052",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:38:29.895090+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "8744723",
-          "target_video_id": "30985052",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:11:11.086299+00:00"
         },
         {
@@ -120660,6 +120659,13 @@
           "target_video_id": "30985052",
           "permanent": false,
           "attempted_at": "2026-11-11T03:45:38.845685+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "8744723",
+          "target_video_id": "30985052",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:22:02.322017+00:00"
         }
       ],
       "last_plan": {
@@ -132624,11 +132630,22 @@
       "last_plan": {
         "source_id": "35084675",
         "display_name": "The Secret of a Great Narrator (Tajemství velikého vypravěče) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:21:59.052229+00:00"
+        "planned_at": "2026-11-11T04:22:01.305954+00:00"
+      },
+      "claim": {
+        "worker_id": "ea2d412431134311bb997a29119141f1-shard-0",
+        "claimed_at": "2026-11-11T04:22:01.860020+00:00",
+        "lease_expires_at": "2026-11-11T10:22:01.860020+00:00",
+        "run_id": "42938376778"
       }
     },
     "15217": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24368035",
+        "display_name": "Psí kus 1080p CZ Dabing",
+        "planned_at": "2026-11-11T04:22:01.435480+00:00"
+      }
     },
     "27256": {
       "attempts": []
@@ -186213,5 +186230,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:21:59.052238+00:00"
+  "updated_at": "2026-11-11T04:22:02.322028+00:00"
 }
