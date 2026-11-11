@@ -107283,13 +107283,6 @@
           "source_id": "34713446",
           "target_video_id": "30983246",
           "permanent": false,
-          "attempted_at": "2026-11-11T09:29:49.910161+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34713446",
-          "target_video_id": "30983246",
-          "permanent": false,
           "attempted_at": "2026-11-11T12:43:12.995265+00:00"
         },
         {
@@ -107298,6 +107291,13 @@
           "target_video_id": "30983246",
           "permanent": false,
           "attempted_at": "2026-11-11T13:55:35.112900+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713446",
+          "target_video_id": "30983246",
+          "permanent": false,
+          "attempted_at": "2026-11-11T15:16:24.302097+00:00"
         }
       ],
       "last_plan": {
@@ -107343,7 +107343,7 @@
       "last_plan": {
         "source_id": "34883521",
         "display_name": "Vera 68 (Věra 68) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T13:55:34.306636+00:00"
+        "planned_at": "2026-11-11T15:16:22.813128+00:00"
       },
       "previous_target_id": "30983259",
       "prepared": {
@@ -107351,6 +107351,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-10T13:56:32.195971+00:00",
         "relay_source_id": "34883521"
+      },
+      "claim": {
+        "worker_id": "d5bb13f698e74f80b596e4f48dfdb808-shard-0",
+        "claimed_at": "2026-11-11T15:16:23.645811+00:00",
+        "lease_expires_at": "2026-11-11T21:16:23.645811+00:00",
+        "run_id": "43011363893"
       }
     },
     "26105": {
@@ -144748,7 +144754,7 @@
       "last_plan": {
         "source_id": "24347395",
         "display_name": "Lucky Loser (Šťastný smolař) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T15:16:20.842820+00:00"
+        "planned_at": "2026-11-11T15:16:23.149879+00:00"
       }
     },
     "12668": {
@@ -196660,5 +196666,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T15:16:20.842838+00:00"
+  "updated_at": "2026-11-11T15:16:24.302113+00:00"
 }
