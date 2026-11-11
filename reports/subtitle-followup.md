@@ -638,3 +638,4 @@ Attach subtitles only after target processing has finished.
 | Little Fish (2020) 1080p CZ Titulky | 30989893 | https://sdilej.cz/35401846/little.fish.2020.1080p.webrip.x264-rarbg-.mkv | Extract Czech track from exact source after processing |
 | How About Adolf? (Der Vorname) 1080p CZ Titulky | 30989905 | https://sdilej.cz/34819330/der-vorname-how-about-adolf-2018-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Rise 720p CZ Titulky | 30989991 | https://sdilej.cz/25891436/rise-svetla-empire-of-light-cz-titulky-2022.mkv | Extract Czech track from exact source after processing |
+| Sayonara 1080p CZ Titulky | 30990118 | https://sdilej.cz/34273318/sayonara-1957-bdrip-hd-1080p-h264-ita-eng-cze-ac3-armor-.mkv | Extract Czech track from exact source after processing |

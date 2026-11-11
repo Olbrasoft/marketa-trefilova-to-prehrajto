@@ -112389,6 +112389,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T15:05:48.048860+00:00",
         "relay_source_id": "33709201"
+      },
+      "claim": {
+        "worker_id": "bff9bd2880d845a0bb0c70f630bc6c5b-shard-0",
+        "claimed_at": "2026-11-11T13:00:14.881938+00:00",
+        "lease_expires_at": "2026-11-11T19:00:14.881938+00:00",
+        "run_id": "43011363893"
       }
     },
     "28909": {
@@ -138386,13 +138392,6 @@
           "source_id": "35211860",
           "target_video_id": "30987913",
           "permanent": false,
-          "attempted_at": "2026-11-11T07:41:59.878255+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35211860",
-          "target_video_id": "30987913",
-          "permanent": false,
           "attempted_at": "2026-11-11T08:41:35.081991+00:00"
         },
         {
@@ -138401,6 +138400,13 @@
           "target_video_id": "30987913",
           "permanent": false,
           "attempted_at": "2026-11-11T09:54:18.893134+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35211860",
+          "target_video_id": "30987913",
+          "permanent": false,
+          "attempted_at": "2026-11-11T13:00:15.078674+00:00"
         }
       ],
       "last_plan": {
@@ -138414,12 +138420,6 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-11T06:45:15.963502+00:00",
         "relay_source_id": "35211860"
-      },
-      "claim": {
-        "worker_id": "1061818e0edf45fea0b86f70c71ce241-shard-0",
-        "claimed_at": "2026-11-11T13:00:11.978443+00:00",
-        "lease_expires_at": "2026-11-11T19:00:11.978443+00:00",
-        "run_id": "43011363893"
       }
     },
     "16725": {
@@ -143751,7 +143751,7 @@
       "last_plan": {
         "source_id": "29153461",
         "display_name": "Murder in the Finistère (Les secrets du Finistère - La disparue de Douarnenez) SD CZ Dabing",
-        "planned_at": "2026-11-11T13:00:09.851590+00:00"
+        "planned_at": "2026-11-11T13:00:14.239430+00:00"
       }
     },
     "26278": {
@@ -195806,5 +195806,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T13:00:12.224714+00:00"
+  "updated_at": "2026-11-11T13:00:15.078692+00:00"
 }
