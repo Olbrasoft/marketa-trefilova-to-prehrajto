@@ -112647,6 +112647,12 @@
         "size_bytes": 5500000000,
         "prepared_at": "2026-11-10T15:13:52.996789+00:00",
         "relay_source_id": "32962420"
+      },
+      "claim": {
+        "worker_id": "b0d625013f3046819b886cd2d604f91a-shard-0",
+        "claimed_at": "2026-11-11T01:41:28.521301+00:00",
+        "lease_expires_at": "2026-11-11T07:41:28.521301+00:00",
+        "run_id": "42904278669"
       }
     },
     "2980": {
@@ -112731,7 +112737,7 @@
       "last_plan": {
         "source_id": "11544873",
         "display_name": "Spectre 4K CZ Dabing",
-        "planned_at": "2026-11-11T00:58:29.675075+00:00"
+        "planned_at": "2026-11-11T01:41:28.787007+00:00"
       },
       "previous_target_id": "30984008",
       "prepared": {
@@ -127906,17 +127912,19 @@
       }
     },
     "17172": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12402129",
+          "target_video_id": "30986707",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:41:29.364503+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12402129",
         "display_name": "Dilili in Paris (Dilili à Paris) 1080p CZ Dabing",
         "planned_at": "2026-11-11T01:40:44.944288+00:00"
-      },
-      "claim": {
-        "worker_id": "d2549cb9728246688fcd60b7065d4c3e-shard-0",
-        "claimed_at": "2026-11-11T01:40:47.374825+00:00",
-        "lease_expires_at": "2026-11-11T07:40:47.374825+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986707",
       "prepared": {
@@ -127931,7 +127939,7 @@
       "last_plan": {
         "source_id": "34694034",
         "display_name": "The Punishment (El castigo) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T01:41:26.373382+00:00"
+        "planned_at": "2026-11-11T01:41:29.098637+00:00"
       }
     },
     "26860": {
@@ -182282,5 +182290,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:41:26.619874+00:00"
+  "updated_at": "2026-11-11T01:41:29.364526+00:00"
 }
