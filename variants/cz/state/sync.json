@@ -131603,17 +131603,19 @@
       "attempts": []
     },
     "33951": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716844",
+          "target_video_id": "30987165",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:51:35.276378+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716844",
         "display_name": "Hry a sny 720p CZ Dabing",
         "planned_at": "2026-11-11T03:50:18.061938+00:00"
-      },
-      "claim": {
-        "worker_id": "78b354686ad64b6587f55de981679d68-shard-0",
-        "claimed_at": "2026-11-11T03:50:19.683352+00:00",
-        "lease_expires_at": "2026-11-11T09:50:19.683352+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987165",
       "prepared": {
@@ -185397,5 +185399,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:51:33.856550+00:00"
+  "updated_at": "2026-11-11T03:51:35.276391+00:00"
 }
