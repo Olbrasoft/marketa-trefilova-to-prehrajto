@@ -113623,13 +113623,6 @@
           "source_id": "32952346",
           "target_video_id": "30984110",
           "permanent": false,
-          "attempted_at": "2026-11-11T01:57:43.880524+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32952346",
-          "target_video_id": "30984110",
-          "permanent": false,
           "attempted_at": "2026-11-11T02:37:58.520919+00:00"
         },
         {
@@ -113638,12 +113631,19 @@
           "target_video_id": "30984110",
           "permanent": false,
           "attempted_at": "2026-11-11T03:10:35.477038+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32952346",
+          "target_video_id": "30984110",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:45:00.498947+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32952346",
         "display_name": "Hook 4K CZ Dabing",
-        "planned_at": "2026-11-11T03:10:32.255985+00:00"
+        "planned_at": "2026-11-11T03:44:58.358209+00:00"
       },
       "previous_target_id": "30984110",
       "prepared": {
@@ -131343,11 +131343,22 @@
       "last_plan": {
         "source_id": "34713808",
         "display_name": "Suzie in the Garden 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:44:54.209825+00:00"
+        "planned_at": "2026-11-11T03:44:58.563142+00:00"
+      },
+      "claim": {
+        "worker_id": "0cf50b3268814bd989ba1d8f939287d0-shard-0",
+        "claimed_at": "2026-11-11T03:44:59.060992+00:00",
+        "lease_expires_at": "2026-11-11T09:44:59.060992+00:00",
+        "run_id": "42938376778"
       }
     },
     "32268": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34715074",
+        "display_name": "Grandpa, Kylian and I (Dědeček, Kyliján a já) SD CZ Dabing",
+        "planned_at": "2026-11-11T03:44:58.689997+00:00"
+      }
     },
     "12809": {
       "attempts": []
@@ -185160,5 +185171,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:44:56.531803+00:00"
+  "updated_at": "2026-11-11T03:45:00.498959+00:00"
 }
