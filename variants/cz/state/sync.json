@@ -143354,17 +143354,19 @@
       }
     },
     "16514": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10900353",
+          "target_video_id": "30989946",
+          "permanent": false,
+          "attempted_at": "2026-11-11T12:35:57.209989+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10900353",
         "display_name": "The Way Out (Cesta ven) SD CZ Dabing",
         "planned_at": "2026-11-11T12:34:55.956526+00:00"
-      },
-      "claim": {
-        "worker_id": "8a02dff99c8c4c08ba9de723874c7dd3-shard-0",
-        "claimed_at": "2026-11-11T12:34:56.686757+00:00",
-        "lease_expires_at": "2026-11-11T18:34:56.686757+00:00",
-        "run_id": "43011363893"
       },
       "previous_target_id": "30989946",
       "prepared": {
@@ -195471,5 +195473,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T12:35:55.502916+00:00"
+  "updated_at": "2026-11-11T12:35:57.210002+00:00"
 }
