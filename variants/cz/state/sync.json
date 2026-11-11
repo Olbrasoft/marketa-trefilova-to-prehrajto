@@ -113117,7 +113117,7 @@
       "last_plan": {
         "source_id": "32044029",
         "display_name": "Tron: Legacy 4K CZ Dabing",
-        "planned_at": "2026-11-11T06:21:06.717172+00:00"
+        "planned_at": "2026-11-11T07:14:51.940331+00:00"
       },
       "previous_target_id": "30984062",
       "prepared": {
@@ -113125,6 +113125,12 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-11-10T15:22:29.295795+00:00",
         "relay_source_id": "32044029"
+      },
+      "claim": {
+        "worker_id": "05d1559b8fd14f33a42564020e631778-shard-0",
+        "claimed_at": "2026-11-11T07:14:52.580889+00:00",
+        "lease_expires_at": "2026-11-11T13:14:52.580889+00:00",
+        "run_id": "42965310158"
       }
     },
     "2992": {
@@ -131581,6 +131587,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T03:37:22.059612+00:00",
         "relay_source_id": "35080468"
+      },
+      "claim": {
+        "worker_id": "25b8e22b23ea427191f2195f8239a8b8-shard-0",
+        "claimed_at": "2026-11-11T07:14:51.716532+00:00",
+        "lease_expires_at": "2026-11-11T13:14:51.716532+00:00",
+        "run_id": "42965310158"
       }
     },
     "13773": {
@@ -138263,17 +138275,19 @@
       "attempts": []
     },
     "24522": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15665884",
+          "target_video_id": "30988003",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:14:53.151343+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15665884",
         "display_name": "Parallel Worlds 720p CZ Dabing",
         "planned_at": "2026-11-11T07:14:03.291858+00:00"
-      },
-      "claim": {
-        "worker_id": "5a9e743b93e24f9a9e74c82e13bafc9a-shard-0",
-        "claimed_at": "2026-11-11T07:14:05.357312+00:00",
-        "lease_expires_at": "2026-11-11T13:14:05.357312+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988003",
       "prepared": {
@@ -138288,7 +138302,7 @@
       "last_plan": {
         "source_id": "30220774",
         "display_name": "Jak chutnà láska (Jak chutná láska) 720p CZ Dabing",
-        "planned_at": "2026-11-11T07:14:50.110319+00:00"
+        "planned_at": "2026-11-11T07:14:52.222441+00:00"
       }
     },
     "13550": {
@@ -191070,5 +191084,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:14:50.110337+00:00"
+  "updated_at": "2026-11-11T07:14:53.151357+00:00"
 }
