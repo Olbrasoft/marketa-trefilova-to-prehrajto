@@ -3098,13 +3098,6 @@
           "source_id": "33590630",
           "target_video_id": "30612365",
           "permanent": false,
-          "attempted_at": "2026-11-11T13:09:50.027001+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33590630",
-          "target_video_id": "30612365",
-          "permanent": false,
           "attempted_at": "2026-11-11T13:40:26.414706+00:00"
         },
         {
@@ -3113,6 +3106,13 @@
           "target_video_id": "30612365",
           "permanent": false,
           "attempted_at": "2026-11-11T14:11:01.895653+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33590630",
+          "target_video_id": "30612365",
+          "permanent": false,
+          "attempted_at": "2026-11-11T14:41:34.322155+00:00"
         }
       ],
       "last_plan": {
@@ -3126,12 +3126,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
-      },
-      "claim": {
-        "worker_id": "95576bb8b838499396d5ee6aeda1cf3d-shard-0",
-        "claimed_at": "2026-11-11T14:41:06.377904+00:00",
-        "lease_expires_at": "2026-11-11T20:41:06.377904+00:00",
-        "run_id": "43011363893"
       }
     },
     "21312": {
@@ -11497,7 +11491,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-11T14:11:23.744068+00:00"
+        "planned_at": "2026-11-11T14:41:33.643263+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -11505,6 +11499,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "69005949ce674cbe97fd633893d7102a-shard-0",
+        "claimed_at": "2026-11-11T14:41:33.939562+00:00",
+        "lease_expires_at": "2026-11-11T20:41:33.939562+00:00",
+        "run_id": "43011363893"
       }
     },
     "834": {
@@ -97157,5 +97157,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T14:41:28.643931+00:00"
+  "updated_at": "2026-11-11T14:41:34.322171+00:00"
 }
