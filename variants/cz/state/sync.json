@@ -128240,17 +128240,19 @@
       }
     },
     "21950": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29878083",
+          "target_video_id": "30986749",
+          "permanent": false,
+          "attempted_at": "2026-11-11T01:58:09.365963+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29878083",
         "display_name": "La Horse (The Horse) SD CZ Dabing",
         "planned_at": "2026-11-11T01:56:23.484973+00:00"
-      },
-      "claim": {
-        "worker_id": "afa76fee196746fe8d5cb680b6b16e8f-shard-0",
-        "claimed_at": "2026-11-11T01:56:27.163854+00:00",
-        "lease_expires_at": "2026-11-11T07:56:27.163854+00:00",
-        "run_id": "42904278669"
       },
       "previous_target_id": "30986749",
       "prepared": {
@@ -182568,5 +182570,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T01:58:07.693673+00:00"
+  "updated_at": "2026-11-11T01:58:09.365983+00:00"
 }
