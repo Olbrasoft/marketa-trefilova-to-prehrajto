@@ -106852,13 +106852,6 @@
           "source_id": "34751129",
           "target_video_id": "30983121",
           "permanent": false,
-          "attempted_at": "2026-11-11T02:32:25.784517+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34751129",
-          "target_video_id": "30983121",
-          "permanent": false,
           "attempted_at": "2026-11-11T03:06:09.729137+00:00"
         },
         {
@@ -106867,6 +106860,13 @@
           "target_video_id": "30983121",
           "permanent": false,
           "attempted_at": "2026-11-11T03:40:14.347742+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751129",
+          "target_video_id": "30983121",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:16:30.235689+00:00"
         }
       ],
       "last_plan": {
@@ -106880,12 +106880,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T13:52:32.786540+00:00",
         "relay_source_id": "34751129"
-      },
-      "claim": {
-        "worker_id": "e84e422bc1ba445bbd85dedf67ac5b11-shard-0",
-        "claimed_at": "2026-11-11T04:16:28.262136+00:00",
-        "lease_expires_at": "2026-11-11T10:16:28.262136+00:00",
-        "run_id": "42938376778"
       }
     },
     "21739": {
@@ -108547,7 +108541,7 @@
       "last_plan": {
         "source_id": "11729861",
         "display_name": "Suspicion (Klec) (2019) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:40:14.515992+00:00"
+        "planned_at": "2026-11-11T04:16:29.742462+00:00"
       },
       "previous_target_id": "30983619",
       "prepared": {
@@ -132416,11 +132410,16 @@
       "last_plan": {
         "source_id": "9621938",
         "display_name": "The Last Bohemian SD CZ Dabing",
-        "planned_at": "2026-11-11T04:16:26.384666+00:00"
+        "planned_at": "2026-11-11T04:16:29.950409+00:00"
       }
     },
     "36732": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34720893",
+        "display_name": "Faithless Games (Nevěrné hry) 1080p CZ Dabing",
+        "planned_at": "2026-11-11T04:16:30.078741+00:00"
+      }
     },
     "22161": {
       "attempts": []
@@ -186029,5 +186028,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:16:28.262165+00:00"
+  "updated_at": "2026-11-11T04:16:30.235701+00:00"
 }
