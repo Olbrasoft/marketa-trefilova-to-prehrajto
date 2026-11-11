@@ -639,3 +639,4 @@ Attach subtitles only after target processing has finished.
 | How About Adolf? (Der Vorname) 1080p CZ Titulky | 30989905 | https://sdilej.cz/34819330/der-vorname-how-about-adolf-2018-1080p-cz.tit.mkv | Complete: Czech subtitles verified |
 | Rise 720p CZ Titulky | 30989991 | https://sdilej.cz/25891436/rise-svetla-empire-of-light-cz-titulky-2022.mkv | Extract Czech track from exact source after processing |
 | Sayonara 1080p CZ Titulky | 30990118 | https://sdilej.cz/34273318/sayonara-1957-bdrip-hd-1080p-h264-ita-eng-cze-ac3-armor-.mkv | Extract Czech track from exact source after processing |
+| Once Upon a Deadpool SD CZ Titulky | 30990381 | https://sdilej.cz/11183990/once-upon-a-deadpool-2018-titulky.cz.mkv | Extract Czech track from exact source after processing |
