@@ -71835,7 +71835,7 @@
       "last_plan": {
         "source_id": "35464779",
         "display_name": "American Me 1080p CZ Dabing",
-        "planned_at": "2026-11-11T07:24:37.818414+00:00"
+        "planned_at": "2026-11-11T07:24:40.518899+00:00"
       }
     },
     "32093": {
@@ -122683,7 +122683,7 @@
       "last_plan": {
         "source_id": "33589689",
         "display_name": "Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-11T06:29:56.643300+00:00"
+        "planned_at": "2026-11-11T07:24:40.243174+00:00"
       },
       "previous_target_id": "30985541",
       "prepared": {
@@ -122691,6 +122691,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T20:10:08.286827+00:00",
         "relay_source_id": "33589689"
+      },
+      "claim": {
+        "worker_id": "a93c6091118e4b179720023bd8ed9943-shard-0",
+        "claimed_at": "2026-11-11T07:24:40.885463+00:00",
+        "lease_expires_at": "2026-11-11T13:24:40.885463+00:00",
+        "run_id": "42965310158"
       }
     },
     "27916": {
@@ -137424,6 +137430,13 @@
           "target_video_id": "30987861",
           "permanent": false,
           "attempted_at": "2026-11-11T06:29:58.524293+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35068840",
+          "target_video_id": "30987861",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:24:42.433726+00:00"
         }
       ],
       "last_plan": {
@@ -137434,7 +137447,7 @@
       "previous_target_id": "30987861",
       "prepared": {
         "target_video_id": "30987861",
-        "size_bytes": 1508028416,
+        "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T06:29:19.776162+00:00",
         "relay_source_id": "35068840"
       }
@@ -191354,5 +191367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:24:38.153300+00:00"
+  "updated_at": "2026-11-11T07:24:42.433745+00:00"
 }
