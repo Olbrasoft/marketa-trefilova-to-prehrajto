@@ -112775,13 +112775,6 @@
           "source_id": "34274611",
           "target_video_id": "30984010",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:08:16.939620+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34274611",
-          "target_video_id": "30984010",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:03:01.674531+00:00"
         },
         {
@@ -112790,6 +112783,13 @@
           "target_video_id": "30984010",
           "permanent": false,
           "attempted_at": "2026-11-11T07:59:52.728136+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34274611",
+          "target_video_id": "30984010",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:00:53.464934+00:00"
         }
       ],
       "last_plan": {
@@ -133846,7 +133846,7 @@
       "last_plan": {
         "source_id": "32097453",
         "display_name": "Veselý souboj SD CZ Dabing",
-        "planned_at": "2026-11-11T07:59:52.501637+00:00"
+        "planned_at": "2026-11-11T09:00:52.090986+00:00"
       },
       "previous_target_id": "30987443",
       "prepared": {
@@ -133854,6 +133854,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T04:42:03.188301+00:00",
         "relay_source_id": "32097453"
+      },
+      "claim": {
+        "worker_id": "4da97328bd394337b2475ff3b80a8bf4-shard-0",
+        "claimed_at": "2026-11-11T09:00:52.752157+00:00",
+        "lease_expires_at": "2026-11-11T15:00:52.752157+00:00",
+        "run_id": "42965310158"
       }
     },
     "12579": {
@@ -141840,7 +141846,7 @@
       "last_plan": {
         "source_id": "30256707",
         "display_name": "Tři chlapi v chalupě SD CZ Dabing",
-        "planned_at": "2026-11-11T09:00:50.026650+00:00"
+        "planned_at": "2026-11-11T09:00:52.375430+00:00"
       }
     },
     "37450": {
@@ -194094,5 +194100,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:00:50.026671+00:00"
+  "updated_at": "2026-11-11T09:00:53.464953+00:00"
 }
