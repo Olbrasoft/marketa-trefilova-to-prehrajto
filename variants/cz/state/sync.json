@@ -130365,13 +130365,6 @@
           "source_id": "32354652",
           "target_video_id": "30986950",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:58:55.333451+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32354652",
-          "target_video_id": "30986950",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:55:09.559405+00:00"
         },
         {
@@ -130380,6 +130373,13 @@
           "target_video_id": "30986950",
           "permanent": false,
           "attempted_at": "2026-11-11T08:55:44.488309+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32354652",
+          "target_video_id": "30986950",
+          "permanent": false,
+          "attempted_at": "2026-11-11T10:12:17.155740+00:00"
         }
       ],
       "last_plan": {
@@ -135075,7 +135075,7 @@
       "last_plan": {
         "source_id": "31513493",
         "display_name": "The Reluctant Grandfather (Dědečkem proti své vůli) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T08:55:43.986421+00:00"
+        "planned_at": "2026-11-11T10:12:15.877722+00:00"
       },
       "previous_target_id": "30987592",
       "prepared": {
@@ -135083,6 +135083,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T05:20:57.958996+00:00",
         "relay_source_id": "31513493"
+      },
+      "claim": {
+        "worker_id": "2d461761a81a4890b4556caefb7303b0-shard-0",
+        "claimed_at": "2026-11-11T10:12:16.567347+00:00",
+        "lease_expires_at": "2026-11-11T16:12:16.567347+00:00",
+        "run_id": "42965310158"
       }
     },
     "12690": {
@@ -143005,7 +143011,7 @@
       "last_plan": {
         "source_id": "34634459",
         "display_name": "Lawyer Vera (Advokátka Věra) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T10:12:13.791529+00:00"
+        "planned_at": "2026-11-11T10:12:16.159327+00:00"
       }
     },
     "4371": {
@@ -195136,5 +195142,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T10:12:13.791548+00:00"
+  "updated_at": "2026-11-11T10:12:17.155759+00:00"
 }
