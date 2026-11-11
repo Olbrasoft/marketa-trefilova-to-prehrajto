@@ -99612,7 +99612,7 @@
       "last_plan": {
         "source_id": "27374216",
         "display_name": "North to Alaska SD CZ Dabing",
-        "planned_at": "2026-11-11T04:40:52.421740+00:00"
+        "planned_at": "2026-11-11T05:21:34.237836+00:00"
       },
       "previous_target_id": "30961098",
       "prepared": {
@@ -114135,6 +114135,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T15:35:54.736912+00:00",
         "relay_source_id": "28048905"
+      },
+      "claim": {
+        "worker_id": "1c2174dc2d0c4931a0b67b0cd677dce6-shard-0",
+        "claimed_at": "2026-11-11T05:21:34.071796+00:00",
+        "lease_expires_at": "2026-11-11T11:21:34.071796+00:00",
+        "run_id": "42938376778"
       }
     },
     "2903": {
@@ -134357,17 +134363,19 @@
       }
     },
     "24145": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31513493",
+          "target_video_id": "30987592",
+          "permanent": false,
+          "attempted_at": "2026-11-11T05:21:34.391860+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31513493",
         "display_name": "The Reluctant Grandfather (Dědečkem proti své vůli) 1080p CZ Dabing",
         "planned_at": "2026-11-11T05:20:51.248481+00:00"
-      },
-      "claim": {
-        "worker_id": "40713e5461694f18b81ccab3e24fcee7-shard-0",
-        "claimed_at": "2026-11-11T05:20:52.915685+00:00",
-        "lease_expires_at": "2026-11-11T11:20:52.915685+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987592",
       "prepared": {
@@ -187734,5 +187742,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T05:21:32.479949+00:00"
+  "updated_at": "2026-11-11T05:21:34.391870+00:00"
 }
