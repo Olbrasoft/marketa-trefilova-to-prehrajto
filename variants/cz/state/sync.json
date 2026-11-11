@@ -130735,6 +130735,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T03:05:27.462780+00:00",
         "relay_source_id": "34671979"
+      },
+      "claim": {
+        "worker_id": "ef2a155ff67a4cb598b88a90ea53cc0c-shard-0",
+        "claimed_at": "2026-11-11T20:09:38.487983+00:00",
+        "lease_expires_at": "2026-11-12T02:09:38.487983+00:00",
+        "run_id": "43067513109"
       }
     },
     "22338": {
@@ -145402,17 +145408,23 @@
           "attempted_at": "2026-11-11T18:52:09.658956+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29279358",
-        "display_name": "Le Mort de la plage SD CZ Dabing",
-        "planned_at": "2026-11-11T18:47:14.175943+00:00"
-      },
       "previous_target_id": "30993005",
-      "prepared": {
+      "upload": {
         "target_video_id": "30993005",
-        "size_bytes": 924250260,
-        "prepared_at": "2026-11-11T18:47:24.000661+00:00",
-        "relay_source_id": "29279358"
+        "display_name": "Le Mort de la plage SD CZ Dabing",
+        "source_id": "29279358",
+        "source_url": "https://sdilej.cz/29279358/stiny-smrti-vrazda-na-plazi-krimi.fr.b.svyc.2018.tvrip.cz.mkv",
+        "source_filename": "Stíny smrti - Vražda na pláži -krimi.Fr.B.Švýc.2018.TVRip.CZ.mkv",
+        "size_bytes": 924300000,
+        "width": 960,
+        "height": 540,
+        "audio_language": "cs",
+        "language_probability": 0.836002767086029,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/le-mort-de-la-plage-sd-cz-dabing-mkv/068c00c0c62cd070",
+        "uploaded_at": "2026-11-11T20:09:40.116560+00:00"
       }
     },
     "12512": {
@@ -145684,7 +145696,7 @@
       "last_plan": {
         "source_id": "33391039",
         "display_name": "Him and His Sister (On a jeho sestra) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T20:09:36.657380+00:00"
+        "planned_at": "2026-11-11T20:09:38.876797+00:00"
       }
     },
     "8263": {
@@ -197407,5 +197419,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T20:09:36.657399+00:00"
+  "updated_at": "2026-11-11T20:09:40.116579+00:00"
 }
