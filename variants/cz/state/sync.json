@@ -116807,6 +116807,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T17:38:23.527803+00:00",
         "relay_source_id": "29062405"
+      },
+      "claim": {
+        "worker_id": "b00d9cf197ae4e8da81b590afdce70d8-shard-0",
+        "claimed_at": "2026-11-11T07:31:49.983361+00:00",
+        "lease_expires_at": "2026-11-11T13:31:49.983361+00:00",
+        "run_id": "42965310158"
       }
     },
     "11410": {
@@ -138864,17 +138870,19 @@
       }
     },
     "11092": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34673105",
+          "target_video_id": "30988105",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:31:50.168292+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34673105",
         "display_name": "Six Bears and a Clown (6 medvědů s Cibulkou) SD CZ Dabing",
         "planned_at": "2026-11-11T07:31:05.689177+00:00"
-      },
-      "claim": {
-        "worker_id": "396c0cf25aac499989a7aa73286956f0-shard-0",
-        "claimed_at": "2026-11-11T07:31:06.396419+00:00",
-        "lease_expires_at": "2026-11-11T13:31:06.396419+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988105",
       "prepared": {
@@ -191593,5 +191601,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:31:48.299739+00:00"
+  "updated_at": "2026-11-11T07:31:50.168307+00:00"
 }
