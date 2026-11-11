@@ -53761,13 +53761,6 @@
           "source_id": "33925810",
           "target_video_id": "30780604",
           "permanent": false,
-          "attempted_at": "2026-11-11T00:49:03.909965+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33925810",
-          "target_video_id": "30780604",
-          "permanent": false,
           "attempted_at": "2026-11-11T01:30:29.578588+00:00"
         },
         {
@@ -53776,6 +53769,13 @@
           "target_video_id": "30780604",
           "permanent": false,
           "attempted_at": "2026-11-11T02:15:05.961732+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33925810",
+          "target_video_id": "30780604",
+          "permanent": false,
+          "attempted_at": "2026-11-11T02:48:57.564561+00:00"
         }
       ],
       "last_plan": {
@@ -119099,7 +119099,7 @@
       "last_plan": {
         "source_id": "25411027",
         "display_name": "Anonymous SD CZ Dabing",
-        "planned_at": "2026-11-11T02:15:05.483056+00:00"
+        "planned_at": "2026-11-11T02:48:56.257254+00:00"
       },
       "previous_target_id": "30984957",
       "prepared": {
@@ -119107,6 +119107,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T18:18:25.279371+00:00",
         "relay_source_id": "25411027"
+      },
+      "claim": {
+        "worker_id": "05a8d4799a104aa6a6b08d2d3fbb5bad-shard-0",
+        "claimed_at": "2026-11-11T02:48:56.726987+00:00",
+        "lease_expires_at": "2026-11-11T08:48:56.726987+00:00",
+        "run_id": "42938376778"
       }
     },
     "23690": {
@@ -129709,7 +129715,7 @@
       "last_plan": {
         "source_id": "34451524",
         "display_name": "Circus Angel SD CZ Dabing",
-        "planned_at": "2026-11-11T02:48:53.463572+00:00"
+        "planned_at": "2026-11-11T02:48:56.462883+00:00"
       }
     },
     "11806": {
@@ -183766,5 +183772,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T02:48:53.463582+00:00"
+  "updated_at": "2026-11-11T02:48:57.564574+00:00"
 }
