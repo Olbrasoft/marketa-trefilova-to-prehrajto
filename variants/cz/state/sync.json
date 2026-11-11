@@ -112961,6 +112961,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:20:21.843822+00:00",
         "relay_source_id": "31202256"
+      },
+      "claim": {
+        "worker_id": "d09d782f37b546aebfa2eacea4f8119b-shard-0",
+        "claimed_at": "2026-11-11T04:09:54.348816+00:00",
+        "lease_expires_at": "2026-11-11T10:09:54.348816+00:00",
+        "run_id": "42938376778"
       }
     },
     "3154": {
@@ -117822,7 +117828,7 @@
       "last_plan": {
         "source_id": "18074487",
         "display_name": "Arctic 1080p CZ Dabing",
-        "planned_at": "2026-11-11T03:33:28.457992+00:00"
+        "planned_at": "2026-11-11T04:09:54.526565+00:00"
       },
       "previous_target_id": "30984856",
       "prepared": {
@@ -117830,6 +117836,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:54:08.603423+00:00",
         "relay_source_id": "18074487"
+      },
+      "claim": {
+        "worker_id": "e5fc3946c3e64a71b177d77dd02fc3b4-shard-0",
+        "claimed_at": "2026-11-11T04:09:55.014290+00:00",
+        "lease_expires_at": "2026-11-11T10:09:55.014290+00:00",
+        "run_id": "42938376778"
       }
     },
     "2956": {
@@ -130499,6 +130511,13 @@
           "target_video_id": "30986963",
           "permanent": false,
           "attempted_at": "2026-11-11T03:33:20.789684+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35147186",
+          "target_video_id": "30986963",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:09:55.272312+00:00"
         }
       ],
       "last_plan": {
@@ -130512,12 +130531,6 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-11T02:58:34.152788+00:00",
         "relay_source_id": "35147186"
-      },
-      "claim": {
-        "worker_id": "b4afb30c975047258cbb849d3dc9798a-shard-0",
-        "claimed_at": "2026-11-11T04:09:52.227740+00:00",
-        "lease_expires_at": "2026-11-11T10:09:52.227740+00:00",
-        "run_id": "42938376778"
       }
     },
     "10712": {
@@ -132107,7 +132120,7 @@
       "last_plan": {
         "source_id": "29078551",
         "display_name": "The Comedy with Mr Klika (Komedie s Klikou) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T04:09:52.626043+00:00"
+        "planned_at": "2026-11-11T04:09:54.731848+00:00"
       }
     },
     "13137": {
@@ -185792,5 +185805,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:09:52.801121+00:00"
+  "updated_at": "2026-11-11T04:09:55.272325+00:00"
 }
