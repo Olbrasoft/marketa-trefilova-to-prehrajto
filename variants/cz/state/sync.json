@@ -132181,17 +132181,19 @@
       "attempts": []
     },
     "12598": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27786470",
+          "target_video_id": "30987288",
+          "permanent": false,
+          "attempted_at": "2026-11-11T04:11:40.961609+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27786470",
         "display_name": "The Seamstress (Švadlenka) SD CZ Dabing",
         "planned_at": "2026-11-11T04:10:57.616442+00:00"
-      },
-      "claim": {
-        "worker_id": "5d3ab9a3ff064f49be9cd31f2eea9dbc-shard-0",
-        "claimed_at": "2026-11-11T04:10:59.356840+00:00",
-        "lease_expires_at": "2026-11-11T10:10:59.356840+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987288",
       "prepared": {
@@ -185864,5 +185866,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T04:11:39.546474+00:00"
+  "updated_at": "2026-11-11T04:11:40.961621+00:00"
 }
