@@ -119331,13 +119331,6 @@
           "source_id": "21276911",
           "target_video_id": "30984970",
           "permanent": false,
-          "attempted_at": "2026-11-11T06:07:53.010170+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21276911",
-          "target_video_id": "30984970",
-          "permanent": false,
           "attempted_at": "2026-11-11T07:02:30.286329+00:00"
         },
         {
@@ -119346,6 +119339,13 @@
           "target_video_id": "30984970",
           "permanent": false,
           "attempted_at": "2026-11-11T07:59:24.498812+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21276911",
+          "target_video_id": "30984970",
+          "permanent": false,
+          "attempted_at": "2026-11-11T09:00:26.195726+00:00"
         }
       ],
       "last_plan": {
@@ -135256,7 +135256,7 @@
       "last_plan": {
         "source_id": "34515639",
         "display_name": "Runaway (Útěk) (2025) 4K CZ Dabing",
-        "planned_at": "2026-11-11T07:59:21.533482+00:00"
+        "planned_at": "2026-11-11T09:00:24.406481+00:00"
       },
       "previous_target_id": "30987605",
       "prepared": {
@@ -135264,6 +135264,12 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-11-11T05:23:51.134886+00:00",
         "relay_source_id": "34515639"
+      },
+      "claim": {
+        "worker_id": "d90cee87f35240f091cf6aa23a9a46fa-shard-0",
+        "claimed_at": "2026-11-11T09:00:25.248550+00:00",
+        "lease_expires_at": "2026-11-11T15:00:25.248550+00:00",
+        "run_id": "42965310158"
       }
     },
     "25125": {
@@ -141819,11 +141825,22 @@
       "last_plan": {
         "source_id": "34786206",
         "display_name": "Mark of Cain 1080p CZ Dabing",
-        "planned_at": "2026-11-11T09:00:21.531588+00:00"
+        "planned_at": "2026-11-11T09:00:24.684388+00:00"
+      },
+      "claim": {
+        "worker_id": "4d10044a825d45fab93f590fab8fb878-shard-0",
+        "claimed_at": "2026-11-11T09:00:25.454720+00:00",
+        "lease_expires_at": "2026-11-11T15:00:25.454720+00:00",
+        "run_id": "42965310158"
       }
     },
     "13448": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30256707",
+        "display_name": "Tři chlapi v chalupě SD CZ Dabing",
+        "planned_at": "2026-11-11T09:00:24.879486+00:00"
+      }
     },
     "37450": {
       "attempts": []
@@ -194076,5 +194093,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:00:21.955024+00:00"
+  "updated_at": "2026-11-11T09:00:26.195745+00:00"
 }
