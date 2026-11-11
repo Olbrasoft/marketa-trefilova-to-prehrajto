@@ -139222,17 +139222,19 @@
       }
     },
     "21784": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34852429",
+          "target_video_id": "30988147",
+          "permanent": false,
+          "attempted_at": "2026-11-11T07:41:04.131689+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34852429",
         "display_name": "The Lost Face (The Borrowed Face) 720p CZ Dabing",
         "planned_at": "2026-11-11T07:40:18.676522+00:00"
-      },
-      "claim": {
-        "worker_id": "36d3ab334abd44bc868b2b1993de32b7-shard-0",
-        "claimed_at": "2026-11-11T07:40:19.449441+00:00",
-        "lease_expires_at": "2026-11-11T13:40:19.449441+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988147",
       "prepared": {
@@ -191897,5 +191899,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T07:41:02.461941+00:00"
+  "updated_at": "2026-11-11T07:41:04.131710+00:00"
 }
