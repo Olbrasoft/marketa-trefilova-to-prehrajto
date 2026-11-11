@@ -35230,17 +35230,19 @@
       "attempts": []
     },
     "27052": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "17633756",
+          "target_video_id": "30988551",
+          "permanent": false,
+          "attempted_at": "2026-11-11T08:42:22.265662+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "17633756",
         "display_name": "Legacy, notre héritage (Legacy) 1080p CZ Titulky",
         "planned_at": "2026-11-11T08:41:36.475072+00:00"
-      },
-      "claim": {
-        "worker_id": "fc20c7d78d2d49b9888382dfa72a4c4b-shard-0",
-        "claimed_at": "2026-11-11T08:41:38.691201+00:00",
-        "lease_expires_at": "2026-11-11T14:41:38.691201+00:00",
-        "run_id": "42965310158"
       },
       "previous_target_id": "30988551",
       "prepared": {
@@ -96698,5 +96700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T08:41:44.555943+00:00"
+  "updated_at": "2026-11-11T08:42:22.265678+00:00"
 }
