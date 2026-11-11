@@ -131845,17 +131845,19 @@
       "attempts": []
     },
     "26532": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31712414",
+          "target_video_id": "30987222",
+          "permanent": false,
+          "attempted_at": "2026-11-11T03:59:58.126147+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31712414",
         "display_name": "O svatební krajce SD CZ Dabing",
         "planned_at": "2026-11-11T03:59:15.026168+00:00"
-      },
-      "claim": {
-        "worker_id": "17ac0c4959894df8b4e0c395492db190-shard-0",
-        "claimed_at": "2026-11-11T03:59:16.988746+00:00",
-        "lease_expires_at": "2026-11-11T09:59:16.988746+00:00",
-        "run_id": "42938376778"
       },
       "previous_target_id": "30987222",
       "prepared": {
@@ -185600,5 +185602,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-11T03:59:56.687203+00:00"
+  "updated_at": "2026-11-11T03:59:58.126160+00:00"
 }
