@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T15:08:11.853984+00:00
+Poslední aktualizace (UTC): 2026-11-12T15:08:15.566300+00:00
 
 Zkontrolováno videí: 663. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 88, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 89, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -81,6 +81,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 99. Důvod
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-10T09:49:33.170027+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-10T09:49:52.647297+00:00 |
 | [Chocolat (2016) SD CZ Titulky](https://prehraj.to/chocolat-2016-sd-cz-titulky-mkv/668ea0f6de46f2fd) (ID 30990768) | [Sdílej 6841848](https://sdilej.cz/6841848/chocolat-monsieur-chocolat-2016-titulky.cz-1080p.mkv) | target_unavailable | 2026-11-11T13:58:21.537398+00:00 |
+| [Clueless 1080p CZ Titulky](https://prehraj.to/clueless-1080p-cz-titulky-mkv/90a29b56ae939edf) (ID 31003560) | [Sdílej 30783542](https://sdilej.cz/30783542/bezmocna-clueless-1995-en.cz.sk-bdrip-hevc-1080p.mkv) | target_unavailable | 2026-11-12T15:08:14.223418+00:00 |
 | [Colonia (Colonia Dignidad – Es gibt kein Zurück) 1080p CZ Titulky](https://prehraj.to/colonia-colonia-dignidad-es-gibt-kein-zurueck-1080p-cz-titulky-mkv/86ea04feea99e611) (ID 30977898) | [Sdílej 34886157](https://sdilej.cz/34886157/colonia.2015.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-10T11:42:11.375214+00:00 |
 | [Empties (Vratné lahve) 1080p CZ Titulky](https://prehraj.to/empties-vratne-lahve-1080p-cz-titulky-mkv/2fa38051e9b275cf) (ID 30938020) | [Sdílej 32453722](https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv) | target_unavailable | 2026-11-10T09:41:16.438716+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-10T09:49:25.124690+00:00 |
