@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-12T19:01:47.498587+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-12T19:31:56.144454+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-12T20:43:13.529627+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-12T21:13:23.179427+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "74ca4389ba85455296d7c9abc5d964f4-shard-0",
-        "claimed_at": "2026-11-12T21:13:18.581920+00:00",
-        "lease_expires_at": "2026-11-13T03:13:18.581920+00:00",
-        "run_id": "43299526401"
       }
     },
     "21690": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-12T20:43:09.400384+00:00"
+        "planned_at": "2026-11-12T21:13:21.692112+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "7cb5810d065d4f3a89d6b8fb42e55a7b-shard-0",
+        "claimed_at": "2026-11-12T21:13:22.086388+00:00",
+        "lease_expires_at": "2026-11-13T03:13:22.086388+00:00",
+        "run_id": "43299526401"
       }
     },
     "31551": {
@@ -37957,7 +37957,7 @@
       "last_plan": {
         "source_id": "34453030",
         "display_name": "Bill & Ted's Excellent Adventure 720p CZ Titulky",
-        "planned_at": "2026-11-12T21:13:18.253502+00:00"
+        "planned_at": "2026-11-12T21:13:21.966783+00:00"
       }
     },
     "24468": {
@@ -98016,5 +98016,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T21:13:18.838526+00:00"
+  "updated_at": "2026-11-12T21:13:23.179443+00:00"
 }
