@@ -109605,13 +109605,6 @@
           "source_id": "29678156",
           "target_video_id": "30983692",
           "permanent": false,
-          "attempted_at": "2026-11-12T00:35:46.287945+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29678156",
-          "target_video_id": "30983692",
-          "permanent": false,
           "attempted_at": "2026-11-12T02:19:05.951752+00:00"
         },
         {
@@ -109620,6 +109613,13 @@
           "target_video_id": "30983692",
           "permanent": false,
           "attempted_at": "2026-11-12T03:26:25.990851+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29678156",
+          "target_video_id": "30983692",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:38:23.806981+00:00"
         }
       ],
       "last_plan": {
@@ -133668,7 +133668,7 @@
       "last_plan": {
         "source_id": "34902528",
         "display_name": "Lisáci-Mysáci a Sibenicák (Lišáci – Myšáci a Šibeničák) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:26:26.152976+00:00"
+        "planned_at": "2026-11-12T04:38:22.196281+00:00"
       },
       "previous_target_id": "30987386",
       "prepared": {
@@ -133676,6 +133676,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T04:28:24.558373+00:00",
         "relay_source_id": "34902528"
+      },
+      "claim": {
+        "worker_id": "6465471241344c0ca0b2675299138ed5-shard-0",
+        "claimed_at": "2026-11-12T04:38:22.829230+00:00",
+        "lease_expires_at": "2026-11-12T10:38:22.829230+00:00",
+        "run_id": "43133989396"
       }
     },
     "30560": {
@@ -146800,7 +146806,7 @@
       "last_plan": {
         "source_id": "32413714",
         "display_name": "Diagnosis of Death (Diagnóza smrti) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:38:20.044844+00:00"
+        "planned_at": "2026-11-12T04:38:22.398428+00:00"
       }
     },
     "29748": {
@@ -198340,5 +198346,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:38:20.232541+00:00"
+  "updated_at": "2026-11-12T04:38:23.807001+00:00"
 }
