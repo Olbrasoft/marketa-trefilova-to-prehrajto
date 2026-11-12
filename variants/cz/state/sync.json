@@ -132562,13 +132562,6 @@
           "source_id": "30251989",
           "target_video_id": "30987208",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:52:38.215549+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30251989",
-          "target_video_id": "30987208",
-          "permanent": false,
           "attempted_at": "2026-11-12T09:28:05.370507+00:00"
         },
         {
@@ -132577,6 +132570,13 @@
           "target_video_id": "30987208",
           "permanent": false,
           "attempted_at": "2026-11-12T11:45:41.086853+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30251989",
+          "target_video_id": "30987208",
+          "permanent": false,
+          "attempted_at": "2026-11-12T13:06:17.580401+00:00"
         }
       ],
       "last_plan": {
@@ -132590,12 +132590,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T03:56:55.465680+00:00",
         "relay_source_id": "30251989"
-      },
-      "claim": {
-        "worker_id": "d1b22ed72bf14797a225f0a7093548cb-shard-0",
-        "claimed_at": "2026-11-12T13:06:13.933281+00:00",
-        "lease_expires_at": "2026-11-12T19:06:13.933281+00:00",
-        "run_id": "43208551669"
       }
     },
     "31944": {
@@ -140896,7 +140890,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T13:06:13.284755+00:00"
+        "planned_at": "2026-11-12T13:06:17.005488+00:00"
       }
     },
     "33433": {
@@ -142462,7 +142456,7 @@
       "last_plan": {
         "source_id": "33810961",
         "display_name": "Die Geschichte von der Gänseprinzessin und ihrem treuen Pferd Falada (The Goose Princess) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:45:39.034482+00:00"
+        "planned_at": "2026-11-12T13:06:16.669561+00:00"
       },
       "previous_target_id": "30988570",
       "prepared": {
@@ -142470,6 +142464,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T08:46:15.167490+00:00",
         "relay_source_id": "33810961"
+      },
+      "claim": {
+        "worker_id": "9690b28190d8470b85e10466ad078217-shard-0",
+        "claimed_at": "2026-11-12T13:06:17.781534+00:00",
+        "lease_expires_at": "2026-11-12T19:06:17.781534+00:00",
+        "run_id": "43208551669"
       }
     },
     "31969": {
@@ -198712,5 +198712,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T13:06:14.605206+00:00"
+  "updated_at": "2026-11-12T13:06:17.781560+00:00"
 }
