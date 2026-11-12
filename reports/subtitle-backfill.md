@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T02:12:07.417567+00:00
+Poslední aktualizace (UTC): 2026-11-12T02:12:09.271799+00:00
 
 Zkontrolováno videí: 651. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 75, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 76, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -130,6 +130,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 85. Důvod
 | [Super 8 720p CZ Titulky](https://prehraj.to/super-8-720p-cz-titulky-mkv/d5cd79cf2c765ab9) (ID 30970243) | [Sdílej 16310205](https://sdilej.cz/16310205/super-8-2011-sci-fi-cz-dab-720p-hd.mkv) | target_unavailable | 2026-11-10T09:50:25.429862+00:00 |
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-10T09:39:50.277826+00:00 |
 | [Tenebrae (Tenebre) 1080p CZ Titulky](https://prehraj.to/tenebrae-tenebre-1080p-cz-titulky-mkv/621ba6916f09d5d0) (ID 30985350) | [Sdílej 11416033](https://sdilej.cz/11416033/tenebre-tenebrae-1982-titulky.cz.1080p.mkv) | target_unavailable | 2026-11-10T18:59:36.735572+00:00 |
+| [The Blue Trail (O Último Azul) 1080p CZ Titulky](https://prehraj.to/the-blue-trail-o-ultimo-azul-1080p-cz-titulky-mkv/5344564bd1401e11) (ID 30996874) | [Sdílej 32938361](https://sdilej.cz/32938361/modrou-stezkou-2025-sci-fi-drama-fantasy-cztit-fhd.mkv) | target_unavailable | 2026-11-12T02:12:09.271724+00:00 |
 | [The Dirt 4K CZ Titulky](https://prehraj.to/the-dirt-4k-cz-titulky-mkv/2af6bd2bb9daad74) (ID 30977182) | [Sdílej 12889912](https://sdilej.cz/12889912/the.dirt.2019.2160p.uhdrip.sdr.hevc.ddp.5.1-ddr.cztitulky.mkv) | target_unavailable | 2026-11-10T11:21:36.817236+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | upload_unconfirmed | 2026-11-10T09:40:00.989392+00:00 |
 | [The Gangster, the Cop, the Devil (악인전) 1080p CZ Titulky](https://prehraj.to/the-gangster-the-cop-the-devil-1080p-cz-titulky-mkv/5b70f3475e836bb0) (ID 30984719) | [Sdílej 11947495](https://sdilej.cz/11947495/the-gangster-the-cop-the-devil-2019.hd1080p-cz-titulky.mkv) | target_unavailable | 2026-11-10T17:27:27.267012+00:00 |
