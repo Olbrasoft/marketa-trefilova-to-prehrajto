@@ -131820,13 +131820,6 @@
           "source_id": "33767536",
           "target_video_id": "30987126",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:10:36.285963+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33767536",
-          "target_video_id": "30987126",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:21:59.206173+00:00"
         },
         {
@@ -131835,6 +131828,13 @@
           "target_video_id": "30987126",
           "permanent": false,
           "attempted_at": "2026-11-11T22:56:27.425347+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33767536",
+          "target_video_id": "30987126",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:12:57.542732+00:00"
         }
       ],
       "last_plan": {
@@ -141361,7 +141361,7 @@
       "last_plan": {
         "source_id": "32763852",
         "display_name": "Šviháci 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:56:25.917231+00:00"
+        "planned_at": "2026-11-12T00:12:56.278827+00:00"
       },
       "previous_target_id": "30988393",
       "prepared": {
@@ -141369,6 +141369,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T08:19:06.905333+00:00",
         "relay_source_id": "32763852"
+      },
+      "claim": {
+        "worker_id": "e3a51385341a4cd097cdcc9b22443832-shard-0",
+        "claimed_at": "2026-11-12T00:12:57.212942+00:00",
+        "lease_expires_at": "2026-11-12T06:12:57.212942+00:00",
+        "run_id": "43102571398"
       }
     },
     "27827": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:12:53.555014+00:00"
+        "planned_at": "2026-11-12T00:12:56.627908+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:12:53.961561+00:00"
+  "updated_at": "2026-11-12T00:12:57.542752+00:00"
 }
