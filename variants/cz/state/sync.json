@@ -130805,13 +130805,6 @@
           "source_id": "34714070",
           "target_video_id": "30986970",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:00:14.881619+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34714070",
-          "target_video_id": "30986970",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:27:40.887677+00:00"
         },
         {
@@ -130820,6 +130813,13 @@
           "target_video_id": "30986970",
           "permanent": false,
           "attempted_at": "2026-11-12T10:03:30.051927+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714070",
+          "target_video_id": "30986970",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:19:55.085877+00:00"
         }
       ],
       "last_plan": {
@@ -140878,7 +140878,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:19:50.642879+00:00"
+        "planned_at": "2026-11-12T12:19:53.790799+00:00"
       }
     },
     "33433": {
@@ -141416,7 +141416,7 @@
       "last_plan": {
         "source_id": "30436273",
         "display_name": "Musíme se sejít SD CZ Dabing",
-        "planned_at": "2026-11-12T10:03:30.734182+00:00"
+        "planned_at": "2026-11-12T12:19:53.451959+00:00"
       },
       "previous_target_id": "30988335",
       "prepared": {
@@ -141424,6 +141424,12 @@
         "size_bytes": 803900000,
         "prepared_at": "2026-11-11T08:12:00.885093+00:00",
         "relay_source_id": "30436273"
+      },
+      "claim": {
+        "worker_id": "5cf82859a1cb4ba5bb91743f87d9a88b-shard-0",
+        "claimed_at": "2026-11-12T12:19:54.295276+00:00",
+        "lease_expires_at": "2026-11-12T18:19:54.295276+00:00",
+        "run_id": "43208551669"
       }
     },
     "12705": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:19:50.918694+00:00"
+  "updated_at": "2026-11-12T12:19:55.085895+00:00"
 }
