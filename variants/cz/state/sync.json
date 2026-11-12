@@ -38598,7 +38598,7 @@
       "last_plan": {
         "source_id": "34457513",
         "display_name": "Raid 1080p CZ Dabing",
-        "planned_at": "2026-11-12T07:20:45.516007+00:00"
+        "planned_at": "2026-11-12T07:20:48.773550+00:00"
       }
     },
     "30096": {
@@ -130988,7 +130988,7 @@
       "last_plan": {
         "source_id": "32614966",
         "display_name": "Under the Grey Sky (Pod szarym niebem) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T05:32:00.155392+00:00"
+        "planned_at": "2026-11-12T07:20:48.512670+00:00"
       },
       "previous_target_id": "30986990",
       "prepared": {
@@ -130996,6 +130996,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T03:10:48.379016+00:00",
         "relay_source_id": "32614966"
+      },
+      "claim": {
+        "worker_id": "e8e8570caac249bfb0f9dd88b51e4369-shard-0",
+        "claimed_at": "2026-11-12T07:20:49.352201+00:00",
+        "lease_expires_at": "2026-11-12T13:20:49.352201+00:00",
+        "run_id": "43168766567"
       }
     },
     "12675": {
@@ -132057,13 +132063,6 @@
           "source_id": "34713808",
           "target_video_id": "30987138",
           "permanent": false,
-          "attempted_at": "2026-11-12T03:10:00.632038+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34713808",
-          "target_video_id": "30987138",
-          "permanent": false,
           "attempted_at": "2026-11-12T04:17:05.047984+00:00"
         },
         {
@@ -132072,6 +132071,13 @@
           "target_video_id": "30987138",
           "permanent": false,
           "attempted_at": "2026-11-12T05:31:58.645605+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713808",
+          "target_video_id": "30987138",
+          "permanent": false,
+          "attempted_at": "2026-11-12T07:20:50.224940+00:00"
         }
       ],
       "last_plan": {
@@ -198558,5 +198564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T07:20:45.927859+00:00"
+  "updated_at": "2026-11-12T07:20:50.224957+00:00"
 }
