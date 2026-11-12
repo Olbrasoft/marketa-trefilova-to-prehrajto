@@ -133824,13 +133824,6 @@
           "source_id": "25777021",
           "target_video_id": "30987424",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:35:06.554037+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25777021",
-          "target_video_id": "30987424",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:49:33.967505+00:00"
         },
         {
@@ -133839,6 +133832,13 @@
           "target_video_id": "30987424",
           "permanent": false,
           "attempted_at": "2026-11-12T02:30:48.360221+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25777021",
+          "target_video_id": "30987424",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:41:02.391972+00:00"
         }
       ],
       "last_plan": {
@@ -133852,12 +133852,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T04:37:43.304180+00:00",
         "relay_source_id": "25777021"
-      },
-      "claim": {
-        "worker_id": "a0b7627d059a462db7e7df79b0021d7d-shard-0",
-        "claimed_at": "2026-11-12T03:40:59.478702+00:00",
-        "lease_expires_at": "2026-11-12T09:40:59.478702+00:00",
-        "run_id": "43133989396"
       }
     },
     "16650": {
@@ -138794,7 +138788,7 @@
       "last_plan": {
         "source_id": "30626219",
         "display_name": "The Comedian's Princess (Komediantská princezna) SD CZ Dabing",
-        "planned_at": "2026-11-12T02:30:48.531434+00:00"
+        "planned_at": "2026-11-12T03:41:01.720282+00:00"
       },
       "previous_target_id": "30987942",
       "prepared": {
@@ -138802,6 +138796,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T06:54:53.590347+00:00",
         "relay_source_id": "30626219"
+      },
+      "claim": {
+        "worker_id": "fc9a6eba766f4e9e8fc127dd0a6d690e-shard-0",
+        "claimed_at": "2026-11-12T03:41:02.221312+00:00",
+        "lease_expires_at": "2026-11-12T09:41:02.221312+00:00",
+        "run_id": "43133989396"
       }
     },
     "35483": {
@@ -146681,7 +146681,7 @@
       "last_plan": {
         "source_id": "29431268",
         "display_name": "Deda (Děda) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:40:59.161893+00:00"
+        "planned_at": "2026-11-12T03:41:01.939950+00:00"
       }
     },
     "12543": {
@@ -198248,5 +198248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:41:00.247669+00:00"
+  "updated_at": "2026-11-12T03:41:02.391993+00:00"
 }
