@@ -146767,17 +146767,19 @@
       "attempts": []
     },
     "4666": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34866162",
+          "target_video_id": "30998292",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:36:45.460508+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34866162",
         "display_name": "Talks with TGM (Hovory s TGM) 1080p CZ Dabing",
         "planned_at": "2026-11-12T04:17:12.246567+00:00"
-      },
-      "claim": {
-        "worker_id": "4da70d6342c94bf2b45463fda70bbab2-shard-0",
-        "claimed_at": "2026-11-12T04:17:12.779814+00:00",
-        "lease_expires_at": "2026-11-12T10:17:12.779814+00:00",
-        "run_id": "43133989396"
       },
       "previous_target_id": "30998292",
       "prepared": {
@@ -198338,5 +198340,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:36:43.447786+00:00"
+  "updated_at": "2026-11-12T04:36:45.460529+00:00"
 }
