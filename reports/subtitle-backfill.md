@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T16:47:53.747803+00:00
+Poslední aktualizace (UTC): 2026-11-12T16:47:55.925867+00:00
 
 Zkontrolováno videí: 665. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 90, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 91, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -129,6 +129,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 101. Důvo
 | [Responsible Child 1080p CZ Titulky](https://prehraj.to/responsible-child-1080p-cz-titulky-mkv/c129d501c494c306) (ID 30995865) | [Sdílej 18700045](https://sdilej.cz/18700045/responsible.child.2019.1080p.webrip.titulky-cz.mkv) | target_unavailable | 2026-11-12T00:18:47.978736+00:00 |
 | [Return of the Idiot (Návrat idiota) 1080p CZ Titulky](https://prehraj.to/return-of-the-idiot-navrat-idiota-1080p-cz-titulky-mkv/5d66cde734ee8ceb) (ID 30997077) | [Sdílej 32263750](https://sdilej.cz/32263750/navrat-idiota-1999-fhd-cz.mkv) | target_unavailable | 2026-11-12T02:32:15.886113+00:00 |
 | [Rise 720p CZ Titulky](https://prehraj.to/rise-720p-cz-titulky-mkv/50432ebabf1a4191) (ID 30989991) | [Sdílej 25891436](https://sdilej.cz/25891436/rise-svetla-empire-of-light-cz-titulky-2022.mkv) | target_unavailable | 2026-11-11T12:48:05.962907+00:00 |
+| [Rocky III 1080p CZ Titulky](https://prehraj.to/rocky-iii-1080p-cz-titulky-mkv/6b7d02dad040975e) (ID 31004255) | [Sdílej 33588201](https://sdilej.cz/33588201/rocky-iii.-cz.sk.en.1080p.hmax.web-dl..mkv) | target_unavailable | 2026-11-12T16:47:55.740633+00:00 |
 | [Ronnie Coleman: The King 1080p CZ Titulky](https://prehraj.to/ronnie-coleman-the-king-1080p-cz-titulky-mkv/cbfa63a4ec1d43fc) (ID 30996831) | [Sdílej 11475864](https://sdilej.cz/11475864/ronnie-coleman-the-king-2018-cz-titulky-1080p-web-x264.mkv) | target_unavailable | 2026-11-12T02:02:18.507156+00:00 |
 | [Rose Island (L'incredibile storia dell'Isola delle Rose) 1080p CZ Titulky](https://prehraj.to/rose-island-l-incredibile-storia-dell-isola-delle-rose-1080p-cz-titulky-mkv/1a02e2a380215670) (ID 30985967) | [Sdílej 14916136](https://sdilej.cz/14916136/rose.island.2020.1080p.nf.web-dl.dd5.1.x264.en.ita.cz.tit.mkv) | target_unavailable | 2026-11-10T22:51:54.138806+00:00 |
 | [Rosemary's Baby 4K CZ Titulky](https://prehraj.to/rosemary-s-baby-4k-cz-titulky-mkv/67d2334180307cd7) (ID 30629227) | [Sdílej 32726297](https://sdilej.cz/32726297/rosemary-s.baby-1968-2160p-cz-en.mkv) | target_unavailable | 2026-11-10T09:40:19.689760+00:00 |
