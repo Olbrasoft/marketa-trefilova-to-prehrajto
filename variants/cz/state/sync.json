@@ -37469,13 +37469,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:32:26.908974+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:49:10.224155+00:00"
         },
         {
@@ -37484,6 +37477,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-12T13:09:49.245782+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:34:39.501124+00:00"
         }
       ],
       "last_plan": {
@@ -77151,7 +77151,7 @@
       "last_plan": {
         "source_id": "31217529",
         "display_name": "Stargate 4K CZ Dabing",
-        "planned_at": "2026-11-12T14:34:34.544714+00:00"
+        "planned_at": "2026-11-12T14:34:37.877511+00:00"
       }
     },
     "2452": {
@@ -126162,7 +126162,7 @@
       "last_plan": {
         "source_id": "12859228",
         "display_name": "Man in the Wilderness 1080p CZ Dabing",
-        "planned_at": "2026-11-12T13:09:47.791588+00:00"
+        "planned_at": "2026-11-12T14:34:37.548179+00:00"
       },
       "previous_target_id": "30986203",
       "prepared": {
@@ -126170,6 +126170,12 @@
         "size_bytes": 8900000000,
         "prepared_at": "2026-11-10T23:35:03.735891+00:00",
         "relay_source_id": "12859228"
+      },
+      "claim": {
+        "worker_id": "aa4511f27f7e40d3b45eca1b56c3bd7c-shard-0",
+        "claimed_at": "2026-11-12T14:34:38.522836+00:00",
+        "lease_expires_at": "2026-11-12T20:34:38.522836+00:00",
+        "run_id": "43208551669"
       }
     },
     "17403": {
@@ -198765,5 +198771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:34:34.544730+00:00"
+  "updated_at": "2026-11-12T14:34:39.501141+00:00"
 }
