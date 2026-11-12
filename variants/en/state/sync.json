@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-12T12:59:17.348825+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-12T13:29:25.605106+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-12T14:01:01.227891+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:31:31.570293+00:00"
         }
       ],
       "last_plan": {
@@ -259,12 +259,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "4af5c0bae3454a6f9b7b344f4789fa76-shard-0",
-        "claimed_at": "2026-11-12T14:31:27.163808+00:00",
-        "lease_expires_at": "2026-11-12T20:31:27.163808+00:00",
-        "run_id": "43208551669"
       }
     },
     "24": {
@@ -11503,7 +11497,7 @@
       "last_plan": {
         "source_id": "26167173",
         "display_name": "John Wick: Chapter 4 1440p CZ Titulky",
-        "planned_at": "2026-11-12T14:01:04.671663+00:00"
+        "planned_at": "2026-11-12T14:31:30.994724+00:00"
       },
       "previous_target_id": "30682158",
       "prepared": {
@@ -11511,6 +11505,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "cd8f3e992a6f48bb866124f6aa1e0b92-shard-0",
+        "claimed_at": "2026-11-12T14:31:31.306860+00:00",
+        "lease_expires_at": "2026-11-12T20:31:31.306860+00:00",
+        "run_id": "43208551669"
       }
     },
     "834": {
@@ -14211,6 +14211,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-02T03:41:03.364348+00:00",
         "relay_source_id": "19346570"
+      },
+      "claim": {
+        "worker_id": "889feca6ac014220996dc2e75f281dcb-shard-0",
+        "claimed_at": "2026-11-12T14:31:30.152668+00:00",
+        "lease_expires_at": "2026-11-12T20:31:30.152668+00:00",
+        "run_id": "43208551669"
       }
     },
     "880": {
@@ -37638,7 +37644,7 @@
       "last_plan": {
         "source_id": "30783542",
         "display_name": "Clueless 1080p CZ Titulky",
-        "planned_at": "2026-11-12T14:31:28.158778+00:00"
+        "planned_at": "2026-11-12T14:31:31.206482+00:00"
       }
     },
     "2740": {
@@ -97783,5 +97789,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:31:28.158796+00:00"
+  "updated_at": "2026-11-12T14:31:31.570318+00:00"
 }
