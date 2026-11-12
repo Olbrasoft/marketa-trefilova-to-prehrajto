@@ -33734,13 +33734,6 @@
           "source_id": "30986611",
           "target_video_id": "30983315",
           "permanent": false,
-          "attempted_at": "2026-11-12T18:31:07.607564+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30986611",
-          "target_video_id": "30983315",
-          "permanent": false,
           "attempted_at": "2026-11-12T19:01:13.728377+00:00"
         },
         {
@@ -33749,6 +33742,13 @@
           "target_video_id": "30983315",
           "permanent": false,
           "attempted_at": "2026-11-12T19:31:18.708987+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30986611",
+          "target_video_id": "30983315",
+          "permanent": false,
+          "attempted_at": "2026-11-12T20:42:51.074374+00:00"
         }
       ],
       "last_plan": {
@@ -34136,7 +34136,7 @@
       "last_plan": {
         "source_id": "7004752",
         "display_name": "I Am Bolt SD CZ Titulky",
-        "planned_at": "2026-11-12T19:31:18.839637+00:00"
+        "planned_at": "2026-11-12T20:42:49.681148+00:00"
       },
       "previous_target_id": "30984744",
       "prepared": {
@@ -34144,6 +34144,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T17:31:13.062687+00:00",
         "relay_source_id": "7004752"
+      },
+      "claim": {
+        "worker_id": "db7c40b4c397429fa407f3223299615b-shard-0",
+        "claimed_at": "2026-11-12T20:42:50.148454+00:00",
+        "lease_expires_at": "2026-11-13T02:42:50.148454+00:00",
+        "run_id": "43299526401"
       }
     },
     "35178": {
@@ -37898,7 +37904,7 @@
       "last_plan": {
         "source_id": "6122354",
         "display_name": "Green Room 1080p CZ Titulky",
-        "planned_at": "2026-11-12T20:42:47.285925+00:00"
+        "planned_at": "2026-11-12T20:42:50.063102+00:00"
       }
     },
     "26597": {
@@ -97968,5 +97974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T20:42:47.285944+00:00"
+  "updated_at": "2026-11-12T20:42:51.074392+00:00"
 }
