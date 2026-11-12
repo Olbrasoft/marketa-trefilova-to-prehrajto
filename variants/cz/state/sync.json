@@ -111840,13 +111840,6 @@
           "source_id": "33855360",
           "target_video_id": "30983838",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:20:37.434736+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855360",
-          "target_video_id": "30983838",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:54:21.646116+00:00"
         },
         {
@@ -111855,6 +111848,13 @@
           "target_video_id": "30983838",
           "permanent": false,
           "attempted_at": "2026-11-12T10:21:54.124142+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855360",
+          "target_video_id": "30983838",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:40:04.641151+00:00"
         }
       ],
       "last_plan": {
@@ -111868,12 +111868,6 @@
         "size_bytes": 8900000000,
         "prepared_at": "2026-11-10T14:56:59.066784+00:00",
         "relay_source_id": "33855360"
-      },
-      "claim": {
-        "worker_id": "8459655c68aa43b89d2886dec8af021d-shard-0",
-        "claimed_at": "2026-11-12T12:39:59.879825+00:00",
-        "lease_expires_at": "2026-11-12T18:39:59.879825+00:00",
-        "run_id": "43208551669"
       }
     },
     "32996": {
@@ -113923,7 +113917,7 @@
       "last_plan": {
         "source_id": "31982080",
         "display_name": "Extraction (2020) 4K CZ Dabing",
-        "planned_at": "2026-11-12T10:21:52.261980+00:00"
+        "planned_at": "2026-11-12T12:40:03.151157+00:00"
       },
       "previous_target_id": "30984113",
       "prepared": {
@@ -113931,6 +113925,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:29:05.818325+00:00",
         "relay_source_id": "31982080"
+      },
+      "claim": {
+        "worker_id": "502de8d4b8c343f9a6328223053aafcd-shard-0",
+        "claimed_at": "2026-11-12T12:40:03.932366+00:00",
+        "lease_expires_at": "2026-11-12T18:40:03.932366+00:00",
+        "run_id": "43208551669"
       }
     },
     "2796": {
@@ -140884,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:39:59.388284+00:00"
+        "planned_at": "2026-11-12T12:40:03.486677+00:00"
       }
     },
     "33433": {
@@ -198700,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:40:00.554481+00:00"
+  "updated_at": "2026-11-12T12:40:04.641169+00:00"
 }
