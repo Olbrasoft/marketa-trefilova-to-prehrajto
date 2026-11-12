@@ -28969,13 +28969,6 @@
           "source_id": "26168393",
           "target_video_id": "30721201",
           "permanent": false,
-          "attempted_at": "2026-11-12T11:43:06.873316+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168393",
-          "target_video_id": "30721201",
-          "permanent": false,
           "attempted_at": "2026-11-12T13:03:42.506406+00:00"
         },
         {
@@ -28984,6 +28977,13 @@
           "target_video_id": "30721201",
           "permanent": false,
           "attempted_at": "2026-11-12T14:25:29.040078+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168393",
+          "target_video_id": "30721201",
+          "permanent": false,
+          "attempted_at": "2026-11-12T16:22:38.775200+00:00"
         }
       ],
       "last_plan": {
@@ -104885,7 +104885,7 @@
       "last_plan": {
         "source_id": "35108649",
         "display_name": "End of a Priest (Farářův konec) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T16:22:34.837497+00:00"
+        "planned_at": "2026-11-12T16:22:37.696937+00:00"
       }
     },
     "21705": {
@@ -119388,7 +119388,7 @@
       "last_plan": {
         "source_id": "33745553",
         "display_name": "Romper Stomper 1080p CZ Dabing",
-        "planned_at": "2026-11-12T14:25:27.413784+00:00"
+        "planned_at": "2026-11-12T16:22:37.382361+00:00"
       },
       "previous_target_id": "30984953",
       "prepared": {
@@ -119396,6 +119396,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T18:17:32.822519+00:00",
         "relay_source_id": "33745553"
+      },
+      "claim": {
+        "worker_id": "5fcead111d8c49b6985c51b816f40d9f-shard-0",
+        "claimed_at": "2026-11-12T16:22:38.174545+00:00",
+        "lease_expires_at": "2026-11-12T22:22:38.174545+00:00",
+        "run_id": "43247223099"
       }
     },
     "2987": {
@@ -198793,5 +198799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T16:22:34.837517+00:00"
+  "updated_at": "2026-11-12T16:22:38.775221+00:00"
 }
