@@ -77151,7 +77151,7 @@
       "last_plan": {
         "source_id": "31217529",
         "display_name": "Stargate 4K CZ Dabing",
-        "planned_at": "2026-11-12T14:51:57.880427+00:00"
+        "planned_at": "2026-11-12T14:52:01.170977+00:00"
       }
     },
     "2452": {
@@ -108539,7 +108539,7 @@
       "last_plan": {
         "source_id": "33992687",
         "display_name": "Night Riders SD CZ Dabing",
-        "planned_at": "2026-11-12T13:28:22.800444+00:00"
+        "planned_at": "2026-11-12T14:52:00.827619+00:00"
       },
       "previous_target_id": "30983585",
       "prepared": {
@@ -108547,6 +108547,12 @@
         "size_bytes": 838700000,
         "prepared_at": "2026-11-10T14:18:41.862697+00:00",
         "relay_source_id": "33992687"
+      },
+      "claim": {
+        "worker_id": "a8d2a90af187451c83b275484467e8a2-shard-0",
+        "claimed_at": "2026-11-12T14:52:01.797754+00:00",
+        "lease_expires_at": "2026-11-12T20:52:01.797754+00:00",
+        "run_id": "43208551669"
       }
     },
     "12694": {
@@ -111029,13 +111035,6 @@
           "source_id": "30114972",
           "target_video_id": "30983792",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:55:32.171305+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30114972",
-          "target_video_id": "30983792",
-          "permanent": false,
           "attempted_at": "2026-11-12T12:11:21.336385+00:00"
         },
         {
@@ -111044,6 +111043,13 @@
           "target_video_id": "30983792",
           "permanent": false,
           "attempted_at": "2026-11-12T13:27:35.824414+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30114972",
+          "target_video_id": "30983792",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:52:02.187452+00:00"
         }
       ],
       "last_plan": {
@@ -198765,5 +198771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:51:58.187727+00:00"
+  "updated_at": "2026-11-12T14:52:02.187469+00:00"
 }
