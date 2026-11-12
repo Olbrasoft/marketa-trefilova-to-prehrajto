@@ -34547,13 +34547,6 @@
           "source_id": "6556256",
           "target_video_id": "30986677",
           "permanent": false,
-          "attempted_at": "2026-11-12T10:08:07.950363+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6556256",
-          "target_video_id": "30986677",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:29:28.400094+00:00"
         },
         {
@@ -34562,6 +34555,13 @@
           "target_video_id": "30986677",
           "permanent": false,
           "attempted_at": "2026-11-12T11:59:36.022024+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6556256",
+          "target_video_id": "30986677",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:29:43.585100+00:00"
         }
       ],
       "last_plan": {
@@ -35283,7 +35283,7 @@
       "last_plan": {
         "source_id": "17633756",
         "display_name": "Legacy, notre héritage (Legacy) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T11:59:34.838019+00:00"
+        "planned_at": "2026-11-12T12:29:42.649358+00:00"
       },
       "previous_target_id": "30988551",
       "prepared": {
@@ -35291,6 +35291,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T08:41:44.555925+00:00",
         "relay_source_id": "17633756"
+      },
+      "claim": {
+        "worker_id": "d8b35b2126724b9cb96deff7fbe3c75a-shard-0",
+        "claimed_at": "2026-11-12T12:29:43.049015+00:00",
+        "lease_expires_at": "2026-11-12T18:29:43.049015+00:00",
+        "run_id": "43208551669"
       }
     },
     "21412": {
@@ -37557,7 +37563,7 @@
       "last_plan": {
         "source_id": "35003134",
         "display_name": "Paul 1080p CZ Titulky",
-        "planned_at": "2026-11-12T12:29:39.859961+00:00"
+        "planned_at": "2026-11-12T12:29:42.863667+00:00"
       }
     },
     "2652": {
@@ -97708,5 +97714,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:29:39.859978+00:00"
+  "updated_at": "2026-11-12T12:29:43.585118+00:00"
 }
