@@ -16540,13 +16540,6 @@
           "source_id": "33537783",
           "target_video_id": "30747251",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:07:16.902506+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33537783",
-          "target_video_id": "30747251",
-          "permanent": false,
           "attempted_at": "2026-11-12T09:37:24.648410+00:00"
         },
         {
@@ -16555,6 +16548,13 @@
           "target_video_id": "30747251",
           "permanent": false,
           "attempted_at": "2026-11-12T10:07:30.916904+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33537783",
+          "target_video_id": "30747251",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:29:11.010165+00:00"
         }
       ],
       "last_plan": {
@@ -33797,7 +33797,7 @@
       "last_plan": {
         "source_id": "6563156",
         "display_name": "The Seven Year Itch 1080p CZ Titulky",
-        "planned_at": "2026-11-12T10:07:45.521384+00:00"
+        "planned_at": "2026-11-12T11:29:10.003384+00:00"
       },
       "previous_target_id": "30983632",
       "prepared": {
@@ -33805,6 +33805,12 @@
         "size_bytes": 15000000000,
         "prepared_at": "2026-11-10T14:25:35.887136+00:00",
         "relay_source_id": "6563156"
+      },
+      "claim": {
+        "worker_id": "529739bb7bbd47218a70ae1c369777e2-shard-0",
+        "claimed_at": "2026-11-12T11:29:10.323386+00:00",
+        "lease_expires_at": "2026-11-12T17:29:10.323386+00:00",
+        "run_id": "43208551669"
       }
     },
     "23615": {
@@ -37509,7 +37515,7 @@
       "last_plan": {
         "source_id": "19665397",
         "display_name": "Ice Age: Dawn of the Dinosaurs 1080p CZ Titulky",
-        "planned_at": "2026-11-12T11:29:07.345822+00:00"
+        "planned_at": "2026-11-12T11:29:10.216809+00:00"
       }
     },
     "2707": {
@@ -97668,5 +97674,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:29:07.345839+00:00"
+  "updated_at": "2026-11-12T11:29:11.010181+00:00"
 }
