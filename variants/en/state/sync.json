@@ -34241,6 +34241,12 @@
         "size_bytes": 12000000000,
         "prepared_at": "2026-11-10T18:56:12.469128+00:00",
         "relay_source_id": "11416033"
+      },
+      "claim": {
+        "worker_id": "e36dba749cc849068285c7dbf049be8c-shard-0",
+        "claimed_at": "2026-11-12T18:59:26.178549+00:00",
+        "lease_expires_at": "2026-11-13T00:59:26.178549+00:00",
+        "run_id": "43247223099"
       }
     },
     "24620": {
@@ -34950,7 +34956,7 @@
       "last_plan": {
         "source_id": "12196905",
         "display_name": "Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T18:29:20.008289+00:00"
+        "planned_at": "2026-11-12T18:59:26.943362+00:00"
       },
       "previous_target_id": "30987870",
       "prepared": {
@@ -35156,13 +35162,6 @@
           "source_id": "9657833",
           "target_video_id": "30988255",
           "permanent": false,
-          "attempted_at": "2026-11-12T17:29:00.983032+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9657833",
-          "target_video_id": "30988255",
-          "permanent": false,
           "attempted_at": "2026-11-12T17:59:05.949993+00:00"
         },
         {
@@ -35171,6 +35170,13 @@
           "target_video_id": "30988255",
           "permanent": false,
           "attempted_at": "2026-11-12T18:29:12.443539+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9657833",
+          "target_video_id": "30988255",
+          "permanent": false,
+          "attempted_at": "2026-11-12T18:59:26.065452+00:00"
         }
       ],
       "last_plan": {
@@ -35184,12 +35190,6 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:59:47.278610+00:00",
         "relay_source_id": "9657833"
-      },
-      "claim": {
-        "worker_id": "c03878db6115492798c8d08a4f9ca405-shard-0",
-        "claimed_at": "2026-11-12T18:59:22.901520+00:00",
-        "lease_expires_at": "2026-11-13T00:59:22.901520+00:00",
-        "run_id": "43247223099"
       }
     },
     "25179": {
@@ -37820,7 +37820,7 @@
       "last_plan": {
         "source_id": "27822278",
         "display_name": "Wonka 4K CZ Titulky",
-        "planned_at": "2026-11-12T18:59:24.028079+00:00"
+        "planned_at": "2026-11-12T18:59:27.131254+00:00"
       }
     },
     "12916": {
@@ -97918,5 +97918,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T18:59:24.028098+00:00"
+  "updated_at": "2026-11-12T18:59:27.131274+00:00"
 }
