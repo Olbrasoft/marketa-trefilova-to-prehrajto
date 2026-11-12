@@ -129205,13 +129205,6 @@
           "source_id": "30726013",
           "target_video_id": "30986834",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:23:32.999182+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30726013",
-          "target_video_id": "30986834",
-          "permanent": false,
           "attempted_at": "2026-11-11T23:38:35.734479+00:00"
         },
         {
@@ -129220,6 +129213,13 @@
           "target_video_id": "30986834",
           "permanent": false,
           "attempted_at": "2026-11-12T00:52:43.700508+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30726013",
+          "target_video_id": "30986834",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:35:46.019709+00:00"
         }
       ],
       "last_plan": {
@@ -129233,12 +129233,6 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T02:17:39.609117+00:00",
         "relay_source_id": "30726013"
-      },
-      "claim": {
-        "worker_id": "c56089eed3be466dba5c1a9e7aed05c0-shard-0",
-        "claimed_at": "2026-11-12T02:35:43.594802+00:00",
-        "lease_expires_at": "2026-11-12T08:35:43.594802+00:00",
-        "run_id": "43133989396"
       }
     },
     "18985": {
@@ -138936,7 +138930,7 @@
       "last_plan": {
         "source_id": "29004135",
         "display_name": "Murder on Devil’s Bridge (Le pont du diable) SD CZ Dabing",
-        "planned_at": "2026-11-12T00:52:41.890408+00:00"
+        "planned_at": "2026-11-12T02:35:45.324392+00:00"
       },
       "previous_target_id": "30987946",
       "prepared": {
@@ -138944,6 +138938,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-11T06:58:10.871717+00:00",
         "relay_source_id": "29004135"
+      },
+      "claim": {
+        "worker_id": "3a23cfa5397b4dc493a2654e10e02596-shard-0",
+        "claimed_at": "2026-11-12T02:35:45.855415+00:00",
+        "lease_expires_at": "2026-11-12T08:35:45.855415+00:00",
+        "run_id": "43133989396"
       }
     },
     "14069": {
@@ -146561,7 +146561,7 @@
       "last_plan": {
         "source_id": "26130589",
         "display_name": "Elephant (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:35:43.300330+00:00"
+        "planned_at": "2026-11-12T02:35:45.549465+00:00"
       }
     },
     "15203": {
@@ -198148,5 +198148,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:35:43.804580+00:00"
+  "updated_at": "2026-11-12T02:35:46.019733+00:00"
 }
