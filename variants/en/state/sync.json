@@ -37538,17 +37538,19 @@
       "attempts": []
     },
     "2748": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19665397",
+          "target_video_id": "31001947",
+          "permanent": false,
+          "attempted_at": "2026-11-12T13:02:09.370415+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19665397",
         "display_name": "Ice Age: Dawn of the Dinosaurs 1080p CZ Titulky",
         "planned_at": "2026-11-12T12:03:08.361288+00:00"
-      },
-      "claim": {
-        "worker_id": "c0aba643a46b4a5296d03114d2301611-shard-0",
-        "claimed_at": "2026-11-12T12:03:08.777984+00:00",
-        "lease_expires_at": "2026-11-12T18:03:08.777984+00:00",
-        "run_id": "43208551669"
       },
       "previous_target_id": "31001947",
       "prepared": {
@@ -37563,7 +37565,7 @@
       "last_plan": {
         "source_id": "35003134",
         "display_name": "Paul 1080p CZ Titulky",
-        "planned_at": "2026-11-12T13:01:55.776490+00:00"
+        "planned_at": "2026-11-12T13:02:07.572169+00:00"
       }
     },
     "2652": {
@@ -97714,5 +97716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T13:01:55.776506+00:00"
+  "updated_at": "2026-11-12T13:02:09.370432+00:00"
 }
