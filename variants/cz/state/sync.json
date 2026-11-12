@@ -29721,13 +29721,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:37:15.407741+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:00:00.820774+00:00"
         },
         {
@@ -29736,6 +29729,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-12T09:40:30.584443+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:52:05.167763+00:00"
         }
       ],
       "last_plan": {
@@ -123181,7 +123181,7 @@
       "last_plan": {
         "source_id": "24836709",
         "display_name": "Harper SD CZ Dabing",
-        "planned_at": "2026-11-12T09:40:34.004162+00:00"
+        "planned_at": "2026-11-12T11:52:03.668902+00:00"
       },
       "previous_target_id": "30985572",
       "prepared": {
@@ -123189,6 +123189,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T20:28:40.493950+00:00",
         "relay_source_id": "24836709"
+      },
+      "claim": {
+        "worker_id": "8c2b5e1ef85a463887fb346121be79a1-shard-0",
+        "claimed_at": "2026-11-12T11:52:04.503034+00:00",
+        "lease_expires_at": "2026-11-12T17:52:04.503034+00:00",
+        "run_id": "43208551669"
       }
     },
     "32552": {
@@ -140876,7 +140882,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:52:01.116037+00:00"
+        "planned_at": "2026-11-12T11:52:04.003024+00:00"
       }
     },
     "33433": {
@@ -198692,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:52:01.116056+00:00"
+  "updated_at": "2026-11-12T11:52:05.167790+00:00"
 }
