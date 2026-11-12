@@ -106870,13 +106870,6 @@
           "source_id": "34709346",
           "target_video_id": "30983103",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:05:56.539804+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34709346",
-          "target_video_id": "30983103",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:16:51.774090+00:00"
         },
         {
@@ -106885,6 +106878,13 @@
           "target_video_id": "30983103",
           "permanent": false,
           "attempted_at": "2026-11-11T22:52:10.315333+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34709346",
+          "target_video_id": "30983103",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:05:40.985953+00:00"
         }
       ],
       "last_plan": {
@@ -124555,7 +124555,7 @@
       "last_plan": {
         "source_id": "26655410",
         "display_name": "Tom of Finland 1080p CZ Dabing",
-        "planned_at": "2026-11-11T22:52:09.730780+00:00"
+        "planned_at": "2026-11-12T00:05:39.502747+00:00"
       },
       "previous_target_id": "30985777",
       "prepared": {
@@ -124563,6 +124563,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T21:49:35.654076+00:00",
         "relay_source_id": "26655410"
+      },
+      "claim": {
+        "worker_id": "531530e8318c476aba4fef9504469c3f-shard-0",
+        "claimed_at": "2026-11-12T00:05:40.348735+00:00",
+        "lease_expires_at": "2026-11-12T06:05:40.348735+00:00",
+        "run_id": "43102571398"
       }
     },
     "22493": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:05:36.782297+00:00"
+        "planned_at": "2026-11-12T00:05:39.847606+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:05:37.044515+00:00"
+  "updated_at": "2026-11-12T00:05:40.985974+00:00"
 }
