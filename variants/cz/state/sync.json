@@ -106337,13 +106337,6 @@
           "source_id": "34882942",
           "target_video_id": "30979783",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:00:02.768624+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34882942",
-          "target_video_id": "30979783",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:27:33.187123+00:00"
         },
         {
@@ -106352,6 +106345,13 @@
           "target_video_id": "30979783",
           "permanent": false,
           "attempted_at": "2026-11-12T10:03:23.158867+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34882942",
+          "target_video_id": "30979783",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:19:48.025130+00:00"
         }
       ],
       "last_plan": {
@@ -125347,7 +125347,7 @@
       "last_plan": {
         "source_id": "34185758",
         "display_name": "I Like Movies 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:03:22.489096+00:00"
+        "planned_at": "2026-11-12T12:19:46.146477+00:00"
       },
       "previous_target_id": "30985889",
       "prepared": {
@@ -125355,6 +125355,12 @@
         "size_bytes": 6400000000,
         "prepared_at": "2026-11-10T22:27:01.361256+00:00",
         "relay_source_id": "34185758"
+      },
+      "claim": {
+        "worker_id": "09d47d2a9ab346de956d4037fd281e77-shard-0",
+        "claimed_at": "2026-11-12T12:19:46.969520+00:00",
+        "lease_expires_at": "2026-11-12T18:19:46.969520+00:00",
+        "run_id": "43208551669"
       }
     },
     "28226": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:19:43.660995+00:00"
+        "planned_at": "2026-11-12T12:19:46.480049+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:19:43.661009+00:00"
+  "updated_at": "2026-11-12T12:19:48.025148+00:00"
 }
