@@ -131255,13 +131255,6 @@
           "source_id": "24028358",
           "target_video_id": "30987024",
           "permanent": false,
-          "attempted_at": "2026-11-12T02:27:40.172324+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24028358",
-          "target_video_id": "30987024",
-          "permanent": false,
           "attempted_at": "2026-11-12T03:38:12.007875+00:00"
         },
         {
@@ -131270,6 +131263,13 @@
           "target_video_id": "30987024",
           "permanent": false,
           "attempted_at": "2026-11-12T04:46:25.358470+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24028358",
+          "target_video_id": "30987024",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:00:00.407153+00:00"
         }
       ],
       "last_plan": {
@@ -131283,12 +131283,6 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-11T03:22:23.552899+00:00",
         "relay_source_id": "24028358"
-      },
-      "claim": {
-        "worker_id": "3b7a7a14419f458cadc842810280420d-shard-0",
-        "claimed_at": "2026-11-12T05:59:58.072063+00:00",
-        "lease_expires_at": "2026-11-12T11:59:58.072063+00:00",
-        "run_id": "43133989396"
       }
     },
     "32082": {
@@ -140648,7 +140642,7 @@
       "last_plan": {
         "source_id": "34710797",
         "display_name": "Pohádka o splněných přáních 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:46:26.770081+00:00"
+        "planned_at": "2026-11-12T05:59:59.825010+00:00"
       },
       "previous_target_id": "30988191",
       "prepared": {
@@ -140656,6 +140650,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T07:48:42.910555+00:00",
         "relay_source_id": "34710797"
+      },
+      "claim": {
+        "worker_id": "d985bf31398b49b183661c4e5085a123-shard-0",
+        "claimed_at": "2026-11-12T06:00:00.248228+00:00",
+        "lease_expires_at": "2026-11-12T12:00:00.248228+00:00",
+        "run_id": "43133989396"
       }
     },
     "15778": {
@@ -146967,7 +146967,7 @@
       "last_plan": {
         "source_id": "29231328",
         "display_name": "Murder on Aix Island (Les Mystères de l'île) SD CZ Dabing",
-        "planned_at": "2026-11-12T05:59:57.846561+00:00"
+        "planned_at": "2026-11-12T06:00:00.022592+00:00"
       }
     },
     "16864": {
@@ -198485,5 +198485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T05:59:58.233506+00:00"
+  "updated_at": "2026-11-12T06:00:00.407170+00:00"
 }
