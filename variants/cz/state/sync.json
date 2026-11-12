@@ -20013,13 +20013,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:37:51.917279+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:00:44.994477+00:00"
         },
         {
@@ -20028,6 +20021,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-12T09:41:26.621557+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:52:50.007088+00:00"
         }
       ],
       "last_plan": {
@@ -112693,7 +112693,7 @@
       "last_plan": {
         "source_id": "33495930",
         "display_name": "Tanecnice (Tanečnice) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T09:41:29.851054+00:00"
+        "planned_at": "2026-11-12T11:52:48.497698+00:00"
       },
       "previous_target_id": "30983976",
       "prepared": {
@@ -112701,6 +112701,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T15:09:20.357315+00:00",
         "relay_source_id": "33495930"
+      },
+      "claim": {
+        "worker_id": "da276284b1f9453ca797ca75df045016-shard-0",
+        "claimed_at": "2026-11-12T11:52:49.340809+00:00",
+        "lease_expires_at": "2026-11-12T17:52:49.340809+00:00",
+        "run_id": "43208551669"
       }
     },
     "12718": {
@@ -140876,7 +140882,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:52:45.533871+00:00"
+        "planned_at": "2026-11-12T11:52:48.841138+00:00"
       }
     },
     "33433": {
@@ -198692,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:52:45.806662+00:00"
+  "updated_at": "2026-11-12T11:52:50.007102+00:00"
 }
