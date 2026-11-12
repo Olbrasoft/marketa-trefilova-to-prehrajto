@@ -125453,13 +125453,6 @@
           "source_id": "33203545",
           "target_video_id": "30985900",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:10:15.180635+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33203545",
-          "target_video_id": "30985900",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:37:57.752511+00:00"
         },
         {
@@ -125468,6 +125461,13 @@
           "target_video_id": "30985900",
           "permanent": false,
           "attempted_at": "2026-11-12T10:11:22.261040+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33203545",
+          "target_video_id": "30985900",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:25:13.455553+00:00"
         }
       ],
       "last_plan": {
@@ -130961,7 +130961,7 @@
       "last_plan": {
         "source_id": "26779825",
         "display_name": "Cekání na dést (Waiting for the Rain) SD CZ Dabing",
-        "planned_at": "2026-11-12T10:11:20.322372+00:00"
+        "planned_at": "2026-11-12T12:25:12.109094+00:00"
       },
       "previous_target_id": "30986978",
       "prepared": {
@@ -130969,6 +130969,12 @@
         "size_bytes": 767500000,
         "prepared_at": "2026-11-11T03:05:41.700464+00:00",
         "relay_source_id": "26779825"
+      },
+      "claim": {
+        "worker_id": "c18fd5ec22604e64be8368f335e71a84-shard-0",
+        "claimed_at": "2026-11-12T12:25:13.048278+00:00",
+        "lease_expires_at": "2026-11-12T18:25:13.048278+00:00",
+        "run_id": "43208551669"
       }
     },
     "24134": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:25:09.563834+00:00"
+        "planned_at": "2026-11-12T12:25:12.453628+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:25:09.563855+00:00"
+  "updated_at": "2026-11-12T12:25:13.455570+00:00"
 }
