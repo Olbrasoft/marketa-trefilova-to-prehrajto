@@ -138041,13 +138041,6 @@
           "source_id": "32147344",
           "target_video_id": "30987885",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:17:27.232007+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32147344",
-          "target_video_id": "30987885",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:46:51.270482+00:00"
         },
         {
@@ -138056,6 +138049,13 @@
           "target_video_id": "30987885",
           "permanent": false,
           "attempted_at": "2026-11-11T23:06:10.329730+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32147344",
+          "target_video_id": "30987885",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:21:03.592666+00:00"
         }
       ],
       "last_plan": {
@@ -139797,7 +139797,7 @@
       "last_plan": {
         "source_id": "26422141",
         "display_name": "The Avalanche SD CZ Dabing",
-        "planned_at": "2026-11-11T23:06:11.960686+00:00"
+        "planned_at": "2026-11-12T00:21:02.059122+00:00"
       },
       "previous_target_id": "30988086",
       "prepared": {
@@ -139805,6 +139805,12 @@
         "size_bytes": 766400000,
         "prepared_at": "2026-11-11T07:28:32.011926+00:00",
         "relay_source_id": "26422141"
+      },
+      "claim": {
+        "worker_id": "fb126c1a612c497c82fa80ac15b198a7-shard-0",
+        "claimed_at": "2026-11-12T00:21:02.914142+00:00",
+        "lease_expires_at": "2026-11-12T06:21:02.914142+00:00",
+        "run_id": "43102571398"
       }
     },
     "12456": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:20:59.536297+00:00"
+        "planned_at": "2026-11-12T00:21:02.392028+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:20:59.950863+00:00"
+  "updated_at": "2026-11-12T00:21:03.592685+00:00"
 }
