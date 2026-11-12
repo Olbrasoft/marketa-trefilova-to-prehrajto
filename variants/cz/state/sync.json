@@ -115103,13 +115103,6 @@
           "source_id": "32115488",
           "target_video_id": "30984591",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:54:51.055568+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32115488",
-          "target_video_id": "30984591",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:22:26.418694+00:00"
         },
         {
@@ -115118,6 +115111,13 @@
           "target_video_id": "30984591",
           "permanent": false,
           "attempted_at": "2026-11-12T09:59:18.598591+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32115488",
+          "target_video_id": "30984591",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:15:21.679067+00:00"
         }
       ],
       "last_plan": {
@@ -137461,7 +137461,7 @@
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T09:59:18.073529+00:00"
+        "planned_at": "2026-11-12T12:15:19.968285+00:00"
       },
       "previous_target_id": "30987819",
       "prepared": {
@@ -137469,6 +137469,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T06:14:06.914609+00:00",
         "relay_source_id": "33554657"
+      },
+      "claim": {
+        "worker_id": "12504892d2a543feb87d0ba0e65b3358-shard-0",
+        "claimed_at": "2026-11-12T12:15:20.811518+00:00",
+        "lease_expires_at": "2026-11-12T18:15:20.811518+00:00",
+        "run_id": "43208551669"
       }
     },
     "29359": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:15:17.396887+00:00"
+        "planned_at": "2026-11-12T12:15:20.300735+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:15:17.396904+00:00"
+  "updated_at": "2026-11-12T12:15:21.679082+00:00"
 }
