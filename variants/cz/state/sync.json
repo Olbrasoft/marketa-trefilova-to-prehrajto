@@ -112511,13 +112511,6 @@
           "source_id": "33495930",
           "target_video_id": "30983976",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:45:59.024327+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33495930",
-          "target_video_id": "30983976",
-          "permanent": false,
           "attempted_at": "2026-11-11T22:21:35.998114+00:00"
         },
         {
@@ -112526,6 +112519,13 @@
           "target_video_id": "30983976",
           "permanent": false,
           "attempted_at": "2026-11-11T23:36:10.417076+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33495930",
+          "target_video_id": "30983976",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:50:47.296338+00:00"
         }
       ],
       "last_plan": {
@@ -116064,7 +116064,7 @@
       "last_plan": {
         "source_id": "31728968",
         "display_name": "Thirteen 1080p CZ Dabing",
-        "planned_at": "2026-11-11T23:36:11.126492+00:00"
+        "planned_at": "2026-11-12T00:50:45.480578+00:00"
       },
       "previous_target_id": "30984695",
       "prepared": {
@@ -116072,6 +116072,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T17:19:32.952001+00:00",
         "relay_source_id": "31728968"
+      },
+      "claim": {
+        "worker_id": "1e43a5b3cb374372bc54266bf171d22c-shard-0",
+        "claimed_at": "2026-11-12T00:50:46.284218+00:00",
+        "lease_expires_at": "2026-11-12T06:50:46.284218+00:00",
+        "run_id": "43102571398"
       }
     },
     "2907": {
@@ -146451,7 +146457,7 @@
       "last_plan": {
         "source_id": "35179887",
         "display_name": "Zahradnictví: Dezertér 1080p CZ Dabing",
-        "planned_at": "2026-11-12T00:50:43.112380+00:00"
+        "planned_at": "2026-11-12T00:50:45.821954+00:00"
       }
     },
     "25919": {
@@ -198045,5 +198051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:50:43.383016+00:00"
+  "updated_at": "2026-11-12T00:50:47.296359+00:00"
 }
