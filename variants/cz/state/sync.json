@@ -122543,13 +122543,6 @@
           "source_id": "32965631",
           "target_video_id": "30985482",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:21:07.246761+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32965631",
-          "target_video_id": "30985482",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:55:02.838875+00:00"
         },
         {
@@ -122558,6 +122551,13 @@
           "target_video_id": "30985482",
           "permanent": false,
           "attempted_at": "2026-11-12T10:22:24.439265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32965631",
+          "target_video_id": "30985482",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:40:35.670066+00:00"
         }
       ],
       "last_plan": {
@@ -138194,7 +138194,7 @@
       "last_plan": {
         "source_id": "34399715",
         "display_name": "Koloběžka první (Ruffiano and Sweeteeth) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:22:26.180810+00:00"
+        "planned_at": "2026-11-12T12:40:34.136385+00:00"
       },
       "previous_target_id": "30987880",
       "prepared": {
@@ -138202,6 +138202,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-11T06:32:54.593013+00:00",
         "relay_source_id": "34399715"
+      },
+      "claim": {
+        "worker_id": "53fcdfbbfdc1454d8d3738d7c1be2384-shard-0",
+        "claimed_at": "2026-11-12T12:40:34.985630+00:00",
+        "lease_expires_at": "2026-11-12T18:40:34.985630+00:00",
+        "run_id": "43208551669"
       }
     },
     "15438": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:40:31.668241+00:00"
+        "planned_at": "2026-11-12T12:40:34.477703+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:40:31.668257+00:00"
+  "updated_at": "2026-11-12T12:40:35.670083+00:00"
 }
