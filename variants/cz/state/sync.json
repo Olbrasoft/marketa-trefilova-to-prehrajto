@@ -108625,13 +108625,6 @@
           "source_id": "31983035",
           "target_video_id": "30983620",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:12:44.282770+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31983035",
-          "target_video_id": "30983620",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:41:12.926801+00:00"
         },
         {
@@ -108640,6 +108633,13 @@
           "target_video_id": "30983620",
           "permanent": false,
           "attempted_at": "2026-11-11T22:59:18.819961+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31983035",
+          "target_video_id": "30983620",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:15:51.208450+00:00"
         }
       ],
       "last_plan": {
@@ -123247,7 +123247,7 @@
       "last_plan": {
         "source_id": "22838327",
         "display_name": "The Comancheros SD CZ Dabing",
-        "planned_at": "2026-11-11T22:59:20.476394+00:00"
+        "planned_at": "2026-11-12T00:15:49.959899+00:00"
       },
       "previous_target_id": "30985596",
       "prepared": {
@@ -123255,6 +123255,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T20:38:45.079478+00:00",
         "relay_source_id": "22838327"
+      },
+      "claim": {
+        "worker_id": "156d4de6daf2449594c24d4a9672edad-shard-0",
+        "claimed_at": "2026-11-12T00:15:50.856122+00:00",
+        "lease_expires_at": "2026-11-12T06:15:50.856122+00:00",
+        "run_id": "43102571398"
       }
     },
     "19160": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:15:47.409894+00:00"
+        "planned_at": "2026-11-12T00:15:50.298730+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:15:47.409914+00:00"
+  "updated_at": "2026-11-12T00:15:51.208471+00:00"
 }
