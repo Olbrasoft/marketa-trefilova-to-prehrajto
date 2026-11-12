@@ -82298,13 +82298,6 @@
           "source_id": "34668514",
           "target_video_id": "30908812",
           "permanent": false,
-          "attempted_at": "2026-11-12T03:43:07.928441+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34668514",
-          "target_video_id": "30908812",
-          "permanent": false,
           "attempted_at": "2026-11-12T04:52:06.984504+00:00"
         },
         {
@@ -82313,6 +82306,13 @@
           "target_video_id": "30908812",
           "permanent": false,
           "attempted_at": "2026-11-12T06:39:05.330673+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668514",
+          "target_video_id": "30908812",
+          "permanent": false,
+          "attempted_at": "2026-11-12T08:02:08.662675+00:00"
         }
       ],
       "last_plan": {
@@ -83574,7 +83574,7 @@
       "last_plan": {
         "source_id": "30859189",
         "display_name": "Snack Shack 1080p CZ Dabing",
-        "planned_at": "2026-11-12T06:39:03.966430+00:00"
+        "planned_at": "2026-11-12T08:02:07.018538+00:00"
       },
       "previous_target_id": "30915737",
       "prepared": {
@@ -83582,6 +83582,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-08T11:13:22.427450+00:00",
         "relay_source_id": "30859189"
+      },
+      "claim": {
+        "worker_id": "eb3ee0be42ac4a4280d858612e34a953-shard-0",
+        "claimed_at": "2026-11-12T08:02:07.694945+00:00",
+        "lease_expires_at": "2026-11-12T14:02:07.694945+00:00",
+        "run_id": "43168766567"
       }
     },
     "2309": {
@@ -147081,7 +147087,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-12T08:02:04.405808+00:00"
+        "planned_at": "2026-11-12T08:02:07.293782+00:00"
       }
     },
     "12316": {
@@ -198585,5 +198591,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T08:02:04.405826+00:00"
+  "updated_at": "2026-11-12T08:02:08.662693+00:00"
 }
