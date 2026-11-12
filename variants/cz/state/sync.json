@@ -43161,13 +43161,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-12T05:58:59.080796+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-12T07:54:08.933628+00:00"
         },
         {
@@ -43176,6 +43169,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-12T09:29:28.419738+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:46:45.894031+00:00"
         }
       ],
       "last_plan": {
@@ -131328,7 +131328,7 @@
       "last_plan": {
         "source_id": "32647219",
         "display_name": "Mama (Máma) (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T09:29:34.381683+00:00"
+        "planned_at": "2026-11-12T11:46:44.328590+00:00"
       },
       "previous_target_id": "30987015",
       "prepared": {
@@ -131336,6 +131336,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T03:19:22.514356+00:00",
         "relay_source_id": "32647219"
+      },
+      "claim": {
+        "worker_id": "c4cf1a3a5b2c4482acdfd1f8c02c4cca-shard-0",
+        "claimed_at": "2026-11-12T11:46:45.147826+00:00",
+        "lease_expires_at": "2026-11-12T17:46:45.147826+00:00",
+        "run_id": "43208551669"
       }
     },
     "13290": {
@@ -140876,7 +140882,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:46:41.631635+00:00"
+        "planned_at": "2026-11-12T11:46:44.657624+00:00"
       }
     },
     "33433": {
@@ -198692,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:46:41.912756+00:00"
+  "updated_at": "2026-11-12T11:46:45.894048+00:00"
 }
