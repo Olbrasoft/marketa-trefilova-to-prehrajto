@@ -34713,13 +34713,6 @@
           "source_id": "16607977",
           "target_video_id": "30987463",
           "permanent": false,
-          "attempted_at": "2026-11-12T11:27:13.196968+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16607977",
-          "target_video_id": "30987463",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:57:23.870859+00:00"
         },
         {
@@ -34728,6 +34721,13 @@
           "target_video_id": "30987463",
           "permanent": false,
           "attempted_at": "2026-11-12T12:27:33.714414+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16607977",
+          "target_video_id": "30987463",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:57:42.240432+00:00"
         }
       ],
       "last_plan": {
@@ -34741,12 +34741,6 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T04:48:37.657424+00:00",
         "relay_source_id": "16607977"
-      },
-      "claim": {
-        "worker_id": "0e01b92d62f641d8a022c3fe872569b5-shard-0",
-        "claimed_at": "2026-11-12T12:57:38.653106+00:00",
-        "lease_expires_at": "2026-11-12T18:57:38.653106+00:00",
-        "run_id": "43208551669"
       }
     },
     "18754": {
@@ -35399,7 +35393,7 @@
       "last_plan": {
         "source_id": "23240065",
         "display_name": "Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T12:27:32.294392+00:00"
+        "planned_at": "2026-11-12T12:57:41.848231+00:00"
       },
       "previous_target_id": "30988745",
       "prepared": {
@@ -35407,6 +35401,12 @@
         "size_bytes": 8199999999,
         "prepared_at": "2026-11-11T09:46:13.396689+00:00",
         "relay_source_id": "23240065"
+      },
+      "claim": {
+        "worker_id": "06e0b88b52a242d0bdbac7f8849e9f34-shard-0",
+        "claimed_at": "2026-11-12T12:57:42.343429+00:00",
+        "lease_expires_at": "2026-11-12T18:57:42.343429+00:00",
+        "run_id": "43208551669"
       }
     },
     "12662": {
@@ -37563,7 +37563,7 @@
       "last_plan": {
         "source_id": "35003134",
         "display_name": "Paul 1080p CZ Titulky",
-        "planned_at": "2026-11-12T12:57:38.556235+00:00"
+        "planned_at": "2026-11-12T12:57:42.054842+00:00"
       }
     },
     "2652": {
@@ -97714,5 +97714,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:57:39.373321+00:00"
+  "updated_at": "2026-11-12T12:57:42.343454+00:00"
 }
