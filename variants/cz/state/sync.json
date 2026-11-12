@@ -43109,13 +43109,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:40:20.498618+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-11T22:14:18.968863+00:00"
         },
         {
@@ -43124,6 +43117,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-11T23:30:55.819841+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:44:48.761585+00:00"
         }
       ],
       "last_plan": {
@@ -131166,7 +131166,7 @@
       "last_plan": {
         "source_id": "32647219",
         "display_name": "Mama (Máma) (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T23:30:55.231415+00:00"
+        "planned_at": "2026-11-12T00:44:46.943340+00:00"
       },
       "previous_target_id": "30987015",
       "prepared": {
@@ -131174,6 +131174,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T03:19:22.514356+00:00",
         "relay_source_id": "32647219"
+      },
+      "claim": {
+        "worker_id": "98474162f6d7481cbc59feedd158da63-shard-0",
+        "claimed_at": "2026-11-12T00:44:47.939953+00:00",
+        "lease_expires_at": "2026-11-12T06:44:47.939953+00:00",
+        "run_id": "43102571398"
       }
     },
     "13290": {
@@ -146421,14 +146427,25 @@
       "last_plan": {
         "source_id": "29487501",
         "display_name": "Even Mice Belong in Heaven (Myši patří do nebe) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T00:44:44.334984+00:00"
+        "planned_at": "2026-11-12T00:44:47.281770+00:00"
+      },
+      "claim": {
+        "worker_id": "c8492cf67bf74d12ab335d61e8f24c1c-shard-0",
+        "claimed_at": "2026-11-12T00:44:48.143126+00:00",
+        "lease_expires_at": "2026-11-12T06:44:48.143126+00:00",
+        "run_id": "43102571398"
       }
     },
     "35003": {
       "attempts": []
     },
     "17099": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35179887",
+        "display_name": "Zahradnictví: Dezertér 1080p CZ Dabing",
+        "planned_at": "2026-11-12T00:44:47.529660+00:00"
+      }
     },
     "25919": {
       "attempts": []
@@ -198021,5 +198038,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:44:44.600154+00:00"
+  "updated_at": "2026-11-12T00:44:48.761606+00:00"
 }
