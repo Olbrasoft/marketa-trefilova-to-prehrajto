@@ -131364,13 +131364,6 @@
           "source_id": "30410983",
           "target_video_id": "30987029",
           "permanent": false,
-          "attempted_at": "2026-11-12T03:42:08.012393+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30410983",
-          "target_video_id": "30987029",
-          "permanent": false,
           "attempted_at": "2026-11-12T04:51:07.094370+00:00"
         },
         {
@@ -131379,6 +131372,13 @@
           "target_video_id": "30987029",
           "permanent": false,
           "attempted_at": "2026-11-12T06:38:13.276458+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30410983",
+          "target_video_id": "30987029",
+          "permanent": false,
+          "attempted_at": "2026-11-12T08:01:11.995034+00:00"
         }
       ],
       "last_plan": {
@@ -142641,7 +142641,7 @@
       "last_plan": {
         "source_id": "35286089",
         "display_name": "Únos 1080p CZ Dabing",
-        "planned_at": "2026-11-12T06:38:12.690856+00:00"
+        "planned_at": "2026-11-12T08:01:10.328357+00:00"
       },
       "previous_target_id": "30988597",
       "prepared": {
@@ -142649,6 +142649,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-11T08:53:06.797535+00:00",
         "relay_source_id": "35286089"
+      },
+      "claim": {
+        "worker_id": "d910dc2979964157bf67169f8d7f8d1a-shard-0",
+        "claimed_at": "2026-11-12T08:01:10.999713+00:00",
+        "lease_expires_at": "2026-11-12T14:01:10.999713+00:00",
+        "run_id": "43168766567"
       }
     },
     "25024": {
@@ -147081,7 +147087,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-12T08:01:06.261705+00:00"
+        "planned_at": "2026-11-12T08:01:10.603175+00:00"
       }
     },
     "12316": {
@@ -198585,5 +198591,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T08:01:06.476727+00:00"
+  "updated_at": "2026-11-12T08:01:11.995052+00:00"
 }
