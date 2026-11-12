@@ -8038,13 +8038,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:36:17.389138+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:50:54.934439+00:00"
         },
         {
@@ -8053,6 +8046,13 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-11-12T02:31:47.883799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:41:57.677527+00:00"
         }
       ],
       "last_plan": {
@@ -8066,12 +8066,6 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
-      },
-      "claim": {
-        "worker_id": "a0adbae6fbf944d58d2d2198599b1be8-shard-0",
-        "claimed_at": "2026-11-12T03:41:54.715971+00:00",
-        "lease_expires_at": "2026-11-12T09:41:54.715971+00:00",
-        "run_id": "43133989396"
       }
     },
     "10690": {
@@ -132613,7 +132607,7 @@
       "last_plan": {
         "source_id": "34787172",
         "display_name": "Brontosaurus 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:31:49.728996+00:00"
+        "planned_at": "2026-11-12T03:41:57.043120+00:00"
       },
       "previous_target_id": "30987230",
       "prepared": {
@@ -132621,6 +132615,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:00:19.698478+00:00",
         "relay_source_id": "34787172"
+      },
+      "claim": {
+        "worker_id": "36b5de1017ae423aae60990ab791b005-shard-0",
+        "claimed_at": "2026-11-12T03:41:57.517784+00:00",
+        "lease_expires_at": "2026-11-12T09:41:57.517784+00:00",
+        "run_id": "43133989396"
       }
     },
     "24237": {
@@ -146681,7 +146681,7 @@
       "last_plan": {
         "source_id": "29431268",
         "display_name": "Deda (Děda) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:41:54.443402+00:00"
+        "planned_at": "2026-11-12T03:41:57.250038+00:00"
       }
     },
     "12543": {
@@ -198248,5 +198248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:41:55.548283+00:00"
+  "updated_at": "2026-11-12T03:41:57.677551+00:00"
 }
