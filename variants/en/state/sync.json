@@ -37446,17 +37446,19 @@
       "attempts": []
     },
     "2474": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34237563",
+          "target_video_id": "31001064",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:18:39.404613+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34237563",
         "display_name": "National Treasure 1080p CZ Titulky",
         "planned_at": "2026-11-12T10:09:19.419201+00:00"
-      },
-      "claim": {
-        "worker_id": "62478645a821438fa4d048eada7f79ac-shard-0",
-        "claimed_at": "2026-11-12T10:09:19.753754+00:00",
-        "lease_expires_at": "2026-11-12T16:09:19.753754+00:00",
-        "run_id": "43168766567"
       },
       "previous_target_id": "31001064",
       "prepared": {
@@ -97656,5 +97658,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T10:33:21.783338+00:00"
+  "updated_at": "2026-11-12T11:18:39.404636+00:00"
 }
