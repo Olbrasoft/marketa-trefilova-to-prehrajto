@@ -668,3 +668,4 @@ Attach subtitles only after target processing has finished.
 | Legend (2015) [ID 2712] 1080p CZ Titulky | 31004679 | https://sdilej.cz/32845458/legendy-zlocinu-2015-krimi-thriller-tom-hardy-czdab-bluray.1080p.mkv | Extract Czech track from exact source after processing |
 | Wonka 4K CZ Titulky | 31005086 | https://sdilej.cz/27822278/wonka-2023-cztit-v-obraze-2160p.mkv | Extract Czech track from exact source after processing |
 | Conan the Barbarian (1982) 1080p CZ Titulky | 31005845 | https://sdilej.cz/35402133/conan.the.barbarian.1982.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Green Room 1080p CZ Titulky | 31005872 | https://sdilej.cz/6122354/green-room-2015-titulky.cz-1080p.h264.mkv | Extract Czech track from exact source after processing |
