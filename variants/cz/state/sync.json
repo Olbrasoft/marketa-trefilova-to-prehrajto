@@ -120759,17 +120759,16 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T18:37:53.303604+00:00",
         "relay_source_id": "23806861"
+      },
+      "claim": {
+        "worker_id": "b905d1bb651543868a97a3f546e7633e-shard-0",
+        "claimed_at": "2026-11-12T22:00:04.046299+00:00",
+        "lease_expires_at": "2026-11-13T04:00:04.046299+00:00",
+        "run_id": "43299526401"
       }
     },
     "21120": {
       "attempts": [
-        {
-          "status": "target_processing",
-          "source_id": "34011156",
-          "target_video_id": "30985031",
-          "permanent": false,
-          "attempted_at": "2026-11-12T17:13:18.526678+00:00"
-        },
         {
           "status": "target_processing",
           "source_id": "34011156",
@@ -120783,6 +120782,13 @@
           "target_video_id": "30985031",
           "permanent": false,
           "attempted_at": "2026-11-12T19:53:50.962009+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34011156",
+          "target_video_id": "30985031",
+          "permanent": false,
+          "attempted_at": "2026-11-12T22:00:06.038522+00:00"
         }
       ],
       "last_plan": {
@@ -120796,12 +120802,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T18:37:51.807112+00:00",
         "relay_source_id": "34011156"
-      },
-      "claim": {
-        "worker_id": "c4bab1ed3f7e4b5da97cb0833b2c8e75-shard-0",
-        "claimed_at": "2026-11-12T22:00:00.715691+00:00",
-        "lease_expires_at": "2026-11-13T04:00:00.715691+00:00",
-        "run_id": "43299526401"
       }
     },
     "18201": {
@@ -121765,7 +121765,7 @@
       "last_plan": {
         "source_id": "15358349",
         "display_name": "Reign of the Supermen 1080p CZ Dabing",
-        "planned_at": "2026-11-12T19:53:53.331095+00:00"
+        "planned_at": "2026-11-12T22:00:04.258517+00:00"
       },
       "previous_target_id": "30985402",
       "prepared": {
@@ -121773,6 +121773,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T19:08:18.210220+00:00",
         "relay_source_id": "15358349"
+      },
+      "claim": {
+        "worker_id": "3afda865c4bb4d41a8e941b38bc52fd7-shard-0",
+        "claimed_at": "2026-11-12T22:00:04.900097+00:00",
+        "lease_expires_at": "2026-11-13T04:00:04.900097+00:00",
+        "run_id": "43299526401"
       }
     },
     "26901": {
@@ -198821,10 +198827,10 @@
       "last_plan": {
         "source_id": "34710859",
         "display_name": "Nazis at Nuremberg: The Lost Testimony 1080p CZ Dabing",
-        "planned_at": "2026-11-12T22:00:01.264424+00:00"
+        "planned_at": "2026-11-12T22:00:04.536485+00:00"
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T22:00:01.264439+00:00"
+  "updated_at": "2026-11-12T22:00:06.038540+00:00"
 }
