@@ -34547,13 +34547,6 @@
           "source_id": "6556256",
           "target_video_id": "30986677",
           "permanent": false,
-          "attempted_at": "2026-11-12T12:59:59.205961+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6556256",
-          "target_video_id": "30986677",
-          "permanent": false,
           "attempted_at": "2026-11-12T13:30:05.152987+00:00"
         },
         {
@@ -34562,6 +34555,13 @@
           "target_video_id": "30986677",
           "permanent": false,
           "attempted_at": "2026-11-12T14:01:39.686286+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6556256",
+          "target_video_id": "30986677",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:32:15.366088+00:00"
         }
       ],
       "last_plan": {
@@ -34575,12 +34575,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T01:31:10.412995+00:00",
         "relay_source_id": "6556256"
-      },
-      "claim": {
-        "worker_id": "8eac9b87ec9b4a498773a430ed74c374-shard-0",
-        "claimed_at": "2026-11-12T14:32:11.118209+00:00",
-        "lease_expires_at": "2026-11-12T20:32:11.118209+00:00",
-        "run_id": "43208551669"
       }
     },
     "31021": {
@@ -35289,7 +35283,7 @@
       "last_plan": {
         "source_id": "17633756",
         "display_name": "Legacy, notre héritage (Legacy) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T14:01:38.611822+00:00"
+        "planned_at": "2026-11-12T14:32:14.730563+00:00"
       },
       "previous_target_id": "30988551",
       "prepared": {
@@ -35297,6 +35291,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T08:41:44.555925+00:00",
         "relay_source_id": "17633756"
+      },
+      "claim": {
+        "worker_id": "e16dceeb81124d64b5a87ddead3d5f1b-shard-0",
+        "claimed_at": "2026-11-12T14:32:15.049524+00:00",
+        "lease_expires_at": "2026-11-12T20:32:15.049524+00:00",
+        "run_id": "43208551669"
       }
     },
     "21412": {
@@ -37638,7 +37638,7 @@
       "last_plan": {
         "source_id": "30783542",
         "display_name": "Clueless 1080p CZ Titulky",
-        "planned_at": "2026-11-12T14:32:10.972673+00:00"
+        "planned_at": "2026-11-12T14:32:14.943191+00:00"
       }
     },
     "2740": {
@@ -97788,5 +97788,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:32:12.076723+00:00"
+  "updated_at": "2026-11-12T14:32:15.366105+00:00"
 }
