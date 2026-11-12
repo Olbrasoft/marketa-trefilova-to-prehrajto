@@ -24177,13 +24177,6 @@
           "source_id": "34220031",
           "target_video_id": "30859204",
           "permanent": false,
-          "attempted_at": "2026-11-12T14:00:49.666327+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34220031",
-          "target_video_id": "30859204",
-          "permanent": false,
           "attempted_at": "2026-11-12T14:31:18.246362+00:00"
         },
         {
@@ -24192,6 +24185,13 @@
           "target_video_id": "30859204",
           "permanent": false,
           "attempted_at": "2026-11-12T15:01:40.473836+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34220031",
+          "target_video_id": "30859204",
+          "permanent": false,
+          "attempted_at": "2026-11-12T15:59:09.466649+00:00"
         }
       ],
       "last_plan": {
@@ -27775,7 +27775,7 @@
       "last_plan": {
         "source_id": "25583722",
         "display_name": "Glass Onion: A Knives Out Mystery 1080p CZ Titulky",
-        "planned_at": "2026-11-12T15:01:43.182480+00:00"
+        "planned_at": "2026-11-12T15:59:08.455744+00:00"
       },
       "previous_target_id": "30903877",
       "prepared": {
@@ -27783,6 +27783,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-08T01:33:25.661957+00:00",
         "relay_source_id": "25583722"
+      },
+      "claim": {
+        "worker_id": "dff05d77214e44db83c8e82cebbb4bd9-shard-0",
+        "claimed_at": "2026-11-12T15:59:08.740181+00:00",
+        "lease_expires_at": "2026-11-12T21:59:08.740181+00:00",
+        "run_id": "43247223099"
       }
     },
     "23038": {
@@ -37732,7 +37738,7 @@
       "last_plan": {
         "source_id": "33588201",
         "display_name": "Rocky III 1080p CZ Titulky",
-        "planned_at": "2026-11-12T15:59:05.838206+00:00"
+        "planned_at": "2026-11-12T15:59:08.646415+00:00"
       }
     },
     "2712": {
@@ -97847,5 +97853,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T15:59:05.838227+00:00"
+  "updated_at": "2026-11-12T15:59:09.466671+00:00"
 }
