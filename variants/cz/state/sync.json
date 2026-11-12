@@ -107114,13 +107114,6 @@
           "source_id": "34720969",
           "target_video_id": "30983144",
           "permanent": false,
-          "attempted_at": "2026-11-12T00:13:34.342733+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34720969",
-          "target_video_id": "30983144",
-          "permanent": false,
           "attempted_at": "2026-11-12T01:28:25.822928+00:00"
         },
         {
@@ -107129,6 +107122,13 @@
           "target_video_id": "30983144",
           "permanent": false,
           "attempted_at": "2026-11-12T03:01:52.931202+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34720969",
+          "target_video_id": "30983144",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:12:23.528230+00:00"
         }
       ],
       "last_plan": {
@@ -107171,7 +107171,7 @@
       "last_plan": {
         "source_id": "11951859",
         "display_name": "Probuzení 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:02:02.421534+00:00"
+        "planned_at": "2026-11-12T04:12:22.068007+00:00"
       },
       "previous_target_id": "30983145",
       "prepared": {
@@ -107179,6 +107179,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T13:53:28.759441+00:00",
         "relay_source_id": "11951859"
+      },
+      "claim": {
+        "worker_id": "523beb4d02e442d58aedb810bb263aaa-shard-0",
+        "claimed_at": "2026-11-12T04:12:22.818175+00:00",
+        "lease_expires_at": "2026-11-12T10:12:22.818175+00:00",
+        "run_id": "43133989396"
       }
     },
     "21503": {
@@ -146745,7 +146751,7 @@
       "last_plan": {
         "source_id": "34866162",
         "display_name": "Talks with TGM (Hovory s TGM) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:12:19.478072+00:00"
+        "planned_at": "2026-11-12T04:12:22.270265+00:00"
       }
     },
     "29234": {
@@ -198294,5 +198300,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:12:19.711803+00:00"
+  "updated_at": "2026-11-12T04:12:23.528246+00:00"
 }
