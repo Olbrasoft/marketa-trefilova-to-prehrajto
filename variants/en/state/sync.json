@@ -37740,17 +37740,19 @@
       }
     },
     "2750": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33588201",
+          "target_video_id": "31004255",
+          "permanent": false,
+          "attempted_at": "2026-11-12T17:33:13.124109+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33588201",
         "display_name": "Rocky III 1080p CZ Titulky",
         "planned_at": "2026-11-12T16:44:33.616223+00:00"
-      },
-      "claim": {
-        "worker_id": "28f4560fd7b543c2b2cc6fe891429cba-shard-0",
-        "claimed_at": "2026-11-12T16:44:33.821300+00:00",
-        "lease_expires_at": "2026-11-12T22:44:33.821300+00:00",
-        "run_id": "43247223099"
       },
       "previous_target_id": "31004255",
       "prepared": {
@@ -37765,7 +37767,7 @@
       "last_plan": {
         "source_id": "32845458",
         "display_name": "Legend (2015) [ID 2712] 1080p CZ Titulky",
-        "planned_at": "2026-11-12T17:33:05.870244+00:00"
+        "planned_at": "2026-11-12T17:33:11.494408+00:00"
       }
     },
     "2492": {
@@ -97875,5 +97877,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T17:33:05.870266+00:00"
+  "updated_at": "2026-11-12T17:33:13.124127+00:00"
 }
