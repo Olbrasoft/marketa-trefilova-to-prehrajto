@@ -123025,13 +123025,6 @@
           "source_id": "24836709",
           "target_video_id": "30985572",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:35:29.302822+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24836709",
-          "target_video_id": "30985572",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:50:01.820692+00:00"
         },
         {
@@ -123040,6 +123033,13 @@
           "target_video_id": "30985572",
           "permanent": false,
           "attempted_at": "2026-11-12T02:31:08.403371+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24836709",
+          "target_video_id": "30985572",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:41:21.833726+00:00"
         }
       ],
       "last_plan": {
@@ -123053,12 +123053,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T20:28:40.493950+00:00",
         "relay_source_id": "24836709"
-      },
-      "claim": {
-        "worker_id": "44c5db0264e14d11b8121db7eb07ab94-shard-0",
-        "claimed_at": "2026-11-12T03:41:18.519574+00:00",
-        "lease_expires_at": "2026-11-12T09:41:18.519574+00:00",
-        "run_id": "43133989396"
       }
     },
     "32552": {
@@ -136938,7 +136932,7 @@
       "last_plan": {
         "source_id": "33706152",
         "display_name": "Všichni musí být v pyžamu 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:31:06.788883+00:00"
+        "planned_at": "2026-11-12T03:41:21.330597+00:00"
       },
       "previous_target_id": "30987781",
       "prepared": {
@@ -136946,6 +136940,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:01:55.876469+00:00",
         "relay_source_id": "33706152"
+      },
+      "claim": {
+        "worker_id": "6227b28322a141c2a6a46a1fdd89cf0e-shard-0",
+        "claimed_at": "2026-11-12T03:41:21.994924+00:00",
+        "lease_expires_at": "2026-11-12T09:41:21.994924+00:00",
+        "run_id": "43133989396"
       }
     },
     "24059": {
@@ -146681,7 +146681,7 @@
       "last_plan": {
         "source_id": "29431268",
         "display_name": "Deda (Děda) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:41:18.207878+00:00"
+        "planned_at": "2026-11-12T03:41:21.540741+00:00"
       }
     },
     "12543": {
@@ -198248,5 +198248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:41:19.316714+00:00"
+  "updated_at": "2026-11-12T03:41:21.994949+00:00"
 }
