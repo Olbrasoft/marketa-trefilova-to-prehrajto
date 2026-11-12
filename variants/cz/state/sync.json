@@ -114592,13 +114592,6 @@
           "source_id": "6506542",
           "target_video_id": "30984339",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:23:43.801645+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6506542",
-          "target_video_id": "30984339",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:34:33.048845+00:00"
         },
         {
@@ -114607,6 +114600,13 @@
           "target_video_id": "30984339",
           "permanent": false,
           "attempted_at": "2026-11-12T02:17:59.852412+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6506542",
+          "target_video_id": "30984339",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:25:26.633513+00:00"
         }
       ],
       "last_plan": {
@@ -130234,7 +130234,7 @@
       "last_plan": {
         "source_id": "34468790",
         "display_name": "A Hoof Here, a Hoof There (Kopytem sem, kopytem tam) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:17:59.700526+00:00"
+        "planned_at": "2026-11-12T03:25:25.344808+00:00"
       },
       "previous_target_id": "30986934",
       "prepared": {
@@ -130242,6 +130242,12 @@
         "size_bytes": 6800000000,
         "prepared_at": "2026-11-11T02:44:39.784842+00:00",
         "relay_source_id": "34468790"
+      },
+      "claim": {
+        "worker_id": "cfc7837428e54e919af7b3947e5cf8fb-shard-0",
+        "claimed_at": "2026-11-12T03:25:25.815721+00:00",
+        "lease_expires_at": "2026-11-12T09:25:25.815721+00:00",
+        "run_id": "43133989396"
       }
     },
     "2767": {
@@ -146645,7 +146651,7 @@
       "last_plan": {
         "source_id": "31103512",
         "display_name": "Barefoot (Po strništi bos) (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:25:22.006537+00:00"
+        "planned_at": "2026-11-12T03:25:25.554100+00:00"
       }
     },
     "17043": {
@@ -198215,5 +198221,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:25:22.284112+00:00"
+  "updated_at": "2026-11-12T03:25:26.633527+00:00"
 }
