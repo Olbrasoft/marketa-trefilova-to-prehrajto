@@ -34116,13 +34116,6 @@
           "source_id": "7004752",
           "target_video_id": "30984744",
           "permanent": false,
-          "attempted_at": "2026-11-12T12:29:37.025162+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7004752",
-          "target_video_id": "30984744",
-          "permanent": false,
           "attempted_at": "2026-11-12T12:59:52.256354+00:00"
         },
         {
@@ -34131,6 +34124,13 @@
           "target_video_id": "30984744",
           "permanent": false,
           "attempted_at": "2026-11-12T13:29:58.598733+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7004752",
+          "target_video_id": "30984744",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:01:30.780384+00:00"
         }
       ],
       "last_plan": {
@@ -34397,7 +34397,7 @@
       "last_plan": {
         "source_id": "35468703",
         "display_name": "The Great Hack 1080p CZ Titulky",
-        "planned_at": "2026-11-12T13:29:58.749982+00:00"
+        "planned_at": "2026-11-12T14:01:29.660198+00:00"
       },
       "previous_target_id": "30986211",
       "prepared": {
@@ -34405,6 +34405,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T23:36:41.333188+00:00",
         "relay_source_id": "35468703"
+      },
+      "claim": {
+        "worker_id": "35a1d72b2bb246fd9c0fb44a3ce546a7-shard-0",
+        "claimed_at": "2026-11-12T14:01:29.974676+00:00",
+        "lease_expires_at": "2026-11-12T20:01:29.974676+00:00",
+        "run_id": "43208551669"
       }
     },
     "24200": {
@@ -37616,7 +37622,7 @@
       "last_plan": {
         "source_id": "30783542",
         "display_name": "Clueless 1080p CZ Titulky",
-        "planned_at": "2026-11-12T14:01:26.967080+00:00"
+        "planned_at": "2026-11-12T14:01:29.871130+00:00"
       }
     },
     "2740": {
@@ -97756,5 +97762,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:01:26.967096+00:00"
+  "updated_at": "2026-11-12T14:01:30.780403+00:00"
 }
