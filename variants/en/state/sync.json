@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "dbedff1dc24d47cabbd6837134aad99e-shard-0",
+        "claimed_at": "2026-11-12T16:00:24.257789+00:00",
+        "lease_expires_at": "2026-11-12T22:00:24.257789+00:00",
+        "run_id": "43247223099"
       }
     },
     "21312": {
@@ -37610,17 +37616,23 @@
           "attempted_at": "2026-11-12T15:11:55.476068+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35003134",
-        "display_name": "Paul 1080p CZ Titulky",
-        "planned_at": "2026-11-12T15:11:53.497407+00:00"
-      },
       "previous_target_id": "31002516",
-      "prepared": {
+      "upload": {
         "target_video_id": "31002516",
+        "display_name": "Paul 1080p CZ Titulky",
+        "source_id": "35003134",
+        "source_url": "https://sdilej.cz/35003134/paul.2011.unrated.1080p.bluray.dts.x264-majo.mkv",
+        "source_filename": "Paul.2011.UNRATED.1080p.BluRay.DTS.x264-MAJO.mkv",
         "size_bytes": 5300000000,
-        "prepared_at": "2026-11-12T13:03:32.261033+00:00",
-        "relay_source_id": "35003134"
+        "width": 1920,
+        "height": 816,
+        "audio_language": "en",
+        "language_probability": 0.974724531173706,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/paul-1080p-cz-titulky-mkv/15157768501db2a5",
+        "uploaded_at": "2026-11-12T16:00:26.699343+00:00"
       }
     },
     "2652": {
@@ -37732,7 +37744,7 @@
       "last_plan": {
         "source_id": "33588201",
         "display_name": "Rocky III 1080p CZ Titulky",
-        "planned_at": "2026-11-12T16:00:22.322428+00:00"
+        "planned_at": "2026-11-12T16:00:25.411722+00:00"
       }
     },
     "2712": {
@@ -97847,5 +97859,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T16:00:22.322449+00:00"
+  "updated_at": "2026-11-12T16:00:26.699364+00:00"
 }
