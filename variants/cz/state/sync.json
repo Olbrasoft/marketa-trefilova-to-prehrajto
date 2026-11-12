@@ -123108,13 +123108,6 @@
           "source_id": "34710602",
           "target_video_id": "30985582",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:35:55.842751+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710602",
-          "target_video_id": "30985582",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:50:30.802385+00:00"
         },
         {
@@ -123123,6 +123116,13 @@
           "target_video_id": "30985582",
           "permanent": false,
           "attempted_at": "2026-11-12T02:31:28.345442+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710602",
+          "target_video_id": "30985582",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:41:39.768874+00:00"
         }
       ],
       "last_plan": {
@@ -123136,12 +123136,6 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-11-10T20:31:16.679359+00:00",
         "relay_source_id": "34710602"
-      },
-      "claim": {
-        "worker_id": "4895817bafe64a888d1a3011aa8af076-shard-0",
-        "claimed_at": "2026-11-12T03:41:36.918601+00:00",
-        "lease_expires_at": "2026-11-12T09:41:36.918601+00:00",
-        "run_id": "43133989396"
       }
     },
     "14376": {
@@ -131275,7 +131269,7 @@
       "last_plan": {
         "source_id": "30618554",
         "display_name": "Hvězda zvaná Pelyněk SD CZ Dabing",
-        "planned_at": "2026-11-12T02:31:27.849803+00:00"
+        "planned_at": "2026-11-12T03:41:39.140884+00:00"
       },
       "previous_target_id": "30987025",
       "prepared": {
@@ -131283,6 +131277,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T03:23:12.749258+00:00",
         "relay_source_id": "30618554"
+      },
+      "claim": {
+        "worker_id": "bcae4ce25ac14b3e8b3416b85a4819c0-shard-0",
+        "claimed_at": "2026-11-12T03:41:39.622231+00:00",
+        "lease_expires_at": "2026-11-12T09:41:39.622231+00:00",
+        "run_id": "43133989396"
       }
     },
     "32958": {
@@ -146681,7 +146681,7 @@
       "last_plan": {
         "source_id": "29431268",
         "display_name": "Deda (Děda) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:41:36.653667+00:00"
+        "planned_at": "2026-11-12T03:41:39.345854+00:00"
       }
     },
     "12543": {
@@ -198248,5 +198248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:41:37.685621+00:00"
+  "updated_at": "2026-11-12T03:41:39.768899+00:00"
 }
