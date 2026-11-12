@@ -128291,6 +128291,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T01:21:27.931935+00:00",
         "relay_source_id": "24508454"
+      },
+      "claim": {
+        "worker_id": "ffaabe0cbfcc47b1907728976e25045a-shard-0",
+        "claimed_at": "2026-11-12T17:41:17.698429+00:00",
+        "lease_expires_at": "2026-11-12T23:41:17.698429+00:00",
+        "run_id": "43247223099"
       }
     },
     "32719": {
@@ -133806,13 +133812,6 @@
           "source_id": "35067677",
           "target_video_id": "30987376",
           "permanent": false,
-          "attempted_at": "2026-11-12T12:51:01.716628+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35067677",
-          "target_video_id": "30987376",
-          "permanent": false,
           "attempted_at": "2026-11-12T14:15:20.397769+00:00"
         },
         {
@@ -133821,12 +133820,19 @@
           "target_video_id": "30987376",
           "permanent": false,
           "attempted_at": "2026-11-12T16:13:14.937060+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35067677",
+          "target_video_id": "30987376",
+          "permanent": false,
+          "attempted_at": "2026-11-12T17:41:21.029349+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35067677",
         "display_name": "Ročník 21 (Jahrgang 21) SD CZ Dabing",
-        "planned_at": "2026-11-12T16:13:10.532191+00:00"
+        "planned_at": "2026-11-12T17:41:17.949239+00:00"
       },
       "previous_target_id": "30987376",
       "prepared": {
@@ -198809,10 +198815,10 @@
       "last_plan": {
         "source_id": "34710859",
         "display_name": "Nazis at Nuremberg: The Lost Testimony 1080p CZ Dabing",
-        "planned_at": "2026-11-12T17:41:15.116888+00:00"
+        "planned_at": "2026-11-12T17:41:18.270803+00:00"
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T17:41:15.378019+00:00"
+  "updated_at": "2026-11-12T17:41:21.029372+00:00"
 }
