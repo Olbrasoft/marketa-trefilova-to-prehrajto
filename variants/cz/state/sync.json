@@ -129858,13 +129858,6 @@
           "source_id": "32261619",
           "target_video_id": "30986903",
           "permanent": false,
-          "attempted_at": "2026-11-11T21:41:43.114697+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32261619",
-          "target_video_id": "30986903",
-          "permanent": false,
           "attempted_at": "2026-11-11T22:59:57.757168+00:00"
         },
         {
@@ -129873,6 +129866,13 @@
           "target_video_id": "30986903",
           "permanent": false,
           "attempted_at": "2026-11-12T00:16:22.700458+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32261619",
+          "target_video_id": "30986903",
+          "permanent": false,
+          "attempted_at": "2026-11-12T01:31:54.627811+00:00"
         }
       ],
       "last_plan": {
@@ -129886,12 +129886,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T02:36:35.848130+00:00",
         "relay_source_id": "32261619"
-      },
-      "claim": {
-        "worker_id": "5b935858780e455587d6847c0f301d9d-shard-0",
-        "claimed_at": "2026-11-12T01:31:48.026113+00:00",
-        "lease_expires_at": "2026-11-12T07:31:48.026113+00:00",
-        "run_id": "43102571398"
       }
     },
     "20964": {
@@ -131947,7 +131941,7 @@
       "last_plan": {
         "source_id": "24221714",
         "display_name": "Dum U Zlateho usvitu 720p CZ Dabing",
-        "planned_at": "2026-11-12T00:16:22.425292+00:00"
+        "planned_at": "2026-11-12T01:31:53.589413+00:00"
       },
       "previous_target_id": "30987133",
       "prepared": {
@@ -131955,6 +131949,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-11T03:43:34.322032+00:00",
         "relay_source_id": "24221714"
+      },
+      "claim": {
+        "worker_id": "9d38472d6b1349adb97bf10a4bce7b3f-shard-0",
+        "claimed_at": "2026-11-12T01:31:54.366063+00:00",
+        "lease_expires_at": "2026-11-12T07:31:54.366063+00:00",
+        "run_id": "43102571398"
       }
     },
     "24385": {
@@ -146512,7 +146512,7 @@
       "last_plan": {
         "source_id": "34694579",
         "display_name": "On a String 1080p CZ Dabing",
-        "planned_at": "2026-11-12T01:31:47.543692+00:00"
+        "planned_at": "2026-11-12T01:31:53.922593+00:00"
       }
     },
     "27336": {
@@ -198097,5 +198097,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T01:31:48.755869+00:00"
+  "updated_at": "2026-11-12T01:31:54.627831+00:00"
 }
