@@ -109637,13 +109637,6 @@
           "source_id": "30160689",
           "target_video_id": "30983693",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:03:33.568839+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30160689",
-          "target_video_id": "30983693",
-          "permanent": false,
           "attempted_at": "2026-11-11T23:25:05.934520+00:00"
         },
         {
@@ -109652,6 +109645,13 @@
           "target_video_id": "30983693",
           "permanent": false,
           "attempted_at": "2026-11-12T00:35:52.178054+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30160689",
+          "target_video_id": "30983693",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:19:12.959056+00:00"
         }
       ],
       "last_plan": {
@@ -123817,7 +123817,7 @@
       "last_plan": {
         "source_id": "33064122",
         "display_name": "Taboo 1080p CZ Dabing",
-        "planned_at": "2026-11-12T00:35:50.515205+00:00"
+        "planned_at": "2026-11-12T02:19:11.579642+00:00"
       },
       "previous_target_id": "30985714",
       "prepared": {
@@ -123825,6 +123825,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T21:26:39.868620+00:00",
         "relay_source_id": "33064122"
+      },
+      "claim": {
+        "worker_id": "87032d566ba54bce8e1b5b74bc37b595-shard-0",
+        "claimed_at": "2026-11-12T02:19:12.142034+00:00",
+        "lease_expires_at": "2026-11-12T08:19:12.142034+00:00",
+        "run_id": "43133989396"
       }
     },
     "19272": {
@@ -146527,7 +146533,7 @@
       "last_plan": {
         "source_id": "34694579",
         "display_name": "On a String 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:19:09.365431+00:00"
+        "planned_at": "2026-11-12T02:19:11.799299+00:00"
       }
     },
     "27336": {
@@ -198122,5 +198128,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:19:09.365446+00:00"
+  "updated_at": "2026-11-12T02:19:12.959079+00:00"
 }
