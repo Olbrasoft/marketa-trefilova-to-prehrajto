@@ -127204,13 +127204,6 @@
           "source_id": "30676301",
           "target_video_id": "30986424",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:00:58.816565+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30676301",
-          "target_video_id": "30986424",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:28:25.954932+00:00"
         },
         {
@@ -127219,6 +127212,13 @@
           "target_video_id": "30986424",
           "permanent": false,
           "attempted_at": "2026-11-12T10:04:14.510753+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30676301",
+          "target_video_id": "30986424",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:20:33.471066+00:00"
         }
       ],
       "last_plan": {
@@ -137600,7 +137600,7 @@
       "last_plan": {
         "source_id": "29979237",
         "display_name": "Smetana 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:04:13.925602+00:00"
+        "planned_at": "2026-11-12T12:20:31.914850+00:00"
       },
       "previous_target_id": "30987839",
       "prepared": {
@@ -137608,6 +137608,12 @@
         "size_bytes": 4700000000,
         "prepared_at": "2026-11-11T06:20:47.389772+00:00",
         "relay_source_id": "29979237"
+      },
+      "claim": {
+        "worker_id": "2150c917d38043bc87931406af507549-shard-0",
+        "claimed_at": "2026-11-12T12:20:32.756836+00:00",
+        "lease_expires_at": "2026-11-12T18:20:32.756836+00:00",
+        "run_id": "43208551669"
       }
     },
     "10741": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:20:28.872782+00:00"
+        "planned_at": "2026-11-12T12:20:32.250682+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:20:29.141170+00:00"
+  "updated_at": "2026-11-12T12:20:33.471083+00:00"
 }
