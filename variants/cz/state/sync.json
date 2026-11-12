@@ -18972,13 +18972,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-12T03:12:33.712977+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-12T04:19:38.500230+00:00"
         },
         {
@@ -18987,6 +18980,13 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-12T05:37:33.590984+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-12T07:23:12.470099+00:00"
         }
       ],
       "last_plan": {
@@ -38598,7 +38598,7 @@
       "last_plan": {
         "source_id": "34457513",
         "display_name": "Raid 1080p CZ Dabing",
-        "planned_at": "2026-11-12T07:23:05.564378+00:00"
+        "planned_at": "2026-11-12T07:23:08.206818+00:00"
       }
     },
     "30096": {
@@ -139923,7 +139923,7 @@
       "last_plan": {
         "source_id": "31285766",
         "display_name": "Helimadoe 1080p CZ Dabing",
-        "planned_at": "2026-11-12T05:37:34.992130+00:00"
+        "planned_at": "2026-11-12T07:23:07.945125+00:00"
       },
       "previous_target_id": "30988093",
       "prepared": {
@@ -139931,6 +139931,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T07:29:24.233787+00:00",
         "relay_source_id": "31285766"
+      },
+      "claim": {
+        "worker_id": "d16b5f6316364eeb9aec7c2a20cd8291-shard-0",
+        "claimed_at": "2026-11-12T07:23:08.571044+00:00",
+        "lease_expires_at": "2026-11-12T13:23:08.571044+00:00",
+        "run_id": "43168766567"
       }
     },
     "13318": {
@@ -198558,5 +198564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T07:23:05.564397+00:00"
+  "updated_at": "2026-11-12T07:23:12.470118+00:00"
 }
