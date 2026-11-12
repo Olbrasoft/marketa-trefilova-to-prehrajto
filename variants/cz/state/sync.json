@@ -111173,6 +111173,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T14:51:07.924459+00:00",
         "relay_source_id": "35073576"
+      },
+      "claim": {
+        "worker_id": "b42ab30a493b4a61a763e448622e44e2-shard-0",
+        "claimed_at": "2026-11-12T04:01:24.887709+00:00",
+        "lease_expires_at": "2026-11-12T10:01:24.887709+00:00",
+        "run_id": "43133989396"
       }
     },
     "12571": {
@@ -127008,13 +127014,6 @@
           "source_id": "26168894",
           "target_video_id": "30986421",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:59:52.521060+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26168894",
-          "target_video_id": "30986421",
-          "permanent": false,
           "attempted_at": "2026-11-12T01:16:06.443076+00:00"
         },
         {
@@ -127023,12 +127022,19 @@
           "target_video_id": "30986421",
           "permanent": false,
           "attempted_at": "2026-11-12T02:51:26.974262+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26168894",
+          "target_video_id": "30986421",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:01:27.233370+00:00"
         }
       ],
       "last_plan": {
         "source_id": "26168894",
         "display_name": "Victim/Suspect 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:51:25.234336+00:00"
+        "planned_at": "2026-11-12T04:01:25.414714+00:00"
       },
       "previous_target_id": "30986421",
       "prepared": {
@@ -146707,7 +146713,7 @@
       "last_plan": {
         "source_id": "34696367",
         "display_name": "Roll the Drum (Tambour battant) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:01:22.402593+00:00"
+        "planned_at": "2026-11-12T04:01:25.615690+00:00"
       }
     },
     "21524": {
@@ -198268,5 +198274,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:01:22.402610+00:00"
+  "updated_at": "2026-11-12T04:01:27.233389+00:00"
 }
