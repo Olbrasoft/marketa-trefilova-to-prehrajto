@@ -649,3 +649,4 @@ Attach subtitles only after target processing has finished.
 | Action in the North Atlantic SD CZ Titulky | 30995564 | https://sdilej.cz/20648681/action-in-the-north-atlantic-konvoj-do-murmanska-1943-dvdrip-720x576-mpeg2-audio-en-subtitles-cz.mkv | Extract Czech track from exact source after processing |
 | Responsible Child 1080p CZ Titulky | 30995865 | https://sdilej.cz/18700045/responsible.child.2019.1080p.webrip.titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Western 1080p CZ Titulky | 30996177 | https://sdilej.cz/19486059/hostiles-2017-western-hd-cz-dab-lum.mkv | Extract Czech track from exact source after processing |
+| Ronnie Coleman: The King 1080p CZ Titulky | 30996831 | https://sdilej.cz/11475864/ronnie-coleman-the-king-2018-cz-titulky-1080p-web-x264.mkv | Extract Czech track from exact source after processing |
