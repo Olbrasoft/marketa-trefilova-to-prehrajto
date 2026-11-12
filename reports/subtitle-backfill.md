@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T21:41:34.824125+00:00
+Poslední aktualizace (UTC): 2026-11-12T21:41:36.852188+00:00
 
 Zkontrolováno videí: 672. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 97, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 98, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -145,6 +145,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 104. Důvo
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-10T09:41:08.832188+00:00 |
 | [Starman 1080p CZ Titulky](https://prehraj.to/starman-1080p-cz-titulky-mkv/1f1cd56378c20300) (ID 30978323) | [Sdílej 34237075](https://sdilej.cz/34237075/starman-1984-1080p-bluray-multi-10bit-av1-majo.mkv) | target_unavailable | 2026-11-10T11:52:10.703369+00:00 |
 | [Super 8 720p CZ Titulky](https://prehraj.to/super-8-720p-cz-titulky-mkv/d5cd79cf2c765ab9) (ID 30970243) | [Sdílej 16310205](https://sdilej.cz/16310205/super-8-2011-sci-fi-cz-dab-720p-hd.mkv) | target_unavailable | 2026-11-10T09:50:25.429862+00:00 |
+| [Swiss Army Man 720p CZ Titulky](https://prehraj.to/swiss-army-man-720p-cz-titulky-mkv/10671e3af2c0c0f9) (ID 31006278) | [Sdílej 6507377](https://sdilej.cz/6507377/swiss-army-man-2016-720p-bluray-dts-x264-ceske-titulky.mkv) | target_unavailable | 2026-11-12T21:41:36.793090+00:00 |
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-10T09:39:50.277826+00:00 |
 | [Tenebrae (Tenebre) 1080p CZ Titulky](https://prehraj.to/tenebrae-tenebre-1080p-cz-titulky-mkv/621ba6916f09d5d0) (ID 30985350) | [Sdílej 11416033](https://sdilej.cz/11416033/tenebre-tenebrae-1982-titulky.cz.1080p.mkv) | target_unavailable | 2026-11-10T18:59:36.735572+00:00 |
 | [The Blue Trail (O Último Azul) 1080p CZ Titulky](https://prehraj.to/the-blue-trail-o-ultimo-azul-1080p-cz-titulky-mkv/5344564bd1401e11) (ID 30996874) | [Sdílej 32938361](https://sdilej.cz/32938361/modrou-stezkou-2025-sci-fi-drama-fantasy-cztit-fhd.mkv) | target_unavailable | 2026-11-12T02:12:09.271724+00:00 |
