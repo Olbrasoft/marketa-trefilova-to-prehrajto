@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-12T08:36:33.485357+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-12T09:06:50.349407+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-12T09:36:56.770744+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-12T10:07:01.920479+00:00"
         }
       ],
       "last_plan": {
@@ -259,12 +259,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "57277c8e859e4f54ba3b2f8935c6e0c2-shard-0",
-        "claimed_at": "2026-11-12T10:06:58.746482+00:00",
-        "lease_expires_at": "2026-11-12T16:06:58.746482+00:00",
-        "run_id": "43168766567"
       }
     },
     "24": {
@@ -14203,7 +14197,7 @@
       "last_plan": {
         "source_id": "19346570",
         "display_name": "Erin Brockovich 1080p CZ Titulky",
-        "planned_at": "2026-11-12T09:36:59.083972+00:00"
+        "planned_at": "2026-11-12T10:07:01.254188+00:00"
       },
       "previous_target_id": "30715404",
       "prepared": {
@@ -14211,6 +14205,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-02T03:41:03.364348+00:00",
         "relay_source_id": "19346570"
+      },
+      "claim": {
+        "worker_id": "90f52f9e1efe48fba87032e808503b82-shard-0",
+        "claimed_at": "2026-11-12T10:07:01.662225+00:00",
+        "lease_expires_at": "2026-11-12T16:07:01.662225+00:00",
+        "run_id": "43168766567"
       }
     },
     "880": {
@@ -37447,7 +37447,7 @@
       "last_plan": {
         "source_id": "34237563",
         "display_name": "National Treasure 1080p CZ Titulky",
-        "planned_at": "2026-11-12T10:06:58.664331+00:00"
+        "planned_at": "2026-11-12T10:07:01.457010+00:00"
       }
     },
     "19573": {
@@ -97635,5 +97635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T10:06:58.943343+00:00"
+  "updated_at": "2026-11-12T10:07:01.920497+00:00"
 }
