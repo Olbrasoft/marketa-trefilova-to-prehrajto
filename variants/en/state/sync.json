@@ -34808,6 +34808,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-11T05:26:18.941626+00:00",
         "relay_source_id": "10716193"
+      },
+      "claim": {
+        "worker_id": "488bfd8f5a694ee4a0d23ec5129a366e-shard-0",
+        "claimed_at": "2026-11-12T18:59:05.574937+00:00",
+        "lease_expires_at": "2026-11-13T00:59:05.574937+00:00",
+        "run_id": "43247223099"
       }
     },
     "24625": {
@@ -34893,13 +34899,6 @@
           "source_id": "27648883",
           "target_video_id": "30987757",
           "permanent": false,
-          "attempted_at": "2026-11-12T17:28:41.341258+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27648883",
-          "target_video_id": "30987757",
-          "permanent": false,
           "attempted_at": "2026-11-12T17:58:47.906125+00:00"
         },
         {
@@ -34908,6 +34907,13 @@
           "target_video_id": "30987757",
           "permanent": false,
           "attempted_at": "2026-11-12T18:28:54.804951+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27648883",
+          "target_video_id": "30987757",
+          "permanent": false,
+          "attempted_at": "2026-11-12T18:59:05.486395+00:00"
         }
       ],
       "last_plan": {
@@ -34921,12 +34927,6 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-11T05:56:20.471775+00:00",
         "relay_source_id": "27648883"
-      },
-      "claim": {
-        "worker_id": "8ed760c9978045b48a3bcf3f6936a046-shard-0",
-        "claimed_at": "2026-11-12T18:59:01.361084+00:00",
-        "lease_expires_at": "2026-11-13T00:59:01.361084+00:00",
-        "run_id": "43247223099"
       }
     },
     "2378": {
@@ -35231,7 +35231,7 @@
       "last_plan": {
         "source_id": "26365359",
         "display_name": "The Night of the 12th (La Nuit du 12) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T18:28:57.783713+00:00"
+        "planned_at": "2026-11-12T18:59:06.315426+00:00"
       },
       "previous_target_id": "30988430",
       "prepared": {
@@ -37820,7 +37820,7 @@
       "last_plan": {
         "source_id": "27822278",
         "display_name": "Wonka 4K CZ Titulky",
-        "planned_at": "2026-11-12T18:59:04.205422+00:00"
+        "planned_at": "2026-11-12T18:59:06.506722+00:00"
       }
     },
     "12916": {
@@ -97918,5 +97918,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T18:59:04.205443+00:00"
+  "updated_at": "2026-11-12T18:59:06.506742+00:00"
 }
