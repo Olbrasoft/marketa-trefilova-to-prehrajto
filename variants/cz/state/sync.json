@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:42:58.819803+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:54:02.362373+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-12T13:14:52.173274+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:39:46.465886+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "5870e9db14dd4a9c9f210f55a8ecd060-shard-0",
-        "claimed_at": "2026-11-12T14:39:42.194136+00:00",
-        "lease_expires_at": "2026-11-12T20:39:42.194136+00:00",
-        "run_id": "43208551669"
       }
     },
     "9": {
@@ -77157,7 +77151,7 @@
       "last_plan": {
         "source_id": "31217529",
         "display_name": "Stargate 4K CZ Dabing",
-        "planned_at": "2026-11-12T14:39:41.687815+00:00"
+        "planned_at": "2026-11-12T14:39:45.529478+00:00"
       }
     },
     "2452": {
@@ -81467,7 +81461,7 @@
       "last_plan": {
         "source_id": "29912133",
         "display_name": "If Only SD CZ Dabing",
-        "planned_at": "2026-11-12T13:14:50.038132+00:00"
+        "planned_at": "2026-11-12T14:39:45.196096+00:00"
       },
       "previous_target_id": "30902570",
       "prepared": {
@@ -81475,6 +81469,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-08T00:27:59.502231+00:00",
         "relay_source_id": "29912133"
+      },
+      "claim": {
+        "worker_id": "a5ff31d08b58472d8311e3ee3af3e845-shard-0",
+        "claimed_at": "2026-11-12T14:39:46.070918+00:00",
+        "lease_expires_at": "2026-11-12T20:39:46.070918+00:00",
+        "run_id": "43208551669"
       }
     },
     "19982": {
@@ -198771,5 +198771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:39:43.067898+00:00"
+  "updated_at": "2026-11-12T14:39:46.465905+00:00"
 }
