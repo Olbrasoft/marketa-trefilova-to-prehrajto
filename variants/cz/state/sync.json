@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:24:10.414668+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:58:46.175920+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-12T10:25:55.141346+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:43:30.157091+00:00"
         }
       ],
       "last_plan": {
@@ -109135,7 +109135,7 @@
       "last_plan": {
         "source_id": "24370736",
         "display_name": "Na druhý pohled 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:25:56.851095+00:00"
+        "planned_at": "2026-11-12T12:43:27.915673+00:00"
       },
       "previous_target_id": "30983666",
       "prepared": {
@@ -109143,6 +109143,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:30:29.974007+00:00",
         "relay_source_id": "24370736"
+      },
+      "claim": {
+        "worker_id": "f207d5cab13040efaac429943068dba1-shard-0",
+        "claimed_at": "2026-11-12T12:43:28.775483+00:00",
+        "lease_expires_at": "2026-11-12T18:43:28.775483+00:00",
+        "run_id": "43208551669"
       }
     },
     "24062": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:43:25.369219+00:00"
+        "planned_at": "2026-11-12T12:43:28.258364+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:43:25.369235+00:00"
+  "updated_at": "2026-11-12T12:43:30.157151+00:00"
 }
