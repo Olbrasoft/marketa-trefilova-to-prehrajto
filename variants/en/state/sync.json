@@ -11428,13 +11428,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:35:35.197932+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-12T07:06:24.352549+00:00"
         },
         {
@@ -11443,6 +11436,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-12T07:36:29.315464+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-12T08:06:36.313932+00:00"
         }
       ],
       "last_plan": {
@@ -16560,7 +16560,7 @@
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
-        "planned_at": "2026-11-12T07:36:31.669833+00:00"
+        "planned_at": "2026-11-12T08:06:35.571009+00:00"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -16568,6 +16568,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "b76ebad4dfb048cebd518d8c8403e5c5-shard-0",
+        "claimed_at": "2026-11-12T08:06:35.817539+00:00",
+        "lease_expires_at": "2026-11-12T14:06:35.817539+00:00",
+        "run_id": "43168766567"
       }
     },
     "1209": {
@@ -37400,7 +37406,7 @@
       "last_plan": {
         "source_id": "12223333",
         "display_name": "Mission: Impossible III 1080p CZ Titulky",
-        "planned_at": "2026-11-12T08:06:32.834577+00:00"
+        "planned_at": "2026-11-12T08:06:35.733883+00:00"
       }
     },
     "2716": {
@@ -97603,5 +97609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T08:06:32.834595+00:00"
+  "updated_at": "2026-11-12T08:06:36.313950+00:00"
 }
