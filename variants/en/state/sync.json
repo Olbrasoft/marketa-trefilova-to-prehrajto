@@ -37402,17 +37402,19 @@
       "attempts": []
     },
     "2681": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12223333",
+          "target_video_id": "31000186",
+          "permanent": false,
+          "attempted_at": "2026-11-12T09:49:17.105852+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12223333",
         "display_name": "Mission: Impossible III 1080p CZ Titulky",
         "planned_at": "2026-11-12T08:10:04.194659+00:00"
-      },
-      "claim": {
-        "worker_id": "47dc7d9cab1e4b5d864b8ff76ee869a5-shard-0",
-        "claimed_at": "2026-11-12T08:10:06.436076+00:00",
-        "lease_expires_at": "2026-11-12T14:10:06.436076+00:00",
-        "run_id": "43168766567"
       },
       "previous_target_id": "31000186",
       "prepared": {
@@ -97627,5 +97629,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T09:49:11.887301+00:00"
+  "updated_at": "2026-11-12T09:49:17.105870+00:00"
 }
