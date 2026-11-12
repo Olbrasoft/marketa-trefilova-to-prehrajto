@@ -38148,17 +38148,19 @@
       "attempts": []
     },
     "2575": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26705455",
+          "target_video_id": "31006906",
+          "permanent": false,
+          "attempted_at": "2026-11-12T23:12:24.683963+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26705455",
         "display_name": "Finch 1080p CZ Titulky",
         "planned_at": "2026-11-12T22:56:36.362810+00:00"
-      },
-      "claim": {
-        "worker_id": "c12a97d811204750900e8b60180cdcef-shard-0",
-        "claimed_at": "2026-11-12T22:56:36.930573+00:00",
-        "lease_expires_at": "2026-11-13T04:56:36.930573+00:00",
-        "run_id": "43299526401"
       },
       "previous_target_id": "31006906",
       "prepared": {
@@ -98172,5 +98174,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T23:12:22.938807+00:00"
+  "updated_at": "2026-11-12T23:12:24.683983+00:00"
 }
