@@ -146584,17 +146584,19 @@
       }
     },
     "27336": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26130589",
+          "target_video_id": "30997186",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:00:46.925911+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26130589",
         "display_name": "Elephant (2022) 1080p CZ Dabing",
         "planned_at": "2026-11-12T02:35:58.419503+00:00"
-      },
-      "claim": {
-        "worker_id": "1156ec85ff374808a4ceed4c56074761-shard-0",
-        "claimed_at": "2026-11-12T02:35:58.922924+00:00",
-        "lease_expires_at": "2026-11-12T08:35:58.922924+00:00",
-        "run_id": "43133989396"
       },
       "previous_target_id": "30997186",
       "prepared": {
@@ -198266,5 +198268,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:00:45.564750+00:00"
+  "updated_at": "2026-11-12T04:00:46.925930+00:00"
 }
