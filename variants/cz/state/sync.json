@@ -12818,13 +12818,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:25:39.123680+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:36:29.785903+00:00"
         },
         {
@@ -12833,6 +12826,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-12T02:19:41.917300+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:26:58.998672+00:00"
         }
       ],
       "last_plan": {
@@ -143538,7 +143538,7 @@
       "last_plan": {
         "source_id": "7239474",
         "display_name": "Bílá spona SD CZ Dabing",
-        "planned_at": "2026-11-12T02:19:41.134913+00:00"
+        "planned_at": "2026-11-12T03:26:57.454087+00:00"
       },
       "previous_target_id": "30988750",
       "prepared": {
@@ -143546,6 +143546,12 @@
         "size_bytes": 756000000,
         "prepared_at": "2026-11-11T09:48:19.543124+00:00",
         "relay_source_id": "7239474"
+      },
+      "claim": {
+        "worker_id": "a02ef275e0ca4ee0be91bc03bde00967-shard-0",
+        "claimed_at": "2026-11-12T03:26:57.987412+00:00",
+        "lease_expires_at": "2026-11-12T09:26:57.987412+00:00",
+        "run_id": "43133989396"
       }
     },
     "17569": {
@@ -146645,7 +146651,7 @@
       "last_plan": {
         "source_id": "31103512",
         "display_name": "Barefoot (Po strništi bos) (2017) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:26:55.718956+00:00"
+        "planned_at": "2026-11-12T03:26:57.675632+00:00"
       }
     },
     "17043": {
@@ -198215,5 +198221,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:26:55.718976+00:00"
+  "updated_at": "2026-11-12T03:26:58.998694+00:00"
 }
