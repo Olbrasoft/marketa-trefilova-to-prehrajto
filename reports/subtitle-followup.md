@@ -670,3 +670,4 @@ Attach subtitles only after target processing has finished.
 | Conan the Barbarian (1982) 1080p CZ Titulky | 31005845 | https://sdilej.cz/35402133/conan.the.barbarian.1982.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Green Room 1080p CZ Titulky | 31005872 | https://sdilej.cz/6122354/green-room-2015-titulky.cz-1080p.h264.mkv | Extract Czech track from exact source after processing |
 | Triangle 1080p CZ Titulky | 31006060 | https://sdilej.cz/14629570/triangle-en-vlozene-titulky-2009-thriller-1080p.mkv | Extract Czech track from exact source after processing |
+| Bill & Ted's Excellent Adventure 720p CZ Titulky | 31006119 | https://sdilej.cz/34453030/skvele-dobrodruzstvi-billa-a-teda-1989-komedie-keanu-reeves-cztit.bluray.hd.mkv | Extract Czech track from exact source after processing |
