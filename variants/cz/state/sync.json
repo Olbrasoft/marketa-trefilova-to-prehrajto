@@ -116445,13 +116445,6 @@
           "source_id": "34455392",
           "target_video_id": "30984733",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:43:10.260495+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34455392",
-          "target_video_id": "30984733",
-          "permanent": false,
           "attempted_at": "2026-11-11T23:56:32.364328+00:00"
         },
         {
@@ -116460,6 +116453,13 @@
           "target_video_id": "30984733",
           "permanent": false,
           "attempted_at": "2026-11-12T01:07:29.198375+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34455392",
+          "target_video_id": "30984733",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:48:43.835451+00:00"
         }
       ],
       "last_plan": {
@@ -116473,12 +116473,6 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:26:35.994058+00:00",
         "relay_source_id": "34455392"
-      },
-      "claim": {
-        "worker_id": "1e448ec17f524e7a9c5356de83e7b3d6-shard-0",
-        "claimed_at": "2026-11-12T02:48:41.525410+00:00",
-        "lease_expires_at": "2026-11-12T08:48:41.525410+00:00",
-        "run_id": "43133989396"
       }
     },
     "11240": {
@@ -118217,7 +118211,7 @@
       "last_plan": {
         "source_id": "27866187",
         "display_name": "Great Expectations (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T01:07:32.320788+00:00"
+        "planned_at": "2026-11-12T02:48:43.210639+00:00"
       },
       "previous_target_id": "30984865",
       "prepared": {
@@ -118225,6 +118219,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T17:58:08.493272+00:00",
         "relay_source_id": "27866187"
+      },
+      "claim": {
+        "worker_id": "72b85ce7d1c949e085a18fcaa776f79b-shard-0",
+        "claimed_at": "2026-11-12T02:48:43.672197+00:00",
+        "lease_expires_at": "2026-11-12T08:48:43.672197+00:00",
+        "run_id": "43133989396"
       }
     },
     "2985": {
@@ -146590,7 +146590,7 @@
       "last_plan": {
         "source_id": "30819135",
         "display_name": "Les Bois maudits SD CZ Dabing",
-        "planned_at": "2026-11-12T02:48:41.275451+00:00"
+        "planned_at": "2026-11-12T02:48:43.416967+00:00"
       }
     },
     "17662": {
@@ -198169,5 +198169,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:48:41.695223+00:00"
+  "updated_at": "2026-11-12T02:48:43.835468+00:00"
 }
