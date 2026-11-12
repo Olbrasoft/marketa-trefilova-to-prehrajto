@@ -118434,6 +118434,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "320a2079d76a44d48478db2ccbf7fe40-shard-0",
+        "claimed_at": "2026-11-12T22:56:25.721272+00:00",
+        "lease_expires_at": "2026-11-13T04:56:25.721272+00:00",
+        "run_id": "43299526401"
       }
     },
     "12374": {
@@ -120182,13 +120188,6 @@
           "source_id": "25263125",
           "target_video_id": "30985003",
           "permanent": false,
-          "attempted_at": "2026-11-12T18:27:36.602161+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25263125",
-          "target_video_id": "30985003",
-          "permanent": false,
           "attempted_at": "2026-11-12T19:43:49.626444+00:00"
         },
         {
@@ -120197,12 +120196,19 @@
           "target_video_id": "30985003",
           "permanent": false,
           "attempted_at": "2026-11-12T21:49:57.287041+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25263125",
+          "target_video_id": "30985003",
+          "permanent": false,
+          "attempted_at": "2026-11-12T22:56:28.554403+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25263125",
         "display_name": "Bleed for This 1080p CZ Dabing",
-        "planned_at": "2026-11-12T21:49:55.287124+00:00"
+        "planned_at": "2026-11-12T22:56:26.058688+00:00"
       },
       "previous_target_id": "30985003",
       "prepared": {
@@ -198815,10 +198821,10 @@
       "last_plan": {
         "source_id": "34710859",
         "display_name": "Nazis at Nuremberg: The Lost Testimony 1080p CZ Dabing",
-        "planned_at": "2026-11-12T22:56:23.814248+00:00"
+        "planned_at": "2026-11-12T22:56:26.346044+00:00"
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T22:56:23.814266+00:00"
+  "updated_at": "2026-11-12T22:56:28.554420+00:00"
 }
