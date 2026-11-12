@@ -8635,6 +8635,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-10-30T10:45:50.836354+00:00",
         "relay_source_id": "17777440"
+      },
+      "claim": {
+        "worker_id": "26ad82384e09413fa840be4f779e5134-shard-0",
+        "claimed_at": "2026-11-12T04:39:27.644004+00:00",
+        "lease_expires_at": "2026-11-12T10:39:27.644004+00:00",
+        "run_id": "43133989396"
       }
     },
     "21873": {
@@ -104063,17 +104069,19 @@
       }
     },
     "16599": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33298928",
+          "target_video_id": "30998350",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:39:29.195404+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33298928",
         "display_name": "Pavane: For A Dead Princess (파반느) 1080p CZ Dabing",
         "planned_at": "2026-11-12T04:20:35.965628+00:00"
-      },
-      "claim": {
-        "worker_id": "29a10b1d5b7b4424a9dcc14a2026fb14-shard-0",
-        "claimed_at": "2026-11-12T04:20:36.543081+00:00",
-        "lease_expires_at": "2026-11-12T10:20:36.543081+00:00",
-        "run_id": "43133989396"
       },
       "previous_target_id": "30998350",
       "prepared": {
@@ -114855,7 +114863,7 @@
       "last_plan": {
         "source_id": "28364650",
         "display_name": "Jay and Silent Bob Strike Back 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:27:28.050336+00:00"
+        "planned_at": "2026-11-12T04:39:27.805986+00:00"
       },
       "previous_target_id": "30984531",
       "prepared": {
@@ -114863,6 +114871,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T16:42:37.453998+00:00",
         "relay_source_id": "28364650"
+      },
+      "claim": {
+        "worker_id": "dc70d9e77d3e4f98b93896967dea4d22-shard-0",
+        "claimed_at": "2026-11-12T04:39:28.291371+00:00",
+        "lease_expires_at": "2026-11-12T10:39:28.291371+00:00",
+        "run_id": "43133989396"
       }
     },
     "2818": {
@@ -146800,7 +146814,7 @@
       "last_plan": {
         "source_id": "32413714",
         "display_name": "Diagnosis of Death (Diagnóza smrti) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:39:25.822737+00:00"
+        "planned_at": "2026-11-12T04:39:28.007016+00:00"
       }
     },
     "29748": {
@@ -198340,5 +198354,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:39:25.822758+00:00"
+  "updated_at": "2026-11-12T04:39:29.195423+00:00"
 }
