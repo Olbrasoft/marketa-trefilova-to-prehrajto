@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-12T12:30:01.107621+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-12T13:00:13.784844+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-12T13:30:24.162733+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:01:51.376823+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "31281dad9fe94d3c97acbf853f4665f4-shard-0",
-        "claimed_at": "2026-11-12T14:01:45.831912+00:00",
-        "lease_expires_at": "2026-11-12T20:01:45.831912+00:00",
-        "run_id": "43208551669"
       }
     },
     "21690": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-12T13:30:20.535426+00:00"
+        "planned_at": "2026-11-12T14:01:49.334553+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "f913b9b923194ed39d65d331c6f28185-shard-0",
+        "claimed_at": "2026-11-12T14:01:49.656010+00:00",
+        "lease_expires_at": "2026-11-12T20:01:49.656010+00:00",
+        "run_id": "43208551669"
       }
     },
     "31551": {
@@ -37622,7 +37622,7 @@
       "last_plan": {
         "source_id": "30783542",
         "display_name": "Clueless 1080p CZ Titulky",
-        "planned_at": "2026-11-12T14:01:45.650047+00:00"
+        "planned_at": "2026-11-12T14:01:49.546821+00:00"
       }
     },
     "2740": {
@@ -97762,5 +97762,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:01:46.355650+00:00"
+  "updated_at": "2026-11-12T14:01:51.376837+00:00"
 }
