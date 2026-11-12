@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-12T10:05:45.801281+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:27:50.185012+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-12T11:58:02.481499+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:28:11.335723+00:00"
         }
       ],
       "last_plan": {
@@ -35176,7 +35176,7 @@
       "last_plan": {
         "source_id": "9657833",
         "display_name": "The Place SD CZ Titulky",
-        "planned_at": "2026-11-12T11:58:00.750885+00:00"
+        "planned_at": "2026-11-12T12:28:09.958197+00:00"
       },
       "previous_target_id": "30988255",
       "prepared": {
@@ -35184,6 +35184,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:59:47.278610+00:00",
         "relay_source_id": "9657833"
+      },
+      "claim": {
+        "worker_id": "2b460fc3205e4ff68c77549c48bdcde2-shard-0",
+        "claimed_at": "2026-11-12T12:28:10.273953+00:00",
+        "lease_expires_at": "2026-11-12T18:28:10.273953+00:00",
+        "run_id": "43208551669"
       }
     },
     "25179": {
@@ -37557,7 +37563,7 @@
       "last_plan": {
         "source_id": "35003134",
         "display_name": "Paul 1080p CZ Titulky",
-        "planned_at": "2026-11-12T12:28:07.377524+00:00"
+        "planned_at": "2026-11-12T12:28:10.169611+00:00"
       }
     },
     "2652": {
@@ -97708,5 +97714,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:28:07.377541+00:00"
+  "updated_at": "2026-11-12T12:28:11.335740+00:00"
 }
