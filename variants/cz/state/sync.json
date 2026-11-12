@@ -112635,6 +112635,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T15:06:52.143201+00:00",
         "relay_source_id": "29707305"
+      },
+      "claim": {
+        "worker_id": "cb246915275448be831ef5bb28af830a-shard-0",
+        "claimed_at": "2026-11-12T13:02:58.903739+00:00",
+        "lease_expires_at": "2026-11-12T19:02:58.903739+00:00",
+        "run_id": "43208551669"
       }
     },
     "36907": {
@@ -122108,13 +122114,6 @@
           "source_id": "5498626",
           "target_video_id": "30985443",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:48:41.294166+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "5498626",
-          "target_video_id": "30985443",
-          "permanent": false,
           "attempted_at": "2026-11-12T09:23:58.666134+00:00"
         },
         {
@@ -122123,6 +122122,13 @@
           "target_video_id": "30985443",
           "permanent": false,
           "attempted_at": "2026-11-12T11:42:04.453881+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5498626",
+          "target_video_id": "30985443",
+          "permanent": false,
+          "attempted_at": "2026-11-12T13:02:59.099638+00:00"
         }
       ],
       "last_plan": {
@@ -122136,12 +122142,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T19:20:22.937945+00:00",
         "relay_source_id": "5498626"
-      },
-      "claim": {
-        "worker_id": "31c1cacbb08748398a7ef02f9ed404b4-shard-0",
-        "claimed_at": "2026-11-12T13:02:55.598004+00:00",
-        "lease_expires_at": "2026-11-12T19:02:55.598004+00:00",
-        "run_id": "43208551669"
       }
     },
     "2961": {
@@ -134985,7 +134985,7 @@
       "last_plan": {
         "source_id": "24800590",
         "display_name": "O princezně, která ráčkovala 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:42:15.297063+00:00"
+        "planned_at": "2026-11-12T13:03:01.229790+00:00"
       },
       "previous_target_id": "30987566",
       "prepared": {
@@ -140890,7 +140890,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T13:02:56.179085+00:00"
+        "planned_at": "2026-11-12T13:03:01.621241+00:00"
       }
     },
     "33433": {
@@ -198706,5 +198706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T13:02:56.518531+00:00"
+  "updated_at": "2026-11-12T13:03:01.621260+00:00"
 }
