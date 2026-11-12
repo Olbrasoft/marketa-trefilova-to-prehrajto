@@ -672,3 +672,4 @@ Attach subtitles only after target processing has finished.
 | Triangle 1080p CZ Titulky | 31006060 | https://sdilej.cz/14629570/triangle-en-vlozene-titulky-2009-thriller-1080p.mkv | Extract Czech track from exact source after processing |
 | Bill & Ted's Excellent Adventure 720p CZ Titulky | 31006119 | https://sdilej.cz/34453030/skvele-dobrodruzstvi-billa-a-teda-1989-komedie-keanu-reeves-cztit.bluray.hd.mkv | Extract Czech track from exact source after processing |
 | Swiss Army Man 720p CZ Titulky | 31006278 | https://sdilej.cz/6507377/swiss-army-man-2016-720p-bluray-dts-x264-ceske-titulky.mkv | Extract Czech track from exact source after processing |
+| Clear and Present Danger 1080p CZ Titulky | 31006506 | https://sdilej.cz/29946984/jasne-nebezpeci-1994-en-cs-pl-en-cs-pl-816p23.976-.mkv | Extract Czech track from exact source after processing |
