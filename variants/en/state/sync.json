@@ -37933,17 +37933,19 @@
       }
     },
     "26597": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14629570",
+          "target_video_id": "31006060",
+          "permanent": false,
+          "attempted_at": "2026-11-12T21:29:44.111303+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14629570",
         "display_name": "Triangle 1080p CZ Titulky",
         "planned_at": "2026-11-12T21:05:46.630553+00:00"
-      },
-      "claim": {
-        "worker_id": "b6205dc4fe4e432f99181144086b8e3b-shard-0",
-        "claimed_at": "2026-11-12T21:05:46.970731+00:00",
-        "lease_expires_at": "2026-11-13T03:05:46.970731+00:00",
-        "run_id": "43299526401"
       },
       "previous_target_id": "31006060",
       "prepared": {
@@ -98035,5 +98037,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T21:29:40.409645+00:00"
+  "updated_at": "2026-11-12T21:29:44.111321+00:00"
 }
