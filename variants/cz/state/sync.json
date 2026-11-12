@@ -8558,6 +8558,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "19e2d0c3ba1741b89a2d9f41417a6ae2-shard-0",
+        "claimed_at": "2026-11-12T07:12:19.926971+00:00",
+        "lease_expires_at": "2026-11-12T13:12:19.926971+00:00",
+        "run_id": "43168766567"
       }
     },
     "29922": {
@@ -127682,13 +127688,6 @@
           "source_id": "14705539",
           "target_video_id": "30986601",
           "permanent": false,
-          "attempted_at": "2026-11-12T03:00:39.033102+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14705539",
-          "target_video_id": "30986601",
-          "permanent": false,
           "attempted_at": "2026-11-12T04:11:12.489634+00:00"
         },
         {
@@ -127697,12 +127696,19 @@
           "target_video_id": "30986601",
           "permanent": false,
           "attempted_at": "2026-11-12T05:23:52.573696+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14705539",
+          "target_video_id": "30986601",
+          "permanent": false,
+          "attempted_at": "2026-11-12T07:12:23.277091+00:00"
         }
       ],
       "last_plan": {
         "source_id": "14705539",
         "display_name": "Valan: Valley of Angels (Valan - Az angyalok völgye) 720p CZ Dabing",
-        "planned_at": "2026-11-12T05:23:50.853816+00:00"
+        "planned_at": "2026-11-12T07:12:20.236347+00:00"
       },
       "previous_target_id": "30986601",
       "prepared": {
@@ -147049,7 +147055,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-12T07:12:17.453433+00:00"
+        "planned_at": "2026-11-12T07:12:20.512909+00:00"
       }
     },
     "12316": {
@@ -198553,5 +198559,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T07:12:17.690689+00:00"
+  "updated_at": "2026-11-12T07:12:23.277110+00:00"
 }
