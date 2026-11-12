@@ -38598,7 +38598,7 @@
       "last_plan": {
         "source_id": "34457513",
         "display_name": "Raid 1080p CZ Dabing",
-        "planned_at": "2026-11-12T07:22:38.363790+00:00"
+        "planned_at": "2026-11-12T07:22:41.084558+00:00"
       }
     },
     "30096": {
@@ -120852,7 +120852,7 @@
       "last_plan": {
         "source_id": "33745590",
         "display_name": "Quick Change 1080p CZ Dabing",
-        "planned_at": "2026-11-12T05:37:06.421662+00:00"
+        "planned_at": "2026-11-12T07:22:40.818262+00:00"
       },
       "previous_target_id": "30985055",
       "prepared": {
@@ -120860,6 +120860,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T18:42:19.166641+00:00",
         "relay_source_id": "33745590"
+      },
+      "claim": {
+        "worker_id": "6303d501b8f24030a8b20e9588fa703b-shard-0",
+        "claimed_at": "2026-11-12T07:22:41.652482+00:00",
+        "lease_expires_at": "2026-11-12T13:22:41.652482+00:00",
+        "run_id": "43168766567"
       }
     },
     "13361": {
@@ -121670,13 +121676,6 @@
           "source_id": "30988446",
           "target_video_id": "30985416",
           "permanent": false,
-          "attempted_at": "2026-11-12T03:11:57.295918+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30988446",
-          "target_video_id": "30985416",
-          "permanent": false,
           "attempted_at": "2026-11-12T04:19:06.600937+00:00"
         },
         {
@@ -121685,6 +121684,13 @@
           "target_video_id": "30985416",
           "permanent": false,
           "attempted_at": "2026-11-12T05:37:04.916407+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30988446",
+          "target_video_id": "30985416",
+          "permanent": false,
+          "attempted_at": "2026-11-12T07:22:41.488053+00:00"
         }
       ],
       "last_plan": {
@@ -121698,12 +121704,6 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T19:10:28.363748+00:00",
         "relay_source_id": "30988446"
-      },
-      "claim": {
-        "worker_id": "cdb00e5f13994ef295a4ff95199b31e9-shard-0",
-        "claimed_at": "2026-11-12T07:22:38.944464+00:00",
-        "lease_expires_at": "2026-11-12T13:22:38.944464+00:00",
-        "run_id": "43168766567"
       }
     },
     "2943": {
@@ -198564,5 +198564,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T07:22:38.944488+00:00"
+  "updated_at": "2026-11-12T07:22:41.652504+00:00"
 }
