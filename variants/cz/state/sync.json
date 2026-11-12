@@ -126438,7 +126438,7 @@
       "last_plan": {
         "source_id": "28796138",
         "display_name": "Standing Up SD CZ Dabing",
-        "planned_at": "2026-11-12T02:56:54.167164+00:00"
+        "planned_at": "2026-11-12T04:07:16.190551+00:00"
       },
       "previous_target_id": "30986272",
       "prepared": {
@@ -126446,6 +126446,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T23:50:50.445609+00:00",
         "relay_source_id": "28796138"
+      },
+      "claim": {
+        "worker_id": "52f8740f44c64d8293f94715eeb8a835-shard-0",
+        "claimed_at": "2026-11-12T04:07:16.680728+00:00",
+        "lease_expires_at": "2026-11-12T10:07:16.680728+00:00",
+        "run_id": "43133989396"
       }
     },
     "22932": {
@@ -146616,17 +146622,23 @@
           "attempted_at": "2026-11-12T02:56:52.008020+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30819135",
-        "display_name": "Les Bois maudits SD CZ Dabing",
-        "planned_at": "2026-11-12T04:07:14.101570+00:00"
-      },
       "previous_target_id": "30997285",
-      "prepared": {
+      "upload": {
         "target_video_id": "30997285",
-        "size_bytes": 960622153,
-        "prepared_at": "2026-11-12T02:50:18.393874+00:00",
-        "relay_source_id": "30819135"
+        "display_name": "Les Bois maudits SD CZ Dabing",
+        "source_id": "30819135",
+        "source_url": "https://sdilej.cz/30819135/stiny-smrti-proklety-les-krimi.fr.b.2021.tvrip.cz.mkv",
+        "source_filename": "Stíny smrti - Prokletý les - krimi.Fr.B.2021.TVRip.CZ.mkv",
+        "size_bytes": 960600000,
+        "width": 960,
+        "height": 540,
+        "audio_language": "cs",
+        "language_probability": 0.9045113921165466,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/les-bois-maudits-sd-cz-dabing-mkv/3d0e522c6e6dd8b1",
+        "uploaded_at": "2026-11-12T04:07:17.157020+00:00"
       }
     },
     "17662": {
@@ -146739,7 +146751,7 @@
       "last_plan": {
         "source_id": "34866162",
         "display_name": "Talks with TGM (Hovory s TGM) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:07:14.323590+00:00"
+        "planned_at": "2026-11-12T04:07:16.406850+00:00"
       }
     },
     "29234": {
@@ -198288,5 +198300,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:07:14.323609+00:00"
+  "updated_at": "2026-11-12T04:07:17.157036+00:00"
 }
