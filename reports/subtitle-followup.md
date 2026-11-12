@@ -671,3 +671,4 @@ Attach subtitles only after target processing has finished.
 | Green Room 1080p CZ Titulky | 31005872 | https://sdilej.cz/6122354/green-room-2015-titulky.cz-1080p.h264.mkv | Extract Czech track from exact source after processing |
 | Triangle 1080p CZ Titulky | 31006060 | https://sdilej.cz/14629570/triangle-en-vlozene-titulky-2009-thriller-1080p.mkv | Extract Czech track from exact source after processing |
 | Bill & Ted's Excellent Adventure 720p CZ Titulky | 31006119 | https://sdilej.cz/34453030/skvele-dobrodruzstvi-billa-a-teda-1989-komedie-keanu-reeves-cztit.bluray.hd.mkv | Extract Czech track from exact source after processing |
+| Swiss Army Man 720p CZ Titulky | 31006278 | https://sdilej.cz/6507377/swiss-army-man-2016-720p-bluray-dts-x264-ceske-titulky.mkv | Extract Czech track from exact source after processing |
