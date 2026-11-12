@@ -132874,13 +132874,6 @@
           "source_id": "32876939",
           "target_video_id": "30987247",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:41:19.587787+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32876939",
-          "target_video_id": "30987247",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:07:12.654676+00:00"
         },
         {
@@ -132889,6 +132882,13 @@
           "target_video_id": "30987247",
           "permanent": false,
           "attempted_at": "2026-11-12T09:46:47.422532+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32876939",
+          "target_video_id": "30987247",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:00:12.330631+00:00"
         }
       ],
       "last_plan": {
@@ -140876,7 +140876,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:00:02.317193+00:00"
+        "planned_at": "2026-11-12T12:00:05.681868+00:00"
       }
     },
     "33433": {
@@ -141020,7 +141020,7 @@
       "last_plan": {
         "source_id": "34693961",
         "display_name": "S písní v tísni 1080p CZ Dabing",
-        "planned_at": "2026-11-12T09:46:50.950899+00:00"
+        "planned_at": "2026-11-12T12:00:05.341757+00:00"
       },
       "previous_target_id": "30988228",
       "prepared": {
@@ -141028,6 +141028,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:55:40.231369+00:00",
         "relay_source_id": "34693961"
+      },
+      "claim": {
+        "worker_id": "68b49802d49946679bf2eb8c54381161-shard-0",
+        "claimed_at": "2026-11-12T12:00:06.116710+00:00",
+        "lease_expires_at": "2026-11-12T18:00:06.116710+00:00",
+        "run_id": "43208551669"
       }
     },
     "15440": {
@@ -198692,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:00:02.794496+00:00"
+  "updated_at": "2026-11-12T12:00:12.330646+00:00"
 }
