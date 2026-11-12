@@ -34713,13 +34713,6 @@
           "source_id": "16607977",
           "target_video_id": "30987463",
           "permanent": false,
-          "attempted_at": "2026-11-12T14:29:30.319697+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16607977",
-          "target_video_id": "30987463",
-          "permanent": false,
           "attempted_at": "2026-11-12T14:59:38.511849+00:00"
         },
         {
@@ -34728,6 +34721,13 @@
           "target_video_id": "30987463",
           "permanent": false,
           "attempted_at": "2026-11-12T15:57:50.684943+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16607977",
+          "target_video_id": "30987463",
+          "permanent": false,
+          "attempted_at": "2026-11-12T16:27:57.601766+00:00"
         }
       ],
       "last_plan": {
@@ -35393,7 +35393,7 @@
       "last_plan": {
         "source_id": "23240065",
         "display_name": "Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T15:57:48.643177+00:00"
+        "planned_at": "2026-11-12T16:27:56.745165+00:00"
       },
       "previous_target_id": "30988745",
       "prepared": {
@@ -35401,6 +35401,12 @@
         "size_bytes": 8199999999,
         "prepared_at": "2026-11-11T09:46:13.396689+00:00",
         "relay_source_id": "23240065"
+      },
+      "claim": {
+        "worker_id": "28f8932f631b4702ad9a6ae964321105-shard-0",
+        "claimed_at": "2026-11-12T16:27:57.021606+00:00",
+        "lease_expires_at": "2026-11-12T22:27:57.021606+00:00",
+        "run_id": "43247223099"
       }
     },
     "12662": {
@@ -37744,7 +37750,7 @@
       "last_plan": {
         "source_id": "33588201",
         "display_name": "Rocky III 1080p CZ Titulky",
-        "planned_at": "2026-11-12T16:27:54.216312+00:00"
+        "planned_at": "2026-11-12T16:27:56.932319+00:00"
       }
     },
     "2712": {
@@ -97859,5 +97865,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T16:27:54.216330+00:00"
+  "updated_at": "2026-11-12T16:27:57.601786+00:00"
 }
