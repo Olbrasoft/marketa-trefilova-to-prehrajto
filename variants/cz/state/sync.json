@@ -63567,13 +63567,6 @@
           "source_id": "34095247",
           "target_video_id": "30817480",
           "permanent": false,
-          "attempted_at": "2026-11-12T11:51:36.430518+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34095247",
-          "target_video_id": "30817480",
-          "permanent": false,
           "attempted_at": "2026-11-12T13:12:21.653448+00:00"
         },
         {
@@ -63582,6 +63575,13 @@
           "target_video_id": "30817480",
           "permanent": false,
           "attempted_at": "2026-11-12T14:37:07.441232+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34095247",
+          "target_video_id": "30817480",
+          "permanent": false,
+          "attempted_at": "2026-11-12T16:33:54.631877+00:00"
         }
       ],
       "last_plan": {
@@ -104885,7 +104885,7 @@
       "last_plan": {
         "source_id": "35108649",
         "display_name": "End of a Priest (Farářův konec) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T16:33:50.564182+00:00"
+        "planned_at": "2026-11-12T16:33:53.525327+00:00"
       }
     },
     "21705": {
@@ -134081,7 +134081,7 @@
       "last_plan": {
         "source_id": "25777021",
         "display_name": "Every Million Comes Handy (Každý milion dobrý) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T14:37:08.148041+00:00"
+        "planned_at": "2026-11-12T16:33:53.209232+00:00"
       },
       "previous_target_id": "30987424",
       "prepared": {
@@ -134089,6 +134089,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T04:37:43.304180+00:00",
         "relay_source_id": "25777021"
+      },
+      "claim": {
+        "worker_id": "3bb3abb5a0a44ed093c5b1288142ca10-shard-0",
+        "claimed_at": "2026-11-12T16:33:54.003902+00:00",
+        "lease_expires_at": "2026-11-12T22:33:54.003902+00:00",
+        "run_id": "43247223099"
       }
     },
     "16650": {
@@ -198793,5 +198799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T16:33:50.564203+00:00"
+  "updated_at": "2026-11-12T16:33:54.631897+00:00"
 }
