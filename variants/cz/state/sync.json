@@ -94791,6 +94791,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-09T16:20:55.463432+00:00",
         "relay_source_id": "27708681"
+      },
+      "claim": {
+        "worker_id": "f20be04024a34c50bfa4b22365ba8a02-shard-0",
+        "claimed_at": "2026-11-12T06:39:36.074582+00:00",
+        "lease_expires_at": "2026-11-12T12:39:36.074582+00:00",
+        "run_id": "43168766567"
       }
     },
     "2577": {
@@ -119395,7 +119401,7 @@
       "last_plan": {
         "source_id": "24662573",
         "display_name": "Vengeance (2022) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:52:54.081932+00:00"
+        "planned_at": "2026-11-12T06:39:36.277235+00:00"
       },
       "previous_target_id": "30984966",
       "prepared": {
@@ -119403,6 +119409,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T18:21:55.359609+00:00",
         "relay_source_id": "24662573"
+      },
+      "claim": {
+        "worker_id": "459de38fd45c4d5caeaaeae8a7858055-shard-0",
+        "claimed_at": "2026-11-12T06:39:36.912687+00:00",
+        "lease_expires_at": "2026-11-12T12:39:36.912687+00:00",
+        "run_id": "43168766567"
       }
     },
     "24127": {
@@ -146957,17 +146969,19 @@
       }
     },
     "17038": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29231328",
+          "target_video_id": "30999373",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:39:37.151669+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29231328",
         "display_name": "Murder on Aix Island (Les Mystères de l'île) SD CZ Dabing",
         "planned_at": "2026-11-12T06:33:26.311769+00:00"
-      },
-      "claim": {
-        "worker_id": "7263d0e22cda42b0aad6ef7f14c3c5ec-shard-0",
-        "claimed_at": "2026-11-12T06:33:27.428423+00:00",
-        "lease_expires_at": "2026-11-12T12:33:27.428423+00:00",
-        "run_id": "43168766567"
       },
       "previous_target_id": "30999373",
       "prepared": {
@@ -146982,7 +146996,7 @@
       "last_plan": {
         "source_id": "12863543",
         "display_name": "Taxi 121 SD CZ Dabing",
-        "planned_at": "2026-11-12T06:39:34.475441+00:00"
+        "planned_at": "2026-11-12T06:39:36.572706+00:00"
       }
     },
     "28088": {
@@ -198497,5 +198511,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T06:39:34.475458+00:00"
+  "updated_at": "2026-11-12T06:39:37.151688+00:00"
 }
