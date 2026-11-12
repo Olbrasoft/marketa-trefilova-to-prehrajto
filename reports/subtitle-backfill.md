@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T23:11:48.085196+00:00
+Poslední aktualizace (UTC): 2026-11-12T23:11:49.793456+00:00
 
 Zkontrolováno videí: 675. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 100, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 101, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -143,6 +143,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 110. Důvo
 | [Sanctuary (Freistatt) 720p CZ Titulky](https://prehraj.to/sanctuary-freistatt-720p-cz-titulky-mkv/23e2e67faa47d345) (ID 30986677) | [Sdílej 6556256](https://sdilej.cz/6556256/freistatt-sanctuary-2015-.720p.brrip.xvid.ac3.2.0-ceske-titulky.mkv) | target_unavailable | 2026-11-11T01:32:25.152784+00:00 |
 | [Sayonara 1080p CZ Titulky](https://prehraj.to/sayonara-1080p-cz-titulky-mkv/d28553733dbbab0f) (ID 30990118) | [Sdílej 34273318](https://sdilej.cz/34273318/sayonara-1957-bdrip-hd-1080p-h264-ita-eng-cze-ac3-armor-.mkv) | target_unavailable | 2026-11-11T13:08:15.794158+00:00 |
 | [Skyking (#SKYKING) 1080p CZ Titulky](https://prehraj.to/skyking-skyking-1080p-cz-titulky-mkv/f146a58059f0f6dc) (ID 30987918) | [Sdílej 34014919](https://sdilej.cz/34014919/skyking.2026.sk.titulky.1080p.mkv) | target_unavailable | 2026-11-11T06:48:07.231650+00:00 |
+| [Sorry to Bother You 1080p CZ Titulky](https://prehraj.to/sorry-to-bother-you-1080p-cz-titulky-mkv/daedc2ae52062479) (ID 31006990) | [Sdílej 10716193](https://sdilej.cz/10716193/sorry-to-bother-you-cz-titulky-fullhd-1080p.mkv) | target_unavailable | 2026-11-12T23:11:49.787012+00:00 |
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-10T09:40:52.480829+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-10T09:41:08.832188+00:00 |
 | [Starman 1080p CZ Titulky](https://prehraj.to/starman-1080p-cz-titulky-mkv/1f1cd56378c20300) (ID 30978323) | [Sdílej 34237075](https://sdilej.cz/34237075/starman-1984-1080p-bluray-multi-10bit-av1-majo.mkv) | target_unavailable | 2026-11-10T11:52:10.703369+00:00 |
