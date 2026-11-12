@@ -77151,7 +77151,7 @@
       "last_plan": {
         "source_id": "31217529",
         "display_name": "Stargate 4K CZ Dabing",
-        "planned_at": "2026-11-12T14:33:05.882562+00:00"
+        "planned_at": "2026-11-12T14:33:09.072738+00:00"
       }
     },
     "2452": {
@@ -122225,7 +122225,7 @@
       "last_plan": {
         "source_id": "12796812",
         "display_name": "T-34 (Т-34) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T13:08:39.739878+00:00"
+        "planned_at": "2026-11-12T14:33:08.734365+00:00"
       },
       "previous_target_id": "30985447",
       "prepared": {
@@ -122233,6 +122233,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-10T19:21:11.920073+00:00",
         "relay_source_id": "12796812"
+      },
+      "claim": {
+        "worker_id": "878bb61a1f204bc3be5294640c97fd32-shard-0",
+        "claimed_at": "2026-11-12T14:33:09.709786+00:00",
+        "lease_expires_at": "2026-11-12T20:33:09.709786+00:00",
+        "run_id": "43208551669"
       }
     },
     "23448": {
@@ -123767,13 +123773,6 @@
           "source_id": "32499158",
           "target_video_id": "30985645",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:30:56.322265+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32499158",
-          "target_video_id": "30985645",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:47:58.028992+00:00"
         },
         {
@@ -123782,6 +123781,13 @@
           "target_video_id": "30985645",
           "permanent": false,
           "attempted_at": "2026-11-12T13:08:39.179850+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32499158",
+          "target_video_id": "30985645",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:33:10.375440+00:00"
         }
       ],
       "last_plan": {
@@ -198765,5 +198771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:33:06.159200+00:00"
+  "updated_at": "2026-11-12T14:33:10.375456+00:00"
 }
