@@ -3118,7 +3118,7 @@
       "last_plan": {
         "source_id": "33590630",
         "display_name": "Ran (乱) SD",
-        "planned_at": "2026-11-12T10:10:27.825305+00:00"
+        "planned_at": "2026-11-12T11:29:48.764687+00:00"
       },
       "previous_target_id": "30612365",
       "prepared": {
@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "67cbbfd6c4544635998375322280516f-shard-0",
+        "claimed_at": "2026-11-12T11:29:49.081961+00:00",
+        "lease_expires_at": "2026-11-12T17:29:49.081961+00:00",
+        "run_id": "43208551669"
       }
     },
     "21312": {
@@ -37366,17 +37372,23 @@
           "attempted_at": "2026-11-12T10:08:59.290747+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "24604994",
-        "display_name": "Iron Man 2 1080p CZ Titulky",
-        "planned_at": "2026-11-12T11:29:46.017298+00:00"
-      },
       "previous_target_id": "31000126",
-      "prepared": {
+      "upload": {
         "target_video_id": "31000126",
-        "size_bytes": 17379942954,
-        "prepared_at": "2026-11-12T08:02:52.041835+00:00",
-        "relay_source_id": "24604994"
+        "display_name": "Iron Man 2 1080p CZ Titulky",
+        "source_id": "24604994",
+        "source_url": "https://sdilej.cz/24604994/05-marvel-iron-man-2-2010-cz.mkv",
+        "source_filename": "05_MARVEL_Iron_Man_2_2010_CZ.mkv",
+        "size_bytes": 17400000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "en",
+        "language_probability": 0.9882779717445374,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/iron-man-2-1080p-cz-titulky-mkv/a7aa04a1c5e5391b",
+        "uploaded_at": "2026-11-12T11:29:49.246537+00:00"
       }
     },
     "2607": {
@@ -37509,7 +37521,7 @@
       "last_plan": {
         "source_id": "19665397",
         "display_name": "Ice Age: Dawn of the Dinosaurs 1080p CZ Titulky",
-        "planned_at": "2026-11-12T11:29:46.226817+00:00"
+        "planned_at": "2026-11-12T11:29:48.977441+00:00"
       }
     },
     "2707": {
@@ -97668,5 +97680,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:29:46.226834+00:00"
+  "updated_at": "2026-11-12T11:29:49.246550+00:00"
 }
