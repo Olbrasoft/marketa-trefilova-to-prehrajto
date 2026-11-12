@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-12T16:58:49.756994+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-12T17:28:56.833399+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-12T17:59:01.983614+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-12T18:29:10.417515+00:00"
         }
       ],
       "last_plan": {
@@ -35176,7 +35176,7 @@
       "last_plan": {
         "source_id": "9657833",
         "display_name": "The Place SD CZ Titulky",
-        "planned_at": "2026-11-12T17:59:04.451579+00:00"
+        "planned_at": "2026-11-12T18:29:09.351413+00:00"
       },
       "previous_target_id": "30988255",
       "prepared": {
@@ -35184,6 +35184,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:59:47.278610+00:00",
         "relay_source_id": "9657833"
+      },
+      "claim": {
+        "worker_id": "81920e09085d41bd89aa4fe077645321-shard-0",
+        "claimed_at": "2026-11-12T18:29:09.660323+00:00",
+        "lease_expires_at": "2026-11-13T00:29:09.660323+00:00",
+        "run_id": "43247223099"
       }
     },
     "25179": {
@@ -37805,7 +37811,7 @@
       "last_plan": {
         "source_id": "27822278",
         "display_name": "Wonka 4K CZ Titulky",
-        "planned_at": "2026-11-12T18:29:06.615958+00:00"
+        "planned_at": "2026-11-12T18:29:09.548724+00:00"
       }
     },
     "12916": {
@@ -97903,5 +97909,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T18:29:06.615979+00:00"
+  "updated_at": "2026-11-12T18:29:10.417535+00:00"
 }
