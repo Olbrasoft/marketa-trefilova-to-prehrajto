@@ -106902,13 +106902,6 @@
           "source_id": "34709346",
           "target_video_id": "30983103",
           "permanent": false,
-          "attempted_at": "2026-11-12T00:05:40.985953+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34709346",
-          "target_video_id": "30983103",
-          "permanent": false,
           "attempted_at": "2026-11-12T01:22:35.182406+00:00"
         },
         {
@@ -106917,6 +106910,13 @@
           "target_video_id": "30983103",
           "permanent": false,
           "attempted_at": "2026-11-12T02:57:02.852476+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34709346",
+          "target_video_id": "30983103",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:07:22.645846+00:00"
         }
       ],
       "last_plan": {
@@ -124587,7 +124587,7 @@
       "last_plan": {
         "source_id": "26655410",
         "display_name": "Tom of Finland 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:57:04.413003+00:00"
+        "planned_at": "2026-11-12T04:07:20.898992+00:00"
       },
       "previous_target_id": "30985777",
       "prepared": {
@@ -124595,6 +124595,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T21:49:35.654076+00:00",
         "relay_source_id": "26655410"
+      },
+      "claim": {
+        "worker_id": "f0dfb0c0ea8c4f25baae8febe6667d40-shard-0",
+        "claimed_at": "2026-11-12T04:07:21.321395+00:00",
+        "lease_expires_at": "2026-11-12T10:07:21.321395+00:00",
+        "run_id": "43133989396"
       }
     },
     "22493": {
@@ -146745,7 +146751,7 @@
       "last_plan": {
         "source_id": "34866162",
         "display_name": "Talks with TGM (Hovory s TGM) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:07:19.233149+00:00"
+        "planned_at": "2026-11-12T04:07:21.093775+00:00"
       }
     },
     "29234": {
@@ -198294,5 +198300,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:07:19.233169+00:00"
+  "updated_at": "2026-11-12T04:07:22.645867+00:00"
 }
