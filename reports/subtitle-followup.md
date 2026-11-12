@@ -665,3 +665,4 @@ Attach subtitles only after target processing has finished.
 | Clueless 1080p CZ Titulky | 31003560 | https://sdilej.cz/30783542/bezmocna-clueless-1995-en.cz.sk-bdrip-hevc-1080p.mkv | Extract Czech track from exact source after processing |
 | The Magnificent Seven (2016) 4K CZ Titulky | 31003896 | https://sdilej.cz/32905861/the-magnificent-seven-sedm-statecnych-2016-2160p-dv-cz-dabing-en-truehd-atmos-radecek.mkv | Extract Czech track from exact source after processing |
 | Rocky III 1080p CZ Titulky | 31004255 | https://sdilej.cz/33588201/rocky-iii.-cz.sk.en.1080p.hmax.web-dl..mkv | Extract Czech track from exact source after processing |
+| Legend (2015) [ID 2712] 1080p CZ Titulky | 31004679 | https://sdilej.cz/32845458/legendy-zlocinu-2015-krimi-thriller-tom-hardy-czdab-bluray.1080p.mkv | Extract Czech track from exact source after processing |
