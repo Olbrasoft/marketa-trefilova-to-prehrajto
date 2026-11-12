@@ -9351,13 +9351,6 @@
           "source_id": "29667772",
           "target_video_id": "30661597",
           "permanent": false,
-          "attempted_at": "2026-11-12T17:59:40.697705+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29667772",
-          "target_video_id": "30661597",
-          "permanent": false,
           "attempted_at": "2026-11-12T18:29:47.589373+00:00"
         },
         {
@@ -9366,6 +9359,13 @@
           "target_video_id": "30661597",
           "permanent": false,
           "attempted_at": "2026-11-12T18:59:54.790362+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29667772",
+          "target_video_id": "30661597",
+          "permanent": false,
+          "attempted_at": "2026-11-12T19:30:03.056905+00:00"
         }
       ],
       "last_plan": {
@@ -9890,7 +9890,7 @@
       "last_plan": {
         "source_id": "28240998",
         "display_name": "Poor Things 1080p CZ Titulky",
-        "planned_at": "2026-11-12T18:59:56.014018+00:00"
+        "planned_at": "2026-11-12T19:30:02.109147+00:00"
       },
       "previous_target_id": "30664033",
       "prepared": {
@@ -9898,6 +9898,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
+      },
+      "claim": {
+        "worker_id": "009dba08520c4dd293a930c4d00ec971-shard-0",
+        "claimed_at": "2026-11-12T19:30:02.398062+00:00",
+        "lease_expires_at": "2026-11-13T01:30:02.398062+00:00",
+        "run_id": "43247223099"
       }
     },
     "601": {
@@ -37857,7 +37863,7 @@
       "last_plan": {
         "source_id": "35402133",
         "display_name": "Conan the Barbarian (1982) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T19:29:59.343345+00:00"
+        "planned_at": "2026-11-12T19:30:02.303333+00:00"
       }
     },
     "23924": {
@@ -97943,5 +97949,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T19:29:59.343365+00:00"
+  "updated_at": "2026-11-12T19:30:03.056927+00:00"
 }
