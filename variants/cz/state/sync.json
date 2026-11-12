@@ -18992,7 +18992,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:24:57.868513+00:00"
+        "planned_at": "2026-11-12T12:42:33.424699+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -19000,6 +19000,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "f3c189a409b541c4b7a46ec7f1f033dc-shard-0",
+        "claimed_at": "2026-11-12T12:42:34.626190+00:00",
+        "lease_expires_at": "2026-11-12T18:42:34.626190+00:00",
+        "run_id": "43208551669"
       }
     },
     "29695": {
@@ -132218,13 +132224,6 @@
           "source_id": "34676372",
           "target_video_id": "30987143",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:23:03.554423+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34676372",
-          "target_video_id": "30987143",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:57:41.255628+00:00"
         },
         {
@@ -132233,6 +132232,13 @@
           "target_video_id": "30987143",
           "permanent": false,
           "attempted_at": "2026-11-12T10:24:54.341360+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676372",
+          "target_video_id": "30987143",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:42:34.953828+00:00"
         }
       ],
       "last_plan": {
@@ -132246,12 +132252,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T03:46:31.761216+00:00",
         "relay_source_id": "34676372"
-      },
-      "claim": {
-        "worker_id": "5be3a41ff8ee4572baefe135284ac418-shard-0",
-        "claimed_at": "2026-11-12T12:42:30.618672+00:00",
-        "lease_expires_at": "2026-11-12T18:42:30.618672+00:00",
-        "run_id": "43208551669"
       }
     },
     "35743": {
@@ -140884,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:42:30.107039+00:00"
+        "planned_at": "2026-11-12T12:42:33.774442+00:00"
       }
     },
     "33433": {
@@ -198700,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:42:31.268168+00:00"
+  "updated_at": "2026-11-12T12:42:34.953907+00:00"
 }
