@@ -2035,6 +2035,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
+      },
+      "claim": {
+        "worker_id": "cb98666201274363b4e159f2bf5d20c5-shard-0",
+        "claimed_at": "2026-11-12T14:31:11.582187+00:00",
+        "lease_expires_at": "2026-11-12T20:31:11.582187+00:00",
+        "run_id": "43208551669"
       }
     },
     "107": {
@@ -9870,13 +9876,6 @@
           "source_id": "28240998",
           "target_video_id": "30664033",
           "permanent": false,
-          "attempted_at": "2026-11-12T12:58:57.877214+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28240998",
-          "target_video_id": "30664033",
-          "permanent": false,
           "attempted_at": "2026-11-12T13:29:04.817144+00:00"
         },
         {
@@ -9885,6 +9884,13 @@
           "target_video_id": "30664033",
           "permanent": false,
           "attempted_at": "2026-11-12T14:00:42.366821+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28240998",
+          "target_video_id": "30664033",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:31:12.391771+00:00"
         }
       ],
       "last_plan": {
@@ -9898,12 +9904,6 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
-      },
-      "claim": {
-        "worker_id": "7a70f29977104c08a741efa6054073a2-shard-0",
-        "claimed_at": "2026-11-12T14:31:08.404558+00:00",
-        "lease_expires_at": "2026-11-12T20:31:08.404558+00:00",
-        "run_id": "43208551669"
       }
     },
     "601": {
@@ -24203,7 +24203,7 @@
       "last_plan": {
         "source_id": "34220031",
         "display_name": "Chocolat (2000) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T14:00:45.343287+00:00"
+        "planned_at": "2026-11-12T14:31:12.518172+00:00"
       },
       "previous_target_id": "30859204",
       "prepared": {
@@ -37638,7 +37638,7 @@
       "last_plan": {
         "source_id": "30783542",
         "display_name": "Clueless 1080p CZ Titulky",
-        "planned_at": "2026-11-12T14:31:09.480283+00:00"
+        "planned_at": "2026-11-12T14:31:12.768836+00:00"
       }
     },
     "2740": {
@@ -97783,5 +97783,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:31:09.480301+00:00"
+  "updated_at": "2026-11-12T14:31:12.768852+00:00"
 }
