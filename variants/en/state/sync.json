@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "b5d7b5919c2747a3a3754b6428cb649b-shard-0",
+        "claimed_at": "2026-11-12T02:04:18.840202+00:00",
+        "lease_expires_at": "2026-11-12T08:04:18.840202+00:00",
+        "run_id": "43133989396"
       }
     },
     "21312": {
@@ -36704,17 +36710,23 @@
           "attempted_at": "2026-11-12T01:17:10.949739+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "19486059",
-        "display_name": "Western 1080p CZ Titulky",
-        "planned_at": "2026-11-12T00:53:55.774359+00:00"
-      },
       "previous_target_id": "30996177",
-      "prepared": {
+      "upload": {
         "target_video_id": "30996177",
-        "size_bytes": 4087771427,
-        "prepared_at": "2026-11-12T00:54:02.175131+00:00",
-        "relay_source_id": "19486059"
+        "display_name": "Western 1080p CZ Titulky",
+        "source_id": "19486059",
+        "source_url": "https://sdilej.cz/19486059/hostiles-2017-western-hd-cz-dab-lum.mkv",
+        "source_filename": "Hostiles 2017 Western HD Cz dab lum.mkv",
+        "size_bytes": 4099999999,
+        "width": 1920,
+        "height": 808,
+        "audio_language": "en",
+        "language_probability": 0.8077088594436646,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/western-1080p-cz-titulky-mkv/c495ad858b44d774",
+        "uploaded_at": "2026-11-12T02:04:20.578609+00:00"
       }
     },
     "21839": {
@@ -36776,7 +36788,7 @@
       "last_plan": {
         "source_id": "32938361",
         "display_name": "The Blue Trail (O Último Azul) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T02:04:17.252689+00:00"
+        "planned_at": "2026-11-12T02:04:19.340995+00:00"
       }
     },
     "25926": {
@@ -97413,5 +97425,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:04:17.252709+00:00"
+  "updated_at": "2026-11-12T02:04:20.578619+00:00"
 }
