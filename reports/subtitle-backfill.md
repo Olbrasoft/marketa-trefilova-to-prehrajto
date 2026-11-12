@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T06:03:00.146266+00:00
+Poslední aktualizace (UTC): 2026-11-12T06:03:01.957720+00:00
 
 Zkontrolováno videí: 655. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 79, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 80, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -104,6 +104,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 90. Důvod
 | [Legacy, notre héritage (Legacy) 1080p CZ Titulky](https://prehraj.to/legacy-notre-heritage-legacy-1080p-cz-titulky-mkv/69691dd82efd42a0) (ID 30988551) | [Sdílej 17633756](https://sdilej.cz/17633756/space-jam-a-new-legacy-space-jam-novy-zacatek-2021-1080p-aac5.1-titulky-cz.mkv) | target_unavailable | 2026-11-11T08:48:27.898479+00:00 |
 | [Little Fish (2020) 1080p CZ Titulky](https://prehraj.to/little-fish-2020-1080p-cz-titulky-mkv/3f9cbbdd9272bed4) (ID 30989893) | [Sdílej 35401846](https://sdilej.cz/35401846/little.fish.2020.1080p.webrip.x264-rarbg-.mkv) | target_unavailable | 2026-11-11T12:28:04.209634+00:00 |
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-10T09:29:23.845196+00:00 |
+| [Long Live the Republic! (Long Live the Republic) 1080p CZ Titulky](https://prehraj.to/long-live-the-republic-long-live-the-republic-1080p-cz-titulky-mkv/02d7eee9b4e5b296) (ID 30999144) | [Sdílej 33879962](https://sdilej.cz/33879962/at-zije-republika.1965.bdrip.cz.1080p.mkv) | target_unavailable | 2026-11-12T06:03:01.957679+00:00 |
 | [Lunacy (Šílení) 1080p CZ Titulky](https://prehraj.to/lunacy-sileni-1080p-cz-titulky-mkv/822aea77a1ef13bd) (ID 30984494) | [Sdílej 32997472](https://sdilej.cz/32997472/sileni-2005-fhd-cz.mkv) | target_unavailable | 2026-11-10T16:37:13.878742+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-10T09:49:48.668753+00:00 |
 | [Ninja in the Dragon's Den 1080p CZ Titulky](https://prehraj.to/ninja-in-the-dragon-s-den-1080p-cz-titulky-mkv/82c83f21529e1287) (ID 30983315) | [Sdílej 30986611](https://sdilej.cz/30986611/ninja.in.the.dragon-s.den.ninja.komando1982.eridanus.1080.bluray.cz.eng.ru.chin.mkv) | target_unavailable | 2026-11-10T14:06:05.858879+00:00 |
