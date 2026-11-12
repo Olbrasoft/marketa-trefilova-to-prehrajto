@@ -117259,7 +117259,7 @@
       "last_plan": {
         "source_id": "29909010",
         "display_name": "Young Guns 1080p CZ Dabing",
-        "planned_at": "2026-11-11T23:22:25.600648+00:00"
+        "planned_at": "2026-11-12T00:33:12.910982+00:00"
       },
       "previous_target_id": "30984808",
       "prepared": {
@@ -117267,6 +117267,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T17:42:29.513750+00:00",
         "relay_source_id": "29909010"
+      },
+      "claim": {
+        "worker_id": "c2ce251fe4a54ebebe3aac4c6fc88e6a-shard-0",
+        "claimed_at": "2026-11-12T00:33:13.970808+00:00",
+        "lease_expires_at": "2026-11-12T06:33:13.970808+00:00",
+        "run_id": "43102571398"
       }
     },
     "3089": {
@@ -138388,13 +138394,6 @@
           "source_id": "31912060",
           "target_video_id": "30987909",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:30:56.734010+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31912060",
-          "target_video_id": "30987909",
-          "permanent": false,
           "attempted_at": "2026-11-11T22:00:38.289479+00:00"
         },
         {
@@ -138403,6 +138402,13 @@
           "target_video_id": "30987909",
           "permanent": false,
           "attempted_at": "2026-11-11T23:22:26.219665+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31912060",
+          "target_video_id": "30987909",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:33:14.445943+00:00"
         }
       ],
       "last_plan": {
@@ -146392,7 +146398,13 @@
       "last_plan": {
         "source_id": "35418934",
         "display_name": "Murder in Luberon (Crime dans le Lubéron) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T00:33:10.373517+00:00"
+        "planned_at": "2026-11-12T00:33:13.247690+00:00"
+      },
+      "claim": {
+        "worker_id": "c15f344d19b645ccbe4701600c5ce144-shard-0",
+        "claimed_at": "2026-11-12T00:33:14.177880+00:00",
+        "lease_expires_at": "2026-11-12T06:33:14.177880+00:00",
+        "run_id": "43102571398"
       }
     },
     "30622": {
@@ -146402,7 +146414,12 @@
       "attempts": []
     },
     "16558": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29487501",
+        "display_name": "Even Mice Belong in Heaven (Myši patří do nebe) 1080p CZ Dabing",
+        "planned_at": "2026-11-12T00:33:13.489720+00:00"
+      }
     },
     "35003": {
       "attempts": []
@@ -198001,5 +198018,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:33:10.373534+00:00"
+  "updated_at": "2026-11-12T00:33:14.445964+00:00"
 }
