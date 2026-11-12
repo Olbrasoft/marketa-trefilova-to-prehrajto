@@ -125393,13 +125393,6 @@
           "source_id": "33203545",
           "target_video_id": "30985900",
           "permanent": false,
-          "attempted_at": "2026-11-12T05:19:31.082718+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33203545",
-          "target_video_id": "30985900",
-          "permanent": false,
           "attempted_at": "2026-11-12T07:10:15.180635+00:00"
         },
         {
@@ -125408,6 +125401,13 @@
           "target_video_id": "30985900",
           "permanent": false,
           "attempted_at": "2026-11-12T08:37:57.752511+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33203545",
+          "target_video_id": "30985900",
+          "permanent": false,
+          "attempted_at": "2026-11-12T10:11:22.261040+00:00"
         }
       ],
       "last_plan": {
@@ -130901,7 +130901,7 @@
       "last_plan": {
         "source_id": "26779825",
         "display_name": "Cekání na dést (Waiting for the Rain) SD CZ Dabing",
-        "planned_at": "2026-11-12T08:37:59.825846+00:00"
+        "planned_at": "2026-11-12T10:11:20.322372+00:00"
       },
       "previous_target_id": "30986978",
       "prepared": {
@@ -130909,6 +130909,12 @@
         "size_bytes": 767500000,
         "prepared_at": "2026-11-11T03:05:41.700464+00:00",
         "relay_source_id": "26779825"
+      },
+      "claim": {
+        "worker_id": "42de799d856044219f17de97ce23ea10-shard-0",
+        "claimed_at": "2026-11-12T10:11:21.216697+00:00",
+        "lease_expires_at": "2026-11-12T16:11:21.216697+00:00",
+        "run_id": "43168766567"
       }
     },
     "24134": {
@@ -147120,7 +147126,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:11:18.002479+00:00"
+        "planned_at": "2026-11-12T10:11:20.607863+00:00"
       }
     },
     "12316": {
@@ -198629,5 +198635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T10:11:18.231169+00:00"
+  "updated_at": "2026-11-12T10:11:22.261057+00:00"
 }
