@@ -128250,13 +128250,6 @@
           "source_id": "7866512",
           "target_video_id": "30986655",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:39:42.629501+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7866512",
-          "target_video_id": "30986655",
-          "permanent": false,
           "attempted_at": "2026-11-12T09:15:22.420007+00:00"
         },
         {
@@ -128265,6 +128258,13 @@
           "target_video_id": "30986655",
           "permanent": false,
           "attempted_at": "2026-11-12T11:32:50.968901+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7866512",
+          "target_video_id": "30986655",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:52:51.406211+00:00"
         }
       ],
       "last_plan": {
@@ -140884,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:52:45.169114+00:00"
+        "planned_at": "2026-11-12T12:52:50.245631+00:00"
       }
     },
     "33433": {
@@ -142087,7 +142087,7 @@
       "last_plan": {
         "source_id": "28985383",
         "display_name": "The Master (1980) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:32:54.420656+00:00"
+        "planned_at": "2026-11-12T12:52:49.901007+00:00"
       },
       "previous_target_id": "30988518",
       "prepared": {
@@ -142095,6 +142095,12 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-11-11T08:37:11.035402+00:00",
         "relay_source_id": "28985383"
+      },
+      "claim": {
+        "worker_id": "ae20012fbaac464d94b55575f0758498-shard-0",
+        "claimed_at": "2026-11-12T12:52:50.881474+00:00",
+        "lease_expires_at": "2026-11-12T18:52:50.881474+00:00",
+        "run_id": "43208551669"
       }
     },
     "26163": {
@@ -198700,5 +198706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:52:45.613704+00:00"
+  "updated_at": "2026-11-12T12:52:51.406230+00:00"
 }
