@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T12:07:19.310996+00:00
+Poslední aktualizace (UTC): 2026-11-12T12:07:21.355458+00:00
 
 Zkontrolováno videí: 660. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 84, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 85, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -94,6 +94,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 95. Důvod
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-10T09:40:23.621394+00:00 |
 | [I Am Bolt SD CZ Titulky](https://prehraj.to/i-am-bolt-sd-cz-titulky-mkv/150f3b94081bd3d1) (ID 30984744) | [Sdílej 7004752](https://sdilej.cz/7004752/i-am-bolt-2016-titulky.cz.mkv) | target_unavailable | 2026-11-10T17:37:34.750684+00:00 |
 | [I Dutifully Report (Poslušně hlásím) 1080p CZ Titulky](https://prehraj.to/i-dutifully-report-poslusne-hlasim-1080p-cz-titulky-0-digitally-remastered/3166c21fffe2a24f) (ID 30989692) | [Sdílej 27431239](https://sdilej.cz/27431239/svejk-2-poslusne-hlasim-1958-96-min-fhd-x264-2.0-cs-.mkv) | target_unavailable | 2026-11-11T12:08:06.216153+00:00 |
+| [Ice Age: Dawn of the Dinosaurs 1080p CZ Titulky](https://prehraj.to/ice-age-dawn-of-the-dinosaurs-1080p-cz-titulky-mkv/382fe0f08e6b9133) (ID 31001947) | [Sdílej 19665397](https://sdilej.cz/19665397/doba-ledova-3-usvit-dinosauru-1080p-5.1cz-5.1dts-en-2009-stbr-.mkv) | target_unavailable | 2026-11-12T12:07:21.355399+00:00 |
 | [In the Line of Duty (Royal Warriors) 1080p CZ Titulky](https://prehraj.to/in-the-line-of-duty-royal-warriors-1080p-cz-titulky-mkv/3324189baf276c8d) (ID 30999591) | [Sdílej 32876443](https://sdilej.cz/32876443/red-force-1986-akcni-hongkong-czdab-bluray.1080p.mkv) | target_unavailable | 2026-11-12T06:53:58.367956+00:00 |
 | [In the Shadows (Ve stínu) 1080p CZ Titulky](https://prehraj.to/in-the-shadows-ve-stinu-1080p-cz-titulky-mkv/09197a5fd4c0c217) (ID 30994567) | [Sdílej 18714751](https://sdilej.cz/18714751/ve.stinu.2012.1080p.mkv) | target_unavailable | 2026-11-11T22:08:09.720462+00:00 |
 | [Iron Man 2 1080p CZ Titulky](https://prehraj.to/iron-man-2-1080p-cz-titulky-mkv/a7aa04a1c5e5391b) (ID 31000126) | [Sdílej 24604994](https://sdilej.cz/24604994/05-marvel-iron-man-2-2010-cz.mkv) | target_unavailable | 2026-11-12T08:04:11.134895+00:00 |
