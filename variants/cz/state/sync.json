@@ -77149,17 +77149,19 @@
       }
     },
     "2410": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31217529",
+          "target_video_id": "31003544",
+          "permanent": false,
+          "attempted_at": "2026-11-12T15:39:58.750189+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31217529",
         "display_name": "Stargate 4K CZ Dabing",
         "planned_at": "2026-11-12T14:57:00.537145+00:00"
-      },
-      "claim": {
-        "worker_id": "3227250172fd4da5aede4a85a71abb29-shard-0",
-        "claimed_at": "2026-11-12T14:57:01.513566+00:00",
-        "lease_expires_at": "2026-11-12T20:57:01.513566+00:00",
-        "run_id": "43208551669"
       },
       "previous_target_id": "31003544",
       "prepared": {
@@ -198780,5 +198782,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T15:28:42.539643+00:00"
+  "updated_at": "2026-11-12T15:39:58.750206+00:00"
 }
