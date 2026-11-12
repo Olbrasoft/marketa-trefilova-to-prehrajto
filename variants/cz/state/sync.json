@@ -77151,7 +77151,7 @@
       "last_plan": {
         "source_id": "31217529",
         "display_name": "Stargate 4K CZ Dabing",
-        "planned_at": "2026-11-12T14:41:55.887859+00:00"
+        "planned_at": "2026-11-12T14:41:58.886657+00:00"
       }
     },
     "2452": {
@@ -101130,7 +101130,7 @@
       "last_plan": {
         "source_id": "34968104",
         "display_name": "Habermann (Habermannův mlýn) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T13:17:05.847241+00:00"
+        "planned_at": "2026-11-12T14:41:58.542762+00:00"
       },
       "previous_target_id": "30967671",
       "prepared": {
@@ -101138,6 +101138,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T06:46:06.993808+00:00",
         "relay_source_id": "34968104"
+      },
+      "claim": {
+        "worker_id": "ef5229ca92634dfe8b618d23573df608-shard-0",
+        "claimed_at": "2026-11-12T14:41:59.400101+00:00",
+        "lease_expires_at": "2026-11-12T20:41:59.400101+00:00",
+        "run_id": "43208551669"
       }
     },
     "35562": {
@@ -142840,13 +142846,6 @@
           "source_id": "30610125",
           "target_video_id": "30988610",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:45:39.680717+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30610125",
-          "target_video_id": "30988610",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:56:13.945641+00:00"
         },
         {
@@ -142855,6 +142854,13 @@
           "target_video_id": "30988610",
           "permanent": false,
           "attempted_at": "2026-11-12T13:17:07.669487+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30610125",
+          "target_video_id": "30988610",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:42:00.385304+00:00"
         }
       ],
       "last_plan": {
@@ -198765,5 +198771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:41:55.887876+00:00"
+  "updated_at": "2026-11-12T14:42:00.385322+00:00"
 }
