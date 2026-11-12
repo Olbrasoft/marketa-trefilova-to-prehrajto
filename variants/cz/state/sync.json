@@ -108834,13 +108834,6 @@
           "source_id": "34676575",
           "target_video_id": "30983636",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:17:37.929788+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34676575",
-          "target_video_id": "30983636",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:47:10.342243+00:00"
         },
         {
@@ -108849,6 +108842,13 @@
           "target_video_id": "30983636",
           "permanent": false,
           "attempted_at": "2026-11-11T23:06:27.554933+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676575",
+          "target_video_id": "30983636",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:21:17.330704+00:00"
         }
       ],
       "last_plan": {
@@ -118904,7 +118904,7 @@
       "last_plan": {
         "source_id": "18589416",
         "display_name": "The Stanford Prison Experiment 1080p CZ Dabing",
-        "planned_at": "2026-11-11T23:06:29.161487+00:00"
+        "planned_at": "2026-11-12T00:21:15.909877+00:00"
       },
       "previous_target_id": "30984920",
       "prepared": {
@@ -118912,6 +118912,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T18:11:26.006794+00:00",
         "relay_source_id": "18589416"
+      },
+      "claim": {
+        "worker_id": "abec07cb256149e1bf352f1f50872215-shard-0",
+        "claimed_at": "2026-11-12T00:21:16.711237+00:00",
+        "lease_expires_at": "2026-11-12T06:21:16.711237+00:00",
+        "run_id": "43102571398"
       }
     },
     "3123": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:21:13.739023+00:00"
+        "planned_at": "2026-11-12T00:21:16.249007+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:21:13.739044+00:00"
+  "updated_at": "2026-11-12T00:21:17.330724+00:00"
 }
