@@ -37611,17 +37611,19 @@
       }
     },
     "2652": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35243994",
+          "target_video_id": "31003096",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:29:40.327148+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35243994",
         "display_name": "Game Night 1080p CZ Titulky",
         "planned_at": "2026-11-12T13:45:20.262196+00:00"
-      },
-      "claim": {
-        "worker_id": "7f53764975ce4ff2a30e1430f0d433ea-shard-0",
-        "claimed_at": "2026-11-12T13:45:20.664922+00:00",
-        "lease_expires_at": "2026-11-12T19:45:20.664922+00:00",
-        "run_id": "43208551669"
       },
       "previous_target_id": "31003096",
       "prepared": {
@@ -97776,5 +97778,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:29:37.561647+00:00"
+  "updated_at": "2026-11-12T14:29:40.327166+00:00"
 }
