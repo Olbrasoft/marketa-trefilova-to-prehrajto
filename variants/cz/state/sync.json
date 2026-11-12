@@ -10907,13 +10907,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:23:01.692921+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:57:35.301292+00:00"
         },
         {
@@ -10922,6 +10915,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-12T10:24:47.019543+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:42:31.268149+00:00"
         }
       ],
       "last_plan": {
@@ -132238,7 +132238,7 @@
       "last_plan": {
         "source_id": "34676372",
         "display_name": "Fly, Bird, Fly! (Leť, ptáku leť!) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:24:49.789264+00:00"
+        "planned_at": "2026-11-12T12:42:29.750929+00:00"
       },
       "previous_target_id": "30987143",
       "prepared": {
@@ -132246,6 +132246,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T03:46:31.761216+00:00",
         "relay_source_id": "34676372"
+      },
+      "claim": {
+        "worker_id": "5be3a41ff8ee4572baefe135284ac418-shard-0",
+        "claimed_at": "2026-11-12T12:42:30.618672+00:00",
+        "lease_expires_at": "2026-11-12T18:42:30.618672+00:00",
+        "run_id": "43208551669"
       }
     },
     "35743": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:42:27.069875+00:00"
+        "planned_at": "2026-11-12T12:42:30.107039+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:42:27.069891+00:00"
+  "updated_at": "2026-11-12T12:42:31.268168+00:00"
 }
