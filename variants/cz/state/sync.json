@@ -73027,17 +73027,19 @@
       "attempts": []
     },
     "20520": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34192214",
+          "target_video_id": "31001639",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:43:13.344868+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34192214",
         "display_name": "Mune: Guardian of the Moon (Mune: Le Gardien de la Lune) 1080p CZ Dabing",
         "planned_at": "2026-11-12T11:26:42.908809+00:00"
-      },
-      "claim": {
-        "worker_id": "cf783ed5b2464c7da92bef5c5c127734-shard-0",
-        "claimed_at": "2026-11-12T11:26:44.321243+00:00",
-        "lease_expires_at": "2026-11-12T17:26:44.321243+00:00",
-        "run_id": "43208551669"
       },
       "previous_target_id": "31001639",
       "prepared": {
@@ -198690,5 +198692,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:43:11.453149+00:00"
+  "updated_at": "2026-11-12T11:43:13.344887+00:00"
 }
