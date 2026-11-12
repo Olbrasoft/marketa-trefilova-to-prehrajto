@@ -71870,13 +71870,6 @@
           "source_id": "35464779",
           "target_video_id": "30988069",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:15:25.830113+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35464779",
-          "target_video_id": "30988069",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:43:54.877637+00:00"
         },
         {
@@ -71885,6 +71878,13 @@
           "target_video_id": "30988069",
           "permanent": false,
           "attempted_at": "2026-11-11T23:03:06.187478+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35464779",
+          "target_video_id": "30988069",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:18:40.072978+00:00"
         }
       ],
       "last_plan": {
@@ -137901,7 +137901,7 @@
       "last_plan": {
         "source_id": "34694371",
         "display_name": "Misericordia 1080p CZ Dabing",
-        "planned_at": "2026-11-11T23:03:07.927273+00:00"
+        "planned_at": "2026-11-12T00:18:38.844518+00:00"
       },
       "previous_target_id": "30987871",
       "prepared": {
@@ -137909,6 +137909,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T06:31:19.313862+00:00",
         "relay_source_id": "34694371"
+      },
+      "claim": {
+        "worker_id": "d616493453f84c71bc4a596480de0553-shard-0",
+        "claimed_at": "2026-11-12T00:18:39.782969+00:00",
+        "lease_expires_at": "2026-11-12T06:18:39.782969+00:00",
+        "run_id": "43102571398"
       }
     },
     "12593": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:18:35.806116+00:00"
+        "planned_at": "2026-11-12T00:18:39.227375+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:18:36.266769+00:00"
+  "updated_at": "2026-11-12T00:18:40.072999+00:00"
 }
