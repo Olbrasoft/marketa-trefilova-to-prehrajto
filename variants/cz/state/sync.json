@@ -137091,13 +137091,6 @@
           "source_id": "30647651",
           "target_video_id": "30987782",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:38:32.129382+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30647651",
-          "target_video_id": "30987782",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:01:33.018998+00:00"
         },
         {
@@ -137106,6 +137099,13 @@
           "target_video_id": "30987782",
           "permanent": false,
           "attempted_at": "2026-11-12T09:42:31.272878+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30647651",
+          "target_video_id": "30987782",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:53:40.162353+00:00"
         }
       ],
       "last_plan": {
@@ -140876,7 +140876,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:53:36.012587+00:00"
+        "planned_at": "2026-11-12T11:53:38.716075+00:00"
       }
     },
     "33433": {
@@ -140906,7 +140906,7 @@
       "last_plan": {
         "source_id": "11736941",
         "display_name": "The Russian Job (Švéd v žigulíku) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T09:42:33.184407+00:00"
+        "planned_at": "2026-11-12T11:53:38.364696+00:00"
       },
       "previous_target_id": "30988215",
       "prepared": {
@@ -140914,6 +140914,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-11T07:52:44.166649+00:00",
         "relay_source_id": "11736941"
+      },
+      "claim": {
+        "worker_id": "dac83cfdba23415f8baeceae2405ef22-shard-0",
+        "claimed_at": "2026-11-12T11:53:39.216017+00:00",
+        "lease_expires_at": "2026-11-12T17:53:39.216017+00:00",
+        "run_id": "43208551669"
       }
     },
     "11634": {
@@ -198692,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:53:36.012603+00:00"
+  "updated_at": "2026-11-12T11:53:40.162371+00:00"
 }
