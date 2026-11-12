@@ -659,3 +659,4 @@ Attach subtitles only after target processing has finished.
 | Iron Man 2 1080p CZ Titulky | 31000126 | https://sdilej.cz/24604994/05-marvel-iron-man-2-2010-cz.mkv | Extract Czech track from exact source after processing |
 | Mission: Impossible III 1080p CZ Titulky | 31000186 | https://sdilej.cz/12223333/mission-impossible-iii.-2006.mkv | Extract Czech track from exact source after processing |
 | National Treasure 1080p CZ Titulky | 31001064 | https://sdilej.cz/34237563/lovci-pokladu-2004-1080p-en-cz-sk-dab.mkv | Extract Czech track from exact source after processing |
+| Ice Age: Dawn of the Dinosaurs 1080p CZ Titulky | 31001947 | https://sdilej.cz/19665397/doba-ledova-3-usvit-dinosauru-1080p-5.1cz-5.1dts-en-2009-stbr-.mkv | Extract Czech track from exact source after processing |
