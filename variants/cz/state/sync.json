@@ -133833,13 +133833,6 @@
           "source_id": "23221863",
           "target_video_id": "30987417",
           "permanent": false,
-          "attempted_at": "2026-11-12T02:28:38.834854+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23221863",
-          "target_video_id": "30987417",
-          "permanent": false,
           "attempted_at": "2026-11-12T03:39:03.752248+00:00"
         },
         {
@@ -133848,6 +133841,13 @@
           "target_video_id": "30987417",
           "permanent": false,
           "attempted_at": "2026-11-12T04:47:16.048050+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23221863",
+          "target_video_id": "30987417",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:00:36.253724+00:00"
         }
       ],
       "last_plan": {
@@ -133861,12 +133861,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:35:39.966856+00:00",
         "relay_source_id": "23221863"
-      },
-      "claim": {
-        "worker_id": "bb8ce202fb114bb0978ede4ca9f0aeba-shard-0",
-        "claimed_at": "2026-11-12T06:00:33.696632+00:00",
-        "lease_expires_at": "2026-11-12T12:00:33.696632+00:00",
-        "run_id": "43133989396"
       }
     },
     "4343": {
@@ -143704,7 +143698,7 @@
       "last_plan": {
         "source_id": "34679715",
         "display_name": "Milan Rastislav Štefánik 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:47:18.920491+00:00"
+        "planned_at": "2026-11-12T06:00:35.172908+00:00"
       },
       "previous_target_id": "30988789",
       "prepared": {
@@ -143712,6 +143706,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-11T10:01:18.033034+00:00",
         "relay_source_id": "34679715"
+      },
+      "claim": {
+        "worker_id": "91c158def7dc4745aaad72b4ebadec73-shard-0",
+        "claimed_at": "2026-11-12T06:00:35.634687+00:00",
+        "lease_expires_at": "2026-11-12T12:00:35.634687+00:00",
+        "run_id": "43133989396"
       }
     },
     "15443": {
@@ -146967,7 +146967,7 @@
       "last_plan": {
         "source_id": "29231328",
         "display_name": "Murder on Aix Island (Les Mystères de l'île) SD CZ Dabing",
-        "planned_at": "2026-11-12T06:00:33.268890+00:00"
+        "planned_at": "2026-11-12T06:00:35.388274+00:00"
       }
     },
     "16864": {
@@ -198485,5 +198485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T06:00:33.696658+00:00"
+  "updated_at": "2026-11-12T06:00:36.253738+00:00"
 }
