@@ -125975,13 +125975,6 @@
           "source_id": "35401165",
           "target_video_id": "30986215",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:36:26.929463+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35401165",
-          "target_video_id": "30986215",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:51:03.384655+00:00"
         },
         {
@@ -125990,6 +125983,13 @@
           "target_video_id": "30986215",
           "permanent": false,
           "attempted_at": "2026-11-12T02:32:04.108746+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35401165",
+          "target_video_id": "30986215",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:42:06.369346+00:00"
         }
       ],
       "last_plan": {
@@ -131312,7 +131312,7 @@
       "last_plan": {
         "source_id": "30410983",
         "display_name": "Stedrý vecer pana rady Vacátka (Štědrý večer pana rady Vacátka) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:32:03.301674+00:00"
+        "planned_at": "2026-11-12T03:42:04.499181+00:00"
       },
       "previous_target_id": "30987029",
       "prepared": {
@@ -131320,6 +131320,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T03:24:47.389155+00:00",
         "relay_source_id": "30410983"
+      },
+      "claim": {
+        "worker_id": "158ebf10077d44af96b2ab98aede077f-shard-0",
+        "claimed_at": "2026-11-12T03:42:05.091401+00:00",
+        "lease_expires_at": "2026-11-12T09:42:05.091401+00:00",
+        "run_id": "43133989396"
       }
     },
     "13346": {
@@ -146675,7 +146681,7 @@
       "last_plan": {
         "source_id": "29431268",
         "display_name": "Deda (Děda) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:42:01.871183+00:00"
+        "planned_at": "2026-11-12T03:42:04.712881+00:00"
       }
     },
     "12543": {
@@ -198242,5 +198248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:42:02.413203+00:00"
+  "updated_at": "2026-11-12T03:42:06.369366+00:00"
 }
