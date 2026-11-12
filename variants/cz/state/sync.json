@@ -129257,13 +129257,6 @@
           "source_id": "30726013",
           "target_video_id": "30986834",
           "permanent": false,
-          "attempted_at": "2026-11-12T02:35:46.019709+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30726013",
-          "target_video_id": "30986834",
-          "permanent": false,
           "attempted_at": "2026-11-12T03:43:57.192710+00:00"
         },
         {
@@ -129272,6 +129265,13 @@
           "target_video_id": "30986834",
           "permanent": false,
           "attempted_at": "2026-11-12T04:52:59.376577+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30726013",
+          "target_video_id": "30986834",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:39:43.838664+00:00"
         }
       ],
       "last_plan": {
@@ -146862,7 +146862,7 @@
       "last_plan": {
         "source_id": "32413714",
         "display_name": "Diagnosis of Death (Diagnóza smrti) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:39:35.907985+00:00"
+        "planned_at": "2026-11-12T06:39:42.227747+00:00"
       },
       "previous_target_id": "30998607",
       "prepared": {
@@ -146870,6 +146870,12 @@
         "size_bytes": 2224619402,
         "prepared_at": "2026-11-12T04:39:41.428028+00:00",
         "relay_source_id": "32413714"
+      },
+      "claim": {
+        "worker_id": "0ac3e34ab5fd450384f307f6752249aa-shard-0",
+        "claimed_at": "2026-11-12T06:39:43.239361+00:00",
+        "lease_expires_at": "2026-11-12T12:39:43.239361+00:00",
+        "run_id": "43168766567"
       }
     },
     "29748": {
@@ -146984,7 +146990,13 @@
       "last_plan": {
         "source_id": "12863543",
         "display_name": "Taxi 121 SD CZ Dabing",
-        "planned_at": "2026-11-12T06:39:39.909861+00:00"
+        "planned_at": "2026-11-12T06:39:42.639355+00:00"
+      },
+      "claim": {
+        "worker_id": "d30d841b4faa4c818f17e6696853c8e8-shard-0",
+        "claimed_at": "2026-11-12T06:39:43.466675+00:00",
+        "lease_expires_at": "2026-11-12T12:39:43.466675+00:00",
+        "run_id": "43168766567"
       }
     },
     "28088": {
@@ -146992,7 +147004,7 @@
       "last_plan": {
         "source_id": "34903736",
         "display_name": "Mees Kees (Mister Twister: Class of Fun) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T06:33:35.970522+00:00"
+        "planned_at": "2026-11-12T06:39:42.866221+00:00"
       }
     },
     "16769": {
@@ -198499,5 +198511,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T06:39:39.909879+00:00"
+  "updated_at": "2026-11-12T06:39:43.838684+00:00"
 }
