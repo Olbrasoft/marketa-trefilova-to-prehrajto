@@ -42888,6 +42888,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "8a734e039c9b4b33b3fb0771def8a912-shard-0",
+        "claimed_at": "2026-11-12T14:28:23.695289+00:00",
+        "lease_expires_at": "2026-11-12T20:28:23.695289+00:00",
+        "run_id": "43208551669"
       }
     },
     "1395": {
@@ -51470,7 +51476,7 @@
       "last_plan": {
         "source_id": "29009635",
         "display_name": "Dungeons & Dragons: Honor Among Thieves 1080p CZ Dabing",
-        "planned_at": "2026-11-12T14:28:20.786526+00:00"
+        "planned_at": "2026-11-12T14:28:24.289706+00:00"
       }
     },
     "1690": {
@@ -140684,13 +140690,6 @@
           "source_id": "34883583",
           "target_video_id": "30988170",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:28:26.483284+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34883583",
-          "target_video_id": "30988170",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:45:55.350386+00:00"
         },
         {
@@ -140699,12 +140698,19 @@
           "target_video_id": "30988170",
           "permanent": false,
           "attempted_at": "2026-11-12T13:06:36.215032+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34883583",
+          "target_video_id": "30988170",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:28:26.616385+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34883583",
         "display_name": "Murder in Hérault (Crime dans l'Hérault) SD CZ Dabing",
-        "planned_at": "2026-11-12T13:06:32.144481+00:00"
+        "planned_at": "2026-11-12T14:28:23.954060+00:00"
       },
       "previous_target_id": "30988170",
       "prepared": {
@@ -198747,5 +198753,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:28:21.245312+00:00"
+  "updated_at": "2026-11-12T14:28:26.616402+00:00"
 }
