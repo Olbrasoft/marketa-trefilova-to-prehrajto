@@ -118834,13 +118834,6 @@
           "source_id": "31031880",
           "target_video_id": "30984912",
           "permanent": false,
-          "attempted_at": "2026-11-11T21:41:39.867055+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31031880",
-          "target_video_id": "30984912",
-          "permanent": false,
           "attempted_at": "2026-11-11T22:59:53.247011+00:00"
         },
         {
@@ -118849,6 +118842,13 @@
           "target_video_id": "30984912",
           "permanent": false,
           "attempted_at": "2026-11-12T00:16:18.418190+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31031880",
+          "target_video_id": "30984912",
+          "permanent": false,
+          "attempted_at": "2026-11-12T01:31:48.755849+00:00"
         }
       ],
       "last_plan": {
@@ -129878,7 +129878,7 @@
       "last_plan": {
         "source_id": "32261619",
         "display_name": "To See the Sea (Pojedeme k moři) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T00:16:17.810117+00:00"
+        "planned_at": "2026-11-12T01:31:47.213799+00:00"
       },
       "previous_target_id": "30986903",
       "prepared": {
@@ -129886,6 +129886,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T02:36:35.848130+00:00",
         "relay_source_id": "32261619"
+      },
+      "claim": {
+        "worker_id": "5b935858780e455587d6847c0f301d9d-shard-0",
+        "claimed_at": "2026-11-12T01:31:48.026113+00:00",
+        "lease_expires_at": "2026-11-12T07:31:48.026113+00:00",
+        "run_id": "43102571398"
       }
     },
     "20964": {
@@ -146506,7 +146512,7 @@
       "last_plan": {
         "source_id": "34694579",
         "display_name": "On a String 1080p CZ Dabing",
-        "planned_at": "2026-11-12T01:31:44.604297+00:00"
+        "planned_at": "2026-11-12T01:31:47.543692+00:00"
       }
     },
     "27336": {
@@ -198091,5 +198097,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T01:31:45.086354+00:00"
+  "updated_at": "2026-11-12T01:31:48.755869+00:00"
 }
