@@ -146992,17 +146992,19 @@
       }
     },
     "16864": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "12863543",
+          "target_video_id": "30999429",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:46:54.331684+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "12863543",
         "display_name": "Taxi 121 SD CZ Dabing",
         "planned_at": "2026-11-12T06:39:42.639355+00:00"
-      },
-      "claim": {
-        "worker_id": "d30d841b4faa4c818f17e6696853c8e8-shard-0",
-        "claimed_at": "2026-11-12T06:39:43.466675+00:00",
-        "lease_expires_at": "2026-11-12T12:39:43.466675+00:00",
-        "run_id": "43168766567"
       },
       "previous_target_id": "30999429",
       "prepared": {
@@ -198524,5 +198526,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T06:46:52.375698+00:00"
+  "updated_at": "2026-11-12T06:46:54.331700+00:00"
 }
