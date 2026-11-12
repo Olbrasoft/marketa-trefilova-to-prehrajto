@@ -42860,13 +42860,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-12T05:58:16.515825+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-12T07:52:55.825836+00:00"
         },
         {
@@ -42875,6 +42868,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-12T09:28:20.181821+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:45:51.821250+00:00"
         }
       ],
       "last_plan": {
@@ -42888,12 +42888,6 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
-      },
-      "claim": {
-        "worker_id": "345f6f55441e484daaafebe292382631-shard-0",
-        "claimed_at": "2026-11-12T11:45:47.017696+00:00",
-        "lease_expires_at": "2026-11-12T17:45:47.017696+00:00",
-        "run_id": "43208551669"
       }
     },
     "1395": {
@@ -140655,7 +140649,7 @@
       "last_plan": {
         "source_id": "34883583",
         "display_name": "Murder in Hérault (Crime dans l'Hérault) SD CZ Dabing",
-        "planned_at": "2026-11-12T09:28:23.904697+00:00"
+        "planned_at": "2026-11-12T11:45:50.284724+00:00"
       },
       "previous_target_id": "30988170",
       "prepared": {
@@ -140663,6 +140657,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T07:46:04.107233+00:00",
         "relay_source_id": "34883583"
+      },
+      "claim": {
+        "worker_id": "b75a978356a44eb4a836e1de1f229840-shard-0",
+        "claimed_at": "2026-11-12T11:45:51.482272+00:00",
+        "lease_expires_at": "2026-11-12T17:45:51.482272+00:00",
+        "run_id": "43208551669"
       }
     },
     "30968": {
@@ -140882,7 +140882,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:45:46.532558+00:00"
+        "planned_at": "2026-11-12T11:45:50.638057+00:00"
       }
     },
     "33433": {
@@ -198698,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:45:47.881231+00:00"
+  "updated_at": "2026-11-12T11:45:51.821268+00:00"
 }
