@@ -111745,13 +111745,6 @@
           "source_id": "25728131",
           "target_video_id": "30983845",
           "permanent": false,
-          "attempted_at": "2026-11-12T00:19:58.593347+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25728131",
-          "target_video_id": "30983845",
-          "permanent": false,
           "attempted_at": "2026-11-12T01:35:43.283167+00:00"
         },
         {
@@ -111760,12 +111753,19 @@
           "target_video_id": "30983845",
           "permanent": false,
           "attempted_at": "2026-11-12T03:10:11.666544+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25728131",
+          "target_video_id": "30983845",
+          "permanent": false,
+          "attempted_at": "2026-11-12T04:17:15.197952+00:00"
         }
       ],
       "last_plan": {
         "source_id": "25728131",
         "display_name": "O chytrém Honzovi, aneb jak se Honza stal králem (O chytrém Honzovi) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:10:08.941340+00:00"
+        "planned_at": "2026-11-12T04:17:12.022391+00:00"
       },
       "previous_target_id": "30983845",
       "prepared": {
@@ -146745,7 +146745,13 @@
       "last_plan": {
         "source_id": "34866162",
         "display_name": "Talks with TGM (Hovory s TGM) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T04:17:07.066884+00:00"
+        "planned_at": "2026-11-12T04:17:12.246567+00:00"
+      },
+      "claim": {
+        "worker_id": "4da70d6342c94bf2b45463fda70bbab2-shard-0",
+        "claimed_at": "2026-11-12T04:17:12.779814+00:00",
+        "lease_expires_at": "2026-11-12T10:17:12.779814+00:00",
+        "run_id": "43133989396"
       }
     },
     "29234": {
@@ -146755,7 +146761,12 @@
       "attempts": []
     },
     "22456": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32413714",
+        "display_name": "Diagnosis of Death (Diagnóza smrti) 1080p CZ Dabing",
+        "planned_at": "2026-11-12T04:17:12.374841+00:00"
+      }
     },
     "29748": {
       "attempts": []
@@ -198294,5 +198305,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T04:17:08.706883+00:00"
+  "updated_at": "2026-11-12T04:17:15.197973+00:00"
 }
