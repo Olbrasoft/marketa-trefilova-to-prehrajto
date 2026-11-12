@@ -41370,7 +41370,7 @@
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-12T13:09:40.839460+00:00"
+        "planned_at": "2026-11-12T14:34:28.427452+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -41378,6 +41378,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-03T03:58:27.242114+00:00",
         "relay_source_id": "34826023"
+      },
+      "claim": {
+        "worker_id": "7de0b12f8be34e0ebc9544498c786477-shard-0",
+        "claimed_at": "2026-11-12T14:34:29.265346+00:00",
+        "lease_expires_at": "2026-11-12T20:34:29.265346+00:00",
+        "run_id": "43208551669"
       }
     },
     "34337": {
@@ -77151,7 +77157,7 @@
       "last_plan": {
         "source_id": "31217529",
         "display_name": "Stargate 4K CZ Dabing",
-        "planned_at": "2026-11-12T14:34:25.924606+00:00"
+        "planned_at": "2026-11-12T14:34:28.763634+00:00"
       }
     },
     "2452": {
@@ -107746,13 +107752,6 @@
           "source_id": "30853807",
           "target_video_id": "30983476",
           "permanent": false,
-          "attempted_at": "2026-11-12T09:32:16.764390+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30853807",
-          "target_video_id": "30983476",
-          "permanent": false,
           "attempted_at": "2026-11-12T11:49:02.382169+00:00"
         },
         {
@@ -107761,6 +107760,13 @@
           "target_video_id": "30983476",
           "permanent": false,
           "attempted_at": "2026-11-12T13:09:42.373467+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30853807",
+          "target_video_id": "30983476",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:34:29.960743+00:00"
         }
       ],
       "last_plan": {
@@ -198765,5 +198771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:34:25.924623+00:00"
+  "updated_at": "2026-11-12T14:34:29.960761+00:00"
 }
