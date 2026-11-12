@@ -143343,13 +143343,6 @@
           "source_id": "34661764",
           "target_video_id": "30988695",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:59:39.869594+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34661764",
-          "target_video_id": "30988695",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:16:08.680739+00:00"
         },
         {
@@ -143358,6 +143351,13 @@
           "target_video_id": "30988695",
           "permanent": false,
           "attempted_at": "2026-11-12T01:31:36.730917+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34661764",
+          "target_video_id": "30988695",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:06:23.130836+00:00"
         }
       ],
       "last_plan": {
@@ -143371,12 +143371,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T09:26:47.795965+00:00",
         "relay_source_id": "34661764"
-      },
-      "claim": {
-        "worker_id": "6abeda27e79b40bc9dda0a7f3e353b4d-shard-0",
-        "claimed_at": "2026-11-12T03:06:20.161611+00:00",
-        "lease_expires_at": "2026-11-12T09:06:20.161611+00:00",
-        "run_id": "43133989396"
       }
     },
     "35624": {
@@ -145521,7 +145515,7 @@
       "last_plan": {
         "source_id": "11812226",
         "display_name": "Čas pracuje pro vraha 1080p CZ Dabing",
-        "planned_at": "2026-11-12T01:31:36.133617+00:00"
+        "planned_at": "2026-11-12T03:06:22.354937+00:00"
       },
       "previous_target_id": "30993033",
       "prepared": {
@@ -145529,6 +145523,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T18:51:32.596945+00:00",
         "relay_source_id": "11812226"
+      },
+      "claim": {
+        "worker_id": "d9455f8702f941eaa4d5b58742076ae3-shard-0",
+        "claimed_at": "2026-11-12T03:06:22.995347+00:00",
+        "lease_expires_at": "2026-11-12T09:06:22.995347+00:00",
+        "run_id": "43133989396"
       }
     },
     "13050": {
@@ -146619,7 +146619,7 @@
       "last_plan": {
         "source_id": "34696477",
         "display_name": "All Those Small Things 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:06:19.883381+00:00"
+        "planned_at": "2026-11-12T03:06:22.563551+00:00"
       }
     },
     "28177": {
@@ -198195,5 +198195,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:06:20.934486+00:00"
+  "updated_at": "2026-11-12T03:06:23.130857+00:00"
 }
