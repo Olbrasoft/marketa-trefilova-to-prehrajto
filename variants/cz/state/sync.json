@@ -110320,13 +110320,6 @@
           "source_id": "30715852",
           "target_video_id": "30983753",
           "permanent": false,
-          "attempted_at": "2026-11-12T02:41:32.047868+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30715852",
-          "target_video_id": "30983753",
-          "permanent": false,
           "attempted_at": "2026-11-12T03:49:42.360079+00:00"
         },
         {
@@ -110335,6 +110328,13 @@
           "target_video_id": "30983753",
           "permanent": false,
           "attempted_at": "2026-11-12T04:58:14.842440+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30715852",
+          "target_video_id": "30983753",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:45:13.411557+00:00"
         }
       ],
       "last_plan": {
@@ -112839,7 +112839,7 @@
       "last_plan": {
         "source_id": "35330871",
         "display_name": "Doctor Strange in the Multiverse of Madness 4K CZ Dabing",
-        "planned_at": "2026-11-12T04:58:16.251973+00:00"
+        "planned_at": "2026-11-12T06:45:11.602017+00:00"
       },
       "previous_target_id": "30984006",
       "prepared": {
@@ -112847,6 +112847,12 @@
         "size_bytes": 6000000000,
         "prepared_at": "2026-11-10T15:14:14.206894+00:00",
         "relay_source_id": "35330871"
+      },
+      "claim": {
+        "worker_id": "a88a36a07be842ec809d95c1df1ae03f-shard-0",
+        "claimed_at": "2026-11-12T06:45:12.256841+00:00",
+        "lease_expires_at": "2026-11-12T12:45:12.256841+00:00",
+        "run_id": "43168766567"
       }
     },
     "3087": {
@@ -147011,7 +147017,7 @@
       "last_plan": {
         "source_id": "34903736",
         "display_name": "Mees Kees (Mister Twister: Class of Fun) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T06:45:09.122441+00:00"
+        "planned_at": "2026-11-12T06:45:11.872098+00:00"
       }
     },
     "16769": {
@@ -198518,5 +198524,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T06:45:09.567053+00:00"
+  "updated_at": "2026-11-12T06:45:13.411573+00:00"
 }
