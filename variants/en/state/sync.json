@@ -1964,13 +1964,6 @@
           "source_id": "33013175",
           "target_video_id": "30597835",
           "permanent": false,
-          "attempted_at": "2026-11-12T18:29:10.417515+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33013175",
-          "target_video_id": "30597835",
-          "permanent": false,
           "attempted_at": "2026-11-12T18:59:23.696958+00:00"
         },
         {
@@ -1979,6 +1972,13 @@
           "target_video_id": "30597835",
           "permanent": false,
           "attempted_at": "2026-11-12T19:29:35.864408+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33013175",
+          "target_video_id": "30597835",
+          "permanent": false,
+          "attempted_at": "2026-11-12T20:41:48.806664+00:00"
         }
       ],
       "last_plan": {
@@ -1992,12 +1992,6 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
-      },
-      "claim": {
-        "worker_id": "e553c52d0ade413d91c0e52d3e8ac9ac-shard-0",
-        "claimed_at": "2026-11-12T20:41:45.655728+00:00",
-        "lease_expires_at": "2026-11-13T02:41:45.655728+00:00",
-        "run_id": "43299526401"
       }
     },
     "108": {
@@ -35182,7 +35176,7 @@
       "last_plan": {
         "source_id": "9657833",
         "display_name": "The Place SD CZ Titulky",
-        "planned_at": "2026-11-12T19:29:34.544622+00:00"
+        "planned_at": "2026-11-12T20:41:48.370205+00:00"
       },
       "previous_target_id": "30988255",
       "prepared": {
@@ -35190,6 +35184,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:59:47.278610+00:00",
         "relay_source_id": "9657833"
+      },
+      "claim": {
+        "worker_id": "5db2cceedaf94bde8053ec9f95503bbe-shard-0",
+        "claimed_at": "2026-11-12T20:41:48.630161+00:00",
+        "lease_expires_at": "2026-11-13T02:41:48.630161+00:00",
+        "run_id": "43299526401"
       }
     },
     "25179": {
@@ -37904,7 +37904,7 @@
       "last_plan": {
         "source_id": "6122354",
         "display_name": "Green Room 1080p CZ Titulky",
-        "planned_at": "2026-11-12T20:41:45.510495+00:00"
+        "planned_at": "2026-11-12T20:41:48.541944+00:00"
       }
     },
     "26597": {
@@ -97974,5 +97974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T20:41:46.055795+00:00"
+  "updated_at": "2026-11-12T20:41:48.806682+00:00"
 }
