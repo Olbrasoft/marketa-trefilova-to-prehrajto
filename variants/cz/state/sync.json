@@ -146826,17 +146826,19 @@
       "attempts": []
     },
     "10054": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19973532",
+          "target_video_id": "30998700",
+          "permanent": false,
+          "attempted_at": "2026-11-12T05:07:10.472422+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19973532",
         "display_name": "Stárí není pro sraby (Stáří není pro sraby) 1080p CZ Dabing",
         "planned_at": "2026-11-12T04:54:12.328288+00:00"
-      },
-      "claim": {
-        "worker_id": "16e354b952144d85b4fcaf95aa57d902-shard-0",
-        "claimed_at": "2026-11-12T04:54:12.846009+00:00",
-        "lease_expires_at": "2026-11-12T10:54:12.846009+00:00",
-        "run_id": "43133989396"
       },
       "previous_target_id": "30998700",
       "prepared": {
@@ -198382,5 +198384,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T05:07:08.002991+00:00"
+  "updated_at": "2026-11-12T05:07:10.472445+00:00"
 }
