@@ -11477,13 +11477,6 @@
           "source_id": "26167173",
           "target_video_id": "30682158",
           "permanent": false,
-          "attempted_at": "2026-11-12T08:36:41.820928+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26167173",
-          "target_video_id": "30682158",
-          "permanent": false,
           "attempted_at": "2026-11-12T09:07:03.260132+00:00"
         },
         {
@@ -11492,6 +11485,13 @@
           "target_video_id": "30682158",
           "permanent": false,
           "attempted_at": "2026-11-12T09:37:10.878628+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26167173",
+          "target_video_id": "30682158",
+          "permanent": false,
+          "attempted_at": "2026-11-12T10:07:16.701184+00:00"
         }
       ],
       "last_plan": {
@@ -17625,7 +17625,7 @@
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
-        "planned_at": "2026-11-12T09:37:13.215678+00:00"
+        "planned_at": "2026-11-12T10:07:15.674206+00:00"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -17633,6 +17633,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-03T14:13:54.051993+00:00",
         "relay_source_id": "7674339"
+      },
+      "claim": {
+        "worker_id": "fff755443dfb44248cc252cfb40bad69-shard-0",
+        "claimed_at": "2026-11-12T10:07:15.912079+00:00",
+        "lease_expires_at": "2026-11-12T16:07:15.912079+00:00",
+        "run_id": "43168766567"
       }
     },
     "24279": {
@@ -37441,7 +37447,7 @@
       "last_plan": {
         "source_id": "34237563",
         "display_name": "National Treasure 1080p CZ Titulky",
-        "planned_at": "2026-11-12T10:07:13.179449+00:00"
+        "planned_at": "2026-11-12T10:07:15.835124+00:00"
       }
     },
     "19573": {
@@ -97629,5 +97635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T10:07:13.179469+00:00"
+  "updated_at": "2026-11-12T10:07:16.701202+00:00"
 }
