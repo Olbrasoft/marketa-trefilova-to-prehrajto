@@ -655,3 +655,4 @@ Attach subtitles only after target processing has finished.
 | Return of the Idiot (Návrat idiota) 1080p CZ Titulky | 30997077 | https://sdilej.cz/32263750/navrat-idiota-1999-fhd-cz.mkv | Extract Czech track from exact source after processing |
 | Breathing (Atmen) 1080p CZ Titulky | 30998606 | https://sdilej.cz/32749057/atmen-breathing-dychat-2011-bdremux-1080p.mkv | Extract Czech track from exact source after processing |
 | Long Live the Republic! (Long Live the Republic) 1080p CZ Titulky | 30999144 | https://sdilej.cz/33879962/at-zije-republika.1965.bdrip.cz.1080p.mkv | Extract Czech track from exact source after processing |
+| In the Line of Duty (Royal Warriors) 1080p CZ Titulky | 30999591 | https://sdilej.cz/32876443/red-force-1986-akcni-hongkong-czdab-bluray.1080p.mkv | Extract Czech track from exact source after processing |
