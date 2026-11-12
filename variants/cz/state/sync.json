@@ -126790,13 +126790,6 @@
           "source_id": "34453688",
           "target_video_id": "30986375",
           "permanent": false,
-          "attempted_at": "2026-11-12T02:33:47.159374+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34453688",
-          "target_video_id": "30986375",
-          "permanent": false,
           "attempted_at": "2026-11-12T03:42:37.430263+00:00"
         },
         {
@@ -126805,6 +126798,13 @@
           "target_video_id": "30986375",
           "permanent": false,
           "attempted_at": "2026-11-12T04:51:42.685814+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34453688",
+          "target_video_id": "30986375",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:38:43.938892+00:00"
         }
       ],
       "last_plan": {
@@ -135149,7 +135149,7 @@
       "last_plan": {
         "source_id": "11994914",
         "display_name": "Bankrot SD CZ Dabing",
-        "planned_at": "2026-11-12T04:51:44.095611+00:00"
+        "planned_at": "2026-11-12T06:38:42.361748+00:00"
       },
       "previous_target_id": "30987591",
       "prepared": {
@@ -135157,6 +135157,12 @@
         "size_bytes": 975100000,
         "prepared_at": "2026-11-11T05:20:01.782170+00:00",
         "relay_source_id": "11994914"
+      },
+      "claim": {
+        "worker_id": "71334482f7364778b5be4a5dc169f215-shard-0",
+        "claimed_at": "2026-11-12T06:38:42.976088+00:00",
+        "lease_expires_at": "2026-11-12T12:38:42.976088+00:00",
+        "run_id": "43168766567"
       }
     },
     "24145": {
@@ -146982,7 +146988,7 @@
       "last_plan": {
         "source_id": "12863543",
         "display_name": "Taxi 121 SD CZ Dabing",
-        "planned_at": "2026-11-12T06:38:40.310909+00:00"
+        "planned_at": "2026-11-12T06:38:42.624284+00:00"
       }
     },
     "28088": {
@@ -198497,5 +198503,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T06:38:40.310926+00:00"
+  "updated_at": "2026-11-12T06:38:43.938910+00:00"
 }
