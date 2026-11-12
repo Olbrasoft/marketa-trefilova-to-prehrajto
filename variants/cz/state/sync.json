@@ -36198,13 +36198,6 @@
           "source_id": "11952213",
           "target_video_id": "30742444",
           "permanent": false,
-          "attempted_at": "2026-11-12T11:43:56.715938+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11952213",
-          "target_video_id": "30742444",
-          "permanent": false,
           "attempted_at": "2026-11-12T13:04:32.915027+00:00"
         },
         {
@@ -36213,6 +36206,13 @@
           "target_video_id": "30742444",
           "permanent": false,
           "attempted_at": "2026-11-12T14:26:20.223515+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11952213",
+          "target_video_id": "30742444",
+          "permanent": false,
+          "attempted_at": "2026-11-12T16:23:22.902377+00:00"
         }
       ],
       "last_plan": {
@@ -104885,7 +104885,7 @@
       "last_plan": {
         "source_id": "35108649",
         "display_name": "End of a Priest (Farářův konec) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T16:23:18.703092+00:00"
+        "planned_at": "2026-11-12T16:23:21.693129+00:00"
       }
     },
     "21705": {
@@ -132632,7 +132632,7 @@
       "last_plan": {
         "source_id": "34715394",
         "display_name": "Káta a krokodýl (Káťa a krokodýl) SD CZ Dabing",
-        "planned_at": "2026-11-12T14:26:18.699566+00:00"
+        "planned_at": "2026-11-12T16:23:21.387375+00:00"
       },
       "previous_target_id": "30987202",
       "prepared": {
@@ -132640,6 +132640,12 @@
         "size_bytes": 586700000,
         "prepared_at": "2026-11-11T03:55:20.932250+00:00",
         "relay_source_id": "34715394"
+      },
+      "claim": {
+        "worker_id": "1a6ab2c02d144a3eadbfd175588bc43a-shard-0",
+        "claimed_at": "2026-11-12T16:23:22.157733+00:00",
+        "lease_expires_at": "2026-11-12T22:23:22.157733+00:00",
+        "run_id": "43247223099"
       }
     },
     "23538": {
@@ -198793,5 +198799,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T16:23:18.949142+00:00"
+  "updated_at": "2026-11-12T16:23:22.902397+00:00"
 }
