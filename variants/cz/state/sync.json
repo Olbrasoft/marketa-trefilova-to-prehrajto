@@ -8532,6 +8532,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "f6ddde64778f4c0da6bd8387645ac07e-shard-0",
+        "claimed_at": "2026-11-12T00:01:06.881239+00:00",
+        "lease_expires_at": "2026-11-12T06:01:06.881239+00:00",
+        "run_id": "43102571398"
       }
     },
     "29922": {
@@ -141221,13 +141227,6 @@
           "source_id": "30436273",
           "target_video_id": "30988335",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:02:09.224476+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30436273",
-          "target_video_id": "30988335",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:12:46.598926+00:00"
         },
         {
@@ -141236,12 +141235,19 @@
           "target_video_id": "30988335",
           "permanent": false,
           "attempted_at": "2026-11-11T22:48:59.389042+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30436273",
+          "target_video_id": "30988335",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:01:10.607582+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30436273",
         "display_name": "Musíme se sejít SD CZ Dabing",
-        "planned_at": "2026-11-11T22:48:56.090857+00:00"
+        "planned_at": "2026-11-12T00:01:07.131562+00:00"
       },
       "previous_target_id": "30988335",
       "prepared": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:01:04.646565+00:00"
+        "planned_at": "2026-11-12T00:01:07.475073+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:01:04.646585+00:00"
+  "updated_at": "2026-11-12T00:01:10.607603+00:00"
 }
