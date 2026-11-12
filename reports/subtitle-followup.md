@@ -675,3 +675,4 @@ Attach subtitles only after target processing has finished.
 | Clear and Present Danger 1080p CZ Titulky | 31006506 | https://sdilej.cz/29946984/jasne-nebezpeci-1994-en-cs-pl-en-cs-pl-816p23.976-.mkv | Extract Czech track from exact source after processing |
 | Finch 1080p CZ Titulky | 31006906 | https://sdilej.cz/26705455/finch-2021-cz-titulky-1080p.mkv | Extract Czech track from exact source after processing |
 | Sorry to Bother You 1080p CZ Titulky | 31006990 | https://sdilej.cz/10716193/sorry-to-bother-you-cz-titulky-fullhd-1080p.mkv | Extract Czech track from exact source after processing |
+| 48 Hrs. 4K CZ Titulky | 31007032 | https://sdilej.cz/35125536/1982-48-hodin-2160p-sk-cz-eng.mkv | Extract Czech track from exact source after processing |
