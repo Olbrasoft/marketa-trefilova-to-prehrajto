@@ -121547,7 +121547,7 @@
       "last_plan": {
         "source_id": "35010063",
         "display_name": "Monos 4K CZ Dabing",
-        "planned_at": "2026-11-12T01:27:18.714122+00:00"
+        "planned_at": "2026-11-12T03:01:08.668124+00:00"
       },
       "previous_target_id": "30985407",
       "prepared": {
@@ -121555,6 +121555,12 @@
         "size_bytes": 22000000000,
         "prepared_at": "2026-11-10T19:09:15.571400+00:00",
         "relay_source_id": "35010063"
+      },
+      "claim": {
+        "worker_id": "fe5364c2dfaf4a308d4a01bec8d7b3ff-shard-0",
+        "claimed_at": "2026-11-12T03:01:09.111389+00:00",
+        "lease_expires_at": "2026-11-12T09:01:09.111389+00:00",
+        "run_id": "43133989396"
       }
     },
     "35405": {
@@ -131809,13 +131815,6 @@
           "source_id": "25018592",
           "target_video_id": "30987121",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:56:14.494216+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25018592",
-          "target_video_id": "30987121",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:12:42.755890+00:00"
         },
         {
@@ -131824,6 +131823,13 @@
           "target_video_id": "30987121",
           "permanent": false,
           "attempted_at": "2026-11-12T01:27:16.748730+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25018592",
+          "target_video_id": "30987121",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:01:09.276468+00:00"
         }
       ],
       "last_plan": {
@@ -131837,12 +131843,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T03:40:45.938464+00:00",
         "relay_source_id": "25018592"
-      },
-      "claim": {
-        "worker_id": "480b0171987243fc8794c086b10937c5-shard-0",
-        "claimed_at": "2026-11-12T03:01:05.694904+00:00",
-        "lease_expires_at": "2026-11-12T09:01:05.694904+00:00",
-        "run_id": "43133989396"
       }
     },
     "14879": {
@@ -146613,7 +146613,7 @@
       "last_plan": {
         "source_id": "34696477",
         "display_name": "All Those Small Things 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:01:05.411978+00:00"
+        "planned_at": "2026-11-12T03:01:08.869843+00:00"
       }
     },
     "28177": {
@@ -198189,5 +198189,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:01:06.572385+00:00"
+  "updated_at": "2026-11-12T03:01:09.276485+00:00"
 }
