@@ -110539,13 +110539,6 @@
           "source_id": "30618439",
           "target_video_id": "30983779",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:31:32.406614+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30618439",
-          "target_video_id": "30983779",
-          "permanent": false,
           "attempted_at": "2026-11-11T23:49:06.863755+00:00"
         },
         {
@@ -110554,6 +110547,13 @@
           "target_video_id": "30983779",
           "permanent": false,
           "attempted_at": "2026-11-12T00:59:56.174268+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30618439",
+          "target_video_id": "30983779",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:44:06.205550+00:00"
         }
       ],
       "last_plan": {
@@ -112898,7 +112898,7 @@
       "last_plan": {
         "source_id": "34058657",
         "display_name": "Bruce Almighty 4K CZ Dabing",
-        "planned_at": "2026-11-12T00:59:55.557492+00:00"
+        "planned_at": "2026-11-12T02:44:04.889026+00:00"
       },
       "previous_target_id": "30984026",
       "prepared": {
@@ -112906,6 +112906,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-10T15:16:29.336362+00:00",
         "relay_source_id": "34058657"
+      },
+      "claim": {
+        "worker_id": "09b0d0a4b09846ab890f838be4c1772c-shard-0",
+        "claimed_at": "2026-11-12T02:44:05.388105+00:00",
+        "lease_expires_at": "2026-11-12T08:44:05.388105+00:00",
+        "run_id": "43133989396"
       }
     },
     "3092": {
@@ -146584,7 +146590,7 @@
       "last_plan": {
         "source_id": "30819135",
         "display_name": "Les Bois maudits SD CZ Dabing",
-        "planned_at": "2026-11-12T02:44:03.148181+00:00"
+        "planned_at": "2026-11-12T02:44:05.101493+00:00"
       }
     },
     "17662": {
@@ -198163,5 +198169,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:44:03.148201+00:00"
+  "updated_at": "2026-11-12T02:44:06.205568+00:00"
 }
