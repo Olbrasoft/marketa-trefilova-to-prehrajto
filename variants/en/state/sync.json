@@ -34713,13 +34713,6 @@
           "source_id": "16607977",
           "target_video_id": "30987463",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:33:56.451041+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16607977",
-          "target_video_id": "30987463",
-          "permanent": false,
           "attempted_at": "2026-11-12T07:04:09.100779+00:00"
         },
         {
@@ -34728,6 +34721,13 @@
           "target_video_id": "30987463",
           "permanent": false,
           "attempted_at": "2026-11-12T07:34:16.938167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16607977",
+          "target_video_id": "30987463",
+          "permanent": false,
+          "attempted_at": "2026-11-12T08:04:25.356826+00:00"
         }
       ],
       "last_plan": {
@@ -35393,7 +35393,7 @@
       "last_plan": {
         "source_id": "23240065",
         "display_name": "Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T07:34:19.208534+00:00"
+        "planned_at": "2026-11-12T08:04:24.243258+00:00"
       },
       "previous_target_id": "30988745",
       "prepared": {
@@ -35401,6 +35401,12 @@
         "size_bytes": 8199999999,
         "prepared_at": "2026-11-11T09:46:13.396689+00:00",
         "relay_source_id": "23240065"
+      },
+      "claim": {
+        "worker_id": "fd7f5a45f2ef4223a0dc28c05193c8a4-shard-0",
+        "claimed_at": "2026-11-12T08:04:24.508513+00:00",
+        "lease_expires_at": "2026-11-12T14:04:24.508513+00:00",
+        "run_id": "43168766567"
       }
     },
     "12662": {
@@ -37400,7 +37406,7 @@
       "last_plan": {
         "source_id": "12223333",
         "display_name": "Mission: Impossible III 1080p CZ Titulky",
-        "planned_at": "2026-11-12T08:04:21.787887+00:00"
+        "planned_at": "2026-11-12T08:04:24.400121+00:00"
       }
     },
     "2716": {
@@ -97603,5 +97609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T08:04:21.787905+00:00"
+  "updated_at": "2026-11-12T08:04:25.356844+00:00"
 }
