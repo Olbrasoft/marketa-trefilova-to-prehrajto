@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T08:04:09.336852+00:00
+Poslední aktualizace (UTC): 2026-11-12T08:04:11.282705+00:00
 
 Zkontrolováno videí: 657. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 81, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 82, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -96,6 +96,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 92. Důvod
 | [I Dutifully Report (Poslušně hlásím) 1080p CZ Titulky](https://prehraj.to/i-dutifully-report-poslusne-hlasim-1080p-cz-titulky-0-digitally-remastered/3166c21fffe2a24f) (ID 30989692) | [Sdílej 27431239](https://sdilej.cz/27431239/svejk-2-poslusne-hlasim-1958-96-min-fhd-x264-2.0-cs-.mkv) | target_unavailable | 2026-11-11T12:08:06.216153+00:00 |
 | [In the Line of Duty (Royal Warriors) 1080p CZ Titulky](https://prehraj.to/in-the-line-of-duty-royal-warriors-1080p-cz-titulky-mkv/3324189baf276c8d) (ID 30999591) | [Sdílej 32876443](https://sdilej.cz/32876443/red-force-1986-akcni-hongkong-czdab-bluray.1080p.mkv) | target_unavailable | 2026-11-12T06:53:58.367956+00:00 |
 | [In the Shadows (Ve stínu) 1080p CZ Titulky](https://prehraj.to/in-the-shadows-ve-stinu-1080p-cz-titulky-mkv/09197a5fd4c0c217) (ID 30994567) | [Sdílej 18714751](https://sdilej.cz/18714751/ve.stinu.2012.1080p.mkv) | target_unavailable | 2026-11-11T22:08:09.720462+00:00 |
+| [Iron Man 2 1080p CZ Titulky](https://prehraj.to/iron-man-2-1080p-cz-titulky-mkv/a7aa04a1c5e5391b) (ID 31000126) | [Sdílej 24604994](https://sdilej.cz/24604994/05-marvel-iron-man-2-2010-cz.mkv) | target_unavailable | 2026-11-12T08:04:11.134895+00:00 |
 | [John Wick: Chapter 4 1440p CZ Titulky](https://prehraj.to/john-wick-chapter-4-1440p-cz-titulky-mkv/f4d1e18a53df6591) (ID 30682158) | [Sdílej 26167173](https://sdilej.cz/26167173/john.wick.chapter.4.2023.2160p.web-dl.ddp5.1.atmos.dv.hdr10-.h.265-cmrg.cztit.mkv) | target_unavailable | 2026-11-10T09:41:31.892087+00:00 |
 | [Journey to the Beginning of Time (Cesta do pravěku) 1080p CZ Titulky](https://prehraj.to/journey-to-the-beginning-of-time-cesta-do-praveku-1080p-cz-titulky-mkv/bcad1ddfb754d1f0) (ID 30988776) | [Sdílej 34670411](https://sdilej.cz/34670411/cesta-do-praveku-sci-fi-dobrodruzny-1955-cz.1080p.mkv) | target_unavailable | 2026-11-11T09:58:51.842084+00:00 |
 | [Juno 1080p CZ Titulky](https://prehraj.to/juno-1080p-cz-titulky-mkv/087c1b745f58cf79) (ID 30747251) | [Sdílej 33537783](https://sdilej.cz/33537783/juno-2007-komedie-usa-elliot-page-michael-cera-jennifer-garner-czdab-fhd.mkv) | target_unavailable | 2026-11-10T09:41:51.695654+00:00 |
