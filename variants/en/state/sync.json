@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:36:03.533559+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-12T07:07:08.521463+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-12T07:37:13.095859+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-12T08:07:22.144821+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "16ac00d3cae14e638555c8c50dbf2c50-shard-0",
-        "claimed_at": "2026-11-12T08:07:15.511890+00:00",
-        "lease_expires_at": "2026-11-12T14:07:15.511890+00:00",
-        "run_id": "43168766567"
       }
     },
     "21690": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-12T07:37:16.717500+00:00"
+        "planned_at": "2026-11-12T08:07:20.942872+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "6af71fe18e854ed49d2987f954cec6ac-shard-0",
+        "claimed_at": "2026-11-12T08:07:21.215346+00:00",
+        "lease_expires_at": "2026-11-12T14:07:21.215346+00:00",
+        "run_id": "43168766567"
       }
     },
     "31551": {
@@ -37406,7 +37406,7 @@
       "last_plan": {
         "source_id": "12223333",
         "display_name": "Mission: Impossible III 1080p CZ Titulky",
-        "planned_at": "2026-11-12T08:07:15.417512+00:00"
+        "planned_at": "2026-11-12T08:07:21.124279+00:00"
       }
     },
     "2716": {
@@ -97609,5 +97609,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T08:07:15.511914+00:00"
+  "updated_at": "2026-11-12T08:07:22.144839+00:00"
 }
