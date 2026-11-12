@@ -127764,13 +127764,6 @@
           "source_id": "33885910",
           "target_video_id": "30986630",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:13:20.633177+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33885910",
-          "target_video_id": "30986630",
-          "permanent": false,
           "attempted_at": "2026-11-11T21:42:01.581308+00:00"
         },
         {
@@ -127779,6 +127772,13 @@
           "target_video_id": "30986630",
           "permanent": false,
           "attempted_at": "2026-11-11T23:00:42.837273+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33885910",
+          "target_video_id": "30986630",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:16:42.012169+00:00"
         }
       ],
       "last_plan": {
@@ -141453,7 +141453,7 @@
       "last_plan": {
         "source_id": "27874374",
         "display_name": "Together (Spolu) (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-11T23:00:44.678568+00:00"
+        "planned_at": "2026-11-12T00:16:40.267109+00:00"
       },
       "previous_target_id": "30988406",
       "prepared": {
@@ -141461,6 +141461,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-11T08:20:53.674997+00:00",
         "relay_source_id": "27874374"
+      },
+      "claim": {
+        "worker_id": "b4cc8e6b530e44ac88c26b9bdc8ea49e-shard-0",
+        "claimed_at": "2026-11-12T00:16:41.092224+00:00",
+        "lease_expires_at": "2026-11-12T06:16:41.092224+00:00",
+        "run_id": "43102571398"
       }
     },
     "33115": {
@@ -146324,7 +146330,7 @@
       "last_plan": {
         "source_id": "30651979",
         "display_name": "Zelená vlna SD CZ Dabing",
-        "planned_at": "2026-11-12T00:16:36.089267+00:00"
+        "planned_at": "2026-11-12T00:16:40.606825+00:00"
       }
     },
     "4058": {
@@ -197947,5 +197953,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:16:36.351371+00:00"
+  "updated_at": "2026-11-12T00:16:42.012189+00:00"
 }
