@@ -37295,17 +37295,19 @@
       "attempts": []
     },
     "22862": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32876443",
+          "target_video_id": "30999591",
+          "permanent": false,
+          "attempted_at": "2026-11-12T08:02:34.013422+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32876443",
         "display_name": "In the Line of Duty (Royal Warriors) 1080p CZ Titulky",
         "planned_at": "2026-11-12T06:47:00.952138+00:00"
-      },
-      "claim": {
-        "worker_id": "fdf49576405d49cdba9e8379f3565953-shard-0",
-        "claimed_at": "2026-11-12T06:47:02.726219+00:00",
-        "lease_expires_at": "2026-11-12T12:47:02.726219+00:00",
-        "run_id": "43168766567"
       },
       "previous_target_id": "30999591",
       "prepared": {
@@ -97583,5 +97585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T08:02:31.833828+00:00"
+  "updated_at": "2026-11-12T08:02:34.013441+00:00"
 }
