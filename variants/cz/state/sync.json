@@ -51466,17 +51466,19 @@
       }
     },
     "1605": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29009635",
+          "target_video_id": "31003404",
+          "permanent": false,
+          "attempted_at": "2026-11-12T14:58:19.509324+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29009635",
         "display_name": "Dungeons & Dragons: Honor Among Thieves 1080p CZ Dabing",
         "planned_at": "2026-11-12T14:31:58.160437+00:00"
-      },
-      "claim": {
-        "worker_id": "37d206d3e001436385e6e0c0c62f146a-shard-0",
-        "claimed_at": "2026-11-12T14:31:59.385279+00:00",
-        "lease_expires_at": "2026-11-12T20:31:59.385279+00:00",
-        "run_id": "43208551669"
       },
       "previous_target_id": "31003404",
       "prepared": {
@@ -104875,7 +104877,7 @@
       "last_plan": {
         "source_id": "35108649",
         "display_name": "End of a Priest (Farářův konec) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T14:58:11.524657+00:00"
+        "planned_at": "2026-11-12T14:58:17.580421+00:00"
       }
     },
     "21705": {
@@ -144747,7 +144749,7 @@
       "last_plan": {
         "source_id": "35428706",
         "display_name": "Threat to Kermadec (Menace sur Kermadec) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T13:36:35.506840+00:00"
+        "planned_at": "2026-11-12T14:58:17.231845+00:00"
       },
       "previous_target_id": "30990467",
       "prepared": {
@@ -144755,6 +144757,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T13:33:55.032444+00:00",
         "relay_source_id": "35428706"
+      },
+      "claim": {
+        "worker_id": "0d497284000f441196ddbc96734d8dd9-shard-0",
+        "claimed_at": "2026-11-12T14:58:18.032563+00:00",
+        "lease_expires_at": "2026-11-12T20:58:18.032563+00:00",
+        "run_id": "43208551669"
       }
     },
     "23397": {
@@ -198778,5 +198786,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T14:58:13.491356+00:00"
+  "updated_at": "2026-11-12T14:58:19.509339+00:00"
 }
