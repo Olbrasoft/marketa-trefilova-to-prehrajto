@@ -8544,7 +8544,7 @@
       "last_plan": {
         "source_id": "28293597",
         "display_name": "G.O.R.A. SD CZ Dabing",
-        "planned_at": "2026-11-12T01:19:32.774298+00:00"
+        "planned_at": "2026-11-12T02:56:23.377707+00:00"
       },
       "previous_target_id": "30631236",
       "prepared": {
@@ -8552,6 +8552,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "7917094ed0414ba1b27105a6228ebc27-shard-0",
+        "claimed_at": "2026-11-12T02:56:23.866675+00:00",
+        "lease_expires_at": "2026-11-12T08:56:23.866675+00:00",
+        "run_id": "43133989396"
       }
     },
     "29922": {
@@ -146580,17 +146586,19 @@
       }
     },
     "15203": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30819135",
+          "target_video_id": "30997285",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:56:52.008020+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30819135",
         "display_name": "Les Bois maudits SD CZ Dabing",
         "planned_at": "2026-11-12T02:50:13.774265+00:00"
-      },
-      "claim": {
-        "worker_id": "4aef7b79492a4390a92005985fe8266b-shard-0",
-        "claimed_at": "2026-11-12T02:50:14.313469+00:00",
-        "lease_expires_at": "2026-11-12T08:50:14.313469+00:00",
-        "run_id": "43133989396"
       },
       "previous_target_id": "30997285",
       "prepared": {
@@ -146605,7 +146613,7 @@
       "last_plan": {
         "source_id": "34696477",
         "display_name": "All Those Small Things 1080p CZ Dabing",
-        "planned_at": "2026-11-12T02:56:19.922467+00:00"
+        "planned_at": "2026-11-12T02:56:23.594244+00:00"
       }
     },
     "28177": {
@@ -198181,5 +198189,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:56:21.922544+00:00"
+  "updated_at": "2026-11-12T02:56:52.008054+00:00"
 }
