@@ -657,3 +657,4 @@ Attach subtitles only after target processing has finished.
 | Long Live the Republic! (Long Live the Republic) 1080p CZ Titulky | 30999144 | https://sdilej.cz/33879962/at-zije-republika.1965.bdrip.cz.1080p.mkv | Extract Czech track from exact source after processing |
 | In the Line of Duty (Royal Warriors) 1080p CZ Titulky | 30999591 | https://sdilej.cz/32876443/red-force-1986-akcni-hongkong-czdab-bluray.1080p.mkv | Extract Czech track from exact source after processing |
 | Iron Man 2 1080p CZ Titulky | 31000126 | https://sdilej.cz/24604994/05-marvel-iron-man-2-2010-cz.mkv | Extract Czech track from exact source after processing |
+| Mission: Impossible III 1080p CZ Titulky | 31000186 | https://sdilej.cz/12223333/mission-impossible-iii.-2006.mkv | Extract Czech track from exact source after processing |
