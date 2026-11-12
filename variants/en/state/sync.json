@@ -35019,13 +35019,6 @@
           "source_id": "34014919",
           "target_video_id": "30987918",
           "permanent": false,
-          "attempted_at": "2026-11-12T18:27:50.251065+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34014919",
-          "target_video_id": "30987918",
-          "permanent": false,
           "attempted_at": "2026-11-12T18:57:56.263951+00:00"
         },
         {
@@ -35034,12 +35027,19 @@
           "target_video_id": "30987918",
           "permanent": false,
           "attempted_at": "2026-11-12T19:28:00.424760+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34014919",
+          "target_video_id": "30987918",
+          "permanent": false,
+          "attempted_at": "2026-11-12T20:40:51.487819+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34014919",
         "display_name": "Skyking (#SKYKING) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T19:27:56.821955+00:00"
+        "planned_at": "2026-11-12T20:40:49.292563+00:00"
       },
       "previous_target_id": "30987918",
       "prepared": {
@@ -37859,7 +37859,13 @@
       "last_plan": {
         "source_id": "35402133",
         "display_name": "Conan the Barbarian (1982) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T19:57:12.968065+00:00"
+        "planned_at": "2026-11-12T20:40:49.455905+00:00"
+      },
+      "claim": {
+        "worker_id": "44f477751c924985ad281259b17a8756-shard-0",
+        "claimed_at": "2026-11-12T20:40:50.304222+00:00",
+        "lease_expires_at": "2026-11-13T02:40:50.304222+00:00",
+        "run_id": "43299526401"
       }
     },
     "23924": {
@@ -37881,10 +37887,20 @@
       "attempts": []
     },
     "2307": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "6122354",
+        "display_name": "Green Room 1080p CZ Titulky",
+        "planned_at": "2026-11-12T20:40:49.541489+00:00"
+      }
     },
     "26597": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "14629570",
+        "display_name": "Triangle 1080p CZ Titulky",
+        "planned_at": "2026-11-12T20:40:49.819214+00:00"
+      }
     },
     "19400": {
       "attempts": []
@@ -97945,5 +97961,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T20:28:51.684871+00:00"
+  "updated_at": "2026-11-12T20:40:51.487837+00:00"
 }
