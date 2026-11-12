@@ -37310,13 +37310,6 @@
           "source_id": "12181949",
           "target_video_id": "30743906",
           "permanent": false,
-          "attempted_at": "2026-11-12T05:56:45.312946+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12181949",
-          "target_video_id": "30743906",
-          "permanent": false,
           "attempted_at": "2026-11-12T07:50:48.630753+00:00"
         },
         {
@@ -37325,6 +37318,13 @@
           "target_video_id": "30743906",
           "permanent": false,
           "attempted_at": "2026-11-12T09:26:09.819312+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12181949",
+          "target_video_id": "30743906",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:44:09.300711+00:00"
         }
       ],
       "last_plan": {
@@ -124082,7 +124082,7 @@
       "last_plan": {
         "source_id": "10827431",
         "display_name": "Finding Your Feet 1080p CZ Dabing",
-        "planned_at": "2026-11-12T09:26:12.100976+00:00"
+        "planned_at": "2026-11-12T11:44:07.326218+00:00"
       },
       "previous_target_id": "30985726",
       "prepared": {
@@ -124090,6 +124090,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T21:31:25.000011+00:00",
         "relay_source_id": "10827431"
+      },
+      "claim": {
+        "worker_id": "1396dc7361b74dd2981c34b93ad6022e-shard-0",
+        "claimed_at": "2026-11-12T11:44:08.198684+00:00",
+        "lease_expires_at": "2026-11-12T17:44:08.198684+00:00",
+        "run_id": "43208551669"
       }
     },
     "21072": {
@@ -140876,7 +140882,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:44:04.551831+00:00"
+        "planned_at": "2026-11-12T11:44:07.668838+00:00"
       }
     },
     "33433": {
@@ -198692,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:44:04.837335+00:00"
+  "updated_at": "2026-11-12T11:44:09.300731+00:00"
 }
