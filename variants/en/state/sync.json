@@ -24177,13 +24177,6 @@
           "source_id": "34220031",
           "target_video_id": "30859204",
           "permanent": false,
-          "attempted_at": "2026-11-12T00:10:17.275411+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34220031",
-          "target_video_id": "30859204",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:40:26.960370+00:00"
         },
         {
@@ -24192,6 +24185,13 @@
           "target_video_id": "30859204",
           "permanent": false,
           "attempted_at": "2026-11-12T01:10:41.044312+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34220031",
+          "target_video_id": "30859204",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:03:29.106911+00:00"
         }
       ],
       "last_plan": {
@@ -24205,12 +24205,6 @@
         "size_bytes": 11800000000,
         "prepared_at": "2026-11-06T12:37:47.237046+00:00",
         "relay_source_id": "34220031"
-      },
-      "claim": {
-        "worker_id": "c0f0e3486d8944559a52448d40b2556d-shard-0",
-        "claimed_at": "2026-11-12T02:03:25.419055+00:00",
-        "lease_expires_at": "2026-11-12T08:03:25.419055+00:00",
-        "run_id": "43133989396"
       }
     },
     "1788": {
@@ -27781,7 +27775,7 @@
       "last_plan": {
         "source_id": "25583722",
         "display_name": "Glass Onion: A Knives Out Mystery 1080p CZ Titulky",
-        "planned_at": "2026-11-12T01:10:44.934396+00:00"
+        "planned_at": "2026-11-12T02:03:28.305339+00:00"
       },
       "previous_target_id": "30903877",
       "prepared": {
@@ -27789,6 +27783,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-08T01:33:25.661957+00:00",
         "relay_source_id": "25583722"
+      },
+      "claim": {
+        "worker_id": "b611d1fb939d498e9462afd6538bac1c-shard-0",
+        "claimed_at": "2026-11-12T02:03:28.477534+00:00",
+        "lease_expires_at": "2026-11-12T08:03:28.477534+00:00",
+        "run_id": "43133989396"
       }
     },
     "23038": {
@@ -36782,7 +36782,7 @@
       "last_plan": {
         "source_id": "32938361",
         "display_name": "The Blue Trail (O Último Azul) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T02:03:25.337056+00:00"
+        "planned_at": "2026-11-12T02:03:28.421801+00:00"
       }
     },
     "25926": {
@@ -97419,5 +97419,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:03:25.419079+00:00"
+  "updated_at": "2026-11-12T02:03:29.106930+00:00"
 }
