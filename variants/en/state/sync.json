@@ -34921,6 +34921,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-11T05:56:20.471775+00:00",
         "relay_source_id": "27648883"
+      },
+      "claim": {
+        "worker_id": "8ed760c9978045b48a3bcf3f6936a046-shard-0",
+        "claimed_at": "2026-11-12T18:59:01.361084+00:00",
+        "lease_expires_at": "2026-11-13T00:59:01.361084+00:00",
+        "run_id": "43247223099"
       }
     },
     "2378": {
@@ -37719,17 +37725,19 @@
       "attempts": []
     },
     "2690": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32905861",
+          "target_video_id": "31003896",
+          "permanent": false,
+          "attempted_at": "2026-11-12T18:59:02.122634+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32905861",
         "display_name": "The Magnificent Seven (2016) 4K CZ Titulky",
         "planned_at": "2026-11-12T15:57:16.422072+00:00"
-      },
-      "claim": {
-        "worker_id": "f6f720da1a4c42038775a06703bd0639-shard-0",
-        "claimed_at": "2026-11-12T15:57:16.777151+00:00",
-        "lease_expires_at": "2026-11-12T21:57:16.777151+00:00",
-        "run_id": "43247223099"
       },
       "previous_target_id": "31003896",
       "prepared": {
@@ -97910,5 +97918,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T18:58:59.385834+00:00"
+  "updated_at": "2026-11-12T18:59:02.122658+00:00"
 }
