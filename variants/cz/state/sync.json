@@ -116774,13 +116774,6 @@
           "source_id": "30780126",
           "target_video_id": "30984749",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:59:27.256701+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30780126",
-          "target_video_id": "30984749",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:26:51.451457+00:00"
         },
         {
@@ -116789,6 +116782,13 @@
           "target_video_id": "30984749",
           "permanent": false,
           "attempted_at": "2026-11-12T10:02:52.807007+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30780126",
+          "target_video_id": "30984749",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:19:16.323844+00:00"
         }
       ],
       "last_plan": {
@@ -134170,7 +134170,7 @@
       "last_plan": {
         "source_id": "34676079",
         "display_name": "Madla z cihelny 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:02:54.750197+00:00"
+        "planned_at": "2026-11-12T12:19:14.821762+00:00"
       },
       "previous_target_id": "30987477",
       "prepared": {
@@ -134178,6 +134178,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T04:52:55.769930+00:00",
         "relay_source_id": "34676079"
+      },
+      "claim": {
+        "worker_id": "e7c93dc6f15a43de836db98d2ae7c360-shard-0",
+        "claimed_at": "2026-11-12T12:19:15.643316+00:00",
+        "lease_expires_at": "2026-11-12T18:19:15.643316+00:00",
+        "run_id": "43208551669"
       }
     },
     "24448": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:19:12.049952+00:00"
+        "planned_at": "2026-11-12T12:19:15.151030+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:19:12.342220+00:00"
+  "updated_at": "2026-11-12T12:19:16.323860+00:00"
 }
