@@ -16540,13 +16540,6 @@
           "source_id": "33537783",
           "target_video_id": "30747251",
           "permanent": false,
-          "attempted_at": "2026-11-12T17:30:34.012410+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33537783",
-          "target_video_id": "30747251",
-          "permanent": false,
           "attempted_at": "2026-11-12T18:00:52.798380+00:00"
         },
         {
@@ -16555,6 +16548,13 @@
           "target_video_id": "30747251",
           "permanent": false,
           "attempted_at": "2026-11-12T18:31:00.738590+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33537783",
+          "target_video_id": "30747251",
+          "permanent": false,
+          "attempted_at": "2026-11-12T19:01:05.306930+00:00"
         }
       ],
       "last_plan": {
@@ -33797,7 +33797,7 @@
       "last_plan": {
         "source_id": "6563156",
         "display_name": "The Seven Year Itch 1080p CZ Titulky",
-        "planned_at": "2026-11-12T18:30:59.976306+00:00"
+        "planned_at": "2026-11-12T19:01:04.564056+00:00"
       },
       "previous_target_id": "30983632",
       "prepared": {
@@ -33805,6 +33805,12 @@
         "size_bytes": 15000000000,
         "prepared_at": "2026-11-10T14:25:35.887136+00:00",
         "relay_source_id": "6563156"
+      },
+      "claim": {
+        "worker_id": "7b2f51e5f1e14dd1a44c09f979efbfdb-shard-0",
+        "claimed_at": "2026-11-12T19:01:04.875672+00:00",
+        "lease_expires_at": "2026-11-13T01:01:04.875672+00:00",
+        "run_id": "43247223099"
       }
     },
     "23615": {
@@ -37844,7 +37850,7 @@
       "last_plan": {
         "source_id": "35402133",
         "display_name": "Conan the Barbarian (1982) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T19:01:01.698892+00:00"
+        "planned_at": "2026-11-12T19:01:04.753006+00:00"
       }
     },
     "23924": {
@@ -97930,5 +97936,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T19:01:01.698997+00:00"
+  "updated_at": "2026-11-12T19:01:05.306950+00:00"
 }
