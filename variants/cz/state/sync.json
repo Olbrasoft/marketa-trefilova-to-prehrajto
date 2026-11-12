@@ -142332,13 +142332,6 @@
           "source_id": "34953142",
           "target_video_id": "30988584",
           "permanent": false,
-          "attempted_at": "2026-11-11T20:41:11.073215+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34953142",
-          "target_video_id": "30988584",
-          "permanent": false,
           "attempted_at": "2026-11-11T22:15:52.775128+00:00"
         },
         {
@@ -142347,6 +142340,13 @@
           "target_video_id": "30988584",
           "permanent": false,
           "attempted_at": "2026-11-11T23:32:00.830718+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34953142",
+          "target_video_id": "30988584",
+          "permanent": false,
+          "attempted_at": "2026-11-12T00:46:01.019573+00:00"
         }
       ],
       "last_plan": {
@@ -143675,7 +143675,7 @@
       "last_plan": {
         "source_id": "34716304",
         "display_name": "Arms for Prague (Zbraně pro Prahu) 1080p CZ Dabing",
-        "planned_at": "2026-11-11T23:32:00.579657+00:00"
+        "planned_at": "2026-11-12T00:45:59.460319+00:00"
       },
       "previous_target_id": "30988791",
       "prepared": {
@@ -143683,6 +143683,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T10:02:38.748556+00:00",
         "relay_source_id": "34716304"
+      },
+      "claim": {
+        "worker_id": "1c2f03f502dc42129b6a7e7af5d14031-shard-0",
+        "claimed_at": "2026-11-12T00:46:00.270412+00:00",
+        "lease_expires_at": "2026-11-12T06:46:00.270412+00:00",
+        "run_id": "43102571398"
       }
     },
     "15540": {
@@ -146445,7 +146451,7 @@
       "last_plan": {
         "source_id": "35179887",
         "display_name": "Zahradnictví: Dezertér 1080p CZ Dabing",
-        "planned_at": "2026-11-12T00:45:53.889293+00:00"
+        "planned_at": "2026-11-12T00:45:59.802449+00:00"
       }
     },
     "25919": {
@@ -198039,5 +198045,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T00:45:53.889313+00:00"
+  "updated_at": "2026-11-12T00:46:01.019595+00:00"
 }
