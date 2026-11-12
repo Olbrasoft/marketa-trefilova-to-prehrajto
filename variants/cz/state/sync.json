@@ -69186,7 +69186,7 @@
       "last_plan": {
         "source_id": "26647188",
         "display_name": "Firelight 1080p CZ Dabing",
-        "planned_at": "2026-11-12T05:20:12.345316+00:00"
+        "planned_at": "2026-11-12T05:20:16.004053+00:00"
       }
     },
     "1874": {
@@ -126500,7 +126500,7 @@
       "last_plan": {
         "source_id": "28764555",
         "display_name": "The Quick and the Dead (1987) SD CZ Dabing",
-        "planned_at": "2026-11-12T04:09:20.141837+00:00"
+        "planned_at": "2026-11-12T05:20:15.607380+00:00"
       },
       "previous_target_id": "30986277",
       "prepared": {
@@ -126508,6 +126508,12 @@
         "size_bytes": 869700000,
         "prepared_at": "2026-11-10T23:51:42.939258+00:00",
         "relay_source_id": "28764555"
+      },
+      "claim": {
+        "worker_id": "0da7110fbd0d4fbf9f89ed80caa20e75-shard-0",
+        "claimed_at": "2026-11-12T05:20:16.261910+00:00",
+        "lease_expires_at": "2026-11-12T11:20:16.261910+00:00",
+        "run_id": "43133989396"
       }
     },
     "33773": {
@@ -146869,17 +146875,19 @@
       "attempts": []
     },
     "15177": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34689587",
+          "target_video_id": "30998799",
+          "permanent": false,
+          "attempted_at": "2026-11-12T05:20:16.983385+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34689587",
         "display_name": "To New Shores (Zu neuen Ufern) 1080p CZ Dabing",
         "planned_at": "2026-11-12T05:07:59.379937+00:00"
-      },
-      "claim": {
-        "worker_id": "6edc760e007a402986cbc161d1bd6e4b-shard-0",
-        "claimed_at": "2026-11-12T05:07:59.868443+00:00",
-        "lease_expires_at": "2026-11-12T11:07:59.868443+00:00",
-        "run_id": "43133989396"
       },
       "previous_target_id": "30998799",
       "prepared": {
@@ -198419,5 +198427,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T05:20:14.088920+00:00"
+  "updated_at": "2026-11-12T05:20:16.983404+00:00"
 }
