@@ -129637,6 +129637,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T02:29:31.025469+00:00",
         "relay_source_id": "34255923"
+      },
+      "claim": {
+        "worker_id": "62fda0fa5fdc4cba85315c7352679fd9-shard-0",
+        "claimed_at": "2026-11-12T01:17:52.011208+00:00",
+        "lease_expires_at": "2026-11-12T07:17:52.011208+00:00",
+        "run_id": "43102571398"
       }
     },
     "3086": {
@@ -143083,13 +143089,6 @@
           "source_id": "31011202",
           "target_video_id": "30988658",
           "permanent": false,
-          "attempted_at": "2026-11-11T21:12:53.371837+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31011202",
-          "target_video_id": "30988658",
-          "permanent": false,
           "attempted_at": "2026-11-11T22:49:03.871130+00:00"
         },
         {
@@ -143098,6 +143097,13 @@
           "target_video_id": "30988658",
           "permanent": false,
           "attempted_at": "2026-11-12T00:01:15.960473+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31011202",
+          "target_video_id": "30988658",
+          "permanent": false,
+          "attempted_at": "2026-11-12T01:17:52.403439+00:00"
         }
       ],
       "last_plan": {
@@ -143111,12 +143117,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T09:07:30.175373+00:00",
         "relay_source_id": "31011202"
-      },
-      "claim": {
-        "worker_id": "75fc8060e3f8494a9c2568b430da2bfb-shard-0",
-        "claimed_at": "2026-11-12T01:17:48.888832+00:00",
-        "lease_expires_at": "2026-11-12T07:17:48.888832+00:00",
-        "run_id": "43102571398"
       }
     },
     "33112": {
@@ -146492,7 +146492,7 @@
       "last_plan": {
         "source_id": "34694579",
         "display_name": "On a String 1080p CZ Dabing",
-        "planned_at": "2026-11-12T01:17:45.211800+00:00"
+        "planned_at": "2026-11-12T01:17:51.576388+00:00"
       }
     },
     "27336": {
@@ -198077,5 +198077,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T01:17:49.435673+00:00"
+  "updated_at": "2026-11-12T01:17:52.403460+00:00"
 }
