@@ -123207,13 +123207,6 @@
           "source_id": "34504671",
           "target_video_id": "30985585",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:45:24.797070+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34504671",
-          "target_video_id": "30985585",
-          "permanent": false,
           "attempted_at": "2026-11-11T23:58:48.657678+00:00"
         },
         {
@@ -123222,12 +123215,19 @@
           "target_video_id": "30985585",
           "permanent": false,
           "attempted_at": "2026-11-12T01:14:04.858938+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34504671",
+          "target_video_id": "30985585",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:50:15.500003+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34504671",
         "display_name": "The Wind and the Lion 1080p CZ Dabing",
-        "planned_at": "2026-11-12T01:14:02.496446+00:00"
+        "planned_at": "2026-11-12T02:50:13.538814+00:00"
       },
       "previous_target_id": "30985585",
       "prepared": {
@@ -146584,11 +146584,22 @@
       "last_plan": {
         "source_id": "30819135",
         "display_name": "Les Bois maudits SD CZ Dabing",
-        "planned_at": "2026-11-12T02:50:09.027373+00:00"
+        "planned_at": "2026-11-12T02:50:13.774265+00:00"
+      },
+      "claim": {
+        "worker_id": "4aef7b79492a4390a92005985fe8266b-shard-0",
+        "claimed_at": "2026-11-12T02:50:14.313469+00:00",
+        "lease_expires_at": "2026-11-12T08:50:14.313469+00:00",
+        "run_id": "43133989396"
       }
     },
     "17662": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34696477",
+        "display_name": "All Those Small Things 1080p CZ Dabing",
+        "planned_at": "2026-11-12T02:50:13.911107+00:00"
+      }
     },
     "28177": {
       "attempts": []
@@ -198163,5 +198174,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:50:11.651901+00:00"
+  "updated_at": "2026-11-12T02:50:15.500023+00:00"
 }
