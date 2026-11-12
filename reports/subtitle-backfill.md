@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T12:57:30.668043+00:00
+Poslední aktualizace (UTC): 2026-11-12T12:57:33.496007+00:00
 
 Zkontrolováno videí: 660. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 18, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 85, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 86, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -25,7 +25,6 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 96. Důvod
 | [Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky](https://prehraj.to/divided-we-fall-musime-si-pomahat-1080p-cz-titulky-mkv/1f0ad966ebe3ad14) (ID 30775107) | [Sdílej 33306409](https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-04T20:23:57.382149+00:00 |
 | [Django Unchained 4K CZ Titulky](https://prehraj.to/django-unchained-cz-titulky-mkv/8f93dd558c6bce9a) (ID 30588424) | [Sdílej 33138453](https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T09:59:37.956241+00:00 |
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T18:09:32.445900+00:00 |
-| [Gladiator (2000) 4K CZ Titulky](https://prehraj.to/gladiator-2000-cz-titulky-mkv/5ab06a3385e9b8ad) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T12:56:04.650235+00:00 |
 | [Goodfellas 4K CZ Titulky](https://prehraj.to/goodfellas-cz-titulky-mkv/a65ae78cae07f027) (ID 30584304) | [Sdílej 12646320](https://sdilej.cz/12646320/goodfellas.1990.multi.uhd.blu-ray.2160p.dts-hdma.5.1.hevc-ddr.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T05:53:04.486680+00:00 |
 | [Inception 1080p CZ Titulky](https://prehraj.to/inception-cz-titulky-mkv/cd15cbc3a2cf875e) (ID 30582836) | [Sdílej 34401564](https://sdilej.cz/34401564/inception.2010.blu-ray.remux.1080p.vc-1.dts-hd.ma.5.1-eng-ac3-5.1-cze.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T02:43:24.015291+00:00 |
 | [Interstellar 4K CZ Titulky](https://prehraj.to/interstellar-cz-titulky-mkv/dac891fa777f1c66) (ID 30584268) | [Sdílej 32920949](https://sdilej.cz/32920949/interstellar-2014-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-11T17:54:52.623997+00:00 |
@@ -88,6 +87,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 96. Důvod
 | [Falcon Lake 1080p CZ Titulky](https://prehraj.to/falcon-lake-1080p-cz-titulky-mkv/1306a741b8099445) (ID 30997054) | [Sdílej 35401837](https://sdilej.cz/35401837/falcon.lake.2022.french.1080p.webrip.x264-vxt.fr.cz.tit.mkv) | target_unavailable | 2026-11-12T02:22:17.310556+00:00 |
 | [Ferry 720p CZ Titulky](https://prehraj.to/ferry-720p-cz-titulky-mkv/30f5b91e1b85ee37) (ID 30987911) | [Sdílej 32154189](https://sdilej.cz/32154189/ferry-2021-cz-tit-1080p.mkv) | target_unavailable | 2026-11-11T06:48:03.154945+00:00 |
 | [Generation Iron 720p CZ Titulky](https://prehraj.to/generation-iron-720p-cz-titulky-mkv/da434438aecaa89f) (ID 30992304) | [Sdílej 22898145](https://sdilej.cz/22898145/generation-iron.mkv) | target_unavailable | 2026-11-11T17:24:52.699436+00:00 |
+| [Gladiator (2000) 4K CZ Titulky](https://prehraj.to/gladiator-2000-cz-titulky-mkv/5ab06a3385e9b8ad) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | target_unavailable | 2026-11-12T12:57:32.177877+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-10T09:50:13.007331+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-10T09:49:37.027203+00:00 |
 | [Harrison's Flowers SD CZ Titulky](https://prehraj.to/harrison-s-flowers-sd-cz-titulky-mkv/b113fd605d829de3) (ID 30992832) | [Sdílej 27735775](https://sdilej.cz/27735775/harrisonovy-kvety-harrison-s-flowers-2000-cz-tit.mkv) | target_unavailable | 2026-11-11T18:34:50.841602+00:00 |
