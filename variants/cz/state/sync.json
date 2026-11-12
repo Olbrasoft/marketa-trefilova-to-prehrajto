@@ -29721,13 +29721,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-11T23:35:26.992664+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:49:59.494191+00:00"
         },
         {
@@ -29736,6 +29729,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-12T02:31:04.650573+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-12T03:41:19.316694+00:00"
         }
       ],
       "last_plan": {
@@ -123045,7 +123045,7 @@
       "last_plan": {
         "source_id": "24836709",
         "display_name": "Harper SD CZ Dabing",
-        "planned_at": "2026-11-12T02:31:04.811752+00:00"
+        "planned_at": "2026-11-12T03:41:17.991916+00:00"
       },
       "previous_target_id": "30985572",
       "prepared": {
@@ -123053,6 +123053,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T20:28:40.493950+00:00",
         "relay_source_id": "24836709"
+      },
+      "claim": {
+        "worker_id": "44c5db0264e14d11b8121db7eb07ab94-shard-0",
+        "claimed_at": "2026-11-12T03:41:18.519574+00:00",
+        "lease_expires_at": "2026-11-12T09:41:18.519574+00:00",
+        "run_id": "43133989396"
       }
     },
     "32552": {
@@ -146675,7 +146681,7 @@
       "last_plan": {
         "source_id": "29431268",
         "display_name": "Deda (Děda) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T03:41:16.312307+00:00"
+        "planned_at": "2026-11-12T03:41:18.207878+00:00"
       }
     },
     "12543": {
@@ -198242,5 +198248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:41:16.312328+00:00"
+  "updated_at": "2026-11-12T03:41:19.316714+00:00"
 }
