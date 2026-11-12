@@ -118182,6 +118182,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "7eb702bd81934da5a04ab9559b6e96b8-shard-0",
+        "claimed_at": "2026-11-12T02:49:52.154630+00:00",
+        "lease_expires_at": "2026-11-12T08:49:52.154630+00:00",
+        "run_id": "43133989396"
       }
     },
     "12374": {
@@ -121169,13 +121175,6 @@
           "source_id": "33746515",
           "target_video_id": "30985386",
           "permanent": false,
-          "attempted_at": "2026-11-11T22:45:00.159392+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33746515",
-          "target_video_id": "30985386",
-          "permanent": false,
           "attempted_at": "2026-11-11T23:58:24.957593+00:00"
         },
         {
@@ -121184,12 +121183,19 @@
           "target_video_id": "30985386",
           "permanent": false,
           "attempted_at": "2026-11-12T01:13:35.799477+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33746515",
+          "target_video_id": "30985386",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:49:54.497244+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33746515",
         "display_name": "Taps 1080p CZ Dabing",
-        "planned_at": "2026-11-12T01:13:33.480425+00:00"
+        "planned_at": "2026-11-12T02:49:52.339477+00:00"
       },
       "previous_target_id": "30985386",
       "prepared": {
@@ -146584,7 +146590,7 @@
       "last_plan": {
         "source_id": "30819135",
         "display_name": "Les Bois maudits SD CZ Dabing",
-        "planned_at": "2026-11-12T02:49:50.456026+00:00"
+        "planned_at": "2026-11-12T02:49:52.575873+00:00"
       }
     },
     "17662": {
@@ -198163,5 +198169,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:49:50.456058+00:00"
+  "updated_at": "2026-11-12T02:49:54.497269+00:00"
 }
