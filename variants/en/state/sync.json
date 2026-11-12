@@ -38000,17 +38000,19 @@
       "attempts": []
     },
     "18861": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6507377",
+          "target_video_id": "31006278",
+          "permanent": false,
+          "attempted_at": "2026-11-12T21:55:17.372171+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6507377",
         "display_name": "Swiss Army Man 720p CZ Titulky",
         "planned_at": "2026-11-12T21:33:40.757030+00:00"
-      },
-      "claim": {
-        "worker_id": "b9f3ad649cd749b8b354b06c244c9cc8-shard-0",
-        "claimed_at": "2026-11-12T21:33:40.922889+00:00",
-        "lease_expires_at": "2026-11-13T03:33:40.922889+00:00",
-        "run_id": "43299526401"
       },
       "previous_target_id": "31006278",
       "prepared": {
@@ -98069,5 +98071,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T21:55:13.308548+00:00"
+  "updated_at": "2026-11-12T21:55:17.372192+00:00"
 }
