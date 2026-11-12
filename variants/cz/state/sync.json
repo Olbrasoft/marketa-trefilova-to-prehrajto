@@ -38594,17 +38594,19 @@
       "attempts": []
     },
     "33346": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34457513",
+          "target_video_id": "30999825",
+          "permanent": false,
+          "attempted_at": "2026-11-12T07:57:54.081322+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34457513",
         "display_name": "Raid 1080p CZ Dabing",
         "planned_at": "2026-11-12T07:23:24.409468+00:00"
-      },
-      "claim": {
-        "worker_id": "bbc6594687ca419587cefd688fc9d820-shard-0",
-        "claimed_at": "2026-11-12T07:23:25.175749+00:00",
-        "lease_expires_at": "2026-11-12T13:23:25.175749+00:00",
-        "run_id": "43168766567"
       },
       "previous_target_id": "30999825",
       "prepared": {
@@ -72378,13 +72380,6 @@
           "source_id": "27386940",
           "target_video_id": "30871996",
           "permanent": false,
-          "attempted_at": "2026-11-12T03:39:25.662383+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27386940",
-          "target_video_id": "30871996",
-          "permanent": false,
           "attempted_at": "2026-11-12T04:47:39.079922+00:00"
         },
         {
@@ -72393,12 +72388,19 @@
           "target_video_id": "30871996",
           "permanent": false,
           "attempted_at": "2026-11-12T06:00:51.120130+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27386940",
+          "target_video_id": "30871996",
+          "permanent": false,
+          "attempted_at": "2026-11-12T07:57:53.895997+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27386940",
         "display_name": "A Midnight Clear 1080p CZ Dabing",
-        "planned_at": "2026-11-12T06:00:48.177595+00:00"
+        "planned_at": "2026-11-12T07:57:51.009943+00:00"
       },
       "previous_target_id": "30871996",
       "prepared": {
@@ -147079,7 +147081,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-12T07:57:45.812225+00:00"
+        "planned_at": "2026-11-12T07:57:51.291510+00:00"
       }
     },
     "12316": {
@@ -198583,5 +198585,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T07:57:47.726448+00:00"
+  "updated_at": "2026-11-12T07:57:54.081337+00:00"
 }
