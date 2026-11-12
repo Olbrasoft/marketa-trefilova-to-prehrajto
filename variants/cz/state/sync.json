@@ -123244,13 +123244,6 @@
           "source_id": "34710602",
           "target_video_id": "30985582",
           "permanent": false,
-          "attempted_at": "2026-11-12T06:37:39.673967+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710602",
-          "target_video_id": "30985582",
-          "permanent": false,
           "attempted_at": "2026-11-12T08:00:30.370919+00:00"
         },
         {
@@ -123259,6 +123252,13 @@
           "target_video_id": "30985582",
           "permanent": false,
           "attempted_at": "2026-11-12T09:41:08.350160+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710602",
+          "target_video_id": "30985582",
+          "permanent": false,
+          "attempted_at": "2026-11-12T11:52:34.736759+00:00"
         }
       ],
       "last_plan": {
@@ -131405,7 +131405,7 @@
       "last_plan": {
         "source_id": "30618554",
         "display_name": "Hvězda zvaná Pelyněk SD CZ Dabing",
-        "planned_at": "2026-11-12T09:41:11.611908+00:00"
+        "planned_at": "2026-11-12T11:52:33.068805+00:00"
       },
       "previous_target_id": "30987025",
       "prepared": {
@@ -131413,6 +131413,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T03:23:12.749258+00:00",
         "relay_source_id": "30618554"
+      },
+      "claim": {
+        "worker_id": "619634a587f244d6b8dc0d3d60282874-shard-0",
+        "claimed_at": "2026-11-12T11:52:33.906226+00:00",
+        "lease_expires_at": "2026-11-12T17:52:33.906226+00:00",
+        "run_id": "43208551669"
       }
     },
     "32958": {
@@ -140876,7 +140882,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T11:52:30.664132+00:00"
+        "planned_at": "2026-11-12T11:52:33.412829+00:00"
       }
     },
     "33433": {
@@ -198692,5 +198698,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T11:52:30.664149+00:00"
+  "updated_at": "2026-11-12T11:52:34.736776+00:00"
 }
