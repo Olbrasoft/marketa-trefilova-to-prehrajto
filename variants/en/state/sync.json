@@ -16540,13 +16540,6 @@
           "source_id": "33537783",
           "target_video_id": "30747251",
           "permanent": false,
-          "attempted_at": "2026-11-12T00:11:01.341004+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33537783",
-          "target_video_id": "30747251",
-          "permanent": false,
           "attempted_at": "2026-11-12T00:41:09.911489+00:00"
         },
         {
@@ -16555,6 +16548,13 @@
           "target_video_id": "30747251",
           "permanent": false,
           "attempted_at": "2026-11-12T01:11:18.192901+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33537783",
+          "target_video_id": "30747251",
+          "permanent": false,
+          "attempted_at": "2026-11-12T02:03:50.111083+00:00"
         }
       ],
       "last_plan": {
@@ -33797,7 +33797,7 @@
       "last_plan": {
         "source_id": "6563156",
         "display_name": "The Seven Year Itch 1080p CZ Titulky",
-        "planned_at": "2026-11-12T01:11:22.106656+00:00"
+        "planned_at": "2026-11-12T02:03:49.329528+00:00"
       },
       "previous_target_id": "30983632",
       "prepared": {
@@ -33805,6 +33805,12 @@
         "size_bytes": 15000000000,
         "prepared_at": "2026-11-10T14:25:35.887136+00:00",
         "relay_source_id": "6563156"
+      },
+      "claim": {
+        "worker_id": "184fe29318424914af2457f13cfa08dc-shard-0",
+        "claimed_at": "2026-11-12T02:03:49.521842+00:00",
+        "lease_expires_at": "2026-11-12T08:03:49.521842+00:00",
+        "run_id": "43133989396"
       }
     },
     "23615": {
@@ -36776,7 +36782,7 @@
       "last_plan": {
         "source_id": "32938361",
         "display_name": "The Blue Trail (O Último Azul) 1080p CZ Titulky",
-        "planned_at": "2026-11-12T02:03:47.213802+00:00"
+        "planned_at": "2026-11-12T02:03:49.442927+00:00"
       }
     },
     "25926": {
@@ -97413,5 +97419,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T02:03:47.304159+00:00"
+  "updated_at": "2026-11-12T02:03:50.111098+00:00"
 }
