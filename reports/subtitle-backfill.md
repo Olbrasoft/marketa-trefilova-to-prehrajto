@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-12T18:28:22.044839+00:00
+Poslední aktualizace (UTC): 2026-11-12T18:28:31.653843+00:00
 
 Zkontrolováno videí: 666. Další stránka kontroly: 0.
 
@@ -48,7 +48,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 103. Důvo
 | [The Big Lebowski 1080p CZ Titulky](https://prehraj.to/the-big-lebowski-1080p-cz-titulky-mkv/1a8d3b81774dee77) (ID 30615547) | [Sdílej 29312263](https://sdilej.cz/29312263/the.big.lebowski.1998.uhd.bluray.1080p.ddp.5.1.hdr10.x265-sm737.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T18:47:50.035910+00:00 |
 | [The Departed 1080p CZ Titulky](https://prehraj.to/the-departed-cz-titulky-mkv/4eb25d96aefc80ce) (ID 30589626) | [Sdílej 23098497](https://sdilej.cz/23098497/skryta.identita.2006.1080p.hd.cz.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T10:45:17.932575+00:00 |
 | [The Devil All the Time 1080p CZ Titulky](https://prehraj.to/the-devil-all-the-time-1080p-cz-titulky-mkv/1a011aaf592917c8) (ID 30916168) | [Sdílej 29802496](https://sdilej.cz/29802496/the.devil.all.the.time.2020.1080p.h264.leon.-en-subs-cz-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-08T12:50:39.383296+00:00 |
-| [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-05T18:19:39.477401+00:00 |
+| [The Grand Budapest Hotel (2014) (ID 15708) 1080p CZ Titulky](https://prehraj.to/the-grand-budapest-hotel-2014-id-15708-1080p-cz-titulky-mkv/75479a72d495eead) (ID 30614794) | [Sdílej 32638360](https://sdilej.cz/32638360/the-grand-budapest-hotel-grandhotel-budapest-2014-1080p-cz-ac3-5.1-en-dts-hd-5.1.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T18:28:30.439307+00:00 |
 | [The Grapes of Wrath 1080p](https://prehraj.to/the-grapes-of-wrath-1080p-mp4/5407d3be76b4fb11) (ID 30622415) | [Sdílej 34770809](https://sdilej.cz/34770809/hrozny-hnevu-1940-en.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T02:50:47.367359+00:00 |
 | [The Lives of Others 1080p](https://prehraj.to/the-lives-of-others-mkv/fdf5b9b3bc7fdd6f) (ID 30595036) | [Sdílej 27490020](https://sdilej.cz/27490020/the-lives-of-others-2006-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-12T16:48:06.336344+00:00 |
 | [The Lord of the Rings: The Two Towers 4K CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-two-towers-cz-titulky-mkv/6eac0a68b244fbe3) (ID 30583875) | [Sdílej 23272546](https://sdilej.cz/23272546/the-lord-of-the-rings-the-two-towers-2002-extended-2160p-bluray-x265-10bit-hdr-tigole-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T04:42:39.871880+00:00 |
