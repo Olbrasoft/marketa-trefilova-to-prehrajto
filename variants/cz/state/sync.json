@@ -109349,13 +109349,6 @@
           "source_id": "34708982",
           "target_video_id": "30983673",
           "permanent": false,
-          "attempted_at": "2026-11-12T07:25:54.998770+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34708982",
-          "target_video_id": "30983673",
-          "permanent": false,
           "attempted_at": "2026-11-12T09:00:37.130969+00:00"
         },
         {
@@ -109364,6 +109357,13 @@
           "target_video_id": "30983673",
           "permanent": false,
           "attempted_at": "2026-11-12T10:27:32.935265+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34708982",
+          "target_video_id": "30983673",
+          "permanent": false,
+          "attempted_at": "2026-11-12T12:44:55.225992+00:00"
         }
       ],
       "last_plan": {
@@ -125869,7 +125869,7 @@
       "last_plan": {
         "source_id": "12259425",
         "display_name": "Man Without a Star SD CZ Dabing",
-        "planned_at": "2026-11-12T10:27:34.751456+00:00"
+        "planned_at": "2026-11-12T12:44:53.687703+00:00"
       },
       "previous_target_id": "30986087",
       "prepared": {
@@ -125877,6 +125877,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-10T23:16:23.373138+00:00",
         "relay_source_id": "12259425"
+      },
+      "claim": {
+        "worker_id": "d381622ab28c454187db2d6909ac5028-shard-0",
+        "claimed_at": "2026-11-12T12:44:54.541152+00:00",
+        "lease_expires_at": "2026-11-12T18:44:54.541152+00:00",
+        "run_id": "43208551669"
       }
     },
     "2815": {
@@ -140878,7 +140884,7 @@
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
-        "planned_at": "2026-11-12T12:44:49.475932+00:00"
+        "planned_at": "2026-11-12T12:44:54.034141+00:00"
       }
     },
     "33433": {
@@ -198694,5 +198700,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T12:44:49.475949+00:00"
+  "updated_at": "2026-11-12T12:44:55.226009+00:00"
 }
