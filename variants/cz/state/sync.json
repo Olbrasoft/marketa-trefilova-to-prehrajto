@@ -119977,13 +119977,6 @@
           "source_id": "11263337",
           "target_video_id": "30985002",
           "permanent": false,
-          "attempted_at": "2026-11-12T05:11:14.449886+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11263337",
-          "target_video_id": "30985002",
-          "permanent": false,
           "attempted_at": "2026-11-12T06:56:25.930285+00:00"
         },
         {
@@ -119992,6 +119985,13 @@
           "target_video_id": "30985002",
           "permanent": false,
           "attempted_at": "2026-11-12T08:24:08.813771+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11263337",
+          "target_video_id": "30985002",
+          "permanent": false,
+          "attempted_at": "2026-11-12T10:00:41.282950+00:00"
         }
       ],
       "last_plan": {
@@ -120005,12 +120005,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T18:30:17.466007+00:00",
         "relay_source_id": "11263337"
-      },
-      "claim": {
-        "worker_id": "863c632f11fb4804afdf280211b00305-shard-0",
-        "claimed_at": "2026-11-12T10:00:37.173098+00:00",
-        "lease_expires_at": "2026-11-12T16:00:37.173098+00:00",
-        "run_id": "43168766567"
       }
     },
     "3022": {
@@ -121279,7 +121273,7 @@
       "last_plan": {
         "source_id": "33746515",
         "display_name": "Taps 1080p CZ Dabing",
-        "planned_at": "2026-11-12T08:24:10.547977+00:00"
+        "planned_at": "2026-11-12T10:00:40.252229+00:00"
       },
       "previous_target_id": "30985386",
       "prepared": {
@@ -121287,6 +121281,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T19:00:56.350782+00:00",
         "relay_source_id": "33746515"
+      },
+      "claim": {
+        "worker_id": "ac6eff248bf6477f8449bbade9553733-shard-0",
+        "claimed_at": "2026-11-12T10:00:40.903864+00:00",
+        "lease_expires_at": "2026-11-12T16:00:40.903864+00:00",
+        "run_id": "43168766567"
       }
     },
     "27476": {
@@ -147126,7 +147126,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-12T10:00:36.743213+00:00"
+        "planned_at": "2026-11-12T10:00:40.535995+00:00"
       }
     },
     "12316": {
@@ -198635,5 +198635,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T10:00:38.264044+00:00"
+  "updated_at": "2026-11-12T10:00:41.282967+00:00"
 }
