@@ -123154,13 +123154,6 @@
           "source_id": "34710602",
           "target_video_id": "30985582",
           "permanent": false,
-          "attempted_at": "2026-11-12T02:31:28.345442+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710602",
-          "target_video_id": "30985582",
-          "permanent": false,
           "attempted_at": "2026-11-12T03:41:39.768874+00:00"
         },
         {
@@ -123169,6 +123162,13 @@
           "target_video_id": "30985582",
           "permanent": false,
           "attempted_at": "2026-11-12T04:50:27.039197+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710602",
+          "target_video_id": "30985582",
+          "permanent": false,
+          "attempted_at": "2026-11-12T06:37:39.673967+00:00"
         }
       ],
       "last_plan": {
@@ -131315,7 +131315,7 @@
       "last_plan": {
         "source_id": "30618554",
         "display_name": "Hvězda zvaná Pelyněk SD CZ Dabing",
-        "planned_at": "2026-11-12T04:50:28.446295+00:00"
+        "planned_at": "2026-11-12T06:37:38.055192+00:00"
       },
       "previous_target_id": "30987025",
       "prepared": {
@@ -131323,6 +131323,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T03:23:12.749258+00:00",
         "relay_source_id": "30618554"
+      },
+      "claim": {
+        "worker_id": "9fc42447f15c4415999e5086fad44330-shard-0",
+        "claimed_at": "2026-11-12T06:37:38.692557+00:00",
+        "lease_expires_at": "2026-11-12T12:37:38.692557+00:00",
+        "run_id": "43168766567"
       }
     },
     "32958": {
@@ -146982,7 +146988,7 @@
       "last_plan": {
         "source_id": "12863543",
         "display_name": "Taxi 121 SD CZ Dabing",
-        "planned_at": "2026-11-12T06:37:36.137961+00:00"
+        "planned_at": "2026-11-12T06:37:38.337713+00:00"
       }
     },
     "28088": {
@@ -198497,5 +198503,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T06:37:36.137978+00:00"
+  "updated_at": "2026-11-12T06:37:39.673985+00:00"
 }
