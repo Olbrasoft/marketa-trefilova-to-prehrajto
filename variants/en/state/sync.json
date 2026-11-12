@@ -37862,17 +37862,19 @@
       "attempts": []
     },
     "11372": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35402133",
+          "target_video_id": "31005845",
+          "permanent": false,
+          "attempted_at": "2026-11-12T20:59:48.191318+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35402133",
         "display_name": "Conan the Barbarian (1982) 1080p CZ Titulky",
         "planned_at": "2026-11-12T20:40:49.455905+00:00"
-      },
-      "claim": {
-        "worker_id": "44f477751c924985ad281259b17a8756-shard-0",
-        "claimed_at": "2026-11-12T20:40:50.304222+00:00",
-        "lease_expires_at": "2026-11-13T02:40:50.304222+00:00",
-        "run_id": "43299526401"
       },
       "previous_target_id": "31005845",
       "prepared": {
@@ -97988,5 +97990,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T20:59:45.021911+00:00"
+  "updated_at": "2026-11-12T20:59:48.191336+00:00"
 }
