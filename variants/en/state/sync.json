@@ -40130,17 +40130,19 @@
       "attempts": []
     },
     "16028": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29683351",
+          "target_video_id": "31015032",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:18:10.091627+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29683351",
         "display_name": "Officer Black Belt (무도실무관) 1080p CZ Titulky",
         "planned_at": "2026-11-13T16:10:52.336813+00:00"
-      },
-      "claim": {
-        "worker_id": "6b46de8df3d84fe58b0e591136adffa9-shard-0",
-        "claimed_at": "2026-11-13T16:10:54.548777+00:00",
-        "lease_expires_at": "2026-11-13T22:10:54.548777+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31015032",
       "prepared": {
@@ -99231,5 +99233,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:16:38.255456+00:00"
+  "updated_at": "2026-11-13T16:18:10.091646+00:00"
 }
