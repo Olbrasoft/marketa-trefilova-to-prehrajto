@@ -107781,7 +107781,7 @@
       "last_plan": {
         "source_id": "31561997",
         "display_name": "Vracenky SD CZ Dabing",
-        "planned_at": "2026-11-13T22:04:59.591324+00:00"
+        "planned_at": "2026-11-13T23:07:56.574157+00:00"
       },
       "previous_target_id": "30983461",
       "prepared": {
@@ -107789,6 +107789,12 @@
         "size_bytes": 920700000,
         "prepared_at": "2026-11-10T14:05:41.851499+00:00",
         "relay_source_id": "31561997"
+      },
+      "claim": {
+        "worker_id": "62cf0bdfa841495ba7dd076b78018911-shard-0",
+        "claimed_at": "2026-11-13T23:07:57.046478+00:00",
+        "lease_expires_at": "2026-11-14T05:07:57.046478+00:00",
+        "run_id": "43482054430"
       }
     },
     "2623": {
@@ -140834,6 +140840,12 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-11T07:44:03.302758+00:00",
         "relay_source_id": "33505803"
+      },
+      "claim": {
+        "worker_id": "fb949c9607234c1a865ffed780ec5f0a-shard-0",
+        "claimed_at": "2026-11-13T23:07:56.412772+00:00",
+        "lease_expires_at": "2026-11-14T05:07:56.412772+00:00",
+        "run_id": "43482054430"
       }
     },
     "24712": {
@@ -149862,17 +149874,19 @@
       "attempts": []
     },
     "16618": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34883224",
+          "target_video_id": "31020927",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:08:00.722478+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34883224",
         "display_name": "Deckname Holec 1080p CZ Dabing",
         "planned_at": "2026-11-13T23:05:12.060679+00:00"
-      },
-      "claim": {
-        "worker_id": "087a4e10dbab4f6ebb35fcea7073e867-shard-0",
-        "claimed_at": "2026-11-13T23:05:12.560206+00:00",
-        "lease_expires_at": "2026-11-14T05:05:12.560206+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020927",
       "prepared": {
@@ -149887,7 +149901,7 @@
       "last_plan": {
         "source_id": "13005495",
         "display_name": "Veterán 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:07:53.958877+00:00"
+        "planned_at": "2026-11-13T23:07:56.780116+00:00"
       }
     },
     "12714": {
@@ -201006,5 +201020,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:07:53.958896+00:00"
+  "updated_at": "2026-11-13T23:08:00.722492+00:00"
 }
