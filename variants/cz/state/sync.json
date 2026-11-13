@@ -122976,13 +122976,6 @@
           "source_id": "9868166",
           "target_video_id": "30985523",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:20:02.944435+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9868166",
-          "target_video_id": "30985523",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:25:42.125977+00:00"
         },
         {
@@ -122991,6 +122984,13 @@
           "target_video_id": "30985523",
           "permanent": false,
           "attempted_at": "2026-11-13T21:33:59.651335+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9868166",
+          "target_video_id": "30985523",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:34:15.865193+00:00"
         }
       ],
       "last_plan": {
@@ -123004,12 +123004,6 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T20:02:25.028388+00:00",
         "relay_source_id": "9868166"
-      },
-      "claim": {
-        "worker_id": "54ff4e618650454a89d10bf52d2a21b1-shard-0",
-        "claimed_at": "2026-11-13T22:34:12.865114+00:00",
-        "lease_expires_at": "2026-11-14T04:34:12.865114+00:00",
-        "run_id": "43482054430"
       }
     },
     "26269": {
@@ -133461,7 +133455,7 @@
       "last_plan": {
         "source_id": "34883806",
         "display_name": "Escape Home (Útěky domů) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:34:01.089344+00:00"
+        "planned_at": "2026-11-13T22:34:16.221631+00:00"
       },
       "previous_target_id": "30987308",
       "prepared": {
@@ -149460,17 +149454,19 @@
       }
     },
     "27586": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13222930",
+          "target_video_id": "31020322",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:34:16.693525+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13222930",
         "display_name": "Head Hands Heart (Head - Hands - Heart) 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:29:56.033933+00:00"
-      },
-      "claim": {
-        "worker_id": "c7793c9ef8ca4bbdb4c7533966891630-shard-0",
-        "claimed_at": "2026-11-13T22:29:56.571035+00:00",
-        "lease_expires_at": "2026-11-14T04:29:56.571035+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020322",
       "prepared": {
@@ -149485,7 +149481,7 @@
       "last_plan": {
         "source_id": "33802547",
         "display_name": "Tank Brigade 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:34:12.428348+00:00"
+        "planned_at": "2026-11-13T22:34:16.418195+00:00"
       }
     },
     "17086": {
@@ -200679,5 +200675,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:34:12.865134+00:00"
+  "updated_at": "2026-11-13T22:34:16.693537+00:00"
 }
