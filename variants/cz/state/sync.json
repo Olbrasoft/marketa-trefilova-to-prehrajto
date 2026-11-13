@@ -133303,13 +133303,6 @@
           "source_id": "34634312",
           "target_video_id": "30987300",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:09:39.241671+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34634312",
-          "target_video_id": "30987300",
-          "permanent": false,
           "attempted_at": "2026-11-13T12:22:15.947298+00:00"
         },
         {
@@ -133318,6 +133311,13 @@
           "target_video_id": "30987300",
           "permanent": false,
           "attempted_at": "2026-11-13T13:41:07.452706+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34634312",
+          "target_video_id": "30987300",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:24:11.167438+00:00"
         }
       ],
       "last_plan": {
@@ -134345,7 +134345,7 @@
       "last_plan": {
         "source_id": "30622989",
         "display_name": "Concert at the End of Summer (Koncert na konci léta) SD CZ Dabing",
-        "planned_at": "2026-11-13T13:41:07.146721+00:00"
+        "planned_at": "2026-11-13T15:24:09.669967+00:00"
       },
       "previous_target_id": "30987471",
       "prepared": {
@@ -134353,6 +134353,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T04:50:11.276378+00:00",
         "relay_source_id": "30622989"
+      },
+      "claim": {
+        "worker_id": "b6b9c5daa8cf4cfb819f4834755be964-shard-0",
+        "claimed_at": "2026-11-13T15:24:10.405496+00:00",
+        "lease_expires_at": "2026-11-13T21:24:10.405496+00:00",
+        "run_id": "43442116051"
       }
     },
     "25487": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:24:06.944220+00:00"
+        "planned_at": "2026-11-13T15:24:09.966254+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:24:07.214513+00:00"
+  "updated_at": "2026-11-13T15:24:11.167457+00:00"
 }
