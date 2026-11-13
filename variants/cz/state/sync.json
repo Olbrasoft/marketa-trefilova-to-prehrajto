@@ -118547,7 +118547,7 @@
       "last_plan": {
         "source_id": "34651094",
         "display_name": "Rendition 720p CZ Dabing",
-        "planned_at": "2026-11-13T18:57:23.736601+00:00"
+        "planned_at": "2026-11-13T20:19:18.500083+00:00"
       },
       "previous_target_id": "30984866",
       "prepared": {
@@ -118555,6 +118555,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:58:19.721107+00:00",
         "relay_source_id": "34651094"
+      },
+      "claim": {
+        "worker_id": "837eb4c0bb9741528dbec61401c0372b-shard-0",
+        "claimed_at": "2026-11-13T20:19:18.986373+00:00",
+        "lease_expires_at": "2026-11-14T02:19:18.986373+00:00",
+        "run_id": "43482054430"
       }
     },
     "11942": {
@@ -139574,13 +139580,6 @@
           "source_id": "27739188",
           "target_video_id": "30987990",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:31:20.775879+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27739188",
-          "target_video_id": "30987990",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:41:31.447701+00:00"
         },
         {
@@ -139589,6 +139588,13 @@
           "target_video_id": "30987990",
           "permanent": false,
           "attempted_at": "2026-11-13T18:57:23.969991+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27739188",
+          "target_video_id": "30987990",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:19:19.118866+00:00"
         }
       ],
       "last_plan": {
@@ -139602,12 +139608,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T07:10:17.965446+00:00",
         "relay_source_id": "27739188"
-      },
-      "claim": {
-        "worker_id": "e8be1fcace04456a998621de990e93c5-shard-0",
-        "claimed_at": "2026-11-13T20:19:16.188035+00:00",
-        "lease_expires_at": "2026-11-14T02:19:16.188035+00:00",
-        "run_id": "43482054430"
       }
     },
     "12990": {
@@ -148671,7 +148671,7 @@
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
-        "planned_at": "2026-11-13T20:19:15.895991+00:00"
+        "planned_at": "2026-11-13T20:19:18.714072+00:00"
       }
     },
     "28902": {
@@ -200023,5 +200023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:19:16.676136+00:00"
+  "updated_at": "2026-11-13T20:19:19.118881+00:00"
 }
