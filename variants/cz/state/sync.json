@@ -123087,13 +123087,6 @@
           "source_id": "35438981",
           "target_video_id": "30985543",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:25:36.222033+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35438981",
-          "target_video_id": "30985543",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:39:22.309059+00:00"
         },
         {
@@ -123102,6 +123095,13 @@
           "target_video_id": "30985543",
           "permanent": false,
           "attempted_at": "2026-11-13T04:41:04.240226+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35438981",
+          "target_video_id": "30985543",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:19:02.689872+00:00"
         }
       ],
       "last_plan": {
@@ -125984,7 +125984,7 @@
       "last_plan": {
         "source_id": "34700408",
         "display_name": "Firecreek 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:41:05.730153+00:00"
+        "planned_at": "2026-11-13T06:19:01.394142+00:00"
       },
       "previous_target_id": "30986040",
       "prepared": {
@@ -125992,6 +125992,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T23:07:09.114768+00:00",
         "relay_source_id": "34700408"
+      },
+      "claim": {
+        "worker_id": "741fe51578394d0caa3cc6b1fad177b8-shard-0",
+        "claimed_at": "2026-11-13T06:19:02.118152+00:00",
+        "lease_expires_at": "2026-11-13T12:19:02.118152+00:00",
+        "run_id": "43371605577"
       }
     },
     "20329": {
@@ -147604,7 +147610,7 @@
       "last_plan": {
         "source_id": "30196819",
         "display_name": "Jak básníci čekají na zázrak 1080p CZ Dabing",
-        "planned_at": "2026-11-13T06:18:59.428042+00:00"
+        "planned_at": "2026-11-13T06:19:01.705584+00:00"
       }
     },
     "35775": {
@@ -199104,5 +199110,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:18:59.428060+00:00"
+  "updated_at": "2026-11-13T06:19:02.689891+00:00"
 }
