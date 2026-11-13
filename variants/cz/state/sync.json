@@ -41396,7 +41396,7 @@
       "last_plan": {
         "source_id": "34826023",
         "display_name": "Identity 4K CZ Dabing",
-        "planned_at": "2026-11-13T03:03:25.682580+00:00"
+        "planned_at": "2026-11-13T04:10:13.619562+00:00"
       },
       "previous_target_id": "30751591",
       "prepared": {
@@ -41404,6 +41404,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-03T03:58:27.242114+00:00",
         "relay_source_id": "34826023"
+      },
+      "claim": {
+        "worker_id": "26ad5edfc86745f5871edaae840d34ce-shard-0",
+        "claimed_at": "2026-11-13T04:10:14.052580+00:00",
+        "lease_expires_at": "2026-11-13T10:10:14.052580+00:00",
+        "run_id": "43339109036"
       }
     },
     "34337": {
@@ -107829,13 +107835,6 @@
           "source_id": "30853807",
           "target_video_id": "30983476",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:00:28.793001+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30853807",
-          "target_video_id": "30983476",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:54:40.489087+00:00"
         },
         {
@@ -107844,6 +107843,13 @@
           "target_video_id": "30983476",
           "permanent": false,
           "attempted_at": "2026-11-13T03:03:22.911464+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30853807",
+          "target_video_id": "30983476",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:10:14.722071+00:00"
         }
       ],
       "last_plan": {
@@ -147438,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:10:11.943903+00:00"
+        "planned_at": "2026-11-13T04:10:13.819785+00:00"
       }
     },
     "11319": {
@@ -198967,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:10:11.943919+00:00"
+  "updated_at": "2026-11-13T04:10:14.722084+00:00"
 }
