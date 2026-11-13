@@ -141063,17 +141063,19 @@
       "attempts": []
     },
     "37526": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35128207",
+          "target_video_id": "31008534",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:42:26.822499+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35128207",
         "display_name": "Made In EU 1080p CZ Dabing",
         "planned_at": "2026-11-13T03:12:17.519552+00:00"
-      },
-      "claim": {
-        "worker_id": "d348e1141850462d8bc6ac10ed1d7e66-shard-0",
-        "claimed_at": "2026-11-13T03:12:18.036194+00:00",
-        "lease_expires_at": "2026-11-13T09:12:18.036194+00:00",
-        "run_id": "43339109036"
       },
       "previous_target_id": "31008534",
       "prepared": {
@@ -198919,5 +198921,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:42:25.367141+00:00"
+  "updated_at": "2026-11-13T03:42:26.822518+00:00"
 }
