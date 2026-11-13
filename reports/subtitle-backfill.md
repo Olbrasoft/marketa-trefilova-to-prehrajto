@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T12:12:14.670021+00:00
+Poslední aktualizace (UTC): 2026-11-13T12:12:16.161972+00:00
 
 Zkontrolováno videí: 693. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 118, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 119, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -74,6 +74,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 127. Důvo
 | [Amanda Knox 720p CZ Titulky](https://prehraj.to/amanda-knox-720p-cz-titulky-mkv/dc7abbb229ed0761) (ID 31012115) | [Sdílej 8457253](https://sdilej.cz/8457253/amanda-knox-2016-titulky.cz-720p.mkv) | target_unavailable | 2026-11-13T11:52:12.867373+00:00 |
 | [Arthur the King 1080p CZ Titulky](https://prehraj.to/arthur-the-king-1080p-cz-titulky-mkv/81358047462d64ac) (ID 30984204) | [Sdílej 28930526](https://sdilej.cz/28930526/arthur-the-king-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-10T15:46:48.481034+00:00 |
 | [Baramulla (बारामूला) 1080p CZ Titulky](https://prehraj.to/baramulla-1080p-cz-titulky-mkv/6e86eb68d3269eed) (ID 30988608) | [Sdílej 32361142](https://sdilej.cz/32361142/baramulla-2025-horor-cztit.mkv) | target_unavailable | 2026-11-11T08:58:29.739634+00:00 |
+| [Batman: Hush 1080p CZ Titulky](https://prehraj.to/batman-hush-1080p-cz-titulky-mkv/0e27438de6130be0) (ID 31012237) | [Sdílej 12033354](https://sdilej.cz/12033354/batman-hush.2019.cz-titulky.1080p.webrip-super-animovany-novinka.mkv) | target_unavailable | 2026-11-13T12:12:16.054164+00:00 |
 | [Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky](https://prehraj.to/battle-for-sevastopol-1080p-cz-titulky-mkv/6e49c046f24775f4) (ID 30987870) | [Sdílej 12196905](https://sdilej.cz/12196905/bitva-o-sevastopol-battle-for-sevastopol-2015-titulky.cz-1080p-dts.mkv) | target_unavailable | 2026-11-11T06:37:56.869676+00:00 |
 | [Beavis and Butt-Head Do the Universe 1080p CZ Titulky](https://prehraj.to/beavis-and-butt-head-do-the-universe-1080p-cz-titulky-mkv/c2aab892b0bc65e3) (ID 30987932) | [Sdílej 23076909](https://sdilej.cz/23076909/beavis-and-butt-head-do-the-universe-2022-1080p.mkv) | target_unavailable | 2026-11-11T06:58:08.497285+00:00 |
 | [Bill & Ted's Excellent Adventure 720p CZ Titulky](https://prehraj.to/bill-ted-s-excellent-adventure-720p-cz-titulky-mkv/ec3dd5377cfd69be) (ID 31006119) | [Sdílej 34453030](https://sdilej.cz/34453030/skvele-dobrodruzstvi-billa-a-teda-1989-komedie-keanu-reeves-cztit.bluray.hd.mkv) | target_unavailable | 2026-11-12T21:21:28.222595+00:00 |
