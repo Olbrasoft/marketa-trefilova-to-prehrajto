@@ -148237,17 +148237,19 @@
       }
     },
     "3596": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33749351",
+          "target_video_id": "31017012",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:43:57.595066+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33749351",
         "display_name": "Living Large (Život k sežrání) 1080p CZ Dabing",
         "planned_at": "2026-11-13T17:40:26.865779+00:00"
-      },
-      "claim": {
-        "worker_id": "c091747c62454014bd5d8bf6c3c1809b-shard-0",
-        "claimed_at": "2026-11-13T17:40:29.259744+00:00",
-        "lease_expires_at": "2026-11-13T23:40:29.259744+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31017012",
       "prepared": {
@@ -199660,5 +199662,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:43:55.640247+00:00"
+  "updated_at": "2026-11-13T17:43:57.595084+00:00"
 }
