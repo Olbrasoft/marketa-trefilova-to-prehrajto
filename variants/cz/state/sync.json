@@ -147982,17 +147982,19 @@
       "attempts": []
     },
     "9670": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34061689",
+          "target_video_id": "31016167",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:03:49.742647+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34061689",
         "display_name": "The Sleeping City (Spící město) 1080p CZ Dabing",
         "planned_at": "2026-11-13T17:00:33.323199+00:00"
-      },
-      "claim": {
-        "worker_id": "79f50a5f99b04e79bec01b2b5ff07736-shard-0",
-        "claimed_at": "2026-11-13T17:00:34.148580+00:00",
-        "lease_expires_at": "2026-11-13T23:00:34.148580+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31016167",
       "prepared": {
@@ -199447,5 +199449,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:02:08.998858+00:00"
+  "updated_at": "2026-11-13T17:03:49.742664+00:00"
 }
