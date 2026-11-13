@@ -137308,13 +137308,6 @@
           "source_id": "30647651",
           "target_video_id": "30987782",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:16:45.631715+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30647651",
-          "target_video_id": "30987782",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:07:20.371747+00:00"
         },
         {
@@ -137323,6 +137316,13 @@
           "target_video_id": "30987782",
           "permanent": false,
           "attempted_at": "2026-11-13T16:15:24.698638+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30647651",
+          "target_video_id": "30987782",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:25:18.757152+00:00"
         }
       ],
       "last_plan": {
@@ -141144,7 +141144,7 @@
       "last_plan": {
         "source_id": "11736941",
         "display_name": "The Russian Job (Švéd v žigulíku) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:15:24.015050+00:00"
+        "planned_at": "2026-11-13T17:25:17.397338+00:00"
       },
       "previous_target_id": "30988215",
       "prepared": {
@@ -141152,6 +141152,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-11T07:52:44.166649+00:00",
         "relay_source_id": "11736941"
+      },
+      "claim": {
+        "worker_id": "96b8bca7658e414d9f81b2c9689de708-shard-0",
+        "claimed_at": "2026-11-13T17:25:18.110831+00:00",
+        "lease_expires_at": "2026-11-13T23:25:18.110831+00:00",
+        "run_id": "43442116051"
       }
     },
     "11634": {
@@ -148146,7 +148152,7 @@
       "last_plan": {
         "source_id": "32046879",
         "display_name": "Fainéant.e.s (Fainéant.es) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:25:15.090678+00:00"
+        "planned_at": "2026-11-13T17:25:17.698397+00:00"
       }
     },
     "16911": {
@@ -199556,5 +199562,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:25:15.337914+00:00"
+  "updated_at": "2026-11-13T17:25:18.757169+00:00"
 }
