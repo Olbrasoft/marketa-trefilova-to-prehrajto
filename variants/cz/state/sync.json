@@ -117421,13 +117421,6 @@
           "source_id": "15096224",
           "target_video_id": "30984803",
           "permanent": false,
-          "attempted_at": "2026-11-12T22:22:02.595197+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15096224",
-          "target_video_id": "30984803",
-          "permanent": false,
           "attempted_at": "2026-11-12T23:41:27.592859+00:00"
         },
         {
@@ -117436,12 +117429,19 @@
           "target_video_id": "30984803",
           "permanent": false,
           "attempted_at": "2026-11-13T01:37:13.268396+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15096224",
+          "target_video_id": "30984803",
+          "permanent": false,
+          "attempted_at": "2026-11-13T02:50:22.633871+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15096224",
         "display_name": "I See You 1080p CZ Dabing",
-        "planned_at": "2026-11-13T01:37:11.468010+00:00"
+        "planned_at": "2026-11-13T02:50:20.830156+00:00"
       },
       "previous_target_id": "30984803",
       "prepared": {
@@ -128494,7 +128494,13 @@
       "last_plan": {
         "source_id": "26097672",
         "display_name": "Slunce, seno a pár facek 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:50:16.675092+00:00"
+        "planned_at": "2026-11-13T02:50:21.035233+00:00"
+      },
+      "claim": {
+        "worker_id": "0a5ba6028fe74be1be2b99d1ccae3743-shard-0",
+        "claimed_at": "2026-11-13T02:50:21.545189+00:00",
+        "lease_expires_at": "2026-11-13T08:50:21.545189+00:00",
+        "run_id": "43339109036"
       }
     },
     "16144": {
@@ -128542,7 +128548,7 @@
       "last_plan": {
         "source_id": "27533878",
         "display_name": "Rosalie Blum 1080p CZ Dabing",
-        "planned_at": "2026-11-12T15:57:16.028769+00:00"
+        "planned_at": "2026-11-13T02:50:21.162482+00:00"
       }
     },
     "25185": {
@@ -198868,5 +198874,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T02:50:18.717153+00:00"
+  "updated_at": "2026-11-13T02:50:22.633891+00:00"
 }
