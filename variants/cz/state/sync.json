@@ -21686,13 +21686,6 @@
           "source_id": "30201467",
           "target_video_id": "30689742",
           "permanent": false,
-          "attempted_at": "2026-11-13T06:52:35.287996+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30201467",
-          "target_video_id": "30689742",
-          "permanent": false,
           "attempted_at": "2026-11-13T08:12:10.233407+00:00"
         },
         {
@@ -21701,6 +21694,13 @@
           "target_video_id": "30689742",
           "permanent": false,
           "attempted_at": "2026-11-13T10:39:04.364371+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30201467",
+          "target_video_id": "30689742",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:50:14.291232+00:00"
         }
       ],
       "last_plan": {
@@ -136940,7 +136940,7 @@
       "last_plan": {
         "source_id": "31005194",
         "display_name": "Mord 1080p CZ Dabing",
-        "planned_at": "2026-11-13T10:39:02.934029+00:00"
+        "planned_at": "2026-11-13T11:50:12.486351+00:00"
       },
       "previous_target_id": "30987751",
       "prepared": {
@@ -136948,6 +136948,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T05:55:02.328631+00:00",
         "relay_source_id": "31005194"
+      },
+      "claim": {
+        "worker_id": "0cce47aaee4740ae9485ae91c40780db-shard-0",
+        "claimed_at": "2026-11-13T11:50:13.375263+00:00",
+        "lease_expires_at": "2026-11-13T17:50:13.375263+00:00",
+        "run_id": "43408558477"
       }
     },
     "3365": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T11:50:08.229253+00:00"
+        "planned_at": "2026-11-13T11:50:12.837467+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:50:08.514900+00:00"
+  "updated_at": "2026-11-13T11:50:14.291252+00:00"
 }
