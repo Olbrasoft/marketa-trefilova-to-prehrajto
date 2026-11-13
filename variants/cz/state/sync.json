@@ -121000,13 +121000,6 @@
           "source_id": "34392768",
           "target_video_id": "30985051",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:58:02.350617+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34392768",
-          "target_video_id": "30985051",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:43:24.760881+00:00"
         },
         {
@@ -121015,6 +121008,13 @@
           "target_video_id": "30985051",
           "permanent": false,
           "attempted_at": "2026-11-13T16:52:24.780278+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34392768",
+          "target_video_id": "30985051",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:59:04.975812+00:00"
         }
       ],
       "last_plan": {
@@ -138323,7 +138323,7 @@
       "last_plan": {
         "source_id": "34661718",
         "display_name": "Rukavička 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:52:24.538559+00:00"
+        "planned_at": "2026-11-13T17:59:03.959847+00:00"
       },
       "previous_target_id": "30987874",
       "prepared": {
@@ -138331,6 +138331,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-11-11T06:32:04.763146+00:00",
         "relay_source_id": "34661718"
+      },
+      "claim": {
+        "worker_id": "7e36aa0423484346a88b065b9807d7be-shard-0",
+        "claimed_at": "2026-11-13T17:59:04.725885+00:00",
+        "lease_expires_at": "2026-11-13T23:59:04.725885+00:00",
+        "run_id": "43442116051"
       }
     },
     "12707": {
@@ -148317,7 +148323,7 @@
       "last_plan": {
         "source_id": "26491046",
         "display_name": "Children of Nagano (Děti Nagana) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:59:01.788874+00:00"
+        "planned_at": "2026-11-13T17:59:04.238252+00:00"
       }
     },
     "14151": {
@@ -199706,5 +199712,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:59:01.788889+00:00"
+  "updated_at": "2026-11-13T17:59:04.975830+00:00"
 }
