@@ -34423,13 +34423,6 @@
           "source_id": "34285530",
           "target_video_id": "30986247",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:42:49.540619+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34285530",
-          "target_video_id": "30986247",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:12:57.083055+00:00"
         },
         {
@@ -34438,6 +34431,13 @@
           "target_video_id": "30986247",
           "permanent": false,
           "attempted_at": "2026-11-13T03:43:04.670784+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34285530",
+          "target_video_id": "30986247",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:13:10.875827+00:00"
         }
       ],
       "last_plan": {
@@ -34867,7 +34867,7 @@
       "last_plan": {
         "source_id": "22321220",
         "display_name": "The Roundup (범죄도시 2) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T03:43:03.980601+00:00"
+        "planned_at": "2026-11-13T04:13:09.966338+00:00"
       },
       "previous_target_id": "30987709",
       "prepared": {
@@ -34875,6 +34875,12 @@
         "size_bytes": 6000000000,
         "prepared_at": "2026-11-11T05:46:05.370254+00:00",
         "relay_source_id": "22321220"
+      },
+      "claim": {
+        "worker_id": "3e755706301b451f8835a3b5524bc92b-shard-0",
+        "claimed_at": "2026-11-13T04:13:10.139639+00:00",
+        "lease_expires_at": "2026-11-13T10:13:10.139639+00:00",
+        "run_id": "43339109036"
       }
     },
     "24808": {
@@ -98459,5 +98465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:13:07.205172+00:00"
+  "updated_at": "2026-11-13T04:13:10.875850+00:00"
 }
