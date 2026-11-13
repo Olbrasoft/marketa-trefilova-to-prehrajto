@@ -119098,13 +119098,6 @@
           "source_id": "33730079",
           "target_video_id": "30984911",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:27:31.953895+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33730079",
-          "target_video_id": "30984911",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:32:47.297228+00:00"
         },
         {
@@ -119113,6 +119106,13 @@
           "target_video_id": "30984911",
           "permanent": false,
           "attempted_at": "2026-11-13T21:41:19.394686+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33730079",
+          "target_video_id": "30984911",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:41:26.209132+00:00"
         }
       ],
       "last_plan": {
@@ -143748,7 +143748,7 @@
       "last_plan": {
         "source_id": "34661764",
         "display_name": "Past 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:41:19.031791+00:00"
+        "planned_at": "2026-11-13T22:41:24.747720+00:00"
       },
       "previous_target_id": "30988695",
       "prepared": {
@@ -143756,6 +143756,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T09:26:47.795965+00:00",
         "relay_source_id": "34661764"
+      },
+      "claim": {
+        "worker_id": "807b7097e78d41dfab23e2a56934dd10-shard-0",
+        "claimed_at": "2026-11-13T22:41:25.398136+00:00",
+        "lease_expires_at": "2026-11-14T04:41:25.398136+00:00",
+        "run_id": "43482054430"
       }
     },
     "35624": {
@@ -149559,7 +149565,7 @@
       "last_plan": {
         "source_id": "33479218",
         "display_name": "Odd Fish (Ljósvíkingar) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:41:22.377420+00:00"
+        "planned_at": "2026-11-13T22:41:24.953373+00:00"
       }
     },
     "3917": {
@@ -200732,5 +200738,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:41:22.644785+00:00"
+  "updated_at": "2026-11-13T22:41:26.209145+00:00"
 }
