@@ -38785,17 +38785,19 @@
       "attempts": []
     },
     "2549": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29781891",
+          "target_video_id": "31008794",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:32:51.457911+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29781891",
         "display_name": "The Last Kingdom: Seven Kings Must Die 4K CZ Titulky",
         "planned_at": "2026-11-13T03:56:21.760466+00:00"
-      },
-      "claim": {
-        "worker_id": "eaa2aaa729ad4608a472980e0a07bb0a-shard-0",
-        "claimed_at": "2026-11-13T03:56:21.971983+00:00",
-        "lease_expires_at": "2026-11-13T09:56:21.971983+00:00",
-        "run_id": "43339109036"
       },
       "previous_target_id": "31008794",
       "prepared": {
@@ -98464,5 +98466,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:32:48.036575+00:00"
+  "updated_at": "2026-11-13T04:32:51.457941+00:00"
 }
