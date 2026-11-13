@@ -682,3 +682,4 @@ Attach subtitles only after target processing has finished.
 | Rent 1080p CZ Titulky | 31007976 | https://sdilej.cz/22944190/bohemove-2005-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Ladyhawke 1080p CZ Titulky | 31008069 | https://sdilej.cz/35402331/ladyhawke.1985.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
 | Enemy Mine 1080p CZ Titulky | 31008155 | https://sdilej.cz/14778688/muj-nepritel-1080p.-1985-brrip-ac3.czdab.mkv | Extract Czech track from exact source after processing |
+| The Last Kingdom: Seven Kings Must Die 4K CZ Titulky | 31008794 | https://sdilej.cz/29781891/the-last-kingdom-seven-kings-must-die-2023-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv | Extract Czech track from exact source after processing |
