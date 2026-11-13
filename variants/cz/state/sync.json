@@ -138841,13 +138841,6 @@
           "source_id": "34776105",
           "target_video_id": "30987920",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:56:20.747648+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34776105",
-          "target_video_id": "30987920",
-          "permanent": false,
           "attempted_at": "2026-11-13T04:05:23.678986+00:00"
         },
         {
@@ -138856,6 +138849,13 @@
           "target_video_id": "30987920",
           "permanent": false,
           "attempted_at": "2026-11-13T05:10:39.133262+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34776105",
+          "target_video_id": "30987920",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:51:49.843159+00:00"
         }
       ],
       "last_plan": {
@@ -145636,7 +145636,7 @@
       "last_plan": {
         "source_id": "30629482",
         "display_name": "Little Fatty (Metráček) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:10:38.319582+00:00"
+        "planned_at": "2026-11-13T06:51:48.192601+00:00"
       },
       "previous_target_id": "30992604",
       "prepared": {
@@ -145644,6 +145644,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T17:58:08.904501+00:00",
         "relay_source_id": "30629482"
+      },
+      "claim": {
+        "worker_id": "93f401f0324f4b368240294f81eb84d0-shard-0",
+        "claimed_at": "2026-11-13T06:51:49.060632+00:00",
+        "lease_expires_at": "2026-11-13T12:51:49.060632+00:00",
+        "run_id": "43371605577"
       }
     },
     "10785": {
@@ -147681,7 +147687,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T06:51:43.708557+00:00"
+        "planned_at": "2026-11-13T06:51:48.497516+00:00"
       }
     },
     "19216": {
@@ -199180,5 +199186,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:51:43.941177+00:00"
+  "updated_at": "2026-11-13T06:51:49.843177+00:00"
 }
