@@ -119545,13 +119545,6 @@
           "source_id": "32799273",
           "target_video_id": "30984959",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:37:53.453166+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32799273",
-          "target_video_id": "30984959",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:01:41.648405+00:00"
         },
         {
@@ -119560,6 +119553,13 @@
           "target_video_id": "30984959",
           "permanent": false,
           "attempted_at": "2026-11-13T21:05:53.434753+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32799273",
+          "target_video_id": "30984959",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:08:24.330300+00:00"
         }
       ],
       "last_plan": {
@@ -119573,12 +119573,6 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T18:19:44.973444+00:00",
         "relay_source_id": "32799273"
-      },
-      "claim": {
-        "worker_id": "95fd72270e9c44329eb8692a22de1518-shard-0",
-        "claimed_at": "2026-11-13T22:08:21.243985+00:00",
-        "lease_expires_at": "2026-11-14T04:08:21.243985+00:00",
-        "run_id": "43482054430"
       }
     },
     "23650": {
@@ -134166,7 +134160,7 @@
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:05:54.913980+00:00"
+        "planned_at": "2026-11-13T22:08:23.818237+00:00"
       },
       "previous_target_id": "30987417",
       "prepared": {
@@ -134174,6 +134168,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:35:39.966856+00:00",
         "relay_source_id": "23221863"
+      },
+      "claim": {
+        "worker_id": "0bf365cd578e42d78294e73382f29128-shard-0",
+        "claimed_at": "2026-11-13T22:08:24.471625+00:00",
+        "lease_expires_at": "2026-11-14T04:08:24.471625+00:00",
+        "run_id": "43482054430"
       }
     },
     "4343": {
@@ -149174,7 +149174,7 @@
       "last_plan": {
         "source_id": "32254969",
         "display_name": "Ruy Blas 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:08:20.996059+00:00"
+        "planned_at": "2026-11-13T22:08:24.033695+00:00"
       }
     },
     "30163": {
@@ -200431,5 +200431,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:08:22.233010+00:00"
+  "updated_at": "2026-11-13T22:08:24.471645+00:00"
 }
