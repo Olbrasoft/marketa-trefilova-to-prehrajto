@@ -119545,13 +119545,6 @@
           "source_id": "32799273",
           "target_video_id": "30984959",
           "permanent": false,
-          "attempted_at": "2026-11-13T20:01:41.648405+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32799273",
-          "target_video_id": "30984959",
-          "permanent": false,
           "attempted_at": "2026-11-13T21:05:53.434753+00:00"
         },
         {
@@ -119560,12 +119553,19 @@
           "target_video_id": "30984959",
           "permanent": false,
           "attempted_at": "2026-11-13T22:08:24.330300+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32799273",
+          "target_video_id": "30984959",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:12:43.238243+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32799273",
         "display_name": "The Life List 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:08:20.793739+00:00"
+        "planned_at": "2026-11-13T23:12:41.407144+00:00"
       },
       "previous_target_id": "30984959",
       "prepared": {
@@ -149971,11 +149971,22 @@
       "last_plan": {
         "source_id": "34878616",
         "display_name": "Přání Ježíškovi 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:12:33.400744+00:00"
+        "planned_at": "2026-11-13T23:12:41.627573+00:00"
+      },
+      "claim": {
+        "worker_id": "4da028085623453b8151202e2fd57498-shard-0",
+        "claimed_at": "2026-11-13T23:12:42.156679+00:00",
+        "lease_expires_at": "2026-11-14T05:12:42.156679+00:00",
+        "run_id": "43482054430"
       }
     },
     "12629": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30019433",
+        "display_name": "The Hunley SD CZ Dabing",
+        "planned_at": "2026-11-13T23:12:41.765291+00:00"
+      }
     },
     "4153": {
       "attempts": []
@@ -201066,5 +201077,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:12:38.159752+00:00"
+  "updated_at": "2026-11-13T23:12:43.238256+00:00"
 }
