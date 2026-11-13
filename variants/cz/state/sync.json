@@ -114786,6 +114786,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T16:03:06.555910+00:00",
         "relay_source_id": "34379944"
+      },
+      "claim": {
+        "worker_id": "55ab1e2826264d26a0ca7bd9f8c80f9a-shard-0",
+        "claimed_at": "2026-11-13T21:51:16.924518+00:00",
+        "lease_expires_at": "2026-11-14T03:51:16.924518+00:00",
+        "run_id": "43482054430"
       }
     },
     "3137": {
@@ -133843,7 +133849,7 @@
       "last_plan": {
         "source_id": "33478054",
         "display_name": "Men Offside (Muži v offsidu) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T20:42:35.514093+00:00"
+        "planned_at": "2026-11-13T21:51:17.089154+00:00"
       },
       "previous_target_id": "30987362",
       "prepared": {
@@ -133851,6 +133857,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-11T04:25:00.930314+00:00",
         "relay_source_id": "33478054"
+      },
+      "claim": {
+        "worker_id": "35d07f1a53ee416f84685bc45a7fcd79-shard-0",
+        "claimed_at": "2026-11-13T21:51:17.590565+00:00",
+        "lease_expires_at": "2026-11-14T03:51:17.590565+00:00",
+        "run_id": "43482054430"
       }
     },
     "13202": {
@@ -148916,17 +148928,19 @@
       }
     },
     "33425": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34118610",
+          "target_video_id": "31019311",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:51:17.936562+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34118610",
         "display_name": "Places (Místa) 1080p CZ Dabing",
         "planned_at": "2026-11-13T21:47:32.593757+00:00"
-      },
-      "claim": {
-        "worker_id": "0116c354c93c43059574e3e97c1ed614-shard-0",
-        "claimed_at": "2026-11-13T21:47:36.172168+00:00",
-        "lease_expires_at": "2026-11-14T03:47:36.172168+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31019311",
       "prepared": {
@@ -148944,7 +148958,7 @@
       "last_plan": {
         "source_id": "34675756",
         "display_name": "Pod Jezevci skalou (Pod Jezevčí skálou) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:51:15.357520+00:00"
+        "planned_at": "2026-11-13T21:51:17.305629+00:00"
       }
     },
     "14174": {
@@ -200240,5 +200254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:51:15.357534+00:00"
+  "updated_at": "2026-11-13T21:51:17.936573+00:00"
 }
