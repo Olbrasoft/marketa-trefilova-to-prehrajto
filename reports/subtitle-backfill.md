@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T00:32:01.568494+00:00
+Poslední aktualizace (UTC): 2026-11-13T00:32:03.447135+00:00
 
 Zkontrolováno videí: 678. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 103, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 104, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -89,6 +89,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 114. Důvo
 | [Conan the Barbarian (1982) 1080p CZ Titulky](https://prehraj.to/conan-the-barbarian-1982-1080p-cz-titulky-mkv/e587d1d606f14398) (ID 31005845) | [Sdílej 35402133](https://sdilej.cz/35402133/conan.the.barbarian.1982.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-12T20:41:22.573123+00:00 |
 | [Empties (Vratné lahve) 1080p CZ Titulky](https://prehraj.to/empties-vratne-lahve-1080p-cz-titulky-mkv/2fa38051e9b275cf) (ID 30938020) | [Sdílej 32453722](https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv) | target_unavailable | 2026-11-10T09:41:16.438716+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-10T09:49:25.124690+00:00 |
+| [Eternity 1080p CZ Titulky](https://prehraj.to/eternity-1080p-cz-titulky-mkv/d72f47d7a3f823ad) (ID 31007543) | [Sdílej 32702296](https://sdilej.cz/32702296/eternity-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-11-13T00:32:03.276375+00:00 |
 | [Falcon Lake 1080p CZ Titulky](https://prehraj.to/falcon-lake-1080p-cz-titulky-mkv/1306a741b8099445) (ID 30997054) | [Sdílej 35401837](https://sdilej.cz/35401837/falcon.lake.2022.french.1080p.webrip.x264-vxt.fr.cz.tit.mkv) | target_unavailable | 2026-11-12T02:22:17.310556+00:00 |
 | [Ferry 720p CZ Titulky](https://prehraj.to/ferry-720p-cz-titulky-mkv/30f5b91e1b85ee37) (ID 30987911) | [Sdílej 32154189](https://sdilej.cz/32154189/ferry-2021-cz-tit-1080p.mkv) | target_unavailable | 2026-11-11T06:48:03.154945+00:00 |
 | [Finch 1080p CZ Titulky](https://prehraj.to/finch-1080p-cz-titulky-mkv/54f021b7c071bba6) (ID 31006906) | [Sdílej 26705455](https://sdilej.cz/26705455/finch-2021-cz-titulky-1080p.mkv) | target_unavailable | 2026-11-12T23:01:49.245539+00:00 |
