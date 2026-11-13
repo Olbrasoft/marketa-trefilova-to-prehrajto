@@ -83723,13 +83723,6 @@
           "source_id": "30859189",
           "target_video_id": "30915737",
           "permanent": false,
-          "attempted_at": "2026-11-13T04:16:41.223272+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30859189",
-          "target_video_id": "30915737",
-          "permanent": false,
           "attempted_at": "2026-11-13T05:47:49.011970+00:00"
         },
         {
@@ -83738,6 +83731,13 @@
           "target_video_id": "30915737",
           "permanent": false,
           "attempted_at": "2026-11-13T07:03:44.204871+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30859189",
+          "target_video_id": "30915737",
+          "permanent": false,
+          "attempted_at": "2026-11-13T08:23:32.466643+00:00"
         }
       ],
       "last_plan": {
@@ -83864,7 +83864,7 @@
       "last_plan": {
         "source_id": "20559777",
         "display_name": "Mystery 101 1080p CZ Dabing",
-        "planned_at": "2026-11-13T07:03:42.848037+00:00"
+        "planned_at": "2026-11-13T08:23:31.435337+00:00"
       },
       "previous_target_id": "30916027",
       "prepared": {
@@ -83872,6 +83872,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-08T11:27:26.185912+00:00",
         "relay_source_id": "20559777"
+      },
+      "claim": {
+        "worker_id": "8c96c98e73a44d30990ab781e9884151-shard-0",
+        "claimed_at": "2026-11-13T08:23:32.180038+00:00",
+        "lease_expires_at": "2026-11-13T14:23:32.180038+00:00",
+        "run_id": "43371605577"
       }
     },
     "1954": {
@@ -147724,7 +147730,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:23:28.906474+00:00"
+        "planned_at": "2026-11-13T08:23:31.715808+00:00"
       }
     },
     "19216": {
@@ -199223,5 +199229,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T08:23:28.906494+00:00"
+  "updated_at": "2026-11-13T08:23:32.466661+00:00"
 }
