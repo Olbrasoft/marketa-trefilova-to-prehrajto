@@ -688,3 +688,4 @@ Attach subtitles only after target processing has finished.
 | Ms. President (Prezidentka) 1080p CZ Titulky | 31009923 | https://sdilej.cz/30776190/prezidentka-2024-sk.mkv | Extract Czech track from exact source after processing |
 | The Night Comes for Us 1080p CZ Titulky | 31010102 | https://sdilej.cz/26970393/the-night-comes-for-us-2018-cz-sub-indonesian-1080p-nf-webrip-ddp5-1-x264.mkv | Extract Czech track from exact source after processing |
 | Goya's Ghosts 1080p CZ Titulky | 31010194 | https://sdilej.cz/34683084/goyovy-prizraky-drama-j.bardem-n.-portman-2006-cztit.1080p.bluray.mkv | Extract Czech track from exact source after processing |
+| The Thomas Crown Affair (1968) 1080p CZ Titulky | 31010662 | https://sdilej.cz/11447322/pripad-thomase-crowna-the-thomas-crown-affair-1968-czen-1080phd-.mkv | Extract Czech track from exact source after processing |
