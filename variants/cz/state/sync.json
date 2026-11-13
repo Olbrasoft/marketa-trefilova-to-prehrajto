@@ -121584,7 +121584,7 @@
       "last_plan": {
         "source_id": "31294628",
         "display_name": "Un paseo a Playa Ancha (Redeeming Love) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:48:59.664152+00:00"
+        "planned_at": "2026-11-13T19:20:12.237972+00:00"
       },
       "previous_target_id": "30985390",
       "prepared": {
@@ -121592,6 +121592,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T19:03:22.520843+00:00",
         "relay_source_id": "31294628"
+      },
+      "claim": {
+        "worker_id": "72d18d20c70d419f8dc322b1b3738f75-shard-0",
+        "claimed_at": "2026-11-13T19:20:12.952346+00:00",
+        "lease_expires_at": "2026-11-14T01:20:12.952346+00:00",
+        "run_id": "43482054430"
       }
     },
     "2915": {
@@ -148467,11 +148473,19 @@
       "attempts": []
     },
     "17327": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "25586180",
+          "reason": "Request failed for https://sdilej.cz/25586180/vrazdy.odvedle.osudovy.cin-deadly.deed.a.fixer.upper.mystery.2018.1080p.hdtv.x264.mp2.2.0.cz.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:20:13.821510+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25586180",
         "display_name": "Deadly Deed: A Fixer Upper Mystery 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:20:05.388695+00:00"
+        "planned_at": "2026-11-13T19:20:12.444973+00:00"
       }
     },
     "25328": {
@@ -148479,7 +148493,7 @@
       "last_plan": {
         "source_id": "35066552",
         "display_name": "Anička s lískovými oříšky SD CZ Dabing",
-        "planned_at": "2026-11-13T19:14:53.671921+00:00"
+        "planned_at": "2026-11-13T19:20:12.571153+00:00"
       }
     },
     "25861": {
@@ -199858,5 +199872,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:20:08.584419+00:00"
+  "updated_at": "2026-11-13T19:20:13.821523+00:00"
 }
