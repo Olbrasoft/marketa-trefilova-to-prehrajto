@@ -123050,13 +123050,6 @@
           "source_id": "33589689",
           "target_video_id": "30985541",
           "permanent": false,
-          "attempted_at": "2026-11-13T17:56:35.855020+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33589689",
-          "target_video_id": "30985541",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:28:14.482974+00:00"
         },
         {
@@ -123065,12 +123058,19 @@
           "target_video_id": "30985541",
           "permanent": false,
           "attempted_at": "2026-11-13T20:33:20.008968+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33589689",
+          "target_video_id": "30985541",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:41:43.345526+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33589689",
         "display_name": "Paris 1080p CZ Dabing",
-        "planned_at": "2026-11-13T20:33:18.297922+00:00"
+        "planned_at": "2026-11-13T21:41:41.569465+00:00"
       },
       "previous_target_id": "30985541",
       "prepared": {
@@ -148889,11 +148889,22 @@
       "last_plan": {
         "source_id": "34470698",
         "display_name": "Rumbling (Burácení) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:41:36.940616+00:00"
+        "planned_at": "2026-11-13T21:41:41.772521+00:00"
+      },
+      "claim": {
+        "worker_id": "bb1d5de9f68941ec85a35fd153eea887-shard-0",
+        "claimed_at": "2026-11-13T21:41:42.276358+00:00",
+        "lease_expires_at": "2026-11-14T03:41:42.276358+00:00",
+        "run_id": "43482054430"
       }
     },
     "33425": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34118610",
+        "display_name": "Places (Místa) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T21:41:41.899694+00:00"
+      }
     },
     "35513": {
       "attempts": []
@@ -200194,5 +200205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:41:38.434996+00:00"
+  "updated_at": "2026-11-13T21:41:43.345539+00:00"
 }
