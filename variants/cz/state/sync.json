@@ -143860,13 +143860,6 @@
           "source_id": "34757822",
           "target_video_id": "30988709",
           "permanent": false,
-          "attempted_at": "2026-11-13T14:12:26.916328+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34757822",
-          "target_video_id": "30988709",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:53:54.406154+00:00"
         },
         {
@@ -143875,12 +143868,19 @@
           "target_video_id": "30988709",
           "permanent": false,
           "attempted_at": "2026-11-13T17:06:07.237974+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34757822",
+          "target_video_id": "30988709",
+          "permanent": false,
+          "attempted_at": "2026-11-13T18:16:21.619828+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34757822",
         "display_name": "The Abbey's Secret (Le Secret de l'abbaye) SD CZ Dabing",
-        "planned_at": "2026-11-13T17:06:02.693806+00:00"
+        "planned_at": "2026-11-13T18:16:19.642840+00:00"
       },
       "previous_target_id": "30988709",
       "prepared": {
@@ -148355,17 +148355,19 @@
       "attempts": []
     },
     "5389": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26491046",
+          "target_video_id": "31017318",
+          "permanent": false,
+          "attempted_at": "2026-11-13T18:16:21.853457+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26491046",
         "display_name": "Children of Nagano (Děti Nagana) 1080p CZ Dabing",
         "planned_at": "2026-11-13T18:02:13.519698+00:00"
-      },
-      "claim": {
-        "worker_id": "03a8d2b62ca145d984c59a70c482fb76-shard-0",
-        "claimed_at": "2026-11-13T18:02:14.306473+00:00",
-        "lease_expires_at": "2026-11-14T00:02:14.306473+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31017318",
       "prepared": {
@@ -148386,7 +148388,7 @@
       "last_plan": {
         "source_id": "35147354",
         "display_name": "Balada pro banditu 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:16:16.642370+00:00"
+        "planned_at": "2026-11-13T18:16:19.945603+00:00"
       }
     },
     "14053": {
@@ -199766,5 +199768,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T18:16:18.051823+00:00"
+  "updated_at": "2026-11-13T18:16:21.853480+00:00"
 }
