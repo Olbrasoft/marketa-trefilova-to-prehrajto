@@ -39773,17 +39773,19 @@
       }
     },
     "2559": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18856807",
+          "target_video_id": "31014248",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:35:38.060264+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18856807",
         "display_name": "The Duke 1080p CZ Titulky",
         "planned_at": "2026-11-13T15:31:19.962978+00:00"
-      },
-      "claim": {
-        "worker_id": "329e445241de4ed1a4335d838acf6d09-shard-0",
-        "claimed_at": "2026-11-13T15:31:21.920128+00:00",
-        "lease_expires_at": "2026-11-13T21:31:21.920128+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31014248",
       "prepared": {
@@ -99053,5 +99055,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:35:36.367593+00:00"
+  "updated_at": "2026-11-13T15:35:38.060280+00:00"
 }
