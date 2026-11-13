@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T17:33:46.279313+00:00
+Poslední aktualizace (UTC): 2026-11-13T17:33:53.745563+00:00
 
 Zkontrolováno videí: 708. Další stránka kontroly: 0.
 
@@ -21,7 +21,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 143. Důvo
 | [Blade Runner 4K CZ Titulky](https://prehraj.to/blade-runner-4k-cz-titulky-mkv/ae54449f36a858ca) (ID 30615943) | [Sdílej 33672679](https://sdilej.cz/33672679/blade.runner.1982.final.cut.2160p.uhd.bluray.remux.hdr.en.atmos.cz.5.1..mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-06T19:56:07.774864+00:00 |
 | [Bugonia 1080p CZ Titulky](https://prehraj.to/profil/nahrana-videa) (ID 30755358) | [Sdílej 32837902](https://sdilej.cz/32837902/bugonia-2025-1080p-10bit-bluray-8ch-x265-hevc-psa.mkv) | Chybí přímý odkaz; doplní jej postupná obnova indexu bez hledání názvu. | 2026-11-10T09:40:15.812349+00:00 |
 | [Casino 1080p CZ Titulky](https://prehraj.to/casino-cz-titulky-mkv/697522ecf4146513) (ID 30609486) | [Sdílej 34395592](https://sdilej.cz/34395592/casino-1995-fhd.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-13T04:33:45.368137+00:00 |
-| [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T17:33:13.428857+00:00 |
+| [Dead Poets Society 1080p](https://prehraj.to/dead-poets-society-1080p-mkv/78fcd164c78cc5ab) (ID 30617562) | [Sdílej 30572762](https://sdilej.cz/30572762/dead-poets-society-1989-1080p-bluray-x265-afm72-.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T17:33:53.321274+00:00 |
 | [Divided We Fall (Musíme si pomáhat) 1080p CZ Titulky](https://prehraj.to/divided-we-fall-musime-si-pomahat-1080p-cz-titulky-mkv/1f0ad966ebe3ad14) (ID 30775107) | [Sdílej 33306409](https://sdilej.cz/33306409/musime-si-pomahat-2000-fhd-cz.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-04T20:23:57.382149+00:00 |
 | [Django Unchained 4K CZ Titulky](https://prehraj.to/django-unchained-cz-titulky-mkv/8f93dd558c6bce9a) (ID 30588424) | [Sdílej 33138453](https://sdilej.cz/33138453/nespoutany-django-2012-2160p-cz-dabing-en-dts-hd-radecek.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-29T09:59:37.956241+00:00 |
 | [Dr. Strangelove (Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb) SD CZ Titulky](https://prehraj.to/dr-strangelove-dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-cz-titulky-mp4/7be3e875fcb3df2e) (ID 30602497) | [Sdílej 29062378](https://sdilej.cz/29062378/dr.-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.mp4) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T18:18:30.674794+00:00 |
