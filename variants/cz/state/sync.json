@@ -114220,7 +114220,7 @@
       "last_plan": {
         "source_id": "28852151",
         "display_name": "21 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:50:15.222444+00:00"
+        "planned_at": "2026-11-13T16:59:31.158315+00:00"
       },
       "previous_target_id": "30984134",
       "prepared": {
@@ -140381,13 +140381,6 @@
           "source_id": "34674569",
           "target_video_id": "30988115",
           "permanent": false,
-          "attempted_at": "2026-11-13T12:50:46.781522+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34674569",
-          "target_video_id": "30988115",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:08:30.936902+00:00"
         },
         {
@@ -140396,6 +140389,13 @@
           "target_video_id": "30988115",
           "permanent": false,
           "attempted_at": "2026-11-13T15:50:15.910829+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34674569",
+          "target_video_id": "30988115",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:59:31.775410+00:00"
         }
       ],
       "last_plan": {
@@ -140409,12 +140409,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T07:33:08.065878+00:00",
         "relay_source_id": "34674569"
-      },
-      "claim": {
-        "worker_id": "17bff4fba9e040a1acdd551bb2260ff1-shard-0",
-        "claimed_at": "2026-11-13T16:59:28.737198+00:00",
-        "lease_expires_at": "2026-11-13T22:59:28.737198+00:00",
-        "run_id": "43442116051"
       }
     },
     "35448": {
@@ -147900,17 +147894,19 @@
       }
     },
     "13598": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34681406",
+          "target_video_id": "31016094",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:59:32.292619+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34681406",
         "display_name": "Beauty in Trouble (Kráska v nesnázích) 1080p CZ Dabing",
         "planned_at": "2026-11-13T16:56:41.167337+00:00"
-      },
-      "claim": {
-        "worker_id": "983bdb0cda0240c392bf98d4349ebd31-shard-0",
-        "claimed_at": "2026-11-13T16:56:42.070162+00:00",
-        "lease_expires_at": "2026-11-13T22:56:42.070162+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31016094",
       "prepared": {
@@ -147954,7 +147950,7 @@
       "last_plan": {
         "source_id": "33623584",
         "display_name": "list of a Lifetime 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:59:28.218265+00:00"
+        "planned_at": "2026-11-13T16:59:31.495733+00:00"
       }
     },
     "32863": {
@@ -199409,5 +199405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:59:29.024345+00:00"
+  "updated_at": "2026-11-13T16:59:32.292637+00:00"
 }
