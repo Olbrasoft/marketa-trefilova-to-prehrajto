@@ -148007,17 +148007,19 @@
       }
     },
     "14789": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34477097",
+          "target_video_id": "31016311",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:08:31.692665+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34477097",
         "display_name": "Eleanor's Secret (Kérity, la maison des contes) SD CZ Dabing",
         "planned_at": "2026-11-13T17:07:00.349228+00:00"
-      },
-      "claim": {
-        "worker_id": "bb0a165a106f4393abda89ebc0cf5693-shard-0",
-        "claimed_at": "2026-11-13T17:07:02.688990+00:00",
-        "lease_expires_at": "2026-11-13T23:07:02.688990+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31016311",
       "prepared": {
@@ -199469,5 +199471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:08:30.075714+00:00"
+  "updated_at": "2026-11-13T17:08:31.692685+00:00"
 }
