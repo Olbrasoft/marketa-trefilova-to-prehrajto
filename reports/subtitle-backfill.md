@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T23:48:50.694058+00:00
+Poslední aktualizace (UTC): 2026-11-13T23:48:52.122819+00:00
 
 Zkontrolováno videí: 718. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 142, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 143, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -141,6 +141,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 151. Důvo
 | [Once Upon a Deadpool SD CZ Titulky](https://prehraj.to/once-upon-a-deadpool-sd-cz-titulky-mkv/87a8d248a0d82245) (ID 30990381) | [Sdílej 11183990](https://sdilej.cz/11183990/once-upon-a-deadpool-2018-titulky.cz.mkv) | target_unavailable | 2026-11-11T13:28:18.261248+00:00 |
 | [One Battle After Another 4K CZ Titulky](https://prehraj.to/one-battle-after-another-4k-cz-titulky-mkv/1be8829cd8a60408) (ID 30681595) | [Sdílej 32388547](https://sdilej.cz/32388547/jedna-bitva-za-druhou-2025-cztitle.mkv) | target_unavailable | 2026-11-10T09:41:28.229600+00:00 |
 | [Oppenheimer 4K CZ Titulky](https://prehraj.to/oppenheimer-cz-titulky-mkv/9ee165ff5b204326) (ID 30606867) | [Sdílej 32915178](https://sdilej.cz/32915178/oppenheimer-2023-cz-sk-radecek.mkv) | target_unavailable | 2026-11-10T09:49:40.884744+00:00 |
+| [Outlaws 1080p CZ Titulky](https://prehraj.to/outlaws-1080p-cz-titulky-mkv/68a34795b5fffcb7) (ID 31021566) | [Sdílej 19685390](https://sdilej.cz/19685390/las-leyes-de-la-frontera-outlaws-psanci-2021-cz-titulky-.mkv) | target_unavailable | 2026-11-13T23:48:52.122445+00:00 |
 | [Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky](https://prehraj.to/paris-13th-district-les-olympiades-paris-13e-1080p-cz-titulky-mkv/6e441a58f8608b99) (ID 30988745) | [Sdílej 23240065](https://sdilej.cz/23240065/pariz-13.-obvod-les-olympiades-1080p-2021-vlozene-cz-titulky-malasorte.mkv) | target_unavailable | 2026-11-11T09:48:47.912146+00:00 |
 | [Paul 1080p CZ Titulky](https://prehraj.to/paul-1080p-cz-titulky-mkv/15157768501db2a5) (ID 31002516) | [Sdílej 35003134](https://sdilej.cz/35003134/paul.2011.unrated.1080p.bluray.dts.x264-majo.mkv) | target_unavailable | 2026-11-12T13:07:44.033693+00:00 |
 | [Pieces of a Woman 1080p CZ Titulky](https://prehraj.to/pieces-of-a-woman-1080p-cz-titulky-mkv/362a0c0c06085a1e) (ID 30977806) | [Sdílej 27839654](https://sdilej.cz/27839654/stripky-zeny-vanessa-kirby-shia-labeouf-ellen-burstyn-2020-drama-en-cz-titulky.mkv) | target_unavailable | 2026-11-10T11:42:06.561220+00:00 |
