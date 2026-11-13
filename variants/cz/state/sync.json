@@ -115258,13 +115258,6 @@
           "source_id": "32115488",
           "target_video_id": "30984591",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:58:11.588345+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32115488",
-          "target_video_id": "30984591",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:19:52.318571+00:00"
         },
         {
@@ -115273,6 +115266,13 @@
           "target_video_id": "30984591",
           "permanent": false,
           "attempted_at": "2026-11-13T21:26:30.810758+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32115488",
+          "target_video_id": "30984591",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:27:10.104560+00:00"
         }
       ],
       "last_plan": {
@@ -137676,7 +137676,7 @@
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:26:33.743792+00:00"
+        "planned_at": "2026-11-13T22:27:07.534506+00:00"
       },
       "previous_target_id": "30987819",
       "prepared": {
@@ -137684,6 +137684,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T06:14:06.914609+00:00",
         "relay_source_id": "33554657"
+      },
+      "claim": {
+        "worker_id": "16b3a9615b9a4feabde53e46ea119a3e-shard-0",
+        "claimed_at": "2026-11-13T22:27:08.208052+00:00",
+        "lease_expires_at": "2026-11-14T04:27:08.208052+00:00",
+        "run_id": "43482054430"
       }
     },
     "29359": {
@@ -149407,7 +149413,7 @@
       "last_plan": {
         "source_id": "34686051",
         "display_name": "Ach, ta láska nebeská... 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:27:05.491838+00:00"
+        "planned_at": "2026-11-13T22:27:07.763974+00:00"
       }
     },
     "37490": {
@@ -200613,5 +200619,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:27:05.753455+00:00"
+  "updated_at": "2026-11-13T22:27:10.104573+00:00"
 }
