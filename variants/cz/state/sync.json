@@ -113177,13 +113177,6 @@
           "source_id": "34058657",
           "target_video_id": "30984026",
           "permanent": false,
-          "attempted_at": "2026-11-13T17:34:13.599377+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34058657",
-          "target_video_id": "30984026",
-          "permanent": false,
           "attempted_at": "2026-11-13T18:52:02.362856+00:00"
         },
         {
@@ -113192,12 +113185,19 @@
           "target_video_id": "30984026",
           "permanent": false,
           "attempted_at": "2026-11-13T20:12:43.031702+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34058657",
+          "target_video_id": "30984026",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:20:17.078682+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34058657",
         "display_name": "Bruce Almighty 4K CZ Dabing",
-        "planned_at": "2026-11-13T20:12:39.884585+00:00"
+        "planned_at": "2026-11-13T21:20:15.433185+00:00"
       },
       "previous_target_id": "30984026",
       "prepared": {
@@ -148817,11 +148817,22 @@
       "last_plan": {
         "source_id": "25693555",
         "display_name": "Cold Sunday 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:20:07.200769+00:00"
+        "planned_at": "2026-11-13T21:20:15.634739+00:00"
+      },
+      "claim": {
+        "worker_id": "b777e0991e114794ab127da72c9ef637-shard-0",
+        "claimed_at": "2026-11-13T21:20:16.123134+00:00",
+        "lease_expires_at": "2026-11-14T03:20:16.123134+00:00",
+        "run_id": "43482054430"
       }
     },
     "28247": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34710745",
+        "display_name": "Kovář z Podlesí (The Blacksmith from Woodham) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T21:20:15.752989+00:00"
+      }
     },
     "4307": {
       "attempts": []
@@ -200134,5 +200145,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:20:12.247438+00:00"
+  "updated_at": "2026-11-13T21:20:17.078694+00:00"
 }
