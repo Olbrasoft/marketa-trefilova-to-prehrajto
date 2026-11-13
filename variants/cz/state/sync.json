@@ -109692,13 +109692,6 @@
           "source_id": "34979725",
           "target_video_id": "30983683",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:17:43.631454+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34979725",
-          "target_video_id": "30983683",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:48:46.170939+00:00"
         },
         {
@@ -109707,6 +109700,13 @@
           "target_video_id": "30983683",
           "permanent": false,
           "attempted_at": "2026-11-13T20:53:10.530985+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34979725",
+          "target_video_id": "30983683",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:56:28.274159+00:00"
         }
       ],
       "last_plan": {
@@ -109720,12 +109720,6 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T14:33:44.113276+00:00",
         "relay_source_id": "34979725"
-      },
-      "claim": {
-        "worker_id": "9800f6b333e441c7bf71d17c1160ad89-shard-0",
-        "claimed_at": "2026-11-13T21:56:25.811708+00:00",
-        "lease_expires_at": "2026-11-14T03:56:25.811708+00:00",
-        "run_id": "43482054430"
       }
     },
     "13851": {
@@ -138713,7 +138707,7 @@
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T20:53:12.002250+00:00"
+        "planned_at": "2026-11-13T21:56:27.651144+00:00"
       },
       "previous_target_id": "30987901",
       "prepared": {
@@ -138721,6 +138715,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T06:41:36.668898+00:00",
         "relay_source_id": "33806385"
+      },
+      "claim": {
+        "worker_id": "c75a39f37e624603982ac0f8135a1fb1-shard-0",
+        "claimed_at": "2026-11-13T21:56:28.141737+00:00",
+        "lease_expires_at": "2026-11-14T03:56:28.141737+00:00",
+        "run_id": "43482054430"
       }
     },
     "11246": {
@@ -149004,7 +149004,7 @@
       "last_plan": {
         "source_id": "13018503",
         "display_name": "The Greedy Tiffany (Nenasytná Tiffany) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:56:25.558430+00:00"
+        "planned_at": "2026-11-13T21:56:27.848763+00:00"
       }
     },
     "32280": {
@@ -200293,5 +200293,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:56:26.150868+00:00"
+  "updated_at": "2026-11-13T21:56:28.274174+00:00"
 }
