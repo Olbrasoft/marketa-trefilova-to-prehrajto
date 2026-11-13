@@ -117481,13 +117481,6 @@
           "source_id": "33894144",
           "target_video_id": "30984805",
           "permanent": false,
-          "attempted_at": "2026-11-13T04:01:31.554265+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33894144",
-          "target_video_id": "30984805",
-          "permanent": false,
           "attempted_at": "2026-11-13T05:04:54.770839+00:00"
         },
         {
@@ -117496,6 +117489,13 @@
           "target_video_id": "30984805",
           "permanent": false,
           "attempted_at": "2026-11-13T06:46:02.333261+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33894144",
+          "target_video_id": "30984805",
+          "permanent": false,
+          "attempted_at": "2026-11-13T08:02:47.700715+00:00"
         }
       ],
       "last_plan": {
@@ -140598,7 +140598,7 @@
       "last_plan": {
         "source_id": "34658093",
         "display_name": "My Uncle Archimedes (Můj strýček Archimedes) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T06:46:01.824317+00:00"
+        "planned_at": "2026-11-13T08:02:46.430327+00:00"
       },
       "previous_target_id": "30988133",
       "prepared": {
@@ -140606,6 +140606,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T07:38:32.521335+00:00",
         "relay_source_id": "34658093"
+      },
+      "claim": {
+        "worker_id": "bf139de66b644d9b8d41c4064e8da5ae-shard-0",
+        "claimed_at": "2026-11-13T08:02:47.116586+00:00",
+        "lease_expires_at": "2026-11-13T14:02:47.116586+00:00",
+        "run_id": "43371605577"
       }
     },
     "31977": {
@@ -147718,7 +147724,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:02:44.183854+00:00"
+        "planned_at": "2026-11-13T08:02:46.718580+00:00"
       }
     },
     "19216": {
@@ -199217,5 +199223,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T08:02:44.183873+00:00"
+  "updated_at": "2026-11-13T08:02:47.700733+00:00"
 }
