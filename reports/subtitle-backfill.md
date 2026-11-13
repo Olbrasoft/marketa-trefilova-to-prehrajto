@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T04:03:10.926542+00:00
+Poslední aktualizace (UTC): 2026-11-13T04:03:12.760465+00:00
 
 Zkontrolováno videí: 683. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 108, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 109, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -163,6 +163,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 119. Důvo
 | [The Gangster, the Cop, the Devil (악인전) 1080p CZ Titulky](https://prehraj.to/the-gangster-the-cop-the-devil-1080p-cz-titulky-mkv/5b70f3475e836bb0) (ID 30984719) | [Sdílej 11947495](https://sdilej.cz/11947495/the-gangster-the-cop-the-devil-2019.hd1080p-cz-titulky.mkv) | target_unavailable | 2026-11-10T17:27:27.267012+00:00 |
 | [The Godfather 1080p CZ Titulky](https://prehraj.to/the-godfather-cz-titulky-mp4/5a0860210a302e5d) (ID 30594653) | [Sdílej 32106032](https://sdilej.cz/32106032/kmotr-i-czdab-fullhd-the-godfather-i-krimi-usa-1972-audio-cz-en-tit.-cz-1080p-.mp4) | upload_unconfirmed | 2026-11-10T09:41:00.927061+00:00 |
 | [The Great Hack 1080p CZ Titulky](https://prehraj.to/the-great-hack-1080p-cz-titulky-mkv/876cecaca50e47a3) (ID 30986211) | [Sdílej 35468703](https://sdilej.cz/35468703/the.great.hack.2019.1080p.nf.web-dl.ddp5.1.x264-ntg.mkv) | target_unavailable | 2026-11-10T23:42:01.868480+00:00 |
+| [The Last Kingdom: Seven Kings Must Die 4K CZ Titulky](https://prehraj.to/the-last-kingdom-seven-kings-must-die-4k-cz-titulky-mkv/8d719a35d53fc641) (ID 31008794) | [Sdílej 29781891](https://sdilej.cz/29781891/the-last-kingdom-seven-kings-must-die-2023-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv) | target_unavailable | 2026-11-13T04:03:12.760406+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-10T09:40:43.829752+00:00 |
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-10T09:50:17.336404+00:00 |
 | [The Magnificent Seven (2016) 4K CZ Titulky](https://prehraj.to/the-magnificent-seven-2016-4k-cz-titulky-mkv/8e1f67bcb7a081d3) (ID 31003896) | [Sdílej 32905861](https://sdilej.cz/32905861/the-magnificent-seven-sedm-statecnych-2016-2160p-dv-cz-dabing-en-truehd-atmos-radecek.mkv) | target_unavailable | 2026-11-12T15:57:48.753681+00:00 |
