@@ -10907,13 +10907,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-13T14:00:55.293870+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:46:10.329448+00:00"
         },
         {
@@ -10922,12 +10915,19 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-13T16:55:06.602019+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-13T18:02:15.574329+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32380403",
         "display_name": "The Sea Inside 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:55:01.640806+00:00"
+        "planned_at": "2026-11-13T18:02:13.223640+00:00"
       },
       "previous_target_id": "30642909",
       "prepared": {
@@ -148326,7 +148326,13 @@
       "last_plan": {
         "source_id": "26491046",
         "display_name": "Children of Nagano (Děti Nagana) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:02:08.526520+00:00"
+        "planned_at": "2026-11-13T18:02:13.519698+00:00"
+      },
+      "claim": {
+        "worker_id": "03a8d2b62ca145d984c59a70c482fb76-shard-0",
+        "claimed_at": "2026-11-13T18:02:14.306473+00:00",
+        "lease_expires_at": "2026-11-14T00:02:14.306473+00:00",
+        "run_id": "43442116051"
       }
     },
     "14151": {
@@ -148340,7 +148346,7 @@
       "last_plan": {
         "source_id": "35147354",
         "display_name": "Balada pro banditu 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:00:34.386513+00:00"
+        "planned_at": "2026-11-13T18:02:13.746031+00:00"
       }
     },
     "14053": {
@@ -199720,5 +199726,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T18:02:11.288946+00:00"
+  "updated_at": "2026-11-13T18:02:15.574348+00:00"
 }
