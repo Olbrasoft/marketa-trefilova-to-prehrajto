@@ -118555,6 +118555,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:58:19.721107+00:00",
         "relay_source_id": "34651094"
+      },
+      "claim": {
+        "worker_id": "ed9ee3b953654e8d9270ec7e9d96ace1-shard-0",
+        "claimed_at": "2026-11-13T11:06:43.300480+00:00",
+        "lease_expires_at": "2026-11-13T17:06:43.300480+00:00",
+        "run_id": "43408558477"
       }
     },
     "11942": {
@@ -120058,7 +120064,7 @@
       "last_plan": {
         "source_id": "14652595",
         "display_name": "Oliver Twist (2005) 720p CZ Dabing",
-        "planned_at": "2026-11-13T08:44:52.553994+00:00"
+        "planned_at": "2026-11-13T11:06:43.560751+00:00"
       },
       "previous_target_id": "30984996",
       "prepared": {
@@ -139574,13 +139580,6 @@
           "source_id": "27739188",
           "target_video_id": "30987990",
           "permanent": false,
-          "attempted_at": "2026-11-13T06:00:43.304338+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27739188",
-          "target_video_id": "30987990",
-          "permanent": false,
           "attempted_at": "2026-11-13T07:20:45.508755+00:00"
         },
         {
@@ -139589,6 +139588,13 @@
           "target_video_id": "30987990",
           "permanent": false,
           "attempted_at": "2026-11-13T08:44:45.294103+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27739188",
+          "target_video_id": "30987990",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:06:43.104374+00:00"
         }
       ],
       "last_plan": {
@@ -139602,12 +139608,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T07:10:17.965446+00:00",
         "relay_source_id": "27739188"
-      },
-      "claim": {
-        "worker_id": "9af968a8b330472896aa24d235d776cd-shard-0",
-        "claimed_at": "2026-11-13T11:06:40.210041+00:00",
-        "lease_expires_at": "2026-11-13T17:06:40.210041+00:00",
-        "run_id": "43408558477"
       }
     },
     "12990": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T11:06:40.812880+00:00"
+        "planned_at": "2026-11-13T11:06:43.898176+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:06:40.812899+00:00"
+  "updated_at": "2026-11-13T11:06:43.898195+00:00"
 }
