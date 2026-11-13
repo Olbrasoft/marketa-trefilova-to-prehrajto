@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T15:43:19.235594+00:00
+Poslední aktualizace (UTC): 2026-11-13T15:43:23.260396+00:00
 
 Zkontrolováno videí: 703. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 128, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 129, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -176,6 +176,7 @@ Kontrol: 3; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 134. Důvo
 | [The Great Hack 1080p CZ Titulky](https://prehraj.to/the-great-hack-1080p-cz-titulky-mkv/876cecaca50e47a3) (ID 30986211) | [Sdílej 35468703](https://sdilej.cz/35468703/the.great.hack.2019.1080p.nf.web-dl.ddp5.1.x264-ntg.mkv) | target_unavailable | 2026-11-10T23:42:01.868480+00:00 |
 | [The Last Kingdom: Seven Kings Must Die 4K CZ Titulky](https://prehraj.to/the-last-kingdom-seven-kings-must-die-4k-cz-titulky-mkv/8d719a35d53fc641) (ID 31008794) | [Sdílej 29781891](https://sdilej.cz/29781891/the-last-kingdom-seven-kings-must-die-2023-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv) | target_unavailable | 2026-11-13T04:03:12.760406+00:00 |
 | [The Last Stop in Yuma County 1080p CZ Titulky](https://prehraj.to/the-last-stop-in-yuma-county-1080p-cz-titulky-mkv/cbd03db1f36cc17f) (ID 31012476) | [Sdílej 29064521](https://sdilej.cz/29064521/the-last-stop-in-yuma-county-2023-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-13T12:42:27.360943+00:00 |
+| [The Last Trapper SD CZ Titulky](https://prehraj.to/the-last-trapper-sd-cz-titulky-mkv/6a109cd9e4b3fb34) (ID 31014435) | [Sdílej 35402451](https://sdilej.cz/35402451/the-last-trapper-ac3-5-1-dvdrip-eng-2004.cz.sub.mkv) | target_unavailable | 2026-11-13T15:43:23.074230+00:00 |
 | [The Lord of the Rings: The Fellowship of the Ring 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-fellowship-of-the-ring-cz-titulky-mkv/cb53362d96bdd8d4) (ID 30582771) | [Sdílej 26227362](https://sdilej.cz/26227362/the-lord-of-the-rings-the-fellowship-of-the-ring-2001-pan-prstenov-spolecenstvo-prstena-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-10T09:40:43.829752+00:00 |
 | [The Lord of the Rings: The Return of the King 1080p CZ Titulky](https://prehraj.to/the-lord-of-the-rings-the-return-of-the-king-1080p-cz-titulky-mkv/ce0a30cc0395a983) (ID 30675719) | [Sdílej 14676847](https://sdilej.cz/14676847/the-lord-of-the-rings-the-return-of-the-king-pan-prstenov-navrat-krala-brip-cz-eng-titulky.mkv) | target_unavailable | 2026-11-10T09:50:17.336404+00:00 |
 | [The Magnificent Seven (2016) 4K CZ Titulky](https://prehraj.to/the-magnificent-seven-2016-4k-cz-titulky-mkv/8e1f67bcb7a081d3) (ID 31003896) | [Sdílej 32905861](https://sdilej.cz/32905861/the-magnificent-seven-sedm-statecnych-2016-2160p-dv-cz-dabing-en-truehd-atmos-radecek.mkv) | target_unavailable | 2026-11-12T15:57:48.753681+00:00 |
