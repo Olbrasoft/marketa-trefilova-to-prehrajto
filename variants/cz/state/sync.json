@@ -12818,13 +12818,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:55:32.490374+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-13T04:04:48.462989+00:00"
         },
         {
@@ -12833,6 +12826,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-13T05:10:04.474210+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:51:00.401074+00:00"
         }
       ],
       "last_plan": {
@@ -143917,7 +143917,7 @@
       "last_plan": {
         "source_id": "7239474",
         "display_name": "Bílá spona SD CZ Dabing",
-        "planned_at": "2026-11-13T05:10:03.830515+00:00"
+        "planned_at": "2026-11-13T06:50:58.708510+00:00"
       },
       "previous_target_id": "30988750",
       "prepared": {
@@ -143925,6 +143925,12 @@
         "size_bytes": 756000000,
         "prepared_at": "2026-11-11T09:48:19.543124+00:00",
         "relay_source_id": "7239474"
+      },
+      "claim": {
+        "worker_id": "0af3b3fd9dc148c9ace32533c6af176a-shard-0",
+        "claimed_at": "2026-11-13T06:50:59.391254+00:00",
+        "lease_expires_at": "2026-11-13T12:50:59.391254+00:00",
+        "run_id": "43371605577"
       }
     },
     "17569": {
@@ -147681,7 +147687,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T06:50:56.362666+00:00"
+        "planned_at": "2026-11-13T06:50:58.987792+00:00"
       }
     },
     "19216": {
@@ -199180,5 +199186,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:50:56.362683+00:00"
+  "updated_at": "2026-11-13T06:51:00.401091+00:00"
 }
