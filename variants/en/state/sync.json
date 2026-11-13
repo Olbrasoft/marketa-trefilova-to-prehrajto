@@ -39141,17 +39141,19 @@
       "attempts": []
     },
     "18060": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "18710569",
+          "target_video_id": "31011633",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:01:19.417191+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "18710569",
         "display_name": "The Trip (I onde dager) (2021) 1080p CZ Titulky",
         "planned_at": "2026-11-13T10:31:19.191088+00:00"
-      },
-      "claim": {
-        "worker_id": "109a93320c8f4503a4b6af596de2bbc3-shard-0",
-        "claimed_at": "2026-11-13T10:31:19.796253+00:00",
-        "lease_expires_at": "2026-11-13T16:31:19.796253+00:00",
-        "run_id": "43408558477"
       },
       "previous_target_id": "31011633",
       "prepared": {
@@ -98699,5 +98701,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:01:16.693916+00:00"
+  "updated_at": "2026-11-13T11:01:19.417206+00:00"
 }
