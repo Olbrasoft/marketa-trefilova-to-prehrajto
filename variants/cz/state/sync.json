@@ -132565,13 +132565,6 @@
           "source_id": "17465562",
           "target_video_id": "30987160",
           "permanent": false,
-          "attempted_at": "2026-11-13T12:51:39.556560+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17465562",
-          "target_video_id": "30987160",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:10:36.984206+00:00"
         },
         {
@@ -132580,12 +132573,19 @@
           "target_video_id": "30987160",
           "permanent": false,
           "attempted_at": "2026-11-13T15:51:07.470932+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17465562",
+          "target_video_id": "30987160",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:00:35.110773+00:00"
         }
       ],
       "last_plan": {
         "source_id": "17465562",
         "display_name": "Daily Fables (De Fabeltjeskrant: de Grote Dierenbos-spelen) 720p CZ Dabing",
-        "planned_at": "2026-11-13T15:51:04.521871+00:00"
+        "planned_at": "2026-11-13T17:00:33.003308+00:00"
       },
       "previous_target_id": "30987160",
       "prepared": {
@@ -147980,11 +147980,22 @@
       "last_plan": {
         "source_id": "34061689",
         "display_name": "The Sleeping City (Spící město) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:00:16.164680+00:00"
+        "planned_at": "2026-11-13T17:00:33.323199+00:00"
+      },
+      "claim": {
+        "worker_id": "79f50a5f99b04e79bec01b2b5ff07736-shard-0",
+        "claimed_at": "2026-11-13T17:00:34.148580+00:00",
+        "lease_expires_at": "2026-11-13T23:00:34.148580+00:00",
+        "run_id": "43442116051"
       }
     },
     "14789": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34477097",
+        "display_name": "Eleanor's Secret (Kérity, la maison des contes) SD CZ Dabing",
+        "planned_at": "2026-11-13T17:00:33.513090+00:00"
+      }
     },
     "3720": {
       "attempts": []
@@ -199423,5 +199434,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:00:29.366646+00:00"
+  "updated_at": "2026-11-13T17:00:35.110793+00:00"
 }
