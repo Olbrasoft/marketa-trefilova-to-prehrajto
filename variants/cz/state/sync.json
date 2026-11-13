@@ -115221,13 +115221,6 @@
           "source_id": "31632069",
           "target_video_id": "30984590",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:58:28.440649+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31632069",
-          "target_video_id": "30984590",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:20:06.602616+00:00"
         },
         {
@@ -115236,12 +115229,19 @@
           "target_video_id": "30984590",
           "permanent": false,
           "attempted_at": "2026-11-13T21:26:48.880972+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31632069",
+          "target_video_id": "30984590",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:27:24.091323+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31632069",
         "display_name": "The Equalizer 3 4K CZ Dabing",
-        "planned_at": "2026-11-13T21:26:47.104436+00:00"
+        "planned_at": "2026-11-13T22:27:22.057723+00:00"
       },
       "previous_target_id": "30984590",
       "prepared": {
@@ -149407,14 +149407,25 @@
       "last_plan": {
         "source_id": "34686051",
         "display_name": "Ach, ta láska nebeská... 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:27:17.522127+00:00"
+        "planned_at": "2026-11-13T22:27:22.277674+00:00"
+      },
+      "claim": {
+        "worker_id": "c38a90b26097421b876db4f1d2c5f7dc-shard-0",
+        "claimed_at": "2026-11-13T22:27:22.823777+00:00",
+        "lease_expires_at": "2026-11-14T04:27:22.823777+00:00",
+        "run_id": "43482054430"
       }
     },
     "37490": {
       "attempts": []
     },
     "17259": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34799529",
+        "display_name": "Murder in Maussane (Crime dans les Alpilles) SD CZ Dabing",
+        "planned_at": "2026-11-13T22:27:22.419610+00:00"
+      }
     },
     "27586": {
       "attempts": []
@@ -200613,5 +200624,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:27:20.195889+00:00"
+  "updated_at": "2026-11-13T22:27:24.091338+00:00"
 }
