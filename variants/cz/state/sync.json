@@ -133091,13 +133091,6 @@
           "source_id": "32876939",
           "target_video_id": "30987247",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:46:05.339277+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32876939",
-          "target_video_id": "30987247",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:08:17.537490+00:00"
         },
         {
@@ -133106,6 +133099,13 @@
           "target_video_id": "30987247",
           "permanent": false,
           "attempted_at": "2026-11-13T21:13:04.512788+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32876939",
+          "target_video_id": "30987247",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:14:36.857141+00:00"
         }
       ],
       "last_plan": {
@@ -141258,7 +141258,7 @@
       "last_plan": {
         "source_id": "34693961",
         "display_name": "S písní v tísni 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:13:06.013148+00:00"
+        "planned_at": "2026-11-13T22:14:35.403231+00:00"
       },
       "previous_target_id": "30988228",
       "prepared": {
@@ -141266,6 +141266,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-11T07:55:40.231369+00:00",
         "relay_source_id": "34693961"
+      },
+      "claim": {
+        "worker_id": "056bff4a358c4aeca4eaeb2f4ee35fb4-shard-0",
+        "claimed_at": "2026-11-13T22:14:35.852791+00:00",
+        "lease_expires_at": "2026-11-14T04:14:35.852791+00:00",
+        "run_id": "43482054430"
       }
     },
     "15440": {
@@ -149220,7 +149226,7 @@
       "last_plan": {
         "source_id": "23605588",
         "display_name": "Skokan SD CZ Dabing",
-        "planned_at": "2026-11-13T22:14:33.671631+00:00"
+        "planned_at": "2026-11-13T22:14:35.610732+00:00"
       }
     },
     "14280": {
@@ -200468,5 +200474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:14:33.671645+00:00"
+  "updated_at": "2026-11-13T22:14:36.857153+00:00"
 }
