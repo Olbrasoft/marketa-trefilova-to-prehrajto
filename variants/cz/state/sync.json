@@ -107475,13 +107475,6 @@
           "source_id": "34913823",
           "target_video_id": "30983173",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:18:28.907179+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34913823",
-          "target_video_id": "30983173",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:18:35.550135+00:00"
         },
         {
@@ -107490,6 +107483,13 @@
           "target_video_id": "30983173",
           "permanent": false,
           "attempted_at": "2026-11-13T02:29:27.352221+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34913823",
+          "target_video_id": "30983173",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:42:10.755605+00:00"
         }
       ],
       "last_plan": {
@@ -107503,12 +107503,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T13:54:10.599756+00:00",
         "relay_source_id": "34913823"
-      },
-      "claim": {
-        "worker_id": "4163955f264b42249457bb445112a0e1-shard-0",
-        "claimed_at": "2026-11-13T03:42:08.823409+00:00",
-        "lease_expires_at": "2026-11-13T09:42:08.823409+00:00",
-        "run_id": "43339109036"
       }
     },
     "2722": {
@@ -107575,7 +107569,7 @@
       "last_plan": {
         "source_id": "29142066",
         "display_name": "Craig Before the Creek 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:29:28.792935+00:00"
+        "planned_at": "2026-11-13T03:42:10.265662+00:00"
       },
       "previous_target_id": "30983174",
       "prepared": {
@@ -107583,6 +107577,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T13:54:16.987883+00:00",
         "relay_source_id": "29142066"
+      },
+      "claim": {
+        "worker_id": "e9f636693f654a5aac8216817f0f46d8-shard-0",
+        "claimed_at": "2026-11-13T03:42:10.877489+00:00",
+        "lease_expires_at": "2026-11-13T09:42:10.877489+00:00",
+        "run_id": "43339109036"
       }
     },
     "15517": {
@@ -147393,7 +147393,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:42:08.403649+00:00"
+        "planned_at": "2026-11-13T03:42:10.466348+00:00"
       }
     },
     "12316": {
@@ -198925,5 +198925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:42:08.823440+00:00"
+  "updated_at": "2026-11-13T03:42:10.877520+00:00"
 }
