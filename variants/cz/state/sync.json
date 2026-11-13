@@ -121000,13 +121000,6 @@
           "source_id": "34392768",
           "target_video_id": "30985051",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:31:04.246162+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34392768",
-          "target_video_id": "30985051",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:36:17.916399+00:00"
         },
         {
@@ -121015,6 +121008,13 @@
           "target_video_id": "30985051",
           "permanent": false,
           "attempted_at": "2026-11-13T21:44:23.787061+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34392768",
+          "target_video_id": "30985051",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:43:40.647974+00:00"
         }
       ],
       "last_plan": {
@@ -138323,7 +138323,7 @@
       "last_plan": {
         "source_id": "34661718",
         "display_name": "Rukavička 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:44:25.323335+00:00"
+        "planned_at": "2026-11-13T22:43:39.513557+00:00"
       },
       "previous_target_id": "30987874",
       "prepared": {
@@ -138331,6 +138331,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-11-11T06:32:04.763146+00:00",
         "relay_source_id": "34661718"
+      },
+      "claim": {
+        "worker_id": "bad1d5c154a34547b1073994c67cf0a8-shard-0",
+        "claimed_at": "2026-11-13T22:43:39.956217+00:00",
+        "lease_expires_at": "2026-11-14T04:43:39.956217+00:00",
+        "run_id": "43482054430"
       }
     },
     "12707": {
@@ -149582,7 +149588,7 @@
       "last_plan": {
         "source_id": "30110040",
         "display_name": "Out of the City (Cesta z města) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:43:37.860519+00:00"
+        "planned_at": "2026-11-13T22:43:39.711665+00:00"
       }
     },
     "11069": {
@@ -200752,5 +200758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:43:37.860533+00:00"
+  "updated_at": "2026-11-13T22:43:40.647991+00:00"
 }
