@@ -138841,13 +138841,6 @@
           "source_id": "34776105",
           "target_video_id": "30987920",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:54:55.075185+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34776105",
-          "target_video_id": "30987920",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:59:04.444784+00:00"
         },
         {
@@ -138856,6 +138849,13 @@
           "target_video_id": "30987920",
           "permanent": false,
           "attempted_at": "2026-11-13T22:02:55.917427+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34776105",
+          "target_video_id": "30987920",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:04:43.682717+00:00"
         }
       ],
       "last_plan": {
@@ -138869,12 +138869,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T06:47:03.938439+00:00",
         "relay_source_id": "34776105"
-      },
-      "claim": {
-        "worker_id": "ac706134994344248ab2658926c7f91d-shard-0",
-        "claimed_at": "2026-11-13T23:04:40.746348+00:00",
-        "lease_expires_at": "2026-11-14T05:04:40.746348+00:00",
-        "run_id": "43482054430"
       }
     },
     "26977": {
@@ -145642,7 +145636,7 @@
       "last_plan": {
         "source_id": "30629482",
         "display_name": "Little Fatty (Metráček) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:02:55.256401+00:00"
+        "planned_at": "2026-11-13T23:04:43.190324+00:00"
       },
       "previous_target_id": "30992604",
       "prepared": {
@@ -145650,6 +145644,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T17:58:08.904501+00:00",
         "relay_source_id": "30629482"
+      },
+      "claim": {
+        "worker_id": "95c52431e834454a8b26f732879d68bd-shard-0",
+        "claimed_at": "2026-11-13T23:04:43.823609+00:00",
+        "lease_expires_at": "2026-11-14T05:04:43.823609+00:00",
+        "run_id": "43482054430"
       }
     },
     "10785": {
@@ -149835,7 +149835,7 @@
       "last_plan": {
         "source_id": "31595654",
         "display_name": "Zeny a Zivot (Ženy a život) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:04:40.481567+00:00"
+        "planned_at": "2026-11-13T23:04:43.402045+00:00"
       }
     },
     "28907": {
@@ -200966,5 +200966,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:04:41.457565+00:00"
+  "updated_at": "2026-11-13T23:04:43.823630+00:00"
 }
