@@ -108870,13 +108870,6 @@
           "source_id": "35095666",
           "target_video_id": "30983616",
           "permanent": false,
-          "attempted_at": "2026-11-13T07:29:53.119118+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35095666",
-          "target_video_id": "30983616",
-          "permanent": false,
           "attempted_at": "2026-11-13T08:56:36.068746+00:00"
         },
         {
@@ -108885,6 +108878,13 @@
           "target_video_id": "30983616",
           "permanent": false,
           "attempted_at": "2026-11-13T11:15:25.080233+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35095666",
+          "target_video_id": "30983616",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:28:12.739397+00:00"
         }
       ],
       "last_plan": {
@@ -113636,7 +113636,7 @@
       "last_plan": {
         "source_id": "32818573",
         "display_name": "The Island 4K CZ Dabing",
-        "planned_at": "2026-11-13T11:15:23.597489+00:00"
+        "planned_at": "2026-11-13T12:28:10.976431+00:00"
       },
       "previous_target_id": "30984069",
       "prepared": {
@@ -113644,6 +113644,12 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-10T15:23:16.436228+00:00",
         "relay_source_id": "32818573"
+      },
+      "claim": {
+        "worker_id": "9e58f36e942e4e0c863efbfc322c3657-shard-0",
+        "claimed_at": "2026-11-13T12:28:11.834520+00:00",
+        "lease_expires_at": "2026-11-13T18:28:11.834520+00:00",
+        "run_id": "43408558477"
       }
     },
     "3143": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T12:28:08.411804+00:00"
+        "planned_at": "2026-11-13T12:28:11.326208+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:28:08.411821+00:00"
+  "updated_at": "2026-11-13T12:28:12.739415+00:00"
 }
