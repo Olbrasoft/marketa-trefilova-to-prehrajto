@@ -74678,13 +74678,6 @@
           "source_id": "31379501",
           "target_video_id": "30885416",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:13:27.184051+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31379501",
-          "target_video_id": "30885416",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:29:46.596221+00:00"
         },
         {
@@ -74693,6 +74686,13 @@
           "target_video_id": "30885416",
           "permanent": false,
           "attempted_at": "2026-11-13T16:12:22.592946+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31379501",
+          "target_video_id": "30885416",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:22:26.620031+00:00"
         }
       ],
       "last_plan": {
@@ -135382,7 +135382,7 @@
       "last_plan": {
         "source_id": "24480171",
         "display_name": "Sweet Troubles (Sladké starosti) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:12:22.067629+00:00"
+        "planned_at": "2026-11-13T17:22:25.533568+00:00"
       },
       "previous_target_id": "30987584",
       "prepared": {
@@ -135390,6 +135390,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T05:18:04.024948+00:00",
         "relay_source_id": "24480171"
+      },
+      "claim": {
+        "worker_id": "7600f88fe98647ac8669a93763690d9a-shard-0",
+        "claimed_at": "2026-11-13T17:22:26.327462+00:00",
+        "lease_expires_at": "2026-11-13T23:22:26.327462+00:00",
+        "run_id": "43442116051"
       }
     },
     "26886": {
@@ -148146,7 +148152,7 @@
       "last_plan": {
         "source_id": "32046879",
         "display_name": "Fainéant.e.s (Fainéant.es) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:22:23.579001+00:00"
+        "planned_at": "2026-11-13T17:22:25.828538+00:00"
       }
     },
     "16911": {
@@ -199556,5 +199562,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:22:23.579019+00:00"
+  "updated_at": "2026-11-13T17:22:26.620050+00:00"
 }
