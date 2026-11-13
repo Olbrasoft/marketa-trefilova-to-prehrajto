@@ -118564,13 +118564,6 @@
           "source_id": "33873663",
           "target_video_id": "30984867",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:37:56.023136+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33873663",
-          "target_video_id": "30984867",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:21:16.300201+00:00"
         },
         {
@@ -118579,6 +118572,13 @@
           "target_video_id": "30984867",
           "permanent": false,
           "attempted_at": "2026-11-13T16:31:30.912005+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33873663",
+          "target_video_id": "30984867",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:41:42.186257+00:00"
         }
       ],
       "last_plan": {
@@ -137636,7 +137636,7 @@
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:31:34.173777+00:00"
+        "planned_at": "2026-11-13T17:41:39.076040+00:00"
       },
       "previous_target_id": "30987815",
       "prepared": {
@@ -137644,6 +137644,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T06:12:49.248944+00:00",
         "relay_source_id": "27912463"
+      },
+      "claim": {
+        "worker_id": "d0899eacebbb45d1ac0e0d44eeb37b77-shard-0",
+        "claimed_at": "2026-11-13T17:41:39.744000+00:00",
+        "lease_expires_at": "2026-11-13T23:41:39.744000+00:00",
+        "run_id": "43442116051"
       }
     },
     "6823": {
@@ -148256,7 +148262,7 @@
       "last_plan": {
         "source_id": "34721069",
         "display_name": "Every Body 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:41:36.836980+00:00"
+        "planned_at": "2026-11-13T17:41:39.378947+00:00"
       }
     },
     "17001": {
@@ -199654,5 +199660,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:41:37.104041+00:00"
+  "updated_at": "2026-11-13T17:41:42.186276+00:00"
 }
