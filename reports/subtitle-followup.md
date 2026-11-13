@@ -677,3 +677,4 @@ Attach subtitles only after target processing has finished.
 | Sorry to Bother You 1080p CZ Titulky | 31006990 | https://sdilej.cz/10716193/sorry-to-bother-you-cz-titulky-fullhd-1080p.mkv | Extract Czech track from exact source after processing |
 | 48 Hrs. 4K CZ Titulky | 31007032 | https://sdilej.cz/35125536/1982-48-hodin-2160p-sk-cz-eng.mkv | Extract Czech track from exact source after processing |
 | The Bad Guys 4K CZ Titulky | 31007205 | https://sdilej.cz/21710230/-gemberx-the-bad-guys-2022-2160p-anj-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Eternity 1080p CZ Titulky | 31007543 | https://sdilej.cz/32702296/eternity-2025-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
