@@ -123087,13 +123087,6 @@
           "source_id": "35438981",
           "target_video_id": "30985543",
           "permanent": false,
-          "attempted_at": "2026-11-13T12:34:30.686751+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35438981",
-          "target_video_id": "30985543",
-          "permanent": false,
           "attempted_at": "2026-11-13T13:51:51.203741+00:00"
         },
         {
@@ -123102,6 +123095,13 @@
           "target_video_id": "30985543",
           "permanent": false,
           "attempted_at": "2026-11-13T15:37:25.903185+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35438981",
+          "target_video_id": "30985543",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:46:27.624893+00:00"
         }
       ],
       "last_plan": {
@@ -125984,7 +125984,7 @@
       "last_plan": {
         "source_id": "34700408",
         "display_name": "Firecreek 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:37:24.627833+00:00"
+        "planned_at": "2026-11-13T16:46:26.408104+00:00"
       },
       "previous_target_id": "30986040",
       "prepared": {
@@ -125992,6 +125992,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T23:07:09.114768+00:00",
         "relay_source_id": "34700408"
+      },
+      "claim": {
+        "worker_id": "8d1316fe92dc459eb11672a704ffd453-shard-0",
+        "claimed_at": "2026-11-13T16:46:27.351364+00:00",
+        "lease_expires_at": "2026-11-13T22:46:27.351364+00:00",
+        "run_id": "43442116051"
       }
     },
     "20329": {
@@ -147850,7 +147856,7 @@
       "last_plan": {
         "source_id": "35086038",
         "display_name": "Brácha za vsechny penize (Brácha za všechny peníze) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:46:22.297525+00:00"
+        "planned_at": "2026-11-13T16:46:26.702930+00:00"
       }
     },
     "30375": {
@@ -199323,5 +199329,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:46:22.537746+00:00"
+  "updated_at": "2026-11-13T16:46:27.624917+00:00"
 }
