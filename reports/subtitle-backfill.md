@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T22:46:00.771614+00:00
+Poslední aktualizace (UTC): 2026-11-13T22:46:02.524897+00:00
 
 Zkontrolováno videí: 715. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 139, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 140, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -203,6 +203,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 148. Důvo
 | [Triangle 1080p CZ Titulky](https://prehraj.to/triangle-1080p-cz-titulky-mkv/9a4c0387f9957337) (ID 31006060) | [Sdílej 14629570](https://sdilej.cz/14629570/triangle-en-vlozene-titulky-2009-thriller-1080p.mkv) | target_unavailable | 2026-11-12T21:11:25.519777+00:00 |
 | [Truth & Treason 4K CZ Titulky](https://prehraj.to/truth-treason-4k-cz-titulky-mkv/fa8a5eacff079076) (ID 30986247) | [Sdílej 34285530](https://sdilej.cz/34285530/truth-and-treason-2025-2160p.4k-cz.tit.mkv) | target_unavailable | 2026-11-10T23:52:03.421893+00:00 |
 | [Two Brothers 1080p CZ Titulky](https://prehraj.to/two-brothers-1080p-cz-titulky-mkv/6140579d9ab70609) (ID 30987615) | [Sdílej 10716193](https://sdilej.cz/10716193/sorry-to-bother-you-cz-titulky-fullhd-1080p.mkv) | target_unavailable | 2026-11-11T05:35:22.097030+00:00 |
+| [Une liaison pornographique SD CZ Titulky](https://prehraj.to/une-liaison-pornographique-sd-cz-titulky-mkv/c3eb2bb7ac142c0f) (ID 31020447) | [Sdílej 33564256](https://sdilej.cz/33564256/pornograficky-vztah-1999-tit.mkv) | target_unavailable | 2026-11-13T22:46:02.464792+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-10T09:50:00.921711+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-10T09:49:21.146936+00:00 |
 | [Welcome to the Rileys 1080p CZ Titulky](https://prehraj.to/welcome-to-the-rileys-1080p-cz-titulky-mkv/db70ad58153e767b) (ID 31012333) | [Sdílej 31162122](https://sdilej.cz/31162122/2010-welcome-to-the-rileys-svet-podla-mallory-mo-1080p-en-cztit.mkv) | target_unavailable | 2026-11-13T12:22:20.161759+00:00 |
