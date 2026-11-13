@@ -34713,13 +34713,6 @@
           "source_id": "16607977",
           "target_video_id": "30987463",
           "permanent": false,
-          "attempted_at": "2026-11-13T12:32:29.465421+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16607977",
-          "target_video_id": "30987463",
-          "permanent": false,
           "attempted_at": "2026-11-13T13:02:39.201762+00:00"
         },
         {
@@ -34728,6 +34721,13 @@
           "target_video_id": "30987463",
           "permanent": false,
           "attempted_at": "2026-11-13T13:32:51.267932+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16607977",
+          "target_video_id": "30987463",
+          "permanent": false,
+          "attempted_at": "2026-11-13T14:02:59.235182+00:00"
         }
       ],
       "last_plan": {
@@ -35393,7 +35393,7 @@
       "last_plan": {
         "source_id": "23240065",
         "display_name": "Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T13:32:52.120033+00:00"
+        "planned_at": "2026-11-13T14:02:58.593677+00:00"
       },
       "previous_target_id": "30988745",
       "prepared": {
@@ -35401,6 +35401,12 @@
         "size_bytes": 8199999999,
         "prepared_at": "2026-11-11T09:46:13.396689+00:00",
         "relay_source_id": "23240065"
+      },
+      "claim": {
+        "worker_id": "fd99a513ca1a4318baf25342981884d2-shard-0",
+        "claimed_at": "2026-11-13T14:02:59.010629+00:00",
+        "lease_expires_at": "2026-11-13T20:02:59.010629+00:00",
+        "run_id": "43408558477"
       }
     },
     "12662": {
@@ -39534,7 +39540,7 @@
       "last_plan": {
         "source_id": "34465941",
         "display_name": "Pillion 1080p CZ Titulky",
-        "planned_at": "2026-11-13T14:02:55.959826+00:00"
+        "planned_at": "2026-11-13T14:02:58.903693+00:00"
       }
     },
     "37173": {
@@ -98933,5 +98939,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T14:02:55.959845+00:00"
+  "updated_at": "2026-11-13T14:02:59.235200+00:00"
 }
