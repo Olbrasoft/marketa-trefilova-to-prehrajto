@@ -149920,17 +149920,19 @@
       "attempts": []
     },
     "10710": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34671792",
+          "target_video_id": "31021019",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:11:46.897055+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34671792",
         "display_name": "Kidnapped (Únos) (1953) 720p CZ Dabing",
         "planned_at": "2026-11-13T23:08:58.046087+00:00"
-      },
-      "claim": {
-        "worker_id": "3edbb57cb3214d07a8c196a718f9591b-shard-0",
-        "claimed_at": "2026-11-13T23:08:58.571259+00:00",
-        "lease_expires_at": "2026-11-14T05:08:58.571259+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31021019",
       "prepared": {
@@ -201064,5 +201066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:11:45.333939+00:00"
+  "updated_at": "2026-11-13T23:11:46.897070+00:00"
 }
