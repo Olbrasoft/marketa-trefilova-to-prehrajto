@@ -122159,13 +122159,6 @@
           "source_id": "30394887",
           "target_video_id": "30985435",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:47:40.259787+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30394887",
-          "target_video_id": "30985435",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:39:30.390143+00:00"
         },
         {
@@ -122174,6 +122167,13 @@
           "target_video_id": "30985435",
           "permanent": false,
           "attempted_at": "2026-11-13T02:52:27.018111+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30394887",
+          "target_video_id": "30985435",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:02:41.441233+00:00"
         }
       ],
       "last_plan": {
@@ -122187,12 +122187,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T19:18:34.046446+00:00",
         "relay_source_id": "30394887"
-      },
-      "claim": {
-        "worker_id": "0b486e2e54244d34a2fc4f298ed5d405-shard-0",
-        "claimed_at": "2026-11-13T04:02:39.365896+00:00",
-        "lease_expires_at": "2026-11-13T10:02:39.365896+00:00",
-        "run_id": "43339109036"
       }
     },
     "11084": {
@@ -136800,7 +136794,7 @@
       "last_plan": {
         "source_id": "32941007",
         "display_name": "The Websters Movie (Websterovci vo filme) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:52:28.541703+00:00"
+        "planned_at": "2026-11-13T04:02:40.851961+00:00"
       },
       "previous_target_id": "30987743",
       "prepared": {
@@ -136808,6 +136802,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T05:52:17.271606+00:00",
         "relay_source_id": "32941007"
+      },
+      "claim": {
+        "worker_id": "fb0c2b163d0a41b2920c06f2949d1a9c-shard-0",
+        "claimed_at": "2026-11-13T04:02:41.316254+00:00",
+        "lease_expires_at": "2026-11-13T10:02:41.316254+00:00",
+        "run_id": "43339109036"
       }
     },
     "30381": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:02:39.102413+00:00"
+        "planned_at": "2026-11-13T04:02:41.047778+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:02:39.501874+00:00"
+  "updated_at": "2026-11-13T04:02:41.441246+00:00"
 }
