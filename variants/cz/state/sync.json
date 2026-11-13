@@ -149627,17 +149627,19 @@
       "attempts": []
     },
     "11307": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26692201",
+          "target_video_id": "31020611",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:50:11.425588+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26692201",
         "display_name": "Na pytlácké stezce 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:48:06.585524+00:00"
-      },
-      "claim": {
-        "worker_id": "6061d70b029d4c138dea307c365ccae0-shard-0",
-        "claimed_at": "2026-11-13T22:48:08.718249+00:00",
-        "lease_expires_at": "2026-11-14T04:48:08.718249+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020611",
       "prepared": {
@@ -200815,5 +200817,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:50:10.001934+00:00"
+  "updated_at": "2026-11-13T22:50:11.425606+00:00"
 }
