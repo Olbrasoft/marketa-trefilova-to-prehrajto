@@ -80339,13 +80339,6 @@
           "source_id": "28771706",
           "target_video_id": "30899097",
           "permanent": false,
-          "attempted_at": "2026-11-13T01:48:37.516110+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28771706",
-          "target_video_id": "30899097",
-          "permanent": false,
           "attempted_at": "2026-11-13T02:56:17.576317+00:00"
         },
         {
@@ -80354,6 +80347,13 @@
           "target_video_id": "30899097",
           "permanent": false,
           "attempted_at": "2026-11-13T04:05:21.849492+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28771706",
+          "target_video_id": "30899097",
+          "permanent": false,
+          "attempted_at": "2026-11-13T05:10:36.678718+00:00"
         }
       ],
       "last_plan": {
@@ -80367,12 +80367,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-07T21:32:39.846982+00:00",
         "relay_source_id": "28771706"
-      },
-      "claim": {
-        "worker_id": "51fc3f418b5b46f0a661e8375782763f-shard-0",
-        "claimed_at": "2026-11-13T05:10:34.006866+00:00",
-        "lease_expires_at": "2026-11-13T11:10:34.006866+00:00",
-        "run_id": "43339109036"
       }
     },
     "2305": {
@@ -138860,7 +138854,7 @@
       "last_plan": {
         "source_id": "34776105",
         "display_name": "Fallow (BRAK) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:05:21.261746+00:00"
+        "planned_at": "2026-11-13T05:10:36.072657+00:00"
       },
       "previous_target_id": "30987920",
       "prepared": {
@@ -138868,6 +138862,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T06:47:03.938439+00:00",
         "relay_source_id": "34776105"
+      },
+      "claim": {
+        "worker_id": "f8c3877c71f1442ca4b5482a4856a665-shard-0",
+        "claimed_at": "2026-11-13T05:10:36.502509+00:00",
+        "lease_expires_at": "2026-11-13T11:10:36.502509+00:00",
+        "run_id": "43339109036"
       }
     },
     "26977": {
@@ -147525,7 +147525,7 @@
       "last_plan": {
         "source_id": "12546089",
         "display_name": "Of Three Knights, a Beautiful Lady and a Linen Sark (O třech rytířích, krásné paní a lněné kytli) 720p CZ Dabing",
-        "planned_at": "2026-11-13T05:10:33.775359+00:00"
+        "planned_at": "2026-11-13T05:10:36.261150+00:00"
       }
     },
     "24560": {
@@ -199043,5 +199043,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T05:10:34.637191+00:00"
+  "updated_at": "2026-11-13T05:10:36.678735+00:00"
 }
