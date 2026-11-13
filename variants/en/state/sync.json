@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "91851d5b02cd42e5834d3918af48bf2d-shard-0",
+        "claimed_at": "2026-11-13T15:35:59.203819+00:00",
+        "lease_expires_at": "2026-11-13T21:35:59.203819+00:00",
+        "run_id": "43442116051"
       }
     },
     "21312": {
@@ -39508,13 +39514,6 @@
           "source_id": "11904731",
           "target_video_id": "31012805",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:53:59.672421+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11904731",
-          "target_video_id": "31012805",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:24:06.321713+00:00"
         },
         {
@@ -39523,6 +39522,13 @@
           "target_video_id": "31012805",
           "permanent": false,
           "attempted_at": "2026-11-13T15:05:33.331129+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11904731",
+          "target_video_id": "31012805",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:35:59.109522+00:00"
         }
       ],
       "last_plan": {
@@ -39536,12 +39542,6 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-13T13:20:14.341808+00:00",
         "relay_source_id": "11904731"
-      },
-      "claim": {
-        "worker_id": "301fd262e1dc4d77aa527905bd2dfc96-shard-0",
-        "claimed_at": "2026-11-13T15:35:55.827855+00:00",
-        "lease_expires_at": "2026-11-13T21:35:55.827855+00:00",
-        "run_id": "43442116051"
       }
     },
     "22889": {
@@ -39818,7 +39818,7 @@
       "last_plan": {
         "source_id": "17566638",
         "display_name": "Kingdom: Ashin of the North (킹덤: 아신전) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T15:35:57.082953+00:00"
+        "planned_at": "2026-11-13T15:36:00.238847+00:00"
       }
     },
     "37279": {
@@ -99072,5 +99072,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:35:57.082971+00:00"
+  "updated_at": "2026-11-13T15:36:00.238865+00:00"
 }
