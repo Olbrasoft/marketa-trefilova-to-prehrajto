@@ -113140,13 +113140,6 @@
           "source_id": "34274611",
           "target_video_id": "30984010",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:49:31.585882+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34274611",
-          "target_video_id": "30984010",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:10:52.397706+00:00"
         },
         {
@@ -113155,12 +113148,19 @@
           "target_video_id": "30984010",
           "permanent": false,
           "attempted_at": "2026-11-13T21:17:28.354779+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34274611",
+          "target_video_id": "30984010",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:19:38.096530+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34274611",
         "display_name": "X-Men: Apocalypse 4K CZ Dabing",
-        "planned_at": "2026-11-13T21:17:25.325258+00:00"
+        "planned_at": "2026-11-13T22:19:35.981191+00:00"
       },
       "previous_target_id": "30984010",
       "prepared": {
@@ -149291,14 +149291,25 @@
       "last_plan": {
         "source_id": "35428437",
         "display_name": "Péril blanc 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:19:29.560390+00:00"
+        "planned_at": "2026-11-13T22:19:36.194803+00:00"
+      },
+      "claim": {
+        "worker_id": "f4bd39ddf37a40ad812010e227539fca-shard-0",
+        "claimed_at": "2026-11-13T22:19:36.744175+00:00",
+        "lease_expires_at": "2026-11-14T04:19:36.744175+00:00",
+        "run_id": "43482054430"
       }
     },
     "23213": {
       "attempts": []
     },
     "12520": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33708987",
+        "display_name": "Young Wine (Mladé víno) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T22:19:36.334096+00:00"
+      }
     },
     "25697": {
       "attempts": []
@@ -200527,5 +200538,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:19:32.666706+00:00"
+  "updated_at": "2026-11-13T22:19:38.096543+00:00"
 }
