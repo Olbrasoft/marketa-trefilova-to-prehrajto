@@ -34713,13 +34713,6 @@
           "source_id": "16607977",
           "target_video_id": "30987463",
           "permanent": false,
-          "attempted_at": "2026-11-13T22:15:57.234230+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16607977",
-          "target_video_id": "30987463",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:45:59.063500+00:00"
         },
         {
@@ -34728,6 +34721,13 @@
           "target_video_id": "30987463",
           "permanent": false,
           "attempted_at": "2026-11-13T23:28:42.985716+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16607977",
+          "target_video_id": "30987463",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:58:54.114605+00:00"
         }
       ],
       "last_plan": {
@@ -35393,7 +35393,7 @@
       "last_plan": {
         "source_id": "23240065",
         "display_name": "Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T23:28:43.750552+00:00"
+        "planned_at": "2026-11-13T23:58:53.636541+00:00"
       },
       "previous_target_id": "30988745",
       "prepared": {
@@ -35401,6 +35401,12 @@
         "size_bytes": 8199999999,
         "prepared_at": "2026-11-11T09:46:13.396689+00:00",
         "relay_source_id": "23240065"
+      },
+      "claim": {
+        "worker_id": "ab4108f17c004172836d960d203fc609-shard-0",
+        "claimed_at": "2026-11-13T23:58:53.953876+00:00",
+        "lease_expires_at": "2026-11-14T05:58:53.953876+00:00",
+        "run_id": "43526557198"
       }
     },
     "12662": {
@@ -41008,7 +41014,7 @@
       "last_plan": {
         "source_id": "29780275",
         "display_name": "The Blue Star Hotel (Hotel Modrá Hvězda) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T23:58:48.625676+00:00"
+        "planned_at": "2026-11-13T23:58:53.846093+00:00"
       }
     },
     "24570": {
@@ -99645,5 +99651,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:58:48.625695+00:00"
+  "updated_at": "2026-11-13T23:58:54.114625+00:00"
 }
