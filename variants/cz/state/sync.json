@@ -128344,6 +128344,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T01:21:27.931935+00:00",
         "relay_source_id": "24508454"
+      },
+      "claim": {
+        "worker_id": "37a4a536d94241e4a58b68a18d2bab2c-shard-0",
+        "claimed_at": "2026-11-13T15:55:33.615921+00:00",
+        "lease_expires_at": "2026-11-13T21:55:33.615921+00:00",
+        "run_id": "43442116051"
       }
     },
     "32719": {
@@ -140541,13 +140547,6 @@
           "source_id": "33944962",
           "target_video_id": "30988132",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:42:38.135076+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33944962",
-          "target_video_id": "30988132",
-          "permanent": false,
           "attempted_at": "2026-11-13T12:55:16.162402+00:00"
         },
         {
@@ -140556,12 +140555,19 @@
           "target_video_id": "30988132",
           "permanent": false,
           "attempted_at": "2026-11-13T14:14:25.922324+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33944962",
+          "target_video_id": "30988132",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:55:36.573405+00:00"
         }
       ],
       "last_plan": {
         "source_id": "33944962",
         "display_name": "May Events (Bylo to v máji) SD CZ Dabing",
-        "planned_at": "2026-11-13T14:14:20.889951+00:00"
+        "planned_at": "2026-11-13T15:55:33.845460+00:00"
       },
       "previous_target_id": "30988132",
       "prepared": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:55:31.473763+00:00"
+        "planned_at": "2026-11-13T15:55:34.152145+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:55:31.726781+00:00"
+  "updated_at": "2026-11-13T15:55:36.573423+00:00"
 }
