@@ -11428,13 +11428,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:14:25.864146+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:14:11.639274+00:00"
         },
         {
@@ -11443,6 +11436,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-13T01:45:09.514115+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-13T02:15:17.116381+00:00"
         }
       ],
       "last_plan": {
@@ -16560,7 +16560,7 @@
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
-        "planned_at": "2026-11-13T01:45:11.790732+00:00"
+        "planned_at": "2026-11-13T02:15:16.268590+00:00"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -16568,6 +16568,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "93b3d3280e0642b392f5d9a705575009-shard-0",
+        "claimed_at": "2026-11-13T02:15:16.486790+00:00",
+        "lease_expires_at": "2026-11-13T08:15:16.486790+00:00",
+        "run_id": "43339109036"
       }
     },
     "1209": {
@@ -38641,7 +38647,7 @@
       "last_plan": {
         "source_id": "14778688",
         "display_name": "Enemy Mine 1080p CZ Titulky",
-        "planned_at": "2026-11-13T02:15:13.883461+00:00"
+        "planned_at": "2026-11-13T02:15:16.430448+00:00"
       }
     },
     "32423": {
@@ -98379,5 +98385,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T02:15:13.883483+00:00"
+  "updated_at": "2026-11-13T02:15:17.116405+00:00"
 }
