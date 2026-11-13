@@ -124897,13 +124897,6 @@
           "source_id": "19162385",
           "target_video_id": "30985778",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:41:00.344691+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19162385",
-          "target_video_id": "30985778",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:48:13.974382+00:00"
         },
         {
@@ -124912,6 +124905,13 @@
           "target_video_id": "30985778",
           "permanent": false,
           "attempted_at": "2026-11-13T21:53:23.920330+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19162385",
+          "target_video_id": "30985778",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:54:06.857861+00:00"
         }
       ],
       "last_plan": {
@@ -124925,12 +124925,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T21:50:28.199739+00:00",
         "relay_source_id": "19162385"
-      },
-      "claim": {
-        "worker_id": "ad4e0821536b44048a61b009d136343f-shard-0",
-        "claimed_at": "2026-11-13T22:54:04.092261+00:00",
-        "lease_expires_at": "2026-11-14T04:54:04.092261+00:00",
-        "run_id": "43482054430"
       }
     },
     "30021": {
@@ -138615,7 +138609,7 @@
       "last_plan": {
         "source_id": "34715012",
         "display_name": "Prijela k nám pout (Přijela k nám pouť) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:53:23.290568+00:00"
+        "planned_at": "2026-11-13T22:54:07.022264+00:00"
       },
       "previous_target_id": "30987898",
       "prepared": {
@@ -149662,17 +149656,19 @@
       }
     },
     "37475": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34794294",
+          "target_video_id": "31020629",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:54:07.365416+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34794294",
         "display_name": "The Luminous Life 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:50:15.588941+00:00"
-      },
-      "claim": {
-        "worker_id": "ee8171b95805436fb0e83cbfb1dc1583-shard-0",
-        "claimed_at": "2026-11-13T22:50:16.090842+00:00",
-        "lease_expires_at": "2026-11-14T04:50:16.090842+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020629",
       "prepared": {
@@ -149687,7 +149683,7 @@
       "last_plan": {
         "source_id": "34660623",
         "display_name": "Girl America (Amerikánka) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:54:03.831234+00:00"
+        "planned_at": "2026-11-13T22:54:07.212130+00:00"
       }
     },
     "14119": {
@@ -200842,5 +200838,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:54:05.023126+00:00"
+  "updated_at": "2026-11-13T22:54:07.365433+00:00"
 }
