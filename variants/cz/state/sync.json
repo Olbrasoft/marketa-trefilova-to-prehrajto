@@ -110294,7 +110294,7 @@
       "last_plan": {
         "source_id": "15115113",
         "display_name": "O zakletém králi a odvázném Martinovi (Vianočné želanie) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:17:09.580797+00:00"
+        "planned_at": "2026-11-13T23:39:42.449188+00:00"
       },
       "previous_target_id": "30983740",
       "prepared": {
@@ -110302,6 +110302,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T14:41:16.953510+00:00",
         "relay_source_id": "15115113"
+      },
+      "claim": {
+        "worker_id": "a3e7547091654ccb9cb6da09cc980fd3-shard-0",
+        "claimed_at": "2026-11-13T23:39:43.302069+00:00",
+        "lease_expires_at": "2026-11-14T05:39:43.302069+00:00",
+        "run_id": "43526557198"
       }
     },
     "26112": {
@@ -149330,17 +149336,23 @@
           "attempted_at": "2026-11-13T22:17:04.145935+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "23605588",
-        "display_name": "Skokan SD CZ Dabing",
-        "planned_at": "2026-11-13T23:39:39.359345+00:00"
-      },
       "previous_target_id": "31019954",
-      "prepared": {
+      "upload": {
         "target_video_id": "31019954",
-        "size_bytes": 1424468434,
-        "prepared_at": "2026-11-13T22:15:16.134650+00:00",
-        "relay_source_id": "23605588"
+        "display_name": "Skokan SD CZ Dabing",
+        "source_id": "23605588",
+        "source_url": "https://sdilej.cz/23605588/skodna.avi",
+        "source_filename": "Skodna.avi",
+        "size_bytes": 1400000000,
+        "width": 720,
+        "height": 400,
+        "audio_language": "cs",
+        "language_probability": 0.9853509664535522,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/skokan-sd-cz-dabing-avi/f309dc3402eb71bf",
+        "uploaded_at": "2026-11-13T23:39:43.546689+00:00"
       }
     },
     "14280": {
@@ -150014,7 +150026,7 @@
       "last_plan": {
         "source_id": "30019433",
         "display_name": "The Hunley SD CZ Dabing",
-        "planned_at": "2026-11-13T23:39:39.706016+00:00"
+        "planned_at": "2026-11-13T23:39:42.800288+00:00"
       }
     },
     "4153": {
@@ -201116,5 +201128,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:39:39.983074+00:00"
+  "updated_at": "2026-11-13T23:39:43.546706+00:00"
 }
