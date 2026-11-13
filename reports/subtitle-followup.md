@@ -700,3 +700,4 @@ Attach subtitles only after target processing has finished.
 | Pillion 1080p CZ Titulky | 31013758 | https://sdilej.cz/34465941/pillion-2025-.mkv | Extract Czech track from exact source after processing |
 | The Outrun 1080p CZ Titulky | 31013953 | https://sdilej.cz/30078440/the.outrun-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
 | Summer of 85 (Été 85) 1080p CZ Titulky | 31014099 | https://sdilej.cz/28284942/leto-85-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| The Duke 1080p CZ Titulky | 31014248 | https://sdilej.cz/18856807/the.duke.1080p.web-dl.dd5.1.h.264-titulky-cz.mkv | Extract Czech track from exact source after processing |
