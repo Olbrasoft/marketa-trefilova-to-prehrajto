@@ -8570,13 +8570,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:01:43.535161+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:20:46.410099+00:00"
         },
         {
@@ -8585,6 +8578,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-13T16:01:21.482107+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:14:03.132032+00:00"
         }
       ],
       "last_plan": {
@@ -8598,12 +8598,6 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-10-30T10:45:24.686874+00:00",
         "relay_source_id": "21842659"
-      },
-      "claim": {
-        "worker_id": "a44fdd4204464b13814d7684c825148d-shard-0",
-        "claimed_at": "2026-11-13T17:13:59.480088+00:00",
-        "lease_expires_at": "2026-11-13T23:13:59.480088+00:00",
-        "run_id": "43442116051"
       }
     },
     "270": {
@@ -148030,17 +148024,19 @@
       }
     },
     "3720": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34651903",
+          "target_video_id": "31016338",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:14:03.316301+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34651903",
         "display_name": "Forest – I See You Everywhere (Rengeteg - mindenhol látlak) 1080p CZ Dabing",
         "planned_at": "2026-11-13T17:08:39.066299+00:00"
-      },
-      "claim": {
-        "worker_id": "1aad400df0b647f7a471806b7bd5304c-shard-0",
-        "claimed_at": "2026-11-13T17:08:41.203011+00:00",
-        "lease_expires_at": "2026-11-13T23:08:41.203011+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31016338",
       "prepared": {
@@ -199489,5 +199485,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:14:01.237391+00:00"
+  "updated_at": "2026-11-13T17:14:03.316328+00:00"
 }
