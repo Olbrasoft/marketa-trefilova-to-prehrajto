@@ -124973,7 +124973,7 @@
       "last_plan": {
         "source_id": "34376822",
         "display_name": "Somewhere in Queens 720p CZ Dabing",
-        "planned_at": "2026-11-13T21:41:56.177762+00:00"
+        "planned_at": "2026-11-13T22:41:57.532363+00:00"
       },
       "previous_target_id": "30985782",
       "prepared": {
@@ -124981,6 +124981,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T21:53:13.010257+00:00",
         "relay_source_id": "34376822"
+      },
+      "claim": {
+        "worker_id": "a2222f1524f341ef9c41b555c5519396-shard-0",
+        "claimed_at": "2026-11-13T22:41:58.235342+00:00",
+        "lease_expires_at": "2026-11-14T04:41:58.235342+00:00",
+        "run_id": "43482054430"
       }
     },
     "29585": {
@@ -127489,13 +127495,6 @@
           "source_id": "30854253",
           "target_video_id": "30986456",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:28:26.603075+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30854253",
-          "target_video_id": "30986456",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:33:31.868088+00:00"
         },
         {
@@ -127504,6 +127503,13 @@
           "target_video_id": "30986456",
           "permanent": false,
           "attempted_at": "2026-11-13T21:41:54.463530+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30854253",
+          "target_video_id": "30986456",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:41:58.990982+00:00"
         }
       ],
       "last_plan": {
@@ -149561,11 +149567,22 @@
       "last_plan": {
         "source_id": "33479218",
         "display_name": "Odd Fish (Ljósvíkingar) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:41:55.341761+00:00"
+        "planned_at": "2026-11-13T22:41:57.725224+00:00"
+      },
+      "claim": {
+        "worker_id": "60135b0d07844ab084aee6ba76470be2-shard-0",
+        "claimed_at": "2026-11-13T22:41:58.116261+00:00",
+        "lease_expires_at": "2026-11-14T04:41:58.116261+00:00",
+        "run_id": "43482054430"
       }
     },
     "3917": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30110040",
+        "display_name": "Out of the City (Cesta z města) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T22:41:57.844807+00:00"
+      }
     },
     "11069": {
       "attempts": []
@@ -200734,5 +200751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:41:55.341773+00:00"
+  "updated_at": "2026-11-13T22:41:58.990994+00:00"
 }
