@@ -126840,13 +126840,6 @@
           "source_id": "34698812",
           "target_video_id": "30986288",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:44:02.177237+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34698812",
-          "target_video_id": "30986288",
-          "permanent": false,
           "attempted_at": "2026-11-13T16:52:54.189840+00:00"
         },
         {
@@ -126855,6 +126848,13 @@
           "target_video_id": "30986288",
           "permanent": false,
           "attempted_at": "2026-11-13T17:59:33.828121+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34698812",
+          "target_video_id": "30986288",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:31:35.511355+00:00"
         }
       ],
       "last_plan": {
@@ -132379,7 +132379,7 @@
       "last_plan": {
         "source_id": "34713808",
         "display_name": "Suzie in the Garden 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:59:33.293528+00:00"
+        "planned_at": "2026-11-13T19:31:33.382178+00:00"
       },
       "previous_target_id": "30987138",
       "prepared": {
@@ -132387,6 +132387,12 @@
         "size_bytes": 333500000,
         "prepared_at": "2026-11-11T03:45:02.757497+00:00",
         "relay_source_id": "34713808"
+      },
+      "claim": {
+        "worker_id": "2fc0544e56094e789e35b48ae13bff99-shard-0",
+        "claimed_at": "2026-11-13T19:31:33.866541+00:00",
+        "lease_expires_at": "2026-11-14T01:31:33.866541+00:00",
+        "run_id": "43482054430"
       }
     },
     "32268": {
@@ -148575,7 +148581,7 @@
       "last_plan": {
         "source_id": "19259934",
         "display_name": "Princess Jasnenka and the Flying Shoemaker (O princezně Jasněnce a létajícím ševci) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:31:31.505541+00:00"
+        "planned_at": "2026-11-13T19:31:33.596401+00:00"
       }
     },
     "14949": {
@@ -199925,5 +199931,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:31:31.505561+00:00"
+  "updated_at": "2026-11-13T19:31:35.511376+00:00"
 }
