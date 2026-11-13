@@ -121191,13 +121191,6 @@
           "source_id": "33730801",
           "target_video_id": "30985060",
           "permanent": false,
-          "attempted_at": "2026-11-13T04:01:52.990108+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33730801",
-          "target_video_id": "30985060",
-          "permanent": false,
           "attempted_at": "2026-11-13T05:05:28.639912+00:00"
         },
         {
@@ -121206,6 +121199,13 @@
           "target_video_id": "30985060",
           "permanent": false,
           "attempted_at": "2026-11-13T06:46:35.802119+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33730801",
+          "target_video_id": "30985060",
+          "permanent": false,
+          "attempted_at": "2026-11-13T08:03:18.087613+00:00"
         }
       ],
       "last_plan": {
@@ -136780,7 +136780,7 @@
       "last_plan": {
         "source_id": "15441977",
         "display_name": "Jacob, Mimmi and the Talking Dogs (Jēkabs, Mimmi un runājošie suņi) 720p CZ Dabing",
-        "planned_at": "2026-11-13T06:46:34.455774+00:00"
+        "planned_at": "2026-11-13T08:03:16.947891+00:00"
       },
       "previous_target_id": "30987740",
       "prepared": {
@@ -136788,6 +136788,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T05:51:39.961282+00:00",
         "relay_source_id": "15441977"
+      },
+      "claim": {
+        "worker_id": "408017e948294473b7280899984631cb-shard-0",
+        "claimed_at": "2026-11-13T08:03:17.735836+00:00",
+        "lease_expires_at": "2026-11-13T14:03:17.735836+00:00",
+        "run_id": "43371605577"
       }
     },
     "24067": {
@@ -147718,7 +147724,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:03:14.383440+00:00"
+        "planned_at": "2026-11-13T08:03:17.247096+00:00"
       }
     },
     "19216": {
@@ -199217,5 +199223,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T08:03:14.581767+00:00"
+  "updated_at": "2026-11-13T08:03:18.087631+00:00"
 }
