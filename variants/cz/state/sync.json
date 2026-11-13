@@ -117713,6 +117713,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:43:36.279407+00:00",
         "relay_source_id": "28241125"
+      },
+      "claim": {
+        "worker_id": "15eb6b2b1a2a4a979f13ee5dadb04af8-shard-0",
+        "claimed_at": "2026-11-13T23:00:26.464996+00:00",
+        "lease_expires_at": "2026-11-14T05:00:26.464996+00:00",
+        "run_id": "43482054430"
       }
     },
     "3103": {
@@ -149102,17 +149108,23 @@
           "attempted_at": "2026-11-13T21:59:03.688123+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34787341",
-        "display_name": "Settlement of Crows (Osada Havranů) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:57:25.582182+00:00"
-      },
       "previous_target_id": "31019513",
-      "prepared": {
+      "upload": {
         "target_video_id": "31019513",
-        "size_bytes": 1600392610,
-        "prepared_at": "2026-11-13T21:57:29.657135+00:00",
-        "relay_source_id": "34787341"
+        "display_name": "Settlement of Crows (Osada Havranů) 1080p CZ Dabing",
+        "source_id": "34787341",
+        "source_url": "https://sdilej.cz/34787341/osada-havranu-1978-.mp4",
+        "source_filename": "Osada Havranů (1978).mp4",
+        "size_bytes": 1600000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9908774097760519,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/settlement-of-crows-osada-havranu-1080p-cz-dabing-mp4/8d7031409d45dba4",
+        "uploaded_at": "2026-11-13T23:00:32.807443+00:00"
       }
     },
     "35282": {
@@ -149742,7 +149754,7 @@
       "last_plan": {
         "source_id": "30864215",
         "display_name": "The Man from London 720p CZ Dabing",
-        "planned_at": "2026-11-13T23:00:24.827485+00:00"
+        "planned_at": "2026-11-13T23:00:26.839747+00:00"
       }
     },
     "17338": {
@@ -200888,5 +200900,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:00:24.827499+00:00"
+  "updated_at": "2026-11-13T23:00:32.807455+00:00"
 }
