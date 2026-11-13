@@ -112466,13 +112466,6 @@
           "source_id": "34715290",
           "target_video_id": "30983927",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:40:08.581096+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34715290",
-          "target_video_id": "30983927",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:35:41.228817+00:00"
         },
         {
@@ -112481,12 +112474,19 @@
           "target_video_id": "30983927",
           "permanent": false,
           "attempted_at": "2026-11-13T02:49:07.970909+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34715290",
+          "target_video_id": "30983927",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:00:21.278211+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34715290",
         "display_name": "Lion With a White Mane (Lev s bílou hřívou) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:49:04.980984+00:00"
+        "planned_at": "2026-11-13T04:00:19.085799+00:00"
       },
       "previous_target_id": "30983927",
       "prepared": {
@@ -128338,6 +128338,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T01:21:27.931935+00:00",
         "relay_source_id": "24508454"
+      },
+      "claim": {
+        "worker_id": "667828d442ae4c24ba9620b5b500b671-shard-0",
+        "claimed_at": "2026-11-13T04:00:18.923500+00:00",
+        "lease_expires_at": "2026-11-13T10:00:18.923500+00:00",
+        "run_id": "43339109036"
       }
     },
     "32719": {
@@ -147438,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:00:17.486541+00:00"
+        "planned_at": "2026-11-13T04:00:19.305653+00:00"
       }
     },
     "11319": {
@@ -198961,5 +198967,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:00:17.486557+00:00"
+  "updated_at": "2026-11-13T04:00:21.278227+00:00"
 }
