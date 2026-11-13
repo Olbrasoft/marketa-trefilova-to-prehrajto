@@ -10907,13 +10907,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-13T12:45:08.987974+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:00:55.293870+00:00"
         },
         {
@@ -10922,6 +10915,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-13T15:46:10.329448+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:55:06.602019+00:00"
         }
       ],
       "last_plan": {
@@ -18992,7 +18992,7 @@
       "last_plan": {
         "source_id": "30770919",
         "display_name": "Red River 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:46:09.931545+00:00"
+        "planned_at": "2026-11-13T16:55:04.812922+00:00"
       },
       "previous_target_id": "30675401",
       "prepared": {
@@ -19000,6 +19000,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-31T18:46:07.059250+00:00",
         "relay_source_id": "30770919"
+      },
+      "claim": {
+        "worker_id": "30285ff2c36746848ca89e7c5628d014-shard-0",
+        "claimed_at": "2026-11-13T16:55:05.657252+00:00",
+        "lease_expires_at": "2026-11-13T22:55:05.657252+00:00",
+        "run_id": "43442116051"
       }
     },
     "29695": {
@@ -147896,7 +147902,7 @@
       "last_plan": {
         "source_id": "34681406",
         "display_name": "Beauty in Trouble (Kráska v nesnázích) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:55:01.926330+00:00"
+        "planned_at": "2026-11-13T16:55:05.102213+00:00"
       }
     },
     "15892": {
@@ -199363,5 +199369,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:55:02.343458+00:00"
+  "updated_at": "2026-11-13T16:55:06.602039+00:00"
 }
