@@ -34116,13 +34116,6 @@
           "source_id": "7004752",
           "target_video_id": "30984744",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:03:59.908180+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7004752",
-          "target_video_id": "30984744",
-          "permanent": false,
           "attempted_at": "2026-11-13T11:35:09.909803+00:00"
         },
         {
@@ -34131,6 +34124,13 @@
           "target_video_id": "30984744",
           "permanent": false,
           "attempted_at": "2026-11-13T12:05:21.986781+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7004752",
+          "target_video_id": "30984744",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:35:26.897361+00:00"
         }
       ],
       "last_plan": {
@@ -34397,7 +34397,7 @@
       "last_plan": {
         "source_id": "35468703",
         "display_name": "The Great Hack 1080p CZ Titulky",
-        "planned_at": "2026-11-13T12:05:20.938845+00:00"
+        "planned_at": "2026-11-13T12:35:25.866762+00:00"
       },
       "previous_target_id": "30986211",
       "prepared": {
@@ -34405,6 +34405,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T23:36:41.333188+00:00",
         "relay_source_id": "35468703"
+      },
+      "claim": {
+        "worker_id": "fcb4cc13c9f944ebaa5e69d6601a03ec-shard-0",
+        "claimed_at": "2026-11-13T12:35:26.455912+00:00",
+        "lease_expires_at": "2026-11-13T18:35:26.455912+00:00",
+        "run_id": "43408558477"
       }
     },
     "24200": {
@@ -39376,7 +39382,7 @@
       "last_plan": {
         "source_id": "29064521",
         "display_name": "The Last Stop in Yuma County 1080p CZ Titulky",
-        "planned_at": "2026-11-13T12:35:23.296551+00:00"
+        "planned_at": "2026-11-13T12:35:26.089425+00:00"
       }
     },
     "32511": {
@@ -98820,5 +98826,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:35:23.296569+00:00"
+  "updated_at": "2026-11-13T12:35:26.897379+00:00"
 }
