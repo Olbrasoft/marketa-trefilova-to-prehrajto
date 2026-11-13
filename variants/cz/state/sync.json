@@ -111995,13 +111995,6 @@
           "source_id": "33855360",
           "target_video_id": "30983838",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:43:55.378719+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855360",
-          "target_video_id": "30983838",
-          "permanent": false,
           "attempted_at": "2026-11-13T16:52:47.939043+00:00"
         },
         {
@@ -112010,6 +112003,13 @@
           "target_video_id": "30983838",
           "permanent": false,
           "attempted_at": "2026-11-13T17:59:27.186229+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855360",
+          "target_video_id": "30983838",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:31:29.623614+00:00"
         }
       ],
       "last_plan": {
@@ -114072,7 +114072,7 @@
       "last_plan": {
         "source_id": "31982080",
         "display_name": "Extraction (2020) 4K CZ Dabing",
-        "planned_at": "2026-11-13T17:59:26.666142+00:00"
+        "planned_at": "2026-11-13T19:31:28.253077+00:00"
       },
       "previous_target_id": "30984113",
       "prepared": {
@@ -114080,6 +114080,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:29:05.818325+00:00",
         "relay_source_id": "31982080"
+      },
+      "claim": {
+        "worker_id": "36bf227a61744849a7ccf11a93ef13a3-shard-0",
+        "claimed_at": "2026-11-13T19:31:28.749118+00:00",
+        "lease_expires_at": "2026-11-14T01:31:28.749118+00:00",
+        "run_id": "43482054430"
       }
     },
     "2796": {
@@ -148575,7 +148581,7 @@
       "last_plan": {
         "source_id": "19259934",
         "display_name": "Princess Jasnenka and the Flying Shoemaker (O princezně Jasněnce a létajícím ševci) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:31:26.488848+00:00"
+        "planned_at": "2026-11-13T19:31:28.457696+00:00"
       }
     },
     "14949": {
@@ -199925,5 +199931,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:31:26.488868+00:00"
+  "updated_at": "2026-11-13T19:31:29.623633+00:00"
 }
