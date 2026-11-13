@@ -118333,6 +118333,12 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-11-10T17:56:45.657447+00:00",
         "relay_source_id": "32263146"
+      },
+      "claim": {
+        "worker_id": "3d14393fbcf74f4f9b82cc889363e188-shard-0",
+        "claimed_at": "2026-11-13T22:25:48.427708+00:00",
+        "lease_expires_at": "2026-11-14T04:25:48.427708+00:00",
+        "run_id": "43482054430"
       }
     },
     "3157": {
@@ -133191,7 +133197,7 @@
       "last_plan": {
         "source_id": "29078551",
         "display_name": "The Comedy with Mr Klika (Komedie s Klikou) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:24:59.602764+00:00"
+        "planned_at": "2026-11-13T22:25:48.585021+00:00"
       },
       "previous_target_id": "30987286",
       "prepared": {
@@ -133199,6 +133205,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T04:10:06.485517+00:00",
         "relay_source_id": "29078551"
+      },
+      "claim": {
+        "worker_id": "af4aa91968f5412284ca5af317db6a53-shard-0",
+        "claimed_at": "2026-11-13T22:25:49.396838+00:00",
+        "lease_expires_at": "2026-11-14T04:25:49.396838+00:00",
+        "run_id": "43482054430"
       }
     },
     "13137": {
@@ -149356,17 +149368,19 @@
       "attempts": []
     },
     "24187": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32899745",
+          "target_video_id": "31020199",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:25:50.085093+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32899745",
         "display_name": "The Limping Devil SD CZ Dabing",
         "planned_at": "2026-11-13T22:24:45.056260+00:00"
-      },
-      "claim": {
-        "worker_id": "2acd815c1abf4635b381bbcdf09ec5fc-shard-0",
-        "claimed_at": "2026-11-13T22:24:47.013541+00:00",
-        "lease_expires_at": "2026-11-14T04:24:47.013541+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020199",
       "prepared": {
@@ -149384,7 +149398,7 @@
       "last_plan": {
         "source_id": "34710863",
         "display_name": "Muj vysvlecenej denik (Můj vysvlečenej deník) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:25:46.726533+00:00"
+        "planned_at": "2026-11-13T22:25:48.787260+00:00"
       }
     },
     "14274": {
@@ -200593,5 +200607,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:25:46.726547+00:00"
+  "updated_at": "2026-11-13T22:25:50.085104+00:00"
 }
