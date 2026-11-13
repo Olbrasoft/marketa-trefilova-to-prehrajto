@@ -111315,13 +111315,6 @@
           "source_id": "34710916",
           "target_video_id": "30983802",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:25:00.352660+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710916",
-          "target_video_id": "30983802",
-          "permanent": false,
           "attempted_at": "2026-11-13T02:09:25.820706+00:00"
         },
         {
@@ -111330,6 +111323,13 @@
           "target_video_id": "30983802",
           "permanent": false,
           "attempted_at": "2026-11-13T03:24:46.410902+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710916",
+          "target_video_id": "30983802",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:27:16.407915+00:00"
         }
       ],
       "last_plan": {
@@ -124597,7 +124597,7 @@
       "last_plan": {
         "source_id": "31149109",
         "display_name": "Hope Gap 720p CZ Dabing",
-        "planned_at": "2026-11-13T03:24:49.482193+00:00"
+        "planned_at": "2026-11-13T04:27:15.029376+00:00"
       },
       "previous_target_id": "30985758",
       "prepared": {
@@ -124605,6 +124605,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T21:43:04.204698+00:00",
         "relay_source_id": "31149109"
+      },
+      "claim": {
+        "worker_id": "052e1c1095a145af8cc3bd8bda158aa3-shard-0",
+        "claimed_at": "2026-11-13T04:27:15.637012+00:00",
+        "lease_expires_at": "2026-11-13T10:27:15.637012+00:00",
+        "run_id": "43339109036"
       }
     },
     "21281": {
@@ -147451,7 +147457,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:27:13.044452+00:00"
+        "planned_at": "2026-11-13T04:27:15.275492+00:00"
       }
     },
     "11319": {
@@ -198980,5 +198986,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:27:13.322226+00:00"
+  "updated_at": "2026-11-13T04:27:16.407938+00:00"
 }
