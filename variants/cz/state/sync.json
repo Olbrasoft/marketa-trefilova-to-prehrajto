@@ -107244,13 +107244,6 @@
           "source_id": "34751129",
           "target_video_id": "30983121",
           "permanent": false,
-          "attempted_at": "2026-11-13T07:30:17.215140+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34751129",
-          "target_video_id": "30983121",
-          "permanent": false,
           "attempted_at": "2026-11-13T08:57:02.179327+00:00"
         },
         {
@@ -107259,6 +107252,13 @@
           "target_video_id": "30983121",
           "permanent": false,
           "attempted_at": "2026-11-13T11:15:42.277089+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751129",
+          "target_video_id": "30983121",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:28:34.619250+00:00"
         }
       ],
       "last_plan": {
@@ -107272,12 +107272,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T13:52:32.786540+00:00",
         "relay_source_id": "34751129"
-      },
-      "claim": {
-        "worker_id": "e8730aa021bc4aae8f116236cab225c7-shard-0",
-        "claimed_at": "2026-11-13T12:28:31.408165+00:00",
-        "lease_expires_at": "2026-11-13T18:28:31.408165+00:00",
-        "run_id": "43408558477"
       }
     },
     "21739": {
@@ -141698,7 +141692,7 @@
       "last_plan": {
         "source_id": "22069348",
         "display_name": "Prípad pro rybáre (Případ pro rybáře) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T11:15:42.042346+00:00"
+        "planned_at": "2026-11-13T12:28:33.744925+00:00"
       },
       "previous_target_id": "30988344",
       "prepared": {
@@ -141706,6 +141700,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T08:12:54.569713+00:00",
         "relay_source_id": "22069348"
+      },
+      "claim": {
+        "worker_id": "93ee549bb6a4446a926974cdab3e880c-shard-0",
+        "claimed_at": "2026-11-13T12:28:34.835095+00:00",
+        "lease_expires_at": "2026-11-13T18:28:34.835095+00:00",
+        "run_id": "43408558477"
       }
     },
     "32326": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T12:28:30.791719+00:00"
+        "planned_at": "2026-11-13T12:28:34.088008+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:28:31.716866+00:00"
+  "updated_at": "2026-11-13T12:28:34.835124+00:00"
 }
