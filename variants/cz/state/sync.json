@@ -139648,13 +139648,6 @@
           "source_id": "34787002",
           "target_video_id": "30987995",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:01:02.445424+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34787002",
-          "target_video_id": "30987995",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:21:57.356829+00:00"
         },
         {
@@ -139663,12 +139656,19 @@
           "target_video_id": "30987995",
           "permanent": false,
           "attempted_at": "2026-11-13T21:29:09.570667+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34787002",
+          "target_video_id": "30987995",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:29:58.979279+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34787002",
         "display_name": "Don’t Look Round, a Horse Follows Us! (Don't Look Back, There Is a Horse Behind Us) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:29:07.879924+00:00"
+        "planned_at": "2026-11-13T22:29:55.807880+00:00"
       },
       "previous_target_id": "30987995",
       "prepared": {
@@ -149456,11 +149456,22 @@
       "last_plan": {
         "source_id": "13222930",
         "display_name": "Head Hands Heart (Head - Hands - Heart) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:29:52.383623+00:00"
+        "planned_at": "2026-11-13T22:29:56.033933+00:00"
+      },
+      "claim": {
+        "worker_id": "c7793c9ef8ca4bbdb4c7533966891630-shard-0",
+        "claimed_at": "2026-11-13T22:29:56.571035+00:00",
+        "lease_expires_at": "2026-11-14T04:29:56.571035+00:00",
+        "run_id": "43482054430"
       }
     },
     "30421": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33802547",
+        "display_name": "Tank Brigade 1080p CZ Dabing",
+        "planned_at": "2026-11-13T22:29:56.169705+00:00"
+      }
     },
     "17086": {
       "attempts": []
@@ -200653,5 +200664,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:29:53.875010+00:00"
+  "updated_at": "2026-11-13T22:29:58.979292+00:00"
 }
