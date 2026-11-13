@@ -40408,17 +40408,19 @@
       "attempts": []
     },
     "20734": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "6841800",
+          "target_video_id": "31017820",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:08:56.714932+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "6841800",
         "display_name": "The Fourth Phase 1080p CZ Titulky",
         "planned_at": "2026-11-13T18:49:57.805747+00:00"
-      },
-      "claim": {
-        "worker_id": "5acc1b6235704cabb02b004d2672f53f-shard-0",
-        "claimed_at": "2026-11-13T18:49:59.842906+00:00",
-        "lease_expires_at": "2026-11-14T00:49:59.842906+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31017820",
       "prepared": {
@@ -99376,5 +99378,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:02:41.214657+00:00"
+  "updated_at": "2026-11-13T19:08:56.714951+00:00"
 }
