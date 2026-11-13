@@ -117920,6 +117920,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-11-10T17:46:29.376787+00:00",
         "relay_source_id": "34966653"
+      },
+      "claim": {
+        "worker_id": "594b84244ef94d68a54bee408e7a15cb-shard-0",
+        "claimed_at": "2026-11-13T22:04:03.029524+00:00",
+        "lease_expires_at": "2026-11-14T04:04:03.029524+00:00",
+        "run_id": "43482054430"
       }
     },
     "33216": {
@@ -129510,7 +129516,7 @@
       "last_plan": {
         "source_id": "29223001",
         "display_name": "La maternal 720p CZ Dabing",
-        "planned_at": "2026-11-13T21:00:08.437497+00:00"
+        "planned_at": "2026-11-13T22:04:03.309521+00:00"
       },
       "previous_target_id": "30986795",
       "prepared": {
@@ -129518,6 +129524,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-11T02:10:55.260411+00:00",
         "relay_source_id": "29223001"
+      },
+      "claim": {
+        "worker_id": "5d8cec03d597413f9b65a4c0dd0d7745-shard-0",
+        "claimed_at": "2026-11-13T22:04:03.903402+00:00",
+        "lease_expires_at": "2026-11-14T04:04:03.903402+00:00",
+        "run_id": "43482054430"
       }
     },
     "11031": {
@@ -149111,7 +149123,15 @@
       }
     },
     "21424": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "29910381",
+          "reason": "Request failed for https://sdilej.cz/29910381/gerard-filipe-velke-manevre-1955-cz.avi (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:04:04.402996+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29910381",
         "display_name": "The Grand Maneuver (The Grand Manoeuvre) SD CZ Dabing",
@@ -149123,7 +149143,7 @@
       "last_plan": {
         "source_id": "34869559",
         "display_name": "Hunters and Victims (Lovci a oběti) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:04:01.203440+00:00"
+        "planned_at": "2026-11-13T22:04:03.502811+00:00"
       }
     },
     "5207": {
@@ -200386,5 +200406,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:04:01.481451+00:00"
+  "updated_at": "2026-11-13T22:04:04.403006+00:00"
 }
