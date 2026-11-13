@@ -128344,6 +128344,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T01:21:27.931935+00:00",
         "relay_source_id": "24508454"
+      },
+      "claim": {
+        "worker_id": "bee6840be304497eac34ad2d627849e5-shard-0",
+        "claimed_at": "2026-11-13T19:49:08.355891+00:00",
+        "lease_expires_at": "2026-11-14T01:49:08.355891+00:00",
+        "run_id": "43482054430"
       }
     },
     "32719": {
@@ -136683,13 +136689,6 @@
           "source_id": "34788921",
           "target_video_id": "30987732",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:55:50.360735+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34788921",
-          "target_video_id": "30987732",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:08:55.167513+00:00"
         },
         {
@@ -136698,12 +136697,19 @@
           "target_video_id": "30987732",
           "permanent": false,
           "attempted_at": "2026-11-13T18:18:18.543938+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34788921",
+          "target_video_id": "30987732",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:49:10.763792+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34788921",
         "display_name": "Frona SD CZ Dabing",
-        "planned_at": "2026-11-13T18:18:15.437687+00:00"
+        "planned_at": "2026-11-13T19:49:08.522117+00:00"
       },
       "previous_target_id": "30987732",
       "prepared": {
@@ -148637,7 +148643,7 @@
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
-        "planned_at": "2026-11-13T19:49:06.220423+00:00"
+        "planned_at": "2026-11-13T19:49:08.722385+00:00"
       }
     },
     "28902": {
@@ -199984,5 +199990,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:49:06.532435+00:00"
+  "updated_at": "2026-11-13T19:49:10.763812+00:00"
 }
