@@ -138880,13 +138880,6 @@
           "source_id": "34898047",
           "target_video_id": "30987922",
           "permanent": false,
-          "attempted_at": "2026-11-13T01:49:51.139521+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34898047",
-          "target_video_id": "30987922",
-          "permanent": false,
           "attempted_at": "2026-11-13T02:57:30.490895+00:00"
         },
         {
@@ -138895,6 +138888,13 @@
           "target_video_id": "30987922",
           "permanent": false,
           "attempted_at": "2026-11-13T04:06:06.277359+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34898047",
+          "target_video_id": "30987922",
+          "permanent": false,
+          "attempted_at": "2026-11-13T05:11:24.592201+00:00"
         }
       ],
       "last_plan": {
@@ -142596,7 +142596,7 @@
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Broken Promise 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:06:05.650227+00:00"
+        "planned_at": "2026-11-13T05:11:23.161575+00:00"
       },
       "previous_target_id": "30988560",
       "prepared": {
@@ -142604,6 +142604,12 @@
         "size_bytes": 15100000000,
         "prepared_at": "2026-11-11T08:43:22.098273+00:00",
         "relay_source_id": "29645616"
+      },
+      "claim": {
+        "worker_id": "f86a18ce339c48b2b1a1e57ff3a5b2a0-shard-0",
+        "claimed_at": "2026-11-13T05:11:23.607129+00:00",
+        "lease_expires_at": "2026-11-13T11:11:23.607129+00:00",
+        "run_id": "43339109036"
       }
     },
     "36843": {
@@ -147519,7 +147525,7 @@
       "last_plan": {
         "source_id": "12546089",
         "display_name": "Of Three Knights, a Beautiful Lady and a Linen Sark (O třech rytířích, krásné paní a lněné kytli) 720p CZ Dabing",
-        "planned_at": "2026-11-13T05:11:19.504915+00:00"
+        "planned_at": "2026-11-13T05:11:23.363268+00:00"
       }
     },
     "24560": {
@@ -199037,5 +199043,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T05:11:19.504930+00:00"
+  "updated_at": "2026-11-13T05:11:24.592213+00:00"
 }
