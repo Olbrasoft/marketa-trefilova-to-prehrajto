@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T02:02:52.870585+00:00
+Poslední aktualizace (UTC): 2026-11-13T02:02:54.657421+00:00
 
 Zkontrolováno videí: 681. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 106, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 107, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -113,6 +113,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 115. Důvo
 | [King of Kings 720p CZ Titulky](https://prehraj.to/king-of-kings-720p-cz-titulky-mkv/baf4f8c4bbc9016b) (ID 30989744) | [Sdílej 29895942](https://sdilej.cz/29895942/kral-kralov.king-of-kings-1961-720p-en-cztit-historicky.mkv) | target_unavailable | 2026-11-11T12:18:01.717596+00:00 |
 | [Kolya (Kolja) 4K CZ Titulky](https://prehraj.to/kolya-kolja-4k-cz-titulky-mkv/47407a1efcebc0f7) (ID 30693817) | [Sdílej 25989515](https://sdilej.cz/25989515/kolja-directors-cut-1996-2160p-uhd-cz-dabing.mkv) | target_unavailable | 2026-11-10T09:41:35.528523+00:00 |
 | [La cocina 1080p CZ Titulky](https://prehraj.to/la-cocina-1080p-cz-titulky-mkv/d5c5780a393c92bb) (ID 30994375) | [Sdílej 30864866](https://sdilej.cz/30864866/la.cocina-2024-cztit-v-obraze-1080p.mkv) | target_unavailable | 2026-11-11T21:48:05.978098+00:00 |
+| [Ladyhawke 1080p CZ Titulky](https://prehraj.to/ladyhawke-1080p-cz-titulky-mkv/b0fee03b1be1f71b) (ID 31008069) | [Sdílej 35402331](https://sdilej.cz/35402331/ladyhawke.1985.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-13T02:02:54.481412+00:00 |
 | [Legacy, notre héritage (Legacy) 1080p CZ Titulky](https://prehraj.to/legacy-notre-heritage-legacy-1080p-cz-titulky-mkv/69691dd82efd42a0) (ID 30988551) | [Sdílej 17633756](https://sdilej.cz/17633756/space-jam-a-new-legacy-space-jam-novy-zacatek-2021-1080p-aac5.1-titulky-cz.mkv) | target_unavailable | 2026-11-11T08:48:27.898479+00:00 |
 | [Legend (2015) (ID 2712) 1080p CZ Titulky](https://prehraj.to/legend-2015-id-2712-1080p-cz-titulky-mkv/46ea2e48fa560927) (ID 31004679) | [Sdílej 32845458](https://sdilej.cz/32845458/legendy-zlocinu-2015-krimi-thriller-tom-hardy-czdab-bluray.1080p.mkv) | target_unavailable | 2026-11-12T17:58:12.108728+00:00 |
 | [Little Fish (2020) 1080p CZ Titulky](https://prehraj.to/little-fish-2020-1080p-cz-titulky-mkv/3f9cbbdd9272bed4) (ID 30989893) | [Sdílej 35401846](https://sdilej.cz/35401846/little.fish.2020.1080p.webrip.x264-rarbg-.mkv) | target_unavailable | 2026-11-11T12:28:04.209634+00:00 |
