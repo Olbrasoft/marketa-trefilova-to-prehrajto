@@ -38496,17 +38496,19 @@
       "attempts": []
     },
     "2538": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27144377",
+          "target_video_id": "31007827",
+          "permanent": false,
+          "attempted_at": "2026-11-13T01:40:14.995422+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27144377",
         "display_name": "When Evil Lurks (Cuando acecha la maldad) 1080p CZ Titulky",
         "planned_at": "2026-11-13T01:16:04.877869+00:00"
-      },
-      "claim": {
-        "worker_id": "72c79b4f6d274bd094912bff30d91bc5-shard-0",
-        "claimed_at": "2026-11-13T01:16:05.116285+00:00",
-        "lease_expires_at": "2026-11-13T07:16:05.116285+00:00",
-        "run_id": "43339109036"
       },
       "previous_target_id": "31007827",
       "prepared": {
@@ -98313,5 +98315,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T01:40:11.478988+00:00"
+  "updated_at": "2026-11-13T01:40:14.995444+00:00"
 }
