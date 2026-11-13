@@ -148887,17 +148887,19 @@
       "attempts": []
     },
     "16485": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34470698",
+          "target_video_id": "31019237",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:45:18.013537+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34470698",
         "display_name": "Rumbling (Burácení) 1080p CZ Dabing",
         "planned_at": "2026-11-13T21:41:41.772521+00:00"
-      },
-      "claim": {
-        "worker_id": "bb1d5de9f68941ec85a35fd153eea887-shard-0",
-        "claimed_at": "2026-11-13T21:41:42.276358+00:00",
-        "lease_expires_at": "2026-11-14T03:41:42.276358+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31019237",
       "prepared": {
@@ -200214,5 +200216,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:45:16.102731+00:00"
+  "updated_at": "2026-11-13T21:45:18.013555+00:00"
 }
