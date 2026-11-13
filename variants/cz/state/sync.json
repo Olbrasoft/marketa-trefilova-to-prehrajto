@@ -115030,13 +115030,6 @@
           "source_id": "28364272",
           "target_video_id": "30984516",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:40:51.739461+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28364272",
-          "target_video_id": "30984516",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:36:37.573471+00:00"
         },
         {
@@ -115045,6 +115038,13 @@
           "target_video_id": "30984516",
           "permanent": false,
           "attempted_at": "2026-11-13T02:50:00.492650+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28364272",
+          "target_video_id": "30984516",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:00:57.964001+00:00"
         }
       ],
       "last_plan": {
@@ -115058,12 +115058,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T16:39:29.375095+00:00",
         "relay_source_id": "28364272"
-      },
-      "claim": {
-        "worker_id": "ecd58400ce754877b6fdc475a838aed3-shard-0",
-        "claimed_at": "2026-11-13T04:00:55.998830+00:00",
-        "lease_expires_at": "2026-11-13T10:00:55.998830+00:00",
-        "run_id": "43339109036"
       }
     },
     "3032": {
@@ -115627,7 +115621,7 @@
       "last_plan": {
         "source_id": "30934830",
         "display_name": "Syriana 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:50:02.006447+00:00"
+        "planned_at": "2026-11-13T04:00:57.362813+00:00"
       },
       "previous_target_id": "30984637",
       "prepared": {
@@ -115635,6 +115629,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T17:10:50.700855+00:00",
         "relay_source_id": "30934830"
+      },
+      "claim": {
+        "worker_id": "d508bc20e5554e9ca6d1f5f981c7b11b-shard-0",
+        "claimed_at": "2026-11-13T04:00:57.808086+00:00",
+        "lease_expires_at": "2026-11-13T10:00:57.808086+00:00",
+        "run_id": "43339109036"
       }
     },
     "2925": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:00:55.435863+00:00"
+        "planned_at": "2026-11-13T04:00:57.571826+00:00"
       }
     },
     "11319": {
@@ -198967,5 +198967,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:00:55.998852+00:00"
+  "updated_at": "2026-11-13T04:00:57.964014+00:00"
 }
