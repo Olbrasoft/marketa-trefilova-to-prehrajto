@@ -39565,17 +39565,19 @@
       "attempts": []
     },
     "28666": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34465941",
+          "target_video_id": "31013758",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:20:00.027569+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34465941",
         "display_name": "Pillion 1080p CZ Titulky",
         "planned_at": "2026-11-13T15:02:45.510055+00:00"
-      },
-      "claim": {
-        "worker_id": "86db22edf7704e3a92b2f6e4011ef48d-shard-0",
-        "claimed_at": "2026-11-13T15:02:46.366686+00:00",
-        "lease_expires_at": "2026-11-13T21:02:46.366686+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31013758",
       "prepared": {
@@ -98991,5 +98993,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:19:57.654497+00:00"
+  "updated_at": "2026-11-13T15:20:00.027589+00:00"
 }
