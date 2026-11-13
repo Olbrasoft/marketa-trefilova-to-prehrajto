@@ -149781,17 +149781,19 @@
       "attempts": []
     },
     "33451": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "10573793",
+          "target_video_id": "31020845",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:03:16.026996+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "10573793",
         "display_name": "Murderous Tales (Smrtelné historky) SD CZ Dabing",
         "planned_at": "2026-11-13T23:01:31.948027+00:00"
-      },
-      "claim": {
-        "worker_id": "f3f96c1ca6e3473c9447bc212fc009ea-shard-0",
-        "claimed_at": "2026-11-13T23:01:32.461627+00:00",
-        "lease_expires_at": "2026-11-14T05:01:32.461627+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020845",
       "prepared": {
@@ -200940,5 +200942,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:03:14.402963+00:00"
+  "updated_at": "2026-11-13T23:03:16.027013+00:00"
 }
