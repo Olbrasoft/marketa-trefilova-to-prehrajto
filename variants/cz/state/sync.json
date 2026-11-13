@@ -122738,13 +122738,6 @@
           "source_id": "34237700",
           "target_video_id": "30985483",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:31:48.022158+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34237700",
-          "target_video_id": "30985483",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:37:19.316746+00:00"
         },
         {
@@ -122753,6 +122746,13 @@
           "target_video_id": "30985483",
           "permanent": false,
           "attempted_at": "2026-11-13T21:45:16.102712+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34237700",
+          "target_video_id": "30985483",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:44:21.399852+00:00"
         }
       ],
       "last_plan": {
@@ -148945,17 +148945,23 @@
           "attempted_at": "2026-11-13T21:45:18.013537+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34470698",
-        "display_name": "Rumbling (Burácení) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:41:41.772521+00:00"
-      },
       "previous_target_id": "31019237",
-      "prepared": {
+      "upload": {
         "target_video_id": "31019237",
-        "size_bytes": 2759131816,
-        "prepared_at": "2026-11-13T21:41:45.485328+00:00",
-        "relay_source_id": "34470698"
+        "display_name": "Rumbling (Burácení) 1080p CZ Dabing",
+        "source_id": "34470698",
+        "source_url": "https://sdilej.cz/34470698/2015-buraceni-road-movie-42-cesko-usa.avi",
+        "source_filename": "2015 - Burácení - Road movie - 42% - Česko USA - NEO.avi",
+        "size_bytes": 2800000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9536219835281372,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/rumbling-buraceni-1080p-cz-dabing-avi/58936fe34a6ccedd",
+        "uploaded_at": "2026-11-13T22:44:21.553518+00:00"
       }
     },
     "33425": {
@@ -149588,7 +149594,7 @@
       "last_plan": {
         "source_id": "30110040",
         "display_name": "Out of the City (Cesta z města) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:44:18.099640+00:00"
+        "planned_at": "2026-11-13T22:44:20.087031+00:00"
       }
     },
     "11069": {
@@ -200758,5 +200764,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:44:18.099653+00:00"
+  "updated_at": "2026-11-13T22:44:21.553532+00:00"
 }
