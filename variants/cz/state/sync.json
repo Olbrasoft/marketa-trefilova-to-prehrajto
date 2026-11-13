@@ -147571,13 +147571,6 @@
           "source_id": "12674209",
           "target_video_id": "31009490",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:00:39.085398+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12674209",
-          "target_video_id": "31009490",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:21:34.682573+00:00"
         },
         {
@@ -147586,12 +147579,19 @@
           "target_video_id": "31009490",
           "permanent": false,
           "attempted_at": "2026-11-13T21:28:42.354562+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12674209",
+          "target_video_id": "31009490",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:29:32.659542+00:00"
         }
       ],
       "last_plan": {
         "source_id": "12674209",
         "display_name": "The Key (1971) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:28:40.700445+00:00"
+        "planned_at": "2026-11-13T22:29:29.589218+00:00"
       },
       "previous_target_id": "31009490",
       "prepared": {
@@ -149382,17 +149382,19 @@
       "attempts": []
     },
     "28351": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34710863",
+          "target_video_id": "31020235",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:29:32.838565+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710863",
         "display_name": "Muj vysvlecenej denik (Můj vysvlečenej deník) 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:25:54.198494+00:00"
-      },
-      "claim": {
-        "worker_id": "71b2441ff93641de849cc6ae5fb51add-shard-0",
-        "claimed_at": "2026-11-13T22:25:55.945060+00:00",
-        "lease_expires_at": "2026-11-14T04:25:55.945060+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020235",
       "prepared": {
@@ -149431,7 +149433,7 @@
       "last_plan": {
         "source_id": "34799529",
         "display_name": "Murder in Maussane (Crime dans les Alpilles) SD CZ Dabing",
-        "planned_at": "2026-11-13T22:29:24.667958+00:00"
+        "planned_at": "2026-11-13T22:29:29.804517+00:00"
       }
     },
     "27586": {
@@ -200631,5 +200633,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:29:26.196131+00:00"
+  "updated_at": "2026-11-13T22:29:32.838577+00:00"
 }
