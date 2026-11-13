@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T16:13:25.526160+00:00
+Poslední aktualizace (UTC): 2026-11-13T16:13:27.648395+00:00
 
 Zkontrolováno videí: 707. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 130, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 131, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -84,6 +84,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 135. Důvo
 | [Breathing (Atmen) 1080p CZ Titulky](https://prehraj.to/breathing-atmen-1080p-cz-titulky-mkv/8b7d1e0c0a2a43f5) (ID 30998606) | [Sdílej 32749057](https://sdilej.cz/32749057/atmen-breathing-dychat-2011-bdremux-1080p.mkv) | target_unavailable | 2026-11-12T04:42:31.716555+00:00 |
 | [Bullitt 720p CZ Titulky](https://prehraj.to/bullitt-720p-cz-titulky-mkv/9f2c24fd0bd707e1) (ID 30763383) | [Sdílej 7674339](https://sdilej.cz/7674339/bullittuv-pripad-bullitt-1968-cz-eng-pl-dab-cz-eng-pl-tit.-ok-kvalitka-.mkv) | target_unavailable | 2026-11-10T09:49:33.170027+00:00 |
 | [C'est la vie! (Le Sens de la fête) 1080p CZ Titulky](https://prehraj.to/c-est-la-vie-le-sens-de-la-fete-1080p-cz-titulky-mkv/595d5ada0a880100) (ID 31014523) | [Sdílej 34972763](https://sdilej.cz/34972763/le.sens.de.la.fete.2017.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-13T15:53:28.526115+00:00 |
+| [Chisum 1080p CZ Titulky](https://prehraj.to/chisum-1080p-cz-titulky-mkv/fe1f1cb661ffa3f5) (ID 31014978) | [Sdílej 30779927](https://sdilej.cz/30779927/john-chisum-hraji-john-wayne-1970-cz-dab-leg.mkv) | target_unavailable | 2026-11-13T16:13:27.459046+00:00 |
 | [Chocolat (2000) 1080p CZ Titulky](https://prehraj.to/chocolat-2000-1080p-cz-titulky-mkv/8143f0612377d3e9) (ID 30859204) | [Sdílej 34220031](https://sdilej.cz/34220031/cokolada-2000-romant.drama-johnny-depp-czdab.bluray.1080p.mkv) | target_unavailable | 2026-11-10T09:49:52.647297+00:00 |
 | [Chocolat (2016) SD CZ Titulky](https://prehraj.to/chocolat-2016-sd-cz-titulky-mkv/668ea0f6de46f2fd) (ID 30990768) | [Sdílej 6841848](https://sdilej.cz/6841848/chocolat-monsieur-chocolat-2016-titulky.cz-1080p.mkv) | target_unavailable | 2026-11-11T13:58:21.537398+00:00 |
 | [Clear and Present Danger 1080p CZ Titulky](https://prehraj.to/clear-and-present-danger-1080p-cz-titulky-mkv/4922b20cbda668d9) (ID 31006506) | [Sdílej 29946984](https://sdilej.cz/29946984/jasne-nebezpeci-1994-en-cs-pl-en-cs-pl-816p23.976-.mkv) | target_unavailable | 2026-11-12T22:01:37.628878+00:00 |
