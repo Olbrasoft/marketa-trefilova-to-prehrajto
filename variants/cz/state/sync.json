@@ -148673,17 +148673,19 @@
       }
     },
     "14949": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "15015886",
+          "target_video_id": "31018591",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:39:58.363766+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
         "planned_at": "2026-11-13T20:27:10.984382+00:00"
-      },
-      "claim": {
-        "worker_id": "a02f4306fccf40bf892fa133c6fac8f4-shard-0",
-        "claimed_at": "2026-11-13T20:27:11.790884+00:00",
-        "lease_expires_at": "2026-11-14T02:27:11.790884+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31018591",
       "prepared": {
@@ -200060,5 +200062,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:39:56.867553+00:00"
+  "updated_at": "2026-11-13T20:39:58.363790+00:00"
 }
