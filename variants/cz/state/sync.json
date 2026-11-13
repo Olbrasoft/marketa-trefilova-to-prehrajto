@@ -106880,13 +106880,6 @@
           "source_id": "30581817",
           "target_video_id": "30981794",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:18:47.488248+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30581817",
-          "target_video_id": "30981794",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:18:50.854744+00:00"
         },
         {
@@ -106895,6 +106888,13 @@
           "target_video_id": "30981794",
           "permanent": false,
           "attempted_at": "2026-11-13T02:29:42.708148+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30581817",
+          "target_video_id": "30981794",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:42:19.932669+00:00"
         }
       ],
       "last_plan": {
@@ -106908,12 +106908,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T13:19:56.645605+00:00",
         "relay_source_id": "30581817"
-      },
-      "claim": {
-        "worker_id": "67aa28c0db6f4d94943a6768a1223d90-shard-0",
-        "claimed_at": "2026-11-13T03:42:17.741423+00:00",
-        "lease_expires_at": "2026-11-13T09:42:17.741423+00:00",
-        "run_id": "43339109036"
       }
     },
     "11343": {
@@ -107618,7 +107612,7 @@
       "last_plan": {
         "source_id": "27820413",
         "display_name": "Tam na konečné (At the Terminus) SD CZ Dabing",
-        "planned_at": "2026-11-13T02:29:44.768655+00:00"
+        "planned_at": "2026-11-13T03:42:19.254439+00:00"
       },
       "previous_target_id": "30983233",
       "prepared": {
@@ -107626,6 +107620,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T13:55:28.555248+00:00",
         "relay_source_id": "27820413"
+      },
+      "claim": {
+        "worker_id": "853056a81ff64ab3a65a676231ac81a0-shard-0",
+        "claimed_at": "2026-11-13T03:42:20.055936+00:00",
+        "lease_expires_at": "2026-11-13T09:42:20.055936+00:00",
+        "run_id": "43339109036"
       }
     },
     "36724": {
@@ -147393,7 +147393,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:42:17.339360+00:00"
+        "planned_at": "2026-11-13T03:42:19.454400+00:00"
       }
     },
     "12316": {
@@ -198925,5 +198925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:42:17.741446+00:00"
+  "updated_at": "2026-11-13T03:42:20.055957+00:00"
 }
