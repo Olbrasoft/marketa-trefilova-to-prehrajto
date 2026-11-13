@@ -119622,13 +119622,6 @@
           "source_id": "24662573",
           "target_video_id": "30984966",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:44:21.674505+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24662573",
-          "target_video_id": "30984966",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:06:53.547024+00:00"
         },
         {
@@ -119637,6 +119630,13 @@
           "target_video_id": "30984966",
           "permanent": false,
           "attempted_at": "2026-11-13T21:11:13.717168+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24662573",
+          "target_video_id": "30984966",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:13:03.532552+00:00"
         }
       ],
       "last_plan": {
@@ -119650,12 +119650,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T18:21:55.359609+00:00",
         "relay_source_id": "24662573"
-      },
-      "claim": {
-        "worker_id": "201b9bc7785e4994a9f50b93bee9fb28-shard-0",
-        "claimed_at": "2026-11-13T22:13:00.526703+00:00",
-        "lease_expires_at": "2026-11-14T04:13:00.526703+00:00",
-        "run_id": "43482054430"
       }
     },
     "24127": {
@@ -129590,7 +129584,7 @@
       "last_plan": {
         "source_id": "30726013",
         "display_name": "Solitude (Einvera) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:11:15.292584+00:00"
+        "planned_at": "2026-11-13T22:13:02.860748+00:00"
       },
       "previous_target_id": "30986834",
       "prepared": {
@@ -129598,6 +129592,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T02:17:39.609117+00:00",
         "relay_source_id": "30726013"
+      },
+      "claim": {
+        "worker_id": "4bf88c87ed624eaaacf1fe4c99c28a8a-shard-0",
+        "claimed_at": "2026-11-13T22:13:03.330793+00:00",
+        "lease_expires_at": "2026-11-14T04:13:03.330793+00:00",
+        "run_id": "43482054430"
       }
     },
     "18985": {
@@ -149226,7 +149226,7 @@
       "last_plan": {
         "source_id": "23605588",
         "display_name": "Skokan SD CZ Dabing",
-        "planned_at": "2026-11-13T22:13:00.291785+00:00"
+        "planned_at": "2026-11-13T22:13:03.071448+00:00"
       }
     },
     "14280": {
@@ -200471,5 +200471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:13:01.362835+00:00"
+  "updated_at": "2026-11-13T22:13:03.532568+00:00"
 }
