@@ -718,3 +718,4 @@ Attach subtitles only after target processing has finished.
 | Madly (FolleMente) 1080p CZ Titulky | 31020680 | https://sdilej.cz/32445017/follemente-2025-cz.tit.mkv | Extract Czech track from exact source after processing |
 | How I Became a Gangster (Jak zostalem gangsterem. Historia prawdziwa) 1080p CZ Titulky | 31021388 | https://sdilej.cz/24575270/jak-jsem-se-stal-gangsterem-webrip-pl-en-tit-cz.mkv | Extract Czech track from exact source after processing |
 | Outlaws 1080p CZ Titulky | 31021566 | https://sdilej.cz/19685390/las-leyes-de-la-frontera-outlaws-psanci-2021-cz-titulky-.mkv | Extract Czech track from exact source after processing |
+| The Swedish Connection (Den svenska länken) 1080p CZ Titulky | 31021651 | https://sdilej.cz/33292727/den-svenska-lanken-2026-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
