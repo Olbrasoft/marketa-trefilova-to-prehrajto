@@ -99932,13 +99932,6 @@
           "source_id": "27374216",
           "target_video_id": "30961098",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:44:56.789272+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27374216",
-          "target_video_id": "30961098",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:07:22.132481+00:00"
         },
         {
@@ -99947,6 +99940,13 @@
           "target_video_id": "30961098",
           "permanent": false,
           "attempted_at": "2026-11-13T21:11:53.633412+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27374216",
+          "target_video_id": "30961098",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:13:36.345602+00:00"
         }
       ],
       "last_plan": {
@@ -114445,7 +114445,7 @@
       "last_plan": {
         "source_id": "26256406",
         "display_name": "Role Models 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:11:55.044607+00:00"
+        "planned_at": "2026-11-13T22:13:35.072221+00:00"
       },
       "previous_target_id": "30984157",
       "prepared": {
@@ -114453,6 +114453,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T15:34:42.880285+00:00",
         "relay_source_id": "26256406"
+      },
+      "claim": {
+        "worker_id": "b128d1f7cec647dda76fe099e9f1f21a-shard-0",
+        "claimed_at": "2026-11-13T22:13:35.549958+00:00",
+        "lease_expires_at": "2026-11-14T04:13:35.549958+00:00",
+        "run_id": "43482054430"
       }
     },
     "3077": {
@@ -149220,7 +149226,7 @@
       "last_plan": {
         "source_id": "23605588",
         "display_name": "Skokan SD CZ Dabing",
-        "planned_at": "2026-11-13T22:13:33.189766+00:00"
+        "planned_at": "2026-11-13T22:13:35.277744+00:00"
       }
     },
     "14280": {
@@ -200468,5 +200474,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:13:33.189778+00:00"
+  "updated_at": "2026-11-13T22:13:36.345619+00:00"
 }
