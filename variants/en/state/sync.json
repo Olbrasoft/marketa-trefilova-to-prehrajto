@@ -39414,17 +39414,19 @@
       "attempts": []
     },
     "2500": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29064521",
+          "target_video_id": "31012476",
+          "permanent": false,
+          "attempted_at": "2026-11-13T13:30:31.542428+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29064521",
         "display_name": "The Last Stop in Yuma County 1080p CZ Titulky",
         "planned_at": "2026-11-13T12:36:57.378051+00:00"
-      },
-      "claim": {
-        "worker_id": "d2317d356c9844f18d16250252c4bde9-shard-0",
-        "claimed_at": "2026-11-13T12:36:58.175451+00:00",
-        "lease_expires_at": "2026-11-13T18:36:58.175451+00:00",
-        "run_id": "43408558477"
       },
       "previous_target_id": "31012476",
       "prepared": {
@@ -39487,7 +39489,7 @@
       "last_plan": {
         "source_id": "35182294",
         "display_name": "Something Wild 1080p CZ Titulky",
-        "planned_at": "2026-11-13T13:30:26.044912+00:00"
+        "planned_at": "2026-11-13T13:30:30.486828+00:00"
       }
     },
     "23668": {
@@ -98898,5 +98900,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T13:30:26.044926+00:00"
+  "updated_at": "2026-11-13T13:30:31.542444+00:00"
 }
