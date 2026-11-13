@@ -109367,7 +109367,7 @@
       "last_plan": {
         "source_id": "34716695",
         "display_name": "Měsíc nad řekou 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:47:43.963601+00:00"
+        "planned_at": "2026-11-13T16:56:34.777096+00:00"
       },
       "previous_target_id": "30983668",
       "prepared": {
@@ -109375,6 +109375,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T14:30:57.208597+00:00",
         "relay_source_id": "34716695"
+      },
+      "claim": {
+        "worker_id": "97ea257c07ef4967b25cc5fb47a931c9-shard-0",
+        "claimed_at": "2026-11-13T16:56:35.496891+00:00",
+        "lease_expires_at": "2026-11-13T22:56:35.496891+00:00",
+        "run_id": "43442116051"
       }
     },
     "24311": {
@@ -115487,6 +115493,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T17:07:46.835028+00:00",
         "relay_source_id": "32940647"
+      },
+      "claim": {
+        "worker_id": "ee4ae243893347e28c5adc5ad32b32be-shard-0",
+        "claimed_at": "2026-11-13T16:56:34.549783+00:00",
+        "lease_expires_at": "2026-11-13T22:56:34.549783+00:00",
+        "run_id": "43442116051"
       }
     },
     "17928": {
@@ -147871,17 +147883,19 @@
       }
     },
     "30375": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34782564",
+          "target_video_id": "31016060",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:56:35.851330+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34782564",
         "display_name": "Scooby-Doo! Winter WonderDog SD CZ Dabing",
         "planned_at": "2026-11-13T16:54:55.933832+00:00"
-      },
-      "claim": {
-        "worker_id": "4c8a671c8d5a4f9ead430b1e3651898d-shard-0",
-        "claimed_at": "2026-11-13T16:54:58.386249+00:00",
-        "lease_expires_at": "2026-11-13T22:54:58.386249+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31016060",
       "prepared": {
@@ -147896,7 +147910,7 @@
       "last_plan": {
         "source_id": "34681406",
         "display_name": "Beauty in Trouble (Kráska v nesnázích) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:56:32.558704+00:00"
+        "planned_at": "2026-11-13T16:56:35.096627+00:00"
       }
     },
     "15892": {
@@ -199363,5 +199377,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:56:32.794361+00:00"
+  "updated_at": "2026-11-13T16:56:35.851347+00:00"
 }
