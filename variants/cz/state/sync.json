@@ -1049,6 +1049,12 @@
         "size_bytes": 6100000000,
         "prepared_at": "2026-10-28T04:52:11.852635+00:00",
         "relay_source_id": "33238710"
+      },
+      "claim": {
+        "worker_id": "405b81ab56c747fca69c98228afb6eda-shard-0",
+        "claimed_at": "2026-11-13T15:46:58.291256+00:00",
+        "lease_expires_at": "2026-11-13T21:46:58.291256+00:00",
+        "run_id": "43442116051"
       }
     },
     "54": {
@@ -109233,13 +109239,6 @@
           "source_id": "35072913",
           "target_video_id": "30983665",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:29:56.125549+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35072913",
-          "target_video_id": "30983665",
-          "permanent": false,
           "attempted_at": "2026-11-13T12:46:01.093243+00:00"
         },
         {
@@ -109248,6 +109247,13 @@
           "target_video_id": "30983665",
           "permanent": false,
           "attempted_at": "2026-11-13T14:01:48.074534+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35072913",
+          "target_video_id": "30983665",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:46:58.766658+00:00"
         }
       ],
       "last_plan": {
@@ -109261,12 +109267,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T14:30:14.467093+00:00",
         "relay_source_id": "35072913"
-      },
-      "claim": {
-        "worker_id": "95876cf7fcb64650a2140337186ed533-shard-0",
-        "claimed_at": "2026-11-13T15:46:55.289118+00:00",
-        "lease_expires_at": "2026-11-13T21:46:55.289118+00:00",
-        "run_id": "43442116051"
       }
     },
     "28861": {
@@ -109296,7 +109296,7 @@
       "last_plan": {
         "source_id": "24370736",
         "display_name": "Na druhý pohled 1080p CZ Dabing",
-        "planned_at": "2026-11-13T14:01:50.160684+00:00"
+        "planned_at": "2026-11-13T15:46:58.513691+00:00"
       },
       "previous_target_id": "30983666",
       "prepared": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:46:56.187786+00:00"
+        "planned_at": "2026-11-13T15:46:59.083253+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:46:56.187803+00:00"
+  "updated_at": "2026-11-13T15:46:59.083271+00:00"
 }
