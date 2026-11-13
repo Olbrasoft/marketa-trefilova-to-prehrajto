@@ -124293,13 +124293,6 @@
           "source_id": "34503356",
           "target_video_id": "30985739",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:11:40.181471+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34503356",
-          "target_video_id": "30985739",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:27:57.812426+00:00"
         },
         {
@@ -124308,12 +124301,19 @@
           "target_video_id": "30985739",
           "permanent": false,
           "attempted_at": "2026-11-13T16:10:46.052678+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34503356",
+          "target_video_id": "30985739",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:20:22.832576+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34503356",
         "display_name": "The Hot Rock 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:10:38.013398+00:00"
+        "planned_at": "2026-11-13T17:20:20.737502+00:00"
       },
       "previous_target_id": "30985739",
       "prepared": {
@@ -148123,11 +148123,22 @@
       "last_plan": {
         "source_id": "33850265",
         "display_name": "Dr. Quinn Medicine Woman: The Movie 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:20:11.878506+00:00"
+        "planned_at": "2026-11-13T17:20:21.037519+00:00"
+      },
+      "claim": {
+        "worker_id": "d7f45477c6934ebe91c5e271ccef9718-shard-0",
+        "claimed_at": "2026-11-13T17:20:21.776135+00:00",
+        "lease_expires_at": "2026-11-13T23:20:21.776135+00:00",
+        "run_id": "43442116051"
       }
     },
     "15877": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "32046879",
+        "display_name": "Fainéant.e.s (Fainéant.es) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T17:20:21.219311+00:00"
+      }
     },
     "16911": {
       "attempts": []
@@ -199536,5 +199547,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:20:14.259384+00:00"
+  "updated_at": "2026-11-13T17:20:22.832595+00:00"
 }
