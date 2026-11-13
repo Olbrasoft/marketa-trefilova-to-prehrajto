@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T22:35:56.959271+00:00
+Poslední aktualizace (UTC): 2026-11-13T22:35:58.456999+00:00
 
 Zkontrolováno videí: 714. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 138, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 139, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -88,6 +88,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 148. Důvo
 | [Chocolat (2016) SD CZ Titulky](https://prehraj.to/chocolat-2016-sd-cz-titulky-mkv/668ea0f6de46f2fd) (ID 30990768) | [Sdílej 6841848](https://sdilej.cz/6841848/chocolat-monsieur-chocolat-2016-titulky.cz-1080p.mkv) | target_unavailable | 2026-11-11T13:58:21.537398+00:00 |
 | [Clear and Present Danger 1080p CZ Titulky](https://prehraj.to/clear-and-present-danger-1080p-cz-titulky-mkv/4922b20cbda668d9) (ID 31006506) | [Sdílej 29946984](https://sdilej.cz/29946984/jasne-nebezpeci-1994-en-cs-pl-en-cs-pl-816p23.976-.mkv) | target_unavailable | 2026-11-12T22:01:37.628878+00:00 |
 | [Clueless 1080p CZ Titulky](https://prehraj.to/clueless-1080p-cz-titulky-mkv/90a29b56ae939edf) (ID 31003560) | [Sdílej 30783542](https://sdilej.cz/30783542/bezmocna-clueless-1995-en.cz.sk-bdrip-hevc-1080p.mkv) | target_unavailable | 2026-11-12T15:08:14.223418+00:00 |
+| [Clumsy (La Maladroite) 1080p CZ Titulky](https://prehraj.to/clumsy-la-maladroite-1080p-cz-titulky-mkv/84d8cb64cc0b5019) (ID 31020400) | [Sdílej 11963441](https://sdilej.cz/11963441/kidnapping.stella.2019.cz.sub.1080p.web-dl.ddp5.1.h264.mkv) | target_unavailable | 2026-11-13T22:35:58.323598+00:00 |
 | [Colonia (Colonia Dignidad – Es gibt kein Zurück) 1080p CZ Titulky](https://prehraj.to/colonia-colonia-dignidad-es-gibt-kein-zurueck-1080p-cz-titulky-mkv/86ea04feea99e611) (ID 30977898) | [Sdílej 34886157](https://sdilej.cz/34886157/colonia.2015.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-10T11:42:11.375214+00:00 |
 | [Conan the Barbarian (1982) 1080p CZ Titulky](https://prehraj.to/conan-the-barbarian-1982-1080p-cz-titulky-mkv/e587d1d606f14398) (ID 31005845) | [Sdílej 35402133](https://sdilej.cz/35402133/conan.the.barbarian.1982.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-12T20:41:22.573123+00:00 |
 | [Empties (Vratné lahve) 1080p CZ Titulky](https://prehraj.to/empties-vratne-lahve-1080p-cz-titulky-mkv/2fa38051e9b275cf) (ID 30938020) | [Sdílej 32453722](https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv) | target_unavailable | 2026-11-10T09:41:16.438716+00:00 |
