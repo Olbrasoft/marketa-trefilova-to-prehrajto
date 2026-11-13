@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T12:22:18.851804+00:00
+Poslední aktualizace (UTC): 2026-11-13T12:22:20.347403+00:00
 
 Zkontrolováno videí: 694. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 119, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 120, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -188,6 +188,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 128. Důvo
 | [Two Brothers 1080p CZ Titulky](https://prehraj.to/two-brothers-1080p-cz-titulky-mkv/6140579d9ab70609) (ID 30987615) | [Sdílej 10716193](https://sdilej.cz/10716193/sorry-to-bother-you-cz-titulky-fullhd-1080p.mkv) | target_unavailable | 2026-11-11T05:35:22.097030+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-10T09:50:00.921711+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-10T09:49:21.146936+00:00 |
+| [Welcome to the Rileys 1080p CZ Titulky](https://prehraj.to/welcome-to-the-rileys-1080p-cz-titulky-mkv/db70ad58153e767b) (ID 31012333) | [Sdílej 31162122](https://sdilej.cz/31162122/2010-welcome-to-the-rileys-svet-podla-mallory-mo-1080p-en-cztit.mkv) | target_unavailable | 2026-11-13T12:22:20.161759+00:00 |
 | [Western 1080p CZ Titulky](https://prehraj.to/western-1080p-cz-titulky-mkv/c495ad858b44d774) (ID 30996177) | [Sdílej 19486059](https://sdilej.cz/19486059/hostiles-2017-western-hd-cz-dab-lum.mkv) | target_unavailable | 2026-11-12T00:58:51.372099+00:00 |
 | [When Evil Lurks (Cuando acecha la maldad) 1080p CZ Titulky](https://prehraj.to/when-evil-lurks-cuando-acecha-la-maldad-1080p-cz-titulky-mkv/ed964c363b3daa75) (ID 31007827) | [Sdílej 27144377](https://sdilej.cz/27144377/when-evil-lurks-webrip-es-titulky-cz-2023.mkv) | target_unavailable | 2026-11-13T01:22:49.208781+00:00 |
 | [Wonka 4K CZ Titulky](https://prehraj.to/wonka-4k-cz-titulky-mkv/c950b0351472ba1b) (ID 31005086) | [Sdílej 27822278](https://sdilej.cz/27822278/wonka-2023-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-12T19:08:32.956002+00:00 |
