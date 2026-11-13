@@ -128083,13 +128083,6 @@
           "source_id": "33885910",
           "target_video_id": "30986630",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:18:00.556992+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33885910",
-          "target_video_id": "30986630",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:18:15.981964+00:00"
         },
         {
@@ -128098,6 +128091,13 @@
           "target_video_id": "30986630",
           "permanent": false,
           "attempted_at": "2026-11-13T02:29:08.912010+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33885910",
+          "target_video_id": "30986630",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:41:54.806172+00:00"
         }
       ],
       "last_plan": {
@@ -128111,12 +128111,6 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-11-11T01:15:13.819260+00:00",
         "relay_source_id": "33885910"
-      },
-      "claim": {
-        "worker_id": "79cb7be19c7f454995d54790686214f5-shard-0",
-        "claimed_at": "2026-11-13T03:41:51.811920+00:00",
-        "lease_expires_at": "2026-11-13T09:41:51.811920+00:00",
-        "run_id": "43339109036"
       }
     },
     "30897": {
@@ -141836,7 +141830,7 @@
       "last_plan": {
         "source_id": "27874374",
         "display_name": "Together (Spolu) (2022) 4K CZ Dabing",
-        "planned_at": "2026-11-13T02:29:10.377357+00:00"
+        "planned_at": "2026-11-13T03:41:54.118930+00:00"
       },
       "previous_target_id": "30988406",
       "prepared": {
@@ -141844,6 +141838,12 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-11-11T08:20:53.674997+00:00",
         "relay_source_id": "27874374"
+      },
+      "claim": {
+        "worker_id": "5929c8d9d971473aa38399abe37e37e5-shard-0",
+        "claimed_at": "2026-11-13T03:41:54.925567+00:00",
+        "lease_expires_at": "2026-11-13T09:41:54.925567+00:00",
+        "run_id": "43339109036"
       }
     },
     "33115": {
@@ -147393,7 +147393,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:41:51.549831+00:00"
+        "planned_at": "2026-11-13T03:41:54.327924+00:00"
       }
     },
     "12316": {
@@ -198925,5 +198925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:41:52.677230+00:00"
+  "updated_at": "2026-11-13T03:41:54.925601+00:00"
 }
