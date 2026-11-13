@@ -17415,13 +17415,6 @@
           "source_id": "6078224",
           "target_video_id": "30669521",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:37:50.735525+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6078224",
-          "target_video_id": "30669521",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:52:42.781789+00:00"
         },
         {
@@ -17430,12 +17423,19 @@
           "target_video_id": "30669521",
           "permanent": false,
           "attempted_at": "2026-11-13T04:54:48.557633+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6078224",
+          "target_video_id": "30669521",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:28:06.564123+00:00"
         }
       ],
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-13T04:54:46.455911+00:00"
+        "planned_at": "2026-11-13T06:28:04.024797+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -147650,11 +147650,22 @@
       "last_plan": {
         "source_id": "14419594",
         "display_name": "Polumgla (Полумгла) SD CZ Dabing",
-        "planned_at": "2026-11-13T06:27:58.750542+00:00"
+        "planned_at": "2026-11-13T06:28:04.296502+00:00"
+      },
+      "claim": {
+        "worker_id": "ef89c87c190346019d30ceb59263ff2a-shard-0",
+        "claimed_at": "2026-11-13T06:28:04.808167+00:00",
+        "lease_expires_at": "2026-11-13T12:28:04.808167+00:00",
+        "run_id": "43371605577"
       }
     },
     "24767": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27663431",
+        "display_name": "Královský slib 1080p CZ Dabing",
+        "planned_at": "2026-11-13T06:28:04.474020+00:00"
+      }
     },
     "19216": {
       "attempts": []
@@ -199147,5 +199158,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:28:01.642046+00:00"
+  "updated_at": "2026-11-13T06:28:06.564143+00:00"
 }
