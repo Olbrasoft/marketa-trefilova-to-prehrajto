@@ -139948,13 +139948,6 @@
           "source_id": "32093549",
           "target_video_id": "30988051",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:15:27.408078+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32093549",
-          "target_video_id": "30988051",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:16:31.617934+00:00"
         },
         {
@@ -139963,6 +139956,13 @@
           "target_video_id": "30988051",
           "permanent": false,
           "attempted_at": "2026-11-13T02:27:27.955123+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32093549",
+          "target_video_id": "30988051",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:40:40.047826+00:00"
         }
       ],
       "last_plan": {
@@ -143674,7 +143674,7 @@
       "last_plan": {
         "source_id": "34779576",
         "display_name": "Deligh (Delight) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:27:30.964290+00:00"
+        "planned_at": "2026-11-13T03:40:38.613245+00:00"
       },
       "previous_target_id": "30988692",
       "prepared": {
@@ -143682,6 +143682,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-11T09:25:18.940524+00:00",
         "relay_source_id": "34779576"
+      },
+      "claim": {
+        "worker_id": "6cd056bece1947c786a74c2bdc061080-shard-0",
+        "claimed_at": "2026-11-13T03:40:39.253707+00:00",
+        "lease_expires_at": "2026-11-13T09:40:39.253707+00:00",
+        "run_id": "43339109036"
       }
     },
     "31837": {
@@ -147387,7 +147393,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:40:36.870647+00:00"
+        "planned_at": "2026-11-13T03:40:38.822447+00:00"
       }
     },
     "12316": {
@@ -198919,5 +198925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:40:36.870666+00:00"
+  "updated_at": "2026-11-13T03:40:40.047848+00:00"
 }
