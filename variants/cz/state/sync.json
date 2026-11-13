@@ -110530,13 +110530,6 @@
           "source_id": "34661767",
           "target_video_id": "30983751",
           "permanent": false,
-          "attempted_at": "2026-11-13T03:16:44.900546+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34661767",
-          "target_video_id": "30983751",
-          "permanent": false,
           "attempted_at": "2026-11-13T04:21:55.781605+00:00"
         },
         {
@@ -110545,12 +110538,19 @@
           "target_video_id": "30983751",
           "permanent": false,
           "attempted_at": "2026-11-13T05:52:44.491365+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34661767",
+          "target_video_id": "30983751",
+          "permanent": false,
+          "attempted_at": "2026-11-13T07:12:25.328626+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34661767",
         "display_name": "Preludium 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:52:40.985187+00:00"
+        "planned_at": "2026-11-13T07:12:22.804001+00:00"
       },
       "previous_target_id": "30983751",
       "prepared": {
@@ -139377,6 +139377,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T07:01:26.061668+00:00",
         "relay_source_id": "34713910"
+      },
+      "claim": {
+        "worker_id": "350d3dda3471408fb9abd396136cff9f-shard-0",
+        "claimed_at": "2026-11-13T07:12:22.575232+00:00",
+        "lease_expires_at": "2026-11-13T13:12:22.575232+00:00",
+        "run_id": "43371605577"
       }
     },
     "33296": {
@@ -147693,7 +147699,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T07:12:20.490211+00:00"
+        "planned_at": "2026-11-13T07:12:23.096557+00:00"
       }
     },
     "19216": {
@@ -199192,5 +199198,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:12:20.490230+00:00"
+  "updated_at": "2026-11-13T07:12:25.328645+00:00"
 }
