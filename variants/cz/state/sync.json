@@ -111186,6 +111186,12 @@
         "size_bytes": 807200000,
         "prepared_at": "2026-11-10T14:49:12.511698+00:00",
         "relay_source_id": "28004879"
+      },
+      "claim": {
+        "worker_id": "116ed7f7c8fa49acbb662ef614ce1a01-shard-0",
+        "claimed_at": "2026-11-13T11:01:32.407797+00:00",
+        "lease_expires_at": "2026-11-13T17:01:32.407797+00:00",
+        "run_id": "43408558477"
       }
     },
     "13136": {
@@ -111218,7 +111224,7 @@
       "last_plan": {
         "source_id": "26697838",
         "display_name": "Smích se lepí na paty 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:36:47.821971+00:00"
+        "planned_at": "2026-11-13T11:01:32.652586+00:00"
       },
       "previous_target_id": "30983795",
       "prepared": {
@@ -113251,13 +113257,6 @@
           "source_id": "34357641",
           "target_video_id": "30984036",
           "permanent": false,
-          "attempted_at": "2026-11-13T05:57:27.536427+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357641",
-          "target_video_id": "30984036",
-          "permanent": false,
           "attempted_at": "2026-11-13T07:18:03.219518+00:00"
         },
         {
@@ -113266,6 +113265,13 @@
           "target_video_id": "30984036",
           "permanent": false,
           "attempted_at": "2026-11-13T08:36:41.621142+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357641",
+          "target_video_id": "30984036",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:01:31.807601+00:00"
         }
       ],
       "last_plan": {
@@ -113279,12 +113285,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:18:28.360690+00:00",
         "relay_source_id": "34357641"
-      },
-      "claim": {
-        "worker_id": "419656f26ed94a76832ee06bce5bd9f6-shard-0",
-        "claimed_at": "2026-11-13T11:01:28.666463+00:00",
-        "lease_expires_at": "2026-11-13T17:01:28.666463+00:00",
-        "run_id": "43408558477"
       }
     },
     "2991": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T11:01:29.252817+00:00"
+        "planned_at": "2026-11-13T11:01:33.277154+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:01:29.252834+00:00"
+  "updated_at": "2026-11-13T11:01:33.277176+00:00"
 }
