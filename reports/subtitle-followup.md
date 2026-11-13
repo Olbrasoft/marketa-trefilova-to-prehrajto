@@ -710,3 +710,4 @@ Attach subtitles only after target processing has finished.
 | 12 Mighty Orphans 1080p CZ Titulky | 31015540 | https://sdilej.cz/24553606/12-nezdolnych-sirotku-webrip-en-tit-cz-2021.mkv | Extract Czech track from exact source after processing |
 | Godzilla vs. Destoroyah (ゴジラvsデストロイア) 1080p CZ Titulky | 31017298 | https://sdilej.cz/35320512/godzilla-vs-destroyah-r.1995.1080p-jap-engdab-cz-engtit-.mkv | Extract Czech track from exact source after processing |
 | The Fourth Phase 1080p CZ Titulky | 31017820 | https://sdilej.cz/6841800/ctvrta-faze-the-fourth-phase-2016-titulky.cz-1080p.mkv | Extract Czech track from exact source after processing |
+| Inside the Mind of a Cat 720p CZ Titulky | 31018003 | https://sdilej.cz/22592958/inside.the.mind.of.a.cat.2022.720p.nf.web-dl.ddp5.1.h.264-smurf-cz-titulky.mkv | Extract Czech track from exact source after processing |
