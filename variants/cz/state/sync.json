@@ -123601,13 +123601,6 @@
           "source_id": "16256834",
           "target_video_id": "30985618",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:27:33.370520+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16256834",
-          "target_video_id": "30985618",
-          "permanent": false,
           "attempted_at": "2026-11-13T12:43:33.952989+00:00"
         },
         {
@@ -123616,6 +123609,13 @@
           "target_video_id": "30985618",
           "permanent": false,
           "attempted_at": "2026-11-13T13:59:16.227135+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16256834",
+          "target_video_id": "30985618",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:44:42.608038+00:00"
         }
       ],
       "last_plan": {
@@ -130353,7 +130353,7 @@
       "last_plan": {
         "source_id": "27361344",
         "display_name": "The Very Late Afternoon of a Faun (Faunovo velmi pozdní odpoledne) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T13:59:15.576419+00:00"
+        "planned_at": "2026-11-13T15:44:41.207953+00:00"
       },
       "previous_target_id": "30986908",
       "prepared": {
@@ -130361,6 +130361,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-11T02:38:37.729548+00:00",
         "relay_source_id": "27361344"
+      },
+      "claim": {
+        "worker_id": "e3f0bc0caf12486d928056331e03fef8-shard-0",
+        "claimed_at": "2026-11-13T15:44:41.991143+00:00",
+        "lease_expires_at": "2026-11-13T21:44:41.991143+00:00",
+        "run_id": "43442116051"
       }
     },
     "2834": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:44:37.201636+00:00"
+        "planned_at": "2026-11-13T15:44:41.513990+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:44:37.645789+00:00"
+  "updated_at": "2026-11-13T15:44:42.608057+00:00"
 }
