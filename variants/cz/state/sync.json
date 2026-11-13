@@ -118379,13 +118379,6 @@
           "source_id": "25787561",
           "target_video_id": "30984861",
           "permanent": false,
-          "attempted_at": "2026-11-13T06:00:14.791938+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25787561",
-          "target_video_id": "30984861",
-          "permanent": false,
           "attempted_at": "2026-11-13T07:20:20.982540+00:00"
         },
         {
@@ -118394,6 +118387,13 @@
           "target_video_id": "30984861",
           "permanent": false,
           "attempted_at": "2026-11-13T08:44:11.650955+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25787561",
+          "target_video_id": "30984861",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:06:17.940813+00:00"
         }
       ],
       "last_plan": {
@@ -118407,12 +118407,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:25.250689+00:00",
         "relay_source_id": "25787561"
-      },
-      "claim": {
-        "worker_id": "3dd1c52d6c844b3ea015c2f904362fff-shard-0",
-        "claimed_at": "2026-11-13T11:06:15.117794+00:00",
-        "lease_expires_at": "2026-11-13T17:06:15.117794+00:00",
-        "run_id": "43408558477"
       }
     },
     "11749": {
@@ -118450,6 +118444,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:57:35.530517+00:00",
         "relay_source_id": "33647002"
+      },
+      "claim": {
+        "worker_id": "6d66f707655e47af8d2cbece3acf7d9d-shard-0",
+        "claimed_at": "2026-11-13T11:06:19.027635+00:00",
+        "lease_expires_at": "2026-11-13T17:06:19.027635+00:00",
+        "run_id": "43408558477"
       }
     },
     "17739": {
@@ -131868,7 +131868,7 @@
       "last_plan": {
         "source_id": "34676090",
         "display_name": "The House in the Suburbs (Dům na předměstí) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:44:19.613111+00:00"
+        "planned_at": "2026-11-13T11:06:19.800428+00:00"
       },
       "previous_target_id": "30987054",
       "prepared": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T11:06:15.718506+00:00"
+        "planned_at": "2026-11-13T11:06:20.150100+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:06:15.718525+00:00"
+  "updated_at": "2026-11-13T11:06:20.150117+00:00"
 }
