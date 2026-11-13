@@ -120778,13 +120778,6 @@
           "source_id": "23806861",
           "target_video_id": "30985032",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:36:24.796119+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23806861",
-          "target_video_id": "30985032",
-          "permanent": false,
           "attempted_at": "2026-11-13T16:45:35.680152+00:00"
         },
         {
@@ -120793,12 +120786,19 @@
           "target_video_id": "30985032",
           "permanent": false,
           "attempted_at": "2026-11-13T17:52:31.779262+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23806861",
+          "target_video_id": "30985032",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:23:35.597113+00:00"
         }
       ],
       "last_plan": {
         "source_id": "23806861",
         "display_name": "Athena 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:52:28.258553+00:00"
+        "planned_at": "2026-11-13T19:23:33.428508+00:00"
       },
       "previous_target_id": "30985032",
       "prepared": {
@@ -148493,7 +148493,13 @@
       "last_plan": {
         "source_id": "35066552",
         "display_name": "Anička s lískovými oříšky SD CZ Dabing",
-        "planned_at": "2026-11-13T19:23:27.099648+00:00"
+        "planned_at": "2026-11-13T19:23:33.651919+00:00"
+      },
+      "claim": {
+        "worker_id": "9de7a975ebdf43798ebc52e5d514e938-shard-0",
+        "claimed_at": "2026-11-13T19:23:34.331850+00:00",
+        "lease_expires_at": "2026-11-14T01:23:34.331850+00:00",
+        "run_id": "43482054430"
       }
     },
     "25861": {
@@ -148510,14 +148516,25 @@
       "last_plan": {
         "source_id": "14502919",
         "display_name": "Nobadi SD CZ Dabing",
-        "planned_at": "2026-11-13T19:14:53.802274+00:00"
+        "planned_at": "2026-11-13T19:23:33.788973+00:00"
+      },
+      "claim": {
+        "worker_id": "9c303f44d959408aada5bce8c59da483-shard-0",
+        "claimed_at": "2026-11-13T19:23:34.466962+00:00",
+        "lease_expires_at": "2026-11-14T01:23:34.466962+00:00",
+        "run_id": "43482054430"
       }
     },
     "11927": {
       "attempts": []
     },
     "3812": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11315962",
+        "display_name": "Toman 1080p CZ Dabing",
+        "planned_at": "2026-11-13T19:23:33.926233+00:00"
+      }
     },
     "14496": {
       "attempts": []
@@ -199872,5 +199889,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:23:31.450242+00:00"
+  "updated_at": "2026-11-13T19:23:35.597127+00:00"
 }
