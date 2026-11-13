@@ -118416,13 +118416,6 @@
           "source_id": "33647002",
           "target_video_id": "30984863",
           "permanent": false,
-          "attempted_at": "2026-11-13T12:18:38.826590+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33647002",
-          "target_video_id": "30984863",
-          "permanent": false,
           "attempted_at": "2026-11-13T13:37:23.268612+00:00"
         },
         {
@@ -118431,6 +118424,13 @@
           "target_video_id": "30984863",
           "permanent": false,
           "attempted_at": "2026-11-13T15:20:44.485427+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33647002",
+          "target_video_id": "30984863",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:30:59.345941+00:00"
         }
       ],
       "last_plan": {
@@ -131862,7 +131862,7 @@
       "last_plan": {
         "source_id": "34676090",
         "display_name": "The House in the Suburbs (Dům na předměstí) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:20:44.126893+00:00"
+        "planned_at": "2026-11-13T16:30:58.131326+00:00"
       },
       "previous_target_id": "30987054",
       "prepared": {
@@ -131870,6 +131870,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T03:30:58.282506+00:00",
         "relay_source_id": "34676090"
+      },
+      "claim": {
+        "worker_id": "151f154ddca24f25afa84850c15fa0c3-shard-0",
+        "claimed_at": "2026-11-13T16:30:58.864070+00:00",
+        "lease_expires_at": "2026-11-13T22:30:58.864070+00:00",
+        "run_id": "43442116051"
       }
     },
     "24051": {
@@ -147827,7 +147833,7 @@
       "last_plan": {
         "source_id": "22887534",
         "display_name": "Quiet Freedom (Ein großes Versprechen) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:30:55.463396+00:00"
+        "planned_at": "2026-11-13T16:30:58.421563+00:00"
       }
     },
     "13260": {
@@ -199303,5 +199309,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:30:55.463414+00:00"
+  "updated_at": "2026-11-13T16:30:59.345960+00:00"
 }
