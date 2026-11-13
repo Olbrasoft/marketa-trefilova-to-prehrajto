@@ -109270,13 +109270,6 @@
           "source_id": "24370736",
           "target_video_id": "30983666",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:35:01.410984+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24370736",
-          "target_video_id": "30983666",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:40:23.753705+00:00"
         },
         {
@@ -109285,6 +109278,13 @@
           "target_video_id": "30983666",
           "permanent": false,
           "attempted_at": "2026-11-13T21:49:32.143857+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24370736",
+          "target_video_id": "30983666",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:49:45.846569+00:00"
         }
       ],
       "last_plan": {
@@ -109298,12 +109298,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:30:29.974007+00:00",
         "relay_source_id": "24370736"
-      },
-      "claim": {
-        "worker_id": "85fc70eb72b14faaabbb50f5498bd296-shard-0",
-        "claimed_at": "2026-11-13T22:49:43.121795+00:00",
-        "lease_expires_at": "2026-11-14T04:49:43.121795+00:00",
-        "run_id": "43482054430"
       }
     },
     "24062": {
@@ -112215,7 +112209,7 @@
       "last_plan": {
         "source_id": "34705144",
         "display_name": "Private Torment (Windstorm) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:49:32.308693+00:00"
+        "planned_at": "2026-11-13T22:49:45.328542+00:00"
       },
       "previous_target_id": "30983853",
       "prepared": {
@@ -112223,6 +112217,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T14:59:53.270734+00:00",
         "relay_source_id": "34705144"
+      },
+      "claim": {
+        "worker_id": "3a1c90a995354c68aab4bc7eface8d8a-shard-0",
+        "claimed_at": "2026-11-13T22:49:45.989189+00:00",
+        "lease_expires_at": "2026-11-14T04:49:45.989189+00:00",
+        "run_id": "43482054430"
       }
     },
     "15232": {
@@ -149652,7 +149652,7 @@
       "last_plan": {
         "source_id": "34794294",
         "display_name": "The Luminous Life 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:49:42.846857+00:00"
+        "planned_at": "2026-11-13T22:49:45.576166+00:00"
       }
     },
     "5764": {
@@ -200815,5 +200815,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:49:43.575869+00:00"
+  "updated_at": "2026-11-13T22:49:45.989211+00:00"
 }
