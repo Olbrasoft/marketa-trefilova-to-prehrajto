@@ -39860,17 +39860,19 @@
       }
     },
     "19611": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19554491",
+          "target_video_id": "31014467",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:46:35.236860+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19554491",
         "display_name": "The Stronghold (BAC Nord) (2021) 1080p CZ Titulky",
         "planned_at": "2026-11-13T15:43:55.997555+00:00"
-      },
-      "claim": {
-        "worker_id": "bd1df12cda4b4b0681b3485d8638a765-shard-0",
-        "claimed_at": "2026-11-13T15:43:57.950878+00:00",
-        "lease_expires_at": "2026-11-13T21:43:57.950878+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31014467",
       "prepared": {
@@ -39936,7 +39938,7 @@
       "last_plan": {
         "source_id": "34972763",
         "display_name": "C'est la vie! (Le Sens de la fête) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T15:46:31.689430+00:00"
+        "planned_at": "2026-11-13T15:46:35.122860+00:00"
       }
     },
     "23920": {
@@ -99119,5 +99121,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:46:31.689446+00:00"
+  "updated_at": "2026-11-13T15:46:35.236878+00:00"
 }
