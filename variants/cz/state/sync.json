@@ -113362,13 +113362,6 @@
           "source_id": "33199372",
           "target_video_id": "30984053",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:28:57.678860+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33199372",
-          "target_video_id": "30984053",
-          "permanent": false,
           "attempted_at": "2026-11-13T02:14:28.787986+00:00"
         },
         {
@@ -113377,6 +113370,13 @@
           "target_video_id": "30984053",
           "permanent": false,
           "attempted_at": "2026-11-13T03:29:35.539453+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33199372",
+          "target_video_id": "30984053",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:30:58.276985+00:00"
         }
       ],
       "last_plan": {
@@ -127321,7 +127321,7 @@
       "last_plan": {
         "source_id": "26168894",
         "display_name": "Victim/Suspect 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:29:36.991169+00:00"
+        "planned_at": "2026-11-13T04:30:57.138561+00:00"
       },
       "previous_target_id": "30986421",
       "prepared": {
@@ -127329,6 +127329,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T00:25:57.856645+00:00",
         "relay_source_id": "26168894"
+      },
+      "claim": {
+        "worker_id": "79bad01b5d02427695e92d7e9c3ab57c-shard-0",
+        "claimed_at": "2026-11-13T04:30:57.723615+00:00",
+        "lease_expires_at": "2026-11-13T10:30:57.723615+00:00",
+        "run_id": "43339109036"
       }
     },
     "16562": {
@@ -147451,7 +147457,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:30:55.159880+00:00"
+        "planned_at": "2026-11-13T04:30:57.382195+00:00"
       }
     },
     "11319": {
@@ -198980,5 +198986,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:30:55.159903+00:00"
+  "updated_at": "2026-11-13T04:30:58.277007+00:00"
 }
