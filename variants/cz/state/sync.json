@@ -147753,17 +147753,19 @@
       "attempts": []
     },
     "14680": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31795189",
+          "target_video_id": "31015271",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:27:01.986010+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31795189",
         "display_name": "Julia(s) (Le Tourbillon de la vie) 1080p CZ Dabing",
         "planned_at": "2026-11-13T16:20:56.802475+00:00"
-      },
-      "claim": {
-        "worker_id": "7c54242e692843f4bbe06985b9b05c82-shard-0",
-        "claimed_at": "2026-11-13T16:20:57.763513+00:00",
-        "lease_expires_at": "2026-11-13T22:20:57.763513+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31015271",
       "prepared": {
@@ -199283,5 +199285,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:26:55.993106+00:00"
+  "updated_at": "2026-11-13T16:27:01.986032+00:00"
 }
