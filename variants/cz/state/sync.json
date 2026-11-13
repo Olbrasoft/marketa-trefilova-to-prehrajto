@@ -117611,13 +117611,6 @@
           "source_id": "33733528",
           "target_video_id": "30984809",
           "permanent": false,
-          "attempted_at": "2026-11-13T04:02:06.201788+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33733528",
-          "target_video_id": "30984809",
-          "permanent": false,
           "attempted_at": "2026-11-13T05:05:48.275456+00:00"
         },
         {
@@ -117626,6 +117619,13 @@
           "target_video_id": "30984809",
           "permanent": false,
           "attempted_at": "2026-11-13T06:46:56.185849+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33733528",
+          "target_video_id": "30984809",
+          "permanent": false,
+          "attempted_at": "2026-11-13T08:03:36.287170+00:00"
         }
       ],
       "last_plan": {
@@ -134991,7 +134991,7 @@
       "last_plan": {
         "source_id": "33443922",
         "display_name": "Voda co ma drzí nad vodou (Voda čo ma drží nad vodou) 720p CZ Dabing",
-        "planned_at": "2026-11-13T06:46:55.328008+00:00"
+        "planned_at": "2026-11-13T08:03:34.925845+00:00"
       },
       "previous_target_id": "30987547",
       "prepared": {
@@ -134999,6 +134999,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T05:10:23.147426+00:00",
         "relay_source_id": "33443922"
+      },
+      "claim": {
+        "worker_id": "e3d9eb288c44401e82c8fe313536cee1-shard-0",
+        "claimed_at": "2026-11-13T08:03:35.735167+00:00",
+        "lease_expires_at": "2026-11-13T14:03:35.735167+00:00",
+        "run_id": "43371605577"
       }
     },
     "12482": {
@@ -147718,7 +147724,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:03:32.105252+00:00"
+        "planned_at": "2026-11-13T08:03:35.334656+00:00"
       }
     },
     "19216": {
@@ -199217,5 +199223,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T08:03:32.105270+00:00"
+  "updated_at": "2026-11-13T08:03:36.287191+00:00"
 }
