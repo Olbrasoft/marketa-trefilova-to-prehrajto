@@ -138887,13 +138887,6 @@
           "source_id": "34898047",
           "target_video_id": "30987922",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:06:03.491366+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34898047",
-          "target_video_id": "30987922",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:22:41.356815+00:00"
         },
         {
@@ -138902,6 +138895,13 @@
           "target_video_id": "30987922",
           "permanent": false,
           "attempted_at": "2026-11-13T16:02:58.978607+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34898047",
+          "target_video_id": "30987922",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:15:38.556570+00:00"
         }
       ],
       "last_plan": {
@@ -142603,7 +142603,7 @@
       "last_plan": {
         "source_id": "29645616",
         "display_name": "Broken Promise 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:03:01.205279+00:00"
+        "planned_at": "2026-11-13T17:15:37.208703+00:00"
       },
       "previous_target_id": "30988560",
       "prepared": {
@@ -142611,6 +142611,12 @@
         "size_bytes": 15100000000,
         "prepared_at": "2026-11-11T08:43:22.098273+00:00",
         "relay_source_id": "29645616"
+      },
+      "claim": {
+        "worker_id": "57b723c4e3764f05b19017b6f561d2b1-shard-0",
+        "claimed_at": "2026-11-13T17:15:37.930738+00:00",
+        "lease_expires_at": "2026-11-13T23:15:37.930738+00:00",
+        "run_id": "43442116051"
       }
     },
     "36843": {
@@ -148081,7 +148087,7 @@
       "last_plan": {
         "source_id": "34661179",
         "display_name": "Dubček (Dubček – Krátka jar, dlhá zima) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:15:34.854055+00:00"
+        "planned_at": "2026-11-13T17:15:37.522897+00:00"
       }
     },
     "35265": {
@@ -199503,5 +199509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:15:35.105475+00:00"
+  "updated_at": "2026-11-13T17:15:38.556691+00:00"
 }
