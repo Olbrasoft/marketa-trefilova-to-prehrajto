@@ -34377,13 +34377,6 @@
           "source_id": "35468703",
           "target_video_id": "30986211",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:07:03.167699+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35468703",
-          "target_video_id": "30986211",
-          "permanent": false,
           "attempted_at": "2026-11-13T18:37:20.276776+00:00"
         },
         {
@@ -34392,6 +34385,13 @@
           "target_video_id": "30986211",
           "permanent": false,
           "attempted_at": "2026-11-13T19:17:08.932993+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35468703",
+          "target_video_id": "30986211",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:47:15.713767+00:00"
         }
       ],
       "last_plan": {
@@ -34567,7 +34567,7 @@
       "last_plan": {
         "source_id": "6556256",
         "display_name": "Sanctuary (Freistatt) 720p CZ Titulky",
-        "planned_at": "2026-11-13T19:17:07.935989+00:00"
+        "planned_at": "2026-11-13T19:47:14.742935+00:00"
       },
       "previous_target_id": "30986677",
       "prepared": {
@@ -34575,6 +34575,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T01:31:10.412995+00:00",
         "relay_source_id": "6556256"
+      },
+      "claim": {
+        "worker_id": "f9f89b202aab4beaa7665ba8cdde480a-shard-0",
+        "claimed_at": "2026-11-13T19:47:14.930246+00:00",
+        "lease_expires_at": "2026-11-14T01:47:14.930246+00:00",
+        "run_id": "43482054430"
       }
     },
     "31021": {
@@ -40572,7 +40578,7 @@
       "last_plan": {
         "source_id": "24337653",
         "display_name": "The Charterhouse of Parma (La Chartreuse de Parme) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T19:47:12.496672+00:00"
+        "planned_at": "2026-11-13T19:47:14.877136+00:00"
       }
     },
     "32419": {
@@ -99425,5 +99431,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:47:12.496692+00:00"
+  "updated_at": "2026-11-13T19:47:15.713781+00:00"
 }
