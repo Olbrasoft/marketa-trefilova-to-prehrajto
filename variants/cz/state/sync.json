@@ -112075,13 +112075,6 @@
           "source_id": "34877929",
           "target_video_id": "30983846",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:44:37.645764+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34877929",
-          "target_video_id": "30983846",
-          "permanent": false,
           "attempted_at": "2026-11-13T16:53:35.259434+00:00"
         },
         {
@@ -112090,12 +112083,19 @@
           "target_video_id": "30983846",
           "permanent": false,
           "attempted_at": "2026-11-13T18:00:09.839066+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34877929",
+          "target_video_id": "30983846",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:32:04.080465+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34877929",
         "display_name": "The Last Rose from Casanova (Poslední růže od Casanovy) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:00:02.723949+00:00"
+        "planned_at": "2026-11-13T19:32:01.509623+00:00"
       },
       "previous_target_id": "30983846",
       "prepared": {
@@ -148575,11 +148575,22 @@
       "last_plan": {
         "source_id": "19259934",
         "display_name": "Princess Jasnenka and the Flying Shoemaker (O princezně Jasněnce a létajícím ševci) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:31:56.712336+00:00"
+        "planned_at": "2026-11-13T19:32:01.721050+00:00"
+      },
+      "claim": {
+        "worker_id": "eec4de5528074698abd304f54c26ab88-shard-0",
+        "claimed_at": "2026-11-13T19:32:02.238250+00:00",
+        "lease_expires_at": "2026-11-14T01:32:02.238250+00:00",
+        "run_id": "43482054430"
       }
     },
     "14949": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "15015886",
+        "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
+        "planned_at": "2026-11-13T19:32:01.846956+00:00"
+      }
     },
     "28902": {
       "attempts": []
@@ -199925,5 +199936,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:31:58.377543+00:00"
+  "updated_at": "2026-11-13T19:32:04.080484+00:00"
 }
