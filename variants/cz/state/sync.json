@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:15:48.595527+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:25:55.050193+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-13T18:43:25.938856+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:06:11.264480+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "7cedc31e01e54a7daaf2f312676b98ff-shard-0",
-        "claimed_at": "2026-11-13T20:06:08.145516+00:00",
-        "lease_expires_at": "2026-11-14T02:06:08.145516+00:00",
-        "run_id": "43482054430"
       }
     },
     "9": {
@@ -139221,7 +139215,7 @@
       "last_plan": {
         "source_id": "34694137",
         "display_name": "Zitterinchen 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:43:24.247126+00:00"
+        "planned_at": "2026-11-13T20:06:10.371805+00:00"
       },
       "previous_target_id": "30987944",
       "prepared": {
@@ -139229,6 +139223,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:57:07.004222+00:00",
         "relay_source_id": "34694137"
+      },
+      "claim": {
+        "worker_id": "01b7f1c27927454cad94d81d94fb0649-shard-0",
+        "claimed_at": "2026-11-13T20:06:10.901615+00:00",
+        "lease_expires_at": "2026-11-14T02:06:10.901615+00:00",
+        "run_id": "43482054430"
       }
     },
     "15387": {
@@ -148664,7 +148664,7 @@
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
-        "planned_at": "2026-11-13T20:06:07.858126+00:00"
+        "planned_at": "2026-11-13T20:06:10.587694+00:00"
       }
     },
     "28902": {
@@ -200016,5 +200016,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:06:08.596188+00:00"
+  "updated_at": "2026-11-13T20:06:11.264502+00:00"
 }
