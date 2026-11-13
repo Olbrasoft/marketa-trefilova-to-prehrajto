@@ -111392,13 +111392,6 @@
           "source_id": "34952768",
           "target_video_id": "30983806",
           "permanent": false,
-          "attempted_at": "2026-11-13T03:29:46.694786+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34952768",
-          "target_video_id": "30983806",
-          "permanent": false,
           "attempted_at": "2026-11-13T04:31:07.853784+00:00"
         },
         {
@@ -111407,6 +111400,13 @@
           "target_video_id": "30983806",
           "permanent": false,
           "attempted_at": "2026-11-13T06:05:13.235048+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34952768",
+          "target_video_id": "30983806",
+          "permanent": false,
+          "attempted_at": "2026-11-13T07:24:27.909952+00:00"
         }
       ],
       "last_plan": {
@@ -116912,7 +116912,7 @@
       "last_plan": {
         "source_id": "33853425",
         "display_name": "Crime 101 4K CZ Dabing",
-        "planned_at": "2026-11-13T06:05:16.377852+00:00"
+        "planned_at": "2026-11-13T07:24:26.169153+00:00"
       },
       "previous_target_id": "30984743",
       "prepared": {
@@ -116920,6 +116920,12 @@
         "size_bytes": 6600000000,
         "prepared_at": "2026-11-10T17:30:54.981439+00:00",
         "relay_source_id": "33853425"
+      },
+      "claim": {
+        "worker_id": "7dc8152a09c440f1bcb149cb127f41f1-shard-0",
+        "claimed_at": "2026-11-13T07:24:27.061064+00:00",
+        "lease_expires_at": "2026-11-13T13:24:27.061064+00:00",
+        "run_id": "43371605577"
       }
     },
     "11798": {
@@ -147700,7 +147706,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T07:24:21.701287+00:00"
+        "planned_at": "2026-11-13T07:24:26.449143+00:00"
       }
     },
     "19216": {
@@ -199199,5 +199205,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:24:21.926253+00:00"
+  "updated_at": "2026-11-13T07:24:27.909972+00:00"
 }
