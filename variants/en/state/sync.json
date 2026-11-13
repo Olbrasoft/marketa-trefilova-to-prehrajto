@@ -38272,17 +38272,19 @@
       }
     },
     "11417": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35125536",
+          "target_video_id": "31007032",
+          "permanent": false,
+          "attempted_at": "2026-11-13T00:23:45.189106+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35125536",
         "display_name": "48 Hrs. 4K CZ Titulky",
         "planned_at": "2026-11-12T23:13:31.041473+00:00"
-      },
-      "claim": {
-        "worker_id": "498414fc78db47fca1127d8e9f03c438-shard-0",
-        "claimed_at": "2026-11-12T23:13:31.393150+00:00",
-        "lease_expires_at": "2026-11-13T05:13:31.393150+00:00",
-        "run_id": "43299526401"
       },
       "previous_target_id": "31007032",
       "prepared": {
@@ -38432,7 +38434,7 @@
       "last_plan": {
         "source_id": "32702296",
         "display_name": "Eternity 1080p CZ Titulky",
-        "planned_at": "2026-11-13T00:23:41.025597+00:00"
+        "planned_at": "2026-11-13T00:23:44.795117+00:00"
       }
     },
     "12204": {
@@ -98239,5 +98241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T00:23:41.025623+00:00"
+  "updated_at": "2026-11-13T00:23:45.189129+00:00"
 }
