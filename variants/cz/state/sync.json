@@ -122698,13 +122698,6 @@
           "source_id": "32965631",
           "target_video_id": "30985482",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:32:53.066035+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32965631",
-          "target_video_id": "30985482",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:47:23.249422+00:00"
         },
         {
@@ -122713,6 +122706,13 @@
           "target_video_id": "30985482",
           "permanent": false,
           "attempted_at": "2026-11-13T04:52:24.345623+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32965631",
+          "target_video_id": "30985482",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:26:08.061615+00:00"
         }
       ],
       "last_plan": {
@@ -138409,7 +138409,7 @@
       "last_plan": {
         "source_id": "34399715",
         "display_name": "Koloběžka první (Ruffiano and Sweeteeth) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:52:23.072105+00:00"
+        "planned_at": "2026-11-13T06:26:06.726356+00:00"
       },
       "previous_target_id": "30987880",
       "prepared": {
@@ -138417,6 +138417,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-11T06:32:54.593013+00:00",
         "relay_source_id": "34399715"
+      },
+      "claim": {
+        "worker_id": "0ba54a3063474f57929172c1152376de-shard-0",
+        "claimed_at": "2026-11-13T06:26:07.391154+00:00",
+        "lease_expires_at": "2026-11-13T12:26:07.391154+00:00",
+        "run_id": "43371605577"
       }
     },
     "15438": {
@@ -147650,7 +147656,7 @@
       "last_plan": {
         "source_id": "14419594",
         "display_name": "Polumgla (Полумгла) SD CZ Dabing",
-        "planned_at": "2026-11-13T06:26:04.730995+00:00"
+        "planned_at": "2026-11-13T06:26:07.006586+00:00"
       }
     },
     "24767": {
@@ -199147,5 +199153,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:26:04.731014+00:00"
+  "updated_at": "2026-11-13T06:26:08.061634+00:00"
 }
