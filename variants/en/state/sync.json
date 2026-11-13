@@ -40694,17 +40694,19 @@
       "attempts": []
     },
     "26478": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "13528951",
+          "target_video_id": "31019472",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:56:58.204655+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "13528951",
         "display_name": "The Thing About Harry SD CZ Titulky",
         "planned_at": "2026-11-13T21:55:39.206254+00:00"
-      },
-      "claim": {
-        "worker_id": "ee33004c6a96412880df1b94d171b601-shard-0",
-        "claimed_at": "2026-11-13T21:55:39.785432+00:00",
-        "lease_expires_at": "2026-11-14T03:55:39.785432+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31019472",
       "prepared": {
@@ -99477,5 +99479,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:55:43.969426+00:00"
+  "updated_at": "2026-11-13T21:56:58.204671+00:00"
 }
