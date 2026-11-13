@@ -39024,17 +39024,19 @@
       "attempts": []
     },
     "29463": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "26970393",
+          "target_video_id": "31010102",
+          "permanent": false,
+          "attempted_at": "2026-11-13T07:50:42.632931+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "26970393",
         "display_name": "The Night Comes for Us 1080p CZ Titulky",
         "planned_at": "2026-11-13T07:17:22.762766+00:00"
-      },
-      "claim": {
-        "worker_id": "54ca76dc9223435a8c0152f284f3fcfb-shard-0",
-        "claimed_at": "2026-11-13T07:17:23.307715+00:00",
-        "lease_expires_at": "2026-11-13T13:17:23.307715+00:00",
-        "run_id": "43371605577"
       },
       "previous_target_id": "31010102",
       "prepared": {
@@ -98613,5 +98615,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:50:38.633487+00:00"
+  "updated_at": "2026-11-13T07:50:42.632952+00:00"
 }
