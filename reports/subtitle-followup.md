@@ -703,3 +703,4 @@ Attach subtitles only after target processing has finished.
 | The Duke 1080p CZ Titulky | 31014248 | https://sdilej.cz/18856807/the.duke.1080p.web-dl.dd5.1.h.264-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Kingdom: Ashin of the North (킹덤: 아신전) 1080p CZ Titulky | 31014339 | https://sdilej.cz/17566638/kingdom.ashin.of.the.north.2021.korean.1080p.nf.webrip.ddp5.1.atmos.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Last Trapper SD CZ Titulky | 31014435 | https://sdilej.cz/35402451/the-last-trapper-ac3-5-1-dvdrip-eng-2004.cz.sub.mkv | Extract Czech track from exact source after processing |
+| The Stronghold (BAC Nord) (2021) 1080p CZ Titulky | 31014467 | https://sdilej.cz/19554491/severni-marseilles-titl.cz.mkv | Extract Czech track from exact source after processing |
