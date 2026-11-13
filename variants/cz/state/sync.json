@@ -117716,13 +117716,6 @@
           "source_id": "29121811",
           "target_video_id": "30984814",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:47:19.446432+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29121811",
-          "target_video_id": "30984814",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:39:09.128052+00:00"
         },
         {
@@ -117731,6 +117724,13 @@
           "target_video_id": "30984814",
           "permanent": false,
           "attempted_at": "2026-11-13T02:52:09.060427+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29121811",
+          "target_video_id": "30984814",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:02:29.457039+00:00"
         }
       ],
       "last_plan": {
@@ -117744,12 +117744,6 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:43:42.588478+00:00",
         "relay_source_id": "29121811"
-      },
-      "claim": {
-        "worker_id": "d71944980a584e56ae128b53e0814792-shard-0",
-        "claimed_at": "2026-11-13T04:02:27.301839+00:00",
-        "lease_expires_at": "2026-11-13T10:02:27.301839+00:00",
-        "run_id": "43339109036"
       }
     },
     "3110": {
@@ -122848,7 +122842,7 @@
       "last_plan": {
         "source_id": "34911142",
         "display_name": "The Girl in the Fog (La ragazza nella nebbia) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:52:10.493081+00:00"
+        "planned_at": "2026-11-13T04:02:28.867385+00:00"
       },
       "previous_target_id": "30985499",
       "prepared": {
@@ -122856,6 +122850,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T19:47:48.561303+00:00",
         "relay_source_id": "34911142"
+      },
+      "claim": {
+        "worker_id": "2b29e43729504775b37f7ec2ee77891a-shard-0",
+        "claimed_at": "2026-11-13T04:02:29.304619+00:00",
+        "lease_expires_at": "2026-11-13T10:02:29.304619+00:00",
+        "run_id": "43339109036"
       }
     },
     "25109": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:02:26.910562+00:00"
+        "planned_at": "2026-11-13T04:02:29.063479+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:02:27.301869+00:00"
+  "updated_at": "2026-11-13T04:02:29.457055+00:00"
 }
