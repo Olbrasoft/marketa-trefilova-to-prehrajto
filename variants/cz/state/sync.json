@@ -149833,17 +149833,19 @@
       }
     },
     "15442": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31595654",
+          "target_video_id": "31020917",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:07:30.984165+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31595654",
         "display_name": "Zeny a Zivot (Ženy a život) 1080p CZ Dabing",
         "planned_at": "2026-11-13T23:04:52.822866+00:00"
-      },
-      "claim": {
-        "worker_id": "29e15c7cb1964655a3d190a8d17ffa35-shard-0",
-        "claimed_at": "2026-11-13T23:04:53.323250+00:00",
-        "lease_expires_at": "2026-11-14T05:04:53.323250+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020917",
       "prepared": {
@@ -201004,5 +201006,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:07:28.350627+00:00"
+  "updated_at": "2026-11-13T23:07:30.984189+00:00"
 }
