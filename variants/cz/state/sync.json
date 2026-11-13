@@ -109618,13 +109618,6 @@
           "source_id": "34671725",
           "target_video_id": "30983679",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:40:38.994800+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34671725",
-          "target_video_id": "30983679",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:44:58.917825+00:00"
         },
         {
@@ -109633,6 +109626,13 @@
           "target_video_id": "30983679",
           "permanent": false,
           "attempted_at": "2026-11-13T21:53:12.439051+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34671725",
+          "target_video_id": "30983679",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:53:48.607430+00:00"
         }
       ],
       "last_plan": {
@@ -149009,7 +149009,7 @@
       "last_plan": {
         "source_id": "34675756",
         "display_name": "Pod Jezevci skalou (Pod Jezevčí skálou) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:51:24.209692+00:00"
+        "planned_at": "2026-11-13T22:53:47.274269+00:00"
       },
       "previous_target_id": "31019398",
       "prepared": {
@@ -149017,6 +149017,12 @@
         "size_bytes": 1618445151,
         "prepared_at": "2026-11-13T21:51:30.961485+00:00",
         "relay_source_id": "34675756"
+      },
+      "claim": {
+        "worker_id": "9c7d3e86694f424dbe03afa2a7959432-shard-0",
+        "claimed_at": "2026-11-13T22:53:47.770769+00:00",
+        "lease_expires_at": "2026-11-14T04:53:47.770769+00:00",
+        "run_id": "43482054430"
       }
     },
     "14174": {
@@ -149675,7 +149681,7 @@
       "last_plan": {
         "source_id": "34660623",
         "display_name": "Girl America (Amerikánka) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:53:44.897806+00:00"
+        "planned_at": "2026-11-13T22:53:47.478891+00:00"
       }
     },
     "14119": {
@@ -200830,5 +200836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:53:45.079646+00:00"
+  "updated_at": "2026-11-13T22:53:48.607444+00:00"
 }
