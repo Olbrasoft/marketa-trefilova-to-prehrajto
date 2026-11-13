@@ -34547,13 +34547,6 @@
           "source_id": "6556256",
           "target_video_id": "30986677",
           "permanent": false,
-          "attempted_at": "2026-11-13T09:10:54.949047+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6556256",
-          "target_video_id": "30986677",
-          "permanent": false,
           "attempted_at": "2026-11-13T10:33:50.553881+00:00"
         },
         {
@@ -34562,6 +34555,13 @@
           "target_video_id": "30986677",
           "permanent": false,
           "attempted_at": "2026-11-13T11:04:07.186827+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6556256",
+          "target_video_id": "30986677",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:35:18.165679+00:00"
         }
       ],
       "last_plan": {
@@ -35283,7 +35283,7 @@
       "last_plan": {
         "source_id": "17633756",
         "display_name": "Legacy, notre héritage (Legacy) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T11:04:06.999682+00:00"
+        "planned_at": "2026-11-13T11:35:17.339169+00:00"
       },
       "previous_target_id": "30988551",
       "prepared": {
@@ -35291,6 +35291,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T08:41:44.555925+00:00",
         "relay_source_id": "17633756"
+      },
+      "claim": {
+        "worker_id": "a4cc167a7d2e4e1bb348691186675093-shard-0",
+        "claimed_at": "2026-11-13T11:35:17.744532+00:00",
+        "lease_expires_at": "2026-11-13T17:35:17.744532+00:00",
+        "run_id": "43408558477"
       }
     },
     "21412": {
@@ -39254,7 +39260,7 @@
       "last_plan": {
         "source_id": "8457253",
         "display_name": "Amanda Knox 720p CZ Titulky",
-        "planned_at": "2026-11-13T11:35:14.204263+00:00"
+        "planned_at": "2026-11-13T11:35:17.583451+00:00"
       }
     },
     "11190": {
@@ -98734,5 +98740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:35:14.204278+00:00"
+  "updated_at": "2026-11-13T11:35:18.165694+00:00"
 }
