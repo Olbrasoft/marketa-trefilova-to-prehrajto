@@ -11428,13 +11428,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-13T09:10:22.693330+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-13T10:33:30.592245+00:00"
         },
         {
@@ -11443,6 +11436,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-13T11:03:43.568732+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:34:57.488349+00:00"
         }
       ],
       "last_plan": {
@@ -16560,7 +16560,7 @@
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
-        "planned_at": "2026-11-13T11:03:43.087743+00:00"
+        "planned_at": "2026-11-13T11:34:56.717352+00:00"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -16568,6 +16568,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "0a484e80f22e4228a22ce090715aaeae-shard-0",
+        "claimed_at": "2026-11-13T11:34:57.129929+00:00",
+        "lease_expires_at": "2026-11-13T17:34:57.129929+00:00",
+        "run_id": "43408558477"
       }
     },
     "1209": {
@@ -39254,7 +39260,7 @@
       "last_plan": {
         "source_id": "8457253",
         "display_name": "Amanda Knox 720p CZ Titulky",
-        "planned_at": "2026-11-13T11:34:54.196810+00:00"
+        "planned_at": "2026-11-13T11:34:56.990017+00:00"
       }
     },
     "11190": {
@@ -98734,5 +98740,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:34:54.196826+00:00"
+  "updated_at": "2026-11-13T11:34:57.488366+00:00"
 }
