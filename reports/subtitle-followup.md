@@ -681,3 +681,4 @@ Attach subtitles only after target processing has finished.
 | When Evil Lurks (Cuando acecha la maldad) 1080p CZ Titulky | 31007827 | https://sdilej.cz/27144377/when-evil-lurks-webrip-es-titulky-cz-2023.mkv | Extract Czech track from exact source after processing |
 | Rent 1080p CZ Titulky | 31007976 | https://sdilej.cz/22944190/bohemove-2005-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Ladyhawke 1080p CZ Titulky | 31008069 | https://sdilej.cz/35402331/ladyhawke.1985.1080p.bluray.h264.aac-rarbg.cz.sub.mkv | Extract Czech track from exact source after processing |
+| Enemy Mine 1080p CZ Titulky | 31008155 | https://sdilej.cz/14778688/muj-nepritel-1080p.-1985-brrip-ac3.czdab.mkv | Extract Czech track from exact source after processing |
