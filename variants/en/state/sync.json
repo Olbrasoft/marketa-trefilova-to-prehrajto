@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-13T14:06:23.636370+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:05:23.904922+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-13T15:35:46.380057+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:06:05.591865+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "dfa8966c5d764b9281fcd11c8fc0833f-shard-0",
-        "claimed_at": "2026-11-13T16:06:00.910860+00:00",
-        "lease_expires_at": "2026-11-13T22:06:00.910860+00:00",
-        "run_id": "43442116051"
       }
     },
     "21690": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "e45fa4bfd88148f2848e285586de8c99-shard-0",
+        "claimed_at": "2026-11-13T16:06:05.675807+00:00",
+        "lease_expires_at": "2026-11-13T22:06:05.675807+00:00",
+        "run_id": "43442116051"
       }
     },
     "31551": {
@@ -39534,7 +39534,7 @@
       "last_plan": {
         "source_id": "11904731",
         "display_name": "The Wolf's Call (Le Chant du loup) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T15:35:49.460218+00:00"
+        "planned_at": "2026-11-13T16:06:06.584052+00:00"
       },
       "previous_target_id": "31012805",
       "prepared": {
@@ -40069,7 +40069,7 @@
       "last_plan": {
         "source_id": "30779927",
         "display_name": "Chisum 1080p CZ Titulky",
-        "planned_at": "2026-11-13T16:06:03.583042+00:00"
+        "planned_at": "2026-11-13T16:06:06.752751+00:00"
       }
     },
     "31140": {
@@ -99185,5 +99185,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:06:03.583061+00:00"
+  "updated_at": "2026-11-13T16:06:06.752770+00:00"
 }
