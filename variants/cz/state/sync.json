@@ -141940,13 +141940,6 @@
           "source_id": "29210983",
           "target_video_id": "30988422",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:43:32.543514+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29210983",
-          "target_video_id": "30988422",
-          "permanent": false,
           "attempted_at": "2026-11-13T16:52:32.509647+00:00"
         },
         {
@@ -141955,12 +141948,19 @@
           "target_video_id": "30988422",
           "permanent": false,
           "attempted_at": "2026-11-13T17:59:11.318767+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29210983",
+          "target_video_id": "30988422",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:31:12.659734+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29210983",
         "display_name": "Murder in Aveyron (Crime en Aveyron) SD CZ Dabing",
-        "planned_at": "2026-11-13T17:59:07.078142+00:00"
+        "planned_at": "2026-11-13T19:31:10.809253+00:00"
       },
       "previous_target_id": "30988422",
       "prepared": {
@@ -148521,17 +148521,19 @@
       "attempts": []
     },
     "17652": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14502919",
+          "target_video_id": "31018082",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:31:12.822924+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14502919",
         "display_name": "Nobadi SD CZ Dabing",
         "planned_at": "2026-11-13T19:23:33.788973+00:00"
-      },
-      "claim": {
-        "worker_id": "9c303f44d959408aada5bce8c59da483-shard-0",
-        "claimed_at": "2026-11-13T19:23:34.466962+00:00",
-        "lease_expires_at": "2026-11-14T01:23:34.466962+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31018082",
       "prepared": {
@@ -148573,7 +148575,7 @@
       "last_plan": {
         "source_id": "19259934",
         "display_name": "Princess Jasnenka and the Flying Shoemaker (O princezně Jasněnce a létajícím ševci) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:31:07.533252+00:00"
+        "planned_at": "2026-11-13T19:31:11.023225+00:00"
       }
     },
     "14949": {
@@ -199923,5 +199925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:31:09.201762+00:00"
+  "updated_at": "2026-11-13T19:31:12.822951+00:00"
 }
