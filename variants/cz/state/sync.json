@@ -122185,7 +122185,7 @@
       "last_plan": {
         "source_id": "30394887",
         "display_name": "With Honors 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:51:21.856834+00:00"
+        "planned_at": "2026-11-13T20:56:11.204495+00:00"
       },
       "previous_target_id": "30985435",
       "prepared": {
@@ -122193,6 +122193,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T19:18:34.046446+00:00",
         "relay_source_id": "30394887"
+      },
+      "claim": {
+        "worker_id": "2823a95a8e914445b94e0d6ded3ddd96-shard-0",
+        "claimed_at": "2026-11-13T20:56:11.663635+00:00",
+        "lease_expires_at": "2026-11-14T02:56:11.663635+00:00",
+        "run_id": "43482054430"
       }
     },
     "11084": {
@@ -148705,17 +148711,19 @@
       "attempts": []
     },
     "14058": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32728547",
+          "target_video_id": "31018597",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:56:12.064847+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32728547",
         "display_name": "A Grand Romantic Gesture 1080p CZ Dabing",
         "planned_at": "2026-11-13T20:28:23.705123+00:00"
-      },
-      "claim": {
-        "worker_id": "d0ae58ce6194413080538b3a09dc232c-shard-0",
-        "claimed_at": "2026-11-13T20:28:24.236750+00:00",
-        "lease_expires_at": "2026-11-14T02:28:24.236750+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31018597",
       "prepared": {
@@ -148757,7 +148765,7 @@
       "last_plan": {
         "source_id": "35328387",
         "display_name": "Šest černých dívek aneb Proč zmizel Zajíc (Six Black Girls) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T20:56:07.988416+00:00"
+        "planned_at": "2026-11-13T20:56:11.438380+00:00"
       }
     },
     "17434": {
@@ -200086,5 +200094,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:56:09.517410+00:00"
+  "updated_at": "2026-11-13T20:56:12.064860+00:00"
 }
