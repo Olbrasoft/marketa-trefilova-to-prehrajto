@@ -128561,17 +128561,19 @@
       "attempts": []
     },
     "16667": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27533878",
+          "target_video_id": "31008527",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:38:50.429105+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27533878",
         "display_name": "Rosalie Blum 1080p CZ Dabing",
         "planned_at": "2026-11-13T03:10:02.753760+00:00"
-      },
-      "claim": {
-        "worker_id": "1fe0e096c95547c59e3c3ec024a899b5-shard-0",
-        "claimed_at": "2026-11-13T03:10:03.253630+00:00",
-        "lease_expires_at": "2026-11-13T09:10:03.253630+00:00",
-        "run_id": "43339109036"
       },
       "previous_target_id": "31008527",
       "prepared": {
@@ -198917,5 +198919,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:38:47.862797+00:00"
+  "updated_at": "2026-11-13T03:38:50.429129+00:00"
 }
