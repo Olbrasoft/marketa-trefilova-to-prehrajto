@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T10:31:50.535218+00:00
+Poslední aktualizace (UTC): 2026-11-13T10:31:53.113323+00:00
 
 Zkontrolováno videí: 690. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 115, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 116, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -177,6 +177,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 126. Důvo
 | [The Seven Year Itch 1080p CZ Titulky](https://prehraj.to/the-seven-year-itch-1080p-cz-titulky-mkv/b29d39d2b9b4ca46) (ID 30983632) | [Sdílej 6563156](https://sdilej.cz/6563156/slameny-vdovec-the-seven-year-itch-1955-cz-1080phd-.mkv) | target_unavailable | 2026-11-10T14:26:07.099701+00:00 |
 | [The Thing from Another World SD CZ Titulky](https://prehraj.to/the-thing-from-another-world-sd-cz-titulky-mkv/8b211c1b291dfc65) (ID 30984580) | [Sdílej 13368212](https://sdilej.cz/13368212/vec-the-thing-from-another-world-1951--cz-tit.-.mkv) | target_unavailable | 2026-11-10T16:57:15.224704+00:00 |
 | [The Thomas Crown Affair (1968) 1080p CZ Titulky](https://prehraj.to/the-thomas-crown-affair-1968-1080p-cz-titulky-mkv/7dcf635b5f2ebdf8) (ID 31010662) | [Sdílej 11447322](https://sdilej.cz/11447322/pripad-thomase-crowna-the-thomas-crown-affair-1968-czen-1080phd-.mkv) | target_unavailable | 2026-11-13T08:37:43.571358+00:00 |
+| [The Trip (I onde dager) (2021) 1080p CZ Titulky](https://prehraj.to/the-trip-i-onde-dager-2021-1080p-cz-titulky-mkv/82caf92e9a18400b) (ID 31011633) | [Sdílej 18710569](https://sdilej.cz/18710569/cesta-za-smirenim-2021-5.1-nor-cz-titulky.mkv) | target_unavailable | 2026-11-13T10:31:52.143680+00:00 |
 | [Those Magnificent Men in their Flying Machines (Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes) 1080p CZ Titulky](https://prehraj.to/those-magnificent-men-in-their-flying-machines-those-magnificent-men-in-their-flying-machines-or-how-i-flew-from-london-to-paris-in-25-hours-11-minutes-1080p-cz-titulky-mkv/90a870d6f93d626a) (ID 30989766) | [Sdílej 6120853](https://sdilej.cz/6120853/bajecni-muzi-na-letajicich-strojich-1965-fhd-1080p--cz-eng-.mkv) | target_unavailable | 2026-11-11T12:18:05.456630+00:00 |
 | [Top Gun 4K CZ Titulky](https://prehraj.to/top-gun-4k-cz-titulky-mkv/385170ec4fe46e87) (ID 30965106) | [Sdílej 28086780](https://sdilej.cz/28086780/top.gun.1986.2160p.4k.bluray.x265.10bit.aac5.1-leon.-en-subs-cz-en-.mkv) | target_unavailable | 2026-11-10T09:50:21.222346+00:00 |
 | [Triangle 1080p CZ Titulky](https://prehraj.to/triangle-1080p-cz-titulky-mkv/9a4c0387f9957337) (ID 31006060) | [Sdílej 14629570](https://sdilej.cz/14629570/triangle-en-vlozene-titulky-2009-thriller-1080p.mkv) | target_unavailable | 2026-11-12T21:11:25.519777+00:00 |
