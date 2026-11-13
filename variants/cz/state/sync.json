@@ -108208,13 +108208,6 @@
           "source_id": "34674550",
           "target_video_id": "30983537",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:05:55.264434+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34674550",
-          "target_video_id": "30983537",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:20:18.643461+00:00"
         },
         {
@@ -108223,6 +108216,13 @@
           "target_video_id": "30983537",
           "permanent": false,
           "attempted_at": "2026-11-13T04:24:08.974547+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34674550",
+          "target_video_id": "30983537",
+          "permanent": false,
+          "attempted_at": "2026-11-13T05:55:10.654331+00:00"
         }
       ],
       "last_plan": {
@@ -110907,7 +110907,7 @@
       "last_plan": {
         "source_id": "8555407",
         "display_name": "Podnájemníci SD CZ Dabing",
-        "planned_at": "2026-11-13T04:24:09.535709+00:00"
+        "planned_at": "2026-11-13T05:55:09.145357+00:00"
       },
       "previous_target_id": "30983781",
       "prepared": {
@@ -110915,6 +110915,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T14:46:42.056772+00:00",
         "relay_source_id": "8555407"
+      },
+      "claim": {
+        "worker_id": "4e65d313783841fb8ee81ffcb492c623-shard-0",
+        "claimed_at": "2026-11-13T05:55:09.775908+00:00",
+        "lease_expires_at": "2026-11-13T11:55:09.775908+00:00",
+        "run_id": "43371605577"
       }
     },
     "12726": {
@@ -147572,7 +147578,7 @@
       "last_plan": {
         "source_id": "31504443",
         "display_name": "Darling, Are We a Good Match...? (Do We Match Each Other, Darling?) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:55:06.993334+00:00"
+        "planned_at": "2026-11-13T05:55:09.424372+00:00"
       }
     },
     "26986": {
@@ -199084,5 +199090,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T05:55:07.213963+00:00"
+  "updated_at": "2026-11-13T05:55:10.654350+00:00"
 }
