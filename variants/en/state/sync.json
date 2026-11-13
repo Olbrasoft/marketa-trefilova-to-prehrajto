@@ -3098,13 +3098,6 @@
           "source_id": "33590630",
           "target_video_id": "30612365",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:05:21.256097+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33590630",
-          "target_video_id": "30612365",
-          "permanent": false,
           "attempted_at": "2026-11-13T11:36:18.110833+00:00"
         },
         {
@@ -3113,6 +3106,13 @@
           "target_video_id": "30612365",
           "permanent": false,
           "attempted_at": "2026-11-13T12:06:51.523747+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33590630",
+          "target_video_id": "30612365",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:37:25.073828+00:00"
         }
       ],
       "last_plan": {
@@ -3126,12 +3126,6 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
-      },
-      "claim": {
-        "worker_id": "6dea747ac0cc4cf38e3b8001dae639f3-shard-0",
-        "claimed_at": "2026-11-13T12:36:54.679925+00:00",
-        "lease_expires_at": "2026-11-13T18:36:54.679925+00:00",
-        "run_id": "43408558477"
       }
     },
     "21312": {
@@ -39296,7 +39290,7 @@
       "last_plan": {
         "source_id": "8457253",
         "display_name": "Amanda Knox 720p CZ Titulky",
-        "planned_at": "2026-11-13T11:48:09.313658+00:00"
+        "planned_at": "2026-11-13T12:37:23.996454+00:00"
       },
       "previous_target_id": "31012115",
       "prepared": {
@@ -39304,6 +39298,12 @@
         "size_bytes": 2396391984,
         "prepared_at": "2026-11-13T11:48:15.629980+00:00",
         "relay_source_id": "8457253"
+      },
+      "claim": {
+        "worker_id": "d599a83a5f3e4fa99bdebab866bdbb4b-shard-0",
+        "claimed_at": "2026-11-13T12:37:24.410954+00:00",
+        "lease_expires_at": "2026-11-13T18:37:24.410954+00:00",
+        "run_id": "43408558477"
       }
     },
     "11190": {
@@ -39432,7 +39432,7 @@
       "last_plan": {
         "source_id": "11904731",
         "display_name": "The Wolf's Call (Le Chant du loup) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T12:37:18.341402+00:00"
+        "planned_at": "2026-11-13T12:37:24.258356+00:00"
       }
     },
     "22889": {
@@ -98846,5 +98846,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:37:18.341420+00:00"
+  "updated_at": "2026-11-13T12:37:25.073847+00:00"
 }
