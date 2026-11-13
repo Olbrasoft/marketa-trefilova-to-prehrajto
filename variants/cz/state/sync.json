@@ -120325,13 +120325,6 @@
           "source_id": "34285214",
           "target_video_id": "30985011",
           "permanent": false,
-          "attempted_at": "2026-11-13T07:26:50.201895+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34285214",
-          "target_video_id": "30985011",
-          "permanent": false,
           "attempted_at": "2026-11-13T08:53:16.131545+00:00"
         },
         {
@@ -120340,6 +120333,13 @@
           "target_video_id": "30985011",
           "permanent": false,
           "attempted_at": "2026-11-13T11:12:55.212506+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34285214",
+          "target_video_id": "30985011",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:25:32.628089+00:00"
         }
       ],
       "last_plan": {
@@ -121525,7 +121525,7 @@
       "last_plan": {
         "source_id": "34874346",
         "display_name": "Night Train to Lisbon SD CZ Dabing",
-        "planned_at": "2026-11-13T11:12:54.563207+00:00"
+        "planned_at": "2026-11-13T12:25:31.056183+00:00"
       },
       "previous_target_id": "30985387",
       "prepared": {
@@ -121533,6 +121533,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T19:01:52.904730+00:00",
         "relay_source_id": "34874346"
+      },
+      "claim": {
+        "worker_id": "069c670d7acf47cfad520db081829a24-shard-0",
+        "claimed_at": "2026-11-13T12:25:32.218180+00:00",
+        "lease_expires_at": "2026-11-13T18:25:32.218180+00:00",
+        "run_id": "43408558477"
       }
     },
     "20991": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T12:25:27.491774+00:00"
+        "planned_at": "2026-11-13T12:25:31.404863+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:25:27.760311+00:00"
+  "updated_at": "2026-11-13T12:25:32.628112+00:00"
 }
