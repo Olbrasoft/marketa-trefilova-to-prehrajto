@@ -3098,13 +3098,6 @@
           "source_id": "33590630",
           "target_video_id": "30612365",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:16:32.334647+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33590630",
-          "target_video_id": "30612365",
-          "permanent": false,
           "attempted_at": "2026-11-12T23:46:59.287243+00:00"
         },
         {
@@ -3113,6 +3106,13 @@
           "target_video_id": "30612365",
           "permanent": false,
           "attempted_at": "2026-11-13T00:17:24.970866+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33590630",
+          "target_video_id": "30612365",
+          "permanent": false,
+          "attempted_at": "2026-11-13T01:15:13.594544+00:00"
         }
       ],
       "last_plan": {
@@ -38297,7 +38297,7 @@
       "last_plan": {
         "source_id": "35125536",
         "display_name": "48 Hrs. 4K CZ Titulky",
-        "planned_at": "2026-11-12T23:13:31.041473+00:00"
+        "planned_at": "2026-11-13T01:14:44.667377+00:00"
       },
       "previous_target_id": "31007032",
       "prepared": {
@@ -38305,6 +38305,12 @@
         "size_bytes": 9155884262,
         "prepared_at": "2026-11-12T23:14:29.859480+00:00",
         "relay_source_id": "35125536"
+      },
+      "claim": {
+        "worker_id": "49c6d67277164d7b85793ca4b2d2aa88-shard-0",
+        "claimed_at": "2026-11-13T01:14:45.105126+00:00",
+        "lease_expires_at": "2026-11-13T07:14:45.105126+00:00",
+        "run_id": "43339109036"
       }
     },
     "25591": {
@@ -38481,7 +38487,7 @@
       "last_plan": {
         "source_id": "27144377",
         "display_name": "When Evil Lurks (Cuando acecha la maldad) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T01:14:42.579603+00:00"
+        "planned_at": "2026-11-13T01:14:45.037149+00:00"
       }
     },
     "11861": {
@@ -98276,5 +98282,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T01:14:42.579624+00:00"
+  "updated_at": "2026-11-13T01:15:13.594565+00:00"
 }
