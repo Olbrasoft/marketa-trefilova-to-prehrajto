@@ -11428,13 +11428,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:05:11.281592+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-13T16:35:28.169201+00:00"
         },
         {
@@ -11443,6 +11436,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-13T17:06:17.377662+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:36:37.501512+00:00"
         }
       ],
       "last_plan": {
@@ -11456,12 +11456,6 @@
         "size_bytes": 18100000000,
         "prepared_at": "2026-11-01T00:33:09.657864+00:00",
         "relay_source_id": "32388547"
-      },
-      "claim": {
-        "worker_id": "d110b2228f384ee99a7f28aa5eb99b0c-shard-0",
-        "claimed_at": "2026-11-13T17:36:34.482930+00:00",
-        "lease_expires_at": "2026-11-13T23:36:34.482930+00:00",
-        "run_id": "43442116051"
       }
     },
     "822": {
@@ -16574,6 +16568,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "2086554a695b4d19820a4491d1547410-shard-0",
+        "claimed_at": "2026-11-13T17:36:37.411370+00:00",
+        "lease_expires_at": "2026-11-13T23:36:37.411370+00:00",
+        "run_id": "43442116051"
       }
     },
     "1209": {
@@ -33803,7 +33803,7 @@
       "last_plan": {
         "source_id": "6563156",
         "display_name": "The Seven Year Itch 1080p CZ Titulky",
-        "planned_at": "2026-11-13T17:06:20.898775+00:00"
+        "planned_at": "2026-11-13T17:36:38.232403+00:00"
       },
       "previous_target_id": "30983632",
       "prepared": {
@@ -99326,5 +99326,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:36:35.372618+00:00"
+  "updated_at": "2026-11-13T17:36:38.232413+00:00"
 }
