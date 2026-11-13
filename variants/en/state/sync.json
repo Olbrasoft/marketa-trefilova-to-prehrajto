@@ -3126,6 +3126,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-29T14:37:56.911255+00:00",
         "relay_source_id": "33590630"
+      },
+      "claim": {
+        "worker_id": "7f392a4fc43b461b94f56693082daf7c-shard-0",
+        "claimed_at": "2026-11-13T10:34:14.882614+00:00",
+        "lease_expires_at": "2026-11-13T16:34:14.882614+00:00",
+        "run_id": "43408558477"
       }
     },
     "21312": {
@@ -38975,17 +38981,23 @@
           "attempted_at": "2026-11-13T09:15:28.984555+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29043242",
-        "display_name": "Fack ju Göhte 1080p CZ Titulky",
-        "planned_at": "2026-11-13T09:15:27.175525+00:00"
-      },
       "previous_target_id": "31009557",
-      "prepared": {
+      "upload": {
         "target_video_id": "31009557",
+        "display_name": "Fack ju Göhte 1080p CZ Titulky",
+        "source_id": "29043242",
+        "source_url": "https://sdilej.cz/29043242/fakju-pane-uciteli.mkv",
+        "source_filename": "Fakjů pane učiteli.mkv",
         "size_bytes": 2600000000,
-        "prepared_at": "2026-11-13T05:57:23.935149+00:00",
-        "relay_source_id": "29043242"
+        "width": 1920,
+        "height": 800,
+        "audio_language": "de",
+        "language_probability": 0.9941011071205139,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/fack-ju-goehte-1080p-cz-titulky-mkv/5fbcf6e92c7a2fb4",
+        "uploaded_at": "2026-11-13T10:34:18.254253+00:00"
       }
     },
     "534": {
@@ -39165,7 +39177,7 @@
       "last_plan": {
         "source_id": "29624808",
         "display_name": "Thelma (2024) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T10:34:11.856878+00:00"
+        "planned_at": "2026-11-13T10:34:16.525932+00:00"
       }
     },
     "23010": {
@@ -98680,5 +98692,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T10:34:11.856894+00:00"
+  "updated_at": "2026-11-13T10:34:18.254283+00:00"
 }
