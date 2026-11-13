@@ -148121,17 +148121,19 @@
       }
     },
     "24347": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33850265",
+          "target_video_id": "31016668",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:25:34.079740+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33850265",
         "display_name": "Dr. Quinn Medicine Woman: The Movie 1080p CZ Dabing",
         "planned_at": "2026-11-13T17:20:21.037519+00:00"
-      },
-      "claim": {
-        "worker_id": "d7f45477c6934ebe91c5e271ccef9718-shard-0",
-        "claimed_at": "2026-11-13T17:20:21.776135+00:00",
-        "lease_expires_at": "2026-11-13T23:20:21.776135+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31016668",
       "prepared": {
@@ -199556,5 +199558,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:25:24.727907+00:00"
+  "updated_at": "2026-11-13T17:25:34.079759+00:00"
 }
