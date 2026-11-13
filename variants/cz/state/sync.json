@@ -125405,13 +125405,6 @@
           "source_id": "34651052",
           "target_video_id": "30985868",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:00:48.662964+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34651052",
-          "target_video_id": "30985868",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:21:44.948290+00:00"
         },
         {
@@ -125420,12 +125413,19 @@
           "target_video_id": "30985868",
           "permanent": false,
           "attempted_at": "2026-11-13T21:28:51.795543+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34651052",
+          "target_video_id": "30985868",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:29:42.459062+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34651052",
         "display_name": "Safety 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:28:50.221742+00:00"
+        "planned_at": "2026-11-13T22:29:40.666940+00:00"
       },
       "previous_target_id": "30985868",
       "prepared": {
@@ -149433,11 +149433,22 @@
       "last_plan": {
         "source_id": "34799529",
         "display_name": "Murder in Maussane (Crime dans les Alpilles) SD CZ Dabing",
-        "planned_at": "2026-11-13T22:29:36.782159+00:00"
+        "planned_at": "2026-11-13T22:29:40.888883+00:00"
+      },
+      "claim": {
+        "worker_id": "81d88da36f7a4805b607835a5cb04fbb-shard-0",
+        "claimed_at": "2026-11-13T22:29:41.434483+00:00",
+        "lease_expires_at": "2026-11-14T04:29:41.434483+00:00",
+        "run_id": "43482054430"
       }
     },
     "27586": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13222930",
+        "display_name": "Head Hands Heart (Head - Hands - Heart) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T22:29:41.022855+00:00"
+      }
     },
     "30421": {
       "attempts": []
@@ -200633,5 +200644,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:29:38.777065+00:00"
+  "updated_at": "2026-11-13T22:29:42.459073+00:00"
 }
