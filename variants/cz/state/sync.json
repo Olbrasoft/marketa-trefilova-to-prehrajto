@@ -117062,6 +117062,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:35:49.011875+00:00",
         "relay_source_id": "23542078"
+      },
+      "claim": {
+        "worker_id": "3f053e26822a4af1b386a0d0e6653b1c-shard-0",
+        "claimed_at": "2026-11-13T03:42:30.357002+00:00",
+        "lease_expires_at": "2026-11-13T09:42:30.357002+00:00",
+        "run_id": "43339109036"
       }
     },
     "2896": {
@@ -133643,13 +133649,6 @@
           "source_id": "34705552",
           "target_video_id": "30987337",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:19:02.721904+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34705552",
-          "target_video_id": "30987337",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:19:03.812377+00:00"
         },
         {
@@ -133658,6 +133657,13 @@
           "target_video_id": "30987337",
           "permanent": false,
           "attempted_at": "2026-11-13T02:29:53.836444+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34705552",
+          "target_video_id": "30987337",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:42:31.118446+00:00"
         }
       ],
       "last_plan": {
@@ -133671,12 +133677,6 @@
         "size_bytes": 619600000,
         "prepared_at": "2026-11-11T04:19:38.094228+00:00",
         "relay_source_id": "34705552"
-      },
-      "claim": {
-        "worker_id": "7b7e640f095c406bb3aa4c0a5b7637be-shard-0",
-        "claimed_at": "2026-11-13T03:42:28.470624+00:00",
-        "lease_expires_at": "2026-11-13T09:42:28.470624+00:00",
-        "run_id": "43339109036"
       }
     },
     "12708": {
@@ -134596,7 +134596,7 @@
       "last_plan": {
         "source_id": "33712803",
         "display_name": "Séfe, to je vec! (Šéfe, to je věc!) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:30:00.078053+00:00"
+        "planned_at": "2026-11-13T03:42:30.508452+00:00"
       },
       "previous_target_id": "30987501",
       "prepared": {
@@ -134604,6 +134604,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T05:00:48.593549+00:00",
         "relay_source_id": "33712803"
+      },
+      "claim": {
+        "worker_id": "0228919f7ba84afaa5d708f0c51edf21-shard-0",
+        "claimed_at": "2026-11-13T03:42:30.972558+00:00",
+        "lease_expires_at": "2026-11-13T09:42:30.972558+00:00",
+        "run_id": "43339109036"
       }
     },
     "36796": {
@@ -147395,7 +147401,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:42:28.817326+00:00"
+        "planned_at": "2026-11-13T03:42:30.704633+00:00"
       }
     },
     "12316": {
@@ -198927,5 +198933,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:42:28.817344+00:00"
+  "updated_at": "2026-11-13T03:42:31.118462+00:00"
 }
