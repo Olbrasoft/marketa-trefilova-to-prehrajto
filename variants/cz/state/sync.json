@@ -106886,13 +106886,6 @@
           "source_id": "30581817",
           "target_video_id": "30981794",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:28:51.589152+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30581817",
-          "target_video_id": "30981794",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:33:57.145025+00:00"
         },
         {
@@ -106901,6 +106894,13 @@
           "target_video_id": "30981794",
           "permanent": false,
           "attempted_at": "2026-11-13T21:42:19.817758+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30581817",
+          "target_video_id": "30981794",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:42:17.560367+00:00"
         }
       ],
       "last_plan": {
@@ -106914,12 +106914,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T13:19:56.645605+00:00",
         "relay_source_id": "30581817"
-      },
-      "claim": {
-        "worker_id": "2fcf5ceea68149f78badd7a89445a302-shard-0",
-        "claimed_at": "2026-11-13T22:42:15.301180+00:00",
-        "lease_expires_at": "2026-11-14T04:42:15.301180+00:00",
-        "run_id": "43482054430"
       }
     },
     "11343": {
@@ -107624,7 +107618,7 @@
       "last_plan": {
         "source_id": "27820413",
         "display_name": "Tam na konečné (At the Terminus) SD CZ Dabing",
-        "planned_at": "2026-11-13T21:42:23.962008+00:00"
+        "planned_at": "2026-11-13T22:42:16.963681+00:00"
       },
       "previous_target_id": "30983233",
       "prepared": {
@@ -107632,6 +107626,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T13:55:28.555248+00:00",
         "relay_source_id": "27820413"
+      },
+      "claim": {
+        "worker_id": "21ef3af8f7d44e42b6ca15dbad63832f-shard-0",
+        "claimed_at": "2026-11-13T22:42:17.388185+00:00",
+        "lease_expires_at": "2026-11-14T04:42:17.388185+00:00",
+        "run_id": "43482054430"
       }
     },
     "36724": {
@@ -149588,7 +149588,7 @@
       "last_plan": {
         "source_id": "30110040",
         "display_name": "Out of the City (Cesta z města) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:42:15.031650+00:00"
+        "planned_at": "2026-11-13T22:42:17.161613+00:00"
       }
     },
     "11069": {
@@ -200758,5 +200758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:42:15.445029+00:00"
+  "updated_at": "2026-11-13T22:42:17.560380+00:00"
 }
