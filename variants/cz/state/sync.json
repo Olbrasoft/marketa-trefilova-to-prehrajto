@@ -107481,13 +107481,6 @@
           "source_id": "34913823",
           "target_video_id": "30983173",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:28:36.320870+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34913823",
-          "target_video_id": "30983173",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:33:42.468020+00:00"
         },
         {
@@ -107496,6 +107489,13 @@
           "target_video_id": "30983173",
           "permanent": false,
           "attempted_at": "2026-11-13T21:42:05.617275+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34913823",
+          "target_video_id": "30983173",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:42:08.233591+00:00"
         }
       ],
       "last_plan": {
@@ -107509,12 +107509,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T13:54:10.599756+00:00",
         "relay_source_id": "34913823"
-      },
-      "claim": {
-        "worker_id": "579629c51e04445199b124f495b9202d-shard-0",
-        "claimed_at": "2026-11-13T22:42:04.512995+00:00",
-        "lease_expires_at": "2026-11-14T04:42:04.512995+00:00",
-        "run_id": "43482054430"
       }
     },
     "2722": {
@@ -107581,7 +107575,7 @@
       "last_plan": {
         "source_id": "29142066",
         "display_name": "Craig Before the Creek 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:42:07.087205+00:00"
+        "planned_at": "2026-11-13T22:42:07.559260+00:00"
       },
       "previous_target_id": "30983174",
       "prepared": {
@@ -107589,6 +107583,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-10T13:54:16.987883+00:00",
         "relay_source_id": "29142066"
+      },
+      "claim": {
+        "worker_id": "cfce8d37407b4fa6b0418c581552e1f2-shard-0",
+        "claimed_at": "2026-11-13T22:42:08.005661+00:00",
+        "lease_expires_at": "2026-11-14T04:42:08.005661+00:00",
+        "run_id": "43482054430"
       }
     },
     "15517": {
@@ -149588,7 +149588,7 @@
       "last_plan": {
         "source_id": "30110040",
         "display_name": "Out of the City (Cesta z města) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:42:04.275767+00:00"
+        "planned_at": "2026-11-13T22:42:07.765017+00:00"
       }
     },
     "11069": {
@@ -200758,5 +200758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:42:04.677638+00:00"
+  "updated_at": "2026-11-13T22:42:08.233605+00:00"
 }
