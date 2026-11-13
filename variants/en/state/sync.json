@@ -34713,13 +34713,6 @@
           "source_id": "16607977",
           "target_video_id": "30987463",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:12:06.899266+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "16607977",
-          "target_video_id": "30987463",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:12:46.167026+00:00"
         },
         {
@@ -34728,6 +34721,13 @@
           "target_video_id": "30987463",
           "permanent": false,
           "attempted_at": "2026-11-13T01:42:57.412696+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "16607977",
+          "target_video_id": "30987463",
+          "permanent": false,
+          "attempted_at": "2026-11-13T02:13:04.910536+00:00"
         }
       ],
       "last_plan": {
@@ -35393,7 +35393,7 @@
       "last_plan": {
         "source_id": "23240065",
         "display_name": "Paris, 13th District (Les Olympiades, Paris 13e) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T01:42:59.317478+00:00"
+        "planned_at": "2026-11-13T02:13:03.759043+00:00"
       },
       "previous_target_id": "30988745",
       "prepared": {
@@ -35401,6 +35401,12 @@
         "size_bytes": 8199999999,
         "prepared_at": "2026-11-11T09:46:13.396689+00:00",
         "relay_source_id": "23240065"
+      },
+      "claim": {
+        "worker_id": "5baa4f3c1b924c6bbf0e9f5a3ece8b75-shard-0",
+        "claimed_at": "2026-11-13T02:13:03.958577+00:00",
+        "lease_expires_at": "2026-11-13T08:13:03.958577+00:00",
+        "run_id": "43339109036"
       }
     },
     "12662": {
@@ -38641,7 +38647,7 @@
       "last_plan": {
         "source_id": "14778688",
         "display_name": "Enemy Mine 1080p CZ Titulky",
-        "planned_at": "2026-11-13T02:13:01.608608+00:00"
+        "planned_at": "2026-11-13T02:13:03.902709+00:00"
       }
     },
     "32423": {
@@ -98379,5 +98385,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T02:13:01.608629+00:00"
+  "updated_at": "2026-11-13T02:13:04.910556+00:00"
 }
