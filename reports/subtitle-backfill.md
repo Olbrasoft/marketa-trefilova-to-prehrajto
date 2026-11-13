@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T22:56:01.269323+00:00
+Poslední aktualizace (UTC): 2026-11-13T22:56:03.178569+00:00
 
 Zkontrolováno videí: 716. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 140, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 141, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -130,6 +130,7 @@ Kontrol: 2; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 148. Důvo
 | [Live Free or Die Hard 1080p CZ Titulky](https://prehraj.to/live-free-or-die-hard-1080p-cz-titulky-mkv/6a67b448e96b3947) (ID 30904979) | [Sdílej 23260210](https://sdilej.cz/23260210/die-hard-4-live-free-or-die-hard-smrtonosna-past-4-0-2007-hd-1080p-ang-cz.mkv) | source_unavailable | 2026-11-10T09:29:23.845196+00:00 |
 | [Long Live the Republic! (Long Live the Republic) 1080p CZ Titulky](https://prehraj.to/long-live-the-republic-long-live-the-republic-1080p-cz-titulky-mkv/02d7eee9b4e5b296) (ID 30999144) | [Sdílej 33879962](https://sdilej.cz/33879962/at-zije-republika.1965.bdrip.cz.1080p.mkv) | target_unavailable | 2026-11-12T06:03:01.957679+00:00 |
 | [Lunacy (Šílení) 1080p CZ Titulky](https://prehraj.to/lunacy-sileni-1080p-cz-titulky-mkv/822aea77a1ef13bd) (ID 30984494) | [Sdílej 32997472](https://sdilej.cz/32997472/sileni-2005-fhd-cz.mkv) | target_unavailable | 2026-11-10T16:37:13.878742+00:00 |
+| [Madly (FolleMente) 1080p CZ Titulky](https://prehraj.to/madly-follemente-1080p-cz-titulky-mkv/7249df21acb007e5) (ID 31020680) | [Sdílej 32445017](https://sdilej.cz/32445017/follemente-2025-cz.tit.mkv) | target_unavailable | 2026-11-13T22:56:03.120326+00:00 |
 | [Mission: Impossible III 1080p CZ Titulky](https://prehraj.to/mission-impossible-iii-1080p-cz-titulky-mkv/918c4a3183a14248) (ID 31000186) | [Sdílej 12223333](https://sdilej.cz/12223333/mission-impossible-iii.-2006.mkv) | target_unavailable | 2026-11-12T08:14:12.903553+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-10T09:49:48.668753+00:00 |
 | [Ms. President (Prezidentka) 1080p CZ Titulky](https://prehraj.to/ms-president-prezidentka-1080p-cz-titulky-mkv/49b673dbb3690970) (ID 31009923) | [Sdílej 30776190](https://sdilej.cz/30776190/prezidentka-2024-sk.mkv) | target_unavailable | 2026-11-13T06:57:23.658709+00:00 |
