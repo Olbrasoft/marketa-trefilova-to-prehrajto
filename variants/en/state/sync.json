@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-13T05:39:15.463022+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-13T06:10:04.102146+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-13T06:40:13.224003+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-13T07:10:22.591282+00:00"
         }
       ],
       "last_plan": {
@@ -3193,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-13T06:40:15.585773+00:00"
+        "planned_at": "2026-11-13T07:10:19.952419+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3201,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "00c89fabb4bb405b9939adf087b179f0-shard-0",
+        "claimed_at": "2026-11-13T07:10:20.194800+00:00",
+        "lease_expires_at": "2026-11-13T13:10:20.194800+00:00",
+        "run_id": "43371605577"
       }
     },
     "31551": {
@@ -39013,7 +39019,7 @@
       "last_plan": {
         "source_id": "26970393",
         "display_name": "The Night Comes for Us 1080p CZ Titulky",
-        "planned_at": "2026-11-13T07:10:17.028814+00:00"
+        "planned_at": "2026-11-13T07:10:20.116651+00:00"
       }
     },
     "19529": {
@@ -98562,5 +98568,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:10:17.028833+00:00"
+  "updated_at": "2026-11-13T07:10:22.591302+00:00"
 }
