@@ -149720,17 +149720,19 @@
       }
     },
     "14119": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29308027",
+          "target_video_id": "31020795",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:00:35.747529+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29308027",
         "display_name": "Murders in the Vercors (Le Pont des oubliés) SD CZ Dabing",
         "planned_at": "2026-11-13T22:59:20.254029+00:00"
-      },
-      "claim": {
-        "worker_id": "5570c2d5bec7487daa3712be073228b0-shard-0",
-        "claimed_at": "2026-11-13T22:59:23.762711+00:00",
-        "lease_expires_at": "2026-11-14T04:59:23.762711+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020795",
       "prepared": {
@@ -200894,5 +200896,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:00:34.252723+00:00"
+  "updated_at": "2026-11-13T23:00:35.747544+00:00"
 }
