@@ -100920,13 +100920,6 @@
           "source_id": "11696652",
           "target_video_id": "30966458",
           "permanent": false,
-          "attempted_at": "2026-11-13T05:49:14.753874+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11696652",
-          "target_video_id": "30966458",
-          "permanent": false,
           "attempted_at": "2026-11-13T07:05:18.026711+00:00"
         },
         {
@@ -100935,6 +100928,13 @@
           "target_video_id": "30966458",
           "permanent": false,
           "attempted_at": "2026-11-13T08:25:03.672948+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11696652",
+          "target_video_id": "30966458",
+          "permanent": false,
+          "attempted_at": "2026-11-13T10:52:01.108418+00:00"
         }
       ],
       "last_plan": {
@@ -137365,7 +137365,7 @@
       "last_plan": {
         "source_id": "34820686",
         "display_name": "Sun Never Again 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:25:03.096667+00:00"
+        "planned_at": "2026-11-13T10:51:59.307652+00:00"
       },
       "previous_target_id": "30987787",
       "prepared": {
@@ -137373,6 +137373,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-11T06:05:03.132393+00:00",
         "relay_source_id": "34820686"
+      },
+      "claim": {
+        "worker_id": "8476f64755c043c6bfea4309e6ea7df0-shard-0",
+        "claimed_at": "2026-11-13T10:52:00.178345+00:00",
+        "lease_expires_at": "2026-11-13T16:52:00.178345+00:00",
+        "run_id": "43408558477"
       }
     },
     "34598": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T10:51:56.500429+00:00"
+        "planned_at": "2026-11-13T10:51:59.645021+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T10:51:56.789236+00:00"
+  "updated_at": "2026-11-13T10:52:01.108439+00:00"
 }
