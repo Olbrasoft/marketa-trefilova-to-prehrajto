@@ -147494,17 +147494,19 @@
       }
     },
     "11319": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30531799",
+          "target_video_id": "31009170",
+          "permanent": false,
+          "attempted_at": "2026-11-13T05:31:27.858508+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30531799",
         "display_name": "The Battle of Port Arthur (二百三高地) 720p CZ Dabing",
         "planned_at": "2026-11-13T04:55:53.759157+00:00"
-      },
-      "claim": {
-        "worker_id": "0121fa0a55774693be16c031da3a1dd7-shard-0",
-        "claimed_at": "2026-11-13T04:55:54.298326+00:00",
-        "lease_expires_at": "2026-11-13T10:55:54.298326+00:00",
-        "run_id": "43339109036"
       },
       "previous_target_id": "31009170",
       "prepared": {
@@ -199037,5 +199039,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T05:12:20.429587+00:00"
+  "updated_at": "2026-11-13T05:31:27.858529+00:00"
 }
