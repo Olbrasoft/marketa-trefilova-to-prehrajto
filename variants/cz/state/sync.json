@@ -147646,17 +147646,19 @@
       }
     },
     "13695": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "14419594",
+          "target_video_id": "31009773",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:42:34.863562+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "14419594",
         "display_name": "Polumgla (Полумгла) SD CZ Dabing",
         "planned_at": "2026-11-13T06:28:04.296502+00:00"
-      },
-      "claim": {
-        "worker_id": "ef89c87c190346019d30ceb59263ff2a-shard-0",
-        "claimed_at": "2026-11-13T06:28:04.808167+00:00",
-        "lease_expires_at": "2026-11-13T12:28:04.808167+00:00",
-        "run_id": "43371605577"
       },
       "previous_target_id": "31009773",
       "prepared": {
@@ -199165,5 +199167,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:42:33.034104+00:00"
+  "updated_at": "2026-11-13T06:42:34.863581+00:00"
 }
