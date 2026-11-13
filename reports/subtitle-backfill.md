@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T00:32:03.447135+00:00
+Poslední aktualizace (UTC): 2026-11-13T00:32:11.482866+00:00
 
 Zkontrolováno videí: 678. Další stránka kontroly: 0.
 
@@ -32,7 +32,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 114. Důvo
 | [King Richard SD](https://prehraj.to/king-richard-sd-mp4/99fdf9d28d271972) (ID 30720567) | [Sdílej 18887803](https://sdilej.cz/18887803/king-richard-2021-hdcam.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-09T18:28:48.014933+00:00 |
 | [My Neighbor Totoro (となりのトトロ) 1080p](https://prehraj.to/my-neighbor-totoro-1080p-mkv/39fb70e4a11a0914) (ID 30620967) | [Sdílej 32534147](https://sdilej.cz/32534147/-animerg-my-neighbor-totoro-1988-multi-audio-1080p-x265-pseudo-.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-10-30T19:52:18.519868+00:00 |
 | [Ordet 1080p](https://prehraj.to/ordet-1080p-mkv/7699c14594ec8709) (ID 30622762) | [Sdílej 30646256](https://sdilej.cz/30646256/ordet.1955.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T21:57:44.402470+00:00 |
-| [PK (पीके) SD](https://prehraj.to/pk-sd-mp4/9e12e2312e1b1970) (ID 30622086) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T00:27:28.347777+00:00 |
+| [PK (पीके) SD](https://prehraj.to/pk-sd-mp4/9e12e2312e1b1970) (ID 30622086) | [Sdílej 34714281](https://sdilej.cz/34714281/pk-2014-cz.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T00:32:11.482730+00:00 |
 | [Panna a netvor 1080p CZ Titulky](https://prehraj.to/panna-a-netvor-1080p-cz-titulky-mkv/bf16da0097735594) (ID 30901163) | [Sdílej 33576531](https://sdilej.cz/33576531/panna-a-netvor-1978-fhd-cz-de.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-08T11:43:10.735460+00:00 |
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T03:02:22.678699+00:00 |
 | [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-07T00:08:47.955090+00:00 |
