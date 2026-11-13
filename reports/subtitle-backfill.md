@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T02:22:58.500055+00:00
+Poslední aktualizace (UTC): 2026-11-13T02:23:00.210089+00:00
 
 Zkontrolováno videí: 682. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 107, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 108, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -88,6 +88,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 115. Důvo
 | [Colonia (Colonia Dignidad – Es gibt kein Zurück) 1080p CZ Titulky](https://prehraj.to/colonia-colonia-dignidad-es-gibt-kein-zurueck-1080p-cz-titulky-mkv/86ea04feea99e611) (ID 30977898) | [Sdílej 34886157](https://sdilej.cz/34886157/colonia.2015.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-10T11:42:11.375214+00:00 |
 | [Conan the Barbarian (1982) 1080p CZ Titulky](https://prehraj.to/conan-the-barbarian-1982-1080p-cz-titulky-mkv/e587d1d606f14398) (ID 31005845) | [Sdílej 35402133](https://sdilej.cz/35402133/conan.the.barbarian.1982.1080p.bluray.h264.aac-rarbg.cz.sub.mkv) | target_unavailable | 2026-11-12T20:41:22.573123+00:00 |
 | [Empties (Vratné lahve) 1080p CZ Titulky](https://prehraj.to/empties-vratne-lahve-1080p-cz-titulky-mkv/2fa38051e9b275cf) (ID 30938020) | [Sdílej 32453722](https://sdilej.cz/32453722/vratne-lahve-2007-fhd-cz.mkv) | target_unavailable | 2026-11-10T09:41:16.438716+00:00 |
+| [Enemy Mine 1080p CZ Titulky](https://prehraj.to/enemy-mine-1080p-cz-titulky-mkv/7b6ef8f13c6edbc7) (ID 31008155) | [Sdílej 14778688](https://sdilej.cz/14778688/muj-nepritel-1080p.-1985-brrip-ac3.czdab.mkv) | target_unavailable | 2026-11-13T02:23:00.210004+00:00 |
 | [Erin Brockovich 1080p CZ Titulky](https://prehraj.to/erin-brockovich-1080p-cz-titulky-mkv/894daecd9c168ca1) (ID 30715404) | [Sdílej 19346570](https://sdilej.cz/19346570/erin.brockovich.2000.1080p.bluray.cz-en.5.1.mkv) | target_unavailable | 2026-11-10T09:49:25.124690+00:00 |
 | [Eternity 1080p CZ Titulky](https://prehraj.to/eternity-1080p-cz-titulky-mkv/d72f47d7a3f823ad) (ID 31007543) | [Sdílej 32702296](https://sdilej.cz/32702296/eternity-2025-1080p-cz.tit.mkv) | target_unavailable | 2026-11-13T00:32:03.276375+00:00 |
 | [Falcon Lake 1080p CZ Titulky](https://prehraj.to/falcon-lake-1080p-cz-titulky-mkv/1306a741b8099445) (ID 30997054) | [Sdílej 35401837](https://sdilej.cz/35401837/falcon.lake.2022.french.1080p.webrip.x264-vxt.fr.cz.tit.mkv) | target_unavailable | 2026-11-12T02:22:17.310556+00:00 |
