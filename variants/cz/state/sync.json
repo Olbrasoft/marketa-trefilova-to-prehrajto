@@ -132885,13 +132885,6 @@
           "source_id": "31712414",
           "target_video_id": "30987222",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:14:28.686283+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31712414",
-          "target_video_id": "30987222",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:30:50.364820+00:00"
         },
         {
@@ -132900,6 +132893,13 @@
           "target_video_id": "30987222",
           "permanent": false,
           "attempted_at": "2026-11-13T16:13:16.411386+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31712414",
+          "target_video_id": "30987222",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:23:24.161659+00:00"
         }
       ],
       "last_plan": {
@@ -142911,7 +142911,7 @@
       "last_plan": {
         "source_id": "32111003",
         "display_name": "Alemania 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:13:14.204734+00:00"
+        "planned_at": "2026-11-13T17:23:22.267056+00:00"
       },
       "previous_target_id": "30988596",
       "prepared": {
@@ -142919,6 +142919,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T08:51:15.384448+00:00",
         "relay_source_id": "32111003"
+      },
+      "claim": {
+        "worker_id": "c68a357382f44999a0a51f020d4e93d5-shard-0",
+        "claimed_at": "2026-11-13T17:23:23.191128+00:00",
+        "lease_expires_at": "2026-11-13T23:23:23.191128+00:00",
+        "run_id": "43442116051"
       }
     },
     "35611": {
@@ -148146,7 +148152,7 @@
       "last_plan": {
         "source_id": "32046879",
         "display_name": "Fainéant.e.s (Fainéant.es) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:23:19.494921+00:00"
+        "planned_at": "2026-11-13T17:23:22.651645+00:00"
       }
     },
     "16911": {
@@ -199556,5 +199562,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:23:19.494938+00:00"
+  "updated_at": "2026-11-13T17:23:24.161678+00:00"
 }
