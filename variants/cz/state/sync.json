@@ -110431,13 +110431,6 @@
           "source_id": "34788913",
           "target_video_id": "30983748",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:24:15.854905+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34788913",
-          "target_video_id": "30983748",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:12:45.263322+00:00"
         },
         {
@@ -110446,6 +110439,13 @@
           "target_video_id": "30983748",
           "permanent": false,
           "attempted_at": "2026-11-13T16:21:30.637844+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34788913",
+          "target_video_id": "30983748",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:30:49.794675+00:00"
         }
       ],
       "last_plan": {
@@ -119716,7 +119716,7 @@
       "last_plan": {
         "source_id": "21276911",
         "display_name": "The Dry 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:21:31.328642+00:00"
+        "planned_at": "2026-11-13T17:30:48.820152+00:00"
       },
       "previous_target_id": "30984970",
       "prepared": {
@@ -119724,6 +119724,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T18:23:47.293951+00:00",
         "relay_source_id": "21276911"
+      },
+      "claim": {
+        "worker_id": "06b231d1d1ec415da6d9269688d25941-shard-0",
+        "claimed_at": "2026-11-13T17:30:49.570950+00:00",
+        "lease_expires_at": "2026-11-13T23:30:49.570950+00:00",
+        "run_id": "43442116051"
       }
     },
     "2994": {
@@ -148175,7 +148181,7 @@
       "last_plan": {
         "source_id": "11948507",
         "display_name": "Ein Sommer in Südfrankreich SD CZ Dabing",
-        "planned_at": "2026-11-13T17:30:46.386515+00:00"
+        "planned_at": "2026-11-13T17:30:49.111799+00:00"
       }
     },
     "3241": {
@@ -199582,5 +199588,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:30:46.795175+00:00"
+  "updated_at": "2026-11-13T17:30:49.794776+00:00"
 }
