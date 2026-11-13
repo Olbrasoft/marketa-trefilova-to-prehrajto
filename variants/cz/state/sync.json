@@ -16465,13 +16465,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:25:55.070971+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-13T12:41:47.960319+00:00"
         },
         {
@@ -16480,6 +16473,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-13T13:57:36.110357+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:42:55.546385+00:00"
         }
       ],
       "last_plan": {
@@ -106203,7 +106203,7 @@
       "last_plan": {
         "source_id": "30045237",
         "display_name": "Man versus Ruin (Člověk proti zkáze) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T13:57:35.457492+00:00"
+        "planned_at": "2026-11-13T15:42:54.120917+00:00"
       },
       "previous_target_id": "30978930",
       "prepared": {
@@ -106211,6 +106211,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T12:08:41.122784+00:00",
         "relay_source_id": "30045237"
+      },
+      "claim": {
+        "worker_id": "017e106d322540aa88e5e89b16b60512-shard-0",
+        "claimed_at": "2026-11-13T15:42:55.187860+00:00",
+        "lease_expires_at": "2026-11-13T21:42:55.187860+00:00",
+        "run_id": "43442116051"
       }
     },
     "22815": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:42:51.858784+00:00"
+        "planned_at": "2026-11-13T15:42:54.409653+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:42:51.858802+00:00"
+  "updated_at": "2026-11-13T15:42:55.546403+00:00"
 }
