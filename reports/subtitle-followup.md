@@ -690,3 +690,4 @@ Attach subtitles only after target processing has finished.
 | Goya's Ghosts 1080p CZ Titulky | 31010194 | https://sdilej.cz/34683084/goyovy-prizraky-drama-j.bardem-n.-portman-2006-cztit.1080p.bluray.mkv | Extract Czech track from exact source after processing |
 | The Thomas Crown Affair (1968) 1080p CZ Titulky | 31010662 | https://sdilej.cz/11447322/pripad-thomase-crowna-the-thomas-crown-affair-1968-czen-1080phd-.mkv | Extract Czech track from exact source after processing |
 | The Trip (I onde dager) (2021) 1080p CZ Titulky | 31011633 | https://sdilej.cz/18710569/cesta-za-smirenim-2021-5.1-nor-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Thelma (2024) 1080p CZ Titulky | 31011855 | https://sdilej.cz/29624808/thelma.2024.1080p.amzn.web-dl.ddp5.1.h.264-leon.-en-subs-cz-en-.mkv | Extract Czech track from exact source after processing |
