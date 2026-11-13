@@ -111438,13 +111438,6 @@
           "source_id": "35073576",
           "target_video_id": "30983807",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:37:46.445595+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35073576",
-          "target_video_id": "30983807",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:45:07.516514+00:00"
         },
         {
@@ -111453,6 +111446,13 @@
           "target_video_id": "30983807",
           "permanent": false,
           "attempted_at": "2026-11-13T19:01:19.669554+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35073576",
+          "target_video_id": "30983807",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:22:09.028984+00:00"
         }
       ],
       "last_plan": {
@@ -111466,12 +111466,6 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T14:51:07.924459+00:00",
         "relay_source_id": "35073576"
-      },
-      "claim": {
-        "worker_id": "08ad193b01ea4483a0d515f834854c1c-shard-0",
-        "claimed_at": "2026-11-13T20:22:06.292073+00:00",
-        "lease_expires_at": "2026-11-14T02:22:06.292073+00:00",
-        "run_id": "43482054430"
       }
     },
     "12571": {
@@ -118479,7 +118473,7 @@
       "last_plan": {
         "source_id": "29278547",
         "display_name": "Life (1999) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:01:09.499571+00:00"
+        "planned_at": "2026-11-13T20:22:08.405238+00:00"
       },
       "previous_target_id": "30984864",
       "prepared": {
@@ -118487,6 +118481,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "03b9c43b47c648f0aa57c2ef4c88ec5b-shard-0",
+        "claimed_at": "2026-11-13T20:22:08.865172+00:00",
+        "lease_expires_at": "2026-11-14T02:22:08.865172+00:00",
+        "run_id": "43482054430"
       }
     },
     "12374": {
@@ -148671,7 +148671,7 @@
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
-        "planned_at": "2026-11-13T20:22:06.012621+00:00"
+        "planned_at": "2026-11-13T20:22:08.602034+00:00"
       }
     },
     "28902": {
@@ -200023,5 +200023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:22:06.842766+00:00"
+  "updated_at": "2026-11-13T20:22:09.029005+00:00"
 }
