@@ -6979,7 +6979,7 @@
       "last_plan": {
         "source_id": "31074308",
         "display_name": "Her 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:56:37.313255+00:00"
+        "planned_at": "2026-11-13T04:05:31.347133+00:00"
       },
       "previous_target_id": "30626698",
       "prepared": {
@@ -6987,6 +6987,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "5920b64e2e4044ecb6eedfebab4b6b24-shard-0",
+        "claimed_at": "2026-11-13T04:05:31.781661+00:00",
+        "lease_expires_at": "2026-11-13T10:05:31.781661+00:00",
+        "run_id": "43339109036"
       }
     },
     "321": {
@@ -140743,13 +140749,6 @@
           "source_id": "34720000",
           "target_video_id": "30988159",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:52:39.272272+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34720000",
-          "target_video_id": "30988159",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:49:00.466410+00:00"
         },
         {
@@ -140758,6 +140757,13 @@
           "target_video_id": "30988159",
           "permanent": false,
           "attempted_at": "2026-11-13T02:56:35.968720+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34720000",
+          "target_video_id": "30988159",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:05:31.945669+00:00"
         }
       ],
       "last_plan": {
@@ -140771,12 +140777,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T07:43:08.881258+00:00",
         "relay_source_id": "34720000"
-      },
-      "claim": {
-        "worker_id": "f6db86d165814631865044049dcc4011-shard-0",
-        "claimed_at": "2026-11-13T04:05:29.744300+00:00",
-        "lease_expires_at": "2026-11-13T10:05:29.744300+00:00",
-        "run_id": "43339109036"
       }
     },
     "24478": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:05:29.514284+00:00"
+        "planned_at": "2026-11-13T04:05:31.543086+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:05:29.901668+00:00"
+  "updated_at": "2026-11-13T04:05:31.945681+00:00"
 }
