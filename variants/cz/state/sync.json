@@ -114848,13 +114848,6 @@
           "source_id": "32990693",
           "target_video_id": "30984319",
           "permanent": false,
-          "attempted_at": "2026-11-13T20:20:19.472411+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32990693",
-          "target_video_id": "30984319",
-          "permanent": false,
           "attempted_at": "2026-11-13T21:27:06.054574+00:00"
         },
         {
@@ -114863,6 +114856,13 @@
           "target_video_id": "30984319",
           "permanent": false,
           "attempted_at": "2026-11-13T22:27:44.742851+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32990693",
+          "target_video_id": "30984319",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:51:07.866929+00:00"
         }
       ],
       "last_plan": {
@@ -137722,7 +137722,7 @@
       "last_plan": {
         "source_id": "30246061",
         "display_name": "Na Svatém Kopečku SD CZ Dabing",
-        "planned_at": "2026-11-13T22:27:46.283386+00:00"
+        "planned_at": "2026-11-13T23:51:06.602279+00:00"
       },
       "previous_target_id": "30987831",
       "prepared": {
@@ -137730,6 +137730,12 @@
         "size_bytes": 866700000,
         "prepared_at": "2026-11-11T06:17:25.630283+00:00",
         "relay_source_id": "30246061"
+      },
+      "claim": {
+        "worker_id": "0a6bc182bbb14ecb8915e00a100c1eba-shard-0",
+        "claimed_at": "2026-11-13T23:51:07.529553+00:00",
+        "lease_expires_at": "2026-11-14T05:51:07.529553+00:00",
+        "run_id": "43526557198"
       }
     },
     "11699": {
@@ -150045,7 +150051,7 @@
       "last_plan": {
         "source_id": "30019433",
         "display_name": "The Hunley SD CZ Dabing",
-        "planned_at": "2026-11-13T23:51:03.501595+00:00"
+        "planned_at": "2026-11-13T23:51:06.959232+00:00"
       }
     },
     "4153": {
@@ -201147,5 +201153,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:51:03.968896+00:00"
+  "updated_at": "2026-11-13T23:51:07.866948+00:00"
 }
