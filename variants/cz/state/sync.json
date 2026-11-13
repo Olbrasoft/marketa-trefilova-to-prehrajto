@@ -118592,6 +118592,12 @@
         "size_bytes": 7100000000,
         "prepared_at": "2026-11-10T17:58:25.417113+00:00",
         "relay_source_id": "33873663"
+      },
+      "claim": {
+        "worker_id": "d8ed38adc0084496a20b2e731b50033f-shard-0",
+        "claimed_at": "2026-11-13T11:06:50.015710+00:00",
+        "lease_expires_at": "2026-11-13T17:06:50.015710+00:00",
+        "run_id": "43408558477"
       }
     },
     "3098": {
@@ -120038,13 +120044,6 @@
           "source_id": "14652595",
           "target_video_id": "30984996",
           "permanent": false,
-          "attempted_at": "2026-11-13T06:00:52.680275+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14652595",
-          "target_video_id": "30984996",
-          "permanent": false,
           "attempted_at": "2026-11-13T07:20:52.666428+00:00"
         },
         {
@@ -120053,6 +120052,13 @@
           "target_video_id": "30984996",
           "permanent": false,
           "attempted_at": "2026-11-13T08:44:55.287577+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14652595",
+          "target_video_id": "30984996",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:06:49.807172+00:00"
         }
       ],
       "last_plan": {
@@ -120066,12 +120072,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T18:28:45.684654+00:00",
         "relay_source_id": "14652595"
-      },
-      "claim": {
-        "worker_id": "877eec06798a45ad990e4c87c89652dd-shard-0",
-        "claimed_at": "2026-11-13T11:06:46.257856+00:00",
-        "lease_expires_at": "2026-11-13T17:06:46.257856+00:00",
-        "run_id": "43408558477"
       }
     },
     "23324": {
@@ -137642,7 +137642,7 @@
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:45:03.030927+00:00"
+        "planned_at": "2026-11-13T11:06:50.267754+00:00"
       },
       "previous_target_id": "30987815",
       "prepared": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T11:06:46.864876+00:00"
+        "planned_at": "2026-11-13T11:06:50.616669+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:06:47.489663+00:00"
+  "updated_at": "2026-11-13T11:06:50.616688+00:00"
 }
