@@ -149975,17 +149975,19 @@
       }
     },
     "6237": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34878616",
+          "target_video_id": "31021090",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:17:52.238179+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34878616",
         "display_name": "Přání Ježíškovi 1080p CZ Dabing",
         "planned_at": "2026-11-13T23:12:41.627573+00:00"
-      },
-      "claim": {
-        "worker_id": "4da028085623453b8151202e2fd57498-shard-0",
-        "claimed_at": "2026-11-13T23:12:42.156679+00:00",
-        "lease_expires_at": "2026-11-14T05:12:42.156679+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31021090",
       "prepared": {
@@ -201092,5 +201094,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:14:52.264270+00:00"
+  "updated_at": "2026-11-13T23:17:52.238193+00:00"
 }
