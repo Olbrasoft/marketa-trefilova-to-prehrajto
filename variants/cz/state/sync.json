@@ -122202,13 +122202,6 @@
           "source_id": "30248781",
           "target_video_id": "30985442",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:23:33.327697+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30248781",
-          "target_video_id": "30985442",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:53:06.630351+00:00"
         },
         {
@@ -122217,6 +122210,13 @@
           "target_video_id": "30985442",
           "permanent": false,
           "attempted_at": "2026-11-13T20:57:42.442905+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30248781",
+          "target_video_id": "30985442",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:01:25.985399+00:00"
         }
       ],
       "last_plan": {
@@ -136863,7 +136863,7 @@
       "last_plan": {
         "source_id": "29399903",
         "display_name": "Murder in Angoulême (Le Prix de la trahison) SD CZ Dabing",
-        "planned_at": "2026-11-13T20:57:41.689641+00:00"
+        "planned_at": "2026-11-13T22:01:25.040273+00:00"
       },
       "previous_target_id": "30987744",
       "prepared": {
@@ -136871,6 +136871,12 @@
         "size_bytes": 829700000,
         "prepared_at": "2026-11-11T05:53:04.545604+00:00",
         "relay_source_id": "29399903"
+      },
+      "claim": {
+        "worker_id": "3b3fb426c5b646b7b279470a567b4ddd-shard-0",
+        "claimed_at": "2026-11-13T22:01:25.523722+00:00",
+        "lease_expires_at": "2026-11-14T04:01:25.523722+00:00",
+        "run_id": "43482054430"
       }
     },
     "20710": {
@@ -149093,6 +149099,12 @@
         "source_id": "34693923",
         "display_name": "I Have Electric Dreams (Tengo sueños eléctricos) 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:01:22.657426+00:00"
+      },
+      "claim": {
+        "worker_id": "a8cf9e627cc04553ba72798e8a944264-shard-0",
+        "claimed_at": "2026-11-13T22:01:24.883179+00:00",
+        "lease_expires_at": "2026-11-14T04:01:24.883179+00:00",
+        "run_id": "43482054430"
       }
     },
     "21424": {
@@ -149100,7 +149112,7 @@
       "last_plan": {
         "source_id": "29910381",
         "display_name": "The Grand Maneuver (The Grand Manoeuvre) SD CZ Dabing",
-        "planned_at": "2026-11-13T22:01:22.779973+00:00"
+        "planned_at": "2026-11-13T22:01:25.243144+00:00"
       }
     },
     "10016": {
@@ -200366,5 +200378,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:01:22.949167+00:00"
+  "updated_at": "2026-11-13T22:01:25.985409+00:00"
 }
