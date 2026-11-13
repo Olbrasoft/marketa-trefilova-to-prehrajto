@@ -114885,13 +114885,6 @@
           "source_id": "6506542",
           "target_video_id": "30984339",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:46:19.009458+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6506542",
-          "target_video_id": "30984339",
-          "permanent": false,
           "attempted_at": "2026-11-13T12:59:09.468741+00:00"
         },
         {
@@ -114900,6 +114893,13 @@
           "target_video_id": "30984339",
           "permanent": false,
           "attempted_at": "2026-11-13T14:18:19.603323+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6506542",
+          "target_video_id": "30984339",
+          "permanent": false,
+          "attempted_at": "2026-11-13T15:59:05.937304+00:00"
         }
       ],
       "last_plan": {
@@ -130587,7 +130587,7 @@
       "last_plan": {
         "source_id": "34468790",
         "display_name": "A Hoof Here, a Hoof There (Kopytem sem, kopytem tam) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T14:18:18.950338+00:00"
+        "planned_at": "2026-11-13T15:59:04.682669+00:00"
       },
       "previous_target_id": "30986934",
       "prepared": {
@@ -130595,6 +130595,12 @@
         "size_bytes": 6800000000,
         "prepared_at": "2026-11-11T02:44:39.784842+00:00",
         "relay_source_id": "34468790"
+      },
+      "claim": {
+        "worker_id": "f67f12be340b4f4f9dff8681b8b3b999-shard-0",
+        "claimed_at": "2026-11-13T15:59:05.629597+00:00",
+        "lease_expires_at": "2026-11-13T21:59:05.629597+00:00",
+        "run_id": "43442116051"
       }
     },
     "2767": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T15:59:00.747576+00:00"
+        "planned_at": "2026-11-13T15:59:05.158969+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:59:00.995786+00:00"
+  "updated_at": "2026-11-13T15:59:05.937324+00:00"
 }
