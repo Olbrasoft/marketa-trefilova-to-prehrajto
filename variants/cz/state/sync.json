@@ -122473,13 +122473,6 @@
           "source_id": "34194238",
           "target_video_id": "30985468",
           "permanent": false,
-          "attempted_at": "2026-11-13T12:14:53.711340+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34194238",
-          "target_video_id": "30985468",
-          "permanent": false,
           "attempted_at": "2026-11-13T13:30:27.526992+00:00"
         },
         {
@@ -122488,6 +122481,13 @@
           "target_video_id": "30985468",
           "permanent": false,
           "attempted_at": "2026-11-13T15:17:10.819167+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34194238",
+          "target_video_id": "30985468",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:27:18.402854+00:00"
         }
       ],
       "last_plan": {
@@ -135758,7 +135758,7 @@
       "last_plan": {
         "source_id": "12050581",
         "display_name": "O moudré Sorfarine SD CZ Dabing",
-        "planned_at": "2026-11-13T15:17:10.106498+00:00"
+        "planned_at": "2026-11-13T16:27:17.097524+00:00"
       },
       "previous_target_id": "30987618",
       "prepared": {
@@ -135766,6 +135766,12 @@
         "size_bytes": 734200000,
         "prepared_at": "2026-11-11T05:27:15.167916+00:00",
         "relay_source_id": "12050581"
+      },
+      "claim": {
+        "worker_id": "6339d95c7e1d4807b011076e0a49b197-shard-0",
+        "claimed_at": "2026-11-13T16:27:18.002127+00:00",
+        "lease_expires_at": "2026-11-13T22:27:18.002127+00:00",
+        "run_id": "43442116051"
       }
     },
     "29360": {
@@ -147806,11 +147812,22 @@
       "last_plan": {
         "source_id": "35072583",
         "display_name": "Italians Do It Better (Uomini da marciapiede) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:27:14.419417+00:00"
+        "planned_at": "2026-11-13T16:27:17.373393+00:00"
+      },
+      "claim": {
+        "worker_id": "734d9f0582f448ba9d4c46e150ccd407-shard-0",
+        "claimed_at": "2026-11-13T16:27:18.186406+00:00",
+        "lease_expires_at": "2026-11-13T22:27:18.186406+00:00",
+        "run_id": "43442116051"
       }
     },
     "16953": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "22887534",
+        "display_name": "Quiet Freedom (Ein großes Versprechen) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T16:27:17.585838+00:00"
+      }
     },
     "13260": {
       "attempts": []
@@ -199285,5 +199302,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:27:14.658877+00:00"
+  "updated_at": "2026-11-13T16:27:18.402876+00:00"
 }
