@@ -133543,6 +133543,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T04:16:35.918680+00:00",
         "relay_source_id": "9621938"
+      },
+      "claim": {
+        "worker_id": "ca41ac2fa8d14666bc71444dc4a0818c-shard-0",
+        "claimed_at": "2026-11-13T21:36:17.929814+00:00",
+        "lease_expires_at": "2026-11-14T03:36:17.929814+00:00",
+        "run_id": "43482054430"
       }
     },
     "36732": {
@@ -134442,13 +134448,6 @@
           "source_id": "28002899",
           "target_video_id": "30987491",
           "permanent": false,
-          "attempted_at": "2026-11-13T17:50:39.199516+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28002899",
-          "target_video_id": "30987491",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:21:48.778671+00:00"
         },
         {
@@ -134457,6 +134456,13 @@
           "target_video_id": "30987491",
           "permanent": false,
           "attempted_at": "2026-11-13T20:27:18.868717+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28002899",
+          "target_video_id": "30987491",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:36:18.464465+00:00"
         }
       ],
       "last_plan": {
@@ -134470,12 +134476,6 @@
         "size_bytes": 986500000,
         "prepared_at": "2026-11-11T04:56:40.021432+00:00",
         "relay_source_id": "28002899"
-      },
-      "claim": {
-        "worker_id": "a45b7e675f10446aa2824b329a6703bf-shard-0",
-        "claimed_at": "2026-11-13T21:36:16.050285+00:00",
-        "lease_expires_at": "2026-11-14T03:36:16.050285+00:00",
-        "run_id": "43482054430"
       }
     },
     "15210": {
@@ -136204,7 +136204,7 @@
       "last_plan": {
         "source_id": "34781942",
         "display_name": "Alinas Traum SD CZ Dabing",
-        "planned_at": "2026-11-13T20:27:22.033795+00:00"
+        "planned_at": "2026-11-13T21:36:18.086685+00:00"
       },
       "previous_target_id": "30987667",
       "prepared": {
@@ -148848,7 +148848,7 @@
       "last_plan": {
         "source_id": "34710745",
         "display_name": "Kovář z Podlesí (The Blacksmith from Woodham) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:36:16.406218+00:00"
+        "planned_at": "2026-11-13T21:36:18.287645+00:00"
       }
     },
     "4307": {
@@ -200162,5 +200162,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:36:16.406230+00:00"
+  "updated_at": "2026-11-13T21:36:18.464479+00:00"
 }
