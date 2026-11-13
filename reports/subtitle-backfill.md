@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T06:57:21.862284+00:00
+Poslední aktualizace (UTC): 2026-11-13T06:57:23.658849+00:00
 
 Zkontrolováno videí: 686. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 111, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 112, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -124,6 +124,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 121. Důvo
 | [Lunacy (Šílení) 1080p CZ Titulky](https://prehraj.to/lunacy-sileni-1080p-cz-titulky-mkv/822aea77a1ef13bd) (ID 30984494) | [Sdílej 32997472](https://sdilej.cz/32997472/sileni-2005-fhd-cz.mkv) | target_unavailable | 2026-11-10T16:37:13.878742+00:00 |
 | [Mission: Impossible III 1080p CZ Titulky](https://prehraj.to/mission-impossible-iii-1080p-cz-titulky-mkv/918c4a3183a14248) (ID 31000186) | [Sdílej 12223333](https://sdilej.cz/12223333/mission-impossible-iii.-2006.mkv) | target_unavailable | 2026-11-12T08:14:12.903553+00:00 |
 | [Monsters, Inc. 1080p CZ Titulky](https://prehraj.to/monsters-inc-1080p-cz-titulky-mkv/e9cb96c4f3275984) (ID 30614354) | [Sdílej 27782789](https://sdilej.cz/27782789/monsters-inc.-priserky.s.r.o.-.mkv) | target_unavailable | 2026-11-10T09:49:48.668753+00:00 |
+| [Ms. President (Prezidentka) 1080p CZ Titulky](https://prehraj.to/ms-president-prezidentka-1080p-cz-titulky-mkv/49b673dbb3690970) (ID 31009923) | [Sdílej 30776190](https://sdilej.cz/30776190/prezidentka-2024-sk.mkv) | target_unavailable | 2026-11-13T06:57:23.658709+00:00 |
 | [National Treasure 1080p CZ Titulky](https://prehraj.to/national-treasure-1080p-cz-titulky-mkv/a65abfbf3098895d) (ID 31001064) | [Sdílej 34237563](https://sdilej.cz/34237563/lovci-pokladu-2004-1080p-en-cz-sk-dab.mkv) | target_unavailable | 2026-11-12T10:14:50.776266+00:00 |
 | [Ninja in the Dragon's Den 1080p CZ Titulky](https://prehraj.to/ninja-in-the-dragon-s-den-1080p-cz-titulky-mkv/82c83f21529e1287) (ID 30983315) | [Sdílej 30986611](https://sdilej.cz/30986611/ninja.in.the.dragon-s.den.ninja.komando1982.eridanus.1080.bluray.cz.eng.ru.chin.mkv) | target_unavailable | 2026-11-10T14:06:05.858879+00:00 |
 | [Once Upon a Deadpool SD CZ Titulky](https://prehraj.to/once-upon-a-deadpool-sd-cz-titulky-mkv/87a8d248a0d82245) (ID 30990381) | [Sdílej 11183990](https://sdilej.cz/11183990/once-upon-a-deadpool-2018-titulky.cz.mkv) | target_unavailable | 2026-11-11T13:28:18.261248+00:00 |
