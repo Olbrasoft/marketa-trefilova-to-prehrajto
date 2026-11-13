@@ -118706,6 +118706,12 @@
         "size_bytes": 6200000000,
         "prepared_at": "2026-11-10T17:59:53.843118+00:00",
         "relay_source_id": "14091913"
+      },
+      "claim": {
+        "worker_id": "c76b24c1b94542e7bee68c75ddae39b5-shard-0",
+        "claimed_at": "2026-11-13T17:44:01.733548+00:00",
+        "lease_expires_at": "2026-11-13T23:44:01.733548+00:00",
+        "run_id": "43442116051"
       }
     },
     "22616": {
@@ -123506,13 +123512,6 @@
           "source_id": "34504671",
           "target_video_id": "30985585",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:40:31.911101+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34504671",
-          "target_video_id": "30985585",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:23:37.649922+00:00"
         },
         {
@@ -123521,6 +123520,13 @@
           "target_video_id": "30985585",
           "permanent": false,
           "attempted_at": "2026-11-13T16:36:32.811854+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34504671",
+          "target_video_id": "30985585",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:44:02.613212+00:00"
         }
       ],
       "last_plan": {
@@ -123534,12 +123540,6 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T20:33:50.677706+00:00",
         "relay_source_id": "34504671"
-      },
-      "claim": {
-        "worker_id": "261e9326d47446d3aa52249ec7244aea-shard-0",
-        "claimed_at": "2026-11-13T17:43:59.319393+00:00",
-        "lease_expires_at": "2026-11-13T23:43:59.319393+00:00",
-        "run_id": "43442116051"
       }
     },
     "30094": {
@@ -131951,7 +131951,7 @@
       "last_plan": {
         "source_id": "30658031",
         "display_name": "In the Still of the Night (Za tichých nocí) SD CZ Dabing",
-        "planned_at": "2026-11-13T16:36:34.814553+00:00"
+        "planned_at": "2026-11-13T17:44:02.015419+00:00"
       },
       "previous_target_id": "30987086",
       "prepared": {
@@ -148270,7 +148270,7 @@
       "last_plan": {
         "source_id": "34721069",
         "display_name": "Every Body 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:43:59.849932+00:00"
+        "planned_at": "2026-11-13T17:44:02.299162+00:00"
       }
     },
     "17001": {
@@ -199668,5 +199668,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:43:59.849952+00:00"
+  "updated_at": "2026-11-13T17:44:02.613239+00:00"
 }
