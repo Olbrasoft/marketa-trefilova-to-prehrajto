@@ -2035,6 +2035,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-10-31T19:23:37.195550+00:00",
         "relay_source_id": "22817696"
+      },
+      "claim": {
+        "worker_id": "bcd35296f1b34f2e8648ad6d34ed1f17-shard-0",
+        "claimed_at": "2026-11-13T11:03:11.260588+00:00",
+        "lease_expires_at": "2026-11-13T17:03:11.260588+00:00",
+        "run_id": "43408558477"
       }
     },
     "107": {
@@ -9870,13 +9876,6 @@
           "source_id": "28240998",
           "target_video_id": "30664033",
           "permanent": false,
-          "attempted_at": "2026-11-13T08:39:23.618444+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28240998",
-          "target_video_id": "30664033",
-          "permanent": false,
           "attempted_at": "2026-11-13T09:09:32.999961+00:00"
         },
         {
@@ -9885,6 +9884,13 @@
           "target_video_id": "30664033",
           "permanent": false,
           "attempted_at": "2026-11-13T10:32:59.152775+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28240998",
+          "target_video_id": "30664033",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:03:11.365257+00:00"
         }
       ],
       "last_plan": {
@@ -9898,12 +9904,6 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
-      },
-      "claim": {
-        "worker_id": "1f1ee5c7511c4a728718b7bca8697082-shard-0",
-        "claimed_at": "2026-11-13T11:03:08.210853+00:00",
-        "lease_expires_at": "2026-11-13T17:03:08.210853+00:00",
-        "run_id": "43408558477"
       }
     },
     "601": {
@@ -24203,7 +24203,7 @@
       "last_plan": {
         "source_id": "34220031",
         "display_name": "Chocolat (2000) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T10:33:03.813230+00:00"
+        "planned_at": "2026-11-13T11:03:12.167948+00:00"
       },
       "previous_target_id": "30859204",
       "prepared": {
@@ -39192,7 +39192,7 @@
       "last_plan": {
         "source_id": "29624808",
         "display_name": "Thelma (2024) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T11:03:09.450887+00:00"
+        "planned_at": "2026-11-13T11:03:12.443932+00:00"
       }
     },
     "23010": {
@@ -98707,5 +98707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:03:09.450905+00:00"
+  "updated_at": "2026-11-13T11:03:12.443949+00:00"
 }
