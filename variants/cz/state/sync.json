@@ -133303,13 +133303,6 @@
           "source_id": "34634312",
           "target_video_id": "30987300",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:41:07.452706+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34634312",
-          "target_video_id": "30987300",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:24:11.167438+00:00"
         },
         {
@@ -133318,6 +133311,13 @@
           "target_video_id": "30987300",
           "permanent": false,
           "attempted_at": "2026-11-13T16:37:08.143365+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34634312",
+          "target_video_id": "30987300",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:44:27.489496+00:00"
         }
       ],
       "last_plan": {
@@ -133331,12 +133331,6 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-11T04:12:13.439303+00:00",
         "relay_source_id": "34634312"
-      },
-      "claim": {
-        "worker_id": "ccecb8a7c30342babb412e00eaea6449-shard-0",
-        "claimed_at": "2026-11-13T17:44:25.035757+00:00",
-        "lease_expires_at": "2026-11-13T23:44:25.035757+00:00",
-        "run_id": "43442116051"
       }
     },
     "33149": {
@@ -134351,7 +134345,7 @@
       "last_plan": {
         "source_id": "30622989",
         "display_name": "Concert at the End of Summer (Koncert na konci léta) SD CZ Dabing",
-        "planned_at": "2026-11-13T16:37:06.114425+00:00"
+        "planned_at": "2026-11-13T17:44:26.729360+00:00"
       },
       "previous_target_id": "30987471",
       "prepared": {
@@ -148270,11 +148264,16 @@
       "last_plan": {
         "source_id": "34721069",
         "display_name": "Every Body 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:44:22.373634+00:00"
+        "planned_at": "2026-11-13T17:44:27.081645+00:00"
       }
     },
     "17001": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34695488",
+        "display_name": "Amor Viajero 1080p CZ Dabing",
+        "planned_at": "2026-11-13T17:44:27.677434+00:00"
+      }
     },
     "27991": {
       "attempts": []
@@ -199668,5 +199667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:44:25.035784+00:00"
+  "updated_at": "2026-11-13T17:44:27.677452+00:00"
 }
