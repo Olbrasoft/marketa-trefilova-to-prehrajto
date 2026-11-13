@@ -112793,13 +112793,6 @@
           "source_id": "34721047",
           "target_video_id": "30983966",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:59:48.672956+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34721047",
-          "target_video_id": "30983966",
-          "permanent": false,
           "attempted_at": "2026-11-13T21:04:23.616814+00:00"
         },
         {
@@ -112808,12 +112801,19 @@
           "target_video_id": "30983966",
           "permanent": false,
           "attempted_at": "2026-11-13T22:07:21.199039+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34721047",
+          "target_video_id": "30983966",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:11:10.696363+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34721047",
         "display_name": "Pongo Calling 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:07:18.123183+00:00"
+        "planned_at": "2026-11-13T23:11:08.705060+00:00"
       },
       "previous_target_id": "30983966",
       "prepared": {
@@ -149948,11 +149948,22 @@
       "last_plan": {
         "source_id": "31624427",
         "display_name": "One Hand Can't Clap (Jedna ruka netleská) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:11:04.181941+00:00"
+        "planned_at": "2026-11-13T23:11:08.929945+00:00"
+      },
+      "claim": {
+        "worker_id": "49c3d43fe9324f88894cb216a5b409a3-shard-0",
+        "claimed_at": "2026-11-13T23:11:09.445623+00:00",
+        "lease_expires_at": "2026-11-14T05:11:09.445623+00:00",
+        "run_id": "43482054430"
       }
     },
     "6237": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34878616",
+        "display_name": "Přání Ježíškovi 1080p CZ Dabing",
+        "planned_at": "2026-11-13T23:11:09.065330+00:00"
+      }
     },
     "12629": {
       "attempts": []
@@ -201046,5 +201057,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:11:06.851641+00:00"
+  "updated_at": "2026-11-13T23:11:10.696376+00:00"
 }
