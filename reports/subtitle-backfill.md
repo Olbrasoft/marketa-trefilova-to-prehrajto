@@ -1,6 +1,6 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T04:33:26.345487+00:00
+Poslední aktualizace (UTC): 2026-11-13T04:33:35.604362+00:00
 
 Zkontrolováno videí: 684. Další stránka kontroly: 0.
 
@@ -36,7 +36,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 122. Důvo
 | [Panna a netvor 1080p CZ Titulky](https://prehraj.to/panna-a-netvor-1080p-cz-titulky-mkv/bf16da0097735594) (ID 30901163) | [Sdílej 33576531](https://sdilej.cz/33576531/panna-a-netvor-1978-fhd-cz-de.mkv) | Titulky už existují, ale jejich jazyk není spolehlivě určen; bez automatického zásahu. | 2026-11-08T11:43:10.735460+00:00 |
 | [Pulp Fiction 4K CZ Titulky](https://prehraj.to/pulp-fiction-cz-titulky-mkv/fb0b1bccb52756c3) (ID 30583711) | [Sdílej 32925539](https://sdilej.cz/32925539/pulp-fiction-1994-cz-en-radecek.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T03:02:22.678699+00:00 |
 | [Raise the Red Lantern (大红灯笼高高挂) 1080p](https://prehraj.to/raise-the-red-lantern-1080p-mkv/a1807a9d51d5299a) (ID 30623110) | [Sdílej 32450707](https://sdilej.cz/32450707/raise-the-red-lantern-1991-1080p-bluray-x264-oft.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-07T00:08:47.955090+00:00 |
-| [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T04:31:39.968947+00:00 |
+| [Ran (乱) SD](https://prehraj.to/ran-mp4/57f166396045cde6) (ID 30612365) | [Sdílej 33590630](https://sdilej.cz/33590630/ran-1985-tit.mp4) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-13T04:33:35.604226+00:00 |
 | [Room 1080p CZ Titulky](https://prehraj.to/room-1080p-cz-titulky-mkv/51fa6213b2485412) (ID 30620863) | [Sdílej 14738718](https://sdilej.cz/14738718/doom.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-06T20:36:43.618284+00:00 |
 | [Searching for Sugar Man 720p](https://prehraj.to/searching-for-sugar-man-mkv/2f5ae32aac297bc1) (ID 30612744) | [Sdílej 28991356](https://sdilej.cz/28991356/searching.for.sugar.man.2012.720p.brrip.x264.ac3-jyk.mkv) | Původní soubor nemá samostatnou českou titulkovou stopu. | 2026-11-06T05:52:20.243481+00:00 |
 | [Seven (Se7en) 1080p CZ Titulky](https://prehraj.to/seven-se7en-cz-titulky-mkv/0918cbf833ec4f4a) (ID 30585843) | [Sdílej 23150049](https://sdilej.cz/23150049/sedm-se7en-1995-cz-1080p-hevc-.mkv) | Česká stopa je obrazová, pouze vynucená nebo v nepodporovaném formátu. | 2026-11-12T03:02:31.856431+00:00 |
