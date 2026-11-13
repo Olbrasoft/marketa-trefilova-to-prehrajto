@@ -139393,7 +139393,7 @@
       "last_plan": {
         "source_id": "34851292",
         "display_name": "Všichni do jednoho SD CZ Dabing",
-        "planned_at": "2026-11-13T03:17:57.954679+00:00"
+        "planned_at": "2026-11-13T04:22:30.168469+00:00"
       },
       "previous_target_id": "30987959",
       "prepared": {
@@ -139401,6 +139401,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T07:02:48.744492+00:00",
         "relay_source_id": "34851292"
+      },
+      "claim": {
+        "worker_id": "99b0c85e1e8d451c90781526c302b980-shard-0",
+        "claimed_at": "2026-11-13T04:22:30.765109+00:00",
+        "lease_expires_at": "2026-11-13T10:22:30.765109+00:00",
+        "run_id": "43339109036"
       }
     },
     "12780": {
@@ -143247,13 +143253,6 @@
           "source_id": "34786206",
           "target_video_id": "30988632",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:17:50.476714+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34786206",
-          "target_video_id": "30988632",
-          "permanent": false,
           "attempted_at": "2026-11-13T02:03:59.949266+00:00"
         },
         {
@@ -143262,6 +143261,13 @@
           "target_video_id": "30988632",
           "permanent": false,
           "attempted_at": "2026-11-13T03:17:24.742527+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34786206",
+          "target_video_id": "30988632",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:22:30.632364+00:00"
         }
       ],
       "last_plan": {
@@ -143275,12 +143281,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T09:00:32.047834+00:00",
         "relay_source_id": "34786206"
-      },
-      "claim": {
-        "worker_id": "f7eb0f8719824395a61881aa5ce1c694-shard-0",
-        "claimed_at": "2026-11-13T04:22:25.291507+00:00",
-        "lease_expires_at": "2026-11-13T10:22:25.291507+00:00",
-        "run_id": "43339109036"
       }
     },
     "13448": {
@@ -147457,7 +147457,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:22:24.884301+00:00"
+        "planned_at": "2026-11-13T04:22:30.367011+00:00"
       }
     },
     "11319": {
@@ -198986,5 +198986,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:22:25.291534+00:00"
+  "updated_at": "2026-11-13T04:22:30.765130+00:00"
 }
