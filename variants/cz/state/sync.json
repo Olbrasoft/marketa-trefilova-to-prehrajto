@@ -109880,13 +109880,6 @@
           "source_id": "29678156",
           "target_video_id": "30983692",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:23:58.946785+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29678156",
-          "target_video_id": "30983692",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:53:23.098333+00:00"
         },
         {
@@ -109895,6 +109888,13 @@
           "target_video_id": "30983692",
           "permanent": false,
           "attempted_at": "2026-11-13T20:57:53.541338+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29678156",
+          "target_video_id": "30983692",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:01:42.032948+00:00"
         }
       ],
       "last_plan": {
@@ -109908,12 +109908,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-10T14:35:23.576048+00:00",
         "relay_source_id": "29678156"
-      },
-      "claim": {
-        "worker_id": "4b8203f0c45244718424f00319a32d91-shard-0",
-        "claimed_at": "2026-11-13T22:01:38.719621+00:00",
-        "lease_expires_at": "2026-11-14T04:01:38.719621+00:00",
-        "run_id": "43482054430"
       }
     },
     "12054": {
@@ -134009,7 +134003,7 @@
       "last_plan": {
         "source_id": "34902528",
         "display_name": "Lisáci-Mysáci a Sibenicák (Lišáci – Myšáci a Šibeničák) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T20:57:57.339646+00:00"
+        "planned_at": "2026-11-13T22:01:41.372730+00:00"
       },
       "previous_target_id": "30987386",
       "prepared": {
@@ -134017,6 +134011,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T04:28:24.558373+00:00",
         "relay_source_id": "34902528"
+      },
+      "claim": {
+        "worker_id": "12c64d5f5a7b4dcdbc3332894f4a867b-shard-0",
+        "claimed_at": "2026-11-13T22:01:41.836532+00:00",
+        "lease_expires_at": "2026-11-14T04:01:41.836532+00:00",
+        "run_id": "43482054430"
       }
     },
     "30560": {
@@ -149119,7 +149119,7 @@
       "last_plan": {
         "source_id": "29910381",
         "display_name": "The Grand Maneuver (The Grand Manoeuvre) SD CZ Dabing",
-        "planned_at": "2026-11-13T22:01:38.433442+00:00"
+        "planned_at": "2026-11-13T22:01:41.588937+00:00"
       }
     },
     "10016": {
@@ -200385,5 +200385,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:01:39.548209+00:00"
+  "updated_at": "2026-11-13T22:01:42.032962+00:00"
 }
