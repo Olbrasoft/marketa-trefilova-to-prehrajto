@@ -29920,13 +29920,6 @@
           "source_id": "34850732",
           "target_video_id": "30723078",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:51:17.730346+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34850732",
-          "target_video_id": "30723078",
-          "permanent": false,
           "attempted_at": "2026-11-13T13:07:01.641885+00:00"
         },
         {
@@ -29935,6 +29928,13 @@
           "target_video_id": "30723078",
           "permanent": false,
           "attempted_at": "2026-11-13T14:23:29.640307+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34850732",
+          "target_video_id": "30723078",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:06:16.855256+00:00"
         }
       ],
       "last_plan": {
@@ -56130,7 +56130,7 @@
       "last_plan": {
         "source_id": "32042477",
         "display_name": "The Physician 1080p CZ Dabing",
-        "planned_at": "2026-11-13T14:23:28.291706+00:00"
+        "planned_at": "2026-11-13T16:06:15.572621+00:00"
       },
       "previous_target_id": "30784526",
       "prepared": {
@@ -56138,6 +56138,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-04T11:23:58.909175+00:00",
         "relay_source_id": "32042477"
+      },
+      "claim": {
+        "worker_id": "b7f0b2740d1e435086ccb58806168755-shard-0",
+        "claimed_at": "2026-11-13T16:06:16.626724+00:00",
+        "lease_expires_at": "2026-11-13T22:06:16.626724+00:00",
+        "run_id": "43442116051"
       }
     },
     "24818": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:06:12.931426+00:00"
+        "planned_at": "2026-11-13T16:06:15.849580+00:00"
       }
     },
     "19216": {
@@ -147742,7 +147748,7 @@
       "last_plan": {
         "source_id": "31795189",
         "display_name": "Julia(s) (Le Tourbillon de la vie) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:05:53.910148+00:00"
+        "planned_at": "2026-11-13T16:06:16.047124+00:00"
       }
     },
     "37202": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:06:12.931445+00:00"
+  "updated_at": "2026-11-13T16:06:16.855275+00:00"
 }
