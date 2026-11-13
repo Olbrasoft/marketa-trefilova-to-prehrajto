@@ -11477,13 +11477,6 @@
           "source_id": "26167173",
           "target_video_id": "30682158",
           "permanent": false,
-          "attempted_at": "2026-11-13T17:36:20.173205+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26167173",
-          "target_video_id": "30682158",
-          "permanent": false,
           "attempted_at": "2026-11-13T18:06:31.000671+00:00"
         },
         {
@@ -11492,6 +11485,13 @@
           "target_video_id": "30682158",
           "permanent": false,
           "attempted_at": "2026-11-13T18:36:42.604109+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26167173",
+          "target_video_id": "30682158",
+          "permanent": false,
+          "attempted_at": "2026-11-13T19:16:45.076303+00:00"
         }
       ],
       "last_plan": {
@@ -40043,7 +40043,7 @@
       "last_plan": {
         "source_id": "34972763",
         "display_name": "C'est la vie! (Le Sens de la fête) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T18:36:44.916808+00:00"
+        "planned_at": "2026-11-13T19:16:43.887013+00:00"
       },
       "previous_target_id": "31014523",
       "prepared": {
@@ -40051,6 +40051,12 @@
         "size_bytes": 8800000000,
         "prepared_at": "2026-11-13T15:47:18.315838+00:00",
         "relay_source_id": "34972763"
+      },
+      "claim": {
+        "worker_id": "79e8db8930ff465ba1b27fe456601fce-shard-0",
+        "claimed_at": "2026-11-13T19:16:44.081066+00:00",
+        "lease_expires_at": "2026-11-14T01:16:44.081066+00:00",
+        "run_id": "43482054430"
       }
     },
     "23920": {
@@ -99394,5 +99400,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T19:16:41.724760+00:00"
+  "updated_at": "2026-11-13T19:16:45.076320+00:00"
 }
