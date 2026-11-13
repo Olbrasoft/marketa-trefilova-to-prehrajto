@@ -109880,13 +109880,6 @@
           "source_id": "29678156",
           "target_video_id": "30983692",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:47:43.322207+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29678156",
-          "target_video_id": "30983692",
-          "permanent": false,
           "attempted_at": "2026-11-13T13:00:34.601282+00:00"
         },
         {
@@ -109895,6 +109888,13 @@
           "target_video_id": "30983692",
           "permanent": false,
           "attempted_at": "2026-11-13T14:19:45.118950+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29678156",
+          "target_video_id": "30983692",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:00:24.862886+00:00"
         }
       ],
       "last_plan": {
@@ -134003,7 +134003,7 @@
       "last_plan": {
         "source_id": "34902528",
         "display_name": "Lisáci-Mysáci a Sibenicák (Lišáci – Myšáci a Šibeničák) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T14:19:43.577874+00:00"
+        "planned_at": "2026-11-13T16:00:23.720614+00:00"
       },
       "previous_target_id": "30987386",
       "prepared": {
@@ -134011,6 +134011,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T04:28:24.558373+00:00",
         "relay_source_id": "34902528"
+      },
+      "claim": {
+        "worker_id": "743448a1e6714d4991ddd83f590cb717-shard-0",
+        "claimed_at": "2026-11-13T16:00:24.543528+00:00",
+        "lease_expires_at": "2026-11-13T22:00:24.543528+00:00",
+        "run_id": "43442116051"
       }
     },
     "30560": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:00:21.145668+00:00"
+        "planned_at": "2026-11-13T16:00:24.017443+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:00:21.417967+00:00"
+  "updated_at": "2026-11-13T16:00:24.862904+00:00"
 }
