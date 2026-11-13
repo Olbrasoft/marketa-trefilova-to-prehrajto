@@ -129501,13 +129501,6 @@
           "source_id": "34796896",
           "target_video_id": "30986820",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:56:34.323220+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34796896",
-          "target_video_id": "30986820",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:52:04.699037+00:00"
         },
         {
@@ -129516,6 +129509,13 @@
           "target_video_id": "30986820",
           "permanent": false,
           "attempted_at": "2026-11-13T03:00:08.874008+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34796896",
+          "target_video_id": "30986820",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:07:56.231469+00:00"
         }
       ],
       "last_plan": {
@@ -129529,12 +129529,6 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T02:14:22.452892+00:00",
         "relay_source_id": "34796896"
-      },
-      "claim": {
-        "worker_id": "f4f7454f5a004849aa14f4cd1ed5a30a-shard-0",
-        "claimed_at": "2026-11-13T04:07:53.348443+00:00",
-        "lease_expires_at": "2026-11-13T10:07:53.348443+00:00",
-        "run_id": "43339109036"
       }
     },
     "15845": {
@@ -136994,7 +136988,7 @@
       "last_plan": {
         "source_id": "33063567",
         "display_name": "Anny 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:00:10.402986+00:00"
+        "planned_at": "2026-11-13T04:07:55.001002+00:00"
       },
       "previous_target_id": "30987763",
       "prepared": {
@@ -137002,6 +136996,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T05:57:30.506123+00:00",
         "relay_source_id": "33063567"
+      },
+      "claim": {
+        "worker_id": "988064dae46a450baf35904e5fa0e86e-shard-0",
+        "claimed_at": "2026-11-13T04:07:55.452399+00:00",
+        "lease_expires_at": "2026-11-13T10:07:55.452399+00:00",
+        "run_id": "43339109036"
       }
     },
     "15334": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:07:53.109748+00:00"
+        "planned_at": "2026-11-13T04:07:55.204820+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:07:53.532987+00:00"
+  "updated_at": "2026-11-13T04:07:56.231483+00:00"
 }
