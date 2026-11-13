@@ -34213,13 +34213,6 @@
           "source_id": "11416033",
           "target_video_id": "30985350",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:03:59.453252+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11416033",
-          "target_video_id": "30985350",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:34:09.567794+00:00"
         },
         {
@@ -34228,6 +34221,13 @@
           "target_video_id": "30985350",
           "permanent": false,
           "attempted_at": "2026-11-13T16:04:17.249059+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11416033",
+          "target_video_id": "30985350",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:34:27.342434+00:00"
         }
       ],
       "last_plan": {
@@ -34950,7 +34950,7 @@
       "last_plan": {
         "source_id": "12196905",
         "display_name": "Battle for Sevastopol (Битва за Севастополь) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T16:04:17.367647+00:00"
+        "planned_at": "2026-11-13T16:34:26.750256+00:00"
       },
       "previous_target_id": "30987870",
       "prepared": {
@@ -34958,6 +34958,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T06:31:17.589982+00:00",
         "relay_source_id": "12196905"
+      },
+      "claim": {
+        "worker_id": "29cb1a7c752f4a8397fe4e8c56df21cd-shard-0",
+        "claimed_at": "2026-11-13T16:34:27.051365+00:00",
+        "lease_expires_at": "2026-11-13T22:34:27.051365+00:00",
+        "run_id": "43442116051"
       }
     },
     "11857": {
@@ -99271,5 +99277,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:34:24.085009+00:00"
+  "updated_at": "2026-11-13T16:34:27.342455+00:00"
 }
