@@ -127581,13 +127581,6 @@
           "source_id": "32484287",
           "target_video_id": "30986499",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:56:32.624557+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32484287",
-          "target_video_id": "30986499",
-          "permanent": false,
           "attempted_at": "2026-11-13T04:05:29.901655+00:00"
         },
         {
@@ -127596,6 +127589,13 @@
           "target_video_id": "30986499",
           "permanent": false,
           "attempted_at": "2026-11-13T05:10:46.070234+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32484287",
+          "target_video_id": "30986499",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:51:59.449920+00:00"
         }
       ],
       "last_plan": {
@@ -140789,7 +140789,7 @@
       "last_plan": {
         "source_id": "34720000",
         "display_name": "Hasici (Hasiči) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:10:44.722768+00:00"
+        "planned_at": "2026-11-13T06:51:58.184484+00:00"
       },
       "previous_target_id": "30988159",
       "prepared": {
@@ -140797,6 +140797,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T07:43:08.881258+00:00",
         "relay_source_id": "34720000"
+      },
+      "claim": {
+        "worker_id": "30c06da8b5e34acab5277c286582ff3d-shard-0",
+        "claimed_at": "2026-11-13T06:51:58.874947+00:00",
+        "lease_expires_at": "2026-11-13T12:51:58.874947+00:00",
+        "run_id": "43371605577"
       }
     },
     "24478": {
@@ -147681,7 +147687,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T06:51:55.711167+00:00"
+        "planned_at": "2026-11-13T06:51:58.459013+00:00"
       }
     },
     "19216": {
@@ -199180,5 +199186,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:51:55.939639+00:00"
+  "updated_at": "2026-11-13T06:51:59.449937+00:00"
 }
