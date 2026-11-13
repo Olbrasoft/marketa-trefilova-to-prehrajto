@@ -112830,13 +112830,6 @@
           "source_id": "33495930",
           "target_video_id": "30983976",
           "permanent": false,
-          "attempted_at": "2026-11-13T01:57:40.106028+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33495930",
-          "target_video_id": "30983976",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:07:04.046690+00:00"
         },
         {
@@ -112845,6 +112838,13 @@
           "target_video_id": "30983976",
           "permanent": false,
           "attempted_at": "2026-11-13T04:13:06.360335+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33495930",
+          "target_video_id": "30983976",
+          "permanent": false,
+          "attempted_at": "2026-11-13T05:46:34.015750+00:00"
         }
       ],
       "last_plan": {
@@ -112858,12 +112858,6 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T15:09:20.357315+00:00",
         "relay_source_id": "33495930"
-      },
-      "claim": {
-        "worker_id": "72c2d3fadc92453ea3f35c47a37f0a34-shard-0",
-        "claimed_at": "2026-11-13T05:46:31.122876+00:00",
-        "lease_expires_at": "2026-11-13T11:46:31.122876+00:00",
-        "run_id": "43371605577"
       }
     },
     "12718": {
@@ -116389,7 +116383,7 @@
       "last_plan": {
         "source_id": "31728968",
         "display_name": "Thirteen 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:13:15.581391+00:00"
+        "planned_at": "2026-11-13T05:46:33.343136+00:00"
       },
       "previous_target_id": "30984695",
       "prepared": {
@@ -116397,6 +116391,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T17:19:32.952001+00:00",
         "relay_source_id": "31728968"
+      },
+      "claim": {
+        "worker_id": "18f6dda841c14ef189676ea1b735a42a-shard-0",
+        "claimed_at": "2026-11-13T05:46:34.178712+00:00",
+        "lease_expires_at": "2026-11-13T11:46:34.178712+00:00",
+        "run_id": "43371605577"
       }
     },
     "2907": {
@@ -147548,7 +147548,7 @@
       "last_plan": {
         "source_id": "12674209",
         "display_name": "The Key (1971) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:46:30.749163+00:00"
+        "planned_at": "2026-11-13T05:46:33.625959+00:00"
       }
     },
     "24225": {
@@ -199068,5 +199068,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T05:46:31.766652+00:00"
+  "updated_at": "2026-11-13T05:46:34.178739+00:00"
 }
