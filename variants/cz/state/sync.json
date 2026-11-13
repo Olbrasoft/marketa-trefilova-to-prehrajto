@@ -122202,13 +122202,6 @@
           "source_id": "30248781",
           "target_video_id": "30985442",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:47:27.440138+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30248781",
-          "target_video_id": "30985442",
-          "permanent": false,
           "attempted_at": "2026-11-13T13:00:13.376088+00:00"
         },
         {
@@ -122217,6 +122210,13 @@
           "target_video_id": "30985442",
           "permanent": false,
           "attempted_at": "2026-11-13T14:19:25.217250+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30248781",
+          "target_video_id": "30985442",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:00:06.093759+00:00"
         }
       ],
       "last_plan": {
@@ -122230,12 +122230,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T19:19:26.698407+00:00",
         "relay_source_id": "30248781"
-      },
-      "claim": {
-        "worker_id": "9d461f72ece74e5cb7a4323b9ca368c9-shard-0",
-        "claimed_at": "2026-11-13T16:00:01.131113+00:00",
-        "lease_expires_at": "2026-11-13T22:00:01.131113+00:00",
-        "run_id": "43442116051"
       }
     },
     "28595": {
@@ -136869,7 +136863,7 @@
       "last_plan": {
         "source_id": "29399903",
         "display_name": "Murder in Angoulême (Le Prix de la trahison) SD CZ Dabing",
-        "planned_at": "2026-11-13T14:19:25.943783+00:00"
+        "planned_at": "2026-11-13T16:00:03.922261+00:00"
       },
       "previous_target_id": "30987744",
       "prepared": {
@@ -136877,6 +136871,12 @@
         "size_bytes": 829700000,
         "prepared_at": "2026-11-11T05:53:04.545604+00:00",
         "relay_source_id": "29399903"
+      },
+      "claim": {
+        "worker_id": "d44080af910945e7a4167309a1877c3a-shard-0",
+        "claimed_at": "2026-11-13T16:00:04.612999+00:00",
+        "lease_expires_at": "2026-11-13T22:00:04.612999+00:00",
+        "run_id": "43442116051"
       }
     },
     "20710": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:00:00.711847+00:00"
+        "planned_at": "2026-11-13T16:00:04.212646+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:00:01.868994+00:00"
+  "updated_at": "2026-11-13T16:00:06.093780+00:00"
 }
