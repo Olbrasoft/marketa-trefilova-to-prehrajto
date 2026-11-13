@@ -101178,13 +101178,6 @@
           "source_id": "34968104",
           "target_video_id": "30967671",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:18:18.018051+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34968104",
-          "target_video_id": "30967671",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:27:45.972300+00:00"
         },
         {
@@ -101193,6 +101186,13 @@
           "target_video_id": "30967671",
           "permanent": false,
           "attempted_at": "2026-11-13T18:45:23.206921+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34968104",
+          "target_video_id": "30967671",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:07:43.313340+00:00"
         }
       ],
       "last_plan": {
@@ -101206,12 +101206,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T06:46:06.993808+00:00",
         "relay_source_id": "34968104"
-      },
-      "claim": {
-        "worker_id": "e197c59931524b33a1719a405532e488-shard-0",
-        "claimed_at": "2026-11-13T20:07:38.662959+00:00",
-        "lease_expires_at": "2026-11-14T02:07:38.662959+00:00",
-        "run_id": "43482054430"
       }
     },
     "35562": {
@@ -101582,7 +101576,7 @@
       "last_plan": {
         "source_id": "13450050",
         "display_name": "Garage Sale Mystery: Guilty Until Proven Innocent 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:45:22.165244+00:00"
+        "planned_at": "2026-11-13T20:07:42.266970+00:00"
       },
       "previous_target_id": "30969076",
       "prepared": {
@@ -101590,6 +101584,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-10T07:24:54.477551+00:00",
         "relay_source_id": "13450050"
+      },
+      "claim": {
+        "worker_id": "de814048154946658d769eefa11d1de4-shard-0",
+        "claimed_at": "2026-11-13T20:07:42.777379+00:00",
+        "lease_expires_at": "2026-11-14T02:07:42.777379+00:00",
+        "run_id": "43482054430"
       }
     },
     "16869": {
@@ -148664,7 +148664,7 @@
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
-        "planned_at": "2026-11-13T20:07:38.376827+00:00"
+        "planned_at": "2026-11-13T20:07:42.479531+00:00"
       }
     },
     "28902": {
@@ -200016,5 +200016,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:07:39.322098+00:00"
+  "updated_at": "2026-11-13T20:07:43.313364+00:00"
 }
