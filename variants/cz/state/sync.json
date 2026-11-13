@@ -116326,13 +116326,6 @@
           "source_id": "34757966",
           "target_video_id": "30984690",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:39:41.092384+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34757966",
-          "target_video_id": "30984690",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:02:52.234721+00:00"
         },
         {
@@ -116341,6 +116334,13 @@
           "target_video_id": "30984690",
           "permanent": false,
           "attempted_at": "2026-11-13T21:06:55.431483+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34757966",
+          "target_video_id": "30984690",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:09:10.854243+00:00"
         }
       ],
       "last_plan": {
@@ -116354,12 +116354,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:18:42.473688+00:00",
         "relay_source_id": "34757966"
-      },
-      "claim": {
-        "worker_id": "12d1a61af72c44c6946aa251dad99e1a-shard-0",
-        "claimed_at": "2026-11-13T22:09:08.563244+00:00",
-        "lease_expires_at": "2026-11-14T04:09:08.563244+00:00",
-        "run_id": "43482054430"
       }
     },
     "2787": {
@@ -137180,7 +137174,7 @@
       "last_plan": {
         "source_id": "34712153",
         "display_name": "Punching the World 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:06:56.855084+00:00"
+        "planned_at": "2026-11-13T22:09:11.017794+00:00"
       },
       "previous_target_id": "30987770",
       "prepared": {
@@ -149133,17 +149127,19 @@
       }
     },
     "10016": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34869559",
+          "target_video_id": "31019660",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:09:11.191859+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34869559",
         "display_name": "Hunters and Victims (Lovci a oběti) 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:04:22.560231+00:00"
-      },
-      "claim": {
-        "worker_id": "286b94e2753a40c5916cf77a5b881c01-shard-0",
-        "claimed_at": "2026-11-13T22:04:24.958464+00:00",
-        "lease_expires_at": "2026-11-14T04:04:24.958464+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31019660",
       "prepared": {
@@ -200431,5 +200427,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:09:09.301593+00:00"
+  "updated_at": "2026-11-13T22:09:11.191873+00:00"
 }
