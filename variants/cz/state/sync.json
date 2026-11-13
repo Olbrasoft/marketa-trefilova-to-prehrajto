@@ -148156,17 +148156,19 @@
       }
     },
     "15877": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32046879",
+          "target_video_id": "31016768",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:32:47.592555+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32046879",
         "display_name": "Fainéant.e.s (Fainéant.es) 1080p CZ Dabing",
         "planned_at": "2026-11-13T17:25:47.666843+00:00"
-      },
-      "claim": {
-        "worker_id": "778fa320c18a4050b2cc5555e61e8914-shard-0",
-        "claimed_at": "2026-11-13T17:25:50.013440+00:00",
-        "lease_expires_at": "2026-11-13T23:25:50.013440+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31016768",
       "prepared": {
@@ -199588,5 +199590,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:32:45.769795+00:00"
+  "updated_at": "2026-11-13T17:32:47.592574+00:00"
 }
