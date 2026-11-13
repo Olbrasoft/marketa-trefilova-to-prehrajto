@@ -714,3 +714,4 @@ Attach subtitles only after target processing has finished.
 | The Charterhouse of Parma (La Chartreuse de Parme) 1080p CZ Titulky | 31018372 | https://sdilej.cz/24337653/veznice-parmska-la-chartreuse-de-parme-1948-fr.cz.mkv | Extract Czech track from exact source after processing |
 | The Thing About Harry SD CZ Titulky | 31019472 | https://sdilej.cz/13528951/the-thing-about-harry-2020-cz.tit.mkv | Extract Czech track from exact source after processing |
 | Clumsy (La Maladroite) 1080p CZ Titulky | 31020400 | https://sdilej.cz/11963441/kidnapping.stella.2019.cz.sub.1080p.web-dl.ddp5.1.h264.mkv | Extract Czech track from exact source after processing |
+| Une liaison pornographique SD CZ Titulky | 31020447 | https://sdilej.cz/33564256/pornograficky-vztah-1999-tit.mkv | Extract Czech track from exact source after processing |
