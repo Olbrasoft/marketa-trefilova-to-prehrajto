@@ -123275,13 +123275,6 @@
           "source_id": "30317434",
           "target_video_id": "30985560",
           "permanent": false,
-          "attempted_at": "2026-11-13T04:09:19.401535+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30317434",
-          "target_video_id": "30985560",
-          "permanent": false,
           "attempted_at": "2026-11-13T05:42:16.306516+00:00"
         },
         {
@@ -123290,6 +123283,13 @@
           "target_video_id": "30985560",
           "permanent": false,
           "attempted_at": "2026-11-13T06:57:22.850669+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30317434",
+          "target_video_id": "30985560",
+          "permanent": false,
+          "attempted_at": "2026-11-13T08:16:57.025311+00:00"
         }
       ],
       "last_plan": {
@@ -123830,7 +123830,7 @@
       "last_plan": {
         "source_id": "32453487",
         "display_name": "Le gendarme se marie 4K CZ Dabing",
-        "planned_at": "2026-11-13T06:57:23.062343+00:00"
+        "planned_at": "2026-11-13T08:16:55.770954+00:00"
       },
       "previous_target_id": "30985646",
       "prepared": {
@@ -123838,6 +123838,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T20:58:30.117329+00:00",
         "relay_source_id": "32453487"
+      },
+      "claim": {
+        "worker_id": "46b20dfd8135411a88820d2be0cb9e41-shard-0",
+        "claimed_at": "2026-11-13T08:16:56.451635+00:00",
+        "lease_expires_at": "2026-11-13T14:16:56.451635+00:00",
+        "run_id": "43371605577"
       }
     },
     "18520": {
@@ -147724,7 +147730,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T08:16:53.367856+00:00"
+        "planned_at": "2026-11-13T08:16:56.051095+00:00"
       }
     },
     "19216": {
@@ -199223,5 +199229,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T08:16:53.367874+00:00"
+  "updated_at": "2026-11-13T08:16:57.025330+00:00"
 }
