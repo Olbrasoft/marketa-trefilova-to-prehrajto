@@ -74678,13 +74678,6 @@
           "source_id": "31379501",
           "target_video_id": "30885416",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:01:54.206345+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31379501",
-          "target_video_id": "30885416",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:55:42.477935+00:00"
         },
         {
@@ -74693,6 +74686,13 @@
           "target_video_id": "30885416",
           "permanent": false,
           "attempted_at": "2026-11-13T03:04:32.741531+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31379501",
+          "target_video_id": "30885416",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:11:08.093434+00:00"
         }
       ],
       "last_plan": {
@@ -74706,12 +74706,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T08:02:43.047319+00:00",
         "relay_source_id": "31379501"
-      },
-      "claim": {
-        "worker_id": "325a8caff2324c90a3c5de8cab3d3289-shard-0",
-        "claimed_at": "2026-11-13T04:11:05.745960+00:00",
-        "lease_expires_at": "2026-11-13T10:11:05.745960+00:00",
-        "run_id": "43339109036"
       }
     },
     "25458": {
@@ -135362,7 +135356,7 @@
       "last_plan": {
         "source_id": "24480171",
         "display_name": "Sweet Troubles (Sladké starosti) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:04:34.395442+00:00"
+        "planned_at": "2026-11-13T04:11:07.314161+00:00"
       },
       "previous_target_id": "30987584",
       "prepared": {
@@ -135370,6 +135364,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-11T05:18:04.024948+00:00",
         "relay_source_id": "24480171"
+      },
+      "claim": {
+        "worker_id": "a025b35e86af40b2acc16c605832b8e4-shard-0",
+        "claimed_at": "2026-11-13T04:11:07.932107+00:00",
+        "lease_expires_at": "2026-11-13T10:11:07.932107+00:00",
+        "run_id": "43339109036"
       }
     },
     "26886": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:11:05.490095+00:00"
+        "planned_at": "2026-11-13T04:11:07.523622+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:11:05.910771+00:00"
+  "updated_at": "2026-11-13T04:11:08.093448+00:00"
 }
