@@ -149431,17 +149431,19 @@
       "attempts": []
     },
     "17259": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34799529",
+          "target_video_id": "31020319",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:31:11.230474+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34799529",
         "display_name": "Murder in Maussane (Crime dans les Alpilles) SD CZ Dabing",
         "planned_at": "2026-11-13T22:29:40.888883+00:00"
-      },
-      "claim": {
-        "worker_id": "81d88da36f7a4805b607835a5cb04fbb-shard-0",
-        "claimed_at": "2026-11-13T22:29:41.434483+00:00",
-        "lease_expires_at": "2026-11-14T04:29:41.434483+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020319",
       "prepared": {
@@ -200671,5 +200673,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:31:09.419932+00:00"
+  "updated_at": "2026-11-13T22:31:11.230491+00:00"
 }
