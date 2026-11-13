@@ -699,3 +699,4 @@ Attach subtitles only after target processing has finished.
 | Something Wild 1080p CZ Titulky | 31013121 | https://sdilej.cz/35182294/something.wild.1986.criterion.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
 | Pillion 1080p CZ Titulky | 31013758 | https://sdilej.cz/34465941/pillion-2025-.mkv | Extract Czech track from exact source after processing |
 | The Outrun 1080p CZ Titulky | 31013953 | https://sdilej.cz/30078440/the.outrun-2024-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
+| Summer of 85 (Été 85) 1080p CZ Titulky | 31014099 | https://sdilej.cz/28284942/leto-85-cz-titulky.mkv | Extract Czech track from exact source after processing |
