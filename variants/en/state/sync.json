@@ -2007,13 +2007,6 @@
           "source_id": "22817696",
           "target_video_id": "30676098",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:44:45.884977+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22817696",
-          "target_video_id": "30676098",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:14:49.924825+00:00"
         },
         {
@@ -2022,6 +2015,13 @@
           "target_video_id": "30676098",
           "permanent": false,
           "attempted_at": "2026-11-13T03:44:55.261228+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22817696",
+          "target_video_id": "30676098",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:15:02.345001+00:00"
         }
       ],
       "last_plan": {
@@ -24197,7 +24197,7 @@
       "last_plan": {
         "source_id": "34220031",
         "display_name": "Chocolat (2000) 1080p CZ Titulky",
-        "planned_at": "2026-11-13T03:44:55.170214+00:00"
+        "planned_at": "2026-11-13T04:15:01.455439+00:00"
       },
       "previous_target_id": "30859204",
       "prepared": {
@@ -24205,6 +24205,12 @@
         "size_bytes": 11800000000,
         "prepared_at": "2026-11-06T12:37:47.237046+00:00",
         "relay_source_id": "34220031"
+      },
+      "claim": {
+        "worker_id": "995050be1579490ab8e65ded51cff614-shard-0",
+        "claimed_at": "2026-11-13T04:15:01.678779+00:00",
+        "lease_expires_at": "2026-11-13T10:15:01.678779+00:00",
+        "run_id": "43339109036"
       }
     },
     "1788": {
@@ -98459,5 +98465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:14:58.879335+00:00"
+  "updated_at": "2026-11-13T04:15:02.345025+00:00"
 }
