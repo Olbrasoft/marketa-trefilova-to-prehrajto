@@ -4171,6 +4171,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
+      },
+      "claim": {
+        "worker_id": "8799b674974c45a4a24ba457c7a87877-shard-0",
+        "claimed_at": "2026-11-13T05:52:28.318345+00:00",
+        "lease_expires_at": "2026-11-13T11:52:28.318345+00:00",
+        "run_id": "43371605577"
       }
     },
     "37290": {
@@ -110490,13 +110496,6 @@
           "source_id": "27514628",
           "target_video_id": "30983750",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:03:23.375445+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27514628",
-          "target_video_id": "30983750",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:16:37.316544+00:00"
         },
         {
@@ -110505,12 +110504,19 @@
           "target_video_id": "30983750",
           "permanent": false,
           "attempted_at": "2026-11-13T04:21:49.274855+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27514628",
+          "target_video_id": "30983750",
+          "permanent": false,
+          "attempted_at": "2026-11-13T05:52:30.721232+00:00"
         }
       ],
       "last_plan": {
         "source_id": "27514628",
         "display_name": "Let's All Sing Around (Pějme píseň dohola) SD CZ Dabing",
-        "planned_at": "2026-11-13T04:21:46.695920+00:00"
+        "planned_at": "2026-11-13T05:52:28.523244+00:00"
       },
       "previous_target_id": "30983750",
       "prepared": {
@@ -147572,7 +147578,7 @@
       "last_plan": {
         "source_id": "31504443",
         "display_name": "Darling, Are We a Good Match...? (Do We Match Each Other, Darling?) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:52:26.277492+00:00"
+        "planned_at": "2026-11-13T05:52:28.804206+00:00"
       }
     },
     "26986": {
@@ -199084,5 +199090,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T05:52:26.535769+00:00"
+  "updated_at": "2026-11-13T05:52:30.721251+00:00"
 }
