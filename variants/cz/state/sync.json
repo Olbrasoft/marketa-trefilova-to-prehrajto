@@ -136221,13 +136221,6 @@
           "source_id": "31576573",
           "target_video_id": "30987678",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:44:59.407236+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31576573",
-          "target_video_id": "30987678",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:51:57.877941+00:00"
         },
         {
@@ -136236,12 +136229,19 @@
           "target_video_id": "30987678",
           "permanent": false,
           "attempted_at": "2026-11-13T19:23:00.281709+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31576573",
+          "target_video_id": "30987678",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:28:25.124108+00:00"
         }
       ],
       "last_plan": {
         "source_id": "31576573",
         "display_name": "Beautiful Ride (Spanilá jízda) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T19:22:57.368763+00:00"
+        "planned_at": "2026-11-13T20:28:23.490695+00:00"
       },
       "previous_target_id": "30987678",
       "prepared": {
@@ -148689,7 +148689,13 @@
       "last_plan": {
         "source_id": "32728547",
         "display_name": "A Grand Romantic Gesture 1080p CZ Dabing",
-        "planned_at": "2026-11-13T20:28:19.741996+00:00"
+        "planned_at": "2026-11-13T20:28:23.705123+00:00"
+      },
+      "claim": {
+        "worker_id": "d0ae58ce6194413080538b3a09dc232c-shard-0",
+        "claimed_at": "2026-11-13T20:28:24.236750+00:00",
+        "lease_expires_at": "2026-11-14T02:28:24.236750+00:00",
+        "run_id": "43482054430"
       }
     },
     "28066": {
@@ -148699,7 +148705,12 @@
       "attempts": []
     },
     "31899": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34405342",
+        "display_name": "The Emperor's New Clothes (Císařovy nové šaty) 1080p CZ Dabing",
+        "planned_at": "2026-11-13T20:28:23.829496+00:00"
+      }
     },
     "34858": {
       "attempts": []
@@ -200030,5 +200041,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:28:21.357295+00:00"
+  "updated_at": "2026-11-13T20:28:25.124128+00:00"
 }
