@@ -132319,13 +132319,6 @@
           "source_id": "33817063",
           "target_video_id": "30987134",
           "permanent": false,
-          "attempted_at": "2026-11-13T09:12:32.955067+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33817063",
-          "target_video_id": "30987134",
-          "permanent": false,
           "attempted_at": "2026-11-13T11:24:57.818258+00:00"
         },
         {
@@ -132334,6 +132327,13 @@
           "target_video_id": "30987134",
           "permanent": false,
           "attempted_at": "2026-11-13T12:40:51.361166+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33817063",
+          "target_video_id": "30987134",
+          "permanent": false,
+          "attempted_at": "2026-11-13T13:56:44.370492+00:00"
         }
       ],
       "last_plan": {
@@ -138249,7 +138249,7 @@
       "last_plan": {
         "source_id": "34788286",
         "display_name": "Slasti Otce vlasti 1080p CZ Dabing",
-        "planned_at": "2026-11-13T12:40:50.073686+00:00"
+        "planned_at": "2026-11-13T13:56:43.060296+00:00"
       },
       "previous_target_id": "30987867",
       "prepared": {
@@ -138257,6 +138257,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-11T06:30:26.722400+00:00",
         "relay_source_id": "34788286"
+      },
+      "claim": {
+        "worker_id": "6f7ca879b2944bac981952712ab5cd24-shard-0",
+        "claimed_at": "2026-11-13T13:56:44.016771+00:00",
+        "lease_expires_at": "2026-11-13T19:56:44.016771+00:00",
+        "run_id": "43408558477"
       }
     },
     "15943": {
@@ -147731,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T13:56:40.550939+00:00"
+        "planned_at": "2026-11-13T13:56:43.413077+00:00"
       }
     },
     "19216": {
@@ -199235,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T13:56:40.550964+00:00"
+  "updated_at": "2026-11-13T13:56:44.370511+00:00"
 }
