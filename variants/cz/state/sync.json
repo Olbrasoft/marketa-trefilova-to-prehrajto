@@ -12407,13 +12407,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:55:03.251757+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-13T04:04:26.067593+00:00"
         },
         {
@@ -12422,6 +12415,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-13T05:09:35.084825+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:50:16.709427+00:00"
         }
       ],
       "last_plan": {
@@ -135114,7 +135114,7 @@
       "last_plan": {
         "source_id": "35068765",
         "display_name": "Veronika, proste Nika (Veronika, prostě Nika) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:09:38.909899+00:00"
+        "planned_at": "2026-11-13T06:50:15.403292+00:00"
       },
       "previous_target_id": "30987562",
       "prepared": {
@@ -135122,6 +135122,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T05:12:28.986309+00:00",
         "relay_source_id": "35068765"
+      },
+      "claim": {
+        "worker_id": "00d05fa7e168482f9f08d5e8418d075f-shard-0",
+        "claimed_at": "2026-11-13T06:50:16.133242+00:00",
+        "lease_expires_at": "2026-11-13T12:50:16.133242+00:00",
+        "run_id": "43371605577"
       }
     },
     "13853": {
@@ -147673,7 +147679,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T06:50:12.888535+00:00"
+        "planned_at": "2026-11-13T06:50:15.688156+00:00"
       }
     },
     "19216": {
@@ -199167,5 +199173,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:50:13.120978+00:00"
+  "updated_at": "2026-11-13T06:50:16.709444+00:00"
 }
