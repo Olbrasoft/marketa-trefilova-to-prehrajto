@@ -127581,13 +127581,6 @@
           "source_id": "32484287",
           "target_video_id": "30986499",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:55:07.205029+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32484287",
-          "target_video_id": "30986499",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:59:12.993743+00:00"
         },
         {
@@ -127596,6 +127589,13 @@
           "target_video_id": "30986499",
           "permanent": false,
           "attempted_at": "2026-11-13T22:03:03.633071+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32484287",
+          "target_video_id": "30986499",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:04:55.045295+00:00"
         }
       ],
       "last_plan": {
@@ -127609,12 +127609,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T00:40:39.948679+00:00",
         "relay_source_id": "32484287"
-      },
-      "claim": {
-        "worker_id": "c4d29b84ff114087a36fc3e8dfe7eace-shard-0",
-        "claimed_at": "2026-11-13T23:04:51.061777+00:00",
-        "lease_expires_at": "2026-11-14T05:04:51.061777+00:00",
-        "run_id": "43482054430"
       }
     },
     "16080": {
@@ -140795,7 +140789,7 @@
       "last_plan": {
         "source_id": "34720000",
         "display_name": "Hasici (Hasiči) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:03:03.142328+00:00"
+        "planned_at": "2026-11-13T23:04:52.629144+00:00"
       },
       "previous_target_id": "30988159",
       "prepared": {
@@ -140803,6 +140797,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T07:43:08.881258+00:00",
         "relay_source_id": "34720000"
+      },
+      "claim": {
+        "worker_id": "0f69d7d757e24e3ab380e3f73ce3d543-shard-0",
+        "claimed_at": "2026-11-13T23:04:53.197427+00:00",
+        "lease_expires_at": "2026-11-14T05:04:53.197427+00:00",
+        "run_id": "43482054430"
       }
     },
     "24478": {
@@ -149837,7 +149837,13 @@
       "last_plan": {
         "source_id": "31595654",
         "display_name": "Zeny a Zivot (Ženy a život) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:04:49.464220+00:00"
+        "planned_at": "2026-11-13T23:04:52.822866+00:00"
+      },
+      "claim": {
+        "worker_id": "29e15c7cb1964655a3d190a8d17ffa35-shard-0",
+        "claimed_at": "2026-11-13T23:04:53.323250+00:00",
+        "lease_expires_at": "2026-11-14T05:04:53.323250+00:00",
+        "run_id": "43482054430"
       }
     },
     "28907": {
@@ -149847,7 +149853,12 @@
       "attempts": []
     },
     "16618": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34883224",
+        "display_name": "Deckname Holec 1080p CZ Dabing",
+        "planned_at": "2026-11-13T23:04:52.952468+00:00"
+      }
     },
     "5083": {
       "attempts": []
@@ -200968,5 +200979,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:04:51.061802+00:00"
+  "updated_at": "2026-11-13T23:04:55.045308+00:00"
 }
