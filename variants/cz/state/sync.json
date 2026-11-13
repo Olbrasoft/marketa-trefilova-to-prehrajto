@@ -16465,13 +16465,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:30:37.769379+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:35:51.675668+00:00"
         },
         {
@@ -16480,6 +16473,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-13T21:43:57.247922+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:43:23.775481+00:00"
         }
       ],
       "last_plan": {
@@ -106203,7 +106203,7 @@
       "last_plan": {
         "source_id": "30045237",
         "display_name": "Man versus Ruin (Člověk proti zkáze) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:43:58.783259+00:00"
+        "planned_at": "2026-11-13T22:43:22.466595+00:00"
       },
       "previous_target_id": "30978930",
       "prepared": {
@@ -106211,6 +106211,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T12:08:41.122784+00:00",
         "relay_source_id": "30045237"
+      },
+      "claim": {
+        "worker_id": "73f96b9711fa4ef582af238b03ff4966-shard-0",
+        "claimed_at": "2026-11-13T22:43:22.903199+00:00",
+        "lease_expires_at": "2026-11-14T04:43:22.903199+00:00",
+        "run_id": "43482054430"
       }
     },
     "22815": {
@@ -149582,7 +149588,7 @@
       "last_plan": {
         "source_id": "30110040",
         "display_name": "Out of the City (Cesta z města) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:43:20.818110+00:00"
+        "planned_at": "2026-11-13T22:43:22.666505+00:00"
       }
     },
     "11069": {
@@ -200752,5 +200758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:43:20.818123+00:00"
+  "updated_at": "2026-11-13T22:43:23.775493+00:00"
 }
