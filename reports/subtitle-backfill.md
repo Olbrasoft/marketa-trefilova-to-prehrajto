@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T07:37:27.977606+00:00
+Poslední aktualizace (UTC): 2026-11-13T07:37:29.830788+00:00
 
 Zkontrolováno videí: 688. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 1, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 113, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 503, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 3, `target_unavailable`: 114, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -99,6 +99,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 122. Důvo
 | [Generation Iron 720p CZ Titulky](https://prehraj.to/generation-iron-720p-cz-titulky-mkv/da434438aecaa89f) (ID 30992304) | [Sdílej 22898145](https://sdilej.cz/22898145/generation-iron.mkv) | target_unavailable | 2026-11-11T17:24:52.699436+00:00 |
 | [Gladiator (2000) 4K CZ Titulky](https://prehraj.to/gladiator-2000-cz-titulky-mkv/5ab06a3385e9b8ad) (ID 30589321) | [Sdílej 32959336](https://sdilej.cz/32959336/gladiator-2000-2160p-cz-dabing-en-dts-hd-radecek.mkv) | target_unavailable | 2026-11-12T12:57:32.177877+00:00 |
 | [Glass Onion: A Knives Out Mystery 1080p CZ Titulky](https://prehraj.to/glass-onion-a-knives-out-mystery-1080p-cz-titulky-mkv/45cd3b6034a03d85) (ID 30903877) | [Sdílej 25583722](https://sdilej.cz/25583722/glass-onion-a-knives-out-mystery-2022-webrip-nf-1080p-dts-ac3-dd-5.1-atmos-x264-mgb.mkv) | target_unavailable | 2026-11-10T09:50:13.007331+00:00 |
+| [Goya's Ghosts 1080p CZ Titulky](https://prehraj.to/goya-s-ghosts-1080p-cz-titulky-mkv/ec0601bdb13bfd2b) (ID 31010194) | [Sdílej 34683084](https://sdilej.cz/34683084/goyovy-prizraky-drama-j.bardem-n.-portman-2006-cztit.1080p.bluray.mkv) | target_unavailable | 2026-11-13T07:37:29.825605+00:00 |
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-10T09:49:37.027203+00:00 |
 | [Green Room 1080p CZ Titulky](https://prehraj.to/green-room-1080p-cz-titulky-mkv/e0dda85f61c4924e) (ID 31005872) | [Sdílej 6122354](https://sdilej.cz/6122354/green-room-2015-titulky.cz-1080p.h264.mkv) | target_unavailable | 2026-11-12T20:51:20.850516+00:00 |
 | [Harrison's Flowers SD CZ Titulky](https://prehraj.to/harrison-s-flowers-sd-cz-titulky-mkv/b113fd605d829de3) (ID 30992832) | [Sdílej 27735775](https://sdilej.cz/27735775/harrisonovy-kvety-harrison-s-flowers-2000-cz-tit.mkv) | target_unavailable | 2026-11-11T18:34:50.841602+00:00 |
