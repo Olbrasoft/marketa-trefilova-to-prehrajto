@@ -123275,13 +123275,6 @@
           "source_id": "30317434",
           "target_video_id": "30985560",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:10:53.186514+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30317434",
-          "target_video_id": "30985560",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:27:14.326229+00:00"
         },
         {
@@ -123290,6 +123283,13 @@
           "target_video_id": "30985560",
           "permanent": false,
           "attempted_at": "2026-11-13T16:10:01.367309+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30317434",
+          "target_video_id": "30985560",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:19:36.600731+00:00"
         }
       ],
       "last_plan": {
@@ -123830,7 +123830,7 @@
       "last_plan": {
         "source_id": "32453487",
         "display_name": "Le gendarme se marie 4K CZ Dabing",
-        "planned_at": "2026-11-13T16:10:00.205465+00:00"
+        "planned_at": "2026-11-13T17:19:35.567857+00:00"
       },
       "previous_target_id": "30985646",
       "prepared": {
@@ -123838,6 +123838,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T20:58:30.117329+00:00",
         "relay_source_id": "32453487"
+      },
+      "claim": {
+        "worker_id": "50081220e95443af9c38e8fdafac5856-shard-0",
+        "claimed_at": "2026-11-13T17:19:36.341875+00:00",
+        "lease_expires_at": "2026-11-13T23:19:36.341875+00:00",
+        "run_id": "43442116051"
       }
     },
     "18520": {
@@ -148079,7 +148085,15 @@
       "attempts": []
     },
     "5983": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "34661179",
+          "reason": "Request failed for https://sdilej.cz/34661179/dubcek-2018-cz.mp4 (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:19:36.777110+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34661179",
         "display_name": "Dubček (Dubček – Krátka jar, dlhá zima) 1080p CZ Dabing",
@@ -148094,7 +148108,7 @@
       "last_plan": {
         "source_id": "26422301",
         "display_name": "The Roads of Men (Cesty mužů) SD CZ Dabing",
-        "planned_at": "2026-11-13T17:19:33.197642+00:00"
+        "planned_at": "2026-11-13T17:19:35.874476+00:00"
       }
     },
     "24347": {
@@ -199510,5 +199524,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:19:33.197657+00:00"
+  "updated_at": "2026-11-13T17:19:36.777134+00:00"
 }
