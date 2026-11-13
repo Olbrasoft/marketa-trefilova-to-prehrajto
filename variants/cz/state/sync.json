@@ -139911,13 +139911,6 @@
           "source_id": "34668881",
           "target_video_id": "30988044",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:10:27.696692+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34668881",
-          "target_video_id": "30988044",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:15:31.495627+00:00"
         },
         {
@@ -139926,6 +139919,13 @@
           "target_video_id": "30988044",
           "permanent": false,
           "attempted_at": "2026-11-13T02:26:22.120933+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668881",
+          "target_video_id": "30988044",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:39:53.664751+00:00"
         }
       ],
       "last_plan": {
@@ -139939,12 +139939,6 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T07:21:06.525556+00:00",
         "relay_source_id": "34668881"
-      },
-      "claim": {
-        "worker_id": "a2861324953647979d44c7127024673a-shard-0",
-        "claimed_at": "2026-11-13T03:39:50.927872+00:00",
-        "lease_expires_at": "2026-11-13T09:39:50.927872+00:00",
-        "run_id": "43339109036"
       }
     },
     "33968": {
@@ -141799,7 +141793,7 @@
       "last_plan": {
         "source_id": "11688648",
         "display_name": "Boys from the Mountains (Kluci z hor) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:26:23.647478+00:00"
+        "planned_at": "2026-11-13T03:39:53.142480+00:00"
       },
       "previous_target_id": "30988399",
       "prepared": {
@@ -141807,6 +141801,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T08:19:58.351724+00:00",
         "relay_source_id": "11688648"
+      },
+      "claim": {
+        "worker_id": "6306e523eff84528b001e49a3538b21d-shard-0",
+        "claimed_at": "2026-11-13T03:39:53.808592+00:00",
+        "lease_expires_at": "2026-11-13T09:39:53.808592+00:00",
+        "run_id": "43339109036"
       }
     },
     "15645": {
@@ -147393,7 +147393,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:39:50.473277+00:00"
+        "planned_at": "2026-11-13T03:39:53.347209+00:00"
       }
     },
     "12316": {
@@ -198925,5 +198925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:39:51.634354+00:00"
+  "updated_at": "2026-11-13T03:39:53.808622+00:00"
 }
