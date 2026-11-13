@@ -8607,13 +8607,6 @@
           "source_id": "17777440",
           "target_video_id": "30631282",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:01:56.900950+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17777440",
-          "target_video_id": "30631282",
-          "permanent": false,
           "attempted_at": "2026-11-13T14:21:01.435778+00:00"
         },
         {
@@ -8622,6 +8615,13 @@
           "target_video_id": "30631282",
           "permanent": false,
           "attempted_at": "2026-11-13T16:01:38.014172+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17777440",
+          "target_video_id": "30631282",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:14:25.609334+00:00"
         }
       ],
       "last_plan": {
@@ -115130,7 +115130,7 @@
       "last_plan": {
         "source_id": "28364650",
         "display_name": "Jay and Silent Bob Strike Back 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:01:37.496455+00:00"
+        "planned_at": "2026-11-13T17:14:24.132711+00:00"
       },
       "previous_target_id": "30984531",
       "prepared": {
@@ -115138,6 +115138,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T16:42:37.453998+00:00",
         "relay_source_id": "28364650"
+      },
+      "claim": {
+        "worker_id": "b8d5e6b61af14b70bff477d47f5118a4-shard-0",
+        "claimed_at": "2026-11-13T17:14:25.370622+00:00",
+        "lease_expires_at": "2026-11-13T23:14:25.370622+00:00",
+        "run_id": "43442116051"
       }
     },
     "2818": {
@@ -148081,7 +148087,7 @@
       "last_plan": {
         "source_id": "34661179",
         "display_name": "Dubček (Dubček – Krátka jar, dlhá zima) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:14:18.465928+00:00"
+        "planned_at": "2026-11-13T17:14:24.480126+00:00"
       }
     },
     "35265": {
@@ -199503,5 +199509,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:14:18.465946+00:00"
+  "updated_at": "2026-11-13T17:14:25.609353+00:00"
 }
