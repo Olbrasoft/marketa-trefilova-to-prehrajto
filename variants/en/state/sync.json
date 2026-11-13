@@ -38443,17 +38443,19 @@
       "attempts": []
     },
     "20206": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32702296",
+          "target_video_id": "31007543",
+          "permanent": false,
+          "attempted_at": "2026-11-13T00:50:19.536117+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32702296",
         "display_name": "Eternity 1080p CZ Titulky",
         "planned_at": "2026-11-13T00:31:02.425364+00:00"
-      },
-      "claim": {
-        "worker_id": "283c9cc36a9f49049e5c12dc05545e0a-shard-0",
-        "claimed_at": "2026-11-13T00:31:02.835275+00:00",
-        "lease_expires_at": "2026-11-13T06:31:02.835275+00:00",
-        "run_id": "43299526401"
       },
       "previous_target_id": "31007543",
       "prepared": {
@@ -98272,5 +98274,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T00:40:47.126131+00:00"
+  "updated_at": "2026-11-13T00:50:19.536137+00:00"
 }
