@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-13T11:04:24.259908+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-13T11:35:30.792125+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-13T12:05:45.845029+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:35:58.197383+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "3c4d8b4230244dbab25536e61a0e5546-shard-0",
-        "claimed_at": "2026-11-13T12:35:52.168267+00:00",
-        "lease_expires_at": "2026-11-13T18:35:52.168267+00:00",
-        "run_id": "43408558477"
       }
     },
     "21690": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-13T12:05:46.590952+00:00"
+        "planned_at": "2026-11-13T12:35:57.145109+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "a9f4c604a30e49938088cf36ba89cb75-shard-0",
+        "claimed_at": "2026-11-13T12:35:57.517928+00:00",
+        "lease_expires_at": "2026-11-13T18:35:57.517928+00:00",
+        "run_id": "43408558477"
       }
     },
     "31551": {
@@ -39382,7 +39382,7 @@
       "last_plan": {
         "source_id": "29064521",
         "display_name": "The Last Stop in Yuma County 1080p CZ Titulky",
-        "planned_at": "2026-11-13T12:35:51.968642+00:00"
+        "planned_at": "2026-11-13T12:35:57.364681+00:00"
       }
     },
     "32511": {
@@ -98826,5 +98826,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:35:52.744844+00:00"
+  "updated_at": "2026-11-13T12:35:58.197399+00:00"
 }
