@@ -16485,7 +16485,7 @@
       "last_plan": {
         "source_id": "15668226",
         "display_name": "Donnie Brasco 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:51:04.008376+00:00"
+        "planned_at": "2026-11-13T06:24:53.983107+00:00"
       },
       "previous_target_id": "30664494",
       "prepared": {
@@ -16493,6 +16493,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-10-31T11:40:03.610759+00:00",
         "relay_source_id": "15668226"
+      },
+      "claim": {
+        "worker_id": "3252352b19194bec8b8a981a79613831-shard-0",
+        "claimed_at": "2026-11-13T06:24:54.667543+00:00",
+        "lease_expires_at": "2026-11-13T12:24:54.667543+00:00",
+        "run_id": "43371605577"
       }
     },
     "12843": {
@@ -107721,13 +107727,6 @@
           "source_id": "30011381",
           "target_video_id": "30983260",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:31:17.186544+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30011381",
-          "target_video_id": "30983260",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:44:42.905822+00:00"
         },
         {
@@ -107736,6 +107735,13 @@
           "target_video_id": "30983260",
           "permanent": false,
           "attempted_at": "2026-11-13T04:51:00.715813+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30011381",
+          "target_video_id": "30983260",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:24:54.896310+00:00"
         }
       ],
       "last_plan": {
@@ -107749,12 +107755,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T13:56:33.935100+00:00",
         "relay_source_id": "30011381"
-      },
-      "claim": {
-        "worker_id": "20cf52d5a3744869837c2592873ddd00-shard-0",
-        "claimed_at": "2026-11-13T06:24:51.338299+00:00",
-        "lease_expires_at": "2026-11-13T12:24:51.338299+00:00",
-        "run_id": "43371605577"
       }
     },
     "16942": {
@@ -147656,7 +147656,7 @@
       "last_plan": {
         "source_id": "14419594",
         "display_name": "Polumgla (Полумгла) SD CZ Dabing",
-        "planned_at": "2026-11-13T06:24:50.965201+00:00"
+        "planned_at": "2026-11-13T06:24:54.260930+00:00"
       }
     },
     "24767": {
@@ -199153,5 +199153,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:24:52.241972+00:00"
+  "updated_at": "2026-11-13T06:24:54.896330+00:00"
 }
