@@ -39202,17 +39202,19 @@
       "attempts": []
     },
     "2193": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29624808",
+          "target_video_id": "31011855",
+          "permanent": false,
+          "attempted_at": "2026-11-13T11:48:01.542169+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29624808",
         "display_name": "Thelma (2024) 1080p CZ Titulky",
         "planned_at": "2026-11-13T11:06:59.394830+00:00"
-      },
-      "claim": {
-        "worker_id": "e1d4f1c838ae4b66902f25781c6e13ad-shard-0",
-        "claimed_at": "2026-11-13T11:06:59.868279+00:00",
-        "lease_expires_at": "2026-11-13T17:06:59.868279+00:00",
-        "run_id": "43408558477"
       },
       "previous_target_id": "31011855",
       "prepared": {
@@ -98734,5 +98736,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T11:47:58.626207+00:00"
+  "updated_at": "2026-11-13T11:48:01.542302+00:00"
 }
