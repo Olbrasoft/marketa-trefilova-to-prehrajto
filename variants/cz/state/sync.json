@@ -110431,13 +110431,6 @@
           "source_id": "34788913",
           "target_video_id": "30983748",
           "permanent": false,
-          "attempted_at": "2026-11-13T20:10:17.995237+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34788913",
-          "target_video_id": "30983748",
-          "permanent": false,
           "attempted_at": "2026-11-13T21:15:17.822018+00:00"
         },
         {
@@ -110446,6 +110439,13 @@
           "target_video_id": "30983748",
           "permanent": false,
           "attempted_at": "2026-11-13T22:19:06.854332+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34788913",
+          "target_video_id": "30983748",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:40:58.941297+00:00"
         }
       ],
       "last_plan": {
@@ -119716,7 +119716,7 @@
       "last_plan": {
         "source_id": "21276911",
         "display_name": "The Dry 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:19:05.649382+00:00"
+        "planned_at": "2026-11-13T23:40:57.664418+00:00"
       },
       "previous_target_id": "30984970",
       "prepared": {
@@ -119724,6 +119724,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T18:23:47.293951+00:00",
         "relay_source_id": "21276911"
+      },
+      "claim": {
+        "worker_id": "50ed18234062423ab35530538cb3f1fc-shard-0",
+        "claimed_at": "2026-11-13T23:40:58.557849+00:00",
+        "lease_expires_at": "2026-11-14T05:40:58.557849+00:00",
+        "run_id": "43526557198"
       }
     },
     "2994": {
@@ -150020,7 +150026,7 @@
       "last_plan": {
         "source_id": "30019433",
         "display_name": "The Hunley SD CZ Dabing",
-        "planned_at": "2026-11-13T23:40:54.920888+00:00"
+        "planned_at": "2026-11-13T23:40:57.998655+00:00"
       }
     },
     "4153": {
@@ -201122,5 +201128,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:40:55.208857+00:00"
+  "updated_at": "2026-11-13T23:40:58.941317+00:00"
 }
