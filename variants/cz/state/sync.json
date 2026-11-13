@@ -149301,17 +149301,19 @@
       "attempts": []
     },
     "17008": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35428437",
+          "target_video_id": "31020067",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:22:07.089134+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35428437",
         "display_name": "Péril blanc 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:19:36.194803+00:00"
-      },
-      "claim": {
-        "worker_id": "f4bd39ddf37a40ad812010e227539fca-shard-0",
-        "claimed_at": "2026-11-13T22:19:36.744175+00:00",
-        "lease_expires_at": "2026-11-14T04:19:36.744175+00:00",
-        "run_id": "43482054430"
       },
       "previous_target_id": "31020067",
       "prepared": {
@@ -200559,5 +200561,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:22:05.457743+00:00"
+  "updated_at": "2026-11-13T22:22:07.089151+00:00"
 }
