@@ -39348,17 +39348,19 @@
       "attempts": []
     },
     "14325": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31162122",
+          "target_video_id": "31012333",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:36:50.121593+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31162122",
         "display_name": "Welcome to the Rileys 1080p CZ Titulky",
         "planned_at": "2026-11-13T12:18:34.841253+00:00"
-      },
-      "claim": {
-        "worker_id": "3bdd5ad9e92841f193cd8012dc17a7ea-shard-0",
-        "claimed_at": "2026-11-13T12:18:37.263992+00:00",
-        "lease_expires_at": "2026-11-13T18:18:37.263992+00:00",
-        "run_id": "43408558477"
       },
       "previous_target_id": "31012333",
       "prepared": {
@@ -98820,5 +98822,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:36:46.319775+00:00"
+  "updated_at": "2026-11-13T12:36:50.121612+00:00"
 }
