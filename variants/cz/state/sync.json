@@ -115067,13 +115067,6 @@
           "source_id": "26253538",
           "target_video_id": "30984524",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:48:33.826131+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26253538",
-          "target_video_id": "30984524",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:40:26.393345+00:00"
         },
         {
@@ -115082,6 +115075,13 @@
           "target_video_id": "30984524",
           "permanent": false,
           "attempted_at": "2026-11-13T02:53:15.334708+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26253538",
+          "target_video_id": "30984524",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:03:16.454833+00:00"
         }
       ],
       "last_plan": {
@@ -115095,12 +115095,6 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T16:41:21.772544+00:00",
         "relay_source_id": "26253538"
-      },
-      "claim": {
-        "worker_id": "762efec3879d457f94055c6b79f8414d-shard-0",
-        "claimed_at": "2026-11-13T04:03:14.443719+00:00",
-        "lease_expires_at": "2026-11-13T10:03:14.443719+00:00",
-        "run_id": "43339109036"
       }
     },
     "17763": {
@@ -117668,7 +117662,7 @@
       "last_plan": {
         "source_id": "33856555",
         "display_name": "Trouble with the Curve 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:53:16.909622+00:00"
+        "planned_at": "2026-11-13T04:03:15.873234+00:00"
       },
       "previous_target_id": "30984811",
       "prepared": {
@@ -117676,6 +117670,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-10T17:43:30.229736+00:00",
         "relay_source_id": "33856555"
+      },
+      "claim": {
+        "worker_id": "a607cbfdb7754fe4a446647bb28265a8-shard-0",
+        "claimed_at": "2026-11-13T04:03:16.318904+00:00",
+        "lease_expires_at": "2026-11-13T10:03:16.318904+00:00",
+        "run_id": "43339109036"
       }
     },
     "2772": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:03:12.515789+00:00"
+        "planned_at": "2026-11-13T04:03:16.064514+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:03:14.443733+00:00"
+  "updated_at": "2026-11-13T04:03:16.454849+00:00"
 }
