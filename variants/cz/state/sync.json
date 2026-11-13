@@ -33169,17 +33169,19 @@
       }
     },
     "1253": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35198964",
+          "target_video_id": "31007801",
+          "permanent": false,
+          "attempted_at": "2026-11-13T01:49:20.573316+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35198964",
         "display_name": "Sherlock Holmes: A Game of Shadows 4K CZ Dabing",
         "planned_at": "2026-11-13T01:12:21.253840+00:00"
-      },
-      "claim": {
-        "worker_id": "70589a30f7ee4842adaa43d52c85ec1d-shard-0",
-        "claimed_at": "2026-11-13T01:12:22.561329+00:00",
-        "lease_expires_at": "2026-11-13T07:12:22.561329+00:00",
-        "run_id": "43339109036"
       },
       "previous_target_id": "31007801",
       "prepared": {
@@ -129394,7 +129396,7 @@
       "last_plan": {
         "source_id": "34993388",
         "display_name": "Love Me Tender (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-12T23:52:57.671490+00:00"
+        "planned_at": "2026-11-13T01:49:19.951342+00:00"
       },
       "previous_target_id": "30986791",
       "prepared": {
@@ -129402,6 +129404,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T02:10:01.122902+00:00",
         "relay_source_id": "34993388"
+      },
+      "claim": {
+        "worker_id": "75956666908d4d44826bc7cefb0db72a-shard-0",
+        "claimed_at": "2026-11-13T01:49:20.425323+00:00",
+        "lease_expires_at": "2026-11-13T07:49:20.425323+00:00",
+        "run_id": "43339109036"
       }
     },
     "14540": {
@@ -198833,10 +198841,10 @@
       "last_plan": {
         "source_id": "34710859",
         "display_name": "Nazis at Nuremberg: The Lost Testimony 1080p CZ Dabing",
-        "planned_at": "2026-11-13T01:49:16.261777+00:00"
+        "planned_at": "2026-11-13T01:49:20.157876+00:00"
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T01:49:18.163129+00:00"
+  "updated_at": "2026-11-13T01:49:20.573346+00:00"
 }
