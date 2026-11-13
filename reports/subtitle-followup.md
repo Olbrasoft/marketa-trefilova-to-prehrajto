@@ -694,3 +694,4 @@ Attach subtitles only after target processing has finished.
 | Amanda Knox 720p CZ Titulky | 31012115 | https://sdilej.cz/8457253/amanda-knox-2016-titulky.cz-720p.mkv | Extract Czech track from exact source after processing |
 | Batman: Hush 1080p CZ Titulky | 31012237 | https://sdilej.cz/12033354/batman-hush.2019.cz-titulky.1080p.webrip-super-animovany-novinka.mkv | Extract Czech track from exact source after processing |
 | Welcome to the Rileys 1080p CZ Titulky | 31012333 | https://sdilej.cz/31162122/2010-welcome-to-the-rileys-svet-podla-mallory-mo-1080p-en-cztit.mkv | Extract Czech track from exact source after processing |
+| The Last Stop in Yuma County 1080p CZ Titulky | 31012476 | https://sdilej.cz/29064521/the-last-stop-in-yuma-county-2023-cztit-v-obraze-1080p.mkv | Extract Czech track from exact source after processing |
