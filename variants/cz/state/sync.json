@@ -125872,13 +125872,6 @@
           "source_id": "20219827",
           "target_video_id": "30985951",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:50:06.759687+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20219827",
-          "target_video_id": "30985951",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:41:35.186623+00:00"
         },
         {
@@ -125887,6 +125880,13 @@
           "target_video_id": "30985951",
           "permanent": false,
           "attempted_at": "2026-11-13T02:54:38.236606+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20219827",
+          "target_video_id": "30985951",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:04:10.254779+00:00"
         }
       ],
       "last_plan": {
@@ -125900,12 +125900,6 @@
         "size_bytes": 875700000,
         "prepared_at": "2026-11-10T22:45:35.481794+00:00",
         "relay_source_id": "20219827"
-      },
-      "claim": {
-        "worker_id": "1ab945d0e9a446db9b81bc83e16b2c75-shard-0",
-        "claimed_at": "2026-11-13T04:04:07.149256+00:00",
-        "lease_expires_at": "2026-11-13T10:04:07.149256+00:00",
-        "run_id": "43339109036"
       }
     },
     "2839": {
@@ -130607,7 +130601,7 @@
       "last_plan": {
         "source_id": "29187766",
         "display_name": "Mistakes (Chyby) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:54:39.721321+00:00"
+        "planned_at": "2026-11-13T04:04:09.638920+00:00"
       },
       "previous_target_id": "30986940",
       "prepared": {
@@ -130615,6 +130609,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-11T02:45:59.556429+00:00",
         "relay_source_id": "29187766"
+      },
+      "claim": {
+        "worker_id": "13713fb7ed274a848f57ecee0fd7840d-shard-0",
+        "claimed_at": "2026-11-13T04:04:10.089815+00:00",
+        "lease_expires_at": "2026-11-13T10:04:10.089815+00:00",
+        "run_id": "43339109036"
       }
     },
     "15742": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:04:06.898923+00:00"
+        "planned_at": "2026-11-13T04:04:09.845567+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:04:08.150816+00:00"
+  "updated_at": "2026-11-13T04:04:10.254795+00:00"
 }
