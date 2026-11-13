@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-13T23:28:49.517610+00:00
+Poslední aktualizace (UTC): 2026-11-13T23:28:50.890849+00:00
 
 Zkontrolováno videí: 717. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 141, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 142, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -108,6 +108,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 149. Důvo
 | [Green Book 1080p](https://prehraj.to/green-book-mp4/2e88bec948b595b6) (ID 30609217) | [Sdílej 31912774](https://sdilej.cz/31912774/green.book.2018.1080p.bluray.h264.aac-rarbg.mp4) | target_unavailable | 2026-11-10T09:49:37.027203+00:00 |
 | [Green Room 1080p CZ Titulky](https://prehraj.to/green-room-1080p-cz-titulky-mkv/e0dda85f61c4924e) (ID 31005872) | [Sdílej 6122354](https://sdilej.cz/6122354/green-room-2015-titulky.cz-1080p.h264.mkv) | target_unavailable | 2026-11-12T20:51:20.850516+00:00 |
 | [Harrison's Flowers SD CZ Titulky](https://prehraj.to/harrison-s-flowers-sd-cz-titulky-mkv/b113fd605d829de3) (ID 30992832) | [Sdílej 27735775](https://sdilej.cz/27735775/harrisonovy-kvety-harrison-s-flowers-2000-cz-tit.mkv) | target_unavailable | 2026-11-11T18:34:50.841602+00:00 |
+| [How I Became a Gangster (Jak zostalem gangsterem. Historia prawdziwa) 1080p CZ Titulky](https://prehraj.to/how-i-became-a-gangster-jak-zostalem-gangsterem-historia-prawdziwa-1080p-cz-titulky-mkv/eac6b5d7ef9dc2b1) (ID 31021388) | [Sdílej 24575270](https://sdilej.cz/24575270/jak-jsem-se-stal-gangsterem-webrip-pl-en-tit-cz.mkv) | target_unavailable | 2026-11-13T23:28:50.890647+00:00 |
 | [How to Train Your Dragon (2010) 4K CZ Titulky](https://prehraj.to/how-to-train-your-dragon-2010-4k-cz-titulky-mkv/d0412c25236707dc) (ID 30615827) | [Sdílej 11053464](https://sdilej.cz/11053464/how.to.train.your.dragon.2010.2160p.uhd.bluray.x265-iamable.mkv) | target_unavailable | 2026-11-10T09:40:23.621394+00:00 |
 | [I Am Bolt SD CZ Titulky](https://prehraj.to/i-am-bolt-sd-cz-titulky-mkv/150f3b94081bd3d1) (ID 30984744) | [Sdílej 7004752](https://sdilej.cz/7004752/i-am-bolt-2016-titulky.cz.mkv) | target_unavailable | 2026-11-10T17:37:34.750684+00:00 |
 | [I Dutifully Report (Poslušně hlásím) 1080p CZ Titulky](https://prehraj.to/i-dutifully-report-poslusne-hlasim-1080p-cz-titulky-0-digitally-remastered/3166c21fffe2a24f) (ID 30989692) | [Sdílej 27431239](https://sdilej.cz/27431239/svejk-2-poslusne-hlasim-1958-96-min-fhd-x264-2.0-cs-.mkv) | target_unavailable | 2026-11-11T12:08:06.216153+00:00 |
