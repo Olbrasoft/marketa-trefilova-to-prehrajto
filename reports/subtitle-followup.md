@@ -687,3 +687,4 @@ Attach subtitles only after target processing has finished.
 | Fack ju Göhte 1080p CZ Titulky | 31009557 | https://sdilej.cz/29043242/fakju-pane-uciteli.mkv | Extract Czech track from exact source after processing |
 | Ms. President (Prezidentka) 1080p CZ Titulky | 31009923 | https://sdilej.cz/30776190/prezidentka-2024-sk.mkv | Extract Czech track from exact source after processing |
 | The Night Comes for Us 1080p CZ Titulky | 31010102 | https://sdilej.cz/26970393/the-night-comes-for-us-2018-cz-sub-indonesian-1080p-nf-webrip-ddp5-1-x264.mkv | Extract Czech track from exact source after processing |
+| Goya's Ghosts 1080p CZ Titulky | 31010194 | https://sdilej.cz/34683084/goyovy-prizraky-drama-j.bardem-n.-portman-2006-cztit.1080p.bluray.mkv | Extract Czech track from exact source after processing |
