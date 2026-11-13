@@ -205,13 +205,6 @@
           "source_id": "32109285",
           "target_video_id": "30570341",
           "permanent": false,
-          "attempted_at": "2026-11-13T07:52:16.185065+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109285",
-          "target_video_id": "30570341",
-          "permanent": false,
           "attempted_at": "2026-11-13T09:19:01.758320+00:00"
         },
         {
@@ -220,6 +213,13 @@
           "target_video_id": "30570341",
           "permanent": false,
           "attempted_at": "2026-11-13T11:29:22.003447+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109285",
+          "target_video_id": "30570341",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:45:24.213769+00:00"
         }
       ],
       "last_plan": {
@@ -233,12 +233,6 @@
         "size_bytes": 9500000000,
         "prepared_at": "2026-10-27T18:58:10.341227+00:00",
         "relay_source_id": "32109285"
-      },
-      "claim": {
-        "worker_id": "1b3d1e5f5d0f4a32a74a4a165ce796de-shard-0",
-        "claimed_at": "2026-11-13T12:45:19.693125+00:00",
-        "lease_expires_at": "2026-11-13T18:45:19.693125+00:00",
-        "run_id": "43408558477"
       }
     },
     "10755": {
@@ -17441,7 +17435,7 @@
       "last_plan": {
         "source_id": "6078224",
         "display_name": "Billy Elliot SD CZ Dabing",
-        "planned_at": "2026-11-13T11:29:23.867105+00:00"
+        "planned_at": "2026-11-13T12:45:23.271794+00:00"
       },
       "previous_target_id": "30669521",
       "prepared": {
@@ -17449,6 +17443,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-10-31T14:23:47.525206+00:00",
         "relay_source_id": "6078224"
+      },
+      "claim": {
+        "worker_id": "23696bbb8bf544bf858b983bb44b0d08-shard-0",
+        "claimed_at": "2026-11-13T12:45:24.415505+00:00",
+        "lease_expires_at": "2026-11-13T18:45:24.415505+00:00",
+        "run_id": "43408558477"
       }
     },
     "23132": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T12:45:18.406203+00:00"
+        "planned_at": "2026-11-13T12:45:23.670265+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:45:19.693169+00:00"
+  "updated_at": "2026-11-13T12:45:24.415528+00:00"
 }
