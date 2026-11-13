@@ -121505,13 +121505,6 @@
           "source_id": "34874346",
           "target_video_id": "30985387",
           "permanent": false,
-          "attempted_at": "2026-11-13T00:31:31.706371+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34874346",
-          "target_video_id": "30985387",
-          "permanent": false,
           "attempted_at": "2026-11-13T02:18:18.082864+00:00"
         },
         {
@@ -121520,12 +121513,19 @@
           "target_video_id": "30985387",
           "permanent": false,
           "attempted_at": "2026-11-13T03:32:22.932450+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34874346",
+          "target_video_id": "30985387",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:33:42.004145+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34874346",
         "display_name": "Night Train to Lisbon SD CZ Dabing",
-        "planned_at": "2026-11-13T03:32:21.076937+00:00"
+        "planned_at": "2026-11-13T04:33:39.692025+00:00"
       },
       "previous_target_id": "30985387",
       "prepared": {
@@ -147451,7 +147451,13 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:33:34.932221+00:00"
+        "planned_at": "2026-11-13T04:33:39.925105+00:00"
+      },
+      "claim": {
+        "worker_id": "56b33819126f46daafe57394d0896f64-shard-0",
+        "claimed_at": "2026-11-13T04:33:40.516395+00:00",
+        "lease_expires_at": "2026-11-13T10:33:40.516395+00:00",
+        "run_id": "43339109036"
       }
     },
     "11319": {
@@ -147459,7 +147465,7 @@
       "last_plan": {
         "source_id": "30531799",
         "display_name": "The Battle of Port Arthur (二百三高地) 720p CZ Dabing",
-        "planned_at": "2026-11-13T04:32:59.304360+00:00"
+        "planned_at": "2026-11-13T04:33:40.064574+00:00"
       }
     },
     "23737": {
@@ -198980,5 +198986,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:33:37.579613+00:00"
+  "updated_at": "2026-11-13T04:33:42.004169+00:00"
 }
