@@ -123269,13 +123269,6 @@
           "source_id": "30317434",
           "target_video_id": "30985560",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:58:54.234937+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30317434",
-          "target_video_id": "30985560",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:53:42.803207+00:00"
         },
         {
@@ -123284,6 +123277,13 @@
           "target_video_id": "30985560",
           "permanent": false,
           "attempted_at": "2026-11-13T03:02:05.210716+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30317434",
+          "target_video_id": "30985560",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:09:19.401535+00:00"
         }
       ],
       "last_plan": {
@@ -123824,7 +123824,7 @@
       "last_plan": {
         "source_id": "32453487",
         "display_name": "Le gendarme se marie 4K CZ Dabing",
-        "planned_at": "2026-11-13T03:02:06.522888+00:00"
+        "planned_at": "2026-11-13T04:09:18.163619+00:00"
       },
       "previous_target_id": "30985646",
       "prepared": {
@@ -123832,6 +123832,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T20:58:30.117329+00:00",
         "relay_source_id": "32453487"
+      },
+      "claim": {
+        "worker_id": "5c95580465b443db836e960a359be328-shard-0",
+        "claimed_at": "2026-11-13T04:09:18.677293+00:00",
+        "lease_expires_at": "2026-11-13T10:09:18.677293+00:00",
+        "run_id": "43339109036"
       }
     },
     "18520": {
@@ -147438,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:09:16.361481+00:00"
+        "planned_at": "2026-11-13T04:09:18.379799+00:00"
       }
     },
     "11319": {
@@ -198967,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:09:16.361494+00:00"
+  "updated_at": "2026-11-13T04:09:19.401548+00:00"
 }
