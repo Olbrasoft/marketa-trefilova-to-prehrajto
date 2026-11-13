@@ -42914,6 +42914,12 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
+      },
+      "claim": {
+        "worker_id": "c0eacf7c8a9c444498c2e19e0f441b62-shard-0",
+        "claimed_at": "2026-11-13T22:06:23.604393+00:00",
+        "lease_expires_at": "2026-11-14T04:06:23.604393+00:00",
+        "run_id": "43482054430"
       }
     },
     "1395": {
@@ -135245,13 +135251,6 @@
           "source_id": "34676280",
           "target_video_id": "30987576",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:30:57.308801+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34676280",
-          "target_video_id": "30987576",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:58:38.420030+00:00"
         },
         {
@@ -135260,12 +135259,19 @@
           "target_video_id": "30987576",
           "permanent": false,
           "attempted_at": "2026-11-13T21:03:15.742284+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676280",
+          "target_video_id": "30987576",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:06:26.118971+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34676280",
         "display_name": "Stop Mewling, Squirrel! (Nefňukej, veverko!) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:03:13.146174+00:00"
+        "planned_at": "2026-11-13T22:06:23.770296+00:00"
       },
       "previous_target_id": "30987576",
       "prepared": {
@@ -149168,7 +149174,7 @@
       "last_plan": {
         "source_id": "32254969",
         "display_name": "Ruy Blas 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:06:21.980594+00:00"
+        "planned_at": "2026-11-13T22:06:23.984173+00:00"
       }
     },
     "30163": {
@@ -200425,5 +200431,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:06:21.980610+00:00"
+  "updated_at": "2026-11-13T22:06:26.118988+00:00"
 }
