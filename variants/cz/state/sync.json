@@ -116289,13 +116289,6 @@
           "source_id": "11567602",
           "target_video_id": "30984685",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:32:27.873139+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11567602",
-          "target_video_id": "30984685",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:59:52.260815+00:00"
         },
         {
@@ -116304,6 +116297,13 @@
           "target_video_id": "30984685",
           "permanent": false,
           "attempted_at": "2026-11-13T21:04:26.840074+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11567602",
+          "target_video_id": "30984685",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:07:23.309196+00:00"
         }
       ],
       "last_plan": {
@@ -116317,12 +116317,6 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T17:17:48.571119+00:00",
         "relay_source_id": "11567602"
-      },
-      "claim": {
-        "worker_id": "433e9bad3c394de8816f48c1bb1ddc3e-shard-0",
-        "claimed_at": "2026-11-13T22:07:20.555534+00:00",
-        "lease_expires_at": "2026-11-14T04:07:20.555534+00:00",
-        "run_id": "43482054430"
       }
     },
     "11484": {
@@ -123882,7 +123876,7 @@
       "last_plan": {
         "source_id": "32499158",
         "display_name": "Khartoum 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:04:28.473935+00:00"
+        "planned_at": "2026-11-13T22:07:22.680024+00:00"
       },
       "previous_target_id": "30985645",
       "prepared": {
@@ -123890,6 +123884,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-10T20:58:28.408510+00:00",
         "relay_source_id": "32499158"
+      },
+      "claim": {
+        "worker_id": "4c16ce216ac04952bbb32776df734306-shard-0",
+        "claimed_at": "2026-11-13T22:07:23.144381+00:00",
+        "lease_expires_at": "2026-11-14T04:07:23.144381+00:00",
+        "run_id": "43482054430"
       }
     },
     "2981": {
@@ -149174,7 +149174,7 @@
       "last_plan": {
         "source_id": "32254969",
         "display_name": "Ruy Blas 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:07:20.307840+00:00"
+        "planned_at": "2026-11-13T22:07:22.891077+00:00"
       }
     },
     "30163": {
@@ -200431,5 +200431,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:07:21.199050+00:00"
+  "updated_at": "2026-11-13T22:07:23.309217+00:00"
 }
