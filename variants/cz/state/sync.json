@@ -108451,13 +108451,6 @@
           "source_id": "34715818",
           "target_video_id": "30983577",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:07:23.436430+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34715818",
-          "target_video_id": "30983577",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:22:12.583066+00:00"
         },
         {
@@ -108466,6 +108459,13 @@
           "target_video_id": "30983577",
           "permanent": false,
           "attempted_at": "2026-11-13T04:25:27.030782+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34715818",
+          "target_video_id": "30983577",
+          "permanent": false,
+          "attempted_at": "2026-11-13T05:56:41.877685+00:00"
         }
       ],
       "last_plan": {
@@ -108479,12 +108479,6 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-10T14:17:57.478000+00:00",
         "relay_source_id": "34715818"
-      },
-      "claim": {
-        "worker_id": "bc14d240054440258bc3c27226b0213d-shard-0",
-        "claimed_at": "2026-11-13T05:56:35.544305+00:00",
-        "lease_expires_at": "2026-11-13T11:56:35.544305+00:00",
-        "run_id": "43371605577"
       }
     },
     "12666": {
@@ -139563,7 +139557,7 @@
       "last_plan": {
         "source_id": "32326508",
         "display_name": "Where Butterflies Don't Fly (Kam motýli nelétají) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:25:25.547224+00:00"
+        "planned_at": "2026-11-13T05:56:41.010186+00:00"
       },
       "previous_target_id": "30987972",
       "prepared": {
@@ -139571,6 +139565,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T07:06:56.311315+00:00",
         "relay_source_id": "32326508"
+      },
+      "claim": {
+        "worker_id": "af0502200b4f487cb5fc7049f651ec46-shard-0",
+        "claimed_at": "2026-11-13T05:56:41.657241+00:00",
+        "lease_expires_at": "2026-11-13T11:56:41.657241+00:00",
+        "run_id": "43371605577"
       }
     },
     "24287": {
@@ -147578,7 +147578,7 @@
       "last_plan": {
         "source_id": "31504443",
         "display_name": "Darling, Are We a Good Match...? (Do We Match Each Other, Darling?) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T05:56:35.006200+00:00"
+        "planned_at": "2026-11-13T05:56:41.282671+00:00"
       }
     },
     "26986": {
@@ -199090,5 +199090,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T05:56:36.133008+00:00"
+  "updated_at": "2026-11-13T05:56:41.877703+00:00"
 }
