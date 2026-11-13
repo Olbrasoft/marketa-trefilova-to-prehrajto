@@ -108245,13 +108245,6 @@
           "source_id": "33299236",
           "target_video_id": "30983538",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:26:12.112931+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33299236",
-          "target_video_id": "30983538",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:36:34.303146+00:00"
         },
         {
@@ -108260,6 +108253,13 @@
           "target_video_id": "30983538",
           "permanent": false,
           "attempted_at": "2026-11-13T18:52:44.294341+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33299236",
+          "target_video_id": "30983538",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:13:16.247259+00:00"
         }
       ],
       "last_plan": {
@@ -131825,7 +131825,7 @@
       "last_plan": {
         "source_id": "34628242",
         "display_name": "Svět kde se žebrá 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:52:43.256795+00:00"
+        "planned_at": "2026-11-13T20:13:15.063286+00:00"
       },
       "previous_target_id": "30987053",
       "prepared": {
@@ -131833,6 +131833,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T03:30:34.687909+00:00",
         "relay_source_id": "34628242"
+      },
+      "claim": {
+        "worker_id": "346f0e110c674901ad2c51c5e52bfb59-shard-0",
+        "claimed_at": "2026-11-13T20:13:15.578912+00:00",
+        "lease_expires_at": "2026-11-14T02:13:15.578912+00:00",
+        "run_id": "43482054430"
       }
     },
     "12649": {
@@ -148665,7 +148671,7 @@
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
-        "planned_at": "2026-11-13T20:13:13.300893+00:00"
+        "planned_at": "2026-11-13T20:13:15.277167+00:00"
       }
     },
     "28902": {
@@ -200017,5 +200023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:13:13.300913+00:00"
+  "updated_at": "2026-11-13T20:13:16.247279+00:00"
 }
