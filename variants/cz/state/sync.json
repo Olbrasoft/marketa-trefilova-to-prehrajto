@@ -115553,7 +115553,7 @@
       "last_plan": {
         "source_id": "34506881",
         "display_name": "One Hour Photo 1080p CZ Dabing",
-        "planned_at": "2026-11-13T20:48:30.442120+00:00"
+        "planned_at": "2026-11-13T21:53:36.093420+00:00"
       },
       "previous_target_id": "30984630",
       "prepared": {
@@ -115561,6 +115561,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-10T17:09:05.713891+00:00",
         "relay_source_id": "34506881"
+      },
+      "claim": {
+        "worker_id": "ffbd101dd52d4fa2a32830d0827e6d56-shard-0",
+        "claimed_at": "2026-11-13T21:53:36.550417+00:00",
+        "lease_expires_at": "2026-11-14T03:53:36.550417+00:00",
+        "run_id": "43482054430"
       }
     },
     "13296": {
@@ -122868,13 +122874,6 @@
           "source_id": "10214556",
           "target_video_id": "30985503",
           "permanent": false,
-          "attempted_at": "2026-11-13T18:12:54.252270+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10214556",
-          "target_video_id": "30985503",
-          "permanent": false,
           "attempted_at": "2026-11-13T19:41:17.058995+00:00"
         },
         {
@@ -122883,6 +122882,13 @@
           "target_video_id": "30985503",
           "permanent": false,
           "attempted_at": "2026-11-13T20:48:27.533823+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10214556",
+          "target_video_id": "30985503",
+          "permanent": false,
+          "attempted_at": "2026-11-13T21:53:36.728188+00:00"
         }
       ],
       "last_plan": {
@@ -122896,12 +122902,6 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-10T19:48:14.438492+00:00",
         "relay_source_id": "10214556"
-      },
-      "claim": {
-        "worker_id": "a493cbcc37734b39a4ed5ea775b98813-shard-0",
-        "claimed_at": "2026-11-13T21:53:33.230102+00:00",
-        "lease_expires_at": "2026-11-14T03:53:33.230102+00:00",
-        "run_id": "43482054430"
       }
     },
     "2989": {
@@ -149002,7 +149002,7 @@
       "last_plan": {
         "source_id": "13018503",
         "display_name": "The Greedy Tiffany (Nenasytná Tiffany) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T21:53:32.778205+00:00"
+        "planned_at": "2026-11-13T21:53:36.292870+00:00"
       }
     },
     "32280": {
@@ -200286,5 +200286,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:53:34.647897+00:00"
+  "updated_at": "2026-11-13T21:53:36.728203+00:00"
 }
