@@ -20013,13 +20013,6 @@
           "source_id": "12671560",
           "target_video_id": "30680839",
           "permanent": false,
-          "attempted_at": "2026-11-13T07:02:15.406942+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12671560",
-          "target_video_id": "30680839",
-          "permanent": false,
           "attempted_at": "2026-11-13T08:22:03.950910+00:00"
         },
         {
@@ -20028,6 +20021,13 @@
           "target_video_id": "30680839",
           "permanent": false,
           "attempted_at": "2026-11-13T10:48:49.685973+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12671560",
+          "target_video_id": "30680839",
+          "permanent": false,
+          "attempted_at": "2026-11-13T12:00:10.505322+00:00"
         }
       ],
       "last_plan": {
@@ -20041,12 +20041,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-10-31T23:30:33.725749+00:00",
         "relay_source_id": "12671560"
-      },
-      "claim": {
-        "worker_id": "7a1684a106d04fd8a5d843ff6f6b0d13-shard-0",
-        "claimed_at": "2026-11-13T12:00:02.781557+00:00",
-        "lease_expires_at": "2026-11-13T18:00:02.781557+00:00",
-        "run_id": "43408558477"
       }
     },
     "835": {
@@ -112856,7 +112850,7 @@
       "last_plan": {
         "source_id": "33495930",
         "display_name": "Tanecnice (Tanečnice) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T10:48:48.382634+00:00"
+        "planned_at": "2026-11-13T12:00:09.584358+00:00"
       },
       "previous_target_id": "30983976",
       "prepared": {
@@ -112864,6 +112858,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T15:09:20.357315+00:00",
         "relay_source_id": "33495930"
+      },
+      "claim": {
+        "worker_id": "f6cf5be885284c78a362f4d2be18bf72-shard-0",
+        "claimed_at": "2026-11-13T12:00:10.715917+00:00",
+        "lease_expires_at": "2026-11-13T18:00:10.715917+00:00",
+        "run_id": "43408558477"
       }
     },
     "12718": {
@@ -147737,7 +147737,7 @@
       "last_plan": {
         "source_id": "27663431",
         "display_name": "Královský slib 1080p CZ Dabing",
-        "planned_at": "2026-11-13T12:00:02.242940+00:00"
+        "planned_at": "2026-11-13T12:00:09.961691+00:00"
       }
     },
     "19216": {
@@ -199241,5 +199241,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T12:00:05.932409+00:00"
+  "updated_at": "2026-11-13T12:00:10.715940+00:00"
 }
