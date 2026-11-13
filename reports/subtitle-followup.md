@@ -708,3 +708,4 @@ Attach subtitles only after target processing has finished.
 | Chisum 1080p CZ Titulky | 31014978 | https://sdilej.cz/30779927/john-chisum-hraji-john-wayne-1970-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
 | Officer Black Belt (무도실무관) 1080p CZ Titulky | 31015032 | https://sdilej.cz/29683351/officer.black.belt.2024.1080p.web.h264-edith.mkv | Extract Czech track from exact source after processing |
 | 12 Mighty Orphans 1080p CZ Titulky | 31015540 | https://sdilej.cz/24553606/12-nezdolnych-sirotku-webrip-en-tit-cz-2021.mkv | Extract Czech track from exact source after processing |
+| Godzilla vs. Destoroyah (ゴジラvsデストロイア) 1080p CZ Titulky | 31017298 | https://sdilej.cz/35320512/godzilla-vs-destroyah-r.1995.1080p-jap-engdab-cz-engtit-.mkv | Extract Czech track from exact source after processing |
