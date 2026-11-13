@@ -123201,13 +123201,6 @@
           "source_id": "34230753",
           "target_video_id": "30985555",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:55:21.095548+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34230753",
-          "target_video_id": "30985555",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:59:22.240294+00:00"
         },
         {
@@ -123216,12 +123209,19 @@
           "target_video_id": "30985555",
           "permanent": false,
           "attempted_at": "2026-11-13T22:03:13.470438+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34230753",
+          "target_video_id": "30985555",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:05:13.603541+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34230753",
         "display_name": "The Best Man (1999) 720p CZ Dabing",
-        "planned_at": "2026-11-13T22:03:10.697615+00:00"
+        "planned_at": "2026-11-13T23:05:11.853084+00:00"
       },
       "previous_target_id": "30985555",
       "prepared": {
@@ -149858,11 +149858,22 @@
       "last_plan": {
         "source_id": "34883224",
         "display_name": "Deckname Holec 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:05:03.682154+00:00"
+        "planned_at": "2026-11-13T23:05:12.060679+00:00"
+      },
+      "claim": {
+        "worker_id": "087a4e10dbab4f6ebb35fcea7073e867-shard-0",
+        "claimed_at": "2026-11-13T23:05:12.560206+00:00",
+        "lease_expires_at": "2026-11-14T05:05:12.560206+00:00",
+        "run_id": "43482054430"
       }
     },
     "5083": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "13005495",
+        "display_name": "Veterán 1080p CZ Dabing",
+        "planned_at": "2026-11-13T23:05:12.186910+00:00"
+      }
     },
     "12714": {
       "attempts": []
@@ -200980,5 +200991,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:05:10.005777+00:00"
+  "updated_at": "2026-11-13T23:05:13.603557+00:00"
 }
