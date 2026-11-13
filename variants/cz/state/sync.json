@@ -127037,13 +127037,6 @@
           "source_id": "34453688",
           "target_video_id": "30986375",
           "permanent": false,
-          "attempted_at": "2026-11-13T20:06:00.152901+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34453688",
-          "target_video_id": "30986375",
-          "permanent": false,
           "attempted_at": "2026-11-13T21:10:03.414870+00:00"
         },
         {
@@ -127052,6 +127045,13 @@
           "target_video_id": "30986375",
           "permanent": false,
           "attempted_at": "2026-11-13T22:12:12.658136+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34453688",
+          "target_video_id": "30986375",
+          "permanent": false,
+          "attempted_at": "2026-11-13T23:34:33.132736+00:00"
         }
       ],
       "last_plan": {
@@ -135456,7 +135456,7 @@
       "last_plan": {
         "source_id": "11994914",
         "display_name": "Bankrot SD CZ Dabing",
-        "planned_at": "2026-11-13T22:12:11.214642+00:00"
+        "planned_at": "2026-11-13T23:34:31.888010+00:00"
       },
       "previous_target_id": "30987591",
       "prepared": {
@@ -135464,6 +135464,12 @@
         "size_bytes": 975100000,
         "prepared_at": "2026-11-11T05:20:01.782170+00:00",
         "relay_source_id": "11994914"
+      },
+      "claim": {
+        "worker_id": "306cea6d9d544350a7e15a54a66c7b3b-shard-0",
+        "claimed_at": "2026-11-13T23:34:32.811383+00:00",
+        "lease_expires_at": "2026-11-14T05:34:32.811383+00:00",
+        "run_id": "43526557198"
       }
     },
     "24145": {
@@ -150008,7 +150014,7 @@
       "last_plan": {
         "source_id": "30019433",
         "display_name": "The Hunley SD CZ Dabing",
-        "planned_at": "2026-11-13T23:34:28.913814+00:00"
+        "planned_at": "2026-11-13T23:34:32.227170+00:00"
       }
     },
     "4153": {
@@ -201110,5 +201116,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T23:34:29.176466+00:00"
+  "updated_at": "2026-11-13T23:34:33.132755+00:00"
 }
