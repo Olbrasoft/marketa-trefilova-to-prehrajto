@@ -110595,6 +110595,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T14:44:05.857438+00:00",
         "relay_source_id": "30715852"
+      },
+      "claim": {
+        "worker_id": "8ee449484cec48e1bacb4efbbde8fbd8-shard-0",
+        "claimed_at": "2026-11-13T18:49:41.678762+00:00",
+        "lease_expires_at": "2026-11-14T00:49:41.678762+00:00",
+        "run_id": "43442116051"
       }
     },
     "11774": {
@@ -113086,7 +113092,7 @@
       "last_plan": {
         "source_id": "35330871",
         "display_name": "Doctor Strange in the Multiverse of Madness 4K CZ Dabing",
-        "planned_at": "2026-11-13T17:31:41.526366+00:00"
+        "planned_at": "2026-11-13T18:49:41.985888+00:00"
       },
       "previous_target_id": "30984006",
       "prepared": {
@@ -137462,13 +137468,6 @@
           "source_id": "34699885",
           "target_video_id": "30987797",
           "permanent": false,
-          "attempted_at": "2026-11-13T15:13:40.413868+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34699885",
-          "target_video_id": "30987797",
-          "permanent": false,
           "attempted_at": "2026-11-13T16:22:26.958805+00:00"
         },
         {
@@ -137477,6 +137476,13 @@
           "target_video_id": "30987797",
           "permanent": false,
           "attempted_at": "2026-11-13T17:31:39.937736+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34699885",
+          "target_video_id": "30987797",
+          "permanent": false,
+          "attempted_at": "2026-11-13T18:49:42.220030+00:00"
         }
       ],
       "last_plan": {
@@ -137490,12 +137496,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-11T06:07:46.066877+00:00",
         "relay_source_id": "34699885"
-      },
-      "claim": {
-        "worker_id": "40cac4dfe3e34c55819794620b388083-shard-0",
-        "claimed_at": "2026-11-13T18:49:38.990219+00:00",
-        "lease_expires_at": "2026-11-14T00:49:38.990219+00:00",
-        "run_id": "43442116051"
       }
     },
     "12693": {
@@ -148452,7 +148452,7 @@
       "last_plan": {
         "source_id": "25586180",
         "display_name": "Deadly Deed: A Fixer Upper Mystery 1080p CZ Dabing",
-        "planned_at": "2026-11-13T18:49:39.555800+00:00"
+        "planned_at": "2026-11-13T18:49:42.725312+00:00"
       }
     },
     "25328": {
@@ -199826,5 +199826,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T18:49:39.555819+00:00"
+  "updated_at": "2026-11-13T18:49:42.725331+00:00"
 }
