@@ -121860,13 +121860,6 @@
           "source_id": "29835020",
           "target_video_id": "30985406",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:08:51.249205+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29835020",
-          "target_video_id": "30985406",
-          "permanent": false,
           "attempted_at": "2026-11-13T00:39:25.734715+00:00"
         },
         {
@@ -121875,6 +121868,13 @@
           "target_video_id": "30985406",
           "permanent": false,
           "attempted_at": "2026-11-13T02:25:06.556999+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29835020",
+          "target_video_id": "30985406",
+          "permanent": false,
+          "attempted_at": "2026-11-13T03:39:01.722066+00:00"
         }
       ],
       "last_plan": {
@@ -121888,12 +121888,6 @@
         "size_bytes": 10700000000,
         "prepared_at": "2026-11-10T19:09:14.207602+00:00",
         "relay_source_id": "29835020"
-      },
-      "claim": {
-        "worker_id": "b3031f6c4a5c4699ba0ebe37bfac38a5-shard-0",
-        "claimed_at": "2026-11-13T03:38:59.461547+00:00",
-        "lease_expires_at": "2026-11-13T09:38:59.461547+00:00",
-        "run_id": "43339109036"
       }
     },
     "10791": {
@@ -132168,7 +132162,7 @@
       "last_plan": {
         "source_id": "25018592",
         "display_name": "Carodejné námluvy (Čarodějné námluvy) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:25:08.107922+00:00"
+        "planned_at": "2026-11-13T03:39:01.084723+00:00"
       },
       "previous_target_id": "30987121",
       "prepared": {
@@ -132176,6 +132170,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T03:40:45.938464+00:00",
         "relay_source_id": "25018592"
+      },
+      "claim": {
+        "worker_id": "381497ed8c2343ec9879e3140feee0bd-shard-0",
+        "claimed_at": "2026-11-13T03:39:01.585620+00:00",
+        "lease_expires_at": "2026-11-13T09:39:01.585620+00:00",
+        "run_id": "43339109036"
       }
     },
     "14879": {
@@ -147393,7 +147393,7 @@
       "last_plan": {
         "source_id": "13601509",
         "display_name": "Killing Reagan 1080p CZ Dabing",
-        "planned_at": "2026-11-13T03:38:59.054825+00:00"
+        "planned_at": "2026-11-13T03:39:01.292025+00:00"
       }
     },
     "12316": {
@@ -198925,5 +198925,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T03:38:59.461573+00:00"
+  "updated_at": "2026-11-13T03:39:01.722087+00:00"
 }
