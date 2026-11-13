@@ -127575,13 +127575,6 @@
           "source_id": "32484287",
           "target_video_id": "30986499",
           "permanent": false,
-          "attempted_at": "2026-11-12T23:52:35.436873+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32484287",
-          "target_video_id": "30986499",
-          "permanent": false,
           "attempted_at": "2026-11-13T01:48:55.023495+00:00"
         },
         {
@@ -127590,6 +127583,13 @@
           "target_video_id": "30986499",
           "permanent": false,
           "attempted_at": "2026-11-13T02:56:32.624557+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32484287",
+          "target_video_id": "30986499",
+          "permanent": false,
+          "attempted_at": "2026-11-13T04:05:29.901655+00:00"
         }
       ],
       "last_plan": {
@@ -127603,12 +127603,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T00:40:39.948679+00:00",
         "relay_source_id": "32484287"
-      },
-      "claim": {
-        "worker_id": "9c40ec204b694ea98987c2db0d8ad193-shard-0",
-        "claimed_at": "2026-11-13T04:05:27.832066+00:00",
-        "lease_expires_at": "2026-11-13T10:05:27.832066+00:00",
-        "run_id": "43339109036"
       }
     },
     "16080": {
@@ -140769,7 +140763,7 @@
       "last_plan": {
         "source_id": "34720000",
         "display_name": "Hasici (Hasiči) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:56:34.064649+00:00"
+        "planned_at": "2026-11-13T04:05:29.318918+00:00"
       },
       "previous_target_id": "30988159",
       "prepared": {
@@ -140777,6 +140771,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T07:43:08.881258+00:00",
         "relay_source_id": "34720000"
+      },
+      "claim": {
+        "worker_id": "f6db86d165814631865044049dcc4011-shard-0",
+        "claimed_at": "2026-11-13T04:05:29.744300+00:00",
+        "lease_expires_at": "2026-11-13T10:05:29.744300+00:00",
+        "run_id": "43339109036"
       }
     },
     "24478": {
@@ -147444,7 +147444,7 @@
       "last_plan": {
         "source_id": "32374685",
         "display_name": "Nebojsa 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:05:27.373156+00:00"
+        "planned_at": "2026-11-13T04:05:29.514284+00:00"
       }
     },
     "11319": {
@@ -198973,5 +198973,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T04:05:27.962908+00:00"
+  "updated_at": "2026-11-13T04:05:29.901668+00:00"
 }
