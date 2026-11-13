@@ -18972,13 +18972,6 @@
           "source_id": "30770919",
           "target_video_id": "30675401",
           "permanent": false,
-          "attempted_at": "2026-11-13T02:37:32.851907+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30770919",
-          "target_video_id": "30675401",
-          "permanent": false,
           "attempted_at": "2026-11-13T03:52:24.016880+00:00"
         },
         {
@@ -18987,6 +18980,13 @@
           "target_video_id": "30675401",
           "permanent": false,
           "attempted_at": "2026-11-13T04:54:29.472120+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30770919",
+          "target_video_id": "30675401",
+          "permanent": false,
+          "attempted_at": "2026-11-13T06:27:52.264324+00:00"
         }
       ],
       "last_plan": {
@@ -140225,7 +140225,7 @@
       "last_plan": {
         "source_id": "31285766",
         "display_name": "Helimadoe 1080p CZ Dabing",
-        "planned_at": "2026-11-13T04:54:31.032410+00:00"
+        "planned_at": "2026-11-13T06:27:50.937141+00:00"
       },
       "previous_target_id": "30988093",
       "prepared": {
@@ -140233,6 +140233,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T07:29:24.233787+00:00",
         "relay_source_id": "31285766"
+      },
+      "claim": {
+        "worker_id": "d8744c1e34d64107a30acde5149b0660-shard-0",
+        "claimed_at": "2026-11-13T06:27:51.583086+00:00",
+        "lease_expires_at": "2026-11-13T12:27:51.583086+00:00",
+        "run_id": "43371605577"
       }
     },
     "13318": {
@@ -147650,7 +147656,7 @@
       "last_plan": {
         "source_id": "14419594",
         "display_name": "Polumgla (Полумгла) SD CZ Dabing",
-        "planned_at": "2026-11-13T06:27:48.705416+00:00"
+        "planned_at": "2026-11-13T06:27:51.218133+00:00"
       }
     },
     "24767": {
@@ -199147,5 +199153,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T06:27:48.956496+00:00"
+  "updated_at": "2026-11-13T06:27:52.264341+00:00"
 }
