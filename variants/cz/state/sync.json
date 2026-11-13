@@ -117351,7 +117351,7 @@
       "last_plan": {
         "source_id": "32925646",
         "display_name": "Stepmom 1080p CZ Dabing",
-        "planned_at": "2026-11-13T01:36:43.752366+00:00"
+        "planned_at": "2026-11-13T02:50:05.246503+00:00"
       },
       "previous_target_id": "30984789",
       "prepared": {
@@ -117359,6 +117359,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:40:13.908414+00:00",
         "relay_source_id": "32925646"
+      },
+      "claim": {
+        "worker_id": "87e7747d82c246ada4e601a4ad4b9136-shard-0",
+        "claimed_at": "2026-11-13T02:50:05.698972+00:00",
+        "lease_expires_at": "2026-11-13T08:50:05.698972+00:00",
+        "run_id": "43339109036"
       }
     },
     "2881": {
@@ -128494,7 +128500,7 @@
       "last_plan": {
         "source_id": "26097672",
         "display_name": "Slunce, seno a pár facek 1080p CZ Dabing",
-        "planned_at": "2026-11-13T02:50:02.213097+00:00"
+        "planned_at": "2026-11-13T02:50:05.456728+00:00"
       }
     },
     "16144": {
@@ -198844,17 +198850,19 @@
       }
     },
     "28332": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34710859",
+          "target_video_id": "31008164",
+          "permanent": false,
+          "attempted_at": "2026-11-13T02:50:05.849596+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34710859",
         "display_name": "Nazis at Nuremberg: The Lost Testimony 1080p CZ Dabing",
         "planned_at": "2026-11-13T02:19:10.774415+00:00"
-      },
-      "claim": {
-        "worker_id": "22e0c4ecfa2142e1aac741b17c1a0857-shard-0",
-        "claimed_at": "2026-11-13T02:19:11.305077+00:00",
-        "lease_expires_at": "2026-11-13T08:19:11.305077+00:00",
-        "run_id": "43339109036"
       },
       "previous_target_id": "31008164",
       "prepared": {
@@ -198866,5 +198874,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T02:50:03.694188+00:00"
+  "updated_at": "2026-11-13T02:50:05.849610+00:00"
 }
