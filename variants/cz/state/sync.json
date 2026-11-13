@@ -147774,17 +147774,19 @@
       }
     },
     "37202": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34771132",
+          "target_video_id": "31015307",
+          "permanent": false,
+          "attempted_at": "2026-11-13T16:26:35.773977+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34771132",
         "display_name": "Who Killed the Montreal Expos? (Qui a tué les Expos de Montréal?) 1080p CZ Dabing",
         "planned_at": "2026-11-13T16:22:11.345617+00:00"
-      },
-      "claim": {
-        "worker_id": "7a7d2e30163f4adfb5c3493968d5c1a7-shard-0",
-        "claimed_at": "2026-11-13T16:22:12.077270+00:00",
-        "lease_expires_at": "2026-11-13T22:22:12.077270+00:00",
-        "run_id": "43442116051"
       },
       "previous_target_id": "31015307",
       "prepared": {
@@ -199281,5 +199283,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T16:26:32.868975+00:00"
+  "updated_at": "2026-11-13T16:26:35.774003+00:00"
 }
