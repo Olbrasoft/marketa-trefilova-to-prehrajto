@@ -116846,6 +116846,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:29:45.924071+00:00",
         "relay_source_id": "28248567"
+      },
+      "claim": {
+        "worker_id": "e023a5658ef74e3da35c035df268841e-shard-0",
+        "claimed_at": "2026-11-13T17:44:18.753625+00:00",
+        "lease_expires_at": "2026-11-13T23:44:18.753625+00:00",
+        "run_id": "43442116051"
       }
     },
     "23726": {
@@ -135978,13 +135984,6 @@
           "source_id": "34714270",
           "target_video_id": "30987637",
           "permanent": false,
-          "attempted_at": "2026-11-13T13:40:54.175939+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34714270",
-          "target_video_id": "30987637",
-          "permanent": false,
           "attempted_at": "2026-11-13T15:23:58.686004+00:00"
         },
         {
@@ -135993,6 +135992,13 @@
           "target_video_id": "30987637",
           "permanent": false,
           "attempted_at": "2026-11-13T16:36:50.924353+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714270",
+          "target_video_id": "30987637",
+          "permanent": false,
+          "attempted_at": "2026-11-13T17:44:19.528320+00:00"
         }
       ],
       "last_plan": {
@@ -136006,12 +136012,6 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-11T05:31:52.098930+00:00",
         "relay_source_id": "34714270"
-      },
-      "claim": {
-        "worker_id": "76bb554b5c9b4f35aeaa8200dce6e888-shard-0",
-        "claimed_at": "2026-11-13T17:44:16.413427+00:00",
-        "lease_expires_at": "2026-11-13T23:44:16.413427+00:00",
-        "run_id": "43442116051"
       }
     },
     "12573": {
@@ -147597,7 +147597,7 @@
       "last_plan": {
         "source_id": "12674209",
         "display_name": "The Key (1971) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T16:36:53.625959+00:00"
+        "planned_at": "2026-11-13T17:44:18.978786+00:00"
       },
       "previous_target_id": "31009490",
       "prepared": {
@@ -147605,6 +147605,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-13T05:48:00.829748+00:00",
         "relay_source_id": "12674209"
+      },
+      "claim": {
+        "worker_id": "bfab5ab85a3b4d2db73bd398fd755f5f-shard-0",
+        "claimed_at": "2026-11-13T17:44:19.952611+00:00",
+        "lease_expires_at": "2026-11-13T23:44:19.952611+00:00",
+        "run_id": "43442116051"
       }
     },
     "24225": {
@@ -148270,7 +148276,7 @@
       "last_plan": {
         "source_id": "34721069",
         "display_name": "Every Body 1080p CZ Dabing",
-        "planned_at": "2026-11-13T17:44:16.938873+00:00"
+        "planned_at": "2026-11-13T17:44:19.292383+00:00"
       }
     },
     "17001": {
@@ -199668,5 +199674,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T17:44:16.938888+00:00"
+  "updated_at": "2026-11-13T17:44:19.952631+00:00"
 }
