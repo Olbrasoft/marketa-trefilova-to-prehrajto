@@ -716,3 +716,4 @@ Attach subtitles only after target processing has finished.
 | Clumsy (La Maladroite) 1080p CZ Titulky | 31020400 | https://sdilej.cz/11963441/kidnapping.stella.2019.cz.sub.1080p.web-dl.ddp5.1.h264.mkv | Extract Czech track from exact source after processing |
 | Une liaison pornographique SD CZ Titulky | 31020447 | https://sdilej.cz/33564256/pornograficky-vztah-1999-tit.mkv | Extract Czech track from exact source after processing |
 | Madly (FolleMente) 1080p CZ Titulky | 31020680 | https://sdilej.cz/32445017/follemente-2025-cz.tit.mkv | Extract Czech track from exact source after processing |
+| How I Became a Gangster (Jak zostalem gangsterem. Historia prawdziwa) 1080p CZ Titulky | 31021388 | https://sdilej.cz/24575270/jak-jsem-se-stal-gangsterem-webrip-pl-en-tit-cz.mkv | Extract Czech track from exact source after processing |
