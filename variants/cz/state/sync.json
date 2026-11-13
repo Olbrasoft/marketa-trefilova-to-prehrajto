@@ -107146,13 +107146,6 @@
           "source_id": "34711370",
           "target_video_id": "30983083",
           "permanent": false,
-          "attempted_at": "2026-11-13T16:42:15.085809+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34711370",
-          "target_video_id": "30983083",
-          "permanent": false,
           "attempted_at": "2026-11-13T17:49:21.335181+00:00"
         },
         {
@@ -107161,6 +107154,13 @@
           "target_video_id": "30983083",
           "permanent": false,
           "attempted_at": "2026-11-13T19:20:35.269330+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34711370",
+          "target_video_id": "30983083",
+          "permanent": false,
+          "attempted_at": "2026-11-13T20:26:07.427418+00:00"
         }
       ],
       "last_plan": {
@@ -108890,7 +108890,7 @@
       "last_plan": {
         "source_id": "35095666",
         "display_name": "Swingtime 720p CZ Dabing",
-        "planned_at": "2026-11-13T19:20:35.436096+00:00"
+        "planned_at": "2026-11-13T20:26:06.066533+00:00"
       },
       "previous_target_id": "30983616",
       "prepared": {
@@ -108898,6 +108898,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-10T14:22:23.531059+00:00",
         "relay_source_id": "35095666"
+      },
+      "claim": {
+        "worker_id": "bbe68133e93a4384a81e8f73a1765cfb-shard-0",
+        "claimed_at": "2026-11-13T20:26:06.549977+00:00",
+        "lease_expires_at": "2026-11-14T02:26:06.549977+00:00",
+        "run_id": "43482054430"
       }
     },
     "13036": {
@@ -148665,7 +148671,7 @@
       "last_plan": {
         "source_id": "15015886",
         "display_name": "A Cargo to Africa (Un cargo pour l'Afrique) 720p CZ Dabing",
-        "planned_at": "2026-11-13T20:26:04.309762+00:00"
+        "planned_at": "2026-11-13T20:26:06.267186+00:00"
       }
     },
     "28902": {
@@ -200017,5 +200023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:26:04.309776+00:00"
+  "updated_at": "2026-11-13T20:26:07.427436+00:00"
 }
