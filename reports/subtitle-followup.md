@@ -705,3 +705,4 @@ Attach subtitles only after target processing has finished.
 | The Last Trapper SD CZ Titulky | 31014435 | https://sdilej.cz/35402451/the-last-trapper-ac3-5-1-dvdrip-eng-2004.cz.sub.mkv | Extract Czech track from exact source after processing |
 | The Stronghold (BAC Nord) (2021) 1080p CZ Titulky | 31014467 | https://sdilej.cz/19554491/severni-marseilles-titl.cz.mkv | Complete: Czech subtitles verified |
 | C'est la vie! (Le Sens de la fête) 1080p CZ Titulky | 31014523 | https://sdilej.cz/34972763/le.sens.de.la.fete.2017.1080p.bluray.dl.dts.x264-majo.mkv | Extract Czech track from exact source after processing |
+| Chisum 1080p CZ Titulky | 31014978 | https://sdilej.cz/30779927/john-chisum-hraji-john-wayne-1970-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
