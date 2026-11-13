@@ -1,5 +1,5 @@
 {
-  "detail_index_next_page": 45,
+  "detail_index_next_page": 46,
   "inventory_mode": "local-detail-v1",
   "last_batch": {
     "attached_verified": 0,
@@ -10,10 +10,10 @@
     "remaining_due": 148,
     "stop_reason": "time_budget"
   },
-  "missing_detail_urls": 2,
+  "missing_detail_urls": 1,
   "next_page": 0,
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:54:42.613199+00:00",
+  "updated_at": "2026-11-13T21:55:51.592283+00:00",
   "videos": {
     "30580910": {
       "checked_at": "2026-10-28T22:47:29.080648+00:00",
@@ -11515,7 +11515,8 @@
     },
     "30987709": {
       "checked_at": "2026-11-11T05:55:23.742189+00:00",
-      "retry_after": "2026-11-11T06:55:23.742190+00:00",
+      "detail_url": "https://prehraj.to/the-roundup-2-1080p-cz-titulky-mkv/b9c8c250819b6d7f",
+      "retry_after": "",
       "source": {
         "cr_film_id": 2216,
         "height": 804,
@@ -11525,7 +11526,7 @@
         "source_url": "https://sdilej.cz/22321220/the.roundup.2022.cz.titulky.1080p.mkv",
         "width": 1920
       },
-      "status": "target_detail_url_missing",
+      "status": "pending",
       "target_video_id": "30987709",
       "title": "The Roundup (범죄도시 2) 1080p CZ Titulky"
     },
@@ -13079,6 +13080,21 @@
       "status": "target_unavailable",
       "target_video_id": "31018372",
       "title": "The Charterhouse of Parma (La Chartreuse de Parme) 1080p CZ Titulky"
+    },
+    "31019472": {
+      "detail_url": "https://prehraj.to/the-thing-about-harry-sd-cz-titulky-mkv/d41d4049afba56ae",
+      "source": {
+        "cr_film_id": 26478,
+        "height": 426,
+        "provenance": "prepared_relay_source",
+        "source_filename": "The Thing About Harry (2020) cz.tit.mkv",
+        "source_id": "13528951",
+        "source_url": "https://sdilej.cz/13528951/the-thing-about-harry-2020-cz.tit.mkv",
+        "width": 720
+      },
+      "status": "pending",
+      "target_video_id": "31019472",
+      "title": "The Thing About Harry SD CZ Titulky"
     }
   }
 }
