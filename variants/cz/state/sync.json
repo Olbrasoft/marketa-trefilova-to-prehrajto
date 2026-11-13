@@ -125731,13 +125731,6 @@
           "source_id": "34150939",
           "target_video_id": "30985913",
           "permanent": false,
-          "attempted_at": "2026-11-13T19:22:06.349090+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34150939",
-          "target_video_id": "30985913",
-          "permanent": false,
           "attempted_at": "2026-11-13T20:27:35.579843+00:00"
         },
         {
@@ -125746,6 +125739,13 @@
           "target_video_id": "30985913",
           "permanent": false,
           "attempted_at": "2026-11-13T21:36:33.326789+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34150939",
+          "target_video_id": "30985913",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:36:24.050292+00:00"
         }
       ],
       "last_plan": {
@@ -126811,7 +126811,7 @@
       "last_plan": {
         "source_id": "29549918",
         "display_name": "Tsar SD CZ Dabing",
-        "planned_at": "2026-11-13T21:36:32.738644+00:00"
+        "planned_at": "2026-11-13T22:36:22.966645+00:00"
       },
       "previous_target_id": "30986280",
       "prepared": {
@@ -126819,6 +126819,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T23:52:40.570565+00:00",
         "relay_source_id": "29549918"
+      },
+      "claim": {
+        "worker_id": "ecb331e20115403598e03f0380353eb8-shard-0",
+        "claimed_at": "2026-11-13T22:36:23.471980+00:00",
+        "lease_expires_at": "2026-11-14T04:36:23.471980+00:00",
+        "run_id": "43482054430"
       }
     },
     "31175": {
@@ -149494,7 +149500,7 @@
       "last_plan": {
         "source_id": "33802547",
         "display_name": "Tank Brigade 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:36:20.979394+00:00"
+        "planned_at": "2026-11-13T22:36:23.184529+00:00"
       }
     },
     "17086": {
@@ -200693,5 +200699,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:36:20.979406+00:00"
+  "updated_at": "2026-11-13T22:36:24.050306+00:00"
 }
