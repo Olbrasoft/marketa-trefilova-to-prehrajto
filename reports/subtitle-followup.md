@@ -685,3 +685,4 @@ Attach subtitles only after target processing has finished.
 | The Last Kingdom: Seven Kings Must Die 4K CZ Titulky | 31008794 | https://sdilej.cz/29781891/the-last-kingdom-seven-kings-must-die-2023-2160p-4k-web-x265-10bit-aac5-1-yts-mx-.mkv | Extract Czech track from exact source after processing |
 | The 33 720p CZ Titulky | 31009004 | https://sdilej.cz/33551012/33-zivotu-2015-cz-dab-720p.mkv | Extract Czech track from exact source after processing |
 | Fack ju Göhte 1080p CZ Titulky | 31009557 | https://sdilej.cz/29043242/fakju-pane-uciteli.mkv | Extract Czech track from exact source after processing |
+| Ms. President (Prezidentka) 1080p CZ Titulky | 31009923 | https://sdilej.cz/30776190/prezidentka-2024-sk.mkv | Extract Czech track from exact source after processing |
