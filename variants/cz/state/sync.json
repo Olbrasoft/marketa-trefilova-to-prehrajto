@@ -149078,17 +149078,19 @@
       }
     },
     "15053": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "source_refresh_failed",
+          "source_id": "30242683",
+          "reason": "Request failed for https://sdilej.cz/30242683/maria-montessori-la-nouvelle-femme-1080p-web.dl-x264-eac3-5.1-fr-eac3-cz-2023.mkv (HTTP None)",
+          "permanent": false,
+          "attempted_at": "2026-11-13T22:01:16.742585+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30242683",
         "display_name": "Maria Montessori (La nouvelle femme) 1080p CZ Dabing",
         "planned_at": "2026-11-13T22:01:12.875169+00:00"
-      },
-      "claim": {
-        "worker_id": "20d70e666eb442d28c8a733088137146-shard-0",
-        "claimed_at": "2026-11-13T22:01:13.377215+00:00",
-        "lease_expires_at": "2026-11-14T04:01:13.377215+00:00",
-        "run_id": "43482054430"
       }
     },
     "15549": {
@@ -200365,5 +200367,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T22:01:13.823402+00:00"
+  "updated_at": "2026-11-13T22:01:16.742602+00:00"
 }
