@@ -110945,13 +110945,6 @@
           "source_id": "25235773",
           "target_video_id": "30983777",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:23:52.723354+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25235773",
-          "target_video_id": "30983777",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:40:01.081341+00:00"
         },
         {
@@ -110960,6 +110953,13 @@
           "target_video_id": "30983777",
           "permanent": false,
           "attempted_at": "2026-11-14T14:58:42.950235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25235773",
+          "target_video_id": "30983777",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:12:17.734991+00:00"
         }
       ],
       "last_plan": {
@@ -149575,7 +149575,7 @@
       "last_plan": {
         "source_id": "35428437",
         "display_name": "Péril blanc 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:58:42.297649+00:00"
+        "planned_at": "2026-11-14T16:12:15.867841+00:00"
       },
       "previous_target_id": "31020067",
       "prepared": {
@@ -149583,6 +149583,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-13T22:19:40.902331+00:00",
         "relay_source_id": "35428437"
+      },
+      "claim": {
+        "worker_id": "a4cbaadc26a444ab808d0b6b9c121279-shard-0",
+        "claimed_at": "2026-11-14T16:12:16.694301+00:00",
+        "lease_expires_at": "2026-11-14T22:12:16.694301+00:00",
+        "run_id": "43589661606"
       }
     },
     "23213": {
@@ -152051,7 +152057,7 @@
       "last_plan": {
         "source_id": "35428520",
         "display_name": "The Mysteries of Gallant Wood (Les Mystères du Bois Galant) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:12:13.615374+00:00"
+        "planned_at": "2026-11-14T16:12:16.209572+00:00"
       }
     },
     "14283": {
@@ -202876,5 +202882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:12:13.615396+00:00"
+  "updated_at": "2026-11-14T16:12:17.735014+00:00"
 }
