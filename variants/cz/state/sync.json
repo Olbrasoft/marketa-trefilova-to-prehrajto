@@ -1058,13 +1058,6 @@
           "source_id": "31918348",
           "target_video_id": "30578228",
           "permanent": false,
-          "attempted_at": "2026-11-14T07:41:06.760591+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31918348",
-          "target_video_id": "30578228",
-          "permanent": false,
           "attempted_at": "2026-11-14T09:08:55.072331+00:00"
         },
         {
@@ -1073,6 +1066,13 @@
           "target_video_id": "30578228",
           "permanent": false,
           "attempted_at": "2026-11-14T10:24:06.139324+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31918348",
+          "target_video_id": "30578228",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:38:53.126047+00:00"
         }
       ],
       "last_plan": {
@@ -1086,12 +1086,6 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-10-28T05:04:31.749139+00:00",
         "relay_source_id": "31918348"
-      },
-      "claim": {
-        "worker_id": "29b88835403049e79d371f2d455de1e1-shard-0",
-        "claimed_at": "2026-11-14T11:38:49.304645+00:00",
-        "lease_expires_at": "2026-11-14T17:38:49.304645+00:00",
-        "run_id": "43570770208"
       }
     },
     "52": {
@@ -140856,7 +140850,7 @@
       "last_plan": {
         "source_id": "32763044",
         "display_name": "Prázdniny pro psa 4K CZ Dabing",
-        "planned_at": "2026-11-14T10:24:05.097757+00:00"
+        "planned_at": "2026-11-14T11:38:52.032829+00:00"
       },
       "previous_target_id": "30988157",
       "prepared": {
@@ -140864,6 +140858,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-11T07:42:12.868116+00:00",
         "relay_source_id": "32763044"
+      },
+      "claim": {
+        "worker_id": "56569db446ba418bb6a875be6694c5d1-shard-0",
+        "claimed_at": "2026-11-14T11:38:52.763636+00:00",
+        "lease_expires_at": "2026-11-14T17:38:52.763636+00:00",
+        "run_id": "43570770208"
       }
     },
     "34825": {
@@ -151402,7 +151402,7 @@
       "last_plan": {
         "source_id": "34675854",
         "display_name": "Osvobození Prahy 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:38:48.910681+00:00"
+        "planned_at": "2026-11-14T11:38:52.321614+00:00"
       }
     },
     "18846": {
@@ -202326,5 +202326,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:38:50.247965+00:00"
+  "updated_at": "2026-11-14T11:38:53.126063+00:00"
 }
