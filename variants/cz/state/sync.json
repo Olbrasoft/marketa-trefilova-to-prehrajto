@@ -38984,13 +38984,6 @@
           "source_id": "34784954",
           "target_video_id": "30745770",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:40:34.174527+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34784954",
-          "target_video_id": "30745770",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:49:21.873896+00:00"
         },
         {
@@ -38999,6 +38992,13 @@
           "target_video_id": "30745770",
           "permanent": false,
           "attempted_at": "2026-11-14T03:07:31.152585+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784954",
+          "target_video_id": "30745770",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:45:35.047835+00:00"
         }
       ],
       "last_plan": {
@@ -123842,7 +123842,7 @@
       "last_plan": {
         "source_id": "12475327",
         "display_name": "Ladies in Black 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:07:28.699720+00:00"
+        "planned_at": "2026-11-14T04:45:33.558515+00:00"
       },
       "previous_target_id": "30985644",
       "prepared": {
@@ -123850,6 +123850,12 @@
         "size_bytes": 11800000000,
         "prepared_at": "2026-11-10T20:57:40.455304+00:00",
         "relay_source_id": "12475327"
+      },
+      "claim": {
+        "worker_id": "45f7c9bad601468cb579049e8c11e39e-shard-0",
+        "claimed_at": "2026-11-14T04:45:34.373178+00:00",
+        "lease_expires_at": "2026-11-14T10:45:34.373178+00:00",
+        "run_id": "43551382365"
       }
     },
     "33147": {
@@ -150640,7 +150646,7 @@
       "last_plan": {
         "source_id": "31735140",
         "display_name": "Andelské oci (Angelic Eyes) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:45:31.288448+00:00"
+        "planned_at": "2026-11-14T04:45:33.902916+00:00"
       }
     },
     "23300": {
@@ -201680,5 +201686,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:45:31.288464+00:00"
+  "updated_at": "2026-11-14T04:45:35.047849+00:00"
 }
