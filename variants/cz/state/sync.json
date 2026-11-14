@@ -77865,17 +77865,19 @@
       "attempts": []
     },
     "2228": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29694535",
+          "target_video_id": "31032626",
+          "permanent": false,
+          "attempted_at": "2026-11-14T15:52:30.156600+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29694535",
         "display_name": "Elemental 4K CZ Dabing",
         "planned_at": "2026-11-14T15:18:09.232324+00:00"
-      },
-      "claim": {
-        "worker_id": "f89aee0caf5f49e8ac1cdf4f8cdf1f79-shard-0",
-        "claimed_at": "2026-11-14T15:18:11.840349+00:00",
-        "lease_expires_at": "2026-11-14T21:18:11.840349+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31032626",
       "prepared": {
@@ -119641,6 +119643,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T18:18:25.279371+00:00",
         "relay_source_id": "25411027"
+      },
+      "claim": {
+        "worker_id": "46f4d83aaa5f47cab285935a87372313-shard-0",
+        "claimed_at": "2026-11-14T15:52:29.899692+00:00",
+        "lease_expires_at": "2026-11-14T21:52:29.899692+00:00",
+        "run_id": "43589661606"
       }
     },
     "23690": {
@@ -202796,5 +202804,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:52:27.996909+00:00"
+  "updated_at": "2026-11-14T15:52:30.156617+00:00"
 }
