@@ -8038,13 +8038,6 @@
           "source_id": "20447868",
           "target_video_id": "30630355",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:14:17.824434+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20447868",
-          "target_video_id": "30630355",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:56:59.023050+00:00"
         },
         {
@@ -8053,6 +8046,13 @@
           "target_video_id": "30630355",
           "permanent": false,
           "attempted_at": "2026-11-14T06:29:57.799519+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20447868",
+          "target_video_id": "30630355",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:08:50.960505+00:00"
         }
       ],
       "last_plan": {
@@ -8066,12 +8066,6 @@
         "size_bytes": 9000000000,
         "prepared_at": "2026-10-30T09:33:08.276639+00:00",
         "relay_source_id": "20447868"
-      },
-      "claim": {
-        "worker_id": "99df2d27313d41f4a266e6d820327c32-shard-0",
-        "claimed_at": "2026-11-14T08:08:47.662676+00:00",
-        "lease_expires_at": "2026-11-14T14:08:47.662676+00:00",
-        "run_id": "43570770208"
       }
     },
     "10690": {
@@ -133018,7 +133012,7 @@
       "last_plan": {
         "source_id": "34787172",
         "display_name": "Brontosaurus 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:29:56.272480+00:00"
+        "planned_at": "2026-11-14T08:08:50.143299+00:00"
       },
       "previous_target_id": "30987230",
       "prepared": {
@@ -133026,6 +133020,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:00:19.698478+00:00",
         "relay_source_id": "34787172"
+      },
+      "claim": {
+        "worker_id": "404ec03396e043458032a18ec178c4e3-shard-0",
+        "claimed_at": "2026-11-14T08:08:50.747636+00:00",
+        "lease_expires_at": "2026-11-14T14:08:50.747636+00:00",
+        "run_id": "43570770208"
       }
     },
     "24237": {
@@ -150886,7 +150886,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:08:47.290169+00:00"
+        "planned_at": "2026-11-14T08:08:50.415114+00:00"
       }
     },
     "7958": {
@@ -201895,5 +201895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:08:48.502266+00:00"
+  "updated_at": "2026-11-14T08:08:50.960526+00:00"
 }
