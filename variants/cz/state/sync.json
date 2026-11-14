@@ -107247,13 +107247,6 @@
           "source_id": "34709346",
           "target_video_id": "30983103",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:14:08.291295+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34709346",
-          "target_video_id": "30983103",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:21:25.031298+00:00"
         },
         {
@@ -107262,6 +107255,13 @@
           "target_video_id": "30983103",
           "permanent": false,
           "attempted_at": "2026-11-14T04:03:42.382005+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34709346",
+          "target_video_id": "30983103",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:29:30.569432+00:00"
         }
       ],
       "last_plan": {
@@ -124932,7 +124932,7 @@
       "last_plan": {
         "source_id": "26655410",
         "display_name": "Tom of Finland 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:03:40.832211+00:00"
+        "planned_at": "2026-11-14T05:29:29.049588+00:00"
       },
       "previous_target_id": "30985777",
       "prepared": {
@@ -124940,6 +124940,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T21:49:35.654076+00:00",
         "relay_source_id": "26655410"
+      },
+      "claim": {
+        "worker_id": "ee93fb8bb63f4b28b4ad489f1fc3b226-shard-0",
+        "claimed_at": "2026-11-14T05:29:29.921430+00:00",
+        "lease_expires_at": "2026-11-14T11:29:29.921430+00:00",
+        "run_id": "43551382365"
       }
     },
     "22493": {
@@ -150733,7 +150739,7 @@
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:29:24.389139+00:00"
+        "planned_at": "2026-11-14T05:29:29.406760+00:00"
       }
     },
     "32217": {
@@ -201753,5 +201759,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:29:24.691200+00:00"
+  "updated_at": "2026-11-14T05:29:30.569449+00:00"
 }
