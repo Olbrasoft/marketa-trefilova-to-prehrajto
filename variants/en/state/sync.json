@@ -35019,13 +35019,6 @@
           "source_id": "34014919",
           "target_video_id": "30987918",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:58:52.365142+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34014919",
-          "target_video_id": "30987918",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:29:00.351126+00:00"
         },
         {
@@ -35034,12 +35027,19 @@
           "target_video_id": "30987918",
           "permanent": false,
           "attempted_at": "2026-11-14T02:59:11.205860+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34014919",
+          "target_video_id": "30987918",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:49:50.993072+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34014919",
         "display_name": "Skyking (#SKYKING) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T02:59:09.084861+00:00"
+        "planned_at": "2026-11-14T03:49:48.316614+00:00"
       },
       "previous_target_id": "30987918",
       "prepared": {
@@ -41211,10 +41211,26 @@
       "attempts": []
     },
     "30954": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19221953",
+        "display_name": "18 Presents 1080p CZ Titulky",
+        "planned_at": "2026-11-14T03:49:48.525502+00:00"
+      },
+      "claim": {
+        "worker_id": "adef0b267c324b1fa1f21c52a6048ec5-shard-0",
+        "claimed_at": "2026-11-14T03:49:49.091983+00:00",
+        "lease_expires_at": "2026-11-14T09:49:49.091983+00:00",
+        "run_id": "43551382365"
+      }
     },
     "2616": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11694349",
+        "display_name": "Storm Boy 1080p CZ Titulky",
+        "planned_at": "2026-11-14T03:49:48.625768+00:00"
+      }
     },
     "34378": {
       "attempts": []
@@ -99742,5 +99758,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:06:05.765116+00:00"
+  "updated_at": "2026-11-14T03:49:50.993090+00:00"
 }
