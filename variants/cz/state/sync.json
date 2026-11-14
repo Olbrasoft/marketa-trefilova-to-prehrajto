@@ -121209,13 +121209,6 @@
           "source_id": "28773140",
           "target_video_id": "30985057",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:52:43.276223+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28773140",
-          "target_video_id": "30985057",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:13:16.986328+00:00"
         },
         {
@@ -121224,6 +121217,13 @@
           "target_video_id": "30985057",
           "permanent": false,
           "attempted_at": "2026-11-14T11:24:20.877848+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28773140",
+          "target_video_id": "30985057",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:58:34.274180+00:00"
         }
       ],
       "last_plan": {
@@ -128348,7 +128348,7 @@
       "last_plan": {
         "source_id": "7124354",
         "display_name": "Falco: Damn It, We're Still Alive! (Falco - Verdammt, wir leben noch!) SD CZ Dabing",
-        "planned_at": "2026-11-14T11:24:20.349588+00:00"
+        "planned_at": "2026-11-14T12:58:33.022498+00:00"
       },
       "previous_target_id": "30986644",
       "prepared": {
@@ -128356,6 +128356,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T01:19:38.682164+00:00",
         "relay_source_id": "7124354"
+      },
+      "claim": {
+        "worker_id": "bf3f97dca55f4b18bed5361d6eab9261-shard-0",
+        "claimed_at": "2026-11-14T12:58:33.922315+00:00",
+        "lease_expires_at": "2026-11-14T18:58:33.922315+00:00",
+        "run_id": "43589661606"
       }
     },
     "31459": {
@@ -151546,7 +151552,7 @@
       "last_plan": {
         "source_id": "34879198",
         "display_name": "Rodinka 1080p CZ Dabing",
-        "planned_at": "2026-11-14T12:58:30.930334+00:00"
+        "planned_at": "2026-11-14T12:58:33.373310+00:00"
       }
     },
     "27292": {
@@ -202446,5 +202452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:58:30.930354+00:00"
+  "updated_at": "2026-11-14T12:58:34.274199+00:00"
 }
