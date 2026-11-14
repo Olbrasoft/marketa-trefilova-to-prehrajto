@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:15:15.936214+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:58:03.875150+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-14T06:31:20.982543+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:09:46.475224+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "967bc5d590864178a2543e05438cc377-shard-0",
-        "claimed_at": "2026-11-14T08:09:43.020709+00:00",
-        "lease_expires_at": "2026-11-14T14:09:43.020709+00:00",
-        "run_id": "43570770208"
       }
     },
     "9": {
@@ -139273,7 +139267,7 @@
       "last_plan": {
         "source_id": "34694137",
         "display_name": "Zitterinchen 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:31:18.567568+00:00"
+        "planned_at": "2026-11-14T08:09:45.330420+00:00"
       },
       "previous_target_id": "30987944",
       "prepared": {
@@ -139281,6 +139275,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:57:07.004222+00:00",
         "relay_source_id": "34694137"
+      },
+      "claim": {
+        "worker_id": "880ca66baa7b4102bf117b8a0be71e6b-shard-0",
+        "claimed_at": "2026-11-14T08:09:45.973677+00:00",
+        "lease_expires_at": "2026-11-14T14:09:45.973677+00:00",
+        "run_id": "43570770208"
       }
     },
     "15387": {
@@ -150886,7 +150886,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:09:42.659610+00:00"
+        "planned_at": "2026-11-14T08:09:45.614642+00:00"
       }
     },
     "7958": {
@@ -201895,5 +201895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:09:43.640857+00:00"
+  "updated_at": "2026-11-14T08:09:46.475241+00:00"
 }
