@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "043a40bc5efc43e38817e43c4e7dc657-shard-0",
+        "claimed_at": "2026-11-14T02:02:10.177697+00:00",
+        "lease_expires_at": "2026-11-14T08:02:10.177697+00:00",
+        "run_id": "43526557198"
       }
     },
     "21690": {
@@ -3193,7 +3199,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-14T01:32:05.134147+00:00"
+        "planned_at": "2026-11-14T02:02:11.147462+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -34982,13 +34988,6 @@
           "source_id": "32154189",
           "target_video_id": "30987911",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:31:43.507478+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32154189",
-          "target_video_id": "30987911",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:01:54.244555+00:00"
         },
         {
@@ -34997,6 +34996,13 @@
           "target_video_id": "30987911",
           "permanent": false,
           "attempted_at": "2026-11-14T01:32:02.616252+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32154189",
+          "target_video_id": "30987911",
+          "permanent": false,
+          "attempted_at": "2026-11-14T02:02:11.018669+00:00"
         }
       ],
       "last_plan": {
@@ -35010,12 +35016,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T06:44:20.566204+00:00",
         "relay_source_id": "32154189"
-      },
-      "claim": {
-        "worker_id": "0d2a128676bd4a858f99cadcdd42be6e-shard-0",
-        "claimed_at": "2026-11-14T02:02:07.074630+00:00",
-        "lease_expires_at": "2026-11-14T08:02:07.074630+00:00",
-        "run_id": "43526557198"
       }
     },
     "21141": {
@@ -99716,5 +99716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T02:02:08.073667+00:00"
+  "updated_at": "2026-11-14T02:02:11.147473+00:00"
 }
