@@ -135434,13 +135434,6 @@
           "source_id": "24480171",
           "target_video_id": "30987584",
           "permanent": false,
-          "attempted_at": "2026-11-14T06:26:57.330073+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24480171",
-          "target_video_id": "30987584",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:06:43.304399+00:00"
         },
         {
@@ -135449,6 +135442,13 @@
           "target_video_id": "30987584",
           "permanent": false,
           "attempted_at": "2026-11-14T09:22:15.576623+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24480171",
+          "target_video_id": "30987584",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:36:35.581460+00:00"
         }
       ],
       "last_plan": {
@@ -151215,11 +151215,22 @@
       "last_plan": {
         "source_id": "34641719",
         "display_name": "Red Shoes (Zapatos rojos) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:36:31.410620+00:00"
+        "planned_at": "2026-11-14T10:36:33.993409+00:00"
+      },
+      "claim": {
+        "worker_id": "81de0f59b6564ec7adb01828254dcbab-shard-0",
+        "claimed_at": "2026-11-14T10:36:34.765414+00:00",
+        "lease_expires_at": "2026-11-14T16:36:34.765414+00:00",
+        "run_id": "43570770208"
       }
     },
     "15924": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33960263",
+        "display_name": "Isabel 1080p CZ Dabing",
+        "planned_at": "2026-11-14T10:36:34.205027+00:00"
+      }
     },
     "3669": {
       "attempts": []
@@ -202101,7 +202112,7 @@
       "last_plan": {
         "source_id": "22159844",
         "display_name": "Apocalypse Now Redux (Apocalypse Now) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:22:16.296963+00:00"
+        "planned_at": "2026-11-14T10:36:33.713740+00:00"
       },
       "previous_target_id": "30984960",
       "prepared": {
@@ -202109,6 +202120,12 @@
         "size_bytes": 14900000000,
         "prepared_at": "2026-11-10T18:20:07.517848+00:00",
         "relay_source_id": "22159844"
+      },
+      "claim": {
+        "worker_id": "19e28d35acaf4dc79da2621775d3fef9-shard-0",
+        "claimed_at": "2026-11-14T10:36:34.567275+00:00",
+        "lease_expires_at": "2026-11-14T16:36:34.567275+00:00",
+        "run_id": "43570770208"
       }
     },
     "28332": {
@@ -202160,5 +202177,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:36:31.410639+00:00"
+  "updated_at": "2026-11-14T10:36:35.581477+00:00"
 }
