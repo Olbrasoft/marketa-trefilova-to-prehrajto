@@ -119803,13 +119803,6 @@
           "source_id": "32925561",
           "target_video_id": "30984968",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:01:44.600828+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32925561",
-          "target_video_id": "30984968",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:32:57.119342+00:00"
         },
         {
@@ -119818,6 +119811,13 @@
           "target_video_id": "30984968",
           "permanent": false,
           "attempted_at": "2026-11-14T14:52:40.322083+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32925561",
+          "target_video_id": "30984968",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:06:21.653235+00:00"
         }
       ],
       "last_plan": {
@@ -127250,7 +127250,7 @@
       "last_plan": {
         "source_id": "30853709",
         "display_name": "Scooby-Doo! Stage Fright 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:52:38.722433+00:00"
+        "planned_at": "2026-11-14T16:06:20.218031+00:00"
       },
       "previous_target_id": "30986389",
       "prepared": {
@@ -127258,6 +127258,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T00:16:03.909965+00:00",
         "relay_source_id": "30853709"
+      },
+      "claim": {
+        "worker_id": "3886e4e6a0994adeac9bfde24341c3ba-shard-0",
+        "claimed_at": "2026-11-14T16:06:21.047597+00:00",
+        "lease_expires_at": "2026-11-14T22:06:21.047597+00:00",
+        "run_id": "43589661606"
       }
     },
     "17039": {
@@ -152051,7 +152057,7 @@
       "last_plan": {
         "source_id": "35428520",
         "display_name": "The Mysteries of Gallant Wood (Les Mystères du Bois Galant) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:06:17.779614+00:00"
+        "planned_at": "2026-11-14T16:06:20.562581+00:00"
       }
     },
     "14283": {
@@ -202876,5 +202882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:06:18.046502+00:00"
+  "updated_at": "2026-11-14T16:06:21.653257+00:00"
 }
