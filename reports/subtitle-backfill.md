@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T12:44:17.708871+00:00
+Poslední aktualizace (UTC): 2026-11-14T12:44:19.223687+00:00
 
 Zkontrolováno videí: 730. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 154, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 155, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -219,6 +219,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Důvo
 | [Une liaison pornographique SD CZ Titulky](https://prehraj.to/une-liaison-pornographique-sd-cz-titulky-mkv/c3eb2bb7ac142c0f) (ID 31020447) | [Sdílej 33564256](https://sdilej.cz/33564256/pornograficky-vztah-1999-tit.mkv) | target_unavailable | 2026-11-13T22:46:02.464792+00:00 |
 | [V for Vendetta 4K CZ Titulky](https://prehraj.to/v-for-vendetta-4k-cz-titulky-mkv/2f60c4c7b2427a19) (ID 30613867) | [Sdílej 32858384](https://sdilej.cz/32858384/v-jako-vendeta-v-for-vendetta-2005-2160p-hdr-cz-dabing-en-truehd-atmos.mkv) | target_unavailable | 2026-11-10T09:50:00.921711+00:00 |
 | [Volhynia (Wołyń) 720p CZ Titulky](https://prehraj.to/volhynia-wolyn-720p-cz-titulky-mkv/a7372a0be8306f2c) (ID 30745166) | [Sdílej 13881903](https://sdilej.cz/13881903/volyn-2016-polsky-cz-tit.mkv) | target_unavailable | 2026-11-10T09:49:21.146936+00:00 |
+| [We Have Never Been Modern (Úsvit) 1080p CZ Titulky](https://prehraj.to/we-have-never-been-modern-usvit-1080p-cz-titulky-mkv/3788c12f44af03c2) (ID 31029502) | [Sdílej 27577780](https://sdilej.cz/27577780/we-have-never-been-modern-webrip-cz-2023-1080p.mkv) | target_unavailable | 2026-11-14T12:44:19.218012+00:00 |
 | [Welcome to the Rileys 1080p CZ Titulky](https://prehraj.to/welcome-to-the-rileys-1080p-cz-titulky-mkv/db70ad58153e767b) (ID 31012333) | [Sdílej 31162122](https://sdilej.cz/31162122/2010-welcome-to-the-rileys-svet-podla-mallory-mo-1080p-en-cztit.mkv) | target_unavailable | 2026-11-13T12:22:20.161759+00:00 |
 | [Western 1080p CZ Titulky](https://prehraj.to/western-1080p-cz-titulky-mkv/c495ad858b44d774) (ID 30996177) | [Sdílej 19486059](https://sdilej.cz/19486059/hostiles-2017-western-hd-cz-dab-lum.mkv) | target_unavailable | 2026-11-12T00:58:51.372099+00:00 |
 | [When Evil Lurks (Cuando acecha la maldad) 1080p CZ Titulky](https://prehraj.to/when-evil-lurks-cuando-acecha-la-maldad-1080p-cz-titulky-mkv/ed964c363b3daa75) (ID 31007827) | [Sdílej 27144377](https://sdilej.cz/27144377/when-evil-lurks-webrip-es-titulky-cz-2023.mkv) | target_unavailable | 2026-11-13T01:22:49.208781+00:00 |
