@@ -135380,13 +135380,6 @@
           "source_id": "24480171",
           "target_video_id": "30987584",
           "permanent": false,
-          "attempted_at": "2026-11-13T22:09:01.009650+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24480171",
-          "target_video_id": "30987584",
-          "permanent": false,
           "attempted_at": "2026-11-13T23:13:47.122837+00:00"
         },
         {
@@ -135395,6 +135388,13 @@
           "target_video_id": "30987584",
           "permanent": false,
           "attempted_at": "2026-11-14T00:45:47.917054+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24480171",
+          "target_video_id": "30987584",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:53:54.952749+00:00"
         }
       ],
       "last_plan": {
@@ -150412,7 +150412,7 @@
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:53:50.678193+00:00"
+        "planned_at": "2026-11-14T01:53:53.036376+00:00"
       }
     },
     "29455": {
@@ -201412,7 +201412,7 @@
       "last_plan": {
         "source_id": "22159844",
         "display_name": "Apocalypse Now Redux (Apocalypse Now) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T00:45:47.292956+00:00"
+        "planned_at": "2026-11-14T01:53:52.692370+00:00"
       },
       "previous_target_id": "30984960",
       "prepared": {
@@ -201420,6 +201420,12 @@
         "size_bytes": 14900000000,
         "prepared_at": "2026-11-10T18:20:07.517848+00:00",
         "relay_source_id": "22159844"
+      },
+      "claim": {
+        "worker_id": "79e1a3feebce46448c40f0bb74cdc165-shard-0",
+        "claimed_at": "2026-11-14T01:53:53.502164+00:00",
+        "lease_expires_at": "2026-11-14T07:53:53.502164+00:00",
+        "run_id": "43526557198"
       }
     },
     "28332": {
@@ -201465,5 +201471,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:53:50.678212+00:00"
+  "updated_at": "2026-11-14T01:53:54.952769+00:00"
 }
