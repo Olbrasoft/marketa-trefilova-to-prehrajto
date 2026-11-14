@@ -150804,17 +150804,19 @@
       }
     },
     "11501": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34015329",
+          "target_video_id": "31024906",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:38:25.348768+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34015329",
         "display_name": "Lucy Again (...a zase ta Lucie!) 1080p CZ Dabing",
         "planned_at": "2026-11-14T07:09:24.243929+00:00"
-      },
-      "claim": {
-        "worker_id": "6fc43c509abf43cd952e2454f17f283b-shard-0",
-        "claimed_at": "2026-11-14T07:09:25.242447+00:00",
-        "lease_expires_at": "2026-11-14T13:09:25.242447+00:00",
-        "run_id": "43551382365"
       },
       "previous_target_id": "31024906",
       "prepared": {
@@ -201875,5 +201877,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:38:23.396864+00:00"
+  "updated_at": "2026-11-14T07:38:25.348784+00:00"
 }
