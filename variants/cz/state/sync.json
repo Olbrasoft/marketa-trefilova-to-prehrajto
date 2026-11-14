@@ -141567,13 +141567,6 @@
           "source_id": "34757832",
           "target_video_id": "30988300",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:05:24.203903+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34757832",
-          "target_video_id": "30988300",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:12:51.401885+00:00"
         },
         {
@@ -141582,12 +141575,19 @@
           "target_video_id": "30988300",
           "permanent": false,
           "attempted_at": "2026-11-14T03:49:51.182179+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34757832",
+          "target_video_id": "30988300",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:11:51.707206+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34757832",
         "display_name": "Escape to Budapest (Útek do Budína) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:49:47.351496+00:00"
+        "planned_at": "2026-11-14T05:11:48.881169+00:00"
       },
       "previous_target_id": "30988300",
       "prepared": {
@@ -150710,11 +150710,22 @@
       "last_plan": {
         "source_id": "31885766",
         "display_name": "To the Woods (Cesta do lesa) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:11:42.374756+00:00"
+        "planned_at": "2026-11-14T05:11:49.235206+00:00"
+      },
+      "claim": {
+        "worker_id": "2288aba1bd5f4f5f87114887c30c6ab1-shard-0",
+        "claimed_at": "2026-11-14T05:11:50.053572+00:00",
+        "lease_expires_at": "2026-11-14T11:11:50.053572+00:00",
+        "run_id": "43551382365"
       }
     },
     "15508": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34884474",
+        "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T05:11:49.434936+00:00"
+      }
     },
     "32217": {
       "attempts": []
@@ -201733,5 +201744,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:11:44.873548+00:00"
+  "updated_at": "2026-11-14T05:11:51.707229+00:00"
 }
