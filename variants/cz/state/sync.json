@@ -129843,13 +129843,6 @@
           "source_id": "35058003",
           "target_video_id": "30986851",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:18:46.202977+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35058003",
-          "target_video_id": "30986851",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:35:23.226464+00:00"
         },
         {
@@ -129858,6 +129851,13 @@
           "target_video_id": "30986851",
           "permanent": false,
           "attempted_at": "2026-11-14T14:54:36.627915+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35058003",
+          "target_video_id": "30986851",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:08:10.521123+00:00"
         }
       ],
       "last_plan": {
@@ -135788,7 +135788,7 @@
       "last_plan": {
         "source_id": "34397185",
         "display_name": "My Place Is Here 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:54:35.832394+00:00"
+        "planned_at": "2026-11-14T16:08:08.885660+00:00"
       },
       "previous_target_id": "30987603",
       "prepared": {
@@ -135796,6 +135796,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-11T05:23:02.243779+00:00",
         "relay_source_id": "34397185"
+      },
+      "claim": {
+        "worker_id": "b2003f8ed5984decab68045151fceac9-shard-0",
+        "claimed_at": "2026-11-14T16:08:09.726760+00:00",
+        "lease_expires_at": "2026-11-14T22:08:09.726760+00:00",
+        "run_id": "43589661606"
       }
     },
     "36985": {
@@ -152051,7 +152057,7 @@
       "last_plan": {
         "source_id": "35428520",
         "display_name": "The Mysteries of Gallant Wood (Les Mystères du Bois Galant) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:08:06.381573+00:00"
+        "planned_at": "2026-11-14T16:08:09.235839+00:00"
       }
     },
     "14283": {
@@ -202876,5 +202882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:08:06.664054+00:00"
+  "updated_at": "2026-11-14T16:08:10.521146+00:00"
 }
