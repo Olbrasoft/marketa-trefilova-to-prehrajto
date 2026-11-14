@@ -10907,13 +10907,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:50:16.462552+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:10:45.286635+00:00"
         },
         {
@@ -10922,6 +10915,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-14T11:21:45.454466+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:55:30.328200+00:00"
         }
       ],
       "last_plan": {
@@ -140323,7 +140323,7 @@
       "last_plan": {
         "source_id": "31285766",
         "display_name": "Helimadoe 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:21:44.145605+00:00"
+        "planned_at": "2026-11-14T12:55:28.736251+00:00"
       },
       "previous_target_id": "30988093",
       "prepared": {
@@ -140331,6 +140331,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T07:29:24.233787+00:00",
         "relay_source_id": "31285766"
+      },
+      "claim": {
+        "worker_id": "1ca01642055a43d28b66f39e28fbc45c-shard-0",
+        "claimed_at": "2026-11-14T12:55:29.710334+00:00",
+        "lease_expires_at": "2026-11-14T18:55:29.710334+00:00",
+        "run_id": "43589661606"
       }
     },
     "13318": {
@@ -151517,7 +151523,7 @@
       "last_plan": {
         "source_id": "31379562",
         "display_name": "How Honza Almost Became a King (Honza málem králem) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T12:55:26.523277+00:00"
+        "planned_at": "2026-11-14T12:55:29.084647+00:00"
       }
     },
     "16499": {
@@ -202426,5 +202432,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:55:26.523299+00:00"
+  "updated_at": "2026-11-14T12:55:30.328221+00:00"
 }
