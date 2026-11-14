@@ -117524,7 +117524,7 @@
       "last_plan": {
         "source_id": "23231991",
         "display_name": "DC League of Super-Pets 4K CZ Dabing",
-        "planned_at": "2026-11-14T13:05:56.423563+00:00"
+        "planned_at": "2026-11-14T14:25:39.480909+00:00"
       },
       "previous_target_id": "30984802",
       "prepared": {
@@ -117532,6 +117532,12 @@
         "size_bytes": 20000000000,
         "prepared_at": "2026-11-10T17:41:26.301824+00:00",
         "relay_source_id": "23231991"
+      },
+      "claim": {
+        "worker_id": "3c684d2605c74df0ae582abf5039b7e0-shard-0",
+        "claimed_at": "2026-11-14T14:25:40.263153+00:00",
+        "lease_expires_at": "2026-11-14T20:25:40.263153+00:00",
+        "run_id": "43589661606"
       }
     },
     "13503": {
@@ -151796,17 +151802,19 @@
       "attempts": []
     },
     "14262": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34902612",
+          "target_video_id": "31031341",
+          "permanent": false,
+          "attempted_at": "2026-11-14T14:25:41.944462+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34902612",
         "display_name": "Carovný kamienok (Čarovný kamienok) 1080p CZ Dabing",
         "planned_at": "2026-11-14T14:10:51.869953+00:00"
-      },
-      "claim": {
-        "worker_id": "18dc7c9cd1384e84b5ccff7a63cbbb9e-shard-0",
-        "claimed_at": "2026-11-14T14:10:52.744644+00:00",
-        "lease_expires_at": "2026-11-14T20:10:52.744644+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31031341",
       "prepared": {
@@ -151821,7 +151829,7 @@
       "last_plan": {
         "source_id": "28966579",
         "display_name": "Marocco 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:25:35.421911+00:00"
+        "planned_at": "2026-11-14T14:25:39.841813+00:00"
       }
     },
     "35459": {
@@ -202673,5 +202681,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:25:37.653079+00:00"
+  "updated_at": "2026-11-14T14:25:41.944481+00:00"
 }
