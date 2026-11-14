@@ -150469,17 +150469,19 @@
       }
     },
     "29455": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29854914",
+          "target_video_id": "31022668",
+          "permanent": false,
+          "attempted_at": "2026-11-14T02:25:43.993999+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29854914",
         "display_name": "Elena and the Secret of Avalor 1080p CZ Dabing",
         "planned_at": "2026-11-14T02:16:44.718090+00:00"
-      },
-      "claim": {
-        "worker_id": "dc7bf49c3a1342d6be281e92fb9ace57-shard-0",
-        "claimed_at": "2026-11-14T02:16:46.994357+00:00",
-        "lease_expires_at": "2026-11-14T08:16:46.994357+00:00",
-        "run_id": "43526557198"
       },
       "previous_target_id": "31022668",
       "prepared": {
@@ -201541,5 +201543,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T02:25:42.206876+00:00"
+  "updated_at": "2026-11-14T02:25:43.994024+00:00"
 }
