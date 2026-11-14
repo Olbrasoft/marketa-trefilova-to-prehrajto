@@ -130844,13 +130844,6 @@
           "source_id": "34451524",
           "target_video_id": "30986945",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:05:30.725513+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34451524",
-          "target_video_id": "30986945",
-          "permanent": false,
           "attempted_at": "2026-11-14T09:20:44.205760+00:00"
         },
         {
@@ -130859,12 +130852,19 @@
           "target_video_id": "30986945",
           "permanent": false,
           "attempted_at": "2026-11-14T10:32:18.350908+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34451524",
+          "target_video_id": "30986945",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:51:22.940996+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34451524",
         "display_name": "Circus Angel SD CZ Dabing",
-        "planned_at": "2026-11-14T10:32:14.531805+00:00"
+        "planned_at": "2026-11-14T11:51:20.324328+00:00"
       },
       "previous_target_id": "30986945",
       "prepared": {
@@ -151421,11 +151421,22 @@
       "last_plan": {
         "source_id": "19576824",
         "display_name": "White Soldier (Soldat blanc) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:51:14.799942+00:00"
+        "planned_at": "2026-11-14T11:51:20.623361+00:00"
+      },
+      "claim": {
+        "worker_id": "31100827fc7743c4b80d572ad061f685-shard-0",
+        "claimed_at": "2026-11-14T11:51:21.374789+00:00",
+        "lease_expires_at": "2026-11-14T17:51:21.374789+00:00",
+        "run_id": "43570770208"
       }
     },
     "5275": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "11892322",
+        "display_name": "Clownwise (Klauni) SD CZ Dabing",
+        "planned_at": "2026-11-14T11:51:20.846273+00:00"
+      }
     },
     "33205": {
       "attempts": []
@@ -202342,5 +202353,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:51:18.227956+00:00"
+  "updated_at": "2026-11-14T11:51:22.941014+00:00"
 }
