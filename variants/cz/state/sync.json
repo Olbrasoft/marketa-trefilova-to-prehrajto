@@ -34279,13 +34279,6 @@
           "source_id": "35087204",
           "target_video_id": "30738724",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:34:29.176439+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35087204",
-          "target_video_id": "30738724",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:49:08.500399+00:00"
         },
         {
@@ -34294,6 +34287,13 @@
           "target_video_id": "30738724",
           "permanent": false,
           "attempted_at": "2026-11-14T01:57:01.062385+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35087204",
+          "target_video_id": "30738724",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:14:59.949022+00:00"
         }
       ],
       "last_plan": {
@@ -127097,7 +127097,7 @@
       "last_plan": {
         "source_id": "34453688",
         "display_name": "Two-Way Stretch SD CZ Dabing",
-        "planned_at": "2026-11-14T01:56:59.665565+00:00"
+        "planned_at": "2026-11-14T03:14:58.541264+00:00"
       },
       "previous_target_id": "30986375",
       "prepared": {
@@ -127105,6 +127105,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T00:12:14.376323+00:00",
         "relay_source_id": "34453688"
+      },
+      "claim": {
+        "worker_id": "0a3836793b6c40da922b4a8b3f71c9b9-shard-0",
+        "claimed_at": "2026-11-14T03:14:59.342877+00:00",
+        "lease_expires_at": "2026-11-14T09:14:59.342877+00:00",
+        "run_id": "43526557198"
       }
     },
     "25719": {
@@ -150570,7 +150576,7 @@
       "last_plan": {
         "source_id": "33810870",
         "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:14:56.093058+00:00"
+        "planned_at": "2026-11-14T03:14:58.876897+00:00"
       }
     },
     "24093": {
@@ -201608,5 +201614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:14:56.362515+00:00"
+  "updated_at": "2026-11-14T03:14:59.949047+00:00"
 }
