@@ -34285,13 +34285,6 @@
           "source_id": "35087204",
           "target_video_id": "30738724",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:57:01.062385+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35087204",
-          "target_video_id": "30738724",
-          "permanent": false,
           "attempted_at": "2026-11-14T03:14:59.949022+00:00"
         },
         {
@@ -34300,6 +34293,13 @@
           "target_video_id": "30738724",
           "permanent": false,
           "attempted_at": "2026-11-14T04:57:45.078901+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35087204",
+          "target_video_id": "30738724",
+          "permanent": false,
+          "attempted_at": "2026-11-14T06:30:52.474650+00:00"
         }
       ],
       "last_plan": {
@@ -127109,7 +127109,7 @@
       "last_plan": {
         "source_id": "34453688",
         "display_name": "Two-Way Stretch SD CZ Dabing",
-        "planned_at": "2026-11-14T04:57:44.443020+00:00"
+        "planned_at": "2026-11-14T06:30:50.477794+00:00"
       },
       "previous_target_id": "30986375",
       "prepared": {
@@ -127117,6 +127117,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-11T00:12:14.376323+00:00",
         "relay_source_id": "34453688"
+      },
+      "claim": {
+        "worker_id": "3856a7412ade47818d368c37e0f6686e-shard-0",
+        "claimed_at": "2026-11-14T06:30:51.387601+00:00",
+        "lease_expires_at": "2026-11-14T12:30:51.387601+00:00",
+        "run_id": "43551382365"
       }
     },
     "25719": {
@@ -150741,7 +150747,7 @@
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:30:45.117758+00:00"
+        "planned_at": "2026-11-14T06:30:50.817908+00:00"
       }
     },
     "32217": {
@@ -201766,5 +201772,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T06:30:45.632087+00:00"
+  "updated_at": "2026-11-14T06:30:52.474668+00:00"
 }
