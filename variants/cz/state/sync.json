@@ -152406,17 +152406,19 @@
       "attempts": []
     },
     "15563": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "22312690",
+          "target_video_id": "31035934",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:49:28.503891+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "22312690",
         "display_name": "Cinderella (Aschenputtel) (2011) 1080p CZ Dabing",
         "planned_at": "2026-11-14T17:46:13.963719+00:00"
-      },
-      "claim": {
-        "worker_id": "6c53108630784c27a635ca7057a90013-shard-0",
-        "claimed_at": "2026-11-14T17:46:16.465780+00:00",
-        "lease_expires_at": "2026-11-14T23:46:16.465780+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31035934",
       "prepared": {
@@ -203196,5 +203198,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:49:26.724884+00:00"
+  "updated_at": "2026-11-14T17:49:28.503912+00:00"
 }
