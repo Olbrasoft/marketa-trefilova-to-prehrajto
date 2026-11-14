@@ -33762,6 +33762,12 @@
         "size_bytes": 13800000000,
         "prepared_at": "2026-11-10T13:57:57.411679+00:00",
         "relay_source_id": "30986611"
+      },
+      "claim": {
+        "worker_id": "3c906dd6804e40cd80a0ebd72c481104-shard-0",
+        "claimed_at": "2026-11-14T09:35:10.191590+00:00",
+        "lease_expires_at": "2026-11-14T15:35:10.191590+00:00",
+        "run_id": "43570770208"
       }
     },
     "26417": {
@@ -33777,13 +33783,6 @@
           "source_id": "6563156",
           "target_video_id": "30983632",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:04:11.571365+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6563156",
-          "target_video_id": "30983632",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:34:55.715298+00:00"
         },
         {
@@ -33792,6 +33791,13 @@
           "target_video_id": "30983632",
           "permanent": false,
           "attempted_at": "2026-11-14T09:05:01.572235+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6563156",
+          "target_video_id": "30983632",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:35:11.032514+00:00"
         }
       ],
       "last_plan": {
@@ -33805,12 +33811,6 @@
         "size_bytes": 15000000000,
         "prepared_at": "2026-11-10T14:25:35.887136+00:00",
         "relay_source_id": "6563156"
-      },
-      "claim": {
-        "worker_id": "b083a35694be43fb98896bdef662de3a-shard-0",
-        "claimed_at": "2026-11-14T09:35:07.418708+00:00",
-        "lease_expires_at": "2026-11-14T15:35:07.418708+00:00",
-        "run_id": "43570770208"
       }
     },
     "23615": {
@@ -41735,7 +41735,7 @@
       "last_plan": {
         "source_id": "35079047",
         "display_name": "The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T09:35:08.322683+00:00"
+        "planned_at": "2026-11-14T09:35:11.235105+00:00"
       }
     },
     "31324": {
@@ -99919,5 +99919,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:35:08.322703+00:00"
+  "updated_at": "2026-11-14T09:35:11.235124+00:00"
 }
