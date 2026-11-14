@@ -74103,7 +74103,7 @@
       "last_plan": {
         "source_id": "31393436",
         "display_name": "Run Boy Run (Lauf Junge lauf) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:43:30.617489+00:00"
+        "planned_at": "2026-11-14T15:59:02.766177+00:00"
       },
       "previous_target_id": "30882162",
       "prepared": {
@@ -74111,6 +74111,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-07T05:41:12.707110+00:00",
         "relay_source_id": "31393436"
+      },
+      "claim": {
+        "worker_id": "02abf3791d3a425b9900ebd150d71f51-shard-0",
+        "claimed_at": "2026-11-14T15:59:03.709415+00:00",
+        "lease_expires_at": "2026-11-14T21:59:03.709415+00:00",
+        "run_id": "43589661606"
       }
     },
     "35314": {
@@ -151960,17 +151966,19 @@
       "attempts": []
     },
     "34779": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34908684",
+          "target_video_id": "31033442",
+          "permanent": false,
+          "attempted_at": "2026-11-14T15:59:05.659495+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34908684",
         "display_name": "What a Feeling 1080p CZ Dabing",
         "planned_at": "2026-11-14T15:52:38.429251+00:00"
-      },
-      "claim": {
-        "worker_id": "2103cb5e70034d72b122934b843ca1bf-shard-0",
-        "claimed_at": "2026-11-14T15:52:40.768568+00:00",
-        "lease_expires_at": "2026-11-14T21:52:40.768568+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31033442",
       "prepared": {
@@ -151985,7 +151993,7 @@
       "last_plan": {
         "source_id": "24973693",
         "display_name": "Un bugiardo in paradiso (A Liar in Paradise) SD CZ Dabing",
-        "planned_at": "2026-11-14T15:58:58.248579+00:00"
+        "planned_at": "2026-11-14T15:59:03.114949+00:00"
       }
     },
     "14710": {
@@ -202822,5 +202830,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:59:00.616755+00:00"
+  "updated_at": "2026-11-14T15:59:05.659513+00:00"
 }
