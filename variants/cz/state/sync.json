@@ -151379,17 +151379,19 @@
       "attempts": []
     },
     "3283": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27937039",
+          "target_video_id": "31028365",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:08:08.546779+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27937039",
         "display_name": "The Lord of the Ants (Il signore delle formiche) 1080p CZ Dabing",
         "planned_at": "2026-11-14T11:37:16.290437+00:00"
-      },
-      "claim": {
-        "worker_id": "3d23b1c02dd74101a39a988640bee12b-shard-0",
-        "claimed_at": "2026-11-14T11:37:18.584972+00:00",
-        "lease_expires_at": "2026-11-14T17:37:18.584972+00:00",
-        "run_id": "43570770208"
       },
       "previous_target_id": "31028365",
       "prepared": {
@@ -202366,5 +202368,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:01:59.743469+00:00"
+  "updated_at": "2026-11-14T12:08:08.546795+00:00"
 }
