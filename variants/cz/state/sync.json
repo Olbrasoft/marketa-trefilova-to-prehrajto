@@ -122168,13 +122168,6 @@
           "source_id": "27099387",
           "target_video_id": "30985431",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:25:24.168594+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27099387",
-          "target_video_id": "30985431",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:39:13.052322+00:00"
         },
         {
@@ -122183,6 +122176,13 @@
           "target_video_id": "30985431",
           "permanent": false,
           "attempted_at": "2026-11-14T02:49:30.373889+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27099387",
+          "target_video_id": "30985431",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:35:18.526628+00:00"
         }
       ],
       "last_plan": {
@@ -130587,7 +130587,7 @@
       "last_plan": {
         "source_id": "30261994",
         "display_name": "Nightline (Promlčeno) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T02:49:31.983955+00:00"
+        "planned_at": "2026-11-14T04:35:16.012686+00:00"
       },
       "previous_target_id": "30986930",
       "prepared": {
@@ -130595,6 +130595,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T02:43:15.360689+00:00",
         "relay_source_id": "30261994"
+      },
+      "claim": {
+        "worker_id": "eb23b369dba2401ebdce21f6dbbe486a-shard-0",
+        "claimed_at": "2026-11-14T04:35:16.940144+00:00",
+        "lease_expires_at": "2026-11-14T10:35:16.940144+00:00",
+        "run_id": "43551382365"
       }
     },
     "13847": {
@@ -150613,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:35:11.603630+00:00"
+        "planned_at": "2026-11-14T04:35:16.362309+00:00"
       }
     },
     "23345": {
@@ -201661,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:35:11.879819+00:00"
+  "updated_at": "2026-11-14T04:35:18.526643+00:00"
 }
