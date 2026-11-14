@@ -134583,13 +134583,6 @@
           "source_id": "34689799",
           "target_video_id": "30987492",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:58:29.971576+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34689799",
-          "target_video_id": "30987492",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:10:19.671343+00:00"
         },
         {
@@ -134598,6 +134591,13 @@
           "target_video_id": "30987492",
           "permanent": false,
           "attempted_at": "2026-11-14T12:41:56.667585+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34689799",
+          "target_video_id": "30987492",
+          "permanent": false,
+          "attempted_at": "2026-11-14T14:00:32.172161+00:00"
         }
       ],
       "last_plan": {
@@ -141836,7 +141836,7 @@
       "last_plan": {
         "source_id": "8790479",
         "display_name": "Piano, solo SD CZ Dabing",
-        "planned_at": "2026-11-14T12:41:56.041105+00:00"
+        "planned_at": "2026-11-14T14:00:30.716798+00:00"
       },
       "previous_target_id": "30988375",
       "prepared": {
@@ -141844,6 +141844,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T08:16:16.541498+00:00",
         "relay_source_id": "8790479"
+      },
+      "claim": {
+        "worker_id": "87b3e62540d24836a0b217b7d064f78f-shard-0",
+        "claimed_at": "2026-11-14T14:00:31.554919+00:00",
+        "lease_expires_at": "2026-11-14T20:00:31.554919+00:00",
+        "run_id": "43589661606"
       }
     },
     "22065": {
@@ -151688,7 +151694,7 @@
       "last_plan": {
         "source_id": "30252318",
         "display_name": "The Brats (Brats) SD CZ Dabing",
-        "planned_at": "2026-11-14T14:00:28.151843+00:00"
+        "planned_at": "2026-11-14T14:00:31.061785+00:00"
       }
     },
     "7476": {
@@ -202569,5 +202575,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:00:28.450518+00:00"
+  "updated_at": "2026-11-14T14:00:32.172185+00:00"
 }
