@@ -150319,17 +150319,19 @@
       "attempts": []
     },
     "25349": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "23537421",
+          "target_video_id": "31022129",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:08:55.462875+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "23537421",
         "display_name": "Prachy dělaj člověka SD CZ Dabing",
         "planned_at": "2026-11-14T01:03:45.409462+00:00"
-      },
-      "claim": {
-        "worker_id": "d030fbd532d4482a8cb066cf69843f1d-shard-0",
-        "claimed_at": "2026-11-14T01:03:47.596307+00:00",
-        "lease_expires_at": "2026-11-14T07:03:47.596307+00:00",
-        "run_id": "43526557198"
       },
       "previous_target_id": "31022129",
       "prepared": {
@@ -201403,5 +201405,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:08:53.244237+00:00"
+  "updated_at": "2026-11-14T01:08:55.462893+00:00"
 }
