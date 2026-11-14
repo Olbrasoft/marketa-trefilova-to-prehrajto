@@ -113561,13 +113561,6 @@
           "source_id": "32044029",
           "target_video_id": "30984062",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:19:51.152101+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32044029",
-          "target_video_id": "30984062",
-          "permanent": false,
           "attempted_at": "2026-11-14T06:59:07.977014+00:00"
         },
         {
@@ -113576,6 +113569,13 @@
           "target_video_id": "30984062",
           "permanent": false,
           "attempted_at": "2026-11-14T08:27:25.655003+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32044029",
+          "target_video_id": "30984062",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:50:49.929495+00:00"
         }
       ],
       "last_plan": {
@@ -132097,7 +132097,7 @@
       "last_plan": {
         "source_id": "35080468",
         "display_name": "Polská krev SD CZ Dabing",
-        "planned_at": "2026-11-14T08:27:24.818215+00:00"
+        "planned_at": "2026-11-14T09:50:48.687184+00:00"
       },
       "previous_target_id": "30987106",
       "prepared": {
@@ -132105,6 +132105,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T03:37:22.059612+00:00",
         "relay_source_id": "35080468"
+      },
+      "claim": {
+        "worker_id": "da8b6e9332d14d67b4ddf878677b914f-shard-0",
+        "claimed_at": "2026-11-14T09:50:49.344466+00:00",
+        "lease_expires_at": "2026-11-14T15:50:49.344466+00:00",
+        "run_id": "43570770208"
       }
     },
     "13773": {
@@ -151112,7 +151118,7 @@
       "last_plan": {
         "source_id": "33706345",
         "display_name": "Andel svádí dábla (Anděl svádí ďábla) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:50:46.476673+00:00"
+        "planned_at": "2026-11-14T09:50:48.972794+00:00"
       }
     },
     "12738": {
@@ -202081,5 +202087,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:50:46.476690+00:00"
+  "updated_at": "2026-11-14T09:50:49.929514+00:00"
 }
