@@ -109842,13 +109842,6 @@
           "source_id": "34979725",
           "target_video_id": "30983683",
           "permanent": false,
-          "attempted_at": "2026-11-14T13:04:16.571468+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34979725",
-          "target_video_id": "30983683",
-          "permanent": false,
           "attempted_at": "2026-11-14T14:23:52.315733+00:00"
         },
         {
@@ -109857,6 +109850,13 @@
           "target_video_id": "30983683",
           "permanent": false,
           "attempted_at": "2026-11-14T15:39:15.652338+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34979725",
+          "target_video_id": "30983683",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:05:10.388361+00:00"
         }
       ],
       "last_plan": {
@@ -138857,7 +138857,7 @@
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:39:13.843795+00:00"
+        "planned_at": "2026-11-14T17:05:08.728526+00:00"
       },
       "previous_target_id": "30987901",
       "prepared": {
@@ -138865,6 +138865,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T06:41:36.668898+00:00",
         "relay_source_id": "33806385"
+      },
+      "claim": {
+        "worker_id": "77f5117a00ec40c3927e9bf7c4d2ecc4-shard-0",
+        "claimed_at": "2026-11-14T17:05:09.670359+00:00",
+        "lease_expires_at": "2026-11-14T23:05:09.670359+00:00",
+        "run_id": "43615202382"
       }
     },
     "11246": {
@@ -152210,7 +152216,7 @@
       "last_plan": {
         "source_id": "13661194",
         "display_name": "Die Abstauber 1080p CZ Dabing",
-        "planned_at": "2026-11-14T17:05:05.011279+00:00"
+        "planned_at": "2026-11-14T17:05:09.138150+00:00"
       }
     },
     "30708": {
@@ -203008,5 +203014,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:05:05.301184+00:00"
+  "updated_at": "2026-11-14T17:05:10.388380+00:00"
 }
