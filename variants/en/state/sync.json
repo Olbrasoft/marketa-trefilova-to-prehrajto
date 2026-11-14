@@ -35019,13 +35019,6 @@
           "source_id": "34014919",
           "target_video_id": "30987918",
           "permanent": false,
-          "attempted_at": "2026-11-14T10:32:32.071444+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34014919",
-          "target_video_id": "30987918",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:02:39.401262+00:00"
         },
         {
@@ -35034,12 +35027,19 @@
           "target_video_id": "30987918",
           "permanent": false,
           "attempted_at": "2026-11-14T11:32:44.754688+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34014919",
+          "target_video_id": "30987918",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:13:37.574247+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34014919",
         "display_name": "Skyking (#SKYKING) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T11:32:41.440930+00:00"
+        "planned_at": "2026-11-14T12:13:35.185810+00:00"
       },
       "previous_target_id": "30987918",
       "prepared": {
@@ -41909,7 +41909,13 @@
       "last_plan": {
         "source_id": "34455088",
         "display_name": "Wisdom of Happiness 1080p CZ Titulky",
-        "planned_at": "2026-11-14T12:01:58.326690+00:00"
+        "planned_at": "2026-11-14T12:13:35.393429+00:00"
+      },
+      "claim": {
+        "worker_id": "5cb421d0af2941ada10022523d1726f6-shard-0",
+        "claimed_at": "2026-11-14T12:13:35.657616+00:00",
+        "lease_expires_at": "2026-11-14T18:13:35.657616+00:00",
+        "run_id": "43589661606"
       }
     },
     "2367": {
@@ -99955,5 +99961,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:01:58.326709+00:00"
+  "updated_at": "2026-11-14T12:13:37.574268+00:00"
 }
