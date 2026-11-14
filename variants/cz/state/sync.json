@@ -108722,13 +108722,6 @@
           "source_id": "35058620",
           "target_video_id": "30983591",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:29:53.523094+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35058620",
-          "target_video_id": "30983591",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:30:44.751057+00:00"
         },
         {
@@ -108737,12 +108730,19 @@
           "target_video_id": "30983591",
           "permanent": false,
           "attempted_at": "2026-11-13T23:53:59.680008+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35058620",
+          "target_video_id": "30983591",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:09:53.402228+00:00"
         }
       ],
       "last_plan": {
         "source_id": "35058620",
         "display_name": "The Man Who Stood in the Way (Muž, který stál v cestě) 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:53:55.132971+00:00"
+        "planned_at": "2026-11-14T01:09:50.775692+00:00"
       },
       "previous_target_id": "30983591",
       "prepared": {
@@ -118481,6 +118481,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "43931c688ca04f1a8c0e9f454f5b660e-shard-0",
+        "claimed_at": "2026-11-14T01:09:50.522382+00:00",
+        "lease_expires_at": "2026-11-14T07:09:50.522382+00:00",
+        "run_id": "43526557198"
       }
     },
     "12374": {
@@ -150367,7 +150373,7 @@
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:09:48.722892+00:00"
+        "planned_at": "2026-11-14T01:09:51.120729+00:00"
       }
     },
     "29455": {
@@ -201417,5 +201423,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:09:48.722928+00:00"
+  "updated_at": "2026-11-14T01:09:53.402248+00:00"
 }
