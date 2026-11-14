@@ -41217,17 +41217,19 @@
       "attempts": []
     },
     "30954": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "19221953",
+          "target_video_id": "31023418",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:39:01.935863+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "19221953",
         "display_name": "18 Presents 1080p CZ Titulky",
         "planned_at": "2026-11-14T03:49:48.525502+00:00"
-      },
-      "claim": {
-        "worker_id": "adef0b267c324b1fa1f21c52a6048ec5-shard-0",
-        "claimed_at": "2026-11-14T03:49:49.091983+00:00",
-        "lease_expires_at": "2026-11-14T09:49:49.091983+00:00",
-        "run_id": "43551382365"
       },
       "previous_target_id": "31023418",
       "prepared": {
@@ -99789,5 +99791,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:25:04.533745+00:00"
+  "updated_at": "2026-11-14T04:39:01.935877+00:00"
 }
