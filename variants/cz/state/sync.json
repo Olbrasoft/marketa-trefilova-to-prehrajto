@@ -27351,13 +27351,6 @@
           "source_id": "29719575",
           "target_video_id": "30714314",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:24:37.442632+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29719575",
-          "target_video_id": "30714314",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:38:47.480203+00:00"
         },
         {
@@ -27366,6 +27359,13 @@
           "target_video_id": "30714314",
           "permanent": false,
           "attempted_at": "2026-11-14T11:56:12.369428+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29719575",
+          "target_video_id": "30714314",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:28:52.405072+00:00"
         }
       ],
       "last_plan": {
@@ -129725,7 +129725,7 @@
       "last_plan": {
         "source_id": "34774875",
         "display_name": "Waterboys 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:56:14.534799+00:00"
+        "planned_at": "2026-11-14T13:28:50.716534+00:00"
       },
       "previous_target_id": "30986837",
       "prepared": {
@@ -129733,6 +129733,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T02:18:35.871036+00:00",
         "relay_source_id": "34774875"
+      },
+      "claim": {
+        "worker_id": "0e99d3dc6b844deb87c2277660b308d4-shard-0",
+        "claimed_at": "2026-11-14T13:28:51.687647+00:00",
+        "lease_expires_at": "2026-11-14T19:28:51.687647+00:00",
+        "run_id": "43589661606"
       }
     },
     "22072": {
@@ -151642,7 +151648,7 @@
       "last_plan": {
         "source_id": "11178300",
         "display_name": "My Giraffe (Dikkertje Dap) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:28:46.518391+00:00"
+        "planned_at": "2026-11-14T13:28:51.066665+00:00"
       }
     },
     "4915": {
@@ -202524,5 +202530,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:28:46.790760+00:00"
+  "updated_at": "2026-11-14T13:28:52.405094+00:00"
 }
