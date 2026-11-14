@@ -33949,7 +33949,7 @@
       "last_plan": {
         "source_id": "11267704",
         "display_name": "Border (Gräns) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T01:59:13.406554+00:00"
+        "planned_at": "2026-11-14T02:29:19.120423+00:00"
       },
       "previous_target_id": "30984466",
       "prepared": {
@@ -33957,6 +33957,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T16:31:37.585049+00:00",
         "relay_source_id": "11267704"
+      },
+      "claim": {
+        "worker_id": "1e6ab6af9a9d4dd199f199c1102672f5-shard-0",
+        "claimed_at": "2026-11-14T02:29:19.398942+00:00",
+        "lease_expires_at": "2026-11-14T08:29:19.398942+00:00",
+        "run_id": "43526557198"
       }
     },
     "37304": {
@@ -34847,13 +34853,6 @@
           "source_id": "22321220",
           "target_video_id": "30987709",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:59:00.161842+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "22321220",
-          "target_video_id": "30987709",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:29:06.000599+00:00"
         },
         {
@@ -34862,6 +34861,13 @@
           "target_video_id": "30987709",
           "permanent": false,
           "attempted_at": "2026-11-14T01:59:13.278801+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "22321220",
+          "target_video_id": "30987709",
+          "permanent": false,
+          "attempted_at": "2026-11-14T02:29:20.310888+00:00"
         }
       ],
       "last_plan": {
@@ -99722,5 +99728,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T02:29:16.342274+00:00"
+  "updated_at": "2026-11-14T02:29:20.310908+00:00"
 }
