@@ -112423,13 +112423,6 @@
           "source_id": "34713455",
           "target_video_id": "30983901",
           "permanent": false,
-          "attempted_at": "2026-11-14T14:13:05.094601+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34713455",
-          "target_video_id": "30983901",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:32:33.859530+00:00"
         },
         {
@@ -112438,6 +112431,13 @@
           "target_video_id": "30983901",
           "permanent": false,
           "attempted_at": "2026-11-14T16:58:26.243965+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713455",
+          "target_video_id": "30983901",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:10:47.755973+00:00"
         }
       ],
       "last_plan": {
@@ -145721,7 +145721,7 @@
       "last_plan": {
         "source_id": "35418947",
         "display_name": "Murder in Martigues (Crime à Martigues) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:58:24.975640+00:00"
+        "planned_at": "2026-11-14T18:10:46.128126+00:00"
       },
       "previous_target_id": "30992496",
       "prepared": {
@@ -145729,6 +145729,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T17:44:37.675166+00:00",
         "relay_source_id": "35418947"
+      },
+      "claim": {
+        "worker_id": "7c5e0dbcbd3c4685a24d67cf107732fe-shard-0",
+        "claimed_at": "2026-11-14T18:10:47.074315+00:00",
+        "lease_expires_at": "2026-11-15T00:10:47.074315+00:00",
+        "run_id": "43615202382"
       }
     },
     "12639": {
@@ -152492,7 +152498,7 @@
       "last_plan": {
         "source_id": "33697693",
         "display_name": "Wild Bees (Divoké včely) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:10:43.693608+00:00"
+        "planned_at": "2026-11-14T18:10:46.507279+00:00"
       }
     },
     "24898": {
@@ -203248,5 +203254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:10:43.951752+00:00"
+  "updated_at": "2026-11-14T18:10:47.756003+00:00"
 }
