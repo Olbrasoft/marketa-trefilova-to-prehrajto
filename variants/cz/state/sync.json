@@ -111387,13 +111387,6 @@
           "source_id": "34710916",
           "target_video_id": "30983802",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:11:22.919155+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710916",
-          "target_video_id": "30983802",
-          "permanent": false,
           "attempted_at": "2026-11-14T06:48:57.572148+00:00"
         },
         {
@@ -111402,6 +111395,13 @@
           "target_video_id": "30983802",
           "permanent": false,
           "attempted_at": "2026-11-14T08:21:47.396710+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710916",
+          "target_video_id": "30983802",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:45:04.445889+00:00"
         }
       ],
       "last_plan": {
@@ -124669,7 +124669,7 @@
       "last_plan": {
         "source_id": "31149109",
         "display_name": "Hope Gap 720p CZ Dabing",
-        "planned_at": "2026-11-14T08:21:46.894553+00:00"
+        "planned_at": "2026-11-14T09:45:03.148512+00:00"
       },
       "previous_target_id": "30985758",
       "prepared": {
@@ -124677,6 +124677,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-10T21:43:04.204698+00:00",
         "relay_source_id": "31149109"
+      },
+      "claim": {
+        "worker_id": "b32af2f4a10e4befbe3450e5048c5fe1-shard-0",
+        "claimed_at": "2026-11-14T09:45:03.822856+00:00",
+        "lease_expires_at": "2026-11-14T15:45:03.822856+00:00",
+        "run_id": "43570770208"
       }
     },
     "21281": {
@@ -151089,7 +151095,7 @@
       "last_plan": {
         "source_id": "34858486",
         "display_name": "Die sechs Schwäne 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:45:00.989287+00:00"
+        "planned_at": "2026-11-14T09:45:03.436059+00:00"
       }
     },
     "12509": {
@@ -202061,5 +202067,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:45:00.989305+00:00"
+  "updated_at": "2026-11-14T09:45:04.445906+00:00"
 }
