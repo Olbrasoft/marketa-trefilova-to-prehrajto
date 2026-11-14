@@ -139013,13 +139013,6 @@
           "source_id": "34885521",
           "target_video_id": "30987929",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:41:10.627375+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34885521",
-          "target_video_id": "30987929",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:49:55.343837+00:00"
         },
         {
@@ -139028,6 +139021,13 @@
           "target_video_id": "30987929",
           "permanent": false,
           "attempted_at": "2026-11-14T03:07:56.560313+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34885521",
+          "target_video_id": "30987929",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:46:03.457109+00:00"
         }
       ],
       "last_plan": {
@@ -140918,7 +140918,7 @@
       "last_plan": {
         "source_id": "34883583",
         "display_name": "Murder in Hérault (Crime dans l'Hérault) SD CZ Dabing",
-        "planned_at": "2026-11-14T03:07:54.750557+00:00"
+        "planned_at": "2026-11-14T04:46:01.655321+00:00"
       },
       "previous_target_id": "30988170",
       "prepared": {
@@ -140926,6 +140926,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-11T07:46:04.107233+00:00",
         "relay_source_id": "34883583"
+      },
+      "claim": {
+        "worker_id": "4058de38c7fc40df8e4acd6733b25b20-shard-0",
+        "claimed_at": "2026-11-14T04:46:02.477241+00:00",
+        "lease_expires_at": "2026-11-14T10:46:02.477241+00:00",
+        "run_id": "43551382365"
       }
     },
     "30968": {
@@ -150640,7 +150646,7 @@
       "last_plan": {
         "source_id": "31735140",
         "display_name": "Andelské oci (Angelic Eyes) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:45:59.026688+00:00"
+        "planned_at": "2026-11-14T04:46:02.005301+00:00"
       }
     },
     "23300": {
@@ -201680,5 +201686,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:45:59.336318+00:00"
+  "updated_at": "2026-11-14T04:46:03.457124+00:00"
 }
