@@ -12407,13 +12407,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-14T13:11:48.529347+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-14T14:31:33.179057+00:00"
         },
         {
@@ -12422,6 +12415,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-14T15:48:01.625844+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:11:30.712824+00:00"
         }
       ],
       "last_plan": {
@@ -135264,7 +135264,7 @@
       "last_plan": {
         "source_id": "35068765",
         "display_name": "Veronika, proste Nika (Veronika, prostě Nika) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:48:01.352648+00:00"
+        "planned_at": "2026-11-14T17:11:29.161664+00:00"
       },
       "previous_target_id": "30987562",
       "prepared": {
@@ -135272,6 +135272,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T05:12:28.986309+00:00",
         "relay_source_id": "35068765"
+      },
+      "claim": {
+        "worker_id": "3a9b016093734bda9b4163f6af679a94-shard-0",
+        "claimed_at": "2026-11-14T17:11:30.113929+00:00",
+        "lease_expires_at": "2026-11-14T23:11:30.113929+00:00",
+        "run_id": "43615202382"
       }
     },
     "13853": {
@@ -152236,7 +152242,7 @@
       "last_plan": {
         "source_id": "25586153",
         "display_name": "Framed for Murder: A Fixer Upper Mystery 1080p CZ Dabing",
-        "planned_at": "2026-11-14T17:11:27.185036+00:00"
+        "planned_at": "2026-11-14T17:11:29.502361+00:00"
       }
     },
     "16209": {
@@ -203028,5 +203034,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:11:27.185048+00:00"
+  "updated_at": "2026-11-14T17:11:30.712837+00:00"
 }
