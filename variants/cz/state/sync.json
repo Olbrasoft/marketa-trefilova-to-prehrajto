@@ -111096,13 +111096,6 @@
           "source_id": "34880985",
           "target_video_id": "30983787",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:02:13.431152+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34880985",
-          "target_video_id": "30983787",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:09:58.747780+00:00"
         },
         {
@@ -111111,6 +111104,13 @@
           "target_video_id": "30983787",
           "permanent": false,
           "attempted_at": "2026-11-14T03:25:08.304388+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34880985",
+          "target_video_id": "30983787",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:08:32.462562+00:00"
         }
       ],
       "last_plan": {
@@ -141510,7 +141510,7 @@
       "last_plan": {
         "source_id": "35428804",
         "display_name": "Murders in Amboise (L'oubliée d'Amboise) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:25:08.543623+00:00"
+        "planned_at": "2026-11-14T05:08:30.914316+00:00"
       },
       "previous_target_id": "30988277",
       "prepared": {
@@ -141518,6 +141518,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-11T08:02:57.465974+00:00",
         "relay_source_id": "35428804"
+      },
+      "claim": {
+        "worker_id": "e524176f5f1947cb94e04b0ee27c695f-shard-0",
+        "claimed_at": "2026-11-14T05:08:31.723274+00:00",
+        "lease_expires_at": "2026-11-14T11:08:31.723274+00:00",
+        "run_id": "43551382365"
       }
     },
     "16152": {
@@ -150698,7 +150704,7 @@
       "last_plan": {
         "source_id": "31885766",
         "display_name": "To the Woods (Cesta do lesa) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:08:26.645747+00:00"
+        "planned_at": "2026-11-14T05:08:31.256794+00:00"
       }
     },
     "15508": {
@@ -201721,5 +201727,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:08:26.944143+00:00"
+  "updated_at": "2026-11-14T05:08:32.462578+00:00"
 }
