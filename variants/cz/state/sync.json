@@ -117038,7 +117038,7 @@
       "last_plan": {
         "source_id": "33787142",
         "display_name": "The Fog (1980) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:36:18.790839+00:00"
+        "planned_at": "2026-11-14T07:09:23.903902+00:00"
       },
       "previous_target_id": "30984754",
       "prepared": {
@@ -117046,6 +117046,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-10T17:34:50.992826+00:00",
         "relay_source_id": "33787142"
+      },
+      "claim": {
+        "worker_id": "cd9677c6c06448a4a80bb49f9194148a-shard-0",
+        "claimed_at": "2026-11-14T07:09:24.932241+00:00",
+        "lease_expires_at": "2026-11-14T13:09:24.932241+00:00",
+        "run_id": "43551382365"
       }
     },
     "37485": {
@@ -119113,13 +119119,6 @@
           "source_id": "34142682",
           "target_video_id": "30984905",
           "permanent": false,
-          "attempted_at": "2026-11-14T02:27:03.868145+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34142682",
-          "target_video_id": "30984905",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:10:47.866771+00:00"
         },
         {
@@ -119128,6 +119127,13 @@
           "target_video_id": "30984905",
           "permanent": false,
           "attempted_at": "2026-11-14T05:36:20.857773+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34142682",
+          "target_video_id": "30984905",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:09:26.097540+00:00"
         }
       ],
       "last_plan": {
@@ -150808,11 +150814,22 @@
       "last_plan": {
         "source_id": "34015329",
         "display_name": "Lucy Again (...a zase ta Lucie!) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:09:21.170492+00:00"
+        "planned_at": "2026-11-14T07:09:24.243929+00:00"
+      },
+      "claim": {
+        "worker_id": "6fc43c509abf43cd952e2454f17f283b-shard-0",
+        "claimed_at": "2026-11-14T07:09:25.242447+00:00",
+        "lease_expires_at": "2026-11-14T13:09:25.242447+00:00",
+        "run_id": "43551382365"
       }
     },
     "29145": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "24349496",
+        "display_name": "Broken Armor (The Forgiven) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T07:09:24.512378+00:00"
+      }
     },
     "3655": {
       "attempts": []
@@ -201819,5 +201836,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:09:21.447948+00:00"
+  "updated_at": "2026-11-14T07:09:26.097556+00:00"
 }
