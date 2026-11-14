@@ -112589,13 +112589,6 @@
           "source_id": "27516263",
           "target_video_id": "30983931",
           "permanent": false,
-          "attempted_at": "2026-11-13T20:57:31.879475+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27516263",
-          "target_video_id": "30983931",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:01:07.190707+00:00"
         },
         {
@@ -112604,6 +112597,13 @@
           "target_video_id": "30983931",
           "permanent": false,
           "attempted_at": "2026-11-13T23:02:48.607982+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27516263",
+          "target_video_id": "30983931",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:33:10.032368+00:00"
         }
       ],
       "last_plan": {
@@ -149896,17 +149896,23 @@
           "attempted_at": "2026-11-13T23:02:51.595162+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "30864215",
-        "display_name": "The Man from London 720p CZ Dabing",
-        "planned_at": "2026-11-13T23:00:39.850421+00:00"
-      },
       "previous_target_id": "31020826",
-      "prepared": {
+      "upload": {
         "target_video_id": "31020826",
-        "size_bytes": 2064535785,
-        "prepared_at": "2026-11-13T23:00:48.319275+00:00",
-        "relay_source_id": "30864215"
+        "display_name": "The Man from London 720p CZ Dabing",
+        "source_id": "30864215",
+        "source_url": "https://sdilej.cz/30864215/muz-z-londyna-1974-ikzm1-.mkv",
+        "source_filename": "Muž z Londýna 1974 [ikzm1].mkv",
+        "size_bytes": 2100000000,
+        "width": 1280,
+        "height": 720,
+        "audio_language": "cs",
+        "language_probability": 0.926182210445404,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-man-from-london-720p-cz-dabing-mkv/8bfbee011239212e",
+        "uploaded_at": "2026-11-14T00:33:10.283695+00:00"
       }
     },
     "17338": {
@@ -150146,7 +150152,7 @@
       "last_plan": {
         "source_id": "21342711",
         "display_name": "Gump - pes, který naucil lidi zít (Gump – pes, který naučil lidi žít) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T00:33:06.128052+00:00"
+        "planned_at": "2026-11-14T00:33:08.548374+00:00"
       }
     },
     "4012": {
@@ -201240,5 +201246,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:33:06.128071+00:00"
+  "updated_at": "2026-11-14T00:33:10.283714+00:00"
 }
