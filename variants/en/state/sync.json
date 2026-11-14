@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:31:48.062195+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:01:58.979111+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-14T01:32:07.211694+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-14T02:02:15.597950+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "043a40bc5efc43e38817e43c4e7dc657-shard-0",
-        "claimed_at": "2026-11-14T02:02:10.177697+00:00",
-        "lease_expires_at": "2026-11-14T08:02:10.177697+00:00",
-        "run_id": "43526557198"
       }
     },
     "21690": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "16c0b682f34240268e78f4382b79475c-shard-0",
+        "claimed_at": "2026-11-14T02:02:13.398714+00:00",
+        "lease_expires_at": "2026-11-14T08:02:13.398714+00:00",
+        "run_id": "43526557198"
       }
     },
     "31551": {
@@ -40879,7 +40879,7 @@
       "last_plan": {
         "source_id": "32445017",
         "display_name": "Madly (FolleMente) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T01:32:09.815015+00:00"
+        "planned_at": "2026-11-14T02:02:14.232798+00:00"
       },
       "previous_target_id": "31020680",
       "prepared": {
@@ -40887,6 +40887,12 @@
         "size_bytes": 2600000000,
         "prepared_at": "2026-11-13T22:54:17.930930+00:00",
         "relay_source_id": "32445017"
+      },
+      "claim": {
+        "worker_id": "143110bc424a49bd9c1da6e1c70c0962-shard-0",
+        "claimed_at": "2026-11-14T02:02:14.571536+00:00",
+        "lease_expires_at": "2026-11-14T08:02:14.571536+00:00",
+        "run_id": "43526557198"
       }
     },
     "11294": {
@@ -99716,5 +99722,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T02:02:11.147473+00:00"
+  "updated_at": "2026-11-14T02:02:15.597970+00:00"
 }
