@@ -729,3 +729,4 @@ Attach subtitles only after target processing has finished.
 | René 1080p CZ Titulky | 31025310 | https://sdilej.cz/30660141/puls-3-invaze-hraji-rider-strong-brittany-renee-finamore-2008-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
 | The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Titulky | 31026251 | https://sdilej.cz/35079047/vrah-skryva-tvar-1966-hd.mkv | Extract Czech track from exact source after processing |
 | Wisdom of Happiness 1080p CZ Titulky | 31029095 | https://sdilej.cz/34455088/wisdom-of-happiness-2024-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
+| We Have Never Been Modern (Úsvit) 1080p CZ Titulky | 31029502 | https://sdilej.cz/27577780/we-have-never-been-modern-webrip-cz-2023-1080p.mkv | Extract Czech track from exact source after processing |
