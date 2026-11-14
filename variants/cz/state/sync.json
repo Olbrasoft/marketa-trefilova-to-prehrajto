@@ -107345,13 +107345,6 @@
           "source_id": "34709346",
           "target_video_id": "30983103",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:38:43.384173+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34709346",
-          "target_video_id": "30983103",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:57:09.446943+00:00"
         },
         {
@@ -107360,6 +107353,13 @@
           "target_video_id": "30983103",
           "permanent": false,
           "attempted_at": "2026-11-14T15:14:05.184382+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34709346",
+          "target_video_id": "30983103",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:40:41.556658+00:00"
         }
       ],
       "last_plan": {
@@ -125030,7 +125030,7 @@
       "last_plan": {
         "source_id": "26655410",
         "display_name": "Tom of Finland 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:14:04.433066+00:00"
+        "planned_at": "2026-11-14T16:40:39.783735+00:00"
       },
       "previous_target_id": "30985777",
       "prepared": {
@@ -125038,6 +125038,12 @@
         "size_bytes": 3700000000,
         "prepared_at": "2026-11-10T21:49:35.654076+00:00",
         "relay_source_id": "26655410"
+      },
+      "claim": {
+        "worker_id": "0eb0a83d019d480f8d7d409e4b953ac8-shard-0",
+        "claimed_at": "2026-11-14T16:40:40.769964+00:00",
+        "lease_expires_at": "2026-11-14T22:40:40.769964+00:00",
+        "run_id": "43615202382"
       }
     },
     "22493": {
@@ -152112,7 +152118,7 @@
       "last_plan": {
         "source_id": "30178947",
         "display_name": "A Girl Fit to Be Killed (Holka na zabití) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:40:37.751188+00:00"
+        "planned_at": "2026-11-14T16:40:40.164768+00:00"
       }
     },
     "5085": {
@@ -202922,5 +202928,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:40:37.751204+00:00"
+  "updated_at": "2026-11-14T16:40:41.556681+00:00"
 }
