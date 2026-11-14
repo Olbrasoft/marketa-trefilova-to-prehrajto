@@ -117406,13 +117406,6 @@
           "source_id": "33668270",
           "target_video_id": "30984788",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:56:03.492487+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33668270",
-          "target_video_id": "30984788",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:16:43.866671+00:00"
         },
         {
@@ -117421,6 +117414,13 @@
           "target_video_id": "30984788",
           "permanent": false,
           "attempted_at": "2026-11-14T11:27:45.982057+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33668270",
+          "target_video_id": "30984788",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:02:11.434301+00:00"
         }
       ],
       "last_plan": {
@@ -142295,7 +142295,7 @@
       "last_plan": {
         "source_id": "32094190",
         "display_name": "Ukradená bitva (Die gestohlene Schlacht) SD CZ Dabing",
-        "planned_at": "2026-11-14T11:27:44.380918+00:00"
+        "planned_at": "2026-11-14T13:02:09.697125+00:00"
       },
       "previous_target_id": "30988468",
       "prepared": {
@@ -142303,6 +142303,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T08:33:07.609068+00:00",
         "relay_source_id": "32094190"
+      },
+      "claim": {
+        "worker_id": "a38c344a126c4c33875e4e5a772d6420-shard-0",
+        "claimed_at": "2026-11-14T13:02:10.789520+00:00",
+        "lease_expires_at": "2026-11-14T19:02:10.789520+00:00",
+        "run_id": "43589661606"
       }
     },
     "17631": {
@@ -151548,7 +151554,13 @@
       "last_plan": {
         "source_id": "34879198",
         "display_name": "Rodinka 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:02:07.209058+00:00"
+        "planned_at": "2026-11-14T13:02:10.033538+00:00"
+      },
+      "claim": {
+        "worker_id": "262e7d0b8ef8443caab6cb7f596306da-shard-0",
+        "claimed_at": "2026-11-14T13:02:11.234308+00:00",
+        "lease_expires_at": "2026-11-14T19:02:11.234308+00:00",
+        "run_id": "43589661606"
       }
     },
     "27292": {
@@ -151558,7 +151570,12 @@
       "attempts": []
     },
     "19228": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "35003219",
+        "display_name": "Nejlepsí prítel 1080p CZ Dabing",
+        "planned_at": "2026-11-14T13:02:10.286554+00:00"
+      }
     },
     "23669": {
       "attempts": []
@@ -202448,5 +202465,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:02:07.209080+00:00"
+  "updated_at": "2026-11-14T13:02:11.434323+00:00"
 }
