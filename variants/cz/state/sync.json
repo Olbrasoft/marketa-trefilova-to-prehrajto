@@ -39010,13 +39010,6 @@
           "source_id": "34784954",
           "target_video_id": "30745770",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:17:20.796239+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34784954",
-          "target_video_id": "30745770",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:28:54.784410+00:00"
         },
         {
@@ -39025,6 +39018,13 @@
           "target_video_id": "30745770",
           "permanent": false,
           "attempted_at": "2026-11-14T11:44:24.738765+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34784954",
+          "target_video_id": "30745770",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:20:40.216772+00:00"
         }
       ],
       "last_plan": {
@@ -123894,7 +123894,7 @@
       "last_plan": {
         "source_id": "12475327",
         "display_name": "Ladies in Black 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:44:26.475297+00:00"
+        "planned_at": "2026-11-14T13:20:38.682773+00:00"
       },
       "previous_target_id": "30985644",
       "prepared": {
@@ -123902,6 +123902,12 @@
         "size_bytes": 11800000000,
         "prepared_at": "2026-11-10T20:57:40.455304+00:00",
         "relay_source_id": "12475327"
+      },
+      "claim": {
+        "worker_id": "bc04e1bac34845f2ba3fff271fad1833-shard-0",
+        "claimed_at": "2026-11-14T13:20:39.516407+00:00",
+        "lease_expires_at": "2026-11-14T19:20:39.516407+00:00",
+        "run_id": "43589661606"
       }
     },
     "33147": {
@@ -151636,7 +151642,7 @@
       "last_plan": {
         "source_id": "11178300",
         "display_name": "My Giraffe (Dikkertje Dap) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:20:34.014416+00:00"
+        "planned_at": "2026-11-14T13:20:39.034520+00:00"
       }
     },
     "4915": {
@@ -202518,5 +202524,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:20:34.014436+00:00"
+  "updated_at": "2026-11-14T13:20:40.216794+00:00"
 }
