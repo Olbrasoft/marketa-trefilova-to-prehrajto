@@ -37802,17 +37802,19 @@
       }
     },
     "18424": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35488383",
+          "target_video_id": "31028267",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:36:41.730719+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35488383",
         "display_name": "Liza, the Fox-Fairy (Liza, a rókatündér) 1080p CZ Dabing",
         "planned_at": "2026-11-14T11:28:56.203949+00:00"
-      },
-      "claim": {
-        "worker_id": "6ca4aebc11494b5fb7f466b04e1fdb69-shard-0",
-        "claimed_at": "2026-11-14T11:28:56.937406+00:00",
-        "lease_expires_at": "2026-11-14T17:28:56.937406+00:00",
-        "run_id": "43570770208"
       },
       "previous_target_id": "31028267",
       "prepared": {
@@ -202305,5 +202307,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:36:39.535699+00:00"
+  "updated_at": "2026-11-14T11:36:41.730736+00:00"
 }
