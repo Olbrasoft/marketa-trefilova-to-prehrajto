@@ -115304,13 +115304,6 @@
           "source_id": "32115488",
           "target_video_id": "30984591",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:50:30.996335+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32115488",
-          "target_video_id": "30984591",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:06:40.850701+00:00"
         },
         {
@@ -115319,6 +115312,13 @@
           "target_video_id": "30984591",
           "permanent": false,
           "attempted_at": "2026-11-14T02:14:07.436295+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32115488",
+          "target_video_id": "30984591",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:54:50.074788+00:00"
         }
       ],
       "last_plan": {
@@ -137722,7 +137722,7 @@
       "last_plan": {
         "source_id": "33554657",
         "display_name": "Old-Timers (Staříci) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T02:14:07.142375+00:00"
+        "planned_at": "2026-11-14T03:54:48.285751+00:00"
       },
       "previous_target_id": "30987819",
       "prepared": {
@@ -137730,6 +137730,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-11T06:14:06.914609+00:00",
         "relay_source_id": "33554657"
+      },
+      "claim": {
+        "worker_id": "836e221cb4d244c9a0e211b554623782-shard-0",
+        "claimed_at": "2026-11-14T03:54:49.150672+00:00",
+        "lease_expires_at": "2026-11-14T09:54:49.150672+00:00",
+        "run_id": "43551382365"
       }
     },
     "29359": {
@@ -150601,7 +150607,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T03:54:45.377247+00:00"
+        "planned_at": "2026-11-14T03:54:48.632302+00:00"
       }
     },
     "23345": {
@@ -201646,5 +201652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:54:45.673178+00:00"
+  "updated_at": "2026-11-14T03:54:50.074806+00:00"
 }
