@@ -9351,13 +9351,6 @@
           "source_id": "29667772",
           "target_video_id": "30661597",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:00:21.658829+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29667772",
-          "target_video_id": "30661597",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:30:29.315780+00:00"
         },
         {
@@ -9366,6 +9359,13 @@
           "target_video_id": "30661597",
           "permanent": false,
           "attempted_at": "2026-11-14T01:00:34.157628+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29667772",
+          "target_video_id": "30661597",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:30:44.834643+00:00"
         }
       ],
       "last_plan": {
@@ -9890,7 +9890,7 @@
       "last_plan": {
         "source_id": "28240998",
         "display_name": "Poor Things 1080p CZ Titulky",
-        "planned_at": "2026-11-14T01:00:38.570117+00:00"
+        "planned_at": "2026-11-14T01:30:43.855535+00:00"
       },
       "previous_target_id": "30664033",
       "prepared": {
@@ -9898,6 +9898,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-10-31T11:06:21.476853+00:00",
         "relay_source_id": "28240998"
+      },
+      "claim": {
+        "worker_id": "801d05b702cb46aa8ff398a9d93df7ac-shard-0",
+        "claimed_at": "2026-11-14T01:30:44.126999+00:00",
+        "lease_expires_at": "2026-11-14T07:30:44.126999+00:00",
+        "run_id": "43526557198"
       }
     },
     "601": {
@@ -99710,5 +99716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:30:37.889112+00:00"
+  "updated_at": "2026-11-14T01:30:44.834664+00:00"
 }
