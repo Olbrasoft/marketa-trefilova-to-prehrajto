@@ -107798,13 +107798,6 @@
           "source_id": "34713446",
           "target_video_id": "30983246",
           "permanent": false,
-          "attempted_at": "2026-11-14T14:06:53.927855+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34713446",
-          "target_video_id": "30983246",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:27:05.306291+00:00"
         },
         {
@@ -107813,6 +107806,13 @@
           "target_video_id": "30983246",
           "permanent": false,
           "attempted_at": "2026-11-14T16:50:11.645684+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34713446",
+          "target_video_id": "30983246",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:05:23.110757+00:00"
         }
       ],
       "last_plan": {
@@ -107858,7 +107858,7 @@
       "last_plan": {
         "source_id": "34883521",
         "display_name": "Vera 68 (Věra 68) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:50:10.951671+00:00"
+        "planned_at": "2026-11-14T18:05:21.825830+00:00"
       },
       "previous_target_id": "30983259",
       "prepared": {
@@ -107866,6 +107866,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-10T13:56:32.195971+00:00",
         "relay_source_id": "34883521"
+      },
+      "claim": {
+        "worker_id": "5533c421843141dea68c0c9969de14c4-shard-0",
+        "claimed_at": "2026-11-14T18:05:22.812164+00:00",
+        "lease_expires_at": "2026-11-15T00:05:22.812164+00:00",
+        "run_id": "43615202382"
       }
     },
     "26105": {
@@ -152486,7 +152492,7 @@
       "last_plan": {
         "source_id": "33697693",
         "display_name": "Wild Bees (Divoké včely) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:05:18.556386+00:00"
+        "planned_at": "2026-11-14T18:05:22.247392+00:00"
       }
     },
     "24898": {
@@ -203242,5 +203248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:05:19.029481+00:00"
+  "updated_at": "2026-11-14T18:05:23.110775+00:00"
 }
