@@ -74316,6 +74316,12 @@
         "size_bytes": 895300000,
         "prepared_at": "2026-11-07T06:18:13.380632+00:00",
         "relay_source_id": "14853845"
+      },
+      "claim": {
+        "worker_id": "ebfa70c3f63449cc903da8da21852639-shard-0",
+        "claimed_at": "2026-11-14T10:36:27.377419+00:00",
+        "lease_expires_at": "2026-11-14T16:36:27.377419+00:00",
+        "run_id": "43570770208"
       }
     },
     "35276": {
@@ -74770,7 +74776,7 @@
       "last_plan": {
         "source_id": "31379501",
         "display_name": "Long Live Ghosts! (Ať žijí duchové!) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:22:08.871108+00:00"
+        "planned_at": "2026-11-14T10:36:27.597484+00:00"
       },
       "previous_target_id": "30885416",
       "prepared": {
@@ -74778,6 +74784,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-07T08:02:43.047319+00:00",
         "relay_source_id": "31379501"
+      },
+      "claim": {
+        "worker_id": "057f7a68e3f94fd0bd90b9347cecf1ed-shard-0",
+        "claimed_at": "2026-11-14T10:36:28.310630+00:00",
+        "lease_expires_at": "2026-11-14T16:36:28.310630+00:00",
+        "run_id": "43570770208"
       }
     },
     "25458": {
@@ -151188,17 +151200,19 @@
       "attempts": []
     },
     "3246": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34651309",
+          "target_video_id": "31027397",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:36:28.575550+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34651309",
         "display_name": "The Worst Ones (Les Pires) 1080p CZ Dabing",
         "planned_at": "2026-11-14T10:31:27.024434+00:00"
-      },
-      "claim": {
-        "worker_id": "69e697f8f3374c38bf1424392ce7a42c-shard-0",
-        "claimed_at": "2026-11-14T10:31:30.476995+00:00",
-        "lease_expires_at": "2026-11-14T16:31:30.476995+00:00",
-        "run_id": "43570770208"
       },
       "previous_target_id": "31027397",
       "prepared": {
@@ -151213,7 +151227,7 @@
       "last_plan": {
         "source_id": "34641719",
         "display_name": "Red Shoes (Zapatos rojos) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:36:25.423343+00:00"
+        "planned_at": "2026-11-14T10:36:27.914472+00:00"
       }
     },
     "15924": {
@@ -202158,5 +202172,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:36:25.656137+00:00"
+  "updated_at": "2026-11-14T10:36:28.575567+00:00"
 }
