@@ -81479,17 +81479,19 @@
       }
     },
     "18684": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34932447",
+          "target_video_id": "31031529",
+          "permanent": false,
+          "attempted_at": "2026-11-14T15:06:16.178713+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34932447",
         "display_name": "Sirāt (Sirât) 4K CZ Dabing",
         "planned_at": "2026-11-14T14:22:19.226553+00:00"
-      },
-      "claim": {
-        "worker_id": "7e1d5cb16d124536865c940582b9c01f-shard-0",
-        "claimed_at": "2026-11-14T14:22:19.859507+00:00",
-        "lease_expires_at": "2026-11-14T20:22:19.859507+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31031529",
       "prepared": {
@@ -118632,7 +118634,7 @@
       "last_plan": {
         "source_id": "27866187",
         "display_name": "Great Expectations (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:49:25.453965+00:00"
+        "planned_at": "2026-11-14T15:06:15.920835+00:00"
       },
       "previous_target_id": "30984865",
       "prepared": {
@@ -202737,5 +202739,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:06:14.217105+00:00"
+  "updated_at": "2026-11-14T15:06:16.178753+00:00"
 }
