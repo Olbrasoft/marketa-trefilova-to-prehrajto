@@ -35263,13 +35263,6 @@
           "source_id": "17633756",
           "target_video_id": "30988551",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:31:03.548054+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17633756",
-          "target_video_id": "30988551",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:01:29.307768+00:00"
         },
         {
@@ -35278,6 +35271,13 @@
           "target_video_id": "30988551",
           "permanent": false,
           "attempted_at": "2026-11-14T00:31:36.014555+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17633756",
+          "target_video_id": "30988551",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:01:46.371416+00:00"
         }
       ],
       "last_plan": {
@@ -38881,7 +38881,7 @@
       "last_plan": {
         "source_id": "33551012",
         "display_name": "The 33 720p CZ Titulky",
-        "planned_at": "2026-11-14T00:31:35.070666+00:00"
+        "planned_at": "2026-11-14T01:01:45.144322+00:00"
       },
       "previous_target_id": "31009004",
       "prepared": {
@@ -38889,6 +38889,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-13T04:33:06.814840+00:00",
         "relay_source_id": "33551012"
+      },
+      "claim": {
+        "worker_id": "6025771e088346fd856704f20540b8bd-shard-0",
+        "claimed_at": "2026-11-14T01:01:45.433562+00:00",
+        "lease_expires_at": "2026-11-14T07:01:45.433562+00:00",
+        "run_id": "43526557198"
       }
     },
     "11589": {
@@ -99700,5 +99706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:01:42.259394+00:00"
+  "updated_at": "2026-11-14T01:01:46.371438+00:00"
 }
