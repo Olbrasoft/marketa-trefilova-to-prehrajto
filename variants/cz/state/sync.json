@@ -119597,13 +119597,6 @@
           "source_id": "32799273",
           "target_video_id": "30984959",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:53:03.995948+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32799273",
-          "target_video_id": "30984959",
-          "permanent": false,
           "attempted_at": "2026-11-14T03:11:04.829399+00:00"
         },
         {
@@ -119612,6 +119605,13 @@
           "target_video_id": "30984959",
           "permanent": false,
           "attempted_at": "2026-11-14T04:49:34.375625+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32799273",
+          "target_video_id": "30984959",
+          "permanent": false,
+          "attempted_at": "2026-11-14T06:26:03.612181+00:00"
         }
       ],
       "last_plan": {
@@ -134212,7 +134212,7 @@
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:49:33.743091+00:00"
+        "planned_at": "2026-11-14T06:26:02.093400+00:00"
       },
       "previous_target_id": "30987417",
       "prepared": {
@@ -134220,6 +134220,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:35:39.966856+00:00",
         "relay_source_id": "23221863"
+      },
+      "claim": {
+        "worker_id": "b59887596602414d9898d6bc9fd0a488-shard-0",
+        "claimed_at": "2026-11-14T06:26:02.915293+00:00",
+        "lease_expires_at": "2026-11-14T12:26:02.915293+00:00",
+        "run_id": "43551382365"
       }
     },
     "4343": {
@@ -150735,7 +150741,7 @@
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:25:59.638734+00:00"
+        "planned_at": "2026-11-14T06:26:02.440585+00:00"
       }
     },
     "32217": {
@@ -201760,5 +201766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T06:25:59.942050+00:00"
+  "updated_at": "2026-11-14T06:26:03.612198+00:00"
 }
