@@ -108352,13 +108352,6 @@
           "source_id": "34674550",
           "target_video_id": "30983537",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:24:12.950582+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34674550",
-          "target_video_id": "30983537",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:40:20.940597+00:00"
         },
         {
@@ -108367,6 +108360,13 @@
           "target_video_id": "30983537",
           "permanent": false,
           "attempted_at": "2026-11-14T14:59:00.566760+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34674550",
+          "target_video_id": "30983537",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:12:35.141854+00:00"
         }
       ],
       "last_plan": {
@@ -111051,7 +111051,7 @@
       "last_plan": {
         "source_id": "8555407",
         "display_name": "Podnájemníci SD CZ Dabing",
-        "planned_at": "2026-11-14T14:58:59.104040+00:00"
+        "planned_at": "2026-11-14T16:12:33.898832+00:00"
       },
       "previous_target_id": "30983781",
       "prepared": {
@@ -111059,6 +111059,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T14:46:42.056772+00:00",
         "relay_source_id": "8555407"
+      },
+      "claim": {
+        "worker_id": "89d39947b3bd4f8198a229faae8edec8-shard-0",
+        "claimed_at": "2026-11-14T16:12:34.792528+00:00",
+        "lease_expires_at": "2026-11-14T22:12:34.792528+00:00",
+        "run_id": "43589661606"
       }
     },
     "12726": {
@@ -152051,7 +152057,7 @@
       "last_plan": {
         "source_id": "35428520",
         "display_name": "The Mysteries of Gallant Wood (Les Mystères du Bois Galant) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:12:31.706393+00:00"
+        "planned_at": "2026-11-14T16:12:34.242344+00:00"
       }
     },
     "14283": {
@@ -202876,5 +202882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:12:31.706414+00:00"
+  "updated_at": "2026-11-14T16:12:35.141875+00:00"
 }
