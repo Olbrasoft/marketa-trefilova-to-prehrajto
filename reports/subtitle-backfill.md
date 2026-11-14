@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T02:49:15.858161+00:00
+Poslední aktualizace (UTC): 2026-11-14T02:49:18.057215+00:00
 
 Zkontrolováno videí: 721. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 145, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 146, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -174,6 +174,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 156. Důvo
 | [Talk to Me 4K CZ Titulky](https://prehraj.to/talk-to-me-4k-cz-titulky-mkv/28dafb7f3e8f3657) (ID 30912885) | [Sdílej 26853803](https://sdilej.cz/26853803/talk.to.me.2022.2160p.web-dl.ddp5.1.dv.hdr.h.265-flux.cztit.mkv) | source_unavailable | 2026-11-10T09:39:50.277826+00:00 |
 | [Tenebrae (Tenebre) 1080p CZ Titulky](https://prehraj.to/tenebrae-tenebre-1080p-cz-titulky-mkv/621ba6916f09d5d0) (ID 30985350) | [Sdílej 11416033](https://sdilej.cz/11416033/tenebre-tenebrae-1982-titulky.cz.1080p.mkv) | target_unavailable | 2026-11-10T18:59:36.735572+00:00 |
 | [The 33 720p CZ Titulky](https://prehraj.to/the-33-720p-cz-titulky-mkv/5becb0838f958235) (ID 31009004) | [Sdílej 33551012](https://sdilej.cz/33551012/33-zivotu-2015-cz-dab-720p.mkv) | target_unavailable | 2026-11-13T04:33:24.935057+00:00 |
+| [The Age of Disclosure 4K CZ Titulky](https://prehraj.to/the-age-of-disclosure-4k-cz-titulky-mkv/99536dd7686279ac) (ID 31022883) | [Sdílej 32453965](https://sdilej.cz/32453965/the.age.of.disclosure.2025.2160p.4k.web.x265.10bit.aac5.1-yts.lt-.mkv) | target_unavailable | 2026-11-14T02:49:17.414841+00:00 |
 | [The Bad Guys 4K CZ Titulky](https://prehraj.to/the-bad-guys-4k-cz-titulky-mkv/bc2de6364176dbeb) (ID 31007205) | [Sdílej 21710230](https://sdilej.cz/21710230/-gemberx-the-bad-guys-2022-2160p-anj-cz-titulky.mkv) | target_unavailable | 2026-11-12T23:41:53.131963+00:00 |
 | [The Blue Star Hotel (Hotel Modrá Hvězda) 1080p CZ Titulky](https://prehraj.to/the-blue-star-hotel-hotel-modra-hvezda-1080p-cz-titulky-mkv/06c354de780cbd4b) (ID 31021806) | [Sdílej 29780275](https://sdilej.cz/29780275/hotel-modra-hvezda-1941-x265-1080-.mkv) | target_unavailable | 2026-11-14T00:29:03.642831+00:00 |
 | [The Blue Trail (O Último Azul) 1080p CZ Titulky](https://prehraj.to/the-blue-trail-o-ultimo-azul-1080p-cz-titulky-mkv/5344564bd1401e11) (ID 30996874) | [Sdílej 32938361](https://sdilej.cz/32938361/modrou-stezkou-2025-sci-fi-drama-fantasy-cztit-fhd.mkv) | target_unavailable | 2026-11-12T02:12:09.271724+00:00 |
