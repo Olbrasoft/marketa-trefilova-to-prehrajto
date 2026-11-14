@@ -113405,6 +113405,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T15:20:21.843822+00:00",
         "relay_source_id": "31202256"
+      },
+      "claim": {
+        "worker_id": "e78efd1356b044959a2097165f1887bd-shard-0",
+        "claimed_at": "2026-11-14T05:10:41.142804+00:00",
+        "lease_expires_at": "2026-11-14T11:10:41.142804+00:00",
+        "run_id": "43551382365"
       }
     },
     "3154": {
@@ -147273,13 +147279,6 @@
           "source_id": "19973532",
           "target_video_id": "30998700",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:04:21.003518+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "19973532",
-          "target_video_id": "30998700",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:11:52.258336+00:00"
         },
         {
@@ -147288,6 +147287,13 @@
           "target_video_id": "30998700",
           "permanent": false,
           "attempted_at": "2026-11-14T03:26:59.592594+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "19973532",
+          "target_video_id": "30998700",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:10:41.353364+00:00"
         }
       ],
       "last_plan": {
@@ -147301,12 +147307,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-12T04:54:16.332507+00:00",
         "relay_source_id": "19973532"
-      },
-      "claim": {
-        "worker_id": "2abf4585293840d097a49ce6dc8273e4-shard-0",
-        "claimed_at": "2026-11-14T05:10:38.458801+00:00",
-        "lease_expires_at": "2026-11-14T11:10:38.458801+00:00",
-        "run_id": "43551382365"
       }
     },
     "30971": {
@@ -150704,7 +150704,7 @@
       "last_plan": {
         "source_id": "31885766",
         "display_name": "To the Woods (Cesta do lesa) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:10:36.295199+00:00"
+        "planned_at": "2026-11-14T05:10:40.612176+00:00"
       }
     },
     "15508": {
@@ -201727,5 +201727,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:10:38.716342+00:00"
+  "updated_at": "2026-11-14T05:10:41.353379+00:00"
 }
