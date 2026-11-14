@@ -80413,6 +80413,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-07T21:32:39.846982+00:00",
         "relay_source_id": "28771706"
+      },
+      "claim": {
+        "worker_id": "260e262e13204bf3a1ec31a5c30ed77c-shard-0",
+        "claimed_at": "2026-11-14T04:42:13.047828+00:00",
+        "lease_expires_at": "2026-11-14T10:42:13.047828+00:00",
+        "run_id": "43551382365"
       }
     },
     "2305": {
@@ -116224,13 +116230,6 @@
           "source_id": "33594906",
           "target_video_id": "30984670",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:35:58.842279+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33594906",
-          "target_video_id": "30984670",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:46:06.198671+00:00"
         },
         {
@@ -116239,6 +116238,13 @@
           "target_video_id": "30984670",
           "permanent": false,
           "attempted_at": "2026-11-14T03:03:45.363204+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33594906",
+          "target_video_id": "30984670",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:42:13.698689+00:00"
         }
       ],
       "last_plan": {
@@ -116252,12 +116258,6 @@
         "size_bytes": 9700000000,
         "prepared_at": "2026-11-10T17:15:51.439401+00:00",
         "relay_source_id": "33594906"
-      },
-      "claim": {
-        "worker_id": "1a4a05e399f347c7a32024c7c00cd206-shard-0",
-        "claimed_at": "2026-11-14T04:42:10.010657+00:00",
-        "lease_expires_at": "2026-11-14T10:42:10.010657+00:00",
-        "run_id": "43551382365"
       }
     },
     "12003": {
@@ -138913,7 +138913,7 @@
       "last_plan": {
         "source_id": "34776105",
         "display_name": "Fallow (BRAK) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:03:51.081689+00:00"
+        "planned_at": "2026-11-14T04:42:13.294455+00:00"
       },
       "previous_target_id": "30987920",
       "prepared": {
@@ -150619,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:42:10.622889+00:00"
+        "planned_at": "2026-11-14T04:42:13.960109+00:00"
       }
     },
     "23345": {
@@ -201667,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:42:10.965093+00:00"
+  "updated_at": "2026-11-14T04:42:13.960125+00:00"
 }
