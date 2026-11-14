@@ -121308,13 +121308,6 @@
           "source_id": "35117462",
           "target_video_id": "30985082",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:14:02.532008+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35117462",
-          "target_video_id": "30985082",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:15:30.877363+00:00"
         },
         {
@@ -121323,6 +121316,13 @@
           "target_video_id": "30985082",
           "permanent": false,
           "attempted_at": "2026-11-13T23:39:09.694205+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35117462",
+          "target_video_id": "30985082",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:52:59.050480+00:00"
         }
       ],
       "last_plan": {
@@ -141304,7 +141304,7 @@
       "last_plan": {
         "source_id": "34864897",
         "display_name": "Die Sterntaler 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:39:08.272374+00:00"
+        "planned_at": "2026-11-14T00:52:57.629477+00:00"
       },
       "previous_target_id": "30988229",
       "prepared": {
@@ -141312,6 +141312,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T07:56:43.201825+00:00",
         "relay_source_id": "34864897"
+      },
+      "claim": {
+        "worker_id": "0ba7f724174445b98411dd35ee795f61-shard-0",
+        "claimed_at": "2026-11-14T00:52:58.435656+00:00",
+        "lease_expires_at": "2026-11-14T06:52:58.435656+00:00",
+        "run_id": "43526557198"
       }
     },
     "15658": {
@@ -150282,7 +150288,7 @@
       "last_plan": {
         "source_id": "32044948",
         "display_name": "Sea of Sand SD CZ Dabing",
-        "planned_at": "2026-11-14T00:52:55.316381+00:00"
+        "planned_at": "2026-11-14T00:52:57.978124+00:00"
       }
     },
     "16174": {
@@ -201350,5 +201356,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:52:55.590794+00:00"
+  "updated_at": "2026-11-14T00:52:59.050499+00:00"
 }
