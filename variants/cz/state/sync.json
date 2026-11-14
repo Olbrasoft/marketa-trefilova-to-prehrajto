@@ -151617,17 +151617,19 @@
       "attempts": []
     },
     "15968": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34713918",
+          "target_video_id": "31030338",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:30:00.342774+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34713918",
         "display_name": "City of Wind (Сэр сэр салхи) 1080p CZ Dabing",
         "planned_at": "2026-11-14T13:19:32.920517+00:00"
-      },
-      "claim": {
-        "worker_id": "2bdee08b6372405aad91034bc971e27f-shard-0",
-        "claimed_at": "2026-11-14T13:19:35.286150+00:00",
-        "lease_expires_at": "2026-11-14T19:19:35.286150+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31030338",
       "prepared": {
@@ -202524,5 +202526,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:29:58.406767+00:00"
+  "updated_at": "2026-11-14T13:30:00.342795+00:00"
 }
