@@ -145714,13 +145714,6 @@
           "source_id": "30629482",
           "target_video_id": "30992604",
           "permanent": false,
-          "attempted_at": "2026-11-14T07:42:26.875774+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30629482",
-          "target_video_id": "30992604",
-          "permanent": false,
           "attempted_at": "2026-11-14T09:10:20.305478+00:00"
         },
         {
@@ -145729,12 +145722,19 @@
           "target_video_id": "30992604",
           "permanent": false,
           "attempted_at": "2026-11-14T10:25:11.729193+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30629482",
+          "target_video_id": "30992604",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:40:11.163136+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30629482",
         "display_name": "Little Fatty (Metráček) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:25:07.713812+00:00"
+        "planned_at": "2026-11-14T11:40:08.426368+00:00"
       },
       "previous_target_id": "30992604",
       "prepared": {
@@ -151396,11 +151396,22 @@
       "last_plan": {
         "source_id": "34675854",
         "display_name": "Osvobození Prahy 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:40:02.847067+00:00"
+        "planned_at": "2026-11-14T11:40:08.719456+00:00"
+      },
+      "claim": {
+        "worker_id": "6b975b1a9222476a875e578751ac8ccc-shard-0",
+        "claimed_at": "2026-11-14T11:40:09.445418+00:00",
+        "lease_expires_at": "2026-11-14T17:40:09.445418+00:00",
+        "run_id": "43570770208"
       }
     },
     "18846": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "19576824",
+        "display_name": "White Soldier (Soldat blanc) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T11:40:08.902431+00:00"
+      }
     },
     "5275": {
       "attempts": []
@@ -202320,5 +202331,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:40:06.354986+00:00"
+  "updated_at": "2026-11-14T11:40:11.163155+00:00"
 }
