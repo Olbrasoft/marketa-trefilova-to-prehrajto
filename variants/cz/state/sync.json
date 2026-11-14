@@ -129866,7 +129866,7 @@
       "last_plan": {
         "source_id": "34698686",
         "display_name": "In Her Hands 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:46:57.353867+00:00"
+        "planned_at": "2026-11-14T12:22:04.784904+00:00"
       },
       "previous_target_id": "30986857",
       "prepared": {
@@ -151454,17 +151454,19 @@
       }
     },
     "5275": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "11892322",
+          "target_video_id": "31029195",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:22:05.016365+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "11892322",
         "display_name": "Clownwise (Klauni) SD CZ Dabing",
         "planned_at": "2026-11-14T12:18:15.311130+00:00"
-      },
-      "claim": {
-        "worker_id": "02a15bb83e02460780e078c10be1af84-shard-0",
-        "claimed_at": "2026-11-14T12:18:16.125817+00:00",
-        "lease_expires_at": "2026-11-14T18:18:16.125817+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31029195",
       "prepared": {
@@ -202399,5 +202401,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:22:01.151154+00:00"
+  "updated_at": "2026-11-14T12:22:05.016386+00:00"
 }
