@@ -109581,13 +109581,6 @@
           "source_id": "9978707",
           "target_video_id": "30983670",
           "permanent": false,
-          "attempted_at": "2026-11-14T14:18:55.768756+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9978707",
-          "target_video_id": "30983670",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:35:08.250164+00:00"
         },
         {
@@ -109596,6 +109589,13 @@
           "target_video_id": "30983670",
           "permanent": false,
           "attempted_at": "2026-11-14T17:01:05.280781+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9978707",
+          "target_video_id": "30983670",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:12:57.336524+00:00"
         }
       ],
       "last_plan": {
@@ -114414,7 +114414,7 @@
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T17:01:03.309518+00:00"
+        "planned_at": "2026-11-14T18:12:55.211764+00:00"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -114422,6 +114422,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
+      },
+      "claim": {
+        "worker_id": "0d94b384406f45af9d2e8bf027b1a05d-shard-0",
+        "claimed_at": "2026-11-14T18:12:56.417234+00:00",
+        "lease_expires_at": "2026-11-15T00:12:56.417234+00:00",
+        "run_id": "43615202382"
       }
     },
     "3152": {
@@ -152492,7 +152498,7 @@
       "last_plan": {
         "source_id": "33697693",
         "display_name": "Wild Bees (Divoké včely) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:12:52.624216+00:00"
+        "planned_at": "2026-11-14T18:12:55.612172+00:00"
       }
     },
     "24898": {
@@ -203248,5 +203254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:12:52.932635+00:00"
+  "updated_at": "2026-11-14T18:12:57.336543+00:00"
 }
