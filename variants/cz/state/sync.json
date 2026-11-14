@@ -113378,7 +113378,7 @@
       "last_plan": {
         "source_id": "31063467",
         "display_name": "The Fast and the Furious 4K CZ Dabing",
-        "planned_at": "2026-11-14T15:03:26.807688+00:00"
+        "planned_at": "2026-11-14T16:30:51.791166+00:00"
       },
       "previous_target_id": "30984035",
       "prepared": {
@@ -118403,6 +118403,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-10T17:55:40.093714+00:00",
         "relay_source_id": "34529199"
+      },
+      "claim": {
+        "worker_id": "f67c0f8b0b2b48cfa5cdc5230f7ae5aa-shard-0",
+        "claimed_at": "2026-11-14T16:30:51.481954+00:00",
+        "lease_expires_at": "2026-11-14T22:30:51.481954+00:00",
+        "run_id": "43615202382"
       }
     },
     "25139": {
@@ -152049,17 +152055,19 @@
       "attempts": []
     },
     "17515": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "35428520",
+          "target_video_id": "31034228",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:30:52.493431+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "35428520",
         "display_name": "The Mysteries of Gallant Wood (Les Mystères du Bois Galant) 1080p CZ Dabing",
         "planned_at": "2026-11-14T16:25:11.984286+00:00"
-      },
-      "claim": {
-        "worker_id": "efc2c75249ef4e8891132f115a114fc9-shard-0",
-        "claimed_at": "2026-11-14T16:25:13.187479+00:00",
-        "lease_expires_at": "2026-11-14T22:25:13.187479+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31034228",
       "prepared": {
@@ -152083,7 +152091,7 @@
       "last_plan": {
         "source_id": "30589281",
         "display_name": "The Attachment Diaries (El apego) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:30:49.789160+00:00"
+        "planned_at": "2026-11-14T16:30:52.261805+00:00"
       }
     },
     "12455": {
@@ -202901,5 +202909,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:30:49.789178+00:00"
+  "updated_at": "2026-11-14T16:30:52.493457+00:00"
 }
