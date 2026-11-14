@@ -42341,17 +42341,19 @@
       "attempts": []
     },
     "21705": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33109570",
+          "target_video_id": "31036267",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:04:38.262481+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33109570",
         "display_name": "A Stitch in Time SD CZ Titulky",
         "planned_at": "2026-11-14T18:02:39.015777+00:00"
-      },
-      "claim": {
-        "worker_id": "329d04399d9d44bca88b75bf8cd82e4c-shard-0",
-        "claimed_at": "2026-11-14T18:02:41.048910+00:00",
-        "lease_expires_at": "2026-11-15T00:02:41.048910+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31036267",
       "prepared": {
@@ -100083,5 +100085,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:02:45.240762+00:00"
+  "updated_at": "2026-11-14T18:04:38.262505+00:00"
 }
