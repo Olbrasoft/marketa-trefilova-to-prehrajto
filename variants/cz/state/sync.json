@@ -130117,13 +130117,6 @@
           "source_id": "34694634",
           "target_video_id": "30986897",
           "permanent": false,
-          "attempted_at": "2026-11-14T02:24:32.199494+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34694634",
-          "target_video_id": "30986897",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:07:21.850290+00:00"
         },
         {
@@ -130132,6 +130125,13 @@
           "target_video_id": "30986897",
           "permanent": false,
           "attempted_at": "2026-11-14T05:33:30.657316+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34694634",
+          "target_video_id": "30986897",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:06:46.218289+00:00"
         }
       ],
       "last_plan": {
@@ -134551,7 +134551,7 @@
       "last_plan": {
         "source_id": "34689799",
         "display_name": "Černá sobota 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:33:30.022623+00:00"
+        "planned_at": "2026-11-14T07:06:44.063205+00:00"
       },
       "previous_target_id": "30987492",
       "prepared": {
@@ -134559,6 +134559,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T04:57:29.514686+00:00",
         "relay_source_id": "34689799"
+      },
+      "claim": {
+        "worker_id": "0abdbabc76404a24a861816b997ad1ab-shard-0",
+        "claimed_at": "2026-11-14T07:06:44.901335+00:00",
+        "lease_expires_at": "2026-11-14T13:06:44.901335+00:00",
+        "run_id": "43551382365"
       }
     },
     "36839": {
@@ -150800,7 +150806,7 @@
       "last_plan": {
         "source_id": "34015329",
         "display_name": "Lucy Again (...a zase ta Lucie!) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:06:41.834997+00:00"
+        "planned_at": "2026-11-14T07:06:44.417839+00:00"
       }
     },
     "29145": {
@@ -201811,5 +201817,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:06:41.835012+00:00"
+  "updated_at": "2026-11-14T07:06:46.218304+00:00"
 }
