@@ -152247,17 +152247,19 @@
       "attempts": []
     },
     "17015": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "25586153",
+          "target_video_id": "31035253",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:18:11.918319+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "25586153",
         "display_name": "Framed for Murder: A Fixer Upper Mystery 1080p CZ Dabing",
         "planned_at": "2026-11-14T17:11:47.316406+00:00"
-      },
-      "claim": {
-        "worker_id": "3a4d10aca6634475a4e62781b51fac8d-shard-0",
-        "claimed_at": "2026-11-14T17:11:48.180450+00:00",
-        "lease_expires_at": "2026-11-14T23:11:48.180450+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31035253",
       "prepared": {
@@ -203064,5 +203066,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:18:10.114193+00:00"
+  "updated_at": "2026-11-14T17:18:11.918338+00:00"
 }
