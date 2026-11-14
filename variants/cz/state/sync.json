@@ -136501,13 +136501,6 @@
           "source_id": "34756332",
           "target_video_id": "30987705",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:25:56.906956+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34756332",
-          "target_video_id": "30987705",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:36:43.358425+00:00"
         },
         {
@@ -136516,6 +136509,13 @@
           "target_video_id": "30987705",
           "permanent": false,
           "attempted_at": "2026-11-14T04:19:26.930900+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34756332",
+          "target_video_id": "30987705",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:43:37.358813+00:00"
         }
       ],
       "last_plan": {
@@ -140197,7 +140197,7 @@
       "last_plan": {
         "source_id": "34789190",
         "display_name": "Lízin let do nebe 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:19:30.635298+00:00"
+        "planned_at": "2026-11-14T05:43:35.518330+00:00"
       },
       "previous_target_id": "30988078",
       "prepared": {
@@ -140205,6 +140205,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-11T07:28:05.394485+00:00",
         "relay_source_id": "34789190"
+      },
+      "claim": {
+        "worker_id": "f5ab8e3012e14615aa504c4c9333f614-shard-0",
+        "claimed_at": "2026-11-14T05:43:36.436335+00:00",
+        "lease_expires_at": "2026-11-14T11:43:36.436335+00:00",
+        "run_id": "43551382365"
       }
     },
     "24824": {
@@ -150735,7 +150741,7 @@
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:43:30.917828+00:00"
+        "planned_at": "2026-11-14T05:43:35.877801+00:00"
       }
     },
     "32217": {
@@ -201760,5 +201766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:43:30.917847+00:00"
+  "updated_at": "2026-11-14T05:43:37.358835+00:00"
 }
