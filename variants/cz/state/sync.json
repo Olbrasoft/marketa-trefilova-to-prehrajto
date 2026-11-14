@@ -128347,13 +128347,6 @@
           "source_id": "32454208",
           "target_video_id": "30986640",
           "permanent": false,
-          "attempted_at": "2026-11-14T14:12:11.990546+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32454208",
-          "target_video_id": "30986640",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:31:59.033868+00:00"
         },
         {
@@ -128362,6 +128355,13 @@
           "target_video_id": "30986640",
           "permanent": false,
           "attempted_at": "2026-11-14T16:55:01.712350+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32454208",
+          "target_video_id": "30986640",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:10:08.897969+00:00"
         }
       ],
       "last_plan": {
@@ -140422,7 +140422,7 @@
       "last_plan": {
         "source_id": "34519530",
         "display_name": "Hrdinný kapitán Korkorán (Hrdinný kapitán Korkoran) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:55:00.246068+00:00"
+        "planned_at": "2026-11-14T18:10:07.211427+00:00"
       },
       "previous_target_id": "30988097",
       "prepared": {
@@ -140430,6 +140430,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-11T07:30:20.189234+00:00",
         "relay_source_id": "34519530"
+      },
+      "claim": {
+        "worker_id": "ad1e8d4815f54c54afc2a176dead4db6-shard-0",
+        "claimed_at": "2026-11-14T18:10:08.098086+00:00",
+        "lease_expires_at": "2026-11-15T00:10:08.098086+00:00",
+        "run_id": "43615202382"
       }
     },
     "11092": {
@@ -152492,7 +152498,7 @@
       "last_plan": {
         "source_id": "33697693",
         "display_name": "Wild Bees (Divoké včely) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:10:05.126665+00:00"
+        "planned_at": "2026-11-14T18:10:07.622934+00:00"
       }
     },
     "24898": {
@@ -203248,5 +203254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:10:05.126681+00:00"
+  "updated_at": "2026-11-14T18:10:08.897997+00:00"
 }
