@@ -128451,13 +128451,6 @@
           "source_id": "7866512",
           "target_video_id": "30986655",
           "permanent": false,
-          "attempted_at": "2026-11-14T04:35:27.791700+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7866512",
-          "target_video_id": "30986655",
-          "permanent": false,
           "attempted_at": "2026-11-14T06:01:22.652185+00:00"
         },
         {
@@ -128466,6 +128459,13 @@
           "target_video_id": "30986655",
           "permanent": false,
           "attempted_at": "2026-11-14T07:35:32.861299+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7866512",
+          "target_video_id": "30986655",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:58:50.520352+00:00"
         }
       ],
       "last_plan": {
@@ -128479,12 +128479,6 @@
         "size_bytes": 14400000000,
         "prepared_at": "2026-11-11T01:23:16.041857+00:00",
         "relay_source_id": "7866512"
-      },
-      "claim": {
-        "worker_id": "b337f426c1c949228e9546d7350710b0-shard-0",
-        "claimed_at": "2026-11-14T08:58:47.133508+00:00",
-        "lease_expires_at": "2026-11-14T14:58:47.133508+00:00",
-        "run_id": "43570770208"
       }
     },
     "23008": {
@@ -142375,7 +142369,7 @@
       "last_plan": {
         "source_id": "28985383",
         "display_name": "The Master (1980) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:35:36.296082+00:00"
+        "planned_at": "2026-11-14T08:58:49.681554+00:00"
       },
       "previous_target_id": "30988518",
       "prepared": {
@@ -142383,6 +142377,12 @@
         "size_bytes": 6500000000,
         "prepared_at": "2026-11-11T08:37:11.035402+00:00",
         "relay_source_id": "28985383"
+      },
+      "claim": {
+        "worker_id": "d039cbfbc93d48cab3c2f39b519eaca5-shard-0",
+        "claimed_at": "2026-11-14T08:58:50.718115+00:00",
+        "lease_expires_at": "2026-11-14T14:58:50.718115+00:00",
+        "run_id": "43570770208"
       }
     },
     "26163": {
@@ -150944,7 +150944,7 @@
       "last_plan": {
         "source_id": "35433459",
         "display_name": "War of Colours (Válka barev) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:58:46.761496+00:00"
+        "planned_at": "2026-11-14T08:58:49.962632+00:00"
       }
     },
     "10895": {
@@ -201937,5 +201937,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:58:47.891937+00:00"
+  "updated_at": "2026-11-14T08:58:50.718141+00:00"
 }
