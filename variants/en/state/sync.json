@@ -35099,6 +35099,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:52:35.333881+00:00",
         "relay_source_id": "23076909"
+      },
+      "claim": {
+        "worker_id": "c4e42a2036874db1a8bb45874be85df4-shard-0",
+        "claimed_at": "2026-11-14T17:26:07.809649+00:00",
+        "lease_expires_at": "2026-11-14T23:26:07.809649+00:00",
+        "run_id": "43615202382"
       }
     },
     "370": {
@@ -35329,7 +35335,7 @@
       "last_plan": {
         "source_id": "32361142",
         "display_name": "Baramulla (बारामूला) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T16:56:00.910719+00:00"
+        "planned_at": "2026-11-14T17:26:08.622852+00:00"
       },
       "previous_target_id": "30988608",
       "prepared": {
@@ -35373,13 +35379,6 @@
           "source_id": "23240065",
           "target_video_id": "30988745",
           "permanent": false,
-          "attempted_at": "2026-11-14T15:45:10.092518+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "23240065",
-          "target_video_id": "30988745",
-          "permanent": false,
           "attempted_at": "2026-11-14T16:25:46.350711+00:00"
         },
         {
@@ -35388,6 +35387,13 @@
           "target_video_id": "30988745",
           "permanent": false,
           "attempted_at": "2026-11-14T16:55:55.006515+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "23240065",
+          "target_video_id": "30988745",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:26:07.704508+00:00"
         }
       ],
       "last_plan": {
@@ -35401,12 +35407,6 @@
         "size_bytes": 8199999999,
         "prepared_at": "2026-11-11T09:46:13.396689+00:00",
         "relay_source_id": "23240065"
-      },
-      "claim": {
-        "worker_id": "05082b828cd746bf80b685853f3eb875-shard-0",
-        "claimed_at": "2026-11-14T17:26:04.221050+00:00",
-        "lease_expires_at": "2026-11-14T23:26:04.221050+00:00",
-        "run_id": "43615202382"
       }
     },
     "12662": {
@@ -100051,5 +100051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:26:05.027434+00:00"
+  "updated_at": "2026-11-14T17:26:08.622866+00:00"
 }
