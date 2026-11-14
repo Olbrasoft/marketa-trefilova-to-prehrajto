@@ -142895,7 +142895,7 @@
       "last_plan": {
         "source_id": "22714710",
         "display_name": "Just Think of Us Both SD CZ Dabing",
-        "planned_at": "2026-11-14T10:32:10.753517+00:00"
+        "planned_at": "2026-11-14T11:51:14.505801+00:00"
       },
       "previous_target_id": "30988585",
       "prepared": {
@@ -142903,6 +142903,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T08:48:56.175906+00:00",
         "relay_source_id": "22714710"
+      },
+      "claim": {
+        "worker_id": "1732017c5712433e8c7253534f03b854-shard-0",
+        "claimed_at": "2026-11-14T11:51:15.157189+00:00",
+        "lease_expires_at": "2026-11-14T17:51:15.157189+00:00",
+        "run_id": "43570770208"
       }
     },
     "15814": {
@@ -151394,17 +151400,19 @@
       }
     },
     "12522": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34675854",
+          "target_video_id": "31028415",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:51:16.607680+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34675854",
         "display_name": "Osvobození Prahy 1080p CZ Dabing",
         "planned_at": "2026-11-14T11:40:08.719456+00:00"
-      },
-      "claim": {
-        "worker_id": "6b975b1a9222476a875e578751ac8ccc-shard-0",
-        "claimed_at": "2026-11-14T11:40:09.445418+00:00",
-        "lease_expires_at": "2026-11-14T17:40:09.445418+00:00",
-        "run_id": "43570770208"
       },
       "previous_target_id": "31028415",
       "prepared": {
@@ -151419,7 +151427,7 @@
       "last_plan": {
         "source_id": "19576824",
         "display_name": "White Soldier (Soldat blanc) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:51:10.909225+00:00"
+        "planned_at": "2026-11-14T11:51:14.799942+00:00"
       }
     },
     "5275": {
@@ -202340,5 +202348,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:51:12.742962+00:00"
+  "updated_at": "2026-11-14T11:51:16.607699+00:00"
 }
