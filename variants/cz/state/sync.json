@@ -119107,13 +119107,6 @@
           "source_id": "13046628",
           "target_video_id": "30984895",
           "permanent": false,
-          "attempted_at": "2026-11-14T11:08:36.680477+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13046628",
-          "target_video_id": "30984895",
-          "permanent": false,
           "attempted_at": "2026-11-14T12:41:03.878265+00:00"
         },
         {
@@ -119122,6 +119115,13 @@
           "target_video_id": "30984895",
           "permanent": false,
           "attempted_at": "2026-11-14T13:59:35.705866+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13046628",
+          "target_video_id": "30984895",
+          "permanent": false,
+          "attempted_at": "2026-11-14T15:19:31.394793+00:00"
         }
       ],
       "last_plan": {
@@ -120715,7 +120715,7 @@
       "last_plan": {
         "source_id": "34453326",
         "display_name": "Capricorn One 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:59:34.191250+00:00"
+        "planned_at": "2026-11-14T15:19:29.851626+00:00"
       },
       "previous_target_id": "30985025",
       "prepared": {
@@ -120723,6 +120723,12 @@
         "size_bytes": 5500000000,
         "prepared_at": "2026-11-10T18:36:09.581586+00:00",
         "relay_source_id": "34453326"
+      },
+      "claim": {
+        "worker_id": "e8ed8e3b310243fd93b2a07ec91db2c8-shard-0",
+        "claimed_at": "2026-11-14T15:19:30.661363+00:00",
+        "lease_expires_at": "2026-11-14T21:19:30.661363+00:00",
+        "run_id": "43589661606"
       }
     },
     "3003": {
@@ -151919,7 +151925,7 @@
       "last_plan": {
         "source_id": "34908684",
         "display_name": "What a Feeling 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:19:27.446994+00:00"
+        "planned_at": "2026-11-14T15:19:30.196502+00:00"
       }
     },
     "24179": {
@@ -202759,5 +202765,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:19:27.732348+00:00"
+  "updated_at": "2026-11-14T15:19:31.394815+00:00"
 }
