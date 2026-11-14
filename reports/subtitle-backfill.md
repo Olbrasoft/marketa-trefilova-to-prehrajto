@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T06:00:52.304542+00:00
+Poslední aktualizace (UTC): 2026-11-14T06:00:54.352274+00:00
 
 Zkontrolováno videí: 725. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 149, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 150, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -164,6 +164,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 159. Důvo
 | [Rye Lane 1080p CZ Titulky](https://prehraj.to/rye-lane-1080p-cz-titulky-mkv/fd377405243130a1) (ID 30893092) | [Sdílej 25662574](https://sdilej.cz/25662574/vzplanuti-na-rye-lane-rye.lane.2023.proper.1080p.webrip.x264-rarbg-cz-titulky-.mkv) | target_unavailable | 2026-11-10T09:50:09.047853+00:00 |
 | [Sanctuary (Freistatt) 720p CZ Titulky](https://prehraj.to/sanctuary-freistatt-720p-cz-titulky-mkv/23e2e67faa47d345) (ID 30986677) | [Sdílej 6556256](https://sdilej.cz/6556256/freistatt-sanctuary-2015-.720p.brrip.xvid.ac3.2.0-ceske-titulky.mkv) | target_unavailable | 2026-11-11T01:32:25.152784+00:00 |
 | [Sayonara 1080p CZ Titulky](https://prehraj.to/sayonara-1080p-cz-titulky-mkv/d28553733dbbab0f) (ID 30990118) | [Sdílej 34273318](https://sdilej.cz/34273318/sayonara-1957-bdrip-hd-1080p-h264-ita-eng-cze-ac3-armor-.mkv) | target_unavailable | 2026-11-11T13:08:15.794158+00:00 |
+| [Show Me the Father 1080p CZ Titulky](https://prehraj.to/show-me-the-father-1080p-cz-titulky-mkv/bd2f22a6b772b8e8) (ID 31024476) | [Sdílej 19837193](https://sdilej.cz/19837193/show-me-the-father-1080p-2021-vlozene-sk-titulky-kst.mkv) | target_unavailable | 2026-11-14T06:00:54.131745+00:00 |
 | [Skyking (#SKYKING) 1080p CZ Titulky](https://prehraj.to/skyking-skyking-1080p-cz-titulky-mkv/f146a58059f0f6dc) (ID 30987918) | [Sdílej 34014919](https://sdilej.cz/34014919/skyking.2026.sk.titulky.1080p.mkv) | target_unavailable | 2026-11-11T06:48:07.231650+00:00 |
 | [Something Wild 1080p CZ Titulky](https://prehraj.to/something-wild-1080p-cz-titulky-mkv/8437ea7ca997fba2) (ID 31013121) | [Sdílej 35182294](https://sdilej.cz/35182294/something.wild.1986.criterion.1080p.bluray.dl.dts.x264-majo.mkv) | target_unavailable | 2026-11-13T14:02:39.393310+00:00 |
 | [Sorry to Bother You 1080p CZ Titulky](https://prehraj.to/sorry-to-bother-you-1080p-cz-titulky-mkv/daedc2ae52062479) (ID 31006990) | [Sdílej 10716193](https://sdilej.cz/10716193/sorry-to-bother-you-cz-titulky-fullhd-1080p.mkv) | target_unavailable | 2026-11-12T23:11:49.787012+00:00 |
