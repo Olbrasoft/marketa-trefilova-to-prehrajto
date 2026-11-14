@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T17:35:58.570310+00:00
+Poslední aktualizace (UTC): 2026-11-14T17:36:00.222616+00:00
 
 Zkontrolováno videí: 732. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 156, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 157, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -227,6 +227,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 167. Důvo
 | [Wisdom of Happiness 1080p CZ Titulky](https://prehraj.to/wisdom-of-happiness-1080p-cz-titulky-mkv/03c6d43c9cceda93) (ID 31029095) | [Sdílej 34455088](https://sdilej.cz/34455088/wisdom-of-happiness-2024-1080p-cz.tit.mkv) | target_unavailable | 2026-11-14T12:14:13.778843+00:00 |
 | [Wonka 4K CZ Titulky](https://prehraj.to/wonka-4k-cz-titulky-mkv/c950b0351472ba1b) (ID 31005086) | [Sdílej 27822278](https://sdilej.cz/27822278/wonka-2023-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-12T19:08:32.956002+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-10T09:40:32.233547+00:00 |
+| [Zítra to roztočíme, drahoušku…! 1080p CZ Titulky](https://prehraj.to/zitra-to-roztocime-drahousku-1080p-cz-titulky-mkv/fe0703727ec748f9) (ID 31035642) | [Sdílej 32837775](https://sdilej.cz/32837775/zitra-to-roztocime-drahousku-1976.mkv) | target_unavailable | 2026-11-14T17:36:00.171508+00:00 |
 
 Zpracovávaná videa se kontrolují znovu. Chybějící zdrojové stopy se znovu prověřují nejdříve za sedm dní.
 
