@@ -1992,6 +1992,12 @@
         "size_bytes": 35700000000,
         "prepared_at": "2026-10-28T23:45:04.154960+00:00",
         "relay_source_id": "33013175"
+      },
+      "claim": {
+        "worker_id": "135ad37608b443ad966b2021f1c6a1e0-shard-0",
+        "claimed_at": "2026-11-14T17:26:40.388484+00:00",
+        "lease_expires_at": "2026-11-14T23:26:40.388484+00:00",
+        "run_id": "43615202382"
       }
     },
     "108": {
@@ -35176,7 +35182,7 @@
       "last_plan": {
         "source_id": "9657833",
         "display_name": "The Place SD CZ Titulky",
-        "planned_at": "2026-11-14T16:56:33.048596+00:00"
+        "planned_at": "2026-11-14T17:26:41.420091+00:00"
       },
       "previous_target_id": "30988255",
       "prepared": {
@@ -35205,13 +35211,6 @@
           "source_id": "26365359",
           "target_video_id": "30988430",
           "permanent": false,
-          "attempted_at": "2026-11-14T15:45:44.141753+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26365359",
-          "target_video_id": "30988430",
-          "permanent": false,
           "attempted_at": "2026-11-14T16:26:24.556178+00:00"
         },
         {
@@ -35220,6 +35219,13 @@
           "target_video_id": "30988430",
           "permanent": false,
           "attempted_at": "2026-11-14T16:56:30.508862+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26365359",
+          "target_video_id": "30988430",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:26:40.498111+00:00"
         }
       ],
       "last_plan": {
@@ -35233,12 +35239,6 @@
         "size_bytes": 13500000000,
         "prepared_at": "2026-11-11T08:26:55.170536+00:00",
         "relay_source_id": "26365359"
-      },
-      "claim": {
-        "worker_id": "8f11bb92449a4af6b326139c3bc777f7-shard-0",
-        "claimed_at": "2026-11-14T17:26:37.271896+00:00",
-        "lease_expires_at": "2026-11-14T23:26:37.271896+00:00",
-        "run_id": "43615202382"
       }
     },
     "25007": {
@@ -100051,5 +100051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:26:38.133180+00:00"
+  "updated_at": "2026-11-14T17:26:41.420105+00:00"
 }
