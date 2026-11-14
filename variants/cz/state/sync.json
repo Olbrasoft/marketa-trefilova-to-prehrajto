@@ -37382,7 +37382,7 @@
       "last_plan": {
         "source_id": "12181949",
         "display_name": "Les Misérables (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:19:22.800173+00:00"
+        "planned_at": "2026-11-14T14:35:55.040911+00:00"
       },
       "previous_target_id": "30743906",
       "prepared": {
@@ -37390,6 +37390,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-02T22:43:28.987868+00:00",
         "relay_source_id": "12181949"
+      },
+      "claim": {
+        "worker_id": "df48cd4a177b4d88b780b3f40ce25744-shard-0",
+        "claimed_at": "2026-11-14T14:35:55.861104+00:00",
+        "lease_expires_at": "2026-11-14T20:35:55.861104+00:00",
+        "run_id": "43589661606"
       }
     },
     "35068": {
@@ -151655,17 +151661,23 @@
           "attempted_at": "2026-11-14T13:19:26.370208+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35003219",
-        "display_name": "Nejlepsí prítel 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:35:51.685874+00:00"
-      },
       "previous_target_id": "31029987",
-      "prepared": {
+      "upload": {
         "target_video_id": "31029987",
-        "size_bytes": 4120809228,
-        "prepared_at": "2026-11-14T13:03:52.797189+00:00",
-        "relay_source_id": "35003219"
+        "display_name": "Nejlepsí prítel 1080p CZ Dabing",
+        "source_id": "35003219",
+        "source_url": "https://sdilej.cz/35003219/nejlepsi-pritel-pohadka-2017-.avi",
+        "source_filename": "Nejlepší přítel pohadka 2017 .avi",
+        "size_bytes": 4099999999,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9820256233215332,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/nejlepsi-pritel-1080p-cz-dabing-avi/bc8aaf1d19f0574c",
+        "uploaded_at": "2026-11-14T14:35:56.720254+00:00"
       }
     },
     "23669": {
@@ -151855,7 +151867,7 @@
       "last_plan": {
         "source_id": "28419372",
         "display_name": "The Shadowless Tower (白塔之光) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:35:52.039263+00:00"
+        "planned_at": "2026-11-14T14:35:55.388020+00:00"
       }
     },
     "16695": {
@@ -202701,5 +202713,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:35:52.481663+00:00"
+  "updated_at": "2026-11-14T14:35:56.720272+00:00"
 }
