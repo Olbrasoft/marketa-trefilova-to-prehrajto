@@ -41002,17 +41002,19 @@
       "attempts": []
     },
     "16055": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33292727",
+          "target_video_id": "31021651",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:19:04.004316+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33292727",
         "display_name": "The Swedish Connection (Den svenska länken) 1080p CZ Titulky",
         "planned_at": "2026-11-13T23:57:07.687978+00:00"
-      },
-      "claim": {
-        "worker_id": "9031d6c057da4aeea2deec2a5eef4545-shard-0",
-        "claimed_at": "2026-11-13T23:57:09.803560+00:00",
-        "lease_expires_at": "2026-11-14T05:57:09.803560+00:00",
-        "run_id": "43526557198"
       },
       "previous_target_id": "31021651",
       "prepared": {
@@ -99664,5 +99666,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:19:02.052333+00:00"
+  "updated_at": "2026-11-14T00:19:04.004335+00:00"
 }
