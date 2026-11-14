@@ -133852,7 +133852,7 @@
       "last_plan": {
         "source_id": "24368035",
         "display_name": "Psí kus 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:29:29.281727+00:00"
+        "planned_at": "2026-11-14T05:49:10.396830+00:00"
       },
       "previous_target_id": "30987361",
       "prepared": {
@@ -133860,6 +133860,12 @@
         "size_bytes": 3600000000,
         "prepared_at": "2026-11-11T04:24:12.167298+00:00",
         "relay_source_id": "24368035"
+      },
+      "claim": {
+        "worker_id": "e2393e47d7fb4bd49b5163014bba4a6c-shard-0",
+        "claimed_at": "2026-11-14T05:49:11.549533+00:00",
+        "lease_expires_at": "2026-11-14T11:49:11.549533+00:00",
+        "run_id": "43551382365"
       }
     },
     "27256": {
@@ -140396,13 +140402,6 @@
           "source_id": "34676095",
           "target_video_id": "30988109",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:33:25.561269+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34676095",
-          "target_video_id": "30988109",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:41:58.967841+00:00"
         },
         {
@@ -140411,6 +140410,13 @@
           "target_video_id": "30988109",
           "permanent": false,
           "attempted_at": "2026-11-14T04:29:29.561527+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676095",
+          "target_video_id": "30988109",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:49:11.337370+00:00"
         }
       ],
       "last_plan": {
@@ -140424,12 +140430,6 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T07:32:16.074157+00:00",
         "relay_source_id": "34676095"
-      },
-      "claim": {
-        "worker_id": "040221d60bec400eaffb4115a54b28f6-shard-0",
-        "claimed_at": "2026-11-14T05:49:06.944679+00:00",
-        "lease_expires_at": "2026-11-14T11:49:06.944679+00:00",
-        "run_id": "43551382365"
       }
     },
     "6570": {
@@ -150741,7 +150741,7 @@
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:49:06.389542+00:00"
+        "planned_at": "2026-11-14T05:49:10.749633+00:00"
       }
     },
     "32217": {
@@ -201766,5 +201766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:49:07.950387+00:00"
+  "updated_at": "2026-11-14T05:49:11.549561+00:00"
 }
