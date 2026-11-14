@@ -108595,13 +108595,6 @@
           "source_id": "34715818",
           "target_video_id": "30983577",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:25:55.363913+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34715818",
-          "target_video_id": "30983577",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:42:04.780373+00:00"
         },
         {
@@ -108610,6 +108603,13 @@
           "target_video_id": "30983577",
           "permanent": false,
           "attempted_at": "2026-11-14T15:01:04.469695+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34715818",
+          "target_video_id": "30983577",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:29:08.115600+00:00"
         }
       ],
       "last_plan": {
@@ -139701,7 +139701,7 @@
       "last_plan": {
         "source_id": "32326508",
         "display_name": "Where Butterflies Don't Fly (Kam motýli nelétají) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:01:08.245458+00:00"
+        "planned_at": "2026-11-14T16:29:06.759121+00:00"
       },
       "previous_target_id": "30987972",
       "prepared": {
@@ -139709,6 +139709,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T07:06:56.311315+00:00",
         "relay_source_id": "32326508"
+      },
+      "claim": {
+        "worker_id": "477ed279615f4a2a972fcd43583fe184-shard-0",
+        "claimed_at": "2026-11-14T16:29:07.707166+00:00",
+        "lease_expires_at": "2026-11-14T22:29:07.707166+00:00",
+        "run_id": "43615202382"
       }
     },
     "24287": {
@@ -152083,7 +152089,7 @@
       "last_plan": {
         "source_id": "30589281",
         "display_name": "The Attachment Diaries (El apego) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:29:04.409731+00:00"
+        "planned_at": "2026-11-14T16:29:07.120129+00:00"
       }
     },
     "12455": {
@@ -202901,5 +202907,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:29:04.704520+00:00"
+  "updated_at": "2026-11-14T16:29:08.115618+00:00"
 }
