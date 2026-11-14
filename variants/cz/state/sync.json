@@ -116822,13 +116822,6 @@
           "source_id": "34455392",
           "target_video_id": "30984733",
           "permanent": false,
-          "attempted_at": "2026-11-14T06:50:32.410993+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34455392",
-          "target_video_id": "30984733",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:23:11.842789+00:00"
         },
         {
@@ -116837,6 +116830,13 @@
           "target_video_id": "30984733",
           "permanent": false,
           "attempted_at": "2026-11-14T09:46:28.457443+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34455392",
+          "target_video_id": "30984733",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:56:12.624790+00:00"
         }
       ],
       "last_plan": {
@@ -118588,7 +118588,7 @@
       "last_plan": {
         "source_id": "27866187",
         "display_name": "Great Expectations (1998) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:46:27.947520+00:00"
+        "planned_at": "2026-11-14T10:56:10.906523+00:00"
       },
       "previous_target_id": "30984865",
       "prepared": {
@@ -118596,6 +118596,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T17:58:08.493272+00:00",
         "relay_source_id": "27866187"
+      },
+      "claim": {
+        "worker_id": "85c530979a1644c29a660d1f7a611059-shard-0",
+        "claimed_at": "2026-11-14T10:56:11.572721+00:00",
+        "lease_expires_at": "2026-11-14T16:56:11.572721+00:00",
+        "run_id": "43570770208"
       }
     },
     "2985": {
@@ -151306,7 +151312,7 @@
       "last_plan": {
         "source_id": "27461299",
         "display_name": "Cartagena (L'homme de chevet) SD CZ Dabing",
-        "planned_at": "2026-11-14T10:56:08.674796+00:00"
+        "planned_at": "2026-11-14T10:56:11.192392+00:00"
       }
     },
     "4290": {
@@ -202242,5 +202248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:56:09.039991+00:00"
+  "updated_at": "2026-11-14T10:56:12.624808+00:00"
 }
