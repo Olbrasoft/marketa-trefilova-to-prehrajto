@@ -16465,13 +16465,6 @@
           "source_id": "15668226",
           "target_video_id": "30664494",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:23:57.680743+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15668226",
-          "target_video_id": "30664494",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:34:19.823968+00:00"
         },
         {
@@ -16480,6 +16473,13 @@
           "target_video_id": "30664494",
           "permanent": false,
           "attempted_at": "2026-11-14T04:16:41.334168+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15668226",
+          "target_video_id": "30664494",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:41:10.224752+00:00"
         }
       ],
       "last_plan": {
@@ -106255,7 +106255,7 @@
       "last_plan": {
         "source_id": "30045237",
         "display_name": "Man versus Ruin (Člověk proti zkáze) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:16:43.288368+00:00"
+        "planned_at": "2026-11-14T05:41:08.615925+00:00"
       },
       "previous_target_id": "30978930",
       "prepared": {
@@ -106263,6 +106263,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T12:08:41.122784+00:00",
         "relay_source_id": "30045237"
+      },
+      "claim": {
+        "worker_id": "6552c5c1983c47f8a3c2500c024a97e6-shard-0",
+        "claimed_at": "2026-11-14T05:41:09.470789+00:00",
+        "lease_expires_at": "2026-11-14T11:41:09.470789+00:00",
+        "run_id": "43551382365"
       }
     },
     "22815": {
@@ -150735,7 +150741,7 @@
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:41:05.347660+00:00"
+        "planned_at": "2026-11-14T05:41:08.965080+00:00"
       }
     },
     "32217": {
@@ -201760,5 +201766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:41:05.978945+00:00"
+  "updated_at": "2026-11-14T05:41:10.224768+00:00"
 }
