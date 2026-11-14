@@ -152087,17 +152087,19 @@
       "attempts": []
     },
     "14226": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30589281",
+          "target_video_id": "31034340",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:41:25.527458+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30589281",
         "display_name": "The Attachment Diaries (El apego) 1080p CZ Dabing",
         "planned_at": "2026-11-14T16:31:07.069442+00:00"
-      },
-      "claim": {
-        "worker_id": "d4f714be38b9474f9260374c247a0726-shard-0",
-        "claimed_at": "2026-11-14T16:31:09.529553+00:00",
-        "lease_expires_at": "2026-11-14T22:31:09.529553+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31034340",
       "prepared": {
@@ -202922,5 +202924,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:41:23.712795+00:00"
+  "updated_at": "2026-11-14T16:41:25.527476+00:00"
 }
