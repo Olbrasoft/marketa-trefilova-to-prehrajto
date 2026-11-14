@@ -150574,17 +150574,19 @@
       }
     },
     "14672": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33810870",
+          "target_video_id": "31023272",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:40:14.917804+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33810870",
         "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
         "planned_at": "2026-11-14T03:26:47.021617+00:00"
-      },
-      "claim": {
-        "worker_id": "48715ff7432f4bde85eb44ceeac0e5e9-shard-0",
-        "claimed_at": "2026-11-14T03:26:47.657539+00:00",
-        "lease_expires_at": "2026-11-14T09:26:47.657539+00:00",
-        "run_id": "43526557198"
       },
       "previous_target_id": "31023272",
       "prepared": {
@@ -201634,5 +201636,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:32:12.714408+00:00"
+  "updated_at": "2026-11-14T03:40:14.917820+00:00"
 }
