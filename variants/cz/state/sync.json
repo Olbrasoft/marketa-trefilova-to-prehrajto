@@ -132626,13 +132626,6 @@
           "source_id": "29186186",
           "target_video_id": "30987146",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:56:49.624648+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29186186",
-          "target_video_id": "30987146",
-          "permanent": false,
           "attempted_at": "2026-11-14T14:12:00.907371+00:00"
         },
         {
@@ -132641,6 +132634,13 @@
           "target_video_id": "30987146",
           "permanent": false,
           "attempted_at": "2026-11-14T15:31:51.879697+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29186186",
+          "target_video_id": "30987146",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:54:51.954827+00:00"
         }
       ],
       "last_plan": {
@@ -132654,12 +132654,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T03:47:31.247238+00:00",
         "relay_source_id": "29186186"
-      },
-      "claim": {
-        "worker_id": "4dc329d1fe01448f9136808507e36876-shard-0",
-        "claimed_at": "2026-11-14T16:54:49.355426+00:00",
-        "lease_expires_at": "2026-11-14T22:54:49.355426+00:00",
-        "run_id": "43615202382"
       }
     },
     "34517": {
@@ -133919,7 +133913,7 @@
       "last_plan": {
         "source_id": "35084675",
         "display_name": "The Secret of a Great Narrator (Tajemství velikého vypravěče) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:31:50.571109+00:00"
+        "planned_at": "2026-11-14T16:54:51.151494+00:00"
       },
       "previous_target_id": "30987349",
       "prepared": {
@@ -152145,17 +152139,19 @@
       }
     },
     "5085": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "29154330",
+          "target_video_id": "31034682",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:54:52.159129+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "29154330",
         "display_name": "The Princess and Half the Kingdom (Princezna a půl království) 1080p CZ Dabing",
         "planned_at": "2026-11-14T16:49:49.620995+00:00"
-      },
-      "claim": {
-        "worker_id": "9b0b5c957f134539ada3950e6e6eec2c-shard-0",
-        "claimed_at": "2026-11-14T16:49:52.184093+00:00",
-        "lease_expires_at": "2026-11-14T22:49:52.184093+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31034682",
       "prepared": {
@@ -152170,7 +152166,7 @@
       "last_plan": {
         "source_id": "24537171",
         "display_name": "Doktor Martin: Záhada v Beskydech 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:54:45.772239+00:00"
+        "planned_at": "2026-11-14T16:54:51.595774+00:00"
       }
     },
     "15782": {
@@ -202974,5 +202970,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:54:49.355464+00:00"
+  "updated_at": "2026-11-14T16:54:52.159149+00:00"
 }
