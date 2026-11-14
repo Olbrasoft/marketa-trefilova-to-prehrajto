@@ -8558,6 +8558,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-10-30T10:42:16.949236+00:00",
         "relay_source_id": "28293597"
+      },
+      "claim": {
+        "worker_id": "d4d908bc93204f2f823859afdd057137-shard-0",
+        "claimed_at": "2026-11-14T14:39:21.930177+00:00",
+        "lease_expires_at": "2026-11-14T20:39:21.930177+00:00",
+        "run_id": "43589661606"
       }
     },
     "29922": {
@@ -123397,13 +123403,6 @@
           "source_id": "30317434",
           "target_video_id": "30985560",
           "permanent": false,
-          "attempted_at": "2026-11-14T10:31:18.756686+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30317434",
-          "target_video_id": "30985560",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:49:51.308932+00:00"
         },
         {
@@ -123412,12 +123411,19 @@
           "target_video_id": "30985560",
           "permanent": false,
           "attempted_at": "2026-11-14T13:24:13.673057+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30317434",
+          "target_video_id": "30985560",
+          "permanent": false,
+          "attempted_at": "2026-11-14T14:39:24.981776+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30317434",
         "display_name": "True Spirit 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:24:08.424035+00:00"
+        "planned_at": "2026-11-14T14:39:22.193994+00:00"
       },
       "previous_target_id": "30985560",
       "prepared": {
@@ -151861,7 +151867,7 @@
       "last_plan": {
         "source_id": "28419372",
         "display_name": "The Shadowless Tower (白塔之光) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:39:19.988664+00:00"
+        "planned_at": "2026-11-14T14:39:22.549462+00:00"
       }
     },
     "16695": {
@@ -202707,5 +202713,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:39:19.988683+00:00"
+  "updated_at": "2026-11-14T14:39:24.981797+00:00"
 }
