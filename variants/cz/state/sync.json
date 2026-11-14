@@ -116462,13 +116462,6 @@
           "source_id": "14845493",
           "target_video_id": "30984699",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:40:23.080328+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "14845493",
-          "target_video_id": "30984699",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:53:53.945342+00:00"
         },
         {
@@ -116477,6 +116470,13 @@
           "target_video_id": "30984699",
           "permanent": false,
           "attempted_at": "2026-11-14T02:04:47.912799+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "14845493",
+          "target_video_id": "30984699",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:20:01.605828+00:00"
         }
       ],
       "last_plan": {
@@ -127189,7 +127189,7 @@
       "last_plan": {
         "source_id": "34695526",
         "display_name": "The Birthday Wish 1080p CZ Dabing",
-        "planned_at": "2026-11-14T02:04:49.977781+00:00"
+        "planned_at": "2026-11-14T03:20:00.180049+00:00"
       },
       "previous_target_id": "30986397",
       "prepared": {
@@ -127197,6 +127197,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T00:18:18.014381+00:00",
         "relay_source_id": "34695526"
+      },
+      "claim": {
+        "worker_id": "70fd3301c3e94682b1e45e44b3322df6-shard-0",
+        "claimed_at": "2026-11-14T03:20:00.973963+00:00",
+        "lease_expires_at": "2026-11-14T09:20:00.973963+00:00",
+        "run_id": "43526557198"
       }
     },
     "30990": {
@@ -150576,7 +150582,7 @@
       "last_plan": {
         "source_id": "33810870",
         "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:19:57.826822+00:00"
+        "planned_at": "2026-11-14T03:20:00.522471+00:00"
       }
     },
     "24093": {
@@ -201614,5 +201620,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:19:58.098964+00:00"
+  "updated_at": "2026-11-14T03:20:01.605848+00:00"
 }
