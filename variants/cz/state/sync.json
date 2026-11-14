@@ -122770,13 +122770,6 @@
           "source_id": "32965631",
           "target_video_id": "30985482",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:42:45.122326+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32965631",
-          "target_video_id": "30985482",
-          "permanent": false,
           "attempted_at": "2026-11-14T07:15:43.241387+00:00"
         },
         {
@@ -122785,6 +122778,13 @@
           "target_video_id": "30985482",
           "permanent": false,
           "attempted_at": "2026-11-14T08:48:35.931627+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32965631",
+          "target_video_id": "30985482",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:09:00.412742+00:00"
         }
       ],
       "last_plan": {
@@ -138481,7 +138481,7 @@
       "last_plan": {
         "source_id": "34399715",
         "display_name": "Koloběžka první (Ruffiano and Sweeteeth) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:48:36.255569+00:00"
+        "planned_at": "2026-11-14T10:08:58.711708+00:00"
       },
       "previous_target_id": "30987880",
       "prepared": {
@@ -138489,6 +138489,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-11T06:32:54.593013+00:00",
         "relay_source_id": "34399715"
+      },
+      "claim": {
+        "worker_id": "cdbbd5a7f79d453cb7f5bb680e0cc1d5-shard-0",
+        "claimed_at": "2026-11-14T10:08:59.598475+00:00",
+        "lease_expires_at": "2026-11-14T16:08:59.598475+00:00",
+        "run_id": "43570770208"
       }
     },
     "15438": {
@@ -151184,7 +151190,7 @@
       "last_plan": {
         "source_id": "34651309",
         "display_name": "The Worst Ones (Les Pires) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:08:56.207421+00:00"
+        "planned_at": "2026-11-14T10:08:59.201400+00:00"
       }
     },
     "15170": {
@@ -202129,5 +202135,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:08:56.458452+00:00"
+  "updated_at": "2026-11-14T10:09:00.412760+00:00"
 }
