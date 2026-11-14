@@ -118559,6 +118559,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "418daedfadd14892aa6c9aec7d11320a-shard-0",
+        "claimed_at": "2026-11-14T10:59:45.482592+00:00",
+        "lease_expires_at": "2026-11-14T16:59:45.482592+00:00",
+        "run_id": "43570770208"
       }
     },
     "12374": {
@@ -136130,13 +136136,6 @@
           "source_id": "34528200",
           "target_video_id": "30987645",
           "permanent": false,
-          "attempted_at": "2026-11-14T06:58:21.873597+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34528200",
-          "target_video_id": "30987645",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:26:47.739026+00:00"
         },
         {
@@ -136145,12 +136144,19 @@
           "target_video_id": "30987645",
           "permanent": false,
           "attempted_at": "2026-11-14T09:50:12.230334+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34528200",
+          "target_video_id": "30987645",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:59:48.449155+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34528200",
         "display_name": "Stín smrtihlava 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:50:08.609959+00:00"
+        "planned_at": "2026-11-14T10:59:45.723742+00:00"
       },
       "previous_target_id": "30987645",
       "prepared": {
@@ -151312,7 +151318,7 @@
       "last_plan": {
         "source_id": "27461299",
         "display_name": "Cartagena (L'homme de chevet) SD CZ Dabing",
-        "planned_at": "2026-11-14T10:59:43.720216+00:00"
+        "planned_at": "2026-11-14T10:59:46.031166+00:00"
       }
     },
     "4290": {
@@ -202248,5 +202254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:59:43.720233+00:00"
+  "updated_at": "2026-11-14T10:59:48.449174+00:00"
 }
