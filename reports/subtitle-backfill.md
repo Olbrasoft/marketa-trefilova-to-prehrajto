@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T03:50:38.386172+00:00
+Poslední aktualizace (UTC): 2026-11-14T03:50:40.355985+00:00
 
 Zkontrolováno videí: 722. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 146, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 147, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -65,6 +65,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 156. Důvo
 | --- | --- | --- | --- |
 | [12 Mighty Orphans 1080p CZ Titulky](https://prehraj.to/12-mighty-orphans-1080p-cz-titulky-mkv/41c5998d93b07046) (ID 31015540) | [Sdílej 24553606](https://sdilej.cz/24553606/12-nezdolnych-sirotku-webrip-en-tit-cz-2021.mkv) | target_unavailable | 2026-11-13T16:33:31.210958+00:00 |
 | [12 Years a Slave SD](https://prehraj.to/12-years-a-slave-sd-mkv/6a887f8343b9c0e0) (ID 30616683) | [Sdílej 31885004](https://sdilej.cz/31885004/12-let-v-retezech-twelve-years-a-slave-2013-cz-dabing.mkv) | target_unavailable | 2026-11-10T09:49:56.471318+00:00 |
+| [18 Presents 1080p CZ Titulky](https://prehraj.to/18-presents-1080p-cz-titulky-mkv/efa9dd694e4cc863) (ID 31023418) | [Sdílej 19221953](https://sdilej.cz/19221953/18.presents.2020.cz.sub.internal.1080p.web.x264-titulky-cz.mkv) | target_unavailable | 2026-11-14T03:50:40.158155+00:00 |
 | [28 Years Later: The Bone Temple 4K CZ Titulky](https://prehraj.to/28-years-later-the-bone-temple-4k-cz-titulky-mkv/3ae858459f11bfe9) (ID 30869550) | [Sdílej 33601012](https://sdilej.cz/33601012/28-let-pote-chram-z-kosti-4k-2026-cz-tit-rebelant.mkv) | target_unavailable | 2026-11-10T09:50:04.770421+00:00 |
 | [48 Hrs. 4K CZ Titulky](https://prehraj.to/48-hrs-4k-cz-titulky-mkv/f1d70b63a437a8da) (ID 31007032) | [Sdílej 35125536](https://sdilej.cz/35125536/1982-48-hodin-2160p-sk-cz-eng.mkv) | target_unavailable | 2026-11-12T23:22:43.232222+00:00 |
 | [A Hard Day's Night 1080p CZ Titulky](https://prehraj.to/a-hard-day-s-night-1080p-cz-titulky-mkv/5ee085f36b73998f) (ID 30735890) | [Sdílej 33222569](https://sdilej.cz/33222569/the-beatles-a-hard-day-s-night-1964-fhd-en-cz-tit.mkv) | target_unavailable | 2026-11-10T09:49:29.354632+00:00 |
