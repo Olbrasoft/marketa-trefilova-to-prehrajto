@@ -136256,13 +136256,6 @@
           "source_id": "34781942",
           "target_video_id": "30987667",
           "permanent": false,
-          "attempted_at": "2026-11-14T07:05:23.040074+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34781942",
-          "target_video_id": "30987667",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:36:35.117778+00:00"
         },
         {
@@ -136271,6 +136264,13 @@
           "target_video_id": "30987667",
           "permanent": false,
           "attempted_at": "2026-11-14T09:57:09.908143+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34781942",
+          "target_video_id": "30987667",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:07:54.914375+00:00"
         }
       ],
       "last_plan": {
@@ -151140,17 +151140,23 @@
           "attempted_at": "2026-11-14T09:57:12.615888+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "34858486",
-        "display_name": "Die sechs Schwäne 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:47:42.878148+00:00"
-      },
       "previous_target_id": "31026437",
-      "prepared": {
+      "upload": {
         "target_video_id": "31026437",
-        "size_bytes": 4081335138,
-        "prepared_at": "2026-11-14T09:47:50.799580+00:00",
-        "relay_source_id": "34858486"
+        "display_name": "Die sechs Schwäne 1080p CZ Dabing",
+        "source_id": "34858486",
+        "source_url": "https://sdilej.cz/34858486/o-sesti-labutich-2012-cz-dabing-1080p-fhd.mkv",
+        "source_filename": "O šesti labutích 2012 CZ dabing 1080p FHD.mkv",
+        "size_bytes": 4099999999,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.6957396864891052,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/die-sechs-schwaene-1080p-cz-dabing-mkv/412287ce66276f62",
+        "uploaded_at": "2026-11-14T11:07:55.412827+00:00"
       }
     },
     "12509": {
@@ -151312,7 +151318,7 @@
       "last_plan": {
         "source_id": "27461299",
         "display_name": "Cartagena (L'homme de chevet) SD CZ Dabing",
-        "planned_at": "2026-11-14T11:07:51.189408+00:00"
+        "planned_at": "2026-11-14T11:07:53.622168+00:00"
       }
     },
     "4290": {
@@ -202248,5 +202254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:07:51.189427+00:00"
+  "updated_at": "2026-11-14T11:07:55.412844+00:00"
 }
