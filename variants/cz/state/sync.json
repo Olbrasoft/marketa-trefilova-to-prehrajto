@@ -110468,13 +110468,6 @@
           "source_id": "35184124",
           "target_video_id": "30983741",
           "permanent": false,
-          "attempted_at": "2026-11-14T13:35:54.754813+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35184124",
-          "target_video_id": "30983741",
-          "permanent": false,
           "attempted_at": "2026-11-14T14:55:03.191623+00:00"
         },
         {
@@ -110483,6 +110476,13 @@
           "target_video_id": "30983741",
           "permanent": false,
           "attempted_at": "2026-11-14T16:08:35.394529+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35184124",
+          "target_video_id": "30983741",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:34:11.632975+00:00"
         }
       ],
       "last_plan": {
@@ -116593,7 +116593,7 @@
       "last_plan": {
         "source_id": "14845493",
         "display_name": "Mank 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:08:35.122662+00:00"
+        "planned_at": "2026-11-14T17:34:09.723370+00:00"
       },
       "previous_target_id": "30984699",
       "prepared": {
@@ -116601,6 +116601,12 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-11-10T17:20:31.441781+00:00",
         "relay_source_id": "14845493"
+      },
+      "claim": {
+        "worker_id": "bab9ed96dd464911b7d7d6fa8e704cd0-shard-0",
+        "claimed_at": "2026-11-14T17:34:10.703216+00:00",
+        "lease_expires_at": "2026-11-14T23:34:10.703216+00:00",
+        "run_id": "43615202382"
       }
     },
     "2816": {
@@ -152338,7 +152344,7 @@
       "last_plan": {
         "source_id": "34694600",
         "display_name": "To Kill a Mongolian Horse (一匹白馬的熱夢) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T17:34:07.396042+00:00"
+        "planned_at": "2026-11-14T17:34:10.119131+00:00"
       }
     },
     "31606": {
@@ -203123,5 +203129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:34:07.643812+00:00"
+  "updated_at": "2026-11-14T17:34:11.633007+00:00"
 }
