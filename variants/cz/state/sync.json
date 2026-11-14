@@ -117172,6 +117172,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T17:35:49.011875+00:00",
         "relay_source_id": "23542078"
+      },
+      "claim": {
+        "worker_id": "ba608fc16cc6432c8068ebcdabf8e934-shard-0",
+        "claimed_at": "2026-11-14T14:06:04.761599+00:00",
+        "lease_expires_at": "2026-11-14T20:06:04.761599+00:00",
+        "run_id": "43589661606"
       }
     },
     "2896": {
@@ -133773,13 +133779,6 @@
           "source_id": "34705552",
           "target_video_id": "30987337",
           "permanent": false,
-          "attempted_at": "2026-11-14T10:06:12.062977+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34705552",
-          "target_video_id": "30987337",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:17:19.241162+00:00"
         },
         {
@@ -133788,6 +133787,13 @@
           "target_video_id": "30987337",
           "permanent": false,
           "attempted_at": "2026-11-14T12:50:49.264454+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34705552",
+          "target_video_id": "30987337",
+          "permanent": false,
+          "attempted_at": "2026-11-14T14:06:04.561985+00:00"
         }
       ],
       "last_plan": {
@@ -133801,12 +133807,6 @@
         "size_bytes": 619600000,
         "prepared_at": "2026-11-11T04:19:38.094228+00:00",
         "relay_source_id": "34705552"
-      },
-      "claim": {
-        "worker_id": "5a80bb9492f94674a6a1372498703369-shard-0",
-        "claimed_at": "2026-11-14T14:06:01.252783+00:00",
-        "lease_expires_at": "2026-11-14T20:06:01.252783+00:00",
-        "run_id": "43589661606"
       }
     },
     "12708": {
@@ -134726,7 +134726,7 @@
       "last_plan": {
         "source_id": "33712803",
         "display_name": "Séfe, to je vec! (Šéfe, to je věc!) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T12:50:51.097448+00:00"
+        "planned_at": "2026-11-14T14:06:05.025018+00:00"
       },
       "previous_target_id": "30987501",
       "prepared": {
@@ -151726,7 +151726,7 @@
       "last_plan": {
         "source_id": "34705611",
         "display_name": "Timur and His Team SD CZ Dabing",
-        "planned_at": "2026-11-14T14:06:02.334606+00:00"
+        "planned_at": "2026-11-14T14:06:05.360971+00:00"
       }
     },
     "12739": {
@@ -202590,5 +202590,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:06:02.334627+00:00"
+  "updated_at": "2026-11-14T14:06:05.360991+00:00"
 }
