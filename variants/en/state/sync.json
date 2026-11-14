@@ -11428,13 +11428,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:04:04.640771+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:34:47.415389+00:00"
         },
         {
@@ -11443,6 +11436,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-14T09:04:53.402572+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:35:04.449362+00:00"
         }
       ],
       "last_plan": {
@@ -11456,12 +11456,6 @@
         "size_bytes": 18100000000,
         "prepared_at": "2026-11-01T00:33:09.657864+00:00",
         "relay_source_id": "32388547"
-      },
-      "claim": {
-        "worker_id": "11005c8d017e4a7b91ae3e2cdacf1bdf-shard-0",
-        "claimed_at": "2026-11-14T09:35:01.020924+00:00",
-        "lease_expires_at": "2026-11-14T15:35:01.020924+00:00",
-        "run_id": "43570770208"
       }
     },
     "822": {
@@ -16574,6 +16568,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "9a8dd94f2d354062a5972d6b14f3e407-shard-0",
+        "claimed_at": "2026-11-14T09:35:04.359468+00:00",
+        "lease_expires_at": "2026-11-14T15:35:04.359468+00:00",
+        "run_id": "43570770208"
       }
     },
     "1209": {
@@ -33803,7 +33803,7 @@
       "last_plan": {
         "source_id": "6563156",
         "display_name": "The Seven Year Itch 1080p CZ Titulky",
-        "planned_at": "2026-11-14T09:05:00.062946+00:00"
+        "planned_at": "2026-11-14T09:35:05.132144+00:00"
       },
       "previous_target_id": "30983632",
       "prepared": {
@@ -41735,7 +41735,7 @@
       "last_plan": {
         "source_id": "35079047",
         "display_name": "The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T09:35:02.298329+00:00"
+        "planned_at": "2026-11-14T09:35:05.303115+00:00"
       }
     },
     "31324": {
@@ -99919,5 +99919,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:35:02.298351+00:00"
+  "updated_at": "2026-11-14T09:35:05.303134+00:00"
 }
