@@ -109993,13 +109993,6 @@
           "source_id": "35067153",
           "target_video_id": "30983691",
           "permanent": false,
-          "attempted_at": "2026-11-14T13:11:25.310866+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35067153",
-          "target_video_id": "30983691",
-          "permanent": false,
           "attempted_at": "2026-11-14T14:31:07.216544+00:00"
         },
         {
@@ -110008,6 +110001,13 @@
           "target_video_id": "30983691",
           "permanent": false,
           "attempted_at": "2026-11-14T15:45:16.256192+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35067153",
+          "target_video_id": "30983691",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:11:13.994098+00:00"
         }
       ],
       "last_plan": {
@@ -110021,12 +110021,6 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-10T14:35:21.741504+00:00",
         "relay_source_id": "35067153"
-      },
-      "claim": {
-        "worker_id": "3b02eea26a154c5eacfb6b27fe001a1d-shard-0",
-        "claimed_at": "2026-11-14T17:11:10.256676+00:00",
-        "lease_expires_at": "2026-11-14T23:11:10.256676+00:00",
-        "run_id": "43615202382"
       }
     },
     "24095": {
@@ -134159,7 +134153,7 @@
       "last_plan": {
         "source_id": "34902528",
         "display_name": "Lisáci-Mysáci a Sibenicák (Lišáci – Myšáci a Šibeničák) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:46:10.399770+00:00"
+        "planned_at": "2026-11-14T17:11:12.798629+00:00"
       },
       "previous_target_id": "30987386",
       "prepared": {
@@ -134167,6 +134161,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T04:28:24.558373+00:00",
         "relay_source_id": "34902528"
+      },
+      "claim": {
+        "worker_id": "3b36f083c01c40e38cb9104463bf7c4c-shard-0",
+        "claimed_at": "2026-11-14T17:11:13.568439+00:00",
+        "lease_expires_at": "2026-11-14T23:11:13.568439+00:00",
+        "run_id": "43615202382"
       }
     },
     "30560": {
@@ -152242,7 +152242,7 @@
       "last_plan": {
         "source_id": "25586153",
         "display_name": "Framed for Murder: A Fixer Upper Mystery 1080p CZ Dabing",
-        "planned_at": "2026-11-14T17:11:09.717242+00:00"
+        "planned_at": "2026-11-14T17:11:13.147882+00:00"
       }
     },
     "16209": {
@@ -203034,5 +203034,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:11:11.016616+00:00"
+  "updated_at": "2026-11-14T17:11:13.994111+00:00"
 }
