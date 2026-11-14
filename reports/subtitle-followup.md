@@ -720,3 +720,4 @@ Attach subtitles only after target processing has finished.
 | Outlaws 1080p CZ Titulky | 31021566 | https://sdilej.cz/19685390/las-leyes-de-la-frontera-outlaws-psanci-2021-cz-titulky-.mkv | Extract Czech track from exact source after processing |
 | The Swedish Connection (Den svenska länken) 1080p CZ Titulky | 31021651 | https://sdilej.cz/33292727/den-svenska-lanken-2026-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
 | The Blue Star Hotel (Hotel Modrá Hvězda) 1080p CZ Titulky | 31021806 | https://sdilej.cz/29780275/hotel-modra-hvezda-1941-x265-1080-.mkv | Extract Czech track from exact source after processing |
+| The Age of Disclosure 4K CZ Titulky | 31022883 | https://sdilej.cz/32453965/the.age.of.disclosure.2025.2160p.4k.web.x265.10bit.aac5.1-yts.lt-.mkv | Extract Czech track from exact source after processing |
