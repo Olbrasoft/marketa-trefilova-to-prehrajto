@@ -106235,13 +106235,6 @@
           "source_id": "30045237",
           "target_video_id": "30978930",
           "permanent": false,
-          "attempted_at": "2026-11-14T02:34:22.633877+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30045237",
-          "target_video_id": "30978930",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:16:45.810741+00:00"
         },
         {
@@ -106250,12 +106243,19 @@
           "target_video_id": "30978930",
           "permanent": false,
           "attempted_at": "2026-11-14T05:41:19.251894+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30045237",
+          "target_video_id": "30978930",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:13:51.230513+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30045237",
         "display_name": "Man versus Ruin (Člověk proti zkáze) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:41:08.615925+00:00"
+        "planned_at": "2026-11-14T07:13:48.226424+00:00"
       },
       "previous_target_id": "30978930",
       "prepared": {
@@ -150829,14 +150829,25 @@
       "last_plan": {
         "source_id": "24349496",
         "display_name": "Broken Armor (The Forgiven) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:13:43.807594+00:00"
+        "planned_at": "2026-11-14T07:13:48.581379+00:00"
+      },
+      "claim": {
+        "worker_id": "eff15ae610a84f198fa35e0ecda7200f-shard-0",
+        "claimed_at": "2026-11-14T07:13:49.445150+00:00",
+        "lease_expires_at": "2026-11-14T13:13:49.445150+00:00",
+        "run_id": "43551382365"
       }
     },
     "3655": {
       "attempts": []
     },
     "17493": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27220380",
+        "display_name": "Love, of Course 1080p CZ Dabing",
+        "planned_at": "2026-11-14T07:13:48.793340+00:00"
+      }
     },
     "15712": {
       "attempts": []
@@ -201837,5 +201848,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:13:45.998950+00:00"
+  "updated_at": "2026-11-14T07:13:51.230530+00:00"
 }
