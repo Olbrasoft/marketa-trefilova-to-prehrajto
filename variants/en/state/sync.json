@@ -39658,7 +39658,7 @@
       "last_plan": {
         "source_id": "30078440",
         "display_name": "The Outrun 1080p CZ Titulky",
-        "planned_at": "2026-11-14T01:02:04.547593+00:00"
+        "planned_at": "2026-11-14T01:32:12.731451+00:00"
       },
       "previous_target_id": "31013953",
       "prepared": {
@@ -39666,6 +39666,12 @@
         "size_bytes": 8400000000,
         "prepared_at": "2026-11-13T15:20:13.587314+00:00",
         "relay_source_id": "30078440"
+      },
+      "claim": {
+        "worker_id": "a813aaf6b1584370b57802a7a850f4c5-shard-0",
+        "claimed_at": "2026-11-14T01:32:13.011517+00:00",
+        "lease_expires_at": "2026-11-14T07:32:13.011517+00:00",
+        "run_id": "43526557198"
       }
     },
     "22449": {
@@ -40853,13 +40859,6 @@
           "source_id": "32445017",
           "target_video_id": "31020680",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:01:48.299307+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32445017",
-          "target_video_id": "31020680",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:31:54.149089+00:00"
         },
         {
@@ -40868,6 +40867,13 @@
           "target_video_id": "31020680",
           "permanent": false,
           "attempted_at": "2026-11-14T01:02:05.491726+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32445017",
+          "target_video_id": "31020680",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:32:13.915077+00:00"
         }
       ],
       "last_plan": {
@@ -99710,5 +99716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:32:09.815029+00:00"
+  "updated_at": "2026-11-14T01:32:13.915097+00:00"
 }
