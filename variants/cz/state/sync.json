@@ -12407,13 +12407,6 @@
           "source_id": "32043793",
           "target_video_id": "30647758",
           "permanent": false,
-          "attempted_at": "2026-11-13T22:01:51.408719+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32043793",
-          "target_video_id": "30647758",
-          "permanent": false,
           "attempted_at": "2026-11-13T23:03:35.924572+00:00"
         },
         {
@@ -12422,6 +12415,13 @@
           "target_video_id": "30647758",
           "permanent": false,
           "attempted_at": "2026-11-14T00:34:24.752673+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32043793",
+          "target_video_id": "30647758",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:44:50.151821+00:00"
         }
       ],
       "last_plan": {
@@ -135132,7 +135132,7 @@
       "last_plan": {
         "source_id": "35068765",
         "display_name": "Veronika, proste Nika (Veronika, prostě Nika) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T00:34:26.354823+00:00"
+        "planned_at": "2026-11-14T01:44:48.656852+00:00"
       },
       "previous_target_id": "30987562",
       "prepared": {
@@ -135140,6 +135140,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T05:12:28.986309+00:00",
         "relay_source_id": "35068765"
+      },
+      "claim": {
+        "worker_id": "e1913784a5954951b2a417aeb53273c1-shard-0",
+        "claimed_at": "2026-11-14T01:44:49.465065+00:00",
+        "lease_expires_at": "2026-11-14T07:44:49.465065+00:00",
+        "run_id": "43526557198"
       }
     },
     "13853": {
@@ -150393,7 +150399,7 @@
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:44:46.134323+00:00"
+        "planned_at": "2026-11-14T01:44:49.013190+00:00"
       }
     },
     "29455": {
@@ -201446,5 +201452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:44:46.550846+00:00"
+  "updated_at": "2026-11-14T01:44:50.151840+00:00"
 }
