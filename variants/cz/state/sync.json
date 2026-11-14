@@ -4143,13 +4143,6 @@
           "source_id": "32323511",
           "target_video_id": "30612756",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:41:32.602756+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32323511",
-          "target_video_id": "30612756",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:55:04.769840+00:00"
         },
         {
@@ -4158,6 +4151,13 @@
           "target_video_id": "30612756",
           "permanent": false,
           "attempted_at": "2026-11-14T02:05:54.935908+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32323511",
+          "target_video_id": "30612756",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:21:07.235315+00:00"
         }
       ],
       "last_plan": {
@@ -4171,12 +4171,6 @@
         "size_bytes": 2900000000,
         "prepared_at": "2026-10-29T15:07:43.025534+00:00",
         "relay_source_id": "32323511"
-      },
-      "claim": {
-        "worker_id": "48a4152746e44adf91f6eb7d8f31d1c7-shard-0",
-        "claimed_at": "2026-11-14T03:21:02.112468+00:00",
-        "lease_expires_at": "2026-11-14T09:21:02.112468+00:00",
-        "run_id": "43526557198"
       }
     },
     "37290": {
@@ -139421,7 +139415,7 @@
       "last_plan": {
         "source_id": "34713910",
         "display_name": "She - Hero (She – Hero) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T02:05:51.362267+00:00"
+        "planned_at": "2026-11-14T03:21:04.326255+00:00"
       },
       "previous_target_id": "30987956",
       "prepared": {
@@ -139429,6 +139423,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-11T07:01:26.061668+00:00",
         "relay_source_id": "34713910"
+      },
+      "claim": {
+        "worker_id": "fade3db0f55143248261a1790744e666-shard-0",
+        "claimed_at": "2026-11-14T03:21:05.154819+00:00",
+        "lease_expires_at": "2026-11-14T09:21:05.154819+00:00",
+        "run_id": "43526557198"
       }
     },
     "33296": {
@@ -150582,7 +150582,7 @@
       "last_plan": {
         "source_id": "33810870",
         "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:21:01.525214+00:00"
+        "planned_at": "2026-11-14T03:21:04.672180+00:00"
       }
     },
     "24093": {
@@ -201620,5 +201620,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:21:02.708588+00:00"
+  "updated_at": "2026-11-14T03:21:07.235334+00:00"
 }
