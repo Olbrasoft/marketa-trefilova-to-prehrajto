@@ -123404,13 +123404,6 @@
           "source_id": "34843024",
           "target_video_id": "30985573",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:32:48.077535+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34843024",
-          "target_video_id": "30985573",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:47:36.300731+00:00"
         },
         {
@@ -123419,6 +123412,13 @@
           "target_video_id": "30985573",
           "permanent": false,
           "attempted_at": "2026-11-14T01:55:32.609992+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34843024",
+          "target_video_id": "30985573",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:13:36.566546+00:00"
         }
       ],
       "last_plan": {
@@ -137325,7 +137325,7 @@
       "last_plan": {
         "source_id": "33706152",
         "display_name": "Všichni musí být v pyžamu 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:55:31.853080+00:00"
+        "planned_at": "2026-11-14T03:13:35.070613+00:00"
       },
       "previous_target_id": "30987781",
       "prepared": {
@@ -137333,6 +137333,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:01:55.876469+00:00",
         "relay_source_id": "33706152"
+      },
+      "claim": {
+        "worker_id": "252b2ad38f2f451ea0db1aaf54f09558-shard-0",
+        "claimed_at": "2026-11-14T03:13:35.913748+00:00",
+        "lease_expires_at": "2026-11-14T09:13:35.913748+00:00",
+        "run_id": "43526557198"
       }
     },
     "24059": {
@@ -150550,6 +150556,12 @@
         "source_id": "21212041",
         "display_name": "DonT Stop 720p CZ Dabing",
         "planned_at": "2026-11-14T03:13:32.405990+00:00"
+      },
+      "claim": {
+        "worker_id": "dabcde44ec7044668a27bdf80579a327-shard-0",
+        "claimed_at": "2026-11-14T03:13:34.819066+00:00",
+        "lease_expires_at": "2026-11-14T09:13:34.819066+00:00",
+        "run_id": "43526557198"
       }
     },
     "14672": {
@@ -150557,7 +150569,7 @@
       "last_plan": {
         "source_id": "33810870",
         "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:13:32.865605+00:00"
+        "planned_at": "2026-11-14T03:13:35.434322+00:00"
       }
     },
     "24093": {
@@ -201595,5 +201607,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:13:32.865622+00:00"
+  "updated_at": "2026-11-14T03:13:36.566563+00:00"
 }
