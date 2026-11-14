@@ -112007,7 +112007,7 @@
       "last_plan": {
         "source_id": "34717603",
         "display_name": "The Boys on the River (Kluci na řece) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:46:01.556282+00:00"
+        "planned_at": "2026-11-14T10:06:43.640161+00:00"
       },
       "previous_target_id": "30983836",
       "prepared": {
@@ -112015,6 +112015,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-10T14:56:55.030393+00:00",
         "relay_source_id": "34717603"
+      },
+      "claim": {
+        "worker_id": "381a84120a79420e926aa66774ca7a26-shard-0",
+        "claimed_at": "2026-11-14T10:06:44.353042+00:00",
+        "lease_expires_at": "2026-11-14T16:06:44.353042+00:00",
+        "run_id": "43570770208"
       }
     },
     "37160": {
@@ -138329,6 +138335,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-11T06:30:26.722400+00:00",
         "relay_source_id": "34788286"
+      },
+      "claim": {
+        "worker_id": "69e1dd1672854ac2b46c345e0ec846b5-shard-0",
+        "claimed_at": "2026-11-14T10:06:43.393542+00:00",
+        "lease_expires_at": "2026-11-14T16:06:43.393542+00:00",
+        "run_id": "43570770208"
       }
     },
     "15943": {
@@ -151116,17 +151128,19 @@
       }
     },
     "12509": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33706345",
+          "target_video_id": "31026515",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:06:44.608236+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33706345",
         "display_name": "Andel svádí dábla (Anděl svádí ďábla) 1080p CZ Dabing",
         "planned_at": "2026-11-14T09:51:25.497162+00:00"
-      },
-      "claim": {
-        "worker_id": "85a23442dbe848ef9901bfcd2a41bb13-shard-0",
-        "claimed_at": "2026-11-14T09:51:26.221796+00:00",
-        "lease_expires_at": "2026-11-14T15:51:26.221796+00:00",
-        "run_id": "43570770208"
       },
       "previous_target_id": "31026515",
       "prepared": {
@@ -151147,7 +151161,7 @@
       "last_plan": {
         "source_id": "32369227",
         "display_name": "Angel in a Devil's Body (Anděl s ďáblem v těle) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:06:41.635319+00:00"
+        "planned_at": "2026-11-14T10:06:43.951369+00:00"
       }
     },
     "33270": {
@@ -202107,5 +202121,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:06:41.635335+00:00"
+  "updated_at": "2026-11-14T10:06:44.608254+00:00"
 }
