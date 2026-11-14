@@ -121157,13 +121157,6 @@
           "source_id": "28773140",
           "target_video_id": "30985057",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:18:57.916672+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "28773140",
-          "target_video_id": "30985057",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:32:38.511754+00:00"
         },
         {
@@ -121172,6 +121165,13 @@
           "target_video_id": "30985057",
           "permanent": false,
           "attempted_at": "2026-11-14T02:40:50.295630+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "28773140",
+          "target_video_id": "30985057",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:28:35.411568+00:00"
         }
       ],
       "last_plan": {
@@ -128296,7 +128296,7 @@
       "last_plan": {
         "source_id": "7124354",
         "display_name": "Falco: Damn It, We're Still Alive! (Falco - Verdammt, wir leben noch!) SD CZ Dabing",
-        "planned_at": "2026-11-14T02:40:51.913493+00:00"
+        "planned_at": "2026-11-14T04:28:33.912850+00:00"
       },
       "previous_target_id": "30986644",
       "prepared": {
@@ -128304,6 +128304,12 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T01:19:38.682164+00:00",
         "relay_source_id": "7124354"
+      },
+      "claim": {
+        "worker_id": "dff78d89d5f34740ad3a401a7e4b4a85-shard-0",
+        "claimed_at": "2026-11-14T04:28:34.729162+00:00",
+        "lease_expires_at": "2026-11-14T10:28:34.729162+00:00",
+        "run_id": "43551382365"
       }
     },
     "31459": {
@@ -150613,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:28:31.227955+00:00"
+        "planned_at": "2026-11-14T04:28:34.259101+00:00"
       }
     },
     "23345": {
@@ -201661,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:28:31.801116+00:00"
+  "updated_at": "2026-11-14T04:28:35.411584+00:00"
 }
