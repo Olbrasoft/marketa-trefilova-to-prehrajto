@@ -114084,7 +114084,7 @@
       "last_plan": {
         "source_id": "16147077",
         "display_name": "Panic Room 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:49:33.339042+00:00"
+        "planned_at": "2026-11-14T18:04:41.233251+00:00"
       },
       "previous_target_id": "30984104",
       "prepared": {
@@ -114092,6 +114092,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:27:35.431465+00:00",
         "relay_source_id": "16147077"
+      },
+      "claim": {
+        "worker_id": "3c4f8cc8439b49fcaf536a6de6bded67-shard-0",
+        "claimed_at": "2026-11-14T18:04:42.374544+00:00",
+        "lease_expires_at": "2026-11-15T00:04:42.374544+00:00",
+        "run_id": "43615202382"
       }
     },
     "3064": {
@@ -136529,13 +136535,6 @@
           "source_id": "34676679",
           "target_video_id": "30987696",
           "permanent": false,
-          "attempted_at": "2026-11-14T14:06:18.199465+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34676679",
-          "target_video_id": "30987696",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:26:30.816393+00:00"
         },
         {
@@ -136544,6 +136543,13 @@
           "target_video_id": "30987696",
           "permanent": false,
           "attempted_at": "2026-11-14T16:49:33.764214+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676679",
+          "target_video_id": "30987696",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:04:42.872453+00:00"
         }
       ],
       "last_plan": {
@@ -152459,7 +152465,13 @@
       "last_plan": {
         "source_id": "30973461",
         "display_name": "The Story of Ruth 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:04:37.994822+00:00"
+        "planned_at": "2026-11-14T18:04:41.647414+00:00"
+      },
+      "claim": {
+        "worker_id": "7db1f35b505341d3972904937eaf6f67-shard-0",
+        "claimed_at": "2026-11-14T18:04:42.665806+00:00",
+        "lease_expires_at": "2026-11-15T00:04:42.665806+00:00",
+        "run_id": "43615202382"
       }
     },
     "12999": {
@@ -152467,7 +152479,7 @@
       "last_plan": {
         "source_id": "33697693",
         "display_name": "Wild Bees (Divoké včely) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:02:38.651526+00:00"
+        "planned_at": "2026-11-14T18:04:41.847819+00:00"
       }
     },
     "24898": {
@@ -203223,5 +203235,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:04:37.994839+00:00"
+  "updated_at": "2026-11-14T18:04:42.872470+00:00"
 }
