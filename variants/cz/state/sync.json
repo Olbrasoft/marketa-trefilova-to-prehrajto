@@ -132281,13 +132281,6 @@
           "source_id": "34734279",
           "target_video_id": "30987118",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:39:42.655759+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34734279",
-          "target_video_id": "30987118",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:58:09.260323+00:00"
         },
         {
@@ -132296,6 +132289,13 @@
           "target_video_id": "30987118",
           "permanent": false,
           "attempted_at": "2026-11-14T15:18:04.605873+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34734279",
+          "target_video_id": "30987118",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:41:41.885320+00:00"
         }
       ],
       "last_plan": {
@@ -139987,7 +139987,7 @@
       "last_plan": {
         "source_id": "32902567",
         "display_name": "Ein Sommer in Kroatien SD CZ Dabing",
-        "planned_at": "2026-11-14T15:18:04.868761+00:00"
+        "planned_at": "2026-11-14T16:41:40.460560+00:00"
       },
       "previous_target_id": "30988027",
       "prepared": {
@@ -139995,6 +139995,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T07:18:07.587351+00:00",
         "relay_source_id": "32902567"
+      },
+      "claim": {
+        "worker_id": "4e33caffbe894b05b9953b32487c5c80-shard-0",
+        "claimed_at": "2026-11-14T16:41:41.611264+00:00",
+        "lease_expires_at": "2026-11-14T22:41:41.611264+00:00",
+        "run_id": "43615202382"
       }
     },
     "12761": {
@@ -152120,11 +152126,22 @@
       "last_plan": {
         "source_id": "30178947",
         "display_name": "A Girl Fit to Be Killed (Holka na zabití) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:41:37.535865+00:00"
+        "planned_at": "2026-11-14T16:41:40.809590+00:00"
+      },
+      "claim": {
+        "worker_id": "2bf7f646ad6141d6afb5c6882796468e-shard-0",
+        "claimed_at": "2026-11-14T16:41:42.100779+00:00",
+        "lease_expires_at": "2026-11-14T22:41:42.100779+00:00",
+        "run_id": "43615202382"
       }
     },
     "5085": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "29154330",
+        "display_name": "The Princess and Half the Kingdom (Princezna a půl království) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T16:41:41.088509+00:00"
+      }
     },
     "9384": {
       "attempts": []
@@ -202930,5 +202947,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:41:37.950922+00:00"
+  "updated_at": "2026-11-14T16:41:42.100817+00:00"
 }
