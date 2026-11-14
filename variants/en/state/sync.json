@@ -3173,13 +3173,6 @@
           "source_id": "29080724",
           "target_video_id": "30612474",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:04:44.775284+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29080724",
-          "target_video_id": "30612474",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:35:46.376402+00:00"
         },
         {
@@ -3188,6 +3181,13 @@
           "target_video_id": "30612474",
           "permanent": false,
           "attempted_at": "2026-11-14T09:05:54.552621+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29080724",
+          "target_video_id": "30612474",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:36:02.872515+00:00"
         }
       ],
       "last_plan": {
@@ -3201,12 +3201,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
-      },
-      "claim": {
-        "worker_id": "14c85bfdb6904dc4a428fba7252ce52e-shard-0",
-        "claimed_at": "2026-11-14T09:35:58.631919+00:00",
-        "lease_expires_at": "2026-11-14T15:35:58.631919+00:00",
-        "run_id": "43570770208"
       }
     },
     "31551": {
@@ -41735,7 +41729,13 @@
       "last_plan": {
         "source_id": "35079047",
         "display_name": "The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T09:35:56.883771+00:00"
+        "planned_at": "2026-11-14T09:36:01.095704+00:00"
+      },
+      "claim": {
+        "worker_id": "8a4747a1bc334b63a5186abd1c09f53d-shard-0",
+        "claimed_at": "2026-11-14T09:36:01.603088+00:00",
+        "lease_expires_at": "2026-11-14T15:36:01.603088+00:00",
+        "run_id": "43570770208"
       }
     },
     "31324": {
@@ -99919,5 +99919,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:35:58.631946+00:00"
+  "updated_at": "2026-11-14T09:36:02.872534+00:00"
 }
