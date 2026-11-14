@@ -8570,13 +8570,6 @@
           "source_id": "21842659",
           "target_video_id": "30631275",
           "permanent": false,
-          "attempted_at": "2026-11-13T22:02:31.627930+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21842659",
-          "target_video_id": "30631275",
-          "permanent": false,
           "attempted_at": "2026-11-13T23:04:18.038221+00:00"
         },
         {
@@ -8585,6 +8578,13 @@
           "target_video_id": "30631275",
           "permanent": false,
           "attempted_at": "2026-11-14T00:35:21.585361+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21842659",
+          "target_video_id": "30631275",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:45:38.914823+00:00"
         }
       ],
       "last_plan": {
@@ -22338,7 +22338,7 @@
       "last_plan": {
         "source_id": "18074667",
         "display_name": "The Florida Project 1080p CZ Dabing",
-        "planned_at": "2026-11-14T00:35:24.880755+00:00"
+        "planned_at": "2026-11-14T01:45:37.170502+00:00"
       },
       "previous_target_id": "30692683",
       "prepared": {
@@ -22346,6 +22346,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-01T10:42:52.289576+00:00",
         "relay_source_id": "18074667"
+      },
+      "claim": {
+        "worker_id": "74cea7a68bc24d9a9e9ed8f5e23a1a86-shard-0",
+        "claimed_at": "2026-11-14T01:45:37.963978+00:00",
+        "lease_expires_at": "2026-11-14T07:45:37.963978+00:00",
+        "run_id": "43526557198"
       }
     },
     "730": {
@@ -150393,7 +150399,7 @@
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:45:35.060856+00:00"
+        "planned_at": "2026-11-14T01:45:37.509035+00:00"
       }
     },
     "29455": {
@@ -201446,5 +201452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:45:35.060875+00:00"
+  "updated_at": "2026-11-14T01:45:38.914846+00:00"
 }
