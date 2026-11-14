@@ -108172,13 +108172,6 @@
           "source_id": "35066259",
           "target_video_id": "30983517",
           "permanent": false,
-          "attempted_at": "2026-11-14T06:42:53.251790+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35066259",
-          "target_video_id": "30983517",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:17:00.528367+00:00"
         },
         {
@@ -108187,6 +108180,13 @@
           "target_video_id": "30983517",
           "permanent": false,
           "attempted_at": "2026-11-14T09:39:36.885967+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35066259",
+          "target_video_id": "30983517",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:48:03.861059+00:00"
         }
       ],
       "last_plan": {
@@ -147455,7 +147455,7 @@
       "last_plan": {
         "source_id": "12863543",
         "display_name": "Taxi 121 SD CZ Dabing",
-        "planned_at": "2026-11-14T09:39:40.001211+00:00"
+        "planned_at": "2026-11-14T10:48:02.549350+00:00"
       },
       "previous_target_id": "30999429",
       "prepared": {
@@ -147463,6 +147463,12 @@
         "size_bytes": 1100000000,
         "prepared_at": "2026-11-12T06:39:50.580418+00:00",
         "relay_source_id": "12863543"
+      },
+      "claim": {
+        "worker_id": "e71fd00b50784c98a511707e9db35746-shard-0",
+        "claimed_at": "2026-11-14T10:48:03.241117+00:00",
+        "lease_expires_at": "2026-11-14T16:48:03.241117+00:00",
+        "run_id": "43570770208"
       }
     },
     "28088": {
@@ -151277,7 +151283,7 @@
       "last_plan": {
         "source_id": "30900897",
         "display_name": "Tankový prapor 4K CZ Dabing",
-        "planned_at": "2026-11-14T10:48:00.390759+00:00"
+        "planned_at": "2026-11-14T10:48:02.847694+00:00"
       }
     },
     "18046": {
@@ -202216,5 +202222,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:48:00.390778+00:00"
+  "updated_at": "2026-11-14T10:48:03.861084+00:00"
 }
