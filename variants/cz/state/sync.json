@@ -10907,13 +10907,6 @@
           "source_id": "32380403",
           "target_video_id": "30642909",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:55:30.328200+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32380403",
-          "target_video_id": "30642909",
-          "permanent": false,
           "attempted_at": "2026-11-14T14:10:36.620374+00:00"
         },
         {
@@ -10922,6 +10915,13 @@
           "target_video_id": "30642909",
           "permanent": false,
           "attempted_at": "2026-11-14T15:30:41.507546+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32380403",
+          "target_video_id": "30642909",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:53:43.373579+00:00"
         }
       ],
       "last_plan": {
@@ -140375,7 +140375,7 @@
       "last_plan": {
         "source_id": "31285766",
         "display_name": "Helimadoe 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:30:41.784147+00:00"
+        "planned_at": "2026-11-14T16:53:41.966694+00:00"
       },
       "previous_target_id": "30988093",
       "prepared": {
@@ -140383,6 +140383,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T07:29:24.233787+00:00",
         "relay_source_id": "31285766"
+      },
+      "claim": {
+        "worker_id": "233b3df8f7d94ff8b5c5f1d0446ca13f-shard-0",
+        "claimed_at": "2026-11-14T16:53:43.060894+00:00",
+        "lease_expires_at": "2026-11-14T22:53:43.060894+00:00",
+        "run_id": "43615202382"
       }
     },
     "13318": {
@@ -152164,7 +152170,7 @@
       "last_plan": {
         "source_id": "24537171",
         "display_name": "Doktor Martin: Záhada v Beskydech 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:53:39.756277+00:00"
+        "planned_at": "2026-11-14T16:53:42.414267+00:00"
       }
     },
     "15782": {
@@ -202968,5 +202974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:53:39.756295+00:00"
+  "updated_at": "2026-11-14T16:53:43.373604+00:00"
 }
