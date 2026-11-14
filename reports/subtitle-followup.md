@@ -732,3 +732,4 @@ Attach subtitles only after target processing has finished.
 | We Have Never Been Modern (Úsvit) 1080p CZ Titulky | 31029502 | https://sdilej.cz/27577780/we-have-never-been-modern-webrip-cz-2023-1080p.mkv | Extract Czech track from exact source after processing |
 | The Disappearance of Josef Mengele (Das Verschwinden des Josef Mengele) 1080p CZ Titulky | 31030581 | https://sdilej.cz/34039821/zmizeni-josefa-menegeleho-das-verschwinden-des-josef-mengele-2025-cz-titulky.mkv | Extract Czech track from exact source after processing |
 | Zítra to roztočíme, drahoušku…! 1080p CZ Titulky | 31035642 | https://sdilej.cz/32837775/zitra-to-roztocime-drahousku-1976.mkv | Extract Czech track from exact source after processing |
+| A Stitch in Time SD CZ Titulky | 31036267 | https://sdilej.cz/33109570/zasah.v.pravou.chvili.a.stich.in.time.1963.eridanus.cz.mkv | Extract Czech track from exact source after processing |
