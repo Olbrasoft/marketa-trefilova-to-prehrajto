@@ -29721,13 +29721,6 @@
           "source_id": "21165095",
           "target_video_id": "30722559",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:24:11.712958+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "21165095",
-          "target_video_id": "30722559",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:38:16.719235+00:00"
         },
         {
@@ -29736,6 +29729,13 @@
           "target_video_id": "30722559",
           "permanent": false,
           "attempted_at": "2026-11-14T11:55:42.681404+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "21165095",
+          "target_video_id": "30722559",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:28:29.957511+00:00"
         }
       ],
       "last_plan": {
@@ -123442,7 +123442,7 @@
       "last_plan": {
         "source_id": "24836709",
         "display_name": "Harper SD CZ Dabing",
-        "planned_at": "2026-11-14T11:55:45.134766+00:00"
+        "planned_at": "2026-11-14T13:28:28.330928+00:00"
       },
       "previous_target_id": "30985572",
       "prepared": {
@@ -123450,6 +123450,12 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T20:28:40.493950+00:00",
         "relay_source_id": "24836709"
+      },
+      "claim": {
+        "worker_id": "2fa09c1114f04d01b0cda43e43ae10a3-shard-0",
+        "claimed_at": "2026-11-14T13:28:29.245780+00:00",
+        "lease_expires_at": "2026-11-14T19:28:29.245780+00:00",
+        "run_id": "43589661606"
       }
     },
     "32552": {
@@ -151642,7 +151648,7 @@
       "last_plan": {
         "source_id": "11178300",
         "display_name": "My Giraffe (Dikkertje Dap) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:28:25.901904+00:00"
+        "planned_at": "2026-11-14T13:28:28.682823+00:00"
       }
     },
     "4915": {
@@ -202524,5 +202530,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:28:26.184751+00:00"
+  "updated_at": "2026-11-14T13:28:29.957533+00:00"
 }
