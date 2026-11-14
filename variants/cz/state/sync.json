@@ -67088,13 +67088,6 @@
           "source_id": "25671141",
           "target_video_id": "30833110",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:10:18.920991+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25671141",
-          "target_video_id": "30833110",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:42:33.798022+00:00"
         },
         {
@@ -67103,6 +67096,13 @@
           "target_video_id": "30833110",
           "permanent": false,
           "attempted_at": "2026-11-14T01:50:54.509385+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25671141",
+          "target_video_id": "30833110",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:08:59.939129+00:00"
         }
       ],
       "last_plan": {
@@ -135342,7 +135342,7 @@
       "last_plan": {
         "source_id": "34716014",
         "display_name": "Matrix AB SD CZ Dabing",
-        "planned_at": "2026-11-14T01:50:52.470475+00:00"
+        "planned_at": "2026-11-14T03:08:57.941773+00:00"
       },
       "previous_target_id": "30987579",
       "prepared": {
@@ -135350,6 +135350,12 @@
         "size_bytes": 660800000,
         "prepared_at": "2026-11-11T05:16:18.604397+00:00",
         "relay_source_id": "34716014"
+      },
+      "claim": {
+        "worker_id": "168b4c55c4e345eda6c39cdaa217b77f-shard-0",
+        "claimed_at": "2026-11-14T03:08:59.313445+00:00",
+        "lease_expires_at": "2026-11-14T09:08:59.313445+00:00",
+        "run_id": "43526557198"
       }
     },
     "12692": {
@@ -150535,7 +150541,7 @@
       "last_plan": {
         "source_id": "21212041",
         "display_name": "DonT Stop 720p CZ Dabing",
-        "planned_at": "2026-11-14T03:08:53.201992+00:00"
+        "planned_at": "2026-11-14T03:08:58.637472+00:00"
       }
     },
     "14672": {
@@ -201576,5 +201582,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:08:53.662271+00:00"
+  "updated_at": "2026-11-14T03:08:59.939148+00:00"
 }
