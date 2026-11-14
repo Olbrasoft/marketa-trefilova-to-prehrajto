@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T04:10:24.897895+00:00
+Poslední aktualizace (UTC): 2026-11-14T04:10:28.283505+00:00
 
 Zkontrolováno videí: 723. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 147, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 148, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -169,6 +169,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 157. Důvo
 | [Stagecoach (1939) 1080p CZ Titulky](https://prehraj.to/stagecoach-1939-1080p-cz-titulky-mkv/363183867fb1c642) (ID 30656542) | [Sdílej 34968556](https://sdilej.cz/34968556/prepadeni-western-usa-claire-trevor-john-wayne-1939-cztit.1080p.mkv) | upload_unconfirmed | 2026-11-10T09:40:52.480829+00:00 |
 | [Star Wars: Episode III – Revenge of the Sith (Star Wars: Episode III - Revenge of the Sith) 1080p CZ Titulky](https://prehraj.to/star-wars-episode-iii-revenge-of-the-sith-star-wars-episode-iii-revenge-of-the-sith-1080p-cz-titulky-mkv/1b5123c808358112) (ID 30661597) | [Sdílej 29667772](https://sdilej.cz/29667772/star-wars-epizoda-iii-pomsta-sithu-cz-1080p.mkv) | target_unavailable | 2026-11-10T09:41:08.832188+00:00 |
 | [Starman 1080p CZ Titulky](https://prehraj.to/starman-1080p-cz-titulky-mkv/1f1cd56378c20300) (ID 30978323) | [Sdílej 34237075](https://sdilej.cz/34237075/starman-1984-1080p-bluray-multi-10bit-av1-majo.mkv) | target_unavailable | 2026-11-10T11:52:10.703369+00:00 |
+| [Storm Boy 1080p CZ Titulky](https://prehraj.to/storm-boy-1080p-cz-titulky-mkv/ffb88184b9c52296) (ID 31023557) | [Sdílej 11694349](https://sdilej.cz/11694349/storm.boy.2019.1080p.bluray.h264.ac3-cz-titulky.mkv) | target_unavailable | 2026-11-14T04:10:26.996827+00:00 |
 | [Summer of 85 (Été 85) 1080p CZ Titulky](https://prehraj.to/summer-of-85-ete-85-1080p-cz-titulky-mkv/d747ddcd906b0afe) (ID 31014099) | [Sdílej 28284942](https://sdilej.cz/28284942/leto-85-cz-titulky.mkv) | target_unavailable | 2026-11-13T15:33:20.901501+00:00 |
 | [Super 8 720p CZ Titulky](https://prehraj.to/super-8-720p-cz-titulky-mkv/d5cd79cf2c765ab9) (ID 30970243) | [Sdílej 16310205](https://sdilej.cz/16310205/super-8-2011-sci-fi-cz-dab-720p-hd.mkv) | target_unavailable | 2026-11-10T09:50:25.429862+00:00 |
 | [Swiss Army Man 720p CZ Titulky](https://prehraj.to/swiss-army-man-720p-cz-titulky-mkv/10671e3af2c0c0f9) (ID 31006278) | [Sdílej 6507377](https://sdilej.cz/6507377/swiss-army-man-2016-720p-bluray-dts-x264-ceske-titulky.mkv) | target_unavailable | 2026-11-12T21:41:36.793090+00:00 |
