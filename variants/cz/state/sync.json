@@ -7140,6 +7140,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-10-30T05:46:31.101985+00:00",
         "relay_source_id": "26239565"
+      },
+      "claim": {
+        "worker_id": "8310b15f9002431b8c39f21b098e83bd-shard-0",
+        "claimed_at": "2026-11-14T13:30:18.510660+00:00",
+        "lease_expires_at": "2026-11-14T19:30:18.510660+00:00",
+        "run_id": "43589661606"
       }
     },
     "327": {
@@ -81633,7 +81639,7 @@
       "last_plan": {
         "source_id": "29912133",
         "display_name": "If Only SD CZ Dabing",
-        "planned_at": "2026-11-14T11:58:15.413609+00:00"
+        "planned_at": "2026-11-14T13:30:18.766576+00:00"
       },
       "previous_target_id": "30902570",
       "prepared": {
@@ -135540,13 +135546,6 @@
           "source_id": "11994914",
           "target_video_id": "30987591",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:26:06.337612+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11994914",
-          "target_video_id": "30987591",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:40:12.960223+00:00"
         },
         {
@@ -135555,6 +135554,13 @@
           "target_video_id": "30987591",
           "permanent": false,
           "attempted_at": "2026-11-14T11:58:07.705999+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11994914",
+          "target_video_id": "30987591",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:30:18.302965+00:00"
         }
       ],
       "last_plan": {
@@ -135568,12 +135574,6 @@
         "size_bytes": 975100000,
         "prepared_at": "2026-11-11T05:20:01.782170+00:00",
         "relay_source_id": "11994914"
-      },
-      "claim": {
-        "worker_id": "57dd92aac8624a31bc2c24ad048f3e91-shard-0",
-        "claimed_at": "2026-11-14T13:30:15.094838+00:00",
-        "lease_expires_at": "2026-11-14T19:30:15.094838+00:00",
-        "run_id": "43589661606"
       }
     },
     "24145": {
@@ -151650,7 +151650,7 @@
       "last_plan": {
         "source_id": "11178300",
         "display_name": "My Giraffe (Dikkertje Dap) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:30:15.706296+00:00"
+        "planned_at": "2026-11-14T13:30:19.115227+00:00"
       }
     },
     "4915": {
@@ -202532,5 +202532,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:30:16.290018+00:00"
+  "updated_at": "2026-11-14T13:30:19.115248+00:00"
 }
