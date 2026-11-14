@@ -39006,6 +39006,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-03T00:24:04.738396+00:00",
         "relay_source_id": "34784954"
+      },
+      "claim": {
+        "worker_id": "49f6ab4aa98b420991df8e4b7d9df856-shard-0",
+        "claimed_at": "2026-11-14T03:07:28.446153+00:00",
+        "lease_expires_at": "2026-11-14T09:07:28.446153+00:00",
+        "run_id": "43526557198"
       }
     },
     "17605": {
@@ -110065,13 +110071,6 @@
           "source_id": "29985485",
           "target_video_id": "30983701",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:08:35.671879+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29985485",
-          "target_video_id": "30983701",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:40:30.018981+00:00"
         },
         {
@@ -110080,6 +110079,13 @@
           "target_video_id": "30983701",
           "permanent": false,
           "attempted_at": "2026-11-14T01:49:17.550765+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29985485",
+          "target_video_id": "30983701",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:07:28.238803+00:00"
         }
       ],
       "last_plan": {
@@ -110093,12 +110099,6 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T14:37:01.008970+00:00",
         "relay_source_id": "29985485"
-      },
-      "claim": {
-        "worker_id": "9ff5af07ad20423ca819abcf69fa8577-shard-0",
-        "claimed_at": "2026-11-14T03:07:25.303173+00:00",
-        "lease_expires_at": "2026-11-14T09:07:25.303173+00:00",
-        "run_id": "43526557198"
       }
     },
     "27191": {
@@ -123836,7 +123836,7 @@
       "last_plan": {
         "source_id": "12475327",
         "display_name": "Ladies in Black 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:49:27.567449+00:00"
+        "planned_at": "2026-11-14T03:07:28.699720+00:00"
       },
       "previous_target_id": "30985644",
       "prepared": {
@@ -150517,7 +150517,7 @@
       "last_plan": {
         "source_id": "34716646",
         "display_name": "Fruit of Paradise (Ovoce stromů rajských jíme) SD CZ Dabing",
-        "planned_at": "2026-11-14T03:07:25.924334+00:00"
+        "planned_at": "2026-11-14T03:07:29.046588+00:00"
       }
     },
     "31089": {
@@ -201569,5 +201569,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:07:26.227128+00:00"
+  "updated_at": "2026-11-14T03:07:29.046608+00:00"
 }
