@@ -1021,13 +1021,6 @@
           "source_id": "33238710",
           "target_video_id": "30577961",
           "permanent": false,
-          "attempted_at": "2026-11-14T04:26:51.356087+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33238710",
-          "target_video_id": "30577961",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:46:06.814196+00:00"
         },
         {
@@ -1036,6 +1029,13 @@
           "target_video_id": "30577961",
           "permanent": false,
           "attempted_at": "2026-11-14T07:19:36.741797+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33238710",
+          "target_video_id": "30577961",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:51:04.630842+00:00"
         }
       ],
       "last_plan": {
@@ -109342,7 +109342,7 @@
       "last_plan": {
         "source_id": "24370736",
         "display_name": "Na druhý pohled 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:19:40.372304+00:00"
+        "planned_at": "2026-11-14T08:51:03.035191+00:00"
       },
       "previous_target_id": "30983666",
       "prepared": {
@@ -109350,6 +109350,12 @@
         "size_bytes": 3200000000,
         "prepared_at": "2026-11-10T14:30:29.974007+00:00",
         "relay_source_id": "24370736"
+      },
+      "claim": {
+        "worker_id": "3827526e47ab418da3c7ada28d4d4d52-shard-0",
+        "claimed_at": "2026-11-14T08:51:03.715489+00:00",
+        "lease_expires_at": "2026-11-14T14:51:03.715489+00:00",
+        "run_id": "43570770208"
       }
     },
     "24062": {
@@ -150916,7 +150922,7 @@
       "last_plan": {
         "source_id": "32756165",
         "display_name": "Healing Waters (O liečivej vode) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:51:00.795783+00:00"
+        "planned_at": "2026-11-14T08:51:03.323387+00:00"
       }
     },
     "12118": {
@@ -201917,5 +201923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:51:01.064191+00:00"
+  "updated_at": "2026-11-14T08:51:04.630859+00:00"
 }
