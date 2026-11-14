@@ -35091,7 +35091,7 @@
       "last_plan": {
         "source_id": "23076909",
         "display_name": "Beavis and Butt-Head Do the Universe 1080p CZ Titulky",
-        "planned_at": "2026-11-14T00:29:06.819927+00:00"
+        "planned_at": "2026-11-14T00:59:14.506953+00:00"
       },
       "previous_target_id": "30987932",
       "prepared": {
@@ -35099,6 +35099,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:52:35.333881+00:00",
         "relay_source_id": "23076909"
+      },
+      "claim": {
+        "worker_id": "f2009d0dfa6c4b6a9df2c707ee2e966b-shard-0",
+        "claimed_at": "2026-11-14T00:59:14.798078+00:00",
+        "lease_expires_at": "2026-11-14T06:59:14.798078+00:00",
+        "run_id": "43526557198"
       }
     },
     "370": {
@@ -41047,17 +41053,23 @@
           "attempted_at": "2026-11-14T00:29:05.281290+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "29780275",
-        "display_name": "The Blue Star Hotel (Hotel Modrá Hvězda) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T00:59:11.802170+00:00"
-      },
       "previous_target_id": "31021806",
-      "prepared": {
+      "upload": {
         "target_video_id": "31021806",
-        "size_bytes": 1761761382,
-        "prepared_at": "2026-11-14T00:19:21.737741+00:00",
-        "relay_source_id": "29780275"
+        "display_name": "The Blue Star Hotel (Hotel Modrá Hvězda) 1080p CZ Titulky",
+        "source_id": "29780275",
+        "source_url": "https://sdilej.cz/29780275/hotel-modra-hvezda-1941-x265-1080-.mkv",
+        "source_filename": "Hotel Modrá hvězda (1941) [x265][1080].mkv",
+        "size_bytes": 1800000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9902303814888,
+        "language_tier": "foreign_audio",
+        "needs_czech_subtitles": true,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/the-blue-star-hotel-hotel-modra-hvezda-1080p-cz-titulky-mkv/06c354de780cbd4b",
+        "uploaded_at": "2026-11-14T00:59:14.972278+00:00"
       }
     },
     "24570": {
@@ -99694,5 +99706,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:59:11.802182+00:00"
+  "updated_at": "2026-11-14T00:59:14.972289+00:00"
 }
