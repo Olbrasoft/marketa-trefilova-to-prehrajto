@@ -727,3 +727,4 @@ Attach subtitles only after target processing has finished.
 | Show Me the Father 1080p CZ Titulky | 31024476 | https://sdilej.cz/19837193/show-me-the-father-1080p-2021-vlozene-sk-titulky-kst.mkv | Extract Czech track from exact source after processing |
 | Straight Up 1080p CZ Titulky | 31024574 | https://sdilej.cz/14062612/straight.up.2019.1080p.webrip.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | René 1080p CZ Titulky | 31025310 | https://sdilej.cz/30660141/puls-3-invaze-hraji-rider-strong-brittany-renee-finamore-2008-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
+| The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Titulky | 31026251 | https://sdilej.cz/35079047/vrah-skryva-tvar-1966-hd.mkv | Extract Czech track from exact source after processing |
