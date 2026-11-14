@@ -151882,17 +151882,19 @@
       "attempts": []
     },
     "15858": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28419372",
+          "target_video_id": "31032204",
+          "permanent": false,
+          "attempted_at": "2026-11-14T15:18:02.947678+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28419372",
         "display_name": "The Shadowless Tower (白塔之光) 1080p CZ Dabing",
         "planned_at": "2026-11-14T15:00:29.285070+00:00"
-      },
-      "claim": {
-        "worker_id": "104d41b4caee49fd8c78158e602f5dcc-shard-0",
-        "claimed_at": "2026-11-14T15:00:30.159757+00:00",
-        "lease_expires_at": "2026-11-14T21:00:30.159757+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31032204",
       "prepared": {
@@ -202750,5 +202752,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:17:58.906785+00:00"
+  "updated_at": "2026-11-14T15:18:02.947697+00:00"
 }
