@@ -110801,13 +110801,6 @@
           "source_id": "25235773",
           "target_video_id": "30983777",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:20:12.085152+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25235773",
-          "target_video_id": "30983777",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:22:05.457728+00:00"
         },
         {
@@ -110816,6 +110809,13 @@
           "target_video_id": "30983777",
           "permanent": false,
           "attempted_at": "2026-11-13T23:44:14.168422+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25235773",
+          "target_video_id": "30983777",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:57:27.679516+00:00"
         }
       ],
       "last_plan": {
@@ -149424,7 +149424,7 @@
       "last_plan": {
         "source_id": "35428437",
         "display_name": "Péril blanc 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:44:12.617279+00:00"
+        "planned_at": "2026-11-14T00:57:25.978485+00:00"
       },
       "previous_target_id": "31020067",
       "prepared": {
@@ -149432,6 +149432,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-13T22:19:40.902331+00:00",
         "relay_source_id": "35428437"
+      },
+      "claim": {
+        "worker_id": "d57241e38e2c484ca65fbd113f95b059-shard-0",
+        "claimed_at": "2026-11-14T00:57:26.806649+00:00",
+        "lease_expires_at": "2026-11-14T06:57:26.806649+00:00",
+        "run_id": "43526557198"
       }
     },
     "23213": {
@@ -150308,7 +150314,7 @@
       "last_plan": {
         "source_id": "23537421",
         "display_name": "Prachy dělaj člověka SD CZ Dabing",
-        "planned_at": "2026-11-14T00:57:23.497226+00:00"
+        "planned_at": "2026-11-14T00:57:26.310759+00:00"
       }
     },
     "29767": {
@@ -201370,5 +201376,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:57:23.766120+00:00"
+  "updated_at": "2026-11-14T00:57:27.679536+00:00"
 }
