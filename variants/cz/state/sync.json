@@ -50127,6 +50127,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-04T00:02:22.495709+00:00",
         "relay_source_id": "11203350"
+      },
+      "claim": {
+        "worker_id": "777f02322ba84be7b42820f73ba56580-shard-0",
+        "claimed_at": "2026-11-14T03:07:15.140150+00:00",
+        "lease_expires_at": "2026-11-14T09:07:15.140150+00:00",
+        "run_id": "43526557198"
       }
     },
     "30131": {
@@ -107838,13 +107844,6 @@
           "source_id": "32711232",
           "target_video_id": "30983462",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:08:19.159098+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32711232",
-          "target_video_id": "30983462",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:40:11.888749+00:00"
         },
         {
@@ -107853,6 +107852,13 @@
           "target_video_id": "30983462",
           "permanent": false,
           "attempted_at": "2026-11-14T01:49:03.606131+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32711232",
+          "target_video_id": "30983462",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:07:16.122838+00:00"
         }
       ],
       "last_plan": {
@@ -107866,12 +107872,6 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T14:05:43.545596+00:00",
         "relay_source_id": "32711232"
-      },
-      "claim": {
-        "worker_id": "9604374db57d42bf95a8a6356aa2420e-shard-0",
-        "claimed_at": "2026-11-14T03:07:12.290357+00:00",
-        "lease_expires_at": "2026-11-14T09:07:12.290357+00:00",
-        "run_id": "43526557198"
       }
     },
     "12717": {
@@ -135274,7 +135274,7 @@
       "last_plan": {
         "source_id": "29321867",
         "display_name": "Murder in La Rochefoucauld SD CZ Dabing",
-        "planned_at": "2026-11-14T01:49:06.836880+00:00"
+        "planned_at": "2026-11-14T03:07:15.435220+00:00"
       },
       "previous_target_id": "30987570",
       "prepared": {
@@ -150517,7 +150517,7 @@
       "last_plan": {
         "source_id": "34716646",
         "display_name": "Fruit of Paradise (Ovoce stromů rajských jíme) SD CZ Dabing",
-        "planned_at": "2026-11-14T03:07:12.911821+00:00"
+        "planned_at": "2026-11-14T03:07:15.775601+00:00"
       }
     },
     "31089": {
@@ -201569,5 +201569,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:07:13.244128+00:00"
+  "updated_at": "2026-11-14T03:07:16.122859+00:00"
 }
