@@ -114193,6 +114193,12 @@
         "size_bytes": 6300000000,
         "prepared_at": "2026-11-10T15:28:19.182476+00:00",
         "relay_source_id": "32952346"
+      },
+      "claim": {
+        "worker_id": "57d10df347f448b5b02a81be44d8bf5f-shard-0",
+        "claimed_at": "2026-11-14T16:49:43.114163+00:00",
+        "lease_expires_at": "2026-11-14T22:49:43.114163+00:00",
+        "run_id": "43615202382"
       }
     },
     "2951": {
@@ -132489,7 +132495,7 @@
       "last_plan": {
         "source_id": "33817063",
         "display_name": "Páté kolo u vozu 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:26:40.288210+00:00"
+        "planned_at": "2026-11-14T16:49:43.457901+00:00"
       },
       "previous_target_id": "30987134",
       "prepared": {
@@ -152116,17 +152122,19 @@
       }
     },
     "12455": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30178947",
+          "target_video_id": "31034522",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:49:43.952886+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30178947",
         "display_name": "A Girl Fit to Be Killed (Holka na zabití) 1080p CZ Dabing",
         "planned_at": "2026-11-14T16:41:40.809590+00:00"
-      },
-      "claim": {
-        "worker_id": "2bf7f646ad6141d6afb5c6882796468e-shard-0",
-        "claimed_at": "2026-11-14T16:41:42.100779+00:00",
-        "lease_expires_at": "2026-11-14T22:41:42.100779+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31034522",
       "prepared": {
@@ -202948,5 +202956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:49:41.358190+00:00"
+  "updated_at": "2026-11-14T16:49:43.952904+00:00"
 }
