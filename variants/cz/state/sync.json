@@ -118209,13 +118209,6 @@
           "source_id": "33849773",
           "target_video_id": "30984853",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:23:16.367961+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33849773",
-          "target_video_id": "30984853",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:06:31.226123+00:00"
         },
         {
@@ -118224,6 +118217,13 @@
           "target_video_id": "30984853",
           "permanent": false,
           "attempted_at": "2026-11-14T06:43:44.258507+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33849773",
+          "target_video_id": "30984853",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:17:26.308117+00:00"
         }
       ],
       "last_plan": {
@@ -143412,7 +143412,7 @@
       "last_plan": {
         "source_id": "35265394",
         "display_name": "Stereo Girls 720p CZ Dabing",
-        "planned_at": "2026-11-14T06:43:46.157883+00:00"
+        "planned_at": "2026-11-14T08:17:25.057702+00:00"
       },
       "previous_target_id": "30988645",
       "prepared": {
@@ -143420,6 +143420,12 @@
         "size_bytes": 2500000000,
         "prepared_at": "2026-11-11T09:02:35.308931+00:00",
         "relay_source_id": "35265394"
+      },
+      "claim": {
+        "worker_id": "8400926fd1a449dd8f4bbed9d53aff3b-shard-0",
+        "claimed_at": "2026-11-14T08:17:25.696858+00:00",
+        "lease_expires_at": "2026-11-14T14:17:25.696858+00:00",
+        "run_id": "43570770208"
       }
     },
     "12766": {
@@ -150880,7 +150886,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:17:23.043917+00:00"
+        "planned_at": "2026-11-14T08:17:25.345408+00:00"
       }
     },
     "7958": {
@@ -201889,5 +201895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:17:23.043934+00:00"
+  "updated_at": "2026-11-14T08:17:26.308134+00:00"
 }
