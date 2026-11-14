@@ -123358,13 +123358,6 @@
           "source_id": "24836709",
           "target_video_id": "30985572",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:32:44.273383+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24836709",
-          "target_video_id": "30985572",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:47:32.660072+00:00"
         },
         {
@@ -123373,6 +123366,13 @@
           "target_video_id": "30985572",
           "permanent": false,
           "attempted_at": "2026-11-14T01:55:30.159035+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24836709",
+          "target_video_id": "30985572",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:13:32.657960+00:00"
         }
       ],
       "last_plan": {
@@ -123386,12 +123386,6 @@
         "size_bytes": 1400000000,
         "prepared_at": "2026-11-10T20:28:40.493950+00:00",
         "relay_source_id": "24836709"
-      },
-      "claim": {
-        "worker_id": "c978144169454b63ac8fd95c41847b06-shard-0",
-        "claimed_at": "2026-11-14T03:13:30.214570+00:00",
-        "lease_expires_at": "2026-11-14T09:13:30.214570+00:00",
-        "run_id": "43526557198"
       }
     },
     "32552": {
@@ -123430,7 +123424,7 @@
       "last_plan": {
         "source_id": "34843024",
         "display_name": "The War Wagon 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:55:28.735467+00:00"
+        "planned_at": "2026-11-14T03:13:32.070014+00:00"
       },
       "previous_target_id": "30985573",
       "prepared": {
@@ -150555,11 +150549,16 @@
       "last_plan": {
         "source_id": "21212041",
         "display_name": "DonT Stop 720p CZ Dabing",
-        "planned_at": "2026-11-14T03:13:28.455072+00:00"
+        "planned_at": "2026-11-14T03:13:32.405990+00:00"
       }
     },
     "14672": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33810870",
+        "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T03:13:32.865605+00:00"
+      }
     },
     "24093": {
       "attempts": []
@@ -201596,5 +201595,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:13:30.214601+00:00"
+  "updated_at": "2026-11-14T03:13:32.865622+00:00"
 }
