@@ -123327,13 +123327,6 @@
           "source_id": "30317434",
           "target_video_id": "30985560",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:09:35.864647+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30317434",
-          "target_video_id": "30985560",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:47:44.669674+00:00"
         },
         {
@@ -123342,6 +123335,13 @@
           "target_video_id": "30985560",
           "permanent": false,
           "attempted_at": "2026-11-14T06:19:37.235913+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30317434",
+          "target_video_id": "30985560",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:49:19.727582+00:00"
         }
       ],
       "last_plan": {
@@ -123882,7 +123882,7 @@
       "last_plan": {
         "source_id": "32453487",
         "display_name": "Le gendarme se marie 4K CZ Dabing",
-        "planned_at": "2026-11-14T06:19:39.116086+00:00"
+        "planned_at": "2026-11-14T07:49:18.186621+00:00"
       },
       "previous_target_id": "30985646",
       "prepared": {
@@ -123890,6 +123890,12 @@
         "size_bytes": 7000000000,
         "prepared_at": "2026-11-10T20:58:30.117329+00:00",
         "relay_source_id": "32453487"
+      },
+      "claim": {
+        "worker_id": "8c96955bf03e4cc7b7f0d5db4aa3c3ae-shard-0",
+        "claimed_at": "2026-11-14T07:49:19.025168+00:00",
+        "lease_expires_at": "2026-11-14T13:49:19.025168+00:00",
+        "run_id": "43551382365"
       }
     },
     "18520": {
@@ -150878,7 +150884,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:49:15.940332+00:00"
+        "planned_at": "2026-11-14T07:49:18.544902+00:00"
       }
     },
     "7958": {
@@ -201877,5 +201883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:49:15.940350+00:00"
+  "updated_at": "2026-11-14T07:49:19.727601+00:00"
 }
