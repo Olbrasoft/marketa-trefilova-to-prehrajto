@@ -110853,13 +110853,6 @@
           "source_id": "25235773",
           "target_video_id": "30983777",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:57:27.679516+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "25235773",
-          "target_video_id": "30983777",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:08:19.354667+00:00"
         },
         {
@@ -110868,6 +110861,13 @@
           "target_video_id": "30983777",
           "permanent": false,
           "attempted_at": "2026-11-14T03:23:26.522460+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "25235773",
+          "target_video_id": "30983777",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:06:43.480879+00:00"
         }
       ],
       "last_plan": {
@@ -149483,7 +149483,7 @@
       "last_plan": {
         "source_id": "35428437",
         "display_name": "Péril blanc 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:23:24.785055+00:00"
+        "planned_at": "2026-11-14T05:06:41.624645+00:00"
       },
       "previous_target_id": "31020067",
       "prepared": {
@@ -149491,6 +149491,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-13T22:19:40.902331+00:00",
         "relay_source_id": "35428437"
+      },
+      "claim": {
+        "worker_id": "37c27f260a24445caa16e9ef4643e338-shard-0",
+        "claimed_at": "2026-11-14T05:06:42.454216+00:00",
+        "lease_expires_at": "2026-11-14T11:06:42.454216+00:00",
+        "run_id": "43551382365"
       }
     },
     "23213": {
@@ -150675,7 +150681,7 @@
       "last_plan": {
         "source_id": "35058687",
         "display_name": "Men Without Wings 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:06:39.430094+00:00"
+        "planned_at": "2026-11-14T05:06:41.978531+00:00"
       }
     },
     "5624": {
@@ -201701,5 +201707,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:06:39.430110+00:00"
+  "updated_at": "2026-11-14T05:06:43.480894+00:00"
 }
