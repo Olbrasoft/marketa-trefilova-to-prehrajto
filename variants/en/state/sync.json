@@ -34104,6 +34104,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-10T17:23:36.346391+00:00",
         "relay_source_id": "11947495"
+      },
+      "claim": {
+        "worker_id": "d34cf66914ea46e29d1556ebb0dc54f0-shard-0",
+        "claimed_at": "2026-11-14T17:26:25.971870+00:00",
+        "lease_expires_at": "2026-11-14T23:26:25.971870+00:00",
+        "run_id": "43615202382"
       }
     },
     "12251": {
@@ -34800,7 +34806,7 @@
       "last_plan": {
         "source_id": "10716193",
         "display_name": "Two Brothers 1080p CZ Titulky",
-        "planned_at": "2026-11-14T16:56:18.873476+00:00"
+        "planned_at": "2026-11-14T17:26:26.804428+00:00"
       },
       "previous_target_id": "30987615",
       "prepared": {
@@ -34893,13 +34899,6 @@
           "source_id": "27648883",
           "target_video_id": "30987757",
           "permanent": false,
-          "attempted_at": "2026-11-14T15:45:32.673939+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27648883",
-          "target_video_id": "30987757",
-          "permanent": false,
           "attempted_at": "2026-11-14T16:26:09.356940+00:00"
         },
         {
@@ -34908,6 +34907,13 @@
           "target_video_id": "30987757",
           "permanent": false,
           "attempted_at": "2026-11-14T16:56:16.201202+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27648883",
+          "target_video_id": "30987757",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:26:25.871288+00:00"
         }
       ],
       "last_plan": {
@@ -34921,12 +34927,6 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-11T05:56:20.471775+00:00",
         "relay_source_id": "27648883"
-      },
-      "claim": {
-        "worker_id": "9b84a069f9b44c7db4e1b636518fabc3-shard-0",
-        "claimed_at": "2026-11-14T17:26:22.806585+00:00",
-        "lease_expires_at": "2026-11-14T23:26:22.806585+00:00",
-        "run_id": "43615202382"
       }
     },
     "2378": {
@@ -100051,5 +100051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:26:23.641575+00:00"
+  "updated_at": "2026-11-14T17:26:26.804442+00:00"
 }
