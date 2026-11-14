@@ -109353,13 +109353,6 @@
           "source_id": "30219473",
           "target_video_id": "30983642",
           "permanent": false,
-          "attempted_at": "2026-11-14T14:09:16.824381+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30219473",
-          "target_video_id": "30983642",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:29:22.956371+00:00"
         },
         {
@@ -109368,6 +109361,13 @@
           "target_video_id": "30983642",
           "permanent": false,
           "attempted_at": "2026-11-14T16:52:26.704758+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30219473",
+          "target_video_id": "30983642",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:07:37.519335+00:00"
         }
       ],
       "last_plan": {
@@ -134853,7 +134853,7 @@
       "last_plan": {
         "source_id": "30160695",
         "display_name": "Burglar and Umbrella (Pěnička a Paraplíčko) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:52:26.054360+00:00"
+        "planned_at": "2026-11-14T18:07:36.029199+00:00"
       },
       "previous_target_id": "30987505",
       "prepared": {
@@ -134861,6 +134861,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-11T05:02:30.309521+00:00",
         "relay_source_id": "30160695"
+      },
+      "claim": {
+        "worker_id": "de17130de2f44f739ef2beb7ef0ad0cf-shard-0",
+        "claimed_at": "2026-11-14T18:07:37.203040+00:00",
+        "lease_expires_at": "2026-11-15T00:07:37.203040+00:00",
+        "run_id": "43615202382"
       }
     },
     "28890": {
@@ -152486,7 +152492,7 @@
       "last_plan": {
         "source_id": "33697693",
         "display_name": "Wild Bees (Divoké včely) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:07:33.840646+00:00"
+        "planned_at": "2026-11-14T18:07:36.462483+00:00"
       }
     },
     "24898": {
@@ -203242,5 +203248,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:07:33.840662+00:00"
+  "updated_at": "2026-11-14T18:07:37.519355+00:00"
 }
