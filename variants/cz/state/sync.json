@@ -133789,13 +133789,6 @@
           "source_id": "27788170",
           "target_video_id": "30987333",
           "permanent": false,
-          "attempted_at": "2026-11-14T14:02:35.858963+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27788170",
-          "target_video_id": "30987333",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:22:38.763877+00:00"
         },
         {
@@ -133804,6 +133797,13 @@
           "target_video_id": "30987333",
           "permanent": false,
           "attempted_at": "2026-11-14T16:46:06.457532+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27788170",
+          "target_video_id": "30987333",
+          "permanent": false,
+          "attempted_at": "2026-11-14T18:00:55.456706+00:00"
         }
       ],
       "last_plan": {
@@ -140114,7 +140114,7 @@
       "last_plan": {
         "source_id": "34668881",
         "display_name": "D2: Train to the End of the World (D2 – Vlakem až na konec světa) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:46:04.730775+00:00"
+        "planned_at": "2026-11-14T18:00:54.086157+00:00"
       },
       "previous_target_id": "30988044",
       "prepared": {
@@ -140122,6 +140122,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T07:21:06.525556+00:00",
         "relay_source_id": "34668881"
+      },
+      "claim": {
+        "worker_id": "b0092df3076e4d5280d871a6c66c18ee-shard-0",
+        "claimed_at": "2026-11-14T18:00:55.138145+00:00",
+        "lease_expires_at": "2026-11-15T00:00:55.138145+00:00",
+        "run_id": "43615202382"
       }
     },
     "33968": {
@@ -152457,7 +152463,7 @@
       "last_plan": {
         "source_id": "30973461",
         "display_name": "The Story of Ruth 1080p CZ Dabing",
-        "planned_at": "2026-11-14T18:00:51.579721+00:00"
+        "planned_at": "2026-11-14T18:00:54.513354+00:00"
       }
     },
     "12999": {
@@ -203216,5 +203222,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:00:51.579739+00:00"
+  "updated_at": "2026-11-14T18:00:55.456726+00:00"
 }
