@@ -107499,6 +107499,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-10T13:52:34.466559+00:00",
         "relay_source_id": "34883971"
+      },
+      "claim": {
+        "worker_id": "fb7d24a449fb45f9840f8aeaf987fdd5-shard-0",
+        "claimed_at": "2026-11-14T16:41:33.999860+00:00",
+        "lease_expires_at": "2026-11-14T22:41:33.999860+00:00",
+        "run_id": "43615202382"
       }
     },
     "30300": {
@@ -120626,13 +120632,6 @@
           "source_id": "10458356",
           "target_video_id": "30985017",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:39:36.384960+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10458356",
-          "target_video_id": "30985017",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:58:02.945780+00:00"
         },
         {
@@ -120641,6 +120640,13 @@
           "target_video_id": "30985017",
           "permanent": false,
           "attempted_at": "2026-11-14T15:17:53.523767+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10458356",
+          "target_video_id": "30985017",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:41:33.789337+00:00"
         }
       ],
       "last_plan": {
@@ -120654,12 +120660,6 @@
         "size_bytes": 5300000000,
         "prepared_at": "2026-11-10T18:34:52.542208+00:00",
         "relay_source_id": "10458356"
-      },
-      "claim": {
-        "worker_id": "38d9a5e233e14b4bbe34ef4f1a4187f8-shard-0",
-        "claimed_at": "2026-11-14T16:41:30.535683+00:00",
-        "lease_expires_at": "2026-11-14T22:41:30.535683+00:00",
-        "run_id": "43615202382"
       }
     },
     "20300": {
@@ -151952,7 +151952,7 @@
       "last_plan": {
         "source_id": "28419372",
         "display_name": "The Shadowless Tower (白塔之光) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:00:29.285070+00:00"
+        "planned_at": "2026-11-14T16:41:34.259692+00:00"
       },
       "previous_target_id": "31032204",
       "prepared": {
@@ -152120,7 +152120,7 @@
       "last_plan": {
         "source_id": "30178947",
         "display_name": "A Girl Fit to Be Killed (Holka na zabití) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:41:31.858598+00:00"
+        "planned_at": "2026-11-14T16:41:34.610138+00:00"
       }
     },
     "5085": {
@@ -202930,5 +202930,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:41:31.858615+00:00"
+  "updated_at": "2026-11-14T16:41:34.610155+00:00"
 }
