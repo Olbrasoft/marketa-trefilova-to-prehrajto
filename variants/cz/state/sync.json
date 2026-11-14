@@ -152314,17 +152314,19 @@
       "attempts": []
     },
     "6581": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27031685",
+          "target_video_id": "31035560",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:33:30.414295+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27031685",
         "display_name": "Summer Rebels (Letní rebeli) SD CZ Dabing",
         "planned_at": "2026-11-14T17:28:56.267552+00:00"
-      },
-      "claim": {
-        "worker_id": "d0df9476359740f0a49b2cf35251a0ce-shard-0",
-        "claimed_at": "2026-11-14T17:28:58.322116+00:00",
-        "lease_expires_at": "2026-11-14T23:28:58.322116+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31035560",
       "prepared": {
@@ -203122,5 +203124,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:33:28.242247+00:00"
+  "updated_at": "2026-11-14T17:33:30.414317+00:00"
 }
