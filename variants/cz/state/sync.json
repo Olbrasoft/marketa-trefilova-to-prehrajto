@@ -37521,13 +37521,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:52:51.826469+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-14T03:10:51.313555+00:00"
         },
         {
@@ -37536,6 +37529,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-14T04:49:19.285296+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-14T06:25:49.248376+00:00"
         }
       ],
       "last_plan": {
@@ -126303,7 +126303,7 @@
       "last_plan": {
         "source_id": "12859228",
         "display_name": "Man in the Wilderness 1080p CZ Dabing",
-        "planned_at": "2026-11-14T04:49:18.645529+00:00"
+        "planned_at": "2026-11-14T06:25:47.245528+00:00"
       },
       "previous_target_id": "30986203",
       "prepared": {
@@ -126311,6 +126311,12 @@
         "size_bytes": 8900000000,
         "prepared_at": "2026-11-10T23:35:03.735891+00:00",
         "relay_source_id": "12859228"
+      },
+      "claim": {
+        "worker_id": "c36ec904e1384e1abf59ccdf1540a040-shard-0",
+        "claimed_at": "2026-11-14T06:25:48.052498+00:00",
+        "lease_expires_at": "2026-11-14T12:25:48.052498+00:00",
+        "run_id": "43551382365"
       }
     },
     "17403": {
@@ -150735,7 +150741,7 @@
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:25:44.785633+00:00"
+        "planned_at": "2026-11-14T06:25:47.584451+00:00"
       }
     },
     "32217": {
@@ -201760,5 +201766,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T06:25:45.076043+00:00"
+  "updated_at": "2026-11-14T06:25:49.248394+00:00"
 }
