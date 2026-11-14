@@ -150940,6 +150940,14 @@
           "target_video_id": "31025508",
           "permanent": false,
           "attempted_at": "2026-11-14T08:48:20.586548+00:00"
+        },
+        {
+          "status": "target_requires_review",
+          "source_id": "25520840",
+          "target_video_id": "31025508",
+          "reason": "Prepared video is absent from uploaded listing",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:08:47.786761+00:00"
         }
       ],
       "last_plan": {
@@ -150947,19 +150955,7 @@
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
         "planned_at": "2026-11-14T10:08:41.271621+00:00"
       },
-      "previous_target_id": "31025508",
-      "prepared": {
-        "target_video_id": "31025508",
-        "size_bytes": 2041446350,
-        "prepared_at": "2026-11-14T08:31:05.141981+00:00",
-        "relay_source_id": "25520840"
-      },
-      "claim": {
-        "worker_id": "c2c55f69b2954d939a9b61bf71c1fd7f-shard-0",
-        "claimed_at": "2026-11-14T10:08:43.612669+00:00",
-        "lease_expires_at": "2026-11-14T16:08:43.612669+00:00",
-        "run_id": "43570770208"
-      }
+      "previous_target_id": "31025508"
     },
     "7958": {
       "attempts": [
@@ -202133,5 +202129,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:08:45.904967+00:00"
+  "updated_at": "2026-11-14T10:08:47.786787+00:00"
 }
