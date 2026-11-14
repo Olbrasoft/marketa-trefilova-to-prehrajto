@@ -11428,13 +11428,6 @@
           "source_id": "32388547",
           "target_video_id": "30681595",
           "permanent": false,
-          "attempted_at": "2026-11-14T04:23:08.726477+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32388547",
-          "target_video_id": "30681595",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:53:16.869267+00:00"
         },
         {
@@ -11443,6 +11436,13 @@
           "target_video_id": "30681595",
           "permanent": false,
           "attempted_at": "2026-11-14T05:23:44.745606+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32388547",
+          "target_video_id": "30681595",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:53:54.895411+00:00"
         }
       ],
       "last_plan": {
@@ -16560,7 +16560,7 @@
       "last_plan": {
         "source_id": "33537783",
         "display_name": "Juno 1080p CZ Titulky",
-        "planned_at": "2026-11-14T05:23:48.970825+00:00"
+        "planned_at": "2026-11-14T05:53:53.953451+00:00"
       },
       "previous_target_id": "30747251",
       "prepared": {
@@ -16568,6 +16568,12 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
+      },
+      "claim": {
+        "worker_id": "ee58358b2f6540b5b95cb5a775cff3f0-shard-0",
+        "claimed_at": "2026-11-14T05:53:54.327332+00:00",
+        "lease_expires_at": "2026-11-14T11:53:54.327332+00:00",
+        "run_id": "43551382365"
       }
     },
     "1209": {
@@ -41451,7 +41457,7 @@
       "last_plan": {
         "source_id": "19837193",
         "display_name": "Show Me the Father 1080p CZ Titulky",
-        "planned_at": "2026-11-14T05:53:50.904272+00:00"
+        "planned_at": "2026-11-14T05:53:54.178585+00:00"
       }
     },
     "21444": {
@@ -99833,5 +99839,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:53:50.904292+00:00"
+  "updated_at": "2026-11-14T05:53:54.895436+00:00"
 }
