@@ -130927,13 +130927,6 @@
           "source_id": "32354652",
           "target_video_id": "30986950",
           "permanent": false,
-          "attempted_at": "2026-11-14T11:59:53.454783+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32354652",
-          "target_video_id": "30986950",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:31:38.257618+00:00"
         },
         {
@@ -130942,6 +130935,13 @@
           "target_video_id": "30986950",
           "permanent": false,
           "attempted_at": "2026-11-14T14:51:24.255995+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32354652",
+          "target_video_id": "30986950",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:04:55.974999+00:00"
         }
       ],
       "last_plan": {
@@ -135637,7 +135637,7 @@
       "last_plan": {
         "source_id": "31513493",
         "display_name": "The Reluctant Grandfather (Dědečkem proti své vůli) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:51:22.604793+00:00"
+        "planned_at": "2026-11-14T16:04:54.606920+00:00"
       },
       "previous_target_id": "30987592",
       "prepared": {
@@ -135645,6 +135645,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T05:20:57.958996+00:00",
         "relay_source_id": "31513493"
+      },
+      "claim": {
+        "worker_id": "2be21b5f2c3549c5acd850e133f6e024-shard-0",
+        "claimed_at": "2026-11-14T16:04:55.666847+00:00",
+        "lease_expires_at": "2026-11-14T22:04:55.666847+00:00",
+        "run_id": "43589661606"
       }
     },
     "12690": {
@@ -152025,7 +152031,7 @@
       "last_plan": {
         "source_id": "30779361",
         "display_name": "Bird Atlas (Atlas ptáků) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:04:51.815657+00:00"
+        "planned_at": "2026-11-14T16:04:55.017087+00:00"
       }
     },
     "26769": {
@@ -202856,5 +202862,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:04:51.815679+00:00"
+  "updated_at": "2026-11-14T16:04:55.975025+00:00"
 }
