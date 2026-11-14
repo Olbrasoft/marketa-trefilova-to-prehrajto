@@ -123275,6 +123275,12 @@
         "size_bytes": 3900000000,
         "prepared_at": "2026-11-10T20:18:15.751150+00:00",
         "relay_source_id": "34230753"
+      },
+      "claim": {
+        "worker_id": "47c20989da1a43688cf840872479e0fa-shard-0",
+        "claimed_at": "2026-11-14T04:42:38.989211+00:00",
+        "lease_expires_at": "2026-11-14T10:42:38.989211+00:00",
+        "run_id": "43551382365"
       }
     },
     "2528": {
@@ -134066,13 +134072,6 @@
           "source_id": "33817621",
           "target_video_id": "30987402",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:36:38.016662+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33817621",
-          "target_video_id": "30987402",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:46:34.205097+00:00"
         },
         {
@@ -134081,6 +134080,13 @@
           "target_video_id": "30987402",
           "permanent": false,
           "attempted_at": "2026-11-14T03:04:20.641282+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33817621",
+          "target_video_id": "30987402",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:42:39.942324+00:00"
         }
       ],
       "last_plan": {
@@ -134094,12 +134100,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T04:32:01.194800+00:00",
         "relay_source_id": "33817621"
-      },
-      "claim": {
-        "worker_id": "9757bb9ef0394664a01dd602d60ebf3d-shard-0",
-        "claimed_at": "2026-11-14T04:42:36.053085+00:00",
-        "lease_expires_at": "2026-11-14T10:42:36.053085+00:00",
-        "run_id": "43551382365"
       }
     },
     "32074": {
@@ -135203,7 +135203,7 @@
       "last_plan": {
         "source_id": "34683641",
         "display_name": "To byla svatba, strýcku (To byla svatba, strýčku) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:04:26.099510+00:00"
+        "planned_at": "2026-11-14T04:42:39.265114+00:00"
       },
       "previous_target_id": "30987565",
       "prepared": {
@@ -150619,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:42:36.652617+00:00"
+        "planned_at": "2026-11-14T04:42:39.614630+00:00"
       }
     },
     "23345": {
@@ -201667,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:42:36.998978+00:00"
+  "updated_at": "2026-11-14T04:42:39.942342+00:00"
 }
