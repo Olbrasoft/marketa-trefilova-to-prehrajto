@@ -50,13 +50,6 @@
           "source_id": "32109264",
           "target_video_id": "30568614",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:26:14.700768+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32109264",
-          "target_video_id": "30568614",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:40:23.686625+00:00"
         },
         {
@@ -65,6 +58,13 @@
           "target_video_id": "30568614",
           "permanent": false,
           "attempted_at": "2026-11-14T11:58:22.198558+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32109264",
+          "target_video_id": "30568614",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:30:29.588788+00:00"
         }
       ],
       "last_plan": {
@@ -78,12 +78,6 @@
         "size_bytes": 8292703703,
         "prepared_at": "2026-10-27T17:12:38.562217+00:00",
         "relay_source_id": "32109264"
-      },
-      "claim": {
-        "worker_id": "dc3eaaf940a441e497aeff5832e715e8-shard-0",
-        "claimed_at": "2026-11-14T13:30:26.326543+00:00",
-        "lease_expires_at": "2026-11-14T19:30:26.326543+00:00",
-        "run_id": "43589661606"
       }
     },
     "9": {
@@ -139325,7 +139319,7 @@
       "last_plan": {
         "source_id": "34694137",
         "display_name": "Zitterinchen 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:58:24.211616+00:00"
+        "planned_at": "2026-11-14T13:30:28.097016+00:00"
       },
       "previous_target_id": "30987944",
       "prepared": {
@@ -139333,6 +139327,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-11T06:57:07.004222+00:00",
         "relay_source_id": "34694137"
+      },
+      "claim": {
+        "worker_id": "fe0f01629fe24a1b811e6109db9a8d84-shard-0",
+        "claimed_at": "2026-11-14T13:30:29.148449+00:00",
+        "lease_expires_at": "2026-11-14T19:30:29.148449+00:00",
+        "run_id": "43589661606"
       }
     },
     "15387": {
@@ -151650,14 +151650,25 @@
       "last_plan": {
         "source_id": "11178300",
         "display_name": "My Giraffe (Dikkertje Dap) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:30:24.444551+00:00"
+        "planned_at": "2026-11-14T13:30:28.438036+00:00"
+      },
+      "claim": {
+        "worker_id": "386a487fde6048ff8c21a51588464847-shard-0",
+        "claimed_at": "2026-11-14T13:30:29.790735+00:00",
+        "lease_expires_at": "2026-11-14T19:30:29.790735+00:00",
+        "run_id": "43589661606"
       }
     },
     "4915": {
       "attempts": []
     },
     "24881": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30252318",
+        "display_name": "The Brats (Brats) SD CZ Dabing",
+        "planned_at": "2026-11-14T13:30:28.722116+00:00"
+      }
     },
     "7476": {
       "attempts": []
@@ -202532,5 +202543,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:30:26.326572+00:00"
+  "updated_at": "2026-11-14T13:30:29.790771+00:00"
 }
