@@ -151684,17 +151684,19 @@
       "attempts": []
     },
     "24881": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30252318",
+          "target_video_id": "31031131",
+          "permanent": false,
+          "attempted_at": "2026-11-14T14:05:57.079208+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30252318",
         "display_name": "The Brats (Brats) SD CZ Dabing",
         "planned_at": "2026-11-14T14:02:27.710801+00:00"
-      },
-      "claim": {
-        "worker_id": "df25e0e50b3a464e94b3ba009fd8e115-shard-0",
-        "claimed_at": "2026-11-14T14:02:30.084827+00:00",
-        "lease_expires_at": "2026-11-14T20:02:30.084827+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31031131",
       "prepared": {
@@ -202582,5 +202584,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:05:55.253060+00:00"
+  "updated_at": "2026-11-14T14:05:57.079227+00:00"
 }
