@@ -118564,13 +118564,6 @@
           "source_id": "33873663",
           "target_video_id": "30984867",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:25:57.878505+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33873663",
-          "target_video_id": "30984867",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:26:37.542187+00:00"
         },
         {
@@ -118579,6 +118572,13 @@
           "target_video_id": "30984867",
           "permanent": false,
           "attempted_at": "2026-11-13T23:50:00.465474+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33873663",
+          "target_video_id": "30984867",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:06:10.540651+00:00"
         }
       ],
       "last_plan": {
@@ -137636,7 +137636,7 @@
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
-        "planned_at": "2026-11-13T23:49:59.063203+00:00"
+        "planned_at": "2026-11-14T01:06:08.762109+00:00"
       },
       "previous_target_id": "30987815",
       "prepared": {
@@ -137644,6 +137644,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T06:12:49.248944+00:00",
         "relay_source_id": "27912463"
+      },
+      "claim": {
+        "worker_id": "24f0f4d9127245eda14a8813d61a2f45-shard-0",
+        "claimed_at": "2026-11-14T01:06:09.570263+00:00",
+        "lease_expires_at": "2026-11-14T07:06:09.570263+00:00",
+        "run_id": "43526557198"
       }
     },
     "6823": {
@@ -150341,7 +150347,7 @@
       "last_plan": {
         "source_id": "34694016",
         "display_name": "Spare Key (Fifi) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:06:06.457193+00:00"
+        "planned_at": "2026-11-14T01:06:09.103603+00:00"
       }
     },
     "31067": {
@@ -201397,5 +201403,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:06:06.744575+00:00"
+  "updated_at": "2026-11-14T01:06:10.540671+00:00"
 }
