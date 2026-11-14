@@ -33929,13 +33929,6 @@
           "source_id": "11267704",
           "target_video_id": "30984466",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:02:22.646123+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11267704",
-          "target_video_id": "30984466",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:32:31.332177+00:00"
         },
         {
@@ -33944,6 +33937,13 @@
           "target_video_id": "30984466",
           "permanent": false,
           "attempted_at": "2026-11-14T09:02:34.865146+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11267704",
+          "target_video_id": "30984466",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:32:43.476872+00:00"
         }
       ],
       "last_plan": {
@@ -34733,7 +34733,7 @@
       "last_plan": {
         "source_id": "16607977",
         "display_name": "Queen of Hearts (Dronningen) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T09:02:39.677989+00:00"
+        "planned_at": "2026-11-14T09:32:42.303128+00:00"
       },
       "previous_target_id": "30987463",
       "prepared": {
@@ -34741,6 +34741,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T04:48:37.657424+00:00",
         "relay_source_id": "16607977"
+      },
+      "claim": {
+        "worker_id": "fe39f12b4fc647369d541db719763ad8-shard-0",
+        "claimed_at": "2026-11-14T09:32:42.698775+00:00",
+        "lease_expires_at": "2026-11-14T15:32:42.698775+00:00",
+        "run_id": "43570770208"
       }
     },
     "18754": {
@@ -41729,7 +41735,7 @@
       "last_plan": {
         "source_id": "35079047",
         "display_name": "The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T09:32:38.730193+00:00"
+        "planned_at": "2026-11-14T09:32:42.614475+00:00"
       }
     },
     "31324": {
@@ -99913,5 +99919,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:32:38.730210+00:00"
+  "updated_at": "2026-11-14T09:32:43.476890+00:00"
 }
