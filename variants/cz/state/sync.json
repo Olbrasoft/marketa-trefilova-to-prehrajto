@@ -126340,13 +126340,6 @@
           "source_id": "35401165",
           "target_video_id": "30986215",
           "permanent": false,
-          "attempted_at": "2026-11-14T06:30:09.187790+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35401165",
-          "target_video_id": "30986215",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:08:58.628373+00:00"
         },
         {
@@ -126355,6 +126348,13 @@
           "target_video_id": "30986215",
           "permanent": false,
           "attempted_at": "2026-11-14T09:25:27.252622+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35401165",
+          "target_video_id": "30986215",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:39:33.218966+00:00"
         }
       ],
       "last_plan": {
@@ -131737,7 +131737,7 @@
       "last_plan": {
         "source_id": "30410983",
         "display_name": "Stedrý vecer pana rady Vacátka (Štědrý večer pana rady Vacátka) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:25:25.763057+00:00"
+        "planned_at": "2026-11-14T10:39:31.832286+00:00"
       },
       "previous_target_id": "30987029",
       "prepared": {
@@ -131745,6 +131745,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T03:24:47.389155+00:00",
         "relay_source_id": "30410983"
+      },
+      "claim": {
+        "worker_id": "647856f6857f4504b46d52df8b5e5d0c-shard-0",
+        "claimed_at": "2026-11-14T10:39:32.520016+00:00",
+        "lease_expires_at": "2026-11-14T16:39:32.520016+00:00",
+        "run_id": "43570770208"
       }
     },
     "13346": {
@@ -151242,7 +151248,7 @@
       "last_plan": {
         "source_id": "33960263",
         "display_name": "Isabel 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:39:29.766236+00:00"
+        "planned_at": "2026-11-14T10:39:32.125151+00:00"
       }
     },
     "3669": {
@@ -202184,5 +202190,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:39:29.766254+00:00"
+  "updated_at": "2026-11-14T10:39:33.218982+00:00"
 }
