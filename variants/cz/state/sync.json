@@ -108503,13 +108503,6 @@
           "source_id": "34715818",
           "target_video_id": "30983577",
           "permanent": false,
-          "attempted_at": "2026-11-14T02:10:14.886281+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34715818",
-          "target_video_id": "30983577",
-          "permanent": false,
           "attempted_at": "2026-11-14T03:25:23.921169+00:00"
         },
         {
@@ -108518,6 +108511,13 @@
           "target_video_id": "30983577",
           "permanent": false,
           "attempted_at": "2026-11-14T05:08:49.482094+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34715818",
+          "target_video_id": "30983577",
+          "permanent": false,
+          "attempted_at": "2026-11-14T06:46:34.874382+00:00"
         }
       ],
       "last_plan": {
@@ -139609,7 +139609,7 @@
       "last_plan": {
         "source_id": "32326508",
         "display_name": "Where Butterflies Don't Fly (Kam motýli nelétají) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T05:08:48.706923+00:00"
+        "planned_at": "2026-11-14T06:46:33.156161+00:00"
       },
       "previous_target_id": "30987972",
       "prepared": {
@@ -139617,6 +139617,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T07:06:56.311315+00:00",
         "relay_source_id": "32326508"
+      },
+      "claim": {
+        "worker_id": "f2bbe74751a644bfb64f84e42f71a551-shard-0",
+        "claimed_at": "2026-11-14T06:46:33.998502+00:00",
+        "lease_expires_at": "2026-11-14T12:46:33.998502+00:00",
+        "run_id": "43551382365"
       }
     },
     "24287": {
@@ -150794,7 +150800,7 @@
       "last_plan": {
         "source_id": "34015329",
         "display_name": "Lucy Again (...a zase ta Lucie!) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:46:29.067624+00:00"
+        "planned_at": "2026-11-14T06:46:33.508093+00:00"
       }
     },
     "29145": {
@@ -201805,5 +201811,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T06:46:29.067675+00:00"
+  "updated_at": "2026-11-14T06:46:34.874400+00:00"
 }
