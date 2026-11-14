@@ -112833,13 +112833,6 @@
           "source_id": "34721047",
           "target_video_id": "30983966",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:11:10.696363+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34721047",
-          "target_video_id": "30983966",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:43:29.925075+00:00"
         },
         {
@@ -112848,6 +112841,13 @@
           "target_video_id": "30983966",
           "permanent": false,
           "attempted_at": "2026-11-14T01:51:45.911568+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34721047",
+          "target_video_id": "30983966",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:09:46.923355+00:00"
         }
       ],
       "last_plan": {
@@ -116349,7 +116349,7 @@
       "last_plan": {
         "source_id": "11567602",
         "display_name": "Widows 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:51:45.292360+00:00"
+        "planned_at": "2026-11-14T03:09:45.491412+00:00"
       },
       "previous_target_id": "30984685",
       "prepared": {
@@ -116357,6 +116357,12 @@
         "size_bytes": 3800000000,
         "prepared_at": "2026-11-10T17:17:48.571119+00:00",
         "relay_source_id": "11567602"
+      },
+      "claim": {
+        "worker_id": "b418a2658f2d4a4dbd297f87a93ccfb1-shard-0",
+        "claimed_at": "2026-11-14T03:09:46.278962+00:00",
+        "lease_expires_at": "2026-11-14T09:09:46.278962+00:00",
+        "run_id": "43526557198"
       }
     },
     "11484": {
@@ -150535,7 +150541,7 @@
       "last_plan": {
         "source_id": "21212041",
         "display_name": "DonT Stop 720p CZ Dabing",
-        "planned_at": "2026-11-14T03:09:43.509046+00:00"
+        "planned_at": "2026-11-14T03:09:45.826455+00:00"
       }
     },
     "14672": {
@@ -201576,5 +201582,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:09:43.509069+00:00"
+  "updated_at": "2026-11-14T03:09:46.923375+00:00"
 }
