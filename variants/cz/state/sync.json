@@ -113386,6 +113386,12 @@
         "size_bytes": 5100000000,
         "prepared_at": "2026-11-10T15:18:19.783537+00:00",
         "relay_source_id": "31063467"
+      },
+      "claim": {
+        "worker_id": "2e89839f158142c3b40a7f7de694d73c-shard-0",
+        "claimed_at": "2026-11-14T16:30:54.838826+00:00",
+        "lease_expires_at": "2026-11-14T22:30:54.838826+00:00",
+        "run_id": "43615202382"
       }
     },
     "2887": {
@@ -118375,13 +118381,6 @@
           "source_id": "34529199",
           "target_video_id": "30984857",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:27:50.482789+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34529199",
-          "target_video_id": "30984857",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:43:48.839826+00:00"
         },
         {
@@ -118390,6 +118389,13 @@
           "target_video_id": "30984857",
           "permanent": false,
           "attempted_at": "2026-11-14T15:03:24.937675+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34529199",
+          "target_video_id": "30984857",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:30:54.630465+00:00"
         }
       ],
       "last_plan": {
@@ -118403,12 +118409,6 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-10T17:55:40.093714+00:00",
         "relay_source_id": "34529199"
-      },
-      "claim": {
-        "worker_id": "f67c0f8b0b2b48cfa5cdc5230f7ae5aa-shard-0",
-        "claimed_at": "2026-11-14T16:30:51.481954+00:00",
-        "lease_expires_at": "2026-11-14T22:30:51.481954+00:00",
-        "run_id": "43615202382"
       }
     },
     "25139": {
@@ -135988,7 +135988,7 @@
       "last_plan": {
         "source_id": "30696489",
         "display_name": "Bláhový sen 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:03:30.867304+00:00"
+        "planned_at": "2026-11-14T16:30:55.081326+00:00"
       },
       "previous_target_id": "30987624",
       "prepared": {
@@ -152091,7 +152091,7 @@
       "last_plan": {
         "source_id": "30589281",
         "display_name": "The Attachment Diaries (El apego) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:30:52.261805+00:00"
+        "planned_at": "2026-11-14T16:30:55.419744+00:00"
       }
     },
     "12455": {
@@ -202909,5 +202909,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:30:52.493457+00:00"
+  "updated_at": "2026-11-14T16:30:55.419762+00:00"
 }
