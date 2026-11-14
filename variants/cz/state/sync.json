@@ -115025,7 +115025,7 @@
       "last_plan": {
         "source_id": "32990693",
         "display_name": "Sleepless in Seattle 4K CZ Dabing",
-        "planned_at": "2026-11-14T16:33:48.176402+00:00"
+        "planned_at": "2026-11-14T17:44:48.422566+00:00"
       },
       "previous_target_id": "30984319",
       "prepared": {
@@ -115033,6 +115033,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-10T16:05:04.526945+00:00",
         "relay_source_id": "32990693"
+      },
+      "claim": {
+        "worker_id": "7156f0a3b2d8466ca3a5d7c4528d1b47-shard-0",
+        "claimed_at": "2026-11-14T17:44:49.579846+00:00",
+        "lease_expires_at": "2026-11-14T23:44:49.579846+00:00",
+        "run_id": "43615202382"
       }
     },
     "3054": {
@@ -143691,13 +143697,6 @@
           "source_id": "17325368",
           "target_video_id": "30988661",
           "permanent": false,
-          "attempted_at": "2026-11-14T13:50:13.286665+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17325368",
-          "target_video_id": "30988661",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:07:04.706893+00:00"
         },
         {
@@ -143706,6 +143705,13 @@
           "target_video_id": "30988661",
           "permanent": false,
           "attempted_at": "2026-11-14T16:33:49.838837+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17325368",
+          "target_video_id": "30988661",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:44:49.869842+00:00"
         }
       ],
       "last_plan": {
@@ -152375,7 +152381,13 @@
       "last_plan": {
         "source_id": "34835999",
         "display_name": "Secret Rivals (The Secret Rivals) SD CZ Dabing",
-        "planned_at": "2026-11-14T17:44:42.182346+00:00"
+        "planned_at": "2026-11-14T17:44:48.780112+00:00"
+      },
+      "claim": {
+        "worker_id": "139962ec6f5e4afe815f772c163e2fdf-shard-0",
+        "claimed_at": "2026-11-14T17:44:50.079229+00:00",
+        "lease_expires_at": "2026-11-14T23:44:50.079229+00:00",
+        "run_id": "43615202382"
       }
     },
     "30399": {
@@ -152385,7 +152397,12 @@
       "attempts": []
     },
     "15563": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "22312690",
+        "display_name": "Cinderella (Aschenputtel) (2011) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T17:44:49.045399+00:00"
+      }
     },
     "10323": {
       "attempts": []
@@ -203152,5 +203169,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:44:43.083849+00:00"
+  "updated_at": "2026-11-14T17:44:50.079262+00:00"
 }
