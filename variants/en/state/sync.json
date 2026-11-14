@@ -16540,13 +16540,6 @@
           "source_id": "33537783",
           "target_video_id": "30747251",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:04:57.409623+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33537783",
-          "target_video_id": "30747251",
-          "permanent": false,
           "attempted_at": "2026-11-14T09:35:07.338805+00:00"
         },
         {
@@ -16555,6 +16548,13 @@
           "target_video_id": "30747251",
           "permanent": false,
           "attempted_at": "2026-11-14T10:05:14.194724+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33537783",
+          "target_video_id": "30747251",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:35:20.833809+00:00"
         }
       ],
       "last_plan": {
@@ -33797,7 +33797,7 @@
       "last_plan": {
         "source_id": "6563156",
         "display_name": "The Seven Year Itch 1080p CZ Titulky",
-        "planned_at": "2026-11-14T10:05:14.298912+00:00"
+        "planned_at": "2026-11-14T10:35:20.208502+00:00"
       },
       "previous_target_id": "30983632",
       "prepared": {
@@ -33805,6 +33805,12 @@
         "size_bytes": 15000000000,
         "prepared_at": "2026-11-10T14:25:35.887136+00:00",
         "relay_source_id": "6563156"
+      },
+      "claim": {
+        "worker_id": "0f145380b5c84d62af75498b4c92acc7-shard-0",
+        "claimed_at": "2026-11-14T10:35:20.491184+00:00",
+        "lease_expires_at": "2026-11-14T16:35:20.491184+00:00",
+        "run_id": "43570770208"
       }
     },
     "23615": {
@@ -99944,5 +99950,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:35:17.146408+00:00"
+  "updated_at": "2026-11-14T10:35:20.833828+00:00"
 }
