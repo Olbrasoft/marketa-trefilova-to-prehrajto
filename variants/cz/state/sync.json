@@ -130431,13 +130431,6 @@
           "source_id": "27361344",
           "target_video_id": "30986908",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:48:55.448619+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27361344",
-          "target_video_id": "30986908",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:09:20.079481+00:00"
         },
         {
@@ -130446,6 +130439,13 @@
           "target_video_id": "30986908",
           "permanent": false,
           "attempted_at": "2026-11-14T11:20:21.806114+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27361344",
+          "target_video_id": "30986908",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:54:01.428692+00:00"
         }
       ],
       "last_plan": {
@@ -140203,7 +140203,7 @@
       "last_plan": {
         "source_id": "34864473",
         "display_name": "Corpus Delicti 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:20:22.326111+00:00"
+        "planned_at": "2026-11-14T12:53:59.230326+00:00"
       },
       "previous_target_id": "30988077",
       "prepared": {
@@ -140211,6 +140211,12 @@
         "size_bytes": 5000000000,
         "prepared_at": "2026-11-11T07:27:44.810508+00:00",
         "relay_source_id": "34864473"
+      },
+      "claim": {
+        "worker_id": "9d73d02d36fd40618e1a00edb2eb4d32-shard-0",
+        "claimed_at": "2026-11-14T12:54:00.239840+00:00",
+        "lease_expires_at": "2026-11-14T18:54:00.239840+00:00",
+        "run_id": "43589661606"
       }
     },
     "24211": {
@@ -151517,7 +151523,7 @@
       "last_plan": {
         "source_id": "31379562",
         "display_name": "How Honza Almost Became a King (Honza málem králem) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T12:53:56.203458+00:00"
+        "planned_at": "2026-11-14T12:53:59.573188+00:00"
       }
     },
     "16499": {
@@ -202426,5 +202432,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:53:56.859504+00:00"
+  "updated_at": "2026-11-14T12:54:01.428809+00:00"
 }
