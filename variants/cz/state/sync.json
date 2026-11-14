@@ -46131,7 +46131,7 @@
       "last_plan": {
         "source_id": "27568018",
         "display_name": "North Country SD CZ Dabing",
-        "planned_at": "2026-11-14T09:18:49.370181+00:00"
+        "planned_at": "2026-11-14T10:30:19.601043+00:00"
       },
       "previous_target_id": "30768107",
       "prepared": {
@@ -46139,6 +46139,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-03T16:40:17.731197+00:00",
         "relay_source_id": "27568018"
+      },
+      "claim": {
+        "worker_id": "7559c7b43e2e422cbeec1ca00cf0ac92-shard-0",
+        "claimed_at": "2026-11-14T10:30:20.245609+00:00",
+        "lease_expires_at": "2026-11-14T16:30:20.245609+00:00",
+        "run_id": "43570770208"
       }
     },
     "23428": {
@@ -150983,17 +150989,23 @@
           "attempted_at": "2026-11-14T09:18:50.508342+00:00"
         }
       ],
-      "last_plan": {
-        "source_id": "35433459",
-        "display_name": "War of Colours (Válka barev) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:30:16.952981+00:00"
-      },
       "previous_target_id": "31025701",
-      "prepared": {
+      "upload": {
         "target_video_id": "31025701",
-        "size_bytes": 3226055691,
-        "prepared_at": "2026-11-14T08:59:18.918747+00:00",
-        "relay_source_id": "35433459"
+        "display_name": "War of Colours (Válka barev) 1080p CZ Dabing",
+        "source_id": "35433459",
+        "source_url": "https://sdilej.cz/35433459/valka-barev-thriller-cesko-l.-vaculik-ana-geislerova-1995-1080p.mkv",
+        "source_filename": "Válka barev - thriller Česko L. Vaculík, Aňa Geislerová (1995) 1080p.mkv",
+        "size_bytes": 3200000000,
+        "width": 1920,
+        "height": 1080,
+        "audio_language": "cs",
+        "language_probability": 0.9677407145500183,
+        "language_tier": "czech_audio",
+        "needs_czech_subtitles": false,
+        "completion_evidence": "reconciled_owned_prepared",
+        "detail_url": "https://prehraj.to/war-of-colours-valka-barev-1080p-cz-dabing-mkv/b89b503e5d128933",
+        "uploaded_at": "2026-11-14T10:30:20.775590+00:00"
       }
     },
     "10895": {
@@ -151184,7 +151196,7 @@
       "last_plan": {
         "source_id": "34651309",
         "display_name": "The Worst Ones (Les Pires) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:30:17.236404+00:00"
+        "planned_at": "2026-11-14T10:30:19.890940+00:00"
       }
     },
     "15170": {
@@ -202132,5 +202144,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:30:17.236423+00:00"
+  "updated_at": "2026-11-14T10:30:20.775607+00:00"
 }
