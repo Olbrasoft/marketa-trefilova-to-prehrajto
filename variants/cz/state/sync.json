@@ -117487,13 +117487,6 @@
           "source_id": "15096224",
           "target_video_id": "30984803",
           "permanent": false,
-          "attempted_at": "2026-11-14T02:49:40.173681+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "15096224",
-          "target_video_id": "30984803",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:35:25.077077+00:00"
         },
         {
@@ -117502,12 +117495,19 @@
           "target_video_id": "30984803",
           "permanent": false,
           "attempted_at": "2026-11-14T06:01:15.907099+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "15096224",
+          "target_video_id": "30984803",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:35:27.289589+00:00"
         }
       ],
       "last_plan": {
         "source_id": "15096224",
         "display_name": "I See You 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:01:13.284785+00:00"
+        "planned_at": "2026-11-14T07:35:24.689047+00:00"
       },
       "previous_target_id": "30984803",
       "prepared": {
@@ -150855,11 +150855,22 @@
       "last_plan": {
         "source_id": "27220380",
         "display_name": "Love, of Course 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:35:19.978868+00:00"
+        "planned_at": "2026-11-14T07:35:25.034610+00:00"
+      },
+      "claim": {
+        "worker_id": "9ba69899baf94411a0e092e3618389ee-shard-0",
+        "claimed_at": "2026-11-14T07:35:25.880909+00:00",
+        "lease_expires_at": "2026-11-14T13:35:25.880909+00:00",
+        "run_id": "43551382365"
       }
     },
     "15712": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "25520840",
+        "display_name": "Cirkus Maximum 1080p CZ Dabing",
+        "planned_at": "2026-11-14T07:35:25.239801+00:00"
+      }
     },
     "7958": {
       "attempts": []
@@ -201857,5 +201868,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:35:22.474920+00:00"
+  "updated_at": "2026-11-14T07:35:27.289606+00:00"
 }
