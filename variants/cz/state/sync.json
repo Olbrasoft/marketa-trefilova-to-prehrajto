@@ -125964,13 +125964,6 @@
           "source_id": "34700408",
           "target_video_id": "30986040",
           "permanent": false,
-          "attempted_at": "2026-11-13T20:30:05.199378+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34700408",
-          "target_video_id": "30986040",
-          "permanent": false,
           "attempted_at": "2026-11-13T21:39:13.485523+00:00"
         },
         {
@@ -125979,6 +125972,13 @@
           "target_video_id": "30986040",
           "permanent": false,
           "attempted_at": "2026-11-13T22:38:51.141787+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34700408",
+          "target_video_id": "30986040",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:06:51.231792+00:00"
         }
       ],
       "last_plan": {
@@ -131213,7 +131213,7 @@
       "last_plan": {
         "source_id": "34789221",
         "display_name": "Virginity 1080p CZ Dabing",
-        "planned_at": "2026-11-13T22:38:49.996926+00:00"
+        "planned_at": "2026-11-14T00:06:49.720750+00:00"
       },
       "previous_target_id": "30986986",
       "prepared": {
@@ -131221,6 +131221,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T03:07:45.610785+00:00",
         "relay_source_id": "34789221"
+      },
+      "claim": {
+        "worker_id": "98be1b04c19546cf80f693dfd087d402-shard-0",
+        "claimed_at": "2026-11-14T00:06:50.550076+00:00",
+        "lease_expires_at": "2026-11-14T06:06:50.550076+00:00",
+        "run_id": "43526557198"
       }
     },
     "13051": {
@@ -150076,7 +150082,7 @@
       "last_plan": {
         "source_id": "30019433",
         "display_name": "The Hunley SD CZ Dabing",
-        "planned_at": "2026-11-14T00:06:45.650626+00:00"
+        "planned_at": "2026-11-14T00:06:50.059126+00:00"
       }
     },
     "4153": {
@@ -201178,5 +201184,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:06:45.650644+00:00"
+  "updated_at": "2026-11-14T00:06:51.231814+00:00"
 }
