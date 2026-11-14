@@ -231,13 +231,6 @@
           "source_id": "26227362",
           "target_video_id": "30582771",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:31:01.279655+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "26227362",
-          "target_video_id": "30582771",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:01:07.074455+00:00"
         },
         {
@@ -246,6 +239,13 @@
           "target_video_id": "30582771",
           "permanent": false,
           "attempted_at": "2026-11-14T01:31:13.389567+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "26227362",
+          "target_video_id": "30582771",
+          "permanent": false,
+          "attempted_at": "2026-11-14T02:01:21.932513+00:00"
         }
       ],
       "last_plan": {
@@ -259,12 +259,6 @@
         "size_bytes": 4400000000,
         "prepared_at": "2026-10-28T09:35:24.990917+00:00",
         "relay_source_id": "26227362"
-      },
-      "claim": {
-        "worker_id": "5855acc78d464b4788b0564a551b27c8-shard-0",
-        "claimed_at": "2026-11-14T02:01:16.379077+00:00",
-        "lease_expires_at": "2026-11-14T08:01:16.379077+00:00",
-        "run_id": "43526557198"
       }
     },
     "24": {
@@ -11511,6 +11505,12 @@
         "size_bytes": 31800000000,
         "prepared_at": "2026-11-01T01:19:47.061678+00:00",
         "relay_source_id": "26167173"
+      },
+      "claim": {
+        "worker_id": "c5aa6852f9834598b756d8c802e524da-shard-0",
+        "claimed_at": "2026-11-14T02:01:22.032318+00:00",
+        "lease_expires_at": "2026-11-14T08:01:22.032318+00:00",
+        "run_id": "43526557198"
       }
     },
     "834": {
@@ -17631,7 +17631,7 @@
       "last_plan": {
         "source_id": "7674339",
         "display_name": "Bullitt 720p CZ Titulky",
-        "planned_at": "2026-11-14T01:31:18.843977+00:00"
+        "planned_at": "2026-11-14T02:01:22.823442+00:00"
       },
       "previous_target_id": "30763383",
       "prepared": {
@@ -99716,5 +99716,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T02:01:19.653464+00:00"
+  "updated_at": "2026-11-14T02:01:22.823457+00:00"
 }
