@@ -115810,13 +115810,6 @@
           "source_id": "33509401",
           "target_video_id": "30984644",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:58:19.983286+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33509401",
-          "target_video_id": "30984644",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:59:49.522953+00:00"
         },
         {
@@ -115825,6 +115818,13 @@
           "target_video_id": "30984644",
           "permanent": false,
           "attempted_at": "2026-11-14T00:27:21.081247+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33509401",
+          "target_video_id": "30984644",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:40:22.144982+00:00"
         }
       ],
       "last_plan": {
@@ -142372,7 +142372,7 @@
       "last_plan": {
         "source_id": "32998692",
         "display_name": "Little Girl Blue 1080p CZ Dabing",
-        "planned_at": "2026-11-14T00:27:24.859565+00:00"
+        "planned_at": "2026-11-14T01:40:20.722179+00:00"
       },
       "previous_target_id": "30988519",
       "prepared": {
@@ -142380,6 +142380,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T08:38:01.730269+00:00",
         "relay_source_id": "32998692"
+      },
+      "claim": {
+        "worker_id": "ab220c4e5fc94f1f8d63968e56b61cce-shard-0",
+        "claimed_at": "2026-11-14T01:40:21.527261+00:00",
+        "lease_expires_at": "2026-11-14T07:40:21.527261+00:00",
+        "run_id": "43526557198"
       }
     },
     "15601": {
@@ -150393,7 +150399,7 @@
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:40:18.696861+00:00"
+        "planned_at": "2026-11-14T01:40:21.069085+00:00"
       }
     },
     "29455": {
@@ -201446,5 +201452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:40:18.696885+00:00"
+  "updated_at": "2026-11-14T01:40:22.145002+00:00"
 }
