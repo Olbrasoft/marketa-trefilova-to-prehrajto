@@ -130835,13 +130835,6 @@
           "source_id": "32354652",
           "target_video_id": "30986950",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:16:18.349099+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32354652",
-          "target_video_id": "30986950",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:59:11.290338+00:00"
         },
         {
@@ -130850,6 +130843,13 @@
           "target_video_id": "30986950",
           "permanent": false,
           "attempted_at": "2026-11-14T06:32:58.049893+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32354652",
+          "target_video_id": "30986950",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:10:47.492053+00:00"
         }
       ],
       "last_plan": {
@@ -135545,7 +135545,7 @@
       "last_plan": {
         "source_id": "31513493",
         "display_name": "The Reluctant Grandfather (Dědečkem proti své vůli) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:33:01.517176+00:00"
+        "planned_at": "2026-11-14T08:10:46.005860+00:00"
       },
       "previous_target_id": "30987592",
       "prepared": {
@@ -135553,6 +135553,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T05:20:57.958996+00:00",
         "relay_source_id": "31513493"
+      },
+      "claim": {
+        "worker_id": "7990b462e62d4d63b6e1f4e4d9a28de4-shard-0",
+        "claimed_at": "2026-11-14T08:10:46.657537+00:00",
+        "lease_expires_at": "2026-11-14T14:10:46.657537+00:00",
+        "run_id": "43570770208"
       }
     },
     "12690": {
@@ -150880,7 +150886,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:10:43.740267+00:00"
+        "planned_at": "2026-11-14T08:10:46.282129+00:00"
       }
     },
     "7958": {
@@ -201889,5 +201895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:10:43.957873+00:00"
+  "updated_at": "2026-11-14T08:10:47.492071+00:00"
 }
