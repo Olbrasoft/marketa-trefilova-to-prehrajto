@@ -41396,17 +41396,19 @@
       "attempts": []
     },
     "36889": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "32831706",
+          "target_video_id": "31024287",
+          "permanent": false,
+          "attempted_at": "2026-11-14T06:25:20.122393+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "32831706",
         "display_name": "Icahn: The Restless Billionaire 1080p CZ Titulky",
         "planned_at": "2026-11-14T05:35:17.983866+00:00"
-      },
-      "claim": {
-        "worker_id": "3955952aaf854ec0ae53049f810461f9-shard-0",
-        "claimed_at": "2026-11-14T05:35:20.225797+00:00",
-        "lease_expires_at": "2026-11-14T11:35:20.225797+00:00",
-        "run_id": "43551382365"
       },
       "previous_target_id": "31024287",
       "prepared": {
@@ -99866,5 +99868,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T06:25:08.521919+00:00"
+  "updated_at": "2026-11-14T06:25:20.122419+00:00"
 }
