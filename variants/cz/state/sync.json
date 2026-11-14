@@ -151012,17 +151012,19 @@
       }
     },
     "8905": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "28134471",
+          "target_video_id": "31026094",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:34:56.155743+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "28134471",
         "display_name": "Martin and the Magical Forest (Mazel a tajemství lesa) 1080p CZ Dabing",
         "planned_at": "2026-11-14T09:27:08.918796+00:00"
-      },
-      "claim": {
-        "worker_id": "24efe996b9164e9894878b47781a0694-shard-0",
-        "claimed_at": "2026-11-14T09:27:09.668491+00:00",
-        "lease_expires_at": "2026-11-14T15:27:09.668491+00:00",
-        "run_id": "43570770208"
       },
       "previous_target_id": "31026094",
       "prepared": {
@@ -202021,5 +202023,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:34:52.831803+00:00"
+  "updated_at": "2026-11-14T09:34:56.155770+00:00"
 }
