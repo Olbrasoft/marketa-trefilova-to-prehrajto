@@ -150650,17 +150650,19 @@
       }
     },
     "23345": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "31735140",
+          "target_video_id": "31024008",
+          "permanent": false,
+          "attempted_at": "2026-11-14T05:07:42.388962+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "31735140",
         "display_name": "Andelské oci (Angelic Eyes) 1080p CZ Dabing",
         "planned_at": "2026-11-14T04:54:39.616335+00:00"
-      },
-      "claim": {
-        "worker_id": "8a5cd2ac41b8461ebd4015a84b6e4e54-shard-0",
-        "claimed_at": "2026-11-14T04:54:40.586537+00:00",
-        "lease_expires_at": "2026-11-14T10:54:40.586537+00:00",
-        "run_id": "43551382365"
       },
       "previous_target_id": "31024008",
       "prepared": {
@@ -201707,5 +201709,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T05:07:40.519571+00:00"
+  "updated_at": "2026-11-14T05:07:42.388979+00:00"
 }
