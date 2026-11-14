@@ -150525,17 +150525,19 @@
       }
     },
     "33692": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34716646",
+          "target_video_id": "31023134",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:13:26.072336+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34716646",
         "display_name": "Fruit of Paradise (Ovoce stromů rajských jíme) SD CZ Dabing",
         "planned_at": "2026-11-14T03:07:45.710193+00:00"
-      },
-      "claim": {
-        "worker_id": "6f8d726993514ecd9cd54111e0f2d7d7-shard-0",
-        "claimed_at": "2026-11-14T03:07:48.205340+00:00",
-        "lease_expires_at": "2026-11-14T09:07:48.205340+00:00",
-        "run_id": "43526557198"
       },
       "previous_target_id": "31023134",
       "prepared": {
@@ -201594,5 +201596,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:13:23.124425+00:00"
+  "updated_at": "2026-11-14T03:13:26.072361+00:00"
 }
