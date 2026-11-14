@@ -126534,13 +126534,6 @@
           "source_id": "10328836",
           "target_video_id": "30986239",
           "permanent": false,
-          "attempted_at": "2026-11-14T06:43:18.379572+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "10328836",
-          "target_video_id": "30986239",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:17:15.970198+00:00"
         },
         {
@@ -126549,12 +126542,19 @@
           "target_video_id": "30986239",
           "permanent": false,
           "attempted_at": "2026-11-14T09:39:54.227678+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "10328836",
+          "target_video_id": "30986239",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:48:17.025374+00:00"
         }
       ],
       "last_plan": {
         "source_id": "10328836",
         "display_name": "What to Do in Case of Fire? SD CZ Dabing",
-        "planned_at": "2026-11-14T09:39:52.074443+00:00"
+        "planned_at": "2026-11-14T10:48:14.330975+00:00"
       },
       "previous_target_id": "30986239",
       "prepared": {
@@ -151277,11 +151277,22 @@
       "last_plan": {
         "source_id": "30900897",
         "display_name": "Tankový prapor 4K CZ Dabing",
-        "planned_at": "2026-11-14T10:48:10.137192+00:00"
+        "planned_at": "2026-11-14T10:48:14.624424+00:00"
+      },
+      "claim": {
+        "worker_id": "6820b318462a4e5ca8bd7f138ed102a4-shard-0",
+        "claimed_at": "2026-11-14T10:48:15.350593+00:00",
+        "lease_expires_at": "2026-11-14T16:48:15.350593+00:00",
+        "run_id": "43570770208"
       }
     },
     "18046": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "27461299",
+        "display_name": "Cartagena (L'homme de chevet) SD CZ Dabing",
+        "planned_at": "2026-11-14T10:48:14.810268+00:00"
+      }
     },
     "4290": {
       "attempts": []
@@ -202216,5 +202227,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:48:12.084279+00:00"
+  "updated_at": "2026-11-14T10:48:17.025393+00:00"
 }
