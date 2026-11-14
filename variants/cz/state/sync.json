@@ -109710,13 +109710,6 @@
           "source_id": "34979725",
           "target_video_id": "30983683",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:56:28.274159+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34979725",
-          "target_video_id": "30983683",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:57:43.566086+00:00"
         },
         {
@@ -109725,6 +109718,13 @@
           "target_video_id": "30983683",
           "permanent": false,
           "attempted_at": "2026-11-14T00:24:20.112496+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34979725",
+          "target_video_id": "30983683",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:38:15.331130+00:00"
         }
       ],
       "last_plan": {
@@ -138725,7 +138725,7 @@
       "last_plan": {
         "source_id": "33806385",
         "display_name": "Focus, Please! (Zaostřit prosím!) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T00:24:18.542178+00:00"
+        "planned_at": "2026-11-14T01:38:13.720820+00:00"
       },
       "previous_target_id": "30987901",
       "prepared": {
@@ -138733,6 +138733,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T06:41:36.668898+00:00",
         "relay_source_id": "33806385"
+      },
+      "claim": {
+        "worker_id": "a074b66600224f78b7467fa1e4e22e11-shard-0",
+        "claimed_at": "2026-11-14T01:38:14.525268+00:00",
+        "lease_expires_at": "2026-11-14T07:38:14.525268+00:00",
+        "run_id": "43526557198"
       }
     },
     "11246": {
@@ -150393,7 +150399,7 @@
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:38:11.440572+00:00"
+        "planned_at": "2026-11-14T01:38:14.063339+00:00"
       }
     },
     "29455": {
@@ -201446,5 +201452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:38:11.715721+00:00"
+  "updated_at": "2026-11-14T01:38:15.331151+00:00"
 }
