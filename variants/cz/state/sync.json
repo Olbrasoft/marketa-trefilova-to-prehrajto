@@ -112461,7 +112461,7 @@
       "last_plan": {
         "source_id": "32946550",
         "display_name": "Fourteen at the Table (Čtrnáctý u stolu) SD CZ Dabing",
-        "planned_at": "2026-11-14T11:25:54.937923+00:00"
+        "planned_at": "2026-11-14T13:00:15.774134+00:00"
       },
       "previous_target_id": "30983914",
       "prepared": {
@@ -112469,6 +112469,12 @@
         "size_bytes": 852000000,
         "prepared_at": "2026-11-10T15:02:18.072133+00:00",
         "relay_source_id": "32946550"
+      },
+      "claim": {
+        "worker_id": "dd78e48ae10342d881a8371aed8ac934-shard-0",
+        "claimed_at": "2026-11-14T13:00:16.548778+00:00",
+        "lease_expires_at": "2026-11-14T19:00:16.548778+00:00",
+        "run_id": "43589661606"
       }
     },
     "27304": {
@@ -129360,13 +129366,6 @@
           "source_id": "34694857",
           "target_video_id": "30986772",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:54:18.483273+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34694857",
-          "target_video_id": "30986772",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:14:56.305585+00:00"
         },
         {
@@ -129375,6 +129374,13 @@
           "target_video_id": "30986772",
           "permanent": false,
           "attempted_at": "2026-11-14T11:25:56.469857+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34694857",
+          "target_video_id": "30986772",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:00:18.172187+00:00"
         }
       ],
       "last_plan": {
@@ -129388,12 +129394,6 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T02:03:09.348083+00:00",
         "relay_source_id": "34694857"
-      },
-      "claim": {
-        "worker_id": "1890ad6cdbeb4cafb57f89f26075c9a9-shard-0",
-        "claimed_at": "2026-11-14T13:00:12.564769+00:00",
-        "lease_expires_at": "2026-11-14T19:00:12.564769+00:00",
-        "run_id": "43589661606"
       }
     },
     "37009": {
@@ -151552,7 +151552,7 @@
       "last_plan": {
         "source_id": "34879198",
         "display_name": "Rodinka 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:00:11.939814+00:00"
+        "planned_at": "2026-11-14T13:00:16.119123+00:00"
       }
     },
     "27292": {
@@ -202452,5 +202452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:00:13.998179+00:00"
+  "updated_at": "2026-11-14T13:00:18.172206+00:00"
 }
