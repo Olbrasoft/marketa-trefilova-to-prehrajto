@@ -56283,13 +56283,6 @@
           "source_id": "31203013",
           "target_video_id": "30784627",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:07:43.163463+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31203013",
-          "target_video_id": "30784627",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:39:14.351403+00:00"
         },
         {
@@ -56298,6 +56291,13 @@
           "target_video_id": "30784627",
           "permanent": false,
           "attempted_at": "2026-11-14T01:48:24.260808+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31203013",
+          "target_video_id": "30784627",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:06:38.311713+00:00"
         }
       ],
       "last_plan": {
@@ -125235,7 +125235,7 @@
       "last_plan": {
         "source_id": "34296329",
         "display_name": "Contra 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:48:24.041163+00:00"
+        "planned_at": "2026-11-14T03:06:36.879370+00:00"
       },
       "previous_target_id": "30985822",
       "prepared": {
@@ -125243,6 +125243,12 @@
         "size_bytes": 3300000000,
         "prepared_at": "2026-11-10T22:05:34.736105+00:00",
         "relay_source_id": "34296329"
+      },
+      "claim": {
+        "worker_id": "e99ac718a5da445ca371082bf189b740-shard-0",
+        "claimed_at": "2026-11-14T03:06:37.687621+00:00",
+        "lease_expires_at": "2026-11-14T09:06:37.687621+00:00",
+        "run_id": "43526557198"
       }
     },
     "27073": {
@@ -150509,7 +150515,7 @@
       "last_plan": {
         "source_id": "34716646",
         "display_name": "Fruit of Paradise (Ovoce stromů rajských jíme) SD CZ Dabing",
-        "planned_at": "2026-11-14T03:06:34.400046+00:00"
+        "planned_at": "2026-11-14T03:06:37.224886+00:00"
       }
     },
     "31089": {
@@ -201561,5 +201567,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:06:34.838961+00:00"
+  "updated_at": "2026-11-14T03:06:38.311732+00:00"
 }
