@@ -111636,13 +111636,6 @@
           "source_id": "34714367",
           "target_video_id": "30983810",
           "permanent": false,
-          "attempted_at": "2026-11-14T11:01:16.870094+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34714367",
-          "target_video_id": "30983810",
-          "permanent": false,
           "attempted_at": "2026-11-14T12:36:21.939537+00:00"
         },
         {
@@ -111651,6 +111644,13 @@
           "target_video_id": "30983810",
           "permanent": false,
           "attempted_at": "2026-11-14T13:54:56.427586+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34714367",
+          "target_video_id": "30983810",
+          "permanent": false,
+          "attempted_at": "2026-11-14T15:11:42.363695+00:00"
         }
       ],
       "last_plan": {
@@ -125706,7 +125706,7 @@
       "last_plan": {
         "source_id": "27529281",
         "display_name": "Danny Deckchair 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:54:56.141544+00:00"
+        "planned_at": "2026-11-14T15:11:41.121894+00:00"
       },
       "previous_target_id": "30985893",
       "prepared": {
@@ -125714,6 +125714,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-10T22:27:48.871952+00:00",
         "relay_source_id": "27529281"
+      },
+      "claim": {
+        "worker_id": "06819e922d814760ae6cae9de86eb6be-shard-0",
+        "claimed_at": "2026-11-14T15:11:42.041857+00:00",
+        "lease_expires_at": "2026-11-14T21:11:42.041857+00:00",
+        "run_id": "43589661606"
       }
     },
     "2916": {
@@ -151899,7 +151905,7 @@
       "last_plan": {
         "source_id": "34908684",
         "display_name": "What a Feeling 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:11:38.671313+00:00"
+        "planned_at": "2026-11-14T15:11:41.479405+00:00"
       }
     },
     "24179": {
@@ -202739,5 +202745,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:11:38.946953+00:00"
+  "updated_at": "2026-11-14T15:11:42.363729+00:00"
 }
