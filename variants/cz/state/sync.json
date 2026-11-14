@@ -113140,13 +113140,6 @@
           "source_id": "34274611",
           "target_video_id": "30984010",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:17:28.354779+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34274611",
-          "target_video_id": "30984010",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:19:38.096530+00:00"
         },
         {
@@ -113155,6 +113148,13 @@
           "target_video_id": "30984010",
           "permanent": false,
           "attempted_at": "2026-11-13T23:41:41.071642+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34274611",
+          "target_video_id": "30984010",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:55:11.350215+00:00"
         }
       ],
       "last_plan": {
@@ -135721,7 +135721,7 @@
       "last_plan": {
         "source_id": "29184927",
         "display_name": "Pára nad hrncem SD CZ Dabing",
-        "planned_at": "2026-11-13T23:41:39.698571+00:00"
+        "planned_at": "2026-11-14T00:55:09.952950+00:00"
       },
       "previous_target_id": "30987609",
       "prepared": {
@@ -135729,6 +135729,12 @@
         "size_bytes": 1000000000,
         "prepared_at": "2026-11-11T05:24:35.805876+00:00",
         "relay_source_id": "29184927"
+      },
+      "claim": {
+        "worker_id": "9ff3ecd1bf914bed84863ad9ae919f81-shard-0",
+        "claimed_at": "2026-11-14T00:55:10.727007+00:00",
+        "lease_expires_at": "2026-11-14T06:55:10.727007+00:00",
+        "run_id": "43526557198"
       }
     },
     "20468": {
@@ -150282,7 +150288,7 @@
       "last_plan": {
         "source_id": "32044948",
         "display_name": "Sea of Sand SD CZ Dabing",
-        "planned_at": "2026-11-14T00:55:07.720836+00:00"
+        "planned_at": "2026-11-14T00:55:10.285176+00:00"
       }
     },
     "16174": {
@@ -201350,5 +201356,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:55:07.720855+00:00"
+  "updated_at": "2026-11-14T00:55:11.350234+00:00"
 }
