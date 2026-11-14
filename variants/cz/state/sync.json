@@ -6987,6 +6987,12 @@
         "size_bytes": 10000000000,
         "prepared_at": "2026-10-30T05:04:22.312252+00:00",
         "relay_source_id": "31074308"
+      },
+      "claim": {
+        "worker_id": "37cb198319df445dba19bd9aae732c98-shard-0",
+        "claimed_at": "2026-11-14T04:42:32.759692+00:00",
+        "lease_expires_at": "2026-11-14T10:42:32.759692+00:00",
+        "run_id": "43551382365"
       }
     },
     "321": {
@@ -134086,7 +134092,7 @@
       "last_plan": {
         "source_id": "33817621",
         "display_name": "Jak se Franta naučil bát 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:04:18.198192+00:00"
+        "planned_at": "2026-11-14T04:42:33.036830+00:00"
       },
       "previous_target_id": "30987402",
       "prepared": {
@@ -140815,13 +140821,6 @@
           "source_id": "34720000",
           "target_video_id": "30988159",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:36:29.847670+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34720000",
-          "target_video_id": "30988159",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:46:26.101226+00:00"
         },
         {
@@ -140830,6 +140829,13 @@
           "target_video_id": "30988159",
           "permanent": false,
           "attempted_at": "2026-11-14T03:04:10.916781+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34720000",
+          "target_video_id": "30988159",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:42:33.769634+00:00"
         }
       ],
       "last_plan": {
@@ -140843,12 +140849,6 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T07:43:08.881258+00:00",
         "relay_source_id": "34720000"
-      },
-      "claim": {
-        "worker_id": "ffc0ba48fcd145389292f19140bffadb-shard-0",
-        "claimed_at": "2026-11-14T04:42:29.897087+00:00",
-        "lease_expires_at": "2026-11-14T10:42:29.897087+00:00",
-        "run_id": "43551382365"
       }
     },
     "24478": {
@@ -150619,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:42:30.483130+00:00"
+        "planned_at": "2026-11-14T04:42:33.374722+00:00"
       }
     },
     "23345": {
@@ -201667,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:42:30.807093+00:00"
+  "updated_at": "2026-11-14T04:42:33.769651+00:00"
 }
