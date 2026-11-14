@@ -118579,6 +118579,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "f9833910aa454a6896a8a5b04fe3698e-shard-0",
+        "claimed_at": "2026-11-14T12:34:44.606758+00:00",
+        "lease_expires_at": "2026-11-14T18:34:44.606758+00:00",
+        "run_id": "43589661606"
       }
     },
     "12374": {
@@ -133459,13 +133465,6 @@
           "source_id": "34710904",
           "target_video_id": "30987301",
           "permanent": false,
-          "attempted_at": "2026-11-14T08:26:53.143695+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34710904",
-          "target_video_id": "30987301",
-          "permanent": false,
           "attempted_at": "2026-11-14T09:50:17.926809+00:00"
         },
         {
@@ -133474,12 +133473,19 @@
           "target_video_id": "30987301",
           "permanent": false,
           "attempted_at": "2026-11-14T10:59:58.820931+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34710904",
+          "target_video_id": "30987301",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:34:48.106161+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34710904",
         "display_name": "O Nesytovi 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:59:54.736502+00:00"
+        "planned_at": "2026-11-14T12:34:44.857389+00:00"
       },
       "previous_target_id": "30987301",
       "prepared": {
@@ -151487,7 +151493,7 @@
       "last_plan": {
         "source_id": "34788763",
         "display_name": "The False Prince (Labakan) (1957) SD CZ Dabing",
-        "planned_at": "2026-11-14T12:34:42.001892+00:00"
+        "planned_at": "2026-11-14T12:34:45.199907+00:00"
       }
     },
     "36848": {
@@ -202407,5 +202413,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:34:42.306926+00:00"
+  "updated_at": "2026-11-14T12:34:48.106181+00:00"
 }
