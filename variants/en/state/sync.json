@@ -35263,13 +35263,6 @@
           "source_id": "17633756",
           "target_video_id": "30988551",
           "permanent": false,
-          "attempted_at": "2026-11-14T02:02:00.123173+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "17633756",
-          "target_video_id": "30988551",
-          "permanent": false,
           "attempted_at": "2026-11-14T02:32:10.356460+00:00"
         },
         {
@@ -35278,6 +35271,13 @@
           "target_video_id": "30988551",
           "permanent": false,
           "attempted_at": "2026-11-14T03:02:24.918718+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "17633756",
+          "target_video_id": "30988551",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:52:49.905264+00:00"
         }
       ],
       "last_plan": {
@@ -38881,7 +38881,7 @@
       "last_plan": {
         "source_id": "33551012",
         "display_name": "The 33 720p CZ Titulky",
-        "planned_at": "2026-11-14T03:02:28.813166+00:00"
+        "planned_at": "2026-11-14T03:52:48.795177+00:00"
       },
       "previous_target_id": "31009004",
       "prepared": {
@@ -38889,6 +38889,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-13T04:33:06.814840+00:00",
         "relay_source_id": "33551012"
+      },
+      "claim": {
+        "worker_id": "876dc25135fa412bb78c7dc7c80a6b37-shard-0",
+        "claimed_at": "2026-11-14T03:52:49.117226+00:00",
+        "lease_expires_at": "2026-11-14T09:52:49.117226+00:00",
+        "run_id": "43551382365"
       }
     },
     "11589": {
@@ -41236,7 +41242,7 @@
       "last_plan": {
         "source_id": "11694349",
         "display_name": "Storm Boy 1080p CZ Titulky",
-        "planned_at": "2026-11-14T03:52:45.820176+00:00"
+        "planned_at": "2026-11-14T03:52:49.013423+00:00"
       }
     },
     "34378": {
@@ -99765,5 +99771,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:52:45.820193+00:00"
+  "updated_at": "2026-11-14T03:52:49.905280+00:00"
 }
