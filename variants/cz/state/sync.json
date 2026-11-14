@@ -82507,13 +82507,6 @@
           "source_id": "34668514",
           "target_video_id": "30908812",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:34:58.290127+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34668514",
-          "target_video_id": "30908812",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:49:38.758945+00:00"
         },
         {
@@ -82522,6 +82515,13 @@
           "target_video_id": "30908812",
           "permanent": false,
           "attempted_at": "2026-11-14T01:57:26.878359+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34668514",
+          "target_video_id": "30908812",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:15:25.947109+00:00"
         }
       ],
       "last_plan": {
@@ -83783,7 +83783,7 @@
       "last_plan": {
         "source_id": "30859189",
         "display_name": "Snack Shack 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:57:25.430425+00:00"
+        "planned_at": "2026-11-14T03:15:24.398147+00:00"
       },
       "previous_target_id": "30915737",
       "prepared": {
@@ -83791,6 +83791,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-08T11:13:22.427450+00:00",
         "relay_source_id": "30859189"
+      },
+      "claim": {
+        "worker_id": "918efb8a4ef746c3bedf29274b9de13c-shard-0",
+        "claimed_at": "2026-11-14T03:15:25.337728+00:00",
+        "lease_expires_at": "2026-11-14T09:15:25.337728+00:00",
+        "run_id": "43526557198"
       }
     },
     "2309": {
@@ -150570,7 +150576,7 @@
       "last_plan": {
         "source_id": "33810870",
         "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:15:22.320288+00:00"
+        "planned_at": "2026-11-14T03:15:24.744253+00:00"
       }
     },
     "24093": {
@@ -201608,5 +201614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:15:22.320313+00:00"
+  "updated_at": "2026-11-14T03:15:25.947129+00:00"
 }
