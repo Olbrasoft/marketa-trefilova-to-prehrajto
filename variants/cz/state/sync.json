@@ -119585,13 +119585,6 @@
           "source_id": "32799273",
           "target_video_id": "30984959",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:12:43.238243+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32799273",
-          "target_video_id": "30984959",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:44:59.595046+00:00"
         },
         {
@@ -119600,6 +119593,13 @@
           "target_video_id": "30984959",
           "permanent": false,
           "attempted_at": "2026-11-14T01:53:03.995948+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32799273",
+          "target_video_id": "30984959",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:11:04.829399+00:00"
         }
       ],
       "last_plan": {
@@ -134200,7 +134200,7 @@
       "last_plan": {
         "source_id": "23221863",
         "display_name": "Ten svetr si nesvlíkej 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:53:03.370757+00:00"
+        "planned_at": "2026-11-14T03:11:03.642612+00:00"
       },
       "previous_target_id": "30987417",
       "prepared": {
@@ -134208,6 +134208,12 @@
         "size_bytes": 1900000000,
         "prepared_at": "2026-11-11T04:35:39.966856+00:00",
         "relay_source_id": "23221863"
+      },
+      "claim": {
+        "worker_id": "3c2e36366b194fb19b5e2fbd7a0d0ff0-shard-0",
+        "claimed_at": "2026-11-14T03:11:04.529326+00:00",
+        "lease_expires_at": "2026-11-14T09:11:04.529326+00:00",
+        "run_id": "43526557198"
       }
     },
     "4343": {
@@ -150535,7 +150541,7 @@
       "last_plan": {
         "source_id": "21212041",
         "display_name": "DonT Stop 720p CZ Dabing",
-        "planned_at": "2026-11-14T03:11:01.316103+00:00"
+        "planned_at": "2026-11-14T03:11:03.985175+00:00"
       }
     },
     "14672": {
@@ -201576,5 +201582,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:11:01.598094+00:00"
+  "updated_at": "2026-11-14T03:11:04.829418+00:00"
 }
