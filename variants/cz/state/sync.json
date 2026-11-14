@@ -125285,13 +125285,6 @@
           "source_id": "4983288",
           "target_video_id": "30985832",
           "permanent": false,
-          "attempted_at": "2026-11-13T21:03:51.518787+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "4983288",
-          "target_video_id": "30985832",
-          "permanent": false,
           "attempted_at": "2026-11-13T22:06:56.157651+00:00"
         },
         {
@@ -125300,12 +125293,19 @@
           "target_video_id": "30985832",
           "permanent": false,
           "attempted_at": "2026-11-13T23:10:34.964784+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "4983288",
+          "target_video_id": "30985832",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:42:51.612159+00:00"
         }
       ],
       "last_plan": {
         "source_id": "4983288",
         "display_name": "Jar City SD CZ Dabing",
-        "planned_at": "2026-11-13T23:10:33.303041+00:00"
+        "planned_at": "2026-11-14T00:42:49.368847+00:00"
       },
       "previous_target_id": "30985832",
       "prepared": {
@@ -150174,17 +150174,19 @@
       }
     },
     "4153": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "21342711",
+          "target_video_id": "31021915",
+          "permanent": false,
+          "attempted_at": "2026-11-14T00:42:51.859063+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "21342711",
         "display_name": "Gump - pes, který naucil lidi zít (Gump – pes, který naučil lidi žít) 1080p CZ Dabing",
         "planned_at": "2026-11-14T00:33:12.783609+00:00"
-      },
-      "claim": {
-        "worker_id": "22978b5e89c94cd4928c495f8c91dbd7-shard-0",
-        "claimed_at": "2026-11-14T00:33:13.613204+00:00",
-        "lease_expires_at": "2026-11-14T06:33:13.613204+00:00",
-        "run_id": "43526557198"
       },
       "previous_target_id": "31021915",
       "prepared": {
@@ -150223,7 +150225,7 @@
       "last_plan": {
         "source_id": "34617718",
         "display_name": "Schneeweißchen und Rosenrot (Snow-White and Rose-Red) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T00:42:45.684967+00:00"
+        "planned_at": "2026-11-14T00:42:49.699700+00:00"
       }
     },
     "34866": {
@@ -201303,5 +201305,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T00:42:47.732881+00:00"
+  "updated_at": "2026-11-14T00:42:51.859080+00:00"
 }
