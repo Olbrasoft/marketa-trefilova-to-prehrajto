@@ -723,3 +723,4 @@ Attach subtitles only after target processing has finished.
 | The Age of Disclosure 4K CZ Titulky | 31022883 | https://sdilej.cz/32453965/the.age.of.disclosure.2025.2160p.4k.web.x265.10bit.aac5.1-yts.lt-.mkv | Extract Czech track from exact source after processing |
 | 18 Presents 1080p CZ Titulky | 31023418 | https://sdilej.cz/19221953/18.presents.2020.cz.sub.internal.1080p.web.x264-titulky-cz.mkv | Extract Czech track from exact source after processing |
 | Storm Boy 1080p CZ Titulky | 31023557 | https://sdilej.cz/11694349/storm.boy.2019.1080p.bluray.h264.ac3-cz-titulky.mkv | Extract Czech track from exact source after processing |
+| Icahn: The Restless Billionaire 1080p CZ Titulky | 31024287 | https://sdilej.cz/32831706/icahn.the.restless.billionaire.2022.1080p.web.h264-cz-tit.mkv | Extract Czech track from exact source after processing |
