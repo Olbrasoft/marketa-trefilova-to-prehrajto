@@ -107479,13 +107479,6 @@
           "source_id": "34720969",
           "target_video_id": "30983144",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:35:33.884715+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34720969",
-          "target_video_id": "30983144",
-          "permanent": false,
           "attempted_at": "2026-11-14T07:08:41.578693+00:00"
         },
         {
@@ -107494,6 +107487,13 @@
           "target_video_id": "30983144",
           "permanent": false,
           "attempted_at": "2026-11-14T08:40:34.627461+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34720969",
+          "target_video_id": "30983144",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:00:05.523115+00:00"
         }
       ],
       "last_plan": {
@@ -107536,7 +107536,7 @@
       "last_plan": {
         "source_id": "11951859",
         "display_name": "Probuzení 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:40:39.530117+00:00"
+        "planned_at": "2026-11-14T10:00:04.168211+00:00"
       },
       "previous_target_id": "30983145",
       "prepared": {
@@ -107544,6 +107544,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-10T13:53:28.759441+00:00",
         "relay_source_id": "11951859"
+      },
+      "claim": {
+        "worker_id": "6bab42cffba1428e8e57e20f508fb4ce-shard-0",
+        "claimed_at": "2026-11-14T10:00:04.838590+00:00",
+        "lease_expires_at": "2026-11-14T16:00:04.838590+00:00",
+        "run_id": "43570770208"
       }
     },
     "21503": {
@@ -151141,7 +151147,7 @@
       "last_plan": {
         "source_id": "32369227",
         "display_name": "Angel in a Devil's Body (Anděl s ďáblem v těle) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:00:01.873792+00:00"
+        "planned_at": "2026-11-14T10:00:04.449391+00:00"
       }
     },
     "33270": {
@@ -202101,5 +202107,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:00:01.873811+00:00"
+  "updated_at": "2026-11-14T10:00:05.523134+00:00"
 }
