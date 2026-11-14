@@ -2110,7 +2110,7 @@
       "last_plan": {
         "source_id": "32311338",
         "display_name": "Oldboy (올드보이) (2003) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T11:06:15.972496+00:00"
+        "planned_at": "2026-11-14T11:36:23.458712+00:00"
       },
       "previous_target_id": "30602237",
       "prepared": {
@@ -2118,6 +2118,12 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
+      },
+      "claim": {
+        "worker_id": "465291819bf14175938dc1ad27dead44-shard-0",
+        "claimed_at": "2026-11-14T11:36:23.684322+00:00",
+        "lease_expires_at": "2026-11-14T17:36:23.684322+00:00",
+        "run_id": "43570770208"
       }
     },
     "21690": {
@@ -39638,13 +39644,6 @@
           "source_id": "30078440",
           "target_video_id": "31013953",
           "permanent": false,
-          "attempted_at": "2026-11-14T10:05:48.741682+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30078440",
-          "target_video_id": "31013953",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:36:07.670694+00:00"
         },
         {
@@ -39653,6 +39652,13 @@
           "target_video_id": "31013953",
           "permanent": false,
           "attempted_at": "2026-11-14T11:06:12.870827+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30078440",
+          "target_video_id": "31013953",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:36:24.239142+00:00"
         }
       ],
       "last_plan": {
@@ -99950,5 +99956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:36:17.146075+00:00"
+  "updated_at": "2026-11-14T11:36:24.239158+00:00"
 }
