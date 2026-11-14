@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T13:44:37.416094+00:00
+Poslední aktualizace (UTC): 2026-11-14T13:44:39.387283+00:00
 
 Zkontrolováno videí: 731. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 155, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 156, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -186,6 +186,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 165. Důvo
 | [The Blue Trail (O Último Azul) 1080p CZ Titulky](https://prehraj.to/the-blue-trail-o-ultimo-azul-1080p-cz-titulky-mkv/5344564bd1401e11) (ID 30996874) | [Sdílej 32938361](https://sdilej.cz/32938361/modrou-stezkou-2025-sci-fi-drama-fantasy-cztit-fhd.mkv) | target_unavailable | 2026-11-12T02:12:09.271724+00:00 |
 | [The Charterhouse of Parma (La Chartreuse de Parme) 1080p CZ Titulky](https://prehraj.to/the-charterhouse-of-parma-la-chartreuse-de-parme-1080p-cz-titulky-mkv/52b1dea585ce6f92) (ID 31018372) | [Sdílej 24337653](https://sdilej.cz/24337653/veznice-parmska-la-chartreuse-de-parme-1948-fr.cz.mkv) | target_unavailable | 2026-11-13T20:05:24.454966+00:00 |
 | [The Dirt 4K CZ Titulky](https://prehraj.to/the-dirt-4k-cz-titulky-mkv/2af6bd2bb9daad74) (ID 30977182) | [Sdílej 12889912](https://sdilej.cz/12889912/the.dirt.2019.2160p.uhdrip.sdr.hevc.ddp.5.1-ddr.cztitulky.mkv) | target_unavailable | 2026-11-10T11:21:36.817236+00:00 |
+| [The Disappearance of Josef Mengele (Das Verschwinden des Josef Mengele) 1080p CZ Titulky](https://prehraj.to/the-disappearance-of-josef-mengele-das-verschwinden-des-josef-mengele-1080p-cz-titulky-mkv/d1ab6bd16b47c091) (ID 31030581) | [Sdílej 34039821](https://sdilej.cz/34039821/zmizeni-josefa-menegeleho-das-verschwinden-des-josef-mengele-2025-cz-titulky.mkv) | target_unavailable | 2026-11-14T13:44:39.139758+00:00 |
 | [The Duke 1080p CZ Titulky](https://prehraj.to/the-duke-1080p-cz-titulky-mkv/5a064bbcad6030c1) (ID 31014248) | [Sdílej 18856807](https://sdilej.cz/18856807/the.duke.1080p.web-dl.dd5.1.h.264-titulky-cz.mkv) | target_unavailable | 2026-11-13T15:33:25.013573+00:00 |
 | [The Fighter 1080p CZ Titulky](https://prehraj.to/the-fighter-1080p-cz-titulky-mkv/d534f89e529377c9) (ID 30705917) | [Sdílej 34732235](https://sdilej.cz/34732235/the-fighter-2010-bdrip-1080p-cz-en.mkv) | upload_unconfirmed | 2026-11-10T09:40:00.989392+00:00 |
 | [The Fourth Phase 1080p CZ Titulky](https://prehraj.to/the-fourth-phase-1080p-cz-titulky-mkv/4d5e4c7ddc78724a) (ID 31017820) | [Sdílej 6841800](https://sdilej.cz/6841800/ctvrta-faze-the-fourth-phase-2016-titulky.cz-1080p.mkv) | target_unavailable | 2026-11-13T18:54:00.404555+00:00 |
