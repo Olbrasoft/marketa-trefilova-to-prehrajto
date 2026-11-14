@@ -112145,13 +112145,6 @@
           "source_id": "33855360",
           "target_video_id": "30983838",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:53:04.468858+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33855360",
-          "target_video_id": "30983838",
-          "permanent": false,
           "attempted_at": "2026-11-14T14:08:20.294225+00:00"
         },
         {
@@ -112160,6 +112153,13 @@
           "target_video_id": "30983838",
           "permanent": false,
           "attempted_at": "2026-11-14T15:28:27.822512+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33855360",
+          "target_video_id": "30983838",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:51:33.234679+00:00"
         }
       ],
       "last_plan": {
@@ -114222,7 +114222,7 @@
       "last_plan": {
         "source_id": "31982080",
         "display_name": "Extraction (2020) 4K CZ Dabing",
-        "planned_at": "2026-11-14T15:28:28.047336+00:00"
+        "planned_at": "2026-11-14T16:51:30.453326+00:00"
       },
       "previous_target_id": "30984113",
       "prepared": {
@@ -114230,6 +114230,12 @@
         "size_bytes": 5600000000,
         "prepared_at": "2026-11-10T15:29:05.818325+00:00",
         "relay_source_id": "31982080"
+      },
+      "claim": {
+        "worker_id": "dd355498bc764670bafbbdb0d2348c61-shard-0",
+        "claimed_at": "2026-11-14T16:51:31.317907+00:00",
+        "lease_expires_at": "2026-11-14T22:51:31.317907+00:00",
+        "run_id": "43615202382"
       }
     },
     "2796": {
@@ -152164,7 +152170,7 @@
       "last_plan": {
         "source_id": "24537171",
         "display_name": "Doktor Martin: Záhada v Beskydech 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:51:28.011616+00:00"
+        "planned_at": "2026-11-14T16:51:30.824626+00:00"
       }
     },
     "15782": {
@@ -202968,5 +202974,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:51:28.326274+00:00"
+  "updated_at": "2026-11-14T16:51:33.234695+00:00"
 }
