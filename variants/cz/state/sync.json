@@ -37521,13 +37521,6 @@
           "source_id": "35376993",
           "target_video_id": "30744174",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:10:51.313555+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35376993",
-          "target_video_id": "30744174",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:49:19.285296+00:00"
         },
         {
@@ -37536,6 +37529,13 @@
           "target_video_id": "30744174",
           "permanent": false,
           "attempted_at": "2026-11-14T06:25:49.248376+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35376993",
+          "target_video_id": "30744174",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:05:49.018735+00:00"
         }
       ],
       "last_plan": {
@@ -37549,12 +37549,6 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-02T22:56:31.304569+00:00",
         "relay_source_id": "35376993"
-      },
-      "claim": {
-        "worker_id": "a1c04280ccf44fa68921989bded9497a-shard-0",
-        "claimed_at": "2026-11-14T08:05:45.747047+00:00",
-        "lease_expires_at": "2026-11-14T14:05:45.747047+00:00",
-        "run_id": "43570770208"
       }
     },
     "21768": {
@@ -126309,7 +126303,7 @@
       "last_plan": {
         "source_id": "12859228",
         "display_name": "Man in the Wilderness 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:25:47.245528+00:00"
+        "planned_at": "2026-11-14T08:05:48.198848+00:00"
       },
       "previous_target_id": "30986203",
       "prepared": {
@@ -126317,6 +126311,12 @@
         "size_bytes": 8900000000,
         "prepared_at": "2026-11-10T23:35:03.735891+00:00",
         "relay_source_id": "12859228"
+      },
+      "claim": {
+        "worker_id": "12b9a1de51d54c8fae0ca56fcfa61d9d-shard-0",
+        "claimed_at": "2026-11-14T08:05:48.806884+00:00",
+        "lease_expires_at": "2026-11-14T14:05:48.806884+00:00",
+        "run_id": "43570770208"
       }
     },
     "17403": {
@@ -150886,7 +150886,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:05:45.265781+00:00"
+        "planned_at": "2026-11-14T08:05:48.476533+00:00"
       }
     },
     "7958": {
@@ -201895,5 +201895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:05:46.498685+00:00"
+  "updated_at": "2026-11-14T08:05:49.018754+00:00"
 }
