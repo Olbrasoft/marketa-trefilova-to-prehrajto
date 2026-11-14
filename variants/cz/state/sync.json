@@ -120502,7 +120502,7 @@
       "last_plan": {
         "source_id": "34285214",
         "display_name": "Dead Again 4K CZ Dabing",
-        "planned_at": "2026-11-14T16:38:34.697138+00:00"
+        "planned_at": "2026-11-14T17:49:32.998248+00:00"
       },
       "previous_target_id": "30985011",
       "prepared": {
@@ -120510,6 +120510,12 @@
         "size_bytes": 4800000000,
         "prepared_at": "2026-11-10T18:33:07.534490+00:00",
         "relay_source_id": "34285214"
+      },
+      "claim": {
+        "worker_id": "7604ed1236e942288fbc126fe1e6c602-shard-0",
+        "claimed_at": "2026-11-14T17:49:34.149606+00:00",
+        "lease_expires_at": "2026-11-14T23:49:34.149606+00:00",
+        "run_id": "43615202382"
       }
     },
     "11883": {
@@ -125719,13 +125725,6 @@
           "source_id": "27529281",
           "target_video_id": "30985893",
           "permanent": false,
-          "attempted_at": "2026-11-14T13:55:00.655389+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "27529281",
-          "target_video_id": "30985893",
-          "permanent": false,
           "attempted_at": "2026-11-14T15:11:44.829907+00:00"
         },
         {
@@ -125734,6 +125733,13 @@
           "target_video_id": "30985893",
           "permanent": false,
           "attempted_at": "2026-11-14T16:38:35.002538+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "27529281",
+          "target_video_id": "30985893",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:49:34.429245+00:00"
         }
       ],
       "last_plan": {
@@ -152430,11 +152436,22 @@
       "last_plan": {
         "source_id": "28663687",
         "display_name": "The Doctor of Stalingrad (Der Arzt von Stalingrad) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T17:49:30.497413+00:00"
+        "planned_at": "2026-11-14T17:49:33.348630+00:00"
+      },
+      "claim": {
+        "worker_id": "bfbdceb17f574adcb3eeea53ea3976db-shard-0",
+        "claimed_at": "2026-11-14T17:49:34.643282+00:00",
+        "lease_expires_at": "2026-11-14T23:49:34.643282+00:00",
+        "run_id": "43615202382"
       }
     },
     "21605": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30973461",
+        "display_name": "The Story of Ruth 1080p CZ Dabing",
+        "planned_at": "2026-11-14T17:49:33.611224+00:00"
+      }
     },
     "12999": {
       "attempts": []
@@ -203192,5 +203209,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:49:30.718665+00:00"
+  "updated_at": "2026-11-14T17:49:34.643313+00:00"
 }
