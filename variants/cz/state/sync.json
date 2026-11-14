@@ -133355,13 +133355,6 @@
           "source_id": "34634312",
           "target_video_id": "30987300",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:57:33.064209+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34634312",
-          "target_video_id": "30987300",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:16:47.460628+00:00"
         },
         {
@@ -133370,6 +133363,13 @@
           "target_video_id": "30987300",
           "permanent": false,
           "attempted_at": "2026-11-14T06:56:34.699308+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34634312",
+          "target_video_id": "30987300",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:25:24.115983+00:00"
         }
       ],
       "last_plan": {
@@ -134397,7 +134397,7 @@
       "last_plan": {
         "source_id": "30622989",
         "display_name": "Concert at the End of Summer (Koncert na konci léta) SD CZ Dabing",
-        "planned_at": "2026-11-14T06:56:34.052073+00:00"
+        "planned_at": "2026-11-14T08:25:22.752357+00:00"
       },
       "previous_target_id": "30987471",
       "prepared": {
@@ -134405,6 +134405,12 @@
         "size_bytes": 1200000000,
         "prepared_at": "2026-11-11T04:50:11.276378+00:00",
         "relay_source_id": "30622989"
+      },
+      "claim": {
+        "worker_id": "fd5a81c28c524d0486b786fc41636261-shard-0",
+        "claimed_at": "2026-11-14T08:25:23.417006+00:00",
+        "lease_expires_at": "2026-11-14T14:25:23.417006+00:00",
+        "run_id": "43570770208"
       }
     },
     "25487": {
@@ -150886,7 +150892,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:25:20.500672+00:00"
+        "planned_at": "2026-11-14T08:25:23.033375+00:00"
       }
     },
     "7958": {
@@ -201895,5 +201901,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:25:20.736611+00:00"
+  "updated_at": "2026-11-14T08:25:24.116000+00:00"
 }
