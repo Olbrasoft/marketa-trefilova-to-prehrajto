@@ -16540,13 +16540,6 @@
           "source_id": "33537783",
           "target_video_id": "30747251",
           "permanent": false,
-          "attempted_at": "2026-11-14T15:47:06.476935+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33537783",
-          "target_video_id": "30747251",
-          "permanent": false,
           "attempted_at": "2026-11-14T16:27:37.542842+00:00"
         },
         {
@@ -16555,6 +16548,13 @@
           "target_video_id": "30747251",
           "permanent": false,
           "attempted_at": "2026-11-14T16:57:42.839735+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33537783",
+          "target_video_id": "30747251",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:28:13.596215+00:00"
         }
       ],
       "last_plan": {
@@ -16568,12 +16568,6 @@
         "size_bytes": 7300000000,
         "prepared_at": "2026-11-03T01:38:25.775623+00:00",
         "relay_source_id": "33537783"
-      },
-      "claim": {
-        "worker_id": "4da88d8e073d4f61966e6a234c54754e-shard-0",
-        "claimed_at": "2026-11-14T17:28:10.674094+00:00",
-        "lease_expires_at": "2026-11-14T23:28:10.674094+00:00",
-        "run_id": "43615202382"
       }
     },
     "1209": {
@@ -33760,7 +33754,7 @@
       "last_plan": {
         "source_id": "30986611",
         "display_name": "Ninja in the Dragon's Den 1080p CZ Titulky",
-        "planned_at": "2026-11-14T16:57:46.176300+00:00"
+        "planned_at": "2026-11-14T17:28:14.507562+00:00"
       },
       "previous_target_id": "30983315",
       "prepared": {
@@ -33811,6 +33805,12 @@
         "size_bytes": 15000000000,
         "prepared_at": "2026-11-10T14:25:35.887136+00:00",
         "relay_source_id": "6563156"
+      },
+      "claim": {
+        "worker_id": "67ea380441064f45bb7be909633563a2-shard-0",
+        "claimed_at": "2026-11-14T17:28:13.698809+00:00",
+        "lease_expires_at": "2026-11-14T23:28:13.698809+00:00",
+        "run_id": "43615202382"
       }
     },
     "23615": {
@@ -100051,5 +100051,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:28:11.472833+00:00"
+  "updated_at": "2026-11-14T17:28:14.507575+00:00"
 }
