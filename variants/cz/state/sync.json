@@ -12818,13 +12818,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-13T22:02:16.174306+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-13T23:04:01.817787+00:00"
         },
         {
@@ -12833,6 +12826,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-14T00:35:00.036181+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-14T01:45:22.020071+00:00"
         }
       ],
       "last_plan": {
@@ -143935,7 +143935,7 @@
       "last_plan": {
         "source_id": "7239474",
         "display_name": "Bílá spona SD CZ Dabing",
-        "planned_at": "2026-11-14T00:35:01.706163+00:00"
+        "planned_at": "2026-11-14T01:45:20.324423+00:00"
       },
       "previous_target_id": "30988750",
       "prepared": {
@@ -143943,6 +143943,12 @@
         "size_bytes": 756000000,
         "prepared_at": "2026-11-11T09:48:19.543124+00:00",
         "relay_source_id": "7239474"
+      },
+      "claim": {
+        "worker_id": "d6023794d7504790a9fb9f55cb413806-shard-0",
+        "claimed_at": "2026-11-14T01:45:21.143883+00:00",
+        "lease_expires_at": "2026-11-14T07:45:21.143883+00:00",
+        "run_id": "43526557198"
       }
     },
     "17569": {
@@ -150393,7 +150399,7 @@
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:45:17.958928+00:00"
+        "planned_at": "2026-11-14T01:45:20.663127+00:00"
       }
     },
     "29455": {
@@ -201446,5 +201452,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:45:17.958946+00:00"
+  "updated_at": "2026-11-14T01:45:22.020091+00:00"
 }
