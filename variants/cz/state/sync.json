@@ -120184,13 +120184,6 @@
           "source_id": "12171968",
           "target_video_id": "30984999",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:15:08.062729+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "12171968",
-          "target_video_id": "30984999",
-          "permanent": false,
           "attempted_at": "2026-11-14T06:54:58.021754+00:00"
         },
         {
@@ -120199,6 +120192,13 @@
           "target_video_id": "30984999",
           "permanent": false,
           "attempted_at": "2026-11-14T08:24:20.702469+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "12171968",
+          "target_video_id": "30984999",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:47:43.072593+00:00"
         }
       ],
       "last_plan": {
@@ -120212,12 +120212,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T18:30:07.931969+00:00",
         "relay_source_id": "12171968"
-      },
-      "claim": {
-        "worker_id": "9cb25f52b8a84f31af608549264ce09d-shard-0",
-        "claimed_at": "2026-11-14T09:47:40.881519+00:00",
-        "lease_expires_at": "2026-11-14T15:47:40.881519+00:00",
-        "run_id": "43570770208"
       }
     },
     "23710": {
@@ -139709,7 +139703,7 @@
       "last_plan": {
         "source_id": "30326245",
         "display_name": "Ľalie poľné SD CZ Dabing",
-        "planned_at": "2026-11-14T08:24:19.301110+00:00"
+        "planned_at": "2026-11-14T09:47:42.598390+00:00"
       },
       "previous_target_id": "30987991",
       "prepared": {
@@ -151097,11 +151091,16 @@
       "last_plan": {
         "source_id": "34858486",
         "display_name": "Die sechs Schwäne 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:47:39.095108+00:00"
+        "planned_at": "2026-11-14T09:47:42.878148+00:00"
       }
     },
     "12509": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "33706345",
+        "display_name": "Andel svádí dábla (Anděl svádí ďábla) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T09:47:43.266796+00:00"
+      }
     },
     "12738": {
       "attempts": []
@@ -202069,5 +202068,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:47:40.881543+00:00"
+  "updated_at": "2026-11-14T09:47:43.266812+00:00"
 }
