@@ -43213,13 +43213,6 @@
           "source_id": "34146117",
           "target_video_id": "30756113",
           "permanent": false,
-          "attempted_at": "2026-11-14T04:46:58.191686+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34146117",
-          "target_video_id": "30756113",
-          "permanent": false,
           "attempted_at": "2026-11-14T06:18:38.762820+00:00"
         },
         {
@@ -43228,6 +43221,13 @@
           "target_video_id": "30756113",
           "permanent": false,
           "attempted_at": "2026-11-14T07:48:35.798804+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34146117",
+          "target_video_id": "30756113",
+          "permanent": false,
+          "attempted_at": "2026-11-14T09:19:05.463620+00:00"
         }
       ],
       "last_plan": {
@@ -57034,7 +57034,7 @@
       "last_plan": {
         "source_id": "35488335",
         "display_name": "The End of the Tour 1080p CZ Dabing",
-        "planned_at": "2026-11-14T09:19:00.247485+00:00"
+        "planned_at": "2026-11-14T09:19:04.287087+00:00"
       }
     },
     "21800": {
@@ -131602,7 +131602,7 @@
       "last_plan": {
         "source_id": "32647219",
         "display_name": "Mama (Máma) (2025) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:48:34.997920+00:00"
+        "planned_at": "2026-11-14T09:19:04.005928+00:00"
       },
       "previous_target_id": "30987015",
       "prepared": {
@@ -131610,6 +131610,12 @@
         "size_bytes": 2800000000,
         "prepared_at": "2026-11-11T03:19:22.514356+00:00",
         "relay_source_id": "32647219"
+      },
+      "claim": {
+        "worker_id": "1a57ab9a23544fe190ed86f76410f99b-shard-0",
+        "claimed_at": "2026-11-14T09:19:04.662986+00:00",
+        "lease_expires_at": "2026-11-14T15:19:04.662986+00:00",
+        "run_id": "43570770208"
       }
     },
     "13290": {
@@ -201962,5 +201968,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:19:00.247502+00:00"
+  "updated_at": "2026-11-14T09:19:05.463637+00:00"
 }
