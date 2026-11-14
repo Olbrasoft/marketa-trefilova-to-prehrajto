@@ -15363,7 +15363,7 @@
       "last_plan": {
         "source_id": "33222569",
         "display_name": "A Hard Day's Night 1080p CZ Titulky",
-        "planned_at": "2026-11-14T06:22:59.138443+00:00"
+        "planned_at": "2026-11-14T06:53:08.294786+00:00"
       },
       "previous_target_id": "30735890",
       "prepared": {
@@ -15371,6 +15371,12 @@
         "size_bytes": 1700000000,
         "prepared_at": "2026-11-02T16:05:44.247867+00:00",
         "relay_source_id": "33222569"
+      },
+      "claim": {
+        "worker_id": "998d2279ca194e7c99dc37ab1cb2d6d3-shard-0",
+        "claimed_at": "2026-11-14T06:53:08.590971+00:00",
+        "lease_expires_at": "2026-11-14T12:53:08.590971+00:00",
+        "run_id": "43551382365"
       }
     },
     "31737": {
@@ -16291,13 +16297,6 @@
           "source_id": "13881903",
           "target_video_id": "30745166",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:22:40.700674+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13881903",
-          "target_video_id": "30745166",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:52:46.816500+00:00"
         },
         {
@@ -16306,6 +16305,13 @@
           "target_video_id": "30745166",
           "permanent": false,
           "attempted_at": "2026-11-14T06:22:56.428519+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13881903",
+          "target_video_id": "30745166",
+          "permanent": false,
+          "attempted_at": "2026-11-14T06:53:09.651638+00:00"
         }
       ],
       "last_plan": {
@@ -99876,5 +99882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T06:52:59.288850+00:00"
+  "updated_at": "2026-11-14T06:53:09.651655+00:00"
 }
