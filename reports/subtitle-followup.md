@@ -728,3 +728,4 @@ Attach subtitles only after target processing has finished.
 | Straight Up 1080p CZ Titulky | 31024574 | https://sdilej.cz/14062612/straight.up.2019.1080p.webrip.x264.cz.tit.mkv | Extract Czech track from exact source after processing |
 | René 1080p CZ Titulky | 31025310 | https://sdilej.cz/30660141/puls-3-invaze-hraji-rider-strong-brittany-renee-finamore-2008-cz-dab-leg.mkv | Extract Czech track from exact source after processing |
 | The Murderer Hides His Face (Vrah skrývá tvář) 1080p CZ Titulky | 31026251 | https://sdilej.cz/35079047/vrah-skryva-tvar-1966-hd.mkv | Extract Czech track from exact source after processing |
+| Wisdom of Happiness 1080p CZ Titulky | 31029095 | https://sdilej.cz/34455088/wisdom-of-happiness-2024-1080p-cz.tit.mkv | Extract Czech track from exact source after processing |
