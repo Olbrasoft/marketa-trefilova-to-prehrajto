@@ -118610,13 +118610,6 @@
           "source_id": "33873663",
           "target_video_id": "30984867",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:50:00.465474+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33873663",
-          "target_video_id": "30984867",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:06:10.540651+00:00"
         },
         {
@@ -118625,6 +118618,13 @@
           "target_video_id": "30984867",
           "permanent": false,
           "attempted_at": "2026-11-14T02:13:37.542253+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33873663",
+          "target_video_id": "30984867",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:54:14.894288+00:00"
         }
       ],
       "last_plan": {
@@ -137682,7 +137682,7 @@
       "last_plan": {
         "source_id": "27912463",
         "display_name": "Lízino štěstí 1080p CZ Dabing",
-        "planned_at": "2026-11-14T02:13:36.115982+00:00"
+        "planned_at": "2026-11-14T03:54:13.355860+00:00"
       },
       "previous_target_id": "30987815",
       "prepared": {
@@ -137690,6 +137690,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T06:12:49.248944+00:00",
         "relay_source_id": "27912463"
+      },
+      "claim": {
+        "worker_id": "697445897d89417da7e6bb212d399921-shard-0",
+        "claimed_at": "2026-11-14T03:54:14.208356+00:00",
+        "lease_expires_at": "2026-11-14T09:54:14.208356+00:00",
+        "run_id": "43551382365"
       }
     },
     "6823": {
@@ -150601,7 +150607,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T03:54:10.389529+00:00"
+        "planned_at": "2026-11-14T03:54:13.704914+00:00"
       }
     },
     "23345": {
@@ -201646,5 +201652,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:54:10.695757+00:00"
+  "updated_at": "2026-11-14T03:54:14.894305+00:00"
 }
