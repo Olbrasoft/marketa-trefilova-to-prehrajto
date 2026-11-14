@@ -142223,13 +142223,6 @@
           "source_id": "32094190",
           "target_video_id": "30988468",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:22:33.842159+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32094190",
-          "target_video_id": "30988468",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:36:25.390524+00:00"
         },
         {
@@ -142238,6 +142231,13 @@
           "target_video_id": "30988468",
           "permanent": false,
           "attempted_at": "2026-11-14T02:45:47.997746+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32094190",
+          "target_video_id": "30988468",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:32:28.950878+00:00"
         }
       ],
       "last_plan": {
@@ -148088,7 +148088,7 @@
       "last_plan": {
         "source_id": "33623584",
         "display_name": "list of a Lifetime 1080p CZ Dabing",
-        "planned_at": "2026-11-14T02:45:49.714074+00:00"
+        "planned_at": "2026-11-14T04:32:27.172563+00:00"
       },
       "previous_target_id": "31016148",
       "prepared": {
@@ -148096,6 +148096,12 @@
         "size_bytes": 2100000000,
         "prepared_at": "2026-11-13T16:59:42.814719+00:00",
         "relay_source_id": "33623584"
+      },
+      "claim": {
+        "worker_id": "e6b761004b09404db274ece07b9b21ea-shard-0",
+        "claimed_at": "2026-11-14T04:32:27.983743+00:00",
+        "lease_expires_at": "2026-11-14T10:32:27.983743+00:00",
+        "run_id": "43551382365"
       }
     },
     "32863": {
@@ -150613,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:32:24.649709+00:00"
+        "planned_at": "2026-11-14T04:32:27.512317+00:00"
       }
     },
     "23345": {
@@ -201661,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:32:24.934329+00:00"
+  "updated_at": "2026-11-14T04:32:28.950895+00:00"
 }
