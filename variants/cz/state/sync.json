@@ -152023,17 +152023,19 @@
       }
     },
     "14933": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "30779361",
+          "target_video_id": "31033760",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:20:34.678819+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "30779361",
         "display_name": "Bird Atlas (Atlas ptáků) 1080p CZ Dabing",
         "planned_at": "2026-11-14T16:05:13.405982+00:00"
-      },
-      "claim": {
-        "worker_id": "0d1a3215a41341a5ae7398c22773b3c9-shard-0",
-        "claimed_at": "2026-11-14T16:05:16.053174+00:00",
-        "lease_expires_at": "2026-11-14T22:05:16.053174+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31033760",
       "prepared": {
@@ -202876,5 +202878,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:13:34.774099+00:00"
+  "updated_at": "2026-11-14T16:20:34.678839+00:00"
 }
