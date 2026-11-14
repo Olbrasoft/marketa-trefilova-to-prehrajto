@@ -112030,13 +112030,6 @@
           "source_id": "29959686",
           "target_video_id": "30983837",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:40:13.978814+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29959686",
-          "target_video_id": "30983837",
-          "permanent": false,
           "attempted_at": "2026-11-14T07:13:08.380516+00:00"
         },
         {
@@ -112045,6 +112038,13 @@
           "target_video_id": "30983837",
           "permanent": false,
           "attempted_at": "2026-11-14T08:46:08.020389+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29959686",
+          "target_video_id": "30983837",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:06:52.043653+00:00"
         }
       ],
       "last_plan": {
@@ -112058,12 +112058,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-11-10T14:56:57.300459+00:00",
         "relay_source_id": "29959686"
-      },
-      "claim": {
-        "worker_id": "2997763f052b4163ab1c705273becee3-shard-0",
-        "claimed_at": "2026-11-14T10:06:49.170340+00:00",
-        "lease_expires_at": "2026-11-14T16:06:49.170340+00:00",
-        "run_id": "43570770208"
       }
     },
     "30413": {
@@ -130357,7 +130351,7 @@
       "last_plan": {
         "source_id": "29492673",
         "display_name": "Kina & Yuk (Kina & Yuk : Renards de la banquise) 720p CZ Dabing",
-        "planned_at": "2026-11-14T08:46:09.717866+00:00"
+        "planned_at": "2026-11-14T10:06:50.791907+00:00"
       },
       "previous_target_id": "30986906",
       "prepared": {
@@ -130365,6 +130359,12 @@
         "size_bytes": 2700000000,
         "prepared_at": "2026-11-11T02:37:27.211188+00:00",
         "relay_source_id": "29492673"
+      },
+      "claim": {
+        "worker_id": "a3f7fd5b0a61401fa72d43921dfefa57-shard-0",
+        "claimed_at": "2026-11-14T10:06:51.606921+00:00",
+        "lease_expires_at": "2026-11-14T16:06:51.606921+00:00",
+        "run_id": "43570770208"
       }
     },
     "11196": {
@@ -151155,7 +151155,13 @@
       "last_plan": {
         "source_id": "32369227",
         "display_name": "Angel in a Devil's Body (Anděl s ďáblem v těle) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:06:47.427333+00:00"
+        "planned_at": "2026-11-14T10:06:51.078627+00:00"
+      },
+      "claim": {
+        "worker_id": "83acadf4df054165878901175f992a88-shard-0",
+        "claimed_at": "2026-11-14T10:06:51.842845+00:00",
+        "lease_expires_at": "2026-11-14T16:06:51.842845+00:00",
+        "run_id": "43570770208"
       }
     },
     "33270": {
@@ -151171,7 +151177,12 @@
       "attempts": []
     },
     "3246": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34651309",
+        "display_name": "The Worst Ones (Les Pires) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T10:06:51.261343+00:00"
+      }
     },
     "15170": {
       "attempts": []
@@ -202115,5 +202126,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:06:49.170365+00:00"
+  "updated_at": "2026-11-14T10:06:52.043686+00:00"
 }
