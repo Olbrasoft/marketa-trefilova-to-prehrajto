@@ -152270,17 +152270,19 @@
       }
     },
     "16209": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "33257531",
+          "target_video_id": "31035375",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:25:59.288852+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "33257531",
         "display_name": "Chickenhare and the Secret of the Groundhog 1080p CZ Dabing",
         "planned_at": "2026-11-14T17:18:19.456085+00:00"
-      },
-      "claim": {
-        "worker_id": "b3d82e73ea8b480eaaa834c3269c4c2a-shard-0",
-        "claimed_at": "2026-11-14T17:18:21.619780+00:00",
-        "lease_expires_at": "2026-11-14T23:18:21.619780+00:00",
-        "run_id": "43615202382"
       },
       "previous_target_id": "31035375",
       "prepared": {
@@ -203084,5 +203086,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:25:56.722648+00:00"
+  "updated_at": "2026-11-14T17:25:59.288874+00:00"
 }
