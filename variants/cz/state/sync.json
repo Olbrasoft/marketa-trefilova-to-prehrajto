@@ -93211,13 +93211,6 @@
           "source_id": "34296350",
           "target_video_id": "30942671",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:18:58.371413+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34296350",
-          "target_video_id": "30942671",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:01:56.285845+00:00"
         },
         {
@@ -93226,6 +93219,13 @@
           "target_video_id": "30942671",
           "permanent": false,
           "attempted_at": "2026-11-14T06:36:39.427621+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34296350",
+          "target_video_id": "30942671",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:13:10.207082+00:00"
         }
       ],
       "last_plan": {
@@ -121380,7 +121380,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:36:43.041191+00:00"
+        "planned_at": "2026-11-14T08:13:08.154743+00:00"
       },
       "previous_target_id": "30985082",
       "prepared": {
@@ -121388,6 +121388,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T18:53:09.599430+00:00",
         "relay_source_id": "35117462"
+      },
+      "claim": {
+        "worker_id": "879ba125f84445309b4d0fc5b1dd66e3-shard-0",
+        "claimed_at": "2026-11-14T08:13:08.766909+00:00",
+        "lease_expires_at": "2026-11-14T14:13:08.766909+00:00",
+        "run_id": "43570770208"
       }
     },
     "3085": {
@@ -150880,7 +150886,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:13:06.194144+00:00"
+        "planned_at": "2026-11-14T08:13:08.439719+00:00"
       }
     },
     "7958": {
@@ -201889,5 +201895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:13:06.194162+00:00"
+  "updated_at": "2026-11-14T08:13:10.207101+00:00"
 }
