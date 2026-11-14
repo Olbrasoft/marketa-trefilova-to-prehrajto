@@ -114801,6 +114801,12 @@
         "size_bytes": 1800000000,
         "prepared_at": "2026-11-10T16:02:09.369432+00:00",
         "relay_source_id": "34136697"
+      },
+      "claim": {
+        "worker_id": "6e11c1850c474dd5892572134544139a-shard-0",
+        "claimed_at": "2026-11-14T08:52:47.596293+00:00",
+        "lease_expires_at": "2026-11-14T14:52:47.596293+00:00",
+        "run_id": "43570770208"
       }
     },
     "3090": {
@@ -128282,13 +128288,6 @@
           "source_id": "7124354",
           "target_video_id": "30986644",
           "permanent": false,
-          "attempted_at": "2026-11-14T04:28:39.301222+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "7124354",
-          "target_video_id": "30986644",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:48:15.307988+00:00"
         },
         {
@@ -128297,6 +128296,13 @@
           "target_video_id": "30986644",
           "permanent": false,
           "attempted_at": "2026-11-14T07:26:26.743780+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "7124354",
+          "target_video_id": "30986644",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:52:47.987123+00:00"
         }
       ],
       "last_plan": {
@@ -128310,12 +128316,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-11T01:19:38.682164+00:00",
         "relay_source_id": "7124354"
-      },
-      "claim": {
-        "worker_id": "497cab34d2924adc8a8c2f5855e8f493-shard-0",
-        "claimed_at": "2026-11-14T08:52:45.351477+00:00",
-        "lease_expires_at": "2026-11-14T14:52:45.351477+00:00",
-        "run_id": "43570770208"
       }
     },
     "31459": {
@@ -150922,7 +150922,7 @@
       "last_plan": {
         "source_id": "32756165",
         "display_name": "Healing Waters (O liečivej vode) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:52:43.552447+00:00"
+        "planned_at": "2026-11-14T08:52:47.249597+00:00"
       }
     },
     "12118": {
@@ -201923,5 +201923,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:52:45.565645+00:00"
+  "updated_at": "2026-11-14T08:52:47.987142+00:00"
 }
