@@ -107348,13 +107348,6 @@
           "source_id": "34751129",
           "target_video_id": "30983121",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:55:29.349394+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34751129",
-          "target_video_id": "30983121",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:06:42.058739+00:00"
         },
         {
@@ -107363,6 +107356,13 @@
           "target_video_id": "30983121",
           "permanent": false,
           "attempted_at": "2026-11-14T12:39:18.980472+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34751129",
+          "target_video_id": "30983121",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:57:45.561034+00:00"
         }
       ],
       "last_plan": {
@@ -141796,7 +141796,7 @@
       "last_plan": {
         "source_id": "22069348",
         "display_name": "Prípad pro rybáre (Případ pro rybáře) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T12:39:17.235772+00:00"
+        "planned_at": "2026-11-14T13:57:44.176125+00:00"
       },
       "previous_target_id": "30988344",
       "prepared": {
@@ -141804,6 +141804,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T08:12:54.569713+00:00",
         "relay_source_id": "22069348"
+      },
+      "claim": {
+        "worker_id": "70c2b5a2b23747248459e4e184d5b47d-shard-0",
+        "claimed_at": "2026-11-14T13:57:45.064755+00:00",
+        "lease_expires_at": "2026-11-14T19:57:45.064755+00:00",
+        "run_id": "43589661606"
       }
     },
     "32326": {
@@ -151688,7 +151694,7 @@
       "last_plan": {
         "source_id": "30252318",
         "display_name": "The Brats (Brats) SD CZ Dabing",
-        "planned_at": "2026-11-14T13:57:42.043154+00:00"
+        "planned_at": "2026-11-14T13:57:44.517563+00:00"
       }
     },
     "7476": {
@@ -202569,5 +202575,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:57:42.043175+00:00"
+  "updated_at": "2026-11-14T13:57:45.561054+00:00"
 }
