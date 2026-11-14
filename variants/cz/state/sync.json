@@ -116981,13 +116981,6 @@
           "source_id": "30780126",
           "target_video_id": "30984749",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:59:08.012021+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30780126",
-          "target_video_id": "30984749",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:18:38.428877+00:00"
         },
         {
@@ -116996,12 +116989,19 @@
           "target_video_id": "30984749",
           "permanent": false,
           "attempted_at": "2026-11-14T06:58:04.011558+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30780126",
+          "target_video_id": "30984749",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:26:33.368695+00:00"
         }
       ],
       "last_plan": {
         "source_id": "30780126",
         "display_name": "The 'Burbs SD CZ Dabing",
-        "planned_at": "2026-11-14T06:58:00.962654+00:00"
+        "planned_at": "2026-11-14T08:26:30.927016+00:00"
       },
       "previous_target_id": "30984749",
       "prepared": {
@@ -118533,6 +118533,12 @@
         "size_bytes": 2300000000,
         "prepared_at": "2026-11-10T17:57:42.011415+00:00",
         "relay_source_id": "29278547"
+      },
+      "claim": {
+        "worker_id": "4c852d9b25f441f88c8344e3e67ad9ed-shard-0",
+        "claimed_at": "2026-11-14T08:26:30.621487+00:00",
+        "lease_expires_at": "2026-11-14T14:26:30.621487+00:00",
+        "run_id": "43570770208"
       }
     },
     "12374": {
@@ -150886,7 +150892,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:26:28.437063+00:00"
+        "planned_at": "2026-11-14T08:26:31.215794+00:00"
       }
     },
     "7958": {
@@ -201895,5 +201901,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:26:28.794154+00:00"
+  "updated_at": "2026-11-14T08:26:33.368713+00:00"
 }
