@@ -129388,13 +129388,6 @@
           "source_id": "13254742",
           "target_video_id": "30986777",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:24:41.909225+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13254742",
-          "target_video_id": "30986777",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:38:37.446932+00:00"
         },
         {
@@ -129403,6 +129396,13 @@
           "target_video_id": "30986777",
           "permanent": false,
           "attempted_at": "2026-11-14T02:48:42.925853+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13254742",
+          "target_video_id": "30986777",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:34:44.111917+00:00"
         }
       ],
       "last_plan": {
@@ -136749,7 +136749,7 @@
       "last_plan": {
         "source_id": "34788921",
         "display_name": "Frona SD CZ Dabing",
-        "planned_at": "2026-11-14T02:48:44.678496+00:00"
+        "planned_at": "2026-11-14T04:34:42.672790+00:00"
       },
       "previous_target_id": "30987732",
       "prepared": {
@@ -136757,6 +136757,12 @@
         "size_bytes": 950300000,
         "prepared_at": "2026-11-11T05:50:38.507752+00:00",
         "relay_source_id": "34788921"
+      },
+      "claim": {
+        "worker_id": "6d2793187a434ed7b7e877c956219381-shard-0",
+        "claimed_at": "2026-11-14T04:34:43.484950+00:00",
+        "lease_expires_at": "2026-11-14T10:34:43.484950+00:00",
+        "run_id": "43551382365"
       }
     },
     "32842": {
@@ -150613,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:34:40.241844+00:00"
+        "planned_at": "2026-11-14T04:34:43.007753+00:00"
       }
     },
     "23345": {
@@ -201661,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:34:40.484642+00:00"
+  "updated_at": "2026-11-14T04:34:44.111934+00:00"
 }
