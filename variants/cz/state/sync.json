@@ -119101,6 +119101,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T18:08:51.084340+00:00",
         "relay_source_id": "32937607"
+      },
+      "claim": {
+        "worker_id": "0ee29fb44e734d7ab98d2e615cc4ae38-shard-0",
+        "claimed_at": "2026-11-14T07:09:18.699959+00:00",
+        "lease_expires_at": "2026-11-14T13:09:18.699959+00:00",
+        "run_id": "43551382365"
       }
     },
     "2874": {
@@ -150755,17 +150761,19 @@
       }
     },
     "15508": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34884474",
+          "target_video_id": "31024669",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:09:18.954572+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34884474",
         "display_name": "Watchdog (Tady hlídám já) 1080p CZ Dabing",
         "planned_at": "2026-11-14T06:31:10.017352+00:00"
-      },
-      "claim": {
-        "worker_id": "28efdabd30ef456f8d8fa66de6e53acd-shard-0",
-        "claimed_at": "2026-11-14T06:31:14.694272+00:00",
-        "lease_expires_at": "2026-11-14T12:31:14.694272+00:00",
-        "run_id": "43551382365"
       },
       "previous_target_id": "31024669",
       "prepared": {
@@ -201817,5 +201825,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:09:16.825284+00:00"
+  "updated_at": "2026-11-14T07:09:18.954586+00:00"
 }
