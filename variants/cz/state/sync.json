@@ -119355,13 +119355,6 @@
           "source_id": "35279557",
           "target_video_id": "30984930",
           "permanent": false,
-          "attempted_at": "2026-11-14T05:53:06.878945+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "35279557",
-          "target_video_id": "30984930",
-          "permanent": false,
           "attempted_at": "2026-11-14T07:30:27.971127+00:00"
         },
         {
@@ -119370,6 +119363,13 @@
           "target_video_id": "30984930",
           "permanent": false,
           "attempted_at": "2026-11-14T08:54:58.632300+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "35279557",
+          "target_video_id": "30984930",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:15:39.098363+00:00"
         }
       ],
       "last_plan": {
@@ -133952,7 +133952,7 @@
       "last_plan": {
         "source_id": "26710573",
         "display_name": "Requiem 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:54:58.959794+00:00"
+        "planned_at": "2026-11-14T10:15:37.632156+00:00"
       },
       "previous_target_id": "30987368",
       "prepared": {
@@ -133960,6 +133960,12 @@
         "size_bytes": 4200000000,
         "prepared_at": "2026-11-11T04:26:03.641359+00:00",
         "relay_source_id": "26710573"
+      },
+      "claim": {
+        "worker_id": "be4c4ee847a04ddfab60547e38032bf1-shard-0",
+        "claimed_at": "2026-11-14T10:15:38.309283+00:00",
+        "lease_expires_at": "2026-11-14T16:15:38.309283+00:00",
+        "run_id": "43570770208"
       }
     },
     "32779": {
@@ -151184,7 +151190,7 @@
       "last_plan": {
         "source_id": "34651309",
         "display_name": "The Worst Ones (Les Pires) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:15:35.040609+00:00"
+        "planned_at": "2026-11-14T10:15:37.919505+00:00"
       }
     },
     "15170": {
@@ -202132,5 +202138,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:15:35.317627+00:00"
+  "updated_at": "2026-11-14T10:15:39.098379+00:00"
 }
