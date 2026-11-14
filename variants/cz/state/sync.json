@@ -120403,13 +120403,6 @@
           "source_id": "34285214",
           "target_video_id": "30985011",
           "permanent": false,
-          "attempted_at": "2026-11-14T07:00:01.029175+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34285214",
-          "target_video_id": "30985011",
-          "permanent": false,
           "attempted_at": "2026-11-14T08:28:11.562211+00:00"
         },
         {
@@ -120418,6 +120411,13 @@
           "target_video_id": "30985011",
           "permanent": false,
           "attempted_at": "2026-11-14T09:51:41.297041+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34285214",
+          "target_video_id": "30985011",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:01:24.293355+00:00"
         }
       ],
       "last_plan": {
@@ -121603,7 +121603,7 @@
       "last_plan": {
         "source_id": "34874346",
         "display_name": "Night Train to Lisbon SD CZ Dabing",
-        "planned_at": "2026-11-14T09:51:48.442273+00:00"
+        "planned_at": "2026-11-14T11:01:22.622428+00:00"
       },
       "previous_target_id": "30985387",
       "prepared": {
@@ -121611,6 +121611,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T19:01:52.904730+00:00",
         "relay_source_id": "34874346"
+      },
+      "claim": {
+        "worker_id": "c03041b246824f1fbd65a0bb5de978e9-shard-0",
+        "claimed_at": "2026-11-14T11:01:23.290598+00:00",
+        "lease_expires_at": "2026-11-14T17:01:23.290598+00:00",
+        "run_id": "43570770208"
       }
     },
     "20991": {
@@ -151312,7 +151318,7 @@
       "last_plan": {
         "source_id": "27461299",
         "display_name": "Cartagena (L'homme de chevet) SD CZ Dabing",
-        "planned_at": "2026-11-14T11:01:20.669773+00:00"
+        "planned_at": "2026-11-14T11:01:22.904198+00:00"
       }
     },
     "4290": {
@@ -202248,5 +202254,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:01:20.669792+00:00"
+  "updated_at": "2026-11-14T11:01:24.293374+00:00"
 }
