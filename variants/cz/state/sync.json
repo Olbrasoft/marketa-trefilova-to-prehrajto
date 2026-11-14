@@ -117567,13 +117567,6 @@
           "source_id": "34062310",
           "target_video_id": "30984806",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:26:32.375265+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34062310",
-          "target_video_id": "30984806",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:39:54.779353+00:00"
         },
         {
@@ -117582,6 +117575,13 @@
           "target_video_id": "30984806",
           "permanent": false,
           "attempted_at": "2026-11-14T02:50:19.967287+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34062310",
+          "target_video_id": "30984806",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:36:01.838427+00:00"
         }
       ],
       "last_plan": {
@@ -132714,7 +132714,7 @@
       "last_plan": {
         "source_id": "31648494",
         "display_name": "Městečko na dlani 720p CZ Dabing",
-        "planned_at": "2026-11-14T02:50:21.639367+00:00"
+        "planned_at": "2026-11-14T04:36:00.228961+00:00"
       },
       "previous_target_id": "30987174",
       "prepared": {
@@ -132722,6 +132722,12 @@
         "size_bytes": 4099999999,
         "prepared_at": "2026-11-11T03:51:55.158487+00:00",
         "relay_source_id": "31648494"
+      },
+      "claim": {
+        "worker_id": "fea9510d40bf455586c9c622d08a2aec-shard-0",
+        "claimed_at": "2026-11-14T04:36:01.043396+00:00",
+        "lease_expires_at": "2026-11-14T10:36:01.043396+00:00",
+        "run_id": "43551382365"
       }
     },
     "24072": {
@@ -150613,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:35:58.021467+00:00"
+        "planned_at": "2026-11-14T04:36:00.570244+00:00"
       }
     },
     "23345": {
@@ -201661,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:35:58.021483+00:00"
+  "updated_at": "2026-11-14T04:36:01.838443+00:00"
 }
