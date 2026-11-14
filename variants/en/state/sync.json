@@ -41905,17 +41905,19 @@
       "attempts": []
     },
     "36988": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "34455088",
+          "target_video_id": "31029095",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:36:55.507501+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "34455088",
         "display_name": "Wisdom of Happiness 1080p CZ Titulky",
         "planned_at": "2026-11-14T12:13:35.393429+00:00"
-      },
-      "claim": {
-        "worker_id": "5cb421d0af2941ada10022523d1726f6-shard-0",
-        "claimed_at": "2026-11-14T12:13:35.657616+00:00",
-        "lease_expires_at": "2026-11-14T18:13:35.657616+00:00",
-        "run_id": "43589661606"
       },
       "previous_target_id": "31029095",
       "prepared": {
@@ -99973,5 +99975,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:36:52.101873+00:00"
+  "updated_at": "2026-11-14T12:36:55.507558+00:00"
 }
