@@ -115840,13 +115840,6 @@
           "source_id": "29252925",
           "target_video_id": "30984641",
           "permanent": false,
-          "attempted_at": "2026-11-14T10:19:47.096866+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "29252925",
-          "target_video_id": "30984641",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:31:39.158038+00:00"
         },
         {
@@ -115855,12 +115848,19 @@
           "target_video_id": "30984641",
           "permanent": false,
           "attempted_at": "2026-11-14T13:06:02.986736+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "29252925",
+          "target_video_id": "30984641",
+          "permanent": false,
+          "attempted_at": "2026-11-14T14:25:50.246411+00:00"
         }
       ],
       "last_plan": {
         "source_id": "29252925",
         "display_name": "Serendipity 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:06:00.772575+00:00"
+        "planned_at": "2026-11-14T14:25:47.642628+00:00"
       },
       "previous_target_id": "30984641",
       "prepared": {
@@ -151823,14 +151823,25 @@
       "last_plan": {
         "source_id": "28966579",
         "display_name": "Marocco 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:25:39.841813+00:00"
+        "planned_at": "2026-11-14T14:25:47.997205+00:00"
+      },
+      "claim": {
+        "worker_id": "f4dc5e76b62540f189775ba189eafb74-shard-0",
+        "claimed_at": "2026-11-14T14:25:48.636025+00:00",
+        "lease_expires_at": "2026-11-14T20:25:48.636025+00:00",
+        "run_id": "43589661606"
       }
     },
     "35459": {
       "attempts": []
     },
     "15858": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "28419372",
+        "display_name": "The Shadowless Tower (白塔之光) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T14:25:48.211363+00:00"
+      }
     },
     "16695": {
       "attempts": []
@@ -202675,5 +202686,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:25:43.693101+00:00"
+  "updated_at": "2026-11-14T14:25:50.246431+00:00"
 }
