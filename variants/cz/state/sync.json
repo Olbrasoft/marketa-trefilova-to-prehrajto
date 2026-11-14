@@ -115042,13 +115042,6 @@
           "source_id": "30903286",
           "target_video_id": "30984508",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:36:20.154173+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "30903286",
-          "target_video_id": "30984508",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:46:20.142021+00:00"
         },
         {
@@ -115057,6 +115050,13 @@
           "target_video_id": "30984508",
           "permanent": false,
           "attempted_at": "2026-11-14T03:04:03.218637+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "30903286",
+          "target_video_id": "30984508",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:42:27.840939+00:00"
         }
       ],
       "last_plan": {
@@ -115070,12 +115070,6 @@
         "size_bytes": 4000000000,
         "prepared_at": "2026-11-10T16:39:01.351241+00:00",
         "relay_source_id": "30903286"
-      },
-      "claim": {
-        "worker_id": "45265b43fafa482abd8dc7e97a8ad675-shard-0",
-        "claimed_at": "2026-11-14T04:42:21.923632+00:00",
-        "lease_expires_at": "2026-11-14T10:42:21.923632+00:00",
-        "run_id": "43551382365"
       }
     },
     "2789": {
@@ -127661,6 +127655,12 @@
         "size_bytes": 2000000000,
         "prepared_at": "2026-11-11T00:40:39.948679+00:00",
         "relay_source_id": "32484287"
+      },
+      "claim": {
+        "worker_id": "1271131f37064bd4a59bd91306144b90-shard-0",
+        "claimed_at": "2026-11-14T04:42:26.482964+00:00",
+        "lease_expires_at": "2026-11-14T10:42:26.482964+00:00",
+        "run_id": "43551382365"
       }
     },
     "16080": {
@@ -140841,7 +140841,7 @@
       "last_plan": {
         "source_id": "34720000",
         "display_name": "Hasici (Hasiči) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:04:08.769205+00:00"
+        "planned_at": "2026-11-14T04:42:27.170098+00:00"
       },
       "previous_target_id": "30988159",
       "prepared": {
@@ -150619,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:42:22.548722+00:00"
+        "planned_at": "2026-11-14T04:42:27.509683+00:00"
       }
     },
     "23345": {
@@ -201667,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:42:22.999227+00:00"
+  "updated_at": "2026-11-14T04:42:27.840957+00:00"
 }
