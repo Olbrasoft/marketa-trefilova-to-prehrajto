@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-14T11:06:23.061046+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:36:30.580089+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-14T12:16:36.134282+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-14T12:46:56.155624+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "33a5bcc3644b46d7bb0782ec34ca91f5-shard-0",
-        "claimed_at": "2026-11-14T12:46:51.108697+00:00",
-        "lease_expires_at": "2026-11-14T18:46:51.108697+00:00",
-        "run_id": "43589661606"
       }
     },
     "21690": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-14T12:16:32.866450+00:00"
+        "planned_at": "2026-11-14T12:46:54.201446+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "8c7008320eb547a2b11cd122cfb479b9-shard-0",
+        "claimed_at": "2026-11-14T12:46:54.488604+00:00",
+        "lease_expires_at": "2026-11-14T18:46:54.488604+00:00",
+        "run_id": "43589661606"
       }
     },
     "31551": {
@@ -99994,5 +99994,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T12:46:51.292964+00:00"
+  "updated_at": "2026-11-14T12:46:56.155645+00:00"
 }
