@@ -113414,13 +113414,6 @@
           "source_id": "33199372",
           "target_video_id": "30984053",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:58:11.912254+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "33199372",
-          "target_video_id": "30984053",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:17:26.069869+00:00"
         },
         {
@@ -113429,6 +113422,13 @@
           "target_video_id": "30984053",
           "permanent": false,
           "attempted_at": "2026-11-14T06:57:07.168843+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "33199372",
+          "target_video_id": "30984053",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:25:54.051655+00:00"
         }
       ],
       "last_plan": {
@@ -127373,7 +127373,7 @@
       "last_plan": {
         "source_id": "26168894",
         "display_name": "Victim/Suspect 1080p CZ Dabing",
-        "planned_at": "2026-11-14T06:57:05.633758+00:00"
+        "planned_at": "2026-11-14T08:25:52.645072+00:00"
       },
       "previous_target_id": "30986421",
       "prepared": {
@@ -127381,6 +127381,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T00:25:57.856645+00:00",
         "relay_source_id": "26168894"
+      },
+      "claim": {
+        "worker_id": "1857e936e3b94d84a9af89af89b89656-shard-0",
+        "claimed_at": "2026-11-14T08:25:53.278453+00:00",
+        "lease_expires_at": "2026-11-14T14:25:53.278453+00:00",
+        "run_id": "43570770208"
       }
     },
     "16562": {
@@ -150886,7 +150892,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:25:50.443878+00:00"
+        "planned_at": "2026-11-14T08:25:52.926162+00:00"
       }
     },
     "7958": {
@@ -201895,5 +201901,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:25:50.677395+00:00"
+  "updated_at": "2026-11-14T08:25:54.051683+00:00"
 }
