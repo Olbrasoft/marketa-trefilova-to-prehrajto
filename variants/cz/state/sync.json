@@ -42912,13 +42912,6 @@
           "source_id": "34357032",
           "target_video_id": "30755710",
           "permanent": false,
-          "attempted_at": "2026-11-14T06:18:28.631848+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34357032",
-          "target_video_id": "30755710",
-          "permanent": false,
           "attempted_at": "2026-11-14T07:48:28.902977+00:00"
         },
         {
@@ -42927,6 +42920,13 @@
           "target_video_id": "30755710",
           "permanent": false,
           "attempted_at": "2026-11-14T09:18:59.696874+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34357032",
+          "target_video_id": "30755710",
+          "permanent": false,
+          "attempted_at": "2026-11-14T10:30:32.861203+00:00"
         }
       ],
       "last_plan": {
@@ -42940,12 +42940,6 @@
         "size_bytes": 31200000000,
         "prepared_at": "2026-11-03T07:52:26.317997+00:00",
         "relay_source_id": "34357032"
-      },
-      "claim": {
-        "worker_id": "0892d8abfd9b44c28b4ff7f291db53ba-shard-0",
-        "claimed_at": "2026-11-14T10:30:25.930934+00:00",
-        "lease_expires_at": "2026-11-14T16:30:25.930934+00:00",
-        "run_id": "43570770208"
       }
     },
     "1395": {
@@ -43239,7 +43233,7 @@
       "last_plan": {
         "source_id": "34146117",
         "display_name": "Labyrinth 4K CZ Dabing",
-        "planned_at": "2026-11-14T09:18:59.944617+00:00"
+        "planned_at": "2026-11-14T10:30:31.143946+00:00"
       },
       "previous_target_id": "30756113",
       "prepared": {
@@ -43247,6 +43241,12 @@
         "size_bytes": 4900000000,
         "prepared_at": "2026-11-03T08:20:54.807935+00:00",
         "relay_source_id": "34146117"
+      },
+      "claim": {
+        "worker_id": "769f0e51de47456dab46a8ca9968c399-shard-0",
+        "claimed_at": "2026-11-14T10:30:32.633293+00:00",
+        "lease_expires_at": "2026-11-14T16:30:32.633293+00:00",
+        "run_id": "43570770208"
       }
     },
     "20525": {
@@ -151196,7 +151196,7 @@
       "last_plan": {
         "source_id": "34651309",
         "display_name": "The Worst Ones (Les Pires) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T10:30:25.448425+00:00"
+        "planned_at": "2026-11-14T10:30:31.646192+00:00"
       }
     },
     "15170": {
@@ -202144,5 +202144,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:30:26.615378+00:00"
+  "updated_at": "2026-11-14T10:30:32.861225+00:00"
 }
