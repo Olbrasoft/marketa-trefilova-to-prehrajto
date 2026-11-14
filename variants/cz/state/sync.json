@@ -109566,13 +109566,6 @@
           "source_id": "9978707",
           "target_video_id": "30983670",
           "permanent": false,
-          "attempted_at": "2026-11-14T11:25:43.494225+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "9978707",
-          "target_video_id": "30983670",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:00:01.655987+00:00"
         },
         {
@@ -109581,6 +109574,13 @@
           "target_video_id": "30983670",
           "permanent": false,
           "attempted_at": "2026-11-14T14:18:55.768756+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "9978707",
+          "target_video_id": "30983670",
+          "permanent": false,
+          "attempted_at": "2026-11-14T15:35:08.250164+00:00"
         }
       ],
       "last_plan": {
@@ -114399,7 +114399,7 @@
       "last_plan": {
         "source_id": "14570962",
         "display_name": "Unknown (2011) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:18:55.076225+00:00"
+        "planned_at": "2026-11-14T15:35:06.297449+00:00"
       },
       "previous_target_id": "30984139",
       "prepared": {
@@ -114407,6 +114407,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:32:31.278133+00:00",
         "relay_source_id": "14570962"
+      },
+      "claim": {
+        "worker_id": "b2cc60b7043145b79da772ac3d721e79-shard-0",
+        "claimed_at": "2026-11-14T15:35:07.144683+00:00",
+        "lease_expires_at": "2026-11-14T21:35:07.144683+00:00",
+        "run_id": "43589661606"
       }
     },
     "3152": {
@@ -151937,7 +151943,7 @@
       "last_plan": {
         "source_id": "34908684",
         "display_name": "What a Feeling 1080p CZ Dabing",
-        "planned_at": "2026-11-14T15:35:03.804547+00:00"
+        "planned_at": "2026-11-14T15:35:06.635372+00:00"
       }
     },
     "24179": {
@@ -202777,5 +202783,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:35:04.080417+00:00"
+  "updated_at": "2026-11-14T15:35:08.250186+00:00"
 }
