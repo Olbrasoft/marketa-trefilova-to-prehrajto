@@ -108503,13 +108503,6 @@
           "source_id": "32364584",
           "target_video_id": "30983562",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:25:16.733480+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32364584",
-          "target_video_id": "30983562",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:41:22.475025+00:00"
         },
         {
@@ -108518,12 +108511,19 @@
           "target_video_id": "30983562",
           "permanent": false,
           "attempted_at": "2026-11-14T15:00:08.676023+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32364584",
+          "target_video_id": "30983562",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:25:14.645313+00:00"
         }
       ],
       "last_plan": {
         "source_id": "32364584",
         "display_name": "Sestřičky 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:59:59.896002+00:00"
+        "planned_at": "2026-11-14T16:25:11.645379+00:00"
       },
       "previous_target_id": "30983562",
       "prepared": {
@@ -152053,7 +152053,13 @@
       "last_plan": {
         "source_id": "35428520",
         "display_name": "The Mysteries of Gallant Wood (Les Mystères du Bois Galant) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:13:30.736164+00:00"
+        "planned_at": "2026-11-14T16:25:11.984286+00:00"
+      },
+      "claim": {
+        "worker_id": "efc2c75249ef4e8891132f115a114fc9-shard-0",
+        "claimed_at": "2026-11-14T16:25:13.187479+00:00",
+        "lease_expires_at": "2026-11-14T22:25:13.187479+00:00",
+        "run_id": "43615202382"
       }
     },
     "14283": {
@@ -152066,10 +152072,20 @@
       "attempts": []
     },
     "14226": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30589281",
+        "display_name": "The Attachment Diaries (El apego) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T16:25:12.188193+00:00"
+      }
     },
     "12455": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30178947",
+        "display_name": "A Girl Fit to Be Killed (Holka na zabití) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T16:25:12.389732+00:00"
+      }
     },
     "5085": {
       "attempts": []
@@ -202878,5 +202894,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:20:34.678839+00:00"
+  "updated_at": "2026-11-14T16:25:14.645326+00:00"
 }
