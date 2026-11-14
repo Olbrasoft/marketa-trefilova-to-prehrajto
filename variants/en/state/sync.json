@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-14T01:01:58.979111+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:32:07.211694+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-14T02:02:15.597950+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-14T02:32:20.861191+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "6e1025caa1474ad59dd591b540c56015-shard-0",
-        "claimed_at": "2026-11-14T02:32:16.301707+00:00",
-        "lease_expires_at": "2026-11-14T08:32:16.301707+00:00",
-        "run_id": "43526557198"
       }
     },
     "21690": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-14T02:02:11.147462+00:00"
+        "planned_at": "2026-11-14T02:32:18.946551+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "16df900fcbaf45d5b2717539548ee76a-shard-0",
+        "claimed_at": "2026-11-14T02:32:19.272371+00:00",
+        "lease_expires_at": "2026-11-14T08:32:19.272371+00:00",
+        "run_id": "43526557198"
       }
     },
     "31551": {
@@ -41114,7 +41114,7 @@
       "last_plan": {
         "source_id": "32453965",
         "display_name": "The Age of Disclosure 4K CZ Titulky",
-        "planned_at": "2026-11-14T02:32:16.196824+00:00"
+        "planned_at": "2026-11-14T02:32:19.161647+00:00"
       }
     },
     "25167": {
@@ -99733,5 +99733,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T02:32:16.462217+00:00"
+  "updated_at": "2026-11-14T02:32:20.861207+00:00"
 }
