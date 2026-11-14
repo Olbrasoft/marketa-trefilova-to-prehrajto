@@ -12818,13 +12818,6 @@
           "source_id": "34846817",
           "target_video_id": "30649962",
           "permanent": false,
-          "attempted_at": "2026-11-14T02:59:02.691389+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34846817",
-          "target_video_id": "30649962",
-          "permanent": false,
           "attempted_at": "2026-11-14T04:41:22.120139+00:00"
         },
         {
@@ -12833,6 +12826,13 @@
           "target_video_id": "30649962",
           "permanent": false,
           "attempted_at": "2026-11-14T06:08:34.204537+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34846817",
+          "target_video_id": "30649962",
+          "permanent": false,
+          "attempted_at": "2026-11-14T07:41:23.651798+00:00"
         }
       ],
       "last_plan": {
@@ -143969,7 +143969,7 @@
       "last_plan": {
         "source_id": "7239474",
         "display_name": "Bílá spona SD CZ Dabing",
-        "planned_at": "2026-11-14T06:08:36.417757+00:00"
+        "planned_at": "2026-11-14T07:41:21.263855+00:00"
       },
       "previous_target_id": "30988750",
       "prepared": {
@@ -143977,6 +143977,12 @@
         "size_bytes": 756000000,
         "prepared_at": "2026-11-11T09:48:19.543124+00:00",
         "relay_source_id": "7239474"
+      },
+      "claim": {
+        "worker_id": "b4b9da60fd9e4f739d91e9a3bd8ce673-shard-0",
+        "claimed_at": "2026-11-14T07:41:22.298850+00:00",
+        "lease_expires_at": "2026-11-14T13:41:22.298850+00:00",
+        "run_id": "43551382365"
       }
     },
     "17569": {
@@ -150878,7 +150884,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T07:41:18.391564+00:00"
+        "planned_at": "2026-11-14T07:41:21.763956+00:00"
       }
     },
     "7958": {
@@ -201877,5 +201883,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T07:41:18.391579+00:00"
+  "updated_at": "2026-11-14T07:41:23.651813+00:00"
 }
