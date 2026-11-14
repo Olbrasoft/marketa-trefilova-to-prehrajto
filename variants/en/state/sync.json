@@ -34024,13 +34024,6 @@
           "source_id": "13368212",
           "target_video_id": "30984580",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:33:55.722491+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "13368212",
-          "target_video_id": "30984580",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:03:59.734917+00:00"
         },
         {
@@ -34039,6 +34032,13 @@
           "target_video_id": "30984580",
           "permanent": false,
           "attempted_at": "2026-11-14T10:34:04.690553+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "13368212",
+          "target_video_id": "30984580",
+          "permanent": false,
+          "attempted_at": "2026-11-14T11:04:13.069835+00:00"
         }
       ],
       "last_plan": {
@@ -34339,7 +34339,7 @@
       "last_plan": {
         "source_id": "14916136",
         "display_name": "Rose Island (L'incredibile storia dell'Isola delle Rose) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T10:34:05.346116+00:00"
+        "planned_at": "2026-11-14T11:04:12.183277+00:00"
       },
       "previous_target_id": "30985967",
       "prepared": {
@@ -34347,6 +34347,12 @@
         "size_bytes": 4300000000,
         "prepared_at": "2026-11-10T22:49:51.363741+00:00",
         "relay_source_id": "14916136"
+      },
+      "claim": {
+        "worker_id": "00ef47f388234cf992759fb92c207603-shard-0",
+        "claimed_at": "2026-11-14T11:04:12.412172+00:00",
+        "lease_expires_at": "2026-11-14T17:04:12.412172+00:00",
+        "run_id": "43570770208"
       }
     },
     "32603": {
@@ -99950,5 +99956,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T11:04:09.169744+00:00"
+  "updated_at": "2026-11-14T11:04:13.069855+00:00"
 }
