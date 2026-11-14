@@ -130823,13 +130823,6 @@
           "source_id": "32354652",
           "target_video_id": "30986950",
           "permanent": false,
-          "attempted_at": "2026-11-13T23:36:05.789037+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32354652",
-          "target_video_id": "30986950",
-          "permanent": false,
           "attempted_at": "2026-11-14T00:50:34.451626+00:00"
         },
         {
@@ -130838,6 +130831,13 @@
           "target_video_id": "30986950",
           "permanent": false,
           "attempted_at": "2026-11-14T01:58:20.398025+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32354652",
+          "target_video_id": "30986950",
+          "permanent": false,
+          "attempted_at": "2026-11-14T03:16:18.349099+00:00"
         }
       ],
       "last_plan": {
@@ -135533,7 +135533,7 @@
       "last_plan": {
         "source_id": "31513493",
         "display_name": "The Reluctant Grandfather (Dědečkem proti své vůli) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T01:58:18.790948+00:00"
+        "planned_at": "2026-11-14T03:16:16.706858+00:00"
       },
       "previous_target_id": "30987592",
       "prepared": {
@@ -135541,6 +135541,12 @@
         "size_bytes": 4600000000,
         "prepared_at": "2026-11-11T05:20:57.958996+00:00",
         "relay_source_id": "31513493"
+      },
+      "claim": {
+        "worker_id": "eb978dac6e8142519ad007a72b33ea60-shard-0",
+        "claimed_at": "2026-11-14T03:16:17.504604+00:00",
+        "lease_expires_at": "2026-11-14T09:16:17.504604+00:00",
+        "run_id": "43526557198"
       }
     },
     "12690": {
@@ -150570,7 +150576,7 @@
       "last_plan": {
         "source_id": "33810870",
         "display_name": "Three Lives (Tři životy) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:16:14.374498+00:00"
+        "planned_at": "2026-11-14T03:16:17.050956+00:00"
       }
     },
     "24093": {
@@ -201608,5 +201614,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T03:16:14.639477+00:00"
+  "updated_at": "2026-11-14T03:16:18.349120+00:00"
 }
