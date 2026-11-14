@@ -2090,13 +2090,6 @@
           "source_id": "32311338",
           "target_video_id": "30602237",
           "permanent": false,
-          "attempted_at": "2026-11-14T16:28:10.940617+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32311338",
-          "target_video_id": "30602237",
-          "permanent": false,
           "attempted_at": "2026-11-14T16:58:20.400861+00:00"
         },
         {
@@ -2105,6 +2098,13 @@
           "target_video_id": "30602237",
           "permanent": false,
           "attempted_at": "2026-11-14T17:28:52.118279+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32311338",
+          "target_video_id": "30602237",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:58:59.688958+00:00"
         }
       ],
       "last_plan": {
@@ -2118,12 +2118,6 @@
         "size_bytes": 3400000000,
         "prepared_at": "2026-10-29T03:25:21.372728+00:00",
         "relay_source_id": "32311338"
-      },
-      "claim": {
-        "worker_id": "f1dccd6bb6e84f18b49a71ab739067a2-shard-0",
-        "claimed_at": "2026-11-14T17:58:55.220779+00:00",
-        "lease_expires_at": "2026-11-14T23:58:55.220779+00:00",
-        "run_id": "43615202382"
       }
     },
     "21690": {
@@ -3199,7 +3193,7 @@
       "last_plan": {
         "source_id": "29080724",
         "display_name": "Yojimbo (用心棒) 1080p",
-        "planned_at": "2026-11-14T17:28:47.919025+00:00"
+        "planned_at": "2026-11-14T17:58:58.226590+00:00"
       },
       "previous_target_id": "30612474",
       "prepared": {
@@ -3207,6 +3201,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-10-29T14:46:04.678955+00:00",
         "relay_source_id": "29080724"
+      },
+      "claim": {
+        "worker_id": "1436626b58a045b797e96094d5b5d975-shard-0",
+        "claimed_at": "2026-11-14T17:58:58.640977+00:00",
+        "lease_expires_at": "2026-11-14T23:58:58.640977+00:00",
+        "run_id": "43615202382"
       }
     },
     "31551": {
@@ -42351,7 +42351,7 @@
       "last_plan": {
         "source_id": "33109570",
         "display_name": "A Stitch in Time SD CZ Titulky",
-        "planned_at": "2026-11-14T17:58:55.109540+00:00"
+        "planned_at": "2026-11-14T17:58:58.463328+00:00"
       }
     },
     "25021": {
@@ -100076,5 +100076,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:58:55.408789+00:00"
+  "updated_at": "2026-11-14T17:58:59.688976+00:00"
 }
