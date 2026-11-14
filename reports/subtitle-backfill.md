@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T08:02:36.206381+00:00
+Poslední aktualizace (UTC): 2026-11-14T08:02:38.055205+00:00
 
 Zkontrolováno videí: 727. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 151, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 152, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -153,6 +153,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 162. Důvo
 | [Queen of Hearts (Dronningen) 1080p CZ Titulky](https://prehraj.to/queen-of-hearts-dronningen-1080p-cz-titulky-mkv/add428a7f119488e) (ID 30987463) | [Sdílej 16607977](https://sdilej.cz/16607977/srdcova-kralovna-1080p-5.1dan-cz-titulky-2019.mkv) | target_unavailable | 2026-11-11T04:55:10.264786+00:00 |
 | [Rent 1080p CZ Titulky](https://prehraj.to/rent-1080p-cz-titulky-mkv/ed2162beee69f685) (ID 31007976) | [Sdílej 22944190](https://sdilej.cz/22944190/bohemove-2005-cz-titulky.mkv) | target_unavailable | 2026-11-13T01:42:54.375952+00:00 |
 | [Rental Family 1080p CZ Titulky](https://prehraj.to/rental-family-1080p-cz-titulky-mp4/a1a16ac5b338c17c) (ID 30699789) | [Sdílej 33092843](https://sdilej.cz/33092843/rental-family-2025-cz-titulky.mp4) | upload_unconfirmed | 2026-11-10T09:41:43.782147+00:00 |
+| [René 1080p CZ Titulky](https://prehraj.to/rene-1080p-cz-titulky-mkv/5a9f54c8abee0cc4) (ID 31025310) | [Sdílej 30660141](https://sdilej.cz/30660141/puls-3-invaze-hraji-rider-strong-brittany-renee-finamore-2008-cz-dab-leg.mkv) | target_unavailable | 2026-11-14T08:02:38.054935+00:00 |
 | [Requiem for a Dream 1080p CZ Titulky](https://prehraj.to/requiem-for-a-dream-1080p-cz-titulky-mkv/c63b14022d43238e) (ID 30676098) | [Sdílej 22817696](https://sdilej.cz/22817696/requiem-for-a-dream-2000-bdrip-1080p-hevc-en-cz-commentary.mkv) | target_unavailable | 2026-11-10T09:41:20.258373+00:00 |
 | [Responsible Child 1080p CZ Titulky](https://prehraj.to/responsible-child-1080p-cz-titulky-mkv/c129d501c494c306) (ID 30995865) | [Sdílej 18700045](https://sdilej.cz/18700045/responsible.child.2019.1080p.webrip.titulky-cz.mkv) | target_unavailable | 2026-11-12T00:18:47.978736+00:00 |
 | [Return of the Idiot (Návrat idiota) 1080p CZ Titulky](https://prehraj.to/return-of-the-idiot-navrat-idiota-1080p-cz-titulky-mkv/5d66cde734ee8ceb) (ID 30997077) | [Sdílej 32263750](https://sdilej.cz/32263750/navrat-idiota-1999-fhd-cz.mkv) | target_unavailable | 2026-11-12T02:32:15.886113+00:00 |
