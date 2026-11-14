@@ -131666,13 +131666,6 @@
           "source_id": "24028358",
           "target_video_id": "30987024",
           "permanent": false,
-          "attempted_at": "2026-11-14T09:20:34.667271+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "24028358",
-          "target_video_id": "30987024",
-          "permanent": false,
           "attempted_at": "2026-11-14T10:32:07.829457+00:00"
         },
         {
@@ -131681,6 +131674,13 @@
           "target_video_id": "30987024",
           "permanent": false,
           "attempted_at": "2026-11-14T11:51:07.351737+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "24028358",
+          "target_video_id": "30987024",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:25:07.482632+00:00"
         }
       ],
       "last_plan": {
@@ -141053,7 +141053,7 @@
       "last_plan": {
         "source_id": "34710797",
         "display_name": "Pohádka o splněných přáních 1080p CZ Dabing",
-        "planned_at": "2026-11-14T11:51:10.607057+00:00"
+        "planned_at": "2026-11-14T13:25:05.843161+00:00"
       },
       "previous_target_id": "30988191",
       "prepared": {
@@ -141061,6 +141061,12 @@
         "size_bytes": 1600000000,
         "prepared_at": "2026-11-11T07:48:42.910555+00:00",
         "relay_source_id": "34710797"
+      },
+      "claim": {
+        "worker_id": "bdefe6d2864448ebb2fc14f38e94224d-shard-0",
+        "claimed_at": "2026-11-14T13:25:06.658807+00:00",
+        "lease_expires_at": "2026-11-14T19:25:06.658807+00:00",
+        "run_id": "43589661606"
       }
     },
     "15778": {
@@ -151636,7 +151642,7 @@
       "last_plan": {
         "source_id": "11178300",
         "display_name": "My Giraffe (Dikkertje Dap) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T13:25:03.398746+00:00"
+        "planned_at": "2026-11-14T13:25:06.191573+00:00"
       }
     },
     "4915": {
@@ -202518,5 +202524,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:25:03.663197+00:00"
+  "updated_at": "2026-11-14T13:25:07.482654+00:00"
 }
