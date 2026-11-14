@@ -1,12 +1,12 @@
 # Doplňování českých titulků
 
-Poslední aktualizace (UTC): 2026-11-14T12:14:12.164683+00:00
+Poslední aktualizace (UTC): 2026-11-14T12:14:15.105996+00:00
 
 Zkontrolováno videí: 729. Další stránka kontroly: 0.
 
 Pouze titulky z původního zdroje. Bez překladu, generování, OCR, jiných vydání filmu a mazání existujících titulků.
 
-Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 3, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 153, `upload_unconfirmed`: 6
+Stavy: `already_has_czech`: 504, `attached_verified`: 18, `burned_in_czech_verified`: 1, `existing_tracks_uncertain`: 9, `pending`: 2, `source_czech_full_text_unsupported`: 17, `source_czech_text_missing`: 14, `source_unavailable`: 2, `subtitle_invalid_timing`: 1, `target_detail_url_missing`: 1, `target_unavailable`: 154, `upload_unconfirmed`: 6
 
 ## Poslední dávka
 
@@ -222,6 +222,7 @@ Kontrol: 1; odesláno: 0; potvrzeno: 0; zbývá k prověření nyní: 164. Důvo
 | [Welcome to the Rileys 1080p CZ Titulky](https://prehraj.to/welcome-to-the-rileys-1080p-cz-titulky-mkv/db70ad58153e767b) (ID 31012333) | [Sdílej 31162122](https://sdilej.cz/31162122/2010-welcome-to-the-rileys-svet-podla-mallory-mo-1080p-en-cztit.mkv) | target_unavailable | 2026-11-13T12:22:20.161759+00:00 |
 | [Western 1080p CZ Titulky](https://prehraj.to/western-1080p-cz-titulky-mkv/c495ad858b44d774) (ID 30996177) | [Sdílej 19486059](https://sdilej.cz/19486059/hostiles-2017-western-hd-cz-dab-lum.mkv) | target_unavailable | 2026-11-12T00:58:51.372099+00:00 |
 | [When Evil Lurks (Cuando acecha la maldad) 1080p CZ Titulky](https://prehraj.to/when-evil-lurks-cuando-acecha-la-maldad-1080p-cz-titulky-mkv/ed964c363b3daa75) (ID 31007827) | [Sdílej 27144377](https://sdilej.cz/27144377/when-evil-lurks-webrip-es-titulky-cz-2023.mkv) | target_unavailable | 2026-11-13T01:22:49.208781+00:00 |
+| [Wisdom of Happiness 1080p CZ Titulky](https://prehraj.to/wisdom-of-happiness-1080p-cz-titulky-mkv/03c6d43c9cceda93) (ID 31029095) | [Sdílej 34455088](https://sdilej.cz/34455088/wisdom-of-happiness-2024-1080p-cz.tit.mkv) | target_unavailable | 2026-11-14T12:14:13.778843+00:00 |
 | [Wonka 4K CZ Titulky](https://prehraj.to/wonka-4k-cz-titulky-mkv/c950b0351472ba1b) (ID 31005086) | [Sdílej 27822278](https://sdilej.cz/27822278/wonka-2023-cztit-v-obraze-2160p.mkv) | target_unavailable | 2026-11-12T19:08:32.956002+00:00 |
 | [Your Name (Kimi no na wa.) 1080p CZ Titulky](https://prehraj.to/your-name-kimi-no-na-wa-cz-titulky-mkv/5008a4b452be6fa9) (ID 30595306) | [Sdílej 35309289](https://sdilej.cz/35309289/kimi.no.na.wa.2016.cz.titulky.mkv) | upload_unconfirmed | 2026-11-10T09:40:32.233547+00:00 |
 
