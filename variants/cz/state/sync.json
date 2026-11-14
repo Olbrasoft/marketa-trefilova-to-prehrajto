@@ -113541,13 +113541,6 @@
           "source_id": "32044029",
           "target_video_id": "30984062",
           "permanent": false,
-          "attempted_at": "2026-11-14T04:00:14.141305+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "32044029",
-          "target_video_id": "30984062",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:19:51.152101+00:00"
         },
         {
@@ -113556,6 +113549,13 @@
           "target_video_id": "30984062",
           "permanent": false,
           "attempted_at": "2026-11-14T06:59:07.977014+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "32044029",
+          "target_video_id": "30984062",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:27:25.655003+00:00"
         }
       ],
       "last_plan": {
@@ -113569,12 +113569,6 @@
         "size_bytes": 5900000000,
         "prepared_at": "2026-11-10T15:22:29.295795+00:00",
         "relay_source_id": "32044029"
-      },
-      "claim": {
-        "worker_id": "31aec4638fd24cd7ac201194b4d0a180-shard-0",
-        "claimed_at": "2026-11-14T08:27:22.503692+00:00",
-        "lease_expires_at": "2026-11-14T14:27:22.503692+00:00",
-        "run_id": "43570770208"
       }
     },
     "2992": {
@@ -132083,7 +132077,7 @@
       "last_plan": {
         "source_id": "35080468",
         "display_name": "Polská krev SD CZ Dabing",
-        "planned_at": "2026-11-14T06:59:07.339831+00:00"
+        "planned_at": "2026-11-14T08:27:24.818215+00:00"
       },
       "previous_target_id": "30987106",
       "prepared": {
@@ -132091,6 +132085,12 @@
         "size_bytes": 2200000000,
         "prepared_at": "2026-11-11T03:37:22.059612+00:00",
         "relay_source_id": "35080468"
+      },
+      "claim": {
+        "worker_id": "abab71a8ce3b4cfc85be1cbbb1cda1bc-shard-0",
+        "claimed_at": "2026-11-14T08:27:25.435716+00:00",
+        "lease_expires_at": "2026-11-14T14:27:25.435716+00:00",
+        "run_id": "43570770208"
       }
     },
     "13773": {
@@ -150892,7 +150892,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:27:22.128901+00:00"
+        "planned_at": "2026-11-14T08:27:25.102197+00:00"
       }
     },
     "7958": {
@@ -201901,5 +201901,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:27:23.105814+00:00"
+  "updated_at": "2026-11-14T08:27:25.655023+00:00"
 }
