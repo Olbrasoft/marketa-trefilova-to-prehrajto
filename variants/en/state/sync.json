@@ -33929,13 +33929,6 @@
           "source_id": "11267704",
           "target_video_id": "30984466",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:14:01.882527+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "11267704",
-          "target_video_id": "30984466",
-          "permanent": false,
           "attempted_at": "2026-11-14T12:44:09.856921+00:00"
         },
         {
@@ -33944,6 +33937,13 @@
           "target_video_id": "30984466",
           "permanent": false,
           "attempted_at": "2026-11-14T13:14:17.483587+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "11267704",
+          "target_video_id": "30984466",
+          "permanent": false,
+          "attempted_at": "2026-11-14T13:44:30.197120+00:00"
         }
       ],
       "last_plan": {
@@ -34733,7 +34733,7 @@
       "last_plan": {
         "source_id": "16607977",
         "display_name": "Queen of Hearts (Dronningen) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T13:14:16.870050+00:00"
+        "planned_at": "2026-11-14T13:44:29.706544+00:00"
       },
       "previous_target_id": "30987463",
       "prepared": {
@@ -34741,6 +34741,12 @@
         "size_bytes": 4500000000,
         "prepared_at": "2026-11-11T04:48:37.657424+00:00",
         "relay_source_id": "16607977"
+      },
+      "claim": {
+        "worker_id": "fabaad0449b34e56b66f295a532cb4f7-shard-0",
+        "claimed_at": "2026-11-14T13:44:30.032278+00:00",
+        "lease_expires_at": "2026-11-14T19:44:30.032278+00:00",
+        "run_id": "43589661606"
       }
     },
     "18754": {
@@ -100028,5 +100034,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T13:44:22.673251+00:00"
+  "updated_at": "2026-11-14T13:44:30.197142+00:00"
 }
