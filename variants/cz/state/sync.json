@@ -119794,13 +119794,6 @@
           "source_id": "31005098",
           "target_video_id": "30984974",
           "permanent": false,
-          "attempted_at": "2026-11-14T03:22:24.818169+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "31005098",
-          "target_video_id": "30984974",
-          "permanent": false,
           "attempted_at": "2026-11-14T05:05:34.918961+00:00"
         },
         {
@@ -119809,6 +119802,13 @@
           "target_video_id": "30984974",
           "permanent": false,
           "attempted_at": "2026-11-14T06:42:09.317291+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "31005098",
+          "target_video_id": "30984974",
+          "permanent": false,
+          "attempted_at": "2026-11-14T08:16:21.097686+00:00"
         }
       ],
       "last_plan": {
@@ -122980,7 +122980,7 @@
       "last_plan": {
         "source_id": "27404870",
         "display_name": "The Falcon and the Snowman 720p CZ Dabing",
-        "planned_at": "2026-11-14T06:42:11.218151+00:00"
+        "planned_at": "2026-11-14T08:16:19.836206+00:00"
       },
       "previous_target_id": "30985506",
       "prepared": {
@@ -122988,6 +122988,12 @@
         "size_bytes": 3100000000,
         "prepared_at": "2026-11-10T19:51:05.150291+00:00",
         "relay_source_id": "27404870"
+      },
+      "claim": {
+        "worker_id": "5f965a92250a40359e2f7db0a598dd11-shard-0",
+        "claimed_at": "2026-11-14T08:16:20.503849+00:00",
+        "lease_expires_at": "2026-11-14T14:16:20.503849+00:00",
+        "run_id": "43570770208"
       }
     },
     "13691": {
@@ -150880,7 +150886,7 @@
       "last_plan": {
         "source_id": "25520840",
         "display_name": "Cirkus Maximum 1080p CZ Dabing",
-        "planned_at": "2026-11-14T08:16:17.292972+00:00"
+        "planned_at": "2026-11-14T08:16:20.150137+00:00"
       }
     },
     "7958": {
@@ -201889,5 +201895,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:16:17.675365+00:00"
+  "updated_at": "2026-11-14T08:16:21.097706+00:00"
 }
