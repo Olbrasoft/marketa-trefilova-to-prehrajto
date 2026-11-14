@@ -112830,6 +112830,12 @@
         "size_bytes": 1300000000,
         "prepared_at": "2026-11-10T15:06:52.143201+00:00",
         "relay_source_id": "29707305"
+      },
+      "claim": {
+        "worker_id": "545649119d5e47e39c2cfa267ec8b147-shard-0",
+        "claimed_at": "2026-11-14T04:42:52.594501+00:00",
+        "lease_expires_at": "2026-11-14T10:42:52.594501+00:00",
+        "run_id": "43551382365"
       }
     },
     "36907": {
@@ -122303,13 +122309,6 @@
           "source_id": "5498626",
           "target_video_id": "30985443",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:36:56.359641+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "5498626",
-          "target_video_id": "30985443",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:46:46.039520+00:00"
         },
         {
@@ -122318,6 +122317,13 @@
           "target_video_id": "30985443",
           "permanent": false,
           "attempted_at": "2026-11-14T03:04:37.897506+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "5498626",
+          "target_video_id": "30985443",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:42:53.509367+00:00"
         }
       ],
       "last_plan": {
@@ -122331,12 +122337,6 @@
         "size_bytes": 1500000000,
         "prepared_at": "2026-11-10T19:20:22.937945+00:00",
         "relay_source_id": "5498626"
-      },
-      "claim": {
-        "worker_id": "e0c5282a79dd4ebcbfcb576b7f0e73f9-shard-0",
-        "claimed_at": "2026-11-14T04:42:49.748639+00:00",
-        "lease_expires_at": "2026-11-14T10:42:49.748639+00:00",
-        "run_id": "43551382365"
       }
     },
     "2961": {
@@ -135240,7 +135240,7 @@
       "last_plan": {
         "source_id": "24800590",
         "display_name": "O princezně, která ráčkovala 1080p CZ Dabing",
-        "planned_at": "2026-11-14T03:04:43.661244+00:00"
+        "planned_at": "2026-11-14T04:42:52.841261+00:00"
       },
       "previous_target_id": "30987566",
       "prepared": {
@@ -150619,7 +150619,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:42:50.575218+00:00"
+        "planned_at": "2026-11-14T04:42:53.249371+00:00"
       }
     },
     "23345": {
@@ -201667,5 +201667,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:42:50.575232+00:00"
+  "updated_at": "2026-11-14T04:42:53.509385+00:00"
 }
