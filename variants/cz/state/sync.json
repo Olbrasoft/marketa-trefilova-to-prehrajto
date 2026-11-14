@@ -135543,13 +135543,6 @@
           "source_id": "34709626",
           "target_video_id": "30987590",
           "permanent": false,
-          "attempted_at": "2026-11-14T11:55:23.202816+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34709626",
-          "target_video_id": "30987590",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:28:17.424820+00:00"
         },
         {
@@ -135558,12 +135551,19 @@
           "target_video_id": "30987590",
           "permanent": false,
           "attempted_at": "2026-11-14T14:47:31.591396+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34709626",
+          "target_video_id": "30987590",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:00:35.815429+00:00"
         }
       ],
       "last_plan": {
         "source_id": "34709626",
         "display_name": "Over the Hills 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:47:27.749274+00:00"
+        "planned_at": "2026-11-14T16:00:33.421690+00:00"
       },
       "previous_target_id": "30987590",
       "prepared": {
@@ -152002,11 +152002,22 @@
       "last_plan": {
         "source_id": "34328568",
         "display_name": "The Seed (Die Saat) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:00:20.544152+00:00"
+        "planned_at": "2026-11-14T16:00:33.778530+00:00"
+      },
+      "claim": {
+        "worker_id": "e9b77a2ecf5a46dbac5174be99b435e6-shard-0",
+        "claimed_at": "2026-11-14T16:00:34.620992+00:00",
+        "lease_expires_at": "2026-11-14T22:00:34.620992+00:00",
+        "run_id": "43589661606"
       }
     },
     "14933": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "30779361",
+        "display_name": "Bird Atlas (Atlas ptáků) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T16:00:33.988791+00:00"
+      }
     },
     "26769": {
       "attempts": []
@@ -202836,5 +202847,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:00:29.493646+00:00"
+  "updated_at": "2026-11-14T16:00:35.815451+00:00"
 }
