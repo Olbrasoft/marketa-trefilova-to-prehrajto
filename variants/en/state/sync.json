@@ -34547,13 +34547,6 @@
           "source_id": "6556256",
           "target_video_id": "30986677",
           "permanent": false,
-          "attempted_at": "2026-11-14T16:27:55.065605+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "6556256",
-          "target_video_id": "30986677",
-          "permanent": false,
           "attempted_at": "2026-11-14T16:58:00.754859+00:00"
         },
         {
@@ -34562,6 +34555,13 @@
           "target_video_id": "30986677",
           "permanent": false,
           "attempted_at": "2026-11-14T17:28:33.331777+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "6556256",
+          "target_video_id": "30986677",
+          "permanent": false,
+          "attempted_at": "2026-11-14T17:58:41.395313+00:00"
         }
       ],
       "last_plan": {
@@ -35283,7 +35283,7 @@
       "last_plan": {
         "source_id": "17633756",
         "display_name": "Legacy, notre héritage (Legacy) 1080p CZ Titulky",
-        "planned_at": "2026-11-14T17:28:31.091213+00:00"
+        "planned_at": "2026-11-14T17:58:40.585085+00:00"
       },
       "previous_target_id": "30988551",
       "prepared": {
@@ -35291,6 +35291,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-11T08:41:44.555925+00:00",
         "relay_source_id": "17633756"
+      },
+      "claim": {
+        "worker_id": "8844f663ea3c41a5b120786f83413c12-shard-0",
+        "claimed_at": "2026-11-14T17:58:41.027711+00:00",
+        "lease_expires_at": "2026-11-14T23:58:41.027711+00:00",
+        "run_id": "43615202382"
       }
     },
     "21412": {
@@ -42345,7 +42351,7 @@
       "last_plan": {
         "source_id": "33109570",
         "display_name": "A Stitch in Time SD CZ Titulky",
-        "planned_at": "2026-11-14T17:58:37.467688+00:00"
+        "planned_at": "2026-11-14T17:58:40.912490+00:00"
       }
     },
     "25021": {
@@ -100070,5 +100076,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T17:58:37.815492+00:00"
+  "updated_at": "2026-11-14T17:58:41.395331+00:00"
 }
