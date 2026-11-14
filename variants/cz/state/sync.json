@@ -93303,13 +93303,6 @@
           "source_id": "34296350",
           "target_video_id": "30942671",
           "permanent": false,
-          "attempted_at": "2026-11-14T12:17:58.073751+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34296350",
-          "target_video_id": "30942671",
-          "permanent": false,
           "attempted_at": "2026-11-14T13:34:44.477654+00:00"
         },
         {
@@ -93318,6 +93311,13 @@
           "target_video_id": "30942671",
           "permanent": false,
           "attempted_at": "2026-11-14T14:53:59.777415+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34296350",
+          "target_video_id": "30942671",
+          "permanent": false,
+          "attempted_at": "2026-11-14T16:07:35.698403+00:00"
         }
       ],
       "last_plan": {
@@ -121472,7 +121472,7 @@
       "last_plan": {
         "source_id": "35117462",
         "display_name": "Simon Birch 1080p CZ Dabing",
-        "planned_at": "2026-11-14T14:53:59.532514+00:00"
+        "planned_at": "2026-11-14T16:07:33.872978+00:00"
       },
       "previous_target_id": "30985082",
       "prepared": {
@@ -121480,6 +121480,12 @@
         "size_bytes": 3500000000,
         "prepared_at": "2026-11-10T18:53:09.599430+00:00",
         "relay_source_id": "35117462"
+      },
+      "claim": {
+        "worker_id": "5ed5e746ed224e06ba49c7d21e8f2983-shard-0",
+        "claimed_at": "2026-11-14T16:07:34.858399+00:00",
+        "lease_expires_at": "2026-11-14T22:07:34.858399+00:00",
+        "run_id": "43589661606"
       }
     },
     "3085": {
@@ -152051,7 +152057,7 @@
       "last_plan": {
         "source_id": "35428520",
         "display_name": "The Mysteries of Gallant Wood (Les Mystères du Bois Galant) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T16:07:31.411981+00:00"
+        "planned_at": "2026-11-14T16:07:34.219068+00:00"
       }
     },
     "14283": {
@@ -202876,5 +202882,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T16:07:31.682813+00:00"
+  "updated_at": "2026-11-14T16:07:35.698425+00:00"
 }
