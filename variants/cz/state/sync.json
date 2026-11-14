@@ -125930,13 +125930,6 @@
           "source_id": "20219827",
           "target_video_id": "30985951",
           "permanent": false,
-          "attempted_at": "2026-11-14T00:33:40.311052+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "20219827",
-          "target_video_id": "30985951",
-          "permanent": false,
           "attempted_at": "2026-11-14T01:44:27.087154+00:00"
         },
         {
@@ -125945,6 +125938,13 @@
           "target_video_id": "30985951",
           "permanent": false,
           "attempted_at": "2026-11-14T02:57:49.862976+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "20219827",
+          "target_video_id": "30985951",
+          "permanent": false,
+          "attempted_at": "2026-11-14T04:40:06.123755+00:00"
         }
       ],
       "last_plan": {
@@ -130679,7 +130679,7 @@
       "last_plan": {
         "source_id": "29187766",
         "display_name": "Mistakes (Chyby) 1080p CZ Dabing",
-        "planned_at": "2026-11-14T02:57:51.566941+00:00"
+        "planned_at": "2026-11-14T04:40:02.991973+00:00"
       },
       "previous_target_id": "30986940",
       "prepared": {
@@ -130687,6 +130687,12 @@
         "size_bytes": 3000000000,
         "prepared_at": "2026-11-11T02:45:59.556429+00:00",
         "relay_source_id": "29187766"
+      },
+      "claim": {
+        "worker_id": "2fb47a1c77c84539beffd26970679247-shard-0",
+        "claimed_at": "2026-11-14T04:40:03.730188+00:00",
+        "lease_expires_at": "2026-11-14T10:40:03.730188+00:00",
+        "run_id": "43551382365"
       }
     },
     "15742": {
@@ -150619,7 +150625,7 @@
       "last_plan": {
         "source_id": "34783458",
         "display_name": "Canary (Kanárek) SD CZ Dabing",
-        "planned_at": "2026-11-14T04:39:59.739422+00:00"
+        "planned_at": "2026-11-14T04:40:03.330281+00:00"
       }
     },
     "23345": {
@@ -201667,5 +201673,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T04:40:00.193638+00:00"
+  "updated_at": "2026-11-14T04:40:06.123771+00:00"
 }
