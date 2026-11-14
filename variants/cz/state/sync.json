@@ -114031,7 +114031,7 @@
       "last_plan": {
         "source_id": "16147077",
         "display_name": "Panic Room 1080p CZ Dabing",
-        "planned_at": "2026-11-14T12:51:02.299850+00:00"
+        "planned_at": "2026-11-14T14:06:15.954252+00:00"
       },
       "previous_target_id": "30984104",
       "prepared": {
@@ -114039,6 +114039,12 @@
         "size_bytes": 2400000000,
         "prepared_at": "2026-11-10T15:27:35.431465+00:00",
         "relay_source_id": "16147077"
+      },
+      "claim": {
+        "worker_id": "00fa34c998864ff6afbc8f90ba2815bd-shard-0",
+        "claimed_at": "2026-11-14T14:06:16.961760+00:00",
+        "lease_expires_at": "2026-11-14T20:06:16.961760+00:00",
+        "run_id": "43589661606"
       }
     },
     "3064": {
@@ -136476,13 +136482,6 @@
           "source_id": "34676679",
           "target_video_id": "30987696",
           "permanent": false,
-          "attempted_at": "2026-11-14T10:06:28.423698+00:00"
-        },
-        {
-          "status": "target_processing",
-          "source_id": "34676679",
-          "target_video_id": "30987696",
-          "permanent": false,
           "attempted_at": "2026-11-14T11:17:36.698821+00:00"
         },
         {
@@ -136491,6 +136490,13 @@
           "target_video_id": "30987696",
           "permanent": false,
           "attempted_at": "2026-11-14T12:51:03.989456+00:00"
+        },
+        {
+          "status": "target_processing",
+          "source_id": "34676679",
+          "target_video_id": "30987696",
+          "permanent": false,
+          "attempted_at": "2026-11-14T14:06:18.199465+00:00"
         }
       ],
       "last_plan": {
@@ -151720,11 +151726,22 @@
       "last_plan": {
         "source_id": "34705611",
         "display_name": "Timur and His Team SD CZ Dabing",
-        "planned_at": "2026-11-14T14:06:13.113765+00:00"
+        "planned_at": "2026-11-14T14:06:16.293302+00:00"
+      },
+      "claim": {
+        "worker_id": "14b62a6bbab34e3986cff478a9fdac2a-shard-0",
+        "claimed_at": "2026-11-14T14:06:17.229679+00:00",
+        "lease_expires_at": "2026-11-14T20:06:17.229679+00:00",
+        "run_id": "43589661606"
       }
     },
     "12739": {
-      "attempts": []
+      "attempts": [],
+      "last_plan": {
+        "source_id": "34676241",
+        "display_name": "Druhý tah pescem (Druhý tah pěšcem) 1080p CZ Dabing",
+        "planned_at": "2026-11-14T14:06:16.538171+00:00"
+      }
     },
     "17190": {
       "attempts": []
@@ -202584,5 +202601,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T14:06:13.377594+00:00"
+  "updated_at": "2026-11-14T14:06:18.199485+00:00"
 }
