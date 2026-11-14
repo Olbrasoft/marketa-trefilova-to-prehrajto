@@ -150441,17 +150441,19 @@
       "attempts": []
     },
     "23607": {
-      "attempts": [],
+      "attempts": [
+        {
+          "status": "target_processing",
+          "source_id": "27668384",
+          "target_video_id": "31022574",
+          "permanent": false,
+          "attempted_at": "2026-11-14T02:16:37.209138+00:00"
+        }
+      ],
       "last_plan": {
         "source_id": "27668384",
         "display_name": "Jak chutná smrt (The Taste Of Death) 1080p CZ Dabing",
         "planned_at": "2026-11-14T02:02:37.205977+00:00"
-      },
-      "claim": {
-        "worker_id": "89e2ea5f2b844627b1d4454e337eef06-shard-0",
-        "claimed_at": "2026-11-14T02:02:39.712532+00:00",
-        "lease_expires_at": "2026-11-14T08:02:39.712532+00:00",
-        "run_id": "43526557198"
       },
       "previous_target_id": "31022574",
       "prepared": {
@@ -201516,5 +201518,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-14T02:16:35.439739+00:00"
+  "updated_at": "2026-11-14T02:16:37.209157+00:00"
 }
